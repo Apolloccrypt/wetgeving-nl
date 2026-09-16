@@ -1,122 +1,21 @@
 ---
 title: "Overeenkomst tot beëindiging van investeringsverdragen tussen de lidstaten van de Europese Unie"
 identifier: "BWBV0006867"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-03-31"
-last_updated: "2021-03-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006867"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005553113"
-version_id: "10006048652"
-internal_id: "C10009801511"
-label_id: "10005536544"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006867/2021-03-31/0"
-intitule_bron: "Trb.2020-52"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-05-20"
-intitule_in_force: "2021-03-26"
-intitule_status: "goed"
-original_publication: "Trb.2020-52"
-original_published_date: "2020-05-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2020-52"
-entry_into_force_date: "2021-03-31"
-jci_1_3: "jci1.3:c:BWBV0006867&z=2021-03-31&g=2021-03-31"
-jci_1_0: "1.0:c:BWBV0006867&g=2021-03-31"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-03-31"
+publicatiedatum: 2021-03-31
+laatste_update: 2021-03-31
+status: geldig
+toestand: 2021-03-31
+bron: "https://wetten.overheid.nl/BWBV0006867"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst tot beëindiging van investeringsverdragen tussen de lidstaten van de Europese Unie
 
-De overeenkomstsluitende partijen,
+*De overeenkomstsluitende partijen, het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië en de Slowaakse Republiek, Indachtig het Verdrag betreffende de Europese Unie (VEU) en het Verdrag betreffende de werking van de Europese Unie (VWEU) en algemene beginselen van het Unierecht, Indachtig de regels van internationaal gewoonterecht zoals neergelegd in het Verdrag van Wenen inzake het verdragenrecht (VWVR), Eraan herinnerend dat het Hof van Justitie van de Europese Unie (HvJ-EU) in zaak C-478/07 Budĕjovický Budvar heeft gesteld dat bepalingen van een internationale overeenkomst tussen twee lidstaten geen toepassing kunnen vinden in de verhoudingen tussen deze twee staten indien die bepalingen strijdig blijken te zijn met de EU-Verdragen, Overwegende dat, conform de op de lidstaten rustende verplichting om hun rechtsorde in overeenstemming met het Unierecht te brengen, zij alle nodige consequenties moeten trekken uit het Unierecht zoals dat in het arrest van het HvJ-EU in zaak C-284/16 Achmea (het Achmea-arrest) is uitgelegd, Overwegende dat bedingen inzake arbitrage tussen investeerder en staat in bilaterale investeringsverdragen tussen de lidstaten van de Europese Unie (bilaterale investeringsverdragen binnen de EU) strijdig zijn met de EU-Verdragen en, als gevolg van deze onverenigbaarheid, geen toepassing kunnen vinden na de datum waarop de laatste van de partijen bij een bilateraal investeringsverdrag binnen de EU een lidstaat van de Europese Unie is geworden, Geleid door hun gezamenlijke opvatting uitgedrukt in deze overeenkomst tussen de Partijen bij de EU-Verdragen en bilaterale investeringsverdragen binnen de EU dat, dientengevolge, een dergelijk beding niet als rechtsgrondslag voor Arbitrageprocedures kan dienen, Het erover eens zijnde dat deze overeenkomst betrekking dient te hebben op alle op bilaterale investeringsverdragen binnen de EU gebaseerde arbitrageprocedures tussen investeerder en staat uit hoofde van enigerlei arbitrageverdrag of reeks arbitrageregels, met inbegrip van het Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen staten en onderdanen van andere staten (het ICSID-verdrag) en de ICSID-arbitrageregels, de arbitrageregels van het Permanent Hof van Arbitrage (PHA), de arbitrageregels van het Arbitrage-instituut van de Kamer van Koophandel te Stockholm (Stockholm Chamber of Commerce, SCC), de arbitrageregels van de Internationale Kamer van Koophandel (IKK), de arbitrageregels van de Commissie van de Verenigde Naties voor internationaal handelsrecht (United Nations Commission on International Trade Law, Uncitral) en ad-hocarbitrage, Vaststellend dat sommige bilaterale investeringsverdragen binnen de EU, met inbegrip van de daarin vervatte horizonclausules, reeds bilateraal zijn beëindigd, en dat andere bilaterale investeringsverdragen binnen de EU reeds unilateraal zijn beëindigd en dat de toepassingsperiode van de daarin vervatte horizonclausules is verstreken, Het ermee eens zijnde dat deze overeenkomst de kwestie van de verenigbaarheid met de EU-Verdragen van materiële bepalingen van bilaterale investeringsverdragen binnen de EU onverlet laat, Overwegende dat deze overeenkomst betrekking heeft op bilaterale investeringsverdragen binnen de EU; zij heeft geen betrekking op procedures binnen de EU op grond van artikel 26 van het Verdrag inzake het Energiehandvest. De Europese Unie en haar lidstaten zullen zich op een later moment over deze aangelegenheid buigen, Overwegende dat wanneer investeerders uit de lidstaten een van de fundamentele vrijheden, zoals de vrijheid van vestiging of het vrije verkeer van kapitaal, uitoefenen, zij binnen de werkingssfeer van het Unierecht handelen en derhalve de bescherming genieten die wordt geboden door deze vrijheden en, in voorkomend geval, door het desbetreffende afgeleide recht, door het Handvest van de grondrechten van de Europese Unie en door de algemene beginselen van het Unierecht, waaronder met name de beginselen van non-discriminatie, evenredigheid, rechtszekerheid en bescherming van het gewettigd vertrouwen (arrest van het HvJ-EU in zaak C-390/12 Pfleger, punten 30 tot en met 37). Indien een lidstaat een maatregel vaststelt die afwijkt van een van de door het Unierecht gewaarborgde fundamentele vrijheden, valt die maatregel binnen de werkingssfeer van het Unierecht en zijn de door het Handvest gewaarborgde grondrechten eveneens van toepassing (arrest van het HvJ-EU in zaak C-685/15 Online Games Handels, punten 55 en 56), Eraan herinnerend dat de lidstaten overeenkomstig artikel 19, lid 1, tweede alinea, VEU verplicht zijn in de nodige rechtsmiddelen te voorzien om daadwerkelijke rechtsbescherming van de rechten van investeerders op grond van het Unierecht te verzekeren. Elke lidstaat moet er met name voor zorgen dat zijn rechterlijke instanties, in de zin van het Unierecht, aan de vereisten van een daadwerkelijke rechtsbescherming voldoen (arrest van het HvJ-EU in zaak C-64/16 Associação Sindical dos Juízes Portugueses, punten 31 tot en met 37), Eraan herinnerend dat geschillen tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of toepassing van deze overeenkomst overeenkomstig artikel 273 VWEU geen betrekking hebben op de rechtmatigheid van de maatregel die het voorwerp uitmaakt van arbitrageprocedures tussen investeerder en staat op grond van een onder deze overeenkomst vallend Bilateraal Investeringsverdrag, In aanmerking nemende dat de bepalingen van deze overeenkomst de mogelijkheid onverlet laten dat de Europese Commissie of een lidstaat op grond van de artikelen 258, 259 en 260 VWEU een zaak voor het HvJ-EU brengt, Eraan herinnerend dat in het licht van de conclusies van de Raad (Ecofin) van 11 juli 2017 de lidstaten en de Commissie de besprekingen onverwijld zullen intensiveren om een volledige, krachtige en effectieve bescherming van investeringen binnen de Europese Unie beter te waarborgen. Deze besprekingen hebben onder meer betrekking op de beoordeling van bestaande processen en mechanismen voor geschillenbeslechting, alsook op de noodzaak en, indien de noodzaak is vastgesteld, de middelen om in het kader van het Unierecht nieuwe instrumenten en mechanismen te creëren of ter zake bestaande instrumenten en mechanismen te verbeteren, Eraan herinnerend dat deze overeenkomst verdere maatregelen en acties onverlet laat die in het kader van het Unierecht noodzakelijk kunnen zijn om een hogere mate van bescherming van grensoverschrijdende investeringen binnen de Europese Unie te verzekeren en om een voorspelbaarder, stabieler en duidelijker regelgevingsklimaat tot stand te brengen teneinde investeringen binnen de interne markt te stimuleren, Overwegende dat de in deze overeenkomst voorkomende verwijzingen naar de Europese Unie ook moeten worden opgevat als verwijzingen naar de voorganger ervan, de Europese Economische Gemeenschap en, vervolgens, de Europese Gemeenschap, totdat deze door de Europese Unie is opgevolgd, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië
-
-en de Slowaakse Republiek,
-
-Indachtig het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) (VEU) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) (VWEU) en algemene beginselen van het Unierecht,
-
-Indachtig de regels van internationaal gewoonterecht zoals neergelegd in het Verdrag van Wenen inzake het verdragenrecht (VWVR),
-
-Eraan herinnerend dat het Hof van Justitie van de Europese Unie (HvJ-EU) in zaak C-478/07 Budĕjovický Budvar heeft gesteld dat bepalingen van een internationale overeenkomst tussen twee lidstaten geen toepassing kunnen vinden in de verhoudingen tussen deze twee staten indien die bepalingen strijdig blijken te zijn met de EU-Verdragen,
-
-Overwegende dat, conform de op de lidstaten rustende verplichting om hun rechtsorde in overeenstemming met het Unierecht te brengen, zij alle nodige consequenties moeten trekken uit het Unierecht zoals dat in het arrest van het HvJ-EU in zaak C-284/16 **Achmea** (het **Achmea**-arrest) is uitgelegd,
-
-Overwegende dat bedingen inzake arbitrage tussen investeerder en staat in bilaterale investeringsverdragen tussen de lidstaten van de Europese Unie (bilaterale investeringsverdragen binnen de EU) strijdig zijn met de EU-Verdragen en, als gevolg van deze onverenigbaarheid, geen toepassing kunnen vinden na de datum waarop de laatste van de partijen bij een bilateraal investeringsverdrag binnen de EU een lidstaat van de Europese Unie is geworden,
-
-Geleid door hun gezamenlijke opvatting uitgedrukt in deze overeenkomst tussen de Partijen bij de EU-Verdragen en bilaterale investeringsverdragen binnen de EU dat, dientengevolge, een dergelijk beding niet als rechtsgrondslag voor Arbitrageprocedures kan dienen,
-
-Het erover eens zijnde dat deze overeenkomst betrekking dient te hebben op alle op bilaterale investeringsverdragen binnen de EU gebaseerde arbitrageprocedures tussen investeerder en staat uit hoofde van enigerlei arbitrageverdrag of reeks arbitrageregels, met inbegrip van het [Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen staten en onderdanen van andere staten](https://wetten.overheid.nl/jci1.3:c:BWBV0004615) (het ICSID-verdrag) en de ICSID-arbitrageregels, de arbitrageregels van het Permanent Hof van Arbitrage (PHA), de arbitrageregels van het Arbitrage-instituut van de Kamer van Koophandel te Stockholm (Stockholm Chamber of Commerce, SCC), de arbitrageregels van de Internationale Kamer van Koophandel (IKK), de arbitrageregels van de Commissie van de Verenigde Naties voor internationaal handelsrecht (United Nations Commission on International Trade Law, Uncitral) en ad-hocarbitrage,
-
-Vaststellend dat sommige bilaterale investeringsverdragen binnen de EU, met inbegrip van de daarin vervatte horizonclausules, reeds bilateraal zijn beëindigd, en dat andere bilaterale investeringsverdragen binnen de EU reeds unilateraal zijn beëindigd en dat de toepassingsperiode van de daarin vervatte horizonclausules is verstreken,
-
-Het ermee eens zijnde dat deze overeenkomst de kwestie van de verenigbaarheid met de EU-Verdragen van materiële bepalingen van bilaterale investeringsverdragen binnen de EU onverlet laat,
-
-Overwegende dat deze overeenkomst betrekking heeft op bilaterale investeringsverdragen binnen de EU; zij heeft geen betrekking op procedures binnen de EU op grond van [artikel 26 van het Verdrag inzake het Energiehandvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001155&artikel=26). De Europese Unie en haar lidstaten zullen zich op een later moment over deze aangelegenheid buigen,
-
-Overwegende dat wanneer investeerders uit de lidstaten een van de fundamentele vrijheden, zoals de vrijheid van vestiging of het vrije verkeer van kapitaal, uitoefenen, zij binnen de werkingssfeer van het Unierecht handelen en derhalve de bescherming genieten die wordt geboden door deze vrijheden en, in voorkomend geval, door het desbetreffende afgeleide recht, door het Handvest van de grondrechten van de Europese Unie en door de algemene beginselen van het Unierecht, waaronder met name de beginselen van non-discriminatie, evenredigheid, rechtszekerheid en bescherming van het gewettigd vertrouwen (arrest van het HvJ-EU in zaak C-390/12 **Pfleger**, punten 30 tot en met 37). Indien een lidstaat een maatregel vaststelt die afwijkt van een van de door het Unierecht gewaarborgde fundamentele vrijheden, valt die maatregel binnen de werkingssfeer van het Unierecht en zijn de door het Handvest gewaarborgde grondrechten eveneens van toepassing (arrest van het HvJ-EU in zaak C-685/15 **Online Games Handels**, punten 55 en 56),
-
-Eraan herinnerend dat de lidstaten overeenkomstig [artikel 19, lid 1, tweede alinea, VEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=19) verplicht zijn in de nodige rechtsmiddelen te voorzien om daadwerkelijke rechtsbescherming van de rechten van investeerders op grond van het Unierecht te verzekeren. Elke lidstaat moet er met name voor zorgen dat zijn rechterlijke instanties, in de zin van het Unierecht, aan de vereisten van een daadwerkelijke rechtsbescherming voldoen (arrest van het HvJ-EU in zaak C-64/16 **Associação Sindical dos Juízes Portugueses**, punten 31 tot en met 37),
-
-Eraan herinnerend dat geschillen tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of toepassing van deze overeenkomst overeenkomstig [artikel 273 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=273) geen betrekking hebben op de rechtmatigheid van de maatregel die het voorwerp uitmaakt van arbitrageprocedures tussen investeerder en staat op grond van een onder deze overeenkomst vallend Bilateraal Investeringsverdrag,
-
-In aanmerking nemende dat de bepalingen van deze overeenkomst de mogelijkheid onverlet laten dat de Europese Commissie of een lidstaat op grond van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=258), [259](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=259) en [260 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=260) een zaak voor het HvJ-EU brengt,
-
-Eraan herinnerend dat in het licht van de conclusies van de Raad (Ecofin) van 11 juli 2017 de lidstaten en de Commissie de besprekingen onverwijld zullen intensiveren om een volledige, krachtige en effectieve bescherming van investeringen binnen de Europese Unie beter te waarborgen. Deze besprekingen hebben onder meer betrekking op de beoordeling van bestaande processen en mechanismen voor geschillenbeslechting, alsook op de noodzaak en, indien de noodzaak is vastgesteld, de middelen om in het kader van het Unierecht nieuwe instrumenten en mechanismen te creëren of ter zake bestaande instrumenten en mechanismen te verbeteren,
-
-Eraan herinnerend dat deze overeenkomst verdere maatregelen en acties onverlet laat die in het kader van het Unierecht noodzakelijk kunnen zijn om een hogere mate van bescherming van grensoverschrijdende investeringen binnen de Europese Unie te verzekeren en om een voorspelbaarder, stabieler en duidelijker regelgevingsklimaat tot stand te brengen teneinde investeringen binnen de interne markt te stimuleren,
-
-Overwegende dat de in deze overeenkomst voorkomende verwijzingen naar de Europese Unie ook moeten worden opgevat als verwijzingen naar de voorganger ervan, de Europese Economische Gemeenschap en, vervolgens, de Europese Gemeenschap, totdat deze door de Europese Unie is opgevolgd,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
-
-### AFDELING 1. DEFINITIES
+#### AFDELING 1. DEFINITIES
 
 ##### Artikel 1. Definities
 
@@ -128,19 +27,19 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 - 3. „Arbitragebeding”: een beding inzake arbitrage tussen investeerder en staat dat is neergelegd in een Bilateraal Investeringsverdrag dat in Arbitrageprocedures voorziet;
 
-- 4. „Beëindigde Arbitrageprocedures”: alle Arbitrageprocedures die zijn geëindigd met een schikkingsovereenkomst of met een definitieve uitspraak die vóór 6 maart 2018 is gedaan en waarbij:
+- 4. „Beëindigde Arbitrageprocedures”: alle Arbitrageprocedures die zijn geëindigd met een schikkingsovereenkomst of met een definitieve uitspraak die vóór 6 maart 2018 is gedaan en waarbij:
 
-- a. vóór 6 maart 2018 op regelmatige wijze aan de uitspraak uitvoering is gegeven, ook al is een daarmee verband houdende vordering tot betaling van gerechtskosten nog niet uitgevoerd of ten uitvoer gelegd, en er op 6 maart 2018 geen betwistings-, heroverwegings-, seponerings-, vernietigings-, tenuitvoerleggings-, herzienings- of andere soortgelijke procedure in verband met een dergelijke definitieve uitspraak aanhangig was, of
+   - a. vóór 6 maart 2018 op regelmatige wijze aan de uitspraak uitvoering is gegeven, ook al is een daarmee verband houdende vordering tot betaling van gerechtskosten nog niet uitgevoerd of ten uitvoer gelegd, en er op 6 maart 2018 geen betwistings-, heroverwegings-, seponerings-, vernietigings-, tenuitvoerleggings-, herzienings- of andere soortgelijke procedure in verband met een dergelijke definitieve uitspraak aanhangig was, of
 
-- b. de uitspraak vóór de datum van inwerkingtreding van deze overeenkomst was geseponeerd of vernietigd;
+   - b. de uitspraak vóór de datum van inwerkingtreding van deze overeenkomst was geseponeerd of vernietigd;
 
-- 5. „Aanhangige Arbitrageprocedures”: alle Arbitrageprocedures die vóór 6 maart 2018 zijn ingeleid en die niet in aanmerking komen als Beëindigde Arbitrageprocedures, ongeacht het stadium waarin deze zich op de datum van inwerkingtreding van deze overeenkomst bevinden;
+- 5. „Aanhangige Arbitrageprocedures”: alle Arbitrageprocedures die vóór 6 maart 2018 zijn ingeleid en die niet in aanmerking komen als Beëindigde Arbitrageprocedures, ongeacht het stadium waarin deze zich op de datum van inwerkingtreding van deze overeenkomst bevinden;
 
-- 6. „Nieuwe Arbitrageprocedures”: alle Arbitrageprocedures die op of na 6 maart 2018 zijn ingeleid;
+- 6. „Nieuwe Arbitrageprocedures”: alle Arbitrageprocedures die op of na 6 maart 2018 zijn ingeleid;
 
 - 7. „Horizonclausule”: elke bepaling in een Bilateraal Investeringsverdrag die gedurende een verdere periode de bescherming verlengt van investeringen die vóór de datum van beëindiging van dat verdrag zijn gedaan.
 
-### AFDELING 2. BEPALINGEN BETREFFENDE DE BEËINDIGING VAN BILATERALE INVESTERINGSVERDRAGEN
+#### AFDELING 2. BEPALINGEN BETREFFENDE DE BEËINDIGING VAN BILATERALE INVESTERINGSVERDRAGEN
 
 ##### Artikel 2. Beëindiging van Bilaterale Investeringsverdragen
 
@@ -158,7 +57,7 @@ Horizonclausules van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0
 
 2. De beëindiging in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=2&z=2021-03-31&g=2021-03-31) van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=A&z=2021-03-31&g=2021-03-31) genoemde Bilaterale Investeringsverdragen en de beëindiging in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=3&z=2021-03-31&g=2021-03-31) van Horizonclausules van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=B&z=2021-03-31&g=2021-03-31) genoemde Bilaterale Investeringsverdragen worden voor elk dergelijk verdrag van kracht zodra deze overeenkomst voor de betrokken Overeenkomstsluitende Partijen overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=16&z=2021-03-31&g=2021-03-31) in werking treedt.
 
-### AFDELING 3. BEPALINGEN BETREFFENDE VORDERINGEN OP GROND VAN BILATERALE INVESTERINGSVERDRAGEN
+#### AFDELING 3. BEPALINGEN BETREFFENDE VORDERINGEN OP GROND VAN BILATERALE INVESTERINGSVERDRAGEN
 
 ##### Artikel 5. Nieuwe Arbitrageprocedures
 
@@ -168,13 +67,13 @@ Arbitragebedingen dienen niet als rechtsgrondslag voor Nieuwe Arbitrageprocedure
 
 1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=4&z=2021-03-31&g=2021-03-31) doet deze overeenkomst geen afbreuk aan Beëindigde Arbitrageprocedures. Deze procedures worden niet heropend.
 
-2. Daarnaast doet deze overeenkomst geen afbreuk aan elke overeenkomst om een geschil ten aanzien waarvan vóór 6 maart 2018 een Arbitrageprocedure is ingeleid, in der minne te schikken.
+2. Daarnaast doet deze overeenkomst geen afbreuk aan elke overeenkomst om een geschil ten aanzien waarvan vóór 6 maart 2018 een Arbitrageprocedure is ingeleid, in der minne te schikken.
 
 ##### Artikel 7. Plichten van de Overeenkomstsluitende Partijen in verband met Aanhangige Arbitrageprocedures en Nieuwe Arbitrageprocedures
 
 Ingeval de Overeenkomstsluitende Partijen partijen zijn bij Bilaterale Investeringsverdragen op grond waarvan Aanhangige Arbitrageprocedures of Nieuwe Arbitrageprocedures zijn ingeleid, zijn zij ertoe gehouden:
 
-- a. in onderlinge samenwerking en met gebruikmaking van de verklaring in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=C&z=2021-03-31&g=2021-03-31), scheidsgerechten te informeren over de rechtsgevolgen van het **Achmea**-arrest zoals beschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=4&z=2021-03-31&g=2021-03-31); en
+- a. in onderlinge samenwerking en met gebruikmaking van de verklaring in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&bijlage=C&z=2021-03-31&g=2021-03-31), scheidsgerechten te informeren over de rechtsgevolgen van het *Achmea*-arrest zoals beschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=2&artikel=4&z=2021-03-31&g=2021-03-31); en
 
 - b. ingeval zij partij zijn in een gerechtelijke procedure betreffende een arbitrale uitspraak die op grond van een Bilateraal Investeringsverdrag is gedaan, de bevoegde nationale rechter – ook als het om een rechter uit een derde land gaat – te vragen om, al naargelang het geval, de arbitrale uitspraak te seponeren of te vernietigen, dan wel zich te onthouden van de erkenning of tenuitvoerlegging ervan.
 
@@ -230,9 +129,9 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 - a. moeten:
 
-- i. een op de investeerder rustende verplichting omvatten om de arbitragevordering in te trekken of om van de uitvoering van een reeds gedane maar nog niet definitief ten uitvoer gelegde of uitgevoerde uitspraak af te zien, dan wel, in voorkomend geval, om rekening te houden met elke compensatie die eerder in de Aanhangige Arbitrageprocedure is betaald teneinde dubbele compensatie te vermijden, en
+   - i. een op de investeerder rustende verplichting omvatten om de arbitragevordering in te trekken of om van de uitvoering van een reeds gedane maar nog niet definitief ten uitvoer gelegde of uitgevoerde uitspraak af te zien, dan wel, in voorkomend geval, om rekening te houden met elke compensatie die eerder in de Aanhangige Arbitrageprocedure is betaald teneinde dubbele compensatie te vermijden, en
 
-- ii. een verbintenis omvatten om af te zien van de inleiding van Nieuwe Arbitrageprocedures, en
+   - ii. een verbintenis omvatten om af te zien van de inleiding van Nieuwe Arbitrageprocedures, en
 
 - b. kunnen een bepaling omvatten waarin afstand wordt gedaan van alle andere rechten en vorderingen in verband met de maatregel die het voorwerp van de in lid 1 bedoelde procedure uitmaakt.
 
@@ -242,11 +141,11 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 - a. de investeerder de Aanhangige Arbitrageprocedure intrekt en afstand doet van alle rechten en vorderingen uit hoofde van het desbetreffende Bilaterale Investeringsverdrag, dan wel afziet van de uitvoering van een reeds gedane maar nog niet definitief ten uitvoer gelegde of uitgevoerde uitspraak en zich ertoe verbindt af te zien van de inleiding van een Nieuwe Arbitrageprocedure:
 
-- i. binnen zes maanden na de beëindiging van het Bilaterale Investeringsverdrag op grond waarvan de Aanhangige Arbitrageprocedure is ingeleid, ingeval geen gebruik is gemaakt van de gestructureerde dialoog waarin [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31) voorziet;
+   - i. binnen zes maanden na de beëindiging van het Bilaterale Investeringsverdrag op grond waarvan de Aanhangige Arbitrageprocedure is ingeleid, ingeval geen gebruik is gemaakt van de gestructureerde dialoog waarin [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31) voorziet;
 
-- ii. binnen zes maanden, te rekenen vanaf de datum waarop de betrokken Overeenkomstsluitende Partij het verzoek van de investeerder afwijst om overeenkomstig [artikel 9, leden 1 en 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31), een gestructureerde dialoog aan te gaan; of
+   - ii. binnen zes maanden, te rekenen vanaf de datum waarop de betrokken Overeenkomstsluitende Partij het verzoek van de investeerder afwijst om overeenkomstig [artikel 9, leden 1 en 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31), een gestructureerde dialoog aan te gaan; of
 
-- iii. binnen zes maanden, te rekenen vanaf de datum waarop de laatste van de partijen overeenkomstig [artikel 9, lid 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31), haar beslissing meedeelt, ingeval is gebruikgemaakt van de gestructureerde dialoog waarin artikel 9 voorziet;
+   - iii. binnen zes maanden, te rekenen vanaf de datum waarop de laatste van de partijen overeenkomstig [artikel 9, lid 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=3&artikel=9&z=2021-03-31&g=2021-03-31), haar beslissing meedeelt, ingeval is gebruikgemaakt van de gestructureerde dialoog waarin artikel 9 voorziet;
 
 - b. van de toegang tot de nationale rechter zal worden gebruikgemaakt om een vordering op grond van het nationale of het Unierecht in te stellen; en
 
@@ -260,7 +159,7 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 5. De nationale rechter houdt rekening met elke compensatie die eerder in de Aanhangige Arbitrageprocedure is betaald teneinde dubbele compensatie te vermijden.
 
-### AFDELING 4. SLOTBEPALINGEN
+#### AFDELING 4. SLOTBEPALINGEN
 
 ##### Artikel 11. Depositaris
 
@@ -276,7 +175,7 @@ In voorkomend geval moet in het antwoord door de betrokken Overeenkomstsluitende
 
 - d. de datum van inwerkingtreding van deze overeenkomst voor elke Overeenkomstsluitende Partij krachtens [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006867&afdeling=4&artikel=16&z=2021-03-31&g=2021-03-31).
 
-3. De secretaris-generaal van de Raad van de Europese Unie maakt deze overeenkomst bekend in het **Publicatieblad van de Europese Unie**.
+3. De secretaris-generaal van de Raad van de Europese Unie maakt deze overeenkomst bekend in het *Publicatieblad van de Europese Unie*.
 
 ##### Artikel 12. Bijlagen
 

@@ -1,115 +1,18 @@
 ---
 title: "Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds, om rekening te houden met de toetreding van Kroatië tot de Europese Unie"
 identifier: "BWBV0006903"
-country: "nl"
-rank: "verdrag"
-publication_date: "2020-11-26"
-last_updated: "2020-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006903"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005583113"
-version_id: "10006110722"
-internal_id: "C10009806821"
-label_id: "10005565084"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006903/2020-11-26/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0006903&z=2020-11-26&g=2020-11-26"
-jci_1_0: "1.0:c:BWBV0006903&g=2020-11-26"
-citeertitel_status: "redactioneel"
+laatste_update: 2020-11-26
+status: geldig
+toestand: 2020-11-26
+bron: "https://wetten.overheid.nl/BWBV0006903"
+opgehaald: 2026-09-16
 ---
+
 # Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds, om rekening te houden met de toetreding van Kroatië tot de Europese Unie
 
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkijk van Groot-Brittannië en Noord-Ierland,
-
-partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en bij het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna de „lidstaten van de Europese Unie” genoemd,
-
-en
-
-de Europese Unie,
-
-enerzijds, en
-
-de Republiek Costa Rica,
-
-de Republiek El Salvador,
-
-de Republiek Guatemala,
-
-de Republiek Honduras,
-
-de Republiek Nicaragua,
-
-de Republiek Panama,
-
-hierna ook „Midden-Amerika” genoemd,
-
-anderzijds,
-
-Overwegende dat de [Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0005882) (hierna „de overeenkomst” genoemd) op 29 juni 2012 te Tegucigalpa, Honduras, is ondertekend en dat [deel IV (Handel) van die overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005882&deel=IV) op grond van [artikel 353, lid 4, van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005882&artikel=353) is toegepast tussen de EU-partij en Honduras, Nicaragua en Panama sinds 1 augustus 2013, sinds 1 oktober 2013 tussen de EU-partij en Costa Rica en El Salvador en sinds 1 december 2013 tussen de EU-partij en Guatemala;
-
-Overwegende dat het [Verdrag betreffende de toetreding van de Republiek Kroatië (hierna „Kroatië” genoemd) tot de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005638) (hierna het „Toetredingsverdrag” genoemd) op 9 december 2011 te Brussel is ondertekend en op 1 juli 2013 in werking is getreden,
-
-Overwegende dat op grond van [artikel 6, lid 2, van de Toetredingsakte van Kroatië](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=6) zijn toetreding tot de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005882) wordt geformaliseerd door de sluiting van een protocol bij de overeenkomst,
-
-Overwegende dat in [artikel 358, lid 2, van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005882&artikel=358) is bepaald dat de partijen overeenstemming kunnen bereiken over andere wijzigingen van de overeenkomst en dat [artikel 359 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005882&artikel=359) voorziet in de toetreding van nieuwe lidstaten tot de Europese Unie en bepalingen vaststelt om de gevolgen van een dergelijke toetreding voor de overeenkomst aan te pakken,
-
-Zijn het volgende overeengekomen:
+*het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkijk van Groot-Brittannië en Noord-Ierland, partijen bij het Verdrag betreffende de Europese Unie en bij het Verdrag betreffende de werking van de Europese Unie, hierna de „lidstaten van de Europese Unie” genoemd, en de Europese Unie, enerzijds, en de Republiek Costa Rica, de Republiek El Salvador, de Republiek Guatemala, de Republiek Honduras, de Republiek Nicaragua, de Republiek Panama, hierna ook „Midden-Amerika” genoemd, anderzijds, Overwegende dat de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds (hierna „de overeenkomst” genoemd) op 29 juni 2012 te Tegucigalpa, Honduras, is ondertekend en dat deel IV (Handel) van die overeenkomst op grond van artikel 353, lid 4, van de overeenkomst is toegepast tussen de EU-partij en Honduras, Nicaragua en Panama sinds 1 augustus 2013, sinds 1 oktober 2013 tussen de EU-partij en Costa Rica en El Salvador en sinds 1 december 2013 tussen de EU-partij en Guatemala; Overwegende dat het Verdrag betreffende de toetreding van de Republiek Kroatië (hierna „Kroatië” genoemd) tot de Europese Unie (hierna het „Toetredingsverdrag” genoemd) op 9 december 2011 te Brussel is ondertekend en op 1 juli 2013 in werking is getreden, Overwegende dat op grond van artikel 6, lid 2, van de Toetredingsakte van Kroatië zijn toetreding tot de overeenkomst wordt geformaliseerd door de sluiting van een protocol bij de overeenkomst, Overwegende dat in artikel 358, lid 2, van de overeenkomst is bepaald dat de partijen overeenstemming kunnen bereiken over andere wijzigingen van de overeenkomst en dat artikel 359 van de overeenkomst voorziet in de toetreding van nieuwe lidstaten tot de Europese Unie en bepalingen vaststelt om de gevolgen van een dergelijke toetreding voor de overeenkomst aan te pakken, Zijn het volgende overeengekomen:*
 
 ### SECTIE I. DE PARTIJEN
 
@@ -121,17 +24,17 @@ Kroatië wordt partij bij de overeenkomst en wordt toegevoegd aan de lijst van p
 
 ##### Artikel 2
 
-Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
+*Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.*
 
 ### SECTIE III. BETREFFENDE DE DEFINITIE VAN HET BEGRIP „PRODUCTEN VAN OORSPRONG” EN REGELINGEN VOOR ADMINISTRATIEVE SAMENWERKING
 
 ##### Artikel 3
 
-Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
+*Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.*
 
 ##### Artikel 4
 
-Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
+*Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.*
 
 ##### Artikel 5
 
@@ -143,25 +46,25 @@ Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen d
 
 ##### Artikel 6
 
-Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
+*Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.*
 
 ##### Artikel 7
 
-Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
+*Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.*
 
 ##### Artikel 8
 
-Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
+*Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.*
 
 ##### Artikel 9
 
-Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
+*Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.*
 
 ### SECTIE V. OVERHEIDSOPDRACHTEN
 
 ##### Artikel 10
 
-Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.
+*Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds; Tegucigalpa, 29 juni 2012.*
 
 ### SECTIE VI. WTO
 
@@ -179,7 +82,7 @@ De republieken van de MA-partij verbinden zich ertoe in verband met de toetredin
 
 3. Niettegenstaande lid 2 kunnen de bepalingen van dit protocol door de Europese Unie en door elk van de republieken van de MA-partij worden toegepast vanaf de eerste dag van de maand die volgt op de datum waarop zij elkaar in kennis hebben gesteld van de voltooiing van de daarvoor vereiste interne wettelijke procedures.
 
-4. De in de leden 2 en 3 bedoelde kennisgevingen worden, wat de EU-partij betreft, gericht aan de secretaris-generaal van de Raad van de Europese Unie en, in het geval van de republieken van de MA-partij, aan de **Secretaría General del Sistema de la Integración Centroamericana** (SG-SICA), die de depositarissen van dit protocol zijn.
+4. De in de leden 2 en 3 bedoelde kennisgevingen worden, wat de EU-partij betreft, gericht aan de secretaris-generaal van de Raad van de Europese Unie en, in het geval van de republieken van de MA-partij, aan de *Secretaría General del Sistema de la Integración Centroamericana* (SG-SICA), die de depositarissen van dit protocol zijn.
 
 5. De partijen waarvoor dit protocol in werking is getreden, kunnen ook gebruikmaken van materialen van oorsprong uit een republiek van de MA-partij waarvoor dit protocol niet van kracht is.
 

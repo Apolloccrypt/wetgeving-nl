@@ -1,127 +1,92 @@
 ---
 title: "Kaderovereenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake militaire samenwerking"
 identifier: "BWBV0006174"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-08-01"
-last_updated: "2025-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006174"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10005073023"
-version_id: "10005409802"
-internal_id: "C10010203151"
-label_id: "10005056054"
-dtd_version: "2.0"
-original_entry_into_force: "2025-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006174/2025-08-01/0"
-intitule_bron: "Trb.2013-95"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-06-06"
-intitule_in_force: "2025-08-21"
-intitule_status: "goed"
-original_publication: "Trb.2013-95"
-original_published_date: "2013-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2013-95"
-entry_into_force_date: "2025-08-01"
-jci_1_3: "jci1.3:c:BWBV0006174&z=2025-08-01&g=2025-08-01"
-jci_1_0: "1.0:c:BWBV0006174&g=2025-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-08-01"
+publicatiedatum: 2025-08-01
+laatste_update: 2025-08-01
+status: geldig
+toestand: 2025-08-01
+bron: "https://wetten.overheid.nl/BWBV0006174"
+opgehaald: 2026-09-16
 ---
+
 # Kaderovereenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake militaire samenwerking
 
-Het Koninkrijk der Nederlanden
+*Le Royaume des Pays-Bas et le Royaume du Maroc, Ci-après dénommés «les Parties», – Réaffirmant leur engagement en faveur de la Charte des Nations Unies et du droit international, – Ayant à l’esprit leur intérêt commun dans la paix internationale, – Désirant renforcer leurs bonnes et cordiales relations, – Exprimant la volonté de développer des liens de coopération sur des sujets d’intérêt commun, Sont convenus des dispositions suivantes:*
 
-en
+##### Article 1
 
-het Koninkrijk Marokko,
+Cet Accord établit le cadre d’une coopération militaire entre les Parties dans les domaines ci-après:
 
-hierna te noemen „de partijen”,
+- 1. Politique de sécurité et de défense;
 
-Opnieuw bevestigend hun verplichtingen voor het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en het internationaal recht,
+- 2. Echange de visites d'officiels et de délégations à différents niveaux;
 
-Indachtig hun gemeenschappelijk belang bij de internationale vrede,
+- 3. Echange de professionnels et experts dans le domaine militaire;
 
-Geleid door de wens hun goede en vriendschappelijke banden te intensiveren,
+- 4. Participation à des cours et stages auprès des écoles et centres de formation militaires;
 
-De wens tot uitdrukking brengend samenwerkingsbanden met betrekking tot onderwerpen van gemeenschappelijk belang te ontwikkelen,
+- 5. Participation à des exercices d'entraînements bilatéraux;
 
-Zijn het volgende overeengekomen:
+- 6. Industrie de défense;
 
-##### Artikel 1
+- 7. Science et technologie, recherche, développement, transfert et acquisition de matériels de défense;
 
-In deze Overeenkomst wordt het kader vastgesteld voor militaire samenwerking tussen de partijen op de volgende gebieden:
+- 8. Coopération technique;
 
-- 1. Veiligheids- en defensiebeleid;
+- 9. Coopération dans les domaines relatifs aux opérations de paix;
 
-- 2. Uitwisseling van officiële bezoeken en delegaties op uiteenlopende niveaus;
+- 10. Coopération dans le domaine de l'histoire militaire, des archives et de la muséologie;
 
-- 3. Uitwisseling van beroepsmilitairen en deskundigen op militair gebied;
+- 11. Coopération dans les divers domaines arrêtés d'un commun accord par les deux Parties.
 
-- 4. Deelname aan cursussen en stages bij militaire scholen en opleidingscentra;
+##### Article 2
 
-- 5. Deelname aan bilaterale trainingsoefeningen;
+Les modalités d’application des activités de coopération énumérées à l’[article 1](https://wetten.overheid.nl/BWBV0006174) du présent Accord seront fixées d’un commun accord par les deux Parties par voie d’un instrument juridique adéquat.
 
-- 6. Defensie-industrie;
+##### Article 3
 
-- 7. Wetenschap en technologie, onderzoek, ontwikkeling, overdracht en aanschaf van defensiematerieel;
+Dans le but d’assurer une application efficiente des dispositions du présent Accord, les deux Parties conviennent de se réunir périodiquement en commission militaire mixte dont les attributions et les modalités de fonctionnement seront arrêtées d’un commun accord.
 
-- 8. Technische samenwerking;
+##### Article 4
 
-- 9. Samenwerking op het gebied van vredesoperaties;
+En cas d’infraction, la législation applicable est celle de l’Etat sur le territoire duquel cette infraction a eu lieu.
 
-- 10. Samenwerking op het gebied van militaire geschiedenis, archieven en museumkunde;
+Les dispositions juridiques et disciplinaires applicables au personnel des deux Parties, présent sur leurs territoires respectifs dans le cadre de la coopération militaire, seront définies dans un Accord séparé relatif au Statut du Personnel et des Forces conclu entre les Parties (SOFA).
 
-- 11. Samenwerking op uiteenlopende, door beide partijen in onderlinge overeenstemming vastgestelde gebieden.
+##### Article 5
 
-##### Artikel 2
+Chaque Partie assume ses propres frais relatifs à la participation aux activités de coopération dans le cadre de cet Accord, à moins que les Parties n’en conviennent autrement.
 
-De uitvoeringsbepalingen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006174&artikel=1&z=2025-08-01&g=2025-08-01) van deze Overeenkomst genoemde samenwerkingsactiviteiten worden door middel van een passend juridisch instrument in onderlinge overeenstemming tussen beide partijen vastgesteld.
+##### Article 6
 
-##### Artikel 3
+1. Aucune des Parties ne doit céder, ni transmettre, ni transférer, à autrui sans l'accord préalable écrit de l'autre Partie, les informations reçues ou acquises dans le cadre de la coopération militaire.
 
-Teneinde een doelmatige toepassing van de bepalingen van deze Overeenkomst te waarborgen, komen beide partijen overeen periodiek bijeen te komen in een gemengde militaire commissie, waarvan de bevoegdheden en werkwijzen in onderlinge overeenstemming worden vastgesteld.
+2. Les informations reçues par l’une des Parties dans le cadre de la coopération militaire ne doivent pas être utilisées au détriment de l’autre Partie.
 
-##### Artikel 4
+3. Les informations échangées entre les deux Parties sont protégées et classées conformément à la législation applicable dans chacun des deux pays.
 
-In geval van vergrijpen wordt de wetgeving toegepast van de staat op wiens grondgebied het vergrijp heeft plaatsgevonden.
+4. Les dispositions relatives à la sauvegarde des informations classifiées que les Parties échangent sur la base de la réciprocité ou qui sont échangées dans le cadre de la coopération militaire, pourront faire l'objet d'un Accord Spécifique entre les organismes habilités des deux Parties.
 
-De juridische en tuchtrechtelijke bepalingen die van toepassing zijn op het personeel van beide partijen dat in het kader van de militaire samenwerking op hun respectieve grondgebieden aanwezig is, worden vastgelegd in een door de partijen gesloten apart Verdrag betreffende de status van personeelsleden en strijdkrachten (SOFA).
+##### Article 7
 
-##### Artikel 5
+1. Les dispositions du présent Accord n'affectent pas les Accords internationaux auxquels les deux pays sont parties.
 
-Tenzij de partijen anderszins overeenkomen, draagt elke partij haar eigen kosten met betrekking tot de deelname aan de samenwerkingsactiviteiten in het kader van deze Overeenkomst.
+2. Le présent Accord sera appliqué provisoirement dès sa signature et entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de deux mois après la date à laquelle les Parties se seront informées mutuellement, par écrit, que les dispositions internes requises pour l’entrée en vigueur de cet Accord ont été accomplies.
 
-##### Artikel 6
+3. Le présent Accord est conclu pour une période de cinq (5) ans renouvelable par tacite reconduction pour des périodes similaires à moins que l’une des Parties ne décide de le dénoncer, à tout moment, moyennant une notification écrite adressée à l’autre Partie avec un préavis de 6 mois. Dans ce cas, les projets en cours d'exécution seront menés jusqu'à leur aboutissement.
 
-1. Geen van de partijen mag zonder voorafgaande schriftelijke toestemming van de andere partij de in het kader van de militaire samenwerking ontvangen of verkregen informatie aan derden overdragen, verzenden of overbrengen.
+4. Les Parties peuvent d’un commun accord, à tout moment, par écrit, amender le présent Accord.
 
-2. De in het kader van de militaire samenwerking door de ene partij ontvangen informatie mag niet ten nadele van de andere partij worden gebruikt.
-
-3. De tussen beide partijen uitgewisselde informatie wordt overeenkomstig de in elk van beide landen toepasselijke wetgeving beschermd en gerubriceerd.
-
-4. De bepalingen inzake de bescherming van de gerubriceerde informatie die de partijen op basis van wederkerigheid uitwisselen of die in het kader van de militaire samenwerking wordt uitgewisseld, kunnen worden vervat in een Specifieke Overeenkomst tussen de bevoegde instanties van beide partijen.
-
-##### Artikel 7
-
-1. De bepalingen van deze Overeenkomst doen geen afbreuk aan de internationale overeenkomsten waarbij beide landen partij zijn.
-
-2. Deze Overeenkomst wordt voorlopig toegepast zodra deze is ondertekend en treedt in werking op de eerste dag van de maand volgend op het verstrijken van een tijdvak van twee maanden na de datum waarop de partijen elkaar er wederzijds schriftelijk van op de hoogte hebben gebracht dat aan de voor de inwerkingtreding vereiste interne bepalingen is voldaan.
-
-3. Deze Overeenkomst wordt gesloten voor een tijdvak van vijf (5) jaren en wordt telkens stilzwijgend met eenzelfde tijdvak verlengd, tenzij een van de partijen besluit de Overeenkomst op te zeggen, op enig tijdstip, door middel van een schriftelijke kennisgeving aan de andere partij met een opzegtermijn van 6 maanden. In een dergelijk geval worden de in uitvoering zijnde projecten voortgezet totdat ze zijn afgerond.
-
-4. De partijen kunnen deze Overeenkomst te allen tijde op basis van schriftelijke onderlinge overeenstemming wijzigen.
-
-5. Elk geschil betreffende de interpretatie of de toepassing van de bepalingen van deze Overeenkomst wordt in der minne geschikt door middel van overleg of onderhandelingen tussen de partijen.
+5. Tout différend relatif à l’interprétation ou à l’application des dispositions du présent Accord sera réglé à l’amiable par moyen de consultation ou négociation entre les Parties.
 
 FAIT à Rabat, le 21 mai 2013, en double exemplaire, chacun en langues arabe, néerlandaise et française, tous les textes faisant également foi. En cas de divergence d’interprétation, le texte en langue française prévaudra.
 
-**Pour le Royaume des Pays-Bas,**
+*Pour le Royaume des Pays-Bas,*
 
 R.G. STRIKKER
 
-**Pour le Royaume du Maroc,**
+*Pour le Royaume du Maroc,*
 
 ABDELTIF LOUDYI

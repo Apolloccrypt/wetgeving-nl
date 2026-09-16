@@ -1,117 +1,22 @@
 ---
 title: "Protocol bij de Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie"
 identifier: "BWBV0006456"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-11-19"
-last_updated: "2014-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006456"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005271813"
-version_id: "10005665702"
-internal_id: "C10008777201"
-label_id: "10005254564"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006456/2014-11-19/0"
-intitule_bron: "Trb.2015-45"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-03-17"
-intitule_status: "nogniet"
-original_publication: "Trb.2015-45"
-original_published_date: "2015-03-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2015-45"
-jci_1_3: "jci1.3:c:BWBV0006456&z=2014-11-19&g=2014-11-19"
-jci_1_0: "1.0:c:BWBV0006456&g=2014-11-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-17"
+laatste_update: 2014-11-19
+status: geldig
+toestand: 2014-11-19
+bron: "https://wetten.overheid.nl/BWBV0006456"
+opgehaald: 2026-09-16
 ---
+
 # Protocol bij de Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie
 
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-verdragsluitende partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna de „lidstaten” genoemd, vertegenwoordigd door de Raad van de Europese Unie, en
-
-de Europese Unie, hierna „de Europese Unie” genoemd
-
-enerzijds,
-
-en
-
-de Socialistische Republiek Vietnam, hierna „Vietnam” genoemd,
-
-anderzijds,
-
-voor de toepassing van dit protocol hierna gezamenlijk „de overeenkomstsluitende partijen” genoemd,
-
-gezien de toetreding van de Republiek Kroatië tot de Europese Unie per 1 juli 2013;
-
-overwegende dat de[kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0005871), hierna „de overeenkomst” genoemd, op 27 juni 2012 te Brussel is ondertekend;
-
-overwegende dat het [Verdrag betreffende de toetreding van de Republiek Kroatië tot de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005638), hierna „het Toetredingsverdrag” genoemd, op 9 december 2011 te Brussel is ondertekend;
-
-overwegende dat overeenkomstig [artikel 6, lid 2, van de Akte van toetreding van de Republiek Kroatië](https://wetten.overheid.nl/jci1.3:c:BWBV0005638&artikel=6), de toetreding van deze lidstaten bij de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005871) wordt goedgekeurd door de sluiting van een protocol bij de overeenkomst,
-
-zijn het volgende overeengekomen:
+*het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, verdragsluitende partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna de „lidstaten” genoemd, vertegenwoordigd door de Raad van de Europese Unie, en de Europese Unie, hierna „de Europese Unie” genoemd enerzijds, en de Socialistische Republiek Vietnam, hierna „Vietnam” genoemd, anderzijds, voor de toepassing van dit protocol hierna gezamenlijk „de overeenkomstsluitende partijen” genoemd, gezien de toetreding van de Republiek Kroatië tot de Europese Unie per 1 juli 2013; overwegende dat dekaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, hierna „de overeenkomst” genoemd, op 27 juni 2012 te Brussel is ondertekend; overwegende dat het Verdrag betreffende de toetreding van de Republiek Kroatië tot de Europese Unie, hierna „het Toetredingsverdrag” genoemd, op 9 december 2011 te Brussel is ondertekend; overwegende dat overeenkomstig artikel 6, lid 2, van de Akte van toetreding van de Republiek Kroatië, de toetreding van deze lidstaten bij de overeenkomst wordt goedgekeurd door de sluiting van een protocol bij de overeenkomst, zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
-De Republiek Kroatië treedt hierbij als partij toe tot de [kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds](onbekend), die op 27 juni 2012 in Brussel is ondertekend, en dient op dezelfde wijze als de andere lidstaten van de Europese Unie, de tekst van de overeenkomst en de daaraan gehechte [verklaringen](onbekend) respectievelijk goed te keuren en er nota van te nemen.
+De Republiek Kroatië treedt hierbij als partij toe tot de [kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds](https://wetten.overheid.nl/BWBV0005871), die op 27 juni 2012 in Brussel is ondertekend, en dient op dezelfde wijze als de andere lidstaten van de Europese Unie, de tekst van de overeenkomst en de daaraan gehechte verklaringen respectievelijk goed te keuren en er nota van te nemen.
 
 ##### Artikel 2
 

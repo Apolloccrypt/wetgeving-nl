@@ -1,335 +1,290 @@
 ---
 title: "Verdrag betreffende veiligheid bij het gebruik van chemische stoffen bij de arbeid"
 identifier: "BWBV0006571"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-06-08"
-last_updated: "2018-06-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006571"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10005337003"
-version_id: "10005748892"
-internal_id: "C10009254101"
-label_id: "10005319974"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006571/2018-06-08/0"
-intitule_bron: "Trb.1990-152"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1990-11-15"
-intitule_in_force: "2017-07-11"
-intitule_status: "goed"
-original_publication: "Trb.1990-152"
-original_published_date: "1990-11-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1990-152"
-entry_into_force_date: "2018-06-08"
-jci_1_3: "jci1.3:c:BWBV0006571&z=2018-06-08&g=2018-06-08"
-jci_1_0: "1.0:c:BWBV0006571&g=2018-06-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-06-08"
+publicatiedatum: 2018-06-08
+laatste_update: 2018-06-08
+status: geldig
+toestand: 2018-06-08
+bron: "https://wetten.overheid.nl/BWBV0006571"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag betreffende veiligheid bij het gebruik van chemische stoffen bij de arbeid
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its 77th Session on 6 June 1990, and Noting the relevant international labour Conventions and Recommendations and, in particular, the Benzene Convention and Recommendation, 1971, the Occupational Cancer Convention and Recommendation, 1974, the Working Environment (Air Pollution, Noise and Vibration) Convention and Recommendation, 1977, the Occupational Safety and Health Convention and Recommendation, 1981, the Occupational Health Services Convention and Recommendation, 1985, the Asbestos Convention and Recommendation, 1986, and the list of occupational diseases, as amended in 1980, appended to the Employment Injury Benefits Convention, 1964, and Noting that the protection of workers from the harmful effects of chemicals also enhances the protection of the general public and the invironment, and Noting that workers have a need for, and right to, information about the chemicals they use at work, and Considering that it is essential to prevent or reduce the incidence of chemically induced illnesses and injuries at work by: a) ensuring that all chemicals are evaluated to determine their hazards, b) providing employers with a mechanism to obtain from suppliers information about the chemicals used at work so that they can implement effective programmes to protect workers from chemical hazards, c) providing workers with information about the chemicals at their workplaces, and about appropriate preventive measures so that they can effectively participate in protective programmes, d) establishing principles for such programmes to ensure that chemicals are used safely, and Having regard to the need for co-operation within the International Programme on Chemical Safety between the International Labour Organization, the United Nations Environment Programme and the World Health organization as well as with the Food and Agriculture Organisation of the United Nations and the United Nations Industrial Development Organisation, and noting the relevant instruments, codes and guide-lines promulgated by these organisations, and Having decided upon the adoption of certain proposals with regard to safety in the use of chemicals at work, which is the fifth item on the agenda of the session, and Having determined that these proposals shall take the form of an international convention; adopts this twenty-fifth day of June of the year one thousand nine hundred and ninety the following Convention, which may be cited as the Chemicals Convention, 1990.*
 
-Door de Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Genève, en aldaar bijeengekomen op 6 juni 1990, in haar zevenenzeventigste Zitting;
+### PART I. SCOPE AND DEFINITIONS
 
-Gelet op de internationale arbeidsverdragen en -aanbevelingen op dit terrein, en in het bijzonder op het Verdrag en de Aanbeveling betreffende benzeen 1971, het Verdrag en de Aanbeveling betreffende beroepskanker 1974, het [Verdrag en de Aanbeveling betreffende het werkmilieu (luchtverontreiniging, lawaai en trillingen), 1977](https://wetten.overheid.nl/jci1.3:c:BWBV0006563), het Verdrag en de Aanbeveling betreffende beroepsveiligheid en gezondheid, 1981, het Verdrag en de Aanbeveling betreffende bedrijfsgezondheidsdiensten, 1985, het [Verdrag en de Aanbeveling betreffende asbest, 1986](https://wetten.overheid.nl/jci1.3:c:BWBV0003000), en de lijst van beroepsziekten zoals gewijzigd in 1980, gehecht aan het [Verdrag betreffende arbeidsongevallen, 1964](https://wetten.overheid.nl/jci1.3:c:BWBV0004636) en
+##### Article 1
 
-Gelet op het feit dat de bescherming van werknemers tegen de schadelijke effecten van chemische stoffen ook de bescherming van de bevolking en van het milieu verhoogt, en
+1. This Convention applies to all branches of economic activity in which chemicals are used.
 
-Gelet op het feit dat de werknemers behoefte hebben aan, en recht hebben op, informatie over de chemische stoffen die zij bij hun werk gebruiken, en
+2. The competent authority of a Member ratifying this Convention, after consulting the most representative organisations of employers and workers concerned, and on the basis of an assessment of the hazards involved and the protective measures to be applied:
 
-Overwegende dat het van groot belang is om door chemische stoffen veroorzaakte ziekten en ongevallen bij de arbeid te voorkomen of te verminderen door:
+- a) may exclude particular branches of economic activity, undertakings or products from the application of the Convention, or certain provisions thereof, when:
 
-er voor te zorgen dat alle chemische stoffen worden getoetst op hun risico's,
+   - (i) special problems of a substantial nature arise; and
 
-de werkgevers een methode te verschaffen om van leveranciers informatie te verkrijgen over de chemische stoffen die bij het werk worden gebruikt zodat zij doeltreffende programma's kunnen uitvoeren om de werknemers te beschermen tegen de risico's van chemische stoffen,
+   - (ii) the overall protection afforded in pursuance of national law and practice is not inferior to that which would result from the full application of the provisions of the Convention;
 
-de werknemers informatie te verschaffen over de chemische stoffen op hun werkplek, en over passende voorzorgsmaatregelen zodat zij met vrucht betrokken kunnen zijn bij beschermingsprogramma's,
+- b) shall make special provision to protect confidential information whose disclosure to a competitor would be liable to cause harm to an employer's business so long as the safety and health of workers are not compromised thereby.
 
-uitgangspunten voor deze programma's vast te stellen om er voor te zorgen dat chemische stoffen op een veilige wijze worden gebruikt, en
+3. This Convention does not apply to articles which will not expose workers to a hazardous chemical under normal or reasonably foreseeable conditions of use.
 
-In aanmerking nemend de behoefte aan samenwerking in het kader van het Internationaal Programma inzake chemische veiligheid tussen de Internationale Arbeidsorganisatie, het Milieuprogramma van de Verenigde Naties en de Wereldgezondheidsorganisatie, alsmede met de Voedsel- en Landbouworganisatie van de Verenigde Naties en de Industriële Ontwikkelingsorganisatie van de Verenigde Naties, en gelet op de akten, codes en richtlijnen die door deze organisaties worden gepubliceerd, en
+4. This Convention does not apply to organisms, but does apply to chemicals derived from organisms.
 
-Besloten hebbend tot het aannemen van bepaalde voorstellen betreffende veiligheid bij het gebruik van chemische stoffen bij de arbeid, welk onderwerp als vijfde punt op de agenda van de Zitting staat, en
+##### Article 2
 
-Vastgesteld hebbend dat deze voorstellen de vorm zullen aannemen van een internationaal verdrag;
+For the purposes of this Convention:
 
-neemt heden, de vijfentwintigste juni van het jaar negentienhonderdnegentig het volgende verdrag aan, dat kan worden aangehaald als Verdrag betreffende chemische stoffen, 1990.
+- a) the term “chemicals” means chemical elements and compounds, and mixtures thereof, whether natural or synthetic;
 
-## DEEL I. BEGRIPSOMSCHRIJVINGEN EN TOEPASSINGSGEBIED
+- b) the term “hazardous chemical” includes any chemical which has been classified as hazardous in accordance with [Article 6](https://wetten.overheid.nl/BWBV0006571) or for which relevant information exists to indicate that the chemical is hazardous;
 
-##### Artikel 1
+- c) the term “use of chemicals at work” means any work activity which may expose a worker to a chemical, including;
 
-1. Dit Verdrag is van toepassing op alle takken van economische bedrijvigheid waarin chemische stoffen worden gebruikt.
+   - (i) the production of chemicals;
 
-2. Na raadpleging van de meest betrokken representatieve organisaties van werkgevers en werknemers, en op basis van een beoordeling van de betrokken risico's en van de toe te passen beschermingsmaatregelen, kan de bevoegde autoriteit van een Lid dat dit Verdrag bekrachtigt
+   - (ii) the handling of chemicals;
 
-- a. bepaalde takken van economische bedrijvigheid, ondernemingen of produkten van de toepassing van het Verdrag of van bepaalde bepalingen daarvan uitsluiten, wanneer: en dient deze bevoegde autoriteit
+   - (iii) the storage of chemicals;
 
-- i. zich bijzondere problemen van omvangrijke aard voordoen; en
+   - (iv) the transport of chemicals;
 
-- ii. het niveau van bescherming dat ingevolge de nationale wetgeving en de nationale praktijk geboden wordt, over het geheel genomen niet lager is dan hetgeen zou voortvloeien uit de volledige toepassing van de bepalingen van het Verdrag;
+   - (v) the disposal and treatment of waste chemicals;
 
-- b. bijzondere maatregelen te treffen om vertrouwelijke informatie te beschermen waarvan de bekendmaking aan een concurrent, schade zou kunnen berokkenen aan het bedrijf van een werkgever, zolang de veiligheid en de gezondheid van de werknemers daardoor niet in het geding komen.
+   - (vi) the release of chemicals resulting from work activities;
 
-3. Dit Verdrag is niet van toepassing op artikelen die de werknemers onder normale of redelijk voorzienbare omstandigheden van gebruik niet blootstellen aan een gevaarlijke chemische stof.
+   - (vii) the maintenance, repair and cleaning of equipment and containers for chemicals;
 
-4. Dit Verdrag is niet van toepassing op organismen, maar wel op chemische stoffen die zijn verkregen uit organismen.
+- d) the term “branches of economic activity” means all branches in which workers are employed, including the public service;
 
-##### Artikel 2
+- e) the term “article” means an object which is formed to a specific shape or design during its manufacture or which is in its natural shape, and whose use in that form is dependent in whole or in part on its shape or design;
 
-Voor de toepassing van dit Verdrag:
+- f) the term “workers’ representatives” means persons who are recognised as such by national law or practice, in accordance with the [Workers’ Representatives Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003710), 1971.
 
-- a. wordt onder de term „chemische stoffen” verstaan: elementen en verbindingen en mengsels daarvan, zowel natuurlijke als synthetische;
+### PART II. GENERAL PRINCIPLES
 
-- b. wordt onder de term „gevaarlijke chemische stof” mede begrepen: elke chemische stof die is geclassificeerd als gevaarlijk in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=6&z=2018-06-08&g=2018-06-08) of waarover informatie bestaat die afdoende aangeeft dat de chemische stof gevaarlijk is;
+##### Article 3
 
-- c. wordt onder de term „gebruik van chemische stoffen bij de arbeid” verstaan: elke arbeidsverrichting die een werknemer zou kunnen blootstellen aan een chemische stof, met inbegrip van:
+The most representative organisations of employers and workers concerned shall be consulted on the measures to be taken to give effect to the provisions of this Convention.
 
-- i. de produktie van chemische stoffen;
+##### Article 4
 
-- ii. de verwerking van chemische stoffen;
+In the light of national conditions and practice and in consultation with the most representative organisations of employers and workers, each Member shall formulate, implement and periodically review a coherent policy on safety in the use of chemicals at work.
 
-- iii. de opslag van chemische stoffen;
+##### Article 5
 
-- iv. het vervoer van chemische stoffen;
+The competent authority shall have the power, if justified on safety and health grounds, to prohibit or restrict the use of certain hazardous chemicals, or to require advance notification and authorisation before such chemicals are used.
 
-- v. de afvoer en verwerking van chemische afvalstoffen;
+### PART III. CLASSIFICATION AND RELATED MEASURES
 
-- vi. het vrijkomen van chemische stoffen als gevolg van arbeidsverrichtingen;
+##### Article 6. Classification systems
 
-- vii. het onderhoud, herstel en schoonmaken van installaties en houders voor chemische stoffen;
+1. Systems and specific criteria appropriate for the classification of all chemicals according to the type and degree of their intrinsic health and physical hazards and for assessing the relevance of the information required to determine whether a chemical is hazardous shall be established by the competent authority, or by a body approved or recognised by the competent authority, in accordance with national or international standards.
 
-- d. wordt onder de term „takken van economische bedrijvigheid” verstaan: alle takken waarin werknemers zijn tewerkgesteld, met inbegrip van de overheidsdienst;
+2. The hazardous properties of mixtures composed of two or more chemicals may be determined by assessments based on the intrinsic hazards of their component chemicals.
 
-- e. wordt onder de term „artikel” verstaan: een voorwerp dat bij zijn vervaardiging naar een bepaald model of ontwerp is gevormd of dat zijn natuurlijke gedaante heeft, en waarvan het gebruik in die vorm geheel of gedeeltelijk afhankelijk is van zijn model of ontwerp;
+3. In the case of transport, such systems and criteria shall take into account the United Nations Recommendations on the transport of dangerous goods.
 
-- f. wordt onder de term „werknemersvertegenwoordigers” verstaan: personen die als zodanig zijn erkend door de nationale wetgeving en praktijk, in overeenstemming met het [Verdrag betreffende werknemersvertegenwoordigers](https://wetten.overheid.nl/jci1.3:c:BWBV0003710), 1971.
+4. The classification systems and their application shall be progressively extended.
 
-## DEEL II. ALGEMENE BEGINSELEN
+##### Article 7. Labelling and marking
 
-##### Artikel 3
+1. All chemicals shall be marked so as to indicate their identity.
 
-De meest betrokken representatieve organisaties van werkgevers en werknemers dienen te worden geraadpleegd over de ter uitvoering van de bepalingen van dit Verdrag te nemen maatregelen.
+2. Hazardous chemicals shall in addition be labelled, in a way easily understandable to the workers, so as to provide essential information regarding their classification, the hazards they present and the safety precautions to be observed.
 
-##### Artikel 4
+3. - (1) Requirements for marking or labelling chemicals pursuant to paragraphs 1 and 2 of this Article shall be established by the competent authority, or by a body approved or recognised by the competent authority, in accordance with national or international standards.
 
-Rekening houdend met de nationale omstandigheden en praktijk en in overleg met de meest representatieve organisaties van werkgevers en werknemers, dient elk Lid een samenhangend beleid inzake veiligheid bij het gebruik van chemische stoffen bij de arbeid te formuleren, tot uitvoering te brengen, en op geregelde tijden te herzien.
+- (2) In the case of transport, such requirements shall take into account the United Nations Recommendations on the transport of dangerous goods.
 
-##### Artikel 5
+##### Article 8. Chemical safety data sheets
 
-De bevoegde autoriteit dient de bevoegdheid te hebben om, indien dat gerechtvaardigd is om redenen van veiligheid en gezondheid, het gebruik van bepaalde gevaarlijke chemische stoffen te verbieden of te beperken, of voorafgaande kennisgeving en vergunning te verlangen voor die chemische stoffen worden gebruikt.
+1. For hazardous chemicals, chemical safety data sheets containing detailed essential information regarding their identity, supplier, classification, hazards, safety precautions and emergency procedures shall be provided to employers.
 
-## DEEL III. CLASSIFICATIE EN DAAROP BETREKKING HEBBENDE MAATREGELEN
+2. Criteria for the preparation of chemical safety data sheets shall be established by the competent authority, or by a body approved or recognised by the competent authority, in accordance with national or international standards.
 
-##### Artikel 6. Classificatiesystemen
+3. The chemical or common name used to identify the chemical on the chemical safety data sheet shall be the same as that used on the label.
 
-1. Geëigende systemen en specifieke criteria voor de classificatie van alle chemische stoffen naar soort en mate van de eraan verbonden fysieke gevaren en gevaren voor de gezondheid, alsmede voor het beoordelen van de juistheid van de informatie die nodig is om vast te stellen of een chemische stof gevaarlijk is, dienen te worden vastgesteld door de bevoegde autoriteit of door een door de bevoegde autoriteit goedgekeurde of erkende instantie, in overeenstemming met nationale en internationale normen.
+##### Article 9. Responsibilities of suppliers
 
-2. De gevaarlijke eigenschappen van mengsels samengesteld uit twee of meer chemische stoffen kunnen worden vastgesteld door beoordelingen gebaseerd op de gevaren verbonden aan de chemische stoffen waaruit zij zijn samengesteld.
+1. Suppliers of chemicals, whether manufacturers, importers or distributors, shall ensure that:
 
-3. Wat betreft het vervoer dienen deze systemen en criteria rekening te houden met de aanbevelingen van de Verenigde Naties over het vervoer van gevaarlijke stoffen.
+- a) such chemicals have been classified in accordance with [Article 6](https://wetten.overheid.nl/BWBV0006571) on the basis of knowledge of their properties and a search of available information or assessed in accordance with paragraph 3 below;
 
-4. De classificatiesystemen en hun toepassing dienen geleidelijk te worden uitgebreid.
+- b) such chemicals are marked so as to indicate their identity in accordance with [Article 7, paragraph 1](https://wetten.overheid.nl/BWBV0006571);
 
-##### Artikel 7. Etiketteren en merken
+- c) hazardous chemicals they supply are labelled in accordance with [Article 7, paragraph 2](https://wetten.overheid.nl/BWBV0006571);
 
-1. Alle chemische stoffen dienen zodanig te worden gemerkt dat zij kunnen worden geïdentificeerd.
+- d) chemical safety data sheets are prepared for such hazardous chemicals in accordance with [Article 8, paragraph 1](https://wetten.overheid.nl/BWBV0006571), and provided to employers.
 
-2. Gevaarlijke chemische stoffen dienen bovendien van een voor de werknemers gemakkelijk te begrijpen etiket te worden voorzien, teneinde wezenlijke informatie te verschaffen over hun classificatie, over de gevaren die zij met zich mee brengen en over de voorzorgsmaatregelen die met het oog op de veiligheid in acht dienen te worden genomen.
+2. Suppliers of hazardous chemicals shall ensure that revised labels and chemical safety data sheets are prepared and provided to employers, by a method which accords with national law and practice, whenever new relevant safety and health information becomes available.
 
-- (1). De eisen waaraan het merken en etiketteren van chemische stoffen, zoals bedoeld in het eerste en tweede lid van dit artikel, moeten voldoen, dienen te worden vastgesteld door de bevoegde autoriteit of door een door de bevoegde autoriteit goedgekeurde en erkende instantie, in overeenstemming met nationale en internationale normen.
+3. Suppliers of chemicals which have not yet been classified in accordance with [Article 6](https://wetten.overheid.nl/BWBV0006571) shall identify the chemicals they supply and assess the properties of these chemicals on the basis of a search of available information in order to determine whether they are hazardous chemicals.
 
-- (2). Wat betreft het vervoer dienen deze eisen rekening te houden met de Aanbevelingen van de Verenigde Naties over het vervoer van gevaarlijke stoffen.
+### PART IV. RESPONSIBILITIES OF EMPLOYERS
 
-##### Artikel 8. Informatiebladen over chemische stoffen
+##### Article 10. Identification
 
-1. Voor gevaarlijke chemische stoffen dienen aan de werkgevers informatiebladen over chemische stoffen te worden geleverd die uitvoerige essentiële informatie bevatten over hun identiteit, leverancier, classificatie, gevaren, voorzorgsmaatregelen en voorschriften bij noodgevallen.
+1. Employers shall ensure that all chemicals used at work are labelled or marked as required by [Article 7](https://wetten.overheid.nl/BWBV0006571) and that chemical safety data sheets have been provided as required by [Article 8](https://wetten.overheid.nl/BWBV0006571) and are made available to workers and their representatives.
 
-2. Criteria voor het opstellen van informatiebladen over chemische stoffen dienen te worden vastgesteld door de bevoegde autoriteit of door een door de bevoegde autoriteit goedgekeurde en erkende instantie, in overeenstemming met nationale en internationale normen.
+2. Employers receiving chemicals that have not been labelled or marked as required under [Article 7](https://wetten.overheid.nl/BWBV0006571), or for which chemical safety data sheets have not been provided as required under [Article 8](https://wetten.overheid.nl/BWBV0006571), shall obtain the relevant information from the supplier or from other reasonably available sources, and shall not use the chemicals until such information is obtained.
 
-3. De chemische of gebruikelijke naam die wordt gebruikt om een chemische stof te identificeren op het informatieblad over chemische stoffen, dient dezelfde te zijn als die welke wordt gebruikt op het etiket.
+3. Employers shall ensure that only chemicals which are classified in accordance with [Article 6](https://wetten.overheid.nl/BWBV0006571) or identified and assessed in accordance with [Article 9, paragraph 3](https://wetten.overheid.nl/BWBV0006571), and labelled or marked in accordance with [Article 7](https://wetten.overheid.nl/BWBV0006571) are used and that any necessary precautions are taken when they are used.
 
-##### Artikel 9. Verantwoordelijkheden van de leveranciers
+4. Employers shall maintain a record of hazardous chemicals used at the workplace, cross-referenced to the appropriate chemical safety data sheets. This record shall be accessible to all workers concerned and their representatives.
 
-1. Leveranciers van chemische stoffen, om het even of zij fabrikanten, importeurs of tussenhandelaars zijn, dienen er voor te zorgen dat:
+##### Article 11. Transfer of chemicals
 
-- a. die chemische stoffen zijn geclassificeerd in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=6&z=2018-06-08&g=2018-06-08) op basis van kennis van hun eigenschappen en van een onderzoek naar de beschikbare informatie of zijn beoordeeld in overeenstemming met het derde lid van dit artikel;
+Employers shall ensure that when chemicals are transferred into other containers or equipment, the contents are indicated in a manner which will make known to workers their identity, any hazards associated with their use and any safety precautions to be observed.
 
-- b. die chemische stoffen zodanig zijn gemerkt dat zij kunnen worden geïdentificeerd in overeenstemming met [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08);
+##### Article 12. Exposure
 
-- c. gevaarlijke chemische stoffen die zij leveren zijn voorzien van een etiket in overeenstemming met [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08);
+Employers shall:
 
-- d. informatiebladen over chemische stoffen worden opgesteld voor die gevaarlijke chemische stoffen, in overeenstemming met [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=8&z=2018-06-08&g=2018-06-08), en dat zij aan de werkgevers worden geleverd.
+- a) ensure that workers are not exposed to chemicals to an extent which exceeds exposure limits or other exposure criteria for the evaluation and control of the working environment established by the competent authority, or by a body approved or recognised by the competent authority, in accordance with national or international standards;
 
-2. Leveranciers van gevaarlijke chemische stoffen dienen er voor te zorgen dat herziene etiketten en informatiebladen over chemische stoffen worden opgesteld en worden geleverd aan de werkgevers, volgens een methode die overeenstemt met de nationale wetgeving en praktijk, telkens wanneer nieuwe, ter zake doende informatie over veiligheid en gezondheid beschikbaar komt.
+- b) assess the exposure of workers to hazardous chemicals;
 
-3. Leveranciers van chemische stoffen die nog niet zijn geclassificeerd in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=6&z=2018-06-08&g=2018-06-08), dienen de chemische stoffen die zij leveren te identificeren en de eigenschappen van deze chemische stoffen te beoordelen op basis van een onderzoek naar de beschikbare informatie om te bepalen of het gevaarlijke chemische stoffen zijn.
+- c) monitor and record the exposure of workers to hazardous chemicals when this is necessary to safeguard their safety and health or as may be prescribed by the competent authority;
 
-## DEEL IV. VERANTWOORDELIJKHEDEN VAN DE WERKGEVERS
+- d) ensure that the records of the monitoring of the working environment and of the exposure of workers using hazardous chemicals are kept for a period prescribed by the competent authority and are accessible to the workers and their representatives.
 
-##### Artikel 10. Identificatie
+##### Article 13. Operational control
 
-1. De werkgevers dienen er voor te zorgen dat alle chemische stoffen die bij het werk worden gebruikt, geëtiketteerd of gemerkt zijn zoals voorzien in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08) en dat de informatiebladen over chemische stoffen geleverd zijn zoals voorzien in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=8&z=2018-06-08&g=2018-06-08) en beschikbaar worden gesteld aan de werknemers en hun vertegenwoordigers.
+1. Employers shall make an assessment of the risks arising from the use of chemicals at work, and shall protect workers against such risks by appropriate means, such as:
 
-2. Werkgevers die chemische stoffen ontvangen die niet geëtiketteerd of gemerkt zijn zoals voorzien in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08), of waarvoor geen informatiebladen over chemische stoffen zoals voorzien in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=8&z=2018-06-08&g=2018-06-08) zijn geleverd, dienen zich de desbetreffende informatie te verschaffen bij de leverancier of uit andere redelijk toegankelijke bronnen en mogen deze chemische stoffen niet gebruiken voordat die informatie is verkregen.
+- a) the choice of chemicals that eliminate or minimise the risk;
 
-3. De werkgevers dienen er voor te zorgen dat alleen chemische stoffen worden gebruikt die geclassificeerd zijn in overeenstemming met [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=9&z=2018-06-08&g=2018-06-08), en die geëtiketteerd of gemerkt zijn in overeenstemming met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=III&artikel=7&z=2018-06-08&g=2018-06-08) en dat alle noodzakelijke voorzorgsmaatregelen in acht worden genomen wanneer deze worden gebruikt.
+- b) the choice of technology that eliminates or minimises the risk;
 
-4. Werkgevers dienen een lijst bij te houden van gevaarlijke chemische stoffen die op de werkplek worden gebruikt, verwijzend naar de desbetreffende informatiebladen over chemische stoffen. Deze lijst dient toegankelijk te zijn voor alle betrokken werknemers en hun vertegenwoordigers.
+- c) the use of adequate engineering control measures;
 
-##### Artikel 11. Het overbrengen van chemische stoffen
+- d) the adoption of working systems and practices that eliminate or minimise the risk;
 
-De werkgevers dienen er voor te zorgen dat, wanneer chemische stoffen worden overgebracht in andere houders of installaties, de inhoud zodanig wordt aangegeven dat de werknemers worden geïnformeerd over hun identiteit, over alle gevaren die het gebruik ervan met zich mee brengt en alle voorzorgsmaatregelen die met het oog op de veiligheid in acht dienen te worden genomen.
+- e) the adoption of adequate occupational hygiene measures;
 
-##### Artikel 12. Blootstelling
+- f) where recourse to the above measures does not suffice, the provision and proper maintenance of personal protective equipment and clothing at no cost to the worker, and the implementation of measures to ensure their use.
 
-De werkgevers dienen:
+2. Employers shall:
 
-- a. er voor te zorgen dat de werknemers niet worden blootgesteld aan chemische stoffen boven de limieten of andere blootstellingscriteria die voor de beoordeling van en het toezicht op de arbeidsomstandigheden zijn vastgesteld door de bevoegde autoriteit of door een door de bevoegde autoriteit goedgekeurde en erkende instantie, in overeenstemming met de nationale en internationale normen;
+- a) limit exposure to hazardous chemicals so as to protect the safety and health of workers;
 
-- b. de blootstelling van de werknemers aan gevaarlijke chemische stoffen te evalueren;
+- b) provide first aid;
 
-- c. de blootstelling van de werknemers aan gevaarlijke chemische stoffen te bewaken en te registreren wanneer dat noodzakelijk is om de veiligheid en gezondheid van de werknemers te waarborgen of wanneer de bevoegde autoriteit dat voorschrijft;
+- c) make arrangements to deal with emergencies.
 
-- d. er voor te zorgen dat de geregistreerde gegevens betreffende de bewaking van het fysieke arbeidsmilieu en van de blootstelling van de werknemers die gevaarlijke stoffen gebruiken, worden bewaard gedurende een periode voorgeschreven door de bevoegde autoriteit en toegankelijk zijn voor de werknemers en hun vertegenwoordigers.
+##### Article 14. Disposal
 
-##### Artikel 13. Bedrijfsvoering
+Hazardous chemicals which are no longer required and containers which have been emptied but which may contain residues of hazardous chemicals, shall be handled or disposed of in a manner which eliminates or minimises the risk to safety and health and to the environment, in accordance with national law and practice.
 
-1. De werkgevers dienen zich een oordeel te vormen van de risico's die voortvloeien uit het gebruik van chemische stoffen bij het werk, en dienen de werknemers tegen die risico's te beschermen met passende middelen, met name:
+##### Article 15. Information and training
 
-- a. door de keuze van chemische stoffen die het risico wegnemen of zo klein mogelijk maken;
+Employers shall:
 
-- b. door de keuze van technieken die het risico wegnemen of zo klein mogelijk maken;
+- a) inform the workers of the hazards associated with exposure to chemicals used at the workplace;
 
-- c. door het toepassen van doeltreffende technische voorzorgsmaatregelen;
+- b) instruct the workers how to obtain and use the information provided on labels and chemical safety data sheets;
 
-- d. door werkmethoden en -praktijken die het risico wegnemen of zo klein mogelijk maken in te voeren;
+- c) use the chemical safety data sheets, along with information specific to the workplace, as a basis for the preparation of instructions to workers, which should be written if appropriate;
 
-- e. door het toepassen van doeltreffende maatregelen die schoon werken bevorderen;
+- d) train the workers on a continuing basis in the practices and procedures to be followed for safety in the use of chemicals at work.
 
-- f. door, wanneer de hiervoor genoemde maatregelen niet voldoende zijn, zonder kosten voor de werknemer uitrusting en kleding voor persoonlijke bescherming beschikbaar te stellen en volgens de regels te onderhouden en maatregelen om er voor te zorgen dat deze worden gebruikt, toe te passen.
+##### Article 16. Co-operation
 
-2. De werkgevers dienen:
+Employers, in discharging their responsibilities, shall co-operate as closely as possible with workers or their representatives with respect to safety in the use of chemicals at work.
 
-- a. de blootstelling aan gevaarlijke chemische stoffen te beperken zodat de veiligheid en gezondheid van de werknemers worden beschermd;
+### PART V. DUTIES OF WORKERS
 
-- b. eerste hulp beschikbaar te stellen;
+##### Article 17
 
-- c. voorzieningen te treffen om het hoofd te bieden aan noodsituaties.
+1. Workers shall co-operate as closely as possible with their employers in the discharge by the employers of their responsibilities and comply with all procedures and practices relating to safety in the use of chemicals at work.
 
-##### Artikel 14. Afval
+2. Workers shall take all reasonable steps to eliminate or minimise risk to themselves and to others from the use of chemicals at work.
 
-Gevaarlijke chemische stoffen die niet langer nodig zijn en houders die zijn leeggemaakt maar resten van gevaarlijke chemische stoffen kunnen bevatten, dienen op zodanige wijze te worden verwerkt of afgevoerd dat de risico's voor de veiligheid en gezondheid en het milieu worden weggenomen of zoveel mogelijk beperkt, in overeenstemming met de nationale wetgeving en praktijk.
+### PART VI. RIGHTS OF WORKERS AND THEIR REPRESENTATIVES
 
-##### Artikel 15. Informatie en scholing
+##### Article 18
 
-De werkgevers dienen:
+1. Workers shall have the right to remove themselves from danger resulting from the use of chemicals when they have reasonable justification to believe there is an imminent and serious risk to their safety or health, and shall inform their supervisor immediately.
 
-- a. de werknemers te informeren over de gevaren die verbonden zijn aan de blootstelling aan chemische stoffen die in gebruik zijn op de werkplek;
+2. Workers who remove themselves from danger in accordance with the provisions of the previous paragraph or who exercise any other rights under this Convention shall be protected against undue consequences.
 
-- b. de werknemers te leren hoe de informatie te verkrijgen en te gebruiken die wordt verschaft op etiketten en informatiebladen over chemische stoffen;
+3. Workers concerned and their representatives shall have the right to:
 
-- c. de informatiebladen over chemische stoffen te gebruiken, evenals informatie die specifiek is voor de werkplek, als grondslag voor het opstellen van instructies, waar nodig schriftelijk, voor de werknemers;
+- a) information on the identity of chemicals used at work, the hazardous properties of such chemicals, precautionary measures, education and training;
 
-- d. op een permanente basis de werknemers te scholen in werkwijzen en procedures die moeten worden gevolgd voor de veiligheid bij het gebruik van chemische stoffen bij de arbeid.
+- b) the information contained in labels and markings;
 
-##### Artikel 16. Samenwerking
+- c) chemical safety data sheets;
 
-De werkgevers dienen bij het nakomen van hun verantwoordelijkheden zo nauw mogelijk samen te werken met de werknemers of hun vertegenwoordigers met betrekking tot de veiligheid bij het gebruik van chemische stoffen bij de arbeid.
+- d) any other information required to be kept by this Convention.
 
-## DEEL V. PLICHTEN VAN DE WERKNEMERS
+4. Where disclosure of the specific identity of an ingredient of a chemical mixture to a competitor would be liable to cause harm to the employer's business, the employer may, in providing the information required under paragraph 3 above, protect that identity in a manner approved by the competent authority under [Article 1, paragraph 2 (b)](https://wetten.overheid.nl/BWBV0006571).
 
-##### Artikel 17
+### PART VII. RESPONSIBILITY OF EXPORTING STATES
 
-1. De werknemers dienen zo nauw mogelijk samen te werken met hun werkgevers bij het nakomen van hun verantwoordelijkheden en alle procedures en werkwijzen met betrekking tot de veiligheid bij het gebruik van chemische stoffen bij de arbeid na te leven.
+##### Article 19
 
-2. De werknemers dienen al het redelijke te doen om de risico's voor henzelf en anderen bij het gebruik van chemische stoffen bij de arbeid weg te nemen of zoveel mogelijk te beperken.
+When in an exporting member State all or some uses of hazardous chemicals are prohibited for reasons of safety and health at work, this fact and the reasons for it shall be communicated by the exporting member State to any importing country.
 
-## DEEL VI. RECHTEN VAN DE WERKNEMERS EN HUN VERTEGENWOORDIGERS
+##### Article 20
 
-##### Artikel 18
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-1. De werknemers dienen het recht te hebben zich te verwijderen van gevaar dat voortkomt uit het gebruik van chemische stoffen wanneer zij een redelijke grond hebben om aan te nemen dat er een ernstig gevaar dreigt voor hun veiligheid of gezondheid en dienen dit onmiddellijk aan hun chef te melden.
+##### Article 21
 
-2. Werknemers die zich verwijderen van gevaar in overeenstemming met de bepalingen van het voorgaande lid of die gebruik maken van enig ander recht op grond van dit Verdrag, dienen te worden beschermd tegen ongerechtvaardigde gevolgen.
+1. This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.
 
-3. De betrokken werknemers en hun vertegenwoordigers dienen recht te hebben op:
+2. It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.
 
-- a. informatie over de identiteit van chemische stoffen die bij de arbeid worden gebruikt, de gevaarlijke eigenschappen van die chemische stoffen, de te treffen voorzorgsmaatregelen, de opleiding en de scholing;
+3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.
 
-- b. de informatie die voorkomt op etiketten en merken;
+##### Article 22
 
-- c. de informatiebladen over chemische stoffen;
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-- d. alle andere informatie die op grond van dit Verdrag beschikbaar gehouden moet worden.
+2. Each Member which has ratified this Convention and which does not, whithin the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
 
-4. Wanneer de bekendmaking van de specifieke identiteit van een bestanddeel van een chemisch mengsel aan een concurrent, schade aan het bedrijf van de werkgever zou kunnen berokkenen, mag de werkgever, bij het verschaffen van de informatie voorzien in het derde lid, die identiteit beschermen op een wijze die is goedgekeurd door de bevoegde autoriteit in overeenstemming met [artikel 1, tweede lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=I&artikel=1&z=2018-06-08&g=2018-06-08).
+##### Article 23
 
-## DEEL VII. VERANTWOORDELIJKHEID VAN EXPORTERENDE LANDEN
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation.
 
-##### Artikel 19
+2. When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.
 
-Wanneer in een exporterende Lidstaat het gebruik van een gevaarlijke chemische stof geheel of gedeeltelijk is verboden om redenen van veiligheid en gezondheid bij de arbeid, dient dit feit alsmede de desbetreffende redenen door de Lidstaat ter kennis te worden gebracht van elk land waarnaar deze exporteert.
+##### Article 24
 
-##### Artikel 20
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles.
 
-De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationaal Arbeidsbureau medegedeeld en door hem geregistreerd.
+##### Article 25
 
-##### Artikel 21
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtiging door de Directeur-Generaal hebben doen registreren.
+##### Article 26
 
-2. Het treedt in werking twaalf maanden na de datum waarop de bekrachtigingen van twee Leden door de Directeur-Generaal zijn geregistreerd.
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides:
 
-3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+- a) the ratification by a Member of the new revising Convention shall ipso jure involve the immediate denunciation of this Convention, notwithstanding the provisions of [Article 22](https://wetten.overheid.nl/BWBV0006571) above, if and when the new revising Convention shall have come into force;
 
-##### Artikel 22
+- b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-1. Elk Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar als bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar op de voorwaarden, voorzien in dit artikel.
+##### Article 27
 
-##### Artikel 23
-
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen, die hem door de leden van de Organisatie zijn medegedeeld.
-
-2. Bij kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
-
-##### Artikel 24
-
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de bepalingen van de voorgaande artikelen heeft geregistreerd.
-
-##### Artikel 25
-
-De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
-
-##### Artikel 26
-
-1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag zal, tenzij het nieuwe verdrag anders bepaalt:
-
-- a. bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, van rechtswege onmiddellijke opzegging van dit verdrag ten gevolge hebben, niettegenstaande het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006571&deel=VII&artikel=22&z=2018-06-08&g=2018-06-08) hierboven, onder voorbehoud evenwel dat het nieuwe verdrag, houdende herziening, in werking is getreden.
-
-- b. met ingang van de datum waarop het nieuwe verdrag, houdende herziening, in werking is getreden, dit Verdrag niet langer door de Leden kunnen worden bekrachtigd.
-
-2. Dit Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
-
-##### Artikel 27
-
-De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
+The English and French versions of the text of this Convention are equally authoritative.
 
 The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organisation during its Seventy-seventh Session which was held at Geneva and declared closed the twenty-seventh day of June 1990.
 
 IN FAITH WHEREOF we have appended our signatures this twenty-seventh day of June 1990.
 
-**The President of the Conference,**
+*The President of the Conference,*
 
 (sd.) JORGE TRIACA
 
-**The Director-General of the International Labour Office,**
+*The Director-General of the International Labour Office,*
 
 (sd.) MICHEL HANSENNE

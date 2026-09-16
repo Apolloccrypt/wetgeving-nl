@@ -1,144 +1,31 @@
 ---
 title: "Strategische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Japan, anderzijds"
 identifier: "BWBV0006765"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006765"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005455813"
-version_id: "10005918762"
-internal_id: "C10010184531"
-label_id: "10005438954"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006765/2025-01-01/0"
-intitule_bron: "Trb.2018-171"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-10-01"
-intitule_in_force: "2025-03-07"
-intitule_status: "goed"
-original_publication: "Trb.2018-171"
-original_published_date: "2018-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2018-171"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBV0006765&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBV0006765&g=2025-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBV0006765"
+opgehaald: 2026-09-16
 ---
+
 # Strategische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Japan, anderzijds
 
-De Europese Unie, hierna „de Unie” genoemd,
-
-alsmede
-
-Het Koninkrijk België,
-
-De Republiek Bulgarije,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-Ierland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-De Republiek Kroatië,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-Hongarije,
-
-De Republiek Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-Roemenië,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden, en
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Verdragsluitende partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna „de lidstaten” genoemd,
-
-hierna „de Uniepartij” genoemd,
-
-enerzijds,
-
-alsmede
-
-Japan,
-
-anderzijds,
-
-hierna gezamenlijk „de partijen” genoemd,
-
-Opnieuw bevestigend dat zij gehecht zijn aan de gemeenschappelijke waarden en beginselen, in het bijzonder de democratie, de rechtsstaat, de rechten van de mens en de fundamentele vrijheden, die de grondslag vormen voor hun diepgaande en langdurige samenwerking als strategische partners;
-
-Herinnerend aan de steeds nauwere banden die tussen hen zijn gesmeed sedert het afleggen van de gemeenschappelijke verklaring inzake betrekkingen tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en Japan, anderzijds, in 1991;
-
-Geleid door de wens voort te bouwen op de waardevolle bijdrage tot hun betrekkingen die de bestaande overeen komsten tussen beide partijen op talrijke terreinen tot stand hebben gebracht en deze te versterken;
-
-Erkennende dat de toenemende onderlinge afhankelijkheid wereldwijd ertoe heeft geleid dat de internationale samenwerking moet worden verdiept;
-
-Zich bewust, in dit verband, als gelijkgestemde mondiale partners, van hun gedeelde verantwoordelijkheid en hun bereidheid om een rechtvaardige en stabiele internationale orde tot stand te brengen in overeenstemming met de beginselen en de doelstellingen van het [Handvest van de Verenigde Naties](onbekend) en om wereldwijd vrede, stabiliteit en welvaart alsook menselijke veiligheid te verwezenlijken;
-
-Vastbesloten in dit verband om nauw samen te werken bij het aanpakken van de grote mondiale problemen waarmee de internationale gemeenschap wordt geconfronteerd, zoals de verspreiding van massavernietigingswapens, terrorisme, klimaatverandering, armoede en besmettelijke ziekten, bedreigingen van het gemeenschappelijk belang op maritiem gebied, in de cyberruimte en de kosmische ruimte;
-
-Vastbesloten eveneens in dit verband dat de ernstigste misdrijven die de gehele internationale gemeenschap aangaan, niet onbestraft mogen blijven;
-
-Vastberaden in dit verband om hun algemene partnerschap op een alomvattende wijze te versterken door een uitbreiding van de politieke, economische en culturele banden en door overeenkomsten;
-
-Vastberaden eveneens in dit verband om hun samenwerking te versterken en de algemene samenhang van de samenwerking te handhaven, onder meer door het versterken van het overleg op alle niveaus en het ondernemen van gemeenschappelijke acties met betrekking tot alle kwesties van gemeenschappelijk belang;
-
-Wijzend op het feit dat, als de partijen in het kader van deze overeenkomst specifieke overeenkomsten sluiten op het gebied van vrijheid, veiligheid en recht, die door de Unie zouden worden gesloten krachtens [titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=V), de bepalingen van dergelijke toekomstige specifieke overeenkomsten niet bindend zijn voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en/of Ierland, tenzij de Unie, samen met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en/of Ierland wat betreft hun respectieve bilaterale betrekkingen, Japan ervan in kennis heeft gesteld dat het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en/of Ierland gebonden zijn door dergelijke toekomstige specifieke overeenkomsten als deel van de Unie, overeenkomstig [Protocol (Nr. 21) betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht](onbekend), dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht; evenzo zijn interne maatregelen die de Unie krachtens titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie vaststelt met het oog op de tenuitvoerlegging van deze overeenkomst, niet bindend voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en/of Ierland, tenzij zij te kennen hebben gegeven deel te willen nemen aan deze maatregelen of deze te aanvaarden overeenkomstig Protocol (Nr. 21); en tevens erop wijzend dat dergelijke toekomstige overeenkomsten of daarmee samenhangende interne maatregelen van de Unie onder [Protocol (Nr. 22) betreffende de positie van Denemarken](onbekend) vallen, dat aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie is gehecht,
-
-Zijn het overeengekomen:
+*De Europese Unie, hierna „de Unie” genoemd, alsmede Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, Ierland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, De Republiek Kroatië, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, Hongarije, De Republiek Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, en Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna „de lidstaten” genoemd, hierna „de Uniepartij” genoemd, enerzijds, alsmede Japan, anderzijds, hierna gezamenlijk „de partijen” genoemd, Opnieuw bevestigend dat zij gehecht zijn aan de gemeenschappelijke waarden en beginselen, in het bijzonder de democratie, de rechtsstaat, de rechten van de mens en de fundamentele vrijheden, die de grondslag vormen voor hun diepgaande en langdurige samenwerking als strategische partners; Herinnerend aan de steeds nauwere banden die tussen hen zijn gesmeed sedert het afleggen van de gemeenschappelijke verklaring inzake betrekkingen tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en Japan, anderzijds, in 1991; Geleid door de wens voort te bouwen op de waardevolle bijdrage tot hun betrekkingen die de bestaande overeen komsten tussen beide partijen op talrijke terreinen tot stand hebben gebracht en deze te versterken; Erkennende dat de toenemende onderlinge afhankelijkheid wereldwijd ertoe heeft geleid dat de internationale samenwerking moet worden verdiept; Zich bewust, in dit verband, als gelijkgestemde mondiale partners, van hun gedeelde verantwoordelijkheid en hun bereidheid om een rechtvaardige en stabiele internationale orde tot stand te brengen in overeenstemming met de beginselen en de doelstellingen van het Handvest van de Verenigde Naties en om wereldwijd vrede, stabiliteit en welvaart alsook menselijke veiligheid te verwezenlijken; Vastbesloten in dit verband om nauw samen te werken bij het aanpakken van de grote mondiale problemen waarmee de internationale gemeenschap wordt geconfronteerd, zoals de verspreiding van massavernietigingswapens, terrorisme, klimaatverandering, armoede en besmettelijke ziekten, bedreigingen van het gemeenschappelijk belang op maritiem gebied, in de cyberruimte en de kosmische ruimte; Vastbesloten eveneens in dit verband dat de ernstigste misdrijven die de gehele internationale gemeenschap aangaan, niet onbestraft mogen blijven; Vastberaden in dit verband om hun algemene partnerschap op een alomvattende wijze te versterken door een uitbreiding van de politieke, economische en culturele banden en door overeenkomsten; Vastberaden eveneens in dit verband om hun samenwerking te versterken en de algemene samenhang van de samenwerking te handhaven, onder meer door het versterken van het overleg op alle niveaus en het ondernemen van gemeenschappelijke acties met betrekking tot alle kwesties van gemeenschappelijk belang; Wijzend op het feit dat, als de partijen in het kader van deze overeenkomst specifieke overeenkomsten sluiten op het gebied van vrijheid, veiligheid en recht, die door de Unie zouden worden gesloten krachtens titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie, de bepalingen van dergelijke toekomstige specifieke overeenkomsten niet bindend zijn voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en/of Ierland, tenzij de Unie, samen met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en/of Ierland wat betreft hun respectieve bilaterale betrekkingen, Japan ervan in kennis heeft gesteld dat het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en/of Ierland gebonden zijn door dergelijke toekomstige specifieke overeenkomsten als deel van de Unie, overeenkomstig Protocol (Nr. 21) betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht, dat aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie is gehecht; evenzo zijn interne maatregelen die de Unie krachtens titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie vaststelt met het oog op de tenuitvoerlegging van deze overeenkomst, niet bindend voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en/of Ierland, tenzij zij te kennen hebben gegeven deel te willen nemen aan deze maatregelen of deze te aanvaarden overeenkomstig Protocol (Nr. 21); en tevens erop wijzend dat dergelijke toekomstige overeenkomsten of daarmee samenhangende interne maatregelen van de Unie onder Protocol (Nr. 22) betreffende de positie van Denemarken vallen, dat aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie is gehecht, Zijn het overeengekomen:*
 
 ##### Artikel 1. Toepassingsgebied en algemene beginselen
 
 1. Het doel van deze overeenkomst is:
 
-- a). het versterken van het algemene partnerschap tussen de partijen door het stimuleren van politieke en sectorale samenwerking en gezamenlijke acties met betrekking tot kwesties van gemeenschappelijk belang, met inbegrip van regionale en mondiale vraagstukken;
+- a) het versterken van het algemene partnerschap tussen de partijen door het stimuleren van politieke en sectorale samenwerking en gezamenlijke acties met betrekking tot kwesties van gemeenschappelijk belang, met inbegrip van regionale en mondiale vraagstukken;
 
-- b). het voorzien in een duurzame rechtsgrondslag voor het versterken van zowel de bilaterale samenwerking als de samenwerking in internationale en regionale organisaties en fora;
+- b) het voorzien in een duurzame rechtsgrondslag voor het versterken van zowel de bilaterale samenwerking als de samenwerking in internationale en regionale organisaties en fora;
 
-- c). het gezamenlijk bijdragen aan internationale vrede en stabiliteit door het bevorderen van de vreedzame beslechting van geschillen, conform de beginselen van rechtvaardigheid en van het internationaal recht; alsmede
+- c) het gezamenlijk bijdragen aan internationale vrede en stabiliteit door het bevorderen van de vreedzame beslechting van geschillen, conform de beginselen van rechtvaardigheid en van het internationaal recht; alsmede
 
-- d). het gezamenlijk bijdragen aan de bevordering van gedeelde waarden en beginselen, in het bijzonder de democratie, de rechtsstaat, de mensenrechten en de fundamentele vrijheden.
+- d) het gezamenlijk bijdragen aan de bevordering van gedeelde waarden en beginselen, in het bijzonder de democratie, de rechtsstaat, de mensenrechten en de fundamentele vrijheden.
 
 2. Bij het nastreven van het in lid 1 vermelde doel voeren de partijen deze overeenkomst uit op basis van het beginsel van wederzijds respect, gelijkwaardig partnerschap en de eerbiediging van het internationaal recht.
 
@@ -146,7 +33,7 @@ Zijn het overeengekomen:
 
 ##### Artikel 2. Democratie, rechtsstaat, mensenrechten en fundamentele vrijheden
 
-1. De partijen blijven zich inzetten voor de gedeelde waarden en beginselen van de democratie, de rechtsstaat, de mensenrechten en de fundamentele vrijheden die ten grondslag liggen aan het binnenlandse en het buitenlandse beleid van de partijen. In dit verband bevestigen de partijen opnieuw dat zij de [Universele Verklaring van de Rechten van de Mens](onbekend) en de desbetreffende internationale mensenrechtenverdragen waarbij zij partij zijn, eerbiedigen.
+1. De partijen blijven zich inzetten voor de gedeelde waarden en beginselen van de democratie, de rechtsstaat, de mensenrechten en de fundamentele vrijheden die ten grondslag liggen aan het binnenlandse en het buitenlandse beleid van de partijen. In dit verband bevestigen de partijen opnieuw dat zij de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/BWBV0001008) en de desbetreffende internationale mensenrechtenverdragen waarbij zij partij zijn, eerbiedigen.
 
 2. De partijen bevorderen deze gedeelde waarden en beginselen in internationale fora. De partijen gaan in voorkomend geval over tot samenwerking en coördinatie bij de bevordering en verwezenlijking van deze waarden en beginselen, onder meer met of in derde landen.
 
@@ -164,7 +51,7 @@ De partijen bevorderen de uitwisseling van standpunten en streven ernaar samen o
 
 1. De partijen werken samen bij de versterking van het regime inzake niet-verspreiding en ontwapening om de verspreiding van massavernietigingswapens en de overbrengingsmiddelen daarvoor te voorkomen door de volledige naleving en de uitvoering van de verplichtingen die zij zijn aangegaan in het kader van het internationale recht, met inbegrip van de desbetreffende internationale overeenkomsten en andere internationale verplichtingen, zoals van toepassing op de partijen.
 
-2. De partijen bevorderen het [Verdrag inzake de niet-verspreiding van kernwapens](onbekend), gedaan te Londen, Moskou en Washington op 1 juli 1968 (hierna „het Non-proliferatieverdrag” genoemd) als de wezenlijke fundering voor nucleaire ontwapening, de hoeksteen van de mondiale regeling voor de niet-verspreiding van kernwapens en de grondslag voor de bevordering van het vreedzaam gebruik van kernenergie. Voorts voeren de partijen een beleid inzake en blijven zij actief bijdragen aan de mondiale inspanningen met het oog op een veiligere wereld voor iedereen en wijzen zij erop dat alle vraagstukken op het vlak van de niet-verspreiding van kernwapens en nucleaire ontwapening moeten worden aangepakt en het Verdrag inzake de niet-verspreiding van kernwapens moet worden gehandhaafd en versterkt, en scheppen zij de voorwaarden voor een wereld zonder kernwapens, overeenkomstig de doelstellingen van het Verdrag inzake de niet- verspreiding van kernwapens, op een wijze die bevorderlijk is voor de internationale stabiliteit, en op grond van het beginsel van onverkorte veiligheid voor eenieder.
+2. De partijen bevorderen het [Verdrag inzake de niet-verspreiding van kernwapens](https://wetten.overheid.nl/BWBV0004367), gedaan te Londen, Moskou en Washington op 1 juli 1968 (hierna „het Non-proliferatieverdrag” genoemd) als de wezenlijke fundering voor nucleaire ontwapening, de hoeksteen van de mondiale regeling voor de niet-verspreiding van kernwapens en de grondslag voor de bevordering van het vreedzaam gebruik van kernenergie. Voorts voeren de partijen een beleid inzake en blijven zij actief bijdragen aan de mondiale inspanningen met het oog op een veiligere wereld voor iedereen en wijzen zij erop dat alle vraagstukken op het vlak van de niet-verspreiding van kernwapens en nucleaire ontwapening moeten worden aangepakt en het Verdrag inzake de niet-verspreiding van kernwapens moet worden gehandhaafd en versterkt, en scheppen zij de voorwaarden voor een wereld zonder kernwapens, overeenkomstig de doelstellingen van het Verdrag inzake de niet- verspreiding van kernwapens, op een wijze die bevorderlijk is voor de internationale stabiliteit, en op grond van het beginsel van onverkorte veiligheid voor eenieder.
 
 3. De partijen blijven de verspreiding van massavernietigingswapens en de overbrengingsmiddelen daarvoor bestrijden, onder meer door het ontwikkelen en handhaven van een doeltreffend systeem van exportcontroles op goederen en technologieën voor tweeërlei gebruik en die verband houden met massavernietigingswapens, met inbegrip van een controle op eindgebruik en effectieve sancties op overtreding van de exportcontroles.
 
@@ -174,7 +61,7 @@ De partijen bevorderen de uitwisseling van standpunten en streven ernaar samen o
 
 1. De partijen gaan over tot samenwerking en coördinatie op het vlak van de controle op de overdracht van conventionele wapens en goederen en technologieën voor tweeërlei gebruik op mondiaal, regionaal, subregionaal en nationaal niveau met het oog op het voorkomen van hun verspreiding, om aldus bij te dragen aan vrede, veiligheid en stabiliteit en het menselijk leed op al deze niveaus te verminderen. Het beleid op de overdrachtscontrole wordt door de partijen op een verantwoorde wijze ontwikkeld en uitgevoerd, waarbij onder meer terdege rekening wordt gehouden met elkaars veiligheidsoverwegingen op mondiaal niveau en met betrekking tot zowel hun respectieve als andere regio's.
 
-2. De partijen bevestigen hun respectieve verbintenissen die zij zijn aangegaan in de kaders van de desbetreffende internationale instrumenten, zoals het [Wapenhandelsverdrag](onbekend), gedaan te New York op 2 april 2013, het VN-actieprogramma ter voorkoming, bestrijding en uitroeiing van de illegale handel in handvuurwapens en lichte wapens in al zijn aspecten en de desbetreffende resoluties van de Verenigde Naties en gaan over tot samenwerking en, in voorkomend geval, coördinatie in het kader van die instrumenten om de internationale handel te reguleren en de illegale handel in en omleiding van conventionele wapens, met inbegrip van handvuurwapens, lichte wapens en munitie te voorkomen en uit te bannen. De samenwerking overeenkomstig dit lid omvat in voorkomend geval het bevorderen van de universalisering en de ondersteuning van de volledige uitvoering van die kaders in derde landen.
+2. De partijen bevestigen hun respectieve verbintenissen die zij zijn aangegaan in de kaders van de desbetreffende internationale instrumenten, zoals het [Wapenhandelsverdrag](https://wetten.overheid.nl/BWBV0006233), gedaan te New York op 2 april 2013, het VN-actieprogramma ter voorkoming, bestrijding en uitroeiing van de illegale handel in handvuurwapens en lichte wapens in al zijn aspecten en de desbetreffende resoluties van de Verenigde Naties en gaan over tot samenwerking en, in voorkomend geval, coördinatie in het kader van die instrumenten om de internationale handel te reguleren en de illegale handel in en omleiding van conventionele wapens, met inbegrip van handvuurwapens, lichte wapens en munitie te voorkomen en uit te bannen. De samenwerking overeenkomstig dit lid omvat in voorkomend geval het bevorderen van de universalisering en de ondersteuning van de volledige uitvoering van die kaders in derde landen.
 
 3. De partijen handhaven en versterken hun dialoog om de door de partijen overeenkomstig dit artikel aangegane verbintenissen te begeleiden en te consolideren.
 
@@ -182,17 +69,17 @@ De partijen bevorderen de uitwisseling van standpunten en streven ernaar samen o
 
 1. De partijen werken samen bij de bevordering van het onderzoek en de vervolging van ernstige misdaden waarmee de internationale gemeenschap wordt geconfronteerd, onder meer door middel van het Internationaal Strafhof en in voorkomend geval rechterlijke instanties die overeenkomstig de desbetreffende resoluties van de Verenigde Naties zijn ingesteld.
 
-2. De partijen werken samen bij de bevordering van de doelstellingen van het in Rome op 17 juli 1998 aangenomen [Statuut van Rome van het Internationaal Strafhof](onbekend) (hierna „het Statuut” genoemd). Met het oog hierop:
+2. De partijen werken samen bij de bevordering van de doelstellingen van het in Rome op 17 juli 1998 aangenomen [Statuut van Rome van het Internationaal Strafhof](https://wetten.overheid.nl/BWBV0001489) (hierna „het Statuut” genoemd). Met het oog hierop:
 
-- a). blijven zij de universaliteit van het [Statuut](onbekend) bevorderen, onder meer, in voorkomend geval, door ervaring uit te wisselen bij het vaststellen van maatregelen die vereist zijn voor de sluiting en uitvoering ervan;
+- a) blijven zij de universaliteit van het [Statuut](https://wetten.overheid.nl/BWBV0001489) bevorderen, onder meer, in voorkomend geval, door ervaring uit te wisselen bij het vaststellen van maatregelen die vereist zijn voor de sluiting en uitvoering ervan;
 
-- b). waarborgen zij de integriteit van het [Statuut](onbekend) door de kernbeginselen ervan te beschermen; alsmede
+- b) waarborgen zij de integriteit van het [Statuut](https://wetten.overheid.nl/BWBV0001489) door de kernbeginselen ervan te beschermen; alsmede
 
-- c). werken zij samen om de doeltreffendheid van het Internationaal Strafhof verder te verhogen.
+- c) werken zij samen om de doeltreffendheid van het Internationaal Strafhof verder te verhogen.
 
 ##### Artikel 8. Terrorismebestrijding
 
-1. De partijen werken samen op bilateraal, regionaal en internationaal niveau om daden van terrorisme in al zijn vormen en uitingen te voorkomen en te bestrijden overeenkomstig het toepasselijke internationale recht, met inbegrip van internationale overeenkomsten ter bestrijding van terrorisme, het internationaal humanitair recht en het internationaal recht inzake de mensenrechten, zoals van toepassing op de partijen, en de beginselen van het [Handvest van de Verenigde Naties](onbekend).
+1. De partijen werken samen op bilateraal, regionaal en internationaal niveau om daden van terrorisme in al zijn vormen en uitingen te voorkomen en te bestrijden overeenkomstig het toepasselijke internationale recht, met inbegrip van internationale overeenkomsten ter bestrijding van terrorisme, het internationaal humanitair recht en het internationaal recht inzake de mensenrechten, zoals van toepassing op de partijen, en de beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/BWBV0004143).
 
 2. De partijen versterken de samenwerking en houden hierbij rekening met de mondiale strategie voor terrorismebestrijding van de Verenigde Naties en de desbetreffende resoluties van de Veiligheidsraad van de Verenigde Naties.
 
@@ -234,7 +121,7 @@ De partijen bevorderen de uitwisseling van standpunten en streven ernaar samen o
 
 ##### Artikel 14. Wetenschap, technologie en innovatie
 
-Op basis van de Overeenkomst tussen de Europese Gemeenschap en de regering van Japan betreffende samenwerking op het gebied van wetenschap en technologie, die op 30 november 2009 te Brussel is opgesteld, zoals eventueel gewijzigd, verbeteren de partijen de samenwerking op het vlak van wetenschap, technologie en innovatie met bijzondere aandacht voor de prioriteiten van wederzijds belang.
+Op basis van de Overeenkomst tussen de Europese Gemeenschap en de regering van Japan betreffende samenwerking op het gebied van wetenschap en technologie, die op 30 november 2009 te Brussel is opgesteld, zoals eventueel gewijzigd, verbeteren de partijen de samenwerking op het vlak van wetenschap, technologie en innovatie met bijzondere aandacht voor de prioriteiten van wederzijds belang.
 
 ##### Artikel 15. Vervoer
 
@@ -242,11 +129,11 @@ Op basis van de Overeenkomst tussen de Europese Gemeenschap en de regering van J
 
 2. De in lid 1 bedoelde samenwerkingsgebieden omvatten:
 
-- a). de luchtvaartsector, met name luchtvaartveiligheid, luchtvaartbeveiliging, luchtverkeersbeheer, en desbetreffende andere regelgeving met als doel bredere en wederzijds voordelige luchtvervoersbetrekkingen te bevorderen, onder meer, in voorkomend geval, op basis van wederzijdse instemming en belang samenwerking op technisch en regelgevingsvlak en verdere overeenkomsten na te streven;
+- a) de luchtvaartsector, met name luchtvaartveiligheid, luchtvaartbeveiliging, luchtverkeersbeheer, en desbetreffende andere regelgeving met als doel bredere en wederzijds voordelige luchtvervoersbetrekkingen te bevorderen, onder meer, in voorkomend geval, op basis van wederzijdse instemming en belang samenwerking op technisch en regelgevingsvlak en verdere overeenkomsten na te streven;
 
-- b). de zeevervoersector; en
+- b) de zeevervoersector; en
 
-- c). de spoorwegsector.
+- c) de spoorwegsector.
 
 ##### Artikel 16. Ruimte
 
@@ -262,7 +149,7 @@ Op basis van de Overeenkomst tussen de Europese Gemeenschap en de regering van J
 
 ##### Artikel 18. Douane
 
-De partijen verbeteren de samenwerking op het gebied van douane, onder meer door facilitering van de legale handel, waarbij wordt gezorgd voor een doeltreffende douanecontrole en naleving van de douanewet- en regelgeving, gebaseerd op de op 30 januari 2008 in Brussel ondertekende overeenkomst tussen de Europese Gemeenschap en de regering van Japan betreffende samenwerking en wederzijdse administratieve bijstand in douanezaken, zoals eventueel gewijzigd. Zij wisselen ook van gedachten en werken samen in de desbetreffende internationale kaders.
+De partijen verbeteren de samenwerking op het gebied van douane, onder meer door facilitering van de legale handel, waarbij wordt gezorgd voor een doeltreffende douanecontrole en naleving van de douanewet- en regelgeving, gebaseerd op de op 30 januari 2008 in Brussel ondertekende overeenkomst tussen de Europese Gemeenschap en de regering van Japan betreffende samenwerking en wederzijdse administratieve bijstand in douanezaken, zoals eventueel gewijzigd. Zij wisselen ook van gedachten en werken samen in de desbetreffende internationale kaders.
 
 ##### Artikel 19. Belastingen
 
@@ -276,13 +163,13 @@ De partijen verbeteren de samenwerking met betrekking tot de duurzame ontwikkeli
 
 De partijen hebben gedachtewisselingen over hun respectieve beleid en regelgeving op het vlak van informatie- en communicatietechnologieën en versterken hun samenwerking inzake cruciale vraagstukken, waaronder:
 
-- a). elektronische communicatie met inbegrip van internetgovernance en onlineveiligheid en -beveiliging;
+- a) elektronische communicatie met inbegrip van internetgovernance en onlineveiligheid en -beveiliging;
 
-- b). interconnectie van onderzoeksnetwerken, onder meer in een regionale context;
+- b) interconnectie van onderzoeksnetwerken, onder meer in een regionale context;
 
-- c). bevordering van onderzoek en innovatie; alsmede
+- c) bevordering van onderzoek en innovatie; alsmede
 
-- d). normalisering en verspreiding van nieuwe technologieën.
+- d) normalisering en verspreiding van nieuwe technologieën.
 
 ##### Artikel 22. Consumentenbeleid
 
@@ -292,31 +179,31 @@ De partijen bevorderen dialoog en gedachtewisselingen over beleid en wet- en reg
 
 1. De partijen bevorderen de uitwisseling van standpunten, informatie en beste praktijken, met betrekking tot milieubeleid en -regelgeving, en versterken de samenwerking op onder meer volgende terreinen:
 
-- a). efficiënt gebruik van grondstoffen;
+- a) efficiënt gebruik van grondstoffen;
 
-- b). biologische diversiteit;
+- b) biologische diversiteit;
 
-- c). duurzame consumptie en productie;
+- c) duurzame consumptie en productie;
 
-- d). technologieën, goederen en diensten ter ondersteuning van milieubescherming;
+- d) technologieën, goederen en diensten ter ondersteuning van milieubescherming;
 
-- e). behoud en duurzaam beheer van bossen met inbegrip van, in voorkomend geval, de bestrijding van illegale houtkap; alsmede
+- e) behoud en duurzaam beheer van bossen met inbegrip van, in voorkomend geval, de bestrijding van illegale houtkap; alsmede
 
-- f). andere terreinen die in het kader van de desbetreffende beleidsdialoog zijn vastgesteld.
+- f) andere terreinen die in het kader van de desbetreffende beleidsdialoog zijn vastgesteld.
 
 2. De partijen streven ernaar de samenwerking te verbeteren in de kaders van de desbetreffende internationale overeenkomsten en instrumenten, al naargelang van toepassing op de partijen, en in internationale fora.
 
 ##### Artikel 24. Klimaatverandering
 
-1. De partijen erkennen de noodzaak van een dringende, diepgaande en gestage vermindering van de wereldwijde uitstoot van broeikasgassen om de wereldwijde gemiddelde temperatuurstijging te beperken tot beduidend minder dan 2 °C in vergelijking met de pre-industriële niveaus en te streven naar een beperking van de temperatuurstijging tot 1,5 °C boven de pre-industriële niveaus, en nemen het voortouw bij het bestrijden van de klimaatverandering en de schadelijke gevolgen daarvan, onder meer door binnenlandse en internationale acties om antropogene broeikasgasemissies te beperken. De partijen werken samen, in voorkomend geval, binnen het kader van het [Raamverdrag van de Verenigde Naties inzake klimaatverandering](onbekend) gedaan te New York op 9 mei 1992 om de doelstelling van dat verdrag door de uitvoering van de [Klimaatovereenkomst van Parijs](onbekend), gedaan te Parijs op 12 december 2015, te verwezenlijken en de multilaterale rechtskaders te versterken. Voorts streven zij ernaar de samenwerking in de desbetreffende andere internationale fora te versterken.
+1. De partijen erkennen de noodzaak van een dringende, diepgaande en gestage vermindering van de wereldwijde uitstoot van broeikasgassen om de wereldwijde gemiddelde temperatuurstijging te beperken tot beduidend minder dan 2 °C in vergelijking met de pre-industriële niveaus en te streven naar een beperking van de temperatuurstijging tot 1,5 °C boven de pre-industriële niveaus, en nemen het voortouw bij het bestrijden van de klimaatverandering en de schadelijke gevolgen daarvan, onder meer door binnenlandse en internationale acties om antropogene broeikasgasemissies te beperken. De partijen werken samen, in voorkomend geval, binnen het kader van het [Raamverdrag van de Verenigde Naties inzake klimaatverandering](https://wetten.overheid.nl/BWBV0001115) gedaan te New York op 9 mei 1992 om de doelstelling van dat verdrag door de uitvoering van de [Klimaatovereenkomst van Parijs](https://wetten.overheid.nl/BWBV0006603), gedaan te Parijs op 12 december 2015, te verwezenlijken en de multilaterale rechtskaders te versterken. Voorts streven zij ernaar de samenwerking in de desbetreffende andere internationale fora te versterken.
 
 2. Met het oog op de bevordering van duurzame ontwikkeling streven de partijen ook naar samenwerking door het verbeteren van de informatie-uitwisselingen beste praktijken, en in voorkomend geval, het bevorderen van beleidscoördinatie met betrekking tot kwesties van gemeenschappelijk belang op het vlak van klimaatverandering, met inbegrip van de volgende vraagstukken:
 
-- a). beperking van de klimaatverandering door verschillende maatregelen zoals onderzoek en ontwikkeling van koolstofarme technologie, marktgebaseerde mechanismen en beperking van de emissies van verontreinigende stoffen met een korte levensduur;
+- a) beperking van de klimaatverandering door verschillende maatregelen zoals onderzoek en ontwikkeling van koolstofarme technologie, marktgebaseerde mechanismen en beperking van de emissies van verontreinigende stoffen met een korte levensduur;
 
-- b). aanpassing aan de negatieve gevolgen van de klimaatverandering; alsmede
+- b) aanpassing aan de negatieve gevolgen van de klimaatverandering; alsmede
 
-- c). bijstand aan derde landen.
+- c) bijstand aan derde landen.
 
 ##### Artikel 25. Stedelijk beleid
 
@@ -342,17 +229,17 @@ De partijen streven ernaar de samenwerking en in voorkomend geval de nauwe coör
 
 ##### Artikel 29. Maritieme aangelegenheden
 
-Overeenkomstig het internationaal recht als weergegeven in het [Verdrag van de Verenigde Naties inzake het recht van de zee](onbekend) gedaan te Montego Bay op 10 december 1982 (hierna „het Zeerechtverdrag” genoemd) bevorderen de partijen de dialoog, versterken zij het wederzijds begrip inzake maritieme aangelegenheden en werken zij samen met het oog op de bevordering van:
+Overeenkomstig het internationaal recht als weergegeven in het [Verdrag van de Verenigde Naties inzake het recht van de zee](https://wetten.overheid.nl/BWBV0003172) gedaan te Montego Bay op 10 december 1982 (hierna „het Zeerechtverdrag” genoemd) bevorderen de partijen de dialoog, versterken zij het wederzijds begrip inzake maritieme aangelegenheden en werken zij samen met het oog op de bevordering van:
 
-- a). de heerschappij van het recht op dit gebied, met inbegrip van de vrijheid van scheepvaart en van overvliegen en de andere vrijheden van de volle zee, als bedoeld in [artikel 87 van het Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=87); alsmede
+- a) de heerschappij van het recht op dit gebied, met inbegrip van de vrijheid van scheepvaart en van overvliegen en de andere vrijheden van de volle zee, als bedoeld in [artikel 87 van het Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=87); alsmede
 
-- b). de instandhouding op de lange termijn, het duurzaam beheer en de betere kennis van de ecosystemen en niet-levende rijkdommen van de zeeën en oceanen overeenkomstig het toepasselijke internationale recht.
+- b) de instandhouding op de lange termijn, het duurzaam beheer en de betere kennis van de ecosystemen en niet-levende rijkdommen van de zeeën en oceanen overeenkomstig het toepasselijke internationale recht.
 
 ##### Artikel 30. Werkgelegenheid en sociale zaken
 
 1. De partijen versterken de samenwerking op het vlak van werkgelegenheid, sociale zaken en fatsoenlijk werk, waarbij het onder meer gaat om het werkgelegenheidsbeleid en de socialezekerheidsstelsels in de context van de sociale dimensie van globalisering en demografische veranderingen door de uitwisseling van standpunten en ervaring en in voorkomend geval activiteiten in het kader van samenwerking met betrekking tot kwesties van gemeenschappelijk belang.
 
-2. De partijen streven ernaar internationaal erkende arbeids- en sociale normen te eerbiedigen, te bevorderen en te verwezenlijken en fatsoenlijk werk te bevorderen op grond van hun respectieve verbintenissen ten aanzien van de desbetreffende internationale instrumenten, zoals de op 18 juni 1998 vastgestelde Verklaring van de Internationale Arbeidsorganisatie over de fundamentele principes en rechten met betrekking tot werk en de op 10 juni 2008 vastgestelde Verklaring van de Internationale Arbeidsorganisatie over sociale gerechtigheid voor een eerlijke globalisering.
+2. De partijen streven ernaar internationaal erkende arbeids- en sociale normen te eerbiedigen, te bevorderen en te verwezenlijken en fatsoenlijk werk te bevorderen op grond van hun respectieve verbintenissen ten aanzien van de desbetreffende internationale instrumenten, zoals de op 18 juni 1998 vastgestelde Verklaring van de Internationale Arbeidsorganisatie over de fundamentele principes en rechten met betrekking tot werk en de op 10 juni 2008 vastgestelde Verklaring van de Internationale Arbeidsorganisatie over sociale gerechtigheid voor een eerlijke globalisering.
 
 ##### Artikel 31. Gezondheid
 
@@ -362,7 +249,7 @@ De partijen bevorderen de uitwisseling van standpunten, informatie en ervaring o
 
 1. De partijen versterken de justitiële samenwerking in burgerlijke en handelszaken, in het bijzonder met betrekking tot de bevordering en doeltreffendheid van multilaterale overeenkomsten inzake justitiële samenwerking in civiele zaken.
 
-2. De partijen versterken de justitiële samenwerking in strafzaken op basis van de Overeenkomst tussen de Europese Unie en Japan betreffende wederzijdse rechtshulp in strafzaken, ondertekend in Brussel op 30 november 2009 en in Tokio op 15 december 2009, zoals eventueel gewijzigd.
+2. De partijen versterken de justitiële samenwerking in strafzaken op basis van de Overeenkomst tussen de Europese Unie en Japan betreffende wederzijdse rechtshulp in strafzaken, ondertekend in Brussel op 30 november 2009 en in Tokio op 15 december 2009, zoals eventueel gewijzigd.
 
 ##### Artikel 33. Bestrijding van corruptie en georganiseerde criminaliteit
 
@@ -376,13 +263,13 @@ De partijen verbeteren de samenwerking, onder meer door het uitwisselen van info
 
 De partijen verbeteren de samenwerking bij de preventie en -bestrijding van illegale drugs met het oog op:
 
-- a). het terugdringen van het aanbod van, de handel in en de vraag naar illegale drugs;
+- a) het terugdringen van het aanbod van, de handel in en de vraag naar illegale drugs;
 
-- b). het voorkomen van het onrechtmatig gebruik van voorlopers voor de illegale productie van verdovende middelen of psychotrope stoffen;
+- b) het voorkomen van het onrechtmatig gebruik van voorlopers voor de illegale productie van verdovende middelen of psychotrope stoffen;
 
-- c). het beschermen van de volksgezondheid en het openbaar welzijn; alsmede
+- c) het beschermen van de volksgezondheid en het openbaar welzijn; alsmede
 
-- d). het ontmantelen van de grensoverschrijdende criminele netwerken die betrokken zijn bij de handel in drugs, in het bijzonder om de penetratie van deze netwerken in legitieme commerciële en financiële zaken te voorkomen, onder meer door de uitwisseling van informatie en beste praktijken.
+- d) het ontmantelen van de grensoverschrijdende criminele netwerken die betrokken zijn bij de handel in drugs, in het bijzonder om de penetratie van deze netwerken in legitieme commerciële en financiële zaken te voorkomen, onder meer door de uitwisseling van informatie en beste praktijken.
 
 ##### Artikel 36. Samenwerking op het vlak van cybervraagstukken
 
@@ -428,19 +315,19 @@ De partijen verbeteren de samenwerking om een hoge mate van bescherming van pers
 
 2. Het gemengd comité:
 
-- a). coördineert het algemene partnerschap dat op deze overeenkomst is gebaseerd;
+- a) coördineert het algemene partnerschap dat op deze overeenkomst is gebaseerd;
 
-- b). verzoekt waar nodig om informatie aan comités of andere organen die bij andere overeenkomsten of regelingen tussen de partijen zijn ingesteld, en wisselt standpunten uit over kwesties van gemeenschappelijk belang;
+- b) verzoekt waar nodig om informatie aan comités of andere organen die bij andere overeenkomsten of regelingen tussen de partijen zijn ingesteld, en wisselt standpunten uit over kwesties van gemeenschappelijk belang;
 
-- c). besluit tot uitbreiding van de samenwerking tot verdere terreinen die niet in deze overeenkomst zijn vermeld, op voorwaarde dat zij in overeenstemming zijn met de doelstellingen van deze overeenkomst;
+- c) besluit tot uitbreiding van de samenwerking tot verdere terreinen die niet in deze overeenkomst zijn vermeld, op voorwaarde dat zij in overeenstemming zijn met de doelstellingen van deze overeenkomst;
 
-- d). zorgt voor de goede werking en doeltreffende uitvoering van deze overeenkomst;
+- d) zorgt voor de goede werking en doeltreffende uitvoering van deze overeenkomst;
 
-- e). streeft naar de beslechting van geschillen die zich ten aanzien van de toepassing of uitvoering van deze overeenkomst voordoen;
+- e) streeft naar de beslechting van geschillen die zich ten aanzien van de toepassing of uitvoering van deze overeenkomst voordoen;
 
-- f). is een forum om de desbetreffende wijzigingen van beleidslijnen, programma's of bevoegdheden die betrekking hebben op deze overeenkomst, toe te lichten; alsmede
+- f) is een forum om de desbetreffende wijzigingen van beleidslijnen, programma's of bevoegdheden die betrekking hebben op deze overeenkomst, toe te lichten; alsmede
 
-- g). doet aanbevelingen en stelt in voorkomend geval besluiten vast, en faciliteert specifieke aspecten van de samenwerking op basis van deze overeenkomst.
+- g) doet aanbevelingen en stelt in voorkomend geval besluiten vast, en faciliteert specifieke aspecten van de samenwerking op basis van deze overeenkomst.
 
 3. Het gemengd comité neemt zijn besluiten met eenparigheid van stemmen.
 

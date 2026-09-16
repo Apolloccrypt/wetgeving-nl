@@ -1,82 +1,19 @@
 ---
 title: "Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de financiering van de steun van de Europese Unie binnen het meerjarig financieel kader voor de periode 2014-2020, overeenkomstig de ACS-EU-partnerschapsovereenkomst, en betreffende de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van het vierde deel van het Verdrag betreffende de werking van de Europese Unie van toepassing zijn"
 identifier: "BWBV0006238"
-country: "nl"
-rank: "verdrag"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006238"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10005112483"
-version_id: "10005460342"
-internal_id: "C10008774221"
-label_id: "10005095404"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006238/2015-03-01/0"
-intitule_bron: "Trb.2013-145"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-09-05"
-intitule_in_force: "2015-03-16"
-intitule_status: "goed"
-original_publication: "Trb.2013-145"
-original_published_date: "2013-09-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2013-145"
-entry_into_force_date: "2015-03-01"
-jci_1_3: "jci1.3:c:BWBV0006238&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBV0006238&g=2015-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-01"
+publicatiedatum: 2015-03-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBV0006238"
+opgehaald: 2026-09-16
 ---
+
 # Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de financiering van de steun van de Europese Unie binnen het meerjarig financieel kader voor de periode 2014-2020, overeenkomstig de ACS-EU-partnerschapsovereenkomst, en betreffende de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van het vierde deel van het Verdrag betreffende de werking van de Europese Unie van toepassing zijn
 
-De vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de Raad bijeen,
-
-Gezien het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507),
-
-Gezien het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506),
-
-Na raadpleging van de Europese Commissie,
-
-Na raadpleging van de Europese Investeringsbank,
-
-Overwegende hetgeen volgt:
-
-De [Partnerschapsovereenkomst tussen de leden van de groep van staten in Afrika, het Caribisch gebied en de Stille Oceaan (ACS), enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0005264), ondertekend te Cotonou op 23 juni 20002)PbEU L 317 van 15 december 2000, blz. 3., voor de eerste maal gewijzigd te Luxemburg op 25 juni 20053)PbEU L 287 van 28 oktober 2005, blz. 4. en voor de tweede maal gewijzigd op 22 juni 2010 in Ouagadougou4)PbEU L 287 van 4 november 2010, blz. 3. (de „ACS-EU-partnerschapsovereenkomst”), voorziet in de goedkeuring van financiële protocollen voor elke periode van vijf jaar.
-
-Op 17 juli 2006 hechtten de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, hun goedkeuring aan het Intern Akkoord betreffende de financiering van de steun van de Gemeenschap binnen het meerjarig financieel kader voor 2008-2013 voor de ACS-EG-partnerschapsovereenkomst en de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van [deel vier van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&deel=VIERDE) van toepassing zijn5)PbEU L 247 van 9 september 2006, blz. 32..
-
-Besluit 2001/822/EG van de Raad van 27 november 2001 betreffende de associatie van de LGO met de Europese Gemeenschap6)PbEU L 314 van 30 november 2001, blz. 1. („het LGO-besluit”), is van kracht tot 31 december 2013. Voor die datum moet een nieuw besluit worden vastgesteld.
-
-Met het oog op de tenuitvoerlegging van de ACS-EU-partnerschapsovereenkomst en het LGO-besluit moet een elfde Europees Ontwikkelingsfonds (EOF) worden ingesteld en moet een procedure worden bepaald voor de toewijzing van middelen en voor de bijdragen van de lidstaten daaraan.
-
-De Unie en haar lidstaten hebben tezamen met de staten in Afrika, het Caribisch gebied en de Stille Oceaan („ACS-staten”) overeenkomstig bijlage I ter van de ACS-EU-partnerschapsovereenkomst een prestatie-evaluatie uitgevoerd, met name om na te gaan in welke mate de vastleggingen en betalingen zijn gerealiseerd.
-
-Er moeten regels worden vastgesteld voor het beheer van de financiële samenwerking.
-
-Bij de Commissie moet een comité van vertegenwoordigers van de regeringen van de lidstaten worden gevestigd („het EOF-comité”) en bij de Europese Investeringsbank (EIB) moet een soortgelijk comité worden gevestigd. De werkzaamheden die door de Commissie en de EIB worden verricht voor de toepassing van de ACS-EU-partnerschapsovereenkomst en de overeenkomstige bepalingen van het besluit van de landen en gebieden overzee (LGO) dienen te worden geharmoniseerd.
-
-Het beleid van de Unie inzake ontwikkelingssamenwerking wordt geleid door de millenniumdoelstellingen voor ontwikkeling die door de Algemene Vergadering van de Verenigde Naties op 8 september 2000 werden aangenomen, met inbegrip van daaropvolgende aanpassingen.
-
-De Raad en de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, het Europees Parlement en de Commissie namen op 22 december 2005 een gemeenschappelijke verklaring betreffende het ontwikkelingsbeleid van de Europese Unie: „De Europese consensus” aan7)PbEU C 46 van 24 februari 2006, blz. 1..
-
-De Raad heeft op 9 december 2010 zijn goedkeuring gehecht aan de conclusies over wederzijdse verantwoordingsplicht en transparantie: het vierde hoofdstuk van het operationele kader van de EU inzake doeltreffendheid van ontwikkelingshulp. Deze conclusies werden toegevoegd aan de geconsolideerde tekst van het operationele kader inzake doeltreffendheid van ontwikkelingshulp waarin de overeenkomsten in het kader van de verklaring van Parijs over de doeltreffendheid van hulp (2005), de EU-gedragscode inzake complementariteit en taakverdeling in het ontwikkelingsbeleid (2007) en de EU-richtsnoeren voor de Actieagenda van Accra (2008) werden bevestigd. De Raad heeft op 14 november 2011 tevens zijn goedkeuring gehecht aan een gemeenschappelijk standpunt van de EU, dat onder meer betrekking had op de EU-transparantiewaarborg en andere aspecten van transparantie en verantwoordingsplicht, voor het vierde Forum op hoog niveau te Busan. Op 14 mei 2012 heeft de Raad conclusies aangenomen over „Het EU-ontwikkelingsbeleid trefzekerder maken: een agenda voor verandering” en over „De toekomstige strategie inzake EU-begrotingssteun aan derde landen”.
-
-Er wordt herinnerd aan de doelstellingen inzake officiële ontwikkelingshulp (ODA) die zijn vermeld in overweging 10. Wanneer de Commissie de lidstaten en de OESO/DAC verslag uitbrengt over uitgaven binnen het elfde EOF, moet zij een onderscheid maken tussen ODA- en niet-ODA-activiteiten.
-
-Op 22 december 2009 keurde de Raad de conclusies goed betreffende de betrekkingen van de EU met de landen en gebieden overzee (LGO).
-
-Dit Akkoord moet worden toegepast in overeenstemming met Besluit 2010/427/EU van 26 juli 2010 tot vaststelling van de organisatie en werking van de Europese Dienst voor extern optreden8)PbEU L 201 van 3 augustus 2010, blz. 30..
-
-Om te voorkomen dat de financiering tussen maart en december 2020 stilvalt, is het dienstig de looptijd van het meerjarig financieel kader van het elfde EOF te doen samenvallen met die van het meerjarig financieel kader voor de periode 2014-2020 dat van toepassing is op de algemene begroting van de Unie. Het is daarom verkieslijk 31 december 2020 vast te leggen als uiterste datum voor vastleggingen van middelen van het elfde EOF, veeleer dan 28 februari 2020, de uiterste datum voor de toepassing van de [ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264).
-
-Voortbouwend op de basisbeginselen van de [ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264), zijn de doelstellingen van het elfde EOF de uitroeiing van armoede, duurzame ontwikkeling en geleidelijke integratie van de ACS-staten in de wereldeconomie. De minst ontwikkelde landen krijgen een bijzondere behandeling.
-
-Om de sociaal-economische samenwerking met de ultraperifere gebieden van de Unie en de ACS-staten, alsmede met de LGO’s in het Caribisch gebied, West-Afrika en de Indische Oceaan te versterken, voorzien de verordeningen betreffende het Europees Fonds voor Regionale Ontwikkeling en betreffende de Europese territoriale samenwerking in een versterking van de toewijzingen voor 2014-2020 voor hun onderlinge samenwerking,
-
-Zijn het volgende overeengekomen:
+*De vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de Raad bijeen, Gezien het Verdrag betreffende de Europese Unie, Gezien het Verdrag betreffende de werking van de Europese Unie, Na raadpleging van de Europese Commissie, Na raadpleging van de Europese Investeringsbank, Overwegende hetgeen volgt: 1. De Partnerschapsovereenkomst tussen de leden van de groep van staten in Afrika, het Caribisch gebied en de Stille Oceaan (ACS), enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 20002)PbEU L 317 van 15 december 2000, blz. 3., voor de eerste maal gewijzigd te Luxemburg op 25 juni 20053)PbEU L 287 van 28 oktober 2005, blz. 4. en voor de tweede maal gewijzigd op 22 juni 2010 in Ouagadougou4)PbEU L 287 van 4 november 2010, blz. 3. (de „ACS-EU-partnerschapsovereenkomst”), voorziet in de goedkeuring van financiële protocollen voor elke periode van vijf jaar. 2. Op 17 juli 2006 hechtten de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, hun goedkeuring aan het Intern Akkoord betreffende de financiering van de steun van de Gemeenschap binnen het meerjarig financieel kader voor 2008-2013 voor de ACS-EG-partnerschapsovereenkomst en de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van deel vier van het EG-Verdrag van toepassing zijn5)PbEU L 247 van 9 september 2006, blz. 32.. 3. Besluit 2001/822/EG van de Raad van 27 november 2001 betreffende de associatie van de LGO met de Europese Gemeenschap6)PbEU L 314 van 30 november 2001, blz. 1. („het LGO-besluit”), is van kracht tot 31 december 2013. Voor die datum moet een nieuw besluit worden vastgesteld. 4. Met het oog op de tenuitvoerlegging van de ACS-EU-partnerschapsovereenkomst en het LGO-besluit moet een elfde Europees Ontwikkelingsfonds (EOF) worden ingesteld en moet een procedure worden bepaald voor de toewijzing van middelen en voor de bijdragen van de lidstaten daaraan. 5. De Unie en haar lidstaten hebben tezamen met de staten in Afrika, het Caribisch gebied en de Stille Oceaan („ACS-staten”) overeenkomstig bijlage I ter van de ACS-EU-partnerschapsovereenkomst een prestatie-evaluatie uitgevoerd, met name om na te gaan in welke mate de vastleggingen en betalingen zijn gerealiseerd. 6. Er moeten regels worden vastgesteld voor het beheer van de financiële samenwerking. 7. Bij de Commissie moet een comité van vertegenwoordigers van de regeringen van de lidstaten worden gevestigd („het EOF-comité”) en bij de Europese Investeringsbank (EIB) moet een soortgelijk comité worden gevestigd. De werkzaamheden die door de Commissie en de EIB worden verricht voor de toepassing van de ACS-EU-partnerschapsovereenkomst en de overeenkomstige bepalingen van het besluit van de landen en gebieden overzee (LGO) dienen te worden geharmoniseerd. 8. Het beleid van de Unie inzake ontwikkelingssamenwerking wordt geleid door de millenniumdoelstellingen voor ontwikkeling die door de Algemene Vergadering van de Verenigde Naties op 8 september 2000 werden aangenomen, met inbegrip van daaropvolgende aanpassingen. 9. De Raad en de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, het Europees Parlement en de Commissie namen op 22 december 2005 een gemeenschappelijke verklaring betreffende het ontwikkelingsbeleid van de Europese Unie: „De Europese consensus” aan7)PbEU C 46 van 24 februari 2006, blz. 1.. 10. De Raad heeft op 9 december 2010 zijn goedkeuring gehecht aan de conclusies over wederzijdse verantwoordingsplicht en transparantie: het vierde hoofdstuk van het operationele kader van de EU inzake doeltreffendheid van ontwikkelingshulp. Deze conclusies werden toegevoegd aan de geconsolideerde tekst van het operationele kader inzake doeltreffendheid van ontwikkelingshulp waarin de overeenkomsten in het kader van de verklaring van Parijs over de doeltreffendheid van hulp (2005), de EU-gedragscode inzake complementariteit en taakverdeling in het ontwikkelingsbeleid (2007) en de EU-richtsnoeren voor de Actieagenda van Accra (2008) werden bevestigd. De Raad heeft op 14 november 2011 tevens zijn goedkeuring gehecht aan een gemeenschappelijk standpunt van de EU, dat onder meer betrekking had op de EU-transparantiewaarborg en andere aspecten van transparantie en verantwoordingsplicht, voor het vierde Forum op hoog niveau te Busan. Op 14 mei 2012 heeft de Raad conclusies aangenomen over „Het EU-ontwikkelingsbeleid trefzekerder maken: een agenda voor verandering” en over „De toekomstige strategie inzake EU-begrotingssteun aan derde landen”. 11. Er wordt herinnerd aan de doelstellingen inzake officiële ontwikkelingshulp (ODA) die zijn vermeld in overweging 10. Wanneer de Commissie de lidstaten en de OESO/DAC verslag uitbrengt over uitgaven binnen het elfde EOF, moet zij een onderscheid maken tussen ODA- en niet-ODA-activiteiten. 12. Op 22 december 2009 keurde de Raad de conclusies goed betreffende de betrekkingen van de EU met de landen en gebieden overzee (LGO). 13. Dit Akkoord moet worden toegepast in overeenstemming met Besluit 2010/427/EU van 26 juli 2010 tot vaststelling van de organisatie en werking van de Europese Dienst voor extern optreden8)PbEU L 201 van 3 augustus 2010, blz. 30.. 14. Om te voorkomen dat de financiering tussen maart en december 2020 stilvalt, is het dienstig de looptijd van het meerjarig financieel kader van het elfde EOF te doen samenvallen met die van het meerjarig financieel kader voor de periode 2014-2020 dat van toepassing is op de algemene begroting van de Unie. Het is daarom verkieslijk 31 december 2020 vast te leggen als uiterste datum voor vastleggingen van middelen van het elfde EOF, veeleer dan 28 februari 2020, de uiterste datum voor de toepassing van de ACS-EU-partnerschapsovereenkomst. 15. Voortbouwend op de basisbeginselen van de ACS-EU-partnerschapsovereenkomst, zijn de doelstellingen van het elfde EOF de uitroeiing van armoede, duurzame ontwikkeling en geleidelijke integratie van de ACS-staten in de wereldeconomie. De minst ontwikkelde landen krijgen een bijzondere behandeling. 16. Om de sociaal-economische samenwerking met de ultraperifere gebieden van de Unie en de ACS-staten, alsmede met de LGO’s in het Caribisch gebied, West-Afrika en de Indische Oceaan te versterken, voorzien de verordeningen betreffende het Europees Fonds voor Regionale Ontwikkeling en betreffende de Europese territoriale samenwerking in een versterking van de toewijzingen voor 2014-2020 voor hun onderlinge samenwerking, Zijn het volgende overeengekomen:*
 
 ### Hoofdstuk 1. FINANCIËLE MIDDELEN
 
@@ -86,45 +23,102 @@ Zijn het volgende overeengekomen:
 
 2. Het elfde EOF is als volgt samengesteld:
 
-- a. Een bedrag van 30.506 miljoen EUR (in lopende prijzen), waaraan de lidstaten als volgt bijdragen: 1 Geraamd bedrag Dit bedrag van 30.506 miljoen EUR is beschikbaar vanaf het moment van inwerkingtreding van het meerjarig financieel kader voor en wordt als volgt verdeeld:
+- a. Een bedrag van 30.506 miljoen EUR (in lopende prijzen), waaraan de lidstaten als volgt bijdragen: Lidstaat
+ Verdeelsleutel (%)
+ Bijdrage in EUR
+ België
+ 3,24927
+ 991.222.306
+ Bulgarije
+ 0,21853
+ 66.664.762
+ Tsjechië
+ 0,79745
+ 243.270.097
+ Denemarken
+ 1,98045
+ 604.156.077
+ Duitsland
+ 20,5798
+ 6.278.073.788
+ Estland
+ 0,08635
+ 26.341.931
+ Ierland
+ 0,94006
+ 286.774.704
+ Griekenland
+ 1,50735
+ 459.832.191
+ Spanje
+ 7,93248
+ 2.419.882.349
+ Frankrijk
+ 17,81269
+ 5.433.939.212
+ Kroatië 1
+ 0,22518
+ 68.693.411
+ Italië
+ 12,53009
+ 3.822.429.255
+ Cyprus
+ 0,11162
+ 34.050.797
+ Letland
+ 0,11612
+ 35.423.567
+ Litouwen
+ 0,18077
+ 55.145.696
+ Luxemburg
+ 0,25509
+ 77.817.755
+ Hongarije
+ 0,61456
+ 187.477.674
+ Malta
+ 0,03801
+ 11.595.331
+ Nederland
+ 4,77678
+ 1.457.204.507
+ Oostenrijk
+ 2,39757
+ 731.402.704
+ Polen
+ 2,00734
+ 612.359.140
+ Portugal
+ 1,19679
+ 365.092.757
+ Roemenië
+ 0,71815
+ 219.078.839
+ Slovenië
+ 0,22452
+ 68.492.071
+ Slowakije
+ 0,37616
+ 114.751.370
+ Finland
+ 1,50909
+ 460.362.995
+ Zweden
+ 2,93911
+ 896.604.897
+ Verenigd Koninkrijk
+ 14,67862
+ 4.477.859.817
+ TOTAAL
+ 100,00000
+ 30.506.000.000 1 Geraamd bedrag Dit bedrag van 30.506 miljoen EUR is beschikbaar vanaf het moment van inwerkingtreding van het meerjarig financieel kader voor en wordt als volgt verdeeld:
 
-- i. 29.089 miljoen EUR wordt toegekend aan de ACS-landen;
+   - i. 29.089 miljoen EUR wordt toegekend aan de ACS-landen;
 
-- ii. 364,5 miljoen EUR wordt toegekend aan de LGO;
+   - ii. 364,5 miljoen EUR wordt toegekend aan de LGO;
 
-- iii. 1.052,5 miljoen EUR voor de Commissie voor de in artikel 6 bedoelde ondersteunende uitgaven in verband met de programmering en uitvoering van het elfde EOF, waarvan ten minste 76,3 EUR wordt toegekend aan de Commissie voor maatregelen ter verbetering van het effect van EOF-programma’s als bedoeld in [artikel 6, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=1&artikel=6&z=2015-03-01&g=2015-03-01).
-
-| Lidstaat | Verdeelsleutel (%) | Bijdrage in EUR |
-| --- | --- | --- |
-| België | 3,24927 | 991.222.306 |
-| Bulgarije | 0,21853 | 66.664.762 |
-| Tsjechië | 0,79745 | 243.270.097 |
-| Denemarken | 1,98045 | 604.156.077 |
-| Duitsland | 20,5798 | 6.278.073.788 |
-| Estland | 0,08635 | 26.341.931 |
-| Ierland | 0,94006 | 286.774.704 |
-| Griekenland | 1,50735 | 459.832.191 |
-| Spanje | 7,93248 | 2.419.882.349 |
-| Frankrijk | 17,81269 | 5.433.939.212 |
-| Kroatië 1 | 0,22518 | 68.693.411 |
-| Italië | 12,53009 | 3.822.429.255 |
-| Cyprus | 0,11162 | 34.050.797 |
-| Letland | 0,11612 | 35.423.567 |
-| Litouwen | 0,18077 | 55.145.696 |
-| Luxemburg | 0,25509 | 77.817.755 |
-| Hongarije | 0,61456 | 187.477.674 |
-| Malta | 0,03801 | 11.595.331 |
-| Nederland | 4,77678 | 1.457.204.507 |
-| Oostenrijk | 2,39757 | 731.402.704 |
-| Polen | 2,00734 | 612.359.140 |
-| Portugal | 1,19679 | 365.092.757 |
-| Roemenië | 0,71815 | 219.078.839 |
-| Slovenië | 0,22452 | 68.492.071 |
-| Slowakije | 0,37616 | 114.751.370 |
-| Finland | 1,50909 | 460.362.995 |
-| Zweden | 2,93911 | 896.604.897 |
-| Verenigd Koninkrijk | 14,67862 | 4.477.859.817 |
-| TOTAAL | 100,00000 | 30.506.000.000 |
+   - iii. 1.052,5 miljoen EUR voor de Commissie voor de in artikel 6 bedoelde ondersteunende uitgaven in verband met de programmering en uitvoering van het elfde EOF, waarvan ten minste 76,3 EUR wordt toegekend aan de Commissie voor maatregelen ter verbetering van het effect van EOF-programma’s als bedoeld in [artikel 6, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006238&hoofdstuk=1&artikel=6&z=2015-03-01&g=2015-03-01).
 
 - b. Met uitzondering van de leningen voor de financiering van rentesubsidies vallen de middelen waarnaar wordt verwezen in de bijlagen I en I ter bij de ACS-EU-partnerschapsovereenkomst en in de bijlagen II A en A bis van het LGO-besluit, en die zijn toegewezen in het kader van het negende en tiende EOF ter financiering van de middelen van de investeringsfaciliteit, niet onder Besluit 2005/446/EG9)Besluit 2005/446/EG van de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen op 30 mei 2005 tot vaststelling van de uiterste datum waarop betalingsverplichtingen uit hoofde van het negende Europees Ontwikkelingsfonds (EOF) kunnen worden aangegaan (PbEU L 156 van 18 juni 2005, blz. 19). en [bijlage I ter, punt 5, van de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=1_ter) tot vaststelling van de data waarna de middelen van het negende en tiende EOF niet langer mogen worden vastgelegd. Deze middelen worden overgedragen naar het elfde EOF en worden beheerd overeenkomstig de uitvoeringsregeling voor het elfde EOF, wat betreft de middelen bedoeld in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=I) en [I bis bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=I_Bis), vanaf de datum van inwerkingtreding van het meerjarig financieel kader voor de periode 2014-2020 met betrekking tot de ACS-EU-partnerschapsovereenkomst en, wat betreft de middelen bedoeld in de bijlagen II A en II A bis bij het LGO-besluit, vanaf de datum van inwerkingtreding van de besluiten van de Raad inzake de financiële bijstand aan de LGO voor de periode 2014-2020.
 
@@ -152,11 +146,11 @@ Het in [artikel 1, lid 2, onder a), i)](https://wetten.overheid.nl/jci1.3:c:BWBV
 
 - a. het bedrag van 24.365 miljoen EUR voor de financiering van de nationale en regionale indicatieve programma’s. Dit bedrag zal worden gebruikt voor de financiering van:
 
-- i. de nationale indicatieve programma’s van de ACS-landen, overeenkomstig de [artikelen 1 tot en met 5 van bijlage IV bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0010126&artikel=IV);
+   - i. de nationale indicatieve programma’s van de ACS-landen, overeenkomstig de [artikelen 1 tot en met 5 van bijlage IV bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0010126&artikel=IV);
 
-- ii. de regionale indicatieve programma’s ter ondersteuning van de regionale en interregionale samenwerking en integratie van de ACS-landen, overeenkomstig de [artikelen 6 tot en met 11 van bijlage IV bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0010126&artikel=I);
+   - ii. de regionale indicatieve programma’s ter ondersteuning van de regionale en interregionale samenwerking en integratie van de ACS-landen, overeenkomstig de [artikelen 6 tot en met 11 van bijlage IV bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0010126&artikel=I);
 
-- b. het bedrag van 3.590 miljoen EUR ter financiering van intra-ACS- en interregionale samenwerking met veel of alle ACS-landen, overeenkomstig de [artikelen 12 tot en met 14 van bijlage IV bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0009798&artikel=V). Deze enveloppe kan structurele steun omvatten voor instellingen en organen ingesteld op grond van de ACS-EU-partnerschapsovereenkomst. Dit bedrag omvat tevens financiering van de huishoudelijke uitgaven van het in de [punten 1 en 2 van protocol 1 bij de ACS-EU-partnerschapsovereenkomst](onbekend) bedoelde ACS-secretariaat;
+- b. het bedrag van 3.590 miljoen EUR ter financiering van intra-ACS- en interregionale samenwerking met veel of alle ACS-landen, overeenkomstig de [artikelen 12 tot en met 14 van bijlage IV bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0009798&artikel=V). Deze enveloppe kan structurele steun omvatten voor instellingen en organen ingesteld op grond van de ACS-EU-partnerschapsovereenkomst. Dit bedrag omvat tevens financiering van de huishoudelijke uitgaven van het in de [punten 1 en 2 van protocol 1 bij de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/BWBV0005264) bedoelde ACS-secretariaat;
 
 - c. een deel van de middelen als bedoeld onder a) en b) kan worden gebruikt ter dekking van onvoorziene behoeften en voor het verhelpen van negatieve kortetermijngevolgen van exogene schokken, overeenkomstig de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=60), [66](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=66), [68](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=68), [72](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=72), [72 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=72_bis) en [73](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=73) van de ACS-EU-partnerschapsovereenkomst en de artikelen 3 en 9 van bijlage IV bij de ACS-EU-partnerschapsovereenkomst, eventueel met inbegrip van aanvullende kortetermijnsteun voor humanitaire hulp en noodhulp, waar dergelijke steun niet door de begroting van de Unie kan worden gefinancierd;
 
@@ -279,7 +273,7 @@ Wat betreft middelen van het tiende EOF en eerdere EOF’s die niet worden overg
 
 ##### Artikel 10. Uitvoeringsbepalingen
 
-1. Onverminderd artikel 8 van dit Akkoord en het op grond daarvan bepaalde stemrecht van de lidstaten blijven alle relevante bepalingen van [Verordening (EG) nr. 617/2007](32007R0617) van de Raad van 14 mei 2007 inzake de uitvoering van het tiende Europees Ontwikkelingsfonds uit hoofde van de [ACS-EG-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264)10)PbEU L 152 van 13 juni 2007, blz. 1. en van [Verordening (EG) nr. 2304/2002](32002R2304) van de Commissie van 20 december 2002 houdende uitvoering van Besluit 2001/822/EG van de Raad11)PbEU L 348 van 21 december 2002, blz. 82. betreffende de associatie van de LGO van kracht, zolang de Raad geen verordening heeft vastgesteld voor de uitvoering van het elfde EOF („de uitvoeringsverordening van het elfde EOF”) en de uitvoeringsvoorschriften van het LGO-besluit door de Raad niet zijn vastgesteld. De uitvoeringsverordening voor het elfde EOF wordt op basis van een voorstel van de Commissie en na raadpleging van de EIB met eenparigheid van stemmen vastgesteld. De uitvoeringsvoorschriften voor de financiële steun van de Unie aan de LGO worden vastgesteld na vaststelling van het nieuwe LGO-besluit door de Raad met eenparigheid van stemmen en na raadpleging van het Europees Parlement.
+1. Onverminderd artikel 8 van dit Akkoord en het op grond daarvan bepaalde stemrecht van de lidstaten blijven alle relevante bepalingen van Verordening (EG) nr. 617/2007 van de Raad van 14 mei 2007 inzake de uitvoering van het tiende Europees Ontwikkelingsfonds uit hoofde van de [ACS-EG-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264)10)PbEU L 152 van 13 juni 2007, blz. 1. en van Verordening (EG) nr. 2304/2002 van de Commissie van 20 december 2002 houdende uitvoering van Besluit 2001/822/EG van de Raad11)PbEU L 348 van 21 december 2002, blz. 82. betreffende de associatie van de LGO van kracht, zolang de Raad geen verordening heeft vastgesteld voor de uitvoering van het elfde EOF („de uitvoeringsverordening van het elfde EOF”) en de uitvoeringsvoorschriften van het LGO-besluit door de Raad niet zijn vastgesteld. De uitvoeringsverordening voor het elfde EOF wordt op basis van een voorstel van de Commissie en na raadpleging van de EIB met eenparigheid van stemmen vastgesteld. De uitvoeringsvoorschriften voor de financiële steun van de Unie aan de LGO worden vastgesteld na vaststelling van het nieuwe LGO-besluit door de Raad met eenparigheid van stemmen en na raadpleging van het Europees Parlement.
 
 De uitvoeringsverordening van het elfde EOF en de uitvoeringsvoorschriften van het LGO-besluit bevatten passende aanpassingen en verbeteringen van de programmerings- en besluitvormingsprocedures, teneinde de procedures van de EU en het EOF zo veel mogelijk verder op elkaar af te stemmen. De uitvoeringsverordening van het elfde EOF handhaaft voorts bijzondere beheersprocedures voor de vredesfaciliteit. Aangezien de financiële en technische steun voor de uitvoering van [artikel 11 ter van de ACS-EU-partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=11_ter) zal worden gefinancierd uit andere specifieke instrumenten dan de voor de financiering van de ACS-EU-samenwerking bestemde instrumenten, moeten volgens deze bepalingen ontwikkelde activiteiten op grond van vooraf gespecificeerde begrotingsbeheersprocedures worden goedgekeurd.
 

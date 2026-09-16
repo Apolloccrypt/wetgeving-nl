@@ -2,519 +2,516 @@
 title: "Verdrag inzake postale financiële diensten"
 identifier: "BWBV0006700"
 categorie: "Internationaal recht"
-publicatiedatum: 2025-03-27
-laatste_update: 2025-03-27
+soort: "verdrag"
+publicatiedatum: 2018-08-30
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBV0006700"
+opgehaald: 2026-09-16
 ---
 
 # Verdrag inzake postale financiële diensten
 
-Gelet op [artikel 22.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=22) van de op 10 juli 1964 te Wenen tot stand gekomen [Constitutie van de Wereldpostunie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459), hebben de ondergetekenden, gevolmachtigden van de regeringen van de lidstaten van de Wereldpostunie (hierna de „Unie”), in gemeenschappelijk overleg en onder voorbehoud van [artikel 25.4 van genoemde Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=25), het volgende Verdrag vastgesteld, dat aansluit bij de beginselen van genoemde Constitutie, in het bijzonder met het oog op het bevorderen van financiële inclusie en het tot stand brengen van een veilige en toegankelijke postale financiële dienst die is toegesneden op een zo groot mogelijk aantal gebruikers op basis van systemen die interoperabiliteit met de netwerken van de aangewezen aanbieders mogelijk maken.
+*The undersigned, plenipotentiaries of the Governments of the member countries of the Universal Postal Union (hereinafter the “Union”), in provision with article 21.4 of the Constitution of the Universal Postal Union concluded at Vienna on 10 July 1964, have, by common consent and subject to article 24.3 and 5 of the Constitution, drawn up the following Agreement, which is in line with the principles of the said Constitution, in particular in order to foster financial inclusion through the implementation of secure and accessible postal payment and postal financial services adapted to the greatest number of users on the basis of systems enabling the interoperability of designated operators’ networks.*
 
-## DEEL I. ALGEMENE BEGINSELEN DIE VAN TOEPASSING ZIJN OP DE POSTALE FINANCIËLE DIENSTEN
+## PART I. COMMON PRINCIPLES APPLYING TO THE POSTAL PAYMENT SERVICES
 
-### HOOFDSTUK I. ALGEMENE BEPALINGEN
+### CHAPTER I. GENERAL PROVISIONS
 
-#### Artikel 1. Reikwijdte van het Verdrag
+##### Article 1. Scope of the Agreement
 
-1. Met inachtneming van het onder 2 bepaalde stelt elke lidstaat al het mogelijke in het werk om ervoor te zorgen dat de volgende postale financiële diensten op zijn grondgebied langs elektronische weg worden aangeboden of geaccepteerd:
+1. Subject to the provisions under 2, each member country shall ensure on a best effort basis that the following postal payment services are offered or accepted by electronic means on its territory:
 
-- 1.1. Contante postwissel: de afzender biedt geld aan op het servicetoegangspunt en verzoekt om contante betaling van het volledige bedrag aan de geadresseerde, zonder enige inhouding.
+- 1.1 Money order in cash: the sender hands over funds at the service access point and asks for the full amount to be paid to the payee in cash, with no deductions.
 
-- 1.2. Betaalpostwissel: de afzender geeft opdracht tot debitering van zijn rekening en verzoekt om contante betaling van het volledige bedrag aan de geadresseerde, zonder enige inhouding.
+- 1.2 Outpayment money order: the sender gives instructions for his account to be debited and asks for the payee to be paid the full amount in cash, with no deductions.
 
-- 1.3. Stortingspostwissel: de afzender biedt geld aan op het servicetoegangspunt en verzoekt om storting ervan op de rekening van de geadresseerde, zonder enige inhouding.
+- 1.3 Inpayment money order: the sender hands over funds at the service access point and asks for them to be paid into the payee’s account, with no deductions.
 
-- 1.4. Overschrijving: de afzender geeft opdracht tot debitering van zijn rekening en verzoekt om creditering van de rekening van de geadresseerde met een gelijkluidend bedrag, zonder enige inhouding.
+- 1.4 Postal account transfer: the sender gives instructions for his account to be debited and asks for the payee’s account to be credited with the equivalent amount, with no deductions.
 
-2. In het geval dat geen van de in het eerste lid genoemde elektronische postale financiële diensten wordt aangeboden of geaccepteerd, dient elke lidstaat ten minste een van de voornoemde postale financiële diensten in papieren vorm aan te bieden of te accepteren.
+- 1bis Each member country may also ensure that the optional services defined in [article 25bis](https://wetten.overheid.nl/BWBV0006700) are offered or accepted on its territory.
 
-3. De maatregelen ter uitvoering van dit Verdrag worden vastgelegd in de Regelingen.
+2. In the event that none of the electronic postal payment services outlined under § 1 are offered or accepted by a member country, that member country shall offer or accept at least one of the aforementioned postal payment services by paper-based means (letter post).
 
-#### Artikel 2. Begripsomschrijvingen
+3. The Regulations shall define the procedures for executing the present Agreement.
 
-1. Bevoegde autoriteit: elke nationale autoriteit van een lidstaat die, ingevolge bij wet- of regelgeving verleende bevoegdheden, toezicht houdt op de activiteit van de aangewezen aanbieder of van de in dit artikel bedoelde personen. De bevoegde autoriteit kan een beroep doen op de bestuurlijke of gerechtelijke autoriteiten die betrokken zijn bij de bestrijding van het witwassen van geld en de financiering van terrorisme, in het bijzonder op de nationale financiële-inlichtingeneenheid en op de toezichthoudende autoriteiten.
+##### Article 2. Definitions
 
-2. Voorschot: gedeeltelijke, vervroegde storting door de aangewezen aanbieder van uitschrijving ten gunste van de aangewezen aanbieder van uitbetaling ter financiële verlichting van de postale financiële diensten van de aangewezen aanbieder van uitbetaling.
+1. Competent authority – any governmental authority of a member country which, by virtue of the powers conferred on it by the law or regulations, regulates and/or supervises the activities of the designated operator or of the persons referred to in the present article. The competent authority may contact the administrative or legal authorities engaged in combating money laundering, terrorist financing, and financing of proliferation of weapons of mass destruction, and in particular the national financial intelligence unit and the oversight authorities.
 
-2bis. Interoperabiliteit: een reeks onderling verbonden IT-systemen en operationele procedures die end-to-end uitwisseling en verwerking van elektronische betalingsinformatie mogelijk maken in overeenstemming met de bepalingen van dit Verdrag.
+2. Instalment – partial advance payment made by the issuing designated operator to the paying designated operator to ease the cash situation of the paying designated operator’s postal payment services.
 
-3. Witwassen van geld: omwisseling of overdracht van deviezen door een instantie die of individu dat weet dat deze deviezen afkomstig zijn van een criminele activiteit of deelneming aan een dergelijke activiteit, met het oogmerk de onrechtmatige herkomst ervan te verbergen of te verhullen of personen die hebben deelgenomen aan de voortzetting van deze activiteit te helpen zich aan de juridische gevolgen van hun handelingen te onttrekken; het witwassen van geld moet zelfs als zodanig worden aangemerkt wanneer de activiteiten waaruit de wit te wassen goederen voortkomen, worden vervolgd op het grondgebied van een andere lidstaat of van een derde land.
+3. Interoperability – set of interconnected IT systems, and operational procedures, enabling the end-to-end exchange and processing of information on electronic payments in accordance with the present Agreement.
 
-4. Afscheiding: verplichte scheiding van de gelden van gebruikers van die van de aangewezen aanbieder, ter voorkoming van het gebruik van de gelden van gebruikers voor andere doeleinden dan de uitvoering van de transacties door de postale financiële diensten.
+4. Money laundering – the conversion or transfer of funds in the knowledge that these funds are derived from a criminal activity or participation in such activity, with the aim of hiding or disguising the illegal origins of the funds or of helping any person having participated in such activity to escape the legal consequences of his action; money laundering shall be considered as such when the activities producing funds to be laundered are liable to prosecution in the territory of another member country or a third country.
 
-5. Clearinghouse: in het kader van multilaterale uitwisselingen behandelt een clearinghouse de wederzijdse schulden en vorderingen die voortvloeien uit de diensten die door de ene aanbieder ten gunste van een andere aanbieder worden geleverd. De taak van een clearinghouse is het bijhouden van de uitwisselingen tussen de aanbieders, waarvan de vereffening geschiedt via een vereffeningsbank, alsmede het nemen van de nodige maatregelen in geval van problemen bij de vereffening.
+5. Ring-fencing – the compulsory separation of users’ funds from those of the designated operator which prevents the use of users’ funds for purposes other than the execution of postal payment service operations.
 
-6. Clearing: systeem waarmee het aantal door de instelling te verrichten betalingen van de periodieke debet- en creditsaldi van de betrokken partners tot een minimum wordt beperkt. De clearing bestaat uit twee fasen: vaststelling van de bilaterale saldi en vervolgens, door optelling van de bilaterale saldi, berekening van het totale saldo van elke partner ten opzichte van de gemeenschap, teneinde slechts een enkele vereffening uit te voeren, afhankelijk van het debet- of creditsaldo van de betrokken instelling.
+6. Clearing house – within the framework of multilateral exchanges, a clearing house handles mutual debts and claims arising from services provided by one operator to another. Its role is to put to account exchanges between operators that are settled through a settlement bank, and to take the necessary steps in the event of settlement irregularities.
 
-7. Verzamelrekening: verzameling op een enkele rekening van gelden die van verschillende bronnen afkomstig zijn.
+7. Clearing – a system enabling the number of payments to be made to be kept to a minimum by drawing up a periodic debit and credit balance for the parties involved. Clearing involves two stages: determining the bilateral balances and, by adding these balances, calculating the overall position of each entity with regard to the entire community in order to carry out only one settlement based on the debtor or creditor position of the entity in question.
 
-8. Clearingrekening: lopende girorekening die de aangewezen aanbieders in het kader van bilaterale betrekkingen wederzijds voor elkaar openen en via welke de wederzijdse schulden en vorderingen worden vereffend.
+8. Concentration account – an aggregation of funds from various sources combined into one account.
 
-9. Criminele activiteit: elke vorm van deelneming aan het plegen van een misdrijf of strafbaar feit, in de betekenis van de nationale wetgeving.
+9. Liaison account – giro account opened reciprocally by designated operators as part of bilateral relations, by means of which mutual debts and credits are settled.
 
-10. Borg: bedrag dat in de vorm van contanten of waardepapieren wordt ingelegd ter waarborging van de betalingen tussen aangewezen aanbieders.
+10. Criminal activity – any type of participation in, or perpetration of, a crime or misdemeanour, as defined by the national legislation.
 
-11. Geadresseerde: natuurlijke persoon of rechtspersoon die door de afzender als begunstigde van de postwissel of -overschrijving wordt aangewezen.
+11. Security deposit – amount deposited, in the form of cash or securities, to guarantee payments between designated operators.
 
-12. Derde valuta: valuta die wordt gebruikt wanneer twee valuta niet kunnen worden omgewisseld of die wordt gebruikt ten behoeve van de clearing/vereffening van rekeningen.
+12. Payee – natural or legal person designated by the sender as the beneficiary of the postal payment order.
 
-13. Waakzaamheidsplicht ten aanzien van gebruikers: algemene plicht van de aangewezen aanbieders, die de volgende verplichtingen omvat:
+13. Third currency – intermediate currency used in cases of non-convertibility between two currencies or for clearing/settlement of accounts.
 
-- 13.1. identificeren van gebruikers;
+14. User due diligence – general obligation on the part of designated operators, comprising the following duties:
 
-- 13.2. vragen naar het doel van de postale betaalopdracht;
+- 14.1. identifying users;
 
-- 13.3. toezicht houden op de postale betaalopdrachten;
+- 14.1 bis identifying the beneficial owner and taking such reasonable measures to verify the identity of the beneficial owner as are provided for in international standards on combating money laundering, terrorist financing and financing of the proliferation of weapons of mass destruction;
 
-- 13.4. verifiëren of de informatie betreffende de gebruikers actueel is;
+- 14.2. understanding and, when required, obtaining information on the purpose of the postal payment order;
 
-- 13.5. melden van verdachte transacties bij de bevoegde autoriteiten.
+- 14.3. monitoring postal payment orders;
 
-14. Elektronische gegevens betreffende de postale betaalopdrachten: langs elektronische weg door een aangewezen aanbieder naar een andere aangewezen aanbieder verzonden gegevens betreffende de uitvoering van postale betaalopdrachten, een klacht, een adreswijziging of -verbetering, of een terugbetaling; deze gegevens worden door de aangewezen aanbieders ingevoerd of automatisch door hun informatiesystemen gegenereerd en bevatten een wijziging van de status van de postale betaalopdracht of van het opdrachtverzoek.
+- 14.4. checking that the information concerning users is up to date;
 
-15. Persoonsgegevens: persoonsgegevens voor de identificatie van de afzender of de geadresseerde.
+- 14.5. reporting suspicious transactions to the competent authorities.
 
-16. Postale gegevens: gegevens benodigd voor de afhandeling en het volgen van de uitvoering van de postale betaalopdracht, voor statistische doeleinden alsmede voor het centrale clearingsysteem.
+15. Electronic data relating to postal payment orders and other postal financial services – data transmitted by electronic means, from one designated operator to another, relating to the execution of postal payment orders and other postal financial services, inquiries, alteration or correction of addresses, or reimbursement; these data are either entered by designated operators or generated automatically by their information system, and indicate a change in the status of these orders or services.
 
-17. Elektronische gegevensuitwisseling (EDI): uitwisseling, tussen computers, van transactiegegevens door middel van genormaliseerde netwerken en formats die met het systeem van de Unie verenigbaar zijn.
+16. Personal data – personal information needed in order to identify the sender or the payee.
 
-18. Afzender: natuurlijke persoon of rechtspersoon die een aangewezen aanbieder opdracht geeft tot uitvoering van een postale betaalopdracht overeenkomstig de Akten van de Unie.
+17. Postal data – data needed for the routeing and tracking of a postal payment order or for statistical purposes, as well as for the centralized clearing system.
 
-19. Financiering van terrorisme: begrip dat betrekking heeft op de financiering van terroristische handelingen, terroristen en terroristische organisaties.
+18. (Deleted.)
 
-20. Gelden van de gebruikers: bedragen die door de afzender in contanten aan de aangewezen aanbieder worden overhandigd, of rechtstreeks, of via elk ander beveiligd monetair middel, worden afgeschreven van de rekening van de afzender die in de boeken van de aangewezen aanbieder van uitschrijving wordt gehouden, en die door de afzender aan de aangewezen aanbieder van uitschrijving of elke andere financiële aanbieder ter beschikking worden gesteld met het oog op de betaling ervan aan een door de afzender aangegeven geadresseerde, overeenkomstig dit Verdrag en de bijbehorende Regeling.
+19. Sender – natural or legal person that gives the designated operator the order to execute a postal payment service in accordance with this Agreement and its Regulations.
 
-21. Verrekenpostwissel: een operationele term ter aanduiding van een postale betaalopdracht in ruil voor de aflevering van een zending onder rembours.
+20. Terrorist financing – covers the financing of acts of terrorism, of terrorists and of terrorist organizations.
 
-22. Uitschrijvingsvaluta: valuta van het land van bestemming of door het land van bestemming toegestane derde valuta waarin de postale betaalopdracht wordt uitgeschreven.
+20bis. UPU Interconnection Platform (UPU-IP) – the Union’s central exchange system and unique reference database for postal payment orders and other financial services.
 
-23. Aangewezen aanbieder van uitschrijving: aangewezen aanbieder die een postale betaalopdracht aan de aangewezen aanbieder van uitbetaling verzendt, overeenkomstig de Akten van de Unie.
+21. Users’ funds – sums delivered by the sender to the issuing designated operator in cash, or debited to the sender’s account written up in the books of the issuing designated operator, or by any other secure method of electronic banking, placed at the disposal of the issuing designated operator or any other financial operator by the sender, to be paid to a payee specified by the sender in accordance with the present Agreement and its Regulations.
 
-24. Aangewezen aanbieder van uitbetaling: aangewezen aanbieder die belast is met de uitvoering van de postale betaalopdracht in het land van de geadresseerde, overeenkomstig de Akten van de Unie.
+22. COD (cash-on-delivery) money order – operational term used to designate a postal payment order issued in exchange for the delivery of a COD item.
 
-25. Geldigheidstermijn: termijn gedurende welke de postale betaalopdrachten geldig kunnen worden uitgevoerd of herroepen.
+23. Currency of issue – currency of the country of destination or third currency authorized by the destination country in which the postal payment order is issued.
 
-26. Servicetoegangspunt: fysieke of virtuele plaats waar de gebruiker een postale betaalopdracht kan afgeven of ontvangen.
+24. Issuing designated operator – designated operator which transmits a postal payment order to the paying designated operator, in accordance with this Agreement and its Regulations.
 
-27. Vergoeding: door de aangewezen aanbieder van uitschrijving aan de aangewezen aanbieder van uitbetaling verschuldigd bedrag voor de betaling aan de geadresseerde.
+25. Paying designated operator – designated operator responsible for executing the postal payment order in the destination country, in accordance with this Agreement and its Regulations.
 
-28. Herroepelijkheid: mogelijkheid van de afzender om zijn postale betaalopdracht (postwissel of -overschrijving) te herroepen tot op het moment van betaling of aan het einde van de geldigheidstermijn, indien de betaling niet heeft plaatsgevonden.
+25bis. Postal payment order – general term referring to money orders in cash, outpayment and inpayment money orders, and postal account transfers, as defined in [article 1](https://wetten.overheid.nl/BWBV0006700).
 
-29. Tegenpartijrisico: risico dat verband houdt met het in gebreke blijven van een van de partijen bij een contract. Dit uit zich in een risico van verlies of betalingsonvermogen.
+26. Validity period – period of time during which the postal payment order may be executed or cancelled.
 
-30. Liquiditeitsrisico: risico dat een tegenpartij of een deelnemer aan een vereffeningssysteem tijdelijk niet in staat is zich volledig van een verplichting te kwijten op de datum dat deze opeisbaar wordt.
+27. Service access point – physical or virtual place where the user may deposit or receive a postal payment order.
 
-31. Signalering van verdachte transacties: op de nationale wetgeving en op de resoluties van de Unie gebaseerde verplichting van de aangewezen aanbieder om informatie over verdachte transacties aan de bevoegde nationale autoriteiten mede te delen.
+28. Remuneration – sum owed by the issuing designated operator to the paying designated operator for payment to the payee.
 
-32. Tracking en tracing: systeem waarmee het traject van een postale betaalopdracht kan worden gevolgd en op elk moment kan worden vastgesteld waar de opdracht zich bevindt en wat de uitvoeringsstatus ervan is.
+29. Revocability – the ability of the sender to recall his postal payment order up to the moment of payment, or at the end of the validity period if payment has not been made.
 
-33. Tarief: bedrag dat door een afzender voor een postale financiële dienst aan de aangewezen aanbieder van uitschrijving wordt betaald.
+30. Counterparty risk – risk that one of the parties to a contract will default, leading to loss or liquidity risk.
 
-34. Verdachte transactie: postale betaalopdracht of verzoek om een terugbetaling met betrekking tot een eenmalige of herhaalde postale betaalopdracht die verband houdt met het witwassen van geld of de financiering van terrorisme.
+31. Liquidity risk – risk that a settlement system participant or a counterpart is temporarily unable to fulfil an obligation in its entirety at the required time.
 
-35. Gebruiker: natuurlijke persoon of rechtspersoon, afzender of geadresseerde, die overeenkomstig dit Verdrag van de postale financiële diensten gebruikmaakt.
+32. Reporting of suspicious transaction – obligation of the designated operator, based on the national legislation and international standards for combating money laundering, terrorist financing and the financing of the proliferation of weapons of mass destruction, to provide its financial intelligence unit with information on suspicious transactions.
 
-#### Artikel 3. Aanwijzing van de instantie of instanties belast met het vervullen van de verplichtingen die uit de toetreding tot dit Verdrag voortvloeien
+33. Track and trace – system that enables the progress of postal payment order to be monitored and its location and status to be identified at any time.
 
-1. De lidstaten doen binnen zes maanden na de afsluiting van het Congres aan het Internationaal Bureau kennisgeving van de naam en het adres van het overheidsorgaan dat is belast met het instellen van overheidsregels voor en het toezicht op de levering van postale financiële diensten.
+34. Price – amount paid by the sender to the issuing designated operator for a postal payment service.
 
-2. Bovendien brengen de lidstaten het Internationaal Bureau binnen zes maanden na de afsluiting van het Congres op de hoogte van de naam en het adres van de aanbieder of aanbieders die officieel is of zijn aangewezen voor de verzorging van de postale financiële diensten via zijn of hun netwerk, door ten minste één postale financiële dienst aan te bieden of te accepteren, en voor het vervullen van de verplichtingen die op zijn of hun grondgebied uit de Akten van de Unie voortvloeien.
+35. Suspicious transaction – single or repeated postal payment order or request for reimbursement relating to a postal payment order linked to a money-laundering or terrorist financing offence.
 
-3. Een lidstaat die deze gegevens niet binnen de voorschreven termijn van zes maanden verstrekt, ontvangt van het Internationaal Bureau een herinnering.
+36. User – natural or legal person, sender or payee, that uses the postal payment services in accordance with the present Agreement.
 
-4. Tussen twee Congressen in moet elke wijziging betreffende de overheidsinstanties en de officieel aangewezen aanbieders zo snel mogelijk ter kennis van het Internationaal Bureau worden gebracht.
+37. Financing the proliferation of weapons of mass destruction – provision or collection of any funds, resources, or other services for the development, production, acquisition, accumulation, storage, sale and use of nuclear, chemical, biological and other types of weapons of mass destruction, materials, and equipment that can obviously be used in their creation.
 
-5. De aangewezen aanbieders verzorgen de postale financiële diensten overeenkomstig dit Verdrag.
+##### Article 3. Designation of the entity or entities responsible for fulfilling the obligations arising from adherence to this Agreement
 
-#### Artikel 4. Bevoegdheden van de lidstaten
+1. Member countries shall notify the International Bureau, within six months of the end of Congress, of the name and address of the governmental body responsible for providing governmental regulation and oversight related to the provision of postal payment services.
 
-1. De lidstaten treffen de nodige maatregelen ter waarborging van de continuïteit van hun postale financiële diensten ingeval hun aangewezen aanbieder(s) in gebreke mocht(en) blijven, onverminderd de aansprakelijkheid van deze aanbieder(s) ten aanzien van andere uit hoofde van de Akten van de Unie aangewezen aanbieders.
+2. Within six months of the end of Congress, member countries shall also provide the International Bureau with the name and address of the operator(s) officially designated to operate at least one of the postal payment services as set out in [articles 1.1](https://wetten.overheid.nl/BWBV0006700) and 1.2 by means of its (their) network(s), and to fulfil the obligations arising from the Acts of the Union on their territories.
 
-2. In geval van in gebreke blijven van zijn aangewezen aanbieder(s), brengt de lidstaat de andere lidstaten die partij bij dit Verdrag zijn, via het Internationaal Bureau, op de hoogte van:
+3. In the absence of such notification within the prescribed six-month period, the International Bureau shall send a reminder to the member country.
 
-- 2.1. de opschorting van zijn postale financiële diensten vanaf de aangegeven datum en tot nader order;
+4. Between Congresses, changes concerning the governmental bodies and the officially designated operators shall be notified to the International Bureau as soon as possible.
 
-- 2.2. de maatregelen die zijn getroffen om de diensten te herstellen onder de verantwoordelijkheid van een eventuele nieuwe aangewezen aanbieder.
+5. Designated operators shall provide the postal payment services in accordance with the present Agreement.
 
-#### Artikel 5. Uitzonderlijke levering van postale financiële diensten door toegelaten spelers in de postale sector in brede zin
+##### Article 4. Functions of member countries
 
-1. Onverminderd de mogelijkheid tot uitbesteding zoals omschreven in artikel 6.4, hebben lidstaten: i. waarin het gehele scala van postale financiële diensten zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2025-03-27&g=2025-03-27) niet wordt geleverd door hun aangewezen aanbieder(s); of ii. die geconfronteerd worden met de situatie van in gebreke blijven zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2025-03-27&g=2025-03-27), de mogelijkheid toe te staan dat spelers in de postale sector in brede zin (wider postal sector players, hierna „WPSP's), via aangewezen aanbieders, deelnemen aan de interconnectie en/of uitvoering van de postale financiële diensten, met als doel het bevorderen van financiële inclusie en het verder mogelijk maken van de interoperabiliteit van een internationaal netwerk van postale financiële diensten.
+1. Member countries shall take the necessary steps towards ensuring the continuity of the postal payment services in the event of default by their designated operator(s), without prejudice to the liability of that (those) operator(s) towards other designated operators by virtue of the Acts of the Union.
 
-- 1.1. Lidstaten waarborgen dat zij bij het verlenen van toestemming voor het aanbieden van postale financiële diensten door WPSP's van de WPSP's verlangen dat zij voldoen aan de relevante bepalingen van dit Verdrag die betrekking hebben op postale financiële diensten en waarborgen dat bij deze toestemming van de WPSP's verlangd wordt dat zij voldoen aan alle relevante voorwaarden van de Unie voor vergunningsregelingen voor het opereren onder het collectief merk PosTransfer.
+2. In the event of the default of its designated operator(s), the member country shall inform, through the International Bureau, the other member countries party to the present Agreement:
 
-- 1.2. De aanduiding van WPSP's door lidstaten geschiedt in overeenstemming met de parameters omschreven in het eerste lid (onder voorbehoud van gedetailleerde operationele criteria omschreven door het relevante orgaan, ingesteld onder de Postraad).
+- 2.1 of the suspension of its postal payment services, with effect from the date indicated and until further notice;
 
-- 1.3. Het Internationaal Bureau is verantwoordelijk voor het opstellen van de lijst van lidstaten waarin WPSP's mogen opereren, alsmede de lijst van toegelaten WPSP's. De lijst wordt regelmatig door het Internationaal Bureau bijgewerkt en per circulaire aan alle lidstaten medegedeeld.
+- 2.2 of the measures taken to re-establish its services under the responsibility of any new designated operator.
 
-2. Voor de benutting van de in het eerste lid genoemde mogelijkheid gelden de voorwaarden van de nationale wetgeving of het binnenlands beleid van de lidstaat waar de WPSP is gevestigd. Dienaangaande en onverminderd de verplichtingen inzake aanwijzing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2025-03-27&g=2025-03-27), waarborgen de aangewezen aanbieders dat zij aan hun verplichtingen uit hoofde van het Verdrag inzake postale financiële diensten blijven voldoen.
+##### Article 5. Exceptional provision of postal payment services by authorized wider postal sector players
 
-- 2.1. Met inachtneming van de bovenbedoelde criteria, wordt een vergunningsaanvraag met betrekking tot een WPSP gericht aan de lidstaat waar de WPSP van plan is activiteiten te ontplooien die betrekking hebben op de interconnectie of uitvoering van postale financiële diensten. In dit opzicht kan een WPSP werkzaam zijn in diverse lidstaten mits hij daarvoor in aanmerking komt en daarvoor toestemming heeft gekregen van de overheidsautoriteit van de desbetreffende lidstaat.
+1. Without prejudice to the subcontracting possibility outlined in [article 6.4](https://wetten.overheid.nl/BWBV0006700), member countries: i) where the entire spectrum of postal payment services as defined in [article 1](https://wetten.overheid.nl/BWBV0006700) is not provided by their designated operator(s); or ii) facing the default situation referred to in [article 4](https://wetten.overheid.nl/BWBV0006700), shall have the possibility of authorizing the engagement, by designated operators, of wider postal sector players (hereinafter “WPSPs”) to participate in the interconnection and/or operation of postal payment services, with the aim of fostering financial inclusion and further enabling the interoperability of an international postal payment services network.
 
-- 2.2. Elke toestemming die door een lidstaat formeel wordt verleend aan een WPSP heeft een beperkte geldigheidsduur en laat de mogelijkheid voor de lidstaat om deze toestemming in te trekken indien niet langer aan de in het eerste lid genoemde voorwaarden wordt voldaan, onverlet.
+- 1.1 Member countries shall ensure that their authorizations for the operation of any postal payment services operated by WPSPs require WPSPs to comply with the relevant provisions of this Agreement relating to postal payment services and shall ensure that such authorizations require the WPSP to comply with any relevant Union requirement for licensing arrangements to operate under the PosTransfer collective brand.
 
-- 2.3. Voor de toepassing van het bovenstaande lid 1.3, wordt een afschrift van de voornoemde toestemming van de lidstaat aan een WPSP (en eventuele relevante documentatie die daarmee samenhangt) onverwijld aan het Internationaal Bureau gezonden.
+- 1.2 The identification of WPSPs by member countries shall be in accordance with the parameters defined in paragraph 1 (subject to the detailed operational criteria defined by the relevant body established under the Postal Operations Council).
 
-3. Wat de aanvaarding van postale betaalopdrachten afkomstig van deze WPSP's betreft, is de in het tweede lid genoemde voorwaarde eveneens van toepassing op de lidstaat van bestemming.
+- 1.3 The International Bureau shall be responsible for preparing the list of member countries in which WPSPs may be authorized to operate, as well as the list of authorized WPSPs. This list shall be updated by the International Bureau as soon as possible after the occurrence of any change to it and communicated by circular to all member countries.
 
-4. De lidstaten lichten het Internationaal Bureau in over hun beleid inzake postale betaalopdrachten verzonden door en/of ontvangen van WPSP’s. De betreffende informatie wordt op de website van de Unie geplaatst.
+2. The exercise of the possibility outlined in paragraph 1 shall be subject to the national legislation or policy of the member country in which the WPSP is established. In this regard, and without prejudice to the designation obligations contained in [article 3](https://wetten.overheid.nl/BWBV0006700), member countries shall guarantee the continued fulfilment of their obligations under the PPSA.
 
-5. Niets in dit artikel mag aldus worden uitgelegd dat WPSP's zich in dezelfde situatie in het kader van de Akten van de Unie bevinden als aangewezen aanbieders van de betreffende lidstaat, of dat er voor andere lidstaten een wettelijke verplichting ontstaat deze WPSP's te erkennen als aangewezen aanbieders voor de toepassing van dit Verdrag.
+- 2.1 Subject to the criteria referred to above, any licensing application concerning a WPSP shall be addressed to the member country where the WPSP intends to perform activities related to the interconnection or operation of postal payment services. In this regard, a WPSP may operate in several member countries provided that it is eligible and has been authorized to do so by the governmental authority of the member country concerned.
 
-6. Om naleving van de bepalingen van dit artikel te waarborgen, komen de lidstaten overeen dat zij aan elke toestemming aan WPSP's om deel te nemen aan de interconnectie en/of uitvoering van postale financiële diensten de voorwaarde verbinden dat de WPSP's ermee instemmen dat hun activiteiten die relevant zijn in het kader van dit Verdrag, aan periodieke onderzoeken kunnen worden onderworpen die door het Internationaal Bureau worden uitgevoerd in overeenstemming met de relevante procedures omschreven in de Regelingen.
+- 2.2 Any authorization formally granted by a member country to a WPSP shall be limited in time and without prejudice to the possibility for the member country to revoke such an authorization should the conditions outlined in paragraph 1 no longer be met.
 
-#### Artikel 6. Operationele bevoegdheden
+- 2.3 For the purposes of paragraph 1.3 above, a copy of the aforementioned member country authorization of a WPSP (and any relevant documentation associated therewith) shall be provided without delay to the International Bureau.
 
-1. Lidstaten waarborgen dat hun aangewezen aanbieders en toegelaten WPSP's bedoeld in het vijfde lid, verantwoordelijk zijn voor de uitvoering van de postale financiële diensten ten opzichte van andere aanbieders en gebruikers.
+3. Destination member countries not authorizing the acceptance of postal payment orders from a WPSP on their territory shall so inform the International Bureau within four weeks upon receipt of the relevant circular from the International Bureau as referred to in paragraph 1.3.
 
-2. Overeenkomstig de nationale wetgeving zijn zij verantwoordelijk voor de risico’s, zoals de operationele risico’s, liquiditeitsrisico’s en tegenpartijrisico’s.
+4. Member countries shall inform the International Bureau on their policies with regard to postal payment orders transmitted through and/or received from WPSPs. Such information shall be made available on the Union’s website.
 
-3. Met het oog op de uitvoering van de postale financiële diensten waarvan de levering is opgedragen aan de aangewezen aanbieders en toegelaten WPSP's bedoeld in het eerste lid, waarborgen de lidstaten dat dergelijke entiteiten bilaterale of multilaterale overeenkomsten sluiten met andere aangewezen aanbieders en toegelaten WPSP's van hun keuze.
+5. Nothing in this article shall be construed to imply that WPSPs are in the same situation as designated operators of the member country concerned under the Acts of the Union, nor impose a legal obligation on other member countries to recognize such WPSPs as designated operators for the purposes of this Agreement.
 
-4. Onverminderd voornoemde verplichtingen kan een aangewezen aanbieder, met inachtneming van de nationale wetgeving, de interconnectie en uitvoering van de postale financiële diensten waarvan de levering hem, zoals omschreven in dit Verdrag, door zijn lidstaat is opgedragen, gedeeltelijk uitbesteden aan andere contractueel aan de aangewezen aanbieder gebonden instanties. Dienaangaande waarborgt de aangewezen aanbieder dat hij zijn verplichtingen uit hoofde van dit Verdrag zal blijven nakomen en dat hij volledig verantwoordelijk is voor al zijn betrekkingen met aangewezen aanbieders van andere lidstaten en met het Internationaal Bureau.
+6. In order to ensure compliance with the provisions of this article, member countries shall agree to make any authorizations they provide to WPSPs to participate in the interconnection and/or operation of postal payment services conditional on a requirement that the WPSPs consent that their activities relevant to this Agreement may be subject to periodic audits to be conducted by the International Bureau, as per the relevant procedures defined in the Regulations.
 
-#### Artikel 7. Eigendom van de gelden van de postale financiële diensten
+##### Article 6. Operational functions
 
-1. Elk geldbedrag dat contant wordt overhandigd of van een rekening wordt afgeschreven met het oog op de uitvoering van een postale betaalopdracht, blijft eigendom van de afzender tot het moment waarop het aan de geadresseerde wordt uitbetaald of op diens rekening wordt bijgeschreven, behalve in het geval van verrekenpostwissels.
+1. Member countries shall ensure that their designated operators and authorized WPSPs referred to in article 5 are responsible for the execution of postal payment services vis-à-vis other operators and users.
 
-2. Gedurende de geldigheidstermijn van de postale betaalopdracht kan de afzender de opdracht herroepen tot het moment waarop het overeenkomstige bedrag aan de geadresseerde wordt uitbetaald of op diens rekening wordt bijgeschreven, behalve in het geval van verrekenpostwissels.
+2. They shall be accountable for risks such as operational risks, liquidity risks, and counterparty risks, in accordance with the national legislation.
 
-3. Elk geldbedrag, overhandigd in contanten of afgeschreven van een rekening ten behoeve van een verrekenpostwissel, behoort toe aan de afzender van de rembourszending zodra de opdracht is verstrekt. Vanaf dat tijdstip is de betaalopdracht onherroepelijk.
+3. In order to implement the postal payment services whose provision is entrusted to the designated operators and authorized WPSPs referred to in § 1, member countries shall ensure that such entities conclude bilateral or multilateral agreements with other designated operators and authorized WPSPs of their choice.
 
-#### Artikel 8. Bestrijding van het witwassen van geld, van de financiering van terrorisme en van financiële criminaliteit
+4. Without prejudice to the foregoing obligations, a designated operator shall have the possibility of sub-contracting, in part, the interconnection and operation of the postal payment services, defined herein as entrusted by its member country, to other entities contractually bound with that designated operator and in accordance with national legislation. In this regard, the designated operator shall guarantee the continued fulfilment of its obligations in accordance with the present Agreement and be fully responsible for all its relations with designated operators of other member countries and with the International Bureau.
 
-1. De aangewezen aanbieders nemen alle noodzakelijke stappen om de uit de nationale en internationale wetgeving voortvloeiende verplichtingen na te komen, met inbegrip van de verplichtingen op het gebied van de bestrijding van het witwassen van geld, van de financiering van terrorisme en van financiële criminaliteit.
+##### Article 7. Ownership of postal payment services funds
 
-2. Overeenkomstig de nationale wet- en regelgeving dienen zij verdachte transacties bij de bevoegde autoriteiten van hun land te melden.
+1. Any sum of money, given in cash or debited to an account for the execution of a postal payment order, shall belong to the sender until such time as it is paid to the payee or credited to the payee’s account, except in the case of COD money orders, as set out in the Regulations.
 
-3. De Regeling vermeldt de precieze verplichtingen van de aangewezen aanbieders betreffende de uitvoering van hun respectieve programma's ter bestrijding van het witwassen van geld, de financiering van terrorisme en financiële criminaliteit, alsmede de identificatie van de gebruiker, de benodigde waakzaamheid en de uitvoeringsprocedures betreffende de regelgeving op het gebied van de bestrijding van het witwassen van geld, de financiering van terrorisme en van financiële criminaliteit.
+2. (Deleted.)
 
-#### Artikel 9. Vertrouwelijkheid en gebruik van persoonsgegevens
+3. (Deleted.)
 
-1. De lidstaten en hun aangewezen aanbieders eerbiedigen de vertrouwelijkheid en veiligheid van persoonsgegevens in overeenstemming met de nationale wetgeving en, in voorkomend geval, van de internationale verplichtingen en de Regeling.
+##### Article 8. Prevention of money laundering, terrorist financing and financial crime
 
-2. Persoonsgegevens mogen uitsluitend worden gebruikt voor het doel waarvoor zij zijn verzameld in overeenstemming met de van toepassing zijnde nationale wetgeving en internationale verplichtingen en voor de bestrijding van het witwassen van geld, de financiering van terrorisme en financiële criminaliteit.
+1. Designated operators shall take all necessary steps to fulfil their obligations stemming from national and international legislation aimed at combating money laundering, terrorist financing, financing the proliferation of weapons of mass destruction and financial crime.
 
-3. Persoonsgegevens worden uitsluitend ter kennis gebracht van derden die bevoegd zijn tot toegang op grond van de van toepassing zijnde nationale wetgeving.
+2. (Deleted.)
 
-4. De aangewezen aanbieders stellen hun cliënten in kennis van het gebruik dat is gemaakt van hun persoonsgegevens en van het doel waarvoor zij zijn verzameld.
+3. The Regulations shall set out the detailed obligations of designated operators with respect to the implementation of their respective programmes to combat money laundering, terrorist financing, financing the proliferation of weapons of mass destruction and financial crime.
 
-5. De voor de uitvoering van een postale betaalopdracht benodigde gegevens zijn vertrouwelijk.
+##### Article 9. Confidentiality and use of personal data
 
-6. Ten behoeve van eventuele statistische doeleinden voor de beoordeling van de kwaliteit van de dienstverlening en de centrale clearing, zijn de aangewezen aanbieders verplicht ten minste eenmaal per jaar postale gegevens aan het Internationaal Bureau van de Unie mede te delen. Alle individuele postale gegevens worden door het Internationaal Bureau vertrouwelijk behandeld.
+1. Member countries and their designated operators shall ensure the confidentiality and security of personal data in accordance with national legislation and, where applicable, international obligations, and the Regulations.
 
-### HOOFDSTUK II. ALGEMENE BEGINSELEN EN KWALITEIT VAN DE DIENSTVERLENING
+2. (Deleted.)
 
-#### Artikel 10. Technologische neutraliteit
+3. (Deleted.)
 
-Vervallen
+4. (Deleted.)
 
-#### Artikel 11. Algemene uitgangspunten
+5. (Deleted.)
 
-1. Toegankelijkheid via het netwerk en financiële inclusie
+6. (Deleted.)
 
-- 1.1. De postale financiële diensten worden door de aangewezen aanbieders op zodanige wijze op hun netwerk(en) of op elk ander partnernetwerk geleverd dat deze diensten voor een zo groot mogelijk aantal gebruikers toegankelijk zijn, en dat de toegang tot en het gebruik van een breed aanbod van betaalbare postale financiële diensten verzekerd zijn.
+##### Article 10. Technological neutrality
 
-- 1.2. Alle gebruikers hebben toegang tot de postale financiële diensten, onafhankelijk van het bestaan van enige contractuele of commerciële relatie met de aangewezen aanbieder.
+*Vervallen*
 
-2. Scheiding van gelden
+### CHAPTER II. GENERAL PRINCIPLES AND QUALITY OF SERVICE
 
-- 2.1. De gelden van de gebruikers zijn van elkaar gescheiden. Deze gelden en de hierdoor gegenereerde geldstromen zijn gescheiden van de andere gelden en geldstromen van de aanbieders, in het bijzonder hun eigen vermogen.
+##### Article 11. General principles
 
-- 2.2. De regelingen die verband houden met de vergoeding tussen de aangewezen aanbieders zijn gescheiden van de regelingen die verband houden met de gelden van de gebruikers.
+1. Accessibility via the network and financial inclusion
 
-3. Uitschrijvingsvaluta en uitbetalingsvaluta van de postale betaalopdrachten
+- 1.1. The postal payment services shall be provided by the designated operators and, if so authorized, WPSPs via their network(s) and/or via any other partner network in order to ensure accessibility to these services for the greatest number, and with a view to ensuring access to, and use of, a wide range of affordably priced postal payment services.
 
-- 3.1. Het bedrag van de postale betaalopdracht wordt uitgeschreven en betaald in de valuta van het land van bestemming of in elke door het land van bestemming toegestane andere valuta.
+- 1.2. All users shall have access to postal payment services regardless of any contractual or commercial relationship existing with the designated operator.
 
-4. Niet-verwerping
+2. Separation of funds
 
-- 4.1. De verzending van postale betaalopdrachten langs elektronische weg is onderworpen aan het beginsel van niet-verwerping; dit houdt in dat – mits het bericht aan de toepasselijke technische normen voldoet – de aangewezen aanbieder van uitschrijving het bestaan van de desbetreffende opdrachten niet kan ontkennen en de aangewezen aanbieder van uitbetaling niet kan ontkennen deze daadwerkelijk te hebben ontvangen.
+- 2.1. Users’ funds shall be ring-fenced. These funds and the flows that they generate shall be separate from operators’ other funds and flows, particularly their own funds.
 
-- 4.2. De niet-verwerping van langs elektronische weg verzonden postale betaalopdrachten moet door middel van technische middelen worden gewaarborgd, ongeacht het systeem dat door de aangewezen aanbieders wordt gebruikt.
+- 2.2. Settlements relating to remuneration between designated operators are separate from settlements relating to users’ funds.
 
-5. Uitvoering van postale betaalopdrachten
+3. Currency of issue and currency of payment in respect of postal payment orders
 
-- 5.1. De tussen aangewezen aanbieders verzonden postale betaalopdrachten moeten worden uitgevoerd met inachtneming van de bepalingen van dit Verdrag en van de nationale wetgeving.
+- 3.1. The amount of the postal payment order shall be expressed and paid in the currency of the destination country or in any other currency authorized by the destination country.
 
-- 5.2. Binnen het netwerk van de aangewezen aanbieders is het door de afzender aan de aangewezen aanbieder van uitschrijving overgedragen bedrag, indien beide lidstaten dezelfde valuta hanteren, hetzelfde als het bedrag dat door de aangewezen aanbieder van uitbetaling aan de geadresseerden wordt betaald. Indien de lidstaten niet dezelfde valuta hanteren, wordt het bedrag na uitschrijving en/of uitbetaling, naargelang van het geval, omgerekend op basis van een vastgelegde wisselkoers.
+4. Non-repudiability
 
-- 5.3. De betaling in contanten aan de geadresseerden is niet gebonden aan de ontvangst door de aangewezen aanbieder van uitbetaling van de overeenkomstige gelden van de afzender. Zij is afhankelijk van de nakoming door de aangewezen aanbieder van uitschrijving van zijn verplichtingen jegens de aangewezen aanbieder van uitbetaling met betrekking tot voorschotten, vereffening via centrale clearings- en afwikkelingssystemen, afwikkeling van maandrekeningen of aanvulling van het saldo op de clearingrekening.
+- 4.1. The transmission of postal payment orders by electronic means shall be subject to the principle of non-repudiability, in the sense that the issuing designated operator shall not question the existence of these orders and the paying designated operator shall not deny receipt of the orders, insofar as the message conforms to the applicable technical standards.
 
-- 5.4. Storting door de aangewezen aanbieder van uitbetaling op de rekening van de geadresseerde is gebonden aan de ontvangst van de overeenkomstige gelden van de afzender die door de aangewezen aanbieder van uitschrijving aan de aangewezen aanbieder van uitbetaling beschikbaar moeten worden gesteld. Deze gelden mogen afkomstig zijn van de clearingrekening van de aangewezen aanbieder van uitschrijving of van een centraal systeem voor clearing/vereffening.
+- 4.2. The non-repudiability of electronic postal payment orders shall be ensured by technological means, regardless of the system used by the designated operators.
 
-6. Tariefstelling
+5. Execution of postal payment orders
 
-- 6.1. De aangewezen aanbieder van uitschrijving stelt het tarief van de postale financiële diensten vast.
+- 5.1. Postal payment orders transmitted between designated operators must be executed, subject to the provisions of the present Agreement and the national legislation.
 
-- 6.2. Het tarief kan worden verhoogd met kosten voor eventuele door de afzender verlangde optionele of aanvullende diensten.
+- 5.2. In the designated operators’ network, if both member countries use the same currency, the sum delivered to the issuing designated operator by the sender shall be the same as the sum paid to the payee by the paying designated operator. If the currency is not the same, the sum shall be converted on the basis of an established exchange rate upon issue and/or payment, as appropriate.
 
-7. Tarifaire vrijstelling
+- 5.3. Payment in cash to the payee shall not be conditional on receipt by the paying designated operator of the corresponding funds from the sender. It shall be made subject to the fulfilment by the issuing designated operator of its obligations towards the paying designated operator regarding instalments, settlement via the centralized clearing and settlement system, the settlement of monthly accounts or the provision of a liaison account.
 
-- 7.1. De bepalingen van het Algemeen Postverdrag betreffende de vrijstelling van port voor postzendingen bestemd voor krijgsgevangenen en civiel geïnterneerden worden voor deze categorie geadresseerden op de postale financiële diensten toegepast.
+- 5.4. Payment into the payee’s account by the paying designated operator shall be conditional on receipt of the corresponding funds from the sender, to be made available by the issuing designated operator to the paying designated operator. These funds may come from the centralized clearing and settlement system or from the liaison account of the issuing designated operator.
 
-8. Vergoeding van de aangewezen aanbieder van uitbetaling
+6. Pricing
 
-- 8.1. De aangewezen aanbieder van uitbetaling ontvangt voor de uitvoering van de postale betaalopdrachten een vergoeding van de aangewezen aanbieder van uitschrijving.
+- 6.1. The issuing designated operator shall set the price of postal payment services.
 
-- 8.2. Voor de afwikkeling van postale financiële diensten, en tenzij anders bilateraal overeengekomen tussen de aangewezen aanbieder van uitschrijving en de aangewezen aanbieder van uitbetaling:
+- 6.2. (Deleted.)
 
-- 8.2.1. is de vergoeding van de aangewezen aanbieder van uitbetaling een percentage van de door de afzender aan de aangewezen aanbieder van uitschrijving betaalde prijs voor de uitgifte van een postale betaalopdracht;
+7. Exemption from charges
 
-- 8.2.2. mag de vergoeding van de aangewezen aanbieder van uitbetaling niet lager zijn dan 30% en niet hoger dan 50% van de door de afzender voor de uitgifte van een postale betaalopdracht betaalde prijs;
+- 7.1. The provisions of the Universal Postal Convention concerning exemption from postal charges on postal items intended for prisoners of war and civil internees shall apply to the postal payment service items for this category of payee.
 
-- 8.2.3. specificeert de regeling het toe te passen percentage en, indien van toepassing, het minimumbedrag van de vergoeding om de exploitatiekosten van de aangewezen aanbieder van uitbetaling te dekken.
+8. Remuneration of the paying designated operator
 
-9. Frequentie van de vereffeningen tussen aangewezen aanbieders
+- 8.1. The paying designated operator shall be remunerated by the issuing designated operator for the execution of postal payment orders.
 
-- 9.1. De frequentie van de vereffening tussen aangewezen aanbieders van de bedragen die door een afzender aan de geadresseerde worden betaald of op zijn rekening worden bijgeschreven, kan afwijken van de frequentie die wordt gehanteerd voor de vereffening van de vergoeding tussen aangewezen aanbieders. De vereffening van de bedragen die aan de geadresseerden worden betaald of op hun rekening worden bijgeschreven, vindt ten minste eenmaal per maand plaats.
+- 8.2.
 
-10. Verplichte informatieverstrekking aan de gebruikers
+   - 8.2.1 (Deleted.)
 
-- 10.1. De gebruikers hebben recht op de volgende informatie, die wordt gepubliceerd en aan elke afzender wordt medegedeeld: voorwaarden voor de levering van de postale financiële diensten, tarieven, kosten, wisselkoersen en -voorwaarden, voorwaarden met betrekking tot aansprakelijkheid en adressen van de inlichtingen- en klachtendiensten.
+   - 8.2.2 (Deleted.)
 
-- 10.2. Aan de toegang tot deze informatie zijn geen kosten verbonden.
+   - 8.2.3. The Regulations shall specify the conditions to be applied for the settlement of remuneration to the paying designated operator.
 
-### HOOFDSTUK III
+9. Intervals for settlement between designated operators
 
-#### Artikel 12. Collectief merk en kwaliteit van de dienstverlening
+- 9.1. The frequency of settlement between designated operators of sums paid or credited to a payee on behalf of a sender may be different from that in respect of the settlement of remuneration between designated operators. Sums paid or credited shall be settled at least once a month.
 
-1. Het collectief merk PosTransfer wordt geassocieerd met de verzorging van de in dit Verdrag genoemde elektronische postale financiële diensten.
+10. Obligation to inform users
 
-1bis. Entiteiten die gemachtigd zijn om het collectief merk PosTransfer te gebruiken moeten voldoen aan de doelstellingen, elementen en kwaliteitsnormen van de dienstverlening die verbonden zijn aan de elektronische postale financiële diensten, zoals weergegeven in de PosTransfer-licentieovereenkomst.
+- 10.1. Users shall be entitled to the following information, which shall be published and made available to all senders: conditions covering the provision of postal payment services, prices, charges, exchange rates and arrangements, conditions of implementation of liability, and the addresses of information and inquiry services.
 
-2. De Postraad formuleert en actualiseert de doelstellingen, onderdelen en normen inzake de kwaliteit van de dienstverlening voor elektronisch verzonden postale betaalopdrachten.
+- 10.2. Access to this information shall be provided free of charge.
 
-3. In overeenstemming met de relevante bepalingen in de Regeling, moeten de aangewezen aanbieders (en de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=5&z=2025-03-27&g=2025-03-27) bedoelde spelers) een minimum aantal elementen en normen hanteren voor de kwaliteit van de dienstverlening voor elektronisch verzonden postale betaalopdrachten.
+##### Article 11bis. Collective mark
 
-#### Artikel 13. Interoperabiliteit
+The PosTransfer collective mark shall be associated with the operation of the electronic postal payment services defined herein, in accordance with the relevant conditions set forth in the Regulations.
 
-1. Netwerken
+##### Article 12. Quality of service
 
-- 1.1. Ter waarborging van de uitwisseling van de benodigde gegevens voor de uitvoering van de elektronische postale financiële diensten alsmede voor het zorgen voor de gewenste rapportages en het toezicht op de kwaliteit van de dienstverlening door de Unie, gebruiken de aangewezen aanbieders de systemen of netwerken die verbonden zijn aan het systeem voor geautomatiseerde gegevensuitwisseling (EDI) van de Unie waarmee de interoperabiliteit van de postale financiële diensten overeenkomstig dit Verdrag kan worden gewaarborgd.
+1. (Deleted.)
 
-- 1.2. Onverminderd het bepaalde in punt 1.1 kan de Unie ook een gecentraliseerd platform (en bijbehorende gecentraliseerde databank) ontwikkelen en ter beschikking stellen van aangewezen aanbieders en toegelaten spelers in de postale sector in uitgebreide zin (als bedoeld in artikel 5) om onderlinge verbinding mogelijk te maken tussen postale financiële diensten en andere financiële of betaaldiensten die niet onder dit Verdrag vallen, op basis van open en interoperabele normen en met inachtneming van alle relevante technische en operationele parameters (waaronder, maar niet beperkt tot, de in artikel 8 genoemde vereisten) die op aanvullende wijze door de Unie zijn vastgesteld.
+1bis. (Deleted.)
 
-- 1.2.1. Het gebruik van voornoemd gecentraliseerd platform voor het bijzondere doel van onderlinge verbinding met andere financiële of betaaldiensten die niet onder dit Verdrag vallen (in het bijzonder alle daarmee verband houdende overmakings- of betaalmodaliteiten) valt uitsluitend onder de verantwoordelijkheid van de aangewezen aanbieder en toegelaten spelers in de postale sector in uitgebreide zin. In dit verband is de Unie niet aansprakelijk voor de werking van diensten die niet onder dit Verdrag vallen en waarvan de reikwijdte buiten het toepassingsgebied van de onderlinge verbinding van de in dit Verdrag genoemde postale financiële diensten blijft.
+2. The Postal Operations Council shall define and update the quality of service objectives, elements and standards for electronic postal payment services.
 
-#### Artikel 14. Beveiliging van de elektronische uitwisselingen
+3. (Deleted.)
 
-1. De aangewezen aanbieders zijn verantwoordelijk voor de goede werking van hun apparatuur.
+### CHAPTER III. PRINCIPLES FOR ELECTRONIC DATA INTERCHANGE
 
-2. Ter waarborging van de authenticiteit en integriteit van de verzonden gegevens, dient de elektronische verzending van gegevens te worden beveiligd.
+##### Article 13. Interoperability
 
-3. De aangewezen aanbieders dienen de transacties overeenkomstig de internationale normen te beveiligen.
+1. Networks
 
-## DEEL II. OP DE POSTALE FINANCIËLE DIENSTEN VAN TOEPASSING ZIJNDE REGELS
+- 1.1. In order to exchange the data needed to execute electronic postal payment services, as well as to ensure due reporting and quality of service monitoring by the Union, designated operators shall have their systems and associated networks connected to the UPU-IP, thus ensuring the interoperability of electronic postal payment services in accordance with this Agreement.
 
-### HOOFDSTUK I. VERWERKING VAN POSTALE BETAALOPDRACHTEN
+- 1.2. Without prejudice to § 1.1 above, the Union may also develop, and provide designated operators and eligible WPSPs (as referred to in [article 5](https://wetten.overheid.nl/BWBV0006700)) with, a centralized platform (and associated centralized database) aimed at enabling interconnection between postal payment services and other financial or payment services not covered by this Agreement, on the basis of open and interoperable standards and subject to any relevant operational and technical parameters (including without limitation the requirements set forth in [article 8](https://wetten.overheid.nl/BWBV0006700)) as further defined by the Union.
 
-#### Artikel 15. Tracking en tracing
+   - 1.2.1. Use of the UPU-IP for the exceptional purpose of interconnection with other financial or payment services not covered by this Agreement (including any in-payment or out-payment modalities associated thereto) shall be under the sole responsibility of the designated operators and eligible WPSPs concerned. In this regard, the Union shall not assume any liability for the operation of services not covered by this Agreement, whose scope shall remain beyond the postal payment services perimeter of interconnection referred to herein.
 
-De door de aangewezen aanbieders gebruikte systemen dienen het mogelijk te maken de verwerking van de postale betaalopdracht en de eventuele herroeping ervan door de afzender, te volgen tot aan het moment waarop het overeenkomstige bedrag aan de geadresseerde wordt betaald of op diens rekening wordt bijgeschreven of, in voorkomend geval, aan de afzender wordt terugbetaald.
+##### Article 14. Ensuring the security of electronic exchanges
 
-#### Artikel 16. Indiening, invoer en verzending van postale betaalopdrachten
+1. Designated operators shall be responsible for the proper functioning of their equipment.
 
-1. De voorwaarden voor de indiening, invoer en verzending van postale betaalopdrachten worden vastgelegd in de Regelingen.
+2. The electronic transmission of data shall be made secure in order to ensure the authenticity and integrity of the data transmitted.
 
-2. De geldigheidsduur van postale betaalopdrachten kan niet worden verlengd. De geldigheidsduur wordt vastgelegd in de Regelingen.
+3. Designated operators shall make transactions secure, in accordance with international standards.
 
-#### Artikel 17. Verificatie en terbeschikkingstelling van de gelden
+##### Article 15. Track and trace
 
-1. Na verificatie van de identiteit van de geadresseerde overeenkomstig de nationale wetgeving en na verificatie van de juistheid van de door de geadresseerde verstrekte informatie, evenals de naleving van alle toepasselijke bepalingen met betrekking tot de bestrijding van het witwassen van geld, de financiering van terrorisme en financiële criminaliteit, gaat de aangewezen aanbieder over tot contante betaling. Bij een stortingspostwissel of overschrijving maakt de aangewezen aanbieder het bedrag over op de rekening van de geadresseerde.
+The UPU-IP shall constitute the unique reference database for verifying the status of each electronic postal payment order at any point in time. Accordingly, the systems used by designated operators shall synchronize with the UPU-IP for the performance of any operations on electronic postal payment orders.
 
-2. De termijn voor de terbeschikkingstelling van de gelden wordt vastgesteld in multilaterale of bilaterale overeenkomsten tussen de aangewezen aanbieders.
+## PART II. RULES GOVERNING THE POSTAL PAYMENT SERVICES
 
-#### Artikel 18. Maximumbedrag
+### CHAPTER I. PROCESSING OF POSTAL PAYMENT ORDERS
 
-De aangewezen aanbieders delen de overeenkomstig hun nationale wetgeving vastgestelde maximumbedragen bij verzending en bij ontvangst mede aan het Internationaal Bureau van de Unie.
+##### Article 16. Deposit, entry and transmission of postal payment orders
 
-### HOOFDSTUK II. KLACHTEN EN AANSPRAKELIJKHEID
+1. The conditions for depositing, entering and transmitting postal payment orders are set out in the Regulations.
 
-#### Artikel 19. Terugbetaling
+2. The period of validity for postal payment orders may not be extended and is set in the Regulations.
 
-1. Reikwijdte van de terugbetaling
+##### Article 17. Checking and release of funds
 
-- 1.1. De terugbetaling in het kader van postale financiële diensten heeft betrekking op het totaalbedrag van de postale betaalopdracht in de valuta van het land waarin de betaalopdracht wordt uitgeschreven. Het terug te betalen bedrag is gelijk aan het bedrag dat door de afzender wordt gestort of dat van zijn rekening wordt afgeschreven. In geval van een fout door een aangewezen aanbieder wordt het terug te betalen bedrag vermeerderd met het tarief van de postale financiële dienst.
+1. After confirming the payee’s identity in accordance with national legislation and the accuracy of the information the payee has provided, as well as due compliance with any relevant provisions on the prevention of money laundering, terrorist financing, financing of proliferation of weapons of mass destruction and financial crime, the designated operator shall make the payment in cash. For an inpayment money order or a postal account transfer, this payment shall be credited to the payee’s account.
 
-- 1.2. Bij verrekenpostwissels vindt geen terugbetaling plaats.
+2. The time limits for release of the funds shall be established in the bilateral and multilateral agreements between designated operators.
 
-#### Artikel 20. Klachten
+##### Article 18. Maximum amount
 
-1. Klachten kunnen worden ingediend binnen een termijn van zes maanden, te rekenen vanaf de dag volgend op de dag van aanvaarding van de postale betaalopdracht.
+Designated operators shall inform the International Bureau of the Universal Postal Union of the maximum amounts for sending or receipt set according to their national legislation.
 
-2. Onder voorbehoud van hun nationale wetgeving zijn de aangewezen aanbieders gerechtigd bij hun cliënten kosten in rekening te brengen voor klachten met betrekking tot postale betaalopdrachten.
+##### Article 19. Reimbursement
 
-#### Artikel 21. Aansprakelijkheid van de aangewezen aanbieders ten aanzien van de gebruikers
+1. Extent of reimbursement
 
-1. Verwerking van gelden
+- 1.1. Reimbursement within the framework of the postal payment services shall cover the full amount of the postal payment order in the currency of the issuing country as set out in the Regulations.
 
-- 1.1. Met uitzondering van verrekenpostwissels is de aangewezen aanbieder van uitschrijving ten aanzien van de afzender aansprakelijk voor de aan het loket overhandigde of van de rekening van de afzender afgeschreven bedragen tot op het moment waarop:
+- 1.2 (Deleted.)
 
-- 1.1.1. de postale betaalopdracht naar behoren is betaald; of
+### CHAPTER II. INQUIRIES AND LIABILITY
 
-- 1.1.2. op de rekening van de geadresseerde is overgemaakt; of
+##### Article 20. Inquiries
 
-- 1.1.3. in contanten aan de afzender is terugbetaald of op diens rekening is overgemaakt.
+1. Inquiries shall be entertained within a period of six months from the day after that on which the postal payment order was accepted, as set out in the Regulations.
 
-- 1.2. Voor verrekenpostwissels is de aangewezen aanbieder van uitschrijving ten aanzien van de geadresseerde aansprakelijk voor de aan het loket overhandigde of van de rekening van de afzender afgeschreven bedragen tot het moment waarop de verrekenpostwissel naar behoren is betaald of het bedrag naar behoren is bijgeschreven op de rekening van de geadresseerde.
+2. (Deleted.)
 
-#### Artikel 22. Onderlinge verplichtingen en aansprakelijkheid van de aangewezen aanbieders
+##### Article 21. Liability of designated operators with regard to users
 
-1. Elke aangewezen aanbieder is aansprakelijk voor zijn eigen fouten.
+1. The issuing designated operator shall be accountable for the funds handed over at the counter or debited to the user’s account as set out in the Regulations.
 
-2. De voorwaarden en reikwijdte van de aansprakelijkheid worden vastgelegd in de Regelingen.
+- 1.1 (Deleted.)
 
-#### Artikel 23. Vrijstelling van de aansprakelijkheid van de aangewezen aanbieders
+   - 1.1.1 (Deleted.)
 
-1. De aangewezen aanbieders zijn niet aansprakelijk:
+   - 1.1.2 (Deleted.)
 
-- 1.1. in geval van vertraging bij de uitvoering van de dienst;
+   - 1.1.3 (Deleted.)
 
-- 1.2. wanneer zij, wegens de vernietiging van de gegevens betreffende de postale financiële diensten als gevolg van overmacht, niet kunnen aantonen dat een postale betaalopdracht is uitgevoerd, tenzij het bewijs van hun aansprakelijkheid op andere wijze is vastgelegd;
+- 1.2 (Deleted.)
 
-- 1.3. wanneer de schade is veroorzaakt door de schuld of nalatigheid van de afzender, in het bijzonder waar het gaat om diens verplichting juiste informatie ter ondersteuning van zijn postale betaalopdracht te verstrekken, waaronder de legale herkomst van de overhandigde gelden alsmede de reden van de postale betaalopdracht:
+##### Article 22. Obligations and liability of designated operators to each other
 
-- 1.4. in geval van beslaglegging op de overhandigde gelden;
+1. Each designated operator shall be liable for its own errors.
 
-- 1.5. wanneer het gelden van krijgsgevangenen of civiel geïnterneerden betreft;
+2. The conditions and extent of liability are set out in the Regulations.
 
-- 1.6. wanneer de gebruiker binnen de in dit Verdrag vastgelegde termijn geen klacht heeft ingediend;
+##### Article 23. Non-liability of designated operators
 
-- 1.7. wanneer de verjaringstermijn voor postale financiële diensten in het land van uitschrijving is verlopen.
+1. Designated operators shall not be liable:
 
-### HOOFDSTUK III. FINANCIËLE BETREKKINGEN
+- 1.1 in cases of delay in the execution of the service, if it is not their fault;
 
-#### Artikel 24. Voorbehouden inzake aansprakelijkheid
+- 1.2 when they cannot account for the execution of a postal payment order owing to the destruction of postal payment service data by force majeure, unless proof of their liability is otherwise produced;
 
-Op de in de artikelen 21 tot en met 23 voorgeschreven bepalingen inzake aansprakelijkheid kan, behoudens bij bilaterale overeenkomst, geen voorbehoud worden gemaakt.
+- 1.3 when the damage has been caused by the fault or negligence of the sender, particularly concerning his responsibility to provide correct information in support of his postal payment order, including the fact that the funds remitted are from a legitimate source and that the postal payment order is for a legitimate purpose;
 
-#### Artikel 25. Boekhoudkundige en financiële regels
+- 1.4 if the funds remitted are seized;
 
-1. Boekhoudkundige regels
+- 1.5 in the case of prisoner-of-war or civilian internee funds;
 
-- 1.1. De aangewezen aanbieders nemen de in de Regeling vastgestelde boekhoudkundige regels in acht.
+- 1.6 when the user has made no inquiry within the period set in the present Agreement;
 
-2. Opstelling van de maandelijkse en algemene rekeningen
+- 1.7 when the time allowed for recourse in respect of postal payment services in the issuing country has expired.
 
-- 2.1. De aangewezen aanbieder van uitbetaling stelt ten behoeve van elke aangewezen aanbieder van uitschrijving maandelijks een rekening op van de voor de postale financiële diensten betaalde bedragen. De maandrekeningen worden met dezelfde frequentie opgenomen in een algemene rekening, inclusief voorschotten, waaruit een saldo voortkomt.
+##### Article 24. Reservations regarding liability
 
-3. Voorschot
+No reservations may be made to the provisions regarding liability prescribed in articles 21 to 23, other than in case of a bilateral agreement.
 
-- 3.1. In geval van een disbalans tussen de uitwisselingen tussen aangewezen aanbieders, betaalt de aangewezen aanbieder van uitschrijving ten minste eenmaal per maand, aan het begin van het tijdvak, een voorschot aan de aangewezen aanbieder van uitbetaling. Wanneer de termijn als gevolg van een verhoging van de frequentie van de vereffening van de uitwisselingen korter wordt dan een week, kunnen de aanbieders overeenkomen van dit voorschot af te zien.
+### CHAPTER III. FINANCIAL RELATIONS
 
-- 3.2. Voorschoten zijn niet toegestaan voor vereffening via het centrale clearings- en afwikkelingssysteem.
+##### Article 25. Accounting and financial rules
 
-4. Verzamelrekening
+1. Accounting rules
 
-- 4.1. In beginsel beschikt elke aangewezen aanbieder over een speciale verzamelrekening voor de gelden van de gebruikers. Deze gelden worden uitsluitend gebruikt voor de betaling aan de aangewezen aanbieder van de aan de geadresseerden betaalde postale betaalopdrachten of voor de terugbetaling aan de afzenders van de niet uitgevoerde postale betaalopdrachten.
+- 1.1. Designated operators shall comply with the accounting rules defined in the Regulations.
 
-- 4.2. Wanneer de aangewezen aanbieder voorschotten betaalt, worden deze op de speciale verzamelrekening van de aangewezen aanbieder van uitbetaling bijgeschreven. Deze voorschotten zijn uitsluitend bedoeld voor betalingen aan de geadresseerden.
+2. Preparation of monthly and general accounts
 
-5. Borg
+- 2.1. The paying designated operator shall prepare for each issuing designated operator a monthly account showing the sums paid for postal payment orders. The monthly accounts shall be incorporated, at the same intervals, in a general offset account including instalments and giving rise to a balance.
 
-- 5.1. Overeenkomstig de in de Regeling bedoelde voorwaarden kan de storting van een borg worden verlangd.
+3. Instalment
 
-## DEEL III. OVERGANGS- EN SLOTBEPALINGEN
+- 3.1. In case of an imbalance in exchanges between designated operators, an instalment shall be paid by the issuing designated operator to the paying designated operator, at least once a month, at the beginning of the settlement period. In cases where increasing the frequency of settlement of exchanges reduces the period to less than a week, operators can agree to waive this instalment.
 
-#### Artikel 26. Vereffening en clearing
+- 3.2. (Deleted.)
 
-1. Centrale vereffening
+4. Concentration account
 
-- 1.1. Tenzij anders bilateraal overeengekomen zoals bepaald in 2, geschieden de vereffeningen tussen aangewezen aanbieders via een centraal clearinghouse van de Unie, met inachtneming van de in de Regeling bedoelde voorwaarden. De vereffeningen vinden plaats vanaf de verzamelrekeningen van de aangewezen aanbieders.
+- 4.1. In principle, each designated operator shall have one concentration account for users’ funds. These funds shall be used solely for settling postal payments paid to the payees or for reimbursing non-executed postal payment orders to senders.
 
-2. Bilaterale vereffening
+- 4.2. Any instalments paid by the issuing designated operator shall be credited to the concentration account for the paying designated operator. These instalments shall be used exclusively for payments to payees.
 
-- 2.1. Facturering aan de hand van het saldo van de algemene rekening
+5. Security deposit
 
-- 2.1.1. De aangewezen aanbieders die geen lid zijn van een centraal clearingsysteem of die hun postale betalingen via papieren stukken vereffenen, kunnen hun rekeningen aan de hand van het saldo van de algemene rekening vereffenen.
+- 5.1. The payment of a security deposit may be required in accordance with the conditions provided for in the Regulations.
 
-- 2.2. Wederzijdse clearingrekening
+##### Article 26. Settlement and clearing
 
-- 2.2.1. Wanneer de aangewezen aanbieders over postcheque-instellingen beschikken, kunnen zij een wederzijdse clearingrekening openen via welke de wederzijdse schulden en vorderingen inzake de postale financiële diensten worden vereffend.
+1. Centralized settlement
 
-- 2.2.2. Indien de aangewezen aanbieder van uitbetaling niet over een postcheque-instelling beschikt, kan de clearingrekening bij een andere financiële instelling worden geopend.
+- 1.1. Unless otherwise bilaterally agreed as per paragraph 2, settlements of electronic postal payment services between designated operators shall pass through the Union’s central clearing house, in accordance with the procedures set out in the Regulations, and be carried out from the designated operators’ concentration accounts.
 
-- 2.3. Vereffeningsvaluta
+2. Bilateral settlement
 
-- 2.3.1. De vereffening geschiedt in de valuta van het land van bestemming of in een door de aangewezen aanbieders overeengekomen derde valuta.
+- 2.1. Billing on the basis of the general account balance
 
-#### Artikel 27. Tijdens het Congres gemaakte voorbehouden
+   - 2.1.1. Designated operators that are not members of the centralized clearing system, or that are settling letter-post postal payment orders, may settle accounts on the basis of the balance of the general account.
 
-1. Elk voorbehoud dat onverenigbaar is met het voorwerp en het doel van de Unie is niet toegestaan.
+- 2.2. Liaison account
 
-2. Als stelregel geldt dat de lidstaten die de andere lidstaten niet van hun mening kunnen overtuigen, voor zover mogelijk zouden moeten trachten zich bij de mening van de meerderheid aan te sluiten. Voorbehouden mogen uitsluitend in geval van absolute noodzaak worden gemaakt en dienen naar behoren met redenen te worden omkleed.
+   - 2.2.1. Where designated operators have a giro institution, they may each open a liaison account by means of which shall be settled their mutual debts and claims resulting from postal payment services.
 
-3. Een voorbehoud op de artikelen van dit Verdrag moet aan het Congres worden voorgelegd in de vorm van een schriftelijk voorstel in een van de werktalen van het Internationaal Bureau, overeenkomstig de desbetreffende bepalingen van het Reglement van Orde van het Congres.
+   - 2.2.2. Where the paying designated operator does not have a giro system, the liaison account may be opened with another financial institution.
 
-4. Om van kracht te worden, dient het aan het Congres voorgelegde voorbehoud te worden goedgekeurd door de meerderheid die per geval voor de wijziging van het artikel waarop het voorbehoud betrekking heeft, benodigd is.
+- 2.3. Currency of settlement
 
-5. In beginsel wordt het voorbehoud toegepast op basis van wederkerigheid tussen de lidstaat die het voorbehoud heeft gemaakt en de overige lidstaten.
+   - 2.3.1. Settlements shall be carried out in the currency of the destination country or in a third currency agreed between the designated operators.
 
-6. Het voorbehoud op dit Verdrag wordt in het Slotprotocol ervan opgenomen op basis van het door het Congres goedgekeurde voorstel.
+## PART IIbis. OPTIONAL SERVICES
 
-#### Artikel 28. Slotbepalingen
+##### Article 25bis. Postal financial services
 
-1. Het Postverdrag is in voorkomend geval mutatis mutandis van toepassing op alles wat niet uitdrukkelijk in dit Verdrag is geregeld.
+1. Subject, by analogy, to the provisions under article 3, each member country may also ensure, *inter alia*, that the following international postal financial services are offered or accepted by electronic means on its territory:
 
-2. [Artikel 5 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=5) is niet van toepassing op dit Verdrag.
+- 1.1. Savings and accounts;
 
-3. Voorwaarden voor goedkeuring van voorstellen betreffende het Verdrag en de Regelingen
+- 1.2. Bill collection and payments;
 
-- 3.1. Om uitvoerbaar te worden, dienen de bij het Congres ingediende voorstellen betreffende dit Verdrag te worden goedgekeurd door de meerderheid van de aanwezige stemgerechtigde lidstaten die hun stem uitbrengen. Ten tijde van de stemming moet ten minste de helft van de lidstaten die bij het Congres vertegenwoordigd zijn en stemgerechtigd zijn, aanwezig zijn.
+- 1.3. Social payments;
 
-- 3.2. Om uitvoerbaar te worden, moeten de voorstellen met betrekking tot de Regeling bij dit Verdrag worden goedgekeurd door de meerderheid van de leden van de Postraad die aanwezig zijn, stemgerechtigd zijn en het Verdrag hebben ondertekend of ertoe zijn toegetreden.
+- 1.4. Government payments;
 
-- 3.3. Om uitvoerbaar te worden, moeten de tussen twee Congressen in ingediende voorstellen die betrekking hebben op dit Verdrag:
+- 1.5. Mobile payments and electronic wallets.
 
-- 3.3.1. twee derde van de stemmen verenigen, waarbij ten minste de helft van de lidstaten die partij zijn bij het Verdrag en stemgerechtigd zijn aan de stemming hebben deelgenomen, indien het de toevoeging van nieuwe bepalingen betreft;
+## PART III. TRANSITIONAL AND FINAL PROVISIONS
 
-- 3.3.2. de meerderheid van de stemmen verenigen, waarbij ten minste de helft van de lidstaten die partij zijn bij dit Verdrag en stemgerechtigd zijn aan de stemming hebben deelgenomen, indien het de wijziging van de bepalingen van dit Verdrag betreft;
+##### Article 27. Reservations at Congress
 
-- 3.3.3. de meerderheid van de stemmen verenigen, indien het de uitlegging van de bepalingen van dit Verdrag betreft.
+1. Any reservation which is incompatible with the object and purpose of the Union shall not be permitted.
 
-- 3.4. Niettegenstaande het bepaalde in 3.3.1 is elke lidstaat waarvan de nationale wetgeving nog niet verenigbaar is met de voorgestelde toevoeging gerechtigd, binnen negentig dagen na de kennisgeving van deze toevoeging, een schriftelijke verklaring aan de Directeur-Generaal van het Internationaal Bureau te richten waarin wordt vermeld dat het niet mogelijk is deze toevoeging te aanvaarden.
+2. As a general rule, any member country whose views are not shared by other member countries should endeavour, as far as possible, to conform to the opinion of the majority. Reservations shall be made only in cases of absolute necessity, and shall be duly justified.
 
-Bij de ondertekening van het heden gesloten Verdrag inzake postale financiële diensten zijn de ondergetekende gevolmachtigden het volgende overeengekomen:
+3. Any reservation to an article of the present Agreement shall be submitted to Congress as a Congress proposal written in one of the working languages of the International Bureau and in accordance with the relevant provisions of the Rules of Procedure of Congresses.
 
-#### Artikel I. Reikwijdte van het Verdrag
+4. To become effective, any proposal concerning reservations must be approved by whatever majority is required for amendment of the article to which the reservation relates.
 
-Niettegenstaande [artikel1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2025-03-27&g=2025-03-27) behoudt Vietnam zich het recht voor de verrekenpostwisseldienst op zijn grondgebied aan te bieden.
+5. In principle, reservations shall be applied on a reciprocal basis between the reserving member country and the other member countries.
 
-IN WITNESS WHEREOF, the plenipotentiaries of the governments of the contracting countries have signed this Agreement in a single original which shall be deposited with the Director General of the International Bureau.
+6. Reservations to the present Agreement shall be inserted in its Final Protocol on the basis of proposals approved by Congress.
 
-A copy thereof shall be delivered to each party by the International Bureau of the Universal Postal Union.
+##### Article 28. Final provisions
 
-DONE at Istanbul, 6 October 2016
+1. The Convention shall be applicable, where appropriate, by analogy, in all cases not expressly governed by this Agreement.
 
-### HOOFDSTUK II. ALGEMENE BEGINSELEN EN KWALITEIT VAN DE DIENSTVERLENING
+2. Article 5 of the Constitution shall not apply to this Agreement.
 
-### HOOFDSTUK III. BEGINSELEN MET BETREKKING TOT DE GEAUTOMATISEERDE UITWISSELING VAN GEGEVENS
+3. Conditions for approval of proposals concerning this Agreement and the Regulations
 
-## DEEL II. OP DE POSTALE FINANCIËLE DIENSTEN VAN TOEPASSING ZIJNDE REGELS
+- 3.1 To become effective, proposals submitted to Congress relating to this Agreement must be approved by a majority of the member countries present and voting which are parties to the Agreement and which have the right to vote. At least half of these member countries represented at Congress and having the right to vote shall be present at the time of voting.
 
-### HOOFDSTUK I. VERWERKING VAN POSTALE BETAALOPDRACHTEN
+- 3.2 To become effective, proposals relating to the Regulations of the present Agreement must be approved by a majority of the members of the Postal Operations Council which are present and voting, which have the right to vote, and which are signatories or have acceded to the Agreement.
 
-### HOOFDSTUK II. KLACHTEN EN AANSPRAKELIJKHEID
+- 3.3 To become effective, proposals introduced between two Congresses relating to this Agreement must obtain:
 
-### HOOFDSTUK III. FINANCIËLE BETREKKINGEN
+   - 3.3.1 two thirds of the votes, with at least one half of the member countries which are parties to the Agreement and have the right to vote having taken part in the vote, if they involve the addition of new provisions;
 
-## DEEL III. OVERGANGS- EN SLOTBEPALINGEN
+   - 3.3.2 a majority of the votes, with at least one half of the member countries which are parties to the Agreement and have the right to vote having taken part in the vote, if they involve amendments to the provisions of this Agreement;
 
-#### Artikel 29. Inwerkingtreding en duur van het Verdrag inzake postale financiële diensten
+   - 3.3.3 a majority of the votes, if they involve interpretation of the provisions of this Agreement.
 
-1. Dit Verdrag treedt in werking op 1 juli 2022 en blijft voor onbepaalde tijd van kracht.
+- 3.4 Notwithstanding the provisions under 3.3.1, any member country whose national legislation is as yet incompatible with the proposed addition may, within 90 days from the date of notification of the latter, make a written declaration to the Director General of the International Bureau stating that it is unable to accept this addition.
 
-Bij de ondertekening van het heden gesloten Verdrag inzake postale financiële diensten zijn de gevolmachtigden van de regeringen van de lidstaten het volgende overeengekomen:
+##### Article 29. Entry into force and duration of the Postal Payment Services Agreement
 
-#### Artikel II. Operationele bevoegdheden
-
-1. Onder verwijzing naar [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=6&z=2025-03-27&g=2025-03-27) en voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2025-03-27&g=2025-03-27) en [4 van het Verdrag inzake postale financiële diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2025-03-27&g=2025-03-27), start elke door Frankrijk aangewezen aanbieder uitsluitend postale financiële diensten met aanbieders van de lidstaten die het Verdrag hebben ondertekend.
-
-2. In gevallen waarin een van deze aanbieders geen aangewezen aanbieder is, kan deze uitsluitend betaalopdrachten uitvoeren die van de Franse aangewezen aanbieder zijn ontvangen. Voor het sluiten van een uitwisselingsovereenkomst met een Franse aangewezen aanbieder dient deze aanbieder eerst een afschrift te overleggen van zijn verklaring van deelname aan de exclusieve uitvoering van postale financiële diensten afgelegd tegenover de bevoegde autoriteiten van de betrokken lidstaat, die deze verklaring naar eigen goeddunken van een toelating kunnen voorzien.
-
-3. Deze zelfde bepalingen zijn op basis van wederkerigheid van toepassing op het nationale grondgebied van Frankrijk voor elke aanbieder in Frankrijk die een samenwerkingsverband wenst aan te gaan met uitsluitend aangewezen aanbieders van andere lidstaten die het Verdrag inzake postale financiële diensten hebben ondertekend.
+This Agreement shall come into force on 1 July 2022 and shall remain in force for an indefinite period.
 
 IN WITNESS WHEREOF, the plenipotentiaries of the governments of the member countries have signed this Agreement in a single original which shall be deposited with the Director General of the International Bureau. A copy thereof shall be delivered to each party by the International Bureau of the Union.
 

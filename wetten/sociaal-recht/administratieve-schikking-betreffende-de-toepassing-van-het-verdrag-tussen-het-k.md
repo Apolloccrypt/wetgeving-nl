@@ -1,50 +1,19 @@
 ---
 title: "Administratieve Schikking betreffende de toepassing van het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid"
 identifier: "BWBV0006157"
-country: "nl"
-rank: "verdrag"
-publication_date: "2015-10-01"
-last_updated: "2013-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006157"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10005061003"
-version_id: "10005394872"
-internal_id: "C10008928621"
-label_id: "10005043944"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006157/2015-10-01/0"
-intitule_bron: "Trb.2013-79"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-05-16"
-intitule_in_force: "2015-08-12"
-intitule_status: "goed"
-original_publication: "Trb.2013-79"
-original_published_date: "2013-05-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2013-79"
-entry_into_force_date: "2015-10-01"
-jci_1_3: "jci1.3:c:BWBV0006157&z=2015-10-01&g=2015-10-01"
-jci_1_0: "1.0:c:BWBV0006157&g=2015-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-10-01"
+publicatiedatum: 2015-10-01
+laatste_update: 2015-10-01
+status: geldig
+toestand: 2015-10-01
+bron: "https://wetten.overheid.nl/BWBV0006157"
+opgehaald: 2026-09-16
 ---
+
 # Administratieve Schikking betreffende de toepassing van het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid
 
-Gelet op het [Verdrag dat op 6 december 2010 in Brussel werd gesloten tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBV0005135), hierna „het Verdrag” genoemd;
-
-Met het oog op het bepalen van de nadere regels voor de uitvoering van dit Verdrag zoals bepaald in [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=16) en om de doeltreffendheid ervan te waarborgen;
-
-Beslissen de bevoegde autoriteiten, te weten:
-
-voor Nederland: de minister die het aangaat
-
-en
-
-voor België: de bevoegde Ministers op het federale niveau, en op het niveau van de gedefedereerde entiteiten de bevoegde Ministers van de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie
-
-in onderlinge overeenstemming het volgende:
+*Gelet op het Verdrag dat op 6 december 2010 in Brussel werd gesloten tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, hierna „het Verdrag” genoemd; Met het oog op het bepalen van de nadere regels voor de uitvoering van dit Verdrag zoals bepaald in artikel 16 van het Verdrag en om de doeltreffendheid ervan te waarborgen; Beslissen de bevoegde autoriteiten, te weten: voor Nederland: de minister die het aangaat en voor België: de bevoegde Ministers op het federale niveau, en op het niveau van de gedefedereerde entiteiten de bevoegde Ministers van de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie in onderlinge overeenstemming het volgende:*
 
 ##### Artikel 1. Definities
 
@@ -56,17 +25,17 @@ in onderlinge overeenstemming het volgende:
 
 ##### Artikel 2. Uitwisseling van gegevens en procedures
 
-**Algemeen:**
+*Algemeen:*
 
 Bij de beschrijving van de gegevens dient vermeld te worden welke instellingen of autoriteiten betrokken zijn bij de uitwisseling van deze gegevens. Er wordt duidelijk bepaald welke partij de gegevens ter beschikking stelt, welke partij de gegevens uiteindelijk ontvangt en welke andere partijen bij de uitwisseling betrokken zijn.
 
-**Wat België betreft:**
+*Wat België betreft:*
 
 Voor elke uitwisseling van gegevens buiten het netwerk, door de Kruispuntbank of de instellingen van sociale zekerheid, dient in voorkomend geval vooraf machtiging te worden gegeven in overeenstemming met de Belgische wetgeving.
 
 ##### Artikel 3. Uitvoeringsprocedures inzake de samenwerking voor de toepassing van de Belgische wettelijke niet-contributieve, inkomensgebonden uitkeringen die aan behoeftige personen worden toegekend en de Nederlandse wetgeving inzake sociale bijstand
 
-1. Het verlenen van bijstand, het in verband brengen van bestanden, de verificatie van gegevens en de samenwerking bij controles zoals bedoeld in respectievelijk de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=7), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=10) en [13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=13) vindt plaats tussen de verbindingsorganen. Deze verbindingsorganen worden vermeld in Bijlage II bij deze Administratieve Schikking.
+1. Het verlenen van bijstand, het in verband brengen van bestanden, de verificatie van gegevens en de samenwerking bij controles zoals bedoeld in respectievelijk de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=7), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=10) en [13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=13) vindt plaats tussen de verbindingsorganen. Deze verbindingsorganen worden vermeld in [Bijlage II](https://wetten.overheid.nl/BWBV0006157) bij deze Administratieve Schikking.
 
 2. De verbindingsorganen wijzen een vertegenwoordiger aan die de aanvragen van het verbindingsorgaan van de andere Verdragsluitende Partij in ontvangst neemt en als contactpersoon fungeert.
 
@@ -74,15 +43,15 @@ Voor elke uitwisseling van gegevens buiten het netwerk, door de Kruispuntbank of
 
 ##### Artikel 4. Vertrouwelijkheid en bescherming van de gegevens
 
-**Wat Nederland betreft:**
+*Wat Nederland betreft:*
 
 Nederland past de Wet van 6 juli 2000 houdende regels inzake de bescherming van persoonsgegevens (Wet bescherming persoonsgegevens) toe.
 
-**Wat België betreft:**
+*Wat België betreft:*
 
 België past de Wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens toe. Bovendien moeten de verschillende instellingen die betrokken zijn bij een overdracht van bepaalde gegevens zich aanpassen aan de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid.
 
-##### Artikel 5. Uitvoeringsprocedures inzake invordering en terugvordering zoals bedoeld in [artikel 12 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=12)
+##### Artikel 5. Uitvoeringsprocedures inzake invordering en terugvordering zoals bedoeld in artikel 12 van het Verdrag
 
 De bevoegde organen, in voorkomend geval in overleg met de verbindingsorganen, leggen, indien nodig, de uitvoeringsprocedures inzake invordering en terugvordering, zoals bedoeld in [artikel 12 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=12), vast. Dit zal gebeuren in onderling te sluiten samenwerkingsovereenkomsten, overeenkomstig [artikel 17 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=17).
 
@@ -110,11 +79,11 @@ Deze procedures kunnen onder meer het volgende betreffen:
 
 1. Onder „vertegenwoordigers”, zoals bedoeld in [artikel 14 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&artikel=14) wordt verstaan:
 
-**Voor Nederland:**
+*Voor Nederland:*
 
 Medewerkers die zijn aangesteld door de bevoegde organen of de verbindingsorganen en belast zijn met controle- en verificatiewerkzaamheden en in het bezit zijn van een document dat hun hoedanigheid en bevoegdheden aantoont, dat ze steeds moeten overleggen op verzoek van de autoriteit van de Staat op het grondgebied waarvan de controle plaatsvindt.
 
-**Voor België:**
+*Voor België:*
 
 De sociaal inspecteurs en controleurs die verbonden zijn aan de betrokken socialezekerheidsinstellingen of -autoriteiten, die beëdigd zijn en in het bezit zijn van een document dat hun hoedanigheid en hun bevoegdheden aantoont, dat ze steeds moeten overleggen op verzoek van de autoriteit van de Staat op het grondgebied waarvan de controle plaatsvindt.
 
@@ -132,11 +101,11 @@ TEN BLIJKE WAARVAN de ondergetekenden, naar behoren gemachtigd door hun ondersch
 
 GEDAAN te Brussel, op 28 februari 2013 in tweevoud, in de Nederlandse en Franse taal, zijnde beide gelijkelijk authentiek.
 
-**Voor de bevoegde autoriteiten van Nederland,**
+*Voor de bevoegde autoriteiten van Nederland,*
 
 ASSCHER
 
-**Voor de bevoegde autoriteiten van België,**
+*Voor de bevoegde autoriteiten van België,*
 
 CROMBEZ
 

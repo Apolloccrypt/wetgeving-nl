@@ -9,7 +9,7 @@ laatste_update: 2026-09-12
 status: geldig
 toestand: 2026-09-12
 bron: "https://wetten.overheid.nl/BWBR0017294"
-opgehaald: 2026-09-15
+opgehaald: 2026-09-16
 ---
 
 # Besluit van 7 oktober 2004, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)

@@ -1,99 +1,74 @@
 ---
 title: "Protocol tot wijziging van het verdrag inzake sociale zekerheid tussen de regering van het Koninkrijk der Nederlanden en de regering van de Republiek Kaapverdië, met Slotprotocol, ondertekend te 's-Gravenhage op 18 november 1981, zoals gewijzigd en ondertekend op 23 januari 1995 en op 22 mei 2000, van het Protocol bij het Verdrag, ondertekend te Praia op 22 mei 2000, en van het Administratief Akkoord, ondertekend te 's-Gravenhage op 18 november 1981, zoals gewijzigd op 23 januari 1995"
 identifier: "BWBV0006781"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-07-01"
-last_updated: "2019-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006781"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10005464713"
-version_id: "10005934602"
-internal_id: "C10009505201"
-label_id: "10005447904"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006781/2019-07-01/0"
-intitule_bron: "Trb.2018-223"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-12-27"
-intitule_status: "nogniet"
-original_publication: "Trb.2018-223"
-original_published_date: "2018-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2018-223"
-jci_1_3: "jci1.3:c:BWBV0006781&z=2019-07-01&g=2019-07-01"
-jci_1_0: "1.0:c:BWBV0006781&g=2019-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-12-27"
+laatste_update: 2019-07-01
+status: geldig
+toestand: 2019-07-01
+bron: "https://wetten.overheid.nl/BWBV0006781"
+opgehaald: 2026-09-16
 ---
+
 # Protocol tot wijziging van het verdrag inzake sociale zekerheid tussen de regering van het Koninkrijk der Nederlanden en de regering van de Republiek Kaapverdië, met Slotprotocol, ondertekend te 's-Gravenhage op 18 november 1981, zoals gewijzigd en ondertekend op 23 januari 1995 en op 22 mei 2000, van het Protocol bij het Verdrag, ondertekend te Praia op 22 mei 2000, en van het Administratief Akkoord, ondertekend te 's-Gravenhage op 18 november 1981, zoals gewijzigd op 23 januari 1995
 
-De regering van het Koninkrijk der Nederlanden
+*Le Gouvernement du Royaume des Pays-Bas et Le Gouvernement de la République du Cap-Vert, Ont décidé de procéder à une révision de la Convention de Sécurité Sociale entre le Royaume des Pays-Bas et la République du Cap-Vert, avec Protocole final, signée à La Haye le 18 novembre 1981, telle que révisée et signée le 23 janvier 1995 et le 22 mai 2000, du Protocole à la Convention, signé à Praia le 22 mai 2000, et de l’Arrangement administratif, signé à La Haye le 18 novembre 1981, tel que révisé le 23 janvier 1995, Sont convenus des dispositions suivantes:*
 
-en
+##### Article premier
 
-de regering van de Republiek Kaapverdië,
+*Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië inzake sociale zekerheid; 's-Gravenhage, 18 november 1981.*
 
-Hebben besloten over te gaan tot wijziging van het [Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië, met Slotprotocol](onbekend), ondertekend te ’s-Gravenhage op 18 november 1981, zoals gewijzigd en ondertekend op 23 januari 1995 en op 22 mei 2000, van het [Protocol bij het Verdrag](onbekend), ondertekend te Praia op 22 mei 2000, en van het [Administratief Akkoord](onbekend), ondertekend te ’s-Gravenhage op 18 november 1981, zoals gewijzigd op 23 januari 1995,
+##### Article 2
 
-Zijn het volgende overeengekomen:
+*Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië inzake sociale zekerheid; 's-Gravenhage, 18 november 1981.*
 
-##### Artikel 1
+##### Article 3
 
-Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië inzake sociale zekerheid; 's-Gravenhage, 18 november 1981.
+*Wijzigt het Administratief Akkoord met betrekking tot de wijze van toepassing van het op 18 november 1981 te 's-Gravenhage tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië ondertekende Verdrag inzake sociale zekerheid; 's-Gravenhage, 18 november 1981.*
 
-##### Artikel 2
+##### Article 4. Dispositions transitoires
 
-Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië inzake sociale zekerheid; 's-Gravenhage, 18 november 1981.
+1. Lorsqu’une personne bénéficie de prestations en nature le jour précédant le jour auquel ce Protocole en vertu de [l’article 5, paragraphe 3](https://wetten.overheid.nl/BWBV0006781), sera appliqué provisoirement, ou le jour précédant la date d‘entrée en vigueur du présent Protocole lors d’un séjour temporaire sur le territoire de l’autre Partie Contractante, les dispositions des [articles 12](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13), [14, paragraphe 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=14), et [15, paragraphe 1, de la Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=15) comme lus avant révision par le présent Protocole restent applicables jusqu’à la date de fin du traitement médical pendant ce séjour, mais jusqu’à un an au maximum.
 
-##### Artikel 3
+2. Les montants effectifs des dépenses afférentes aux prestations en nature servies en application du paragraphe 1 sont remboursés par les institutions compétentes, aux institutions qui ont servi lesdites prestations et ce, tels qu’ils résultent de la comptabilité de ces dernières institutions.
 
-Wijzigt het Administratief Akkoord met betrekking tot de wijze van toepassing van het op 18 november 1981 te 's-Gravenhage tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië ondertekende Verdrag inzake sociale zekerheid; 's-Gravenhage, 18 november 1981.
+3. Lorsqu’une personne bénéficie sous la [Convention](https://wetten.overheid.nl/BWBV0002964) des allocations familiales néerlandaises au 30 juin 2019, les dispositions de [l’article 5 de la Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=5) comme convenues avant l’application provisoire du présent Protocole restent applicables aussi longtemps que l’enfant continue de résider au Cap-Vert et dans la mesure où le bénéficiaire continuera à répondre sans interruption aux autres conditions pour avoir droit aux prestations en vertu de la loi néerlandaise.
 
-##### Artikel 4. Overgangsbepalingen
+4. Nonobstant [l’article 5, paragraphe 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=5), tel qu’ajouté par le présent Protocole pour le bénéficiaire qui réside au Cap-Vert et qui a droit à une prestation complémentaire en vertu de la Loi néerlandaise du 6 novembre 1986 sur les suppléments alloués aux allocataires sociaux (*Toeslagenwet*) au jour précédent le jour de l’application provisoire du présent Protocole ce paragraphe est appliqué progressivement:
 
-1. Wanneer een persoon recht heeft op verstrekkingen op de dag voorafgaande aan de dag waarop dit Protocol uit hoofde van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006781&artikel=5&z=2019-07-01&g=2019-07-01), voorlopig wordt toegepast, of de dag voorafgaande aan de datum van inwerkingtreding van dit Protocol tijdens een tijdelijk verblijf op het grondgebied van de andere Verdragsluitende Partij, blijven de bepalingen van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13), [het vijfde lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=14) en het [eerste lid van artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=15) zoals gelezen vóór wijziging van dit Protocol, van toepassing tot en met de datum waarop de geneeskundige behandeling tijdens dit verblijf eindigt, evenwel met een maximale duur van een jaar.
+pendant la première année le bénéficiaire a droit au montant de la prestation complémentaire qui est égal au montant auquel le bénéficiaire aurait droit s’il réside aux Pays-Bas;
 
-2. De werkelijke bedragen van de uitgaven met betrekking tot de verstrekkingen die zijn verleend krachtens het eerste lid, worden door de bevoegde organen vergoed aan de organen die bedoelde verstrekkingen hebben verleend en wel op grond van de boekhouding van de laatstgenoemde organen.
+pendant la deuxième année le bénéficiaire a droit au montant de la prestation complémentaire qui est égal à deux tiers du montant auquel le bénéficiaire aurait droit s’il réside aux Pays-Bas;
 
-3. Wanneer een persoon op 30 juni 2019 krachtens het [Verdrag](onbekend) recht heeft op Nederlandse kinderbijslag, blijven de bepalingen van [artikel 5 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=5) zoals overeengekomen vóór de voorlopige toepassing van dit Protocol van toepassing zolang het kind in Kaapverdië blijft wonen en voor zover de rechthebbende zonder onderbreking blijft voldoen aan de andere voorwaarden voor het recht op kinderbijslag krachtens de Nederlandse wettelijke regelingen.
+pendant la troisième année le bénéficiaire a droit au montant de la prestation complémentaire qui est égal à un tiers du montant auquel le bénéficiaire aurait droit s’il réside aux Pays-Bas;
 
-4. Niettegenstaande het [vierde lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=5), zoals toegevoegd bij dit Protocol, wordt voor de rechthebbende die in Kaapverdië woont en recht heeft op een toeslag uit hoofde van de Toeslagenwet van 6 november 1986 op de dag voorafgaande aan de dag waarop dit Protocol voorlopig wordt toegepast, dit lid geleidelijk toegepast:
+à partir de la quatrième année le bénéficiaire n’a plus droit à une prestation complémentaire en vertu de la Loi néerlandaise du 6 novembre 1986 sur les suppléments alloués aux allocataires sociaux (*Toeslagenwet*).
 
-gedurende het eerste jaar heeft de rechthebbende recht op een toeslag die gelijk is aan het bedrag waarop hij recht zou hebben wanneer hij in Nederland zou wonen;
+5. Nonobstant [l’article 5, paragraphe 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=5), tel qu’ajouté par le présent Protocole, la [Convention](https://wetten.overheid.nl/BWBV0002964) continue de s’appliquer comme non amendée à la personne qui a droit aux prestations au 30 juin 2019, dans la mesure ou la personne continue de résider au même pays et dans la mesure ou la personne continue de répondre sans interruption aux autres conditions pour avoir droit à cette prestation.
 
-gedurende het tweede jaar heeft de rechthebbende recht op een toeslag die gelijk is aan twee derde van het bedrag waarop hij recht zou hebben wanneer hij in Nederland zou wonen;
+### DISPOSITIONS FINALES
 
-gedurende het derde jaar heeft de rechthebbende recht op een toeslag die gelijk is aan een derde van het bedrag waarop hij recht zou hebben wanneer hij in Nederland zou wonen;
+##### Article 5. Entrée en vigueur, application provisoire et consolidation
 
-vanaf het vierde jaar heeft de rechthebbende geen recht meer op een toeslag krachtens de Toeslagenwet van 6 november 1986.
+1. Les gouvernements des Parties Contractantes se notifient mutuellement par un échange de notes par voie diplomatique l’achèvement de leurs procédures constitutionnelles respectives requises pour l’entrée en vigueur du présent Protocole.
 
-5. Niettegenstaande het zesde lid van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=5), zoals toegevoegd bij dit Protocol, blijft het [Verdrag](onbekend) ongewijzigd van toepassing op een persoon die op 30 juni 2019 recht heeft op uitkeringen, voor zover de persoon in hetzelfde land blijft wonen en voor zover de persoon zonder onderbreking blijft voldoen aan de andere voorwaarden voor het recht op deze uitkering.
+2. Le présent Protocole entrera en vigueur le premier jour du troisième mois suivant le mois au cours duquel les gouvernements des Parties Contractantes se seront communiquées par un échange de notes par voie diplomatique que les procédures constitutionnelles nécessaires pour l’entrée en vigueur du Protocole ont été accomplies dans leurs pays respectifs.
 
-## SLOTBEPALINGEN
+3. Le présent Protocole sera appliqué provisoirement à partir du 1er juillet 2019 s’il n’est pas encore entré en vigueur avant cette date.
 
-##### Artikel 5. Inwerkingtreding, voorlopige toepassing en consolidatie
-
-1. De regeringen van de Verdragsluitende Partijen stellen elkaar door de uitwisseling van nota’s langs diplomatieke weg ervan in kennis dat hun respectieve constitutionele procedures, vereist voor de inwerkingtreding van dit Protocol, zijn voltooid.
-
-2. Dit Protocol treedt in werking op de eerste dag van de derde maand volgend op de maand waarin de regeringen van de Verdragsluitende Partijen elkaar door de uitwisseling van nota’s langs diplomatieke weg hebben medegedeeld dat de grondwettelijke procedures die vereist zijn voor de inwerkingtreding van dit Protocol in hun respectieve landen zijn voltooid.
-
-3. Dit Protocol wordt voorlopig toegepast vanaf 1 juli 2019 indien het niet voor deze datum in werking is getreden.
-
-4. Voorafgaand aan de datum vermeld in het vorige lid van dit artikel, werken de verdragsluitende partijen samen aan de consolidatie in één verdragstekst van alle wijzigingen die zijn aangebracht in de bepalingen van het [Verdrag](onbekend) van 1981 alsmede aan de consolidatie van de wijzigingen die zijn aangebracht in de bepalingen van de twee bij het Verdrag behorende instrumenten, die zullen worden ondertekend door de verdragsluitende partijen en die, met dit Protocol, officieel zullen worden gepubliceerd in hun respectieve landen.
+4. Avant la date indiquée au paragraphe précédent du présent article, les Parties Contractantes s’engagent à travailler ensemble à la consolidation dans un texte conventionnel unique de tous les amendements apportés aux dispositions de la [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002964) de 1981, ainsi que pour consolider les modifications apportées aux dispositions des deux instruments connexes à la même Convention qui seront signés par les Parties Contractantes et publiés officiellement dans leurs pays respectifs avec le présent Protocole.
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole.
 
 FAIT à Amsterdam, le 12-12-2018, en deux exemplaires originaux en langue française, néerlandaise et portugaise, tous les textes faisant également foi. En cas de divergence d’interprétation, le texte en langue française prévaudra.
 
-**Pour le Gouvernement du Royaume des Pays-Bas,**
+*Pour le Gouvernement du Royaume des Pays-Bas,*
 
 THEODORUS PETERS
 
 Ambassadeur Extraordinaire et Plénipotentiaire en République du Cabo Verde
 
-**Pour le Gouvernement de la République du Cabo Verde,**
+*Pour le Gouvernement de la République du Cabo Verde,*
 
 JOSE FILOMENO DIAS DE CARVALHO MONTEIRO
 

@@ -1,207 +1,182 @@
 ---
 title: "Verdrag betreffende de gedwongen of verplichte arbeid"
 identifier: "BWBV0006218"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-08-08"
-last_updated: "2018-08-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006218"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10005101183"
-version_id: "10005446542"
-internal_id: "C10008400191"
-label_id: "10005084614"
-dtd_version: "2.0"
-original_entry_into_force: "1934-03-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006218/2018-08-08/0"
-intitule_bron: "Stb.1933-236"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1933-04-27"
-intitule_published: "1933-05-12"
-intitule_in_force: "1933-05-12"
-intitule_status: "goed"
-original_publication: "Stb.1933-236"
-original_signed_date: "1933-04-27"
-original_published_date: "1933-05-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1934-03-31"
-jci_1_3: "jci1.3:c:BWBV0006218&z=2018-08-08&g=2018-08-08"
-jci_1_0: "1.0:c:BWBV0006218&g=2018-08-08"
-citeertitel_status: "redactioneel"
-signed_date: "1933-04-27"
-entry_into_force: "1934-03-31"
+publicatiedatum: 1934-03-31
+laatste_update: 2018-08-08
+status: geldig
+toestand: 2018-08-08
+bron: "https://wetten.overheid.nl/BWBV0006218"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag betreffende de gedwongen of verplichte arbeid
 
-**Verdrag betreffende den gedwongen of verplichten arbeid.**
+*Convention concerning forced or compulsory labour. The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Fourteenth Session on 10 June 1930, and Having decided upon the adoption of certain proposals with regard to forced or compulsory labour, which is included in the first item on the Agenda of the Session, and Having determined that these proposals shall take the form of an international convention, adopts, this twenty-eighth day of June of the year one thousand nine hundred and thirty, the following Convention, which may be cited as the Forced Labour Convention, 1930, for ratification by the Members of the International Labour Organisation, in accordance with the provisions of the Constitution of the International Labour Organisation:*
 
-De algemeene Conferentie van de Internationale Organisatie van den Arbeid, door den Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Genève en aldaar bijeengekomen op 10 Juni 1930, in hare veertiende zitting, besloten hebbende verschillende voorstellen aan te nemen betreffende den gedwongen of verplichten arbeid, welk onderwerp begrepen is in het eerste punt van de agenda der zitting, en besloten hebbende, dat deze voorstellen den vorm zullen aannemen van een verdrag;
+##### Article 1
 
-neemt heden, den 28sten Juni 1930, het volgende verdrag aan, dat genoemd zal worden het “Verdrag betreffende de gedwongen of verplichte arbeid, 1930”, ter bekrachtiging door de leden van de Internationale Arbeidsorganisatie, zulks overeenkomstig de bepalingen van het Statuut van de Internationale Arbeidsorganisatie:
+1. Each Member of the International Labour Organisation which ratifies this Convention undertakes to suppress the use of forced or compulsory labour in all its forms within the shortest possible period.
 
-##### Artikel 1
+2. *Vervallen.*
 
-1. Ieder lid van de Internationale Organisatie van den Arbeid, dat dit verdrag bekrachtigt, verbindt zich den gedwongen of verplichten arbeid in al zijn vormen binnen den kortst mogelijken termijn af te schaffen.
+3. *Vervallen.*
 
-2. Vervallen.
+##### Article 2
 
-3. Vervallen.
+1. For the purposes of this Convention the term „forced or compulsory labour” shall mean all work or service which is exacted from any person under the menace of any penalty and for which the said person has not offered himself voluntarily.
 
-##### Artikel 2
+2. Nevertheless, for the purposes of this Convention, the term „forced or compulsory labour” shall not include:
 
-1. Voor de toepassing van dit verdrag duidt de uitdrukking „gedwongen of verplichte arbeid” aan: elken arbeid of dienst, welke van een persoon wordt gevorderd onder bedreiging met een of andere straf en waarvoor bedoelde persoon zich niet vrijwillig heeft aangeboden.
+- (a) any work or service exacted in virtue of compulsory military service laws for work of a purely military character;
 
-2. De uitdrukking „gedwongen of verplichte arbeid” zal echter voor de toepassing van dit verdrag niet omvatten:
+- (b) any work or service which forms part of the normal civic obligations of the citizens of a fully self-governing country;
 
-- a. elken arbeid of dienst, welke gevorderd wordt krachtens wetten op den verplichten militairen dienst en aangewend wordt voor werken, die een zuiver militair karakter dragen;
+- (c) any work or service exacted from any person as a consequence of a conviction in a court of law, provided that the said work or service is carried out under the supervision and control of a public authority and that the said person is not hired to or placed at the disposal of private individuals, companies or associations;
 
-- b. elken arbeid of dienst, welke deel uitmaakt van de normale burgerlijke verplichtingen van de burgers van een land, dat volledig zelfbestuur heeft;
+- (d) any work or service exacted in cases of emergency, that is to say, in the event of war or of a calamity or threatened calamity, such as fire, flood, famine, earthquake, violent epidemic or epizootic diseases, invasion by animal, insect or vegetable pests, and in general any circumstance that would endanger the existence or the well-being of the whole or part of the population;
 
-- c. elken arbeid of dienst van een persoon, gevorderd als gevolg van een veroordeeling, uitgesproken bij een rechterlijke beslissing, op voorwaarde, dat die arbeid of dienst ten uitvoer gelegd wordt onder opzicht en toezicht van de openbare machten, en dat de bedoelde persoon niet afgestaan wordt aan of ter beschikking gesteld wordt van particulieren, maatschappijen of private rechtspersonen;
+- (e) minor communal services of a kind which, being performed by the members of the community in the direct interest of the said community, can therefore be considered as normal civic obligations incumbent upon the members of the community, provided that the members of the community or their direct representatives shall have the right to be consulted in regard to the need for such services.
 
-- d. elken arbeid of dienst, gevorderd in gevallen van overmacht, d. w. z. in geval van oorlog, onheilen of dreigende onheilen, zooals branden, overstroomingen, hongersnooden, aardbevingen, hevige epidemieën onder menschen of dieren, invallen van schadelijke dieren, insecten of plantaardige parasieten en in het algemeen, alle omstandigheden, welke het leven of de normale bestaansvoorwaarden van de geheele bevolking of een deel daarvan in gevaar brengen of in gevaar kunnen brengen;
+##### Article 3
 
-- e. de kleine dorpsdiensten, d. w. z. de diensten, uitgevoerd in het onmiddellijk belang van de gemeenschap door de leden daarvan, diensten, die uit dien hoofde beschouwd kunnen worden als normale burgerlijke verplichtingen, rustende op de leden van de gemeenschap, op voorwaarde, dat de bevolking zelf of hare rechtstreeksche vertegenwoordigers het recht hebben zich uit te spreken over de noodzakelijkheid van die diensten.
+*Vervallen*
 
-##### Artikel 3
+##### Article 4
 
-Vervallen
+*Vervallen*
 
-##### Artikel 4
+##### Article 5
 
-Vervallen
+*Vervallen*
 
-##### Artikel 5
+##### Article 6
 
-Vervallen
+*Vervallen*
 
-##### Artikel 6
+##### Article 7
 
-Vervallen
+*Vervallen*
 
-##### Artikel 7
+##### Article 8
 
-Vervallen
+*Vervallen*
 
-##### Artikel 8
+##### Article 9
 
-Vervallen
+*Vervallen*
 
-##### Artikel 9
+##### Article 10
 
-Vervallen
+*Vervallen*
 
-##### Artikel 10
+##### Article 11
 
-Vervallen
+*Vervallen*
 
-##### Artikel 11
+##### Article 12
 
-Vervallen
+*Vervallen*
 
-##### Artikel 12
+##### Article 13
 
-Vervallen
+*Vervallen*
 
-##### Artikel 13
+##### Article 14
 
-Vervallen
+*Vervallen*
 
-##### Artikel 14
+##### Article 15
 
-Vervallen
+*Vervallen*
 
-##### Artikel 15
+##### Article 16
 
-Vervallen
+*Vervallen*
 
-##### Artikel 16
+##### Article 17
 
-Vervallen
+*Vervallen*
 
-##### Artikel 17
+##### Article 18
 
-Vervallen
+*Vervallen*
 
-##### Artikel 18
+##### Article 19
 
-Vervallen
+*Vervallen*
 
-##### Artikel 19
+##### Article 20
 
-Vervallen
+*Vervallen*
 
-##### Artikel 20
+##### Article 21
 
-Vervallen
+*Vervallen*
 
-##### Artikel 21
+##### Article 22
 
-Vervallen
+*Vervallen*
 
-##### Artikel 22
+##### Article 23
 
-Vervallen
+*Vervallen*
 
-##### Artikel 23
+##### Article 24
 
-Vervallen
+*Vervallen*
 
-##### Artikel 24
+##### Article 25
 
-Vervallen
+The illegal exaction of forced or compulsory labour shall be punishable as a penal offence, and it shall be an obligation on any Member ratifying this Convention to ensure that the penalties imposed by law are really adequate and are strictly enforced.
 
-##### Artikel 25
+##### Article 26
 
-Het onwettig eischen van gedwongen of verplichten arbeid zal gestraft moeten worden en elk lid, dat dit verdrag bekrachtigt, zal verplicht zijn om zorg te dragen, dat de straffen, bij de wet gesteld, inderdaad doeltreffend zijn en stipt worden toegepast.
+1. Each Member or the International Labour Organisation which ratifies this Convention undertakes to apply it to the territories placed under its sovereignty, jurisdiction, protection, suzerainty, tutelage or authority, so far as it has the right to accept obligations affecting matters of internal jurisdiction; provided that if such Member may desire to take advantage of the provisions of Article 35 of the Constitution of the International Labour Organisation, it shall append to its ratification a declaration stating:
 
-##### Artikel 26
+- (1) the territories to which it intends to apply the provisions of this Convention without modification;
 
-1. Ieder lid van de Internationale Organisatie van den Arbeid, dat dit verdrag bekrachtigt, verbindt zich het toe te passen op de gebieden, onderworpen aan zijn souvereiniteit, rechtspraak, bescherming, suzereiniteit, voogdij of gezag, in de mate, waarin het het recht heeft verplichtingen betreffende vraagstukken van interne rechtspraak op zich te nemen. Indien echter dit lid gebruik wil maken van de bepalingen van artikel 35 van het Statuut van de Internationale Arbeidsorganisatie, moet het zijn bekrachtiging vergezeld doen gaan van een verklaring waaruit blijkt:
+- (2) the territories to which it intends to apply the provisions of this Convention with modifications, together with details of the said modifications;
 
-- 1°. in welke gebieden het zich voorstelt de bepalingen van dit verdrag volledig toe te passen;
+- (3) the territories in respect of which it reserves its decision.
 
-- 2°. in welke gebieden het zich voorstelt de bepalingen van dit verdrag met wijzigingen toe te passen en waaruit die wijzigingen bestaan;
+2. The aforesaid declaration shall be deemed to be an integral part of the ratification and shall have the force of ratification. It shall be open to any Member, by a subsequent declaration, to cancel in whole or in part the reservations made, in pursuance of the provisions of sub-paragraphs (2) and (3) of this Article, in the original declaration.
 
-- 3°. voor welke gebieden het zich zijn beslissing voorbehoudt.
+##### Article 27
 
-2. De vorenbedoelde verklaring zal geacht worden een integreerend deel van de bekrachtiging uit te maken en zal gelijke gevolgen hebben. Ieder lid echter, dat zoodanige verklaring aflegt, zal de bevoegdheid hebben om bij een nieuwe verklaring afstand te doen van alle of van een deel der voorbehouden, onder 2°. en 3°. hiervoren genoemd, in de vroegere verklaring neergelegd.
+The formal ratifications of this Convention under the conditions set forth in the Constitution of the International Labour Organisation shall be communicated to the Director-General of the International Labour Office for registration.
 
-##### Artikel 27
+##### Article 28
 
-De officieele bekrachtigingen van dit verdrag, overeenkomstig het bepaalde in het Statuut van de Internationale Arbeidsorganisatie, zullen worden medegedeeld aan den Directeur-Generaal van het Internationaal Arbeidsbureau en door hem worden ingeschreven.
+1. This Convention shall be binding only upon those Members whose ratifications have been registered with the International Labour Office.
 
-##### Artikel 28
+2. It shall come into force twelve months after the date on which the ratifications of two Members of the International Labour Organisation have been registered with the Director-General.
 
-1. Dit verdrag zal slechts verbindend zijn voor de leden van de Internationale Organisatie van den Arbeid, die hunne bekrachtiging door den Directeur-Generaal hebben doen inschrijven.
+3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which the ratification has been registered.
 
-2. Het zal van kracht worden twaalf maanden, nadat de bekrachtigingen van twee leden door den Directeur-Generaal zullen zijn ingeschreven.
+##### Article 29
 
-3. Vervolgens zal dit verdrag voor ieder der andere leden in werking treden twaalf maanden na den datum, waarop de bekrachtiging van dat lid door het Internationaal Arbeidsbureau zal zijn ingeschreven.
+As soon as the ratifications of two Members of the International Labour Organisation have been registered with the International Labour Office, the Director-General of the International Labour Office shall so notify all the Members of the International Labour Organisation. He shall likewise notify them of the registration of ratifications which may be communicated subsequently by other Members of the Organisation.
 
-##### Artikel 29
+##### Article 30
 
-Zoodra de bekrachtigingen van twee leden der Internationale Organisatie van den Arbeid door het Internationaal Arbeidsbureau zijn ingeschreven, zal de Directeur-Generaal van het Internationaal Arbeidsbureau van dit feit mededeeling doen aan alle leden van de Internationale Organisatie van den Arbeid. Hij zal hen eveneens in kennis stellen met de inschrijvingen van de bekrachtigingen, die hem later door andere leden der Organisatie zullen worden medegedeeld.
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered with the International Labour Office.
 
-##### Artikel 30
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of five years and, thereafter, may denounce this Convention at the expiration of each period of five years under the terms provided for in this Article.
 
-1. Ieder lid, dat dit verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaren na den datum, waarop dit verdrag van kracht begint te worden, zulks bij een verklaring toegezonden aan den Directeur-Generaal van het Internationaal Arbeidsbureau en door dezen in te schrijven. De opzegging wordt eerst van kracht een jaar, nadat zij door het Internationaal Arbeidsbureau is ingeschreven.
+##### Article 31
 
-2. Ieder lid, dat dit verdrag heeft bekrachtigd, dat binnen den termijn van een jaar na verloop van den termijn van tien jaar, bedoeld in het vorig lid, geen gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, zal voor een nieuwen termijn van vijf jaren gebonden zijn en zal in het vervolg dit verdrag kunnen opzeggen na verloop van elken termijn van vijf jaren onder de voorwaarden bedoeld in dit artikel.
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-##### Artikel 31
+##### Article 32
 
-Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig acht legt deze een verslag inzake de toepassing van dit Verdrag voor aan de Algemene Conferentie, en gaat na of het wenselijk is de kwestie van de gehele of gedeeltelijke herziening van het Verdrag op de agenda van de Conferentie te plaatsen.
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, the ratification by a Member of the new revising Convention shall *ipso jure* involve denunciation of this Convention without any requirement of delay, notwithstanding the provisions of Article 30 above, if and when the new revising Convention shall have come into force.
 
-##### Artikel 32
+2. As from the date of the coming into force of the new revising Convention, the present Convention shall cease to be open to ratification by the Members.
 
-1. Indien de Internationale Arbeidsconferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke wijziging van dit verdrag, zal de ratificatie door een lid van het nieuwe verdrag, houdende herziening, vanzelf medebrengen onmiddellijke opzegging van dit verdrag, niettegenstaande het bepaalde in artikel 30, onder voorbehoud evenwel, dat het nieuwe verdrag van kracht geworden is.
+3. Nevertheless, this Convention shall remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-2. Van den datum af, waarop het nieuwe verdrag, houdende herziening, van kracht geworden is, zal het onderhavige verdrag niet langer door de leden bekrachtigd kunnen worden.
+##### Article 33
 
-3. Het onderhavige verdrag zal echter van kracht blijven naar vorm en inhoud voor die leden, die bekrachtigd hebben en die het nieuwe verdrag, houdende herziening, niet bekrachtigen.
-
-##### Artikel 33
-
-Zoowel de Fransche als de Engelsche tekst van dit verdrag is authentiek.
+The French and English texts of this Convention shall both be authentic.

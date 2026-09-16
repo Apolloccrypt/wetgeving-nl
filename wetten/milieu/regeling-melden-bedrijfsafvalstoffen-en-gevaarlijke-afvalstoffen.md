@@ -5,11 +5,11 @@ identifier: "BWBR0017313"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2013-06-20
-laatste_update: 2024-01-01
+laatste_update: 2026-09-12
 status: geldig
-toestand: 2024-01-01
+toestand: 2026-09-12
 bron: "https://wetten.overheid.nl/BWBR0017313"
-opgehaald: 2026-08-08
+opgehaald: 2026-09-16
 ---
 
 # Regeling van 13 oktober 2004, nr. SAS2004098785, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)
@@ -82,7 +82,7 @@ Als categorieën van afvalstoffen als bedoeld in [artikel 3, derde lid, onder b,
 
 - a. de volgende categorieën van afvalstoffen, voor zover het niet gaat om gevaarlijke afvalstoffen:
 
-   - 1°. batterijen en accu’s als bedoeld in [artikel 1, onder a en b van het Besluit beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024491&artikel=1);
+   - 1°. afgedankte batterijen als bedoeld in artikel 3 van Verordening (EU) nr. 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen, tot wijziging van Richtlijn 2008/98/EG en Verordening (EU) 2019/1020 en tot intrekking van Richtlijn 2006/66/EG;
 
    - 2°. autobanden als bedoeld in [artikel 1, onder b, van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=1);
 
@@ -122,7 +122,7 @@ Als gevallen als bedoeld in [artikel 5, derde lid, van het besluit](https://wett
 
 ##### Artikel 6a
 
-Deze regeling berust, voor zover het [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2024-01-01&g=2024-01-01) betreft, op [artikel 9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
+Deze regeling berust, voor zover het [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2026-09-12&g=2026-09-12) betreft, op [artikel 9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 
 ##### Artikel 6b
 
@@ -176,7 +176,7 @@ De lijst met erkende personen en instellingen, bedoeld in [artikel 12b, vierde l
 
 ##### Artikel 6i
 
-Deze regeling berust op de [artikelen 10.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.50) voor zover het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=5&z=2024-01-01&g=2024-01-01) betreft, en [9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) voor zover het [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2024-01-01&g=2024-01-01), betreft, en op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), [3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=5), [10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10), [10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10a), [12c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12c), [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12e), [12i](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12i) en [12j van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12j).
+Deze regeling berust op de [artikelen 10.50 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.50) voor zover het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=5&z=2026-09-12&g=2026-09-12) betreft, en [9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) voor zover het [artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017313&artikel=3&z=2026-09-12&g=2026-09-12), betreft, en op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=2), [3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=3), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=5), [10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10), [10a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10a), [12c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12c), [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12e), [12i](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12i) en [12j van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=12j).
 
 ##### Artikel 7
 

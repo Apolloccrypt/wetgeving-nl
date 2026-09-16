@@ -1,149 +1,26 @@
 ---
 title: "Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Singapore, anderzijds"
 identifier: "BWBV0006789"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-10-19"
-last_updated: "2018-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006789"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005466613"
-version_id: "10005939572"
-internal_id: "C10009515911"
-label_id: "10005450324"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006789/2018-10-19/0"
-intitule_bron: "Trb.2019-25"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-02-15"
-intitule_status: "nogniet"
-original_publication: "Trb.2019-25"
-original_published_date: "2019-02-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2019-25"
-jci_1_3: "jci1.3:c:BWBV0006789&z=2018-10-19&g=2018-10-19"
-jci_1_0: "1.0:c:BWBV0006789&g=2018-10-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-02-15"
+laatste_update: 2018-10-19
+status: geldig
+toestand: 2018-10-19
+bron: "https://wetten.overheid.nl/BWBV0006789"
+opgehaald: 2026-09-16
 ---
+
 # Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Singapore, anderzijds
 
-de Europese Unie, hierna „de Unie” genoemd,
+*de Europese Unie, hierna „de Unie” genoemd, en het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, en het Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna „de lidstaten” genoemd, enerzijds, en de Republiek Singapore, anderzijds, hierna gezamenlijk „de partijen” genoemd, Gezien de traditionele vriendschapsbanden tussen de partijen en de nauwe historische, politieke en economische banden die hen verenigen; Gezien het bijzondere belang dat de partijen hechten aan het alomvattende karakter van hun wederzijdse betrekkingen; Overwegende dat de partijen van mening zijn dat deze overeenkomst deel uitmaakt van bredere en samenhangende betrekkingen tussen hen, die tot stand zijn gekomen door overeenkomsten waarbij beide zijden partij zijn; Bevestigend dat de partijen gehecht zijn aan de eerbiediging van de democratische beginselen en de rechten van de mens en de fundamentele vrijheden, zoals deze zijn vastgelegd in de Universele Verklaring van de rechten van de mens en andere toepasselijke internationale mensenrechteninstrumenten waarbij zij partij zijn; Bevestigend dat de partijen gehecht zijn aan de beginselen van de rechtsstaat en goed bestuur en streven naar economische en sociale vooruitgang ten bate van hun bevolking, rekening houdende met de beginselen van duurzame ontwikkeling en de noodzaak tot bescherming van het milieu; Bevestigend dat de partijen streven naar betere samenwerking op het gebied van internationale stabiliteit, justitie en veiligheid als een fundamentele voorwaarde om duurzame sociale en economische ontwikkeling te bevorderen, armoede uit te bannen en de millenniumdoelstellingen voor ontwikkeling van de Verenigde Naties te verwezenlijken; Verklarend dat zij zich er volledig toe verbinden alle vormen van terrorisme te bestrijden en effectieve internationale instrumenten te ontwikkelen om terrorisme uit te bannen overeenkomstig de desbetreffende instrumenten van de Veiligheidsraad van de Verenigde Naties (VN-Veiligheidsraad), in het bijzonder Resolutie 1373 van de VN-Veiligheidsraad; Overwegende dat de Unie in 2001 een breed actieplan inzake terrorismebestrijding heeft goedgekeurd en in 2004 heeft herzien en bijgevolg een breed scala aan maatregelen heeft getroffen, dat de Europese Raad op 25 maart 2004 na de aanslagen in Madrid een belangrijke verklaring betreffende de bestrijding van terrorisme heeft afgelegd, en dat de Unie tevens in december 2005 haar goedkeuring heeft gehecht aan een strategie inzake terrorismebestrijding; Bevestigend dat de ernstigste misdrijven die de gehele internationale gemeenschap aangaan, niet ongestraft mogen blijven en dat de effectieve vervolging ervan moet worden gewaarborgd door maatregelen op nationaal niveau te nemen en de wereldwijde samenwerking te intensiveren; Overwegende dat de onpartijdige en onafhankelijke werking van het Internationaal Strafhof een belangrijke ontwikkeling voor vrede en internationale gerechtigheid is; Aangezien de Europese Raad de verspreiding van massavernietigingswapens en overbrengingsmiddelen daarvoor heeft aangemerkt als een ernstige bedreiging voor de internationale veiligheid, en op 12 december 2003 een strategie tegen de verspreiding van massavernietigingswapens heeft goedgekeurd, dat de Raad van de Europese Unie reeds op 17 november 2003 Uniebeleidsmaatregelen had goedgekeurd om non-proliferatiebeleid te integreren in de Uniebetrekkingen met derde landen, dat de door de gehele internationale gemeenschap aangegane verbintenis om de proliferatie van massavernietigingswapens en de overbrengingsmiddelen daarvoor te bestrijden ten grondslag ligt aan de aanneming, bij consensus, van Resolutie 1540 van de VN-Veiligheidsraad, en dat deze verbintenis van de internationale gemeenschap opnieuw is bevestigd door de aanneming van Resolutie 1673 en Resolutie 1810 van de VN-Veiligheidsraad; Overwegende dat de Europese Raad van oordeel is dat handvuurwapens en lichte wapens (SALW) een groeiende bedreiging voor de vrede, de veiligheid en de ontwikkeling vormen en op 16 december 2005 zijn goedkeuring heeft gehecht aan een strategie tot bestrijding van de illegale accumulatie van handvuurwapens en lichte wapens en van munitie daarvoor. In deze strategie benadrukte de Europese Raad de noodzaak om een alomvattende en consistente aanpak van het veiligheids- en ontwikkelingsbeleid te verzekeren; Het belang erkennend van de samenwerkingsovereenkomst van 7 maart 1980 tussen de Europese Economische Gemeenschap en Indonesië, Maleisië, de Filippijnen, Singapore en Thailand, lidstaten van de ASEAN (de Associatie van Zuidoost-Aziatische staten) en de daaropvolgende toetredingsprotocollen; Erkennende dat de versterking van de betrekkingen tussen de partijen van groot belang is ter stimulering van hun samenwerking, en zich bewust van hun gemeenschappelijke streven om de betrekkingen op gebieden van wederzijds belang te consolideren, te verdiepen en te diversifiëren, op basis van gelijkwaardigheid, met inachtneming van het milieu en wederzijds tot voordeel strekkend; Bevestigend dat de partijen in volledige overeenstemming met de in regionaal verband ondernomen activiteiten, de samenwerking tussen de Unie en de Republiek Singapore willen verdiepen, op grond van gemeenschappelijke waarden en tot wederzijds voordeel; Bevestigend dat de partijen ernaar streven om meer begrip te kweken tussen Azië en Europa op basis van gelijkheid, respect voor elkaars culturele en politieke normen, en met aanvaarding van meningsverschillen; Bevestigend dat de partijen ernaar streven om de handelsrelaties te versterken door het sluiten van een vrijhandelsovereenkomst; Opmerkende dat de bepalingen van deze overeenkomst die binnen het toepassingsgebied van het derde deel, titel V, van het Verdrag betreffende de werking van de Europese Unie vallen, het Verenigd Koninkrijk en Ierland als afzonderlijke overeenkomstsluitende partijen binden, en niet als deel van de Europese Unie, totdat de Unie tezamen met het Verenigd Koninkrijk en/of Ierland Singapore ervan in kennis heeft gesteld dat het Verenigd Koninkrijk en/of Ierland gebonden zijn als deel van de Europese Unie, overeenkomstig Protocol nr. 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht, dat aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie is gehecht. Indien het Verenigd Koninkrijk en/of Ierland niet langer gebonden is als deel van de Unie overeenkomstig artikel 4 bis van Protocol nr. 21, moet de Unie tezamen met het Verenigd Koninkrijk en/of Ierland Singapore onmiddellijk in kennis stellen van iedere wijziging in hun positie; in dat geval blijven zij op persoonlijke titel gebonden door de bepalingen van deze overeenkomst. Hetzelfde geldt voor Denemarken, overeenkomstig Protocol nr. 22 betreffende de positie van Denemarken, dat aan die verdragen is gehecht, Zijn het volgende overeengekomen:*
 
-en
-
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden, en
-
-het Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland,
-
-Verdragsluitende partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna „de lidstaten” genoemd,
-
-enerzijds, en
-
-de Republiek Singapore,
-
-anderzijds,
-
-hierna gezamenlijk „de partijen” genoemd,
-
-Gezien de traditionele vriendschapsbanden tussen de partijen en de nauwe historische, politieke en economische banden die hen verenigen;
-
-Gezien het bijzondere belang dat de partijen hechten aan het alomvattende karakter van hun wederzijdse betrekkingen;
-
-Overwegende dat de partijen van mening zijn dat deze overeenkomst deel uitmaakt van bredere en samenhangende betrekkingen tussen hen, die tot stand zijn gekomen door overeenkomsten waarbij beide zijden partij zijn;
-
-Bevestigend dat de partijen gehecht zijn aan de eerbiediging van de democratische beginselen en de rechten van de mens en de fundamentele vrijheden, zoals deze zijn vastgelegd in de [Universele Verklaring van de rechten van de mens](onbekend) en andere toepasselijke internationale mensenrechteninstrumenten waarbij zij partij zijn;
-
-Bevestigend dat de partijen gehecht zijn aan de beginselen van de rechtsstaat en goed bestuur en streven naar economische en sociale vooruitgang ten bate van hun bevolking, rekening houdende met de beginselen van duurzame ontwikkeling en de noodzaak tot bescherming van het milieu;
-
-Bevestigend dat de partijen streven naar betere samenwerking op het gebied van internationale stabiliteit, justitie en veiligheid als een fundamentele voorwaarde om duurzame sociale en economische ontwikkeling te bevorderen, armoede uit te bannen en de millenniumdoelstellingen voor ontwikkeling van de Verenigde Naties te verwezenlijken;
-
-Verklarend dat zij zich er volledig toe verbinden alle vormen van terrorisme te bestrijden en effectieve internationale instrumenten te ontwikkelen om terrorisme uit te bannen overeenkomstig de desbetreffende instrumenten van de Veiligheidsraad van de Verenigde Naties (VN-Veiligheidsraad), in het bijzonder Resolutie 1373 van de VN-Veiligheidsraad;
-
-Overwegende dat de Unie in 2001 een breed actieplan inzake terrorismebestrijding heeft goedgekeurd en in 2004 heeft herzien en bijgevolg een breed scala aan maatregelen heeft getroffen, dat de Europese Raad op 25 maart 2004 na de aanslagen in Madrid een belangrijke verklaring betreffende de bestrijding van terrorisme heeft afgelegd, en dat de Unie tevens in december 2005 haar goedkeuring heeft gehecht aan een strategie inzake terrorismebestrijding;
-
-Bevestigend dat de ernstigste misdrijven die de gehele internationale gemeenschap aangaan, niet ongestraft mogen blijven en dat de effectieve vervolging ervan moet worden gewaarborgd door maatregelen op nationaal niveau te nemen en de wereldwijde samenwerking te intensiveren;
-
-Overwegende dat de onpartijdige en onafhankelijke werking van het Internationaal Strafhof een belangrijke ontwikkeling voor vrede en internationale gerechtigheid is;
-
-Aangezien de Europese Raad de verspreiding van massavernietigingswapens en overbrengingsmiddelen daarvoor heeft aangemerkt als een ernstige bedreiging voor de internationale veiligheid, en op 12 december 2003 een strategie tegen de verspreiding van massavernietigingswapens heeft goedgekeurd, dat de Raad van de Europese Unie reeds op 17 november 2003 Uniebeleidsmaatregelen had goedgekeurd om non-proliferatiebeleid te integreren in de Uniebetrekkingen met derde landen, dat de door de gehele internationale gemeenschap aangegane verbintenis om de proliferatie van massavernietigingswapens en de overbrengingsmiddelen daarvoor te bestrijden ten grondslag ligt aan de aanneming, bij consensus, van Resolutie 1540 van de VN-Veiligheidsraad, en dat deze verbintenis van de internationale gemeenschap opnieuw is bevestigd door de aanneming van Resolutie 1673 en Resolutie 1810 van de VN-Veiligheidsraad;
-
-Overwegende dat de Europese Raad van oordeel is dat handvuurwapens en lichte wapens (SALW) een groeiende bedreiging voor de vrede, de veiligheid en de ontwikkeling vormen en op 16 december 2005 zijn goedkeuring heeft gehecht aan een strategie tot bestrijding van de illegale accumulatie van handvuurwapens en lichte wapens en van munitie daarvoor. In deze strategie benadrukte de Europese Raad de noodzaak om een alomvattende en consistente aanpak van het veiligheids- en ontwikkelingsbeleid te verzekeren;
-
-Het belang erkennend van de samenwerkingsovereenkomst van 7 maart 1980 tussen de Europese Economische Gemeenschap en Indonesië, Maleisië, de Filippijnen, Singapore en Thailand, lidstaten van de ASEAN (de Associatie van Zuidoost-Aziatische staten) en de daaropvolgende toetredingsprotocollen;
-
-Erkennende dat de versterking van de betrekkingen tussen de partijen van groot belang is ter stimulering van hun samenwerking, en zich bewust van hun gemeenschappelijke streven om de betrekkingen op gebieden van wederzijds belang te consolideren, te verdiepen en te diversifiëren, op basis van gelijkwaardigheid, met inachtneming van het milieu en wederzijds tot voordeel strekkend;
-
-Bevestigend dat de partijen in volledige overeenstemming met de in regionaal verband ondernomen activiteiten, de samenwerking tussen de Unie en de Republiek Singapore willen verdiepen, op grond van gemeenschappelijke waarden en tot wederzijds voordeel;
-
-Bevestigend dat de partijen ernaar streven om meer begrip te kweken tussen Azië en Europa op basis van gelijkheid, respect voor elkaars culturele en politieke normen, en met aanvaarding van meningsverschillen;
-
-Bevestigend dat de partijen ernaar streven om de handelsrelaties te versterken door het sluiten van een vrijhandelsovereenkomst;
-
-Opmerkende dat de bepalingen van deze overeenkomst die binnen het toepassingsgebied van het [derde deel, titel V, van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=V) vallen, het Verenigd Koninkrijk en Ierland als afzonderlijke overeenkomstsluitende partijen binden, en niet als deel van de Europese Unie, totdat de Unie tezamen met het Verenigd Koninkrijk en/of Ierland Singapore ervan in kennis heeft gesteld dat het Verenigd Koninkrijk en/of Ierland gebonden zijn als deel van de Europese Unie, overeenkomstig [Protocol nr. 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht](onbekend), dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht. Indien het Verenigd Koninkrijk en/of Ierland niet langer gebonden is als deel van de Unie overeenkomstig [artikel 4 bis van Protocol nr. 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=4), moet de Unie tezamen met het Verenigd Koninkrijk en/of Ierland Singapore onmiddellijk in kennis stellen van iedere wijziging in hun positie; in dat geval blijven zij op persoonlijke titel gebonden door de bepalingen van deze overeenkomst. Hetzelfde geldt voor Denemarken, overeenkomstig [Protocol nr. 22 betreffende de positie van Denemarken](onbekend), dat aan die verdragen is gehecht,
-
-Zijn het volgende overeengekomen:
-
-## TITEL I. AARD EN TOEPASSINGSGEBIED
+### TITEL I. AARD EN TOEPASSINGSGEBIED
 
 ##### Artikel 1. Algemene beginselen
 
 1. De eerbiediging van de democratische beginselen, de rechtsstaat en de fundamentele rechten van de mens, zoals vastgelegd in de [Universele Verklaring van de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) en andere toepasselijke internationale mensenrechteninstrumenten waarbij de partijen partij zijn, ligt ten grondslag aan het binnenlandse en het buitenlandse beleid van de partijen en is een essentieel element van deze overeenkomst.
 
-2. De partijen bevestigen dat zij de waarden delen die zijn vastgelegd in het [Handvest van de Verenigde Naties](onbekend) (VN-Handvest).
+2. De partijen bevestigen dat zij de waarden delen die zijn vastgelegd in het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/BWBV0004143) (VN-Handvest).
 
 3. De partijen bevestigen dat zij zich ertoe verbinden duurzame ontwikkeling te stimuleren, samen te werken om het probleem van klimaatverandering aan te pakken en bij te dragen tot de verwezenlijking van de millenniumdoelstellingen voor ontwikkeling.
 
@@ -177,7 +54,7 @@ Met het oog op de versterking van hun bilaterale betrekkingen voeren de partijen
 
 - k. het tot stand brengen van een regelmatige dialoog met het oog op de versterking van het wederzijds begrip van elkaars maatschappij en de bevordering van het bewustzijn van de verschillende culturele, religieuze en maatschappelijke opvattingen in zowel Azië als Europa.
 
-## TITEL II. BILATERALE, REGIONALE EN INTERNATIONALE SAMENWERKING
+### TITEL II. BILATERALE, REGIONALE EN INTERNATIONALE SAMENWERKING
 
 ##### Artikel 3. Samenwerking in regionale en internationale organisaties
 
@@ -191,11 +68,11 @@ Met het oog op de versterking van hun bilaterale betrekkingen voeren de partijen
 
 2. De partijen kunnen eventueel besluiten financiële steun te verlenen aan samenwerkingsactiviteiten op de in de overeenkomst beschreven of daarmee samenhangende gebieden, overeenkomstig hun respectieve financiële procedures en middelen. Dit kan met name de organisatie omvatten van opleidingen, workshops en seminars, uitwisseling van deskundigen, onderzoeken en andere activiteiten waarover de partijen overeenstemming bereiken.
 
-## TITEL III. SAMENWERKING OP HET GEBIED VAN INTERNATIONALE STABILITEIT, JUSTITIE, VEILIGHEID EN ONTWIKKELING
+### TITEL III. SAMENWERKING OP HET GEBIED VAN INTERNATIONALE STABILITEIT, JUSTITIE, VEILIGHEID EN ONTWIKKELING
 
 ##### Artikel 5. Samenwerking bij terrorismebestrijding
 
-De partijen bevestigen het belang van terrorismebestrijding, overeenkomstig de rechtsstaat en hun respectieve verplichtingen in het kader van het [VN-Handvest](onbekend), de desbetreffende resoluties van de VN-Veiligheidsraad en het internationaal recht, met inbegrip van de geldende wetgeving inzake mensenrechten en vluchtelingen en het internationaal humanitair recht. Binnen dit kader en overeenkomstig de mondiale strategie voor terrorismebestrijding van de VN, zoals opgenomen in Resolutie 60/288 van de Algemene Vergadering van de VN van 8 september 2006, de gezamenlijke verklaring van de EU en de ASEAN over samenwerking ter bestrijding van terrorisme van 28 januari 2003, komen de partijen overeen op het vlak van de preventie en bestrijding van terrorisme in het bijzonder als volgt samen te werken:
+De partijen bevestigen het belang van terrorismebestrijding, overeenkomstig de rechtsstaat en hun respectieve verplichtingen in het kader van het [VN-Handvest](https://wetten.overheid.nl/BWBV0004143), de desbetreffende resoluties van de VN-Veiligheidsraad en het internationaal recht, met inbegrip van de geldende wetgeving inzake mensenrechten en vluchtelingen en het internationaal humanitair recht. Binnen dit kader en overeenkomstig de mondiale strategie voor terrorismebestrijding van de VN, zoals opgenomen in Resolutie 60/288 van de Algemene Vergadering van de VN van 8 september 2006, de gezamenlijke verklaring van de EU en de ASEAN over samenwerking ter bestrijding van terrorisme van 28 januari 2003, komen de partijen overeen op het vlak van de preventie en bestrijding van terrorisme in het bijzonder als volgt samen te werken:
 
 - a. in het kader van de volledige uitvoering van Resolutie 1373 van de VN-Veiligheidsraad en andere toepasselijke VN-resoluties, internationale verdragen en instrumenten;
 
@@ -241,7 +118,7 @@ De partijen komen overeen dat de samenwerking in het kader van dit artikel zal g
 
 3. De partijen verbinden zich ertoe samen te werken en toe te zien op coördinatie, complementariteit en synergie-effecten, in overeenstemming met hun internationale verplichtingen, bij de aanpak van de illegale handel in handvuurwapens en lichte wapens en munitie daarvoor, op mondiaal, regionaal, subregionaal en nationaal niveau, en komen overeen een regelmatige dialoog in te stellen ter begeleiding en consolidatie van deze verbintenis.
 
-## TITEL IV. SAMENWERKING INZAKE HANDEL EN INVESTERINGEN
+### TITEL IV. SAMENWERKING INZAKE HANDEL EN INVESTERINGEN
 
 ##### Artikel 9. Algemene beginselen
 
@@ -249,11 +126,11 @@ De partijen komen overeen dat de samenwerking in het kader van dit artikel zal g
 
 2. Hiertoe komt een wederzijdse samenwerking tussen de partijen op het gebied van handel en investeringen tot stand, onder meer door middel van de vrijhandelsovereenkomst. De bovenvermelde vrijhandelsovereenkomst vormt een specifieke overeenkomst die uitvoering geeft aan de handelsbepalingen van deze overeenkomst en vormt een integrerend onderdeel van de algemene bilaterale betrekkingen en het gemeenschappelijke institutionele kader, zoals bepaald in [artikel 43, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006789&titeldeel=IX&artikel=43&z=2018-10-19&g=2018-10-19).
 
-3. De partijen kunnen eventueel hun handels- en investeringsbetrekkingen ontwikkelen, door onder andere de volgende in de artikelen 10 tot 16 bedoelde kwesties aan te pakken.
+3. De partijen kunnen eventueel hun handels- en investeringsbetrekkingen ontwikkelen, door onder andere de volgende in de [artikelen 10 tot 16](https://wetten.overheid.nl/BWBR0015867) bedoelde kwesties aan te pakken.
 
 ##### Artikel 10. Sanitaire en fytosanitaire kwesties
 
-De partijen kunnen overleg plegen en informatie uitwisselen over wetgeving, certificering en inspectieprocedures, met name in het kader van de [Overeenkomst inzake sanitaire en fytosanitaire maatregelen](onbekend) die is opgenomen in bijlage IA van de Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie van 15 april 1994.
+De partijen kunnen overleg plegen en informatie uitwisselen over wetgeving, certificering en inspectieprocedures, met name in het kader van de [Overeenkomst inzake sanitaire en fytosanitaire maatregelen](https://wetten.overheid.nl/BWBV0001160) die is opgenomen in bijlage IA van de Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie van 15 april 1994.
 
 De samenwerking kan onder meer inhouden:
 
@@ -267,7 +144,7 @@ De samenwerking kan onder meer inhouden:
 
 ##### Artikel 11. Kwesties die verband houden met technische handelsbelemmeringen
 
-De partijen stimuleren het gebruik van internationale normen, werken samen en wisselen informatie uit op het gebied van normen, conformiteitsbeoordelingsprocedures en technische regelgeving, met name in het kader van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](onbekend).
+De partijen stimuleren het gebruik van internationale normen, werken samen en wisselen informatie uit op het gebied van normen, conformiteitsbeoordelingsprocedures en technische regelgeving, met name in het kader van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160).
 
 ##### Artikel 12. Douane
 
@@ -291,7 +168,7 @@ De partijen kunnen een consistente dialoog aangaan die met name gericht is op he
 
 De partijen hechten groot belang aan intellectuele-eigendomsrechten2)Voor de toepassing van dit artikel behoren tot de intellectuele-eigendomsrechten:a.alle categorieën intellectuele eigendom die vallen onder de afdelingen 1 tot en met 7 van deel II van de Overeenkomst inzake de handelsaspecten van de intellectuele eigendom, die is opgenomen in bijlage 1C van de Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie van 15 april 1994, namelijk:i.auteursrecht en naburige rechten;ii.octrooien;iii.handelsmerken;iv.modellen;v.ontwerpen voor schakelpatronen (topografieën) van geïntegreerde schakelingen;vi.geografische aanduidingen;vii.bescherming van niet openbaar gemaakte informatie; alsmedeb.kwekersrechten.Wat de Unie betreft, omvatten „octrooien” voor de toepassing van deze overeenkomst rechten afgeleid van aanvullende beschermingscertificaten., waarbij zij het toenemende belang ervan erkennen voor de ontwikkeling van innovatieve producten, diensten en technologieën in hun respectieve landen en zij komen overeen te blijven tot samenwerking en niet-vertrouwelijke informatie uit te wisselen op onderling overeengekomen activiteiten en projecten, met het oog op de bevordering, bescherming en de handhaving van deze rechten, met inbegrip van de doeltreffende en efficiënte handhaving door de douaneautoriteiten.
 
-## TITEL V. SAMENWERKING OP HET GEBIED VAN JUSTITIE, VRIJHEID EN VEILIGHEID
+### TITEL V. SAMENWERKING OP HET GEBIED VAN JUSTITIE, VRIJHEID EN VEILIGHEID
 
 ##### Artikel 17. Rechtsstaat en wettelijke samenwerking
 
@@ -341,7 +218,7 @@ Voor dergelijke doeleinden verstrekken de lidstaten en de Republiek Singapore hu
 
 ##### Artikel 20. Bestrijding van georganiseerde misdaad
 
-De partijen komen overeen samen te werken bij de bestrijding van georganiseerde misdaad en corruptie. Die samenwerking is meer in het bijzonder gericht op de toepassing en bevordering van – in voorkomend geval – de desbetreffende internationale normen en instrumenten, zoals het [VN-Verdrag ter bestrijding van grensoverschrijdende georganiseerde misdaad](onbekend) en het [VN-Verdrag inzake bestrijding van corruptie](onbekend).
+De partijen komen overeen samen te werken bij de bestrijding van georganiseerde misdaad en corruptie. Die samenwerking is meer in het bijzonder gericht op de toepassing en bevordering van – in voorkomend geval – de desbetreffende internationale normen en instrumenten, zoals het [VN-Verdrag ter bestrijding van grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/BWBV0001668) en het [VN-Verdrag inzake bestrijding van corruptie](https://wetten.overheid.nl/BWBV0001532).
 
 ##### Artikel 21. Bestrijding van het witwassen van geld en de financiering van terrorisme
 
@@ -359,7 +236,7 @@ De partijen komen overeen samen te werken bij de bestrijding van georganiseerde 
 
 3. De partijen wisselen deskundigheid uit op gebieden zoals de opstelling van nationale wetgeving en nationaal beleid, de oprichting van nationale instellingen en informatiecentra, opleiding van personeel, onderzoek in verband met drugs en de preventie van oneigenlijk gebruik van precursoren voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen.
 
-## TITEL VI. SAMENWERKING IN ANDERE SECTOREN
+### TITEL VI. SAMENWERKING IN ANDERE SECTOREN
 
 ##### Artikel 23. Samenwerking inzake mensenrechten
 
@@ -559,7 +436,7 @@ De partijen herbevestigen hun verbintenis de IAO-overeenkomsten die de Republiek
 
 - d. informatie-uitwisseling en wetenschappelijke samenwerking op het gebied van regelgeving inzake geneesmiddelen en medisch hulpmiddelen; alsmede
 
-- e. bevordering van de volledige en tijdige tenuitvoerlegging van internationale overeenkomsten inzake gezondheid zoals de Internationale Gezondheidsregeling en het [Kaderverdrag inzake tabaksontmoediging](onbekend).
+- e. bevordering van de volledige en tijdige tenuitvoerlegging van internationale overeenkomsten inzake gezondheid zoals de Internationale Gezondheidsregeling en het [Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/BWBV0001706).
 
 ##### Artikel 37. Statistiek
 
@@ -569,7 +446,7 @@ De partijen komen overeen om overeenkomstig de bestaande statistische samenwerki
 
 De partijen erkennen de mogelijke bijdrage van organisaties van het maatschappelijk middenveld tot de dialoog en het samenwerkingsproces uit hoofde van deze overeenkomst en streven een effectieve dialoog met organisaties van het maatschappelijk middenveld na.
 
-## TITEL VII. VORMEN VAN SAMENWERKING
+### TITEL VII. VORMEN VAN SAMENWERKING
 
 ##### Artikel 39. Middelen voor samenwerking
 
@@ -583,7 +460,7 @@ De partijen erkennen de mogelijke bijdrage van organisaties van het maatschappel
 
 2. De partijen bevorderen ook gezamenlijke acties gericht op het verstrekken van technische bijstand en de bevordering van de ontwikkeling van menselijk potentieel in de minder ontwikkelde landen in Zuidoost-Azië en daarbuiten.
 
-## TITEL VIII. INSTITUTIONEEL KADER
+### TITEL VIII. INSTITUTIONEEL KADER
 
 ##### Artikel 41. Gemengd Comité
 
@@ -603,7 +480,7 @@ De partijen erkennen de mogelijke bijdrage van organisaties van het maatschappel
 
 5. Het Gemengd Comité bespreekt indien onderling overeengekomen en in voorkomend geval, over de werking en uitvoering van elke specifieke overeenkomst, zoals bedoeld in [artikel 43, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006789&titeldeel=IX&artikel=43&z=2018-10-19&g=2018-10-19).
 
-## TITEL IX. SLOTBEPALINGEN
+### TITEL IX. SLOTBEPALINGEN
 
 ##### Artikel 42. Aanpassingsclausule
 
@@ -661,7 +538,7 @@ Niets in deze overeenkomst mag zodanig worden uitgelegd dat een partij verplicht
 
 ##### Artikel 50. Verklaringen en begeleidend schrijven
 
-De gemeenschappelijke verklaringen en het begeleidend schrijven bij deze overeenkomst maken een integrerend deel uit van deze overeenkomst.
+De [gemeenschappelijke verklaringen](https://wetten.overheid.nl/BWBR0013023) en het [begeleidend schrijven](https://wetten.overheid.nl/BWBV0006789) bij deze overeenkomst maken een integrerend deel uit van deze overeenkomst.
 
 ##### Artikel 51. Kennisgevingen
 

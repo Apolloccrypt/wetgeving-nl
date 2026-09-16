@@ -1,149 +1,18 @@
 ---
 title: "Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Cuba, anderzijds"
 identifier: "BWBV0006659"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-12-12"
-last_updated: "2016-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006659"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005392293"
-version_id: "10005827032"
-internal_id: "C10009198301"
-label_id: "10005375944"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006659/2016-12-12/0"
-intitule_bron: "Trb.2017-19"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-01-24"
-intitule_status: "nogniet"
-original_publication: "Trb.2017-19"
-original_published_date: "2017-01-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2017-19"
-jci_1_3: "jci1.3:c:BWBV0006659&z=2016-12-12&g=2016-12-12"
-jci_1_0: "1.0:c:BWBV0006659&g=2016-12-12"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-01-24"
+laatste_update: 2016-12-12
+status: geldig
+toestand: 2016-12-12
+bron: "https://wetten.overheid.nl/BWBV0006659"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Cuba, anderzijds
 
-Het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Verdragsluitende partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna de „lidstaten van de Europese Unie” genoemd, en
-
-De Europese Unie,
-
-enerzijds, en
-
-De Republiek Cuba, hierna „Cuba” genoemd,
-
-anderzijds,
-
-Overwegende het verlangen van de partijen om hun banden te consolideren en te verdiepen door een versterking van de politieke dialoog, samenwerking, en economische en handelsbetrekkingen, in een geest van wederzijds respect en gelijkheid;
-
-Nadruk leggend op het belang dat zij hechten aan een versterking van de politieke dialoog over bilaterale en internationale aangelegenheden;
-
-Nadruk leggend op hun bereidheid samen te werken in internationale fora inzake kwesties van wederzijds belang;
-
-Rekening houdend met hun engagement om het strategische partnerschap tussen de Europese Unie en Latijns-Amerika en het Caribisch gebied en de gezamenlijke strategie voor een partnerschap tussen de EU en het Caribisch gebied verder te bevorderen, met aandacht voor de wederzijdse voordelen van regionale samenwerking en integratie;
-
-Herbevestigend dat de soevereiniteit, de territoriale integriteit en de politieke onafhankelijkheid van de Republiek Cuba moeten worden geëerbiedigd;
-
-Herbevestigend dat zij zich engageren voor een versterking van een doeltreffend multilateralisme en van de rol van de Verenigde Naties alsook van alle beginselen en doelstellingen die zijn vervat in het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143);
-
-Herbevestigend dat de universele mensenrechten zoals verwoord in de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) en andere relevante internationale instrumenten inzake de mensenrechten, gerespecteerd moeten worden;
-
-Herinnerend aan hun engagement voor de erkende beginselen van democratie, goed bestuur en de rechtsstaat;
-
-Herbevestigend dat zij zich engageren voor de bevordering van de internationale vrede en veiligheid en de vreedzame beslechting van geschillen, conform de beginselen van het recht en de internationale wetgeving;
-
-Gezien hun engagement voor de internationale verplichtingen op het gebied van ontwapening en de non-proliferatie van massavernietigingswapens en overbrengingsmiddelen daarvoor, en voor samenwerking op dat gebied;
-
-Gezien hun engagement voor de bestrijding van de onwettige handel in en de accumulatie van handvuurwapens en lichte wapens, volledig conform de verplichtingen uit hoofde van internationale instrumenten, en voor samenwerking op dat gebied;
-
-Bevestigend hun engagement om alle vormen van discriminatie te bestrijden en uit te bannen, met inbegrip van discriminatie op grond van ras, huidskleur of etnische oorsprong, godsdienst of geloofsovertuiging, handicap, leeftijd of seksuele oriëntatie;
-
-Wijzende op hun engagement voor inclusieve en duurzame ontwikkeling en voor samenwerking om de doelstellingen van de agenda voor duurzame ontwikkeling 2030 te verwezenlijken;
-
-Erkennende dat Cuba een eiland en ontwikkelingsland is en rekening houdend met de respectieve ontwikkelingsstadia van de partijen;
-
-Erkennende het belang van ontwikkelingssamenwerking voor ontwikkelingslanden, voor duurzame groei, duurzame ontwikkeling en de volledige verwezenlijking van de internationaal overeengekomen ontwikkelingsdoelstellingen;
-
-Gebaseerd op het beginsel van gedeelde verantwoordelijkheid en overtuigd van het belang om de productie van, de handel in en het gebruik van drugs te voorkomen;
-
-Herinnerend aan hun engagement voor de bestrijding van corruptie, witwassen, georganiseerde criminaliteit, de mensenhandel en de smokkel van migranten;
-
-Erkennende de noodzaak van opgedreven samenwerking op het gebied van de bevordering van justitie, veiligheid van de burger en migratie;
-
-Zich bewust van de noodzaak om de doelstellingen van deze overeenkomst te bevorderen door dialoog en samenwerking met alle relevante belanghebbenden, met inbegrip van, waar passend, regionale en lokale besturen, het maatschappelijk middenveld en de particuliere sector;
-
-Herinnerend aan hun internationale verbintenissen met betrekking tot sociale ontwikkeling, onder meer op het gebied van onderwijs, gezondheidszorg en arbeidsrechten, alsook milieu;
-
-Herbevestigend het soevereine recht van de staten over hun natuurlijke hulpbronnen en hun verantwoordelijkheid om het milieu te beschermen overeenkomstig hun nationale wetgeving, de beginselen van het internationale recht en de verklaring van de Conferentie van de Verenigde Naties over duurzame ontwikkeling;
-
-Herbevestigend het belang dat de partijen hechten aan de beginselen en regels ten aanzien van de internationale handel, met name die zijn opgenomen in de [overeenkomst tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) van 15 april 1994 en de multilaterale overeenkomsten die zijn gehecht aan de WTO-overeenkomst, alsmede aan de noodzaak om deze op een transparante en niet-discriminerende wijze toe te passen;
-
-Herhalend hun bezwaar tegen eenzijdige dwangmaatregelen met extraterritoriale gevolgen, in strijd met het internationaal recht en de beginselen van de vrije handel, en zich verbindend tot de afschaffing ervan;
-
-Er nota van nemend dat, als de partijen in het kader van deze overeenkomst mochten besluiten tot het aangaan van specifieke overeenkomsten op het gebied van vrijheid, veiligheid en recht, die door de Unie zouden worden gesloten krachtens [titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=V), de bepalingen van dergelijke toekomstige overeenkomsten niet bindend zijn voor het Verenigd Koninkrijk en/of Ierland, tenzij de Europese Unie, tegelijk met het Verenigd Koninkrijk en/of Ierland wat betreft hun respectieve voorafgaandelijke bilaterale betrekkingen, Cuba ervan in kennis stelt dat het Verenigd Koninkrijk en/of Ierland gebonden zijn door dergelijke overeenkomsten als deel van de Unie, overeenkomstig [protocol 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht](onbekend), dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht. Evenzo zijn mogelijke latere interne maatregelen van de Europese Unie die met het oog op de uitvoering van deze overeenkomst krachtens [titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=V) worden genomen, niet bindend voor het Verenigd Koninkrijk en/of Ierland, tenzij deze laatsten hun wens te kennen hebben gegeven deel te nemen aan deze maatregelen of deze te aanvaarden overeenkomstig protocol 21. Voorts nota nemend van het feit dat dergelijke toekomstige overeenkomsten of dergelijke latere interne maatregelen van de Europese Unie zouden komen te vallen onder [protocol 22 betreffende de positie van Denemarken](onbekend) dat gehecht is aan voornoemde Verdragen,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna de „lidstaten van de Europese Unie” genoemd, en De Europese Unie, enerzijds, en De Republiek Cuba, hierna „Cuba” genoemd, anderzijds, Overwegende het verlangen van de partijen om hun banden te consolideren en te verdiepen door een versterking van de politieke dialoog, samenwerking, en economische en handelsbetrekkingen, in een geest van wederzijds respect en gelijkheid; Nadruk leggend op het belang dat zij hechten aan een versterking van de politieke dialoog over bilaterale en internationale aangelegenheden; Nadruk leggend op hun bereidheid samen te werken in internationale fora inzake kwesties van wederzijds belang; Rekening houdend met hun engagement om het strategische partnerschap tussen de Europese Unie en Latijns-Amerika en het Caribisch gebied en de gezamenlijke strategie voor een partnerschap tussen de EU en het Caribisch gebied verder te bevorderen, met aandacht voor de wederzijdse voordelen van regionale samenwerking en integratie; Herbevestigend dat de soevereiniteit, de territoriale integriteit en de politieke onafhankelijkheid van de Republiek Cuba moeten worden geëerbiedigd; Herbevestigend dat zij zich engageren voor een versterking van een doeltreffend multilateralisme en van de rol van de Verenigde Naties alsook van alle beginselen en doelstellingen die zijn vervat in het Handvest van de Verenigde Naties; Herbevestigend dat de universele mensenrechten zoals verwoord in de Universele Verklaring van de Rechten van de Mens en andere relevante internationale instrumenten inzake de mensenrechten, gerespecteerd moeten worden; Herinnerend aan hun engagement voor de erkende beginselen van democratie, goed bestuur en de rechtsstaat; Herbevestigend dat zij zich engageren voor de bevordering van de internationale vrede en veiligheid en de vreedzame beslechting van geschillen, conform de beginselen van het recht en de internationale wetgeving; Gezien hun engagement voor de internationale verplichtingen op het gebied van ontwapening en de non-proliferatie van massavernietigingswapens en overbrengingsmiddelen daarvoor, en voor samenwerking op dat gebied; Gezien hun engagement voor de bestrijding van de onwettige handel in en de accumulatie van handvuurwapens en lichte wapens, volledig conform de verplichtingen uit hoofde van internationale instrumenten, en voor samenwerking op dat gebied; Bevestigend hun engagement om alle vormen van discriminatie te bestrijden en uit te bannen, met inbegrip van discriminatie op grond van ras, huidskleur of etnische oorsprong, godsdienst of geloofsovertuiging, handicap, leeftijd of seksuele oriëntatie; Wijzende op hun engagement voor inclusieve en duurzame ontwikkeling en voor samenwerking om de doelstellingen van de agenda voor duurzame ontwikkeling 2030 te verwezenlijken; Erkennende dat Cuba een eiland en ontwikkelingsland is en rekening houdend met de respectieve ontwikkelingsstadia van de partijen; Erkennende het belang van ontwikkelingssamenwerking voor ontwikkelingslanden, voor duurzame groei, duurzame ontwikkeling en de volledige verwezenlijking van de internationaal overeengekomen ontwikkelingsdoelstellingen; Gebaseerd op het beginsel van gedeelde verantwoordelijkheid en overtuigd van het belang om de productie van, de handel in en het gebruik van drugs te voorkomen; Herinnerend aan hun engagement voor de bestrijding van corruptie, witwassen, georganiseerde criminaliteit, de mensenhandel en de smokkel van migranten; Erkennende de noodzaak van opgedreven samenwerking op het gebied van de bevordering van justitie, veiligheid van de burger en migratie; Zich bewust van de noodzaak om de doelstellingen van deze overeenkomst te bevorderen door dialoog en samenwerking met alle relevante belanghebbenden, met inbegrip van, waar passend, regionale en lokale besturen, het maatschappelijk middenveld en de particuliere sector; Herinnerend aan hun internationale verbintenissen met betrekking tot sociale ontwikkeling, onder meer op het gebied van onderwijs, gezondheidszorg en arbeidsrechten, alsook milieu; Herbevestigend het soevereine recht van de staten over hun natuurlijke hulpbronnen en hun verantwoordelijkheid om het milieu te beschermen overeenkomstig hun nationale wetgeving, de beginselen van het internationale recht en de verklaring van de Conferentie van de Verenigde Naties over duurzame ontwikkeling; Herbevestigend het belang dat de partijen hechten aan de beginselen en regels ten aanzien van de internationale handel, met name die zijn opgenomen in de overeenkomst tot oprichting van de Wereldhandelsorganisatie van 15 april 1994 en de multilaterale overeenkomsten die zijn gehecht aan de WTO-overeenkomst, alsmede aan de noodzaak om deze op een transparante en niet-discriminerende wijze toe te passen; Herhalend hun bezwaar tegen eenzijdige dwangmaatregelen met extraterritoriale gevolgen, in strijd met het internationaal recht en de beginselen van de vrije handel, en zich verbindend tot de afschaffing ervan; Er nota van nemend dat, als de partijen in het kader van deze overeenkomst mochten besluiten tot het aangaan van specifieke overeenkomsten op het gebied van vrijheid, veiligheid en recht, die door de Unie zouden worden gesloten krachtens titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie, de bepalingen van dergelijke toekomstige overeenkomsten niet bindend zijn voor het Verenigd Koninkrijk en/of Ierland, tenzij de Europese Unie, tegelijk met het Verenigd Koninkrijk en/of Ierland wat betreft hun respectieve voorafgaandelijke bilaterale betrekkingen, Cuba ervan in kennis stelt dat het Verenigd Koninkrijk en/of Ierland gebonden zijn door dergelijke overeenkomsten als deel van de Unie, overeenkomstig protocol 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht, dat aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie is gehecht. Evenzo zijn mogelijke latere interne maatregelen van de Europese Unie die met het oog op de uitvoering van deze overeenkomst krachtens titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie worden genomen, niet bindend voor het Verenigd Koninkrijk en/of Ierland, tenzij deze laatsten hun wens te kennen hebben gegeven deel te nemen aan deze maatregelen of deze te aanvaarden overeenkomstig protocol 21. Voorts nota nemend van het feit dat dergelijke toekomstige overeenkomsten of dergelijke latere interne maatregelen van de Europese Unie zouden komen te vallen onder protocol 22 betreffende de positie van Denemarken dat gehecht is aan voornoemde Verdragen, Zijn het volgende overeengekomen:*
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
@@ -313,7 +182,7 @@ Binnen het kader van de omvattende politieke dialoog komen de partijen overeen e
 
 ## DEEL III. DIALOOG OVER SAMENWERKING EN SECTORAAL BELEID
 
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 15. Doelstellingen
 
@@ -439,7 +308,7 @@ De partijen komen overeen de samenwerking te laten uitvoeren door diverse maatsc
 
 2. De partijen voeren de financiële steun uit volgens de beginselen van gezond financieel beheer en werken samen om hun financiële belangen te beschermen. De partijen nemen doeltreffende maatregelen om fraude, corruptie en andere illegale activiteiten te voorkomen en te bestrijden, onder andere door middel van wederzijdse bestuurlijke en juridische bijstand op de terreinen waarop deze overeenkomst van toepassing is. Elke andere overeenkomst of elk ander financieringsinstrument dat tussen de partijen moet worden gesloten of overeengekomen, moet specifieke financiële-samenwerkingsclausules inzake gecoördineerde controleacties bevatten, zoals controles ter plaatse, inspecties en antifraudemaatregelen, zoals die van het Europees Bureau voor fraudebestrijding en de auditeur-generaal van de Republiek Cuba.
 
-## TITEL II. DEMOCRATIE, MENSENRECHTEN EN GOED BESTUUR
+### TITEL II. DEMOCRATIE, MENSENRECHTEN EN GOED BESTUUR
 
 ##### Artikel 22. Democratie en mensenrechten
 
@@ -511,7 +380,7 @@ De partijen komen overeen om met het oog op de modernisering van de overheidsdie
 
 2. De samenwerking inzake de preventie en oplossing van conflicten beoogt de capaciteit om conflicten op te lossen te versterken en kan onder meer steun omvatten voor bemiddelings-, onderhandelings- en verzoeningsprocessen en bredere inspanningen om vertrouwen en vredesopbouw op regionaal en internationaal niveau te bevorderen.
 
-## TITEL III. BEVORDERING VAN JUSTITIE, VEILIGHEID VAN DE BURGER EN MIGRATIE
+### TITEL III. BEVORDERING VAN JUSTITIE, VEILIGHEID VAN DE BURGER EN MIGRATIE
 
 ##### Artikel 27. Bescherming van persoonsgegevens
 
@@ -621,7 +490,7 @@ Cuba stemt ermee in dat de diplomatieke en consulaire autoriteiten van elke vert
 
 De partijen erkennen de mogelijke bijdrage van het maatschappelijk middenveld, waaronder ook universiteiten, denktanks en media, tot de verwezenlijking van de doelstellingen van deze overeenkomst. Zij komen overeen acties te steunen voor meer participatie van het maatschappelijk middenveld in de formulering en uitvoering van relevante ontwikkelingen en sectorale samenwerkingsactiviteiten, onder meer door capaciteitsopbouw.
 
-## TITEL IV. SOCIALE ONTWIKKELING EN SOCIALE COHESIE
+### TITEL IV. SOCIALE ONTWIKKELING EN SOCIALE COHESIE
 
 ##### Artikel 37. Sociale ontwikkeling en sociale cohesie
 
@@ -737,7 +606,7 @@ De partijen komen overeen samen te werken inzake consumentenbescherming met het 
 
 - b. de versterking van de capaciteiten voor economisch beheer van lokale productieve entiteiten en dienstverleners.
 
-## TITEL V. MILIEU, RAMPENRISICOBEHEER EN KLIMAATVERANDERING
+### TITEL V. MILIEU, RAMPENRISICOBEHEER EN KLIMAATVERANDERING
 
 ##### Artikel 47. Samenwerking inzake milieu en klimaatverandering
 
@@ -793,7 +662,7 @@ De partijen komen overeen samen te werken inzake consumentenbescherming met het 
 
 2. De partijen komen overeen speciale aandacht te hebben voor regionale acties en samenwerkingsprogramma’s op dit gebied.
 
-## TITEL VI. ECONOMISCHE ONTWIKKELING
+### TITEL VI. ECONOMISCHE ONTWIKKELING
 
 ##### Artikel 50. Landbouw, plattelandsontwikkeling, visserij en aquacultuur
 
@@ -955,7 +824,7 @@ De partijen komen overeen samen te werken inzake consumentenbescherming met het 
 
 2. Zij streven daartoe, overeenkomstig hun respectieve bevoegdheden, naar betere internationale samenwerking op fiscaal gebied, naar vergemakkelijking van het innen van de krachtens de wet verschuldigde belastingen, en naar het formuleren van maatregelen voor de doeltreffende toepassing van de minimumnormen voor goed bestuur op belastinggebied.
 
-## TITEL VII. REGIONALE INTEGRATIE EN SAMENWERKING
+### TITEL VII. REGIONALE INTEGRATIE EN SAMENWERKING
 
 ##### Artikel 59. Regionale samenwerking
 
@@ -985,7 +854,7 @@ De partijen komen overeen in hun doelstellingen voor handelssamenwerking meer be
 
 - f. de bevordering van meer investeringen door het ontwikkelen van een aantrekkelijk en stabiel klimaat voor wederzijdse investeringen via een consistente dialoog die is gericht op meer begrip en samenwerking in investeringszaken, en de bevordering van een niet-discriminatoir investeringsstelsel.
 
-## TITEL I. HANDEL
+### TITEL I. HANDEL
 
 ##### Artikel 61. Op regels gebaseerde handel
 
@@ -995,13 +864,13 @@ De partijen komen overeen in hun doelstellingen voor handelssamenwerking meer be
 
 ##### Artikel 62. Meestbegunstigingsbehandeling
 
-1. Elke partij behandelt goederen van de andere partij volgens het meestbegunstigingsbeginsel, in overeenstemming met [artikel I van de Algemene Overeenkomst betreffende tarieven en handel van 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=I) (General Agreement on Tariffs and Trade 1994 – „GATT 1994”), met inbegrip van de aantekeningen daarbij, die **mutatis mutandis** in deze overeenkomst worden opgenomen en daarvan een integrerend deel uitmaken.
+1. Elke partij behandelt goederen van de andere partij volgens het meestbegunstigingsbeginsel, in overeenstemming met [artikel I van de Algemene Overeenkomst betreffende tarieven en handel van 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=I) (General Agreement on Tariffs and Trade 1994 – „GATT 1994”), met inbegrip van de aantekeningen daarbij, die *mutatis mutandis* in deze overeenkomst worden opgenomen en daarvan een integrerend deel uitmaken.
 
 2. Lid 1 is niet van toepassing op goederen van een ander land waaraan een partij preferentiële behandeling heeft toegekend overeenkomstig de WTO-overeenkomsten.
 
 ##### Artikel 63. Nationale behandeling
 
-Elke partij behandelt goederen van de andere partij als nationale goederen, in overeenstemming met [artikel III van de GATT 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=III), met inbegrip van de aantekeningen daarbij, die **mutatis mutandis** in deze overeenkomst worden opgenomen en daarvan een integrerend deel uitmaken.
+Elke partij behandelt goederen van de andere partij als nationale goederen, in overeenstemming met [artikel III van de GATT 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=III), met inbegrip van de aantekeningen daarbij, die *mutatis mutandis* in deze overeenkomst worden opgenomen en daarvan een integrerend deel uitmaken.
 
 ##### Artikel 64. Transparantie
 
@@ -1015,21 +884,21 @@ De partijen bevestigen opnieuw hun engagement voor de [WTO-handelsfacilitatieove
 
 ##### Artikel 66. Technische handelsbelemmeringen
 
-1. De partijen bevestigen opnieuw hun rechten en plichten in het kader van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](onbekend).
+1. De partijen bevestigen opnieuw hun rechten en plichten in het kader van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160).
 
-2. De bepalingen van dit artikel zijn van toepassing op technische regelingen, normen en conformiteitsbeoordelingsprocedures als vastgelegd in de [WTO-Overeenkomst inzake technische handelsbelemmeringen](onbekend).
+2. De bepalingen van dit artikel zijn van toepassing op technische regelingen, normen en conformiteitsbeoordelingsprocedures als vastgelegd in de [WTO-Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160).
 
-3. De partijen erkennen het belang van doeltreffende mechanismen voor kennisgeving en de uitwisseling van informatie inzake technische regelingen, normen en conformiteitsbeoordelingsprocedures overeenkomstig de [WTO-Overeenkomst inzake technische handelsbelemmeringen](onbekend).
+3. De partijen erkennen het belang van doeltreffende mechanismen voor kennisgeving en de uitwisseling van informatie inzake technische regelingen, normen en conformiteitsbeoordelingsprocedures overeenkomstig de [WTO-Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160).
 
 ##### Artikel 67. Sanitaire en fytosanitaire maatregelen
 
-1. De partijen bevestigen opnieuw de rechten, plichten, beginselen en doelstellingen van de [Overeenkomst inzake sanitaire en fytosanitaire maatregelen](onbekend), het [Internationaal Verdrag voor de Bescherming van Planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652), de Commissie van de Codex Alimentarius en de Wereldorganisatie voor diergezondheid.
+1. De partijen bevestigen opnieuw de rechten, plichten, beginselen en doelstellingen van de [Overeenkomst inzake sanitaire en fytosanitaire maatregelen](https://wetten.overheid.nl/BWBV0001160), het [Internationaal Verdrag voor de Bescherming van Planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652), de Commissie van de Codex Alimentarius en de Wereldorganisatie voor diergezondheid.
 
 2. De partijen erkennen het belang van doeltreffende mechanismen voor overleg, kennisgeving en de uitwisseling van informatie inzake sanitaire en fytosanitaire maatregelen en maatregelen voor dierenwelzijn, in het kader van de bevoegde internationale organisaties.
 
 ##### Artikel 68. Handelsbescherming
 
-De partijen herbevestigen hun verbintenissen en verplichtingen uit hoofde van de volgende WTO-overeenkomsten: de [Overeenkomst inzake vrijwaringsmaatregelen](onbekend), de [Overeenkomst inzake subsidies en compenserende maatregelen](onbekend) en de [Overeenkomst inzake de toepassing van artikel VI van de Algemene Overeenkomst inzake Tarieven en Handel 1994](onbekend).
+De partijen herbevestigen hun verbintenissen en verplichtingen uit hoofde van de volgende WTO-overeenkomsten: de [Overeenkomst inzake vrijwaringsmaatregelen](https://wetten.overheid.nl/BWBV0001160), de [Overeenkomst inzake subsidies en compenserende maatregelen](https://wetten.overheid.nl/BWBV0001160) en de [Overeenkomst inzake de toepassing van artikel VI van de Algemene Overeenkomst inzake Tarieven en Handel 1994](https://wetten.overheid.nl/BWBV0001160).
 
 ##### Artikel 69. Herzieningsclausule
 
@@ -1037,9 +906,9 @@ De partijen kunnen met wederzijdse instemming dit deel aanpassen en herzien met 
 
 ##### Artikel 70. Algemene uitzonderingsclausule
 
-De partijen bevestigen dat hun bestaande rechten en plichten in het kader van [artikel XX van de GATT 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=XX) en de aantekeningen daarbij **mutatis mutandis** in deze overeenkomst zijn opgenomen en daarvan een integrerend deel uitmaken.
+De partijen bevestigen dat hun bestaande rechten en plichten in het kader van [artikel XX van de GATT 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=XX) en de aantekeningen daarbij *mutatis mutandis* in deze overeenkomst zijn opgenomen en daarvan een integrerend deel uitmaken.
 
-## TITEL II. HANDELSGERELATEERDE SAMENWERKING
+### TITEL II. HANDELSGERELATEERDE SAMENWERKING
 
 ##### Artikel 71. Douane
 
@@ -1049,17 +918,17 @@ De partijen bevestigen dat hun bestaande rechten en plichten in het kader van [a
 
 - a. het uitwisselen van informatie aangaande de douanewetgeving en -procedures, in het bijzonder op de volgende gebieden:
 
-- i. de vereenvoudiging en modernisering van de douaneprocedures;
+   - i. de vereenvoudiging en modernisering van de douaneprocedures;
 
-- ii. de vergemakkelijking van doorvoer;
+   - ii. de vergemakkelijking van doorvoer;
 
-- iii. de handhaving van intellectuele-eigendomsrechten door de douaneautoriteiten;
+   - iii. de handhaving van intellectuele-eigendomsrechten door de douaneautoriteiten;
 
-- iv. de betrekkingen met het bedrijfsleven;
+   - iv. de betrekkingen met het bedrijfsleven;
 
-- v. het vrije verkeer van goederen en regionale integratie;
+   - v. het vrije verkeer van goederen en regionale integratie;
 
-- vi. de organisatie van de douanecontroles aan de grenzen;
+   - vi. de organisatie van de douanecontroles aan de grenzen;
 
 - b. het ontplooien van gezamenlijke initiatieven op onderling overeengekomen gebieden;
 
@@ -1125,7 +994,7 @@ De partijen bevestigen dat hun bestaande rechten en plichten in het kader van [a
 
 - e. verlening van advies en technische bijstand inzake de sanitaire en fytosanitaire regelgeving van de Europese Unie en de toepassing van de normen die vereist zijn voor de EU-markt;
 
-- f. bevordering van de samenwerking binnen de relevante internationale organisaties (het SPS-comité van de [WTO-Overeenkomst inzake sanitaire en fytosanitaire maatregelen](onbekend), het [Internationaal Verdrag voor de bescherming van planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652), de Wereldorganisatie voor diergezondheid en de Codex Alimentarius-commissie) met het oog op betere toepassing van internationale normen.
+- f. bevordering van de samenwerking binnen de relevante internationale organisaties (het SPS-comité van de [WTO-Overeenkomst inzake sanitaire en fytosanitaire maatregelen](https://wetten.overheid.nl/BWBV0001160), het [Internationaal Verdrag voor de bescherming van planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652), de Wereldorganisatie voor diergezondheid en de Codex Alimentarius-commissie) met het oog op betere toepassing van internationale normen.
 
 ##### Artikel 76. Traditionele en ambachtelijke goederen
 

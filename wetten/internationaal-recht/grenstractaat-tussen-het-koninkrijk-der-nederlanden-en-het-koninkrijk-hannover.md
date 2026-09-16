@@ -1,60 +1,19 @@
 ---
 title: "Grenstractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk Hannover"
 identifier: "BWBV0006072"
-country: "nl"
-rank: "verdrag"
-publication_date: "1981-09-16"
-last_updated: "1981-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006072"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10005011943"
-version_id: "10005332792"
-internal_id: "C10008313891"
-label_id: "10004995294"
-dtd_version: "2.0"
-original_entry_into_force: "1824-09-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006072/1981-09-16/0"
-intitule_bron: "Stb.1846-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1846-09-29"
-intitule_published: "1846-11-12"
-intitule_in_force: "1846-11-12"
-intitule_status: "goed"
-original_publication: "Stb.1846-54"
-original_signed_date: "1846-09-29"
-original_published_date: "1846-11-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1824-09-24"
-jci_1_3: "jci1.3:c:BWBV0006072&z=1981-09-16&g=1981-09-16"
-jci_1_0: "1.0:c:BWBV0006072&g=1981-09-16"
-citeertitel_status: "redactioneel"
-signed_date: "1846-09-29"
-entry_into_force: "1824-09-24"
+publicatiedatum: 1824-09-24
+laatste_update: 1981-09-16
+status: geldig
+toestand: 1981-09-16
+bron: "https://wetten.overheid.nl/BWBV0006072"
+opgehaald: 2026-09-16
 ---
+
 # Grenstractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk Hannover
 
-**Gesloten en geteekend te Meppen den 2den Julij 1824,**
-
-**bekrachtigd door Z. M. den Koning der Nederlanden,**
-
-**den 18den Augustus 1824,**
-
-**en**
-
-**door Z. M. den Koning van Hanover,**
-
-**den 24sten September 1824.**
-
-Zijne Majesteit de Koning der Nederlanden, Prins van Oranje-Nassau, Groot-Hertog van Luxemburg, enz., enz., enz.
-
-En Zijne Majesteit de Koning der vereenigde Rijken van Groot-Brittanje en Ierland, ook Koning van Hanover, Hertog van Brunswijk-Lunenburg, enz., enz., enz.
-
-Noodig geoordeeld hebbende, tot meerdere bevestiging der tusschen de beide Koningrijken der Nederlanden en van Hanover zoo gelukkig bestaande opregte vriendschap en tot onderhouding der rust op de grenzen, dezelve over de geheele linie, waar de beide Rijken aan elkander sluiten, te regelen en vast te stellen, en tevens de tusschen wederzijdsche grensbewoners, wegens wederkeerige betrekkingen, hier en daar bestaande oneenigheden zoo mogelijk te vereffenen, alsmede, ten opzigte der grens-afwaterings-inrigtingen, de voor beide Staten meest doelmatige bepalingen te treffen, hebben met dit oogmerk als Commissarissen benoemd en met de noodige volmagten voorzien, te weten:
-
-Zijne Majesteit de Koning der Nederlanden enz., de Heeren Maximiliaan Jacob de Man, Generaal-Majoor, Directeur van het Archief van Oorlog en topographisch Bureau, Ridder van de Militaire Willems-Orde, derde klasse, Kommandeur van de Orde van den Nederlandschen Leeuw en Ridder van de Orde van den Rooden Adelaar van Pruissen, tweede klasse, Mr. Albertus Sandberg, lid der Gedeputeerde Staten van de provincie Overijssel, Mr. Hendrik Guichart, lid der Gedeputeerde Staten van de provincie Groningen, en Mr. Johannes Linthorst Homan, lid van de Gedeputeerde Staten van de provincie Drenthe.
-
-En Zijne Majesteit de Koning van Hanover, enz., Hoogstdeszelfs Regeringsraad, den Doctor in de regten Coenraad Ferdinand Frederik von Pestel-Bruche, Ridder van de Koninklijk Hanoversche Guelphen Orde, Hoogstdeszelfs Landraad den Docter in de Philosophie Clamor Ernst George Victor, Vrijheer von dem Bussche-Hümnefeld, en Hoogstdeszelfs Waterbouw-Inspector Otto Diederik Christiaan Frederik Reinhold; welke Commissarissen, na wederkeerige uitwisseling hunner volmagten, onder goedkeuring hunner hooge Heeren Committenten, te zamen zijn overeengekomen omtrent de navolgende punten:
+*Gesloten en geteekend te Meppen den 2den Julij 1824, bekrachtigd door Z. M. den Koning der Nederlanden, den 18den Augustus 1824, en door Z. M. den Koning van Hanover, den 24sten September 1824. Zijne Majesteit de Koning der Nederlanden, Prins van Oranje-Nassau, Groot-Hertog van Luxemburg, enz., enz., enz. En Zijne Majesteit de Koning der vereenigde Rijken van Groot-Brittanje en Ierland, ook Koning van Hanover, Hertog van Brunswijk-Lunenburg, enz., enz., enz. Noodig geoordeeld hebbende, tot meerdere bevestiging der tusschen de beide Koningrijken der Nederlanden en van Hanover zoo gelukkig bestaande opregte vriendschap en tot onderhouding der rust op de grenzen, dezelve over de geheele linie, waar de beide Rijken aan elkander sluiten, te regelen en vast te stellen, en tevens de tusschen wederzijdsche grensbewoners, wegens wederkeerige betrekkingen, hier en daar bestaande oneenigheden zoo mogelijk te vereffenen, alsmede, ten opzigte der grens-afwaterings-inrigtingen, de voor beide Staten meest doelmatige bepalingen te treffen, hebben met dit oogmerk als Commissarissen benoemd en met de noodige volmagten voorzien, te weten: Zijne Majesteit de Koning der Nederlanden enz., de Heeren Maximiliaan Jacob de Man, Generaal-Majoor, Directeur van het Archief van Oorlog en topographisch Bureau, Ridder van de Militaire Willems-Orde, derde klasse, Kommandeur van de Orde van den Nederlandschen Leeuw en Ridder van de Orde van den Rooden Adelaar van Pruissen, tweede klasse, Mr. Albertus Sandberg, lid der Gedeputeerde Staten van de provincie Overijssel, Mr. Hendrik Guichart, lid der Gedeputeerde Staten van de provincie Groningen, en Mr. Johannes Linthorst Homan, lid van de Gedeputeerde Staten van de provincie Drenthe. En Zijne Majesteit de Koning van Hanover, enz., Hoogstdeszelfs Regeringsraad, den Doctor in de regten Coenraad Ferdinand Frederik von Pestel-Bruche, Ridder van de Koninklijk Hanoversche Guelphen Orde, Hoogstdeszelfs Landraad den Docter in de Philosophie Clamor Ernst George Victor, Vrijheer von dem Bussche-Hümnefeld, en Hoogstdeszelfs Waterbouw-Inspector Otto Diederik Christiaan Frederik Reinhold; welke Commissarissen, na wederkeerige uitwisseling hunner volmagten, onder goedkeuring hunner hooge Heeren Committenten, te zamen zijn overeengekomen omtrent de navolgende punten:*
 
 ##### Artikel 1
 
@@ -84,7 +43,7 @@ Door deze bepaling echter zal het Hoogheidsregt der beide Gouvernementen, om ove
 
 ##### Art. 6
 
-Daar, waar het tusschen aangrenzende gemeenten van beiden Rijken gebruikelijk is het vee **ductu naturae** of zonder hoeder te laten weiden, zal hetzelve, wanneer wederregtelijk de grenslijn mogt overtreden en deze tevens marktscheiding is, en niet verder dan honderd acht en tachtig Nederlandsche ellen en vier palmen of vijftig Rijnlandsche roeden van de grens mogt verwijderd zijn, niet mogen worden geschut, maar zal in dat geval aan de belanghebbenden slechts geoorloofd zijn, het overgeloopen vee weder over de grenzen terug te drijven, zonder hetzelve te jaren of te doen aanhitzen.
+Daar, waar het tusschen aangrenzende gemeenten van beiden Rijken gebruikelijk is het vee *ductu naturae* of zonder hoeder te laten weiden, zal hetzelve, wanneer wederregtelijk de grenslijn mogt overtreden en deze tevens marktscheiding is, en niet verder dan honderd acht en tachtig Nederlandsche ellen en vier palmen of vijftig Rijnlandsche roeden van de grens mogt verwijderd zijn, niet mogen worden geschut, maar zal in dat geval aan de belanghebbenden slechts geoorloofd zijn, het overgeloopen vee weder over de grenzen terug te drijven, zonder hetzelve te jaren of te doen aanhitzen.
 
 Deze bepaling zal echter geen plaats hebben, met betrekking tot gecultiveerde of bevredigde gronden, noch ook in het geval, waar het vee door eenen hoeder wordt bewaakt, of waar hetzelve, volgens bestaande usantien tusschen eenige gemeenten, in het geheel niet over de grenzen mag komen, als blijvende in die gevallen het regt van schutten van het overgeloopen vee en de invordering van het in iedere gemeente gebruiklijk schutgeld, aan de belanghebbenden voorbehouden.
 
@@ -312,11 +271,11 @@ De hier in den Dollard bepaalde grenslijn zal voor altijd blijven, ofschoon ook 
 
 ##### Art. 42
 
-Vervallen
+*Vervallen*
 
 ##### Art. 43
 
-Vervallen
+*Vervallen*
 
 ##### Art. 44
 
@@ -326,58 +285,14 @@ Ofschoon wederzijdsche commissarissen zich zoo veel mogelijk hebben beijverd, bi
 
 Het tegenwoordig tractaat, hetwelk in de Nederlandsche en Hoogduitsche talen is vervaardigd, zal aan de beide Gouvernementen ter goedkeuring worden voorgedragen, en zullen de ratificatien binnen twee maanden na de onderteekening van hetzelve, of zoo veel vroeger als doenlijk zijn zal, worden uitgewisseld.
 
-Naardien het wenschelijk voorgekomen is, in het belang der grensbewoners, dat nog eenige nadere wijzigingen gebragt worden in de bepalingen van art. 5 van het grenstractaat, den 2den Julij 1824, tusschen de Koningrijken van Nederland en Hanover gesloten, als ook in de nadere schikking deswege in 1836 getroffen, zoo zijn de wederzijdsche Regeringen overeengekomen het volgende te verklaren:
-
-##### 1°
-
-Het in art. 5 van het voorschreven grenstractaat vervat verbod, om in de toekomst nader bij de grenslijn, dan op een afstand van 376 Nederlandsche ellen en 7 palmen of 100 Rijnlandsche roeden, particuliere gebouwen op te rigten, wordt in het algemeen in stand gehouden, en vindt meer bepaald dààr deszelfs geheele strenge toepassing, waar zich op een afstand van 100 Rijnlandsche roeden van de grenzen nog geene neêrzettintingen bevonden;
-
-##### 2°
-
-Hetzelfde geldt ten aanzien van de oprigting tegen het verbod, van nieuwe woonhuizen (huizen met eenen haard), ook dààr, waar bereids neêrzettingen aangetroffen worden;
-
-##### 3°
-
-De gebouwen door brand of op eenige andere wijze vernield, mogen op de oude plaats weder hersteld worden;
-
-##### 4°
-
-Den eigenaren blijft het daarbij vergund de bouwplaats te verleggen, mits dat het nieuwe gebouw opgerigt worde op een afstand verder van de grenzen verwijderd dan het oude gebouw was;
-
-##### 5°
-
-Het wederoprigten of verplaatsen van het gebouw geschiedt eerst na voorafgaande aangifte bij de bevoegde autoriteiten, en nadat derzelver toestemming is verkregen, welke toestemming overal niet zal geweigerd worden, waar het herstellen van gebouwen op de oude plaats geldt, en voor het verplaatsen van het gebouw, niet zonder bijzondere gronden zal ontzegd worden;
-
-##### 6°
-
-Indien, bij uitzondering van het boven bepaalde onder n°. 1 — 2, nieuwe woonhuizen in nog andere gevallen, dan die vermeld onder no. 3, op Koninklijk Hanoversch of Koninklijk Nederlandsch grondgebied nader bij de grenslijn, dan op eenen afstand van 100 roeden zullen opgerigt worden, zoo is eene uitdrukkelijke vergunning beider Regeringen noodig, over het verleenen van dewelke de wederzijdsche provinciale autoriteiten met elkander in overleg zullen treden, en welke, indien het toestaan van eene uitzondering wederzijds aannemelijk bevonden wordt, aan den persoon die het gebouw wenscht op te rigten wordt medegedeeld door de provinciale autoriteiten van den Staat, waarin de bouwplaats gelegen is;
-
-##### 7°
-
-Het blijft den eigenaren vergund hunne woonhuizen of gebouwen voor derzelver bedrijf en nevengebouwen te vergrooten aan de van de grenzen afgelegene zijde, edoch zonder het aanleggen van eenen nieuwen haard;
-
-##### 8°
-
-Aan de zoodanige kolonisten die binnen de 100 roeden van de grenzen geene landerijen bezitten, wordt de oprigting vergund van nieuwe gebouwen zonder haard. De wederzijdsche gouvernementen leggen hunnen onderdanen de verpligting op, sub poenâ van correctionele straf (ordenungstrafe), om te voren hunne hierover gestelde autoriteiten kennis te doen dragen van alle uitbreiding of oprigting van nieuwe gebouwen, als vermeld zijn onder no. 7 en 8: de autoriteiten zullen moeten zorg dragen dat de vermelde gebouwen niet in strijd zijn met de bepalingen des tractaats;
-
-##### 9°
-
-Om de bij uitzondering te verleenen toestemming te verkrijgen tot het aanleggen van een' nieuwen haard, in de gevallen vermeld sub n°. 7 en 8 , zal moeten gehandeld worden als is bepaald bij n°. 6;
-
-##### 10°
-
-De tegenwoordig reeds bestaande gebouwen op het wederzijdsch staatsgebied, binnen eenen afstand van 100 roeden van de grenzen, met inbegrip der zulke die tegen de letter van art. 5 van het grenstractaat opgerigt zijn, als ook die gebouwen, waarvan de eindelijke opbouw op Hanoversch grondgebied, op grond van het verbod in het grenstractaat vervat, tot nu toe gestuit of in twijfel getrokken is, mogen behouden of ten einde gebragt worden.
-
-Van de hierna op het grondgebied beider Staten nog op te rigten gebouwen, zal wederzijds eene naauwkeurige opgave medegedeeld worden.
-
 Ten oorkonde dezes, hebben de in het hoofd hiervan genoemde commissarissen het vorenstaande tractaat eigenhandig onderteekend en met derzelver wapens bezegeld.
 
 Aldus gedaan en gesloten te Meppen, den tweeden Julij achttienhonderd vier en twintig.
 
-(**L. S.**) M. J. DE MAN.
+(*L. S.*) M. J. DE MAN.
 
-(**L. S.**) A. SANDBERG.
+(*L. S.*) A. SANDBERG.
 
-(**L. S.**) H. GUICHART.
+(*L. S.*) H. GUICHART.
 
-(**L. S.**) J. L. HOMAN.
+(*L. S.*) J. L. HOMAN.

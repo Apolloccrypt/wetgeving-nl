@@ -1,211 +1,130 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen"
 identifier: "BWBV0006315"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-12-31"
-last_updated: "2005-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006315"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10005160413"
-version_id: "10005577922"
-internal_id: "C10008619461"
-label_id: "10005143904"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006315/2005-12-31/0"
-intitule_bron: "Trb.2009-34"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2009-03-13"
-intitule_in_force: "2009-03-13"
-intitule_status: "vervallen"
-original_publication: "Trb.2009-34"
-original_published_date: "2009-03-13"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2009-34"
-entry_into_force_date: "2005-12-31"
-jci_1_3: "jci1.3:c:BWBV0006315&z=2005-12-31&g=2005-12-31"
-jci_1_0: "1.0:c:BWBV0006315&g=2005-12-31"
-citeertitel_status: "redactioneel"
-entry_into_force: "2005-12-31"
+publicatiedatum: 2005-12-31
+laatste_update: 2005-12-31
+status: geldig
+toestand: 2005-12-31
+bron: "https://wetten.overheid.nl/BWBV0006315"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen
 
-Het Koninkrijk der Nederlanden
+##### Article 1. Personal Scope
 
-en
+*Vervallen*
 
-de Socialistische Federatieve Republiek Joegoslavië,
+##### Article 2. Taxes covered
 
-De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen,
+*Vervallen*
 
-Zijn het volgende overeengekomen:
+##### Article 3. General Definitions
 
-##### Artikel 1. Personen op wie de Overeenkomst van toepassing is
+*Vervallen*
 
-Vervallen
+##### Article 4. Fiscal Domicile
 
-##### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
+*Vervallen*
 
-Vervallen
+##### Article 5. Permanent establishment
 
-##### Artikel 3. Algemene begripsbepalingen
+*Vervallen*
 
-Vervallen
+##### Article 6. Income from immovable property
 
-##### Artikel 4. Fiscale woonplaats
+*Vervallen*
 
-Vervallen
+##### Article 7. Business profits
 
-##### Artikel 5. Vaste inrichting
+*Vervallen*
 
-Vervallen
+##### Article 8. Shipping, inland waterways transport and air transport
 
-##### Artikel 6. Inkomsten uit onroerende goederen
+*Vervallen*
 
-Vervallen
+##### Article 9. Associated enterprises
 
-##### Artikel 7. Winst uit onderneming
+*Vervallen*
 
-Vervallen
+##### Article 10. Dividends
 
-##### Artikel 8. Zeevaart, binnenvaart en luchtvaart
+*Vervallen*
 
-Vervallen
+##### Article 11. Interest
 
-##### Artikel 9. Gelieerde ondernemingen
+*Vervallen*
 
-Vervallen
+##### Article 12. Royalties
 
-##### Artikel 10. Dividenden
+*Vervallen*
 
-Vervallen
+##### Article 13. Capital gains
 
-##### Artikel 11. Interest
+*Vervallen*
 
-Vervallen
+##### Article 14. Independent personal services
 
-##### Artikel 12. Royalty 's
+*Vervallen*
 
-Vervallen
+##### Article 15. Dependent personal services
 
-##### Artikel 13. Vermogenswinsten
+*Vervallen*
 
-Vervallen
+##### Article 16. Directors' fees and remuneration derived from work on joint business boards
 
-##### Artikel 14. Zelfstandige arbeid
+*Vervallen*
 
-Vervallen
+##### Article 17. Artistes and athletes
 
-##### Artikel 15. Niet-zelfstandige arbeid
+*Vervallen*
 
-Vervallen
+##### Article 18. Pensions
 
-##### Artikel 16. Bestuurders- en commissarissenbeloningen en beloningen verkregen ter zake van bestuurderswerkzaamheden in een gemeenschappelijke onderneming
+*Vervallen*
 
-Vervallen
+##### Article 19. Professors, teachers and researchers
 
-##### Artikel 17. Artiesten en sportbeoefenaars
+*Vervallen*
 
-Vervallen
+##### Article 20. Students
 
-##### Artikel 18. Pensioenen
+*Vervallen*
 
-Vervallen
+##### Article 21. Other income
 
-##### Artikel 19. Hoogleraren, andere docenten en onderzoekers
+*Vervallen*
 
-Vervallen
+##### Article 22. Capital
 
-##### Artikel 20. Studenten
+*Vervallen*
 
-Vervallen
+##### Article 23. Elimination of double taxation
 
-##### Artikel 21. Overige inkomsten
+*Vervallen*
 
-Vervallen
+##### Article 24. Non-discrimination
 
-##### Artikel 22. Vermogen
+*Vervallen*
 
-Vervallen
+##### Article 25. Mutual agreement procedure
 
-##### Artikel 23. Vermijding van dubbele belasting
+*Vervallen*
 
-Vervallen
+##### Article 26. Exchange of Information
 
-##### Artikel 24. Non-discriminatie
+*Vervallen*
 
-Vervallen
+##### Article 27. Diplomatic and consular officials
 
-##### Artikel 25. Regeling voor onderling overleg
+*Vervallen*
 
-Vervallen
+##### Article 28. Entry into force
 
-##### Artikel 26. Uitwisseling van inlichtingen
+*Vervallen*
 
-Vervallen
+##### Article 29. Termination
 
-##### Artikel 27. Diplomatieke en consulaire ambtenaren
-
-Vervallen
-
-##### Artikel 28. Inwerkingtreding
-
-Vervallen
-
-##### Artikel 29. Beëindiging
-
-Vervallen
-
-Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, heden tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië gesloten, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van de Overeenkomst vormen.
-
-##### I. Ad Artikel 4
-
-Vervallen
-
-##### II. Ad Artikel 4
-
-Vervallen
-
-##### III. Ad Artikel 6
-
-Vervallen
-
-##### IV. Ad Artikel 8
-
-Vervallen
-
-##### V. Ad Artikelen 10 en 12
-
-Vervallen
-
-##### VI. Ad Artikel 11
-
-Vervallen
-
-##### VII. Ad Artikel 15
-
-Vervallen
-
-##### VIII. Ad Artikel 16
-
-Vervallen
-
-##### IX. Ad Artikel 18
-
-Vervallen
-
-IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Convention.
-
-DONE at Beograd, this twenty second day of February 1982, in two originals, each in the Netherlands, Serbo-Croatian and English languages, the three texts being equally authentic. In case there is any divergence of interpretation between the Netherlands and Serbo-Croatian texts, the English text shall prevail.
-
-**For the Kingdom of the Netherlands,**
-
-(sd.) M.P.S. VAN BERCKEL
-
-(sd.) A. P. J. M. M. VAN DER STEE
-
-**For the Socialist Federal Republic of Yugoslavia,**
-
-(sd.) PETAR KOSTIĆ
+*Vervallen*

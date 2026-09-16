@@ -8,7 +8,7 @@ laatste_update: 2026-05-29
 status: geldig
 toestand: 2026-05-29
 bron: "https://wetten.overheid.nl/BWBV0001004"
-opgehaald: 2026-09-15
+opgehaald: 2026-09-16
 ---
 
 # Enkelvoudig Verdrag inzake verdovende middelen, 1961, zoals gewijzigd door het Protocol tot wijziging van het Enkelvoudige Verdrag inzake verdovende middelen, 1961

@@ -1,235 +1,170 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen inzake het gebruik van een penitentiaire inrichting in Nederland voor de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen"
 identifier: "BWBV0006451"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-09-01"
-last_updated: "2018-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006451"
+categorie: "Strafrecht"
 soort: "verdrag"
-stam_id: "10005268783"
-version_id: "10005890982"
-internal_id: "C10009397551"
-label_id: "10005252394"
-dtd_version: "2.0"
-original_entry_into_force: "2018-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006451/2018-09-01/0"
-intitule_bron: "Trb.2018-60"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2018-05-15"
-intitule_in_force: "2018-05-15"
-intitule_status: "vervallen"
-original_publication: "Trb.2018-60"
-original_published_date: "2018-05-15"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2018-60"
-entry_into_force_date: "2018-09-01"
-jci_1_3: "jci1.3:c:BWBV0006451&z=2018-09-01&g=2018-09-01"
-jci_1_0: "1.0:c:BWBV0006451&g=2018-09-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-09-01"
+publicatiedatum: 2018-09-01
+laatste_update: 2018-09-01
+status: geldig
+toestand: 2018-09-01
+bron: "https://wetten.overheid.nl/BWBV0006451"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen inzake het gebruik van een penitentiaire inrichting in Nederland voor de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen
 
-Het Koninkrijk der Nederlanden
+## PART I. GENERAL PROVISIONS
 
-en
+##### Article 1. Use of terms
 
-het Koninkrijk Noorwegen
+*Vervallen*
 
-(hierna „de partijen”),
+##### Article 2. Purpose and scope
 
-Overwegende dat er intensieve bilaterale samenwerking is tussen de partijen op het gebied van het strafrecht in Europees verband;
+*Vervallen*
 
-Overwegende dat de Partijen de tenuitvoerlegging van bij vonnis opgelegde vrijheidsstraffen essentieel achten voor het functioneren van de rechtsstaat;
+##### Article 3. Mutual obligations
 
-Overwegende dat in Noorwegen een tekort bestaat aan penitentiaire capaciteit en dat het huren van penitentiaire capaciteit in een andere staat gezien wordt als een kortetermijnoplossing voor deze uitdaging;
+*Vervallen*
 
-Overwegende dat als gevolg van de huidige penitentiaire capaciteit van Nederland de tenuitvoerlegging van bij Noorse vonnissen opgelegde vrijheidsstraffen in een penitentiaire inrichting in Nederland kan worden bewerkstelligd;
+##### Article 4. Applicable law
 
-Overwegende dat de partijen internationale normen op het gebied van de mensenrechten erkennen en erdoor gebonden zijn;
+*Vervallen*
 
-Overwegende dat de toepassing van dit Verdrag wordt beheerst door deze omstandigheden;
+##### Article 5. Personal data
 
-Zijn het volgende overeengekomen:
+*Vervallen*
 
-## DEEL I. ALGEMENE BEPALINGEN
+##### Article 6. Competences and responsibilities of the Governor
 
-##### Artikel 1. Begripsomschrijvingen
+*Vervallen*
 
-Vervallen
+##### Article 7. Staff
 
-##### Artikel 2. Doel en reikwijdte
+*Vervallen*
 
-Vervallen
+## PART II. PROVISIONS CONCERNING THE EXECUTION OF SENTENCES
 
-##### Artikel 3. Wederzijdse verplichtingen
+##### Article 8. Placement of prisoners
 
-Vervallen
+*Vervallen*
 
-##### Artikel 4. Toepasselijk recht
+##### Article 9. Execution of leave and release
 
-Vervallen
+*Vervallen*
 
-##### Artikel 5. Persoonsgegevens
+##### Article 10. Complaints and legal actions of prisoners
 
-Vervallen
+*Vervallen*
 
-##### Artikel 6. Bevoegdheden en verantwoordelijkheden van de directeur
+##### Article 11. Transport of prisoners
 
-Vervallen
+*Vervallen*
 
-##### Artikel 7. Personeel
+##### Article 12. Medical care outside the prison
 
-Vervallen
+*Vervallen*
 
-## DEEL II. BEPALINGEN BETREFFENDE DE TENUITVOERLEGGING VAN VONNISSEN
+##### Article 13. Escape
 
-##### Artikel 8. Plaatsing van gedetineerden
+*Vervallen*
 
-Vervallen
+##### Article 14. Death of a prisoner
 
-##### Artikel 9. Tenuitvoerlegging van verlof en vrijlating
+*Vervallen*
 
-Vervallen
+##### Article 15. Security of the prison
 
-##### Artikel 10. Klachten en rechtsvorderingen van gedetineerden
+*Vervallen*
 
-Vervallen
+##### Article 16. Evacuation of the prison in case of emergency
 
-##### Artikel 11. Vervoer van gedetineerden
+*Vervallen*
 
-Vervallen
+## PART III. PROVISIONS CONCERNING CRIMINAL LAW
 
-##### Artikel 12. Medische verzorging buiten de penitentiaire inrichting
+##### Article 17. Criminal offences committed in the prison
 
-Vervallen
+*Vervallen*
 
-##### Artikel 13. Ontvluchting
+##### Article 18. Cooperation in criminal matters with a view to involuntary return to detention
 
-Vervallen
+*Vervallen*
 
-##### Artikel 14. Overlijden van een gedetineerde
+##### Article 19. Criminal investigation for other offences
 
-Vervallen
+*Vervallen*
 
-##### Artikel 15. Beveiliging van de penitentiaire inrichting
+##### Article 20. Legal cooperation at the request of third States
 
-Vervallen
+*Vervallen*
 
-##### Artikel 16. Evacuatie van de penitentiaire inrichting in noodsituaties
+## PART IV. PRIVILEGES AND IMMUNITIES
 
-Vervallen
+##### Article 21. The grounds of the prison
 
-## DEEL III. STRAFRECHTELIJKE BEPALINGEN
+*Vervallen*
 
-##### Artikel 17. Strafbare feiten gepleegd in de penitentiaire inrichting
+##### Article 22. Archives
 
-Vervallen
+*Vervallen*
 
-##### Artikel 18. Strafrechtelijke samenwerking met het oog op onvrijwillige terugkeer in detentie
+##### Article 23. Possessions, funds and other property
 
-Vervallen
+*Vervallen*
 
-##### Artikel 19. Strafrechtelijk onderzoek wegens andere feiten
+##### Article 24. Exception from the provisions regarding inviolability and immunity
 
-Vervallen
+*Vervallen*
 
-##### Artikel 20. Juridische samenwerking op verzoek van derde staten
+##### Article 25. Immunity of the Governor
 
-Vervallen
+*Vervallen*
 
-## DEEL IV. VOORRECHTEN EN IMMUNITEITEN
+## PART V. COSTS
 
-##### Artikel 21. Het terrein van de penitentiaire inrichting
+##### Article 26. Costs
 
-Vervallen
+*Vervallen*
 
-##### Artikel 22. Archieven
+##### Article 27. Fee for the use of the prison
 
-Vervallen
+*Vervallen*
 
-##### Artikel 23. Bezittingen, middelen en overige eigendommen
+##### Article 28. Other costs
 
-Vervallen
+*Vervallen*
 
-##### Artikel 24. Uitzondering op de bepalingen inzake onschendbaarheid en immuniteit
+##### Article 29. Indexing
 
-Vervallen
+*Vervallen*
 
-##### Artikel 25. Immuniteit van de directeur
+## PART VI. FINAL PROVISIONS
 
-Vervallen
+##### Article 30. Term of the use of the prison
 
-## DEEL V. KOSTEN
+*Vervallen*
 
-##### Artikel 26. Kosten
+##### Article 31. Extension
 
-Vervallen
+*Vervallen*
 
-##### Artikel 27. Vergoeding voor het gebruik van de penitentiaire inrichting
+##### Article 32. Additional arrangements
 
-Vervallen
+*Vervallen*
 
-##### Artikel 28. Overige kosten
+##### Article 33. Consultations and dispute resolution
 
-Vervallen
+*Vervallen*
 
-##### Artikel 29. Indexering
+##### Article 34. Amendment
 
-Vervallen
+*Vervallen*
 
-## DEEL VI. SLOTBEPALINGEN
+##### Article 35. Application
 
-##### Artikel 30. Termijn voor het gebruik van de penitentiaire inrichting
+*Vervallen*
 
-Vervallen
+##### Article 36. Entry into force and termination
 
-##### Artikel 31. Verlenging
-
-Vervallen
-
-##### Artikel 32. Aanvullende regelingen
-
-Vervallen
-
-##### Artikel 33. Overleg en geschillenbeslechting
-
-Vervallen
-
-##### Artikel 34. Wijziging
-
-Vervallen
-
-##### Artikel 35. Toepassing
-
-Vervallen
-
-##### Artikel 36. Inwerkingtreding en beëindiging
-
-Vervallen
-
-IN WITNESS WHEREOF, the undersigned, duly authorized thereto, have signed this Agreement.
-
-DONE at Veenhuizen on 2 March 2015 in duplicate, in the English language.
-
-**For the Kingdom of the Netherlands,**
-
-TEEVEN
-
-**For the Kingdom of Norway,**
-
-ANDERS ANUNDSEN
-
-## DEEL I. ALGEMENE BEPALINGEN
-
-## DEEL II. BEPALINGEN BETREFFENDE DE TENUITVOERLEGGING VAN VONNISSEN
-
-## DEEL III. STRAFRECHTELIJKE BEPALINGEN
-
-## DEEL IV. VOORRECHTEN EN IMMUNITEITEN
-
-## DEEL V. KOSTEN
-
-## DEEL VI. SLOTBEPALINGEN
+*Vervallen*

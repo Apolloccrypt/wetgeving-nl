@@ -1,191 +1,164 @@
 ---
 title: "Protocol tussen de Republiek Armenië en de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) ter uitvoering van de Overeenkomst tussen de Europese Unie en de Republiek Armenië inzake de overname van personen die zonder vergunning op het grondgebied verblijven"
 identifier: "BWBV0006769"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-09-01"
-last_updated: "2023-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006769"
+categorie: "Bestuursrecht"
 soort: "verdrag"
-stam_id: "10005458543"
-version_id: "10005923922"
-internal_id: "C10010002001"
-label_id: "10005441774"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006769/2023-09-01/0"
-intitule_bron: "Trb.2018-178"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-10-18"
-intitule_in_force: "2023-07-28"
-intitule_status: "goed"
-original_publication: "Trb.2018-178"
-original_published_date: "2018-10-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2018-178"
-entry_into_force_date: "2023-09-01"
-jci_1_3: "jci1.3:c:BWBV0006769&z=2023-09-01&g=2023-09-01"
-jci_1_0: "1.0:c:BWBV0006769&g=2023-09-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-09-01"
+publicatiedatum: 2023-09-01
+laatste_update: 2023-09-01
+status: geldig
+toestand: 2023-09-01
+bron: "https://wetten.overheid.nl/BWBV0006769"
+opgehaald: 2026-09-16
 ---
+
 # Protocol tussen de Republiek Armenië en de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) ter uitvoering van de Overeenkomst tussen de Europese Unie en de Republiek Armenië inzake de overname van personen die zonder vergunning op het grondgebied verblijven
 
-De Republiek Armenië en de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden),
+*The Republic of Armenia and the States of the Benelux (the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Kingdom of the Netherlands), Hereinafter referred to as “the Parties”, On the basis of Article 20 of the Agreement between the European Union and the Republic of Armenia on the readmission of persons residing without authorisation, signed in Brussels on 19 April 2013, Hereinafter referred to as “the Agreement”, Have agreed as follows:*
 
-Hierna „de Partijen” genoemd,
+##### Article 1. Designation of competent authorities
 
-Op grond van artikel 20 van de op 19 april 2013 te Brussel ondertekende Overeenkomst tussen de Europese Unie en de Republiek Armenië inzake de overname van personen die zonder vergunning op het grondgebied verblijven,
+1. The Parties shall exchange lists of the authorities competent to implement the Agreement and of their diplomatic or consular mission accredited to the other Parties, within thirty (30) days after the conclusion of this Protocol*.*
 
-Hierna „de Overeenkomst” genoemd,
+2. The Parties shall immediately notify each other of any changes in the lists referred to in paragraph 1 of this Article.
 
-Zijn het volgende overeengekomen:
+##### Article 2. Designation of border crossing points
 
-##### Artikel 1. Aanwijzing bevoegde autoriteiten
+1. The border crossing points used for the application of the Agreement are listed in [Annex 1](https://wetten.overheid.nl/BWBV0006769) to this Protocol.
 
-1. De Partijen wisselen binnen dertig (30) dagen na de sluiting van dit Protocol lijsten van de voor de uitvoering van de Overeenkomst bevoegde autoriteiten en van hun bij de andere Partijen geaccrediteerde diplomatieke of consulaire vertegenwoordigingen uit**.**
+2. The Parties shall immediately inform one another of any changes in the list referred to in paragraph 1 of this Article.
 
-2. De Partijen stellen elkaar onverwijld in kennis van iedere wijziging in de in lid 1 van dit artikel bedoelde lijsten.
+3. The competent authorities may agree to use other border crossing points for the application of the Agreement on a case by case basis.
 
-##### Artikel 2. Aanwijzing plaatsen grensoverschrijding
+##### Article 3. Submission of the readmission application
 
-1. De voor de toepassing van de Overeenkomst gebruikte grensovergangen staan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=1&z=2023-09-01&g=2023-09-01) bij dit Protocol vermeld.
+1. A readmission application shall be submitted in writing, by e-mail, fax or other means of telecommunication, directly to the competent authority of the Requested State. If the readmission application contains an interview request, a copy of the application shall also be sent to the diplomatic or consular representation of the Requested State.
 
-2. De Partijen informeren elkaar onmiddellijk over iedere wijziging in de in lid 1 van dit artikel bedoelde lijst.
+2. The readmission application shall be submitted using the form attached as [Annex 5](https://wetten.overheid.nl/BWBV0006769) to the Agreement.
 
-3. De bevoegde autoriteiten kunnen op ad-hocbasis overeenkomen gebruik te maken van andere grensovergangen voor de toepassing van de Overeenkomst.
+3. To provide or obtain additional information on a particular readmission application, the Requesting State shall apply to the competent authority of the Requested State.
 
-##### Artikel 3. Indiening van het verzoek om terug- of overname
+##### Article 4. Reply to the readmission application
 
-1. Een verzoek om terug- of overname wordt schriftelijk via e-mail, per telefax of andere telecommunicatiemiddelen rechtstreeks ingediend bij de bevoegde autoriteit van de aangezochte Staat. Indien in het verzoek om terug- of overname tevens om een interview wordt verzocht, wordt een kopie van het verzoek eveneens verstrekt aan de diplomatieke of consulaire vertegenwoordiging van de aangezochte Staat.
+1. The reply to a readmission application shall be sent in writing, by e-mail, fax or other means of telecommunication, to the competent authority of the Requesting State. A copy of this reply is simultaneously provided to the diplomatic or consular representation of the Requested State.
 
-2. Voor de indiening van het verzoek om terug- of overname wordt gebruikgemaakt van het formulier dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=5&z=2023-09-01&g=2023-09-01) aan de Overeenkomst is gehecht.
+2. The readmission application shall be replied to, within twelve (12) calendar days, using the form attached as [Annex 2](https://wetten.overheid.nl/BWBV0006769) to this Protocol.
 
-3. De verzoekende Staat wendt zich voor het verstrekken of verkrijgen van nadere inlichtingen omtrent een specifiek verzoek om terug- of overname tot de bevoegde autoriteit van de aangezochte Staat.
+##### Article 5. Travel documents
 
-##### Artikel 4. Antwoord op het verzoek om terug- of overname
+1. In the event of a positive reply to the readmission application, the diplomatic or consular representation of the Requested State shall issue the travel document required for the return pursuant to Article 3, paragraph 4 and Article 5, paragraph 4 of the Agreement, without delay but not later than within three (3) working days, to the competent authorities of the Requesting State.
 
-1. Het antwoord op een verzoek om terug- of overname wordt via e-mail, per telefax of andere telecommunicatiemiddelen schriftelijk verstrekt aan de bevoegde autoriteit van de verzoekende Staat. Een kopie van dit antwoord wordt gelijktijdig aan de diplomatieke of consulaire vertegenwoordiging van de aangezochte Staat verstrekt.
+2. The travel document shall have a period of validity of hundred and twenty (120) days.
 
-2. Het verzoek om terug- of overname wordt binnen twaalf (12) kalenderdagen beantwoord door gebruikmaking van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=2&z=2023-09-01&g=2023-09-01) aan dit Protocol is gehecht.
+3. If the diplomatic or consular representation of Armenia has not provided the requested travel document within the time limit mentioned in paragraph 1 of this Article, Armenia shall be deemed to have consented to the use of the EU standard travel document for expulsion purposes. The document that shall be used for that purpose is attached as [Annex 3](https://wetten.overheid.nl/BWBV0006769) to this Protocol.
 
-##### Artikel 5. Reisdocumenten
+##### Article 6. Interviews
 
-1. Bij een positief antwoord op het verzoek om terugname wordt het voor terugkeer vereiste reisdocument overeenkomstig artikel 3, lid 4, en artikel 5, lid 4, van de Overeenkomst, onverwijld doch uiterlijk binnen drie (3) werkdagen door de diplomatieke of consulaire vertegenwoordiging van de aangezochte Staat aan de bevoegde autoriteiten van de verzoekende Staat verstrekt.
+1. If the Requesting State is unable to present any document as referred to in Article 9 of the Agreement, and the Requested State cannot establish the nationality of the person to be readmitted in another way, the diplomatic or consular representation of the Requested State shall arrange an interview in order to establish his nationality.
 
-2. Het reisdocument heeft een geldigheidsduur van honderdtwintig (120) dagen.
+2. The interview shall be held without delay and in any case at the latest within five (5) working days from the date of receipt of the readmission application.
 
-3. Indien de diplomatieke of consulaire vertegenwoordiging van Armenië het gevraagde reisdocument niet binnen de in lid 1 van dit artikel vermelde termijn heeft verstrekt, wordt Armenië geacht in te stemmen met het gebruik van het standaardreisdocument van de EU voor verwijderingsdoeleinden. Het document dat voor dit doel wordt gebruikt, is als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=3&z=2023-09-01&g=2023-09-01) aan dit Protocol gehecht.
+3. The Requested State shall inform the Requesting State immediately and in any case at the latest within three (3) working days after the interview about the result thereof.
 
-##### Artikel 6. Interviews
+##### Article 7. Transfer
 
-1. Indien de verzoekende Staat geen enkel document als bedoeld in artikel 9 van de Overeenkomst kan overleggen en de aangezochte Staat de nationaliteit van de terug te nemen persoon niet op een andere wijze kan vaststellen, organiseert de diplomatieke of consulaire vertegenwoordiging van de aangezochte Staat een interview, teneinde diens nationaliteit vast te stellen.
+1. The competent authority of the Requesting State shall notify in writing, by e-mail, fax or other means of telecommunication, at least two (2) working days in advance, the competent authority of the Requested State regarding the intended transfer. For this purpose it shall use the form attached as [Annex 4](https://wetten.overheid.nl/BWBV0006769) to this Protocol. A copy of this form shall be provided to the diplomatic or consular representation of the Requested State.
 
-2. Het interview vindt onverwijld doch uiterlijk binnen vijf (5) werkdagen na de ontvangst van het verzoek om terugname plaats.
+2. If the Requesting State is unable to transfer the person to be readmitted within the period of three (3) months, it shall immediately inform the competent authority of the Requested State. As soon as the actual transfer of the person concerned can take place, the competent authority of the Requesting State shall inform the Requested State, making use of the form referred to in paragraph 1 of this Article and in compliance with the time limits applicable for the transfer.
 
-3. De aangezochte Staat informeert de verzoekende Staat onverwijld doch uiterlijk binnen drie (3) werkdagen na het interview over het resultaat ervan.
+3. As a rule transfer shall take place by air. If necessary, use may be made of charter flights.
 
-##### Artikel 7. Overdracht
+4. If there are reasons to justify transport by road, the competent authorities of the Requesting State shall make special mention thereof in the form referred to in paragraph 1 of this Article.
 
-1. De bevoegde autoriteit van de verzoekende Staat stelt de bevoegde autoriteit van de aangezochte Staat via e-mail, per telefax of andere telecommunicatiemiddelen, minimaal twee (2) werkdagen vóór de geplande overdracht schriftelijk in kennis van haar voornemen daartoe. Daartoe wordt gebruikgemaakt van het formulier dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=4&z=2023-09-01&g=2023-09-01) aan dit Protocol is gehecht. Een kopie van dit formulier wordt aan de diplomatieke of consulaire vertegenwoordiging van de aangezochte Staat verstrekt.
+##### Article 8. Transit procedure
 
-2. Indien de verzoekende Staat de terug of over te nemen persoon niet binnen de termijn van drie (3) maanden kan overdragen, stelt hij de bevoegde autoriteit van de aangezochte Staat daarvan onverwijld in kennis. Zodra de effectieve overdracht van de betrokkene kan plaatsvinden, stelt de bevoegde autoriteit van de verzoekende Staat de aangezochte Staat daarvan in kennis, door gebruikmaking van het in lid 1 van dit artikel genoemde formulier en met inachtneming van de voor de overdracht geldende termijnen.
+1. A transit application shall be submitted at least seven (7) working days before the planned transit in writing, by e-mail, fax or other means of telecommunication, to the competent authority of the Requested State.
 
-3. Overdracht geschiedt in de regel door de lucht. Zo nodig kan worden gebruikgemaakt van chartervluchten.
+2. The application shall be made using the form attached as Annex 6 to the Agreement.
 
-4. Indien er gegronde redenen voor een vervoer over de weg zijn, maken de bevoegde autoriteiten van de verzoekende Staat daarvan afzonderlijk melding op het in lid 1 van dit artikel genoemde formulier.
+3. The reply to a transit application shall be sent in writing, by e-mail, fax or other means of telecommunication, to the competent authority of the Requesting State within three (3) working days, stating whether it consents to the transit and the time for which it has been scheduled, the designated border crossing point, the modes of transportation and the use of escorts. This reply shall be made using the form attached as [Annex 5](https://wetten.overheid.nl/BWBV0006769) to this Protocol.
 
-##### Artikel 8. Doorgeleidingsprocedure
+4. In principle, transit shall take place by air.
 
-1. Een doorgeleidingsverzoek wordt minimaal zeven (7) werkdagen vóór de geplande doorgeleiding via e-mail, per telefax of andere telecommunicatiemiddelen schriftelijk ingediend bij de bevoegde autoriteit van de aangezochte Staat.
+##### Article 9. Support during transit
 
-2. Voor de indiening van het verzoek wordt gebruikgemaakt van het formulier dat als bijlage 6 aan de Overeenkomst is gehecht.
+1. If the Requesting State deems it necessary to have the support of the authorities of the Requested State for a particular transit, it shall state the nature and substance of the assistance required, under C. “OBSERVATIONS”, of the form attached as Annex 6 to the Agreement.
 
-3. Het antwoord op een doorgeleidingsverzoek wordt binnen drie (3) werkdagen via e-mail, per telefax of andere telecommunicatiemiddelen schriftelijk aan de bevoegde autoriteit van de verzoekende Staat verstrekt, waarbij wordt meegedeeld of wordt ingestemd met de doorgeleiding en het hiervoor geplande tijdstip, de aangewezen plaats waar de grens wordt overschreden, de wijze van vervoer en het gebruik van begeleiders. Voor het verstrekken van dit antwoord wordt gebruikgemaakt van het formulier dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=5&z=2023-09-01&g=2023-09-01) aan dit Protocol is gehecht.
+2. In its reply to the transit application, the Requested State shall state whether it can provide the requested support. If necessary, the Parties will enter into more detailed consultation.
 
-4. Doorgeleiding geschiedt in beginsel door de lucht.
+3. If the person concerned is escorted on the territory of the Requested State, the guarding and possible embarkation shall be effected under the authority and, as far as possible, with the support of this State.
 
-##### Artikel 9. Ondersteuning van de doorgeleiding
+##### Article 10. Obligations for escorts
 
-1. Indien de verzoekende Staat ondersteuning van de doorgeleiding door de autoriteiten van de aangezochte Staat noodzakelijk acht, dient hij de aard en inhoud van de gewenste steun te vermelden onder C. „OPMERKINGEN” van het formulier dat als bijlage 6 aan de Overeenkomst is gehecht.
+1. Escorts are designated by the Requesting State and are responsible for accompanying the person to be readmitted or in transit.
 
-2. In het antwoord op het doorgeleidingsverzoek bericht de aangezochte Staat of hij kan voorzien in de gevraagde ondersteuning. Zo nodig vindt hierover nader overleg plaats tussen de Partijen.
+2. Within the territory of the Requested State, escorts shall under all circumstances comply with the law of the Requested State.
 
-3. Indien de betrokkene op het grondgebied van de aangezochte Staat wordt begeleid, geschieden de bewaking en het eventueel aan boord brengen onder het gezag en, voor zover mogelijk, met ondersteuning van deze Staat.
+3. The authority of escorts is limited to self-defence. In addition, in the absence of any officials of the Requested State who are authorised to take the necessary action or in order to support such officials, escorts may respond to an immediate and serious threat in a reasonable and proportionate manner in order to prevent the person concerned from escaping, injuring himself or third parties or causing damage to property.
 
-##### Artikel 10. Verplichtingen voor begeleiders
+4. Escorts shall perform their task unarmed and in civilian dress. They shall be in possession of an escort authorisation, the consent for readmission or transit, and identity card.
 
-1. Begeleiders worden door de verzoekende Staat aangewezen en zijn belast met de begeleiding van de terug of over te nemen of door te geleiden persoon.
+5. The authorities of the Requested State shall grant the same protection and assistance to escorts, while the latter are performing their duties within the framework of the Agreement, as they grant to their own officials who are authorised to take such action.
 
-2. Op het grondgebied van de aangezochte Staat moeten de begeleiders in alle omstandigheden het recht van de aangezochte Staat naleven.
+##### Article 11. Costs
 
-3. De bevoegdheden van de begeleiders zijn beperkt tot zelfverdediging. Daarnaast kunnen de begeleiders, bij afwezigheid van ter zake bevoegde ambtenaren van de aangezochte Staat of ter ondersteuning van deze ambtenaren, in reactie op een onmiddellijke en ernstige dreiging op redelijke en evenredige wijze optreden om te voorkomen dat de betrokkene vlucht, zichzelf of derden letsel toebrengt dan wel schade aan goederen veroorzaakt.
+1. Costs incurred by the Requested State in connection with readmission and transit operations that are to be borne by the Requesting State pursuant to Article 16 of the Agreement, shall be reimbursed by the Requesting State upon submission of an invoice. This invoice shall also mention the banking details of the Requested State.
 
-4. De begeleiders voeren hun taak ongewapend en in burgerkledij uit. Zij dienen in het bezit te zijn van een toestemming tot begeleiding, de instemming met terug- of overname of doorgeleiding en een identiteitskaart.
+2. The Requesting State shall pay all costs to the Requested State within thirty (30) days after receipt of the invoice.
 
-5. De autoriteiten van de aangezochte Staat verlenen de begeleiders bij de uitoefening van hun taken in het kader van de Overeenkomst dezelfde bescherming en bijstand als aan de eigen ter zake bevoegde ambtenaren.
+##### Article 12. Meeting of experts
 
-##### Artikel 11. Kosten
+1. The Parties shall co-operate to solve any problems that arise in the context of the implementation of the Agreement and this Protocol.
 
-1. Door de aangezochte Staat gemaakte kosten in verband met terug- of overname en doorgeleiding welke op grond van artikel 16 van de Overeenkomst ten laste van de verzoekende Staat komen, worden door de verzoekende Staat na overlegging van een factuur vergoed. Deze factuur vermeldt tevens de bankgegevens van de aangezochte Staat.
+2. Upon request of one of the Parties, a meeting of experts, consisting of representatives of the competent authorities of the Parties, shall be convened.
 
-2. De verzoekende Staat zal alle kosten binnen dertig (30) dagen na ontvangst van de factuur aan de aangezochte Staat vergoeden.
+##### Article 13. Language
 
-##### Artikel 12. Vergadering van deskundigen
+The Parties shall communicate with one another in the English language.
 
-1. De Partijen dienen samen te werken om problemen rond de uitvoering van de Overeenkomst en dit Protocol op te lossen.
+##### Article 14. Annexes
 
-2. Op verzoek van één van de Partijen wordt er een vergadering van deskundigen, bestaande uit vertegenwoordigers van de bevoegde autoriteiten van de Partijen, bijeengeroepen.
+1. Annexes 1 to 5 shall constitute an integral part of this Protocol.
 
-##### Artikel 13. Taal
+2. Any amendments to the Annexes to this Protocol shall be agreed in writing between the Parties and shall enter into force in accordance with the conditions to be determined by the Parties.
 
-De Partijen communiceren met elkaar in de Engelse taal.
+##### Article 15. Amendments
 
-##### Artikel 14. Bijlagen
+1. This Protocol may be amended by mutual agreement between the Parties.
 
-1. De bijlagen 1 tot en met 5 maken een integrerend deel uit van dit Protocol.
+2. Any amendment to the Protocol shall enter into force in accordance with the procedure laid down in [Article 18, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0006769) of this Protocol.
 
-2. Elke wijziging van de bijlagen bij dit Protocol wordt schriftelijk overeengekomen tussen de Partijen en wordt van kracht overeenkomstig de door de Partijen te bepalen voorwaarden.
+##### Article 16. Territorial application
 
-##### Artikel 15. Wijzigingen
+This Protocol applies within the territory of the Republic of Armenia, and within the territory of the Kingdom of Belgium, the territory of the Grand Duchy of Luxembourg and the territory of the Kingdom of the Netherlands where the [Treaty on the Functioning of the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is applicable.
 
-1. Dit Protocol kan in onderlinge overeenstemming tussen de Partijen worden gewijzigd.
+##### Article 17. Depositary
 
-2. Elke wijziging van het Protocol wordt van kracht overeenkomstig de in [artikel 18, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&artikel=18&z=2023-09-01&g=2023-09-01), van dit Protocol omschreven procedure.
+The General Secretariat of the Benelux shall be the depositary of this Protocol. The depositary shall provide each State of the Benelux with a true copy of the original.
 
-##### Artikel 16. Territoriaal toepassingsgebied
+##### Article 18. Entry into force, suspension and termination
 
-Dit Protocol is van toepassing op het grondgebied van de Republiek Armenië, alsook op het grondgebied van het Koninkrijk België, het grondgebied van het Groothertogdom Luxemburg en het grondgebied van het Koninkrijk der Nederlanden waar het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) op dit grondgebied van toepassing is.
+1. The Parties shall notify each other and the depositary on the completion of their national procedures for the entry into force of this Protocol.
 
-##### Artikel 17. Depositaris
+2. In accordance with Article 23, paragraph 2 of the Agreement, this Protocol shall enter into force on the first day of the second month after the Joint Readmission Committee has been notified by the depositary that all Parties have completed their respective internal procedures necessary therefore. A copy of this notification shall be distributed by the depositary among all Parties.
 
-Het Secretariaat-Generaal van de Benelux is de depositaris van dit Protocol. De depositaris bezorgt elke Benelux-Staat een eensluidend afschrift van het origineel.
+3. The [Agreement between the States of the Benelux (the Kingdom of Belgium, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands) and the Republic of Armenia concerning the readmission of persons who are residing without authorisation](https://wetten.overheid.nl/BWBV0003398), signed at Brussels on 3 June 2009, shall be withdrawn upon entry into force of this Protocol.
 
-##### Artikel 18. Inwerkingtreding, schorsing en beëindiging
-
-1. De Partijen informeren elkaar en de depositaris over de voltooiing van hun nationale procedures voor de inwerkingtreding van dit Protocol.
-
-2. Overeenkomstig artikel 23, lid 2, van de Overeenkomst treedt dit Protocol in werking op de eerste dag van de tweede maand nadat de depositaris het Gemengd Comité overname ervan in kennis heeft gesteld dat de daarvoor noodzakelijke interne procedures door iedere Partij zijn voltooid. Een afschrift van deze kennisgeving wordt door de depositaris aan iedere Partij verstrekt.
-
-3. De op 3 juni 2009 te Brussel ondertekende [Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Republiek Armenië betreffende de overname van onregelmatig verblijvende personen](https://wetten.overheid.nl/jci1.3:c:BWBV0003398), wordt ingetrokken bij de inwerkingtreding van dit Protocol.
-
-4. Het Protocol wordt voor onbepaalde tijd gesloten. De uitvoering van het Protocol wordt tegelijk met de schorsing van de Overeenkomst geschorst. Dit Protocol wordt tegelijk met de opzegging van de Overeenkomst opgezegd.
+4. The Protocol is concluded for an unlimited period. The implementation of the Protocol is suspended simultaneously with the suspension of the Agreement. This Protocol terminates simultaneously with the termination of the Agreement.
 
 DONE at Brussels, on 20 June 2018 in two original versions in the Armenian, Dutch, French and English language, the texts in each of the languages being equally authentic. In the event of any divergence of interpretation of the provisions of the Protocol, the English text shall prevail.
 
-**For the Republic of Armenia,**
+*For the Republic of Armenia,*
 
 T. MARKARIAN
 
-**For the Kingdom of Belgium,**
+*For the Kingdom of Belgium,*
 
 T. FRANCKEN
 
-**For the Grand Duchy of Luxembourg,**
+*For the Grand Duchy of Luxembourg,*
 
 A. CONZEMIUS
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 W. LIBON

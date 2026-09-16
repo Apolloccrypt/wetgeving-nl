@@ -1,46 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Verenigde Staten van Amerika, inzake toegang tot en gebruik van faciliteiten op Curaçao voor humanitaire bevoorradingen bedoeld voor de bevolking van de Bolivariaanse Republiek Venezuela"
 identifier: "BWBV0006795"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-03-15"
-last_updated: "2019-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006795"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005470513"
-version_id: "10005945002"
-internal_id: "C10009525091"
-label_id: "10005453644"
-dtd_version: "2.0"
-original_entry_into_force: "2019-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006795/2019-03-15/0"
-intitule_bron: "Trb.2019-46"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-03-15"
-intitule_in_force: "2019-03-15"
-intitule_status: "goed"
-original_publication: "Trb.2019-46"
-original_published_date: "2019-03-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2019-46"
-entry_into_force_date: "2019-03-15"
-jci_1_3: "jci1.3:c:BWBV0006795&z=2019-03-15&g=2019-03-15"
-jci_1_0: "1.0:c:BWBV0006795&g=2019-03-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-03-15"
+publicatiedatum: 2019-03-15
+laatste_update: 2019-03-15
+status: geldig
+toestand: 2019-03-15
+bron: "https://wetten.overheid.nl/BWBV0006795"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Verenigde Staten van Amerika, inzake toegang tot en gebruik van faciliteiten op Curaçao voor humanitaire bevoorradingen bedoeld voor de bevolking van de Bolivariaanse Republiek Venezuela
 
-The Kingdom of the Netherlands, in respect of Curaçao,
-
-And
-
-The United States of America
-
-(hereinafter referred to as the Parties),
-
-Have agreed as follows:
+*The Kingdom of the Netherlands, in respect of Curaçao, And The United States of America (hereinafter referred to as the Parties), Have agreed as follows:*
 
 ##### Article I. Definitions
 
@@ -82,7 +55,7 @@ The United States Government intends to endeavor to use its best efforts, consis
 
 ##### Article VII. Applicability FOL Agreement
 
-Except as otherwise provided for in this Agreement, [Articles VI](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=VI), [VII (paragraphs 1-3)](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=VII)[VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=VIII), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XIII), [XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XVII), [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XVIII), and [XIX (paragraphs 1, 2, 4 and 5) of the Agreement of Cooperation between the Kingdom of the Netherlands and the Government of the United States of America Concerning Access to and Use of Facilities in the Netherlands Antilles and Aruba for Aerial Counter-Narcotics Activities](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XIX), done at Oranjestad on 2 March 2000 (“FOL Agreement”), shall apply **mutatis mutandis** to United States personnel, Implementing Partners or the U.S. government, as the case may be. For purposes of this Agreement, Implementing Partners shall receive the same guarantees, protections, and assurances as Contractors receive under the [FOL Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001980).
+Except as otherwise provided for in this Agreement, [Articles VI](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=VI), [VII (paragraphs 1-3)](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=VII)[VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=VIII), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XIII), [XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XVII), [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XVIII), and [XIX (paragraphs 1, 2, 4 and 5) of the Agreement of Cooperation between the Kingdom of the Netherlands and the Government of the United States of America Concerning Access to and Use of Facilities in the Netherlands Antilles and Aruba for Aerial Counter-Narcotics Activities](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XIX), done at Oranjestad on 2 March 2000 (“FOL Agreement”), shall apply *mutatis mutandis* to United States personnel, Implementing Partners or the U.S. government, as the case may be. For purposes of this Agreement, Implementing Partners shall receive the same guarantees, protections, and assurances as Contractors receive under the [FOL Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001980).
 
 ##### Article VIII. Settlement Of Disputes
 
@@ -102,13 +75,13 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized by their respective G
 
 SIGNED in duplicate in the English language.
 
-**For the Kingdom of the Netherlands, in respect of Curaçao,**
+*For the Kingdom of the Netherlands, in respect of Curaçao,*
 
 EUGENE RHUGGENAATH
 
 Date: 15 March 2019
 
-**For the United States of America,**
+*For the United States of America,*
 
 PETE HOEKSTRA
 

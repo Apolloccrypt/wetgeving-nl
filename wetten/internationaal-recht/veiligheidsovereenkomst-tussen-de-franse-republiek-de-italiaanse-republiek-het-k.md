@@ -1,46 +1,19 @@
 ---
 title: "Veiligheidsovereenkomst tussen de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, de Portugese Republiek en het Koninkrijk Spanje betreffende de bescherming van gerubriceerde informatie van de European Gendarmerie Force (EUROGENDFOR)"
 identifier: "BWBV0006669"
-country: "nl"
-rank: "verdrag"
-publication_date: "2020-12-05"
-last_updated: "2020-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006669"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10005402793"
-version_id: "10005837862"
-internal_id: "C10009765171"
-label_id: "10005385494"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006669/2020-12-05/0"
-intitule_bron: "Trb.2017-49"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-03-30"
-intitule_in_force: "2020-11-20"
-intitule_status: "goed"
-original_publication: "Trb.2017-49"
-original_published_date: "2017-03-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2017-49"
-entry_into_force_date: "2020-12-05"
-jci_1_3: "jci1.3:c:BWBV0006669&z=2020-12-05&g=2020-12-05"
-jci_1_0: "1.0:c:BWBV0006669&g=2020-12-05"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-12-05"
+publicatiedatum: 2020-12-05
+laatste_update: 2020-12-05
+status: geldig
+toestand: 2020-12-05
+bron: "https://wetten.overheid.nl/BWBV0006669"
+opgehaald: 2026-09-16
 ---
+
 # Veiligheidsovereenkomst tussen de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, de Portugese Republiek en het Koninkrijk Spanje betreffende de bescherming van gerubriceerde informatie van de European Gendarmerie Force (EUROGENDFOR)
 
-De Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, de Portugese Republiek en het Koninkrijk Spanje, hierna te noemen „de Partijen”,
-
-Overwegende de Intentieverklaring betreffende EUROGENDFOR, ondertekend te Noordwijk op 17 september 2004;
-
-Overwegende [artikel 12 van het Verdrag tussen de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, de Portugese Republiek en het Koninkrijk Spanje tot oprichting van de European Gendarmerie Force (EUROGENDFOR)](https://wetten.overheid.nl/jci1.3:c:BWBV0005856&artikel=12), getekend te Velsen (Nederland) op 18 oktober 2007;
-
-In het besef dat voor de uitvoering van de aan EUROGENDFOR opgedragen taken en het bereiken van de doelen van EUROGENDFOR de uitwisseling van gerubriceerde informatie noodzakelijk is;
-
-Zijn het volgende overeengekomen:
+*De Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, de Portugese Republiek en het Koninkrijk Spanje, hierna te noemen „de Partijen”, Overwegende de Intentieverklaring betreffende EUROGENDFOR, ondertekend te Noordwijk op 17 september 2004; Overwegende artikel 12 van het Verdrag tussen de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, de Portugese Republiek en het Koninkrijk Spanje tot oprichting van de European Gendarmerie Force (EUROGENDFOR), getekend te Velsen (Nederland) op 18 oktober 2007; In het besef dat voor de uitvoering van de aan EUROGENDFOR opgedragen taken en het bereiken van de doelen van EUROGENDFOR de uitwisseling van gerubriceerde informatie noodzakelijk is; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Reikwijdte en doel
 
@@ -76,7 +49,7 @@ Met betrekking tot gerubriceerde informatie zoals omschreven in [artikel 2](http
 
 1. De Partijen verklaren dat de hieronder genoemde rubriceringsniveaus overeenkomen met de in hun eigen nationale wetten en regelgeving gedefinieerde niveaus.
 
-| **EUROGENDFOR** | **FRANKRIJK** | **ITALIË** | **NEDERLAND** | **PORTUGAL** | **SPANJE** |
+| EUROGENDFOR | FRANKRIJK | ITALIË | NEDERLAND | PORTUGAL | SPANJE |
 | --- | --- | --- | --- | --- | --- |
 | EUROGENDFOR TOP SECRET | TRES SECRET DEFENSE | SEGRETISSIMO | STG. ZEER GEHEIM | MUITO SECRETO | SECRETO |
 | EUROGENDFOR SECRET | SECRET DEFENSE | SEGRETO | STG. GEHEIM | SECRETO | RESERVADO |

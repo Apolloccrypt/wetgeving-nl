@@ -1,170 +1,107 @@
 ---
 title: "Overeenkomst nopens verschillende vraagstukken betreffende het stelsel toepasselijk op de Rijnvaart"
 identifier: "BWBV0006274"
-country: "nl"
-rank: "verdrag"
-publication_date: "1939-04-03"
-last_updated: "1939-04-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006274"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005130593"
-version_id: "10005482952"
-internal_id: "C10008458181"
-label_id: "10005113854"
-dtd_version: "2.0"
-original_entry_into_force: "1939-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006274/1939-04-03/0"
-intitule_bron: "Stb.1939-22"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1939-05-22"
-intitule_published: "1939-06-02"
-intitule_in_force: "1939-06-02"
-intitule_status: "goed"
-original_publication: "Stb.1939-22"
-original_signed_date: "1939-05-22"
-original_published_date: "1939-06-02"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1939-04-03"
-jci_1_3: "jci1.3:c:BWBV0006274&z=1939-04-03&g=1939-04-03"
-jci_1_0: "1.0:c:BWBV0006274&g=1939-04-03"
-citeertitel_status: "redactioneel"
-signed_date: "1939-05-22"
-entry_into_force: "1939-04-03"
+publicatiedatum: 1939-04-03
+laatste_update: 1939-04-03
+status: geldig
+toestand: 1939-04-03
+bron: "https://wetten.overheid.nl/BWBV0006274"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst nopens verschillende vraagstukken betreffende het stelsel toepasselijk op de Rijnvaart
 
-België, Frankrijk en Nederland,
+*La Belgique, la France et les Pays-Bas, Désireux, en ce qui les concerne, de préciser et de compléter sur certains points le régime applicable à la navigation sur le Rhin et sur les eaux adjacentes, visées dans la Convention de Mannheim du 17 Octobre 1868, sans cependant porter atteinte au principe de collaboration entre tous les Etats appelés à faire partie, comme eux-mêmes, de la communauté rhénane, Sont convenus des dispositions suivantes:*
 
-Vervuld met den wensch, voor zoover hen betreft, het stelsel, van toepassing op de scheepvaart op den Rijn en op de aangrenzende wateren, bedoeld in de Overeenkomst van Mannheim van 17 October 1868, op bepaalde punten nauwkeuriger te omschrijven en aan te vullen, zonder evenwel inbreuk te maken op het beginsel van samenwerking tusschen alle Staten, die, evenals zijzelven, geroepen zijn, deel uit te maken van de gemeenschap van den Rijn,
+##### Article 1
 
-zijn omtrent de navolgende bepalingen overeengekomen:
+Les marchandises arrivant à Strasbourg, ou en partant, par la voie du Rhin, pour être considérées comme transportées en droiture aux termes de la législation française, peuvent indifféremment être transbordées, avec ou sans entreposage, dans les ports belges d'Anvers et de Gand et les ports néerlandais d'Amsterdam, de Dordrecht et de Rotterdam y compris Vlaardingen, Schiedam et Hoek van Holland.
 
-##### Artikel 1
+Les justifications à produire pour bénéficier du régime visé ci-dessus sont déterminées par la législation française.
 
-Goederen, welke over den Rijn Straatsburg bereiken dan wel verlaten, kunnen, om te worden aangemerkt als zijnde rechtstreeks vervoerd in den zin van de Fransche wetgeving, zonder onderscheid worden overgeladen, met of zonder opslag in entrepôt, in de Belgische havens Antwerpen en Gent en in de Nederlandsche havens Amsterdam, Dordrecht en Rotterdam met inbegrip van Vlaardingen, Schiedam en Hoek van Holland.
+Toutes les facilités qui seraient accordées par la France aux marchandises transitant par un des ports visés à l'alinéa premier seront étendues à tous les autres ports énumérés audit alinéa.
 
-De documenten, welke moeten worden overgelegd om de voordeelen te genieten van bovenbedoelde regeling, worden bepaald door de Fransche wetgeving.
+##### Article 2
 
-Alle faciliteiten, welke door Frankrijk mochten worden verleend aan goederen, welke in doorvoer worden vervoerd door een der havens bedoeld in het eerste lid, zullen worden uitgebreid tot alle andere havens genoemd in dat lid.
+Le régime défini à l'article Ier, en ce qui concerne les marchandises transitant par les ports néerlandais, sera appliqué:
 
-##### Artikel 2
+- a) à la date d'entrée en vigueur du présent accord, aux marchandises originaires des territoires néerlandais d'outre-mer;
 
-De in artikel 1 vastgestelde regeling zal, voor wat betreft de goederen, welke in doorvoer worden vervoerd door de Nederlandsche havens, worden toegepast:
+- b) un an après cette date, aux marchandises en provenance ou à destination des ports français (y compris les ports algériens);
 
-- a). op den dag van inwerkingtreding van deze overeenkomst, op goederen afkomstig uit de Nederlandsche overzeesche gebiedsdeelen;
+- c) deux ans et demi après la même date, aux marchandises en provenance ou à destination des colonies et protectorats français;
 
-- b). een jaar na dien dag op goederen afkomstig van, of bestemd voor de Fransche havens (met inbegrip van de Algerijnsche havens);
+- d) quatre ans après ladite date, aux marchandises d'origine européenne;
 
-- c). twee en een half jaar na dienzelfden dag op goederen afkomstig van, of bestemd voor de Fransche koloniën en protectoraten;
+- e) cinq ans après la date d'entrée en vigueur du présent accord, à toutes les autres marchandises.
 
-- d). vier jaar na den genoemden dag op goederen van Europeeschen oorsprong;
+##### Article 3
 
-- e). vijf jaar na den dag van inwerkingtreding van deze overeenkomst, op alle andere goederen.
+En ce qui concerne la navigation rhénane, les Gouvernements belge et néerlandais s'engagent, pendant un délai de dix ans, à dater de l'entrée en vigueur du présent Accord, à n'aggraver, sans entente préalable entre eux, aucune mesure actuellement existante destinée à favoriser le trafic en provenance ou à destination des ports belges au détriment des ports néerlandais, et réciproquement.
 
-##### Artikel 3
+Pendant le même délai, les deux Gouvernements s'engagent à ne prendre aucune mesure nouvelle de même ordre sans entente préalable entre eux.
 
-De Belgische en de Nederlandsche Regeering verbinden zich, voor wat betreft de Rijnvaart, om gedurende een tijdsverloop van tien jaar, beginnende met den dag van inwerkingtreding van deze overeenkomst, zonder voorafgaande onderlinge overeenstemming, geen op dit oogenblik bestaanden maatregel te verscherpen, welke bestemd is om het vervoer afkomstig van of bestemd voor de Belgische havens te begunstigen ten nadeele van de Nederlandsche havens en omgekeerd.
+##### Article 4
 
-De beide Regeeringen verbinden zich om gedurende hetzelfde tijdsverloop geen nieuwe maatregelen van gelijken aard te treffen zonder voorafgaande onderlinge overeenstemming.
+En ce qui concerne spécialement les primes accordées par le Gouvernement belge au trafic par le Rhin à la montée et à la descente de certaines marchandises, il est convenu que, pendant le délai de dix ans fixé à l'article précédent, le montant total annuel actuellement affecté au service de ces primes ne sera pas majoré, que le taux unitaire alloué par tonne ne sera pas augmenté, et que des primes ne seront pas allouées à des marchandises qui n'en bénéficient pas actuellement.
 
-##### Artikel 4
+Il est convenu également qu'au cas où le trafic fluvial, effectué pendant une année au départ des ports de mer belges, à destination du Rhin en amont de la frontière entre les Pays-Bas et l'Allemagne dépasserait au total 24 % de l'ensemble du trafic fluvial arrivant à ladite frontière tant des ports de mer belges que des ports de mer néerlandais, le Gouvernement belge s'engage à procéder à un réajustement du régime des primes, de manière que le trafic rhénan au départ des ports de mer belges soit ramené en deçà de la limite de 24 % prévue au présent alinéa.
 
-Voor wat in het bijzonder betreft de premiën, welke door de Belgische Regeering worden verleend voor het vervoer langs den Rijn van bepaalde goederen, stroomopwaarts en stroomafwaarts, wordt overeengekomen, dat gedurende het tijdsverloop van tien jaar, bepaald in het vorige artikel, het gezamenlijke jaarlijksche bedrag, dat thans voor den dienst van die premiën is bestemd, niet zal worden verhoogd, dat het tarief van de premiën per ton, zooals die worden toegekend, niet zal worden verhoogd, en dat geen premiën zullen worden toegekend aan goederen, welke die thans niet genieten.
+Le montant total annuel visé à l'alinéa premier est de 16.400.000 francs belges, dont 4.000.000 au maximum pourront être affectés au trafic à la descente.
 
-Eveneens wordt overeengekomen, dat in het geval, dat gedurende een jaar het vervoer te water uit de Belgische zeehavens met bestemming voor den Rijn boven de grens tusschen Nederland en Duitschland in totaal 24 % mocht overschrijden van de som van het vervoer te water, dat bij genoemde grens aankomt, zoowel van de Belgische zeehavens als van de Nederlandsche zeehavens, de Belgische Regeering zich verbindt over te gaan tot een herziening van het stelsel der premiën, zoodanig, dat het Rijnverkeer afkomstig uit de Belgische zeehavens wordt teruggebracht beneden de grens van 24 %, bedoeld in dit lid.
+Toutefois, au cas où, pendant une année, le rapport entre les deux trafics visés au second alinéa du présent article tomberait au-dessous de 18 %, le Gouvernement belge aura le droit de réajuster le régime des primes. Ce réajustement ne pourra être maintenu qu'autant que ledit rapport pour une année n'aura pas atteint 21 %.
 
-Het gezamenlijke jaarlijksche bedrag, bedoeld in het eerste lid, bedraagt 16.400.000 Belgische francs, waarvan ten hoogste 4.000.000 zullen kunnen worden bestemd voor het vervoer stroomafwaarts.
+Les modalités des réajustements prévus au second et au quatrième alinéas du présent article seront concertées entre les Gouvernements belge et néerlandais. En cas de désaccord, elles seront fixées suivant une procédure sommaire d'arbitrage à déterminer sans délai par entente entre les deux Gouvernements intéressés.
 
-Evenwel zal, in het geval, dat gedurende een jaar de verhouding tusschen de beide soorten van vervoer, bedoeld in het tweede lid, tot beneden 18 % mocht dalen, de Belgische Regeering het recht hebben, het stelsel der premiën te herzien. Deze herziening kan slechts worden gehandhaafd, zoolang bedoelde verhouding gedurende één jaar 21 % niet zal hebben bereikt.
+Les Pays-Bas renoncent à allouer, pendant la même période de dix ans, des primes au trafic en provenance ou à destination du Rhin.
 
-De wijze waarop de herzieningen, bedoeld in het tweede en het vierde lid zullen geschieden, zal onderling worden overeengekomen tusschen de Belgische en de Nederlandsche Regeering. Bij gebreke van overeenstemming, zal zij worden bepaald volgens een summiere arbitrage-procedure, welke zonder verwijl zal worden vastgesteld in overeenstemming tusschen de beide belanghebbende Regeeringen.
+Le trafic mixte rhénan et maritime sans transbordement n'est pas considéré comme trafic fluvial au sens du présent article.
 
-Nederland ziet, gedurende hetzelfde tijdsverloop van tien jaar, af van het toekennen van premiën aan het vervoer afkomstig van of bestemd voor den Rijn.
+Pour l'application du présent article sont considérés comme ports de mer belges:
 
-Het Rijn-zeeverkeer zonder overlading wordt niet beschouwd als vervoer over den Rijn in den zin van dit artikel.
+Anvers, Gand, Selzaete, Bruxelles, Bruges, Zeebrugge, Ostende, Louvain, Termonde et Nieuport,
 
-Voor de toepassing van dit artikel worden als Belgische zeehavens beschouwd:
+et comme ports de mer néerlandais:
 
-Antwerpen, Gent, Selzaete, Brussel, Brugge, Zeebrugge, Oostende, Leuven, Dendermonde en Nieuwpoort,
+Rotterdam y compris Schiedam, Vlaardingen et Hoek van Holland, Amsterdam, Dordrecht, Terneuzen, Sluiskil, Flessingue, Velsen, Harlingen et Delfzyl.
 
-en als Nederlandsche zeehavens:
+##### Article 5
 
-Rotterdam met ingebrip van Schiedam, Vlaardingen en Hoek van Holland, Amsterdam, Dordrecht, Terneuzen, Sluiskil, Vlissingen, Velsen, Harlingen en Delfzijl.
+Les Gouvernements belge et néerlandais institueront une Commission mixte en vue d'examiner la possibilité de fixer, d'un commun accord, les taxes et redevances dans les ports d'Anvers, Gand, Rotterdam et Amsterdam.
 
-##### Artikel 5
+La Commission déposera la partie de son rapport relative aux droits de port (havengelden) en ce qui concerne les droits afférents aux navires n'appartenant pas à un service régulier, dans les trois mois à compter de la date d'entrée en vigueur du présent accord, et, en ce qui concerne ceux applicables aux autres navires, dans les six mois à compter de cette date.
 
-De Belgische en Nederlandsche Regeeringen zullen een gemengde Commissie instellen om de mogelijkheid te onderzoeken om in gemeen overleg, de heffingen en vergoedingen vast te stellen in de havens van Antwerpen, Gent, Amsterdam en Rotterdam.
+Les droits de port applicables aux navires n'appartenant pas à un service régulier ne seront pas modifiés pendant un délai de trois mois à compter de la date d'entrée en vigueur du présent accord, sauf entente entre les Gouvernements intéressés; les droits applicables aux autres navires ne seront pas modifiés pendant un délai de six mois à compter de cette entrée en vigueur, sauf entente entre lesdits Gouvernements.
 
-De Commissie zal het deel van haar rapport, betrekking hebbende op de havengelden, indienen binnen drie maanden, te rekenen van den dag der inwerkingtreding van deze overeenkomst, voor wat betreft de havengelden, voor schepen niet behoorend tot een geregelden dienst, en binnen zes maanden te rekenen van dien dag, voor wat betreft de havengelden voor de overige schepen.
+##### Article 6
 
-De havengelden voor schepen, niet behoorend tot een geregelden dienst, zullen niet worden gewijzigd gedurende een tijdsverloop van drie maanden, te rekenen van den dag der inwerkingtreding van deze overeenkomst, behoudens overeenstemming tusschen de belanghebbende Regeeringen; de havengelden voor de overige schepen zullen niet worden gewijzigd gedurende een tijdsverloop van zes maanden, te rekenen van die inwerkingtreding, behoudens overeenstemming tusschen de genoemde Regeeringen.
+En attendant l'établissement d'un nouveau régime général pour la navigation du Rhin, répondant aux conditions prévues à l'article 7 ci-après, les Etats contractants acceptent qu'outre les dispositions des articles 2, 3, 4 et 5 de la Convention de Mannheim du 17 Octobre 1868, modifiées et complétées ainsi qu'il est dit à l'article 9 du présent accord, les dispositions des articles 7, 9, 10, 11 et 12 de cette Convention soient appliquées, en ce qui concerne la navigation en provenance ou à destination du Rhin, sur les voies navigables reliant le Rhin à la Belgique.
 
-##### Artikel 6
+Au cas où le régime défini par les dispositions énumérées à l'alinéa précédent viendrait à être modifié ou complété sur certains points, les Etats contractants conviennent que ces modifications et additions soient appliquées au trafic visé audit alinéa.
 
-In afwachting van de vaststelling van een nieuw algemeen stelsel voor de Rijnvaart overeenkomstig de omschrijving in het hierna volgende artikel 7, aanvaarden de contracteerende Staten, dat, behalve de bepalingen van de artikelen 2, 3, 4 en 5 van de overeenkomst van Mannheim van 17 October 1868, gewijzigd en aangevuld als aangegeven in artikel 9 van de onderhavige overeenkomst, de artikelen 7, 9, 10, 11 en 12 van eerstgenoemde overeenkomst, voor wat betreft de scheepvaart afkomstig van of bestemd voor den Rijn, zullen worden toegepast op de waterwegen, welke den Rijn met België verbinden.
+##### Article 7
 
-In het geval, dat het stelsel, omschreven in de in het eerste lid van dit artikel genoemde bepalingen, op bepaalde punten mocht worden gewijzigd of aangevuld, komen de contracteerende Staten overeen, dat die wijzigingen en aanvullingen zullen worden toegepast op het vervoer, bedoeld in genoemd lid.
+Les Etats contractants s'engagent à accepter que les principes énoncés dans les chapitres III, IV, VII et VIII du projet de Convention revisée pour la navigation du Rhin arrêté à Strasbourg au mois de Mai 1936 soient appliqués, dans le cadre d'un nouveau régime général du Rhin, aux ports de Rotterdam y compris Vlaardingen, Schiedam et Hoek van Holland, d'Amsterdam, de Dordrecht, d'Anvers et de Gand et que le trafic rhénan à destination ou en provenance aussi bien desdits ports que de la pleine mer ou de la Belgique soit, en ce qui concerne les matières visées auxdits chapitres, traité comme il le serait sur le Rhin même.
 
-##### Artikel 7
+Dans le cadre du nouveau régime général du Rhin visé ci-dessus, les mesures prévues aux articles 2, 3, 4 et 5 du présent Accord seront maintenues.
 
-De contracteerende Staten verbinden zich, te aanvaarden, dat de beginselen, neergelegd in de hoofdstukken III, IV, VII en VIII van het ontwerp tot herziening van de overeenkomst voor de Rijnvaart, vastgesteld te Straatsburg in Mei 1936, binnen het kader van een nieuw algemeen stelsel voor den Rijn zullen worden toegepast op de havens van Amsterdam, Rotterdam met inbegrip van Vlaardingen, Schiedam en Hoek van Holland, Dordrecht, Antwerpen en Gent, en dat het vervoer langs den Rijn, bestemd voor of afkomstig zoowel van genoemde havens als van de open zee of van België, voor wat betreft de onderwerpen bedoeld in genoemde hoofdstukken, zal worden behandeld zooals dit het geval zou zijn op den Rijn zelf.
+##### Article 8
 
-Binnen het kader van het hierboven bedoelde nieuwe algemeene stelsel voor den Rijn, zullen de maatregelen, omschreven in de artikelen 2, 3, 4 en 5 van deze overeenkomst, blijven gelden.
+Les Etats contractants concerteront leurs efforts en vue du rétablissement de la communauté rhénane dans une pleine égalité des droits.
 
-##### Artikel 8
+Ils s'engagent, pendant la continuation de ces efforts, à ne consentir que d'un commun accord à des modifications du régime actuellement applicable à la navigation du Rhin.
 
-De contracteerende Staten zullen in onderling overleg pogingen aanwenden teneinde de gemeenschap van den Rijn te herstellen op de basis van volledige gelijkheid van rechten.
+##### Article 9
 
-Zij verbinden zich om, gedurende de voortzetting dier pogingen, slechts in onderlinge overeenstemming toe te stemmen in wijzigingen van het thans op de Rijnvaart van toepassing zijnde stelsel.
+Le présent Accord demeurera en vigueur aussi longtemps que continueront à être appliquées par les Etats contractants les dispositions de la Convention de Mannheim du 17 Octobre 1868, modifiées par les clauses du Traité de Versailles du 28 juin 1919, dans la mesure où les Pays-Bas y ont adhéré par les protocoles du 21 Janvier 1921 et du 29 Mars 1923.
 
-##### Artikel 9
+##### Article 10
 
-Deze overeenkomst zal van kracht blijven, zoolang de contracteerende Staten voortgaan met het toepassen van de bepalingen van de overeenkomst van Mannheim van 17 October 1868, gewijzigd door de bepalingen van het Verdrag van Versailles van 28 Juni 1919, voorzoover Nederland zich daarbij heeft aangesloten bij de protocollen van 21 Januari 1921 en 29 Maart 1923.
+Le présent accord entrera en vigueur le jour de sa signature.
 
-##### Artikel 10
-
-Deze overeenkomst zal in werking treden op den dag van haar onderteekening.
-
-Evenwel zullen de artikelen 1 en 2, zoomede de bepaling van het derde lid van het onderteekeningsprotocol ad artikel 6 in toepassing worden gebracht op den 1sten Mei 1939.
-
-Bij de gelegenheid van de onderteekening van de overeenkomst nopens verschillende vraagstukken betreffende het stelsel toepasselijk op de Rijnvaart, zijn de ondergeteekenden, daartoe behoorlijk gevolmachtigd, overeengekomen, daaraan de navolgende nadere bepalingen toe te voegen, welke van gelijke kracht en gelijken geldigheidsduur zullen zijn als de genoemde overeenkomst:
-
-##### Ad Artikel 4.
-
-Het is wel verstaan, dat voor de toepassing van artikel 4, de statistieken betreffende het vervoer langs den Rijn van de Belgische zeehavens zullen worden samengesteld door het „Bijzonder Komiteit der Scheepvaartwegen van België naar den Rijn” en die betreffende het vervoer aan de grens tusschen Nederland en Duitschland door het Centraal Bureau voor de Statistiek in Nederland.
-
-De Nederlandsche Regeering zal de noodige maatregelen nemen om te bereiken, dat een behoorlijke contrôle wordt verzekerd ten opzichte van de aan genoemde grens in te winnen statistische gegevens, aan de bijzondere eischen van deze overeenkomst beantwoordende.
-
-De Nederlandsche en de Belgische Regeering garandeerden de juistheid van de door hunne diensten verzamelde statistische gegevens.
-
-##### Ad Artikel 4, vierde alinea.
-
-Het is wel verstaan, dat de herziening, bedoeld in het vierde lid van artikel 4, geen verhooging van het jaarlijksche gezamenlijke bedrag, bedoeld in het derde lid van genoemd artikel, met zich kan brengen, noch een uitbreiding van het verleenen van premies aan goederen, die deze thans niet genieten.
-
-Evenwel zal, in het geval dat gedurende het laatste halfjaar van een jaar, de verhouding van den belga tot het goud een vermindering van meer dan 15 % van den huidigen koers zoude aanwijzen, de herziening een vermeerdering van het genoemde bedrag tot gevolg kunnen hebben, welke vermeerdering het percentage van de waardevermindering van den belga niet zal overschrijden.
-
-De tegenwoordige koers van den belga tegenover het goud is 6615,46 voor 1 kilogram fijn goud. De koersen, waarmede rekening zal worden gehouden in geval van wijziging in de verhouding van den belga tot het goud zijn die, welke gepubliceerd worden in het „Bulletin d'Information et de Documentation de la Banque Nationale de Belgique”, onder de rubriek: „Koers van de edele metalen te Londen”.
-
-##### Ad Artikel 6.
-
-Het is wel verstaan, dat de nieuwe faciliteiten, welke zouden worden toegestaan overeenkomstig de bepalingen van het tweede lid van artikel 6, zullen worden uitgebreid tot de scheepvaart komende van of met bestemming voor den Rijn, op het Belgische gedeelte van de zee-Schelde.
-
-In het geval, dat deze faciliteiten aan de bedoelde scheepvaart zouden worden toegekend op de wateren, welke den Rijn met de haven van Amsterdam verbinden, zullen zij ook toepassing vinden op het Belgische gedeelte van het kanaal van Gent naar Terneuzen.
-
-Het is wel verstaan, dat voor de toepassing van artikel 9 van de overeenkomst van Mannheim op den Rijn, zijn mondingen, en de wateren, welke den Rijn met België verbinden, in geen geval andere kosten van de douane-begeleiding in rekening zullen worden gebracht dan die voor voeding, vuur en licht, onverschillig of de lading al of niet overgeladen of in entrepôt gebracht is in een vrijhaven van den Rijn.
-
-Evenwel zal de kosteloosheid van de begeleiding, zooals deze in het vorige lid is omschreven, voor Belgische vaartuigen slechts zoolang op de wateren, welke den Rijn met België verbinden, worden gehandhaafd als deze zelfde kosteloosheid toegepast zal blijven op de scheepvaart komende van of bestemd naar den Rijn, op het Belgische gedeelte van de zee-Schelde en van het kanaal van Gent naar Terneuzen.
-
-Ingeval de kosteloosheid van de begeleiding zou worden opgeheven op de wateren, welke België met den Rijn verbinden, zal het de Belgische Regeering vrijstaan, zulks in afwijking van artikel 3, de kosten van begeleiding aan de belanghebbenden te vergoeden.
-
-##### Ad Artikel 7.
-
-De Nederlandsche Gevolmachtigden verklaren, dat de Nederlandsche Regeering zich het recht voorbehoudt, om in het kader van een nieuw algemeen stelsel voor de Rijnvaart, de wetgeving betreffende de evenredige vrachtverdeeling toe te passen op het binnenlandsche Nederlandsche vervoer op de Nederlandsche wateren, bedoeld in artikel 7.
-
-##### Ad Artikel 9.
-
-Het is wel verstaan, dat op artikel 9 geen beroep kan worden gedaan om het permanente karakter van de overeenkomst van Mannheim, alsmede van de bepalingen van de verdragen en protocollen, bedoeld in genoemd artikel, te betwisten.
+Toutefois, les articles 1 et 2 ainsi que la disposition du troisième alinéa du Protocole de signature ad. article 6 seront mis en application le Ier Mai 1939.
 
 EN FOI DE QUOI, les soussigné, dûment autorisés ont signé le présent Accord et y ont apposé leur sceau.
 

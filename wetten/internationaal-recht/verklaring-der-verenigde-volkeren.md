@@ -1,35 +1,30 @@
 ---
 title: "Verklaring der Verenigde Volkeren"
 identifier: "BWBV0006263"
-country: "nl"
-rank: "verdrag"
-publication_date: "1942-01-01"
-last_updated: "1942-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006263"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005125443"
-version_id: "10005476742"
-internal_id: "C10008450181"
-label_id: "10005108214"
-dtd_version: "2.0"
-original_entry_into_force: "1942-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006263/1942-01-01/0"
-intitule_bron: "Trb.1951-136"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1951-11-08"
-intitule_in_force: "1951-11-08"
-intitule_status: "goed"
-original_publication: "Trb.1951-136"
-original_published_date: "1951-11-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1951-136"
-entry_into_force_date: "1942-01-01"
-jci_1_3: "jci1.3:c:BWBV0006263&z=1942-01-01&g=1942-01-01"
-jci_1_0: "1.0:c:BWBV0006263&g=1942-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1942-01-01"
+publicatiedatum: 1942-01-01
+laatste_update: 1942-01-01
+status: geldig
+toestand: 1942-01-01
+bron: "https://wetten.overheid.nl/BWBV0006263"
+opgehaald: 2026-09-16
 ---
+
 # Verklaring der Verenigde Volkeren
+
+A Joint Declaration by the United States of America, the United Kingdom of Great Britain and Northern Ireland, the Union of Soviet Socialist Republics, China, Australia, Belgium, Canada, Costa Rica, Cuba, Czechoslovakia, Dominican Republic, El Salvador, Greece, Guatemala, Haiti, Honduras, India, Luxemburg, Netherlands, New Zealand, Nicaragua, Norway, Panama, Poland, South Africa, Yugoslavia.
+
+The Governments signatory hereto,
+
+Having subscribed to a common programme of purposes and principles embodied in the Joint Declaration of the President of the United States of America and the Prime Minister of the United Kingdom of Great Britain and Northern Ireland, dated August 14, 1941, known as the Atlantic Charter,
+
+Being convinced that complete victory over their enemies is essential to defend life, liberty, independence and religious freedom, and to preserve human rights and justice in their own lands as well as in other lands, and that they are now engaged in a common struggle against savage and brutal forces seeking to subjugate the world, declare:
+
+- (1) Each Government pledges itself to employ its full resources, military or economic, against those members of the Tripartite Pact and its adherents with wich such Government is at war.
+
+- (2) Each Government pledges itself to co-operate with the Governments signatory hereto and not to make a separate armistice or peace with the enemies.
+
+The foregoing declaration may be adhered to by other nations which are, or which may be, rendering material assistance and contributions in the struggle for victory over Hitlerism.
 
 Done at Washington, the 1st January, 1942.

@@ -1,238 +1,211 @@
 ---
 title: "Internationaal Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersvaartuigen, 1995"
 identifier: "BWBV0006295"
-country: "nl"
-rank: "verdrag"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006295"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005150703"
-version_id: "10005507322"
-internal_id: "C10009513361"
-label_id: "10005133924"
-dtd_version: "2.0"
-original_entry_into_force: "2019-03-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006295/2026-01-01/0"
-intitule_bron: "Trb.2013-218"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-10-31"
-intitule_in_force: "2019-02-15"
-intitule_status: "goed"
-original_publication: "Trb.2013-218"
-original_published_date: "2013-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2013-218"
-entry_into_force_date: "2019-03-24"
-jci_1_3: "jci1.3:c:BWBV0006295&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBV0006295&g=2026-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-03-24"
+publicatiedatum: 2019-03-24
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBV0006295"
+opgehaald: 2026-09-16
 ---
+
 # Internationaal Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersvaartuigen, 1995
 
-De partijen bij dit Verdrag,
+*The Parties to this Convention, Noting the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 (hereinafter referred to as the “1978 STCW Convention”), Desiring to further promote safety of life and property at sea and the protection of the marine environment by establishing in common agreement international standards of training, certification and watchkeeping for personnel employed on board fishing vessels, Considering that this end may be best achieved by the conclusion of an International Convention on Standards of Training, Certification and Watchkeeping for Fishing Vessel Personnel, hereinafter referred to as “the Convention”, Have agreed as follows:*
 
-Gelet op het [Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978](https://wetten.overheid.nl/jci1.3:c:BWBV0003452) (hierna te noemen het „STCW-verdrag van 1978”),
+##### Article 1. General obligations
 
-Geleid door de wens de veiligheid van mensenlevens en zaken op zee verder te bevorderen en het mariene milieu verder te beschermen door het in onderling overleg opstellen van internationale normen inzake opleiding, diplomering en wachtdienst van personeel aan boord van vissersvaartuigen,
+1. The Parties undertake to give effect to the provisions of the Convention and the annex thereto, which shall constitute an integral part of the Convention. Every reference to the Convention constitutes at the same time a reference to the [annex](https://wetten.overheid.nl/BWBV0006295) thereto.
 
-Overwegend dat dit doel het best kan worden bereikt door het sluiten van een Internationaal Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersvaartuigen, hierna te noemen „het Verdrag”,
+2. The Parties undertake to promulgate all laws, decrees, orders and regulations and to take all other steps which may be necessary to give the Convention full and complete effect, so as to ensure that, from the point of view of safety of life and property at sea and the protection of the marine environment, seagoing fishing vessel personnel are qualified and fit for their duties.
 
-Zijn het volgende overeengekomen:
+##### Article 2. Definitions
 
-##### Artikel 1. Algemene verplichtingen
+For the purpose of the Convention, unless expressly provided otherwise:
 
-1. De partijen verplichten zich ertoe uitvoering te geven aan de bepalingen van het Verdrag en van de bijlage daarbij, die een integrerend onderdeel vormt van het Verdrag. Elke verwijzing naar het Verdrag houdt tegelijkertijd een verwijzing in naar de bijlage daarbij.
+- .1 *Party* means a State for which the Convention has entered into force.
 
-2. De partijen verplichten zich ertoe alle wetten, besluiten, beschikkingen en voorschriften uit te vaardigen en alle andere maatregelen te nemen die nodig zijn voor de volledige uitvoering van het Verdrag, teneinde te waarborgen dat, uit het oogpunt van de veiligheid van mensenlevens en zaken op zee en van de bescherming van het mariene milieu, het personeel aan boord van zeevissersvaartuigen wat zijn vakbekwaamheid en lichamelijke conditie betreft geschikt is om zijn taak te vervullen.
+- .2 *Administration* means the Government of the Party whose flag the vessel is entitled to fly.
 
-##### Artikel 2. Begripsomschrijvingen
+- .3 *Certificate* means a valid document, by whatever name it may be known, issued or recognized in accordance with the provisions of the Convention, authorizing the holder to serve as stated in this document or as authorized by national regulations.
 
-Tenzij uitdrukkelijk anders is bepaald, wordt bij de toepassing van het Verdrag verstaan onder:
+- .4 *Certificated* means properly holding a certificate.
 
-- .1. **partij:** een staat waarvoor het Verdrag in werking is getreden;
+- .5 *Organization* means the International Maritime Organization.
 
-- .2. **administratie:** de regering van de partij waarvan het vaartuig gerechtigd is de vlag te voeren;
+- .6 *Secretary-General* means the Secretary-General of the Organization.
 
-- .3. **bewijs:** een geldig document, welke naam ook dragend, dat is afgegeven of erkend in overeenstemming met de bepalingen van het Verdrag en dat de houder ervan het recht geeft dienst te doen op de wijze vermeld in dat document of toegestaan door de nationale voorschriften;
+- .7 *Fishing vessel* or *vessel* means any vessel used commercially for catching fish or other living resources of the sea.
 
-- .4. **gediplomeerd:** volgens de voorschriften in het bezit zijnde van een bewijs;
+- .8 *Seagoing fishing vessel* means a fishing vessel other than those which navigate exclusively in inland waters or in waters within, or closely adjacent to, sheltered waters or areas where port regulations apply.
 
-- .5. **Organisatie:** de Internationale Maritieme Organisatie;
+##### Article 3. Application
 
-- .6. **Secretaris-Generaal:** de Secretaris-Generaal van de Organisatie;
+The Convention shall apply to personnel serving on board seagoing fishing vessels entitled to fly the flag of a Party.
 
-- .7. **vissersvaartuig** of **vaartuig:** elk vaartuig dat met commercieel oogmerk wordt gebruikt voor het vangen van vis of andere levende rijkdommen van de zee;
+##### Article 4. Communication of information
 
-- .8. **zeevissersvaartuig:** een vissersvaartuig anders dan een vissersvaartuig dat uitsluitend vaart in de binnenwateren of in wateren binnen of nauw grenzend aan beschutte wateren of gebieden waar havenvoorschriften van toepassing zijn.
+Each Party shall communicate to the Secretary-General the following information:
 
-##### Artikel 3. Toepassing
+- .1 a report on the measures it has taken to give full and complete effect to the provisions of the Convention, including a specimen of certificates issued in compliance with the Convention; and
 
-Dit Verdrag is van toepassing op personeel dat werkt op zeevissersvaartuigen die gerechtigd zijn de vlag van een partij te voeren.
+- .2 other information which may be specified or provided for in regulation I/5.
 
-##### Artikel 4. Toezending van informatie
+##### Article 5. Other treaties and interpretation
 
-Elke partij zendt de Secretaris-Generaal de volgende informatie toe:
+1. All prior treaties, conventions and arrangements relating to standards of training, certification and watchkeeping for fishing vessel personnel in force between the Parties, shall continue to have full and complete effect during the terms thereof as regards:
 
-- .1. een verslag van de maatregelen die zij genomen heeft om volledig uitvoering te geven aan de bepalingen van het Verdrag, met inbegrip van modellen van de bewijzen die in overeenstemming met het Verdrag worden afgegeven; en
+- .1 fishing vessel personnel to whom this Convention does not apply; and
 
-- .2. overige informatie die in [voorschrift I/5](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&hoofdstuk=I&z=2026-01-01&g=2026-01-01) kan worden vermeld of verstrekt.
+- .2 fishing vessel personnel to whom this Convention applies, in respect of matters for which it has not expressly provided.
 
-##### Artikel 5. Andere verdragen en interpretatie
+2. To the extent, however, that such treaties, conventions or arrangements conflict with the provisions of the Convention, the Parties shall review their commitments under such treaties, conventions and arrangements with a view to ensuring that there is no conflict between these commitments and their obligations under the Convention.
 
-1. Alle voorgaande verdragen, overeenkomsten en regelingen, betrekking hebbende op de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersvaartuigen die tussen de partijen van kracht zijn, blijven gedurende de hiervoor vastgestelde tijd volledig van kracht, voor zover het betreft:
+3. All matters which are not expressly provided for in the Convention remain subject to the legislation of Parties.
 
-- .1. personeelsleden van vissersvaartuigen op wie dit Verdrag niet van toepassing is; en
+##### Article 6. Certification
 
-- .2. personeelsleden van vissersvaartuigen op wie dit Verdrag van toepassing is, ten aanzien van aangelegenheden waarin niet uitdrukkelijk in dit Verdrag is voorzien.
+Fishing vessel personnel shall be certificated in accordance with the provisions of the [annex](https://wetten.overheid.nl/BWBV0006295) to this Convention.
 
-2. Voor zover eerdergenoemde verdragen, overeenkomsten of regelingen echter in strijd zijn met de bepalingen van het Verdrag, toetsen de partijen hun verbintenissen krachtens die verdragen, overeenkomsten en regelingen teneinde te verzekeren dat deze verbintenissen niet strijdig zijn met hun verplichtingen op grond van het Verdrag.
+##### Article 7. National provisions
 
-3. Alle aangelegenheden waarin niet uitdrukkelijk is voorzien in dit Verdrag blijven onderworpen aan de wetgeving van de partijen.
+1. Each Party shall establish processes and procedures for the impartial investigation of any reported incompetency, act or omission, that may pose a direct threat to safety of life or property at sea or to the marine environment, by the holders of certificates or endorsements issued by that Party in connection with their performance of duties related to their certificates and for the withdrawal, suspension and cancellation of such certificates for such cause and for the prevention of fraud.
 
-##### Artikel 6. Diplomering
+2. Each Party shall prescribe penalties or disciplinary measures for cases in which the provisions of its national legislation giving effect to this Convention are not complied with in respect of vessels entitled to fly its flag or of fishing vessel personnel duly certificated by that Party.
 
-De diplomering van personeel van vissersvaartuigen geschiedt in overeenstemming met de bijlage bij dit Verdrag.
+3. In particular, such penalties or disciplinary measures shall be prescribed and enforced in cases in which:
 
-##### Artikel 7. Nationale bepalingen
+- .1 an owner, owner's agent or skipper has engaged a person not holding a certificate as required by this Convention;
 
-1. Elke partij stelt werkwijzen en procedures vast voor het onpartijdig onderzoek naar elk gerapporteerd geval van onbekwaamheid, handelen of nalaten dat een directe bedreiging kan vormen voor de veiligheid van mensenlevens of zaken op zee of voor het mariene milieu, door houders van bewijzen of van officiële verklaringen afgegeven door die partij met betrekking tot de vervulling van hun taken zoals in hun bewijzen omschreven, en voor het intrekken, tijdelijk intrekken en ongeldig verklaren van deze bewijzen op dergelijke gronden en ter voorkoming van fraude.
+- .2 a skipper has allowed any function or service in any capacity required by these regulations to be performed by a person holding an appropriate certificate to be performed by a person not holding an appropriate certificate or dispensation; or
 
-2. Elke partij schrijft straffen of disciplinaire maatregelen voor voor gevallen waarin de bepalingen van haar nationale wetgeving ter uitvoering van het Verdrag niet worden nageleefd met betrekking tot vaartuigen die gerechtigd zijn haar vlag te voeren of personeelsleden van vissersvaartuigen aan wie de partij naar behoren een bewijs heeft afgegeven.
+- .3 a person has obtained by fraud or forged documents an engagement to perform any function or serve in any capacity required by these regulations to be performed or filled by a person holding a certificate or dispensation.
 
-3. Dergelijke straffen of disciplinaire maatregelen moeten met name worden opgelegd en ten uitvoer worden gelegd in gevallen waarin:
+4. A Party within whose jurisdiction there is based an owner or owner's agent or any person who is believed on clear grounds to have been responsible for, or to have knowledge of, any apparent non-compliance with the Convention specified in paragraph 3, shall extend all co-operation possible to any Party which advises it of its intention to initiate proceedings under its jurisdiction.
 
-- .1. een eigenaar, agent van een eigenaar of schipper een persoon heeft aangesteld die geen bewijs bezit zoals vereist door het Verdrag;
+##### Article 8. Control
 
-- .2. een schipper heeft toegestaan dat een functie of dienst in een hoedanigheid die krachtens deze voorschriften moet worden verricht door een persoon die in het bezit is van een passend bewijs, wordt verricht door een persoon die niet in het bezit is van een passend bewijs of passende ontheffing; of
+1. Fishing vessels, while in the port of another Party, are subject to control by officers duly authorized by that Party to verify that all persons serving on board who are required to be certificated by this Convention are so certificated or hold an appropriate dispensation.
 
-- .3. een persoon middels fraude of vervalste documenten een aanstelling heeft gekregen om een functie te vervullen of dienst te doen in een hoedanigheid waarvan de uitoefening of vervulling volgens deze voorschriften moet geschieden door een persoon die in het bezit is van een bewijs of ontheffing.
+2. In the event of failure to correct any deficiency referred to in paragraph 3 of regulation I/4 in so far as it poses a danger to persons, property or the environment, the Party carrying out the control shall take steps to ensure that the vessel will not sail unless and until these requirements are met to the extent that the danger has been removed. The facts concerning the action taken shall be reported promptly to the Secretary-General and to the Administration.
 
-4. Een partij binnen wier rechtsgebied zich een eigenaar, agent van een eigenaar of persoon bevindt van wie op duidelijke gronden wordt aangenomen dat deze verantwoordelijk was voor of kennis droeg van kennelijke niet-nakoming van het Verdrag zoals bepaald in het derde lid, moet alle mogelijke medewerking verlenen aan een partij die haar op de hoogte stelt van haar voornemen uit hoofde van haar rechtsbevoegdheid gerechtelijke stappen te ondernemen.
+3. When exercising control:
 
-##### Artikel 8. Controle
+- .1 all possible efforts shall be made to avoid a vessel being unduly detained or delayed. If a vessel is unduly detained or delayed, it shall be entitled to compensation for any loss or damage resulting therefrom; and
 
-1. Vissersvaartuigen zijn tijdens hun verblijf in de havens van een andere partij onderworpen aan controle door functionarissen die door die partij naar behoren zijn gemachtigd om erop toe te zien dat alle aan boord dienst doende personen die volgens het Verdrag gediplomeerd moeten zijn de desbetreffende bewijzen bezitten of in het bezit zijn van een passende ontheffing.
+- .2 the discretion allowed in the case of the personnel of foreign fishing vessels shall not be less than that afforded to the personnel of vessels flying the flag of the port State.
 
-2. Indien wordt verzuimd de in [voorschrift I/4, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&hoofdstuk=I&z=2026-01-01&g=2026-01-01), genoemde tekortkoming te herstellen en voor zover dit een gevaar oplevert voor personen, zaken of het milieu, neemt de partij die de controle uitvoert stappen om te waarborgen dat het vaartuig niet uitvaart tenzij en totdat zodanig aan deze vereisten is voldaan dat het gevaar is weggenomen. De feiten betreffende de genomen maatregelen worden onverwijld aan de Secretaris-Generaal en aan de administratie medegedeeld.
+4. This article shall be applied as may be necessary to ensure that no more favourable treatment is given to a vessel entitled to fly the flag of a non-Party than is given to a vessel entitled to fly the flag of a Party.
 
-3. Bij het uitoefenen van de controles:
+##### Article 9. Promotion of technical co-operation
 
-- .1. moet al het mogelijke in het werk worden gesteld teneinde te voorkomen dat het vaartuig onnodig wordt opgehouden of vertraagd. Indien een vaartuig onnodig wordt opgehouden of vertraagd, ontstaat er recht op schadevergoeding voor daaruit voortvloeiende verliezen of schade; en
+1. Parties to the Convention shall promote, in consultation with and with the assistance of the Organization, support for those States which request technical assistance for the:
 
-- .2. mag de beoordelingsvrijheid die in het geval van personeel van buitenlandse vissersvaartuigen is toegestaan niet minder zijn dan die wordt toegekend aan personeel van vaartuigen die de vlag van de havenstaat voeren.
+- .1 training of administrative and technical personnel;
 
-4. Dit artikel wordt waar nodig toegepast om te waarborgen dat aan vaartuigen die gerechtigd zijn de vlag te voeren van een staat die geen partij is, geen gunstiger behandeling wordt gegeven dan een vaartuig dat gerechtigd is de vlag te voeren van een staat die partij is.
+- .2 establishment of institutions for training of fishing vessel personnel;
 
-##### Artikel 9. Bevorderen van technische samenwerking
+- .3 supply of equipment and facilities for training institutions;
 
-1. De partijen bij het Verdrag bevorderen, in overleg met en met hulp van de Organisatie, ondersteuning van de staten die om technische bijstand verzoeken inzake:
+- .4 development of adequate training programmes, including practical training on seagoing fishing vessels; and
 
-- .1. de opleiding van administratief en technisch personeel;
+- .5 facilitation of other measures and arrangements to enhance the qualifications of fishing vessel personnel, preferably on a national, sub-regional or regional basis, to further the aims and purposes of the Convention, taking into account the special needs of developing countries in this regard.
 
-- .2. de oprichting van instituten voor de opleiding van personeel van vissersvaartuigen;
+2. On its part, the Organization shall pursue the aforesaid efforts, as appropriate, in consultation or association with other international organizations, particularly the International Labour Organization and the Food and Agriculture Organization of the United Nations.
 
-- .3. het verstrekken van uitrusting en faciliteiten voor opleidingsinstituten;
+##### Article 10. Amendments
 
-- .4. het uitwerken van passende opleidingsprogramma’s, met inbegrip van praktijkopleidingen op zeevissersvaartuigen; en
+1. The Convention may be amended by either of the procedures specified in this article.
 
-- .5. het faciliteren van andere maatregelen en regelingen om de kwalificaties van personeel van vissersvaartuigen te verbeteren, bij voorkeur op nationale, subregionale of regionale basis, teneinde de doelstellingen van het Verdrag verder te verwezenlijken, rekening houdend met de bijzondere behoeften van ontwikkelingslanden in dit opzicht.
+2. Amendments after consideration within the Organization:
 
-2. De Organisatie streeft van haar kant de bovenstaande doelstellingen na, al naargelang van toepassing in overleg of samenwerking met andere internationale organisaties, met name de Internationale Arbeidsorganisatie en de Voedsel- en Landbouworganisatie van de Verenigde Naties.
+- .1 Any amendment proposed by a Party shall be submitted to the Secretary-General, who shall then circulate it to all Members of the Organization, to all the Parties and to the Directors-General of the International Labour Office and of the Food and Agriculture Organization of the United Nations respectively, at least six months prior to its consideration.
 
-##### Artikel 10. Wijzigingen
+- .2 Any amendment proposed and circulated as above shall be referred to the Maritime Safety Committee of the Organization for consideration.
 
-1. Dit Verdrag kan worden gewijzigd volgens een van de in dit artikel omschreven procedures.
+- .3 Parties whether or not Members of the Organization shall be entitled to participate in the proceedings of the Maritime Safety Committee for the consideration and adoption of amendments.
 
-2. Wijziging na bestudering binnen de Organisatie:
+- .4 Amendments shall be adopted by a two-thirds majority of the Parties present and voting in the Maritime Safety Committee, expanded as provided for in paragraph 2.3 (hereinafter referred to as “the expanded Maritime Safety Committee”), on condition that at least one-third of the Parties shall be present at the time of voting.
 
-- .1. Elke door een partij voorgestelde wijziging wordt ingediend bij de Secretaris-Generaal, die deze vervolgens ten minste zes maanden voordat zij zal worden bestudeerd, toezendt aan alle partijen en aan de directeuren-generaal van het Internationale Arbeidsbureau en van de Voedsel- en Landbouworganisatie van de Verenigde Naties.
+- .5 Amendments adopted in accordance with paragraph 2.4 shall be communicated by the Secretary-General to all the Parties.
 
-- .2. Elke aldus voorgestelde en toegezonden wijziging wordt ter bestudering voorgelegd aan de Maritieme Veiligheidscommissie van de Organisatie.
+- .6 An amendment to an article shall be deemed to have been accepted on the date on which it is accepted by two thirds of the Parties.
 
-- .3. De partijen, ongeacht of zij lid zijn van de Organisatie, zijn gerechtigd deel te nemen aan de besprekingen van de Maritieme Veiligheidscommissie ter bestudering en aanneming van wijzigingen.
+- .7 An amendment to the [annex](https://wetten.overheid.nl/BWBV0006295) or to an appendix to the annex shall be deemed to have been accepted: If, within the specified period, more than one third of the Parties notify the Secretary General that they object to the amendment, it shall be deemed not to have been accepted.
 
-- .4. Wijzigingen worden aangenomen met een tweederdemeerderheid van de partijen die aanwezig zijn en hun stem uitbrengen in de Maritieme Veiligheidscommissie, die is uitgebreid zoals bepaald in het tweede lid, onderdeel 3 (hierna te noemen de „uitgebreide Maritieme Veiligheidscommissie”), op voorwaarde dat ten minste een derde van de partijen aanwezig is op het tijdstip van stemming.
+   - .7.1 at the end of two years from the date of adoption; or
 
-- .5. Wijzigingen aangenomen overeenkomstig het tweede lid, onderdeel 4, worden door de Secretaris-Generaal toegezonden aan alle partijen.
+   - .7.2 at the end of a different period, which shall not be less than one year, if so determined at the time of its adoption by a two-thirds majority of the Parties present and voting in the expanded Maritime Safety Committee.
 
-- .6. Een wijziging van een artikel wordt geacht te zijn aanvaard op de datum waarop zij is aanvaard door twee derde van de partijen;
+- .8 An amendment to an article shall enter into force, with respect to those Parties which have accepted it, six months after the date on which it is deemed to have been accepted, and with respect to each Party which accepts it after that date, six months after the date of that Party's acceptance.
 
-- .7. Een wijziging van de bijlage of van een aanhangsel bij de bijlage wordt geacht te zijn aanvaard: Indien binnen die vastgestelde termijn meer dan een derde van de partijen de Secretaris-Generaal ervan in kennis heeft gesteld dat zij bezwaar maken tegen de wijziging, wordt deze geacht niet te zijn aanvaard.
+- .9 An amendment to the [annex](https://wetten.overheid.nl/BWBV0006295) and to an appendix to the annex shall enter into force with respect to all Parties, except those which have objected to the amendment under paragraph 2.7 and which have not withdrawn such objections, six months after the date on which it is deemed to have been accepted. However, before the date set for entry into force any Party may give notice to the Secretary-General that it exempts itself from giving effect to that amendment for a period not longer than one year from the date of its entry into force, or for such longer period as may be determined by a two-thirds majority of the Parties present and voting in the expanded Maritime Safety Committee at the time of the adoption of the amendment.
 
-- .7.1. na afloop van twee jaar, te rekenen vanaf de datum van aanneming; of
+3. Amendment by a Conference:
 
-- .7.2. na afloop van een andere termijn, die niet korter mag zijn dan een jaar, indien zulks is bepaald op het tijdstip van aanneming ervan door een tweederdemeerderheid van de partijen die aanwezig zijn en hun stem uitbrengen in de uitgebreide Maritieme Veiligheidscommissie.
+- .1 Upon the request of a Party concurred with by at least one third of the Parties, the Organization shall convene, in association or consultation with the Directors-General of the International Labour Office and of the Food and Agriculture Organization of the United Nations respectively, a Conference of the Parties to consider amendments to the present Convention.
 
-- .8. Een wijziging van een artikel treedt in werking ten aanzien van de partijen die haar hebben aanvaard, zes maanden na de datum waarop zij geacht wordt te zijn aanvaard en ten aanzien van elke partij die haar na die datum aanvaardt, zes maanden na de datum van aanvaarding door die partij.
+- .2 Every amendment adopted by such a Conference by a two-thirds majority of the Parties present and voting shall be communicated by the Secretary-General to all the Parties for acceptance.
 
-- .9. Een wijziging van de bijlage of van een aanhangsel bij een bijlage treedt in werking ten aanzien van alle partijen, behalve die welke bezwaar tegen de wijziging hebben gemaakt krachtens het bepaalde in het tweede lid, onderdeel 7, en deze bezwaren niet hebben ingetrokken, zes maanden na de datum waarop zij wordt geacht te zijn aanvaard. Vóór de datum die is vastgesteld voor de inwerkingtreding, kan elke partij de Secretaris-Generaal ervan in kennis stellen dat zij zich onthoudt van het geven van uitvoering aan deze wijziging voor een termijn van ten hoogste een jaar, te rekenen vanaf de datum van inwerkingtreding ervan, of voor een langere termijn, vast te stellen met een tweederdemeerderheid van de partijen die aanwezig zijn en hun stem uitbrengen in de uitgebreide Maritieme Veiligheidscommissie op het tijdstip van aanneming van de wijziging.
+- .3 Unless the Conference decides otherwise, the amendment shall be deemed to have been accepted and shall enter into force in accordance with the procedures specified in paragraphs 2.6 and 2.8 or 2.7 and 2.9 respectively, provided that references in those paragraphs to the expanded Maritime Safety Committee shall be taken to mean references to the Conference.
 
-3. Wijziging door een conferentie:
+4. Any declaration of acceptance of, or objection to, an amendment or any notice given under paragraph 2.9 shall be submitted in writing to the Secretary-General, who shall inform all Parties of any such submission and the date of its receipt.
 
-- .1. Op verzoek van een partij, waarmee door ten minste een derde van de partijen wordt ingestemd, roept de Organisatie, in samenwerking of overleg met de directeuren-generaal van het Internationale Arbeidsbureau en van de Voedsel- en Landbouworganisatie van de Verenigde Naties, een conferentie van de partijen bijeen teneinde wijzigingen van dit Verdrag te bestuderen.
+5. The Secretary-General shall inform all the Parties of any amendments which enter into force, together with the date on which each such amendment enters into force.
 
-- .2. Elke door een dergelijke conferentie met een tweederdemeerderheid van de partijen die aanwezig zijn en hun stem uitbrengen aangenomen wijziging wordt door de Secretaris-Generaal ter aanvaarding toegezonden aan alle partijen.
+##### Article 11. Signature, ratification, acceptance, approval and accession
 
-- .3. Tenzij de conferentie anders besluit, wordt de wijziging geacht te zijn aanvaard en treedt zij in werking overeenkomstig de procedures omschreven in de onderdelen 6 en 8, respectievelijk 7 en 9 van het tweede lid, met dien verstande dat de verwijzingen daarin naar de uitgebreide Maritieme Veiligheidscommissie worden verstaan als verwijzingen naar de conferentie.
+1. The Convention shall remain open for signature at the Headquarters of the Organization from 1 January 1996 until 30 September 1996 and shall thereafter remain open for accession. States may become Parties to the Convention by:
 
-4. Elke verklaring van aanvaarding van of van bezwaar tegen een wijziging, of elke kennisgeving gedaan krachtens het bepaalde in het tweede lid, onderdeel 9, wordt schriftelijk toegezonden aan de Secretaris-Generaal, die alle partijen in kennis stelt van deze verklaringen of kennisgevingen en van de datum van ontvangst ervan.
+- .1 signature without reservation as to ratification, acceptance or approval; or
 
-5. De Secretaris-Generaal stelt alle partijen in kennis van wijzigingen die in werking treden, alsmede van de datum waarop elke wijziging in werking treedt.
+- .2 signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or
 
-##### Artikel 11. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+- .3 accession.
 
-1. Het Verdrag blijft open voor ondertekening op de zetel van de Organisatie van 1 januari 1996 tot 30 september 1996 en blijft daarna open voor toetreding. Staten kunnen partij worden bij het Verdrag door:
+2. Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.
 
-- .1. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring; of
+##### Article 12. Entry into force
 
-- .2. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring; of
+1. The Convention shall enter into force 12 months after the date on which not less than 15 States have either signed it without reservation as to ratification, acceptance, or approval, or have deposited the requisite instruments of ratification, acceptance, approval or accession in accordance with [article 11](https://wetten.overheid.nl/BWBV0006295).
 
-- .3. toetreding.
+2. For States which have deposited an instrument of ratification, acceptance, approval or accession in respect of the Convention after the requirements for entry into force thereof have been met but prior to the date of entry into force, the ratification, acceptance, approval or accession shall take effect on the date of entry into force of the Convention or three months after the date of deposit of the instrument, whichever is the later date.
 
-2. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.
+3. For States which have deposited an instrument of ratification, acceptance, approval or accession after the date on which the Convention entered into force, the Convention shall become effective three months after the date of deposit of the instrument.
 
-##### Artikel 12. Inwerkingtreding
+4. After the date on which an amendment to the Convention is deemed to have been accepted under [article 10](https://wetten.overheid.nl/BWBV0006295), any instrument of ratification, acceptance, approval or accession deposited shall apply to the Convention as amended.
 
-1. Het Verdrag treedt in werking 12 maanden na de datum waarop ten minste 15 staten hetzij het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hetzij de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&artikel=11&z=2026-01-01&g=2026-01-01).
+##### Article 13. Denunciation
 
-2. Voor staten die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding ter zake van het Verdrag hebben nedergelegd nadat voldaan is aan de vereisten voor de inwerkingtreding ervan maar voorafgaand aan de datum van inwerkingtreding, wordt de bekrachtiging, aanvaarding, goedkeuring of toetreding van kracht op de datum waarop het Verdrag in werking treedt of drie maanden na de datum van de nederlegging van de akte, naargelang van wat het laatst is.
+1. The Convention may be denounced by any Party at any time after the expiry of five years from the date on which the Convention enters into force for that Party.
 
-3. Voor staten die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding ter zake van het Verdrag hebben nedergelegd na de datum waarop het Verdrag in werking trad, wordt het Verdrag van kracht drie maanden na de datum van nederlegging van de akte.
+2. Denunciation shall be effected by notification in writing to the Secretary-General.
 
-4. Na de datum waarop een wijziging van het Verdrag geacht wordt te zijn aanvaard krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006295&artikel=10&z=2026-01-01&g=2026-01-01), is elke nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op het Verdrag zoals gewijzigd.
+3. A denunciation shall take effect 12 months after receipt of the denunciation by the Secretary-General or after the expiry of any longer period which may be indicated in the notification.
 
-##### Artikel 13. Opzegging
+##### Article 14. Depositary
 
-1. Het Verdrag kan na afloop van vijf jaar na de datum waarop het voor een partij in werking is getreden te allen tijde door die partij worden opgezegd.
+1. The Convention shall be deposited with the Secretary-General of the Organization (hereinafter referred to as “the depositary”).
 
-2. Opzegging geschiedt door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal.
+2. The depositary shall:
 
-3. Een opzegging wordt van kracht twaalf maanden na ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal of na het verstrijken van een langere periode indien dit in de kennisgeving wordt aangegeven.
+- .1 inform the Governments of all States which have signed the Convention or acceded thereto of:
 
-##### Artikel 14. Depositaris
+   - .1.1 each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;
 
-1. Het Verdrag wordt nedergelegd bij de Secretaris-Generaal van de Organisatie (hierna te noemen „de depositaris”).
+   - .1.2 the date of entry into force of the Convention;
 
-2. De depositaris:
+   - .1.3 the deposit of any instrument of denunciation of the Convention, together with the date on which it was received and the date on which the denunciation takes effect; and
 
-- .1. stelt de regeringen van alle staten die dit Verdrag hebben ondertekend of ertoe zijn toegetreden in kennis van:
+- .2 transmit certified true copies of the Convention to the Governments of all States which have signed the present Convention or acceded thereto.
 
-- .1.1. elke nieuwe ondertekening of nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, alsmede de datum ervan;
+3. As soon as the Convention enters into force a certified true copy thereof shall be transmitted by the depositary to the Secretary-General of the United Nations, for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-- .1.2. de datum waarop het Verdrag in werking treedt; en
+##### Article 15. Languages
 
-- .1.3. de nederlegging van elke akte van opzegging van het Verdrag, alsmede de datum van ontvangst ervan en de datum waarop de opzegging van kracht wordt; en
-
-- .2. zendt voor eensluidend gewaarmerkte afschriften van het Verdrag toe aan alle staten die dit Verdrag hebben ondertekend of daartoe zijn toegetreden.
-
-3. Zodra het Verdrag in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift ervan door de depositaris toegezonden aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel 15. Talen
-
-Het Verdrag is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, waarbij alle teksten gelijkelijk authentiek zijn.
+The Convention is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed the Convention.
 

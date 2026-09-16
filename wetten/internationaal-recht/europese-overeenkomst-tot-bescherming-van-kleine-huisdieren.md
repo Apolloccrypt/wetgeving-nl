@@ -1,324 +1,281 @@
 ---
 title: "Europese Overeenkomst tot bescherming van kleine huisdieren"
 identifier: "BWBV0006923"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-07-01"
-last_updated: "2023-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006923"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005592633"
-version_id: "10006129072"
-internal_id: "C10009968571"
-label_id: "10005574964"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006923/2023-07-01/0"
-intitule_bron: "Trb.1988-1"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1988-01-15"
-intitule_in_force: "2023-01-18"
-intitule_status: "goed"
-original_publication: "Trb.1988-1"
-original_published_date: "1988-01-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1988-1"
-entry_into_force_date: "2023-07-01"
-jci_1_3: "jci1.3:c:BWBV0006923&z=2023-07-01&g=2023-07-01"
-jci_1_0: "1.0:c:BWBV0006923&g=2023-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-07-01"
+publicatiedatum: 2023-07-01
+laatste_update: 2023-07-01
+status: geldig
+toestand: 2023-07-01
+bron: "https://wetten.overheid.nl/BWBV0006923"
+opgehaald: 2026-09-16
 ---
+
 # Europese Overeenkomst tot bescherming van kleine huisdieren
 
-Preambule
+*Preamble The member States of the Council of Europe, signatory hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its Members; Recognising that man has a moral obligation to respect all living creatures and bearing in mind that pet animals have a special relationship with man; Considering the importance of pet animals in contributing to the quality of life and their consequent value to society; Considering the difficulties arising from the enormous variety of animals which are kept by man; Considering the risks which are inherent in pet animal overpopulation for the hygiene, health and safety of man of other animals; Considering that the keeping of specimens of wild fauna as pet animals should not be encouraged; Aware of the different conditions which govern the acquisition, keeping, commercial and non-commercial breeding and the disposal of and trading in pet animals; Aware that pet animals are not always kept in conditions that promote their health and well-being; Noting that attitudes towards pet animals vary widely, sometimes because of limited knowledge and awareness; Considering that a basic common standard of attitude and practice which results in responsible pet ownership is not only a desirable, but a realistic goal, Have agreed as follows:*
 
-De Lidstaten van de Raad van Europa die deze Overeenkomst hebben ondertekend,
+### CHAPTER I. GENERAL PROVISIONS
 
-Overwegend dat het doel van de Raad van Europa is een grotere eenheid tussen zijn leden tot stand te brengen;
+##### Article 1. Definitions
 
-Erkennend dat de mens de morele verplichting heeft alle levende schepselen te eerbiedigen, en indachtig de bijzondere relatie die kleine huisdieren hebben met de mens;
+1. By pet animal is meant any animal kept or intended to be kept by man, in particular in his household, fot private enjoyment and companionship.
 
-Gelet op de betekenis van kleine huisdieren vanwege hun bijdrage tot de kwaliteit van het bestaan en hun daaruit voortvloeiende waarde voor de samenleving;
+2. By trading in pet animals is meant all regular business transactions in substantial quantities carried out for profit which involve the change of ownership of pet animals.
 
-Gelet op de moeilijkheden voortvloeiend uit de zeer grote verscheidenheid van dieren die door de mens worden gehouden;
+3. By commercial breeding and boarding is meant breeding or boarding mainly for profit and in substantial quantities.
 
-Gelet op de gevaren die inherent zijn aan te grote aantallen kleine huisdieren voor de hygiëne, de gezondheid en de veiligheid van de mens en van andere dieren;
+4. By animal sanctuary is meant a non-profit making establishment where pet animals may be kept in substantial numbers. If national legislative and/or administrative measures permit, such an establishment may accept stray animals.
 
-Overwegend dat het houden van exemplaren van in het wild levende diersoorten als huisdier niet aangemoedigd zou moeten worden;
+5. By a stray animal is meant a pet animal which either has no home or is outside the bounds of its owner's or keeper's household and is not under the control or direct supervision of any owner of keeper.
 
-Zich bewust van de uiteenlopende omstandigheden die het verwerven, het houden, het al dan niet voor commerciële doeleinden fokken en het afstaan van en het handelen in kleine huisdieren beheersen;
+6. By competent authority is meant the authority designated by the member State.
 
-Zich ervan bewust dat kleine huisdieren niet altijd worden gehouden onder omstandigheden die bevorderlijk zijn voor hun gezondheid en welzijn;
+##### Article 2. Scope and implementation
 
-Constaterend dat de houding tegenover kleine huisdieren soms sterk uiteen loopt, soms wegens gebrek aan kennis en bewustzijn op dit gebied;
+1. Each Party undertakes to take the necessary steps to give effect to the provisions of this Convention in respect of:
 
-Overwegend dat een fundamentele gemeenschappelijke opstelling ten aanzien van houding en praktijk, die leidt tot een verantwoord bezit van kleine huisdieren, niet alleen een wenselijke, maar ook reële doelstelling is,
+- a. pet animals kept by a person or legal entity in any household or in any establishment for trading, for commercial breeding and boarding, and in animal sanctuaries;
 
-Zijn als volgt overeengekomen:
+- b. where appropriate, stray animals.
 
-### HOOFDSTUK I. ALGEMENE BEPALINGEN
+2. Nothing in this Convention shall affect the implementation of other instruments for the protection of animals or for the conservation of threatened wild species.
 
-##### Artikel 1. Begripsomschrijvingen
+3. Nothing in this Convention shall affect the liberty of the Parties to adopt stricter measures for the protection of pet animals of to apply the provisions contained herein to categories of animals which have not been mentioned expressly in this instrument.
 
-1. Onder een klein huisdier wordt verstaan een dier dat door de mens, in het bijzonder thuis voor zijn genoegen en gezelschap, wordt gehouden of bedoeld is gehouden te worden.
+### CHAPTER II. PRINCIPLES FOR THE KEEPING OF PET ANIMALS
 
-2. Onder handel in kleine huisdieren worden verstaan alle gewone zakelijke transacties in aanzienlijke aantallen, verricht met winstoogmerk, die leiden tot wijziging in de eigendom van kleine huisdieren.
+##### Article 3. Basic principles for animal welfare
 
-3. Onder commercieel fokken en in pension hebben wordt verstaan het voornamelijk met winstoogmerk en in aanzienlijke aantallen fokken en in pension hebben.
+1. Nobody shall cause a pet animal unnecessary pain, suffering or distress.
 
-4. Onder dierenasiel wordt verstaan een instelling zonder winstoogmerk waar kleine huisdieren in aanzienlijke aantallen kunnen worden gehouden. Indien de nationale wettelijke en/of bestuursrechtelijke maatregelen zulks toelaten, kan een dergelijke instelling zwerfdieren opnemen.
+2. Nobody shall abandon a pet animal.
 
-5. Onder een zwerfdier wordt verstaan een klein huisdier dat geen tehuis heeft dan wel zich buiten de grenzen van het huishouden van zijn eigenaar of houder bevindt en niet onder de controle of het rechtstreekse toezicht van een eigenaar of houder staat.
+##### Article 4. Keeping
 
-6. Onder bevoegde autoriteit wordt verstaan de door de Lidstaat aangewezen autoriteit.
+1. Any person who keeps a pet animal or who has agreed to look after it shall be responsible for its health and welfare.
 
-##### Artikel 2. Reikwijdte en toepassing
+2. Any person who is keeping a pet animal or who is looking after it shall provide accommodation, care and attention which take account of the ethological needs of the animal in accordance with its species and breed, in particular:
 
-1. Elke Partij verbindt zich ertoe de noodzakelijke maatregelen te nemen om uitvoering te geven aan de bepalingen van deze Overeenkomst met betrekking tot:
+- a. give it suitable and sufficient food and water;
 
-- a. kleine huisdieren, gehouden door een persoon of rechtspersoon in. een huishouden of een instelling die zich bezig houdt met handel, commercieel fokken of in pension hebben, en in dierenasiels;
+- b. provide it with adequate opportunities for exercise;
 
-- b. waar van toepassing, zwerfdieren.
+- c. take all reasonable measures to prevent its escape.
 
-2. Niets in deze Overeenkomst staat de toepassing van andere overeenkomsten voor de bescherming van dieren of voor het behoud van bedreigde wilde diersoorten in de weg.
+3. An animal shall not be kept as a pet animal if:
 
-3. Niets in deze Overeenkomst staat de vrijheid van de Partijen in de weg, strengere maatregelen voor de bescherming van kleine huisdieren te nemen of de hierin vervatte bepalingen toe te passen op categorieën dieren die niet uitdrukkelijk in deze Overeenkomst zijn vermeld.
+- a. the conditions of paragraph 2 above are not met or if,
 
-### HOOFDSTUK II. BEGINSELEN VOOR HET HOUDEN VAN KLEINE HUISDIEREN
+- b. in spite of these conditions being met, the animal cannot adapt itself to captivity.
 
-##### Artikel 3. Grondbeginselen voor het welzijn van dieren
+##### Article 5. Breeding
 
-1. Niemand mag een klein huisdier nodeloos pijn doen, laten lijden of angst aanjagen.
+Any person who selects a pet animal for breeding shall be responsible for having regard to the anatomical, physiological and behavioral characteristics which are likely to put at risk the health and welfare of either the offspring or the female parent.
 
-2. Niemand mag een klein huisdier in de steek laten.
+##### Article 6. Age-limit on acquisition
 
-##### Artikel 4. Het houden van kleine huisdieren
+No pet animal shall be sold to persons under the age of 16 without the express consent of their parents or other persons exercising parental responsibilities.
 
-1. Ieder die een klein huisdier houdt of erin heeft toegestemd daarvoor te zorgen, is verantwoordelijk voor gezondheid en welzijn ervan.
+##### Article 7. Training
 
-2. Ieder die een klein huisdier houdt of ervoor zorgt, dient het een onderkomen, zorg en aandacht te geven op een wijze die rekening houdt met de ethologische behoeften van het dier in overeenstemming met zijn soort en ras, in het bijzonder:
+No pet animal shall be trained in a way that is detrimental to its health and welfare, especially by forcing it to exceed its natural capacities or strength or by employing artificial aids which cause injury or unnecessary pain, suffering or distress.
 
-- a. het passend en voldoende voedsel en water te geven;
+##### Article 8. Trading, commercial breeding and boarding, animal sanctuaries
 
-- b. het voldoende mogelijkheden voor lichaamsbeweging te bieden;
+1. Any person who, at the time of the entry into force of the Convention, is trading in or is commercially breeding or boarding pet animals or is operating an animal sanctuary shall, within an appropriate period to be determined by each Party, declare this to the competent authority.
 
-- c. alle redelijke maatregelen te nemen om ontsnapping ervan te voorkomen.
+Any person who intends to engage in any of these activities shall declare this intention to the competent authority.
 
-3. Een dier mag niet als klein huisdier worden gehouden, indien
+2. This declaration shall stipulate;
 
-- a. aan de voorwaarden van het tweede lid niet wordt voldaan, of indien
+- a. the species of pet animals which are involved or to be involved;
 
-- b. ondanks dat aan deze voorwaarden wordt voldaan, het dier zich niet aan gevangenschap kan aanpassen.
+- b. the person responsible and his knowledge;
 
-##### Artikel 5. Het fokken
+- c. a description of the premises and equipment used or to be used.
 
-Ieder die een klein huisdier voor het fokken selecteert, is verantwoordelijk voor het rekening houden met de anatomische, fysiologische en gedragskenmerken die de gezondheid en het welzijn van de nakomelingen of het moederdier in gevaar kunnen brengen.
+3. The above-mentioned activities may be carried out only:
 
-##### Artikel 6. Leeftijdsgrens bij verwerving
+- a. if the person responsible has the knowledge and abilities required for the activity either as a result of professional training or of sufficient experience with pet animals and
 
-Een klein huisdier wordt niet verkocht aan personen jonger dan 16 jaar zonder de uitdrukkelijke toestemming van hun ouders of andere personen die de ouderlijke verantwoordelijkheid uitoefenen.
+- b. if the premises and the equipment used for the activity comply with the requirements set out in [Article 4](https://wetten.overheid.nl/BWBV0006923).
 
-##### Artikel 7. Het africhten
+4. The competent authority shall determine on the basis of the declaration made under the provisions or paragraph 1 whether or not the conditions set out in paragraph 3 are being complied with. If these conditions are not adequately met, it shall recommend measures and, if necessary for the welfare of the animals, it shall prohibit the commencement or continuation of the activity.
 
-Een klein huisdier wordt niet afgericht op een wijze die nadelig is voor zijn gezondheid en welzijn, in het bijzonder door het te dwingen zich boven zijn natuurlijke vermogens of kracht in te spannen, of door kunstmatige hulpmiddelen te gebruiken die letsel of nodeloos pijn, lijden of angst veroorzaken.
+5. The competent authority shall, in accordance with national legislation, supervise whether or not the above-mentioned condition are complied with.
 
-##### Artikel 8. Handel, commercieel fokken en in pension hebben, dierenasiels
+##### Article 9. Advertising, entertainment, exhibitions, competitions and similar events
 
-1. Ieder die op het tijdstip van inwerkingtreding van deze Overeenkomst handelt in kleine huisdieren of deze commercieel fokt of in pension heeft, dan wel een dierenasiel beheert, dient binnen een door elke Partij vast te stellen passende termijn zulks op te geven aan de bevoegde autoriteit.
+1. Pet animals shall not be used in advertising, entertainment, exhibitions, competitions and similar events unless:
 
-Ieder die voornemens is zich met één van deze activiteiten bezig te houden, dient dit voornemen op te geven aan de bevoegde autoriteit.
+- a. the organiser has created appropriate conditions for the pet animals to be treated in accordance with the requirement of [Article 4, paragraph 2](https://wetten.overheid.nl/BWBV0006923), and
 
-2. In deze opgave dient te worden vermeld:
+- b. the pet animals' health and welfare are not put at risk.
 
-- a. het soort kleine huisdieren dat hierbij is of wordt betrokken;
+2. No substances shall be given to, treatments applied to, or devices used on a pet animal for the purpose of increasing or decreasing its natural level of performance:
 
-- b. de verantwoordelijke persoon en zijn kennis;
+- a. during competition or
 
-- c. een beschrijving van de gebouwen en voorzieningen die worden gebruikt of zullen worden gebruikt.
+- b. at any other time, when this would put at risk the health and welfare of the animal.
 
-3. De bovengenoemde activiteiten mogen slechts worden verricht:
+##### Article 10. Surgical operations
 
-- a. indien de verantwoordelijke persoon beschikt over de kennis en vaardigheden die voor de activiteit zijn vereist, ofwel als resultaat van een beroepsopleiding, danwel van voldoende ervaring met kleine huisdieren, en
+1. Surgical operations for the purpose of modifying the appearance of a pet animal or for other non-curative purposes shall be prohibited and, in particular:
 
-- b. indien de gebouwen en voorzieningen die voor de activiteit worden gebruikt, voldoen aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=4&z=2023-07-01&g=2023-07-01) gestelde eisen.
+- a. the docking of tails;
 
-4. De bevoegde autoriteit bepaalt op grond van de opgave ingevolge het eerste lid of er al dan niet wordt voldaan aan de in het derde lid gestelde voorwaarden. Indien niet in voldoende mate aan deze voorwaarden wordt voldaan, beveelt zij maatregelen aan en, indien noodzakelijk voor het welzijn van de dieren, verbiedt zij het aanvangen met of het voortzetten van de activiteit.
+- b. the cropping of ears;
 
-5. De bevoegde autoriteit controleert, overeenkomstig de nationale wetgeving, of al dan niet aan de bovengenoemde voorwaarde wordt voldaan.
+- c. devocalisation;
 
-##### Artikel 9. Reclame, amusement, tentoonstellingen, wedstrijden en soortgelijke evenementen
+- d. declawing and defanging.
 
-1. Kleine huisdieren mogen niet worden gebruikt voor reclame, amusement, tentoonstellingen, wedstrijden en soortgelijke evenementen, tenzij:
+2. Exceptions to these prohibitions shall be permitted only:
 
-- a. de organisator omstandigheden heeft geschapen om de kleine huisdieren in overeenstemming met de vereisten van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=4&z=2023-07-01&g=2023-07-01), te behandelen, en
+- a. if a veterinarian considers non-curative procedures necessary either for veterinary medical reasons or for the benefit of any particular animal:
 
-- b. de gezondheid en het welzijn van de kleine huisdieren niet in gevaar worden gebracht.
+- b. to prevent reproduction.
 
-2. Er mogen geen stoffen worden toegediend aan, behandelingen toegepast op, of middelen gebruikt bij een klein huisdier ten einde zijn natuurlijke prestatieniveau te verhogen of te verlagen:
+3. - a. Operations in which the animal will or is likely to experience severe pain shall be carried out under anaesthesia only by a veterinarian or under his supervision.
 
-- a. tijdens een wedstrijd, of
+- b. Operations for which no anaesthesia is required may be carried out by a person competent under national legislation.
 
-- b. op enig ander tijdstip, wanneer zulks de gezondheid en het welzijn van het dier in gevaar kan brengen.
+##### Article 11. Killing
 
-##### Artikel 10. Chirurgische ingrepen
+1. Only a veterinarian or another competent person shall kill a pet animal except in an emergency to terminate an animal's suffering when veterinary or other competent assistance cannot be quickly obtained or in any other emergency covered by national legislation. All killing shall be done with the minimum of physical and mental suffering appropriate to the circumstances. The method chosen, except in an emergency, shall either:
 
-1. Chirurgische ingrepen ter verandering van het uiterlijk van een klein huisdier of voor andere niet-curatieve doeleinden zijn verboden, en in het bijzonder:
+- a. cause immediate loss of consciousness and death, or
 
-- a. het couperen van de staart;
+- b. begin with the induction of deep general anaesthesia to be followed by a step which will ultimately and certainly cause death.
 
-- b. het couperen van de oren;
+The person responsible for the killing shall make sure that the animal is dead before the carcass is disposed of.
 
-- c. het doorsnijden van de stembanden;
+2. The following methods of killing shall be prohibited:
 
-- d. het verwijderen van nagels en tanden.
+- a. drowning and other methods of suffocation if they do not produce the effects required in subparagraph 1.b;
 
-2. Uitzonderingen op deze verbodsbepalingen zijn slechts toegestaan:
+- b. the use of any poisonous substance or drug, the dose and application of which cannot be controlled so as to give the effect mentioned in paragraph 1;
 
-- a. indien een dierenarts niet-curatieve handelingen nodig acht, hetzij om diergeneeskundige redenen, hetzij in het belang van een bepaald dier;
+- c. electrocution unless preceded by immediate induction of loss of consciousness.
 
-- b. ter voorkoming van de voortplanting.
+### CHAPTER III. SUPPLEMENTARY MEASURES FOR STRAY ANIMALS
 
-- a. Ingrepen waarbij het dier ernstige pijn lijdt of kan lijden, dienen alleen onder narcose te worden uitgevoerd door een dierenarts of onder diens toezicht.
+##### Article 12. Reduction of numbers
 
-- b. Ingrepen waarbij geen narcose is vereist, mogen worden verricht door een op grond van de nationale wetgeving bevoegde persoon.
+When a Party considers that the numbers of stray animals present it with a problem, it shall take the appropriate legislative and/or administrative measures necessary to reduce their numbers in a way which does not cause avoidable pain, suffering or distress.
 
-##### Artikel 11. Het doden
+- a. Such measures shall include the requirements that:
 
-1. Alleen een dierenarts of een andere bevoegde persoon mag een klein huisdier doden, behalve in een noodsituatie om een einde te maken aan het lijden van een dier, wanneer diergeneeskundige of andere bevoegde hulp niet snel kan worden verkregen, of in alle andere onder de nationale wetgeving vallende noodsituaties. Het doden dient te geschieden met een minimum aan lichamelijk en geestelijk lijden, passend bij de omstandigheden. De gekozen methode dient, behalve in een noodsituatie ofwel
+   - i. if such animals are to be captured, this is done with the minimum of physical and mental suffering appropriate to the animal:
 
-- a. onmiddellijke bewusteloosheid en de dood te veroorzaken, danwel
+   - ii. whether captured animals are kept or killed, this is done in accordance with the principles laid down in this Convention.
 
-- b. te beginnen met het toedienen van een diepe algemene verdoving, die wordt gevolgd door een handeling die uiteindelijk en zeker de dood veroorzaakt.
+- b. Parties undertake to consider:
 
-Degene die verantwoordelijk is voor het doden, dient zich ervan te vergewissen dat het dier dood is voordat het kadaver wordt afgevoerd.
+   - i. providing for dogs and cats to be permanently identified by some appropriate means which causes little or no enduring pain, suffering or distress, such as tattooing as well as recording the numbers in a register together with the names and addresses of their owners;
 
-2. De volgende methode voor het doden zijn verboden:
+   - ii. reducing the unplanned breeding of dogs and cats by promoting the neutering of these animals:
 
-- a. verdrinking of andere wijzen van verstikking, indien deze niet de in het eerste lid, letter b, genoemde gevolgen hebben;
+   - iii. encouraging the finder of a stray dog or cat to report it to the competent authority.
 
-- b. gebruik van een giftige stof of bedwelmend middel waarvan de dosis en de toediening niet zodanig beheersbaar zijn, dat ze het in het eerste lid bedoelde gevolg hebben;
+##### Article 13. Exceptions for capture, keeping and killing
 
-- c. elektrocutie, tenzij voorafgegaan door onmiddellijk verlies van bewustzijn.
+Exceptions to the principles laid down in this convention for the capture, the keeping and the killing of stray animals may be made only if unavoidable in the framework of national disease control programmes.
 
-### HOOFDSTUK III. AANVULLENDE MAATREGELEN VOOR ZWERFDIEREN
+### CHAPTER IV. INFORMATION AND EDUCATION
 
-##### Artikel 12. Vermindering van het aantal
+##### Article 14. Information and education programmes
 
-Wanneer een Partij van mening is dat het aantal zwerfdieren een probleem voor haar is, dient zij de passende wettelijke en/of bestuursrechtelijke maatregelen te nemen die nodig zijn om dit aantal te verminderen op een wijze die niet nodeloos pijn, lijden of angst veroorzaakt.
+The Parties undertake to encourage the development of information and education programmes so as to promote awareness and knowledge amongst organisations and individuals concerned with the keeping, breeding, training, trading and boarding of pet animals of the provisions and the principles in this Convention. In these programmes, attention shall be drawn in particular to the following subjects:
 
-- a. Zulke maatregelen dienen de eis te bevatten dat:
+- a. the need for training of pet animals for any commercial or competitive purpose to be carried out by persons with adequate knowledge and ability;
 
-- i. indien deze dieren moeten worden gevangen, zulks geschiedt met het bij het dier passende minimum aan lichamelijk en geestelijk lijden;
+- b. the need to discourage:
 
-- ii. ongeacht of gevangen dieren worden gehouden dan wel gedood, zulks geschiedt in overeenstemming met de in deze Overeenkomst vervatte beginselen.
+   - i. gifts of pet animals to persons under the age of 16 without the express consent of their parents or other persons exercising parental responsibilities;
 
-- b. De Partijen verbinden zich ertoe te overwegen:
+   - ii. gifts of pet animals as prizes, awards or bonuses;
 
-- i. voorzieningen te treffen om honden en katten permanent te identificeren door middel van geëigende middelen die slechts weinig of tijdelijk pijn, lijden of angst veroorzaken zoals tatouage, met registratie van het nummer, alsmede de naam en het adres van de eigenaar;
+   - iii. unplanned breeding of pet animals;
 
-- ii. de ongeplande voortplanting van honden en katten te verminderen door de sterilisatie van deze dieren te bevorderen;
+- c. the possible negative consequences for the health and well-being of wild animals if they were to be acquired or introduced as pet animals;
 
-- iii. de vinder van een zwerfhond of -kat aan te moedigen deze te melden aan de bevoegde autoriteit.
+- d. the risks of irresponsible acquisition of pet animals leading to an increase in the number of unwanted and abandoned animals.
 
-##### Artikel 13. Uitzonderingen op het vangen, houden en doden
+### CHAPTER V. MULTILATERAL CONSULTATIONS
 
-Uitzonderingen op de in deze Overeenkomst vervatte beginselen voor het vangen, houden en doden van zwerfdieren mogen slechts worden gemaakt indien zij onvermijdelijk zijn in het kader van nationale programma's voor de bestrijding van ziekten.
+##### Article 15. Multilateral consultations
 
-### HOOFDSTUK IV. VOORLICHTING EN EDUCATIE
+1. The Parties shall, within five years from the entry into force of the Convention and every five years thereafter, and, in any case, whenever a majority of the representatives of the Parties so request, hold multilateral consultations within the Council of Europe to examine the application of the Convention and the advisability of revising it or extending any of its provisions. These consultations shall take place at meetings convened by the Secretary General of the Council of Europe.
 
-##### Artikel 14. Voorlichtings- en opleidingsprogramma 's
+2. Each Party shall have the right to appoint a representative to participate in these consultations. Any member State of the Council which is not a Party to the Convention shall have the right to be represented by an observer in these consultations.
 
-De Partijen verbinden zich ertoe, de ontwikkeling te stimuleren van voorlichtings- en educatieprogramma's ter bevordering van het besef en de kennis van de bepalingen en de beginselen van deze Overeenkomst bij de organisaties en personen betrokken bij het houden, fokken, africhten, verhandelen en in pension hebben van kleine huisdieren. In deze programma's dient in het bijzonder de aandacht te worden gevestigd op de volgende onderwerpen:
+3. After each consultation, the Parties shall submit to the Committee of Ministers of the Council of Europe a report on the consultation and on the functioning of the Convention including, if they consider it necessary, proposals for the amendment of Articles 15 to 23 of the Convention.
 
-- a. de noodzaak dat het africhten van kleine huisdieren voor commerciële doeleinden of wedstrijden wordt verricht door personen met voldoende kennis en bekwaamheid;
+4. Subject to the provisions of this Convention, the Parties shall draw up the rules of procedure for the consultations.
 
-- b. de noodzaak tegen te gaan:
+### CHAPTER VI. AMENDMENTS
 
-- i. dat kleine huisdieren worden geschonken aan personen jonger dan 16 jaar zonder de uitdrukkelijke toestemming van hun ouders of van andere personen die de ouderlijke verantwoordelijkheid uitoefenen;
+##### Article 16. Amendments
 
-- ii. dat kleine huisdieren worden geschonken als prijs, beloning of premie.
+1. Any amendment to Articles 1 to 14 proposed by a Party or the Committee of Ministers shall be communicated to the Secretary General of the Council of Europe and forwarded by him to the member States of the Council of Europe, to any Party and to any State invited to accede to the Convention in accordance with the provisions of [Article 19](https://wetten.overheid.nl/BWBV0006923).
 
-- iii. dat kleine huisdieren zich ongebreideld voortplanten;
+2. Any amendment proposed in accordance with the provisions of the preceding paragraph shall be examined at a multilateral consultation not less than two months after the date of forwarding by the Secretary General where it may be adopted by a two-thirds majority of the Parties. The text adopted shall be forwarded to the Parties.
 
-- c. de mogelijke negatieve gevolgen voor de gezondheid en het welzijn van wilde dieren als zij worden gekocht of geïntroduceerd als kleine huisdieren;
+3. Twelve months after its adoption at a multilateral consultation, any amendment shall enter into force unless one of the Parties has notified objections.
 
-- d. de gevaren van de onverantwoorde aankoop van kleine huisdieren die leidt tot een toename van het aantal ongewenste of in de steek gelaten dieren.
+### CHAPTER VII. FINAL PROVISIONS
 
-### HOOFDSTUK V. MULTILATERAAL OVERLEG
+##### Article 17. Signature, ratification, acceptance, approval
 
-##### Artikel 15. Multilateraal overleg
+This Convention shall be open for signature by the member States of the Council of Europe. It is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-1. Binnen vijf jaar na de inwerkingtreding van de Overeenkomst en elke vijf jaar daarna en, in elk geval, wanneer een meerderheid van de vertegenwoordigers van de Partijen zulks verzoekt, voeren de Partijen multilateraal overleg binnen de Raad van Europa over de toepassing van de Overeenkomst en over de wenselijkheid deze te herzien of bepalingen ervan uit te breiden. Dit overleg vindt plaats op door de Secretaris-Generaal van de Raad van Europa bijeengeroepen vergadering.
+##### Article 18. Entry into force
 
-2. Elke Partij heeft het recht een vertegenwoordiger te benoemen die deelneemt aan dit overleg. Iedere Lidstaat van de Raad van Europa die geen Partij is bij de Overeenkomst, heeft het recht zich door een waarnemer bij dit overleg te laten vertegenwoordigen.
+1. This Convention shall enter into force on the first day of the month following the expiration of a period of six months after the date on which four member States of the Council of Europe have expressed their consent to be bound by the Convention in accordance with the provisions of [Article 17](https://wetten.overheid.nl/BWBV0006923).
 
-3. Na elk overleg leggen de Partijen aan het Comité van Ministers van de Raad van Europa een verslag voor omtrent het overleg en de werking van de Overeenkomst, welk verslag, indien zij dit nodig achten, tevens voorstellen bevat voor de wijziging van de artikelen 15 tot en met 23 van de Overeenkomst.
+2. In respect of any member State which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of six months after the date of the deposit of the instrument of ratification, acceptance or approval.
 
-4. Onder voorbehoud van de bepalingen van deze Overeenkomst stellen de Partijen de procedureregels voor het overleg vast.
+##### Article 19. Accession of non-member States
 
-### HOOFDSTUK VI. WIJZIGINGEN
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any State not a member of the Council of Europe to accede to this Convention, by a decision taken by the majority provided for in [Article 20.d of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) and by the unanimous vote of the representatives of the Contracting States entitled to sit on the Committee of Ministers.
 
-##### Artikel 16. Wijzigingen
+2. In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of six months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.
 
-1. Iedere door een Partij of het Comité van Ministers voorgestelde wijziging van de artikelen 1 tot en met 14 wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door deze toegezonden aan de Lidstaten van de Raad van Europa, aan iedere Partij, en aan iedere Staat die overeenkomstig het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=19&z=2023-07-01&g=2023-07-01) is uitgenodigd tot de Overeenkomst toe te treden.
+##### Article 20. Territorial clause
 
-2. Iedere overeenkomstig het bepaalde in het voorgaande lid voorgestelde wijziging wordt bestudeerd tijdens een multilateraal overleg dat niet eerder dan twee maanden na de datum van toezending door de Secretaris-Generaal wordt gevoerd, waar zij kan worden aangenomen met een tweederde meerderheid van de Partijen. De aangenomen tekst wordt aan de Partijen toegezonden.
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
 
-3. Twaalf maanden nadat zij tijdens een multilateraal overleg is aangenomen, treedt elke wijziging in werking, tenzij een van de Partijen kennisgeving van bezwaar heeft gedaan.
+2. Any Party may, at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory the Convention shall enter into force on the first day of the month following the expiration of a period of six months after the date of receipt of such declaration by the Secretary General.
 
-### HOOFDSTUK VII. SLOTBEPALINGEN
+3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of such notification by the Secretary General.
 
-##### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring
+##### Article 21. Reservations
 
-Deze Overeenkomst staat open voor ondertekening door de Lidstaten van de Raad van Europa. De Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it avails itself of one or more reservations in respect of [Article 6](https://wetten.overheid.nl/BWBV0006923) and [Article 10, paragraph 1, sub-paragraph a](https://wetten.overheid.nl/BWBV0006923). No other reservation may be made.
 
-##### Artikel 18. Inwerkingtreding
+2. Any Party which has made a reservation under the preceding paragraph may wholly or partly withdraw it by means of a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall take effect on the date of receipt of such notification by the Secretary General.
 
-1. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum waarop vier Lidstaten van de Raad van Europa in overeenstemming met het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=17&z=2023-07-01&g=2023-07-01) hebben verklaard zich gebonden te achten door de Overeenkomst.
+3. A Party which has made a reservation in respect of a provision of this Convention may not invoke the application of that provision by any other Party; it may, however, if its reservation is partial or conditional, invoke the application of that provision insofar as it has itself accepted it.
 
-2. Ten aanzien van iedere Lidstaat die later verklaart zich gebonden te achten door de Overeenkomst, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
+##### Article 22. Denunciation
 
-##### Artikel 19. Toetreding van niet-lidstaten
+1. Any Party may at any time denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
 
-1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat, die geen lid van de Raad van Europa is, uitnodigen toe te treden tot deze Overeenkomst door een besluit daartoe bij de meerderheid van stemmen, bedoeld in [artikel 20, letter d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), en bij unanimiteit van de vertegenwoordigers van de Overeenkomstsluitende Staten gerechtigd zitting te hebben in het Comité van Ministers.
+2. Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
 
-2. Ten aanzien van iedere toetredende Staat treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+##### Article 23. Notifications
 
-##### Artikel 20. Territoriale clausule
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, and any State which has acceded to this Convention or has been invited to do so, of:
 
-1. Iedere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het gebied of de gebieden aanwijzen waarop deze Overeenkomst van toepassing is.
+- a. any signature;
 
-2. Iedere Staat kan te allen tijde daarna, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de toepassing van deze Overeenkomst uitbreiden tot ieder ander in de verklaring aangewezen gebied. Ten aanzien van dit gebied treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van ontvangst van de verklaring door de Secretaris-Generaal.
+- b. the deposit of any instrument of ratification, acceptance, approval or accession;
 
-3. Iedere verklaring, gedaan krachtens beide vorige leden, kan ten aanzien van ieder in die verklaring aangewezen gebied, worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. Deze intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+- c. any date of entry into force of this Convention in accordance with [Articles 18](https://wetten.overheid.nl/BWBV0006923), [19](https://wetten.overheid.nl/BWBV0006923) and [20](https://wetten.overheid.nl/BWBV0006923);
 
-##### Artikel 21. Voorbehouden
-
-1. Iedere Staat kan bij de ondertekeningen of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij één of meer voorbehouden maakt ten aanzien van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=6&z=2023-07-01&g=2023-07-01) en [artikel 10, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=10&z=2023-07-01&g=2023-07-01). Geen ander voorbehoud is toegestaan.
-
-2. Iedere Partij die een voorbehoud heeft gemaakt krachtens het vorige lid, kan dit geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
-
-3. De Partij die een voorbehoud heeft gemaakt ten aanzien van een bepaling van deze Overeenkomst, kan de toepassing van die bepaling door een andere Partij niet vragen; indien het gemaakte voorbehoud gedeeltelijk of voorwaardelijk is, kan zij evenwel de toepassing van die bepaling vragen voor zover zij dit zelf heeft aanvaard.
-
-##### Artikel 22. Opzegging
-
-1. Iedere Partij kan te allen tijde deze Overeenkomst opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
-
-2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
-
-##### Artikel 23. Kennisgeving
-
-1. De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa en iedere Staat die tot deze Overeenkomst is toegetreden of daartoe is uitgenodigd, in kennis van:
-
-- a. iedere ondertekening;
-
-- b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- c. iedere datum van inwerkingtreding van deze Overeenkomst overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=18&z=2023-07-01&g=2023-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=19&z=2023-07-01&g=2023-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=20&z=2023-07-01&g=2023-07-01);
-
-- d. iedere andere handeling, kennisgeving of mededeling, betrekking hebbend op deze Overeenkomst.
+- d. any other act, notification or communication relating to this Convention.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

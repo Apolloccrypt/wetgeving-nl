@@ -1,46 +1,19 @@
 ---
 title: "Uitleveringsverdrag tussen het Koninkrijk der Nederlanden en Mexico"
 identifier: "BWBV0006119"
-country: "nl"
-rank: "verdrag"
-publication_date: "1909-07-02"
-last_updated: "1909-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006119"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005038883"
-version_id: "10005368692"
-internal_id: "C10008273801"
-label_id: "10005022024"
-dtd_version: "2.0"
-original_entry_into_force: "1909-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006119/1909-07-02/0"
-intitule_bron: "Stb.1909-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1909-05-05"
-intitule_published: "1909-05-13"
-intitule_in_force: "1909-05-13"
-intitule_status: "goed"
-original_publication: "Stb.1909-118"
-original_signed_date: "1909-05-05"
-original_published_date: "1909-05-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1909-07-02"
-jci_1_3: "jci1.3:c:BWBV0006119&z=1909-07-02&g=1909-07-02"
-jci_1_0: "1.0:c:BWBV0006119&g=1909-07-02"
-citeertitel_status: "redactioneel"
-signed_date: "1909-05-05"
-entry_into_force: "1909-07-02"
+publicatiedatum: 1909-07-02
+laatste_update: 1909-07-02
+status: geldig
+toestand: 1909-07-02
+bron: "https://wetten.overheid.nl/BWBV0006119"
+opgehaald: 2026-09-16
 ---
+
 # Uitleveringsverdrag tussen het Koninkrijk der Nederlanden en Mexico
 
-Hare Majesteit de Koningin der Nederlanden en Zijne Excellentie de President der Vereenigde Mexicaansche Staten, in gemeen overleg besloten hebbende een verdrag te sluiten, betreffende de uitlevering van misdadigers, hebben te dien einde tot Hunne Gevolmachtigden benoemd, te weten:
-
-Hare Majesteit de Koningin der Nederlanden: den Heer Jonkheer RENEKE DE MAREES VAN SWINDEREN, Hoogstderzelver Kamerheer en Buitengewoon Gezant en Gevolmachtigd Minister bij de Vereenigde Mexicaansche Staten; en
-
-Zijne Excellentie de President der Vereenigde Mexicaansche Staten: den Heer FERNANDO DURET, Advocaat en Lid der Volksvertegenwoordiging,
-
-die, na elkander hunne wederzijdsche volmachten te hebben medegedeeld, welke in goeden en behoorlijken vorm zijn bevonden, omtrent de navolgende artikelen zijn overeengekomen:
+*Hare Majesteit de Koningin der Nederlanden en Zijne Excellentie de President der Vereenigde Mexicaansche Staten, in gemeen overleg besloten hebbende een verdrag te sluiten, betreffende de uitlevering van misdadigers, hebben te dien einde tot Hunne Gevolmachtigden benoemd, te weten: Hare Majesteit de Koningin der Nederlanden: den Heer Jonkheer RENEKE DE MAREES VAN SWINDEREN, Hoogstderzelver Kamerheer en Buitengewoon Gezant en Gevolmachtigd Minister bij de Vereenigde Mexicaansche Staten; en Zijne Excellentie de President der Vereenigde Mexicaansche Staten: den Heer FERNANDO DURET, Advocaat en Lid der Volksvertegenwoordiging, die, na elkander hunne wederzijdsche volmachten te hebben medegedeeld, welke in goeden en behoorlijken vorm zijn bevonden, omtrent de navolgende artikelen zijn overeengekomen:*
 
 ##### Art. I
 
@@ -76,17 +49,17 @@ Uitlevering zal plaats hebben wegens de volgende misdrijven:
 
 - 12°. Valschheid in geschrifte, wanneer deze gepleegd is: Het opzettelijk gebruik maken van het valsche of vervalschte stuk; het in voorraad hebben of van het buitenland invoeren van billetten van eene circulatiebank krachtens de wet opgericht, waarvan de valschheid of vervalsching hem, toen hij ze ontving, bekend was, met het oogmerk, om ze als echt en onvervalscht uit te geven.
 
-- A. in particuliere akten;
+   - A. in particuliere akten;
 
-- B. in authentieke akten;
+   - B. in authentieke akten;
 
-- C. in schuldbrieven of certificaten van schuld van eenigen Staat, provincie, gemeente of openbare instelling;
+   - C. in schuldbrieven of certificaten van schuld van eenigen Staat, provincie, gemeente of openbare instelling;
 
-- D. in aandeelen of schuldbrieven, of certificaten van aandeelen of schuld van eenige vereeniging, stichting of vennootschap;
+   - D. in aandeelen of schuldbrieven, of certificaten van aandeelen of schuld van eenige vereeniging, stichting of vennootschap;
 
-- E. in talons, dividenden of rentebewijzen, behoorende tot een der onder de voorgaande nummers omschreven stukken, of in de bewijzen in plaats van deze stukken uitgegeven;
+   - E. in talons, dividenden of rentebewijzen, behoorende tot een der onder de voorgaande nummers omschreven stukken, of in de bewijzen in plaats van deze stukken uitgegeven;
 
-- F. in voor omloop bestemd crediet- of handelspapier;
+   - F. in voor omloop bestemd crediet- of handelspapier;
 
 - 13°. Meineed.
 
@@ -214,6 +187,6 @@ Ten blijke waarvan de wederzijdsche gevolmachtigden dit tractaat in dubbel hebbe
 
 Gedaan te Mexico den zestienden dag der maand December van het jaar onzes Heeren negentien honderd zeven.
 
-(**L. S.**) R. DE MAREES VAN SWINDEREN.
+(*L. S.*) R. DE MAREES VAN SWINDEREN.
 
-(**L. S.**) F. DURET.
+(*L. S.*) F. DURET.

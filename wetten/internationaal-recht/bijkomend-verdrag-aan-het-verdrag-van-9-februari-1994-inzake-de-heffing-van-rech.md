@@ -1,53 +1,18 @@
 ---
 title: "Bijkomend Verdrag aan het Verdrag van 9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens inzake een vrijstelling voor het gecombineerd vervoer"
 identifier: "BWBV0006396"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-09-18"
-last_updated: "1997-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006396"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005230683"
-version_id: "10005615402"
-internal_id: "C10008692011"
-label_id: "10005213434"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006396/1997-09-18/0"
-intitule_bron: "Trb.1998-17"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1998-02-18"
-intitule_status: "nogniet"
-original_publication: "Trb.1998-17"
-original_published_date: "1998-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-17"
-jci_1_3: "jci1.3:c:BWBV0006396&z=1997-09-18&g=1997-09-18"
-jci_1_0: "1.0:c:BWBV0006396&g=1997-09-18"
-citeertitel_status: "redactioneel"
-entry_into_force: "1998-02-18"
+laatste_update: 1997-09-18
+status: geldig
+toestand: 1997-09-18
+bron: "https://wetten.overheid.nl/BWBV0006396"
+opgehaald: 2026-09-16
 ---
+
 # Bijkomend Verdrag aan het Verdrag van 9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens inzake een vrijstelling voor het gecombineerd vervoer
 
-De Regeringen van het Koninkrijk België,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden en
-
-het Koninkrijk Zweden
-
-– geleid door de wens de mogelijkheid te scheppen om motorvoertuigen die voor gecombineerd vervoer worden gebruikt vrij te stellen van de verplichting tot het betalen van het gebruiksrecht ingevolge [artikel 3 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3) op het grondgebied van die Verdragsluitende Partijen die zulks wensen
-
-en
-
-– gelet op de toetreding van de Regering van het Koninkrijk Zweden tot bovengenoemd [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001210)
-
-zijn het volgende overeengekomen:
+*De Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en het Koninkrijk Zweden – geleid door de wens de mogelijkheid te scheppen om motorvoertuigen die voor gecombineerd vervoer worden gebruikt vrij te stellen van de verplichting tot het betalen van het gebruiksrecht ingevolge artikel 3 van het Verdrag op het grondgebied van die Verdragsluitende Partijen die zulks wensen en – gelet op de toetreding van de Regering van het Koninkrijk Zweden tot bovengenoemd Verdrag zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 

@@ -1,153 +1,116 @@
 ---
 title: "Tractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot regeling der wateraftappingen uit de Maas"
 identifier: "BWBV0006468"
-country: "nl"
-rank: "verdrag"
-publication_date: "1874-02-14"
-last_updated: "1874-02-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006468"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10005275663"
-version_id: "10005670052"
-internal_id: "C10008782581"
-label_id: "10005258694"
-dtd_version: "2.0"
-original_entry_into_force: "1863-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006468/1874-02-14/0"
-intitule_bron: "Stb.1863-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1863-07-19"
-intitule_published: "1863-08-08"
-intitule_in_force: "1996-09-13"
-intitule_status: "goed"
-original_publication: "Stb.1863-118"
-original_signed_date: "1863-07-19"
-original_published_date: "1863-08-08"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1863-07-14"
-jci_1_3: "jci1.3:c:BWBV0006468&z=1874-02-14&g=1874-02-14"
-jci_1_0: "1.0:c:BWBV0006468&g=1874-02-14"
-citeertitel_status: "redactioneel"
-signed_date: "1863-07-19"
-entry_into_force: "1863-07-14"
+publicatiedatum: 1863-07-14
+laatste_update: 1874-02-14
+status: geldig
+toestand: 1874-02-14
+bron: "https://wetten.overheid.nl/BWBV0006468"
+opgehaald: 2026-09-16
 ---
+
 # Tractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot regeling der wateraftappingen uit de Maas
 
-Zijne Majesteit de Koning der Nederlanden, Groot-Hertog van Luxemburg, en Zijne Majesteit de Koning der Belgen, wenschende op duurzame en afdoende wijze regelen te stellen voor de wateraftappingen van de Maas ten behoeve der voeding van de scheepvaart- en bevloeijingskanalen, hebben besloten te dien einde een tractaat aan te gaan, en tot hunne gevolmagden benoemd:
+*Sa Majesté le Roi des Pays-Bas, Grand Duc de Luxembourg, et Sa Majesté le Roi des Belges, désirant régler d'une manière stable et définitive le régime des prises d'eau à la Meuse pour l'alimentation des canaux de navigation et d'irrigation, ont résolu de conclure un traité dans ce but, et ont nommé pour leurs plénipotentiaires: Sa Majesté le Roi des Pays-Bas: Messire PAUL VAN DER MAESEN DE SOMBREFF, chevalier grand'croix de l'ordre du Nichan Iftihar de Tunis, son Ministre des Affaires Étrangères; le Sieur JEAN RUDOLPHE THORBECKE, chevalier grand'croix de l'ordre du Lion Néerlandais, grand'croix de l'ordre Léopold de Belgique et de plusieurs autres ordres, son Ministre de l'Intérieur; et le Sieur GÉRARD HENRI BETZ, son Ministre des Finances; et Sa Majesté le Roi des Belges: le Sieur ALDEPHONSE ALEXANDRE FÉLIX baron DU JARDIN, commandeur de l'ordre Léopold, décoré de la Croix de Fer, commandeur du Lion Néerlandais, chevalier grand'croix de la Couronne de Chêne, grand'croix et commandeur de plusieurs autres ordres, son Envoyé Extraordinaire et Ministre Plénipotentiaire près Sa Majesté le Roi des Pays-Bas, lesquels, après avoir échangé leurs pleins pouvoirs, trouvés en bonne et dûe forme, ont arrêté les articles suivants.*
 
-Zijne Majesteit de Koning der Nederlanden:
+##### Article 1
 
-jhr PAUL VAN DER MAESEN DE SOMBREFF, ridder-grootkruis van de orde van den Nichan Iftihar van Tunis, Hoogstdeszelfs Minister van Buitenlandsche Zaken;
+Il sera construit sous Maestricht au pied du glacis de la forteresse une nouvelle prise d'eau à la Meuse, qui constituera la rigole d'alimentation pour tous les canaux situés en aval de cette ville, ainsi que pour les irrigations de la Campine et des Pays-Bas.
 
-den heer JOHAN RUDOLF THORBECKE, ridder-grootkruis van de orde van den Nederlandschen Leeuw, grootkruis van de Leopoldsorde van Belgie en van verschillende andere orden, Hoogstdeszelfs Minister van Binnenlandsche Zaken; en
+##### Article 2
 
-den heer GERARD HENDRIK BETZ, Hoogstdeszelfs Minister van Financien;
+L'écluse n°. 19 à Hocht sera supprimée et remplacée par une nouvelle écluse, à établir dans le Zuidwillemsvaart en amont de la rigole stipulée à l'article 1.
 
-en Zijne Majesteit de Koning der Belgen:
+La partie du canal comprise entre l'écluse de Hocht et la nouvelle écluse, sera élargie et approfondie, de manière à offrir la même capacité et le même tirant d'eau que la partie du bief comprise entre l'écluse n°. 19 à Hocht et l'écluse n°. 18 à Bocholt.
 
-den heer ALDEPHONSE ALEXANDER FELIX baron DU JARDIN, kommandeur der Leopoldsorde, versierd met het IJzeren Kruis, kommandeur der orde van den Nederlandschen Leeuw, ridder-grootkruis der orde van de Eikenkroon, grootkruis en kommandeur van verschillende andere orden, Hoogstdeszelfs buitengewoon gezant en gevolmagtigd Minister bij Zijne Majesteit den Koning der Nederlanden;
+##### Article 3
 
-dewelke, na hunne in behoorlijken vorm bevonden volmagten te hebben uitgewisseld, de volgende artikelen hebben vastgesteld.
+Le niveau de flottaison de la partie du canal entre Maestricht et l'écluse n°. 18 à Bocholt sera élevé, de manière à ce que l'écoulement des quantités d'eau désignées dans les artt. 4 et 5 du présent traité, puisse avoir lieu sans que la vîtesse moyenne du courant, mesurée dans l'axe du canal, dépasse un maximum de 25 à 27 centimètres par seconde.
 
-##### Art. 1
+##### Article 4
 
-Er zal beneden Maastricht, aan den voet van het glacis der vesting, eene nieuwe prise d'eau aan de Maas worden gemaakt, die tot voedingskanaal zal strekken voor alle beneden die stad gelegen kanalen, zoowel als voor de bevloeijingen in de Kempen en in Nederland.
+La quantité d'eau à puiser à la Meuse, est fixée comme suit:
 
-##### Art. 2
+- a. lorsque la hauteur des eaux de la Meuse se trouve au dessous de l'étiage de cette rivière, dix (10) mètres cubes par seconde;
 
-De sluis n°. 19 te Hocht zal opgeruimd worden en vervangen door eene nieuwe sluis, te maken in de Zuidwillemsvaart, boven het in art. 1 genoemde voedingskanaal.
+- b. lorsque ces eaux sont à l'étiage ou au dessous, sept et demi (7½) mètres cubes par seconde du quinze (15) Octobre au vingt (20) Juin, et six (6) mètres cubes du vingt et un (21) Juin au quatorze (14) Octobre.
 
-Het gedeelte van het kanaal tusschen de sluis te Hocht en de nieuwe sluis zal zoodanig worden verbreed en verdiept, dat hetzelfde afvoervermogen en dezelfde diepgang worde verkregen als op het gedeelte van het pand tusschen de sluis n°. 19 te Hocht en de sluis n°. 19 te Bocholt.
+La hauteur de l'étiage variant actuellement entre les cotes de 30 et 40 centimètres au dessus du zéro de l'échelle du pont de Maestricht, correspond à un minimum de tirant d'eau entre Maestricht et Venlo de soixante-dix (70) centimètres.
 
-##### Art. 3
+Dans le courant de l'année, après la ratification du présent traité, il sera placé à l'embouchure de la nouvelle prise d'eau, à construire près de Maestricht du côté de la Meuse, une échelle où sera marquée, de commun accord, une cote correspondant à la hauteur de l'eau à l'échelle du dit pont, indiquant alors l'étiage.
 
-Het peil voor den waterspiegel van het gedeelte van het kanaal tusschen Maastricht en de sluis n°. 18 te Bocholt zal zoodanig worden verhoogd, dat de afstrooming der hoeveelheden water, vermeld in de artt. 4 en 5 van het tegenwoordig tractaat, kunne geschieden zonder dat de middelbare snelheid van den stroom, gemeten in de as van het kanaal, een maximum van 25 tot 27 duim per seconde te boven ga.
+En conséquence de ce qui précède, il ne sera pas fait usage de la prise d'eau à la Meuse à Hocht à partir de l'achèvement de la rigole mentionnée à l'art. 1.
 
-##### Art. 4
+##### Article 5
 
-De hoeveelheid van het aan de Maas af te tappen water word vastgesteld als volgt:
+Sur le volume de dix (10) mètres cubes d'eau puisé à la Meuse à Maestricht, il sera attribué aux canaux et aux irrigations des Pays-Bas, deux (2) mètres cubes par seconde à déverser par l'écluse n°. 17 à Loozen. Cette quantité de deux (2) mètres cubes sera réduite à un et demi (1,50) mètre cube aussitôt que le volume d'eau puisé à Maestricht, sera diminué conformément â ce qui est stipulé à l'article précédent.
 
-- a. wanneer de waterstand op de Maas boven het vaarpeil der rivier is, 10 kub. el per seconde;
+Il sera loisible au Gouvernement des Pays-Bas d'augmenter le volume d'eau à puiser à la Meuse à Maestricht, sans que toutefois par là la vîtesse du courant dans le canal puisse excéder les limites fixées à l'art. 3. Ce surplus sera également déversé par l'écluse n°. 17 à Loozen.
 
-- b. wanneer de waterstand gelijk met het vaarpeil of daarbeneden is, 7½ kub. el per seconde van den 15den October tot den 20sten Junij, en 6 kub. el van den 21sten Junij tot den 4den October.
+##### Article 6
 
-De hoogte van het vaarpeil, thans afwisselend tusschen de merken van 30 en 40 duim boven de nul der peilschaal aan de brug te Maastricht, komt overeen met een minimum van diepgang tusschen Maastricht en Venlo van 70 duim.
+*Vervallen*
 
-Binnen een jaar na de bekrachtiging van het tegenwoordig tractaat, zal aan den mond der nieuwe, bij Maastricht aan te leggen prise d'eau, aan de zijde der Maas, eene peilschaal worden geplaatst, waarop met gemeen overleg een merk zal worden gesteld, overeenkomende met den waterstand aan de peilschaal bij bovengemelde brug, dat dan het vaarpeil aanwijst.
+##### Article 7
 
-Ten gevolge van het voorafgaande zal, te rekenen van de voltooijing van het in art. 1 vermelde voedingskanaal, geen gebruik meer worden gemaakt van de prise d'eau aan de Maas te Hocht.
+Le Gouvernement Belge laissera ou rendra à leur cours naturel les ruisseaux et courants d'eau qui, ayant leur source en Belgique, se dirigent vers le territoire Néerlandais.
 
-##### Art. 5
+##### Article 8
 
-Van de 10 kub. el water, aan de Maas te Maastricht afgetapt, zal voor de kanalen en voor de bevloeijing in Nederland worden bestemd 2 kub. el per seconde, door te laten aan de sluis n°. 17 te Loozen.
+Les Hautes Parties contractantes prendront les mesures nécessaires pour prévenir, autant que possible, les chômages des canaux de Liège à l'écluse n°. 17 à Loozen.
 
-Deze hoeveelheid van 2 kub. el wordt verminderd tot 1,50 kub. el, zoodra de te Maastricht afgetapte watermassa verminderd wordt, overeenkomstig het bepaalde in het vorig artikel. Het zal aan de Nederlandsche Regering vrijstaan, de hoeveelheid water, aan de Maas te Maastricht af te tappen, te vermeerderen, zonder dat daardoor de snelheid van den stroom in het kanaal de in art. 3 gestelde grenzen moge overschrijden.
+Aucun abaissement des niveaux de flottaison ordinaires de ces canaux ne pourra avoir lieu qu'après entente préalable entre les deux Gouvernements.
 
-Dit meerdere water zal evenzeer worden doorgelaten aan de sluis n°. 17 te Loozen.
+##### Article 9
 
-##### Art. 6
+Dans le but d'améliorer la navigabilité de la Meuse entre Maestricht et Venlo, les Hautes Parties contractantes feront exécuter dans cette partie de la rivière, pendant neuf années consécutives, commençant en 1864, les travaux indiqués dans le tableau et la note explicative joints au présent traité, jusqu'à concurrence d'une somme de 100,000 florins par an.
 
-Vervallen
+Un tiers de cette somme sera payé par les Pays-Bas, et deux tiers par la Belgique.
 
-##### Art. 7
+Les projets définitifs de ces travaux à exécuter annuellement seront dressés, de commun accord, par les fonctionnaires désignés à cet effet, et soumis à l'approbation des deux Gouvernements.
 
-De Belgische Regering zal aan de beken en waterleidingen, die, haren oorsprong in Belgie hebbende, naar het Nederlandsch grondgebied vloeijen, haren natuurlijken loop laten of teruggeven.
+Les travaux projetés et arrêtés conformément à ce qui précède, seront exécutés par les soins des agents du Gouvernement sur le territoire duquel ils seront situés.
 
-##### Art. 8
+L'entretien de ces travaux après leur achèvement, sera à la charge du Gouvernement sur le territoire duquel ils sont établis.
 
-De Hooge contracterende Partijen zullen de noodige maatregelen nemen om, zooveel mogelijk, de stremming door aftapping van de kanalen van Luik tot de sluis n°. 17 te Loozen te voorkomen.
+##### Article 10
 
-Geene verlaging dezer kanalen beneden het gewoon vaarpeil zal mogen geschieden, dan na voorafgaand overleg tusschen de beide Regeringen.
+La construction de la nouvelle prise d'eau à Maestricht, mentionnée dans l'art. 1, ainsi que l'exécution des travaux nécessaires pour satisfaire aux stipulations de l'art. 2, auront lieu à frais communs.
 
-##### Art. 9
+Les projets de ces travaux seront arrêtés et exécutés de la manière indiquée dans l'art. 9 pour les travaux de la Meuse.
 
-Ten einde de bevaarbaarheid der Maas tusschen Maastricht en Venlo te verbeteren, zullen de Hooge contracterende Partijen op dit gedeelte der rivier gedurende negen achtereenvolgende jaren, te beginnen met 1864, de werken doen uitvoeren, aangewezen in den staat en in de toelichtende nota, bij het tegenwoordig tractaat gevoegd; en zulks ten beloope van eene som van f 100 000 per jaar.
+Toutefois il est entendu que le total des dépenses à la charge du Gouvernement Belge, d'après les stipulations des artt. 9 et 10, n'excédera pas la somme de 900,000 florins.
 
-Een derde dezer som komt ten laste van Nederland en twee derden ten laste van Belgie.
+##### Article 11
 
-De eind-ontwerpen dezer jaarlijks uit te voeren werken zullen, met gemeen overleg, door de daartoe aan te wijzen ambtenaren worden opgemaakt, en aan de goedkeuring der beide Regeringen onderworpen.
+Si dans la suite le Gouvernement des Pays-Bas jugeait utile d'exécuter ou de laisser exécuter des travaux rendant nécessaire l'augmentation du volume d'eau à puiser à la Meuse à Maestricht, tel qu'il est fixé dans le présent traité, le concours du Gouvernement Belge aux mesures nécessaires pour assurer l'écoulement des eaux par le Zuidwillemsvaart sera réglé entre les deux Gouvernements.
 
-De aldus ontworpen en vastgestelde werken zullen worden uitgevoerd door de zorg der beambten van de Regering op wier grondgebied zij gelegen zijn.
+##### Article 12
 
-Het onderhoud dier werken na hunne voltooijing komt ten laste der Regering op wier grondgebied zij zijn aangelegd.
+Par extension des dispositions de l'art. 10 de la convention du 8 Août 1843, aucun ouvrage qui serait de nature à modifier le courant et par là à nuire à la rive opposée, ne pourra être construit à une distance de moins de 150 mètres du thalweg de la Meuse, là où elle forme limite, que de commun accord entre les deux Hautes Parties contractantes.
 
-##### Art. 10
+##### Article 13
 
-De aanleg der nieuwe prise d'eau te Maastricht, vermeld in art. 1, zoowel als de uitvoering der werken, noodig ter voldoening aan de bepalingen van art. 2, geschiedt voor gemeenschappelijke rekening.
+Les Hautes Parties contractantes s'engagent à faire exécuter les ouvrages indiqués aux artt. 1, 2 et 6 avant le premier Janvier 1866, ou plus tôt, si faire se peut.
 
-De ontwerpen voor deze werken zullen worden vastgesteld en uitgevoerd op de wijze, in art. 9 voor de werken aan de Maas voorgeschreven.
+Immédiatement après l'achèvement de ces ouvrages, il sera donné suite aux stipulations des artt. 3, 4, 5, 6 et 7.
 
-Intusschen wordt verstaan dat het totaal bedrag der uitgaven, die, krachtens de bepalingen der artt. 9 en 10, ten laste der Belgische Regering komen, niet de som van f 900 000 zal te boven gaan.
+Jusqu'à cet achèvement, l'alimentation des canaux et des irrigations aura lieu conformément à ce qui s'est fait pendant les deux dernières années.
 
-##### Art. 11
+##### Article 14
 
-Indien in het vervolg de Nederlandsche Regering het nuttig mogt oordeelen werken uit te voeren of te laten uitvoeren, waardoor eene vermeerdering van de hoeveelheid te Maastricht aan de Maas af te tappen water, zoo als die in het tegenwoordig tractaat is vastgesteld, noodig mogt worden, zal de medewerking van de Belgische Regering tot de vereischte maatregelen, om de afstrooming van het water door de Zuidwillemsvaart te verzekeren, tusschen de beide Regeringen worden geregeld.
-
-##### Art. 12
-
-Met uitbreiding der bepalingen van art. 10 der conventie van 8 Augustus 1843, zal geen werk, dat invloed zou kunnen uitoefenen op den stroom en daardoor den tegenover liggenden oever benadeelen, op een afstand van minstens 150 el uit den thalweg van de Maas, waar zij de grensscheiding vormt, mogen worden aangelegd, dan met gemeen goedvinden der beide Hooge contracterende Partijen.
-
-##### Art. 13
-
-De Hooge contracterende Partijen verbinden zich, de in de artt. 1, 2 en 4 omschreven werken vóór den 1sten Januarij 1866, of zoo mogelijk vroeger, te doen uitvoeren.
-
-Onmiddellijk na de voltooijing dezer werken zal aan de bepalingen der artt. 3, 4, 5, 6 en 7 gevolg worden gegeven.
-
-Tot die voltooijing zal de voeding der kanalen en der bevloeijingen plaats hebben op dezelfde wijze, als zulks is geschied gedurende de twee laatste jaren.
-
-##### Art. 14
-
-Het tegenwoordig tractaat zal bekrachtigd en de bekrachtigingen zullen te 's Gravenhage uitgewisseld worden, binnen verloop van vier maanden of, zoo mogelijk, vroeger.
+Le présent traité sera ratifié et les ratifications en seront échangées à La Haye, dans le délai de quatre mois ou plus tôt, si faire se peut.
 
 En foi de quoi les plénipotentiaires susdits l'ont signé et y ont apposé leur cachet.
 
 Fait à La Haye, le douze Mai mil huit-cent soixante-trois.
 
-**(L. S.) (Get.)** P. VAN DER MAESEN DE SOMBREFF.
+*(L. S.) (Get.)* P. VAN DER MAESEN DE SOMBREFF.
 
-**(Get.)** THORBECKE.
+*(Get.)* THORBECKE.
 
-**(Get.)** G. H. BETZ.
+*(Get.)* G. H. BETZ.
 
-**(L. S.) (Get.)** baron DU JARDIN.
+*(L. S.) (Get.)* baron DU JARDIN.

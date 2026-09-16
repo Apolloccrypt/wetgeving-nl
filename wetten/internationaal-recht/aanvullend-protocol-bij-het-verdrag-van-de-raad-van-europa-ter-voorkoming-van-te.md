@@ -1,150 +1,115 @@
 ---
 title: "Aanvullend Protocol bij het Verdrag van de Raad van Europa ter voorkoming van terrorisme"
 identifier: "BWBV0006641"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-10-01"
-last_updated: "2021-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006641"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005383893"
-version_id: "10005814642"
-internal_id: "C10009834111"
-label_id: "10005366844"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006641/2021-10-01/0"
-intitule_bron: "Trb.2016-180"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-11-21"
-intitule_in_force: "2021-07-08"
-intitule_status: "goed"
-original_publication: "Trb.2016-180"
-original_published_date: "2016-11-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2016-180"
-entry_into_force_date: "2021-10-01"
-jci_1_3: "jci1.3:c:BWBV0006641&z=2021-10-01&g=2021-10-01"
-jci_1_0: "1.0:c:BWBV0006641&g=2021-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-10-01"
+publicatiedatum: 2021-10-01
+laatste_update: 2021-10-01
+status: geldig
+toestand: 2021-10-01
+bron: "https://wetten.overheid.nl/BWBV0006641"
+opgehaald: 2026-09-16
 ---
+
 # Aanvullend Protocol bij het Verdrag van de Raad van Europa ter voorkoming van terrorisme
 
-Preambule
+*Preambule The member States of the Council of Europe and the other Parties to the Council of Europe Convention on the Prevention of Terrorism (CETS No. 196), signatory to this Protocol, Considering that the aim of the Council of Europe is to achieve greater unity between its members; Desiring to further strengthen the efforts to prevent and suppress terrorism in all its forms, both in Europe and globally, while respecting human rights and the rule of law; Recalling human rights and fundamental freedoms enshrined, in particular, in the Convention for the Protection of Human Rights and Fundamental Freedoms (ETS No. 5) and its protocols, as well as in the International Covenant on Civil and Political Rights; Expressing their grave concern about the threat posed by persons travelling abroad for the purpose of committing, contributing to or participating in terrorist offences, or the providing or receiving of training for terrorism in the territory of another State; Having regard in this respect to Resolution 2178 (2014) adopted by the Security Council of the United Nations at its 7272nd meeting on 24 September 2014, in particular paragraphs 4 to 6 thereof; Considering it desirable to supplement the Council of Europe Convention on the Prevention of Terrorism in certain respects, Have agreed as follows:*
 
-De lidstaten van de Raad van Europa en de andere Partijen bij het [Verdrag van de Raad van Europa ter voorkoming van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBV0004604) (CETS nr.196) die dit Protocol hebben ondertekend,
+##### Article 1. – Purpose
 
-Overwegend dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn leden;
+The purpose of this Protocol is to supplement the provisions of the [Council of Europe Convention on the Prevention of Terrorism](https://wetten.overheid.nl/jci1.3:c:BWBV0004604), opened for signature in Warsaw on 16 May 2005 (hereinafter referred to as “the Convention”) as regards the criminalisation of the acts described in [Articles 2 to 6](https://wetten.overheid.nl/BWBR0011837) of this Protocol, thereby enhancing the efforts of Parties in preventing terrorism and its negative effects on the full enjoyment of human rights, in particular the right to life, both by measures to be taken at national level and through international co-operation, with due regard to the existing applicable multilateral or bilateral treaties or agreements between the Parties.
 
-Geleid door de wens tot versterking van de inspanningen om terrorisme in al zijn vormen te voorkomen en te bestrijden, zowel in Europa als in de rest van de wereld, waarbij de mensenrechten en de rechtsstaat worden geëerbiedigd;
+##### Article 2. – Participating in an association or group for the purpose of terrorism
 
-Herinnerend aan de mensenrechten en fundamentele vrijheden die met name zijn vastgelegd in het [Verdrag tot bescherming van de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) en de fundamentele vrijheden (ETS nr. 5) en de protocollen daarbij alsmede in het [Internationaal Verdrag inzake burgerrechten en politieke rechten](https://wetten.overheid.nl/jci1.3:c:BWBV0001017);
+1. For the purpose of this Protocol, “participating in an association or group for the purpose of terrorism” means to participate in the activities of an association or group for the purpose of committing or contributing to the commission of one or more terrorist offences by the association or the group.
 
-Hun ernstige bezorgdheid uitsprekend over de dreiging die uitgaat van personen die naar het buitenland reizen met het oogmerk terroristische misdrijven te plegen, hieraan bij te dragen of hieraan deel te nemen, of training voor terrorisme te geven of te krijgen op het grondgebied van een andere Staat;
+2. Each Party shall adopt such measures as may be necessary to establish “participating in an association or group for the purpose of terrorism”, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
 
-Gelet in dit verband op resolutie 2178 (2014) aangenomen door de Veiligheidsraad van de Verenigde Naties tijdens zijn 7272e bijeenkomst op 24 september 2014, en met name de paragrafen 4 tot en met 6 daarvan;
+##### Article 3. – Receiving training for terrorism
 
-Overwegend dat het wenselijk is het [Verdrag van de Raad van Europa ter voorkoming van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBV0004604) in bepaalde opzichten aan te vullen,
+1. For the purpose of this Protocol, “receiving training for terrorism” means to receive instruction, including obtaining knowledge or practical skills, from another person in the making or use of explosives, firearms or other weapons or noxious or hazardous substances, or in other specific methods or techniques, for the purpose of carrying out or contributing to the commission of a terrorist offence.
 
-Zijn het volgende overeengekomen:
+2. Each Party shall adopt such measures as may be necessary to establish “receiving training for terrorism”, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
 
-##### Artikel 1. – Doelstelling
+##### Article 4. – Travelling abroad for the purpose of terrorism
 
-Dit Protocol heeft ten doel de bepalingen van het [Verdrag van de Raad van Europa ter voorkoming van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBV0004604), voor ondertekening opengesteld te Warschau op 16 mei 2005 (hierna te noemen „het Verdrag”) aan te vullen wat betreft de strafbaarstelling van de handelingen omschreven in de artikelen 2 tot en met 6 van dit Protocol, om zo de inspanningen van de Partijen te ondersteunen bij het voorkomen van terrorisme en de negatieve gevolgen daarvan voor het volledige genot van mensenrechten, met name het recht op leven, zowel door maatregelen die op nationaal niveau worden genomen als door internationale samenwerking, met inachtneming van de bestaande van toepassing zijnde multilaterale of bilaterale verdragen of overeenkomsten tussen de Partijen.
+1. For the purpose of this Protocol, “travelling abroad for the purpose of terrorism” means travelling to a State, which is not that of the traveller’s nationality or residence, for the purpose of the commission of, contribution to or participation in a terrorist offence, or the providing or receiving of training for terrorism.
 
-##### Artikel 2. – Met terroristisch oogmerk deelnemen aan een organisatie of groep
+2. Each Party shall adopt such measures as may be necessary to establish “travelling abroad for the purpose of terrorism”, as defined in paragraph 1, from its territory or by its nationals, when committed unlawfully and intentionally, as a criminal offence under its domestic law. In doing so, each Party may establish conditions required by and in line with its constitutional principles.
 
-1. Voor de toepassing van dit Protocol wordt verstaan onder „met terroristisch oogmerk deelnemen aan een organisatie of groep” het deelnemen aan de activiteiten van een organisatie of groep met als oogmerk het plegen of bijdragen aan het plegen van een of meer terroristische misdrijven door de organisatie of groep.
+3. Each Party shall also adopt such measures as may be necessary to establish as a criminal offence under, and in accordance with, its domestic law the attempt to commit an offence as set forth in this article.
 
-2. Elke Partij neemt de maatregelen die nodig kunnen zijn om „met terroristisch oogmerk deelnemen aan een organisatie of groep”, als omschreven in het eerste lid, wanneer dit wederrechtelijk en opzettelijk geschiedt, als strafbaar feit aan te merken volgens haar nationale recht.
+##### Article 5. – Funding travelling abroad for the purpose of terrorism
 
-##### Artikel 3. – Krijgen van training voor terrorisme
+1. For the purpose of this Protocol, “funding travelling abroad for the purpose of terrorism” means providing or collecting, by any means, directly or indirectly, funds fully or partially enabling any person to travel abroad for the purpose of terrorism, as defined in [Article 4, paragraph 1](https://wetten.overheid.nl/BWBV0006641), of this Protocol, knowing that the funds are fully or partially intended to be used for this purpose.
 
-1. Voor de toepassing van dit Protocol wordt verstaan onder „krijgen van training voor terrorisme” het krijgen van instructie, met inbegrip van het verkrijgen van kennis of praktische vaardigheden, van een andere persoon voor het vervaardigen of gebruiken van explosieven, vuurwapens of andere wapens of schadelijke of gevaarlijke stoffen, of voor andere specifieke methoden of technieken, met als doel het plegen of bijdragen aan het plegen van een terroristisch misdrijf.
+2. Each Party shall adopt such measures as may be necessary to establish the “funding of travelling abroad for the purpose of terrorism”, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
 
-2. Elke Partij neemt de maatregelen die nodig kunnen zijn om het „krijgen van training voor terrorisme”, als omschreven in het eerste lid, wanneer dit wederrechtelijk en opzettelijk geschiedt, als strafbaar feit aan te merken volgens haar nationale recht.
+##### Article 6. – Organising or otherwise facilitating travelling abroad for the purpose of Terrorism
 
-##### Artikel 4. – Reizen naar het buitenland met terroristisch oogmerk
+1. For the purpose of this Protocol, “organising or otherwise facilitating travelling abroad for the purpose of terrorism” means any act of organisation or facilitation that assists any person in travelling abroad for the purpose of terrorism, as defined in [Article 4, paragraph 1](https://wetten.overheid.nl/BWBV0006641), of this Protocol, knowing that the assistance thus rendered is for the purpose of terrorism.
 
-1. Voor de toepassing van dit Protocol wordt verstaan onder „reizen naar het buitenland met terroristisch oogmerk” het reizen naar een Staat, niet zijnde de Staat van nationaliteit of verblijf van de reiziger, met als oogmerk het plegen of bijdragen aan het plegen van of deelnemen aan een terroristisch misdrijf, of het geven of krijgen van training voor terrorisme.
+2. Each Party shall adopt such measures as may be necessary to establish “organising or otherwise facilitating travelling abroad for the purpose of terrorism”, as defined in paragraph 1, when committed unlawfully and intentionally, as a criminal offence under its domestic law.
 
-2. Elke Partij neemt de maatregelen die nodig kunnen zijn om „reizen naar het buitenland met terroristisch oogmerk”, als omschreven in het eerste lid, vanuit haar grondgebied of door haar onderdanen, wanneer dit wederrechtelijk en opzettelijk geschiedt, als strafbaar feit aan te merken volgens haar nationale recht. Daarbij kan elke Partij voorwaarden vaststellen vereist door en in overeenstemming met haar grondwettelijke beginselen.
+##### Article 7. – Exchange of information
 
-3. Elke Partij neemt tevens de maatregelen die nodig kunnen zijn om volgens en in overeenstemming met haar nationale recht als strafbaar feit aan te merken pogingen tot het plegen van een strafbaar feit als omschreven in dit artikel.
+1. Without prejudice to [Article 3, paragraph 2, sub-paragraph a, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004604&artikel=3) and in accordance with its domestic law and existing international obligations, each Party shall take such measures as may be necessary in order to strengthen the timely exchange between Parties of any available relevant information concerning persons travelling abroad for the purpose of terrorism, as defined in [Article 4](https://wetten.overheid.nl/BWBV0006641). For that purpose, each Party shall designate a point of contact available on a 24-hour, seven-days-a-week basis.
 
-##### Artikel 5. – Financiering van reizen naar het buitenland met terroristisch oogmerk
+2. A Party may choose to designate an already existing point of contact under paragraph 1.
 
-1. Voor de toepassing van dit Protocol wordt verstaan onder „financiering van reizen naar het buitenland met terroristisch oogmerk” het verschaffen of verzamelen, ongeacht met welke middelen, direct of indirect, van fondsen die een persoon volledig of gedeeltelijk in staat stellen met terroristisch oogmerk naar het buitenland te reizen, zoals omschreven in artikel 4, eerste lid, van dit Protocol, in de wetenschap dat de fondsen daarvoor volledig of gedeeltelijk bestemd zijn.
+3. A Party’s point of contact shall have the capacity to carry out communications with the point of contact of another Party on an expedited basis.
 
-2. Elke Partij neemt de maatregelen die nodig kunnen zijn om de „financiering van reizen naar het buitenland met terroristisch oogmerk”, als omschreven in het eerste lid, wanneer dit wederrechtelijk en opzettelijk geschiedt, als strafbaar feit aan te merken volgens haar nationale recht.
+##### Article 8. – Conditions and safeguards
 
-##### Artikel 6. – Organiseren of anderszins faciliteren van reizen naar het buitenland met terroristisch oogmerk
+1. Each Party shall ensure that the implementation of this Protocol, including the establishment, implementation and application of the criminalisation under [Articles 2 to 6](https://wetten.overheid.nl/BWBR0011837), is carried out while respecting human rights obligations, in particular the right to freedom of movement, freedom of expression, freedom of association and freedom of religion, as set forth in, where applicable to that Party, the [Convention for the Protection of Human Rights and Fundamental Freedoms](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), the [International Covenant on Civil and Political Rights](https://wetten.overheid.nl/jci1.3:c:BWBV0001017) and other obligations under international law.
 
-1. Voor de toepassing van dit Protocol wordt verstaan onder „organiseren of anderszins faciliteren van reizen naar het buitenland met terroristisch oogmerk” elke handeling gericht op het organiseren of faciliteren van de reis van een persoon naar het buitenland met terroristisch oogmerk, als omschreven in artikel 4, eerste lid, van dit Protocol, in de wetenschap dat de aldus verleende bijstand een terroristisch oogmerk heeft.
+2. The establishment, implementation and application of the criminalisation under [Articles 2 to 6](https://wetten.overheid.nl/BWBR0011837) of this Protocol should furthermore be subject to the principle of proportionality, with respect to the legitimate aims pursued and to their necessity in a democratic society, and should exclude any form of arbitrariness or discriminatory or racist treatment.
 
-2. Elke Partij neemt de maatregelen die nodig kunnen zijn om het „organiseren of anderszins faciliteren van reizen naar het buitenland met terroristisch oogmerk”, als omschreven in het eerste lid, wanneer dit wederrechtelijk en opzettelijk geschiedt, als strafbaar feit aan te merken volgens haar nationale recht.
+##### Article 9. – Relation between this Protocol and the Convention
 
-##### Artikel 7. – Uitwisseling van informatie
+The words and expressions used in this Protocol shall be interpreted within the meaning of [the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004604). As between the Parties, all the provisions of the Convention shall apply accordingly, with the exception of [Article 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004604&artikel=9).
 
-1. Onverminderd [artikel 3, tweede lid, onderdeel a, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004604&artikel=3) en in overeenstemming met haar nationale recht en bestaande internationale verplichtingen, neemt elke Partij de maatregelen die nodig kunnen zijn om de tijdige uitwisseling tussen Partijen van beschikbare relevante informatie over personen die naar het buitenland reizen met terroristisch oogmerk, als omschreven in artikel 4, te versterken. Daartoe wijst elke Partij een contactpunt aan dat 7 dagen per week, 24 uur per dag bereikbaar is.
+##### Article 10. – Signature and entry into force
 
-2. Een Partij kan ervoor kiezen een reeds bestaand contactpunt aan te wijzen uit hoofde van het eerste lid.
+1. This Protocol shall be open for signature by Signatories to [the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004604). It shall be subject to ratification, acceptance or approval. A Signatory may not ratify, accept or approve this Protocol unless it has previously ratified, accepted or approved the Convention, or does so simultaneously. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-3. Het contactpunt van een Partij dient in staat te zijn volgens een versnelde procedure te communiceren met het contactpunt van een andere Partij.
+2. This Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the deposit of the sixth instrument of ratification, acceptance or approval, including at least four member States of the Council of Europe.
 
-##### Artikel 8. – Voorwaarden en waarborgen
+3. In respect of any Signatory which subsequently deposits its instrument of ratification, acceptance or approval, this Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of the instrument of ratification, acceptance or approval.
 
-1. Elke Partij waarborgt dat de tenuitvoerlegging van dit Protocol, met inbegrip van de vaststelling, tenuitvoerlegging en toepassing van de strafbaarstelling ingevolge de artikelen 2 tot en met 6, plaatsvindt met inachtneming van de verplichtingen op het gebied van mensenrechten, met name het recht op vrijheid van verplaatsing, vrijheid van meningsuiting, vrijheid van vereniging en vrijheid van godsdienst, als vervat in, wanneer van kracht voor die Partij, [het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004604) voor de bescherming van de rechten van de mens en de fundamentele vrijheden, het [Internationaal Verdrag inzake burgerrechten en politieke rechten](https://wetten.overheid.nl/jci1.3:c:BWBV0001017), en andere verplichtingen uit hoofde van het internationale recht.
+##### Article 11. – Accession to the Protocol
 
-2. Ten aanzien van de vaststelling, tenuitvoerlegging en toepassing van de strafbaarstelling ingevolge de artikelen 2 tot en met 6 van dit Protocol dient voorts het evenredigheidsbeginsel te gelden wat betreft de legitieme doelen die worden nagestreefd en de noodzaak daarvan in een democratische maatschappij, waarbij elke vorm van willekeur of discriminatoire of racistische behandeling wordt uitgesloten.
+1. After the entry into force of this Protocol, any State, which has acceded to [the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004604), may also accede to this Protocol or do so simultaneously.
 
-##### Artikel 9. – Verhouding tussen dit Protocol en [het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004604)
+2. In respect of any State acceding to the Protocol under paragraph 1 above, the Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of the instrument of accession with the Secretary General of the Council of Europe.
 
-De in dit Protocol gebruikte woorden en uitdrukkingen worden uitgelegd in de zin van [het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004604). Tussen de Partijen zijn alle bepalingen van het Verdrag dienovereenkomstig van toepassing, met uitzondering van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004604&artikel=9).
+##### Article 12. – Territorial application
 
-##### Artikel 10. – Ondertekening en inwerkingtreding
+1. Any State or the European Union may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Protocol shall apply.
 
-1. Dit Protocol staat open voor ondertekening door de Staten die [het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004604) hebben ondertekend. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. Een ondertekenaar van dit Protocol kan het uitsluitend bekrachtigen, aanvaarden of goedkeuren na of tegelijkertijd met de bekrachtiging, aanvaarding of goedkeuring van het Verdrag. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+2. Any Party may, at any later time, by declaration addressed to the Secretary General of the Council of Europe, extend the application of this Protocol to any other territory specified in the declaration. In respect of such territory the Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of the declaration by the Secretary General.
 
-2. Dit Protocol treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de nederlegging van de zesde akte van bekrachtiging, aanvaarding of goedkeuring, waaronder door ten minste vier lidstaten van de Raad van Europa.
+3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.
 
-3. Met betrekking tot elke ondertekenaar die later zijn akte van bekrachtiging, aanvaarding of goedkeuring nederlegt, treedt dit Protocol in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
+##### Article 13. – Denunciation
 
-##### Artikel 11. – Toetreding tot het Protocol
+1. Any Party may, at any time, denounce this Protocol by means of a notification addressed to the Secretary General of the Council of Europe.
 
-1. Na de inwerkingtreding van dit Protocol kan elke Staat die is toegetreden tot [het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004604) tevens toetreden tot dit Protocol of dit gelijktijdig doen.
+2. Such denunciation shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of the notification by the Secretary General of the Council of Europe.
 
-2. Ten aanzien van elke Staat die ingevolge het eerste lid van dit artikel tot dit Protocol toetreedt, treedt het Protocol in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+3. Denunciation of [the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004604) automatically entails denunciation of this Protocol.
 
-##### Artikel 12. – Territoriale toepassing
+##### Article 14. – Notifications
 
-1. Elke Staat of de Europese Unie kan, op het tijdstip van de ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden waarop dit Protocol van toepassing is nader aanduiden.
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, the European Union, the non-member States which have participated in the elaboration of this Protocol as well as any State which has acceded to, or has been invited to accede to, this Protocol of:
 
-2. Elke Partij kan op een later tijdstip, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa de toepassing van dit Protocol uitbreiden tot elk ander grondgebied dat in de verklaring wordt omschreven. Ten aanzien van een dergelijk grondgebied treedt het Protocol in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de verklaring door de Secretaris-Generaal.
+- a) any signature;
 
-3. Elke krachtens de twee voorgaande leden gedane verklaring kan met betrekking tot elk in die verklaring genoemd grondgebied worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+- b) the deposit of any instrument of ratification, acceptance, approval or accession;
 
-##### Artikel 13. – Opzegging
+- c) any date of entry into force of this Protocol in accordance with [Articles 10](https://wetten.overheid.nl/BWBV0006641) and [11](https://wetten.overheid.nl/BWBV0006641);
 
-1. Elke Partij kan dit Protocol te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
-
-2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
-
-3. Opzegging van [het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004604) heeft automatisch opzegging van dit Protocol ten gevolge.
-
-##### Artikel 14. – Kennisgevingen
-
-De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de Europese Unie, de niet-lidstaten die hebben deelgenomen aan de opstelling van dit Protocol en elke Staat die is toegetreden of is uitgenodigd toe te treden tot dit Protocol, in kennis van:
-
-- a. elke ondertekening;
-
-- b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- c. elke datum van inwerkingtreding van dit Protocol in overeenstemming met de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006641&artikel=10&z=2021-10-01&g=2021-10-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006641&artikel=11&z=2021-10-01&g=2021-10-01);
-
-- d. elke andere akte, verklaring, kennisgeving of mededeling met betrekking tot dit Protocol.
+- d) any other act, declaration, notification or communication relating to this Protocol.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

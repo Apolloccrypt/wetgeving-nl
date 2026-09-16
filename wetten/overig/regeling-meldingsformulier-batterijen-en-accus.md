@@ -6,10 +6,11 @@ categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2023-06-27
 laatste_update: 2023-07-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-11
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0024500"
-opgehaald: 2026-08-13
+opgehaald: 2026-09-16
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 september 2008, nr. K&K 2008087862, houdende vaststelling van een formulier voor het doen van een mededeling in verband met de uitvoering van het Besluit beheer batterijen en accu’s 2008 (Regeling mededelingenformulier batterijen en accu’s 2008)

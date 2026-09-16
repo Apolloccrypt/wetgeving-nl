@@ -1,53 +1,28 @@
 ---
 title: "Overeenkomst tussen de Regeringen van de Benelux-Staten en de Regering van Azerbeidzjan inzake de afschaffing van de visumplicht voor houders van dienstpaspoorten"
 identifier: "BWBV0006707"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-11-23"
-last_updated: "2017-11-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006707"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005421913"
-version_id: "10005865982"
-internal_id: "C10009302381"
-label_id: "10005404744"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006707/2017-11-23/0"
-intitule_bron: "Trb.2017-196"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-12-15"
-intitule_status: "nogniet"
-original_publication: "Trb.2017-196"
-original_published_date: "2017-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2017-196"
-jci_1_3: "jci1.3:c:BWBV0006707&z=2017-11-23&g=2017-11-23"
-jci_1_0: "1.0:c:BWBV0006707&g=2017-11-23"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-12-15"
+laatste_update: 2017-11-23
+status: geldig
+toestand: 2017-11-23
+bron: "https://wetten.overheid.nl/BWBV0006707"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst tussen de Regeringen van de Benelux-Staten en de Regering van Azerbeidzjan inzake de afschaffing van de visumplicht voor houders van dienstpaspoorten
 
-De Regering van de Republiek Azerbeidzjan en de Regeringen van de Benelux-Staten (die hierna gezamenlijk worden aangeduid als de „Partijen” en afzonderlijk als een „Partij”);
-
-**IN HET BESEF** dat de Regeringen van de Benelux-Staten gezamenlijk optreden op basis van de [Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied](https://wetten.overheid.nl/jci1.3:c:BWBV0005246), die op 11 april 1960 in Brussel werd ondertekend;
-
-**GEZIEN** de Overeenkomst tussen de Europese Unie en de Republiek Azerbeidzjan inzake de versoepeling van de afgifte van visa met bijbehorende Gemeenschappelijke Verklaring over dienstpaspoorten, die op 29 november 2013 in Vilnius werd ondertekend;
-
-**VERLANGENDE** de onderdanen van de Republiek Azerbeidzjan en de onderdanen van de Benelux-Staten die houder zijn van een geldig dienstpaspoort makkelijker toegang te geven tot hun onderscheiden landen;
-
-**KOMEN HIERBIJ** het volgende **OVEREEN:**
+*De Regering van de Republiek Azerbeidzjan en de Regeringen van de Benelux-Staten (die hierna gezamenlijk worden aangeduid als de „Partijen” en afzonderlijk als een „Partij”); IN HET BESEF dat de Regeringen van de Benelux-Staten gezamenlijk optreden op basis van de Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied, die op 11 april 1960 in Brussel werd ondertekend; GEZIEN de Overeenkomst tussen de Europese Unie en de Republiek Azerbeidzjan inzake de versoepeling van de afgifte van visa met bijbehorende Gemeenschappelijke Verklaring over dienstpaspoorten, die op 29 november 2013 in Vilnius werd ondertekend; VERLANGENDE de onderdanen van de Republiek Azerbeidzjan en de onderdanen van de Benelux-Staten die houder zijn van een geldig dienstpaspoort makkelijker toegang te geven tot hun onderscheiden landen; KOMEN HIERBIJ het volgende OVEREEN:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
 Tenzij uit de context anders blijkt, wordt in deze Overeenkomst verstaan onder:
 
-- –. „Grondgebied van de Republiek Azerbeidzjan”: het grondgebied van de Republiek Azerbeidzjan;
+- – „Grondgebied van de Republiek Azerbeidzjan”: het grondgebied van de Republiek Azerbeidzjan;
 
-- –. „Benelux-Staten”: het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
+- – „Benelux-Staten”: het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
 
-- –. „Benelux-gebied”: het gezamenlijke grondgebied in Europa van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden.
+- – „Benelux-gebied”: het gezamenlijke grondgebied in Europa van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden.
 
 ##### Artikel 2. Bevoegde autoriteiten
 
@@ -117,6 +92,6 @@ Deze Overeenkomst kan door elke Partij worden opgeschort. Deze Partij dient onmi
 
 2. De Depositaris zal de Partijen in kennis stellen van deze uitbreiding.
 
-**TEN BLIJKE WAARVAN**, de ondergetekenden, die daartoe naar behoren zijn gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend.
+*TEN BLIJKE WAARVAN*, de ondergetekenden, die daartoe naar behoren zijn gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend.
 
-**GEDAAN** te Brussel op 23 november 2017, in één oorspronkelijk exemplaar in de Azerbeidzjaanse, de Franse, de Nederlandse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
+*GEDAAN* te Brussel op 23 november 2017, in één oorspronkelijk exemplaar in de Azerbeidzjaanse, de Franse, de Nederlandse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.

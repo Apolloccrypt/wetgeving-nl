@@ -1,88 +1,45 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Organisatie voor de Veiligheid van de Luchtvaart inzake het verlenen van luchtvaartdiensten aan het operationele luchtverkeer"
 identifier: "BWBV0006693"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-08-28"
-last_updated: "2017-08-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006693"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005413213"
-version_id: "10005854472"
-internal_id: "C10009277471"
-label_id: "10005395884"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006693/2017-08-28/0"
-intitule_bron: "Trb.2017-152"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-09-01"
-intitule_in_force: "2017-09-01"
-intitule_status: "goed"
-original_publication: "Trb.2017-152"
-original_published_date: "2017-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2017-152"
-entry_into_force_date: "2017-08-28"
-jci_1_3: "jci1.3:c:BWBV0006693&z=2017-08-28&g=2017-08-28"
-jci_1_0: "1.0:c:BWBV0006693&g=2017-08-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-08-28"
+publicatiedatum: 2017-08-28
+laatste_update: 2017-08-28
+status: geldig
+toestand: 2017-08-28
+bron: "https://wetten.overheid.nl/BWBV0006693"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Organisatie voor de Veiligheid van de Luchtvaart inzake het verlenen van luchtvaartdiensten aan het operationele luchtverkeer
 
-The Kingdom of the Netherlands, hereinafter referred to as “the Netherlands”, and the European Organisation for the Safety of Air Navigation (EUROCONTROL), hereinafter referred to as “the Organisation” and, hereinafter jointly referred to as “the Parties”;
-
-Having regard to the [EUROCONTROL International Convention relating to Co-operation for the Safety of Air Navigation](https://wetten.overheid.nl/jci1.3:c:BWBV0004802) as amended at Brussels in 1981 (“the amended Convention”);
-
-Having regard to [Article 2, paragraph 2 (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=2), [Article 6, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=6), [Article 7, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=7), [Article 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=11) and [Article 12 of the amended Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&artikel=12);
-
-Having regard to Decision No. 71 of the Permanent Commission of 9 December 1997 on early implementation of certain provisions in the revised Convention, in particular in respect of the role and duties of the Organisation;
-
-Having regard to Decision No. 72 of the Permanent Commission of 9 December 1997 on early implementation of certain provisions in the revised Convention, in particular on the establishment of a Provisional Council;
-
-Having regard to the [Agreement relating to the Provision and Operation of Air Traffic Services and Facilities by EUROCONTROL at the Maastricht Area Control Centre](https://wetten.overheid.nl/jci1.3:c:BWBV0002446), signed at Brussels on 25 November 1986 (hereinafter referred to as “the Maastricht Agreement”);
-
-Whereas the Netherlands wishes to integrate civil-military air traffic services in the Amsterdam Flight Information Region with the objective to improve the overall performance of the air traffic management system for the benefit of both civil and military airspace users;
-
-Whereas, in order to achieve the desired integration of civil-military air traffic management services in the entire Dutch airspace, the Netherlands intends to entrust the Organisation with the provision of air traffic services for operational air traffic in the upper airspace of the Amsterdam Flight Information Region at Maastricht Upper Area Control Centre;
-
-Whereas the purpose of this Agreement is to establish the conditions pursuant to which the Organisation shall provide air traffic services to OAT in the upper airspace of the Amsterdam FIR;
-
-Having regard to Measure No. 15/216 of the Permanent Commission of 9 December 2015 authorising the Organisation to negotiate and conclude an agreement in this regard;
-
-Whereas amendments of the [Maastricht Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002446) may have an impact on the present Agreement and that the present Agreement may therefore need to be amended;
-
-Whereas the Parties commit to keep the present agreement aligned with the [Maastricht Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002446) to the fullest possible extent to ensure its proper functioning;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands, hereinafter referred to as “the Netherlands”, and the European Organisation for the Safety of Air Navigation (EUROCONTROL), hereinafter referred to as “the Organisation” and, hereinafter jointly referred to as “the Parties”; Having regard to the EUROCONTROL International Convention relating to Co-operation for the Safety of Air Navigation as amended at Brussels in 1981 (“the amended Convention”); Having regard to Article 2, paragraph 2 (b), Article 6, paragraph 3, Article 7, paragraph 2, Article 11 and Article 12 of the amended Convention; Having regard to Decision No. 71 of the Permanent Commission of 9 December 1997 on early implementation of certain provisions in the revised Convention, in particular in respect of the role and duties of the Organisation; Having regard to Decision No. 72 of the Permanent Commission of 9 December 1997 on early implementation of certain provisions in the revised Convention, in particular on the establishment of a Provisional Council; Having regard to the Agreement relating to the Provision and Operation of Air Traffic Services and Facilities by EUROCONTROL at the Maastricht Area Control Centre, signed at Brussels on 25 November 1986 (hereinafter referred to as “the Maastricht Agreement”); Whereas the Netherlands wishes to integrate civil-military air traffic services in the Amsterdam Flight Information Region with the objective to improve the overall performance of the air traffic management system for the benefit of both civil and military airspace users; Whereas, in order to achieve the desired integration of civil-military air traffic management services in the entire Dutch airspace, the Netherlands intends to entrust the Organisation with the provision of air traffic services for operational air traffic in the upper airspace of the Amsterdam Flight Information Region at Maastricht Upper Area Control Centre; Whereas the purpose of this Agreement is to establish the conditions pursuant to which the Organisation shall provide air traffic services to OAT in the upper airspace of the Amsterdam FIR; Having regard to Measure No. 15/216 of the Permanent Commission of 9 December 2015 authorising the Organisation to negotiate and conclude an agreement in this regard; Whereas amendments of the Maastricht Agreement may have an impact on the present Agreement and that the present Agreement may therefore need to be amended; Whereas the Parties commit to keep the present agreement aligned with the Maastricht Agreement to the fullest possible extent to ensure its proper functioning; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 For the purpose of this Agreement:
 
-- a). the term Agency means: Agency of the European Organisation for the Safety of Air Navigation (EUROCONTROL);
+- a) the term Agency means: Agency of the European Organisation for the Safety of Air Navigation (EUROCONTROL);
 
-- b). the term Agreement means: this Agreement, the contracts drawn up in application thereof under [Articles 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006693&artikel=4&z=2017-08-28&g=2017-08-28) and [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006693&artikel=8&z=2017-08-28&g=2017-08-28), as well as any amendment to the Agreement or the contracts;
+- b) the term Agreement means: this Agreement, the contracts drawn up in application thereof under [Articles 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006693&artikel=4&z=2017-08-28&g=2017-08-28) and [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006693&artikel=8&z=2017-08-28&g=2017-08-28), as well as any amendment to the Agreement or the contracts;
 
-- c). the term Amsterdam FIR means: Amsterdam Flight Information Region;
+- c) the term Amsterdam FIR means: Amsterdam Flight Information Region;
 
-- d). the term Director General means: Director General of the Agency of the European Organisation for the Safety of Air Navigation (EUROCONTROL)
+- d) the term Director General means: Director General of the Agency of the European Organisation for the Safety of Air Navigation (EUROCONTROL)
 
-- e). the term MAA means: Military Aviation Authority of the Netherlands;
+- e) the term MAA means: Military Aviation Authority of the Netherlands;
 
-- f). the term MUAC means: the Maastricht Upper Area Control Centre;
+- f) the term MUAC means: the Maastricht Upper Area Control Centre;
 
-- g). the term Maastricht Agreement means: the [Agreement relating to the Provision and Operation of Air Traffic Services and Facilities by EUROCONTROL at the Maastricht Area Control Centre](https://wetten.overheid.nl/jci1.3:c:BWBV0002446), signed at Brussels on 25 November 1986;
+- g) the term Maastricht Agreement means: the [Agreement relating to the Provision and Operation of Air Traffic Services and Facilities by EUROCONTROL at the Maastricht Area Control Centre](https://wetten.overheid.nl/jci1.3:c:BWBV0002446), signed at Brussels on 25 November 1986;
 
-- h). the term Ministry of Defense means: Ministry of Defense of the Netherlands;
+- h) the term Ministry of Defense means: Ministry of Defense of the Netherlands;
 
-- i). the term OAT means: operational air traffic, i.e. flights that are not conducted in accordance with the rules and procedures established by the International Civil Aviation Organization;
+- i) the term OAT means: operational air traffic, i.e. flights that are not conducted in accordance with the rules and procedures established by the International Civil Aviation Organization;
 
-- j). the term TRA means: Temporary Restricted Area;
+- j) the term TRA means: Temporary Restricted Area;
 
-- k). the term NSA means: the National Supervisory Authority of the Netherlands.
+- k) the term NSA means: the National Supervisory Authority of the Netherlands.
 
 ##### Article 2. Mandate
 
@@ -98,11 +55,11 @@ For the purpose of this Agreement:
 
 2. The Organisation shall determine the operational and technical measures required for the operation of air traffic services under this Agreement, with the aim of ensuring the safety, efficiency and expeditious flow of OAT through the most cost-effective means. For this purpose, the Organisation shall:
 
-- a). establish through its Agency the means required for the discharge of its task pursuant to [Annex I of the amended Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&bijlage=I) (Statute of the Agency);
+- a) establish through its Agency the means required for the discharge of its task pursuant to [Annex I of the amended Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004802&bijlage=I) (Statute of the Agency);
 
-- b). ensure maximum compatibility between the services provided by MUAC pursuant to the [Maastricht Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002446) and pursuant to this Agreement as well as with the services provided by the Netherlands in the airspace under its control;
+- b) ensure maximum compatibility between the services provided by MUAC pursuant to the [Maastricht Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002446) and pursuant to this Agreement as well as with the services provided by the Netherlands in the airspace under its control;
 
-- c). agree with the Netherlands on the manner in which the facilities referred to in [Article 4, paragraph 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006693&artikel=4&z=2017-08-28&g=2017-08-28), of this Agreement shall be operated.
+- c) agree with the Netherlands on the manner in which the facilities referred to in [Article 4, paragraph 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006693&artikel=4&z=2017-08-28&g=2017-08-28), of this Agreement shall be operated.
 
 3. The Organisation sees to it that any planning by MUAC, which may have a significant impact on OAT service provision, as well as the radar control and reporting service, shall be agreed in a timely manner with the Netherlands before becoming effective.
 
@@ -138,9 +95,9 @@ The Netherlands shall ensure that MAA and the NSA set up a common mechanism for 
 
 2. The Director General shall ensure the day to day operation of the air traffic services, including management of staff and equipment. For this purpose:
 
-- a). he shall observe the Organisation's internal rules and staff service regulations, as well as any measures taken by the Committee of Management and the Commission pursuant to the provisions of [Articles 3, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006693&artikel=3&z=2017-08-28&g=2017-08-28), of this Agreement and [Article 5 of the Maastricht Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=5);
+- a) he shall observe the Organisation's internal rules and staff service regulations, as well as any measures taken by the Committee of Management and the Commission pursuant to the provisions of [Articles 3, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006693&artikel=3&z=2017-08-28&g=2017-08-28), of this Agreement and [Article 5 of the Maastricht Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=5);
 
-- b). he shall maintain close consultation and coordination in the operational and technical fields with the air traffic services agencies of the Netherlands and other relevant stakeholders concerned.
+- b) he shall maintain close consultation and coordination in the operational and technical fields with the air traffic services agencies of the Netherlands and other relevant stakeholders concerned.
 
 ##### Article 6. Personnel
 
@@ -182,11 +139,11 @@ To the extent required for the operation of the services pursuant to this Agreem
 
 4. The Organisation shall take out insurance in its own name to cover all or some of the risks incurred in connection with this Agreement, including damage due to revenue loss, and in particular risks arising in connection with:
 
-- a). liability towards third parties (airlines, users, passengers, etc.)
+- a) liability towards third parties (airlines, users, passengers, etc.)
 
-- b). liability towards States, and
+- b) liability towards States, and
 
-- c). damage to, or loss of its installations.
+- c) damage to, or loss of its installations.
 
 ##### Article 12. Amendments
 
@@ -216,7 +173,7 @@ In addition, either Party may terminate this Agreement by written notice if this
 
 DONE in two originals drawn up in the English language.
 
-**For the Kingdom of the Netherlands:**
+*For the Kingdom of the Netherlands:*
 
 Lt-Gen D.J. LUYT
 
@@ -226,7 +183,7 @@ Place: Breda
 
 Date: 28-08-2017
 
-**For EUROCONTROL:**
+*For EUROCONTROL:*
 
 FRANK BRENNER
 

@@ -1,59 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de winning van steenkolen in het Nederlands-Duitse grensgebied ten westen van Wegberg - Brüggen"
 identifier: "BWBV0006512"
-country: "nl"
-rank: "verdrag"
-publication_date: "1959-10-24"
-last_updated: "1959-10-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006512"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005306973"
-version_id: "10005706032"
-internal_id: "C10008833941"
-label_id: "10005289904"
-dtd_version: "2.0"
-original_entry_into_force: "1959-10-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006512/1959-10-24/0"
-intitule_bron: "Trb.1958-77"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1958-01-28"
-intitule_published: "1958-06-18"
-intitule_in_force: "1959-10-10"
-intitule_status: "goed"
-original_publication: "Trb.1958-77"
-original_signed_date: "1958-01-28"
-original_published_date: "1958-06-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1958-77"
-entry_into_force_date: "1959-10-24"
-jci_1_3: "jci1.3:c:BWBV0006512&z=1959-10-24&g=1959-10-24"
-jci_1_0: "1.0:c:BWBV0006512&g=1959-10-24"
-citeertitel_status: "redactioneel"
-signed_date: "1958-01-28"
-entry_into_force: "1959-10-24"
+publicatiedatum: 1959-10-24
+laatste_update: 1959-10-24
+status: geldig
+toestand: 1959-10-24
+bron: "https://wetten.overheid.nl/BWBV0006512"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de winning van steenkolen in het Nederlands-Duitse grensgebied ten westen van Wegberg - Brüggen
 
-Hare Majesteit de Koningin der Nederlanden en
-
-de President van de Bondsrepubliek Duitsland,
-
-geleid door de wens, de in bijlage C van het verdrag tussen de Nederlandse en Duitse regering van 11 mei 1920 nopens crediet en steenkolen bedoelde bijzondere regeling tot stand te doen komen en een rationele ontwikkeling der steenkolenproductie in het Nederlands-Duitse grensgebied mogelijk te maken, zijn overeengekomen tot dit doel een verdrag te sluiten en hebben daartoe tot hun gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden
-
-De Heer Arnold Theodor Lamping,
-
-Harer Majesteits Buitengewoon en Gevolmachtigd Ambassadeur te Bonn,
-
-De President van de Bondsrepubliek Duitsland
-
-De Heer Dr. Heinrich von Brentano,
-
-Bondsminister van Buitenlandse Zaken,
-
-die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden en de President van de Bondsrepubliek Duitsland, geleid door de wens, de in bijlage C van het verdrag tussen de Nederlandse en Duitse regering van 11 mei 1920 nopens crediet en steenkolen bedoelde bijzondere regeling tot stand te doen komen en een rationele ontwikkeling der steenkolenproductie in het Nederlands-Duitse grensgebied mogelijk te maken, zijn overeengekomen tot dit doel een verdrag te sluiten en hebben daartoe tot hun gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden De Heer Arnold Theodor Lamping, Harer Majesteits Buitengewoon en Gevolmachtigd Ambassadeur te Bonn, De President van de Bondsrepubliek Duitsland De Heer Dr. Heinrich von Brentano, Bondsminister van Buitenlandse Zaken, die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -61,17 +21,17 @@ die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewiss
 
 (2). Het verdragsgebied omvat
 
-- a). het steenkolenveld, dat op bijgaande kaart grijs gearceerd en door de verbindingslijnen der punten 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 1 omsloten is (veld Sophia-Jacoba B);
+- a) het steenkolenveld, dat op bijgaande kaart grijs gearceerd en door de verbindingslijnen der punten 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 1 omsloten is (veld Sophia-Jacoba B);
 
-- b). de steenkolenvelden, die op bijgaande kaart blauw gearceerd en door de verbindingslijnen der punten 3, 30, 31, 32, 6, 5, 4, 3 omsloten zijn (velden Brüggen 1, 2 en 3);
+- b) de steenkolenvelden, die op bijgaande kaart blauw gearceerd en door de verbindingslijnen der punten 3, 30, 31, 32, 6, 5, 4, 3 omsloten zijn (velden Brüggen 1, 2 en 3);
 
-- c). het concessievrije gebied, dat op bijgaande kaart groen gearceerd en door de Nederlands-Duitse rijksgrens alsmede de verbindingslijnen der punten 33, 34, 8, 7, 6, 32, 31, 30, 3, 2, 1, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 35 omsloten is.
+- c) het concessievrije gebied, dat op bijgaande kaart groen gearceerd en door de Nederlands-Duitse rijksgrens alsmede de verbindingslijnen der punten 33, 34, 8, 7, 6, 32, 31, 30, 3, 2, 1, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 35 omsloten is.
 
 (3). De in lid (2) vermelde kaart vormt een bestanddeel van dit verdrag.
 
 ##### Artikel 2
 
-Voor de in artikel 1, lid (2), onder **b**) genoemde steenkolenvelden en het onder **c**) genoemde concessievrije gebied wordt het verdrag van toepassing met de ingevolge het „Preussische Gesetz über den Bergwerksbetrieb ausländischer juristischer Personen und den Geschäftsbetrieb ausserpreussischer Gewerkschaften” van 23 juni 1909 („Gesetzsammlung” bladzijde 619) vereiste vergunningen.
+Voor de in artikel 1, lid (2), onder *b*) genoemde steenkolenvelden en het onder *c*) genoemde concessievrije gebied wordt het verdrag van toepassing met de ingevolge het „Preussische Gesetz über den Bergwerksbetrieb ausländischer juristischer Personen und den Geschäftsbetrieb ausserpreussischer Gewerkschaften” van 23 juni 1909 („Gesetzsammlung” bladzijde 619) vereiste vergunningen.
 
 ##### Artikel 3
 
@@ -85,7 +45,7 @@ De steenkolenmijnbouw in het verdragsgebied dient te worden uitgeoefend door een
 
 ##### Artikel 5
 
-In het in artikel 1, lid (2), onder **a**) genoemde steenkolenveld mogen schachten en daarbij behorende bovengrondse werken worden opgericht, daarentegen niet in het overige verdragsgebied.
+In het in artikel 1, lid (2), onder *a*) genoemde steenkolenveld mogen schachten en daarbij behorende bovengrondse werken worden opgericht, daarentegen niet in het overige verdragsgebied.
 
 ##### Artikel 6
 
@@ -153,13 +113,13 @@ De niet-zelfstandige arbeid van werknemers, die door de Nederlandse mijnondernem
 
 (1). De Bondsrepubliek Duitsland verleent ten behoeve van de mijnwerken in het verdragsgebied de navolgende faciliteiten:
 
-- a). Goederen, bestemd voor de inrichting of de exploitatie van de ondergrondse mijnwerken, in het bijzonder bouwmaterialen, mijnhout, stalen stutmateriaal, rails, buizen, leidingen, machines, werktuigen, onderdelen, smeermiddelen en vulmateriaal, mogen vrij van in- en uitvoerrechten, alsmede van in- en uitvoerverboden en -beperkingen zowel door schachten, welke op Nederlands gebied zijn gelegen, als door schachten in het verdragsgebied naar het in laatstgenoemd gebied gelegen ondergrondse deel van het mijnbedrijf gebracht en vandaar teruggevoerd worden. Deze goederen zijn ondergronds niet aan douanecontrôle onderworpen.
+- a) Goederen, bestemd voor de inrichting of de exploitatie van de ondergrondse mijnwerken, in het bijzonder bouwmaterialen, mijnhout, stalen stutmateriaal, rails, buizen, leidingen, machines, werktuigen, onderdelen, smeermiddelen en vulmateriaal, mogen vrij van in- en uitvoerrechten, alsmede van in- en uitvoerverboden en -beperkingen zowel door schachten, welke op Nederlands gebied zijn gelegen, als door schachten in het verdragsgebied naar het in laatstgenoemd gebied gelegen ondergrondse deel van het mijnbedrijf gebracht en vandaar teruggevoerd worden. Deze goederen zijn ondergronds niet aan douanecontrôle onderworpen.
 
-- b). Goederen, bestemd voor gebruik in de bovengrondse mijnwerken mogen vrij van in- en uitvoerrechten en vrij van in- en uitvoerverboden en -beperkingen alsmede zonder zekerheidsstelling tijdelijk in het verdragsgebied ingevoerd en van daar weder uitgevoerd worden. Goederen, bestemd voor gebruik in de bovengrondse mijnwerken, zijn evenwel aan de Duitse in- en uitvoerverboden en -beperkingen, alsmede aan de Duitse douanevoorschriften onderworpen.
+- b) Goederen, bestemd voor gebruik in de bovengrondse mijnwerken mogen vrij van in- en uitvoerrechten en vrij van in- en uitvoerverboden en -beperkingen alsmede zonder zekerheidsstelling tijdelijk in het verdragsgebied ingevoerd en van daar weder uitgevoerd worden. Goederen, bestemd voor gebruik in de bovengrondse mijnwerken, zijn evenwel aan de Duitse in- en uitvoerverboden en -beperkingen, alsmede aan de Duitse douanevoorschriften onderworpen.
 
-- c). De in het verdragsgebied gewonnen kolen kunnen door de Nederlandse mijnonderneming vrij van uitvoerrechten en van uitvoerverboden en -beperkingen naar Nederland worden uitgevoerd; voor deze kolen zijn de bepalingen inzake de vergoeding bij uitvoer („Ausfuhrvergütung”) niet van toepassing.
+- c) De in het verdragsgebied gewonnen kolen kunnen door de Nederlandse mijnonderneming vrij van uitvoerrechten en van uitvoerverboden en -beperkingen naar Nederland worden uitgevoerd; voor deze kolen zijn de bepalingen inzake de vergoeding bij uitvoer („Ausfuhrvergütung”) niet van toepassing.
 
-- d). De aan- en afvoer van stroom, perslucht, gas en water via de bedrijfsleidingen van de Nederlandse mijnonderneming naar en van de in het verdragsgebied gelegen mijnwerken, zowel onder- als bovengronds, zijn vrij van in- en uitvoerrechten en zijn aan generlei verboden of beperkingen onderworpen.
+- d) De aan- en afvoer van stroom, perslucht, gas en water via de bedrijfsleidingen van de Nederlandse mijnonderneming naar en van de in het verdragsgebied gelegen mijnwerken, zowel onder- als bovengronds, zijn vrij van in- en uitvoerrechten en zijn aan generlei verboden of beperkingen onderworpen.
 
 (2). Het bepaalde in lid (1) sluit de mogelijkheid niet uit om voor bijzondere, door de Duitse douanedienst bewezen diensten een vergoeding te heffen.
 

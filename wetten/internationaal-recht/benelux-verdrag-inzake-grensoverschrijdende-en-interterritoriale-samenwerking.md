@@ -1,82 +1,19 @@
 ---
 title: "Benelux-Verdrag inzake grensoverschrijdende en interterritoriale samenwerking"
 identifier: "BWBV0006323"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006323"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005166103"
-version_id: "10005534982"
-internal_id: "C10009502461"
-label_id: "10005149074"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006323/2019-01-01/0"
-intitule_bron: "Trb.2014-62"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-03-17"
-intitule_in_force: "2018-12-12"
-intitule_status: "goed"
-original_publication: "Trb.2014-62"
-original_published_date: "2014-03-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2014-62"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBV0006323&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBV0006323&g=2019-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBV0006323"
+opgehaald: 2026-09-16
 ---
+
 # Benelux-Verdrag inzake grensoverschrijdende en interterritoriale samenwerking
 
-Het Koninkrijk België, vertegenwoordigd door:
-
-de Federale Regering,
-
-de Vlaamse Regering,
-
-de Franse Gemeenschapsregering,
-
-de Duitstalige Gemeenschapsregering,
-
-de Waalse Regering,
-
-de Brusselse Hoofdstedelijke Regering.
-
-Het Groothertogdom Luxemburg,
-
-Het Koninkrijk der Nederlanden,
-
-hierna genoemd „de Partijen”,
-
-Gelet op het [Verdrag tot instelling van de Benelux Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047), en in het bijzonder [artikel 6, tweede lid, onder f)](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=6),
-
-Gelet op de [Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten](https://wetten.overheid.nl/jci1.3:c:BWBV0004011), ondertekend te Madrid op 21 mei 1980 alsmede het [Aanvullend Protocol nr. 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001289) van 9 november 1995, [Protocol nr. 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001410) van 5 mei 1998 en [Protocol nr. 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004026) van 16 november 2009 bij deze kaderovereenkomst;
-
-Gelet op de [Benelux-Overeenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerkingsverbanden of autoriteiten](https://wetten.overheid.nl/jci1.3:c:BWBV0002714), ondertekend te Brussel op 12 september 1986, en het [Protocol, gedaan te Brussel op 22 september 1998, tot aanvulling van deze Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002977);
-
-Met voldoening vaststellende dat territoriale samenwerkingsverbanden of autoriteiten op het grondgebied van de Lidstaten van de Benelux Unie, de hiervoor vermelde [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002714) veelvuldig voor hun onderlinge grensoverschrijdende samenwerking gebruiken;
-
-Vaststellende dat de samenwerkingsverbanden die tot stand zijn gekomen op basis van deze [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002714) de deelnemende leden bij een efficiënte grensoverschrijdende samenwerking hebben ondersteund, maar tegelijkertijd ook belemmeringen in de samenwerking aan het licht hebben gebracht;
-
-Overwegende dat een actualisering van de [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002714) gewenst is om een oplossing voor deze belemmeringen te bieden;
-
-Overwegende dat deze actualisering mede gewenst is in het licht van de in Europees verband tot stand gekomen nieuwe mogelijkheden om grensoverschrijdend en interterritoriaal samen te werken;
-
-Gezien de belangstelling in de Raadgevende Interparlementaire Beneluxraad voor grensoverschrijdende samenwerking en de melding aan deze Raad in de gezamenlijke verslagen van de Belgische, Nederlandse en Luxemburgse regeringen over 2007 en 2008, dat actualisering van de [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002714) ter hand is genomen;
-
-Vaststellende dat de [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002714) toelaat de samenwerking te regelen tussen territoriale samenwerkingsverbanden of -autoriteiten van de drie Lidstaten van de Benelux Unie, maar niet tussen territoriale samenwerkingsverbanden of autoriteiten van deze Staten en territoriale gemeenschappen of autoriteiten van de buurlanden van deze Staten;
-
-Overwegende dat het om deze redenen aangewezen is om de grensoverschrijdende en interterritoriale samenwerking in een nieuw Verdrag te regelen;
-
-Wensende uitvoering te geven aan de doelstellingen van het [Verdrag tot instelling van de Benelux Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047), en inzonderheid [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=2), daarvan, dat bepaalt dat de Benelux Unie tot doel heeft de samenwerking tussen de Hoge Verdragsluitende Partijen te verdiepen en uit te bouwen, opdat deze verder een voortrekkersrol kan vervullen binnen de Europese Unie en de grensoverschrijdende samenwerking op alle niveaus kan versterken en verbeteren;
-
-Eveneens wensende te handelen in de geest van [deel 3 van het Verdrag tot instelling van de Benelux Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&deel=3) en inzonderheid [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=25) daarvan, waarin de samenwerking tussen enerzijds de Benelux Unie en anderzijds de Staten, Deelstaten en bestuurlijke entiteiten die grenzen aan de grondgebieden van de Benelux Lidstaten, wordt benadrukt.
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België, vertegenwoordigd door: de Federale Regering, de Vlaamse Regering, de Franse Gemeenschapsregering, de Duitstalige Gemeenschapsregering, de Waalse Regering, de Brusselse Hoofdstedelijke Regering. Het Groothertogdom Luxemburg, Het Koninkrijk der Nederlanden, hierna genoemd „de Partijen”, Gelet op het Verdrag tot instelling van de Benelux Unie, en in het bijzonder artikel 6, tweede lid, onder f), Gelet op de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten, ondertekend te Madrid op 21 mei 1980 alsmede het Aanvullend Protocol nr. 1 van 9 november 1995, Protocol nr. 2 van 5 mei 1998 en Protocol nr. 3 van 16 november 2009 bij deze kaderovereenkomst; Gelet op de Benelux-Overeenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerkingsverbanden of autoriteiten, ondertekend te Brussel op 12 september 1986, en het Protocol, gedaan te Brussel op 22 september 1998, tot aanvulling van deze Benelux-Overeenkomst; Met voldoening vaststellende dat territoriale samenwerkingsverbanden of autoriteiten op het grondgebied van de Lidstaten van de Benelux Unie, de hiervoor vermelde Benelux-Overeenkomst veelvuldig voor hun onderlinge grensoverschrijdende samenwerking gebruiken; Vaststellende dat de samenwerkingsverbanden die tot stand zijn gekomen op basis van deze Benelux-Overeenkomst de deelnemende leden bij een efficiënte grensoverschrijdende samenwerking hebben ondersteund, maar tegelijkertijd ook belemmeringen in de samenwerking aan het licht hebben gebracht; Overwegende dat een actualisering van de Benelux-Overeenkomst gewenst is om een oplossing voor deze belemmeringen te bieden; Overwegende dat deze actualisering mede gewenst is in het licht van de in Europees verband tot stand gekomen nieuwe mogelijkheden om grensoverschrijdend en interterritoriaal samen te werken; Gezien de belangstelling in de Raadgevende Interparlementaire Beneluxraad voor grensoverschrijdende samenwerking en de melding aan deze Raad in de gezamenlijke verslagen van de Belgische, Nederlandse en Luxemburgse regeringen over 2007 en 2008, dat actualisering van de Benelux-Overeenkomst ter hand is genomen; Vaststellende dat de Benelux-Overeenkomst toelaat de samenwerking te regelen tussen territoriale samenwerkingsverbanden of -autoriteiten van de drie Lidstaten van de Benelux Unie, maar niet tussen territoriale samenwerkingsverbanden of autoriteiten van deze Staten en territoriale gemeenschappen of autoriteiten van de buurlanden van deze Staten; Overwegende dat het om deze redenen aangewezen is om de grensoverschrijdende en interterritoriale samenwerking in een nieuw Verdrag te regelen; Wensende uitvoering te geven aan de doelstellingen van het Verdrag tot instelling van de Benelux Unie, en inzonderheid artikel 2, eerste lid, daarvan, dat bepaalt dat de Benelux Unie tot doel heeft de samenwerking tussen de Hoge Verdragsluitende Partijen te verdiepen en uit te bouwen, opdat deze verder een voortrekkersrol kan vervullen binnen de Europese Unie en de grensoverschrijdende samenwerking op alle niveaus kan versterken en verbeteren; Eveneens wensende te handelen in de geest van deel 3 van het Verdrag tot instelling van de Benelux Unie en inzonderheid artikel 25 daarvan, waarin de samenwerking tussen enerzijds de Benelux Unie en anderzijds de Staten, Deelstaten en bestuurlijke entiteiten die grenzen aan de grondgebieden van de Benelux Lidstaten, wordt benadrukt. Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 

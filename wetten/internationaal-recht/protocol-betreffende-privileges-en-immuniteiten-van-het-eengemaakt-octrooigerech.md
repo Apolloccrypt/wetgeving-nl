@@ -1,222 +1,183 @@
 ---
 title: "Protocol betreffende privileges en immuniteiten van het eengemaakt octrooigerecht"
 identifier: "BWBV0006612"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-10-27"
-last_updated: "2021-10-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006612"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005370403"
-version_id: "10005795352"
-internal_id: "C10009857661"
-label_id: "10005353114"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006612/2021-10-27/0"
-intitule_bron: "Trb.2016-110"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-07-26"
-intitule_in_force: "2021-10-28"
-intitule_status: "goed"
-original_publication: "Trb.2016-110"
-original_published_date: "2016-07-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2016-110"
-entry_into_force_date: "2021-10-27"
-jci_1_3: "jci1.3:c:BWBV0006612&z=2021-10-27&g=2021-10-27"
-jci_1_0: "1.0:c:BWBV0006612&g=2021-10-27"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-10-27"
+publicatiedatum: 2021-10-27
+laatste_update: 2021-10-27
+status: geldig
+toestand: 2021-10-27
+bron: "https://wetten.overheid.nl/BWBV0006612"
+opgehaald: 2026-09-16
 ---
+
 # Protocol betreffende privileges en immuniteiten van het eengemaakt octrooigerecht
 
-De ondertekenende overeenkomstsluitende lidstaten bij de [Overeenkomst betreffende een eengemaakt octrooigerecht](https://wetten.overheid.nl/jci1.3:c:BWBV0006168),
+*The undersigning Contracting Member States of the Agreement on a Unified Patent Court, Considering that the Unified Patent Court has been established by the Agreement on a Unified Patent Court of 19 February 2013 as an international organisation with legal personality in each Contracting Member State; Recalling that the Agreement on a Unified Patent Court provides, in Article 37(1), that Contracting Member States hosting the central division of the Court of First Instance or one of its sections, a local or regional division of the Court of First Instance or the Court of Appeal of the Unified Patent Court shall provide facilities and, during the initial seven years, also administrative support staff; Recalling that the Statute of the Unified Patent Court provides, in Article 8, that the Protocol on the privileges and immunities of the European Union shall apply to the judges of the Unified Patent Court; Recalling that Article 8(4) of the Statute of the Unified Patent Court covers both the privileges and immunities of the judges of the Unified Patent Court and that the application of the Protocol on the privileges and immunities of the European Union to the judges of the Unified Patent Court has been foreseen because of the intrinsic link of the latter with the European patent with unitary effect and cannot create any precedent for the application of that Protocol to other international organizations with regard to the host nation policies of the Contracting Member States; Recalling that the Administrative Committee has the competence to set up an internal tax and a social security scheme under the powers of administration which are conferred to it by the Unified Patent Court Agreement; Recalling that the Agreement on a Unified Patent Court provides, in Article 4, that the Unified Patent Court shall enjoy the most extensive legal capacity accorded to legal persons under the national law of that State; Recognizing that the Unified Patent Court needs to benefit from privileges and immunities which are necessary for the exercise of its functions; Considering that a common approach on how to address issues of privileges and immunities is essential in view of the needs of the Unified Patent Court and of the Contracting Member States; Recognizing that additional bilateral Headquarter Agreements may be concluded between the Unified Patent Court and Contracting Member States hosting the central division of the Court of First Instance or one of its sections, a local or regional division of the Court of First Instance or the Court of Appeal of the Unified Patent Court. Have agreed as follows:*
 
-Overwegende dat het Eengemaakt Octrooigerecht is opgericht bij de [Overeenkomst betreffende een eengemaakt octrooigerecht](https://wetten.overheid.nl/jci1.3:c:BWBV0006168) d.d. 19 februari 2013 als internationale organisatie met rechtspersoonlijkheid in elke overeenkomstsluitende lidstaat;
+##### Article 1. Use of terms
 
-In herinnering roepend dat de [Overeenkomst betreffende een eengemaakt octrooigerecht](https://wetten.overheid.nl/jci1.3:c:BWBV0006168) in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=37), bepaalt dat de overeenkomstsluitende lidstaten, waar de centrale divisie van het Gerecht van Eerste Aanleg, een van zijn afdelingen, een lokale of regionale divisie van het Gerecht van Eerste Aanleg of het Hof van Beroep van het Eengemaakt Octrooigerecht gevestigd is, faciliteiten alsmede gedurende de eerste zeven jaar administratief ondersteunend personeel verstrekken;
+For the purpose of this Protocol:
 
-In herinnering roepend dat het [statuut van het Eengemaakt Octrooigerecht](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I) in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=8) bepaalt dat het Protocol betreffende de voorrechten en immuniteiten van de Europese Unie van toepassing is op de rechters van het Eengemaakt Octrooigerecht;
+- a) “Agreement” means the [Agreement on a Unified Patent Court](https://wetten.overheid.nl/BWBV0006168) of 19 February 2013;
 
-In herinnering roepend dat [artikel 8, vierde lid, van het statuut van het Eengemaakt Octrooigerecht](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=8) van toepassing is op zowel de voorrechten als de immuniteiten van de rechters van het Eengemaakt Octrooigerecht en dat de toepassing van het Protocol betreffende de voorrechten en immuniteiten van de Europese Unie op de rechters van het Eengemaakt Octrooigerecht voorzien is vanwege het intrinsieke verband van het laatste met het Europees octrooi met eenheidswerking en geen precedent kan scheppen voor de toepassing van dat protocol op andere internationale organisaties met betrekking tot het vestigingsbeleid van de overeenkomstsluitende lidstaten;
+- b) “Statute” means the [Statute of the Unified Patent Court](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I) as set out in [Annex I of the Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I);
 
-In herinnering roepend dat het Bestuurscomité bevoegd is regelingen voor interne belastingheffing en sociale zekerheid in te stellen uit hoofde van de administratieve bevoegdheden die hem zijn verleend bij de [Overeenkomst betreffende een eengemaakt octrooigerecht](https://wetten.overheid.nl/jci1.3:c:BWBV0006168);
+- c) “State Party” means a State party to this Protocol;
 
-In herinnering roepend dat de [Overeenkomst betreffende een eengemaakt octrooigerecht](https://wetten.overheid.nl/jci1.3:c:BWBV0006168) in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=4) bepaalt dat het Eengemaakt Octrooigerecht de ruimste handelingsbevoegdheid bezit die uit hoofde van het nationale recht van die staat verleend wordt aan rechtspersonen;
+- d) “Contracting Member State” means a State party to the [Agreement](https://wetten.overheid.nl/BWBV0006168);
 
-Erkennend dat het Eengemaakt Octrooigerecht gebruik moet kunnen maken van de voorrechten en immuniteiten die nodig zijn voor de uitvoering van zijn taken;
+- e) “Court” means the Unified Patent Court created by the [Agreement](https://wetten.overheid.nl/BWBV0006168);
 
-Overwegend dat een gezamenlijke benadering van kwesties rond voorrechten en immuniteiten essentieel is gelet op de behoeften van het Eengemaakt Octrooigerecht en die van de overeenkomstsluitende lidstaten;
+- f) “Court of Appeal” means the Court of Appeal of the Court;
 
-Erkennend dat aanvullende bilaterale zetelverdragen kunnen worden gesloten tussen het Eengemaakt Octrooigerecht en de overeenkomstsluitende lidstaten waar de centrale divisie van het Gerecht van Eerste Aanleg, een van zijn afdelingen, een lokale of regionale divisie van het Gerecht van Eerste Aanleg of het Hof van Beroep van het Eengemaakt Octrooigerecht gevestigd is.
+- g) “The official activities of the Court” means the activities that are necessary for the fulfilment by the Court of the purposes and functions it has been entrusted with in accordance with the provisions of the [Agreement](https://wetten.overheid.nl/BWBV0006168);
 
-Zijn het volgende overeengekomen:
+- h) “Premises of the Court” means land and buildings made available to the Court by the Contracting Member State in accordance with [Article 37 of the Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=37) and used for the official activities of the Court;
 
-##### Artikel 1. Begripsomschrijvingen
+- i) “Judge” means a Judge of the Court.
 
-Voor de toepassing van dit Protocol wordt verstaan onder:
+- j) “Registrar” means the Registrar and the Deputy-Registrar of the Court.
 
-- a. „Overeenkomst”: de [Overeenkomst betreffende een eengemaakt octrooigerecht](https://wetten.overheid.nl/jci1.3:c:BWBV0006168) d.d. 19 februari 2013;
+- k) “Staff” means all personnel employed by the Court as officials and other servants of the Court except the Judges and the Registrar.
 
-- b. „statuut”: het statuut van het Eengemaakt Octrooigerecht zoals vervat in [Bijlage I van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I);
+- l) “Family” means, with respect to any person, the spouse and dependent members of the immediate family of such person forming part of such person’s household, as recognised by the hosting Contracting Member State;
 
-- c. „staat die partij is”: een staat die partij is bij dit Protocol;
+- m) “Representatives of the parties” means the lawyers, European patent attorneys or patent attorneys authorised to practice or assist before the Court under [Article 48 of the Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=48).
 
-- d. „overeenkomstsluitende lidstaat”: een staat die partij is bij de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006168);
+##### Article 2. General provisions on privileges and immunities of the Court
 
-- e. „Gerecht”: het Eengemaakt Octrooigerecht dat bij de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006168) wordt ingesteld;
+The Court shall enjoy in the territory of each State Party such privileges and immunities as are necessary for the exercise of its official activities.
 
-- f. „Hof van Beroep”: het Hof van Beroep van het Gerecht;
+##### Article 3. Inviolability of the premises of the Court
 
-- g. „de officiële werkzaamheden van het Gerecht”: de werkzaamheden die nodig zijn voor uitvoering door het Gerecht ten behoeve van de doelen en taken waarmee het is belast in overeenstemming met de bepalingen van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006168);
+The premises of the Court shall be inviolable, subject to such conditions as may be agreed with the State Party concerned and subject to the responsibility of the State Party hosting the central division of the Court of First Instance or one of its sections, a local or regional division of the Court of First Instance or the Court of Appeal with respect to the facilities that are to be provided by such a State Party.
 
-- h. „terrein van het Gerecht”: het perceel en de gebouwen door de overeenkomstsluitende lidstaat aan het Gerecht ter beschikking gesteld in overeenstemming met [artikel 37 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=37) en gebruikt voor de officiële werkzaamheden van het Gerecht;
+##### Article 4. Inviolability of archives and documents
 
-- i. „rechter”: een rechter van het Gerecht;
+The archives of the Court, and all papers and documents in whatever form belonging to it, held by it or addressed to it shall be inviolable at all times and wherever they may be located.
 
-- j. „griffier”: de griffier en de plaatsvervangend griffier van het Gerecht;
+##### Article 5. Immunity of the Court, its property, assets and funds
 
-- k. „personeel”: alle medewerkers in dienst van het Gerecht als ambtenaar en andere personeelsleden van het Gerecht met uitzondering van de rechters en de griffier;
+1. The Court shall enjoy immunity from legal process, except:
 
-- l. „familie”: met betrekking tot een persoon, de echtgeno(o)t(e) en afhankelijke leden van het gezin van deze persoon die deel uitmaken van zijn huishouden en als zodanig worden erkend door de overeenkomstsluitende lidstaat waar de persoon werkzaam is;
+- a. insofar as in any particular case it has expressly waived its immunity;
 
-- m. „vertegenwoordigers van de partijen”: advocaten, Europese octrooigemachtigden of octrooigemachtigden die uit hoofde van [artikel 48 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=48) gemachtigd zijn op te treden of bijstand te verlenen voor het Gerecht.
+- b. as in the event of civil proceedings against it with respect to contractual liability brought by persons others than the Judges, the Registrar or the Staff of the Court;
 
-##### Artikel 2. Algemene bepalingen inzake voorrechten en immuniteiten van het Gerecht
+- c. as in cases of civil proceedings against it with respect to non-contractual liability except where the claim is based on the performance of the Court’s jurisprudence or
 
-Op het grondgebied van elke staat die partij is, geniet het Gerecht de voorrechten en immuniteiten die nodig zijn voor de uitoefening van zijn officiële werkzaamheden.
+- d. in the case of a civil proceeding brought by a third party for damages resulting from an accident caused by a motor vehicle belonging to, or operated on behalf of, the Court, or in respect of a motor traffic offence involving such a vehicle.
 
-##### Artikel 3. Onschendbaarheid van het terrein van het Gerecht
+2. The Court shall enjoy immunity from legal process in respect of search, requisition, confiscation, seizure or expropriation of, or any other form of interference with, the property, assets and funds of the Court, wherever located, without the authorisation of the Court.
 
-Het terrein van het Gerecht is onschendbaar onder de voorwaarden die kunnen worden overeengekomen met de desbetreffende staat die partij is en met inachtneming van de verantwoordelijkheid van de staat die partij is waar de centrale divisie van het Gerecht van Eerste Aanleg, een van zijn afdelingen, een lokale of regionale divisie van het Gerecht van Eerste Aanleg of het Hof van Beroep is gevestigd ter zake van de faciliteiten die door de staat die partij is dienen te worden verstrekt.
+3. To the extent necessary to exercise its official activities, the property, assets and funds of the Court shall be exempt from restrictions, regulations, controls and moratoria of any nature.
 
-##### Artikel 4. Onschendbaarheid van archieven en documenten
+##### Article 6. Immunity of Representatives of a State Party
 
-De archieven van het Gerecht en alle stukken en documenten in welke vorm dan ook, toebehorend aan, in het bezit van of gericht aan het Gerecht, ongeacht waar deze zich bevinden, zijn te allen tijde onschendbaar.
+1. Representatives of a State Party shall enjoy, while attending meetings of the Administrative Committee, the Budget Committee and the Advisory Committee immunities from legal process in respect of all acts performed by them in their official capacity, including their words spoken or written. This immunity shall continue to be accorded even after the termination of their mission.
 
-##### Artikel 5. Immuniteit van het Gerecht, zijn eigendommen, activa en middelen
+2. Their official papers and documents shall be inviolable.
 
-1. Het Gerecht geniet immuniteit van rechtsvervolging, behalve:
+3. No State Party is obliged to extend the immunities referred to in paragraph 1 and 2 to its own nationals or any person who at the time of taking up his functions with the Court has his permanent residence in that State.
 
-- a. voorzover het in een specifieke zaak uitdrukkelijk afstand heeft gedaan van zijn immuniteit;
+##### Article 7. Exemption from taxes
 
-- b. in het geval van civiele vorderingen tegen het Gerecht ter zake van contractuele aansprakelijkheid ingesteld door natuurlijke personen niet zijnde rechters, de griffier of het personeel van het Gerecht;
+1. The Court, its property and assets, shall be exempt from all direct taxes.
 
-- c. in het geval van civiele procedures tegen het Gerecht ter zake van andere dan contractuele aansprakelijkheid, tenzij de vordering de jurisprudentie van het Gerecht betreft; of
+2. The Court shall
 
-- d. in het geval van civiele procedures tegen het Gerecht ingesteld door derden wegens schadevergoeding voortvloeiend uit een ongeval veroorzaakt door een motorvoertuig dat toebehoort aan of bestuurd wordt namens het Gerecht of in verband met een verkeersovertreding waarbij een dergelijk voertuig betrokken is.
+- a. be exempt from or accorded a refund of value added taxes paid on any substantial purchase of goods and services which are necessary and supplied for the official activities of the Court, subject to the limitations laid down by the host State Party;
 
-2. Het Gerecht geniet immuniteit van gerechtelijke procedures ter zake van onderzoek, beslaglegging, vordering, inbeslagneming of onteigening van, of iedere andere vorm van inmenging zonder toestemming van het Gerecht in de eigendommen, activa en middelen van het Gerecht, ongeacht waar deze zich bevinden.
+- b. however not be exempt from taxes and dues which amount to charges for public utility services.
 
-3. Voor zover nodig voor de uitoefening van zijn officiële werkzaamheden, zijn de eigendommen, activa en middelen van het Gerecht gevrijwaard van beperkingen, voorschriften, controles en moratoria van welke aard dan ook.
+3. Goods purchased under such an exemption or reimbursement shall not be sold or otherwise disposed of in that State Party or in another Member State of the European Union, except in accordance with the conditions laid down by the State Party which granted the exemption or reimbursement.
 
-##### Artikel 6. Immuniteit van vertegenwoordigers van staten die partij zijn
+4. Without prejudice to the obligations arising for the State Parties under European Union law and the application of laws and regulations, the conditions and procedure shall be determined by the competent fiscal authorities of each State Party.
 
-1. Vertegenwoordigers van staten die partij zijn genieten tijdens het bijwonen van vergaderingen van het Bestuurscomité, het Begrotingscomité en het Raadgevend Comité immuniteit van gerechtelijke procedures ter zake van alle handelingen verricht in hun officiële hoedanigheid, met inbegrip van door hen gesproken of geschreven woorden. Deze immuniteit blijft ook gelden na de beëindiging van hun missie.
+##### Article 8. Funds and freedom from currency restrictions
 
-2. Hun officiële stukken en documenten zijn onschendbaar.
+The State Parties shall accord the Court the freedom of currency restrictions which is necessary for the exercise of its official activities.
 
-3. Geen enkele staat die partij is, is verplicht de immuniteiten bedoeld in het eerste en tweede lid uit te breiden tot zijn eigen onderdanen of personen die ten tijde van het aanvaarden van hun functie bij het Gerecht hun vaste woonplaats in die staat hebben.
+##### Article 9. Privileges and Immunities of the Judges and the Registrar
 
-##### Artikel 7. Vrijstelling van belastingen
+1. The privileges and immunities of the Judges are governed by [Article 8 of the Statute](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=8) and by reference in Article 8 of the Statute by the Protocol on the privileges and immunities of the European Union.
 
-1. Het Gerecht, zijn eigendommen en activa zijn vrijgesteld van alle directe belastingen.
+2. [Article 8 of the Statute](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=8) and the Protocol on the privileges and immunities of the European Union shall apply to the Registrar.
 
-2. Het Gerecht
+3. When applied in accordance with paragraph 1 and 2, only Article 11(b-e) to 14 of the Protocol on the privileges and immunities of the European Union are to be applied in analogy adapted to the specific circumstances of the Court. This means in particular that the Judges and the Registrar shall:
 
-- a. is vrijgesteld van belasting toegevoegde waarde of kan deze terugontvangen over grote aankopen van goederen en diensten die noodzakelijk zijn voor de officiële werkzaamheden van het Gerecht met inachtneming van de beperkingen vastgesteld door de staat die partij is waar het Gerecht gevestigd is;
+- a. be liable to an internal tax for the benefit of the Court on salaries, wages and emoluments paid to them by the Court;
 
-- b. is evenwel niet vrijgesteld van belastingen en heffingen in verband met openbare diensten.
+- b. from the date on which the internal tax under letter (a) is applied, be exempted from national taxation on the salaries, wages and emoluments, paid to them by the Court, but not on pensions and annuities, paid to them by the Court;
 
-3. Gekochte goederen waarvoor vrijstelling of teruggave van belastingen geldt, mogen in die staat die partij is of in een andere lidstaat van de Europese Unie niet worden verkocht of anderszins worden vervreemd, tenzij voldaan wordt aan de voorwaarden vastgesteld door de staat die partij is die de vrijstelling of teruggave heeft verleend.
+- c. from the date on which the Judges and the Registrar are subject to a social security and health scheme established by the Court, with respect to services rendered for the Court, be exempted from all compulsory contributions to national social security and health schemes.
 
-4. Onverminderd de verplichtingen voor de staten die partij zijn uit hoofde van het recht van de Europese Unie en de toepassing van de wet- en regelgeving, worden de voorwaarden en procedures vastgesteld door de bevoegde belastingautoriteiten van elke staat die partij is.
+##### Article 10. Immunities and privileges of the Staff
 
-##### Artikel 8. Middelen en vrijstelling van valutabeperkingen
+1. The Staff shall be immune from legal process in respect of all acts performed by them in their official capacity, including their words spoken or written. This immunity shall continue to be accorded even after the termination of their employment with the Court.
 
-De staten die partij zijn verlenen het Gerecht de vrijstellingen van valutabeperkingen die noodzakelijk zijn voor de uitoefening van zijn officiële werkzaamheden.
+2. The Staff shall,
 
-##### Artikel 9. Voorrechten en immuniteiten van de rechters en de griffier
+- a. be liable to an internal tax for the benefit of the Court on salaries, wages and emoluments paid to them by the Court;
 
-1. Op de voorrechten en immuniteiten van de rechters is [artikel 8 van het statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=8) van toepassing en via de verwijzing in artikel 8 van het statuut tevens het Protocol betreffende de voorrechten en immuniteiten van de Europese Unie.
+- b. from the date on which the internal tax under letter (a) is applied, be exempted from national taxation on the salaries, wages and emoluments, but not on pensions and annuities, paid to them by the Court; these salaries, wages and emoluments may be taken into account by the State Parties for the purpose of assessing the amount of taxation to be applied to income from other sources;
 
-2. [Artikel 8 van het statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&artikel=8) en het Protocol betreffende de voorrechten en immuniteiten van de Europese Unie zijn van toepassing op de griffier.
+- c. from the date on which the Staff is subject to a social security and health scheme established by the Court, with respect to services rendered for the Court, be exempted from all compulsory contributions to national social security and health schemes.
 
-3. Indien toegepast in overeenstemming met het eerste en tweede lid, dienen uitsluitend de artikelen 11 (b tot en met e) tot en met 14 van het Protocol betreffende de voorrechten en immuniteiten van de Europese Unie naar analogie te worden toegepast in een op de specifieke situatie van het Gerecht toegesneden vorm. Dit betekent in het bijzonder dat de rechters en de griffier:
+3. No State Party is obliged to extend the privileges referred to in paragraph 2 to its own nationals or to a person who immediately prior to the employment by the Court was a resident of that State Party.
 
-- a. worden onderworpen aan interne belasting ten bate van het Gerecht op de aan hen door het Gerecht betaalde salarissen, lonen en emolumenten;
+##### Article 11. Emblem and flag
 
-- b. met ingang van de datum waarop de interne belasting ingevolge letter a. wordt toegepast, vrijgesteld zijn van nationale belastingheffing over de door het Gerecht aan hen betaalde salarissen, lonen en emolumenten, met uitzondering van de door het Gerecht aan hen betaalde pensioenen en lijfrenten;
+The Court shall be entitled to display its emblem and flag at its premises subject to such conditions as may be agreed with the State Party concerned, on vehicles used for official purposes as well as on its website and documents.
 
-- c. met ingang van de datum waarop de rechters en de griffier zijn onderworpen aan een door het Gerecht vastgestelde regeling inzake sociale zekerheid en ziektekosten op grond van hun diensten aan het Gerecht, zijn vrijgesteld van alle verplichte bijdragen aan nationale regelingen voor sociale zekerheid en ziektekosten.
+##### Article 12. Cooperation with the authorities of State Parties
 
-##### Artikel 10. Immuniteiten en voorrechten van het personeel
+1. Without prejudice to their privileges and immunities, it is the duty of all persons enjoying privileges and immunities under [Article 6](https://wetten.overheid.nl/BWBV0006612), [9](https://wetten.overheid.nl/BWBV0006612) and [10](https://wetten.overheid.nl/BWBV0006612) to respect the laws and regulations of the State Party in whose territory they may operate in their official capacity.
 
-1. De personeelsleden worden ter zake van alle door hen in hun officiële hoedanigheid verrichte handelingen, met inbegrip van door hen gesproken of geschreven woorden, gevrijwaard van rechtsvervolging. Deze immuniteit blijft zelfs gelden na beëindiging van hun dienstverband bij het Gerecht.
+2. The Court shall cooperate at all times with the appropriate authorities of State Parties to facilitate the enforcement of their laws and to prevent the occurrence of any abuse in connection with the privileges, immunities and facilities referred to in this Protocol.
 
-2. De personeelsleden
+##### Article 13. Purpose and waiver of privileges and immunities provided for in Article 6, 9 and 10
 
-- a. worden onderworpen aan interne belasting ten bate van het Gerecht op de aan hen door het Gerecht betaalde salarissen, lonen en emolumenten;
+1. The privileges and immunities provided for in this Protocol are not established for the personal benefit of those persons in whose favour they are granted. Their purpose is solely in the interest of the Court, especially to ensure, in all circumstances, the freedom of action of the Court and the complete independence of the persons concerned.
 
-- b. worden met ingang van de datum waarop de interne belasting ingevolge letter a. wordt geheven, vrijgesteld van nationale belastingheffing over de salarissen, lonen en emolumenten, evenwel met uitzondering van de door het Gerecht aan hen betaalde pensioenen en lijfrenten; deze salarissen, lonen en emolumenten mogen door de staten die partij zijn in aanmerking worden genomen ten behoeve van de vaststelling van het bedrag van de te heffen belasting over inkomsten uit andere bronnen;
+2. The Presidium of the Court shall have not only the right but also the duty to waive the immunity of Judges, the Registrar and the Staff under [Articles 9](https://wetten.overheid.nl/BWBV0006612) and [10](https://wetten.overheid.nl/BWBV0006612), when it considers that such immunity would hinder the normal course of justice, and that it is possible to waive such immunity without prejudicing the interests of the Court. A State Party has the same right regarding its representatives in the Administrative Committee and the Budget Committee ([Article 6](https://wetten.overheid.nl/BWBV0006612)). The Administrative Committee shall have the same right and obligation regarding the members of the Advisory Committee.
 
-- c. zijn met ingang van de datum waarop op de personeelsleden een door het Gerecht vastgestelde regeling inzake sociale zekerheid en ziektekosten op grond van hun diensten aan het Gerecht wordt toegepast, vrijgesteld van alle verplichte bijdragen aan nationale regelingen voor sociale zekerheid en ziektekosten.
+##### Article 14. Access, residence and departure
 
-3. Geen enkele staat die partij is, is verplicht de voorrechten bedoeld in het tweede lid uit te breiden tot zijn eigen onderdanen of tot personen die onmiddellijk voorafgaand aan het aanvaarden van hun functie bij het Gerecht hun vaste woonplaats hadden in die staat die partij is.
+Without prejudice to European Union law, the concerned State Party shall take all the necessary steps to facilitate;
 
-##### Artikel 11. Embleem en vlag
+- a. the entry into, departure from and residence in its territory of all persons who are performing official duties for the Court, namely the Judges, the Registrar, Staff employed by the Court and staff provided by the State Parties as well as, where persons performing official duties for the Court are based in the State Party and are not nationals or permanent residents of that State Party, dependent members of their families, and
 
-Het Gerecht is gerechtigd onder de voorwaarden die kunnen worden overeengekomen met de desbetreffende staat die partij is op zijn terrein en op voertuigen gebruikt voor officiële doeleinden zijn embleem en vlag te voeren en deze op zijn website en documenten af te beelden.
+- b. the entry into and departure from its territory of all persons who are called to or summoned by the Court in an official capacity, namely parties, Representatives of parties, interpreters, witnesses and experts before the Court.
 
-##### Artikel 12. Samenwerking met de autoriteiten van de staten die partij zijn
+##### Article 15. Notification
 
-1. Onverminderd hun voorrechten en immuniteiten is het de taak van alle personen die uit hoofde van de [artikelen 6,](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=6&z=2021-10-27&g=2021-10-27)[9](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=9&z=2021-10-27&g=2021-10-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=10&z=2021-10-27&g=2021-10-27) voorrechten en immuniteiten genieten de wet- en regelgeving te eerbiedigen van de staat die partij is op wiens grondgebied zij in hun officiële hoedanigheid werkzaam zijn.
+The Registrar shall communicate within one month of the entry into force of this Protocol to all State Parties the names of the Judges, the Registrar and the Staff to whom this Protocol applies. In addition to above, appointment/arrival of any Judge, Registrar or Staff to the Court and any change of circumstances shall be reported as soon as possible and at the latest within one month of the date of the relevant change of circumstance.
 
-2. Het Gerecht werkt te allen tijde samen met de desbetreffende autoriteiten van de staten die partij zijn teneinde de handhaving van hun wetgeving te vereenvoudigen en misbruik in verband met de voorrechten, immuniteiten en faciliteiten bedoeld in dit Protocol te voorkomen.
+##### Article 16. Settlement of disputes
 
-##### Artikel 13. Doel en opheffing van de voorrechten en immuniteiten voorzien in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=6&z=2021-10-27&g=2021-10-27), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=9&z=2021-10-27&g=2021-10-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=10&z=2021-10-27&g=2021-10-27)
+1. The Court shall make provisions for appropriate modes of settlement of disputes involving any person referred to in this Protocol who by reason of his or her official position enjoys immunity or the Court in cases when it enjoys immunity under [Article 5](https://wetten.overheid.nl/BWBV0006612), if such immunity has not been waived.
 
-1. De voorrechten en immuniteiten voorzien in dit Protocol worden niet vastgesteld ten behoeve van het persoonlijk voordeel van de personen aan wie zij worden verleend. Zij zijn uitsluitend bedoeld in het belang van het Gerecht en in het bijzonder teneinde de handelingsvrijheid van het Gerecht en de volledige onafhankelijkheid van de betrokken personen onder alle omstandigheden te waarborgen.
+2. All disputes arising out of the interpretation or application of this Protocol shall be referred to an arbitral tribunal unless the parties have agreed to another mode of settlement. If a dispute arises between the Court and a State Party which is not settled by consultation, negotiation or other agreed mode of settlement within three months following a request by one of the parties to the dispute, it shall at the request of either party be referred for final decision to a panel of three arbitrators: one to be chosen by the Court, one to be chosen by the State Party and the third, who shall be Chairman of the panel, to be chosen by the first two arbitrators. If either party has failed to make its appointment of an arbitrator within two months of the appointment of an arbitrator by the other party, the President of the European Court of Justice shall make such appointment. Should the first two arbitrators fail to agree upon the appointment of the third arbitrator within three months following the appointment of the first two arbitrators the third arbitrator shall be chosen by the President of the European Court of Justice upon the request of the Court or the State Party.
 
-2. Het presidium van het Gerecht is niet alleen gerechtigd maar ook verplicht de immuniteit van rechters, de griffier en het personeel ingevolge de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=9&z=2021-10-27&g=2021-10-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=10&z=2021-10-27&g=2021-10-27) op te heffen, indien het van oordeel is dat deze de normale loop van het recht zou belemmeren en zulks mogelijk is zonder de belangen van het Gerecht te schaden. Staten die partij zijn hebben hetzelfde recht ten aanzien van hun vertegenwoordigers in het Bestuurscomité en het Begrotingscomité ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=6&z=2021-10-27&g=2021-10-27)). Het Bestuurscomité heeft hetzelfde recht en dezelfde verplichting ten aanzien van de leden van het Raadgevend Comité.
+##### Article 17. Signature, ratification, acceptance, approval or accession and deposition
 
-##### Artikel 14. Toegang, verblijf en vertrek
+1. This Protocol shall be open for signature by all Contracting Member States from 29 June 2016 until 29 June 2017 at the Council of the European Union in Brussels.
 
-Onverminderd het recht van de Europese Unie neemt de betrokken staat die partij is alle maatregelen die nodig zijn ter vereenvoudiging van:
+2. This Protocol is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the General Secretariat of the Council of the European Union, hereinafter referred to as the depositary.
 
-- a. binnenkomst en verblijf in en vertrek uit zijn grondgebied van alle personen die officiële taken verrichten voor het Gerecht, te weten de rechters, de griffier, personeel in dienst van het Gerecht en medewerkers ter beschikking gesteld door de staten die partij zijn alsmede, indien personen die officiële taken voor het Gerecht verrichten zich bevinden in de staat die partij is en geen onderdaan of permanent ingezetene zijn van die staat die partij is, hun afhankelijke gezinsleden, en
+3. After 29 June 2017 this Protocol shall remain open for accession by all Contracting Member States. The instruments of accession shall be deposited with the depositary.
 
-- b. binnenkomst in en vertrek uit het grondgebied van alle personen die in hun officiële hoedanigheid opgeroepen of gedagvaard worden door het Gerecht, te weten partijen, vertegenwoordigers van partijen, tolken, getuigen en deskundigen voor het Gerecht.
+##### Article 18. Entry into force
 
-##### Artikel 15. Kennisgeving
+1. This Protocol shall enter into force 30 days after the date on which the last of the four State Parties – France, Germany, Luxemburg and the United Kingdom – has deposited its instrument of ratification, acceptance, approval or accession.
 
-De griffier doet binnen een maand na de inwerkingtreding van dit Protocol alle staten die partij zijn de namen toekomen van de rechters, de griffier en de personeelsleden op wie dit Protocol van toepassing is. In aanvulling op het voorgaande worden de benoeming van elke rechter, griffier en elk personeelslid bij het Gerecht en elke wijziging in de omstandigheden zo spoedig mogelijk maar altijd binnen een maand van de desbetreffende wijziging gemeld.
+2. For each State Party, which deposits its instrument after the date referred to in paragraph 1, this Protocol shall enter into force 30 days after the date of deposit of its instrument of ratification, acceptance, approval or accession.
 
-##### Artikel 16. Beslechting van geschillen
+##### Article 19. Provisional application
 
-1. Het Gerecht treft voorzieningen voor passende regelingen voor de beslechting van geschillen waarbij personen bedoeld in dit Protocol betrokken zijn die uit hoofde van hun officiële functie immuniteit genieten alsmede voor zaken waarbij het Gerecht betrokken is en ten aanzien waarvan het uit hoofde van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006612&artikel=5&z=2021-10-27&g=2021-10-27) immuniteit geniet, indien deze immuniteit niet is opgeheven.
-
-2. Alle geschillen die voortvloeien uit de uitlegging of toepassing van dit Protocol worden verwezen naar een scheidsgerecht, tenzij de partijen een andere wijze van geschillenbeslechting zijn overeengekomen. Indien een geschil ontstaat tussen het Gerecht en een staat die partij is dat niet binnen drie maanden na een verzoek daartoe door een van de partijen bij het geschil kan worden beslecht door overleg, onderhandeling of een andere overeengekomen wijze van geschillenbeslechting, wordt het op verzoek van een van de partijen voor een definitieve uitspraak voorgelegd aan een panel van drie scheidsrechters: een te kiezen door het Gerecht, een door de staat die partij is en de derde die zal optreden als voorzitter van het panel te kiezen door de eerste twee scheidsrechters. Indien een van de partijen nalaat een lid van het scheidsgerecht te benoemen binnen twee maanden na de benoeming van een lid door de andere partij, verricht de president van het Europees Hof van Justitie deze benoeming. Indien de eerste twee scheidsrechters er binnen drie maanden na hun benoeming niet in slagen overeenstemming te bereiken over de benoeming van de derde scheidsrechter, wordt de derde scheidsrechter op verzoek van het Gerecht of de staat die partij is gekozen door de president van het Europees Hof van Justitie.
-
-##### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding en nederlegging
-
-1. Dit Protocol staat bij de Raad van de Europese Unie in Brussel vanaf 29 juni 2016 tot en met 29 juni 2017 open voor ondertekening door alle overeenkomstsluitende lidstaten.
-
-2. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij het secretariaat-generaal van de Raad van de Europese Unie (hierna „de depositaris”).
-
-3. Na 29 juni 2017 blijft dit Protocol open voor toetreding door alle overeenkomstsluitende lidstaten. De akten van toetreding dienen te worden nedergelegd bij de depositaris.
-
-##### Artikel 18. Inwerkingtreding
-
-1. Dit Protocol treedt in werking 30 dagen na de datum waarop de laatste van de vier staten die partij zijn – Frankrijk, Duitsland, Luxemburg en het Verenigd Koninkrijk – zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding heeft nedergelegd.
-
-2. Voor elke staat die partij is, die zijn akte nederlegt na de datum bedoeld in het eerste lid, treedt dit Protocol in werking dertig dagen na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
-
-##### Artikel 19. Voorlopige toepassing
-
-Een overeenkomstsluitende lidstaat kan de depositaris er te allen tijde van in kennis stellen dat hij dit Protocol voorlopig toepast.
+A Contracting Member State may at any time notify the depositary that it will apply this Protocol provisionally.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Protocol.
 

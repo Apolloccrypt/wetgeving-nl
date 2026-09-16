@@ -1,80 +1,19 @@
 ---
 title: "Benelux-verdrag betreffende grensoverschrijdende samenwerking inzake wegvervoerinspectie"
 identifier: "BWBV0006431"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-06-01"
-last_updated: "2017-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006431"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005262363"
-version_id: "10005652242"
-internal_id: "C10009242351"
-label_id: "10005245554"
-dtd_version: "2.0"
-original_entry_into_force: "2017-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006431/2017-06-01/0"
-intitule_bron: "Trb.2014-218"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-12-19"
-intitule_in_force: "2017-06-08"
-intitule_status: "goed"
-original_publication: "Trb.2014-218"
-original_published_date: "2014-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2014-218"
-entry_into_force_date: "2017-06-01"
-jci_1_3: "jci1.3:c:BWBV0006431&z=2017-06-01&g=2017-06-01"
-jci_1_0: "1.0:c:BWBV0006431&g=2017-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-06-01"
+publicatiedatum: 2017-06-01
+laatste_update: 2017-06-01
+status: geldig
+toestand: 2017-06-01
+bron: "https://wetten.overheid.nl/BWBV0006431"
+opgehaald: 2026-09-16
 ---
+
 # Benelux-verdrag betreffende grensoverschrijdende samenwerking inzake wegvervoerinspectie
 
-Het Koninkrijk België, vertegenwoordigd door:
-
-De Federale Regering,
-
-De Vlaamse Regering,
-
-De Waalse Regering,
-
-De Brusselse Hoofdstedelijke Regering,
-
-Het Groothertogdom Luxemburg
-
-en
-
-Het Koninkrijk der Nederlanden,
-
-hierna te noemen „de Verdragsluitende Partijen”,
-
-Gelet op [artikel 6, tweede lid, onder f), van het Verdrag tot instelling van de Benelux Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=6),
-
-Gezien [artikel 3, tweede lid, onder a), van het Verdrag tot instelling van de Benelux Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=3), alsmede hoofdstuk 3.5 van het Gemeenschappelijk Werkprogramma 2013-2016,
-
-Gezien Beschikking M (2013) 6 van het Benelux Comité van Ministers van 18 november 2013 betreffende grensoverschrijdende samenwerking tussen de inspectiediensten inzake wegvervoer,
-
-Overwegende dat [Verordening (EG) nr. 1071/2009](32009R1071) van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van [Richtlijn 96/26/EG](31996L0026) van de Raad, de bestuurlijke samenwerking tussen lidstaten en wederzijdse bijstand bepaalt,
-
-Overwegende dat [Richtlijn 2006/22/EG](32006L0022) van het Europees Parlement en de Raad van 15 maart 2006 inzake minimumvoorwaarden voor de uitvoering van de [Verordeningen (EEG) nr. 3820/85](31985R3820) en [(EEG) nr. 3821/85](31985R3821) van de Raad betreffende voorschriften van sociale aard voor het wegvervoer en tot intrekking van [Richtlijn 88/599/EEG](31988L0599) van de Raad, intracommunautaire contacten in de vorm van uitwisseling van gegevens, ervaringen en inlichtingen tussen de lidstaten aanmoedigt,
-
-Overwegende dat [Richtlijn 2000/30/EG](32000L0030) van het Europees Parlement en de Raad van 6 juni 2000 betreffende de technische controle langs de weg van bedrijfsvoertuigen die in de Gemeenschap deelnemen aan het verkeer, de lidstaten gelast elkaar wederzijds bijstand te verlenen voor de toepassing van die Richtlijn,
-
-Overwegende dat [Richtlijn 95/50/EG](31995L0050) van de Raad van 6 oktober 1995 betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg bepaalt dat lidstaten elkaar de nodige bijstand verlenen met het oog op de juiste toepassing van die Richtlijn,
-
-Overwegende dat de [artikelen 24 tot en met 26 van het Verdrag tot instelling van de Benelux Unie](onbekend) samenwerking mogelijk maken tussen enerzijds de Benelux Unie en anderzijds derde staten en deelstaten en met name de staten, deelstaten en bestuurlijke entiteiten die grenzen aan de grondgebieden van de Benelux-landen,
-
-Overwegende de reeds bestaande samenwerking in het kader van Euro Contrôle Route,
-
-Overwegende dat het Europese wegvervoer, ook binnen de Benelux-landen, zich in hoog tempo internationaal ontwikkelt, niet alleen qua kwantiteit maar ook qua operationeel kader waarbinnen dit vervoer wordt uitgevoerd,
-
-Overwegende dat ondanks de ontwikkeling van de Europese Unie tot interne markt, het toezicht op en de handhaving van de EU-regelgeving inzake wegvervoer een nationale aangelegenheid blijven, hetgeen leidt tot pluriformiteit binnen de uitvoering tussen de lidstaten, en dat dit haaks staat op de gewenste uniformiteit van het EU-acquis,
-
-Overwegende dat grotere uniformiteit bij de uitvoering van de EU-wegvervoerregelgeving bewerkstelligd kan worden door nauwere samenwerking tussen de inspectiediensten binnen de Benelux en dat tot belangrijke kostenbesparingen, rendementsverhoging en schaalvoordelen gekomen kan worden door benutting van elkaars capaciteit, expertise en ervaring,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België, vertegenwoordigd door: De Federale Regering, De Vlaamse Regering, De Waalse Regering, De Brusselse Hoofdstedelijke Regering, Het Groothertogdom Luxemburg en Het Koninkrijk der Nederlanden, hierna te noemen „de Verdragsluitende Partijen”, Gelet op artikel 6, tweede lid, onder f), van het Verdrag tot instelling van de Benelux Unie, Gezien artikel 3, tweede lid, onder a), van het Verdrag tot instelling van de Benelux Unie, alsmede hoofdstuk 3.5 van het Gemeenschappelijk Werkprogramma 2013-2016, Gezien Beschikking M (2013) 6 van het Benelux Comité van Ministers van 18 november 2013 betreffende grensoverschrijdende samenwerking tussen de inspectiediensten inzake wegvervoer, Overwegende dat Verordening (EG) nr. 1071/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van Richtlijn 96/26/EG van de Raad, de bestuurlijke samenwerking tussen lidstaten en wederzijdse bijstand bepaalt, Overwegende dat Richtlijn 2006/22/EG van het Europees Parlement en de Raad van 15 maart 2006 inzake minimumvoorwaarden voor de uitvoering van de Verordeningen (EEG) nr. 3820/85 en (EEG) nr. 3821/85 van de Raad betreffende voorschriften van sociale aard voor het wegvervoer en tot intrekking van Richtlijn 88/599/EEG van de Raad, intracommunautaire contacten in de vorm van uitwisseling van gegevens, ervaringen en inlichtingen tussen de lidstaten aanmoedigt, Overwegende dat Richtlijn 2000/30/EG van het Europees Parlement en de Raad van 6 juni 2000 betreffende de technische controle langs de weg van bedrijfsvoertuigen die in de Gemeenschap deelnemen aan het verkeer, de lidstaten gelast elkaar wederzijds bijstand te verlenen voor de toepassing van die Richtlijn, Overwegende dat Richtlijn 95/50/EG van de Raad van 6 oktober 1995 betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg bepaalt dat lidstaten elkaar de nodige bijstand verlenen met het oog op de juiste toepassing van die Richtlijn, Overwegende dat de artikelen 24 tot en met 26 van het Verdrag tot instelling van de Benelux Unie samenwerking mogelijk maken tussen enerzijds de Benelux Unie en anderzijds derde staten en deelstaten en met name de staten, deelstaten en bestuurlijke entiteiten die grenzen aan de grondgebieden van de Benelux-landen, Overwegende de reeds bestaande samenwerking in het kader van Euro Contrôle Route, Overwegende dat het Europese wegvervoer, ook binnen de Benelux-landen, zich in hoog tempo internationaal ontwikkelt, niet alleen qua kwantiteit maar ook qua operationeel kader waarbinnen dit vervoer wordt uitgevoerd, Overwegende dat ondanks de ontwikkeling van de Europese Unie tot interne markt, het toezicht op en de handhaving van de EU-regelgeving inzake wegvervoer een nationale aangelegenheid blijven, hetgeen leidt tot pluriformiteit binnen de uitvoering tussen de lidstaten, en dat dit haaks staat op de gewenste uniformiteit van het EU-acquis, Overwegende dat grotere uniformiteit bij de uitvoering van de EU-wegvervoerregelgeving bewerkstelligd kan worden door nauwere samenwerking tussen de inspectiediensten binnen de Benelux en dat tot belangrijke kostenbesparingen, rendementsverhoging en schaalvoordelen gekomen kan worden door benutting van elkaars capaciteit, expertise en ervaring, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. DOEL, BEGRIPSOMSCHRIJVINGEN EN VERHOUDING TOT ANDERE REGELINGEN
 
@@ -132,7 +71,7 @@ Voor zover in dit Verdrag niet uitdrukkelijk anders is bepaald, geschiedt de sam
 
 ##### Artikel 5. Risicoclassificatiesystemen
 
-De Verdragsluitende Partijen streven naar een onderlinge afstemming van hun risicoclassificatiesystemen zoals bedoeld in artikel 9 van [Richtlijn 2006/22/EG](32006L0022) van het Europees Parlement en de Raad van 15 maart 2006 inzake minimumvoorwaarden voor de uitvoering van de [Verordeningen (EEG) nr. 3820/85](31985R3820) en [(EEG) nr. 3821/85](31985R3821) van de Raad betreffende voorschriften van sociale aard voor het wegvervoer en tot intrekking van [Richtlijn 88/599/EEG](31988L0599) van de Raad.
+De Verdragsluitende Partijen streven naar een onderlinge afstemming van hun risicoclassificatiesystemen zoals bedoeld in artikel 9 van Richtlijn 2006/22/EG van het Europees Parlement en de Raad van 15 maart 2006 inzake minimumvoorwaarden voor de uitvoering van de Verordeningen (EEG) nr. 3820/85 en (EEG) nr. 3821/85 van de Raad betreffende voorschriften van sociale aard voor het wegvervoer en tot intrekking van Richtlijn 88/599/EEG van de Raad.
 
 ### HOOFDSTUK III. HET BENUTTEN VAN SCHAALVOORDELEN OP HET TERREIN VAN CAPACITEIT (PERSONEEL, MIDDELEN EN MATERIEEL), EXPERTISE, ERVARING EN OPLEIDING
 
@@ -154,7 +93,7 @@ De Verdragsluitende Partijen ondersteunen de grensoverschrijdende samenwerking i
 
 - g. de uitwisseling van personeel;
 
-- h. het verlenen van een recht tot toegang in het kader van een grensoverschrijdend optreden aan de grensoverschrijdende ambtenaren van de andere Verdragsluitende Partijen tot de nationale elektronische registers die elke Verdragsluitende Partij bijhoudt overeenkomstig de artikelen 16 en 17 van [Verordening (EG) nr. 1071/2009](32009R1071) van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van [Richtlijn 96/26/EG](31996L0026) van de Raad, alsmede tot andere nationale registers bepaald in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag, met inachtneming van de op die registers van toepassing zijnde wetgeving inzake de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer.
+- h. het verlenen van een recht tot toegang in het kader van een grensoverschrijdend optreden aan de grensoverschrijdende ambtenaren van de andere Verdragsluitende Partijen tot de nationale elektronische registers die elke Verdragsluitende Partij bijhoudt overeenkomstig de artikelen 16 en 17 van Verordening (EG) nr. 1071/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van Richtlijn 96/26/EG van de Raad, alsmede tot andere nationale registers bepaald in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag, met inachtneming van de op die registers van toepassing zijnde wetgeving inzake de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer.
 
 ##### Artikel 7. Praktische modaliteiten van samenwerking
 
@@ -276,7 +215,7 @@ De bevoegde autoriteiten maken op basis van en in het kader van dit Verdrag afsp
 
 1. Een stuurgroep wegvervoerinspectie, waarin alle Verdragsluitende Partijen vertegenwoordigd zijn, wordt ingesteld.
 
-2. De samenstelling van de in het eerste lid genoemde stuurgroep is vastgesteld in de bijlage bij dit Verdrag.
+2. De samenstelling van de in het eerste lid genoemde stuurgroep is vastgesteld in de [bijlage](https://wetten.overheid.nl/BWBV0006431) bij dit Verdrag.
 
 3. Het voorzitterschap, de werking en de te volgen procedure tot wijziging van de samenstelling van de in het eerste lid genoemde stuurgroep worden bepaald in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag.
 

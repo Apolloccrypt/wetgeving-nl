@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-09-15",
+ "gegenereerd": "2026-09-16",
  "geverifieerd": true,
- "bwb_regelingen": 46897,
- "bwb_geldend": 22239,
- "site_totaal": 22444,
- "site_geldend": 22237,
+ "bwb_regelingen": 46916,
+ "bwb_geldend": 22240,
+ "site_totaal": 22446,
+ "site_geldend": 22238,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 2,
- "aantal_ten_onrechte_geldig": 207,
+ "aantal_ten_onrechte_geldig": 208,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -61,6 +61,10 @@
   {
    "id": "BWBR0021255",
    "titel": "Besluit van 17 januari 2007, houdende nieuwe eisen inzake de veiligheid en kwaliteit van lichaamsmateriaal (Eisenbesluit lichaamsmateriaal 2006)"
+  },
+  {
+   "id": "BWBR0024500",
+   "titel": "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 september 2008, nr. K&K 2008087862, houdende vaststelling van een formulier voor het doen van een mededeling in verband met de uitvoering van het Besluit beheer batterijen en accu’s 2008 (Regeling mededelingenformulier batterijen en accu’s 2008)"
   },
   {
    "id": "BWBR0026109",

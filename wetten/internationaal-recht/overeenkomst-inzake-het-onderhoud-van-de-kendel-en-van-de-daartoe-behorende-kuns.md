@@ -1,41 +1,18 @@
 ---
 title: "Overeenkomst inzake het onderhoud van de Kendel en van de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied"
 identifier: "BWBV0006334"
-country: "nl"
-rank: "verdrag"
-publication_date: "1993-12-07"
-last_updated: "1993-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006334"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005177623"
-version_id: "10005554292"
-internal_id: "C10008584771"
-label_id: "10005160474"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006334/1993-12-07/0"
-intitule_bron: "Trb.1997-92"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1997-04-17"
-intitule_status: "nogniet"
-original_publication: "Trb.1997-92"
-original_published_date: "1997-04-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1997-92"
-jci_1_3: "jci1.3:c:BWBV0006334&z=1993-12-07&g=1993-12-07"
-jci_1_0: "1.0:c:BWBV0006334&g=1993-12-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "1997-04-17"
+laatste_update: 1993-12-07
+status: geldig
+toestand: 1993-12-07
+bron: "https://wetten.overheid.nl/BWBV0006334"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst inzake het onderhoud van de Kendel en van de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied
 
-Het Wasser- und Bodenverband Baaler Bruch in Weeze, vertegenwoordigd door de voorzitter, de heer Theo Quinders,
-
-en
-
-het Waterschap Het Maasterras, hierna het „Waterschap” genoemd, vertegenwoordigd door de voorzitter, de eer C. T. Cornelissen,
-
-sluiten, gelet op [Hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten grensverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005042&artikel=59), de volgende overeenkomst:
+*Het Wasser- und Bodenverband Baaler Bruch in Weeze, vertegenwoordigd door de voorzitter, de heer Theo Quinders, en het Waterschap Het Maasterras, hierna het „Waterschap” genoemd, vertegenwoordigd door de voorzitter, de eer C. T. Cornelissen, sluiten, gelet op Hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten grensverdrag, de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -63,7 +40,7 @@ De partijen verbinden zich, in haar gebied ervoor zorg te dragen, dat de niet do
 
 ##### Artikel 5
 
-Iedere partij is verplicht de andere partij tijdig ervan in kennis te stellen wanneer een wezenlijke wijziging aan de beekgedeelten en de kunstwerken in en aan deze beekgedeelten of waterhoeveelheden in het stroomgebied bekend wordt of wanneer zij een zodanige wijziging vaststelt. In het laatste geval kan de andere partij eisen, dat de partijen gezamenlijk ter plaatse een onderzoek instellen naar de oorzaak van de wijziging, onverminderd het bepaalde in de [artikelen 60 tot en met 62 van het grensverdrag](onbekend) alsmede de voorschriften van ieders nationale recht.
+Iedere partij is verplicht de andere partij tijdig ervan in kennis te stellen wanneer een wezenlijke wijziging aan de beekgedeelten en de kunstwerken in en aan deze beekgedeelten of waterhoeveelheden in het stroomgebied bekend wordt of wanneer zij een zodanige wijziging vaststelt. In het laatste geval kan de andere partij eisen, dat de partijen gezamenlijk ter plaatse een onderzoek instellen naar de oorzaak van de wijziging, onverminderd het bepaalde in de artikelen 60 tot en met 62 van het grensverdrag alsmede de voorschriften van ieders nationale recht.
 
 ##### Artikel 6
 
@@ -133,8 +110,8 @@ OPGEMAAKT te Bergen, de 7 Dec 1993 in vier originele exemplaren, ieder in de Ned
 
 (w.g.) C. T. CORNELISSEN
 
-**voorzitter van het Waterschap Het Maasterras.**
+*voorzitter van het Waterschap Het Maasterras.*
 
 (w.g.) T. QUINDERS
 
-**voorzitter van het Wasser- und Bodenverband Baaler Bruch.**
+*voorzitter van het Wasser- und Bodenverband Baaler Bruch.*

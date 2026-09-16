@@ -1,1378 +1,955 @@
 ---
 title: "Overeenkomst betreffende een eengemaakt octrooigerecht"
 identifier: "BWBV0006168"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-06-26"
-last_updated: "2023-06-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006168"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005067223"
-version_id: "10005406022"
-internal_id: "C10010010571"
-label_id: "10005053234"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006168/2023-06-26/0"
-intitule_bron: "Trb.2013-92"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-05-30"
-intitule_in_force: "2023-08-16"
-intitule_status: "goed"
-original_publication: "Trb.2013-92"
-original_published_date: "2013-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2013-92"
-entry_into_force_date: "2023-06-01"
-jci_1_3: "jci1.3:c:BWBV0006168&z=2023-06-26&g=2023-06-26"
-jci_1_0: "1.0:c:BWBV0006168&g=2023-06-26"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-06-01"
+publicatiedatum: 2023-06-01
+laatste_update: 2023-06-26
+status: geldig
+toestand: 2023-06-26
+bron: "https://wetten.overheid.nl/BWBV0006168"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst betreffende een eengemaakt octrooigerecht
 
-De overeenkomstsluitende lidstaten,
+*The contracting Member States, Considering that cooperation amongst the Member States of the European Union in the field of patents contributes significantly to the integration process in Europe, in particular to the establishment of an internal market within the European Union characterised by the free movement of goods and services and the creation of a system ensuring that competition in the internal market is not distorted; Considering that the fragmented market for patents and the significant variations between national court systems are detrimental for innovation, in particular for small and medium sized enterprises which have difficulties to enforce their patents and to defend themselves against unfounded claims and claims relating to patents which should be revoked; Considering that the European Patent Convention (“EPC”) which has been ratified by all Member States of the European Union provides for a single procedure for granting European patents by the European Patent Office; Considering that by virtue of Regulation (EU) No 1257/20121)Regulation (EU) No 1257/2012 of the European Parliament and of the Council of 17 December 2012 implementing enhanced cooperation in the area of the creation of unitary patent protection (OJEU L 361, 31.12.2012, p. 1) including any subsequent amendments., patent proprietors can request unitary effect of their European patents so as to obtain unitary patent protection in the Member States of the European Union participating in the enhanced cooperation; Wishing to improve the enforcement of patents and the defence against unfounded claims and patents which should be revoked and to enhance legal certainty by setting up a Unified Patent Court for litigation relating to the infringement and validity of patents; Considering that the Unified Patent Court should be devised to ensure expeditious and high quality decisions, striking a fair balance between the interests of right holders and other parties and taking into account the need for proportionality and flexibility; Considering that the Unified Patent Court should be a court common to the Contracting Member States and thus part of their judicial system, with exclusive competence in respect of European patents with unitary effect and European patents granted under the provisions of the EPC; Considering that the Court of Justice of the European Union is to ensure the uniformity of the Union legal order and the primacy of European Union law; Recalling the obligations of the Contracting Member States under the Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU), including the obligation of sincere cooperation as set out in Article 4(3) TEU and the obligation to ensure through the Unified Patent Court the full application of, and respect for, Union law in their respective territories and the judicial protection of an individual’s rights under that law; Considering that, as any national court, the Unified Patent Court must respect and apply Union law and, in collaboration with the Court of Justice of the European Union as guardian of Union law, ensure its correct application and uniform interpretation; the Unified Patent Court must in particular cooperate with the Court of Justice of the European Union in properly interpreting Union law by relying on the latter’s case law and by requesting preliminary rulings in accordance with Article 267 TFEU; Considering that the Contracting Member States should, in line with the case law of the Court of Justice of the European Union on non-contractual liability, be liable for damages caused by infringements of Union law by the Unified Patent Court, including the failure to request preliminary rulings from the Court of Justice of the European Union; Considering that infringements of Union law by the Unified Patent Court, including the failure to request preliminary rulings from the Court of Justice of the European Union, are directly attributable to the Contracting Member States and infringement proceedings can therefore be brought under Article 258, 259 and 260 TFEU against any Contracting Member State to ensure the respect of the primacy and proper application of Union law; Recalling the primacy of Union law, which includes the TEU, the , the Charter of Fundamental Rights of the European Union, the general principles of Union law as developed by the Court of Justice of the European Union, and in particular the right to an effective remedy before a tribunal and a fair and public hearing within a reasonable time by an independent and impartial tribunal, the case law of the Court of Justice of the European Union and secondary Union law; Considering that this Agreement should be open to accession by any Member State of the European Union; Member States which have decided not to participate in the enhanced cooperation in the area of the creation of unitary patent protection may participate in this Agreement in respect of European patents granted for their respective territory; Considering that this Agreement should enter into force on 1 January 2014 or on the first day of the fourth month after the 13th deposit, provided that the Contracting Member States that will have deposited their instruments of ratification or accession include the three States in which the highest number of European patents was in force in the year preceding the year in which the signature of the Agreement takes place, or on the first day of the fourth month after the date of entry into force of the amendments to Regulation (EU) No 1215/20122)Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJEU L 351, 20.12.2012, p. 1) including any subsequent amendments. concerning its relationship with this Agreement, whichever is the latest, Have agreed as follows:*
 
-Overwegende dat samenwerking tussen de lidstaten van de Europese Unie op het gebied van octrooien aanzienlijk bijdraagt aan het integratieproces in Europa, in het bijzonder door de totstandbrenging van een interne markt binnen de Europese Unie, die wordt gekenmerkt door het vrije verkeer van goederen en diensten, en de instelling van een systeem dat waarborgt dat de concurrentie op de interne markt niet wordt verstoord;
+## PART I. GENERAL AND INSTITUTIONAL PROVISIONS
 
-Overwegende dat de gefragmenteerde markt voor octrooien en de aanzienlijke verschillen tussen de nationale rechtspraaksystemen nadelig zijn voor innovatie, met name voor kleine en middelgrote ondernemingen, die moeilijkheden ondervinden hun octrooirechten te handhaven en zich te verdedigen tegen ongegronde vorderingen en vorderingen betreffende octrooien die nietig verklaard zouden moeten worden;
+### CHAPTER I. GENERAL PROVISIONS
 
-Overwegende dat het [Europees Octrooiverdrag](onbekend) (hierna genoemd „EOV”), dat door alle lidstaten van de Europese Unie is bekrachtigd, in één enkele procedure voor het verlenen van Europese octrooien door het Europees Octrooibureau voorziet;
+##### Article 1. Unified Patent Court
 
-Overwegende dat octrooihouders krachtens Verordening (EU) nr. 1257/20121)Verordening (EU) Nr. 1257/2012 van het Europees Parlement en de Raad van 17 december 2012 tot het uitvoering geven aan nauwere samenwerking op het gebied van de instelling van eenheidsoctrooibescherming (**PbEU** L 361 van 31 december 2012, blz. 1), met inbegrip van latere wijzigingen. voor hun Europese octrooien kunnen verzoeken om eenheidswerking teneinde eenheidsoctrooibescherming te verkrijgen in de lidstaten van de Europese Unie die deelnemen aan de nauwere samenwerking;
+A Unified Patent Court for the settlement of disputes relating to European patents and European patents with unitary effect is hereby established.
 
-Geleid door de wens de handhaving van octrooien en het verweer tegen ongegronde vorderingen en octrooien die nietig verklaard zouden moeten worden te verbeteren en de rechtszekerheid te vergroten door het instellen van een eengemaakt octrooigerecht voor geschillen over inbreuken op en de geldigheid van octrooien;
+The Unified Patent Court shall be a court common to the Contracting Member States and thus subject to the same obligations under Union law as any national court of the Contracting Member States.
 
-Overwegende dat het Eengemaakt Octrooigerecht zodanig dient te worden opgezet dat het zeer snel deugdelijke beslissingen kan geven, waarbij de belangen van rechthebbenden en andere partijen zorgvuldig tegen elkaar worden afgewogen en rekening wordt gehouden met de vereiste proportionaliteit en flexibiliteit;
+##### Article 2. Definitions
 
-Overwegende dat het Eengemaakt Octrooigerecht een gerecht gemeenschappelijk aan alle overeenkomstsluitende lidstaten dient te zijn en zo onderdeel dient te worden van hun rechtssysteem, met uitsluitende bevoegdheid met betrekking tot Europese octrooien met eenheidswerking alsmede Europese octrooien die zijn verleend overeenkomstig de bepalingen van het EOV;
+For the purposes of this Agreement:
 
-Overwegende dat het Hof van Justitie van de Europese Unie de eenheid van de rechtsorde van de Unie en het primaat van het recht van de Unie dient te waarborgen;
+- a) “Court” means the Unified Patent Court created by this Agreement.
 
-Herinnerend aan de verplichtingen die krachtens het [Verdrag betreffende de Europese Unie (VEU)](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie (VWEU)](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) op de overeenkomstsluitende lidstaten rusten, zoals de verplichting loyaal samen te werken als vervat in [artikel 4, derde lid, VEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en de verplichting om via het Eengemaakt Octrooigerecht zorg te dragen voor de algehele uitvoering en eerbiediging van het recht van de Unie op hun onderscheiden grondgebieden en de rechtsbescherming van de in het recht van de Unie neergelegde individuele rechten;
+- b) “Member State” means a Member State of the European Union.
 
-Overwegende dat het Eengemaakt Octrooigerecht, zoals elk nationaal gerecht, het recht van de Unie dient te eerbiedigen en toe te passen en, in samenwerking met het Hof van Justitie van de Europese Unie als bewaker van het recht van de Unie, de correcte toepassing en uniforme uitlegging ervan dient te waarborgen; in het bijzonder dient het Eengemaakt Octrooigerecht met het Hof van Justitie van de Europese Unie samen te werken door het recht van de Unie correct uit te leggen door te steunen op de jurisprudentie van het Hof en overeenkomstig artikel [267 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=267) te verzoeken om prejudiciële beslissingen;
+- c) “Contracting Member State” means a Member State party to this Agreement.
 
-Overwegende dat de overeenkomstsluitende lidstaten, conform de jurisprudentie van het Hof van Justitie van de Europese Unie inzake niet-contractuele aansprakelijkheid, aansprakelijk dienen te zijn voor schade ten gevolge van schendingen van het recht van de Unie door het Eengemaakt Octrooigerecht, met inbegrip van het verzuim het Hof van Justitie van de Europese Unie te verzoeken om prejudiciële beslissingen;
+- d) “EPC” means the [Convention on the Grant of European Patents](https://wetten.overheid.nl/jci1.3:c:BWBV0004919) of 5 October 1973, including any subsequent amendments.
 
-Overwegende dat schendingen van het recht van de Unie door het Eengemaakt Octrooigerecht, met inbegrip van het verzuim het Hof van Justitie van de Europese Unie om een prejudiciële beslissing te verzoeken, rechtstreeks worden toegerekend aan de overeenkomstsluitende lidstaten, waartegen op grond van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=258), [259](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=259) en [260 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=260) bijgevolg tegen elke overeenkomstsluitende lidstaat een inbreukprocedure kan worden ingesteld, teneinde het primaat van het recht van de Unie en de correcte toepassing ervan te waarborgen;
+- e) “European patent” means a patent granted under the provisions of the [EPC](https://wetten.overheid.nl/jci1.3:c:BWBV0003819), which does not benefit from unitary effect by virtue of Regulation (EU) No 1257/2012.
 
-Herinnerend aan het primaat van het recht van de Unie, met inbegrip van het [VEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), het [VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), het Handvest van de grondrechten van de Europese Unie, de algemene beginselen van het recht van de Unie zoals ontwikkeld door het Hof van Justitie van de Europese Unie en in het bijzonder het recht op een doeltreffend rechtsmiddel en op een eerlijke en openbare behandeling van de zaak binnen een redelijke termijn door een onafhankelijke en onpartijdige rechterlijke instantie, de jurisprudentie van het Hof van Justitie van de Europese Unie en het secundaire recht van de Unie;
+- f) “European patent with unitary effect” means a patent granted under the provisions of the [EPC](https://wetten.overheid.nl/jci1.3:c:BWBV0003819) which benefits from unitary effect by virtue of Regulation (EU) No 1257/2012.
 
-Overwegende dat elke lidstaat van de Europese Unie tot deze overeenkomst dient te kunnen toetreden. Lidstaten die hebben besloten niet deel te nemen aan de nauwere samenwerking op het gebied van de instelling van eenheidsoctrooibescherming mogen aan deze overeenkomst deelnemen met betrekking tot Europese octrooien die voor hun onderscheiden grondgebied zijn verleend;
+- g) “Patent” means a European patent and/or a European patent with unitary effect.
 
-Overwegende dat deze overeenkomst op 1 januari 2014 in werking dient te treden of op de eerste dag van de vierde maand na de dertiende nederlegging, mits de drie staten met het grootste aantal geldende Europese octrooien in het jaar voorafgaand aan het jaar waarin de overeenkomst wordt ondertekend tot de overeenkomstsluitende lidstaten behoren die hun akte van bekrachtiging of toetreding hebben nedergelegd, of op de eerste dag van de vierde maand na de datum van inwerkingtreding van de wijzigingen in Verordening (EU) nr. 1215/20122)Verordening (EU) Nr. 1215/2012 van het Europees Parlement en de Raad van 12 december 2012 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (**PbEU** L 351 van 20 december 2012, blz. 1), met inbegrip van latere wijzigingen. inzake de verhouding van de verordening tot deze overeenkomst, al naar gelang welke datum het laatst valt;
+- h) “Supplementary protection certificate” means a supplementary protection certificate granted under Regulation (EC) No 469/20093)Regulation (EC) No 469/2009 of the European Parliament and of the Council of 6 May 2009 concerning the supplementary protection certificate for medicinal products, (OJEU L 152, 16.6.2009, p.1) including any subsequent amendments. or under Regulation (EC) No 1610/964)Regulation (EC) No 1610/96 of the European Parliament and of the Council of 23 July 1996 concerning the creation of a supplementary certificate for plant protection products, (OJEC L 198, 8.8.1996, p.30) including any subsequent amendments..
 
-Zijn het volgende overeengekomen:
+- i) “Statute” means the Statute of the Court as set out in [Annex I](https://wetten.overheid.nl/BWBV0006168), which shall be an integral part of this Agreement.
 
-## DEEL I. ALGEMENE EN INSTITUTIONELE BEPALINGEN
+- j) “Rules of Procedure” means the Rules of Procedure of the Court, as established in accordance with [Article 41](https://wetten.overheid.nl/BWBV0006168).
 
-### HOOFDSTUK I. ALGEMENE BEPALINGEN
+##### Article 3. Scope of application
 
-##### Artikel 1. Eengemaakt Octrooigerecht
+This Agreement shall apply to any:
 
-Bij deze overeenkomst wordt een eengemaakt octrooigerecht voor de beslechting van geschillen over Europese octrooien en Europese octrooien met eenheidswerking ingesteld.
+- a) European patent with unitary effect;
 
-Het Eengemaakt Octrooigerecht is een gerecht gemeenschappelijk aan de overeenkomstsluitende lidstaten en is derhalve aan dezelfde verplichtingen uit hoofde van het recht van de Unie onderworpen als elk nationaal gerecht van de overeenkomstsluitende lidstaten.
+- b) supplementary protection certificate issued for a product protected by a patent;
 
-##### Artikel 2. Begripsomschrijvingen
+- c) European patent which has not yet lapsed at the date of entry into force of this Agreement or was granted after that date, without prejudice to [Article 83](https://wetten.overheid.nl/BWBV0006168); and
 
-In deze overeenkomst wordt verstaan onder:
+- d) European patent application which is pending at the date of entry into force of this Agreement or which is filed after that date, without prejudice to [Article 83](https://wetten.overheid.nl/BWBV0006168).
 
-- a. „Gerecht”: het Eengemaakt Octrooigerecht dat bij deze overeenkomst wordt ingesteld;
+##### Article 4. Legal status
 
-- b. „lidstaat”: een lidstaat van de Europese Unie;
+1. The Court shall have legal personality in each Contracting Member State and shall enjoy the most extensive legal capacity accorded to legal persons under the national law of that State.
 
-- c. „overeenkomstsluitende lidstaat”: een lidstaat die partij is bij deze overeenkomst;
+2. The Court shall be represented by the President of the Court of Appeal who shall be elected in accordance with the [Statute](https://wetten.overheid.nl/BWBV0006168).
 
-- d. „EOV”: het [Verdrag van 5 oktober 1973 inzake de verlening van Europese octrooien](onbekend), met inbegrip van latere wijzigingen;
+##### Article 5. Liability
 
-- e. „Europees octrooi”: een octrooi verleend overeenkomstig de bepalingen van het [EOV](onbekend) dat geen eenheidswerking geniet krachtens Verordening (EU) nr. 1257/2012;
+1. The contractual liability of the Court shall be governed by the law applicable to the contract in question in accordance with Regulation (EC) No. 593/20085)Regulation (EC) No 593/2008 of the European Parliament and of the Council of 17 June 2008 on the law applicable to contractual obligations (Rome I) (OJEU L 177, 4.7.2008, p. 6) including any subsequent amendments. (Rome I), where applicable, or failing that in accordance with the law of the Member State of the court seized.
 
-- f. „Europees octrooi met eenheidswerking”: een octrooi verleend overeenkomstig de bepalingen van het [EOV](onbekend) dat krachtens Verordening (EU) nr. 1257/2012 eenheidswerking geniet;
+2. The non-contractual liability of the Court in respect of any damage caused by it or its staff in the performance of their duties, to the extent that it is not a civil and commercial matter within the meaning of Regulation (EC) No. 864/20076)Regulation (EC) No 864/2007 of the European Parliament and of the Council of 11 July 2007 on the law applicable to non-contractual obligations (Rome II) (OJEU L 199, 31.7.2007, p. 40) including any subsequent amendments. (Rome II), shall be governed by the law of the Contracting Member State in which the damage occurred. This provision is without prejudice to the application of [Article 22](https://wetten.overheid.nl/BWBV0006168).
 
-- g. „octrooi”: een Europees octrooi en/of een Europees octrooi met eenheidswerking;
+3. The court with jurisdiction to settle disputes under paragraph 2 shall be a court of the Contracting Member State in which the damage occurred.
 
-- h. „aanvullend beschermingscertificaat”: een aanvullend beschermingscertificaat verleend op grond van Verordening (EG) nr. 469/20093)Verordening (EG) Nr. 469/2009 van het Europees Parlement en de Raad van 6 mei 2009 betreffende het aanvullende beschermingscertificaat voor geneesmiddelen (**PbEU** L 152, 16 juni 2009, blz. 1), met inbegrip van latere wijzigingen. of van Verordening (EG) nr. 1610/964)Verordening (EG) Nr. 1610/96 van het Europees Parlement en de Raad van 23 juli 1996 betreffende de invoering van een aanvullend beschermingscertificaat voor gewasbeschermingsmiddelen, (**PbEG** L 198 van 8 augustus 1996, blz. 30), met inbegrip van latere wijzigingen.;
+### CHAPTER II. INSTITUTIONAL PROVISIONS
 
-- i. „statuut”: het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&z=2023-06-26&g=2023-06-26) vervatte statuut van het Octrooigerecht, dat een integraal onderdeel van deze overeenkomst vormt;
+##### Article 6. The Court
 
-- j. „procesreglement”: het procesreglement van het Gerecht, zoals vastgesteld overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=41&z=2023-06-26&g=2023-06-26).
+1. The Court shall comprise a Court of First Instance, a Court of Appeal and a Registry.
 
-##### Artikel 3. Toepassingsgebied
+2. The Court shall perform the functions assigned to it by this Agreement.
 
-Deze overeenkomst is van toepassing op:
+##### Article 7. The Court of First Instance
 
-- a. elk Europees octrooi met eenheidswerking;
+1. The Court of First Instance shall comprise a central division as well as local and regional divisions.
 
-- b. elk aanvullend beschermingscertificaat dat is verleend voor een door een octrooi beschermd product;
+2. The central division shall have its seat in Paris, with sections in *Milan and*Munich. The cases before the central division shall be distributed in accordance with Annex II, which shall form an integral part of this Agreement.
 
-- c. elk Europees octrooi dat nog niet is vervallen op de datum van inwerkingtreding van deze overeenkomst of dat na die datum is verleend, onverminderd [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-26&g=2023-06-26); en
+3. A local division shall be set up in a Contracting Member State upon its request in accordance with the [Statute](https://wetten.overheid.nl/BWBV0006168). A Contracting Member State hosting a local division shall designate its seat.
 
-- d. elke Europese octrooiaanvraag die op de datum van inwerkingtreding van deze overeenkomst nog in behandeling is of na die datum is ingediend, onverminderd [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-26&g=2023-06-26).
+4. An additional local division shall be set up in a Contracting Member State upon its request for every one hundred patent cases per calendar year that have been commenced in that Contracting Member State during three successive years prior to or subsequent to the date of entry into force of this Agreement. The number of local divisions in one Contracting Member State shall not exceed four.
 
-##### Artikel 4. Rechtspositie
+5. A regional division shall be set up for two or more Contracting Member States, upon their request in accordance with the [Statute](https://wetten.overheid.nl/BWBV0006168). Such Contracting Member States shall designate the seat of the division concerned. The regional division may hear cases in multiple locations.
 
-1. In elke overeenkomstsluitende lidstaat bezit het Gerecht rechtspersoonlijkheid en de ruimste handelingsbevoegdheid die bij de wetgeving van die staat aan rechtspersonen wordt toegekend.
+##### Article 8. Composition of the panels of the Court of First Instance
 
-2. Het Gerecht wordt vertegenwoordigd door de president van het Hof van Beroep, die overeenkomstig het statuut wordt gekozen.
+1. Any panel of the Court of First Instance shall have a multinational composition. Without prejudice to paragraph 5 of this Article and to [Article 33(3)(a)](https://wetten.overheid.nl/BWBV0006168), it shall sit in a composition of three judges.
 
-##### Artikel 5. Aansprakelijkheid
+2. Any panel of a local division in a Contracting Member State where, during a period of three successive years prior or subsequent to the entry into force of this Agreement, less than fifty patent cases per calendar year on average have been commenced shall sit in a composition of one legally qualified judge who is a national of the Contracting Member State hosting the local division concerned and two legally qualified judges who are not nationals of the Contracting Member State concerned and are allocated from the Pool of Judges in accordance with [Article 18(3)](https://wetten.overheid.nl/BWBV0006168) on a case by case basis.
 
-1. De contractuele aansprakelijkheid van het Gerecht wordt beheerst door het overeenkomstig Verordening (EG) nr. 593/20085)Verordening (EG) Nr. 593/2008 van het Europees Parlement en de Raad van 17 juni 2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (Rome I) (**PbEU** L 177 van 4 juli 2008, blz. 6), met inbegrip van latere wijzigingen. (Rome I) op het contract toepasselijke recht, indien van toepassing, of anders overeenkomstig het recht van de lidstaat van het gerecht waarbij de zaak aanhangig is gemaakt.
+3. Notwithstanding paragraph 2, any panel of a local division in a Contracting Member State where, during a period of three successive years prior or subsequent to the entry into force of this Agreement, fifty or more patent cases per calendar year on average have been commenced, shall sit in a composition of two legally qualified judges who are nationals of the Contracting Member State hosting the local division concerned and one legally qualified judge who is not a national of the Contracting Member State concerned and is allocated from the Pool of Judges in accordance with [Article 18(3)](https://wetten.overheid.nl/BWBV0006168). Such third judge shall serve at the local division on a long term basis, where this is necessary for the efficient functioning of divisions with a high work load.
 
-2. De niet-contractuele aansprakelijkheid van het Gerecht voor schade veroorzaakt door het Gerecht of door het personeel bij de uitvoering van zijn taken, voor zover het geen burgerlijke- of handelsrechtelijke aangelegenheid in de zin van Verordening (EG) nr. 864/20076)Verordening (EG) Nr. 864/2007 van het Europees Parlement en de Raad van 11 juli 2007 betreffende het recht dat van toepassing is op niet-contractuele verbintenissen (Rome II) (**PbEU** L 199 van 31 juli 2007, blz. 40), met inbegrip van latere wijzigingen. (Rome II) betreft, wordt beheerst door het recht van de overeenkomstsluitende lidstaat waar de schade zich voordoet. Deze bepaling laat de toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=22&z=2023-06-26&g=2023-06-26) onverlet.
+4. Any panel of a regional division shall sit in a composition of two legally qualified judges chosen from a regional list of judges, who shall be nationals of the Contracting Member States concerned, and one legally qualified judge who shall not be a national of the Contracting Member States concerned and who shall be allocated from the Pool of Judges in accordance with [Article 18(3)](https://wetten.overheid.nl/BWBV0006168).
 
-3. De bevoegdheid te beslissen over de in het tweede lid bedoelde geschillen ligt bij een rechterlijke instantie van de overeenkomstsluitende lidstaat waar de schade zich heeft voorgedaan.
+5. Upon request by one of the parties, any panel of a local or regional division shall request the President of the Court of First Instance to allocate from the Pool of Judges in accordance with [Article 18(3)](https://wetten.overheid.nl/BWBV0006168) an additional technically qualified judge with qualifications and experience in the field of technology concerned. Moreover, any panel of a local or regional division may, after having heard the parties, submit such request on its own initiative, where it deems this appropriate.
 
-### HOOFDSTUK II. INSTITUTIONELE BEPALINGEN
+In cases where such a technically qualified judge is allocated, no further technically qualified judge may be allocated under [Article 33(3)(a)](https://wetten.overheid.nl/BWBV0006168).
 
-##### Artikel 6. Het Gerecht
+6. Any panel of the central division shall sit in a composition of two legally qualified judges who are nationals of different Contracting Member States and one technically qualified judge allocated from the Pool of Judges in accordance with [Article 18(3)](https://wetten.overheid.nl/BWBV0006168) with qualifications and experience in the field of technology concerned. However, any panel of the central division dealing with actions under [Article 32(1)(i)](https://wetten.overheid.nl/BWBV0006168) shall sit in a composition of three legally qualified judges who are nationals of different Contracting Member States.
 
-1. Het Gerecht bestaat uit een Gerecht van Eerste Aanleg, een Hof van Beroep en een Griffie.
+7. Notwithstanding paragraphs 1 to 6 and in accordance with the Rules of Procedure, parties may agree to have their case heard by a single legally qualified judge.
 
-2. Het Gerecht vervult de hem bij deze overeenkomst toegekende taken.
+8. Any panel of the Court of First Instance shall be chaired by a legally qualified judge.
 
-##### Artikel 7. Het Gerecht van Eerste Aanleg
+##### Article 9. The Court of Appeal
 
-1. Het Gerecht van Eerste Aanleg bestaat uit een centrale divisie alsmede uit lokale en regionale divisies.
+1. Any panel of the Court of Appeal shall sit in a multinational composition of five judges. It shall sit in a composition of three legally qualified judges who are nationals of different Contracting Member States and two technically qualified judges with qualifications and experience in the field of technology concerned. Those technically qualified judges shall be assigned to the panel by the President of the Court of Appeal from the pool of judges in accordance with [Article 18](https://wetten.overheid.nl/BWBV0006168).
 
-2. De centrale afdeling zetelt in Parijs en heeft afdelingen in **Milaan en** München. De zaken voor de centrale afdeling worden verdeeld overeenkomstig bijlage II, die integraal onderdeel is van deze overeenkomst.
+2. Notwithstanding paragraph 1, a panel dealing with actions under [Article 32(1)(i)](https://wetten.overheid.nl/BWBV0006168) shall sit in a composition of three legally qualified judges who are nationals of different Contracting Member States.
 
-3. Overeenkomstig het statuut wordt op verzoek van een overeenkomstsluitende lidstaat op zijn grondgebied een lokale divisie opgericht. Een overeenkomstsluitende lidstaat waar een lokale divisie wordt gevestigd, wijst de zetel van die divisie aan.
+3. Any panel of the Court of Appeal shall be chaired by a legally qualified judge.
 
-4. Op verzoek van een overeenkomstsluitende lidstaat wordt op zijn grondgebied een extra lokale divisie opgericht voor elke honderd octrooizaken die in die overeenkomstsluitende staat zijn ingesteld gedurende drie opeenvolgende kalenderjaren voor of na de datum van inwerkingtreding van deze overeenkomst. Het aantal lokale divisies in een overeenkomstsluitende lidstaat zal niet meer bedragen dan vier.
+4. The panels of the Court of Appeal shall be set up in accordance with the [Statute](https://wetten.overheid.nl/BWBV0006168).
 
-5. Overeenkomstig het statuut wordt voor twee of meer overeenkomstsluitende lidstaten op hun verzoek een regionale divisie opgericht. Deze overeenkomstsluitende lidstaten wijzen de zetel van de desbetreffende regionale divisie aan. De regionale divisie kan op meerdere locaties zaken behandelen.
+5. The Court of Appeal shall have its seat in Luxembourg.
 
-##### Artikel 8. Samenstelling van de panels van het Gerecht van Eerste Aanleg
+##### Article 10. The Registry
 
-1. Elk panel van het Gerecht van Eerste Aanleg heeft een multinationale samenstelling. Onverminderd het vijfde lid van dit artikel en [artikel 33, derde lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=33&z=2023-06-26&g=2023-06-26), bestaat zij uit drie rechters.
+1. A Registry shall be set up at the seat of the Court of Appeal. It shall be managed by the Registrar and perform the functions assigned to it in accordance with the [Statute](https://wetten.overheid.nl/BWBV0006168). Subject to conditions set out in this Agreement and the Rules of Procedure, the register kept by the Registry shall be public.
 
-2. Elk panel van een lokale divisie in een overeenkomstsluitende lidstaat waar gedurende een periode van drie opeenvolgende jaren voor of na de datum van inwerkingtreding van deze overeenkomst gemiddeld minder dan vijftig octrooizaken per kalenderjaar zijn ingesteld, bestaat uit één juridisch geschoolde rechter die onderdaan is van de overeenkomstsluitende lidstaat waar de desbetreffende lokale divisie gevestigd is, en twee juridisch geschoolde rechters die geen onderdaan zijn van die overeenkomstsluitende lidstaat en die overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-26&g=2023-06-26), per zaak uit de pool van rechters worden toegewezen.
+2. Sub-registries shall be set up at all divisions of the Court of First Instance.
 
-3. Onverminderd het tweede lid, bestaat elk panel van een lokale divisie in een overeenkomstsluitende lidstaat waar gedurende een periode van drie opeenvolgende jaren voor of na de datum van inwerkingtreding van deze overeenkomst gemiddeld vijftig of meer octrooizaken per kalenderjaar zijn ingesteld, uit twee juridisch geschoolde rechters die onderdaan zijn van de overeenkomstsluitende lidstaat waar de desbetreffende lokale divisie gevestigd is, en één juridisch geschoolde rechter die geen onderdaan is van die overeenkomstsluitende lidstaat en die overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-26&g=2023-06-26), uit de pool van rechters wordt toegewezen. Deze derde rechter blijft langdurig aan de lokale divisie verbonden, indien dat noodzakelijk is voor het efficiënt functioneren van divisies met een hoge werklast.
+3. The Registry shall keep records of all cases before the Court. Upon filing, the sub-registry concerned shall notify every case to the Registry.
 
-4. Elk panel van een regionale divisie bestaat uit twee juridisch geschoolde rechters die worden gekozen uit een regionale lijst van rechters en die onderdaan zijn van de betrokken overeenkomstsluitende lidstaten, en één juridisch geschoolde rechter die geen onderdaan van een van die lidstaten is en die overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-26&g=2023-06-26) uit de pool van rechters wordt toegewezen.
+4. The Court shall appoint the Registrar in accordance with [Article 22 of the Statute](https://wetten.overheid.nl/BWBV0006168) and lay down the rules governing the Registrar’s service.
 
-5. Op verzoek van een van de partijen verzoekt een panel van een lokale of regionale divisie de president van het Gerecht van Eerste Aanleg overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-26&g=2023-06-26), uit de pool van rechters een additionele technisch geschoolde rechter met kwalificaties en ervaring op het desbetreffende gebied van de technologie toe te wijzen. Voorts kan een panel van een lokale of regionale divisie, na de partijen te hebben gehoord, een dergelijk verzoek ambtshalve doen indien het panel dit aangewezen acht.
+##### Article 11. Committees
 
-In geval van toewijzing van een dergelijke technisch geschoolde rechter mag niet nog een technisch geschoolde rechter op grond van [artikel 33, derde lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=33&z=2023-06-26&g=2023-06-26), worden toegewezen.
+An Administrative Committee, a Budget Committee and an Advisory Committee shall be set up in order to ensure the effective implementation and operation of this Agreement. They shall in particular exercise the duties foreseen by this Agreement and the [Statute](https://wetten.overheid.nl/BWBV0006168).
 
-6. Elk panel van de centrale divisie bestaat uit twee juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten, en één technisch geschoolde rechter die overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-26&g=2023-06-26), derde lid uit de pool van rechters wordt toegewezen en kwalificaties en ervaring op het desbetreffende gebied van de technologie bezit. Elk panel van de centrale divisie die vorderingen in de zin van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), behandelt, bestaat echter uit drie juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten.
+##### Article 12. The Administrative Committee
 
-7. Onverminderd het eerste tot en met zesde lid kunnen de partijen, overeenkomstig het procesreglement, overeenkomen dat hun zaak door één juridisch geschoolde rechter wordt behandeld.
+1. The Administrative Committee shall be composed of one representative of each Contracting Member State. The European Commission shall be represented at the meetings of the Administrative Committee as observer.
 
-8. Elk panel van het Gerecht van Eerste Aanleg wordt voorgezeten door een juridisch geschoolde rechter.
+2. Each Contracting Member State shall have one vote.
 
-##### Artikel 9. Het Hof van Beroep
+3. The Administrative Committee shall adopt its decisions by a majority of three quarters of the Contracting Member States represented and voting, except where this Agreement or the [Statute](https://wetten.overheid.nl/BWBV0006168) provides otherwise.
 
-1. Elk panel van het Hof van Beroep heeft een multinationale samenstelling en bestaat uit vijf rechters. Het panel telt drie juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten en twee technisch geschoolde rechters met kwalificaties en ervaring op het desbetreffende gebied van de technologie. Die technisch geschoolde rechters worden overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-26&g=2023-06-26) door de president van het Hof van Beroep uit de pool van rechters aan het panel toegewezen.
+4. The Administrative Committee shall adopt its rules of procedure.
 
-2. Onverminderd het eerste lid bestaat elk panel die vorderingen in de zin van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), behandelt, uit drie juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten.
+5. The Administrative Committee shall elect a chairperson from among its members for a term of three years. That term shall be renewable.
 
-3. Elk panel van het Hof van Beroep wordt voorgezeten door een juridisch geschoolde rechter.
+##### Article 13. The Budget Committee
 
-4. De panels van het Hof van Beroep worden ingesteld overeenkomstig het statuut.
+1. The Budget Committee shall be composed of one representative of each Contracting Member State.
 
-5. Het Hof van Beroep heeft zijn zetel in Luxemburg.
+2. Each Contracting Member State shall have one vote.
 
-##### Artikel 10. De Griffie
+3. The Budget Committee shall take its decisions by a simple majority of the representatives of the Contracting Member States. However, a majority of three-quarters of the representatives of Contracting Member States shall be required for the adoption of the budget.
 
-1. Bij de zetel van het Hof van Beroep wordt een Griffie ingesteld. De Griffie staat onder leiding van de griffier en vervult de haar overeenkomstig het statuut toegewezen taken. Het door de Griffie bijgehouden register is voor het publiek toegankelijk onder de voorwaarden vervat in deze overeenkomst en het procesreglement.
+4. The Budget Committee shall adopt its rules of procedure.
 
-2. Bij elke divisie van het Gerecht van Eerste Aanleg wordt een subgriffie ingesteld.
+5. The Budget Committee shall elect a chairperson from among its members for a term of three years. That term shall be renewable.
 
-3. De Griffie houdt een register bij van alle zaken voor het Gerecht. Na het indienen zal elke zaak door de desbetreffende subgriffie ter kennis worden gebracht aan de Griffie.
+##### Article 14. The Advisory Committee
 
-4. Het Gerecht benoemt overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=22&z=2023-06-26&g=2023-06-26) van het statuut de griffier en stelt de voorschriften voor zijn ambtsuitoefening vast.
+1. The Advisory Committee shall:
 
-##### Artikel 11. Comités
+- a) assist the Administrative Committee in the preparation of the appointment of judges of the Court;
 
-Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenkomst worden een Bestuurscomité, een Begrotingscomité en een Raadgevend Comité ingesteld. Zij verrichten met name de in deze overeenkomst en het statuut voorziene taken.
+- b) make proposals to the Presidium referred to in [Article 15 of the Statute](https://wetten.overheid.nl/BWBV0006168) on the guidelines for the training framework for judges referred to in [Article 19](https://wetten.overheid.nl/BWBV0006168); and
 
-##### Artikel 12. Het Bestuurscomité
+- c) deliver opinions to the Administrative Committee concerning the requirements for qualifications referred to in [Article 48(2)](https://wetten.overheid.nl/BWBV0006168).
 
-1. Het Bestuurscomité bestaat uit één vertegenwoordiger van elke overeenkomstsluitende lidstaat. De Europese Commissie wordt tijdens de vergaderingen van het Bestuurscomité als waarnemer vertegenwoordigd.
+2. The Advisory Committee shall comprise patent judges and practitioners in patent law and patent litigation with the highest recognised competence. They shall be appointed, in accordance with the procedure laid down in the [Statute](https://wetten.overheid.nl/BWBV0006168), for a term of six years. That term shall be renewable.
 
-2. Elke overeenkomstsluitende lidstaat heeft één stem.
+3. The composition of the Advisory Committee shall ensure a broad range of relevant expertise and the representation of each of the Contracting Member States. The members of the Advisory Committee shall be completely independent in the performance of their duties and shall not be bound by any instructions.
 
-3. Het Bestuurscomité besluit bij meerderheid van drie vierde van de vertegenwoordigde en hun stem uitbrengende overeenkomstsluitende lidstaten, tenzij in deze overeenkomst of het statuut anders is bepaald.
+4. The Advisory Committee shall adopt its rules of procedure.
 
-4. Het Bestuurscomité stelt zijn reglement van orde vast.
+5. The Advisory Committee shall elect a chairperson from among its members for a term of three years. That term shall be renewable.
 
-5. Het Bestuurscomité kiest uit zijn midden de voorzitter voor een termijn van drie jaar. Deze termijn kan worden verlengd.
+### CHAPTER III. JUDGES OF THE COURT
 
-##### Artikel 13. Het Begrotingscomité
+##### Article 15. Eligibility criteria for the appointment of judges
 
-1. Het Begrotingscomité bestaat uit één vertegenwoordiger van elke overeenkomstsluitende lidstaat.
+1. The Court shall comprise both legally qualified judges and technically qualified judges. Judges shall ensure the highest standards of competence and shall have proven experience in the field of patent litigation.
 
-2. Elke overeenkomstsluitende lidstaat heeft één stem.
+2. Legally qualified judges shall possess the qualifications required for appointment to judicial offices in a Contracting Member State.
 
-3. Het Begrotingscomité besluit bij gewone meerderheid van de vertegenwoordigers van de overeenkomstsluitende lidstaten. De begroting wordt evenwel vastgesteld bij een meerderheid van drie vierde van de vertegenwoordigers van de overeenkomstsluitende lidstaten.
+3. Technically qualified judges shall have a university degree and proven expertise in a field of technology. They shall also have proven knowledge of civil law and procedure relevant in patent litigation.
 
-4. Het Begrotingscomité stelt zijn reglement van orde vast.
+##### Article 16. Appointment procedure
 
-5. Het Begrotingscomité kiest uit zijn midden de voorzitter voor een termijn van drie jaar. Deze termijn kan worden verlengd.
+1. The Advisory Committee shall establish a list of the most suitable candidates to be appointed as judges of the Court, in accordance with the [Statute](https://wetten.overheid.nl/BWBV0006168).
 
-##### Artikel 14. Het Raadgevend Comité
+2. On the basis of that list, the Administrative Committee shall appoint the judges of the Court acting by common accord.
 
-1. Het Raadgevend Comité:
+3. The implementing provisions for the appointment of judges are set out in the [Statute](https://wetten.overheid.nl/BWBV0006168).
 
-- a. ondersteunt het Bestuurscomité bij de voorbereiding van de benoeming van rechters van het Gerecht;
+##### Article 17. Judicial independence and impartiality
 
-- b. stelt aan het in [artikel 15 van het statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=1&artikel=15&z=2023-06-26&g=2023-06-26) bedoelde presidium richtlijnen voor met betrekking tot het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=19&z=2023-06-26&g=2023-06-26) bedoelde opleidingsprogramma voor rechters; en
+1. The Court, its judges and the Registrar shall enjoy judicial independence. In the performance of their duties, the judges shall not be bound by any instructions.
 
-- c. geeft het Bestuurscomité adviezen over de in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=48&z=2023-06-26&g=2023-06-26), bedoelde vereiste kwalificaties.
+2. Legally qualified judges, as well as technically qualified judges who are full-time judges of the Court, may not engage in any other occupation, whether gainful or not, unless an exception is granted by the Administrative Committee.
 
-2. Het Raadgevend Comité bestaat uit octrooirechters en juristen die als uiterst kundig op het gebied van het octrooirecht en de beslechting van octrooigeschillen bekend staan. Zij worden overeenkomstig de in het statuut neergelegde procedure voor een termijn van zes jaar benoemd. Deze termijn kan worden verlengd.
+3. Notwithstanding paragraph 2, the exercise of the office of judges shall not exclude the exercise of other judicial functions at national level.
 
-3. De samenstelling van het Raadgevend Comité dient een breed spectrum aan relevante deskundigheid en de vertegenwoordiging van elk van de overeenkomstsluitende lidstaten te waarborgen. De leden van het Raadgevend Comité verrichten hun taken geheel onafhankelijk en zijn niet gebonden aan aanwijzingen.
+4. The exercise of the office of technically qualified judges who are part-time judges of the Court shall not exclude the exercise of other functions provided there is no conflict of interest.
 
-4. Het Raadgevend Comité stelt zijn reglement van orde vast.
+5. In case of a conflict of interest, the judge concerned shall not take part in proceedings. Rules governing conflicts of interest are set out in the [Statute](https://wetten.overheid.nl/BWBV0006168).
 
-5. Het Raadgevend Comité kiest uit zijn midden de voorzitter voor een termijn van drie jaar. Deze termijn kan worden verlengd.
+##### Article 18. Pool of Judges
 
-### HOOFDSTUK III. RECHTERS VAN HET GERECHT
+1. A Pool of Judges shall be established in accordance with the [Statute](https://wetten.overheid.nl/BWBV0006168).
 
-##### Artikel 15. Selectiecriteria voor de benoeming van rechters
+2. The Pool of Judges shall be composed of all legally qualified judges and technically qualified judges from the Court of First Instance who are full-time or part-time judges of the Court. The Pool of Judges shall include at least one technically qualified judge per field of technology with the relevant qualifications and experience. The technically qualified judges from the Pool of Judges shall also be available to the Court of Appeal.
 
-1. Het Gerecht bestaat uit zowel juridisch als technisch geschoolde rechters. De rechters moeten aan de hoogste bekwaamheidsnormen voldoen en beschikken over bewezen ervaring op het gebied van de beslechting van octrooigeschillen.
+3. Where so provided by this Agreement or the [Statute](https://wetten.overheid.nl/BWBV0006168), the judges from the Pool of Judges shall be allocated to the division concerned by the President of the Court of First Instance. The allocation of judges shall be based on their legal or technical expertise, linguistic skills and relevant experience. The allocation of judges shall guarantee the same high quality of work and the same high level of legal and technical expertise in all panels of the Court of First Instance.
 
-2. De juridisch geschoolde rechters beschikken over de vereiste kwalificaties om benoemd te worden in een rechterlijk ambt in een overeenkomstsluitende lidstaat.
+##### Article 19. Training framework
 
-3. De technisch geschoolde rechters bezitten een universitaire graad en beschikken over bewezen deskundigheid op een bepaald gebied van de technologie. Zij hebben tevens aantoonbare kennis van het voor octrooigeschillen relevante burgerlijk recht en burgerlijk procesrecht.
+1. A training framework for judges, the details of which are set out in the [Statute](https://wetten.overheid.nl/BWBV0006168), shall be set up in order to improve and increase available patent litigation expertise and to ensure a broad geographic distribution of such specific knowledge and experience. The facilities for that framework shall be situated in Budapest.
 
-##### Artikel 16. Benoemingsprocedure
+2. The training framework shall in particular focus on:
 
-1. Het Raadgevend Comité stelt een lijst op van de kandidaten die het meest geschikt zijn om overeenkomstig het statuut tot rechter van het Gerecht te worden benoemd.
+- a) internships in national patent courts or divisions of the Court of First Instance hearing a substantial number of patent litigation cases;
 
-2. Op basis van deze lijst benoemt het Bestuurscomité in onderlinge overeenstemming de rechters van het Gerecht.
+- b) improvement of linguistic skills;
 
-3. De uitvoeringsbepalingen voor de benoeming van de rechters zijn vervat in het statuut.
+- c) technical aspects of patent law;
 
-##### Artikel 17. Rechterlijke onafhankelijkheid en onpartijdigheid
+- d) the dissemination of knowledge and experience in civil procedure for technically qualified judges;
 
-1. Het Gerecht, zijn zittende rechters en de griffier genieten rechterlijke onafhankelijkheid. Bij de uitoefening van hun taken zijn zij aan geen enkele aanwijzing gebonden.
+- e) the preparation of candidate-judges.
 
-2. Juridisch geschoolde en technisch geschoolde rechters die voltijd rechter zijn bij het Gerecht mogen geen andere, al dan niet bezoldigde werkzaamheden verrichten, tenzij het Bestuurscomité een uitzondering heeft toegestaan.
+3. The training framework shall provide for continuous training. Regular meetings shall be organised between all judges of the Court in order to discuss developments in patent law and to ensure the consistency of the Court’s case law.
 
-3. Onverminderd het tweede lid sluit de uitoefening van het ambt van rechter de uitoefening van andere rechterlijke functies op nationaal niveau niet uit.
+### CHAPTER IV. THE PRIMACY OF UNION LAW, LIABILITY AND RESPONSIBILITY OF THE CONTRACTING MEMBER STATES
 
-4. De uitoefening van het ambt van technisch geschoolde rechter in deeltijd sluit de uitoefening van andere functies niet uit, mits er geen belangenconflict bestaat.
+##### Article 20. Primacy of and respect for Union law
 
-5. In geval van een belangenconflict neemt de betrokken rechter niet deel aan de procedure. De regels inzake belangenconflicten zijn vervat in het statuut.
+The Court shall apply Union law in its entirety and shall respect its primacy.
 
-##### Artikel 18. Pool van rechters
+##### Article 21. Requests for preliminary rulings
 
-1. Overeenkomstig het statuut wordt een pool van rechters gevormd.
+As a court common to the Contracting Member States and as part of their judicial system, the Court shall cooperate with the Court of Justice of the European Union to ensure the correct application and uniform interpretation of Union law, as any national court, in accordance with [Article 267 TFEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=267) in particular. Decisions of the Court of Justice of the European Union shall be binding on the Court.
 
-2. De pool van rechters bestaat uit alle juridisch geschoolde rechters en technisch geschoolde rechters van het Gerecht van Eerste Aanleg die in voltijd of deeltijd rechter bij het Gerecht zijn. De pool van rechters bevat per gebied van de technologie ten minste één technisch geschoolde rechter met relevante kwalificaties en ervaring. De technisch geschoolde rechters uit de pool van rechters staan ook ter beschikking van het Hof van Beroep.
+##### Article 22. Liability for damage caused by infringements of Union law
 
-3. In de gevallen waarin zulks in deze overeenkomst of het statuut is bepaald, worden de rechters door de president van het Gerecht van Eerste Aanleg uit de pool van rechters aan de desbetreffende divisie toegewezen. De toewijzing van rechters geschiedt op basis van hun juridische of technische deskundigheid, talenkennis en relevante ervaring. De toewijzing van rechters garandeert dat in alle panels van het Gerecht van Eerste Aanleg dezelfde hoge kwaliteit van werken en hetzelfde hoge niveau van juridische en technische deskundigheid bestaat.
+1. The Contracting Member States are jointly and severally liable for damage resulting from an infringement of Union law by the Court of Appeal, in accordance with Union law concerning non-contractual liability of Member States for damage caused by their national courts breaching Union law.
 
-##### Artikel 19. Opleidingsprogramma
+2. An action for such damages shall be brought against the Contracting Member State where the claimant has its residence or principal place of business or, in the absence of residence or principal place of business, place of business, before the competent authority of that Contracting Member State. Where the claimant does not have its residence, or principal place of business or, in the absence of residence or principal place of business, place of business in a Contracting Member State, the claimant may bring such an action against the Contracting Member State where the Court of Appeal has its seat, before the competent authority of that Contracting Member State.
 
-1. Een opleidingsprogramma voor rechters, waarvan de nadere gegevens zijn vervat in het statuut, wordt opgezet opdat de beschikbare deskundigheid op het gebied van octrooigeschillen wordt verbeterd en uitgebreid, en deze specifieke kennis en ervaring over een groot geografisch gebied worden verspreid. De voor het programma benodigde voorzieningen bevinden zich in Boedapest.
+The competent authority shall apply the *lex fori*, with the exception of its private international law, to all questions not regulated by Union law or by this Agreement. The claimant shall be entitled to obtain the entire amount of damages awarded by the competent authority from the Contracting Member State against which the action was brought.
 
-2. Het opleidingsprogramma omvat in het bijzonder:
+3. The Contracting Member State that has paid damages is entitled to obtain proportional contribution, established in accordance with the method laid down in [Article 37(3) and (4)](https://wetten.overheid.nl/BWBV0006168), from the other Contracting Member States. The detailed rules governing the Contracting Member States’ contribution under this paragraph shall be determined by the Administrative Committee.
 
-- a. stages bij nationale octrooigerechten of divisies van het Gerecht van Eerste Aanleg waarin een aanzienlijk aantal octrooigeschillen wordt behandeld;
+##### Article 23. Responsibility of the Contracting Member States
 
-- b. verbetering van de talenkennis;
+Actions of the Court are directly attributable to each Contracting Member State individually, including for the purposes of [Articles 258](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=258), [259](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=259) and [260 TFEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=260), and to all Contracting Member States collectively.
 
-- c. technische aspecten van het octrooirecht;
+### CHAPTER V. SOURCES OF LAW AND SUBSTANTIVE LAW
 
-- d. verspreiding van kennis en ervaring op het gebied van burgerlijke rechtsvordering ten behoeve van technisch geschoolde rechters;
+##### Article 24. Sources of law
 
-- e. voorbereiding van kandidaat-rechters.
+1. In full compliance with [Article 20](https://wetten.overheid.nl/BWBV0006168), when hearing a case brought before it under this Agreement, the Court shall base its decisions on:
 
-3. Het opleidingsprogramma zal voorzien in permanente opleiding. Regelmatig worden bijeenkomsten voor alle rechters van het Gerecht georganiseerd teneinde ontwikkelingen in het octrooirecht te bespreken en de consistentie in de jurisprudentie van het Gerecht te waarborgen.
+- a) Union law, including Regulation (EU) No 1257/2012 and Regulation (EU) No 1260/20127)Council Regulation (EU) No 1260/2012 of 17 December 2012 implementing enhanced cooperation in the area of the creation of unitary patent protection with regard to the applicable translation arrangements (OJEU L 361, 31.12.2012, p. 89) including any subsequent amendments.;
 
-### HOOFDSTUK IV. HET PRIMAAT VAN HET RECHT VAN DE UNIE, AANSPRAKELIJKHEID EN VERANTWOORDELIJKHEID VAN DE OVEREENKOMSTSLUITENDE LIDSTATEN
+- b) this Agreement;
 
-##### Artikel 20. Het primaat van het recht van de Unie en de eerbiediging ervan
+- c) the [EPC](https://wetten.overheid.nl/jci1.3:c:BWBV0003819);
 
-Het Gerecht past het recht van de Unie in volle omvang toe en eerbiedigt het primaat ervan.
+- d) other international agreements applicable to patents and binding on all the Contracting Member States; and
 
-##### Artikel 21. Verzoeken om prejudiciële beslissingen
+- e) national law.
 
-Als gerecht gemeenschappelijk aan alle overeenkomstsluitende lidstaten en als onderdeel van hun rechtssysteem, werkt het Gerecht, zoals ieder nationaal gerecht, samen met het Hof van Justitie van de Europese Unie, in het bijzonder overeenkomstig [artikel 267 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=267), om de correcte toepassing en uniforme uitlegging van het recht van de Unie te verzekeren. De beslissingen van het Hof van Justitie van de Europese Unie zijn bindend voor het Gerecht.
+2. To the extent that the Court shall base its decisions on national law, including where relevant the law of non-contracting States, the applicable law shall be determined:
 
-##### Artikel 22. Aansprakelijkheid voor schade als gevolg van inbreuken op het recht van de Unie
+- a) by directly applicable provisions of Union law containing private international law rules, or
 
-1. De overeenkomstsluitende lidstaten zijn gezamenlijk en hoofdelijk aansprakelijk voor schade die door een inbreuk op het recht van de Unie door het Hof van Beroep is ontstaan, overeenkomstig het recht van de Unie inzake de niet-contractuele aansprakelijkheid van de lidstaten voor schade veroorzaakt door hun nationale gerechten die het recht van de Unie schenden.
+- b) in the absence of directly applicable provisions of Union law or where the latter do not apply, by international instruments containing private international law rules; or
 
-2. Een vordering tot schadevergoeding tegen de overeenkomstsluitende lidstaat waar de eiser zijn woonplaats of zijn hoofdvestiging of, bij gebreke daarvan, zijn vestiging heeft, wordt ingesteld bij de bevoegde instantie van die overeenkomstsluitende lidstaat. Indien de eiser geen woonplaats of hoofdvestiging noch, bij gebreke daarvan, een vestiging heeft in een overeenkomstsluitende lidstaat, kan de vordering tegen de overeenkomstsluitende lidstaat waar het Hof van Beroep zetelt, worden ingesteld bij de bevoegde instantie van die overeenkomstsluitende lidstaat.
+- c) in the absence of provisions referred to in points (a) and (b), by national provisions on private international law as determined by the Court.
 
-De bevoegde instantie past de **lex fori**, met uitzondering van het internationaal privaatrecht, toe op alle vragen die niet door het recht van de Unie of deze overeenkomst worden geregeld. De eiser heeft recht op het volledige bedrag aan schadevergoeding dat is toegekend door de bevoegde autoriteit van de overeenkomstsluitende lidstaat waartegen de vordering was ingesteld.
+3. The law of non-contracting States shall apply when designated by application of the rules referred to in paragraph 2, in particular in relation to Articles 25 to 28, [54](https://wetten.overheid.nl/BWBV0006168), [55](https://wetten.overheid.nl/BWBV0006168), [64](https://wetten.overheid.nl/BWBV0006168), [68](https://wetten.overheid.nl/BWBV0006168) and [72](https://wetten.overheid.nl/BWBV0006168).
 
-3. De overeenkomstsluitende lidstaat die schadevergoeding heeft betaald, kan overeenkomstig het bepaalde in [artikel 37, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=II&artikel=37&z=2023-06-26&g=2023-06-26), aanspraak maken op een evenredige bijdrage van de andere overeenkomstsluitende lidstaten. Het Bestuurscomité stelt nadere regels vast voor de bijdragen van de overeenkomstsluitende lidstaten uit hoofde van dit lid.
+##### Article 25. Right to prevent the direct use of the invention
 
-##### Artikel 23. Verantwoordelijkheid van de overeenkomstsluitende lidstaten
+A patent shall confer on its proprietor the right to prevent any third party not having the proprietor’s consent from the following:
 
-De handelingen van het Gerecht worden rechtstreeks toegerekend aan elk van de overeenkomstsluitende lidstaten afzonderlijk, ook voor de toepassing van de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=258), [259](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=259) en [260 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=260), alsmede aan alle overeenkomstsluitende lidstaten gezamenlijk.
+- a) making, offering, placing on the market or using a product which is the subject matter of the patent, or importing or storing the product for those purposes;
 
-### HOOFDSTUK V. RECHTSBRONNEN EN MATERIEEL RECHT
+- b) using a process which is the subject matter of the patent or, where the third party knows, or should have known, that the use of the process is prohibited without the consent of the patent proprietor, offering the process for use within the territory of the Contracting Member States in which that patent has effect;
 
-##### Artikel 24. Rechtsbronnen
+- c) offering, placing on the market, using, or importing or storing for those purposes a product obtained directly by a process which is the subject matter of the patent.
 
-1. Geheel in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=20&z=2023-06-26&g=2023-06-26) baseert het Gerecht zijn beslissingen in zaken die uit hoofde van deze overeenkomst aanhangig zijn gemaakt op:
+##### Article 26. Right to prevent the indirect use of the invention
 
-- a. het recht van de Unie, met inbegrip van Verordening (EU) nr. 1257/2012 en Verordening (EU) nr. 1260/20127)Verordening (EU) Nr. 1260/2012 van de Raad tot het aangaan van nauwere samenwerking op het gebied van de instelling van eenheidsoctrooibescherming met betrekking tot de toepasselijke vertaalregelingen (**PbEU** L 361 van 31 december 2012, blz. 89), met inbegrip van latere wijzigingen.;
+1. A patent shall confer on its proprietor the right to prevent any third party not having the proprietor’s consent from supplying or offering to supply, within the territory of the Contracting Member States in which that patent has effect, any person other than a party entitled to exploit the patented invention, with means, relating to an essential element of that invention, for putting it into effect therein, when the third party knows, or should have known, that those means are suitable and intended for putting that invention into effect.
 
-- b. deze overeenkomst;
+2. Paragraph 1 shall not apply when the means are staple commercial products, except where the third party induces the person supplied to perform any of the acts prohibited by [Article 25](https://wetten.overheid.nl/BWBV0006168).
 
-- c. het EOV;
+3. Persons performing the acts referred to in [Article 27(a) to (e)](https://wetten.overheid.nl/BWBV0006168) shall not be considered to be parties entitled to exploit the invention within the meaning of paragraph 1.
 
-- d. andere internationale overeenkomsten die van toepassing zijn op octrooien en bindend zijn voor alle overeenkomstsluitende lidstaten; en
+##### Article 27. Limitations of the effects of a patent
 
-- e. nationaal recht.
+The rights conferred by a patent shall not extend to any of the following:
 
-2. Voor zover het Gerecht beslist op grond van nationaal recht met inbegrip van, in voorkomend geval, het recht van niet-overeenkomstsluitende staten, wordt het toepasselijke recht bepaald:
+- a) acts done privately and for non-commercial purposes;
 
-- a. door de rechtstreeks toepasselijke bepalingen van het recht van de Unie die regels van internationaal privaatrecht bevatten, of
+- b) acts done for experimental purposes relating to the subject matter of the patented invention;
 
-- b. bij gebreke van rechtstreeks toepasselijke bepalingen van recht van de Unie of, indien het recht van de Unie niet van toepassing is, door internationale regelgeving die bepalingen van internationaal privaatrecht bevat, of
+- c) the use of biological material for the purpose of breeding, or discovering and developing other plant varieties;
 
-- c. bij gebreke van de onder a) en b) bedoelde bepalingen, door de door het Gerecht aangewezen nationale bepalingen van internationaal privaatrecht.
+- d) the acts allowed pursuant to Article 13(6) of Directive 2001/82/EC8)Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products (OJEC L 311, 28.11.2001, p. 1) including any subsequent amendments. or Article 10(6) of Directive 2001/83/EC9)Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJEC L 311, 28.11.2001, p. 67) including any subsequent amendments. in respect of any patent covering the product within the meaning of either of those Directives;
 
-3. Het recht van niet-overeenkomstsluitende staten is van toepassing indien het op grond van de in het tweede lid bedoelde regels is aangewezen, in het bijzonder met betrekking tot de artikelen 25 tot en met 28, [54](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=III&artikel=54&z=2023-06-26&g=2023-06-26), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=III&artikel=55&z=2023-06-26&g=2023-06-26), [64](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=64&z=2023-06-26&g=2023-06-26), [68](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=68&z=2023-06-26&g=2023-06-26) en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=72&z=2023-06-26&g=2023-06-26).
+- e) the extemporaneous preparation by a pharmacy, for individual cases, of a medicine in accordance with a medical prescription or acts concerning the medicine so prepared;
 
-##### Artikel 25. Recht om de directe toepassing van de uitvinding te verhinderen
+- f) the use of the patented invention on board vessels of countries of the International Union for the Protection of Industrial Property (Paris Union) or members of the World Trade Organisation, other than those Contracting Member States in which that patent has effect, in the body of such vessel, in the machinery, tackle, gear and other accessories, when such vessels temporarily or accidentally enter the waters of a Contracting Member State in which that patent has effect, provided that the invention is used there exclusively for the needs of the vessel;
 
-Een octrooi verleent de houder ervan het recht te verhinderen dat een derde zonder zijn toestemming:
+- g) the use of the patented invention in the construction or operation of aircraft or land vehicles or other means of transport of countries of the International Union for the Protection of Industrial Property (Paris Union) or members of the World Trade Organisation, other than those Contracting Member States in which that patent has effect, or of accessories to such aircraft or land vehicles, when these temporarily or accidentally enter the territory of a Contracting Member State in which that patent has effect;
 
-- a. een product dat onderwerp van het octrooi is, vervaardigt, aanbiedt, in het verkeer brengt of gebruikt, dan wel met dat doel invoert of in voorraad heeft;
+- h) the acts specified in [Article 27 of the Convention on International Civil Aviation of 7 December 1944](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=27)10)International Civil Aviation Organization (ICAO), “Chicago Convention”, Document 7300/9 (9th edition, 2006)., where these acts concern the aircraft of a country party to that Convention other than a Contracting Member State in which that patent has effect;
 
-- b. een werkwijze die onderwerp van het octrooi is, toepast of, indien de derde weet of behoort te weten dat toepassing van de werkwijze zonder toestemming van de octrooihouder verboden is, voor toepassing op het grondgebied van de overeenkomstsluitende lidstaten waar het octrooi van kracht is, aanbiedt;
+- i) the use by a farmer of the product of his harvest for propagation or multiplication by him on his own holding, provided that the plant propagating material was sold or otherwise commercialised to the farmer by or with the consent of the patent proprietor for agricultural use. The extent and the conditions for this use correspond to those under Article 14 of Regulation (EC) No. 2100/9411)Council Regulation (EC) No 2100/94 of 27 July 1994 on Community plant variety rights (OJEC L 227, 1.9.1994, p. 1) including any subsequent amendments.;
 
-- c. een product dat rechtstreeks is verkregen volgens de werkwijze die onderwerp van het octrooi is, aanbiedt, in het verkeer brengt of gebruikt, dan wel met dat doel invoert of in voorraad heeft.
+- j) the use by a farmer of protected livestock for an agricultural purpose, provided that the breeding stock or other animal reproductive material were sold or otherwise commercialised to the farmer by or with the consent of the patent proprietor. Such use includes making the animal or other animal reproductive material available for the purposes of pursuing the farmer’s agricultural activity, but not the sale thereof within the framework of, or for the purpose of, a commercial reproductive activity;
 
-##### Artikel 26. Recht om de indirecte toepassing van de uitvinding te verhinderen
+- k) the acts and the use of the obtained information as allowed under Articles 5 and 6 of Directive 2009/24/EC12)Directive 2009/24/EC of the European Parliament and of the Council of 23 April 2009 on the legal protection of computer programs (OJEU L 111, 05/05/2009, p. 16) including any subsequent amendments., in particular, by its provisions on decompilation and interoperability; and
 
-1. Een octrooi verleent de houder ervan het recht te verhinderen dat een derde zonder zijn toestemming, op het grondgebied van de overeenkomstsluitende lidstaten waar het octrooi van kracht is, aan een ander dan degene die gerechtigd is de geoctrooieerde uitvinding te gebruiken, middelen die een wezenlijk bestanddeel van die uitvinding betreffen, voor de toepassing van die uitvinding op dat grondgebied, aanbiedt of levert, indien de derde weet of behoort te weten dat deze middelen geschikt en bestemd zijn voor toepassing van die uitvinding.
+- l) the acts allowed pursuant to Article 10 of Directive 98/44/EC13)Directive 98/44/EC of the European Parliament and of the Council of 6 July 1998 on the legal protection of biotechnological inventions (OJEC L 213, 30.7.1998, p. 13) including any subsequent amendments..
 
-2. Het eerste lid geldt niet indien de middelen algemeen in de handel verkrijgbare producten zijn, tenzij de derde degene aan wie hij levert, aanzet tot het verrichten van een krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=25&z=2023-06-26&g=2023-06-26) verboden handeling.
+##### Article 28. Right based on prior use of the invention
 
-3. Degene die de in [artikel 27, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=27&z=2023-06-26&g=2023-06-26), bedoelde handelingen verricht, wordt niet geacht in de zin van het eerste lid gerechtigd te zijn de uitvinding te gebruiken.
+Any person, who, if a national patent had been granted in respect of an invention, would have had, in a Contracting Member State, a right based on prior use of that invention or a right of personal possession of that invention, shall enjoy, in that Contracting Member State, the same rights in respect of a patent for the same invention.
 
-##### Artikel 27. Beperkingen van de werking van een octrooi
+##### Article 29. Exhaustion of the rights conferred by a European patent
 
-De uit een octrooi voortvloeiende rechten zijn niet van toepassing op:
+The rights conferred by a European patent shall not extend to acts concerning a product covered by that patent after that product has been placed on the market in the European Union by, or with the consent of, the patent proprietor, unless there are legitimate grounds for the patent proprietor to oppose further commercialisation of the product.
 
-- a. handelingen die in de particuliere sfeer voor niet-commerciële doeleinden worden verricht;
+##### Article 30. Effects of supplementary protection certificates
 
-- b. handelingen voor experimentele doeleinden die het onderwerp van de geoctrooieerde uitvinding betreffen;
+A supplementary protection certificate shall confer the same rights as conferred by the patent and shall be subject to the same limitations and the same obligations.
 
-- c. het gebruik van biologisch materiaal voor het kweken, of ontdekken en ontwikkelen van andere plantenrassen;
+### CHAPTER VI. INTERNATIONAL JURISDICTION AND COMPETENCE
 
-- d. de handelingen die zijn toegestaan op grond van artikel 13, zesde lid, van Richtlijn 2001/82/EG8)Richtlijn 2001/82/EG van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (**PbEG** L 311 van 28 november 2001, blz. 1), met inbegrip van latere wijzigingen. of artikel 10, zesde lid, van Richtlijn 2001/83/EG9)Richtlijn 2001/83/EG van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor menselijk gebruik (**PbEG** L 311 van 28 november 2001, blz. 67), met inbegrip van latere wijzigingen., met betrekking tot een octrooi voor het product in de zin van een van deze richtlijnen;
+##### Article 31. International jurisdiction
 
-- e. de bereiding van geneesmiddelen voor direct gebruik voor individuele gevallen op medisch voorschrift in apotheken, of handelingen betreffende de aldus bereide geneesmiddelen;
+The international jurisdiction of the Court shall be established in accordance with Regulation (EU) No 1215/2012 or, where applicable, on the basis of the [Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters](https://wetten.overheid.nl/jci1.3:c:BWBV0002924) (Lugano Convention)14)Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, done at Lugano on 30 October 2007, including any subsequent amendments..
 
-- f. het gebruik van de geoctrooieerde uitvinding aan boord van schepen van landen die partij zijn bij de Internationale Unie tot bescherming van de industriële eigendom (Unie van Parijs) of lid zijn van de Wereldhandelsorganisatie, niet zijnde overeenkomstsluitende lidstaten waar het octrooi van kracht is, in het schip zelf, in de machines, het scheepswant, de tuigage en andere toebehoren, indien die schepen zich tijdelijk of bij toeval begeven in de wateren van een overeenkomstsluitende lidstaat waar het octrooi van kracht is, mits de uitvinding uitsluitend voor het schip gebruikt wordt;
+##### Article 32. Competence of the Court
 
-- g. het gebruik van de geoctrooieerde uitvinding in de constructie of werking van luchtvaartuigen of landvoertuigen of andere middelen van vervoer van landen die partij zijn bij de Internationale Unie tot bescherming van de industriële eigendom (Unie van Parijs) of lid zijn van de Wereldhandelsorganisatie, niet zijnde overeenkomstsluitende lidstaten waar het octrooi van kracht is, of van toebehoren van deze luchtvaartuigen of landvoertuigen, indien deze zich tijdelijk of bij toeval begeven op het grondgebied van een overeenkomstsluitende lidstaat waar het octrooi van kracht is;
+1. The Court shall have exclusive competence in respect of:
 
-- h. de handelingen, bedoeld in [artikel 27 van het Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=27) van 7 december 194410)Internationale Burgerluchtvaartorganisatie (ICAO), „Verdrag van Chicago”, doc. 7300/9 (9e editie, 2006)., indien deze handelingen betrekking hebben op een luchtvaartuig van een land dat partij is bij dat verdrag, niet zijnde een overeenkomstsluitende lidstaat waar het octrooi van kracht is;
+- a) actions for actual or threatened infringements of patents and supplementary protection certificates and related defences, including counterclaims concerning licences;
 
-- i. het gebruik door een landbouwer van de producten van zijn oogst voor de propagatie of vermeerdering door hemzelf op zijn eigen bedrijf, indien het plantaardig propagatiemateriaal door de octrooihouder of met zijn toestemming voor gebruik in de landbouw aan de landbouwer is verkocht of anderszins verhandeld. De reikwijdte en de voorwaarden voor dit gebruik zijn bepaald in artikel 14 van Verordening (EG) nr. 2100/9411)Verordening (EG) nr. 2100/94 van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht (**PbEG** L 227 van 1 september 1994, blz. 1), met inbegrip van latere wijzigingen.;
+- b) actions for declarations of non-infringement of patents and supplementary protection certificates;
 
-- j. het gebruik voor agrarische doeleinden, door een landbouwer, van vee dat onder octrooibescherming valt, indien het fokvee of ander dierlijk propagatiemateriaal door de octrooihouder of met zijn toestemming aan de landbouwer is verkocht of anderszins verhandeld. Dit gebruik omvat het beschikbaar stellen van het dier of ander dierlijk propagatiemateriaal voor zijn eigen gebruik in de landbouw, maar niet de verkoop in het kader van of met het oog op de commerciële fokkerij;
+- c) actions for provisional and protective measures and injunctions;
 
-- k. de handelingen en het gebruik van verkregen informatie, die zijn toegestaan op grond van de artikelen 5 en 6 van Richtlijn 2009/24/EG12)Richtlijn 2009/24/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de rechtsbescherming van computerprogramma’s (**PbEU** L 111 van 5 mei 2009, blz. 16), met inbegrip van latere wijzigingen., met name de bepalingen inzake decompilatie en interoperabiliteit; en
+- d) actions for revocation of patents and for declaration of invalidity of supplementary protection certificates;
 
-- l. de handelingen die overeenkomstig artikel 10 van Richtlijn 98/44/EG13)Richtlijn 98/44/EG van het Europees Parlement en de Raad van 6 juli 1998 betreffende de rechtsbescherming van biotechnologische uitvindingen (**PbEG** L 213 van 30 juli 1998, blz. 13), met inbegrip van latere wijzigingen. zijn toegestaan.
+- e) counterclaims for revocation of patents and for declaration of invalidity of supplementary protection certificates;
 
-##### Artikel 28. Recht van voorgebruik van de uitvinding
+- f) actions for damages or compensation derived from the provisional protection conferred by a published European patent application;
 
-Een ieder die, indien voor een uitvinding een nationaal octrooi zou zijn verleend, in een overeenkomstsluitende lidstaat een recht van voorgebruik of een recht van persoonlijk bezit van die uitvinding zou hebben gehad, geniet in die overeenkomstsluitende lidstaat dezelfde rechten met betrekking tot een octrooi voor diezelfde uitvinding.
+- g) actions relating to the use of the invention prior to the granting of the patent or to the right based on prior use of the invention;
 
-##### Artikel 29. Uitputting van de aan een Europees octrooi verbonden rechten
+- h) actions for compensation for licences on the basis of Article 8 of Regulation (EU) No 1257/2012; and
 
-De aan een Europees octrooi verbonden rechten strekken zich niet uit tot handelingen, die een door dat octrooi beschermd product betreffen, nadat het product door de octrooihouder of met zijn toestemming in de Europese Unie in het verkeer is gebracht, tenzij de octrooihouder zich op legitieme gronden tegen verdere verkoop van het product kan verzetten.
+- i) actions concerning decisions of the European Patent Office in carrying out the tasks referred to in Article 9 of Regulation (EU) No 1257/2012.
 
-##### Artikel 30. Werking van aanvullende beschermingscertificaten
+2. The national courts of the Contracting Member States shall remain competent for actions relating to patents and supplementary protection certificates which do not come within the exclusive competence of the Court.
 
-Een aanvullend beschermingscertificaat verleent dezelfde rechten als het octrooi en is aan dezelfde beperkingen en verplichtingen onderworpen.
+##### Article 33. Competence of the divisions of the Court of First Instance
 
-### HOOFDSTUK VI. INTERNATIONALE RECHTSMACHT EN BEVOEGDHEID
+1. Without prejudice to paragraph 7 of this Article, actions referred to in [Article 32(1)(a), (c), (f) and (g)](https://wetten.overheid.nl/BWBV0006168) shall be brought before:
 
-##### Artikel 31. Internationale rechtsmacht
+- a) the local division hosted by the Contracting Member State where the actual or threatened infringement has occurred or may occur, or the regional division in which that Contracting Member State participates; or
 
-De internationale rechtsmacht van het Gerecht wordt vastgesteld overeenkomstig Verordening (EU) nr. 1215/2012 of, in voorkomend geval, op grond van het Verdrag betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (Verdrag van Lugano)14)Verdrag van Lugano betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken van 30 oktober 2007, met inbegrip van latere wijzigingen..
+- b) the local division hosted by the Contracting Member State where the defendant or, in the case of multiple defendants, one of the defendants has its residence, or principal place of business, or in the absence of residence or principal place of business, its place of business, or the regional division in which that Contracting Member State participates. An action may be brought against multiple defendants only where the defendants have a commercial relationship and where the action relates to the same alleged infringement.
 
-##### Artikel 32. Bevoegdheid van het Gerecht
+Actions referred to in [Article 32(1)(h)](https://wetten.overheid.nl/BWBV0006168) shall be brought before the local or regional division in accordance with point (b) of the first subparagraph.
 
-1. Het Gerecht is exclusief bevoegd kennis te nemen van:
+Actions against defendants having their residence, or principal place of business or, in the absence of residence or principal place of business, their place of business, outside the territory of the Contracting Member States shall be brought before the local or regional division in accordance with point (a) of the first subparagraph or before the central division.
 
-- a. vorderingen wegens inbreuk of dreigende inbreuk op octrooien en aanvullende beschermingscertificaten en gerelateerde verweren, waaronder reconventionele vorderingen betreffende licenties;
+If the Contracting Member State concerned does not host a local division and does not participate in a regional division, actions shall be brought before the central division.
 
-- b. vorderingen tot verklaring van niet-inbreuk op octrooien en aanvullende beschermingscertificaten;
+2. If an action referred to in [Article 32(1)(a), (c), (f), (g) or (h)](https://wetten.overheid.nl/BWBV0006168) is pending before a division of the Court of First Instance, any action referred to in Article 32(1)(a), (c), (f), (g) or (h) between the same parties on the same patent may not be brought before any other division.
 
-- c. vorderingen tot het verkrijgen van voorlopige en conservatoire maatregelen of verbodsmaatregelen;
+If an action referred to in [Article 32(1)(a)](https://wetten.overheid.nl/BWBV0006168) is pending before a regional division and the infringement has occurred in the territories of three or more regional divisions, the regional division concerned shall, at the request of the defendant, refer the case to the central division.
 
-- d. vorderingen tot nietigverklaring van octrooien en van aanvullende beschermingscertificaten;
+In case an action between the same parties on the same patent is brought before several different divisions, the division first seized shall be competent for the whole case and any division seized later shall declare the action inadmissible in accordance with the Rules of Procedure.
 
-- e. reconventionele vorderingen tot nietigverklaring van octrooien en aanvullende beschermingscertificaten;
+3. A counterclaim for revocation as referred to in [Article 32(1)(e)](https://wetten.overheid.nl/BWBV0006168) may be brought in the case of an action for infringement as referred to in Article 32(1)(a). The local or regional division concerned shall, after having heard the parties, have the discretion either to:
 
-- f. vorderingen tot schadevergoeding of vergoeding op grond van de voorlopige bescherming die door een gepubliceerde Europese octrooiaanvraag wordt verleend;
+- a) proceed with both the action for infringement and with the counterclaim for revocation and request the President of the Court of First Instance to allocate from the Pool of Judges in accordance with [Article 18(3)](https://wetten.overheid.nl/BWBV0006168) a technically qualified judge with qualifications and experience in the field of technology concerned.
 
-- g. vorderingen in verband met het gebruik van de uitvinding voordat het octrooi is verleend of met het recht dat gebaseerd is op voorgebruik van de uitvinding;
+- b) refer the counterclaim for revocation for decision to the central division and suspend or proceed with the action for infringement; or
 
-- h. vorderingen tot vergoeding voor licenties op grond van artikel 8 van Verordening (EU) nr. 1257/2012; en
+- c) with the agreement of the parties, refer the case for decision to the central division.
 
-- i. vorderingen met betrekking tot besluiten van het Europees Octrooibureau bij het uitvoeren van de taken, bedoeld in artikel 9 van Verordening (EU) nr. 1257/2012.
+4. Actions referred to in [Article 32(1)(b) and (d)](https://wetten.overheid.nl/BWBV0006168) shall be brought before the central division. If, however, an action for infringement as referred to in Article 32(1)(a) between the same parties relating to the same patent has been brought before a local or a regional division, these actions may only be brought before the same local or regional division.
 
-2. De nationale gerechten van de overeenkomstsluitende lidstaten blijven bevoegd ter zake van vorderingen betreffende octrooien en aanvullende beschermingscertificaten die buiten de exclusieve bevoegdheid van het Gerecht vallen.
+5. If an action for revocation as referred to in [Article 32(1)(d)](https://wetten.overheid.nl/BWBV0006168) is pending before the central division, an action for infringement as referred to in Article 32(1)(a) between the same parties relating to the same patent may be brought before any division in accordance with paragraph 1 of this Article or before the central division. The local or regional division concerned shall have the discretion to proceed in accordance with paragraph 3 of this Article.
 
-##### Artikel 33. Bevoegdheid van de divisies van het Gerecht van Eerste Aanleg
+6. An action for declaration of non-infringement as referred to in [Article 32(1)(b)](https://wetten.overheid.nl/BWBV0006168) pending before the central division shall be stayed once an infringement action as referred to in Article 32(1)(a) between the same parties or between the holder of an exclusive licence and the party requesting a declaration of non-infringement relating to the same patent is brought before a local or regional division within three months of the date on which the action was initiated before the central division.
 
-1. Onverminderd het zevende lid van dit artikel worden de in [artikel 32, eerste lid, onder a), c), f) en g)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26) bedoelde vorderingen ingesteld bij:
+7. Parties may agree to bring actions referred to in [Article 32(1)(a) to (h)](https://wetten.overheid.nl/BWBV0006168) before the division of their choice, including the central division.
 
-- a. de lokale divisie op het grondgebied van de overeenkomstsluitende lidstaat waar de feitelijke inbreuk of dreigende inbreuk zich heeft voorgedaan of zich kan voordoen, of de regionale divisie waaraan die overeenkomstsluitende lidstaat deelneemt; of
+8. Actions referred to in [Article 32(1)(d) and (e)](https://wetten.overheid.nl/BWBV0006168) can be brought without the applicant having to file notice of opposition with the European Patent Office.
 
-- b. de lokale divisie op het grondgebied van de overeenkomstsluitende lidstaat waar de verweerder of, in het geval van meerdere verweerders, een van de verweerders zijn woonplaats of zijn hoofdvestiging heeft of, bij gebreke daarvan, zijn vestiging heeft, of de regionale divisie waaraan die overeenkomstsluitende lidstaat deelneemt. Tegen meerdere verweerders kan uitsluitend een vordering worden ingesteld als tussen hen een commerciële relatie bestaat en de vordering op dezelfde vermeende inbreuk betrekking heeft.
+9. Actions referred to in [Article 32(1)(i)](https://wetten.overheid.nl/BWBV0006168) shall be brought before the central division.
 
-Vorderingen als bedoeld in [artikel 32, eerste lid, onder h)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), worden overeenkomstig het eerste lid, onder b), bij de lokale of regionale divisie ingesteld.
+10. A party shall inform the Court of any pending revocation, limitation or opposition proceedings before the European Patent Office, and of any request for accelerated processing before the European Patent Office. The Court may stay its proceedings when a rapid decision may be expected from the European Patent Office.
 
-Vorderingen tegen verweerders die hun woonplaats of zijn hoofdvestiging of, bij gebreke daarvan, hun vestiging buiten het grondgebied van de overeenkomstsluitende lidstaten hebben, worden overeenkomstig het eerste lid, onder a), bij de lokale of regionale divisie of bij de centrale divisie ingesteld.
+##### Article 34. Territorial scope of decisions
 
-Indien er op het grondgebied van de betrokken overeenkomstsluitende lidstaat geen lokale divisie is en deze niet aan een regionale divisie deelneemt, wordt de vordering bij de centrale divisie ingesteld.
+Decisions of the Court shall cover, in the case of a European patent, the territory of those Contracting Member States for which the European patent has effect.
 
-2. Indien een vordering als bedoeld in [artikel 32, eerste lid, onder a), c), f), g) of h)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), bij een divisie van het Gerecht van Eerste Aanleg aanhangig is, mag tussen dezelfde partijen met betrekking tot hetzelfde octrooi geen vordering als bedoeld in artikel 32, eerste lid, onder a), c), f), g) of h) bij een andere divisie worden ingesteld.
+### CHAPTER VII. PATENT MEDIATION AND ARBITRATION
 
-Indien een vordering als bedoeld in [artikel 32, eerste lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), bij een regionale divisie aanhangig is en de inbreuk op het grondgebied van drie of meer regionale divisies is gepleegd, verwijst de desbetreffende regionale divisie de zaak op verzoek van de verweerder naar de centrale divisie.
+##### Article 35. Patent mediation and arbitration centre
 
-Indien een vordering tussen dezelfde partijen over hetzelfde octrooi bij verscheidene divisies is ingesteld, is de divisie waar de vordering het eerst is ingesteld bevoegd voor de gehele zaak, en verklaren de divisies waar de vordering later is ingesteld deze overeenkomstig het procesreglement niet-ontvankelijk.
+1. A patent mediation and arbitration centre (“the Centre”) is hereby established. It shall have its seats in Ljubljana and Lisbon.
 
-3. Indien een vordering wegens inbreuk als bedoeld in [artikel 32, eerste lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26) aanhangig is, kan een reconventionele vordering tot nietigverklaring als bedoeld in artikel 32, eerste lid, onder e), worden ingesteld. De desbetreffende lokale of regionale divisie heeft, na de partijen te hebben gehoord, de keuze om:
+2. The Centre shall provide facilities for mediation and arbitration of patent disputes falling within the scope of this Agreement. [Article 82](https://wetten.overheid.nl/BWBV0006168) shall apply mutatis mutandis to any settlement reached through the use of the facilities of the Centre, including through mediation. However, a patent may not be revoked or limited in mediation or arbitration proceedings.
 
-- a. zowel de inbreukvordering als de reconventionele nietigheidsvordering te behandelen en de president van het Gerecht van Eerste Aanleg te verzoeken overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-26&g=2023-06-26), uit de pool van rechters een technisch geschoolde rechter met kwalificaties en ervaring op het desbetreffende gebied van de technologie toe te wijzen;
+3. The Centre shall establish Mediation and Arbitration Rules.
 
-- b. de reconventionele nietigheidsvordering naar de centrale divisie te verwijzen en de inbreukprocedure te behandelen of aan te houden; of
+4. The Centre shall draw up a list of mediators and arbitrators to assist the parties in the settlement of their dispute.
 
-- c. met instemming van de partijen de zaak ter afdoening naar de centrale divisie te verwijzen.
+## PART II. FINANCIAL PROVISIONS
 
-4. De in [artikel 32, eerste lid, onder b) en d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), bedoelde vorderingen worden bij de centrale divisie ingesteld. Deze vorderingen kunnen echter, indien een inbreukvordering in de zin van artikel 32, eerste lid, onder a), tussen dezelfde partijen over hetzelfde octrooi bij een lokale of regionale divisie is ingesteld, uitsluitend bij dezelfde lokale of regionale divisie worden ingesteld.
+##### Article 36. Budget of the Court
 
-5. Indien bij de centrale divisie een nietigheidsvordering als bedoeld in [artikel 32, eerste lid, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), aanhangig is, kan een inbreukvordering als bedoeld in artikel 32, eerste lid, onder a), tussen dezelfde partijen met betrekking tot hetzelfde octrooi, bij elke divisie overeenkomstig het eerste lid van dit artikel of bij de centrale divisie worden ingesteld. De desbetreffende lokale of regionale divisie heeft de keuze overeenkomstig het derde lid van dit artikel te handelen.
+1. The budget of the Court shall be financed by the Court’s own financial revenues and, at least in the transitional period referred to in [Article 83](https://wetten.overheid.nl/BWBV0006168) as necessary, by contributions from the Contracting Member States. The budget shall be balanced.
 
-6. Een vordering tot verklaring van niet-inbreuk als bedoeld in [artikel 32, eerste lid, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), die aanhangig is bij de centrale divisie, wordt aangehouden indien binnen drie maanden na de datum waarop de vordering bij de centrale divisie is ingesteld, bij een lokale of regionale divisie tussen dezelfde partijen of tussen de houder van een exclusieve licentie en de partij die een verklaring van niet-inbreuk vordert, met betrekking tot hetzelfde octrooi een inbreukvordering als bedoeld in artikel 32, eerste lid, onder a), wordt ingesteld.
+2. The Court’s own financial revenues shall comprise court fees and other revenues.
 
-7. De partijen kunnen bij vorderingen als bedoeld in [artikel 32, eerste lid, onder a) tot en met h)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), overeenkomen hun vordering in te stellen bij de divisie van hun keuze, waaronder de centrale divisie.
+3. Court fees shall be fixed by the Administrative Committee. They shall consist of a fixed fee, combined with a value-based fee above a pre-defined ceiling. The Court fees shall be fixed at such a level as to ensure a right balance between the principle of fair access to justice, in particular for small and medium-sized enterprises, micro-entities, natural persons, non-profit organisations, universities and public research organisations and an adequate contribution of the parties for the costs incurred by the Court, recognising the economic benefits to the parties involved, and the objective of a self-financing Court with balanced finances. The level of the Court fees shall be reviewed periodically by the Administrative Committee. Targeted support measures for small and medium-sized enterprises and micro entities may be considered.
 
-8. De in [artikel 32, eerste lid, onder d) en e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), bedoelde vorderingen kunnen worden ingesteld zonder dat de eiser bij het Europees Octrooibureau oppositie hoeft in te stellen.
+4. If the Court is unable to balance its budget out of its own resources, the Contracting Member States shall remit to it special financial contributions.
 
-9. De in [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), bedoelde vorderingen worden ingesteld bij de centrale divisie.
+##### Article 37. Financing of the Court
 
-10. Een partij stelt het Gerecht in kennis van elke herroepings-, beperkings- of oppositieprocedure die, en van elk verzoek om versnelde behandeling dat, bij het Europees Octrooibureau aanhangig is. Het Gerecht kan de procedure opschorten indien een spoedige beslissing van het Europees Octrooibureau te verwachten is.
+1. The operating costs of the Court shall be covered by the budget of the Court, in accordance with the [Statute](https://wetten.overheid.nl/BWBV0006168).
 
-##### Artikel 34. Territoriale reikwijdte van beslissingen
+Contracting Member States setting up a local division shall provide the facilities necessary for that purpose. Contracting Member States sharing a regional division shall provide jointly the facilities necessary for that purpose. Contracting Member States hosting the central division , its sections or the Court of Appeal shall provide the facilities necessary for that purpose. During an initial transitional period of seven years starting from the date of the entry into force of this Agreement, the Contracting Member States concerned shall also provide administrative support staff, without prejudice to the [Statute](https://wetten.overheid.nl/BWBV0006168) of that staff.
 
-De beslissingen van het Gerecht hebben in het geval van een Europees octrooi gelding op het grondgebied van de overeenkomstsluitende lidstaten waar het Europees octrooi van kracht is.
+2. On the date of entry into force of this Agreement, the Contracting Member States shall provide the initial financial contributions necessary for the setting up of the Court.
 
-### HOOFDSTUK VII. MEDIATION EN ARBITRAGE IN OCTROOIZAKEN
+3. During the initial transitional period of seven years, starting from the date of the entry into force of this Agreement, the contribution by each Contracting Member State having ratified or acceded to the Agreement before the entry into force thereof shall be calculated on the basis of the number of European patents having effect in the territory of that State on the date of entry into force of this Agreement and the number of European patents with respect to which actions for infringement or for revocation have been brought before the national courts of that State in the three years preceding entry into force of this Agreement.
 
-##### Artikel 35. Centrum voor mediation en arbitrage in octrooizaken
+During the same initial transitional period of seven years, for Member States which ratify, or accede to, this Agreement after the entry into force thereof, the contributions shall be calculated on the basis of the number of European patents having effect in the territory of the ratifying or acceding Member State on the date of the ratification or accession and the number of European patents with respect to which actions for infringement or for revocation have been brought before the national courts of the ratifying or acceding Member State in the three years preceding the ratification or accession.
 
-1. Bij deze overeenkomst wordt een centrum voor mediation en arbitrage in octrooizaken (hierna genoemd „het Centrum”) opgericht. Het Centrum zetelt in Ljubljana en Lissabon.
+4. After the end of the initial transitional period of seven years, by which the Court is expected to have become self-financing, should contributions by the Contracting Member States become necessary, they shall be determined in accordance with the scale for the distribution of annual renewal fees for European patents with unitary effect applicable at the time the contribution becomes necessary.
 
-2. Het Centrum verschaft faciliteiten voor mediation en arbitrage bij octrooigeschillen die binnen de reikwijdte van deze overeenkomst vallen. [Artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=VI&artikel=82&z=2023-06-26&g=2023-06-26) is van overeenkomstige toepassing op elke schikking die door gebruikmaking van de faciliteiten van het Centrum, waaronder mediation, wordt bereikt. In de mediation- of arbitrageprocedure kan het octrooi echter niet nietig worden verklaard of worden beperkt.
+##### Article 38. Financing of the training framework for judges
 
-3. Het Centrum stelt regels voor mediation en arbitrage vast.
+The training framework for judges shall be financed by the budget of the Court.
 
-4. Het Centrum stelt een lijst van mediators en arbiters op die de partijen bij de beslechting van hun geschil bijstaan.
+##### Article 39. Financing of the Centre
 
-## DEEL II. FINANCIËLE BEPALINGEN
+The operating costs of the Centre shall be financed by the budget of the Court.
 
-##### Artikel 36. Begroting van het Gerecht
+## PART III. ORGANISATION AND PROCEDURAL PROVISIONS
 
-1. De begroting van het Gerecht wordt gefinancierd uit de eigen inkomsten van het Gerecht en, ten minste tijdens de in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-26&g=2023-06-26) bedoelde overgangsperiode, voor zover nodig uit bijdragen van de overeenkomstsluitende lidstaten. De begroting dient sluitend te zijn.
+### CHAPTER I. GENERAL PROVISIONS
 
-2. De eigen inkomsten van het Gerecht omvatten de griffierechten en andere inkomsten.
+##### Article 40. Statute
 
-3. De griffierechten worden door het Bestuurscomité vastgesteld. Zij bestaan uit een vast bedrag, in combinatie met een waarde-afhankelijk bedrag boven een van te voren bepaalde drempel. De hoogte van de griffierechten wordt zodanig vastgesteld dat het juiste evenwicht ontstaat tussen het beginsel van een billijke toegang tot de rechter, in het bijzonder voor kleine en middelgrote ondernemingen, micro-entiteiten, natuurlijke personen, organisaties zonder winstoogmerk, universiteiten en openbare organisaties voor onderzoek, en een passende bijdrage van de partijen aan de kosten van het Gerecht, met inachtneming van het door de betrokken partijen genoten economisch voordeel en de doelstelling van een financieel zelfstandig Gerecht met een sluitende begroting. De hoogte van de griffierechten wordt op gezette tijden door het Bestuurscomité geëvalueerd. Voor kleine en middelgrote ondernemingen en micro-entiteiten kunnen gerichte steunmaatregelen worden overwogen.
+1. The [Statute](https://wetten.overheid.nl/BWBV0006168) shall lay down the details of the organisation and functioning of the Court.
 
-4. Indien het Gerecht er niet in slaagt de begroting met eigen inkomsten sluitend te maken, worden door de overeenkomstsluitende lidstaten bijzondere financiële bijdragen verstrekt.
+2. The [Statute](https://wetten.overheid.nl/BWBV0006168) is annexed to this Agreement. The Statute may be amended by decision of the Administrative Committee, on the basis of a proposal of the Court or a proposal of a Contracting Member State after consultation with the Court. However, such amendments shall not contradict or alter this Agreement.
 
-##### Artikel 37. Financiering van het Gerecht
+3. The [Statute](https://wetten.overheid.nl/BWBV0006168) shall guarantee that the functioning of the Court is organised in the most efficient and cost-effective manner and shall ensure equitable access to justice.
 
-1. De operationele kosten van het Gerecht worden overeenkomstig het statuut gefinancierd uit de begroting. Overeenkomstsluitende lidstaten die een lokale divisie oprichten, stellen daartoe de noodzakelijke voorzieningen ter beschikking. Overeenkomstsluitende lidstaten die een regionale divisie delen, stellen daartoe gezamenlijk de noodzakelijke voorzieningen ter beschikking. De overeenkomstsluitende lidstaten waarin de centrale divisie, afdelingen daarvan of het Hof van Beroep gevestigd is, stellen daartoe de noodzakelijke voorzieningen ter beschikking. Gedurende een eerste overgangsperiode van zeven jaar, die ingaat op de datum waarop deze overeenkomst in werking treedt, leveren de betrokken overeenkomstsluitende lidstaten ook ondersteunend administratief personeel, onverminderd het statuut van dat personeel.
+##### Article 41. Rules of Procedure
 
-2. Op de datum waarop deze overeenkomst in werking treedt, betalen de overeenkomstsluitende lidstaten de eerste financiële bijdragen voor de oprichting van het Gerecht.
+1. The Rules of Procedure shall lay down the details of the proceedings before the Court. They shall comply with this Agreement and the [Statute](https://wetten.overheid.nl/BWBV0006168).
 
-3. Tijdens de eerste overgangsperiode van zeven jaar, die ingaat op de datum waarop deze overeenkomst in werking treedt, wordt de bijdrage van elke overeenkomstsluitende lidstaat die de overeenkomst vóór de inwerkingtreding heeft bekrachtigd of ertoe is toegetreden, berekend op basis van het aantal Europese octrooien dat op het grondgebied van die staat op de datum van inwerkingtreding van deze overeenkomst van kracht is en het aantal Europese octrooien ten aanzien waarvan er bij de nationale gerechten van die staat in de drie jaar voorafgaand aan de inwerkingtreding van de overeenkomst vorderingen wegens inbreuk of tot nietigverklaring zijn ingesteld.
+2. The Rules of Procedure shall be adopted by the Administrative Committee on the basis of broad consultations with stakeholders. The prior opinion of the European Commission on the compatibility of the Rules of Procedure with Union law shall be requested.
 
-Tijdens dezelfde overgangsperiode van zeven jaar worden, ten aanzien van lidstaten die deze overeenkomst na de inwerkingtreding bekrachtigen of ertoe toetreden, de bijdragen berekend op basis van het aantal Europese octrooien dat op de datum van bekrachtiging of toetreding op het grondgebied van de bekrachtigende of toetredende lidstaat van kracht is en het aantal Europese octrooien ten aanzien waarvan er bij de nationale gerechten van de bekrachtigende of toetredende lidstaat in de drie jaar voorafgaand aan de bekrachtiging of toetreding vorderingen wegens inbreuk of nietigheid zijn ingesteld.
+The Rules of Procedure may be amended by a decision of the Administrative Committee, on the basis of a proposal from the Court and after consultation with the European Commission. However, such amendments shall not contradict or alter this Agreement or the [Statute](https://wetten.overheid.nl/BWBV0006168).
 
-4. Na afloop van de eerste overgangsperiode van zeven jaar, wanneer het Gerecht geacht wordt zelf in zijn financiering te voorzien, worden de eventueel benodigde bijdragen van de overeenkomstsluitende lidstaten bepaald volgens de verdeelsleutel van de jaartaksen voor Europese octrooien met eenheidswerking die van toepassing is wanneer de bijdrage nodig is.
+3. The Rules of Procedure shall guarantee that the decisions of the Court are of the highest quality and that proceedings are organised in the most efficient and cost effective manner. They shall ensure a fair balance between the legitimate interests of all parties. They shall provide for the required level of discretion of judges without impairing the predictability of proceedings for the parties.
 
-##### Artikel 38. Financiering van het opleidingsprogramma voor rechters
+##### Article 42. Proportionality and fairness
 
-Het opleidingsprogramma voor rechters wordt uit de begroting van het Gerecht gefinancierd.
+1. The Court shall deal with litigation in ways which are proportionate to the importance and complexity thereof.
 
-##### Artikel 39. Financiering van het Centrum
+2. The Court shall ensure that the rules, procedures and remedies provided for in this Agreement and in the [Statute](https://wetten.overheid.nl/BWBV0006168) are used in a fair and equitable manner and do not distort competition.
 
-De operationele kosten van het Centrum worden uit de begroting van het Gerecht gefinancierd.
+##### Article 43. Case management
 
-## DEEL III. ORGANISATORISCHE EN PROCEDURELE BEPALINGEN
+The Court shall actively manage the cases before it in accordance with the Rules of Procedure without impairing the freedom of the parties to determine the subject-matter of, and the supporting evidence for, their case.
 
-### HOOFDSTUK I. ALGEMENE BEPALINGEN
+##### Article 44. Electronic procedures
 
-##### Artikel 40. Statuut
+The Court shall make best use of electronic procedures, such as the electronic filing of submissions of the parties and stating of evidence in electronic form, as well as video conferencing, in accordance with the Rules of Procedure.
 
-1. In het statuut zijn de nadere voorschriften betreffende de organisatie en het functioneren van het Gerecht vastgelegd.
+##### Article 45. Public proceedings
 
-2. Het statuut is als bijlage bij deze overeenkomst gevoegd. Het kan, op voorstel van het Gerecht of op voorstel van een overeenkomstsluitende lidstaat na overleg met het Gerecht, bij besluit van het Bestuurscomité worden gewijzigd. Dergelijke wijzigingen mogen evenwel niet leiden tot strijdigheid met of wijziging van deze overeenkomst.
+The proceedings shall be open to the public unless the Court decides to make them confidential, to the extent necessary, in the interest of one of the parties or other affected persons, or in the general interest of justice or public order.
 
-3. Het statuut waarborgt dat de werkwijze van het Gerecht op de meest efficiënte en kosteneffectieve wijze wordt georganiseerd en dat de billijke toegang tot de rechter verzekerd is.
+##### Article 46. Legal capacity
 
-##### Artikel 41. Procesreglement
+Any natural or legal person, or any body equivalent to a legal person entitled to initiate proceedings in accordance with its national law, shall have the capacity to be a party to the proceedings before the Court.
 
-1. In het procesreglement zijn de nadere voorschriften betreffende de procedure voor het Gerecht vastgelegd. De voorschriften zijn in overeenstemming met deze overeenkomst en met het statuut.
+##### Article 47. Parties
 
-2. Het procesreglement wordt door het Bestuurscomité na breed overleg met de belanghebbenden vastgesteld. Voorafgaand wordt het advies van de Europese Commissie over de verenigbaarheid van het procesreglement met het recht van de Unie ingewonnen.
+1. The patent proprietor shall be entitled to bring actions before the Court.
 
-Het procesreglement kan, op voorstel van het Gerecht en na overleg met de Europese Commissie, bij besluit van het Bestuurscomité worden gewijzigd. Dergelijke wijzigingen mogen evenwel niet leiden tot strijdigheid met of wijziging van deze overeenkomst of het [statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&z=2023-06-26&g=2023-06-26).
+2. Unless the licensing agreement provides otherwise, the holder of an exclusive licence in respect of a patent shall be entitled to bring actions before the Court under the same circumstances as the patent proprietor, provided that the patent proprietor is given prior notice.
 
-3. Het procesreglement waarborgt dat de beslissingen van het Gerecht aan de hoogste kwaliteitsnormen voldoen en dat de procedures zo efficiënt en kosteneffectief mogelijk worden georganiseerd. Het waarborgt een redelijk evenwicht tussen de gerechtvaardigde belangen van alle partijen. Het zorgt ervoor dat rechters beschikken over de nodige discretionaire bevoegdheid zonder dat de voorspelbaarheid van de procedure voor de partijen in het gedrang komt.
+3. The holder of a non-exclusive licence shall not be entitled to bring actions before the Court, unless the patent proprietor is given prior notice and in so far as expressly permitted by the licence agreement.
 
-##### Artikel 42. Evenredigheid en billijkheid
+4. In actions brought by a licence holder, the patent proprietor shall be entitled to join the action before the Court.
 
-1. Het Gerecht behandelt geschillen op een wijze die in verhouding staat tot het belang en de complexiteit ervan.
+5. The validity of a patent cannot be contested in an action for infringement brought by the holder of a licence where the patent proprietor does not take part in the proceedings. The party in an action for infringement wanting to contest the validity of a patent shall have to bring actions against the patent proprietor.
 
-2. Het Gerecht ziet erop toe dat de in deze overeenkomst en in het [statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&z=2023-06-26&g=2023-06-26) opgenomen regels, procedures en rechtsmiddelen rechtvaardig en billijk worden toegepast en geen concurrentieverstoring veroorzaken.
+6. Any other natural or legal person, or any body entitled to bring actions in accordance with its national law, who is concerned by a patent, may bring actions in accordance with the Rules of Procedure.
 
-##### Artikel 43. Zaaksbehandeling
+7. Any natural or legal person, or any body entitled to bring actions in accordance with its national law and who is affected by a decision of the European Patent Office in carrying out the tasks referred to in Article 9 of Regulation (EU) No 1257/2012 is entitled to bring actions under [Article 32(1)(i)](https://wetten.overheid.nl/BWBV0006168).
 
-De aanhangige zaken worden door het Gerecht, overeenkomstig het procesreglement, voortvarend behandeld, zonder dat afbreuk wordt gedaan aan de vrijheid van de partijen zelf het voorwerp van het geding en het bewijsmateriaal te bepalen.
+##### Article 48. Representation
 
-##### Artikel 44. Elektronische procedures
+1. Parties shall be represented by lawyers authorised to practise before a court of a Contracting Member State.
 
-Het Gerecht maakt, overeenkomstig het procesreglement, optimaal gebruik van elektronische procedures, zoals elektronische indiening van processtukken en bewijsmiddelen, en videoconferenties.
+2. Parties may alternatively be represented by European Patent Attorneys who are entitled to act as professional representatives before the European Patent Office pursuant to [Article 134 of the EPC](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=134) and who have appropriate qualifications such as a European Patent Litigation Certificate.
 
-##### Artikel 45. Openbaarheid van procedures
+3. The requirements for qualifications pursuant to paragraph 2 shall be established by the Administrative Committee. A list of European Patent Attorneys entitled to represent parties before the Court shall be kept by the Registrar.
 
-De zittingen zijn openbaar, tenzij het Gerecht besluit, voor zover nodig, een zaak vertrouwelijk te behandelen in het belang van een van de partijen of van andere betrokkenen dan wel in het algemeen belang van behoorlijke rechtspleging of de openbare orde.
+4. Representatives of the parties may be assisted by patent attorneys, who shall be allowed to speak at hearings of the Court in accordance with the Rules of Procedure.
 
-##### Artikel 46. Handelingsbevoegdheid
+5. Representatives of the parties shall enjoy the rights and immunities necessary for the independent exercise of their duties, including the privilege from disclosure in proceedings before the Court in respect of communications between a representative and the party or any other person, under the conditions laid down in the Rules of Procedure, unless such privilege is expressly waived by the party concerned.
 
-Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelijkgestelde entiteit, die op grond van zijn nationale recht gerechtigd is een vordering in te stellen, is bevoegd om voor het Gerecht als partij op te treden.
+6. Representatives of the parties shall be obliged not to misrepresent cases or facts before the Court either knowingly or with good reasons to know.
 
-##### Artikel 47. Partijen
+7. Representation in accordance with paragraphs 1 and 2 of this Article shall not be required in proceedings under [Article 32(1)(i)](https://wetten.overheid.nl/BWBV0006168).
 
-1. De octrooihouder is gerechtigd vorderingen bij het Gerecht in te stellen.
+### CHAPTER II. LANGUAGE OF PROCEEDINGS
 
-2. Tenzij de licentieovereenkomst anders bepaalt, is de houder van een exclusieve licentie voor een octrooi op dezelfde wijze als de octrooihouder gerechtigd een vordering bij het Gerecht in te stellen, mits de octrooihouder hiervan vooraf in kennis is gesteld.
+##### Article 49. Language of proceedings at the Court of First Instance
 
-3. De houder van een niet-exclusieve licentie is niet gerechtigd een vordering bij het Gerecht in te stellen, tenzij de octrooihouder hiervan vooraf in kennis is gesteld en voor zover zulks bij de licentieovereenkomst uitdrukkelijk is toegestaan.
+1. The language of proceedings before any local or regional division shall be an official European Union language which is the official language or one of the official languages of the Contracting Member State hosting the relevant division, or the official language(s) designated by Contracting Member States sharing a regional division.
 
-4. De octrooihouder is gerechtigd zich te voegen in vorderingen die de licentiehouder bij het Gerecht heeft ingesteld.
+2. Notwithstanding paragraph 1, Contracting Member States may designate one or more of the official languages of the European Patent Office as the language of proceedings of their local or regional division.
 
-5. De geldigheid van een octrooi kan niet worden bestreden in een door de licentiehouder aangespannen inbreukprocedure, indien de octrooihouder niet deelneemt aan de procedure. De partij die in een inbreukprocedure de geldigheid van een octrooi wenst te bestrijden, stelt een vordering in tegen de octrooihouder.
+3. The parties may agree on the use of the language in which the patent was granted as the language of proceedings, subject to approval by the competent panel. If the panel does not approve their choice, the parties may request that the case be referred to the central division.
 
-6. Elke andere natuurlijke persoon of rechtspersoon, of elke entiteit met procesbevoegdheid overeenkomstig zijn nationale recht, die door een octrooi wordt geraakt, kan overeenkomstig het procesreglement een vordering instellen.
+4. With the agreement of the parties the competent panel may, on grounds of convenience and fairness, decide on the use of the language in which the patent was granted as the language of proceedings.
 
-7. Elke natuurlijke persoon, rechtspersoon of elke entiteit met procesbevoegdheid overeenkomstig zijn nationale recht, die wordt geraakt door een besluit dat het Europees Octrooibureau bij het uitvoeren van de taken, omschreven in artikel 9 van Verordening (EU) nr. 1257/2012 heeft genomen, is gerechtigd overeenkomstig [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), een vordering in te stellen.
+5. At the request of one of the parties and after having heard the other parties and the competent panel, the President of the Court of First Instance may, on grounds of fairness and taking into account all relevant circumstances, including the position of parties, in particular the position of the defendant, decide on the use of the language in which the patent was granted as language of proceedings. In this case the President of the Court of First Instance shall assess the need for specific translation and interpretation arrangements.
 
-##### Artikel 48. Vertegenwoordiging
+6. The language of proceedings at the central division shall be the language in which the patent concerned was granted.
 
-1. De partijen worden vertegenwoordigd door advocaten die voor een gerecht van een overeenkomstsluitende lidstaat toegelaten zijn.
+##### Article 50. Language of proceedings at the Court of Appeal
 
-2. De partijen kunnen zich ook laten vertegenwoordigen door Europese octrooigemachtigden die krachtens [artikel 134 van het EOV](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=134) bevoegd zijn als erkend gemachtigde voor het Europees Octrooibureau op te treden, en over passende kwalificaties beschikken, zoals een Certificaat inzake procederen over Europese octrooien.
+1. The language of proceedings before the Court of Appeal shall be the language of proceedings before the Court of First Instance.
 
-3. De eisen waaraan kwalificaties in de zin van het tweede lid dienen te voldoen worden door het Bestuurscomité vastgesteld. De griffier houdt een lijst bij van Europese octrooigemachtigden die bevoegd zijn om partijen voor het Gerecht te vertegenwoordigen.
+2. Notwithstanding paragraph 1 the parties may agree on the use of the language in which the patent was granted as the language of proceedings.
 
-4. De vertegenwoordigers van de partijen kunnen zich door octrooigemachtigden laten bijstaan, die overeenkomstig het procesreglement tijdens een hoorzitting van het Gerecht het woord mogen voeren.
+3. In exceptional cases and to the extent deemed appropriate, the Court of Appeal may decide on another official language of a Contracting Member State as the language of proceedings for the whole or part of the proceedings, subject to agreement by the parties.
 
-5. De vertegenwoordigers van de partijen genieten de rechten en immuniteiten die voor een onafhankelijke taakvervulling nodig zijn, zoals de vertrouwelijkheid in procedures voor het Gerecht van de communicatie tussen een vertegenwoordiger en de partij of een andere persoon, zulks onder de in het procesreglement vastgestelde voorwaarden, tenzij de betrokken partij uitdrukkelijk van dat voorrecht afziet.
+##### Article 51. Other language arrangements
 
-6. De vertegenwoordigers van de partijen zijn gehouden het Gerecht geen onjuiste voorstelling van de zaken of de feiten te geven, opzettelijk noch wanneer zij dit behoren te weten.
+1. Any panel of the Court of First Instance and the Court of Appeal may, to the extent deemed appropriate, dispense with translation requirements.
 
-7. In de procedures, bedoeld in [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), is vertegenwoordiging in de zin van het eerste en tweede lid van dit artikel niet vereist.
+2. At the request of one of the parties, and to the extent deemed appropriate, any division of the Court of First Instance and the Court of Appeal shall provide interpretation facilities to assist the parties concerned at oral proceedings.
 
-### HOOFDSTUK II. PROCESTAAL
+3. Notwithstanding [Article 49(6)](https://wetten.overheid.nl/BWBV0006168), in cases where an action for infringement is brought before the central division, a defendant having its residence, principal place of business or place of business in a Member State shall have the right to obtain, upon request, translations of relevant documents in the language of the Member State of residence, principal place of business or, in the absence of residence or principal place of business, place of business, in the following circumstances:
 
-##### Artikel 49. Procestaal bij het Gerecht van Eerste Aanleg
+- a) jurisdiction is entrusted to the central division in accordance with [Article 33(1)](https://wetten.overheid.nl/BWBV0006168) third or fourth subparagraph, and
 
-1. De procestaal van een lokale of regionale divisie is een officiële taal van de Europese Unie, die de officiële taal of een van de officiële talen is van de overeenkomstsluitende lidstaat waar de desbetreffende divisie gevestigd is, of de officiële taal of talen, aangewezen door de overeenkomstsluitende lidstaten die een regionale divisie delen.
+- b) the language of proceedings at the central division is a language which is not an official language of the Member State where the defendant has its residence, principal place of business or, in the absence of residence or principal place of business, place of business, and
 
-2. Onverminderd het eerste lid kunnen de overeenkomstsluitende lidstaten een of meer officiële talen van het Europees Octrooibureau als procestaal bij hun lokale of regionale divisie aanwijzen.
+- c) the defendant does not have proper knowledge of the language of the proceedings.
 
-3. De partijen kunnen overeenkomen de taal waarin het octrooi is verleend als procestaal te gebruiken, mits het bevoegde panel daarmee instemt. Indien het panel niet met hun keuze instemt, kunnen de partijen verzoeken om de zaak naar de centrale divisie te verwijzen.
+### CHAPTER III. PROCEEDINGS BEFORE THE COURT
 
-4. Met goedvinden van de partijen kan het bevoegde panel, om praktische redenen en billijkheidshalve, besluiten de taal waarin het octrooi is verleend als procestaal te gebruiken.
+##### Article 52. Written, interim and oral procedures
 
-5. Op verzoek van een van de partijen en na de andere partijen en het bevoegde panel te hebben gehoord, kan de president van het Gerecht van Eerste Aanleg uit billijkheidsoverwegingen en rekening houdend met alle relevante omstandigheden en met de standpunten van de partijen, in het bijzonder het standpunt van de verweerder, besluiten dat de taal waarin het octrooi is verleend als procestaal wordt gebruikt. In dat geval beoordeelt de president van het Gerecht van Eerste Aanleg of er behoefte is aan specifieke regelingen met betrekking tot vertaling en vertolking.
+1. The proceedings before the Court shall consist of a written, an interim and an oral procedure, in accordance with the Rules of Procedure. All procedures shall be organized in a flexible and balanced manner.
 
-6. De procestaal bij de centrale divisie is de taal waarin het desbetreffende octrooi is verleend.
+2. In the interim procedure, after the written procedure and if appropriate, the judge acting as Rapporteur, subject to a mandate of the full panel, shall be responsible for convening an interim hearing. That judge shall in particular explore with the parties the possibility for a settlement, including through mediation, and/or arbitration, by using the facilities of the Centre referred to in [Article 35](https://wetten.overheid.nl/BWBV0006168).
 
-##### Artikel 50. Procestaal bij het Hof van Beroep
+3. The oral procedure shall give parties the opportunity to explain properly their arguments. The Court may, with the agreement of the parties, dispense with the oral hearing.
 
-1. Bij het Hof van Beroep wordt dezelfde procestaal gebruikt als bij het Gerecht van Eerste Aanleg.
+##### Article 53. Means of evidence
 
-2. Onverminderd het eerste lid kunnen de partijen overeenkomen de taal waarin het octrooi is verleend als procestaal te gebruiken.
+1. In proceedings before the Court, the means of giving or obtaining evidence shall include in particular the following:
 
-3. In uitzonderlijke gevallen en voor zover dat passend wordt geacht, kan het Hof van Beroep besluiten voor de gehele of een deel van de procedure, een andere officiële taal van een overeenkomstsluitende lidstaat als procestaal te gebruiken, mits de partijen daarmee instemmen.
+- a) hearing the parties;
 
-##### Artikel 51. Andere taalregelingen
+- b) requests for information;
 
-1. Elk panel van het Gerecht van Eerste Aanleg en het Hof van Beroep kan, voor zover passend, afzien van het vereiste van vertaling.
+- c) production of documents;
 
-2. Op verzoek van een van de partijen en voor zover passend, wordt door elke divisie van het Gerecht van Eerste Aanleg en door het Hof van Beroep in tolkdiensten voorzien ten behoeve van de betrokken partijen bij de mondelinge behandeling.
+- d) hearing witnesses;
 
-3. Onverminderd [artikel 49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=II&artikel=49&z=2023-06-26&g=2023-06-26), heeft de verweerder die zijn woonplaats, zijn hoofdvestiging of vestiging in een lidstaat heeft, in geval van een inbreukprocedure bij de centrale divisie, het recht op zijn verzoek een vertaling te krijgen van relevante stukken in de taal van de lidstaat van zijn woonplaats of van zijn hoofdvestiging of, bij gebreke daarvan, van zijn vestiging, in gevallen waarin:
+- e) opinions by experts;
 
-- a. de bevoegdheid overeenkomstig [artikel 33, eerste lid, onder 3 of 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=33&z=2023-06-26&g=2023-06-26), bij de centrale divisie ligt, en
+- f) inspection;
 
-- b. de procestaal voor de centrale divisie geen officiële taal is van de lidstaat waar de verweerder zijn woonplaats, zijn hoofdvestiging of, bij gebreke daarvan, zijn vestiging heeft, en
+- g) comparative tests or experiments;
 
-- c. de verweerder onvoldoende kennis heeft van de procestaal.
+- h) sworn statements in writing (affidavits).
 
-### HOOFDSTUK III. PROCEDURE VOOR HET GERECHT
+2. The Rules of Procedure shall govern the procedure for taking such evidence. Questioning of witnesses and experts shall be under the control of the Court and be limited to what is necessary.
 
-##### Artikel 52. Schriftelijke, tussentijdse en mondelinge behandeling
+##### Article 54. Burden of proof
 
-1. De procedure voor het Gerecht omvat een schriftelijke, een tussentijdse en een mondelinge behandeling, overeenkomstig het procesreglement. Alle procedures worden op flexibele en evenwichtige wijze georganiseerd.
+Without prejudice to [Article 24(2) and (3)](https://wetten.overheid.nl/BWBV0006168), the burden of the proof of facts shall be on the party relying on those facts.
 
-2. In de tussentijdse behandeling, die na de schriftelijke behandeling plaatsvindt, roept de rechter die als rapporteur optreedt, binnen een mandaat van het voltallige panel, indien nodig een tussentijdse zitting bijeen. In het bijzonder onderzoekt die rechter samen met de partijen of een schikking kan worden bereikt, ook bij wege van mediation en/of arbitrage, door gebruik te maken van de faciliteiten van het in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VII&artikel=35&z=2023-06-26&g=2023-06-26) bedoelde Centrum.
+##### Article 55. Reversal of burden of proof
 
-3. De mondelinge behandeling biedt de partijen de gelegenheid om naar behoren hun argumenten toe te lichten. Het Gerecht kan met instemming van partijen afzien van de hoorzitting.
+1. Without prejudice to [Article 24(2) and (3)](https://wetten.overheid.nl/BWBV0006168), if the subject-matter of a patent is a process for obtaining a new product, the identical product when produced without the consent of the patent proprietor shall, in the absence of proof to the contrary, be deemed to have been obtained by the patented process.
 
-##### Artikel 53. Bewijsmiddelen
+2. The principle set out in paragraph 1 shall also apply where there is a substantial likelihood that the identical product was made by the patented process and the patent proprietor has been unable, despite reasonable efforts, to determine the process actually used for such identical product.
 
-1. In de procedure voor het Gerecht zijn in het bijzonder de volgende bewijsmiddelen toegelaten:
+3. In the adduction of proof to the contrary, the legitimate interests of the defendant in protecting its manufacturing and trade secrets shall be taken into account.
 
-- a. horen van partijen;
+### CHAPTER IV. POWERS OF THE COURT
 
-- b. inwinnen van inlichtingen;
+##### Article 56. The general powers of the Court
 
-- c. overleggen van stukken;
+1. The Court may impose such measures, procedures and remedies as are laid down in this Agreement and may make its orders subject to conditions, in accordance with the Rules of Procedure.
 
-- d. horen van getuigen;
+2. The Court shall take due account of the interest of the parties and shall, before making an order, give any party the opportunity to be heard, unless this is incompatible with the effective enforcement of such order.
 
-- e. deskundigenrapport;
+##### Article 57. Court experts
 
-- f. bezichtiging;
+1. Without prejudice to the possibility for the parties to produce expert evidence, the Court may at any time appoint court experts in order to provide expertise for specific aspects of the case. The Court shall provide such expert with all information necessary for the provision of the expert advice.
 
-- g. vergelijkende tests of experimenten;
+2. To this end, an indicative list of experts shall be drawn up by the Court in accordance with the Rules of Procedure. That list shall be kept by the Registrar.
 
-- h. onder ede afgelegde schriftelijke verklaringen.
+3. The court experts shall guarantee independence and impartiality. Rules governing conflicts of interest applicable to judges set out in [Article 7 of the Statute](https://wetten.overheid.nl/BWBV0006168) shall by analogy apply to court experts.
 
-2. De procedure voor het verkrijgen van bewijs wordt vastgesteld in het procesreglement. Het horen van getuigen en deskundigen geschiedt onder toezicht van het Gerecht en wordt tot het noodzakelijke beperkt.
+4. Expert advice given to the Court by court experts shall be made available to the parties which shall have the possibility to comment on it.
 
-##### Artikel 54. Bewijslast
+##### Article 58. Protection of confidential information
 
-Onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2023-06-26&g=2023-06-26), rust de bewijslast van de feiten op de partij die zich erop beroept.
+To protect the trade secrets, personal data or other confidential information of a party to the proceedings or of a third party, or to prevent an abuse of evidence, the Court may order that the collection and use of evidence in proceedings before it be restricted or prohibited or that access to such evidence be restricted to specific persons.
 
-##### Artikel 55. Omkering van de bewijslast
+##### Article 59. Order to produce evidence
 
-1. Indien het voorwerp van een octrooi een werkwijze voor de vervaardiging van een nieuw product is, wordt, onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2023-06-26&g=2023-06-26), ieder identiek, zonder toestemming van de octrooihouder vervaardigd product, tot bewijs van het tegendeel, geacht met toepassing van die werkwijze te zijn vervaardigd.
+1. At the request of a party which has presented reasonably available evidence sufficient to support its claims and has, in substantiating those claims, specified evidence which lies in the control of the opposing party or a third party, the Court may order the opposing party or a third party to present such evidence, subject to the protection of confidential information. Such order shall not result in an obligation of self-incrimination.
 
-2. Het in het eerste lid neergelegde beginsel is eveneens van toepassing indien met aanzienlijke waarschijnlijkheid het identieke product volgens de geoctrooieerde werkwijze was vervaardigd en de octrooihouder, ondanks redelijke inspanningen, de voor het identieke product feitelijk toegepaste werkwijze niet heeft kunnen vaststellen.
+2. At the request of a party the Court may order, under the same conditions as specified in paragraph 1, the communication of banking, financial or commercial documents under the control of the opposing party, subject to the protection of confidential information.
 
-3. Bij de bewijsvoering van het tegendeel wordt rekening gehouden met het legitieme belang dat de verweerder heeft bij bescherming van zijn fabricage- en bedrijfsgeheimen.
+##### Article 60. Order to preserve evidence and to inspect premises
 
-### HOOFDSTUK IV. BEVOEGDHEDEN VAN HET GERECHT
+1. At the request of the applicant which has presented reasonably available evidence to support the claim that the patent has been infringed or is about to be infringed the Court may, even before the commencement of proceedings on the merits of the case, order prompt and effective provisional measures to preserve relevant evidence in respect of the alleged infringement, subject to the protection of confidential information.
 
-##### Artikel 56. De algemene bevoegdheden van het Gerecht
+2. Such measures may include the detailed description, with or without the taking of samples, or the physical seizure of the infringing products, and, in appropriate cases, the materials and implements used in the production and/or distribution of those products and the documents relating thereto.
 
-1. Het Gerecht kan de in deze overeenkomst vervatte maatregelen, procedures en rechtsmiddelen gelasten en hieraan voorwaarden verbinden overeenkomstig het procesreglement.
+3. The Court may, even before the commencement of proceedings on the merits of the case, at the request of the applicant who has presented evidence to support the claim that the patent has been infringed or is about to be infringed, order the inspection of premises. Such inspection of premises shall be conducted by a person appointed by the Court in accordance with the Rules of Procedure.
 
-2. Het Gerecht houdt naar behoren rekening met de belangen van de partijen en stelt alvorens een uitspraak te doen elke partij in de gelegenheid te worden gehoord, tenzij dit onverenigbaar is met de effectieve tenuitvoerlegging van de uitspraak.
+4. At the inspection of the premises the applicant shall not be present itself but may be represented by an independent professional practitioner whose name has to be specified in the Court’s order.
 
-##### Artikel 57. Gerechtsdeskundigen
+5. Measures shall be ordered, if necessary without the other party having been heard, in particular where any delay is likely to cause irreparable harm to the proprietor of the patent, or where there is a demonstrable risk of evidence being destroyed.
 
-1. Onverminderd de mogelijkheid voor de partijen om deskundigenbewijs te overleggen, kan het Gerecht te allen tijde gerechtsdeskundigen aanwijzen die adviseren over bepaalde aspecten van de zaak. Het Gerecht verstrekt de deskundige alle gegevens die hij nodig heeft voor het geven van zijn advies.
+6. Where measures to preserve evidence or inspect premises are ordered without the other party in the case having been heard, the parties affected shall be given notice, without delay and at the latest immediately after the execution of the measures. A review, including a right to be heard, shall take place upon request of the parties affected with a view to deciding, within a reasonable period after the notification of the measures, whether the measures are to be modified, revoked or confirmed.
 
-2. Hiertoe stelt het Gerecht overeenkomstig het procesreglement een indicatieve lijst van deskundigen samen. Deze lijst wordt door de griffier bijgehouden.
+7. The measures to preserve evidence may be subject to the lodging by the applicant of adequate security or an equivalent assurance intended to ensure compensation for any prejudice suffered by the defendant as provided for in paragraph 9.
 
-3. De gerechtsdeskundigen waarborgen hun onafhankelijkheid en onpartijdigheid. De bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=7&z=2023-06-26&g=2023-06-26) van het statuut op de rechters toepasselijke regels inzake belangenconflicten zijn van overeenkomstige toepassing op gerechtsdeskundigen.
+8. The Court shall ensure that the measures to preserve evidence are revoked or otherwise cease to have effect, at the defendant’s request, without prejudice to the damages which may be claimed, if the applicant does not bring, within a period not exceeding 31 calendar days or 20 working days, whichever is the longer, action leading to a decision on the merits of the case before the Court.
 
-4. Het advies van de gerechtsdeskundigen aan het Gerecht wordt aan de partijen beschikbaar gesteld, die in de gelegenheid worden gesteld hun zienswijze kenbaar te maken.
+9. Where the measures to preserve evidence are revoked, or where they lapse due to any act or omission by the applicant, or where it is subsequently found that there has been no infringement or threat of infringement of the patent, the Court may order the applicant, at the defendant’s request, to provide the defendant with appropriate compensation for any damage suffered as a result of those measures.
 
-##### Artikel 58. Bescherming van vertrouwelijke informatie
+##### Article 61. Freezing orders
 
-Ter bescherming van bedrijfsgeheimen, persoonsgegevens of andere vertrouwelijke informatie van een procespartij of een derde, of ter voorkoming van misbruik van bewijs, kan het Gerecht gelasten dat bewijs in de loop van de procedure niet of slechts in beperkte mate wordt verzameld en gebruikt of slechts voor bepaalde personen toegankelijk wordt gemaakt.
+1. At the request of the applicant which has presented reasonably available evidence to support the claim that the patent has been infringed or is about to be infringed the Court may, even before the commencement of proceedings on the merits of the case, order a party not to remove from its jurisdiction any assets located therein, or not to deal in any assets, whether located within its jurisdiction or not.
 
-##### Artikel 59. Bevel tot behoud van bewijsmateriaal
+2. [Article 60(5) to (9)](https://wetten.overheid.nl/BWBV0006168) shall apply by analogy to the measures referred to in this Article.
 
-1. Op verzoek van een partij die redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd, dat voldoet ter ondersteuning van haar vorderingen, en, ter onderbouwing van haar vorderingen, bewijsmateriaal heeft aangeduid dat zich binnen de macht van de wederpartij of een derde bevindt, kan het Gerecht de wederpartij of een derde gelasten dat bewijsmateriaal over te leggen, mits de bescherming van vertrouwelijke informatie is verzekerd. Een dergelijk bevel mag niet tot een verplichting tot zelfincriminatie leiden.
+##### Article 62. Provisional and protective measures
 
-2. Op verzoek van een partij kan het Gerecht, eveneens onder de in het eerste lid vermelde voorwaarden, de overlegging gelasten van bancaire, financiële of handelsdocumenten die zich binnen de macht van de wederpartij bevinden, mits de bescherming van vertrouwelijke informatie is verzekerd.
+1. The Court may, by way of order, grant injunctions against an alleged infringer or against an intermediary whose services are used by the alleged infringer, intended to prevent any imminent infringement, to prohibit, on a provisional basis and subject, where appropriate, to a recurring penalty payment, the continuation of the alleged infringement or to make such continuation subject to the lodging of guarantees intended to ensure the compensation of the right holder.
 
-##### Artikel 60. Bevel tot behoud van bewijsmateriaal en tot bezichtiging
+2. The Court shall have the discretion to weigh up the interests of the parties and in particular to take into account the potential harm for either of the parties resulting from the granting or the refusal of the injunction.
 
-1. Op verzoek van de eiser, die redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd ter ondersteuning van zijn stelling dat inbreuk op het octrooi is gemaakt of dreigt te worden gemaakt, kan het Gerecht, nog voordat de inhoudelijke behandeling van de zaak aanvangt, onmiddellijke en effectieve voorlopige maatregelen gelasten tot behoud van relevant bewijsmateriaal in verband met de vermeende inbreuk, mits de bescherming van vertrouwelijke informatie is verzekerd.
+3. The Court may also order the seizure or delivery up of the products suspected of infringing a patent so as to prevent their entry into, or movement, within the channels of commerce. If the applicant demonstrates circumstances likely to endanger the recovery of damages, the Court may order the precautionary seizure of the movable and immovable property of the alleged infringer, including the blocking of the bank accounts and of other assets of the alleged infringer.
 
-2. Deze maatregelen kunnen erin bestaan dat de inbreukmakende producten en, in voorkomend geval, de bij de productie en/of distributie van deze producten gebruikte materialen en werktuigen en de desbetreffende documenten, gedetailleerd worden beschreven, met of zonder monsterneming, of dat er materieel beslag op wordt gelegd.
+4. The Court may, in respect of the measures referred to in paragraphs 1 and 3, require the applicant to provide any reasonable evidence in order to satisfy itself with a sufficient degree of certainty that the applicant is the right holder and that the applicant’s right is being infringed, or that such infringement is imminent.
 
-3. Het Gerecht kan, nog voordat de inhoudelijke behandeling is aangevangen, op verzoek van de eiser die bewijsmateriaal heeft overgelegd ter ondersteuning van zijn stelling dat inbreuk op het octrooi is gemaakt of dreigt te worden gemaakt, een bezichtiging gelasten. De bezichtiging wordt door een persoon verricht, die door het Gerecht overeenkomstig het procesreglement is aangewezen.
+5. [Article 60(5) to (9)](https://wetten.overheid.nl/BWBV0006168) shall apply by analogy to the measures referred to in this Article.
 
-4. Bij de bezichtiging is de eiser zelf niet aanwezig, maar kan zich niettemin door een onafhankelijke deskundige, die in het gerechtelijk bevel staat vermeld, laten vertegenwoordigen.
+##### Article 63. Permanent injunctions
 
-5. Met name indien waarschijnlijk is dat uitstel onherstelbare schade voor de octrooihouder kan veroorzaken, of als er een aantoonbaar risico van vernietiging van bewijsmateriaal bestaat, worden maatregelen gelast, zo nodig zonder dat de wederpartij is gehoord.
+1. Where a decision is taken finding an infringement of a patent, the Court may grant an injunction against the infringer aimed at prohibiting the continuation of the infringement. The Court may also grant such injunction against an intermediary whose services are being used by a third party to infringe a patent.
 
-6. Indien maatregelen ter bescherming van bewijsmateriaal of een bezichtiging zijn gelast zonder dat de andere partij is gehoord, worden betrokken partijen onverwijld, en uiterlijk onmiddellijk nadat de maatregelen zijn uitgevoerd, daarvan in kennis gesteld. Op verzoek van betrokken partijen vindt een heroverweging plaats, waarbij zij het recht hebben te worden gehoord, teneinde te beslissen, binnen een redelijke termijn na de mededeling van de maatregelen, of de maatregelen gewijzigd, herroepen of bevestigd moeten worden.
+2. Where appropriate, non-compliance with the injunction referred to in paragraph 1 shall be subject to a recurring penalty payment payable to the Court.
 
-7. Aan de maatregelen ter bescherming van bewijsmateriaal kan de voorwaarde worden verbonden dat de eiser een passende zekerheid of een gelijkwaardige garantie stelt ter vergoeding van de door de verweerder geleden schade overeenkomstig het negende lid.
+##### Article 64. Corrective measures in infringement proceedings
 
-8. Het Gerecht ziet erop toe dat de maatregelen tot bewaring van bewijsmateriaal op verzoek van de verweerder worden herroepen of anderszins ophouden van kracht te zijn, onverminderd de schadevergoedingen die kunnen worden geëist, indien de eiser niet binnen een termijn van ten hoogste eenendertig kalenderdagen of twintig werkdagen – naargelang van welke termijn het langste is – een vordering heeft ingesteld die leidt tot een inhoudelijke beslissing van het Gerecht.
+1. Without prejudice to any damages due to the injured party by reason of the infringement, and without compensation of any sort, the Court may order, at the request of the applicant, that appropriate measures be taken with regard to products found to be infringing a patent and, in appropriate cases, with regard to materials and implements principally used in the creation or manufacture of those products.
 
-9. Indien de maatregelen ter bewaring van bewijsmateriaal worden herroepen, of wegens handelen of nalaten van de eiser vervallen, of indien later wordt vastgesteld dat geen inbreuk op het octrooi is gemaakt of dreigde te worden gemaakt, kan het Gerecht, op verzoek van de verweerder, de eiser gelasten de verweerder een passende vergoeding van de ten gevolge van deze maatregelen ontstane schade te betalen.
+2. Such measures shall include:
 
-##### Artikel 61. Bevel tot bevriezing
+- a) a declaration of infringement;
 
-1. Op verzoek van een eiser die redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd ter ondersteuning van de stelling dat er inbreuk op het octrooi is gemaakt of dreigt te worden gemaakt, kan het Gerecht, nog voordat de inhoudelijke behandeling is aangevangen, een partij verbieden vermogensbestanddelen uit zijn rechtsgebied af te voeren, of te handelen in vermogensbestanddelen, ongeacht of die zich al dan niet in zijn rechtsgebied bevinden.
+- b) recalling the products from the channels of commerce;
 
-2. Het vijfde tot en met negende lid van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=60&z=2023-06-26&g=2023-06-26) zijn van overeenkomstige toepassing op de in dit artikel bedoelde maatregelen.
+- c) depriving the product of its infringing property;
 
-##### Artikel 62. Voorlopige en conservatoire maatregelen
+- d) definitively removing the products from the channels of commerce; or
 
-1. Het Gerecht kan bij wege van een bevel, een verbod opleggen aan een vermeend inbreukmaker of een tussenpersoon van wiens diensten de inbreukmaker gebruik maakt, teneinde een dreigende inbreuk te voorkomen, voorlopig en waar passend op straffe van een dwangsom, de voortzetting van de vermeende inbreuk te verbieden of aan de voortzetting de voorwaarde te verbinden dat zekerheid wordt gesteld als waarborg voor de schadeloosstelling van de rechthebbende.
+- e) the destruction of the products and/or of the materials and implements concerned.
 
-2. Het Gerecht maakt een eigen afweging van de belangen van de partijen, en houdt in het bijzonder rekening met de mogelijke schade die elk van hen kan lijden door het opleggen of weigeren van het verbod.
+3. The Court shall order that those measures be carried out at the expense of the infringer, unless particular reasons are invoked for not doing so.
 
-3. Het Gerecht kan tevens de beslaglegging of afgifte gelasten van de producten waarmee vermeende inbreuk wordt gemaakt op het octrooi, om te vermijden dat zij in de handel komen of blijven. Indien de eiser aantoont dat er omstandigheden zijn waardoor schade mogelijk niet kan worden verhaald, kan het Gerecht conservatoir beslag op roerende en onroerende goederen van de vermeende inbreukmaker gelasten, alsmede bankrekeningen en andere activa van de vermeende inbreukmaker blokkeren.
+4. In considering a request for corrective measures pursuant to this Article, the Court shall take into account the need for proportionality between the seriousness of the infringement and the remedies to be ordered, the willingness of the infringer to convert the materials into a non-infringing state, as well as the interests of third parties.
 
-4. Het Gerecht kan, met betrekking tot de in het eerste en derde lid bedoelde maatregelen, van de eiser redelijkerwijs beschikbaar bewijs verlangen waaruit met voldoende zekerheid is op te maken dat de eiser de rechthebbende is en dat inbreuk op zijn recht wordt gemaakt of dreigt te worden gemaakt.
+##### Article 65. Decision on the validity of a patent
 
-5. Het [vijfde tot en met negende lid van artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=60&z=2023-06-26&g=2023-06-26) zijn van overeenkomstige toepassing op de in dit artikel bedoelde maatregelen.
+1. The Court shall decide on the validity of a patent on the basis of an action for revocation or a counterclaim for revocation.
 
-##### Artikel 63. Permanent verbod
+2. The Court may revoke a patent, either entirely or partly, only on the grounds referred to in [Articles 138(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=138) and [139(2) of the EPC](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=139).
 
-1. Indien inbreuk op een octrooi wordt vastgesteld, kan het Gerecht de inbreukmaker een verbod tot voortzetting van de inbreuk opleggen. Het Gerecht kan een dergelijk verbod tevens opleggen aan een tussenpersoon die door een derde is ingezet voor het plegen van de inbreuk.
+3. Without prejudice to [Article 138(3) of the EPC](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=138), if the grounds for revocation affect the patent only in part, the patent shall be limited by a corresponding amendment of the claims and revoked in part.
 
-2. In voorkomend geval wordt op niet-naleving van het in het eerste lid bedoelde bevel een dwangsom gesteld, die aan het Gerecht dient te worden betaald.
+4. To the extent that a patent has been revoked it shall be deemed not to have had, from the outset, the effects specified in [Articles 64](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=64) and [67 of the EPC](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=67).
 
-##### Artikel 64. Corrigerende maatregelen in een inbreukprocedure
+5. Where the Court, in a final decision, revokes a patent, either entirely or partly, it shall send a copy of the decision to the European Patent Office and, with respect to a European patent, to the national patent office of any Contracting Member State concerned.
 
-1. Onverminderd eventuele schadevergoeding die wegens de inbreuk aan de benadeelde partij is verschuldigd en zonder enige vorm van compensatie, kan het Gerecht, op verzoek van de eiser passende maatregelen gelasten met betrekking tot producten waarvan is vastgesteld dat daarmee inbreuk wordt gemaakt op een octrooi en, in voorkomende gevallen, met betrekking tot materialen en gereedschappen die hoofdzakelijk worden gebruikt bij het vervaardigen of fabriceren van die producten.
+##### Article 66. Powers of the Court concerning decisions of the European Patent Office
 
-2. Deze maatregelen kunnen omvatten:
+1. In actions brought under [Article 32(1)(i)](https://wetten.overheid.nl/BWBV0006168), the Court may exercise any power entrusted on the European Patent Office in accordance with Article 9 of Regulation (EU) No 1257/2012, including the rectification of the Register for unitary patent protection.
 
-- a. een verklaring van inbreuk;
+2. In actions brought under [Article 32(1)(i)](https://wetten.overheid.nl/BWBV0006168) the parties shall, by way of derogation from [Article 69](https://wetten.overheid.nl/BWBV0006168), bear their own costs.
 
-- b. het laten terugroepen van de producten uit de handel;
+##### Article 67. Power to order the communication of information
 
-- c. het product laten ontdoen van de eigenschap die de inbreuk vormt;
+1. The Court may, in response to a justified and proportionate request of the applicant and in accordance with the Rules of Procedure, order an infringer to inform the applicant of:
 
-- d. het definitief uit de handel laten nemen van de producten; of
+- a) the origin and distribution channels of the infringing products or processes;
 
-- e. het laten vernietigen van de producten en/of de desbetreffende materialen en gereedschappen.
+- b) the quantities produced, manufactured, delivered, received or ordered, as well as the price obtained for the infringing products; and
 
-3. Het Gerecht beveelt dat deze maatregelen op kosten van de inbreukmaker worden uitgevoerd, tenzij een beroep wordt gedaan op bijzondere redenen voor het tegendeel.
+- c) the identity of any third person involved in the production or distribution of the infringing products or in the use of the infringing process.
 
-4. Bij de beoordeling van een verzoek om corrigerende maatregelen op grond van dit artikel, houdt het Gerecht rekening met het vereiste dat de maatregelen in verhouding dienen te staan tot de ernst van de inbreuk, met de bereidheid van de inbreukmaker het materiaal in een toestand te brengen waarin het geen inbreuk vormt, en met de belangen van derden.
+2. The Court may, in accordance with the Rules of Procedure, also order any third party who:
 
-##### Artikel 65. Beslissing inzake de geldigheid van een octrooi
+- a) was found in the possession of the infringing products on a commercial scale or to be using an infringing process on a commercial scale;
 
-1. Het Gerecht beslist over de geldigheid van een octrooi op grond van een vordering tot nietigverklaring of een reconventionele vordering tot nietigverklaring.
+- b) was found to be providing on a commercial scale services used in infringing activities; or
 
-2. Het Gerecht kan een octrooi uitsluitend op de in [artikel 138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=138), en [artikel 139, tweede lid, van het EOV](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=139) genoemde gronden geheel of gedeeltelijk nietig verklaren.
+- c) was indicated by the person referred to in points (a) or (b) as being involved in the production, manufacture or distribution of the infringing products or processes or in the provision of the services,
 
-3. Onverminderd [artikel 138, derde lid, van het EOV](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=138) wordt het octrooi, indien de nietigheidsgronden het octrooi slechts deels raken, door middel van een overeenkomstige wijziging van de conclusies beperkt en gedeeltelijk nietig verklaard.
+to provide the applicant with the information referred to in paragraph 1.
 
-4. Voor zover een octrooi nietig is verklaard, wordt het geacht van aanvang af niet de in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=64) en [67 van het EOV](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=67) bedoelde werking te hebben gehad.
+##### Article 68. Award of damages
 
-5. Indien het Gerecht bij een eindbeslissing een octrooi geheel of gedeeltelijk nietig verklaart, zendt het een afschrift van de beslissing naar het Europees Octrooibureau en, in geval van een Europees octrooi, naar het nationaal octrooibureau van elke desbetreffende overeenkomstsluitende lidstaat.
+1. The Court shall, at the request of the injured party, order the infringer who knowingly, or with reasonable grounds to know, engaged in a patent infringing activity, to pay the injured party damages appropriate to the harm actually suffered by that party as a result of the infringement.
 
-##### Artikel 66. Bevoegdheden van het Gerecht inzake beslissingen van het Europees Octrooibureau
+2. The injured party shall, to the extent possible, be placed in the position it would have been in if no infringement had taken place. The infringer shall not benefit from the infringement. However, damages shall not be punitive.
 
-1. In geval van vorderingen op grond van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), kan het Gerecht elke bevoegdheid uitoefenen die aan het Europees Octrooibureau overeenkomstig artikel 9 van Verordening (EU) nr. 1257/2012 is toegekend, met inbegrip van rectificatie van het register voor eenheidsoctrooibescherming.
+3. When the Court sets the damages:
 
-2. In afwijking van het bepaalde in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=69&z=2023-06-26&g=2023-06-26) draagt elke partij bij een vordering op grond van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), haar eigen kosten.
+- a) it shall take into account all appropriate aspects, such as the negative economic consequences, including lost profits, which the injured party has suffered, any unfair profits made by the infringer and, in appropriate cases, elements other than economic factors, such as the moral prejudice caused to the injured party by the infringement; or
 
-##### Artikel 67. Bevoegdheid de verstrekking van informatie te gelasten
+- b) as an alternative to point (a), it may, in appropriate cases, set the damages as a lump sum on the basis of elements such as at least the amount of the royalties or fees which would have been due if the infringer had requested authorisation to use the patent in question.
 
-1. Het Gerecht kan, naar aanleiding van een gerechtvaardigd en proportioneel verzoek van de eiser, overeenkomstig het procesreglement, een inbreukmaker gelasten de eiser informatie te verstrekken over:
+4. Where the infringer did not knowingly, or with reasonable grounds to know, engage in the infringing activity, the Court may order the recovery of profits or the payment of compensation.
 
-- a. de oorsprong en de distributiekanalen van de inbreukmakende producten of werkwijzen;
+##### Article 69. Legal costs
 
-- b. de geproduceerde, vervaardigde, geleverde, ontvangen of bestelde hoeveelheden, alsmede de prijs die is betaald voor inbreukmakende producten; en
+1. Reasonable and proportionate legal costs and other expenses incurred by the successful party shall, as a general rule, be borne by the unsuccessful party, unless equity requires otherwise, up to a ceiling set in accordance with the Rules of Procedure.
 
-- c. de identiteit van derden die zijn betrokken bij de productie of distributie van de inbreukmakende producten of bij de toepassing van de inbreukmakende werkwijze.
+2. Where a party succeeds only in part or in exceptional circumstances, the Court may order that costs be apportioned equitably or that the parties bear their own costs.
 
-2. Het Gerecht kan, overeenkomstig het procesreglement, tevens elke derde die:
+3. A party should bear any unnecessary costs it has caused the Court or another party.
 
-- a. inbreukmakende producten op commerciële schaal in zijn bezit had, of een inbreukmakende werkwijze op commerciële schaal heeft toegepast;
+4. At the request of the defendant, the Court may order the applicant to provide adequate security for the legal costs and other expenses incurred by the defendant which the applicant may be liable to bear, in particular in the cases referred to in Articles 59 to 62.
 
-- b. op commerciële schaal diensten blijkt te verlenen die worden gebruikt bij inbreukmakende activiteiten; of
+##### Article 70. Court fees
 
-- c. op aanwijzing van de onder a) of b) bedoelde persoon betrokken blijkt te zijn bij de productie, vervaardiging of distributie van de inbreukmakende producten of werkwijzen, dan wel bij het verstrekken van de diensten;
+1. Parties to proceedings before the Court shall pay court fees.
 
-gelasten de eiser de in het eerste lid bedoelde informatie te verstrekken.
+2. Court fees shall be paid in advance, unless the Rules of Procedure provide otherwise. Any party which has not paid a prescribed court fee may be excluded from further participation in the proceedings.
 
-##### Artikel 68. Toekenning van schadevergoeding
+##### Article 71. Legal aid
 
-1. Op verzoek van de benadeelde partij gelast het Gerecht degene die wist of redelijkerwijze had behoren te weten, dat hij inbreuk maakte op een octrooi, de benadeelde partij een passende schadevergoeding te betalen voor de schade die deze als gevolg van de inbreuk werkelijk heeft geleden.
+1. A party who is a natural person and who is unable to meet the costs of the proceedings, either wholly or in part, may at any time apply for legal aid. The conditions for granting of legal aid shall be laid down in the Rules of Procedure.
 
-2. De benadeelde partij wordt, voor zover mogelijk, hersteld in de toestand waarin zij zich zou bevinden indien de inbreuk niet zou zijn gepleegd. De inbreukmaker mag geen voordeel behalen uit de inbreuk. De schadevergoeding heeft evenwel geen strafrechtelijk karakter.
+2. The Court shall decide whether legal aid should be granted in full or in part, or whether it should be refused, in accordance with the Rules of Procedure.
 
-3. Bij het vaststellen van de schadevergoeding:
+3. On a proposal from the Court, the Administrative Committee shall set the level of legal aid and the rules on bearing the costs thereof.
 
-- a. neemt het Gerecht alle ter zake dienende aspecten in aanmerking, zoals de negatieve economische gevolgen, waaronder winstderving, die de benadeelde partij heeft ondervonden, de onrechtmatige winst die de inbreukmaker heeft genoten en, in passende gevallen, andere elementen dan economische factoren, zoals de immateriële schade die de benadeelde partij door de inbreuk heeft geleden; of
+##### Article 72. Period of limitation
 
-- b. stelt het Gerecht bij wijze van alternatief voor het bepaalde onder a), in passende gevallen, de schadevergoeding vast als een forfaitair bedrag, op basis van elementen zoals ten minste het bedrag aan royalty’s of vergoedingen dat verschuldigd zou zijn geweest indien de inbreukmaker toestemming had gevraagd om het desbetreffende octrooi te gebruiken.
+Without prejudice to [Article 24(2) and (3)](https://wetten.overheid.nl/BWBV0006168), actions relating to all forms of financial compensation may not be brought more than five years after the date on which the applicant became aware, or had reasonable grounds to become aware, of the last fact justifying the action.
 
-4. Indien de inbreukmaker zich er niet van bewust was, noch dat redelijkerwijs kon zijn, dat hij de inbreuk pleegde, kan het Gerecht gelasten dat de winst wordt afgedragen of dat een schadevergoeding wordt betaald.
+### CHAPTER V. APPEALS
 
-##### Artikel 69. Proceskosten
+##### Article 73. Appeal
 
-1. De proceskosten en andere kosten van de in het gelijk gestelde partij worden, als algemene regel, in een redelijke en evenredige mate, tot een overeenkomstig het procesreglement bepaald maximum, gedragen door de in het ongelijk gestelde partij, tenzij de billijkheid zich daartegen verzet.
+1. An appeal against a decision of the Court of First Instance may be brought before the Court of Appeal by any party which has been unsuccessful, in whole or in part, in its submissions, within two months of the date of the notification of the decision.
 
-2. Indien een partij slechts gedeeltelijk in het gelijk wordt gesteld of in uitzonderlijke omstandigheden, kan het Gerecht gelasten dat de kosten naar billijkheid worden verdeeld of elke partij haar eigen kosten draagt.
+2. An appeal against an order of the Court of First Instance may be brought before the Court of Appeal by any party which has been unsuccessful, in whole or in part, in its submissions:
 
-3. Een partij draagt de onnodige kosten die zij voor het Gerecht of een andere partij heeft veroorzaakt.
+- a) for the orders referred to in [Articles 49(5)](https://wetten.overheid.nl/BWBV0006168), 59 to 62 and [67](https://wetten.overheid.nl/BWBV0006168) within 15 calendar days of the notification of the order to the applicant;
 
-4. Op verzoek van de verweerder kan het Gerecht, met name in de gevallen bedoeld in de artikelen 59 tot en met 62, de eiser gelasten voldoende zekerheid te stellen voor de proceskosten en andere kosten van de verweerder die de eiser mogelijkerwijs moet dragen.
+- b) for other orders than the orders referred to in point (a):
 
-##### Artikel 70. Griffierechten
+   - (i) together with the appeal against the decision, or
 
-1. De procespartijen dienen griffierechten te betalen.
+   - (ii) where the Court grants leave to appeal, within 15 days of the notification of the Court’s decision to that effect.
 
-2. Tenzij in het procesreglement anders is bepaald, worden de griffierechten vooraf betaald. Een partij die de voorgeschreven griffierechten niet heeft betaald, kan worden uitgesloten van verdere deelname aan de procedure.
+3. The appeal against a decision or an order of the Court of First Instance may be based on points of law and matters of fact.
 
-##### Artikel 71. Rechtsbijstand
+4. New facts and new evidence may only be introduced in accordance with the Rules of Procedure and where the submission thereof by the party concerned could not reasonably have been expected during proceedings before the Court of First Instance.
 
-1. Een partij die een natuurlijk persoon is en niet of slechts ten dele tot betaling van de proceskosten in staat is, kan te allen tijde om rechtsbijstand verzoeken. De voorwaarden voor de toekenning van rechtsbijstand worden vastgelegd in het procesreglement.
+##### Article 74. Effects of an appeal
 
-2. Het Gerecht besluit, overeenkomstig het procesreglement, of de rechtsbijstand volledig of gedeeltelijk dient te worden toegekend, dan wel dient te worden afgewezen.
+1. An appeal shall not have suspensive effect unless the Court of Appeal decides otherwise at the motivated request of one of the parties. The Rules of Procedure shall guarantee that such a decision is taken without delay.
 
-3. Het Bestuurscomité bepaalt, op voorstel van het Gerecht, de hoogte van de rechtsbijstand en de regels voor het dragen van de kosten ervan.
+2. Notwithstanding paragraph 1, an appeal against a decision on actions or counterclaims for revocation and on actions based on [Article 32(1)(i)](https://wetten.overheid.nl/BWBV0006168) shall always have suspensive effect.
 
-##### Artikel 72. Verjaring
+3. An appeal against an order referred to in [Articles 49(5)](https://wetten.overheid.nl/BWBV0006168), 59 to 62 or [67](https://wetten.overheid.nl/BWBV0006168) shall not prevent the continuation of the main proceedings . However, the Court of First Instance shall not give a decision in the main proceedings before the decision of the Court of Appeal concerning an appealed order has been given.
 
-Onverminderd het [tweede en derde lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2023-06-26&g=2023-06-26) kunnen vorderingen met betrekking tot alle vormen van financiële schadeloosstelling niet later dan vijf jaar na de datum waarop de eiser kennis heeft genomen, of redelijkerwijs had kunnen nemen, van het laatste feit dat de vordering rechtvaardigt, worden ingesteld.
+##### Article 75. Decision on appeal and referral back
 
-### HOOFDSTUK V. BEROEP
+1. If an appeal pursuant to [Article 73](https://wetten.overheid.nl/BWBV0006168) is well-founded, the Court of Appeal shall revoke the decision of the Court of First Instance and give a final decision. The Court of Appeal may in exceptional cases and in accordance with the Rules of Procedure refer the case back to the Court of First Instance for decision.
 
-##### Artikel 73. Beroep
+2. Where a case is referred back to the Court of First Instance pursuant to paragraph 1, the Court of First Instance shall be bound by the decision of the Court of Appeal on points of law.
 
-1. Tegen een beslissing van het Gerecht van Eerste Aanleg kan, binnen twee maanden na de datum van de kennisgeving ervan, beroep bij het Hof van Beroep worden ingesteld door elke partij die geheel of gedeeltelijk in het ongelijk is gesteld.
+### CHAPTER VI. DECISIONS
 
-2. Tegen een bevel van het Gerecht van Eerste Aanleg kan beroep bij het Hof van Beroep worden ingesteld door elke partij die geheel of gedeeltelijk in het ongelijk is gesteld:
+##### Article 76. Basis for decisions and right to be heard
 
-- a. voor de bevelen, bedoeld in [artikel 49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=II&artikel=49&z=2023-06-26&g=2023-06-26), de artikelen 59 tot en met 62 en [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=67&z=2023-06-26&g=2023-06-26), binnen vijftien kalenderdagen na kennisgeving van het bevel aan de eiser;
+1. The Court shall decide in accordance with the requests submitted by the parties and shall not award more than is requested.
 
-- b. voor andere dan de onder a) genoemde bevelen:
+2. Decisions on the merits may only be based on grounds, facts and evidence, which were submitted by the parties or introduced into the procedure by an order of the Court and on which the parties have had an opportunity to present their comments.
 
-- i. samen met het beroep tegen de beslissing, of
+3. The Court shall evaluate evidence freely and independently.
 
-- ii. indien het Gerecht beroep toestaat, binnen vijftien dagen na kennisgeving van de daartoe strekkende beslissing van het Gerecht.
+##### Article 77. Formal requirements
 
-3. Het beroep tegen een beslissing of een bevel van het Gerecht van Eerste Aanleg kan op juridische en op feitelijke gronden worden gebaseerd.
+1. Decisions and orders of the Court shall be reasoned and shall be given in writing in accordance with the Rules of Procedure.
 
-4. Nieuwe feiten en nieuw bewijsmateriaal kunnen uitsluitend overeenkomstig het procesreglement worden aangevoerd, en uitsluitend indien de betrokken partij dat redelijkerwijs niet tijdens de procedure voor het Gerecht van Eerste Aanleg heeft kunnen doen.
+2. Decisions and orders of the Court shall be delivered in the language of proceedings.
 
-##### Artikel 74. Gevolgen van het beroep
+##### Article 78. Decisions of the Court and dissenting opinions
 
-1. Het beroep heeft geen schorsende werking, tenzij het Hof van Beroep op gemotiveerd verzoek van een van de partijen anders beslist. Het procesreglement waarborgt dat onverwijld een beslissing wordt genomen.
+1. Decisions and orders of the Court shall be taken by a majority of the panel, in accordance with the [Statute](https://wetten.overheid.nl/BWBV0006168). In case of equal votes, the vote of the presiding judge shall prevail.
 
-2. Onverminderd het eerste lid heeft een beroep tegen een beslissing op een vordering of een reconventionele vordering tot nietigverklaring en inzake een vordering krachtens [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-26&g=2023-06-26), altijd schorsende werking.
+2. In exceptional circumstances, any judge of the panel may express a dissenting opinion separately from the decision of the Court.
 
-3. Een beroep tegen een bevel in de zin van [artikel 49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=II&artikel=49&z=2023-06-26&g=2023-06-26), de artikelen 59 tot en met 62 of [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=67&z=2023-06-26&g=2023-06-26) verhindert niet de inhoudelijke behandeling. Het Gerecht van Eerste Aanleg geeft evenwel geen eindbeslissing voordat het Hof van Beroep zich over het beroep tegen het bestreden bevel heeft uitgelaten.
+##### Article 79. Settlement
 
-##### Artikel 75. Beslissing op beroep en terugverwijzing
+The parties may, at any time in the course of proceedings, conclude their case by way of settlement, which shall be confirmed by a decision of the Court. A patent may not be revoked or limited by way of settlement.
 
-1. Indien een beroep overeenkomstig [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=V&artikel=73&z=2023-06-26&g=2023-06-26) gegrond is, vernietigt het Hof van Beroep de beslissing van het Gerecht van Eerste Aanleg en geeft het een eindbeslissing. In uitzonderlijke gevallen kan het Hof van Beroep, overeenkomstig het procesreglement, de zaak ter afdoening naar het Gerecht van Eerste Aanleg terugverwijzen.
+##### Article 80. Publication of decisions
 
-2. Bij terugverwijzing uit hoofde van het eerste lid is het Gerecht van Eerste Aanleg gebonden aan de beslissing van het Hof van Beroep op de rechtsvragen.
+The Court may order, at the request of the applicant and at the expense of the infringer, appropriate measures for the dissemination of information concerning the Court’s decision, including displaying the decision and publishing it in full or in part in public media.
 
-### HOOFDSTUK VI. BESLISSINGEN
+##### Article 81. Rehearing
 
-##### Artikel 76. Grondslag voor beslissingen en recht te worden gehoord
+1. A request for rehearing after a final decision of the Court may exceptionally be granted by the Court of Appeal in the following circumstances:
 
-1. Het Gerecht beslist in overeenstemming met de door de partijen ingestelde vorderingen en wijst niet meer toe dan hetgeen is gevorderd.
+- a) on discovery of a fact by the party requesting the rehearing, which is of such a nature as to be a decisive factor and which, when the decision was given, was unknown to the party requesting the rehearing; such request may only be granted on the basis of an act which was held, by a final decision of a national court, to constitute a criminal offence; or
 
-2. Beslissingen ten principale kunnen uitsluitend stoelen op gronden, feiten en bewijzen die de partijen hebben aangevoerd of die op bevel van het Gerecht in de procedure zijn ingebracht en waarover de partijen de gelegenheid hadden om hun zienswijzen kenbaar te maken.
+- b) in the event of a fundamental procedural defect, in particular when a defendant who did not appear before the Court was not served with the document initiating the proceedings or an equivalent document in sufficient time and in such a way as to enable him to arrange for the defence.
 
-3. Het Gerecht beoordeelt de bewijzen vrij en onafhankelijk.
+2. A request for a rehearing shall be filed within 10 years of the date of the decision but not later than two months from the date of the discovery of the new fact or of the procedural defect. Such request shall not have suspensive effect unless the Court of Appeal decides otherwise.
 
-##### Artikel 77. Vormvoorschriften
+3. If the request for a rehearing is well-founded, the Court of Appeal shall set aside, in whole or in part, the decision under review and re-open the proceedings for a new trial and decision, in accordance with the Rules of Procedure.
 
-1. De beslissingen en bevelen van het Gerecht zijn overeenkomstig het procesreglement met redenen omkleed en op schrift gesteld.
+4. Persons using patents which are the subject-matter of a decision under review and who act in good faith should be allowed to continue using such patents.
 
-2. De beslissingen en bevelen van het Gerecht worden in de procestaal gegeven.
+##### Article 82. Enforcement of decisions and orders
 
-##### Artikel 78. Beslissingen van het Gerecht en afwijkende meningen
+1. Decisions and orders of the Court shall be enforceable in any Contracting Member State. An order for the enforcement of a decision shall be appended to the decision by the Court.
 
-1. De beslissingen en bevelen van het Gerecht worden bij meerderheid van stemmen van het panel genomen, overeenkomstig het statuut. Indien de stemmen staken, geeft de stem van de voorzitter de doorslag.
+2. Where appropriate, the enforcement of a decision may be subject to the provision of security or an equivalent assurance to ensure compensation for any damage suffered, in particular in the case of injunctions.
 
-2. In uitzonderlijke omstandigheden kan elke rechter van het panel een afwijkende mening uitspreken gescheiden van de beslissing van het Gerecht.
+3. Without prejudice to this Agreement and the [Statute](https://wetten.overheid.nl/BWBV0006168), enforcement procedures shall be governed by the law of the Contracting Member State where the enforcement takes place. Any decision of the Court shall be enforced under the same conditions as a decision given in the Contracting Member State where the enforcement takes place.
 
-##### Artikel 79. Schikking
+4. If a party does not comply with the terms of an order of the Court, that party may be sanctioned with a recurring penalty payment payable to the Court. The individual penalty shall be proportionate to the importance of the order to be enforced and shall be without prejudice to the party’s right to claim damages or security.
 
-De partijen kunnen gedurende het geding op ieder moment hun zaak beëindigen door een schikking te treffen, die wordt bevestigd bij een beslissing van het Gerecht. Een octrooi kan bij wege van een schikking niet nietig worden verklaard of worden beperkt.
+## PART IV. TRANSITIONAL PROVISIONS
 
-##### Artikel 80. Openbaarmaking van beslissingen
+##### Article 83. Transitional regime
 
-Het Gerecht kan, op verzoek van de eiser en voor rekening van de inbreukmaker, gelasten dat passende maatregelen tot verspreiding van informatie over de beslissing van het Gerecht worden getroffen, met inbegrip van openbaarmaking en volledige of gedeeltelijke publicatie van de beslissing in de media.
+1. During a transitional period of seven years after the date of entry into force of this Agreement, an action for infringement or for revocation of a European patent or an action for infringement or for declaration of invalidity of a supplementary protection certificate issued for a product protected by a European patent may still be brought before national courts or other competent national authorities.
 
-##### Artikel 81. Herziening
+2. An action pending before a national court at the end of the transitional period shall not be affected by the expiry of this period.
 
-1. Het Hof van Beroep kan, nadat een eindbeslissing van het Gerecht is gegeven, bij uitzondering een verzoek om herziening inwilligen, indien:
+3. Unless an action has already been brought before the Court, a proprietor of or an applicant for a European patent granted or applied for prior to the end of the transitional period under paragraph 1 and, where applicable, paragraph 5, as well as a holder of a supplementary protection certificate issued for a product protected by a European patent, shall have the possibility to opt out from the exclusive competence of the Court. To this end they shall notify their opt-out to the Registry by the latest one month before expiry of the transitional period. The opt-out shall take effect upon its entry into the register.
 
-- a. de partij die verzoekt om herziening een feit heeft ontdekt, welke van zodanige aard is dat zij van beslissende invloed zou zijn geweest en welke haar op het tijdstip van de beslissing onbekend was; het verzoek wordt alleen ingewilligd in geval van een handeling die door een nationale rechter bij een eindbeslissing strafbaar is bevonden; of
+4. Unless an action has already been brought before a national court, proprietors of or applicants for European patents or holders of supplementary protection certificates issued for a product protected by a European patent who made use of the opt-out in accordance with paragraph 3 shall be entitled to withdraw their opt-out at any moment. In this event they shall notify the Registry accordingly. The withdrawal of the opt-out shall take effect upon its entry into the register.
 
-- b. in geval van een fundamentele procedurele tekortkoming, in het bijzonder als het stuk dat de procedure inleidt of een gelijkwaardig stuk niet zo tijdig en op zodanige wijze dat hij zich kan verdedigen, aan de verweerder tegen wie verstek werd verleend, is betekend of ter kennis is gebracht.
+5. Five years after the entry into force of this Agreement, the Administrative Committee shall carry out a broad consultation with the users of the patent system and a survey on the number of European patents and supplementary protection certificates issued for products protected by European patents with respect to which actions for infringement or for revocation or declaration of invalidity are still brought before the national courts pursuant to paragraph 1, the reasons for this and the implications thereof. On the basis of this consultation and an opinion of the Court, the Administrative Committee may decide to prolong the transitional period by up to seven years.
 
-2. Het verzoek om herziening wordt binnen tien jaar na de datum van de beslissing ingediend, doch uiterlijk twee maanden na de datum waarop het nieuwe feit of de procedurele tekortkoming ontdekt is. Het verzoek heeft geen opschortende werking, tenzij het Hof van Beroep anders beslist.
+## PART V. FINAL PROVISIONS
 
-3. Indien het verzoek om herziening gegrond is, vernietigt het Hof van Beroep de in het geding zijnde beslissing geheel of gedeeltelijk en heropent de zaak voor een nieuwe behandeling en een nieuwe beslissing, overeenkomstig het procesreglement.
+##### Article 84. Signature, ratification and accession
 
-4. Personen die te goeder trouw octrooien gebruiken die het voorwerp zijn van een beslissing die wordt herzien, mogen die octrooien blijven gebruiken.
+1. This Agreement shall be open for signature by any Member State on 19 February 2013.
 
-##### Artikel 82. Tenuitvoerlegging van beslissingen en bevelen
+2. This Agreement shall be subject to ratification in accordance with the respective constitutional requirements of the Member States. Instruments of ratification shall be deposited with the General Secretariat of the Council of the European Union (hereinafter referred to as “the depositary”).
 
-1. De beslissingen en bevelen van het Gerecht zijn in elke overeenkomstsluitende lidstaat uitvoerbaar. Een bevel tot tenuitvoerlegging wordt aan de beslissing van het Gerecht gehecht.
+3. Each Member State having signed this Agreement shall notify the European Commission of its ratification of the Agreement at the time of the deposit of its ratification instrument pursuant to Article 18(3) of Regulation (EU) No 1257/2012.
 
-2. De tenuitvoerlegging van een beslissing kan in voorkomend geval afhankelijk worden gemaakt van het stellen van zekerheid of een gelijkwaardige garantie ter verzekering van vergoeding van geleden schade, met name in het geval van een gerechtelijk bevel.
+4. This Agreement shall be open to accession by any Member State. Instruments of accession shall be deposited with the depositary.
 
-3. Onverminderd deze overeenkomst en het statuut, geschiedt de tenuitvoerlegging volgens het recht van de overeenkomstsluitende lidstaat waar de tenuitvoerlegging plaatsvindt. Elke beslissing van het Gerecht wordt onder dezelfde voorwaarden ten uitvoer gelegd als een beslissing gedaan in de overeenkomstsluitende lidstaat waar de tenuitvoerlegging plaatsvindt.
+##### Article 85. Functions of the depositary
 
-4. Indien een partij voorwaarden van een bevel van het Gerecht niet opvolgt, kan haar een dwangsom worden opgelegd, die aan het Gerecht dient te worden betaald. De dwangsom dient in verhouding te staan tot het belang van het ten uitvoer te leggen bevel en laat het recht van de partij schadevergoeding of zekerheid te vorderen onverlet.
+1. The depositary shall draw up certified true copies of this Agreement and shall transmit them to the governments of all signatory or acceding Member States.
 
-## DEEL IV. OVERGANGSBEPALINGEN
+2. The depositary shall notify the governments of the signatory or acceding Member States of:
 
-##### Artikel 83. Overgangsregeling
+- a) any signature;
 
-1. Gedurende een overgangsperiode van zeven jaar na de datum van inwerkingtreding van deze overeenkomst, kan een vordering inzake inbreuk op, of tot nietigverklaring van een Europees octrooi, dan wel een vordering inzake inbreuk op, of tot nietigverklaring van een aanvullend beschermingscertificaat dat is afgegeven voor een door een Europees octrooi beschermd product, nog bij nationale gerechten of andere bevoegde nationale autoriteiten worden ingesteld.
+- b) the deposit of any instrument of ratification or accession;
 
-2. Vorderingen die aan het einde van de overgangsperiode voor een nationale rechter aanhangig zijn, blijven door het verstrijken van de overgangsperiode onverlet.
+- c) the date of entry into force of this Agreement.
 
-3. Tenzij reeds een vordering bij het Gerecht is ingesteld, kan de houder of de aanvrager van een Europees octrooi dat vóór het einde van de in het eerste lid of, in voorkomend geval, het vijfde lid bedoelde overgangsperiode is verleend of aangevraagd, alsmede de houder van een aanvullend beschermingscertificaat dat is afgegeven voor een door een Europees octrooi beschermd product, zich aan de exclusieve bevoegdheid van het Gerecht onttrekken. Hij stuurt te dien einde, uiterlijk één maand voor het verstrijken van de overgangsperiode, een daartoe strekkende kennisgeving aan de Griffie. De kennisgeving is van kracht vanaf de datum van inschrijving in het register.
+3. The depositary shall register this Agreement with the Secretariat of the United Nations.
 
-4. Tenzij een vordering reeds bij de nationale rechter is ingesteld, kan de houder of de aanvrager van een Europees octrooi, dan wel de houder van een aanvullend beschermingscertificaat dat voor een door een Europees octrooi beschermd product is afgegeven, die gebruik heeft gemaakt van de in het derde lid bedoelde mogelijkheid, zijn onttrekking aan de exclusieve bevoegdheid te allen tijde ongedaan maken. In dat geval stelt hij de Griffie daarvan in kennis. De ongedaanmaking van de onttrekking werkt vanaf de inschrijving van de desbetreffende mededeling in het register.
+##### Article 86. Duration of the Agreement
 
-5. Vijf jaar na de inwerkingtreding van deze overeenkomst wordt door het Bestuurscomité breed overleg gevoerd met de gebruikers van het octrooisysteem en wordt nagegaan hoeveel Europese octrooien en aanvullende beschermingscertificaten die voor een door een Europees octrooi beschermd product zijn afgegeven nog overeenkomstig het eerste lid het voorwerp zijn van vorderingen wegens inbreuk of tot nietigverklaring bij een nationaal gerecht en wat de redenen hiervoor zijn en de consequenties. Op basis van het overleg en op advies van het Gerecht kan het Bestuurscomité besluiten de overgangsperiode met ten hoogste zeven jaar te verlengen.
+This Agreement shall be of unlimited duration.
 
-## DEEL V. SLOTBEPALINGEN
+##### Article 87. Revision
 
-##### Artikel 84. Ondertekening, bekrachtiging en toetreding
+1. Either seven years after the entry into force of this Agreement or once 2000 infringement cases have been decided by the Court, whichever is the later point in time, and if necessary at regular intervals thereafter, a broad consultation with the users of the patent system shall be carried out by the Administrative Committee on the functioning, efficiency and cost-effectiveness of the Court and on the trust and confidence of users of the patent system in the quality of the Court’s decisions. On the basis of this consultation and an opinion of the Court, the Administrative Committee may decide to revise this Agreement with a view to improving the functioning of the Court.
 
-1. Deze overeenkomst staat open voor ondertekening door alle lidstaten op 19 februari 2013.
+2. The Administrative Committee may amend this Agreement to bring it into line with an international treaty relating to patents or Union law.
 
-2. Deze overeenkomst wordt bekrachtigd overeenkomstig de onderscheiden grondwettelijke vereisten van de lidstaten. De akten van bekrachtiging worden nedergelegd bij het secretariaat-generaal van de Raad van de Europese Unie (hierna genoemd „de depositaris”).
+3. A decision of the Administrative Committee taken on the basis of paragraphs 1 and 2 shall not take effect if a Contracting Member State declares within twelve months of the date of the decision, on the basis of its relevant internal decision-making procedures, that it does not wish to be bound by the decision. In this case, a Review Conference of the Contracting Member States shall be convened.
 
-3. Elke lidstaat die deze overeenkomst heeft ondertekend stelt op het tijdstip van de nederlegging van zijn akte van bekrachtiging de Europese Commissie in kennis van deze bekrachtiging, overeenkomstig artikel 18, derde lid, van Verordening (EU) nr. 1257/2012.
+##### Article 88. Languages of the Agreement
 
-4. Deze overeenkomst staat open voor toetreding door alle lidstaten. De akten van toetreding worden bij de depositaris nedergelegd.
+1. This Agreement is drawn up in a single original in the English, French and German languages, each text being equally authentic.
 
-##### Artikel 85. Taken van de depositaris
+2. The texts of this Agreement drawn up in official languages of Contracting Member States other than those specified in paragraph 1 shall, if they have been approved by the Administrative Committee, be considered as official texts. In the event of divergences between the various texts, the texts referred to in paragraph 1 shall prevail.
 
-1. De depositaris vervaardigt voor eensluidend gewaarmerkte afschriften van deze overeenkomst en doet deze aan de regeringen van alle ondertekenende of toetredende lidstaten toekomen.
+##### Article 89. Entry into force
 
-2. De depositaris stelt de regeringen van de ondertekenende en de toetredende lidstaten in kennis van:
+1. This Agreement shall enter into force on 1 January 2014 or on the first day of the fourth month after the deposit of the thirteenth instrument of ratification or accession in accordance with [Article 84](https://wetten.overheid.nl/BWBV0006168), including the three Member States in which the highest number of European patents had effect in the year preceding the year in which the signature of the Agreement takes place or on the first day of the fourth month after the date of entry into force of the amendments to Regulation (EU) No 1215/2012 concerning its relationship with this Agreement, whichever is the latest.
 
-- a. elke ondertekening;
-
-- b. de nederlegging van elke akte van bekrachtiging of toetreding;
-
-- c. de datum van inwerkingtreding van deze overeenkomst.
-
-3. De depositaris laat deze overeenkomst registreren bij het secretariaat van de Verenigde Naties.
-
-##### Artikel 86. Duur van de overeenkomst
-
-Deze overeenkomst is voor onbeperkte tijd gesloten.
-
-##### Artikel 87. Herziening
-
-1. Zeven jaar na de inwerkingtreding van deze overeenkomst of zodra het Gerecht 2000 inbreukzaken heeft behandeld, al naargelang welke datum het laatst valt, en zo nodig vervolgens met regelmatige tussenpozen, wordt door het Bestuurscomité een uitgebreide raadpleging van de gebruikers van het octrooisysteem gehouden over het functioneren, de doeltreffendheid en de kosteneffectiviteit van het Gerecht en over het vertrouwen van de gebruikers van het octrooisysteem in de kwaliteit van de beslissingen van het Gerecht. Op basis van deze raadpleging en een advies van het Gerecht kan het Bestuurscomité besluiten deze overeenkomst te herzien teneinde het functioneren van het Gerecht te verbeteren.
-
-2. Het Bestuurscomité kan deze overeenkomst wijzigen om haar in overeenstemming te brengen met een internationaal verdrag betreffende octrooien of met het recht van de Unie.
-
-3. Een op grond van het eerste en tweede lid genomen besluit van het Bestuurscomité treedt niet in werking indien een overeenkomstsluitende lidstaat binnen twaalf maanden na de datum van het besluit volgens de toepasselijke interne besluitvormingsprocedures verklaart niet door het besluit gebonden te willen zijn. In dat geval wordt een herzieningsconferentie van de overeenkomstsluitende lidstaten bijeengeroepen.
-
-##### Artikel 88. Talen van de overeenkomst
-
-1. Deze overeenkomst wordt in één oorspronkelijk exemplaar in de Engelse, de Franse en de Duitse taal opgesteld, waarbij alle teksten gelijkelijk authentiek zijn.
-
-2. De teksten van deze overeenkomst in andere officiële talen van andere overeenkomstsluitende lidstaten dan genoemd in het eerste lid, worden, indien zij door het Bestuurscomité zijn goedgekeurd, beschouwd als officiële teksten. Bij verschillen tussen de diverse teksten zijn de in het eerste lid bedoelde teksten doorslaggevend.
-
-##### Artikel 89. Inwerkingtreding
-
-1. Deze overeenkomst treedt in werking op 1 januari 2014 of op de eerste dag van de vierde maand na de nederlegging van de dertiende akte van bekrachtiging of toetreding overeenkomstig [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=V&artikel=84&z=2023-06-26&g=2023-06-26), met inbegrip van de akten van de drie overeenkomstsluitende lidstaten waar het grootste aantal Europese octrooien van kracht was in het jaar voorafgaand aan het jaar waarin de overeenkomst wordt ondertekend, of op de eerste dag van de vierde maand na de datum van inwerkingtreding van de wijzigingen van Verordening (EU) nr. 1215/2012 inzake de verhouding van de verordening tot deze overeenkomst, al naargelang welke datum het laatst valt.
-
-2. Elke bekrachtiging of toetreding na de inwerkingtreding van deze overeenkomst wordt van kracht op de eerste dag van de vierde maand na de nederlegging van de akte van bekrachtiging of toetreding.
-
-##### Artikel 1. Toepassingsgebied van het statuut
-
-Dit statuut bevat de institutionele en financiële regelingen voor het bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=I&artikel=1&z=2023-06-26&g=2023-06-26) van de overeenkomst ingestelde Eengemaakt Octrooigerecht.
-
-### HOOFDSTUK 1. RECHTERS
-
-##### Artikel 2. Selectiecriteria voor rechters
-
-1. Een ieder die onderdaan is van een overeenkomstsluitende lidstaat en aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=15&z=2023-06-26&g=2023-06-26) van de overeenkomst en de in dit statuut vervatte selectiecriteria voldoet, kan tot rechter worden benoemd.
-
-2. De rechters hebben een goede kennis van ten minste één officiële taal van het Europees Octrooibureau.
-
-3. De ervaring op het gebied van beslechting van octrooigeschillen, die voor de benoeming overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=15&z=2023-06-26&g=2023-06-26), van de overeenkomst dient te worden aangetoond, kan worden verkregen door opleiding in de zin van [artikel 11, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=11&z=2023-06-26&g=2023-06-26), van dit statuut.
-
-##### Artikel 3. Benoeming van rechters
-
-1. De rechters worden benoemd volgens de procedure vervat in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=16&z=2023-06-26&g=2023-06-26) van de overeenkomst.
-
-2. De vacatures worden openbaar gemaakt onder vermelding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=2&z=2023-06-26&g=2023-06-26) vervatte toepasselijke selectiecriteria. Het Raadgevend Comité verstrekt advies over de geschiktheid van de kandidaten voor het vervullen van de taken van rechters van het Gerecht. Aan het advies wordt een lijst met de meest geschikte kandidaten gehecht. De lijst bevat ten minste tweemaal zoveel kandidaten als vacatures. Het Raadgevend Comité kan zo nodig, voordat er een besluit over de benoeming wordt genomen, adviseren een kandidaat een opleiding op het gebied van beslechting van octrooigeschillen overeenkomstig [artikel 11, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=11&z=2023-06-26&g=2023-06-26), te laten volgen.
-
-3. Bij de benoeming van de rechters ziet het Bestuurscomité erop toe dat de te benoemen kandidaat over de beste juridische en technische deskundigheid beschikt alsmede op een uit geografisch oogpunt zo evenwichtig mogelijke samenstelling van het Gerecht uit onderdanen van de overeenkomstsluitende lidstaten.
-
-4. Het Bestuurscomité benoemt zoveel rechters als nodig is om het Gerecht goed te laten functioneren. In eerste instantie benoemt het Bestuurscomité het aantal rechters dat nodig is om ten minste één panel in elke divisie van het Gerecht van Eerste Aanleg en ten minste twee panels in het Hof van Beroep op te richten.
-
-5. In het besluit van het Bestuurscomité tot benoeming van de juridisch geschoolde voltijd- of deeltijdrechters en technisch geschoolde voltijdrechters wordt vermeld bij welke instantie van het Gerecht en/of divisie van het Gerecht van Eerste Aanleg elke rechter wordt benoemd en voor welk gebied van de technologie de benoeming van de technisch geschoolde rechter geldt.
-
-6. De technisch geschoolde deeltijdrechters worden benoemd tot rechter bij het Gerecht en op basis van hun specifieke kwalificaties en ervaring opgenomen in de pool van rechters. Met de benoeming van deze rechters wordt gewaarborgd dat alle gebieden van de technologie worden bestreken.
-
-##### Artikel 4. Ambtstermijn van de rechters
-
-1. De rechters worden benoemd voor een ambtstermijn van zes jaar, die aanvangt op de in het benoemingsbesluit bepaalde datum. Zij kunnen worden herbenoemd.
-
-2. Indien geen datum is bepaald, vangt de termijn aan op de datum van het benoemingsbesluit.
-
-##### Artikel 5. Benoeming van de leden van het Raadgevend Comité
-
-1. Elke overeenkomstsluitende lidstaat draagt een lid van het Raadgevend Comité voor dat voldoet aan de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=II&artikel=14&z=2023-06-26&g=2023-06-26), van de overeenkomst genoemde vereisten.
-
-2. De leden van het Raadgevend Comité worden met algehele instemming benoemd door het Bestuurscomité.
-
-##### Artikel 6. Eed
-
-Alvorens hun ambt te aanvaarden, verklaren de rechters tijdens een openbare zitting onder ede dat zij hun taak onpartijdig en gewetensvol zullen uitoefenen en de geheimhouding van de beraadslagingen van het Gerecht zullen waarborgen.
-
-##### Artikel 7. Onpartijdigheid
-
-1. De rechters ondertekenen meteen na de eedaflegging een verklaring waarin zij plechtig beloven gedurende hun ambtstermijn en na afloop daarvan de uit hun taak voortvloeiende verplichtingen na te komen en in het bijzonder zich integer te gedragen en discretie te zullen betrachten bij het aanvaarden van bepaalde functies of voordelen na afloop van hun ambtstermijn.
-
-2. De rechters mogen niet deelnemen aan de behandeling van een zaak waarin zij:
-
-- a. hebben deelgenomen als adviseur;
-
-- b. partij zijn geweest of voor een van de partijen zijn opgetreden;
-
-- c. verzocht zijn zich uit te spreken als lid van een hof, rechtbank, raad van beroep, arbitrage- of mediationpanel, onderzoekscommissie of in elke andere hoedanigheid;
-
-- d. een persoonlijk of financieel belang hebben bij de zaak of banden hebben met een van de partijen; of
-
-- e. familiebanden hebben met een van de partijen of vertegenwoordigers van de partijen.
-
-3. Een rechter die om een bijzondere reden meent niet te kunnen deelnemen aan de behandeling of het onderzoek van een bepaalde zaak, deelt dit mee aan de president van het Hof van Beroep of, in het geval hij rechter is bij het Gerecht van Eerste Aanleg, aan de president van het Gerecht van Eerste Aanleg. Indien de president van het Hof van Beroep of, in het geval van een rechter van het Gerecht van Eerste Aanleg, de president van het Gerecht van Eerste Aanleg van oordeel is dat een rechter om een bijzondere reden in een bepaalde zaak niet dient deel te nemen aan de beraadslaging of de beslissing, stelt de president van het Hof van Beroep of de president van het Gerecht van Eerste Aanleg deze rechter schriftelijk dienovereenkomstig in kennis.
-
-4. Elke procespartij kan een rechter wraken op een van de in het tweede lid genoemde gronden of indien er gegronde redenen zijn om aan te nemen dat de rechter partijdig is.
-
-5. Alle geschillen die voortkomen uit de toepassing van dit artikel worden beslecht bij besluit van het presidium, overeenkomstig het procesreglement. De betrokken rechter wordt gehoord, maar neemt niet deel aan de beraadslagingen.
-
-##### Artikel 8. Immuniteit van de rechters
-
-1. De rechters worden gevrijwaard van rechtsvervolging. Na de nederlegging van hun ambt blijven zij immuniteit genieten met betrekking tot handelingen die zij in hun officiële hoedanigheid hebben verricht.
-
-2. Het presidium kan de immuniteit opheffen.
-
-3. Ingeval tegen een rechter wiens immuniteit is opgeheven strafvervolging wordt ingesteld, kan die rechter in elk van de overeenkomstsluitende lidstaten slechts worden berecht door de instantie die bevoegd is tot berechting van de leden van het hoogste nationale rechtscollege.
-
-4. Het Protocol betreffende de voorrechten en immuniteiten van de Europese Unie is op de rechters van het Gerecht van toepassing, onverminderd de in dit statuut vervatte bepalingen betreffende de vrijwaring van rechters van rechtsvervolging.
-
-##### Artikel 9. Beëindiging van de ambtsuitoefening
-
-1. Behalve door vervanging na het verstrijken van de ambtstermijn in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=4&z=2023-06-26&g=2023-06-26), of door overlijden, eindigt de ambtsuitoefening van een rechter wanneer hij ontslag neemt.
-
-2. Een rechter die ontslag neemt, richt daartoe een brief aan de president van het Hof van Beroep of, in het geval van rechters van het Gerecht van Eerste Aanleg, aan de president van het Gerecht van Eerste Aanleg, ter doorzending aan de voorzitter van het Bestuurscomité.
-
-3. Behoudens in gevallen waarin [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=10&z=2023-06-26&g=2023-06-26) van toepassing is, blijft elke rechter in functie totdat zijn opvolger aantreedt.
-
-4. Elke vacature wordt vervuld door benoeming van een nieuwe rechter voor de resterende ambtstermijn van zijn voorganger.
-
-##### Artikel 10. Ontheffing uit het ambt
-
-1. Een rechter kan slechts uit zijn ambt worden ontheven of het recht op andere voordelen worden ontzegd, indien het presidium van oordeel is dat deze rechter niet langer aan de gestelde voorwaarden of aan de uit zijn ambt voortvloeiende verplichtingen voldoet. De betrokken rechter wordt gehoord, maar neemt geen deel aan de beraadslagingen.
-
-2. De griffier van het Gerecht doet deze beslissing toekomen aan de voorzitter van het Bestuurscomité.
-
-3. In geval van een beslissing waarbij een rechter van zijn ambt wordt ontheven, ontstaat bij die kennisgeving een vacature.
-
-##### Artikel 11. Opleiding
-
-1. Binnen het kader van het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=19&z=2023-06-26&g=2023-06-26) van de overeenkomst bedoelde opleidingsprogramma, wordt een passende, periodieke opleiding van rechters verzorgd. Het presidium stelt de opleidingsvoorschriften vast waarmee de uitvoering en de algehele samenhang van het opleidingsprogramma worden gewaarborgd.
-
-2. Het opleidingsprogramma voorziet in een platform voor de uitwisseling van kennis en in een discussieforum, met name door:
-
-- a. het organiseren van cursussen, conferenties, seminars, workshops en symposia;
-
-- b. samenwerking met internationale organisaties en opleidingsinstituten op het gebied van de bescherming van de intellectuele eigendom; en
-
-- c. het bevorderen en ondersteunen van verdere beroepsopleiding.
-
-3. Een jaarlijks werkprogramma en opleidingsrichtlijnen worden opgesteld, bestaande uit een jaarlijks opleidingsprogramma voor elke rechter, waarmee wordt voorzien in zijn volgens de opleidingsvoorschriften vastgestelde opleidingsbehoeften.
-
-4. Voorts voorziet het opleidingsprogramma in:
-
-- a. passende opleiding van kandidaat-rechters en pas benoemde rechters van het Gerecht;
-
-- b. ondersteunende projecten ter vereenvoudiging van de samenwerking tussen partijvertegenwoordigers, octrooigemachtigden en het Gerecht.
-
-##### Artikel 12. Bezoldiging
-
-Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van Beroep, de president van het Gerecht van Eerste Aanleg, de rechters, de griffier, de plaatsvervangend griffier en het personeel.
-
-### HOOFDSTUK II. ORGANISATORISCHE BEPALINGEN
-
-### AFDELING 1. GEMEENSCHAPPELIJKE BEPALINGEN
-
-##### Artikel 13. De president van het Hof van Beroep
-
-1. De president van het Hof van Beroep wordt door alle rechters van het Hof van Beroep uit hun midden gekozen voor een ambtstermijn van drie jaar. De president van het Hof van Beroep is tweemaal herkiesbaar.
-
-2. De verkiezing van de president van het Hof van Beroep geschiedt bij geheime stemming. Verkozen wordt de rechter die de absolute meerderheid van stemmen heeft verkregen. Indien geen van de rechters de absolute meerderheid heeft verkregen, wordt tot een tweede stemming overgegaan en is de rechter die de meeste stemmen krijgt verkozen.
-
-3. De president van het Hof van Beroep leidt de rechterlijke werkzaamheden en de administratie van het Hof van Beroep en zit de beraadslagingen van het Hof van Beroep in voltallige zitting voor.
-
-4. Indien het ambt van president van het Hof van Beroep vóór het verstrijken van de ambtstermijn vacant wordt, wordt voor het resterende gedeelte van de termijn een opvolger gekozen.
-
-##### Artikel 14. De president van het Gerecht van Eerste Aanleg
-
-1. De president van het Gerecht van Eerste Aanleg wordt door alle voltijdrechters van het Gerecht van Eerste Aanleg uit hun midden gekozen voor een ambtstermijn van drie jaar. De president van het Gerecht van Eerste Aanleg is tweemaal herkiesbaar.
-
-2. De eerste president van het Gerecht van Eerste Aanleg is een onderdaan van de overeenkomstsluitende lidstaat waar de centrale divisie zetelt.
-
-3. De president van het Gerecht van Eerste Aanleg leidt de rechterlijke werkzaamheden en de administratie van het Gerecht van Eerste Aanleg.
-
-4. [Artikel 13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=1&artikel=13&z=2023-06-26&g=2023-06-26), zijn van overeenkomstige toepassing op de president van het Gerecht van Eerste Aanleg.
-
-##### Artikel 15. Presidium
-
-1. Het presidium bestaat uit de president van het Hof van Beroep, die als voorzitter optreedt, de president van het Gerecht van Eerste Aanleg, twee rechters van het Hof van Beroep die uit hun midden zijn gekozen, drie voltijdrechters van het Gerecht van Eerste Aanleg die uit hun midden zijn gekozen, en de griffier als niet-stemgerechtigd lid.
-
-2. Het presidium verricht zijn taken in overeenstemming met dit statuut. Onverminderd zijn eigen verantwoordelijkheden kan het bepaalde taken delegeren aan een van zijn leden.
-
-3. Het presidium is belast met het beheer van het Gerecht en, in het bijzonder:
-
-- a. stelt het voorstellen op tot wijziging van het procesreglement overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=41&z=2023-06-26&g=2023-06-26) van de overeenkomst en voorstellen betreffende het financieel reglement van het Gerecht;
-
-- b. stelt het de jaarlijkse begroting, de jaarrekeningen en het jaarverslag van het Gerecht op en legt deze voor aan bij het Begrotingscomité;
-
-- c. stelt het de richtlijnen voor het opleidingsprogramma voor rechters vast en ziet het toe op de uitvoering ervan;
-
-- d. neemt het besluiten omtrent de benoeming en de ontzetting uit het ambt van griffier en van plaatsvervangend griffier;
-
-- e. stelt het de regels voor de griffie, met inbegrip van de subgriffies vast;
-
-- f. brengt het advies uit overeenkomstig [artikel 83, vijfde lid,](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-26&g=2023-06-26) van de overeenkomst.
-
-4. De in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=7&z=2023-06-26&g=2023-06-26), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=8&z=2023-06-26&g=2023-06-26), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=10&z=2023-06-26&g=2023-06-26) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=4&artikel=22&z=2023-06-26&g=2023-06-26) genoemde besluiten van het presidium worden genomen zonder dat de griffier eraan deelneemt.
-
-5. Het presidium kan slechts geldig beslissen, indien alle leden aanwezig zijn of naar behoren zijn vertegenwoordigd. Er wordt beslist bij meerderheid van stemmen.
-
-##### Artikel 16. Personeel
-
-1. De ambtenaren en andere personeelsleden van het Gerecht hebben tot taak de president van het Hof van Beroep, de president van het Gerecht van Eerste Aanleg, de rechters en de griffier bij te staan. Zij leggen verantwoording af aan de griffier, onder het gezag van de president van het Hof van Beroep en de president van het Gerecht van Eerste Aanleg.
-
-2. Het Bestuurscomité stelt het reglement voor de ambtenaren en andere personeelsleden van het Gerecht vast.
-
-##### Artikel 17. Reces
-
-1. De president van het Hof van Beroep stelt na overleg met het presidium de duur van de recessen en de voorschriften met betrekking tot de naleving van de officiële feestdagen vast.
-
-2. Tijdens de recessen kunnen de taken van de president van het Hof van Beroep en president van het Gerecht van Eerste Aanleg worden verricht door elke rechter die daartoe door de desbetreffende president wordt aangezocht. De president van het Hof van Beroep kan de rechters in dringende gevallen bijeenroepen.
-
-3. De president van het Hof van Beroep of de president van het Gerecht van Eerste Aanleg kan, indien de omstandigheden dat vergen, verlof verlenen aan respectievelijk de rechters van het Hof van Beroep of de rechters van het Gerecht van Eerste Aanleg.
-
-### AFDELING 2. HET GERECHT VAN EERSTE AANLEG
-
-##### Artikel 18. Oprichting en opheffing van een lokale of regionale divisie
-
-1. Een verzoek van een of meer overeenkomstsluitende lidstaten om oprichting van een lokale of regionale divisie wordt gericht aan de voorzitter van het Bestuurscomité. In dit verzoek wordt de zetel van de lokale of regionale divisie vermeld.
-
-2. In het besluit van het Bestuurscomité tot oprichting van een lokale of regionale divisie wordt het aantal rechters voor de desbetreffende divisie vermeld; het besluit wordt openbaar gemaakt.
-
-3. Op verzoek van de overeenkomstsluitende lidstaat op het grondgebied waarvan de lokale divisie gevestigd is of van de overeenkomstsluitende lidstaten die aan de regionale divisie deelnemen, besluit het Bestuurscomité tot opheffing van een regionale of lokale divisie. In het besluit tot opheffing van een lokale of regionale divisie worden zowel de datum vermeld waarna geen nieuwe zaken bij de divisie aanhangig kunnen worden gemaakt als de datum waarop de divisie ophoudt te bestaan.
-
-4. Vanaf de datum waarop een lokale of regionale divisie ophoudt te bestaan, worden de bij deze lokale of regionale divisie aangestelde rechters aangesteld bij de centrale divisie, en worden zaken die nog bij die lokale of regionale divisie aanhangig zijn, alsmede de subgriffie en alle stukken, aan de centrale divisie overgedragen.
-
-##### Artikel 19. Panels
-
-1. De toewijzing van rechters en de toewijzing van zaken aan de panels binnen een divisie wordt geregeld in het procesreglement. Een rechter van het panel wordt overeenkomstig het procesreglement als voorzitter aangewezen.
-
-2. Overeenkomstig het procesreglement kan het panel bepaalde taken aan een of meer van zijn rechters delegeren.
-
-3. Overeenkomstig het procesreglement kan voor elke divisie een vaste rechter voor de behandeling van urgente zaken worden aangewezen.
-
-4. Indien een alleensprekend rechter in de zin van [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=II&artikel=8&z=2023-06-26&g=2023-06-26), van de overeenkomst, of een vaste rechter in de zin van het derde lid van dit artikel, een zaak behandelt, verricht hij alle functies van een panel.
-
-5. Eén rechter van het panel treedt op als rapporteur, overeenkomstig het procesreglement.
-
-##### Artikel 20. Pool van rechters
-
-1. De griffier stelt een lijst op met de namen van de rechters die deel uitmaken van de pool van rechters. De lijst vermeldt voor elke rechter ten minste de talenkennis, het gebied van de technologie en de ervaring daarmee, alsmede de reeds door hem behandelde zaken.
-
-2. Het verzoek aan de president van het Gerecht van Eerste Aanleg tot aanwijzing van een rechter uit de pool van rechters bevat met name het onderwerp van de zaak, de door de rechters van de panels gebruikte officiële taal van het Europees Octrooibureau, de procestaal en het gebied van de technologie waarvoor de rechter dient te zijn opgeleid.
-
-### AFDELING 3. HET HOF VAN BEROEP
-
-##### Artikel 21. Panels
-
-1. De toewijzing van rechters en de toewijzing van zaken aan de panels worden geregeld in het procesreglement. Eén rechter van het panel wordt overeenkomstig het procesreglement benoemd tot voorzitter.
-
-2. Indien een zaak van uitzonderlijk belang is, en met name wanneer de beslissing gevolgen kan hebben voor de eenheid en consistentie van de jurisprudentie van het Gerecht, kan het Hof van Beroep op voorstel van de voorzitter besluiten de zaak te verwijzen naar het Hof in voltallige zitting.
-
-3. Overeenkomstig het procesreglement kan het panel bepaalde taken aan een of meer van zijn rechters delegeren.
-
-4. Eén rechter van het panel treedt op als rapporteur, overeenkomstig het procesreglement.
-
-### AFDELING 4. DE GRIFFIE
-
-##### Artikel 22. Benoeming en ontzetting uit het ambt van griffier
-
-1. Het presidium benoemt de griffier van het Gerecht voor een termijn van zes jaar. De griffier kan worden herbenoemd.
-
-2. Twee weken voor de datum van de benoeming van de griffier stelt de president van het Hof van Beroep het presidium in kennis van de voor het ambt ingediende sollicitaties.
-
-3. Voor zijn aantreden legt de griffier voor het presidium de eed af dat hij zijn taken als griffier onpartijdig en gewetensvol zal uitoefenen.
-
-4. De griffier kan uitsluitend uit zijn ambt worden ontzet indien hij niet langer aan de daaruit voortvloeiende verplichtingen voldoet. Het presidium neemt een besluit na de griffier te hebben gehoord.
-
-5. Indien het ambt van griffier vóór het verstrijken van de ambtstermijn vacant wordt, benoemt het presidium een nieuwe griffier voor een termijn van zes jaar.
-
-6. Bij afwezigheid of verhindering, of indien het ambt vacant is, wijst de president van het Hof van Beroep, na het presidium te hebben geraadpleegd, een personeelslid van het Hof aan dat de taken van de griffier zal verrichten.
-
-##### Artikel 23. Taken van de griffier
-
-1. De griffier staat het Gerecht, de president van het Hof van Beroep, de president van het Gerecht van Eerste Aanleg en de rechters bij, in de uitoefening van hun taken. De griffier is verantwoordelijk voor de organisatie en de werkzaamheden van de Griffie onder het gezag van de president van het Hof van Beroep.
-
-2. De griffier is in het bijzonder verantwoordelijk voor:
-
-- a. het bijhouden van het register van alle zaken voor het Gerecht;
-
-- b. het bijhouden en beheren van de overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-26&g=2023-06-26), [48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=48&z=2023-06-26&g=2023-06-26) en [57, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=57&z=2023-06-26&g=2023-06-26) van de overeenkomst opgestelde lijsten;
-
-- c. het bijhouden en publiceren van de lijst van kennisgevingen omtrent onttrekking aan de exclusieve bevoegdheid en de ongedaanmaking daarvan overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-26&g=2023-06-26) van de overeenkomst;
-
-- d. het publiceren van de beslissingen van het Gerecht, onder voorbehoud van de bescherming van vertrouwelijke informatie;
-
-- e. het publiceren van jaarverslagen met statistische gegevens; en
-
-- f. het verzekeren dat het Europees Octrooibureau in kennis wordt gesteld van de informatie over onttrekking aan de exclusieve bevoegdheid in de zin van [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-26&g=2023-06-26) van de overeenkomst.
-
-##### Artikel 24. Bijhouden van het register
-
-1. In de door het presidium vastgestelde regels voor de Griffie worden gedetailleerde voorschriften voor het bijhouden van het register van het Gerecht vastgelegd.
-
-2. De voorschriften betreffende toegang tot stukken van de Griffie worden opgenomen in het procesreglement.
-
-##### Artikel 25. Subgriffies en plaatsvervangend griffier
-
-1. Een plaatsvervangend griffier wordt door het presidium benoemd voor een termijn van zes jaar. De plaatsvervangend griffier kan worden herbenoemd.
-
-2. Het [tweede tot en met zesde lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=4&artikel=22&z=2023-06-26&g=2023-06-26) zijn van overeenkomstige toepassing.
-
-3. De plaatsvervangend griffier is verantwoordelijk voor de organisatie en de werkzaamheden van de subgriffies onder het gezag van de griffier en de president van het Gerecht van Eerste Aanleg. De plaatsvervangend griffier heeft met name tot taak:
-
-- a. het bijhouden van het register van alle zaken voor het Gerecht van Eerste Aanleg;
-
-- b. kennisgeving aan de Griffie van elke zaak voor het Gerecht van Eerste Aanleg.
-
-4. De plaatsvervangend griffier verleent ook administratieve en secretariële ondersteuning aan de divisies van het Gerecht van Eerste Aanleg.
-
-### HOOFDSTUK III. FINANCIËLE BEPALINGEN
-
-##### Artikel 26. Begroting
-
-1. De begroting wordt op voorstel van het presidium door het Begrotingscomité vastgesteld. Zij wordt opgesteld overeenkomstig de algemeen aanvaarde boekhoudkundige grondslagen vastgelegd in het overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=III&artikel=33&z=2023-06-26&g=2023-06-26) opgestelde financieel reglement.
-
-2. Binnen de begroting kan het presidium, overeenkomstig het financieel reglement, financiële middelen verschuiven tussen de diverse hoofdstukken en onderverdelingen.
-
-3. De griffier is overeenkomstig het financieel reglement verantwoordelijk voor de uitvoering van de begroting.
-
-4. De griffier stelt jaarlijks een jaarrekening op over de uitvoering van de begroting in het voorgaande begrotingsjaar. Deze jaarrekening wordt goedgekeurd door het presidium.
-
-##### Artikel 27. Machtiging tot uitgaven
-
-1. Voor de in de begroting opgenomen uitgaven wordt machtiging verleend voor de duur van één begrotingsjaar, tenzij het financieel reglement anders bepaalt.
-
-2. Overeenkomstig het financieel reglement kunnen andere gelden dan voor personeelskosten die aan het eind van het begrotingsjaar niet zijn besteed, uiterlijk naar het eind van het volgende begrotingsjaar worden verschoven.
-
-3. Reserveringen worden opgenomen in verschillende hoofdstukken naar aard en bestemming van de uitgaven en worden, voor zover nodig, verder onderverdeeld in overeenstemming met het financieel reglement.
-
-##### Artikel 28. Reserveringen voor onvoorziene uitgaven
-
-1. Op de begroting van het Gerecht kunnen gelden worden gereserveerd voor onvoorziene uitgaven.
-
-2. De besteding van deze gelden door het Gerecht is onderworpen aan voorafgaande toestemming van het Begrotingscomité.
-
-##### Artikel 29. Begrotingsjaar
-
-Het begrotingsjaar loopt van 1 januari tot en met 31 december.
-
-##### Artikel 30. Opstelling van de begroting
-
-Het presidium legt aan het Begrotingscomité de ontwerpbegroting van het Gerecht voor uiterlijk op de in het financieel reglement voorgeschreven datum.
-
-##### Artikel 31. Voorlopige begroting
-
-1. Indien aan het begin van het begrotingsjaar de begroting niet door het Begrotingscomité is vastgesteld, kunnen de uitgaven maandelijks per hoofdstuk of volgens een andere onderverdeling van de begroting worden verricht in overeenstemming met het financieel reglement, tot ten hoogste een twaalfde van op de begroting van het voorafgaande begrotingsjaar toegestane gelden, mits de aldus aan het presidium beschikbaar gestelde gelden niet meer bedragen dan een twaalfde van de in de ontwerpbegroting voorziene gelden.
-
-2. Het Begrotingscomité kan, onder voorbehoud van de overige bepalingen van het eerste lid, machtiging verlenen voor uitgaven die een twaalfde van de begrotingsreserveringen voor het voorafgaande begrotingsjaar te boven gaan.
-
-##### Artikel 32. Accountantscontrole
-
-1. De financiële jaarverslagen van het Gerecht worden door onafhankelijke accountants gecontroleerd. De accountants worden benoemd en, zo nodig, ontslagen door het Begrotingscomité.
-
-2. Uit de controle, die gebaseerd is op professionele auditingnormen en zo nodig ter plaatse wordt verricht, dient te blijken dat de begroting op rechtmatige en juiste wijze is uitgevoerd en dat de financiële administratie van het Gerecht overeenkomstig de beginselen van spaarzaamheid en gezond financieel beheer is gevoerd. Aan het eind van elk begrotingsjaar stellen de accountants een verslag op met een ondertekende accountantsverklaring.
-
-3. Het presidium legt de financiële jaarverslagen van het Gerecht en de jaarlijkse verklaring over de uitvoering van de begroting voor het voorafgaande begrotingsjaar voor bij het Begrotingscomité, alsmede het accountantsverslag.
-
-4. Het Begrotingscomité keurt de jaarrekening en het accountantsverslag goed en verleent kwijting aan het presidium voor de uitvoering van de begroting.
-
-##### Artikel 33. Financieel reglement
-
-1. Het financieel reglement wordt door het Bestuurscomité vastgesteld. Het wordt op voorstel van het Gerecht gewijzigd door het Bestuurscomité.
-
-2. Het financieel reglement behelst met name:
-
-- a. voorschriften voor het opstellen en uitvoeren van de begroting en voor de wijze waarop over de rekeningen verantwoording dient te worden afgelegd;
-
-- b. de wijze waarop en procedure volgens welke de betalingen en bijdragen, inclusief de eerste financiële bijdragen als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=II&artikel=37&z=2023-06-26&g=2023-06-26) van de overeenkomst, aan het Gerecht ter beschikking dienen te worden gesteld;
-
-- c. de voorschriften betreffende de taken van de controlerende en met de boekhouding belaste ambtenaren alsmede het op hen uit te oefenen toezicht; en
-
-- d. de algemeen aanvaarde boekhoudkundige grondslagen waarop de begroting en de financiële jaarverslagen worden gebaseerd.
-
-### HOOFDSTUK IV. PROCEDUREVOORSCHRIFTEN
-
-##### Artikel 34. Geheimhouding van de beraadslagingen
-
-De beraadslagingen van het Gerecht zijn en blijven geheim.
-
-##### Artikel 35. Beslissingen
-
-1. Wanneer een panel met een even aantal rechters zitting houdt, worden beslissingen van het Gerecht genomen door een meerderheid van het panel. Bij staking van de stemmen geeft de stem van de voorzitter de doorslag.
-
-2. In geval van verhindering van een van de rechters van een panel kan, overeenkomstig het procesreglement, een rechter die deel uitmaakt van een ander panel worden verzocht deel te nemen.
-
-3. In de gevallen waarin dit statuut bepaalt dat het Hof van Beroep in voltallige zitting een beslissing neemt, is deze beslissing slechts geldig indien zij genomen is door ten minste drie vierde van het aantal rechters waaruit een voltallige zitting bestaat.
-
-4. De beslissingen van het Gerecht bevatten de namen van de rechters die in de zaak een beslissing hebben genomen.
-
-5. De beslissingen worden ondertekend door de rechters die bij de beslissing betrokken zijn geweest. De beslissingen van het Hof van Beroep worden ondertekend door de griffier en de beslissingen van het Gerecht van Eerste Aanleg door de plaatsvervangend griffier. Zij worden in openbare zitting uitgesproken.
-
-##### Artikel 36. Afwijkende meningen
-
-Een afwijkende mening dat door een rechter van een panel afzonderlijk wordt ingenomen overeenkomstig [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=VI&artikel=78&z=2023-06-26&g=2023-06-26) van de overeenkomst wordt door die rechter met redenen omkleed, schriftelijk ingediend en ondertekend.
-
-##### Artikel 37. Beslissing bij verstek
-
-1. Op verzoek van een procespartij kan overeenkomstig het procesreglement een beslissing bij verstek worden genomen indien de andere partij, nadat haar een dagvaarding of gelijkwaardig document is betekend, nalaat schriftelijke conclusies in te dienen of niet verschijnt tijdens de mondelinge behandeling. Tegen deze beslissing bij verstek kan binnen een maand na de betekening ervan aan de partij waartegen deze is gedaan in verzet gekomen worden.
-
-2. Tenzij het Gerecht anders beslist, heeft het verzet geen schorsende werking ten aanzien van de tenuitvoerlegging van de beslissing bij verstek.
-
-##### Artikel 38. Prejudiciële vragen aan het Hof van Justitie van de Europese Unie
-
-1. De door het Hof van Justitie van de Europese Unie vastgestelde procedures voor verzoeken om een prejudiciële uitspraak binnen de Europese Unie zijn van toepassing.
-
-2. Indien het Gerecht van Eerste Aanleg of het Hof van Beroep besloten heeft aan het Hof van Justitie van de Europese Unie een vraag voor te leggen over de uitlegging van het [Verdrag betreffende de Europese Unie](onbekend) of het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) of een vraag over de geldigheid of de uitlegging van de handelingen van de instellingen van de Europese Unie, schort het de procedure op.
+2. Any ratification or accession after the entry into force of this Agreement shall take effect on the first day of the fourth month after the deposit of the instrument of ratification or accession.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement,
 

@@ -8,7 +8,7 @@ laatste_update: 2025-12-06
 status: geldig
 toestand: 2025-12-06
 bron: "https://wetten.overheid.nl/BWBV0003922"
-opgehaald: 2026-09-15
+opgehaald: 2026-09-16
 ---
 
 # Verdrag inzake psychotrope stoffen

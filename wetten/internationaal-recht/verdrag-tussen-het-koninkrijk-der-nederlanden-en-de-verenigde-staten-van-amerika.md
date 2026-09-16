@@ -1,46 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika betreffende de onderwerping van geschillen aan een permanente Internationale Commissie voor onderzoek en verslag"
 identifier: "BWBV0006130"
-country: "nl"
-rank: "verdrag"
-publication_date: "1928-03-10"
-last_updated: "1928-03-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006130"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005043823"
-version_id: "10005375242"
-internal_id: "C10008290751"
-label_id: "10005026724"
-dtd_version: "2.0"
-original_entry_into_force: "1928-03-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006130/1928-03-10/0"
-intitule_bron: "Stb.1928-149"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1928-05-09"
-intitule_published: "1928-05-24"
-intitule_in_force: "1928-05-24"
-intitule_status: "goed"
-original_publication: "Stb.1928-149"
-original_signed_date: "1928-05-09"
-original_published_date: "1928-05-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1928-03-10"
-jci_1_3: "jci1.3:c:BWBV0006130&z=1928-03-10&g=1928-03-10"
-jci_1_0: "1.0:c:BWBV0006130&g=1928-03-10"
-citeertitel_status: "redactioneel"
-signed_date: "1928-05-09"
-entry_into_force: "1928-03-10"
+publicatiedatum: 1928-03-10
+laatste_update: 1928-03-10
+status: geldig
+toestand: 1928-03-10
+bron: "https://wetten.overheid.nl/BWBV0006130"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika betreffende de onderwerping van geschillen aan een permanente Internationale Commissie voor onderzoek en verslag
 
-Hare Majesteit de Koningin der Nederlanden en de President der Vereenigde Staten van Amerika, wenschende de tusschen hen bestaande vriendschapsbanden te versterken en evenzeer den algemeenen vrede te bevorderen, hebben besloten tot dat doel een verdrag te sluiten, waartoe Zij als hunne Gevolmachtigden hebben benoemd:
-
-Hare Majesteit de Koningin der Nederlanden: Ridder W. L. F. C. VAN RAPPARD, Hoogst Derzelver Buitengewoon Gezant en Gevolmachtigd Minister bij de Vereenigde Staten van Amerika; en
-
-De President der Vereenigde Staten: Zijne Excellentie WILLIAM JENNINGS BRYAN, Secretaris van Staat;
-
-Die, na elkander hunne wederzijdsche volmachten te hebben medegedeeld, welke in goeden en behoorlijken vorm zijn bevonden, omtrent de volgende artikelen zijn overeengekomen.
+*Hare Majesteit de Koningin der Nederlanden en de President der Vereenigde Staten van Amerika, wenschende de tusschen hen bestaande vriendschapsbanden te versterken en evenzeer den algemeenen vrede te bevorderen, hebben besloten tot dat doel een verdrag te sluiten, waartoe Zij als hunne Gevolmachtigden hebben benoemd: Hare Majesteit de Koningin der Nederlanden: Ridder W. L. F. C. VAN RAPPARD, Hoogst Derzelver Buitengewoon Gezant en Gevolmachtigd Minister bij de Vereenigde Staten van Amerika; en De President der Vereenigde Staten: Zijne Excellentie WILLIAM JENNINGS BRYAN, Secretaris van Staat; Die, na elkander hunne wederzijdsche volmachten te hebben medegedeeld, welke in goeden en behoorlijken vorm zijn bevonden, omtrent de volgende artikelen zijn overeengekomen.*
 
 ##### Artikel I
 
@@ -76,6 +49,6 @@ Ter oorkonde waarvan de wederzijdsche gevolmachtigden dit verdrag hebben geteeke
 
 Gedaan te Washington op den achttienden dag der maand December van het jaar onzes Heeren negentienhonderd en dertien.
 
-(**L. S.**) WILLIAM JENNINGS BRYAN.
+(*L. S.*) WILLIAM JENNINGS BRYAN.
 
-(**L. S.**) W. L. F. C. v. RAPPARD.
+(*L. S.*) W. L. F. C. v. RAPPARD.

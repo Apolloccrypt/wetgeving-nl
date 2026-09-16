@@ -1,64 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Internationale Bank voor Wederopbouw en Ontwikkeling en de Internationale Financieringsmaatschappij inzake de vestiging en het functioneren van een kantoor op Sint Maarten"
 identifier: "BWBV0006975"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-10-19"
-last_updated: "2022-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006975"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005620513"
-version_id: "10006175312"
-internal_id: "C10009935831"
-label_id: "10005602344"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006975/2022-10-19/0"
-intitule_bron: "Trb.2022-98"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-10-26"
-intitule_in_force: "2022-10-26"
-intitule_status: "goed"
-original_publication: "Trb.2022-98"
-original_published_date: "2022-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2022-98"
-entry_into_force_date: "2022-10-19"
-jci_1_3: "jci1.3:c:BWBV0006975&z=2022-10-19&g=2022-10-19"
-jci_1_0: "1.0:c:BWBV0006975&g=2022-10-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-10-19"
+publicatiedatum: 2022-10-19
+laatste_update: 2022-10-19
+status: geldig
+toestand: 2022-10-19
+bron: "https://wetten.overheid.nl/BWBV0006975"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Internationale Bank voor Wederopbouw en Ontwikkeling en de Internationale Financieringsmaatschappij inzake de vestiging en het functioneren van een kantoor op Sint Maarten
 
-Preamble
-
-The Kingdom of the Netherlands, in respect of Sint Maarten, on the one side,
-
-and
-
-the International Bank for Reconstruction and Development (IBRD)
-
-and
-
-the International Finance Corporation (IFC) (together the “World Bank Group Organizations”), on the other side;
-
-Having regard to
-
-the Articles of Agreement of the International Bank for Reconstruction and Development of 27 December 1945, as amended, effective 27 June 2012 (in particular, Article VII on IBRD’s status, immunities and privileges);
-
-the Articles of Agreement of the International Finance Corporation of 11 April 1955, as amended, effective 16 April 2020 (in particular, Article VI on IFC’s status, immunities and privileges);
-
-Considering that the Kingdom of the Netherlands has acceded to the Convention on the Privileges and Immunities of the Specialized Agencies with respect to IBRD as of July 21, 1949;
-
-Noting that as of October 10, 2010, Sint Maarten is a constituent country within the Kingdom of the Netherlands;
-
-Noting that the World Bank Group Organizations have established or may establish an Office (as defined in Article I) in Sint-Maarten; and
-
-Desiring to further define the status, privileges and immunities of such Office (as defined in [Article I](https://wetten.overheid.nl/jci1.3:c:BWBV0006975&artikel=I&z=2022-10-19&g=2022-10-19)) in Sint Maarten and to enable the World Bank Group Organizations to fulfill their purposes and functions in Sint Maarten;
-
-Have agreed as follows:
+*Preamble The Kingdom of the Netherlands, in respect of Sint Maarten, on the one side, and the International Bank for Reconstruction and Development (IBRD) and the International Finance Corporation (IFC) (together the “World Bank Group Organizations”), on the other side; Having regard to (i) the Articles of Agreement of the International Bank for Reconstruction and Development of 27 December 1945, as amended, effective 27 June 2012 (in particular, Article VII on IBRD’s status, immunities and privileges); (ii) the Articles of Agreement of the International Finance Corporation of 11 April 1955, as amended, effective 16 April 2020 (in particular, Article VI on IFC’s status, immunities and privileges); Considering that the Kingdom of the Netherlands has acceded to the Convention on the Privileges and Immunities of the Specialized Agencies with respect to IBRD as of July 21, 1949; Noting that as of October 10, 2010, Sint Maarten is a constituent country within the Kingdom of the Netherlands; Noting that the World Bank Group Organizations have established or may establish an Office (as defined in Article I) in Sint-Maarten; and Desiring to further define the status, privileges and immunities of such Office (as defined in Article I) in Sint Maarten and to enable the World Bank Group Organizations to fulfill their purposes and functions in Sint Maarten; Have agreed as follows:*
 
 ##### Article I. Definitions
 
@@ -66,23 +21,23 @@ Section 1. Capitalized terms used in this Agreement have the meanings given to t
 
 Section 2. For the purpose of this Agreement:
 
-- a). “Agreement” means this Establishment Agreement between the Kingdom of the Netherlands, in respect of Sint Maarten, and the International Bank for Reconstruction and Development and the International Finance Corporation regarding the establishment and operation of an Office in Sint Maarten;
+- a) “Agreement” means this Establishment Agreement between the Kingdom of the Netherlands, in respect of Sint Maarten, and the International Bank for Reconstruction and Development and the International Finance Corporation regarding the establishment and operation of an Office in Sint Maarten;
 
-- b). “Host State” means the Kingdom of the Netherlands, in respect of Sint Maarten;
+- b) “Host State” means the Kingdom of the Netherlands, in respect of Sint Maarten;
 
-- c). “World Bank Group Organizations” means the International Bank for Reconstruction and Development and the International Finance Corporation and the “World Bank Group Organization” means one of the World Bank Group Organizations as so defined;
+- c) “World Bank Group Organizations” means the International Bank for Reconstruction and Development and the International Finance Corporation and the “World Bank Group Organization” means one of the World Bank Group Organizations as so defined;
 
-- d). „Party” means the Kingdom of the Netherlands, in respect of Sint Maarten, or the World Bank Group Organizations, as the context requires; and “Parties” means, collectively, the Kingdom of the Netherlands, in respect of Sint Maarten, and the World Bank Group Organizations;
+- d) „Party” means the Kingdom of the Netherlands, in respect of Sint Maarten, or the World Bank Group Organizations, as the context requires; and “Parties” means, collectively, the Kingdom of the Netherlands, in respect of Sint Maarten, and the World Bank Group Organizations;
 
-- e). “Office” means the representative office(s) of the World Bank Group Organizations in Sint Maarten;
+- e) “Office” means the representative office(s) of the World Bank Group Organizations in Sint Maarten;
 
-- f). “Premises” means buildings, parts of buildings and areas, including installations and facilities of the World Bank Group Organizations made available to be maintained, occupied or used by the World Bank Group Organizations in Sint Maarten in connection with the functions and purposes of the World Bank Group Organizations in Sint Maarten.
+- f) “Premises” means buildings, parts of buildings and areas, including installations and facilities of the World Bank Group Organizations made available to be maintained, occupied or used by the World Bank Group Organizations in Sint Maarten in connection with the functions and purposes of the World Bank Group Organizations in Sint Maarten.
 
-- g). “Legal Instruments Establishing the Organizations” means the Articles of Agreement of the International Bank for Reconstruction and Development and the Articles of Agreement for the International Finance Corporation.
+- g) “Legal Instruments Establishing the Organizations” means the Articles of Agreement of the International Bank for Reconstruction and Development and the Articles of Agreement for the International Finance Corporation.
 
-- h). “Immediate Family” in this Agreement means a person who is a member of the household of a Staff of the World Bank Group Organizations as defined in the Staff Rules of the World Bank Group Organizations; and
+- h) “Immediate Family” in this Agreement means a person who is a member of the household of a Staff of the World Bank Group Organizations as defined in the Staff Rules of the World Bank Group Organizations; and
 
-- i). “Staff of the World Bank Group Organizations” or “Staff” means all staff members and heads of office who hold appointments under the Staff Rules and policies of the World Bank Group Organizations.
+- i) “Staff of the World Bank Group Organizations” or “Staff” means all staff members and heads of office who hold appointments under the Staff Rules and policies of the World Bank Group Organizations.
 
 ##### Article II. Purpose of the Agreement
 
@@ -100,51 +55,51 @@ Section 1. The World Bank Group Organizations shall use their best efforts to en
 
 Section 2. The Host State shall accord to the World Bank Group Organizations and the Staff of the World Bank Group Organizations, regardless of nationality or residence, consistent with the privileges, immunities and exemptions provided for in the Legal Instruments Establishing the Organizations and the Convention on the Privileges and Immunities of the Specialized Agencies, the following privileges and immunities:
 
-- a). The property and assets of the World Bank Group Organizations, wherever located, shall be immune from search, requisition, confiscation, expropriation or any other form of seizure by executive or legislative action;
+- a) The property and assets of the World Bank Group Organizations, wherever located, shall be immune from search, requisition, confiscation, expropriation or any other form of seizure by executive or legislative action;
 
-- b). The archives of the World Bank Group Organizations shall be inviolable, wherever they may be;
+- b) The archives of the World Bank Group Organizations shall be inviolable, wherever they may be;
 
-- c). The Staff of the World Bank Group Organizations shall be immune from all forms of legal process in respect of words spoken or written and all acts performed by them in their official capacity;
+- c) The Staff of the World Bank Group Organizations shall be immune from all forms of legal process in respect of words spoken or written and all acts performed by them in their official capacity;
 
-- d). The World Bank Group Organizations’ internal employment regime, including employment rules, policies and procedures shall govern exclusively in all matters relating to employment relations concerning the Staff of the World Bank Group Organizations in Sint Maarten;
+- d) The World Bank Group Organizations’ internal employment regime, including employment rules, policies and procedures shall govern exclusively in all matters relating to employment relations concerning the Staff of the World Bank Group Organizations in Sint Maarten;
 
-- e). The Staff of the World Bank Group Organizations serving with the Office in Sint Maarten, their Immediate Family and relatives dependent on them shall be allowed entry into Sint Maarten with assistance from the Kingdom of the Netherlands, through its Ministry of Foreign Affairs, to obtain any visas that may be required;
+- e) The Staff of the World Bank Group Organizations serving with the Office in Sint Maarten, their Immediate Family and relatives dependent on them shall be allowed entry into Sint Maarten with assistance from the Kingdom of the Netherlands, through its Ministry of Foreign Affairs, to obtain any visas that may be required;
 
-- f). The Staff of the World Bank Group Organizations, their Immediate Family and relatives dependent on them shall have the same privileges with respect to exchange facilities as are available to members of the diplomatic corps serving in Sint Maarten;
+- f) The Staff of the World Bank Group Organizations, their Immediate Family and relatives dependent on them shall have the same privileges with respect to exchange facilities as are available to members of the diplomatic corps serving in Sint Maarten;
 
-- g). The Staff of the World Bank Group Organizations serving with the Office shall be immune from the seizure of their personal baggage and immune from the inspection of their official baggage;
+- g) The Staff of the World Bank Group Organizations serving with the Office shall be immune from the seizure of their personal baggage and immune from the inspection of their official baggage;
 
-- h). The Staff of the World Bank Group Organizations serving with the Office in Sint Maarten, their Immediate Family and relatives dependent on them shall have access to the same repatriation facilities in times of international crises as are made available to members of the diplomatic corps serving in Sint Maarten;
+- h) The Staff of the World Bank Group Organizations serving with the Office in Sint Maarten, their Immediate Family and relatives dependent on them shall have access to the same repatriation facilities in times of international crises as are made available to members of the diplomatic corps serving in Sint Maarten;
 
-- i). The Government of Sint Maarten shall consider favorably applications by Immediate Family and relatives dependent on Staff of the World Bank Group Organizations serving with the Office to take employment in Sint Maarten in accordance with prevailing rules and regulations; and
+- i) The Government of Sint Maarten shall consider favorably applications by Immediate Family and relatives dependent on Staff of the World Bank Group Organizations serving with the Office to take employment in Sint Maarten in accordance with prevailing rules and regulations; and
 
-- j). The Staff of the World Bank Group Organizations serving with the Office in Sint-Maarten shall have the right to import, free of duty, their furniture and effects at the time of first taking up their post in Sint Maarten.
+- j) The Staff of the World Bank Group Organizations serving with the Office in Sint-Maarten shall have the right to import, free of duty, their furniture and effects at the time of first taking up their post in Sint Maarten.
 
 Section 3. The Government of Sint Maarten shall provide identification cards to Staff of the World Bank Group Organizations serving with the Office in Sint Maarten as and when they become available to certify that they are entitled to the privileges, immunities, and exemptions provided for in the Agreement.
 
 ##### Article V. Exemption from Taxation, Duties, and Fees
 
-Section 1. The World Bank Group Organizations, their assets, property and income, and their operations and transactions, shall be exempted from all taxes and customs duties in accordance with the exemption from taxation provided under the Legal Instruments Establishing the Organizations and the Convention on the Privileges and Immunities of the Specialized Agencies. The World Bank Group Organizations shall also be immune from liability for the collection or payment of any tax or duty. Notwithstanding section 9 (b) of Article VII of the Articles of Agreement of the International Bank for Reconstruction and Development and section 9 (b) of Article VI of the Articles of Agreement of the International Finance Corporation, the exemption from taxation available to the World Bank Group Organizations and the Staff of the World Bank Group Organizations shall include, **inter alia**, exemption from the following categories of taxation or levies, regardless of the nationality or residence of the Staff of the World Bank Group Organizations:
+Section 1. The World Bank Group Organizations, their assets, property and income, and their operations and transactions, shall be exempted from all taxes and customs duties in accordance with the exemption from taxation provided under the Legal Instruments Establishing the Organizations and the Convention on the Privileges and Immunities of the Specialized Agencies. The World Bank Group Organizations shall also be immune from liability for the collection or payment of any tax or duty. Notwithstanding section 9 (b) of Article VII of the Articles of Agreement of the International Bank for Reconstruction and Development and section 9 (b) of Article VI of the Articles of Agreement of the International Finance Corporation, the exemption from taxation available to the World Bank Group Organizations and the Staff of the World Bank Group Organizations shall include, *inter alia*, exemption from the following categories of taxation or levies, regardless of the nationality or residence of the Staff of the World Bank Group Organizations:
 
-- a). Taxation of Staff (including mandatory charges, such as social security) on or in respect of salaries and emoluments paid to them by the World Bank Group Organizations, regardless of nationality or residence of the Staff;
+- a) Taxation of Staff (including mandatory charges, such as social security) on or in respect of salaries and emoluments paid to them by the World Bank Group Organizations, regardless of nationality or residence of the Staff;
 
-- b). Payment obligations, employer’s or employees’, to state pensions, national health insurance plans, social security accounts or equivalent schemes;
+- b) Payment obligations, employer’s or employees’, to state pensions, national health insurance plans, social security accounts or equivalent schemes;
 
-- c). Exemption from all forms of taxation, including indirect taxes that may be included in the price of goods or services supplied to the World Bank Group Organizations, including sale/purchase and/or leasing/rental charges for the Premises of the World Bank Group Organizations. If such indirect taxes are paid by the World Bank Group Organizations, they shall be refunded in full to the World Bank Group Organizations by the Government of Sint Maarten insofar as Sint Maarten makes provisions to that effect for foreign diplomatic missions;
+- c) Exemption from all forms of taxation, including indirect taxes that may be included in the price of goods or services supplied to the World Bank Group Organizations, including sale/purchase and/or leasing/rental charges for the Premises of the World Bank Group Organizations. If such indirect taxes are paid by the World Bank Group Organizations, they shall be refunded in full to the World Bank Group Organizations by the Government of Sint Maarten insofar as Sint Maarten makes provisions to that effect for foreign diplomatic missions;
 
-- d). Radio and television or similar telecommunication license fees;
+- d) Radio and television or similar telecommunication license fees;
 
-- e). Recording charges and court fees in connection with transactions to which any of the World Bank Group Organizations is a party;
+- e) Recording charges and court fees in connection with transactions to which any of the World Bank Group Organizations is a party;
 
-- f). Customs and import duties on all dutiable goods for use by the Office;
+- f) Customs and import duties on all dutiable goods for use by the Office;
 
-- g). Goods and services tax (or its equivalent) on all imports for use by the World Bank Organizations;
+- g) Goods and services tax (or its equivalent) on all imports for use by the World Bank Organizations;
 
-- h). Goods and services tax (or its equivalent) in respect of the local consumption of goods and services by the Office;
+- h) Goods and services tax (or its equivalent) in respect of the local consumption of goods and services by the Office;
 
-- i). Government tax on utilities bills and telephone charges, with respect to the Office; and
+- i) Government tax on utilities bills and telephone charges, with respect to the Office; and
 
-- j). Taxation of income receivable by any of the World Bank Group Organizations, including such taxes that are withheld by the payee (whether called withholding tax or otherwise).
+- j) Taxation of income receivable by any of the World Bank Group Organizations, including such taxes that are withheld by the payee (whether called withholding tax or otherwise).
 
 Section 2. The Staff of the World Bank Group Organizations serving in the Office shall be exempt from national service obligations, provided that, in respect of nationals of the Kingdom of the Netherlands, such exemption shall be confined to employees whose names have, by reason of their duties, been placed on a list compiled by the World Bank Group Organizations and approved by the Host State. Should other Staff of the World Bank Group Organizations who are nationals of the Host State be called up for national service, the Host State shall, at the request of the World Bank Group Organizations, grant such temporary deferments in the call-up of such Staff as may be necessary to avoid interruptions in the continuation of essential work.
 
@@ -190,14 +145,14 @@ IN WITNESS WHEREOF, the representatives, being duly authorized thereto, have sig
 
 DONE in Philipsburg, this 19th day of October 2022, in three originals, in the English language.
 
-**For the Kingdom of the Netherlands, in respect of Sint Maarten,**
+*For the Kingdom of the Netherlands, in respect of Sint Maarten,*
 
 SILVERIA ELFRIEDA JACOBS
 
-**For International Bank for Reconstruction and Development,**
+*For International Bank for Reconstruction and Development,*
 
 OGO-OLUWATOYIN JAGHA
 
-**For International Finance Corporation,**
+*For International Finance Corporation,*
 
 OGO-OLUWATOYIN JAGHA

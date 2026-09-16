@@ -1,229 +1,200 @@
 ---
 title: "Protocol tot wijziging van het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens"
 identifier: "BWBV0006775"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-10-10"
-last_updated: "2018-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006775"
+categorie: "Digitaal en privacy"
 soort: "verdrag"
-stam_id: "10005463673"
-version_id: "10005932312"
-internal_id: "C10009987161"
-label_id: "10005447094"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006775/2018-10-10/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0006775&z=2018-10-10&g=2018-10-10"
-jci_1_0: "1.0:c:BWBV0006775&g=2018-10-10"
-citeertitel_status: "redactioneel"
+laatste_update: 2018-10-10
+status: geldig
+toestand: 2018-10-10
+bron: "https://wetten.overheid.nl/BWBV0006775"
+opgehaald: 2026-09-16
 ---
+
 # Protocol tot wijziging van het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens
 
-Preambule
+*Preamble The member States of the Council of Europe and the other Parties to the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data (ETS No. 108), opened for signature in Strasbourg on 28 January 1981 (hereinafter referred to as “the Convention”), Having regard to Resolution No. 3 on data protection and privacy in the third millennium adopted at the 30th Council of Europe Conference of Ministers of Justice (Istanbul, Turkey, 24-26 November 2010); Having regard to the Parliamentary Assembly of the Council of Europe’s Resolution 1843 (2011) on the protection of privacy and personal data on the Internet and online media and Resolution 1986 (2014) on improving user protection and security in cyberspace; Having regard to Opinion 296 (2017) on the draft protocol amending the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data (ETS No. 108) and its explanatory memorandum, adopted by the Standing Committee on behalf of the Parliamentary Assembly of the Council of Europe on 24 November 2017; Considering that new challenges to the protection of individuals with regard to the processing of personal data have emerged since the Convention was adopted; Considering the need to ensure that the Convention continues to play its pre-eminent role in protecting individuals with regard to the processing of personal data, and more generally in protecting human rights and fundamental freedoms, Have agreed as follows:*
 
-De Lidstaten van de Raad van Europa en de andere Partijen bij het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens (ETS nr. 108), dat op 28 januari 1981 te Straatsburg werd opengesteld voor ondertekening (hierna te noemen „het Verdrag”),
+##### Article 1
 
-Gelet op Resolutie nr. 3 over gegevensbescherming en privacy in het derde millennium, aangenomen tijdens de 30ste Conferentie van de ministers van Justitie van de Raad van Europa (Istanboel, Turkije, 24-26 november 2010);
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Gelet op Resolutie 1843 (2011) van de Parlementaire Vergadering van de Raad van Europa over de bescherming van de persoonlijke levenssfeer en persoonsgegevens op het internet en in de onlinemedia en Resolutie 1986 (2014) over de verbetering van de bescherming en veiligheid van gebruikers in cyberspace;
+##### Article 2
 
-Gelet op Advies 296 (2017) over het ontwerpprotocol tot wijziging van het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens (ETS nr. 108) en de toelichting daarbij, aangenomen door het Permanent Comité namens de Parlementaire Vergadering van de Raad van Europa op 24 november 2017;
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Overwegende dat er sinds de aanneming van het Verdrag nieuwe uitdagingen zijn ontstaan voor de bescherming van personen in verband met de verwerking van persoonsgegevens;
+##### Article 3
 
-Overwegende dat ervoor moet worden gezorgd dat het Verdrag zijn vooraanstaande rol blijft spelen bij de bescherming van personen in verband met de verwerking van persoonsgegevens en meer in het algemeen bij de bescherming van mensenrechten en fundamentele vrijheden,
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Zijn het volgende overeengekomen:
+##### Article 4
 
-##### Artikel 1
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 5
 
-##### Artikel 2
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 6
 
-##### Artikel 3
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 7
 
-##### Artikel 4
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 8
 
-##### Artikel 5
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 9
 
-##### Artikel 6
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 10
 
-##### Artikel 7
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 11
 
-##### Artikel 8
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 12
 
-##### Artikel 9
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 13
 
-##### Artikel 10
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 14
 
-##### Artikel 11
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 15
 
-##### Artikel 12
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 16
 
-##### Artikel 13
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 17
 
-##### Artikel 14
+1. *Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+2. *Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 15
+3. The text of Article 12 of the Convention (new [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&artikel=14)) includes the provisions of [Article 2 of the Additional Protocol of 2001](https://wetten.overheid.nl/jci1.3:c:BWBV0002948&artikel=2) regarding supervisory authorities and transborder data flows (ETS No. 181) on transborder flows of personal data to a recipient which is not subject to the jurisdiction of a Party to the Convention.
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 18
 
-##### Artikel 16
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 19
 
-##### Artikel 17
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-1.
+##### Article 20
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-2.
+##### Article 21
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-3.
+##### Article 22
 
-De tekst van artikel 12 van het Verdrag (nieuw [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&artikel=14)) bevat de bepalingen van [artikel 2 van het Aanvullend Protocol van 2001](https://wetten.overheid.nl/jci1.3:c:BWBV0002948&artikel=2) betreffende toezichthoudende autoriteiten en grensoverschrijdende gegevensstromen (ETS nr. 181) inzake grensoverschrijdende stromen van persoonsgegevens naar een ontvanger die niet onder de rechtsmacht van een Partij bij het Verdrag valt.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 18
+##### Article 23
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 19
+##### Article 24
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 20
+##### Article 25
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 21
+##### Article 26
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 22
+##### Article 27
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 23
+##### Article 28
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 24
+##### Article 29
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 25
+##### Article 30
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 26
+##### Article 31
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 27
+##### Article 32
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 28
+##### Article 33
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 29
+##### Article 34
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 30
+##### Article 35
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+*Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.*
 
-##### Artikel 31
+##### Article 36. – Signature, ratification and accession
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+1. This Protocol shall be open for signature by Contracting States to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002783). It shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-##### Artikel 32
+2. After the opening for signature of this Protocol and before its entry into force, any other State shall express its consent to be bound by this Protocol by accession. It may not become a Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002783) without acceding simultaneously to this Protocol.
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 37. – Entry into force
 
-##### Artikel 33
+1. This Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date on which all Parties to the Convention have expressed their consent to be bound by the Protocol, in accordance with the provisions of [paragraph 1 of Article 36](https://wetten.overheid.nl/BWBV0006775).
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+2. In the event this Protocol has not entered into force in accordance with paragraph 1, following the expiry of a period of five years after the date on which it has been opened for signature, the Protocol shall enter into force in respect of those States which have expressed their consent to be bound by it in accordance with paragraph 1, provided that the Protocol has at least thirty-eight Parties. As between the Parties to the Protocol, all provisions of the amended [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002783) shall have effect immediately upon entry into force.
 
-##### Artikel 34
+3. Pending the entry into force of this Protocol and without prejudice to the provisions regarding the entry into force and the accession by non-member States or international organisations, a Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002783) may, at the time of signature of this Protocol or at any later moment, declare that it will apply the provisions of this Protocol on a provisional basis. In such cases, the provisions of this Protocol shall apply only with respect to the other Parties to the Convention which have made a declaration to the same effect. Such a declaration shall take effect on the first day of the third month following the date of its receipt by the Secretary General of the Council of Europe.
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+4. From the date of entry into force of this Protocol, the [Additional Protocol to the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data, regarding supervisory authorities and transborder data flows](https://wetten.overheid.nl/jci1.3:c:BWBV0002948) (ETS No. 181) shall be repealed.
 
-##### Artikel 35
+5. From the date of the entry into force of this Protocol, the amendments to the [Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data](https://wetten.overheid.nl/jci1.3:c:BWBV0002783), approved by the Committee of Ministers, in Strasbourg, on 15 June 1999, have lost their purpose.
 
-Wijzigt het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; Straatsburg, 28 januari 1981.
+##### Article 38. – Declarations related to the Convention
 
-##### Artikel 36. – Ondertekening, bekrachtiging en toetreding
+From the date of entry into force of this Protocol, with respect to a Party having entered one or more declarations in pursuance of [Article 3 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&artikel=3), such declaration(s) will lapse.
 
-1. Dit Protocol staat open voor ondertekening door de Staten die Partij zijn bij het [Verdrag](onbekend). Het Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+##### Article 39. – Reservations
 
-2. Na de openstelling voor ondertekening van dit Protocol, en vóór de inwerkingtreding ervan, geeft elke andere Staat te kennen dat hij ermee instemt door dit Protocol te worden gebonden door toetreding. Een Staat kan geen Partij bij het [Verdrag](onbekend) worden zonder tegelijkertijd tot dit Protocol toe te treden.
+No reservation may be made to the provisions of this Protocol.
 
-##### Artikel 37. – Inwerkingtreding
+##### Article 40. – Notifications
 
-1. Dit Protocol treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop alle Partijen bij het [Verdrag](onbekend), in overeenstemming met de bepalingen van het [eerste lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006775&artikel=36&z=2018-10-10&g=2018-10-10), te kennen hebben gegeven dat zij ermee instemmen door het Protocol te worden gebonden.
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe and any other Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002783) of:
 
-2. Indien dit Protocol niet overeenkomstig het eerste lid in werking is getreden, na het verstrijken van een tijdvak van vijf jaar na de datum waarop het voor ondertekening is opengesteld, dan treedt het Protocol in werking ten aanzien van de Staten die hebben verklaard ermee in te stemmen door het Protocol te worden gebonden overeenkomstig het eerste lid, mits het Protocol ten minste achtendertig Partijen telt. Tussen de Partijen bij het Protocol zijn alle bepalingen van het gewijzigde [Verdrag](onbekend) onmiddellijk na de inwerkingtreding van kracht.
+- a) any signature;
 
-3. In afwachting van de inwerkingtreding van dit Protocol en onverminderd de bepalingen betreffende de inwerkingtreding en de toetreding van niet-Lidstaten of internationale organisaties, kan een Partij bij het [Verdrag](onbekend), bij de ondertekening van dit Protocol of op een later tijdstip, verklaren dat zij de bepalingen van dit Protocol voorlopig zal toepassen. In dergelijke gevallen zijn de bepalingen van dit Protocol alleen van toepassing ten aanzien van de andere Partijen bij het Verdrag die een verklaring van gelijke strekking hebben afgelegd. Deze verklaring wordt van kracht op de eerste dag van de derde maand volgend op de datum van ontvangst door de Secretaris-Generaal van de Raad van Europa.
+- b) the deposit of any instrument of ratification, acceptance, approval or accession;
 
-4. Met ingang van de datum van inwerkingtreding van dit Protocol wordt het [Aanvullend Protocol bij het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens inzake toezichthoudende autoriteiten en grensoverschrijdend verkeer van gegevens](onbekend) (ETS nr. 181) ingetrokken.
+- c) the date of entry into force of this Protocol in accordance with [Article 37](https://wetten.overheid.nl/BWBV0006775);
 
-5. Vanaf de datum van inwerkingtreding van dit Protocol hebben de wijzigingen van het [Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens](onbekend), die op 15 juni 1999 in Straatsburg door het Comité van Ministers zijn goedgekeurd, hun doel verloren.
-
-##### Artikel 38. – Verklaringen met betrekking tot het Verdrag
-
-Ten aanzien van een Partij die overeenkomstig [artikel 3 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&artikel=3) een of meer verklaringen heeft afgelegd, vervallen deze verklaringen vanaf de datum van inwerkingtreding van dit Protocol.
-
-##### Artikel 39. – Voorbehouden
-
-Geen enkel voorbehoud mag worden gemaakt bij de bepalingen van dit Protocol.
-
-##### Artikel 40. – Kennisgevingen
-
-De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa en elke andere Partij bij dit [Verdrag](onbekend), in kennis van:
-
-- a. iedere ondertekening;
-
-- b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- c. de datum van inwerkingtreding van dit Protocol ingevolge [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0006775&artikel=37&z=2018-10-10&g=2018-10-10);
-
-- d. iedere andere handeling, kennisgeving of mededeling met betrekking tot dit Protocol.
+- d) any other act, notification or communication relating to this Protocol.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

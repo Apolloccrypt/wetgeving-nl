@@ -1,50 +1,19 @@
 ---
 title: "Overeenkomst tot oprichting van de internationale EU-LAC-Stichting"
 identifier: "BWBV0006662"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-07-14"
-last_updated: "2019-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006662"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005397783"
-version_id: "10005832072"
-internal_id: "C10009572781"
-label_id: "10005380714"
-dtd_version: "2.0"
-original_entry_into_force: "2019-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006662/2019-07-14/0"
-intitule_bron: "Trb.2017-15"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-01-24"
-intitule_in_force: "2019-07-11"
-intitule_status: "goed"
-original_publication: "Trb.2017-15"
-original_published_date: "2017-01-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2017-15"
-entry_into_force_date: "2019-07-14"
-jci_1_3: "jci1.3:c:BWBV0006662&z=2019-07-14&g=2019-07-14"
-jci_1_0: "1.0:c:BWBV0006662&g=2019-07-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-07-14"
+publicatiedatum: 2019-07-14
+laatste_update: 2019-07-14
+status: geldig
+toestand: 2019-07-14
+bron: "https://wetten.overheid.nl/BWBV0006662"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst tot oprichting van de internationale EU-LAC-Stichting
 
-De partijen bij deze overeenkomst,
-
-herinnerend aan het strategische partnerschap dat in juni 1999 tussen Latijns-Amerika en het Caribisch gebied (LAC) en de Europese Unie (EU) tot stand is gekomen binnen het kader van de eerste EU-LAC-topconferentie van Rio de Janeiro,
-
-rekening houdend met het initiatief dat de staatshoofden en regeringsleiders van LAC en de EU hebben genomen tijdens de vijfde EU-LAC-topconferentie in Lima, Peru, op 16 mei 2008,
-
-herinnerend aan het besluit met betrekking tot de oprichting van de EU-LAC-Stichting dat de staatshoofden en regeringsleiders van de EU en LAC, de voorzitter van de Europese Raad en de voorzitter van de Commissie, op de zesde EU-LAC-topconferentie in Madrid, Spanje, op 18 mei 2010, hebben vastgesteld,
-
-herinnerend aan de oprichting in 2011 van een voorlopige stichting in de Bondsrepubliek Duitsland, die haar activiteiten zal stopzetten en zal worden ontbonden wanneer de internationale oprichtingsovereenkomst van de EU-LAC-Stichting in werking treedt,
-
-nogmaals wijzend op de noodzaak om een internationale organisatie van intergouvernementele aard als internationaal rechtssubject op te richten op basis van een „internationale oprichtingsovereenkomst van de EU-LAC-Stichting gebaseerd op het mandaat dat tijdens een ministeriële bijeenkomst in de marge van de 6e EU-LAC-topconferentie van Madrid,” is vastgesteld en dat bijdraagt tot de versterking van de bestaande banden tussen de Latijns-Amerikaanse en Caribische Staten, de EU en de EU-lidstaten,
-
-zijn het volgende overeengekomen:
+*De partijen bij deze overeenkomst, herinnerend aan het strategische partnerschap dat in juni 1999 tussen Latijns-Amerika en het Caribisch gebied (LAC) en de Europese Unie (EU) tot stand is gekomen binnen het kader van de eerste EU-LAC-topconferentie van Rio de Janeiro, rekening houdend met het initiatief dat de staatshoofden en regeringsleiders van LAC en de EU hebben genomen tijdens de vijfde EU-LAC-topconferentie in Lima, Peru, op 16 mei 2008, herinnerend aan het besluit met betrekking tot de oprichting van de EU-LAC-Stichting dat de staatshoofden en regeringsleiders van de EU en LAC, de voorzitter van de Europese Raad en de voorzitter van de Commissie, op de zesde EU-LAC-topconferentie in Madrid, Spanje, op 18 mei 2010, hebben vastgesteld, herinnerend aan de oprichting in 2011 van een voorlopige stichting in de Bondsrepubliek Duitsland, die haar activiteiten zal stopzetten en zal worden ontbonden wanneer de internationale oprichtingsovereenkomst van de EU-LAC-Stichting in werking treedt, nogmaals wijzend op de noodzaak om een internationale organisatie van intergouvernementele aard als internationaal rechtssubject op te richten op basis van een „internationale oprichtingsovereenkomst van de EU-LAC-Stichting gebaseerd op het mandaat dat tijdens een ministeriële bijeenkomst in de marge van de 6e EU-LAC-topconferentie van Madrid,” is vastgesteld en dat bijdraagt tot de versterking van de bestaande banden tussen de Latijns-Amerikaanse en Caribische Staten, de EU en de EU-lidstaten, zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Voorwerp
 
@@ -266,7 +235,7 @@ Vanaf de datum van de inwerkingtreding van deze overeenkomst stelt de uitvoerend
 
 ##### Artikel 19. Strategische partnerschappen
 
-1. De Stichting heeft vier oorspronkelijke strategische partners: **L’Institut des Amériques** in Frankrijk en **Regione Lombardia** in Italië voor de EU, en de **Global Foundation for Democracy and Development** (FUNGLODE) in de Dominicaanse Republiek en de Economische Commissie van de Verenigde Naties voor Latijns-Amerika en het Caribisch Gebied (ECLAC) voor de Latijns-Amerikaanse en Caribische Staten.
+1. De Stichting heeft vier oorspronkelijke strategische partners: *L’Institut des Amériques* in Frankrijk en *Regione Lombardia* in Italië voor de EU, en de *Global Foundation for Democracy and Development* (FUNGLODE) in de Dominicaanse Republiek en de Economische Commissie van de Verenigde Naties voor Latijns-Amerika en het Caribisch Gebied (ECLAC) voor de Latijns-Amerikaanse en Caribische Staten.
 
 2. Om haar doelstellingen te bereiken, kan de EU-LAC-Stichting toekomstige strategische partnerschappen opzetten met intergouvernementele organisaties, staten, publieke of private instellingen van beide regio's, met strikte inachtneming van het beginsel van biregionaal evenwicht.
 

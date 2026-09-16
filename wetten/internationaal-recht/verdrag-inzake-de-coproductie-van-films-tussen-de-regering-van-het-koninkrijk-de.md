@@ -1,199 +1,162 @@
 ---
 title: "Verdrag inzake de coproductie van films tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China"
 identifier: "BWBV0006554"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-06-03"
-last_updated: "2016-06-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006554"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005331033"
-version_id: "10005740252"
-internal_id: "C10009076101"
-label_id: "10005314164"
-dtd_version: "2.0"
-original_entry_into_force: "2016-06-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006554/2016-06-03/0"
-intitule_bron: "Trb.2015-176"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-11-04"
-intitule_in_force: "2016-05-24"
-intitule_status: "goed"
-original_publication: "Trb.2015-176"
-original_published_date: "2015-11-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2015-176"
-entry_into_force_date: "2016-06-03"
-jci_1_3: "jci1.3:c:BWBV0006554&z=2016-06-03&g=2016-06-03"
-jci_1_0: "1.0:c:BWBV0006554&g=2016-06-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-06-03"
+publicatiedatum: 2016-06-03
+laatste_update: 2016-06-03
+status: geldig
+toestand: 2016-06-03
+bron: "https://wetten.overheid.nl/BWBV0006554"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag inzake de coproductie van films tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China
 
-De Regering van het Koninkrijk der Nederlanden
+*The Government of the Kingdom of the Netherlands and the Government of the People’s Republic of China (“the Contracting Parties”); Considering that the film industries of the two countries will benefit from closer mutual co-operation in the production of films; Seeking to build on and expand cooperation between the two countries in the area of film; Desirous of enhancing and facilitating the co-production of films which may be conducive to the film industries of both countries and to the development of their cultural and economic exchanges; Convinced that these exchanges will contribute to the enhancement of relations between the two countries; Have agreed as follows:*
 
-en
+##### Article 1. Definitions
 
-de Regering van de Volksrepubliek China („de verdragsluitende partijen”);
+1.1. For the purposes of this Agreement:
 
-Overwegende dat de filmindustrie van beide landen baat heeft bij nauwere wederzijdse samenwerking bij de productie van films;
+- a. “Co-producer” means film production companies or producers of China or film production companies or producers of the Netherlands involved in the making of a co-production film, or, in relation to third-party co-productions under [Article 6](https://wetten.overheid.nl/BWBV0006554), includes co-producers which are not Nationals of either China or the Netherlands.
 
-Ernaar strevend voort te bouwen op de samenwerking op filmgebied tussen beide landen en deze uit te breiden;
+- b. “Co-production Film” is a film made by one or more Chinese producers (“the Chinese co-producer”) in conjunction with one or more producers from the Netherlands (“the Netherlands co-producer”) through joint investment and copyright, and includes a film to which [Article 6](https://wetten.overheid.nl/BWBV0006554) applies. A Co-production Film has a minimum creative and financial contribution from each co-producer, as set out in the [Annex](https://wetten.overheid.nl/BWBV0006554).
 
-Geleid door de wens de coproductie van films te versterken en te faciliteren, hetgeen bevorderlijk kan zijn voor de filmindustrie van beide landen en voor de ontwikkeling van hun culturele en economische uitwisselingen;
+- c. “Film” means an aggregate of images, or of images and sounds, embodied in any material, including but not limited to fiction films, documentaries and animation films, and which are primarily intended for theatrical release, television, mobile phones and on/line platforms. “Film” also includes a film of a like nature to a feature film made for television (“telemovies”).
 
-Ervan overtuigd dat deze uitwisselingen bijdragen aan het verbeteren van de betrekkingen tussen beide landen;
+- d. “Nationals” means:
 
-Zijn het volgende overeengekomen:
+   - i. in relation to China, citizens and legal persons of China;
 
-##### Artikel 1. Begripsomschrijvingen
+   - ii. in relation to the Netherlands, any individual possessing Dutch nationality;
 
-1.1. Voor de toepassing van dit Verdrag:
+- e. “Residents” means:
 
-- a. betekent „coproducent” filmproductiebedrijven of producenten uit China of filmproductiebedrijven of producenten uit Nederland die betrokken zijn bij het maken van een gecoproduceerde film, of omvat, met betrekking tot met derden gecoproduceerde films ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=6&z=2016-06-03&g=2016-06-03), coproducenten die geen onderdanen van China of Nederland zijn;
+   - i. in relation to China, natural persons which are long-term or permanent Residents of China;
 
-- b. is een „gecoproduceerde film” een film die door één of meer producenten uit China („de Chinese coproducent”) in samenwerking met één of meer producenten uit Nederland („de Nederlandse coproducent”) is gemaakt door middel van een gezamenlijke investering en gezamenlijk copyright, en omvat een film waarop [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=6&z=2016-06-03&g=2016-06-03) van toepassing is. Een gecoproduceerde film bevat een minimale creatieve en financiële bijdrage van elke coproducent, zoals vervat in de Bijlage;
+   - ii. in relation to the Netherlands, persons who do not possess Dutch nationality but are permanent Residents of the Netherlands.
 
-- c. betekent „film” een samenstelling van beelden of van beelden en geluiden, die op een drager zijn vastgelegd, met inbegrip van, maar niet beperkt tot, speelfilms, documentaires en animatiefilms, en die voornamelijk bedoeld zijn voor theatrale vertoning en op televisie, mobiele telefoons en online platforms. Onder „film” wordt mede verstaan een met een speelfilm gelijk te stellen film die voor televisie is gemaakt („televisiefilms”);
+- f. “Competent Authorities” means the authorities designated as such by the Contracting Parties as set out in the [Annex](https://wetten.overheid.nl/BWBV0006554).
 
-- d. betekent „onderdanen”:
+##### Article 2. Recognition as a National Film and Entitlement to Benefits
 
-- i. met betrekking tot China, burgers en rechtspersonen uit China;
+2.1. A Co-production Film shall be entitled to the full enjoyment of all the benefits which are or may be accorded in China and the Netherlands respectively to national films subject to the laws and/or regulations in force from time to time in each country. These benefits accrue solely to the co-producer of the country that grants them.
 
-- ii. met betrekking tot Nederland, alle natuurlijke personen met de Nederlandse nationaliteit;
+2.2. The benefits referred to in paragraph (2.1) of this Article include, in particular:
 
-- e. betekent „ingezetenen”:
+- a. the lifting of any quota restrictions that would otherwise apply to the import, distribution or exhibition of the film, and
 
-- i. met betrekking tot China, natuurlijke personen, die langdurig of permanent ingezetenen van China zijn;
+- b. access to any special import arrangements, agreed between a Party and a third country which operates import quota restrictions, for the import of domestic films of that Party.
 
-- ii. met betrekking tot Nederland, personen die niet de Nederlandse nationaliteit bezitten maar permanent ingezetenen van Nederland zijn;
+2.3. Notwithstanding paragraphs 2.1 and 2.2 of this Article, eligibility for any benefits in fiscal treatment (subject to the film satisfying the criteria that domestic films must meet for such benefits) follows exclusively from the laws and/or regulations in force from time to time in each country, due regard being had to the provisions of the [Agreement Between the Government of the Kingdom of the Netherlands and the Government of the People’s Republic of China for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income](https://wetten.overheid.nl/BWBV0006192) signed in Beijing on May 31, 2013.
 
-- f. betekent „bevoegde autoriteiten” de autoriteiten die als zodanig zijn aangewezen door de verdragsluitende partijen, zoals vervat in de Bijlage.
+##### Article 3. Competent Authorities
 
-##### Artikel 2. Erkenning als nationale film en recht op voordelen
+3.1. The Competent Authority of each Contracting Party shall be set out in the [Annex](https://wetten.overheid.nl/BWBV0006554) to this Agreement. Notwithstanding [Article 14](https://wetten.overheid.nl/BWBV0006554), if a Contracting Party wishes to designate another authority as its Competent Authority, that Contracting Party shall notify the other Contracting Party in advance in writing through diplomatic channels of such changes.
 
-2.1. Voor een gecoproduceerde film kan aanspraak worden gemaakt op alle voordelen die in respectievelijk China en Nederland aan nationale films worden of kunnen worden toegekend, met inachtneming van de wet- en/of regelgeving die op enig moment in elk land van kracht is. Deze voordelen komen uitsluitend toe aan de coproducent van het land dat deze toekent.
+##### Article 4. Approval of Projects
 
-2.2. De in het eerste lid van dit artikel bedoelde voordelen omvatten in het bijzonder:
+4.1. Co-production Films must receive provisional approval from the respective Competent Authorities before they are put into production. It is the responsibility of the co-producers to provide any documentation required by the Competent Authorities to enable the Competent Authorities to complete their provisional approval processes.
 
-- a. het opheffen van quotabeperkingen die anders van toepassing zouden zijn op de invoer, distributie of vertoning van de film, en
+4.2. Co-production Films must be made in accordance with the terms of the provisional approval which has been given by the Competent Authorities.
 
-- b. toegang tot bijzondere invoerregelingen die overeengekomen zijn tussen een partij en een derde land dat invoerquotabeperkingen hanteert voor de invoer van nationale films van die partij.
+4.3. Upon completion of production, it is the responsibility of the co-producers to submit to the Competent Authorities the completed Co-production Film (and any documentation required by the Competent Authorities) to enable the Competent Authorities to complete their final approval processes before the Co-production Film receives the benefits of final approval, pursuant to [Article 2.1](https://wetten.overheid.nl/BWBV0006554).
 
-2.3. Niettegenstaande de bepalingen van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=2&z=2016-06-03&g=2016-06-03), vloeit aanspraak op fiscale voordelen (mits de film voldoet aan de criteria waaraan nationale films voor deze voordelen dienen te voldoen) uitsluitend voort uit de wet- en/of regelgeving die op enig moment in elk land van kracht is, zulks met zorgvuldige inachtneming van de bepalingen van het [Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen](onbekend), ondertekend op 31 mei 2013 te Beijing.
+4.4. In determining both provisional and final approval, the Competent Authorities shall apply the [Annex](https://wetten.overheid.nl/BWBV0006554) to this Agreement to Co-production Films.
 
-##### Artikel 3. Bevoegde autoriteiten
+4.5. The Competent Authorities shall consult with each other to enable them to determine whether a project conforms with the provisions of this Agreement. Each Competent Authority, in deciding whether to grant or refuse provisional or final approval, shall apply its own policies and guidelines.
 
-3.1. De bevoegde autoriteit van elke verdragsluitende partij wordt vermeld in de Bijlage bij dit Verdrag. Wanneer een verdragsluitende partij een andere autoriteit wenst aan te wijzen als haar bevoegde autoriteit, dient zij, niettegenstaande [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=14&z=2016-06-03&g=2016-06-03), de andere partij langs diplomatieke weg vooraf schriftelijk in kennis te stellen van deze wijziging.
+4.6. When approving a Co-production Film, each Competent Authority may stipulate conditions of approval framed in order to achieve the general aims and objectives of this Agreement. In the event of a disagreement between the Competent Authorities about the giving of such an approval or the inclusion of such a condition, the project concerned shall not be approved under this Agreement.
 
-##### Artikel 4. Goedkeuring van projecten
+4.7. In relation to China, a Co-production Film will be recognized as having completed the provisional approval process once the Chinese Competent Authority has granted it “Project Establishment” status. A Co-production Film will be recognized as having completed the final approval process once the Chinese Competent Authority has granted it the “Film Public Screening Permit”.
 
-4.1. Voor gecoproduceerde films dient voorlopige goedkeuring van de onderscheiden bevoegde autoriteiten te worden verkregen alvorens zij in productie worden genomen. Het is de verantwoordelijkheid van de coproducenten de door de bevoegde autoriteiten gewenste documentatie te verstrekken om de bevoegde autoriteiten in staat te stellen hun proces van voorlopige goedkeuring af te ronden.
+4.8. In relation to the Netherlands, a Co-production Film will be recognized as having completed the provisional approval process once the Netherlands Competent Authority provides written notification to the Netherlands co-producer that provisional approval has been granted. A Co-production Film will be recognized as having completed the final approval process once the Netherlands Competent Authority provides written notification to the Netherlands co-producer that final approval has been granted.
 
-4.2. Gecoproduceerde films dienen te worden gemaakt overeenkomstig de voorwaarden van de voorlopige goedkeuring die door de bevoegde autoriteiten is verleend.
+##### Article 5. Requirements on Co-production Companies/Individuals
 
-4.3. Na voltooiing van de productie is het de verantwoordelijkheid van de coproducenten de voltooide gecoproduceerde film (en alle door de bevoegde autoriteiten vereiste documentatie) te overleggen aan de bevoegde autoriteiten om hen in staat te stellen hun procedures voor definitieve goedkeuring af te ronden alvorens voor de gecoproduceerde film de voordelen verbonden aan definitieve goedkeuring worden verkregen, ingevolge [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=2&z=2016-06-03&g=2016-06-03).
+5.1. Production companies involved in a Co-production Film must be registered in accordance with the laws and regulations of the relevant Contracting Party. In addition, individual producers, production companies and studios must obtain any permit which is required by the Competent Authorities.
 
-4.4. Bij het vaststellen van de voorlopige en definitieve goedkeuring passen de bevoegde autoriteiten de Bijlage bij dit Verdrag toe op gecoproduceerde films.
+5.2. Co-production Films must be undertaken by film producers whose technical and financial capacity and professional experience satisfy the requirements of the respective Competent Authorities’ approval processes.
 
-4.5. Om te kunnen bepalen of een project voldoet aan de bepalingen van dit Verdrag treden de bevoegde autoriteiten met elkaar in overleg. Bij het bepalen of voorlopige of definitieve goedkeuring wordt verleend of geweigerd past elke bevoegde autoriteit haar eigen beleid en richtlijnen toe.
+##### Article 6. Co-productions with Third-parties
 
-4.6. Bij goedkeuring van een gecoproduceerde film kan elke autoriteit voorwaarden voor goedkeuring vaststellen teneinde de algemene doelstellingen van dit Verdrag te verwezenlijken. Wanneer de bevoegde autoriteiten geen overeenstemming bereiken over het verlenen van een dergelijke goedkeuring of het opnemen van een dergelijke voorwaarde, wordt het betreffende project niet goedgekeurd ingevolge dit Verdrag.
+6.1. With joint approval by the competent authorities, any third party co-producer may participate in co-producing a Co-production Film under this Agreement.
 
-4.7. Met betrekking tot China wordt een gecoproduceerde film geacht de procedure voor voorlopige goedkeuring te hebben doorlopen zodra de Chinese bevoegde autoriteit het project de status van „vastgesteld project” heeft toegekend. Een gecoproduceerde film wordt geacht de procedure voor definitieve goedkeuring te hebben doorlopen zodra de Chinese bevoegde autoriteit de film „vergunning voor publieke vertoning” heeft toegekend.
+##### Article 7. Application for Co-production Status
 
-4.8. Met betrekking tot Nederland wordt een gecoproduceerde film geacht de procedure voor voorlopige goedkeuring te hebben doorlopen zodra de Nederlandse bevoegde autoriteit de Nederlandse coproducent er schriftelijk van in kennis stelt dat de voorlopige goedkeuring is verleend. Een gecoproduceerde film wordt geacht de procedure voor definitieve goedkeuring te hebben doorlopen zodra de Nederlandse bevoegde autoriteit de Nederlandse coproducent er schriftelijk van in kennis stelt dat de definitieve goedkeuring is verleend.
+7.1. The Chinese co-producer is responsible for applying for co-production status in China and doing all that is necessary to ensure the Co-production Film complies with the requirements of both the Chinese Competent Authority and the Chinese handling organization for granting co-production status.
 
-##### Artikel 5. Vereisten voor coproductiebedrijven/natuurlijke personen
+7.2. The Netherlands co-producer is responsible for applying for co-production status in the Netherlands and doing all that is necessary to ensure the Co-production Film complies with the requirements of the Netherlands Competent Authority for granting co-production status.
 
-5.1. Productiebedrijven die betrokken zijn bij een gecoproduceerde film dienen te zijn geregistreerd in overeenstemming met de wet- en regelgeving van de desbetreffende verdragsluitende partij. Daarnaast dienen individuele producenten, productiebedrijven en studio’s elke vergunning te verkrijgen die de bevoegde autoriteiten vereisen.
+7.3. Any third party co-producer shall fulfill all conditions relating to the co-production status which would be required to be fulfilled to produce a film under the terms of the film co-production treaty in force between that co-producer’s territory and either China or the Netherlands.
 
-5.2. Gecoproduceerde films dienen te worden gemaakt door filmproducenten wier technische en financiële mogelijkheden en professionele ervaring voldoen aan de vereisten van de goedkeuringsprocedures van de onderscheiden bevoegde autoriteiten.
+##### Article 8. Import of Equipment
 
-##### Artikel 6. Met derden gecoproduceerde films
+8.1. Each of the Contracting Parties shall provide, in accordance with their respective legislation, temporary admission, free of import duties and taxes, of cinematographic equipment for the making of Co-production Films.
 
-6.1. Met wederzijdse instemming van de bevoegde autoriteiten kan elke derde als coproducent deelnemen aan een gecoproduceerde film ingevolge dit Verdrag.
+##### Article 9. Immigration Facilitation
 
-##### Artikel 7. Aanvraag van coproductiestatus
+9.1. Each of the Contracting Parties shall permit the personnel of the other country who conform with [Article 1-1 (d) and (e)](https://wetten.overheid.nl/BWBV0006554) and citizens of the territory of any third party co-producer to enter and remain in China or the Netherlands as the case may be, for the purpose of making or exploiting a Co-production Film, subject to the requirement that they comply with the relevant laws in the respective territories relating to entry and stay including return.
 
-7.1. De Chinese coproducent is verantwoordelijk voor het aanvragen van de coproductiestatus in China en dient al het nodige te doen om te waarborgen dat de gecoproduceerde film voldoet aan de eisen voor het toekennen van de coproductiestatus van zowel de Chinese bevoegde autoriteit als de Chinese uitvoerende organisatie.
+##### Article 10. Respect for Laws and Cultural Practices
 
-7.2. De Nederlandse coproducent is verantwoordelijk voor het aanvragen van de coproductiestatus in Nederland en dient al het nodige te doen om te waarborgen dat de gecoproduceerde film voldoet aan de eisen voor het toekennen van de coproductiestatus van de Nederlandse bevoegde autoriteit.
+10.1. The production crews from both Contracting Parties shall respect the constitution, laws and regulations, ethnic cultures, religious beliefs and local customs and conventions of the country where location shooting takes place.
 
-7.3. Elke derde coproducent dient te voldoen aan alle voorwaarden verbonden aan de coproductiestatus waaraan voldaan zou moeten worden bij de productie van een film onder de voorwaarden van het verdrag inzake de coproductie van films dat van kracht is tussen het grondgebied van deze coproducent en hetzij China, hetzij Nederland.
+##### Article 11. Permission to Exhibit Publicly
 
-##### Artikel 8. Invoer van apparatuur
+11.1. The approval of a Co-production Film by the Competent Authorities shall not bind the relevant authorities in either Contracting Party to permit the public exhibition of the resulting film in their country.
 
-8.1. Elke verdragsluitende partij voorziet, in overeenstemming met haar eigen wetgeving, in de tijdelijke toelating, vrij van invoerrechten en -heffingen, van filmapparatuur voor het maken van gecoproduceerde films.
+##### Article 12. International Film Festivals
 
-##### Artikel 9. Faciliteren van immigratie
+12.1. The majority co-producer enjoys first option to send a Co-production Film to film festivals. If both co-producers approve, either one may send a Co-production Film to international film festivals provided that the respective Competent Authorities have been informed of this intention 30 days before the event starts.
 
-9.1. Elk van de verdragsluitende partijen verleent toestemming aan het personeel van het andere land dat voldoet aan [artikel 1, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=1&z=2016-06-03&g=2016-06-03), en aan burgers van het grondgebied van een derde coproducent om China of Nederland, naargelang van het geval, binnen te komen en er te verblijven ten behoeve van het maken of exploiteren van een gecoproduceerde film, op voorwaarde dat zij zich houden aan de relevante wetten van de onderscheiden grondgebieden met betrekking tot binnenkomst en verblijf, met inbegrip van terugkeer.
+##### Article 13. Exchange of Films
 
-##### Artikel 10. Eerbiediging van wetten en culturele gebruiken
+13.1. The Competent Authorities encourage the film organizations and individuals of the two countries to exchange and cooperate with each other, including importation and exhibition of each other’s films, and location shooting and production in each other’s territory.
 
-10.1. De productiecrews van beide verdragsluitende partijen eerbiedigen de grondwet, wet- en regelgeving, etnische culturen, religieuze overtuigingen en lokale gebruiken en conventies van het land waar op locatie wordt gefilmd.
+##### Article 14. Status of Annex
 
-##### Artikel 11. Toestemming voor publieke vertoning
+14.1. The [Annex](https://wetten.overheid.nl/BWBV0006554) to this Agreement forms an integral part of this Agreement, implementing this Agreement.
 
-11.1. De goedkeuring van een gecoproduceerde film door de bevoegde autoriteiten verplicht de desbetreffende autoriteiten van een verdragsluitende partij niet toestemming te verlenen voor de publieke vertoning van de uiteindelijke film in hun land.
+14.2. Subject to [Article 3.1](https://wetten.overheid.nl/BWBV0006554) and notwithstanding [Article 15.2](https://wetten.overheid.nl/BWBV0006554), any modifications to the [Annex](https://wetten.overheid.nl/BWBV0006554) shall be jointly agreed by the Competent Authorities. No modification to the Annex shall conflict with the provisions of this Agreement.
 
-##### Artikel 12. Internationale filmfestivals
+14.3. Modifications to the [Annex](https://wetten.overheid.nl/BWBV0006554) shall be confirmed by diplomatic notes and shall take effect on the date specified in such diplomatic note.
 
-12.1. De coproducent met de grootste inbreng heeft het eerste recht op het inzenden van een gecoproduceerde film naar een filmfestival. Indien beide coproducenten hiermee instemmen kan elk van hen een gecoproduceerde film naar een internationaal filmfestival zenden, mits de onderscheiden bevoegde autoriteiten ten minste 30 dagen voordat het evenement begint van dit voornemen in kennis zijn gesteld.
+##### Article 15. Amendment and Review
 
-##### Artikel 13. Uitwisseling van films
+15.1. The Competent Authorities of both Contracting Parties shall supervise and review the working of this Agreement, strive to resolve any difficulties in its implementation, and make any proposals considered necessary for any modification of this Agreement.
 
-13.1. De bevoegde autoriteiten moedigen filmorganisaties en personen in beide landen aan tot uitwisseling en samenwerking, met inbegrip van de invoer en vertoning van elkaars films en het filmen op locatie en productie op elkaars grondgebied.
+15.2. The Contracting Parties may amend this Agreement by mutual consent. Any such amendments shall enter into force in accordance with the terms specified in [Article 16.1](https://wetten.overheid.nl/BWBV0006554).
 
-##### Artikel 14. Status van de Bijlage
+##### Article 16. Entry into Force
 
-14.1. De Bijlage bij dit Verdrag maakt integraal onderdeel uit van dit Verdrag en strekt tot uitvoering ervan.
+16.1. This Agreement shall enter into force once the Contracting Parties have, through diplomatic channel, notified each other that their respective domestic requirements for entry into force have been completed. This Agreement shall enter into force on the thirtieth day after the receipt of the latter date of these two notifications.
 
-14.2. Met inachtneming van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=3&z=2016-06-03&g=2016-06-03), en niettegenstaande [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=15&z=2016-06-03&g=2016-06-03), dienen de bevoegde autoriteiten gezamenlijk wijzigingen van de Bijlage overeen te komen. Geen enkele wijziging van de Bijlage mag in strijd zijn met de bepalingen van dit Verdrag.
+16.2. Regarding the Kingdom of the Netherlands, this Agreement shall apply to the European part of the Netherlands only.
 
-14.3. Wijzigingen van de Bijlage worden bevestigd door middel van een diplomatieke nota en treden in werking op de datum vermeld in de diplomatieke nota.
+##### Article 17. International Obligations
 
-##### Artikel 15. Wijziging en toetsing
+17.1. The provisions of this Agreement are without prejudice to other international obligations of the Contracting Parties, including the obligations of the Government of the Kingdom of the Netherlands arising from the European Union Law.
 
-15.1. De bevoegde autoriteiten van beide verdragsluitende partijen houden toezicht op en toetsen de werking van dit Verdrag, streven ernaar problemen bij de uitvoering ervan op te lossen en doen de voorstellen die nodig worden geacht voor wijziging van dit Verdrag.
+##### Article 18. Duration and Termination
 
-15.2. Dit Verdrag kan met wederzijdse instemming van de verdragsluitende partijen worden gewijzigd. Deze wijzigingen worden van kracht in overeenstemming met de voorwaarden vervat in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=16&z=2016-06-03&g=2016-06-03).
+18.1. This Agreement shall remain in force for a period of four years.
 
-##### Artikel 16. Inwerkingtreding
+18.2. Either Contracting Party may terminate this Agreement by giving six months’ written notice to the other Contracting Party.
 
-16.1. Dit Verdrag treedt in werking zodra de verdragsluitende partijen elkaar er via diplomatieke weg schriftelijk van in kennis hebben gesteld dat hun onderscheiden nationale vereisten voor de inwerkingtreding zijn afgerond. Dit Verdrag treedt in werking dertig dagen na ontvangst van de laatste van deze twee kennisgevingen.
+18.3. If no written notice is given by either Contracting Party six months before the expiration date, this Agreement shall be automatically extended for a further period of four years, and shall thereafter be renewable for similar periods accordingly.
 
-16.2. Wat het Koninkrijk der Nederlanden betreft is dit Verdrag uitsluitend van toepassing op het Europese deel van Nederland.
-
-##### Artikel 17. Internationale verplichtingen
-
-17.1. De bepalingen van dit Verdrag laten de overige internationale verplichtingen van de verdragsluitende partijen, met inbegrip van de verplichtingen van de regering van het Koninkrijk der Nederlanden ingevolge de wetgeving van de Europese Unie, onverlet.
-
-##### Artikel 18. Duur en beëindiging
-
-18.1. Dit Verdrag blijft van kracht gedurende een tijdvak van vier jaar.
-
-18.2. Elke verdragsluitende partij kan dit Verdrag opzeggen door de andere verdragsluitende partij ten minste zes maanden van tevoren schriftelijk daarvan in kennis te stellen.
-
-18.3. Indien geen van de verdragsluitende partijen zes maanden voor de vervaldatum een schriftelijke kennisgeving heeft gedaan, wordt dit Verdrag automatisch verlengd met een tijdvak van nogmaals vier jaar en kan daarna dienovereenkomstig met dezelfde tijdvakken worden verlengd.
-
-18.4. Een film die is gemaakt overeenkomstig de goedkeuring van de bevoegde autoriteiten ingevolge dit Verdrag maar die na beëindiging van dit Verdrag wordt voltooid, wordt behandeld als een gecoproduceerde film en de coproducenten ervan hebben dienovereenkomstig recht op alle voordelen van dit Verdrag.
-
-#### A. Bevoegde autoriteiten
-
-#### B. Regels die van toepassing zijn op gecoproduceerde films
+18.4. A film made in accordance with an approval by the Competent Authorities under this Agreement but completed after the termination of this Agreement shall be treated as a co-production film and its co-producers shall accordingly be entitled to all the benefits of this Agreement.
 
 IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Agreement.
 
 DONE at Beijing, on 26 October 2015, in duplicate in the Dutch, Chinese and English languages, all texts being equally authentic. In case of divergence in interpretation, the English text shall prevail.
 
-**For the Government of the Kingdom of the Netherlands,**
+*For the Government of the Kingdom of the Netherlands,*
 
 A.G. KOENDERS
 
-**For the Government of the People’s Republic of China,**
+*For the Government of the People’s Republic of China,*
 
 CAI FUCHAO

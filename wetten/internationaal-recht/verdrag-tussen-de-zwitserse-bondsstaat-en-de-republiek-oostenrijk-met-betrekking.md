@@ -1,35 +1,16 @@
 ---
 title: "Verdrag tussen de Zwitserse Bondsstaat en de Republiek Oostenrijk met betrekking tot de oprichting en werking van het Internationaal Centrum voor de ontwikkeling van migratiebeleid (ICMPD), zoals gewijzigd bij het Verdrag van 27 maart 1996, het Verdrag van 26 april 1996 en het Verdrag van 25 juni 2003, en zoals aangevuld door het Verdrag van 26 mei 2014"
 identifier: "BWBV0006819"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-04-21"
-last_updated: "1993-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006819"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005496763"
-version_id: "10005978492"
-internal_id: "C10009984751"
-label_id: "10005479684"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006819/2023-04-21/0"
-intitule_bron: "Trb.2019-92"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-06-20"
-intitule_in_force: "2023-04-28"
-intitule_status: "goed"
-original_publication: "Trb.2019-92"
-original_published_date: "2019-06-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2019-92"
-entry_into_force_date: "2023-04-21"
-jci_1_3: "jci1.3:c:BWBV0006819&z=2023-04-21&g=2023-04-21"
-jci_1_0: "1.0:c:BWBV0006819&g=2023-04-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-04-21"
+publicatiedatum: 2023-04-21
+laatste_update: 2023-04-21
+status: geldig
+toestand: 2023-04-21
+bron: "https://wetten.overheid.nl/BWBV0006819"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen de Zwitserse Bondsstaat en de Republiek Oostenrijk met betrekking tot de oprichting en werking van het Internationaal Centrum voor de ontwikkeling van migratiebeleid (ICMPD), zoals gewijzigd bij het Verdrag van 27 maart 1996, het Verdrag van 26 april 1996 en het Verdrag van 25 juni 2003, en zoals aangevuld door het Verdrag van 26 mei 2014
 
 ##### Artikel 1. Doel van het verdrag
@@ -58,33 +39,33 @@ De stuurgroep vergadert zo vaak als de gang van zaken vereist, maar ten minste d
 
 De stuurgroep:
 
-- –. oefent het algemene toezicht op het ICMPD uit;
+- – oefent het algemene toezicht op het ICMPD uit;
 
-- –. benoemt de directeur van het ICMPD;
+- – benoemt de directeur van het ICMPD;
 
-- –. verleent goedkeuring aan het jaarverslag van de directeur van het ICMPD;
+- – verleent goedkeuring aan het jaarverslag van de directeur van het ICMPD;
 
-- –. verleent goedkeuring aan en financiert de reguliere jaarbegroting van het ICMPD;
+- – verleent goedkeuring aan en financiert de reguliere jaarbegroting van het ICMPD;
 
-- –. verleent goedkeuring aan de jaarrekening van het ICMPD;
+- – verleent goedkeuring aan de jaarrekening van het ICMPD;
 
-- –. verleent goedkeuring aan het werkprogramma van het ICMPD;
+- – verleent goedkeuring aan het werkprogramma van het ICMPD;
 
-- –. verleent goedkeuring aan het conferentieprogramma van het ICMPD;
+- – verleent goedkeuring aan het conferentieprogramma van het ICMPD;
 
-- –. verleent goedkeuring aan de overeenkomsten van het ICMPD;
+- – verleent goedkeuring aan de overeenkomsten van het ICMPD;
 
-- –. verleent goedkeuring aan de door of aan het ICMPD voorgestelde projecten;
+- – verleent goedkeuring aan de door of aan het ICMPD voorgestelde projecten;
 
-- –. ondersteunt het ICMPD in zijn politieke contacten;
+- – ondersteunt het ICMPD in zijn politieke contacten;
 
-- –. neemt kennis van de voortgangsberichten van het ICMPD;
+- – neemt kennis van de voortgangsberichten van het ICMPD;
 
-- –. adviseert de directeur van het ICMPD op conceptueel gebied;
+- – adviseert de directeur van het ICMPD op conceptueel gebied;
 
-- –. benoemt de leden van het adviesorgaan;
+- – benoemt de leden van het adviesorgaan;
 
-- –. adviseert en beslist over de toelating van andere partijen.
+- – adviseert en beslist over de toelating van andere partijen.
 
 ##### Artikel 5. Directeur van het ICMPD
 
@@ -134,4 +115,4 @@ Elke verdragsluitende staat kan het verdrag opzeggen met inachtneming van een op
 
 ##### Artikel 12. Inwerkingtreding
 
-Het onderhavige verdrag treedt met terugwerkende kracht in werking op 1 mei 1993.
+Het onderhavige verdrag treedt met terugwerkende kracht in werking op 1 mei 1993.

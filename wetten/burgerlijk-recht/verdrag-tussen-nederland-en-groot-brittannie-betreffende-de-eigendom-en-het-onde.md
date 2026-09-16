@@ -1,46 +1,19 @@
 ---
 title: "Verdrag tussen Nederland en Groot-Brittannië betreffende de eigendom en het onderhoud van onderzeese kabels"
 identifier: "BWBV0006138"
-country: "nl"
-rank: "verdrag"
-publication_date: "1897-01-01"
-last_updated: "1897-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006138"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005045213"
-version_id: "10005376812"
-internal_id: "C10008293041"
-label_id: "10005028154"
-dtd_version: "2.0"
-original_entry_into_force: "1897-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006138/1897-01-01/0"
-intitule_bron: "Stb.1898-270"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1898-12-21"
-intitule_published: "1898-12-31"
-intitule_in_force: "1898-12-31"
-intitule_status: "goed"
-original_publication: "Stb.1898-270"
-original_signed_date: "1898-12-21"
-original_published_date: "1898-12-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1897-01-01"
-jci_1_3: "jci1.3:c:BWBV0006138&z=1897-01-01&g=1897-01-01"
-jci_1_0: "1.0:c:BWBV0006138&g=1897-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1898-12-21"
-entry_into_force: "1897-01-01"
+publicatiedatum: 1897-01-01
+laatste_update: 1897-01-01
+status: geldig
+toestand: 1897-01-01
+bron: "https://wetten.overheid.nl/BWBV0006138"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen Nederland en Groot-Brittannië betreffende de eigendom en het onderhoud van onderzeese kabels
 
-**Hare Majesteit de Koningin der Nederlanden** en in HoogstDerzelver naam **Hare Majesteit de Koningin-Weduwe, Regentes van het Koninkrijk**, en **Hare Majesteit de Koningin van het Vereenigd Koninkrijk van Groot-Britannië en Ierland, Keizerin van Indië,** wenschende dat de twee onderzeesche telegraafkabels, zoowel als alle nieuwe onderzeesche kabels, hetzij voor telegraphische, hetzij voor telephonische doeleinden, welke de kusten van de twee landen verbinden of zullen verbinden, in den vervolge het gemeenschappelijk eigendom van detwee landen zullen zijn, hebben, tot het aangaan van een verdrag, daartoe als HoogstDerzelver Gevolmachtigden aangewezen:
-
-**Hare Majesteit de Koningin-Weduwe, Regentes van het Koninkrijk der Nederlanden**, den heer WILLEM HENDRIK DE BEAUFORT, Minister van Buitenlandsche Zaken,
-
-en **Hare Majesteit de Koningin van het Vereenigd Koninkrijk van Groot-Britannië en Ierland, Keizerin van Indië,** den heer HENRY HOWARD, HoogstDerzelver Buitengewoon Gezant en Gevolmachtigd Minister bij het Nederlandsche Hof,
-
-die, na overlegging van hunne in goeden en behoorlijken vorm bevonden volmachten, omtrent de volgende bepalingen zijn overeengekomen:
+*Hare Majesteit de Koningin der Nederlanden en in HoogstDerzelver naam Hare Majesteit de Koningin-Weduwe, Regentes van het Koninkrijk, en Hare Majesteit de Koningin van het Vereenigd Koninkrijk van Groot-Britannië en Ierland, Keizerin van Indië, wenschende dat de twee onderzeesche telegraafkabels, zoowel als alle nieuwe onderzeesche kabels, hetzij voor telegraphische, hetzij voor telephonische doeleinden, welke de kusten van de twee landen verbinden of zullen verbinden, in den vervolge het gemeenschappelijk eigendom van detwee landen zullen zijn, hebben, tot het aangaan van een verdrag, daartoe als HoogstDerzelver Gevolmachtigden aangewezen: Hare Majesteit de Koningin-Weduwe, Regentes van het Koninkrijk der Nederlanden, den heer WILLEM HENDRIK DE BEAUFORT, Minister van Buitenlandsche Zaken, en Hare Majesteit de Koningin van het Vereenigd Koninkrijk van Groot-Britannië en Ierland, Keizerin van Indië, den heer HENRY HOWARD, HoogstDerzelver Buitengewoon Gezant en Gevolmachtigd Minister bij het Nederlandsche Hof, die, na overlegging van hunne in goeden en behoorlijken vorm bevonden volmachten, omtrent de volgende bepalingen zijn overeengekomen:*
 
 ##### Artikel 1
 
@@ -100,6 +73,6 @@ Ter oorkonde waarvan de wederzijdsche Gevolmachtigden deze overeenkomst hebben o
 
 Gedaan, in dubbel, te 's Gravenhage den 5den April 1898
 
-(**w. g.**) W. H. DE BEAUFORT.
+(*w. g.*) W. H. DE BEAUFORT.
 
-(**w. g.**) HENRY HOWARD.
+(*w. g.*) HENRY HOWARD.

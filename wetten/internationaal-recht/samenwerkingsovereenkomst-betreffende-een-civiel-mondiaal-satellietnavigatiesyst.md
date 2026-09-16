@@ -1,110 +1,19 @@
 ---
 title: "Samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Korea, anderzijds"
 identifier: "BWBV0006545"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006545"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005328053"
-version_id: "10005732342"
-internal_id: "C10009992841"
-label_id: "10005310864"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006545/2016-07-01/0"
-intitule_bron: "Trb.2006-263"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2006-12-21"
-intitule_in_force: "2023-06-20"
-intitule_status: "goed"
-original_publication: "Trb.2006-263"
-original_published_date: "2006-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-263"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBV0006545&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBV0006545&g=2016-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBV0006545"
+opgehaald: 2026-09-16
 ---
+
 # Samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Korea, anderzijds
 
-De Europese Gemeenschap (hierna de „Gemeenschap” genoemd),
-
-en
-
-Het Koninkrijk België,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-Ierland,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-De Republiek Hongarije,
-
-Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-De partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna „de lidstaten”,
-
-enerzijds, en
-
-De Republiek Korea (hierna „Korea”),
-
-anderzijds,
-
-hierna gezamenlijk „de partijen”;
-
-Gezien de gemeenschappelijke belangen bij de ontwikkeling van een mondiaal navigatiesatellietsysteem (hierna „GNSS”) voor civiel gebruik,
-
-Erkennende het belang van GALILEO als een bijdrage tot de navigatie- en informatie-infrastructuur in Europa en Korea,
-
-Erkennende het geavanceerde niveau van de satellietnavigatieactiviteiten van Korea,
-
-Geziende toenemende ontwikkeling van GNSS-toepassingen in Korea, Europa en andere gebieden in de wereld,
-
-Zijn overeengekomen hetgeen volgt:
+*De Europese Gemeenschap (hierna de „Gemeenschap” genoemd), en Het Koninkrijk België, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, Ierland, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, De Republiek Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, De partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „de lidstaten”, enerzijds, en De Republiek Korea (hierna „Korea”), anderzijds, hierna gezamenlijk „de partijen”; Gezien de gemeenschappelijke belangen bij de ontwikkeling van een mondiaal navigatiesatellietsysteem (hierna „GNSS”) voor civiel gebruik, Erkennende het belang van GALILEO als een bijdrage tot de navigatie- en informatie-infrastructuur in Europa en Korea, Erkennende het geavanceerde niveau van de satellietnavigatieactiviteiten van Korea, Geziende toenemende ontwikkeling van GNSS-toepassingen in Korea, Europa en andere gebieden in de wereld, Zijn overeengekomen hetgeen volgt:*
 
 ##### Artikel 1. Doel van de overeenkomst
 

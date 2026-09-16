@@ -1,145 +1,116 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake de voorrechten en immuniteiten van verbindingsofficieren die door Oekraïne bij Europol gedetacheerd worden"
 identifier: "BWBV0006929"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006929"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005596213"
-version_id: "10006133312"
-internal_id: "C10009912251"
-label_id: "10005578104"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006929/2022-08-01/0"
-intitule_bron: "Trb.2021-121"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-09-29"
-intitule_in_force: "2022-08-19"
-intitule_status: "goed"
-original_publication: "Trb.2021-121"
-original_published_date: "2021-09-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2021-121"
-entry_into_force_date: "2022-08-01"
-jci_1_3: "jci1.3:c:BWBV0006929&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBV0006929&g=2022-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-08-01"
+publicatiedatum: 2022-08-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBV0006929"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake de voorrechten en immuniteiten van verbindingsofficieren die door Oekraïne bij Europol gedetacheerd worden
 
-Het Koninkrijk der Nederlanden
+*The Kingdom of the Netherlands and Ukraine, hereinafter referred to as the Contracting Parties, based on the provisions of Article 8, paragraph 5, and Article 63, paragraph 2, of Regulation (EU) 2016/794 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Law Enforcement Cooperation (Europol) establishing the European Police Office (hereinafter “Europol”), which state that Liaison officers at Europol shall enjoy the privileges and immunities necessary for the performance of their tasks, have agreed as follows:*
 
-en
+##### Article 1. Definitions
 
-Oekraïne,
+For the needs of this Agreement:
 
-hierna te noemen de verdragsluitende partijen,
+- a) “Liaison officer” shall mean any official seconded by Ukraine to the headquarters of Europol in accordance with Article 8 of Regulation (EU) 2016/794 of 11 May 2016;
 
-onder verwijzing naar de bepalingen van artikel 8, vijfde lid, en artikel 63, tweede lid, van [Verordening (EU) 2016/794](32694R2016) van het Europees Parlement en de Raad van 11 mei 2016 betreffende het Agentschap van de Europese Unie voor samenwerking op het gebied van rechtshandhaving (Europol) tot oprichting van een Europese Politiedienst (hierna „Europol”), waarin wordt verklaard dat verbindingsofficieren bij Europol de voorrechten en immuniteiten genieten die nodig zijn voor de vervulling van hun taken,
+- b) “Government” shall mean the Government of the Kingdom of the Netherlands;
 
-zijn het volgende overeengekomen:
+- c) “authorities of the Host State” shall mean those State, municipal and other authorities of the Kingdom of the Netherlands appearing in the context of and in accordance with the application of laws and customs of the Kingdom of the Netherlands;
 
-##### Artikel 1. Begripsomschrijvingen
+- d) “Seconding State” shall mean Ukraine;
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+- e) “archives of the Liaison officer” shall mean all written records, correspondence, documented records, computers and media data, photographs, films, video and music recordings belonging to or possessed by the Liaison officer, and any other similar material which according to the unanimous opinion of the Seconding State and the Government constitutes a part of the archives of the Liaison officer;
 
-- a. „verbindingsofficier”, elke functionaris die in overeenstemming met artikel 8 van [Verordening (EU) 2016/794](32694R2016) van 11 mei 2016 door Oekraïne bij het hoofdkantoor van Europol wordt gedetacheerd;
+- f) “family member(s) belonging to the household” shall mean the person(s) defined as such in the Protocol Guide of the Kingdom of the Netherlands in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- b. „Regering”, de Regering van het Koninkrijk der Nederlanden;
+- g) “[Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)” shall mean the Vienna Convention on Diplomatic Relations, concluded at Vienna on 18 April 1961.
 
-- c. „autoriteiten van de gastheerstaat”, autoriteiten van de centrale of gemeentelijke overheid of andere autoriteiten van het Koninkrijk der Nederlanden, naargelang het geval is, in het kader van en in overeenstemming met de wetten en gebruiken die in het Koninkrijk der Nederlanden van toepassing zijn;
+##### Article 2. Privileges and Immunities
 
-- d. „zendstaat”, Oekraïne;
+1. In accordance with the provisions of this Agreement, the Liaison officer and the family members belonging to the household, and who are not nationals of the Kingdom of the Netherlands and who do not have permanent residence in the territory of the Kingdom of the Netherlands, shall enjoy in and vis-à-vis the Kingdom of the Netherlands the same privileges and immunities as accorded to diplomatic agents of the diplomatic missions in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
-- e. „archief van de verbindingsofficier”, alle schriftelijke dossiers, correspondentie, documenten, computer- en mediagegevens, foto's, films, video- en muziekopnamen die toebehoren aan of in het bezit zijn van de verbindingsofficier, alsmede enig ander soortgelijk materiaal dat naar het unanieme oordeel van de zendstaat en de Regering deel uitmaakt van het archief van de verbindingsofficier;
+2. The immunities granted to the persons mentioned in paragraph 1 of this Article shall not be applicable in regard of:
 
-- f. „gezinslid dat deel uitmaakt van het huishouden”, de persoon als zodanig omschreven in de Protocolgids van het Koninkrijk der Nederlanden in overeenstemming met het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
+- (i) any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by a motor vehicle belonging to or driven by any such person (without prejudice to Regulation (EU) 2016/794 of 11 May 2016); or
 
-- g. „[Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)”, het Verdrag van Wenen inzake diplomatiek verkeer, gesloten te Wenen op 18 april 1961.
+- (ii) criminal and civil jurisdiction over actions committed outside the limits of performing their official duties.
 
-##### Artikel 2. Voorrechten en immuniteiten
+3. The obligations of sending States and their personnel that apply under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) to members of the diplomatic staff, shall apply to the Seconding State and the persons referred to in paragraph 1 of this Article.
 
-1. In overeenstemming met de bepalingen van dit Verdrag genieten de verbindingsofficier en de gezinsleden die deel uitmaken van het huishouden en niet de Nederlandse nationaliteit bezitten noch duurzaam in het Koninkrijk der Nederlanden verblijven, in en ten aanzien van het Koninkrijk der Nederlanden dezelfde voorrechten en immuniteiten als die welke door het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) worden verleend aan diplomatieke ambtenaren van de diplomatieke missies.
+##### Article 3. Entrance, Stay and Departure
 
-2. De immuniteiten die aan de in het eerste lid van dit artikel genoemde personen worden verleend, zijn niet van toepassing op:
+1. The Government shall facilitate, if necessary, the entrance, stay and departure of Liaison officers and family members belonging to their household.
 
-- i. civiele vorderingen ingesteld door derden wegens schade, met inbegrip van persoonlijk letsel of overlijden, voortvloeiend uit een verkeersongeval veroorzaakt door een motorvoertuig dat toebehoort aan of bestuurd wordt door een dergelijke persoon (onverminderd [Verordening (EU) 2016/794](32694R2016) van 11 mei 2016); of
+2. This Article shall not prevent the requirement of reasonable evidence to establish that the persons claiming the treatment under this Article are truly the persons referred to in paragraph 1 of this Article.
 
-- ii. strafrechtelijke en civielrechtelijke rechtsmacht ten aanzien van gedragingen die plaatsvinden buiten de uitoefening van hun officiële taken.
+3. The visas which may be necessary for the persons referred to in this Article shall be issued without any compensation in the shortest possible period.
 
-3. De verplichtingen van zendstaten en hun personeel die krachtens het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) van toepassing zijn op de leden van het diplomatieke personeel, zijn van toepassing op de zendstaat en de in het eerste lid van dit artikel bedoelde personen.
+##### Article 4. Employment
 
-##### Artikel 3. Binnenkomst, verblijf en vertrek
+1. Without prejudice to the applicable rules of the European Union with regard to citizens of a member state of the European Union, the European Economic Area, or Switzerland, or their family members, family members belonging to the household of the Liaison officer shall be exempt from the obligation of obtaining a work permit for the duration of the secondment of the Liaison officer.
 
-1. De Regering vergemakkelijkt, indien nodig, de binnenkomst, het verblijf en het vertrek van verbindingsofficieren en van hun gezinsleden die deel uitmaken van het huishouden.
+2. Family members belonging to the household of the Liaison officer who obtain gainful employment shall enjoy no immunity from criminal, civil or administrative jurisdiction in the Netherlands with respect to matters arising in the course of or in connection with such employment.
 
-2. Dit artikel laat de mogelijkheid onverlet te verlangen dat redelijk bewijs wordt geleverd waaruit blijkt dat de personen die zich op de in dit artikel bedoelde behandeling beroepen, daadwerkelijk de in het eerste lid van dit artikel bedoelde personen zijn.
+##### Article 5. Inviolability of Archives
 
-3. De eventueel benodigde visa voor de in dit artikel bedoelde personen worden kosteloos en zo spoedig mogelijk verstrekt.
+The archives of the Liaison officer, regardless of their location and the fact in whose possession they are, shall be inviolable.
 
-##### Artikel 4. Tewerkstelling
+##### Article 6. Personal Protection
 
-1. Onverminderd de van toepassing zijnde voorschriften van de Europese Unie ten aanzien van burgers van een lidstaat van de Europese Unie, de Europese Economische Ruimte of Zwitserland of hun gezinsleden, zijn gezinsleden die deel uitmaken van het huishouden van de verbindingsofficier voor de duur van de detachering van de verbindingsofficier vrijgesteld van de verplichting een werkvergunning te verkrijgen.
+The authorities of the Host State shall, if this has been requested by the Seconding State, take all reasonable steps in accordance with its national legislation, in order to ensure the necessary safety and protection of both the Liaison officer and the family members belonging to the household in case their security is endangered due to the performance of tasks of the Liaison officer at Europol.
 
-2. Gezinsleden die deel uitmaken van het huishouden van de verbindingsofficier die betaalde werkzaamheden verrichten, genieten geen immuniteit ten aanzien van de strafrechtelijke, civielrechtelijke of bestuursrechtelijke rechtsmacht in Nederland wat betreft aangelegenheden die ontstaan in de loop van of verband houden met deze werkzaamheden.
+##### Article 7. Facilities and Immunities in Respect of Communication
 
-##### Artikel 5. Onschendbaarheid van het archief
+1. The Government shall permit the Liaison officer to communicate freely and without the need for special permission, for all official purposes, and shall protect the right of the Liaison officer to do so. The Liaison officer shall have the right to use codes and to send and receive official correspondence, and other types of communication service via courier or sealed shipments that are subject to the same privileges and immunities provided to diplomatic couriers and diplomatic bags.
 
-Het archief van de verbindingsofficier, waar dit zich ook bevindt en wie het ook onder zich heeft, is onschendbaar.
+2. The Liaison officer shall, as long as it is compatible with the [Constitution and Convention of the International Telecommunication Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001504), concluded at Geneva on 22 December 1992, for his/her official communications enjoy treatment not less favourable than that which the Kingdom of the Netherlands accords to other international organisations or governments, in conjunction with the use of communication via e-mail, telegraph, telex, radio-television, fax, telephone, satellite or otherwise.
 
-##### Artikel 6. Persoonlijke bescherming
+##### Article 8. Notification
 
-Indien de zendstaat daarom verzoekt, nemen de autoriteiten van de gastheerstaat in overeenstemming met hun nationale wetten alle redelijke maatregelen om de nodige veiligheid en bescherming te waarborgen van de verbindingsofficier, alsmede van de gezinsleden die deel uitmaken van zijn huishouden en wier veiligheid in het geding is als gevolg van de taakvervulling van de verbindingsofficier bij Europol.
+1. The Seconding State shall promptly and accurately notify the Government with regard to the following: name and surname of the Liaison officer, the date of his/her arrival and final departure or the termination of his/her mandate, the arrival and final departure of family members belonging to the household and, where applicable, the fact that a person has ceased to be a part of the household of the Liaison officer.
 
-##### Artikel 7. Faciliteiten en immuniteiten met betrekking tot communicatie
+2. The Government shall issue to the Liaison officer and family members belonging to the household ID cards (identification cards) which shall contain a photo of the cardholder. This card shall serve to identify its holder in relation to the authorities of the Host State.
 
-1. De Regering staat de verbindingsofficier toe vrijelijk en zonder het vereiste van bijzondere toestemming te communiceren voor alle officiële doeleinden, en beschermt dit recht van de verbindingsofficier. De verbindingsofficier is gerechtigd codes te gebruiken en officiële correspondentie en andere officiële berichten te verzenden of te ontvangen per koerier of per verzegelde verzending, waarvoor dezelfde voorrechten en immuniteiten gelden als voor diplomatieke koeriers en zakken.
+##### Article 9. Settlement of Disputes
 
-2. Voor zover dit verenigbaar is met de grondwet en het [Verdrag van de Internationale Unie voor Telecommunicatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001504), gesloten te Genève op 22 december 1992, geniet de verbindingsofficier voor zijn/haar officiële communicatie een behandeling die niet minder gunstig is dan die welke door het Koninkrijk der Nederlanden aan een internationale organisatie of regering wordt toegekend, inzake het gebruik van communicatie door middel van e-mail, telegrammen, telexberichten, radio, televisie, fax, telefoon, satelliet of andere middelen.
+1. Any dispute between the Seconding State and the Government concerning the interpretation or application of this Agreement, or any question affecting the Liaison officer or the relationship between the Seconding State and the Government, shall be settled between the Contracting Parties through negotiations.
 
-##### Artikel 8. Kennisgeving
+2. Any dispute referred to in paragraph 1, which cannot be settled through negotiations, shall be referred for final decision to a tribunal of three arbitrators, at the request of the Seconding State or the Government. Each Contracting Party shall appoint one arbitrator. The third, who shall be chairman of the tribunal, is to be chosen by the first two arbitrators.
 
-1. De zendstaat stelt de Regering onverwijld en accuraat in kennis van het volgende: voornaam en naam van de verbindingsofficier, de datum van zijn/haar aankomst en van zijn/haar definitieve vertrek of van de beëindiging van zijn/haar mandaat, alsmede van de aankomst en het definitieve vertrek van de gezinsleden die deel uitmaken van het huishouden en, indien van toepassing, van het feit dat een persoon niet langer deel uitmaakt van het huishouden van de verbindingsofficier.
+3. If one of the Contracting Parties fails to appoint an arbitrator within two months following a request from the other Contracting Party to make such an appointment, the other Contracting Party may request the President of the Court of Justice of the European Communities or in his absence the Vice-President, to make such an appointment.
 
-2. De Regering verstrekt aan de verbindingsofficier en aan de gezinsleden die deel uitmaken van het huishouden een identiteitskaart voorzien van de foto van de houder. Deze kaart dient ter identificatie van de houder ten overstaan van alle autoriteiten van de gastheerstaat.
+4. Should the first two arbitrators fail to agree upon the third within two months following their appointment, either Contracting Party may request the President of the Court of Justice of the European Communities, or in his absence the Vice-President, to make such appointment.
 
-##### Artikel 9. Beslechting van geschillen
+5. Unless the Contracting Parties agree otherwise, the tribunal shall determine its own procedure.
 
-1. Elk geschil tussen de zendstaat en de Regering betreffende de interpretatie of toepassing van dit Verdrag of enige kwestie die betrekking heeft op de verbindingsofficier of op de verhouding tussen de zendstaat en de Regering, wordt door de verdragsluitende partijen door middel van onderhandelingen beslecht.
+6. The tribunal shall reach its decision by a majority of votes. The Chairman shall have a casting vote. The decision shall be final and binding on the parties to the dispute.
 
-2. Elk in het eerste lid bedoeld geschil dat niet door middel van onderhandelingen kan worden beslecht, wordt op verzoek van de zendstaat of van de Regering ter onherroepelijke beslissing voorgelegd aan een tribunaal bestaande uit drie arbiters. Elke verdragsluitende partij benoemt een arbiter. De derde arbiter, die voorzitter van het tribunaal zal zijn, wordt gekozen door de eerste twee arbiters.
+##### Article 10. Territorial Scope
 
-3. Indien een van de verdragsluitende partijen verzuimt een arbiter te benoemen binnen twee maanden na een verzoek van de andere verdragsluitende partij een dergelijke benoeming te verrichten, kan de andere verdragsluitende partij de President van het Hof van Justitie van de Europese Gemeenschappen, of in zijn afwezigheid de Vicepresident, verzoeken deze benoeming te verrichten.
+In view of the territory of the Kingdom of the Netherlands, this Agreement shall apply exclusively to the part of the Kingdom situated in Europe.
 
-4. Indien de eerste twee arbiters binnen twee maanden na hun benoeming geen overeenstemming bereiken over de derde, kan elke verdragsluitende partij de President van het Hof van Justitie van de Europese Gemeenschappen, of in zijn afwezigheid de Vicepresident, verzoeken deze benoeming te verrichten.
+##### Article 11. Entry into Force
 
-5. Tenzij de verdragsluitende partijen anders overeenkomen, stelt het tribunaal zijn eigen procedure vast.
+1. This Agreement, with the exception of [Article 9, paragraphs 2 to 6](https://wetten.overheid.nl/BWBV0006929), shall be applied provisionally from the date of signature.
 
-6. Het tribunaal neemt zijn beslissing bij meerderheid van stemmen. De voorzitter heeft een beslissende stem. De beslissing is onherroepelijk en bindend voor de partijen bij het geschil.
-
-##### Artikel 10. Territoriale reikwijdte
-
-Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het deel van het Koninkrijk in Europa.
-
-##### Artikel 11. Inwerkingtreding
-
-1. Dit Verdrag, uitgezonderd [artikel 9, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006929&artikel=9&z=2022-08-01&g=2022-08-01), wordt voorlopig toegepast vanaf de dag van ondertekening.
-
-2. Dit Verdrag treedt in werking op de eerste dag van de eerste maand volgend op de datum van ontvangst van de laatste schriftelijke kennisgeving langs diplomatieke weg waarin de verdragsluitende partijen elkaar ervan in kennis stellen dat aan hun respectieve interne procedures, noodzakelijk voor de inwerkingtreding van het Verdrag, is voldaan.
+2. The Agreement shall enter into force on the first day of the first month following the date of receipt of the last written notification, through diplomatic channels, through which the Contracting Parties shall notify each other that their respective internal procedures necessary for its entry into force have been complied with.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Agreement.
 
 DONE at Kyiv, on 20 September 2021, in two originals, each in the English, Dutch and Ukrainian languages, all texts being equally authentic. In case of any divergence of interpretation of the provisions of this Agreement, the English text shall prevail.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 J.H.A.C. DE MOL
 
-**For Ukraine,**
+*For Ukraine,*
 
 I. KLYMENKO

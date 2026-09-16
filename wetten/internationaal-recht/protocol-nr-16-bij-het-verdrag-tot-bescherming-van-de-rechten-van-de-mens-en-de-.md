@@ -1,124 +1,95 @@
 ---
 title: "Protocol nr. 16 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden"
 identifier: "BWBV0006299"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-06-01"
-last_updated: "2019-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006299"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005153583"
-version_id: "10005512682"
-internal_id: "C10010141931"
-label_id: "10005136324"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006299/2019-06-01/0"
-intitule_bron: "Trb.2013-241"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-12-05"
-intitule_in_force: "2019-03-05"
-intitule_status: "goed"
-original_publication: "Trb.2013-241"
-original_published_date: "2013-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2013-241"
-entry_into_force_date: "2019-06-01"
-jci_1_3: "jci1.3:c:BWBV0006299&z=2019-06-01&g=2019-06-01"
-jci_1_0: "1.0:c:BWBV0006299&g=2019-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-06-01"
+publicatiedatum: 2019-06-01
+laatste_update: 2019-06-01
+status: geldig
+toestand: 2019-06-01
+bron: "https://wetten.overheid.nl/BWBV0006299"
+opgehaald: 2026-09-16
 ---
+
 # Protocol nr. 16 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden
 
-Preambule
+*Preamble The member States of the Council of Europe and other High Contracting Parties to the Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4 November 1950 (hereinafter referred to as “the Convention”), signatories hereto, Having regard to the provisions of the Convention and, in particular, Article 19 establishing the European Court of Human Rights (hereinafter referred to as “the Court”); Considering that the extension of the Court’s competence to give advisory opinions will further enhance the interaction between the Court and national authorities and thereby reinforce implementation of the Convention, in accordance with the principle of subsidiarity; Having regard to Opinion No. 285 (2013) adopted by the Parliamentary Assembly of the Council of Europe on 28 June 2013, Have agreed as follows:*
 
-De lidstaten van de Raad van Europa en de andere Hoge Verdragsluitende Partijen bij het [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](onbekend), ondertekend te Rome op 4 november 1950 (hierna te noemen „het Verdrag”), die dit Protocol hebben ondertekend,
+##### Article 1
 
-Gelet op de bepalingen van het [Verdrag](onbekend) en, in het bijzonder, [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=19) daarvan waarbij het Europees Hof voor de rechten van de mens (hierna te noemen „het Hof”) wordt opgericht;
+1. Highest courts and tribunals of a High Contracting Party, as specified in accordance with [Article 10](https://wetten.overheid.nl/BWBV0006299), may request the Court to give advisory opinions on questions of principle relating to the interpretation or application of the rights and freedoms defined in the Convention or the protocols thereto.
 
-Overwegende dat de uitbreiding van de bevoegdheid van het Hof adviezen uit te brengen de interactie tussen het Hof en nationale autoriteiten verder verbetert en daarmee de uitvoering van het [Verdrag](onbekend) versterkt, in overeenstemming met het beginsel van subsidiariteit;
+2. The requesting court or tribunal may seek an advisory opinion only in the context of a case pending before it.
 
-Gelet op opinie nr. 285 (2013) aangenomen door de Parlementaire Vergadering van de Raad van Europa op 28 juni 2013;
+3. The requesting court or tribunal shall give reasons for its request and shall provide the relevant legal and factual background of the pending case.
 
-Zijn het volgende overeengekomen:
+##### Article 2
 
-##### Artikel 1
+1. A panel of five judges of the Grand Chamber shall decide whether to accept the request for an advisory opinion, having regard to [Article 1](https://wetten.overheid.nl/BWBV0006299). The panel shall give reasons for any refusal to accept the request.
 
-1. Hoogste rechterlijke instanties van een Hoge Verdragsluitende Partij, zoals aangewezen in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=10&z=2019-06-01&g=2019-06-01), kunnen het Hof verzoeken advies uit te brengen over principiële vragen inzake de uitlegging of toepassing van de rechten en vrijheden die zijn omschreven in het [Verdrag](onbekend) of de protocollen daarbij.
+2. If the panel accepts the request, the Grand Chamber shall deliver the advisory opinion.
 
-2. De verzoekende rechterlijke instantie mag uitsluitend om advies verzoeken binnen de context van een bij haar aanhangige zaak.
+3. The panel and the Grand Chamber, as referred to in the preceding paragraphs, shall include *ex officio* the judge elected in respect of the High Contracting Party to which the requesting court or tribunal pertains. If there is none or if that judge is unable to sit, a person chosen by the President of the Court from a list submitted in advance by that Party shall sit in the capacity of judge.
 
-3. De verzoekende rechterlijke instantie omkleedt haar verzoek met redenen en verstrekt de relevante juridische en feitelijke achtergrond van de aanhangige zaak.
+##### Article 3
 
-##### Artikel 2
+The Council of Europe Commissioner for Human Rights and the High Contracting Party to which the requesting court or tribunal pertains shall have the right to submit written comments and take part in any hearing. The President of the Court may, in the interest of the proper administration of justice, invite any other High Contracting Party or person also to submit written comments or take part in any hearing.
 
-1. Een college van vijf rechters van de Grote Kamer beslist of het verzoek om advies al dan niet in behandeling wordt genomen, rekening houdend met [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=1&z=2019-06-01&g=2019-06-01). Een weigering een verzoek in behandeling te nemen wordt door het college met redenen omkleed.
+##### Article 4
 
-2. Indien het college het verzoek in behandeling neemt, brengt de Grote Kamer het advies uit.
+1. Reasons shall be given for advisory opinions.
 
-3. Het college en de Grote Kamer, zoals bedoeld in de voorgaande leden, omvatten van rechtswege de rechter die is gekozen voor de Hoge Verdragsluitende Partij waartoe de verzoekende rechterlijke instantie behoort. In geval van ontstentenis of belet van deze rechter, wijst de President van het Hof een persoon van een vooraf door die Partij overgelegde lijst aan om daarin als rechter zitting te hebben.
+2. If the advisory opinion does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
 
-##### Artikel 3
+3. Advisory opinions shall be communicated to the requesting court or tribunal and to the High Contracting Party to which that court or tribunal pertains.
 
-De Commissaris voor de Mensenrechten van de Raad van Europa en de Hoge Verdragsluitende Partij waartoe de verzoekende rechterlijke instantie behoort, heeft het recht schriftelijk commentaar in te dienen en elke hoorzitting bij te wonen. De President van het Hof kan, in het belang van een goede rechtsbedeling, een andere Hoge Verdragsluitende Partij of persoon uitnodigen eveneens schriftelijk commentaar in te dienen of een hoorzitting bij te wonen.
+4. Advisory opinions shall be published.
 
-##### Artikel 4
+##### Article 5
 
-1. De adviezen worden met redenen omkleed.
+Advisory opinions shall not be binding.
 
-2. Indien een advies niet, geheel of gedeeltelijk, de eenstemmige mening van de rechters weergeeft, heeft iedere rechter het recht een uiteenzetting van zijn persoonlijke mening toe te voegen.
+##### Article 6
 
-3. De adviezen worden ter kennis gebracht van de verzoekende rechterlijke instantie en de Hoge Verdragsluitende Partij waartoe deze rechterlijke instantie behoort.
+As between the High Contracting Parties the provisions of [Articles 1 to 5](https://wetten.overheid.nl/BWBR0013287) of this Protocol shall be regarded as additional articles to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), and all the provisions of the Convention shall apply accordingly.
 
-4. De adviezen worden gepubliceerd.
+##### Article 7
 
-##### Artikel 5
+1. This Protocol shall be open for signature by the High Contracting Parties to the Convention, which may express their consent to be bound by:
 
-De adviezen zijn niet bindend.
+- a. signature without reservation as to ratification, acceptance or approval; or
 
-##### Artikel 6
+- b. signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval.
 
-Tussen de Hoge Verdragsluitende Partijen worden de artikelen 1 tot en met 5 van dit Protocol beschouwd als aanvullende artikelen bij het Verdrag en alle bepalingen van het [Verdrag](onbekend) zijn dienovereenkomstig van toepassing.
+2. The instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-##### Artikel 7
+##### Article 8
 
-1. Dit Protocol staat open voor ondertekening door de Hoge Verdragsluitende Partijen bij het [Verdrag](onbekend), die hun instemming te worden gebonden tot uitdrukking kunnen brengen door:
+1. This Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date on which ten High Contracting Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) have expressed their consent to be bound by the Protocol in accordance with the provisions of [Article 7](https://wetten.overheid.nl/BWBV0006299).
 
-- a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring; of
+2. In respect of any High Contracting Party to the Convention which subsequently expresses its consent to be bound by it, the Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of the expression of its consent to be bound by the Protocol in accordance with the provisions of [Article 7](https://wetten.overheid.nl/BWBV0006299).
 
-- b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring.
+##### Article 9
 
-2. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+No reservation may be made under [Article 57 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=57) in respect of the provisions of this Protocol.
 
-##### Artikel 8
+##### Article 10
 
-1. Dit Protocol treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop tien Hoge Verdragsluitende Partijen bij het [Verdrag](onbekend) in overeenstemming met de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=7&z=2019-06-01&g=2019-06-01) hun instemming door het Protocol te worden gebonden tot uitdrukking hebben gebracht.
+Each High Contracting Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) shall, at the time of signature or when depositing its instrument of ratification, acceptance or approval, by means of a declaration addressed to the Secretary General of the Council of Europe, indicate the courts or tribunals that it designates for the purposes of [Article 1, paragraph 1](https://wetten.overheid.nl/BWBV0006299), of this Protocol. This declaration may be modified at any later date and in the same manner.
 
-2. Ten aanzien van een Hoge Verdragsluitende Partij bij het [Verdrag](onbekend) die later haar instemming door dit Protocol te worden gebonden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop deze haar instemming tot uitdrukking heeft gebracht door het Protocol te worden gebonden in overeenstemming met de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=7&z=2019-06-01&g=2019-06-01).
+##### Article 11
 
-##### Artikel 9
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe and the other High Contracting Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) of:
 
-Ten aanzien van de bepalingen van dit Protocol kan krachtens [artikel 57 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=57) geen enkel voorbehoud worden gemaakt.
+- a. any signature;
 
-##### Artikel 10
+- b. the deposit of any instrument of ratification, acceptance or approval;
 
-Elke Hoge Verdragsluitende Partij bij het [Verdrag](onbekend) geeft op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding of goedkeuring, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de rechterlijke instanties aan die zij aanwijst ten behoeve van de uitvoering van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=1&z=2019-06-01&g=2019-06-01), van dit Protocol. Deze verklaring kan nadien te allen tijde op dezelfde wijze worden gewijzigd.
+- c. any date of entry into force of this Protocol in accordance with [Article 8](https://wetten.overheid.nl/BWBV0006299);
 
-##### Artikel 11
+- d. any declaration made in accordance with [Article 10](https://wetten.overheid.nl/BWBV0006299); and
 
-De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa en de andere Hoge Verdragsluitende Partijen bij het [Verdrag](onbekend) in kennis van:
-
-- a. iedere ondertekening;
-
-- b. de nederlegging van iedere akte van bekrachtiging, aanvaarding of goedkeuring;
-
-- c. iedere datum van inwerkingtreding van dit Protocol in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=8&z=2019-06-01&g=2019-06-01);
-
-- d. iedere verklaring afgelegd in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006299&artikel=10&z=2019-06-01&g=2019-06-01); en
-
-- e. iedere andere handeling, kennisgeving of mededeling met betrekking tot dit Protocol.
+- e. any other act, notification or communication relating to this Protocol.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

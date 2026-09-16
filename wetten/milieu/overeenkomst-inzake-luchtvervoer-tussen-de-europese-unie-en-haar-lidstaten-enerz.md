@@ -1,133 +1,18 @@
 ---
 title: "Overeenkomst inzake luchtvervoer tussen de Europese Unie en haar lidstaten, enerzijds, en de Staat Qatar, anderzijds"
 identifier: "BWBV0006942"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-10-18"
-last_updated: "2021-10-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006942"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005602413"
-version_id: "10006141872"
-internal_id: "C10009867821"
-label_id: "10005584374"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006942/2021-10-18/0"
-intitule_bron: "Trb.2021-156"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-11-30"
-intitule_status: "nogniet"
-original_publication: "Trb.2021-156"
-original_published_date: "2021-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2021-156"
-jci_1_3: "jci1.3:c:BWBV0006942&z=2021-10-18&g=2021-10-18"
-jci_1_0: "1.0:c:BWBV0006942&g=2021-10-18"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-11-30"
+laatste_update: 2021-10-18
+status: geldig
+toestand: 2021-10-18
+bron: "https://wetten.overheid.nl/BWBV0006942"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst inzake luchtvervoer tussen de Europese Unie en haar lidstaten, enerzijds, en de Staat Qatar, anderzijds
 
-Het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk Der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-Verdragsluitende partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het Verdrag betreffende de werking van de Europese Unie, hierna gezamenlijk „de EU-lidstaten” of afzonderlijk „de EU-lidstaat” genoemd, en
-
-de Europese Unie, hierna „Unie” genoemd,
-
-enerzijds; en
-
-de Staat Qatar, hierna „Qatar” genoemd,
-
-anderzijds,
-
-hierna gezamenlijk de „partijen” genoemd,
-
-De EU-lidstaten en Qatar, als partijen bij het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), voor ondertekening opengesteld te Chicago op 7 december 1944, samen met de Unie,
-
-De wens uitdrukkend hun belangen op het gebied van luchtvervoer te bevorderen als middel om bij te dragen tot nauwere politieke en economische banden tussen de partijen,
-
-Erkennende dat efficiënte luchtverbindingen belangrijk zijn om handel, toerisme, investeringen en sociaaleconomische ontwikkeling te bevorderen,
-
-De wens uitdrukkend de luchtdiensten te verbeteren en een internationaal luchtvaartsysteem te bevorderen op basis van non-discriminatie en gelijke kansen tot mededinging voor luchtvaartmaatschappijen,
-
-Geleid door de wens het hoogst mogelijke niveau van veiligheid en beveiliging van het luchtvervoer te garanderen en bevestigend dat zij zich grote zorgen maken over daden of bedreigingen die gericht zijn tegen luchtvaartuigen en die de veiligheid van personen of goederen in gevaar brengen, de exploitatie van luchtvaartuigen nadelig beïnvloeden en het vertrouwen van de reizigers in de veiligheid van de burgerluchtvaart ondermijnen,
-
-Nota nemend van het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), voor ondertekening opengesteld te Chicago op 7 december 1944,
-
-Vastberaden om de potentiële voordelen van regelgevende samenwerking maximaal te benutten,
-
-Erkennende dat concurrerende luchtdiensten en een levensvatbare luchtvervoerssector belangrijke voordelen kunnen opleveren,
-
-De wens uitdrukkend vrije, eerlijke en onverstoorde concurrentie te bevorderen, erkennende dat bepaalde subsidies een nadelig effect kunnen hebben op de concurrentie en de basisdoelstellingen van deze overeenkomst in gevaar kunnen brengen, en erkennende dat de potentiële voordelen mogelijkerwijs niet kunnen worden benut zonder een gelijk speelveld voor luchtvaartmaatschappijen,
-
-Voornemens voort te bouwen op bestaande overeenkomsten en regelingen tussen hen, teneinde te zorgen voor de openstelling van de markttoegang en zoveel mogelijk voordelen te creëren voor de passagiers, expediteurs, luchtvaartmaatschappijen, luchthavens en hun personeelsleden, de gemeenschap in het algemeen en anderen die daar onrechtstreeks profijt van trekken,
-
-Het belang bevestigend van de bescherming van het milieu bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid,
-
-Bevestigend dat er behoefte is aan dringende maatregelen tegen de klimaatverandering en aan een voortzetting van de samenwerking om de broeikasgasemissies in de luchtvaartsector te doen afnemen, op een wijze die in overeenstemming is met hun internationale verplichtingen op dit gebied, waaronder die welke zijn vastgesteld in instrumenten van de Internationale Burgerluchtvaartorganisatie (ICAO),
-
-Het belang bevestigend van de bescherming van de consumentenbelangen en van samenwerking om een hoog niveau van consumentenbescherming te bereiken,
-
-Erkennende dat de groei aan commerciële mogelijkheden niet mag leiden tot een afzwakking van hun arbeidsnormen en het belang bevestigend om oog te hebben voor de impact van deze overeenkomst op de werknemers, de werkgelegenheid en de arbeidsomstandigheden en van de voordelen die ontstaan wanneer aanzienlijke economische winsten van open en concurrerende markten gepaard gaan met ambitieuze arbeidsnormen voor werknemers
-
-Wijzend op de wens om te zoeken naar manieren om de toegang tot kapitaal voor de luchtvaartsector te faciliteren, teneinde de ontwikkeling van het luchtvervoer voort te zetten,
-
-De wens uitdrukkend een overeenkomst inzake luchtvervoer te sluiten, ter aanvulling van het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507),
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk Der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, Verdragsluitende partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna gezamenlijk „de EU-lidstaten” of afzonderlijk „de EU-lidstaat” genoemd, en de Europese Unie, hierna „Unie” genoemd, enerzijds; en de Staat Qatar, hierna „Qatar” genoemd, anderzijds, hierna gezamenlijk de „partijen” genoemd, De EU-lidstaten en Qatar, als partijen bij het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944, samen met de Unie, De wens uitdrukkend hun belangen op het gebied van luchtvervoer te bevorderen als middel om bij te dragen tot nauwere politieke en economische banden tussen de partijen, Erkennende dat efficiënte luchtverbindingen belangrijk zijn om handel, toerisme, investeringen en sociaaleconomische ontwikkeling te bevorderen, De wens uitdrukkend de luchtdiensten te verbeteren en een internationaal luchtvaartsysteem te bevorderen op basis van non-discriminatie en gelijke kansen tot mededinging voor luchtvaartmaatschappijen, Geleid door de wens het hoogst mogelijke niveau van veiligheid en beveiliging van het luchtvervoer te garanderen en bevestigend dat zij zich grote zorgen maken over daden of bedreigingen die gericht zijn tegen luchtvaartuigen en die de veiligheid van personen of goederen in gevaar brengen, de exploitatie van luchtvaartuigen nadelig beïnvloeden en het vertrouwen van de reizigers in de veiligheid van de burgerluchtvaart ondermijnen, Nota nemend van het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944, Vastberaden om de potentiële voordelen van regelgevende samenwerking maximaal te benutten, Erkennende dat concurrerende luchtdiensten en een levensvatbare luchtvervoerssector belangrijke voordelen kunnen opleveren, De wens uitdrukkend vrije, eerlijke en onverstoorde concurrentie te bevorderen, erkennende dat bepaalde subsidies een nadelig effect kunnen hebben op de concurrentie en de basisdoelstellingen van deze overeenkomst in gevaar kunnen brengen, en erkennende dat de potentiële voordelen mogelijkerwijs niet kunnen worden benut zonder een gelijk speelveld voor luchtvaartmaatschappijen, Voornemens voort te bouwen op bestaande overeenkomsten en regelingen tussen hen, teneinde te zorgen voor de openstelling van de markttoegang en zoveel mogelijk voordelen te creëren voor de passagiers, expediteurs, luchtvaartmaatschappijen, luchthavens en hun personeelsleden, de gemeenschap in het algemeen en anderen die daar onrechtstreeks profijt van trekken, Het belang bevestigend van de bescherming van het milieu bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid, Bevestigend dat er behoefte is aan dringende maatregelen tegen de klimaatverandering en aan een voortzetting van de samenwerking om de broeikasgasemissies in de luchtvaartsector te doen afnemen, op een wijze die in overeenstemming is met hun internationale verplichtingen op dit gebied, waaronder die welke zijn vastgesteld in instrumenten van de Internationale Burgerluchtvaartorganisatie (ICAO), Het belang bevestigend van de bescherming van de consumentenbelangen en van samenwerking om een hoog niveau van consumentenbescherming te bereiken, Erkennende dat de groei aan commerciële mogelijkheden niet mag leiden tot een afzwakking van hun arbeidsnormen en het belang bevestigend om oog te hebben voor de impact van deze overeenkomst op de werknemers, de werkgelegenheid en de arbeidsomstandigheden en van de voordelen die ontstaan wanneer aanzienlijke economische winsten van open en concurrerende markten gepaard gaan met ambitieuze arbeidsnormen voor werknemers Wijzend op de wens om te zoeken naar manieren om de toegang tot kapitaal voor de luchtvaartsector te faciliteren, teneinde de ontwikkeling van het luchtvervoer voort te zetten, De wens uitdrukkend een overeenkomst inzake luchtvervoer te sluiten, ter aanvulling van het Verdrag inzake de internationale burgerluchtvaart, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Definities
 
@@ -143,11 +28,11 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze overeenkomst 
 
 - 5. „geautomatiseerd boekingssysteem” of „CRS”: geautomatiseerd systeem dat informatie bevat over onder meer dienstregelingen, beschikbaarheid en tarieven van meer dan één luchtvaartmaatschappij, met of zonder de mogelijkheid plaatsen te reserveren of tickets af te geven, in zoverre bepaalde of alle diensten voor abonnees beschikbaar zijn. Het omvat eveneens wereldwijde distributiesystemen (GDS’en), voor zover die ook luchtvervoersproducten omvatten;
 
-- 6. „verdrag”: het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), voor ondertekening opengesteld te Chicago op 7 december 1944, en omvattende:
+- 6. „verdrag”: het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), voor ondertekening opengesteld te Chicago op 7 december 1944, en omvattende:
 
-- a. iedere wijziging die krachtens [artikel 94, punt a), van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) in werking is getreden en die door Qatar en de EU-lidstaat of -lidstaten geratificeerd is, voor zover zij ter zake doet; alsmede
+   - a. iedere wijziging die krachtens [artikel 94, punt a), van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) in werking is getreden en die door Qatar en de EU-lidstaat of -lidstaten geratificeerd is, voor zover zij ter zake doet; alsmede
 
-- b. iedere bijlage of iedere wijziging daarvan die is goedgekeurd krachtens [artikel 90 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90), voor zover deze bijlage of wijziging op een gegeven tijdstip voor zowel Qatar als de EU-lidstaat of -lidstaten van kracht is en ter zake doet;
+   - b. iedere bijlage of iedere wijziging daarvan die is goedgekeurd krachtens [artikel 90 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90), voor zover deze bijlage of wijziging op een gegeven tijdstip voor zowel Qatar als de EU-lidstaat of -lidstaten van kracht is en ter zake doet;
 
 - 7. „discriminatie”: een onderscheid zonder objectieve rechtvaardiging;
 
@@ -167,9 +52,9 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze overeenkomst 
 
 - 15. „zelfafhandeling”: situatie waarbij een gebruiker zichzelf rechtstreeks een of meer categorieën afhandelingsdiensten verleent en met derden geen enkel contract, hoe ook genaamd, dat de verlening van dergelijke diensten tot doel heeft, afsluit. Voor de toepassing van deze definitie worden gebruikers onderling niet als derden beschouwd als:
 
-- a. de ene een meerderheidsbelang heeft in de andere, of
+   - a. de ene een meerderheidsbelang heeft in de andere, of
 
-- b. eenzelfde entiteit in elk van beide een meerderheidsbelang heeft;
+   - b. eenzelfde entiteit in elk van beide een meerderheidsbelang heeft;
 
 - 16. „ernstige verstoring in de economie ”: een uitzonderlijke, tijdelijke (van korte of lange duur) en ernstige crisis die de economie van een EU-lidstaat of Qatar in haar geheel en niet een specifieke regio of economische sector raakt;
 
@@ -177,21 +62,23 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze overeenkomst 
 
 - 18. „subsidie”: alle door de overheid of door een andere overheidsinstantie verleende financiële bijdragen, met inbegrip van:
 
-- a. de rechtstreekse overdracht van middelen en de mogelijk rechtstreekse overdracht van middelen of passiva;
+   - a. de rechtstreekse overdracht van middelen en de mogelijk rechtstreekse overdracht van middelen of passiva;
 
-- b. de derving of niet-inning van inkomsten die normaal gesproken de overheid toekomen;
+   - b. de derving of niet-inning van inkomsten die normaal gesproken de overheid toekomen;
 
-- c. de levering van goederen en diensten niet zijnde algemene infrastructuur, of de inkoop van goederen of diensten; of
+   - c. de levering van goederen en diensten niet zijnde algemene infrastructuur, of de inkoop van goederen of diensten; of
 
-- d. het doen van betalingen aan een financieringsmechanisme of het feit dat een particuliere instantie wordt belast met of de uitvoering krijgt opgedragen van één of meer van de in punten a), b) en c) vermelde functies die de overheid of een andere overheidsinstantie normaal gesproken zelf zou vervullen en die in werkelijkheid niet afwijken van praktijken die overheidsinstanties plegen te volgen, die de jure of de facto wordt beperkt tot bepaalde luchtvaartmaatschappijen en die deze luchtvaartmaatschappij(en) een voordeel oplevert. Met een financiële bijdrage van een overheid of een andere overheidsinstantie wordt geacht geen voordeel te zijn verleend indien een particuliere marktdeelnemer die zich door winstgevendheidsvooruitzichten laat leiden in dezelfde situatie dezelfde financiële bijdrage had verstrekt;
+   - d. het doen van betalingen aan een financieringsmechanisme of het feit dat een particuliere instantie wordt belast met of de uitvoering krijgt opgedragen van één of meer van de in punten a), b) en c) vermelde functies die de overheid of een andere overheidsinstantie normaal gesproken zelf zou vervullen en die in werkelijkheid niet afwijken van praktijken die overheidsinstanties plegen te volgen, die de jure of de facto wordt beperkt tot bepaalde luchtvaartmaatschappijen en die deze luchtvaartmaatschappij(en) een voordeel oplevert. Met een financiële bijdrage van een overheid of een andere overheidsinstantie wordt geacht geen voordeel te zijn verleend indien een particuliere marktdeelnemer die zich door winstgevendheidsvooruitzichten laat leiden in dezelfde situatie dezelfde financiële bijdrage had verstrekt;
 
 - 19. „grondgebied”: voor Qatar , de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=I&artikel=2&z=2021-10-18&g=2021-10-18) van de overeenkomst aan dat begrip toegekende betekenis; voor de Europese Unie en haar lidstaten betekent het het landgebied, de maritieme binnenwateren en de territoriale zee van de EU-lidstaten waarop de EU-verdragen van toepassing zijn, onder de daarin neergelegde voorwaarden, alsmede het bovenliggende luchtruim;
 
 - 20. „gebruikersheffing”: een aan luchtvaartmaatschappijen opgelegde heffing voor de levering van luchthaven-, luchthavenmilieu-, luchtvaartnavigatie- of luchtvaartbeveiligingsfaciliteiten of -diensten, aanverwante diensten en faciliteiten inbegrepen;
 
-## TITEL I. ECONOMISCHE BEPALINGEN
+### TITEL I. ECONOMISCHE BEPALINGEN
 
 ##### Artikel 2. Verlening van rechten
+
+Routeschema
 
 1. Elke partij verleent luchtvaartmaatschappijen van de andere partij toestemming om vluchten uit te voeren op de hieronder gespecificeerde routes:
 
@@ -205,6 +92,8 @@ Voor de toepassing van het bovengenoemde routeschema betekent:
 
 „alle punten in de Unie”: één of meer punten binnen dezelfde EU-lidstaat of in verschillende EU-lidstaten, hetzij afzonderlijk, hetzij gecombineerd en in een willekeurige volgorde.
 
+Verkeersrechten
+
 2. Elke partij verleent de andere partij op niet-discriminerende basis de hierna vermelde rechten met betrekking tot de exploitatie van internationale luchtvervoeractiviteiten door luchtvaartmaatschappijen van de andere partij:
 
 - a. het recht over haar grondgebied te vliegen zonder te landen;
@@ -213,19 +102,21 @@ Voor de toepassing van het bovengenoemde routeschema betekent:
 
 - c. het recht om geregelde en niet-geregelde internationale luchtvervoeractiviteiten voor passagiers, gecombineerde vluchten en vrachtvluchten uit te voeren;
 
-- i. in het geval van luchtvaartmaatschappijen uit Qatar, het recht om internationale luchtvervoerdiensten uit te voeren tussen alle punten in Qatar en alle punten in de Unie met
+   - i. in het geval van luchtvaartmaatschappijen uit Qatar, het recht om internationale luchtvervoerdiensten uit te voeren tussen alle punten in Qatar en alle punten in de Unie met
 
-- A. verkeersrechten van de derde en vierde vrijheid zonder beperkingen op het gebied van routes, capaciteit en/of frequentie; alsmede
+      - A. verkeersrechten van de derde en vierde vrijheid zonder beperkingen op het gebied van routes, capaciteit en/of frequentie; alsmede
 
-- B. verkeersrechten van de vijfde vrijheid voor alle vrachtdiensten tussen de Unie en de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&bijlage=2&z=2021-10-18&g=2021-10-18), deel 1, genoemde verder gelegen punten voor zover de frequentie van de uitgeoefende verkeersrechten van de vijfde vrijheid per EU-lidstaat niet meer dan zeven vluchten per week bedraagt;
+      - B. verkeersrechten van de vijfde vrijheid voor alle vrachtdiensten tussen de Unie en de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&bijlage=2&z=2021-10-18&g=2021-10-18), deel 1, genoemde verder gelegen punten voor zover de frequentie van de uitgeoefende verkeersrechten van de vijfde vrijheid per EU-lidstaat niet meer dan zeven vluchten per week bedraagt;
 
-- ii. in het geval van luchtvaartmaatschappijen uit de Unie, het recht om internationale luchtvervoeractiviteiten uit te voeren tussen alle punten in de Unie en alle punten in Qatar met: De uitoefening van deze verkeersrechten valt onder de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&bijlage=1&z=2021-10-18&g=2021-10-18) bij deze overeenkomst. Teneinde elke twijfel uit te sluiten, geldt voor EU-lidstaten die met Qatar bilaterale luchtvervoersovereenkomsten en regelingen hebben gesloten die per week in zeven vluchten of minder voorzien op grond van verkeersrechten van de vijfde vrijheid voor vrachtdiensten, dat het totale aantal beschikbare wekelijkse frequenties voor beide partijen aan het einde van de overgangsperiode zeven bedraagt.
+   - ii. in het geval van luchtvaartmaatschappijen uit de Unie, het recht om internationale luchtvervoeractiviteiten uit te voeren tussen alle punten in de Unie en alle punten in Qatar met: De uitoefening van deze verkeersrechten valt onder de overgangsbepalingen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&bijlage=1&z=2021-10-18&g=2021-10-18) bij deze overeenkomst. Teneinde elke twijfel uit te sluiten, geldt voor EU-lidstaten die met Qatar bilaterale luchtvervoersovereenkomsten en regelingen hebben gesloten die per week in zeven vluchten of minder voorzien op grond van verkeersrechten van de vijfde vrijheid voor vrachtdiensten, dat het totale aantal beschikbare wekelijkse frequenties voor beide partijen aan het einde van de overgangsperiode zeven bedraagt.
 
-- A. verkeersrechten van de derde en vierde vrijheid zonder beperkingen op het gebied van routes, capaciteit en/of frequentie; alsmede
+      - A. verkeersrechten van de derde en vierde vrijheid zonder beperkingen op het gebied van routes, capaciteit en/of frequentie; alsmede
 
-- B. verkeersrechten van de vijfde vrijheid voor alle vrachtdiensten tussen Qatar en de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&bijlage=2&z=2021-10-18&g=2021-10-18), deel 2, genoemde verder gelegen punten voor zover de frequentie van de uitgeoefende verkeersrechten van de vijfde vrijheid per EU-lidstaat niet meer dan zeven vluchten per week bedraagt;
+      - B. verkeersrechten van de vijfde vrijheid voor alle vrachtdiensten tussen Qatar en de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&bijlage=2&z=2021-10-18&g=2021-10-18), deel 2, genoemde verder gelegen punten voor zover de frequentie van de uitgeoefende verkeersrechten van de vijfde vrijheid per EU-lidstaat niet meer dan zeven vluchten per week bedraagt;
 
 - d. de overige in deze overeenkomst gespecificeerde rechten.
+
+Operationele flexibiliteit
 
 3. De luchtvaartmaatschappijen van beide partijen mogen bij een vlucht of alle vluchten en naar keuze op de in lid 1 gespecificeerde routes:
 
@@ -247,9 +138,9 @@ Voor de toepassing van het bovengenoemde routeschema betekent:
 
 - i. meer dan één punt bedienen binnen dezelfde EU-lidstaat of, binnen Qatar, met dezelfde vlucht (co-terminalisering). De in punten a) tot en met i) van dit lid voorziene operationele flexibiliteit kan worden uitgeoefend zonder richtings- of geografische beperkingen en zonder verlies van rechten om vervoer te verrichten dat anderszins toelaatbaar is krachtens deze overeenkomst, voor zover:
 
-- –. de diensten van luchtvaartmaatschappijen uit Qatar een punt in Qatar bedienen;
+   - – de diensten van luchtvaartmaatschappijen uit Qatar een punt in Qatar bedienen;
 
-- –. de diensten van luchtvaartmaatschappijen uit de Unie een punt in de Unie bedienen.
+   - – de diensten van luchtvaartmaatschappijen uit de Unie een punt in de Unie bedienen.
 
 4. Elke partij verleent elke luchtvaartmaatschappij van de andere partij het recht om de frequentie en capaciteit van het door haar aangeboden internationale luchtvervoer te baseren op commerciële marktgerelateerde overwegingen. Overeenkomstig dit recht mag geen van beide partijen unilateraal beperkingen opleggen met betrekking tot het verkeersvolume, de frequentie of de regelmaat van de vluchten, de routes, de herkomst of bestemming van het verkeer of de door de luchtvaartmaatschappijen van de andere partij gebruikte types luchtvaartuigen, behalve om redenen die verband houden met douane, techniek, exploitatie, veiligheid van het luchtverkeersbeheer, milieu of volksgezondheid, of tenzij anders bepaald in deze overeenkomst.
 
@@ -265,19 +156,19 @@ Voor de toepassing van het bovengenoemde routeschema betekent:
 
 - a. in het geval van een luchtvaartmaatschappij uit Qatar:
 
-- i. de hoofdvestiging van de luchtvaartmaatschappij zich in Qatar bevindt en de maatschappij houder is van een geldige exploitatievergunning overeenkomstig de wetgeving van Qatar;
+   - i. de hoofdvestiging van de luchtvaartmaatschappij zich in Qatar bevindt en de maatschappij houder is van een geldige exploitatievergunning overeenkomstig de wetgeving van Qatar;
 
-- ii. het regelgevend toezicht op de luchtvaartmaatschappij effectief wordt uitgeoefend en gehandhaafd door Qatar; en
+   - ii. het regelgevend toezicht op de luchtvaartmaatschappij effectief wordt uitgeoefend en gehandhaafd door Qatar; en
 
-- iii. de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, en de feitelijke zeggenschap over die maatschappij berust bij Qatar en/of onderdanen van Qatar;
+   - iii. de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, en de feitelijke zeggenschap over die maatschappij berust bij Qatar en/of onderdanen van Qatar;
 
 - b. in het geval van een luchtvaartmaatschappij uit de Unie:
 
-- i. de luchtvaartmaatschappij, overeenkomstig de EU-Verdragen, op het grondgebied van de Unie is gevestigd en beschikt over een geldige exploitatievergunning overeenkomstig de wetgeving van de Unie;
+   - i. de luchtvaartmaatschappij, overeenkomstig de EU-Verdragen, op het grondgebied van de Unie is gevestigd en beschikt over een geldige exploitatievergunning overeenkomstig de wetgeving van de Unie;
 
-- ii. de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate daadwerkelijk regelgevend toezicht houdt op de luchtvaartmaatschappij, en de bevoegde autoriteit duidelijk is vermeld; en
+   - ii. de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate daadwerkelijk regelgevend toezicht houdt op de luchtvaartmaatschappij, en de bevoegde autoriteit duidelijk is vermeld; en
 
-- iii. de luchtvaartmaatschappij rechtstreeks of door een meerderheidsbelang eigendom is van een of meer EU-lidstaten of lidstaten van de Europese Vrijhandelsassociatie of van onderdanen van die lidstaat of lidstaten, en deze lidstaten of onderdanen daadwerkelijk zeggenschap uitoefenen over de luchtvaartmaatschappij.
+   - iii. de luchtvaartmaatschappij rechtstreeks of door een meerderheidsbelang eigendom is van een of meer EU-lidstaten of lidstaten van de Europese Vrijhandelsassociatie of van onderdanen van die lidstaat of lidstaten, en deze lidstaten of onderdanen daadwerkelijk zeggenschap uitoefenen over de luchtvaartmaatschappij.
 
 - c. [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=II&artikel=13&z=2021-10-18&g=2021-10-18) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=II&artikel=14&z=2021-10-18&g=2021-10-18) worden nageleefd; en
 
@@ -293,19 +184,19 @@ Voor de toepassing van het bovengenoemde routeschema betekent:
 
 - a. in het geval van een luchtvaartmaatschappij uit Qatar:
 
-- i. de hoofdvestiging van de luchtvaartmaatschappij zich niet in Qatar bevindt of de maatschappij niet over een geldige exploitatievergunning overeenkomstig de wetgeving van Qatar beschikt;
+   - i. de hoofdvestiging van de luchtvaartmaatschappij zich niet in Qatar bevindt of de maatschappij niet over een geldige exploitatievergunning overeenkomstig de wetgeving van Qatar beschikt;
 
-- ii. Qatar er niet daadwerkelijk op toeziet of niet afdwingt dat de luchtvaartmaatschappij de regelgeving naleeft; of
+   - ii. Qatar er niet daadwerkelijk op toeziet of niet afdwingt dat de luchtvaartmaatschappij de regelgeving naleeft; of
 
-- iii. de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, en de feitelijke zeggenschap over die maatschappij niet berust bij Qatar en/of onderdanen van Qatar;
+   - iii. de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, en de feitelijke zeggenschap over die maatschappij niet berust bij Qatar en/of onderdanen van Qatar;
 
 - b. in het geval van een luchtvaartmaatschappij uit de Unie:
 
-- i. de luchtvaartmaatschappij, overeenkomstig de EU-Verdragen, niet op het grondgebied van de Unie is gevestigd of niet beschikt over een geldige exploitatievergunning overeenkomstig de wetgeving van de Unie;
+   - i. de luchtvaartmaatschappij, overeenkomstig de EU-Verdragen, niet op het grondgebied van de Unie is gevestigd of niet beschikt over een geldige exploitatievergunning overeenkomstig de wetgeving van de Unie;
 
-- ii. het regelgevend toezicht op de luchtvaartmaatschappij niet wordt uitgeoefend of gehandhaafd door de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate, of de bevoegde autoriteit niet duidelijk is vermeld; of
+   - ii. het regelgevend toezicht op de luchtvaartmaatschappij niet wordt uitgeoefend of gehandhaafd door de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate, of de bevoegde autoriteit niet duidelijk is vermeld; of
 
-- iii. de luchtvaartmaatschappij niet rechtstreeks of door een meerderheidsbelang eigendom is van een of meer EU-lidstaten of lidstaten van de Europese Vrijhandelsassociatie of van onderdanen van die lidstaat of lidstaten, of deze lidstaten of onderdanen geen daadwerkelijke zeggenschap uitoefenen over de luchtvaartmaatschappij.
+   - iii. de luchtvaartmaatschappij niet rechtstreeks of door een meerderheidsbelang eigendom is van een of meer EU-lidstaten of lidstaten van de Europese Vrijhandelsassociatie of van onderdanen van die lidstaat of lidstaten, of deze lidstaten of onderdanen geen daadwerkelijke zeggenschap uitoefenen over de luchtvaartmaatschappij.
 
 - c. de luchtvaartmaatschappij de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=I&artikel=6&z=2021-10-18&g=2021-10-18) vermelde wetten en regels en/of de wetten en regels die normaal worden toegepast op de exploitatie van internationaal luchtvervoer door de partij die de aanvraag behandelt, niet heeft nageleefd.
 
@@ -341,17 +232,17 @@ De partijen erkennen de potentiële baten van de geleidelijke liberalisering van
 
 - a. steun voor insolvabele of noodlijdende luchtvaartmaatschappijen, op voorwaarde dat:
 
-- i. dergelijke steun wordt gekoppeld aan een geloofwaardig herstructureringsplan op basis van realistische aannames teneinde het herstel van de levensvatbaarheid van de insolvabele of noodlijdende luchtvaartmaatschappij binnen een redelijke termijn te waarborgen; en
+   - i. dergelijke steun wordt gekoppeld aan een geloofwaardig herstructureringsplan op basis van realistische aannames teneinde het herstel van de levensvatbaarheid van de insolvabele of noodlijdende luchtvaartmaatschappij binnen een redelijke termijn te waarborgen; en
 
-- ii. de betrokken luchtvaartmaatschappijen, hun investeerders of aandeelhouders een aanzienlijk deel van de herstructureringskosten dragen;
+   - ii. de betrokken luchtvaartmaatschappijen, hun investeerders of aandeelhouders een aanzienlijk deel van de herstructureringskosten dragen;
 
 - b. tijdelijke liquiditeitssteun aan een noodlijdende luchtvaartmaatschappij in de vorm van leningen of leninggaranties voor zover het bedrag daarvan niet hoger ligt dan het bedrag dat nodig is om ervoor te zorgen dat de betrokken maatschappij haar activiteiten kan voortzetten gedurende de tijd die nodig is om een herstructurings- of liquiditeitsplan op te stellen;
 
 - c. voor zover zij beperkt blijven tot de minimumbedragen die nodig zijn om hun doelstelling te bereiken en hun impact op het aanbieden van luchtvervoersdiensten tot een minimum wordt beperkt:
 
-- i. subsidies voor het herstel van door natuurrampen veroorzaakte schade;
+   - i. subsidies voor het herstel van door natuurrampen veroorzaakte schade;
 
-- ii. in het geval van Qatar, subsidies om het hoofd te bieden aan een ernstige verstoring in zijn economie; en in het geval van de EU en haar lidstaten, subsidies om het hoofd te bieden aan een ernstige verstoring in de economie van één of meer EU-lidstaten;
+   - ii. in het geval van Qatar, subsidies om het hoofd te bieden aan een ernstige verstoring in zijn economie; en in het geval van de EU en haar lidstaten, subsidies om het hoofd te bieden aan een ernstige verstoring in de economie van één of meer EU-lidstaten;
 
 - d. subsidies voor luchtvaartmaatschappijen die belast zijn met duidelijk omschreven openbaredienstverplichtingen die noodzakelijk zijn om tegemoet te komen aan vervoersbehoeften van de bevolking die niet alleen door de markt kunnen worden opgevangen, voor zover die subsidies beperkt blijven tot een redelijke compensatie voor de levering van de betrokken luchtvervoerdiensten.
 
@@ -363,9 +254,9 @@ De partijen erkennen de potentiële baten van de geleidelijke liberalisering van
 
 - a. feitelijke gedragingen te vertonen die voortvloeien uit expliciete of impliciete overeenkomsten of besluiten tussen concurrenten, die tot doel of als gevolg hebben dat de concurrentie wordt belemmerd, beperkt of verstoord. Dit verbod kan worden opgeheven als die overeenkomsten, besluiten of feitelijke gedragingen de verlening of verspreiding van de diensten helpen verbeteren of de technische of economische vooruitgang helpen bevorderen, waarbij een billijk aandeel in de daaruit voortvloeiende winsten wordt voorbehouden aan de consumenten, en zonder:
 
-- i. aan de betrokken ondernemingen beperkingen op te leggen welke voor het bereiken van deze doelstellingen niet onmisbaar zijn; of
+   - i. aan de betrokken ondernemingen beperkingen op te leggen welke voor het bereiken van deze doelstellingen niet onmisbaar zijn; of
 
-- ii. de betrokken ondernemingen de mogelijkheid te geven voor een wezenlijk deel van de desbetreffende diensten de mededinging uit te schakelen;
+   - ii. de betrokken ondernemingen de mogelijkheid te geven voor een wezenlijk deel van de desbetreffende diensten de mededinging uit te schakelen;
 
 - b. misbruik te maken van een dominante positie die gevolgen kan hebben voor de luchtvervoersdiensten naar/van deze partij, en
 
@@ -395,13 +286,19 @@ De partijen erkennen de potentiële baten van de geleidelijke liberalisering van
 
 ##### Artikel 8. Commerciële opportuniteiten
 
+Zaken doen
+
 1. De partijen zijn het erover eens dat de voordelen van deze overeenkomst niet kunnen worden verwezenlijkt wanneer commerciële exploitanten worden gehinderd in hun bedrijfsvoering. De partijen komen dan ook overeen om dergelijke hinderpalen voor de bedrijfsvoering van de luchtvaartmaatschappijen van beide partijen, die commerciële activiteiten belemmeren, concurrentieverstoringen veroorzaken of de totstandbrenging van een gelijk speelveld verhinderen, effectief en wederzijds uit de weg te ruimen.
 
 2. Het in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=III&artikel=22&z=2021-10-18&g=2021-10-18) bedoelde gemengd comité ontwikkelt een proces van samenwerking met betrekking tot bedrijfsvoering en commerciële opportuniteiten. Overeenkomstig artikel 22 mag een partij verzoeken om een vergadering van het gemengd comité teneinde alle vragen met betrekking tot de toepassing van dit artikel te bespreken.
 
+Vertegenwoordigers van luchtvaartmaatschappijen
+
 3. De luchtvaartmaatschappijen van beide partijen hebben het recht op het grondgebied van de andere partij kantoren en faciliteiten te openen voor de verlening van luchtvervoersdiensten en voor de promotie en verkoop van luchtvervoer en aanverwante activiteiten en hebben het recht zowel hun eigen tickets en/of luchtvrachtbrieven als die van alle andere luchtvaartmaatschappijen te verkopen en af te geven.
 
 4. De luchtvaartmaatschappijen van beide partijen hebben het recht om leidinggevend, verkoop-, technisch, operationeel en ander gespecialiseerd personeel dat nodig is om de luchtvervoersactiviteiten te ondersteunen, op het grondgebied van de andere partij binnen te brengen, te laten verblijven en te laten werken, overeenkomstig de wetten en regels van de andere partij met betrekking tot toegang, verblijf en werk. Beide partijen zorgen voor de gemakkelijke en snelle verlening van werkvergunningen voor het personeel dat in dienst is bij de in dit artikel bedoelde kantoren, inclusief het personeel dat tijdelijke taken uitvoert gedurende hoogstens 90 dagen, onverminderd de relevante geldende wetten en regels. Het staat de luchtvaartmaatschappijen van elke partij vrij op het grondgebied van de andere partij al dan niet een beroep te doen op een door hen aangewezen algemene verkoopagent.
+
+Grondafhandeling
 
 5. Elke luchtvaartmaatschappij heeft met betrekking tot grondafhandeling op het grondgebied van de andere partij het recht:
 
@@ -411,15 +308,21 @@ De partijen erkennen de potentiële baten van de geleidelijke liberalisering van
 
 Met betrekking tot de in de eerste alinea, punten a) en b), bedoelde rechten gelden uitsluitend specifieke beperkingen inzake beschikbare ruimte of capaciteit die nodig zijn voor een veilige exploitatie van de luchthaven. Indien dit tot gevolg heeft dat zelfafhandeling wordt beperkt, verhinderd of uitgesloten en indien er geen daadwerkelijke mededinging tussen leveranciers van grondafhandelingsdiensten bestaat, ziet de desbetreffende partij erop toe dat deze diensten op gelijke en niet-discriminerende basis ter beschikking worden gesteld van alle luchtvaartmaatschappijen; de prijzen van dergelijke diensten worden vastgesteld op basis van relevante, objectieve, transparante en niet-discriminerende criteria.
 
+Toewijzing van slots op luchthavens
+
 6. Elke partij ziet erop toe dat haar procedures, richtsnoeren en regels voor de toewijzing van de slots op de luchthavens op haar grondgebied op transparante, doeltreffende, niet-discriminerende en tijdige wijze worden toegepast.
 
 7. Een partij mag uitsluitend voor informatiedoeleinden verlangen dat kennisgeving wordt gedaan van operationele plannen, programma's of dienstregelingen betreffende krachtens deze overeenkomst geëxploiteerde diensten. Wanneer een partij een dergelijke kennisgeving verlangt, beperkt zij de administratieve last van de kennisgevingsverplichtingen en -procedures voor tussenpersonen en luchtvaartmaatschappijen van de andere partij tot het minimum.
+
+Verkoop, plaatselijke uitgaven en overmaking van fondsen
 
 8. Elke luchtvaartmaatschappij van elke partij mag luchtvervoersdiensten verkopen op het grondgebied van de andere partij, hetzij rechtstreeks, hetzij, naar keuze van de luchtvaartmaatschappij, via verkoopagenten, via andere tussenpersonen die door de luchtvaartmaatschappij zijn aangesteld, of via het internet of elk ander beschikbaar kanaal. Elke luchtvaartmaatschappij heeft het recht dergelijk vervoer te verkopen en het staat iedereen vrij dergelijk vervoer en bijbehorende diensten te kopen, in de munteenheid van dat grondgebied of in vrij converteerbare valuta.
 
 9. De luchtvaartmaatschappijen van beide partijen mogen de lokale uitgaven op het grondgebied van de andere partij, inclusief doch niet uitsluitend, de aankoop van brandstof, in lokale munt betalen. Het staat de luchtvaartmaatschappijen ook vrij dergelijke uitgaven op het grondgebied van de andere partij te betalen in vrij converteerbare valuta tegen de geldende wisselkoers.
 
 10. Elke luchtvaartmaatschappij heeft het recht om, op verzoek, op welk ogenblik en welke wijze dan ook, lokale inkomsten om te wisselen in om het even welke vrij converteerbare munteenheid en die inkomsten over te maken vanuit het grondgebied van de andere partij naar het land van haar keuze. De omwisseling en overmaking dienen onverwijld en zonder beperkingen of belastingen daarop te worden toegestaan tegen de officiële wisselkoers die geldt voor lopende transacties en overmakingen op de datum dat de luchtvaartmaatschappij de eerste aanvraag tot overmaking indient, en worden aan geen enkele heffing onderworpen, met uitzondering van de heffingen die de banken normaal in rekening brengen voor dergelijke omwisselingen en overmakingen.
+
+Samenwerkingsregelingen op het gebied van marketing
 
 11. Bij het exploiteren of aanbieden van diensten in het kader van deze overeenkomst mag een luchtvaartmaatschappij van een partij op het gebied van marketing samenwerkingsregelingen, zoals overeenkomsten inzake voorbehouden capaciteit of codesharingregelingen, sluiten met:
 
@@ -433,11 +336,17 @@ Met betrekking tot de in de eerste alinea, punten a) en b), bedoelde rechten gel
 
 13. Wanneer passagiersvervoer met coöperatieve marketingregelingen wordt verkocht, moet in het verkooppunt of in elk geval bij de check-in of, indien geen check-in vereist is voor een aansluitende vlucht, alvorens aan boord te gaan aan de koper worden meegedeeld door welke vervoerder elk deel van de dienst zal worden uitgevoerd.
 
+Intermodale diensten
+
 14. Wanneer luchtvaartmaatschappijen in eigen naam vervoer van passagiers op de grond aanbieden, zijn deze diensten niet onderworpen aan de wetten en regels inzake luchtvervoer.
 
 15. Niettegenstaande enige andere bepaling van deze overeenkomst is het de luchtvaartmaatschappijen en indirecte aanbieders van vrachtvervoer van de partijen zonder beperking toegestaan om in verband met internationaal luchtvervoer gebruik te maken van alle oppervlaktevervoer voor vracht van en naar een willekeurige punt op de grondgebieden van de partijen of in derde landen, met inbegrip van het vervoer naar en van alle luchthavens met douanefaciliteiten, en inclusief, indien van toepassing, het recht op douanevervoer van vracht in het kader van de geldende wetten en voorschriften. Deze vracht heeft, ongeacht of het oppervlaktevervoer dan wel luchtvervoer betreft, toegang tot de douaneprocedures en -faciliteiten op de luchthaven. Luchtvaartmaatschappijen kunnen verkiezen hun oppervlaktevervoer zelf te verzorgen of hiervoor regelingen te treffen met andere aanbieders van oppervlaktevervoer; ze mogen bijvoorbeeld een beroep doen op andere luchtvaartmaatschappijen die oppervlaktevervoer aanbieden en op indirecte aanbieders van luchtvrachtvervoer. Dergelijke intermodale vrachtvervoersdiensten kunnen worden aangeboden tegen een prijs waarin zowel het luchtvervoer als het oppervlaktevervoer is inbegrepen, voor zover de expediteurs correcte feitelijke informatie krijgen met betrekking tot dergelijk vervoer.
 
+Franchising en branding
+
 16. De luchtvaartmaatschappijen van elke partij hebben het recht franchising- of brandingovereenkomsten te sluiten met ondernemingen, met inbegrip van luchtvaartmaatschappijen, van beide partijen of van derde landen, mits de luchtvaartmaatschappijen de vereiste vergunning hebben en voldoen aan de voorwaarden die worden gesteld volgens de wetten en regels die gewoonlijk door de partijen op dergelijke overeenkomsten worden toegepast, met name die welke de vrijgave vereisen van de identiteit van de luchtvaartmaatschappij die de dienst exploiteert.
+
+Leasing
 
 17. De partijen verlenen elkaars luchtvaartmaatschappijen het recht om op grond van deze overeenkomst diensten te verlenen met:
 
@@ -501,7 +410,7 @@ Met betrekking tot de in de eerste alinea, punten a) en b), bedoelde rechten gel
 
 2. Op verzoek verstrekt elke partij de andere partij op niet-discriminerende basis de beschikbare niet-vertrouwelijke en niet commercieel gevoelige statistieken over luchtdiensten die in het kader van deze overeenkomst worden geëxploiteerd, zoals vereist uit hoofde van de wet- en regelgeving van de twee partijen, en die redelijkerwijze kan worden gevraagd.
 
-## TITEL II. SAMENWERKING OP REGELGEVINGSGEBIED
+### TITEL II. SAMENWERKING OP REGELGEVINGSGEBIED
 
 ##### Artikel 13. Veiligheid van de luchtvaart
 
@@ -529,7 +438,7 @@ Indien de andere partij nalaat binnen een redelijke termijn passende corrigerend
 
 1. De partijen benadrukken hun streven om de hoogste niveaus van normen voor de beveiliging van de luchtvaart te bereiken en kunnen op dit gebied, desgevallend, verdere dialoog en samenwerking aangaan.
 
-2. Beide partijen bevestigen dat hun verplichtingen tegenover elkaar ook de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden omvatten, met name hun verplichtingen uit hoofde van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), het [Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), ondertekend in Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend in Den Haag op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend in Montreal op 23 september 1971, het [Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), ondertekend te Montreal op 24 februari 1988, en het [Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), ondertekend te Montreal op 1 maart 1991, voor zover de partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de beveiliging van de burgerluchtvaart waartoe de partijen zijn toegetreden.
+2. Beide partijen bevestigen dat hun verplichtingen tegenover elkaar ook de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden omvatten, met name hun verplichtingen uit hoofde van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), het [Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), ondertekend in Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend in Den Haag op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend in Montreal op 23 september 1971, het [Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), ondertekend te Montreal op 24 februari 1988, en het [Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), ondertekend te Montreal op 1 maart 1991, voor zover de partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de beveiliging van de burgerluchtvaart waartoe de partijen zijn toegetreden.
 
 3. Op verzoek verlenen de partijen elkaar alle nodige bijstand om iedere bedreiging van de veiligheid van de burgerluchtvaart het hoofd te bieden, waaronder het voorkomen van wederrechtelijk de macht verwerven over burgerluchtvaartuigen en andere wederrechtelijke daden tegen de veiligheid van dergelijke luchtvaartuigen, hun passagiers en bemanning, luchthavens en luchtvaartnavigatiefaciliteiten, en alle andere dreigingen tegen de beveiliging van de burgerluchtvaart.
 
@@ -585,7 +494,7 @@ Indien de andere partij nalaat binnen een redelijke termijn passende corrigerend
 
 ##### Artikel 17. Aansprakelijkheid van luchtvaartmaatschappijen
 
-De partijen bevestigen hun verplichtingen uit hoofde van het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), dat op 28 mei 1999 in Montreal is opgesteld (het Verdrag van Montreal).
+De partijen bevestigen hun verplichtingen uit hoofde van het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), dat op 28 mei 1999 in Montreal is opgesteld (het Verdrag van Montreal).
 
 ##### Artikel 18. Consumentenbescherming
 
@@ -617,7 +526,7 @@ De partijen werken samen om de belangen van de consumenten in de luchtvaart te b
 
 7. Elke partij mag vragen dat het gemengd comité bijeenkomt om de door die partij belangrijk geachte arbeidskwesties te bespreken.
 
-## TITEL III. INSTITUTIONELE EN SLOTBEPALINGEN
+### TITEL III. INSTITUTIONELE EN SLOTBEPALINGEN
 
 ##### Artikel 21. Interpretatie en uitvoering
 

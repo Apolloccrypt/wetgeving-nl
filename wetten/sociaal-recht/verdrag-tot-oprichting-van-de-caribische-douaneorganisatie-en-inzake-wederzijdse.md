@@ -1,899 +1,836 @@
 ---
 title: "Verdrag tot oprichting van de Caribische Douaneorganisatie en inzake wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0006825"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-05-22"
-last_updated: "2019-05-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006825"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10005498513"
-version_id: "10005981752"
-internal_id: "C10009575581"
-label_id: "10005482844"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006825/2019-05-22/0"
-intitule_bron: "Trb.2019-108"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-07-17"
-intitule_status: "nogniet"
-original_publication: "Trb.2019-108"
-original_published_date: "2019-07-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2019-108"
-jci_1_3: "jci1.3:c:BWBV0006825&z=2019-05-22&g=2019-05-22"
-jci_1_0: "1.0:c:BWBV0006825&g=2019-05-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-07-17"
+laatste_update: 2019-05-22
+status: geldig
+toestand: 2019-05-22
+bron: "https://wetten.overheid.nl/BWBV0006825"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tot oprichting van de Caribische Douaneorganisatie en inzake wederzijdse administratieve bijstand in douanezaken
 
-De Staten bij dit Verdrag,
+*The States Parties to this Agreement, Whereas significant political and economic changes have taken place in the wider Caribbean Basin, and the peoples concerned have expressed their desire to accept increased responsibility in solving the problems of the area; Whereas over the years regional customs cooperation in the wider Caribbean Basin has developed in many fields and has rendered valuable services; Considering the expectation that regional customs cooperation in the wider Caribbean Basin will need to be enhanced further to cope with law enforcement, security and trade facilitation challenges in the region; Considering that offences against customs law are prejudicial to the security and public policy of the members, to the health and life of humans, animals or plants, to the national treasures possessing artistic, historic or archaeological value, to the industrial and commercial property and to their economic, commercial, fiscal and social interests; Whereas in order to further enhance and intensify customs cooperation in the wider Caribbean Basin, it is considered advisable to evaluate the experiences with the Caribbean Customs Law Enforcement Council in the light of the political and economic changes in the region and the new responsibilities which the customs administrations have undertaken in recent years to fulfill their customs revenue, enforcement, security and trade facilitation responsibilities; Considering the continued importance of the contribution to the budget and therefore of accurate assessment of customs duties and other taxes, and of ensuring proper enforcement by customs administrations of prohibitions, restrictions and measures of control in respect of specific goods; Taking into account the threat of transnational organized crime and terrorist groups with their substantial resources and the need to combat them effectively, using existing and new multilateral frameworks for exchanging information and other forms of international mutual administrative assistance; Recognizing the increased global concern for the security and facilitation of the international trade supply chains and the SAFE Framework of Standards to secure and facilitate global trade adopted to that effect by the World Customs Organization; Recognizing the importance of achieving a balance between law enforcement, security and trade facilitation requirements by focusing on high risk goods to meet the needs of governments for the protection of society and revenue as well as to ensure least possible customs interference with logistics of legitimate trade flows; Convinced that compliant international trade can and will be facilitated in particular by the adoption by customs administrations of modern control techniques, such as risk management based on high quality data obtained from trade and other customs administrations; Taking into account that companies increasingly invest in supply chain security for their own commercial purposes and that this contributes to enhanced compliance with customs legislation; Taking into account also that at a global level Authorized Economic Operator (AEO) programs have been introduced and that mutual recognition agreements, allowing AEO companies certified in one jurisdiction to enjoy benefits accorded to AEO companies in the other, are being concluded to add to benefits for companies that consider applying for AEO status; Recognizing that the international and regional exchange of information and intelligence sharing between customs administrations is an essential component of effective risk management and that the Joint Intelligence Unit that is operated by the Caribbean Customs Law Enforcement Council together with the World Customs Organization, plays an important role in this respect; Recognizing also that such international and regional exchange of information should be based on clear and solid legal provisions; Having regard to international agreements containing prohibitions, restrictions and measures of control in respect of specific goods; Recognizing the importance of ever closer practical cooperation between customs administrations worldwide but in particular in the wider Caribbean Basin, to prevent, investigate and combat offences against customs law; Convinced of the need to further enhance the effectiveness and efficiency of Caribbean customs administrations in pursuing their mandates through enhanced cooperation, sharing of best practices, human resource development, modernization, development of IT capabilities as well as simplification and harmonization of processes and procedures; Desiring therefore to establish a successor body to the informal association of customs administrations known as the Caribbean Customs Law Enforcement Council capable of encouraging the required regional customs cooperation on a clear and solid legal basis with due regard to integrity and good governance; Desiring to continue and build upon the existing close cooperation with other regional and international organizations that have concluded memoranda of understanding with the Caribbean Customs Law Enforcement Council; Recognizing that to the extent that a territory becomes a Member or Cooperating Partner in accordance with this Agreement and a State is responsible for the international relations of that territory, the constitutional relationship between the State and that territory is respected; Having regard to the United Nations Universal Declaration of Human Rights of 1948; Whereas the objectives herein set forth are in accord with the Charter of the United Nations; Have agreed as follows:*
 
-Overwegend de wezenlijke politieke en economische veranderingen die hebben plaatsgevonden in het Caribische gebied en de door de betrokken volkeren uitgedrukte wens om meer verantwoordelijkheid te dragen in het verhelpen van de problemen in het gebied;
+### CHAPTER I. DEFINITIONS
 
-Overwegend dat de regionale douanesamenwerking in het Caribische gebied zich in de loop der jaren op vele vlakken heeft ontwikkeld en waardevolle diensten heeft geleverd;
+##### Article 1. Definitions
 
-Gezien de verwachting dat de regionale douanesamenwerking in het Caribische gebied verder dient te worden uitgebreid om met de uitdagingen op het vlak van wetshandhaving, veiligheid en handelsfacilitatie om te kunnen gaan;
+For the purposes of this Agreement:
 
-Overwegend dat inbreuken op de douanewetgeving schadelijk zijn voor de veiligheid en openbare orde van de leden, voor de gezondheid en het leven van mens, dier of plant, voor nationale schatten van artistieke, historische of archeologische waarde, voor industriële of commerciële eigendom en hun economische, commerciële, fiscale en sociale belangen;
+- (i) the term “Communities” shall mean any regional integration process or initiative in which customs administrations have committed themselves to co-operate for mutual administrative assistance purposes;
 
-Gezien het om de douanesamenwerking in het Caribische gebied verder te versterken en te bevorderen raadzaam wordt geacht om de ervaringen met de Caribische Raad voor de handhaving van de douanewetgeving te evalueren in het licht van de politieke en economische veranderingen in de regio en de nieuwe verantwoordelijkheden die de douaneadministraties de afgelopen jaren hebben aanvaard om te voldoen aan hun verantwoordelijkheden inzake douaneheffingen, handhaving, veiligheid en handelsfacilitatie;
+- (ii) the term “customs administration” shall mean the customs authority and any other authority of a Member either authorized under national law to perform customs responsibilities or designated by that Member to apply and implement any provision of this Agreement, and is deemed to also mean the customs authorities of Cooperating Partners unless otherwise stated in this Agreement or a cooperation arrangement;
 
-Gelet op het voortdurende belang van de bijdrage aan de begroting en derhalve van een juiste vaststelling van de douanerechten en van andere belastingen en van het waarborgen van een juiste handhaving door hun douaneadministraties van verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen;
+- (iii) the term “customs claim” shall mean any amount of customs duties that cannot be collected in the territory of one of the Members;
 
-Rekening houdend met de dreiging van grensoverschrijdende georganiseerde misdaad en terroristische organisaties met hun aanzienlijke middelen en de noodzaak om deze doeltreffend te bestrijden waarbij gebruik wordt gemaakt van bestaande en nieuwe multilaterale kaders voor uitwisseling van informatie en andere vormen van internationale wederzijdse administratieve bijstand;
+- (iv) the term “customs duties” shall mean all duties, taxes, fees or any other charges which are levied in the territories of the Members in application of customs law, but not including fees and charges for services rendered;
 
-Indachtig de toegenomen mondiale bezorgdheid over de veiligheid en facilitatie van de internationale logistieke ketens en het SAFE Framework of Standards dat hiertoe is vastgesteld door de Werelddouaneorganisatie;
+- (v) the term “customs law” shall mean any legal and administrative provisions applicable or enforceable by the customs administration of a Member in connection with the importation, exportation, transshipment, transit, storage and movement of goods and persons, including legal and administrative provisions relating to measures of prohibition, restriction and control, and to combating money laundering and terrorism financing;
 
-Het belang erkennend van het bereiken van een evenwicht tussen vereisten op het gebied van wetshandhaving, veiligheid en handelsfacilitatie door zich te richten op goederen met een hoog risico om te voldoen aan de behoeften van regeringen voor de bescherming van de maatschappij en belastingen alsmede het zorgen voor zo min mogelijk douane-interventies in de logistiek van legitieme handelsstromen;
+- (vi) the term “customs offence” shall mean any breach, or attempted breach, of a Member’s customs law;
 
-Ervan overtuigd dat internationale handel kan en zal worden vergemakkelijkt met name door het aannemen door douaneadministraties van moderne controletechnieken, zoals risicomanagement op basis van gegevens van hoge kwaliteit die zijn verkregen van de handel en andere douaneadministraties;
+- (vii) the term “information” shall mean any data, whether or not processed or analyzed, and documents, reports, and other communications in any format, including electronic, or certified or authenticated copies thereof;
 
-Ermee rekening houdend dat bedrijven steeds meer investeren in de beveiliging van de toeleveringsketen voor hun eigen commerciële doeleinden en dat dit bijdraagt aan een betere naleving van de douanewetgeving;
+- (viii) the term “international trade supply chain” shall mean all processes involved in the cross-border movement of goods from the place of origin to the place of final destination;
 
-Er tevens rekening mee houdend dat op mondiaal niveau programma's voor Geautoriseerde Marktdeelnemers (AEO) zijn ingevoerd en dat overeenkomsten voor wederzijdse erkenning – waarmee in een bepaald gebied geautoriseerde AEO-bedrijven kunnen genieten van voordelen die in een ander gebied aan AEO-bedrijven worden toegekend – worden gesloten om voordelen toe te voegen voor bedrijven die overwegen de AEO-status aan te vragen;
+- (ix) the term “official” shall mean any customs official or other government agent designated by a customs administration or by the Caribbean Customs Organization to perform functions for the purposes of this Agreement;
 
-Erkennend dat de internationale en regionale uitwisseling van informatie en inlichtingen door douaneadministraties een essentieel onderdeel is van doeltreffend risicomanagement en dat de Gezamenlijke Inlichtingeneenheid die door de Caribische Raad voor de handhaving van de douanewetgeving samen met de Werelddouaneorganisatie wordt beheerd, hierbij een belangrijke rol vervult;
+- (x) the term “person” shall mean both natural and legal persons, unless the context otherwise requires;
 
-Tevens erkennend dat een dergelijke internationale en regionale uitwisseling van informatie gebaseerd dient te zijn op duidelijke en solide wettelijke bepalingen;
+- (xi) the term “personal data” shall mean any data concerning an identified or identifiable natural person;
 
-Gelet op internationale overeenkomsten die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten;
+- (xii) the term “requesting administration” shall mean the customs administration which requests assistance;
 
-Het belang erkennend van de steeds nauwere praktische samenwerking tussen douaneadministraties wereldwijd, en in het bijzonder in het Caribische gebied bij het voorkomen, onderzoeken en bestrijden van inbreuken op de douanewetgeving;
+- (xiii) the term “requested administration” shall mean the customs administration from which assistance is requested;
 
-Overtuigd van de noodzaak om de doeltreffendheid en doelmatigheid van de Caribische douaneadministraties bij het uitoefenen van hun mandaten verder te versterken door verbeterde samenwerking, het delen van beste praktijken, loopbaanontwikkeling, moderniseren, ontwikkeling van IT-capaciteiten en het vereenvoudigen en harmoniseren van processen en procedures;
+- (xiv) the term “requesting Member” shall mean the Member whose customs administration requests assistance;
 
-Derhalve verlangend om een opvolger op te richten van de informele organisatie van douaneadministraties die bekend staat als de Caribische Raad voor de handhaving van de douanewetgeving die in staat is de vereiste regionale douanesamenwerking aan te moedigen op een duidelijke en solide wettelijke basis met inachtneming van integriteit en goed bestuur;
+- (xv) the term “requested Member” shall mean the Member whose customs administration is requested to provide assistance;
 
-Verlangend om de bestaande nauwe samenwerking met andere regionale en internationale organisaties die memoranda van overeenstemming hebben gesloten met de Caribische Raad voor de handhaving van de douanewetgeving voort te zetten en daarop voort te bouwen;
+- (xvi) the term “Secretary General” shall mean the Secretary General of the Caribbean Customs Organization.
 
-Erkennend dat voor zover een grondgebied Lid of samenwerkingspartner wordt in overeenstemming met dit Verdrag en een Staat verantwoordelijk is voor de internationale betrekkingen van dat grondgebied, de constitutionele relatie tussen de Staat en dat grondgebied wordt gerespecteerd;
+### CHAPTER II. ESTABLISHMENT OF THE CARIBBEAN CUSTOMS ORGANIZATION AND ITS PURPOSE AND FUNCTIONS
 
-Gelet op de [Universele Verklaring van de Rechten van de Mens van de Verenigde Naties van 1948](onbekend);
+##### Article 2. Establishment of the Organization
 
-Overwegend dat de hierin geformuleerde doelstellingen in overeenstemming zijn met het Handvest van de Verenigde Naties;
+1. The Caribbean Customs Organization (hereinafter referred to as “the Organization”) is hereby established as an international organization with legal personality. It shall have such capacity as may be necessary for the exercise of its functions and the fulfillment of its purposes.
 
-Zijn het volgende overeengekomen:
+2. The Organization may bind its Members by resolutions adopted in accordance with [paragraph 2 (xvi) of Article 8](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
+##### Article 3. Purpose and functions of the Organization
 
-##### Artikel 1. Begripsomschrijvingen
+The purpose of the Organization shall be to concern itself with customs cooperation and with all related matters of common interest to the customs administrations of Members as well as, in close cooperation with the World Customs Organization, with customs matters of interest to the Organization at global level.
 
-Voor de toepassing van dit Verdrag:
+The functions of the Organization will include:
 
-- i. wordt onder de uitdrukking „Gemeenschappen” verstaan: alle regionale integratieprocessen of initiatieven waarin douaneadministraties zich hebben gecommitteerd tot samenwerking ten behoeve van wederzijdse administratieve bijstand;
+- (i) ensuring effective revenue collection;
 
-- ii. wordt onder de uitdrukking „douaneadministratie” verstaan: de douaneautoriteit en elke andere autoriteit van een Lid die krachtens het nationale recht bevoegd is om douaneverantwoordelijkheden uit te voeren of die door het Lid is aangesteld om alle bepalingen van dit Verdrag toe te passen en uit te voeren. Tevens wordt geacht dat hieronder worden verstaan de douaneautoriteiten van Samenwerkingspartners tenzij anders is voorzien in dit Verdrag of een samenwerkingsregeling;
+- (ii) ensuring collaboration to counter risk of cross border crime;
 
-- iii. wordt onder de uitdrukking „douanevordering” verstaan: elk bedrag aan douanerechten dat niet op het grondgebied van een van de Leden geïnd kan worden;
+- (iii) supporting and coordinating the regional customs response to violent extremism and terrorism;
 
-- iv. wordt onder de uitdrukking „douanerechten” verstaan: alle rechten, belastingen of andere heffingen die geheven worden op de grondgebieden van de Leden bij toepassing van de douanewetgeving, maar met uitzondering van heffingen voor verleende diensten;
+- (iv) enhancing the security and facilitation of the international supply chains;
 
-- v. wordt onder de uitdrukking „douanewetgeving” verstaan: alle wettelijke en administratieve bepalingen die door een van de douaneadministraties van een Lid worden toegepast of gehandhaafd in verband met de invoer, uitvoer, overslag, doorvoer, opslag en het vervoer van goederen, met inbegrip van wettelijke en administratieve bepalingen met betrekking tot verboden, beperkingen en controlemaatregelen, en in verband met de bestrijding van witwassen en de financiering van terrorisme;
+- (v) better securing national borders by enhanced monitoring and control of international movements of goods and people;
 
-- vi. wordt onder de uitdrukking „inbreuk op de douanewetgeving” verstaan: elke schending van de douanewetgeving van een Lid, alsmede elke poging tot schending;
+- (vi) encouraging and supporting exchange of information among the members;
 
-- vii. wordt onder de uitdrukking „informatie” verstaan: alle gegevens, al dan niet bewerkt of geanalyseerd, en documenten, rapporten en andere mededelingen ongeacht in welke vorm, met inbegrip van de elektronische vorm, of gewaarmerkte of gelegaliseerde afschriften daarvan;
+- (vii) coordinating information gathering and intelligence sharing capabilities;
 
-- viii. wordt onder de uitdrukking „internationale logistieke keten” verstaan: alle processen die van toepassing zijn bij het grensoverschrijdend verkeer van goederen van de plaats van herkomst naar de uiteindelijke plaats van bestemming;
+- (viii) ensuring implementation of cross-regional risk management techniques and collaborative operations;
 
-- ix. wordt onder de uitdrukking „ambtenaar” verstaan: alle douaneambtenaren of andere overheidsfunctionarissen die door een douaneadministratie of de Caribische Douaneorganisatie zijn aangesteld om functies te vervullen voor de toepassing van dit Verdrag;
+- (ix) sharing results of controls carried out; and
 
-- x. wordt onder de uitdrukking „persoon” verstaan: zowel natuurlijke als rechtspersonen, tenzij de context anders vereist;
+- (x) assisting in capacity building and technical cooperation programs.
 
-- xi. wordt onder „persoonsgegevens” verstaan: alle gegevens betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
+##### Article 4. The Council
 
-- xii. wordt onder de uitdrukking „verzoekende administratie” verstaan: de douaneadministratie die verzoekt om bijstand;
+The governing body of the Organization shall be the Caribbean Customs Organization Council (hereinafter referred to as “the Council”).
 
-- xiii. wordt onder de uitdrukking „aangezochte administratie” verstaan: de douaneadministratie die om bijstand wordt verzocht;
+##### Article 5. Membership
 
-- xiv. wordt onder de uitdrukking „verzoekend Lid” verstaan: het Lid wier douaneadministratie om bijstand verzoekt;
+1. Membership of the Caribbean Customs Organization shall be open to:
 
-- xv. wordt onder de uitdrukking „aangezocht Lid” verstaan: het Lid wier douaneadministratie om bijstand wordt verzocht;
+- (i) all States in the wider Caribbean Basin;
 
-- xvi. wordt onder de uitdrukking „Secretaris-Generaal” verstaan: de Secretaris-Generaal van de Caribische Douaneorganisatie.
+- (ii) all States that are signatories of the Memorandum of Understanding regarding Mutual Assistance and Cooperation for the Prevention of Offenses in the Caribbean Zone, signed in Miami on 7 November 1989;
 
-### HOOFDSTUK II. OPRICHTING VAN DE CARIBISCHE DOUANEORGANISATIE EN HAAR DOEL EN TAKEN
+- (iii) any territory or territories possessing autonomy in the conduct of customs matters, in the wider Caribbean Basin or signatory of the Memorandum of Understanding regarding Mutual Assistance and Cooperation for the Prevention of Offenses in the Caribbean Zone, in accordance with [paragraphs 1 to 4 of Article 60](https://wetten.overheid.nl/BWBV0006825) of this Agreement;
 
-##### Artikel 2. Oprichting van de Organisatie
+- (iv) any other State, or any territory or territories possessing autonomy in the conduct of customs matters, upon application, after a decision of the Council, in accordance with [paragraph 2 (iv) of Article 8](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-1. Hierbij wordt opgericht de Caribische Douaneorganisatie (hierna „de Organisatie”) zijnde een internationale organisatie met rechtspersoonlijkheid. De Organisatie beschikt over de bevoegdheid die nodig is voor het verrichten van haar taken en het verwezenlijken van haar doelstellingen.
+2. Those territories eligible for membership of the Organization shall become Members on the entry into force of the Agreement for them in accordance with [Article 64](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-2. De Organisatie kan haar Leden binden door middel van resoluties die worden aangenomen in overeenstemming met [artikel 8, tweede lid, onderdeel xvi](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=8&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+##### Article 6. Cooperating Partner
 
-##### Artikel 3. Doel en taken van de Organisatie
+1. Any State, or any territory possessing autonomy in the conduct of customs matters, which is qualified for membership of the Organization in accordance with [Article 5](https://wetten.overheid.nl/BWBV0006825) of this Agreement, may, upon application to the Council, be admitted to the Organization as a Cooperating Partner, and the conditions of admittance shall be recorded in a cooperative arrangement between the applicant State or territory and the Organization.
 
-Het doel van de Organisatie is zich bezig te houden met douanesamenwerking en alle daarmee verband houdende kwesties van gemeenschappelijk belang voor de douaneadministraties van Leden alsmede, in nauwe samenwerking met de Werelddouaneorganisatie, met douanekwesties die van belang zijn voor de Organisatie op mondiaal niveau.
+2. A Cooperating Partner shall, after entry into force of the cooperative arrangement with the Organization, unless otherwise specified in this Agreement or the cooperative arrangement, participate in the Organization to the same extent as a Member under this Agreement.
 
-De taken van de Organisatie omvatten:
+3. Cooperating Partners may at any time after being admitted as such to the Organization become Member in accordance with [Article 5](https://wetten.overheid.nl/BWBV0006825) of this Agreement and with [paragraph 2 (iv) of Article 8](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-- i. het waarborgen van effectieve inning van belastingen;
+##### Article 7. General undertaking
 
-- ii. het waarborgen van samenwerking om het risico van grensoverschrijdende criminaliteit tegen te gaan;
+Members shall take all appropriate measures, whether general or particular, to ensure the carrying out of obligations arising out of this Agreement or resulting from decisions taken by the Council of the Organization. They shall facilitate the achievement of the objectives of the Organization. They shall abstain from any measures which could jeopardize the attainment of the objectives of this Agreement.
 
-- iii. het ondersteunen en coördineren van het regionale douaneoptreden bij gewelddadig extremisme en terrorisme;
+##### Article 8. The Council and its functions
 
-- iv. het verbeteren van de veiligheid en de facilitatie van de internationale logistieke ketens;
+1. The Council is the supreme body of the Organization and shall be composed of Members. The Council shall establish its own rules of procedure.
 
-- v. het beter bewaken van nationale grenzen door een versterkt toezicht op en controle van het internationale verkeer van goederen en personen;
+2. The Council has the following responsibilities:
 
-- vi. het aanmoedigen en ondersteunen van de uitwisseling van informatie tussen de leden;
+- (i) to raise the awareness of customs and the Organization within Member Governments and to promote and support the role of customs nationally and regionally;
 
-- vii. het coördineren van capaciteiten op het gebied van het verzamelen van informatie en het delen van inlichtingen;
+- (ii) to assess institutional development and capacity building needs;
 
-- viii. het waarborgen van de uitvoering van regio-overschrijdende risicobeheertechnieken en samenwerkingsacties;
+- (iii) to convene the annual or an extraordinary conference;
 
-- ix. het delen van de resultaten van uitgevoerde controles; en
+- (iv) to approve applications on the basis of [Article 5 paragraph 1 (iv)](https://wetten.overheid.nl/BWBV0006825) of this Agreement of any State or territory to become Member of the Organization;
 
-- x. het verlenen van bijstand bij programma's voor capaciteitsopbouw en technische samenwerking.
+- (v) to approve cooperative arrangements with Cooperating Partners on the basis of [Article 6](https://wetten.overheid.nl/BWBV0006825) of this Agreement and with other international or regional organizations;
 
-##### Artikel 4. De Raad
+- (vi) to elect the members of the Executive Committee, the Finance Committee, the Enforcement Committee, the Audit Committee and any other Committees or subsidiary bodies it may wish to establish to assist in fulfilling its responsibilities;
 
-Het bestuursorgaan van de Organisatie is de Raad van de Caribische Douaneorganisatie (hierna „de Raad”).
+- (vii) to approve the financial report for the past year submitted by the Secretary General on the basis of [paragraph 2 (vi) of Article 15](https://wetten.overheid.nl/BWBV0006825) of this Agreement taking account of the conclusions and recommendations of the Finance Committee and the Executive Committee;
 
-##### Artikel 5. Lidmaatschap
+- (viii) to approve the budget for the following year, taking account of the recommendations of the Finance Committee and the Executive Committee;
 
-1. Het lidmaatschap van de Caribische Douaneorganisatie staat open voor:
+- (ix) to fix, on the basis of recommendations of the Finance Committee and the Executive Committee, the amount of the yearly contribution to the Organization for Members and, in the case of the country hosting the office of the Secretariat or a Cooperating Partner, if the cooperative arrangement so provides, the level of payments in kind to the Organization;
 
-- i. alle staten in het Caribische gebied;
+- (x) to approve the report of activities undertaken, including measurement of these activities against the work program approved by the Council in the previous year, taking into account the conclusions and recommendations of the Enforcement Committee and the Executive Committee;
 
-- ii. alle staten die het Memorandum van Overeenstemming inzake wederzijdse bijstand en samenwerking ter voorkoming van strafbare feiten in het Caribische gebied hebben ondertekend in Miami op 7 november 1989;
+- (xi) to approve or modify the work program recommended by the Executive Committee for the following year, to introduce new initiatives, and to endorse the resources to carry forward the work plan;
 
-- iii. elk grondgebied dat of de grondgebieden die over autonomie beschikt of beschikken bij het uitvoeren van douanetaken, in het Caribische gebied of ondertekenaar is of zijn van het Memorandum van Overeenstemming inzake wederzijdse bijstand en samenwerking ter voorkoming van strafbare feiten in het Caribische gebied, in overeenstemming met [artikel 60, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=60&z=2019-05-22&g=2019-05-22), van dit Verdrag;
+- (xii) to appoint the Secretary General and, as required, a Deputy Secretary General;
 
-- iv. elke andere staat, of elk grondgebied dat of de grondgebieden die over autonomie beschikt of beschikken bij het uitvoeren van douanezaken, op verzoek, na een beslissing van de Raad, in overeenstemming met [artikel 8, tweede lid, onderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=8&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+- (xiii) to define the terms and conditions of employment as well as the location from which the Secretary General and Deputy Secretary General will perform Organization duties;
 
-2. De grondgebieden die in aanmerking komen voor lidmaatschap van de Organisatie worden Lid bij het voor hen in werking treden van het Verdrag in overeenstemming met [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=64&z=2019-05-22&g=2019-05-22) van dit Verdrag.
+- (xiv) to provide direction for the general management and conduct of the business of the Organization;
 
-##### Artikel 6. Samenwerkingspartner
+- (xv) to approve the rules of procedure of all Committees and other subsidiary bodies; and
 
-1. Elke staat, of elk grondgebied dat over autonomie beschikt bij het uitvoeren van douanezaken, die in aanmerking komt voor lidmaatschap van de Organisatie in overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22) van dit Verdrag kan, na een bij de Raad daartoe ingediend verzoek, worden toegelaten tot de Organisatie als Samenwerkingspartner. De voorwaarden voor toelating zijn vastgelegd in een samenwerkingsovereenkomst tussen de verzoekende Staat of het verzoekende grondgebied en de Organisatie.
+- (xvi) to approve resolutions that shall be binding on Members.
 
-2. Een Samenwerkingspartner neemt, na de inwerkingtreding van de samenwerkingsovereenkomst met de Organisatie, op dezelfde wijze deel aan de Organisatie als een Lid overeenkomstig dit Verdrag, tenzij anders is aangegeven in dit Verdrag of de samenwerkingsovereenkomst.
+3. An extraordinary session of the Council may be convened on demand by no less than two thirds of the Members.
 
-3. Samenwerkingspartners kunnen te allen tijde na aldus te zijn toegelaten tot de Organisatie Lid worden in overeenstemming met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22) van dit Verdrag en met [artikel 8, tweede lid, onderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=8&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+##### Article 9. Sessions and procedures of the Council
 
-##### Artikel 7. Algemene toezegging
+1. Sessions of the Council shall in principle be held in the territory of each of the Members in turn, and a similar principle, where appropriate, should be followed with regard to all other activities of the Organization.
 
-Leden treffen alle passende algemene of bijzondere maatregelen om te waarborgen dat verplichtingen uit hoofde van dit Verdrag of die resulteren uit door de Raad van de Organisatie genomen beslissingen worden uitgevoerd. Zij faciliteren het verwezenlijken van de doelstellingen van de Organisatie. Zij onthouden zich van maatregelen die het bereiken van de doelstellingen van dit Verdrag in gevaar brengen.
+2. The Council shall hold at least one session each year at which the annual work plan and budget for the ensuing year shall be endorsed and may convene and hold more sessions at such times and at such places as it may decide.
 
-##### Artikel 8. De Raad en zijn taken
+3. The first Chairman shall be elected at the first session and shall hold office until the next session of the Council. Thereafter the Chairmanship shall rotate in accordance with such rules of procedure as the Council may adopt.
 
-1. De Raad is het hoogste orgaan van de Organisatie en is samengesteld uit Leden. De Raad stelt zijn eigen reglement van orde vast.
+##### Article 10. Sessions of the Council
 
-2. De Raad heeft de volgende verantwoordelijkheden:
+1. The Council shall determine the location and date of its session subject to the exigencies of the host country.
 
-- i. het verhogen van het bewustzijn omtrent douane en de Organisatie bij de Regeringen van de Leden en het bevorderen en ondersteunen van de rol van douane op nationaal en regionaal vlak;
+2. A validly constituted quorum for a session of the Council shall exist when at least one half of the Members is present.
 
-- ii. het beoordelen van de behoeften op het gebied van institutionele ontwikkeling en capaciteitsopbouw;
+3. All Members shall have the right to speak at the annual and any extraordinary sessions of the Council.
 
-- iii. het bijeenroepen van de jaarlijkse of een buitengewone conferentie;
+4. Each Member shall have one vote on resolutions of the Council, subject to compliance by the Member concerned with [paragraph 1 of Article 16](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-- iv. het goedkeuren van aanvragen op grond van [artikel 5, eerste lid, onderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22), van dit Verdrag van elke Staat of elk grondgebied om Lid te worden van de Organisatie;
+5. Resolutions of the Council shall be adopted by a two third majority of the votes submitted.
 
-- v. het goedkeuren van samenwerkingsregelingen met Samenwerkingspartners op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=6&z=2019-05-22&g=2019-05-22) van dit Verdrag en met andere internationale of regionale organisaties;
+##### Article 11. The Executive Committee
 
-- vi. het verkiezen van de leden van de Uitvoerende Commissie, de Financiële Commissie, de Handhavingscommissie, de Auditcommissie en alle andere commissies of hulporganen die de Raad wellicht zou willen oprichten ten behoeve van het uitvoeren van zijn verantwoordelijkheden;
+1. The Executive Committee shall consist of no less than five members, including a Chairman and shall establish its own rules of procedure, subject to approval by the Council. The Executive Committee should preferably reflect a balanced representation of the Members. Each member of the Executive Committee will have one vote with the Chairman having a casting vote.
 
-- vii. het goedkeuren van de financiële rapportage van het voorgaande jaar dat door de Secretaris-Generaal wordt ingediend op basis van [artikel 15, tweede lid, onderdeel vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=15&z=2019-05-22&g=2019-05-22), van dit Verdrag, rekening houdend met de conclusies en aanbevelingen van de Financiële Commissie en de Uitvoerende Commissie;
+2. Members of the Executive Committee shall be elected for two-year terms and thereafter may be eligible for re-election. However, the country hosting the office of the Secretariat shall be a permanent member of the Executive Committee.
 
-- viii. het goedkeuren van de begroting voor het volgende jaar, rekening houdend met de aanbevelingen van de Financiële Commissie en de Uitvoerende Commissie;
+3. The members of the Executive Committee shall elect a Chairman and a Vice Chairman from amongst their ranks.
 
-- ix. het vaststellen, op basis van de aanbevelingen van de Financiële Commissie en de Uitvoerende Commissie van het bedrag van de jaarlijkse bijdrage aan de Organisatie voor Leden en, in het geval van het land waar het Secretariaat is gevestigd of een Samenwerkingspartner, indien de samenwerkingsovereenkomst daarin voorziet, de omvang van de betalingen in natura aan de Organisatie;
+4. A quorum of the Executive Committee shall be at least one half of the membership of the Committee.
 
-- x. het goedkeuren van het verslag van de verrichte activiteiten, waaronder het toetsen van deze activiteiten aan het door de Raad in het voorgaande jaar goedgekeurde werkprogramma, rekening houdend met de conclusies en aanbevelingen van de Handhavingscommissie en de Uitvoerende Commissie;
+5. Membership of the Executive Committee shall be restricted to Members, subject to compliance with [paragraph 1 of Article 16](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-- xi. het goedkeuren of wijzigen van het door de Uitvoerende Commissie voor het volgende jaar aanbevolen werkprogramma, het ontplooien van nieuwe initiatieven en het goedkeuren van de middelen om het werkplan uit te voeren;
+6. The Executive Committee may approve the attendance of observers at any of its meetings.
 
-- xii. het benoemen van de Secretaris-Generaal en, in voorkomend geval, van een plaatsvervangend Secretaris-Generaal;
+7. The responsibilities of the Executive Committee include:
 
-- xiii. het formuleren van de arbeidsvoorwaarden alsmede de locatie van waaruit de Secretaris-Generaal en de plaatsvervangend Secretaris-Generaal de taken van de Organisatie uitvoeren;
+- (i) to recommend to the Council candidates for the position of Secretary General and, as required, Deputy Secretary General;
 
-- xiv. het verschaffen van aanwijzingen voor de algemene leiding en de bedrijfsvoering van de Organisatie;
+- (ii) to direct and monitor the implementation of the approved work program of the Secretary General;
 
-- xv. het goedkeuren van het reglement van orde van alle commissies en overige hulporganen; en
+- (iii) in the event that the Council makes no decision to call an annual or extraordinary session, determine their dates, venue and agenda, and ensure timely notification to the Members;
 
-- xvi. het goedkeuren van resoluties die bindend zijn voor de Leden.
+- (iv) to invite Members to an extraordinary session of the Council;
 
-3. Een buitengewone zitting van de Raad kan op verzoek van ten minste twee derden van de Leden worden bijeengeroepen.
+- (v) to accept or reject donations and contributions;
 
-##### Artikel 9. Zittingen en procedures van de Raad
+- (vi) to make the necessary and convenient arrangements for financing the organization and the operations of the Executive Committee, and to submit the Financial Report of the previous year for consideration by the Council;
 
-1. Zittingen van de Raad vinden in principe beurtelings plaats op het grondgebied van de Leden en een vergelijkbaar principe dient, in voorkomend geval, te worden gevolgd met betrekking tot alle overige activiteiten van de Organisatie.
+- (vii) to submit to the annual session of the Council a report on activities undertaken the previous year;
 
-2. De Raad houdt ten minste een zitting per jaar waar het jaarlijkse werkplan en de begroting voor het volgende jaar worden goedgekeurd en kan meer zittingen bijeenroepen en houden op het tijdstip en de plaats waartoe deze kan besluiten.
+- (viii) to submit to the annual session of the Council a balanced budget and work program for the ensuing year;
 
-3. De eerste Voorzitter wordt tijdens de eerste zitting verkozen en blijft in functie tot de volgende zitting van de Raad. Hierna rouleert het Voorzitterschap in overeenstemming met het door de Raad goedgekeurde reglement van orde.
+- (ix) to comment on reports of other Committees and make recommendations, as appropriate, with a view to facilitating the discussions in the Council;
 
-##### Artikel 10. Zittingen van de Raad
+- (x) to invite persons to participate in the activities of the Organization; and
 
-1. De Raad bepaalt de locatie en de datum van de zitting afhankelijk van de omstandigheden van het gastland.
+- (xi) to monitor compliance of Cooperating Partners against the terms and conditions of their cooperative agreement.
 
-2. Voor een zitting van de Raad geldt dat een geldig quorum is bereikt indien ten minste de helft van de Leden aanwezig is.
+8. The Executive Committee may establish sub-Committees to advise and assist the Executive Committee and the Secretary General in achieving the objectives of the Organization, as set out in this Agreement.
 
-3. Alle Leden hebben spreekrecht op de jaarlijkse en buitengewone zittingen van de Raad.
+9. The Executive Committee is responsible for the development, maintenance and administration of the general procedures governing the Organization.
 
-4. Elk Lid heeft een stem bij de stemming over resoluties van de Raad, afhankelijk van naleving door het desbetreffende Lid van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=16&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+##### Article 12. The Finance Committee
 
-5. Beslissingen van de Raad worden aangenomen door een meerderheid van twee derde van de uitgebrachte stemmen.
+1. The Finance Committee shall consist of no less than five members, including a Chairman, and shall establish its own rules of procedure, subject to approval by the Council. The Finance Committee should reflect a balanced representation of the Members. Each member of the Finance Committee will have one vote with the Chairman having a casting vote.
 
-##### Artikel 11. De Uitvoerende Commissie
+2. Members of the Finance Committee shall be elected for two-year terms and thereafter may be eligible for re-election.
 
-1. De Uitvoerende Commissie bestaat uit ten minste vijf leden, waaronder een Voorzitter en stelt haar eigen reglement van orde vast, afhankelijk van goedkeuring door de Raad. De Uitvoerende Commissie dient bij voorkeur een evenwichtige afspiegeling te zijn van de Leden. Elk lid van de Uitvoerende Commissie heeft een stem en de stem van de Voorzitter geeft de doorslag.
+3. The members of the Finance Committee shall elect a Chairman and a Vice Chairman from amongst their ranks.
 
-2. Leden van de Uitvoerende Commissie worden voor een termijn van twee jaar verkozen en kunnen daarna in aanmerking komen voor herverkiezing. Echter, het land waar het Secretariaat is gevestigd is permanent lid van de Uitvoerende Commissie.
+4. A quorum of the Finance Committee shall be at least one half of the membership of the Committee.
 
-3. De leden van de Uitvoerende Commissie verkiezen een Voorzitter en een Vicevoorzitter uit hun midden.
+5. Membership to the Finance Committee will be restricted to Members, subject to compliance with [paragraph 1 of Article 16](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-4. Een quorum van de Uitvoerende Commissie bestaat uit ten minste de helft van de leden van de Commissie.
+6. The Finance Committee may determine the attendance of observers at any of its meetings.
 
-5. Het lidmaatschap van de Uitvoerende Commissie is beperkt tot de Leden, mits voldaan is aan [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=16&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+7. The responsibilities of the Finance Committee include:
 
-6. De Uitvoerende Commissie mag de aanwezigheid van waarnemers bij haar bijeenkomsten toestaan.
+- (i) to examine the full Audit Report on the previous financial year, prepared by the Organization’s external financial auditor, together with the Secretary General’s comments thereon and, on the basis of that Report and the audited accounts for the previous financial year, to recommend, if appropriate, that the Council approves those accounts, accepts the Secretary General’s proposals for the apportionment of the result of the profit and loss account, and acquits the Secretary General of his financial responsibilities for the previous financial year;
 
-7. De verantwoordelijkheden van de Uitvoerende Commissie omvatten:
+- (ii) to consider in respect of the financial year in progress the situation with regard to the receipt of Members’ contributions and capital subscriptions, the execution of the budget and the cash flow situation and, where appropriate, to advise the Council of measures to be taken and to look into the financial implications of any new tasks assigned to the Secretariat and not included in the budget appropriations approved by the Council, and to make recommendations to the Council concerning the financing of those tasks;
 
-- i. het aanbevelen aan de Raad van kandidaten voor de functie van Secretaris-Generaal en, in voorkomend geval, van plaatsvervangend Secretaris-Generaal;
+- (iii) to consider Members’ contributions for the next financial year, taking into account the work plan and program budget, and, as appropriate, to recommend through the Executive Committee to the Council for adoption: the amount of yearly contributions, the general operating expenses and an estimated profit and loss account and balance sheet for the next financial year;
 
-- ii. het aansturen en monitoren van de uitvoering van het goedgekeurde werkprogramma van de Secretaris-Generaal;
+- (iv) to analyze the financial implications of implementing the work plan and to report the assessment to the Executive Committee and the Council;
 
-- iii. indien de Raad geen beslissing neemt om een jaarlijkse of buitengewone zitting bijeen te roepen, het vaststellen van data, plaats en agenda en het zorgen voor het tijdig melden aan de Leden;
+- (v) to participate in the process for selecting the external financial auditor and to consider the results of the external financial audit;
 
-- iv. het uitnodigen van Leden voor een buitengewone zitting van de Raad;
+- (vi) to examine and, where appropriate, to make recommendations to the Council on the medium-term financial perspectives or multi-year budgeting of the Organization; and
 
-- v. het accepteren of afwijzen van donaties en bijdragen;
+- (vii) to examine and, where appropriate, to make recommendations to the Council on the Organization’s financial investments and income and on alternative sources of funding for the Organization.
 
-- vi. het treffen van de noodzakelijke en passende regelingen voor het financieren van de organisatie en de werkzaamheden van de Uitvoerende Commissie en het ter beoordeling voorleggen van de financiële rapportage van het voorgaande jaar aan de Raad;
+##### Article 13. The Enforcement Committee
 
-- vii. het voorleggen aan de jaarlijkse zitting van de Raad van een verslag over de tijdens het voorgaande jaar ondernomen activiteiten;
+1. The Enforcement Committee shall consist of no less than five members, including a Chairman, and shall establish its own rules of procedure, subject to approval by the Council. The Enforcement Committee should reflect a balanced representation of the Members. Each member of the Enforcement Committee will have one vote with the Chairman having a casting vote.
 
-- viii. het voorleggen aan de jaarlijkse zitting van de Raad van een evenwichtige begroting en werkprogramma voor het volgende jaar;
+2. Members of the Enforcement Committee shall be elected for two-year terms and thereafter may be eligible for re-election.
 
-- ix. het leveren van commentaar op verslagen van andere Commissies en het formuleren van aanbevelingen, naargelang van toepassing, teneinde de besprekingen in de Raad te bevorderen;
+3. The members of the Enforcement Committee shall elect a Chairman and a Vice Chairman from amongst their ranks.
 
-- x. het uitnodigen van personen om deel te nemen aan de activiteiten van de Organisatie; en
+4. A quorum of the Enforcement Committee shall be at least one half of the membership of the Committee.
 
-- xi. het toetsen van de naleving van de samenwerkingspartners op basis van de voorwaarden en bepalingen van hun Samenwerkingsovereenkomst.
+5. Membership to the Enforcement Committee will be restricted to Members, subject to compliance with [paragraph 1 of Article 16](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-8. De Uitvoerende Commissie kan subcommissies instellen om de Uitvoerende Commissie en de Secretaris-Generaal te adviseren en bij te staan bij het verwezenlijken van de doelstellingen van de Organisatie, zoals vervat in dit Verdrag.
+6. The Enforcement Committee may determine the attendance of observers at any of its meetings.
 
-9. De Uitvoerende Commissie is verantwoordelijk voor de ontwikkeling, het onderhoud en beheer van de Algemene Procedures betreffende de Organisatie.
+7. The responsibilities of the Enforcement Committee include:
 
-##### Artikel 12. De Financiële Commissie
+- (i) preparing, implementing, monitoring and delivering an annual enforcement action plan – to include planning, organising and carrying out joint customs operations, exercises and projects;
 
-1. De Financiële Commissie bestaat uit ten minste vijf leden, waaronder een Voorzitter en stelt haar eigen reglement van orde vast, afhankelijk van goedkeuring door de Raad. De Financiële Commissie dient bij voorkeur een evenwichtige afspiegeling te zijn van de Leden. Elk lid van de Financiële Commissie heeft een stem en de stem van de Voorzitter geeft de doorslag.
+- (ii) co-ordinating the cross-regional enforcement efforts of Member customs administrations in order to address the key common threats and to achieve the objectives of the Organization with regards to enforcement activity;
 
-2. Leden van de Financiële Commissie worden voor een termijn van twee jaar verkozen en kunnen daarna in aanmerking komen voor herverkiezing.
+- (iii) promoting the sharing of intelligence and other information in order to enhance cross-regional results;
 
-3. De leden van de Financiële Commissie verkiezen een Voorzitter en een Vicevoorzitter uit hun midden.
+- (iv) implementing the directions of the Executive Committee and Council with regards to collaborative enforcement activity;
 
-4. Een quorum van de Financiële Commissie bestaat uit ten minste de helft van de leden van de Commissie.
+- (v) overseeing and directing the work of the Joint Intelligence Office in order to support enforcement activity;
 
-5. Het lidmaatschap van de Financiële Commissie is beperkt tot de Leden, mits voldaan is aan [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=16&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+- (vi) managing the Organization’s participation in regional and global operations, exercises and projects organised by third parties;
 
-6. De Financiële Commissie mag de aanwezigheid van waarnemers bij haar bijeenkomsten bepalen.
+- (vii) managing the relationship of the Organization’s intelligence and enforcement relationship with the World Customs Organization, Interpol and other supra-national organisations; and
 
-7. De verantwoordelijkheden van de Financiële Commissie omvatten:
+- (viii) reporting to the Executive Committee and Council on achievement and results.
 
-- i. het onderzoeken van het volledige accountantsverslag over het voorgaande boekjaar, dat is opgesteld door de onafhankelijke accountant van de Organisatie, alsmede de opmerkingen van de Secretaris-Generaal daarop en het, op basis van dat verslag en de gecontroleerde jaarstukken van het voorgaande boekjaar, aanbevelen, in voorkomend geval, dat de Raad deze jaarstukken goedkeurt, de voorstellen van de Secretaris-Generaal voor de verdeling van het resultaat van de winst- en verliesrekening aanvaardt en de Secretaris-Generaal decharge verleent voor zijn financiële verantwoordelijkheden voor het voorgaande boekjaar;
+##### Article 14. The Audit Committee
 
-- ii. het beoordelen met betrekking tot het lopende boekjaar van de situatie met betrekking tot de ontvangst van de contributies en kapitaalbijdragen van de Leden, de uitvoering van de begroting en de cashflowsituatie en, in voorkomend geval, het adviseren van de Raad omtrent te nemen maatregelen en het onderzoeken van de financiële gevolgen van nieuwe taken die worden toegekend aan het Secretariaat en die niet zijn meegenomen in de begrotingsmiddelen die door de Raad zijn goedgekeurd en het doen van aanbevelingen aan de Raad over de financiering van die taken;
+1. The Audit Committee shall consist of no less than five members, including a Chairman, and shall establish its own rules of procedure, subject to approval by the Council. The Audit Committee should reflect a balanced representation of the Members. Each member of the Audit Committee will have one vote with the Chairman having a casting vote.
 
-- iii. het beoordelen van de bijdragen van de Leden voor het volgende boekjaar, rekening houdend met het werkplan en de programmabegroting en, naargelang van toepassing, het via de Uitvoerende Commissie voorstellen ter goedkeuring van: de hoogte van de jaarlijkse contributies, de algemene exploitatiekosten en een prognose van de winst- en verliesrekening en balans voor het volgende boekjaar;
+2. Members of the Audit Committee shall be elected for two-year terms and thereafter may be eligible for re-election.
 
-- iv. het analyseren van de financiële gevolgen van het uitvoeren van het werkplan en het uitbrengen van verslag van de beoordeling aan de Uitvoerende Commissie en de Raad;
+3. The members of the Audit Committee shall elect a Chairman and a Vice Chairman from amongst their ranks.
 
-- v. het deelnemen aan het proces voor de selectie van de onafhankelijke accountant en het beoordelen van de resultaten van de onafhankelijke accountantscontrole;
+4. A quorum of the Audit Committee shall be at least one half of the membership of the Committee.
 
-- vi. het onderzoeken en, naargelang van toepassing, het doen van aanbevelingen aan de Raad over de financiële vooruitzichten voor de middellange termijn of de meerjarige begroting van de Organisatie; en
+5. Membership to the Audit Committee will be restricted to Members, subject to compliance with [paragraph 1 of Article 16](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-- vii. het onderzoeken en, naargelang van toepassing, het doen van aanbevelingen aan de Raad over de financiële investeringen en inkomsten en alternatieve financieringsbronnen voor de Organisatie.
+6. The responsibilities of the Audit Committee include:
 
-##### Artikel 13. De Handhavingscommissie
+- (i) providing independent, documented objective advice to the Executive Committee, the Council and the Secretary General through the systematic review and follow-up of all internal and external audit work undertaken in relation to the control environment, risk management practices, decision support, governance and compliance processes of the Organization;
 
-1. De Handhavingscommissie bestaat uit ten minste vijf leden, waaronder een Voorzitter en stelt haar eigen reglement van orde vast, afhankelijk van goedkeuring door de Raad. De Handhavingscommissie dient een evenwichtige afspiegeling te zijn van de Leden. Elk lid van de Handhavingscommissie heeft een stem en de stem van de Voorzitter geeft de doorslag.
+- (ii) advising and making recommendations to the Executive Committee, the Council and the Secretary General on any matter pertaining to the audit function, as the Committee considers necessary or appropriate;
 
-2. Leden van de Handhavingscommissie worden voor een termijn van twee jaar verkozen en kunnen daarna in aanmerking komen voor herverkiezing.
+- (iii) assessing whether processes are in place to manage risks in accordance with organizational guidelines, work plans and the work program, and monitoring implementation and effectiveness of the processes;
 
-3. De leden van de Handhavingscommissie verkiezen een Voorzitter en een Vicevoorzitter uit hun midden.
+- (iv) monitoring the implementation of the work program on a cyclical basis;
 
-4. Een quorum van de Handhavingscommissie bestaat uit ten minste de helft van de leden van de Commissie.
+- (v) participating through the Chairman and/or the Vice Chairman in the selection of the internal and external auditors;
 
-5. Het lidmaatschap van de Handhavingscommissie is beperkt tot de Leden, mits voldaan is aan [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=16&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+- (vi) reviewing and approving the Annual Internal and External Audit Plans;
 
-6. De Handhavingscommissie mag de aanwezigheid van waarnemers bij haar bijeenkomsten bepalen.
+- (vii) fostering the development and implementation of best practices in the internal audit and external audit function; and
 
-7. De verantwoordelijkheden van de Handhavingscommissie omvatten:
+- (viii) reviewing and evaluating the performance of the internal and external auditors.
 
-- i. het voorbereiden, uitvoeren, monitoren en leveren van een jaarlijks handhavingsactieplan dat het plannen, organiseren en uitvoeren van gezamenlijke douaneacties, -oefeningen en -projecten omvat;
+##### Article 15. The Secretary General
 
-- ii. het coördineren van regio-overschrijdende handhavingsinspanningen van douaneadministraties van Leden om het hoofd te bieden aan de belangrijkste gezamenlijke dreigingen en het verwezenlijken van de doelstellingen van de Organisatie met betrekking tot handhavingsactiviteiten;
+1. The Secretary General:
 
-- iii. het bevorderen van de uitwisseling van inlichtingen en overige informatie om regio-overschrijdende resultaten te verbeteren;
+- (i) shall be appointed by the Council to serve a term of three years. At the invitation of the Council, a Secretary General may serve a second term up to a maximum of a further three years;
 
-- iv. het uitvoeren van de aanwijzingen van de Uitvoerende Commissie en de Raad met betrekking tot gezamenlijke handhavingsactiviteiten;
+- (ii) shall act impartially and cannot act as a representative of any national, commercial or personal interest in any activity of the Organization. Furthermore, any outside occupation or employment shall be declared to and approved by the Council on the recommendation of the Executive Committee.
 
-- v. het toezicht uitoefenen op en aansturen van de werkzaamheden van het Gezamenlijk Inlichtingenbureau ter ondersteuning van de handhavingsactiviteiten;
+2. The responsibilities of the Secretary General include:
 
-- vi. het beheren van de deelname van de Organisatie aan regionale en mondiale acties, oefeningen en projecten die door derden worden georganiseerd;
+- (i) reporting to the annual session of the Council and the Chairman of the Executive Committee;
 
-- vii. het beheren van de relatie van de Organisatie met betrekking tot inlichtingen en handhaving met de Werelddouaneorganisatie, Interpol en andere supranationale organisaties; en
+- (ii) managing the Secretariat and the Joint Intelligence Office on a daily basis;
 
-- viii. het rapporteren aan de Uitvoerende Commissie en de Raad over bereikte resultaten.
+- (iii) performing technical and administrative functions for the Council and its Committees;
 
-##### Artikel 14. De Auditcommissie
+- (iv) submitting the budget for the following fiscal year to the Finance Committee and the Executive Committee;
 
-1. De Auditcommissie bestaat uit ten minste vijf leden, waaronder een Voorzitter en stelt haar eigen reglement van orde vast, afhankelijk van goedkeuring door de Raad. De Auditcommissie dient een evenwichtige afspiegeling te zijn van de Leden. Elk lid van de Auditcommissie heeft een stem en de stem van de Voorzitter geeft de doorslag.
+- (v) administering the budget and execute financial responsibilities set out in [Article 19](https://wetten.overheid.nl/BWBV0006825) of this Agreement;
 
-2. Leden van de Auditcommissie worden voor een termijn van twee jaar verkozen en kunnen daarna in aanmerking komen voor herverkiezing.
+- (vi) submitting the financial report to the Finance Committee and the Executive Committee;
 
-3. De leden van de Auditcommissie verkiezen een Voorzitter en een Vicevoorzitter uit hun midden.
+- (vii) submitting the report on activities performed to the Finance Committee and the Executive Committee;
 
-4. Een quorum van de Auditcommissie bestaat uit ten minste de helft van de leden van de Commissie.
+- (viii) developing projects and acquiring the relevant funding for their sustenance;
 
-5. Het lidmaatschap van de Auditcommissie is beperkt tot de Leden, mits voldaan is aan [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=16&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+- (ix) submitting to the Finance Committee and the Executive Committee the work program for the following year and undertaking all actions necessary for the implementation of the work program;
 
-6. De verantwoordelijkheden van de Auditcommissie omvatten:
+- (x) liaising with Member customs administrations, regional and international organizations for the purpose of developing project proposals and structured cooperation based on cooperative arrangements; and
 
-- i. het verstrekken van onafhankelijk, gedocumenteerd objectief advies aan de Uitvoerende Commissie, de Raad en de Secretaris-Generaal door systematisch onderzoek en follow-up van alle interne en externe auditwerkzaamheden die worden uitgevoerd met betrekking tot de controleomgeving, werkwijzen op het gebied van risicomanagement, ondersteuning van besluitvorming en governance- en complianceprocessen van de Organisatie;
+- (xi) performing such other duties as may be required by the Council or Executive Committee.
 
-- ii. het verstrekken van advies en aanbevelingen aan de Uitvoerende Commissie, de Raad en de Secretaris-Generaal, betreffende aangelegenheden die in verband staan met de auditfunctie die de Commissie noodzakelijk of gepast acht;
+3. If Council decides in accordance with [paragraph 2 (xii) of Article 8](https://wetten.overheid.nl/BWBV0006825) of this Agreement to appoint a Deputy Secretary General, paragraphs 1 and 2 of this Article shall apply mutatis mutandis and shall be subject to any further arrangements made to attribute the responsibilities described in paragraph 2 of this Article.
 
-- iii. het beoordelen of er processen gereed zijn voor risicomanagement in overeenstemming met de organisatorische richtlijnen, werkplannen en het werkprogramma en het monitoren van de uitvoering en de doeltreffendheid van de processen;
+##### Article 16. Financing
 
-- iv. het periodiek monitoren van de uitvoering van het werkprogramma;
+1. An annual contribution as determined by the Council in its annual session, shall be paid by each Member and Cooperating Partner, as soon as possible after receipt of a letter by the Secretary General stating the amount due. Payment shall be made at the latest a month before the next ordinary annual session.
 
-- v. het deelnemen via de Voorzitter en/of Vicevoorzitter aan de selectie van interne en externe accountants;
+2. A Member that does not pay its contribution in full and in time, may, upon recommendation of the Executive Committee, be excluded from the right to vote in the Council or from any other rights or benefits that this Agreement provides for.
 
-- vi. het toetsen en goedkeuren van de Interne en Externe Jaarlijkse Auditplannen;
+3. Funds for financing the organization and operation of the Organization, other than the annual contribution remitted by Members and Cooperating Partners referred to in paragraph 1 of this Article, may come from any legitimate source. They may be in the form of donations and contributions in cash or kind from other countries, regional and international organizations, without compromising the interests of the Organization and its Members.
 
-- vii. het bevorderen van de ontwikkeling en implementatie van beste praktijken in de interne audit en externe auditfunctie; en
+##### Article 17. Review of accounts
 
-- viii. het toetsen en beoordelen van de prestaties van de interne en externe accountants.
+The Secretary General, in consultation with the Executive Committee, shall appoint an external financial auditor to audit the Balance Sheet and Statement of Receipts and Payments of the Organization at the end of each financial year in accordance with generally accepted auditing standards.
 
-##### Artikel 15. De Secretaris-Generaal
+##### Article 18. Accounting period
 
-1. De Secretaris-Generaal:
+The accounting period of the Organization shall be from the 1st day of April through the 31st day of March annually.
 
-- i. wordt door de Raad benoemd voor een termijn van drie jaar. Op uitnodiging van de Raad kan de Secretaris-Generaal gedurende een tweede termijn van maximaal drie jaar in functie blijven;
+##### Article 19. Financial statements
 
-- ii. handelt onpartijdig en kan niet optreden als vertegenwoordiger van een nationaal, commercieel of persoonlijk belang in een activiteit van de Organisatie. Verder dienen alle externe werkzaamheden of dienstbetrekkingen te worden gemeld aan en goedgekeurd worden door de Raad op aanbeveling van de Uitvoerende Commissie.
+The Secretary General shall prepare the statement of assets, liabilities and net worth, and of receipts and disbursements to March 31st of each year, and these statements are to be approved and accepted by the internal Auditor and submitted for consideration by the Finance Committee and the Executive Committee, and subsequently presented to the Council prior to its annual session.
 
-2. De verantwoordelijkheden van de Secretaris-Generaal omvatten:
+### CHAPTER III. MUTUAL ADMINISTRATIVE ASSISTANCE IN CUSTOMS MATTERS
 
-- i. het uitbrengen van verslag aan de jaarlijkse zitting van de Raad en de Voorzitter van de Uitvoerende Commissie;
+##### Article 20. Scope of mutual administrative assistance
 
-- ii. het dagelijks beheer van het secretariaat en het Gezamenlijk Inlichtingenbureau;
+1. Members shall, through their customs administrations, provide each other with administrative assistance under the terms set out in this Agreement, for the proper application of customs law, for the prevention, investigation and combating of customs offences, and to ensure the security and facilitation of the international trade supply chain.
 
-- iii. het uitvoeren van technische en administratieve functies voor de Raad en de Commissies;
+2. Any activity carried out under this Agreement by a Member shall be in accordance with its legal and administrative provisions and within the limits of its customs administration’s competence and available resources.
 
-- iv. het indienen van de begroting voor het volgende boekjaar bij de Financiële Commissie en de Uitvoerende Commissie;
+3. Each Member shall notify the Secretary General of the authorities referred to in [Article 1 (ii)](https://wetten.overheid.nl/BWBV0006825) of this Agreement, authorized under national law or designated by that Member to apply any provision of this Agreement. The Secretary General shall communicate this information and any updates thereof to the other Members.
 
-- v. het beheren van de begroting en vervullen van financiële verantwoordelijkheden zoals vervat in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=19&z=2019-05-22&g=2019-05-22) van dit Verdrag;
+4. This Agreement only covers mutual administrative assistance between the Members and is not intended to have an impact on mutual legal assistance agreements between them. If mutual assistance is to be provided by other authorities of a requested Member, the requested administration shall indicate those authorities and, where known, the relevant agreement or arrangement applicable.
 
-- vi. het voorleggen van de financiële rapportage aan de Financiële Commissie en de Uitvoerende Commissie;
+5. Taking into account the respective competences of the Caribbean communities and their member states as well as of the European Union and its member states, provisions of this Chapter and of [Chapter IV](https://wetten.overheid.nl/BWBV0006825) shall:
 
-- vii. het voorleggen van het activiteitenverslag aan de Financiële Commissie en de Uitvoerende Commissie;
+- (i) not affect the obligations of Members under any other international agreement;
 
-- viii. het ontwikkelen van projecten en het verwerven van relevante financiering voor de instandhouding ervan;
+- (ii) be deemed complementary to agreements on mutual assistance which have been or may be concluded by any of the Caribbean communities or the European Union.
 
-- ix. het voorleggen aan de Financiële Commissie en de Uitvoerende Commissie van het werkprogramma voor het volgende jaar en het uitvoeren van alle acties die noodzakelijk zijn voor de uitvoering van het werkprogramma;
+6. The provisions of this Agreement shall not give rise to a right on the part of any person to impede the execution of a request for assistance.
 
-- x. het onderhouden van contacten met de douaneadministraties van de Leden, regionale en internationale organisaties ten behoeve van de ontwikkeling van projectvoorstellen en gestructureerde samenwerking op basis van samenwerkingsregelingen; en
+##### Article 21. Communication of requests
 
-- xi. het vervullen van andere taken zoals eventueel vereist door de Raad of de Uitvoerende Commissie.
+1. Requests for assistance under this Agreement shall be communicated directly between the customs administrations concerned. Each customs administration shall designate an official contact point for this purpose and shall provide details thereof to the Secretary General. The Secretary General shall communicate this information and any updates thereof to the other customs administrations.
 
-3. Indien de Raad in overeenstemming met [artikel 8, tweede lid, onderdeel xii](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=8&z=2019-05-22&g=2019-05-22), besluit om een plaatsvervangend Secretaris-Generaal te benoemen, dan zijn het eerste en tweede lid van dit artikel van overeenkomstige toepassing en zijn deze onderworpen aan nadere regelingen omtrent de toewijzing van de verantwoordelijkheden beschreven in het tweede lid van dit artikel.
+2. Requests for assistance under this Agreement shall be made electronically or in writing, and shall be accompanied by any information deemed useful for the purpose of complying with such requests. The requested administration may require written confirmation of electronic requests. Where the circumstances so require, requests may be made verbally. Such requests shall be confirmed as soon as possible either in writing or, if acceptable to the requested and requesting administrations, by electronic means.
 
-##### Artikel 16. Financiering
+3. Requests shall be made in a language acceptable to the customs administrations concerned. Any documents accompanying such requests shall be translated, to the extent necessary, into a mutually acceptable language. The requested administration shall in any case accept requests for assistance and accompanying documents in the English language.
 
-1. De door de Raad in de jaarlijkse zitting vastgestelde bijdrage wordt door elk Lid en elke Samenwerkingspartner zo spoedig mogelijk na ontvangst van een brief van de Secretaris-Generaal waarin het verschuldigde bedrag wordt vermeld, betaald. De betaling dient uiterlijk een maand voor de volgende gewone jaarlijkse zitting te geschieden.
+4. Requests made pursuant to paragraph 2 of this Article, shall include the following details:
 
-2. Een Lid dat de bijdrage niet volledig en tijdig betaalt wordt, op voordracht van de Uitvoerende Commissie, uitgesloten van het recht om te stemmen in de Raad en van alle andere rechten of voordelen waarin dit Verdrag voorziet.
+- (i) the name of the requesting administration;
 
-3. Fondsen voor de financiering en werking van de Organisatie, anders dan de jaarlijkse bijdrage die door de Leden en Samenwerkingspartners worden betaald als vermeld in het eerste lid van dit artikel, mogen van elke rechtmatige bron afkomstig zijn. Deze mogen in de vorm zijn van schenkingen of bijdragen in geld of in natura van andere landen, regionale en internationale organisaties, zonder afbreuk te doen aan de belangen van de Organisatie en haar Leden.
+- (ii) the matter at issue, type of assistance requested, and reasons for the request;
 
-##### Artikel 17. Controle van de rekeningen
+- (iii) a brief description of the case under review and the legal and administrative provisions that apply;
 
-De Secretaris-Generaal benoemt, in overleg met de Uitvoerende Commissie, een onafhankelijke accountant voor de controle van de balans en het kasboek van de Organisatie op het einde van het boekjaar in overeenstemming met de algemeen gangbare normen voor accountantscontrole.
+- (iv) the names and addresses of the persons to whom the request relates, if known;
 
-##### Artikel 18. Begrotingsjaar
+- (v) any verification procedures undertaken or attempted as referred to in [paragraph 2 of Article 25](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-Het begrotingsjaar van de Organisatie loopt van 1 april tot en met 31 maart.
+5. Where the requesting administration requests that a certain procedure or methodology be followed, the requested administration shall comply with such a request, subject to its national legal and administrative provisions.
 
-##### Artikel 19. Financieel overzicht
+##### Article 22. Spontaneous assistance in urgent cases
 
-De Secretaris-Generaal bereidt de staat van activa, passiva en nettowaarde en van de ontvangsten en uitgaven tot en met 31 maart van elk jaar voor. Deze staten dienen te worden aanvaard en goedgekeurd door de interne accountant en ter overweging te worden voorgelegd aan de Financiële Commissie en de Uitvoerende Commissie en vervolgens te worden voorgelegd aan de Raad voorafgaand aan de jaarlijkse zitting.
+In cases that could involve substantial damage to the economy, budget, public health, public security, including the security of the international trade supply chain, or other vital interests of any Member, the customs administration of any Member shall, wherever possible, supply assistance on its own initiative without delay.
 
-### HOOFDSTUK III. WEDERZIJDSE ADMINISTRATIEVE BIJSTAND IN DOUANEZAKEN
+##### Article 23. Information for application and enforcement of customs law
 
-##### Artikel 20. Reikwijdte van de wederzijdse administratieve bijstand
+The customs administrations shall provide each other, either on request or on their own initiative, with information which helps to ensure proper application of customs law and the prevention, investigation and combating of customs offences and to ensure the security of the international trade supply chain. Such information may include:
 
-1. Leden verlenen elkaar door tussenkomst van hun douaneadministraties administratieve bijstand onder de in dit Verdrag genoemde voorwaarden ten behoeve van de juiste toepassing van de douanewetgeving, met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving, alsmede om de veiligheid en facilitatie van de internationale logistieke keten te waarborgen.
+- (i) new enforcement techniques having proved their effectiveness;
 
-2. Alle activiteiten uit hoofde van dit Verdrag door een Lid worden verleend in overeenstemming met zijn wettelijke en administratieve bepalingen en binnen de grenzen van de bevoegdheden en beschikbare middelen van zijn douaneadministratie.
+- (ii) new trends, means or methods of committing customs offences;
 
-3. Elk Lid stelt de Secretaris-Generaal op de hoogte van de autoriteiten bedoeld in [artikel 1, onderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=I&artikel=1&z=2019-05-22&g=2019-05-22), van dit Verdrag die krachtens het nationale recht bevoegd zijn of die door het Lid zijn aangesteld om alle bepalingen van dit Verdrag uit voeren. De Secretaris-Generaal deelt deze informatie en eventuele updates daarvan aan de andere Leden mee.
+- (iii) goods known to be the subject of customs offences, as well as transport and storage methods used in respect of those goods;
 
-4. Dit Verdrag heeft uitsluitend betrekking op de wederzijdse administratieve bijstand tussen de Leden en is niet bedoeld van invloed te zijn op wederzijdse rechtshulpverdragen tussen hen. Indien wederzijdse bijstand dient te worden verleend door andere autoriteiten van het aangezochte Lid vermeldt de aangezochte administratie deze autoriteiten en waar bekend de desbetreffende overeenkomst of de desbetreffende regeling die van toepassing is.
+- (iv) persons known to have committed a customs offence or suspected of being about to commit a customs offence;
 
-5. Rekening houdend met de respectieve bevoegdheden van de Caribische gemeenschappen en hun lidstaten alsmede die van de Europese Unie en haar lidstaten zullen de bepalingen van dit hoofdstuk en [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&z=2019-05-22&g=2019-05-22):
+- (v) any other data that can assist customs administrations with risk assessment for control and facilitation purposes.
 
-- i. de verplichtingen van de Leden uit hoofde van internationale overeenkomsten onverlet laten;
+##### Article 24. Information relating to customs offences
 
-- ii. worden geacht een aanvulling te zijn op overeenkomsten inzake wederzijdse bijstand die zijn of worden gesloten door een van de Caribische gemeenschappen of de Europese Unie.
+The customs administration of a Member shall provide the customs administration of any other Member concerned, either on its own initiative or on request, with information on activities, planned, ongoing, or completed which provide reasonable grounds to believe that a customs offence has been committed or will be committed in the territory of the Member concerned.
 
-6. Personen kunnen aan de bepalingen van dit Verdrag niet het recht ontlenen de uitvoering van een verzoek om bijstand te doen beletten.
+##### Article 25. Information for the proper assessment of customs duties
 
-##### Artikel 21. Toezending van verzoeken
+1. On request, the requested administration shall, without prejudice to [Article 43](https://wetten.overheid.nl/BWBV0006825) of this Agreement, in support of the proper application of customs law or in the prevention of customs offences, provide information to assist a requesting administration that has reasons to doubt the truth or accuracy of a declaration.
 
-1. Verzoeken om bijstand uit hoofde van dit Verdrag worden direct gecommuniceerd tussen de betrokken douaneadministraties. Elke douaneadministratie wijst hiertoe een officieel aanspreekpunt aan en verstrekt de gegevens hiervan aan de Secretaris-Generaal. De Secretaris-Generaal deelt deze informatie en eventuele updates daarvan aan de andere Leden mee.
+2. The request shall specify the verification procedures that the requesting administration has undertaken or attempted and the specific information requested.
 
-2. Verzoeken om bijstand uit hoofde van dit Verdrag worden elektronisch of schriftelijk gedaan en gaan vergezeld van alle informatie die voor het inwilligen van de aanvraag nuttig wordt geacht. De aangezochte administratie kan schriftelijke bevestiging van elektronische verzoeken verlangen. Wanneer de omstandigheden dit vereisen, kunnen verzoeken mondeling worden gedaan. Dergelijke verzoeken worden zo spoedig mogelijk hetzij schriftelijk, hetzij, indien de verzoekende en aangezochte douaneadministraties daarmee instemmen, elektronisch bevestigd.
+##### Article 26. Particular types of information
 
-3. De verzoeken worden opgesteld in een voor de betrokken douaneadministraties aanvaardbare taal. Alle documenten die bij de verzoeken worden gevoegd worden, voor zover nodig, in een wederzijds aanvaardbare taal vertaald. De aangezochte administratie zal in ieder geval verzoeken om bijstand en begeleidende documenten in het Engels accepteren.
+On request, the requested administration shall provide the requesting administration, which has reason to doubt the accuracy of information provided to it in a customs matter, with information relative to:
 
-4. Verzoeken ingevolge het tweede lid van dit artikel bevatten de volgende gegevens:
+- (i) whether goods imported into the territory of the requesting Member have been lawfully exported from the territory of the requested Member;
 
-- i. de naam van de verzoekende administratie;
+- (ii) whether goods exported from the territory of the requesting Member have been lawfully imported into the territory of the requested Member and the customs procedure, if any, under which the goods have been placed.
 
-- ii. het onderwerp van en de reden voor het verzoek, alsmede de aard van de verzochte bijstand;
+##### Article 27. Automatic exchange of information
 
-- iii. een korte beschrijving van de desbetreffende zaak en van de wettelijke en administratieve bepalingen die erop van toepassing zijn;
+Members may, by mutual arrangement in accordance with [paragraph 2 of Article 61](https://wetten.overheid.nl/BWBV0006825) of this Agreement, exchange any information covered by this Agreement on an automatic basis.
 
-- iv. de namen en adressen van de personen op wie het verzoek betrekking heeft, indien bekend;
+##### Article 28. Advance exchange of information
 
-- v. de verificatieprocedures die zijn uitgevoerd of die men getracht heeft uit te voeren zoals bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=III&artikel=25&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+1. Members may, by mutual arrangement in accordance with [paragraph 2 of Article 61](https://wetten.overheid.nl/BWBV0006825) of this Agreement, exchange specific information in advance of the arrival of consignments in their respective territories to ensure, in particular, the security of the international trade supply chain.
 
-5. Wanneer de verzoekende administratie verlangt dat een bepaalde procedure of methode gevolgd wordt, voldoet de aangezochte administratie aan een dergelijk verzoek met inachtneming van haar nationale wettelijke en administratieve bepalingen.
+2. The Executive Committee shall have the authority to draw up a list of data elements that may be exchanged in the context of advance automatic exchange provided for in paragraph 1 of this Article.
 
-##### Artikel 22. Spontane bijstand in noodgevallen
+##### Article 29. Surveillance
 
-In gevallen die aanzienlijke schade voor de economie, begroting, volksgezondheid, openbare orde, met inbegrip van de veiligheid van de internationale logistieke keten, of voor andere vitale belangen van een verdragsluitende partij met zich kunnen meebrengen, verstrekt de douaneadministratie van de andere verdragsluitende partij, waar mogelijk, uit eigen beweging en onverwijld zulke informatie.
+1. On request, the requested administration shall, to the extent possible, maintain surveillance over and provide the requesting administration with information on:
 
-##### Artikel 23. Informatie voor de toepassing en handhaving van de douanewetgeving
+- (i) goods either in transport or in storage known to have been used or suspected of being used to commit a customs offence in the territory of the requesting Member;
 
-De douaneadministraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie ten behoeve van de juiste toepassing van de douanewetgeving met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving, alsmede om de veiligheid van de internationale logistieke keten te waarborgen. Dergelijke informatie kan bestaan uit:
+- (ii) means of transport known to have been used or suspected of being used to commit a customs offence in the territory of the requesting Member;
 
-- i. nieuwe wetshandhavingstechnieken die hun doeltreffendheid hebben bewezen;
+- (iii) premises known to have been used or suspected of being used in connection with the commission of a customs offence in the territory of the requesting Member;
 
-- ii. nieuwe trends, middelen of werkwijzen bij het maken van inbreuken op de douanewetgeving;
+- (iv) persons known to have committed or suspected of being about to commit a customs offence in the territory of the requesting Member, particularly those moving into and out of the territory of the requested Member.
 
-- iii. goederen waarvan bekend is dat zij het voorwerp vormen van inbreuken op de douanewetgeving, alsmede de voor deze goederen toegepaste vervoer- en opslagmethoden;
+2. The customs administration of any Member may maintain such surveillance on its own initiative if it has reason to believe that activities planned, ongoing or completed appear to constitute a customs offence in the territory of another Member.
 
-- iv. personen van wie bekend is dat zij een inbreuk op de douanewetgeving hebben gemaakt of van wie wordt vermoed dat zij een inbreuk op de douanewetgeving gaan maken;
+##### Article 30. Use of information
 
-- v. alle andere gegevens die de douaneadministraties van nut kunnen zijn bij de risicobeoordeling voor controle- en facilitatiedoeleinden.
+1. Without prejudice to [Article 50](https://wetten.overheid.nl/BWBV0006825) of this Agreement, any information communicated under this Agreement shall be used only by the customs administration for which it was intended and solely for the purpose of administrative assistance under the terms set out in this Agreement.
 
-##### Artikel 24. Informatie met betrekking tot inbreuken op de douanewetgeving
+2. On request, the Member that supplied the information may, notwithstanding paragraph 1 of this Article, authorize its use for other purposes or by other authorities, subject to any terms and conditions it may specify. Such use shall be in accordance with the legal and administrative provisions of the Member which seeks to use the information. The use of information for other purposes includes its use in criminal investigations, prosecutions or proceedings.
 
-De douaneadministratie van een Lid verstrekt, op verzoek of uit eigen beweging, informatie aan de douaneadministratie van een ander betrokken Lid over voorgenomen, lopende of voltooide activiteiten ten aanzien waarvan er redelijke gronden lijken te bestaan om aan te nemen dat er een inbreuk op de douanewetgeving op het grondgebied van het andere Lid is gemaakt of zal worden gemaakt.
+3. In order to ensure the protection of any person who seeks or receives asylum or protection from removal, a Member may not use or disclose information obtained under this Agreement, in any way that could result in the disclosure of that information to any government authority or person from which that person seeks or receives protection under the 1951 [Convention Relating to the Status of Refugees](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), its 1967 [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0006107), the 1984 [Convention Against Torture or Other Cruel, Inhuman or Degrading Treatment or Punishment](https://wetten.overheid.nl/jci1.3:c:BWBV0002507), or under the national legal and administrative provisions of Members implementing those Conventions or that Protocol.
 
-##### Artikel 25. Informatie voor de juiste vaststelling van douanerechten
+##### Article 31. Confidentiality and protection of information
 
-1. Op verzoek verstrekt de aangezochte douaneadministratie, onverminderd [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=III&artikel=43&z=2019-05-22&g=2019-05-22) van dit Verdrag, ten behoeve van een juiste toepassing van de douanewetgeving of ter voorkoming van inbreuken op de douanewetgeving, informatie aan de verzoekende douaneadministratie die redenen heeft om te twijfelen aan de juistheid of echtheid van een aangifte.
+1. Any information communicated under this Agreement shall be treated as confidential and shall, at least, be subject to the same protection and confidentiality as the same kind of information is subject to under the national legal and administrative provisions of the Member where it is received.
 
-2. In het verzoek staan de verificatieprocedures die de verzoekende douaneadministratie heeft uitgevoerd of getracht heeft uit te voeren alsmede de specifieke informatie waarom wordt verzocht vermeld.
+2. Any personal data exchanged under this Agreement shall, at least, be subject to the level of protection provided for in the national legal and administrative provisions of the Member which supplied the data.
 
-##### Artikel 26. Specifieke soorten informatie
+3. Each Member shall, at the time of signature, ratification, acceptance, approval or accession to this Agreement, notify the Secretary General in writing of their national legal and administrative provisions in respect of confidentiality of information and protection of personal data. They shall make a written undertaking to the Secretary General, at the time of signature, ratification, acceptance, approval or accession, of their commitment to, at least, abide by the confidentiality of information and protection of personal data provisions of this Agreement. The Secretary General shall notify the other Members of the notifications received under this paragraph.
 
-Op verzoek verstrekt de aangezochte administratie de verzoekende administratie die reden heeft te twijfelen aan de juistheid van aan haar in een douanezaak verstrekte informatie, informatie over:
+4. The customs administrations shall record the supply or receipt of personal data exchanged under this Agreement and the use made of the personal data concerned.
 
-- i. het feit of goederen die zijn ingevoerd in het grondgebied van het verzoekende Lid op rechtmatige wijze werden uitgevoerd uit het grondgebied van het aangezochte Lid;
+5. Each Member shall be liable, in accordance with its legal and administrative provisions, for damage caused to a natural person through the use of personal data received under this Agreement. This shall also be the case where the damage was caused by a Member supplying inaccurate data or supplying data contrary to this Agreement.
 
-- ii. het feit of goederen die werden uitgevoerd uit het grondgebied van het verzoekende Lid op rechtmatige wijze zijn ingevoerd in het grondgebied van het aangezochte Lid en onder welke douaneregeling de goederen eventueel zijn geplaatst.
+6. If the Member found liable for damage under paragraph 5 of this Article is not the Member that supplied the personal data, the Members concerned shall agree on the terms and conditions of reimbursement to the liable Member of any sums it paid out in compensation.
 
-##### Artikel 27. Automatische uitwisseling van informatie
+##### Article 32. Costs
 
-Leden kunnen, door middel van een wederzijdse regeling overeenkomstig [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=61&z=2019-05-22&g=2019-05-22), automatisch informatie uitwisselen die onder dit Verdrag valt.
+1. Subject to paragraphs 2 and 3 of this Article, the costs incurred in complying with a request for assistance under this Agreement shall be borne by the requested Member.
 
-##### Artikel 28. Voorafgaande uitwisseling van informatie
+2. Expenses and allowances paid to experts and witnesses, as well as costs of translators and interpreters, other than Government employees, shall be borne by the requesting Member where incurred for the purposes of complying with a request for assistance under this Agreement.
 
-1. Leden kunnen, door middel van een wederzijdse regeling overeenkomstig [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=61&z=2019-05-22&g=2019-05-22), van dit Verdrag, specifieke informatie uitwisselen voorafgaand aan de aankomst van goederen op hun onderscheiden grondgebieden om met name de veiligheid van de internationale logistieke keten te waarborgen.
+3. If the execution of a request requires expenses of a substantial or extraordinary nature, the Members shall consult to determine the terms and conditions under which the request will be executed as well as the manner in which the costs shall be borne and the requested Member shall not be obliged to comply with the request prior to the conclusion of such consultation.
 
-2. De Uitvoerende Commissie is bevoegd om een lijst van gegevens op te stellen die mogen worden uitgewisseld in het kader van de voorafgaande automatische uitwisseling zoals bepaald in het eerste lid van dit artikel.
+##### Article 33. Technical cooperation
 
-##### Artikel 29. Toezicht
+The customs administrations may assist each other by benchmarking, exchanging knowledge, experience and best practices on matters such as:
 
-1. Op verzoek houdt de aangezochte administratie, voor zover mogelijk, toezicht op en verstrekt zij de verzoekende administratie informatie over:
+- (i) training of staff;
 
-- i. goederen in vervoer of in opslag waarvan bekend is dat zij gebruikt zijn of waarvan het vermoeden bestaat dat zij gebruikt worden voor het maken van een inbreuk op de douanewetgeving op het grondgebied van het verzoekende Lid;
+- (ii) modernizing customs procedures;
 
-- ii. vervoermiddelen waarvan bekend is dat ze gebruikt zijn of waarvan het vermoeden bestaat dat ze gebruikt worden voor het maken van een inbreuk op de douanewetgeving op het grondgebied van het verzoekende Lid;
+- (iii) introducing and developing Risk Management;
 
-- iii. panden waarvan bekend is dat zij gebruikt zijn of waarvan het vermoeden bestaat dat zij gebruikt worden in verband met het maken van een inbreuk op de douanewetgeving op het grondgebied van het verzoekende Lid;
+- (iv) using technical equipment for control purposes; and
 
-- iv. personen van wie bekend is dat zij een inbreuk op de douanewetgeving hebben gemaakt of van wie het vermoeden bestaat dat zij op het punt staan een inbreuk te maken op de douanewetgeving op het grondgebied van het verzoekende Lid, in het bijzonder diegenen die het grondgebied van het aangezochte Lid betreden en verlaten.
+- (v) enhancing the managerial and administrative organization.
 
-2. De douaneadministratie van een Lid kan uit eigen beweging dergelijk toezicht houden indien zij redenen heeft om aan te nemen dat voorgenomen, lopende of voltooide activiteiten een inbreuk op de douanewetgeving op het grondgebied van een ander Lid lijken te vormen.
+##### Article 34. Notification
 
-##### Artikel 30. Gebruik van informatie
+1. On request, the requested administration may, if permissible under its national law, take all necessary measures to notify a person residing or established in its territory of all decisions taken by the requesting administration in application of customs law concerning that person, that fall within the scope of this Agreement.
 
-1. Onverminderd [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=50&z=2019-05-22&g=2019-05-22) van dit Verdrag mag uit hoofde van dit Verdrag ontvangen informatie slechts worden gebruikt door de douaneadministratie waarvoor deze bestemd was en uitsluitend ten behoeve van administratieve bijstand die wordt verleend onder de in dit Verdrag vervatte voorwaarden.
+2. Such notification shall be made in accordance with the procedures applicable in the territory of the requested Member for similar national decisions.
 
-2. Niettegenstaande het eerste lid van dit artikel kan het Lid dat de informatie heeft verstrekt, op verzoek, zijn goedkeuring hechten aan het gebruik ervan door andere autoriteiten of voor andere doeleinden, met inachtneming van alle door hem daaraan verbonden voorwaarden. Dergelijk gebruik dient in overeenstemming te zijn met de wettelijke en administratieve bepalingen van het Lid dat de informatie wil gebruiken. Het gebruik van informatie voor andere doeleinden omvat het gebruik bij strafrechtelijk onderzoek, strafrechtelijke vervolging en strafrechtelijke procedures.
+##### Article 35. Assistance in the recovery of customs claims
 
-3. Om de bescherming te waarborgen van personen die asiel of bescherming in geval van verwijdering zoeken of krijgen, mag een Lid de uit hoofde van dit Verdrag verkregen informatie niet gebruiken of bekend maken op een manier waarop deze informatie bekend zou worden bij een overheidsautoriteit of persoon waartegen deze persoon bescherming vraagt of krijgt ingevolge het [Verdrag betreffende de status van vluchtelingen](onbekend) van 1951, het [Protocol](onbekend) hierbij van 1967, het [Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing](onbekend) van 1984 of ingevolge de nationale wettelijke en administratieve bepalingen van de Leden ter uitvoering van deze Verdragen of het Protocol.
+1. On request, customs administrations may afford each other assistance with a view to the recovery of customs claims.
 
-##### Artikel 31. Vertrouwelijkheid en bescherming van informatie
+2. Detailed arrangements for assistance in recovering customs claims shall be made between the Members concerned, in accordance with [paragraph 2 of Article 61](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-1. Alle uit hoofde van dit Verdrag medegedeelde informatie wordt vertrouwelijk behandeld en daarvoor gelden ten minste dezelfde bescherming en vertrouwelijkheid als die welke voor soortgelijke informatie gelden krachtens de nationale wettelijke en administratieve bepalingen van het Lid waar deze wordt ontvangen.
+##### Article 36. Experts and witnesses
 
-2. Op uit hoofde van dit Verdrag uitgewisselde persoonsgegevens is een beschermingsniveau van toepassing dat ten minste gelijk is aan het beschermingsniveau voor persoonsgegevens dat gehanteerd wordt in de nationale wettelijke en administratieve bepalingen van het Lid wier douaneadministratie deze persoonsgegevens heeft verstrekt.
+On request, the requested administration may authorize its officials to appear before a court or tribunal in the territory of the requesting Member as experts or witnesses in a matter related to the application of customs law.
 
-3. Elk Lid brengt, op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring van of toetreding tot dit Verdrag, de Secretaris-Generaal schriftelijk op de hoogte van zijn nationale wettelijke en administratieve bepalingen met betrekking tot de vertrouwelijkheid van informatie en de bescherming van persoonsgegevens. De Leden doen, op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring van of toetreding tot dit Verdrag, een schriftelijke toezegging aan de Secretaris-Generaal om ten minste de bepalingen omtrent de vertrouwelijkheid van de informatie en bescherming van persoonsgegevens van dit Verdrag na te leven. De Secretaris-Generaal stelt de andere Leden in kennis van de kennisgevingen die uit hoofde van dit lid zijn ontvangen.
+##### Article 37. Presence of officials in the territory of another Member
 
-4. De douaneadministraties registreren het leveren of ontvangen van de persoonsgegevens die uit hoofde van dit Verdrag worden uitgewisseld en het gebruik van de desbetreffende persoonsgegevens.
+On request, officials specially designated by a requesting administration may, with the authorization of the requested administration and subject to conditions the latter may impose, for the purpose of investigating a customs offence or for engaging in technical cooperation activities:
 
-5. Elk Lid is aansprakelijk, in overeenstemming met zijn wettelijke en administratieve bepalingen, voor schade die een natuurlijke persoon ondervindt door het gebruik van uit hoofde van dit Verdrag ontvangen persoonsgegevens. Dit is ook het geval indien de schade is veroorzaakt door het verstrekken van onjuiste gegevens door een Lid of door het leveren van gegevens in strijd met dit Verdrag.
+- (i) examine, in the offices of the requested administration, documents and any other information in respect of that customs offence, and be supplied with copies thereof;
 
-6. Indien het Lid dat aansprakelijk is voor schade uit hoofde van het vijfde lid van dit artikel niet het Lid is dat de persoonsgegevens heeft verstrekt, bereiken de betrokken Leden overeenstemming over de voorwaarden en bepalingen van de vergoeding aan het aansprakelijke Lid van de bedragen die deze bij wijze van schadeloosstelling heeft betaald.
+- (ii) be present during an inquiry conducted by the requested administration in the territory of the requested Member which is relevant to the requesting administration; and
 
-##### Artikel 32. Kosten
+- (iii) be present during operational activities to such an extent as is mutually agreed.
 
-1. Met inachtneming van het tweede en derde lid van dit artikel, worden de kosten gemaakt bij het inwilligen van een verzoek om bijstand uit hoofde van dit Verdrag gedragen door het aangezochte Lid.
+These officials shall only have an advisory role.
 
-2. Bedragen en vergoedingen betaald aan deskundigen en getuigen, alsook de kosten van vertalers en tolken die niet in dienst zijn van de regering, worden gedragen door het verzoekende Lid, indien deze zijn gemaakt bij het inwilligen van een verzoek om bijstand uit hoofde van dit Verdrag.
+##### Article 38. Presence of officials of the requesting administration at the invitation of the requested administration
 
-3. Indien met de uitvoering van een verzoek aanmerkelijke kosten of kosten van buitengewone aard zullen zijn gemoeid, plegen de Leden overleg om de voorwaarden te bepalen waaronder het verzoek zal worden uitgevoerd, alsmede de wijze waarop de kosten worden gedragen. Het aangezochte Lid is niet verplicht om aan het verzoek te voldoen voordat dit overleg is afgerond.
+1. Where the requested administration considers it appropriate for an official of the requesting administration to be present when, pursuant to a request, measures of assistance are carried out, it may invite the participation of the requesting administration subject to any terms and conditions it may specify.
 
-##### Artikel 33. Technische samenwerking
+2. The customs administrations concerned may, by mutual arrangement in accordance with [paragraph 2 of Article 61](https://wetten.overheid.nl/BWBV0006825) of this Agreement, expand the role of the visiting official beyond an advisory one.
 
-De douaneadministraties kunnen elkaar bijstand verlenen door het uitvoeren van benchmarks, uitwisselen van kennis, ervaring en beste praktijken met betrekking tot zaken als:
+##### Article 39. Cross-border surveillance
 
-- i. training van personeel;
+1. Officials of one Member, keeping under surveillance in the territory of this Member a person about whom there are serious grounds to believe that he or she is involved in a customs offence, may continue the surveillance in the territory of another Member subject to a prior request, authorization and any conditions the requested Member may impose.
 
-- ii. modernisering van douaneprocedures;
+2. If, for particularly urgent reasons, prior authorization cannot be requested, surveillance pursuant to paragraph 1 of this Article may be continued provided that the competent authorities of the Member in whose territory the surveillance is to be continued, are immediately informed of the crossing of the border and a formal request for authorization, outlining the grounds for crossing the border without prior authorization, is submitted as soon as possible.
 
-- iii. invoering en ontwikkeling van risicobeheer;
+##### Article 40. Joint control and investigation teams
 
-- iv. gebruik van technische apparatuur voor controledoeleinden; en
+1. Members may establish joint control or investigation teams to detect and prevent particular types of customs offences requiring simultaneous and coordinated activities.
 
-- v. verbetering van management- en administratieve organisatie.
+2. Such teams shall operate in accordance with the national legal and administrative provisions of the Member in whose territory the activities are being carried out.
 
-##### Artikel 34. Kennisgeving
+##### Article 41. Arrangements for visiting officials
 
-1. Op verzoek kan de aangezochte administratie, indien toegestaan door haar nationale wetgeving, alle noodzakelijke maatregelen treffen om een persoon die op haar grondgebied verblijft of is gevestigd in kennis te stellen van alle beslissingen genomen door de verzoekende administratie bij de toepassing van de douanewetgeving betreffende die persoon, die binnen de reikwijdte van dit Verdrag vallen.
+1. When officials of a Member are present in the territory of another Member under the terms of this Agreement, they must at all times be able to furnish, in a language acceptable to the requested administration, proof of their official identity and status in their customs administration and of their official status as granted in the territory of the requested administration.
 
-2. Een dergelijke kennisgeving wordt verricht overeenkomstig de procedures die van toepassing zijn op het grondgebied van het aangezochte Lid voor soortgelijke nationale beslissingen.
+2. Officials shall, while in the territory of another Member under the terms of this Agreement, be responsible for any offence they may commit and shall enjoy, to the extent provided by that Party’s national legal and administrative provisions, the same protection as accorded to its own customs officers.
 
-##### Artikel 35. Bijstand bij het invorderen van douanevorderingen
+##### Article 42. Exemptions
 
-1. Op verzoek verstrekken douaneadministraties elkaar bijstand bij het invorderen van douanevorderingen.
+1. Where any assistance requested under this Agreement may infringe the sovereignty, laws and treaty obligations, security, public policy or any other substantive national interest of a requested Member, or prejudice any legitimate commercial or professional interests, such assistance may be declined by that Member or provided subject to any terms or conditions it may require.
 
-2. De betrokken Leden treffen nadere regelingen voor bijstand bij het invorderen van douanevorderingen, overeenkomstig [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=61&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+2. Where a requesting administration would be unable to comply if a similar request were made by the requested administration, it shall draw attention to that fact in its request. Compliance with such a request shall be at the discretion of the requested administration.
 
-##### Artikel 36. Deskundigen en getuigen
+3. Assistance may be postponed if there are grounds to believe that it will interfere with any ongoing investigation, prosecution or proceeding. In such a case, the requested administration shall consult with the requesting administration to determine if assistance can be given subject to such terms or conditions as the requested administration may specify.
 
-De aangezochte administratie kan, op verzoek, haar ambtenaren machtigen ter zake van de uitvoering van de douanewetgeving als deskundige of getuige te verschijnen voor een rechtscollege op het grondgebied van het verzoekende Lid.
+4. If the requested administration considers that the effort required to fulfill a request is clearly disproportionate to the perceived benefit to the requesting administration, it may decline to provide the requested assistance.
 
-##### Artikel 37. Aanwezigheid van ambtenaren op het grondgebied van een ander Lid
+5. Where assistance is declined or postponed, reasons for declining or postponement shall be given.
 
-Door de verzoekende administratie speciaal hiertoe aangewezen ambtenaren kunnen, met instemming van de aangezochte administratie en onder de door laatstgenoemde hieraan verbonden voorwaarden, ten behoeve van de opsporing van een inbreuk op de douanewetgeving, of het deelnemen aan technische samenwerkingsactiviteiten op verzoek:
+##### Article 43. Reservations
 
-- i. ten kantore van de aangezochte administratie documenten en alle andere informatie met betrekking tot die inbreuk op de douanewetgeving onderzoeken, en daarvan afschriften verkrijgen;
+1. Members may enter reservations in respect to [Articles 34 to 41](https://wetten.overheid.nl/BWBR0015911) of this Agreement or may opt out from any of these Articles.
 
-- ii. aanwezig zijn bij een door de aangezochte administratie geleid onderzoek op het grondgebied van het aangezochte Lid dat van belang is voor de verzoekende administratie; en
+2. A Member shall be deemed to have accepted all provisions in [Articles 34 to 41](https://wetten.overheid.nl/BWBR0015911) of this Agreement unless at the time of signature, ratification, acceptance, approval or accession to the Agreement, it has notified the Secretary General of an opt out or any reservations in respect of these provisions and the reasons for each of the reservations.
 
-- iii. aanwezig zijn bij operationele activiteiten voor zover zulks wederzijds is overeengekomen.
+3. A Member that has opted out of any of the [Articles 34 to 41](https://wetten.overheid.nl/BWBR0015911) of this Agreement or has entered reservations, shall review their opt out notification or reservations made, with intervals of three years and may withdraw them, in whole or in part, at any time by notification to the depositary specifying the date on which such withdrawal takes effect.
 
-Deze ambtenaren hebben uitsluitend een adviserende rol.
+### CHAPTER IV. GENERAL PROVISIONS FOR CENTRAL AUTOMATED INFORMATION SYSTEMS OF THE ORGANIZATION
 
-##### Artikel 38. Aanwezigheid van ambtenaren van de verzoekende administratie op uitnodiging van de aangezochte administratie
+##### Article 44. Purposes of centralization
 
-1. Indien de aangezochte administratie het wenselijk acht dat ambtenaren van de verzoekende administratie aanwezig zijn wanneer, overeenkomstig een verzoek, bijstandsmaatregelen worden uitgevoerd, kan zij om medewerking vragen van de verzoekende administratie met inachtneming van alle door haar daaraan verbonden voorwaarden.
+If the Council decides that specific information is to be centralized, the information to be centralized shall be placed in a central secure automated information system for the purpose of risk assessment to ensure the proper application of customs law, to prevent, investigate and combat customs offences and other cross-border crime and to ensure the security and facilitation of the international trade supply chains.
 
-2. De betrokken douaneadministraties kunnen, door middel van een wederzijdse regeling overeenkomstig [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=61&z=2019-05-22&g=2019-05-22), de rol van de bezoekende ambtenaren uitbreiden naast de adviserende rol die zij hebben.
+##### Article 45. Central automated information systems
 
-##### Artikel 39. Grensoverschrijdende observatie
+1. In each case where information is to be centralized, it shall be placed in a secure central automated information system for customs purposes. This system shall be managed by the Organization and be accessible under the provisions laid down in [Article 52](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-1. Ambtenaren van een Lid, die op het grondgebied van dat Lid een persoon onder observatie houden ten aanzien van wie er gegronde redenen bestaan om aan te nemen dat deze persoon betrokken is bij een inbreuk op de douanewetgeving mogen de observatie voortzetten op het grondgebied van een ander Lid na voorafgaand verzoek, toestemming en alle voorwaarden die het aangezochte Lid hieraan kan verbinden.
+2. The communication of information by the customs administration of a Member to the central automated information system shall be subject to that Member’s legal and administrative provisions, unless this Agreement lays down more stringent provisions.
 
-2. Indien het om bijzonder dringende redenen niet mogelijk is om voorafgaande toestemming te vragen, kan de observatie overeenkomstig het eerste lid van dit artikel worden voortgezet indien de bevoegde autoriteiten van het Lid op het grondgebied waarvan de observatie wordt voortgezet onverwijld in kennis worden gebracht van het overschrijden van de grens en er zo spoedig mogelijk een formeel verzoek om toestemming, onder vermelding van de redenen voor het overschrijden van de grens zonder voorafgaande toestemming, wordt ingediend.
+3. Each Member shall designate a competent authority in its customs administration to be responsible at the national level for the correct operation of the central automated information system and for the measures necessary to ensure compliance with this Chapter.
 
-##### Artikel 40. Gezamenlijke controle- en onderzoeksteams
+4. The Secretary General shall be responsible at the Organization level for the correct operation and maintenance of the central automated information system and for the measures necessary to ensure compliance with this Chapter and shall designate a Secretariat official to be responsible at the Organization level.
 
-1. Leden mogen gezamenlijke controle- en onderzoeksteams oprichten ter opsporing en bestrijding van bepaalde typen inbreuken op de douanewetgeving die gelijktijdige en gecoördineerde activiteiten vereisen.
+5. Each Member shall notify the Secretary General of the competent authority it has designated under paragraph 3 of this Article, who shall make this information available to the other Members, along with any relevant information regarding Organization officials designated under paragraph 4 of this Article. The information referred to in this paragraph shall be included in the central automated information system.
 
-2. Deze teams opereren in overeenstemming met de wettelijke en administratieve bepalingen van het Lid op wiens grondgebied de activiteiten worden uitgevoerd.
+##### Article 46. Management of the central automated information system
 
-##### Artikel 41. Regelingen voor bezoeken van ambtenaren
+1. A team shall be set up to manage the central automated information system with regard to technical, operational and procedural matters. It shall consist of representatives from the customs administrations of the Members and Organization officials.
 
-1. Indien ambtenaren van een Lid aanwezig zijn op het grondgebied van een ander Lid uit hoofde van de bepalingen van dit Verdrag, dienen zij te allen tijde in staat te zijn hun identiteit en ambtelijke hoedanigheid binnen hun douaneadministratie en hun officiële status zoals toegekend op het grondgebied van de aangezochte administratie aan te tonen in een voor de aangezochte administratie aanvaardbare taal.
+2. The management team shall establish procedures for all technical and operational matters including procedures relating to:
 
-2. Ambtenaren zijn, terwijl ze zich op het grondgebied van een ander Lid bevinden uit hoofde van de bepalingen van dit Verdrag, verantwoordelijk voor de strafbare feiten die zij eventueel begaan en genieten, voor zover voorzien in de nationale wettelijke en administratieve bepalingen van die Partij, dezelfde bescherming als die wordt toegekend aan de eigen douaneambtenaren.
+- (i) communication of information;
 
-##### Artikel 42. Uitsluitingsgronden
+- (ii) access to the central automated information system and to the information it contains; and
 
-1. Indien de bijstand waar uit hoofde van dit Verdrag om wordt verzocht een inbreuk zou kunnen vormen op de soevereiniteit, de wetten en de verplichtingen krachtens verdragen, veiligheid, de openbare orde of een ander wezenlijk nationaal belang van een aangezocht Lid, of rechtmatige handels- of beroepsbelangen zou kunnen schaden, kan deze bijstand door dat Lid worden geweigerd of worden verstrekt met inachtneming van alle door hem daaraan verbonden voorwaarden.
+- (iii) modification of information.
 
-2. Indien een verzoekende administratie niet in staat zou zijn een soortgelijk verzoek van de aangezochte administratie in te willigen, wijst zij daarop in haar verzoek. Inwilliging van een dergelijk verzoek wordt overgelaten aan het oordeel van de aangezochte administratie.
+3. Following the approval by the Executive Committee of the procedures referred to in paragraph 2 of this Article, the management team shall ensure their implementation.
 
-3. De bijstand kan worden uitgesteld indien er gronden zijn om aan te nemen dat een lopend onderzoek of een lopende vervolging of procedure hiermee wordt doorkruist. In een dergelijk geval pleegt de aangezochte administratie overleg met de verzoekende administratie om te bepalen of de bijstand kan worden verleend onder de voorwaarden die de aangezochte administratie verlangt.
+4. The management team shall report at least annually to the Executive Committee on the management of the central automated information system under paragraphs 1, 2 and 3 of this Article, making recommendations as necessary. The Executive Committee shall inform the Council of aspects that require an evaluation and decision by that body.
 
-4. Indien de aangezochte administratie van mening is dat de inspanningen die moeten worden verricht om aan een verzoek te voldoen duidelijk niet in verhouding staan tot het beoogde nut voor de verzoekende administratie, kan zij de gevraagde bijstand weigeren.
+##### Article 47. Responsibility for security measures
 
-5. Indien de bijstand wordt geweigerd of uitgesteld, worden de redenen hiervoor medegedeeld.
+1. The Members and the Secretary General shall be responsible for the implementation of all necessary measures for the security of the central automated information system. The objectives of these measures shall include, but not be limited to:
 
-##### Artikel 43. Voorbehouden
+- (i) preventing unauthorized access to equipment used for the processing of information in the system;
 
-1. Leden mogen voorbehouden maken met betrekking tot de artikelen 34 tot en met 41 van dit Verdrag of mogen afzien (opt-out) van een of een aantal van deze artikelen.
+- (ii) preventing unauthorized access to the system;
 
-2. Een Lid wordt geacht alle bepalingen van de artikelen 34 tot en met 41 van het Verdrag te hebben aanvaard tenzij het, op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring van of toetreding tot het Verdrag, de Secretaris-Generaal op de hoogte heeft gebracht van een opt-out of een voorbehoud met betrekking tot deze bepalingen en de redenen voor elk van deze voorbehouden.
+- (iii) preventing unauthorized entry, reading, copying, amending or deletion of any information in the system;
 
-3. Een Lid dat gekozen heeft voor een opt-out voor een of een aantal van de artikelen 34 tot en met 41 van dit Verdrag of dat voorbehouden heeft geformuleerd, zal de opt-outmelding of het ingediende voorbehoud om de drie jaar opnieuw toetsen en kan deze te allen tijde geheel of gedeeltelijk intrekken door kennisgeving aan de depositaris onder vermelding van de datum waarop de intrekking ingaat.
+- (iv) ensuring that it is possible to check and establish which designated competent authorities and Organization officials, referred to in [paragraph 1 of Article 52](https://wetten.overheid.nl/BWBV0006825) of this Agreement, have access to the central automated information system, and which designated officials and Organization officials, referred to in paragraph 2 of Article 52 of this Agreement, have access to the information in the system;
 
-### HOOFDSTUK IV. ALGEMENE BEPALINGEN VOOR DE CENTRALE GEAUTOMATISEERDE INFORMATIESYSTEMEN VAN DE ORGANISATIE
+- (v) ensuring that it is possible to check and establish which information has been introduced into the system, by whom, and to monitor queries; and
 
-##### Artikel 44. Doelstellingen van centralisatie
+- (vi) preventing the unauthorized reading, copying, amendment or deletion of information during the communication of data and the transport of data media.
 
-Indien de Raad besluit dat specifieke informatie moet worden gecentraliseerd wordt de te centraliseren informatie opgeslagen in een veilig centraal geautomatiseerd informatiesysteem voor risicobeoordeling ten behoeve van de juiste toepassing van de douanewetgeving met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving en grensoverschrijdende criminaliteit alsmede om de veiligheid en facilitatie van de internationale logistieke keten te waarborgen.
+2. Independent representatives appointed by the management team shall carry out verifications of access to and queries about personal data to ensure that access and queries made were admissible and were made by authorized users. A record of all verifications shall be maintained in the system for reporting to the management team and deleted after twelve months.
 
-##### Artikel 45. Centrale geautomatiseerde informatiesystemen
+##### Article 48. Implementation of security measures
 
-1. In alle gevallen waarin informatie dient te worden gecentraliseerd, dient deze te worden opgeslagen in een veilig centraal geautomatiseerd informatiesysteem voor douanedoeleinden. Dit systeem wordt beheerd door de Organisatie en is toegankelijk onder de in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=52&z=2019-05-22&g=2019-05-22) van dit Verdrag vastgestelde voorwaarden.
+1. Each Member shall designate a competent authority in its customs administration to implement, at the national level, the security measures referred to in [paragraph 1 of Article 47](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-2. Het verstrekken van informatie door de douaneadministratie van een Lid aan het centrale geautomatiseerde informatiesysteem is onderworpen aan de wettelijke en administratieve bepalingen van dat Lid, tenzij de bepalingen in dit Verdrag stringenter zijn.
+2. The Secretary General shall implement, at the Organization level, the security measures referred to in [paragraph 1 of Article 47](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-3. Elk Lid wijst een bevoegde autoriteit bij zijn douaneadministratie aan die op nationaal niveau verantwoordelijk is voor het correct functioneren van het centrale geautomatiseerde informatiesysteem en voor de maatregelen die noodzakelijk zijn om de naleving van dit Hoofdstuk te waarborgen.
+3. Each Member shall notify the Secretary General of the competent authority it has designated under paragraph 1 of this Article, who shall make this information available to the other Members, along with any relevant information regarding designated Organization officials under paragraph 2 of this Article. The information referred to in this paragraph shall be included in the central automated information system.
 
-4. De Secretaris-Generaal is op organisatieniveau verantwoordelijk voor het correct functioneren en onderhouden van het centrale geautomatiseerde informatiesysteem en voor de maatregelen die noodzakelijk zijn om de naleving van dit Hoofdstuk te waarborgen en stelt een ambtenaar van het secretariaat aan die verantwoordelijk is op organisatieniveau.
+##### Article 49. Inclusion of information
 
-5. Elk Lid stelt de Secretaris-Generaal op de hoogte van de bevoegde autoriteit die is aangesteld uit hoofde van het derde lid van dit artikel. De Secretaris-Generaal stelt deze informatie ter beschikking aan de andere Leden, samen met alle relevante informatie over ambtenaren van de Organisatie die zijn aangewezen uit hoofde van het vierde lid van dit artikel. De informatie bedoeld in dit lid wordt opgenomen in het centrale geautomatiseerde informatiesysteem.
+The inclusion of information in the central automated information system shall be governed by the legal and administrative provisions of the supplying Member unless this Agreement lays down more stringent provisions.
 
-##### Artikel 46. Beheer van het centrale geautomatiseerde informatiesysteem
+##### Article 50. Use of information
 
-1. Er wordt een team opgericht om de technische, operationele en procedurele aspecten van het centrale geautomatiseerde informatiesysteem te beheren. Dit team bestaat uit vertegenwoordigers van de douaneadministraties van de Leden en ambtenaren van de Organisatie.
+1. The use of information obtained from the central automated information system shall be governed by the legal and administrative provisions of the Member using such information, unless this Agreement lays down more stringent provisions.
 
-2. Het managementteam werkt procedures uit voor alle technische en operationele zaken, waaronder procedures met betrekking tot:
+2. Members may only use information obtained from the central automated information system in order to achieve the purposes stated in [Article 44](https://wetten.overheid.nl/BWBV0006825) of this Agreement. However, on request, the Member that supplied the information may authorize its use for other purposes, subject to any terms and conditions it may specify. Such other use shall be in accordance with the legal and administrative provisions of the Member which seeks to use the information. The use of information for other purposes includes its use in criminal investigations, prosecutions or proceedings.
 
-- i. toezending van informatie;
+3. Under the responsibility of the Secretary General, Organization officials may use information obtained from the central automated information system only to carry out tasks as required under this Agreement, subject to any conditions the management team may impose.
 
-- ii. toegang tot het centrale geautomatiseerde informatiesysteem en de informatie die erin is opgeslagen; en
+4. Personal data may only be used if obtained from the central automated information system in accordance with any conditions stipulated in accordance with [paragraph 7 of Article 52](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-- iii. wijziging van informatie.
+##### Article 51. Retention of personal data
 
-3. Na goedkeuring van de in het tweede lid van dit artikel bedoelde procedures door de Uitvoerende Commissie, zal het managementteam zorg dragen voor de uitvoering ervan.
+1. Personal data included in the central automated information system shall be kept only for the time necessary to achieve the purpose for which it was supplied. Members shall specify the period of retention in the system of any personal data they supply.
 
-4. Het managementteam zal ten minste eenmaal per jaar verslag uitbrengen aan de Uitvoerende Commissie over het beheer van het centrale geautomatiseerde informatiesysteem uit hoofde van het eerste, tweede en derde lid van dit artikel en doet daarbij indien noodzakelijk aanbevelingen. De Uitvoerende Commissie brengt de Raad op de hoogte van aspecten die evaluatie en besluitvorming door dat orgaan vereisen.
+2. A supplying Member may extend the period of retention referred to in paragraph 1 of this Article if the retention of its personal data is necessary for the purposes for which it was supplied. If there is no extension of this period, the data shall be deleted from the central automated information system at the initiation of the Member that supplied the personal data.
 
-##### Artikel 47. Verantwoordelijkheid voor veiligheidsmaatregelen
+3. The Secretary General shall inform the supplying Member of the imminent deletion of personal data under paragraph 2 of this Article, one month before deletion. If no notification of extension of the period of retention under paragraph 2 of this Article is received before the foreseen date of deletion, the data shall be deleted on that date.
 
-1. De Leden en de Secretaris-Generaal zijn verantwoordelijk voor het implementeren van alle noodzakelijke maatregelen voor de veiligheid van het centrale geautomatiseerde informatiesysteem. De doelstellingen van deze maatregelen omvatten onder meer:
+4. Independent representatives appointed by the management team shall carry out verifications to ensure that the period of retention of personal data in the central automated information system is being complied with. A record of all verifications shall be maintained in the system for reporting to the management team and deleted after twelve months.
 
-- i. voorkomen van onbevoegde toegang tot apparatuur gebruikt voor informatieverwerking in het systeem;
+##### Article 52. Access
 
-- ii. voorkomen van onbevoegde toegang tot het systeem;
+1. The competent authorities and Organization officials designated in accordance with [paragraphs 3 and 4 of Article 45](https://wetten.overheid.nl/BWBV0006825) of this Agreement shall have access to the central automated information system.
 
-- iii. voorkomen van onbevoegd invoeren, lezen, kopiëren, wijzigen of verwijderen van informatie in het systeem;
+2. For the purposes of [Article 51](https://wetten.overheid.nl/BWBV0006825) of this Agreement and without prejudice to paragraph 7 of this Article, Members shall designate officials in their customs administrations, and the Secretary General shall designate Organization officials, who shall have access to information in the central automated information system.
 
-- iv. ervoor zorgen dat het mogelijk is om te controleren en vast te stellen welke aangewezen bevoegde autoriteiten en ambtenaren van de Organisatie, bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=52&z=2019-05-22&g=2019-05-22), van dit Verdrag toegang hebben tot het centrale geautomatiseerde informatiesysteem en welke aangewezen ambtenaren en ambtenaren van de Organisatie, bedoeld in artikel 52, tweede lid, toegang hebben tot de informatie in het systeem;
+3. Access to the system shall be in accordance with the procedures referred to in [paragraph 2 of Article 50](https://wetten.overheid.nl/BWBV0006825) of this Agreement. For the purpose of applying [Article 51](https://wetten.overheid.nl/BWBV0006825) of this Agreement, the management team shall have access to the central automated information system.
 
-- v. ervoor zorgen dat het mogelijk is om te controleren en vast te stellen welke informatie is ingevoerd in het systeem en door wie en om toezicht te houden op bevragingen; en
+4. The Council may permit access to the non-personal information in the central automated information system by international and regional governmental organizations on the basis of reciprocity and subject to any conditions the Council may specify.
 
-- vi. voorkomen van het onbevoegd lezen, kopiëren, wijzigen of verwijderen van informatie tijdens het meedelen van gegevens en vervoer van gegevensdragers.
+5. Independent representatives appointed by the management team shall have access to the central automated information system.
 
-2. Onafhankelijke vertegenwoordigers benoemd door het managementteam voeren verificaties uit van toegang tot en bevragingen met betrekking tot persoonsgegevens om te waarborgen dat deze toegang en bevragingen toelaatbaar waren en door bevoegde gebruikers werden uitgevoerd. Alle verificaties worden geregistreerd in het systeem voor rapportage aan het managementteam en na verloop van twaalf maanden gewist.
+6. Each Member shall notify the Secretary General of the officials it has designated under paragraph 2 of this Article. The Secretary General shall make this information available to all Members along with any relevant information regarding Organization officials designated under the same paragraph. The information referred to in this paragraph shall be included in the central automated information system.
 
-##### Artikel 48. Toepassen van veiligheidsmaatregelen
+7. Members may stipulate who shall have access, or who shall not have access, to the personal data they supply.
 
-1. Elk Lid benoemt een bevoegde autoriteit binnen zijn douaneadministratie om op nationaal niveau de veiligheidsmaatregelen bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=47&z=2019-05-22&g=2019-05-22), van dit Verdrag toe te passen.
+8. The rights of natural persons with regard to personal data in the central automated information system, in particular their right of access, shall be put into effect in accordance with the legal and administrative provisions of the Member in whose territory such rights are invoked.
 
-2. Op het niveau van de Organisatie past de Secretaris-Generaal de veiligheidsmaatregelen bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=47&z=2019-05-22&g=2019-05-22), van dit Verdrag toe.
+##### Article 53. Modification
 
-3. Elk Lid stelt de Secretaris-Generaal op de hoogte van de bevoegde autoriteit die het heeft benoemd uit hoofde van het eerste lid van dit artikel. De Secretaris-Generaal stelt deze informatie ter beschikking aan de andere Leden, samen met alle relevante informatie over ambtenaren van de Organisatie die zijn benoemd uit hoofde van het tweede lid van dit artikel. De informatie bedoeld in dit lid wordt opgenomen in het centrale geautomatiseerde informatiesysteem.
+1. Personal data in the central automated information system shall only be amended, supplemented, corrected, or deleted at the initiation of the supplying Member.
 
-##### Artikel 49. Opnemen van informatie
+2. If a Member notes that the personal data it supplied is inaccurate, or was included or is stored in the central automated information system contrary to this Agreement, it shall arrange for the amendment, supplementation, correction or deletion of this personal data without delay. The Member concerned shall arrange with the Secretary General to notify those who have been stipulated to have access to personal data, as referred to in [paragraph 7 of Article 52](https://wetten.overheid.nl/BWBV0006825) of this Agreement, of such amendment, supplementation, correction or deletion.
 
-Voor het opnemen van informatie in het centrale geautomatiseerde informatiesysteem zijn de wettelijke en administratieve bepalingen van het Lid dat de informatie verstrekt van toepassing tenzij de bepalingen in dit Verdrag stringenter zijn.
+3. If a Member has information to suggest that any personal data is inaccurate, or was included or is stored in the central automated information system contrary to this Agreement, it shall advise the supplying Member as soon as possible. The latter shall check the data concerned and, if necessary, arrange for its amendment, supplementation, correction or deletion without delay. The supplying Member shall arrange with the Secretary General to notify those who have been stipulated to have access to personal data, as referred to in [paragraph 7 of Article 52](https://wetten.overheid.nl/BWBV0006825) of this Agreement, of such amendment, supplementation, correction or deletion.
 
-##### Artikel 50. Gebruik van informatie
+4. If, at the time of including personal data in the central automated information system, a Member realizes that its personal data conflicts with personal data supplied by another Member, it shall immediately advise the Member which supplied that data. The Members concerned shall attempt to resolve the matter. If resolving the matter results in an amendment, supplementation, correction or deletion of personal data, the Member which had supplied the data shall arrange with the Secretary General to notify those who have been stipulated to have access to personal data, as referred to in [paragraph 7 of Article 52](https://wetten.overheid.nl/BWBV0006825) of this Agreement, of such amendment, supplementation, correction or deletion.
 
-1. Voor het gebruik van informatie in het centrale geautomatiseerde informatiesysteem zijn de wettelijke en administratieve bepalingen van het Lid dat de informatie gebruikt van toepassing tenzij de bepalingen in dit Verdrag stringenter zijn.
+5. Where a court or other competent authority within the territory of any Member makes a final decision regarding the amendment, supplementation, correction or deletion of personal data in the central automated information system, the Member in whose territory the decision is made shall arrange, if it supplied the data, for the amendment, supplementation, correction or deletion of this data without delay, or, if the data was supplied by another Member, it shall advise the supplying Member of the decision. The supplying Member shall then arrange for the amendment, supplementation, correction or deletion of the data without delay.
 
-2. Leden mogen informatie verkregen uit het centrale geautomatiseerde informatiesysteem uitsluitend gebruiken om de doelstellingen vermeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=44&z=2019-05-22&g=2019-05-22) van dit Verdrag te verwezenlijken. Niettegenstaande kan het Lid dat de informatie heeft verstrekt, op verzoek, goedkeuring hechten aan het gebruik voor andere doeleinden, met inachtneming van alle door hem daaraan verbonden voorwaarden. Dergelijk gebruik dient in overeenstemming te zijn met de wettelijke en administratieve bepalingen van het Lid dat de informatie wil gebruiken. Het gebruik van informatie voor andere doeleinden omvat het gebruik bij strafrechtelijk onderzoek, strafrechtelijke vervolging en strafrechtelijke procedures.
+##### Article 54. Responsibilities and liabilities
 
-3. Onder de verantwoordelijkheid van de Secretaris-Generaal, mogen ambtenaren van de Organisatie de informatie verkregen uit het centrale geautomatiseerde informatiesysteem uitsluitend gebruiken om de uit hoofde van dit Verdrag vereiste taken uit te voeren, met inachtneming van alle voorwaarden die het managementteam kan opleggen.
+1. A Member shall be responsible, to the extent possible, for the accuracy, currency and lawfulness of the information it has included in the central automated information system.
 
-4. Persoonsgegevens mogen uitsluitend worden gebruikt indien deze zijn verkregen uit het centrale geautomatiseerde informatiesysteem in overeenstemming met bepalingen die zijn vastgelegd overeenkomstig [artikel 52, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=52&z=2019-05-22&g=2019-05-22), van dit Verdrag.
+2. A Member shall be liable, in accordance with its legal and administrative provisions, for damage caused to a person through the use in its territory, of information obtained from the central automated information system by that Member.
 
-##### Artikel 51. Bewaring van persoonsgegevens
+3. A Member shall be liable in cases where the damage was caused by the supplying Member entering inaccurate data or entering data that is contrary to this Agreement.
 
-1. Persoonsgegevens die zijn opgenomen in het centrale geautomatiseerde informatiesysteem worden niet langer bewaard dan nodig is voor het doel waarvoor zij zijn verstrekt. Leden mogen aangeven hoe lang de door hen verstrekte persoonsgegevens mogen worden bewaard.
+4. If the Member found liable for damage under paragraph 3 of this Article is not the Member that supplied the information, the Members concerned shall agree on the terms and conditions of reimbursement to the liable Member of any sums it paid out in compensation.
 
-2. Een Lid dat gegevens verstrekt mag de periode van bewaring bedoeld in het eerste lid van dit artikel verlengen indien het bewaren van de persoonsgegevens nodig is voor het doel waarvoor zij zijn verstrekt. Indien deze periode niet wordt verlengd, worden de gegevens gewist uit het centrale geautomatiseerde informatiesysteem op initiatief van het Lid dat de persoonsgegevens heeft geleverd.
+5. A Member shall be liable, in accordance with its legal and administrative provisions, for damage caused to a person through the use of information by Organization officers obtained from the central automated information system contrary to this Agreement, to the extent that this information had been included in the system by that Member.
 
-3. De Secretaris-Generaal brengt het Lid dat de gegevens heeft verstrekt een maand van tevoren ervan op de hoogte dat de persoonsgegevens zullen worden gewist in overeenstemming met het tweede lid van dit artikel. Indien er voor de geplande datum voor het verwijderen geen melding is ontvangen over het verlengen van de bewaarperiode overeenkomstig het tweede lid van dit artikel, worden de gegevens op die datum gewist.
+6. If damage is established by a competent judicial authority with respect to paragraph 4 of this Article, the Member concerned may refer the decision to the Executive Committee who will make a recommendation to the Council regarding any reimbursement.
 
-4. Onafhankelijke vertegenwoordigers die benoemd worden door het managementteam voeren verificaties uit om ervoor te zorgen dat de bewaarperiode voor persoonsgegevens in het centrale geautomatiseerde informatiesysteem wordt nageleefd. Alle verificaties worden geregistreerd in het systeem voor rapportage aan het managementteam en na verloop van twaalf maanden gewist.
+### CHAPTER V. TRANSITIONAL PROVISIONS
 
-##### Artikel 52. Toegang
+##### Article 55. Transfer of funds and assets
 
-1. De bevoegde autoriteiten en ambtenaren van de Organisatie die zijn aangewezen in overeenstemming met [artikel 45, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=45&z=2019-05-22&g=2019-05-22), van dit Verdrag hebben toegang tot het centrale geautomatiseerde informatiesysteem.
+Funds and assets, including automated systems, of the Caribbean Customs Law Enforcement Council shall be transferred to the Organization, subject to a decision to that effect by the last held conference of the Caribbean Customs Law Enforcement Council.
 
-2. Voor de toepassing van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=51&z=2019-05-22&g=2019-05-22) van dit Verdrag en onverminderd het zevende lid van dit artikel, wijzen Leden ambtenaren in hun douaneadministratie aan, en wijst de Secretaris-Generaal ambtenaren van de Organisatie aan, die toegang hebben tot informatie in het centrale geautomatiseerde informatiesysteem.
+##### Article 56. Legacy Memoranda of Understanding
 
-3. Toegang tot het systeem is in overeenstemming met [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=50&z=2019-05-22&g=2019-05-22), van dit Verdrag bedoelde procedures. Voor de toepassing van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=51&z=2019-05-22&g=2019-05-22) van dit Verdrag heeft het managementteam toegang tot het centrale geautomatiseerde informatiesysteem.
+Memoranda of Understanding concluded by the Caribbean Customs Law Enforcement Council shall remain valid and shall be transferred to the Organization. Partner organizations in these cooperative arrangements shall be informed accordingly.
 
-4. De Raad mag toegang verlenen tot de niet-persoonlijke informatie in het centrale geautomatiseerde informatiesysteem aan internationale en regionale gouvernementele organisaties op basis van wederkerigheid en met inachtneming van de voorwaarden die de Raad daaraan verbindt.
+##### Article 57. Transfer of legacy data
 
-5. Onafhankelijke vertegenwoordigers die benoemd worden door het managementteam hebben toegang tot het centrale geautomatiseerde informatiesysteem.
+Any data obtained under a Memorandum of Understanding concluded by the Caribbean Customs Law Enforcement Council may be transferred to the central automated information systems of the Organization, subject to the approval of the partner organization.
 
-6. Elk Lid stelt de Secretaris-Generaal op de hoogte van de ambtenaren die het heeft aangewezen uit hoofde van het tweede lid van dit artikel. De Secretaris-Generaal stelt deze informatie ter beschikking aan alle Leden, samen met alle relevante informatie over ambtenaren van de Organisatie die zijn aangewezen uit hoofde van hetzelfde lid. De informatie bedoeld in dit lid wordt opgenomen in het centrale geautomatiseerde informatiesysteem.
+##### Article 58. Calling of the first Council Session
 
-7. Leden mogen aangeven wie toegang heeft, of wie geen toegang heeft tot de persoonsgegevens die zij leveren.
+The last meeting of the Executive Committee of the Caribbean Customs Law Enforcement Council before the first Council session of the Organization shall call the meeting and shall ensure that all necessary arrangements for this first session will be in place.
 
-8. De rechten van natuurlijke personen met betrekking tot de persoonsgegevens in het centrale geautomatiseerde informatiesysteem, met name hun recht van toegang, worden uitgeoefend in overeenstemming met de wettelijke en administratieve bepalingen van het Lid op wiens grondgebied deze rechten worden ingeroepen.
+##### Article 59. Completion of ongoing investigations
 
-##### Artikel 53. Wijziging
+Ongoing investigations at the time of withdrawal from the Agreement by a Member shall nonetheless be completed in accordance with the provisions of this Agreement.
 
-1. Persoonsgegevens in het centrale geautomatiseerde informatiesysteem worden slechts gewijzigd, aangevuld, gecorrigeerd of gewist op initiatief van het Lid dat deze heeft geleverd.
+### CHAPTER VI. FINAL PROVISIONS
 
-2. Indien een Lid merkt dat de persoonsgegevens die het heeft geleverd onjuist zijn, of in strijd met dit Verdrag zijn opgenomen of opgeslagen in het centrale geautomatiseerde informatiesysteem, zal het onverwijld regelingen treffen voor het wijzigen, aanvullen, corrigeren of verwijderen van deze persoonsgegevens. Het betrokken Lid komt met de Secretaris-Generaal overeen om degenen die aangemerkt zijn om toegang te hebben tot de persoonsgegevens, zoals bedoeld in [artikel 52, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=50&z=2019-05-22&g=2019-05-22), van dit Verdrag, op de hoogte te brengen van een dergelijke wijziging, aanvulling, correctie of verwijdering.
+##### Article 60. Signature, ratification, acceptance, approval and accession
 
-3. Indien een Lid beschikt over informatie waaruit zou kunnen blijken dat persoonsgegevens onjuist zijn of dat deze in strijd met dit Verdrag zijn opgenomen of opgeslagen, dan brengt hij het Lid dat de gegevens levert zo spoedig mogelijk op de hoogte. Laatstgenoemde controleert de desbetreffende gegevens en treft, indien nodig, onverwijld regelingen voor de wijziging, aanvulling, correctie of verwijdering. Het Lid dat de gegevens levert komt met de Secretaris-Generaal overeen om degenen die aangemerkt zijn om toegang te hebben tot de persoonsgegevens, zoals bedoeld in [artikel 52, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=52&z=2019-05-22&g=2019-05-22), van dit Verdrag, op de hoogte te brengen van een dergelijke wijziging, aanvulling, correctie of verwijdering.
+1. This Agreement shall be open for signature until 1 January 2020 at the Headquarters of the Organization by the States and, if permitted under their constitutional relationship with the State to which they are linked, the territories referred to in [Article 5](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-4. Indien een Lid, op het moment dat persoonsgegevens in het centrale geautomatiseerde informatiesysteem worden ingevoerd, beseft dat zijn persoonsgegevens in strijd zijn met persoonsgegevens die geleverd worden door een ander Lid, stelt hij het Lid dat die gegevens heeft verstrekt onverwijld in kennis. De betrokken Leden trachten deze kwestie op te lossen. Indien het oplossen van deze kwestie resulteert in het wijzigen, aanvullen, corrigeren of verwijderen van persoonsgegevens, komt het Lid dat de gegevens heeft geleverd met de Secretaris-Generaal overeen om degenen die aangemerkt zijn om toegang te hebben tot de persoonsgegevens, zoals bedoeld in [artikel 52, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=52&z=2019-05-22&g=2019-05-22), van dit Verdrag, in kennis te stellen van een dergelijke wijziging, aanvulling, correctie of verwijdering.
+2. This Agreement is subject to ratification, acceptance or approval by the States or territories referred to in paragraph 1 of this Article.
 
-5. Indien een rechter of andere bevoegde autoriteit op het grondgebied van een Lid een definitieve beslissing neemt over een wijziging, aanvulling, correctie of verwijdering van persoonsgegevens in het centrale geautomatiseerde informatiesysteem, regelt het Lid op wiens grondgebied de beslissing is genomen, indien het de gegevens heeft geleverd, onverwijld de wijziging, aanvulling, correctie of verwijdering van deze gegevens, of, indien de gegevens werden geleverd door een ander Lid, brengt het Lid dat de gegevens heeft geleverd op de hoogte van de beslissing. Het Lid dat de gegevens heeft geleverd treft dan onverwijld de regelingen voor het wijzigen, aanvullen, corrigeren of verwijderen van de gegevens.
+3. This Agreement shall be open for accession by any State or, if permitted under its constitutional relationship with the State to which it is linked, any territory referred to in [Article 5](https://wetten.overheid.nl/BWBV0006825) of this Agreement that has not signed this Agreement.
 
-##### Artikel 54. Aansprakelijkheden en verantwoordelijkheden
+4. Subject to the provisions of [Article 5](https://wetten.overheid.nl/BWBV0006825) of this Agreement:
 
-1. Een Lid is, voor zover mogelijk, verantwoordelijk voor de accuratesse, actualiteit en rechtmatigheid van de informatie die het heeft opgenomen in het centrale geautomatiseerde informatiesysteem.
+- (i) any State may declare that its ratification, acceptance, approval of, or accession to this Agreement includes any territory or group of territories for the international relations of which it is responsible;
 
-2. Een Lid is aansprakelijk, in overeenstemming met zijn wettelijke en administratieve bepalingen, voor schade die een persoon ondervindt door het gebruik op zijn grondgebied van informatie die is verkregen uit het centrale geautomatiseerde informatiesysteem voor dat Lid.
+- (ii) any State may at any time declare by notification given in writing to the depositary that this Agreement shall extend to all or any of its territories for whose international relations it is responsible. Such notifications shall take effect three months after the date of receipt thereof by the depositary.
 
-3. Een Lid is aansprakelijk in gevallen waarbij de schade is veroorzaakt doordat het Lid dat gegevens levert onjuiste gegevens heeft ingevoerd of gegevens heeft ingevoerd die in strijd zijn met dit Verdrag.
+5. Any State and any territory referred to in paragraphs 2 or 3 of this Article may, at the time of signing or of depositing an instrument of ratification, acceptance, approval or accession, deposit an opt out as referred to in [Article 43](https://wetten.overheid.nl/BWBV0006825) of this Agreement. Any State may declare that the opt out includes any territory or group of territories possessing autonomy in the conduct of customs matters for the international relations of which it is responsible.
 
-4. Indien het Lid dat aansprakelijk is voor schade uit hoofde van het derde lid van dit artikel niet het Lid is dat de informatie heeft verstrekt, bereiken de betrokken Leden overeenstemming over de voorwaarden en bepalingen van de vergoeding aan het aansprakelijke Lid van de bedragen die deze bij wijze van schadeloosstelling heeft betaald.
+6. Any State or any territory referred to in paragraphs 2 or 3 of this Article, ratifying, accepting, approving or acceding to this Agreement shall be bound by any amendments to this Agreement which have entered into force at the date of deposit of its instrument of ratification, acceptance, approval or accession.
 
-5. Een Lid is aansprakelijk, in overeenstemming met zijn wettelijke en administratieve bepalingen, voor schade die een persoon ondervindt door gebruik van informatie die door ambtenaren van de Organisatie in strijd met dit Verdrag is verkregen uit het centrale geautomatiseerde informatiesysteem, voor zover deze informatie in het systeem is opgenomen door dat Lid.
+##### Article 61. Implementation and application of the Agreement
 
-6. Indien de schade is vastgesteld door een bevoegde rechterlijke instantie met betrekking tot het vierde lid van dit Verdrag, mag het betrokken Lid de beslissing doorverwijzen naar de Uitvoerende Commissie die aan de Raad een aanbeveling zal doen over elke vergoeding.
+1. In applying this Agreement, Members shall take the necessary measures to ensure, to the extent possible, that their officials who are responsible for investigating or combating customs offences maintain personal and direct relations with each other.
 
-### HOOFDSTUK V. OVERGANGSBEPALINGEN
+2. Two or more Members may decide on the mutual arrangements to facilitate the implementation and application of this Agreement between them.
 
-##### Artikel 55. Overdracht van activa en middelen
+##### Article 62. Amendments to the Agreement
 
-Activa en middelen, waaronder geautomatiseerde systemen, van de Caribische Raad voor de handhaving van de douanewetgeving worden overgedragen aan de Organisatie, afhankelijk van een beslissing in die zin van de meest recente conferentie van de Caribische Raad voor de handhaving van de douanewetgeving.
+1. Any Member may propose amendments to this Agreement to the Secretary General.
 
-##### Artikel 56. Oudere Memoranda van Overeenstemming
+2. The text of a proposed amendment shall be communicated by the Secretary General to all Members. Following a subsequent period of at least three months, a meeting of the Council shall be convened at which the Council shall consider whether to adopt and recommend the amendment to the States. The Secretary General shall notify the States of this adoption.
 
-Memoranda van Overeenstemming die gesloten zijn door de Caribische Raad voor de handhaving van de douanewetgeving blijven onverkort geldig en worden overgedragen aan de Organisatie. De partnerorganisaties van deze samenwerkingsregelingen worden daarvan in kennis gesteld.
+3. An amendment adopted by the Council in accordance with paragraph 2 of this Article shall be deemed to have been accepted if no objection has been lodged by any State before the expiry of a period of twenty-four months after the date of the notification referred to in paragraph 2 of this Article.
 
-##### Artikel 57. Overdracht van oudere gegevens
+4. An amendment accepted in accordance with paragraph 3 of this Article shall enter into force three months after its date of acceptance. The Secretary General shall notify the States of the date of entry into force.
 
-Alle gegevens verkregen ingevolge een Memorandum van Overeenstemming gesloten door de Caribische Raad voor de handhaving van de douanewetgeving kunnen worden overgedragen aan de centrale geautomatiseerde informatiesystemen van de Organisatie, indien de partnerorganisatie dit goedkeurt.
+##### Article 63. Settlement of disputes
 
-##### Artikel 58. Beleggen van de eerste zitting van de Raad
+1. Any dispute between Members or between Members and Cooperating Partners concerning the interpretation or application of this Agreement shall as far as possible be settled by negotiation between them.
 
-De laatste vergadering van de Uitvoerende Commissie van de Caribische Raad voor de handhaving van de douanewetgeving voor de eerste zitting van de Raad van de Organisatie belegt de zitting en zorgt ervoor dat de nodige regelingen voor deze eerste zitting worden getroffen.
+2. In respect of disputes relating to the conditions of membership or any other matters concerning Cooperating Partner status, an individual Cooperating Partner and the Council shall consult each other to resolve the matter.
 
-##### Artikel 59. Afronden van lopende onderzoeken
+3. Any dispute that is not settled by negotiation shall be referred by the Members to the Executive Committee which shall thereupon consider the dispute and make recommendations for its settlement.
 
-Lopende onderzoeken op het tijdstip van de opzegging van het Verdrag door een Lid worden niettemin voltooid in overeenstemming met de bepalingen van dit Verdrag.
+4. The Members in dispute may agree in advance to accept the recommendations of the Executive Committee as binding.
 
-### HOOFDSTUK VI. SLOTBEPALINGEN
+5. Disputes for which no solutions are found, shall be settled by diplomatic means.
 
-##### Artikel 60. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Article 64. Entry into force
 
-1. Tot 1 januari 2020 staat dit Verdrag open voor ondertekening op het hoofdkwartier van de Organisatie door de Staten en, indien toegestaan door de constitutionele relatie met de Staat waarmee zij verbonden zijn, de grondgebieden bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22) van dit Verdrag.
+1. This Agreement shall enter into force three months after the date of the deposit of the instrument of ratification, acceptance or approval in accordance with [Article 60](https://wetten.overheid.nl/BWBV0006825) of this Agreement, notifying the tenth State or territory referred to in [Article 5](https://wetten.overheid.nl/BWBV0006825) of this Agreement as Member of the Organization.
 
-2. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de Staten of grondgebieden bedoeld in het eerste lid van dit artikel.
+2. For any State that deposits its instrument of ratification, acceptance, approval or accession after that date this Agreement shall enter into force three months after the date of deposit of its instrument of ratification, acceptance, approval or accession in accordance with the provisions of [Article 60](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-3. Dit Verdrag staat open voor toetreding door iedere Staat of, indien toegestaan door de constitutionele relatie met de Staat waarmee het is verbonden, door ieder grondgebied bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22) van dit Verdrag dat dit Verdrag niet heeft ondertekend.
+##### Article 65. Withdrawal
 
-4. Behoudens het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22) van dit Verdrag:
+1. Any State or any territory referred to in [paragraphs 2 or 3 of Article 60](https://wetten.overheid.nl/BWBV0006825) of this Agreement may withdraw from the Organization by giving notice in writing to the depositary, who shall at once inform all the Members of the Organization of such notice of withdrawal. The withdrawal shall take effect six months after the receipt of the notice of withdrawal by the depositary.
 
-- i. kan elke Staat verklaren dat zijn bekrachtiging, aanvaarding, goedkeuring van of toetreding tot dit Verdrag mede geldt voor een grondgebied of groep grondgebieden waarvan hij de buitenlandse betrekkingen behartigt.
+2. Any State may notify the depositary, in accordance with paragraph 1 of this Article, that this Agreement no longer applies to any territory or group of territories for the international relations of which it is responsible as referred to in [paragraph 4 of Article 60](https://wetten.overheid.nl/BWBV0006825) of this Agreement. Such notification shall take effect six months after the receipt of the notification by the depositary.
 
-- ii. kan elke Staat te allen tijde door middel van een schriftelijke kennisgeving aan de depositaris verklaren dat dit Verdrag wordt uitgebreid tot alle of bepaalde grondgebieden waarvan hij de buitenlandse betrekkingen behartigt. Bedoelde kennisgevingen worden van kracht drie maanden na de datum waarop de depositaris deze ontvangt.
+3. A Cooperating Partner may withdraw from the Organization in accordance with the terms of the cooperative arrangement and informs the depositary thereof, and the depositary shall promptly notify the Members. Such withdrawal shall take effect six months after receipt of the notice by the depositary.
 
-5. Elke Staat of elk grondgebied bedoeld in het tweede of derde lid van dit artikel kan op het tijdstip van ondertekening of nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding een opt-out deponeren zoals bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=III&artikel=43&z=2019-05-22&g=2019-05-22) van dit Verdrag. Elke Staat mag verklaren dat de opt-out elk grondgebied of elke groep grondgebieden omvat die over autonomie beschikken bij het uitvoeren van douanezaken voor de buitenlandse betrekkingen die hij behartigt.
+4. The Organization may withdraw Cooperating Partner status from a Cooperating Partner after a decision of the Council. A decision to withdraw Cooperating Partner status must have agreement from not less than three quarters of the Members.
 
-6. Elke Staat of elk grondgebied bedoeld in het tweede of derde lid van dit artikel die of dat dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, wordt gebonden door elke wijziging van dit Verdrag die van kracht is geworden op de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+##### Article 66. Depositary of the Agreement
 
-##### Artikel 61. Uitvoering en toepassing van het Verdrag
+1. The Secretary General shall act as the depositary of the Agreement.
 
-1. Voor de toepassing van dit Verdrag nemen de Leden de noodzakelijke maatregelen om, voor zover mogelijk, te waarborgen dat hun met het onderzoek of de bestrijding van inbreuken op de douanewetgeving belaste ambtenaren persoonlijke en rechtstreekse betrekkingen met elkaar kunnen onderhouden.
+2. The depositary shall:
 
-2. Twee of meer Leden kunnen beslissen over de wederzijdse regelingen ter vergemakkelijking van de uitvoering en toepassing van dit Verdrag onderling.
+- (i) receive and keep custody of the original texts of this Agreement;
 
-##### Artikel 62. Wijzigingen van het Verdrag
+- (ii) prepare certified copies of the original texts of this Agreement and transmit them to the Members;
 
-1. Elk Lid kan aan de Secretaris-Generaal voorstellen doen tot wijziging van dit Verdrag.
+- (iii) receive any signature with or without reservation of ratification, acceptance, approval or accession to this Agreement and receive and keep custody of any instruments of ratification, acceptance, approval or accession, notifications and communications relating to it;
 
-2. De tekst van een voorgestelde wijziging wordt door de Secretaris-Generaal aan alle Leden medegedeeld. Na verloop van ten minste drie maanden wordt vervolgens een vergadering van de Raad bijeengeroepen waar de Raad zal overwegen of de wijziging wordt aangenomen en aanbevolen zal worden aan de Staten. De Secretaris-Generaal stelt de Staten in kennis van de aanneming.
+- (iv) receive and keep custody of notifications of national legal and administrative provisions and written declarations in respect of [paragraph 3 of Article 31](https://wetten.overheid.nl/BWBV0006825) of this Agreement and any notifications of reservations by Members;
 
-3. Een wijziging die door de Raad is aangenomen in overeenstemming met het tweede lid van dit artikel wordt geacht te zijn aanvaard indien er geen kennisgeving van bezwaar is ontvangen van een Staat binnen een tijdvak van vierentwintig maanden na de datum van de kennisgeving bedoeld in het tweede lid van dit artikel.
+- (v) examine whether the signature or any instrument, notification or communication related to this Agreement is in due and proper form and, if need be, bring the matter to the attention of the Member in question;
 
-4. Een wijziging die is aanvaard in overeenstemming met het derde lid van dit artikel treedt drie maanden na de datum van aanvaarding in werking. De Secretaris-Generaal stelt de Staten in kennis van deze datum van inwerkingtreding.
+- (vi) notify the Members of:
 
-##### Artikel 63. Regeling van geschillen
+   - – the date of entry into force of this Agreement in accordance with [Article 64](https://wetten.overheid.nl/BWBV0006825) of this Agreement;
 
-1. Elk geschil tussen Leden of Leden en Samenwerkingspartners betreffende de uitlegging of toepassing van dit Verdrag wordt zoveel mogelijk geregeld door middel van onderlinge onderhandelingen.
+   - – notifications received in accordance with [Article 6](https://wetten.overheid.nl/BWBV0006825) of this Agreement and [paragraph 6 of Article 52](https://wetten.overheid.nl/BWBV0006825) of this Agreement;
 
-2. In het geval van geschillen betreffende de lidmaatschapsvoorwaarden of zaken betreffende de status van Samenwerkingspartner plegen een individuele Samenwerkingspartner en de Raad overleg om de aangelegenheid op te lossen.
+   - – notifications of withdrawal under [paragraph 2 of Article 65](https://wetten.overheid.nl/BWBV0006825) of this Agreement; and
 
-3. Elk geschil dat niet door middel van onderhandelingen wordt geregeld, wordt door de Leden voorgelegd aan de Uitvoerende Commissie, die het geschil onderzoekt en aanbevelingen doet met het oog op de regeling ervan.
+   - – any amendments accepted or objected to in accordance with [Article 62](https://wetten.overheid.nl/BWBV0006825) of this Agreement and the date of their entry into force;
 
-4. De Leden tussen wie het geschil is gerezen kunnen van tevoren overeenkomen dat zij de aanbevelingen van de Uitvoerende Commissie als bindend aanvaarden.
+- (vii) notify the Members of the authorities referred to in [paragraph 3 of Article 20](https://wetten.overheid.nl/BWBV0006825) of this Agreement; and
 
-5. Geschillen waarvoor geen oplossing wordt gevonden, worden langs diplomatieke weg geregeld.
+- (viii) notify the Member customs administrations of the official contact points referred to in [paragraph 1 of Article 21](https://wetten.overheid.nl/BWBV0006825) of this Agreement.
 
-##### Artikel 64. Inwerkingtreding
+3. In the event of any difference appearing between a Member and the depositary as to the performance of the latter’s function, the depositary or that Member shall bring the question to the attention of the other Members and to the signatories or, as the case may be, the Executive Committee.
 
-1. Dit Verdrag treedt in werking drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring in overeenstemming met [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=60&z=2019-05-22&g=2019-05-22) van dit Verdrag, waarbij de tiende Staat of grondgebied bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=5&z=2019-05-22&g=2019-05-22) van dit Verdrag als Lid van de Organisatie wordt gemeld.
+##### Article 67. Registration of the text
 
-2. Voor elke Staat die zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt na die datum, treedt dit Verdrag in werking drie maanden na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding in overeenstemming met de bepalingen van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=60&z=2019-05-22&g=2019-05-22) van dit Verdrag.
-
-##### Artikel 65. Opzegging
-
-1. Elke Staat of elk grondgebied bedoeld in het tweede of derde lid van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=60&z=2019-05-22&g=2019-05-22) van dit Verdrag kan zich terugtrekken uit de Organisatie door middel van een schriftelijke kennisgeving aan de depositaris die onmiddellijk alle Leden van de Organisatie in kennis stelt van deze opzegging. De opzegging wordt van kracht zes maanden nadat de depositaris de kennisgeving van opzegging heeft ontvangen.
-
-2. Elke Staat kan de depositaris in overeenstemming met het eerste lid van dit artikel mededelen dan dit Verdrag niet meer geldt voor een grondgebied of groep grondgebieden waarvoor hij de buitenlandse betrekkingen behartigt zoals bedoeld in [artikel 60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=60&z=2019-05-22&g=2019-05-22), van dit Verdrag. Een dergelijke kennisgeving wordt van kracht zes maanden nadat de depositaris deze heeft ontvangen.
-
-3. Een samenwerkingspartner kan zich terugtrekken uit de Organisatie in overeenstemming met de voorwaarden van de samenwerkingsregeling en stelt de depositaris daarvan in kennis. De depositaris stelt de Leden onmiddellijk in kennis. De opzegging wordt van kracht zes maanden nadat de depositaris de desbetreffende kennisgeving heeft ontvangen.
-
-4. De Organisatie kan de status van samenwerkingspartner intrekken van een samenwerkingspartner na een beslissing van de Raad. Voor een beslissing om de status van samenwerkingspartner in te trekken dient er een meerderheid te zijn van minimaal driekwart van de Leden.
-
-##### Artikel 66. Depositaris van het Verdrag
-
-1. De Secretaris-Generaal is depositaris van dit Verdrag.
-
-2. De depositaris:
-
-- i. ontvangt en bewaart de oorspronkelijke teksten van dit Verdrag;
-
-- ii. maakt gewaarmerkte afschriften van de oorspronkelijke teksten van dit Verdrag en zendt deze naar de Leden;
-
-- iii. ontvangt alle ondertekeningen met of zonder voorbehoud van bekrachtiging, aanvaarding, goedkeuring van of toetreding tot dit Verdrag en ontvangt en bewaart alle akten van bekrachtiging, aanvaarding, goedkeuring of toetreding, kennisgevingen en mededelingen die hiermee verband houden;
-
-- iv. ontvangt en bewaart kennisgevingen van nationale wettelijke en administratieve bepalingen en schriftelijke kennisgevingen met betrekking tot [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=III&artikel=31&z=2019-05-22&g=2019-05-22), van dit Verdrag en kennisgevingen van voorbehouden door Leden;
-
-- v. gaat na of de ondertekening of een akte, kennisgeving of mededeling in verband met dit Verdrag in de juiste vorm tot stand is gekomen en brengt, in voorkomend geval, de aangelegenheid onder de aandacht van het betrokken Lid;
-
-- vi. stelt de Leden in kennis van:
-
-- –. de datum van inwerkingtreding van dit Verdrag in overeenstemming met [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=64&z=2019-05-22&g=2019-05-22) van dit Verdrag;
-
-- –. kennisgevingen ontvangen in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=II&artikel=6&z=2019-05-22&g=2019-05-22) van dit Verdrag en [artikel 52, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=IV&artikel=52&z=2019-05-22&g=2019-05-22), van dit Verdrag;
-
-- –. kennisgevingen van opzegging krachtens [artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=65&z=2019-05-22&g=2019-05-22), van dit Verdrag; en
-
-- –. alle wijzigingen die aanvaard zijn of waartegen bezwaar is gemaakt in overeenstemming met [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=VI&artikel=62&z=2019-05-22&g=2019-05-22) van dit Verdrag en de datum waarop deze in werking zijn getreden;
-
-- vii. stelt de Leden van de autoriteiten bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=III&artikel=20&z=2019-05-22&g=2019-05-22), van dit Verdrag in kennis; en
-
-- viii. stelt de douaneadministraties van de Leden in kennis van de officiële contactpunten bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006825&hoofdstuk=III&artikel=21&z=2019-05-22&g=2019-05-22), van dit Verdrag.
-
-3. Indien er een verschil van mening ontstaat tussen een Lid en de depositaris omtrent de verrichting van de taken van laatstgenoemde, brengt de depositaris of het desbetreffende Lid het vraagstuk onder de aandacht van de andere Leden en de ondertekenaars en, indien van toepassing, van de Uitvoerende Commissie.
-
-##### Artikel 67. Registratie van de tekst
-
-Dit Verdrag wordt door de Secretaris-Generaal in overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) geregistreerd en wordt ter kennis van de Secretaris-Generaal van de Werelddouaneorganisatie gebracht.
+This Agreement shall be registered by the Secretary General with the Secretariat of the United Nations in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), and shall be notified to the Secretary General of the World Customs Organization.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed this Agreement.
 

@@ -1,38 +1,27 @@
 ---
 title: "Noordzeeverklaring tussen het Koninkrijk der Nederlanden en Duitsland, Denemarken, Frankrijk, Groot-Brittannië en Zweden"
 identifier: "BWBV0006265"
-country: "nl"
-rank: "verdrag"
-publication_date: "1908-07-02"
-last_updated: "1908-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006265"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10005125983"
-version_id: "10005477582"
-internal_id: "C10008451061"
-label_id: "10005108814"
-dtd_version: "2.0"
-original_entry_into_force: "1908-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006265/1908-07-02/0"
-intitule_bron: "Stb.1908-243"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1908-07-23"
-intitule_published: "1908-07-31"
-intitule_in_force: "1908-07-31"
-intitule_status: "goed"
-original_publication: "Stb.1908-243"
-original_signed_date: "1908-07-23"
-original_published_date: "1908-07-31"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1908-07-02"
-jci_1_3: "jci1.3:c:BWBV0006265&z=1908-07-02&g=1908-07-02"
-jci_1_0: "1.0:c:BWBV0006265&g=1908-07-02"
-citeertitel_status: "redactioneel"
-signed_date: "1908-07-23"
-entry_into_force: "1908-07-02"
+publicatiedatum: 1908-07-02
+laatste_update: 1908-07-02
+status: geldig
+toestand: 1908-07-02
+bron: "https://wetten.overheid.nl/BWBV0006265"
+opgehaald: 2026-09-16
 ---
+
 # Noordzeeverklaring tussen het Koninkrijk der Nederlanden en Duitsland, Denemarken, Frankrijk, Groot-Brittannië en Zweden
+
+Les Gouvernements d'Allemagne, de Danemark, de France, de la Grande Bretagne, des Pays-Bas et de la Suède
+
+animés du désir de consolider les liens de bon voisinage et d'amitié existant entre leurs Etats respectifs, et de contribuer par là à la conservation de la paix générale et reconnaissant que leur politique par rapport aux régions limitrophes de la Mer du Nord a pour objet le maintien du statu quo territorial actuel,
+
+déclarent qu'ils sont fermement résolus à conserver intacts et à respecter réciproquement les droits souverains dont jouissent actuellement leurs pays sur leurs territoires respectifs dans ces régions.
+
+Dans le cas où d'après l'opinion d'un des Gouvernements désignés ci-dessus le statu quo territorial actuel dans les régions limitrophes de la Mer du Nord serait menacé par des événements quelconques, les Puissances signataires de la présente Déclaration entreront en communication pour se concerter, par la voie d'un accord à conclure entre elles, sur des mesures qu'elles jugeraient utile de prendre dans l'intérêt du maintien du statu quo de leurs possessions.
+
+La présente Déclaration sera ratifiée dans le plus bref délai possible. Les ratifications seront déposées à Berlin le plus tôt que faire se pourra et au plus tard le 31 décembre 1908. Il sera dressé du dépôt de chaque ratification un procès-verbal dont une copie certifiée sera remise par la voie diplomatique aux Puissances signataires.
 
 En foi de quoi les Plénipotentiaires dûment autorisés à cet effet ont signé la présente Déclaration et y ont apposé leurs cachets.
 

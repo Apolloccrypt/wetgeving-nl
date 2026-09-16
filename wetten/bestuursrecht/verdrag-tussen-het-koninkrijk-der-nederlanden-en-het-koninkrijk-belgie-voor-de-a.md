@@ -1,62 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de aanpassing van de grens tussen de Nederlandse gemeenten Eijsden-Margraten en Maastricht en de Belgische stad Wezet"
 identifier: "BWBV0006650"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006650"
+categorie: "Bestuursrecht"
 soort: "verdrag"
-stam_id: "10005386413"
-version_id: "10005819222"
-internal_id: "C10009303131"
-label_id: "10005369274"
-dtd_version: "2.0"
-original_entry_into_force: "2018-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006650/2018-01-01/0"
-intitule_bron: "Trb.2016-196"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-12-12"
-intitule_in_force: "2017-12-22"
-intitule_status: "goed"
-original_publication: "Trb.2016-196"
-original_published_date: "2016-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2016-196"
-entry_into_force_date: "2018-01-01"
-jci_1_3: "jci1.3:c:BWBV0006650&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBV0006650&g=2018-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-01-01"
+publicatiedatum: 2018-01-01
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBV0006650"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de aanpassing van de grens tussen de Nederlandse gemeenten Eijsden-Margraten en Maastricht en de Belgische stad Wezet
 
-Het Koninkrijk der Nederlanden, enerzijds,
-
-en
-
-het Koninkrijk België, anderzijds,
-
-hierna te noemen „de verdragsluitende partijen”,
-
-Verwijzend naar:
-
-Het [Tractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de scheiding der wederzijdse grondgebieden](https://wetten.overheid.nl/jci1.3:c:BWBV0006129), tot stand gekomen te Londen op 19 april 1839 (bijlage van het Tractaat tussen Oostenrijk, Frankrijk, Groot-Brittannië, Pruisen en Rusland, enerzijds, en het Koninkrijk der Nederlanden, anderzijds, betreffende de scheiding van België, tot stand gekomen te Londen op 19 april 1839), gekend als het „Verdrag der XXIV artikelen van Londen van 19 april 1839”;
-
-De [Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de grensscheiding, met Reglement voor het plaatsen van grenspalen](https://wetten.overheid.nl/jci1.3:c:BWBV0006026), tot stand gekomen te Maastricht op 8 augustus 1843, hierna genoemd: „Grensregeling van 1843”;
-
-Het [Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot verbetering van de verbinding tussen het Albertkanaal en het Julianakanaal](https://wetten.overheid.nl/jci1.3:c:BWBV0004442), tot stand gekomen te Brussel op 24 februari 1961.
-
-Vaststellende dat door het rechttrekken en normaliseren van de Maas en andere werkzaamheden in de Maas in de loop van de decennia 1960–1980, bij de Nederlandse gemeenten Eijsden-Margraten en Maastricht en de Belgische stad Wezet, zich door aanslibbing eilandjes hebben aangehecht aan de oevers van de Maas van zowel Nederland als België.
-
-Overwegende dat hierdoor onduidelijk is geworden wat de gevolgen zijn voor de grens bij Eijsden-Margraten, Maastricht en Wezet in het licht van de Grensregeling van 1843.
-
-Verlangende de grens tussen beide verdragsluitende partijen aan te passen aan de gewijzigde situatie als gevolg van het bovengenoemde rechttrekken en normaliseren van de Maas en de andere werkzaamheden in de Maas.
-
-Gelet op het proces-verbaal van 30 augustus 2016 van de Belgisch-Nederlandse grenscommissie belast met het formuleren van een voorstel voor de afbakening van de rijksgrens tussen de Nederlandse gemeenten Eijsden-Margraten en Maastricht, en de Belgische stad Wezet.
-
-Komen het volgende overeen:
+*Het Koninkrijk der Nederlanden, enerzijds, en het Koninkrijk België, anderzijds, hierna te noemen „de verdragsluitende partijen”, Verwijzend naar: – Het Tractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de scheiding der wederzijdse grondgebieden, tot stand gekomen te Londen op 19 april 1839 (bijlage van het Tractaat tussen Oostenrijk, Frankrijk, Groot-Brittannië, Pruisen en Rusland, enerzijds, en het Koninkrijk der Nederlanden, anderzijds, betreffende de scheiding van België, tot stand gekomen te Londen op 19 april 1839), gekend als het „Verdrag der XXIV artikelen van Londen van 19 april 1839”; – De Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de grensscheiding, met Reglement voor het plaatsen van grenspalen, tot stand gekomen te Maastricht op 8 augustus 1843, hierna genoemd: „Grensregeling van 1843”; – Het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot verbetering van de verbinding tussen het Albertkanaal en het Julianakanaal, tot stand gekomen te Brussel op 24 februari 1961. Vaststellende dat door het rechttrekken en normaliseren van de Maas en andere werkzaamheden in de Maas in de loop van de decennia 1960–1980, bij de Nederlandse gemeenten Eijsden-Margraten en Maastricht en de Belgische stad Wezet, zich door aanslibbing eilandjes hebben aangehecht aan de oevers van de Maas van zowel Nederland als België. Overwegende dat hierdoor onduidelijk is geworden wat de gevolgen zijn voor de grens bij Eijsden-Margraten, Maastricht en Wezet in het licht van de Grensregeling van 1843. Verlangende de grens tussen beide verdragsluitende partijen aan te passen aan de gewijzigde situatie als gevolg van het bovengenoemde rechttrekken en normaliseren van de Maas en de andere werkzaamheden in de Maas. Gelet op het proces-verbaal van 30 augustus 2016 van de Belgisch-Nederlandse grenscommissie belast met het formuleren van een voorstel voor de afbakening van de rijksgrens tussen de Nederlandse gemeenten Eijsden-Margraten en Maastricht, en de Belgische stad Wezet. Komen het volgende overeen:*
 
 ##### Artikel 1
 
@@ -110,74 +67,14 @@ Na de inwerkingtreding van dit verdrag dragen de verdragsluitende partijen elkaa
 
 Dit verdrag treedt in werking op 1 januari van het jaar volgend op de dag van uitwisseling van de laatste kennisgeving van de verdragsluitende partijen betreffende de voltooiing van hun respectieve nationaal vereiste grondwettelijke of wettelijke procedures.
 
-### I. ALGEMEEN DEEL
-
-### II. ARTIKELSGEWIJZE BESPREKING
-
-##### Artikel 1
-
-De grenscorrectie betreft uitsluitend het grensgebied langs de Maas. De precieze invulling daarvan staat beschreven in de artikelen die volgen.
-
-##### Artikel 2
-
-In de plaats van het thalwegbeginsel, dat werd aanvaard in 1843, komt het middellijnbeginsel. De grens zal voortaan lopen langs het midden van de nieuwe bedding van de genormaliseerde rivier de Maas.
-
-Er wordt gepreciseerd dat dit nieuwe principe van toepassing zal zijn in het gedeelte van de Maas dat loopt tussen de op het land gelegen grenspalen 45 en 49.
-
-In de rivier zelf gaat het om de kortste afstand tussen grenspunten 45001 tot en met 45009, 46001 tot en met 46003, 47001 tot en met 47011, en 48001 tot en met 48006.
-
-Het toepassen van het middellijnbeginsel zorgt ervoor dat de Maas weer een grensrivier wordt op de plaatsen waar dit oorspronkelijk was voorzien in 1843, namelijk ter hoogte van de stad Wezet in België en de gemeenten Eijsden-Margraten en Maastricht in Nederland. De beide Maasoevers zullen op die plaatsen opnieuw volledig tot het territorium van Nederland dan wel België behoren.
-
-##### Artikel 3
-
-In de bijlage bij dit verdrag is een kaart opgenomen die de nieuwe grenslijn en de krachtens dit verdrag overgedragen gebieden grafisch weergeeft.
-
-Deze kaart geeft ook de coördinaten weer van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2018-01-01&g=2018-01-01) vermelde grenspunten. Deze coördinaten staan weergegeven op basis van drie geodetische coördinatensystemen, waarvan twee nationaal en één Europees. Als de metingen verschillende resultaten opleveren, zal het Europese systeem beslissend zijn.
-
-##### Artikel 4
-
-Het is mogelijk dat de grenspalen op het land dienen te worden herplaatst om in overeenstemming te zijn met de nieuwe grens.
-
-Hiervoor zal een bijzonder en tijdelijk mandaat worden gegeven aan de permanente grenspalencommissie die op 15 september 2016 werd opgericht door de Commissaris van de Koning in de Provincie Limburg (Nederland) en de Gouverneur van de Provincie Luik (België).
-
-Deze grenspalencommissie werd opgericht naar het voorbeeld van de permanente grenspalencommissie die in 1978 werd opgericht door de Commissaris van de Koningin in de Provincie Limburg (Nederland) en de Gouverneur van de Provincie Limburg (België).
-
-Het herplaatsen van grenspalen vereist een bijzonder mandaat, waarbij de permanente commissie tijdelijk wordt omgevormd naar een ad-hoc commissie, waaraan ook de burgemeesters van de stad Wezet en de gemeenten Eijsden-Margraten en/of Maastricht zullen deelnemen.
-
-##### Artikel 5
-
-Met de grenscorrectie vindt een wederzijdse overdracht van grondgebied en de daartoe behorende rechten tussen Nederland en België plaats.
-
-##### Artikel 6
-
-Omdat voorzien is in de onderlinge overdracht van grondgebied en de daartoe behorende rechten, is het ook noodzakelijk om bepaalde officiële documenten onderling over te dragen.
-
-Bij voorkeur worden originele documenten overgedragen, of desnoods gewaarmerkte afschriften. De overige modaliteiten van overdracht moeten onderling nog worden afgesproken door de bevoegde autoriteiten van beide landen.
-
-##### Artikel 7
-
-Dit artikel regelt enkele gevolgen van de overdracht van de territoriale gebieden, vermeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006650&artikel=2&z=2018-01-01&g=2018-01-01).
-
-Het eerste lid beschrijft de overdracht van publieke soevereine rechten die op het grondgebied van de verdragsluitende partijen rusten.
-
-Het tweede lid verwijst naar de overdracht van Nederlandse registergoederen en Belgische onroerende goederen.
-
-Het derde lid bepaalt dat de bestaande rechten van particuliere personen blijvend dienen te worden gerespecteerd.
-
-Het vierde lid bepaalt dat de noodzakelijke overschrijvingen in de hypothecaire en kadastrale gegevens binnen een maand na de datum van inwerkingtreding van het verdrag en kosteloos gebeuren.
-
-##### Artikel 8
-
-Dit artikel regelt het tijdstip van inwerkingtreding van het verdrag.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit verdrag hebben ondertekend.
 
 GEDAAN in twee exemplaren te Amsterdam, op 28 november 2016, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 A.G. KOENDERS
 
-**Voor het Koninkrijk België,**
+*Voor het Koninkrijk België,*
 
 D. REYNDERS

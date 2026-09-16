@@ -1,106 +1,73 @@
 ---
 title: "Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Internationale Commissie voor Vermiste Personen"
 identifier: "BWBV0006549"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-04-12"
-last_updated: "2017-04-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006549"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005329793"
-version_id: "10005737862"
-internal_id: "C10008999001"
-label_id: "10005312764"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006549/2017-04-12/0"
-intitule_bron: "Trb.2015-169"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-10-06"
-intitule_in_force: "2015-10-06"
-intitule_status: "goed"
-original_publication: "Trb.2015-169"
-original_published_date: "2015-10-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2015-169"
-entry_into_force_date: "2015-10-05"
-jci_1_3: "jci1.3:c:BWBV0006549&z=2017-04-12&g=2017-04-12"
-jci_1_0: "1.0:c:BWBV0006549&g=2017-04-12"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-10-05"
+publicatiedatum: 2015-10-05
+laatste_update: 2017-04-12
+status: geldig
+toestand: 2017-04-12
+bron: "https://wetten.overheid.nl/BWBV0006549"
+opgehaald: 2026-09-16
 ---
+
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Internationale Commissie voor Vermiste Personen
 
-The Kingdom of the Netherlands
-
-and
-
-the International Commission on Missing Persons,
-
-Bearing in mind the policy of the Kingdom of the Netherlands to promote the development of the international legal order;
-
-Welcoming the wish of the International Commission on Missing Persons to establish an office in the Kingdom of the Netherlands;
-
-Noting that the International Commission on Missing Persons was established as an intergovernmental organization under the “[Agreement on the Status and Functions of the International Commission on Missing Persons](https://wetten.overheid.nl/jci1.3:c:BWBV0006432)” of 15 December 2014;
-
-Desiring to lay down conditions concerning the privileges, immunities, facilities, and services of and related to the International Commission on Missing Persons in the territory of the Kingdom of the Netherlands as are necessary for the fulfillment of the purposes of the International Commission on Missing Persons;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and the International Commission on Missing Persons, Bearing in mind the policy of the Kingdom of the Netherlands to promote the development of the international legal order; Welcoming the wish of the International Commission on Missing Persons to establish an office in the Kingdom of the Netherlands; Noting that the International Commission on Missing Persons was established as an intergovernmental organization under the “Agreement on the Status and Functions of the International Commission on Missing Persons” of 15 December 2014; Desiring to lay down conditions concerning the privileges, immunities, facilities, and services of and related to the International Commission on Missing Persons in the territory of the Kingdom of the Netherlands as are necessary for the fulfillment of the purposes of the International Commission on Missing Persons; Have agreed as follows:*
 
 ##### Article 1. Use of terms
 
 For the purpose of this Agreement:
 
-- a). “Agreement” means this Host State Agreement between the Kingdom of the Netherlands and the International Commission on Missing Persons;
+- a) “Agreement” means this Host State Agreement between the Kingdom of the Netherlands and the International Commission on Missing Persons;
 
-- b). “Host State” means the Kingdom of the Netherlands;
+- b) “Host State” means the Kingdom of the Netherlands;
 
-- c). “ICMP” means the International Commission on Missing Persons;
+- c) “ICMP” means the International Commission on Missing Persons;
 
-- d). “Parties” means the ICMP and the host State;
+- d) “Parties” means the ICMP and the host State;
 
-- e). “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961;
+- e) “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961;
 
-- f). “Director-General” means the Director-General of the ICMP and during his or her absence, any other official specifically designated to act on his or her behalf;
+- f) “Director-General” means the Director-General of the ICMP and during his or her absence, any other official specifically designated to act on his or her behalf;
 
-- g). “Directors of ICMP Departments” means the Directors of ICMP Departments and during his or her absence, any other official specifically designated to act on his or her behalf;
+- g) “Directors of ICMP Departments” means the Directors of ICMP Departments and during his or her absence, any other official specifically designated to act on his or her behalf;
 
-- h). “Officials” means persons, however denominated and at whatever level of seniority, including the Director-General and the Directors of ICMP Departments, who undertake one or more of the ICMP’s core day-to-day functions and who are not paid hourly rates;
+- h) “Officials” means persons, however denominated and at whatever level of seniority, including the Director-General and the Directors of ICMP Departments, who undertake one or more of the ICMP’s core day-to-day functions and who are not paid hourly rates;
 
-- i). “Experts” means persons, other than officials, who are appointed on a temporary basis to support the work of the ICMP and its officials on one or more specific tasks or projects with specialized skills;
+- i) “Experts” means persons, other than officials, who are appointed on a temporary basis to support the work of the ICMP and its officials on one or more specific tasks or projects with specialized skills;
 
-- j). “Interns” means all those persons employed by the ICMP on a temporary unsalaried basis who may or may not receive a stipend;
+- j) “Interns” means all those persons employed by the ICMP on a temporary unsalaried basis who may or may not receive a stipend;
 
-- k). “Private servant” means domestic worker in the personal employ of the Director-General, or, in consultation with the host State, of other officials of a comparable rank to a diplomatic agent under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), whose stay in the Kingdom of the Netherlands is tied to the stay of the Director-General or such other officials;
+- k) “Private servant” means domestic worker in the personal employ of the Director-General, or, in consultation with the host State, of other officials of a comparable rank to a diplomatic agent under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), whose stay in the Kingdom of the Netherlands is tied to the stay of the Director-General or such other officials;
 
-- l). “Family members forming part of the household” means the person defined as such in the Protocol Guide of the Kingdom of the Netherlands in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
+- l) “Family members forming part of the household” means the person defined as such in the Protocol Guide of the Kingdom of the Netherlands in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- m). “Premises” means buildings, parts of buildings and areas, including installations and facilities of the headquarters made available to, maintained, occupied or used by the ICMP headquarters in the host State in consultation with the host State in connection with its functions and purposes;
+- m) “Premises” means buildings, parts of buildings and areas, including installations and facilities of the headquarters made available to, maintained, occupied or used by the ICMP headquarters in the host State in consultation with the host State in connection with its functions and purposes;
 
-- n). “Property” means all property (be it material, real, or intellectual), assets, and funds belonging to the ICMP or held or administered by the ICMP in furtherance of its functions;
+- n) “Property” means all property (be it material, real, or intellectual), assets, and funds belonging to the ICMP or held or administered by the ICMP in furtherance of its functions;
 
-- o). “Ministry of Foreign Affairs” means the Ministry of Foreign Affairs of the host State;
+- o) “Ministry of Foreign Affairs” means the Ministry of Foreign Affairs of the host State;
 
-- p). “Competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the host State;
+- p) “Competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the host State;
 
 ##### Article 2. Purpose
 
-This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the ICMP in the host State. It shall, **inter alia**, create conditions conducive to the stability and independence of the ICMP and facilitate its smooth and efficient functioning.
+This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the ICMP in the host State. It shall, *inter alia*, create conditions conducive to the stability and independence of the ICMP and facilitate its smooth and efficient functioning.
 
 ##### Article 3. Legal status and juridical personality
 
 The host State recognizes ICMP as an Intergovernmental Organization with legal personality and the capacity to perform legal acts required for the performance of its functions. This shall, in particular, include the capacity:
 
-- a). to acquire and dispose of real and personal property;
+- a) to acquire and dispose of real and personal property;
 
-- b). to enter into contracts and other types of agreements, including agreements to operate bank accounts and engage in other banking and financial transactions;
+- b) to enter into contracts and other types of agreements, including agreements to operate bank accounts and engage in other banking and financial transactions;
 
-- c). to employ persons;
+- c) to employ persons;
 
-- d). to institute and defend in legal proceedings; and
+- d) to institute and defend in legal proceedings; and
 
-- e). to take other lawful action necessary to accomplish the purposes of the ICMP.
+- e) to take other lawful action necessary to accomplish the purposes of the ICMP.
 
 ##### Article 4. Inviolability of the premises
 
@@ -174,25 +141,25 @@ The ICMP may purchase, receive, convert and hold any kind of funds, currency, ca
 
 2. Within the scope of its official activities, the ICMP shall be exempt from:
 
-- a). import and export taxes and duties (**belastingen bij invoer en uitvoer**);
+- a) import and export taxes and duties (*belastingen bij invoer en uitvoer*);
 
-- b). motor vehicle tax (**motorrijtuigenbelasting**);
+- b) motor vehicle tax (*motorrijtuigenbelasting*);
 
-- c). tax on passenger motor vehicles and motorcycles (**belasting van personenauto’s en motorrijwielen**);
+- c) tax on passenger motor vehicles and motorcycles (*belasting van personenauto’s en motorrijwielen*);
 
-- d). value added tax (**omzetbelasting**) paid on goods and services supplied on a recurring basis or involving considerable expenditure;
+- d) value added tax (*omzetbelasting*) paid on goods and services supplied on a recurring basis or involving considerable expenditure;
 
-- e). excise duties (**accijnzen**) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels, as well as chemical supplies;
+- e) excise duties (*accijnzen*) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels, as well as chemical supplies;
 
-- f). real property transfer tax (**overdrachtsbelasting**);
+- f) real property transfer tax (*overdrachtsbelasting*);
 
-- g). insurance tax (**assurantiebelasting**);
+- g) insurance tax (*assurantiebelasting*);
 
-- h). energy tax (**energiebelasting**);
+- h) energy tax (*energiebelasting*);
 
-- i). tax on mains water (**belasting op leidingwater**);
+- i) tax on mains water (*belasting op leidingwater*);
 
-- j). any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, levied in the host State subsequent to the date of signature of this Agreement.
+- j) any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, levied in the host State subsequent to the date of signature of this Agreement.
 
 3. The exemptions provided for in paragraph 2, subparagraphs d), e), f), g), h), i), and j) of this Article may be granted by way of a refund. These exemptions shall be applied in accordance with the formal requirements of the host State. These requirements, however, shall not affect the general principles laid down in paragraph 2 of this Article.
 
@@ -208,19 +175,19 @@ The ICMP shall be exempt from all restrictions on imports and exports in respect
 
 1. The host State shall facilitate, if required, the entry, stay, and departure for purposes of official business of the persons listed below and family members forming part of the household of:
 
-- a). members of the Board of Commissioners;
+- a) members of the Board of Commissioners;
 
-- b). members of its Standing Committees;
+- b) members of its Standing Committees;
 
-- c). members of any other organs of ICMP;
+- c) members of any other organs of ICMP;
 
-- d). the Director-General;
+- d) the Director-General;
 
-- e). the Directors of ICMP Departments;
+- e) the Directors of ICMP Departments;
 
-- f). officials, experts, and interns of ICMP;
+- f) officials, experts, and interns of ICMP;
 
-- g). other persons invited to the host State headquarters or to meetings of the ICMP upon request of the Director-General or the Directors of ICMP Departments.
+- g) other persons invited to the host State headquarters or to meetings of the ICMP upon request of the Director-General or the Directors of ICMP Departments.
 
 2. This Article shall not prevent the requirement of reasonable evidence to be provided by ICMP to establish that persons claiming the treatment provided for in this Article fall under one of the categories in paragraph 1 above.
 
@@ -238,21 +205,21 @@ The ICMP shall be exempt from all restrictions on imports and exports in respect
 
 1. Officials shall enjoy within the host State the following privileges and immunities:
 
-- a). immunity from legal process of any kind in respect of words spoken or written, and all acts performed by them in the exercise of their official functions;
+- a) immunity from legal process of any kind in respect of words spoken or written, and all acts performed by them in the exercise of their official functions;
 
-- b). immunity from seizure and inspection of official baggage;
+- b) immunity from seizure and inspection of official baggage;
 
-- c). exemption from restrictions on the transport of biological sample material for human identification purposes;
+- c) exemption from restrictions on the transport of biological sample material for human identification purposes;
 
-- d). exemption from taxation on salaries, emoluments, and allowances earned in respect of their employment with the ICMP;
+- d) exemption from taxation on salaries, emoluments, and allowances earned in respect of their employment with the ICMP;
 
-- e). exemption, with respect to themselves, and family members forming part of the household, from immigration restrictions and alien registration;
+- e) exemption, with respect to themselves, and family members forming part of the household, from immigration restrictions and alien registration;
 
-- f). freedom to acquire and maintain within the host State or elsewhere foreign currency accounts and other movable property, and under the same conditions applicable to nationals of the host State, immovable property; and upon the termination of their professional activities with the ICMP to take their funds out of the host State through authorized channels without prohibitions or restrictions;
+- f) freedom to acquire and maintain within the host State or elsewhere foreign currency accounts and other movable property, and under the same conditions applicable to nationals of the host State, immovable property; and upon the termination of their professional activities with the ICMP to take their funds out of the host State through authorized channels without prohibitions or restrictions;
 
-- g). the same protection and repatriation facilities with regard to themselves and family members forming part of the household, as accorded in time of international crisis to members having comparable rank of the staff of diplomatic missions established in the host State;
+- g) the same protection and repatriation facilities with regard to themselves and family members forming part of the household, as accorded in time of international crisis to members having comparable rank of the staff of diplomatic missions established in the host State;
 
-- h). exemption from import taxes and duties, in respect of their furniture and personal effects, at the time of first taking up their position in the host State; however no exemption shall be accorded in respect of taxes and duties which represent charges for specific services.
+- h) exemption from import taxes and duties, in respect of their furniture and personal effects, at the time of first taking up their position in the host State; however no exemption shall be accorded in respect of taxes and duties which represent charges for specific services.
 
 2. In addition to the privileges, immunities, and facilities listed in paragraph 1 of this Article, the Director-General together with his or her family members forming part of his or her household who are not nationals or permanent residents in the host State, shall be accorded the same privileges, immunities, and facilities as accorded to the heads of diplomatic missions established in the host State in conformity with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
@@ -266,37 +233,37 @@ The ICMP shall be exempt from all restrictions on imports and exports in respect
 
 7. Persons referred to in this Article who are nationals or permanent residents of the host State shall enjoy within the host State only the following privileges, immunities, and facilities to the extent necessary for the independent performance of their functions:
 
-- a). exemption from taxation on salaries, emoluments, and allowances paid to them in respect of their employment with ICMP;
+- a) exemption from taxation on salaries, emoluments, and allowances paid to them in respect of their employment with ICMP;
 
-- b). the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State;
+- b) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State;
 
-- c). immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the ICMP; and
+- c) immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the ICMP; and
 
-- d). inviolability of all papers, documents, in whatever form, and materials relating to the performance of their functions for the ICMP.
+- d) inviolability of all papers, documents, in whatever form, and materials relating to the performance of their functions for the ICMP.
 
 ##### Article 17. Experts
 
 1. Experts performing functions for the ICMP shall be accorded the following privileges, immunities and facilities to the extent necessary for the independent performance of their functions, subject to production of the document referred to in paragraph 2 of this Article:
 
-- a). immunity from personal arrest or detention or any other restriction of their liberty in respect of acts or convictions prior to their entry into the territory of the host State;
+- a) immunity from personal arrest or detention or any other restriction of their liberty in respect of acts or convictions prior to their entry into the territory of the host State;
 
-- b). immunity from seizure of their personal baggage;
+- b) immunity from seizure of their personal baggage;
 
-- c). exemption from restrictions on the transport of biological sample material for human identification purposes;
+- c) exemption from restrictions on the transport of biological sample material for human identification purposes;
 
-- d). immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the course of the performance of their functions for the ICMP, which immunity shall continue to be accorded even after the termination of their functions;
+- d) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the course of the performance of their functions for the ICMP, which immunity shall continue to be accorded even after the termination of their functions;
 
-- e). inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the ICMP;
+- e) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the ICMP;
 
-- f). for the purposes of their communications with the ICMP, the right to receive and send papers and documents in whatever form and materials relating to the performance of their functions for the ICMP by courier or in sealed bags;
+- f) for the purposes of their communications with the ICMP, the right to receive and send papers and documents in whatever form and materials relating to the performance of their functions for the ICMP by courier or in sealed bags;
 
-- g). exemption from inspection of their personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the host State; an inspection in such a case shall be conducted in the presence of the expert concerned;
+- g) exemption from inspection of their personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the host State; an inspection in such a case shall be conducted in the presence of the expert concerned;
 
-- h). the same privileges in respect of currency and exchange facilities as are accorded to representatives of foreign Governments on temporary official missions;
+- h) the same privileges in respect of currency and exchange facilities as are accorded to representatives of foreign Governments on temporary official missions;
 
-- i). the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
+- i) the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- j). exemption from immigration restrictions and alien registration in relation to their functions as specified in the document referred to in paragraph 2 of this Article.
+- j) exemption from immigration restrictions and alien registration in relation to their functions as specified in the document referred to in paragraph 2 of this Article.
 
 2. Experts shall be provided by the ICMP with a document certifying that they are performing functions for the ICMP on a temporary basis and specifying a time period for which their functions will last. Such document shall be withdrawn prior to its expiry if the expert is no longer performing functions for the ICMP.
 
@@ -304,15 +271,15 @@ The ICMP shall be exempt from all restrictions on imports and exports in respect
 
 4. Experts who are nationals or permanent residents of the host State shall enjoy only the following privileges, immunities and facilities to the extent necessary for the independent performance of their functions for the ICMP:
 
-- a). immunity from personal arrest or detention or any other restriction of their liberty;
+- a) immunity from personal arrest or detention or any other restriction of their liberty;
 
-- b). immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the performance of their functions, which immunity shall continue to be accorded even after they have ceased to perform their functions;
+- b) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the performance of their functions, which immunity shall continue to be accorded even after they have ceased to perform their functions;
 
-- c). inviolability of all papers, documents in whatever form and materials relating to the performance of their functions;
+- c) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions;
 
-- d). exemption from restrictions on the transport of biological sample material for human identification purposes;
+- d) exemption from restrictions on the transport of biological sample material for human identification purposes;
 
-- e). for the purpose of their communications with the ICMP the right to receive and send papers in whatever form.
+- e) for the purpose of their communications with the ICMP the right to receive and send papers in whatever form.
 
 5. Experts shall not be subjected by the host State to any measure which may affect the independent performance of their functions for the ICMP.
 
@@ -320,15 +287,15 @@ The ICMP shall be exempt from all restrictions on imports and exports in respect
 
 1. Without prejudice to the applicable rules of the European Union in regard of citizens of a member state of the European Union, the Ministry of Foreign Affairs shall register interns for a maximum period of six (6) months, provided that the ICMP supplies the Ministry of Foreign Affairs with a declaration signed by them, accompanied by adequate proof, to the effect that:
 
-- a). the intern entered the host State in accordance with the applicable immigration procedures;
+- a) the intern entered the host State in accordance with the applicable immigration procedures;
 
-- b). the intern has sufficient financial means for living expenses and for repatriation, as well as sufficient medical insurance (including coverage of costs of hospitalization for at least the duration of the internship plus one (1) month) and third party liability insurance, and shall not be a charge on the public purse in the host State;
+- b) the intern has sufficient financial means for living expenses and for repatriation, as well as sufficient medical insurance (including coverage of costs of hospitalization for at least the duration of the internship plus one (1) month) and third party liability insurance, and shall not be a charge on the public purse in the host State;
 
-- c). the intern shall not engage in gainful employment in the host State during his or her internship other than as an intern for the ICMP;
+- c) the intern shall not engage in gainful employment in the host State during his or her internship other than as an intern for the ICMP;
 
-- d). the intern shall not bring any family members to reside with him or her in the host State other than in accordance with the applicable immigration procedures; and
+- d) the intern shall not bring any family members to reside with him or her in the host State other than in accordance with the applicable immigration procedures; and
 
-- e). the intern shall leave the host State within fifteen (15) days after the end of the internship.
+- e) the intern shall leave the host State within fifteen (15) days after the end of the internship.
 
 2. In exceptional circumstances, the maximum period of six (6) months mentioned in paragraph 1 of this Article, may be extended once by a maximum period of six (6) months. However, the total period of the internship shall not exceed one (1) year.
 
@@ -336,9 +303,9 @@ The ICMP shall be exempt from all restrictions on imports and exports in respect
 
 4. Interns shall not enjoy privileges, immunities and facilities within the host State, except:
 
-- a). immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the ICMP, which immunity shall continue to be accorded even after termination of the internship with the ICMP for activities carried out on its behalf;
+- a) immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the ICMP, which immunity shall continue to be accorded even after termination of the internship with the ICMP for activities carried out on its behalf;
 
-- b). inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the ICMP.
+- b) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the ICMP.
 
 ##### Article 19. Personnel recruited locally and not otherwise covered by this Agreement, including such personnel assigned to hourly rates
 
@@ -356,33 +323,33 @@ The host State shall, if so requested by the Director-General, take all reasonab
 
 1. ICMP shall promptly, and no later than eight (8) days after their first arrival, notify the host State of:
 
-- a). the list of members of each Organ of ICMP and shall revise such list from time to time as may be necessary;
+- a) the list of members of each Organ of ICMP and shall revise such list from time to time as may be necessary;
 
-- b). the appointment of officials, their arrival and their final departure, or the termination of their employment with ICMP;
+- b) the appointment of officials, their arrival and their final departure, or the termination of their employment with ICMP;
 
-- c). the arrival and final departure of family members forming part of the household of officials and, where appropriate, the fact that a person has ceased to form part of a household;
+- c) the arrival and final departure of family members forming part of the household of officials and, where appropriate, the fact that a person has ceased to form part of a household;
 
-- d). the hiring of experts;
+- d) the hiring of experts;
 
-- e). the appointment of interns;
+- e) the appointment of interns;
 
-- f). the hiring of personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2017-04-12&g=2017-04-12) of this Agreement;
+- f) the hiring of personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2017-04-12&g=2017-04-12) of this Agreement;
 
-- g). the arrival and final departure date of private servants of persons referred to in subparagraph 1(b) of this Article and, where appropriate, the fact that they are leaving the employ of such persons.
+- g) the arrival and final departure date of private servants of persons referred to in subparagraph 1(b) of this Article and, where appropriate, the fact that they are leaving the employ of such persons.
 
 2. The host State shall issue an identification card which shall serve to identify the holder in relation to the host State authorities to the following persons:
 
-- a). the Director-General and Directors of ICMP Departments, and other officials of ICMP who are assigned to serve in the host State;
+- a) the Director-General and Directors of ICMP Departments, and other officials of ICMP who are assigned to serve in the host State;
 
-- b). the official’s family members forming part of the household who are not nationals of the host State. The children of European Union nationals in the age group up to and including fourteen (14) years have to be registered with the host State, but are excluded from receiving the identification card;
+- b) the official’s family members forming part of the household who are not nationals of the host State. The children of European Union nationals in the age group up to and including fourteen (14) years have to be registered with the host State, but are excluded from receiving the identification card;
 
-- c). experts, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 17(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=17&z=2017-04-12&g=2017-04-12) of this Agreement;
+- c) experts, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 17(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=17&z=2017-04-12&g=2017-04-12) of this Agreement;
 
-- d). interns, provided that they have been registered in accordance with [Article 18(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=18&z=2017-04-12&g=2017-04-12) of this Agreement;
+- d) interns, provided that they have been registered in accordance with [Article 18(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=18&z=2017-04-12&g=2017-04-12) of this Agreement;
 
-- e). personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2017-04-12&g=2017-04-12) of this Agreement;
+- e) personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2017-04-12&g=2017-04-12) of this Agreement;
 
-- f). private servants.
+- f) private servants.
 
 3. At the final departure of the persons referred to in paragraph 2 of this Article or when these persons have ceased to perform their functions for the ICMP, the identity card referred to in paragraph 2 of this Article shall be promptly, and not later than within fifteen (15) days, returned by the ICMP to the Ministry of Foreign Affairs. In case persons who have ceased to perform their functions are not able to return the identity card referred to in paragraph 2 of this Article within the time period specified in this paragraph, the Ministry of Foreign Affairs shall be consulted.
 
@@ -412,9 +379,9 @@ The social security system of the ICMP offers coverage comparable to the coverag
 
 1. The ICMP shall make provision for appropriate modes of settlement of:
 
-- a). disputes arising out of contracts and other disputes of a private law character to which ICMP is a party;
+- a) disputes arising out of contracts and other disputes of a private law character to which ICMP is a party;
 
-- b). disputes involving an official or expert of ICMP who, by reason of his or her official position, enjoys immunity, if such immunity has not been waived.
+- b) disputes involving an official or expert of ICMP who, by reason of his or her official position, enjoys immunity, if such immunity has not been waived.
 
 2. All disputes arising out of the interpretation or application of this Agreement or supplementary arrangements or agreements between the Parties shall be settled by consultation, negotiation or other agreed mode of settlement.
 
@@ -442,10 +409,10 @@ IN WITNESS WHEREOF, the undersigned, duly authorized thereto, have signed this A
 
 DONE at The Hague, on 5 October 2015 in duplicate, in the English language.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 BERT KOENDERS
 
-**For the International Commission on Missing Persons,**
+*For the International Commission on Missing Persons,*
 
 KATHRYNE BOMBERGER

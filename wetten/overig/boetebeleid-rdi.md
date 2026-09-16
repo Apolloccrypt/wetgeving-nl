@@ -8,12 +8,12 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0052799"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-16
 ---
 
 # Boetebeleid RDI
 
-De Rijksinspectie Digitale Infrastructuur (RDI) heeft het volgende beleid vastgesteld met betrekking tot het bepalen van de hoogte van bestuurlijke boetes. Dit boetebeleid heeft betrekking op boetes die worden opgelegd wegens overtredingen van voorschriften waarop de RDI toezicht houdt en waarvoor de RDI bevoegd is om namens de Minister, dan wel Staatssecretaris van Economische Zaken en Klimaat (Digitale Economie en Soevereiniteit), de Minister van Klimaat en Groene Groei en de Minister van Volksgezondheid, Welzijn en Sport een bestuurlijke boete op te leggen. Deze voorschriften zijn opgenomen in **bijlage 1**.
+De Rijksinspectie Digitale Infrastructuur (RDI) heeft het volgende beleid vastgesteld met betrekking tot het bepalen van de hoogte van bestuurlijke boetes. Dit boetebeleid heeft betrekking op boetes die worden opgelegd wegens overtredingen van voorschriften waarop de RDI toezicht houdt en waarvoor de RDI bevoegd is om namens de Minister, dan wel Staatssecretaris van Economische Zaken en Klimaat (Digitale Economie en Soevereiniteit), de Minister van Klimaat en Groene Groei en de Minister van Volksgezondheid, Welzijn en Sport een bestuurlijke boete op te leggen. Deze voorschriften zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052799&bijlage=1&z=2026-07-08&g=2026-07-08).
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -21,27 +21,27 @@ De Rijksinspectie Digitale Infrastructuur (RDI) heeft het volgende beleid vastge
 
 In het kader van dit beleid wordt verstaan onder:
 
-- a. *basisbedrag:* het in artikel 3.1 vastgestelde basisbedrag voor overtredingen van bepalingen die zijn ingedeeld in de categorieën I of hoger;
+- a. *basisbedrag:* het in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052799&hoofdstuk=2&artikel=3&z=2026-07-08&g=2026-07-08) vastgestelde basisbedrag voor overtredingen van bepalingen die zijn ingedeeld in de categorieën I of hoger;
 
 - b. *boetebandbreedte:* de bandbreedte waarbinnen een bestuurlijke boete die is ingedeeld in een categorie wordt vastgesteld en die niet wordt overschreden;
 
-- c. *netto-omzet:* de opbrengst uit levering van goederen en diensten uit het bedrijf van de rechtspersoon, onder aftrek van kortingen en dergelijke en van over de omzet geheven belastingen (artikel 2:377, zesde lid, van het Burgerlijk Wetboek);
+- c. *netto-omzet:* de opbrengst uit levering van goederen en diensten uit het bedrijf van de rechtspersoon, onder aftrek van kortingen en dergelijke en van over de omzet geheven belastingen ([artikel 2:377, zesde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377));
 
 - d. *omzetgerelateerde boete:* boete op basis van een percentage van de (wereldwijde) netto-omzet van de overtreder of van de onderneming waartoe de overtreder behoort in het boekjaar voorafgaande aan het boetebesluit;
 
-- e. *rechtspersoon:* de personen bedoeld in titel 2.1 van het Burgerlijk Wetboek of een buitenlandse equivalent. Voor de toepassing van dit beleid wordt met de rechtspersoon gelijkgesteld: de vennootschap zonder rechtspersoonlijkheid, de maatschap, de rederij en het doelvermogen;
+- e. *rechtspersoon:* de personen bedoeld in [titel 2.1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=1) of een buitenlandse equivalent. Voor de toepassing van dit beleid wordt met de rechtspersoon gelijkgesteld: de vennootschap zonder rechtspersoonlijkheid, de maatschap, de rederij en het doelvermogen;
 
-- f. *recidive:* de omstandigheid dat binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het opgemaakte rapport, bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht, nog geen vijf jaar zijn verlopen sinds een aan die overtreder voor een eerdere overtreding van eenzelfde of soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
+- f. *recidive:* de omstandigheid dat binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), nog geen vijf jaar zijn verlopen sinds een aan die overtreder voor een eerdere overtreding van eenzelfde of soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
 ##### Artikel 2. – Reikwijdte
 
-Dit Boetebeleid RDI is van toepassing op bestuurlijke boetes die worden opgelegd vanwege overtredingen van bepalingen met het toezicht op de naleving waarvan de RDI belast is. Deze bepalingen zijn opgenomen in **bijlage 1**.
+Dit Boetebeleid RDI is van toepassing op bestuurlijke boetes die worden opgelegd vanwege overtredingen van bepalingen met het toezicht op de naleving waarvan de RDI belast is. Deze bepalingen zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052799&bijlage=1&z=2026-07-08&g=2026-07-08).
 
 ### Hoofdstuk 2. Bepalen hoogte bestuurlijke boete
 
 ##### Artikel 3. – Categorieën
 
-- 3.1 In **bijlage 2** bij dit boetebeleid heeft de RDI overtredingen van de bepalingen waarop de RDI toeziet ingedeeld in categorieën. De boetebandbreedtes en basisbedragen luiden voor deze categorieën als volgt: Categorie
+- 3.1 In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052799&bijlage=2&z=2026-07-08&g=2026-07-08) bij dit boetebeleid heeft de RDI overtredingen van de bepalingen waarop de RDI toeziet ingedeeld in categorieën. De boetebandbreedtes en basisbedragen luiden voor deze categorieën als volgt: Categorie
  Boetebandbreedte
  Basisbedrag
  Categorie I
@@ -68,9 +68,9 @@ Dit Boetebeleid RDI is van toepassing op bestuurlijke boetes die worden opgelegd
 
 ##### Artikel 4. – Stappen boeteoplegging
 
-- 4.1 In het kader van dit boeteregime hanteert de RDI een stappenplan zoals bedoeld in artikel 4.2 voor het vaststellen van een boete wegens een overtreding van een voorschrift dat is ingedeeld in een categorie als bedoeld in artikel 3.1.
+- 4.1 In het kader van dit boeteregime hanteert de RDI een stappenplan zoals bedoeld in artikel 4.2 voor het vaststellen van een boete wegens een overtreding van een voorschrift dat is ingedeeld in een categorie als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052799&hoofdstuk=2&artikel=3&z=2026-07-08&g=2026-07-08).
 
-- 4.2 Voor de vaststelling van de boetehoogte van overtredingen die zijn ingedeeld in de in artikel 3.1 vermelde categorieën, worden de volgende stappen doorlopen: Basisbedrag
+- 4.2 Voor de vaststelling van de boetehoogte van overtredingen die zijn ingedeeld in de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052799&hoofdstuk=2&artikel=3&z=2026-07-08&g=2026-07-08) vermelde categorieën, worden de volgende stappen doorlopen: Basisbedrag
  (stap 1)
  Recidive
  (stap 2)
@@ -89,7 +89,7 @@ Dit Boetebeleid RDI is van toepassing op bestuurlijke boetes die worden opgelegd
 
 - 4.3 Voor het bepalen van de boetehoogte vanwege een overtreding van een bepaling die is ingedeeld in categorie I, wordt stap 5 van het stappenplan niet toegepast.
 
-- 4.4 Bij toepassing van dit stappenplan neemt de RDI de bij wet vastgestelde boetemaxima in acht. *Stap 1: basisbedrag* De RDI stelt het toepasselijke basisbedrag vast op basis van artikel 3.1, gelezen in samenhang met **bijlage 2**. *Stap 2: recidive* Indien sprake is van recidive, verdubbelt de RDI in beginsel het op basis van stap 1 vastgestelde basisbedrag. Daarbij neemt de RDI de wettelijke boetemaxima die voor recidive gelden, in acht. *Stap 3: ernst en/of duur* *Stap 4: verwijtbaarheid* *Stap 5: omvang van de overtreder* *Stap 6: passendheidstoets* De RDI kan het op basis van de stappen 1 tot en met 5 berekende boetebedrag verlagen op grond van onderstaande bijzondere omstandigheden, al dan niet in onderlinge samenhang bezien. Daarnaast kunnen er bijzondere omstandigheden aan de orde zijn die op basis van het voorgaande niet bij het bepalen van de boetehoogte van een overtreding zijn betrokken, maar die in het kader van de evenredigheid van de boetehoogte wel relevant (kunnen) zijn. Deze omstandigheden worden per geval bezien. Indien de betreffende omstandigheden nopen tot een lager boetebedrag, stelt de RDI de boete vast op een passend bedrag. *Opstelling overtreder* De RDI kan rekening houden met de opstelling van de overtreder met betrekking tot de medewerking aan het onderzoek. De RDI kan daarbij onder meer de volgende omstandigheden, al dan niet in onderlinge samenhang bezien, betrekken, waarbij voor de RDI van belang is dat het gaat om verregaande vormen van medewerking in de periode tot vaststellen van het Rapport van Bevindingen: De RDI kan hiervoor een matiging toepassen van in beginsel 10% per te betrekken omstandigheid, met een maximum van in beginsel in totaal 20%. *Cumulatie van boetes* *Stap 7: voordeel als ondergrens* Indien de RDI het voordeel dat met de overtreding is verkregen heeft kunnen vaststellen of een reële inschatting daarvan heeft kunnen maken, en het na stap 6 berekende boetebedrag lager is dan dit verkregen voordeel, kan de RDI het boetebedrag tot ten minste het bedrag van het verkregen voordeel ophogen. *Stap 8: draagkracht*
+- 4.4 Bij toepassing van dit stappenplan neemt de RDI de bij wet vastgestelde boetemaxima in acht. *Stap 1: basisbedrag* De RDI stelt het toepasselijke basisbedrag vast op basis van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052799&hoofdstuk=2&artikel=3&z=2026-07-08&g=2026-07-08), gelezen in samenhang met [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052799&bijlage=2&z=2026-07-08&g=2026-07-08). *Stap 2: recidive* Indien sprake is van recidive, verdubbelt de RDI in beginsel het op basis van stap 1 vastgestelde basisbedrag. Daarbij neemt de RDI de wettelijke boetemaxima die voor recidive gelden, in acht. *Stap 3: ernst en/of duur* *Stap 4: verwijtbaarheid* *Stap 5: omvang van de overtreder* *Stap 6: passendheidstoets* De RDI kan het op basis van de stappen 1 tot en met 5 berekende boetebedrag verlagen op grond van onderstaande bijzondere omstandigheden, al dan niet in onderlinge samenhang bezien. Daarnaast kunnen er bijzondere omstandigheden aan de orde zijn die op basis van het voorgaande niet bij het bepalen van de boetehoogte van een overtreding zijn betrokken, maar die in het kader van de evenredigheid van de boetehoogte wel relevant (kunnen) zijn. Deze omstandigheden worden per geval bezien. Indien de betreffende omstandigheden nopen tot een lager boetebedrag, stelt de RDI de boete vast op een passend bedrag. *Opstelling overtreder* De RDI kan rekening houden met de opstelling van de overtreder met betrekking tot de medewerking aan het onderzoek. De RDI kan daarbij onder meer de volgende omstandigheden, al dan niet in onderlinge samenhang bezien, betrekken, waarbij voor de RDI van belang is dat het gaat om verregaande vormen van medewerking in de periode tot vaststellen van het Rapport van Bevindingen: De RDI kan hiervoor een matiging toepassen van in beginsel 10% per te betrekken omstandigheid, met een maximum van in beginsel in totaal 20%. *Cumulatie van boetes* *Stap 7: voordeel als ondergrens* Indien de RDI het voordeel dat met de overtreding is verkregen heeft kunnen vaststellen of een reële inschatting daarvan heeft kunnen maken, en het na stap 6 berekende boetebedrag lager is dan dit verkregen voordeel, kan de RDI het boetebedrag tot ten minste het bedrag van het verkregen voordeel ophogen. *Stap 8: draagkracht*
 
    - a. In het basisbedrag ligt een gemiddelde ernst en duur van de overtreding besloten. De RDI verlaagt of verhoogt het basisbedrag met maximaal 50%, indien de ernst en/of duur van de overtreding een dergelijke verlaging of verhoging rechtvaardigt. De RDI past deze verlaging of verhoging toe in stappen van in beginsel 25%.
 
@@ -205,7 +205,7 @@ Dit Boetebeleid RDI is van toepassing op bestuurlijke boetes die worden opgelegd
 
 - 5.1 Indien en voor zover de RDI op grond van een wettelijke bepaling bevoegd is om een omzetgerelateerde boete op te leggen, kan de RDI, indien toepassing van het stappenplan op basis van een basisbedrag geen passende bestraffing oplevert, een omzetgerelateerde boete opleggen.
 
-- 5.2 Indien een omzetgerelateerde boete wordt opgelegd, wordt de boete vastgesteld aan de hand van het stappenplan als bedoeld in artikel 4.4, met uitzondering van stap 1 en stap 5. Hierbij neemt de RDI de bij wet vastgestelde boetemaxima die gelden bij een omzetgerelateerde boete in acht. Stap 1 luidt indien een omzetgerelateerde boete wordt opgelegd als volgt: *Stap 1: basisbedrag* De RDI stelt het basisbedrag vast op in beginsel 1% van de (wereldwijde) netto-jaaromzet van de overtreder, dan wel van de onderneming waartoe de overtreder behoort. Bij de toepassing van stap 5 gaat de RDI, indien zij een omzetgerelateerde boete oplegt, uit van een boetepercentage van 100%.
+- 5.2 Indien een omzetgerelateerde boete wordt opgelegd, wordt de boete vastgesteld aan de hand van het stappenplan als bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052799&hoofdstuk=2&artikel=4&z=2026-07-08&g=2026-07-08), met uitzondering van stap 1 en stap 5. Hierbij neemt de RDI de bij wet vastgestelde boetemaxima die gelden bij een omzetgerelateerde boete in acht. Stap 1 luidt indien een omzetgerelateerde boete wordt opgelegd als volgt: *Stap 1: basisbedrag* De RDI stelt het basisbedrag vast op in beginsel 1% van de (wereldwijde) netto-jaaromzet van de overtreder, dan wel van de onderneming waartoe de overtreder behoort. Bij de toepassing van stap 5 gaat de RDI, indien zij een omzetgerelateerde boete oplegt, uit van een boetepercentage van 100%.
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -215,7 +215,7 @@ De RDI gaat in beginsel over tot publicatie van een boetebesluit indien de betre
 
 ##### Artikel 7. – Wijziging eerder beleid
 
-Dit Boetebeleid treedt in de plaats van het Boetebeleid van de Rijksinspectie Digitale Infrastructuur, zoals gepubliceerd in de Staatscourant op 29 januari 2025, nr. 3483.
+Dit Boetebeleid treedt in de plaats van het [Boetebeleid van de Rijksinspectie Digitale Infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0050716), zoals gepubliceerd in de Staatscourant op 29 januari 2025, nr. 3483.
 
 ##### Artikel 8. – Citeertitel en inwerkingtreding
 

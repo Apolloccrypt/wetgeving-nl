@@ -1,147 +1,116 @@
 ---
 title: "Verdrag betreffende repatriëring van schepelingen"
 identifier: "BWBV0006227"
-country: "nl"
-rank: "verdrag"
-publication_date: "1964-11-13"
-last_updated: "1964-11-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006227"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005107543"
-version_id: "10005453992"
-internal_id: "C10008991391"
-label_id: "10005090594"
-dtd_version: "2.0"
-original_entry_into_force: "1948-05-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006227/1964-11-13/0"
-intitule_bron: "Stb.1948-I 516"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1948-11-29"
-intitule_published: "1949-01-04"
-intitule_in_force: "1949-01-04"
-intitule_status: "goed"
-original_publication: "Stb.1948-I 516"
-original_signed_date: "1948-11-29"
-original_published_date: "1949-01-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1948-05-05"
-jci_1_3: "jci1.3:c:BWBV0006227&z=1964-11-13&g=1964-11-13"
-jci_1_0: "1.0:c:BWBV0006227&g=1964-11-13"
-citeertitel_status: "redactioneel"
-signed_date: "1948-11-29"
-entry_into_force: "1948-05-05"
+publicatiedatum: 1948-05-05
+laatste_update: 1964-11-13
+status: geldig
+toestand: 1964-11-13
+bron: "https://wetten.overheid.nl/BWBV0006227"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag betreffende repatriëring van schepelingen
 
-**Verdrag betreffende repatriëring van schepelingen**
+*Convention concerning the repatriation of seamen The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Ninth Session on 7 June 1926, and Having decided upon the adoption of certain proposals with regard to the repatriation of seamen, which is included in the first item of the agenda of the Session, and Having determined that these proposals shall take the form of an international convention, adopts, this twenty-third day of June of the year one thousand nine hundred and twenty-six, the following Convention, which may be cited as the Repatriation of Seamen Convention, 1926, for ratification by the Members of the International Labour Organisation, in accordance with the provisions of the Constitution of the International Labour Organisation:*
 
-De Algemene Conferentie van de Internationale Organisatie van de Arbeid, door de Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Genève en aldaar bijeengekomen op 7 Juni 1926, in haar negende zitting,
+##### Article 1
 
-besloten hebbende verschillende voorstellen aan te nemen betreffende repatriëring van schepelingen, welk onderwerp begrepen is in punt 1 van de agenda der zitting en
+1. This Convention shall apply to all seagoing vessels registered in the country of any Member ratifying this Convention, and to the owners, masters and seamen of such vessels.
 
-besloten hebbende, dat deze voorschriften de vorm zullen aannemen van een internationaal verdrag,
+2. It shall not apply to:
 
-neemt heden de 23ste Juni 1926 het volgende verdrag aan, dat genoemd zal worden het “Verdrag betreffende repatriëring van schepelingen, 1926”, ter bekrachtiging door de leden van de Internationale Organisatie van de Arbeid, zulks overeenkomstig de bepalingen van het Statuut van de Internationale Arbeidsorganisatie:
+- ships of war,
 
-De wijziging is in werking getreden op 15 januari 1948 (Trb. 1957/181).
+- Government vessels not engaged in trade,
 
-##### Artikel 1
+- vessels engaged in the coasting trade,
 
-1. Dit verdrag is van toepassing op alle zeevaartuigen ingeschreven in het land van een der leden, die dit verdrag bekrachtigd hebben en op de reders, kapiteins en schepelingen van die schepen.
+- pleasure yachts,
 
-2. Het is niet van toepassing op:
+- Indian country craft,
 
-- oorlogsschepen;
+- fishing vessels,
 
-- Staatsschepen niet gebezigd voor de handel;
+- vessels of less than 100 tons gross registered tonnage or 300 cubic metres, nor to vessels engaged in the home trade below the tonnage limit prescribed by national law for the special regulation of this trade at the date of the passing of this Convention.
 
-- schepen gebezigd voor de kustvaart;
+##### Article 2
 
-- pleziervaartuigen;
+For the purpose of this Convention the following expressions have the meanings hereby assigned to them, viz.:
 
-- schepen begrepen onder „Indian country craft”;
+- (a) The term „vessel” includes any ship or boat of any nature whatsoever, whether publicly or privately owned, ordinarily engaged in maritime navigation.
 
-- vissersvaartuigen;
+- (b) The term „seaman” includes every person employed or engaged in any capacity on board any vessel and entered on the ship's articles. It excludes masters, pilots, cadets and pupils on training ships and duly indentured apprentices, naval ratings, and other persons in the permanent service of a Government.
 
-- schepen met een bruto tonnenmaat minder dan 100 ton of 300 M³ en, indien het schepen voor korte vaart betreft, met een tonnenmaat minder dan die, welke voor die korte vaart is vastgesteld door de nationale wet, die van kracht is op het ogenblik, dat dit verdrag wordt aangenomen.
+- (c) The term „master” includes every person having command and charge of a vessel except pilots.
 
-##### Artikel 2
+- (d) The term „home trade vessel” means a vessel engaged in trade between a country and the ports of a neighbouring country within geographical limits determined by the national law.
 
-Voor de toepassing van dit verdrag moeten de volgende uitdrukkingen als volgt worden verstaan:
+##### Article 3
 
-- a. onder „schip” elk schip of vaartuig van welke aard ook, publiek of privaat eigendom, dat gewoonlijk gebezigd wordt voor zeevaart;
+1. Any seaman who is landed during the term of his engagement or on its expiration shall be entitled to be taken back to his own country, or to the port at which he was engaged, or to the port at which the voyage commenced, as shall be determined by national law, which shall contain the provisions necessary for dealing with the matter, including provisions to determine who shall bear the charge of repatriation.
 
-- b. onder „schepeling” ieder persoon, die werkzaam of in dienst is aan boord in welke hoedanigheid ook en op de monsterrol voorkomt, met uitzondering van kapiteins, loodsen, leerlingen van opleidingsschepen, leerlingen, met wie een leerlingovereenkomst gestoten is, van de bemanning van oorlogsschepen en van andere personen in vaste dienst van de Staat;
+2. A seaman shall be deemed to have been duly repatriated if he has been provided with suitable employment on board a vessel proceeding to one of the destinations prescribed in accordance with the foregoing paragraph.
 
-- c. onder „kapitein” ieder persoon, die het gezag over het schip voert en met de zorg daarover belast is, met uitzondering van loodsen;
+3. A seaman shall be deemed to have been repatriated if he is landed in the country to which he belongs, or at the port at which he was engaged, or at a neighbouring port, or at the port at which the voyage commenced.
 
-- d. onder „schepen voor korte vaart” schepen, gebezigd voor handel tussen de havens van een land en de havens van een naburig land, gelegen binnen de geographische grenzen daarvoor in de nationale wet bepaald.
+4. The conditions under which a foreign seaman engaged in a country other than his own has the right to be repatriated shall be as provided by national law or, in the absence of such legal provisions, in the articles of agreement. The provisions of the preceding paragraphs shall, however, apply to a seaman engaged in a port of his own country.
 
-##### Artikel 3
+##### Article 4
 
-1. Ieder schepeling, die tijdens de duur van de arbeidsovereenkomst of bij het eind daarvan in het buitenland ontscheept is, heeft recht op vervoer hetzij naar zijn land, hetzij naar de haven, waar de arbeidsovereenkomst aangegaan werd, hetzij naar de haven, waar de reis is aangevangen, overeenkomstig de bepalingen van de nationale wet, welke de nodige voorschriften dienaangaande moet geven en in het bijzonder moet vaststellen, te wiens laste de kosten van repatriëring komen.
+The expenses of repatriation shall not be a charge on the seaman if he has been left behind by reason of:
 
-2. De repatriëring wordt als voldoende verzekerd beschouwd, indien de schepeling een behoorlijke betrekking wordt verschaft aan boord van een schip, dat zich begeeft naar een der bestemmingsplaatsen, bedoeld in het vorig lid.
+- (a) injury sustained in the service of the vessel, or
 
-3. Als gerepatrieerd wordt beschouwd de schepeling, die ontscheept is hetzij in zijn eigen land, hetzij in de haven waar de overeenkomst aangegaan werd of in een naburige haven, hetzij in de haven, waar de reis is aangevangen.
+- (b) shipwreck, or
 
-4. De nationale wet of, bij gebreke van wettelijke bepalingen, de arbeidsovereenkomst zal de voorwaarden vaststellen, waaronder de vreemde schepeling die aan boord gekomen is in een ander land dan het zijne, recht heeft op repatriëring. De bepalingen van de vorige leden blijven echter van toepassing op de schepeling aan boord gekomen in zijn eigen land.
+- (c) illness not due to his own wilful act or default, or
 
-##### Artikel 4
+- (d) discharge for any cause for which he cannot be held responsible.
 
-De kosten van repatriëring kunnen niet ten laste van de schepeling gebracht worden, indien hij achtergelaten is ten gevolge van:
+##### Article 5
 
-- a. een ongeval hem in dienst van het schip overkomen;
+1. The expenses of repatriation shall include the transportation charges, the accommodation and the food of the seaman during the journey. They shall also include the maintenance of the seaman up to the time fixed for his departure.
 
-- b. schipbreuk;
+2. When a seaman is repatriated as member of a crew, he shall be entitled to remuneration for work done during the voyage.
 
-- c. een ziekte, welke nòch door zijn opzet nòch door zijn schuld veroorzaakt is;
+##### Article 6
 
-- d. ontslag om redenen, welke hem niet toegerekend kunnen worden.
+The public authority of the country in which the vessel is registered shall be responsible for supervising the repatriation of any member of the crew in cases where this Convention applies, whatever may be his nationality, and where necessary for giving him his expenses in advance.
 
-##### Artikel 5
+##### Article 7
 
-1. De kosten van repatriëring moeten omvatten alle uitgaven met betrekking tot het vervoer, de huisvesting en de voeding van de schepeling gedurende de reis. Zij omvatten eveneens de kosten van onderhoud van de schepeling tot aan het ogenblik vastgesteld voor zijn vertrek.
+The formal ratifications of this Convention under the conditions set forth in the Constitution of the International Labour Organisation shall be communicated to the Director-General of the International Labour Office for registration.
 
-2. Wanneer de schepeling gerepatrieerd wordt als lid van een bemanning, heeft hij recht op beloning voor zijn diensten verricht gedurende de reis.
+##### Article 8
 
-##### Artikel 6
+1. This Convention shall come into force at the date on which the ratifications of two Members of the International Labour Organisation have been registered by the Director-General.
 
-De openbare macht van het land, waar het schip staat ingeschreven, is gehouden te waken voor de repatriëring van alle schepelingen in geval het onderhavige verdrag op hen van toepassing is, zonder onderscheid van nationaliteit van de schepelingen; indien nodig zal zij de kosten der repatriëring voorschieten.
+2. It shall be binding only upon those Members whose ratifications have been registered with the International Labour Office.
 
-##### Artikel 7
+3. Thereafter, the Convention shall come into force for any Member at the date on which its ratification has been registered with the International Labour Office.
 
-De officiële bekrachtigingen van dit verdrag, overeenkomstig het bepaalde in het Statuut van de Internationale Arbeidsorganisatie, zullen worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem worden ingeschreven.
+##### Article 9
 
-##### Artikel 8
+As soon as the ratification of two Members of the International Labour Organisation have been registered with the International Labour Office, the Director-General of the International Labour Office shall so notify all the Members of the International Labour Organisation. He shall likewise notify them of the registration of ratifications which may be communicated subsequently by other Members of the Organisation.
 
-1. Dit verdrag zal van kracht worden, zodra de bekrachtigingen van twee leden van de Internationale Organisatie van de Arbeid door de Directeur-Generaal zullen zijn ingeschreven.
+##### Article 10
 
-2. Het zal slechts verbindend zijn voor de leden, die hun bekrachtiging door de Directeur-Generaal hebben doen inschrijven.
+Subject to the provisions of Article 8, each Member which ratifies this Convention agrees to bring the provisions of Articles 1, 2, 3, 4, 5 and 6 into operation not later than 1 January 1928, and to take such action as may be necessary to make these provisions effective.
 
-3. Vervolgens zal dit verdrag voor ieder der andere leden in werking treden op de datum, waarop de bekrachtiging van dat lid door het Internationaal Arbeidsbureau zal zijn ingeschreven.
+##### Article 11
 
-##### Artikel 9
+Each Member of the International Labour Organisation which ratifies this Convention engages to apply it to its colonies, possessions and protectorates, in accordance with the provisions of Article 35 of the Constitution of the International Labour Organisation.
 
-Zodra de bekrachtigingen van twee leden der Internationale Organisatie van de Arbeid door het Internationaal Arbeidsbureau zijn ingeschreven, zal de Directeur-Generaal van het Internationaal Arbeidsbureau van dit feit mededeling doen aan alle leden van de Internationale Organisatie van de Arbeid. Hij zal hen eveneens in kennis stellen met de inschrijvingen van de bekrachtigingen, die hem later door andere leden der Organisatie zullen worden medegedeeld.
+##### Article 12
 
-##### Artikel 10
+A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered with the International Labour Office.
 
-Behoudens het bepaalde in artikel 8, verbindt ieder lid, dat dit verdrag bekrachtigt, zich om de bepalingen van de artikelen 1, 2, 3, 4, 5 en 6 uiterlijk op 1 Januari 1928 in toepassing te brengen en zodanige maatregelen te nemen als nodig zullen blijken om deze doeltreffend te doen zijn.
+##### Article 13
 
-##### Artikel 11
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-Ieder lid van de Internationale Organisatie van de Arbeid, dat dit verdrag bekrachtigt, verbindt zich om het toe te passen ten aanzien van zijn koloniën, bezittingen en protectoraten, overeenkomstig de bepalingen van artikel 35 van het Statuut van de Internationale Arbeidsorganisatie.
+##### Article 14
 
-##### Artikel 12
-
-Ieder lid, dat dit verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaren na de datum, waarop dit verdrag van kracht begint te worden, zulks bij een verklaring toegezonden aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door deze in te schrijven. De opzegging wordt eerst van kracht een jaar nadat zij door het Internationaal Arbeidsbureau is ingeschreven.
-
-##### Artikel 13
-
-Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig acht legt deze een verslag inzake de toepassing van dit Verdrag voor aan de Algemene Conferentie, en gaat na of het wenselijk is de kwestie van de gehele of gedeeltelijke herziening van het Verdrag op de agenda van de Conferentie te plaatsen.
-
-##### Artikel 14
-
-Zowel de Franse als de Engelse tekst van dit verdrag is authentiek.
+The French and English texts of this Convention shall both be authentic.

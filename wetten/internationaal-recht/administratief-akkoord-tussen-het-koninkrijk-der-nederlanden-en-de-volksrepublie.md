@@ -1,46 +1,19 @@
 ---
 title: "Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh inzake het project 'Char Development and Settlement Project – Bridging (Additional Financing)'"
 identifier: "BWBV0006918"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-09-03"
-last_updated: "2023-09-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006918"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10005590833"
-version_id: "10006126852"
-internal_id: "C10009837931"
-label_id: "10005572724"
-dtd_version: "2.0"
-original_entry_into_force: "2021-05-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006918/2023-09-03/0"
-intitule_bron: "Trb.2021-106"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-07-20"
-intitule_in_force: "2021-07-20"
-intitule_status: "goed"
-original_publication: "Trb.2021-106"
-original_published_date: "2021-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2021-106"
-entry_into_force_date: "2021-05-23"
-jci_1_3: "jci1.3:c:BWBV0006918&z=2023-09-03&g=2023-09-03"
-jci_1_0: "1.0:c:BWBV0006918&g=2023-09-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-05-23"
+publicatiedatum: 2021-05-23
+laatste_update: 2023-09-03
+status: geldig
+toestand: 2023-09-03
+bron: "https://wetten.overheid.nl/BWBV0006918"
+opgehaald: 2026-09-16
 ---
+
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh inzake het project 'Char Development and Settlement Project – Bridging (Additional Financing)'
 
-The Minister for Foreign Trade and Development Cooperation of the Netherlands, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Netherlands Party”, represented in this matter by the Ambassador of the Kingdom of the Netherlands in Dhaka, Bangladesh
-
-and
-
-The Economic Relations Division of the Ministry of Finance, Government of the People's Republic of Bangladesh, being the competent Bangladesh Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Bangladesh Party”,
-
-Having regard to the provisions of [Article I of the Agreement on Technical Co-operation between the Kingdom of the Netherlands and the People's Republic of Bangladesh](https://wetten.overheid.nl/jci1.3:c:BWBV0005634&artikel=I), signed at Dhaka on 19 May 1977, hereinafter referred to as “the Agreement”,
-
-Have entered into the following Administrative Arrangement:
+*The Minister for Foreign Trade and Development Cooperation of the Netherlands, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Netherlands Party”, represented in this matter by the Ambassador of the Kingdom of the Netherlands in Dhaka, Bangladesh and The Economic Relations Division of the Ministry of Finance, Government of the People's Republic of Bangladesh, being the competent Bangladesh Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Bangladesh Party”, Having regard to the provisions of Article I of the Agreement on Technical Co-operation between the Kingdom of the Netherlands and the People's Republic of Bangladesh, signed at Dhaka on 19 May 1977, hereinafter referred to as “the Agreement”, Have entered into the following Administrative Arrangement:*
 
 ##### Article I. (The Project)
 
@@ -52,15 +25,15 @@ Have entered into the following Administrative Arrangement:
 
 ##### Article II. (The contribution by the Netherlands Party)
 
-The Netherlands Party shall make an additional contribution of € 2.296.615 (top-up to accommodate the extension) on top of € 5.000.000 (the original TA budget, as concluded on 29 April 2021 and 23 May 2021), € 7.296.615 in total (seven million two hundred and ninetysix thousand six hundred and fifteen euros) in the form of grant to the Project in the following manner:
+The Netherlands Party shall make an additional contribution of € 2.296.615 (top-up to accommodate the extension) on top of € 5.000.000 (the original TA budget, as concluded on 29 April 2021 and 23 May 2021), € 7.296.615 in total (seven million two hundred and ninetysix thousand six hundred and fifteen euros) in the form of grant to the Project in the following manner:
 
-- –. € 2.296.615 (top-up to accommodate the extension) for Technical Assistance, through direct contracting by the Netherlands Party.
+- – € 2.296.615 (top-up to accommodate the extension) for Technical Assistance, through direct contracting by the Netherlands Party.
 
 The Netherlands Party's contribution will become available on the condition that:
 
-- –. The Bangladesh Party shall have approved the Development Project Proformas (DPPs) of all five participating departments (BWDB, LGED, DPHE, Forestry Department, Land); and
+- – The Bangladesh Party shall have approved the Development Project Proformas (DPPs) of all five participating departments (BWDB, LGED, DPHE, Forestry Department, Land); and
 
-- –. The Bangladesh Water Development Board shall have appointed the Project Coordination Director.
+- – The Bangladesh Water Development Board shall have appointed the Project Coordination Director.
 
 ##### Article III. (The contribution by the Bangladesh Party)
 
@@ -86,23 +59,23 @@ Each of the Executive Authorities shall be entitled to delegate under its own re
 
 ##### Article VII. (The Schedule of Operations)
 
-1. The Executive Authorities shall establish in common agreement a Schedule of Operations indicating in detail:
+1. The Executive Authorities shall establish in common agreement a [Schedule of Operations](https://wetten.overheid.nl/BWBV0006918) indicating in detail:
 
-- –. the contribution of either Party;
+- – the contribution of either Party;
 
-- –. the number and duties of the staff appointed by each Party;
+- – the number and duties of the staff appointed by each Party;
 
-- –. their job-descriptions;
+- – their job-descriptions;
 
-- –. the duration of their assignment;
+- – the duration of their assignment;
 
-- –. a time-table;
+- – a time-table;
 
-- –. a description of the equipment and materials to be made available.
+- – a description of the equipment and materials to be made available.
 
-2. The Schedule of Operations shall form an integral part of this Administrative Arrangement.
+2. The [Schedule of Operations](https://wetten.overheid.nl/BWBV0006918) shall form an integral part of this Administrative Arrangement.
 
-3. The Schedule of Operations may be amended in common agreement by the Executive Authorities.
+3. The [Schedule of Operations](https://wetten.overheid.nl/BWBV0006918) may be amended in common agreement by the Executive Authorities.
 
 ##### Article VIII. (Status of the Netherlands Staff)
 
@@ -132,7 +105,7 @@ This Administrative Arrangement shall enter into force on the day of signature b
 
 DONE at Dhaka, in two originals, in the English language only.
 
-**For the Netherlands Party**
+*For the Netherlands Party*
 
 HARRY VERWEIJ
 
@@ -140,11 +113,11 @@ Ambassador
 
 of the Kingdom of the Netherlands
 
-**Dhaka**
+*Dhaka*
 
-**Dated: 29-04-2021**
+*Dated: 29-04-2021*
 
-**For the Bangladesh Party**
+*For the Bangladesh Party*
 
 FATIMA YASMIN
 
@@ -152,6 +125,6 @@ Secretary,
 
 Economic Relations Division (ERD) Ministry of Finance
 
-**Dhaka**
+*Dhaka*
 
-**Dated: 23-05-2021**
+*Dated: 23-05-2021*

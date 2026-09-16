@@ -1,110 +1,83 @@
 ---
 title: "Verdrag betreffende het zegelrecht ten aanzien van cheques"
 identifier: "BWBV0006582"
-country: "nl"
-rank: "verdrag"
-publication_date: "1934-07-01"
-last_updated: "1934-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006582"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005343033"
-version_id: "10005759742"
-internal_id: "C10009046641"
-label_id: "10005325964"
-dtd_version: "2.0"
-original_entry_into_force: "1934-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006582/1934-07-01/0"
-intitule_bron: "Stb.1934-210"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1934-04-23"
-intitule_published: "1934-05-04"
-intitule_in_force: "1959-11-13"
-intitule_status: "goed"
-original_publication: "Stb.1934-210"
-original_signed_date: "1934-04-23"
-original_published_date: "1934-05-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1934-07-01"
-jci_1_3: "jci1.3:c:BWBV0006582&z=1934-07-01&g=1934-07-01"
-jci_1_0: "1.0:c:BWBV0006582&g=1934-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "1934-04-23"
-entry_into_force: "1934-07-01"
+publicatiedatum: 1934-07-01
+laatste_update: 1934-07-01
+status: geldig
+toestand: 1934-07-01
+bron: "https://wetten.overheid.nl/BWBV0006582"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag betreffende het zegelrecht ten aanzien van cheques
 
-**(Opsomming van Staatshoofden.)**
+*The President of the German Reich; the Federal President of the Austrian Republic; His Majesty the King of the Belgians; His Majesty the King of Great Britain, Ireland and the British Dominions Beyond the Seas, Emperor of India; His Majesty the King of Denmark and Iceland; the President of the Polish Republic, for the Free City of Danzig; the President of the Republic of Ecuador; His Majesty the King of Spain; the President of the Republic of Finland; the President of the French Republic; the President of the Hellenic Republic; His Serene Highness the Regent of the Kingdom of Hungary; His Majesty the King of Italy; His Majesty the Emperor of Japon; Her Royal Highness the Grand Duchess of Luxemburg; the President of the United States of Mexico; His Serene Highness the Prince of Monaco; His Majesty the King of Norway; Her Majesty the Queen of the Netherlands; the President of the Polish Republic; the President of the Portuguese Republic; His Majesty the King of Roumania; His Majesty the King of Sweden; the Swisse Federal Council; the President of the Czechoslovak Republic; the President of the Turkish Republic; His Majesty the King of Yugoslavia, Being desirous of settling certain problems concerning the stamp laws in their relations with cheques, have appointed as their plenipotentiaries the following: The President of the German Reich: M. Leo Quassowski, Ministerial Counsellor in the Reich Ministry of Justice; Dr. Erich Albrecht, Councellor of Legation of the Reich Ministry for Foreign Affairs; Dr. Erwin Pätzold, „Landgerichtsrat” at the Court of Schweidnitz. The Federal President of the Austrian Republic: Dr. Guido Strobele, Ministerial Counsellor in the Federal Ministry of Justice. His Majesty the King of the Belgians: M. J. de la Vallée Poussin, Honorary Secretary-General of Ministry of Science and Arts. His Majesty the King of Great Britain, Ireland and the British Dominions Beyond the Seas, Emperor of India: For Great Britain and Northern Ireland and all parts of the British Empire which are not separate Members of the League of Nations; Professor H. C. Gutteridge, K.C., Professor of Commercial and Industrial Law and Dean of the Faculty of Laws in the University of London. His Majesty the King of Denmark and Iceland: M. Axel Helper, Ministerial Counsellor in the Ministry of Commerce and Industry; M. Valdemar Eigtved, General Manager of the „Privatbanken”, Copenhagen. The President of the Polosh Republic, for the Free City of Danzig: M. Józef Sulkowski, Professor at the University of Poznan, Member of the Polish Codification Commission. The President of the Republic of Ecuador: Dr. Alejandro Gastelú, Consul at Geneva. His Majesty the King of Spain: Professor Francisco Bernis, Secretary-General of the „Consejo Superior Bancario”. The president of the Republic of Finland: M. Filip Grönwall, Counsellor of State, Member of the High Administrative Court. The president of the French Republic: M. Louis Jean Percerou, Professor in the Faculty of Law of the University of Paris. The President of the Hellenic Republic: M. R. Raphaël, Permanent Delegate accredited of the League of Nations; M. A. Contoumas, First Secretary of the Permanent Delegation accredited to the League of Nations. His serene Highness the Regent of the Kingdom of Hungary: M. Jean Pelényi, Resident Minister, Head of the Royal Delegation accredited to the League of Nations. His Majesty the King of Italy: M. Amedeo Giannini, Counsellor of State, First-Class Minister, Plenipotentiary; M. Giovanni Zappalà, Barrister-at-Law, Head of Section in the Ministry of Finance. His Majesty the Emperor of Japan: M. Nobutaro Kawashima, Envoy Extraordinary and Minister Plenipotentiary to the President of the Hellenic Republic; M. Ukitsu Tanaka, Judge at the Supreme Court of Japan. Her Royal Highness the Grand Duchess of Luxemburg: M. Charles Vermaire, Consul at Geneva. The President of the United States of Mexico: M. Antonio Castro-Leal, Observer accredited to the League of Nations. His Serene Highness the Prince of Monaco: M. Conrad E. Hentsch, Consul-General of the Principality at Geneva. His Majesty the King of Norway: M. C. Stub Holmboe, Advocate at the Supreme Court. Her Majesty the Queen of the Netherlands: Dr. J. Kosters, Counsellor at the High Court of Justice, Former Professor at the University of Groningen. The President of the Polish Republic: M. Józef Sulkowski, Professor at the University of Poznan, Member of the Polish Codification Commission. The President of the Portuguese Republic: Dr. José Caeiro da Matta, Rector of the University of Lisbon, Professor in the Faculty of Law, Director of the Bank of Portugal, Deputy Judge at the Permanent Court of International Justice. His Majesty the King of Roumania: M. Constantin Antoniade, Envoy Extraordinary and Minister Plenipotentiary accredited to the League of Nations. His Majesty the King of Sweden: Baron Erik Teodor Marks von Würtemberg, President of the Stockholm Court of Appeal, former Minister for Foreign Affairs; M. L. Birger Ekeberg, Former Minister of Justice, President of the Civil Legislation Commission, Former Counsellor of the Supreme Court; M. Knut Dahlberg, Former Minister of Agriculture, Director of the Association of Swedish Banks. The Swiss Federal Council: Dr. Max Vischer, Barrister-at-Law and Notary, First Secretary of the Swiss Bankers’ Association at Basle. Dr. O. Hulftegger, First Secretary of the Board of the Swiss Commercial and Industrial Union at Zurich. The President of the Czechoslovak Republic: Dr. Karel Hermann-Otavsky, Professor at the University of Prague, President of the Codification Commission for Commercial Law in the Ministry of Justice. The President of the Turkish Republic: Cemal Hüsnü Bey, Envoy Extraordinary and Minister Plenipotentiary to the Swiss Federal Council, Former Minister of Public Instruoticn. His Majesty King of Yugoslavia: M. I. Choumenkovitch, Minister Plenipotentiary, Permanent Delegate accredited to the League of Nations. Who, having communicated their full powers, found in good and due form, have agreed upon the following provisions:*
 
-Verlangend eenige vragen van zegelrecht in verband met de chèque te regelen, hebben tot hun Gevolmachtigden aangewezen :
+##### Article 1
 
-**(Lijst van Gevolmachtigden.)**
+If their laws do not already make provision to this effect, the High Contracting Parties undertake to alter their laws in all the territories placed under their sovereignty or authority to which the present Convention is applicable, so that the validity of obligations arising out of a cheque or the exercise of the rights that flow therefrom shall not be subordinated to the observance of the provisions concerning the stamp.
 
-Die, na elkander hun in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, omtrent de volgende bepalingen zijn overeengekomen :
+Nevertheless, the High Contracting Parties may suspend the exercise of these rights until payment of the stamp duties they prescribe or of any penalties incurred. They may also decide that the quality and effects of an instrument „immediately executory” which, according to their legislation may be attributed to a cheque, shall be subject to the condition that the stamp law has, from the issue of the instrument, been duly complied with in accordance with their laws.
 
-##### Artikel 1
+##### Article 2
 
-De Hooge Verdragsluitende Partijen verbinden zich, in geval haar wetgevingen niet reeds daartoe strekken, haar wetten in alle gebieden, die onder haar souvereiniteit of gezag zijn geplaatst en waarop dit Verdrag van toepassing is, zoodanig te wijzigen, dat de geldigheid der ten aanzien van chèques aangegane verbintenissen en de uitoefening der daaruit voortvloeiende rechten niet afhankelijk zal worden gesteld, van de inachtneming der bepalingen nopens het zegel.
+The present Convention, the French and English texts of which shall be equally authentic, shall bear this day's date.
 
-Zij kunnen echter de uitoefening van die rechten schorsen, totdat de verschuldigde zegelrechten alsmede de verbeurde boeten zullen zijn betaald. Eveneens kunnen zij bepalen, dat de hoedanigheid en de kracht van onmiddellijk-uitvoerbaren-titel, welke overeenkomstig haar wetgevingen aan de chèque mochten zijn toegekend, afhankelijk zullen zijn van de voorwaarde, dat het zegelrecht, overeenkomstig de bepalingen harer wetten, aanstonds bij de uitgifte van het stuk behoorlijk gekweten is.
+It may be signed thereafter until July 15th, 1931, on behalf of any Member of the League of Nations or non-member State.
 
-##### Artikel 2
+##### Article 3
 
-Dit Verdrag, waarvan de Fransche en Engelsche tekst beide authentiek zijn, zal de dagteekening van heden dragen.
+The present Convention shall be ratified.
 
-Het zal tot 15 Juli 1931 kunnen worden onderteekend namens ieder Lid van den Volkenbond en iederen Staat niet-Lid.
+The instruments of ratification shall be deposited before September 1st, 1933, with the Secretary-General of the League of Nations, who shall forthwith notify receipt thereof to all the Members of the League of Nations and to the non-member States on whose behalf the present Convention has been signed or acceded to.
 
-##### Artikel 3
+##### Article 4
 
-Dit Verdrag zal worden bekrachtigd.
+As from July 15th, 1931, any Member of the League of Nations and any non-member State may accede thereto.
 
-De oorkonden van bekrachtiging zullen vóór den 1sten September 1933 worden nedergelegd bij den Secretaris-Generaal van den Volkenbond, die van de ontvangst onmiddellijk zal mededeeling doen aan alle Leden van den Volkenbond en aan alle Staten niet-Leden, in wier naam dit Verdrag is onderteekend of in wier naam daartoe is toegetreden.
+Such accession shall be effected by a notification to the Secretary-General of the League of Nations, such notification to be deposited in the archives of the Secretariat.
 
-##### Artikel 4
+The Secretary-General shall notify such deposit forthwith to all the Members of the League of Nations and to the non-member States on whose behalf the present Convention has been signed or acceded to.
 
-Van 15 Juli 1931 af zal ieder Lid van den Volkenbond en iedere Staat niet-Lid tot dit Verdrag kunnen toetreden.
+##### Article 5
 
-Deze toetreding zal geschieden door een kennisgeving aan den Secretaris-Generaal van den Volkenbond, die haar zal nederleggen in de archieven van het Secretariaat.
+The present Convention shall not come into force until it has been ratified or acceded to on behalf of seven Members of the League of Nations or non-member States, which shall include three of the Members of the League permanently represented on the Council.
 
-De Secretaris-Generaal zal van de nederlegging onmiddellijk kennis geven aan alle Leden van den Volkenbond en aan alle Staten niet-Leden, die dit Verdrag hebben onderteekend, of die daartoe zijn toegetreden.
+The date of entry into force shall be the ninetieth day following the receipt by the Secretary-General of the League of Nations of the seventh ratification or accession in accordance with the first paragraph of the present Article.
 
-##### Artikel 5
+The Secretary-General of the League of Nations, when making the notification provided for in [Articles 3](https://wetten.overheid.nl/BWBV0006582) and [4](https://wetten.overheid.nl/BWBV0006582), shall state in particular that the ratifications or accessions referred to in the first paragraph of the present Article have been received.
 
-Dit Verdrag treedt eerst in werking wanneer de bekrachtiging of de toetreding zal hebben plaats gehad namens zeven Leden van den Volkenbond of Staten niet-Leden, waaronder drie permanente Leden van den Volkenbondsraad.
+##### Article 6
 
-De datum van inwerkingtreding zal zijn de negentigste dag, volgende op de ontvangst door den Secretaris-Generaal van den Volkenbond van de zevende bekrachtiging of toetreding, overeenkomstig het eerste lid van dit artikel.
+Every ratification or accession effected after the entry into force of the Convention in accordance with [Article 5](https://wetten.overheid.nl/BWBV0006582) shall take effect on the ninetieth day following the date of receipt thereof by the Secretary-General of the League of Nations.
 
-De Secretaris-Generaal van den Volkenbond zal bij het doen der kennisgevingen, bedoeld bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006582&artikel=3&z=1934-07-01&g=1934-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006582&artikel=4&z=1934-07-01&g=1934-07-01), in het bijzonder doen blijken, dat de bekrachtigingen of toetredingen, bij het eerste lid van dit artikel bedoeld, verkregen zijn.
+##### Article 7
 
-##### Artikel 6
+The present Convention may not be denounced before the expiry of two years from the date on which it has entered into force in respect of that Member of the League or non-member State; such denunciation shall take effect as from the ninetieth day following the receipt by the Secretary-General of the notification addressed to him.
 
-Iedere bekrachtiging of toetreding, welke zal geschieden na de inwerkingtreding van het Verdrag overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006582&artikel=5&z=1934-07-01&g=1934-07-01), zal van kracht zijn te rekenen van af den negentigsten dag, volgende op den datum van haar ontvangst door den Secretaris-Generaal van den Volkenbond.
+Every denunciation shall be immediately communicated by the Secretary-General of the League of Nations to all the Members of the League of Nations and to the non-member States on whose behalf the present Convention has been signed or acceded to.
 
-##### Artikel 7
+Each denunciation shall take effect only as regards the Member of the League of Nations or the non-member State, on whose behalf it has been made.
 
-Dit Verdrag kan niet worden opgezegd voor het einde van een termijn van twee jaren, te rekenen van den datum zijner inwerkingtreding voor het Lid van den Volkenbond of voor den Staat niet-Lid, die tot de opzegging overgaat; deze opzegging zal van kracht worden, te rekenen van af den negentigsten dag, volgende op de ontvangst door den Secretaris-Generaal van de tot hem gerichte kennisgeving.
+##### Article 8
 
-Iedere opzegging zal onmiddellijk door den Secretaris-Generaal van den Volkenbond worden medegedeeld aan alle Leden van den Volkenbond en aan alle Staten niet-Leden, in wier naam dit Verdrag is onderteekend of in wier naam de toetreding heeft plaats gehad.
+Every Member of the League of Nations and every non-member State in respect of which the present Convention is in force may forward to the Secretary-General of the League of Nations, after the expiry of the fourth year following the entry into force of the Convention, a request for the revision of some or all of the provisions of that Convention.
 
-Iedere opzegging zal slechts van kracht zijn voor het Lid van den Volkenbond of voor den Staat niet-Lid, namens welke zij zal hebben plaats gehad.
+If such request, after being communicated to the other Members or non-member States between whom the Convention is at that time in force, is supported within one year by at least six of them, the Council of the League of Nations shall decide whether a Conference shall be convened for the purpose.
 
-##### Artikel 8
+##### Article 9
 
-Ieder Lid van den Volkenbond en iedere Staat niet-Lid, voor wien dit Verdrag van kracht is, zal na het einde van het vierde jaar, volgende op de inwerkingtreding van dit Verdrag, een verzoek kunnen richten tot den Secretaris-Generaal van den Volkenbond, strekkende tot herziening van enkele of van alle bepalingen van dit Verdrag.
+Any High Contracting Party may, at the time of signature, ratification or accession, declare that, in accepting the present Convention, he does not assume any obligations in respect of all or any of his colonies, protectorates or territories under suzerainty or mandate; and the present Convention shall not apply to any territories named in such declaration.
 
-Indien een zoodanig verzoek, na mededeeling aan de andere Leden van den Volkenbond of Staten niet-Leden, voor wie het Verdrag alsdan van kracht zal zijn, binnen den termijn van een jaar wordt gesteund door ten minste zes van hen, zal de Raad van den Volkenbond beslissen of er reden is te dien einde een Conferentie samen te roepen.
+Any High Contracting Party may give notice to the Secretary-General of the League of Nations at any time subsequently that he desires that the Convention shall apply to all or any of his territories which have been made the subject of a declaration under the preceeding paragraph, and the Convention shall apply to all the territories named in such notice ninety days after its receipt by the Secretary-General of the League of Nations.
 
-##### Artikel 9
+Any High Contracting Party may at any time declare that he desires that the present Convention shall cease to apply to all or any of his colonies, protectorates or territories under suzerainty or mandate and the Convention shall cease to apply to the territories named in such declaration one year after its receipt by the Secretary-General of the League of Nations.
 
-De Hooge Verdragsluitende Partijen kunnen op het oogenblik van onderteekening, bekrachtiging of toetreding verklaren, dat zij door de aanvaarding van dit Verdrag geen verplichting op zich wenschen te nemen ten aanzien van alle of eenige van haar koloniën, protectoraten of gebieden, die onder haar suzereiniteit of mandaat zijn geplaatst; in dat geval zal dit Verdrag niet van toepassing zijn op de gebieden, die in een zoodanige verklaring zijn genoemd.
+##### Article 10
 
-De Hooge Verdragsluitende Partijen kunnen later ten allen tijde ter kennis van den Secretaris-Generaal van den Volkenbond brengen, dat zij wenschen, dat dit Verdrag van toepassing zal zijn op alle of eenige gebieden, die in de verklaring, bedoeld in het voorgaande lid, zijn genoemd. In dat geval zal het Verdrag van toepassing zijn op de gebieden, die in deze mededeeling worden genoemd, negentig dagen na de ontvangst daarvan door den Secretaris-Generaal van den Volkenbond.
-
-Evenzoo kunnen de Hooge Verdragsluitende Partijen ten allen tijde verklaren, dat zij de toepassing van dit Verdrag op alle of eenige van haar koloniën, protectoraten of gebieden, die onder haar suzereiniteit of mandaat zijn geplaatst, wenschen te beëindigen. In dat geval zal het Verdrag ophouden van toepassing te zijn op de gebieden, die in een zoodanige verklaring zijn genoemd, een jaar na de ontvangst daarvan door den Secretaris-Generaal van den Volkenbond.
-
-##### Artikel 10
-
-Dit Verdrag zal door den Secretaris-Generaal van den Volkenbond onmiddellijk bij zijn inwerkingtreding worden geregistreerd.
+The present Convention shall be registered by the Secretary-General of the League of Nations as soon as it comes into force.
 
 IN FAITH WHEREOF the above-mentioned Plenipotentiaries have signed the present Convention.
 

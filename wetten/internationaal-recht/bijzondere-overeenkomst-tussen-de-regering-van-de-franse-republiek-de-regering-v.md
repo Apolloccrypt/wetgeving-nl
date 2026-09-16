@@ -1,57 +1,22 @@
 ---
 title: "Bijzondere Overeenkomst tussen de Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake veiligheidsvraagstukken met betrekking tot de treinen via de vaste kanaalverbinding"
 identifier: "BWBV0006871"
-country: "nl"
-rank: "verdrag"
-publication_date: "2020-07-07"
-last_updated: "2020-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006871"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10005554813"
-version_id: "10006051232"
-internal_id: "C10009797951"
-label_id: "10005538054"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006871/2020-07-07/0"
-intitule_bron: "Trb.2020-68"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-07-08"
-intitule_status: "nogniet"
-original_publication: "Trb.2020-68"
-original_published_date: "2020-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2020-68"
-jci_1_3: "jci1.3:c:BWBV0006871&z=2020-07-07&g=2020-07-07"
-jci_1_0: "1.0:c:BWBV0006871&g=2020-07-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-07-08"
+laatste_update: 2020-07-07
+status: geldig
+toestand: 2020-07-07
+bron: "https://wetten.overheid.nl/BWBV0006871"
+opgehaald: 2026-09-16
 ---
+
 # Bijzondere Overeenkomst tussen de Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake veiligheidsvraagstukken met betrekking tot de treinen via de vaste kanaalverbinding
 
-De Regering van de Franse Republiek,
-
-de Regering van het Koninkrijk België,
-
-de Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
-
-Hierna gezamenlijk te noemen „de Overeenkomstsluitende Partijen” en elk afzonderlijk „een Overeenkomstsluitende Partij”;
-
-Gelet op het Verdrag tussen de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de bouw en de exploitatie door privé-concessionarissen van een vaste kanaalverbinding, ondertekend te Canterbury op 12 februari 1986 (hierna te noemen „het Verdrag van Canterbury van 12 februari 1986”);
-
-Gelet op de Overeenkomst tussen de Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, tot wijziging en aanvulling van de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, met betrekking tot het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding met Protocol, gedaan te Brussel op 15 december 1993, gedaan te Brussel op 7 juli 2020 (hierna te noemen „de Quadripartiete Overeenkomst”) en met name Artikel 3 daarvan, dat Artikel 2, tweede lid, wijzigt;
-
-Gelet op de principes van de Intentieverklaring die is aangenomen door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland op 21 februari 2017 en de Regering van de Franse Republiek op 7 maart 2017.
-
-Zijn het volgende overeengekomen:
+*De Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland Hierna gezamenlijk te noemen „de Overeenkomstsluitende Partijen” en elk afzonderlijk „een Overeenkomstsluitende Partij”; Gelet op het Verdrag tussen de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de bouw en de exploitatie door privé-concessionarissen van een vaste kanaalverbinding, ondertekend te Canterbury op 12 februari 1986 (hierna te noemen „het Verdrag van Canterbury van 12 februari 1986”); Gelet op de Overeenkomst tussen de Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, tot wijziging en aanvulling van de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, met betrekking tot het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding met Protocol, gedaan te Brussel op 15 december 1993, gedaan te Brussel op 7 juli 2020 (hierna te noemen „de Quadripartiete Overeenkomst”) en met name Artikel 3 daarvan, dat Artikel 2, tweede lid, wijzigt; Gelet op de principes van de Intentieverklaring die is aangenomen door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland op 21 februari 2017 en de Regering van de Franse Republiek op 7 maart 2017. Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
-1. „Vaste verbinding”: betekent de vaste kanaalverbinding als bepaald in artikel 1 van het Verdrag van Canterbury van 12 februari 1986.
+1. „Vaste verbinding”: betekent de vaste kanaalverbinding als bepaald in artikel 1 van het Verdrag van Canterbury van 12 februari 1986.
 
 2. „Treinen”: betekent de treinen die tussen het grondgebied van twee of meer Overeenkomstsluitende Partijen rijden via de vaste verbinding, met uitzondering van treinen waarvan de reis in Frankrijk begint of eindigt.
 
@@ -83,7 +48,7 @@ Overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006871&artik
 
 1. De bevoegde autoriteiten van de Overeenkomstsluitende Partijen komen in voorkomend geval bijeen om samenwerking inzake veiligheid te vergemakkelijken.
 
-2. In alle door de Overeenkomstsluitende Partijen getroffen regelingen wordt naar behoren rekening gehouden met de bevoegdheid van de Intergouvernementele Commissie voor de Kanaaltunnel, die is opgericht krachtens het Verdrag van Canterbury van 12 februari 1986, ter uitoefening van het toezicht op de exploitatie van de vaste verbinding, en haar beslissingen.
+2. In alle door de Overeenkomstsluitende Partijen getroffen regelingen wordt naar behoren rekening gehouden met de bevoegdheid van de Intergouvernementele Commissie voor de Kanaaltunnel, die is opgericht krachtens het Verdrag van Canterbury van 12 februari 1986, ter uitoefening van het toezicht op de exploitatie van de vaste verbinding, en haar beslissingen.
 
 ##### Artikel 5
 
@@ -113,7 +78,7 @@ Geschillen met betrekking tot de interpretatie of de toepassing van deze Bijzond
 
 3. Deze Bijzondere Overeenkomst treedt in werking op de eerste dag van de tweede maand die volgt op de datum van de nederlegging van de laatste akte van bekrachtiging, aanvaarding of goedkeuring. De Depositaris stelt de Overeenkomstsluitende Partijen in kennis van de datum van inwerkingtreding van deze Bijzondere Overeenkomst.
 
-4. Bij de inwerkingtreding vervangt deze Bijzondere Overeenkomst de Bijzondere Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, gedaan te Brussel op 15 december 1993.
+4. Bij de inwerkingtreding vervangt deze Bijzondere Overeenkomst de Bijzondere Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, gedaan te Brussel op 15 december 1993.
 
 ##### Artikel 9
 
@@ -141,4 +106,4 @@ Elke Overeenkomstsluitende Partij kan bij ondertekening een verklaring deponeren
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze Bijzondere Overeenkomst hebben ondertekend.
 
-GEDAAN in één enkel exemplaar te Brussel op 7 juli 2020 in de Franse, de Engelse, en de Nederlandse taal, zijnde alle drie teksten gelijkelijk gezaghebbend.
+GEDAAN in één enkel exemplaar te Brussel op 7 juli 2020 in de Franse, de Engelse, en de Nederlandse taal, zijnde alle drie teksten gelijkelijk gezaghebbend.

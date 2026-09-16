@@ -1,188 +1,97 @@
 ---
 title: "Verdrag betreffende de Spitsbergen Archipel, met inbegrip van het Bereneiland"
 identifier: "BWBV0006335"
-country: "nl"
-rank: "verdrag"
-publication_date: "1925-08-14"
-last_updated: "1925-08-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006335"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005177883"
-version_id: "10005555222"
-internal_id: "C10008586071"
-label_id: "10005160994"
-dtd_version: "2.0"
-original_entry_into_force: "1925-08-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006335/1925-08-14/0"
-intitule_bron: "Stb.1925-404"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1925-10-02"
-intitule_published: "1925-10-15"
-intitule_in_force: "1925-10-15"
-intitule_status: "goed"
-original_publication: "Stb.1925-404"
-original_signed_date: "1925-10-02"
-original_published_date: "1925-10-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1925-08-14"
-jci_1_3: "jci1.3:c:BWBV0006335&z=1925-08-14&g=1925-08-14"
-jci_1_0: "1.0:c:BWBV0006335&g=1925-08-14"
-citeertitel_status: "redactioneel"
-signed_date: "1925-10-02"
-entry_into_force: "1925-08-14"
+publicatiedatum: 1925-08-14
+laatste_update: 1925-08-14
+status: geldig
+toestand: 1925-08-14
+bron: "https://wetten.overheid.nl/BWBV0006335"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag betreffende de Spitsbergen Archipel, met inbegrip van het Bereneiland
 
-De President van de Vereenigde Staten van Amerika; Zijne Majesteit de Koning van Groot-Britannië en Ierland en van de Britsche Overzeesche Gebieden, Keizer van Indië; Zijne Majesteit de Koning van Denemarken; de President van de Fransche Republiek; Zijne Majesteit de Koning van Italië; Zijne Majesteit de Keizer van Japan; Zijne Majesteit de Koning van Noorwegen; Hare Majesteit de Koningin der Nederlanden; Zijne Majesteit de Koning van Zweden,
+*The President of the United States of America; His Majesty the King of Great Britain and Ireland and of the British Dominions beyond the Seas, Emperor of India; His Majesty the King of Denmark; the President of the French Republic; His Majesty the King of Italy; His Majesty the Emperor of Japan; His Majesty the King of Norway; Her Majesty the Queen of the Netherlands; His Majesty the King of Sweden, Desirous, while recognising the sovereignty of Norway over the Archipelago of Spitsbergen, including Bear Island, of seeing these territories provided with an equitable régime, in order to assure their development and peaceful utilisation, Have appointed as their respective plenipotentiaries with a view to concluding a treaty to this effect: The President of the United States of America: Mr. Hugh Campbell Wallace, Ambassador Extraordinary and Plenipotentiary of the United States of America at Paris; His Majesty the King of Great Britain and Ireland and of the British Dominions beyond the Seas, Emperor of India: The Right Honourable the Earl of Derby, K. G., G. C. V. O., C. B., His Ambassador Extraordinary and Plenipotentiary at Paris; And for the Dominion of Canada: The Right Honourable Sir George Halsey Perley, K. C. M. G., High Commissioner for Canada in the United Kingdom; for the Commonwealth of Australia: The Right Honourable Andrew Fisher, High Commissioner for Australia in the United Kingdom; for the Dominion of New Zealand: The Right Honourable Sir Thomas MacKenzie, K. C. M. G., High Commissioner for New Zealand in the United Kingdom; for the Union of South Africa: Mr. Reginald Andrew Blankenberg, O. B. E., Acting High Commissioner for South Africa in the United Kingdom; for India: The Right Honourable the Earl of Derby, K. G., G. C. V. O., C. B.; His Majesty the King of Denmark: Mr. Herman Anker Bernhoft, Envoy Extraordinary and Minister Plenipotentiary of H. M. the King of Denmark at Paris; The President of the French Republic: Mr. Alexandre Millerand, President of the Council, Minister for Foreign Affairs; His Majesty the King of Italy: The Honourable Maggiorino Ferraris, Senator of the Kingdom; His Majesty the Emperor of Japan: Mr. K. Matsui, Ambassador Extraordinary and Plenipotentiary of H. M. the Emperor of Japan at Paris; His Majesty the King of Norway: Baron Wedel Jarlsberg, Envoy Extraordinary and Minister Plenipotentiary of H. M. the King of Norway at Paris; Her Majesty the Queen of the Netherlands: Mr. John Loudon, Envoy Extraordinary and Minister Plenipotentiary of H. M. the Queen of the Netherlands at Paris; His Majesty the King of Sweden: Count J. J. A. Ehrensvärd, Envoy Extraordinary and Minister Plenipotentiary of H. M. the King of Sweden at Paris; Who, having communicated their full powers, found in good and due form, have agreed as follows:*
 
-wenschende, om onder erkenning van de souvereiniteit van Noorwegen over den Spitsbergen-Archipel, met inbegrip van het Beereneiland, deze gebieden te voorzien van een rechtvaardig bestuur ten einde hun ontwikkeling en vreedzame exploitatie te verzekeren.
+##### Article 1
 
-Hebben tot Hunne respectievelijke gevolmachtigden benoemd om te dien einde een verdrag te sluiten:
+The High Contracting Parties undertake to recognise, subject to the stipulations of the present treaty, the full and absolute sovereignty of Norway over the Archipelago of Spitsbergen, comprising, with Bear Island or Beeren-Eiland, all the islands situated between 10° and 35° longitude East of Greenwich and between 74° and 81° latitude North, especially West Spitsbergen, North - East Land, Barents Island, Edge Island, Wiche Islands, Hope Island or Hopen-Eiland, and Prince Charles Foreland, together with all islands great or small and rocks appertaining thereto (see annexed map1)Not reproduced.).
 
-De President van de Vereenigde Staten van Amerika:
+##### Article 2
 
-den heer Hugh Campbell Wallace, Buitengewoon en Gevolmachtigd Ambassadeur van de Vereenigde Staten van Amerika te Parijs;
+Ships and nationals of all the High Contracting Parties shall enjoy equally the rights of fishing and hunting in the territories specified in Article 1 and in their territorial waters.
 
-Zijne Majesteit de Koning van Groot-Britannië en Ierland en van de Britsche Overzeesche Gebieden, Keizer van Indië:
+Norway shall be free to maintain, take or decree suitable measures to ensure the preservation and, if necessary, the re-constitution of the fauna and flora of the said regions, and their territorial waters; it being clearly understood that these measures shall always be applicable equally to the nationals of all the High Contracting Parties without any exemption, privilege or favour whatsoever, direct or indirect to the advantage of any one of them.
 
-The Right Honourable the Earl of Derby, K.G., G.C.V.O., C.B., Hoogstdeszelfs Buitengewoon en Gevolmachtigd Ambassadeur te Parijs;
+Occupiers of land whose rights have been recognised in accordance with the terms of articles 6 and 7 wil enjoy the exclusive of hunting on their own land: (1) in the neighbourhood of their habitations, houses, stores, factories and installations, constructed for the purpose of developing their property, under conditions laid down by the local police regulations; (2) within a radius of 10 kilometres round the headquarters of their place of business or works; and in both cases, subject always to the observance of regulations made by the Norwegian Government in accordance with the conditions laid down in the present article.
 
-en
+##### Article 3
 
-voor het Overzeesche Gebied Canada:
+The nationals of all the High Contracting Parties shall have equal liberty of access and entry for any reason or object whatever to the waters, fjords and ports of the territories specified in article 1; subject to the observance of local laws and regulations, they may carry on there without impediment all maritime, industrial, mining and commercial operations on a footing of absolute equality.
 
-The Right Honourable Sir George Halsey Perley, K. C. M. G., Hoogen Commissaris voor Canada in het Vereenigd Koninkrijk;
+They shall be admitted under the same conditions of equality to the exercise and practice of all maritime, industrial, mining or commercial enterprises both on land and in the territorial waters, and no monopoly shall be established on any account or for any enterprise whatever.
 
-voor het Gemeentebest Australië:
+Nothwithstanding any rules relating to coasting trade which may be in force in Norway, ships of the High Contracting Parties going to or coming from the territories specified in article I shall have the right to put into Norwegian ports on their outward or homeward voyage for the purpose of taking on board or disembarking passengers or cargo going to or coming from the said territories, or for any other purpose.
 
-The Right Honourable Andrew Fisher, Hoogen Commissaris voor Australië in het Vereenigd Koninkrijk;
+It is agreed that in every respect and especially with regard to exports, imports and transit traffic, the nationals of all the High Contracting Parties, their ships and goods shall not be subject to any charges or restrictions whatever which are not borne by the nationals, ships or goods which enjoy in Norway the treatment of the most favoured nation; Norwegian nationals, ships or goods being for this purpose assimilated to those of the other High Contracting Parties, and not treated more favourably in any respect.
 
-voor het Overzeesche Gebied Nieuw-Zeeland:
+No charge or restriction shall be imposed on the exportation of any goods to the territories of any of the Contracting Powers other or more onerous than on the exportation of similar goods to the territory of any other Contracting Power (including Norway) or to any other destination.
 
-The Right Honourable Sir Thomas MacKenzie, K. C. M. G., Hoogen Commissaris voor Nieuw-Zeeland in het Vereenigd Koninkrijk;
+##### Article 4
 
-voor de Unie van Zuid-Afrika:
+All public wireless telegraphy stations established or to be established by, or with the authorisation of, the Norwegian Government within the territories referred to in article I shall always be open on a footing of absolute equality to communications from ships of all flags and from nationals of the High Contracting Parties, under the conditions laid down in the Wireless Telegraphy Convention of July 5, 1912, or in the subsequent International Convention which may be concluded to replace it.
 
-den heer Reginald Andrew Blankenberg, O. B. E., waarnemend Hoogen Commissaris voor Zuid-Afrika in het Vereenigd Koninkrijk;
+Subject to international obligations arising out of a state of war, owners of landed property shall always be at liberty to establish and use for their own purposes wireless telegraphy installations, which shall be free to communicate on private business with fixed or moving wireless stations, including those on board ships and aircraft.
 
-voor Indië:
+##### Article 5
 
-The Right Honourable the Earl of Derby, K. G., G. C. V. O., C. B.;
+The High Contracting Parties recognise the utility of establishing an international meteorological station in the territories specified in article I, the organisation of which shall form the subject of a subsequent Convention.
 
-Zijne Majesteit de Koning van Denemarken:
+Conventions shall also be concluded laying down the conditions under which scientific investigations may be conducted in the said territories.
 
-den heer Herman Anker Bernhoft, Buitengewoon Gezant en Gevolmachtigd Minister van Zijne Majesteit den Koning van Denemarken te Parijs;
+##### Article 6
 
-de President van de Fransche Republiek:
+Subject to the provisions of the present article, acquired rights of nationals of the High Contracting Parties shall be recognised.
 
-den heer Alexandre Millerand, President van den Raad van Ministers, Minister van Buitenlandsche Zaken;
+Claims arising from taking possession or from occupation of land before the signature of the present treaty shall be dealt with in accordance with the Annex hereto, which will have the same force and effect as the present treaty.
 
-Zijne Majesteit de Koning van Italië:
+##### Article 7
 
-L'honorable Maggiorino Ferraris, Senator van het Koninkrijk;
+With regard to methods of acquisition, enjoyment and exercise of the right of ownership of property, including mineral rights, in the territories specified in article 1, Norway undertakes to grant to all nationals of the High Contracting Parties treatment based on complete equality and in conformity with the stipulations of the present treaty.
 
-Zijne Majesteit de Keizer van Japan:
+Expropriation may be resorted to only on grounds of public utility and on payment of proper compensation.
 
-den heer K. Matsui, Buitengewoon en Gevolmachtigd Ambassadeur van Zijne Majesteit den Keizer van Japan te Parijs;
+##### Article 8
 
-Zijne Majesteit de Koning van Noorwegen:
+Norway undertakes to provide for the territories specified in article 1 mining regulations which, especially from the point of view of imposts, taxes or charges of any kind, and of general or particular labour conditions, shall exclude all privileges, monopolies of favours for the benefit of the State or of the nationals of any one of the High Contracting Parties, including Norway, and shall guarantee to the paid staff of all categories the remuneration and protection necessary for their physical, moral and intellectual welfare.
 
-Baron Wedel Jarlsberg, Buitengewoon Gezant en Gevolmachtigd Minister van Zijne Majesteit den Koning van Noorwegen te Parijs;
+Taxes, dues and duties levied shall be devoted exclusively to the said territories and shall not exceed what is required for the object in view.
 
-Hare Majesteit de Koningin der Nederlanden:
+So far, particularly, as the exportation of minerals is concerned, the Norwegian Government shall have the right to levy an export duty which shall not exceed 1 % of the maximum value of the minerals exported up to 100,000 tons, and beyond that quantity the duty will be proportionately diminished. The value shall be fixed at the end of the navigation season by calculating the average free on board price obtained.
 
-Jonkheer John Loudon, Buitengewoon Gezant en Gevolmachtigd Minister van Hare Majesteit de Koningin der Nederlanden te Parijs;
+Three months before the date fixed for their coming into force, the draft mining regulations shall be communicated by the Norwegian Government to the other Contracting Powers. If during this period one or more of the said Powers propose to modify these regulations before they are applied, such proposals shall be communicated by the Norwegian Government to the other Contracting Powers in order that they may be submitted to examination and the decision of a Commission composed of one representative of each of the said Powers. This Commission shall meet at the invitation of the Norwegian Government and shall come to a decision within a period of three months from the date of its first meeting. Its décisions shall be taken by a majority.
 
-Zijne Majesteit de Koning van Zweden:
+##### Article 9
 
-Graaf J. J. A. Ehrensvärd, Buitengewoon Gezant en Gevolmachtigd Minister van Zijne Majesteit den Koning van Zweden te Parijs;
+Subject to the rights and duties resulting from the admission of Norway to the League of Nations, Norway undertakes not to create nor to allow the establishment of any naval base in the territories specified in article I and not to construct any fortification in the said territories, which may never be used for warlike purposes.
 
-die, na overlegging hunner in goeden en behoorlijken vorm bevonden volmachten, omtrent de volgende bepalingen zijn overeengekomen:
+##### Article 10
 
-##### Artikel 1
+Until the recognition by the High Contracting Parties of a Russian Government shall permit Russia to adhere to the present treaty, Russian nationals and companies shall enjoy the same rights as nationals of the High Contracting Parties.
 
-De Hooge Verdragsluitende Partijen komen overeen, om, met inachtneming van de voorwaarden neergelegd in dit verdrag, de volle en geheele souvereiniteit van Noorwegen te erkennen over den Spitsbergen-Archipel, die te zamen met het Beeren-Eiland alle eilanden omvat welke gelegen zijn tusschen de 10° en 35° O. L. van Greenwich en tusschen 74° en 81° N. B., met name: West-Spitsbergen, Noord-Oost-Land, Barents-eiland, Edge-eiland, de Wiche-eilanden, Hoop-eiland en Prins-Karel-land, te zamen met alle daarbij behoorende eilanden, eilandjes en rotsen. (Zie de bijgevoegde kaart1)Niet afgedrukt.).
+Claims in the territories specified in article 1 which they may have to put forward shall be presented under the conditions laid down in the present treaty (article 6 and Annex) through the intermediary of the Danish Government, who declare their willingness to lend their good offices for this purpose.
 
-##### Artikel 2
+The present treaty, of which the French and English texts are both authentic, shall be ratified.
 
-Schepen en onderdanen van alle Hooge Verdragsluitende Partijen zullen gelijkelijk in het genot worden gesteld van het visch- en jachtrecht in de gebieden aangeduid in artikel 1 en in de territoriale wateren van die gebieden.
+Ratifications shall be deposited at Paris as soon as possible.
 
-Noorwegen zal bevoegd zijn de maatregelen te handhaven, te nemen of uit te vaardigen, geëigend om de instandhouding, en zoo noodig het herstel, van de fauna en de flora in genoemde streken en haar territoriale wateren te verzekeren, met dien verstande, dat deze maatregelen altijd gelijkelijk van toepassing zullen moeten zijn op de onderdanen van alle Hooge Verdragsluitende Partijen, zonder eenige directe of indirecte vrijstelling, voorrecht of gunst, welke ook, ten voordeele van een Harer.
+Powers of which the seat of the Government is outside Europe may confine their action to informing the Government of the French Republic, through their diplomatic representative at Paris, that their ratification has been given, and in this case, they shall transmit the instrument as soon as possible.
 
-Zij, die grond in bezit hebben en wier rechten erkend zijn overeenkomstig de bepalingen van de artikelen 6 en 7, zullen op hun eigen grond het uitsluitend jachtrecht genieten: 1°. in de nabijheid van hun woningen, huizen, magazijnen, fabrieken en installaties aangebracht voor de ontginning van hun eigendom, op de voorwaarden vastgesteld door de plaatselijke politieregelingen; 2°. binnen een kring met een straal van 10 Kilometer getrokken van uit den hoofdzetel van hun ondernemingen of exploitaties, in beide gevallen onder voorbehoud van de nakoming van de regelingen uitgevaardigd door de Noorsche Regeering in overeenstemming met de voorwaarden, neergelegd in dit artikel.
+The present treaty will come into force, in so far as the stipulations of article 8 are concerned, from the date of its ratification by all the signatory Powers; and in all other respects on the same date as the mining regulations provided for in that article.
 
-##### Artikel 3
-
-De onderdanen van alle Hooge Verdragsluitende Partijen zullen gelijkelijk recht van toegang en verblijf hebben, onverschillig wat hiervan de oorzaak of het doel moge zijn, in de wateren, fjorden en havens van de gebieden, aangeduid in artikel 1; met inachtneming van de plaatselijke wetten en regelingen zulen zij aldaar, zonder eenige belemmering, op voet van volkomen gelijkheid, alle maritieme, industrieele, mijnbouwkundige en commercieele werken mogen uitvoeren.
-
-Zij zullen onder dezelfde voorwaarden van gelijkheid worden toegelaten tot de uitoefening en exploitatie van alle maritieme, industrieele, mijnbouwkundige of commercieele ondernemingen, zoowel te land als in de territoriale wateren, en in geen enkel opzicht en voor geen enkele onderneming zal een monopolie worden ingesteld.
-
-Niettegenstaande regelen, die in Noorwegen mochten bestaan met betrekking tot de kustvaart, zullen schepen van de Hooge Verdragsluitende Partijen, welke afkomstig zijn van of bestemd zijn naar de gebieden aangeduid in artikel 1, het recht hebben, zoowel op den heenweg als op den terugweg binnen te loopen in Noorsche havens ten einde reizigers of goederen op te nemen of af te zetten, welke afkomstig zijn van of bestemd zijn voor de genoemde gebieden, of om welke andere reden ook.
-
-Overeengekomen wordt, dat in ieder opzicht, en met name wat betreft den uitvoer, den invoer en den doorvoer, de onderdanen van alle Hooge Verdragsluitende Partijen, hun schepen en hun goederen niet onderworpen zullen zijn aan eenige rechten of beperkingen welke ook, die niet van toepassing zijn op de onderdanen, op de schepen en op de goederen, welke in Noorwegen de behandeling van de meest begunstigde natie genieten; Noorsche onderdanen, hun schepen en hun goederen worden te dien einde gelijkgesteld met die van de andere Hooge Verdragsluitende Partijen en genieten in geen enkel opzicht een gunstiger behandeling.
-
-Voor den uitvoer van goederen, bestemd voor het grondgebied van een der Verdragsluitende Mogendheden, zal geen belasting mogen worden geheven, of beperking worden gesteld, verschillend van of meer bezwarend dan die, welke gelden voor den uitvoer van goederen van dezelfde soort naar het grondgebied van eenige andere Verdragsluitende Mogendheid (met inbegrip van Noorwegen) of naar eenige andere bestemming.
-
-##### Artikel 4
-
-Ieder openbaar station van draadlooze telegrafie, dat door of met de machtiging van de Noorsche Regeering gevestigd is of gevestigd zal worden in de gebieden bedoeld in artikel 1, zal altijd op een voet van volkomen gelijkheid open moeten staan voor berichten van schepen van iedere vlag en van onderdanen van de Hooge Verdragsluitende Partijen, op de voorwaarden, vastgesteld hij het Internationaal Radiotelegraafverdrag van 5 Juli 1912 of bij het internationaal verdrag, dat later gesloten mocht worden ter vervanging van bovengenoemd verdrag.
-
-Onder voorbehoud van de internationale verplichtingen, welke voortvloeien uit een oorlogstoestand, zullen eigenaars van een onroerend goed altijd het recht hebben om ten eigen bate installaties voor draadlooze telegrafie te maken en te gebruiken, welke over particuliere aangelegenheden berichten zullen mogen overbrengen van en naar vaste of verplaatsbare stations, met inbegrip van stations gevestigd op schepen en luchtvaartuigen.
-
-##### Artikel 5
-
-De Hooge Verdragsluitende Partijen erkennen de wenschelijkheid om in de gebieden, aangeduid in artikel 1, een internationaal meteorologisch station te vestigen, waarvan de inrichting in een later verdrag zal worden geregeld.
-
-Eveneens zullen verdragen worden gesloten ter bepaling van de voorwaarden, waarop in de genoemde gebieden wetenschappelijke onderzoekingen zullen mogen worden uitgevoerd.
-
-##### Artikel 6
-
-Onder voorbehoud van de bepalingen van dit artikel zullen verkregen rechten van onderdanen van de Hooge Verdragsluitende Partijen worden erkend.
-
-Omtrent aanspraken gegrond op inbezitneming of bezetting van land op een tijdstip, voorafgaande aan de onderteekening van dit verdrag, zal worden beslist overeenkomstig de hieraan toegevoegde Bijlage, welke dezelfde kracht en werking zal hebben als dit verdrag.
-
-##### Artikel 7
-
-Noorwegen verbindt zich, om in de gebieden, aangeduid in artikel 1, alle onderdanen van de Hooge Verdragsluitende Partijen, wat betreft de wijze van verkrijging, genot en uitoefening van eigendomsrecht, met inbegrip van mijnrechten, te behandelen op voet van volkomen gelijkheid en overeenkomstig de bepalingen van dit verdrag.
-
-Onteigening zal uitsluitend mogen plaats hebben op grond van algemeen nut en tegen betaling van een behoorlijke schadevergoeding.
-
-##### Artikel 8
-
-Noorwegen verbindt zich, om voor de gebieden, aangeduid in artikel 1, een mijnreglement vast te stellen, hetwelk, met name ten aanzien van belastingen, heffingen of rechten van welken aard ook, en ten aanzien van algemeene en bijzondere arbeidsvoorwaarden, alle voorrechten, monopolie's of gunsten ten voordeele van den Staat of ten voordeele van de onderdanen van een der Hooge Verdragsluitende Partijen, met inbegrip van Noorwegen, zal uitsluiten, en hetwelk aan het gesalarieerd personeel van alle categorieën de bezoldiging en de bescherming, noodig voor hun lichamelijk, zedelijk en geestelijk welzijn, zal waarborgen.
-
-Belastingen, heffingen en rechten, die geheven zullen worden, zullen uitsluitend bestemd moeten worden voor de genoemde gebieden en zullen slechts geheven mogen worden in de mate, waarin zij voor hun doel vereischt zijn.
-
-Wat in het bijzonder den uitvoer van ertsen betreft, zal de Noorsche Regeering de bevoegdheid hebben, een uitvoerrecht vast te stellen; dit uitvoerrecht zal echter niet meer mogen bedragen dan 1 percent van de maximum waarde van de uitgevoerde ertsen, wanneer de uitgevoerde hoeveelheid minder is dan 100 000 ton, terwijl, indien de uitvoer deze hoeveelheid te boven gaat, het uitvoerrecht naar evenredigheid zal worden verminderd. De waarde zal worden bepaald aan het einde van het scheepvaart-seizoen, waarbij de gemiddelde prijs van de ertsen vrij aan boord (f.o.b.) tot grondslag zal worden genomen.
-
-Het ontwerp-mijnreglement zal drie maanden vóór den datum vastgesteld voor het inwerking treden ervan door de Noorsche Regeering worden medegedeeld aan de andere Verdragsluitende Partijen. Indien een of meer van genoemde Mogendheden in dit tijdsverloop mochten voorstellen, wijzigingen in dit reglement aan te brengen, alvorens dit zal worden toegepast, zal de Noorsche Regeering deze voorstellen ter kennis van de andere Verdragsluitende Partijen brengen, ten einde de voorstellen te onderwerpen aan het onderzoek en de beslissing van een Commissie, samengesteld uit één vertegenwoordiger van ieder der genoemde Mogendheden. Deze Commissie zal bijeenkomen op uitnoodiging van de Noorsche Regeering en zal binnen een tijdsverloop van drie maanden na haar eerste bijeenkomst een beslissing moeten geven. De beslissingen zullen worden genomen hij meerderheid van stemmen.
-
-##### Artikel 9
-
-Onder voorbehoud van de rechten en verplichtingen, welke voor Noorwegen mochten voortvloeien uit zijn toetreding tot den Volkenbond, verbindt Noorwegen zich om in de gebieden, aangeduid in artikel 1, geen marine-basis te vestigen of toe te laten, dat er een gevestigd wordt en om in de genoemde gebieden, welke nooit voor oorlogsdoeleinden gebruikt zullen mogen worden, geen versterking aan te leggen.
-
-##### Artikel 10
-
-In afwachting, dat de erkenning van een Russische Regeering door de Hooge Verdragsluitende Partijen het Rusland zal mogelijk maken tot dit verdrag toe te treden, zullen de Russische onderdanen en maatschappijen dezelfde rechten genieten als de onderdanen van de Hooge Verdragsluitende Partijen.
-
-Aanspraken, welke zij zouden willen doen gelden in de gebieden, aangeduid in artikel 1, moeten worden geldend gemaakt op de voorwaarden, neergelegd in dit verdrag (artikel 6 en Bijlage), door de tusschenkomst van de Deensche Regeering, die zich bereid verklaart om te dien einde haar goede diensten te verleenen.
-
-Dit verdrag, waarvan de Fransche en Engelsche tekst beide authentiek zijn, zal worden bekrachtigd.
-
-De akten van bekrachtiging zullen zoo spoedig mogelijk te Parijs worden nedergelegd.
-
-Mogendheden, wier Regeering haar zetel heeft buiten Europa, kunnen zich er toe bepalen, om aan de Regeering van de Fransche Republiek door middel van haar diplomatieken vertegenwoordiger te Parijs kennis te geven van haar bekrachtiging en in dat geval moeten zij de akte van bekrachtiging zoo spoedig mogelijk overleggen.
-
-Dit verdrag zal, voorzoover betreft de bepalingen van artikel 8, in werking treden op den datum, waarop het zal zijn bekrachtigd door ieder van de onderteekenende Mogendheden, en in ieder ander opzicht gelijktijdig met het in werking treden van het mijnreglement, bedoeld in genoemd artikel.
-
-Derde Mogendheden zullen door de Regeering van de Fransche Republiek worden uitgenoodigd om toe te treden tot dit verdrag, wanneer het overeenkomstig bovenstaande bepalingen zal zijn bekrachtigd. Deze toetreding zal geschieden door middel van een kennisgeving, gericht tot de Fransche Regeering, die op zich neemt de andere Verdragsluitende Partijen hiervan in kennis te stellen.
-
-#### § 1
-
-#### § 2
-
-#### § 3
+Third Powers will be invited by the Government of the French Republic to adhere to the present treaty duly ratified. This adhesion shall be effected by a communication addressed to the French Government, which will undertake to notify the other Contracting Parties.
 
 In witness whereof the abovenamed plénipotentiaries have signed the present treaty.
 

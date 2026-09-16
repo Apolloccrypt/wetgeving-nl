@@ -1,391 +1,356 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten inzake wederzijdse rechtshulp in strafzaken"
 identifier: "BWBV0006928"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-08-01"
-last_updated: "2023-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006928"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005595413"
-version_id: "10006131852"
-internal_id: "C10010001191"
-label_id: "10005577644"
-dtd_version: "2.0"
-original_entry_into_force: "2023-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006928/2023-08-01/0"
-intitule_bron: "Trb.2021-116"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-09-01"
-intitule_in_force: "2023-07-28"
-intitule_status: "goed"
-original_publication: "Trb.2021-116"
-original_published_date: "2021-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2021-116"
-entry_into_force_date: "2023-08-01"
-jci_1_3: "jci1.3:c:BWBV0006928&z=2023-08-01&g=2023-08-01"
-jci_1_0: "1.0:c:BWBV0006928&g=2023-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-08-01"
+publicatiedatum: 2023-08-01
+laatste_update: 2023-08-01
+status: geldig
+toestand: 2023-08-01
+bron: "https://wetten.overheid.nl/BWBV0006928"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten inzake wederzijdse rechtshulp in strafzaken
 
-Het Koninkrijk der Nederlanden
+*The Kingdom of the Netherlands and The United Arab Emirates hereinafter referred to as “the Parties”, Referring to the international instruments containing provisions on mutual legal assistance in criminal matters in force between the Parties; Desiring to further improve the effectiveness of co-operation between judicial authorities of the Parties in criminal investigations, prosecutions and proceedings; Recognising the particular importance of the financial dimension of cross border crime and the importance of tracing and confiscating proceeds of such crimes; Having due regard for their obligations to respect human rights and the rule of law; Have agreed as follows:*
 
-en
+### CHAPTER I. GENERAL PROVISIONS
 
-de Verenigde Arabische Emiraten
+##### Article 1. Scope of assistance
 
-hierna te noemen „de Partijen”,
+1. The Parties undertake to afford each other, in accordance with the provisions of this Agreement, the widest measure of mutual legal assistance in criminal investigations, prosecutions or proceedings in criminal matters.
 
-Verwijzend naar de internationale instrumenten met bepalingen over wederzijdse rechtshulp in strafzaken die tussen de Partijen van kracht zijn;
+2. Mutual legal assistance is any assistance provided by the Requested Party to the Requesting Party for any criminal proceeding, irrespective whether the assistance is to be provided by a court or by any other judicial authority competent for the investigation or prosecution in criminal matters.
 
-Geleid door de wens de doeltreffendheid van de samenwerking tussen de justitiële autoriteiten van de Partijen op het gebied van strafrechtelijke onderzoeken, vervolgingen en procedures verder te verbeteren;
+3. Mutual legal assistance shall include:
 
-Erkennend het bijzondere belang van de financiële dimensie van grensoverschrijdende criminaliteit en het belang van het opsporen en confisqueren van opbrengsten van deze misdrijven;
+- a) taking evidence or statements from persons;
 
-Met zorgvuldige inachtneming van hun verplichtingen om de mensenrechten en de rechtsstaat te eerbiedigen;
+- b) effecting service of judicial documents;
 
-Zijn het volgende overeengekomen:
+- c) facilitating the voluntary appearance of persons, either in custody or otherwise, to give evidence or assist in criminal investigations, prosecutions or proceedings in the Requesting Party;
 
-### HOOFDSTUK I. ALGEMENE BEPALINGEN
+- d) providing information, evidentiary items and expert reports;
 
-##### Artikel 1. Reikwijdte van de rechtshulp
+- e) examining objects and sites;
 
-1. De Partijen verbinden zich ertoe elkaar, in overeenstemming met de bepalingen van dit Verdrag, in zo ruim mogelijke mate wederzijdse rechtshulp te verlenen bij strafrechtelijke onderzoeken, vervolgingen of procedures in strafzaken.
+- f) providing originals or certified copies of relevant documents and records, including from the government, banks, financial institutions and businesses;
 
-2. Wederzijdse rechtshulp is elke bijstand die de aangezochte Partij aan de verzoekende Partij verleent bij elke strafrechtelijke procedure, ongeacht of de bijstand dient te worden verleend door een rechter of andere gerechtelijke autoriteit die bevoegd is tot onderzoek of vervolging in strafzaken.
+- g) executing requests for search, seizure or freezing;
 
-3. Wederzijdse rechtshulp omvat onder meer:
+- h) identifying or tracing proceeds and/or instrumentalities of crime, property or other objects for evidentiary and confiscation purposes;
 
-- a. het afnemen van getuigenissen of verklaringen van personen;
+- i) locating or identifying persons or items;
 
-- b. het betekenen van gerechtelijke documenten;
+- j) any other assistance deemed necessary by the Requesting Party and consistent with this Agreement as well as with the national law of the Requested Party.
 
-- c. het vergemakkelijken van de vrijwillige verschijning van personen, al dan niet in hechtenis of anderszins, om te getuigen of mee te werken aan een onderzoek, vervolging of gerechtelijke procedure in de verzoekende Partij;
+4. This Agreement applies solely to the provision of mutual legal assistance between the Parties. It shall not create any right on the part of any private or legal person, to obtain, suppress or exclude any evidence or to impede execution of any request of assistance.
 
-- d. het verschaffen van informatie, bewijsstukken en beoordelingen door deskundigen;
+##### Article 2. Exchange of information
 
-- e. het onderzoeken van objecten en terreinen;
+The Parties may exchange information concerning the national laws in force and the judicial practice in their respective countries related to the implementation of this Agreement.
 
-- f. het verstrekken van originelen of gewaarmerkte afschriften van relevante documenten en dossiers, met inbegrip van die van de overheid, banken, financiële instellingen en ondernemingen;
+##### Article 3. Non-application
 
-- g. het uitvoeren van verzoeken om doorzoeking, inbeslagneming of bevriezing;
+1. This Agreement shall not apply to:
 
-- h. het identificeren of opsporen van de opbrengsten en/of hulpmiddelen van misdrijven, goederen of andere objecten ten behoeve van bewijsvoering of confiscatie;
+- a. the arrest or detention of any person with a view to the extradition of that person;
 
-- i. het lokaliseren of identificeren van personen of voorwerpen;
+- b. the enforcement in the Requested Party of criminal judgments imposed in the Requesting Party except to the extent permitted by the national law of the Requested Party;
 
-- j. elke andere bijstand die de verzoekende Partij nodig acht en die verenigbaar is met dit Verdrag en met de nationale wetgeving van de aangezochte Partij.
+- c. the transfer of persons in custody to serve sentences; and
 
-4. Dit Verdrag is uitsluitend van toepassing op het geven van wederzijdse rechtshulp tussen de Partijen. Een natuurlijke of rechtspersoon kan hieraan geen enkel recht ontlenen om bewijs te verkrijgen, te weren of uit te sluiten of de uitvoering van een verzoek om rechtshulp te beletten.
+- d. the transfer of proceedings in criminal matters.
 
-##### Artikel 2. Uitwisseling van informatie
+2. Nothing in this Agreement entitles any Party to undertake in the territory of the other Party the exercise of jurisdiction or the performance of functions that are reserved exclusively for the authorities of that other Party by its national law.
 
-De Partijen kunnen informatie uitwisselen over de nationale wetten die van kracht zijn en de justitiële praktijk in hun onderscheiden landen met betrekking tot de implementatie van dit Verdrag.
+##### Article 4. Central Authorities
 
-##### Artikel 3. Niet-toepassing
+1. The Central Authorities of the Parties shall process requests for mutual legal assistance pursuant to this Agreement.
 
-1. Dit Verdrag is niet van toepassing op:
+2. The Central Authority for the United Arab Emirates is the Ministry of Justice.
 
-- a. de aanhouding of detentie van een persoon met het oog op de uitlevering van die persoon;
+The Central Authority for the Kingdom of the Netherlands is:
 
-- b. de tenuitvoerlegging in de aangezochte Partij van strafvonnissen die in de verzoekende Partij zijn opgelegd tenzij en voor zover toegestaan door de nationale wetgeving van de aangezochte Partij;
+- – for the Netherlands: the Ministry of Justice and Security of the Netherlands;
 
-- c. de overbrenging van personen in hechtenis om een straf te ondergaan; en
+- – for Aruba: the Ministry of Justice of Aruba;
 
-- d. de overdracht van strafvervolging.
+- – for Curaçao: the Ministry of Justice of Curaçao;
 
-2. Niets in dit Verdrag geeft een Partij het recht op het grondgebied van de andere Partij rechtsmacht uit te oefenen of taken uit te voeren die volgens het nationale recht uitsluitend voorbehouden zijn aan de autoriteiten van die andere Partij.
+- – for Sint Maarten: the Ministry of Justice of Sint Maarten.
 
-##### Artikel 4. Centrale autoriteiten
+3. The Parties shall notify each other in writing through diplomatic channels of any change in the authority that is designated as Central Authority.
 
-1. De centrale autoriteiten van de Partijen behandelen verzoeken om wederzijdse rechtshulp overeenkomstig dit Verdrag.
+##### Article 5. Grounds for refusal and conditions for executing a request
 
-2. De centrale autoriteit van de Verenigde Arabische Emiraten is het ministerie van Justitie.
+1. Assistance shall be refused if:
 
-De centrale autoriteit van het Koninkrijk der Nederlanden is:
+- a) the request relates to an offence that is regarded by the Requested Party as a political offence. The following offences shall not be considered as political offences:
 
-- –. voor Nederland: het ministerie van Justitie en Veiligheid van Nederland;
+   - – for the United Arab Emirates; assault against the President of the State or his Deputy, the Head of Government, or any member of their families, or any Member of the Supreme Council or any member of their families;
 
-- –. voor Aruba: het ministerie van Justitie van Aruba;
+   - – for the Kingdom of the Netherlands: assault against the King, or any member of his family;
 
-- –. voor Curaçao: het ministerie van Justitie van Curaçao;
+   - – terrorist offences, terrorist financing offences or any other offence not considered as a political offence under any international treaty to which both Parties are a party;
 
-- –. voor Sint Maarten: het ministerie van Justitie van Sint Maarten.
+- b) the request relates to an offence under military law;
 
-3. De Partijen stellen elkaar langs diplomatieke weg schriftelijk in kennis van elke verandering van de autoriteit die als centrale autoriteit is aangewezen.
+- c) there are substantial grounds for believing that the request for assistance has been made for the purpose of investigating, prosecuting or punishing a person on account of that person’s race, sex, religion, nationality or political opinions, or that the request for assistance will result in that person being prejudiced for any of those reasons;
 
-##### Artikel 5. Weigeringsgronden en voorwaarden voor het uitvoeren van een verzoek
+- d) the provision of the assistance would impair the sovereignty, security, public order or other essential interests of the state of the Requested Party.
 
-1. Rechtshulp wordt geweigerd indien:
+2. Assistance may be refused if:
 
-- a. het verzoek betrekking heeft op een strafbaar feit dat door de aangezochte Partij beschouwd wordt als een politiek delict. De volgende strafbare feiten worden niet als politieke delicten beschouwd:
+- a) the act or omission alleged to constitute the offence to which the request relates, would not, if it had taken place within the jurisdiction of the Requested Party, have constituted an offence;
 
-- –. voor de Verenigde Arabische Emiraten: een aanslag gericht tegen de President van de Staat of zijn plaatsvervanger, de regeringsleider, of elk lid van hun gezin, of elk lid van de Opperste Raad of elk lid van hun gezin;
+- b) the request relates to an offence which is subject to investigation, prosecution or proceeding in the Requested Party under its own jurisdiction;
 
-- –. voor het Koninkrijk der Nederlanden: een aanslag gericht tegen de Koning of elk lid van zijn gezin;
+- c) the execution of the request would be contrary to the principle of *ne bis in idem*.
 
-- –. terroristische misdrijven, financiering van terrorisme of elk ander strafbaar feit dat niet als een politiek delict wordt beschouwd ingevolge elk internationaal verdrag waar beide Partijen Partij bij zijn;
+3. Assistance shall not be refused:
 
-- b. het verzoek betrekking heeft op een strafbaar feit krachtens het militair recht;
+- a) solely on the ground of secrecy of banks and institutions providing financial services; or
 
-- c. er ernstige redenen zijn om aan te nemen dat het verzoek om rechtshulp is gedaan met de bedoeling een persoon te onderzoeken, te vervolgen of te straffen op grond van zijn ras, geslacht, godsdienst, nationaliteit of politieke overtuiging of dat inwilliging van het verzoek de positie van die persoon om een van deze redenen ongunstig zou kunnen beïnvloeden;
+- b) where the request relates to criminal offences involving duties, taxes or customs, on the grounds that the evasion of duties, taxes or customs is not a criminal offence in the Requested Party or on the grounds that no equivalent duties, taxes or customs are imposed there.
 
-- d. het verlenen van rechtshulp de soevereiniteit, veiligheid, openbare orde of andere wezenlijke belangen van de staat van de aangezochte Partij zou schaden.
+4. Before refusing a request for assistance the Central Authority of the Requested Party shall consult with the Central Authority of the Requesting Party whether assistance may be provided subject to a guarantee that the death penalty or corporal punishment will not be imposed and if imposed, will not be carried out, or such other guarantees and conditions as the competent authority concerned deems necessary.
 
-2. Rechtshulp kan worden geweigerd indien:
+5. If the Requested Party refuses assistance, it shall promptly inform the Requesting Party thereof as well as the reasons for the refusal.
 
-- a. het handelen of nalaten dat het vermeende strafbare feit zou opleveren waarop het verzoek betrekking heeft, geen strafbaar feit zou hebben opgeleverd indien het zou hebben plaatsgevonden binnen de rechtsmacht van de aangezochte Partij;
+##### Article 6. Confidentiality and limitation on use
 
-- b. het verzoek betrekking heeft op een strafbaar feit dat is onderworpen aan onderzoek, vervolging of een procedure onder de eigen rechtsmacht van de aangezochte Partij;
+1. The Requested Party shall guarantee the confidentiality of the facts and the substance of the request, except to the extent necessary to execute the request. If the Requested Party cannot comply with the requirement of confidentiality, it shall notify the Requesting Party. If duly notified, the Requesting Party may decide either to maintain or to withdraw the request.
 
-- c. de uitvoering van het verzoek zou indruisen tegen het beginsel van **ne bis in idem**.
+2. Each Party shall take the necessary measures to ensure that any entity whose co-operation is necessary for executing a request, does not disclose to anyone that information has been transmitted to the Requesting Party pursuant to this Agreement or that an investigation is being carried out.
 
-3. Rechtshulp wordt niet geweigerd:
+3. The Requesting Party shall use information or evidence, obtained under this Agreement, for the investigation, prosecution and proceedings to which the request relates and in accordance with conditions that have been imposed in a particular case on the use of such information or materials. The Requesting Party shall not use the information or evidence obtained for purposes other than those stated in the request without the prior consent of the Requested Party.
 
-- a. uitsluitend op grond van de geheimhoudingsplicht van banken en instellingen die financiële diensten verlenen; of
+##### Article 7. Data protection
 
-- b. wanneer het verzoek betrekking heeft op strafbare feiten die te maken hebben met heffingen, belastingen of douanerechten, op grond van het feit dat het ontduiken van heffingen, belastingen of douanerechten geen strafbaar feit vormt in de aangezochte Partij of op grond van het feit dat er daar geen soortgelijke heffingen, belastingen of douanerechten worden opgelegd.
+1. For the purpose of this Article *data* shall mean: all information relating to an identified or identifiable natural person.
 
-4. Alvorens een verzoek om rechtshulp te weigeren overlegt de centrale autoriteit van de aangezochte Partij met de centrale autoriteit van de verzoekende Partij of de rechtshulp kan worden verleend onder de garantie dat de doodstraf of lijfstraf niet worden opgelegd, of, indien deze wel worden opgelegd, dat zij niet ten uitvoer worden gebracht, dan wel met andere garanties en voorwaarden die de betrokken bevoegde autoriteit nodig acht.
+2. The Parties shall ensure that the data transferred from one Party to another shall be used only for the purpose of executing a request, pursuant to this Agreement. No data shall be used for any other purpose, or transferred to any third country without prior approval of the Party which transferred the data.
 
-5. Indien de aangezochte Partij rechtshulp weigert, stelt zij de verzoekende Partij daarvan onverwijld op de hoogte alsmede van de redenen voor de weigering.
+3. The Parties shall ensure the accuracy of personal data transferred pursuant to this Agreement and they shall ensure that appropriate measures shall be taken in order to protect the transmitted data against accidental or unauthorised destruction or accidental loss as well as against unauthorised access, alteration or dissemination.
 
-##### Artikel 6. Geheimhouding en beperking van gebruik
+4. The Parties shall consult each other on the desired time limits for storage, the necessity of any prolonged storage needed, as well as the need to rectify inaccurate, incomplete or unreliable data or the desire or need to erase data or to restrict the use of data.
 
-1. De aangezochte Partij garandeert de geheimhouding van de feiten en de inhoud van het verzoek, behalve voor zover bekendmaking nodig is voor de uitvoering van het verzoek. Indien de aangezochte Partij niet kan voldoen aan het vereiste van geheimhouding, stelt zij de verzoekende Partij daarvan op de hoogte. Indien zij op de juiste wijze in kennis is gesteld, kan de verzoekende Partij besluiten het verzoek te handhaven of in te trekken.
+5. To the extent regulated by the national law of the Parties, the data subject may be provided with information on the categories of data transferred and the purpose of the data transfer. The Party concerned may not inform the data subject if this is necessary to avoid obstructing official or legal enquiries, criminal or administrative investigations, prosecutions or the execution of criminal penalties, to protect public security, to protect national security, or to protect the rights and freedoms of others.
 
-2. Elke Partij neemt de maatregelen die noodzakelijk zijn om te waarborgen dat een entiteit waarvan de medewerking nodig is voor de uitvoering van een verzoek, de informatie die ingevolge dit Verdrag naar de verzoekende Partij is gezonden of het feit dat er een onderzoek wordt uitgevoerd, niet aan een ander bekendmaakt.
+6. Parties shall consult each other if a judicial competent authority, pursuant to national law, makes any determination on the admissibility of the transfer of any data from one Party to another, pursuant to this Agreement.
 
-3. De verzoekende Partij gebruikt de ingevolge dit Verdrag verkregen informatie of bewijsmateriaal voor het onderzoek, de vervolging en de berechting waarop het verzoek betrekking heeft en in overeenstemming met de voorwaarden die in een bepaald geval zijn gesteld het gebruik van deze informatie of materialen. De verzoekende Partij gebruikt geen informatie of bewijsmateriaal voor doelen anders dan vermeld in het verzoek zonder voorafgaande toestemming van de aangezochte Partij.
+##### Article 8. Expenses
 
-##### Artikel 7. Bescherming van gegevens
+1. The Requested Party shall bear the costs of executing the request for assistance, except that the Requesting Party shall bear:
 
-1. Voor de toepassing van dit artikel wordt onder **gegevens** verstaan: alle informatie betreffende een geïdentificeerde of identificeerbare natuurlijke persoon.
+- a) the expenses associated with the transfer of a person in custody to or from the territory of the Requested Party, including expenses for the required work of accompanying personnel, as well as compensation or costs to be paid to the person transferred in connection with the execution of the request;
 
-2. De Partijen waarborgen dat de gegevens die van de ene Partij naar de andere Partij worden doorgegeven uitsluitend gebruikt worden ten behoeve van de uitvoering van een verzoek ingevolge dit Verdrag. Gegevens worden niet voor enig ander doel gebruikt en niet aan een derde land doorgegeven zonder de voorafgaande toestemming van de Partij die de gegevens heeft doorgegeven.
+- b) the allowances and the travel expenses for witnesses and experts who travel upon summons to the Requesting Party.
 
-3. De Partijen waarborgen de juistheid van de ingevolge dit Verdrag verzonden persoonsgegevens en waarborgen tevens dat er passende maatregelen genomen worden om de doorgegeven gegevens te beschermen tegen onbedoelde of ongeoorloofde vernietiging of onbedoeld verlies alsmede tegen ongeoorloofde toegang, wijziging of verspreiding.
+2. If it becomes apparent that the execution of the request requires expenses of an extraordinary nature, the Central Authorities shall consult to determine the terms and conditions under which the requested assistance can be provided.
 
-4. De Partijen raadplegen elkaar over de gewenste bewaartermijnen, de noodzaak van langere bewaring, alsmede de noodzaak onjuiste, onvolledige of onbetrouwbare gegevens te rectificeren of de wens of noodzaak gegevens te wissen of het gebruik van gegevens te beperken.
+### CHAPTER II. SPECIFIC TYPES OF ASSISTANCE
 
-5. Voor zover dat in de nationale wetgeving van de Partijen is geregeld, kan de betrokkene voorzien worden van informatie over de categorieën gegevens die zijn doorgegeven en het doel van de doorgifte van gegevens. De betreffende Partij kan ervan afzien de betrokkene in kennis te stellen indien dit noodzakelijk is om obstructie van officiële of gerechtelijke informatieverzoeken, strafrechtelijke of bestuursrechtelijke onderzoeken, vervolgingen of de tenuitvoerlegging van straffen te voorkomen, de openbare veiligheid en de nationale veiligheid te beschermen of de rechten en vrijheden van anderen te beschermen.
+##### Article 9. Service of documents
 
-6. De Partijen raadplegen elkaar indien een bevoegde gerechtelijke autoriteit, ingevolge nationale wetgeving, een besluit neemt over de toelaatbaarheid van het doorgeven van gegevens van de ene Partij naar de andere Partij, ingevolge dit Verdrag.
+1. The Requested Party shall, in accordance with its national law, carry out requests for the service of documents in respect of a criminal matter.
 
-##### Artikel 8. Kosten
+2. A request for service of summons requiring the appearance of persons, including witnesses, victims, accused persons, defendants in criminal proceedings and experts, in the Requesting Party shall be made to the Requested Party within a reasonable time before the scheduled appearance.
 
-1. De aangezochte Partij draagt de kosten van het uitvoeren van het verzoek om rechtshulp, met uitzondering van de volgende door de verzoekende Partij te dragen kosten:
+3. The Requested Party, after having effected service, shall provide the Requesting Party with an attestation of proof of service bearing the signature or stamp of the authority that effected service, and indicating the date, time, place and modalities of delivery, as well as the person to which the documents have been delivered. If service is not effected, the Requested State shall inform the Requesting State promptly and communicate the reasons of failure to serve.
 
-- a. de uitgaven gedaan in verband met de overbrenging van een persoon in hechtenis naar of vanuit het grondgebied van de aangezochte Partij, met inbegrip van de uitgaven voor het benodigde werk door begeleidend personeel, alsmede compensatie of kosten die aan de overgebrachte persoon dienen te worden betaald in verband met het uitvoeren van het verzoek;
+##### Article 10. Availability of persons to give evidence or assistance in investigations
 
-- b. de toelagen en reiskosten van getuigen en deskundigen die door de verzoekende Partij zijn opgeroepen.
+1. The Requesting Party may request the assistance of the Requested Party in inviting a person, not being a person to whom [Article 13](https://wetten.overheid.nl/BWBV0006928) of this Agreement applies, to give evidence or provide assistance in the Requesting Party. The Requesting Party shall undertake to make satisfactory arrangements for the safety of such a person.
 
-2. Indien blijkt dat met de uitvoering van het verzoek kosten van buitengewone aard zijn gemoeid, plegen de centrale autoriteiten overleg om de voorwaarden vast te stellen waaronder de verzochte rechtshulp kan worden verleend.
+2. The Requested Party shall invite the person and promptly inform the Requesting Party of the person’s response. If the person consents, the Requested Party shall take all necessary steps to facilitate the request. If the person does not consent he or she shall not by reason thereof be liable to any penalty or coercive measure pursuant to the national law of the Requesting Party or the Requested Party.
 
-### HOOFDSTUK II. SPECIFIEKE VORMEN VAN RECHTSHULP
+##### Article 11. Hearing persons in the territory of the Requested Party
 
-##### Artikel 9. Betekenen van documenten
+1. The Requested Party, in compliance with its national law, shall take statements from witnesses, victims, suspects and defendants, experts or other persons, and shall also obtain records, documents and any other evidence indicated in the request for legal assistance, and shall transmit them to the Requesting Party.
 
-1. De aangezochte Partij voert, in overeenstemming met haar nationale wetgeving, verzoeken tot het betekenen van documenten in verband met een strafzaak uit.
+2. A person from whom evidence is to be taken in the Requested Party pursuant to a request under this Article may decline to give evidence or statements where the national law of the Requested Party or that of the Requesting Party so provides.
 
-2. Een verzoek tot het betekenen van een document waarmee personen worden opgeroepen te verschijnen in de verzoekende Partij, waaronder getuigen, slachtoffers, beschuldigde personen, verdachten in een strafrechtelijke procedure en deskundigen, wordt aan de aangezochte Partij overgebracht binnen een redelijke termijn voor de datum waarop de persoon dient te verschijnen.
+3. If any person in the Requested Party claims that there is a right or obligation to decline to give evidence under the national law of the Requesting Party, the Requesting Party shall, upon request, provide a statement to the Requested Party as to the existence of that right. In the absence of evidence to the contrary, the statement shall be sufficient evidence of the matters stated in it.
 
-3. De aangezochte Partij voorziet de verzoekende Partij, nadat de betekening heeft plaatsgevonden, van een bewijs van betekening voorzien van de handtekening of het stempel van de autoriteit die het document heeft betekend, onder vermelding van de datum, tijd, plaats en wijze van aflevering alsmede de persoon aan wie de documenten zijn afgegeven. Indien de betekening niet heeft plaatsgevonden stelt de aangezochte Partij de verzoekende Partij onverwijld daarvan in kennis onder vermelding van de redenen hiervoor.
+4. For the purposes of this Article, the taking of evidence includes the production of documents or other material.
 
-##### Artikel 10. Beschikbaarheid van personen om te getuigen of mee te werken aan een onderzoek
+5. In accordance with the national law of the Requested Party, officials of the Requesting Party and other persons concerned with the proceedings in the Requesting Party may be permitted to be present when evidence is taken in the territory of the Requested Party and to participate in the taking of such evidence in a manner that may be specified by the Requested Party. The persons present at the execution of a request may be permitted to propose such questions to the authorities of the Requested Party as permitted under the national law of the Requesting Party.
 
-1. De verzoekende Partij kan de aangezochte Partij om hulp vragen bij het uitnodigen van een persoon, niet zijnde een persoon op wie [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=13&z=2023-08-01&g=2023-08-01) van dit Verdrag van toepassing is, om te getuigen of mee te werken aan een onderzoek in de verzoekende Partij. De verzoekende Partij verplicht zich ertoe passende voorzieningen te treffen voor de veiligheid van een dergelijke persoon.
+##### Article 12. Transfer of persons in custody for giving evidence or assisting in investigations
 
-2. De aangezochte Partij nodigt de persoon uit en stelt de verzoekende Partij onverwijld in kennis van zijn antwoord. Indien de persoon instemt met het verzoek, neemt de aangezochte Partij alle noodzakelijke stappen om het verzoek te faciliteren. Indien de persoon niet instemt, wordt hij of zij om die reden niet onderworpen aan een straf of dwangmaatregel ingevolge de nationale wetgeving van de verzoekende Partij of aangezochte Partij.
+1. When videoconference is not possible or not considered appropriate, a person in custody in the Requested Party may, at the request of the Requesting Party, be temporarily transferred to the territory of that Party to give evidence or to assist in criminal proceedings in that Party.
 
-##### Artikel 11. Verhoor van personen op het grondgebied van de aangezochte Partij
+2. The Requested Party shall transfer a person in custody to the Requesting Party only if:
 
-1. De aangezochte Partij neemt, in overeenstemming met haar nationale wetgeving, verklaringen af van getuigen, slachtoffers, verdachten en aangeklaagden, deskundigen of andere personen, en verzamelt dossiers, documenten en enig ander bewijsmateriaal dat in het verzoek om rechtshulp is aangegeven en zendt deze naar de verzoekende Partij.
+- a) the person freely consents to the transfer;
 
-2. Een persoon die in de aangezochte Partij een getuigenis dient af te leggen ingevolge een verzoek uit hoofde van dit artikel, kan weigeren te getuigen of een verklaring af te leggen indien de nationale wetgeving van de aangezochte Partij of van de verzoekende Partij daarin voorziet.
+- b) the Requesting Party agrees to comply with any conditions specified by the Requested Party relating to the custody or security of the person to be transferred;
 
-3. Indien een persoon in de aangezochte Partij beweert dat er krachtens de nationale wet van de verzoekende Partij een recht of verplichting bestaat te weigeren een getuigenis af te leggen, verstrekt de verzoekende Partij op verzoek een verklaring aan de aangezochte Partij ter zake van het bestaan van dat recht. Bij gebrek aan bewijs van het tegendeel, vormt deze verklaring afdoende bewijs van de zaken die erin vermeld staan.
+- c) it does not interfere with investigations or criminal prosecutions that are being carried out in the Requested Party, in which said person has to take part.
 
-4. Ten behoeve van dit artikel wordt onder het afnemen van een getuigenis ook het beschikbaar stellen van documenten of ander materiaal verstaan.
+3. Where the Requested Party advises the Requesting Party that the transferred person is no longer required to be held in custody, that person shall be released and be treated as a person present in the Requesting Party pursuant to a request seeking that person’s attendance.
 
-5. In overeenstemming met de nationale wetgeving van de aangezochte Partij, kunnen functionarissen van de verzoekende Partij en andere personen die betrokken zijn bij het proces in de verzoekende Partij, toestemming krijgen aanwezig te zijn wanneer de getuigenis wordt afgenomen op het grondgebied van de aangezochte Partij en deel te nemen aan het afnemen van deze getuigenissen op een wijze die gespecificeerd kan worden door de aangezochte Partij. De personen die aanwezig zijn bij de uitvoering van een verzoek kunnen toestemming krijgen om de autoriteiten van de aangezochte Partij de vragen te stellen die zijn toegestaan ingevolge de nationale wetgeving van de verzoekende Partij.
+4. The Requesting Party shall return the person transferred in custody to the Requested Party within thirty (30) days, from the date of the person’s presence in the Requesting Party, or any other period of time as may be agreed upon by the Parties.
 
-##### Artikel 12. Overbrengen van personen in hechtenis om te getuigen of mee te werken aan een onderzoek
+5. A person in custody who is transferred shall receive credit for service of the sentence imposed in the Requested Party for the time spent in custody in the Requesting Party.
 
-1. Wanneer het gebruik van videoconferentie niet mogelijk is of niet passend wordt geacht, kan een persoon die in de aangezochte Partij in hechtenis zit, op verzoek van de verzoekende Partij tijdelijk naar het grondgebied van die Partij worden overgebracht om te getuigen of mee te werken aan een strafrechtelijke procedure in die Partij.
+6. A person in custody who does not give consent as referred to in Paragraph 2(a) of this Article shall not by reason thereof be liable to any penalty or coercive measure pursuant to the national law of the Requesting Party or the Requested Party.
 
-2. De aangezochte Partij brengt een persoon die in hechtenis zit uitsluitend over naar de verzoekende Partij indien:
+##### Article 13. Immunity for witnesses and experts
 
-- a. de persoon vrijwillig toestemming geeft voor de overbrenging;
+1. Without prejudice to the provisions of [Article 10](https://wetten.overheid.nl/BWBV0006928), [11](https://wetten.overheid.nl/BWBV0006928) and [12](https://wetten.overheid.nl/BWBV0006928) of this Agreement, a person, appearing before the judicial authorities of the Requesting Party to give evidence or to assist otherwise in an investigation or a person transferred for that purpose, shall not be prosecuted, detained, punished or subjected to any other restriction of personal liberty in the Requesting Party for any acts or omissions which preceded that person's departure from the Requested Party.
 
-- b. de verzoekende Partij ermee instemt te voldoen aan de voorwaarden die de aangezochte Partij eventueel stelt aan de hechtenis of veiligheid van de over te brengen persoon;
+2. A person referred to in Paragraph 1 of this Article shall not be subjected to civil proceedings which the person could not be subjected if he or she were not in the territory of the Requesting Party.
 
-- c. onderzoeken of strafrechtelijke vervolgingen die in de aangezochte Partij plaatsvinden waaraan de genoemde persoon dient deel te nemen, er niet door worden doorkruist.
+3. A person referred to in Paragraph 1 of this Article shall not be obliged to provide support in criminal proceedings other than those to which the request relates.
 
-3. Wanneer de aangezochte Partij de verzoekende Partij laat weten dat de overgebrachte persoon niet langer in hechtenis hoeft te worden gehouden, wordt deze persoon in vrijheid gesteld en behandeld als een persoon die in de verzoekende Partij aanwezig is ingevolge een verzoek om de aanwezigheid van die persoon.
+4. The protection provided for in Paragraphs 1, 2 and 3 of this Article shall cease to apply if a person, being free to leave the territory of the Requesting Party, has not left within thirty (30) days after receiving official notification that the person's attendance is no longer required or, having left, has voluntarily returned. This period of time shall not include any time during which the person is unable to leave the territory of the Requesting Party for reasons beyond his or her control.
 
-4. De verzoekende Partij zendt de overgebrachte persoon die in hechtenis zit weer terug naar de aangezochte Partij binnen dertig (30) dagen te rekenen vanaf de datum waarop de persoon in de verzoekende Partij aanwezig was, of een andere termijn die de Partijen overeen kunnen komen.
+5. A person who consents to give evidence pursuant to [Article 10](https://wetten.overheid.nl/BWBV0006928) or [12](https://wetten.overheid.nl/BWBV0006928) of this Agreement shall not be subject to prosecution based on his or her testimony as a witness or as an expert, except for perjury or contempt of court.
 
-5. Ten aanzien van de persoon die in hechtenis zit en is overgebracht, wordt de periode die hij of zij in hechtenis heeft doorgebracht in de verzoekende Partij in mindering gebracht op de duur van de vrijheidsstraf die hij of zij in de aangezochte Partij moet ondergaan.
+##### Article 14. Transit of persons in custody
 
-6. Een persoon die in hechtenis zit en niet de in het tweede lid, onderdeel a, bedoelde toestemming geeft, wordt om die reden niet onderworpen aan een straf of dwangmaatregel ingevolge de nationale wetgeving van de verzoekende Partij of aangezochte Partij.
+1. A Party may, subject to its national law, authorize the transit through its territory of a person in custody whose appearance has been requested by the other Party requesting for such transit.
 
-##### Artikel 13. Immuniteit voor getuigen en deskundigen
+2. The Requested Party may, subject to its national law, agree to such a transit and shall have the authority and obligation to make the necessary arrangements for keeping the person in custody during transit.
 
-1. Onverminderd de bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=10&z=2023-08-01&g=2023-08-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=11&z=2023-08-01&g=2023-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=12&z=2023-08-01&g=2023-08-01) van dit Verdrag, wordt een persoon die verschijnt voor de gerechtelijke autoriteiten van de verzoekende Partij om te getuigen of anderszins mee te werken aan een onderzoek of een persoon die voor dat doel wordt overgebracht, niet vervolgd, vastgehouden, gestraft noch aan enige andere beperking van zijn persoonlijke vrijheid onderworpen in de verzoekende Partij wegens handelen of nalaten te handelen voorafgaand aan zijn of haar vertrek uit de aangezochte Partij.
+3. However, a Party may refuse to agree to the transfer of its nationals.
 
-2. Een in het eerste lid van dit artikel bedoelde persoon wordt niet onderworpen aan civiele procedures waaraan de persoon niet zou kunnen worden onderworpen indien hij of zij zich niet op het grondgebied van de verzoekende Partij zou bevinden.
+##### Article 15. Search, freezing and seizure for the purpose of obtaining evidence
 
-3. Een in het eerste lid van dit artikel bedoelde persoon is niet verplicht ondersteuning te bieden bij strafrechtelijke procedures anders dan die waarop het verzoek betrekking heeft.
+1. The Requested Party shall, to the extent permitted by its national law, execute a request for search, freezing and seizure of documents, materials and items, for the purpose of obtaining evidence.
 
-4. De in het eerste, tweede en derde lid van dit artikel verleende bescherming houdt op van toepassing te zijn indien een persoon die vrij is het grondgebied van de verzoekende Partij te verlaten, niet is vertrokken binnen dertig (30) dagen nadat hij of zij officieel in kennis is gesteld dat de aanwezigheid van de persoon niet langer nodig was, of, na vertrokken te zijn, vrijwillig is teruggekeerd. Deze periode omvat niet de tijd waarin de persoon niet in staat is het grondgebied van de verzoekende Partij te verlaten vanwege redenen die buiten zijn of haar macht zijn gelegen.
+2. The Requested Party shall provide such information as may be required by the Requesting Party concerning the result of any search, the place and circumstances of seizure, and the subsequent custody of the material seized.
 
-5. Een persoon die erin toestemt te getuigen ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=10&z=2023-08-01&g=2023-08-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=12&z=2023-08-01&g=2023-08-01) van dit Verdrag, wordt niet onderworpen aan vervolging op basis van zijn of haar verklaring als getuige of deskundige, uitgezonderd in het geval van meineed of belemmering van de rechtsgang.
+3. The Requested Party shall transmit the seized documents or copies thereof, materials and items in a form which may be required, to the Requesting Party unless otherwise agreed with the Central Authority of the Requesting Party. Such transmission of original documents, materials and items shall not affect the legitimate rights of third parties.
 
-##### Artikel 14. Doortocht van personen in hechtenis
+4. Upon request of the Requested Party, the Requesting Party shall return original documents, materials and items provided under this Article when they are no longer needed for the criminal investigation, prosecution or proceeding to which the request relates, unless the Parties agree otherwise.
 
-1. Een Partij kan, met inachtneming van haar nationale wetgeving, de doortocht over haar grondgebied toestaan van een persoon in hechtenis om wiens verschijning verzocht is door de andere Partij die om een dergelijke doortocht verzoekt.
+##### Article 16. Video conference
 
-2. De aangezochte Partij kan, met inachtneming van haar nationale wetgeving, met deze doortocht instemmen en heeft de bevoegdheid en de verplichting de nodige regelingen te treffen om de persoon tijdens de doorvoer in hechtenis te houden.
+1. Where it is in the interest of efficient co-operation the person to be heard as a witness or as an expert by the judicial authorities, pursuant to [Article 11](https://wetten.overheid.nl/BWBV0006928) of this Agreement, the Requesting Party may request that the hearing takes place by means of videoconference, provided it is not contrary to the national law of the Requested Party.
 
-3. Een Partij kan echter weigeren in te stemmen met de overbrenging van zijn onderdanen.
+2. For the purpose of this Agreement, the Parties may agree on the use of live video or all live television links or other appropriate communication facilities in accordance with the national laws and procedures of both Parties if it is expedient and in the interests of justice.
 
-##### Artikel 15. Doorzoeking, bevriezing en inbeslagneming met het oog op het vergaren van bewijsmateriaal
+##### Article 17. Proceeds and instrumentalities of crime
 
-1. De aangezochte Partij voert, voor zover toegestaan door haar nationale wetgeving, een verzoek tot doorzoeking, bevriezing en inbeslagneming van documenten, materialen en voorwerpen uit met het oog op het vergaren van bewijsmateriaal.
+1. For the purpose of this Agreement:
 
-2. De aangezochte Partij verstrekt de informatie die de verzoekende Partij mogelijk nodig heeft met betrekking tot de resultaten van een doorzoeking, de plaats en omstandigheden van inbeslagneming en de daaropvolgende bewaring van het in beslag genomen materiaal.
+- a) *proceeds of crime* shall mean: any economic advantage derived from or obtained, directly or indirectly, from criminal offences, which may consist of any property of any description whether corporeal or incorporeal, movable or immovable, and legal documents or instruments evidencing a title to or interest in such property;
 
-3. De aangezochte Partij zendt de in beslag genomen documenten of afschriften daarvan, materialen en voorwerpen in een vorm die verlangd kan worden, naar de verzoekende Partij, tenzij anderszins is overeengekomen met de centrale autoriteit van de verzoekende Partij. Deze zending van originele documenten, materialen en voorwerpen doet geen afbreuk aan de legitieme rechten van derden.
+- b) *instrumentalities of crime* shall mean: any property, including a bank account, used or intended to be used, in any manner, wholly or in part, to commit a criminal offence or criminal offences.
 
-4. Op verzoek van de aangezochte Partij retourneert de verzoekende Partij de originele documenten, materialen en voorwerpen die ingevolge dit artikel zijn gestuurd wanneer deze niet langer nodig zijn voor het strafrechtelijk onderzoek, de vervolging of procedure waarop het verzoek betrekking heeft, tenzij de Partijen anderszins overeenkomen.
+2. The Requested Party shall, upon request, endeavour to ascertain whether any proceeds and/or instrumentalities of crimes are located within its jurisdiction. The Requesting Party shall notify the Requested Party of the basis of its beliefs that such proceeds and/or instrumentalities of crime may be located in the latter’s jurisdiction.
 
-##### Artikel 16. Videoconferentie
+3. The Requested Party shall notify the Requesting Party of the results of its inquiries. The Requested party shall provide the particulars of one or more bank accounts specified in the request and/or any transactions performed with the account.
 
-1. Wanneer het belang van een efficiënte samenwerking gediend is met het horen van een persoon als getuige of als deskundige door de gerechtelijke autoriteiten, ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=11&z=2023-08-01&g=2023-08-01) van dit Verdrag, kan de verzoekende Partij verzoeken dat het verhoor door middel van videoconferentie plaatsvindt, mits dit niet in strijd is met de nationale wetgeving van de aangezochte Partij.
+4. Where, pursuant to Paragraph 3 of this Article, suspected proceeds and/or instrumentalities of crimes are found, the Requested Party shall take such measures as are permitted by its national law to prevent any dealing in, transfer or disposal of, those suspected proceeds and/or instrumentalities of crimes, pending a final determination in respect of those proceeds by a court of the Requesting Party.
 
-2. Ten behoeve van de uitvoering van dit Verdrag kunnen de Partijen overeenkomen live video- of rechtstreekse televisieverbindingen of andere passende communicatiefaciliteiten in te zetten in overeenstemming met de nationale wetten en procedures van beide Partijen indien dit doelmatig en in het belang van de rechtspleging is.
+5. The Requested Party shall, to the extent its national law permits, give effect to a final order forfeiting or confiscating the proceeds and/or instrumentalities of crimes made by a court of the Requesting Party.
 
-##### Artikel 17. Opbrengsten en hulpmiddelen van misdrijven
+6. In the application of this Article, the rights of any *bona fide* third party shall be respected under the national law of the Requested Party. Where there is a claim from a third party, the Requested Party shall represent the interests of the Requesting Party in seeking to retain the proceeds and/or instrumentalities of crimes until a final determination by a competent court in the Requesting Party.
 
-1. Voor de toepassing van dit Verdrag wordt verstaan onder:
+7. The Requested Party shall return the proceeds and/or instrumentalities of crimes referred to in Paragraph 3 of this Article, or the value of the proceeds and/or instrumentalities, to the Requesting Party, to the extent permitted by its national laws and upon such terms as it deems appropriate.
 
-- a. **opbrengsten van misdrijven**: elk economisch voordeel dat afkomstig is van of, direct of indirect is verkregen door, het plegen van strafbare feiten, dat kan bestaan uit goederen van enigerlei aard, stoffelijk of onstoffelijk, roerend of onroerend, en juridische documenten waaruit rechten op, of andere belangen bij deze goederen blijken;
+### CHAPTER III. PROCEDURAL PROVISIONS
 
-- b. **hulpmiddelen van misdrijven**: alle goederen, waaronder bankrekeningen, die op enigerlei wijze, geheel of gedeeltelijk, zijn gebruikt of zijn bestemd om te worden gebruikt om een of meer strafbare feiten te plegen.
+##### Article 18. Content of requests
 
-2. De aangezochte Partij spant zich in om op verzoek vast te stellen of opbrengsten en/of hulpmiddelen van misdrijven zich binnen haar rechtsmacht bevinden. De verzoekende Partij stelt de aangezochte Partij in kennis van de grondslag van haar overtuiging dat dergelijke opbrengsten en/of hulpmiddelen van misdrijven zich binnen de rechtsmacht van laatstgenoemde Partij zouden kunnen bevinden.
+1. Requests for mutual assistance shall be in writing. The request shall be in the official language of the Requesting Party, accompanied by a translation in the official language of the Requested Party or in the English language.
 
-3. De aangezochte Partij stelt de verzoekende Partij in kennis van de resultaten van haar onderzoek. De aangezochte Partij verstrekt de gegevens van een of meer bankrekeningen genoemd in het verzoek en/of mogelijke transacties met deze rekening.
+2. Requests for assistance for the purposes of this Agreement shall be sent through diplomatic channels. The Central Authorities may communicate directly after the request has been formally transmitted. Each of the Central Authorities may designate a judicial competent authority which may communicate directly, either with the Central Authority of the other Party, or with a judicial competent authority of the other Party on the execution of a request.
 
-4. Wanneer, ingevolge het derde lid van dit artikel, vermeende opbrengsten en/of hulpmiddelen van misdrijven worden aangetroffen, neemt de aangezochte Partij de maatregelen die door haar nationale wetgeving worden toegestaan ter voorkoming van de verhandeling, overdracht of vervreemding van deze vermeende opbrengsten en/of hulpmiddelen van misdrijven, in afwachting van de uiteindelijke beslissing met betrekking tot deze opbrengsten door een rechter van de verzoekende Partij.
+3. In urgent circumstances, the Central Authority of the Requested Party may accept the request by facsimile, e-mail or by any other means capable of producing a written record, in which case it shall be confirmed within thirty (30) days by a formal request through diplomatic channels.
 
-5. De aangezochte Partij voert, voor zover haar nationale wetgeving dit toestaat, het uiteindelijke bevel tot verbeurdverklaring of confiscatie van de opbrengsten en/of hulpmiddelen van misdrijven dat is uitgevaardigd door een rechter van de verzoekende Partij uit.
+4. Requests for assistance shall include the following:
 
-6. Bij de uitvoering van dit artikel worden de rechten van **bona fide** derden gerespecteerd ingevolge de nationale wetgeving van de aangezochte Partij. Wanneer er door een derde een vordering wordt ingediend, vertegenwoordigt de aangezochte Partij de belangen van de verzoekende Partij bij het streven de opbrengsten en/of hulpmiddelen van misdrijven vast te houden totdat een bevoegde rechter in de verzoekende Partij een uiteindelijke beslissing heeft genomen.
+- a) the name of the authority making the request;
 
-7. De aangezochte Partij retourneert de opbrengsten en/of hulpmiddelen van misdrijven bedoeld in het derde lid van dit artikel, of de waarde van de opbrengsten en/of hulpmiddelen, aan de verzoekende Partij, voor zover toegestaan door haar nationale wetgeving en volgens de door haar passend geachte voorwaarden.
+- b) the name of the authority conducting the investigation, prosecution or proceedings to which the request relates;
 
-### HOOFDSTUK III. PROCEDURELE BEPALINGEN
+- c) the subject matter and nature of the investigation, prosecution or proceedings to which the request relates, including a summary of the case and its current status, except in relation to requests for the purpose of the service of judicial documents;
 
-##### Artikel 18. Inhoud van de verzoeken
+- d) a description of the assistance sought and details of any particular procedure that the Requesting Party wishes to be followed;
 
-1. Verzoeken om wederzijdse rechtshulp worden schriftelijk gedaan. Het verzoek dient te worden opgesteld in de officiële taal van de verzoekende Partij, vergezeld van een vertaling in de officiële taal van de aangezochte Partij of in de Engelse taal.
+- e) the purpose for which the evidence, information or assistance is sought;
 
-2. Verzoeken om rechtshulp ten behoeve van de uitvoering van dit Verdrag worden langs diplomatieke weg verzonden. De centrale autoriteiten kunnen rechtstreeks met elkaar communiceren zodra het verzoek formeel is verzonden. Elk van de centrale autoriteiten kan een bevoegde justitiële autoriteit aanwijzen die rechtstreeks kan communiceren met hetzij de centrale autoriteit van de andere Partij, hetzij de bevoegde justitiële autoriteit van de andere Partij over de uitvoering van een verzoek.
+- f) the texts of the statutory provisions to which the case relates, including the maximum penalty of the offences and any limitation periods;
 
-3. In dringende omstandigheden kan de centrale autoriteit van de aangezochte Partij het verzoek per fax, e-mail of ander een middel waarmee een schriftelijk document kan worden geproduceerd aanvaarden, in welk geval het binnen dertig (30) dagen wordt bevestigd door middel van een formeel verzoek langs diplomatieke weg.
+- g) the specification of any time limit within which compliance with the request is desired;
 
-4. Verzoeken om rechtshulp dienen het volgende te bevatten:
+- h) any special requirement for confidentiality and the reasons for it.
 
-- a. de naam van de autoriteit die het verzoek doet;
+5. Requests for assistance shall also, to the extent necessary and if available include:
 
-- b. de naam van de autoriteit die het onderzoek, de vervolging of de procedure waarop het verzoek betrekking heeft, leidt;
+- a) in cases of requests to take evidence from any person: the identity, date of birth, and location of any person from whom evidence is sought, as well as the subject matter on which the person is to be examined, including a list of questions and details of any right of that person to decline to give evidence; if the Requesting Party wishes that witnesses or experts give evidence in the presence of a judicial competent authority or any other person, such request shall be made expressly;
 
-- c. het onderwerp en de aard van het onderzoek, de vervolging of gerechtelijke procedure waarop het verzoek betrekking heeft, met inbegrip van een samenvatting van de zaak en de huidige status, met uitzondering van verzoeken ten behoeve van de betekening van gerechtelijke documenten;
+- b) in cases of requests to serve documents: the identity, date of birth and location of any person to be served, that person’s relationship to the investigation, prosecution or proceedings, and, the manner in which the service is to be made;
 
-- d. een beschrijving van de gewenste rechtshulp en details van de door de verzoekende Partij gewenste specifieke procedure;
+- c) in cases of requests to locate or identify persons: information on the identifying persons, information on the identity and whereabouts of a person to be located or identified;
 
-- e. het doel waartoe het bewijsmateriaal, de gegevens of de rechtshulp worden verlangd;
+- d) in cases of requests to inspect or examine objects: a description of the place or location to be inspected or examined;
 
-- f. de teksten van de wettelijke bepalingen waarop de zaak betrekking heeft, met inbegrip van de maximumstraf die op de strafbare feiten staat en de eventuele verjaringstermijnen;
+- e) in cases of requests to produce evidence: a description of the documents, records or items of evidence to be produced, an indication of the person asked to produce them and the form in which they should be produced and authenticated;
 
-- g. de specificatie van mogelijke termijnen waarbinnen bij voorkeur aan het verzoek dient te zijn voldaan;
+- f) in cases of requests to make a detained person available: the place to which the detained person is to be transferred and the proposed date of that person’s return;
 
-- h. mogelijke bijzondere eisen inzake vertrouwelijkheid en de redenen daarvoor.
+- g) information as to the allowances and expenses which may be reimbursed to the person who is requested to appear in the Requesting Party for the purpose of taking evidence.
 
-5. Verzoeken om rechtshulp omvatten, voor zover nodig en indien beschikbaar het volgende:
+##### Article 19. Additional information
 
-- a. in geval van verzoeken om het afnemen van een getuigenverklaring van een persoon: de identiteit, geboortedatum en verblijfplaats van elke persoon van wie bewijsmateriaal wordt verlangd evenals het onderwerp waarover de persoon zal worden ondervraagd, met inbegrip van een vragenlijst en details over rechten die deze persoon mogelijk heeft om te weigeren te getuigen; indien de verzoekende Partij wenst dat getuigen of deskundigen een getuigenis afleggen ten overstaan van een bevoegde justitiële autoriteit of enige andere persoon, dient dit verzoek expliciet te worden gedaan;
+If the Requested Party considers that the information contained in the request is not sufficient to enable the request to be executed with, the Requested Party may request additional information. The Requesting Party shall supply such additional information as the Requested Party considers necessary to enable the request to be executed.
 
-- b. in geval van verzoeken om documenten te betekenen: de identiteit, geboortedatum en verblijfplaats van een persoon aan wie een stuk dient te worden betekend, de relatie van die persoon tot het onderzoek, de vervolging of de procedure en de wijze waarop de betekening dient te worden verricht;
+##### Article 20. Execution of requests
 
-- c. in geval van verzoeken om personen te lokaliseren of te identificeren: informatie over de identiteit en verblijfplaats van een persoon die gelokaliseerd of geïdentificeerd dient te worden;
+1. Requests for assistance shall be executed promptly by the competent authorities of the Requested Party in accordance with the national law of that Party and, to the extent that national law permits, in the manner requested by the Requesting Party.
 
-- d. in geval van verzoeken om objecten te inspecteren of te onderzoeken: een beschrijving van de plaats of locatie die geïnspecteerd of onderzocht dient te worden;
+2. Provided it is not contrary to its national law, the Requested Party may authorize the persons specified in the request for legal assistance to be present at the execution of the request. To this end, the Requested Party shall promptly inform the Requesting Party of the date and place of execution of the request for assistance. The persons who have been authorized may request the competent authority of the Requested Party to consider the possibility to submit specific questions referred to the assistance procedures.
 
-- e. in geval van verzoeken om bewijsmateriaal te overleggen: een beschrijving van de documenten, dossiers en bewijsstukken die overgelegd dienen te worden, een aanwijzing van de persoon die gevraagd wordt deze te overleggen en de vorm waarin het materiaal dient te worden overgelegd en gewaarmerkt;
+3. The Requested Party shall promptly inform the Requesting Party of circumstances, when they become known to the Requested Party, which are likely to cause a significant delay in the execution of the request.
 
-- f. in geval van verzoeken om een persoon in hechtenis beschikbaar te stellen: de plaats waarnaar de persoon in hechtenis naartoe dient te worden gebracht en de voorgestelde datum van terugkeer van deze persoon;
+4. The Requested Party may postpone the execution of the request if its immediate execution would interfere with any ongoing criminal investigations or related proceedings in the Requested Party. The Requested Party may also postpone the delivery of documents if such documents are required for civil proceedings in that Party, in which case the Requested Party shall, upon request, provide certified copies of those documents.
 
-- g. informatie over de toelagen en uitgaven die vergoed kunnen worden aan de persoon die verzocht wordt in de verzoekende Partij te verschijnen ten behoeve van het opmaken van getuigenissen.
+5. Before postponing the execution of a request, the Requested Party shall consider whether assistance may be granted subject to certain conditions.
 
-##### Artikel 19. Aanvullende informatie
+6. If the Requested Party postpones assistance, it shall promptly inform the Requesting Party of the grounds of postponement and an indication, if possible, of the duration of such postponement.
 
-Indien de aangezochte Partij van mening is dat de informatie vervat in het verzoek onvoldoende is om het verzoek uit te kunnen voeren, kan de aangezochte Partij om aanvullende informatie verzoeken. De verzoekende Partij verstrekt de aanvullende informatie die de aangezochte Partij noodzakelijk acht om het verzoek uit te kunnen voeren.
+### CHAPTER IV. FINAL PROVISIONS
 
-##### Artikel 20. Uitvoering van verzoeken
+##### Article 21. Compatibility with other agreements
 
-1. Verzoeken om rechtshulp worden onverwijld uitgevoerd door de bevoegde autoriteiten van de aangezochte Partij in overeenstemming met de nationale wetgeving van die Partij en, voor zover is toegestaan door de nationale wetgeving, op de wijze die door de verzoekende Partij wordt gevraagd.
+This Agreement shall not affect any existing obligations of the Parties in other agreements, nor prevent the Parties from providing assistance to each other pursuant to other agreements or arrangements.
 
-2. Mits dit niet in strijd is met haar nationale wetgeving kan de aangezochte Partij de in het verzoek om rechtshulp genoemde personen toestaan aanwezig te zijn bij de uitvoering van het verzoek. Hiertoe stelt de aangezochte Partij de verzoekende Partij onverwijld in kennis van de datum en plaats van uitvoering van het verzoek om rechtshulp. De personen die toestemming hebben gekregen kunnen de bevoegde autoriteit van de aangezochte Partij verzoeken de mogelijkheid te overwegen om specifieke vragen in te dienen met betrekking tot de rechtshulpprocedures.
+##### Article 22. Territorial application
 
-3. De aangezochte Partij stelt de verzoekende Partij onverwijld in kennis van omstandigheden, zodra deze bij de aangezochte Partij bekend worden, die waarschijnlijk tot een aanzienlijke vertraging van de uitvoering van het verzoek zullen leiden.
+With regard to the Kingdom of the Netherlands, this Agreement shall apply to the European part of the Netherlands, the Caribbean part of the Netherlands (the islands of Bonaire, Sint Eustatius and Saba), Aruba, Curaçao and Sint Maarten, unless the notification referred to in [Article 24](https://wetten.overheid.nl/BWBV0006928) of this Agreement provides otherwise. In the latter case, the Kingdom of the Netherlands may extend the application of this Agreement at any time to one or more of its constituent parts by notification to the United Arab Emirates through diplomatic channels.
 
-4. De aangezochte Partij kan de uitvoering van het verzoek uitstellen indien de onmiddellijke uitvoering een lopend strafrechtelijk onderzoek of daarmee verband houdende procedures zou doorkruisen. De aangezochte Partij kan ook de levering van documenten uitstellen indien deze documenten vereist zijn voor civiele procedures in die Partij, in welk geval de aangezochte Partij, op verzoek, gewaarmerkte afschriften van deze documenten verstrekt.
+##### Article 23. Consultations
 
-5. Alvorens de uitvoering van een verzoek uit te stellen, overweegt de aangezochte Partij of de rechtshulp kan worden verstrekt onder bepaalde voorwaarden.
+The Parties shall convene whenever they deem it necessary, in order to discuss the application of this Agreement and they may also convene meetings with the competent authorities of the Parties with a view to facilitate the application of this Agreement, in particular with respect to such issues as training, the preparation and use of standard formats, the preparation and execution of specific types of requests or of specific individual requests.
 
-6. Indien de aangezochte Partij de rechtshulp uitstelt, stelt zij de verzoekende Partij onverwijld in kennis van de redenen voor het uitstel en geeft zij, indien mogelijk, een indicatie van de duur van dit uitstel.
+##### Article 24. Entry into force, amendment and termination
 
-### HOOFDSTUK IV. SLOTBEPALINGEN
+1. This Agreement shall enter into force on the first day of the first month after the date of receipt of the final notification in which the Parties inform each other, through diplomatic channels, that they have fulfilled the requirements of their national legislation.
 
-##### Artikel 21. Compatibiliteit met andere verdragen
+2. This Agreement may be amended by mutual consent of the Parties and the amendment shall enter into force in accordance with Paragraph 1 of this Article.
 
-Dit Verdrag doet geen afbreuk aan bestaande verplichtingen van de Partijen ingevolge andere verdragen en vormt ook geen belemmering voor de Partijen voor het verlenen van bijstand aan elkaar uit hoofde van andere verdragen of regelingen.
+3. Either Party may terminate this Agreement by notice in writing through diplomatic channels at any time. Termination shall take effect six (6) months after the date on which the notice is given. However, proceedings already commenced before the notice of termination shall continue to be governed by this Agreement until fully concluded.
 
-##### Artikel 22. Territoriale toepassing
+4. Subject to Paragraph 3 of this Article, the Kingdom of the Netherlands shall be entitled to terminate the application of this Agreement separately in respect of any of the constituent parts of the Kingdom of the Netherlands.
 
-Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het Europese deel van Nederland, het Caribische deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba) alsmede op Aruba, Curaçao en Sint Maarten, tenzij anders bepaald in de kennisgeving bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=IV&artikel=24&z=2023-08-01&g=2023-08-01) van dit Verdrag. In het laatste geval kan het Koninkrijk der Nederlanden de toepassing van dit Verdrag te allen tijde uitbreiden tot een of meer van zijn afzonderlijke delen door middel van een kennisgeving aan de Verenigde Arabische Emiraten langs diplomatieke weg.
-
-##### Artikel 23. Overleg
-
-De Partijen komen wanneer zij dit nodig achten bijeen om de toepassing van dit Verdrag te bespreken en kunnen tevens bijeenkomsten houden met de bevoegde autoriteiten van de Partijen teneinde de toepassing van dit Verdrag te vergemakkelijken, met name wat betreft kwesties als opleiding, het opstellen en gebruiken van standaardformulieren, het opstellen en uitvoeren van specifieke typen verzoeken of specifieke individuele verzoeken.
-
-##### Artikel 24. Inwerkingtreding, wijziging en beëindiging
-
-1. Dit Verdrag treedt in werking op de eerste dag van de eerste maand na de datum van ontvangst van de laatste van de kennisgevingen waarin de Partijen elkaar langs diplomatieke weg mededelen dat aan de vereisten van hun nationale wetgeving is voldaan.
-
-2. Dit Verdrag kan met wederzijdse instemming van beide Partijen worden gewijzigd en de wijzigingen treden in werking in overeenstemming met het eerste lid van dit artikel.
-
-3. Elke Partij kan dit Verdrag te allen tijde beëindigen door daarvan langs diplomatieke weg schriftelijk kennis te geven. De beëindiging wordt van kracht zes (6) maanden na de datum waarop de kennisgeving wordt gedaan. Dit Verdrag blijft echter van toepassing op procedures die al zijn aangevangen vóór de kennisgeving van beëindiging totdat deze volledig zijn afgerond.
-
-4. Met inachtneming van het derde lid van dit artikel is het Koninkrijk der Nederlanden gerechtigd de toepassing van dit Verdrag ten aanzien van elk van de samenstellende delen van het Koninkrijk der Nederlanden afzonderlijk te beëindigen.
-
-5. Dit Verdrag is van toepassing op elk verzoek dat na de inwerkingtreding ervan wordt ingediend, zelfs al zijn de betreffende strafbare feiten begaan vóór de inwerkingtreding van het Verdrag.
+5. This Agreement shall apply to any request submitted after its entry into force, even if the relevant offences were committed before its entry into force.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement.
 
 DONE at Abu Dhabi, on the 29th day of August 2021, in duplicate, in the English, Dutch and Arabic languages, all texts being equally authentic. In the event of any divergence of interpretation of this Agreement, the English text shall prevail.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 F.B.J. GRAPPERHAUS
 
-**For the United Arab Emirates,**
+*For the United Arab Emirates,*
 
 S. AL BADI

@@ -1,466 +1,413 @@
 ---
 title: "Overeenkomst van Parijs"
 identifier: "BWBV0006603"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-08-27"
-last_updated: "2017-08-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006603"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005368093"
-version_id: "10005791812"
-internal_id: "C10009268221"
-label_id: "10005350914"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006603/2017-08-27/0"
-intitule_bron: "Trb.2016-94"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-07-04"
-intitule_in_force: "2017-08-24"
-intitule_status: "goed"
-original_publication: "Trb.2016-94"
-original_published_date: "2016-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2016-94"
-entry_into_force_date: "2017-08-27"
-jci_1_3: "jci1.3:c:BWBV0006603&z=2017-08-27&g=2017-08-27"
-jci_1_0: "1.0:c:BWBV0006603&g=2017-08-27"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-08-27"
+publicatiedatum: 2017-08-27
+laatste_update: 2017-08-27
+status: geldig
+toestand: 2017-08-27
+bron: "https://wetten.overheid.nl/BWBV0006603"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst van Parijs
 
-De Partijen bij deze Overeenkomst,
+*The Parties to this Agreement, Being Parties to the United Nations Framework Convention on Climate Change, hereinafter referred to as “the Convention”, Pursuant to the Durban Platform for Enhanced Action established by decision 1/CP.17 of the Conference of the Parties to the Convention at its seventeenth session, In pursuit of the objective of the Convention, and being guided by its principles, including the principle of equity and common but differentiated responsibilities and respective capabilities, in the light of different national circumstances, Recognizing the need for an effective and progressive response to the urgent threat of climate change on the basis of the best available scientific knowledge, Also recognizing the specific needs and special circumstances of developing country Parties, especially those that are particularly vulnerable to the adverse effects of climate change, as provided for in the Convention, Taking full account of the specific needs and special situations of the least developed countries with regard to funding and transfer of technology, Recognizing that Parties may be affected not only by climate change, but also by the impacts of the measures taken in response to it, Emphasizing the intrinsic relationship that climate change actions, responses and impacts have with equitable access to sustainable development and eradication of poverty, Recognizing the fundamental priority of safeguarding food security and ending hunger, and the particular vulnerabilities of food production systems to the adverse impacts of climate change, Taking into account the imperatives of a just transition of the workforce and the creation of decent work and quality jobs in accordance with nationally defined development priorities, Acknowledging that climate change is a common concern of humankind, Parties should, when taking action to address climate change, respect, promote and consider their respective obligations on human rights, the right to health, the rights of indigenous peoples, local communities, migrants, children, persons with disabilities and people in vulnerable situations and the right to development, as well as gender equality, empowerment of women and intergenerational equity, Recognizing the importance of the conservation and enhancement, as appropriate, of sinks and reservoirs of the greenhouse gases referred to in the Convention, Noting the importance of ensuring the integrity of all ecosystems, including oceans, and the protection of biodiversity, recognized by some cultures as Mother Earth, and noting the importance for some of the concept of “climate justice”, when taking action to address climate change, Affirming the importance of education, training, public awareness, public participation, public access to information and cooperation at all levels on the matters addressed in this Agreement, Recognizing the importance of the engagements of all levels of government and various actors, in accordance with respective national legislations of Parties, in addressing climate change, Also recognizing that sustainable lifestyles and sustainable patterns of consumption and production, with developed country Parties taking the lead, play an important role in addressing climate change, Have agreed as follows:*
 
-Partij zijnde bij het [Raamverdrag van de Verenigde Naties inzake klimaatverandering](onbekend), hierna te noemen „het Verdrag”,
+##### Article 1
 
-Overeenkomstig het Platform van Durban voor versterkte maatregelen dat bij Besluit 1/CP.17 van de zeventiende zitting van de Conferentie van de Partijen bij het [Verdrag](onbekend) is ingesteld,
+For the purpose of this Agreement, the definitions contained in [Article 1 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=1) shall apply. In addition:
 
-Strevende naar het doel van het [Verdrag](onbekend) en geleid door de beginselen ervan, waaronder het beginsel van billijkheid en gezamenlijke, doch verschillende, verantwoordelijkheden en onderscheiden mogelijkheden, in het licht van uiteenlopende nationale omstandigheden,
+- a) “Convention” means the [United Nations Framework Convention on Climate Change](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), adopted in New York on 9 May 1992;
 
-De noodzaak erkennende van een doeltreffende en toenemende reactie op de urgente dreiging van klimaatverandering op basis van de beste beschikbare wetenschappelijke kennis,
+- b) “Conference of the Parties” means the Conference of the Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115);
 
-Tevens erkennende dat rekening dient te worden gehouden met de specifieke behoeften en bijzondere omstandigheden van Partijen die ontwikkelingslanden zijn, met name die welke bijzonder kwetsbaar zijn voor de nadelige gevolgen van klimaatverandering, zoals bepaald in het [Verdrag](onbekend),
+- c) “Party” means a Party to this Agreement.
 
-Ten volle rekening houdende met de specifieke behoeften en bijzondere omstandigheden van de minst ontwikkelde landen wat de financiering en de overdracht van technologie betreft,
+##### Article 2
 
-Erkennende dat Partijen mogelijk niet alleen door klimaatverandering worden getroffen, maar ook door de gevolgen van de maatregelen die als reactie daarop worden genomen,
+1. This Agreement, in enhancing the implementation of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), including its objective, aims to strengthen the global response to the threat of climate change, in the context of sustainable development and efforts to eradicate poverty, including by:
 
-Het intrinsieke verband benadrukkende tussen maatregelen en optreden naar aanleiding van klimaatverandering en de gevolgen ervan enerzijds en de billijke toegang tot duurzame ontwikkeling en uitbanning van armoede anderzijds,
+- a) Holding the increase in the global average temperature to well below 2°C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5°C above pre-industrial levels, recognizing that this would significantly reduce the risks and impacts of climate change;
 
-Erkennende dat het waarborgen van voedselzekerheid en het beëindigen van honger fundamentele prioriteiten zijn en dat voedselproductiesystemen bijzonder kwetsbaar zijn voor de nadelige gevolgen van klimaatverandering,
+- b) Increasing the ability to adapt to the adverse impacts of climate change and foster climate resilience and low greenhouse gas emissions development, in a manner that does not threaten food production; and
 
-Rekening houdende met de noodzaak van een rechtvaardige transitie voor de beroepsbevolking en van het scheppen van fatsoenlijk werk en hoogwaardige banen in overeenstemming met nationaal vastgestelde ontwikkelingsprioriteiten,
+- c) Making finance flows consistent with a pathway towards low greenhouse gas emissions and climate-resilient development.
 
-Beseffende dat klimaatverandering een gemeenschappelijke zorg voor de mensheid is, en dat de Partijen bij hun optreden om klimaatverandering tegen te gaan hun respectieve verplichtingen betreffende mensenrechten, het recht op gezondheid, de rechten van inheemse volken, lokale gemeenschappen, migranten, kinderen, personen met een handicap en mensen in kwetsbare situaties, en het recht op ontwikkeling, alsmede de gendergelijkheid, de empowerment van vrouwen en de intergenerationele solidariteit dienen te eerbiedigen, te bevorderen en in aanmerking te nemen,
+2. This Agreement will be implemented to reflect equity and the principle of common but differentiated responsibilities and respective capabilities, in the light of different national circumstances.
 
-Het belang erkennende van de in het [Verdrag](onbekend) bedoelde instandhouding en uitbreiding, indien van toepassing, van putten en reservoirs van broeikasgassen,
+##### Article 3
 
-Gelet op het belang van het waarborgen van de integriteit van alle ecosystemen, waaronder oceanen, en de bescherming van biodiversiteit, die door sommige culturen als Moeder Aarde wordt erkend, en gelet op het belang van het begrip „klimaatrechtvaardigheid” voor sommigen bij het nemen van maatregelen om klimaatverandering aan te pakken,
+As nationally determined contributions to the global response to climate change, all Parties are to undertake and communicate ambitious efforts as defined in [Articles 4](https://wetten.overheid.nl/BWBV0006603), [7](https://wetten.overheid.nl/BWBV0006603), [9](https://wetten.overheid.nl/BWBV0006603), [10](https://wetten.overheid.nl/BWBV0006603), [11](https://wetten.overheid.nl/BWBV0006603) and [13](https://wetten.overheid.nl/BWBV0006603) with the view to achieving the purpose of this Agreement as set out in [Article 2](https://wetten.overheid.nl/BWBV0006603). The efforts of all Parties will represent a progression over time, while recognizing the need to support developing country Parties for the effective implementation of this Agreement.
 
-Het belang bevestigende van onderwijs, opleiding, bewustwording, participatie van het publiek, toegang door het publiek tot informatie en samenwerking op alle niveaus over de aangelegenheden in deze Overeenkomst,
+##### Article 4
 
-Het belang erkennende van de inzet van alle bestuursniveaus en verschillende actoren, overeenkomstig de respectieve nationale wetgevingen van de Partijen, in de aanpak van klimaatverandering,
+1. In order to achieve the long-term temperature goal set out in [Article 2](https://wetten.overheid.nl/BWBV0006603), Parties aim to reach global peaking of greenhouse gas emissions as soon as possible, recognizing that peaking will take longer for developing country Parties, and to undertake rapid reductions thereafter in accordance with best available science, so as to achieve a balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases in the second half of this century, on the basis of equity, and in the context of sustainable development and efforts to eradicate poverty.
 
-Tevens erkennende dat een duurzame levensstijl en duurzame consumptie- en productiepatronen, waarbij Partijen die ontwikkelde landen zijn, het voortouw nemen, in de aanpak van klimaatverandering een belangrijke rol spelen,
+2. Each Party shall prepare, communicate and maintain successive nationally determined contributions that it intends to achieve. Parties shall pursue domestic mitigation measures, with the aim of achieving the objectives of such contributions.
 
-Zijn het volgende overeengekomen:
+3. Each Party’s successive nationally determined contribution will represent a progression beyond the Party’s then current nationally determined contribution and reflect its highest possible ambition, reflecting its common but differentiated responsibilities and respective capabilities, in the light of different national circumstances.
 
-##### Artikel 1
+4. Developed country Parties should continue taking the lead by undertaking economy-wide absolute emission reduction targets. Developing country Parties should continue enhancing their mitigation efforts, and are encouraged to move over time towards economy-wide emission reduction or limitation targets in the light of different national circumstances.
 
-Voor de toepassing van deze Overeenkomst zijn de begripsomschrijvingen van [artikel 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=1) van toepassing. Daarnaast wordt verstaan onder:
+5. Support shall be provided to developing country Parties for the implementation of this Article, in accordance with [Articles 9](https://wetten.overheid.nl/BWBV0006603), [10](https://wetten.overheid.nl/BWBV0006603) and [11](https://wetten.overheid.nl/BWBV0006603), recognizing that enhanced support for developing country Parties will allow for higher ambition in their actions.
 
-- a. „Verdrag”: het [Raamverdrag van de Verenigde Naties inzake klimaatverandering](onbekend), aangenomen te New York op 9 mei 1992;
+6. The least developed countries and small island developing States may prepare and communicate strategies, plans and actions for low greenhouse gas emissions development reflecting their special circumstances.
 
-- b. „Conferentie van de Partijen”: de Conferentie van de Partijen bij het [Verdrag](onbekend);
+7. Mitigation co-benefits resulting from Parties’ adaptation actions and/or economic diversification plans can contribute to mitigation outcomes under this Article.
 
-- c. „Partij”: een Partij bij deze Overeenkomst.
+8. In communicating their nationally determined contributions, all Parties shall provide the information necessary for clarity, transparency and understanding in accordance with decision 1/CP.21 and any relevant decisions of the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
-##### Artikel 2
+9. Each Party shall communicate a nationally determined contribution every five years in accordance with decision 1/CP.21 and any relevant decisions of the Conference of the Parties serving as the meeting of the Parties to this Agreement and be informed by the outcomes of the global stocktake referred to in [Article 14](https://wetten.overheid.nl/BWBV0006603).
 
-1. Doel van deze Overeenkomst is door de uitvoering van het [Verdrag](onbekend) en de doelstelling ervan te verbeteren, de wereldwijde reactie op de dreiging van klimaatverandering te versterken in de context van duurzame ontwikkeling en inspanningen om armoede uit te bannen, onder meer door:
+10. The Conference of the Parties serving as the meeting of the Parties to this Agreement shall consider common time frames for nationally determined contributions at its first session.
 
-- a. de stijging van de wereldwijde gemiddelde temperatuur ruim onder 2 °C te houden ten opzichte van het pre-industriële niveau en ernaar te blijven streven de stijging te beperken tot 1,5 °C, erkennende dat dit de risico’s en de gevolgen van klimaatverandering aanzienlijk zou beperken;
+11. A Party may at any time adjust its existing nationally determined contribution with a view to enhancing its level of ambition, in accordance with guidance adopted by the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
-- b. het vermogen te vergroten tot aanpassing aan de nadelige gevolgen van klimaatverandering, en de veerkracht voor klimaatverandering en broeikasgasarme ontwikkeling te bevorderen, op een wijze die de voedselproductie niet in gevaar brengt; en
+12. Nationally determined contributions communicated by Parties shall be recorded in a public registry maintained by the secretariat.
 
-- c. geldstromen in lijn te brengen met een traject naar broeikasgasarme en klimaatveerkrachtige ontwikkeling.
+13. Parties shall account for their nationally determined contributions. In accounting for anthropogenic emissions and removals corresponding to their nationally determined contributions, Parties shall promote environmental integrity, transparency accuracy, completeness, comparability and consistency, and ensure the avoidance of double counting, in accordance with guidance adopted by the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
-2. Deze Overeenkomst wordt geïmplementeerd op basis van billijkheid en het beginsel van gezamenlijke, doch verschillende, verantwoordelijkheden en onderscheiden mogelijkheden, in het licht van uiteenlopende nationale omstandigheden.
+14. In the context of their nationally determined contributions, when recognizing and implementing mitigation actions with respect to anthropogenic emissions and removals, Parties should take into account, as appropriate, existing methods and guidance under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), in the light of the provisions of paragraph 13 of this Article.
 
-##### Artikel 3
+15. Parties shall take into consideration in the implementation of this Agreement the concerns of Parties with economies most affected by the impacts of response measures, particularly developing country Parties.
 
-Alle Partijen dienen als nationaal bepaalde bijdragen aan het wereldwijde antwoord op klimaatverandering, ambitieuze inspanningen te leveren en mede te delen, zoals bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=4&z=2017-08-27&g=2017-08-27), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=7&z=2017-08-27&g=2017-08-27), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=9&z=2017-08-27&g=2017-08-27), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=10&z=2017-08-27&g=2017-08-27), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=11&z=2017-08-27&g=2017-08-27) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=13&z=2017-08-27&g=2017-08-27), met het oog op het bereiken van het doel van deze Overeenkomst, zoals vervat in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=2&z=2017-08-27&g=2017-08-27). De inspanningen van alle Partijen zullen in de loop der tijd steeds meer progressie vertonen waarbij de noodzaak wordt erkend Partijen die ontwikkelingslanden zijn te ondersteunen bij de doeltreffende uitvoering van deze Overeenkomst.
+16. Parties, including regional economic integration organizations and their member States, that have reached an agreement to act jointly under paragraph 2 of this Article shall notify the secretariat of the terms of that agreement, including the emission level allocated to each Party within the relevant time period, when they communicate their nationally determined contributions. The secretariat shall in turn inform the Parties and signatories to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) of the terms of that agreement.
 
-##### Artikel 4
+17. Each party to such an agreement shall be responsible for its emission level as set out in the agreement referred to in paragraph 16 of this Article in accordance with paragraphs 13 and 14 of this Article and [Articles 13](https://wetten.overheid.nl/BWBV0006603) and [15](https://wetten.overheid.nl/BWBV0006603).
 
-1. Teneinde de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=2&z=2017-08-27&g=2017-08-27) vervatte temperatuurdoelstelling voor de lange termijn te behalen, streven de Partijen ernaar de piek van de uitstoot van broeikasgassen wereldwijd zo snel mogelijk te bereiken, erkennende dat Partijen die ontwikkelingslanden zijn deze piek later zullen bereiken, en de uitstoot daarna overeenkomstig de beste beschikbare wetenschappelijke kennis snel te verminderen, zodat in de tweede helft van deze eeuw, op basis van billijkheid en in de context van duurzame ontwikkeling en inspanningen om armoede uit te bannen, een balans tussen antropogene emissies per bron en verwijderingen per put van broeikasgassen wordt bereikt.
+18. If Parties acting jointly do so in the framework of, and together with, a regional economic integration organization which is itself a Party to this Agreement, each member State of that regional economic integration organization individually, and together with the regional economic integration organization, shall be responsible for its emission level as set out in the agreement communicated under paragraph 16 of this Article in accordance with paragraphs 13 and 14 of this Article and [Articles 13](https://wetten.overheid.nl/BWBV0006603) and [15](https://wetten.overheid.nl/BWBV0006603).
 
-2. Elke Partij stelt opeenvolgende nationaal bepaalde bijdragen op die zij beoogt te bereiken, deelt deze mede en houdt ze bij. De Partijen nemen nationale mitigerende maatregelen ter verwezenlijking van de doelstellingen van deze bijdragen.
+19. All Parties should strive to formulate and communicate long-term low greenhouse gas emission development strategies, mindful of [Article 2](https://wetten.overheid.nl/BWBV0006603) taking into account their common but differentiated responsibilities and respective capabilities, in the light of different national circumstances.
 
-3. Elke volgende nationaal bepaalde bijdrage van een Partij dient verder te gaan dan haar op dat tijdstip geldende nationaal bepaalde bijdrage en een zo hoog mogelijk ambitieniveau te weerspiegelen, waaruit de gezamenlijke, doch verschillende, verantwoordelijkheden en onderscheiden mogelijkheden in het licht van uiteenlopende nationale omstandigheden blijken.
+##### Article 5
 
-4. De Partijen die ontwikkelde landen zijn, dienen het voortouw te blijven nemen door zich te verplichten tot absolute emissiereductiedoelen voor de gehele economie. De Partijen die ontwikkelingslanden zijn, dienen hun mitigerende inspanningen te blijven versterken en worden aangemoedigd geleidelijk over te stappen op emissiereductie- of emissiebeperkingsdoelen voor de gehele economie, in het licht van uiteenlopende nationale omstandigheden.
+1. Parties should take action to conserve and enhance, as appropriate, sinks and reservoirs of greenhouse gases as referred to in [Article 4, paragraph 1 (d), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=4), including forests.
 
-5. Voor de uitvoering van dit artikel wordt overeenkomstig de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=9&z=2017-08-27&g=2017-08-27), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=10&z=2017-08-27&g=2017-08-27) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=11&z=2017-08-27&g=2017-08-27) ondersteuning verleend aan Partijen die ontwikkelingslanden zijn, waarbij wordt erkend dat meer ondersteuning voor Partijen die ontwikkelingslanden zijn, van hun kant ambitieuzere maatregelen mogelijk maakt.
+2. Parties are encouraged to take action to implement and support, including through results-based payments, the existing framework as set out in related guidance and decisions already agreed under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) for: policy approaches and positive incentives for activities relating to reducing emissions from deforestation and forest degradation, and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries; and alternative policy approaches, such as joint mitigation and adaptation approaches for the integral and sustainable management of forests, while reaffirming the importance of incentivizing, as appropriate, non-carbon benefits associated with such approaches.
 
-6. De minst ontwikkelde landen en kleine eilandstaten in ontwikkeling kunnen strategieën, plannen en maatregelen opstellen en mededelen voor een ontwikkeling op basis van lage uitstoot van broeikasgassen die hun bijzondere omstandigheden weerspiegelen.
+##### Article 6
 
-7. Bijkomende mitigatievoordelen als gevolg van de adaptatiemaatregelen en/of plannen voor economische diversificatie van de Partijen kunnen bijdragen aan mitigatieresultaten uit hoofde van dit artikel.
+1. Parties recognize that some Parties choose to pursue voluntary cooperation in the implementation of their nationally determined contributions to allow for higher ambition in their mitigation and adaptation actions and to promote sustainable development and environmental integrity.
 
-8. Bij de mededeling van hun nationaal bepaalde bijdrage verstrekken alle Partijen de informatie die nodig is voor duidelijkheid, transparantie en begrip overeenkomstig Besluit 1/CP.21 en eventuele relevante besluiten van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert.
+2. Parties shall, where engaging on a voluntary basis in cooperative approaches that involve the use of internationally transferred mitigation outcomes towards nationally determined contributions, promote sustainable development and ensure environmental integrity and transparency, including in governance, and shall apply robust accounting to ensure, inter alia, the avoidance of double counting, consistent with guidance adopted by the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
-9. Overeenkomstig Besluit 1/CP.21 en eventuele relevante besluiten van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, en op basis van de uitkomsten van de algemene inventarisatie bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=14&z=2017-08-27&g=2017-08-27), deelt elke Partij om de vijf jaar een nationaal bepaalde bijdrage mede.
+3. The use of internationally transferred mitigation outcomes to achieve nationally determined contributions under this Agreement shall be voluntary and authorized by participating Parties.
 
-10. De Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, bestudeert tijdens haar eerste zitting gemeenschappelijke termijnen voor nationaal bepaalde bijdragen.
+4. A mechanism to contribute to the mitigation of greenhouse gas emissions and support sustainable development is hereby established under the authority and guidance of the Conference of the Parties serving as the meeting of the Parties to this Agreement for use by Parties on a voluntary basis. It shall be supervised by a body designated by the Conference of the Parties serving as the meeting of the Parties to this Agreement, and shall aim:
 
-11. Een Partij kan te allen tijde haar bestaande nationaal bepaalde bijdrage aanpassen teneinde het ambitieniveau te verhogen, overeenkomstig de door de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert aangenomen richtlijnen.
+- a) To promote the mitigation of greenhouse gas emissions while fostering sustainable development;
 
-12. De door de Partijen medegedeelde nationaal bepaalde bijdragen worden opgenomen in een openbaar register dat wordt bijgehouden door het secretariaat.
+- b) To incentivize and facilitate participation in the mitigation of greenhouse gas emissions by public and private entities authorized by a Party;
 
-13. De Partijen leggen verantwoording af van hun nationaal bepaalde bijdrage. Bij de verantwoording van antropogene emissies en verwijderingen overeenkomstig hun nationaal bepaalde bijdrage bevorderen de Partijen de milieu-integriteit, transparantie, nauwkeurigheid, volledigheid, vergelijkbaarheid en consistentie en zorgen zij ervoor dat dubbeltellingen worden voorkomen, overeenkomstig de door de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert aangenomen richtlijnen.
+- c) To contribute to the reduction of emission levels in the host Party, which will benefit from mitigation activities resulting in emission reductions that can also be used by another Party to fulfil its nationally determined contribution; and
 
-14. In het kader van de nationaal bepaalde bijdragen dienen de Partijen bij de erkenning en uitvoering van mitigatiemaatregelen betreffende antropogene emissies en verwijderingen, zo nodig, rekening te houden met bestaande methoden en richtlijnen ingevolge het [Verdrag](onbekend), in het licht van de bepalingen van het dertiende lid van dit artikel.
+- d) To deliver an overall mitigation in global emissions.
 
-15. Bij de uitvoering van deze Overeenkomst houden de Partijen rekening met de belangen van Partijen met economieën die het zwaarst door de gevolgen van maatregelen inzake klimaatverandering worden getroffen, met name van Partijen die ontwikkelingslanden zijn.
+5. Emission reductions resulting from the mechanism referred to in paragraph 4 of this Article shall not be used to demonstrate achievement of the host Party’s nationally determined contribution if used by another Party to demonstrate achievement of its nationally determined contribution.
 
-16. Partijen, met inbegrip van regionale organisaties voor economische integratie en lidstaten daarvan, die een overeenkomst hebben gesloten om ingevolge het tweede lid van dit artikel gezamenlijk op te treden, stellen, wanneer zij hun nationaal bepaalde bijdrage mededelen, het secretariaat in kennis van de bepalingen van die overeenkomst, met inbegrip van het emissieniveau dat binnen de relevante periode aan elke Partij is toegekend. Het secretariaat informeert op zijn beurt de Partijen bij en de ondertekenaars van het [Verdrag](onbekend) over de bepalingen van die overeenkomst.
+6. The Conference of the Parties serving as the meeting of the Parties to this Agreement shall ensure that a share of the proceeds from activities under the mechanism referred to in paragraph 4 of this Article is used to cover administrative expenses as well as to assist developing country Parties that are particularly vulnerable to the adverse effects of climate change to meet the costs of adaptation.
 
-17. Elke Partij bij een dergelijke overeenkomst is overeenkomstig het dertiende en veertiende lid van dit artikel en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=13&z=2017-08-27&g=2017-08-27) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=15&z=2017-08-27&g=2017-08-27) verantwoordelijk voor haar emissieniveau zoals bepaald in de in het zestiende lid van dit artikel bedoelde overeenkomst.
+7. The Conference of the Parties serving as the meeting of the Parties to this Agreement shall adopt rules, modalities and procedures for the mechanism referred to in paragraph 4 of this Article at its first session.
 
-18. Indien Partijen die gezamenlijk handelen, dit doen in het kader van, en samen met, een regionale organisatie voor economische integratie die zelf Partij is bij deze Overeenkomst, is elke lidstaat van die regionale organisatie voor economische integratie afzonderlijk en samen met de regionale organisatie voor economische integratie verantwoordelijk voor zijn eigen emissieniveau, dat overeenkomstig het dertiende en veertiende lid van dit artikel en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=13&z=2017-08-27&g=2017-08-27) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=15&z=2017-08-27&g=2017-08-27) in de ingevolge het zestiende lid van dit artikel medegedeelde overeenkomst is vastgesteld.
+8. Parties recognize the importance of integrated, holistic and balanced non-market approaches being available to Parties to assist in the implementation of their nationally determined contributions, in the context of sustainable development and poverty eradication, in a coordinated and effective manner, including through, inter alia, mitigation, adaptation, finance, technology transfer and capacity-building, as appropriate. These approaches shall aim to:
 
-19. Alle Partijen dienen te streven naar het formuleren en mededelen van langetermijnstrategieën voor een op lage uitstoot van broeikasgassen gebaseerde ontwikkeling, indachtig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=2&z=2017-08-27&g=2017-08-27), rekening houdend met hun gezamenlijke, doch verschillende, verantwoordelijkheden en onderscheiden mogelijkheden, in het licht van uiteenlopende nationale omstandigheden.
+- a) Promote mitigation and adaptation ambition;
 
-##### Artikel 5
+- b) Enhance public and private sector participation in the implementation of nationally determined contributions; and
 
-1. De Partijen dienen maatregelen te nemen om, waar van toepassing, putten en reservoirs van broeikasgassen, waaronder bossen, in stand te houden en uit te breiden als bedoeld in [artikel 4, eerste lid, onderdeel d, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=4).
+- c) Enable opportunities for coordination across instruments and relevant institutional arrangements.
 
-2. De Partijen worden aangemoedigd maatregelen te nemen om het bestaande kader zoals vastgelegd in de desbetreffende ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) reeds overeengekomen richtlijnen en besluiten, uit te voeren en te ondersteunen, onder meer door op resultaten gebaseerde betalingen, voor: beleidsmaatregelen en positieve stimulansen voor activiteiten in verband met de reductie van emissies als gevolg van ontbossing en bosdegradatie en de rol van het behoud, het duurzaam beheer van bossen en het verhogen van de koolstofvoorraden van bossen in ontwikkelingslanden; en alternatieve beleidsmaatregelen, zoals een gezamenlijke aanpak betreffende mitigatie van en adaptatie aan klimaatverandering bij het geïntegreerde en duurzame beheer van bossen, waarbij opnieuw het belang wordt bevestigd om, indien van toepassing, de niet-koolstofgerelateerde baten van die maatregelen te stimuleren.
+9. A framework for non-market approaches to sustainable development is hereby defined to promote the non-market approaches referred to in paragraph 8 of this Article.
 
-##### Artikel 6
+##### Article 7
 
-1. De Partijen erkennen dat sommige Partijen bij de uitvoering van hun nationaal bepaalde bijdrage voor vrijwillige samenwerking kiezen om een hoger ambitieniveau van hun mitigatie- en adaptatiemaatregelen mogelijk te maken en duurzame ontwikkeling en milieu-integriteit te bevorderen.
+1. Parties hereby establish the global goal on adaptation of enhancing adaptive capacity, strengthening resilience and reducing vulnerability to climate change, with a view to contributing to sustainable development and ensuring an adequate adaptation response in the context of the temperature goal referred to in [Article 2](https://wetten.overheid.nl/BWBV0006603).
 
-2. Partijen die zich op vrijwillige basis inzetten voor een gezamenlijke aanpak waarbij gebruikgemaakt wordt van internationaal overgedragen mitigatieresultaten naar nationaal bepaalde bijdragen, bevorderen duurzame ontwikkeling en waarborgen milieu-integriteit en transparantie, onder meer op het gebied van bestuur, en houden bovendien een degelijke boekhouding bij om, onder meer, dubbeltellingen te voorkomen, overeenkomstig de door de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, aangenomen richtlijnen.
+2. Parties recognize that adaptation is a global challenge faced by all with local, subnational, national, regional and international dimensions, and that it is a key component of and makes a contribution to the long-term global response to climate change to protect people, livelihoods and ecosystems, taking into account the urgent and immediate needs of those developing country Parties that are particularly vulnerable to the adverse effects of climate change.
 
-3. Het gebruik van internationaal overgedragen mitigatieresultaten om nationaal bepaalde bijdragen ingevolge deze Overeenkomst te bereiken gebeurt op vrijwillige basis en wordt door de deelnemende Partijen toegestaan.
+3. The adaptation efforts of developing country Parties shall be recognized, in accordance with the modalities to be adopted by the Conference of the Parties serving as the meeting of the Parties to this Agreement at its first session.
 
-4. Hierbij wordt een mechanisme ingesteld om aan de mitigatie van de uitstoot van broeikasgassen bij te dragen en duurzame ontwikkeling te bevorderen, dat de Partijen op vrijwillige basis kunnen gebruiken, onder het gezag en de leiding van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert. Dit mechanisme staat onder toezicht van een daartoe door de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, benoemd orgaan en beoogt:
+4. Parties recognize that the current need for adaptation is significant and that greater levels of mitigation can reduce the need for additional adaptation efforts, and that greater adaptation needs can involve greater adaptation costs.
 
-- a. de mitigatie van de uitstoot van broeikasgassen te bevorderen en hierbij duurzame ontwikkeling te stimuleren;
+5. Parties acknowledge that adaptation action should follow a country-driven, gender-responsive, participatory and fully transparent approach, taking into consideration vulnerable groups, communities and ecosystems, and should be based on and guided by the best available science and, as appropriate, traditional knowledge, knowledge of indigenous peoples and local knowledge systems, with a view to integrating adaptation into relevant socioeconomic and environmental policies and actions, where appropriate.
 
-- b. de deelname aan de mitigatie van de uitstoot van broeikasgassen door hiertoe door een Partij gemachtigde publiek- en privaatrechtelijke instellingen te stimuleren en te faciliteren;
+6. Parties recognize the importance of support for and international cooperation on adaptation efforts and the importance of taking into account the needs of developing country Parties, especially those that are particularly vulnerable to the adverse effects of climate change.
 
-- c. bij te dragen aan de vermindering van de emissieniveaus in de ontvangende Partij, die baat zal hebben bij mitigatieactiviteiten die leiden tot emissiereducties die ook door een andere Partij kunnen worden gebruikt om aan haar nationaal bepaalde bijdrage te voldoen; en
+7. Parties should strengthen their cooperation on enhancing action on adaptation, taking into account the Cancun Adaptation Framework, including with regard to:
 
-- d. een algemene mitigatie van de wereldwijde uitstoot te realiseren.
+- a) Sharing information, good practices, experiences and lessons learned, including, as appropriate, as these relate to science, planning, policies and implementation in relation to adaptation actions;
 
-5. Emissiereducties die uit het in het vierde lid van dit artikel bedoelde mechanisme voortvloeien, worden niet gebruikt om aan te tonen dat de ontvangende Partij haar nationaal bepaalde bijdrage heeft behaald indien deze door een andere Partij worden gebruikt om aan te tonen dat deze laatste haar nationaal bepaalde bijdrage heeft bereikt.
+- b) Strengthening institutional arrangements, including those under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) that serve this Agreement, to support the synthesis of relevant information and knowledge, and the provision of technical support and guidance to Parties;
 
-6. De Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, waarborgt dat een deel van de opbrengsten van activiteiten ingevolge het in het vierde lid van dit artikel bedoelde mechanisme wordt aangewend ter dekking van administratieve uitgaven en om Partijen die ontwikkelingslanden zijn en die bijzonder kwetsbaar zijn voor de nadelige gevolgen van klimaatverandering te helpen de kosten van adaptatie op te brengen.
+- c) Strengthening scientific knowledge on climate, including research, systematic observation of the climate system and early warning systems, in a manner that informs climate services and supports decision-making;
 
-7. De Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, neemt tijdens haar eerste zitting regels, modaliteiten en procedures aan voor het in het vierde lid van dit artikel bedoelde mechanisme.
+- d) Assisting developing country Parties in identifying effective adaptation practices, adaptation needs, priorities, support provided and received for adaptation actions and efforts, and challenges and gaps, in a manner consistent with encouraging good practices; and
 
-8. De Partijen erkennen dat het belangrijk is dat in de context van duurzame ontwikkeling en uitbanning van armoede, Partijen over geïntegreerde, holistische en evenwichtige, niet op de markt gebaseerde benaderingen kunnen beschikken om op gecoördineerde en doeltreffende wijze te helpen bij de uitvoering van hun nationaal bepaalde bijdrage, onder meer door middel van mitigatie, adaptatie, financiering, technologieoverdracht en capaciteitsopbouw, naargelang van het geval. Deze benaderingen hebben tot doel:
+- e) Improving the effectiveness and durability of adaptation actions.
 
-- a. ambities op het gebied van mitigatie en adaptatie te bevorderen;
+8. United Nations specialized organizations and agencies are encouraged to support the efforts of Parties to implement the actions referred to in paragraph 7 of this Article, taking into account the provisions of paragraph 5 of this Article.
 
-- b. deelname van de publieke en private sector bij de uitvoering van nationaal bepaalde bijdragen te vergroten; en
+9. Each Party shall, as appropriate, engage in adaptation planning processes and the implementation of actions, including the development or enhancement of relevant plans, policies and/or contributions, which may include:
 
-- c. mogelijkheden te scheppen voor de coördinatie tussen instrumenten en relevante institutionele regelingen.
+- a) The implementation of adaptation actions, undertakings and/or efforts;
 
-9. Hierbij wordt een kader voor niet op de markt gebaseerde benaderingen van duurzame ontwikkeling vastgesteld teneinde de in het achtste lid dit artikel bedoelde niet op de markt gebaseerde benaderingen te bevorderen.
+- b) The process to formulate and implement national adaptation plans;
 
-##### Artikel 7
+- c) The assessment of climate change impacts and vulnerability, with a view to formulating nationally determined prioritized actions, taking into account vulnerable people, places and ecosystems;
 
-1. Hierbij stellen de Partijen de wereldwijde adaptatiedoelstelling vast om het adaptatievermogen te vergroten, de veerkracht te versterken en de kwetsbaarheid voor klimaatverandering te verminderen teneinde aan duurzame ontwikkeling bij te dragen en passende adaptatiemaatregelen te waarborgen in het kader van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=2&z=2017-08-27&g=2017-08-27) bedoelde temperatuurdoelstelling.
+- d) Monitoring and evaluating and learning from adaptation plans, policies, programmes and actions; and
 
-2. De Partijen erkennen dat adaptatie voor eenieder een wereldwijde uitdaging is met lokale, subnationale, nationale, regionale en internationale dimensies, en dat adaptatie een essentiële component is van en bijdraagt aan de wereldwijde langetermijnaanpak van klimaatverandering om mensen, bestaansmiddelen en ecosystemen te beschermen, waarbij rekening wordt gehouden met de dringende en onmiddellijke behoeften van de Partijen die ontwikkelingslanden zijn en die bijzonder kwetsbaar zijn voor de nadelige gevolgen van klimaatverandering.
+- e) Building the resilience of socioeconomic and ecological systems, including through economic diversification and sustainable management of natural resources.
 
-3. De adaptatie-inspanningen van Partijen die ontwikkelingslanden zijn, worden erkend overeenkomstig modaliteiten die de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, in haar eerste zitting zal aannemen.
+10. Each Party should, as appropriate, submit and update periodically an adaptation communication, which may include its priorities, implementation and support needs, plans and actions, without creating any additional burden for developing country Parties.
 
-4. De Partijen erkennen dat de noodzaak van adaptatie momenteel aanzienlijk is en dat een hoger mitigatieniveau de noodzaak van extra adaptatie-inspanningen kan verminderen, en dat grotere adaptatiebehoeften tot hogere adaptatiekosten kunnen leiden.
+11. The adaptation communication referred to in paragraph 10 of this Article shall be, as appropriate, submitted and updated periodically, as a component of or in conjunction with other communications or documents, including a national adaptation plan, a nationally determined contribution as referred to in [Article 4, paragraph 2](https://wetten.overheid.nl/BWBV0006603), and/or a national communication.
 
-5. De Partijen erkennen dat voor adaptatiemaatregelen een door het land gestuurde, genderresponsieve, participatieve en volledig transparante benadering dient te worden gevolgd, waarbij rekening wordt gehouden met kwetsbare groepen, gemeenschappen en ecosystemen, dat deze maatregelen dienen te worden genomen uitgaande van en aangestuurd door de best beschikbare wetenschappelijke kennis en, in voorkomend geval, traditionele kennis, kennis van inheemse volken en lokale kennissystemen, met het oog op de integratie van de adaptatie in de relevante sociaal-economische en ecologische beleidslijnen en maatregelen, waar nodig.
+12. The adaptation communications referred to in paragraph 10 of this Article shall be recorded in a public registry maintained by the secretariat.
 
-6. De Partijen erkennen dat het belangrijk is adaptatie-inspanningen te ondersteunen en hierbij internationaal samen te werken en dat het belangrijk is rekening te houden met de behoeften van de Partijen die ontwikkelingslanden zijn, met name van die landen die bijzonder kwetsbaar zijn voor de nadelige gevolgen van klimaatverandering.
+13. Continuous and enhanced international support shall be provided to developing country Parties for the implementation of paragraphs 7, 9, 10 and 11 of this Article, in accordance with the provisions of [Articles 9](https://wetten.overheid.nl/BWBV0006603), [10](https://wetten.overheid.nl/BWBV0006603) and [11](https://wetten.overheid.nl/BWBV0006603).
 
-7. De Partijen dienen hun samenwerking betreffende de verbetering van adaptatiemaatregelen te intensiveren en daarbij rekening te houden met het adaptatiekader van Cancún, onder meer met betrekking tot:
+14. The global stocktake referred to in [Article 14](https://wetten.overheid.nl/BWBV0006603) shall, inter alia:
 
-- a. de uitwisseling van informatie, goede praktijken, ervaringen en geleerde lessen, in voorkomend geval met inbegrip van die welke betrekking hebben op wetenschap, planning, beleid en uitvoering betreffende adaptatiemaatregelen;
+- a) Recognize adaptation efforts of developing country Parties;
 
-- b. de versterking van institutionele regelingen, waaronder de regelingen uit hoofde van het [Verdrag](onbekend) die voor deze Overeenkomst van nut zijn, ter ondersteuning van de synthese van relevante informatie en kennis, en de verlening van technische ondersteuning en begeleiding aan de Partijen;
+- b) Enhance the implementation of adaptation action taking into account the adaptation communication referred to in paragraph 10 of this Article;
 
-- c. de versterking van de wetenschappelijke kennis over klimaatverandering, waaronder onderzoek, systematische observatie van het klimaatsysteem en systemen voor vroegtijdige waarschuwing, op een wijze die de klimaatdiensten op de hoogte houdt en de besluitvorming ondersteunt;
+- c) Review the adequacy and effectiveness of adaptation and support provided for adaptation; and
 
-- d. de ondersteuning van Partijen die ontwikkelingslanden zijn, bij de vaststelling van doeltreffende adaptatiepraktijken, adaptatiebehoeften, prioriteiten, ontvangen en verleende ondersteuning voor adaptatiemaatregelen en -inspanningen, alsmede uitdagingen en lacunes, op een wijze die in overeenstemming is met het aanmoedigen van goede praktijken; en
+- d) Review the overall progress made in achieving the global goal on adaptation referred to in paragraph 1 of this Article.
 
-- e. de verbetering van de doeltreffendheid en duurzaamheid van adaptatiemaatregelen.
+##### Article 8
 
-8. De gespecialiseerde organisaties van de Verenigde Naties worden aangemoedigd om de inspanningen van de Partijen ter uitvoering van de in het zevende lid van dit artikel bedoelde maatregelen te ondersteunen, rekening houdend met de bepalingen van het vijfde lid van dit artikel.
+1. Parties recognize the importance of averting, minimizing and addressing loss and damage associated with the adverse effects of climate change, including extreme weather events and slow onset events, and the role of sustainable development in reducing the risk of loss and damage.
 
-9. Elke Partij stelt, indien van toepassing, processen op voor de planning van adaptatie en aan de uitvoering van maatregelen, waaronder de ontwikkeling of versterking van relevante plannen, beleidslijnen en/of bijdragen, die kunnen bestaan uit:
+2. The Warsaw International Mechanism for Loss and Damage associated with Climate Change Impacts shall be subject to the authority and guidance of the Conference of the Parties serving as the meeting of the Parties to this Agreement and may be enhanced and strengthened, as determined by the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
-- a. de uitvoering van adaptatiemaatregelen, -projecten en/of -inspanningen;
+3. Parties should enhance understanding, action and support, including through the Warsaw International Mechanism, as appropriate, on a cooperative and facilitative basis with respect to loss and damage associated with the adverse effects of climate change.
 
-- b. het proces voor het opstellen en uitvoeren van nationale adaptatieplannen;
+4. Accordingly, areas of cooperation and facilitation to enhance understanding, action and support may include:
 
-- c. de beoordeling van de gevolgen van en de kwetsbaarheid voor klimaatverandering, met het oog op het formuleren van nationaal vastgestelde prioritaire maatregelen, rekening houdend met kwetsbare personen, plaatsen en ecosystemen;
+- a) Early warning systems;
 
-- d. monitoring en evaluatie van en het trekken van lessen uit plannen, beleidsmaatregelen, programma’s en acties voor adaptatie; en
+- b) Emergency preparedness;
 
-- e. het opbouwen van de veerkracht van sociaal-economische en ecologische systemen, waaronder door middel van economische diversificatie en duurzaam beheer van natuurlijke hulpbronnen.
+- c) Slow onset events;
 
-10. Elke Partij dient, indien van toepassing, een adaptatiemededeling in te dienen en regelmatig te actualiseren, waarin zij haar prioriteiten, behoeften aan uitvoering en ondersteuning, plannen en acties kan opnemen, zonder dat dit leidt tot extra lasten voor Partijen die ontwikkelingslanden zijn.
+- d) Events that may involve irreversible and permanent loss and damage;
 
-11. De in het tiende lid van dit artikel bedoelde adaptatiemededeling wordt, indien van toepassing, ingediend en regelmatig geactualiseerd als onderdeel van of in samenhang met andere mededelingen of documenten, waaronder een nationaal adaptatieplan, een in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=4&z=2017-08-27&g=2017-08-27), bedoelde nationaal bepaalde bijdrage en/of een nationale mededeling.
+- e) Comprehensive risk assessment and management;
 
-12. De in het tiende lid van dit artikel bedoelde adaptatiemededelingen worden opgenomen in een openbaar register dat door het secretariaat wordt bijgehouden.
+- f) Risk insurance facilities, climate risk pooling and other insurance solutions;
 
-13. Bij de uitvoering van het zevende, negende, tiende en elfde lid van dit artikel krijgen Partijen die ontwikkelingslanden zijn, voortdurende en versterkte internationale ondersteuning overeenkomstig de bepalingen van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=9&z=2017-08-27&g=2017-08-27), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=10&z=2017-08-27&g=2017-08-27) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=11&z=2017-08-27&g=2017-08-27).
+- g) Non-economic losses; and
 
-14. De in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=14&z=2017-08-27&g=2017-08-27) bedoelde algemene inventarisatie beoogt onder meer:
+- h) Resilience of communities, livelihoods and ecosystems.
 
-- a. de erkenning van de adaptatie-inspanningen van de Partijen die ontwikkelingslanden zijn;
+5. The Warsaw International Mechanism shall collaborate with existing bodies and expert groups under the Agreement, as well as relevant organizations and expert bodies outside the Agreement.
 
-- b. de versterking van de uitvoering van adaptatiemaatregelen, waarbij rekening wordt gehouden met de in het tiende lid van dit artikel bedoelde adaptatiemededeling;
+##### Article 9
 
-- c. het onderzoek van de doelmatigheid en doeltreffendheid van adaptatie en voor adaptatie verstrekte ondersteuning; en
+1. Developed country Parties shall provide financial resources to assist developing country Parties with respect to both mitigation and adaptation in continuation of their existing obligations under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115).
 
-- d. het onderzoek van de algehele vooruitgang bij de verwezenlijking van de in het eerste lid van dit artikel bedoelde wereldwijde adaptatiedoelstelling.
+2. Other Parties are encouraged to provide or continue to provide such support voluntarily.
 
-##### Artikel 8
+3. As part of a global effort, developed country Parties should continue to take the lead in mobilizing climate finance from a wide variety of sources, instruments and channels, noting the significant role of public funds, through a variety of actions, including supporting country-driven strategies, and taking into account the needs and priorities of developing country Parties. Such mobilization of climate finance should represent a progression beyond previous efforts.
 
-1. De Partijen erkennen het belang van het voorkomen, beperken en aanpakken van verlies en schade die geassocieerd wordt met de nadelige gevolgen van de klimaatverandering, zoals extreme weersomstandigheden of traag op gang komende verschijnselen, en de rol van duurzame ontwikkeling bij het verminderen van het risico van verlies en schade.
+4. The provision of scaled-up financial resources should aim to achieve a balance between adaptation and mitigation, taking into account country-driven strategies, and the priorities and needs of developing country Parties, especially those that are particularly vulnerable to the adverse effects of climate change and have significant capacity constraints, such as the least developed countries and small island developing States, considering the need for public and grant-based resources for adaptation.
 
-2. Het internationaal mechanisme van Warschau voor verlies en schade door klimaatverandering wordt onderworpen aan het gezag en de leiding van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, en kan worden verbeterd en versterkt, zoals bepaald door de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert.
+5. Developed country Parties shall biennially communicate indicative quantitative and qualitative information related to paragraphs 1 and 3 of this Article, as applicable, including, as available, projected levels of public financial resources to be provided to developing country Parties. Other Parties providing resources are encouraged to communicate biennially such information on a voluntary basis.
 
-3. De Partijen dienen op een coöperatieve en faciliterende basis het inzicht, de maatregelen en de ondersteuning betreffende het verlies en de schade door de nadelige gevolgen van de klimaatverandering te versterken, in voorkomend geval onder meer via het internationaal mechanisme van Warschau.
+6. The global stocktake referred to in [Article 14](https://wetten.overheid.nl/BWBV0006603) shall take into account the relevant information provided by developed country Parties and/or Agreement bodies on efforts related to climate finance.
 
-4. Gebieden waarop samenwerking en facilitatie plaatsvindt teneinde het inzicht, de maatregelen en de ondersteuning te versterken, kunnen derhalve de volgende zijn:
+7. Developed country Parties shall provide transparent and consistent information on support for developing country Parties provided and mobilized through public interventions biennially in accordance with the modalities, procedures and guidelines to be adopted by the Conference of the Parties serving as the meeting of the Parties to this Agreement, at its first session, as stipulated in [Article 13, paragraph 13](https://wetten.overheid.nl/BWBV0006603). Other Parties are encouraged to do so.
 
-- a. systemen voor vroegtijdige waarschuwingen;
+8. The Financial Mechanism of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), including its operating entities, shall serve as the financial mechanism of this Agreement.
 
-- b. het voorbereid zijn op noodsituaties;
+9. The institutions serving this Agreement, including the operating entities of the Financial Mechanism of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), shall aim to ensure efficient access to financial resources through simplified approval procedures and enhanced readiness support for developing country Parties, in particular for the least developed countries and small island developing States, in the context of their national climate strategies and plans.
 
-- c. traag op gang komende verschijnselen;
+##### Article 10
 
-- d. gebeurtenissen die onherstelbaar en blijvend verlies en schade kunnen inhouden;
+1. Parties share a long-term vision on the importance of fully realizing technology development and transfer in order to improve resilience to climate change and to reduce greenhouse gas emissions.
 
-- e. allesomvattende risicobeoordeling en -beheer;
+2. Parties, noting the importance of technology for the implementation of mitigation and adaptation actions under this Agreement and recognizing existing technology deployment and dissemination efforts, shall strengthen cooperative action on technology development and transfer.
 
-- f. risicoverzekeringsfaciliteiten, bundeling van klimaatrisico’s en andere verzekeringsoplossingen;
+3. The Technology Mechanism established under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) shall serve this Agreement.
 
-- g. niet-economische verliezen; en
+4. A technology framework is hereby established to provide overarching guidance to the work of the Technology Mechanism in promoting and facilitating enhanced action on technology development and transfer in order to support the implementation of this Agreement, in pursuit of the long-term vision referred to in paragraph 1 of this Article.
 
-- h. veerkracht van gemeenschappen, bestaansmiddelen en ecosystemen.
+5. Accelerating, encouraging and enabling innovation is critical for an effective, long-term global response to climate change and promoting economic growth and sustainable development. Such effort shall be, as appropriate, supported, including by the Technology Mechanism and, through financial means, by the Financial Mechanism of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), for collaborative approaches to research and development, and facilitating access to technology, in particular for early stages of the technology cycle, to developing country Parties.
 
-5. Het internationaal mechanisme van Warschau werkt samen met bestaande organen en deskundigengroepen in het kader van de Overeenkomst, alsmede met relevante organisaties en deskundige instanties buiten de Overeenkomst.
+6. Support, including financial support, shall be provided to developing country Parties for the implementation of this Article, including for strengthening cooperative action on technology development and transfer at different stages of the technology cycle, with a view to achieving a balance between support for mitigation and adaptation. The global stocktake referred to in [Article 14](https://wetten.overheid.nl/BWBV0006603) shall take into account available information on efforts related to support on technology development and transfer for developing country Parties.
 
-##### Artikel 9
+##### Article 11
 
-1. De Partijen die ontwikkelde landen zijn, blijven hun bestaande verplichtingen ingevolge het [Verdrag](onbekend) nakomen en verstrekken derhalve financiële middelen voor zowel mitigatie als adaptatie, ter ondersteuning van Partijen die ontwikkelingslanden zijn.
+1. Capacity-building under this Agreement should enhance the capacity and ability of developing country Parties, in particular countries with the least capacity, such as the least developed countries, and those that are particularly vulnerable to the adverse effects of climate change, such as small island developing States, to take effective climate change action, including, inter alia, to implement adaptation and mitigation actions, and should facilitate technology development, dissemination and deployment, access to climate finance, relevant aspects of education, training and public awareness, and the transparent, timely and accurate communication of information.
 
-2. Andere Partijen worden aangemoedigd op vrijwillige basis dergelijke ondersteuning te verlenen of te blijven verlenen.
+2. Capacity-building should be country-driven, based on and responsive to national needs, and foster country ownership of Parties, in particular, for developing country Parties, including at the national, subnational and local levels. Capacity-building should be guided by lessons learned, including those from capacity-building activities under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), and should be an effective, iterative process that is participatory, cross-cutting and gender-responsive.
 
-3. Als onderdeel van een wereldwijde inspanning dienen Partijen die ontwikkelde landen zijn, het voortouw te blijven nemen bij de mobilisering van klimaatfinanciering uit allerlei bronnen, instrumenten en kanalen, waarbij op de significante rol van overheidsmiddelen wordt gewezen, door middel van een scala van maatregelen, waaronder het ondersteunen van door het land gestuurde strategieën, en waarbij rekening wordt gehouden met de behoeften en prioriteiten van de Partijen die ontwikkelingslanden zijn. Deze mobilisering van klimaatfinanciering dient verder te gaan dan eerdere inspanningen.
+3. All Parties should cooperate to enhance the capacity of developing country Parties to implement this Agreement. Developed country Parties should enhance support for capacity-building actions in developing country Parties.
 
-4. De verstrekking van opgeschaalde financiële middelen dient erop gericht te zijn een evenwicht tussen adaptatie en mitigatie tot stand te brengen, waarbij rekening wordt gehouden met door de landen gestuurde strategieën, en de prioriteiten en behoeften van Partijen die ontwikkelingslanden zijn, met name die welke bijzonder kwetsbaar zijn voor de nadelige gevolgen van klimaatverandering en grote capaciteitsproblemen hebben, zoals de minst ontwikkelde landen en kleine eilandstaten in ontwikkeling, gezien de behoefte aan overheidsmiddelen en als subsidie verstrekte middelen voor adaptatie.
+4. All Parties enhancing the capacity of developing country Parties to implement this Agreement, including through regional, bilateral and multilateral approaches, shall regularly communicate on these actions or measures on capacity-building. Developing country Parties should regularly communicate progress made on implementing capacity-building plans, policies, actions or measures to implement this Agreement.
 
-5. De Partijen die ontwikkelde landen zijn, delen om de twee jaar indicatieve kwantitatieve en kwalitatieve informatie mede betreffende het eerste en derde lid van dit artikel, naargelang van toepassing, waaronder, voor zover beschikbaar, het verwachte niveau van publieke financiële middelen die worden verstrekt aan Partijen die ontwikkelingslanden zijn. Andere Partijen die middelen verstrekken, worden aangemoedigd om dergelijke informatie om de twee jaar vrijwillig mede te delen.
+5. Capacity-building activities shall be enhanced through appropriate institutional arrangements to support the implementation of this Agreement, including the appropriate institutional arrangements established under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) that serve this Agreement. The Conference of the Parties serving as the meeting of the Parties to this Agreement shall, at its first session, consider and adopt a decision on the initial institutional arrangements for capacity-building.
 
-6. Bij de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=14&z=2017-08-27&g=2017-08-27) bedoelde algemene inventarisatie wordt rekening gehouden met de relevante informatie over inspanningen voor klimaatfinanciering die wordt verstrekt door Partijen die ontwikkelde landen zijn en/of door organen in het kader van de Overeenkomst.
+##### Article 12
 
-7. Overeenkomstig de modaliteiten, procedures en richtlijnen die de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, krachtens [artikel 13, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=13&z=2017-08-27&g=2017-08-27), in haar eerste zitting zal aannemen, verstrekken Partijen die ontwikkelde landen zijn, om de twee jaar transparante en consistente informatie over ondersteuning van Partijen die ontwikkelingslanden zijn, die zij via overheidsinterventies hebben verstrekt en gemobiliseerd. Andere Partijen worden aangemoedigd dit eveneens te doen.
+Parties shall cooperate in taking measures, as appropriate, to enhance climate change education, training, public awareness, public participation and public access to information, recognizing the importance of these steps with respect to enhancing actions under this Agreement.
 
-8. Het financiële mechanisme van het [Verdrag](onbekend), met inbegrip van de instellingen die met de werking ervan zijn belast, is ook het financiële mechanisme van deze Overeenkomst.
+##### Article 13
 
-9. De instellingen die de uitvoering van deze Overeenkomst ondersteunen, waaronder de met de werking van het financiële mechanisme van het [Verdrag](onbekend) belaste instellingen, streven ernaar, via vereenvoudigde goedkeuringsprocedures en grotere ondersteuning voor paraatheid, een doelmatige toegang tot financiële middelen te waarborgen voor Partijen die ontwikkelingslanden zijn, met name voor de minst ontwikkelde landen en kleine eilandstaten in ontwikkeling, in het kader van hun nationale klimaatstrategieën en -plannen.
+1. In order to build mutual trust and confidence and to promote effective implementation, an enhanced transparency framework for action and support, with built-in flexibility which takes into account Parties’ different capacities and builds upon collective experience is hereby established.
 
-##### Artikel 10
+2. The transparency framework shall provide flexibility in the implementation of the provisions of this Article to those developing country Parties that need it in the light of their capacities. The modalities, procedures and guidelines referred to in paragraph 13 of this Article shall reflect such flexibility.
 
-1. De Partijen delen een langetermijnvisie op het belang om de ontwikkeling en overdracht van technologie ten volle te realiseren teneinde de veerkracht tegen klimaatverandering te verbeteren en de uitstoot van broeikasgassen te verminderen.
+3. The transparency framework shall build on and enhance the transparency arrangements under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), recognizing the special circumstances of the least developed countries and small island developing States, and be implemented in a facilitative, non-intrusive, non-punitive manner, respectful of national sovereignty, and avoid placing undue burden on Parties.
 
-2. De Partijen, gelet op het belang van technologie voor de uitvoering van mitigatie- en adaptatiemaatregelen ingevolge deze Overeenkomst, erkennen de huidige inspanningen voor de inzet en verspreiding van technologie en versterken derhalve hun samenwerking op het gebied van de ontwikkeling en overdracht van technologie.
+4. The transparency arrangements under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), including national communications, biennial reports and biennial update reports, international assessment and review and international consultation and analysis, shall form part of the experience drawn upon for the development of the modalities, procedures and guidelines under paragraph 13 of this Article.
 
-3. Het bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) ingestelde Technologiemechanisme is ook voor deze Overeenkomst van toepassing.
+5. The purpose of the framework for transparency of action is to provide a clear understanding of climate change action in the light of the objective of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) as set out in its [Article 2](https://wetten.overheid.nl/BWBV0006603), including clarity and tracking of progress towards achieving Parties’ individual nationally determined contributions under [Article 4](https://wetten.overheid.nl/BWBV0006603), and Parties’ adaptation actions under [Article 7](https://wetten.overheid.nl/BWBV0006603), including good practices, priorities, needs and gaps, to inform the global stocktake under [Article 14](https://wetten.overheid.nl/BWBV0006603).
 
-4. Hierbij wordt uit hoofde van de in het eerste lid van dit artikel bedoelde langetermijnvisie een kader voor technologie vastgesteld om overkoepelende sturing te geven aan de werkzaamheden in het kader van het Technologiemechanisme bij het bevorderen en vergemakkelijken van extra maatregelen voor de ontwikkeling en overdracht van technologie ter ondersteuning van de uitvoering van deze Overeenkomst.
+6. The purpose of the framework for transparency of support is to provide clarity on support provided and received by relevant individual Parties in the context of climate change actions under [Articles 4](https://wetten.overheid.nl/BWBV0006603), [7](https://wetten.overheid.nl/BWBV0006603), [9](https://wetten.overheid.nl/BWBV0006603), [10](https://wetten.overheid.nl/BWBV0006603) and [11](https://wetten.overheid.nl/BWBV0006603), and, to the extent possible, to provide a full overview of aggregate financial support provided, to inform the global stocktake under [Article 14](https://wetten.overheid.nl/BWBV0006603).
 
-5. Voor een doeltreffende, wereldwijde langetermijnaanpak van klimaatverandering en voor de bevordering van economische groei en duurzame ontwikkeling is het versnellen, stimuleren en mogelijk maken van innovatie van cruciaal belang. Een dergelijke inspanning wordt, indien van toepassing, ondersteund, onder meer door het Technologiemechanisme en in de vorm van financiële middelen door het financiële mechanisme van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), voor de gezamenlijke aanpak van onderzoek en ontwikkeling en om de toegang tot technologie, met name in de vroege stadia van de technologiecyclus, voor Partijen die ontwikkelingslanden zijn, te vergemakkelijken.
+7. Each Party shall regularly provide the following information:
 
-6. Voor de uitvoering van dit artikel wordt aan Partijen die ontwikkelingslanden zijn, ondersteuning, waaronder financiële ondersteuning, verleend, onder meer ter versterking van de samenwerking op het gebied van de ontwikkeling en overdracht van technologie tijdens de verschillende fasen van de technologiecyclus, teneinde een evenwicht tussen ondersteuning van mitigatie en adaptatie te bereiken. Bij de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=14&z=2017-08-27&g=2017-08-27) bedoelde algemene inventarisatie wordt rekening gehouden met de beschikbare informatie over inspanningen betreffende de ondersteuning van Partijen die ontwikkelingslanden zijn bij de ontwikkeling en overdracht van technologie.
+- a) A national inventory report of anthropogenic emissions by sources and removals by sinks of greenhouse gases, prepared using good practice methodologies accepted by the Intergovernmental Panel on Climate Change and agreed upon by the Conference of the Parties serving as the meeting of the Parties to this Agreement; and
 
-##### Artikel 11
+- b) Information necessary to track progress made in implementing and achieving its nationally determined contribution under [Article 4](https://wetten.overheid.nl/BWBV0006603).
 
-1. Capaciteitsopbouw ingevolge deze Overeenkomst dient de capaciteit en het vermogen van Partijen die ontwikkelingslanden zijn, met name de landen met de geringste capaciteit, zoals de minst ontwikkelde landen, en de landen die bijzonder kwetsbaar zijn voor de nadelige gevolgen van klimaatverandering, zoals kleine eilandstaten in ontwikkeling, te versterken om doeltreffende maatregelen inzake klimaatverandering te nemen, onder meer ter uitvoering van adaptatie- en mitigatiemaatregelen, en dient de ontwikkeling, verspreiding en inzet van technologie, de toegang tot klimaatfinanciering, relevante aspecten van onderwijs, opleiding en bewustmaking, en de transparante, tijdige en accurate informatieverstrekking te vergemakkelijken.
+8. Each Party should also provide information related to climate change impacts and adaptation under [Article 7](https://wetten.overheid.nl/BWBV0006603), as appropriate.
 
-2. Capaciteitsopbouw dient, ook op nationaal, subnationaal en lokaal niveau, door de landen te worden aangestuurd, te zijn gebaseerd op en aan te sluiten bij nationale behoeften, en het eigenaarschap van de landen die Partij zijn te bevorderen, met name voor Partijen die ontwikkelingslanden zijn. Capaciteitsopbouw dient plaats te vinden aan de hand van lessen die onder meer uit activiteiten voor capaciteitsopbouw ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) zijn geleerd, en dient een doeltreffend, herhalend proces te zijn dat participatief, transversaal en genderresponsief is.
+9. Developed country Parties shall, and other Parties that provide support should, provide information on financial, technology transfer and capacity-building support provided to developing country Parties under [Article 9](https://wetten.overheid.nl/BWBV0006603), [10](https://wetten.overheid.nl/BWBV0006603) and [11](https://wetten.overheid.nl/BWBV0006603).
 
-3. Alle Partijen dienen samen te werken teneinde de capaciteit van Partijen die ontwikkelingslanden zijn om deze Overeenkomst uit te voeren, te versterken. Partijen die ontwikkelde landen zijn, dienen meer ondersteuning te bieden aan capaciteitsopbouwende maatregelen in Partijen die ontwikkelingslanden zijn.
+10. Developing country Parties should provide information on financial, technology transfer and capacity-building support needed and received under [Articles 9](https://wetten.overheid.nl/BWBV0006603), [10](https://wetten.overheid.nl/BWBV0006603) and [11](https://wetten.overheid.nl/BWBV0006603).
 
-4. Alle Partijen die de capaciteit om deze Overeenkomst uit te voeren van Partijen die ontwikkelingslanden zijn, versterken, onder meer via regionale, bilaterale en multilaterale benaderingen, doen regelmatig mededeling over deze acties of maatregelen voor capaciteitsopbouw. Partijen die ontwikkelingslanden zijn, dienen regelmatig informatie te verstrekken over de gemaakte vorderingen bij de uitvoering van plannen, beleidslijnen, acties of maatregelen inzake capaciteitsopbouw om deze Overeenkomst uit te voeren.
+11. Information submitted by each Party under paragraphs 7 and 9 of this Article shall undergo a technical expert review, in accordance with decision 1/CP.21. For those developing country Parties that need it in the light of their capacities, the review process shall include assistance in identifying capacity-building needs. In addition, each Party shall participate in a facilitative, multilateral consideration of progress with respect to efforts under [Article 9](https://wetten.overheid.nl/BWBV0006603), and its respective implementation and achievement of its nationally determined contribution.
 
-5. Capaciteitsopbouwende activiteiten worden versterkt via passende institutionele regelingen ter ondersteuning van de uitvoering van deze Overeenkomst, waaronder de ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) vastgestelde institutionele regelingen die op deze Overeenkomst van toepassing zijn. De Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, zal tijdens haar eerste zitting een besluit over de aanvankelijke institutionele regelingen inzake capaciteitsopbouw overwegen en aannemen.
+12. The technical expert review under this paragraph shall consist of a consideration of the Party’s support provided, as relevant, and its implementation and achievement of its nationally determined contribution. The review shall also identify areas of improvement for the Party, and include a review of the consistency of the information with the modalities, procedures and guidelines referred to in paragraph 13 of this Article, taking into account the flexibility accorded to the Party under paragraph 2 of this Article. The review shall pay particular attention to the respective national capabilities and circumstances of developing country Parties.
 
-##### Artikel 12
+13. The Conference of the Parties serving as the meeting of the Parties to this Agreement shall, at its first session, building on experience from the arrangements related to transparency under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), and elaborating on the provisions in this Article, adopt common modalities, procedures and guidelines, as appropriate, for the transparency of action and support.
 
-De Partijen werken samen bij het nemen van maatregelen met betrekking tot klimaatverandering, indien van toepassing, ter bevordering van onderwijs, opleiding, bewustmaking, participatie van het publiek en toegang door het publiek tot informatie en erkennen daarbij het belang van deze activiteiten om de maatregelen ingevolge deze Overeenkomst te versterken.
+14. Support shall be provided to developing countries for the implementation of this Article.
 
-##### Artikel 13
+15. Support shall also be provided for the building of transparency-related capacity of developing country Parties on a continuous basis.
 
-1. Om wederzijds vertrouwen te kweken en een doeltreffende uitvoering te bevorderen, wordt hierbij een versterkt kader voor transparantie van maatregelen en ondersteuning vastgesteld, met ingebouwde flexibiliteit, waarbij rekening wordt gehouden met de verschillende capaciteiten van de Partijen en wordt voortgebouwd op collectieve ervaring.
+##### Article 14
 
-2. Het kader voor transparantie biedt de Partijen die ontwikkelingslanden zijn, bij de uitvoering van de bepalingen van dit artikel de flexibiliteit die zij gezien hun capaciteiten mogelijk nodig hebben. De in het dertiende lid van dit artikel bedoelde modaliteiten, procedures en richtlijnen weerspiegelen deze flexibiliteit.
+1. The Conference of the Parties serving as the meeting of the Parties to this Agreement shall periodically take stock of the implementation of this Agreement to assess the collective progress towards achieving the purpose of this Agreement and its long-term goals (referred to as the “global stocktake”). It shall do so in a comprehensive and facilitative manner, considering mitigation, adaptation and the means of implementation and support, and in the light of equity and the best available science.
 
-3. Het kader voor transparantie is gebaseerd op en versterkt de transparantieregelingen ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), waarbij de bijzondere omstandigheden van de minst ontwikkelde landen en kleine eilandstaten in ontwikkeling worden erkend, en wordt uitgevoerd op een faciliterende, niet-ingrijpende, niet-bestraffende wijze, met respect voor de nationale soevereiniteit, en vermijdt onnodige lasten voor Partijen.
+2. The Conference of the Parties serving as the meeting of the Parties to this Agreement shall undertake its first global stocktake in 2023 and every five years thereafter unless otherwise decided by the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
-4. De transparantieregelingen ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), waaronder nationale mededelingen, tweejaarlijkse rapporten en tweejaarlijkse actualiseringsrapporten, internationale evaluatie en toetsing en internationale consultatie en analyse, maken deel uit van de ervaring waaruit bij de ontwikkeling van de modaliteiten, procedures en richtlijnen ingevolge het dertiende lid van dit artikel wordt geput.
+3. The outcome of the global stocktake shall inform Parties in updating and enhancing, in a nationally determined manner, their actions and support in accordance with the relevant provisions of this Agreement, as well as in enhancing international cooperation for climate action.
 
-5. Het kader voor transparantie van maatregelen heeft tot doel een goed inzicht te geven in maatregelen tegen klimaatverandering in het licht van de doelstelling van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=2) daarvan, waaronder duidelijkheid en het volgen van vooruitgang bij het verwezenlijken van de individuele nationaal bepaalde bijdragen van de Partijen ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=4&z=2017-08-27&g=2017-08-27) en de adaptatiemaatregelen van de Partijen ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=7&z=2017-08-27&g=2017-08-27), waaronder goede praktijken, prioriteiten, behoeften en lacunes, ter informatie ten behoeve van de algemene inventarisatie ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=14&z=2017-08-27&g=2017-08-27).
+##### Article 15
 
-6. Het kader voor transparantie van ondersteuning heeft ten doel duidelijkheid te verschaffen over de ondersteuning die de relevante individuele Partijen in het kader van maatregelen op het gebied van klimaatverandering ingevolge de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=4&z=2017-08-27&g=2017-08-27), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=7&z=2017-08-27&g=2017-08-27), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=9&z=2017-08-27&g=2017-08-27), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=10&z=2017-08-27&g=2017-08-27) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=11&z=2017-08-27&g=2017-08-27) hebben verstrekt en ontvangen, alsmede, voor zover mogelijk, een volledig beeld van totale verstrekte financiële steun te krijgen, ter informatie ten behoeve van de algemene inventarisatie ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=14&z=2017-08-27&g=2017-08-27).
+1. A mechanism to facilitate implementation of and promote compliance with the provisions of this Agreement is hereby established.
 
-7. Elke Partij verstrekt regelmatig de volgende informatie:
+2. The mechanism referred to in paragraph 1 of this Article shall consist of a committee that shall be expert-based and facilitative in nature and function in a manner that is transparent, non-adversarial and non-punitive. The committee shall pay particular attention to the respective national capabilities and circumstances of Parties.
 
-- a. een nationaal inventarisatierapport van antropogene emissies per bron en verwijderingen per put van broeikasgassen, opgesteld met gebruikmaking van methoden die door de Intergouvernementele Werkgroep inzake klimaatverandering als goede praktijken zijn aanvaard en door de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, zijn overeengekomen; en
+3. The committee shall operate under the modalities and procedures adopted by the Conference of the Parties serving as the meeting of the Parties to this Agreement at its first session and report annually to the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
-- b. de informatie die nodig is om de voortgang bij de uitvoering en de verwezenlijking van de nationaal bepaalde bijdrage ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=4&z=2017-08-27&g=2017-08-27) te volgen.
+##### Article 16
 
-8. Elke Partij dient tevens informatie te verstrekken over de gevolgen van en de adaptatie aan klimaatverandering ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=7&z=2017-08-27&g=2017-08-27), indien van toepassing.
+1. The Conference of the Parties, the supreme body of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), shall serve as the meeting of the Parties to this Agreement.
 
-9. Partijen die ontwikkelde landen zijn, verstrekken informatie over financiële ondersteuning en ondersteuning bij technologieoverdracht en capaciteitsopbouw die ingevolge de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=9&z=2017-08-27&g=2017-08-27), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=10&z=2017-08-27&g=2017-08-27) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=11&z=2017-08-27&g=2017-08-27) aan Partijen die ontwikkelingslanden zijn, worden verstrekt; andere Partijen die ondersteuning bieden, dienen dit eveneens te doen.
+2. Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) that are not Parties to this Agreement may participate as observers in the proceedings of any session of the Conference of the Parties serving as the meeting of the Parties to this Agreement. When the Conference of the Parties serves as the meeting of the Parties to this Agreement, decisions under this Agreement shall be taken only by those that are Parties to this Agreement.
 
-10. Partijen die ontwikkelingslanden zijn, dienen informatie te verstrekken over financiële ondersteuning en ondersteuning bij technologieoverdracht en capaciteitsopbouw die ingevolge de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=9&z=2017-08-27&g=2017-08-27), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=10&z=2017-08-27&g=2017-08-27) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=11&z=2017-08-27&g=2017-08-27) nodig zijn en worden ontvangen.
+3. When the Conference of the Parties serves as the meeting of the Parties to this Agreement, any member of the Bureau of the Conference of the Parties representing a Party to the Convention but, at that time, not a Party to this Agreement, shall be replaced by an additional member to be elected by and from amongst the Parties to this Agreement.
 
-11. Informatie die ingevolge het zevende en negende lid van dit artikel door elke Partij wordt ingediend, wordt overeenkomstig Besluit 1/CP.21 door technisch deskundigen getoetst. Voor de Partijen die ontwikkelingslanden zijn en waarvoor dit gezien hun capaciteiten noodzakelijk is, maakt bijstand bij het vaststellen van de behoeften op het gebied van capaciteitsopbouw deel uit van het toetsingsproces. Bovendien neemt elke Partij deel aan een faciliterende, multilaterale overweging van de vooruitgang betreffende de inspanningen ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006603&artikel=9&z=2017-08-27&g=2017-08-27) en de respectieve uitvoering en verwezenlijking van haar nationaal bepaalde bijdrage.
+4. The Conference of the Parties serving as the meeting of the Parties to this Agreement shall keep under regular review the implementation of this Agreement and shall make, within its mandate, the decisions necessary to promote its effective implementation. It shall perform the functions assigned to it by this Agreement and shall:
 
-12. De toetsing door technisch deskundigen ingevolge dit lid bestaat uit een beschouwing van de door de Partij verstrekte ondersteuning, voor zover relevant, en de uitvoering en verwezenlijking van haar nationaal bepaalde bijdrage. Bij de toetsing wordt tevens vastgesteld op welke gebieden voor de Partij verbetering mogelijk is, en wordt bekeken of de informatie strookt met de in het dertiende lid van dit artikel bedoelde modaliteiten, procedures en richtlijnen, waarbij rekening wordt gehouden met de ingevolge het tweede lid van dit artikel aan de Partij geboden flexibiliteit. Bij de toetsing wordt met name aandacht besteed aan de respectieve nationale mogelijkheden en omstandigheden van de Partijen die ontwikkelingslanden zijn.
+- a) Establish such subsidiary bodies as deemed necessary for the implementation of this Agreement; and
 
-13. De Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, neemt tijdens haar eerste zitting, met het oog op de transparantie van maatregelen en ondersteuning, indien van toepassing, gemeenschappelijke modaliteiten, procedures en richtlijnen aan, waarbij wordt voortgebouwd op ervaringen met de transparantieregelingen ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) en de bepalingen van dit artikel verder worden uitgewerkt.
+- b) Exercise such other functions as may be required for the implementation of this Agreement.
 
-14. Ontwikkelingslanden worden bij de uitvoering van dit artikel ondersteund.
+5. The rules of procedure of the Conference of the Parties and the financial procedures applied under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) shall be applied *mutatis mutandis* under this Agreement, except as may be otherwise decided by consensus by the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
-15. Partijen die ontwikkelingslanden zijn, worden ook permanent ondersteund bij de capaciteitsopbouw op het gebied van transparantie.
+6. The first session of the Conference of the Parties serving as the meeting of the Parties to this Agreement shall be convened by the secretariat in conjunction with the first session of the Conference of the Parties that is scheduled after the date of entry into force of this Agreement. Subsequent ordinary sessions of the Conference of the Parties serving as the meeting of the Parties to this Agreement shall be held in conjunction with ordinary sessions of the Conference of the Parties, unless otherwise decided by the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
-##### Artikel 14
+7. Extraordinary sessions of the Conference of the Parties serving as the meeting of the Parties to this Agreement shall be held at such other times as may be deemed necessary by the Conference of the Parties serving as the meeting of the Parties to this Agreement or at the written request of any Party, provided that, within six months of the request being communicated to the Parties by the secretariat, it is supported by at least one third of the Parties.
 
-1. De Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, maakt regelmatig de stand van zaken op betreffende de uitvoering van deze Overeenkomst teneinde de gezamenlijke voortgang naar verwezenlijking van het doel van deze Overeenkomst en de langetermijndoelstellingen ervan te beoordelen (de „algemene inventarisatie” genoemd). Zij doet dit op een allesomvattende en faciliterende wijze en neemt daarbij mitigatie, adaptatie en de middelen voor uitvoering en ondersteuning in aanmerking in het licht van billijkheid en de beste beschikbare wetenschappelijk kennis.
+8. The United Nations and its specialized agencies and the International Atomic Energy Agency, as well as any State member thereof or observers thereto not party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), may be represented at sessions of the Conference of the Parties serving as the meeting of the Parties to this Agreement as observers. Any body or agency, whether national or international, governmental or non-governmental, which is qualified in matters covered by this Agreement and which has informed the secretariat of its wish to be represented at a session of the Conference of the Parties serving as the meeting of the Parties to this Agreement as an observer, may be so admitted unless at least one third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure referred to in paragraph 5 of this Article.
 
-2. De Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, voert de eerste algemene inventarisatie uit in 2023 en vervolgens elke vijf jaar, tenzij de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, anderszins besluit.
+##### Article 17
 
-3. Partijen gebruiken het resultaat van de algemene inventarisatie als basis om hun maatregelen en ondersteuning op nationaal vastgestelde wijze te actualiseren en te versterken, overeenkomstig de relevante bepalingen van deze Overeenkomst, en om de internationale samenwerking bij maatregelen betreffende het klimaat te versterken.
+1. The secretariat established by [Article 8 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=8) shall serve as the secretariat of this Agreement.
 
-##### Artikel 15
+2. [Article 8, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=8) on the functions of the secretariat, and Article 8, paragraph 3, of the Convention, on the arrangements made for the functioning of the secretariat, shall apply *mutatis mutandis* to this Agreement. The secretariat shall, in addition, exercise the functions assigned to it under this Agreement and by the Conference of the Parties serving as the meeting of the Parties to this Agreement.
 
-1. Hierbij wordt een mechanisme ingesteld om de uitvoering van de bepalingen van deze Overeenkomst te vergemakkelijken en de naleving ervan te bevorderen.
+##### Article 18
 
-2. Het in het eerste lid van dit artikel bedoelde mechanisme bestaat uit een comité van deskundigen dat op transparante, niet-contentieuze en niet-bestraffende wijze faciliterend van aard en functie is. Het comité besteedt met name aandacht aan de respectieve nationale mogelijkheden en omstandigheden van Partijen.
+1. The Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation established by [Articles 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=9) and [10 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=10) shall serve, respectively, as the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of this Agreement. The provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) relating to the functioning of these two bodies shall apply *mutatis mutandis* to this Agreement. Sessions of the meetings of the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of this Agreement shall be held in conjunction with the meetings of, respectively, the Subsidiary Body for Scientific and Technological Advice and the Subsidiary Body for Implementation of the Convention.
 
-3. Het comité verricht zijn werkzaamheden volgens de modaliteiten en procedures die de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, op haar eerste zitting aanneemt, en brengt jaarlijks verslag uit aan de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert.
+2. Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) that are not Parties to this Agreement may participate as observers in the proceedings of any session of the subsidiary bodies. When the subsidiary bodies serve as the subsidiary bodies of this Agreement, decisions under this Agreement shall be taken only by those that are Parties to this Agreement.
 
-##### Artikel 16
+3. When the subsidiary bodies established by [Articles 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=9) and [10 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=10) exercise their functions with regard to matters concerning this Agreement, any member of the bureaux of those subsidiary bodies representing a Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) but, at that time, not a Party to this Agreement, shall be replaced by an additional member to be elected by and from amongst the Parties to this Agreement.
 
-1. De Conferentie van de Partijen, het hoogste orgaan van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), fungeert als vergadering van de Partijen bij deze Overeenkomst.
+##### Article 19
 
-2. Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) die geen Partij bij deze Overeenkomst zijn, kunnen als waarnemer deelnemen aan de zittingen van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert. Wanneer de Conferentie van de Partijen als vergadering van de Partijen bij deze Overeenkomst fungeert, worden besluiten ingevolge deze Overeenkomst uitsluitend genomen door de Partijen bij deze Overeenkomst.
+1. Subsidiary bodies or other institutional arrangements established by or under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), other than those referred to in this Agreement, shall serve this Agreement upon a decision of the Conference of the Parties serving as the meeting of the Parties to this Agreement. The Conference of the Parties serving as the meeting of the Parties to this Agreement shall specify the functions to be exercised by such subsidiary bodies or arrangements.
 
-3. Wanneer de Conferentie van de Partijen als vergadering van de Partijen bij deze Overeenkomst fungeert, wordt een lid van het Bureau van de Conferentie van de Partijen dat een Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) vertegenwoordigt die op dat moment geen Partij bij deze Overeenkomst is, vervangen door een extra lid, te kiezen door en uit de Partijen bij deze Overeenkomst.
+2. The Conference of the Parties serving as the meeting of the Parties to this Agreement may provide further guidance to such subsidiary bodies and institutional arrangements.
 
-4. De Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, toetst regelmatig de uitvoering van deze Overeenkomst en neemt, binnen haar mandaat, de besluiten die nodig zijn ter bevordering van de doeltreffende uitvoering ervan. Zij verricht de haar krachtens deze Overeenkomst toegewezen taken en:
+##### Article 20
 
-- a. stelt de hulporganen in die voor de uitvoering van deze Overeenkomst noodzakelijk worden geacht; en
+1. This Agreement shall be open for signature and subject to ratification, acceptance or approval by States and regional economic integration organizations that are Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115). It shall be open for signature at the United Nations Headquarters in New York from 22 April 2016 to 21 April 2017. Thereafter, this Agreement shall be open for accession from the day following the date on which it is closed for signature. Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary.
 
-- b. vervult alle andere functies die voor de uitvoering van deze Overeenkomst nodig kunnen zijn.
+2. Any regional economic integration organization that becomes a Party to this Agreement without any of its member States being a Party shall be bound by all the obligations under this Agreement. In the case of regional economic integration organizations with one or more member States that are Parties to this Agreement, the organization and its member States shall decide on their respective responsibilities for the performance of their obligations under this Agreement. In such cases, the organization and the member States shall not be entitled to exercise rights under this Agreement concurrently.
 
-5. Het reglement van orde van de Conferentie van de Partijen en de financiële procedures die ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) worden toegepast, zijn in het kader van deze Overeenkomst van overeenkomstige toepassing, tenzij de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, bij consensus anders beslist.
+3. In their instruments of ratification, acceptance, approval or accession, regional economic integration organizations shall declare the extent of their competence with respect to the matters governed by this Agreement. These organizations shall also inform the Depositary, who shall in turn inform the Parties, of any substantial modification in the extent of their competence.
 
-6. De eerste zitting van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, wordt door het secretariaat belegd samen met de eerste zitting van de Conferentie van de Partijen die na de datum van inwerkingtreding van deze Overeenkomst is gepland. Daaropvolgende gewone zittingen van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, worden samen met de gewone zittingen van de Conferentie van de Partijen gehouden, tenzij de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, anders beslist.
+##### Article 21
 
-7. Buitengewone zittingen van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, worden gehouden op elk ander door haar noodzakelijk geacht tijdstip, of op schriftelijk verzoek van een Partij, op voorwaarde dat dit verzoek binnen zes maanden nadat het door het secretariaat aan de Partijen is medegedeeld, door ten minste een derde van de Partijen wordt gesteund.
+1. This Agreement shall enter into force on the thirtieth day after the date on which at least 55 Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) accounting in total for at least an estimated 55 percent of the total global greenhouse gas emissions have deposited their instruments of ratification, acceptance, approval or accession.
 
-8. De Verenigde Naties, haar gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede alle lidstaten daarvan of waarnemers daarbij die geen Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) zijn, kunnen op zittingen van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, worden vertegenwoordigd als waarnemer. Elke nationale of internationale, gouvernementele of niet-gouvernementele instelling of organisatie die bevoegd is voor aangelegenheden die onder deze Overeenkomst vallen en het secretariaat haar wens te kennen heeft gegeven op een zitting van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, als waarnemer te zijn vertegenwoordigd, kan als zodanig worden toegelaten, tenzij ten minste een derde van de aanwezige Partijen hiertegen bezwaar maakt. De toelating en de deelneming van waarnemers wordt geregeld in het in het vijfde lid van dit artikel bedoelde reglement van orde.
+2. Solely for the limited purpose of paragraph 1 of this Article, “total global greenhouse gas emissions” means the most up-to-date amount communicated on or before the date of adoption of this Agreement by the Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115).
 
-##### Artikel 17
+3. For each State or regional economic integration organization that ratifies, accepts or approves this Agreement or accedes thereto after the conditions set out in paragraph 1 of this Article for entry into force have been fulfilled, this Agreement shall enter into force on the thirtieth day after the date of deposit by such State or regional economic integration organization of its instrument of ratification, acceptance, approval or accession.
 
-1. Het bij [artikel 8 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=8) ingestelde secretariaat fungeert als secretariaat van deze Overeenkomst.
+4. For the purposes of paragraph 1 of this Article, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by its member States.
 
-2. [Artikel 8, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=8), inzake de taken van het secretariaat, en artikel 8, derde lid, van het Verdrag, inzake voor het functioneren van het secretariaat getroffen regelingen, zijn van overeenkomstige toepassing op deze Overeenkomst. Daarnaast verricht het secretariaat de ingevolge deze Overeenkomst en door Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, aan het secretariaat toegewezen taken.
+##### Article 22
 
-##### Artikel 18
+The provisions of [Article 15 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=15) on the adoption of amendments to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) shall apply *mutatis mutandis* to this Agreement.
 
-1. Het Hulporgaan voor wetenschappelijk en technologisch advies en het Hulporgaan inzake de uitvoering, ingesteld bij de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=9) en [10 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=10), fungeren als respectievelijk het Hulporgaan voor wetenschappelijk en technologisch advies en het Hulporgaan inzake de uitvoering van deze Overeenkomst. De bepalingen van het [Verdrag](onbekend) inzake het functioneren van deze twee organen zijn van overeenkomstige toepassing op deze Overeenkomst. Zittingen van de vergaderingen van het Hulporgaan voor wetenschappelijk en technologisch advies en het Hulporgaan inzake de uitvoering van deze Overeenkomst worden samen met de vergaderingen van respectievelijk het Hulporgaan voor wetenschappelijk en technologisch advies en het Hulporgaan inzake de uitvoering van het Verdrag gehouden.
+##### Article 23
 
-2. Partijen bij het [Verdrag](onbekend) die geen Partij bij deze Overeenkomst zijn, kunnen als waarnemer aan de zittingen van de hulporganen deelnemen. Wanneer de hulporganen fungeren als hulporganen van deze Overeenkomst, worden besluiten ingevolge deze Overeenkomst uitsluitend genomen door de Partijen bij deze Overeenkomst.
+1. The provisions of [Article 16 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=16) on the adoption and amendment of annexes to the Convention shall apply *mutatis mutandis* to this Agreement.
 
-3. Wanneer de bij de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=9) en [10 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=10) ingestelde hulporganen hun functie uitoefenen inzake aangelegenheden met betrekking tot deze Overeenkomst, wordt elk lid van de bureaus van die hulporganen dat een Partij bij het [Verdrag](onbekend) vertegenwoordigt die op dat tijdstip geen Partij bij deze Overeenkomst is, vervangen door een extra lid, te kiezen door en uit de Partijen bij deze Overeenkomst.
+2. Annexes to this Agreement shall form an integral part thereof and, unless otherwise expressly provided for, a reference to this Agreement constitutes at the same time a reference to any annexes thereto. Such annexes shall be restricted to lists, forms and any other material of a descriptive nature that is of a scientific, technical, procedural or administrative character.
 
-##### Artikel 19
+##### Article 24
 
-1. Andere dan in deze Overeenkomst bedoelde hulporganen of andere institutionele regelingen die bij of ingevolge het [Verdrag](onbekend) zijn ingesteld, worden op grond van een besluit van de Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, voor deze Overeenkomst ingezet. De Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, specificeert de functies die door dergelijke hulporganen of regelingen worden uitgeoefend.
+The provisions of [Article 14 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=14) on settlement of disputes shall apply *mutatis mutandis* to this Agreement.
 
-2. De Conferentie van de Partijen die als vergadering van de Partijen bij deze Overeenkomst fungeert, kan dergelijke hulporganen en institutionele regelingen nadere richtsnoeren geven.
+##### Article 25
 
-##### Artikel 20
+1. Each Party shall have one vote, except as provided for in paragraph 2 of this Article.
 
-1. Deze Overeenkomst staat open voor ondertekening en dient te worden bekrachtigd, aanvaard of goedgekeurd door Staten en regionale organisaties voor economische integratie die Partij bij het [Verdrag](onbekend) zijn. Deze Overeenkomst staat van 22 april 2016 tot en met 21 april 2017 op het Hoofdkwartier van de Verenigde Naties te New York open voor ondertekening. Daarna staat deze Overeenkomst open voor toetreding vanaf de dag na de datum waarop de Overeenkomst is gesloten voor ondertekening. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Depositaris.
+2. Regional economic integration organizations, in matters within their competence, shall exercise their right to vote with a number of votes equal to the number of their member States that are Parties to this Agreement. Such an organization shall not exercise its right to vote if any of its member States exercises its right, and vice versa.
 
-2. Een regionale organisatie voor economische integratie die Partij wordt bij deze Overeenkomst zonder dat één van haar lidstaten Partij is, is gebonden aan alle verplichtingen ingevolge deze Overeenkomst. Wanneer één of meer lidstaten van een regionale organisatie voor economische integratie Partij zijn bij deze Overeenkomst, besluiten de organisatie en haar lidstaten over hun respectieve verantwoordelijkheden betreffende de nakoming van hun verplichtingen ingevolge deze Overeenkomst. In dergelijke gevallen zijn de organisatie en haar lidstaten niet gerechtigd de uit de Overeenkomst voortvloeiende rechten gelijktijdig uit te oefenen.
+##### Article 26
 
-3. In hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding geven regionale organisaties voor economische integratie de omvang van hun bevoegdheid ter zake van door deze Overeenkomst geregelde aangelegenheden aan. Deze organisaties stellen de Depositaris ook in kennis van elke belangrijke wijziging betreffende de omvang van hun bevoegdheid, en de Depositaris stelt op zijn beurt de Partijen daarvan in kennis.
+The Secretary-General of the United Nations shall be the Depositary of this Agreement.
 
-##### Artikel 21
+##### Article 27
 
-1. Deze Overeenkomst treedt in werking dertig dagen na de datum waarop ten minste 55 Partijen bij het [Verdrag](onbekend) die tezamen naar schatting ten minste 55% van de totale wereldwijde uitstoot van broeikasgassen voor hun rekening nemen, hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
+No reservations may be made to this Agreement.
 
-2. Uitsluitend voor de beperkte toepassing van het eerste lid van dit artikel wordt onder „de totale wereldwijde uitstoot van broeikasgassen” verstaan de meest recente hoeveelheid die op of voor de datum van aanneming van deze Overeenkomst door de Partijen bij het [Verdrag](onbekend) is medegedeeld.
+##### Article 28
 
-3. Voor elke Staat of regionale organisatie voor economische integratie die deze Overeenkomst bekrachtigt, aanvaardt of goedkeurt, dan wel hiertoe toetreedt nadat aan de in het eerste lid van dit artikel vastgestelde voorwaarden voor inwerkingtreding is voldaan, treedt deze Overeenkomst in werking dertig dagen na de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door die Staat of regionale organisatie voor economische integratie.
+1. At any time after three years from the date on which this Agreement has entered into force for a Party, that Party may withdraw from this Agreement by giving written notification to the Depositary.
 
-4. Voor de toepassing van het eerste lid van dit artikel wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld bij de door de lidstaten van deze organisatie nedergelegde akten.
+2. Any such withdrawal shall take effect upon expiry of one year from the date of receipt by the Depositary of the notification of withdrawal, or on such later date as may be specified in the notification of withdrawal.
 
-##### Artikel 22
+3. Any Party that withdraws from the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) shall be considered as also having withdrawn from this Agreement.
 
-De bepalingen van [artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=15), inzake de aanneming van wijzigingen van het [Verdrag](onbekend), zijn van overeenkomstige toepassing op deze Overeenkomst.
+##### Article 29
 
-##### Artikel 23
-
-1. De bepalingen van [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=16), inzake de aanneming en wijziging van [bijlagen bij het Verdrag](onbekend), zijn van overeenkomstige toepassing op deze Overeenkomst.
-
-2. Bijlagen bij deze Overeenkomst maken er een integrerend onderdeel van uit en een verwijzing naar deze Overeenkomst vormt tegelijkertijd een verwijzing naar de bijlagen, tenzij uitdrukkelijk anders is bepaald. Deze bijlagen zijn beperkt tot lijsten, formulieren en andere beschrijvende stukken van wetenschappelijke, technische, procedurele of administratieve aard.
-
-##### Artikel 24
-
-De bepalingen van [artikel 14 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=14), inzake regeling van geschillen, zijn van overeenkomstige toepassing op deze Overeenkomst.
-
-##### Artikel 25
-
-1. Behoudens het bepaalde in het tweede lid van dit artikel, heeft elke Partij één stem.
-
-2. Regionale organisaties voor economische integratie beschikken ter zake van binnen hun bevoegdheid vallende aangelegenheden over een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij bij deze Overeenkomst zijn. Dergelijke organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
-
-##### Artikel 26
-
-De Secretaris-Generaal van de Verenigde Naties is Depositaris van deze Overeenkomst.
-
-##### Artikel 27
-
-Bij deze Overeenkomst kan geen enkel voorbehoud worden gemaakt.
-
-##### Artikel 28
-
-1. Na het verstrijken van een termijn van drie jaar te rekenen vanaf de datum waarop deze Overeenkomst voor een Partij in werking is getreden, kan die Partij deze Overeenkomst opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
-
-2. De opzegging wordt van kracht na het verstrijken van een termijn van een jaar te rekenen vanaf de datum waarop de Depositaris de kennisgeving van opzegging heeft ontvangen, of op enige latere in die kennisgeving vermelde datum.
-
-3. Een Partij die het [Verdrag](onbekend) heeft opgezegd, wordt geacht ook deze Overeenkomst te hebben opgezegd.
-
-##### Artikel 29
-
-Het oorspronkelijke exemplaar van deze Overeenkomst, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+The original of this Agreement, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
 DONE at Paris this twelfth day of December two thousand and fifteen.
 

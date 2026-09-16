@@ -1,162 +1,127 @@
 ---
 title: "Verdrag van Vriendschap en Samenwerking in Zuidoost-Azië"
 identifier: "BWBV0006893"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-08-03"
-last_updated: "2022-08-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006893"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005574913"
-version_id: "10006095492"
-internal_id: "C10009925721"
-label_id: "10005558184"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006893/2022-08-03/0"
-intitule_bron: "Trb.2021-12"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-01-22"
-intitule_in_force: "2022-08-26"
-intitule_status: "goed"
-original_publication: "Trb.2021-12"
-original_published_date: "2021-01-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2021-12"
-entry_into_force_date: "2022-08-03"
-jci_1_3: "jci1.3:c:BWBV0006893&z=2022-08-03&g=2022-08-03"
-jci_1_0: "1.0:c:BWBV0006893&g=2022-08-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-08-03"
+publicatiedatum: 2022-08-03
+laatste_update: 2022-08-03
+status: geldig
+toestand: 2022-08-03
+bron: "https://wetten.overheid.nl/BWBV0006893"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag van Vriendschap en Samenwerking in Zuidoost-Azië
 
-Preambule
+*Preamble The High Contracting Parties : Conscious of the existing ties of history, geography and culture, which have bound their peoples together; Anxious to promote regional peace and stability through abiding respect for justice and the rule or law and enhancing regional resilience in their relations; Desiring to enhance peace, friendship and mutual cooperation on matters affecting Southeast Asia consistent with the spirit and principles of the Charter of the United Nations, the Ten Principles adopted by the Asian-African Conference in Bandung on 25 April 1955, the Declaration of the Association of Southeast Asian Nations signed in Bangkok on 8 August 1967, and the Declaration signed in Kuala Lumpur on 27 November 1971; Convinced that the settlement of differences or disputes between their countries should be regulated by rational, effective and sufficiently flexible procedures, avoiding negative attitudes which might endanger or hinder cooperation; Believing in the need for cooperation with all peace-loving nations, both within and outside Southeast Asia, in the furtherance of world peace, stability and harmony; Solemnly agree to enter into a Treaty of Amity and Cooperation as follows:*
 
-De Hoge Verdragsluitende Partijen:
+### CHAPTER I. Purpose and principles
 
-In het bewustzijn van de bestaande historische, geografische en culturele banden tussen hun volkeren;
+##### Article 1
 
-Vastbesloten om de regionale vrede en stabiliteit te bevorderen door respect voor het recht en de rechtsstaat en een sterkere regionale weerbaarheid in hun onderlinge betrekkingen;
+The purpose of this Treaty is to promote perpetual peace, everlasting amity and cooperation among their peoples which would contribute to their strength, solidarity and closer relationship,
 
-In het verlangen vrede, vriendschap en wederzijdse samenwerking in zaken die Zuidoost-Azië aangaan, te bevorderen, in de geest en volgens de beginselen van het Handvest van de Verenigde Naties, de tien beginselen die zijn goedgekeurd op de Azië- Afrika-conferentie in Bandung van 25 april 1955, de verklaring van de Associatie van Zuidoost-Aziatische staten, ondertekend te Bangkok op 8 augustus 1967, en de verklaring ondertekend te Kuala Lumpur op 27 november 1971;
+##### Article 2
 
-Ervan overtuigd dat de beslechting van geschillen of disputen tussen hun landen moet worden geregeld door rationele, doeltreffende en voldoende flexibele procedures, met vermijding van negatieve attitudes die de samenwerking kunnen bedreigen of verhinderen;
+In their relations with one another, the High Contracting Parties shall be guided by the following fundamental principles :
 
-Gelovend dat alle vredelievende landen moeten samenwerken, zowel binnen als buiten Zuidoost-Azië, voor de bevordering van de wereldvrede, voor stabiliteit en harmonie;
+- a. Mutual respect for the independence, sovereignty, equality, territorial integrity and national identity of all nations;
 
-Komen plechtig overeen een Verdrag van Vriendschap en Samenwerking te sluiten, als volgt:
+- b. The right of every State to lead its national existence free from external interference, subversion or coercion;
 
-### HOOFDSTUK I. Doel en beginselen
+- c. Non-interference in the internal affairs of one another;
 
-##### Artikel 1
+- d. Settlement of differences or disputes by peaceful means;
 
-Dit verdrag heeft tot doel blijvende vrede, vriendschap en samenwerking tussen hun volkeren te bevorderen en zodoende bij te dragen tot hun sterkte, solidariteit en nauwere banden.
+- e. Renunciation of the threat or use of force;
 
-##### Artikel 2
+- f. Effective cooperation among themselves.
 
-In hun onderlinge betrekkingen worden de Hoge Verdragsluitende Partijen geleid door de volgende fundamentele beginselen:
+### CHAPTER II. Amity
 
-- a. wederzijds respect voor de onafhankelijkheid, soevereiniteit, gelijkwaardigheid, territoriale integriteit en nationale identiteit van alle staten;
+##### Article 3
 
-- b. het recht van elke staat op een nationaal bestaan zonder bemoeienissen, subversie of dwang van buitenaf;
+In pursuance of the purpose of this Treaty the High Contracting Parties shall endeavour to develop and strengthen the traditional, cultural and historical ties of friendship, good neighbourliness and cooperation which bind them together and shall fulfill in good faith the obligations assumed under this Treaty. In order to promote closer understanding among them, the High Contracting Parties shall encourage and facilitate contact and intercourse among their peoples.
 
-- c. niet-inmenging in de binnenlandse aangelegenheden van een ander land;
+### CHAPTER III. Cooperation
 
-- d. beslechting van geschillen of disputen met vreedzame middelen;
+##### Article 4
 
-- e. afzien van de dreiging met en gebruik van geweld;
+The High Contracting Parties shall promote active cooperation in the economic, social, technical, scientific and administrative fields as well as in matters of common ideals and aspirations of international peace and stability in the region and all other matters of common interest.
 
-- f. doeltreffende onderlinge samenwerking.
+##### Article 5
 
-### HOOFDSTUK II. Vriendschap
+Pursuant to [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006893&hoofdstuk=III&artikel=4&z=2022-08-03&g=2022-08-03) the High Contracting Parties shall exert their maximum efforts multilaterally as well as bilaterally on the basis of equality, non-discrimination and mutual benefit.
 
-##### Artikel 3
+##### Article 6
 
-Voor het bereiken van de doelstellingen van dit verdrag streven de Hoge Verdragsluitende Partijen naar de ontwikkeling en versterking van de traditionele, culturele en historische vriendschapsbanden, goede nabuurschap en samenwerking onder elkaar en vervullen zij in goede trouw de verplichtingen uit hoofde van dit verdrag. Teneinde een nauwere onderlinge verstandhouding te bevorderen, moedigen de Hoge Verdragsluitende Partijen contacten en sociaal verkeer tussen hun volkeren aan, en vergemakkelijken zij deze.
+The High Contracting Parties shall collaborate for the acceleration of the economic growth in the region in order to strengthen the foundation for a prosperous and peaceful community of nations in Southeast Asia. To this end, they shall promote the greater utilization of their agriculture and industries, the expansion of their trade and the improvement of their economic infrastructure for the mutual benefit of their peoples. In this regard, they shall continue to explore all avenues for close and beneficial cooperation with other States as well as international and regional organisations outside the region.
 
-### HOOFDSTUK III. Samenwerking
+##### Article 7
 
-##### Artikel 4
+The High Contracting Parties, in order to achieve social justice and to raise the standards of living of the peoples of the region, shall intensify economic cooperation. For this purpose, they shall adopt appropriate regional strategies for economic development and mutual assistance.
 
-De Hoge Verdragsluitende Partijen bevorderen actieve samenwerking op economisch, sociaal, wetenschappelijk en administratief gebied, alsook op het punt van gezamenlijke idealen en verlangens op het gebied van internationale vrede en stabiliteit in de regio en alle andere aangelegenheden van gemeenschappelijk belang.
+##### Article 8
 
-##### Artikel 5
+The High Contracting Parties shall strive to achieve the closest cooperation on the widest scale and shall seek to provide assistance to one another in the form of training and research facilities in the social, cultural, technical, scientific and administrative fields.
 
-Met het oog op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006893&hoofdstuk=III&artikel=4&z=2022-08-03&g=2022-08-03) getroosten de Hoge Verdragsluitende Partijen zich maximale inspanningen, zowel multilateraal als bilateraal, op basis van gelijkwaardigheid, non- discriminatie en wederzijds voordeel.
+##### Article 9
 
-##### Artikel 6
+The High Contracting Parties shall endeavour to foster cooperation in the furtherance of the cause of peace, harmony, and stability in the region. To this end, the High Contracting Parties shall maintain regular contacts and consultations with one another on international and regional matters with a view to coordinating their views actions and policies.
 
-De Hoge Verdragsluitende Partijen werken samen voor versnelde economische groei in de regio met het oog op een sterkere basis voor een welvarende en vredevolle gemeenschap van volkeren in Zuidoost-Azië. Tot dit doel bevorderen zij de uitbreiding van hun landbouw en industrie, de expansie van hun handel en de verbetering van hun economische infrastructuur voor het wederzijdse welzijn van hun volkeren. In dit verband onderzoeken zij verder alle mogelijkheden voor nauwe en voordeelbrengende samenwerking met andere staten, alsook internationale en regionale organisaties buiten de regio.
+##### Article 10
 
-##### Artikel 7
+Each High Contracting Party shall not in any manner or form participate in any activity which shall constitute a threat to the political and economic stability, sovereignty, or territorial integrity of another High Contracting Party.
 
-De Hoge Verdragsluitende Partijen voeren hun economische samenwerking op met het oog op het verwezenlijken van sociale rechtvaardigheid en een hogere levensstandaard van de volkeren in de regio. Tot dit doel keuren zij passende regionale strategieën goed voor economische ontwikkeling en wederzijdse bijstand.
+##### Article 11
 
-##### Artikel 8
+The High Contracting Parties shall endeavour to strengthen their respective national resilience in their political, economic, socio-cultural as well as security fields in conformity with their respective ideals and aspirations, free from external interference as well as internal subversive activities in order to preserve their respective national identities.
 
-De Hoge Verdragsluitende Partijen streven naar zeer nauwe samenwerking op de grootst mogelijke schaal en verstrekken elkaar wederzijdse bijstand in de vorm van opleiding en onderzoeksfaciliteiten op sociaal, cultureel, technisch, wetenschappelijk en administratief vlak.
+##### Article 12
 
-##### Artikel 9
+The High Contracting Parties in their efforts to achieve regional prosperity and security, shall endeavour to cooperate in all fields for the promotion of regional resilience, based on the principles of self-confidence, self-reliance, mutual respect, cooperation and solidarity which will constitute the foundation for a strong and viable community of nations in Southeast Asia.
 
-De Hoge Verdragsluitende Partijen streven naar samenwerking voor de bevordering van de vrede, harmonie en stabiliteit in de regio. Daartoe onderhouden de Hoge Verdragsluitende Partijen regelmatig contact en plegen zij geregeld overleg met elkaar over internationale en regionale kwesties teneinde hun acties en beleid op elkaar af te stemmen.
+### CHAPTER IV. Pacific settlement of disputes
 
-##### Artikel 10
+##### Article 13
 
-Een Hoge Verdragsluitende Partij neemt op generlei wijze deel aan enige activiteit die een bedreiging is voor de politieke en economische stabiliteit, soevereiniteit of territoriale integriteit van een andere Hoge Verdragsluitende Partij.
+The High Contracting Parties shall have the determination and good faith to prevent disputes from arising. In case disputes on matters directly affecting them should arise, especially disputes likely to disturb regional peace and harmony, they shall refrain from the threat or use of force and shall at all times settle such disputes among themselves through friendly negotiations.
 
-##### Artikel 11
+##### Article 14
 
-De Hoge Verdragsluitende Partijen streven naar versterking van hun respectieve nationale weerbaarheid op politiek, economisch, sociaal-cultureel en veiligheidsgebied, overeenkomstig hun respectieve idealen en aspiraties, vrij van externe inmenging en interne gezagsondermijnende activiteiten, teneinde hun respectieve nationale identiteit te vrijwaren.
+The settle disputes through regional processes, the High Contracting Parties shall constitute, as a continuing body, a High Council comprising a Representative at ministerial level from each of the High Contracting Parties to take cognizance of the existence of disputes or situations likely to disturb regional peace and harmony.
 
-##### Artikel 12
+However, this article shall apply to any of the High Contracting Parties outside Southeast Asia only in cases where that High Contracting Party is directly involved in the dispute to be settled through the regional processes.
 
-In hun streven naar regionale welvaart en veiligheid trachten de Hoge Verdragsluitende Partijen op alle gebieden samen te werken voor de bevordering van regionale weerbaarheid, gebaseerd op de beginselen van zelfvertrouwen, zelfredzaamheid, wederzijds respect, samenwerking en solidariteit, die de basis vormen voor een sterke en duurzame gemeenschap van landen in Zuidoost-Azië.
+##### Article 15
 
-### HOOFDSTUK IV. Vreedzame beslechting van geschillen
+In the event no solution is reached through direct negotiations, the High Council shall take cognizance of the dispute or the situation and shall recommend to the parties in dispute appropriate means of settlement such as good offices, mediation, inquiry or conciliation. The High Council may however offer its good offices, or upon agreement of the parties in dispute, constitute itself into a committee of mediation, inquiry or conciliation. When deemed necessary, the High Council shall recommend appropriate measures for the prevention of a deterioration of the dispute or the situation.
 
-##### Artikel 13
+##### Article 16
 
-De Hoge Verdragsluitende Partijen zijn vastbesloten en te goeder trouw om geen
+The foregoing provision of this Chapter shall not apply to a dispute unless all the parties to the dispute agree to their application to that dispute. However, this shall not preclude the other High Contracting Parties not party to the dispute from offering all possible assistance to settle the said dispute. Parties to the dispute should be well disposed towards such offers of assistance.
 
-geschillen te doen ontstaan. Mochten er toch geschillen ontstaan die hen direct aangaan, meer bepaald geschillen die de regionale vrede en harmonie kunnen verstoren, nemen de Hoge Verdragsluitende Partijen niet hun toevlucht tot het dreigen met of gebruiken van geweld, maar beslechten zij dergelijke geschillen te allen tijde door vriendschappelijke onderhandelingen.
+##### Article 17
 
-##### Artikel 14
+Nothing in this Treaty shall preclude recourse to the modes of peaceful settlement contained in [Article 33(l) of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=33). The High Contracting Parties which are parties to a dispute should be encouraged to take initiatives to solve it by friendly negotiations before resorting to the other procedures provided for in the Charter of the United Nations.
 
-Voor het beslechten van geschillen door regionale procedures richten de Hoge Verdragsluitende Partijen als permanent orgaan een hoge raad op die bestaat uit een vertegenwoordiger op ministerieel niveau van elke Hoge Verdragsluitende Partij en die tot taak heeft kennis te nemen van bestaande geschillen of situaties die de regionale vrede en harmonie kunnen verstoren.
+### CHAPTER V. General provision
 
-Dit artikel is echter slechts dan van toepassing op een Hoge Verdragsluitende Partij, indien deze Hoge Verdragsluitende Partij rechtstreeks is betrokken bij het geschil dat door regionale procedures moet worden beslecht.
+##### Article 18
 
-##### Artikel 15
+This Treaty shall be signed by the Republic of Indonesia, Malaysia, the Republic of the Philippines, the Republic of Singapore and the Kingdom of Thailand. It shall be ratified in accordance with the constitutional procedures of each signatory State.
 
-Indien directe onderhandelingen niet tot een oplossing leiden, neemt de hoge raad kennis van het geschil of de situatie en beveelt de betrokken partijen passende middelen aan tot beslechting, zoals goede diensten, bemiddeling, onderzoek of verzoening. De hoge raad kan echter zijn goede diensten aanbieden, of na akkoord van de betrokken partijen zichzelf instellen als een comité ter bemiddeling, onderzoek of verzoening. Indien dit noodzakelijk wordt geacht, beveelt de hoge raad passende maatregelen aan ter voorkoming van een verslechtering van het geschil of de situatie.
+It shall be open for accession by other States in Southeast Asia.
 
-##### Artikel 16
+This Treaty shall be open for accession by States outside Southeast Asia and regional organisations whose members are only sovereign States subject to the consent of all the States in Southeast Asia, namely, Brunei Darussalam, the Kingdom of Cambodia, the Republic of Indonesia, the Lao People's Democratic Republic, Malaysia, the Union of Myanmar, the Republic of the Philippines, the Republic of Singapore, the Kingdom of Thailand and the Socialist Republic of Viet Nam.
 
-De vorenstaande bepaling van dit hoofdstuk is niet van toepassing op een geschil indien niet alle betrokken partijen het daarover eens zijn. Dit neemt echter niet weg dat de andere niet bij het geschil betrokken Hoge Verdragsluitende Partijen alle mogelijke bijstand voor de beslechting van het geschil kunnen aanbieden. De bij een geschil betrokken partijen moeten dergelijke aanbiedingen van bijstand welwillend bejegenen.
+##### Article 19
 
-##### Artikel 17
+This Treaty shall enter into force on the date of the deposit of the fifth instrument of ratification with the Governments of the signatory States which are designated Depositories of this Treaty and the instruments of ratification or accession.
 
-Geen enkele bepaling van dit verdrag staat in de weg dat een beroep wordt gedaan op de wijzen van geschillenbeslechting die zijn bedoeld in [artikel 33, lid 1, van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=33). De Hoge Verdragsluitende Partijen die betrokken zijn bij een geschil, moet worden aanbevolen initiatieven te nemen om het geschil op vriendschappelijke wijze op te lossen, alvorens een beroep te doen op andere procedures waarin het Handvest van de Verenigde Naties voorziet.
+##### Article 20
 
-### HOOFDSTUK V. Algemene bepaling
-
-##### Artikel 18
-
-Dit verdrag wordt ondertekend door de Republiek Indonesië, Maleisië, de Republiek der Filippijnen, de Republiek Singapore en het Koninkrijk Thailand. Het wordt geratificeerd overeenkomstig de constitutionele procedures van elke ondertekenende staat.
-
-Het staat open voor toetreding door andere staten in Zuidoost-Azië.
-
-Staten buiten Zuidoost-Azië en regionale organisaties waarvan de leden uitsluitend soevereine staten zijn, kunnen ook toetreden tot dit verdrag, mits de instemming wordt verkregen van alle staten in Zuidoost-Azië, namelijk: het Sultanaat Brunei-Darussalam, het Koninkrijk Cambodja, de Republiek Indonesië, de Democratische Volksrepubliek Laos, Maleisië, de Unie van Myanmar, de Republiek der Filippijnen, de Republiek Singapore, het Koninkrijk Thailand en de Socialistische Republiek Vietnam.
-
-##### Artikel 19
-
-Dit verdrag treedt in werking op de datum waarop het vijfde ratificatie-instrument wordt nedergelegd bij de regeringen van de ondertekenende staten die als depositarissen van het verdrag zijn aangewezen en van de instrumenten voor ratificatie of toetreding.
-
-##### Artikel 20
-
-Dit verdrag wordt opgesteld in de officiële talen van de Hoge Verdragsluitende Partijen, alle talen zijnde gelijkelijk authentiek. Er wordt een overeengekomen gemeenschappelijke Engelse vertaling van de teksten opgesteld. Elke verschillende interpretatie van de gemeenschappelijke tekst zal worden opgelost door onderhandelingen.
+This Treaty is drawn up in the official languages of the High Contracting Parties, all of which are equally authoritative. There shall be an agreed common translation of the texts in the English language. Any divergent interpretation of the common text shall be settled by negotiation.
 
 IN FAITH THEREOF the High Contracting Parties have signed the Treaty and have hereto affixed their Seals.
 

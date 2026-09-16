@@ -1,121 +1,78 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek India inzake de bevordering en bescherming van investeringen"
 identifier: "BWBV0006079"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-12-01"
-last_updated: "2016-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006079"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005016653"
-version_id: "10005815692"
-internal_id: "C10009179641"
-label_id: "10004999964"
-dtd_version: "2.0"
-original_entry_into_force: "2016-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006079/2016-12-01/0"
-intitule_bron: "Trb.2016-195"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2016-12-08"
-intitule_in_force: "2016-12-08"
-intitule_status: "vervallen"
-original_publication: "Trb.2016-195"
-original_published_date: "2016-12-08"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2016-195"
-entry_into_force_date: "2016-12-01"
-jci_1_3: "jci1.3:c:BWBV0006079&z=2016-12-01&g=2016-12-01"
-jci_1_0: "1.0:c:BWBV0006079&g=2016-12-01"
-citeertitel_status: "officieel"
-entry_into_force: "2016-12-01"
+publicatiedatum: 2016-12-01
+laatste_update: 2016-12-01
+status: geldig
+toestand: 2016-12-01
+bron: "https://wetten.overheid.nl/BWBV0006079"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek India inzake de bevordering en bescherming van investeringen
 
-De Regering van het Koninkrijk der Nederlanden
+##### Article 1. Definitions
 
-en
+*Vervallen*
 
-de Regering van de Republiek India (beide hierna aangeduid als Verdragsluitende Partij),
+##### Article 2. Scope of the Agreement
 
-Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft,
+*Vervallen*
 
-In het besef dat wederzijdse bescherming van dergelijke investeringen uit hoofde van een verdrag de bovengenoemde doelstelling zal dienen en bevorderlijk zal zijn voor het stimuleren van het particulier initiatief om zaken te doen en de welvaart in beide Staten zal vergroten,
+##### Article 3. Promotion of Investment
 
-Zijn het volgende overeengekomen:
+*Vervallen*
 
-##### Artikel 1. Begripsomschrijvingen
+##### Article 4. National Treatment and most Favoured Nation Treatment
 
-Vervallen
+*Vervallen*
 
-##### Artikel 2. Werkingssfeer van het Verdrag
+##### Article 5. Expropriation
 
-Vervallen
+*Vervallen*
 
-##### Artikel 3. Investeringsbevordering
+##### Article 6. Compensation for Losses
 
-Vervallen
+*Vervallen*
 
-##### Artikel 4. Nationale behandeling en behandeling van meestbegunstigde natie
+##### Article 7. Repatriation of Investment and Returns
 
-Vervallen
+*Vervallen*
 
-##### Artikel 5. Onteigening
+##### Article 8. Subrogation
 
-Vervallen
+*Vervallen*
 
-##### Artikel 6. Schadeloosstelling voor verliezen
+##### Article 9. Investment Disputes
 
-Vervallen
+*Vervallen*
 
-##### Artikel 7. Repatriëring van de investering en opbrengsten
+##### Article 10. Disputes between the Contracting Parties
 
-Vervallen
+*Vervallen*
 
-##### Artikel 8. Subrogatie
+##### Article 11. Applicable laws
 
-Vervallen
+*Vervallen*
 
-##### Artikel 9. Investeringsgeschillen
+##### Article 12. Prohibitions and Restrictions
 
-Vervallen
+*Vervallen*
 
-##### Artikel 10. Geschillen tussen de Verdragsluitende Partijen
+##### Article 13. Application of other Rules
 
-Vervallen
+*Vervallen*
 
-##### Artikel 11. Toepasselijke wetgeving
+##### Article 14. Area of Application
 
-Vervallen
+*Vervallen*
 
-##### Artikel 12. Verboden en beperkingen
+##### Article 15. Entry into Force
 
-Vervallen
+*Vervallen*
 
-##### Artikel 13. Toepassing van andere regels
+##### Article 16. Duration and Termination
 
-Vervallen
-
-##### Artikel 14. Toepassingsgebied
-
-Vervallen
-
-##### Artikel 15. Inwerkingtreding
-
-Vervallen
-
-##### Artikel 16. Werkingsduur en beëindiging
-
-Vervallen
-
-IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Agreement.
-
-DONE in duplicate at The Hague on 6 November 1995 in the Netherlands, English and Hindi languages, the three texts being equally authentic. In case of difference of interpretation the English text shall prevail.
-
-**For the Government of the Kingdom of the Netherlands,**
-
-(sd.) A. VAN DOK-VAN WEELE
-
-**For the Government of the Republic of India,**
-
-(sd.) P. CHIDAMBARAM
+*Vervallen*

@@ -1,370 +1,339 @@
 ---
 title: "Verdrag inzake de Internationale Organisatie voor Maritieme Navigatie Ondersteunende Dienstverlening"
 identifier: "BWBV0006901"
-country: "nl"
-rank: "verdrag"
-publication_date: "2024-08-22"
-last_updated: "2024-08-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006901"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005580903"
-version_id: "10006106202"
-internal_id: "C10010112951"
-label_id: "10005563854"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006901/2024-08-22/0"
-intitule_bron: "Trb.2021-38"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-03-26"
-intitule_in_force: "2024-07-25"
-intitule_status: "goed"
-original_publication: "Trb.2021-38"
-original_published_date: "2021-03-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2021-38"
-entry_into_force_date: "2024-08-22"
-jci_1_3: "jci1.3:c:BWBV0006901&z=2024-08-22&g=2024-08-22"
-jci_1_0: "1.0:c:BWBV0006901&g=2024-08-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-08-22"
+publicatiedatum: 2024-08-22
+laatste_update: 2024-08-22
+status: geldig
+toestand: 2024-08-22
+bron: "https://wetten.overheid.nl/BWBV0006901"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag inzake de Internationale Organisatie voor Maritieme Navigatie Ondersteunende Dienstverlening
 
-Preambule
+*Preamble The States Parties to this Convention: Recalling that the International Association of Lighthouse Authorities was established on 1st July 1957 and was renamed the International Association of Marine Aids to Navigation and Lighthouse Authorities in 1998; Recognizing the role of the International Association of Marine Aids to Navigation and Lighthouse Authorities in the improvement and continued harmonization of Marine Aids to Navigation for the safe, economic and efficient movement of vessels for the benefit of the maritime community and the protection of the environment; Considering the provisions of the United Nations Convention on the Law of the Sea, 1982 and the International Convention for the Safety of Life at Sea, 1974, as amended; and Considering further that developing, improving and harmonizing Marine Aids to Navigation for the benefit of the maritime community and the protection of the environment is best coordinated by international organizations; Have agreed as follows:*
 
-De Staten die Partij zijn bij dit Verdrag,
+##### Article 1. Establishment
 
-In herinnering roepend dat de Internationale Associatie van Vuurtorenautoriteiten op 1 juli 1957 werd opgericht en in 1998 werd hernoemd tot de Internationale Associatie voor Maritieme Navigatie Ondersteunende Dienstverlening en Vuurtorenautoriteiten;
+1. The International Organization for Marine Aids to Navigation (hereinafter the “Organization”) is hereby established under international law as an intergovernmental organization.
 
-Erkennend de rol van de Internationale Associatie van Maritieme Navigatie Ondersteunende Dienstverlening en Vuurtorenautoriteiten bij de verbetering en voortdurende harmonisatie van maritieme navigatie ondersteunende dienstverlening voor de veilige, economische en doeltreffende verplaatsing van schepen ten behoeve van de maritieme gemeenschap en de bescherming van het milieu;
+2. The Organization shall have a consultative and technical nature.
 
-Overwegend de bepalingen van het [Verdrag van de Verenigde Naties inzake het recht van de zee, 1982](onbekend), en het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](onbekend), zoals gewijzigd; en
+3. The Organization shall have its seat in France, unless otherwise decided by the General Assembly.
 
-Voorts overwegend dat het ontwikkelen, verbeteren en harmoniseren van maritieme navigatie ondersteunende dienstverlening ten behoeve van de maritieme gemeenschap en de bescherming van het milieu het beste gecoördineerd kan worden door internationale organisaties;
+4. The functioning of the Organization shall be set forth in detail in the General Regulations, which are subject to the provisions of this Convention but do not form an integral part thereof. In the event of any inconsistency between this Convention and the General Regulations or any other basic documents covering the governance of the Organization, this Convention shall prevail.
 
-Zijn het volgende overeengekomen:
+##### Article 2. Definitions
 
-##### Artikel 1. Oprichting
+For the purposes of this Convention:
 
-1. De Internationale Organisatie voor Maritieme Navigatie Ondersteunende Dienstverlening (hierna de „Organisatie”) wordt hierbij opgericht als intergouvernementele organisatie naar internationaal recht.
+- 1. Marine Aid to Navigation means a device, system or service, external to a vessel, designed and operated to enhance safe and efficient navigation of individual vessels and vessel traffic. For the purpose of the Organization this definition includes Vessel Traffic Services.
 
-2. De Organisatie heeft een raadgevend en technisch karakter.
+- 2. Member State means a State that has consented to be bound by this Convention and for which this Convention is in force.
 
-3. De Organisatie heeft haar zetel in Frankrijk, tenzij de Algemene Vergadering anders heeft besloten.
+- 3. Associate Member means a territory or group of territories for which a Member State has responsibility for its international relations and for which it has requested membership which has been approved by the General Assembly, and national members of the International Association of Marine Aids to Navigation and Lighthouse Authorities from States that are not Member States, in accordance with [paragraph 5 of the Annex](https://wetten.overheid.nl/BWBV0006901).
 
-4. Het functioneren van de Organisatie wordt nader vastgelegd in het Algemeen Reglement, waarop de bepalingen van dit Verdrag van toepassing zijn maar dat er geen integrerend deel van uitmaakt. In geval van verschillen tussen dit Verdrag en het Algemeen Reglement of andere basisdocumenten inzake het bestuur van de Organisatie, is dit Verdrag doorslaggevend.
+- 4. Affiliate Member means a manufacturer or distributor of Marine Aids to Navigation equipment for sale, or an organization providing Marine Aids to Navigation services or technical advice under contract and any other organization or scientific agency concerned with Marine Aids to Navigation which has applied for membership, and which has been approved by the Council.
 
-##### Artikel 2. Begripsomschrijvingen
+##### Article 3. Aim and Objectives
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+The aim of the Organization is to bring together governments and organizations concerned with the regulation, provision, maintenance or operation of Marine Aids to Navigation in order to further the objectives of:
 
-- 1. Maritieme navigatie ondersteunende dienstverlening: een apparaat, systeem of dienst, dat of die zich buiten een vaartuig bevindt, ontworpen en gebruikt om de veilige en doelmatige navigatie van individuele vaartuigen en het scheepvaartverkeer te verbeteren. Ten behoeve van de Organisatie omvat deze begripsomschrijving mede **Vessel Traffic Services**.
+- a) Fostering the safe and efficient movement of vessels through the improvement and harmonization of Marine Aids to Navigation worldwide for the benefit of the maritime community and the protection of the marine environment;
 
-- 2. Lidstaat een Staat die ermee heeft ingestemd door dit Verdrag te worden gebonden en waarvoor dit Verdrag van kracht is.
+- b) Promoting access to technical cooperation and capacity building on all matters related to the development and transfer of expertise, science and technology in relation to Marine Aids to Navigation;
 
-- 3. Geassocieerd Lid een grondgebied of groep grondgebieden waarvoor een Lidstaat de buitenlandse betrekkingen behartigt en waarvoor hij het lidmaatschap heeft aangevraagd dat door de Algemene Vergadering is goedgekeurd, en nationale leden van de Internationale Associatie voor Maritieme Navigatie Ondersteunende Dienstverlening en Vuurtorenautoriteiten van Staten die geen Lidstaten zijn, in overeenstemming met paragraaf 5 van de Bijlage.
+- c) Encouraging and facilitating the general adoption of the highest practicable standards in matters concerning Marine Aids to Navigation; and
 
-- 4. Geaffilieerd Lid een producent of distributeur van apparatuur op het gebied van maritieme navigatie ondersteunende dienstverlening die gekocht kan worden, of een organisatie die op contractbasis diensten of technische adviezen levert op het gebied van maritieme navigatie ondersteunende dienstverlening en elke andere organisatie of wetenschappelijke instantie die zich bezighoudt met maritieme navigatie ondersteunende dienstverlening die lidmaatschap heeft aangevraagd, en dat door de Raad is goedgekeurd.
+- d) Providing for the exchange of information on matters under consideration by the Organization.
 
-##### Artikel 3. Doel en doelstellingen
+##### Article 4. Functions
 
-Het doel van de Organisatie is het bijeenbrengen van overheden en organisaties die betrokken zijn bij de regelgeving, de levering, het onderhoud of de exploitatie van maritieme navigatie ondersteunende dienstverlening teneinde de volgende doelstellingen te bevorderen:
+In order to achieve the aim and objectives set out in [Article 3](https://wetten.overheid.nl/BWBV0006901), the functions of the Organization shall be:
 
-- a. Bevorderen van de veilige en doelmatige verplaatsing van vaartuigen door het wereldwijd verbeteren en harmoniseren van maritieme navigatie ondersteunende dienstverlening ten behoeve van de maritieme gemeenschap en de bescherming van het mariene milieu;
+- a) To develop and communicate non-mandatory standards, recommendations, guidelines, manuals and other appropriate documents;
 
-- b. Bevorderen van toegang tot technische samenwerking en capaciteitsopbouw bij alle aangelegenheden die verband houden met de ontwikkeling en overdracht van expertise, wetenschap en technologie in relatie tot maritieme navigatie ondersteunende dienstverlening;
+- b) To consider and make recommendations on standards, recommendations, guidelines, manuals and other appropriate documents that may be remitted to it by Member States, Associate Members and Affiliate Members, by any organ or specialized agency of the United Nations or by any other intergovernmental organization;
 
-- c. Aanmoedigen en faciliteren van de brede aanneming van de strengste uitvoerbare normen bij aangelegenheden met betrekking tot maritieme navigatie ondersteunende dienstverlening; en
+- c) To provide mechanisms for consultation and the exchange of information covering *inter alia*, recent developments and the activities of Member States, Associate Members and Affiliate Members;
 
-- d. Voorzien in de uitwisseling van informatie betreffende aangelegenheden waarover de Organisatie zich buigt.
+- d) To develop international cooperation by promoting close working relationships and assistance between Member States, Associate Members and Affiliate Members;
 
-##### Artikel 4. Taken
+- e) To facilitate assistance, whether technical, organizational or training, to governments, services and other organizations requesting help with Marine Aids to Navigation;
 
-Teneinde het doel en de doelstellingen die in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=3&z=2024-08-22&g=2024-08-22) zijn vervat te verwezenlijken, heeft de Organisatie de volgende taken:
+- f) To organize conferences, symposia, seminars, workshops and other events; and
 
-- a. Ontwikkelen en bekendmaken van niet-dwingende normen, aanbevelingen, richtsnoeren, handleidingen en andere toepasselijke documenten;
+- g) To liaise and cooperate with relevant international and other organizations, offering specialized advice, where appropriate.
 
-- b. Bestuderen van en aanbevelingen doen over normen, aanbevelingen, richtsnoeren, handleidingen en andere toepasselijke documenten die aan haar kunnen worden voorgelegd door Lidstaten, Geassocieerde Leden en Geaffilieerde Leden, door elk orgaan of gespecialiseerde organisatie van de Verenigde Naties of door enige andere intergouvernementele organisatie;
+##### Article 5. Membership
 
-- c. Voorzien in consultatiemechanismen en de uitwisseling van informatie over onder andere recente ontwikkelingen en de activiteiten van Lidstaten, Geassocieerde Leden en Geaffilieerde Leden;
+1. The Organization shall be comprised of Member States, Associate Members and Affiliate Members.
 
-- d. Ontwikkelen van internationale samenwerking door het bevorderen van nauwe samenwerkingsverbanden en assistentie tussen Lidstaten, Geassocieerde Leden en Geaffilieerde Leden;
+2. Any Member State having responsibility for the international relations of a territory or group of territories may request Associate membership for such territory or group of territories, by notification in writing to the Secretary-General.
 
-- e. Faciliteren van assistentie, op technisch, organisatorisch of opleidingsgebied, aan overheden, diensten en andere organisaties die om ondersteuning vragen bij maritieme navigatie ondersteunende dienstverlening;
+3. The Council may require or a Member State may request that aspects of an application for Affiliate membership be reviewed by the Member State or Member States where the applicant carries out its activities or has its principal place of business or registered office. The Council shall take into consideration the views of the requesting and reviewing Member States when deciding on Affiliate membership.
 
-- f. Organiseren van conferenties, symposia, seminars, workshops en andere evenementen; en
+##### Article 6. Organs
 
-- g. Contacten onderhouden en samenwerken met relevante internationale en andere organisaties, en, waar nodig, bieden van specialistisch advies.
+1. The Organization shall have as its organs:
 
-##### Artikel 5. Lidmaatschap
+- a) The General Assembly;
 
-1. De Organisatie bestaat uit Lidstaten, Geassocieerde Leden en Geaffilieerde Leden.
+- b) The Council;
 
-2. Een Lidstaat die verantwoordelijk is voor de internationale betrekkingen van een grondgebied of groep grondgebieden kan een geassocieerd lidmaatschap aanvragen voor dit grondgebied of deze groep grondgebieden door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal.
+- c) Committees and subsidiary bodies necessary to support the Organization’s activities; and
 
-3. De Raad kan verlangen of een Lidstaat kan verzoeken dat aspecten van een aanvraag tot geaffilieerd lidmaatschap worden beoordeeld door de Lidstaat of Lidstaten waar de aanvrager zijn activiteiten uitoefent of zijn voornaamste plaats van bedrijfsuitoefening of zetel is gevestigd. De Raad houdt rekening met de opvattingen van de aanvragende en beoordelende Lidstaten wanneer zij beslist over een geaffilieerd lidmaatschap.
+- d) The Secretariat.
 
-##### Artikel 6. Organen
+2. There shall be a President and a Vice President of the Organization. The President, or in case of the President’s absence, the Vice President shall chair the General Assembly and the Council.
 
-1. De Organisatie heeft de volgende organen:
+3. The General Regulations and Financial Regulations shall detail the Rules of Procedure that shall apply for each organ and govern the day-to-day management of the Organization.
 
-- a. De Algemene Vergadering;
+##### Article 7. The General Assembly
 
-- b. De Raad;
+1. The General Assembly is the principal decision-making organ of the Organization and shall have all the powers of the Organization, unless otherwise provided by this Convention.
 
-- c. Commissies en subsidiaire organen die noodzakelijk zijn voor de ondersteuning van de activiteiten van de Organisatie; en
+2. The General Assembly shall consist only of Member States. Attendance shall also be open to Associate Members and Affiliate Members.
 
-- d. Het Secretariaat.
+3. Each Member State shall designate one of its delegates as its principal delegate at the General Assembly.
 
-2. De Organisatie heeft een voorzitter en een vicevoorzitter. De voorzitter, of in zijn afwezigheid, de vicevoorzitter zit de Algemene Vergadering en de Raad voor.
+4. Regular sessions of the General Assembly shall take place once every three years.
 
-3. In het Algemeen Reglement en het Financieel Reglement wordt het reglement van orde vastgelegd dat op elk orgaan van toepassing is en dat leidend is in het dagelijks bestuur van de Organisatie.
+5. Extraordinary sessions of the General Assembly shall be convened whenever one-third of Member States give notice to the Secretary-General that they desire a session to be convened, or at any time if deemed necessary by the Council, after a notice of ninety days.
 
-##### Artikel 7. De Algemene Vergadering
+6. A majority of Member States shall constitute a quorum for the sessions of the General Assembly.
 
-1. De Algemene Vergadering is het belangrijkste besluitvormende orgaan van de Organisatie en beschikt over alle bevoegdheden van de Organisatie, tenzij anders is bepaald in dit Verdrag.
+7. The General Assembly shall:
 
-2. De Algemene Vergadering bestaat uitsluitend uit Lidstaten. Ook Geassocieerde Leden en Geaffilieerde Leden mogen deelnemen.
+- a) Elect the President and the Vice President from amongst the Member States in accordance with the General Regulations;
 
-3. Elke Lidstaat wijst een van zijn afgevaardigden aan als zijn eerste afgevaardigde bij de Algemene Vergadering.
+- b) Decide the overall policy and the strategic vision of the Organization;
 
-4. Gewone zittingen van de Algemene Vergadering worden eenmaal in de drie jaar gehouden.
+- c) Review and approve the General Regulations and the Financial Regulations of the Organization;
 
-5. Buitengewone zittingen van de Algemene Vergadering worden bijeengeroepen wanneer een derde van de Lidstaten de Secretaris-Generaal ervan in kennis stellen dat zij een zitting bijeen wensen te roepen, of op elk tijdstip indien de Raad dit noodzakelijk acht, met inachtneming van een termijn van negentig dagen.
+- d) Elect, in accordance with [Article 8](https://wetten.overheid.nl/BWBV0006901), the Council from amongst the Member States other than the Member States holding the Presidency or Vice Presidency;
 
-6. Een meerderheid van Lidstaten vormt een quorum voor de zittingen van de Algemene Vergadering.
+- e) Elect the Secretary-General from amongst nationals of the Member States in accordance with the General Regulations;
 
-7. De Algemene Vergadering:
+- f) Establish and terminate Committees and subsidiary bodies and review and approve their Terms of Reference;
 
-- a. Kiest de voorzitter en de vicevoorzitter uit de Lidstaten in overeenstemming met het Algemeen Reglement;
+- g) Review and approve the financial arrangements of the Organization, including the outline budget for the following three years and the rate of contributions for Member States and fees for Associate Members and Affiliate Members;
 
-- b. Stelt het algemene beleid en de strategische visie van de Organisatie vast;
+- h) Consider the reports and proposals put to it by any Member State, the Council or the Secretary-General;
 
-- c. Beoordeelt het Algemeen Reglement en het Financieel Reglement van de Organisatie en keurt deze goed;
+- i) Approve standards;
 
-- d. Kiest, in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=8&z=2024-08-22&g=2024-08-22), de Raad uit de Lidstaten anders dan de Lidstaten die het voorzitterschap of vicevoorzitterschap bekleden;
+- j) Decide on Associate membership;
 
-- e. Kiest de Secretaris-Generaal uit onderdanen van de Lidstaten in overeenstemming met het Algemeen Reglement;
+- k) Rule on Affiliate membership upon the request of one or more Member States;
 
-- f. Stelt commissies en subsidiaire organen in en heft deze op en beoordeelt hun mandaat en keurt dit goed;
+- l) Make recommendations to Member States, Associate Members and Affiliate Members on matters within the aim and objectives of the Organization;
 
-- g. Beoordeelt de financiële regelingen van de Organisatie en keurt deze goed, met inbegrip van de algemene begroting voor de komende drie jaar en de hoogte van de contributies van de Lidstaten en lidmaatschapsgelden van de Geassocieerde Leden en Geaffilieerde Leden;
+- m) Approve agreements with States and international organizations; and
 
-- h. Bestudeert de rapporten en voorstellen die haar worden voorgelegd door Lidstaten, de Raad of de Secretaris-Generaal;
+- n) Decide on any other matters within the aim and objectives of the Organization.
 
-- i. Keurt normen goed;
+##### Article 8. The Council
 
-- j. Beslist over geassocieerde lidmaatschappen;
+1. The Council is the executive organ of the Organization and shall be responsible for directing the activities of the Organization.
 
-- k. Oordeelt over een geaffilieerd lidmaatschap op verzoek van een of meer Lidstaten;
+2. The Council shall consist of the President and the Vice President and twenty-three other Member States.
 
-- l. Doet aanbevelingen aan Lidstaten, Geassocieerde Leden en Geaffilieerde Leden over aangelegenheden die binnen het doel en de doelstellingen van de Organisatie vallen;
+3. Council members shall be elected by ballot at each regular session of the General Assembly in accordance with the General Regulations. Council members should, in principle, be drawn from different parts of the world, with a view to achieving a worldwide representation.
 
-- m. Keurt overeenkomsten met staten en internationale organisaties goed; en
+4. At the Council, Member States shall preferably be represented by a delegate from a national authority responsible for the regulation, provision, maintenance or operation of Marine Aids to Navigation of that Member State.
 
-- n. Beslist over andere aangelegenheden die binnen het doel en de doelstellingen van de Organisatie vallen.
+5. Seventeen members of the Council, at least one of which must be the President or Vice President, shall constitute a quorum for the sessions of the Council.
 
-##### Artikel 8. De Raad
+6. The Council shall meet at least once a year.
 
-1. De Raad is het uitvoerend orgaan van de Organisatie en is verantwoordelijk voor het leiden van de activiteiten van de Organisatie.
+7. Any Member State not represented on the Council may participate in the Council meetings, but will not be entitled to vote.
 
-2. De Raad bestaat uit de voorzitter en de vicevoorzitter en drieëntwintig andere Lidstaten.
+8. The Council shall:
 
-3. Leden van de Raad worden gekozen door middel van stemming tijdens elke reguliere zitting van de Algemene Vergadering in overeenstemming met het Algemeen Reglement. Leden van de Raad dienen, in beginsel, gekozen te worden uit verschillende delen van de wereld teneinde tot een wereldwijde vertegenwoordiging te komen.
+- a) Exercise such responsibilities as may be delegated to it by the General Assembly;
 
-4. Tijdens de Raad worden de Lidstaten bij voorkeur vertegenwoordigd door een afgevaardigde van een nationale autoriteit die verantwoordelijk is voor de regelgeving, de levering, het onderhoud of de exploitatie van maritieme navigatie ondersteunende dienstverlening van die Lidstaat.
+- b) Coordinate the activities of the Organization within the framework of the overall policy, the strategic vision and the outline budget, as decided by the General Assembly;
 
-5. Zeventien leden van de Raad, waarvan er ten minste een de voorzitter of vicevoorzitter moet zijn, vormen een quorum voor de zittingen van de Raad.
+- c) Review and approve the financial statements, including the annual budget;
 
-6. De Raad komt ten minste eenmaal per jaar bijeen.
+- d) Decide on Affiliate membership;
 
-7. Lidstaten die niet vertegenwoordigd zijn in de Raad mogen deelnemen aan de vergaderingen van de Raad, maar zijn niet gerechtigd een stem uit te brengen.
+- e) Convene the General Assembly;
 
-8. De Raad:
+- f) Report to the General Assembly on the work of the Organization;
 
-- a. Oefent de verantwoordelijkheden uit die de Algemene Vergadering aan de Raad mag delegeren;
+- g) Review papers submitted to it in accordance with the General Regulations;
 
-- b. Coördineert de activiteiten van de Organisatie binnen het kader van het algemeen beleid, de strategische visie en de algemene begroting, zoals besloten door de Algemene Vergadering;
+- h) Refer to the General Assembly all matters requiring decision by the General Assembly;
 
-- c. Beoordeelt de jaarrekening, met inbegrip van de jaarlijkse begroting, en keurt deze goed;
+- i) Approve recommendations, guidelines, manuals and other appropriate documents;
 
-- d. Beslist over geaffilieerde lidmaatschappen;
+- j) Approve submissions to other organizations;
 
-- e. Roept de Algemene Vergadering bijeen;
+- k) Appoint Chairs and Vice Chairs of Committees and subsidiary bodies and review and approve their work programmes;
 
-- f. Rapporteert aan de Algemene Vergadering over de werkzaamheden van de Organisatie;
+- l) Decide the venue and the year of the Organization’s conferences and symposia as described in the General Regulations; and
 
-- g. Beoordeelt papers die bij hem zijn ingediend in overeenstemming met het Algemeen Reglement;
+- m) Approve the Staff Rules.
 
-- h. Verwijst alle aangelegenheden waarover de Algemene Vergadering dient te beslissen door naar de Algemene Vergadering;
+9. Council members may, after having informed the President and the Secretary-General, invite Affiliate Members to participate as technical advisors at Council meetings to provide advice and support on operational and technical matters.
 
-- i. Keurt aanbevelingen, richtsnoeren, handleidingen en andere toepasselijke documenten goed;
+##### Article 9. Committees and Subsidiary Bodies
 
-- j. Keurt indiening bij andere organisaties goed;
+1. Committees and subsidiary bodies shall support the aim and objectives of the Organization.
 
-- k. Benoemt voorzitters en vicevoorzitters van commissies en subsidiaire organen en beoordeelt hun werkprogramma's en keurt deze goed;
+2. The Committees shall:
 
-- l. Beslist over de locatie en het jaar van de conferenties en symposia van de Organisatie zoals omschreven in het Algemeen Reglement; en
+- a) Prepare and review standards, recommendations, guidelines, manuals and other appropriate documents identified in the work programmes;
 
-- m. Keurt het personeelsreglement goed.
+- b) Monitor developments in the area of Marine Aids to Navigation;
 
-9. Leden van de Raad mogen, na de voorzitter en Secretaris-Generaal hiervan op de hoogte te hebben gesteld, Geaffilieerde Leden uitnodigen als technisch adviseur deel te nemen aan vergaderingen van de Raad om advies en ondersteuning te geven bij operationele en technische aangelegenheden.
+- c) Facilitate the sharing of expertise and experience amongst Member States, Associate Members and Affiliate Members; and
 
-##### Artikel 9. Commissies en subsidiaire organen
+- d) Conduct any other tasks as decided by the Council.
 
-1. Commissies en subsidiaire organen ondersteunen het doel en de doelstellingen van de Organisatie.
+##### Article 10. The Secretariat
 
-2. De commissies:
+1. The permanent Secretariat of the Organization shall be comprised of the Secretary-General and such staff as may be required for the work of the Organization within the approved budgetary framework.
 
-- a. Stellen normen, aanbevelingen, richtsnoeren, handleidingen en andere toepasselijke documenten op die in de werkprogramma's worden vastgesteld en beoordelen deze;
+2. The term of the Secretary-General shall be three years. The Secretary-General may be re-elected for up to two additional consecutive terms of three years each.
 
-- b. Monitoren ontwikkelingen op het gebied van maritieme navigatie ondersteunende dienstverlening;
+3. The Secretary-General shall be responsible for the day-to-day management of the Organization, subject to any guidance issued by the General Assembly or the Council.
 
-- c. Vergemakkelijken het delen van expertise en ervaringen tussen Lidstaten, Geassocieerde Leden en Geaffilieerde Leden; en
+4. The Secretary-General shall be responsible for the conclusion of agreements with States and international organizations subject to the approval of the General Assembly in accordance with [Article 7.7 (m)](https://wetten.overheid.nl/BWBV0006901).
 
-- d. Voeren alle andere taken uit die door de Raad worden besloten.
+5. The staff of the Secretariat shall be appointed in accordance with the Staff Rules by the Secretary- General on such terms and to perform such duties as the Secretary-General may determine.
 
-##### Artikel 10. Het Secretariaat
+6. The Secretariat shall:
 
-1. Het permanente Secretariaat van de Organisatie bestaat uit de Secretaris-Generaal en het personeel dat nodig is voor het werk van de Organisatie binnen het goedgekeurde begrotingskader.
+- a) Maintain all such records as may be necessary for the efficient discharge of the work of the Organization and shall prepare, collect, and circulate any documentation that may be required;
 
-2. De Secretaris-Generaal wordt benoemd voor een termijn van drie jaar. De Secretaris-Generaal kan daarna worden herkozen voor ten hoogste twee aanvullende opeenvolgende termijnen van drie jaar elk.
+- b) Administer the Organization’s finances under the direction of the Council, in accordance with the General Regulations;
 
-3. De Secretaris-Generaal is verantwoordelijk voor het dagelijks bestuur van de Organisatie, met inachtneming van de aanwijzingen van de Algemene Vergadering of de Raad.
+- c) Prepare the financial arrangements and the financial statements;
 
-4. De Secretaris-Generaal is verantwoordelijk voor het sluiten van overeenkomsten met Staten en internationale organisaties, onder voorbehoud van goedkeuring van de Algemene Vergadering in overeenstemming met [artikel 7.7.m](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=7&z=2024-08-22&g=2024-08-22).
+- d) Keep Member States, Associate Members and Affiliate Members and other organizations informed with respect to the activities of the Organization;
 
-5. Het personeel van het Secretariaat wordt in overeenstemming met het personeelsreglement benoemd door de Secretaris-Generaal volgens de door hem bepaalde voorwaarden en uit te voeren taken.
+- e) Organize and support meetings of the General Assembly, the Council, Committees and subsidiary bodies;
 
-6. Het Secretariaat:
+- f) Organize and support conferences and symposia as approved by the Council;
 
-- a. Houdt de archieven bij voor zover dat nodig is voor de efficiënte uitvoering van de werkzaamheden van de Organisatie en draagt zorg voor het voorbereiden, verzamelen en rondzenden van de benodigde stukken.
+- g) Organize and support seminars, workshops and other events; and
 
-- b. Beheert de financiën van de Organisatie onder leiding van de Raad, in overeenstemming met het Algemeen Reglement;
+- h) Perform such other functions as may be assigned by this Convention, the General Regulations, the General Assembly or the Council.
 
-- c. Stelt de financiële regelingen en jaarrekening op;
+7. In the performance of their duties, the Secretary-General and the staff shall not seek or receive instructions from any government or from any other source external to the Organization. They shall refrain from any action which might reflect on their position as international officials responsible only to the Organization. Each Member State on its part undertakes to respect the exclusively international character of the responsibilities of the Secretary-General and the staff and not to seek to influence them in the discharge of their responsibilities.
 
-- d. Houdt Lidstaten, Geassocieerde Leden en Geaffilieerde Leden en overige organisaties op de hoogte van de activiteiten van de Organisatie;
+##### Article 11. Voting
 
-- e. Organiseert en ondersteunt vergaderingen van de Algemene Vergadering, de Raad, commissies en subsidiaire organen;
+1. All efforts shall be made for the General Assembly and the Council to adopt decisions by consensus amongst Member States.
 
-- f. Organiseert en ondersteunt conferenties en symposia die door de Raad zijn goedgekeurd;
+2. Where decisions of the General Assembly or Council cannot be adopted by consensus, they shall be adopted by a two-thirds majority of Member States present and voting through a secret ballot.
 
-- g. Organiseert en ondersteunt seminars, workshops en andere evenementen; en
+3. Only Member States shall have voting rights. Each Member State shall have one vote, except as specified in [Article 13.4](https://wetten.overheid.nl/BWBV0006901).
 
-- h. Voert andere taken uit die door dit Verdrag, het Algemeen Reglement, de Algemene Vergadering of de Raad kunnen worden opgedragen.
+4. The election of the President, Vice President and Secretary-General shall be made by secret ballot with a simple majority of Member States present and voting in accordance with the General Regulations.
 
-7. Bij de vervulling van hun taken mogen de Secretaris-Generaal en het personeel geen instructies vragen of ontvangen van enige overheid of van enige andere bron buiten de Organisatie. Zij dienen zich te onthouden van elke handeling die hun status van internationale functionaris die alleen aan de Organisatie verantwoording verschuldigd is zou kunnen schaden. Elke Lidstaat verbindt zich er op zijn beurt toe het zuiver internationale karakter van de verantwoordelijkheden van de Secretaris-Generaal en het personeel te eerbiedigen en zal niet trachten hen te beïnvloeden bij uitoefening van hun verantwoordelijkheden.
+5. The election of the Council shall be made with the highest number of votes of the Member States present and voting through a secret ballot, in accordance with the General Regulations.
 
-##### Artikel 11. Stemmen
+##### Article 12. Languages
 
-1. Al het mogelijke wordt in het werk gesteld om de Algemene Vergadering en de Raad besluiten bij consensus te laten aannemen door de Lidstaten.
+The official languages of the Organization shall be Arabic, Chinese, English, French, Russian and Spanish.
 
-2. Wanneer besluiten van de Algemene Vergadering of de Raad niet bij consensus kunnen worden aangenomen, worden zij aangenomen door een tweederdemeerderheid van de Lidstaten die aanwezig zijn en hun stem uitbrengen in een geheime stemming.
+##### Article 13. Finance
 
-3. Alleen Lidstaten hebben stemrecht. Elke Lidstaat heeft een stem, uitgezonderd zoals omschreven in [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=13&z=2024-08-22&g=2024-08-22).
+1. The expenditure for the functioning of the Organization shall be met by the financial resources provided by:
 
-4. De verkiezing van de voorzitter, vicevoorzitter en Secretaris-Generaal vindt plaats bij geheime stemming met een gewone meerderheid van de Lidstaten die aanwezig zijn en hun stem uitbrengen in overeenstemming met het Algemeen Reglement.
+- a) Member State contributions;
 
-5. De verkiezing van de Raad geschiedt met het hoogste aantal stemmen van de Lidstaten die aanwezig zijn en hun stem uitbrengen in een geheime stemming, in overeenstemming met het Algemeen Reglement.
+- b) Associate Member and Affiliate Member fees; and
 
-##### Artikel 12. Talen
+- c) Donations, bequests, grants, gifts and other sources approved by the Council upon recommendation by the Secretary-General.
 
-De officiële talen van de Organisatie zijn het Arabisch, het Chinees, het Engels, het Frans, het Russisch en het Spaans.
+2. Each Member State shall pay a contribution and each Associate Member and Affiliate Member shall pay a fee to the Organization on an annual basis in the amount determined in accordance with [Article 7.7 (g)](https://wetten.overheid.nl/BWBV0006901). The contribution shall be set at the same rate for each Member State.
 
-##### Artikel 13. Financiering
+3. Member State contributions and Associate Member and Affiliate Member fees shall be due and payable in accordance with the Financial Regulations.
 
-1. De uitgaven in verband met het functioneren van de Organisatie worden betaald uit de financiële middelen die beschikbaar komen door:
+4. Any Member State which is two years in arrears in making contributions shall, after written notification by the Secretary-General, be denied voting rights and the right to be elected to the Council until such time as the outstanding contributions have been paid, in accordance with the Financial Regulations, unless the General Assembly waives this provision.
 
-- a. contributies van Lidstaten;
+5. Following the Council’s approval of the Organization’s audited financial statements, these statements shall be distributed to all Member States, Associate Members and Affiliate Members in the Annual Report.
 
-- b. lidmaatschapsgelden van Geassocieerde Leden en Geaffilieerde Leden; en
+##### Article 14. Legal Personality, Privileges and Immunities
 
-- c. donaties, legaten, subsidies, giften en andere bronnen die door de Raad op aanbeveling van de Secretaris-Generaal zijn goedgekeurd.
+1. The Organization has international legal personality and has the capacity to:
 
-2. Elke Lidstaat betaalt contributie en elk Geassocieerde Lid en elk Geaffilieerd Lid betaalt jaarlijks lidmaatschapsgeld aan de Organisatie ter hoogte van het bedrag dat in overeenstemming met [artikel 7.7.g](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=7&z=2024-08-22&g=2024-08-22) is vastgesteld. De contributie wordt voor elke Lidstaat vastgesteld op hetzelfde bedrag.
+- a) Contract and conclude agreements with governments, organizations and other bodies;
 
-3. De contributies van Lidstaten en de lidmaatschapsgelden van Geassocieerde Leden en Geaffilieerde Leden zijn verschuldigd en dienen te worden betaald in overeenstemming met het Financieel Reglement.
+- b) Acquire and dispose of immovable and movable property; and
 
-4. Een Lidstaat waarvan de contributie twee jaar achterstallig is, verliest, na schriftelijke kennisgeving door de Secretaris-Generaal, zijn stemrecht en het recht te worden gekozen in de Raad tot het moment waarop de verschuldigde contributie is betaald, in overeenstemming met het Financieel Reglement, tenzij de Algemene Vergadering afziet van deze bepaling.
+- c) Institute legal proceedings.
 
-5. Na goedkeuring door de Raad van de door de accountant gecontroleerde jaarrekening van de Organisatie, wordt deze verspreid onder alle Lidstaten, Geassocieerde Leden en Geaffilieerde Leden in het jaarverslag.
+2. In the territory of each of its Member States, the Organization shall enjoy, to the extent provided for in an agreement with the Member State concerned, such privileges and immunities as may be necessary for the exercise of its functions and the fulfilment of its aim and objectives.
 
-##### Artikel 14. Rechtspersoonlijkheid, voorrechten en immuniteiten
+3. No Member State, Associate Member or Affiliate Member shall be liable, by reason of its status or participation in the Organization, for acts, omissions or obligations of the Organization.
 
-1. De Organisatie bezit internationale rechtspersoonlijkheid en heeft de bevoegdheid om:
+##### Article 15. Amendments
 
-- a. verbintenissen aan te gaan en overeenkomsten te sluiten met overheden, organisaties en andere organen;
+1. Any Member State may propose an amendment to this Convention, in writing, to the Secretary- General.
 
-- b. onroerende en roerende zaken te verwerven en te vervreemden; en
+2. The Secretary-General shall circulate the proposed amendment in the official languages to all Member States at least six months in advance of its consideration by the General Assembly.
 
-- c. gerechtelijke vorderingen in te stellen.
+3. The proposed amendment shall be adopted by vote of the General Assembly.
 
-2. Op het grondgebied van elk van haar Lidstaten geniet de Organisatie, voor zover deze zijn voorzien in een overeenkomst met de desbetreffende Lidstaat, de voorrechten en immuniteiten die nodig kunnen zijn voor de uitoefening van haar taken en de verwezenlijking van haar doel en doelstellingen.
+4. Any amendment adopted in accordance with paragraph 3 shall be sent by the Secretary-General to the Depositary. The latter shall notify all Member States of the adoption of the amendment.
 
-3. Geen Lidstaat, Geassocieerd Lid of Geaffilieerd Lid is op grond van zijn rechtspositie of deelname in de Organisatie aansprakelijk voor het handelen, het nalaten te handelen of de verplichtingen van de Organisatie.
+5. The amendment shall enter into force for all Member States six months after written notifications of acceptance by two-thirds of the Member States have been received by the Depositary, except for a Member State which has notified the Depositary, prior to the entry into force of such amendment, that the amendment shall enter into force for that Member State only after a subsequent notification of its acceptance.
 
-##### Artikel 15. Wijzigingen
+6. Notwithstanding paragraph 5, the General Assembly may decide by consensus that the amendment shall come into force for all Member States six months after written notifications of acceptance by two-thirds of the Member States have been received by the Depositary. If within this period of six months a Member State gives notification of withdrawal from the Organization on account of an amendment, the withdrawal shall, notwithstanding [Article 21](https://wetten.overheid.nl/BWBV0006901), take effect on the date on which such amendment comes into force.
 
-1. Elke Lidstaat kan aan de Secretaris-Generaal schriftelijk voorstellen doen tot wijziging van dit Verdrag.
+7. The Depositary shall inform the Member States and the Secretary-General of the entry into force of the amendment, specifying the date of its entry into force.
 
-2. De Secretaris-Generaal stuurt de voorgestelde wijzigingen in de officiële talen aan alle Lidstaten ten minste zes maanden voordat zij door de Algemene Vergadering worden bestudeerd.
+##### Article 16. Reservations
 
-3. De voorgestelde wijziging wordt bij stemming aangenomen door de Algemene Vergadering.
+No reservations shall be made to this Convention.
 
-4. Elke wijziging die overeenkomstig het derde lid wordt aangenomen, wordt door de Secretaris-Generaal toegezonden aan de Depositaris. Laatstgenoemde stelt alle Lidstaten in kennis van de aanneming van de wijziging.
+##### Article 17. Interpretation and Disputes
 
-5. De wijziging treedt voor alle Lidstaten in werking zes maanden nadat de schriftelijke kennisgevingen van aanvaarding door twee derde van de Lidstaten door de Depositaris zijn ontvangen, uitgezonderd voor een Lidstaat die de Depositaris vóór de inwerkingtreding van deze wijziging ervan in kennis heeft gesteld dat de wijziging voor die Lidstaat uitsluitend in werking treedt na kennisgeving van aanvaarding op een later tijdstip.
+Member States shall make every effort to prevent disputes on the interpretation or application of this Convention, and shall use their best efforts to resolve any disputes by peaceful means which may include consultation and negotiation with each other and any other means as agreed to by the parties to the dispute.
 
-6. Niettegenstaande het vijfde lid kan de Algemene Vergadering bij consensus besluiten dat de wijziging voor alle Lidstaten in werking treedt zes maanden nadat de schriftelijke kennisgevingen van aanvaarding door twee derde van de Lidstaten door de Depositaris zijn ontvangen. Indien binnen deze termijn van zes maanden een Lidstaat een kennisgeving van terugtrekking uit de Organisatie doet vanwege een wijziging, treedt de opzegging, niettegenstaande [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006901&artikel=21&z=2024-08-22&g=2024-08-22), in werking op de datum waarop deze wijziging in werking treedt.
+##### Article 18. Signature, Ratification, Acceptance, Approval and Accession
 
-7. De Depositaris stelt de Lidstaten en de Secretaris-Generaal in kennis van de inwerkingtreding van de wijziging, onder vermelding van de datum van de inwerkingtreding ervan.
+1. This Convention shall be open for signature by any State that is a member of the United Nations at Paris from 27 January 2021 and remain open until 26 January 2022.
 
-##### Artikel 16. Voorbehouden
+2. This Convention is subject to ratification, acceptance or approval by the signatory States.
 
-Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
+3. This Convention shall be open for accession by any State that is a member of the United Nations which has not signed this Convention from the day after the date on which this Convention closes for signature.
 
-##### Artikel 17. Uitlegging en geschillen
+4. Instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary, who shall then notify all States having deposited such instruments with the Depository and the Secretary-General thereof.
 
-Lidstaten verrichten alle mogelijke inspanningen om geschillen over de uitlegging of toepassing van dit Verdrag te voorkomen en stellen alles in het werk om geschillen langs vreedzame weg te regelen waaronder mogelijk door middel van overleg en onderlinge onderhandelingen en op iedere andere wijze die de partijen bij het geschil overeenkomen.
+##### Article 19. The Depositary
 
-##### Artikel 18. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+The French Republic shall serve as the Depositary for this Convention. This Convention shall be registered by the Depositary pursuant to [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-1. Dit Verdrag staat open voor ondertekening door elke Staat die lid is van de Verenigde Naties te Parijs vanaf 27 januari 2021 en blijft openstaan voor ondertekening tot 26 januari 2022.
+##### Article 20. Entry into force
 
-2. Dit Verdrag dient door de ondertekenende Staten te worden bekrachtigd, aanvaard of goedgekeurd.
+1. This Convention shall enter into force on the ninetieth day after the date of deposit of the thirtieth instrument of ratification, acceptance, approval or accession.
 
-3. Dit Verdrag staat open voor toetreding door elke Staat die lid is van de Verenigde Naties die dit Verdrag niet heeft ondertekend vanaf de dag na de datum waarop het Verdrag voor ondertekening gesloten is.
+2. For each State ratifying, accepting, approving or acceding to this Convention after its entry into force this Convention shall enter into force on the thirtieth day after the deposit of its instrument of ratification, acceptance, approval or accession.
 
-4. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Depositaris, die alle Staten die dergelijke akten hebben nedergelegd bij de Depositaris en de Secretaris-Generaal daarvan in kennis stelt.
+3. The transitional arrangements that shall apply upon entry into force of this Convention are set out in the [Annex](https://wetten.overheid.nl/BWBV0006901).
 
-##### Artikel 19. De Depositaris
+##### Article 21. Withdrawal
 
-De Franse Republiek treedt op als Depositaris voor dit Verdrag. Dit Verdrag wordt geregistreerd in overeenstemming met de bepalingen van [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+1. Any Member State may withdraw from this Convention by giving at least twelve months’ written notice to the Depositary, who shall immediately inform all Member States and the Secretary- General of such notification.
 
-##### Artikel 20. Inwerkingtreding
+2. Notification of withdrawal may be deposited at any time after the expiration of six months from the date on which this Convention has entered into force.
 
-1. Dit Verdrag treedt in werking op de negentigste dag na de datum van de nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+3. The withdrawal shall take effect on 31st December of the year following that during which the notice of withdrawal was deposited.
 
-2. Ten aanzien van iedere Staat die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de datum van inwerkingtreding van dit Verdrag, treedt dit Verdrag in werking op de dertigste dag na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+##### Article 22. Termination
 
-3. De overgangsregeling die van toepassing is na inwerkingtreding van dit Verdrag is vervat in de Bijlage.
+1. This Convention may be terminated by a vote of the General Assembly following at least six months’ notice of such a vote.
 
-##### Artikel 21. Opzegging
-
-1. Elke Lidstaat kan dit Verdrag opzeggen door middel van een kennisgeving aan de Depositaris, met inachtneming van een opzegtermijn van ten minste twaalf maanden, die alle Lidstaten en de Secretaris-Generaal onverwijld op de hoogte stelt van deze kennisgeving.
-
-2. De kennisgeving van opzegging kan te allen tijde worden nedergelegd na het verstrijken van zes maanden te rekenen vanaf de datum waarop dit Verdrag in werking is getreden.
-
-3. De terugtrekking wordt van kracht op 31 december van het jaar volgend op dat waarin de kennisgeving van opzegging is nedergelegd.
-
-##### Artikel 22. Beëindiging
-
-1. Dit Verdrag kan worden beëindigd door een stemming door de Algemene Vergadering, waarbij deze stemming ten minste zes maanden van tevoren wordt aangekondigd.
-
-2. De datum van beëindiging is twaalf maanden na de datum van bovengenoemd besluit; in de tussenliggende periode is de Raad verantwoordelijk voor de liquidatie van de Organisatie in overeenstemming met het Algemeen Reglement.
+2. The date of termination shall be twelve months after the date of the above decision, and in the intervening period the Council shall be responsible for the winding up of the Organization, in accordance with the General Regulations.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective governments, have signed the present Convention.
 

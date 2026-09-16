@@ -1,650 +1,611 @@
 ---
 title: "Tweede aanvullend protocol bij het Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken, inzake nauwere samenwerking en verstrekking van elektronisch bewijsmateriaal"
 identifier: "BWBV0006966"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-05-12"
-last_updated: "2022-05-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006966"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005613013"
-version_id: "10006166132"
-internal_id: "C10009905161"
-label_id: "10005595464"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006966/2022-05-12/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0006966&z=2022-05-12&g=2022-05-12"
-jci_1_0: "1.0:c:BWBV0006966&g=2022-05-12"
-citeertitel_status: "redactioneel"
+laatste_update: 2022-05-12
+status: geldig
+toestand: 2022-05-12
+bron: "https://wetten.overheid.nl/BWBV0006966"
+opgehaald: 2026-09-16
 ---
+
 # Tweede aanvullend protocol bij het Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken, inzake nauwere samenwerking en verstrekking van elektronisch bewijsmateriaal
 
-Preambule
+*Preamble The member States of the Council of Europe and the other States Parties to the Convention on Cybercrime (ETS No. 185, hereinafter “the Convention”), opened for signature in Budapest on 23 November 2001, signatories hereto, Bearing in mind the reach and impact of the Convention in all regions of the world; Recalling that the Convention is already supplemented by the Additional Protocol concerning the criminalisation of acts of a racist and xenophobic nature committed through computer systems (ETS No. 189), opened for signature in Strasbourg on 28 January 2003 (hereinafter “the First Protocol”), as between Parties to that Protocol; Taking into account existing Council of Europe treaties on co-operation in criminal matters as well as other agreements and arrangements on co-operation in criminal matters between Parties to the Convention; Having regard also for the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data (ETS No. 108) as amended by its amending Protocol (CETS No. 223), opened for signature in Strasbourg on 10 October 2018, and to which any State may be invited to accede; Recognising the growing use of information and communication technology, including internet services, and increasing cybercrime, which is a threat to democracy and the rule of law and which many States also consider a threat to human rights; Also recognising the growing number of victims of cybercrime and the importance of obtaining justice for those victims; Recalling that governments have the responsibility to protect society and individuals against crime not only offline but also online, including through effective criminal investigations and prosecutions; Aware that evidence of any criminal offence is increasingly stored in electronic form on computer systems in foreign, multiple or unknown jurisdictions, and convinced that additional measures are needed to lawfully obtain such evidence in order to enable an effective criminal justice response and to uphold the rule of law; Recognising the need for increased and more efficient co-operation between States and the private sector, and that in this context greater clarity or legal certainty is needed for service providers and other entities regarding the circumstances in which they may respond to direct requests from criminal justice authorities in other Parties for the disclosure of electronic data; Aiming, therefore, to further enhance co-operation on cybercrime and the collection of evidence in electronic form of any criminal offence for the purpose of specific criminal investigations or proceedings through additional tools pertaining to more efficient mutual assistance and other forms of co-operation between competent authorities; co-operation in emergencies; and direct co-operation between competent authorities and service providers and other entities in possession or control of pertinent information; Convinced that effective cross-border co-operation for criminal justice purposes, including between public and private sectors, benefits from effective conditions and safeguards for the protection of human rights and fundamental freedoms; Recognising that the collection of electronic evidence for criminal investigations often concerns personal data, and recognising the requirement in many Parties to protect privacy and personal data in order to meet their constitutional and international obligations; and Mindful of the need to ensure that effective criminal justice measures on cybercrime and the collection of evidence in electronic form are subject to conditions and safeguards, which shall provide for the adequate protection of human rights and fundamental freedoms, including rights arising pursuant to obligations that States have undertaken under applicable international human rights instruments, such as the 1950 Convention for the Protection of Human Rights and Fundamental Freedoms (ETS No. 5) of the Council of Europe, the 1966 United Nations International Covenant on Civil and Political Rights, the 1981 African Charter on Human and People’s Rights, the 1969 American Convention on Human Rights and other international human rights treaties; Have agreed as follows:*
 
-De lidstaten van de Raad van Europa en de andere staten die partij zijn bij het [Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken](onbekend) (ETS nr. 185, hierna „het verdrag” genoemd), op 23 november 2001 te Boedapest opengesteld voor ondertekening, die dit protocol hebben ondertekend,
+### CHAPTER I. – COMMON PROVISIONS
 
-Indachtig het feit dat het verdrag betrekking heeft op en gevolgen heeft voor alle delen van de wereld;
+##### Article 1. – Purpose
 
-Eraan herinnerend dat het verdrag reeds is aangevuld met het [aanvullend protocol betreffende de strafbaarstelling van handelingen van racistische en xenofobische aard verricht via computersystemen](onbekend) (ETS nr. 189), voor ondertekening opengesteld op 28 januari 2003 te Straatsburg (hierna „het eerste protocol” genoemd), van toepassing tussen de partijen bij dat protocol;
+The purpose of this Protocol is to supplement:
 
-Gezien de bestaande verdragen van de Raad van Europa inzake samenwerking op strafrechtelijk terrein, alsmede andere overeenkomsten en regelingen inzake samenwerking op strafrechtelijk terrein tussen de partijen bij het verdrag;
+- a) the [Convention](https://wetten.overheid.nl/BWBV0001839) as between the Parties to this Protocol; and
 
-Gezien tevens het [Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens](onbekend) (ETS nr. 108), gewijzigd bij het [Protocol tot wijziging van het Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBV0006775) (CETS nr. 223), voor ondertekening opengesteld op 10 oktober 2018 te Straatsburg, waartoe iedere staat kan worden uitgenodigd toe te treden;
+- b) [the First Protocol](https://wetten.overheid.nl/BWBV0004845) as between the Parties to this Protocol that are also Parties to the First Protocol.
 
-Erkennende het toenemende gebruik van informatie- en communicatietechnologieën, met inbegrip van internetdiensten, en de toename van cybercriminaliteit, die een bedreiging vormt voor de democratie en de rechtsstaat en door veel staten ook als bedreiging voor de mensenrechten wordt beschouwd;
+##### Article 2. – Scope of application
 
-Erkennende tevens het groeiende aantal slachtoffers van cybercriminaliteit en het belang om recht te laten geschieden voor die slachtoffers;
+1. Except as otherwise specified herein, the measures described in this Protocol shall be applied:
 
-Eraan herinnerend dat op overheden de verplichting rust om de samenleving en personen te beschermen tegen misdaad, niet alleen offline maar ook online, onder meer door op doeltreffende wijze strafrechtelijk onderzoek en strafrechtelijke vervolging in te stellen;
+- a) as between Parties to the [Convention](https://wetten.overheid.nl/BWBV0001839) that are Parties to this Protocol, to specific criminal investigations or proceedings concerning criminal offences related to computer systems and data, and to the collection of evidence in electronic form of a criminal offence; and
 
-Beseffende dat bewijzen van strafbare feiten steeds vaker in elektronische vorm worden opgeslagen op computersystemen in verschillende buitenlandse of onbekende rechtsgebieden, en ervan overtuigd dat aanvullende maatregelen vereist zijn om dergelijke bewijzen rechtmatig te verkrijgen, teneinde strafrechtelijk doeltreffend op te treden en de rechtsstaat te handhaven;
+- b) as between Parties to [the First Protocol](https://wetten.overheid.nl/BWBV0004845) that are Parties to this Protocol, to specific criminal investigations or proceedings concerning criminal offences established pursuant to the First Protocol.
 
-Erkennende dat er behoefte is aan meer en efficiëntere samenwerking tussen staten en de particuliere sector, en dat in dit verband meer duidelijkheid en rechtszekerheid moet worden geboden aan serviceproviders en andere entiteiten met betrekking tot de omstandigheden waarin zij kunnen reageren op rechtstreekse verzoeken van strafrechtelijke autoriteiten in andere partijen om verstrekking van elektronische gegevens;
+2. Each Party shall adopt such legislative and other measures as may be necessary to carry out the obligations set forth in this Protocol.
 
-Strevende derhalve naar verdere versterking van de samenwerking op het gebied van cybercriminaliteit en de vergaring van bewijs in elektronische vorm van enig strafbaar feit met het oog op specifieke strafrechtelijke onderzoeken of procedures door middel van aanvullende instrumenten voor efficiëntere wederzijdse bijstand en andere vormen van samenwerking tussen bevoegde autoriteiten; van de samenwerking in noodsituaties; en van rechtstreekse samenwerking tussen bevoegde autoriteiten en serviceproviders en andere entiteiten die in het bezit zijn van relevante informatie of gerechtigd zijn tot toegang daartoe;
+##### Article 3. – Definitions
 
-Ervan overtuigd dat doeltreffende grensoverschrijdende samenwerking voor strafrechtelijke doeleinden, ook tussen de openbare en de particuliere sector, baat heeft bij doeltreffende voorwaarden en waarborgen voor de bescherming van de mensenrechten en de fundamentele vrijheden;
+1. The definitions provided in [Articles 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=1) and [18, paragraph 3, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=18) apply to this Protocol.
 
-Erkennende dat vergaring van elektronisch bewijsmateriaal voor strafrechtelijk onderzoek vaak betrekking heeft op persoonsgegevens, en erkennende dat veel partijen verplicht zijn privacy en persoonsgegevens te beschermen om hun grondwettelijke en internationale verplichtingen na te komen; en
+2. For the purposes of this Protocol, the following additional definitions apply:
 
-Indachtig de noodzaak ervoor te zorgen dat doeltreffende strafrechtelijke maatregelen tegen cybercriminaliteit en de vergaring van bewijsmateriaal in elektronische vorm onderworpen zijn aan voorwaarden en waarborgen die voorzien in passende bescherming van de mensenrechten en de fundamentele vrijheden, met inbegrip van rechten die voortvloeien uit verplichtingen die staten zijn aangegaan in het kader van toepasselijke internationale mensenrechteninstrumenten, zoals het [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden van 1950](onbekend) (ETS nr. 5) van de Raad van Europa, het [Internationaal Verdrag van de Verenigde Naties inzake burgerrechten en politieke rechten](onbekend) van 1966, het Afrikaans Handvest van de rechten van mensen en volken van 1981, het Amerikaans Verdrag inzake de rechten van de mens van 1969 en andere internationale mensenrechtenverdragen;
+- a) “central authority” means the authority or authorities designated under a mutual assistance treaty or arrangement on the basis of uniform or reciprocal legislation in force between the Parties concerned, or, in the absence thereof, the authority or authorities designated by a Party under [Article 27, paragraph 2.a, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=27);
 
-Zijn als volgt overeengekomen:
+- b) “competent authority” means a judicial, administrative or other law-enforcement authority that is empowered by domestic law to order, authorise or undertake the execution of measures under this Protocol for the purpose of collection or production of evidence with respect to specific criminal investigations or proceedings;
 
-### HOOFDSTUK I. – GEMEENSCHAPPELIJKE BEPALINGEN
+- c) “emergency” means a situation in which there is a significant and imminent risk to the life or safety of any natural person;
 
-##### Artikel 1. – Doel
+- d) “personal data” means information relating to an identified or identifiable natural person;
 
-Dit protocol strekt tot aanvulling van:
+- e) “transferring Party” means the Party transmitting the data in response to a request or as part of a joint investigation team or, for the purposes of [Chapter II, section 2](https://wetten.overheid.nl/BWBV0006966), a Party in whose territory a transmitting service provider or entity providing domain name registration services is located.
 
-- a. het [verdrag](onbekend) zoals dat tussen de partijen bij dit protocol van toepassing is; en
+##### Article 4. – Language
 
-- b. [het eerste protocol](onbekend) zoals dat van toepassing is tussen de partijen bij dit protocol die ook partij zijn bij het eerste protocol.
+1. Requests, orders and accompanying information submitted to a Party shall be in a language acceptable to the requested Party or the Party notified under [Article 7, paragraph 5](https://wetten.overheid.nl/BWBV0006966), or be accompanied by a translation into such a language.
 
-##### Artikel 2. – Toepassingsgebied
+2. Orders under [Article 7](https://wetten.overheid.nl/BWBV0006966) and requests under [Article 6](https://wetten.overheid.nl/BWBV0006966), and any accompanying information shall be:
 
-1. Tenzij anders bepaald, zijn de in dit protocol omschreven maatregelen van toepassing:
+- a) submitted in a language of the other Party in which the service provider or entity accepts them under comparable domestic process;
 
-- a. tussen partijen bij het [verdrag](onbekend) die partij zijn bij dit protocol: op specifieke strafrechtelijke onderzoeken en procedures die betrekking hebben op strafbare feiten die verband houden met computersystemen en -gegevens, en op de vergaring van bewijs in elektronische vorm van enig strafbaar feit; en
+- b) submitted in another language acceptable to the service provider or entity; or
 
-- b. tussen partijen bij [het eerste protocol](onbekend) die partij zijn bij dit protocol: op specifieke strafrechtelijke onderzoeken en procedures die betrekking hebben op strafbare feiten zoals vastgesteld krachtens het eerste protocol.
+- c) accompanied by a translation into one of the languages under paragraphs 2.a or 2.b.
 
-2. Iedere partij neemt de wetgevende en andere maatregelen die nodig zijn om de in dit protocol genoemde verplichtingen na te komen.
+### CHAPTER II. – MEASURES FOR ENHANCED CO-OPERATION
 
-##### Artikel 3. – Definities
+#### SECTION 1. – GENERAL PRINCIPLES APPLICABLE TO CHAPTER II
 
-1. De definities in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=1) en [artikel 18, lid 3, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=18) zijn op dit protocol van toepassing.
+##### Article 5. – General principles applicable to Chapter II
 
-2. Voor de toepassing van dit protocol wordt bovendien verstaan onder:
+1. The Parties shall co-operate in accordance with the provisions of this Chapter to the widest extent possible.
 
-- a. „centrale autoriteit”: de autoriteit of autoriteiten die krachtens een verdrag of regeling inzake wederzijdse bijstand zijn aangewezen op basis van tussen de betrokken partijen geldende uniforme of wederkerige wetgeving, of, bij gebreke daarvan, de autoriteit of autoriteiten die een partij heeft aangewezen uit hoofde van [artikel 27, lid 2, punt a), van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=27);
+2. [Section 2](https://wetten.overheid.nl/BWBV0006966) of this chapter consists of [Articles 6](https://wetten.overheid.nl/BWBV0006966) and [7](https://wetten.overheid.nl/BWBV0006966). It provides for procedures enhancing direct co-operation with providers and entities in the territory of another Party. [Section 2](https://wetten.overheid.nl/BWBV0006966) applies whether or not there is a mutual assistance treaty or arrangement on the basis of uniform or reciprocal legislation in force between the Parties concerned.
 
-- b. „bevoegde autoriteit”: een gerechtelijke, bestuurlijke of andere rechtshandhavingsinstantie die krachtens het nationale recht bevoegd is om de uitvoering van maatregelen uit hoofde van dit protocol te gelasten, toe te staan of uit te voeren met het oog op het vergaren of verstrekken van bewijsmateriaal met betrekking tot specifieke strafrechtelijke onderzoeken of procedures;
+3. [Section 3](https://wetten.overheid.nl/BWBV0006966) of this chapter consists of [Articles 8](https://wetten.overheid.nl/BWBV0006966) and [9](https://wetten.overheid.nl/BWBV0006966). It provides for procedures to enhance international co-operation between authorities for the disclosure of stored computer data. [Section 3](https://wetten.overheid.nl/BWBV0006966) applies whether or not there is a mutual assistance treaty or arrangement on the basis of uniform or reciprocal legislation in force between the requesting and requested Parties.
 
-- c. „noodsituatie”: een situatie waarin er een aanzienlijk en imminent risico bestaat voor het leven of de veiligheid van een natuurlijke persoon;
+4. [Section 4](https://wetten.overheid.nl/BWBV0006966) of this chapter consists of [Article 10](https://wetten.overheid.nl/BWBV0006966). It provides for procedures pertaining to emergency mutual assistance. [Section 4](https://wetten.overheid.nl/BWBV0006966) applies whether or not there is a mutual assistance treaty or arrangement on the basis of uniform or reciprocal legislation in force between the requesting and requested Parties.
 
-- d. „persoonsgegevens”: informatie over een geïdentificeerde of identificeerbare natuurlijke persoon;
+5. [Section 5](https://wetten.overheid.nl/BWBV0006966) of this chapter consists of [Articles 11](https://wetten.overheid.nl/BWBV0006966) and [12](https://wetten.overheid.nl/BWBV0006966). [Section 5](https://wetten.overheid.nl/BWBV0006966) applies where there is no mutual assistance treaty or arrangement on the basis of uniform or reciprocal legislation in force between the requesting and requested Parties. The provisions of [section 5](https://wetten.overheid.nl/BWBV0006966) shall not apply where such treaty or arrangement exists, except as provided in [Article 12, paragraph 7](https://wetten.overheid.nl/BWBV0006966). However, the Parties concerned may mutually determine to apply the provisions of [section 5](https://wetten.overheid.nl/BWBV0006966) in lieu thereof, if the treaty or arrangement does not prohibit it.
 
-- e. „doorgevende partij”: de partij die de gegevens doorzendt naar aanleiding van een verzoek of in het kader van een gemeenschappelijk onderzoeksteam of, voor de toepassing van [hoofdstuk II, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&z=2022-05-12&g=2022-05-12), een partij op het grondgebied waarvan zich een serviceprovider die doorgiftediensten aanbiedt of een entiteit die domeinnaamregistratiediensten aanbiedt, bevindt.
+6. Where, in accordance with the provisions of this Protocol, the requested Party is permitted to make co-operation conditional upon the existence of dual criminality, that condition shall be deemed fulfilled, irrespective of whether its laws place the offence within the same category of offence or denominate the offence by the same terminology as the requesting Party, if the conduct underlying the offence for which assistance is sought is a criminal offence under its laws.
 
-##### Artikel 4. – Taal
+7. The provisions in this chapter do not restrict co-operation between Parties, or between Parties and service providers or other entities, through other applicable agreements, arrangements, practices, or domestic law.
 
-1. Verzoeken, bevelen en begeleidende informatie die bij een partij worden ingediend, worden gesteld in een taal die aanvaardbaar is voor de aangezochte partij of de partij waaraan overeenkomstig [artikel 7, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=7&z=2022-05-12&g=2022-05-12), kennisgeving wordt gedaan, of gaan vergezeld van een vertaling in een dergelijke taal.
+#### SECTION 2. – PROCEDURES ENHANCING DIRECT CO-OPERATION WITH PROVIDERS AND ENTITIES IN OTHER PARTIES
 
-2. De in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=7&z=2022-05-12&g=2022-05-12) bedoelde bevelen en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=6&z=2022-05-12&g=2022-05-12) bedoelde verzoeken en de begeleidende informatie daarbij:
+##### Article 6. – Request for domain name registration information
 
-- a. worden ingediend in een taal van de andere partij waarin de serviceprovider of entiteit vergelijkbare binnenlandse bevelen of verzoeken aanvaardt;
+1. Each Party shall adopt such legislative and other measures as may be necessary to empower its competent authorities, for the purposes of specific criminal investigations or proceedings, to issue a request to an entity providing domain name registration services in the territory of another Party for information in the entity’s possession or control, for identifying or contacting the registrant of a domain name.
 
-- b. worden ingediend in een andere taal die aanvaardbaar is voor de serviceprovider of entiteit; of
+2. Each Party shall adopt such legislative and other measures as may be necessary to permit an entity in its territory to disclose such information in response to a request under paragraph 1, subject to reasonable conditions provided by domestic law.
 
-- c. gaan vergezeld van een vertaling in een van de talen als bedoeld in lid 2, punt a) of b).
+3. The request under paragraph 1 shall include:
 
-### HOOFDSTUK II. – MAATREGELEN TER VERSTERKING VAN DE SAMENWERKING
+- a) the date on which the request was issued and the identity and contact details of the competent authority issuing the request;
 
-#### AFDELING 1. – ALGEMENE BEGINSELEN VAN TOEPASSING OP HOOFDSTUK II
+- b) the domain name about which information is sought and a detailed list of the information sought, including the particular data elements;
 
-##### Artikel 5. – Algemene beginselen van toepassing op hoofdstuk II
+- c) a statement that the request is issued pursuant to this Protocol, that the need for the information arises because of its relevance to a specific criminal investigation or proceeding and that the information will only be used for that specific criminal investigation or proceeding; and
 
-1. De partijen werken zoveel mogelijk samen overeenkomstig de bepalingen van dit hoofdstuk.
+- d) the time frame within which and the manner in which to disclose the information and any other special procedural instructions.
 
-2. [Afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&z=2022-05-12&g=2022-05-12) van dit hoofdstuk bestaat uit de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=6&z=2022-05-12&g=2022-05-12) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=7&z=2022-05-12&g=2022-05-12). Zij voorziet in procedures ter versterking van de rechtstreekse samenwerking met serviceproviders en entiteiten op het grondgebied van een andere partij. [Afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&z=2022-05-12&g=2022-05-12) is van toepassing ongeacht of er sprake is van een verdrag of regeling inzake wederzijdse bijstand op basis van uniforme of wederkerige wetgeving tussen de betrokken partijen.
+4. If acceptable to the entity, a Party may submit a request under paragraph 1 in electronic form. Appropriate levels of security and authentication may be required.
 
-3. [Afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&z=2022-05-12&g=2022-05-12) van dit hoofdstuk bestaat uit de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&artikel=8&z=2022-05-12&g=2022-05-12) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&artikel=9&z=2022-05-12&g=2022-05-12). Zij voorziet in procedures ter versterking van de internationale samenwerking tussen autoriteiten bij de verstrekking van opgeslagen computergegevens. [Afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&z=2022-05-12&g=2022-05-12) is van toepassing ongeacht of er sprake is van een verdrag of regeling inzake wederzijdse bijstand op basis van uniforme of wederkerige wetgeving tussen de verzoekende en de aangezochte partij.
+5. In the event of non-co-operation by an entity described in paragraph 1, a requesting Party may request that the entity give a reason why it is not disclosing the information sought. The requesting Party may seek consultation with the Party in which the entity is located, with a view to determining available measures to obtain the information.
 
-4. [Afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=4&z=2022-05-12&g=2022-05-12) van dit hoofdstuk bestaat uit [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=4&artikel=10&z=2022-05-12&g=2022-05-12). Zij voorziet in procedures voor wederzijdse bijstand in noodsituaties. [Afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=4&z=2022-05-12&g=2022-05-12) is van toepassing ongeacht of er sprake is van een verdrag of regeling inzake wederzijdse bijstand op basis van uniforme of wederkerige wetgeving tussen de verzoekende en de aangezochte partij.
+6. Each Party shall, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, or at any other time, communicate to the Secretary General of the Council of Europe the authority designated for the purpose of consultation under paragraph 5.
 
-5. [Afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=5&z=2022-05-12&g=2022-05-12) van dit hoofdstuk bestaat uit de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=5&artikel=12&z=2022-05-12&g=2022-05-12) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=5&artikel=12&z=2022-05-12&g=2022-05-12). [Afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=5&z=2022-05-12&g=2022-05-12) is van toepassing wanneer er geen verdrag of regeling inzake wederzijdse bijstand op basis van uniforme of wederkerige wetgeving van kracht is tussen de verzoekende en de aangezochte partij. De bepalingen van [afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=5&z=2022-05-12&g=2022-05-12) zijn niet van toepassing wanneer een dergelijk verdrag of een dergelijke regeling wel bestaat, behoudens het bepaalde in [artikel 12, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=5&artikel=12&z=2022-05-12&g=2022-05-12). De betrokken partijen kunnen evenwel onderling besluiten de bepalingen van [afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=5&z=2022-05-12&g=2022-05-12) in plaats daarvan toe te passen, indien het verdrag of de regeling dat niet verbiedt.
+7. The Secretary General of the Council of Europe shall set up and keep updated a register of authorities designated by the Parties under paragraph 6. Each Party shall ensure that the details that it has provided for the register are correct at all times.
 
-6. Wanneer het de aangezochte partij, in overeenstemming met de bepalingen van dit protocol, is toegestaan medewerking afhankelijk te maken van het bestaan van dubbele strafbaarheid, wordt aan deze voorwaarde geacht te zijn voldaan indien de gedraging die ten grondslag ligt aan het strafbare feit waarvoor om medewerking wordt verzocht, in haar wetgeving wordt aangemerkt als strafbaar feit, ongeacht of het interne recht het strafbare feit al dan niet in dezelfde categorie plaatst of met dezelfde termen aanduidt als het recht van de verzoekende partij.
+##### Article 7. – Disclosure of subscriber information
 
-7. De bepalingen van dit hoofdstuk houden geen beperking in van de samenwerking tussen partijen, of tussen partijen en serviceproviders of andere entiteiten, op grond van andere toepasselijke overeenkomsten, regelingen, praktijken of het nationale recht.
+1. Each Party shall adopt such legislative and other measures as may be necessary to empower its competent authorities to issue an order to be submitted directly to a service provider in the territory of another Party, in order to obtain the disclosure of specified, stored subscriber information in that service provider’s possession or control, where the subscriber information is needed for the issuing Party’s specific criminal investigations or proceedings.
 
-#### AFDELING 2. – PROCEDURES TER VERSTERKING VAN DE RECHTSTREEKSE SAMENWERKING MET SERVICEPROVIDERS EN ENTITEITEN OP HET GRONDGEBIED VAN EEN ANDERE PARTIJ
+2. - a) Each Party shall adopt such legislative and other measures as may be necessary for a service provider in its territory to disclose subscriber information in response to an order under paragraph 1.
 
-##### Artikel 6. – Verzoek om domeinnaamregistratie-informatie
+- b) At the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, a Party may – with respect to orders issued to service providers in its territory – make the following declaration: “The order under Article 7, paragraph 1, must be issued by, or under the supervision of, a prosecutor or other judicial authority, or otherwise be issued under independent supervision”.
 
-1. Iedere partij stelt de nodige wetgevende en andere maatregelen vast om haar bevoegde autoriteiten in het kader van specifieke strafrechtelijke onderzoeken of procedures de bevoegdheid te verlenen een entiteit die op het grondgebied van een andere partij domeinnaamregistratiediensten aanbiedt, te verzoeken informatie te verstrekken die in haar bezit is of tot toegang waartoe zij gerechtigd is, teneinde de registrant van een domeinnaam te identificeren of met die registrant contact op te nemen.
+3. The order under paragraph 1 shall specify:
 
-2. Iedere partij stelt de nodige wetgevende en andere maatregelen vast om een entiteit op haar grondgebied toe te staan dergelijke informatie te verstrekken naar aanleiding van een verzoek uit hoofde van lid 1, met inachtneming van redelijke voorwaarden waarin het nationale recht voorziet.
+- a) the issuing authority and date issued;
 
-3. In het in lid 1 bedoelde verzoek wordt vermeld:
+- b) a statement that the order is issued pursuant to this Protocol;
 
-- a. de datum waarop het verzoek is gedaan en de identiteit en de contactgegevens van de bevoegde autoriteit die het verzoek heeft gedaan;
+- c) the name and address of the service provider(s) to be served;
 
-- b. de domeinnaam waarover informatie wordt gevraagd en een gedetailleerde lijst van de gevraagde informatie, met vermelding van de specifieke gegevenselementen;
+- d) the offence(s) that is/are the subject of the criminal investigation or proceeding;
 
-- c. een verklaring dat het verzoek op grond van dit protocol wordt gedaan, dat de informatie nodig is vanwege het belang ervan voor een bepaald strafrechtelijk onderzoek of een specifieke strafrechtelijke procedure en dat de informatie alleen voor dat specifieke strafrechtelijk onderzoek of die specifieke strafprocedure zal worden gebruikt; en
+- e) the authority seeking the specific subscriber information, if not the issuing authority; and
 
-- d. de termijn waarbinnen en de wijze waarop de informatie openbaar moet worden gemaakt, alsmede eventuele andere bijzondere procedurele instructies.
+- f) a detailed description of the specific subscriber information sought.
 
-4. Indien de instantie daarmee instemt, kan een partij een verzoek uit hoofde van lid 1 in elektronische vorm indienen. Er kan een passend niveau van beveiliging en authenticatie worden vereist.
+4. The order under paragraph 1 shall be accompanied by the following supplemental information:
 
-5. Indien een entiteit als in lid 1 beschreven geen medewerking verleent, kan de verzoekende partij de entiteit verzoeken te motiveren waarom zij de gevraagde informatie niet verstrekt. De verzoekende partij kan verzoeken om overleg met de partij waar de entiteit is gevestigd, teneinde vast te stellen welke maatregelen getroffen kunnen worden om de informatie te verkrijgen.
+- a) the domestic legal grounds that empower the authority to issue the order;
 
-6. Iedere partij deelt bij de ondertekening van het protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring, of op enig ander tijdstip, de secretaris-generaal van de Raad van Europa de namen en adressen mee van de autoriteiten die voor het in lid 5 bedoelde overleg zijn aangewezen.
+- b) a reference to legal provisions and applicable penalties for the offence being investigated or prosecuted;
 
-7. De secretaris-generaal van de Raad van Europa stelt een register op van de uit hoofde van lid 6 door de partijen aangewezen autoriteiten en houdt dit bij. Iedere partij zorgt ervoor dat de in het register vermelde gegevens te allen tijde juist zijn.
+- c) the contact information of the authority to which the service provider shall return the subscriber information, from which it can request further information, or to which it shall otherwise respond;
 
-##### Artikel 7. – Verstrekking van abonnee-informatie
+- d) the time frame within which and the manner in which to return the subscriber information;
 
-1. Iedere partij stelt de nodige wetgevende en andere maatregelen vast om haar bevoegde autoriteiten de bevoegdheid te verlenen een bevel uit te vaardigen dat rechtstreeks gericht is tot een serviceprovider op het grondgebied van een andere partij, teneinde die serviceprovider gespecificeerde door hem opgeslagen abonnee-informatie te doen verstrekken die in zijn bezit is of tot toegang waartoe hij gerechtigd is, indien die abonnee-informatie nodig is voor specifieke strafrechtelijke onderzoeken of strafprocedures van de uitvaardigende partij.
+- e) whether preservation of the data has already been sought, including the date of preservation and any applicable reference number;
 
-- a). Iedere partij stelt de wetgevende en andere maatregelen vast die noodzakelijk zijn voor de verstrekking van abonnee-informatie door een serviceprovider op haar grondgebied naar aanleiding van een verzoek uit hoofde van lid 1.
+- f) any special procedural instructions;
 
-- b). Bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring kan een partij – met betrekking tot bevelen aan serviceproviders op haar grondgebied – de volgende verklaring afleggen: „Het bevel uit hoofde van artikel 7, lid 1, moet worden uitgevaardigd door of onder toezicht van een aanklager of een andere justitiële autoriteit, of anderszins onder onafhankelijk toezicht worden uitgevaardigd.”
+- g) if applicable, a statement that simultaneous notification has been made pursuant to paragraph 5; and
 
-3. In het in lid 1 bedoelde bevel wordt vermeld:
+- h) any other information that may assist in obtaining disclosure of the subscriber information.
 
-- a. de uitvaardigende autoriteit en de datum van uitvaardiging;
+5. - a) A Party may, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, and at any other time, notify the Secretary General of the Council of Europe that, when an order is issued under paragraph 1 to a service provider in its territory, the Party requires, in every case or in identified circumstances, simultaneous notification of the order, the supplemental information and a summary of the facts related to the investigation or proceeding.
 
-- b. een verklaring dat het bevel uit hoofde van dit protocol is uitgevaardigd;
+- b) Whether or not a Party requires notification under paragraph 5.a, it may require the service provider to consult the Party’s authorities in identified circumstances prior to disclosure.
 
-- c. de naam en het adres van de serviceprovider(s) aan wie het bevel moet worden betekend;
+- c) The authorities notified under paragraph 5.a or consulted under paragraph 5.b may, without undue delay, instruct the service provider not to disclose the subscriber information if:
 
-- d. de strafbare feiten waarop het strafrechtelijk onderzoek of de strafprocedure betrekking heeft;
+   - (i) disclosure may prejudice criminal investigations or proceedings in that Party; or
 
-- e. de autoriteit die de specifieke abonnee-informatie opvraagt, indien dat niet de uitvaardigende autoriteit is; en
+   - (ii) conditions or grounds for refusal would apply under [Article 25, paragraph 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=25), and [Article 27, paragraph 4, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=27) had the subscriber information been sought through mutual assistance.
 
-- f. een gedetailleerde beschrijving van de gevraagde specifieke abonnee-informatie.
+- d) The authorities notified under paragraph 5.a or consulted under paragraph 5.b:
 
-4. Het in lid 1 bedoelde bevel gaat vergezeld van de volgende aanvullende informatie:
+   - (i) may request additional information from the authority referred to in paragraph 4.c for the purposes of applying paragraph 5.c and shall not disclose it to the service provider without that authority’s consent; and
 
-- a. de nationale rechtsgrondslagen uit hoofde waarvan de autoriteit bevoegd is het bevel uit te vaardigen;
+   - (ii) shall promptly inform the authority referred to in paragraph 4.c if the service provider has been instructed not to disclose the subscriber information and give the reasons for doing so.
 
-- b. een verwijzing naar de wettelijke bepalingen en de toepasselijke straffen voor het strafbaar feit dat wordt onderzocht of vervolgd;
+- e) A Party shall designate a single authority to receive notification under paragraph 5.a and perform the actions described in paragraphs 5.b, 5.c and 5.d. The Party shall, at the time when notification to the Secretary General of the Council of Europe under paragraph 5.a is first given, communicate to the Secretary General the contact information of that authority.
 
-- c. de contactgegevens van de autoriteit waaraan de serviceprovider de abonnee-informatie moet toezenden, die hij om nadere informatie kan verzoeken of waaraan hij anderszins antwoord moet geven;
+- f) The Secretary General of the Council of Europe shall set up and keep updated a register of the authorities designated by the Parties pursuant to paragraph 5.e and whether and under what circumstances they require notification pursuant to paragraph 5.a. Each Party shall ensure that the details that it provides for the register are correct at all times.
 
-- d. de termijn waarbinnen en de wijze waarop de abonnee-informatie moeten worden toegezonden;
+6. If acceptable to the service provider, a Party may submit an order under paragraph 1 and supplemental information under paragraph 4 in electronic form. A Party may provide notification and additional information under paragraph 5 in electronic form. Appropriate levels of security and authentication may be required.
 
-- e. of reeds om bewaring van de gegevens is verzocht, met opgave van de bewaringsdatum en eventuele toepasselijke referentienummers;
+7. If a service provider informs the authority in paragraph 4.c that it will not disclose the subscriber information sought, or if it does not disclose subscriber information in response to the order under paragraph 1 within thirty days of receipt of the order or the timeframe stipulated in paragraph 4.d, whichever time period is longer, the competent authorities of the issuing Party may then seek to enforce the order only via [Article 8](https://wetten.overheid.nl/BWBV0006966) or other forms of mutual assistance. Parties may request that a service provider give a reason for refusing to disclose the subscriber information sought by the order.
 
-- f. eventuele bijzondere procedurele instructies;
+8. A Party may, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, declare that an issuing Party shall seek disclosure of subscriber information from the service provider before seeking it under [Article 8](https://wetten.overheid.nl/BWBV0006966), unless the issuing Party provides a reasonable explanation for not having done so.
 
-- g. indien van toepassing, een verklaring dat de gelijktijdige kennisgeving overeenkomstig lid 5 heeft plaatsgevonden; en
+9. At the time of signature of this Protocol or when depositing its instrument of ratification, acceptance, or approval, a Party may:
 
-- h. alle andere informatie die van nut kan zijn om de verstrekking van de abonnee-informatie te verkrijgen.
+- a) reserve the right not to apply this article; or
 
-- a. Een partij kan, bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring, en op enig ander tijdstip, de secretaris-generaal van de Raad van Europa ervan kennisgeving doen dat wanneer een bevel overeenkomstig lid 1 is uitgevaardigd aan een serviceprovider op haar grondgebied, de partij, in alle gevallen dan wel in bepaalde omstandigheden, verlangt dat gelijktijdig kennis wordt gegeven van het bevel, de aanvullende informatie en een samenvatting van de feiten in verband met het onderzoek of de procedure.
+- b) if disclosure of certain types of access numbers under this article would be inconsistent with the fundamental principles of its domestic legal system, reserve the right not to apply this article to such numbers.
 
-- b. Ongeacht of een partij een kennisgeving uit hoofde van lid 5, punt a), verlangt, kan zij van de serviceprovider verlangen dat deze de autoriteiten van de partij in bepaalde omstandigheden raadpleegt voorafgaand aan de verstrekking.
+#### SECTION 3. – PROCEDURES ENHANCING INTERNATIONAL CO-OPERATION BETWEEN AUTHORITIES FOR THE DISCLOSURE OF STORED COMPUTER DATA
 
-- c. De overeenkomstig lid 5, punt a), in kennis gestelde of overeenkomstig lid 5, punt b), geraadpleegde autoriteiten kunnen de serviceprovider onverwijld opdracht geven de abonnee-informatie niet te verstrekken indien:
+##### Article 8. – Giving effect to orders from another Party for expedited production of subscriber information and traffic data
 
-- i. de verstrekking strafrechtelijke onderzoeken of strafprocedures in die partij in gevaar kan brengen; of
+1. Each Party shall adopt such legislative and other measures as may be necessary to empower its competent authorities to issue an order to be submitted as part of a request to another Party for the purpose of compelling a service provider in the requested Party’s territory to produce specified and stored
 
-- ii. de voorwaarden of gronden voor weigering uit hoofde van [artikel 25, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=25), en [artikel 27, lid 4, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=27) van toepassing zouden zijn indien de abonnee-informatie via wederzijdse bijstand was opgevraagd.
+- a) subscriber information, and
 
-- d. De overeenkomstig lid 5, punt a), in kennis gestelde of overeenkomstig lid 5, punt b), geraadpleegde autoriteiten:
+- b) traffic data
 
-- i. kunnen de in lid 4, punt c), bedoelde autoriteit ten behoeve van de toepassing van lid 5, punt c), om aanvullende informatie verzoeken en verstrekken deze informatie niet zonder toestemming van die autoriteit aan de serviceprovider; en
+in that service provider’s possession or control which is needed for the Party’s specific criminal investigations or proceedings.
 
-- ii. stellen de in lid 4, punt c), bedoelde autoriteit onverwijld in kennis indien de serviceprovider opdracht heeft gekregen de abonnee-informatie niet te verstrekken, en geven de redenen daarvoor op.
+2. Each Party shall adopt such legislative and other measures as may be necessary to give effect to an order under paragraph 1 submitted by a requesting Party.
 
-- e. Een partij wijst één autoriteit aan voor het in ontvangst nemen van kennisgevingen overeenkomstig lid 5, punt a), en het uitvoeren van de maatregelen omschreven in lid 5, punten b), c) en d). Wanneer de partij voor de eerste maal overeenkomstig lid 5, punt a), kennisgeving doet aan de secretaris-generaal van de Raad van Europa, deelt zij de secretaris-generaal de contactgegevens van die autoriteit mee.
+3. In its request, the requesting Party shall submit the order under paragraph 1, the supporting information and any special procedural instructions to the requested Party.
 
-- f. De secretaris-generaal van de Raad van Europa zet een register op van de uit hoofde van lid 5, punt e), door de partijen aangewezen autoriteiten en houdt dit bij, en registreert of en zo ja, wanneer kennisgeving is vereist overeenkomstig lid 5, punt a). Iedere partij zorgt ervoor dat de in het register vermelde gegevens te allen tijde juist zijn.
+- a) The order shall specify:
 
-6. Indien dit voor de serviceprovider aanvaardbaar is, kan een partij bevelen uit hoofde van lid 1 en aanvullende informatie als bedoeld in lid 4 in elektronische vorm indienen. Een partij kan de in lid 5 bedoelde kennisgeving en aanvullende informatie in elektronische vorm verstrekken. Er kan een passend niveau van beveiliging en authenticatie worden vereist.
+   - (i) the issuing authority and the date the order was issued;
 
-7. Indien een serviceprovider de in lid 4, punt c), bedoelde autoriteit meedeelt dat hij de gevraagde abonnee-informatie niet zal verstrekken, of indien hij naar aanleiding van het in lid 1 bedoelde bevel geen abonnee-informatie verstrekt binnen dertig dagen na ontvangst van het bevel of binnen de in lid 4, punt d), vastgestelde termijn, indien deze langer is, kunnen de bevoegde autoriteiten van de uitvaardigende partij het bevel uitsluitend via [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&artikel=8&z=2022-05-12&g=2022-05-12) of andere vormen van wederzijdse bijstand ten uitvoer leggen. Partijen kunnen verlangen dat een serviceprovider de reden vermeldt voor zijn weigering de in het bevel gevraagde abonnee- informatie te verstrekken.
+   - (ii) a statement that the order is submitted pursuant to this Protocol;
 
-8. Een partij kan, bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring, verklaren dat een uitvaardigende partij de serviceprovider moet verzoeken om verstrekking van abonnee-informatie alvorens actie te ondernemen om deze informatie overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&artikel=8&z=2022-05-12&g=2022-05-12) te verkrijgen, tenzij de uitvaardigende partij een redelijke verklaring geeft waarom zij dit niet heeft gedaan.
+   - (iii) the name and address of the service provider(s) to be served;
 
-9. Bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring kan een partij:
+   - (iv) the offence(s) that is/are the subject of the criminal investigation or proceeding;
 
-- a. zich het recht voorbehouden dit artikel niet toe te passen; of
+   - (v) the authority seeking the information or data, if not the issuing authority; and
 
-- b. indien verstrekking van bepaalde soorten toegangsnummers uit hoofde van dit artikel in strijd zou zijn met de grondbeginselen van haar nationale rechtsstelsel, zich het recht voorbehouden dit artikel niet op dergelijke nummers toe te passen.
+   - (vi) a detailed description of the specific information or data sought.
 
-#### AFDELING 3. – PROCEDURES TER VERSTERKING VAN DE INTERNATIONALE SAMENWERKING TUSSEN AUTORITEITEN BIJ DE VERSTREKKING VAN OPGESLAGEN COMPUTERGEGEVENS
+- b) The supporting information, provided for the purpose of assisting the requested Party to give effect to the order and which shall not be disclosed to the service provider without the consent of the requesting Party, shall specify:
 
-##### Artikel 8. – Uitvoering geven aan bevelen van een andere partij om abonnee-informatie en verkeersgegevens met spoed te verstrekken
+   - (i) the domestic legal grounds that empower the authority to issue the order;
 
-1. Iedere partij stelt de nodige wetgevende en andere maatregelen vast om haar bevoegde autoriteiten de bevoegdheid te verlenen een bevel uit te vaardigen dat in het kader van een verzoek bij een andere partij wordt ingediend teneinde een serviceprovider op het grondgebied van de aangezochte partij te verplichten tot verstrekking van gespecificeerde opgeslagen
+   - (ii) the legal provisions and applicable penalties for the offence(s) being investigated or prosecuted;
 
-- a. abonnee-informatie, en
+   - (iii) the reason why the requesting Party believes that the service provider is in possession or control of the data;
 
-- b. verkeersgegevens
+   - (iv) a summary of the facts related to the investigation or proceeding;
 
-die in het bezit zijn van die serviceprovider of tot toegang waartoe die serviceprovider gerechtigd is, indien die gegevens noodzakelijk zijn voor een specifiek strafrechtelijk onderzoek of een specifieke strafprocedure van de partij.
+   - (v) the relevance of the information or data to the investigation or proceeding;
 
-2. Iedere partij stelt de nodige wetgevende en andere maatregelen vast om uitvoering te geven aan een door een verzoekende partij krachtens lid 1 ingediend bevel.
+   - (vi) contact information of an authority or authorities that may provide further information;
 
-3. In haar verzoek dient de verzoekende partij het in lid 1 bedoelde bevel, de ondersteunende informatie en eventuele bijzondere procedurele instructies in bij de aangezochte partij.
+   - (vii) whether preservation of the information or data has already been sought, including the date of preservation and any applicable reference number; and
 
-- a. In het bevel worden de volgende gegevens vermeld:
+   - (viii) whether the information has or data have already been sought by other means, and, if so, in what manner.
 
-- i. de uitvaardigende autoriteit en de datum van uitvaardiging van het bevel;
+- c) The requesting Party may request that the requested Party carry out special procedural instructions.
 
-- ii. een verklaring dat het bevel uit hoofde van dit protocol wordt ingediend;
+4. A Party may declare at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, and at any other time, that additional supporting information is required to give effect to orders under paragraph 1.
 
-- iii. de naam en het adres van de serviceprovider(s) aan wie het bevel moet worden betekend;
+5. The requested Party shall accept requests in electronic form. It may require appropriate levels of security and authentication before accepting the request.
 
-- iv. de strafbare feiten waarop het strafrechtelijk onderzoek of de strafprocedure betrekking heeft;
+6. - a) The requested Party, from the date of receipt of all the information specified in paragraphs 3 and 4, shall make reasonable efforts to serve the service provider within forty-five days, if not sooner, and shall order a return of requested information or data no later than:
 
-- v. de autoriteit die de informatie of de gegevens opvraagt, indien dat niet de uitvaardigende autoriteit is; en
+   - (i) twenty days for subscriber information; and
 
-- vi. een gedetailleerde beschrijving van de gevraagde specifieke informatie of gegevens.
+   - (ii) forty-five days for traffic data.
 
-- b. In de ondersteunende informatie, die wordt verstrekt om de aangezochte partij te helpen uitvoering te geven aan het bevel en die niet zonder toestemming van de verzoekende partij aan de serviceprovider mag worden verstrekt, wordt het volgende vermeld:
+- b) The requested Party shall provide for the transmission of the produced information or data to the requesting Party without undue delay.
 
-- i. de nationale rechtsgrondslagen uit hoofde waarvan de autoriteit bevoegd is het bevel uit te vaardigen;
+7. If the requested Party cannot comply with the instructions under paragraph 3.c in the manner requested, it shall promptly inform the requesting Party, and, if applicable, specify any conditions under which it could comply, following which the requesting Party shall determine whether the request should nevertheless be executed.
 
-- ii. de wettelijke bepalingen en de toepasselijke straffen voor het strafbaar feit dat wordt onderzocht of vervolgd;
+8. The requested Party may refuse to execute a request on the grounds established in [Article 25, paragraph 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=25), or [Article 27, paragraph 4, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=27) or may impose conditions it considers necessary to permit execution of the request. The requested Party may postpone execution of requests for reasons established under Article 27, paragraph 5, of the Convention. The requested Party shall notify the requesting Party as soon as practicable of the refusal, conditions, or postponement. The requested Party shall also notify the requesting Party of other circumstances that are likely to delay execution of the request significantly. [Article 28, paragraph 2.b, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=28) shall apply to this article.
 
-- iii. de reden waarom de verzoekende partij van mening is dat de serviceprovider in het bezit is van de gegevens of gerechtigd is tot toegang daartoe;
+9. - a) If the requesting Party cannot comply with a condition imposed by the requested Party under paragraph 8, it shall promptly inform the requested Party. The requested Party shall then determine if the information or material should nevertheless be provided.
 
-- iv. een samenvatting van de feiten in verband met het onderzoek of de procedure;
+- b) If the requesting Party accepts the condition, it shall be bound by it. The requested Party that supplies information or material subject to such a condition may require the requesting Party to explain in relation to that condition the use made of such information or material.
 
-- v. de relevantie van de informatie of gegevens voor het onderzoek of de procedure;
+10. Each Party shall, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, communicate to the Secretary General of the Council of Europe and keep up to date the contact information of the authorities designated:
 
-- vi. de contactgegevens van de autoriteit of autoriteiten die nadere informatie kunnen verstrekken;
+- a) to submit an order under this article; and
 
-- vii. of reeds om bewaring van de informatie of gegevens is verzocht, met opgave van de bewaringsdatum en eventuele toepasselijke referentienummers; en
+- b) to receive an order under this article.
 
-- viii. of de informatie of de gegevens al op andere wijze zijn opgevraagd, en zo ja, op welke wijze.
+11. A Party may, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, declare that it requires that requests by other Parties under this article be submitted to it by the central authority of the requesting Party, or by such other authority as mutually determined between the Parties concerned.
 
-- c. De verzoekende partij kan de aangezochte partij verzoeken bijzondere procedurele instructies uit te voeren.
+12. The Secretary General of the Council of Europe shall set up and keep updated a register of authorities designated by the Parties under paragraph 10. Each Party shall ensure that the details that it has provided for the register are correct at all times.
 
-4. Een partij kan bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring en op enig ander tijdstip verklaren dat aanvullende ondersteunende informatie vereist is om uitvoering te gegeven aan bevelen als bedoeld in lid 1.
+13. At the time of signature of this Protocol or when depositing its instrument of ratification, acceptance, or approval, a Party may reserve the right not to apply this article to traffic data.
 
-5. De aangezochte partij aanvaardt verzoeken in elektronische vorm. Zij mag een passend niveau van beveiliging en authenticatie vereisen alvorens het verzoek te aanvaarden.
+##### Article 9. – Expedited disclosure of stored computer data in an emergency
 
-- a. Vanaf de datum waarop de aangezochte partij alle in de leden 3 en 4 genoemde informatie heeft ontvangen, levert zij redelijke inspanningen om de serviceprovider binnen vijfenveertig dagen, zo niet eerder, van dienst te zijn, en gelast zij de toezending van de gevraagde informatie of gegevens binnen:
+1. - a) Each Party shall adopt such legislative and other measures as may be necessary, in an emergency, for its point of contact for the 24/7 Network referenced in [Article 35 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=35) (“point of contact”) to transmit a request to and receive a request from a point of contact in another Party seeking immediate assistance in obtaining from a service provider in the territory of that Party the expedited disclosure of specified, stored computer data in that service provider’s possession or control, without a request for mutual assistance.
 
-- i. twintig dagen voor abonnee-informatie; en
+- b) A Party may, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, declare that it will not execute requests under paragraph 1.a seeking only the disclosure of subscriber information.
 
-- ii. vijfenveertig dagen voor verkeersgegevens.
+2. Each Party shall adopt such legislative and other measures as may be necessary to enable, pursuant to paragraph 1:
 
-- b. De aangezochte partij zorgt ervoor dat de te verstrekken informatie of gegevens onverwijld aan de verzoekende partij worden toegezonden.
+- a) its authorities to seek data from a service provider in its territory following a request under paragraph 1;
 
-7. Indien de aangezochte partij de in lid 3, punt c), bedoelde instructies niet op de gevraagde wijze kan opvolgen, stelt zij de verzoekende partij daarvan onverwijld in kennis en geeft zij, indien van toepassing, aan onder welke voorwaarden zij aan het verzoek zou kunnen voldoen, waarna de verzoekende partij bepaalt of het verzoek toch moet worden uitgevoerd.
+- b) a service provider in its territory to disclose the requested data to its authorities in response to a request under paragraph 2.a; and
 
-8. De aangezochte partij mag weigeren een verzoek uit te voeren op de gronden die zijn vastgesteld in [artikel 25, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=25), of [artikel 27, lid 4, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=27), of kan voorwaarden opleggen die zij noodzakelijk acht om uitvoering van het verzoek mogelijk te maken. De aangezochte partij mag de uitvoering van verzoeken uitstellen om redenen die uit hoofde van artikel 27, lid 5, van het verdrag zijn vastgesteld. De aangezochte partij stelt de verzoekende partij zo spoedig mogelijk in kennis van de weigering, de voorwaarden of het uitstel. De aangezochte partij stelt de verzoekende partij tevens in kennis van andere omstandigheden die de uitvoering van het verzoek aanzienlijk kunnen vertragen. [Artikel 28, lid 2, punt b), van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=28) is van toepassing op dit artikel.
+- c) its authorities to provide the requested data to the requesting Party.
 
-- a. Indien de verzoekende partij niet kan voldoen aan een door de aangezochte partij uit hoofde van lid 8 opgelegde voorwaarde, stelt zij de aangezochte partij daarvan onverwijld in kennis. De aangezochte partij bepaalt vervolgens of de informatie of het materiaal toch moet worden verstrekt.
+3. The request under paragraph 1 shall specify:
 
-- b. Indien de verzoekende partij de voorwaarde aanvaardt, is zij daardoor gebonden. Een aangezochte partij die informatie of materiaal verstrekt waarvoor een dergelijke voorwaarde geldt, kan van de verzoekende partij, met betrekking tot die voorwaarde, nadere uitleg verlangen omtrent het gebruik dat van deze informatie of van dit materiaal is gemaakt.
+- a) the competent authority seeking the data and date on which the request was issued;
 
-10. Iedere partij deelt bij de ondertekening van het protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring de secretaris-generaal van de Raad van Europa de contactgegevens en alle wijzigingen daarvan mee van de autoriteiten die zijn aangewezen:
+- b) a statement that the request is issued pursuant to this Protocol;
 
-- a. voor het indienen van een bevel krachtens dit artikel; en
+- c) the name and address of the service provider(s) in possession or control of the data sought;
 
-- b. voor het in ontvangst nemen van een bevel uit hoofde van dit artikel.
+- d) the offence(s) that is/are the subject of the criminal investigation or proceeding and a reference to its legal provisions and applicable penalties;
 
-11. Een partij kan bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring verklaren dat zij verlangt dat verzoeken van andere partijen uit hoofde van dit artikel bij haar worden ingediend door de centrale autoriteit van de verzoekende partij of door een andere autoriteit die in onderling overleg door de betrokken partijen is vastgesteld.
+- e) sufficient facts to demonstrate that there is an emergency and how the data sought relate to it;
 
-12. De secretaris-generaal van de Raad van Europa stelt een register op van de uit hoofde van lid 10 door de partijen aangewezen autoriteiten en houdt dit bij. Iedere partij zorgt ervoor dat de voor opname in het register verstrekte gegevens te allen tijde juist zijn.
+- f) a detailed description of the data sought;
 
-13. Bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring kan een partij zich het recht voorbehouden dit artikel niet toe te passen op verkeersgegevens.
+- g) any special procedural instructions; and
 
-##### Artikel 9. – Spoedverstrekking van opgeslagen computergegevens in een noodsituatie
+- h) any other information that may assist in obtaining disclosure of the requested data.
 
-- a. Iedere partij stelt de wetgevende en andere maatregelen vast die in een noodsituatie nodig kunnen zijn om haar contactpunt voor het 24/7 netwerk als bedoeld in [artikel 35 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=35) (hierna „contactpunt”) in staat te stellen om, zonder een verzoek om wederzijdse bijstand, een verzoek door te zenden naar en te ontvangen van een contactpunt in een andere partij dat onmiddellijke bijstand vraagt om van een serviceprovider op het grondgebied van die partij spoedverstrekking te verkrijgen van gespecificeerde opgeslagen computergegevens die in het bezit zijn van die serviceprovider of tot toegang waartoe die serviceprovider gerechtigd is.
+4. The requested Party shall accept a request in electronic form. A Party may also accept a request transmitted orally and may require confirmation in electronic form. It may require appropriate levels of security and authentication before accepting the request.
 
-- b. Een partij kan bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring verklaren dat zij geen gevolg zal geven aan verzoeken als bedoeld in lid 1, punt a), die uitsluitend de verstrekking van abonnee-informatie betreffen.
+5. A Party may, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, declare that it requires requesting Parties, following the execution of the request, to submit the request and any supplemental information transmitted in support thereof, in a format and through such channel, which may include mutual assistance, as specified by the requested Party.
 
-2. Iedere partij stelt de nodige wetgevende en andere maatregelen vast om uit hoofde van lid 1:
+6. The requested Party shall inform the requesting Party of its determination on the request under paragraph 1 on a rapidly expedited basis and, if applicable, shall specify any conditions under which it would provide the data and any other forms of co-operation that may be available.
 
-- a. haar autoriteiten in staat te stellen naar aanleiding van een verzoek uit hoofde van lid 1 gegevens op te vragen bij een serviceprovider op haar grondgebied;
+7. - a) If a requesting Party cannot comply with a condition imposed by the requested Party under paragraph 6, it shall promptly inform the requested Party. The requested Party shall then determine whether the information or material should nevertheless be provided. If the requesting Party accepts the condition, it shall be bound by it.
 
-- b. een serviceprovider op haar grondgebied in staat te stellen de gevraagde gegevens te verstrekken aan haar autoriteiten naar aanleiding van een verzoek uit hoofde van lid 2, punt a); en
+- b) The requested Party that supplies information or material subject to such a condition may require the requesting Party to explain in relation to that condition the use made of such information or material.
 
-- c. haar autoriteiten in staat te stellen de gevraagde gegevens aan de verzoekende partij te verstrekken.
+#### SECTION 4. – PROCEDURES PERTAINING TO EMERGENCY MUTUAL ASSISTANCE
 
-3. In het in lid 1 bedoelde verzoek wordt vermeld:
+##### Article 10. – Emergency mutual assistance
 
-- a. de bevoegde autoriteit die de gegevens opvraagt en de datum waarop het verzoek is gedaan;
+1. Each Party may seek mutual assistance on a rapidly expedited basis where it is of the view that an emergency exists. A request under this article shall include, in addition to the other contents required, a description of the facts that demonstrate that there is an emergency and how the assistance sought relates to it.
 
-- b. een verklaring dat het verzoek krachtens dit protocol is uitgevaardigd;
+2. A requested Party shall accept such a request in electronic form. It may require appropriate levels of security and authentication before accepting the request.
 
-- c. de naam en het adres van de serviceprovider of serviceproviders die in het bezit is of zijn van de gevraagde gegevens of tot toegang daartoe gerechtigd is of zijn;
+3. The requested Party may seek, on a rapidly expedited basis, supplemental information in order to evaluate the request. The requesting Party shall provide such supplemental information on a rapidly expedited basis.
 
-- d. het strafbare feit of de strafbare feiten die het voorwerp uitmaken van het strafrechtelijk onderzoek of de strafprocedure en een verwijzing naar de wettelijke bepalingen en toepasselijke straffen;
+4. Once satisfied that an emergency exists and the other requirements for mutual assistance have been satisfied, the requested Party shall respond to the request on a rapidly expedited basis.
 
-- e. voldoende feiten om aan te tonen dat er sprake is van een noodsituatie en aan te geven wat het verband is met de gevraagde gegevens;
+5. Each Party shall ensure that a person from its central authority or other authorities responsible for responding to mutual assistance requests is available on a twenty-four hour, seven-day-a-week basis for the purpose of responding to a request under this article.
 
-- f. een gedetailleerde beschrijving van de gevraagde gegevens;
+6. The central authority or other authorities responsible for mutual assistance of the requesting and requested Parties may mutually determine that the results of the execution of a request under this article, or an advance copy thereof, may be provided to the requesting Party through a channel other than that used for the request.
 
-- g. eventuele bijzondere procedurele instructies; en
+7. Where there is no mutual assistance treaty or arrangement on the basis of uniform or reciprocal legislation in force between the requesting and requested Parties, [Article 27, paragraphs 2.b and 3 to 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=27), and [Article 28, paragraphs 2 to 4, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=28) shall apply to this article.
 
-- h. alle andere informatie die van nut kan zijn om de verstrekking van de gevraagde gegevens te verkrijgen.
+8. Where such a treaty or arrangement exists, this article shall be supplemented by the provisions of such treaty or arrangement unless the Parties concerned mutually determine to apply any or all of the provisions of the Convention referred to in paragraph 7 of this article, in lieu thereof.
 
-4. De aangezochte partij aanvaardt verzoeken in elektronische vorm. Een partij kan ook mondeling verzonden verzoeken aanvaarden en kan bevestiging in elektronische vorm verlangen. Zij kan een passend niveau van beveiliging en authenticatie vereisen alvorens een verzoek te aanvaarden.
+9. Each Party may, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, declare that requests may also be sent directly to its judicial authorities, or through the channels of the International Criminal Police Organization (INTERPOL) or to its 24/7 point of contact established under [Article 35 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=35). In any such cases, a copy shall be sent at the same time to the central authority of the requested Party through the central authority of the requesting Party. Where a request is sent directly to a judicial authority of the requested Party and that authority is not competent to deal with the request, it shall refer the request to the competent national authority and inform the requesting Party directly that it has done so.
 
-5. Een partij kan bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring verklaren dat zij verzoekende partijen, na de uitvoering van het verzoek, ertoe verplicht het verzoek en alle ter ondersteuning daarvan verstrekte aanvullende informatie in te dienen in een formaat en via een kanaal zoals bepaald door de aangezochte partij, mogelijk in het kader van wederzijdse bijstand.
+#### SECTION 5. – PROCEDURES PERTAINING TO INTERNATIONAL CO-OPERATION IN THE ABSENCE OF APPLICABLE INTERNATIONAL AGREEMENTS
 
-6. De aangezochte partij stelt de verzoekende partij met spoed in kennis van haar beslissing betreffende het in lid 1 bedoelde verzoek en geeft, indien van toepassing, aan onder welke voorwaarden zij de gegevens zou verstrekken en welke andere vormen van samenwerking er eventueel beschikbaar zijn.
+##### Article 11. – Video conferencing
 
-- a. Indien de verzoekende partij niet kan voldoen aan een door de aangezochte partij uit hoofde van lid 6 opgelegde voorwaarde, stelt zij de aangezochte partij daarvan onverwijld in kennis. De aangezochte partij bepaalt vervolgens of de informatie of het materiaal toch moet worden verstrekt. b) Indien de verzoekende partij de voorwaarde aanvaardt, is zij daardoor gebonden.
+1. A requesting Party may request, and the requested Party may permit, testimony and statements to be taken from a witness or expert by video conference. The requesting Party and the requested Party shall consult in order to facilitate resolution of any issues that may arise with regard to the execution of the request, including, as applicable: which Party shall preside; the authorities and persons that shall be present; whether one or both Parties shall administer particular oaths, warnings or give instructions to the witness or expert; the manner of questioning the witness or expert; the manner in which the rights of the witness or expert shall be duly ensured; the treatment of claims of privilege or immunity; the treatment of objections to questions or responses; and whether one or both Parties shall provide translation, interpretation and transcription services.
 
-- b. Een aangezochte partij die informatie of materiaal verstrekt waarvoor een dergelijke voorwaarde geldt, kan van de verzoekende partij, met betrekking tot die voorwaarde, nadere uitleg verlangen omtrent het gebruik dat van deze informatie of van dit materiaal is gemaakt.
+2. - a) The central authorities of the requested and requesting Parties shall communicate directly with each other for the purposes of this article. A requested Party may accept a request in electronic form. It may require appropriate levels of security and authentication before accepting the request.
 
-#### AFDELING 4. – PROCEDURES VOOR WEDERZIJDSE BIJSTAND IN NOODSITUATIES
+- b) The requested Party shall inform the requesting Party of the reasons for not executing or for delaying the execution of the request. [Article 27, paragraph 8, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=27) applies to this article. Without prejudice to any other condition a requested Party may impose in accordance with this article, [Article 28, paragraphs 2 to 4, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=28) apply to this article.
 
-##### Artikel 10. – Wederzijdse bijstand in noodsituaties
+3. A requested Party providing assistance under this article shall endeavour to obtain the presence of the person whose testimony or statement is sought. Where appropriate the requested Party may, to the extent possible under its law, take the necessary measures to compel a witness or expert to appear in the requested Party at a set time and location.
 
-1. Iedere partij kan om snelle wederzijdse bijstand verzoeken wanneer zij van mening is dat er sprake is van een noodsituatie. Een verzoek uit hoofde van dit artikel vermeldt, naast de andere vereiste inhoud, een beschrijving van de feiten die aantonen dat er sprake is van een noodsituatie en wat het verband is met de gevraagde bijstand.
+4. The procedures relating to the conduct of the video conference specified by the requesting Party shall be followed, except where incompatible with the domestic law of the requested Party. In case of incompatibility, or to the extent that the procedure has not been specified by the requesting Party, the requested Party shall apply the procedure under its domestic law unless otherwise mutually determined by the requesting and requested Parties.
 
-2. De aangezochte partij aanvaardt dergelijke verzoeken in elektronische vorm. De aangezochte partij mag een passend niveau van beveiliging en authenticatie vereisen alvorens het verzoek te aanvaarden.
+5. Without prejudice to any jurisdiction under the domestic law of the requesting Party, where in the course of the video conference, the witness or expert:
 
-3. De aangezochte partij kan met spoed aanvullende informatie opvragen om het verzoek te kunnen beoordelen. De verzoekende partij verstrekt deze aanvullende informatie met spoed.
+- a) makes an intentionally false statement when the requested Party has, in accordance with the domestic law of the requested Party, obliged such person to testify truthfully;
 
-4. Zodra de aangezochte partij zich ervan heeft vergewist dat er sprake is van een noodsituatie en aan de andere vereisten voor wederzijdse bijstand is voldaan, beantwoordt zij met spoed het verzoek.
+- b) refuses to testify when the requested Party has, in accordance with the domestic law of the requested Party, obliged such person to testify; or
 
-5. Iedere partij zorgt ervoor dat er bij haar centrale autoriteit, of bij andere autoriteiten die verantwoordelijk zijn voor het beantwoorden van verzoeken om wederzijdse bijstand, vierentwintig uur per dag en zeven dagen per week iemand beschikbaar is voor het beantwoorden van verzoeken uit hoofde van dit artikel.
+- c) commits other misconduct that is prohibited by the domestic law of the requested Party in the course of such proceedings; the person shall be sanctionable in the requested Party in the same manner as if such act had been committed in the course of its domestic proceedings.
 
-6. De centrale autoriteit of andere voor wederzijdse bijstand verantwoordelijke autoriteiten van de verzoekende en de aangezochte partij kunnen onderling bepalen dat de resultaten van de uitvoering van een verzoek uit hoofde van dit artikel, of een voorlopige versie daarvan, aan de verzoekende partij kunnen worden verstrekt via een ander kanaal dan het voor het verzoek gebruikte kanaal.
+6. - a) Unless otherwise mutually determined between the requesting Party and the requested Party, the requested Party shall bear all costs related to the execution of a request under this article, except:
 
-7. Wanneer er tussen de verzoekende en de aangezochte partij geen verdrag inzake wederzijdse bijstand noch een regeling op basis van uniforme of wederkerige wetgeving van kracht is, zijn [artikel 27, lid 2, punt b), en de leden 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=27), alsmede [artikel 28, leden 2 tot en met 4, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=28) van toepassing op dit artikel.
+   - (i) the fees of an expert witness;
 
-8. Indien er wel een dergelijk verdrag of een dergelijke regeling bestaat, wordt dit artikel aangevuld met de bepalingen van dat verdrag of die regeling, tenzij de betrokken partijen onderling besluiten in plaats daarvan een of meer van de in lid 7 van dit artikel bedoelde bepalingen van het verdrag toe te passen.
+   - (ii) the costs of translation, interpretation and transcription; and
 
-9. Iedere partij kan bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring verklaren dat verzoeken ook rechtstreeks kunnen worden gericht aan haar gerechtelijke autoriteiten, via de kanalen van de Internationale Criminele Politieorganisatie (Interpol) of haar 24/7-contactpunt dat is ingesteld krachtens [artikel 35 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=35). In een dergelijk geval wordt tegelijkertijd door tussenkomst van de centrale autoriteit van de verzoekende partij een afschrift gezonden aan de centrale autoriteit van de aangezochte partij. Wanneer een verzoek rechtstreeks naar een justitiële autoriteit van de aangezochte partij is gezonden en die autoriteit niet bevoegd is om het verzoek te behandelen, zendt deze het verzoek door naar de bevoegde nationale autoriteit en stelt zij de verzoekende partij daarvan rechtstreeks op de hoogte.
+   - (iii) costs of an extraordinary nature.
 
-#### AFDELING 5. – PROCEDURES INZAKE INTERNATIONALE SAMENWERKING BIJ GEBREKE VAN TOEPASSELIJKE INTERNATIONALE OVEREENKOMSTEN
+- b) If the execution of a request would impose costs of an extraordinary nature, the requesting Party and the requested Party shall consult each other in order to determine the conditions under which the request may be executed.
 
-##### Artikel 11. – Videoconferentie
+7. Where mutually agreed upon by the requesting Party and the requested Party:
 
-1. Een verzoekende partij kan erom vragen dat getuigenverklaringen en verklaringen van deskundigen door middel van een videoconferentie worden afgenomen, en de aangezochte partij kan dat toestaan. De verzoekende partij en de aangezochte partij plegen overleg om een oplossing voor eventuele problemen in verband met de uitvoering van het verzoek te faciliteren, bijvoorbeeld met betrekking tot: de vraag welke partij als voorzitter optreedt; de autoriteiten en personen die aanwezig zullen zijn; de vraag of een of beide partijen een bepaalde eed afleggen, waarschuwingen uitspreken of instructies geven aan een getuige of deskundige; de wijze waarop de getuige of deskundige wordt gehoord; de wijze waarop de rechten van de getuige of deskundige worden verzekerd; de behandeling van aanspraken op voorrechten of immuniteiten; de behandeling van bezwaren tegen vragen of antwoorden; en de vraag of een van de partijen dan wel beide partijen diensten op het gebied van vertaling, vertolking en transcriptie aanbieden.
+- a) the provisions of this article may be applied for the purposes of carrying out audio conferences;
 
-- a. De centrale autoriteiten van de aangezochte en de verzoekende partij communiceren voor de toepassing van dit artikel rechtstreeks met elkaar. De aangezochte partij kan dergelijke verzoeken in elektronische vorm aanvaarden. Zij mag een passend niveau van beveiliging en authenticatie vereisen alvorens het verzoek te aanvaarden.
+- b) video conferencing technology may be used for purposes, or for hearings, other than those described in paragraph 1, including for the purposes of identifying persons or objects.
 
-- b. De aangezochte partij deelt de verzoekende partij mee waarom zij het verzoek niet uitvoert of de uitvoering ervan uitstelt. [Artikel 27, lid 8, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=27) is van toepassing op dit artikel. Onverminderd andere voorwaarden die een aangezochte partij overeenkomstig dit artikel kan stellen, zijn de leden 2 tot en met 4 van [artikel 28 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=28) van toepassing op dit artikel.
+8. Where a requested Party chooses to permit the hearing of a suspect or accused person, it may require particular conditions and safeguards with respect to the taking of testimony or a statement from, or providing notifications or applying procedural measures to, such person.
 
-3. Een aangezochte partij die uit hoofde van dit artikel bijstand verleent, spant zich in om te bewerkstelligen dat de persoon wiens getuigenis of verklaring wordt gevraagd, aanwezig is. In voorkomend geval kan de aangezochte partij, voor zover haar recht dit toelaat, de nodige maatregelen nemen om een getuige of deskundige te verplichten op een bepaald tijdstip en op een bepaalde plaats in de aangezochte partij te verschijnen.
+##### Article 12. – Joint investigation teams and joint investigations
 
-4. De door de verzoekende partij gespecificeerde procedures voor het houden van de videoconferentie worden gevolgd, tenzij dat onverenigbaar is met het nationale recht van de aangezochte partij. In geval van onverenigbaarheid of voor zover de procedure niet door de verzoekende partij is gespecificeerd, past de aangezochte partij de procedure uit hoofde van haar nationale recht toe, tenzij de verzoekende en de aangezochte partij onderling anders bepalen.
+1. By mutual agreement, the competent authorities of two or more Parties may establish and operate a joint investigation team in their territories to facilitate criminal investigations or proceedings, where enhanced coordination is deemed to be of particular utility. The competent authorities shall be determined by the respective Parties concerned.
 
-5. Indien de getuige of deskundige tijdens de videoconferentie:
+2. The procedures and conditions governing the operation of joint investigation teams, such as their specific purposes; composition; functions; duration and any extension periods; location; organisation; terms of gathering, transmitting and using information or evidence; terms of confidentiality; and terms for the involvement of the participating authorities of a Party in investigative activities taking place in another Party’s territory, shall be as agreed between those competent authorities.
 
-- a. een opzettelijk onjuiste verklaring aflegt, terwijl die persoon overeenkomstig het nationale recht van de aangezochte partij ertoe verplicht is een waarheidsgetrouwe verklaring af te leggen,
+3. A Party may declare at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance, or approval that its central authority must be a signatory to or otherwise concur in the agreement establishing the team.
 
-- b. weigert een verklaring af te leggen, terwijl die persoon overeenkomstig het nationale recht van de aangezochte partij ertoe verplicht een verklaring af te leggen, of
+4. Those competent and participating authorities shall communicate directly, except that Parties may mutually determine other appropriate channels of communication where exceptional circumstances require more central coordination.
 
-- c. zich in de loop van de procedure schuldig maakt aan andere misdragingen die krachtens het nationale recht van de aangezochte partij verboden zijn, is die persoon in de aangezochte partij strafbaar op dezelfde wijze als wanneer de genoemde gedraging in het kader van een binnenlandse procedure had plaatsgevonden, zulks onverminderd de rechtsbevoegdheid krachtens het nationale recht van de verzoekende partij.
+5. Where investigative measures need to be taken in the territory of one of the Parties concerned, participating authorities from that Party may request their own authorities to take those measures without the other Parties having to submit a request for mutual assistance. Those measures shall be carried out by that Party’s authorities in its territory under the conditions that apply under domestic law in a national investigation.
 
-- a. Tenzij de verzoekende partij en de aangezochte partij onderling anders zijn overeengekomen, draagt de aangezochte partij alle kosten in verband met de uitvoering van een verzoek uit hoofde van dit artikel, met uitzondering van:
+6. Use of information or evidence provided by the participating authorities of one Party to participating authorities of other Parties concerned may be refused or restricted in the manner set forth in the agreement described in paragraphs 1 and 2. If that agreement does not set forth terms for refusing or restricting use, the Parties may use the information or evidence provided:
 
-- i. honoraria van getuigen-deskundigen;
+- a) for the purposes for which the agreement has been entered into;
 
-- ii. kosten van vertaling, vertolking en transcriptie; en
+- b) for detecting, investigating and prosecuting criminal offences other than those for which the agreement was entered into, subject to the prior consent of the authorities providing the information or evidence. However, consent shall not be required where fundamental legal principles of the Party using the information or evidence require that it disclose the information or evidence to protect the rights of an accused person in criminal proceedings. In that case, those authorities shall notify the authorities that provided the information or evidence without undue delay; or
 
-- iii. buitengewone kosten.
+- c) to prevent an emergency. In that case, the participating authorities that received the information or evidence shall notify without undue delay the participating authorities that provided the information or evidence, unless mutually determined otherwise.
 
-- b. Indien de uitvoering van een verzoek tot buitengewone kosten zou leiden, plegen de verzoekende partij en de aangezochte partij overleg om te bepalen onder welke voorwaarden het verzoek kan worden uitgevoerd.
+7. In the absence of an agreement described in paragraphs 1 and 2, joint investigations may be undertaken under mutually agreed terms on a case-by-case basis. This paragraph applies whether or not there is a mutual assistance treaty or arrangement on the basis of uniform or reciprocal legislation in force between the Parties concerned.
 
-7. Indien de verzoekende partij en de aangezochte partij zulks onderling overeenkomen:
+### CHAPTER III. – CONDITIONS AND SAFEGUARDS
 
-- a. kunnen de bepalingen van dit artikel worden toegepast voor de uitvoering van audioconferenties;
+##### Article 13. – Conditions and safeguards
 
-- b. kan videoconferentietechnologie worden gebruikt voor andere dan de in lid 1 beschreven doeleinden of hoorzittingen, waaronder de identificatie van personen of voorwerpen.
+In accordance with [Article 15 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=15), each Party shall ensure that the establishment, implementation and application of the powers and procedures provided for in this Protocol are subject to conditions and safeguards provided for under its domestic law, which shall provide for the adequate protection of human rights and liberties.
 
-8. Indien een aangezochte partij ervoor kiest het horen van een verdachte of beklaagde toe te staan, kan zij bijzondere voorwaarden en waarborgen vereisen met betrekking tot het afnemen van een getuigenis of verklaring van die persoon, het verstrekken van kennisgevingen aan die persoon of het toepassen van procedurele maatregelen ten aanzien van die persoon.
+##### Article 14. – Protection of personal data
 
-##### Artikel 12. – Gemeenschappelijke onderzoeksteams en gezamenlijke onderzoeken
+1. Scope
 
-1. In onderlinge overeenstemming kunnen de bevoegde autoriteiten van twee of meer partijen, wanneer versterkte coördinatie van bijzonder nut wordt geacht, op hun grondgebied gemeenschappelijke onderzoeksteams instellen en beheren, teneinde strafrechtelijke onderzoeken en strafprocedures te faciliteren. De respectieve betrokken partijen bepalen welke de bevoegde autoriteiten zijn.
+- a) Except as otherwise provided in paragraphs 1.b and c, each Party shall process the personal data that it receives under this Protocol in accordance with paragraphs 2 to 15 of this article.
 
-2. De procedures en de voorwaarden voor de werking van gemeenschappelijke onderzoeksteams, zoals de specifieke doelstellingen, de samenstelling, de functies, de duur van de onderzoeksactiviteiten en eventuele verlengingstermijnen, de locatie, de organisatie, de voorwaarden voor het vergaren, doorgeven en gebruiken van informatie en bewijsmateriaal, de vertrouwelijkheidsvoorwaarden en de voorwaarden voor de betrokkenheid van de deelnemende autoriteiten van een partij bij onderzoeksactiviteiten die op het grondgebied van een andere partij plaatsvinden, worden door de bevoegde autoriteiten overeengekomen.
+- b) If, at the time of receipt of personal data under this Protocol, both the transferring Party and the receiving Party are mutually bound by an international agreement establishing a comprehensive framework between those Parties for the protection of personal data, which is applicable to the transfer of personal data for the purpose of the prevention, detection, investigation and prosecution of criminal offences, and which provides that the processing of personal data under that agreement complies with the requirements of the data protection legislation of the Parties concerned, the terms of such agreement shall apply, for the measures falling within the scope of such agreement, to personal data received under this Protocol in lieu of paragraphs 2 to 15, unless otherwise agreed between the Parties concerned.
 
-3. Een partij kan bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring verklaren dat haar centrale autoriteit de overeenkomst tot oprichting van het team moet ondertekenen of er anderszins mee moet instemmen.
+- c) If the transferring Party and the receiving Party are not mutually bound under an agreement described in paragraph 1.b, they may mutually determine that the transfer of personal data under this Protocol may take place on the basis of other agreements or arrangements between the Parties concerned in lieu of paragraphs 2 to 15.
 
-4. De bevoegde en deelnemende autoriteiten communiceren rechtstreeks met elkaar, met dien verstande dat de partijen onderling afspraken kunnen maken over andere passende communicatiekanalen, wanneer uitzonderlijke omstandigheden meer centrale coördinatie vereisen.
+- d) Each Party shall consider that the processing of personal data pursuant to paragraphs 1.a and 1.b meets the requirements of its personal data protection legal framework for international transfers of personal data, and no further authorisation for transfer shall be required under that legal framework. A Party may only refuse or prevent data transfers to another Party under this Protocol for reasons of data protection under the conditions set out in paragraph 15 when paragraph 1.a applies; or under the terms of an agreement or arrangement referred to in paragraphs 1.b or c, when one of those paragraphs applies.
 
-5. Wanneer onderzoeksmaatregelen op het grondgebied van een van de betrokken partijen moeten worden uitgevoerd, kunnen de deelnemende autoriteiten van die partij hun eigen autoriteiten verzoeken deze maatregelen uit te voeren en is het niet noodzakelijk dat de andere partijen een verzoek om wederzijdse bijstand indienen. Deze maatregelen worden door de autoriteiten van die partij op haar grondgebied uitgevoerd onder de voorwaarden die krachtens het nationale recht van toepassing zijn op nationale onderzoeken.
+- e) Nothing in this article shall prevent a Party from applying stronger safeguards to the processing by its own authorities of personal data received under this Protocol.
 
-6. Het gebruik van informatie die of bewijsmateriaal dat door de deelnemende autoriteiten van een partij aan de deelnemende autoriteiten van andere betrokken partijen is verstrekt, kan worden geweigerd of beperkt op de wijze die is uiteengezet in de in de leden 1 en 2 beschreven overeenkomst. Indien in die overeenkomst geen voorwaarden zijn vermeld voor het weigeren of beperken van het gebruik, kunnen de partijen gebruikmaken van de verstrekte informatie of het verstrekte bewijsmateriaal:
+2. Purpose and use
 
-- a. voor de doeleinden waarvoor de overeenkomst is gesloten;
+- a) The Party that has received personal data shall process them for the purposes described in [Article 2](https://wetten.overheid.nl/BWBV0006966). It shall not further process the personal data for an incompatible purpose, and it shall not further process the data when this is not permitted under its domestic legal framework. This article shall not prejudice the ability of the transferring Party to impose additional conditions pursuant to this Protocol in a specific case, however, such conditions shall not include generic data protection conditions.
 
-- b. voor het opsporen, onderzoeken en vervolgen van andere strafbare feiten dan die waarvoor de overeenkomst is gesloten, met voorafgaande toestemming van de autoriteiten die de informatie of het bewijsmateriaal hebben verstrekt. Toestemming is echter niet vereist wanneer fundamentele rechtsbeginselen van de partij die de informatie of het bewijsmateriaal gebruikt, vereisen dat zij de informatie of het bewijsmateriaal verstrekt ter bescherming van de rechten van een beklaagde in een strafprocedure. In dat geval stellen die autoriteiten de autoriteiten die de informatie of het bewijs hebben verstrekt, daarvan onverwijld in kennis; of
+- b) The receiving Party shall ensure under its domestic legal framework that personal data sought and processed are relevant to and not excessive in relation to the purposes of such processing.
 
-- c. om een noodsituatie te voorkomen. In dat geval stellen de deelnemende autoriteiten die de informatie of het bewijs hebben ontvangen, de deelnemende autoriteiten die de informatie of het bewijs hebben verstrekt, daarvan onverwijld in kennis, tenzij onderling anders is overeengekomen.
+3. Quality and integrity
 
-7. Bij gebreke van een overeenkomst als beschreven in de leden 1 en 2, kunnen op onderling overeengekomen voorwaarden per geval gezamenlijke onderzoeken worden ingesteld. Dit lid is van toepassing ongeacht of er sprake is van een verdrag of regeling inzake wederzijdse bijstand op basis van uniforme of wederkerige wetgeving tussen de betrokken partijen.
+Each Party shall take reasonable steps to ensure that personal data are maintained with such accuracy and completeness and are as up to date as is necessary and appropriate for the lawful processing of the personal data, having regard to the purposes for which they are processed.
 
-### HOOFDSTUK III. – VOORWAARDEN EN WAARBORGEN
+4. Sensitive data
 
-##### Artikel 13. – Voorwaarden en waarborgen
+Processing by a Party of personal data revealing racial or ethnic origin, political opinions or religious or other beliefs, or trade union membership; genetic data; biometric data considered sensitive in view of the risks involved; or personal data concerning health or sexual life; shall only take place under appropriate safeguards to guard against the risk of unwarranted prejudicial impact from the use of such data, in particular against unlawful discrimination.
 
-Overeenkomstig [artikel 15 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=15) ziet iedere partij erop toe dat de invoering, uitwerking en toepassing van de in dit protocol bedoelde bevoegdheden en procedures onderworpen zijn aan de voorwaarden en waarborgen vervat in haar nationale recht, dat een passende bescherming moet bieden aan de rechten en vrijheden van de mens.
+5. Retention periods
 
-##### Artikel 14. – Bescherming van persoonsgegevens
+Each Party shall retain the personal data only for as long as necessary and appropriate in view of the purposes of processing the data pursuant to paragraph 2. In order to meet this obligation, it shall provide in its domestic legal framework for specific retention periods or periodic review of the need for further retention of the data.
 
-1. Toepassingsgebied
+6. Automated decisions
 
-- a. Tenzij anders bepaald in de punten b) en c), verwerkt iedere partij de persoonsgegevens die zij uit hoofde van dit protocol ontvangt in overeenstemming met de leden 2 tot en met 15 van dit artikel.
+Decisions producing a significant adverse effect concerning the relevant interests of the individual to whom the personal data relate may not be based solely on automated processing of personal data, unless authorised under domestic law and with appropriate safeguards that include the possibility to obtain human intervention.
 
-- b. Indien ten tijde van de ontvangst van persoonsgegevens uit hoofde van dit protocol zowel de doorgevende partij als de ontvangende partij wederzijds gebonden zijn door een internationale overeenkomst tot vaststelling van een algemeen kader tussen die partijen voor de bescherming van persoonsgegevens, die van toepassing is op de doorgifte van persoonsgegevens met het oog op het voorkomen, opsporen, onderzoeken en vervolgen van strafbare feiten en waarin is bepaald dat de verwerking van persoonsgegevens in het kader van die overeenkomst in overeenstemming is met de vereisten van de gegevensbeschermingswetgeving van de betrokken partijen, zijn de bepalingen van die overeenkomst, wat maatregelen betreft die onder het toepassingsgebied van die overeenkomst vallen, van toepassing op persoonsgegevens die in het kader van het protocol zijn ontvangen, in plaats van de leden 2 tot en met 15, tenzij de betrokken partijen anders zijn overeengekomen.
+7. Data security and security incidents
 
-- c. Indien de doorgevende partij en de ontvangende partij niet wederzijds gebonden zijn door een overeenkomst als bedoeld in punt b), kunnen zij overeenkomen dat de doorgifte van persoonsgegevens in het kader van dit protocol kan plaatsvinden op basis van andere overeenkomsten of regelingen tussen de betrokken partijen in plaats van de leden 2 tot en met 15.
+- a) Each Party shall ensure that it has in place appropriate technological, physical and organisational measures for the protection of personal data, in particular against loss or accidental or unauthorised access, disclosure, alteration or destruction (“security incident”).
 
-- d. Iedere partij gaat ervan uit dat de verwerking van persoonsgegevens overeenkomstig de punten a) en b) voldoet aan de vereisten van haar rechtskader inzake de bescherming van persoonsgegevens voor internationale doorgiften van persoonsgegevens, en dat uit hoofde van dat rechtskader geen verdere toestemming voor doorgifte vereist is. Een partij mag de doorgifte van gegevens aan een andere partij in het kader van dit protocol alleen weigeren of verhinderen om redenen van gegevensbescherming onder de voorwaarden van lid 15, wanneer punt a) van toepassing is, of onder de voorwaarden van een overeenkomst als bedoeld in punt b) of c), indien een van die punten van toepassing is.
+- b) Upon discovery of a security incident in which there is a significant risk of physical or non- physical harm to individuals or to the other Party, the receiving Party shall promptly assess the likelihood and scale thereof and shall promptly take appropriate action to mitigate such harm. Such action shall include notification to the transferring authority or, for purposes of [Chapter II, section 2](https://wetten.overheid.nl/BWBV0006966), the authority or authorities designated pursuant to paragraph 7.c. However, notification may include appropriate restrictions as to the further transmission of the notification; it may be delayed or omitted when such notification may endanger national security, or delayed when such notification may endanger measures to protect public safety. Such action shall also include notification to the individual concerned, unless the Party has taken appropriate measures so that there is no longer a significant risk. Notification to the individual may be delayed or omitted under the conditions set out in paragraph 12.a.i. The notified Party may request consultation and additional information concerning the incident and the response thereto.
 
-- e. Niets in dit artikel belet een partij om strengere waarborgen toe te passen op de verwerking door haar eigen autoriteiten van in het kader van dit protocol ontvangen persoonsgegevens.
+- c) Each Party shall, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, communicate to the Secretary General of the Council of Europe the authority or authorities to be notified under paragraph 7.b for the purposes of [Chapter II, section 2](https://wetten.overheid.nl/BWBV0006966); the information provided may subsequently be modified.
 
-2. Doel en gebruik
+8. Maintaining records
 
-- a. Een partij die persoonsgegevens heeft ontvangen, verwerkt deze voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=I&artikel=2&z=2022-05-12&g=2022-05-12) omschreven doeleinden. Zij verwerkt de persoonsgegevens niet verder voor een daarmee onverenigbaar doel en verwerkt de gegevens niet verder wanneer haar nationale rechtskader zulks niet toestaat. Dit artikel doet geen afbreuk aan de mogelijkheid voor de doorgevende partij om in een specifiek geval uit hoofde van dit protocol aanvullende voorwaarden op te leggen, maar dergelijke voorwaarden mogen geen algemene voorwaarden inzake gegevensbescherming inhouden.
+Each Party shall maintain records or have other appropriate means to demonstrate how an individual’s personal data are accessed, used and disclosed in a specific case.
 
-- b. De ontvangende partij ziet er overeenkomstig haar nationale rechtskader op toe dat de gevraagde en vervolgens verwerkte persoonsgegevens relevant zijn voor het doel van de verwerking en in verhouding daartoe niet bovenmatig zijn.
+9. Onward sharing within a Party
 
-3. Kwaliteit en integriteit
+- a) When an authority of a Party provides personal data received initially under this Protocol to another authority of that Party, that other authority shall process it in accordance with this article, subject to paragraph 9.b.
 
-Iedere partij neemt redelijke maatregelen om ervoor te zorgen dat persoonsgegevens worden bewaard en bijgewerkt met de nauwkeurigheid en volledigheid die voor de rechtmatige verwerking van de persoonsgegevens vereist en passend is, rekening houdend met de doeleinden waarvoor zij worden verwerkt.
+- b) Notwithstanding paragraph 9.a, a Party that has made a reservation under [Article 17](https://wetten.overheid.nl/BWBV0006966) may provide personal data it has received to its constituent States or similar territorial entities provided the Party has in place measures in order that the receiving authorities continue to effectively protect the data by providing for a level of protection of the data comparable to that afforded by this article.
 
-4. Gevoelige gegevens
+- c) In case of indications of improper implementation of this paragraph, the transferring Party may request consultation and relevant information about those indications.
 
-Een partij mag persoonsgegevens waaruit raciale of etnische afkomst, politieke opvattingen, godsdienstige of andere overtuigingen of het lidmaatschap van een vakvereniging blijken, genetische gegevens, biometrische gegevens die gezien de ermee gepaard gaande risico’s als gevoelig worden beschouwd, en persoonsgegevens die gezondheid of seksueel gedrag betreffen, slechts verwerken met inachtneming van passende waarborgen ter voorkoming van het risico van ongerechtvaardigde nadelige gevolgen van het gebruik van dergelijke gegevens, en in het bijzonder ter voorkoming van onwettige discriminatie.
+10. Onward transfer to another State or international organisation
 
-5. Bewaringstermijnen
+- a) The receiving Party may transfer the personal data to another State or international organisation only with the prior authorisation of the transferring authority or, for purposes of [Chapter II, section 2](https://wetten.overheid.nl/BWBV0006966), the authority or authorities designated pursuant to paragraph 10.b.
 
-Iedere partij bewaart persoonsgegevens niet langer dan nodig en passend is voor de doeleinden van de verwerking van de gegevens overeenkomstig lid 2. Om aan deze verplichting te voldoen, stelt zij in haar nationale rechtskader specifieke bewaringstermijnen vast of voorziet zij in periodieke toetsing van de noodzaak om gegevens langer te bewaren.
+- b) Each Party shall, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, communicate to the Secretary General of the Council of Europe the authority or authorities to provide authorisation for purposes of [Chapter II, section 2](https://wetten.overheid.nl/BWBV0006966); the information provided may subsequently be modified.
 
-6. Geautomatiseerde besluiten
+11. Transparency and notice
 
-Besluiten die aanzienlijke nadelige gevolgen hebben voor de relevante belangen van de persoon op wie de persoonsgegevens betrekking hebben, mogen niet uitsluitend gebaseerd zijn op geautomatiseerde verwerking van persoonsgegevens, tenzij dat is toegestaan uit hoofde van het nationale recht en in passende waarborgen is voorzien, waaronder de mogelijkheid van menselijke tussenkomst.
+- a) Each Party shall provide notice through the publication of general notices, or through personal notice to the individual whose personal data have been collected, with regard to:
 
-7. Gegevensbeveiliging en beveiligingsincidenten
+   - (i) the legal basis for and the purpose(s) of processing;
 
-- a. Iedere partij zorgt ervoor dat zij beschikt over passende technologische, fysieke en organisatorische maatregelen om persoonsgegevens te beschermen, met name tegen verlies of onopzettelijke of ongeoorloofde toegang, verspreiding, wijziging of vernietiging („beveiligingsincidenten”).
+   - (ii) any retention or review periods pursuant to paragraph 5, as applicable;
 
-- b. Wanneer een veiligheidsincident aan het licht komt dat gepaard gaat met een aanzienlijk risico van fysiek letsel of niet-fysieke schade aan personen of aan de andere partij, beoordeelt de ontvangende partij onverwijld de waarschijnlijkheid en de omvang ervan en neemt zij onverwijld passende maatregelen om dergelijk letsel of dergelijke schade te beperken. Deze maatregelen houden onder meer in dat kennisgeving wordt gedaan aan de doorgevende autoriteit, dan wel, voor de toepassing van [hoofdstuk II, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&z=2022-05-12&g=2022-05-12), aan de autoriteit(en) die zijn aangewezen krachtens lid 7, punt c). In de kennisgeving kunnen echter ook passende beperkingen op verdere verspreiding van de kennisgeving worden opgenomen: verspreiding kan worden uitgesteld of achterwege blijven wanneer de kennisgeving de nationale veiligheid in gevaar kan brengen, of worden uitgesteld wanneer de kennisgeving de maatregelen ter bescherming van de openbare veiligheid in gevaar kan brengen. De maatregelen omvatten ook kennisgeving aan de betrokken persoon, tenzij de partij passende maatregelen heeft genomen waardoor er niet langer een aanzienlijk risico bestaat. De kennisgeving aan de betrokken persoon kan worden uitgesteld of achterwege blijven onder de voorwaarden van lid 12, punt a), i). De in kennis gestelde partij kan verzoeken om overleg en aanvullende informatie over het incident en de respons erop.
+   - (iii) recipients or categories of recipients to whom such data are disclosed; and
 
-- c. Iedere partij stelt bij de ondertekening van het protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring de secretaris-generaal van de Raad van Europa in kennis van de autoriteit(en) waaraan uit hoofde van lid 7, punt b), kennisgeving moet worden gedaan voor de doeleinden van [hoofdstuk II, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&z=2022-05-12&g=2022-05-12); de verstrekte informatie kan later worden gewijzigd.
+   - (iv) access, rectification and redress available.
 
-8. Bijhouden van bestanden
+- b) A Party may subject any personal notice requirement to reasonable restrictions under its domestic legal framework pursuant to the conditions set forth in paragraph 12.a.i.
 
-Iedere partij houdt bestanden bij of beschikt over andere passende middelen om aan te tonen hoe de persoonsgegevens van een persoon in een specifiek geval worden geraadpleegd, gebruikt en verstrekt.
+- c) Where the transferring Party’s domestic legal framework requires giving personal notice to the individual whose data have been provided to another Party, the transferring Party shall take measures so that the other Party is informed at the time of transfer regarding this requirement and appropriate contact information. The personal notice shall not be given if the other Party has requested that the provision of the data be kept confidential, where the conditions for restrictions as set out in paragraph 12.a.i apply. Once these restrictions no longer apply and the personal notice can be provided, the other Party shall take measures so that the transferring Party is informed. If it has not yet been informed, the transferring Party is entitled to make requests to the receiving Party which will inform the transferring Party whether to maintain the restriction.
 
-9. Verdere uitwisseling binnen een partij
+12. Access and rectification
 
-- a. Wanneer een autoriteit van een partij persoonsgegevens die oorspronkelijk uit hoofde van dit protocol zijn ontvangen, aan een andere autoriteit van die partij verstrekt, verwerkt die andere autoriteit deze gegevens in overeenstemming met dit artikel, met inachtneming van lid 9, punt b).
+- a) Each Party shall ensure that any individual, whose personal data have been received under this Protocol is entitled to seek and obtain, in accordance with processes established in its domestic legal framework and without undue delay:
 
-- b. Onverminderd lid 9, punt a), kan een partij die uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=17&z=2022-05-12&g=2022-05-12) een voorbehoud heeft gemaakt, door haar ontvangen persoonsgegevens verstrekken aan haar constituerende staten of vergelijkbare territoriale entiteiten, mits de partij maatregelen heeft getroffen om ervoor te zorgen dat de ontvangende autoriteiten de gegevens doeltreffend blijven beschermen door te voorzien in een niveau van bescherming van de gegevens dat vergelijkbaar is met dat waarin dit artikel voorziet.
+   - (i) a written or electronic copy of the documentation kept on that individual containing the individual’s personal data and available information indicating the legal basis for and purposes of the processing, retention periods and recipients or categories of recipients of the data (“access”), as well as information regarding available options for redress; provided that access in a particular case may be subject to the application of proportionate restrictions permitted under its domestic legal framework, needed, at the time of adjudication, to protect the rights and freedoms of others or important objectives of general public interest and that give due regard to the legitimate interests of the individual concerned;
 
-- c. Indien er aanwijzingen zijn van onjuiste toepassing van dit lid, kan de doorgevende partij verzoeken om overleg en relevante informatie over die aanwijzingen.
+   - (ii) rectification when the individual’s personal data are inaccurate or have been improperly processed; rectification shall include – as appropriate and reasonable considering the grounds for rectification and the particular context of processing – correction, supplementation, erasure or anonymisation, restriction of processing, or blocking.
 
-10. Verdere doorgifte naar een andere staat of internationale organisatie
+- b) If access or rectification is denied or restricted, the Party shall provide to the individual, in written form which may be provided electronically, without undue delay, a response informing that individual of the denial or restriction. It shall provide the grounds for such denial or restriction and provide information about available options for redress. Any expense incurred in obtaining access should be limited to what is reasonable and not excessive.
 
-- a. De ontvangende partij mag de persoonsgegevens alleen doorgeven aan een andere staat of internationale organisatie indien daarvoor voorafgaande toestemming is verleend door de doorgevende autoriteit of, voor de toepassing van [hoofdstuk II, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&z=2022-05-12&g=2022-05-12), de overeenkomstig lid 10, punt b). aangewezen autoriteit(en).
+13. Judicial and non-judicial remedies
 
-- b. Iedere partij stelt bij de ondertekening van het protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring de secretaris-generaal van de Raad van Europa in kennis van de autoriteiten die toestemming kunnen verlenen voor de toepassing van [hoofdstuk II, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&z=2022-05-12&g=2022-05-12); de verstrekte informatie kan later worden gewijzigd.
+Each Party shall have in place effective judicial and non-judicial remedies to provide redress for violations of this article.
 
-11. Transparantie en kennisgeving
+14. Oversight
 
-- a. Iedere partij stelt, door publicatie van algemene kennisgevingen of door een persoonlijke kennisgeving, de persoon wiens persoonsgegevens zijn verzameld, daarvan in kennis, met betrekking tot:
+Each Party shall have in place one or more public authorities that exercise, alone or cumulatively, independent and effective oversight functions and powers with respect to the measures set forth in this article. The functions and powers of these authorities acting alone or cumulatively shall include investigation powers, the power to act upon complaints and the ability to take corrective action.
 
-- i. de rechtsgrondslag en het doel van de verwerking;
+15. Consultation and suspension
 
-- ii. alle bewaringstermijnen of toetsingstermijnen overeenkomstig lid 5, naargelang het geval;
+A Party may suspend the transfer of personal data to another Party if it has substantial evidence that the other Party is in systematic or material breach of the terms of this article or that a material breach is imminent. It shall not suspend transfers without reasonable notice, and not until after the Parties concerned have engaged in a reasonable period of consultation without reaching a resolution. However, a Party may provisionally suspend transfers in the event of a systematic or material breach that poses a significant and imminent risk to the life or safety of, or substantial reputational or monetary harm to, a natural person, in which case it shall notify and commence consultations with the other Party immediately thereafter. If the consultation has not led to a resolution, the other Party may reciprocally suspend transfers if it has substantial evidence that suspension by the suspending Party was contrary to the terms of this paragraph. The suspending Party shall lift the suspension as soon as the breach justifying the suspension has been remedied; any reciprocal suspension shall be lifted at that time. Any personal data transferred prior to suspension shall continue to be treated in accordance with this Protocol.
 
-- iii. ontvangers of categorieën ontvangers aan wie dergelijke gegevens worden verstrekt; en
+### CHAPTER IV. – FINAL PROVISIONS
 
-- iv. toegang, rectificatie en de beschikbare rechtsmiddelen.
+##### Article 15. – Effects of this Protocol
 
-- b. Een partij kan elke verplichting tot persoonlijke kennisgeving onderwerpen aan redelijke beperkingen uit hoofde van haar interne rechtskader overeenkomstig de voorwaarden van lid 12, punt a), i).
+1. - a) [Article 39, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=39) shall apply to this Protocol.
 
-- c. Wanneer het nationale rechtskader van de doorgevende partij vereist dat de persoon wiens gegevens aan een andere partij zijn verstrekt, daarvan persoonlijk in kennis wordt gesteld, neemt de doorgevende partij maatregelen om de andere partij op het tijdstip van de doorgifte in kennis te stellen van deze eis en passende contactgegevens te verstrekken. De persoonlijke kennisgeving wordt niet gedaan indien de andere partij heeft verzocht de verstrekking van de gegevens vertrouwelijk te behandelen, ingeval de voorwaarden voor beperkingen van lid 12, punt a), i), van toepassing zijn. Zodra deze beperkingen niet langer van toepassing zijn en de persoonlijke kennisgeving kan worden verstrekt, neemt de andere partij maatregelen om de doorgevende partij daarvan in kennis te stellen. Indien zij nog niet in kennis is gesteld, heeft de doorgevende partij het recht een verzoek in te dienen bij de ontvangende partij, die de doorgevende partij zal meedelen of de beperking al dan niet moet worden gehandhaafd.
+- b) With respect to Parties that are members of the European Union, those Parties may, in their mutual relations, apply European Union law governing the matters dealt with in this Protocol.
 
-12. Toegang en rectificatie
+- c) Paragraph 1.b does not affect the full application of this Protocol between Parties that are members of the European Union and other Parties.
 
-- a. Iedere partij ziet erop toe dat eenieder wiens persoonsgegevens in het kader van dit protocol zijn ontvangen, het recht heeft om, in overeenstemming met de in haar interne rechtskader vastgestelde procedures, onverwijld:
+2. Article 39, paragraph 3, of the Convention shall apply to this Protocol.
 
-- i. een schriftelijke of elektronische kopie te vragen en te verkrijgen van de documentatie die over die persoon wordt bewaard, met daarin de persoonsgegevens van de betrokkene, en de beschikbare informatie over de rechtsgrondslag en het doel van de verwerking, de bewaringstermijnen en de ontvangers of categorieën ontvangers van de gegevens (degenen die er „toegang” toe hebben), alsmede informatie over de beschikbare rechtsmiddelen; met dien verstande dat op de toegang in een bepaald geval op grond van het nationale rechtskader toegestane evenredige beperkingen van toepassing kunnen zijn die op het tijdstip van de uitspraak noodzakelijk zijn om de rechten en vrijheden van anderen of belangrijke doelstellingen van algemeen openbaar belang te beschermen en waarbij naar behoren rekening wordt gehouden met de legitieme belangen van de betrokkene;
+##### Article 16. – Signature and entry into force
 
-- ii). rectificatie wanneer de persoonsgegevens van de betrokkene onjuist zijn of onjuist zijn verwerkt; rectificatie omvat – indien dat passend en redelijk is, gezien de redenen voor rectificatie en de bijzondere context van de verwerking – correctie, aanvulling, wissing of anonimisering, beperking van de verwerking of afscherming.
+1. This Protocol shall be open for signature by Parties to the [Convention](https://wetten.overheid.nl/BWBV0001839), which may express their consent to be bound by either:
 
-- b. Indien de toegang of rectificatie wordt geweigerd of beperkt, verstrekt de partij de betrokkene onverwijld in schriftelijke vorm, hetgeen tevens elektronisch kan geschieden, een antwoord waarmee de betrokkene in kennis wordt gesteld van de weigering of beperking. Dit antwoord vermeldt de gronden voor de weigering of beperking en verstrekt informatie over de beschikbare rechtsmiddelen. Alle kosten voor het verkrijgen van toegang moeten beperkt blijven tot wat redelijk is en mogen niet buitensporig zijn.
+- a) signature without reservation as to ratification, acceptance or approval; or
 
-13. Gerechtelijke en buitengerechtelijke rechtsmiddelen
+- b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval.
 
-Iedere partij beschikt over doeltreffende gerechtelijke en buitengerechtelijke rechtsmiddelen om verhaal te zoeken tegen schendingen van dit artikel.
+2. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-14. Toezicht
+3. This Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date on which five Parties to the [Convention](https://wetten.overheid.nl/BWBV0001839) have expressed their consent to be bound by this Protocol, in accordance with the provisions of paragraphs 1 and 2 of this article.
 
-Iedere partij beschikt over een of meer overheidsinstanties die, alleen of cumulatief, onafhankelijke en effectieve toezichtstaken en -bevoegdheden uitoefenen met betrekking tot de in dit artikel genoemde maatregelen. De taken en bevoegdheden van deze instanties die alleen of cumulatief handelen, omvatten onderzoeksbevoegdheden, de bevoegdheid om naar aanleiding van klachten op te treden en het vermogen corrigerende maatregelen te nemen.
+4. In respect of any Party to the [Convention](https://wetten.overheid.nl/BWBV0001839) which subsequently expresses its consent to be bound by this Protocol, this Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date on which the Party has expressed its consent to be bound by this Protocol, in accordance with the provisions of paragraphs 1 and 2 of this article.
 
-15. Raadpleging en opschorting
+##### Article 17. – Federal clause
 
-Een partij kan de doorgifte van persoonsgegevens aan een andere partij opschorten indien zij over substantieel bewijs beschikt waaruit blijkt dat de andere partij stelselmatig of wezenlijk inbreuk maakt op de voorwaarden van dit artikel of dat een wezenlijke inbreuk dreigt. Zij schort doorgiften niet op zonder een redelijke termijn in acht te nemen en niet eerder dan nadat de betrokken partijen gedurende een redelijke termijn overleg hebben kunnen plegen zonder dat zij tot een oplossing zijn gekomen. Een partij kan doorgiften echter voorlopig opschorten in geval van een stelselmatige of wezenlijke inbreuk die een aanzienlijk en imminent risico vormt voor het leven of de veiligheid van of voor aanzienlijke reputatieschade of financiële schade aan een natuurlijke persoon, in welk geval zij de andere partij onmiddellijk daarna in kennis stelt en overleg opent. Indien het overleg niet tot een oplossing heeft geleid, kan de andere partij de doorgiften wederkerig opschorten indien zij over substantieel bewijs beschikt dat de opschorting door de partij die tot opschorting is overgegaan, in strijd was met de bepalingen van dit lid. De partij die tot opschorting is overgegaan, heft de opschorting op zodra de inbreuk die de opschorting rechtvaardigde, is beëindigd; Iedere wederkerige opschorting wordt op dat moment opgeheven. Persoonsgegevens die vóór de opschorting zijn doorgegeven, worden ook na de opschorting overeenkomstig het protocol behandeld.
+1. A federal State may reserve the right to assume obligations under this Protocol consistent with its fundamental principles governing the relationship between its central government and constituent States or other similar territorial entities, provided that:
 
-### HOOFDSTUK IV. – SLOTBEPALINGEN
+- a) this Protocol shall apply to the central government of the federal State;
 
-##### Artikel 15. – Effecten van dit protocol
+- b) such a reservation shall not affect obligations to provide for the co-operation sought by other Parties in accordance with the provisions of [Chapter II](https://wetten.overheid.nl/BWBV0006966); and
 
-- a. [Artikel 39, lid 2, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=39) is van toepassing op dit protocol.
+- c) the provisions of [Article 13](https://wetten.overheid.nl/BWBV0006966) shall apply to the federal State’s constituent States or other similar territorial entities.
 
-- b. Partijen die lidstaten zijn van de Europese Unie, kunnen in hun wederzijdse betrekkingen het recht van de Europese Unie inzake de in dit protocol behandelde aangelegenheden toepassen.
+2. Another Party may prevent authorities, providers or entities in its territory from co-operating in response to a request or order submitted directly by the constituent State or other similar territorial entity of a federal State that has made a reservation under paragraph 1, unless that federal State notifies the Secretary General of the Council of Europe that a constituent State or other similar territorial entity applies the obligations of this Protocol applicable to that federal State. The Secretary General of the Council of Europe shall set up and keep updated a register of such notifications.
 
-- c. Punt b) laat de volledige toepassing van dit protocol tussen partijen die lidstaten zijn van de Europese Unie en andere partijen onverlet.
+3. Another Party shall not prevent authorities, providers, or entities in its territory from co-operating with a constituent State or other similar territorial entity on the grounds of a reservation under paragraph 1, if an order or request has been submitted via the central government or a joint investigation team agreement under [Article 12](https://wetten.overheid.nl/BWBV0006966) is entered into with the participation of the central government. In such situations, the central government shall provide for the fulfilment of the applicable obligations of this Protocol, provided that, with respect to the protection of personal data provided to constituent States or similar territorial entities, only the terms of [Article 14, paragraph 9](https://wetten.overheid.nl/BWBV0006966), or, where applicable, the terms of an agreement or arrangement described in Article 14, paragraphs 1.b or 1.c, shall apply.
 
-2. [Artikel 39, lid 3, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=39) is van toepassing op dit protocol.
+4. With regard to the provisions of this Protocol, the application of which comes under the jurisdiction of constituent States or other similar territorial entities that are not obliged by the constitutional system of the federation to take legislative measures, the central government shall inform the competent authorities of such States of the said provisions with its favourable opinion, encouraging them to take appropriate action to give them effect.
 
-##### Artikel 16. – Ondertekening en inwerkingtreding
+##### Article 18. – Territorial application
 
-1. Dit protocol staat open voor ondertekening door partijen bij het [verdrag](onbekend), die kunnen verklaren dat zij ermee instemmen erdoor gebonden te zijn, door:
+1. This Protocol shall apply to the territory or territories specified in a declaration made by a Party under [Article 38, paragraphs 1 or 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=38) to the extent that such declaration has not been withdrawn under Article 38, paragraph 3.
 
-- a. te ondertekenen zonder voorbehoud van ratificatie, aanvaarding of goedkeuring; of
+2. A Party may, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, declare that this Protocol shall not apply to one or more territories specified in the Party’s declaration under [Article 38, paragraphs 1 and/or 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=38).
 
-- b. te ondertekenen met voorbehoud van ratificatie, aanvaarding of goedkeuring, gevolgd door ratificatie, aanvaarding of goedkeuring;
+3. A declaration under paragraph 2 of this article may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.
 
-2. De akten van ratificatie, aanvaarding of goedkeuring worden neergelegd bij de secretaris-generaal van de Raad van Europa.
+##### Article 19. – Reservations and declarations
 
-3. Dit protocol treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop vijf partijen bij het [verdrag](onbekend), overeenkomstig de bepalingen van de leden 1 en 2 van dit artikel, hun instemming door het protocol te worden gebonden tot uitdrukking hebben gebracht.
+1. By a written notification addressed to the Secretary General of the Council of Europe, any Party to the [Convention](https://wetten.overheid.nl/BWBV0001839) may, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, declare that it avails itself of the reservation(s) provided for in [Article 7, paragraphs 9.a and 9.b](https://wetten.overheid.nl/BWBV0006966), [Article 8, paragraph 13](https://wetten.overheid.nl/BWBV0006966), and [Article 17](https://wetten.overheid.nl/BWBV0006966) of this Protocol. No other reservations may be made.
 
-4. Ten aanzien van iedere ondertekenende partij bij het [verdrag](onbekend) die later zijn instemming door dit protocol te worden gebonden tot uitdrukking brengt, treedt het protocol in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop de partij haar instemming door het protocol te worden gebonden tot uitdrukking heeft gebracht overeenkomstig de leden 1 en 2 van dit artikel.
+2. By a written notification addressed to the Secretary General of the Council of Europe, any Party to the [Convention](https://wetten.overheid.nl/BWBV0001839) may, at the time of signature of this Protocol or when depositing its instrument of ratification, acceptance or approval, make the declaration(s) identified in [Article 7, paragraphs 2.b and 8](https://wetten.overheid.nl/BWBV0006966); [Article 8, paragraph 11](https://wetten.overheid.nl/BWBV0006966); [Article 9, paragraphs 1.b and 5](https://wetten.overheid.nl/BWBV0006966); [Article 10, paragraph 9](https://wetten.overheid.nl/BWBV0006966); [Article 12, paragraph 3](https://wetten.overheid.nl/BWBV0006966); and [Article 18, paragraph 2](https://wetten.overheid.nl/BWBV0006966), of this Protocol.
 
-##### Artikel 17. – Federale clausule
+3. By a written notification addressed to the Secretary General of the Council of Europe, any Party to the [Convention](https://wetten.overheid.nl/BWBV0001839) shall make any declaration(s), notifications or communications identified in [Article 7, paragraphs 5.a and 5.e](https://wetten.overheid.nl/BWBV0006966); [Article 8, paragraphs 4, 10.a and 10.b](https://wetten.overheid.nl/BWBV0006966); [Article 14, paragraphs 7.c and 10.b](https://wetten.overheid.nl/BWBV0006966); and [Article 17, paragraph 2](https://wetten.overheid.nl/BWBV0006966), of this Protocol according to the terms specified therein.
 
-1. Een federale staat kan zich het recht voorbehouden de verplichtingen ingevolge dit protocol aan te gaan voor zover deze in overeenstemming zijn met zijn fundamentele beginselen die ten grondslag liggen aan de betrekkingen tussen zijn centrale regering en de constituerende staten of andere vergelijkbare territoriale entiteiten, mits:
+##### Article 20. – Status and withdrawal of reservations
 
-- a. het protocol van toepassing is op de centrale regering van de federale staat;
+1. A Party that has made a reservation in accordance with [Article 19, paragraph 1](https://wetten.overheid.nl/BWBV0006966), shall withdraw such reservation, in whole or in part, as soon as circumstances so permit. Such withdrawal shall take effect on the date of receipt of a notification addressed to the Secretary General of the Council of Europe. If the notification states that the withdrawal of a reservation is to take effect on a date specified therein, and such date is later than the date on which the notification is received by the Secretary General, the withdrawal shall take effect on this later date.
 
-- b. een dergelijk voorbehoud geen afbreuk doet aan de verplichtingen om de door andere partijen gevraagde samenwerking aan te gaan overeenkomstig de bepalingen van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&z=2022-05-12&g=2022-05-12); en
+2. The Secretary General of the Council of Europe may periodically enquire of Parties that have made one or more reservations in accordance with [Article 19, paragraph 1](https://wetten.overheid.nl/BWBV0006966), as to the prospects for withdrawing such reservation(s).
 
-- c. de bepalingen van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=III&artikel=13&z=2022-05-12&g=2022-05-12) van toepassing zijn op de constituerende staten of andere vergelijkbare territoriale entiteiten van de federale staat.
+##### Article 21. – Amendments
 
-2. Een andere partij kan autoriteiten, serviceproviders of entiteiten op haar grondgebied beletten medewerking te verlenen naar aanleiding van een rechtstreeks verzoek of bevel van een constituerende staat of andere vergelijkbare territoriale entiteit van een federale staat die een voorbehoud heeft gemaakt als bedoeld in lid 1, tenzij die federale staat de secretaris- generaal van de Raad van Europa ervan in kennis stelt dat een constituerende staat of andere vergelijkbare territoriale entiteit de verplichtingen van dit protocol die op die federale staat van toepassing zijn, toepast. De secretaris-generaal van de Raad van Europa stelt een register op van dergelijke kennisgevingen en houdt dit bij.
+1. Amendments to this Protocol may be proposed by any Party to this Protocol and shall be communicated by the Secretary General of the Council of Europe, to the member States of the Council of Europe and to the Parties and signatories to the [Convention](https://wetten.overheid.nl/BWBV0001839) as well as to any State which has been invited to accede to the Convention.
 
-3. Een andere partij belet autoriteiten, serviceproviders of entiteiten op haar grondgebied niet om op grond van een voorbehoud uit hoofde van lid 1 medewerking te verlenen aan een constituerende staat of andere vergelijkbare territoriale entiteit, indien via de centrale overheid een bevel of verzoek is ingediend of een overeenkomst inzake een gemeenschappelijk onderzoeksteam overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=5&artikel=12&z=2022-05-12&g=2022-05-12) is gesloten met medewerking van de centrale regering. In dergelijke situaties voorziet de centrale regering in de vervulling van de toepasselijke verplichtingen van het protocol, op voorwaarde dat met betrekking tot de bescherming van persoonsgegevens die aan de constituerende staten of vergelijkbare territoriale entiteiten worden verstrekt, slechts de voorwaarden van [artikel 14, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=III&artikel=14&z=2022-05-12&g=2022-05-12), of in voorkomend geval de voorwaarden van een overeenkomst of regeling als omschreven in artikel 14, lid l, punt b) of c), van toepassing zijn.
+2. Any amendment proposed by a Party shall be communicated to the European Committee on Crime Problems (CDPC), which shall submit to the Committee of Ministers its opinion on that proposed amendment.
 
-4. Ten aanzien van de bepalingen van dit protocol waarvan de toepassing onder de rechtsbevoegdheid valt van elk van de constituerende staten of andere vergelijkbare territoriale entiteiten die, ingevolge het constitutionele stelsel van de federatie, niet verplicht zijn wetgevende maatregelen te nemen, brengt de centrale regering de bevoegde autoriteiten van deze staten op de hoogte van de genoemde bepalingen, vergezeld van een gunstig advies, hen aanmoedigende om passende maatregelen te nemen ter effectuering hiervan.
+3. The Committee of Ministers shall consider the proposed amendment and the opinion submitted by the CDPC and, following consultation with the Parties to the [Convention](https://wetten.overheid.nl/BWBV0001839), may adopt the amendment.
 
-##### Artikel 18. – Territoriale toepasselijkheid
+4. The text of any amendment adopted by the Committee of Ministers in accordance with paragraph 3 shall be forwarded to the Parties to this Protocol for acceptance.
 
-1. Dit protocol is van toepassing op het grondgebied of de grondgebieden vermeld in een verklaring van een partij uit hoofde van [artikel 38, lid 1 of lid 2, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=38), voor zover die verklaring niet is ingetrokken uit hoofde van artikel 38, lid 3.
+5. Any amendment adopted in accordance with paragraph 3 shall come into force on the thirtieth day after all Parties to this Protocol have informed the Secretary General of their acceptance thereof.
 
-2. Een partij kan bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring verklaren dat dit protocol niet van toepassing is op een of meer in de verklaring van de partij uit hoofde van [artikel 38, lid 1 en/of lid 2, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=38) vermelde grondgebieden.
+##### Article 22. – Settlement of disputes
 
-3. Iedere uit hoofde van lid 2 van dit artikel afgelegde verklaring kan met betrekking tot elk in die verklaring aangegeven grondgebied worden ingetrokken door een aan de secretaris- generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van die kennisgeving door de secretaris-generaal.
+[Article 45 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=45) shall apply to this Protocol.
 
-##### Artikel 19. – Voorbehouden en verklaringen
+##### Article 23. – Consultations of the Parties and assessment of implementation
 
-1. Door middel van een schriftelijke kennisgeving aan de secretaris-generaal van de Raad van Europa kan iedere partij bij het [verdrag](onbekend), bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring, verklaren dat zij een of meer van de voorbehouden als bedoeld in [artikel 7, lid 9, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=7&z=2022-05-12&g=2022-05-12), [artikel 8, lid 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&artikel=8&z=2022-05-12&g=2022-05-12), en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=17&z=2022-05-12&g=2022-05-12) van dit protocol maakt. Andere voorbehouden zijn niet toegestaan.
+1. [Article 46 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=46) shall apply to this Protocol.
 
-2. Door middel van een schriftelijke kennisgeving aan de secretaris-generaal van de Raad van Europa kan iedere partij bij het [verdrag](onbekend), bij de ondertekening van dit protocol of bij de nederlegging van haar akte van ratificatie, aanvaarding of goedkeuring, een of meer van de verklaringen afleggen als bedoeld in [artikel 7, lid 2, punt b), en lid 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=7&z=2022-05-12&g=2022-05-12), [artikel 8, lid 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&artikel=8&z=2022-05-12&g=2022-05-12), [artikel 9, lid 1, punt b), en lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&artikel=9&z=2022-05-12&g=2022-05-12), [artikel 10, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=4&artikel=10&z=2022-05-12&g=2022-05-12), [artikel 12, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=5&artikel=12&z=2022-05-12&g=2022-05-12), en [artikel 18, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=18&z=2022-05-12&g=2022-05-12), van dit protocol.
+2. Parties shall periodically assess the effective use and implementation of the provisions of this Protocol. Article 2 of the Cybercrime Convention Committee Rules of Procedure as revised on 16 October 2020 shall apply *mutatis mutandis.* The Parties shall initially review and may modify by consensus the procedures of that article as they apply to this Protocol five years after the entry into force of this Protocol.
 
-3. Door elke partij bij het [verdrag](onbekend) worden de verklaringen, kennisgevingen of mededelingen als bedoeld in [artikel 7, lid 5, punten a) en e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=2&artikel=7&z=2022-05-12&g=2022-05-12), [artikel 8, lid 4, en lid 10, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=II&afdeling=3&artikel=8&z=2022-05-12&g=2022-05-12), [artikel 14, lid 7, punt c), en lid 10, punt b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=III&artikel=14&z=2022-05-12&g=2022-05-12), en [artikel 17, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=17&z=2022-05-12&g=2022-05-12), van dit protocol, overeenkomstig de daarin bepaalde voorwaarden, afgelegd door middel van een schriftelijke kennisgeving aan de secretaris-generaal van de Raad van Europa.
+3. The review of [Article 14](https://wetten.overheid.nl/BWBV0006966) shall commence once ten Parties to the [Convention](https://wetten.overheid.nl/BWBV0001839) have expressed their consent to be bound by this Protocol.
 
-##### Artikel 20. – Status en intrekking van voorbehouden
+##### Article 24. – Denunciation
 
-1. Een partij die overeenkomstig [artikel 19. lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=19&z=2022-05-12&g=2022-05-12), een voorbehoud heeft gemaakt, trekt dit voorbehoud geheel of ten dele in zodra de omstandigheden dit toelaten. Deze intrekking wordt van kracht op de datum van ontvangst van een aan de secretaris-generaal van de Raad van Europa gerichte kennisgeving. Indien in de kennisgeving wordt vermeld dat de intrekking van een voorbehoud van kracht moet worden op een daarin nader aangeduide datum, en deze datum later valt dan de datum waarop de kennisgeving door de secretaris-generaal wordt ontvangen, wordt de intrekking op deze latere datum van kracht.
+1. Any Party may, at any time, denounce this Protocol by means of a notification addressed to the Secretary General of the Council of Europe.
 
-2. De secretaris-generaal van de Raad van Europa kan met regelmatige tussenpozen bij de partijen die een of meer voorbehouden overeenkomstig [artikel 19, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=19&z=2022-05-12&g=2022-05-12), hebben gemaakt, informeren naar het mogelijke vooruitzicht op intrekking daarvan.
+2. Such denunciation shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of the notification by the Secretary General.
 
-##### Artikel 21. – Wijzigingen
+3. Denunciation of the [Convention](https://wetten.overheid.nl/BWBV0001839) by a Party to this Protocol constitutes denunciation of this Protocol.
 
-1. Wijzigingen van dit protocol kunnen worden voorgesteld door iedere partij bij dit protocol en worden door de secretaris-generaal van de Raad van Europa meegedeeld aan de lidstaten van de Raad van Europa, aan de partijen bij en ondertekenaars van het [verdrag](onbekend), alsmede aan iedere staat die uitgenodigd is toe te treden tot het verdrag.
+4. Information or evidence transferred prior to the effective date of denunciation shall continue to be treated in accordance with this Protocol.
 
-2. Iedere door een partij voorgestelde wijziging wordt meegedeeld aan het Europees comité voor strafrechtelijke vraagstukken (CDPC), dat zijn advies over de voorgestelde wijziging voorlegt aan het Comité van Ministers.
+##### Article 25. – Notification
 
-3. Het Comité van Ministers onderzoekt de voorgestelde wijziging en het door het CDPC voorgelegde advies en kan, na raadpleging van de partij bij het [verdrag](onbekend), de wijziging aannemen.
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, the Parties and signatories to the [Convention](https://wetten.overheid.nl/BWBV0001839), and any State which has been invited to accede to the Convention of:
 
-4. De tekst van elke door het Comité van Ministers overeenkomstig lid 3 goedgekeurde wijziging wordt aan de partijen bij dit protocol ter aanvaarding toegezonden.
+- a. any signature;
 
-5. Iedere overeenkomstig lid 3 aangenomen wijziging treedt in werking dertig dagen nadat alle partijen de secretaris-generaal hebben meegedeeld dat zij de wijziging hebben aanvaard.
+- b. the deposit of any instrument of ratification, acceptance or approval;
 
-##### Artikel 22. – Beslechting van geschillen
+- c. any date of entry into force of this Protocol in accordance with [Article 16, paragraphs 3 and 4](https://wetten.overheid.nl/BWBV0006966);
 
-[Artikel 45 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=45) is van toepassing op dit protocol.
+- d. any declarations or reservations made in accordance with [Article 19](https://wetten.overheid.nl/BWBV0006966) or withdrawal of reservations made in accordance with [Article 20](https://wetten.overheid.nl/BWBV0006966);
 
-##### Artikel 23. – Beraadslagingen tussen de partijen en beoordeling van de tenuitvoerlegging
-
-1. [Artikel 46 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001839&artikel=46) is van toepassing op dit protocol.
-
-2. De partijen beoordelen periodiek het feitelijke gebruik en de feitelijke uitvoering van de bepalingen van dit protocol. Artikel 2 van het reglement van orde van het comité Cybercrimeverdrag, zoals herzien op 16 oktober 2020, is van overeenkomstige toepassing. De partijen evalueren aanvankelijk de procedures van dat artikel zoals die van toepassing zijn op dit protocol en kunnen deze bij consensus wijzigen vijf jaar nadat dit protocol in werking is getreden.
-
-3. De evaluatie van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=III&artikel=14&z=2022-05-12&g=2022-05-12) vangt aan zodra tien partijen bij het [verdrag](onbekend) hebben verklaard ermee in te stemmen door dit protocol gebonden te zijn.
-
-##### Artikel 24. – Opzegging
-
-1. Iedere partij kan dit protocol te allen tijde opzeggen door middel van een kennisgeving aan de secretaris-generaal van de Raad van Europa.
-
-2. De opzegging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de secretaris-generaal.
-
-3. Opzegging van het [verdrag](onbekend) door een partij bij dit protocol houdt opzegging van dit protocol in.
-
-4. Informatie die of bewijsmateriaal dat is doorgegeven voorafgaand aan de datum waarop de opzegging van kracht wordt, wordt ook nadien overeenkomstig dit protocol behandeld.
-
-##### Artikel 25. – Kennisgeving
-
-De secretaris-generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de partijen bij en ondertekenaars van het [verdrag](onbekend) en iedere staat die is uitgenodigd om tot het verdrag toe te treden, in kennis van:
-
-- a. iedere ondertekening;
-
-- b. iedere nederlegging van een akte van ratificatie, aanvaarding of goedkeuring;
-
-- c. iedere datum van inwerkingtreding van dit protocol in overeenstemming met [artikelen 16, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=16&z=2022-05-12&g=2022-05-12);
-
-- d. iedere verklaring die is afgelegd en ieder voorbehoud dat is gemaakt overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=16&z=2022-05-12&g=2022-05-12) en iedere intrekking van een voorbehoud overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006966&hoofdstuk=IV&artikel=20&z=2022-05-12&g=2022-05-12);
-
-- e. iedere andere handeling, kennisgeving of mededeling met betrekking tot dit protocol.
+- e. any other act, notification or communication relating to this Protocol.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 
-DONE at Strasbourg on the 12th day of May 2022, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the Parties and Signatories to the [Convention](onbekend), and to any State which has been invited to accede to the Convention.
+DONE at Strasbourg on the 12th day of May 2022, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the Parties and Signatories to the Convention, and to any State which has been invited to accede to the Convention.

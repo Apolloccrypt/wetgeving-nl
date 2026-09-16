@@ -1,116 +1,79 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Europees Geneesmiddelenbureau betreffende de vestiging van het Europees Geneesmiddelenbureau"
 identifier: "BWBV0006741"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-06-01"
-last_updated: "2018-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006741"
+categorie: "Gezondheidszorg"
 soort: "verdrag"
-stam_id: "10005443013"
-version_id: "10005895452"
-internal_id: "C10009406261"
-label_id: "10005425844"
-dtd_version: "2.0"
-original_entry_into_force: "2018-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006741/2018-06-01/0"
-intitule_bron: "Trb.2018-71"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-06-07"
-intitule_in_force: "2018-06-07"
-intitule_status: "goed"
-original_publication: "Trb.2018-71"
-original_published_date: "2018-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2018-71"
-entry_into_force_date: "2018-06-01"
-jci_1_3: "jci1.3:c:BWBV0006741&z=2018-06-01&g=2018-06-01"
-jci_1_0: "1.0:c:BWBV0006741&g=2018-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-06-01"
+publicatiedatum: 2018-06-01
+laatste_update: 2018-06-01
+status: geldig
+toestand: 2018-06-01
+bron: "https://wetten.overheid.nl/BWBV0006741"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Europees Geneesmiddelenbureau betreffende de vestiging van het Europees Geneesmiddelenbureau
 
-The Kingdom of the Netherlands
-
-and
-
-the European Medicines Agency,
-
-Having regard to the [Treaty on the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), in particular [Protocol No 7 on the Privileges and Immunities of the European Union](onbekend) annexed to the Treaty on the European Union (hereinafter “the Protocol”), the [Treaty on the Functioning of the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) and the [Treaty establishing the European Atomic Energy Community](https://wetten.overheid.nl/jci1.3:c:BWBV0004033);
-
-Having regard to Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorization and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency;
-
-Having regard to the decision of the Member States in the margins of the General Affairs Council meeting of 20 November 2017 to relocate the seat of the European Medicines Agency in Amsterdam, the Netherlands;
-
-Whereas Article 74 of Regulation (EC) No. 726/2004 provides that the [Protocol](onbekend) shall apply to the Agency and to its staff;
-
-Whereas Article 75 of Regulation (EC) No 726/2004 provides that the Staff Regulations of officials of the European Union, the Conditions of Employment of Other Servants of the European Union and the rules adopted jointly by the institutions of the European Union for the purposes of the application of those Staff Regulations and Conditions of Employment shall apply to the staff of the Agency;
-
-Whereas further administrative provisions must be agreed for the implementation of the [Protocol](onbekend), in particular to lay down conditions concerning the privileges, immunities, facilities, and services of and related to the Agency and its staff in the territory of the Kingdom of the Netherlands as necessary for the fulfilment of the purposes of the Agency;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and the European Medicines Agency, Having regard to the Treaty on the European Union, in particular Protocol No 7 on the Privileges and Immunities of the European Union annexed to the Treaty on the European Union (hereinafter “the Protocol”), the Treaty on the Functioning of the European Union and the Treaty establishing the European Atomic Energy Community; Having regard to Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorization and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency; Having regard to the decision of the Member States in the margins of the General Affairs Council meeting of 20 November 2017 to relocate the seat of the European Medicines Agency in Amsterdam, the Netherlands; Whereas Article 74 of Regulation (EC) No. 726/2004 provides that the Protocol shall apply to the Agency and to its staff; Whereas Article 75 of Regulation (EC) No 726/2004 provides that the Staff Regulations of officials of the European Union, the Conditions of Employment of Other Servants of the European Union and the rules adopted jointly by the institutions of the European Union for the purposes of the application of those Staff Regulations and Conditions of Employment shall apply to the staff of the Agency; Whereas further administrative provisions must be agreed for the implementation of the Protocol, in particular to lay down conditions concerning the privileges, immunities, facilities, and services of and related to the Agency and its staff in the territory of the Kingdom of the Netherlands as necessary for the fulfilment of the purposes of the Agency; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
-- a). “Agreement” means this Agreement between the Kingdom of the Netherlands and the European Medicines Agency on the hosting of the European Medicines Agency and any future amendments to the Agreement;
+- a) “Agreement” means this Agreement between the Kingdom of the Netherlands and the European Medicines Agency on the hosting of the European Medicines Agency and any future amendments to the Agreement;
 
-- b). “host State” means the Kingdom of the Netherlands;
+- b) “host State” means the Kingdom of the Netherlands;
 
-- c). “the Agency” means the European Medicines Agency established by Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, and subsequent amendments;
+- c) “the Agency” means the European Medicines Agency established by Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, and subsequent amendments;
 
-- d). “Staff Regulations and the CEOS” means the Staff Regulations of Officials of the European Union and the Conditions of Employment of the Other Servants of the European Union, laid down by Council Regulation (EEC, Euratom, ECSC) No 259/68;
+- d) “Staff Regulations and the CEOS” means the Staff Regulations of Officials of the European Union and the Conditions of Employment of the Other Servants of the European Union, laid down by Council Regulation (EEC, Euratom, ECSC) No 259/68;
 
-- e). “Parties” means the Agency and the host State;
+- e) “Parties” means the Agency and the host State;
 
-- f). “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961;
+- f) “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961;
 
-- g). “Head of the Agency” means the Executive Director of the Agency;
+- g) “Head of the Agency” means the Executive Director of the Agency;
 
-- h). “staff” or “staff member” means personnel employed by the Agency, subject to the Staff Regulations and the CEOS, including the Head of the Agency;
+- h) “staff” or “staff member” means personnel employed by the Agency, subject to the Staff Regulations and the CEOS, including the Head of the Agency;
 
-- i). “seconded national experts” means personnel employed by an EU/EEA national, regional or local public administration or a public intergovernmental organisation and seconded to the Agency. A seconded national expert shall in no case fall under the definition of staff of the Agency;
+- i) “seconded national experts” means personnel employed by an EU/EEA national, regional or local public administration or a public intergovernmental organisation and seconded to the Agency. A seconded national expert shall in no case fall under the definition of staff of the Agency;
 
-- j). “trainee” means any person working at the Agency for apprentice purposes. A trainee shall in no case fall under the definition of staff of the Agency or seconded national experts;
+- j) “trainee” means any person working at the Agency for apprentice purposes. A trainee shall in no case fall under the definition of staff of the Agency or seconded national experts;
 
-- k). “members of the household” means:
+- k) “members of the household” means:
 
-- (i). a spouse of a staff member, irrespective of his/her nationality and/or sex;
+   - (i) a spouse of a staff member, irrespective of his/her nationality and/or sex;
 
-- (ii). a stable non-marital partner of a staff member, under the conditions laid down in Article 1(2)(c) of Annex VII to the Staff Regulations and the CEOS, irrespective of his/her nationality and/or sex;
+   - (ii) a stable non-marital partner of a staff member, under the conditions laid down in Article 1(2)(c) of Annex VII to the Staff Regulations and the CEOS, irrespective of his/her nationality and/or sex;
 
-- (iii). any dependent child as defined in Article 2(2) of Annex VII to the Staff Regulations and the CEOS;
+   - (iii) any dependent child as defined in Article 2(2) of Annex VII to the Staff Regulations and the CEOS;
 
-- (iv). any person whom a staff member has a legal responsibility to maintain and whose maintenance involves heavy expenditure under the conditions set out in Article 2(4) of Annex VII to the Staff Regulations and the CEOS;
+   - (iv) any person whom a staff member has a legal responsibility to maintain and whose maintenance involves heavy expenditure under the conditions set out in Article 2(4) of Annex VII to the Staff Regulations and the CEOS;
 
-- l). “premises” means buildings, parts of buildings and areas, including installations and facilities of the headquarters made available to, maintained, occupied or used by the Agency in the host State in connection with its functions and purposes;
+- l) “premises” means buildings, parts of buildings and areas, including installations and facilities of the headquarters made available to, maintained, occupied or used by the Agency in the host State in connection with its functions and purposes;
 
-- m). “property” means all property (be it material, real, or intellectual), assets, and funds belonging to the Agency or held, administered or otherwise used by the Agency in connection with its functions and purposes;
+- m) “property” means all property (be it material, real, or intellectual), assets, and funds belonging to the Agency or held, administered or otherwise used by the Agency in connection with its functions and purposes;
 
-- n). “Ministry of Foreign Affairs” means the Ministry of Foreign Affairs of the host State;
+- n) “Ministry of Foreign Affairs” means the Ministry of Foreign Affairs of the host State;
 
-- o). “competent authorities” means national, provincial, municipal and other official authorities under the laws, regulations and customs of the host State;
+- o) “competent authorities” means national, provincial, municipal and other official authorities under the laws, regulations and customs of the host State;
 
-- p). “Protocol” means [Protocol No 7 on the Privileges and Immunities of the European Union](onbekend) annexed to the [Treaty on the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), the [Treaty on the Functioning of the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) and the [Treaty establishing the European Atomic Energy Community](https://wetten.overheid.nl/jci1.3:c:BWBV0004033).
+- p) “Protocol” means [Protocol No 7 on the Privileges and Immunities of the European Union](https://wetten.overheid.nl/BWBV0001507) annexed to the [Treaty on the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), the [Treaty on the Functioning of the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) and the [Treaty establishing the European Atomic Energy Community](https://wetten.overheid.nl/jci1.3:c:BWBV0004033).
 
 ##### Article 2. Object and Purpose
 
-This Agreement shall implement the [Protocol](onbekend) and regulate other matters relating to or arising out of the establishment and the proper and continuous functioning of the Agency in the host State. It shall, **inter alia**, create conditions conducive to the stability and independence of the Agency and facilitate its smooth and efficient functioning.
+This Agreement shall implement the [Protocol](https://wetten.overheid.nl/BWBV0001507) and regulate other matters relating to or arising out of the establishment and the proper and continuous functioning of the Agency in the host State. It shall, *inter alia*, create conditions conducive to the stability and independence of the Agency and facilitate its smooth and efficient functioning.
 
 ##### Article 3. Legal status and legal personality
 
 According to Article 71 of Regulation (EC) No 726/2004, the Agency shall have legal personality. The Agency shall possess in the host State the most extensive legal capacity accorded to legal persons under the laws of the host State. This shall, in particular, include the capacity:
 
-- a). to acquire and dispose of movable and immovable property;
+- a) to acquire and dispose of movable and immovable property;
 
-- b). to enter into contracts and other types of agreements, including agreement to operate bank accounts and engage in other banking and financial transactions;
+- b) to enter into contracts and other types of agreements, including agreement to operate bank accounts and engage in other banking and financial transactions;
 
-- c). to employ persons;
+- c) to employ persons;
 
-- d). to participate in legal proceedings; and
+- d) to participate in legal proceedings; and
 
-- e). to take other legal action in connection with its functions and purposes.
+- e) to take other legal action in connection with its functions and purposes.
 
 ##### Article 4. Premises
 
@@ -128,13 +91,13 @@ According to Article 71 of Regulation (EC) No 726/2004, the Agency shall have le
 
 7. The Agency shall be exclusively entitled to display its emblem on the premises of the Agency and on its means of transport.
 
-##### Article 5. Application of the [Protocol](onbekend)
+##### Article 5. Application of the Protocol
 
-1. The [Protocol](onbekend) shall apply to the Agency and the staff members.
+1. The [Protocol](https://wetten.overheid.nl/BWBV0001507) shall apply to the Agency and the staff members.
 
 2. Members of the household of staff shall enjoy the privileges and immunities as set forth in this Agreement.
 
-3. All references in the [Protocol](onbekend) to the European Union shall be understood as references to the Agency, for the purposes of this Agreement. All references in the Protocol to officials and other servants of the European Union should be understood as references to staff of the Agency, for the purposes of this Agreement.
+3. All references in the [Protocol](https://wetten.overheid.nl/BWBV0001507) to the European Union shall be understood as references to the Agency, for the purposes of this Agreement. All references in the Protocol to officials and other servants of the European Union should be understood as references to staff of the Agency, for the purposes of this Agreement.
 
 ##### Article 6. Inviolability of the premises
 
@@ -206,23 +169,23 @@ The Agency may purchase, receive, convert and hold any kind of funds, currency, 
 
 2. Within the scope of its official activities, the Agency shall be exempt from the following indirect taxes:
 
-- a). import and export taxes and duties (“belastingen bij invoer en uitvoer”);
+- a) import and export taxes and duties (“belastingen bij invoer en uitvoer”);
 
-- b). motor vehicle tax (“motorrijtuigenbelasting”, “MRB”);
+- b) motor vehicle tax (“motorrijtuigenbelasting”, “MRB”);
 
-- c). tax on passenger motor vehicles and motor cycles (“belasting van personenauto’s en motorrijwielen”, “BPM”);
+- c) tax on passenger motor vehicles and motor cycles (“belasting van personenauto’s en motorrijwielen”, “BPM”);
 
-- d). value added tax (“omzetbelasting”, “BTW”) paid on goods and services supplied on a recurring basis or involving expenditure totalling € 225 or more;
+- d) value added tax (“omzetbelasting”, “BTW”) paid on goods and services supplied on a recurring basis or involving expenditure totalling € 225 or more;
 
-- e). excise duties (“accijnzen”) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
+- e) excise duties (“accijnzen”) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
 
-- f). real property transfer tax (“overdrachtsbelasting”);
+- f) real property transfer tax (“overdrachtsbelasting”);
 
-- g). insurance tax (“assurantiebelasting”);
+- g) insurance tax (“assurantiebelasting”);
 
-- h). energy tax (“energiebelasting”); and
+- h) energy tax (“energiebelasting”); and
 
-- i). tax on water mains (“belasting op leidingwater”, “BOL”).
+- i) tax on water mains (“belasting op leidingwater”, “BOL”).
 
 3. In addition to the exhaustive list of indirect taxes mentioned in paragraph 2 of this Article, within the scope of its official activities, the Agency shall be exempt from any other indirect taxes or duties of a substantially similar character as the taxes provided for in this paragraph, enacted by the host State subsequent to the date of signature of the Agreement.
 
@@ -242,19 +205,19 @@ The Agency may purchase, receive, convert and hold any kind of funds, currency, 
 
 1. Without prejudice to the applicable rules of the European Union with regard to citizens of a Member State of the European Union, the European Economic Area, or Switzerland or their family members and upon request of the Agency the host State shall facilitate the entry, stay, and departure from its territory for purposes of official business of the persons listed below:
 
-- a). members of the Management Board as referred to in Regulation (EC) No 726/2004;
+- a) members of the Management Board as referred to in Regulation (EC) No 726/2004;
 
-- b). members of the scientific committees of the Agency as listed by Regulation (EC) No 726/2004 and the experts which form part of their delegation;
+- b) members of the scientific committees of the Agency as listed by Regulation (EC) No 726/2004 and the experts which form part of their delegation;
 
-- c). members of any other organs of the Agency;
+- c) members of any other organs of the Agency;
 
-- d). staff and members of their household, irrespective of their nationality and/or sex;
+- d) staff and members of their household, irrespective of their nationality and/or sex;
 
-- e). persons in the personal employ of persons referred to in [Article 17, paragraph 2 and 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=17&z=2018-06-01&g=2018-06-01);
+- e) persons in the personal employ of persons referred to in [Article 17, paragraph 2 and 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=17&z=2018-06-01&g=2018-06-01);
 
-- f). seconded national experts of the Agency;
+- f) seconded national experts of the Agency;
 
-- g). other persons invited to the premises or to meetings of the Agency upon request of the Head of the Agency, the Chair of the Agency’s Management Board or the Chair of the relevant scientific committee.
+- g) other persons invited to the premises or to meetings of the Agency upon request of the Head of the Agency, the Chair of the Agency’s Management Board or the Chair of the relevant scientific committee.
 
 2. This Article shall not prevent the requirement of reasonable evidence to be provided by the Agency to establish that persons claiming the treatment provided for in this Article fall under one of the categories in paragraph 1 above.
 
@@ -268,47 +231,47 @@ The Agency may purchase, receive, convert and hold any kind of funds, currency, 
 
 ##### Article 16. Privileges, immunities, and facilities of members of Management Board and of other organs of the Agency
 
-1. Without prejudice to the [Protocol](onbekend), the officially appointed members of the Agency’s Management Board and of the other organs referred to in [Article 15, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=15&z=2018-06-01&g=2018-06-01), of this Agreement, shall enjoy the following privileges, immunities, exemptions and facilities as are necessary for the independent performance of their functions:
+1. Without prejudice to the [Protocol](https://wetten.overheid.nl/BWBV0001507), the officially appointed members of the Agency’s Management Board and of the other organs referred to in [Article 15, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=15&z=2018-06-01&g=2018-06-01), of this Agreement, shall enjoy the following privileges, immunities, exemptions and facilities as are necessary for the independent performance of their functions:
 
-- a). immunity from legal proceedings of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Agency;
+- a) immunity from legal proceedings of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Agency;
 
-- b). immunity from seizure and inspection of official baggage;
+- b) immunity from seizure and inspection of official baggage;
 
-- c). immunity from national service obligations;
+- c) immunity from national service obligations;
 
-- d). exemption from immigration restrictions and alien registration;
+- d) exemption from immigration restrictions and alien registration;
 
-- e). exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the host State; an inspection in such a case shall be conducted in the presence of the member concerned;
+- e) exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the host State; an inspection in such a case shall be conducted in the presence of the member concerned;
 
-- f). the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
+- f) the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- g). remuneration, honoraria and allowances paid by the Agency to the members of the Management Board shall be exempt from taxes and social security obligations in the host State.
+- g) remuneration, honoraria and allowances paid by the Agency to the members of the Management Board shall be exempt from taxes and social security obligations in the host State.
 
 2. Persons covered by this Article shall not be subjected by the host State to any measure which may affect the free and independent performance of their official functions.
 
 ##### Article 17. Privileges, immunities and facilities of staff members of the Agency
 
-1. In accordance with the provisions of the [Protocol](onbekend), staff members of the Agency, irrespective of their nationality and/or sex, shall enjoy the following privileges, immunities, exemptions and facilities, which are necessary for the independent performance of their functions:
+1. In accordance with the provisions of the [Protocol](https://wetten.overheid.nl/BWBV0001507), staff members of the Agency, irrespective of their nationality and/or sex, shall enjoy the following privileges, immunities, exemptions and facilities, which are necessary for the independent performance of their functions:
 
-- a). immunity from legal proceedings of any kind in respect of words spoken or written, and all acts performed by them in the exercise of their official functions, even after they have ceased to perform their functions for the Agency;
+- a) immunity from legal proceedings of any kind in respect of words spoken or written, and all acts performed by them in the exercise of their official functions, even after they have ceased to perform their functions for the Agency;
 
-- b). immunity from seizure and inspection of their official baggage;
+- b) immunity from seizure and inspection of their official baggage;
 
-- c). immunity from national service obligations;
+- c) immunity from national service obligations;
 
-- d). inviolability of all papers, documents, in whatever form, and materials relating to the performance of their official functions;
+- d) inviolability of all papers, documents, in whatever form, and materials relating to the performance of their official functions;
 
-- e). exemption from taxation on salaries, wages, emoluments, and allowances paid by the Agency;
+- e) exemption from taxation on salaries, wages, emoluments, and allowances paid by the Agency;
 
-- f). exemption with respect to themselves, and members of their household, from immigration restrictions and alien registration;
+- f) exemption with respect to themselves, and members of their household, from immigration restrictions and alien registration;
 
-- g). freedom with respect to themselves to acquire and maintain within the host State or elsewhere foreign currency accounts and other movable property (including a motor vehicle for personal use), and under the same conditions applicable to nationals of the host State, immovable property; upon the termination of their employment with the Agency freedom to take their funds out of the host State through authorized channels without prohibitions or restrictions;
+- g) freedom with respect to themselves to acquire and maintain within the host State or elsewhere foreign currency accounts and other movable property (including a motor vehicle for personal use), and under the same conditions applicable to nationals of the host State, immovable property; upon the termination of their employment with the Agency freedom to take their funds out of the host State through authorized channels without prohibitions or restrictions;
 
-- h). the same protection and repatriation facilities with regard to themselves and family members forming part of the household, as accorded in time of international crisis to members having comparable rank of the staff of diplomatic missions established in the Kingdom of the Netherlands;
+- h) the same protection and repatriation facilities with regard to themselves and family members forming part of the household, as accorded in time of international crisis to members having comparable rank of the staff of diplomatic missions established in the Kingdom of the Netherlands;
 
-- i). exemption from import duties, in respect of their furniture and personal effects, including a motor vehicle for personal use, at the time of first taking up their position in the host State, in accordance with the [Protocol](onbekend); however no exemption shall be accorded in respect of charges levied for specific services rendered;
+- i) exemption from import duties, in respect of their furniture and personal effects, including a motor vehicle for personal use, at the time of first taking up their position in the host State, in accordance with the [Protocol](https://wetten.overheid.nl/BWBV0001507); however no exemption shall be accorded in respect of charges levied for specific services rendered;
 
-- j). exemption from export duties, in respect of their furniture and personal effects, including a motor vehicle for personal use within one year from the time of ceasing their position in the host State.
+- j) exemption from export duties, in respect of their furniture and personal effects, including a motor vehicle for personal use within one year from the time of ceasing their position in the host State.
 
 2. In addition to the privileges, immunities, and facilities listed in paragraph 1 of this Article, the Head of the Agency, together with the members of his or her household, shall be accorded the same privileges and immunities as are accorded by the host State to heads of diplomatic missions in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
@@ -346,29 +309,29 @@ Representatives of Member States taking part in the work of the Agency, the advi
 
 1. The Agency shall promptly, but within eight (8) working days, notify the Ministry of Foreign Affairs of:
 
-- a). the date of commencement by a staff member of his or her duties;
+- a) the date of commencement by a staff member of his or her duties;
 
-- b). the date of hiring of seconded national experts;
+- b) the date of hiring of seconded national experts;
 
-- c). the date of acceptation by the Agency of trainees into the traineeship programme of the Agency;
+- c) the date of acceptation by the Agency of trainees into the traineeship programme of the Agency;
 
-- d). the date of hiring of persons in the personal employ of persons referred to in [Article 17, paragraph 2 and 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=17&z=2018-06-01&g=2018-06-01);
+- d) the date of hiring of persons in the personal employ of persons referred to in [Article 17, paragraph 2 and 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=17&z=2018-06-01&g=2018-06-01);
 
-- e). the date of hiring of personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=19&z=2018-06-01&g=2018-06-01) of this Agreement.
+- e) the date of hiring of personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=19&z=2018-06-01&g=2018-06-01) of this Agreement.
 
 2. In order to facilitate the entry and stay of the persons mentioned below the Agency will promptly, and preferably no later than eight (8) working days after the date of their first arrival in the host State, inform the Ministry of Foreign Affairs of:
 
-- a). the presence of staff members;
+- a) the presence of staff members;
 
-- b). the presence of seconded national experts;
+- b) the presence of seconded national experts;
 
-- c). the presence of trainees;
+- c) the presence of trainees;
 
-- d). the presence of members of the household of staff members;
+- d) the presence of members of the household of staff members;
 
-- e). the presence of persons in the personal employ of persons referred to in [Article 17, paragraph 2 and 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=17&z=2018-06-01&g=2018-06-01);
+- e) the presence of persons in the personal employ of persons referred to in [Article 17, paragraph 2 and 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=17&z=2018-06-01&g=2018-06-01);
 
-- f). the date of the arrival of the persons referred to in subparagraphs (a), (b), (c), (d), and (e) of this paragraph.
+- f) the date of the arrival of the persons referred to in subparagraphs (a), (b), (c), (d), and (e) of this paragraph.
 
 3. With respect to the persons referred to in paragraph 1 of this Article, the Agency shall promptly, but within eight (8) working days, notify the Ministry of Foreign Affairs of the termination of their functions, their final departure or the termination of their involvement with the Agency.
 
@@ -378,15 +341,15 @@ Representatives of Member States taking part in the work of the Agency, the advi
 
 6. The Ministry of Foreign Affairs shall issue an identity card which shall serve to identify the holder in relation to the competent authorities to:
 
-- a). staff members who are assigned to serve in the host State;
+- a) staff members who are assigned to serve in the host State;
 
-- b). members of the household of staff members;
+- b) members of the household of staff members;
 
-- c). seconded national experts;
+- c) seconded national experts;
 
-- d). trainees;
+- d) trainees;
 
-- e). persons in the personal employ of persons referred to in [Article 17, paragraph 2 and 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=17&z=2018-06-01&g=2018-06-01).
+- e) persons in the personal employ of persons referred to in [Article 17, paragraph 2 and 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=17&z=2018-06-01&g=2018-06-01).
 
 7. Upon request, the Ministry of Foreign Affairs shall issue an identity card which shall serve to identify the holder in relation to the competent authorities to personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=19&z=2018-06-01&g=2018-06-01) of this Agreement.
 
@@ -404,7 +367,7 @@ Representatives of Member States taking part in the work of the Agency, the advi
 
 ##### Article 24. Waiver of immunities
 
-1. Without prejudice to the [Protocol](onbekend), the privileges and immunities granted in this Agreement are conferred solely in the interest of the Agency, and not for the personal benefit of the individuals themselves.
+1. Without prejudice to the [Protocol](https://wetten.overheid.nl/BWBV0001507), the privileges and immunities granted in this Agreement are conferred solely in the interest of the Agency, and not for the personal benefit of the individuals themselves.
 
 2. The Head of the Agency shall not refuse to waive the immunity accorded to staff members wherever the Head of the Agency considers that the waiver of such immunity is not contrary to the interests of the Agency.
 
@@ -446,11 +409,11 @@ IN WITNESS WHEREOF, the undersigned, duly authorized thereto, have signed this A
 
 DONE at The Hague, on 1 June 2018, in duplicate, in the English language.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 J.L.C. VAN DER WERFF
 
-**For the European Medicines Agency,**
+*For the European Medicines Agency,*
 
 G. RASI
 

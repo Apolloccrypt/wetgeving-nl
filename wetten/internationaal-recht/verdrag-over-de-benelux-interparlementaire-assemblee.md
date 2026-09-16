@@ -1,86 +1,27 @@
 ---
 title: "Verdrag over de Benelux Interparlementaire Assemblee"
 identifier: "BWBV0006443"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-08-01"
-last_updated: "2019-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006443"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005266663"
-version_id: "10005657492"
-internal_id: "C10009576871"
-label_id: "10005249634"
-dtd_version: "2.0"
-original_entry_into_force: "2019-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006443/2019-08-01/0"
-intitule_bron: "Trb.2015-23"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-02-06"
-intitule_in_force: "2019-07-19"
-intitule_status: "goed"
-original_publication: "Trb.2015-23"
-original_published_date: "2015-02-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2015-23"
-entry_into_force_date: "2019-08-01"
-jci_1_3: "jci1.3:c:BWBV0006443&z=2019-08-01&g=2019-08-01"
-jci_1_0: "1.0:c:BWBV0006443&g=2019-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-08-01"
+publicatiedatum: 2019-08-01
+laatste_update: 2019-08-01
+status: geldig
+toestand: 2019-08-01
+bron: "https://wetten.overheid.nl/BWBV0006443"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag over de Benelux Interparlementaire Assemblee
 
-Het Koninkrijk België, vertegenwoordigd door:
+*Het Koninkrijk België, vertegenwoordigd door: de Federale Regering, de Vlaamse Regering, de Regering van de Franse Gemeenschap, de Waalse Regering, de Regering van het Brussels Hoofdstedelijk Gewest, de Regering van de Duitstalige Gemeenschap, Het Groothertogdom Luxemburg, Het Koninkrijk der Nederlanden, Hierna genoemd „de Partijen”; Overwegende dat op 17 juni 2008 het Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de Benelux Economische Unie is gesloten (het Benelux Unie Verdrag); Vaststellend dat de totstandbrenging van het Benelux Unie Verdrag was ingegeven door het gezamenlijke streven van de Hoge Verdragsluitende Partijen om de samenwerking in de Benelux Economische Unie voort te zetten in de Benelux Unie en deze te verdiepen en uit te bouwen; Verwijzend naar de op 5 november 1955 te Brussel tot stand gekomen Overeenkomst nopens de instelling van een Raadgevende Interparlementaire Beneluxraad en het Protocol, gedaan te ’s-Gravenhage op 3 februari 1958, tot aanvulling van deze Overeenkomst; Vaststellend dat de instelling van een Raadgevende Interparlementaire Beneluxraad aan de instelling van de Benelux Economische Unie is voorafgegaan; Verwijzend naar artikel 15 van het Benelux Unie Verdrag, dat bevestigt dat de samenstelling, de bevoegdheid en de werkwijze van de Raadgevende Interparlementaire Beneluxraad in de Overeenkomst nopens de instelling van een Raadgevende Interparlementaire Beneluxraad is geregeld; Voorts verwijzend naar artikel 16 van het Benelux Unie Verdrag, dat stelt dat de Raadgevende Interparlementaire Beneluxraad betrekkingen onderhoudt met het Benelux Comité van Ministers wat de vraagstukken betreft die rechtstreeks verband houden met de werking van de Benelux Unie; Vaststellend dat de Raadgevende Interparlementaire Beneluxraad, dankzij het gezamenlijk optreden van de vertegenwoordigingen van de parlementen van de Benelux-leden, een essentiële bijdrage heeft geleverd aan de samenwerking in Benelux-kader in ruime zin; Handelend vanuit het vaste voornemen dit optreden voort te zetten en te verdiepen door een nieuwe verdragsbasis te scheppen die, zonder afbreuk te doen aan de bestaande bevoegdheden van de Raadgevende Interparlementaire Beneluxraad, wordt afgestemd op de doelstellingen van de Benelux Unie; Vaststellend dat het Koninkrijk België een federale staatsstructuur heeft aangenomen; Wensend de taken van de Raadgevende Interparlementaire Beneluxraad aan te passen aan de huidige tijd; Komen overeen de Overeenkomst van 5 november 1955 nopens de instelling van een Raadgevende Interparlementaire Beneluxraad als volgt te vervangen:*
 
-de Federale Regering,
-
-de Vlaamse Regering,
-
-de Regering van de Franse Gemeenschap,
-
-de Waalse Regering,
-
-de Regering van het Brussels Hoofdstedelijk Gewest,
-
-de Regering van de Duitstalige Gemeenschap,
-
-Het Groothertogdom Luxemburg,
-
-Het Koninkrijk der Nederlanden,
-
-Hierna genoemd „de Partijen”;
-
-Overwegende dat op 17 juni 2008 het [Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de Benelux Economische Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0003087) is gesloten (het Benelux Unie Verdrag);
-
-Vaststellend dat de totstandbrenging van het [Benelux Unie Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003087) was ingegeven door het gezamenlijke streven van de Hoge Verdragsluitende Partijen om de samenwerking in de Benelux Economische Unie voort te zetten in de Benelux Unie en deze te verdiepen en uit te bouwen;
-
-Verwijzend naar de op 5 november 1955 te Brussel tot stand gekomen [Overeenkomst nopens de instelling van een Raadgevende Interparlementaire Beneluxraad](https://wetten.overheid.nl/jci1.3:c:BWBV0004827) en het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0002018), gedaan te ’s-Gravenhage op 3 februari 1958, tot aanvulling van deze Overeenkomst;
-
-Vaststellend dat de instelling van een Raadgevende Interparlementaire Beneluxraad aan de instelling van de Benelux Economische Unie is voorafgegaan;
-
-Verwijzend naar [artikel 15 van het Benelux Unie Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=15), dat bevestigt dat de samenstelling, de bevoegdheid en de werkwijze van de Raadgevende Interparlementaire Beneluxraad in de Overeenkomst nopens de instelling van een Raadgevende Interparlementaire Beneluxraad is geregeld;
-
-Voorts verwijzend naar [artikel 16 van het Benelux Unie Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=16), dat stelt dat de Raadgevende Interparlementaire Beneluxraad betrekkingen onderhoudt met het Benelux Comité van Ministers wat de vraagstukken betreft die rechtstreeks verband houden met de werking van de Benelux Unie;
-
-Vaststellend dat de Raadgevende Interparlementaire Beneluxraad, dankzij het gezamenlijk optreden van de vertegenwoordigingen van de parlementen van de Benelux-leden, een essentiële bijdrage heeft geleverd aan de samenwerking in Benelux-kader in ruime zin;
-
-Handelend vanuit het vaste voornemen dit optreden voort te zetten en te verdiepen door een nieuwe verdragsbasis te scheppen die, zonder afbreuk te doen aan de bestaande bevoegdheden van de Raadgevende Interparlementaire Beneluxraad, wordt afgestemd op de doelstellingen van de Benelux Unie;
-
-Vaststellend dat het Koninkrijk België een federale staatsstructuur heeft aangenomen;
-
-Wensend de taken van de Raadgevende Interparlementaire Beneluxraad aan te passen aan de huidige tijd;
-
-Komen overeen de [Overeenkomst van 5 november 1955 nopens de instelling van een Raadgevende Interparlementaire Beneluxraad](https://wetten.overheid.nl/jci1.3:c:BWBV0004827) als volgt te vervangen:
-
-## DEEL 1. BEGRIPSBEPALINGEN
+### DEEL 1. BEGRIPSBEPALINGEN
 
 ##### Artikel 1
 
 In dit Verdrag wordt onder de begrippen „Benelux Unie Verdrag”, „Benelux Comité van Ministers”, „voorzitterschap van het Benelux Comité van Ministers”, „meerjarig Gemeenschappelijk Werkprogramma” en „jaarplan” verstaan de betekenis die eraan gegeven wordt in het op 17 juni 2008 tot stand gekomen [Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de Benelux Economische Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0003087).
 
-## DEEL 2. INSTELLING, SAMENSTELLING EN REIKWIJDTE
+### DEEL 2. INSTELLING, SAMENSTELLING EN REIKWIJDTE
 
 ##### Artikel 2
 
@@ -114,7 +55,7 @@ In dit Verdrag wordt onder de begrippen „Benelux Unie Verdrag”, „Benelux C
 
 2. De Benelux Interparlementaire Assemblee kan ook andere vraagstukken bespreken die de drie Partijen aangaan, indien twee derde van haar leden daarmee instemt.
 
-## DEEL 3. BEVOEGDHEDEN
+### DEEL 3. BEVOEGDHEDEN
 
 ##### Artikel 4
 
@@ -146,7 +87,7 @@ Bij het begin van elk voorzitterschap van het Benelux Comité van Ministers word
 
 3. De leden van het College van Secretarissen-generaal van de Benelux Unie en de door hen aangewezen personen hebben toegang tot de vergaderingen van de Benelux Interparlementaire Assemblee.
 
-## DEEL 4. WERKWIJZE
+### DEEL 4. WERKWIJZE
 
 ##### Artikel 9
 
@@ -184,7 +125,7 @@ Binnen de Benelux Interparlementaire Assemblee kunnen Commissies worden ingestel
 
 De Benelux Interparlementaire Assemblee stelt haar Reglement van Orde vast.
 
-## DEEL 5. SLOTBEPALINGEN
+### DEEL 5. SLOTBEPALINGEN
 
 ##### Artikel 16
 

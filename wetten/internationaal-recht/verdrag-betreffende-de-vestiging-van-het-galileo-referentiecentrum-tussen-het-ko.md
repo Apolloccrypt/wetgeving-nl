@@ -1,72 +1,23 @@
 ---
 title: "Verdrag betreffende de vestiging van het Galileo-referentiecentrum tussen het Koninkrijk der Nederlanden, de Europese Commissie en het Europese GNSS-Agentschap"
 identifier: "BWBV0006594"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-05-30"
-last_updated: "2016-05-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006594"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005352883"
-version_id: "10005773512"
-internal_id: "C10009083641"
-label_id: "10005335804"
-dtd_version: "2.0"
-original_entry_into_force: "2016-05-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006594/2016-05-30/0"
-intitule_bron: "Trb.2016-69"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-06-03"
-intitule_in_force: "2016-06-03"
-intitule_status: "goed"
-original_publication: "Trb.2016-69"
-original_published_date: "2016-06-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2016-69"
-entry_into_force_date: "2016-05-30"
-jci_1_3: "jci1.3:c:BWBV0006594&z=2016-05-30&g=2016-05-30"
-jci_1_0: "1.0:c:BWBV0006594&g=2016-05-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-05-30"
+publicatiedatum: 2016-05-30
+laatste_update: 2016-05-30
+status: geldig
+toestand: 2016-05-30
+bron: "https://wetten.overheid.nl/BWBV0006594"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag betreffende de vestiging van het Galileo-referentiecentrum tussen het Koninkrijk der Nederlanden, de Europese Commissie en het Europese GNSS-Agentschap
 
-The Kingdom of the Netherlands
-
-and
-
-The European Commission
-
-and
-
-The European GNSS Agency
-
-Hereinafter “the Parties”
-
-Having regard to the [Treaty on the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), in particular [Protocol No 7 on the Privileges and Immunities of the European Union](onbekend) attached to the Treaty on the European Union, the [Treaty on the Functioning of the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) and the [Treaty establishing the European Atomic Energy Community](https://wetten.overheid.nl/jci1.3:c:BWBV0004033);
-
-Having regard to Regulation (EU) No 1285/2013 of the European Parliament and of the Council of 11 December 2013 on the implementation and exploitation of European satellite navigation systems and repealing Council Regulation (EC) No 876/2002 and Regulation (EC) No 683/2008 of the European Parliament and of the Council1)OJ L 347, 20.12.2013, p.1 (hereinafter the “GNSS Regulation”);
-
-Having regard to Regulation (EU) No 912/2010 of the European Parliament and of the Council of 22 September 2010 setting up the European GNSS Agency, repealing Council Regulation (EC) No 1321/2004 on the establishment of structures for the management of the European satellite radio navigation programmes and amending Regulation (EC) No 683/2008 of the European Parliament and of the Council2)OJ L 276, 20.10.2010;
-
-Having regard to Commission Implementing Decision (EU) 2016/413 of 18 March 2016 determining the location of the ground-based infrastructure of the system established under the Galileo programme and setting out the necessary measures to ensure that it functions smoothly, and repealing Implementing Decision 2012/117/E3)OJ L 74, 19.3.2016, p.45 (hereinafter the “Implementing Decision”).
-
-Whereas the GNSS Regulation provides that the system established under the Galileo programme shall be a civil system under civil control and an autonomous global navigation satellite system (“GNSS”) infrastructure consisting of a constellation of satellites and a global network of ground stations and the GNSS Regulation also provides that the European Union shall be the owner of all tangible and intangible assets created or developed under the Galileo and EGNOS programmes and whereas in addition, pursuant to Article 12(1) of the same Regulation, the Commission has the overall responsibility for the Galileo programme;
-
-Whereas the global network of ground-based stations as part of the Galileo programme includes the Galileo Reference Centre (hereinafter “GRC”);
-
-Whereas pursuant to Article 14(2) of the GNSS Regulation the Commission entrusted the European GNSS Agency4)C(2014) 809, 14.2.2014 with programme management tasks in the exploitation phase of the Galileo programme. These tasks, which are detailed in a delegation agreement concluded between the Commission and the European GNSS Agency in 2014, include the responsibility for the operation and maintenance of the GRC. In order to carry out the entrusted tasks, the European GNSS Agency may locate on a permanent basis some of its staff at the GRC;
-
-Whereas the Implementing Decision provides that the GRC will evaluate the quality of the services provided and communicate time and geodetic references to the user communities and that the GRC should be developed in stages in the Netherlands;
-
-Whereas in compliance with the Implementing Decision an agreement should be concluded to ensure the best possible conditions for the hosting and the proper functioning of the GRC;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and The European Commission and The European GNSS Agency Hereinafter “the Parties” Having regard to the Treaty on the European Union, in particular Protocol No 7 on the Privileges and Immunities of the European Union attached to the Treaty on the European Union, the Treaty on the Functioning of the European Union and the Treaty establishing the European Atomic Energy Community; Having regard to Regulation (EU) No 1285/2013 of the European Parliament and of the Council of 11 December 2013 on the implementation and exploitation of European satellite navigation systems and repealing Council Regulation (EC) No 876/2002 and Regulation (EC) No 683/2008 of the European Parliament and of the Council1)OJ L 347, 20.12.2013, p.1 (hereinafter the “GNSS Regulation”); Having regard to Regulation (EU) No 912/2010 of the European Parliament and of the Council of 22 September 2010 setting up the European GNSS Agency, repealing Council Regulation (EC) No 1321/2004 on the establishment of structures for the management of the European satellite radio navigation programmes and amending Regulation (EC) No 683/2008 of the European Parliament and of the Council2)OJ L 276, 20.10.2010; Having regard to Commission Implementing Decision (EU) 2016/413 of 18 March 2016 determining the location of the ground-based infrastructure of the system established under the Galileo programme and setting out the necessary measures to ensure that it functions smoothly, and repealing Implementing Decision 2012/117/E3)OJ L 74, 19.3.2016, p.45 (hereinafter the “Implementing Decision”). Whereas the GNSS Regulation provides that the system established under the Galileo programme shall be a civil system under civil control and an autonomous global navigation satellite system (“GNSS”) infrastructure consisting of a constellation of satellites and a global network of ground stations and the GNSS Regulation also provides that the European Union shall be the owner of all tangible and intangible assets created or developed under the Galileo and EGNOS programmes and whereas in addition, pursuant to Article 12(1) of the same Regulation, the Commission has the overall responsibility for the Galileo programme; Whereas the global network of ground-based stations as part of the Galileo programme includes the Galileo Reference Centre (hereinafter “GRC”); Whereas pursuant to Article 14(2) of the GNSS Regulation the Commission entrusted the European GNSS Agency4)C(2014) 809, 14.2.2014 with programme management tasks in the exploitation phase of the Galileo programme. These tasks, which are detailed in a delegation agreement concluded between the Commission and the European GNSS Agency in 2014, include the responsibility for the operation and maintenance of the GRC. In order to carry out the entrusted tasks, the European GNSS Agency may locate on a permanent basis some of its staff at the GRC; Whereas the Implementing Decision provides that the GRC will evaluate the quality of the services provided and communicate time and geodetic references to the user communities and that the GRC should be developed in stages in the Netherlands; Whereas in compliance with the Implementing Decision an agreement should be concluded to ensure the best possible conditions for the hosting and the proper functioning of the GRC; Have agreed as follows:*
 
 ##### Article 1. Use of Terms
 
-1.1. “Agreement” means this Agreement between the Kingdom of the Netherlands, the European Commission and the European GNSS Agency on the Hosting of the GRC, including its Annexes, and any future amendments to the Agreement or its Annexes;
+1.1. “Agreement” means this Agreement between the Kingdom of the Netherlands, the European Commission and the European GNSS Agency on the Hosting of the GRC, including its [Annexes](https://wetten.overheid.nl/BWBR0003217), and any future amendments to the Agreement or its Annexes;
 
 1.2. “Agency” means the European GNSS Agency set up under Regulation (EU) No 912/2010;
 
@@ -88,21 +39,21 @@ Have agreed as follows:
 
 1.11. “Hosting State” means the Kingdom of the Netherlands; where the Kingdom of the Netherlands is concerned, the Agreement shall apply to the European part of the Netherlands only;
 
-1.12. “Protocol” means [Protocol No 7 on the Privileges and Immunities of the European Union](onbekend) attached to the [Treaty on the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), the [Treaty on the Functioning of the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) and the [Treaty establishing the European Atomic Energy Community](https://wetten.overheid.nl/jci1.3:c:BWBV0004033);
+1.12. “Protocol” means [Protocol No 7 on the Privileges and Immunities of the European Union](https://wetten.overheid.nl/BWBV0001507) attached to the [Treaty on the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), the [Treaty on the Functioning of the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) and the [Treaty establishing the European Atomic Energy Community](https://wetten.overheid.nl/jci1.3:c:BWBV0004033);
 
 1.13. “Family member forming part of the household” means:
 
-- a). a spouse;
+- a) a spouse;
 
-- b). a stable non-marital partner, under the conditions laid down in Article 1(2)(c)of Annex VII to Council Regulation (EEC) No 259/68 (“EU Staff Regulations”);
+- b) a stable non-marital partner, under the conditions laid down in Article 1(2)(c)of Annex VII to Council Regulation (EEC) No 259/68 (“EU Staff Regulations”);
 
-- c). any dependent child as defined in Article 2(2) of Annex VII to the EU Staff Regulations;
+- c) any dependent child as defined in Article 2(2) of Annex VII to the EU Staff Regulations;
 
-- d). any person living with a member of the GRC Staff whom the GRC Staff has a legal responsibility to maintain and whose maintenance involves heavy expenditure under the conditions set out in Article 2(4) of Annex VII of the EU Staff Regulations.
+- d) any person living with a member of the GRC Staff whom the GRC Staff has a legal responsibility to maintain and whose maintenance involves heavy expenditure under the conditions set out in Article 2(4) of Annex VII of the EU Staff Regulations.
 
 ##### Article 2. Object and Purpose
 
-This Agreement shall implement the [Protocol on the Privileges and Immunities of the European Union](onbekend) and regulate other matters relating to or arising out of the establishment and the proper and continuous functioning of the GRC in the Netherlands. It shall create conditions conducive to the stability and independence of the GRC and facilitate its smooth and efficient functioning.
+This Agreement shall implement the [Protocol on the Privileges and Immunities of the European Union](https://wetten.overheid.nl/BWBV0001507) and regulate other matters relating to or arising out of the establishment and the proper and continuous functioning of the GRC in the Netherlands. It shall create conditions conducive to the stability and independence of the GRC and facilitate its smooth and efficient functioning.
 
 ##### Article 3. GRC site
 
@@ -134,9 +85,9 @@ The GRC shall be hosted in Noordwijk, the Netherlands. The GRC shall be clearly 
 
 6.4. The Commission and, within the scope of their respective responsibilities, the Agency and the Designated Entities shall provide the competent authorities of the Hosting State with all information relevant to the security and protection of the premises.
 
-##### Article 7. Application of the [Protocol](onbekend)
+##### Article 7. Application of the Protocol
 
-The [Protocol](onbekend) shall apply to the GRC, the GRC Staff and members of their household.
+The [Protocol](https://wetten.overheid.nl/BWBV0001507) shall apply to the GRC, the GRC Staff and members of their household.
 
 ##### Article 8. Inviolability
 
@@ -170,25 +121,25 @@ The European Union flag and the flag with the Agency’s emblem is authorised to
 
 12.2. Within the scope of the GRC operation, the European Union and Agency revenues as well as loans and payments related to the GRC operation shall be exempt from:
 
-- a). import and export taxes and duties (“belastingen bij invoer en uitvoer”);
+- a) import and export taxes and duties (“belastingen bij invoer en uitvoer”);
 
-- b). motor vehicle tax (“motorrijtuigenbelasting”, “MRB”);
+- b) motor vehicle tax (“motorrijtuigenbelasting”, “MRB”);
 
-- c). tax on passenger motor vehicles and motor cycles (“belasting van personenauto’s en motorrijwielen”, “BPM”);
+- c) tax on passenger motor vehicles and motor cycles (“belasting van personenauto’s en motorrijwielen”, “BPM”);
 
-- d). value added tax (“omzetbelasting”, “BTW”) paid on goods and services supplied on a recurring basis or involving expenditure totaling € 250 or more;
+- d) value added tax (“omzetbelasting”, “BTW”) paid on goods and services supplied on a recurring basis or involving expenditure totaling € 250 or more;
 
-- e). excise duties (“accijnzen”) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
+- e) excise duties (“accijnzen”) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
 
-- f). real property transfer tax (“overdrachtsbelasting”);
+- f) real property transfer tax (“overdrachtsbelasting”);
 
-- g). insurance tax (“assurantiebelasting”);
+- g) insurance tax (“assurantiebelasting”);
 
-- h). energy tax (“energiebelasting”);
+- h) energy tax (“energiebelasting”);
 
-- i). tax on water mains (“belasting op leidingwater”, “BOL”);
+- i) tax on water mains (“belasting op leidingwater”, “BOL”);
 
-- j). and other indirect taxes or duties of a substantially similar character as the taxes provided for in this paragraph, enacted by the Hosting State subsequent to the date of signature of the Agreement.
+- j) and other indirect taxes or duties of a substantially similar character as the taxes provided for in this paragraph, enacted by the Hosting State subsequent to the date of signature of the Agreement.
 
 12.3. The exemptions provided for in paragraph 2, sub-paragraphs d), e), f), g), h), i) and j) of this Article shall be granted by way of a refund.
 
@@ -204,23 +155,23 @@ The European Union and the Agency shall be exempt from prohibitions and restrict
 
 14.1. Without prejudice to applicable European Union law, GRC Staff shall enjoy within the Hosting State the following privileges and immunities:
 
-- a). immunity from legal procedures of any kind in respect of words spoken or written, and all acts performed by them in the exercise of their official functions, even if they are no longer active GRC Staff;
+- a) immunity from legal procedures of any kind in respect of words spoken or written, and all acts performed by them in the exercise of their official functions, even if they are no longer active GRC Staff;
 
-- b). immunity from seizure and inspection of official baggage;
+- b) immunity from seizure and inspection of official baggage;
 
-- c). inviolability of all papers, documents, in whatever form, and materials relating to the performance of their official functions;
+- c) inviolability of all papers, documents, in whatever form, and materials relating to the performance of their official functions;
 
-- d). exemption from taxation on salaries, wages, emoluments, and allowances paid by the European Union or the Agency;
+- d) exemption from taxation on salaries, wages, emoluments, and allowances paid by the European Union or the Agency;
 
-- e). exemption with respect to themselves, and family members forming part of the household, from immigration restrictions and alien registration;
+- e) exemption with respect to themselves, and family members forming part of the household, from immigration restrictions and alien registration;
 
-- f). freedom with respect to themselves to acquire and maintain within the Hosting State or elsewhere foreign currency accounts and other movable property (including a motor vehicle for personal use), and under the same conditions applicable to nationals of the Hosting State, immovable property; and upon the termination of their professional activities with the GRC to take their funds out of the Hosting State through authorised channels without prohibitions or restrictions;
+- f) freedom with respect to themselves to acquire and maintain within the Hosting State or elsewhere foreign currency accounts and other movable property (including a motor vehicle for personal use), and under the same conditions applicable to nationals of the Hosting State, immovable property; and upon the termination of their professional activities with the GRC to take their funds out of the Hosting State through authorised channels without prohibitions or restrictions;
 
-- g). the same protection and repatriation facilities with regard to themselves and family members forming part of the household, as accorded in time of international crisis to members having comparable rank of the staff of diplomatic missions established in the Kingdom of the Netherlands;
+- g) the same protection and repatriation facilities with regard to themselves and family members forming part of the household, as accorded in time of international crisis to members having comparable rank of the staff of diplomatic missions established in the Kingdom of the Netherlands;
 
-- h). exemption with respect to themselves, from import duties, in respect of their furniture and personal effects, including a motor vehicle for personal use, at the time of first taking up their position in the Hosting State, in accordance with applicable European Union law; however no exemption shall be accorded in respect of taxes and duties which represent charges for specific services;
+- h) exemption with respect to themselves, from import duties, in respect of their furniture and personal effects, including a motor vehicle for personal use, at the time of first taking up their position in the Hosting State, in accordance with applicable European Union law; however no exemption shall be accorded in respect of taxes and duties which represent charges for specific services;
 
-- i). exemption with respect to themselves, from export duties, in respect of their furniture and personal effects, including a motor vehicle for personal use within one year from the time of ceasing their position in the Hosting State.
+- i) exemption with respect to themselves, from export duties, in respect of their furniture and personal effects, including a motor vehicle for personal use within one year from the time of ceasing their position in the Hosting State.
 
 14.2. In addition to the privileges, immunities, and facilities listed in paragraph 1 of this article, GRC Staff in posts categorized AD 9 and higher, together with their family members forming part of their household, shall be accorded the same privileges and immunities as accorded to diplomatic agents of the diplomatic missions established in the Hosting State in accordance with the Vienna Convention.
 
@@ -250,23 +201,23 @@ Representatives of Member States taking part in the work of the GRC, their advis
 
 18.1. The Agency shall promptly, and no later than eight days after their first arrival, notify the Protocol Department of the Ministry of Foreign Affairs of the Hosting State of:
 
-- a). the appointment of GRC Staff;
+- a) the appointment of GRC Staff;
 
-- b). the appointment of GRC Seconded National Experts;
+- b) the appointment of GRC Seconded National Experts;
 
-- c). the date of the arrival of the persons referred to in sub-paragraph a) and b) of this Article and their final departure or the termination of their functions with the GRC;
+- c) the date of the arrival of the persons referred to in sub-paragraph a) and b) of this Article and their final departure or the termination of their functions with the GRC;
 
-- d). the arrival and final departure date of Family Members Forming Part of the Household of the persons referred to in subparagraph a) and b) of this Article and, where appropriate, the fact that a person has ceased to form part of the household;
+- d) the arrival and final departure date of Family Members Forming Part of the Household of the persons referred to in subparagraph a) and b) of this Article and, where appropriate, the fact that a person has ceased to form part of the household;
 
-- e). the arrival and final departure date of private servants of persons referred to in [Article 14, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006594&artikel=14&z=2016-05-30&g=2016-05-30), and, where appropriate, the fact that they are no longer employed by such persons.
+- e) the arrival and final departure date of private servants of persons referred to in [Article 14, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006594&artikel=14&z=2016-05-30&g=2016-05-30), and, where appropriate, the fact that they are no longer employed by such persons.
 
 18.2. The Hosting State shall issue an identity card bearing the photograph of the holder which shall serve to identify the holder in relation to the competent authorities, to
 
-- a). GRC Staff members and GRC Seconded National Experts;
+- a) GRC Staff members and GRC Seconded National Experts;
 
-- b). Members Forming Part of the Household of the persons referred to in subparagraph 18.2(a) of this Article;
+- b) Members Forming Part of the Household of the persons referred to in subparagraph 18.2(a) of this Article;
 
-- c). private servants.
+- c) private servants.
 
 18.3. The identity card shall also serve as a residence permit and a proof of privileges and immunities bestowed upon the individual person according to this Agreement.
 
@@ -302,7 +253,7 @@ European Union law applies to the Agreement supplemented by the national law of 
 
 ##### Article 24. Settlement of disputes
 
-24.1. All disputes relating to the application and interpretation of the Agreement and its Annexes shall, where possible, be settled amicably by direct negotiations between the Parties.
+24.1. All disputes relating to the application and interpretation of the Agreement and its [Annexes](https://wetten.overheid.nl/BWBR0003217) shall, where possible, be settled amicably by direct negotiations between the Parties.
 
 24.2. Any dispute not solved by direct negotiations shall be examined by an ad hoc group comprising one member appointed by each of the Parties respectively.
 

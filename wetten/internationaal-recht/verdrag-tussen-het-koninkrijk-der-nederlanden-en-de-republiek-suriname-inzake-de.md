@@ -1,44 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de status van militair en burgerpersoneel van het Ministerie van Defensie van Nederland dat in verband met opleidingen en trainingen aanwezig zal zijn in de Republiek Suriname"
 identifier: "BWBV0006954"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-04-01"
-last_updated: "2008-04-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006954"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005607593"
-version_id: "10006150232"
-internal_id: "C10009882371"
-label_id: "10005589424"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006954/2022-04-01/0"
-intitule_bron: "Trb.2008-106"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2008-05-23"
-intitule_in_force: "2022-03-10"
-intitule_status: "goed"
-original_publication: "Trb.2008-106"
-original_published_date: "2008-05-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2008-106"
-entry_into_force_date: "2022-04-01"
-jci_1_3: "jci1.3:c:BWBV0006954&z=2022-04-01&g=2022-04-01"
-jci_1_0: "1.0:c:BWBV0006954&g=2022-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-04-01"
+publicatiedatum: 2022-04-01
+laatste_update: 2022-04-01
+status: geldig
+toestand: 2022-04-01
+bron: "https://wetten.overheid.nl/BWBV0006954"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de status van militair en burgerpersoneel van het Ministerie van Defensie van Nederland dat in verband met opleidingen en trainingen aanwezig zal zijn in de Republiek Suriname
 
-Het Koninkrijk der Nederlanden en de Republiek Suriname
-
-Overwegende dat militair en burgerpersoneel van het Ministerie van Defensie van Nederland aanwezig zal zijn in de Republiek Suriname in verband met opleidingen en trainingen;
-
-Gelet op de wens om de status te regelen van dit militair en burgerpersoneel wanneer het zich op het grondgebied van de Republiek Suriname bevindt.
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Suriname Overwegende dat militair en burgerpersoneel van het Ministerie van Defensie van Nederland aanwezig zal zijn in de Republiek Suriname in verband met opleidingen en trainingen; Gelet op de wens om de status te regelen van dit militair en burgerpersoneel wanneer het zich op het grondgebied van de Republiek Suriname bevindt. zijn het volgende overeengekomen:*
 
 ##### Artikel I. Voorrechten en immuniteiten
 
@@ -96,10 +71,10 @@ Ieder geschil met betrekking tot de toepassing of de interpretatie van dit verdr
 
 GEDAAN te Paramaribo op 2 april 2008 in tweevoud in de Nederlandse taal.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 M.W.J.A. VAN GOOL
 
-**Voor de Republiek Suriname**
+*Voor de Republiek Suriname*
 
 I.C. FERNALD

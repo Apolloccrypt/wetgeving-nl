@@ -1,392 +1,211 @@
 ---
 title: "Overeenkomst tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van het Koninkrijk der Nederlanden met betrekking tot grenscontroles op het treinverkeer tussen Nederland en het Verenigd Koninkrijk via de vaste kanaalverbinding"
+citeertitel: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland met betrekking tot grenscontroles op het treinverkeer tussen Nederland en het Verenigd Koninkrijk via de vaste kanaalverbinding"
 identifier: "BWBV0006873"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-06-13"
-last_updated: "2025-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006873"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005555013"
-version_id: "10006052052"
-internal_id: "C10010198231"
-label_id: "10005538634"
-dtd_version: "2.0"
-original_entry_into_force: "2025-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006873/2025-06-13/0"
-intitule_bron: "Trb.2020-69"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-07-14"
-intitule_in_force: "2025-07-04"
-intitule_status: "goed"
-original_publication: "Trb.2020-69"
-original_published_date: "2020-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2020-69"
-entry_into_force_date: "2025-06-13"
-jci_1_3: "jci1.3:c:BWBV0006873&z=2025-06-13&g=2025-06-13"
-jci_1_0: "1.0:c:BWBV0006873&g=2025-06-13"
-citeertitel_status: "redactioneel"
-short_title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland met betrekking tot grenscontroles op het treinverkeer tussen Nederland en het Verenigd Koninkrijk via de vaste kanaalverbinding"
-entry_into_force: "2025-06-13"
+publicatiedatum: 2025-06-13
+laatste_update: 2025-06-13
+status: geldig
+toestand: 2025-06-13
+bron: "https://wetten.overheid.nl/BWBV0006873"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van het Koninkrijk der Nederlanden met betrekking tot grenscontroles op het treinverkeer tussen Nederland en het Verenigd Koninkrijk via de vaste kanaalverbinding
 
-De Regering van het Koninkrijk der Nederlanden,
+*The Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland (hereinafter referred to as the “Contracting Parties”); Desiring to facilitate rail traffic between the Netherlands and the United Kingdom using the Channel Fixed Link; Considering it necessary, for this purpose, to enable the Competent authorities of each of the Contracting Parties to conduct border controls, or to make arrangements for such controls to be conducted, on the territory of the other Contracting Party in respect of passengers travelling by train between the Netherlands and the United Kingdom via the Channel Fixed Link; Having recorded their commitments (with the support of the Government of the French Republic and the Government of the Kingdom of Belgium), in a Letter of Intent dated 18 July 2018, to conclude an Agreement making provision for such controls; Having regard to – the Treaty between the French Republic and the United Kingdom of Great Britain and Northern Ireland concerning the Construction and Operation by Private Concessionaires of a Channel Fixed Link, done at Canterbury on 12 February 1986, which entered into force on 29 July 1987; – the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland, the Government of the Kingdom of Belgium and the Government of the French Republic concerning Rail Traffic between Belgium and the United Kingdom using the Channel Fixed Link, with Protocol, done at Brussels on 15 December 1993, which entered into force on 1 December 1997 (the Tripartite Agreement); – the Agreement between the Government of the French Republic, the Government of the Kingdom of Belgium, the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland amending and supplementing the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland, the Government of the Kingdom of Belgium and the Government of the French Republic concerning Rail Traffic between Belgium and the United Kingdom using the Channel Fixed Link with Protocol, done at Brussels on 15 December 1993, done at Brussels on 7 July 2020; – the Special Arrangement between the Government of the French Republic, the Government of the Kingdom of Belgium, the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland concerning security matters relating to trains using the Channel Fixed Link, done at Brussels on 7 July 2020; – the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Belgium concerning immigration controls on rail traffic between Belgium and the United Kingdom using the Channel Fixed Link, done at London on 3 December 2013 and at Brussels on 18 December 2013, which entered into force on 1 October 2016; – the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of controls at their common borders, done at Schengen on 19 June 1990, which entered into force on 1 September 1993, The Government of the Kingdom of the Netherlands having additional regard to: – Regulation (EU) No 604/2013 of the European Parliament and of the Council of 26 June 2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person (recast); – Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code); – Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data; – Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by Competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, The Government of the United Kingdom of Great Britain and Northern Ireland having additional regard to its national legislation on the processing of information relating to individuals, Have agreed as follows:*
 
-en
+## PART I. GENERAL PROVISIONS AND PERMANENT MEASURES
 
-de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
+##### Article 1. Definitions
 
-(hierna te noemen „de Overeenkomstsluitende Partijen”),
+1. For the purposes of the present Agreement:
 
-Geleid door de wens het treinverkeer tussen Nederland en het Verenigd Koninkrijk dat door de vaste kanaalverbinding gaat te vergemakkelijken;
+- a) “Fixed Link” means the Channel Fixed Link as defined in Article 1 of the Treaty done at Canterbury on 12 February 1986, which entered into force on 29 July 1987.
 
-Gelet op de noodzaak, te dien einde, de bevoegde autoriteiten van elk van de Overeenkomstsluitende Partijen in staat te stellen om grenscontroles uit te voeren of voorzieningen te treffen om dergelijke controles uit te voeren, op het grondgebied van de andere Overeenkomstsluitende Partij, ter zake van passagiers die per trein reizen tussen Nederland en het Verenigd Koninkrijk via de vaste kanaalverbinding;
+- b) “the Quadripartite Agreement” means the Agreement between the Government of the French Republic, the Government of the Kingdom of Belgium, the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland amending and supplementing the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland, the Government of the Kingdom of Belgium and the Government of the French Republic concerning Rail Traffic between Belgium and the United Kingdom using the Channel Fixed Link with Protocol, done at Brussels on 15 December 1993, done at Brussels on 7 July 2020.
 
-Na hun verplichtingen (met de steun van de Regering van de Franse Republiek en de Regering van het Koninkrijk België), te hebben vastgelegd in een intentieverklaring van 18 juli 2018 om een Overeenkomst te sluiten waarin een voorziening wordt getroffen voor dergelijke controles;
+- c) “the Special Arrangement” means the [Special Arrangement between the Government of the French Republic, the Government of the Kingdom of Belgium, the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland concerning security matters relating to trains using the Channel Fixed Link](https://wetten.overheid.nl/jci1.3:c:BWBV0006871), done at Brussels on 7 July 2020.
 
-Gelet op
+- d) “Host State” means the State in whose territory the border controls of the other Contracting Party are effected.
 
-het Verdrag tussen de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de bouw en de exploitatie door privé-concessionarissen van een vaste kanaalverbinding, gedaan te Canterbury op 12 februari 1986, dat op 29 juli 1987 in werking is getreden;
+- e) “Destination State” means the Contracting Party to this Agreement which is not the Host State, in whose territory a train is intended to terminate.
 
-de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland met betrekking tot het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding met Protocol, gedaan te Brussel op 15 december 1993, die op 1 december 1997 in werking is getreden (de Tripartiete Overeenkomst);
+- f) “Control Zone” means that part of the territory of the Host State and the trains, within which Officers of the other State are empowered to effect border controls, as delimited in accordance with arrangements made between the Contracting Parties pursuant to [Article 4](https://wetten.overheid.nl/BWBV0006873) of this Agreement.
 
-de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot wijziging en aanvulling van de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland met betrekking tot het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding met protocol, gedaan te Brussel op 15 december 1993, gedaan te Brussel op 7 juli 2020;
+- g) “Officers” means persons empowered or authorised to conduct border controls.
 
-de Bijzondere Overeenkomst tussen de Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake veiligheidsvraagstukken met betrekking tot de treinen via de vaste kanaalverbinding, gedaan te Brussel op 7 juli 2020;
+- h) “Competent authorities” means those organisations, government agencies or persons upon which statutory functions are conferred in order to perform a designated function in relation to the border controls referred to in this Agreement.
 
-de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland met betrekking tot immigratiecontroles op het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding, gedaan te Londen op 3 december 2013 en Brussel op 18 december 2013, die op 1 oktober 2016 in werking is getreden;
+- i) “Border controls on persons” means controls carried out to ensure that persons may be authorised to enter or leave the territory of the United Kingdom or the Schengen Area in accordance with the national legislation of the relevant Contracting Party or the Schengen Borders Code, as applicable.
 
-de Overeenkomst ter uitvoering van het tussen de Regeringen van de Staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen, gedaan te Schengen op 19 juni 1990, die op 1 september 1993 in werking is getreden.
+- j) “train” means an international train travelling between Dutch and British territory using the Fixed Link.
 
-Voor de Regering van het Koninkrijk der Nederlanden, tevens gelet op:
+- k) “Operator” means a rail carrier providing a scheduled high-speed international railway service via the Fixed Link.
 
-Verordening (EU) nr. 604/2013 van het Europees Parlement en de Raad van 26 juni 2013 tot vaststelling van de criteria en instrumenten om te bepalen welke lidstaat verantwoordelijk is voor de behandeling van een verzoek om internationale bescherming dat door een onderdaan van een derde land of een staatloze bij een van de lidstaten wordt ingediend (herschikking);
+- l) “Individual Service” means a single train journey running in either direction between the United Kingdom and the Netherlands.
 
-Verordening (EU) 2016/399 van het Europees Parlement en de Raad van 9 maart 2016 betreffende een Uniecode voor de overschrijding van de grenzen door personen (Schengengrenscode);
+##### Article 2. Scope
 
-Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens;
+1. This Agreement shall exclusively apply to rail traffic between the Netherlands and the United Kingdom via the Fixed Link.
 
-Richtlijn (EU) 2016/680 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van Kaderbesluit 2008/977/JBZ van de Raad.
+2. Security matters relating to rail traffic between the United Kingdom and the Netherlands via the Fixed Link are the subject of the [Special Arrangement](https://wetten.overheid.nl/jci1.3:c:BWBV0006871).
 
-Voor de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tevens gelet op haar nationale wetgeving inzake de verwerking van informatie met betrekking tot individuen,
+3. The [Protocol](https://wetten.overheid.nl/BWBV0006873) and [Annexes](https://wetten.overheid.nl/BWBR0016111) attached hereto shall form an integral part of this Agreement.
 
-Zijn het volgende overeengekomen:
+##### Article 3. Authorisation to conduct border controls
 
-## DEEL I. ALGEMENE BEPALINGEN EN PERMANENTE MAATREGELEN
+1. Officers of the United Kingdom shall be permitted to conduct border controls, or to make arrangements for such controls to be conducted, within a Control Zone delimited for that purpose in the territory of the Netherlands, in respect of passengers travelling on rail services within the scope of this Agreement and whose destination is stated to be the United Kingdom.
 
-##### Artikel 1. Begripsomschrijvingen
+2. Officers of the Netherlands shall be permitted to conduct border controls, or to make arrangements for such controls to be conducted, within a Control Zone delimited for that purpose in the territory of the United Kingdom, in respect of passengers travelling on rail services within the scope of this Agreement and whose destination is stated to be the Netherlands.
 
-1. Voor de toepassing van deze Overeenkomst betekent:
+##### Article 4. Delimitation of Control Zones
 
-- a. „Vaste verbinding”: de vaste kanaalverbinding als bepaald in artikel 1 van het Verdrag van Canterbury van 12 februari 1986, dat op 29 juli 1987 in werking is getreden.
+1. The Contracting Parties or their Competent authorities shall:
 
-- b. „de Quadripartiete Overeenkomst”: de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot wijziging en aanvulling van de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland met betrekking tot het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding, gedaan te Brussel op 15 december 1993, gedaan te Brussel op 7 juli 2020.
+- a) designate the rail stations; and
 
-- c. „de Bijzondere Overeenkomst”: de [Bijzondere Overeenkomst tussen de Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake veiligheidsvraagstukken met betrekking tot de treinen via de vaste kanaalverbinding](https://wetten.overheid.nl/jci1.3:c:BWBV0006871), gedaan te Brussel op 7 juli 2020
+- b) delimit the Control Zones in which border controls referred to in [Article 3](https://wetten.overheid.nl/BWBV0006873) may be exercised.
 
-- d. „Gaststaat”: de Staat op wiens grondgebied grenscontroles van de andere Overeenkomstsluitende Partij worden uitgevoerd.
+2. The designation of the rail stations and the delimitation of the Control Zones shall be effected by way of an administrative arrangement pursuant to [Article 15](https://wetten.overheid.nl/BWBV0006873).
 
-- e. „Staat van bestemming”: de Overeenkomstsluitende Partij die niet de Gaststaat is, op wiens grondgebied de beoogde eindbestemming van de trein ligt.
+3. In an emergency, where the nature of that emergency is such that the local representatives of the authorities concerned are unable to provisionally bring into effect any necessary alterations to the delimitation of the Control Zones by mutual agreement, the Host State may bring into effect any such necessary alterations unilaterally with immediate effect. Any such alterations shall be brought to the attention of the local representatives of the authorities of the Destination State as soon as is practicable, in the event that it is not possible to do so immediately.
 
-- f. „Controlezone”: het deel van het grondgebied van de Gaststaat en de treinen waarbinnen de ambtenaren van de andere Staat gemachtigd zijn grenscontroles uit te voeren, zoals afgebakend in overeenstemming met regelingen die zijn getroffen tussen de Overeenkomstsluitende Partijen overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=4&z=2025-06-13&g=2025-06-13) van deze Overeenkomst.
+##### Article 5. Powers of Arrest and Detention for Criminal Offences
 
-- g. „Ambtenaren”: de personen die gemachtigd of bevoegd zijn om grenscontroles uit te voeren.
+1. The Officers of the Destination State shall, in exercise of their national powers, be permitted to arrest or detain persons in the course of their functions only for the criminal offences specified in [Annex A](https://wetten.overheid.nl/BWBV0006873) to this Agreement.
 
-- h. „Bevoegde autoriteiten”: de organisaties, overheidsinstanties of personen aan wie wettelijke taken zijn toegewezen om een aangewezen functie te vervullen met betrekking tot de in deze Overeenkomst bedoelde grenscontroles.
+2. For the avoidance of doubt, while the [Protocol](https://wetten.overheid.nl/BWBV0006873) to this Agreement shall cease to have effect from the date upon which the Quadripartite Agreement enters into force, the following shall continue to apply:
 
-- i. „Grenscontroles op personen”: controles die worden uitgevoerd om ervoor te zorgen dat personen toestemming kunnen krijgen om het grondgebied van het Verenigd Koninkrijk of het Schengengebied binnen te komen of te verlaten overeenkomstig, naargelang van toepassing, de nationale wetgeving van de betrokken Overeenkomstsluitende Partij of de Schengengrenscode.
+- a) Officers of the Destination State may require a person to submit to further examination to ensure that such a person may be authorised to enter the territory of the Destination State. That person may bring this examination to an end at any time by discontinuing their wish to enter the territory of the Destination State; in such a case the person shall be directed to the Officers of the Host State who will take the necessary measures to submit the person to frontier controls.
 
-- j. „Trein”: een internationale trein die tussen het Nederlandse en Britse grondgebied reist via de vaste verbinding.
+- b) Any person arrested or detained shall be handed over immediately, along with any seized goods, to the Competent authorities of the Host State. The Host State shall ensure that the Competent authorities are available to receive such a person and to take the necessary measures.
 
-- k. „Exploitant”: een spoorwegmaatschappij die een internationale hogesnelheidsspoorwegdienst via de vaste verbinding aanbiedt.
+##### Article 6. Identification of Officers
 
-- l. „Individuele dienst”: een enkele treinreis in een van beide richtingen tussen het Verenigd Koninkrijk en Nederland.
+1. The Contracting Parties shall notify each other through diplomatic channels of any new procedural requirements relating to the identification of Officers assigned to carry out operations in the Control Zones on Host State territory.
 
-##### Artikel 2. Reikwijdte
+2. The procedural requirements for Officers of the United Kingdom assigned to carry out operations in the Control Zones in the Netherlands are set out in [Annex B](https://wetten.overheid.nl/BWBV0006873) to this Agreement. The Kingdom of the Netherlands may modify the content of Annex B by notifying the United Kingdom in accordance with paragraph 1.
 
-1. Deze Overeenkomst is uitsluitend van toepassing op het treinverkeer tussen Nederland en het Verenigd Koninkrijk via de vaste verbinding.
+##### Article 7. Coordination and co-operation between Competent authorities
 
-2. Veiligheidsvraagstukken met betrekking tot het treinverkeer tussen het Verenigd Koninkrijk en Nederland via de vaste verbinding vallen onder de [Bijzondere Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006871).
+1. The Contracting Parties shall:
 
-3. Het Protocol en de Bijlagen daarbij maken een integrerend onderdeel uit van deze Overeenkomst.
+- a) designate and notify each other of the Competent authorities that are empowered to take decisions relating to the security of the trains;
 
-##### Artikel 3. Machtiging om grenscontroles uit te voeren
+- b) designate and notify each other of the Competent authorities that are responsible for exercising the controls referred to in [Article 3](https://wetten.overheid.nl/BWBV0006873);
 
-1. Ambtenaren van het Verenigd Koninkrijk mogen grenscontroles uitvoeren of regelingen treffen voor het uitvoeren van dergelijke controles, in een controlezone die hiertoe is afgebakend op het grondgebied van Nederland, ter zake van passagiers die per trein reizen binnen de reikwijdte van deze Overeenkomst en waarvan de vermelde bestemming het Verenigd Koninkrijk is.
+- c) consult with one another to determine their respective requirements for accommodation, installations and equipment for the purposes of the exercise of border controls in line with [Article 16](https://wetten.overheid.nl/BWBV0006873) of the Protocol to this Agreement;
 
-2. Ambtenaren van Nederland mogen grenscontroles uitvoeren of regelingen treffen voor het uitvoeren van dergelijke controles, in een controlezone die hiertoe is afgebakend op het grondgebied van het Verenigd Koninkrijk, ter zake van passagiers die per trein reizen binnen de reikwijdte van deze Overeenkomst en waarvan de vermelde bestemming Nederland is.
+- d) establish operational co-operation between their respective Competent authorities, including the holding of regular coordination meetings, operational meetings and the establishment of single points of contact;
 
-##### Artikel 4. Afbakening van controlezones
+- e) ensure that Competent authorities shall be available during the operation of the controls referred to in [Article 3](https://wetten.overheid.nl/BWBV0006873);
 
-1. De Overeenkomstsluitende Partijen of hun bevoegde autoriteiten:
+- f) ensure that passengers have access to the appropriate redress procedures for complaints relating to the operation of the controls referred to in [Article 3](https://wetten.overheid.nl/BWBV0006873), such complaints being the responsibility of the Destination State.
 
-- a. wijzen de treinstations aan; en
+##### Article 8. Processing and Exchange of information
 
-- b. bakenen de controlezones af waarbinnen de grenscontroles bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2025-06-13&g=2025-06-13) mogen worden uitgevoerd.
+1. Officers of a Contracting Party, when acting in pursuance of this Agreement, shall be subject at all times to the applicable legislation in relation to the processing of personal data in the exercise of their functions.
 
-2. De aanwijzing van de treinstations en de afbakening van de controlezones geschiedt door middel van een administratief akkoord krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=III&artikel=15&z=2025-06-13&g=2025-06-13).
+2. In order to perform the tasks conferred on them by this Agreement the Officers of the Contracting Parties shall in accordance with this Agreement and the relevant national legislation regarding the exchange of information, share in a timely and accurate manner all necessary information.
 
-3. In een noodsituatie, wanneer de aard van die noodsituatie zodanig is dat de plaatselijke vertegenwoordigers van de betrokken autoriteiten niet in staat zijn om in onderlinge overeenstemming de noodzakelijke wijzigingen in de afbakening van de controlezones voorlopig in werking te laten treden, kan de Gaststaat dergelijke noodzakelijke wijzigingen eenzijdig en met onmiddellijke ingang in werking doen treden. Dergelijke wijzigingen worden zo spoedig mogelijk ter kennis gebracht van de plaatselijke vertegenwoordigers van de autoriteiten van de Staat van bestemming, indien het niet mogelijk is dit onmiddellijk te doen.
+##### Article 9. Service weapons, ammunition and equipment
 
-##### Artikel 5. Bevoegdheden tot aanhouden of staande houden voor strafbare feiten
+1. Officers of the Destination State shall be allowed to wear and carry in the Host State such service weapons, ammunition and equipment as agreed with the Host State.
 
-1. De ambtenaren van de Staat van bestemming mogen, bij de uitoefening van hun nationale bevoegdheden, personen in de uitoefening van hun functie uitsluitend aanhouden of staande houden voor de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&bijlage=A&z=2025-06-13&g=2025-06-13) bij deze Overeenkomst genoemde strafbare feiten.
+2. Any service weapons or ammunition may only be carried in a Host State subject to separate agreements being entered into between the Contracting Parties and provided that they may be carried by the Officers in the State of Departure in the territory of their own State.
 
-2. Om twijfel weg te nemen, wanneer het Protocol ophoudt van toepassing te zijn vanaf de datum waarop de Quadripartiete overeenkomst in werking treedt, blijft het volgende van toepassing:
+##### Article 10. Responsibility for Officers in Host State
 
-- a. Ambtenaren van de Staat van bestemming kunnen van een persoon verlangen dat deze zich aan een nader onderzoek onderwerpt om zich ervan te vergewissen dat deze persoon toestemming kan krijgen om het grondgebied van de Staat van bestemming te betreden. Deze persoon kan dit onderzoek te allen tijde beëindigen door af te zien van zijn wens om het grondgebied van de Staat van bestemming te betreden; in dat geval wordt de persoon doorverwezen naar de ambtenaren van de Gaststaat, die de nodige maatregelen nemen om de persoon aan grenscontroles te onderwerpen.
+1. Officers shall be exclusively answerable to their own Competent authorities in respect of the exercise of their functions in a Control Zone.
 
-- b. Elke aangehouden of staande gehouden persoon wordt, samen met de eventueel in beslag genomen goederen, onmiddellijk overgedragen aan de bevoegde autoriteiten van de Gaststaat. De Gaststaat ziet erop toe dat de bevoegde autoriteiten beschikbaar zijn om een dergelijke persoon op te vangen en de nodige maatregelen te nemen.
+2. The authorities of the Host State reserve the right to request the authorities of the other Contracting Party to recall any of their Officers, or, in respect of an officer of the Destination State who is permanently resident in the Host State, that he/she cease the exercise of his/her functions under this Agreement. The Contracting Party receiving such a request shall comply with such a request forthwith.
 
-##### Artikel 6. Identificatie van ambtenaren
+##### Article 11. Recovery of costs
 
-1. De Overeenkomstsluitende Partijen stellen elkaar langs diplomatieke weg in kennis van alle nieuwe procedurele vereisten met betrekking tot de identificatie van ambtenaren die zijn aangewezen om activiteiten uit te voeren in de controlezones op het grondgebied van de Gaststaat.
+1. Each Contracting Party shall bear responsibility for any costs associated with exercising border controls for which they are responsible, including, but not limited to, the costs of installing equipment and control bureaux and costs associated with deploying Officers. This paragraph is without prejudice to the Contracting Parties recovering those costs from an Operator as set out within this Article.
 
-2. De procedurele vereisten voor ambtenaren van het Verenigd Koninkrijk die zijn aangewezen voor het uitvoeren van activiteiten in de controlezones in Nederland zijn opgenomen in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&bijlage=B&z=2025-06-13&g=2025-06-13) bij deze Overeenkomst. Het Koninkrijk der Nederlanden kan de inhoud van Bijlage B wijzigen door het Verenigd Koninkrijk daarvan overeenkomstig het eerste lid in kennis te stellen.
+2. Each Contracting Party may set up national rules or arrangements to ensure that an Operator shall be required to pay the costs associated with exercising border controls in respect of any Individual Service that it runs to or from the territory of a Host State to the Contracting Party responsible for those costs.
 
-##### Artikel 7. Coördinatie en samenwerking tussen bevoegde autoriteiten
+3. When Officers exercise their functions in the Host State referred to in [Article 3](https://wetten.overheid.nl/BWBV0006873), the Destination State shall be liable in accordance with its national law for any damage caused by them during their functions.
 
-1. De Overeenkomstsluitende Partijen:
+4. Without prejudice to the exercise of its rights vis-à-vis third parties, each Contracting Party shall waive all its claims against each other for any damage it has sustained, except in cases of gross negligence or wilful misconduct.
 
-- a. wijzen de bevoegde autoriteiten aan en stellen elkaar in kennis van de bevoegde autoriteiten die bevoegd zijn om besluiten te nemen met betrekking tot de veiligheid van de treinen;
+## PART II. SPECIFIC PROVISIONS PENDING THE ENTRY INTO FORCE OF THE QUADRIPARTITE AGREEMENT
 
-- b. wijzen de bevoegde autoriteiten aan en stellen elkaar in kennis van de bevoegde autoriteiten die verantwoordelijk zijn voor de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2025-06-13&g=2025-06-13) bedoelde controles;
+##### Article 12. Operation of controls
 
-- c. voeren met elkaar overleg om vast te stellen wat zij elk nodig hebben aan lokalen, installaties en uitrusting met het oog op de uitoefening van grenscontroles overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=16&z=2025-06-13&g=2025-06-13) van het Protocol bij deze Overeenkomst;
+A [Protocol](https://wetten.overheid.nl/BWBV0006873) concerning the operation of controls in respect of passengers travelling on rail services falling within the scope of this Agreement is attached to this Agreement.
 
-- d. brengen operationele samenwerking tussen hun respectieve bevoegde autoriteiten tot stand, met inbegrip van het houden van periodieke coördinatievergaderingen, operationele vergaderingen en de aanwijzing van centrale aanspreekpunten;
+##### Article 13. Requests for protection
 
-- e. zorgen ervoor dat de bevoegde autoriteiten beschikbaar zijn tijdens de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2025-06-13&g=2025-06-13) bedoelde controles;
+1. Without prejudice to the other provisions laid down by the Contracting Parties in this Agreement or the [Protocol](https://wetten.overheid.nl/BWBV0006873) hereto, when a person submits a request for refugee status or any other kind of protection provided for by international law or in the national law of the Host State during border controls carried out at a station of the Host State by the Officers of the Destination State, this request will be examined by the authorities of the Host State in accordance with the rules and procedures of its national law.
 
-- f. zorgen ervoor dat de passagiers toegang hebben tot de passende beroepsprocedures voor klachten die verband houden met de uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2025-06-13&g=2025-06-13) bedoelde controles; dergelijke klachten vallen onder de verantwoordelijkheid van de Staat van bestemming.
+2. The same provision will be applicable when the request is submitted after the person has passed through the border controls referred to in paragraph 1 above and before the train doors close at the last scheduled stop at a station located in the territory of the Host State. This provision is without prejudice to the rules of international law that are applicable to requests that are made after the doors have closed.
 
-##### Artikel 8. Verwerking en uitwisseling van informatie
+##### Article 14. Uniforms and insignia
 
-1. Ambtenaren van een Overeenkomstsluitende Partij zijn, handelend in overeenstemming met deze Overeenkomst, te allen tijde onderworpen aan de van toepassing zijnde wetgeving betreffende de verwerking van persoonsgegevens bij de uitoefening van hun functie.
+When exercising their functions in the Host State referred to in [Article 3](https://wetten.overheid.nl/BWBV0006873) within a Control Zone, Officers shall wear their national uniform or other visible distinctive insignia.
 
-2. Om de hun bij deze Overeenkomst opgedragen taken uit te voeren, delen de ambtenaren van de Overeenkomstsluitende Partijen, in overeenstemming met deze Overeenkomst en de relevante nationale wetgeving inzake de uitwisseling van informatie, tijdig en nauwkeurig alle noodzakelijke informatie.
+## PART III. FINAL PROVISIONS
 
-##### Artikel 9. Dienstwapens, munitie en uitrusting
+##### Article 15. Implementing measures
 
-1. Ambtenaren van de Staat van bestemming mogen in de Gaststaat de dienstwapens, munitie en uitrusting meenemen en dragen die met de Gaststaat zijn overeengekomen.
+The measures necessary for the implementation of this Agreement or its [Protocol](https://wetten.overheid.nl/BWBV0006873) may be the subject of agreements or technical or administrative arrangements between the Contracting Parties or their Competent authorities.
 
-2. Dienstwapens of munitie mogen alleen in een Gaststaat worden gedragen indien de betrokken Overeenkomstsluitende Partijen afzonderlijke overeenkomsten hebben gesloten en indien deze mogen worden gedragen door de ambtenaren in de Staat van vertrek op het grondgebied van hun eigen Staat.
+##### Article 16. Amendments
 
-##### Artikel 10. Verantwoordelijkheid voor ambtenaren in de Gaststaat
+1. Either Contracting Party may at any time request a consultation, with a view to revising the provisions of this Agreement or its [Protocol](https://wetten.overheid.nl/BWBV0006873).
 
-1. De ambtenaren zijn uitsluitend verantwoording verschuldigd aan hun eigen bevoegde autoriteiten met betrekking tot de uitoefening van hun functie in een controlezone.
+2. The Contracting Parties may make any amendments to this Agreement or its [Protocol](https://wetten.overheid.nl/BWBV0006873) that they consider necessary, by mutual agreement.
 
-2. De autoriteiten van de Gaststaat behouden zich het recht voor de autoriteiten van de andere Overeenkomstsluitende Partij te verzoeken hun ambtenaren terug te roepen of, met betrekking tot een ambtenaar van de Staat van bestemming die permanent in de Gaststaat verblijft, de uitoefening van zijn of haar functies uit hoofde van deze Overeenkomst te beëindigen. De Overeenkomstsluitende Partij die een dergelijk verzoek ontvangt, geeft onverwijld gevolg aan dit verzoek
+##### Article 17. Settlement of disputes
 
-##### Artikel 11. Verhalen van kosten
+Any disputes concerning the interpretation or application of this Agreement or its [Protocol](https://wetten.overheid.nl/BWBV0006873) shall be settled by negotiation between the Contracting Parties.
 
-1. Elke Overeenkomstsluitende Partij draagt de verantwoordelijkheid voor alle kosten in verband met de uitoefening van grenscontroles waarvoor deze verantwoordelijk is, met inbegrip van, maar niet beperkt tot, de kosten voor de installatie van uitrusting en controlebureaus en de kosten in verband met de inzet van ambtenaren. Dit lid laat onverlet dat de Overeenkomstsluitende Partijen deze kosten kunnen verhalen op een exploitant, op grond van dit artikel.
+##### Article 18. Territorial Application
 
-2. Elke Overeenkomstsluitende Partij kan nationale regels of regelingen vaststellen om ervoor te zorgen dat een exploitant de kosten moet betalen die verband houden met de uitoefening van grenscontroles met betrekking tot elke individuele dienst die hij uitvoert naar of van het grondgebied van een Gaststaat aan de Overeenkomstsluitende Partij die verantwoordelijk is voor deze kosten.
+With respect to the Kingdom of the Netherlands, this Agreement shall apply to the European part of the Netherlands.
 
-3. Wanneer ambtenaren hun taken in de in artikel 3 bedoelde Gaststaat uitoefenen, is de Staat van bestemming overeenkomstig het nationaal recht aansprakelijk voor de schade die zij bij het uitvoeren van hun functie veroorzaken.
+##### Article 19. Suspension and termination
 
-4. Onverminderd de uitoefening van haar rechten tegenover derden, ziet elke Overeenkomstsluitende Partij af van al haar vorderingen tegen de andere Overeenkomstsluitende Partijen voor de schade die zij heeft geleden, behalve in gevallen van grove nalatigheid of opzettelijk wangedrag.
+1. This Agreement and its [Protocol](https://wetten.overheid.nl/BWBV0006873) may be suspended in whole or in part by either of the Contracting Parties by sending a written notification to the other Contracting Party through diplomatic channels. The notification shall include the reasons for the suspension.
 
-## DEEL II. SPECIFIEKE BEPALINGEN IN AFWACHTING VAN DE INWERKINGTREDING VAN DE QUADRIPARTIETE OVEREENKOMST
+2. Suspension shall take effect on the first day following the expiry of a six month period after the date upon which the notification is received, unless the Contracting Parties mutually agree for the suspension to take effect sooner or paragraph 3 applies.
 
-##### Artikel 12. Uitvoering van controles
+3. Either of the Contracting Parties to this Agreement may suspend this Agreement and its [Protocol](https://wetten.overheid.nl/BWBV0006873) in whole or in part with effect from the same date as that upon which any contracting party to the [Special Arrangement](https://wetten.overheid.nl/jci1.3:c:BWBV0006871) suspends that Arrangement, by sending a written notification to the other Contracting Party through diplomatic channels.
 
-Een Protocol betreffende de uitvoering van controles ter zake van passagiers die per trein reizen binnen de reikwijdte van deze Overeenkomst is bij deze Overeenkomst gevoegd.
+4. This Agreement and its [Protocol](https://wetten.overheid.nl/BWBV0006873) may be terminated by either of the Contracting Parties by sending a written notification to the other Contracting Party through diplomatic channels.
 
-##### Artikel 13. Verzoeken om bescherming
+5. Termination shall take effect on the first day after the expiry of a six month period following the date upon which the notification is received, unless the Contracting Parties mutually agree for the termination to take effect sooner or paragraph 6 applies.
 
-1. Onverminderd de andere bepalingen die de Overeenkomstsluitende Partijen in deze Overeenkomst of het Protocol daarbij hebben vastgesteld, wordt, wanneer een persoon een verzoek om toekenning van de vluchtelingenstatus of enige andere vorm van bescherming waarin het internationale recht of het nationale recht van de Gaststaat voorziet, indient tijdens grenscontroles in een station van de Gaststaat door ambtenaren van de Staat van bestemming, dit verzoek door de autoriteiten van de Gaststaat onderzocht overeenkomstig de regels en procedures van het nationale recht.
+6. Either of the Contracting Parties to this Agreement may terminate this Agreement and its [Protocol](https://wetten.overheid.nl/BWBV0006873) with effect from the same date as that upon which any contracting party to the [Special Arrangement](https://wetten.overheid.nl/jci1.3:c:BWBV0006871) withdraws from that Arrangement, by sending a written notification to the other Contracting Party through diplomatic channels.
 
-2. Dezelfde bepaling is van toepassing wanneer het verzoek wordt ingediend nadat de persoon de in het eerste lid bedoelde grenscontroles is gepasseerd en voordat de deuren van de trein bij de laatste geplande halte op een station op het grondgebied van de Gaststaat sluiten. Deze bepaling laat de regels van het internationaal recht die van toepassing zijn op verzoeken die worden ingediend nadat de deuren zijn gesloten, onverlet.
+##### Article 20. Entry into force
 
-##### Artikel 14. Uniformen en onderscheidingstekens
+1. The Contracting Parties shall notify each other, in writing through diplomatic channels, of the completion of their internal procedures necessary for the entry into force of this Agreement and its [Protocol](https://wetten.overheid.nl/BWBV0006873).
 
-Bij het uitoefenen van hun functies in de Gaststaat, zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=3&z=2025-06-13&g=2025-06-13), in een controlezone, dragen de ambtenaren hun nationale uniformen of andere zichtbare onderscheidingstekens.
+2. The Agreement and its [Protocol](https://wetten.overheid.nl/BWBV0006873) shall enter into force on the date of receipt of the later of the two notifications referred to in paragraph 1.
 
-## DEEL III. SLOTBEPALINGEN
+3. Part II of this Agreement shall cease to have effect on the date upon which the Quadripartite Agreement enters into force.
 
-##### Artikel 15. Implementatiemaatregelen
+4. The [Protocol](https://wetten.overheid.nl/BWBV0006873) to this Agreement shall cease to have effect on the date upon which the Quadripartite Agreement enters into force.
 
-De voor de uitvoering van deze Overeenkomst of haar Protocol vereiste maatregelen kunnen het voorwerp zijn van overeenkomsten of technische of administratieve regelingen tussen de Overeenkomstsluitende Partijen of hun bevoegde autoriteiten.
+##### Article 21. Provisional Application
 
-##### Artikel 16. Wijzigingen
+1. Either Contracting Party may, at the time of its signature or at any time thereafter, notify the other Contracting Party in writing that it will provisionally apply this Agreement and its [Protocol](https://wetten.overheid.nl/BWBV0006873), in full or limited to certain provisions, pending its entry into force in accordance with [Article 20](https://wetten.overheid.nl/BWBV0006873). Such provisional application shall take effect on the date of the later Contracting Party’s notification.
 
-1. Elk van de Overeenkomstsluitende Partijen kan te allen tijde verzoeken om overleg met het oog op het herzien van de bepalingen van deze Overeenkomst of van haar Protocol.
-
-2. De Overeenkomstsluitende Partijen kunnen, met wederzijdse instemming, wijzigingen die zij nodig achten in deze Overeenkomst of haar Protocol aanbrengen.
-
-##### Artikel 17. Beslechting van geschillen
-
-Geschillen met betrekking tot de uitlegging en de toepassing van deze Overeenkomst of haar Protocol worden beslecht door middel van overleg tussen de Overeenkomstsluitende Partijen.
-
-##### Artikel 18. Territoriale toepassing
-
-Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het Europese deel van Nederland.
-
-##### Artikel 19. Opschorting en beëindiging
-
-1. Elke Overeenkomstsluitende Partij kan deze Overeenkomst en haar Protocol geheel of gedeeltelijk opschorten na schriftelijke kennisgeving aan de andere Overeenkomstsluitende Partij langs diplomatieke weg. In deze kennisgeving worden de redenen voor de opschorting vermeld.
-
-2. De opschorting wordt van kracht op de eerste dag na het verstrijken van een tijdvak van zes maanden volgend op de datum waarop de kennisgeving is ontvangen, tenzij de Overeenkomstsluitende Partijen onderling overeenkomen om de opschorting eerder te laten ingaan of het derde lid van toepassing is.
-
-3. Elke Overeenkomstsluitende Partij kan deze Overeenkomst en haar Protocol geheel of gedeeltelijk opschorten met ingang van dezelfde datum als die waarop een Overeenkomstsluitende Partij bij de [Bijzondere Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006871) die Overeenkomst opschort, na schriftelijke kennisgeving aan de andere Overeenkomstsluitende Partij langs diplomatieke weg.
-
-4. Elke Overeenkomstsluitende Partij kan deze Overeenkomst en haar Protocol beëindigen na schriftelijke kennisgeving aan de andere Overeenkomstsluitende Partij langs diplomatieke weg.
-
-5. De beëindiging wordt van kracht op de eerste dag na het verstrijken van een tijdvak van zes maanden volgend op de datum waarop de kennisgeving is ontvangen, tenzij de Overeenkomstsluitende Partijen onderling overeenkomen om de beëindiging eerder te laten ingaan of het zesde lid van toepassing is.
-
-6. Elke Overeenkomstsluitende Partij kan deze Overeenkomst en haar Protocol beëindigen met ingang van dezelfde datum als die waarop een Overeenkomstsluitende Partij bij de [Bijzondere Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006871) zich uit die Overeenkomst terugtrekt, na schriftelijke kennisgeving aan de andere Overeenkomstsluitende Partij langs diplomatieke weg.
-
-##### Artikel 20. Inwerkingtreding
-
-1. De Overeenkomstsluitende Partijen stellen elkaar langs diplomatieke weg schriftelijk in kennis van de voltooiing van hun respectieve interne procedures die vereist zijn voor de inwerkingtreding van deze Overeenkomst en haar Protocol.
-
-2. De Overeenkomst en haar Protocol treden in werking op de datum van ontvangst van de laatste van de in het eerste lid bedoelde twee kennisgevingen.
-
-3. [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=II&z=2025-06-13&g=2025-06-13) van deze Overeenkomst houdt op van toepassing te zijn op de datum waarop de Quadripartiete Overeenkomst in werking treedt.
-
-4. Het Protocol bij deze Overeenkomst houdt op van toepassing te zijn op de datum waarop de Quadripartiete Overeenkomst in werking treedt.
-
-##### Artikel 21. Voorlopige toepassing
-
-1. Elke Overeenkomstsluitende Partij kan bij de ondertekening of op enig tijdstip daarna, de andere Overeenkomstsluitende Partij er schriftelijk van in kennis stellen dat zij deze Overeenkomst en het Protocol daarbij, volledig of beperkt tot een aantal bepalingen, voorlopig zal toepassen, in afwachting van de inwerkingtreding ervan in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=III&artikel=20&z=2025-06-13&g=2025-06-13). Een dergelijke voorlopige toepassing treedt in werking op de datum van de laatste kennisgeving van de Overeenkomstsluitende Partij.
-
-2. Een Overeenkomstsluitende Partij kan de voorlopige toepassing van deze Overeenkomst en het Protocol daarbij beëindigen door de andere Overeenkomstsluitende Partij daarvan schriftelijk in kennis te stellen. Een dergelijke beëindiging wordt van kracht op de eerste dag na het verstrijken van een tijdvak van twee maanden volgend op de datum waarop de kennisgeving is ontvangen, tenzij de Overeenkomstsluitende Partijen onderling overeenkomen om de beëindiging eerder te laten ingaan.
-
-##### Artikel 1
-
-Dit Protocol is van toepassing op het treinverkeer in beide richtingen tussen de Overeenkomstsluitende Partijen, dat via de vaste verbinding loopt.
-
-##### Artikel 2
-
-1. De in de Gaststaat geldende wetgeving is te allen tijde van toepassing in de controlezone. Onverminderd de toepassing van de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=18&z=2025-06-13&g=2025-06-13), hebben de ambtenaren van de Gaststaat het recht om zich op elk ogenblik binnen de controlezone te verplaatsen en te interveniëren om hun door de nationale wetgeving toegekende bevoegdheden uit te oefenen.
-
-2. Bij het uitvoeren van grenscontroles in de Gaststaat passen de ambtenaren van de Staat van bestemming de wetten en voorschriften betreffende grenscontroles in hun Staat toe en voeren zij deze in de controlezone in de Gaststaat op dezelfde wijze uit als op hun eigen grondgebied, volgens de procedure en de modaliteiten als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=3&z=2025-06-13&g=2025-06-13).
-
-##### Artikel 3
-
-1. De ambtenaren van de Staat van bestemming mogen in de controlezone van de Gaststaat bij de uitoefening van hun nationale bevoegdheden uitsluitend personen voor strafbare feiten staande houden of aanhouden tijdens de uitvoering van een grenscontrole op personen, overeenkomstig de wetten en voorschriften betreffende grenscontroles van hun eigen Staat, of personen staande houden of aanhouden die door de autoriteiten van hun eigen Staat worden gezocht, en wel als volgt:
-
-- a. Er mag geen aanhouding of staandehouding plaatsvinden wegens een strafbaar feit waarvoor geen vergelijkbaar strafbaar feit bestaat naar het nationale recht van de Gaststaat.
-
-- b. Bij het uitvoeren van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=2&z=2025-06-13&g=2025-06-13) bedoelde controles kunnen de ambtenaren van de Staat van bestemming van een persoon verlangen dat deze zich aan een nader onderzoek onderwerpt om zich ervan te vergewissen dat deze persoon toestemming kan krijgen om het grondgebied van de Staat van bestemming te betreden. Personen die zich aan een nader onderzoek moeten onderwerpen, kunnen dit onderzoek te allen tijde beëindigen door af te zien van hun wens om het grondgebied van de Staat van bestemming te betreden. In dat geval wordt de persoon begeleid naar de ambtenaren van de Gaststaat, die de nodige maatregelen nemen om hem aan grenscontroles te onderwerpen.
-
-- c. Elke aangehouden of staande gehouden persoon wordt, samen met de eventueel in beslag genomen goederen, onmiddellijk overgedragen aan de bevoegde autoriteiten van de Gaststaat. De Gaststaat ziet erop toe dat de bevoegde autoriteiten beschikbaar zijn om een dergelijke persoon op te vangen en de nodige maatregelen te nemen.
-
-##### Artikel 4
-
-Onverminderd de wetgeving van de Gaststaat worden inbreuken op de wetten en voorschriften met betrekking tot grenscontroles van de Staat van bestemming welke in de in de Gaststaat gelegen controlezone worden vastgesteld, beheerst door de wetten en voorschriften van Staat van bestemming, als ware het dat deze inbreuken op het grondgebied van laatstbedoelde werden gemaakt
-
-##### Artikel 5
-
-1. In de regel worden de grenscontroles door de Gaststaat vóór de grenscontroles door de Staat van bestemming verricht.
-
-2. De ambtenaren van de Staat van bestemming zijn niet gemachtigd tot zodanige controles over te gaan zolang de controles door de Gaststaat niet zijn beëindigd. Wanneer in welke zin ook wordt afgezien van de bedoelde controles, wordt zulks gelijkgesteld met een controle.
-
-3. De ambtenaren van de Gaststaat mogen geen controles meer verrichten zodra de ambtenaren van de Staat van bestemming hun eigen controlewerkzaamheden hebben aangevat, tenzij zij daarvoor de toestemming van de bevoegde ambtenaren van de Staat van bestemming krijgen.
-
-4. Indien de grenscontroles uitzonderlijkerwijs in een andere volgorde verlopen dan zoals bepaald in het eerste lid van dit artikel, mogen de ambtenaren van de Staat van bestemming geen staandehoudingen, aanhoudingen of inbeslagnemingen verrichten zolang de grenscontroles door de Gaststaat niet zijn beëindigd. In dat geval begeleiden de ambtenaren de personen, voertuigen, handelswaar, dieren of andere goederen waarvan de grenscontrole door de Gaststaat nog niet is beëindigd, tot bij de ambtenaren van deze Staat. Indien laatstgenoemde ambtenaren staandehoudingen, aanhoudingen of inbeslagnemingen wensen te verrichten, hebben zij voorrang.
-
-##### Artikel 6
-
-Indien de Staat van bestemming weigert personen, voertuigen, dieren of goederen toe te laten, of indien personen weigeren zich te onderwerpen aan grenscontroles door de Staat van bestemming, of indien deze personen de voertuigen, dieren of goederen die ze meevoeren terugsturen of terug meenemen, kunnen de autoriteiten van de Gaststaat de binnenkomst ervan niet weigeren. Hoe dan ook kunnen de autoriteiten van de Gaststaat alle maatregelen te hunnen opzichte nemen, overeenkomstig het toepasselijke recht van die Staat en wel zodanig dat er voor de Staat van bestemming geen verplichtingen uit voortvloeien.
-
-##### Artikel 7
-
-1. De bepalingen van dit Protocol met betrekking tot de modaliteiten van de naast elkaar uitgevoerde grenscontroles, met name de uitbreiding of inkrimping van het toepassingsgebied ervan, kunnen in gemeenschappelijk overleg door de Regeringen worden gewijzigd in de vorm van akkoorden die bij diplomatieke notawisseling worden bevestigd
-
-2. In spoedeisende gevallen kunnen de plaatselijke vertegenwoordigers van de betrokken autoriteiten in gemeenschappelijk overleg voorlopig die wijzigingen aanbrengen die nodig blijken voor de afbakening van de controlezones. Het daartoe bereikte akkoord wordt onmiddellijk van kracht.
-
-##### Artikel 8
-
-Grenscontroles die in het belang van de volksgezondheid op personen worden verricht, worden binnen de in de Gaststaat gelegen controlezone uitgevoerd door de bevoegde autoriteiten van de Staat van bestemming, overeenkomstig de in die Staat van toepassing zijnde voorschriften.
-
-##### Artikel 9
-
-Wanneer bepaalde gegevens het vermoeden opleveren van een inbreuk, kunnen controles worden verricht op dieren, producten van dierlijke oorsprong, plantaardige producten en levensmiddelen voor menselijke en dierlijke consumptie
-
-Het binnenbrengen in de Staat van bestemming van huisdieren die de reizigers bij zich hebben zonder enig winstoogmerk, kan het voorwerp zijn van controles op grond van de van kracht zijnde reglementering.
-
-##### Artikel 10
-
-1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&artikel=9&z=2025-06-13&g=2025-06-13) bedoelde controles omvatten:
-
-- a. onderzoek van de certificaten of begeleidende documenten, documentaire inspectie genaamd;
-
-- b. fysiek onderzoek, met inbegrip van het nemen van monsters, zo daartoe aanleiding bestaat;
-
-- c. de controle van de transportmiddelen.
-
-2. Dergelijke controles kunnen worden beperkt tot een documentaire inspectie, terwijl fysiek onderzoek kan worden uitgevoerd afhankelijk van de noodzaak.
-
-##### Artikel 11
-
-Naast de uitvoering van veterinaire inspecties van levende dieren kan de invoerende Staat eventueel quarantainemaatregelen opleggen.
-
-##### Artikel 12
-
-De ambtenaren van de Staat van bestemming mogen in de Gaststaat hun nationale uniformen of zichtbare onderscheidingstekens dragen.
-
-##### Artikel 13
-
-1. De autoriteiten van de Gaststaat verlenen de ambtenaren van de Staat van bestemming tijdens de uitoefening van hun functie dezelfde bescherming en bijstand als hun eigen ambtenaren.
-
-2. De strafbepalingen die in de Gaststaat van kracht zijn voor de bescherming van ambtenaren tijdens de uitoefening van hun functie, zijn gelijkelijk van toepassing op de beteugeling van inbreuken die tegen ambtenaren van de Staat van bestemming worden gepleegd tijdens de uitoefening van hun functie.
-
-##### Artikel 14
-
-1. Onverminderd de toepassing van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006873&deel=I&artikel=11&z=2025-06-13&g=2025-06-13) van de Overeenkomst worden de vorderingen tot vergoeding voor verlies, verwondingen of schade die ambtenaren van de Staat van bestemming hebben veroorzaakt of die zij hebben geleden tijdens de uitoefening van hun functie in de Gaststaat, beheerst door het recht en de rechtsmacht van de Staat waaronder deze ambtenaren ressorteren, als ware de schade in deze Staat ontstaan.
-
-2. De ambtenaren van de Staat van bestemming kunnen niet door de autoriteiten van de Gaststaat worden vervolgd voor handelingen die zij in de controlezone hebben verricht tijdens de uitoefening van hun functie. In dit geval vallen zij onder de rechtsmacht van hun Staat, als waren de handelingen in deze Staat verricht.
-
-3. De rechterlijke of de politieautoriteiten van de Gaststaat die akte opmaken van de klachten en de feiten die er verband mee houden vaststellen, dienen alle inlichtingen of bewijsgronden ter kennis te brengen van de bevoegde autoriteit van de Staat van bestemming teneinde eventueel vervolging te kunnen instellen op grond van de in die Staat geldende wetgeving.
-
-##### Artikel 15
-
-1. De ambtenaren van de Staat van bestemming zijn gemachtigd naar hun Staat vrijelijk de bedragen over te maken die zij voor rekening van hun Regering hebben geïnd in de controlezone die is gelegen in de Gaststaat, alsmede de handelswaar en andere goederen die zij ter plaatse in beslag hebben genomen, over te brengen.
-
-2. Zij mogen deze handelswaar of andere goederen ook in de Gaststaat verkopen overeenkomstig de in de Gaststaat zijnde bepalingen, en de opbrengst ervan naar de eigen Staat overmaken.
-
-##### Artikel 16
-
-De bevoegde autoriteiten van elke Overeenkomstsluitende Partij bepalen, na onderling overleg, wat zij elk nodig hebben aan lokalen, installaties en uitrusting. Indien andere partijen voor deze benodigdheden dienen te zorgen, wordt hen daarvan mededeling gedaan door de bevoegde autoriteiten op wiens grondgebied die andere partij is gevestigd.
-
-##### Artikel 17
-
-1. De autoriteiten van elke Overeenkomstsluitende Partij doen alles wat binnen hun bereik ligt om ervoor te zorgen dat de autoriteiten van de andere Overeenkomstsluitende Partij in de Gaststaat beschikken over de lokalen, installaties en uitrusting die zij voor de uitvoering van hun opdracht nodig hebben.
-
-2. De Gaststaat heeft het recht te bepalen dat een exploitant of een derde partij de voor de uitvoering van de opdracht van de andere Overeenkomstsluitende Partij noodzakelijke lokalen, installaties en uitrusting ter beschikking stelt en heeft eveneens het recht de kosten van een dergelijke terbeschikkingstelling te verhalen op een exploitant of een andere derde partij. Een dergelijke terbeschikkingstelling of inning geschiedt door middel van een administratieve overeenkomst tussen de desbetreffende Overeenkomstsluitende Partij en de exploitant of derde partij.
-
-##### Artikel 18
-
-1. De ambtenaren van de Staat van bestemming zijn gemachtigd de goede orde te handhaven in de lokalen waarvan hen in de Gaststaat het alleengebruik is toegekend.
-
-2. De ambtenaren van de Gaststaat hebben geen toegang tot deze lokalen tenzij op uitnodiging van de ambtenaren van de Staat van bestemming of in overeenstemming met het nationale recht van de Gaststaat betreffende de toegang tot en het instellen van een onderzoek in privé-gebouwen.
-
-##### Artikel 19
-
-De goederen welke de ambtenaren van de Staat van bestemming nodig hebben voor de uitvoering van hun opdracht in de Gaststaat, zijn vrijgesteld van alle belastingen, heffingen en in- en uitvoerrechten.
-
-##### Artikel 20
-
-1. De ambtenaren van de Staat van bestemming die hun functie in de Gaststaat uitoefenen hebben de toelating om met hun nationale autoriteiten in verbinding te staan.
-
-2. Daartoe beijveren de autoriteiten van de Gaststaat zich om elk verzoek van de autoriteiten van de Staat van bestemming aangaande de verbindingsmiddelen die zij nodig hebben voor de uitoefening van hun functie in te willigen en stellen zij de gebruiksvoorwaarden vast.
-
-3. De Gaststaat heeft het recht te bepalen dat een exploitant of een derde partij de voor de uitvoering van de taken van de andere Overeenkomstsluitende Partijen noodzakelijke lokalen, installaties en uitrusting ter beschikking stelt en heeft eveneens het recht de kosten van een dergelijke terbeschikkingstelling te verhalen op een exploitant of een andere derde partij. Een dergelijke terbeschikkingstelling of inning geschiedt door middel van een administratieve overeenkomst tussen de relevante Overeenkomstsluitende Partij en de exploitant of derde partij.
+2. A Contracting Party may terminate the provisional application of this Agreement and its [Protocol](https://wetten.overheid.nl/BWBV0006873) by giving written notice to the other Contracting Party. Such termination shall take effect on the first day following the expiry of a two month period after the date upon which the notification is received, unless the Contracting Parties mutually agree for the termination to take effect sooner.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Agreement.
 
 DONE at The Hague on this tenth day of July 2020, in duplicate, in the English language.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 A. BROEKERS-KNOL
 
-**For the Government of the United Kingdom of Great Britain and Northern Ireland**
+*For the Government of the United Kingdom of Great Britain and Northern Ireland*
 
 P.M.A. WILSON CMG

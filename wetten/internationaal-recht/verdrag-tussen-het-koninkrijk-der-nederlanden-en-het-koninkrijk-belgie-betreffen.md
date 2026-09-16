@@ -1,62 +1,21 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de territoriale rechterlijke bevoegdheid, betreffende het faillissement en betreffende het gezag en de tenuitvoerlegging van rechterlijke beslissingen, van scheidsrechterlijke uitspraken en van authentieke akten"
 identifier: "BWBV0006117"
-country: "nl"
-rank: "verdrag"
-publication_date: "1929-09-01"
-last_updated: "1929-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006117"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005038383"
-version_id: "10005368122"
-internal_id: "C10008271941"
-label_id: "10005021674"
-dtd_version: "2.0"
-original_entry_into_force: "1929-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006117/1929-09-01/0"
-intitule_bron: "Stb.1929-405"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1929-07-29"
-intitule_published: "1929-08-05"
-intitule_in_force: "1929-08-05"
-intitule_status: "goed"
-original_publication: "Stb.1929-405"
-original_signed_date: "1929-07-29"
-original_published_date: "1929-08-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1929-09-01"
-jci_1_3: "jci1.3:c:BWBV0006117&z=1929-09-01&g=1929-09-01"
-jci_1_0: "1.0:c:BWBV0006117&g=1929-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "1929-07-29"
-entry_into_force: "1929-09-01"
+publicatiedatum: 1929-09-01
+laatste_update: 1929-09-01
+status: geldig
+toestand: 1929-09-01
+bron: "https://wetten.overheid.nl/BWBV0006117"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de territoriale rechterlijke bevoegdheid, betreffende het faillissement en betreffende het gezag en de tenuitvoerlegging van rechterlijke beslissingen, van scheidsrechterlijke uitspraken en van authentieke akten
 
-Hare Majesteit de Koningin der Nederlanden en Zijne Majesteit de Koning der Belgen, het nut erkennende om in gemeen overleg eenige eenvormige regelen vast te stellen betreffende de territoriale rechterlijke bevoegdheid, betreffende het faillissement en betreffende het gezag en de tenuitvoerlegging van rechterlijke beslissingen, van scheidsrechterlijke uitspraken en van authentieke akten, hebben besloten te dien einde een verdrag te sluiten, en hebben tot Hunne Gevolmachtigden benoemd, te weten:
+*Hare Majesteit de Koningin der Nederlanden en Zijne Majesteit de Koning der Belgen, het nut erkennende om in gemeen overleg eenige eenvormige regelen vast te stellen betreffende de territoriale rechterlijke bevoegdheid, betreffende het faillissement en betreffende het gezag en de tenuitvoerlegging van rechterlijke beslissingen, van scheidsrechterlijke uitspraken en van authentieke akten, hebben besloten te dien einde een verdrag te sluiten, en hebben tot Hunne Gevolmachtigden benoemd, te weten: HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN: Mr. B. C. J. LODER, Rechter in het Permanente Hof van Internationale Justitie; Mr. J. Ph. SUYLING, Hoogleeraar aan de Universiteit te Utrecht; en Mr. J. KOSTERS, Raadsheer in den Hoogen Raad der Nederlanden; ZIJNE MAJESTEIT DE KONING DER BELGEN: den Heer A. GODDYN, Voorzitter eener Kamer bij het Verbrekingshof; den Heer PAUL LECLERCQ, Eerste Advocaat-Generaal bij het Verbrekingshof; den Heer V. KINON, Directeur-Generaal aan het Departement van Justitie; en den Heer M. COSTERMANS, Directeur-Generaal aan het Departement van Buitenlandsche Zaken, die, na wederzijdsche mededeeling van hunne in goeden en behoorlijken vorm bevonden volmachten, omtrent de volgende bepalingen zijn overeengekomen:*
 
-HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN:
-
-Mr. B. C. J. LODER, Rechter in het Permanente Hof van Internationale Justitie;
-
-Mr. J. Ph. SUYLING, Hoogleeraar aan de Universiteit te Utrecht; en
-
-Mr. J. KOSTERS, Raadsheer in den Hoogen Raad der Nederlanden;
-
-ZIJNE MAJESTEIT DE KONING DER BELGEN:
-
-den Heer A. GODDYN, Voorzitter eener Kamer bij het Verbrekingshof;
-
-den Heer PAUL LECLERCQ, Eerste Advocaat-Generaal bij het Verbrekingshof;
-
-den Heer V. KINON, Directeur-Generaal aan het Departement van Justitie; en
-
-den Heer M. COSTERMANS, Directeur-Generaal aan het Departement van Buitenlandsche Zaken,
-
-die, na wederzijdsche mededeeling van hunne in goeden en behoorlijken vorm bevonden volmachten, omtrent de volgende bepalingen zijn overeengekomen:
-
-## TITEL I. Van de territoriale bevoegdheid.
+### TITEL I. Van de territoriale bevoegdheid.
 
 ##### Artikel 1
 
@@ -114,7 +73,7 @@ De voorloopige of conservatoire maatregelen, voorzien in de Nederlandsche of Bel
 
 In alle gevallen, waarvoor de voorgaande artikelen noch regels van gemeenschappelijke bevoegdheid, noch eene afwijking van de nationale wetten inhouden, wordt de bevoegdheid in elken Staat geregeld door zijne eigen wetgeving.
 
-## TITEL II. Van het gezag en de tenuitvoerlegging van rechterlijke beslissingen, van scheidsrechterlijke uitspraken en van authentieke akten.
+### TITEL II. Van het gezag en de tenuitvoerlegging van rechterlijke beslissingen, van scheidsrechterlijke uitspraken en van authentieke akten.
 
 ##### Artikel 11
 
@@ -192,7 +151,7 @@ Bij het verleenen van het exequatur beveelt de rechter, indien daartoe aanleidin
 
 De bepalingen van dezen titel zijn van toepassing, welke ook de nationaliteit van partijen zij, behoudens de uitzonderingen, voortspruitend uit de internationale verdragen.
 
-## TITEL III. Van het faillissement.
+### TITEL III. Van het faillissement.
 
 ##### Artikel 20
 
@@ -232,7 +191,7 @@ De gevolgen van surséance van betaling of van akkoorden ter voorkoming van fail
 
 Elke Staat is bevoegd, om afzonderlijk de bevoegdheid te regelen ten aanzien van den koopman, die noch eene woonplaats noch een handelskantoor heeft in een der beide Staten. In dat geval zullen de artikelen 21 en volgende niet toepasselijk zijn.
 
-## TITEL IV. Slotbepalingen.
+### TITEL IV. Slotbepalingen.
 
 ##### Artikel 26
 
@@ -258,8 +217,8 @@ Ter oorkonde waarvan de Gevolmachtigden dit verdrag in de Nederlandsche en Frans
 
 Gedaan in dubbel te Brussel, den achtentwintigsten Maart 1900 vijfentwintig.
 
-(**L. S.**) LODER.
+(*L. S.*) LODER.
 
-(**L. S.**) J. PH. SUYLING.
+(*L. S.*) J. PH. SUYLING.
 
-(**L. S.**) J. KOSTERS.
+(*L. S.*) J. KOSTERS.

@@ -1,43 +1,18 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika inzake samenwerking op het gebied van onderwijs en wetenschappen, kunst en cultuur, gezondheid, welzijn en sport"
 identifier: "BWBV0006333"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-09-30"
-last_updated: "1996-09-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006333"
+categorie: "Gezondheidszorg"
 soort: "verdrag"
-stam_id: "10005177413"
-version_id: "10005554052"
-internal_id: "C10008584501"
-label_id: "10005160274"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006333/1996-09-30/0"
-intitule_bron: "Trb.1996-294"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1996-11-01"
-intitule_status: "nogniet"
-original_publication: "Trb.1996-294"
-original_published_date: "1996-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-294"
-jci_1_3: "jci1.3:c:BWBV0006333&z=1996-09-30&g=1996-09-30"
-jci_1_0: "1.0:c:BWBV0006333&g=1996-09-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "1996-11-01"
+laatste_update: 1996-09-30
+status: geldig
+toestand: 1996-09-30
+bron: "https://wetten.overheid.nl/BWBV0006333"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika inzake samenwerking op het gebied van onderwijs en wetenschappen, kunst en cultuur, gezondheid, welzijn en sport
 
-Preambule
-
-Overwegende dat het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika (hierna gezamenlijk te noemen „de Partijen” en afzonderlijk „de Partij”), de vriendschappelijke banden en het wederzijds begrip tussen hun volkeren wensen te bestendigen en aan te halen;
-
-Overwegende dat de Partijen zich bewust zijn van de wenselijkheid van het in zo groot mogelijke mate bevorderen van wederzijdse kennis en begrip van hun respectieve culturen en hun verworvenheden op intellectueel gebied en op het gebied van onderwijs, kunst en sport, alsmede van hun geschiedenis en levenswijze, door middel van vriendschappelijke samenwerking tussen hun respectieve landen; en
-
-Overwegende dat de Partijen de kwaliteit van het leven van hun volkeren wensen te verbeteren en te verhogen;
-
-Zijn de Partijen thans derhalve het volgende overeengekomen:
+*Preambule Overwegende dat het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika (hierna gezamenlijk te noemen „de Partijen” en afzonderlijk „de Partij”), de vriendschappelijke banden en het wederzijds begrip tussen hun volkeren wensen te bestendigen en aan te halen; Overwegende dat de Partijen zich bewust zijn van de wenselijkheid van het in zo groot mogelijke mate bevorderen van wederzijdse kennis en begrip van hun respectieve culturen en hun verworvenheden op intellectueel gebied en op het gebied van onderwijs, kunst en sport, alsmede van hun geschiedenis en levenswijze, door middel van vriendschappelijke samenwerking tussen hun respectieve landen; en Overwegende dat de Partijen de kwaliteit van het leven van hun volkeren wensen te verbeteren en te verhogen; Zijn de Partijen thans derhalve het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -113,10 +88,10 @@ TEN BLIJKE WAARVAN de vertegenwoordigers van de Partijen, hiertoe naar behoren g
 
 GEDAAN te Pretoria, op 30 september negentienhonderd zesennegentig.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) H. A. F. M. O. VAN MIERLO
 
-**Voor de Republiek Zuid-Afrika**
+*Voor de Republiek Zuid-Afrika*
 
 (w.g.) A. PAHAD

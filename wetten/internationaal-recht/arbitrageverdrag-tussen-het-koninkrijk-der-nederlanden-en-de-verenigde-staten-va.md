@@ -1,54 +1,19 @@
 ---
 title: "Arbitrageverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika"
 identifier: "BWBV0006114"
-country: "nl"
-rank: "verdrag"
-publication_date: "1930-07-17"
-last_updated: "1930-07-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006114"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005037893"
-version_id: "10005367282"
-internal_id: "C10008270571"
-label_id: "10005020874"
-dtd_version: "2.0"
-original_entry_into_force: "1930-07-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006114/1930-07-17/0"
-intitule_bron: "Stb.1930-359"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1930-08-08"
-intitule_published: "1930-08-28"
-intitule_in_force: "1930-08-28"
-intitule_status: "goed"
-original_publication: "Stb.1930-359"
-original_signed_date: "1930-08-08"
-original_published_date: "1930-08-28"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1930-07-17"
-jci_1_3: "jci1.3:c:BWBV0006114&z=1930-07-17&g=1930-07-17"
-jci_1_0: "1.0:c:BWBV0006114&g=1930-07-17"
-citeertitel_status: "redactioneel"
-signed_date: "1930-08-08"
-entry_into_force: "1930-07-17"
+publicatiedatum: 1930-07-17
+laatste_update: 1930-07-17
+status: geldig
+toestand: 1930-07-17
+bron: "https://wetten.overheid.nl/BWBV0006114"
+opgehaald: 2026-09-16
 ---
+
 # Arbitrageverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika
 
-Hare Majesteit de Koningin der Nederlanden en de President van de Vereenigde Staten van Amerika;
-
-Besloten om, voor zoover het in hunne macht ligt, elke onderbreking in de vreedzame betrekkingen, die altijd tusschen de beide volkeren hebben bestaan, te voorkomen;
-
-Wenschende opnieuw tot uiting te brengen, dat zij als richtlijn van hunne staatkunde beschouwen alle geschillen, die vatbaar zijn voor rechterlijke beslissing, welke tusschen hen mochten rijzen, te onderwerpen aan onpartijdige beslissing; en
-
-Verlangende door hun voorbeeld niet alleen te doen uitkomen, dat zij oorlog als een werktuig van nationale politiek in hunne wederkeerige betrekkingen veroordeelen, maar ook het tijdstip te verhaasten, waarop internationale overeenkomsten tot vreedzame regeling van internationale geschillen een zoodanigen graad van volkomenheid zullen hebben bereikt, dat voor altijd de mogelijkheid van oorlog tusschen welke mogendheden der wereld ook, zal zijn verdwenen;
-
-Hebben besloten een nieuw arbitrageverdrag te sluiten, waardoor het te Washington op 2 Mei 1908 geteekende arbitrageverdrag, dat door tijdsverloop op 25 Maart 1930 afloopt, in strekking en daarin vervatte verplichtingen wordt verruimd, en hebben voor dat doel onderscheidenlijk als hunne gevolmachtigden aangewezen:
-
-Hare Majesteit de Koningin der Nederlanden: Dr. J. H. VAN ROYEN, Hoogstderzelver Buitengewoon Gezant en Gevolmachtigd Minister in de Vereenigde Staten van Amerika;
-
-De President van de Vereenigde Staten van Amerika: JOSEPH P. COTTON, waarnemend Secretaris van Staat van de Vereenigde Staten;
-
-die, na elkander hunne volmachten te hebben medegedeeld en in goede en behoorlijke orde bevonden, omtrent de volgende artikelen zijn overeengekomen:
+*Hare Majesteit de Koningin der Nederlanden en de President van de Vereenigde Staten van Amerika; Besloten om, voor zoover het in hunne macht ligt, elke onderbreking in de vreedzame betrekkingen, die altijd tusschen de beide volkeren hebben bestaan, te voorkomen; Wenschende opnieuw tot uiting te brengen, dat zij als richtlijn van hunne staatkunde beschouwen alle geschillen, die vatbaar zijn voor rechterlijke beslissing, welke tusschen hen mochten rijzen, te onderwerpen aan onpartijdige beslissing; en Verlangende door hun voorbeeld niet alleen te doen uitkomen, dat zij oorlog als een werktuig van nationale politiek in hunne wederkeerige betrekkingen veroordeelen, maar ook het tijdstip te verhaasten, waarop internationale overeenkomsten tot vreedzame regeling van internationale geschillen een zoodanigen graad van volkomenheid zullen hebben bereikt, dat voor altijd de mogelijkheid van oorlog tusschen welke mogendheden der wereld ook, zal zijn verdwenen; Hebben besloten een nieuw arbitrageverdrag te sluiten, waardoor het te Washington op 2 Mei 1908 geteekende arbitrageverdrag, dat door tijdsverloop op 25 Maart 1930 afloopt, in strekking en daarin vervatte verplichtingen wordt verruimd, en hebben voor dat doel onderscheidenlijk als hunne gevolmachtigden aangewezen: Hare Majesteit de Koningin der Nederlanden: Dr. J. H. VAN ROYEN, Hoogstderzelver Buitengewoon Gezant en Gevolmachtigd Minister in de Vereenigde Staten van Amerika; De President van de Vereenigde Staten van Amerika: JOSEPH P. COTTON, waarnemend Secretaris van Staat van de Vereenigde Staten; die, na elkander hunne volmachten te hebben medegedeeld en in goede en behoorlijke orde bevonden, omtrent de volgende artikelen zijn overeengekomen:*
 
 ##### Artikel I
 
@@ -60,13 +25,13 @@ De voor elk geval tot stand te brengen bijzondere overeenkomst zal aan de zijde 
 
 De bepalingen van dit verdrag zullen niet worden ingeroepen met betrekking tot eenig geschil, waarvan het onderwerp
 
-- a). behoort tot de eigen bevoegdheid van een der Hooge Verdragsluitende Partijen;
+- a) behoort tot de eigen bevoegdheid van een der Hooge Verdragsluitende Partijen;
 
-- b). de belangen van derde Partijen raakt;
+- b) de belangen van derde Partijen raakt;
 
-- c). beheerscht wordt door de handhaving der aloude, gewoonlijk als de Monroe-leer gekenmerkte houding der Vereenigde Staten met betrekking tot Amerikaansche aangelegenheden, of aan die handhaving raakt;
+- c) beheerscht wordt door de handhaving der aloude, gewoonlijk als de Monroe-leer gekenmerkte houding der Vereenigde Staten met betrekking tot Amerikaansche aangelegenheden, of aan die handhaving raakt;
 
-- d). beheerscht wordt door de inachtneming van de verplichtingen van Nederland in overeenstemming met het Handvest van den Volkenbond of aan die inachtneming raakt.
+- d) beheerscht wordt door de inachtneming van de verplichtingen van Nederland in overeenstemming met het Handvest van den Volkenbond of aan die inachtneming raakt.
 
 ##### Artikel III
 

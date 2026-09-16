@@ -1,54 +1,19 @@
 ---
 title: "Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van het Caribische deel van Nederland, en de Verenigde Staten van Amerika inzake het luchtvervoer tussen het Caribische deel van Nederland en de Verenigde Staten van Amerika"
 identifier: "BWBV0006717"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-10-01"
-last_updated: "2018-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006717"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005424913"
-version_id: "10005871022"
-internal_id: "C10009433661"
-label_id: "10005407614"
-dtd_version: "2.0"
-original_entry_into_force: "2018-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006717/2018-10-01/0"
-intitule_bron: "Trb.2018-22"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-02-05"
-intitule_in_force: "2018-09-07"
-intitule_status: "goed"
-original_publication: "Trb.2018-22"
-original_published_date: "2018-02-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2018-22"
-entry_into_force_date: "2018-10-01"
-jci_1_3: "jci1.3:c:BWBV0006717&z=2018-10-01&g=2018-10-01"
-jci_1_0: "1.0:c:BWBV0006717&g=2018-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-10-01"
+publicatiedatum: 2018-10-01
+laatste_update: 2018-10-01
+status: geldig
+toestand: 2018-10-01
+bron: "https://wetten.overheid.nl/BWBV0006717"
+opgehaald: 2026-09-16
 ---
+
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van het Caribische deel van Nederland, en de Verenigde Staten van Amerika inzake het luchtvervoer tussen het Caribische deel van Nederland en de Verenigde Staten van Amerika
 
-The Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands,
-
-and
-
-the United States of America, (hereinafter referred to as “the Parties”);
-
-Desiring to promote an international aviation system based on competition among airlines in the marketplace with minimum government interference and regulation;
-
-Desiring to make it possible for airlines to offer the traveling and shipping public a variety of service options, and wishing to encourage individual airlines to develop and implement innovative and competitive prices;
-
-Desiring to facilitate the expansion of international air transport opportunities;
-
-Desiring to ensure the highest degree of safety and security in international air transport and reaffirming their grave concern about acts or threats against the security of aircraft, which jeopardize the safety of persons or property, adversely affect the operation of air transportation, and undermine public confidence in the safety of civil aviation; and
-
-Being Parties to the [Convention on International Civil Aviation](onbekend), done at Chicago on December 7, 1944;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands, and the United States of America, (hereinafter referred to as “the Parties”); Desiring to promote an international aviation system based on competition among airlines in the marketplace with minimum government interference and regulation; Desiring to make it possible for airlines to offer the traveling and shipping public a variety of service options, and wishing to encourage individual airlines to develop and implement innovative and competitive prices; Desiring to facilitate the expansion of international air transport opportunities; Desiring to ensure the highest degree of safety and security in international air transport and reaffirming their grave concern about acts or threats against the security of aircraft, which jeopardize the safety of persons or property, adversely affect the operation of air transportation, and undermine public confidence in the safety of civil aviation; and Being Parties to the Convention on International Civil Aviation, done at Chicago on December 7, 1944; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
@@ -64,11 +29,11 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 - 5. “Caribbean part of the Netherlands” means the islands of Bonaire, Sint Eustatius and Saba;
 
-- 6. “Convention” means the [Convention on International Civil Aviation](onbekend), done at Chicago December 7, 1944, and includes:
+- 6. “Convention” means the [Convention on International Civil Aviation](https://wetten.overheid.nl/BWBV0005507), done at Chicago December 7, 1944, and includes:
 
-- a). any amendment that has entered into force under [Article 94(a) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) and has been ratified by both Parties; and
+   - a) any amendment that has entered into force under [Article 94(a) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) and has been ratified by both Parties; and
 
-- b). any Annex or any amendment thereto adopted under [Article 90 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90), insofar as such Annex or amendment is at any given time effective for both Parties;
+   - b) any Annex or any amendment thereto adopted under [Article 90 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90), insofar as such Annex or amendment is at any given time effective for both Parties;
 
 - 7. “full cost” means the cost of providing service plus a reasonable charge for administrative overhead;
 
@@ -90,37 +55,37 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 1. Each Party grants to the other Party the following rights for the conduct of international air transportation by the airlines of the other Party:
 
-- a). the right to fly across its territory without landing;
+- a) the right to fly across its territory without landing;
 
-- b). the right to make stops in its territory for non-traffic purposes;
+- b) the right to make stops in its territory for non-traffic purposes;
 
-- c). the right to perform international air transportation between points on the following routes:
+- c) the right to perform international air transportation between points on the following routes:
 
-- (i). for airlines of the United States, from points behind the United States via the United States and intermediate points to any point or points in the Caribbean part of the Netherlands and beyond; and for all-cargo service, between the Caribbean part of the Netherlands and any point or points;
+   - (i) for airlines of the United States, from points behind the United States via the United States and intermediate points to any point or points in the Caribbean part of the Netherlands and beyond; and for all-cargo service, between the Caribbean part of the Netherlands and any point or points;
 
-- (ii). for airlines of the Caribbean part of the Netherlands, from points behind the Caribbean part of the Netherlands, via the Caribbean part of the Netherlands, and intermediate points to any point or points in the United States and beyond; and for all-cargo service, between the United States and any point or points; and
+   - (ii) for airlines of the Caribbean part of the Netherlands, from points behind the Caribbean part of the Netherlands, via the Caribbean part of the Netherlands, and intermediate points to any point or points in the United States and beyond; and for all-cargo service, between the United States and any point or points; and
 
 - d. the rights otherwise specified in this Agreement.
 
 2. Each airline of a Party may, on any or all flights and at its option:
 
-- a). operate flights in either or both directions;
+- a) operate flights in either or both directions;
 
-- b). combine different flight numbers within one aircraft operation;
+- b) combine different flight numbers within one aircraft operation;
 
-- c). serve points on their respective routes in any combination and in any order;
+- c) serve points on their respective routes in any combination and in any order;
 
-- d). omit stops at any point or points;
+- d) omit stops at any point or points;
 
-- e). transfer traffic from any of its aircraft to any of its other aircraft at any point;
+- e) transfer traffic from any of its aircraft to any of its other aircraft at any point;
 
-- f). serve points behind any point in its territory, with or without change of aircraft or flight number and hold out and advertise such services to the public as through services;
+- f) serve points behind any point in its territory, with or without change of aircraft or flight number and hold out and advertise such services to the public as through services;
 
-- g). make stopovers at any points whether within or outside the territory of either Party;
+- g) make stopovers at any points whether within or outside the territory of either Party;
 
-- h). carry transit traffic through the other Party’s territory; and
+- h) carry transit traffic through the other Party’s territory; and
 
-- i). combine traffic on the same aircraft regardless of where such traffic originates;
+- i) combine traffic on the same aircraft regardless of where such traffic originates;
 
 without directional or geographic limitation and without loss of any right to carry traffic otherwise permissible under this Agreement, provided that, with the exception of all-cargo services, the transportation is part of a service that serves a point in the homeland of the airline.
 
@@ -134,29 +99,29 @@ without directional or geographic limitation and without loss of any right to ca
 
 1. Each Party, on receipt of applications from an airline of the other Party, in the form and manner prescribed for operating authorizations and technical permissions, shall grant appropriate authorizations and permissions with minimum procedural delay, provided that:
 
-- a). substantial ownership and effective control of that airline are vested in:
+- a) substantial ownership and effective control of that airline are vested in:
 
-- (i). for airlines of the United States, the Government of the United States, nationals of the United States, or both;
+   - (i) for airlines of the United States, the Government of the United States, nationals of the United States, or both;
 
-- (ii). for airlines of the Caribbean part of the Netherlands, nationals of the Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands, as defined in [Article 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-10-01&g=2018-10-01) (Definitions) of this Agreement;
+   - (ii) for airlines of the Caribbean part of the Netherlands, nationals of the Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands, as defined in [Article 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-10-01&g=2018-10-01) (Definitions) of this Agreement;
 
-- b). the airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transportation by the Party considering the application or applications; and
+- b) the airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transportation by the Party considering the application or applications; and
 
-- c). the other Party is maintaining and administering the provisions set forth in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=6&z=2018-10-01&g=2018-10-01) (Safety) and [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=7&z=2018-10-01&g=2018-10-01) (Aviation Security) of this Agreement.
+- c) the other Party is maintaining and administering the provisions set forth in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=6&z=2018-10-01&g=2018-10-01) (Safety) and [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=7&z=2018-10-01&g=2018-10-01) (Aviation Security) of this Agreement.
 
 ##### Article 4. Revocation of Authorization
 
 1. Either Party may revoke, suspend, limit, or impose conditions on the operating authorizations or technical permissions of an airline where:
 
-- a). that airline is not an airline of the other Party under [Article 1(4)](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-10-01&g=2018-10-01) (Definitions) of this Agreement;
+- a) that airline is not an airline of the other Party under [Article 1(4)](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-10-01&g=2018-10-01) (Definitions) of this Agreement;
 
-- b). substantial ownership and effective control of that airline are not vested in:
+- b) substantial ownership and effective control of that airline are not vested in:
 
-- (i). for airlines of the United States, the Government of the United States, nationals of the United States, or both;
+   - (i) for airlines of the United States, the Government of the United States, nationals of the United States, or both;
 
-- (ii). for airlines of the Caribbean part of the Netherlands, nationals of the Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands, as defined in [Article 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-10-01&g=2018-10-01) (Definitions) of this Agreement; or
+   - (ii) for airlines of the Caribbean part of the Netherlands, nationals of the Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands, as defined in [Article 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=1&z=2018-10-01&g=2018-10-01) (Definitions) of this Agreement; or
 
-- c). that airline has failed to comply with the laws and regulations referred to in [Article 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=5&z=2018-10-01&g=2018-10-01) (Application of Laws) of this Agreement.
+- c) that airline has failed to comply with the laws and regulations referred to in [Article 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006717&artikel=5&z=2018-10-01&g=2018-10-01) (Application of Laws) of this Agreement.
 
 2. Unless immediate action is essential to prevent further noncompliance with subparagraph 1c of this Article, the rights established by this Article shall be exercised only after consultation with the other Party.
 
@@ -204,11 +169,11 @@ without directional or geographic limitation and without loss of any right to ca
 
 7. In operating or holding out the authorized services under this Agreement, any airline of one Party may enter into cooperative marketing arrangements such as, but not limited to, blocked-space, code-sharing, or leasing arrangements, with
 
-- a). an airline or airlines of either Party;
+- a) an airline or airlines of either Party;
 
-- b). an airline or airlines of a third country; and
+- b) an airline or airlines of a third country; and
 
-- c). a surface transportation provider of any country;
+- c) a surface transportation provider of any country;
 
 provided that all participants in such arrangements (i) hold the appropriate authority and (ii) meet the requirements normally applied to such arrangements.
 
@@ -220,13 +185,13 @@ provided that all participants in such arrangements (i) hold the appropriate aut
 
 2. There shall also be exempt, on the basis of reciprocity, from the taxes, levies, duties, fees, and charges referred to in paragraph 1 of this Article, with the exception of charges based on the cost of the service provided:
 
-- a). aircraft stores introduced into or supplied in the territory of a Party and taken on board, within reasonable limits, for use on outbound aircraft of an airline of the other Party engaged in international air transportation, even when these stores are to be used on a part of the journey performed over the territory of the Party in which they are taken on board;
+- a) aircraft stores introduced into or supplied in the territory of a Party and taken on board, within reasonable limits, for use on outbound aircraft of an airline of the other Party engaged in international air transportation, even when these stores are to be used on a part of the journey performed over the territory of the Party in which they are taken on board;
 
-- b). ground equipment and spare parts (including engines) introduced into the territory of a Party for the servicing, maintenance, or repair of aircraft of an airline of the other Party used in international air transportation;
+- b) ground equipment and spare parts (including engines) introduced into the territory of a Party for the servicing, maintenance, or repair of aircraft of an airline of the other Party used in international air transportation;
 
-- c). fuel, lubricants, and consumable technical supplies introduced into or supplied in the territory of a Party for use in an aircraft of an airline of the other Party engaged in international air transportation, even when these supplies are to be used on a part of the journey performed over the territory of the Party in which they are taken on board; and
+- c) fuel, lubricants, and consumable technical supplies introduced into or supplied in the territory of a Party for use in an aircraft of an airline of the other Party engaged in international air transportation, even when these supplies are to be used on a part of the journey performed over the territory of the Party in which they are taken on board; and
 
-- d). promotional and advertising materials introduced into or supplied in the territory of one Party and taken on board, within reasonable limits, for use on outbound aircraft of an airline of the other Party engaged in international air transportation, even when these materials are to be used on a part of the journey performed over the territory of the Party in which they are taken on board.
+- d) promotional and advertising materials introduced into or supplied in the territory of one Party and taken on board, within reasonable limits, for use on outbound aircraft of an airline of the other Party engaged in international air transportation, even when these materials are to be used on a part of the journey performed over the territory of the Party in which they are taken on board.
 
 3). Equipment and supplies referred to in paragraphs 1 and 2 of this Article may be required to be kept under the supervision or control of the appropriate authorities.
 
@@ -256,11 +221,11 @@ provided that all participants in such arrangements (i) hold the appropriate aut
 
 1. Each Party shall allow prices for air transportation to be established by airlines of both Parties based upon commercial considerations in the marketplace. Intervention by the Parties shall be limited to:
 
-- a). prevention of unreasonably discriminatory prices or practices;
+- a) prevention of unreasonably discriminatory prices or practices;
 
-- b). protection of consumers from prices that are unreasonably high or restrictive due to the abuse of a dominant position; and
+- b) protection of consumers from prices that are unreasonably high or restrictive due to the abuse of a dominant position; and
 
-- c). protection of airlines from prices that are artificially low due to direct or indirect governmental subsidy or support.
+- c) protection of airlines from prices that are artificially low due to direct or indirect governmental subsidy or support.
 
 2. Prices for international air transportation between the territories of the Parties shall not be required to be filed. Notwithstanding the foregoing, the airlines of the Parties shall provide immediate access, on request, to information on historical, existing, and proposed prices to the aeronautical authorities of the Parties in a manner and format acceptable to those aeronautical authorities.
 
@@ -276,9 +241,9 @@ Either Party may, at any time, request consultations relating to this Agreement.
 
 2. Arbitration shall be by a tribunal of three arbitrators to be constituted as follows:
 
-- a). Within 30 days after the receipt of a request for arbitration, each Party shall name one arbitrator. Within 60 days after these two arbitrators have been named, they shall by agreement appoint a third arbitrator, who shall act as President of the arbitral tribunal;
+- a) Within 30 days after the receipt of a request for arbitration, each Party shall name one arbitrator. Within 60 days after these two arbitrators have been named, they shall by agreement appoint a third arbitrator, who shall act as President of the arbitral tribunal;
 
-- b). If either Party fails to name an arbitrator, or if the third arbitrator is not appointed, in accordance with subparagraph a of this paragraph, either Party may request the President of the Council of the International Civil Aviation Organization to appoint the necessary arbitrator or arbitrators within 30 days. If the President of the Council is of the same nationality as one of the Parties, the most senior Vice President who is not disqualified on that ground shall make the appointment.
+- b) If either Party fails to name an arbitrator, or if the third arbitrator is not appointed, in accordance with subparagraph a of this paragraph, either Party may request the President of the Council of the International Civil Aviation Organization to appoint the necessary arbitrator or arbitrators within 30 days. If the President of the Council is of the same nationality as one of the Parties, the most senior Vice President who is not disqualified on that ground shall make the appointment.
 
 3. The arbitral tribunal shall be entitled to decide the extent of its jurisdiction under this Agreement and, except as otherwise agreed, shall establish its own procedural rules. The tribunal, once formed, may at the request of either Party recommend interim relief measures pending its final determination. If either of the Parties requests it or the tribunal deems it appropriate, a conference to determine the precise issues to be arbitrated and the specific procedures to be followed shall be held not later than 15 days after the tribunal is fully constituted.
 
@@ -310,10 +275,10 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 
 DONE at Washington, this 17th day of January 2018, in two originals, in the English language.
 
-**For the Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands,**
+*For the Kingdom of the Netherlands, in respect of the Caribbean part of the Netherlands,*
 
 HENDRIK JAN JURRIAAN SCHUWER
 
-**For the United States of America,**
+*For the United States of America,*
 
 MANISHA SINGH

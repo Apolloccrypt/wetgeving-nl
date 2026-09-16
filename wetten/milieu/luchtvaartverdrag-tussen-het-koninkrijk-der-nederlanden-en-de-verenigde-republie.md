@@ -1,54 +1,19 @@
 ---
 title: "Luchtvaartverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Republiek Tanzania"
 identifier: "BWBV0006371"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-07-01"
-last_updated: "2016-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006371"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005204883"
-version_id: "10005587822"
-internal_id: "C10009096091"
-label_id: "10005187964"
-dtd_version: "2.0"
-original_entry_into_force: "2016-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006371/2016-07-01/0"
-intitule_bron: "Trb.2014-131"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-07-08"
-intitule_in_force: "2016-06-16"
-intitule_status: "goed"
-original_publication: "Trb.2014-131"
-original_published_date: "2014-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2014-131"
-entry_into_force_date: "2016-07-01"
-jci_1_3: "jci1.3:c:BWBV0006371&z=2016-07-01&g=2016-07-01"
-jci_1_0: "1.0:c:BWBV0006371&g=2016-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-07-01"
+publicatiedatum: 2016-07-01
+laatste_update: 2016-07-01
+status: geldig
+toestand: 2016-07-01
+bron: "https://wetten.overheid.nl/BWBV0006371"
+opgehaald: 2026-09-16
 ---
+
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Republiek Tanzania
 
-The Kingdom of the Netherlands
-
-and
-
-the United Republic of Tanzania,
-
-hereinafter referred to as the “Contracting Parties”,
-
-Being parties to the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) opened for signature at Chicago on 7 December 1944;
-
-Desiring to contribute to the progress of international aviation;
-
-Desiring to guarantee the highest level of safety and security in international air transport;
-
-Desiring to conclude an Agreement between the Kingdom of the Netherlands and the United Republic of Tanzania for Air Services between and beyond their respective territories;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and the United Republic of Tanzania, hereinafter referred to as the “Contracting Parties”, Being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944; Desiring to contribute to the progress of international aviation; Desiring to guarantee the highest level of safety and security in international air transport; Desiring to conclude an Agreement between the Kingdom of the Netherlands and the United Republic of Tanzania for Air Services between and beyond their respective territories; Have agreed as follows:*
 
 ### CHAPTER I. INTRODUCTION
 
@@ -56,35 +21,35 @@ Have agreed as follows:
 
 For the purpose of this Agreement
 
-- a). the term “Aeronautical Authorities” means: for the Kingdom of the Netherlands, the Minister of Infrastructure and the Environment, and for the United Republic of Tanzania: the Minister for the time being responsible for the matters relating to Civil Aviation, or in either case any person or body authorized to perform any functions at present exercised by the said Authorities;
+- a) the term “Aeronautical Authorities” means: for the Kingdom of the Netherlands, the Minister of Infrastructure and the Environment, and for the United Republic of Tanzania: the Minister for the time being responsible for the matters relating to Civil Aviation, or in either case any person or body authorized to perform any functions at present exercised by the said Authorities;
 
-- b). the terms “Agreed Service” and “Specified Route” mean: international Air Service pursuant to this Agreement and the route specified in the [Annex](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&bijlage=1&z=2016-07-01&g=2016-07-01) to this Agreement respectively;
+- b) the terms “Agreed Service” and “Specified Route” mean: international Air Service pursuant to this Agreement and the route specified in the [Annex](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&bijlage=1&z=2016-07-01&g=2016-07-01) to this Agreement respectively;
 
-- c). the term “Agreement” means: this Agreement, its [Annex](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&bijlage=1&z=2016-07-01&g=2016-07-01) drawn up in application thereof, as well as any amendment to the Agreement or the Annex;
+- c) the term “Agreement” means: this Agreement, its [Annex](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&bijlage=1&z=2016-07-01&g=2016-07-01) drawn up in application thereof, as well as any amendment to the Agreement or the Annex;
 
-- d). the terms “Air Service”, “International Air Service” and “Airline” shall have the meaning respectively assigned to them in [Article 96 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=96);
+- d) the terms “Air Service”, “International Air Service” and “Airline” shall have the meaning respectively assigned to them in [Article 96 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=96);
 
-- e). the term “Change of Aircraft” means: the operation of one of the Agreed Services by a Designated Airline in such a way that one or more sectors of the Specified Route are flown by different aircraft;
+- e) the term “Change of Aircraft” means: the operation of one of the Agreed Services by a Designated Airline in such a way that one or more sectors of the Specified Route are flown by different aircraft;
 
-- f). the term “the Convention” means: the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under [Article 90 of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) and any amendment of the Annexes or the Convention under Articles 90 and [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) thereof, insofar as those Annexes and amendments have become effective for, or been ratified by both Contracting Parties;
+- f) the term “the Convention” means: the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under [Article 90 of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) and any amendment of the Annexes or the Convention under Articles 90 and [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) thereof, insofar as those Annexes and amendments have become effective for, or been ratified by both Contracting Parties;
 
-- g). the term “Designated Airline” means: the Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&hoofdstuk=II&artikel=3&z=2016-07-01&g=2016-07-01) of this Agreement (Designation and Authorization);
+- g) the term “Designated Airline” means: the Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&hoofdstuk=II&artikel=3&z=2016-07-01&g=2016-07-01) of this Agreement (Designation and Authorization);
 
-- h). the term “Stores” means: articles, of a readily consumable nature, for use or sale on board an aircraft during flight including commissary supplies;
+- h) the term “Stores” means: articles, of a readily consumable nature, for use or sale on board an aircraft during flight including commissary supplies;
 
-- i). the term “Price” means: any amount charged or to be charged by the Airline, directly or through their agents, to any person or entity for the carriage of passengers (and their baggage) and cargo (excluding mail) in air transportation, including:
+- i) the term “Price” means: any amount charged or to be charged by the Airline, directly or through their agents, to any person or entity for the carriage of passengers (and their baggage) and cargo (excluding mail) in air transportation, including:
 
-- (I). the conditions governing the availability and applicability of a Price; and
+   - (I) the conditions governing the availability and applicability of a Price; and
 
-- (II). the charges and conditions for any services ancillary to such carriage which are offered by the Airline;
+   - (II) the charges and conditions for any services ancillary to such carriage which are offered by the Airline;
 
-- j). the term “Territory” in relation to either Contracting Party shall be deemed to be the land areas and territorial waters adjacent thereto under the sovereignty, suzerainty, protection or mandate of the Contracting Party;
+- j) the term “Territory” in relation to either Contracting Party shall be deemed to be the land areas and territorial waters adjacent thereto under the sovereignty, suzerainty, protection or mandate of the Contracting Party;
 
-- k). the term “User Charge” means: a charge imposed on Airlines for the provision of airport, air navigation, or aviation security facilities or services including related services and facilities.
+- k) the term “User Charge” means: a charge imposed on Airlines for the provision of airport, air navigation, or aviation security facilities or services including related services and facilities.
 
-- l). the term “Capacity” means: the combination of frequency per week and (the configuration of) the type of aircraft used on the route offered to the public by the Designated Airline;
+- l) the term “Capacity” means: the combination of frequency per week and (the configuration of) the type of aircraft used on the route offered to the public by the Designated Airline;
 
-- m). the term “EU Member State” means: a State that is now or in the future a Contracting Party to the [Treaty on the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) and the [Treaty on the functioning of the European Union.](https://wetten.overheid.nl/jci1.3:c:BWBV0001506)
+- m) the term “EU Member State” means: a State that is now or in the future a Contracting Party to the [Treaty on the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) and the [Treaty on the functioning of the European Union.](https://wetten.overheid.nl/jci1.3:c:BWBV0001506)
 
 ### CHAPTER II. OBJECTIVES
 
@@ -92,11 +57,11 @@ For the purpose of this Agreement
 
 1. Each Contracting Party grants to the other Contracting Party except as otherwise specified in the [Annex](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&bijlage=2&z=2016-07-01&g=2016-07-01) the following rights for the conduct of international air transportation by the Designated Airline(s) of the other Contracting Party:
 
-- a). the right to fly across its Territory without landing;
+- a) the right to fly across its Territory without landing;
 
-- b). the right to make stops in its Territory for non-traffic purposes; and
+- b) the right to make stops in its Territory for non-traffic purposes; and
 
-- c). while operating An Agreed Service on a Specified Route, the right to make stops in its Territory for the purposes of taking up and discharging international traffic in passengers, baggage, cargo and mail, separately or in combination to or from the other Contracting Party.
+- c) while operating An Agreed Service on a Specified Route, the right to make stops in its Territory for the purposes of taking up and discharging international traffic in passengers, baggage, cargo and mail, separately or in combination to or from the other Contracting Party.
 
 2. Nothing in paragraph 1 of this Article shall be deemed to grant the right for one Contracting Party's Airline(s) to participate in air transportation between points in the Territory of the other Contracting Party (cabotage).
 
@@ -106,19 +71,19 @@ For the purpose of this Agreement
 
 2. On receipt of such a notification, each Contracting Party shall, without delay, grant to the Airline(s) so designated by the other Contracting Party the appropriate operating authorizations subject to the provisions of this article, unless it is not satisfied that:
 
-- a). in the case of the Airline(s) designated by the Kingdom of the Netherlands:
+- a) in the case of the Airline(s) designated by the Kingdom of the Netherlands:
 
-- (i). it is established in the Territory of the Kingdom of the Netherlands under the European Union Treaties and has a valid operating licence in accordance with European Union law, and
+   - (i) it is established in the Territory of the Kingdom of the Netherlands under the European Union Treaties and has a valid operating licence in accordance with European Union law, and
 
-- (ii). effective regulatory control of the Airline is exercised and maintained by the EU Member State responsible for issuing its Air Operator’s Certificate and the relevant Aeronautical Authority is clearly identified in the designation.
+   - (ii) effective regulatory control of the Airline is exercised and maintained by the EU Member State responsible for issuing its Air Operator’s Certificate and the relevant Aeronautical Authority is clearly identified in the designation.
 
-- b). in the case of the Airline(s) designated by the United Republic of Tanzania
+- b) in the case of the Airline(s) designated by the United Republic of Tanzania
 
-- (i). it is established in the Territory of the United Republic of Tanzania and has a valid Operating Licence in accordance with applicable law of the United Republic of Tanzania, and
+   - (i) it is established in the Territory of the United Republic of Tanzania and has a valid Operating Licence in accordance with applicable law of the United Republic of Tanzania, and
 
-- (ii). effective regulatory control of the Airline is exercised and maintained by the United Republic of Tanzania, and
+   - (ii) effective regulatory control of the Airline is exercised and maintained by the United Republic of Tanzania, and
 
-- (iii). the Airline is owned, directly or through majority ownership, and it is effectively controlled by the United Republic of Tanzania and/or by nationals of the United Republic of Tanzania;
+   - (iii) the Airline is owned, directly or through majority ownership, and it is effectively controlled by the United Republic of Tanzania and/or by nationals of the United Republic of Tanzania;
 
 and that:
 
@@ -130,27 +95,27 @@ The Designated Airline is qualified to meet the conditions prescribed under the 
 
 1. Each Contracting Party shall have the right to withhold, revoke, suspend or limit the operating authorizations of an Airline designated by the other Contracting Party:
 
-- a). in the case of the Airline(s) designated by the Kingdom of the Netherlands, when:
+- a) in the case of the Airline(s) designated by the Kingdom of the Netherlands, when:
 
-- (i). it is not established in the Territory of the Kingdom of the Netherlands under European Union Treaties or does not have a valid operating licence in accordance with European Union law, or
+   - (i) it is not established in the Territory of the Kingdom of the Netherlands under European Union Treaties or does not have a valid operating licence in accordance with European Union law, or
 
-- (ii). effective regulatory control of the Airline is not exercised or not maintained by the EU Member State responsible for issuing its Air Operator’s Certificate or the relevant Aeronautical Authority is not clearly identified in the designation.
+   - (ii) effective regulatory control of the Airline is not exercised or not maintained by the EU Member State responsible for issuing its Air Operator’s Certificate or the relevant Aeronautical Authority is not clearly identified in the designation.
 
-- b). in the case of the Airline(s) designated by the United Republic of Tanzania, when:
+- b) in the case of the Airline(s) designated by the United Republic of Tanzania, when:
 
-- (i). it is not established in the Territory of the United Republic of Tanzania or has no valid operating licence in accordance with applicable law of the United Republic of Tanzania, or
+   - (i) it is not established in the Territory of the United Republic of Tanzania or has no valid operating licence in accordance with applicable law of the United Republic of Tanzania, or
 
-- (ii). effective regulatory control of the Airline is not exercised or not maintained by the United Republic of Tanzania, or
+   - (ii) effective regulatory control of the Airline is not exercised or not maintained by the United Republic of Tanzania, or
 
-- (iii). the Airline is not owned, directly or through majority ownership, or is not effectively controlled by the United Republic of Tanzania and/or by nationals of the United Republic of Tanzania;
+   - (iii) the Airline is not owned, directly or through majority ownership, or is not effectively controlled by the United Republic of Tanzania and/or by nationals of the United Republic of Tanzania;
 
-- c). in case that Airline has failed to comply with the laws and regulations referred to in [Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&hoofdstuk=V&artikel=13&z=2016-07-01&g=2016-07-01) (Application of Laws, Regulations and Procedures) of this Agreement;
+- c) in case that Airline has failed to comply with the laws and regulations referred to in [Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&hoofdstuk=V&artikel=13&z=2016-07-01&g=2016-07-01) (Application of Laws, Regulations and Procedures) of this Agreement;
 
-- d). in case the other Contracting Party is not maintaining and administering the standards set forth in [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&hoofdstuk=V&artikel=15&z=2016-07-01&g=2016-07-01) (Safety) of this Agreement;
+- d) in case the other Contracting Party is not maintaining and administering the standards set forth in [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006371&hoofdstuk=V&artikel=15&z=2016-07-01&g=2016-07-01) (Safety) of this Agreement;
 
-- e). in the event of failure by such Airline to qualify before the Aeronautical Authorities of the Contracting Party assessing the authorization, under the laws and regulations normally and reasonably applied to the operation of International Air Services by these Authorities in conformity with the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507); or
+- e) in the event of failure by such Airline to qualify before the Aeronautical Authorities of the Contracting Party assessing the authorization, under the laws and regulations normally and reasonably applied to the operation of International Air Services by these Authorities in conformity with the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507); or
 
-- f). in case the Airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
+- f) in case the Airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
 
 2. Unless immediate action is essential to prevent further non-compliance with paragraph 1 of this Article, the rights established by this Article shall be exercised only after consultation with the other Contracting Party. Unless otherwise agreed by the Contracting Parties, such consultations shall begin within a period of thirty (30) days from the date of receipt of the request.
 
@@ -162,11 +127,11 @@ The Designated Airline is qualified to meet the conditions prescribed under the 
 
 1. Each Contracting Party shall allow Prices for air transportation to be established by each Designated Airline based upon commercial considerations in the marketplace. Intervention by the Contracting Parties shall be limited to:
 
-- a). prevention of unreasonably discriminatory Prices or practices;
+- a) prevention of unreasonably discriminatory Prices or practices;
 
-- b). protection of consumers from Prices that are unreasonably high or restrictive due to the abuse of a dominant position;
+- b) protection of consumers from Prices that are unreasonably high or restrictive due to the abuse of a dominant position;
 
-- c). protection of Airlines from Prices that are artificially low due to direct or indirect governmental subsidy or support.
+- c) protection of Airlines from Prices that are artificially low due to direct or indirect governmental subsidy or support.
 
 2. Neither Contracting Party shall require notification or filing of any price to be charged by the Designated Airline or Airlines of the other Contracting Party. Prices may remain in effect unless subsequently disapproved under paragraph 3 of this Article.
 
@@ -176,13 +141,13 @@ The Designated Airline is qualified to meet the conditions prescribed under the 
 
 ##### Article 6. Commercial Activities
 
-1. The Designated Airline**(s)** of each Contracting Party shall be allowed:
+1. The Designated Airline*(s)* of each Contracting Party shall be allowed:
 
-- a). to establish in the Territory of the other Contracting Party offices for the promotion and sale of air transportation and ancillary or supplemental services (including the right to sell and to issue any ticket and/or airwaybill, both its own tickets and/or airwaybills and of any other carrier) as well as other facilities required for the provision of air transportation;
+- a) to establish in the Territory of the other Contracting Party offices for the promotion and sale of air transportation and ancillary or supplemental services (including the right to sell and to issue any ticket and/or airwaybill, both its own tickets and/or airwaybills and of any other carrier) as well as other facilities required for the provision of air transportation;
 
-- b). in the Territory of the other Contracting Party to engage directly and, at its discretion, through its agents, and/ or other Airlines in the sale of air transportation and ancillary or supplemental services;
+- b) in the Territory of the other Contracting Party to engage directly and, at its discretion, through its agents, and/ or other Airlines in the sale of air transportation and ancillary or supplemental services;
 
-- c). to sell such transportation and ancillary or supplemental services and any person shall be free to purchase such transportation or services in any easily convertible currency.
+- c) to sell such transportation and ancillary or supplemental services and any person shall be free to purchase such transportation or services in any easily convertible currency.
 
 2. The Designated Airline(s) of each Contracting Party shall be allowed to bring in and maintain in the Territory of the other Contracting Party its managerial, commercial, operational and technical staff as it may require in connection with the provision of air transportation and ancillary or supplemental services, subject to the other Contracting Party’s applicable labour laws.
 
@@ -194,23 +159,23 @@ The Designated Airline is qualified to meet the conditions prescribed under the 
 
 - a. the commercial and/or cooperative marketing arrangements may include, but shall not be limited to blocked-space, code-sharing and leasing arrangements, with:
 
-- (i). the Designated Airline(s) of the same Contracting Party;
+   - (i) the Designated Airline(s) of the same Contracting Party;
 
-- (ii). the Designated Airline(s) of the other Contracting Party, including domestic code share;
+   - (ii) the Designated Airline(s) of the other Contracting Party, including domestic code share;
 
-- (iii). the Designated Airline(s) of a third country;
+   - (iii) the Designated Airline(s) of a third country;
 
-- (iv). a cargo surface transportation provider of any country.
+   - (iv) a cargo surface transportation provider of any country.
 
-- b). the operating Airline(s) involved in the co-operative marketing arrangements shall hold the underlying traffic rights including the route rights and the Capacity entitlements and meet the requirements normally applied to such arrangements;
+- b) the operating Airline(s) involved in the co-operative marketing arrangements shall hold the underlying traffic rights including the route rights and the Capacity entitlements and meet the requirements normally applied to such arrangements;
 
-- c). all marketing Airlines involved in the co-operating arrangements shall hold the underlying route rights and meet the requirements normally applied to such arrangements;
+- c) all marketing Airlines involved in the co-operating arrangements shall hold the underlying route rights and meet the requirements normally applied to such arrangements;
 
-- d). the total Capacity operated by the Air Services performed under such arrangements shall be counted only against the Capacity entitlement of the Contracting Party designating the operating Airline(s). The Capacity offered by the marketing Airline(s) on such services shall not be counted against the Capacity entitlement of the Contracting Party designating that Airline;
+- d) the total Capacity operated by the Air Services performed under such arrangements shall be counted only against the Capacity entitlement of the Contracting Party designating the operating Airline(s). The Capacity offered by the marketing Airline(s) on such services shall not be counted against the Capacity entitlement of the Contracting Party designating that Airline;
 
-- e). when holding out Air Services for sale under such arrangements, the Airline concerned or its agent shall make it clear to the purchaser at the point of sale as to which Airline shall be the operating Airline on each sector of the Air Service and with which Airline(s) the purchaser is entering into a contractual relationship.
+- e) when holding out Air Services for sale under such arrangements, the Airline concerned or its agent shall make it clear to the purchaser at the point of sale as to which Airline shall be the operating Airline on each sector of the Air Service and with which Airline(s) the purchaser is entering into a contractual relationship.
 
-- f). these provisions shall be applicable to passenger, combination and all-cargo Air Services.
+- f) these provisions shall be applicable to passenger, combination and all-cargo Air Services.
 
 6. Notwithstanding any other provision of this Agreement, the Designated Airline(s) and indirect providers of air transportation of either of the Contracting Parties shall be permitted, without restriction, to employ in connection with international air transportation any surface transportation for passengers, cargo and mail to or from any points in the Territories of the Contracting Parties or in third countries, including transport to and from all airports with customs facilities, and including, where applicable, the right to transport cargo and mail in bond under applicable laws and regulations.
 
@@ -322,9 +287,9 @@ Each Contracting Party, however, reserves the right to refuse to recognize, for 
 
 4. If any such ramp inspection or series of ramp inspections gives rise to:
 
-- a). serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507); or
+- a) serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507); or
 
-- b). serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507),
+- b) serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507),
 
 the Contracting Party carrying out the inspection shall, for the purpose of [Article 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33), be free to conclude that the requirements under which the certificate or licenses in respect of that aircraft or in respect of the crew of that aircraft had been issued or rendered valid, or that the requirements under which that aircraft is operated, are not equal to or above the minimum standards established pursuant to the Convention.
 
@@ -412,13 +377,13 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 DONE at Dar es Salaam on 3 June 2014 in two original copies, in the English language
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 J.R.T. FREDERIKS
 
 H.M. Ambassador to Tanzania
 
-**For the United Republic of Tanzania,**
+*For the United Republic of Tanzania,*
 
 H.G. MWAKYEMBE
 

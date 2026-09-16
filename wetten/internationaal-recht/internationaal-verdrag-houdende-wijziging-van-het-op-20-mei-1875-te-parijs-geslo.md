@@ -1,66 +1,37 @@
 ---
 title: "Internationaal Verdrag houdende wijziging van het op 20 mei 1875 te Parijs gesloten Verdrag ter verzekering van de internationale eenheid en de volmaking van het Metrieke stelsel en van het bij dat Verdrag behorende Reglement"
 identifier: "BWBV0006253"
-country: "nl"
-rank: "verdrag"
-publication_date: "1929-01-01"
-last_updated: "1929-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006253"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005119413"
-version_id: "10005469562"
-internal_id: "C10008441711"
-label_id: "10005102274"
-dtd_version: "2.0"
-original_entry_into_force: "1929-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006253/1929-01-01/0"
-intitule_bron: "Stb.1929-219"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1929-04-25"
-intitule_published: "1929-05-15"
-intitule_in_force: "1929-05-15"
-intitule_status: "goed"
-original_publication: "Stb.1929-219"
-original_signed_date: "1929-04-25"
-original_published_date: "1929-05-15"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1929-01-01"
-jci_1_3: "jci1.3:c:BWBV0006253&z=1929-01-01&g=1929-01-01"
-jci_1_0: "1.0:c:BWBV0006253&g=1929-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1929-04-25"
-entry_into_force: "1929-01-01"
+publicatiedatum: 1929-01-01
+laatste_update: 1929-01-01
+status: geldig
+toestand: 1929-01-01
+bron: "https://wetten.overheid.nl/BWBV0006253"
+opgehaald: 2026-09-16
 ---
+
 # Internationaal Verdrag houdende wijziging van het op 20 mei 1875 te Parijs gesloten Verdrag ter verzekering van de internationale eenheid en de volmaking van het Metrieke stelsel en van het bij dat Verdrag behorende Reglement
 
-**1°. van het op 20 Mei 1875 te Parijs gesloten verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel;**
+*1°. de la Convention signée à Paris le 20 mai 1875 pour assurer l'unification internationale et le perfectionnement du système métrique; 2°. du Règlement annexé à cette Convention; Conclue entre: l'Allemagne, la République Argentine, l'Autriche, la Belgique, le Brésil, la Bulgarie, le Canada, le Chili, le Danemark, l'Espagne, les Etats-Unis d'Amérique, la Finlande, la France, la Grande-Bretagne, la Hongrie, l'Italie, le Japon, le Mexique, la Norvège, le Pérou, le Portugal, la Roumanie, l'Etat Serbe-Croate-Slovène, le Siam, la Suède, la Suisse et l'Uruquay. Les soussignés, plénipotentiaires des Gouvernements des Pays ci-dessus énumérés, s'étant réunis en conférence à Paris, sont convenus de ce qui suit:*
 
-**2°. van het bij dat verdrag behoorend Reglement,**
+##### Article premier
 
-Gesloten tusschen:
+*Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.*
 
-Duitschland, de Argentijnsche Republiek, Oostenrijk, België, Brazilië, Bulgarije, Canada, Chili, Denemarken, Spanje, de Vereenigde Staten van Amerika, Finland, Frankrijk, Groot-Britannië, Hongarije, Italië, Japan, Mexico, Noorwegen, Peru, Portugal, Roemenië, de Staat der Serven, Kroaten en Slovenen, Siam, Zweden, Zwitserland en Uruguay.
+##### Article 2
 
-De ondergeteekenden, gevolmachtigden van de Regeeringen der hierboven genoemde Landen, ter Conferentie te Parijs bijeen, zijn het volgende overeengekomen:
+*Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.*
 
-##### Art. 1
+##### Article 3
 
-Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.
+Tout Etat pourra adhérer à la présente Convention en notifiant son adhésion au Gouvernement français, qui en donnera avis à tous les Etats participants et au Président du Comité international des Poids et Mesures.
 
-##### Art. 2
+Toute accession nouvelle à la Convention du 20 mai 1875 entraînera obligatoirement adhésion à la présente Convention.
 
-Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.
+##### Article 4
 
-##### Art. 3
-
-Elke Staat kan tot dit verdrag toetreden door daarvan kennis te geven aan de Fransche Regeering, die daarvan mededeeling zal doen aan alle aangesloten Staten en aan den voorzitter van het Comité international des Poids et Mesures.
-
-Elke nieuwe toetreding tot het verdrag van 20 Mei 1875 brengt als verplichting mede toetreding tot het huidige verdrag.
-
-##### Art. 4
-
-Dit verdrag zal bekrachtigd worden. Elke mogendheid zal binnen den kortst mogelijken termijn hare bekrachtiging doen toekomen aan de Fransche Regeering, door wier zorgen hiervan mededeeling zal worden gedaan aan de andere Landen, die onderteekend hebben. De bekrachtigingsoorkonden zullen bewaard blijven in de archieven der Fransche Regeering. Dit verdrag zal voor elk Land, dat onderteekend heeft, in werking treden op den dag der nederlegging van zijne bekrachtigingsoorkonde.
+La présente Convention sera ratifiée. Chaque Puissance adressera, dans le plus court délai possible, sa ratification au Gouvernement français, par les soins duquel il en sera donné avis aux autres Pays signataires. Les ratifications resteront déposées dans les archives du Gouvernement français. La présente Convention entrera en vigueur, pour chaque Pays signataire, le jour même du dépôt de son acte de ratification.
 
 Fait à Sèvres, le 6 octobre 1921, en un seul exemplaire, qui restera déposé dans les archives du Gouvernement français, et dont les expéditions authentiques seront remises à chacun des Pays signataires.
 

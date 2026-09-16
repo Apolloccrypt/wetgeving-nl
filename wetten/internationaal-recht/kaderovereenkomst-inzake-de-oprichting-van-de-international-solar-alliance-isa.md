@@ -1,184 +1,153 @@
 ---
 title: "Kaderovereenkomst inzake de oprichting van de International Solar Alliance (ISA)"
 identifier: "BWBV0006749"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-01-08"
-last_updated: "2021-01-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006749"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005446753"
-version_id: "10005899232"
-internal_id: "C10009671571"
-label_id: "10005429424"
-dtd_version: "2.0"
-original_entry_into_force: "2019-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006749/2021-01-08/0"
-intitule_bron: "Trb.2018-85"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-07-02"
-intitule_in_force: "2020-01-23"
-intitule_status: "goed"
-original_publication: "Trb.2018-85"
-original_published_date: "2018-07-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2018-85"
-entry_into_force_date: "2019-06-27"
-jci_1_3: "jci1.3:c:BWBV0006749&z=2021-01-08&g=2021-01-08"
-jci_1_0: "1.0:c:BWBV0006749&g=2021-01-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-06-27"
+publicatiedatum: 2019-06-27
+laatste_update: 2021-01-08
+status: geldig
+toestand: 2021-01-08
+bron: "https://wetten.overheid.nl/BWBV0006749"
+opgehaald: 2026-09-16
 ---
+
 # Kaderovereenkomst inzake de oprichting van de International Solar Alliance (ISA)
 
-Wij, de partijen bij deze Overeenkomst,
+*We, the Parties to this Agreement, Recalling the Paris Declaration on the International Solar Alliance of 30th November 2015 and the shared ambition to undertake joint efforts required to reduce the cost of finance and the cost of technology, mobilize more than US $ 1000 billion of investments needed by 2030 for massive deployment of solar energy, and pave the way for future technologies adapted to the needs, Recognizing that solar energy provides countries with an unprecedented opportunity to bring prosperity, energy security and sustainable development to their peoples, Acknowledging the specific and common obstacles that still stand in the way of rapid and massive scale-up of solar energy in these countries, Affirming that these obstacles can be addressed if solar resource rich countries act in a coordinated manner, with strong political impulse and resolve, and that better harmonizing and aggregating the demand for inter alia solar finance, technologies, innovation or capacity building, across countries, will provide a strong lever to lower costs, increase quality, and bring reliable and affordable solar energy within the reach of all, United in their desire to establish an effective mechanism of coordination and decision-making among them, Have agreed as follows:*
 
-In herinnering roepend de Verklaring van Parijs over de International Solar Alliance van 30 november 2015 en de gedeelde ambitie om gezamenlijke inspanningen te leveren die nodig zijn om de financieringskosten en de kosten van technologie te verlagen, meer dan 1000 miljard dollar aan investeringen te mobiliseren die nodig zijn tegen 2030 voor een grootschalige toepassing van zonne-energie, en de weg vrij te maken voor toekomstige technologieën die aan de behoeften zijn aangepast,
+##### Article I. Objective
 
-Erkennend dat zonne-energie aan landen een ongekende kans biedt om te zorgen voor welvaart, energiezekerheid en duurzame ontwikkeling voor hun bevolking,
+Parties hereby establish an International Solar Alliance (hereinafter referred to as the ISA), through which they will collectively address key common challenges to the scaling up of solar energy in line with their needs.
 
-Erkennend dat er specifieke en gemeenschappelijke belemmeringen zijn die een snelle en massale schaalvergroting van zonne-energie in deze landen nog steeds in de weg staan,
+##### Article II. Guiding Principles
 
-Bevestigend dat deze belemmeringen kunnen worden aangepakt als de landen die rijk zijn aan zonne-energie op een gecoördineerde wijze handelen, met een sterke politieke impuls en vastberadenheid, en dat een betere harmonisatie en bundeling van de vraag naar onder meer financiering van zonne-energie, technologieën, innovatie of capaciteitsopbouw, tussen landen, een krachtig middel zullen vormen om de kosten te verlagen, de kwaliteit te verhogen en betrouwbare en betaalbare zonne-energie binnen het bereik van iedereen te brengen,
+1. Members take coordinated actions through Programmes and activities launched on a voluntary basis, aimed at better harmonizing and aggregating demand for, inter alia, solar finance, solar technologies, innovation, research and development, and capacity building.
 
-**Verenigd** in hun wens om onderling een doeltreffend coördinatie- en besluitvormingsmechanisme op te zetten,
+2. In this endeavor, Members cooperate closely and strive for establishing mutually beneficial relationships with relevant organizations, public and private stakeholders, and with non-member countries.
 
-Zijn het volgende overeengekomen:
+3. Each Member shares and updates, for those solar applications for which it seeks the benefits of collective action under the ISA, and based on a common analytical mapping of solar applications, relevant information regarding: its needs and objectives; domestic measures and initiatives taken or intended to be taken in order to achieve these objectives; obstacles along the value chain and dissemination process. The Secretariat maintains a database of these assessments in order to highlight the potential for cooperation.
 
-##### Artikel I. Doel
+4. Each Member designates a National Focal Point for the ISA. National Focal Points constitute a permanent network of correspondents of the ISA in Member countries. They inter alia interact with one another and also with relevant stakeholders to identify areas of common interest, design Programmes proposals and make recommendations to the Secretariat regarding the implementation of the objectives of the ISA.
 
-De partijen richten hierbij een International Solar Alliance (hierna „ISA” genoemd) op, waarmee zij gezamenlijk de belangrijkste gemeenschappelijke uitdagingen voor de schaalvergroting van zonne-energie in overeenstemming met hun behoeften zullen aanpakken.
+##### Article III. Programmes and other activities
 
-##### Artikel II. Richtsnoeren
+1. A Programme of the ISA consists of a set of actions, projects and activities to be taken in a coordinated manner by Members, with the assistance of the Secretariat, in furtherance of the objective and guiding principles described in [article I](https://wetten.overheid.nl/BWBV0006749) and [II](https://wetten.overheid.nl/BWBV0006749). Programmes are designed in a way to ensure maximum scale effect and participation of the largest possible number of Members. They include simple, measurable, mobilizing targets.
 
-1. De leden ondernemen gecoördineerde acties via programma's en activiteiten die op vrijwillige basis van start gaan en die gericht zijn op een betere harmonisatie en bundeling van de vraag naar onder meer zonnefinanciering, zonne-energietechnologieën, innovatie, onderzoek en ontwikkeling, en capaciteitsopbouw.
+2. Programme proposals are designed through open consultations among all National Focal Points, with the assistance of the Secretariat, and based on information shared by Members. A Programme can be proposed by any two Members or group of Members, or by the Secretariat. The Secretariat ensures coherence among all ISA Programmes.
 
-2. Bij deze inspanning werken de leden nauw samen en streven zij naar relaties die wederzijds voordeel opleveren met relevante organisaties, publieke en private belanghebbenden en met niet-lidstaten.
+3. Programme proposals are circulated by the Secretariat to the Assembly by digital circulation, through the network of National Focal Points. A Programme proposal is deemed open to adhesion by Members willing to join if it is supported by at least two Members and if objections are not raised by more than two countries.
 
-3. Elk lid deelt en actualiseert, voor de zonnetoepassingen waarvoor het de voordelen van collectieve actie in het kader van de ISA nastreeft en op basis van een gemeenschappelijk analytisch overzicht van zonnetoepassingen, relevante informatie over: zijn behoeften en doelstellingen; nationale maatregelen en initiatieven die zijn genomen of voorgenomen om deze doelstellingen te bereiken; belemmeringen in de waardeketen en het verspreidingsproces. Het Secretariaat houdt een databank met deze beoordelingen bij om de mogelijkheden voor samenwerking in kaart te brengen.
+4. A Programme proposal is formally endorsed by Members willing to join, through a joint declaration. All decisions regarding the implementation of the Programme are taken by Members participating in the Programme. They are carried out, with the guidance and assistance of the Secretariat, by country Representatives designated by each Member.
 
-4. Elk lid wijst een nationaal contactpunt voor de ISA aan. De nationale contactpunten vormen een permanent netwerk van correspondenten van de ISA in de lidstaten. Zij werken onder meer samen met elkaar en ook met relevante belanghebbenden om gebieden van gemeenschappelijk belang te identificeren, programmavoorstellen op te stellen en aanbevelingen te doen aan het Secretariaat met betrekking tot de uitvoering van de doelstellingen van de ISA.
+5. The annual work plan gives an overview of the Programmes, and other activities of the ISA. It is presented by the Secretariat to the Assembly, which ensures that all Programmes and activities of the annual work plan are within the overall objective of the ISA.
 
-##### Artikel III. Programma's en overige activiteiten
+##### Article IV. Assembly
 
-1. Een programma van de ISA bestaat uit een reeks acties, projecten en activiteiten die op gecoördineerde wijze door de leden, met bijstand van het Secretariaat, dienen te worden uitgevoerd ter bevordering van de in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=I&z=2021-01-08&g=2021-01-08) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=II&z=2021-01-08&g=2021-01-08) beschreven doelstellingen en richtsnoeren. De programma's zijn zo opgesteld dat een maximaal schaalvoordeel en deelname van een zo groot mogelijk aantal leden wordt bereikt. Ze omvatten eenvoudige, meetbare, mobiliserende doelstellingen.
+1. The Parties hereby establish an Assembly, on which each Member is represented, to make decisions concerning the implementation of this Agreement and coordinated actions to be taken to achieve its objective. The Assembly meets annually at the Ministerial level at the seat of the ISA. The Assembly may also meet under special circumstances.
 
-2. De programmavoorstellen worden opgesteld door middel van open overleg tussen alle nationale contactpunten, met bijstand van het Secretariaat, en zijn gebaseerd op informatie die door de leden wordt gedeeld. Een programma kan worden voorgesteld door twee leden of een groep leden, of door het Secretariaat. Het Secretariaat draagt zorg voor samenhang tussen alle ISA-programma's.
+2. Break-out sessions of the Assembly are held in order to take stock of the Programmes at Ministerial level and make decisions regarding their further implementation, in furtherance of [article III.4](https://wetten.overheid.nl/BWBV0006749).
 
-3. De programmavoorstellen worden door het Secretariaat digitaal aan de Vergadering toegezonden via het netwerk van nationale contactpunten. Een programma staat open voor deelname door daarin geïnteresseerde leden indien het wordt gesteund door ten minste twee leden en indien niet meer dan twee landen bezwaar maken.
+3. The Assembly assesses the aggregate effect of the Programmes and other activities under the ISA, in particular in terms of deployment of solar energy, performance, reliability, as well as cost and scale of finance. Based on this assessment, Members take all necessary decisions regarding the further implementation of the objective of the ISA.
 
-4. Een programmavoorstel wordt formeel bekrachtigd door leden die willen toetreden, door middel van een gezamenlijke verklaring. Alle besluiten betreffende de uitvoering van het programma worden genomen door de leden die aan het programma deelnemen. Ze worden, met begeleiding en bijstand van het Secretariaat, uitgevoerd door landenvertegenwoordigers die door elk lid worden aangewezen.
+4. The Assembly makes all necessary decisions regarding the functioning of the ISA, including the selection of the Director General and approval of the operating budget.
 
-5. In het jaarlijkse werkplan wordt een overzicht gegeven van de programma's en andere activiteiten van de ISA. Het wordt door het Secretariaat voorgelegd aan de Vergadering, die ervoor zorgt dat alle programma's en activiteiten van het jaarlijkse werkplan binnen de algemene doelstelling van de ISA vallen.
+5. Each Member has one vote in the Assembly. Observers and Partner organizations may participate without having right to vote. Decisions on questions of procedure are taken by a simple majority of the Members present and voting. Decisions on matters of substance are taken by two-third majority of the Members present and voting. Decisions regarding specific Programmes are taken by Members participating in this Programme.
 
-##### Artikel IV. Vergadering
+6. All decisions taken by the International Steering Committee of the ISA established by the Paris Declaration on the ISA of 30th November 2015 are submitted to the Assembly for adoption at its first meeting.
 
-1. De partijen richten hierbij een Vergadering op waarin elk lid vertegenwoordigd is, die besluiten neemt over de uitvoering van deze Overeenkomst en over gecoördineerde acties die dienen te worden ondernomen om de doelstelling ervan te verwezenlijken. De Vergadering komt jaarlijks op ministerieel niveau bijeen op de zetel van de ISA. De Vergadering kan ook onder bijzondere omstandigheden bijeenkomen.
+##### Article V. Secretariat
 
-2. Break-outsessies van de Vergadering worden gehouden om op ministerieel niveau de balans op te maken van de programma's en besluiten te nemen over de verdere uitvoering ervan, in het verlengde van [artikel III.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006749&artikel=III&z=2021-01-08&g=2021-01-08).
+1. Parties hereby establish a Secretariat to assist them in their collective work under this Agreement. The Secretariat comprises of a Director General, who is the Chief Executive Officer, and other staff as may be required.
 
-3. De Vergadering beoordeelt het totale effect van de programma's en andere activiteiten in het kader van de ISA, met name wat betreft de inzet van zonne-energie, prestaties, betrouwbaarheid, alsook kosten en omvang van de financiering. Op basis van deze beoordeling nemen de leden alle noodzakelijke besluiten met betrekking tot de verdere uitvoering van het doel van de ISA.
+2. The Director General is selected by and responsible to the Assembly, for a term of four years, renewable for one further term.
 
-4. De Vergadering neemt alle noodzakelijke besluiten over de werking van de ISA, met inbegrip van het kiezen van de Directeur-Generaal en de goedkeuring van de exploitatiebegroting.
+3. The Director General is responsible to the Assembly for the appointment of the staff as well as the organization and functioning of the Secretariat, and also for resource mobilization.
 
-5. Elk lid heeft één stem in de Vergadering. Waarnemers en partnerorganisaties kunnen deelnemen zonder stemrecht. Besluiten over procedurekwesties worden genomen met een gewone meerderheid van de aanwezige leden die hun stem uitbrengen. Besluiten over inhoudelijke kwesties worden genomen met een tweederdemeerderheid van de aanwezige leden die hun stem uitbrengen. Besluiten over een specifiek programma worden genomen door de leden die deelnemen aan dat programma.
+4. The Secretariat prepares matters for Assembly action and carries out decisions entrusted to it by the Assembly. It ensures that appropriate steps are taken to follow up Assembly decisions and to coordinate the actions of Members in the implementation of such decisions. The Secretariat, inter alia, shall:
 
-6. Alle besluiten van de internationale stuurgroep van de ISA die is ingesteld bij de verklaring van Parijs over de ISA van 30 november 2015 worden ter goedkeuring aan de Vergadering voorgelegd tijdens haar eerste vergadering.
+- a) assist the National Focal Points in preparing the Programmes proposals and recommendations submitted to the Assembly;
 
-##### Artikel V. Secretariaat
+- b) provide guidance and support to Members in the implementation of each Programme, including for the raising of funds;
 
-1. De partijen richten hierbij een Secretariaat op om hen bij te staan bij hun gezamenlijke werkzaamheden in het kader van deze Overeenkomst. Het Secretariaat bestaat uit een Directeur-Generaal, die de hoogste functionaris is, en ander personeel, naar behoefte.
+- c) act on behalf of the Assembly, or on behalf of a group of Members participating in a particular Programme, when so requested by them; and in particular establishes contacts with relevant stakeholders;
 
-2. De Directeur-Generaal wordt gekozen door en legt verantwoording af aan de Vergadering, voor een termijn van vier jaar die eenmaal verlengd kan worden.
+- d) set and operate all means of communication, instruments and crosscutting activities required for the functioning of the ISA and its Programmes, as approved by the Assembly.
 
-3. De Directeur-Generaal legt verantwoording af aan de Vergadering voor de aanstelling van het personeel, alsmede de organisatie en het functioneren van het Secretariaat, en ook voor het mobiliseren van middelen.
+##### Article VI. Budget and Financial Resources
 
-4. Het Secretariaat bereidt de werkzaamheden van de Vergadering voor en voert de door de Vergadering aan hem toevertrouwde besluiten uit. Het zorgt ervoor dat de nodige stappen worden ondernomen om de besluiten van de Vergadering op te volgen en de acties van de leden bij de uitvoering van dergelijke besluiten te coördineren. Het Secretariaat zal onder meer:
+1. Operating costs of the Secretariat and Assembly, and all costs related to support functions and cross-cutting activities, form the budget of the ISA. They are covered by:
 
-- a. de nationale contactpunten bijstaan bij de voorbereiding van de programmavoorstellen en aanbevelingen die aan de Vergadering worden voorgelegd;
+- a) Voluntary contributions by its Members, UN & its agencies and other countries;
 
-- b. begeleiding en ondersteuning bieden aan leden bij de uitvoering van elk programma, ook voor het werven van fondsen;
+- b) Voluntary contributions from private sector. In case of a possible conflict of interest, the Secretariat refers the matter to the Assembly for approval of the acceptance of the contribution;
 
-- c. handelen namens de Vergadering of namens een groep leden die aan een bepaald programma deelnemen, wanneer zij daarom verzoeken; en in het bijzonder contacten leggen met relevante belanghebbenden;
+- c) Revenue to be generated from specific activities approved by the Assembly.
 
-- d. alle communicatiemiddelen, instrumenten en sectoroverkoepelende activiteiten vaststellen en beheren die nodig zijn voor de werking van de ISA en zijn programma's, zoals goedgekeurd door de Vergadering.
+2. The Secretariat will make proposals before the Assembly to establish and enhance a Corpus Fund which will generate revenues for the budget of the ISA, with initial dotation of US $16 million.
 
-##### Artikel VI. Begroting en financiële middelen
+3. Government of India will contribute US $ 27 million to the ISA for creating corpus, building infrastructure and recurring expenditure over 5 year duration from 2016-17 to 2020-21. In addition, public sector undertakings of the Government of India namely Solar Energy Corporation of India (SECI) and Indian Renewable Energy Development Agency (IREDA) have made a contribution of US $ 1 million each for creating the ISA corpus fund.
 
-1. De operationele kosten van het Secretariaat en de Vergadering en alle kosten in verband met ondersteunende functies en sectoroverkoepelende activiteiten vormen de begroting van de ISA. Zij worden gedekt door:
+4. Financial resources required for the implementation of a Programme, other than administrative costs falling under the general budget are assessed and mobilized by countries participating in this Programme, with the support and assistance of the Secretariat.
 
-- a. Vrijwillige bijdragen van de leden, de VN en haar agentschappen en andere landen;
+5. The finance and administration activities of the ISA other than Programmes may be outsourced to another organization, in accordance with a separate agreement to be approved by the Assembly.
 
-- b. Vrijwillige bijdragen van de private sector. In het geval van mogelijke belangenconflict verwijst het Secretariaat de kwestie naar de Vergadering voor goedkeuring van de aanvaarding van de bijdrage;
+6. The Secretariat with the approval of the Assembly may appoint an external auditor to examine the accounts of the ISA.
 
-- c. Inkomsten die voortvloeien uit specifieke, door de Vergadering goedgekeurde activiteiten.
+##### Article VII. Member Country Status
 
-2. Het Secretariaat zal voorstellen doen aan de Vergadering om een corpusfonds op te richten en te bevorderen, dat inkomsten zal genereren voor de ISA-begroting, met een startbegroting van 16 miljoen dollar.
+1. Membership is open to States which are members of the United Nations. Such States become members of the ISA by having signed this agreement and by having deposited an instrument of ratification, acceptance or approval.
 
-3. De regering van India draagt 27 miljoen dollar bij aan de ISA voor het opzetten van het corpusfonds, de aanleg van infrastructuur en vaste lasten over een periode van vijf jaar, van 2016–17 tot 2020–21. Daarnaast hebben overheidsbedrijven van de Indiase regering, namelijk de Solar Energy Corporation of India (SECI) en Indian Renewable Energy Development Agency (IREDA), elk een bijdrage van 1 miljoen dollar geleverd voor de oprichting van het ISA-corpusfonds.
+2. *Vervallen.*
 
-4. De financiële middelen die nodig zijn voor de uitvoering van een programma, met uitzondering van de administratieve kosten die onder de algemene begroting vallen, worden beoordeeld en gemobiliseerd door de landen die aan dit programma deelnemen, met de steun en bijstand van het Secretariaat.
+##### Article VIII. Partner Organization
 
-5. De financiële en administratieve activiteiten van de ISA, met uitzondering van de programma's, kunnen worden uitbesteed aan een andere organisatie, in overeenstemming met een afzonderlijke overeenkomst die door de Vergadering dient te worden goedgekeurd.
+1. Partner Organization status may be granted by the Assembly to organizations that have potential to help the ISA to achieve its objectives, including regional inter-governmental economic integration organizations constituted by sovereign States and at least one of which is a member of ISA.
 
-6. Het secretariaat kan met goedkeuring van de Vergadering een externe accountant aanstellen om de rekeningen van de ISA te onderzoeken.
+2. Decisions regarding partnerships to be concluded in the context of a specific Programme are taken by countries participating in this Programme, with the approval of the Secretariat.
 
-##### Artikel VII. Status van leden
+3. United Nations including its organs will be the Strategic Partner of the ISA.
 
-1. Het lidmaatschap staat open voor staten die lid zijn van de Verenigde Naties. Deze staten worden lid van de ISA door ondertekening van deze overeenkomst en nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring.
+##### Article IX. Observers
 
-2. Vervallen.
+Observer status that may be granted by the Assembly to applicants for membership whose application is pending, or to any other organization which can further the interest and objectives of the ISA.
 
-##### Artikel VIII. Partnerorganisatie
+##### Article X. Status, privileges and immunities of the ISA
 
-1. De status van partnerorganisatie kan door de Vergadering worden toegekend aan organisaties die de ISA kunnen helpen zijn doelstellingen te verwezenlijken, met inbegrip van regionale intergouvernementele organisaties voor economische integratie die bestaan uit soevereine staten en waarvan ten minste één staat lid is van de ISA.
+1. The ISA Secretariat shall possess juridical personality under the Host Country Agreement, the capacity to contract, to acquire and dispose of movable and immovable properties and to institute legal proceedings.
 
-2. Besluiten over partnerschappen die in het kader van een specifiek programma worden gesloten, worden genomen door de landen die aan dit programma deelnemen, met de goedkeuring van het Secretariaat.
+2. Under the same Host Country Agreement, the ISA Secretariat shall enjoy such privileges, applicable tax concessions and immunities as are necessary at its Headquarters for independent discharge- of-its functions and programmes, approved by the Assembly.
 
-3. De Verenigde Naties, met inbegrip van de organen van de Verenigde Naties, zijn de strategische partner van de ISA.
+3. Under the territory of each Member, subject to its National Laws and in accordance with a separate Agreement, if necessary; the ISA Secretariat may enjoy such immunity and privileges that are necessary for the independent discharge of its functions and programmes.
 
-##### Artikel IX. Waarnemers
+##### Article XI. Amendments and withdrawal
 
-De status van waarnemer kan door de Vergadering worden toegekend aan aanvragers van lidmaatschap waarvan de aanvraag in behandeling is, of aan elke andere organisatie die het belang en de doelstellingen van de ISA kan bevorderen.
+1. Any Member may propose amendments to the Framework Agreement after expiry of one year from the commencement of the Framework Agreement.
 
-##### Artikel X. Status, voorrechten en immuniteiten van de ISA
+2. Amendments to the Framework Agreement shall be adopted by the Assembly by two thirds majority of the Members present and voting. The amendments shall come into force when two thirds of the Members convey acceptance in accordance with their respective constitutional processes.
 
-1. Het ISA-secretariaat bezit rechtspersoonlijkheid ingevolge het gastlandverdrag, de bevoegdheid om contracten af te sluiten, om roerende en onroerende goederen te verwerven en van de hand te doen en om juridische procedures in te leiden.
+3. Any member may withdraw from the present Framework Agreement, by giving a notice of three months to the Depository in advance. Notice of such withdrawal are notified to the other Members by the Depository.
 
-2. Ingevolge hetzelfde gastlandverdrag geniet het ISA-secretariaat de privileges, toepasselijke belastingvoordelen en immuniteiten die op zijn hoofdkantoor nodig zijn voor de onafhankelijke uitvoering van zijn functies en programma's, zoals goedgekeurd door de Vergadering.
+##### Article XII. Seat of the ISA
 
-3. Het ISA-Secretariaat geniet op het grondgebied van elk lid, met inachtneming van de nationale wetgeving en zo nodig overeenkomstig een afzonderlijke overeenkomst, de immuniteit en privileges die nodig zijn voor de onafhankelijke uitoefening van zijn functies en programma's.
+The seat of the ISA shall be in India.
 
-##### Artikel XI. Wijzigingen en terugtrekking
+##### Article XIII. Signature and entry into force
 
-1. Elk lid kan na het verstrijken van een jaar na de aanvang van de Kaderovereenkomst wijzigingen van de Kaderovereenkomst voorstellen.
+1. Ratification, acceptance or approval of the Framework Agreement is effected by States in accordance with their respective constitutional processes. This Framework Agreement shall enter into force on the thirtieth day after the date of deposit of the fifteenth instrument of ratification, acceptance or approval.
 
-2. Wijzigingen van de Kaderovereenkomst worden door de Vergadering aangenomen met een tweederdemeerderheid van de aanwezige leden die hun stem uitbrengen. De wijzigingen treden in werking wanneer twee derde van de leden overeenkomstig hun onderscheiden grondwettelijke procedures hun aanvaarding kenbaar maken.
+2. For Members having deposited an instrument of ratification, acceptance or approval after the entry into force of the Framework Agreement, this Framework Agreement shall enter into force on the thirtieth day after the date of deposit of the relevant instrument.
 
-3. Elk lid kan zich uit deze Kaderovereenkomst terugtrekken door de depositaris daarvan drie maanden van tevoren in kennis te stellen. De depositaris stelt de andere leden in kennis van een dergelijke terugtrekking.
+3. Once the ISA is established, the International Steering Committee of the ISA ceases to exist.
 
-##### Artikel XII. Zetel van de ISA
+##### Article XIV. Depositary, registration, authentication of the text
 
-De zetel van de ISA wordt in India gevestigd.
+1. The Government of the Republic of India is the Depositary of the Framework Agreement.
 
-##### Artikel XIII. Ondertekening en inwerkingtreding
+2. This Framework Agreement is registered by the Depositary pursuant to [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-1. De bekrachtiging, aanvaarding of goedkeuring van de kaderovereenkomst geschiedt door staten overeenkomstig hun onderscheiden grondwettelijke procedures. Deze Kaderovereenkomst treedt in werking op de dertigste dag na de datum van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding of goedkeuring.
+3. The Depositary transmits certified copies of the Framework Agreement to all Parties.
 
-2. Voor leden die na de inwerkingtreding van de Kaderovereenkomst een akte van bekrachtiging, aanvaarding of goedkeuring hebben nedergelegd, treedt deze Kaderovereenkomst in werking op de dertigste dag na de datum van nederlegging van de desbetreffende akte.
-
-3. Zodra de ISA is opgericht, houdt de internationale stuurgroep van de ISA op te bestaan.
-
-##### Artikel XIV. Depositaris, registratie, authenticatie van de tekst
-
-1. De Regering van de Republiek India is de depositaris van de Kaderovereenkomst.
-
-2. Deze Kaderovereenkomst wordt door de depositaris geregistreerd in overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-3. De depositaris doet voor eensluidend gewaarmerkte afschriften van deze Kaderovereenkomst toekomen aan alle partijen.
-
-4. Deze Kaderovereenkomst, waarvan de teksten in het Hindi, Engels en Frans gelijkelijk authentiek zijn, wordt gedeponeerd in het archief van de depositaris.
+4. This Framework Agreement, of which Hindi, English and French texts are equally authentic, is deposited in the archives of the depositary.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed the Framework Agreement.
 

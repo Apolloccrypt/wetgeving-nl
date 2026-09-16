@@ -1,281 +1,234 @@
 ---
 title: "Verdrag van de Raad van Europa inzake cinematografische coproductie (herzien)"
 identifier: "BWBV0006663"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-12-01"
-last_updated: "2017-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006663"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005398293"
-version_id: "10005832732"
-internal_id: "C10009285431"
-label_id: "10005381234"
-dtd_version: "2.0"
-original_entry_into_force: "2017-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006663/2017-12-01/0"
-intitule_bron: "Trb.2017-27"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-02-08"
-intitule_in_force: "2017-09-27"
-intitule_status: "goed"
-original_publication: "Trb.2017-27"
-original_published_date: "2017-02-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2017-27"
-entry_into_force_date: "2017-12-01"
-jci_1_3: "jci1.3:c:BWBV0006663&z=2017-12-01&g=2017-12-01"
-jci_1_0: "1.0:c:BWBV0006663&g=2017-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-12-01"
+publicatiedatum: 2017-12-01
+laatste_update: 2017-12-01
+status: geldig
+toestand: 2017-12-01
+bron: "https://wetten.overheid.nl/BWBV0006663"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag van de Raad van Europa inzake cinematografische coproductie (herzien)
 
-Preambule
+*Preamble The member States of the Council of Europe and the other States Parties to the European Cultural Convention (ETS No. 18), signatory hereto, Considering that the aim of the Council of Europe is to achieve greater unity between its members in order, in particular, to safeguard and promote the ideals and principles which form their common heritage; Considering that freedom of creation and freedom of expression constitute fundamental elements of these principles; Considering that fostering the cultural diversity of the various European countries is one of the aims of the European Cultural Convention; Having regard to the UNESCO Convention on the Protection and Promotion of the Diversity of Cultural Expressions (Paris, 20 October 2005), which recognises cultural diversity as a defining characteristic of humanity and strives to strengthen the creation, production, dissemination, distribution and enjoyment of cultural expressions; Considering that cinematographic co-production, an instrument of creation and expression of cultural diversity on a global scale, should be reinforced; Aware that film is an important means of cultural and artistic expression with an essential role in upholding the freedom of expression, diversity and creativity, as well as democratic citizenship; Determined to develop these principles and recalling the recommendations of the Committee of Ministers to member States on the cinema and the audiovisual field, and particularly Recommendation Rec(86)3 on the promotion of audiovisual production in Europe and Recommendation CM/Rec(2009)7 on national film policies and the diversity of cultural expressions; Acknowledging that Resolution Res(88)15 setting up a European Support Fund for the Co-production and Distribution of Creative Cinematographic and Audiovisual Works “Eurimages” has been amended to allow the accession of non-member States; Resolved to achieve these objectives thanks to a common effort to foster co-operation and define rules which adapt themselves to cinematographic co-productions as a whole; Considering that the adoption of common rules tends to decrease restrictions and encourage co-operation in the field of cinematographic co-production; Considering the technological, economic and financial evolution of the film industry since the opening for signature of the European Convention on Cinematographic Co-production (ETS No. 147) in 1992; Believing that this development necessitates a revision of the 1992 Convention in order to ensure the continued relevance and effectiveness of this framework for cinematographic co-production; Acknowledging that the present Convention is intended to replace the European Convention on Cinematographic Co-production, Have agreed as follows:*
 
-De lidstaten van de Raad van Europa en de andere staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend) (ETS nr. 18) die dit Verdrag hebben ondertekend,
+### CHAPTER I. GENERAL PROVISIONS
 
-Overwegende dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn leden teneinde met name de idealen en beginselen die hun gemeenschappelijk erfgoed vormen te beschermen en te bevorderen;
+##### Article 1. Aim of the Convention
 
-Overwegende dat de vrijheid van vormgeving en de vrijheid van meningsuiting fundamentele elementen van deze beginselen vormen;
+The Parties to this Convention undertake to promote the development of international cinematographic co-production in accordance with the following provisions.
 
-Overwegende dat het bevorderen van de culturele diversiteit van de verschillende Europese landen één van de doelstellingen van het [Europees Cultureel Verdrag](onbekend) is;
+##### Article 2. Scope
 
-Gelet op de [UNESCO-Overeenkomst](onbekend) betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen (Parijs, 20 oktober 2005) waarin erkend wordt dat culturele diversiteit inherent is aan de mensheid en gestreefd wordt het scheppen, produceren, verspreiden, distribueren en genieten van cultuuruitingen te versterken;
+1. This Convention shall govern relations between the Parties in the field of multilateral co-productions originating in the territory of the Parties.
 
-Overwegende dat de cinematografische coproductie, als middel voor vormgeving en expressie van de culturele diversiteit op mondiale schaal, dient te worden versterkt;
+2. This Convention shall apply:
 
-Zich ervan bewust dat film een belangrijk middel is voor culturele en artistieke expressie met een essentiële rol bij het ondersteunen van de vrijheid van meningsuiting, diversiteit en creativiteit, alsmede het democratisch burgerschap;
+- a) to co-productions involving at least three co-producers, established in three different Parties to the Convention; and
 
-Vastbesloten deze beginselen te ontwikkelen en in herinnering roepend de aanbevelingen van het Comité van Ministers aan lidstaten inzake cinema en het audiovisuele gebied, en met name Aanbeveling Rec(86)3 inzake het bevorderen van de audiovisuele producties in Europa en Aanbeveling CM/Rec(2009)7 inzake nationaal filmbeleid en de diversiteit van culturele expressie;
+- b) to co-productions involving at least three co-producers established in three different Parties to the Convention and one or more co-producers that are not established in such Parties. The total contribution of the co-producers who are not established in the Parties to the Convention may not, however, exceed 30% of the total cost of the production.
 
-Erkennend dat Resolutie Res(88)15 tot oprichting van een Europees fonds voor de ondersteuning van coproductie en distributie van oorspronkelijke cinematografische en audiovisuele werken “Eurimages” gewijzigd is zodat ook niet-lidstaten kunnen toetreden;
+In all cases, this Convention shall only apply on condition that the work meets the definition of an officially co-produced cinematographic work as defined in [Article 3, sub-paragraph c](https://wetten.overheid.nl/BWBV0006663), below.
 
-Vastbesloten deze doelstellingen te verwezenlijken door een gemeenschappelijke inspanning om samenwerking te bevorderen en regels op te stellen die toegesneden kunnen worden op cinematografische coproducties als geheel;
+3. The provisions of bilateral agreements concluded between the Parties to this Convention shall continue to apply to bilateral co-productions.
 
-Overwegende dat het aannemen van gemeenschappelijke regels bijdraagt tot het verminderen van beperkingen en het bevorderen van de samenwerking op het gebied van cinematografische coproducties;
+In the case of multilateral co-productions, the provisions of this Convention shall override those of bilateral agreements between Parties to the Convention. The provisions concerning bilateral co-productions shall remain in force if they do not contravene the provisions of this Convention.
 
-Gelet op de technologische, economische en financiële ontwikkeling van de filmindustrie sinds het [Europees Verdrag inzake cinematografische coproduktie](onbekend) (ETS nr. 147) in 1992 werd opengesteld voor ondertekening;
+4. In the absence of any agreement governing bilateral co-production relations between two Parties to this Convention, the Convention shall also apply to bilateral co-productions, unless a reservation has been made by one of the Parties involved under the terms of [Article 22](https://wetten.overheid.nl/BWBV0006663).
 
-Ervan overtuigd dat deze ontwikkeling noopt tot herziening van het [Verdrag van 1992](onbekend) teneinde te waarborgen dat de relevantie en effectiviteit van dit kader voor cinematografische coproductie behouden blijven;
+##### Article 3. Definitions
 
-Erkennend dat het huidige [Verdrag het Europees Verdrag inzake cinematografische coproductie](onbekend) dient te vervangen;
+For the purposes of this Convention:
 
-Zijn het volgende overeengekomen:
+- a) the term “cinematographic work” shall mean a work of any length or medium, in particular cinematographic works of fiction, animation and documentaries, which complies with the provisions governing the film industry in force in each of the Parties concerned and is intended to be shown in cinemas;
 
-### HOOFDSTUK I. ALGEMENE BEPALINGEN
+- b) the term “co-producers” shall mean cinematographic production companies or producers established in the Parties to this Convention and bound by a co-production contract;
 
-##### Artikel 1. Doel van het Verdrag
+- c) the term “officially co-produced cinematographic work” (hereafter “the film”) shall mean a cinematographic work which meets the conditions laid down in [Appendix II](https://wetten.overheid.nl/BWBV0006663), which is an integral part of this Convention;
 
-De partijen bij dit Verdrag verbinden zich ertoe de ontwikkeling van internationale cinematografische coproducties te bevorderen in overeenstemming met de volgende bepalingen.
+- d) the term “multilateral co-production” shall mean a cinematographic work produced by at least three co-producers as defined in [Article 2, paragraph 2](https://wetten.overheid.nl/BWBV0006663), above.
 
-##### Artikel 2. Reikwijdte
+### CHAPTER II. RULES APPLICABLE TO CO-PRODUCTIONS
 
-1. Dit Verdrag regelt de betrekkingen tussen de partijen op het gebied van multilaterale coproducties die hun oorsprong vinden op het grondgebied van de partijen.
+##### Article 4. Assimilation to national films
 
-2. Dit Verdrag is van toepassing op:
+1. Cinematographic works made as multilateral co-productions and falling within the scope of this Convention shall be entitled to the benefits granted to national films by the legislative and regulatory provisions in force in each of the Parties to this Convention participating in the co-production concerned.
 
-- a. coproducties waarbij ten minste drie coproducenten zijn betrokken die zijn gevestigd in drie verschillende partijen bij het Verdrag; en
+2. The benefits shall be granted to each co-producer by the Party in which the co-producer is established, under the conditions and limits provided for by the legislative and regulatory provisions in force in that Party and in accordance with the provisions of this Convention.
 
-- b. coproducties waarbij ten minste drie coproducenten zijn betrokken die zijn gevestigd in drie verschillende partijen bij het Verdrag en één of meer coproducenten die niet in deze partijen zijn gevestigd. De totale inbreng van de coproducenten die niet in de partijen bij het Verdrag zijn gevestigd mag echter niet meer bedragen dan 30% van de totale kosten van de productie. In alle gevallen is dit Verdrag slechts van toepassing op voorwaarde dat het werk voldoet aan de omschrijving van een officiële coproductie van een cinematografisch werk als omschreven in [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=3&z=2017-12-01&g=2017-12-01), van dit Verdrag.
+##### Article 5. Conditions for obtaining co-production status
 
-3. De bepalingen van bilaterale verdragen gesloten tussen de partijen bij dit Verdrag blijven van toepassing op bilaterale coproducties.
+1. Any co-production of cinematographic works shall be subject to the approval of the competent authorities of the Parties in which the co-producers are established, after consultation between the competent authorities and in accordance with the procedures laid down in [Appendix I](https://wetten.overheid.nl/BWBV0006663). This appendix shall form an integral part of this Convention.
 
-In het geval van multilaterale coproducties hebben de bepalingen van dit Verdrag voorrang boven die van bilaterale verdragen tussen de partijen bij het Verdrag. De bepalingen betreffende bilaterale coproducties blijven van kracht indien zij niet in strijd zijn met de bepalingen van dit Verdrag.
+2. Applications for co-production status shall be submitted for approval to the competent authorities according to the application procedure laid down in [Appendix I](https://wetten.overheid.nl/BWBV0006663). This approval shall be final except in the case of failure to comply with the initial undertakings concerning artistic, financial or technical matters.
 
-4. Bij gebreke van een verdrag waarin de bilaterale betrekkingen ter zake van coproducties tussen twee partijen bij dit Verdrag zijn geregeld, is het Verdrag ook van toepassing op bilaterale coproducties, tenzij door één van de betrokken partijen een voorbehoud is gemaakt ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=22&z=2017-12-01&g=2017-12-01).
+3. Projects of a blatantly pornographic nature or those that advocate discrimination, hate or violence or openly offend human dignity cannot be accorded co-production status.
 
-##### Artikel 3. Begripsomschrijvingen
+4. The benefits provided by co-production status shall be granted to co-producers who are deemed to possess adequate technical and financial means, and sufficient professional qualifications.
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+5. Each Contracting State shall designate the competent authorities mentioned in paragraph 2 above by means of a declaration made at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession. This declaration may be modified at any time afterwards.
 
-- a. „cinematografisch werk”: een werk, ongeacht lengte of drager, in het bijzonder cinematografische fictiewerken, animatie en documentaires, dat voldoet aan de bepalingen die van kracht zijn voor de filmindustrie in elk van de betrokken partijen en dat is bestemd voor bioscoopvertoning;
+##### Article 6. Proportions of contributions from each co-producer
 
-- b. „coproducenten”: filmproductie-ondernemingen of filmproducenten die zijn gevestigd in de partijen bij dit Verdrag en die zijn gebonden door een coproductie-overeenkomst;
+1. In the case of multilateral co-production, the minimum contribution may not be less than 5% and the maximum contribution may not exceed 80% of the total production cost of the cinematographic work. When the minimum contribution is less than 20% or the co-production is financial only, the Party concerned may take steps to reduce or bar access to national production support schemes.
 
-- c. „officiële coproductie van een cinematografisch werk” (hierna “de film”): een cinematografisch werk dat voldoet aan de voorwaarden gesteld in [Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=II&z=2017-12-01&g=2017-12-01), die een integrerend onderdeel van dit Verdrag vormt;
+2. When this Convention takes the place of a bilateral agreement between two Parties under the provisions of [Article 2, paragraph 4](https://wetten.overheid.nl/BWBV0006663), the minimum contribution may not be less than 10% and the largest contribution may not exceed 90% of the total production cost of the cinematographic work. When the minimum contribution is less than 20% or the co-production is financial only, the Party concerned may take steps to reduce or bar access to national production support schemes.
 
-- d. „multilaterale coproductie”: een cinematografisch werk geproduceerd door ten minste drie coproducenten als omschreven in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-12-01&g=2017-12-01), hierboven
+##### Article 7. Rights of co-producers to the cinematographic work
 
-### HOOFDSTUK II. REGELS DIE OP COPRODUCTIES VAN TOEPASSING ZIJN
+1. The co-production contract must guarantee to each co-producer joint ownership of the tangible and intangible property rights of the film. The contract shall include the provision that the film master (first completed version) shall be kept in a place mutually agreed by the co-producers, and shall guarantee them free access to it.
 
-##### Artikel 4. Gelijkstelling met nationale films
+2. The co-production contract must also guarantee to each co-producer the right to access the material and the film master for use as a medium of duplication.
 
-1. Voor cinematografische werken die als multilaterale coproducties zijn vervaardigd en binnen de reikwijdte van dit Verdrag vallen, kan aanspraak worden gemaakt op de voordelen die aan nationale films worden toegekend door de wet- en regelgeving die van kracht is in elk van de partijen bij dit Verdrag die aan de desbetreffende coproductie deelnemen.
+##### Article 8. Technical and artistic participation
 
-2. De voordelen worden aan elke coproducent toegekend door de partij waarin de coproducent is gevestigd, onder de voorwaarden en binnen de grenzen bepaald in de wet- en regelgeving die in die partij van kracht is en in overeenstemming met de bepalingen van dit Verdrag.
+1. The contribution of each of the co-producers shall include effective technical and artistic participation. In principle, and in accordance with international obligations binding the Parties, the contribution of the co-producers relating to creative, technical and artistic personnel, cast and facilities, must be proportional to their investment.
 
-##### Artikel 5. Voorwaarden voor het verkrijgen van de coproductiestatus
+2. Subject to the international obligations binding the Parties and to the demands of the screenplay, the crew involved in filming the work must be made up of nationals of the States which are partners in the co-production, and post-production shall normally be carried out in those States.
 
-1. Elke cinematografische coproductie dient te worden goedgekeurd door de bevoegde autoriteiten van de partijen waarin de coproducenten zijn gevestigd, na overleg tussen de bevoegde autoriteiten en in overeenstemming met de procedures vervat in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=I&z=2017-12-01&g=2017-12-01). Deze bijlage vormt een integrerend onderdeel van dit Verdrag.
+##### Article 9. Financial co-productions
 
-2. Aanvragen voor het verkrijgen van de coproductiestatus dienen ter goedkeuring bij de bevoegde autoriteiten te worden ingediend overeenkomstig de aanvraagprocedure vervat in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=I&z=2017-12-01&g=2017-12-01). Deze goedkeuring is onherroepelijk, behalve indien de aanvankelijk aangegane verplichtingen op artistiek, financieel en technisch gebied niet worden nagekomen.
+1. Notwithstanding the provisions of [Article 8](https://wetten.overheid.nl/BWBV0006663), and subject to the specific conditions and limits laid down in the laws and regulations in force in the Parties, co-productions may be granted co-production status under the provisions of this Convention if they meet the following conditions:
 
-3. Aan projecten van duidelijk pornografische aard of projecten die aanzetten tot discriminatie, haat of geweld of waarin de menselijke waardigheid openlijk wordt aangetast, kan geen coproductiestatus worden verleend.
+- a) include one or more minority contributions which may be financial only, in accordance with the co-production contract, provided that each national share is neither less than 10% nor more than 25% of the production costs;
 
-4. De voordelen van de coproductiestatus worden toegekend aan coproducenten die worden geacht te beschikken over toereikende technische en financiële middelen en voldoende vakbekwaamheid.
+- b) include a majority co-producer who makes an effective technical and artistic contribution and satisfies the conditions for the cinematographic work to be recognised as a national work in his or her country;
 
-5. Elke verdragsluitende staat wijst de in het tweede lid van dit artikel genoemde bevoegde autoriteiten aan door middel van een verklaring, afgelegd bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding. Deze verklaring kan daarna te allen tijde worden gewijzigd.
+- c) help to promote cultural diversity and intercultural dialogue; and
 
-##### Artikel 6. Verhouding tussen de inbreng van de coproducenten
+- d) are embodied in co-production contracts which include provisions for the distribution of receipts.
 
-1. In het geval van een multilaterale coproductie mag de kleinste inbreng niet minder dan 5% en de grootste inbreng niet meer dan 80% bedragen van de totale productiekosten van een cinematografisch werk. Wanneer de kleinste inbreng minder dan 20% bedraagt of de coproductie louter financieel van aard is, kan de betrokken partij stappen ondernemen om de toegang tot nationale steunmaatregelen voor producties te beperken of te blokkeren.
+2. Financial co-productions shall only qualify for co-production status once the competent authorities have given their approval in each individual case, in particular taking into account the provisions of [Article 10](https://wetten.overheid.nl/BWBV0006663) below.
 
-2. Wanneer dit Verdrag ingevolge de bepalingen van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-12-01&g=2017-12-01), tussen twee partijen als bilateraal verdrag geldt, mag de kleinste inbreng niet minder dan 10% en de grootste inbreng niet meer dan 90% bedragen van de totale productiekosten van het cinematografische werk. Wanneer de kleinste inbreng minder dan 20% bedraagt of de coproductie louter financieel van aard is, kan de betrokken partij stappen ondernemen om de toegang tot nationale steunmaatregelen voor producties te beperken of te blokkeren.
+##### Article 10. General balance
 
-##### Artikel 7. Rechten van coproducenten op cinematografisch werk
+1. A general balance must be maintained in the cinematographic relations of the Parties, with regard both to the total amount invested and the artistic and technical participation in co-production cinematographic works.
 
-1. De coproductie-overeenkomst dient te waarborgen dat elke coproducent de gezamenlijke eigendom verkrijgt van alle materiële en immateriële eigendomsrechten van de film. De overeenkomst dient een bepaling te bevatten dat de master van de film (eerste gemonteerde versie) wordt bewaard op een door beide coproducenten gezamenlijk overeen te komen locatie, waartoe zij vrije toegang dienen te hebben.
+2. A Party which, over a reasonable period, observes a deficit in its co-production relations with one or more other Parties may withhold its approval of a subsequent co-production until balanced cinematographic relations with that or those Parties have been restored.
 
-2. De coproductie-overeenkomst dient tevens te waarborgen dat elke coproducent tevens recht krijgt op toegang tot het materiaal en de master van de film voor gebruik als medium voor het maken van duplicaten.
+##### Article 11. Entry and residence
 
-##### Artikel 8. Technische en artistieke bijdrage
+In accordance with the laws and regulations and international obligations in force, each Party shall facilitate entry and residence, as well as the granting of work permits in its territory, of technical and artistic personnel from other Parties participating in a co-production. Similarly, each Party shall permit the temporary import and re-export of equipment necessary to the production and distribution of cinematographic works falling within the scope of this Convention.
 
-1. De inbreng van elke coproducent dient een wezenlijke technische en artistieke bijdrage te omvatten. In beginsel, en in overeenstemming met internationale verplichtingen die de partijen binden, dient de inbreng van de coproducenten in de vorm van creatief, technisch en artistiek personeel, acteurs en faciliteiten, evenredig te zijn aan hun investering.
+##### Article 12. Credits of co-producing countries
 
-2. Met inachtneming van de internationale verplichtingen die de partijen binden en de eisen van het scenario, dient de filmploeg te bestaan uit onderdanen van de staten die in de coproductie deelnemen en dient de post-productie in beginsel in die staten plaats te vinden.
+1. Co-producing countries shall be credited in co-produced cinematographic works.
 
-##### Artikel 9. Financiële coproducties
+2. The names of these countries shall be clearly mentioned in the credit titles, in all publicity and promotion material and when the cinematographic works are being shown.
 
-1. Niettegenstaande de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=8&z=2017-12-01&g=2017-12-01) en met inachtneming van de specifieke voorwaarden en grenzen vastgesteld in de wet- en regelgeving die in de partijen van kracht is, kan aan coproducties krachtens de bepalingen van dit Verdrag de coproductiestatus worden toegekend indien zij aan de volgende voorwaarden voldoen:
+##### Article 13. Export
 
-- a. zij omvatten één of meer minderheidsdeelnemingen, die louter financieel van aard kunnen zijn, in overeenstemming met de coproductie-overeenkomst, mits elk nationaal aandeel niet minder bedraagt dan 10% en niet meer dan 25% van de productiekosten;
+When a co-produced cinematographic work is exported to a country where imports of cinematographic works are subject to quotas and one of the co-producing Parties does not have the right of free entry for its cinematographic works to the importing country:
 
-- b. zij omvatten een meerderheidscoproducent die een wezenlijke technische en artistieke bijdrage levert en voldoet aan de voorwaarden om zijn werk in zijn eigen land als nationaal werk te doen aanmerken;
+- a) the cinematographic work shall normally be added to the quota of the country which has the majority participation;
 
-- c. zij dragen bij aan het bevorderen van de culturele diversiteit en interculturele dialoog; en
+- b) in the case of a cinematographic work which comprises an equal participation from different countries, the cinematographic work shall be added to the quota of the country which has the best opportunities for exporting to the importing country;
 
-- d. zij zijn onderwerp van coproductie-overeenkomsten waarin bepalingen zijn opgenomen inzake de verdeling van opbrengsten.
+- c) when the provisions of sub-paragraphs a and b above cannot be applied, the cinematographic work shall be entered in the quota of the Party which provides the director.
 
-2. Financiële coproducties komen slechts in aanmerking voor de coproductiestatus indien de bevoegde autoriteiten in elk afzonderlijk geval hun goedkeuring hebben verleend, hierbij in het bijzonder rekening houdend met de bepalingen van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=10&z=2017-12-01&g=2017-12-01) hieronder.
+##### Article 14. Languages
 
-##### Artikel 10. Algemeen evenwicht
+When according co-production status, the competent authority of a Party may demand from the co-producer established therein a final version of the cinematographic work in one of the languages of that Party.
 
-1. Er dient een algemeen evenwicht te worden gehandhaafd in de cinematografische betrekkingen tussen de partijen, zowel wat betreft het totaal geïnvesteerde bedrag, als wat betreft de artistieke en technische deelneming aan cinematografische coproducties.
+##### Article 15. Festivals
 
-2. Een partij die na een redelijke periode vaststelt dat er sprake is van onevenwichtige betrekkingen op het gebied van coproducties met één of meer partijen, kan weigeren haar goedkeuring te verlenen aan een volgende coproductie totdat het evenwicht in de cinematografische betrekkingen met die partij(en) is hersteld.
+Unless the co-producers decide otherwise, co-produced cinematographic works shall be shown at international festivals by the Party where the majority co-producer is established, or, in the case of equal financial participation, by the Party which provides the director.
 
-##### Artikel 11. Binnenkomst en verblijf
+### CHAPTER III. FINAL PROVISIONS
 
-In overeenstemming met de geldende wet- en regelgeving en internationale verplichtingen vergemakkelijkt elke partij de binnenkomst en het verblijf, alsmede het verlenen van werkvergunningen op haar grondgebied, van technisch en artistiek personeel uit andere partijen die aan een coproductie deelnemen. Op dezelfde manier staat elke partij de tijdelijke invoer en wederuitvoer toe van apparatuur die noodzakelijk is voor de productie en distributie van cinematografische werken die binnen de reikwijdte van dit Verdrag vallen.
+##### Article 16. Effects of the Convention
 
-##### Artikel 12. Vermelding van coproducerende landen
+1. This Convention shall replace, as regards its States Parties, the [European Convention on Cinematographic Co-production](https://wetten.overheid.nl/jci1.3:c:BWBV0001179), which was opened for signature on 2 October 1992.
 
-1. De coproducerende landen dienen in de in coproductie vervaardigde cinematografische werken te worden vermeld.
+2. In relations between a Party to the present Convention and a Party to the [1992 Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001179) which has not ratified the present Convention, the 1992 Convention shall continue to apply.
 
-2. De namen van deze landen dienen duidelijk te worden vermeld in de titelrollen, in al het reclame- en promotiemateriaal en bij de vertoning van de cinematografische werken.
+##### Article 17. Follow-up of the Convention and amendments to Appendices I and II
 
-##### Artikel 13. Uitvoer
+1. The Board of Management of the European Support Fund for the Co-production and Distribution of Creative Cinematographic and Audiovisual Works “Eurimages” shall be responsible for the follow-up of this Convention.
 
-Wanneer een in coproductie vervaardigd cinematografisch werk wordt uitgevoerd naar een land waar quota gelden voor de invoer van cinematografische werken en één van de coproducerende partijen voor haar cinematografische werken niet beschikt over het recht van vrije toegang tot het invoerende land:
+2. Any Party to this Convention which is not a member of “Eurimages” may be represented and have one vote in the Board of Management of “Eurimages” when the Board carries out the tasks assigned to it by this Convention.
 
-- a. wordt het cinematografische werk in beginsel toegevoegd aan de quota van het land dat de grootste bijdrage levert;
+3. In order to promote the effective application of the Convention, the Board of Management of “Eurimages” may:
 
-- b. wordt het cinematografische werk, in het geval van een cinematografisch werk waarvoor door verschillende landen een gelijke bijdrage is geleverd, toegevoegd aan de quota van het land dat de beste mogelijkheden heeft voor uitvoer naar het invoerende land;
+- a) make proposals to facilitate the exchange between Parties of experience and good practice;
 
-- c. wordt het cinematografische werk wanneer de bepalingen van de onderdelen a en b hierboven niet kunnen worden toegepast, opgenomen in de quota van de partij die de regisseur levert.
+- b) formulate its opinion on any question concerning the application and the implementation of this Convention and make specific recommendations to Parties in this respect.
 
-##### Artikel 14. Talen
+4. In order to update the provisions of [Appendices I](https://wetten.overheid.nl/BWBV0006663) and [II](https://wetten.overheid.nl/BWBV0006663) of this Convention to ensure their continuing relevance to common practices in the cinematographic industry, amendments may be proposed by any Party, by the Committee of Ministers or by the Board of Management of the European Support Fund for the Co-production and Distribution of Creative Cinematographic and Audiovisual Works “Eurimages”. They shall be communicated by the Secretary General of the Council of Europe to the Parties.
 
-Wanneer de coproductiestatus wordt verleend, kan de bevoegde autoriteit van een partij van de daarin gevestigde coproducent een definitieve versie van het cinematografische werk eisen in één van de talen van die partij.
+5. After having consulted the Parties, the Committee of Ministers may adopt an amendment proposed in accordance with paragraph 4 by the majority provided for in [Article 20.d, of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20). The amendment shall enter into force following the expiry of a period of one year after the date on which it has been forwarded to the Parties. During this period, any Party may notify the Secretary General of any objection to the entry into force of the amendment in its respect.
 
-##### Artikel 15. Festivals
+6. If one third of the Parties notifies the Secretary General of the Council of Europe of an objection to the entry into force of the amendment, the amendment shall not enter into force.
 
-Tenzij de coproducenten anders beslissen, worden in coproductie vervaardigde cinematografische werken op internationale festivals vertoond door de partij waar de meerderheidscoproducent is gevestigd of, in het geval van gelijke financiële deelneming, door de partij die de regisseur levert.
+7. If less than one third of the Parties notifies an objection, the amendment shall enter into force for those Parties which have not notified an objection.
 
-### HOOFDSTUK III. SLOTBEPALINGEN
+8. Once an amendment has entered into force in accordance with paragraphs 5 and 7 of this article and a Party has notified an objection to it, this amendment shall come into force in respect of the Party concerned on the first day of the month following the date on which the Party has notified the Secretary General of the Council of Europe of its acceptance of the amendment. A Party which has made an objection may withdraw it at any time by notifying the Secretary General of the Council of Europe.
 
-##### Artikel 16. Gevolgen van het Verdrag
+9. If the Committee of Ministers adopts an amendment, a State or the European Union may not express its consent to be bound by the Convention without accepting at the same time the amendment.
 
-1. Dit Verdrag treedt ten aanzien van de staten die er partij bij zijn in de plaats van het [Europees Verdrag inzake cinematografische coproduktie](onbekend), dat op 2 oktober 1992 werd opengesteld voor ondertekening.
+##### Article 18. Signature, ratification, acceptance, approval
 
-2. In de betrekkingen tussen een partij bij dit Verdrag en een partij bij het [Verdrag van 1992](onbekend) die dit Verdrag niet heeft bekrachtigd blijft het Verdrag van 1992 van toepassing.
+1. This Convention shall be open for signature by the member States of the Council of Europe and the other States Parties to the [European Cultural Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005098) which may express their consent to be bound by:
 
-##### Artikel 17. Follow-up van het Verdrag en wijzigingen van de Aanhangsels I en II
+- a) signature without reservation as to ratification, acceptance or approval; or
 
-1. De Raad van Bestuur van het Europees fonds voor de ondersteuning van coproductie en distributie van oorspronkelijke cinematografische en audiovisuele werken “Eurimages” is verantwoordelijk voor de follow-up van dit Verdrag.
+- b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval.
 
-2. Elke partij bij dit Verdrag die geen lid is van “Eurimages” kan vertegenwoordigd worden en één stem hebben in de Raad van Bestuur van “Eurimages” wanneer het bestuur de ingevolge het Verdrag aan haar toegewezen taken uitvoert.
+2. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-3. Teneinde de effectieve toepassing van het Verdrag te bevorderen, kan de Raad van Bestuur van “Eurimages”:
+##### Article 19. Entry into force
 
-- a. voorstellen doen om de uitwisseling van ervaringen en goede praktijken tussen de partijen te vergemakkelijken;
+1. The Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date on which three States, including at least two member States of the Council of Europe, have expressed their consent to be bound by the Convention in accordance with the provisions of [Article 18](https://wetten.overheid.nl/BWBV0006663).
 
-- b. een standpunt innemen over elke kwestie die verband houdt met de toepassing en implementatie van dit Verdrag en in dit opzicht specifieke aanbevelingen doen aan de partijen.
+2. In respect of any signatory State which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of signature or of the deposit of the instrument of ratification, acceptance or approval.
 
-4. Teneinde de bepalingen van de [Aanhangsels I](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=I&z=2017-12-01&g=2017-12-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=II&z=2017-12-01&g=2017-12-01) bij dit Verdrag te actualiseren om hun relevantie voor de gebruikelijke praktijken in de cinematografische industrie te blijven waarborgen, kan elke partij, het Comité van Ministers of de Raad van Bestuur van het Europees fonds voor de ondersteuning van coproductie en distributie van oorspronkelijke cinematografische en audiovisuele werken “Eurimages” wijzigingen voorstellen. Zij worden door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de partijen.
+##### Article 20. Accession of non-member States
 
-5. Na raadpleging van de partijen kan het Comité van Ministers een overeenkomstig het vierde lid voorgestelde wijziging aannemen met de in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) voorziene meerderheid. De wijziging wordt van kracht na het verstrijken van een tijdvak van een jaar na de datum waarop deze is toegestuurd aan de partijen. Gedurende dit tijdvak kan elke partij de Secretaris-Generaal in kennis stellen van enig bezwaar tegen de inwerkingtreding van de wijziging ten aanzien van haar.
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may, after consultation of the Parties, invite any State not a member of the Council of Europe, as well as the European Union, to accede to this Convention, by a decision taken by the majority provided for in [Article 20.d, of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), and by the unanimous vote of the representatives of the Contracting States entitled to sit on the Committee of Ministers.
 
-6. Indien een derde van de partijen de Secretaris-Generaal van de Raad van Europa in kennis stelt van een bezwaar tegen het van kracht worden van de wijziging, wordt de wijziging niet van kracht.
+2. In respect of any acceding State or of the European Union, in the event of its accession, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.
 
-7. Indien minder dan een derde van de partijen kennisgeving heeft gedaan van bezwaar, wordt de wijziging van kracht voor de partijen die geen kennisgeving van bezwaar hebben gedaan.
+##### Article 21. Territorial clause
 
-8. Indien een wijziging overeenkomstig het vijfde tot en met zevende lid van dit artikel van kracht is geworden en een partij kennisgeving heeft gedaan van een bezwaar ertegen, wordt deze wijziging voor de desbetreffende partij van kracht op de eerste dag van de maand die volgt op de datum waarop de partij de Secretaris-Generaal van de Raad van Europa in kennis heeft gesteld van haar aanvaarding van de wijziging. Een partij die bezwaar heeft ingediend kan dit te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Raad van Europa.
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
 
-9. Indien een wijziging is aanvaard door het Comité van Ministers, kan een staat of de Europese Unie zijn of haar instemming te worden gebonden door het Verdrag niet tot uitdrukking brengen zonder tegelijkertijd de wijziging te aanvaarden.
+2. Any Party may, at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of the declaration by the Secretary General.
 
-##### Artikel 18. Ondertekening, bekrachtiging, aanvaarding, goedkeuring
+3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such a declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.
 
-1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa en door de andere staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend), die hun instemming door het Verdrag gebonden te worden tot uitdrukking kunnen brengen door:
+##### Article 22. Reservations
 
-- a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring; of
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that [Article 2, paragraph 4](https://wetten.overheid.nl/BWBV0006663), does not apply to its bilateral co-production relations with one or more Parties. Moreover, it may reserve the right to fix a maximum participation share different from that laid down in [Article 9, paragraph 1.a](https://wetten.overheid.nl/BWBV0006663). No other reservation may be made.
 
-- b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring.
+2. Any Party which has made a reservation under the preceding paragraph may wholly or partly withdraw it by means of a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall take effect on the date of receipt of such notification by the Secretary General.
 
-2. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+##### Article 23. Denunciation
 
-##### Artikel 19. Inwerkingtreding
+1. Any Party may, at any time, denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
 
-1. Het Verdrag treedt in werking op de eerste dag van de maand volgend na het verstrijken van een tijdvak van drie maanden na de datum waarop drie Staten, waaronder ten minste twee lidstaten van de Raad van Europa, hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht in overeenstemming met de bepalingen van artikel 18.
+2. Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
 
-2. Ten aanzien van een ondertekenende staat die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand volgend na het verstrijken van een tijdvak van drie maanden na de datum van ondertekening of de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
+##### Article 24. Notifications
 
-##### Artikel 20. Toetreding van niet-lidstaten
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, as well as the European Union and any State which has acceded to this Convention or has been invited to do so, of:
 
-1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na raadpleging van de partijen, elke staat die geen lid is van de Raad van Europa alsmede de Europese Unie uitnodigen tot dit Verdrag toe te treden, door middel van een besluit dat is genomen met de meerderheid voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van](onbekend) Europa en met eenparigheid van stemmen van de vertegenwoordigers van de verdragsluitende staten die recht hebben op een zetel in het Comité van Ministers.
+- a) any signature;
 
-2. Ten aanzien van een toetredende staat of de Europese Unie, ingeval zij toetreedt, treedt het Verdrag in werking op de eerste dag van de maand volgend na het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+- b) the deposit of any instrument of ratification, acceptance, approval or accession;
 
-##### Artikel 21. Territoriale toepassing
+- c) any date of entry into force of this Convention in accordance with [Articles 19](https://wetten.overheid.nl/BWBV0006663), [20](https://wetten.overheid.nl/BWBV0006663) and [21](https://wetten.overheid.nl/BWBV0006663);
 
-1. Elke staat kan op het tijdstip van de ondertekening of van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden waarop dit Verdrag van toepassing is nader aangeven.
+- d) any reservation and withdrawal of reservation made in pursuance of [Article 22](https://wetten.overheid.nl/BWBV0006663);
 
-2. Elke partij kan, te allen tijde daarna, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa, de toepassing van dit Verdrag uitbreiden tot elk ander in de verklaring aangegeven grondgebied. Ten aanzien van een dergelijk grondgebied treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de verklaring door de Secretaris-Generaal.
+- e) any declaration made in accordance with [Article 5, paragraph 5](https://wetten.overheid.nl/BWBV0006663);
 
-3. Elke ingevolge de twee voorgaande leden afgelegde verklaring kan ten aanzien van elk in die verklaring aangegeven grondgebied worden ingetrokken door middel van een kennisgeving gericht aan de Secretaris-Generaal. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+- f) any denunciation notified in accordance with [Article 23](https://wetten.overheid.nl/BWBV0006663);
 
-##### Artikel 22. Voorbehouden
-
-1. Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-12-01&g=2017-12-01), niet van toepassing is op zijn bilaterale betrekkingen op het gebied van coproducties met één of meer partijen. Bovendien kan hij zich het recht voorbehouden een maximale deelneming vast te stellen die afwijkt van de in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=9&z=2017-12-01&g=2017-12-01), bepaalde deelneming. Andere voorbehouden mogen niet worden gemaakt.
-
-2. Elke partij die ingevolge het voorgaande lid een voorbehoud heeft gemaakt, kan dit geheel of gedeeltelijk intrekken door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa. De intrekking wordt van kracht op de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal.
-
-##### Artikel 23. Opzegging
-
-1. Elke partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
-
-2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
-
-##### Artikel 24. Kennisgeving
-
-De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de Europese Unie en elke staat die is toegetreden of uitgenodigd toe te treden tot dit Verdrag in kennis van:
-
-- a. elke ondertekening;
-
-- b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- c. elke datum van inwerkingtreding van dit Verdrag overeenkomstig de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=19&z=2017-12-01&g=2017-12-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=19&z=2017-12-01&g=2017-12-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=21&z=2017-12-01&g=2017-12-01);
-
-- d. elk voorbehoud en elke intrekking van voorbehouden gemaakt ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=22&z=2017-12-01&g=2017-12-01);
-
-- e. elke verklaring afgelegd overeenkomstig [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=5&z=2017-12-01&g=2017-12-01);
-
-- f. elke opzegging waarvan kennisgeving is gedaan overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=23&z=2017-12-01&g=2017-12-01);
-
-- g. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.
+- g) any other act, notification or communication relating to this Convention.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 
-DONE at Rotterdam, this 30th day of January 2017 in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to the States mentioned in Article 18, paragraph 1, as well as to the European Union and any State which has been invited to accede to this Convention.
+DONE at Rotterdam, this 30th day of January 2017 in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to the States mentioned in [Article 18, paragraph 1](https://wetten.overheid.nl/BWBV0006663), as well as to the European Union and any State which has been invited to accede to this Convention.

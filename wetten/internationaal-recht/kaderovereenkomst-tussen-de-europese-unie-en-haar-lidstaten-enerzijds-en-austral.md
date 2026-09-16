@@ -1,140 +1,21 @@
 ---
 title: "Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Australië, anderzijds"
 identifier: "BWBV0006721"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-10-21"
-last_updated: "2022-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006721"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005426613"
-version_id: "10005873982"
-internal_id: "C10009945831"
-label_id: "10005409774"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006721/2022-10-21/0"
-intitule_bron: "Trb.2018-30"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-03-02"
-intitule_in_force: "2022-11-08"
-intitule_status: "goed"
-original_publication: "Trb.2018-30"
-original_published_date: "2018-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2018-30"
-entry_into_force_date: "2022-10-21"
-jci_1_3: "jci1.3:c:BWBV0006721&z=2022-10-21&g=2022-10-21"
-jci_1_0: "1.0:c:BWBV0006721&g=2022-10-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-10-21"
+publicatiedatum: 2022-10-21
+laatste_update: 2022-10-21
+status: geldig
+toestand: 2022-10-21
+bron: "https://wetten.overheid.nl/BWBV0006721"
+opgehaald: 2026-09-16
 ---
+
 # Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Australië, anderzijds
 
-De Europese Unie, hierna „de Unie” genoemd,
+*De Europese Unie, hierna „de Unie” genoemd, en het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, lidstaten van de Europese Unie, hierna „de lidstaten” genoemd, enerzijds, en Australië anderzijds, hierna „de partijen” genoemd, Overwegende hun gedeelde waarden en hun nauwe historische, politieke, economische en culturele banden; Ingenomen met de vooruitgang die is geboekt met de ontwikkeling van duurzame en wederzijds tot voordeel strekkende betrekkingen door de goedkeuring van de gezamenlijke verklaring over de betrekkingen tussen de Europese Unie en Australië van 26 juni 1997 en de tenuitvoerlegging van de agenda 2003 voor samenwerking; Erkennend het vernieuwde engagement en de vernieuwde samenwerking tussen Australië en de Unie sinds de ontwikkeling van het op 29 oktober 2008 aangenomen partnerschapskader Australië-Europese Unie; Opnieuw bevestigend hun engagement voor de doelstellingen en beginselen van het Handvest van de Verenigde Naties („VN-Handvest”) en ter versterking van de rol van de Verenigde Naties („VN”); Opnieuw bevestigend hun engagement voor de democratische beginselen en de rechten van de mens, vastgelegd in de Universele Verklaring van de rechten van de mens en andere toepasselijke internationale mensenrechteninstrumenten, alsmede voor de beginselen van de rechtsstaat en goed bestuur; Beklemtonend de alomvattende aard van hun betrekkingen en het belang van een coherent kader ter bevordering van de ontwikkeling van deze betrekkingen; Uitdrukking gevend aan hun gezamenlijke wil om de betrekkingen om te smeden tot een versterkt partnerschap; Bevestigend hun wens om de onderlinge politieke dialoog en samenwerking te intensiveren en te ontwikkelen; Vastbesloten de samenwerking op gebieden van wederzijds belang op bilateraal, regionaal en mondiaal niveau en tot wederzijds voordeel te consolideren, te verdiepen en te diversifiëren; Uitdrukking gevend aan hun engagement om een gunstig klimaat te creëren voor meer bilaterale handel en investeringen; Bevestigend hun wil om intensiever samen te werken op het gebied van justitie, vrijheid en veiligheid; Erkennend de wederzijdse voordelen van meer samenwerking op het gebied van onderwijs, cultuur, onderzoek en innovatie; Uitdrukking gevend aan hun wil om duurzame ontwikkeling in economisch, sociaal en milieu-opzicht te bevorderen; Voortbouwend op de overeenkomsten die zijn gesloten tussen de Unie en Australië, met name inzake wetenschappen, luchtvaartdiensten, wijn, de veiligheid van gerubriceerde informatie, conformiteitsevaluatieprocedures voor industriële producten en de uitwisseling van luchtpassagiersgegevens; Wijzend op het feit dat, als de partijen in het kader van deze overeenkomst specifieke overeenkomsten sluiten op het gebied van vrijheid, veiligheid en recht, die door de Unie zouden worden gesloten krachtens titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie, de bepalingen van dergelijke toekomstige specifieke overeenkomsten niet bindend zijn voor het Verenigd Koninkrijk en/of Ierland, tenzij de Europese Unie, samen met het Verenigd Koninkrijk en/of Ierland wat betreft hun respectieve bilaterale betrekkingen, Australië ervan in kennis heeft gesteld dat het Verenigd Koninkrijk en/of Ierland gebonden zijn door dergelijke toekomstige specifieke overeenkomsten als deel van de Unie, overeenkomstig Protocol 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht, dat aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie is gehecht. Evenzo zijn latere interne maatregelen van de Unie die met het oog op de uitvoering van deze overeenkomst krachtens voornoemde titel V worden genomen, niet bindend voor het Verenigd Koninkrijk en/of Ierland, tenzij deze laatsten hun wens te kennen hebben gegeven deel te nemen aan deze maatregelen of deze te aanvaarden overeenkomstig Protocol 21. Voorts wijzende op het feit dat dergelijke toekomstige overeenkomsten of dergelijke latere interne maatregelen van de Unie zouden komen te vallen onder Protocol 22 betreffende de positie van Denemarken dat gehecht is aan voornoemde Verdragen. Zijn het volgende overeengekomen:*
 
-en
-
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-lidstaten van de Europese Unie, hierna „de lidstaten” genoemd,
-
-enerzijds, en
-
-Australië
-
-anderzijds,
-
-hierna „de partijen” genoemd,
-
-Overwegende hun gedeelde waarden en hun nauwe historische, politieke, economische en culturele banden;
-
-Ingenomen met de vooruitgang die is geboekt met de ontwikkeling van duurzame en wederzijds tot voordeel strekkende betrekkingen door de goedkeuring van de gezamenlijke verklaring over de betrekkingen tussen de Europese Unie en Australië van 26 juni 1997 en de tenuitvoerlegging van de agenda 2003 voor samenwerking;
-
-Erkennend het vernieuwde engagement en de vernieuwde samenwerking tussen Australië en de Unie sinds de ontwikkeling van het op 29 oktober 2008 aangenomen partnerschapskader Australië-Europese Unie;
-
-Opnieuw bevestigend hun engagement voor de doelstellingen en beginselen van het [Handvest van de Verenigde Naties](onbekend) („VN-Handvest”) en ter versterking van de rol van de Verenigde Naties („VN”);
-
-Opnieuw bevestigend hun engagement voor de democratische beginselen en de rechten van de mens, vastgelegd in de [Universele Verklaring van de rechten van de mens](onbekend) en andere toepasselijke internationale mensenrechteninstrumenten, alsmede voor de beginselen van de rechtsstaat en goed bestuur;
-
-Beklemtonend de alomvattende aard van hun betrekkingen en het belang van een coherent kader ter bevordering van de ontwikkeling van deze betrekkingen;
-
-Uitdrukking gevend aan hun gezamenlijke wil om de betrekkingen om te smeden tot een versterkt partnerschap;
-
-Bevestigend hun wens om de onderlinge politieke dialoog en samenwerking te intensiveren en te ontwikkelen;
-
-Vastbesloten de samenwerking op gebieden van wederzijds belang op bilateraal, regionaal en mondiaal niveau en tot wederzijds voordeel te consolideren, te verdiepen en te diversifiëren;
-
-Uitdrukking gevend aan hun engagement om een gunstig klimaat te creëren voor meer bilaterale handel en investeringen;
-
-Bevestigend hun wil om intensiever samen te werken op het gebied van justitie, vrijheid en veiligheid;
-
-Erkennend de wederzijdse voordelen van meer samenwerking op het gebied van onderwijs, cultuur, onderzoek en innovatie;
-
-Uitdrukking gevend aan hun wil om duurzame ontwikkeling in economisch, sociaal en milieu-opzicht te bevorderen;
-
-Voortbouwend op de overeenkomsten die zijn gesloten tussen de Unie en Australië, met name inzake wetenschappen, luchtvaartdiensten, wijn, de veiligheid van gerubriceerde informatie, conformiteitsevaluatieprocedures voor industriële producten en de uitwisseling van luchtpassagiersgegevens;
-
-Wijzend op het feit dat, als de partijen in het kader van deze overeenkomst specifieke overeenkomsten sluiten op het gebied van vrijheid, veiligheid en recht, die door de Unie zouden worden gesloten krachtens [titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=V), de bepalingen van dergelijke toekomstige specifieke overeenkomsten niet bindend zijn voor het Verenigd Koninkrijk en/of Ierland, tenzij de Europese Unie, samen met het Verenigd Koninkrijk en/of Ierland wat betreft hun respectieve bilaterale betrekkingen, Australië ervan in kennis heeft gesteld dat het Verenigd Koninkrijk en/of Ierland gebonden zijn door dergelijke toekomstige specifieke overeenkomsten als deel van de Unie, overeenkomstig [Protocol 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht](onbekend), dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht. Evenzo zijn latere interne maatregelen van de Unie die met het oog op de uitvoering van deze overeenkomst krachtens voornoemde titel V worden genomen, niet bindend voor het Verenigd Koninkrijk en/of Ierland, tenzij deze laatsten hun wens te kennen hebben gegeven deel te nemen aan deze maatregelen of deze te aanvaarden overeenkomstig Protocol 21. Voorts wijzende op het feit dat dergelijke toekomstige overeenkomsten of dergelijke latere interne maatregelen van de Unie zouden komen te vallen onder [Protocol 22 betreffende de positie van Denemarken](onbekend) dat gehecht is aan voornoemde Verdragen.
-
-Zijn het volgende overeengekomen:
-
-## TITEL I. DOEL EN GRONDSLAG VAN DE OVEREENKOMST
+### TITEL I. DOEL EN GRONDSLAG VAN DE OVEREENKOMST
 
 ##### Artikel 1. Doel van de overeenkomst
 
@@ -152,9 +33,9 @@ Zijn het volgende overeengekomen:
 
 1. De partijen komen overeen hun strategische partnerschap te versterken en intensiever samen te werken op bilateraal, regionaal en mondiaal niveau, op basis van gedeelde waarden en gemeenschappelijke belangen.
 
-2. De partijen bevestigen hun gehechtheid aan de democratische beginselen, de mensenrechten, de fundamentele vrijheden en de rechtsstaat. De eerbiediging van de democratische beginselen, de mensenrechten en de fundamentele vrijheden, zoals deze zijn vastgelegd in de [Universele Verklaring van de rechten van de mens](onbekend), het [Internationaal Verdrag inzake burgerrechten en politieke rechten](onbekend), het [Internationaal Verdrag inzake economische, sociale en culturele rechten](onbekend) en andere internationale mensenrechteninstrumenten die de partijen hebben geratificeerd of waarbij zij zijn toegetreden, en de eerbiediging van het beginsel van de rechtsstaat, liggen ten grondslag aan het binnenlandse en het buitenlandse beleid van beide partijen en zijn een essentieel element van deze overeenkomst.
+2. De partijen bevestigen hun gehechtheid aan de democratische beginselen, de mensenrechten, de fundamentele vrijheden en de rechtsstaat. De eerbiediging van de democratische beginselen, de mensenrechten en de fundamentele vrijheden, zoals deze zijn vastgelegd in de [Universele Verklaring van de rechten van de mens](https://wetten.overheid.nl/BWBV0001008), het [Internationaal Verdrag inzake burgerrechten en politieke rechten](https://wetten.overheid.nl/BWBV0001017), het [Internationaal Verdrag inzake economische, sociale en culturele rechten](https://wetten.overheid.nl/BWBV0001016) en andere internationale mensenrechteninstrumenten die de partijen hebben geratificeerd of waarbij zij zijn toegetreden, en de eerbiediging van het beginsel van de rechtsstaat, liggen ten grondslag aan het binnenlandse en het buitenlandse beleid van beide partijen en zijn een essentieel element van deze overeenkomst.
 
-3. De partijen bevestigen hun absolute steun voor het [VN-Handvest](onbekend) en de gedeelde waarden die daarin hun uitdrukking vinden.
+3. De partijen bevestigen hun absolute steun voor het [VN-Handvest](https://wetten.overheid.nl/BWBV0004143) en de gedeelde waarden die daarin hun uitdrukking vinden.
 
 4. De partijen bevestigen opnieuw dat zij zich ervoor inzetten duurzame ontwikkeling en economische groei te stimuleren, bij te dragen tot de verwezenlijking van internationaal overeengekomen ontwikkelingsdoelstellingen en samen te werken om wereldwijde milieuproblemen, in het bijzonder klimaatverandering, aan te pakken.
 
@@ -162,7 +43,7 @@ Zijn het volgende overeengekomen:
 
 6. De tenuitvoerlegging van deze overeenkomst is gebaseerd op de beginselen van dialoog, wederzijds respect, gelijkwaardig partnerschap, consensus en de eerbiediging van het internationaal recht.
 
-## TITEL II. POLITIEKE DIALOOG EN SAMENWERKING INZAKE BUITENLANDS BELEID EN VEILIGHEIDSKWESTIES
+### TITEL II. POLITIEKE DIALOOG EN SAMENWERKING INZAKE BUITENLANDS BELEID EN VEILIGHEIDSKWESTIES
 
 ##### Artikel 3. Politieke dialoog
 
@@ -234,27 +115,27 @@ De partijen komen overeen:
 
 3. De partijen onderkennen het belang van binnenlandse controlesystemen voor de overdracht van conventionele wapens in overeenstemming met de geldende internationale normen. De partijen onderkennen dat het van belang is die controles op verantwoordelijke wijze toe te passen en aldus bij te dragen tot de internationale en regionale vrede, veiligheid en stabiliteit, en tot het verminderen van menselijk leed, alsmede tot het voorkomen van de omleiding van conventionele wapens.
 
-4. In dit verband verplichten de partijen zich ertoe het [Wapenhandelsverdrag](onbekend) volledig uit te voeren en in het kader van het verdrag met elkaar samen te werken, ook wat betreft het bevorderen van de universalisering en de volledige uitvoering ervan door alle VN-lidstaten.
+4. In dit verband verplichten de partijen zich ertoe het [Wapenhandelsverdrag](https://wetten.overheid.nl/BWBV0006233) volledig uit te voeren en in het kader van het verdrag met elkaar samen te werken, ook wat betreft het bevorderen van de universalisering en de volledige uitvoering ervan door alle VN-lidstaten.
 
-5. De partijen verbinden zich tot samenwerking en coördinatie, complementariteit en synergie van hun inspanningen om de illegale handel in handvuurwapens en lichte wapens en munitie daarvoor tegen te gaan op mondiaal, regionaal, sub-regionaal en nationaal niveau, en de doeltreffende tenuitvoerlegging van wapenembargo's te verzekeren waartoe door de VN-Veiligheidsraad overeenkomstig het [VN-Handvest](onbekend) wordt besloten.
+5. De partijen verbinden zich tot samenwerking en coördinatie, complementariteit en synergie van hun inspanningen om de illegale handel in handvuurwapens en lichte wapens en munitie daarvoor tegen te gaan op mondiaal, regionaal, sub-regionaal en nationaal niveau, en de doeltreffende tenuitvoerlegging van wapenembargo's te verzekeren waartoe door de VN-Veiligheidsraad overeenkomstig het [VN-Handvest](https://wetten.overheid.nl/BWBV0004143) wordt besloten.
 
 ##### Artikel 8. Ernstige misdaden waarmee de internationale gemeenschap wordt geconfronteerd en het Internationaal Strafhof
 
 1. De partijen bevestigen opnieuw dat de ernstigste misdaden die de gehele internationale gemeenschap aangaan, niet ongestraft mogen blijven en dat de effectieve vervolging ervan moet worden gewaarborgd door maatregelen op intern of internationaal niveau, onder meer via het Internationaal Strafhof.
 
-2. De partijen komen overeen samen te werken om de doelstellingen en oogmerken van het [Statuut van Rome](onbekend) te bevorderen, en komen daartoe overeen:
+2. De partijen komen overeen samen te werken om de doelstellingen en oogmerken van het [Statuut van Rome](https://wetten.overheid.nl/BWBV0001489) te bevorderen, en komen daartoe overeen:
 
-- a. stappen te blijven zetten om het [Statuut van Rome](onbekend) uit te voeren en de ratificatie en tenuitvoerlegging van verwante instrumenten te overwegen (zoals het [Verdrag betreffende de privileges en immuniteiten van het Internationaal Strafhof](onbekend));
+- a. stappen te blijven zetten om het [Statuut van Rome](https://wetten.overheid.nl/BWBV0001489) uit te voeren en de ratificatie en tenuitvoerlegging van verwante instrumenten te overwegen (zoals het [Verdrag betreffende de privileges en immuniteiten van het Internationaal Strafhof](https://wetten.overheid.nl/BWBV0003031));
 
-- b. de toetreding van alle landen tot het [Statuut van Rome](onbekend) te blijven bevorderen, onder meer door ervaringen met andere staten uit te wisselen betreffende de voor de ratificatie en uitvoering van het Statuut van Rome benodigde maatregelen; en
+- b. de toetreding van alle landen tot het [Statuut van Rome](https://wetten.overheid.nl/BWBV0001489) te blijven bevorderen, onder meer door ervaringen met andere staten uit te wisselen betreffende de voor de ratificatie en uitvoering van het Statuut van Rome benodigde maatregelen; en
 
-- c. de integriteit van het [Statuut van Rome](onbekend) veilig te stellen door de essentiële beginselen ervan te beschermen, onder meer door af te zien van het aangaan van niet-overleveringsovereenkomsten (zogenaamde „artikel 98-overeenkomsten”) met derde landen en door anderen ook aan te sporen daarvan af te zien.
+- c. de integriteit van het [Statuut van Rome](https://wetten.overheid.nl/BWBV0001489) veilig te stellen door de essentiële beginselen ervan te beschermen, onder meer door af te zien van het aangaan van niet-overleveringsovereenkomsten (zogenaamde „artikel 98-overeenkomsten”) met derde landen en door anderen ook aan te sporen daarvan af te zien.
 
 ##### Artikel 9. Samenwerking ter bestrijding van terrorisme
 
-1. De partijen bevestigen opnieuw het belang van de preventie en de bestrijding van terrorisme met volledige eerbiediging van de rechtsstaat en de mensenrechten en overeenkomstig het toepasselijke internationaal recht, met inbegrip van het [VN-Handvest](onbekend), de internationale terrorismebestrijdingsverdragen, de relevante resoluties van de VN-Veiligheidsraad, het vluchtelingenrecht en het internationale humanitaire recht.
+1. De partijen bevestigen opnieuw het belang van de preventie en de bestrijding van terrorisme met volledige eerbiediging van de rechtsstaat en de mensenrechten en overeenkomstig het toepasselijke internationaal recht, met inbegrip van het [VN-Handvest](https://wetten.overheid.nl/BWBV0004143), de internationale terrorismebestrijdingsverdragen, de relevante resoluties van de VN-Veiligheidsraad, het vluchtelingenrecht en het internationale humanitaire recht.
 
-2. Binnen dit kader en rekening houdend met de mondiale strategie voor terrorismebestrijding van de VN, vervat in Resolutie 60/288 van de Algemene Vergadering van de VN van 8 september 2006 en de toetsingen van de uitvoering daarvan, komen de partijen overeen samen te werken voor de preventie en bestrijding van terreurdaden, met name door:
+2. Binnen dit kader en rekening houdend met de mondiale strategie voor terrorismebestrijding van de VN, vervat in Resolutie 60/288 van de Algemene Vergadering van de VN van 8 september 2006 en de toetsingen van de uitvoering daarvan, komen de partijen overeen samen te werken voor de preventie en bestrijding van terreurdaden, met name door:
 
 - a. uitwisseling van informatie over terroristische groepen en de netwerken die hen ondersteunen, overeenkomstig het internationaal en nationaal recht;
 
@@ -284,7 +165,7 @@ De partijen verbinden zich ertoe samen te werken door van gedachten te wisselen 
 
 De partijen erkennen het belang van samenwerking en de uitwisseling van gedachten op het gebied van internationale veiligheid en cyberspace, met inbegrip van gedragsnormen en de toepassing van het internationaal recht in de cyberspace, de ontwikkeling van vertrouwenwekkende maatregelen en capaciteitsopbouw.
 
-## TITEL III. SAMENWERKING INZAKE MONDIALE ONTWIKKELING EN HUMANITAIRE HULP
+### TITEL III. SAMENWERKING INZAKE MONDIALE ONTWIKKELING EN HUMANITAIRE HULP
 
 ##### Artikel 12. Ontwikkeling
 
@@ -306,7 +187,7 @@ De partijen erkennen het belang van samenwerking en de uitwisseling van gedachte
 
 De partijen bevestigen opnieuw hun gemeenschappelijk engagement voor humanitaire hulp en streven ernaar, waar passend, een gecoördineerde respons te bieden.
 
-## TITEL IV. SAMENWERKING INZAKE ECONOMISCHE EN HANDELSAANGELEGENHEDEN
+### TITEL IV. SAMENWERKING INZAKE ECONOMISCHE EN HANDELSAANGELEGENHEDEN
 
 ##### Artikel 14. Dialoog inzake economisch beleid
 
@@ -354,29 +235,29 @@ De partijen bevorderen een aantrekkelijk en stabiel milieu voor wederzijdse inve
 
 1. De partijen zijn het erover eens dat een grotere compatibiliteit van normen, technische regelingen en conformiteitsbeoordelingsprocedures een essentieel element is om de handel te faciliteren.
 
-2. De partijen erkennen hun wederzijds belang om technische handelsbelemmeringen terug te brengen en tot dit doel komen zij overeen samen te werken in het kader van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](onbekend) en de Overeenkomst inzake wederzijdse erkenning van conformiteitsbeoordeling, certificaten en markeringen tussen de Europese Gemeenschap en Australië.
+2. De partijen erkennen hun wederzijds belang om technische handelsbelemmeringen terug te brengen en tot dit doel komen zij overeen samen te werken in het kader van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160) en de Overeenkomst inzake wederzijdse erkenning van conformiteitsbeoordeling, certificaten en markeringen tussen de Europese Gemeenschap en Australië.
 
 ##### Artikel 19. Sanitaire en fytosanitaire kwesties en dierenwelzijn
 
-1. De partijen komen overeen hun samenwerking op sanitair en fytosanitair gebied op te voeren ter bescherming van het leven of de gezondheid van mensen, dieren of planten op het grondgebied van de partijen, met inachtneming van de rechten en plichten van de partijen uit hoofde van de [WTO-Overeenkomst inzake sanitaire en fytosanitaire maatregelen](onbekend) (SPS-overeenkomst).
+1. De partijen komen overeen hun samenwerking op sanitair en fytosanitair gebied op te voeren ter bescherming van het leven of de gezondheid van mensen, dieren of planten op het grondgebied van de partijen, met inachtneming van de rechten en plichten van de partijen uit hoofde van de [WTO-Overeenkomst inzake sanitaire en fytosanitaire maatregelen](https://wetten.overheid.nl/BWBV0001160) (SPS-overeenkomst).
 
-2. Binnen het kader van de [SPS-overeenkomst](onbekend) en de relevante internationale normen van de Codex Alimentarius, het [Internationaal Verdrag voor de bescherming van planten](onbekend) (IPPC) en de Wereldorganisatie voor diergezondheid (OIE) wisselen de partijen informatie uit om hun wederzijdse begrip van hun respectieve SPS-maatregelen te vergroten en de handel tussen de partijen te faciliteren, door middel van:
+2. Binnen het kader van de [SPS-overeenkomst](https://wetten.overheid.nl/BWBV0001160) en de relevante internationale normen van de Codex Alimentarius, het [Internationaal Verdrag voor de bescherming van planten](https://wetten.overheid.nl/BWBV0003652) (IPPC) en de Wereldorganisatie voor diergezondheid (OIE) wisselen de partijen informatie uit om hun wederzijdse begrip van hun respectieve SPS-maatregelen te vergroten en de handel tussen de partijen te faciliteren, door middel van:
 
 - a. regelmatige vergaderingen op passende fora die door de partijen worden vastgesteld, om van gedachten te wisselen over SPS en wetgeving, tenuitvoerlegging, inspectie- en certificeringssystemen en toezichtprocedures in verband met dierenwelzijn, en om problemen met de toepassing van de SPS-maatregelen aan te pakken;
 
 - b. te streven naar de toepassing van invoervoorschriften op het gehele grondgebied van de uitvoerende partij, met inbegrip van de toepassing van regionalisatiebeginselen;
 
-- c. conform de [SPS-overeenkomst](onbekend):
+- c. conform de [SPS-overeenkomst](https://wetten.overheid.nl/BWBV0001160):
 
-- i. de erkenning van ziekte- of plagenvrije gebieden en gebieden met een lage ziekte- of plagenprevalentie;
+   - i. de erkenning van ziekte- of plagenvrije gebieden en gebieden met een lage ziekte- of plagenprevalentie;
 
-- ii. de verificatie, geheel of gedeeltelijk, van de inspectie- en certificeringssystemen van de autoriteiten van de uitvoerende partij;
+   - ii. de verificatie, geheel of gedeeltelijk, van de inspectie- en certificeringssystemen van de autoriteiten van de uitvoerende partij;
 
 - d. de uitwisseling van informatie over SPS en dierenwelzijnskwesties die een invloed hebben of kunnen hebben op de handel tussen de partijen, zoals noodmaatregelen, opkomende ziekten en plagen, en nieuw beschikbaar wetenschappelijk bewijsmateriaal.
 
 3. De partijen komen overeen samen te werken en informatie uit te wisselen over dierenwelzijnskwesties.
 
-4. De partijen werken tevens samen voor SPS en dierenwelzijnskwesties via relevante multilaterale kaders, met inbegrip van de WTO, de Commissie van de Codex Alimentarius, het [Internationaal Verdrag voor de bescherming van planten](onbekend) (IPPC) en de Wereldorganisatie voor diergezondheid (OIE).
+4. De partijen werken tevens samen voor SPS en dierenwelzijnskwesties via relevante multilaterale kaders, met inbegrip van de WTO, de Commissie van de Codex Alimentarius, het [Internationaal Verdrag voor de bescherming van planten](https://wetten.overheid.nl/BWBV0003652) (IPPC) en de Wereldorganisatie voor diergezondheid (OIE).
 
 ##### Artikel 20. Douane
 
@@ -460,7 +341,7 @@ De partijen moedigen de dialoog aan tussen gouvernementele en niet-gouvernemente
 
 De partijen erkennen het belang van het toerisme voor een beter wederzijds begrip en wederzijdse waardering tussen de volkeren van de Unie en Australië, alsmede van de economische voordelen die uit meer toerisme voortvloeien, en komen overeen samen te werken om het toerisme in beide richtingen tussen de Unie en Australië te stimuleren.
 
-## TITEL V. SAMENWERKING INZAKE JUSTITIE, VRIJHEID EN VEILIGHEID
+### TITEL V. SAMENWERKING INZAKE JUSTITIE, VRIJHEID EN VEILIGHEID
 
 ##### Artikel 32. Juridische samenwerking
 
@@ -482,9 +363,9 @@ De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten,
 
 3. Met het oog op het voorkomen, ontdekken, onderzoeken en vervolgen van daden van terrorisme of ernstige grensoverschrijdende misdaden erkennen de partijen het belang van de Overeenkomst tussen de Europese Unie en Australië inzake de verwerking en overdracht van persoonsgegevens van passagiers (PNR-gegevens) door luchtvaartmaatschappijen aan de Australische douane- en grensbeveiligingsdiensten.
 
-4. De partijen bevorderen de toepassing van het [VN-Verdrag tegen grensoverschrijdende georganiseerde misdaad](onbekend) en de aanvullende protocollen daarbij, met inbegrip van sterke en doeltreffende evaluatiemechanismen.
+4. De partijen bevorderen de toepassing van het [VN-Verdrag tegen grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/BWBV0001668) en de aanvullende protocollen daarbij, met inbegrip van sterke en doeltreffende evaluatiemechanismen.
 
-5. De partijen bevorderen tevens de toepassing van het [VN-Verdrag tegen corruptie](onbekend), met inbegrip van een sterk evaluatiemechanisme, rekening houdend met de beginselen van transparantie en betrokkenheid van het maatschappelijk middenveld.
+5. De partijen bevorderen tevens de toepassing van het [VN-Verdrag tegen corruptie](https://wetten.overheid.nl/BWBV0001830), met inbegrip van een sterk evaluatiemechanisme, rekening houdend met de beginselen van transparantie en betrokkenheid van het maatschappelijk middenveld.
 
 ##### Artikel 35. Drugsbestrijding
 
@@ -540,7 +421,7 @@ De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten,
 
 2. De samenwerking inzake de bescherming van persoonsgegevens kan onder meer uitwisseling van informatie en deskundigheid inhouden. Zij kan ook samenwerking tussen de regelgevende instanties omvatten in organen zoals de OESO-werkgroep inzake informatieveiligheid en de Global Privacy Enforcement Network.
 
-## TITEL VI. SAMENWERKING OP HET GEBIED VAN ONDERZOEK, INNOVATIE EN DE INFORMATIEMAATSCHAPPIJ
+### TITEL VI. SAMENWERKING OP HET GEBIED VAN ONDERZOEK, INNOVATIE EN DE INFORMATIEMAATSCHAPPIJ
 
 ##### Artikel 41. Wetenschap, onderzoek en innovatie
 
@@ -554,11 +435,11 @@ De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten,
 
 - c. verdere uitbreiding van de mate waarin onderzoekers uit Australië en de Unie gebruik kunnen maken van de mogelijkheden van de onderzoeks- en innovatieprogramma's van elke partij, onder meer door:
 
-- i. omvattende informatie over programma’s en deelnamemogelijkheden;
+   - i. omvattende informatie over programma’s en deelnamemogelijkheden;
 
-- ii. tijdige informatie over nieuwe strategische prioriteiten;
+   - ii. tijdige informatie over nieuwe strategische prioriteiten;
 
-- iii. onderzoek van de mate waarin gebruik kan worden gemaakt van samenwerkingsmechanismen, zoals jumelages, gezamenlijke oproepen en gecoördineerde oproepen, en deze kunnen worden versterkt; en
+   - iii. onderzoek van de mate waarin gebruik kan worden gemaakt van samenwerkingsmechanismen, zoals jumelages, gezamenlijke oproepen en gecoördineerde oproepen, en deze kunnen worden versterkt; en
 
 - d. nagaan hoe Australië en de Unie kunnen samenwerken om deel te nemen aan een bredere regionale en internationale samenwerking inzake onderzoek en innovatie.
 
@@ -588,7 +469,7 @@ De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten,
 
 - e. de uitwisseling van standpunten over maatregelen op het gebied van internationale mobiele roamingkosten, onder meer niet-tarifaire handelsbelemmeringen.
 
-## TITEL VII. SAMENWERKING OP HET GEBIED VAN ONDERWIJS EN CULTUUR
+### TITEL VII. SAMENWERKING OP HET GEBIED VAN ONDERWIJS EN CULTUUR
 
 ##### Artikel 43. Onderwijs, opleiding en jeugdzaken
 
@@ -614,13 +495,13 @@ De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten,
 
 4. De partijen bevorderen de interculturele dialoog tussen het maatschappelijk middenveld en individuele personen van de partijen.
 
-5. De partijen komen overeen samen te werken, met name via de beleidsdialoog, in relevante internationale fora, zoals de Organisatie van de Verenigde Naties voor onderwijs, wetenschap en cultuur (Unesco), teneinde gemeenschappelijke doeleinden na te streven en culturele diversiteit te bevorderen, onder meer met inachtneming van het [Unesco-Verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen](onbekend).
+5. De partijen komen overeen samen te werken, met name via de beleidsdialoog, in relevante internationale fora, zoals de Organisatie van de Verenigde Naties voor onderwijs, wetenschap en cultuur (Unesco), teneinde gemeenschappelijke doeleinden na te streven en culturele diversiteit te bevorderen, onder meer met inachtneming van het [Unesco-Verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen](https://wetten.overheid.nl/BWBV0004039).
 
 6. De partijen stimuleren, ondersteunen en vergemakkelijken de uitwisseling, samenwerking en dialoog tussen instellingen en actoren op het gebied van audiovisuele aangelegenheden en media.
 
 7. De partijen komen overeen de culturele samenwerking in het kader van ASEM te ondersteunen, meer bepaald via de activiteiten van de stichting Azië-Europa (ASEF).
 
-## TITEL VIII. SAMENWERKING OP HET GEBIED VAN DUURZAME ONTWIKKELING, ENERGIE EN VERVOER
+### TITEL VIII. SAMENWERKING OP HET GEBIED VAN DUURZAME ONTWIKKELING, ENERGIE EN VERVOER
 
 ##### Artikel 45. Milieu en natuurlijke hulpbronnen
 
@@ -636,21 +517,21 @@ De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten,
 
 - d. de bevordering van uitwisseling van informatie, technische expertise en milieupraktijken op gebieden als:
 
-- i. de tenuitvoerlegging en de handhaving van milieuwetgeving;
+   - i. de tenuitvoerlegging en de handhaving van milieuwetgeving;
 
-- ii. efficiënt gebruik van de hulpbronnen en duurzaam verbruik en productie;
+   - ii. efficiënt gebruik van de hulpbronnen en duurzaam verbruik en productie;
 
-- iii. instandhouding en duurzaam gebruik van biodiversiteit;
+   - iii. instandhouding en duurzaam gebruik van biodiversiteit;
 
-- iv. chemicaliën en afvalbeheer;
+   - iv. chemicaliën en afvalbeheer;
 
-- v. waterbeleid; en
+   - v. waterbeleid; en
 
-- vi. bescherming van het kust- en zeemilieu, tegengaan van vervuiling en schade.
+   - vi. bescherming van het kust- en zeemilieu, tegengaan van vervuiling en schade.
 
 ##### Artikel 46. Klimaatverandering
 
-1. De partijen erkennen dat de klimaatverandering een gemeenschappelijke mondiale dreiging vormt en dat alle landen actie moeten ondernemen om emissies te verminderen, teneinde de concentraties van broeikasgassen in de atmosfeer te stabiliseren op een niveau waarbij gevaarlijke antropogene verstoring van het klimaatsysteem wordt voorkomen. Binnen de grenzen van hun respectieve bevoegdheden en zonder afbreuk te doen aan de besprekingen over klimaatverandering in andere fora, zoals het [Raamverdrag van de VN inzake klimaatverandering](onbekend) (UNFCCC), verbinden de partijen zich ertoe de samenwerking op dit gebied te intensiveren. Deze samenwerking beoogt, zonder zich daartoe te beperken, het volgende:
+1. De partijen erkennen dat de klimaatverandering een gemeenschappelijke mondiale dreiging vormt en dat alle landen actie moeten ondernemen om emissies te verminderen, teneinde de concentraties van broeikasgassen in de atmosfeer te stabiliseren op een niveau waarbij gevaarlijke antropogene verstoring van het klimaatsysteem wordt voorkomen. Binnen de grenzen van hun respectieve bevoegdheden en zonder afbreuk te doen aan de besprekingen over klimaatverandering in andere fora, zoals het [Raamverdrag van de VN inzake klimaatverandering](https://wetten.overheid.nl/BWBV0001115) (UNFCCC), verbinden de partijen zich ertoe de samenwerking op dit gebied te intensiveren. Deze samenwerking beoogt, zonder zich daartoe te beperken, het volgende:
 
 - a. de bestrijding van de klimaatverandering met als algemeen doel de stabilisering van de concentraties van broeikasgassen in de atmosfeer, rekening houdend met de meest recente wetenschappelijke informatie en de noodzaak van een overgang naar economieën met lage emissies zonder een duurzame economische groei te onderbreken, door middel van landenspecifieke schadebeperkings- en aanpassingsmaatregelen;
 
@@ -750,7 +631,7 @@ De partijen komen overeen de samenwerking op nationaal en internationaal niveau 
 
 De partijen komen overeen wederzijdse samenwerking en informatie-uitwisseling en de uitwisseling van beleidservaringen aan te moedigen op het gebied van gezondheid en doeltreffende beheersing van grensoverschrijdende gezondheidsproblemen.
 
-## TITEL IX. INSTITUTIONEEL KADER
+### TITEL IX. INSTITUTIONEEL KADER
 
 ##### Artikel 55. Andere overeenkomsten of regelingen
 
@@ -808,7 +689,7 @@ De partijen komen overeen wederzijdse samenwerking en informatie-uitwisseling en
 
 8. Wanneer de ernst en aard van een situatie in een derde land als gelijkwaardig aan een bijzonder dringend geval kan worden beschouwd, houden de partijen, wanneer een van beide partijen daarom verzoekt, spoedoverleg om van gedachten te wisselen over de situatie en zich te buigen over mogelijke reacties.
 
-## TITEL X. SLOTBEPALINGEN
+### TITEL X. SLOTBEPALINGEN
 
 ##### Artikel 58. Definities
 
@@ -830,17 +711,17 @@ Voor de toepassing van deze overeenkomst wordt onder „de partijen” verstaan:
 
 - a. schade zou berokkenen aan:
 
-- i. de openbare veiligheid;
+   - i. de openbare veiligheid;
 
-- ii. spionage-, defensie- en militaire aangelegenheden;
+   - ii. spionage-, defensie- en militaire aangelegenheden;
 
-- iii. de internationale betrekkingen;
+   - iii. de internationale betrekkingen;
 
-- iv. het financiële, monetaire of economische beleid;
+   - iv. het financiële, monetaire of economische beleid;
 
-- v. de persoonlijke levenssfeer; of
+   - v. de persoonlijke levenssfeer; of
 
-- vi. legitieme commerciële belangen of handelsbelangen; of
+   - vi. legitieme commerciële belangen of handelsbelangen; of
 
 - b. anderszins in strijd zou zijn met het algemeen belang.
 
@@ -862,7 +743,7 @@ De in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=X&a
 
 ##### Artikel 63. Territoriale toepassing
 
-Deze overeenkomst is van toepassing, enerzijds, op elk grondgebied waarop het [Verdrag betreffende de Europese Unie](onbekend) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing zijn, onder de in die verdragen neergelegde voorwaarden, en, anderzijds, op het grondgebied van Australië.
+Deze overeenkomst is van toepassing, enerzijds, op elk grondgebied waarop het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing zijn, onder de in die verdragen neergelegde voorwaarden, en, anderzijds, op het grondgebied van Australië.
 
 ##### Artikel 64. Authentieke teksten
 

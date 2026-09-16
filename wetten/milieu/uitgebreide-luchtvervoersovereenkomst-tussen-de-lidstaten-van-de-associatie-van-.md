@@ -1,143 +1,18 @@
 ---
 title: "Uitgebreide Luchtvervoersovereenkomst tussen de lidstaten van de Associatie van Zuidoost-Aziatische Staten, enerzijds, en de Europese Unie en haar lidstaten, anderzijds"
 identifier: "BWBV0006978"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-10-17"
-last_updated: "2022-10-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006978"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005621403"
-version_id: "10006184852"
-internal_id: "C10009955371"
-label_id: "10005603664"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006978/2022-10-17/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0006978&z=2022-10-17&g=2022-10-17"
-jci_1_0: "1.0:c:BWBV0006978&g=2022-10-17"
-citeertitel_status: "redactioneel"
+laatste_update: 2022-10-17
+status: geldig
+toestand: 2022-10-17
+bron: "https://wetten.overheid.nl/BWBV0006978"
+opgehaald: 2026-09-16
 ---
+
 # Uitgebreide Luchtvervoersovereenkomst tussen de lidstaten van de Associatie van Zuidoost-Aziatische Staten, enerzijds, en de Europese Unie en haar lidstaten, anderzijds
 
-De Regeringen van:
-
-Brunei Darussalam,
-
-Het Koninkrijk Cambodja,
-
-De Republiek Indonesië,
-
-De Democratische Volksrepubliek Laos,
-
-Maleisië,
-
-De Republiek Unie van Myanmar,
-
-De Republiek der Filipijnen,
-
-De Republiek Singapore,
-
-Het Koninkrijk Thailand,
-
-en
-
-De Socialistische Republiek Vietnam,
-
-Zijnde de lidstaten van de Associatie van Zuidoost-Aziatische Staten („ASEAN”,) (hierna gezamenlijk „ASEAN-lidstaten” en afzonderlijk „ASEAN-lidstaat” genoemd) enerzijds,
-
-en
-
-Het Koninkrijk België,
-
-De Republiek Bulgarije,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-Ierland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-De Republiek Kroatië,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-Hongarije,
-
-De Republiek Malta,
-
-Het Koninkrijk Der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-Roemenië,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-en
-
-Het Koninkrijk Zweden,
-
-Verdragsluitende partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) (hierna gezamenlijk „de EU-Verdragen” genoemd) en lidstaten van de Europese Unie (hierna gezamenlijk „de EU-lidstaten” en afzonderlijk „de EU-lidstaat” genoemd), en de EUROPESE UNIE (hierna „de Unie” of „de EU” genoemd), anderzijds,
-
-De wens uitdrukkend hun belangen op het gebied van luchtvervoer te bevorderen als middel om bij te dragen tot nauwere politieke en economische banden tussen de twee regio’s;
-
-Erkennende dat efficiënte luchtverbindingen belangrijk zijn om handel, toerisme, investeringen en sociaaleconomische ontwikkeling te bevorderen;
-
-De wens uitdrukkend de luchtdiensten te verbeteren en een internationaal luchtvaartsysteem te bevorderen op basis van een billijk en concurrerend klimaat, non-discriminatie en gelijke kansen tot mededinging voor luchtvaartmaatschappijen;
-
-De wens uitdrukkend het hoogst mogelijke niveau van veiligheid en beveiliging van het luchtvervoer te garanderen en bevestigend dat zij zich grote zorgen maken over daden of bedreigingen die gericht zijn tegen luchtvaartuigen en die de veiligheid van personen of goederen in gevaar brengen, een negatieve impact hebben op de exploitatie van luchtvaartuigen en het vertrouwen van de reizigers in de veiligheid van de burgerluchtvaart ondermijnen;
-
-Vaststellend dat de ASEAN-lidstaten en de EU-lidstaten partij zijn bij het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), ondertekend te Chicago op 7 december 1944;
-
-Vastberaden om de potentiële voordelen van regelgevende samenwerking maximaal te benutten;
-
-Erkennende dat concurrerende luchtdiensten en een levensvatbare luchtvervoerssector belangrijke voordelen kunnen opleveren;
-
-De wens uitdrukkend een gelijk speelveld voor luchtvaartmaatschappijen te bevorderen, erkennende dat concurrentie voordelen kan opleveren en dat bepaalde subsidies een nadelig effect kunnen hebben op de concurrentie en de basisdoelstellingen van deze Overeenkomst in gevaar kunnen brengen;
-
-Voornemens voort te bouwen op bestaande overeenkomsten en regelingen tussen de partijen, teneinde te zorgen voor de openstelling van de markttoegang en zoveel mogelijk voordelen te creëren voor passagiers, expediteurs, luchtvaartmaatschappijen, luchthavens en hun personeelsleden, de samenleving en andere begunstigden;
-
-Het belang bevestigend van bescherming van het milieu bij de ontwikkeling en tenuitvoerlegging van het internationaal luchtvaartbeleid;
-
-Bevestigend dat er behoefte is aan dringende maatregelen tegen de klimaatverandering en aan blijvende samenwerking om de broeikasgasemissies in de luchtvaartsector terug te dringen, conform de multilaterale akkoorden op dit gebied, waaronder de relevante instrumenten van de Internationale Burgerluchtvaartorganisatie (hierna „de ICAO” genoemd);
-
-Bevestigend dat de belangen van de consument moeten worden beschermd, met inbegrip van de bescherming die wordt geboden door het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), gesloten te Montreal op 28 mei 1999, en dat een hoog niveau van consumentenbescherming moet worden bereikt, en erkennende dat er behoefte is aan wederzijdse samenwerking op dit gebied;
-
-Erkennende dat de groei aan commerciële mogelijkheden niet mag leiden tot een afzwakking van de arbeidsnormen van de partijen, en het belang bevestigend om oog te hebben voor de impact van deze Overeenkomst op de werknemers, de werkgelegenheid en de arbeidsomstandigheden en van de voordelen die ontstaan wanneer aanzienlijke economische winsten van open en concurrerende markten gepaard gaan met ambitieuze arbeidsnormen voor werknemers;
-
-Wijzend op de wens om te zoeken naar manieren om de toegang tot kapitaal voor de luchtvaartsector te faciliteren met het oog op een verdere ontwikkeling van het luchtvervoer;
-
-De wens uitdrukkend een overeenkomst inzake luchtvervoer te sluiten, ter aanvulling van het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), ondertekend te Chicago op 7 december 1944,
-
-Zijn als volgt overeengekomen:
+*De Regeringen van: Brunei Darussalam, Het Koninkrijk Cambodja, De Republiek Indonesië, De Democratische Volksrepubliek Laos, Maleisië, De Republiek Unie van Myanmar, De Republiek der Filipijnen, De Republiek Singapore, Het Koninkrijk Thailand, en De Socialistische Republiek Vietnam, Zijnde de lidstaten van de Associatie van Zuidoost-Aziatische Staten („ASEAN”,) (hierna gezamenlijk „ASEAN-lidstaten” en afzonderlijk „ASEAN-lidstaat” genoemd) enerzijds, en Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, Ierland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, De Republiek Kroatië, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, Hongarije, De Republiek Malta, Het Koninkrijk Der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, en Het Koninkrijk Zweden, Verdragsluitende partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie (hierna gezamenlijk „de EU-Verdragen” genoemd) en lidstaten van de Europese Unie (hierna gezamenlijk „de EU-lidstaten” en afzonderlijk „de EU-lidstaat” genoemd), en de EUROPESE UNIE (hierna „de Unie” of „de EU” genoemd), anderzijds, De wens uitdrukkend hun belangen op het gebied van luchtvervoer te bevorderen als middel om bij te dragen tot nauwere politieke en economische banden tussen de twee regio’s; Erkennende dat efficiënte luchtverbindingen belangrijk zijn om handel, toerisme, investeringen en sociaaleconomische ontwikkeling te bevorderen; De wens uitdrukkend de luchtdiensten te verbeteren en een internationaal luchtvaartsysteem te bevorderen op basis van een billijk en concurrerend klimaat, non-discriminatie en gelijke kansen tot mededinging voor luchtvaartmaatschappijen; De wens uitdrukkend het hoogst mogelijke niveau van veiligheid en beveiliging van het luchtvervoer te garanderen en bevestigend dat zij zich grote zorgen maken over daden of bedreigingen die gericht zijn tegen luchtvaartuigen en die de veiligheid van personen of goederen in gevaar brengen, een negatieve impact hebben op de exploitatie van luchtvaartuigen en het vertrouwen van de reizigers in de veiligheid van de burgerluchtvaart ondermijnen; Vaststellend dat de ASEAN-lidstaten en de EU-lidstaten partij zijn bij het Verdrag inzake de internationale burgerluchtvaart, ondertekend te Chicago op 7 december 1944; Vastberaden om de potentiële voordelen van regelgevende samenwerking maximaal te benutten; Erkennende dat concurrerende luchtdiensten en een levensvatbare luchtvervoerssector belangrijke voordelen kunnen opleveren; De wens uitdrukkend een gelijk speelveld voor luchtvaartmaatschappijen te bevorderen, erkennende dat concurrentie voordelen kan opleveren en dat bepaalde subsidies een nadelig effect kunnen hebben op de concurrentie en de basisdoelstellingen van deze Overeenkomst in gevaar kunnen brengen; Voornemens voort te bouwen op bestaande overeenkomsten en regelingen tussen de partijen, teneinde te zorgen voor de openstelling van de markttoegang en zoveel mogelijk voordelen te creëren voor passagiers, expediteurs, luchtvaartmaatschappijen, luchthavens en hun personeelsleden, de samenleving en andere begunstigden; Het belang bevestigend van bescherming van het milieu bij de ontwikkeling en tenuitvoerlegging van het internationaal luchtvaartbeleid; Bevestigend dat er behoefte is aan dringende maatregelen tegen de klimaatverandering en aan blijvende samenwerking om de broeikasgasemissies in de luchtvaartsector terug te dringen, conform de multilaterale akkoorden op dit gebied, waaronder de relevante instrumenten van de Internationale Burgerluchtvaartorganisatie (hierna „de ICAO” genoemd); Bevestigend dat de belangen van de consument moeten worden beschermd, met inbegrip van de bescherming die wordt geboden door het Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer, gesloten te Montreal op 28 mei 1999, en dat een hoog niveau van consumentenbescherming moet worden bereikt, en erkennende dat er behoefte is aan wederzijdse samenwerking op dit gebied; Erkennende dat de groei aan commerciële mogelijkheden niet mag leiden tot een afzwakking van de arbeidsnormen van de partijen, en het belang bevestigend om oog te hebben voor de impact van deze Overeenkomst op de werknemers, de werkgelegenheid en de arbeidsomstandigheden en van de voordelen die ontstaan wanneer aanzienlijke economische winsten van open en concurrerende markten gepaard gaan met ambitieuze arbeidsnormen voor werknemers; Wijzend op de wens om te zoeken naar manieren om de toegang tot kapitaal voor de luchtvaartsector te faciliteren met het oog op een verdere ontwikkeling van het luchtvervoer; De wens uitdrukkend een overeenkomst inzake luchtvervoer te sluiten, ter aanvulling van het Verdrag inzake de internationale burgerluchtvaart, ondertekend te Chicago op 7 december 1944, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1. Toepassingsgebied
 
@@ -149,9 +24,9 @@ Zijn als volgt overeengekomen:
 
 1. Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
-- a. „Verdrag van Chicago”: het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), dat op 7 december 1944 voor ondertekening is opengesteld in Chicago, en alle bijlagen die krachtens [artikel 90 van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) zijn vastgesteld en alle wijzigingen van de bijlagen of het Verdrag uit hoofde van de artikelen 90 en [94 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94), voor zover die bijlagen en wijzigingen voor de partijen van kracht zijn geworden;
+- a. „Verdrag van Chicago”: het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), dat op 7 december 1944 voor ondertekening is opengesteld in Chicago, en alle bijlagen die krachtens [artikel 90 van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) zijn vastgesteld en alle wijzigingen van de bijlagen of het Verdrag uit hoofde van de artikelen 90 en [94 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94), voor zover die bijlagen en wijzigingen voor de partijen van kracht zijn geworden;
 
-- b. „Verdrag van Montreal”: het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), gedaan te Montreal op 28 mei 1999;
+- b. „Verdrag van Montreal”: het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), gedaan te Montreal op 28 mei 1999;
 
 - c. „luchtvervoer”: het afzonderlijke of gecombineerde vervoer per luchtvaartuig van passagiers, bagage, vracht en post, dat tegen vergoeding of betaling van huur aan het publiek wordt aangeboden en dat geregelde en niet-geregelde luchtdiensten omvat;
 
@@ -163,11 +38,11 @@ Zijn als volgt overeengekomen:
 
 - g. „mededingingsrecht”: de wetgeving die, binnen de jurisdictie van een partij, betrekking heeft op de volgende gedragingen, voor zover die gevolgen kunnen hebben voor luchtvervoersdiensten naar, vanuit of binnen die partij:
 
-- i. overeenkomsten tussen luchtvaartmaatschappijen, besluiten van verenigingen van luchtvaartmaatschappijen en onderling afgestemde feitelijke gedragingen die ertoe strekken of tot gevolg hebben dat de mededinging wordt verhinderd, beperkt of vervalst;
+   - i. overeenkomsten tussen luchtvaartmaatschappijen, besluiten van verenigingen van luchtvaartmaatschappijen en onderling afgestemde feitelijke gedragingen die ertoe strekken of tot gevolg hebben dat de mededinging wordt verhinderd, beperkt of vervalst;
 
-- ii. misbruik van een machtspositie door een of meer luchtvaartmaatschappijen; of
+   - ii. misbruik van een machtspositie door een of meer luchtvaartmaatschappijen; of
 
-- iii. concentraties tussen luchtvaartmaatschappijen die de mededinging aanzienlijk zouden beperken, met name als gevolg van het in het leven roepen of versterken van een machtspositie;
+   - iii. concentraties tussen luchtvaartmaatschappijen die de mededinging aanzienlijk zouden beperken, met name als gevolg van het in het leven roepen of versterken van een machtspositie;
 
 - h. „geautomatiseerd boekingssysteem” (hierna „CRS” genoemd): een geautomatiseerd systeem dat informatie bevat (met inbegrip van dienstregelingen, beschikbaarheid en tarieven) van meer dan één luchtvaartmaatschappij, met of zonder de mogelijkheid plaatsen te reserveren of tickets af te geven, voor zover alle of bepaalde diensten voor abonnees beschikbaar zijn, met inbegrip van wereldwijde distributiesystemen (Global Distribution Systems), voor zover die ook luchtvervoersproducten bevatten;
 
@@ -175,9 +50,9 @@ Zijn als volgt overeengekomen:
 
 - j. „daadwerkelijke zeggenschap”: een relatie gebaseerd op rechten, overeenkomsten of andere middelen die, afzonderlijk of samen en gelet op de desbetreffende feitelijke of juridische omstandigheden, de mogelijkheid bieden om rechtstreeks of onrechtstreeks een beslissende invloed uit te oefenen op een onderneming, meer bepaald via:
 
-- i. het recht om alle of een gedeelte van de activa van een onderneming te gebruiken;
+   - i. het recht om alle of een gedeelte van de activa van een onderneming te gebruiken;
 
-- ii. rechten of overeenkomsten waardoor een beslissende invloed kan worden uitgeoefend op de samenstelling, het stemgedrag of de besluiten van de organen van een onderneming of waardoor anderszins een beslissende invloed kan worden uitgeoefend op de bedrijfsvoering van de onderneming;
+   - ii. rechten of overeenkomsten waardoor een beslissende invloed kan worden uitgeoefend op de samenstelling, het stemgedrag of de besluiten van de organen van een onderneming of waardoor anderszins een beslissende invloed kan worden uitgeoefend op de bedrijfsvoering van de onderneming;
 
 - k. „vaststelling van de geschiktheid”: de vaststelling dat een luchtvaartmaatschappij die voorstelt in het kader van deze Overeenkomst luchtdiensten te exploiteren over voldoende financiële draagkracht en passende leidinggevende deskundigheid beschikt om dergelijke diensten te exploiteren en bereid is de wet- en regelgeving en eisen voor het exploiteren van dergelijke diensten na te leven;
 
@@ -193,49 +68,49 @@ Zijn als volgt overeengekomen:
 
 - q. „partijen”:
 
-- i. de Unie en de EU-lidstaten; en
+   - i. de Unie en de EU-lidstaten; en
 
-- ii. de ASEAN-lidstaten.
+   - ii. de ASEAN-lidstaten.
 
 - r. „hoofdvestiging”: het hoofdkantoor of het geregistreerde kantoor van een luchtvaartmaatschappij op het grondgebied van het land van een partij waar de belangrijkste financiële functies van en de operationele zeggenschap over de luchtvaartmaatschappij, met inbegrip van het beheer van de blijvende luchtwaardigheid, worden uitgeoefend;
 
 - s. „geregelde luchtdiensten”: een reeks vluchten die allemaal alle volgende kenmerken bezitten:
 
-- i. de vluchten doorkruisen het luchtruim boven het grondgebied van meer dan één staat;
+   - i. de vluchten doorkruisen het luchtruim boven het grondgebied van meer dan één staat;
 
-- ii. de vluchten worden uitgevoerd door luchtvaartuigen voor het vervoer van passagiers, bagage, post en/of vracht tegen betaling, op zodanige wijze dat elke vlucht door het publiek kan worden gebruikt;
+   - ii. de vluchten worden uitgevoerd door luchtvaartuigen voor het vervoer van passagiers, bagage, post en/of vracht tegen betaling, op zodanige wijze dat elke vlucht door het publiek kan worden gebruikt;
 
-- iii. de vluchten worden uitgevoerd om het verkeer tussen dezelfde twee of meer plaatsen te verzorgen:
+   - iii. de vluchten worden uitgevoerd om het verkeer tussen dezelfde twee of meer plaatsen te verzorgen:
 
-- A. volgens een gepubliceerde dienstregeling; of
+      - A. volgens een gepubliceerde dienstregeling; of
 
-- B. met een zodanige regelmaat of frequentie dat zij duidelijk een systematische reeks vormen;
+      - B. met een zodanige regelmaat of frequentie dat zij duidelijk een systematische reeks vormen;
 
 - t. „zelfafhandeling”: situatie waarbij een luchtvaartmaatschappij zichzelf rechtstreeks een of meer categorieën afhandelingsdiensten verleent en met derden geen enkel contract, hoe ook genaamd, dat de verlening van dergelijke diensten tot doel heeft, afsluit. Voor de toepassing van deze definitie worden luchtvaartmaatschappijen onderling niet als derden beschouwd als:
 
-- i. de ene luchtvaartmaatschappij een meerderheidsbelang heeft in de andere, of
+   - i. de ene luchtvaartmaatschappij een meerderheidsbelang heeft in de andere, of
 
-- ii. eenzelfde entiteit in elk van beide een meerderheidsbelang heeft;
+   - ii. eenzelfde entiteit in elk van beide een meerderheidsbelang heeft;
 
 - u. „ernstige verstoring in de economie van een partij”: een uitzonderlijke, tijdelijke en ernstige crisis die de economie van een ASEAN-lidstaat of van een EU-lidstaat in haar geheel en niet een specifieke regio of economische sector raakt;
 
 - v. „overheidsbedrijf”: een onderneming die betrokken is bij een commerciële activiteit, waarbij:
 
-- i. een partij meer dan 50 % bezit van het geplaatste kapitaal van de onderneming of van de stemmen die verbonden zijn met de door de onderneming uitgegeven aandelen; of
+   - i. een partij meer dan 50 % bezit van het geplaatste kapitaal van de onderneming of van de stemmen die verbonden zijn met de door de onderneming uitgegeven aandelen; of
 
-- ii. een partij direct of indirect beslissende invloed uitoefent of kan uitoefenen, krachtens haar financiële deelneming, de regels of praktijken inzake de werking van de onderneming of enige andere manier die een dergelijke beslissende invloed bepaalt. Van beslissende invloed van een partij is sprake wanneer de partij rechtstreeks of onrechtstreeks gerechtigd is meer dan de helft van de leden van het bestuur, het management of het toezichthoudend orgaan van de onderneming te benoemen;
+   - ii. een partij direct of indirect beslissende invloed uitoefent of kan uitoefenen, krachtens haar financiële deelneming, de regels of praktijken inzake de werking van de onderneming of enige andere manier die een dergelijke beslissende invloed bepaalt. Van beslissende invloed van een partij is sprake wanneer de partij rechtstreeks of onrechtstreeks gerechtigd is meer dan de helft van de leden van het bestuur, het management of het toezichthoudend orgaan van de onderneming te benoemen;
 
 - w. „landing voor andere dan verkeersdoeleinden”: een om een andere reden dan voor het aan boord nemen of afzetten van passagiers, bagage, lading en of post in het luchtvervoer gemaakte landing;
 
 - x. „subsidie”: alle door de overheid of door een andere overheidsinstantie verleende financiële bijdragen, met inbegrip van: beperkt tot een entiteit of bedrijfstak, of een groep van entiteiten of bedrijfstakken, binnen de rechtsbevoegdheid van de subsidiërende autoriteit en waaruit deze luchtvaartmaatschappijen een voordeel putten. Met een financiële bijdrage van een overheid of een ander publiekrechtelijk lichaam wordt niet geacht een voordeel te zijn verleend indien een particuliere marktdeelnemer die zich uitsluitend door winstgevendheidsvooruitzichten laat leiden, in dezelfde situatie als het betrokken publiekrechtelijk lichaam, dezelfde financiële bijdrage had verstrekt;
 
-- i. de directe overdracht van middelen, zoals toelagen, leningen of kapitaalinbreng, de mogelijke rechtstreekse overdracht van middelen, het overnemen van verplichtingen, zoals leninggaranties, kapitaalinjecties, eigendom, bescherming tegen faillissement of verzekering;
+   - i. de directe overdracht van middelen, zoals toelagen, leningen of kapitaalinbreng, de mogelijke rechtstreekse overdracht van middelen, het overnemen van verplichtingen, zoals leninggaranties, kapitaalinjecties, eigendom, bescherming tegen faillissement of verzekering;
 
-- ii. de derving of niet-inning van inkomsten die normaal gesproken de overheid toekomen;
+   - ii. de derving of niet-inning van inkomsten die normaal gesproken de overheid toekomen;
 
-- iii. de levering van andere goederen en diensten dan algemene infrastructuur, of de inkoop van goederen of diensten; of
+   - iii. de levering van andere goederen en diensten dan algemene infrastructuur, of de inkoop van goederen of diensten; of
 
-- iv. de verrichting van betalingen aan een financieringsmechanisme of het feit dat een particuliere instantie wordt belast met of de uitvoering krijgt opgedragen van één of meer van de in punt 1, x), i), ii) en iii), van dit artikel vermelde functies die de overheid of een andere overheidsinstantie normaal gesproken zelf zou vervullen en die in werkelijkheid niet afwijken van praktijken die overheidsinstanties plegen te volgen,
+   - iv. de verrichting van betalingen aan een financieringsmechanisme of het feit dat een particuliere instantie wordt belast met of de uitvoering krijgt opgedragen van één of meer van de in punt 1, x), i), ii) en iii), van dit artikel vermelde functies die de overheid of een andere overheidsinstantie normaal gesproken zelf zou vervullen en die in werkelijkheid niet afwijken van praktijken die overheidsinstanties plegen te volgen,
 
 - y. „tarief”: alle tarieven of kosten die luchtvaartmaatschappijen, met inbegrip van hun agenten, in rekening brengen voor het vervoer van passagiers, bagage en/of vracht (met uitzondering van post) in het luchtvervoer (met inbegrip van elke andere vervoerswijze die hiermee verband houdt), alsmede de voorwaarden voor de beschikbaarheid van die tarieven of kosten;
 
@@ -244,6 +119,8 @@ Zijn als volgt overeengekomen:
 - aa. „gebruikersheffing”: een aan luchtvaartmaatschappijen opgelegde heffing voor de levering van luchthaven-, luchtvaartnavigatie- of luchtvaartbeveiligingsfaciliteiten of -diensten, met inbegrip van aanverwante diensten en faciliteiten, of een geluidsheffing, met inbegrip van heffingen om lokale luchtkwaliteitsproblemen op of rond luchthavens aan te pakken. Voor alle duidelijkheid: regelingen om klimaatgerelateerde emissies van de internationale luchtvaart aan te pakken vallen niet onder deze definitie.
 
 ##### Artikel 3. Verlening van rechten
+
+Routeschema
 
 1. Een ASEAN-lidstaat verleent luchtvaartmaatschappijen uit de Unie toestemming vluchten uit te voeren op de volgende routes:
 
@@ -256,6 +133,8 @@ Voor de in de eerste alinea genoemde routes omvatten de begrippen tussenliggende
 alle punten in die ASEAN-lidstaat – alle tussenliggende punten – alle punten in de Unie – alle verder gelegen punten.
 
 Voor de in de eerste alinea genoemde routes omvat het begrip punten in de Unie een of meer punten in EU-lidstaten.
+
+Verkeersrechten
 
 3. De partijen verlenen elkaar de volgende rechten voor de exploitatie van internationaal luchtvervoer door hun respectieve luchtvaartmaatschappijen:
 
@@ -288,6 +167,8 @@ Voor de in de eerste alinea genoemde routes omvat het begrip punten in de Unie e
 - b. Na twee jaar mogen er in elke richting maximaal zeven (7) extra wekelijkse vluchten met vertrek of aankomst in elke ASEAN-lidstaat worden uitgevoerd; en
 
 - c. De vluchten die overeenkomstig lid 5, punt b), van dit artikel worden uitgevoerd, mogen geen routes bedienen tussen een ASEAN-lidstaat en een derde land die reeds door een luchtvaartmaatschappij uit die ASEAN-lidstaat worden bediend. Voor de toepassing van dit lid wordt een route geacht reeds door een luchtvaartmaatschappij uit een ASEAN-lidstaat te worden bediend als die maatschappij op die route geregelde diensten aanbiedt met haar eigen luchtvaartuigen, met luchtvaartuigen die met of zonder bemanning worden geleaset, of, in het geval van non-stopdiensten, door middel van codesharing.
+
+Operationele flexibiliteit
 
 6. De luchtvaartmaatschappijen van beide partijen mogen bij een vlucht of alle vluchten en naar keuze op de in leden 1 en 2 van dit artikel gespecificeerde routes:
 
@@ -329,19 +210,19 @@ Voor de in de eerste alinea genoemde routes omvat het begrip punten in de Unie e
 
 - a. in het geval van een luchtvaartmaatschappij van een ASEAN-lidstaat:
 
-- i. de hoofdvestiging van de luchtvaartmaatschappij bevindt zich in die ASEAN-lidstaat en de maatschappij is houder van een geldige exploitatievergunning overeenkomstig de wetgeving van diezelfde ASEAN-lidstaat;
+   - i. de hoofdvestiging van de luchtvaartmaatschappij bevindt zich in die ASEAN-lidstaat en de maatschappij is houder van een geldige exploitatievergunning overeenkomstig de wetgeving van diezelfde ASEAN-lidstaat;
 
-- ii. de ASEAN-lidstaat die het Air Operator Certificate heeft afgegeven, houdt daadwerkelijk regelgevend toezicht op de luchtvaartmaatschappij, en de bevoegde autoriteit is duidelijk vermeld; en
+   - ii. de ASEAN-lidstaat die het Air Operator Certificate heeft afgegeven, houdt daadwerkelijk regelgevend toezicht op de luchtvaartmaatschappij, en de bevoegde autoriteit is duidelijk vermeld; en
 
-- iii. de luchtvaartmaatschappij is rechtstreeks of door een meerderheidsbelang eigendom van en wordt feitelijk gecontroleerd door die ASEAN-lidstaat en/of zijn onderdanen;
+   - iii. de luchtvaartmaatschappij is rechtstreeks of door een meerderheidsbelang eigendom van en wordt feitelijk gecontroleerd door die ASEAN-lidstaat en/of zijn onderdanen;
 
 - b. in het geval van een luchtvaartmaatschappij van de Unie:
 
-- i. de luchtvaartmaatschappij is gevestigd op het grondgebied van de Unie en is houder van een geldige exploitatievergunning overeenkomstig de wetgeving van de Unie;
+   - i. de luchtvaartmaatschappij is gevestigd op het grondgebied van de Unie en is houder van een geldige exploitatievergunning overeenkomstig de wetgeving van de Unie;
 
-- ii. de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate houdt daadwerkelijk regelgevend toezicht op de luchtvaartmaatschappij, en de bevoegde autoriteit is duidelijk vermeld; en
+   - ii. de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate houdt daadwerkelijk regelgevend toezicht op de luchtvaartmaatschappij, en de bevoegde autoriteit is duidelijk vermeld; en
 
-- iii. de luchtvaartmaatschappij is rechtstreeks of door een meerderheidsbelang eigendom van een of meer EU-lidstaten, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, Zwitserland en/of onderdanen van die staten, en zij oefenen daadwerkelijk zeggenschap uit over de luchtvaartmaatschappij;
+   - iii. de luchtvaartmaatschappij is rechtstreeks of door een meerderheidsbelang eigendom van een of meer EU-lidstaten, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, Zwitserland en/of onderdanen van die staten, en zij oefenen daadwerkelijk zeggenschap uit over de luchtvaartmaatschappij;
 
 - c. er is voldaan aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=15&z=2022-10-17&g=2022-10-17) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=16&z=2022-10-17&g=2022-10-17); en
 
@@ -363,19 +244,19 @@ Voor de in de eerste alinea genoemde routes omvat het begrip punten in de Unie e
 
 - a. in het geval van een luchtvaartmaatschappij van een ASEAN-lidstaat:
 
-- i. de hoofdvestiging van de luchtvaartmaatschappij zich niet in een ASEAN-lidstaat bevindt of de maatschappij geen geldige exploitatievergunning bezit overeenkomstig de wetgeving van diezelfde ASEAN-lidstaat; of
+   - i. de hoofdvestiging van de luchtvaartmaatschappij zich niet in een ASEAN-lidstaat bevindt of de maatschappij geen geldige exploitatievergunning bezit overeenkomstig de wetgeving van diezelfde ASEAN-lidstaat; of
 
-- ii. het regelgevend toezicht op de luchtvaartmaatschappij niet wordt uitgeoefend of gehandhaafd door de ASEAN-lidstaat die het Air Operator Certificate heeft afgegeven, of de bevoegde autoriteit niet duidelijk is vermeld; of
+   - ii. het regelgevend toezicht op de luchtvaartmaatschappij niet wordt uitgeoefend of gehandhaafd door de ASEAN-lidstaat die het Air Operator Certificate heeft afgegeven, of de bevoegde autoriteit niet duidelijk is vermeld; of
 
-- iii. de luchtvaartmaatschappij rechtstreeks of door een meerderheidsbelang geen eigendom is van en niet feitelijk wordt gecontroleerd door die ASEAN-lidstaat en/of zijn onderdanen;
+   - iii. de luchtvaartmaatschappij rechtstreeks of door een meerderheidsbelang geen eigendom is van en niet feitelijk wordt gecontroleerd door die ASEAN-lidstaat en/of zijn onderdanen;
 
 - b. in het geval van een luchtvaartmaatschappij van de Unie:
 
-- i. de luchtvaartmaatschappij niet op het grondgebied van de Unie is gevestigd of niet beschikt over een geldige exploitatievergunning overeenkomstig de wetgeving van de Unie; of
+   - i. de luchtvaartmaatschappij niet op het grondgebied van de Unie is gevestigd of niet beschikt over een geldige exploitatievergunning overeenkomstig de wetgeving van de Unie; of
 
-- ii. het regelgevend toezicht op de luchtvaartmaatschappij niet wordt uitgeoefend of gehandhaafd door de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate, of de bevoegde autoriteit niet duidelijk is vermeld; of
+   - ii. het regelgevend toezicht op de luchtvaartmaatschappij niet wordt uitgeoefend of gehandhaafd door de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate, of de bevoegde autoriteit niet duidelijk is vermeld; of
 
-- iii. de luchtvaartmaatschappij niet rechtstreeks of door een meerderheidsbelang eigendom is van een of meer EU-lidstaten, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, Zwitserland en/of onderdanen van die staten, en zij geen daadwerkelijke zeggenschap uitoefenen over de luchtvaartmaatschappij; of
+   - iii. de luchtvaartmaatschappij niet rechtstreeks of door een meerderheidsbelang eigendom is van een of meer EU-lidstaten, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, Zwitserland en/of onderdanen van die staten, en zij geen daadwerkelijke zeggenschap uitoefenen over de luchtvaartmaatschappij; of
 
 - c. de luchtvaartmaatschappij zich niet heeft gehouden aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=7&z=2022-10-17&g=2022-10-17) vermelde wet- en regelgeving.
 
@@ -417,21 +298,21 @@ De partijen erkennen de potentiële baten van de geleidelijke liberalisering van
 
 - a. steun voor insolvabele of noodlijdende luchtvaartmaatschappijen, op voorwaarde dat:
 
-- i. die steun wordt gekoppeld aan een geloofwaardig herstructureringsplan op basis van realistische aannames teneinde het herstel van de levensvatbaarheid van de noodlijdende luchtvaartmaatschappij binnen een redelijke termijn te waarborgen; en
+   - i. die steun wordt gekoppeld aan een geloofwaardig herstructureringsplan op basis van realistische aannames teneinde het herstel van de levensvatbaarheid van de noodlijdende luchtvaartmaatschappij binnen een redelijke termijn te waarborgen; en
 
-- ii. de betrokken luchtvaartmaatschappijen, hun investeerders of aandeelhouders zelf een aanzienlijk deel van de herstructureringskosten dragen;
+   - ii. de betrokken luchtvaartmaatschappijen, hun investeerders of aandeelhouders zelf een aanzienlijk deel van de herstructureringskosten dragen;
 
 - b. tijdelijke liquiditeitssteun aan een noodlijdende luchtvaartmaatschappij in de vorm van leningen of leninggaranties voor zover het bedrag daarvan niet hoger ligt dan het bedrag dat nodig is om ervoor te zorgen dat de betrokken maatschappij haar activiteiten kan voortzetten gedurende de tijd die nodig is om een herstructurerings- of liquiditeitsplan op te stellen;
 
 - c. voor zover zij beperkt blijven tot de minimumbedragen die nodig zijn om hun doelstelling te bereiken en hun impact op het aanbieden van luchtvervoersdiensten tussen de partijen tot een minimum wordt beperkt:
 
-- i. subsidies tot herstel van de schade veroorzaakt door natuurrampen of andere buitengewone gebeurtenissen;
+   - i. subsidies tot herstel van de schade veroorzaakt door natuurrampen of andere buitengewone gebeurtenissen;
 
-- ii. subsidies om een ernstige verstoring in de economie van een van de partijen op te heffen;
+   - ii. subsidies om een ernstige verstoring in de economie van een van de partijen op te heffen;
 
-- iii. subsidies voor luchtvaartmaatschappijen die belast zijn met duidelijk omschreven openbaredienstverplichtingen die noodzakelijk zijn om tegemoet te komen aan vervoersbehoeften van de bevolking die niet alleen door de markt kunnen worden opgevangen, voor zover die subsidies beperkt blijven tot een redelijke compensatie voor de levering van de betrokken luchtvervoerdiensten; en
+   - iii. subsidies voor luchtvaartmaatschappijen die belast zijn met duidelijk omschreven openbaredienstverplichtingen die noodzakelijk zijn om tegemoet te komen aan vervoersbehoeften van de bevolking die niet alleen door de markt kunnen worden opgevangen, voor zover die subsidies beperkt blijven tot een redelijke compensatie voor de levering van de betrokken luchtvervoerdiensten; en
 
-- iv. subsidies die voor alle luchtvaartmaatschappijen beschikbaar zijn en die de jure of de facto niet tot bepaalde luchtvaartmaatschappijen zijn beperkt.
+   - iv. subsidies die voor alle luchtvaartmaatschappijen beschikbaar zijn en die de jure of de facto niet tot bepaalde luchtvaartmaatschappijen zijn beperkt.
 
 4. De partijen zien erop toe dat al hun luchtvaartmaatschappijen die op grond van deze Overeenkomst luchtvervoerdiensten aanbieden minstens jaarlijks een financieel verslag en begeleidende financiële staten publiceren, of anderszins op verzoek opstellen en ter beschikking stellen, en dat deze worden onderworpen aan een onafhankelijke audit overeenkomstig de internationaal erkende normen inzake boekhouding en financiële bedrijfsinformatie. Subsidies worden in die financiële verslagen afzonderlijk vermeld.
 
@@ -473,31 +354,43 @@ mogen zij handelen overeenkomstig de leden 8, 9 en10 van dit artikel.
 
 1. De partijen verlenen elkaar de in de leden 2 tot en met 17 van dit artikel bedoelde rechten. Van luchtvaartmaatschappijen van de partijen wordt niet verlangd dat zij door de toepassing van dit artikel een lokale partner behouden.
 
+Vertegenwoordigers van luchtvaartmaatschappijen
+
 2. De luchtvaartmaatschappijen van elke partij mogen vrij kantoren en faciliteiten vestigen op het grondgebied van een andere partij, als dat nodig is om in het kader van deze Overeenkomst diensten te verlenen en voor zover praktisch uitvoerbaar en zonder discriminatie.
 
 3. Onverminderd de veiligheids- en beveiligingsvoorschriften, kunnen dergelijke faciliteiten op een luchthaven worden onderworpen aan beperkingen op grond van de beschikbare ruimte.
 
 4. De luchtvaartmaatschappijen van beide partijen hebben het recht om leidinggevend, verkoop-, technisch, operationeel en ander gespecialiseerd personeel dat nodig is om de luchtvervoersactiviteiten te ondersteunen, op het grondgebied van een andere partij binnen te brengen, te laten verblijven en te laten werken, overeenkomstig de wetten en regels van die andere partij met betrekking tot toegang, verblijf en werk. De partijen zorgen voor een snelle toekenning van werkvergunningen voor het personeel dat in dienst is bij de in dit artikel bedoelde kantoren, inclusief het personeel dat tijdelijke taken uitvoert, onverminderd de relevante geldende wetten en regels.
 
-- a. Onverminderd lid 5, punt b), van dit artikel, hebben de luchtvaartmaatschappijen van elke partij met betrekking tot grondafhandeling op het grondgebied van een andere partij het recht:
+Grondafhandeling
 
-- i. zelfafhandeling te verrichten; of
+5. - a. Onverminderd lid 5, punt b), van dit artikel, hebben de luchtvaartmaatschappijen van elke partij met betrekking tot grondafhandeling op het grondgebied van een andere partij het recht:
 
-- ii. een keuze te maken tussen concurrerende leveranciers van volledige of gedeeltelijke grondafhandelingsdiensten, overeenkomstig de wet- en regelgeving van de betrokken partij.
+   - i. zelfafhandeling te verrichten; of
+
+   - ii. een keuze te maken tussen concurrerende leveranciers van volledige of gedeeltelijke grondafhandelingsdiensten, overeenkomstig de wet- en regelgeving van de betrokken partij.
 
 - b. Lid 5, punt a), van dit artikel is onderworpen aan overwegingen in verband met veiligheid, beveiliging en fysieke of operationele beperkingen. Indien dit tot gevolg heeft dat zelfafhandeling wordt beperkt, verhinderd of uitgesloten en indien er geen daadwerkelijke mededinging tussen leveranciers van grondafhandelingsdiensten bestaat, ziet de desbetreffende partij erop toe dat deze diensten op gelijke en niet-discriminerende basis ter beschikking worden gesteld van alle luchtvaartmaatschappijen, en dat de prijzen van die diensten worden vastgesteld in overeenstemming met relevante, objectieve, transparante en niet-discriminerende criteria.
 
+Toewijzing van slots op luchthavens
+
 6. Elke partij ziet erop toe dat haar procedures, richtsnoeren en regels voor de toewijzing van slots op de luchthavens op haar grondgebied op transparante, doeltreffende, niet-discriminerende en tijdige wijze worden toegepast.
 
+Operationele plannen, programma's en dienstregelingen
+
 7. Een partij mag uitsluitend voor informatiedoeleinden verlangen dat operationele plannen, programma's of dienstregelingen van krachtens deze Overeenkomst geëxploiteerde diensten worden meegedeeld aan haar bevoegde autoriteiten. Als een partij een dergelijke kennisgeving verlangt, beperkt zij de administratieve last van die kennisgevingsvereisten en -procedures voor tussenpersonen en luchtvaartmaatschappijen van een andere partij tot een minimum.
+
+Verkoop, plaatselijke uitgaven en transfer van fondsen
 
 8. De luchtvaartmaatschappijen van elke partij mogen op het grondgebied van een andere partij luchtvervoers- en aanverwante diensten verkopen, zowel van henzelf als van andere luchtvaartmaatschappijen. Een luchtvaartmaatschappij kan dit, naar eigen inzicht rechtstreeks en/of via verkoopagenten, andere tussenpersonen, online of via een ander beschikbaar kanaal doen. De aan- en verkoop van dergelijke vervoers- en aanverwante diensten is toegestaan in de munteenheid van het grondgebied van de aan- of verkoop of in vrij converteerbare valuta.
 
 9. Het staat luchtvaartmaatschappijen van elke partij vrij plaatselijke uitgaven, met inbegrip van de aankoop van brandstof op het grondgebied van een andere partij, te betalen in lokale valuta of in converteerbare valuta tegen de geldende wisselkoers.
 
-- a. De luchtvaartmaatschappijen van elke partij hebben het recht om, op verzoek, op welk ogenblik en welke wijze dan ook, lokale inkomsten om te wisselen in om het even welke vrij converteerbare munteenheid en die inkomsten vanuit het grondgebied van een andere partij over te maken naar het land van hun keuze. De omwisseling en overmaking moeten onverwijld en zonder beperkingen of belastingen daarop worden toegestaan tegen de officiële wisselkoers die geldt voor lopende transacties en overmakingen op de datum waarop een luchtvaartmaatschappij de eerste aanvraag tot overmaking indient, en worden aan geen enkele heffing onderworpen, met uitzondering van de heffingen die de banken normaal voor dergelijke omwisselingen en overmakingen in rekening brengen.
+10. - a. De luchtvaartmaatschappijen van elke partij hebben het recht om, op verzoek, op welk ogenblik en welke wijze dan ook, lokale inkomsten om te wisselen in om het even welke vrij converteerbare munteenheid en die inkomsten vanuit het grondgebied van een andere partij over te maken naar het land van hun keuze. De omwisseling en overmaking moeten onverwijld en zonder beperkingen of belastingen daarop worden toegestaan tegen de officiële wisselkoers die geldt voor lopende transacties en overmakingen op de datum waarop een luchtvaartmaatschappij de eerste aanvraag tot overmaking indient, en worden aan geen enkele heffing onderworpen, met uitzondering van de heffingen die de banken normaal voor dergelijke omwisselingen en overmakingen in rekening brengen.
 
 - b. In uitzonderlijke omstandigheden, wanneer kapitaalbewegingen en betalingen, met inbegrip van overmakingen, ernstige moeilijkheden veroorzaken of dreigen te veroorzaken voor de economie van een partij, kan die partij maatregelen nemen die de in lid 10, punt a), van dit artikel bedoelde rechten beperken, mits die maatregelen tijdelijk en strikt noodzakelijk zijn om die moeilijkheden aan te pakken. Die maatregelen mogen geen middel zijn om luchtvaartmaatschappijen van de andere partijen willekeurig of ongerechtvaardigd te discrimineren ten opzichte van luchtvaartmaatschappijen uit andere landen.
+
+Samenwerkingsregelingen op het gebied van marketing
 
 11. Bij het exploiteren of aanbieden van luchtdiensten in het kader van deze Overeenkomst mogen luchtvaartmaatschappijen van elke partij coöperatieve marketingregelingen, zoals overeenkomsten inzake voorbehouden capaciteit of codesharingregelingen, sluiten met:
 
@@ -519,9 +412,13 @@ Als de exploiterende luchtvaartmaatschappij van de binnenlandse dienst een maats
 
 13. Wanneer passagiersvervoer met coöperatieve marketingregelingen wordt verkocht, moet in het verkooppunt of in elk geval bij de check-in of, indien geen check-in vereist is voor een aansluitende vlucht, alvorens aan boord te gaan aan de koper worden meegedeeld welke vervoerders de verschillende delen van de dienst zullen uitvoeren.
 
+Intermodale diensten
+
 14. Wanneer luchtvaartmaatschappijen in eigen naam vervoer van passagiers op de grond aanbieden, zijn deze diensten niet onderworpen aan de wetten en regels inzake luchtvervoer.
 
 15. Niettegenstaande enige andere bepaling van deze Overeenkomst is het luchtvaartmaatschappijen en indirecte aanbieders van vrachtvervoer van elke partij zonder beperking toegestaan om in verband met internationaal luchtvervoer gebruik te maken van alle oppervlaktevervoer voor vracht van en naar willekeurige punten op de grondgebieden van de partijen of in derde landen, met inbegrip van vervoer naar en van alle luchthavens met douanefaciliteiten, en inclusief, indien van toepassing, het recht op douanevervoer van vracht in het kader van de geldende wetten en voorschriften. Deze vracht heeft, ongeacht of het oppervlaktevervoer dan wel luchtvervoer betreft, toegang tot de douaneprocedures en -faciliteiten op de luchthaven. Een luchtvaartmaatschappij kan ervoor kiezen haar oppervlaktevervoer zelf te verzorgen of hiervoor regelingen te treffen met andere aanbieders van oppervlaktevervoer; ze mag bijvoorbeeld een beroep doen op andere luchtvaartmaatschappijen die oppervlaktevervoer aanbieden en op indirecte aanbieders van luchtvrachtvervoer. Dergelijke intermodale vrachtvervoersdiensten kunnen worden aangeboden tegen een prijs waarin zowel het luchtvervoer als het oppervlaktevervoer is inbegrepen, voor zover de expediteurs correcte feitelijke informatie krijgen over dat vervoer.
+
+Leasing
 
 16. De luchtvaartmaatschappijen van elke partij mogen in het kader van deze Overeenkomst luchtvervoersdiensten verlenen met:
 
@@ -609,7 +506,7 @@ Om twijfel uit te sluiten, worden luchtvaartuigen en andere goederen als bedoeld
 
 ##### Artikel 16. Beveiliging van de luchtvaart
 
-1. Beide partijen bevestigen dat hun verplichtingen tegenover elkaar ook de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden omvatten, met name hun verplichtingen uit hoofde van het [Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), het [Verdrag inzake strafbare feiten en bepaalde andere handelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659) begaan aan boord van luchtvaartuigen, ondertekend in Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend in Den Haag op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend in Montreal op 23 september 1971, het [Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), ondertekend te Montreal op 24 februari 1988, en het [Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), ondertekend te Montreal op 1 maart 1991, voor zover de partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de beveiliging van de burgerluchtvaart waartoe de partijen zijn toegetreden.
+1. Beide partijen bevestigen dat hun verplichtingen tegenover elkaar ook de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden omvatten, met name hun verplichtingen uit hoofde van het [Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), het [Verdrag inzake strafbare feiten en bepaalde andere handelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659) begaan aan boord van luchtvaartuigen, ondertekend in Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend in Den Haag op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend in Montreal op 23 september 1971, het [Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), ondertekend te Montreal op 24 februari 1988, en het [Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), ondertekend te Montreal op 1 maart 1991, voor zover de partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de beveiliging van de burgerluchtvaart waartoe de partijen zijn toegetreden.
 
 2. Op verzoek verlenen de partijen elkaar alle nodige bijstand om iedere bedreiging van de veiligheid van de burgerluchtvaart het hoofd te bieden, waaronder het voorkomen van wederrechtelijk de macht verwerven over burgerluchtvaartuigen en andere wederrechtelijke daden tegen de veiligheid van dergelijke luchtvaartuigen, hun passagiers en bemanning, luchthavens en luchtvaartnavigatiefaciliteiten, en alle andere dreigingen tegen de beveiliging van de burgerluchtvaart.
 
@@ -681,9 +578,9 @@ De partijen komen overeen samen te werken om de belangen van de consumenten in d
 
 3. Elke partij blijft haar wetgeving en beleidslijnen verbeteren en levert inspanningen om een hoog niveau van arbeidsbescherming in de luchtvaartsector te bieden en aan te moedigen. De partijen erkennen dat de schending van de fundamentele principes en rechten met betrekking tot werk niet als legitiem relatief voordeel mag worden ingeroepen of op andere wijze als zodanig mag worden gebruikt, en dat de arbeidsnormen niet voor protectionistische doeleinden mogen worden gebruikt.
 
-4. De partijen herbevestigen hun verbintenis om, conform hun verplichtingen als lid van de Internationale Arbeidsorganisatie (hierna „IAO” genoemd) en conform de verklaring van de IAO over de fundamentele principes en rechten op het werk en de follow-up daarvan, die op 18 juni 1998 in Genève is aangenomen, die verklaring te eerbiedigen, te bevorderen en uit te voeren.
+4. De partijen herbevestigen hun verbintenis om, conform hun verplichtingen als lid van de Internationale Arbeidsorganisatie (hierna „IAO” genoemd) en conform de verklaring van de IAO over de fundamentele principes en rechten op het werk en de follow-up daarvan, die op 18 juni 1998 in Genève is aangenomen, die verklaring te eerbiedigen, te bevorderen en uit te voeren.
 
-5. De partijen promoten de doelstellingen die zijn opgenomen in de Agenda voor waardig werk van de IAO en de verklaring van de IAO over sociale gerechtigheid voor een eerlijke mondialisering, die op 10 juni 2008 is aangenomen te Genève.
+5. De partijen promoten de doelstellingen die zijn opgenomen in de Agenda voor waardig werk van de IAO en de verklaring van de IAO over sociale gerechtigheid voor een eerlijke mondialisering, die op 10 juni 2008 is aangenomen te Genève.
 
 6. Elke partij verbindt zich ertoe om alles in het werk te stellen om, voor zover dat nog niet gebeurd is, de fundamentele IAO-verdragen te ratificeren. De partijen nemen ook de ratificatie en daadwerkelijke toepassing van andere IAO-verdragen en voor de burgerluchtvaart relevante internationale sociale en arbeidsnormen in overweging, rekening houdend met de binnenlandse context.
 
@@ -739,11 +636,11 @@ De partijen komen overeen samen te werken om de belangen van de consumenten in d
 
 2. Onverminderd voorafgaand overleg tussen de partijen in het kader van deze Overeenkomst stelt een partij die een beroep wenst te doen op het in dit artikel bedoelde geschillenbeslechtingsmechanisme de andere betrokken partij(en) schriftelijk in kennis van haar voornemen en vraagt zij het Gemengd Comité om overleg te organiseren.
 
-- a. Indien: kan het geschil, met instemming van de betrokken partijen, ter beslechting aan een persoon of orgaan worden voorgelegd.
+3. - a. Indien: kan het geschil, met instemming van de betrokken partijen, ter beslechting aan een persoon of orgaan worden voorgelegd.
 
-- i. het Gemengd Comité de kwestie niet heeft besproken binnen twee (2) maanden na de datum van ontvangst van het in lid 2 van dit artikel bedoelde verzoek of binnen de door de partijen overeengekomen termijn; of
+   - i. het Gemengd Comité de kwestie niet heeft besproken binnen twee (2) maanden na de datum van ontvangst van het in lid 2 van dit artikel bedoelde verzoek of binnen de door de partijen overeengekomen termijn; of
 
-- ii. het geschil niet binnen zes (6) maanden na het verzoek is opgelost,
+   - ii. het geschil niet binnen zes (6) maanden na het verzoek is opgelost,
 
 - b. Indien de betrokken partijen geen overeenstemming bereiken om het geschil voor te leggen aan een persoon of orgaan, wordt het geschil op verzoek van een van de partijen aan arbitrage overeenkomstig dit artikel onderworpen.
 
@@ -797,7 +694,7 @@ De partijen komen overeen samen te werken om de belangen van de consumenten in d
 
 ##### Artikel 27. Bijlage
 
-De bijlage bij deze Overeenkomst vormt een integrerend deel daarvan. Wijzigingen in de bijlage worden aangebracht overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=28&z=2022-10-17&g=2022-10-17).
+De bijlage bij deze Overeenkomst vormt een integrerend deel daarvan. Wijzigingen in de [bijlage](https://wetten.overheid.nl/BWBV0006978) worden aangebracht overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=28&z=2022-10-17&g=2022-10-17).
 
 ##### Artikel 28. Wijzigingen
 
@@ -840,119 +737,5 @@ Deze Overeenkomst is van toepassing, enerzijds, op het grondgebied van de Unie e
 2. Wanneer er verschillen zijn tussen de taalversies beslist het Gemengd Comité over de te gebruiken taalversie.
 
 3. Een van de originele teksten van de Overeenkomst alsmede eventuele wijzigingen daarvan wordt neergelegd bij de secretaris-generaal van de ASEAN, die onverwijld een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan elke ASEAN-lidstaat. De andere originele tekst van de Overeenkomst alsmede eventuele wijzigingen daarvan wordt neergelegd bij de secretaris-generaal van de Raad van de Europese Unie.
-
-##### Artikel A. Routeschema
-
-1. Onverminderd [artikel 3, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), en met inachtneming van de binnenlandse wet- en regelgeving van Indonesië, verwijst het begrip „punten in Indonesië” in het kader van de exploitatie van passagiers- en gecombineerde luchtdiensten tussen Indonesië en de Unie naar Denpasar, Jakarta, Makassar, Medan en Surabaya.
-
-2. Indien:
-
-- a. een overeenkomst voor luchtdiensten tussen de ASEAN-lidstaten onderling; of
-
-- b. een overeenkomst voor luchtdiensten tussen de gezamenlijke ASEAN-lidstaten en elk ander land,
-
-luchtvaartmaatschappijen toestaat passagiers en gecombineerde luchtdiensten te exploiteren naar andere punten in Indonesië dan Denpasar, Jakarta, Makassar, Medan en Surabaya, vallen ook die punten onder het begrip „punten in Indonesië”.
-
-3. Voor de toepassing van [artikel 10, lid 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=10&z=2022-10-17&g=2022-10-17), worden, wat Indonesië betreft, de binnenlandse codesharingrechten uitgeoefend via de in de leden 1 en 2 van dit artikel genoemde punten naar andere punten in Indonesië, of omgekeerd.
-
-##### Artikel B. Verkeersrechten
-
-Niettegenstaande [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), zijn de volgende bepalingen van toepassing:
-
-- a. de toekenning van verkeersrechten van de vijfde vrijheid uit hoofde van [artikel 3, lid 3, punt f)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), aan een luchtvaartmaatschappij uit de Unie om passagiers- en combinatiediensten te verlenen tussen punten in Myanmar en punten in de ASEAN, wordt van kracht met ingang van 1 juli 2024.
-
-- b. de toekenning van verkeersrechten van de vijfde vrijheid uit hoofde van [artikel 3, lid 3, punt e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), aan een luchtvaartmaatschappij uit Myanmar om passagiers- en combinatiediensten te verlenen tussen punten in de Unie wordt van kracht met ingang van 1 juli 2024.
-
-- c. de toekenning van verkeersrechten van de vijfde vrijheid op grond van [artikel 3, lid 3, punt f)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), aan een luchtvaartmaatschappij uit de Unie om passagiers- en combinatiediensten te verlenen tussen punten in de Unie en punten in Vietnam en punten buiten de ASEAN, mogen alleen worden verleend op routes die niet worden geëxploiteerd door een luchtvaartmaatschappij van Vietnam.
-
-- d. de toekenning van verkeersrechten van de vijfde vrijheid overeenkomstig [artikel 3, lid 3, punt e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), aan een Vietnamese luchtvaartmaatschappij om passagiers- en combinatiediensten te verlenen tussen punten in Vietnam en punten in de Unie naar punten buiten de Unie, wordt uitsluitend verleend op routes die niet door een luchtvaartmaatschappij uit de Unie worden geëxploiteerd.
-
-##### Artikel C. Recht op tussenlanding
-
-1. Onverminderd [artikel 3, lid 6, punt f)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17), treedt de uitoefening van eigen tussenlandingsrechten bij co-terminalactiviteiten binnen dezelfde ASEAN-lidstaat door luchtvaartmaatschappijen van de Unie in werking twee (2) jaar nadat die rechten zijn uitgewisseld in het kader van een overeenkomst inzake luchtdiensten tussen de ASEAN-lidstaten. De uitoefening van tussenlandingsrechten bij co-terminalactiviteiten in dezelfde EU-lidstaat door luchtvaartmaatschappijen van de ASEAN-lidstaten treedt op hetzelfde tijdstip in werking.
-
-2. Tot dan neemt elke partij verzoeken van luchtvaartmaatschappijen van een andere partij om op extra bilaterale basis eigen vluchten met tussenlanding te verrichten bij co-terminalactiviteiten binnen dezelfde ASEAN-lidstaat of EU-lidstaat, welwillend in overweging, voor zover dergelijke rechten nog niet beschikbaar zijn.
-
-##### Artikel D. Aanwijzing van luchtvaartmaatschappijen
-
-1. Onverminderd [artikel 4, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=4&z=2022-10-17&g=2022-10-17), mogen Indonesië, Myanmar, de Filipijnen en Vietnam de eis handhaven dat luchtvaartmaatschappijen worden aangewezen die op het tijdstip van ondertekening van deze Overeenkomst in hun respectieve nationale wet- en regelgeving zijn opgenomen.
-
-2. Voor de toepassing van lid 1 van dit artikel wordt de publicatie door de Unie van een „lijst van EU-luchtvaartmaatschappijen die houder zijn van een actieve exploitatievergunning” voor de in die lijst opgenomen luchtvaartmaatschappijen geacht te voldoen aan de nationale aanwijzingseisen, op voorwaarde dat die lijst gemakkelijk digitaal raadpleegbaar is voor de bevoegde autoriteiten van de genoemde ASEAN-lidstaten.
-
-3. Indonesië, Myanmar, de Filipijnen en Vietnam streven ernaar de genoemde aanwijzingsvereisten zo spoedig mogelijk op te heffen en stellen het Gemengd Comité daarvan in kennis.
-
-##### Artikel E. Eerlijke mededinging
-
-1. Om elke twijfel uit te sluiten, bevestigen de partijen dat partijen op grond van [artikel 8, lid 2, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17), alleen verplicht zijn mededingingswetgeving vast te stellen of te handhaven en een onafhankelijke mededingingsautoriteit in te stellen om dit mededingingsrecht te handhaven. De partijen bevestigen tevens dat deze Overeenkomst de onafhankelijke werking van de genoemde mededingingsautoriteiten niet belemmert. De besluiten van die mededingingsautoriteiten vallen niet onder het in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=25&z=2022-10-17&g=2022-10-17) bedoelde geschillenbeslechtingsmechanisme.
-
-2. Een partij kan derhalve alleen verhaal zoeken in verband met [artikel 8, lid 2, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17), indien een andere partij het mededingingsrecht niet handhaaft of niet over een functioneel onafhankelijke mededingingsautoriteit beschikt die het mededingingsrecht van die partij daadwerkelijk handhaaft. Niets in [artikel 8, lid 2, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17), mag zodanig worden uitgelegd dat het afbreuk doet aan besluiten of uitspraken van een mededingingsautoriteit of rechterlijke instanties van een partij om het mededingingsrecht van een partij te handhaven.
-
-3. Niettegenstaande [artikel 25, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=25&z=2022-10-17&g=2022-10-17), is het geschillenbeslechtingsmechanisme van dat artikel niet van toepassing op geschillen in verband met de toepassing of interpretatie van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17) die zich vóór 1 januari 2025 voordoen.
-
-##### Artikel F. Operationele plannen, programma's en dienstregelingen
-
-1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=3&z=2022-10-17&g=2022-10-17) en [artikel 10, leden 11 en 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=10&z=2022-10-17&g=2022-10-17), en niettegenstaande artikel 10, lid 7, mogen Cambodja, Indonesië, Laos, Maleisië, Myanmar, de Filipijnen, Thailand en Vietnam de procedures handhaven die op het tijdstip van de ondertekening van deze Overeenkomst in hun respectieve nationale wet- en regelgeving zijn opgenomen voor de goedkeuring van operationele plannen, programma’s en dienstregelingen, met inbegrip van informatie over diensten die worden geëxploiteerd in het kader van coöperatieve marketingregelingen, die door luchtvaartmaatschappijen van de Unie zijn vastgesteld voor luchtdiensten van en naar het grondgebied van die staten.
-
-2. Cambodja, Indonesië, Laos, Maleisië, Myanmar, de Filipijnen, Thailand en Vietnam beperken de administratieve lasten van dergelijke vereisten en procedures tot een minimum. De goedkeuring van de genoemde operationele plannen, programma’s en dienstregelingen wordt verleend binnen tien (10) werkdagen na de datum van ontvangst van de aanvraag van de luchtvaartmaatschappij, mits de luchtvaartmaatschappij overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=4&z=2022-10-17&g=2022-10-17) over de passende exploitatievergunningen en technische machtigingen beschikt.
-
-3. Cambodja, Indonesië, Laos, Maleisië, Myanmar, de Filipijnen, Thailand en Vietnam streven ernaar deze procedures zo spoedig mogelijk op te heffen en stellen het Gemengd Comité daarvan in kennis.
-
-##### Artikel G. Verkoop en plaatselijke uitgaven
-
-1. Onverminderd [artikel 10, leden 8 en 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=10&z=2022-10-17&g=2022-10-17), kunnen Indonesië, Myanmar en Vietnam de in hun respectieve nationale wet- en regelgeving op het tijdstip van ondertekening van deze Overeenkomst opgenomen vereisten met betrekking tot het gebruik van hun nationale valuta voor de binnenlandse verkoop van vervoer en aanverwante diensten en voor de betaling van plaatselijke uitgaven handhaven.
-
-2. Indonesië, Myanmar en Vietnam streven ernaar deze vereisten zo spoedig mogelijk op te heffen en stellen het Gemengd Comité daarvan in kennis.
-
-##### Artikel H. Overmaking van lokale inkomsten
-
-1. Om elke twijfel uit te sluiten verwijst de term „overmaking” in [artikel 10, lid 10, punt a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=10&z=2022-10-17&g=2022-10-17), in het geval van de Filipijnen naar andere geldovermakingen dan die welke worden verricht door een filiaal van een buitenlandse onderneming die zich bezighoudt met handel of zaken op het grondgebied van de Filipijnen.
-
-2. Met betrekking tot de overdracht van winst door een filiaal van een buitenlandse onderneming die zich bezighoudt met handel of activiteiten op het grondgebied van de Filipijnen, hebben de Filipijnen het recht een winstoverdrachtbelasting te heffen overeenkomstig hun nationale wetgeving, tenzij een lager tarief of een vrijstelling mogelijk is op grond van een overeenkomst ter voorkoming van dubbele belasting tussen de Filipijnen en het land van vestiging van de buitenlandse luchtvaartmaatschappij.
-
-3. De Filipijnen streven ernaar met de Unie samen te werken aan de ontwikkeling van een gemeenschappelijk kader voor de behandeling van overmakingen door luchtvaartmaatschappijen uit de Unie die in de Filipijnen actief zijn, en stellen het Gemengd Comité daarvan in kennis.
-
-##### Artikel I. Tarieven
-
-1. Onverminderd [artikel 13, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=13&z=2022-10-17&g=2022-10-17), en niettegenstaande artikel 13, lid 2, mogen de Filipijnen de op het tijdstip van de ondertekening van deze Overeenkomst bestaande procedures in hun respectieve nationale wet- en regelgeving handhaven met betrekking tot de goedkeuring van de tarieven die door de luchtvaartmaatschappijen van de Unie zijn vastgesteld voor luchtdiensten van en naar het grondgebied van de Filipijnen. Die tarieven worden goedgekeurd binnen tien (10) werkdagen na de indiening ervan.
-
-2. De Filipijnen streven ernaar die procedure zo snel mogelijk op te heffen en stellen het Gemengd Comité daarvan in kennis.
-
-##### Artikel J. Leninggaranties
-
-[Artikel 8, lid 2, punt d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17), is niet van toepassing op subsidies in de vorm van leninggaranties die Vietnam vóór de ondertekening van deze Overeenkomst en tot het verstrijken van deze regelingen heeft verleend. Indien deze garanties echter aanleiding geven tot uitbetalingen, worden deze gedaan overeenkomstig [artikel 8, lid 3, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=8&z=2022-10-17&g=2022-10-17), naargelang het geval.
-
-##### Artikel K. Niet-discriminatie
-
-1. Onverminderd [artikel D](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=D&z=2022-10-17&g=2022-10-17) behandelen de in dat artikel vermelde ASEAN-lidstaten luchtvaartmaatschappijen uit de Unie bij de aanwijzing van luchtvaartmaatschappijen even gunstig als luchtvaartmaatschappijen uit andere landen.
-
-2. Onverminderd de [artikelen F](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=F&z=2022-10-17&g=2022-10-17), [G](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=G&z=2022-10-17&g=2022-10-17) en [I](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=I&z=2022-10-17&g=2022-10-17) behandelen de in die artikelen genoemde ASEAN-lidstaten luchtvaartmaatschappijen uit de Unie even gunstig als hun eigen luchtvaartmaatschappijen of de luchtvaartmaatschappijen van andere landen, indien dit gunstiger is, wat betreft de goedkeuring van operationele plannen, programma’s en dienstregelingen, verkoop en plaatselijke uitgaven en tarieven.
-
-##### Artikel L. Geautomatiseerde boekingssystemen
-
-Op het tijdstip van de ondertekening van deze Overeenkomst zijn de in [artikel 21, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=21&z=2022-10-17&g=2022-10-17), bedoelde ASEAN-lidstaten Indonesië, Maleisië, de Filipijnen, Thailand en Vietnam.
-
-##### Artikel M. Wederkerigheid
-
-Als een ASEAN-lidstaat op grond van de [artikelen D](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=D&z=2022-10-17&g=2022-10-17), [F](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=F&z=2022-10-17&g=2022-10-17), [G](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=G&z=2022-10-17&g=2022-10-17) en [I](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=I&z=2022-10-17&g=2022-10-17) de aanwijzing van luchtvaartmaatschappijen uit de Unie verlangt, of op luchtvaartmaatschappijen uit de Unie nationale procedures toepast voor de voorafgaande goedkeuring van operationele plannen, programma’s en dienstregelingen, coöperatieve marketingregelingen of tarieven, of aan luchtvaartmaatschappijen uit de Unie nationale regels oplegt met betrekking tot de valuta die bij bepaalde transacties moeten worden gebruikt, heeft de Unie het recht aan luchtvaartmaatschappijen van die ASEAN-lidstaat dezelfde of gelijkwaardige maatregelen op te leggen.
-
-##### Artikel N. Inwerkingtreding voor Maleisië
-
-1. Onverminderd [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=33&z=2022-10-17&g=2022-10-17), en indien Maleisië de enige ASEAN-lidstaat is die de secretaris-generaal van de ASEAN niet in kennis heeft gesteld van zijn bevestiging dat zijn procedures voor de bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst zijn voltooid:
-
-- a. mag de secretaris-generaal van de ASEAN de Europese Unie een schriftelijke kennisgeving doen toekomen waarin hij bevestigt dat alle ASEAN-lidstaten, met uitzondering van Maleisië, hun respectieve procedures voor de bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst hebben voltooid;
-
-- b. treedt deze Overeenkomst overeenkomstig [artikel 33, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006978&artikel=33&z=2022-10-17&g=2022-10-17), in werking voor de Unie en haar lidstaten, en voor alle ASEAN-lidstaten, met uitzondering van Maleisië; en
-
-- c. daarna treedt de Overeenkomst voor Maleisië in werking dertig (30) dagen na de datum van een aanvullende schriftelijke kennisgeving van de secretaris-generaal van de ASEAN aan de secretaris-generaal van de Raad van de Europese Unie waarin wordt bevestigd dat Maleisië zijn procedures voor de bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst heeft voltooid.
-
-2. Na de ondertekening van deze Overeenkomst en in afwachting van de inwerkingtreding ervan voor Maleisië:
-
-- a. blijven eerdere overeenkomsten of regelingen inzake luchtdiensten tussen de EU-lidstaten en Maleisië en tussen de Unie en Maleisië die vóór de ondertekening van de Overeenkomst waren ondertekend of gesloten, van toepassing en worden zij niet gewijzigd; en
-
-- b. worden er geen nieuwe overeenkomsten of regelingen inzake luchtdiensten gesloten tussen de EU-lidstaten en Maleisië, of tussen de Unie en Maleisië, behalve om in te spelen op beperkte en dringende behoeften in uitzonderlijke omstandigheden en onverminderd hun respectieve nationale wet- en regelgeving. De Unie of de betrokken EU-lidstaat stelt de andere partijen in kennis van dergelijke nieuwe overeenkomsten of regelingen inzake luchtdiensten.
-
-##### Artikel O. Voortgangsevaluatie
-
-Het Gemengd Comité evalueert jaarlijks de vorderingen met betrekking tot de uitvoering van de artikelen van deze bijlage op basis van een verslag van de betrokken ASEAN-lidstaten.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze Overeenkomst in tweevoud hebben ondertekend te Bali op de zeventiende dag van oktober van het jaar tweeduizend tweeëntwintig.

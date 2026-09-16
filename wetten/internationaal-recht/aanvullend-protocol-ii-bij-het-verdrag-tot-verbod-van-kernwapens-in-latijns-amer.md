@@ -1,62 +1,37 @@
 ---
 title: "Aanvullend Protocol II bij het Verdrag tot verbod van kernwapens in Latijns-Amerika en het Caraïbisch gebied"
 identifier: "BWBV0006344"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-02-14"
-last_updated: "1967-02-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006344"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005185073"
-version_id: "10005562752"
-internal_id: "C10008701001"
-label_id: "10005167944"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006344/1967-02-14/0"
-intitule_bron: "Trb.1968-145"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1968-11-01"
-intitule_status: "nogniet"
-original_publication: "Trb.1968-145"
-original_published_date: "1968-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1968-145"
-jci_1_3: "jci1.3:c:BWBV0006344&z=1967-02-14&g=1967-02-14"
-jci_1_0: "1.0:c:BWBV0006344&g=1967-02-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1968-11-01"
+laatste_update: 1967-02-14
+status: geldig
+toestand: 1967-02-14
+bron: "https://wetten.overheid.nl/BWBV0006344"
+opgehaald: 2026-09-16
 ---
+
 # Aanvullend Protocol II bij het Verdrag tot verbod van kernwapens in Latijns-Amerika en het Caraïbisch gebied
 
-De ondertekenende gevolmachtigden, door hun onderscheiden Regeringen daartoe volledig gemachtigd,
+*The undersigned Plenipotentiaries, furnished with full powers by their respective Governments, Convinced that the Treaty for the Prohibition of Nuclear Weapons in Latin America, negotiated and signed in accordance with the recommendations of the General Assembly of the United Nations in Resolution 1911 (XVIII) of 27 November 1963, represents an important step towards ensuring the non-proliferation of nuclear weapons, Aware that the non-proliferation of nuclear weapons is not an end in itself but, rather, a means of achieving general and complete disarmament at a later stage, and Desiring to contribute, so far as lies in their power, towards ending the armaments race, especially in the field of nuclear weapons, and towards promoting and strengthening a world at peace, based on mutual respect and sovereign equality of States, Have agreed as follows:*
 
-Ervan overtuigd dat het [Verdrag tot het verbod van kernwapens in Latijns-Amerika](https://wetten.overheid.nl/jci1.3:c:BWBV0006343) dat, overeenkomstig de aanbevelingen van de Algemene Vergadering der Verenigde Naties, vervat in Resolutie 1911 (XVIII) van 27 november 1963, is gesloten en ondertekend, een belangrijke stap betekent ter verzekering van de niet-verspreiding van kernwapens,
+##### Article 1
 
-Zich ervan bewust, dat de niet-verspreiding van kernwapens geen doel op zichzelf is, doch veeleer een middel ter verwezenlijking van algemene en volledige ontwapening in een later stadium, en
+The statute of denuclearization of Latin America in respect of warlike purposes, as defined, delimited and set forth in the [Treaty for the Prohibition of Nuclear Weapons in Latin America](https://wetten.overheid.nl/jci1.3:c:BWBV0006343) of which this instrument is an annex shall be fully respected by the Parties to this Protocol in all its express aims and provisions.
 
-Verlangend, voor zover in hun vermogen ligt ertoe bij te dragen dat een einde wordt gemaakt aan de bewapeningswedloop, in het bijzonder op het gebied van de kernwapens, en dat de vrede in de wereld, gegrondvest op wederzijdse eerbied en of de soevereine gelijkheid van de Staten, wordt versterkt,
+##### Article 2
 
-Zijn als volgt overeengekomen:
+The Governments represented by the undersigned Plenipotentiaries undertake, therefore, not to contribute in any way to the performance of acts involving a violation of the obligations of [article 1 of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=1) in the territories to which the [Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0006343) applies in accordance with [article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=4) thereof.
 
-##### Artikel 1
+##### Article 3
 
-Het statuut van denuclearisatie van Latijns-Amerika ten aanzien van oorlogsdoeleinden als omschreven, afgebakend en vervat in het [Verdrag tot verbod van kernwapens in Latijns-Amerika](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), waarvan dit Protocol een bijlage is, wordt ten aanzien van alle daarin uitdrukkelijk genoemde doelstellingen en bepalingen door de Partijen bij dit Protocol volledig geëerbiedigd.
+The Governments represented by the undersigned Plenipotentiaries also undertake not to use or threaten to use nuclear weapons against the Contracting Parties of the [Treaty for the Prohibition of Nuclear Weapons in Latin America](https://wetten.overheid.nl/jci1.3:c:BWBV0006343).
 
-##### Artikel 2
+##### Article 4
 
-De door de ondertekenende gevolmachtigden vertegenwoordigde Regeringen nemen derhalve de verplichting op zich er op geen enkele wijze toe bij te dragen, dat op de grondgebieden waarop dit [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006343) ingevolge zijn [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=4) van toepassing is, handelingen worden verricht, die een inbreuk betekenen op de verplichtingen omschreven in [artikel 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=1).
+The duration of this Protocol shall be the same as that of the[Treaty for the Prohibition of Nuclear Weapons in Latin America](https://wetten.overheid.nl/jci1.3:c:BWBV0006343) of which this Protocol is an annex, and the definitions of territory and nuclear weapons set forth in [articles 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=3) and [5 of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=5) shall be applicable to this Protocol, as well as the provisions regarding ratification, reservations, denunciation, authentic texts and registration contained in [articles 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=27), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=30) and [31 of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=31).
 
-##### Artikel 3
+##### Article 5
 
-De door de ondertekenende gevolmachtigden vertegenwoordigde Regeringen nemen eveneens de verplichting op zich, geen kernwapens te gebruiken of te dreigen gebruiken tegen de partijen bij het [Verdrag tot verbod van kernwapens in Latijns-Amerika](https://wetten.overheid.nl/jci1.3:c:BWBV0006343).
-
-##### Artikel 4
-
-De looptijd van dit Protocol is gelijk aan die van het [Verdrag tot verbod van kernwapens in Latijns-Amerika](https://wetten.overheid.nl/jci1.3:c:BWBV0006343), waarvan dit Protocol een bijlage is, en de begripsomschrijvingen van grondgebied en kernwapens vervat in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=3) en [5 van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=5) zijn van toepassing op dit Protocol, evenals de bepalingen betreffende bekrachtiging, voorbehouden, opzegging, authentieke teksten en registratie, vervat in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=27), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=30) en [31 van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006343&artikel=31).
-
-##### Artikel 5
-
-Dit Protocol treedt in werking voor de Staten die het hebben bekrachtigd op de datum van nederlegging van hun onderscheiden akten van bekrachtiging.
+This Protocol shall enter into force, for the States which have ratified it, on the date of the deposit of their respective instruments of ratification.
 
 IN WITNESS WHEREOF, the undersigned Plenipotentiaries, having deposited their full powers, found to be in good and due form, hereby sign this Additional Protocol on behalf of their respective Governments.

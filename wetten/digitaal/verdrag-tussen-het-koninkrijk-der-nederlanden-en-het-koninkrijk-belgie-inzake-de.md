@@ -1,273 +1,246 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens"
 identifier: "BWBV0006852"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-05-01"
-last_updated: "2023-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006852"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005547773"
-version_id: "10006038032"
-internal_id: "C10009978701"
-label_id: "10005530894"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006852/2023-05-01/0"
-intitule_bron: "Trb.2019-169"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-11-12"
-intitule_in_force: "2023-03-20"
-intitule_status: "goed"
-original_publication: "Trb.2019-169"
-original_published_date: "2019-11-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2019-169"
-entry_into_force_date: "2023-05-01"
-jci_1_3: "jci1.3:c:BWBV0006852&z=2023-05-01&g=2023-05-01"
-jci_1_0: "1.0:c:BWBV0006852&g=2023-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-05-01"
+publicatiedatum: 2023-05-01
+laatste_update: 2023-05-01
+status: geldig
+toestand: 2023-05-01
+bron: "https://wetten.overheid.nl/BWBV0006852"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens
 
-Het Koninkrijk der Nederlanden
+*The Kingdom of The Netherlands and The Kingdom of Belgium, Hereinafter referred to as “the Parties”, Wishing to ensure the mutual protection of Classified Information exchanged between them or between legal entities or individuals under their jurisdiction, or generated in the framework of a bilateral program under this Agreement have, in the interests of national security, agreed upon the following.*
 
-en
+##### Article 1. Purpose
 
-het Koninkrijk België,
+The purpose of this Agreement is to ensure the protection of Classified Information exchanged between the Parties or between legal entities or individuals under their jurisdiction, or generated in the framework of a bilateral program under this Agreement. The Agreement sets out the security procedures and arrangements for such protection.
 
-Hierna te noemen „de partijen”,
+##### Article 2. Definitions
 
-Geleid door de wens de wederzijdse beveiliging te waarborgen van gerubriceerde gegevens die worden uitgewisseld tussen hen of tussen rechtspersonen of natuurlijke personen onder hun rechtsmacht of die worden gegenereerd in het kader van een bilateraal programma uit hoofde van dit Verdrag, in het belang van de nationale veiligheid, komen het volgende overeen.
+For the purpose of this Agreement:
 
-##### Artikel 1. Doel
+*“Classified Contract”* means a contract or sub-contract, including any pre-contractual negotiations, which contains or involves access to and handling of Classified Information.
 
-Dit Verdrag heeft ten doel de beveiliging te waarborgen van gerubriceerde gegevens die worden uitgewisseld tussen de partijen of tussen rechtspersonen of natuurlijke personen onder hun rechtsmacht, of die worden gegenereerd in het kader van een bilateraal programma uit hoofde van dit Verdrag. In het Verdrag worden de veiligheidsprocedures en regelingen voor deze beveiliging vastgelegd.
+*“Classified Information”* means any information that, regardless of its nature, requires protection against unauthorised disclosure, misappropriation or loss, and to which a security classification has been applied under national laws and regulations of one or both of the Parties.
 
-##### Artikel 2. Begripsomschrijvingen
+*“Competent Security Authority”*means the government authority in a Party responsible for the implementation and supervision of this Agreement.
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+*“Contractor”* means any individual or legal entity with the capacity to enter into contracts.
 
-- „Gerubriceerd contract”, een contract of onderaannemingscontract, met inbegrip van eventuele voorafgaande contractonderhandelingen, dat gerubriceerde gegevens bevat of dat toegang tot of omgang met gerubriceerde gegevens inhoudt.
+*“Facility Security Clearance”* means the positive determination by the Competent Security Authority that a Contractor has in place appropriate security measures to access and handle Classified Information, in accordance with national laws and regulations.
 
-- „Gerubriceerde gegevens”, alle gegevens die, ongeacht de aard ervan, bescherming vereisen tegen ongeoorloofde openbaarmaking, onrechtmatig gebruik of verlies, en die voorzien zijn van een rubricering uit hoofde van de nationale wetten en voorschriften van een of van beide partijen.
+“*Kingdom of the Netherlands*” means the European part of the Netherlands and the Caribbean part of the Netherlands (the islands of Bonaire, Sint Eustatius and Saba).
 
-- „Bevoegde veiligheidsautoriteit”, de overheidsautoriteit in een partij die verantwoordelijk is voor de implementatie van en toezicht op dit Verdrag.
+*“Need-to-know”* means the requirement for an individual or a legal entity to access Classified Information to perform official tasks or services.
 
-- „Opdrachtnemer”, elke natuurlijke persoon of rechtspersoon die bevoegd is contracten aan te gaan.
+*“Originating Party”*means the government authority in a Party which is responsible for any decisions affecting its national Classified Information generated and/or provided under this Agreement.
 
-- „Veiligheidsmachtiging bedrijfslocatie”, de vaststelling door de bevoegde veiligheidsautoriteit dat een opdrachtnemer passende veiligheidsmaatregelen heeft genomen voor de toegang tot en omgang met gerubriceerde gegevens in overeenstemming met de nationale wet- en regelgeving.
+*“Personnel Security Clearance”* means the positive determination by the competent authority that an individual has been security cleared to access and handle Classified Information, in accordance with its national laws and regulations.
 
-- „Koninkrijk der Nederlanden”, het Europese deel van Nederland en het Caribische deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba).
+*“Providing Party”*means the Party or Contractor under its jurisdiction, which provides Classified Information to the Receiving Party under this Agreement.
 
-- „Need to know”, het vereiste voor een natuurlijke persoon of rechtspersoon voor toegang tot gerubriceerde gegevens voor het uitvoeren van officiële taken of diensten.
+*“Receiving Party”* means the Party or Contractor under its jurisdiction, which receives Classified Information from the Providing Party under this Agreement.
 
-- „Partij van herkomst”, de overheidsautoriteit in een partij die verantwoordelijk is voor besluiten die van invloed zijn op haar nationale gerubriceerde gegevens die gegenereerd en/of verstrekt worden uit hoofde van dit Verdrag.
+*“Security Classification Guide”* means a document associated with a Classified Contract that identifies each part of that Classified Contract which contains Classified Information.
 
-- „Veiligheidsmachtiging personeel”, de vaststelling door de bevoegde veiligheidsautoriteit dat een natuurlijke persoon toestemming heeft gekregen voor de toegang tot en omgang met gerubriceerde gegevens in overeenstemming met de nationale wet- en regelgeving.
+*“Security Incident”* means an act or an omission which results in the unauthorised access, disclosure, loss or compromise of Classified Information.
 
-- „Verstrekkende partij”, de partij of opdrachtnemer onder haar rechtsmacht die de gerubriceerde gegevens uit hoofde van dit Verdrag verstrekt aan de ontvangende partij.
+*“Third Party”* means any international organisation or state, including legal entities or individuals under its jurisdiction, which is not a Party to this Agreement.
 
-- „Ontvangende partij”, de partij of opdrachtnemer onder haar rechtsmacht die de gerubriceerde gegevens krachtens dit Verdrag ontvangt van de verstrekkende partij.
+##### Article 3. Competent security authorities
 
-- „Rubriceringsgids”, een document dat hoort bij een gerubriceerd contract waarin elk onderdeel van het gerubriceerd contract dat gerubriceerde gegevens bevat wordt genoemd.
+1. The Competent Security Authorities of the Parties are listed in [Annex 1](https://wetten.overheid.nl/BWBV0006852) of this Agreement.
 
-- „Veiligheidsincident”, elk handelen of nalaten te handelen dat resulteert in ongeoorloofde toegang tot of bekendmaking, verlies of compromittering van gerubriceerde gegevens.
+2. The Competent Security Authorities shall provide each other with official contact details.
 
-- „Derde”, elke internationale organisatie of staat, met inbegrip van rechtspersonen of natuurlijke personen onder zijn rechtsmacht, die geen partij is bij dit Verdrag.
+##### Article 4. Security classification levels
 
-##### Artikel 3. Bevoegde veiligheidsautoriteiten
+The security classification levels shall correspond to one another as follows and be considered as equivalent:
 
-1. De bevoegde veiligheidsautoriteiten van de partijen staan vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&bijlage=I&z=2023-05-01&g=2023-05-01) bij dit Verdrag.
-
-2. De bevoegde veiligheidsautoriteiten voorzien elkaar van de officiële contactgegevens.
-
-##### Artikel 4. Rubriceringsniveaus
-
-De rubriceringsniveaus corresponderen met elkaar zoals hieronder aangegeven en worden als equivalent beschouwd:
-
-| Voor het Koninkrijk der Nederlanden | Voor het Koninkrijk België | Voor het Koninkrijk België |
+| For the Kingdom of the Netherlands | For the Kingdom of Belgium |  |
 | --- | --- | --- |
-| Voor het Koninkrijk der Nederlanden | IN DE NEDERLANDSE TAAL | IN DE FRANSE TAAL |
+| IN DUTCH LANGUAGE | IN FRENCH LANGUAGE |  |
 | Stg ZEER GEHEIM | ZEER GEHEIM | TRES SECRET |
 | Stg GEHEIM | GEHEIM | SECRET |
 | Stg CONFIDENTIEEL | VERTROUWELIJK | CONFIDENTIEL |
-| DEPARTEMENTAAL VERTROUWELIJK | (Zie onderstaande noot) | (Zie onderstaande noot) |
+| DEPARTEMENTAAL VERTROUWELIJK | (see note hereunder) | (see note hereunder) |
 
-Informatie die van Nederland wordt ontvangen en de rubricering „DEPARTEMENTAAL VERTROUWELIJK” heeft, wordt behandeld als „BEPERKTE VERSPREIDING/DIFFUSION RESTREINTE” in het Koninkrijk België.
+Information received from the Netherlands classified as “DEPARTEMENTAAL VERTROUWELIJK” shall be handled as “ BEPERKTE VERSPREIDING/DIFFUSION RESTREINTE” in the Kingdom of Belgium.
 
-Informatie die van België wordt ontvangen en de rubricering „BEPERKTE VERSPREIDING/DIFFUSION RESTREINTE” heeft, wordt behandeld als „DEPARTEMENTAAL VERTROUWELIJK” in Nederland.
+Information received from Belgium marked as “BEPERKTE VERSPREIDING/DIFFUSION RESTREINTE” shall be handled as “DEPARTEMENTAAL VERTROUWELIJK” in the Netherlands.
 
-##### Artikel 5. Toegang tot gerubriceerde gegevens
+##### Article 5. Access to classified information
 
-1. Toegang tot gerubriceerde gegevens op het niveau VERTROUWELIJK/CONFIDENTIEL/Stg CONFIDENTIEEL of hoger is beperkt tot natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know), zijn ingelicht over hun verantwoordelijkheden en een veiligheidsmachtiging personeel hebben in overeenstemming met de nationale wet- en regelgeving.
+1. Access to Classified Information at the level of VERTROUWELIJK/CONFIDENTIEL/Stg CONFIDENTIEEL or above is limited to individuals who have a Need-to-know, are briefed on their responsibilities and hold a Personnel Security Clearance in accordance with national laws and regulations.
 
-2. Toegang tot gerubriceerde gegevens op het niveau TRÈS SECRET/ZEER GEHEIM/Stg ZEER GEHEIM, SECRET/GEHEIM/Stg GEHEIM of CONFIDENTIEL/VERTROUWELIJK/Stg CONFIDENTIEEL door een natuurlijke persoon met een veiligheidsmachtiging personeel voor dat niveau en die uitsluitend de Belgische of Nederlandse nationaliteit heeft of een dubbele Belgische of Nederlandse nationaliteit, kan verleend worden zonder voorafgaande schriftelijke toestemming van de partij van herkomst.
+2. Access to Classified Information at the level of TRÈS SECRET/ZEER GEHEIM/Stg ZEER GEHEIM, SECRET/GEHEIM/Stg GEHEIM or CONFIDENTIEL/VERTROUWELIJK/Stg CONFIDENTIEEL by an individual holding a Personnel Security Clearance to that level and holding single Belgian or Dutch nationality, or dual Belgian or Dutch nationality, may be granted without the prior written authorisation of the Originating Party.
 
-3. Voor toegang tot gerubriceerde gegevens op het niveau TRÈS SECRET/ZEER GEHEIM/Stg ZEER GEHEIM, SECRET/GEHEIM/Stg GEHEIM of CONFIDENTIEL/VERTROUWELIJK/Stg CONFIDENTIEEL door een natuurlijke persoon met een veiligheidsmachtiging personeel voor dat niveau die niet de in het tweede lid van dit artikel genoemde nationaliteiten heeft, is de voorafgaande schriftelijke toestemming van de partij van herkomst vereist.
+3. Access to Classified Information at the level of TRÈS SECRET/ZEER GEHEIM/ Stg ZEER GEHEIM, SECRET/GEHEIM/Stg GEHEIM, or CONFIDENTIEL/VERTROUWELIJK/Stg CONFIDENTIEEL by an individual holding a Personnel Security Clearance to that level and not holding the nationalities as set out in paragraph 2 of this Article shall require the prior written authorisation of the Originating Party.
 
-4. Toegang tot gegevens op het niveau BEPERKTE VERSPREIDING/DIFFUSION RESTREINTE en DEPARTEMENTAAL VERTROUWELIJK is beperkt tot natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know) en zijn ingelicht over hun verantwoordelijkheden in overeenstemming met de nationale wet- en regelgeving.
+4. Access to Information at the level of BEPERKTE VERSPREIDING/DIFFUSION RESTREINTE and DEPARTEMENTAAL VERTROUWELIJK is limited to individuals who have a Need-to-know and are briefed on their responsibilities in accordance with national laws and regulations.
 
-##### Artikel 6. Veiligheidsmaatregelen
+##### Article 6. Security measures
 
-1. De partijen nemen alle passende maatregelen die krachtens hun nationale wet- en regelgeving van toepassing zijn op de uit hoofde van dit Verdrag gegenereerde en/of verstrekte gerubriceerde gegevens.
+1. The Parties shall take all appropriate measures applicable under their national laws and regulations to protect Classified Information generated and/or provided under this Agreement.
 
-2. De partijen nemen alle passende maatregelen om te waarborgen dat de verstrekkende partijen:
+2. The Parties shall take all appropriate measures to ensure that the Providing Parties:
 
-- a. gerubriceerde gegevens voorzien van de juiste rubriceringsmarkering in overeenstemming met hun nationale wet- en regelgeving;
+- a) mark Classified Information with the appropriate classification marking in accordance with its national laws and regulations;
 
-- b. de ontvangende partij in kennis stellen van mogelijke voorwaarden voor vrijgave of beperkingen gesteld aan het gebruik van de verstrekte gerubriceerde gegevens;
+- b) inform the Receiving Party of any conditions of release or limitations on the use of the Classified Information provided;
 
-- c. de ontvangende partij in kennis stellen van eventuele navolgende veranderingen van het rubriceringsniveau van de verstrekte gerubriceerde gegevens.
+- c) inform the Receiving Party of any subsequent change in the security classification level of the Classified Information provided.
 
-3. De partijen nemen alle passende maatregelen om te waarborgen dat de ontvangende partijen:
+3. The Parties shall take all appropriate measures to ensure that the Receiving Parties shall:
 
-- a. hetzelfde beveiligingsniveau aan gerubriceerde gegevens toekennen als aan hun nationale gerubriceerde gegevens met een vergelijkbaar rubriceringsniveau;
+- a) afford the same level of protection to Classified Information as afforded to its national Classified Information of an equivalent security classification level;
 
-- b. indien dit nodig wordt geacht gerubriceerde gegevens voorzien van hun eigen dienovereenkomstige rubriceringsniveau;
+- b) if deemed appropriate, ensure that Classified Information is marked with its own corresponding security classification level;
 
-- c. waarborgen dat de aan de gerubriceerde gegevens toegekende rubriceringsniveaus niet worden veranderd of ingetrokken zonder de voorafgaande schriftelijke toestemming van de partij van herkomst;
+- c) ensure that the security classification levels assigned to Classified Information are not altered or revoked without the prior written consent of the Originating Party;
 
-- d. waarborgen dat gerubriceerde gegevens niet bekend worden gemaakt of vrijgegeven aan een derde zonder de voorafgaande schriftelijke toestemming van de partij van herkomst;
+- d) ensure that Classified Information is not disclosed or released to a Third Party without the prior written consent of the Originating Party;
 
-- e. gerubriceerde gegevens uitsluitend gebruiken voor het doel waarvoor zij zijn verstrekt en in overeenstemming met de eisen voor gebruik van de partij van herkomst.
+- e) use Classified Information solely for the purpose it has been provided for and in accordance with handling requirements of the Originating Party.
 
-##### Artikel 7. Veiligheidssamenwerking
+##### Article 7. Security co-operation
 
-1. Teneinde vergelijkbare veiligheidsnormen te handhaven, verstrekken de bevoegde veiligheidsautoriteiten elkaar op verzoek informatie over hun veiligheidsvoorschriften, -beleid en -praktijken met betrekking tot de beveiliging van gerubriceerde gegevens.
+1. In order to maintain comparable standards of security, the Competent Security Authorities shall, on request, inform each other about their security regulations, policies and practices for protecting Classified Information.
 
-2. Op verzoek van de bevoegde veiligheidsautoriteit van de ene partij bevestigt de bevoegde veiligheidsautoriteit van de andere partij schriftelijk dat er een geldige veiligheidsmachtiging personeel of veiligheidsmachtiging bedrijfslocatie is afgegeven.
+2. On request of the Competent Security Authority of one Party, the Competent Security Authority of the other Party shall issue a written confirmation that a valid Personnel or Facility Security Clearance has been issued.
 
-3. De bevoegde veiligheidsautoriteiten verlenen elkaar, op verzoek en in overeenstemming met de nationale wet- en regelgeving, bijstand bij het uitvoeren van onderzoeken in verband met de afgifte van een veiligheidsmachtiging bedrijfslocatie en veiligheidsmachtiging personeel.
+3. The Competent Security Authorities shall assist each other in carrying out Facility Security Clearance and Personnel Security Clearance investigations on request and in accordance with national laws and regulations.
 
-4. De bevoegde veiligheidsautoriteiten stellen elkaar onverwijld schriftelijk in kennis van veranderingen in erkende veiligheidsmachtigingen bedrijfslocatie en veiligheidsmachtigingen personeel waarvoor een bevestiging is verstrekt.
+4. The Competent Security Authorities shall promptly notify each other in writing about changes in recognised Personnel Security Clearances and Facility Security Clearances for whom or for which a confirmation has been provided.
 
-5. Bij de samenwerking uit hoofde van dit Verdrag wordt gebruikgemaakt van de Engelse taal.
+5. The co-operation under this Agreement shall be effected in English.
 
-##### Artikel 8. Gerubriceerde contracten
+##### Article 8. Classified contracts
 
-1. Indien een partij of een opdrachtnemer onder haar rechtsmacht voorstelt een gerubriceerd contract te gunnen aan een opdrachtnemer onder de rechtsmacht van de andere partij, dient zij eerst de schriftelijke bevestiging te verkrijgen van de andere partij dat aan deze opdrachtnemer een veiligheidsmachtiging bedrijfslocatie en/of veiligheidsmachtiging personeel is/zijn toegekend op het juiste rubriceringsniveau.
+1. If a Party or a Contractor under its jurisdiction proposes to place a Classified Contract with a Contractor under the jurisdiction of the other Party, it shall first obtain written confirmation from the other Party that the Contractor has been granted a Facility Security Clearance and/or Personnel Security Clearance to the appropriate security classification Level.
 
-2. De bevoegde veiligheidsautoriteit waarborgt dat de opdrachtnemer:
+2. The Competent Security Authority shall ensure that the Contractor:
 
-- a. een desbetreffende veiligheidsmachtiging bedrijfslocatie heeft teneinde de gerubriceerde gegevens te beveiligen;
+- a) holds an appropriate Facility Security Clearance in order to protect the Classified Information;
 
-- b. waarborgt dat natuurlijke personen die toegang tot gerubriceerde gegevens dienen te hebben de desbetreffende veiligheidsmachtiging personeel hebben;
+- b) ensures that the individuals requiring access to Classified Information hold the appropriate Personnel Security Clearance;
 
-- c. waarborgt dat alle natuurlijke personen die toegang krijgen tot gerubriceerde gegevens in kennis worden gesteld van hun verantwoordelijkheid de gerubriceerde gegevens te beveiligen in overeenstemming met de voorwaarden omschreven in dit Verdrag en de nationale wet- en regelgeving;
+- c) ensures that all individuals granted access to Classified Information are informed of their responsibilities to protect Classified Information in accordance with the conditions defined in this Agreement and with national laws and regulations;
 
-- d. de beveiligingsuitvoering op zijn locaties in het oog houdt;
+- d) monitors the security conduct within its facilities;
 
-- e. zijn bevoegde veiligheidsautoriteit onverwijld in kennis stelt van elk veiligheidsincident dat betrekking heeft op een gerubriceerd contract.
+- e) notifies promptly its Competent Security Authority of any Security Incident relating to the Classified Contract.
 
-3. Elk gerubriceerd contract dat in overeenstemming met dit Verdrag wordt gesloten dient een hoofdstuk met veiligheidsvereisten te bevatten waarin de volgende aspecten vermeld staan:
+3. Every Classified Contract concluded in accordance with this Agreement shall include a security requirements chapter which identifies the following aspects:
 
-- a. een rubriceringsgids;
+- a) a Security Classification Guide;
 
-- b. een procedure voor het doorgeven van wijzigingen van het rubriceringsniveau;
+- b) a procedure for communication of changes in the security classification level;
 
-- c. de kanalen en procedures die gebruikt dienen te worden voor het vervoer en/of de overbrenging van gerubriceerde gegevens;
+- c) the channels and procedures to be used for the transport and/or transmission of Classified Information;
 
-- d. de contactgegevens van de bevoegde veiligheidsautoriteiten die verantwoordelijk zijn voor het toezicht op de beveiliging van gerubriceerde gegevens die betrekking hebben op het gerubriceerde contract;
+- d) the contact details of the Competent Security Authorities responsible for overseeing the protection of Classified Information related to the Classified Contract;
 
-- e. de verplichting van elk veiligheidsincident kennis te geven.
+- e) the obligation to notify any Security Incidents.
 
-4. De bevoegde veiligheidsautoriteit van de partij die de toekenning van een gerubriceerd contract goedkeurt, stuurt een kopie van het hoofdstuk over de veiligheidsvereisten naar de bevoegde veiligheidsautoriteit van de ontvangende partij, om het veiligheidstoezicht op het contract te vergemakkelijken.
+4. The Competent Security Authority of the Party authorising the award of the Classified Contract shall forward a copy of the security requirements chapter to the Competent Security Authority of the Receiving Party, to facilitate the security oversight of the contract.
 
-5. De procedures voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&artikel=11&z=2023-05-01&g=2023-05-01) van dit Verdrag te zijn.
+5. The procedures for the approval of visits associated with Classified Contract activities by personnel of one Party to the other Party, shall be in accordance with [Article 11](https://wetten.overheid.nl/BWBV0006852) of this Agreement.
 
-##### Artikel 9. Overbrenging van gerubriceerde gegevens
+##### Article 9. Transmission of classified information
 
-1. Gerubriceerde gegevens worden overgebracht in overeenstemming met de nationale wet- en regelgeving van de verstrekkende partij of zoals anderszins overeengekomen tussen de bevoegde veiligheidsautoriteiten.
+1. Classified Information shall be transmitted in accordance with national laws and regulations of the Providing Party or as otherwise agreed between the Competent Security Authorities.
 
-2. De partijen kunnen gerubriceerde gegevens die door encryptie beveiligd zijn overbrengen in overeenstemming met procedures die door de bevoegde autoriteiten dienen te worden goedgekeurd.
+2. The Parties may transmit Classified Information protected by cryptographic means in accordance with procedures approved by the competent authorities.
 
-##### Artikel 10. Reproductie, vertaling en vernietiging van gerubriceerde gegevens
+##### Article 10. Reproduction, translation and destruction of classified information
 
-1. Reproducties en vertalingen van gerubriceerde gegevens krijgen van toepassing zijnde rubriceringsmarkeringen en worden op dezelfde wijze beveiligd als de oorspronkelijke gerubriceerde gegevens.
+1. Reproductions and translations of Classified Information shall bear appropriate security classification markings and shall be protected in the same way as the original Classified Information.
 
-2. Vertalingen of reproducties worden beperkt tot het minimumaantal dat nodig is voor officiële doeleinden en worden uitsluitend gemaakt door natuurlijke personen die een veiligheidsmachtiging personeel hebben met het rubriceringsniveau dat overeenkomt met dat van de gerubriceerde gegevens die vertaald of gereproduceerd worden.
+2. Translations or reproductions shall be limited to the minimum required for an official purpose and shall be made only by individuals who hold a Personnel Security Clearance to the equivalent Security Classification Level of the Classified Information being translated or reproduced.
 
-3. Vertalingen dienen te worden voorzien van een passende annotatie in de taal waarin zij zijn gesteld met de aanduiding dat zij gerubriceerde gegevens bevatten van de verstrekkende partij.
+3. Translations shall contain a suitable annotation in the language in which they have been translated, indicating that they contain Classified Information of the Providing Party.
 
-4. Gerubriceerde gegevens met het rubriceringsniveau ZEER GEHEIM/TRES SECRET/Stg ZEER GEHEIM worden niet vertaald of gereproduceerd zonder de voorafgaande schriftelijke toestemming van de partij van herkomst.
+4. Classified Information at the level of ZEER GEHEIM/TRES SECRET/Stg ZEER GEHEIM shall not be translated or reproduced without the prior written consent of the Originating Party.
 
-5. Gerubriceerde gegevens met het rubriceringsniveau ZEER GEHEIM/TRES SECRET/Stg ZEER GEHEIM worden niet vernietigd zonder de voorafgaande schriftelijke toestemming van de partij van herkomst. Zij worden geretourneerd aan de partij van herkomst nadat de partijen ze niet meer nodig achten.
+5. Classified Information at the level of ZEER GEHEIM/TRES SECRET/Stg ZEER GEHEIM shall not be destroyed without the prior written consent of the Originating Party. It shall be returned to the Originating Party after it is no longer considered necessary by the Parties.
 
-6. Gerubriceerde gegevens met het rubriceringsniveau GEHEIM/SECRET/Stg GEHEIM of lager worden vernietigd nadat de ontvangende partij ze niet meer nodig acht in overeenstemming met haar nationale wet- en regelgeving.
+6. Classified Information at the level of GEHEIM/SECRET/Stg GEHEIM, or with a lower classification level shall be destroyed after it is no longer considered necessary by the Receiving Party, in accordance with its national laws and regulations.
 
-7. Indien een crisissituatie het onmogelijk maakt de uit hoofde van dit Verdrag verstrekte gerubriceerde gegevens te beveiligen, dienen de gerubriceerde gegevens onmiddellijk vernietigd te worden. De ontvangende partij stelt de bevoegde veiligheidsautoriteit van de verstrekkende partij onverwijld in kennis van de vernietiging van deze gerubriceerde gegevens.
+7. If a crisis situation makes it impossible to protect Classified Information provided under this Agreement, the Classified Information shall be destroyed immediately. The Receiving Party shall notify promptly in writing the Competent Security Authority of the Providing Party about the destruction of this Classified Information.
 
-##### Artikel 11. Bezoeken
+##### Article 11. Visits
 
-1. Bezoeken waarbij toegang tot gerubriceerde gegevens vereist is, dienen vooraf schriftelijk te worden goedgekeurd door de respectieve bevoegde veiligheidsautoriteit, tenzij anderszins overeengekomen door de bevoegde veiligheidsautoriteiten.
+1. Visits requiring access to Classified Information are subject to the prior written consent of the respective Competent Security Authority, unless otherwise agreed between the Competent Security Authorities.
 
-2. De bezoeker dient de aanvraag voor het bezoek ten minste twintig dagen vóór de beoogde datum van het bezoek in bij zijn bevoegde veiligheidsautoriteit, die de aanvraag doorstuurt naar de bevoegde veiligheidsautoriteit van de andere partij. In dringende gevallen kan de aanvraag van een verzoek binnen een kortere termijn worden ingediend, mits hierover voorafgaande coördinatie tussen de bevoegde veiligheidsautoriteiten plaatsvindt.
+2. The visitor shall submit the request for visit at least twenty days in advance of the proposed date of the visit to his Competent Security Authority, which shall forward it to the Competent Security Authority of the other Party. In urgent cases, the request for visit may be submitted at a shorter notice, subject to prior coordination between the Competent Security Authorities.
 
-3. Een aanvraag voor een bezoek dient de volgende gegevens te bevatten:
+3. A request for visit shall include:
 
-- a. de achter- en voornaam van de bezoeker, geboortedatum en -plaats, nationaliteit en nummer paspoort/identiteitskaart;
+- a) Surname and first name of the visitor, date and place of birth, nationality and passport/ID card number;
 
-- b. officiële titel van de bezoeker en de naam van de organisatie die de bezoeker vertegenwoordigt;
+- b) official title of the visitor and name of the organization the visitor represents;
 
-- c. bevestiging van de veiligheidsmachtiging personeel van de bezoeker en de geldigheid ervan;
+- c) confirmation of the visitor’s Personnel Security Clearance and its validity;
 
-- d. datum en duur van het bezoek. In het geval van herhalingsbezoeken dient de volledige periode waarin de bezoeken plaatsvinden te worden vermeld;
+- d) date and duration of the visit. In the case of recurring visits the total period covered by the visits shall be stated;
 
-- e. doel van het bezoek en het verwachte rubriceringsniveau van de gerubriceerde gegevens die besproken worden of waartoe toegang wordt verkregen;
+- e) purpose of the visit and the anticipated Security Classification Level of Classified Information to be discussed or accessed;
 
-- f. naam, adres, telefoon-/faxnummer, e-mailadres en contactpunt van de te bezoeken locatie;
+- f) name, address, phone/fax number, e-mail address and point of contact of the facility to be visited;
 
-- g. van een datum en stempel voorziene handtekening van een vertegenwoordiger van de bevoegde veiligheidsautoriteit van de bezoeker.
+- g) dated and stamped signature of a representative of the visitor’s Competent Security Authority.
 
-4. De bevoegde veiligheidsautoriteiten kunnen een lijst overeenkomen van bezoekers die herhalingsbezoeken mogen afleggen. De bevoegde veiligheidsautoriteiten komen nadere details van de herhalingsbezoeken overeen.
+4. The Competent Security Authorities may agree on a list of visitors entitled to recurring visits. The Competent Security Authorities shall agree on the further details of the recurring visits.
 
-5. Gerubriceerde gegevens die aan een bezoeker worden verstrekt of door deze worden verkregen, worden behandeld in overeenstemming met de bepalingen van dit Verdrag.
+5. Classified Information provided to or acquired by a visitor shall be treated in accordance with provisions of this Agreement.
 
-##### Artikel 12. Veiligheidsincident
+##### Article 12. Security incident
 
-1. De bevoegde veiligheidsautoriteiten stellen elkaar onverwijld schriftelijk in kennis van een feitelijk of vermoedelijk veiligheidsincident waarbij gerubriceerde gegevens van de andere partij betrokken zijn.
+1. The Competent Security Authorities shall immediately inform each other in writing of any actual or suspected Security Incident involving Classified Information of the other Party.
 
-2. De bevoegde autoriteiten van de ontvangende partij onderzoeken feitelijke of vermoedelijke veiligheidsincidenten onmiddellijk. De bevoegde autoriteiten van de partij van herkomst verlenen, indien nodig, medewerking aan het onderzoek.
+2. The competent authorities of the Receiving Party shall investigate immediately any actual or suspected Security Incident. The competent authorities of the Originating Party shall, if required, cooperate in the investigation.
 
-3. De bevoegde veiligheidsautoriteit neemt passende maatregelen in overeenstemming met zijn nationale wet- en regelgeving om de gevolgen van het incident te beperken en herhalingen te voorkomen. De bevoegde veiligheidsautoriteit van de andere partij wordt in kennis gesteld van de uitkomsten van het onderzoek en de eventuele getroffen maatregelen.
+3. The Competent Security Authority shall take appropriate measures according to its national laws and regulations to limit the consequences of the incident and to prevent a recurrence. The Competent Security Authority of the other Party shall be informed of the outcome of the investigation and, if any, of measures taken.
 
-##### Artikel 13. Kosten
+##### Article 13. Costs
 
-Elke partij draagt haar eigen kosten die ontstaan in verband met de uitvoering van haar verplichtingen ingevolge dit Verdrag.
+Each Party shall bear its own costs incurred in the course of implementing its obligations under this Agreement.
 
-##### Artikel 14. Oplossing van geschillen
+##### Article 14. Dispute resolution
 
-Elk geschil omtrent de interpretatie of toepassing van dit Verdrag wordt uitsluitend beslecht door middel van onderhandelingen tussen de partijen.
+Any dispute on the interpretation or application of this Agreement shall be settled exclusively through negotiation between the Parties.
 
-##### Artikel 15. Relatie met andere verdragen
+##### Article 15. Relation to other agreements
 
-Dit Verdrag heeft geen voorrang boven elk internationaal verdrag dat reeds is gesloten of nog kan worden gesloten en dat specifiek betrekking heeft op een verrichting waarop dit Verdrag anderszins van toepassing is.
+This Agreement does not prevail over any international agreement that has already been or may be entered into and that specifically governs a transaction otherwise governed by this Agreement.
 
-##### Artikel 16. Uitvoeringsregelingen
+##### Article 16. Implementing arrangements
 
-De bevoegde veiligheidsautoriteiten kunnen uitvoeringsregelingen sluiten ingevolge dit Verdrag.
+The Competent Security Authorities may conclude implementing arrangements pursuant to this Agreement.
 
-##### Artikel 17. Slotbepalingen
+##### Article 17. Final provisions
 
-1. Dit Verdrag wordt gesloten voor onbepaalde tijd. Elke partij stelt de andere partij langs diplomatieke weg in kennis van de voltooiing van de nationale maatregelen die nodig zijn voor de inwerkingtreding van dit Verdrag. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de ontvangst van de laatste kennisgeving.
+1. This Agreement is concluded for an indefinite period of time. Each Party shall notify the other Party through diplomatic channels once the national measures necessary for entry into force of this Agreement have been completed. This Agreement shall enter into force on the first day of the second month following the receipt of the later notification.
 
-2. Dit Verdrag kan met wederzijdse instemming van de partijen worden gewijzigd. Elke partij kan te allen tijde wijzigingen van dit Verdrag voorstellen. Dergelijke wijzigingen treden in werking onder de voorwaarden vervat in het eerste lid van dit artikel, met uitzondering van een wijziging van de [Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&bijlage=I&z=2023-05-01&g=2023-05-01), welke wijziging in werking treedt op een door de partijen overeen te komen datum.
+2. This Agreement may be amended with the mutual consent of the Parties. Either Party may propose amendments to this Agreement at any time. Such amendments shall enter into force under the conditions laid down in paragraph 1 of this Article, with the exception of an amendment of the [Annex](https://wetten.overheid.nl/BWBV0006852), which amendment shall enter into force on a date to be agreed upon by the Parties.
 
-3. Een partij kan dit Verdrag te allen tijde schriftelijk opzeggen. In dat geval eindigt het Verdrag zes maanden na ontvangst van de kennisgeving.
+3. A Party may terminate this Agreement in writing at any time. In this case, the Agreement shall expire six months after receipt of the notification.
 
-4. Ongeacht de beëindiging van dit Verdrag blijven alle uit hoofde van dit Verdrag vrijgegeven of gegenereerde gerubriceerde gegevens beveiligd in overeenstemming met dit Verdrag zolang deze gegevens gerubriceerd blijven.
+4. Regardless of the termination of this Agreement, all Classified Information released or generated under this Agreement shall be protected in accordance with this Agreement for as long as it remains classified.
 
 IN WITNESS whereof the representatives of the Parties, duly authorised thereto, have signed this Agreement.
 
 DONE in Brussels on the 5th day of November 2019, in two original copies, in the English language.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 MARYEM VAN DEN HEUVEL
 
-**For the Kingdom of Belgium,**
+*For the Kingdom of Belgium,*
 
 THOMAS BAEKELANDT

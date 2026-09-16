@@ -1,121 +1,18 @@
 ---
 title: "Investeringsbeschermingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds"
 identifier: "BWBV0006837"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-06-30"
-last_updated: "2019-06-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006837"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005531433"
-version_id: "10006016832"
-internal_id: "C10009623571"
-label_id: "10005516014"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006837/2019-06-30/0"
-intitule_bron: "Trb.2019-132"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-08-28"
-intitule_status: "nogniet"
-original_publication: "Trb.2019-132"
-original_published_date: "2019-08-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2019-132"
-jci_1_3: "jci1.3:c:BWBV0006837&z=2019-06-30&g=2019-06-30"
-jci_1_0: "1.0:c:BWBV0006837&g=2019-06-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-08-28"
+laatste_update: 2019-06-30
+status: geldig
+toestand: 2019-06-30
+bron: "https://wetten.overheid.nl/BWBV0006837"
+opgehaald: 2026-09-16
 ---
+
 # Investeringsbeschermingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds
 
-De Europese Unie, hierna „de Unie” genoemd,
-
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden, en
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-enerzijds, hierna samen de „EU-partij” genoemd, en
-
-de Socialistische Republiek Vietnam,
-
-anderzijds, hierna „Vietnam” genoemd,
-
-hierna gezamenlijk „de partijen” genoemd,
-
-Erkennende dat zij een langdurig en sterk partnerschap hebben, dat is gebaseerd op de gemeenschappelijke beginselen en waarden die zijn weergegeven in de **Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten enerzijds, en de Socialistische Republiek Vietnam, anderzijds**, die op 27 juni 2012 in Brussel is ondertekend (hierna „[Partnerschaps- en samenwerkingsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005871)” genoemd), alsmede belangrijke economische, handels- en investeringsbanden, die onder meer tot uiting komen in de **Vrijhandelsovereenkomst tussen de Europese Unie en de Socialistische Republiek Vietnam** die op 30 juni 2019 in Hanoi is ondertekend (hierna „Vrijhandelsovereenkomst” genoemd);
-
-Geleid door de wens, consistent met het kader van hun economische betrekkingen, hun banden verder aan te halen, en ervan overtuigd dat deze overeenkomst een nieuw klimaat voor de ontwikkeling van de wederzijdse investeringen tussen de partijen tot stand zal brengen;
-
-Erkennende dat deze overeenkomst het streven naar regionale economische integratie zal aanvullen en bevorderen;
-
-Vastbesloten hun economische, handels- en investeringsbanden aan te halen met eerbiediging van het doel van een in economisch, sociaal en ecologisch opzicht duurzame ontwikkeling, en investeringen in het kader van deze overeenkomst te bevorderen op een wijze die strookt met hoge beschermingsniveaus voor milieu en werknemers en de desbetreffende internationaal erkende normen en overeenkomsten waarbij zij partij zijn;
-
-Geleid door de wens de levensstandaard te verhogen, economische groei en stabiliteit te bevorderen, nieuwe mogelijkheden voor werkgelegenheid te scheppen en het algemene welzijn te verbeteren, en daarom opnieuw bevestigende dat zij de vaste wil hebben om investeringen te bevorderen;
-
-Opnieuw bevestigende dat zij de beginselen van duurzame ontwikkeling in de handelsovereenkomst ten volle onderschrijven;
-
-Erkennende dat transparantie van belang is, zoals in hun verbintenissen in de vrijhandelsovereenkomst tot uitdrukking komt;
-
-Opnieuw bevestigende dat zij het **Handvest van de Verenigde Naties**, ondertekend te San Francisco op 26 juni 1945, en de beginselen van de **Universele Verklaring van de Rechten van de Mens**, door de Algemene Vergadering van de Verenigde Naties vastgesteld op 10 december 1948, ten volle onderschrijven;
-
-Voortbouwend op hun respectieve rechten en verplichtingen ingevolge de **Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie**, gedaan te Marrakesh op 15 april 1994, hierna „[WTO-Overeenkomst](onbekend)” genoemd, en andere multilaterale, regionale en bilaterale overeenkomsten en regelingen waarbij zij partij zijn, en met name de Vrijhandelsovereenkomst;
-
-Vanuit de wens het concurrentievermogen van hun ondernemingen te bevorderen door hun een voorspelbaar wetgevingskader voor hun investeringsbetrekkingen te bieden,
-
-Zijn het volgende overeengekomen:
+*De Europese Unie, hierna „de Unie” genoemd, het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, enerzijds, hierna samen de „EU-partij” genoemd, en de Socialistische Republiek Vietnam, anderzijds, hierna „Vietnam” genoemd, hierna gezamenlijk „de partijen” genoemd, Erkennende dat zij een langdurig en sterk partnerschap hebben, dat is gebaseerd op de gemeenschappelijke beginselen en waarden die zijn weergegeven in de Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten enerzijds, en de Socialistische Republiek Vietnam, anderzijds, die op 27 juni 2012 in Brussel is ondertekend (hierna „Partnerschaps- en samenwerkingsovereenkomst” genoemd), alsmede belangrijke economische, handels- en investeringsbanden, die onder meer tot uiting komen in de Vrijhandelsovereenkomst tussen de Europese Unie en de Socialistische Republiek Vietnam die op 30 juni 2019 in Hanoi is ondertekend (hierna „Vrijhandelsovereenkomst” genoemd); Geleid door de wens, consistent met het kader van hun economische betrekkingen, hun banden verder aan te halen, en ervan overtuigd dat deze overeenkomst een nieuw klimaat voor de ontwikkeling van de wederzijdse investeringen tussen de partijen tot stand zal brengen; Erkennende dat deze overeenkomst het streven naar regionale economische integratie zal aanvullen en bevorderen; Vastbesloten hun economische, handels- en investeringsbanden aan te halen met eerbiediging van het doel van een in economisch, sociaal en ecologisch opzicht duurzame ontwikkeling, en investeringen in het kader van deze overeenkomst te bevorderen op een wijze die strookt met hoge beschermingsniveaus voor milieu en werknemers en de desbetreffende internationaal erkende normen en overeenkomsten waarbij zij partij zijn; Geleid door de wens de levensstandaard te verhogen, economische groei en stabiliteit te bevorderen, nieuwe mogelijkheden voor werkgelegenheid te scheppen en het algemene welzijn te verbeteren, en daarom opnieuw bevestigende dat zij de vaste wil hebben om investeringen te bevorderen; Opnieuw bevestigende dat zij de beginselen van duurzame ontwikkeling in de handelsovereenkomst ten volle onderschrijven; Erkennende dat transparantie van belang is, zoals in hun verbintenissen in de vrijhandelsovereenkomst tot uitdrukking komt; Opnieuw bevestigende dat zij het Handvest van de Verenigde Naties, ondertekend te San Francisco op 26 juni 1945, en de beginselen van de Universele Verklaring van de Rechten van de Mens, door de Algemene Vergadering van de Verenigde Naties vastgesteld op 10 december 1948, ten volle onderschrijven; Voortbouwend op hun respectieve rechten en verplichtingen ingevolge de Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie, gedaan te Marrakesh op 15 april 1994, hierna „WTO-Overeenkomst” genoemd, en andere multilaterale, regionale en bilaterale overeenkomsten en regelingen waarbij zij partij zijn, en met name de Vrijhandelsovereenkomst; Vanuit de wens het concurrentievermogen van hun ondernemingen te bevorderen door hun een voorspelbaar wetgevingskader voor hun investeringsbetrekkingen te bieden, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK 1. DOELSTELLINGEN EN ALGEMENE DEFINITIES
 
@@ -133,9 +30,9 @@ Voor de toepassing van deze overeenkomst
 
 - c. wordt onder „rechtspersoon uit een partij” verstaan: een rechtspersoon uit de EU-partij of een rechtspersoon uit Vietnam, opgericht in overeenstemming met de interne wet- en regelgeving van een lidstaat van de Unie, respectievelijk Vietnam, en die betrokken is bij omvangrijke zakelijke transacties3)Overeenkomstig haar aanmelding van het Verdrag tot oprichting van de Europese Gemeenschap bij de Wereldhandelsorganisatie (WT/REG39/1), is volgens de Unie en haar lidstaten het begrip „daadwerkelijke en voortdurende band” met de economie van de Unie, dat is vastgelegd in artikel 54 van het Verdrag betreffende de werking van de Europese Unie, gelijkwaardig aan het begrip „omvangrijke zakelijke transacties”. Dienovereenkomstig zal de Unie aan een rechtspersoon die overeenkomstig de wet- en regelgeving van Vietnam is opgericht en alleen zijn statutaire zetel of hoofdbestuur op het grondgebied van Vietnam, de Unie en zijn lidstaten heeft, de uit deze overeenkomst voortvloeiende voordelen enkel toepassen indien die rechtspersoon een daadwerkelijke en voortdurende band met de economie van Vietnam heeft. op het grondgebied van de Unie, respectievelijk Vietnam; een rechtspersoon:
 
-- i. is „eigendom” van natuurlijke of rechtspersonen uit een van de partijen indien meer dan 50 % van het aandelenkapitaal in handen is van personen uit respectievelijk de EU-partij of Vietnam; of
+   - i. is „eigendom” van natuurlijke of rechtspersonen uit een van de partijen indien meer dan 50 % van het aandelenkapitaal in handen is van personen uit respectievelijk de EU-partij of Vietnam; of
 
-- ii. „staat onder zeggenschap” van natuurlijke of rechtspersonen uit een van de partijen indien personen uit respectievelijk de EU-partij of Vietnam bevoegd zijn een meerderheid van de bestuurders te benoemen of anderszins de handelingen van de persoon rechtens te sturen;
+   - ii. „staat onder zeggenschap” van natuurlijke of rechtspersonen uit een van de partijen indien personen uit respectievelijk de EU-partij of Vietnam bevoegd zijn een meerderheid van de bestuurders te benoemen of anderszins de handelingen van de persoon rechtens te sturen;
 
 - d. wordt onder „bij de uitoefening van overheidsgezag verleende diensten en uitgevoerde activiteiten” verstaan: diensten of activiteiten die noch op commerciële basis, noch in mededinging met een of meer marktdeelnemers worden verleend respectievelijk uitgevoerd;
 
@@ -145,23 +42,23 @@ Voor de toepassing van deze overeenkomst
 
 - g. wordt onder „door een partij vastgestelde of gehandhaafde maatregelen” verstaan: maatregelen genomen door:
 
-- i. centrale, regionale of lokale overheden of autoriteiten; en
+   - i. centrale, regionale of lokale overheden of autoriteiten; en
 
-- ii. niet-gouvernementele organisaties bij de uitoefening van door centrale, regionale of lokale overheden of autoriteiten aan hen gedelegeerde bevoegdheden;
+   - ii. niet-gouvernementele organisaties bij de uitoefening van door centrale, regionale of lokale overheden of autoriteiten aan hen gedelegeerde bevoegdheden;
 
-- h. wordt onder „investering” verstaan: elke vorm van activa die direct of indirect eigendom is of onder zeggenschap staat van een investeerder uit een partij op het grondgebied5)Voor alle duidelijkheid: het grondgebied van een partij omvat de exclusieve economische zone en het continentale plat, zoals bepaald in het **Verdrag van de Verenigde Naties inzake het recht van de zee**, gedaan te Montego Bay op 10 december 1982 (hierna „Unclos” genoemd). van de andere partij, die de kenmerken van een investering bezit; deze kenmerken zijn onder meer de vastlegging van kapitaal of andere middelen, de verwachting van winst of voordelen, het aangaan van risico's en een zekere tijdsduur; investeringen kunnen onder meer de volgende vormen aannemen: geïnvesteerd rendement wordt als investering beschouwd, mits dit de kenmerken van een investering heeft, en een eventuele wijziging van de vorm waarin activa worden geïnvesteerd of geherinvesteerd laat de kwalificatie daarvan als investering onverlet zolang de investering de kenmerken van een investering blijft behouden;
+- h. wordt onder „investering” verstaan: elke vorm van activa die direct of indirect eigendom is of onder zeggenschap staat van een investeerder uit een partij op het grondgebied5)Voor alle duidelijkheid: het grondgebied van een partij omvat de exclusieve economische zone en het continentale plat, zoals bepaald in het *Verdrag van de Verenigde Naties inzake het recht van de zee*, gedaan te Montego Bay op 10 december 1982 (hierna „Unclos” genoemd). van de andere partij, die de kenmerken van een investering bezit; deze kenmerken zijn onder meer de vastlegging van kapitaal of andere middelen, de verwachting van winst of voordelen, het aangaan van risico's en een zekere tijdsduur; investeringen kunnen onder meer de volgende vormen aannemen: geïnvesteerd rendement wordt als investering beschouwd, mits dit de kenmerken van een investering heeft, en een eventuele wijziging van de vorm waarin activa worden geïnvesteerd of geherinvesteerd laat de kwalificatie daarvan als investering onverlet zolang de investering de kenmerken van een investering blijft behouden;
 
-- i. lichamelijke of onlichamelijke, roerende of onroerende goederen alsook alle andere uit eigendom voortkomende rechten, zoals huur-, hypotheek-, retentie- en pandrechten;
+   - i. lichamelijke of onlichamelijke, roerende of onroerende goederen alsook alle andere uit eigendom voortkomende rechten, zoals huur-, hypotheek-, retentie- en pandrechten;
 
-- ii. een onderneming6)Voor de toepassing van de definitie van „investering” valt een vertegenwoordigingskantoor niet onder het begrip „onderneming”. Voor alle duidelijkheid: het feit dat een vertegenwoordigingskantoor is gevestigd op het grondgebied van een partij, betekent op zich niet dat er sprake is van een investering., evenals aandelen en andere vormen van deelneming in het aandelenkapitaal van een onderneming, met inbegrip van daarvan afgeleide rechten;
+   - ii. een onderneming6)Voor de toepassing van de definitie van „investering” valt een vertegenwoordigingskantoor niet onder het begrip „onderneming”. Voor alle duidelijkheid: het feit dat een vertegenwoordigingskantoor is gevestigd op het grondgebied van een partij, betekent op zich niet dat er sprake is van een investering., evenals aandelen en andere vormen van deelneming in het aandelenkapitaal van een onderneming, met inbegrip van daarvan afgeleide rechten;
 
-- iii. obligaties, niet-gegarandeerde schuldbekentenissen en leningen alsmede andere schuldbewijzen, met inbegrip van daarvan afgeleide rechten;
+   - iii. obligaties, niet-gegarandeerde schuldbekentenissen en leningen alsmede andere schuldbewijzen, met inbegrip van daarvan afgeleide rechten;
 
-- iv. sleutelklaar-, bouw-, beheers-, productie-, concessie-, inkomstendelings- en andere soortgelijke contracten;
+   - iv. sleutelklaar-, bouw-, beheers-, productie-, concessie-, inkomstendelings- en andere soortgelijke contracten;
 
-- v. geldvorderingen of aanspraken op andere activa of contractuele prestaties met een economische waarde7)Voor alle duidelijkheid: geldvorderingen omvatten geen geldvorderingen die uitsluitend voortvloeien uit commerciële contracten voor de verkoop van goederen of diensten door een natuurlijke of rechtspersoon op het grondgebied van een partij aan een natuurlijke of rechtspersoon op het grondgebied van de andere partij, of de financiering van dergelijke overeenkomsten, anders dan een lening als bedoeld in punt iii) of een daarmee verband houdend bevel, vonnis, of arbitrale uitspraak.; en
+   - v. geldvorderingen of aanspraken op andere activa of contractuele prestaties met een economische waarde7)Voor alle duidelijkheid: geldvorderingen omvatten geen geldvorderingen die uitsluitend voortvloeien uit commerciële contracten voor de verkoop van goederen of diensten door een natuurlijke of rechtspersoon op het grondgebied van een partij aan een natuurlijke of rechtspersoon op het grondgebied van de andere partij, of de financiering van dergelijke overeenkomsten, anders dan een lening als bedoeld in punt iii) of een daarmee verband houdend bevel, vonnis, of arbitrale uitspraak.; en
 
-- vi. intellectuele-eigendomsrechten8)Voor de toepassing van deze overeenkomst vallen onder intellectuele eigendomsrechten ten minste alle categorieën intellectuele eigendom die worden bedoeld in de punten 1 tot en met 7 van deel II van de TRIPs-overeenkomst, namelijk:a. auteursrecht en naburige rechten;b. handelsmerken;c. geografische aanduidingen;d. industriële ontwerpen;e. octrooi;f. ontwerpen voor schakelpatronen (topografieën) van geïntegreerde schakelingen;g. bescherming van niet-openbaargemaakte informatie; enh. kwekersrechten. en goodwill;
+   - vi. intellectuele-eigendomsrechten8)Voor de toepassing van deze overeenkomst vallen onder intellectuele eigendomsrechten ten minste alle categorieën intellectuele eigendom die worden bedoeld in de punten 1 tot en met 7 van deel II van de TRIPs-overeenkomst, namelijk:a. auteursrecht en naburige rechten;b. handelsmerken;c. geografische aanduidingen;d. industriële ontwerpen;e. octrooi;f. ontwerpen voor schakelpatronen (topografieën) van geïntegreerde schakelingen;g. bescherming van niet-openbaargemaakte informatie; enh. kwekersrechten. en goodwill;
 
 - i. „investeerder uit een partij”: een natuurlijke persoon of een rechtspersoon uit een partij die een investering op het grondgebied van de andere partij heeft verricht;
 
@@ -195,7 +92,7 @@ Voor de toepassing van deze overeenkomst
 
 - a. audiovisuele diensten;
 
-- b. de winning, vervaardiging en verwerking10)Voor alle duidelijkheid: de verwerking van kernmateriaal omvat alle activiteiten die zijn vermeld in de „**International Standard Industrial Classification of all Economic Activities**”, zoals vastgesteld in het document „Statistical Office of the United Nations, Statistical Papers, Series M, No 4, ISIC REV 3.1, 2002, code 2330”. van kernmateriaal;
+- b. de winning, vervaardiging en verwerking10)Voor alle duidelijkheid: de verwerking van kernmateriaal omvat alle activiteiten die zijn vermeld in de „*International Standard Industrial Classification of all Economic Activities*”, zoals vastgesteld in het document „Statistical Office of the United Nations, Statistical Papers, Series M, No 4, ISIC REV 3.1, 2002, code 2330”. van kernmateriaal;
 
 - c. de productie van of de handel in wapens, munitie en oorlogsmateriaal;
 
@@ -203,15 +100,15 @@ Voor de toepassing van deze overeenkomst
 
 - e. binnenlandse en internationale luchtvervoerdiensten, ongeacht of het gaat om lijndiensten, en diensten die rechtstreeks verband houden met de uitoefening van verkeersrechten, andere dan: en
 
-- i. reparatie en onderhoud van luchtvaartuigen waarbij het luchtvaartuig buiten dienst wordt gesteld;
+   - i. reparatie en onderhoud van luchtvaartuigen waarbij het luchtvaartuig buiten dienst wordt gesteld;
 
-- ii. verkoop en marketing van luchtvervoersdiensten;
+   - ii. verkoop en marketing van luchtvervoersdiensten;
 
-- iii. geautomatiseerde boekingssystemen;
+   - iii. geautomatiseerde boekingssystemen;
 
-- iv. grondafhandelingsdiensten; en
+   - iv. grondafhandelingsdiensten; en
 
-- v. exploitatie van luchthavens,
+   - v. exploitatie van luchthavens,
 
 - f. diensten die worden verleend en activiteiten die worden verricht bij de uitoefening van overheidsgezag.
 
@@ -221,7 +118,7 @@ Voor de toepassing van deze overeenkomst
 
 5. Dit hoofdstuk is noch van toepassing op maatregelen betreffende natuurlijke personen die toegang tot de arbeidsmarkt van een partij zoeken, noch op maatregelen inzake staatsburgerschap, verblijf of werk op permanente basis.
 
-6. Met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.1&z=2019-06-30&g=2019-06-30) (Toepassingsgebied), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.2&z=2019-06-30&g=2019-06-30) (Investeringen en regelgevingsmaatregelen en -doelstellingen) en 2.5 (Behandeling van investeringen) tot en met 2.9 (Subrogatie), mag niets in deze overeenkomst worden uitgelegd als een beperking van de verplichtingen van de partijen uit hoofde van hoofdstuk 9 (Overheidsopdrachten) van de Vrijhandelsovereenkomst of als een oplegging van een aanvullende verplichting met betrekking tot overheidsopdrachten. Voor alle duidelijkheid: maatregelen met betrekking tot overheidsopdrachten die in overeenstemming zijn met hoofdstuk 9 (Overheidsopdrachten) van de vrijhandelsovereenkomst worden niet aangemerkt als een schending van de artikelen 2.1 (Toepassingsgebied), 2.2 (Investeringen en regelgevingsmaatregelen en -doelstellingen) en 2.5 (Behandeling van investeringen) tot en met 2.9 (Subrogatie).
+6. Met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.1&z=2019-06-30&g=2019-06-30) (Toepassingsgebied), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.2&z=2019-06-30&g=2019-06-30) (Investeringen en regelgevingsmaatregelen en -doelstellingen) en [2.5 (Behandeling van investeringen) tot en met 2.9](https://wetten.overheid.nl/BWBR0011926) (Subrogatie), mag niets in deze overeenkomst worden uitgelegd als een beperking van de verplichtingen van de partijen uit hoofde van hoofdstuk 9 (Overheidsopdrachten) van de Vrijhandelsovereenkomst of als een oplegging van een aanvullende verplichting met betrekking tot overheidsopdrachten. Voor alle duidelijkheid: maatregelen met betrekking tot overheidsopdrachten die in overeenstemming zijn met hoofdstuk 9 (Overheidsopdrachten) van de vrijhandelsovereenkomst worden niet aangemerkt als een schending van de artikelen 2.1 (Toepassingsgebied), 2.2 (Investeringen en regelgevingsmaatregelen en -doelstellingen) en 2.5 (Behandeling van investeringen) tot en met 2.9 (Subrogatie).
 
 ##### Artikel 2.2. Investeringen en regelgevingsmaatregelen en -doelstellingen
 
@@ -273,11 +170,11 @@ Voor de toepassing van deze overeenkomst
 
 - b. een behandeling als gevolg van een internationale overeenkomst ter voorkoming van dubbele belastingheffing of een andere internationale overeenkomst of regeling die geheel of hoofdzakelijk belastingheffing betreft; of
 
-- c. een behandeling die voortvloeit uit maatregelen met betrekking tot de erkenning van kwalificaties, vergunningen of prudentiële maatregelen in overeenstemming met [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=VII) van de **Algemene overeenkomst inzake de handel in diensten**16)Zoals opgenomen in bijlage 1b bij de Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie, gedaan te Marrakesh op 15 april 1994. (GATS) of de bijlage betreffende financiële diensten daarbij.
+- c. een behandeling die voortvloeit uit maatregelen met betrekking tot de erkenning van kwalificaties, vergunningen of prudentiële maatregelen in overeenstemming met [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=VII) van de *Algemene overeenkomst inzake de handel in diensten*16)Zoals opgenomen in bijlage 1b bij de Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie, gedaan te Marrakesh op 15 april 1994. (GATS) of de bijlage betreffende financiële diensten daarbij.
 
 5. Voor alle duidelijkheid: „behandeling” als bedoeld in lid 1 omvat geen geschillenbeslechtingsprocedures of -mechanismen, zoals die welke zijn opgenomen in [afdeling B (Beslechting van geschillen tussen investeerders en partijen) van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&z=2019-06-30&g=2019-06-30) (Geschillenbeslechting), en waarin wordt voorzien in andere bilaterale, regionale of internationale overeenkomsten. Materiële verplichtingen in dergelijke overeenkomsten vormen als zodanig geen „behandeling” en kunnen daarom niet in aanmerking worden genomen bij de beoordeling van een schending van dit artikel. Maatregelen die door een partij krachtens deze materiële verplichtingen worden genomen, worden aangemerkt als een „behandeling”.
 
-6. Dit artikel moet worden uitgelegd in overeenstemming met het **ejusdem generis**17)Voor alle duidelijkheid: dit lid mag niet worden uitgelegd als een beletsel om andere bepalingen van deze overeenkomst, waar passend, uit te leggen in overeenstemming met het **ejusdem generis**-beginsel.-beginsel.
+6. Dit artikel moet worden uitgelegd in overeenstemming met het *ejusdem generis*17)Voor alle duidelijkheid: dit lid mag niet worden uitgelegd als een beletsel om andere bepalingen van deze overeenkomst, waar passend, uit te leggen in overeenstemming met het *ejusdem generis*-beginsel.-beginsel.
 
 ##### Artikel 2.5. Behandeling van investeringen
 
@@ -347,7 +244,7 @@ anders dan onder dwang van de omstandigheden.
 
 - b. de onteigening gebeurt tegen betaling van een vergoeding die gelijk is aan de marktwaarde, met inachtneming van de toepasselijke interne wet- en regelgeving.
 
-4. De afgifte van dwanglicenties in verband met intellectuele-eigendomsrechten vormt geen onteigening in de zin van lid 1, voor zover die afgifte in overeenstemming is met de **Overeenkomst inzake de handelsaspecten van de intellectuele eigendom**, die is opgenomen in [bijlage 1C bij de WTO-overeenkomst](onbekend) (hierna „TRIPs-overeenkomst genoemd).
+4. De afgifte van dwanglicenties in verband met intellectuele-eigendomsrechten vormt geen onteigening in de zin van lid 1, voor zover die afgifte in overeenstemming is met de *Overeenkomst inzake de handelsaspecten van de intellectuele eigendom*, die is opgenomen in [bijlage 1C bij de WTO-overeenkomst](https://wetten.overheid.nl/BWBV0001160) (hierna „TRIPs-overeenkomst genoemd).
 
 5. Een investeerder die door een onteigening wordt getroffen, moet krachtens het recht van de onteigenende partij aanspraak hebben op een onverwijlde toetsing van zijn vordering en van de waardebepaling van zijn investering door een rechterlijke instantie of een andere onafhankelijke instantie van die partij.
 
@@ -377,7 +274,7 @@ Indien een partij bij de overeenkomst, of een instantie van die partij, een beta
 
 ### HOOFDSTUK 3. GESCHILLENBESLECHTING
 
-### AFDELING A. BESLECHTING VAN GESCHILLEN TUSSEN PARTIJEN BIJ OVEREENKOMST
+#### AFDELING A. BESLECHTING VAN GESCHILLEN TUSSEN PARTIJEN BIJ OVEREENKOMST
 
 #### ONDERAFDELING 1. DOEL EN TOEPASSINGSGEBIED
 
@@ -459,7 +356,7 @@ Tenzij de partijen binnen tien dagen na de datum van aanwijzing van de arbiters 
 
 5. Overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=7&z=2019-06-30&g=2019-06-30) (Reglement van orde) worden de partijen in de gelegenheid gesteld om aanwezig te zijn bij alle presentaties, verklaringen, discussies of replieken in de procedure. Alle informatie of schriftelijke opmerkingen die door een partij bij het arbitragepanel zijn ingediend, met inbegrip van eventueel commentaar over het beschrijvende deel van het tussentijdse verslag, antwoorden op vragen van het arbitragepanel en opmerkingen van een partij over die antwoorden, worden ter beschikking gesteld van de andere partij.
 
-6. Tenzij de partijen anders overeenkomen binnen drie dagen na de oprichtingsdatum van het arbitragepanel, mag het arbitragepanel overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=7&z=2019-06-30&g=2019-06-30) (Reglement van orde), ongevraagde schriftelijke opmerkingen (bijdragen van **amici curiae**) in ontvangst nemen van een natuurlijke of rechtspersoon die gevestigd is op het grondgebied van een partij.
+6. Tenzij de partijen anders overeenkomen binnen drie dagen na de oprichtingsdatum van het arbitragepanel, mag het arbitragepanel overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=7&z=2019-06-30&g=2019-06-30) (Reglement van orde), ongevraagde schriftelijke opmerkingen (bijdragen van *amici curiae*) in ontvangst nemen van een natuurlijke of rechtspersoon die gevestigd is op het grondgebied van een partij.
 
 7. Voor haar interne beraadslagingen komt het arbitragepanel bijeen in besloten zitting waaraan alleen arbiters deelnemen. Het arbitragepanel kan echter toestaan dat zijn assistenten de beraadslagingen bijwonen. De beraadslagingen van het arbitragepanel zijn vertrouwelijk en de bij het panel ingediende stukken worden vertrouwelijk behandeld.
 
@@ -553,7 +450,7 @@ Het arbitragepanel kan op verzoek van een partij of op eigen initiatief bij alle
 
 ##### Artikel 3.21. Interpretatieregels
 
-Het arbitragepanel legt de in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=1&artikel=3.2&z=2019-06-30&g=2019-06-30) (Toepassingsgebied) bedoelde bepalingen uit volgens de gebruikelijke regels voor de interpretatie van het internationaal publiekrecht, met inbegrip van die welke zijn neergelegd in het **Verdrag van Wenen inzake het verdragenrecht**, gedaan te Wenen op 23 mei 1969 (hierna het „[Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0002302)” genoemd). Het arbitragepanel houdt ook rekening met relevante interpretaties in verslagen van panels en van de Beroepsinstantie die zijn aangenomen door het Orgaan voor Geschillenbeslechting in [bijlage 2 bij de WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1). De verslagen en uitspraken van het arbitragepanel verruimen of beperken de rechten en verplichtingen van de partijen uit hoofde van deze overeenkomst niet.
+Het arbitragepanel legt de in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=1&artikel=3.2&z=2019-06-30&g=2019-06-30) (Toepassingsgebied) bedoelde bepalingen uit volgens de gebruikelijke regels voor de interpretatie van het internationaal publiekrecht, met inbegrip van die welke zijn neergelegd in het *Verdrag van Wenen inzake het verdragenrecht*, gedaan te Wenen op 23 mei 1969 (hierna het „[Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0002302)” genoemd). Het arbitragepanel houdt ook rekening met relevante interpretaties in verslagen van panels en van de Beroepsinstantie die zijn aangenomen door het Orgaan voor Geschillenbeslechting in [bijlage 2 bij de WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1). De verslagen en uitspraken van het arbitragepanel verruimen of beperken de rechten en verplichtingen van de partijen uit hoofde van deze overeenkomst niet.
 
 ##### Artikel 3.22. Besluiten en uitspraken van arbitragepanel
 
@@ -583,17 +480,17 @@ Het arbitragepanel legt de in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:
 
 1. Een beroep op de geschillenbeslechtingsprocedure overeenkomstig dit hoofdstuk laat alle maatregelen in het kader van de WTO onverlet, met inbegrip van die tot beslechting van een geschil, of uit hoofde van andere internationale overeenkomsten waarbij beide partijen partij zijn.
 
-2. In afwijking van lid 1 mag een partij geen procedure inleiden voor een specifieke maatregel in verband met een schending van een in wezen gelijkwaardige verplichting uit hoofde van deze overeenkomst en uit hoofde van de [WTO-overeenkomst](onbekend) of krachtens enige andere internationale overeenkomst waarbij beide partijen partij zijn. Zodra een geschillenbeslechtingsprocedure is ingeleid, mag een partij enkel een procedure in verband met de schending van een in wezen gelijkwaardige verplichting uit hoofde van een andere overeenkomst in een ander forum inleiden, wanneer het eerst gekozen forum om procedurele of bevoegdheidsredenen geen uitspraak kan doen in de procedure ten aanzien van de schending van die verplichting.
+2. In afwijking van lid 1 mag een partij geen procedure inleiden voor een specifieke maatregel in verband met een schending van een in wezen gelijkwaardige verplichting uit hoofde van deze overeenkomst en uit hoofde van de [WTO-overeenkomst](https://wetten.overheid.nl/BWBV0001160) of krachtens enige andere internationale overeenkomst waarbij beide partijen partij zijn. Zodra een geschillenbeslechtingsprocedure is ingeleid, mag een partij enkel een procedure in verband met de schending van een in wezen gelijkwaardige verplichting uit hoofde van een andere overeenkomst in een ander forum inleiden, wanneer het eerst gekozen forum om procedurele of bevoegdheidsredenen geen uitspraak kan doen in de procedure ten aanzien van de schending van die verplichting.
 
 3. Voor de toepassing van dit artikel:
 
-- a. wordt een geschillenbeslechtingsprocedure krachtens de [WTO-overeenkomst](onbekend) geacht te zijn ingeleid wanneer een partij overeenkomstig artikel 6 van het **Memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen** een verzoek om instelling van een panel indient;
+- a. wordt een geschillenbeslechtingsprocedure krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/BWBV0001160) geacht te zijn ingeleid wanneer een partij overeenkomstig artikel 6 van het *Memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen* een verzoek om instelling van een panel indient;
 
 - b. wordt een geschillenbeslechtingsprocedure krachtens dit hoofdstuk geacht te zijn ingeleid wanneer een partij overeenkomstig [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.5&z=2019-06-30&g=2019-06-30) (Inleiding van arbitrageprocedure), lid 1, van deze overeenkomst een verzoek om instelling van een arbitragepanel indient;
 
 - c. wordt een geschillenbeslechtingsprocedure krachtens enige andere internationale overeenkomst geacht te zijn ingeleid overeenkomstig die overeenkomst.
 
-4. Niets in deze overeenkomst belet een partij een door het Orgaan voor Geschillenbeslechting toegestane schorsing van verplichtingen ten uitvoer te leggen. Er kan geen beroep worden gedaan op de [WTO-Overeenkomst](onbekend) of de Vrijhandelsovereenkomst om te beletten dat een partij passende maatregelen treft krachtens [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.15&z=2019-06-30&g=2019-06-30) (Tijdelijke maatregelen bij niet-naleving).
+4. Niets in deze overeenkomst belet een partij een door het Orgaan voor Geschillenbeslechting toegestane schorsing van verplichtingen ten uitvoer te leggen. Er kan geen beroep worden gedaan op de [WTO-Overeenkomst](https://wetten.overheid.nl/BWBV0001160) of de Vrijhandelsovereenkomst om te beletten dat een partij passende maatregelen treft krachtens [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.15&z=2019-06-30&g=2019-06-30) (Tijdelijke maatregelen bij niet-naleving).
 
 ##### Artikel 3.25. Termijnen
 
@@ -605,7 +502,7 @@ Het arbitragepanel legt de in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:
 
 Het Comité kan de [bijlagen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=7&z=2019-06-30&g=2019-06-30) (Reglement van orde), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=8&z=2019-06-30&g=2019-06-30) (Gedragscode voor arbiters en bemiddelaars) en 9 (Bemiddelingsmechanisme) evalueren en besluiten deze te wijzigen.
 
-### AFDELING B. BESLECHTING VAN GESCHILLEN TUSSEN INVESTEERDERS EN PARTIJEN BIJ OVEREENKOMST
+#### AFDELING B. BESLECHTING VAN GESCHILLEN TUSSEN INVESTEERDERS EN PARTIJEN BIJ OVEREENKOMST
 
 #### ONDERAFDELING 1. TOEPASSINGSGEBIED EN DEFINITIES
 
@@ -629,11 +526,11 @@ Voor de toepassing van deze afdeling wordt, tenzij anders aangegeven, verstaan o
 
 - c. „eiser uit een partij”:
 
-- i. een investeerder uit een partij bij de overeenkomst als bedoeld in [artikel 2.1 (Toepassingsgebied), alinea 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.1&z=2019-06-30&g=2019-06-30), die namens zichzelf handelt; of
+   - i. een investeerder uit een partij bij de overeenkomst als bedoeld in [artikel 2.1 (Toepassingsgebied), alinea 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.1&z=2019-06-30&g=2019-06-30), die namens zichzelf handelt; of
 
-- ii. een investeerder uit een partij als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.1&z=2019-06-30&g=2019-06-30) (Toepassingsgebied), alinea 1, onder b), die optreedt namens een plaatselijk gevestigde onderneming in eigendom of onder de zeggenschap van die investeerder; voor alle duidelijkheid: een vordering uit hoofde van deze alinea wordt geacht betrekking te hebben op een geschil tussen een verdragsluitende staat en een onderdaan van een andere verdragsluitende staat voor de toepassing van [verdragartikel 25, lid 1, van het Icsid-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004615&artikel=25);
+   - ii. een investeerder uit een partij als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.1&z=2019-06-30&g=2019-06-30) (Toepassingsgebied), alinea 1, onder b), die optreedt namens een plaatselijk gevestigde onderneming in eigendom of onder de zeggenschap van die investeerder; voor alle duidelijkheid: een vordering uit hoofde van deze alinea wordt geacht betrekking te hebben op een geschil tussen een verdragsluitende staat en een onderdaan van een andere verdragsluitende staat voor de toepassing van [verdragartikel 25, lid 1, van het Icsid-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004615&artikel=25);
 
-- d. „[Icsid-Verdrag](onbekend)”: het **Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten**, gedaan te Washington op 18 maart 1965;
+- d. „[Icsid-Verdrag](https://wetten.overheid.nl/BWBV0004615)”: het *Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten*, gedaan te Washington op 18 maart 1965;
 
 - e. „betrokken partij”: Vietnam wanneer de verweerder de Unie of een lidstaat van de Unie is, of de Unie, wanneer Vietnam de verweerder is;
 
@@ -641,7 +538,7 @@ Voor de toepassing van deze afdeling wordt, tenzij anders aangegeven, verstaan o
 
 - g. „plaatselijk gevestigde onderneming”: een rechtspersoon die gevestigd is op het grondgebied van een partij en die eigendom is en onder zeggenschap staat van een investeerder uit de andere partij;
 
-- h. „[Verdrag van New York van 1958](onbekend)”: het **Verdrag van de Verenigde Naties over de erkenning en tenuitvoerlegging van buitenlandse scheidsrechterlijke uitspraken**, gedaan te New York op 10 juni 1958;
+- h. „[Verdrag van New York van 1958](https://wetten.overheid.nl/BWBV0005176)”: het *Verdrag van de Verenigde Naties over de erkenning en tenuitvoerlegging van buitenlandse scheidsrechterlijke uitspraken*, gedaan te New York op 10 juni 1958;
 
 - i. „financiering door derden”: een financiering door een natuurlijke of rechtspersoon die geen partij bij het geschil is maar die een overeenkomst sluit met een partij bij het geschil met het oog op de financiering van alle of een deel van de procedurekosten, in ruil voor een beloning die afhankelijk is van de uitslag van het geschil, of een financiering die wordt verschaft door een natuurlijke of rechtspersoon die geen partij bij het geschil is, in de vorm van een verstrekking van een donatie of financiële steun;
 
@@ -675,15 +572,15 @@ Wanneer een verzoek om overleg wordt ingediend door meer dan één eiser, of nam
 
 - a. drie jaar nadat de eiser, of in voorkomend geval de plaatselijk gevestigde onderneming, voor het eerst kennis heeft genomen van of kennis had moeten nemen van de gestelde schending van de bepalingen van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&z=2019-06-30&g=2019-06-30) (Bescherming van investeringen), alsmede van het feit dat daardoor verlies of schade is geleden door:
 
-- i. de eiser, voor vorderingen die zijn ingesteld door een investeerder die namens zichzelf handelt; of
+   - i. de eiser, voor vorderingen die zijn ingesteld door een investeerder die namens zichzelf handelt; of
 
-- ii. de plaatselijk gevestigde onderneming, voor vorderingen van een investeerder die handelt namens een plaatselijk gevestigde onderneming; of
+   - ii. de plaatselijk gevestigde onderneming, voor vorderingen van een investeerder die handelt namens een plaatselijk gevestigde onderneming; of
 
 - b. twee jaar nadat de eiser, of in voorkomend geval de plaatselijk gevestigde onderneming, de naar het interne recht van een partij bij de overeenkomst bij een rechterlijke instantie ingestelde vorderingen intrekt of de aldaar ingeleide procedure beëindigt, en hoe dan ook ten laatste zeven jaar na de datum waarop de eiser of, naargelang het geval, de plaatselijk gevestigde onderneming voor het eerst kennis heeft genomen van of kennis had moeten nemen van de maatregel waarvan wordt gesteld dat zij een schending vormt van de bepalingen van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&z=2019-06-30&g=2019-06-30) (Bescherming van investeringen), alsmede van het feit dat daardoor verlies of schade is geleden door:
 
-- i. de eiser, voor vorderingen die zijn ingesteld door een investeerder die namens zichzelf handelt; of
+   - i. de eiser, voor vorderingen die zijn ingesteld door een investeerder die namens zichzelf handelt; of
 
-- ii. de plaatselijk gevestigde onderneming, voor vorderingen van een investeerder die handelt namens een plaatselijk gevestigde onderneming22)Het bepaalde in lid 2), onder b), is niet van toepassing indien bijlage 12 (Samenloop procedures) van toepassing is..
+   - ii. de plaatselijk gevestigde onderneming, voor vorderingen van een investeerder die handelt namens een plaatselijk gevestigde onderneming22)Het bepaalde in lid 2), onder b), is niet van toepassing indien bijlage 12 (Samenloop procedures) van toepassing is..
 
 3. Tenzij de partijen bij het geschil anders overeenkomen, wordt het overleg gehouden:
 
@@ -753,9 +650,9 @@ Het bericht van het voornemen om het geschil aan geschillenbeslechting te onderw
 
 2. Een vordering kan worden ingesteld bij het Gerecht overeenkomstig een van de volgende reeksen regels inzake geschillenbeslechting:
 
-- a. het [Icsid-Verdrag](onbekend);
+- a. het [Icsid-Verdrag](https://wetten.overheid.nl/BWBV0004615);
 
-- b. de **Bepalingen betreffende de opening van aanvullende voor het verlenen van administratieve diensten bij geschillen** (hierna „Icsid-bepalingen aanvullende mogelijkheden” genoemd) door het secretariaat van het Internationaal Centrum voor beslechting van investeringsgeschillen (hierna „Icsid-secretariaat” genoemd) wanneer de voorwaarden voor een procedure overeenkomstig het bepaalde onder a) niet van toepassing zijn;
+- b. de *Bepalingen betreffende de opening van aanvullende voor het verlenen van administratieve diensten bij geschillen* (hierna „Icsid-bepalingen aanvullende mogelijkheden” genoemd) door het secretariaat van het Internationaal Centrum voor beslechting van investeringsgeschillen (hierna „Icsid-secretariaat” genoemd) wanneer de voorwaarden voor een procedure overeenkomstig het bepaalde onder a) niet van toepassing zijn;
 
 - c. de arbitragevoorschriften van de Uncitral; of
 
@@ -939,7 +836,7 @@ De partijen bij de overeenkomst openen onderhandelingen over een internationale 
 
 3. Voor alle duidelijkheid: het Gerecht en de Beroepsinstantie zijn gebonden aan de uitlegging van het interne recht door de rechterlijke instanties of de autoriteiten die bevoegd zijn voor de uitlegging van het toepasselijke interne recht, en de rechterlijke instanties en de autoriteiten van de partijen bij de overeenkomst zijn niet gebonden aan de uitlegging die het Gerecht en de Beroepsinstantie aan het toepasselijke interne recht geven. Het Gerecht en de Beroepsinstantie zijn niet bevoegd de wettigheid van een maatregel waarvan wordt gesteld dat hij een schending van deze overeenkomst vormt, te toetsen aan de interne wet- en regelgeving van de partij bij de overeenkomst die partij bij het geschil is.
 
-4. Het Gerecht en de Beroepsinstantie leggen deze overeenkomst uit volgens de gebruikelijke regels voor de uitlegging van het internationaal publiekrecht zoals neergelegd in het **Verdrag van Wenen inzake het verdragenrecht**, gedaan te Wenen op 23 mei 1969.
+4. Het Gerecht en de Beroepsinstantie leggen deze overeenkomst uit volgens de gebruikelijke regels voor de uitlegging van het internationaal publiekrecht zoals neergelegd in het *Verdrag van Wenen inzake het verdragenrecht*, gedaan te Wenen op 23 mei 1969.
 
 5. Wanneer ernstige bezorgdheid rijst over uitleggingskwesties die gevolgen voor aangelegenheden in verband met deze afdeling kunnen hebben, kan het Comité uitleggingen van bepalingen van deze overeenkomst geven. Een dergelijke uitlegging is bindend voor het Gerecht en de Beroepsinstantie. Het Comité kan beslissen dat een uitlegging met ingang van een specifieke datum bindend karakter heeft.
 
@@ -1091,7 +988,7 @@ Het Gerecht mag niet bij wijze van geldig verweer, tegenvordering, vordering tot
 
 2. Elke partij bij de overeenkomst erkent een op grond van deze afdeling gegeven definitieve uitspraak als bindend en legt de geldelijke verplichting op haar grondgebied ten uitvoer alsof het een definitieve beslissing van een rechterlijke instantie in die partij was.
 
-3. Onverminderd de leden 1 en 2 zijn de erkenning en de tenuitvoerlegging van een definitieve uitspraak met betrekking tot een geschil waarin Vietnam de verweerder is, gedurende de periode als bedoeld in lid 4 onderworpen aan het [Verdrag van New York van 1958](onbekend). Gedurende die periode zijn het onderhavige artikel, lid 1, onder b), en [artikel 3.36 (Instemming), lid 3, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=3&artikel=3.36&z=2019-06-30&g=2019-06-30), niet van toepassing op geschillen waarin Vietnam de verweerder is.
+3. Onverminderd de leden 1 en 2 zijn de erkenning en de tenuitvoerlegging van een definitieve uitspraak met betrekking tot een geschil waarin Vietnam de verweerder is, gedurende de periode als bedoeld in lid 4 onderworpen aan het [Verdrag van New York van 1958](https://wetten.overheid.nl/BWBV0005176). Gedurende die periode zijn het onderhavige artikel, lid 1, onder b), en [artikel 3.36 (Instemming), lid 3, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=3&artikel=3.36&z=2019-06-30&g=2019-06-30), niet van toepassing op geschillen waarin Vietnam de verweerder is.
 
 4. Met betrekking tot een definitieve uitspraak in een geschil waarin Vietnam de verweerder is, zijn lid 1, onder b), en lid 2 van toepassing na afloop van een periode van vijf jaar na de datum van inwerkingtreding van deze overeenkomst of na afloop van een langere periode die door het Comité wordt vastgesteld als de omstandigheden dat rechtvaardigen.
 
@@ -1245,11 +1142,11 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 - e. noodzakelijk zijn om de naleving te waarborgen van wet- of regelgeving die niet strijdig is met [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.3&z=2019-06-30&g=2019-06-30) (Nationale behandeling) en [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.4&z=2019-06-30&g=2019-06-30) (Meestbegunstigingsbehandeling), met inbegrip van die welke betrekking heeft op: of
 
-- i. het voorkomen van misleidende en frauduleuze praktijken of op middelen om de gevolgen van de niet-nakoming van contracten te compenseren;
+   - i. het voorkomen van misleidende en frauduleuze praktijken of op middelen om de gevolgen van de niet-nakoming van contracten te compenseren;
 
-- ii. het beschermen van de persoonlijke levenssfeer van personen met betrekking tot de verwerking en verspreiding van persoonsgegevens en het beschermen van het vertrouwelijke karakter van individuele dossiers en rekeningen; of
+   - ii. het beschermen van de persoonlijke levenssfeer van personen met betrekking tot de verwerking en verspreiding van persoonsgegevens en het beschermen van het vertrouwelijke karakter van individuele dossiers en rekeningen; of
 
-- iii. de veiligheid;
+   - iii. de veiligheid;
 
 - f. strijdig zijn met [artikel 2.3 (Nationale behandeling), lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.3&z=2019-06-30&g=2019-06-30), mits het verschil in behandeling bedoeld is om directe belastingen op doeltreffende of billijke wijze te kunnen opleggen of innen ten aanzien van economische activiteiten of investeerders uit de andere partij31)Maatregelen die bedoeld zijn om directe belastingen op billijke of doeltreffende wijze te kunnen opleggen of innen, omvatten maatregelen die een partij op grond van haar belastingstelsel neemt en die:i. van toepassing zijn op niet-ingezeten investeerders en dienstverleners, gezien het feit dat de fiscale verplichtingen van niet-ingezetenen worden vastgesteld op grond van belastbare feiten die hun oorsprong vinden of geschieden op het grondgebied van de partij;ii. van toepassing zijn op niet-ingezetenen om ervoor te zorgen dat belastingen op het grondgebied van de partij kunnen worden opgelegd of geïnd;iii. van toepassing zijn op niet-ingezetenen of ingezetenen ter voorkoming van belastingontwijking of -ontduiking, handhavingsmaatregelen daaronder begrepen;iv. van toepassing zijn op gebruikers van diensten die op of vanaf het grondgebied van de andere partij worden verleend, om ervoor te zorgen dat door die gebruikers verschuldigde belastingen die hun bron op het grondgebied van de partij hebben, kunnen worden opgelegd of geïnd;v. een onderscheid maken tussen investeerders en dienstverleners die belastingplichtig zijn ter zake van wereldwijd belastbare feiten, en andere investeerders en dienstverleners, gezien het verschil in de aard van de heffingsgrondslag tussen hen; ofvi. inkomen, winst, voordeel, verlies, aftrek of krediet van ingezeten personen of filialen, dan wel tussen gelieerde personen of filialen van dezelfde persoon vaststellen, toewijzen of omslaan, om de belastinggrondslag van de partij te behouden.De belastingvoorwaarden of -concepten onder f) en in deze voetnoot worden vastgesteld volgens de belastingdefinities en -concepten dan wel gelijkwaardige of soortgelijke definities en concepten van de interne wet- en regelgeving van de partij die de maatregel neemt..
 
@@ -1265,15 +1162,15 @@ Niets in deze overeenkomst mag zodanig worden uitgelegd dat:
 
 - b. een partij belet wordt maatregelen te nemen die zij nodig acht ter bescherming van haar wezenlijke veiligheidsbelangen en die of
 
-- i. verband houden met de productie van of de handel in wapens, munitie en oorlogstuig dan wel met de handel in andere goederen en materialen en economische activiteiten die direct of indirect de bevoorrading van een militaire inrichting ten doel hebben;
+   - i. verband houden met de productie van of de handel in wapens, munitie en oorlogstuig dan wel met de handel in andere goederen en materialen en economische activiteiten die direct of indirect de bevoorrading van een militaire inrichting ten doel hebben;
 
-- ii. verband houden met de verlening van diensten die direct of indirect de bevoorrading van een militaire inrichting ten doel hebben;
+   - ii. verband houden met de verlening van diensten die direct of indirect de bevoorrading van een militaire inrichting ten doel hebben;
 
-- iii. betrekking hebben op splijt- of fusiestoffen of op stoffen waaruit deze kunnen worden vervaardigd; of
+   - iii. betrekking hebben op splijt- of fusiestoffen of op stoffen waaruit deze kunnen worden vervaardigd; of
 
-- iv. in tijden van oorlog of ernstige internationale spanningen worden genomen;
+   - iv. in tijden van oorlog of ernstige internationale spanningen worden genomen;
 
-- c. een partij belet wordt maatregelen te nemen tot handhaving van de internationale vrede en veiligheid ingevolge haar verplichtingen krachtens het **Handvest van de Verenigde Naties**, gedaan te San Francisco op 26 juni 1945.
+- c. een partij belet wordt maatregelen te nemen tot handhaving van de internationale vrede en veiligheid ingevolge haar verplichtingen krachtens het *Handvest van de Verenigde Naties*, gedaan te San Francisco op 26 juni 1945.
 
 ##### Artikel 4.9. Toepassing van wet- en regelgeving
 
@@ -1303,7 +1200,7 @@ In uitzonderlijke omstandigheden bij ernstige moeilijkheden, of dreigende ernsti
 
 - b. niet verder gaan dan noodzakelijk is om de moeilijkheden met betrekking tot de betalingsbalans of de buitenlandse financiële positie op te lossen;
 
-- c. in voorkomend geval in overeenstemming zijn met de **Statuten van het Internationaal Monetair Fonds**;
+- c. in voorkomend geval in overeenstemming zijn met de *Statuten van het Internationaal Monetair Fonds*;
 
 - d. geen onnodig nadeel toebrengen aan de commerciële, economische en financiële belangen van de andere partij; en
 
@@ -1351,7 +1248,7 @@ Het overleg heeft betrekking op de verenigbaarheid van de beperkende maatregelen
 
 ##### Artikel 4.15. Opzegging
 
-Ingeval deze overeenkomst wordt opgezegd overeenkomstig [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=4&artikel=4.14&z=2019-06-30&g=2019-06-30) (Looptijd), blijven de bepalingen van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=1&z=2019-06-30&g=2019-06-30) (Doelstellingen en algemene definities), [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.1&z=2019-06-30&g=2019-06-30) (Toepassingsgebied), [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.2&z=2019-06-30&g=2019-06-30) (Investeringen en regelgevingsmaatregelen en -doelstellingen) en artikel 2.5 (Behandeling van investeringen) tot en met artikel 2.9 (Subrogatie), de relevante bepalingen van hoofdstuk 4 en de bepalingen van [hoofdstuk 3 (Geschillenbeslechting), afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen investeerders en partijen bij overeenkomst) ten aanzien van investeringen die vóór de datum van opzegging van deze overeenkomst zijn verricht, van kracht gedurende een periode van vijftien jaar te rekenen vanaf de datum van opzegging, tenzij de partijen anders overeenkomen. Het onderhavige artikel is niet van toepassing wanneer de voorlopige toepassing van deze overeenkomst wordt beëindigd en deze overeenkomst niet in werking treedt.
+Ingeval deze overeenkomst wordt opgezegd overeenkomstig [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=4&artikel=4.14&z=2019-06-30&g=2019-06-30) (Looptijd), blijven de bepalingen van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=1&z=2019-06-30&g=2019-06-30) (Doelstellingen en algemene definities), [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.1&z=2019-06-30&g=2019-06-30) (Toepassingsgebied), [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=2&artikel=2.2&z=2019-06-30&g=2019-06-30) (Investeringen en regelgevingsmaatregelen en -doelstellingen) en [artikel 2.5 (Behandeling van investeringen) tot en met artikel 2.9](https://wetten.overheid.nl/BWBR0011926) (Subrogatie), de relevante bepalingen van hoofdstuk 4 en de bepalingen van [hoofdstuk 3 (Geschillenbeslechting), afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen investeerders en partijen bij overeenkomst) ten aanzien van investeringen die vóór de datum van opzegging van deze overeenkomst zijn verricht, van kracht gedurende een periode van vijftien jaar te rekenen vanaf de datum van opzegging, tenzij de partijen anders overeenkomen. Het onderhavige artikel is niet van toepassing wanneer de voorlopige toepassing van deze overeenkomst wordt beëindigd en deze overeenkomst niet in werking treedt.
 
 ##### Artikel 4.16. Voldoen aan verplichtingen
 
@@ -1369,7 +1266,7 @@ Niets in deze overeenkomst mag zodanig worden uitgelegd dat daaraan rechten kunn
 
 ##### Artikel 4.19. Bijlagen
 
-De bijlagen bij deze overeenkomst maken integrerend deel hiervan uit.
+De [bijlagen](https://wetten.overheid.nl/BWBR0015708) bij deze overeenkomst maken integrerend deel hiervan uit.
 
 ##### Artikel 4.20. Verhouding tot andere overeenkomsten
 
@@ -1377,7 +1274,7 @@ De bijlagen bij deze overeenkomst maken integrerend deel hiervan uit.
 
 2. Deze overeenkomst maakt deel uit van de algemene betrekkingen tussen de Unie en haar lidstaten, enerzijds, en Vietnam, anderzijds, zoals bepaald in de [partnerschaps- en samenwerkingsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005871), en vormt een onderdeel van het gemeenschappelijke institutionele kader.
 
-3. Niets in deze overeenkomst mag zodanig worden uitgelegd dat een partij verplicht wordt te handelen op een wijze die in strijd is met haar verplichtingen uit hoofde van de **Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie** van 15 april 1994.
+3. Niets in deze overeenkomst mag zodanig worden uitgelegd dat een partij verplicht wordt te handelen op een wijze die in strijd is met haar verplichtingen uit hoofde van de *Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie* van 15 april 1994.
 
 4. Zodra deze overeenkomst in werking treedt, worden de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=6&z=2019-06-30&g=2019-06-30) (Lijst van investeringsbeschermingsovereenkomsten) genoemde overeenkomsten tussen de lidstaten van de Unie en Vietnam, met inbegrip van de daaruit voortvloeiende rechten en verplichtingen, beëindigd en zijn zij niet langer van kracht; zij komen te vervallen en worden vervangen door deze overeenkomst32)Tussen de partijen bestaat overeenstemming dat ook de vervalbepalingen die zijn opgenomen in de in bijlage 6 (Lijst van investeringsbeschermingsovereenkomsten) genoemde overeenkomsten, niet langer van kracht zijn..
 
@@ -1419,7 +1316,7 @@ De bijlagen bij deze overeenkomst maken integrerend deel hiervan uit.
 
 Deze overeenkomst is van toepassing:
 
-- a. wat de EU-partij betreft, op elk grondgebied waarop het **Verdrag betreffende de Europese Unie** en het **Verdrag betreffende de werking van de Europese Unie** van toepassing zijn, onder de in die verdragen neergelegde voorwaarden; en
+- a. wat de EU-partij betreft, op elk grondgebied waarop het *Verdrag betreffende de Europese Unie* en het *Verdrag betreffende de werking van de Europese Unie* van toepassing zijn, onder de in die verdragen neergelegde voorwaarden; en
 
 - b. wat Vietnam betreft, op zijn grondgebied.
 
@@ -1428,562 +1325,6 @@ Verwijzingen naar „grondgebied” in deze overeenkomst worden begrepen overeen
 ##### Artikel 4.23. Authentieke teksten
 
 Deze overeenkomst is opgesteld in tweevoud in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Vietnamese taal, waarbij alle teksten gelijkelijk authentiek zijn.
-
-##### Algemene bepalingen
-
-1. Voor de toepassing van [hoofdstuk 3 (Geschillenbeslechting), afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen partijen bij overeenkomst), en dit reglement van orde (hierna „Reglement”) wordt verstaan onder:
-
-- a. „adviseur”: een persoon die door een partij is aangesteld om haar in verband met de arbitrageprocedure te adviseren of bij te staan;
-
-- b. „arbitragepanel”: een krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) ingesteld panel;
-
-- c. „arbiter”: een lid van een krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) ingesteld arbitragepanel;
-
-- d. „assistent”: een persoon die in het kader van het mandaat van een arbiter voor die arbiter onderzoek verricht of ondersteunende taken uitvoert;
-
-- e. „klagende partij”: de partij die krachtens [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.5&z=2019-06-30&g=2019-06-30) (Inleiding van arbitrageprocedure) om de instelling van een arbitragepanel verzoekt;
-
-- f. „dag”: een kalenderdag;
-
-- g. „partij waartegen de klacht gericht is”: de partij ten aanzien waarvan wordt gesteld dat zij de in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=1&artikel=3.2&z=2019-06-30&g=2019-06-30) (Toepassingsgebied) bedoelde bepalingen heeft geschonden;
-
-- h. „procedure” tenzij anders gespecificeerd: een geschillenbeslechtingsprocedure voor een arbitragepanel overeenkomstig [hoofdstuk 3 (Geschillenbeslechting), afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen partijen bij overeenkomst); en
-
-- i. „vertegenwoordiger van een partij”: een persoon in dienst van of aangewezen door een ministerie, een overheidsdienst of een ander overheidsorgaan van een partij bij de overeenkomst, die de partij bij de overeenkomst met betrekking tot een geschil op het gebied van deze overeenkomst vertegenwoordigt.
-
-2. De partij waartegen de klacht gericht is, is belast met de logistieke organisatie van de hoorzittingen, tenzij anders wordt overeengekomen. De partijen delen de kosten voor organisatorische aangelegenheden, met inbegrip van de honoraria en de kosten van de arbiters.
-
-##### Kennisgevingen
-
-3. Elke partij en het arbitragepanel zenden alle verzoeken, mededelingen, schriftelijke stukken of andere documenten per e-mail toe aan de andere partij en, wat de schriftelijke stukken en verzoeken in het kader van arbitrage betreft, aan elk van de arbiters. Het arbitragepanel doet de partijen eveneens per e-mail stukken toekomen. Een e-mailbericht wordt geacht te zijn ontvangen op de datum van verzending, tenzij wordt aangetoond dat dit niet het geval is. Indien de bewijsstukken groter zijn dan tien megabyte, worden zij binnen twee dagen na de datum van verzending van de e-mail in een ander elektronisch formaat aan de andere partij en, indien van toepassing, aan elk van de arbiters verstrekt.
-
-4. Een kopie van de overeenkomstig punt 3 toegezonden documenten wordt op de dag van verzending van die e-mail per fax, aangetekende post of koeriersdienst verzonden dan wel tegen ontvangstbewijs afgegeven aan of met een ander telecommunicatiemiddel waarbij de verzending wordt geregistreerd, ingediend bij de andere partij en, indien van toepassing, bij elk van de arbiters.
-
-5. Kennisgevingen worden respectievelijk gericht aan het Ministerie van Planning en Investeringen van Vietnam en aan het directoraat-generaal Handel van de Europese Commissie.
-
-6. Kleine verschrijvingen in verzoeken, mededelingen, schriftelijke stukken of andere documenten in verband met de procedure bij het arbitragepanel kunnen worden verbeterd door indiening van een nieuw document, waarin de wijzigingen duidelijk zijn aangegeven.
-
-7. Indien de laatste dag waarop een document kan worden ingediend, op een zaterdag, zondag of officiële feest- of rustdag van Vietnam of van de Unie valt, wordt het document geacht binnen de termijn te zijn afgeleverd indien het document op de volgende werkdag wordt afgeleverd.
-
-##### Aanvang van arbitrage
-
-8. Indien een arbiter overeenkomstig [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) en de punten 22, 23 en 49 door middel van loting wordt aangewezen, vindt de loting plaats op een door de klagende partij bepaald tijdstip en bepaalde plaats die onverwijld moeten worden medegedeeld aan de partij waartegen de klacht gericht is. De partij waartegen de klacht gericht is, kan desgewenst bij de loting aanwezig zijn. In elk geval vindt de loting plaats in tegenwoordigheid van de partij/de partijen die daarbij aanwezig is/zijn.
-
-9. Indien een arbiter overeenkomstig [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) en de punten 22, 23 en 49 door middel van loting wordt aangewezen en er twee voorzitters zijn van het Comité, vindt de loting plaats door beide voorzitters of hun vertegenwoordigers dan wel enkel door één voorzitter wanneer de andere voorzitter of diens vertegenwoordiger niet bereid is aan de loting deel te nemen.
-
-10. De partijen stellen de geselecteerde arbiters in kennis van hun benoeming.
-
-11. Arbiters die volgens de procedure van [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) zijn benoemd, bevestigen binnen vijf dagen na de datum waarop zij van hun benoeming op de hoogte zijn gebracht aan het Comité of zij beschikbaar zijn om als arbiter te fungeren.
-
-12. De honoraria en de onkostenvergoedingen van de arbiters moeten in overeenstemming zijn met de WTO-normen. De bezoldiging van de assistent van een arbiter mag niet meer bedragen dan 50 % van de honoraria van die arbiter.
-
-13. De partijen stellen het arbitragepanel binnen drie dagen na hun overeenkomst in kennis van de in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.6&z=2019-06-30&g=2019-06-30) (Taakomschrijving van arbitragepanel) bedoelde taakomschrijving van het arbitragepanel.
-
-##### Schriftelijke opmerkingen
-
-14. Uiterlijk twintig dagen na de datum van instelling van het arbitragepanel dient de klagende partij haar schriftelijke stuk in. Uiterlijk twintig dagen na de datum van ontvangst van het schriftelijke stuk van de klagende partij dient de partij waartegen de klacht gericht is haar schriftelijke verweer in.
-
-##### Werkwijze van arbitragepanels
-
-15. De voorzitter van het arbitragepanel zit alle bijeenkomsten van het panel voor. Een arbitragepanel kan de bevoegdheid tot het nemen van administratieve en procedurele besluiten aan de voorzitter delegeren.
-
-16. Tenzij in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&z=2019-06-30&g=2019-06-30) (Geschillenbeslechting) anders is bepaald, kan het arbitragepanel bij zijn werkzaamheden alle communicatiemiddelen gebruiken, waaronder telefoon-, fax- en computerverbindingen.
-
-17. Het opstellen van uitspraken is een exclusieve bevoegdheid van het arbitragepanel, die niet mag worden gedelegeerd.
-
-18. Wanneer een procedurele vraag rijst die niet valt onder [hoofdstuk 3 (Geschillenbeslechting), afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen partijen bij overeenkomst), en de [bijlagen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=7&z=2019-06-30&g=2019-06-30) (Reglement van orde), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=8&z=2019-06-30&g=2019-06-30) (Gedragscode voor arbiters en bemiddelaars) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=9&z=2019-06-30&g=2019-06-30) (Bemiddelingsmechanisme), kan het arbitragepanel na overleg met de partijen een geschikte procedure vaststellen die in overeenstemming is met die bepalingen.
-
-19. Wanneer het arbitragepanel van oordeel is dat andere procedurele termijnen dan die welke zijn vastgesteld in [hoofdstuk 3 (Geschillenbeslechting), afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen partijen bij overeenkomst) moeten worden gewijzigd of dat een andere procedurele of administratieve aanpassing nodig is, stelt het de partijen schriftelijk in kennis van de redenen voor de wijziging of aanpassing, onder vermelding van de vereiste termijn of aanpassing.
-
-##### Vervanging
-
-20. Indien een arbiter niet aan de arbitrageprocedure kan deelnemen, zich terugtrekt of moet worden vervangen omdat hij niet voldoet aan de vereisten van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=8&z=2019-06-30&g=2019-06-30) (Gedragscode voor arbiters en bemiddelaars), wordt een vervanger aangewezen overeenkomstig [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) en de punten 8 tot en met 11.
-
-21. Wanneer een partij meent dat een arbiter niet voldoet aan de vereisten van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=8&z=2019-06-30&g=2019-06-30) (Gedragscode voor arbiters en bemiddelaars) en om die reden moet worden vervangen, deelt zij dit de andere partij mede binnen vijftien dagen na de datum waarop zij bewijs heeft verkregen van de omstandigheden die ten grondslag liggen aan de wezenlijke schending van bijlage 8 (Gedragscode voor arbiters en bemiddelaars) door de arbiter.
-
-22. Wanneer een partij meent dat een andere arbiter dan de voorzitter niet voldoet aan de vereisten van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=8&z=2019-06-30&g=2019-06-30) (Gedragscode voor arbiters en bemiddelaars) en om die reden moet worden vervangen, voeren de partijen overleg; indien zij het daarover eens worden, wijzen zij overeenkomstig [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) en de punten 8 tot en met 11 een nieuwe arbiter aan.
-
-Indien de partijen het niet eens worden over de vraag of een arbiter moet worden vervangen, kan elke partij verzoeken deze aangelegenheid voor te leggen aan de voorzitter van het arbitragepanel, wiens beslissing definitief is.
-
-Indien de voorzitter na een daartoe strekkend verzoek vaststelt dat een arbiter niet voldoet aan de vereisten van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=8&z=2019-06-30&g=2019-06-30) (Gedragscode voor arbiters en bemiddelaars) en om die reden moet worden vervangen, wordt de nieuwe arbiter aangewezen overeenkomstig [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) en de punten 8 tot en met 11.
-
-23. Wanneer een partij meent dat de voorzitter van het arbitragepanel niet voldoet aan de vereisten van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=8&z=2019-06-30&g=2019-06-30) (Gedragscode voor arbiters en bemiddelaars) en om die reden moet worden vervangen, voeren de partijen overleg; indien zij het daarover eens worden, wijzen zij overeenkomstig [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) en de punten 8 tot en met 11 een nieuwe voorzitter aan.
-
-Indien de partijen het niet eens worden over de vraag of de voorzitter moet worden vervangen, kan een partij verzoeken die aangelegenheid voor te leggen aan een van de overige personen op de krachtens [artikel 3.23 (Lijst van arbiters), lid 1, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=4&artikel=3.23&z=2019-06-30&g=2019-06-30), vastgestelde sublijst van voorzitters. De naam van die persoon wordt door middel van loting geselecteerd door de voorzitter van het Comité of diens vertegenwoordiger. De beslissing van deze persoon over de noodzaak tot vervanging van de voorzitter is definitief.
-
-Indien die persoon beslist dat de oorspronkelijke voorzitter niet voldoet aan de vereisten van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=8&z=2019-06-30&g=2019-06-30) (Gedragscode voor arbiters en bemiddelaars) en om die reden moet worden vervangen, wijst die persoon door loting een nieuwe voorzitter aan uit de overige personen op de krachtens [artikel 3.23 (Lijst van arbiters), lid 1, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=4&artikel=3.23&z=2019-06-30&g=2019-06-30), vastgestelde sublijst van voorzitters. De nieuwe voorzitter wordt aangewezen binnen vijf dagen na de datum van indiening van het in dit punt bedoelde besluit.
-
-24. De procedure voor het arbitragepanel wordt geschorst zolang de procedures bedoeld in de punten 21 tot en met 23 lopen.
-
-##### Hoorzittingen
-
-25. De voorzitter van het arbitragepanel stelt in overleg met de partijen en de arbiters de datum en het tijdstip van de hoorzitting vast. De voorzitter geeft de partijen schriftelijk bevestiging van de datum en het tijdstip. Tenzij de hoorzitting achter gesloten deuren plaatsvindt, wordt deze informatie door de partij die met de logistieke organisatie van de procedure is belast, tevens openbaar gemaakt. Tenzij een van de partijen hier bezwaar tegen heeft, kan het arbitragepanel besluiten geen hoorzitting te organiseren.
-
-26. Het arbitragepanel kan aanvullende hoorzittingen organiseren indien de partijen zulks overeenkomen.
-
-27. Gedurende de hoorzittingen zijn alle arbiters aanwezig.
-
-28. De volgende personen kunnen een hoorzitting bijwonen, ongeacht of de procedure openstaat voor het publiek:
-
-- a. vertegenwoordigers van de partijen;
-
-- b. adviseurs van de partijen;
-
-- c. deskundigen;
-
-- d. administratief personeel, tolken, vertalers en notulisten; en
-
-- e. assistenten van de arbiters.
-
-29. Alleen de vertegenwoordigers en adviseurs van de partijen en deskundigen kunnen het woord tot het arbitragepanel richten.
-
-30. Uiterlijk vijf dagen voor de datum van een hoorzitting verstrekt elke partij het arbitragepanel een lijst met de namen van de personen die namens die partij op de hoorzitting pleidooien of uiteenzettingen zullen houden en van andere vertegenwoordigers of adviseurs die de hoorzitting zullen bijwonen.
-
-31. Het arbitragepanel leidt de hoorzitting in de volgende volgorde, waarbij ervoor wordt gezorgd dat de klagende partij en de partij waartegen de klacht is gericht, evenveel tijd krijgen toegewezen:
-
-Pleidooien
-
-- a. pleidooi van de klagende partij;
-
-- b. pleidooi van de partij waartegen de klacht gericht is.
-
-Weerlegging
-
-- a. antwoord van de klagende partij;
-
-- b. repliek van de partij waartegen de klacht gericht is.
-
-32. Het arbitragepanel kan de partijen of de deskundigen op elk ogenblik van de hoorzitting vragen stellen.
-
-33. Het arbitragepanel ziet erop toe dat van elke hoorzitting een proces-verbaal wordt opgemaakt, dat zo spoedig mogelijk aan de partijen wordt verstrekt. De partijen kunnen opmerkingen maken over het proces-verbaal, die door het arbitragepanel in overweging kunnen worden genomen.
-
-34. Binnen tien dagen na de datum van de hoorzitting kan elke partij een aanvullend schriftelijk stuk indienen over alle aspecten die tijdens de hoorzitting aan de orde zijn gekomen.
-
-##### Schriftelijke vragen
-
-35. Het arbitragepanel kan op elk ogenblik van de procedure schriftelijke vragen tot een of beide partijen richten. Elke partij ontvangt een kopie van de vragen van het arbitragepanel.
-
-36. Een partij verstrekt de andere partij een kopie van haar schriftelijke antwoord op de vragen van het arbitragepanel. Elke partij krijgt de gelegenheid om binnen vijf dagen na de datum van ontvangst van het antwoord van de andere partij schriftelijke opmerkingen daarover maken.
-
-##### Vertrouwelijkheid
-
-37. Elke partij en haar adviseurs behandelen informatie die aan het arbitragepanel is voorgelegd en door de andere partij als vertrouwelijk is aangemerkt, vertrouwelijk. Wanneer een partij bij het arbitragepanel een vertrouwelijke versie van haar schriftelijke stukken indient, verstrekt zij op verzoek van de andere partij uiterlijk vijftien dagen na de datum van het verzoek of, indien dit later is, na de datum van indiening van de stukken, tevens een niet-vertrouwelijke samenvatting van de stukken, die openbaar mag worden gemaakt, en geeft zij aan waarom de niet-openbaar gemaakte informatie vertrouwelijk is. Niets in dit reglement belet dat een partij haar eigen standpunten openbaar maakt voor zover zij, wanneer zij naar door de andere partij verstrekte informatie verwijst, geen informatie openbaar maakt die door de andere partij als vertrouwelijk is aangemerkt. Het arbitragepanel komt achter gesloten deuren bijeen wanneer de stukken en pleidooien van een partij vertrouwelijke informatie bevatten. Wanneer een hoorzitting van het arbitragepanel achter gesloten deuren plaatsvindt, respecteren de partijen en hun adviseurs het vertrouwelijke karakter van de hoorzitting.
-
-##### Eenzijdige contacten
-
-38. Het arbitragepanel ontmoet een partij niet of communiceert niet met een partij in afwezigheid van de andere partij.
-
-39. Een arbiter mag geen aspecten van de inhoud van de procedure met een of beide partijen bespreken in afwezigheid van de andere arbiters.
-
-##### Bijdragen van amici curiae
-
-40. Tenzij de partijen binnen drie dagen na de datum van instelling van het arbitragepanel anders overeenkomen, kan het arbitragepanel ongevraagde schriftelijke stukken van op het grondgebied van een partij gevestigde natuurlijke of rechtspersonen die onafhankelijk van de regeringen van de partijen zijn, in ontvangst nemen, op voorwaarde dat deze stukken binnen tien dagen na de datum van instelling van het arbitragepanel worden ingediend, beknopt zijn, in elk geval niet meer dan vijftien met dubbele regelafstand getypte bladzijden tellen en direct van belang zijn voor een feitelijke of juridische kwestie die door het arbitragepanel wordt onderzocht.
-
-41. De schriftelijke bijdragen bevatten een beschrijving van de natuurlijke of rechtspersoon die het stuk indient, met inbegrip van zijn nationaliteit of plaats van vestiging, de aard van zijn activiteiten, zijn rechtsvorm, zijn algemene doelstellingen en zijn financieringsbron, en vermelden nadere gegevens over het belang dat de persoon heeft bij de arbitrageprocedure. De stukken worden opgesteld in de talen die de partijen overeenkomstig de punten 44 en 45 hebben gekozen.
-
-42. Het arbitragepanel vermeldt in zijn uitspraak alle stukken die het overeenkomstig de punten 40 en 41 heeft ontvangen. Het arbitragepanel is niet verplicht in zijn uitspraak op de in die stukken naar voren gebrachte argumenten in te gaan. De stukken worden verstrekt aan de partijen, zodat zij hierover opmerkingen kunnen maken. De opmerkingen van de partijen worden binnen tien dagen ingediend en worden door het arbitragepanel in overweging genomen.
-
-##### Dringende gevallen
-
-43. In dringende gevallen als bedoeld in [hoofdstuk 3 (Geschillenbeslechting), afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen partijen bij overeenkomst) kan het arbitragepanel de in deze regels vastgestelde termijnen na raadpleging van de partijen zo nodig aanpassen, in welk geval het de partijen hiervan in kennis stelt.
-
-##### Vertaling en vertolking
-
-44. Tijdens het in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=2&artikel=3.3&z=2019-06-30&g=2019-06-30) (Overleg) bedoelde overleg, en uiterlijk op de datum van de in [artikel 3.8 (Geschillenbeslechtingsprocedures van arbitragepanel), lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.8&z=2019-06-30&g=2019-06-30), bedoelde bijeenkomst, proberen de partijen tot overeenstemming te komen over een gemeenschappelijke werktaal voor de procedure voor het arbitragepanel.
-
-45. Indien de partijen niet tot overeenstemming komen over een gemeenschappelijke werktaal, dient elke partij haar schriftelijke stukken in in de door haar gekozen taal, die een van de werktalen van de WTO moet zijn.
-
-46. Uitspraken van het arbitragepanel worden gedaan in de door de partijen gekozen taal of talen.
-
-47. Elke partij kan opmerkingen maken over de nauwkeurigheid van een overeenkomstig deze regels gemaakte vertaling van een document.
-
-48. Eventuele kosten voor het vertalen van een uitspraak van het arbitragepanel worden gelijkelijk door de partijen gedragen.
-
-##### Andere procedures
-
-49. Deze regels zijn ook van toepassing op procedures uit hoofde van de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=2&artikel=3.3&z=2019-06-30&g=2019-06-30) (Overleg), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.13&z=2019-06-30&g=2019-06-30) (Redelijke termijn voor naleving), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.14&z=2019-06-30&g=2019-06-30) (Nieuw onderzoek van maatregelen tot naleving van eindverslag), 3.15 (Tijdelijke maatregelen bij niet-naleving) en 3.16 (Onderzoek van nalevingsmaatregelen getroffen na vaststelling van tijdelijke maatregelen tegen niet-naleving). De in dit reglement vermelde termijnen worden vervangen door de bijzondere termijnen welke in die procedures voor de vaststelling van een uitspraak door het arbitragepanel zijn bepaald.
-
-##### Definities
-
-1. Voor de toepassing van deze gedragscode wordt verstaan onder:
-
-- a. „arbiter”: een lid van een krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) ingesteld arbitragepanel;
-
-- b. „assistent”: een persoon die in het kader van het mandaat van een arbiter voor die arbiter onderzoek verricht of ondersteunende taken uitvoert;
-
-- c. „kandidaat”: een persoon wiens naam voorkomt op de in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=4&artikel=3.23&z=2019-06-30&g=2019-06-30) (Lijst van arbiters) bedoelde lijst van arbiters en wiens aanwijzing als lid van een arbitragepanel overeenkomstig [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=3&artikel=3.7&z=2019-06-30&g=2019-06-30) (Instelling van arbitragepanel) wordt overwogen;
-
-- d. „bemiddelaar”: een persoon die een bemiddelingsprocedure overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=9&z=2019-06-30&g=2019-06-30) (Bemiddelingsmechanisme) leidt;
-
-- e. „procedure”: tenzij anders gespecificeerd, een geschillenbeslechtingsprocedure voor een arbitragepanel overeenkomstig [hoofdstuk 3 (Geschillenbeslechting), afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen partijen bij overeenkomst); en
-
-- f. „personeel”: met betrekking tot een arbiter, andere personen dan assistenten die onder de leiding en het toezicht van die arbiter werkzaam zijn.
-
-##### Verantwoordelijkheden
-
-2. Kandidaten en arbiters vermijden laakbaar gedrag en de schijn van laakbaar gedrag, zijn onafhankelijk en onpartijdig, vermijden directe en indirecte belangenconflicten en nemen bij hun gedrag de hoogste normen in acht, teneinde de integriteit en onpartijdigheid van het geschillenbeslechtingsmechanisme te garanderen. Voormalige arbiters leven de verplichtingen in de punten 15 tot en met 18 van deze gedragscode na.
-
-##### Openbaarmakingsplicht
-
-3. Voorafgaand aan de benoeming als arbiter op grond van [hoofdstuk 3 (Geschillenbeslechting), afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen partijen bij overeenkomst) geven de kandidaten opening van zaken over alle belangen, relaties of aangelegenheden die van invloed kunnen zijn op hun onafhankelijkheid of onpartijdigheid, of waarvan redelijkerwijs kan worden aangenomen dat daardoor de schijn van laakbaar gedrag of partijdigheid in de procedure wordt gewekt. Daartoe stellen de kandidaten alles in het werk wat redelijkerwijs in hun vermogen ligt om na te gaan of er sprake is van dergelijke belangen, relaties of aangelegenheden.
-
-4. Kandidaten of arbiters richten schriftelijke mededelingen betreffende feitelijke of mogelijke schendingen van deze gedragscode tot het Comité, ter overweging door de partijen.
-
-5. Na hun benoeming blijven arbiters alles in het werk stellen wat redelijkerwijs in hun vermogen ligt om na te gaan of er sprake is van de in punt 3 van deze gedragscode bedoelde belangen, relaties of aangelegenheden en maken zij deze in voorkomend geval openbaar door het Comité daarvan schriftelijk in kennis te stellen, ter overweging door de partijen. Op grond van de verplichting tot openbaarmaking zijn arbiters voortdurend gehouden dergelijke belangen, relaties en aangelegenheden openbaar te maken wanneer deze zich tijdens de procedure voordoen.
-
-##### Taken van arbiters
-
-6. Gedurende de gehele procedure zijn arbiters beschikbaar voor en kwijten zich nauwgezet, snel en op billijke wijze van hun taken.
-
-7. De arbiters onderzoeken uitsluitend vragen die in de procedure aan de orde worden gesteld en voor de uitspraak noodzakelijk zijn en delegeren deze taak niet aan een andere persoon.
-
-8. De arbiters nemen alle nodige maatregelen om ervoor te zorgen dat hun assistenten en personeel bekend zijn met de punten 2, 3, 4, 5, 16, 17 en 18 van deze gedragscode en deze naleven.
-
-9. De arbiters onthouden zich van eenzijdige contacten in verband met de procedure.
-
-##### Onafhankelijkheid en onpartijdigheid van arbiters
-
-10. De arbiters vermijden de schijn van partijdigheid en laten zich niet leiden door eigenbelang, druk van buitenaf, politieke overwegingen, publieke protesten, loyaliteit aan een partij of vrees voor kritiek.
-
-11. De arbiters gaan direct noch indirect verplichtingen aan en aanvaarden geen voordelen die op welke wijze dan ook de goede uitoefening van hun taken zou verstoren of lijken te verstoren.
-
-12. De arbiters gebruiken hun positie als lid van het arbitragepanel niet om persoonlijke of particuliere belangen te dienen en onthouden zich van handelingen die de indruk kunnen wekken dat anderen in een bijzondere positie verkeren waardoor zij invloed op hen kunnen uitoefenen.
-
-13. De arbiters laten hun gedrag of oordeel niet beïnvloeden door financiële, zakelijke, professionele, persoonlijke of sociale relaties of verantwoordelijkheden.
-
-14. De arbiters gaan geen relaties aan en verwerven geen financiële belangen die hun onpartijdigheid in het gedrang kunnen brengen of wanneer redelijkerwijs kan worden aangenomen dat daardoor de schijn van laakbaar gedrag of partijdigheid wordt gewekt.
-
-##### Verplichtingen van voormalige arbiters
-
-15. Alle voormalige arbiters onthouden zich van handelingen die de schijn kunnen wekken dat zij bij de uitvoering van hun taken niet onpartijdig waren of dat zij voordeel hebben ontleend aan de besluiten of uitspraken van het arbitragepanel.
-
-##### Vertrouwelijkheid
-
-16. De arbiters of voormalige arbiters mogen op geen enkel ogenblik niet-openbare, een procedure betreffende of tijdens een procedure verkregen informatie openbaar maken of gebruiken, behalve ten behoeve van die procedure, en mogen deze informatie in geen geval openbaar maken of gebruiken om persoonlijk voordeel te behalen, anderen voordeel te verschaffen of de belangen van anderen ongunstig te beïnvloeden.
-
-17. De arbiters mogen uitspraken van het arbitragepanel of delen daarvan niet openbaar maken voordat zij overeenkomstig [hoofdstuk 3 (Geschillenbeslechting), afdeling A](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen partijen bij overeenkomst), worden bekendgemaakt.
-
-18. De arbiters of voormalige arbiters maken op geen enkel tijdstip informatie over de beraadslagingen van het arbitragepanel of over het standpunt van een arbiter openbaar.
-
-##### Kosten
-
-19. Elke arbiter houdt de aan de procedure bestede tijd en de hiervoor gedane uitgaven, alsmede de door hun assistenten en personeel hieraan bestede tijd en hiervoor gedane uitgaven, bij en legt hiervan een eindafrekening over.
-
-##### Bemiddelaars
-
-20. Deze gedragscode is **mutatis mutandis** van toepassing op bemiddelaars.
-
-##### Artikel 1. Doelstelling
-
-Deze bijlage heeft tot doel te bevorderen dat door middel van de in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=2&artikel=3.4&z=2019-06-30&g=2019-06-30) (Bemiddelingsmechanisme) bedoelde alomvattende en snelle procedure en met behulp van een bemiddelaar onderling overeengekomen oplossingen worden bereikt.
-
-### AFDELING A. BEMIDDELINGSPROCEDURE
-
-##### Artikel 2. Verzoek om informatie
-
-1. Vóór de inleiding van de bemiddelingsprocedure kan een partij te allen tijde en schriftelijk verzoeken om informatie over een maatregel die de investeringen tussen de partijen ongunstig beïnvloedt. De partij waaraan het verzoek gericht is, verstrekt binnen twintig dagen een schriftelijk antwoord dat haar opmerkingen over de informatie in het verzoek bevat.
-
-2. Wanneer de partij waaraan het verzoek gericht is van mening is dat een antwoord binnen twintig dagen niet haalbaar is, brengt zij de verzoekende partij op de hoogte van de redenen voor de vertraging, en geeft zij haar een inschatting van de kortst mogelijke termijn waarbinnen zij zal kunnen antwoorden.
-
-##### Artikel 3. Inleiding van bemiddelingsprocedure
-
-1. Een partij kan te allen tijde verzoeken dat de andere partij deelneemt aan een bemiddelingsprocedure. Een dergelijk verzoek wordt aan de andere partij schriftelijk gedaan. Het verzoek bevat voldoende details om de zorgen van de verzoekende partij daarin duidelijk tot uitdrukking te laten komen en:
-
-- a. vermeldt om welke specifieke maatregel het gaat;
-
-- b. bevat een verklaring inzake de vermeende ongunstige gevolgen voor de investeringen tussen de partijen die de maatregel volgens de verzoekende partij heeft of zou kunnen hebben; en
-
-- c. legt uit wat volgens de verzoekende partij het verband tussen die gevolgen en de maatregel is.
-
-2. De bemiddelingsprocedure kan alleen met wederzijdse instemming van de partijen worden ingeleid. De partij waaraan een verzoek op grond van lid 1 gericht is, neemt dit in welwillende overweging en antwoordt binnen tien dagen na de datum van ontvangst ervan met een schriftelijke inwilliging of afwijzing.
-
-##### Artikel 4. Keuze van bemiddelaar
-
-1. Na de inleiding van de bemiddelingsprocedure streven de partijen ernaar om uiterlijk vijftien dagen na de datum van ontvangst van het in artikel 3 (Inleiding van bemiddelingsprocedure), lid 2, van deze bijlage bedoelde antwoord op het verzoek overeenstemming over een bemiddelaar te bereiken.
-
-2. Indien de partijen binnen de in lid 1 vastgestelde termijn geen overeenstemming kunnen bereiken over een bemiddelaar, kan elk van de partijen de voorzitter van het Comité, of zijn vertegenwoordiger, verzoeken de bemiddelaar door middel van loting te selecteren uit de overeenkomstig [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=4&artikel=3.23&z=2019-06-30&g=2019-06-30) (Lijst van arbiters) opgestelde lijst. De vertegenwoordigers van de partijen worden tijdig uitgenodigd om bij de loting aanwezig te zijn. In elk geval vindt de loting plaats in tegenwoordigheid van de partij of de partijen die daarbij aanwezig is/zijn.
-
-3. De voorzitter van het Comité of diens vertegenwoordiger wijst binnen vijf werkdagen na het in lid 2 bedoelde antwoord van een partij de bemiddelaar aan.
-
-4. Indien de in [artikel 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=A&paragraaf=4&artikel=3.23&z=2019-06-30&g=2019-06-30) (Lijst van arbiters) bedoelde lijst op het tijdstip van indiening van een verzoek als bedoeld in artikel 3 (Inleiding van bemiddelingsprocedure) van deze bijlage niet is opgesteld, wordt de bemiddelaar door middel van loting geselecteerd uit de personen die door een van de partijen of door beide partijen formeel zijn voorgedragen.
-
-5. Een bemiddelaar mag geen onderdaan van een van de partijen zijn, tenzij de partijen anders overeenkomen.
-
-6. De bemiddelaar is de partijen op onpartijdige en transparante wijze behulpzaam bij het scheppen van duidelijkheid over de maatregel en de mogelijke gevolgen ervan voor investeringen, en bij het bereiken van een onderling overeengekomen oplossing. [Bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=8&z=2019-06-30&g=2019-06-30) (Gedragscode voor arbiters en bemiddelaars) is **mutatis mutandis** van toepassing op bemiddelaars. De punten 3 tot en met 7 (Kennisgevingen) en 44 tot en met 48 (Vertaling en vertolking) van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=7&z=2019-06-30&g=2019-06-30) (Reglement van orde) zijn **mutatis mutandis** van toepassing.
-
-##### Artikel 5. Regels voor bemiddelingsprocedure
-
-1. Binnen tien dagen na de datum van aanstelling van de bemiddelaar legt de partij die de bemiddelingsprocedure heeft ingeleid, schriftelijk een gedetailleerde beschrijving van het probleem voor aan de bemiddelaar en de andere partij, in het bijzonder van de werking van de maatregel in kwestie en de gevolgen daarvan voor investeringen. Binnen twintig dagen na de datum van indiening van deze beschrijving kan de andere partij schriftelijk opmerkingen over de beschrijving van het probleem indienen. Elke partij mag in haar beschrijving of opmerkingen alle door haar relevant geachte informatie opnemen.
-
-2. De bemiddelaar kan bepalen wat de meest geschikte wijze is om duidelijkheid te scheppen over de betrokken maatregel en de mogelijke gevolgen ervan voor investeringen. Hij kan met name bijeenkomsten tussen de partijen organiseren, de partijen gezamenlijk of afzonderlijk raadplegen, verzoeken om bijstand van of overleg plegen met deskundigen en belanghebbenden op het betrokken gebied alsmede aanvullende ondersteuning bieden waarom de partijen hebben verzocht. Alvorens om bijstand van deskundigen en belanghebbenden op het betrokken gebied te verzoeken of overleg met hen te plegen, overlegt de bemiddelaar met de partijen.
-
-3. De bemiddelaar kan advies aanbieden en een oplossing voorstellen ter overweging door de partijen, die de voorgestelde oplossing kunnen aanvaarden of afwijzen dan wel het over een andere oplossing eens kunnen worden. De bemiddelaar onthoudt zich van advies of opmerkingen over de verenigbaarheid van de maatregel in kwestie met de bepalingen van deze overeenkomst.
-
-4. De bemiddelingsprocedure vindt plaats op het grondgebied van de partij waaraan het verzoek gericht is, of op enige andere locatie of op enige andere wijze waarover onderling overeenstemming is bereikt.
-
-5. De partijen trachten binnen zestig dagen na de aanwijzing van een bemiddelaar een onderling overeengekomen oplossing te vinden. Zolang geen definitieve overeenstemming is bereikt, kunnen de partijen eventuele tussentijdse oplossingen overwegen, met name wanneer de maatregel betrekking heeft op bederfelijke waren.
-
-6. De oplossing kan worden goedgekeurd door middel van een besluit van het Comité. Elke partij kan een dergelijke oplossing afhankelijk maken van de voltooiing van de nodige interne procedures. Onderling overeengekomen oplossingen worden openbaar gemaakt. De openbaar gemaakte versie mag geen informatie bevatten die door een partij als vertrouwelijk is aangemerkt.
-
-7. Op verzoek van de partijen legt de bemiddelaar de partijen een schriftelijk ontwerp van feitenverslag voor, dat een korte samenvatting bevat van:
-
-- a. de maatregel waarop de bemiddelingsprocedure betrekking heeft;
-
-- b. de gevolgde procedure; en
-
-- c. in voorkomend geval, de onderling overeengekomen oplossing waartoe de bemiddelingsprocedure uiteindelijk heeft geleid, met inbegrip van eventuele tussentijdse oplossingen.
-
-De bemiddelaar biedt de partijen vijftien dagen de gelegenheid om hun opmerkingen over het ontwerp van feitenverslag kenbaar te maken. Na bestudering van de binnen die termijn ingediende opmerkingen van de partijen legt de bemiddelaar de partijen binnen vijftien dagen schriftelijk een definitief feitenverslag voor. Het feitenverslag mag geen interpretatie van deze overeenkomst bevatten.
-
-8. De bemiddelingsprocedure wordt beëindigd door:
-
-- a. de goedkeuring van een door de partijen onderling overeengekomen oplossing, op de datum van goedkeuring ervan;
-
-- b. onderlinge overeenstemming van de partijen in de loop van de bemiddelingsprocedure, op de datum waarop die overeenstemming is bereikt;
-
-- c. een schriftelijke verklaring van de bemiddelaar, na overleg met de partijen, dat verdere bemiddelingsinspanningen geen nut hebben, op de datum van die verklaring; of
-
-- d. een schriftelijke verklaring van een partij nadat onderling overeengekomen oplossingen in de bemiddelingsprocedure zijn onderzocht en adviezen en voorgestelde oplossingen van de bemiddelaar in overweging zijn genomen, op de datum van die verklaring.
-
-### AFDELING B. TENUITVOERLEGGING
-
-##### Artikel 6. Tenuitvoerlegging van onderling overeengekomen oplossing
-
-1. Wanneer de partijen overeenstemming over een oplossing hebben bereikt, neemt elke partij de maatregelen die noodzakelijk zijn om de onderling overeengekomen oplossing binnen de overeengekomen termijn ten uitvoer te leggen.
-
-2. De tenuitvoerleggende partij stelt de andere partij schriftelijk in kennis van alle stappen of maatregelen die zij voor de tenuitvoerlegging van de onderling overeengekomen oplossing heeft ondernomen respectievelijk getroffen.
-
-### AFDELING C. ALGEMENE BEPALINGEN
-
-##### Artikel 7. Vertrouwelijkheid en verhouding tot geschillenbeslechting
-
-1. Tenzij de partijen anders overeenkomen en onverminderd het bepaalde in [artikel 5 (Regels voor bemiddelingsprocedure), lid 6, van deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=9&afdeling=A&artikel=5&z=2019-06-30&g=2019-06-30), zijn alle fasen van de bemiddelingsprocedure, met inbegrip van adviezen of voorgestelde oplossingen, vertrouwelijk. Elke partij mag echter openbaar maken dat bemiddeling plaatsvindt.
-
-2. De bemiddelingsprocedure laat de rechten en verplichtingen van de partijen uit hoofde van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&z=2019-06-30&g=2019-06-30) (Geschillenbeslechting) of van enige andere overeenkomst onverlet.
-
-3. Overleg uit hoofde van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&z=2019-06-30&g=2019-06-30) (Geschillenbeslechting) alvorens de bemiddelingsprocedure wordt ingeleid, is niet verplicht. Een partij moet evenwel zelf een beroep doen op de andere bepalingen van deze overeenkomst inzake samenwerking of overleg voordat de bemiddelingsprocedure wordt ingeleid.
-
-4. Een partij mag zich in andere geschillenbeslechtingsprocedures in het kader van deze overeenkomst of enige andere overeenkomst niet baseren op of niet als bewijs gebruiken en een panel mag geen rekening houden met:
-
-- a. door de andere partij in de bemiddelingsprocedure ingenomen standpunten of in het kader van [artikel 5 (Regels voor bemiddelingsprocedure), lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=9&afdeling=A&artikel=5&z=2019-06-30&g=2019-06-30), van deze bijlage verzamelde informatie;
-
-- b. het feit dat de andere partij zich bereid heeft verklaard een oplossing te aanvaarden voor de maatregel waarop de bemiddeling betrekking had; of
-
-- c. door de bemiddelaar gedane voorstellen of gegeven adviezen.
-
-5. Bemiddelaars mogen niet fungeren als arbiter of lid van een panel in een geschillenbeslechtingsprocedure uit hoofde van deze overeenkomst of de [WTO-overeenkomst](onbekend) met betrekking tot een aangelegenheid waarin zij hebben bemiddeld.
-
-##### Artikel 8. Termijnen
-
-Alle in deze bijlage vermelde termijnen kunnen met wederzijdse instemming van de partijen worden gewijzigd.
-
-##### Artikel 9. Kosten
-
-1. Elke partij draagt haar eigen kosten in verband met deelname aan de bemiddelingsprocedure.
-
-2. De partijen dragen gezamenlijk en elk voor een gelijk deel de kosten voor organisatorische aangelegenheden, met inbegrip van de honoraria en de kosten van de bemiddelaar. Het honorarium van de bemiddelaar is hetzelfde als het honorarium dat overeenkomstig bijlage 7 (Reglement van orde), punt 12, is voorzien voor de voorzitter van een arbitragepanel.
-
-##### Artikel 1. Doelstelling
-
-Het bemiddelingsmechanisme heeft tot doel te bevorderen dat door middel van een in [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=2&artikel=3.31&z=2019-06-30&g=2019-06-30) (Bemiddeling) bedoelde alomvattende en snelle procedure en met behulp van een bemiddelaar een onderling overeengekomen oplossing wordt bereikt.
-
-### AFDELING A. PROCEDURE IN KADER VAN BEMIDDELINGSMECHANISME
-
-##### Artikel 2. Inleiding van procedure
-
-1. Elke partij bij een geschil kan te allen tijde verzoeken om inleiding van een bemiddelingsprocedure. Een dergelijk verzoek wordt aan de andere partij schriftelijk gedaan.
-
-2. Wanneer het verzoek betrekking heeft op een vermeende schending van deze overeenkomst door de autoriteiten van de Unie of de autoriteiten van een lidstaat van de Unie wordt het gericht tot de verweerder, zoals bepaald overeenkomstig [artikel 3.32](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=3&artikel=3.32&z=2019-06-30&g=2019-06-30) (Bericht van voornemen tot instelling van vordering). Wanneer niet is vastgesteld wie de verweerder is, wordt het verzoek gericht tot de Unie. Indien het verzoek wordt ingewilligd, wordt daarbij bepaald of de Unie of de betrokken lidstaat van de Unie partij is bij de bemiddeling1)Voor alle duidelijkheid: wanneer het verzoek betrekking heeft op behandeling door de Unie, is de Unie partij bij de bemiddelingsprocedure en wordt elke betrokken lidstaat van de Unie volledig bij de bemiddelingsprocedure betrokken. Wanneer het verzoek uitsluitend betrekking heeft op behandeling door een lidstaat van de Unie, is de betrokken lidstaat van de Unie partij bij de bemiddelingsprocedure, tenzij die lidstaat de Unie verzoekt partij bij de bemiddelingsprocedure te zijn..
-
-3. De partij bij het geschil waaraan het verzoek gericht is, neemt het verzoek in welwillende overweging en aanvaardt of verwerpt het schriftelijk binnen 45 dagen of, indien het verzoek wordt ingediend na een verzoek om overleg dat is ingediend overeenkomstig [artikel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=2&artikel=3.30&z=2019-06-30&g=2019-06-30) (Overleg), binnen dertig werkdagen na ontvangst ervan.
-
-4. Het verzoek omvat:
-
-- a. een samenvatting van de meningsverschillen of geschillen, waaronder, in voorkomend geval, een identificatie van de relevante rechtsinstrumenten die volstaan om de kwestie die aanleiding geeft tot het verzoek in kaart te brengen;
-
-- b. de namen en contactgegevens van de verzoekende partij en haar vertegenwoordigers; en
-
-- c. hetzij een verwijzing naar het akkoord om gebruik te maken van bemiddeling of een verzoek aan de andere partij of partijen bij het geschil om gebruik te maken van bemiddeling in het kader van dit bemiddelingsmechanisme.
-
-##### Artikel 3. Keuze van bemiddelaar
-
-1. Indien beide partijen bij het geschil instemmen met een bemiddelingsprocedure, streven de partijen bij het geschil ernaar binnen vijftien werkdagen na de ontvangst van het antwoord op het verzoek overeenstemming te bereiken over de keuze van een bemiddelaar.
-
-2. Indien de partijen bij het geschil binnen de gestelde termijn geen overeenstemming kunnen bereiken over de keuze van de bemiddelaar, kan elke partij bij het geschil de president van het Gerecht verzoeken om door loting een bemiddelaar te selecteren uit de leden van het Gerecht die geen onderdaan zijn van een lidstaat van de Unie noch van Vietnam.
-
-3. De president van het Gerecht wijst binnen vijf werkdagen na het in lid 2 bedoelde verzoek de bemiddelaar aan.
-
-4. De bemiddelaar helpt de partijen bij het geschil op onpartijdige en transparante wijze tot een onderling overeengekomen oplossing te komen.
-
-##### Artikel 4. Regels voor bemiddelingsprocedure
-
-1. Zo spoedig mogelijk na de aanwijzing van de bemiddelaar bespreekt de bemiddelaar met de partijen bij het geschil persoonlijk, per telefoon of door middel van een andere wijze van communicatie:
-
-- a. het verloop van de bemiddeling, met name alle nog uitstaande procedurele kwesties zoals de talen waarin en de plaats waar de bemiddeling zal plaatsvinden;
-
-- b. een voorlopig tijdschema voor het verloop van de bemiddeling;
-
-- c. eventuele juridische verplichtingen tot openbaarmaking die relevant kunnen zijn voor het verloop van de bemiddeling;
-
-- d. of de partijen bij het geschil schriftelijk ermee akkoord wensen te gaan dat zij zolang de bemiddeling loopt, niet beginnen of niet doorgaan met een andere procedure voor de beslechting van meningsverschillen of geschillen waarop de bemiddeling betrekking heeft;
-
-- e. of bijzondere regelingen moeten worden getroffen voor de goedkeuring van een schikking; en
-
-- f. de financiële regelingen, zoals de berekening en de betaling van de honoraria en de kosten van de bemiddelaar overeenkomstig artikel 8 (Kosten) van deze bijlage.
-
-2. De bemiddelaar kan bepalen wat de meest geschikte wijze is om duidelijkheid te scheppen over de maatregel in kwestie. Hij kan met name bijeenkomsten tussen de partijen bij het geschil organiseren, de partijen bij het geschil gezamenlijk of afzonderlijk raadplegen, verzoeken om bijstand van of overleg plegen met deskundigen en belanghebbenden op het betrokken gebied alsmede aanvullende ondersteuning bieden waarom de partijen bij het geschil hebben verzocht. Alvorens om bijstand van deskundigen en belanghebbenden op het betrokken gebied te verzoeken of overleg met hen te plegen, overlegt de bemiddelaar evenwel met de partijen bij het geschil.
-
-3. De bemiddelaar kan advies aanbieden en een oplossing voorstellen ter overweging door de partijen bij het geschil, die de voorgestelde oplossing kunnen aanvaarden of afwijzen dan wel het over een andere oplossing eens kunnen worden. De bemiddelaar onthoudt zich evenwel van advies of opmerkingen over de verenigbaarheid van de maatregel in kwestie met deze overeenkomst.
-
-4. De procedure vindt plaats op het grondgebied van de betrokken partij, of op enige andere locatie of op enige andere wijze waarover onderling overeenstemming is bereikt.
-
-5. Onverminderd lid 1, onder b), streven de partijen bij het geschil ernaar binnen zestig dagen na de aanwijzing van de bemiddelaar tot een onderling overeengekomen oplossing te komen. Zolang geen definitieve overeenstemming is bereikt, kunnen de partijen bij het geschil eventuele tussentijdse oplossingen overwegen.
-
-6. Wanneer zij optreden als partij bij een bemiddelingsprocedure mogen de Unie, een lidstaat van de Unie of Vietnam onderling overeengekomen oplossingen openbaar maken, behoudens informatie die als vertrouwelijk of beschermd is aangemerkt.
-
-7. De procedure wordt beëindigd door:
-
-- a. de goedkeuring van een door de partijen bij het geschil onderling overeengekomen oplossing, op de datum van goedkeuring;
-
-- b. een schriftelijke verklaring van de bemiddelaar, na overleg met de partijen bij het geschil, dat verdere bemiddelingsinspanningen geen nut hebben; of
-
-- c. de schriftelijke opzegging door een partij bij het geschil.
-
-### AFDELING B. TENUITVOERLEGGING
-
-##### Artikel 5. Tenuitvoerlegging van onderling overeengekomen oplossing
-
-1. Wanneer overeenstemming over een oplossing is bereikt, streeft elke partij bij het geschil ernaar de maatregelen te nemen die noodzakelijk zijn om de onderling overeengekomen oplossing binnen de overeengekomen termijn ten uitvoer te leggen.
-
-2. De tenuitvoerleggende partij bij het geschil stelt de andere partij bij het geschil schriftelijk in kennis van alle stappen of maatregelen die zij voor de tenuitvoerlegging van de onderling overeengekomen oplossing heeft ondernomen respectievelijk getroffen.
-
-3. Op verzoek van de partijen bij het geschil legt de bemiddelaar de partijen bij het geschil een schriftelijk ontwerp van feitenverslag voor, dat een korte samenvatting bevat van:
-
-- a. de maatregel waarop de procedure betrekking heeft;
-
-- b. de gevolgde procedure; en
-
-- c. in voorkomend geval, de onderling overeengekomen oplossing waartoe die procedure uiteindelijk heeft geleid, met inbegrip van eventuele tussentijdse oplossingen.
-
-4. De bemiddelaar biedt de partijen bij het geschil vijftien werkdagen de gelegenheid om hun opmerkingen over het ontwerp van feitenverslag kenbaar te maken. Na bestudering van de binnen die termijn ingediende opmerkingen van de partijen bij het geschil legt de bemiddelaar de partijen bij het geschil binnen vijftien werkdagen schriftelijk een definitief feitenverslag voor. Het feitenverslag mag geen interpretatie van deze overeenkomst bevatten.
-
-### AFDELING C. ALGEMENE BEPALINGEN
-
-##### Artikel 6. Verhouding tot geschillenbeslechting
-
-1. De procedure in het kader van dit bemiddelingsmechanisme is niet bedoeld om als basis voor geschillenbeslechtingsprocedures in het kader van deze of enige andere overeenkomst te dienen. Een partij bij het geschil mag zich in dergelijke geschillenbeslechtingsprocedures niet beroepen op of niet als bewijs gebruiken en een orgaan dat een uitspraak doet mag geen rekening houden met:
-
-- a. door een partij bij het geschil in de bemiddelingsprocedure ingenomen standpunten;
-
-- b. het feit dat een partij bij het geschil zich bereid heeft verklaard een oplossing te aanvaarden voor de maatregel waarop de bemiddeling betrekking had; of
-
-- c. door de bemiddelaar gedane voorstellen of gegeven adviezen.
-
-2. Behoudens een overeenkomst op grond van artikel 4 (Regels voor bemiddelingsprocedure), lid 1, onder d), van deze bijlage, laat het bemiddelingsmechanisme de rechten en verplichtingen van de partijen bij de overeenkomst en de partijen bij het geschil uit hoofde van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&z=2019-06-30&g=2019-06-30) (Geschillenbeslechting) onverlet.
-
-3. Tenzij de partijen bij het geschil anders overeenkomen en onverminderd het bepaalde in artikel 4 (Regels voor bemiddelingsprocedure), lid 6, van deze bijlage, zijn alle fasen van de procedure, met inbegrip van adviezen of voorgestelde oplossingen, vertrouwelijk. Elke partij bij het geschil mag echter openbaar maken dat bemiddeling plaatsvindt.
-
-##### Artikel 7. Termijnen
-
-Alle in deze bijlage vermelde termijnen kunnen met wederzijdse instemming van de partijen bij het geschil worden gewijzigd.
-
-##### Artikel 8. Kosten
-
-1. Elke partij bij het geschil draagt haar eigen kosten in verband met deelname aan de bemiddelingsprocedure.
-
-2. De partijen bij het geschil dragen gezamenlijk en elk voor een gelijk deel de kosten voor organisatorische aangelegenheden, met inbegrip van de honoraria en de kosten van de bemiddelaar. Het honorarium van de bemiddelaar is in overeenstemming met het honorarium waarin [artikel 3.38 (Gerecht), lid 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=4&artikel=3.38&z=2019-06-30&g=2019-06-30), voorziet voor de leden van het Gerecht.
-
-##### Artikel 1. Definities
-
-Voor de toepassing van deze gedragscode wordt verstaan onder:
-
-- a. „lid”: een lid van het op grond van [afdeling B](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&z=2019-06-30&g=2019-06-30) (Beslechting van geschillen tussen investeerders en partijen) ingestelde Gerecht of een lid van de op grond van die afdeling ingestelde Beroepsinstantie;
-
-- b. „bemiddelaar”: een persoon die een bemiddelingsprocedure overeenkomstig [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=2&artikel=3.31&z=2019-06-30&g=2019-06-30) (Bemiddeling) en [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&bijlage=10&z=2019-06-30&g=2019-06-30) (Bemiddelingsmechanisme voor geschillen tussen investeerders en partijen) leidt;
-
-- c. „kandidaat”: een persoon wiens aanwijzing als lid van het Gerecht of van de Beroepsinstantie wordt overwogen;
-
-- d. „assistent”: een persoon die binnen het kader van het mandaat van een lid dat lid bijstaat bij zijn onderzoek of hem ondersteunt bij zijn taken;
-
-- e. „personeel”: met betrekking tot een lid, andere personen dan assistenten die onder zijn leiding en toezicht werkzaam zijn.
-
-##### Artikel 2. Verantwoordelijkheden in kader van procedure
-
-Kandidaten en leden vermijden laakbaar gedrag en de schijn van laakbaar gedrag, zijn onafhankelijk en onpartijdig, en vermijden directe en indirecte belangenconflicten.
-
-##### Artikel 3. Openbaarmakingsplicht
-
-1. Voorafgaand aan hun aanwijzing geven de kandidaten aan de partijen opening van zaken over alle tegenwoordige en vroegere belangen, relaties of aangelegenheden die van invloed kunnen zijn op hun onafhankelijkheid of onpartijdigheid of waarvan redelijkerwijs kan worden aangenomen dat zij de schijn van laakbaar gedrag of partijdigheid zouden kunnen wekken. Daartoe stellen de kandidaten alles in het werk wat redelijkerwijs in hun vermogen ligt om na te gaan of er sprake is van dergelijke belangen, relaties of aangelegenheden.
-
-2. De leden richten mededelingen betreffende feitelijke of mogelijke schendingen van deze gedragscode schriftelijk aan de partijen bij het geschil.
-
-3. De leden blijven te allen tijde alles in het werk stellen wat in hun vermogen ligt om na te gaan of er sprake is van de in lid 1 bedoelde belangen, relaties of aangelegenheden. De leden geven aan de partijen bij het geschil opening van zaken over dergelijke belangen, relaties of aangelegenheden1)Voor alle duidelijkheid: deze verplichting geldt niet voor informatie die reeds openbaar is of aan alle partijen bij het geschil bekend was of redelijkerwijs bekend had moeten zijn..
-
-##### Artikel 4. Taken van leden
-
-1. De leden voeren hun taken gedurende de gehele procedure nauwgezet, snel en naar billijkheid uit.
-
-2. De leden onderzoeken uitsluitend vragen die in de procedure aan de orde worden gesteld en voor de uitspraak noodzakelijk zijn en delegeren deze taak niet aan een andere persoon.
-
-3. De leden nemen alle nodige maatregelen om ervoor te zorgen dat hun assistenten en personeel bekend zijn met de artikelen 2, 3, 5 en 7 van deze gedragscode en deze naleven.
-
-4. De leden mogen geen enkel aspect van de inhoud van de procedure bespreken met een partij bij het geschil of de partijen bij het geschil wanneer de andere leden van de formatie van het Gerecht of de Beroepsinstantie daar niet bij aanwezig zijn.
-
-##### Artikel 5. Onafhankelijkheid en onpartijdigheid van leden
-
-1. De leden zijn onafhankelijk en onpartijdig, vermijden de schijn van laakbaar gedrag of partijdigheid en laten zich niet leiden door eigenbelang, druk van buitenaf, politieke overwegingen, publieke protesten, loyaliteit aan een partij of een partij bij het geschil of vrees voor kritiek.
-
-2. De leden gaan direct noch indirect verplichtingen aan en aanvaarden geen voordelen die op welke wijze dan ook de goede uitvoering van hun taken zouden verstoren of lijken te verstoren.
-
-3. De leden gebruiken hun positie als lid niet om persoonlijke of particuliere belangen te dienen en onthouden zich van handelingen die de indruk kunnen wekken dat anderen in een bijzondere positie verkeren waardoor zij invloed op hen kunnen uitoefenen.
-
-4. De leden laten hun gedrag of oordeel niet beïnvloeden door financiële, zakelijke, professionele, familiale of sociale relaties of taken.
-
-5. De leden gaan geen relaties aan en verwerven geen financiële belangen die hun onpartijdigheid in het gedrang kunnen brengen of wanneer redelijkerwijs kan worden aangenomen dat daardoor de schijn van laakbaar gedrag of partijdigheid wordt gewekt2)Voor alle duidelijkheid: het feit dat een lid een inkomen ontvangt van een overheid of een familieband heeft met een persoon die een inkomen ontvangt van de overheid wordt op zich niet geacht in te druisen tegen de leden 2 en 5..
-
-##### Artikel 6. Verplichtingen van voormalige leden
-
-1. Alle voormalige leden onthouden zich van handelingen die de schijn kunnen wekken dat zij bij de uitvoering van hun taken niet onpartijdig waren of dat zij voordeel hebben ontleend aan de beslissingen of uitspraken van het Gerecht of van de Beroepsinstantie.
-
-2. Onverminderd [artikel 3.38 (Gerecht), lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=4&artikel=3.38&z=2019-06-30&g=2019-06-30), en [artikel 3.39 (Beroepsinstantie), lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=4&artikel=3.39&z=2019-06-30&g=2019-06-30), verbinden de leden zich ertoe om na afloop van hun mandaat op geen enkele wijze deel te nemen aan:
-
-- a. investeringsgeschillen die vóór afloop van hun mandaat aanhangig waren bij het Gerecht of bij de Beroepsinstantie;
-
-- b. investeringsgeschillen die zij als lid van het Gerecht of de Beroepsinstantie hebben behandeld en andere geschillen die feiten gemeen hebben met dergelijke geschillen of die voortvloeien uit dezelfde gebeurtenissen en omstandigheden als die geschillen.
-
-3. De leden verbinden zich ertoe om gedurende een periode van drie jaar na afloop van hun mandaat niet op te treden als vertegenwoordiger van een van de partijen bij investeringsgeschillen die aanhangig zijn bij het Gerecht of bij de Beroepsinstantie.
-
-4. Indien de president van het Gerecht of van de Beroepsinstantie ervan in kennis wordt gesteld of anderszins verneemt dat een voormalig lid van het Gerecht of van de Beroepsinstantie zou hebben gehandeld in strijd met de verplichtingen als bedoeld in de leden 1 tot en met 3, onderzoekt de president van het Gerecht of van de Beroepsinstantie, naargelang het geval, de aangelegenheid, stelt hij het voormalige lid in de gelegenheid te worden gehoord, en geeft hij na verificatie daarvan kennis aan:
-
-- a. de beroepsorde of een vergelijkbare instantie waarbij het voormalige lid is aangesloten;
-
-- b. de partijen; en
-
-- c. de president van enig ander relevant investeringsgerecht of enige andere relevante investeringsberoepsinstantie met het oog op het treffen van passende maatregelen.
-
-De president van het Gerecht of van de Beroepsinstantie maakt zijn besluit tot het nemen van onder a) tot en met c) bedoelde maatregelen en de motivering daarvan openbaar.
-
-##### Artikel 7. Vertrouwelijkheid
-
-1. De leden en voormalige leden mogen op geen enkel ogenblik niet-openbare, een procedure betreffende of tijdens de procedure verkregen informatie openbaar maken of gebruiken, behalve ten behoeve van de procedure, en mogen deze informatie in geen geval openbaar maken of gebruiken om persoonlijk voordeel te behalen, anderen voordeel te verschaffen of de belangen van anderen ongunstig te beïnvloeden.
-
-2. De leden mogen beslissingen of uitspraken dan wel delen daarvan niet openbaar maken voordat zij overeenkomstig de transparantiebepalingen van [artikel 3.46](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=5&artikel=3.46&z=2019-06-30&g=2019-06-30) (Transparantie van procedure) worden bekendgemaakt.
-
-3. De leden en voormalige leden mogen op geen enkel tijdstip informatie over de beraadslagingen van het Gerecht of de Beroepsinstantie of over het standpunt van een lid, wat dat ook moge zijn, openbaar maken.
-
-##### Artikel 8. Kosten
-
-De leden houden de aan de procedure bestede tijd en de hiervoor gedane uitgaven bij en leggen hiervan een eindafrekening over.
-
-##### Artikel 9. Bemiddelaars
-
-De in deze gedragscode beschreven voorschriften voor leden of voormalige leden zijn **mutatis mutandis** van toepassing op bemiddelaars.
-
-##### Artikel 10. Raadgevend Panel
-
-1. De president van het Gerecht en de president van de Beroepsinstantie worden bijgestaan door een Raadgevend Panel ter waarborging van de juiste toepassing van deze gedragscode en [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBV0006837&hoofdstuk=3&afdeling=B&paragraaf=4&artikel=3.40&z=2019-06-30&g=2019-06-30) (Gedragscode) en met het oog op de uitvoering van enige andere taak, indien daarin is voorzien.
-
-2. Het Raadgevend Panel bestaat uit de respectieve vicepresidenten en de twee oudste leden van het Gerecht of van de Beroepsinstantie.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze overeenkomst hebben ondertekend.
 

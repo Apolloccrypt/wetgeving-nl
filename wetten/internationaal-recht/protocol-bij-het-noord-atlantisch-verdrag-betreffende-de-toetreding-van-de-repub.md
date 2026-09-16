@@ -1,54 +1,31 @@
 ---
 title: "Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Finland"
 identifier: "BWBV0006962"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-04-04"
-last_updated: "2022-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006962"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005611493"
-version_id: "10006163142"
-internal_id: "C10009983821"
-label_id: "10005593324"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006962/2023-04-04/0"
-intitule_bron: "Trb.2022-58"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-07-05"
-intitule_in_force: "2023-04-24"
-intitule_status: "goed"
-original_publication: "Trb.2022-58"
-original_published_date: "2022-07-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2022-58"
-entry_into_force_date: "2023-04-04"
-jci_1_3: "jci1.3:c:BWBV0006962&z=2023-04-04&g=2023-04-04"
-jci_1_0: "1.0:c:BWBV0006962&g=2023-04-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-04-04"
+publicatiedatum: 2023-04-04
+laatste_update: 2023-04-04
+status: geldig
+toestand: 2023-04-04
+bron: "https://wetten.overheid.nl/BWBV0006962"
+opgehaald: 2026-09-16
 ---
+
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Finland
 
-De Partijen bij het op 4 april 1949 te Washington ondertekende [Noord-Atlantisch Verdrag](onbekend),
+*The Parties to the North Atlantic Treaty, signed at Washington on April 4, 1949, Being satisfied that the security of the North Atlantic area will be enhanced by the accession of the Republic of Finland to that Treaty, Agree as follows:*
 
-Ervan overtuigd dat de veiligheid van het Noord-Atlantisch gebied door de toetreding van de Republiek Finland tot dat Verdrag verhoogd zal worden,
+##### Article I
 
-Komen als volgt overeen:
+Upon the entry into force of this Protocol, the Secretary General of the North Atlantic Treaty Organisation shall, on behalf of all the Parties, communicate to the Government of the Republic of Finland an invitation to accede to the [North Atlantic Treaty](https://wetten.overheid.nl/BWBV0005760). In accordance with [Article 10 of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0005760&artikel=10), the Republic of Finland shall become a Party on the date when it deposits its instrument of accession with the Government of the United States of America.
 
-##### Artikel I
+##### Article II
 
-Bij de inwerkingtreding van dit Protocol zal de Secretaris-Generaal van de Noord-Atlantische Verdragsorganisatie uit naam van alle Partijen aan de Regering van de Republiek Finland een uitnodiging doen toekomen tot het [Noord-Atlantisch Verdrag](onbekend) toe te treden. In overeenstemming met [artikel 10 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760&artikel=10) wordt de Republiek Finland Partij op de dag waarop het een akte van toetreding nederlegt bij de Regering van de Verenigde Staten van Amerika.
+The present Protocol shall enter into force when each of the Parties to the [North Atlantic Treaty](https://wetten.overheid.nl/BWBV0005760) has notified the Government of the United States of America of its acceptance thereof. The Government of the United States of America shall inform all the Parties to the North Atlantic Treaty of the date of receipt of each such notification and of the date of the entry into force of the present Protocol.
 
-##### Artikel II
+##### Article III
 
-Dit Protocol treedt in werking wanneer elk van de Partijen bij het [Noord-Atlantisch Verdrag](onbekend) aan de Regering van de Verenigde Staten van Amerika mededeling hebben gedaan dat zij het Protocol aanvaarden. De Regering van de Verenigde Staten van Amerika stelt alle Partijen bij het Noord-Atlantisch Verdrag in kennis van de datum van ontvangst van iedere mededeling van aanvaarding en van de datum van inwerkingtreding van dit Protocol.
-
-##### Artikel III
-
-Dit Protocol, waarvan de Engelse en de Franse tekst gelijkelijk authentiek zijn, wordt in het archief van de Regering van de Verenigde Staten van Amerika nedergelegd. Naar behoren gewaarmerkte afschriften worden door die Regering aan de Regeringen van alle Partijen bij het [Noord-Atlantisch Verdrag](onbekend) toegezonden.
+The present Protocol, of which the English and French texts are equally authentic, shall be deposited in the Archives of the Government of the United States of America. Duly certified copies thereof shall be transmitted by that Government to the Governments of all the Parties to the [North Atlantic Treaty](https://wetten.overheid.nl/BWBV0005760).
 
 IN WITNESS WHEREOF, the undersigned plenipotentiaries have signed the present Protocol.
 

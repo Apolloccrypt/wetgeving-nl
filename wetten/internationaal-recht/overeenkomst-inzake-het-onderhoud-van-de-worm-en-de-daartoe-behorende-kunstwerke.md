@@ -1,40 +1,19 @@
 ---
 title: "Overeenkomst inzake het onderhoud van de Worm en de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied"
 identifier: "BWBV0006105"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-01-06"
-last_updated: "1994-01-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006105"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005035433"
-version_id: "10005362432"
-internal_id: "C10008255751"
-label_id: "10005018434"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006105/1994-01-06/0"
-intitule_bron: "Trb.1993-165"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1993-11-16"
-intitule_in_force: "2013-02-06"
-intitule_status: "goed"
-original_publication: "Trb.1993-165"
-original_published_date: "1993-11-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1993-165"
-entry_into_force_date: "1994-01-06"
-jci_1_3: "jci1.3:c:BWBV0006105&z=1994-01-06&g=1994-01-06"
-jci_1_0: "1.0:c:BWBV0006105&g=1994-01-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "1994-01-06"
+publicatiedatum: 1994-01-06
+laatste_update: 1994-01-06
+status: geldig
+toestand: 1994-01-06
+bron: "https://wetten.overheid.nl/BWBV0006105"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst inzake het onderhoud van de Worm en de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied
 
-Het Wasserverband Obere Wurm, gevestigd te Aken, vertegenwoordigd door de voorzitter Dr. Berger en het Wasserverband Mittlere Wurm, gevestigd te Geilenkirchen, vertegenwoordigd door de voorzitter de Heer Houben, enerzijds, en het Waterschap Roer en Overmaas, gevestigd te Sittard, vertegenwoordigd door de plaatsvervangende voorzitter W. Bos, anderzijds, verder Partijen genoemd,
-
-sluiten, gelet op [Hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten Grensverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005042&artikel=59), de volgende Overeenkomst:
+*Het Wasserverband Obere Wurm, gevestigd te Aken, vertegenwoordigd door de voorzitter Dr. Berger en het Wasserverband Mittlere Wurm, gevestigd te Geilenkirchen, vertegenwoordigd door de voorzitter de Heer Houben, enerzijds, en het Waterschap Roer en Overmaas, gevestigd te Sittard, vertegenwoordigd door de plaatsvervangende voorzitter W. Bos, anderzijds, verder Partijen genoemd, sluiten, gelet op Hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten Grensverdrag, de volgende Overeenkomst:*
 
 ##### Artikel 1
 
@@ -130,7 +109,7 @@ OPGEMAAKT te Sittard, dd. 29 september 1992.
 
 In vier originele exemplaren, ieder in de Nederlandse en Duitse taal, waarbij beide teksten gelijkelijk bindend zijn.
 
-**voor het Waterschap Roer en Overmaas**
+*voor het Waterschap Roer en Overmaas*
 
 (w.g.) W. BOS
 
@@ -138,7 +117,7 @@ In vier originele exemplaren, ieder in de Nederlandse en Duitse taal, waarbij be
 
 Plv. Voorzitter
 
-**voor het Wasserverband Obere Wurm**
+*voor het Wasserverband Obere Wurm*
 
 (w.g.) Dr. BERGER
 
@@ -146,7 +125,7 @@ Plv. Voorzitter
 
 Voorzitter
 
-**voor het Wasserverband Mittlere Wurm**
+*voor het Wasserverband Mittlere Wurm*
 
 (w.g.) HOUBEN
 

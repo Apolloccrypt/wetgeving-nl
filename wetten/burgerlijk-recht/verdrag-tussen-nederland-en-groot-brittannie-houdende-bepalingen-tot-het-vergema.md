@@ -1,62 +1,19 @@
 ---
 title: "Verdrag tussen Nederland en Groot-Brittannië, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken"
 identifier: "BWBV0006132"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-08-01"
-last_updated: "2014-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006132"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10005044193"
-version_id: "10005375732"
-internal_id: "C10008365251"
-label_id: "10005027214"
-dtd_version: "2.0"
-original_entry_into_force: "1933-07-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006132/2014-08-01/0"
-intitule_bron: "Stb.1933-364"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1933-07-12"
-intitule_published: "1933-07-21"
-intitule_in_force: "1966-12-29"
-intitule_status: "goed"
-original_publication: "Stb.1933-364"
-original_signed_date: "1933-07-12"
-original_published_date: "1933-07-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1933-07-29"
-jci_1_3: "jci1.3:c:BWBV0006132&z=2014-08-01&g=2014-08-01"
-jci_1_0: "1.0:c:BWBV0006132&g=2014-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "1933-07-12"
-entry_into_force: "1933-07-29"
+publicatiedatum: 1933-07-29
+laatste_update: 2014-08-01
+status: geldig
+toestand: 2014-08-01
+bron: "https://wetten.overheid.nl/BWBV0006132"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen Nederland en Groot-Brittannië, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken
 
-Hare Majesteit de Koningin der Nederlanden,
-
-en
-
-Zijne Majesteit de Koning van Groot-Britannië, Ierland en de Britsche Overzeesche Gewesten, Keizer van Indië,
-
-wenschende binnen hun wederzijdsch grondgebied het voeren van rechtsgedingen in burgerlijke en handelszaken, die bij hunne rechterlijke autoriteiten aanhangig zijn of vermoedelijk zullen worden, wederzijds te vergemakkelijken;
-
-Hebben besloten te dien einde een Verdrag te sluiten en hebben tot hunne gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Jonkheer R. de Marees van Swinderen, Ridder-Grootkruis in de Orde van Oranje-Nassau, Commandeur in de Orde van den Nederlandschen Leeuw, Ridder-Grootkruis in de Victoria-Orde, Hoogst Derzelver Buitengewoon Gezant en Gevolmachtigd Minister te Londen;
-
-en
-
-Zijne Majesteit de Koning van Groot-Britannië, Ierland en de Britsche Overzeesche Gewesten, Keizer van Indië:
-
-Voor Groot-Britannië en Noord-Ierland:
-
-The Right Honourable Sir John Allsebrook Simon, G.C.S.I., K.C.V.O., O.B.E., K.C., M.P., Hoogst Deszelfs Eersten Staatssecretaris voor Buitenlandsche Zaken;
-
-die, na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden, en Zijne Majesteit de Koning van Groot-Britannië, Ierland en de Britsche Overzeesche Gewesten, Keizer van Indië, wenschende binnen hun wederzijdsch grondgebied het voeren van rechtsgedingen in burgerlijke en handelszaken, die bij hunne rechterlijke autoriteiten aanhangig zijn of vermoedelijk zullen worden, wederzijds te vergemakkelijken; Hebben besloten te dien einde een Verdrag te sluiten en hebben tot hunne gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: Jonkheer R. de Marees van Swinderen, Ridder-Grootkruis in de Orde van Oranje-Nassau, Commandeur in de Orde van den Nederlandschen Leeuw, Ridder-Grootkruis in de Victoria-Orde, Hoogst Derzelver Buitengewoon Gezant en Gevolmachtigd Minister te Londen; en Zijne Majesteit de Koning van Groot-Britannië, Ierland en de Britsche Overzeesche Gewesten, Keizer van Indië: Voor Groot-Britannië en Noord-Ierland: The Right Honourable Sir John Allsebrook Simon, G.C.S.I., K.C.V.O., O.B.E., K.C., M.P., Hoogst Deszelfs Eersten Staatssecretaris voor Buitenlandsche Zaken; die, na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, zijn overeengekomen als volgt:*
 
 ### I. Inleidende bepalingen.
 
@@ -82,7 +39,7 @@ De aanvrage om mededeeling bevat, ingeval de mede te deelen stukken uitgaan van 
 
 (c). De mede te deelen stukken worden hetzij gesteld in de taal van het land, in hetwelk de mededeeling moet geschieden, hetzij vergezeld van eene vertaling in genoemde taal. Deze vertaling moet voor eensluidend verklaard zijn door een diplomatieken of consulairen ambtenaar der Hooge Verdragsluitende Partij, uit wier grondgebied de stukken afkomstig zijn.
 
-(d). **Aanvragen om mededeling worden gericht en gezonden:**
+(d). *Aanvragen om mededeling worden gericht en gezonden:*
 
 In het Koninkrijk der Nederlanden aan:
 
@@ -104,15 +61,15 @@ Indien de autoriteit aan wie een aanvraag om mededeling is gezonden, niet bevoeg
 
 (a). Door de bepalingen van de artikelen 2 en 3 wordt geen inbreuk gemaakt op de bevoegdheid om binnen het grondgebied van elk der Hooge Verdragsluitende Partijen zonder eenige aanvrage aan, of tusschenkomst van de autoriteiten van het land, alwaar de mededeeling geschiedt, zich te bedienen van een der na te melden wijzen van mededeeling van gerechtelijke en buitengerechtelijke stukken:
 
-- (1). Mededeeling door een consulairen ambtenaar der Hooge Verdragsluitende Partij, uit wier grondgebied de stukken afkomstig zijn;
+- (1) Mededeeling door een consulairen ambtenaar der Hooge Verdragsluitende Partij, uit wier grondgebied de stukken afkomstig zijn;
 
-- (2). Mededeeling door een gemachtigde, daartoe aangewezen hetzij door de rechterlijke autoriteit, door wie de mededeeling van de stukken wordt verlangd, hetzij door de partij, van wie het verzoek om mededeeling van de stukken is uitgegaan;
+- (2) Mededeeling door een gemachtigde, daartoe aangewezen hetzij door de rechterlijke autoriteit, door wie de mededeeling van de stukken wordt verlangd, hetzij door de partij, van wie het verzoek om mededeeling van de stukken is uitgegaan;
 
-- (3). Mededeeling door deurwaarders of andere bevoegde ambtenaren van het land, waar de stukken moeten worden medegedeeld, handelende rechtstreeks ten verzoeke van de partij van wie het verzoek om mededeeling van de stukken is uitgegaan;
+- (3) Mededeeling door deurwaarders of andere bevoegde ambtenaren van het land, waar de stukken moeten worden medegedeeld, handelende rechtstreeks ten verzoeke van de partij van wie het verzoek om mededeeling van de stukken is uitgegaan;
 
-- (4). Toezending over de post;
+- (4) Toezending over de post;
 
-- (5). Elke andere wijze van mededeeling toegelaten volgens het recht geldende ten tijde dier mededeeling in het land van hetwelk de stukken afkomstig zijn.
+- (5) Elke andere wijze van mededeeling toegelaten volgens het recht geldende ten tijde dier mededeeling in het land van hetwelk de stukken afkomstig zijn.
 
 (b). Alles met dien verstande, dat de geldigheid en de gevolgen van elke dezer wijzen van mededeeling blijven te beoordeelen naar het recht van ieder der Hooge Verdragsluitende Partij.
 
@@ -124,7 +81,7 @@ Indien de autoriteit aan wie een aanvraag om mededeling is gezonden, niet bevoeg
 
 (b). Telkens wanneer overeenkomstig de bepalingen van artikel 3 stukken zijn medegedeeld, zal de Hooge Verdragsluitende Partij, door wier Consulairen Ambtenaar de aanvrage om mededeeling is gedaan, aan de andere Hooge Verdragsluitende Partij betalen alle vergoedingen of kosten, verschuldigd krachtens het recht van het land alwaar de mededeeling is gedaan, aan de personen, die daarbij hunne diensten hebben verleend, alsmede alle vergoedingen en kosten veroorzaakt door het doen van de mededeeling in een bijzonderen vorm. Deze vergoedingen en kosten worden berekend met inachtneming van de tarieven, geldende voor de onderdanen van het land, alwaar de mededeeling is gedaan.
 
-(c). De terugbetaling van deze vergoedingen en kosten kan, tegelijk met het toezenden van het bij artikel 3 (**g**) bedoelde bewijsstuk, door de bevoegde autoriteit, door wier zorgen de mededeeling is geschied, worden gevorderd van den Consulairen Ambtenaar, door wien de aanvrage is gedaan.
+(c). De terugbetaling van deze vergoedingen en kosten kan, tegelijk met het toezenden van het bij artikel 3 (*g*) bedoelde bewijsstuk, door de bevoegde autoriteit, door wier zorgen de mededeeling is geschied, worden gevorderd van den Consulairen Ambtenaar, door wien de aanvrage is gedaan.
 
 ### III. Bewijslevering.
 
@@ -146,9 +103,9 @@ Indien de autoriteit aan wie een aanvraag om mededeling is gezonden, niet bevoeg
 
 - In het Koninkrijk der Nederlanden door een Brits consulair ambtenaar aan:
 
-- - voor wat het deel van het Koninkrijk gelegen in Europa betreft, de rechtbank binnen wier rechtsgebied de getuigen of de meerderheid van de getuigen woonachtig zijn, of, indien de namen en adressen van de getuigen niet zijn opgegeven, aan de rechtbank ’s-Gravenhage;
+   - - voor wat het deel van het Koninkrijk gelegen in Europa betreft, de rechtbank binnen wier rechtsgebied de getuigen of de meerderheid van de getuigen woonachtig zijn, of, indien de namen en adressen van de getuigen niet zijn opgegeven, aan de rechtbank ’s-Gravenhage;
 
-- - voor wat de delen van het Koninkrijk gelegen buiten Europa betreft, het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
+   - - voor wat de delen van het Koninkrijk gelegen buiten Europa betreft, het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
 Indien de autoriteit aan wie de rogatoire commissie is overgemaakt, niet bevoegd is daaraan gevolg te geven, draagt zij de rogatoire commissie ambtshalve zonder enig verder verzoek aan de bevoegde autoriteit van haar eigen land over.
 
@@ -158,9 +115,9 @@ Indien de autoriteit aan wie de rogatoire commissie is overgemaakt, niet bevoegd
 
 (f). De uitvoering van de rogatoire commissie kan slechts geweigerd worden:
 
-- (1). indien in het land, waar de bewijslevering moet plaats vinden, de uitvoering van de betrokken rogatoire commissie niet behoort tot de bevoegdheden van de rechterlijke macht;
+- (1) indien in het land, waar de bewijslevering moet plaats vinden, de uitvoering van de betrokken rogatoire commissie niet behoort tot de bevoegdheden van de rechterlijke macht;
 
-- (2). indien de Hooge Verdragsluitende Partij, binnen wier grondgebied de bewijslevering moet plaats vinden, mocht oordeelen, dat de uitvoering haar souvereiniteit of haar veiligheid in gevaar zoude kunnen brengen.
+- (2) indien de Hooge Verdragsluitende Partij, binnen wier grondgebied de bewijslevering moet plaats vinden, mocht oordeelen, dat de uitvoering haar souvereiniteit of haar veiligheid in gevaar zoude kunnen brengen.
 
 (g). In elk geval, waarin de rogatoire commissie door de aangezochte autoriteit niet wordt uitgevoerd, stelt deze onverwijld den consulairen ambtenaar, door wien zij was overgemaakt, daarvan in kennis, met vermelding van de redenen waarom de uitvoering van de rogatoire commissie geweigerd is, of van de autoriteit, aan welke zij is overgedragen.
 
@@ -202,25 +159,25 @@ Het onderhavige Verdrag, welks Engelsche en Nederlandsche teksten gelijkelijk ve
 
 (b). Deze kennisgeving zal eene aanwijzing inhouden van de autoriteiten in het bedoelde gebied, aan wie aanvragen om mededeeling en rogatoire commissies moeten worden overgemaakt, alsmede van de taal waarin mededeelingen moeten worden gedaan en vertalingen moeten worden gemaakt. De uitbreiding zal in werking treden na verloop van drie maanden te rekenen van den datum van kennisgeving.
 
-(c). Ieder der Hooge Verdragsluitende Partijen zal na verloop van drie jaren na het in werking treden van eene uitbreiding van dit Verdrag tot een onder (**a**) van dit artikel bedoeld gebied, die uitbreiding kunnen doen eindigen door middel van eene tenminste zes maanden te voren langs diplomatieken weg gedane opzegging.
+(c). Ieder der Hooge Verdragsluitende Partijen zal na verloop van drie jaren na het in werking treden van eene uitbreiding van dit Verdrag tot een onder (*a*) van dit artikel bedoeld gebied, die uitbreiding kunnen doen eindigen door middel van eene tenminste zes maanden te voren langs diplomatieken weg gedane opzegging.
 
-(d). De beëindiging van het Verdrag volgens het in artikel 12 bepaalde, zal, tenzij door de Hooge Verdragsluitende Partijen uitdrukkelijk anders is overeengekomen, van rechtswege beëindiging medebrengen ten opzichte van eenig gebied tot hetwelk de werking van het Verdrag volgens het onder (**a**) van dit artikel bepaalde, is uitgebreid.
+(d). De beëindiging van het Verdrag volgens het in artikel 12 bepaalde, zal, tenzij door de Hooge Verdragsluitende Partijen uitdrukkelijk anders is overeengekomen, van rechtswege beëindiging medebrengen ten opzichte van eenig gebied tot hetwelk de werking van het Verdrag volgens het onder (*a*) van dit artikel bepaalde, is uitgebreid.
 
 ##### Artikel 14
 
 (a). Dit Verdrag is niet van rechtswege toepasselijk op eenig overzeesch grondgebied van het Koninkrijk der Nederlanden, doch Hare Majesteit de Koningin der Nederlanden zal te allen tijde zoolang het Verdrag krachtens artikel 12, of uit hoofde van eenige toetreding krachtens artikel 15, van kracht is, de werking van het Verdrag tot eenig overzeesch grondgebied kunnen uitbreiden door middel van eene kennisgeving, gedaan door tusschenkomst van Hoogstderzelver Gezant te Londen.
 
-(b). De bepalingen van paragraaf (**b**) van artikel 13 zijn op deze kennisgeving van toepassing.
+(b). De bepalingen van paragraaf (*b*) van artikel 13 zijn op deze kennisgeving van toepassing.
 
-(c). De bepalingen van de paragrafen (**c**) en (**d**) van artikel 13 zijn van toepassing op elk overzeesch grondgebied van het Koninkrijk der Nederlanden tot hetwelk dit Verdrag zal zijn uitgebreid.
+(c). De bepalingen van de paragrafen (*c*) en (*d*) van artikel 13 zijn van toepassing op elk overzeesch grondgebied van het Koninkrijk der Nederlanden tot hetwelk dit Verdrag zal zijn uitgebreid.
 
 ##### Artikel 15
 
-(a). Zijne Majesteit zal te allen tijde zoolang dit Verdrag, hetzij volgens artikel 12, hetzij door eenige toetreding volgens het onderhavige artikel, van kracht is, tot het Verdrag ten behoeve van een Zijner zelfbesturende Dominions of van Indië kunnen toetreden, door middel eener kennisgeving langs diplomatieken weg, met dien verstande, dat geen kennisgeving van toetreding zal kunnen worden gedaan op een tijdstip, waarop Hare Majesteit de Koningin der Nederlanden het Verdrag mocht hebben opgezegd met betrekking tot alle gebied van Zijne Majesteit, waarop dit Verdrag alsdan van toepassing zal zijn. De bepalingen van artikel 13 (**b**) zijn op deze kennisgeving van toepassing. Iedere zoodanige toetreding zal van kracht worden na verloop van drie maanden na den datum van de te dien opzichte gedane kennisgeving.
+(a). Zijne Majesteit zal te allen tijde zoolang dit Verdrag, hetzij volgens artikel 12, hetzij door eenige toetreding volgens het onderhavige artikel, van kracht is, tot het Verdrag ten behoeve van een Zijner zelfbesturende Dominions of van Indië kunnen toetreden, door middel eener kennisgeving langs diplomatieken weg, met dien verstande, dat geen kennisgeving van toetreding zal kunnen worden gedaan op een tijdstip, waarop Hare Majesteit de Koningin der Nederlanden het Verdrag mocht hebben opgezegd met betrekking tot alle gebied van Zijne Majesteit, waarop dit Verdrag alsdan van toepassing zal zijn. De bepalingen van artikel 13 (*b*) zijn op deze kennisgeving van toepassing. Iedere zoodanige toetreding zal van kracht worden na verloop van drie maanden na den datum van de te dien opzichte gedane kennisgeving.
 
-(b). Na verloop van drie jaren, te rekenen na den datum van het van kracht worden eener toetreding als in paragraaf (**a**) van dit artikel bedoeld, zal ieder der Hooge Verdragsluitende Partijen het Verdrag kunnen opzeggen ten aanzien van eenig gebied betreffende hetwelk eene kennisgeving van toetreding is gedaan, zulks door middel van eene tenminste zes maanden te voren langs diplomatieken weg gezonden mededeeling. De beëindiging van het Verdrag krachtens artikel 12 zal op de toepassing daarvan ten aanzien van eenig zoodanig gebied niet van invloed zijn.
+(b). Na verloop van drie jaren, te rekenen na den datum van het van kracht worden eener toetreding als in paragraaf (*a*) van dit artikel bedoeld, zal ieder der Hooge Verdragsluitende Partijen het Verdrag kunnen opzeggen ten aanzien van eenig gebied betreffende hetwelk eene kennisgeving van toetreding is gedaan, zulks door middel van eene tenminste zes maanden te voren langs diplomatieken weg gezonden mededeeling. De beëindiging van het Verdrag krachtens artikel 12 zal op de toepassing daarvan ten aanzien van eenig zoodanig gebied niet van invloed zijn.
 
-(c). Eene kennisgeving van toetreding krachtens het onder (**a**) van dit artikel bepaalde zal kunnen omvatten elk aanhoorig of mandaatsgebied bestuurd door de Regeering van het gebied ten aanzien waarvan eene kennisgeving van toetreding zal zijn gedaan; de opzegging ten aanzien van eenig gebied gedaan volgens het onder (**b**) bepaalde, zal toepasselijk zijn op elk aanhoorig of mandaatsgebied, hetwelk in de kennisgeving van toetreding ten aanzien van bedoeld gebied begrepen was.
+(c). Eene kennisgeving van toetreding krachtens het onder (*a*) van dit artikel bepaalde zal kunnen omvatten elk aanhoorig of mandaatsgebied bestuurd door de Regeering van het gebied ten aanzien waarvan eene kennisgeving van toetreding zal zijn gedaan; de opzegging ten aanzien van eenig gebied gedaan volgens het onder (*b*) bepaalde, zal toepasselijk zijn op elk aanhoorig of mandaatsgebied, hetwelk in de kennisgeving van toetreding ten aanzien van bedoeld gebied begrepen was.
 
 Ter oorkonde waarvan de ondergeteekenden dit Verdrag in de Nederlandsche en de Engelsche taal hebben geteekend en van hunne zegels voorzien.
 

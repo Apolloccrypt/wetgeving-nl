@@ -1,135 +1,108 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake betaalde werkzaamheden door gezinsleden van diplomatiek en ander personeel van een diplomatieke vertegenwoordiging en/of consulaire post"
 identifier: "BWBV0006937"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-10-01"
-last_updated: "2022-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006937"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005599813"
-version_id: "10006138352"
-internal_id: "C10009912481"
-label_id: "10005581644"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006937/2022-10-01/0"
-intitule_bron: "Trb.2021-150"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-11-12"
-intitule_in_force: "2022-08-19"
-intitule_status: "goed"
-original_publication: "Trb.2021-150"
-original_published_date: "2021-11-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2021-150"
-entry_into_force_date: "2022-10-01"
-jci_1_3: "jci1.3:c:BWBV0006937&z=2022-10-01&g=2022-10-01"
-jci_1_0: "1.0:c:BWBV0006937&g=2022-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-10-01"
+publicatiedatum: 2022-10-01
+laatste_update: 2022-10-01
+status: geldig
+toestand: 2022-10-01
+bron: "https://wetten.overheid.nl/BWBV0006937"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake betaalde werkzaamheden door gezinsleden van diplomatiek en ander personeel van een diplomatieke vertegenwoordiging en/of consulaire post
 
-Het Koninkrijk der Nederlanden
+*The Kingdom of the Netherlands and Ukraine (hereafter referred to individually as “the Party” and jointly as “the Parties”); desirous of improving employment opportunities for family members of diplomatic and other staff of a diplomatic mission or consular post of the sending State on the territory of the receiving State; have agreed as follows:*
 
-en
+##### Article 1. Authorisation to engage in gainful employment
 
-Oekraïne (hierna elk afzonderlijk te noemen „de partij” en tezamen „de partijen”),
+Family members, as defined below, shall be authorised to engage in gainful employment in the receiving State in accordance with the laws and regulations of the receiving State and after obtaining the appropriate authorisation in accordance with the provisions of this Agreement.
 
-geleid door de wens de werkgelegenheidskansen voor gezinsleden van diplomatiek en ander personeel van een diplomatieke vertegenwoordiging en/of consulaire post van de zendstaat op het grondgebied van de ontvangende staat te verbeteren;
+##### Article 2. Definitions
 
-zijn het volgende overeengekomen:
+For the purposes of this Agreement:
 
-##### Artikel 1. Toestemming om betaalde werkzaamheden te verrichten
+- a) “members of the diplomatic mission or consular post” means the head of a diplomatic mission or consular post and the members of the diplomatic, consular, administrative, technical and service staff of a diplomatic mission or consular post of the sending State who carry out duties at those diplomatic missions or consular posts and who are neither nationals of the receiving State nor permanently residing in that State;
 
-Het is gezinsleden, zoals hieronder omschreven, toegestaan betaalde werkzaamheden te verrichten in de ontvangende staat in overeenstemming met de wet- en regelgeving van de ontvangende staat en na het verkrijgen van de desbetreffende toestemming in overeenstemming met de bepalingen van dit Verdrag.
+- b) a “family member” means:
 
-##### Artikel 2. Begripsomschrijvingen
+   - – the spouse of a member of the diplomatic mission or consular post, a person with whom they live in a union treated similarly to marriage under the laws of the sending State or a person with whom they have a cohabitation agreement drawn up by a civil-law notary in so far as the legislation of the sending State allows for such agreements;
 
-Voor de toepassing van dit Verdrag:
+   - – an unmarried financially dependent son or daughter of a member of the diplomatic mission or consular post, who is between the ages of 16 and 27 years and who is following a full-time course of education or study in the receiving State;
 
-- a. wordt verstaan onder „leden van de diplomatieke vertegenwoordiging of consulaire post”: het hoofd van een diplomatieke vertegenwoordiging of consulaire post en de leden van het diplomatieke, consulaire, administratieve, technische en ondersteunende personeel van een diplomatieke vertegenwoordiging of consulaire post van de zendstaat die taken vervullen bij die diplomatieke vertegenwoordigingen of consulaire posten en die noch onderdanen zijn van de ontvangende staat noch permanent in die staat verblijven;
+   - – an unmarried financially dependent son or daughter of a member of the diplomatic mission or consular post, who is considered by the receiving State, on the basis of national regulations, to form part of the household of the member of the diplomatic mission or consular post;
 
-- b. wordt verstaan onder „gezinslid”:
+- c) a son or daughter that engages in full-time gainful employment cannot be considered to be financially dependent;
 
-- –. de echtgenoot/echtgenote van een lid van de diplomatieke vertegenwoordiging of consulaire post, een persoon met wie zij samenleven in een verband dat ingevolge de wetgeving van de zendstaat op dezelfde wijze wordt behandeld als een huwelijk of een persoon met wie zij een notarieel verleden samenlevingsovereenkomst hebben voor zover de wetgeving van de zendstaat in dergelijke overeenkomsten voorziet;
+- d) “gainful employment” means performance of an employment function at the instruction or by the order of an employer under the terms and conditions of a labour agreement (contract) concluded under the rules of law of the receiving State, as well as any other remunerated professional activity, subject to the provisions of [Article 3](https://wetten.overheid.nl/BWBV0006937) of this Agreement.
 
-- –. een ongehuwde, financieel afhankelijke zoon of dochter van een lid van de diplomatieke vertegenwoordiging of consulaire post in de leeftijd tussen 16 en 27 jaar die voltijds onderwijs of een voltijdse studie volgt in de ontvangende staat;
+##### Article 3. Procedure
 
-- –. een ongehuwde, financieel afhankelijke zoon of dochter van een lid van de diplomatieke vertegenwoordiging of consulaire post die door de ontvangende staat op grond van de nationale regelgeving geacht wordt deel uit te maken van het huishouden van het lid van de diplomatieke vertegenwoordiging of consulaire post;
+1. If a family member of a member of the diplomatic mission or consular post wishes to engage in gainful employment under this Agreement in the receiving State, the Embassy of the sending State shall send a written request for authorisation, on the family member’s behalf, to the Protocol Department of the Ministry of Foreign Affairs of the receiving State.
 
-- c. wordt een zoon of dochter die fulltime betaalde werkzaamheden verricht niet financieel afhankelijk geacht;
+2. The request referred to in paragraph 1 of this Article shall establish the full identity of the family member concerned. The request shall be accompanied by a short description of the nature of the gainful employment the family member wishes to engage in.
 
-- d. wordt verstaan onder „betaalde werkzaamheden”: het verrichten van werkzaamheden op instructie of na een opdracht van een werkgever onder de voorwaarden van een arbeidsovereenkomst (contract) die is gesloten krachtens de wetgeving van de ontvangende staat, alsmede elke andere beroepswerkzaamheid die tegen beloning wordt verricht, met inachtneming van de bepalingen van het [derde artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0006937&artikel=3&z=2022-10-01&g=2022-10-01) van dit Verdrag.
+3. Once it has been established that the family member complies with the requirements under this Agreement, and that the applicable procedure has been observed, the Protocol Department of the Ministry of Foreign Affairs of the receiving State shall officially notify the Embassy of the sending State as soon as possible whether the family member can or cannot engage in gainful employment in the territory of the receiving State.
 
-##### Artikel 3. Procedure
+4. Family members are not exempted from the obligation to comply with special qualifications applicable to engaging in certain types of employment. The sending State may not interpret the provisions of this Agreement as conferring a right to engage in a particular profession. It is understood that, in those types of employment in which special qualifications are required, the dependent family member shall meet the rules governing the exercise of these occupations in the receiving State.
 
-1. Indien een gezinslid van een lid van de diplomatieke vertegenwoordiging of consulaire post betaalde werkzaamheden wenst te verrichten uit hoofde van dit Verdrag in de ontvangende staat, stuurt de ambassade van de zendstaat, namens het gezinslid, een schriftelijk verzoek om toestemming aan de Directie Protocol van het ministerie van Buitenlandse Zaken van de ontvangende staat.
+5. Family members may not engage in gainful employment on positions which only nationals of the receiving State are entitled to occupy according to national legislation.
 
-2. In het in het eerste lid van dit artikel bedoelde verzoek wordt de volledige identiteit van het desbetreffende gezinslid vastgesteld. Het verzoek gaat vergezeld van een korte beschrijving van de aard van de betaalde werkzaamheden die het gezinslid wenst te verrichten.
+6. In the Netherlands the authorisation to engage in gainful employment shall be printed on the family member’s identity card.
 
-3. Nadat is vastgesteld dat het gezinslid voldoet aan de vereisten uit hoofde van dit Verdrag en dat de van toepassing zijnde procedure is gevolgd, stelt de Directie Protocol van het ministerie van Buitenlandse Zaken van de ontvangende staat de ambassade van de zendstaat zo spoedig mogelijk officieel in kennis van het feit of het gezinslid al dan niet betaalde werkzaamheden kan verrichten op het grondgebied van de ontvangende staat.
+7. The receiving State may refuse or cancel authorisation to engage in gainful employment if at any time the family member contravenes the immigration or naturalisation laws or the tax laws of the receiving State.
 
-4. Gezinsleden zijn niet vrijgesteld van de verplichting te voldoen aan bijzondere kwalificaties die van toepassing zijn op het verrichten van bepaalde typen werkzaamheden. De bepalingen van dit Verdrag mogen door de zendstaat niet zodanig worden uitgelegd dat hieraan het recht wordt ontleend een bepaald beroep uit te oefenen. Voor die typen werkzaamheden waarvoor bijzondere kwalificaties vereist zijn, dient het afhankelijke gezinslid te voldoen aan de voorschriften ter zake van de uitoefening van deze werkzaamheden in de ontvangende staat.
+##### Article 4. Taxes, social security and labour relations
 
-5. Gezinsleden mogen geen betaalde werkzaamheden verrichten in functies die op grond van de nationale wetgeving uitsluitend zijn voorbehouden aan onderdanen van de ontvangende staat.
+Family members engaged in gainful employment under this Agreement shall observe the labour legislation of the receiving State and shall be subject to the social security regime of the receiving State for all matters connected with their employment in that State. A family member is also obliged to pay, in the receiving State, all taxes on income arising from employment carried out in accordance with this Agreement.
 
-6. In Nederland wordt de toestemming betaalde werkzaamheden te verrichten afgedrukt op de identiteitskaart van het gezinslid.
+##### Article 5. Immunity
 
-7. De ontvangende staat kan de toestemming om betaalde werkzaamheden te verrichten weigeren of intrekken indien het gezinslid op enig moment de wetten omtrent immigratie of naturalisatie of de belastingwetten van de ontvangende staat schendt.
+1. Any family member who is authorised to engage in gainful employment under this Agreement shall observe the laws of the receiving State with respect to the employment concerned.
 
-##### Artikel 4. Belastingen, sociale zekerheid en arbeidsverhoudingen
+2. Family members who engage in gainful employment in accordance with this Agreement are not immune from civil or administrative jurisdiction in respect of any claims brought against them on account of actions related to their gainful activity.
 
-Gezinsleden die betaalde werkzaamheden verrichten uit hoofde van dit Verdrag houden zich aan de arbeidswetgeving van de ontvangende staat en zijn onderworpen aan het socialezekerheidsstelsel van de ontvangende staat ten aanzien van alle aangelegenheden die verband houden met hun werkzaamheden in die staat. Een gezinslid is tevens verplicht in de ontvangende staat alle belastingen naar het inkomen te betalen die voortvloeien uit het verrichten van de werkzaamheden uit hoofde van dit Verdrag.
+3. If the family member enjoys immunity from the criminal jurisdiction of the receiving State on the basis of the [Vienna Convention on Diplomatic Relations of 18 April 1961](https://wetten.overheid.nl/BWBV0004345) and/or any other international agreement by which the Parties are bound, the sending State shall waive the immunity of the family member in question from the criminal jurisdiction of the receiving State in respect of all acts or omissions relating to the gainful employment that they are engaged in, except in special cases in which the sending State considers that such a waiver would be contrary to its interests.
 
-##### Artikel 5. Immuniteit
+4. The waiver of immunity does not cover preventive measures or the execution of a judgment, for which a separate waiver is required. In such cases, the receiving State shall request the sending State in writing to waive such immunity.
 
-1. Een gezinslid dat toestemming heeft verkregen voor het verrichten van betaalde werkzaamheden uit hoofde van dit Verdrag dient zich te houden aan de wetgeving van de ontvangende staat met betrekking tot de desbetreffende werkzaamheden.
+##### Article 6. Ending of authorisation
 
-2. Gezinsleden die betaalde werkzaamheden verrichten in overeenstemming met dit Verdrag genieten geen immuniteit van civielrechtelijke en bestuursrechtelijke rechtsmacht ten aanzien van tegen hen ingestelde vorderingen die verband houden met hun betaalde werkzaamheden.
+1. The Embassy of the sending State shall notify the Protocol Department of the Ministry of Foreign Affairs of the receiving State on changes related to the status of a family member engaged in gainful employment.
 
-3. Indien een gezinslid immuniteit geniet ten aanzien van de rechtsmacht in strafzaken van de ontvangende staat ingevolge het [Verdrag van Wenen inzake diplomatiek verkeer van 18 april 1961](onbekend) en/of ingevolge enige andere internationale overeenkomst die voor de partijen bindend is, doet de zendstaat afstand van de immuniteit van het betrokken gezinslid ten aanzien van de rechtsmacht in strafzaken van de ontvangende staat met betrekking tot elk handelen of nalaten dat verband houdt met de betaalde werkzaamheden die het gezinslid verricht, behalve in bijzondere omstandigheden waarin de zendstaat van mening is dat het doen van afstand in strijd is met zijn belangen.
+2. The authorisation to engage in gainful employment granted to the family member ends
 
-4. Het afstand doen van immuniteit heeft geen betrekking op maatregelen van preventieve aard of de tenuitvoerlegging van een vonnis; daarvoor is afzonderlijk afstand doen van immuniteit noodzakelijk. In dergelijke omstandigheden verzoekt de ontvangende staat de zendstaat schriftelijk afstand te doen van deze immuniteit.
+- a) when the appointment of the member of the diplomatic mission or consular post in question ends or
 
-##### Artikel 6. Vervallen van de toestemming
+- b) when the family member ceases to be a family member in accordance with the definitions under this Agreement.
 
-1. De ambassade van de zendstaat stelt de Directie Protocol van het ministerie van Buitenlandse Zaken van de ontvangende staat in kennis van veranderingen met betrekking tot de status van een gezinslid dat betaalde werkzaamheden verricht.
+3. Any employment engaged in under this Agreement does not entitle the family member to continue to reside in the receiving State. Nor does it entitle the family member to remain in that employment or to engage in different employment in the receiving State once the authorisation under this Agreement has ended.
 
-2. De toestemming voor een gezinslid om betaalde werkzaamheden te verrichten eindigt wanneer:
+##### Article 7. Amendment
 
-- a. de plaatsing van het lid van de diplomatieke vertegenwoordiging of consulaire post in kwestie eindigt of
+1. This Agreement may be amended at the request of either Party by sending the other Party written notice to which the latter Party shall give its written consent within sixty (60) days of receipt of the notice.
 
-- b. het gezinslid niet langer een gezinslid is zoals omschreven in dit Verdrag.
+2. Any amendment(s) made to this Agreement pursuant to the preceding paragraph shall enter into force in accordance with [Article 8](https://wetten.overheid.nl/BWBV0006937) of this Agreement.
 
-3. Uit hoofde van dit Verdrag verrichte werkzaamheden geven het gezinslid niet het recht in de ontvangende staat te blijven wonen. Het gezinslid heeft op grond van deze werkzaamheden evenmin het recht deze werkzaamheden te blijven verrichten of andere werkzaamheden te aanvaarden in de ontvangende staat nadat de toestemming uit hoofde van dit Verdrag is vervallen.
+##### Article 8. Entry into force, duration, termination
 
-##### Artikel 7. Wijziging
+1. The Parties shall notify each other in writing, through diplomatic channels, that their respective procedures constitutionally required for the entry into force of this Agreement have been complied with.
 
-1. Dit Verdrag kan worden gewijzigd op verzoek van een van de partijen door de andere partij een schriftelijke kennisgeving te zenden die de laatstgenoemde partij schriftelijk dient goed te keuren binnen zestig (60) dagen na de ontvangst van de kennisgeving.
+2. This Agreement shall enter into force on the first day of the second month following the date of the last notification.
 
-2. Een wijziging of wijzigingen van dit Verdrag aangebracht overeenkomstig het voorgaande lid treedt of treden in werking in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006937&artikel=8&z=2022-10-01&g=2022-10-01) van dit Verdrag.
+3. The Agreement shall remain in force for an indefinite period, unless either Party terminates this Agreement by giving the other Party written notice of its intention to terminate it six (6) months prior to the date of termination.
 
-##### Artikel 8. Inwerkingtreding, looptijd en beëindiging
-
-1. De partijen stellen elkaar er langs diplomatieke weg schriftelijk van in kennis dat is voldaan aan hun onderscheiden procedures die grondwettelijk vereist zijn voor de inwerkingtreding van dit Verdrag.
-
-2. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum van de laatste kennisgeving.
-
-3. Het Verdrag blijft voor onbepaalde tijd van kracht, tenzij een van de partijen dit Verdrag beëindigt door de andere partij zes (6) maanden voor de datum van de beëindiging in kennis te stellen van haar voornemen het Verdrag te beëindigen.
-
-4. Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het Europese deel van Nederland, het Caribische deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba), Aruba, Curaçao en Sint Maarten, tenzij anders bepaald in de kennisgeving bedoeld in het eerste lid van dit artikel. In het laatste geval kan het Koninkrijk der Nederlanden te allen tijde de toepassing van dit Verdrag uitbreiden tot een of meer van zijn afzonderlijke delen door middel van een kennisgeving langs diplomatieke weg aan Oekraïne.
+4. With regard to the Kingdom of the Netherlands, this Agreement shall apply to the European part of the Netherlands, the Caribbean part of the Netherlands (the islands of Bonaire, Sint Eustatius and Saba), Aruba, Curaçao and Sint Maarten, unless the notification referred to in paragraph 1 of this Article provides otherwise. In the latter case the Kingdom of the Netherlands may extend the application of this Agreement at any time to one or more of its constituent parts by notification to Ukraine through diplomatic channels.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorised thereto, have signed this Agreement.
 
 DONE at Kyiv on 3 November 2021 in duplicate, in the Dutch, Ukrainian and English languages, all texts being equally authentic. In case of difference of interpretation the English text shall prevail.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 JENNES DE MOL
 
-**For Ukraine,**
+*For Ukraine,*
 
 DMYTRO KULEBA

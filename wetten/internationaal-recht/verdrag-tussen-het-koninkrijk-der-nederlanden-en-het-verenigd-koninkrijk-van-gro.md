@@ -1,72 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van het Sillimanite-veld"
 identifier: "BWBV0006753"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-07-19"
-last_updated: "2018-07-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006753"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005447283"
-version_id: "10005903732"
-internal_id: "C10009417251"
-label_id: "10005429884"
-dtd_version: "2.0"
-original_entry_into_force: "2018-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006753/2018-07-19/0"
-intitule_bron: "Trb.2018-117"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-07-20"
-intitule_in_force: "2018-07-20"
-intitule_status: "goed"
-original_publication: "Trb.2018-117"
-original_published_date: "2018-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2018-117"
-entry_into_force_date: "2018-07-19"
-jci_1_3: "jci1.3:c:BWBV0006753&z=2018-07-19&g=2018-07-19"
-jci_1_0: "1.0:c:BWBV0006753&g=2018-07-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-07-19"
+publicatiedatum: 2018-07-19
+laatste_update: 2018-07-19
+status: geldig
+toestand: 2018-07-19
+bron: "https://wetten.overheid.nl/BWBV0006753"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van het Sillimanite-veld
 
-The Kingdom of the Netherlands
-
-and
-
-the United Kingdom of Great Britain and Northern Ireland,
-
-hereinafter referred to as “the Parties”;
-
-Considering that there is a gas field, known as the Sillimanite Field, which extends across the dividing line as defined in the [Agreement between the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland relating to the Delimitation of the Continental Shelf under the North Sea between the two Countries](https://wetten.overheid.nl/jci1.3:c:BWBV0004234), done at London on 6 October 1965;
-
-Having regard to the [Agreement between the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland relating to the Exploitation of single geological structures extending across the Dividing Line on the Continental Shelf under the North Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0004235), done at London on 6 October 1965 under which the Parties have undertaken to seek agreement as to the manner in which any such structure or field shall be most effectively exploited and the manner in which the costs and proceeds relating thereto shall be apportioned;
-
-Desiring therefore to make an agreement about the exploitation of the Sillimanite Field and the rights and obligations of the Parties in relation thereto;
-
-Considering that the Licensees have the intention to exploit the Sillimanite Field by a platform on the Dutch Continental Shelf;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and the United Kingdom of Great Britain and Northern Ireland, hereinafter referred to as “the Parties”; Considering that there is a gas field, known as the Sillimanite Field, which extends across the dividing line as defined in the Agreement between the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland relating to the Delimitation of the Continental Shelf under the North Sea between the two Countries, done at London on 6 October 1965; Having regard to the Agreement between the Government of the Kingdom of the Netherlands and the Government of the United Kingdom of Great Britain and Northern Ireland relating to the Exploitation of single geological structures extending across the Dividing Line on the Continental Shelf under the North Sea, done at London on 6 October 1965 under which the Parties have undertaken to seek agreement as to the manner in which any such structure or field shall be most effectively exploited and the manner in which the costs and proceeds relating thereto shall be apportioned; Desiring therefore to make an agreement about the exploitation of the Sillimanite Field and the rights and obligations of the Parties in relation thereto; Considering that the Licensees have the intention to exploit the Sillimanite Field by a platform on the Dutch Continental Shelf; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 For the purposes of this Agreement:
 
-- –. “Competent Authority” refers to a body exercising certain functions on behalf of the Party for the implementation of this Agreement. In the United Kingdom, this means the Oil and Gas Authority (the OGA) which has been granted a range of powers to exercise functions and in the Netherlands, this means the Minister of Economic Affairs and Climate Policy. In both cases, this includes any successor organisation authorised to perform the relevant functions at present exercised by said authorities;
+- – “Competent Authority” refers to a body exercising certain functions on behalf of the Party for the implementation of this Agreement. In the United Kingdom, this means the Oil and Gas Authority (the OGA) which has been granted a range of powers to exercise functions and in the Netherlands, this means the Minister of Economic Affairs and Climate Policy. In both cases, this includes any successor organisation authorised to perform the relevant functions at present exercised by said authorities;
 
-- –. “Development Plan” means a programme specifying the relevant works, that may be amended from time to time, and which the relevant Competent Authority has approved or served on the Licensee for the exploitation of the Sillimanite Field;
+- – “Development Plan” means a programme specifying the relevant works, that may be amended from time to time, and which the relevant Competent Authority has approved or served on the Licensee for the exploitation of the Sillimanite Field;
 
-- –. “Licensee” means the holder of a licence issued by one of the Parties or their relevant Competent Authority to exploit the part of the Sillimanite Field on the Continental Shelf appertaining to that Party, together with any individual or body corporate appointed by that Party or their relevant Competent Authority to participate on its behalf in the exploitation of that part;
+- – “Licensee” means the holder of a licence issued by one of the Parties or their relevant Competent Authority to exploit the part of the Sillimanite Field on the Continental Shelf appertaining to that Party, together with any individual or body corporate appointed by that Party or their relevant Competent Authority to participate on its behalf in the exploitation of that part;
 
-- –. “Licensees’ Agreement” means the agreement which is, or will be, entered into by the Licensees for the exploitation of the Sillimanite Field;
+- – “Licensees’ Agreement” means the agreement which is, or will be, entered into by the Licensees for the exploitation of the Sillimanite Field;
 
-- –. “Redetermination” means a review of the levels of hydrocarbons contained in the Sillimanite Field in accordance with the Licensees’ Agreement, which may be followed by a re-establishment of the allocation of such hydrocarbons and unit interests between the Licensees;
+- – “Redetermination” means a review of the levels of hydrocarbons contained in the Sillimanite Field in accordance with the Licensees’ Agreement, which may be followed by a re-establishment of the allocation of such hydrocarbons and unit interests between the Licensees;
 
-- –. “Sillimanite Field” means the gas field in the area delimited in the Annex to this Agreement; and
+- – “Sillimanite Field” means the gas field in the area delimited in the [Annex](https://wetten.overheid.nl/BWBV0006753) to this Agreement; and
 
-- –. “Unit Operator” has the meaning given in [Article 2(3)](https://wetten.overheid.nl/jci1.3:c:BWBV0006753&artikel=2&z=2018-07-19&g=2018-07-19).
+- – “Unit Operator” has the meaning given in [Article 2(3)](https://wetten.overheid.nl/jci1.3:c:BWBV0006753&artikel=2&z=2018-07-19&g=2018-07-19).
 
 ##### Article 2. Exploitation of the Sillimanite Field
 
@@ -86,15 +51,15 @@ For the purposes of this Agreement:
 
 ##### Article 3. Rights and Obligations of the Parties
 
-- a). Before production of gas from the Sillimanite Field is scheduled to commence, the Unit Operator needs approval of each Party or their relevant Competent Authority for the measurement systems used to determine the quantities and value of gas won and saved from the Sillimanite Field.
+1. - a) Before production of gas from the Sillimanite Field is scheduled to commence, the Unit Operator needs approval of each Party or their relevant Competent Authority for the measurement systems used to determine the quantities and value of gas won and saved from the Sillimanite Field.
 
-- b). Each Party or their relevant Competent Authority shall require its Licensees to provide access to relevant information including design and operational details of all systems relevant to the measurement of gas originating from the Sillimanite Field to that Party or its relevant Competent Authority.
+- b) Each Party or their relevant Competent Authority shall require its Licensees to provide access to relevant information including design and operational details of all systems relevant to the measurement of gas originating from the Sillimanite Field to that Party or its relevant Competent Authority.
 
-- c). The inspectors of the Parties or their Competent Authority shall have the right to inspect the relevant measurement systems to ensure that their interests are safeguarded.
+- c) The inspectors of the Parties or their Competent Authority shall have the right to inspect the relevant measurement systems to ensure that their interests are safeguarded.
 
-- d). An inspector of the United Kingdom or the Competent Authority, who shall be accompanied by an inspector of the Kingdom of the Netherlands, shall be given access in due time to measuring systems for gas originating from the Sillimanite Field.
+- d) An inspector of the United Kingdom or the Competent Authority, who shall be accompanied by an inspector of the Kingdom of the Netherlands, shall be given access in due time to measuring systems for gas originating from the Sillimanite Field.
 
-- e). The United Kingdom or its Competent Authority shall inform the Kingdom of the Netherlands about the names of the inspectors of the United Kingdom who will inspect the measuring systems.
+- e) The United Kingdom or its Competent Authority shall inform the Kingdom of the Netherlands about the names of the inspectors of the United Kingdom who will inspect the measuring systems.
 
 2. The Parties shall ensure a free flow of information between them and their Competent Authority about matters relating to the exploitation of the Sillimanite Field.
 
@@ -122,16 +87,16 @@ Each Party shall designate one arbitrator, and the two arbitrators so designated
 
 2. The Parties may amend or terminate this Agreement at any time by agreement.
 
-3. The Annex shall form an integral part of this Agreement.
+3. The [Annex](https://wetten.overheid.nl/BWBV0006753) shall form an integral part of this Agreement.
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective Governments, have signed this Agreement.
 
 DONE in duplicate at The Hague, this 19th day of July 2018, in the English language.
 
-**For the Government of the Kingdom of the Netherlands,**
+*For the Government of the Kingdom of the Netherlands,*
 
 M.R.P.M. CAMPS
 
-**For the Government of the United Kingdom of Great Britain and Northern Ireland,**
+*For the Government of the United Kingdom of Great Britain and Northern Ireland,*
 
 P. WILSON

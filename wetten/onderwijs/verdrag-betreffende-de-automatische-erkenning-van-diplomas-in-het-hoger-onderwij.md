@@ -1,209 +1,150 @@
 ---
 title: "Verdrag betreffende de automatische erkenning van diploma’s in het hoger onderwijs"
 identifier: "BWBV0006932"
-country: "nl"
-rank: "verdrag"
-publication_date: "2024-05-01"
-last_updated: "2024-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006932"
+categorie: "Onderwijs"
 soort: "verdrag"
-stam_id: "10005597113"
-version_id: "10006134412"
-internal_id: "C10010088991"
-label_id: "10005579204"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006932/2024-05-01/0"
-intitule_bron: "Trb.2021-122"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-10-05"
-intitule_in_force: "2024-05-15"
-intitule_status: "goed"
-original_publication: "Trb.2021-122"
-original_published_date: "2021-10-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2021-122"
-entry_into_force_date: "2024-05-01"
-jci_1_3: "jci1.3:c:BWBV0006932&z=2024-05-01&g=2024-05-01"
-jci_1_0: "1.0:c:BWBV0006932&g=2024-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-05-01"
+publicatiedatum: 2024-05-01
+laatste_update: 2024-05-01
+status: geldig
+toestand: 2024-05-01
+bron: "https://wetten.overheid.nl/BWBV0006932"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag betreffende de automatische erkenning van diploma’s in het hoger onderwijs
 
-Het Koninkrijk België, vertegenwoordigd door:
+*The Kingdom of Belgium, represented by: – The Flemish Government, – The Government of the French Community, – The Government of the German-speaking Community, The Republic of Estonia, The Republic of Latvia, The Republic of Lithuania, The Grand-Duchy of Luxembourg, The Kingdom of the Netherlands, hereinafter referred to as “the Parties”, Having regard to the fact that the Convention on the Recognition of Qualifications concerning Higher Education in the European Region, jointly drafted by the Council of Europe and the United Nations Educational, Scientific and Cultural Organisation, signed in Lisbon on 11 April 1997 (hereinafter referred to as “the Lisbon Recognition Convention”), has entered into force for each of the Parties to the present Treaty and that the Parties implement the subsidiary texts to the Lisbon Recognition Convention, adopted by the Lisbon Recognition Convention Committee, Having regard to the importance of automatic recognition of qualifications, as repeatedly emphasized in communiqués adopted by the Ministers during the Ministerial Conferences of the European Higher Education Area in the Bologna Process, Whereas the Recommendation of the Council of the European Union of 26 November 2018 on promoting automatic mutual recognition of higher education and upper secondary education and training qualifications and the outcomes of learning periods abroad calls, inter alia, on the Member States of the European Union to take the necessary steps to achieve automatic recognition of higher education qualifications by 2025, Whereas legally binding mutual agreements on the automatic recognition of higher education qualifications have already been concluded in the framework of the Benelux Union and between the Republic of Estonia, the Republic of Latvia and the Republic of Lithuania, namely: – The Decision M(2015)3 of the Benelux Committee of Ministers concerning the automatic mutual generic level recognition of higher education degrees, as supplemented by the Decision M(2018)1, – The Agreement among the Government of the Republic of Estonia, the Government of the Republic of Latvia and the Government of the Republic of Lithuania on the automatic academic recognition of qualifications concerning higher education, signed in Vilnius on 8 June 2018, Desiring to expand automatic recognition of higher education qualifications within the European Higher Education Area by combining these regional arrangements into a multilateral treaty between the Parties, Conscious of the fact that the basis for mutual trust lies in ratification of the Lisbon Recognition Convention and in active membership of the European Higher Education Area, testified by the implementation of the Standards and Guidelines for Quality Assurance in the European Higher Education Area (hereinafter referred to as “the ESG”), three-cycle higher education systems, national qualifications frameworks, and other transparency tools, Willing to provide other States with the opportunity to join this Treaty, considering the above, Determined to remain, in doing so, at the forefront of the Bologna Process and of the realisation of the European Higher Education Area, Have agreed as follows:*
 
-De Vlaamse Regering,
+##### Article 1. Objectives and Scope
 
-De Regering van de Franse Gemeenschap,
+1. This Treaty aims to ensure that a higher education qualification issued in accordance with the legislation of one of the Parties, belonging to its higher education system and referenced to the European Qualifications Framework for lifelong learning (hereinafter referred to as “the EQF”), is automatically recognised at the same level of the corresponding higher education qualifications issued by all the other Parties.
 
-De Regering van de Duitstalige Gemeenschap,
+2. This Treaty shall apply to the higher education qualifications that are issued in accordance with the legislation of the Parties and belong to their higher education systems, that are covered by [Annex I](https://wetten.overheid.nl/BWBV0006932) to this Treaty and that comply with all the other conditions set out in this Treaty.
 
-De Republiek Estland,
+3. This Treaty shall not apply to:
 
-De Republiek Letland,
+- a) the recognition of the specific programmes of higher education qualifications in a particular field of study,
 
-De Republiek Litouwen,
+- b) the recognition of periods of study,
 
-Het Groothertogdom Luxemburg,
+- c) the recognition of qualifications that do not belong to the higher education systems of the Parties, or
 
-Het Koninkrijk der Nederlanden,
+- d) the recognition of professional qualifications in accordance with Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications, or in accordance with other relevant provisions adopted within the framework of the European Union.
 
-hierna te noemen „de Partijen”,
+With regard to such elements, this Treaty shall remain without prejudice to the relevant provisions and principles of the Lisbon Recognition Convention and its subsidiary texts, the relevant provisions adopted within the framework of the European Union and the relevant provisions of the legislation of the Parties.
 
-Gezien het feit dat het op 11 april 1997 te Lissabon ondertekende Verdrag inzake de erkenning van diploma’s betreffende hoger onderwijs in de Europese regio, dat gezamenlijk is opgesteld door de Raad van Europa en de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (hierna te noemen „het Verdrag van Lissabon inzake erkenning”), voor elk van de Partijen bij onderhavig Verdrag in werking is getreden en dat de Partijen de bij het Verdrag van Lissabon inzake erkenning behorende teksten, die door het Comité van het Verdrag van Lissabon inzake erkenning zijn aangenomen, ten uitvoer leggen,
+##### Article 2. Definitions
 
-Gezien het belang van de automatische erkenning van diploma’s, zoals herhaaldelijk is benadrukt in de communiqués die de bewindslieden tijdens de ministeriële conferenties van de Europese Hogeronderwijsruimte in het kader van het Bolognaproces hebben aangenomen,
+1. For the purposes of this Treaty, the following terms shall have the following meaning:
 
-Overwegende dat in de aanbeveling van de Raad van de Europese Unie van 26 november 2018 betreffende de bevordering van automatische wederzijdse erkenning van kwalificaties van hoger onderwijs en hoger secundair onderwijs en opleiding en de resultaten van leerperioden in het buitenland, de lidstaten van de Europese Unie onder meer worden opgeroepen de nodige stappen te zetten om tegen 2025 te komen tot automatische erkenning van diploma’s hoger onderwijs,
+- a) “automatic recognition”: the automatic recognition, without any procedure, of a higher education qualification issued in accordance with the legislation of one of the Parties and belonging to its higher education system, at the same level of the corresponding higher education qualifications issued in accordance with the legislation of the other Parties;
 
-Overwegende dat in het kader van de Benelux Unie en tussen de Republiek Estland, de Republiek Letland en de Republiek Litouwen reeds juridisch bindende wederzijdse akkoorden inzake de automatische erkenning van diploma’s hoger onderwijs zijn gesloten, namelijk:
+- b) “corresponding higher education qualifications”: the higher education qualifications as listed in [Annex I](https://wetten.overheid.nl/BWBV0006932) to this Treaty;
 
-Beschikking M (2015) 3 van het Benelux Comité van Ministers betreffende de automatische wederzijdse generieke niveauerkenning van diploma’s hoger onderwijs, zoals aangevuld met Beschikking M (2018) 1,
+- c) As regards the level of higher education qualifications:
 
-De op 8 juni 2018 te Vilnius ondertekende Overeenkomst tussen de Regering van de Republiek Estland, de Regering van de Republiek Letland en de Regering van de Republiek Litouwen inzake de automatische academische erkenning van diploma’s betreffende hoger onderwijs,
+   - (i) “Associate degree”: a short cycle higher education qualification issued in accordance with the legislation of one of the Parties and belonging to its higher education system, that relates to level 5 of the EQF;
 
-Verlangende de automatische erkenning van diploma’s hoger onderwijs in de Europese Hogeronderwijsruimte uit te breiden door deze regionale afspraken te integreren in een multilateraal verdrag tussen de Partijen,
+   - (ii) “Bachelor’s degree”: a first cycle higher education qualification issued in accordance with the legislation of one of the Parties and belonging to its higher education system, that relates to level 6 of the EQF;
 
-Zich ervan bewust dat de grondslag voor wederzijds vertrouwen gelegen is in ratificatie van het Verdrag van Lissabon inzake erkenning en in actief lidmaatschap van de Europese Hogeronderwijsruimte, gestaafd door de implementatie van de normen en richtsnoeren voor kwaliteitsborging in de Europese Hogeronderwijsruimte (hierna te noemen „de ESG”), uit drie cycli bestaande hogeronderwijsstelsels, nationale kwalificatiekaders en overige transparantie-instrumenten,
+   - (iii) “Master’s degree”: a second cycle higher education qualification issued in accordance with the legislation of one of the Parties and belonging to its higher education system, that relates to level 7 of the EQF;
 
-Bereid om andere Staten de mogelijkheid te bieden zich aan te sluiten bij dit Verdrag, gelet op het bovenstaande,
+   - (iv) “Doctoral degree”: a third cycle higher education qualification issued in accordance with the legislation of one of the Parties and belonging to its higher education system, that relates to level 8 of the EQF.
 
-Vastbesloten om zodoende een voortrekkersrol te blijven vervullen in het kader van het Bolognaproces en de voltooiing van de Europese Hogeronderwijsruimte,
+2. The terms used in this Treaty shall have the same definition as in the Lisbon Recognition Convention, unless incompatible with the provisions of this Treaty or the [Annexes](https://wetten.overheid.nl/BWBV0006932) thereto.
 
-Zijn het volgende overeengekomen:
+##### Article 3. General Provision on Automatic Recognition
 
-##### Artikel 1. Doelstellingen en toepassingsgebied
+1. Within all Parties, automatic recognition shall apply to each higher education qualification issued in accordance with the legislation of one of the Parties, belonging to its higher education system and listed in [Annex I](https://wetten.overheid.nl/BWBV0006932), provided that the conditions laid down in [Article 4](https://wetten.overheid.nl/BWBV0006932) of this Treaty are met.
 
-1. Dit Verdrag strekt ertoe te waarborgen dat een overeenkomstig de wetgeving van een van de Partijen uitgereikt diploma hoger onderwijs dat deel uitmaakt van het hogeronderwijsstelsel van die Partij en gerelateerd is aan het Europees kwalificatiekader voor levenslang leren (hierna te noemen „het EQF”), automatisch wordt erkend op hetzelfde niveau als de overeenkomstige diploma’s hoger onderwijs die door alle andere Partijen worden uitgereikt.
+2. The automatic recognition pursuant to paragraph 1 of this Article shall occur without any further procedure.
 
-2. Dit Verdrag is van toepassing op de diploma’s hoger onderwijs die overeenkomstig de wetgeving van de Partijen worden uitgereikt en deel uitmaken van hun hogeronderwijsstelsels en die vallen onder [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01) bij dit Verdrag en voldoen aan alle andere in dit Verdrag bepaalde voorwaarden.
+##### Article 4. Conditions for Automatic Recognition
 
-3. Dit Verdrag is niet van toepassing op:
+1. Associate degrees shall benefit from automatic recognition pursuant to [Article 3](https://wetten.overheid.nl/BWBV0006932) of this Treaty, provided that all of the following conditions are met:
 
-- a. de erkenning van de specifieke programma’s voor diploma’s hoger onderwijs in een bepaalde studierichting,
+- a) The minimum quality of the programmes that led to the Associate degree has been assured through its licencing by the competent authority of the Party where the degree was issued;
 
-- b. de erkenning van studieperioden,
+- b) The Associate degree has been awarded by a recognised institution and pertains to a recognised programme in higher education, in accordance with the legislation of the Party where the degree was issued, insofar as that institution and programme are covered by [Annex II](https://wetten.overheid.nl/BWBV0006932) to this Treaty;
 
-- c. de erkenning van diploma’s die geen deel uitmaken van de hogeronderwijsstelsels van de Partijen, of
+- c) The automatic recognition of Associate degrees shall only apply between Parties whose legislation provides for Associate degrees belonging to higher education, as from the moment that these Parties have declared that they automatically recognise such degrees. Such declarations shall be notified to the Depositary, who shall inform the other Parties thereof.
 
-- d. de erkenning van beroepskwalificaties overeenkomstig [Richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties, dan wel overeenkomstig andere relevante bepalingen die in het kader van de Europese Unie zijn vastgesteld.
+The absence of such a declaration on behalf of a Party shall remain without prejudice to any obligations for that Party towards another Party pursuant to other arrangements pertaining to the recognition of Associate degrees.
 
-Wat deze elementen betreft, laat dit Verdrag de toepasselijke bepalingen en beginselen van het Verdrag van Lissabon inzake erkenning en de bijbehorende teksten, de relevante bepalingen die in het kader van de Europese Unie zijn vastgesteld en de desbetreffende bepalingen van de wetgeving van de Partijen onverlet.
+2. Bachelor’s and Master’s degrees shall benefit from automatic recognition pursuant to [Article 3](https://wetten.overheid.nl/BWBV0006932) of this Treaty, provided that all of the following conditions are met:
 
-##### Artikel 2. Begripsomschrijvingen
+- a) The minimum quality of the programmes leading to the Bachelor’s or Master’s degree has been assured through its licensing by the competent authority of the Party where the degree was issued;
 
-1. Voor de toepassing van dit Verdrag wordt verstaan onder:
+- b) The Bachelor’s or Master’s degree has been awarded by a recognised higher education institution and pertains to a recognised programme, in accordance with the legislation of the Party where the degree was issued, insofar as that institution and programme are covered by [Annex III](https://wetten.overheid.nl/BWBV0006932) to this Treaty.
 
-- a. „automatische erkenning”: de automatische erkenning, zonder enige procedure, van een overeenkomstig de wetgeving van een van de Partijen uitgereikt diploma hoger onderwijs dat deel uitmaakt van het hogeronderwijsstelsel van die Partij, op hetzelfde niveau als de overeenkomstige diploma’s hoger onderwijs die in overeenstemming met de wetgeving van de andere Partijen worden uitgereikt;
+3. Doctoral degrees shall benefit from automatic recognition pursuant to [Article 3](https://wetten.overheid.nl/BWBV0006932) of this Treaty, provided that the Doctoral degree has been awarded by a higher education institution or another body authorised for this purpose in accordance with the legislation of the Party where the Doctoral degree was issued, insofar as that institution or body is covered by [Annex IV](https://wetten.overheid.nl/BWBV0006932) to this Treaty.
 
-- b. „overeenkomstige diploma’s hoger onderwijs”: de diploma’s hoger onderwijs als vermeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01) bij dit Verdrag;
+##### Article 5. Safeguard Clause
 
-- c. Wat betreft het niveau van de diploma’s hoger onderwijs:
+1. Where, in exceptional circumstances, automatic recognition pursuant to [Article 3](https://wetten.overheid.nl/BWBV0006932) of this Treaty causes, or threatens to cause, substantial difficulties for the higher education system of a Party, that Party may take safeguard measures with regard to the qualification or qualifications concerned, provided that such measures are strictly necessary and that they remain without prejudice to the relevant provisions and principles of the Lisbon Recognition Convention and its subsidiary texts, the relevant provisions of other applicable arrangements and the relevant provisions of the legislation of the Party concerned.
 
-- i. „**Associate degree**”: een overeenkomstig de wetgeving van een van de Partijen uitgereikt diploma hoger onderwijs van de korte cyclus, dat deel uitmaakt van het hogeronderwijsstelsel van die Partij en overeenstemt met niveau 5 van het EQF;
+2. As soon as a Party takes safeguard measures pursuant to paragraph 1 of this Article, it shall liaise with the Party or Parties where the qualification or qualifications concerned have been issued, in order to resolve the situation. It shall also notify these measures to the Depositary, who shall inform all other Parties thereof.
 
-- ii. „Bachelor”: een overeenkomstig de wetgeving van een van de Partijen uitgereikt diploma hoger onderwijs van de eerste cyclus, dat deel uitmaakt van het hogeronderwijsstelsel van die Partij en overeenstemt met niveau 6 van het EQF;
+3. All Parties shall at all times remain vigilant to avoid any misuse of the present Treaty, in particular to prevent that recognition decisions taken prior to the entry into force of this Treaty would be overridden. In the event of known abuse, the Party concerned shall take all necessary measures in order to exclude the related cases from the application of the present Treaty. That Party shall also notify these cases to the Depositary, who shall inform all other Parties thereof.
 
-- iii. „Master”: een overeenkomstig de wetgeving van een van de Partijen uitgereikt diploma hoger onderwijs van de tweede cyclus, dat deel uitmaakt van het hogeronderwijsstelsel van die Partij en overeenstemt met niveau 7 van het EQF;
+##### Article 6. Information Provision and Exchange
 
-- iv. „Doctoraatsdiploma”: een overeenkomstig de wetgeving van een van de Partijen uitgereikt diploma hoger onderwijs van de derde cyclus, dat deel uitmaakt van het hogeronderwijsstelsel van die Partij en overeenstemt met niveau 8 van het EQF.
+1. The Parties shall make information about this Treaty and its effects widely available to the general public. Information about this Treaty, including its text, shall be available on the websites of the competent authorities of each of the Parties and of their centres belonging to the European Network of National Information Centres on academic mobility and recognition (hereinafter referred to as “the ENIC Network”).
 
-2. De in onderhavig Verdrag gebruikte termen hebben dezelfde definitie als in het Verdrag van Lissabon inzake erkenning, tenzij dit onverenigbaar is met de bepalingen van onderhavig Verdrag of de [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01) hierbij.
+2. The competent authorities of each of the Parties and their centres belonging to the ENIC Network shall mutually exchange information on the higher education systems of the Parties and on the application of this Treaty within the Parties.
 
-##### Artikel 3. Algemene bepaling inzake automatische erkenning
+##### Article 7. Access to Higher Education
 
-1. Binnen alle Partijen geldt de automatische erkenning voor elk diploma hoger onderwijs dat overeenkomstig de wetgeving van een van de Partijen is uitgereikt, deel uitmaakt van het hogeronderwijsstelsel van die Partij en is vermeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01), mits aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=4&z=2024-05-01&g=2024-05-01) van dit Verdrag bepaalde voorwaarden is voldaan.
+Without prejudice to existing or future arrangements between two or more Parties as regards qualifications giving access to higher education, the Parties are invited to exchange information on the general requirements for access to higher education that they apply in accordance with their legislation and on the qualifications giving access to higher education.
 
-2. De automatische erkenning overeenkomstig lid 1 van dit artikel geschiedt zonder verdere procedure.
+##### Article 8. Annexes
 
-##### Artikel 4. Voorwaarden voor automatische erkenning
+[Annexes I to IV](https://wetten.overheid.nl/BWBR0016236) shall constitute an integral part of this Treaty.
 
-1. **Associate degrees** genieten automatische erkenning overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=3&z=2024-05-01&g=2024-05-01) van dit Verdrag, mits aan alle onderstaande voorwaarden is voldaan:
+##### Article 9. Disputes
 
-- a. De minimumkwaliteit van de opleidingen die tot de **Associate degree** hebben geleid, is gewaarborgd door de erkenning ervan door de bevoegde autoriteit van de Partij waar het diploma is uitgereikt;
+Without prejudice to the provisions of [Article 5](https://wetten.overheid.nl/BWBV0006932) of this Treaty, any dispute that may arise in connection with the interpretation or application of this Treaty shall be settled by the Parties through negotiations in good faith.
 
-- b. De **Associate degree** is verleend door een erkende instelling en heeft betrekking op een erkende opleiding in het hoger onderwijs, in overeenstemming met de wetgeving van de Partij waar het diploma is uitgereikt, voor zover die instelling en die opleiding vallen onder [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=II&z=2024-05-01&g=2024-05-01) bij dit Verdrag;
+##### Article 10. Territorial application
 
-- c. De automatische erkenning van de **Associate degrees** geldt alleen tussen de Partijen wier wetgeving voorziet in **Associate degrees** die deel uitmaken van het hoger onderwijs, vanaf het ogenblik waarop die Partijen hebben verklaard dat zij deze diploma’s automatisch erkennen. Deze verklaringen worden ter kennis gebracht van de depositaris, die de overige Partijen daarvan op de hoogte stelt.
+1. This Treaty shall apply within the territory of the Kingdom of Belgium, the territory of the Republic of Estonia, the territory of the Republic of Latvia, the territory of the Republic of Lithuania and the territory of the Grand-Duchy of Luxembourg.
 
-Het ontbreken van een dergelijke verklaring namens een Partij doet geen afbreuk aan de verplichtingen die voor die Partij jegens een andere Partij voortvloeien uit andere regelingen met betrekking tot de erkenning van de **Associate degrees**.
+2. As regards the territory of the Kingdom of the Netherlands, this Treaty shall apply to the European and Caribbean part (the islands Bonaire, Saba and Sint Eustatius) of the Netherlands. It may also be extended to Aruba, Curaçao and Sint Maarten through a notification via diplomatic channels to the Depositary, which shall inform the other Parties thereof.
 
-2. Bachelors en masters genieten automatische erkenning overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=3&z=2024-05-01&g=2024-05-01) van dit Verdrag, mits aan alle onderstaande voorwaarden is voldaan:
+3. Following accession pursuant to [Article 13](https://wetten.overheid.nl/BWBV0006932), this Treaty shall also apply within the territory of the acceding State or the part thereof that is covered by the accession.
 
-- a. De minimumkwaliteit van de opleidingen die tot de bachelor of master leiden, is gewaarborgd door erkenning ervan door de bevoegde autoriteit van de Partij waar het diploma is uitgereikt;
+##### Article 11. Depositary
 
-- b. De bachelor of master is verleend door een erkende instelling voor hoger onderwijs en heeft betrekking op een erkende opleiding, in overeenstemming met de wetgeving van de Partij waar het diploma is uitgereikt, voor zover die instelling en die opleiding vallen onder [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=III&z=2024-05-01&g=2024-05-01) bij dit Verdrag.
+The Secretariat-General of the Benelux Union shall be the Depositary of this Treaty. The Depositary shall transmit certified copies of this Treaty to all Parties.
 
-3. Doctoraatsdiploma’s komen in aanmerking voor automatische erkenning overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=3&z=2024-05-01&g=2024-05-01) van dit Verdrag, op voorwaarde dat het doctoraatsdiploma is verleend door een instelling voor hoger onderwijs of een andere daartoe bevoegde instantie overeenkomstig de wetgeving van de Partij waar het doctoraatsdiploma is uitgereikt, voor zover die instelling of instantie valt onder [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=IV&z=2024-05-01&g=2024-05-01) bij dit Verdrag.
+##### Article 12. Entry into Force, Amendment and Termination
 
-##### Artikel 5. Vrijwaringsclausule
+1. This Treaty shall be subject to ratification, acceptance or approval by each Party in accordance with its constitutional procedures.
 
-1. Wanneer de automatische erkenning overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=3&z=2024-05-01&g=2024-05-01) van dit Verdrag in buitengewone omstandigheden aanzienlijke moeilijkheden voor het hogeronderwijsstelsel van een Partij veroorzaakt of dreigt te veroorzaken, kan die Partij vrijwaringsmaatregelen nemen ten aanzien van het betrokken diploma of de betrokken diploma’s, mits deze maatregelen strikt noodzakelijk zijn en geen afbreuk doen aan de toepasselijke bepalingen en beginselen van het Verdrag van Lissabon inzake erkenning en de bijbehorende teksten, de relevante bepalingen van andere toepasselijke regelingen en de desbetreffende bepalingen van de wetgeving van de betrokken Partij.
+2. Instruments of ratification, acceptance or approval shall be deposited with the Depositary, who shall inform all Parties thereof.
 
-2. Zodra een Partij vrijwaringsmaatregelen overeenkomstig lid 1 van dit artikel neemt, treedt zij in contact met de Partij of Partijen waar het betrokken diploma of de betrokken diploma’s zijn uitgereikt, teneinde de situatie op te lossen. Zij deelt deze maatregelen ook mee aan de depositaris, die alle andere Partijen daarvan in kennis stelt.
+3. This Treaty shall enter into force on the first day of the third month following the receipt by the Depositary of the last instrument of ratification, acceptance or approval. The Depositary shall inform all Parties of the date of entry into force of this Treaty.
 
-3. Elke Partij blijft te allen tijde waakzaam om misbruik van dit Verdrag te vermijden, met name om te voorkomen dat erkenningsbesluiten die vóór de inwerkingtreding van dit Verdrag zijn genomen, worden omzeild. In geval van bekend misbruik neemt de betrokken Partij alle nodige maatregelen om de betreffende gevallen uit te sluiten van de toepassing van dit Verdrag. Die Partij deelt deze gevallen ook mee aan de depositaris, die alle andere Partijen daarvan in kennis stelt.
+4. This Treaty and its [Annexes](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01) may be amended through mutual written agreement between the Parties. The amendments shall be documented in separate protocols, which shall constitute an integral part of this Treaty and shall enter into force in accordance with the procedure laid down in paragraphs 1 to 3 of this Article.
 
-##### Artikel 6. Informatievoorziening en -uitwisseling
+5. In the event that the information in [Annexes I](https://wetten.overheid.nl/BWBV0006932), [II](https://wetten.overheid.nl/BWBV0006932), [III](https://wetten.overheid.nl/BWBV0006932) or [IV](https://wetten.overheid.nl/BWBV0006932) that pertains to a given Party is impacted by changes in the legislation or internal organisation of that Party, the Party concerned shall notify such changes to the Depositary, who shall inform the other Parties thereof. All Parties shall take such changes into consideration when applying this Treaty.
 
-1. De Partijen stellen informatie over dit Verdrag en de gevolgen ervan op ruime schaal ter beschikking van het grote publiek. Informatie over dit Verdrag, met inbegrip van de tekst ervan, is beschikbaar op de websites van de bevoegde autoriteiten van elk van de Partijen en hun centra die deel uitmaken van het Europees netwerk van nationale informatiecentra voor academische mobiliteit en erkenning (hierna te noemen „het ENIC-netwerk”).
+6. This Treaty is concluded for an indefinite period of time. Each of the Parties can denounce this Treaty in writing by notifying such denunciation to the Depositary, who shall inform the other Parties thereof. This Treaty shall cease to be in force for the Party concerned six months after the date of the receipt by the Depositary of such notification, while it shall remain in force for the other Parties.
 
-2. De bevoegde autoriteiten van elk van de Partijen en hun centra die deel uitmaken van het ENIC-netwerk wisselen onderling informatie uit over de hogeronderwijsstelsels van de Partijen en de toepassing van dit Verdrag binnen de Partijen.
+##### Article 13. Accession
 
-##### Artikel 7. Toegang tot hoger onderwijs
+1. Any State that has ratified the Lisbon Recognition Convention and belongs to the European Higher Education Area may apply to accede to this Treaty, on the condition that:
 
-Onverminderd bestaande of toekomstige regelingen tussen twee of meer Partijen met betrekking tot diploma’s die toegang geven tot het hoger onderwijs, worden de Partijen verzocht informatie uit te wisselen over de algemene vereisten voor toegang tot het hoger onderwijs die zij overeenkomstig hun wetgeving toepassen en over de diploma’s die toegang geven tot het hoger onderwijs.
+- – it applies trustworthy quality assurance systems for its higher education programmes, which can demonstrate proven compliance with the ESG,
 
-##### Artikel 8. [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01)
+- – its higher education system is a three-cycle system in compliance with the Qualifications Framework of the European Higher Education Area, and
 
-Bijlagen I tot en met IV maken een integrerend deel uit van dit Verdrag.
+- – it has referenced its national higher education qualifications framework to the EQF.
 
-##### Artikel 9. Geschillen
+2. In accordance with its constitutional procedures, the applicant State shall notify such application to the Depositary, who shall inform all Parties thereof. This application shall include information referenced under [Annexes I](https://wetten.overheid.nl/BWBV0006932), [II](https://wetten.overheid.nl/BWBV0006932), [III](https://wetten.overheid.nl/BWBV0006932) and [IV](https://wetten.overheid.nl/BWBV0006932) of this Treaty in accordance with the procedure referred to in [paragraph 5 of Article 12](https://wetten.overheid.nl/BWBV0006932) of this Treaty. The applicant State may only accede after the receipt by the Depositary of the last written notification by all Parties that they accept the application of the applicant State.
 
-Onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=5&z=2024-05-01&g=2024-05-01) van dit Verdrag worden eventuele geschillen betreffende de interpretatie of toepassing van dit Verdrag via onderhandelingen te goeder trouw door de Partijen beslecht.
+3. The accession of the applicant State to this Treaty shall be effected by the deposit of an instrument of accession with the Depositary, and shall take effect on the first day of the third month following the receipt by the Depositary of this instrument of accession. The Depositary shall inform all Parties of the date of accession to this Treaty.
 
-##### Artikel 10. Territoriale toepassing
-
-1. Dit Verdrag is van toepassing op het grondgebied van het Koninkrijk België, het grondgebied van de Republiek Estland, het grondgebied van de Republiek Letland, het grondgebied van de Republiek Litouwen en het grondgebied van het Groothertogdom Luxemburg.
-
-2. Wat het grondgebied van het Koninkrijk der Nederlanden betreft, is dit Verdrag enkel van toepassing op het Europese en Caribische deel (de eilanden Bonaire, Saba en Sint Eustatius) van Nederland. Het kan ook worden uitgebreid naar Aruba, Curaçao en Sint Maarten door notificatie via diplomatieke kanalen aan de depositaris, die de andere Partijen daarvan in kennis stelt.
-
-3. Na toetreding overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=13&z=2024-05-01&g=2024-05-01) is dit Verdrag eveneens van toepassing op het grondgebied van de toetredende Staat of het deel daarvan dat onder de toetreding valt.
-
-##### Artikel 11. Depositaris
-
-Het Secretariaat-Generaal van de Benelux Unie is depositaris van dit Verdrag. De depositaris doet elke Partij een gewaarmerkt afschrift van dit Verdrag toekomen.
-
-##### Artikel 12. Inwerkingtreding, wijziging en beëindiging
-
-1. Dit Verdrag wordt door elke Partij bekrachtigd, aanvaard of goedgekeurd overeenkomstig haar grondwettelijke procedures.
-
-2. De akten van bekrachtiging, aanvaarding of goedkeuring worden neergelegd bij de depositaris, die alle Partijen daarvan in kennis stelt.
-
-3. Dit Verdrag treedt in werking op de eerste dag van de derde maand volgend op de ontvangst door de depositaris van de laatste akte van bekrachtiging, aanvaarding of goedkeuring. De depositaris stelt alle Partijen op de hoogte van de datum van inwerkingtreding van dit Verdrag.
-
-4. Dit Verdrag en de Bijlagen kunnen in onderlinge schriftelijke overeenstemming tussen de Partijen worden gewijzigd. De wijzigingen worden vastgelegd in afzonderlijke protocollen, die een integrerend deel uitmaken van dit Verdrag en van kracht worden overeenkomstig de in de leden 1 tot en met 3 van dit artikel omschreven procedure.
-
-5. Indien de informatie in de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=III&z=2024-05-01&g=2024-05-01) of [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=IV&z=2024-05-01&g=2024-05-01) die betrekking heeft op een bepaalde Partij wordt beïnvloed door wijzigingen in de wetgeving of de interne organisatie van die Partij, deelt de betrokken Partij deze wijzigingen mee aan de depositaris, die de overige Partijen daarvan in kennis stelt. Alle Partijen houden bij de toepassing van dit Verdrag rekening met deze wijzigingen.
-
-6. Dit Verdrag wordt voor onbepaalde tijd gesloten. Elk van de Partijen kan dit Verdrag schriftelijk opzeggen door hiervan mededeling te doen aan de depositaris, die de overige Partijen daarvan in kennis stelt. Dit Verdrag is zes maanden na de datum van ontvangst door de depositaris van deze mededeling voor de betrokken Partij niet langer van kracht, terwijl het van kracht blijft voor de overige Partijen.
-
-##### Artikel 13. Toetreding
-
-1. Elke Staat die het Verdrag van Lissabon inzake erkenning heeft geratificeerd en deel uitmaakt van de Europese Hogeronderwijsruimte kan verzoeken om toetreding tot dit Verdrag, op voorwaarde dat:
-
-- –. betrouwbare kwaliteitszorgsystemen voor de opleidingen in het hoger onderwijs worden toegepast die aantoonbaar voldoen aan de ESG,
-
-- –. het hogeronderwijsstelsel bestaat uit drie cycli in overeenstemming met het Kwalificatiekader van de Europese Hogeronderwijsruimte, en
-
-- –. het nationale kwalificatiekader voor hoger onderwijs is gerelateerd aan het EQF.
-
-2. De verzoekende Staat doet overeenkomstig zijn grondwettelijke procedures mededeling van dit verzoek aan de depositaris, die alle Partijen daarvan op de hoogte stelt. Dit verzoek bevat de informatie als bedoeld in de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=I&z=2024-05-01&g=2024-05-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=II&z=2024-05-01&g=2024-05-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=III&z=2024-05-01&g=2024-05-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&bijlage=IV&z=2024-05-01&g=2024-05-01) bij dit Verdrag, overeenkomstig de in [artikel 12, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006932&artikel=12&z=2024-05-01&g=2024-05-01), van dit Verdrag omschreven procedure. De verzoekende Staat kan enkel toetreden na de ontvangst door de depositaris van de laatste schriftelijke kennisgeving van alle Partijen dat zij het verzoek van de verzoekende Staat aanvaarden.
-
-3. De toetreding van de verzoekende Staat tot dit Verdrag geschiedt door de neerlegging van een akte van toetreding bij de depositaris en treedt in werking op de eerste dag van de derde maand volgend op de ontvangst door de depositaris van deze akte van toetreding. De depositaris stelt alle Partijen op de hoogte van de datum van toetreding tot dit Verdrag.
-
-4. De Partijen bij dit Verdrag worden uitgenodigd elkaar te raadplegen en samen te werken om de toepassing van dit artikel te stroomlijnen, voor te bereiden en te vergemakkelijken.
+4. The Parties to this Treaty are invited to consult each other and to cooperate in order to streamline, prepare and facilitate the application of this Article.
 
 DONE at Brussels on 14 September 2021, in a single copy in the Dutch, Estonian, French, German, Latvian, Lithuanian and English languages, all texts having equal power. In case of divergence of interpretation, the text in the English language shall prevail.

@@ -1,132 +1,39 @@
 ---
 title: "Aanvullend protocol bij de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie"
 identifier: "BWBV0006546"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-03-01"
-last_updated: "2016-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006546"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005328313"
-version_id: "10005733082"
-internal_id: "C10009068771"
-label_id: "10005311054"
-dtd_version: "2.0"
-original_entry_into_force: "2016-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006546/2016-03-01/0"
-intitule_bron: "Trb.2015-146"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-09-10"
-intitule_in_force: "2016-04-28"
-intitule_status: "goed"
-original_publication: "Trb.2015-146"
-original_published_date: "2015-09-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2015-146"
-entry_into_force_date: "2016-03-01"
-jci_1_3: "jci1.3:c:BWBV0006546&z=2016-03-01&g=2016-03-01"
-jci_1_0: "1.0:c:BWBV0006546&g=2016-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-03-01"
+publicatiedatum: 2016-03-01
+laatste_update: 2016-03-01
+status: geldig
+toestand: 2016-03-01
+bron: "https://wetten.overheid.nl/BWBV0006546"
+opgehaald: 2026-09-16
 ---
+
 # Aanvullend protocol bij de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie
 
-Het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Verdragsluitende partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna de „lidstaten van de Europese Unie” genoemd, vertegenwoordigd door de Raad van de Europese Unie,
-
-en
-
-de Europese Unie,
-
-enerzijds, en
-
-de Republiek Zuid-Afrika, hierna „Zuid-Afrika” genoemd,
-
-anderzijds,
-
-hierna gezamenlijk „de overeenkomstsluitende partijen” genoemd,
-
-Overwegende dat de [Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0001476) (hierna de „Overeenkomst inzake handel, ontwikkeling en samenwerking” genoemd), op 11 oktober 1999 te Pretoria is ondertekend en op 1 mei 2004 in werking is getreden,
-
-Overwegende dat het [Verdrag betreffende de toetreding van de Republiek Kroatië tot de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005638) op 9 december 2011 is ondertekend en op 1 juli 2013 in werking is getreden,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna de „lidstaten van de Europese Unie” genoemd, vertegenwoordigd door de Raad van de Europese Unie, en de Europese Unie, enerzijds, en de Republiek Zuid-Afrika, hierna „Zuid-Afrika” genoemd, anderzijds, hierna gezamenlijk „de overeenkomstsluitende partijen” genoemd, Overwegende dat de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds (hierna de „Overeenkomst inzake handel, ontwikkeling en samenwerking” genoemd), op 11 oktober 1999 te Pretoria is ondertekend en op 1 mei 2004 in werking is getreden, Overwegende dat het Verdrag betreffende de toetreding van de Republiek Kroatië tot de Europese Unie op 9 december 2011 is ondertekend en op 1 juli 2013 in werking is getreden, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
 De Republiek Kroatië wordt partij bij de [Overeenkomst inzake handel, ontwikkeling en samenwerking](https://wetten.overheid.nl/jci1.3:c:BWBV0001476) en op dezelfde wijze als de andere lidstaten van de Europese Unie keurt zij de teksten van de Overeenkomst inzake handel, ontwikkeling en samenwerking, met inbegrip van de daaraan gehechte bijlagen en protocollen, alsmede de aan de slotakte gehechte verklaringen goed en neemt zij er nota van.
 
-### HOOFDSTUK I. WIJZIGINGEN VAN DE TEKST VAN DE [OVEREENKOMST INZAKE HANDEL, ONTWIKKELING EN SAMENWERKING EN DE DAARAAN GEHECHTE BIJLAGEN EN PROTOCOLLEN](https://wetten.overheid.nl/jci1.3:c:BWBV0001476)
+### HOOFDSTUK I. WIJZIGINGEN VAN DE TEKST VAN DE OVEREENKOMST INZAKE HANDEL, ONTWIKKELING EN SAMENWERKING EN DE DAARAAN GEHECHTE BIJLAGEN EN PROTOCOLLEN
 
 ##### Artikel 2. Talen en aantal originelen
 
-Wijzigt de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds; Pretoria, 11 oktober 1999.
+*Wijzigt de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds; Pretoria, 11 oktober 1999.*
 
 ##### Artikel 3. Oorsprongsregels
 
-Wijzigt de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds; Pretoria, 11 oktober 1999.
+*Wijzigt de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds; Pretoria, 11 oktober 1999.*
 
 ### HOOFDSTUK II. OVERGANGSBEPALINGEN
 
 ##### Artikel 4. Goederen die onderweg zijn of zich in voorlopige opslag bevinden
 
-1. De bepalingen van de [Overeenkomst inzake handel, ontwikkeling en samenwerking](https://wetten.overheid.nl/jci1.3:c:BWBV0001476) worden toegepast op goederen die uit Zuid-Afrika naar de Republiek Kroatië of uit de Republiek Kroatië naar Zuid-Afrika worden geëxporteerd, die voldoen aan de bepalingen van [Protocol nr. 1 bij de Overeenkomst inzake handel, ontwikkeling en samenwerking](onbekend) en die op 1 juli 2013 ofwel onderweg waren ofwel in tijdelijke opslag waren in een douane-entrepot of een vrije zone in Zuid-Afrika of in Kroatië.
+1. De bepalingen van de [Overeenkomst inzake handel, ontwikkeling en samenwerking](https://wetten.overheid.nl/jci1.3:c:BWBV0001476) worden toegepast op goederen die uit Zuid-Afrika naar de Republiek Kroatië of uit de Republiek Kroatië naar Zuid-Afrika worden geëxporteerd, die voldoen aan de bepalingen van [Protocol nr. 1 bij de Overeenkomst inzake handel, ontwikkeling en samenwerking](https://wetten.overheid.nl/BWBV0001476) en die op 1 juli 2013 ofwel onderweg waren ofwel in tijdelijke opslag waren in een douane-entrepot of een vrije zone in Zuid-Afrika of in Kroatië.
 
 2. In dergelijke gevallen wordt preferentiële behandeling verleend, mits binnen vier maanden na de datum van inwerkingtreding van het protocol bij de douaneautoriteiten van het land van invoer een bewijs van oorsprong wordt ingediend dat achteraf is afgegeven door de douaneautoriteiten van het land van uitvoer.
 

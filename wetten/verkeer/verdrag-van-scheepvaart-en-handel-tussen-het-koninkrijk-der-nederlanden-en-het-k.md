@@ -1,97 +1,70 @@
 ---
 title: "Verdrag van scheepvaart en handel tussen het Koninkrijk der Nederlanden en het Koninkrijk van Zweden en Noorwegen"
 identifier: "BWBV0006472"
-country: "nl"
-rank: "verdrag"
-publication_date: "1847-11-26"
-last_updated: "1847-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006472"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005277523"
-version_id: "10005671982"
-internal_id: "C10008784981"
-label_id: "10005260414"
-dtd_version: "2.0"
-original_entry_into_force: "1847-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006472/1847-11-26/0"
-intitule_bron: "Stb.1847-71"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1847-11-26"
-intitule_published: "1847-12-11"
-intitule_in_force: "1847-12-11"
-intitule_status: "goed"
-original_publication: "Stb.1847-71"
-original_signed_date: "1847-11-26"
-original_published_date: "1847-12-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1847-11-26"
-jci_1_3: "jci1.3:c:BWBV0006472&z=1847-11-26&g=1847-11-26"
-jci_1_0: "1.0:c:BWBV0006472&g=1847-11-26"
-citeertitel_status: "redactioneel"
-signed_date: "1847-11-26"
-entry_into_force: "1847-11-26"
+publicatiedatum: 1847-11-26
+laatste_update: 1847-11-26
+status: geldig
+toestand: 1847-11-26
+bron: "https://wetten.overheid.nl/BWBV0006472"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag van scheepvaart en handel tussen het Koninkrijk der Nederlanden en het Koninkrijk van Zweden en Noorwegen
 
-Zijne Majesteit de Koning der Nederlanden van de eene zijde, en Zijne Majesteit de Koning der vereenigde Koningrijken van Zweden en Noorwegen van de andere zijde, de betrekkingen van scheepvaart en handel, tusschen hunne Staten, op eene wederkeerig voordeelige wijze, wenschende gemakkelijk te maken en uittebreiden, zijn met die bedoeling overeengekomen in onderhandeling te treden, en hebben daartoe tot hunne gevolmagtigden benoemd, te weten:
-
-Zijne Majesteit de Koning der Nederlanden, den heer James Albert Hendrik De La Sarraz, commandeur der orde van den Nederlandschen Leeuw, ridder der militaire Willems-orde, 3de klasse, en der orden van den witten Adelaar, van St. Anna 1ste klasse en van St. Stanislas 1ste klasse, ridder grootkruis der orde van Leopold van Belgie, ridder van den Rooden Adelaar 2de klasse, officier der Koninklijke orde van het Legioen van eer, luitenant-generaal, Hoogstdeszelfs adjudant en minister van buitenlandsche zaken, en
-
-Zijne Majesteit de Koning van Zweden en Noorwegen, den heer Axel baron van Wahrendorff, Hoogstdeszelfs kamerheer en zaakgelastigde bij de Hoven van Nederland en van Belgie, ridder der orde van de Poolster, commandeur der orde van de Eikenkroon en van die van Leopold van Belgie, officier der orde van het Legioen van eer van Frankrijk;
-
-dewelke, na uitwisseling hunner in goede en behoorlijke orde bevonden volmagten, de volgende artikelen hebben vastgesteld.
+*Sa Majesté le Roi des Pays-Bas d'une part, et Sa Majesté le Roi des Royaumes unis de Suède et de Norvège d'autre part, désirant faciliter et étendre d'une manière réciproquement avantageuse les relations de navigation et de commerce entre leurs Etats, sont convenus dans ce but d'entrer en négociation et ont nommé à cet effet, pour leurs plénipotentiaires, savoir: Sa Majesté le Roi des Pays-Bas, le sieur James Albert Henri De La Sarraz, commandeur de l'ordre du Lion Néerlandais, chevalier de l'ordre militaire de Guillaume, 3me classe, et des ordres de l'Aigle blanc, de St. Anne 1re classe et de St. Stanislas 1re classe, chevalier grand'croix de l'ordre de Léopold de Belgique, chevalier de l'Aigle rouge 2me classe, officier de l'ordre Royal de la Légion d'honneur, lieutenant-général, Son aide de camp et ministre des affaires Étrangères, et Sa Majesté le Roi de Suède et de Norvège, le sieur Axel baron de Wahrendorff, Son chambellan et chargé d'affaires près les cours Royales des Pays-Bas et de la Belgique, chevalier de l'ordre de l'étoile Polaire, commandeur de l'ordre de la Couronne de Chêne et de celui de Léopold de Belgique, officier de la Légion d'honneur de France; les quels, aprés avoir échangé leurs pleinspouvoirs, trouvés en bonne et due forme, ont arrêté les articles suivants.*
 
 ##### Art. I
 
-De Nederlandsche schepen, welke, van waar ook komende, in ballast of geladen in de havens van een der Vereenigde Koningrijken in Europa kinnen komen, zullen zoowel bij het in- als bij het uitgaan, behandeld worden op denzelfden voet als de nationale schepen, wat betreft de haven-, tonne- baken- en loodsgelden, alsmede alle andere regten of lasten, van welken aard of benaming ook, welke ten voordeele der kroon, van steden of van eenige bijzondere instellingen worden geheven.
+Les bâtiments Néerlandais qui arrivent sur leur lest ou chargés, de quel pays que ce soit, dans les ports des Royaumes Unis, en Europe, seront traités, tant à leur entrée qu' à leur sortie, sur le même pied que les bâtiments nationaux, par rapport aux droits de port, de tonnage, de fanaux et de pilotage, ainsi qu' à tout autre droit ou charge, de quelle espèce ou dénomination que ce soit, revenant à la couronne, aux villes ou à des établissements particuliers quelconques.
 
 ##### Art. II
 
-Wederkeerig zullen de Zweedsche of Noorweegsche schepen, welke, van waar ook komende, in ballast of geladen in de havens van het Koningrijk der Nederlanden in Europa, binnen komen, zoo wel bij het in- als bij het uitgaan, op denzelfden voet behandeld worden als de Nederlandsche schepen, wat betreft de haven- tonne- baken- en loodsgelden, alsmede alle andere regten of lasten, van welken aard of benaming ook, welke ten voordeele der kroon, van steden, of van eenige bijzondere instellingen geheven worden.
+Réciproquement les bâtiments Suédois ou Norvégiens qui arrivent sur leur lest ou chargés, de quel pays que ce soit, dans les ports des Pays-Bas en Europe, seront traités tant à leur entrée qu'à leur sortie sur le même pied que les bâtiments Néerlandais, par rapport aux droits de port, de tonnage, de fanaux ou de pilotage, ainsi qu'à tout autre droit ou charge de quelle espèce ou dénomination que ce soit, revenant à la couronne, aux villes ou à des établissements particuliers quelconques.
 
 ##### Art. III
 
-Alle goederen en handels-artikelen, hetzij voortbrengselen van den grond of van de nijverheid van het Koningrijk der Nederlanden, hetzij van elk ander land, van welke de invoer in de havens van Zweden en Noorwegen in Europa, met Zweedsche en Noorweegsche schepen geoorloofd is, zullen in die havens insgelijks mogen ingevoerd worden met Nederlandsche schepen, regtstreeks komende uit eene Nederlandsche haven in Europa, zonder aan hoogere regten of andere lasten, onder welke benaming of van welken aard het ook zij, onderworpen te zijn, dan wanneer de invoer dezer koopwaren door Zweedsche of Noorweegsche schepen geschied ware.
+Toutes les marchandises et objets de commerce, soit productions du sol ou de l'industrie du Royaume des Pays-Bas, soit de tout autre pays, dont l'importation dans les ports de Suède et de Norvège en Europe est permise par navires Suédois et Norvégiens, pourront également y être importés par navires Néerlandais venant en droiture d'un port des Pays-Bas en Europe, sans être assujettis à des droits plus forts, ou autres charges de quelque dénomination et nature que ce soit, que si les mêmes denrées étaient importées par navires Suédois ou Norvégiens.
 
-Alle koopwaren en goederen, hetzij voortbrengselen van den grond of van de nijverheid van Zweden of Noorwegen, of van elk ander land, van welke de uitvoer uit de havens van Zweden of Noorwegen in Europa, met Zweedsche of Noorweegsche schepen geoorloofd is, zullen insgelijks met Nederlandsche schepen, van waar deze ook komen, en waarheen zij ook bestemd zijn, uitgevoerd mogen worden, zonder aan andere of hoogere lasten onder welke benaming of van welken aard het ook zij, onderworpen te zijn, dan wanneer zij uitgevoerd wierden door Zweedsche of Noorweegsche schepen.
+Toutes denrées et marchandises, qu'elles soient le produit du sol ou de l'industrie de la Suède ou de la Norvège, ou de tout autre pays, dont l'exportation est permise des ports de la Suède ou de la Norvège en Europe, par navires Suédois ou Norvégiens, pourront également être exportées par navires Néerlandais de quelque pays qu'ils soient venus et vers quelque pays qu'ils soient destinés sans être assujetties à d'autres ou plus fortes charges, de quelque nom ou de quelque nature que ce soit, que si elles étaient exportées par navires Suédois ou Norvégiens.
 
 ##### Art. IV
 
-Alle goederen of handelsartikelen, hetzij voortbrengselen van den grond of van de nijverheid der Vereenigde Koningrijken, of wel van elk ander land, van welke de invoer in de havens van het Koningrijk der Nederlanden in Europa, met Nederlandsche schepen wettig geoorloofd is, zullen insgelijks met Zweedsche of Noorweegsche schepen, regtstreeks uit eene der havens van de Vereenigde Koningrijken in Europa komende, mogen ingevoerd worden, zonder aan hoogere of andere regten, onder welke benaming het ook zij, onderworden te zijn, dan wanneer de invoer dezer koopwaren en voortbrengselen met Nederlandsche schepen geschied ware.
+Toutes les marchandises ou objets de commerce, soit production du sol ou de l'industrie des Royaumes Unis, soit de tout autre pays, dont l'importation dans les ports du Royaume des Pays-Bas en Europe est légalement permise par bâtiments Néerlandais, pourront également être importés par navires Suédois ou Norvégiens, venant en droiture d'un port des Royaumes Unis en Europe, sans que ces objets soient assujettis à des droits plus forts ou autres de quelle dénomination que ce soit, que si les mêmes marchandises et productions avaient été importées par bâtiments Néerlandais.
 
-Alle koopwaren en goederen, hetzij voortbrengselen van den grond of van de nijverheid der Nederlanden, of wel van elk ander land, van welke de uitvoer uit de Nederlandsche havens in Europa, met Nederlandsche schepen wettig geoorloofd is, zullen insgelijks door Zweedsche of Noorweegsche schepen, van waar ook gekomen, of waarheen ook bestemd, mogen uitgevoerd worden, zonder aan andere regten of hoogere lasten, onder welke benaming of van welken aard het ook zij, onderworpen te zijn, dan wanneer de uitvoer dezer zelfde koopwaren en goederen met Nederlandsche schepen geschied ware.
+Toutes denrées et marchandises produits du sol ou de l'industrie des Pays-Bas, soit de tout autre pays, dont l'exportation des ports Néerlandais en Europe est légalement permise par navires Néerlandais, pourront également être exportées par navires Suédois ou Norvégiens, de quelque pays qu'ils soient arrivés, et vers quelque pays qu'ils soient destinés, sans être assujetties à d'autres droits ou charges plus élevés, de quelque nom et quelque nature que ce soit, que si les mêmes denrées et marchandises étaient exportées dans des navires Néerlandais.
 
 ##### Art. V
 
-Alle premien, vrijstellingen of teruggave van regten, hoe ook genaamd, toegestaan aan de nationale schepen, of aan koopwaren onder nationale vlag, in de staten van eene der hooge partijen in- of uitgevoerd wordende, zullen insgelijks toegekend worden aan de schepen van de andere partij, en aan de koopwaren door hen in- of uitgevoerd wordende, in al de gevallen bedoeld bij de artikelen I-IV.
+Toutes primes, exemptions ou restitutions quelconques de droits, accordées aux navires nationaux ou aux marchandises importées ou exportées sous pavillon national, dans les Etats de l'une des hautes parties, seront également accordées aux navires de l'autre partie et aux marchandises importées ou exportées par eux dans tous les cas prévus aux articles l-IV.
 
 ##### Art. VI
 
-De schepen der hooge contracterende partijen, zich in eene der havens van de respective Staten ophoudende, hetzij in geval van binnenvallen uit nood, of om er den winter door te brengen, of wel om orders te halen, en dezelve weder verlatende, zonder eenige daad van koophandel verrigt te hebben, zullen van tonnengelden vrijgesteld worden. Zij zullen ten opzigte der andere regten, aan welke schepen onderworpen zijn, behandeld worden op den voet der nationalen.
+Les navires des hautes parties contractantes, qui s'arrêteraient dans un des ports des Etats respectifs, soit en cas de relâche forcée, ou pour y passer l'hiver, soit pour y prendre des ordres et qui en sortiront sans s'être livrés à aucune opération de commerce, seront exempts des droits de tonnage. Quant aux autres droits auxquels les navires sont assujettis, ils seront traités sur le pied des nationaux.
 
-Noch het tijdelijk lossen van koopwaren, hetzij ter herstelling van het schip, hetzij om aan hetzelve eene veiliger ligplaats te bezorgen, noch de aankoopen, ter weder aanvulling der leeftogt voor de bemanning, of van andere scheepsbehoeften, zullen als daden van koophandel beschouwd worden.
+Ni le débarquement temporaire de marchandises, soit pour la réparation du navire, soit pour lui procurer un emplacement plus sûr, ni l'achat de provisions pour le ravitaillement des équipages ou du navire ne seront considérés comme opération de commerce.
 
 ##### Art. VII
 
-De hooge contracterende partijen zijn overeengekomen, om als Nederlandsche, Zweedsche en Noorweegsche schepen te erkennen en te behandelen, alle dezulken, die voorzien zullen zijn van een der door de bevoegde magten afgegeven paspoort, zeebrief of zoodanige andere documenten, als ter voldoening aan de wetten en reglementen der respective landen vereischt worden, om van de nationaliteit en scheepsruimte der vaartuigen te doen blijken.
+Les hautes parties contractantes sont convenus de reconnaître et de traiter comme navires Néerlandais, Suédois et Norvégiens, tous ceux qui seront munis par les autorités compétentes du passeport, de la lettre de mer, ou de tels autres documents exigés par les lois et réglements des pays respectifs pour constater la nationalité et la capacité des navires.
 
 ##### Art. VIII
 
-Het tegenwoordige verdrag zal van kracht blijven gedurende vijf jaren, gerekend van den dag van de uitwisseling der ratificatien, en wanneer twaalf maanden vóór het verschijnen van dezen tijd, noch de eene noch de andere der hooge contracterende partijen, bij eene officiele verklaring haar voornemen bekend maakt, om de werking er van te doen ophouden, zal het verdrag weder voor één jaar langer van kracht blijven, en zoo vervolgens van jaar tot jaar.
+Le présent traité restera en vigueur pendant cinq années, à dater du jour de l'échange des ratifications, et si, douze mois, avant l'expiration de ce terme, ni l'une ni l'autre des hautes parties contractantes n'annonce par une déclaration officielle son intention d'en faire cesser l'effet, le traité continuera d'être obligatoire pendant un an au-delà de ce terme, et ainsi de suite d'année en année.
 
 ##### Art. IX
 
-Het tegenwoordige verdrag zal bekrachtigd worden, en de bekrachtigingen zullen te 's Gravenhage, binnen den tijd van drie maanden, of zoo mogelijk vroeger, uitgewisseld worden.
+Le présent traité sera ratifié et les ratifications en seront échangées à la Haye, dans le délai de trois mois ou plustôt si faire se peut.
 
-Ter oorkonde waarvan de wederzijdsche gevolmagtigden het tegenwoordige verdrag hebben geteekend en met hunne cachetten bezegeld.
+En foi de quoi les plénipotentiaires respectifs ont signé le présent traité et y ont apposé leurs cachets.
 
 Fait à la Haye, le vingt cinq Septembre de l'an de grâce mil huit cent quarante sept.
 
 DE LA SARRAZ.
 
-(**l. S.**)
+(*l. S.*)
 
 A. DE WAHRENDORFF.
 
-(**l. S.**)
+(*l. S.*)

@@ -1,159 +1,20 @@
 ---
 title: "Samenwerkingsovereenkomst inzake partnerschap en ontwikkeling tussen de Europese Unie en haar lidstaten, enerzijds, en de Islamitische Republiek Afghanistan, anderzijds"
 identifier: "BWBV0006667"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-02-18"
-last_updated: "2017-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006667"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005401693"
-version_id: "10005837232"
-internal_id: "C10009224871"
-label_id: "10005384934"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006667/2017-02-18/0"
-intitule_bron: "Trb.2017-45"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-03-21"
-intitule_status: "nogniet"
-original_publication: "Trb.2017-45"
-original_published_date: "2017-03-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2017-45"
-jci_1_3: "jci1.3:c:BWBV0006667&z=2017-02-18&g=2017-02-18"
-jci_1_0: "1.0:c:BWBV0006667&g=2017-02-18"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-03-21"
+laatste_update: 2017-02-18
+status: geldig
+toestand: 2017-02-18
+bron: "https://wetten.overheid.nl/BWBV0006667"
+opgehaald: 2026-09-16
 ---
+
 # Samenwerkingsovereenkomst inzake partnerschap en ontwikkeling tussen de Europese Unie en haar lidstaten, enerzijds, en de Islamitische Republiek Afghanistan, anderzijds
 
-het Koninkrijk België,
+*het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna „de lidstaten” genoemd, en De Europese Unie, hierna „de Unie” of „de EU”, enerzijds, en De Islamitische Republiek Afghanistan, hierna „Afghanistan” genoemd, anderzijds, hierna gezamenlijk „de partijen” genoemd, Opnieuw bevestigend hun engagement voor de soevereiniteit, onafhankelijkheid en territoriale integriteit van Afghanistan; Opnieuw bevestigend hun gehechtheid aan de beginselen van het internationaal recht, de doelstellingen en beginselen van het Handvest van de Verenigde Naties, de internationale verdragen en de resoluties van de VN-Veiligheidsraad; Erkennend de historische, politieke en economische banden tussen de partijen; Bevestigend hun verlangen de samenwerking op te drijven op basis van gedeelde waarden en tot wederzijds voordeel; Overwegende de gedeelde beleidsdoelstellingen, waarden en verbintenissen van de partijen, met inbegrip van de eerbiediging van de democratische beginselen, de rechtsstaat, de mensenrechten en goed bestuur; Erkennend dat deze beginselen onlosmakelijk verbonden zijn met ontwikkeling op de lange termijn; Erkennend dat de bevolking van Afghanistan, bij wege van haar legitieme, democratische instellingen en in het kader van de grondwet van Afghanistan, de rechtmatige eigenaar en impulsgever is voor het proces van stabilisering, ontwikkeling en democratisering van het land; Overwegende dat de Unie zich ertoe verbindt de inspanningen van Afghanistan te ondersteunen om de ontwikkeling te maximaliseren in de loop van het volgende decennium van verandering; Onderstrepend de wederzijdse verbintenissen die zijn overeengekomen op de internationale Afghanistan-conferenties in Bonn in december 2011, Tokio in juli 2012 en Londen in december 2014; Opnieuw bevestigend de verbintenis van Afghanistan om zijn bestuur te blijven verbeteren, alsook de verbintenis van de Unie om met Afghanistan een duurzame band aan te gaan; Overwegende dat de partijen bijzonder belang hechten aan de omvattende aard van de betrekkingen die zij met deze overeenkomst willen bevorderen; Opnieuw bevestigend hun streven om economische en sociale vooruitgang voor hun bevolking te bevorderen, alsook hun voornemen om hun betrekkingen op gebieden van wederzijds belang te consolideren, te verdiepen en te diversifiëren; Erkennend dat overeenkomstig de grondwet van Afghanistan de emancipatie en de volledige deelname van vrouwen op gelijke basis in alle geledingen van de maatschappij, met inbegrip van participatie in de beleidsvorming in het politieke proces op alle niveaus, fundamenteel zijn voor de verwezenlijking van gelijkheid en vrede; Erkennend het belang van ontwikkelingssamenwerking met ontwikkelingslanden, speciaal lage-inkomenslanden, landen die zich in de nasleep van een conflict bevinden, en landen zonder toegang tot de zee, met het oog op hun duurzame economische groei en ontwikkeling, voor een tijdige en volledige verwezenlijking van internationaal overeengekomen ontwikkelingsdoeleinden, met inbegrip van de millenniumdoelstellingen voor ontwikkeling van de VN en eventuele daarop volgende ontwikkelingsijkpunten die voor Afghanistan zijn vastgesteld, en voor een betere integratie van Afghanistan in de regio; Erkennend dat doeltreffende maatregelen getroffen moeten worden om de integriteit en verantwoordingsplicht te bevorderen, het correcte gebruik van overheidsmiddelen te garanderen en de corruptie te bestrijden; Erkennend dat meer samenwerking tussen de partijen steun moet bieden aan de capaciteit van Afghanistan om de kwaliteit van zijn administratie en bestuur te verbeteren, alsook de transparantie en doeltreffendheid van het beheer van de overheidsfinanciën; Opnieuw bevestigend het belang van coördinatie in de relevante regionale en multilaterale fora, meer bepaald wat betreft de aanpak door de partijen van mondiale problemen en regionale economische samenwerking; Erkennend dat terrorisme een bedreiging is voor hun bevolkingen en hun gemeenschappelijke veiligheid, en uitdrukking gevend aan hun volledige engagement voor de bestrijding van alle vormen van terrorisme, voor het opzetten van doeltreffende internationale samenwerking en instrumenten voor de uitbanning van terrorisme overeenkomstig het internationaal recht, met inbegrip van de mensenrechten en het humanitaire recht; Opnieuw bevestigend hun gezamenlijk engagement voor de bestrijding van de georganiseerde misdaad, met inbegrip van mensenhandel, migrantensmokkel en drugshandel, ook door middel van regionale en internationale mechanismen; Erkennend de bedreiging voor de gezondheid en de veiligheid die uitgaat van verboden verdovende middelen en de noodzaak van een gecoördineerde regionale en internationale samenwerking om de teelt, productie, facilitering en consumptie van, handel in en vraag naar drugs alsook het oneigenlijke gebruik van drugsprecursoren tegen te gaan, en tevens erkennend het belang van alternatieve middelen van bestaan voor de papavertelers in dit verband; Erkennend de noodzaak om internationale ontwapenings- en non-proliferatie-verbintenissen te respecteren; Overwegende dat het Internationaal Strafhof een belangrijke ontwikkeling voor vrede en internationale gerechtigheid is, waarmee wordt gestreefd naar effectieve vervolging van de ernstigste misdrijven die de internationale gemeenschap aangaan; Erkennend dat handel en buitenlandse directe investeringen een aanzienlijke rol zullen spelen in de ontwikkeling van Afghanistan en dat de partijen bijzonder belang hechten aan de beginselen en voorschriften van de internationale handel, die onder meer zijn vervat in de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO); Uitdrukking gevend aan hun volledig engagement om duurzame ontwikkeling over de hele lijn te bevorderen, met inbegrip van milieubescherming en doeltreffende samenwerking voor de aanpak van de klimaatverandering, alsook de doeltreffende bevordering en tenuitvoerlegging van internationaal erkende arbeidsnormen; Onderstrepend het belang van samenwerking inzake migratie, Erkennend dat bijzondere aandacht nodig is voor de situatie en de grondrechten van vluchtelingen en intern ontheemden, met inbegrip van hun veilige, ordelijke en vrijwillige terugkeer; Wijzend op het feit dat, als de partijen in het kader van deze overeenkomst besluiten tot het aangaan van specifieke overeenkomsten op het gebied van vrijheid, veiligheid en recht, die door de Unie zouden worden gesloten krachtens titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie, de bepalingen van dergelijke toekomstige specifieke overeenkomsten niet bindend zullen zijn voor het Verenigd Koninkrijk en/of Ierland, tenzij de Unie, samen met het Verenigd Koninkrijk en/of Ierland wat betreft hun respectieve vorige bilaterale betrekkingen, Afghanistan ervan in kennis stelt dat het Verenigd Koninkrijk en/of Ierland gebonden zijn door dergelijke toekomstige specifieke overeenkomsten als deel van de Unie, overeenkomstig Protocol nr. 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht, dat aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie is gehecht. Evenzo zijn latere interne maatregelen van de Unie die met het oog op de uitvoering van deze overeenkomst krachtens voornoemde titel V zouden worden genomen, niet bindend voor het Verenigd Koninkrijk en/of Ierland, tenzij deze laatsten hun wens te kennen hebben gegeven deel te nemen aan deze maatregelen of deze te aanvaarden overeenkomstig Protocol nr. 21. Voorts wijzende op het feit dat dergelijke toekomstige overeenkomsten of dergelijke latere interne maatregelen van de Unie zouden komen te vallen onder Protocol nr. 22 betreffende de positie van Denemarken dat gehecht is aan voornoemde Verdragen, Zijn het volgende overeengekomen:*
 
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Verdragsluitende partijen bij het [Verdrag betreffende de Europese Unie](onbekend) en het [Verdrag betreffende de werking van de Europese Unie](onbekend), hierna „de lidstaten” genoemd, en
-
-De Europese Unie, hierna „de Unie” of „de EU”,
-
-enerzijds, en
-
-De Islamitische Republiek Afghanistan, hierna „Afghanistan” genoemd,
-
-anderzijds,
-
-hierna gezamenlijk „de partijen” genoemd,
-
-Opnieuw bevestigend hun engagement voor de soevereiniteit, onafhankelijkheid en territoriale integriteit van Afghanistan;
-
-Opnieuw bevestigend hun gehechtheid aan de beginselen van het internationaal recht, de doelstellingen en beginselen van het [Handvest van de Verenigde Naties](onbekend), de internationale verdragen en de resoluties van de VN-Veiligheidsraad;
-
-Erkennend de historische, politieke en economische banden tussen de partijen;
-
-Bevestigend hun verlangen de samenwerking op te drijven op basis van gedeelde waarden en tot wederzijds voordeel;
-
-Overwegende de gedeelde beleidsdoelstellingen, waarden en verbintenissen van de partijen, met inbegrip van de eerbiediging van de democratische beginselen, de rechtsstaat, de mensenrechten en goed bestuur;
-
-Erkennend dat deze beginselen onlosmakelijk verbonden zijn met ontwikkeling op de lange termijn;
-
-Erkennend dat de bevolking van Afghanistan, bij wege van haar legitieme, democratische instellingen en in het kader van de grondwet van Afghanistan, de rechtmatige eigenaar en impulsgever is voor het proces van stabilisering, ontwikkeling en democratisering van het land;
-
-Overwegende dat de Unie zich ertoe verbindt de inspanningen van Afghanistan te ondersteunen om de ontwikkeling te maximaliseren in de loop van het volgende decennium van verandering;
-
-Onderstrepend de wederzijdse verbintenissen die zijn overeengekomen op de internationale Afghanistan-conferenties in Bonn in december 2011, Tokio in juli 2012 en Londen in december 2014;
-
-Opnieuw bevestigend de verbintenis van Afghanistan om zijn bestuur te blijven verbeteren, alsook de verbintenis van de Unie om met Afghanistan een duurzame band aan te gaan;
-
-Overwegende dat de partijen bijzonder belang hechten aan de omvattende aard van de betrekkingen die zij met deze overeenkomst willen bevorderen;
-
-Opnieuw bevestigend hun streven om economische en sociale vooruitgang voor hun bevolking te bevorderen, alsook hun voornemen om hun betrekkingen op gebieden van wederzijds belang te consolideren, te verdiepen en te diversifiëren;
-
-Erkennend dat overeenkomstig de grondwet van Afghanistan de emancipatie en de volledige deelname van vrouwen op gelijke basis in alle geledingen van de maatschappij, met inbegrip van participatie in de beleidsvorming in het politieke proces op alle niveaus, fundamenteel zijn voor de verwezenlijking van gelijkheid en vrede;
-
-Erkennend het belang van ontwikkelingssamenwerking met ontwikkelingslanden, speciaal lage-inkomenslanden, landen die zich in de nasleep van een conflict bevinden, en landen zonder toegang tot de zee, met het oog op hun duurzame economische groei en ontwikkeling, voor een tijdige en volledige verwezenlijking van internationaal overeengekomen ontwikkelingsdoeleinden, met inbegrip van de millenniumdoelstellingen voor ontwikkeling van de VN en eventuele daarop volgende ontwikkelingsijkpunten die voor Afghanistan zijn vastgesteld, en voor een betere integratie van Afghanistan in de regio;
-
-Erkennend dat doeltreffende maatregelen getroffen moeten worden om de integriteit en verantwoordingsplicht te bevorderen, het correcte gebruik van overheidsmiddelen te garanderen en de corruptie te bestrijden;
-
-Erkennend dat meer samenwerking tussen de partijen steun moet bieden aan de capaciteit van Afghanistan om de kwaliteit van zijn administratie en bestuur te verbeteren, alsook de transparantie en doeltreffendheid van het beheer van de overheidsfinanciën;
-
-Opnieuw bevestigend het belang van coördinatie in de relevante regionale en multilaterale fora, meer bepaald wat betreft de aanpak door de partijen van mondiale problemen en regionale economische samenwerking;
-
-Erkennend dat terrorisme een bedreiging is voor hun bevolkingen en hun gemeenschappelijke veiligheid, en uitdrukking gevend aan hun volledige engagement voor de bestrijding van alle vormen van terrorisme, voor het opzetten van doeltreffende internationale samenwerking en instrumenten voor de uitbanning van terrorisme overeenkomstig het internationaal recht, met inbegrip van de mensenrechten en het humanitaire recht;
-
-Opnieuw bevestigend hun gezamenlijk engagement voor de bestrijding van de georganiseerde misdaad, met inbegrip van mensenhandel, migrantensmokkel en drugshandel, ook door middel van regionale en internationale mechanismen;
-
-Erkennend de bedreiging voor de gezondheid en de veiligheid die uitgaat van verboden verdovende middelen en de noodzaak van een gecoördineerde regionale en internationale samenwerking om de teelt, productie, facilitering en consumptie van, handel in en vraag naar drugs alsook het oneigenlijke gebruik van drugsprecursoren tegen te gaan, en tevens erkennend het belang van alternatieve middelen van bestaan voor de papavertelers in dit verband;
-
-Erkennend de noodzaak om internationale ontwapenings- en non-proliferatie-verbintenissen te respecteren;
-
-Overwegende dat het Internationaal Strafhof een belangrijke ontwikkeling voor vrede en internationale gerechtigheid is, waarmee wordt gestreefd naar effectieve vervolging van de ernstigste misdrijven die de internationale gemeenschap aangaan;
-
-Erkennend dat handel en buitenlandse directe investeringen een aanzienlijke rol zullen spelen in de ontwikkeling van Afghanistan en dat de partijen bijzonder belang hechten aan de beginselen en voorschriften van de internationale handel, die onder meer zijn vervat in de [Overeenkomst tot oprichting van de Wereldhandelsorganisatie](onbekend) (WTO);
-
-Uitdrukking gevend aan hun volledig engagement om duurzame ontwikkeling over de hele lijn te bevorderen, met inbegrip van milieubescherming en doeltreffende samenwerking voor de aanpak van de klimaatverandering, alsook de doeltreffende bevordering en tenuitvoerlegging van internationaal erkende arbeidsnormen;
-
-Onderstrepend het belang van samenwerking inzake migratie,
-
-Erkennend dat bijzondere aandacht nodig is voor de situatie en de grondrechten van vluchtelingen en intern ontheemden, met inbegrip van hun veilige, ordelijke en vrijwillige terugkeer;
-
-Wijzend op het feit dat, als de partijen in het kader van deze overeenkomst besluiten tot het aangaan van specifieke overeenkomsten op het gebied van vrijheid, veiligheid en recht, die door de Unie zouden worden gesloten krachtens [titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=V), de bepalingen van dergelijke toekomstige specifieke overeenkomsten niet bindend zullen zijn voor het Verenigd Koninkrijk en/of Ierland, tenzij de Unie, samen met het Verenigd Koninkrijk en/of Ierland wat betreft hun respectieve vorige bilaterale betrekkingen, Afghanistan ervan in kennis stelt dat het Verenigd Koninkrijk en/of Ierland gebonden zijn door dergelijke toekomstige specifieke overeenkomsten als deel van de Unie, overeenkomstig [Protocol nr. 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht](onbekend), dat aan het [Verdrag betreffende de Europese Unie](onbekend) en het [Verdrag betreffende de werking van de Europese Unie](onbekend) is gehecht. Evenzo zijn latere interne maatregelen van de Unie die met het oog op de uitvoering van deze overeenkomst krachtens voornoemde titel V zouden worden genomen, niet bindend voor het Verenigd Koninkrijk en/of Ierland, tenzij deze laatsten hun wens te kennen hebben gegeven deel te nemen aan deze maatregelen of deze te aanvaarden overeenkomstig Protocol nr. 21. Voorts wijzende op het feit dat dergelijke toekomstige overeenkomsten of dergelijke latere interne maatregelen van de Unie zouden komen te vallen onder [Protocol nr. 22 betreffende de positie van Denemarken](onbekend) dat gehecht is aan voornoemde Verdragen,
-
-Zijn het volgende overeengekomen:
-
-## TITEL I. AARD EN TOEPASSINGSGEBIED
+### TITEL I. AARD EN TOEPASSINGSGEBIED
 
 ##### Artikel 1. Toepassingsgebied en doelstellingen
 
@@ -183,11 +44,11 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 2. Algemene beginselen
 
-1. De partijen bevestigen dat zij de waarden delen die zijn vastgelegd in het [Handvest van de Verenigde Naties](onbekend).
+1. De partijen bevestigen dat zij de waarden delen die zijn vastgelegd in het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/BWBV0004143).
 
 2. De partijen erkennen dat de bevolking van Afghanistan, bij wege van haar legitieme, democratische instellingen en in het kader van de grondwet van Afghanistan, de rechtmatige eigenaar en impulsgever is voor het proces van stabilisering, ontwikkeling en democratisering van het land.
 
-3. De eerbiediging van de democratische beginselen en de rechten van de mens, zoals deze zijn vastgelegd in de [Universele Verklaring van de rechten van de mens](onbekend) en andere desbetreffende internationale mensenrechteninstrumenten, en van het beginsel van de rechtsstaat, ligt ten grondslag aan het binnenlandse en het buitenlandse beleid van de partijen en is een essentieel element van deze overeenkomst.
+3. De eerbiediging van de democratische beginselen en de rechten van de mens, zoals deze zijn vastgelegd in de [Universele Verklaring van de rechten van de mens](https://wetten.overheid.nl/BWBV0001008) en andere desbetreffende internationale mensenrechteninstrumenten, en van het beginsel van de rechtsstaat, ligt ten grondslag aan het binnenlandse en het buitenlandse beleid van de partijen en is een essentieel element van deze overeenkomst.
 
 4. De partijen bevestigen hun engagement om verder samen te werken tot de volledige realisering van internationaal overeengekomen ontwikkelingsdoelstellingen, met inbegrip van de millenniumdoelstellingen voor ontwikkeling, zoals die door Afghanistan zijn aangenomen, en eventuele latere ontwikkelingsdoelstellingen. Hiermede wordt de verantwoordelijkheid erkend van Afghanistan om zijn plannen voor economische en sociale ontwikkeling en voor relevant ontwikkelingsbeleid voor te bereiden en ten uitvoer te leggen, met inbegrip van de nationale prioriteitenprogramma's. De partijen bevestigen in deze context opnieuw hun gehechtheid aan een hoog niveau van milieubescherming, een inclusieve maatschappij en gelijkheid tussen mannen en vrouwen.
 
@@ -195,7 +56,7 @@ Zijn het volgende overeengekomen:
 
 6. De partijen komen overeen dat de samenwerking in het kader van deze overeenkomst zal geschieden overeenkomstig hun eigen wet- en regelgeving.
 
-## TITEL II. POLITIEKE SAMENWERKING
+### TITEL II. POLITIEKE SAMENWERKING
 
 ##### Artikel 3. Politieke dialoog
 
@@ -259,13 +120,13 @@ Er wordt tussen de partijen een regelmatige politieke dialoog ingesteld die indi
 
 ##### Artikel 8. Samenwerking met betrekking tot het Statuut van Rome
 
-De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal Strafhof een belangrijke ontwikkeling is voor de internationale vrede en gerechtigheid. Zij bevestigen opnieuw dat de ernstigste misdrijven waarmee de gehele internationale gemeenschap wordt geconfronteerd in de eerste plaats door nationale maatregelen moeten worden aangepakt in samenwerking met het Internationaal Strafhof. De partijen komen overeen samen te werken aan de bevordering van de universele onderschrijving van het [Statuut van Rome](onbekend) door:
+De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal Strafhof een belangrijke ontwikkeling is voor de internationale vrede en gerechtigheid. Zij bevestigen opnieuw dat de ernstigste misdrijven waarmee de gehele internationale gemeenschap wordt geconfronteerd in de eerste plaats door nationale maatregelen moeten worden aangepakt in samenwerking met het Internationaal Strafhof. De partijen komen overeen samen te werken aan de bevordering van de universele onderschrijving van het [Statuut van Rome](https://wetten.overheid.nl/BWBV0001489) door:
 
-- a. stappen te zetten, waar passend, tot ratificering van de instrumenten die betrekking hebben op het [Statuut van Rome](onbekend), zoals meer bepaald de [overeenkomst inzake de voorrechten en immuniteiten van het Internationaal Strafhof](onbekend);
+- a. stappen te zetten, waar passend, tot ratificering van de instrumenten die betrekking hebben op het [Statuut van Rome](https://wetten.overheid.nl/BWBV0001489), zoals meer bepaald de [overeenkomst inzake de voorrechten en immuniteiten van het Internationaal Strafhof](https://wetten.overheid.nl/BWBV0003031);
 
-- b. ervaringen uit te wisselen over de wettelijke aanpassingen die nodig zijn voor de ratificatie en tenuitvoerlegging van het [Statuut van Rome](onbekend); alsmede
+- b. ervaringen uit te wisselen over de wettelijke aanpassingen die nodig zijn voor de ratificatie en tenuitvoerlegging van het [Statuut van Rome](https://wetten.overheid.nl/BWBV0001489); alsmede
 
-- c. maatregelen te treffen om de integriteit van het [Statuut van Rome](onbekend) te waarborgen.
+- c. maatregelen te treffen om de integriteit van het [Statuut van Rome](https://wetten.overheid.nl/BWBV0001489) te waarborgen.
 
 ##### Artikel 9. Bestrijding van de verspreiding van massavernietigingswapens en van chemische, biologische, radiologische en nucleaire risico's
 
@@ -299,7 +160,7 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 2. De partijen komen overeen samen te werken inzake aangelegenheden die betrekking hebben op de bestrijding van terroristische activiteiten en informatie uit te wisselen over alle relevante kwesties, als passend en overeenkomstig de nationale en internationale wetgeving. Terrorismebestrijding maakt een belangrijk onderdeel uit van de onderlinge samenwerking. De partijen komen overeen de tenuitvoerlegging van relevante internationale instrumenten en verdragen op dit gebied te bevorderen. In dit verband zal capaciteitsopbouw de relevante gebieden van de strafrechtspleging bestrijken.
 
-## TITEL III. ONTWIKKELINGSSAMENWERKING
+### TITEL III. ONTWIKKELINGSSAMENWERKING
 
 ##### Artikel 12. Ontwikkelingssamenwerking
 
@@ -331,7 +192,7 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 14. De partijen komen ook overeen op de in dit artikel genoemde gebieden de samenwerking te bevorderen tussen denktanks, academici, niet-gouvernementele organisaties, bedrijven, culturele operatoren en de media, door het opzetten van seminars, conferenties en verwante activiteiten, indien gepast.
 
-## TITEL IV. SAMENWERKING INZAKE HANDEL EN INVESTERINGEN
+### TITEL IV. SAMENWERKING INZAKE HANDEL EN INVESTERINGEN
 
 ##### Artikel 13. Commerciële samenwerking
 
@@ -351,7 +212,7 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 ##### Artikel 14. Meestbegunstigingsbehandeling
 
-1. De partijen behandelen elkaar in hun handelsbetrekkingen als meestbegunstigde natie overeenkomstig de bepalingen van de [Algemene Overeenkomst inzake Tarieven en Handel](onbekend) (GATT) van 1994.
+1. De partijen behandelen elkaar in hun handelsbetrekkingen als meestbegunstigde natie overeenkomstig de bepalingen van de [Algemene Overeenkomst inzake Tarieven en Handel](https://wetten.overheid.nl/BWBV0001160) (GATT) van 1994.
 
 2. De in lid 1 bedoelde behandeling als meestbegunstigde natie heeft geen betrekking op preferenties die door een van beide partijen zijn toegekend krachtens een regeling uit hoofde van overeenkomsten tot oprichting van een douane-unie, en vrijhandelsgebied of een equivalent gebied met voorkeursbehandeling.
 
@@ -359,7 +220,7 @@ De partijen zijn van oordeel dat de doeltreffende werking van het Internationaal
 
 1. De partijen werken samen op het gebied van voedselveiligheid en sanitaire en fytosanitaire vraagstukken, ter bescherming van het leven en de gezondheid van mensen, dieren en planten op hun respectieve grondgebied.
 
-2. De partijen plegen overleg en wisselen informatie uit over hun respectieve maatregelen, als bedoeld in de [WTO-Overeenkomst inzake sanitaire en fytosanitaire maatregelen](onbekend), in het [Internationaal Verdrag voor de bescherming van planten](onbekend), de Wereldorganisatie voor diergezondheid en de Codex Alimentarius.
+2. De partijen plegen overleg en wisselen informatie uit over hun respectieve maatregelen, als bedoeld in de [WTO-Overeenkomst inzake sanitaire en fytosanitaire maatregelen](https://wetten.overheid.nl/BWBV0001160), in het [Internationaal Verdrag voor de bescherming van planten](https://wetten.overheid.nl/BWBV0003652), de Wereldorganisatie voor diergezondheid en de Codex Alimentarius.
 
 3. De partijen komen overeen te gaan samenwerken inzake capaciteitsopbouw inzake sanitaire en fytosanitaire vraagstukken. Dergelijke samenwerking moet geschikt zijn voor de behoeften van elke partij en met als doel de betrokken partij te helpen om te voldoen aan de wettelijke eisen van de andere partij.
 
@@ -417,7 +278,7 @@ De partijen erkennen het belang van transparantie en van een behoorlijke rechtsg
 
 2. De partijen werken samen om elk type misbruik van intellectuele-eigendomsrechten, inclusief geografische aanduidingen, te voorkomen en namaak en piraterij te bestrijden. Zij komen overeen dit mogelijk te maken door douanesamenwerking en andere geschikte vormen van administratieve samenwerking, onder meer door het opzetten en versterken van organisaties voor de controle en de bescherming van deze rechten en door meer samenwerking om de bescherming en registratie van hun respectieve geografische aanduidingen op hun respectieve grondgebied op passende wijze te vergemakkelijken, rekening houdend met internationale voorschriften, praktijken en ontwikkelingen op dit gebied en met hun respectieve capaciteit.
 
-## TITEL V. SAMENWERKING OP HET GEBIED VAN JUSTITIE EN BINNENLANDSE ZAKEN
+### TITEL V. SAMENWERKING OP HET GEBIED VAN JUSTITIE EN BINNENLANDSE ZAKEN
 
 ##### Artikel 24. Rechtsstaat, juridische samenwerking en politie
 
@@ -439,7 +300,7 @@ De partijen erkennen het belang van transparantie en van een behoorlijke rechtsg
 
 ##### Artikel 25. Samenwerking bij de bestrijding van georganiseerde misdaad en corruptie
 
-De partijen komen overeen samen te werken bij de bestrijding van georganiseerde, economische en financiële misdaad, met inbegrip van corruptie. Die samenwerking is meer in het bijzonder gericht op de toepassing en bevordering van de desbetreffende internationale normen en instrumenten, zoals het [VN-Verdrag ter bestrijding van grensoverschrijdende georganiseerde misdaad](onbekend) en de aanvullende protocollen en het [VN-Verdrag inzake bestrijding van corruptie](onbekend). De partijen hebben bijzondere aandacht voor het verband tussen de georganiseerde misdaad en de handel in drugs, precursoren, gevaarlijke materialen en wapens, mensenhandel en migrantensmokkel. Zij wisselen informatie uit over alle aspecten die relevant zijn voor de bestrijding van criminele activiteiten.
+De partijen komen overeen samen te werken bij de bestrijding van georganiseerde, economische en financiële misdaad, met inbegrip van corruptie. Die samenwerking is meer in het bijzonder gericht op de toepassing en bevordering van de desbetreffende internationale normen en instrumenten, zoals het [VN-Verdrag ter bestrijding van grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/BWBV0001668) en de aanvullende protocollen en het [VN-Verdrag inzake bestrijding van corruptie](https://wetten.overheid.nl/BWBV0001830). De partijen hebben bijzondere aandacht voor het verband tussen de georganiseerde misdaad en de handel in drugs, precursoren, gevaarlijke materialen en wapens, mensenhandel en migrantensmokkel. Zij wisselen informatie uit over alle aspecten die relevant zijn voor de bestrijding van criminele activiteiten.
 
 ##### Artikel 26. Drugsbestrijding
 
@@ -497,7 +358,7 @@ Afghanistan stemt ermee in dat de consulaire en diplomatieke autoriteiten van al
 
 2. De samenwerking inzake de bescherming van persoonsgegevens kan onder meer technische bijstand in de vorm van uitwisseling van informatie en deskundigheid inhouden.
 
-## TITEL VI. SECTORALE SAMENWERKING
+### TITEL VI. SECTORALE SAMENWERKING
 
 ##### Artikel 31. Modernisering van de overheidsdiensten
 
@@ -659,7 +520,7 @@ De partijen komen overeen dat hun samenwerking zich met name richt op de hervorm
 
 2. De partijen streven ernaar om passende maatregelen te nemen om culturele uitwisselingen te stimuleren en gemeenschappelijke culturele initiatieven uit te voeren, met name ook samenwerking inzake het bewaren van cultureel erfgoed.
 
-3. De partijen komen overeen elkaar te raadplegen en samen te werken binnen relevante internationale fora, zoals de Unesco, om gezamenlijke doelen na te streven, zoals het bevorderen van culturele verscheidenheid en het beschermen van het culturele erfgoed. In verband met culturele verscheidenheid pleiten de partijen ook voor de tenuitvoerlegging van het [Unesco-verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen](onbekend) van 2005.
+3. De partijen komen overeen elkaar te raadplegen en samen te werken binnen relevante internationale fora, zoals de Unesco, om gezamenlijke doelen na te streven, zoals het bevorderen van culturele verscheidenheid en het beschermen van het culturele erfgoed. In verband met culturele verscheidenheid pleiten de partijen ook voor de tenuitvoerlegging van het [Unesco-verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen](https://wetten.overheid.nl/BWBV0004039) van 2005.
 
 ##### Artikel 46. Informatiemaatschappij
 
@@ -669,7 +530,7 @@ De partijen erkennen dat informatie- en communicatietechnologieën (ICT) een cen
 
 De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwerking en dialoog tussen hun relevante instellingen en actoren op het gebied van audiovisuele aangelegenheden en media. Zij komen overeen een regelmatige dialoog over deze onderwerpen tot stand te brengen.
 
-## TITEL VII. REGIONALE SAMENWERKING
+### TITEL VII. REGIONALE SAMENWERKING
 
 ##### Artikel 48. Regionale samenwerking
 
@@ -679,7 +540,7 @@ De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwe
 
 3. De partijen komen voorts overeen de regionale samenwerking te bevorderen via hun diplomatieke contacten en op regionale fora waaraan zij deelnemen.
 
-## TITEL VIII. INSTITUTIONEEL KADER
+### TITEL VIII. INSTITUTIONEEL KADER
 
 ##### Artikel 49. Gemengd Comité
 
@@ -689,7 +550,7 @@ De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwe
 
 - b. prioriteiten vaststellen met betrekking tot de doelstellingen van deze overeenkomst;
 
-- c). toezicht houden op de ontwikkeling van de alomvattende betrekkingen tussen de partijen en aanbevelingen doen voor het bevorderen van de doelstellingen van deze overeenkomst;
+- c) toezicht houden op de ontwikkeling van de alomvattende betrekkingen tussen de partijen en aanbevelingen doen voor het bevorderen van de doelstellingen van deze overeenkomst;
 
 - d. waar nodig verzoeken om informatie aan comités en andere lichamen die bij andere overeenkomsten tussen de partijen zijn ingesteld, en door hen ingediende verslagen in overweging nemen;
 
@@ -707,7 +568,7 @@ De partijen stimuleren, ondersteunen en vergemakkelijken uitwisselingen, samenwe
 
 5. Het Gemengd Comité stelt zijn eigen reglement van orde vast.
 
-## TITEL IX. SLOTBEPALINGEN
+### TITEL IX. SLOTBEPALINGEN
 
 ##### Artikel 50. Middelen voor samenwerking
 
@@ -737,7 +598,7 @@ Elke partij kan voorstellen formuleren met het oog op de uitbreiding van het toe
 
 ##### Artikel 53. Andere overeenkomsten
 
-1. Onverminderd de desbetreffende bepalingen van het [Verdrag betreffende de Europese Unie](onbekend) en het [Verdrag betreffende de werking van de Europese Unie](onbekend), doet deze overeenkomst noch in het kader daarvan ondernomen actie afbreuk aan de bevoegdheden van de lidstaten van de Europese Unie om bilaterale samenwerkingsbanden met Afghanistan aan te knopen of, indien wenselijk, bilaterale en samenwerkingsovereenkomsten met Afghanistan te sluiten. Deze overeenkomst doet geen afbreuk aan de toepassing of de uitvoering van verbintenissen die een van beide partijen zijn aangegaan in betrekkingen met derde partijen.
+1. Onverminderd de desbetreffende bepalingen van het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/BWBV0001506), doet deze overeenkomst noch in het kader daarvan ondernomen actie afbreuk aan de bevoegdheden van de lidstaten van de Europese Unie om bilaterale samenwerkingsbanden met Afghanistan aan te knopen of, indien wenselijk, bilaterale en samenwerkingsovereenkomsten met Afghanistan te sluiten. Deze overeenkomst doet geen afbreuk aan de toepassing of de uitvoering van verbintenissen die een van beide partijen zijn aangegaan in betrekkingen met derde partijen.
 
 2. De partijen kunnen deze overeenkomst aanvullen door sluiting van specifieke overeenkomsten op elk samenwerkingsgebied dat binnen het toepassingsgebied van deze overeenkomst valt. Dergelijke specifieke overeenkomsten vormen een integrerend onderdeel van de algemene bilaterale betrekkingen zoals die worden geregeld bij deze overeenkomst en maken deel uit van een gemeenschappelijk institutioneel kader.
 
@@ -775,7 +636,7 @@ Voor de toepassing van deze overeenkomst wordt met de term „partijen” bedoel
 
 ##### Artikel 58. Territoriale toepassing
 
-Deze overeenkomst is van toepassing op het grondgebied waarop het [Verdrag betreffende de Europese Unie](onbekend) en het [Verdrag betreffende de werking van de Europese Unie](onbekend) van toepassing zijn, onder de in die verdragen neergelegde voorwaarden, en op het grondgebied van Afghanistan.
+Deze overeenkomst is van toepassing op het grondgebied waarop het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/BWBV0001506) van toepassing zijn, onder de in die verdragen neergelegde voorwaarden, en op het grondgebied van Afghanistan.
 
 ##### Artikel 59. Inwerkingtreding, voorlopige toepassing, looptijd en beëindiging
 

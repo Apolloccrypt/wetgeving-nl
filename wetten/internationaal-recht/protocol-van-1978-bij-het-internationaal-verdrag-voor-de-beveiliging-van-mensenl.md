@@ -1,118 +1,89 @@
 ---
 title: "Protocol van 1978 bij het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974"
 identifier: "BWBV0006123"
-country: "nl"
-rank: "verdrag"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006123"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005040863"
-version_id: "10005370762"
-internal_id: "C10008544861"
-label_id: "10005024054"
-dtd_version: "2.0"
-original_entry_into_force: "1981-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006123/2026-01-01/0"
-intitule_bron: "Trb.1978-189"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-12-29"
-intitule_in_force: "1981-02-04"
-intitule_status: "goed"
-original_publication: "Trb.1978-189"
-original_published_date: "1978-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-189"
-entry_into_force_date: "1981-05-01"
-jci_1_3: "jci1.3:c:BWBV0006123&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBV0006123&g=2026-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1981-05-01"
+publicatiedatum: 1981-05-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBV0006123"
+opgehaald: 2026-09-16
 ---
+
 # Protocol van 1978 bij het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974
 
-De Partijen bij dit Protocol,
+*The Parties to the present Protocol, Being Parties to the International Convention for the Safety of Life at Sea, 1974, done at London on 1 November 1974, Recognizing the significant contribution which can be made by the above-mentioned Convention to the promotion of the safety of ships and property at sea and the lives of persons on board, Recognizing also the need to improve further the safety of ships, particularly tankers, Considering that this objective may best be achieved by the conclusion of a Protocol relating to the International Convention for the Safety of Life at Sea, 1974, Have agreed as follows:*
 
-Partij zijnde bij het op 1 november 1974 te Londen gesloten [Internationaal Verdrag voor de Beveiliging van Mensenlevens op Zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264),
+##### Article I. General Obligations
 
-Zich bewust van de belangrijke bijdrage die dat [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) kan leveren tot het bevorderen van de beveiliging van schepen en ladingen op zee en van het leven van de personen aan boord,
+The Parties to the present Protocol undertake to give effect to the provisions of the present Protocol and the [Annex](https://wetten.overheid.nl/BWBV0006123) hereto which shall constitute an integral part of the present Protocol. Every reference to the present Protocol constitutes at the same time a reference to the Annex hereto.
 
-Zich tevens bewust van de noodzaak de beveiliging van schepen, met name van tankschepen, verder te verbeteren,
+##### Article II. Application
 
-Overwegende dat dit doel het best kan worden bereikt door het sluiten van een Protocol bij het [Internationaal Verdrag voor de Beveiliging van Mensenlevens op Zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264),
+1. The provisions of [Articles II](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=II), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=III) (other than paragraph (a)), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=IV), [VI(b), (c) and (d)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VI), [VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VII) and [VIII of the International Convention for the Safety of Life at Sea, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII) (hereinafter referred to as „the Convention”) are incorporated in the present Protocol, provided that references in those Articles to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) and to Contracting Governments shall be taken to mean references to the present Protocol and to the Parties to the present Protocol, respectively.
 
-Zijn overeengekomen als volgt:
+2. Any ship to which the present Protocol applies shall comply with the provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), subject to the modifications and additions set out in the present Protocol.
 
-##### Artikel I. Algemene verplichtingen
+3. With respect to the ships of non-parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) and the present Protocol, the Parties to the present Protocol shall apply the requirements of the Convention and the present Protocol as may be necessary to ensure that no more favourable treatment is given to such ships.
 
-De Partijen bij dit Protocol verbinden zich uitvoering te geven aan de bepalingen van dit Protocol, en van de Bijlage daarbij, die een integrerend deel vormt van dit Protocol. Elke verwijzing naar dit Protocol houdt terzelfder tijd een verwijzing in naar de Bijlage daarbij.
+##### Article III. Communication of Information
 
-##### Artikel II. Toepassing
+The Parties to the present Protocol undertake to communicate to, and deposit with, the Secretary-General of the Inter-Governmental Maritime Consultative Organization (hereinafter referred to as “the Organization”), a list of nominated surveyors or recognized organizations which are authorized to act on their behalf in the administration of measures for safety of life at sea for circulation to the Parties for information of their officers. The Administration shall therefore notify the Organization of the specific responsibilities and conditions of the authority delegated to the nominated surveyors or recognized organizations.
 
-1. De bepalingen van de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=II), [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=III) behalve letter (a), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=IV), [VI letters (b), (c) en (d)](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VI), [VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VII) en [VIII van bet Internationaal Verdrag voor de Beveiliging van Mensenlevens op Zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII) (hierna te noemen „het Verdrag” zijn opgenomen in dit Protocol, met dien verstande dat de verwijzingen in deze artikelen naar het [verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) en naar Verdragsluitende Regeringen dienen te worden opgevat als verwijzingen naar dit Protocol, onderscheidenlijk de Partijen bij dit Protocol.
+##### Article IV. Signature, Ratification, Acceptance, Approval and Accession
 
-2. Elk schip waarop dit Protocol van toepassing is, dient te voldoen aan de bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), behoudens de wijzigingen en aanvullingen vermeld in dit Protocol.
+1. The present Protocol shall be open for signature at the Headquarters of the Organization from 1 June 1978 to 1 March 1979 and shall thereafter remain open for accession. Subject to the provisions of paragraph 3 of this Article, States may become Parties to the present Protocol by:
 
-3. Wat betreft de schepen van hen die niet partij zijn bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) en dit Protocol, dienen de Partijen bij dit Protocol waar nodig de voorschriften van het Verdrag en dit Protocol toe te passen ten einde te verzekeren dat zodanige schepen geen gunstiger behandeling ontvangen.
+- (a) signature without reservation as to ratification, acceptance or approval; or
 
-##### Artikel III. Toezending van inlichtingen
+- (b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or
 
-De Partijen bij dit Protocol verbinden zich aan de Secretaris-Generaal van de Intergouvernementele Maritieme Consultatieve Organisatie (hierna te noemen „de Organisatie”) toe te zenden en aldaar te deponeren een lijst van benoemde experts of erkende organisaties die gemachtigd zijn namens hen te handelen bij de toepassing van maatregelen betreffende de beveiliging van mensenlevens op zee, ten einde deze lijst mede te delen aan de Partijen, die haar ter kennis brengen van hun ambtenaren. De Administratie stelt de Organisatie derhalve op de hoogte van de specifieke verantwoordelijkheden en voorwaarden van de bevoegdheden die zijn overgedragen aan de benoemde experts of erkende organisaties.
+- (c) accession.
 
-##### Artikel IV. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+2. Ratification, acceptance, approval or accession shal be effected by the deposit of an instrument to that effect with the Secretary-General of the Organization.
 
-1. Dit Verdrag blijft open voor ondertekening op het hoofdkantoor van de Organisatie van 1 juni 1978 tot 1 maart 1979 en blijft daarna open voor toetreding. Behoudens het bepaalde in het derde lid van dit artikel kunnen Staten partij bij dit Protocol worden door:
+3. The present Protocol may be signed without reservation, ratified, accepted, approved or acceded to only by States which have signed without reservation, ratified, accepted, approved or acceded to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003264).
 
-- (a). ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring; of
+##### Article V. Entry into Force
 
-- (b). ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring; of
+1. The present Protocol shall enter into force six months after the date on which not less than fifteen States, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant shipping, have become Parties to it in accordance with [Article IV](https://wetten.overheid.nl/BWBV0006123) of the present Protocol, provided however that the present Protocol shall not enter into force before the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) has entered into force.
 
-- (c). toetreding.
+2. Any instrument of ratification, acceptance, approval or accession deposited after the date on which the present Protocol enters into force shall take effect three months after the date of deposit.
 
-2. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een hiertoe strekkende akte bij de Secretaris-Generaal van de Organisatie.
+3. After the date on which an amendment to the present Protocol is deemed to have been accepted under [Article VIII of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII), any instrument of ratification, acceptance, approval or accession deposited shall apply to the present Protocol as amended.
 
-3. Slechts Staten die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) zonder voorbehoud hebben ondertekend, het hebben bekrachtigd, aanvaard en goedgekeurd of daartoe zijn toegetreden, mogen dit Protocol zonder voorbehoud ondertekenen, het bekrachtigen, aanvaarden en goedkeuren of ertoe toetreden.
+##### Article VI. Denunciation
 
-##### Artikel V. Inwerkingtreding
+1. The present Protocol may be denounced by any Party at any time after the expiry of five years from the date on which the present Protocol enters into force for that Party.
 
-1. Dit Protocol treedt in werking zes maanden na de datum waarop niet minder dan vijftien Staten, waarvan de gezamenlijke koopvaardijvloten niet minder dan vijftig procent van de bruto tonnage van de wereldkoopvaardijvloot vormen, partij daarbij zijn geworden overeenkomstig [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006123&artikel=IV&z=2026-01-01&g=2026-01-01) van dit Protocol, met dien verstande dat dit Protocol niet in werking treedt voordat het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) in werking is getreden.
+2. Denunciation shall be effected by the deposit of an instrument of denunciation with the Secretary-General of the Organization.
 
-2. Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop dit Protocol in werking treedt, wordt van kracht drie maanden na de datum van nederlegging.
+3. A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its receipt by the Secretary-General of the Organization.
 
-3. Na de datum waarop een wijziging van dit Protocol wordt geacht te zijn aanvaard krachtens [artikel VIII van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=VIII), heeft iedere nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op het gewijzigde Protocol.
+4. A denunciation of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) by a Party shall be deemed to be a denunciation of the present Protocol by that Party.
 
-##### Artikel VI. Opzegging
+##### Article VII. Depositary
 
-1. Een Partij kan dit Protocol na verloop van vijf jaar na de datum waarop het voor deze Partij in werking is getreden te allen tijde opzeggen.
+1. The present Protocol shall be deposited with the Secretary-General of the Organization (hereinafter referred to as “the Depositary”).
 
-2. Opzegging geschiedt door de nederlegging van een akte van opzegging bij de Secretaris-Generaal van de Organisatie.
+2. The Depositary shall:
 
-3. Een opzegging wordt van kracht één jaar, of een langere periode als is aangegeven in de akte van opzegging, na ontvangst ervan door de Secretaris-Generaal van de Organisatie.
+- (a) inform all States which have signed the present Protocol or acceded thereto of:
 
-4. Een Partij die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264) opzegt, wordt geacht daarmee tevens dit Protocol te hebben opgezegd.
+   - (i) each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;
 
-##### Artikel VII. Depositaris
+   - (ii) the date of entry into force of the present Protocol;
 
-1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal van de Organisatie (hierna te noemen „de Depositaris”).
+   - (iii) the deposit of any instrument of denunciation of the present Protocol together with the date on which it was received and the date on which the denunciation takes effect;
 
-2. De depositaris:
+- (b) transmit certified true copies of the present Protocol to all States which have signed the present Protocol or acceded thereto.
 
-- (a). doet alle Staten die dit Protocol hebben ondertekend of daartoe zijn toegetreden mededeling van:
+3. As soon as the present Protocol enters into force, a certified true copy thereof shall be transmitted by the Depositary to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-- (i). iedere nieuwe ondertekening of nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, alsmede van de datum daarvan;
+##### Article VIII. Languages
 
-- (ii). de datum van inwerkingtreding van dit Protocol;
-
-- (iii). de nederlegging van iedere akte van opzegging van dit Protocol, alsmede van de datum van ontvangst daarvan en de datum waarop de opzegging van kracht wordt;
-
-- (b). zendt voor eensluidend gewaarmerkte afschriften van dit Protocol aan alle Staten die dit Protocol hebben ondertekend of ertoe zijn toegetreden.
-
-3. Zodra dit Protocol in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift daarvan door de Depositaris toegezonden aan het Secretariaat van de Verenigde Naties voor registratie en publikatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel VIII. Talen
-
-Dit Protocol is opgesteld in een enkel exemplaar in de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek. Er zullen officiële vertalingen worden vervaardigd in de Arabische, de Duitse en de Italiaanse taal, welke vertalingen worden nedergelegd bij het ondertekende origineel.
+The present Protocol is established in a single original in the Chinese, English, French, Russian and Spanish languages, each text being equally authentic. Official translations in the Arabic, German and Italian languages shall be prepared and deposited with the signed original.
 
 IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Protocol.
 

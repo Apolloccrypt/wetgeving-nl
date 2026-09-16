@@ -1,286 +1,273 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Staten van Amerika inzake de veiligheid van de burgerluchtvaart voor voorinspectie-operaties op de internationale luchthaven Koningin Beatrix in Aruba"
 identifier: "BWBV0006593"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-03-19"
-last_updated: "2017-03-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006593"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005352343"
-version_id: "10005772942"
-internal_id: "C10009223991"
-label_id: "10005335234"
-dtd_version: "2.0"
-original_entry_into_force: "2017-03-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006593/2017-03-19/0"
-intitule_bron: "Trb.2016-65"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-06-01"
-intitule_in_force: "2017-03-21"
-intitule_status: "goed"
-original_publication: "Trb.2016-65"
-original_published_date: "2016-06-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2016-65"
-entry_into_force_date: "2017-03-19"
-jci_1_3: "jci1.3:c:BWBV0006593&z=2017-03-19&g=2017-03-19"
-jci_1_0: "1.0:c:BWBV0006593&g=2017-03-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-03-19"
+publicatiedatum: 2017-03-19
+laatste_update: 2017-03-19
+status: geldig
+toestand: 2017-03-19
+bron: "https://wetten.overheid.nl/BWBV0006593"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Staten van Amerika inzake de veiligheid van de burgerluchtvaart voor voorinspectie-operaties op de internationale luchthaven Koningin Beatrix in Aruba
 
-Overwegende dat op 2 december 1994 te Washington een [Verdrag is gesloten tussen de Verenigde Staten van Amerika en het Koninkrijk der Nederlanden met betrekking tot Aruba inzake douanevoorinspectie](https://wetten.overheid.nl/jci1.3:c:BWBV0001956), dat gewijzigd is op 22 mei 2008 (hierna te noemen „het Verdrag van 1994/2008”);
+*Whereas an Agreement between the United States of America and the Kingdom of the Netherlands in respect of Aruba on preclearance for entry into the United States was concluded at Washington on December 2, 1994, and amended on May 22, 2008, hereafter referred to as “the 1994/2008 Agreement. Whereas the United States of America and the Kingdom of the Netherlands, in respect of Aruba, (hereinafter “the Parties”) have as a common objective the promotion and development of administrative and operational cooperation in civil aviation security, particularly in the area of Preclearance operations; Whereas the Parties recognize the 1994/2008 Agreement as a separate and individual agreement, and desire to complement the 1994/2008 Agreement with cooperative activities in the field of civil aviation security relating to Preclearance operations; Whereas the Parties affirm a common interest in permitting passengers who have pre-cleared U.S. customs, immigration, and other border controls at Queen Beatrix International Airport in Aruba (hereinafter “the Preclearance Airport”), to deplane into the Sterile Areas of airports within the territory of the United States; Whereas the Parties recognize that entry into the Sterile Area at a U.S. airport is dependent on sustainable airport passenger checkpoint Screening standards implemented at the Preclearance Airport at a level commensurate with the Screening standards implemented at U.S. airports; Whereas the Parties desire to increase the exchanges of information in areas pertinent to the identification of civil aviation security threats and the development of security standards pertaining to the Screening of passengers, property, and checked baggage, if appropriate, particularly with respect to Preclearance operations; and Whereas the Parties desire to set forth a vehicle for the conduct of cooperative activities in the field of civil aviation security relating to Preclearance operations, consistent with the framework set forth in the Agreement and without prejudice to the 1994/2008 Agreement; It is agreed as follows:*
 
-Overwegende dat de Verenigde Staten van Amerika en het Koninkrijk der Nederlanden, ten behoeve van Aruba, (hierna te noemen „de partijen”) als gezamenlijk doel hebben de administratieve en operationele samenwerking ten behoeve van de veiligheid van de burgerluchtvaart, met name op het gebied van voorinspectie-operaties, te bevorderen en ontwikkelen;
+##### Article I. Definitions
 
-Overwegende dat de partijen het [Verdrag van 1994/2008](https://wetten.overheid.nl/jci1.3:c:BWBV0001956) erkennen als een afzonderlijk verdrag dat zij wensen aan te vullen met samenwerking op het gebied van voorinspectie-operaties ten behoeve van de veiligheid van de burgerluchtvaart;
+*Competent Authorities*
 
-Overwegende dat de partijen bevestigen er gezamenlijk belang bij te hebben dat toegestaan wordt dat passagiers die na voorinspectie middels Amerikaanse douane-, immigratie- en andere grenscontroles op de internationale luchthaven Koningin Beatrix (hierna te noemen „de voorinspectieluchthaven”) hun luchtvaartuig verlaten in de steriele zone van luchthavens op het grondgebied van de Verenigde Staten;
+Means, in the case of the United States, the Transportation Security Administration of the Department of Homeland Security of the United States of America (“DHS/TSA”) and, in the case of Aruba, the Minister in charge of Transport (“MT”) or the Department of Civil Aviation of Aruba (“DCA”) as indicated in the specific articles (collectively, “the Competent Authorities”), or their respective successors.
 
-Overwegende dat de partijen erkennen dat toegang tot de steriele zone op een Amerikaanse luchthaven afhankelijk is van de vraag of er op de voorinspectieluchthaven gedegen screeningnormen worden gehanteerd bij de controles van passagiers op een niveau dat verenigbaar is met de screeningnormen die gehanteerd worden op Amerikaanse luchthavens;
+*Cleared Person*
 
-Overwegende dat de partijen de uitwisseling van informatie wensen uit te breiden naar gebieden die relevant zijn voor het identificeren van bedreigingen voor de veiligheid van de burgerluchtvaart en het ontwikkelen van veiligheidsnormen ten behoeve van de screening van passagiers, handbagage en ruimbagage, indien van toepassing, in het bijzonder met het oog op voorinspectie-operaties; en
+Means an individual and his or her accessible property that a U.S. Preclearance officer, after examination and inspection, has cleared for entry and admission into the United States and whose person and accessible property have been screened and cleared using Screening protocols that are mutually acceptable to the Parties as established pursuant to this Agreement.
 
-Overwegende dat de partijen een instrument wensen te creëren voor de uitvoering van samenwerking ten behoeve van de veiligheid van de burgerluchtvaart ter zake van voorinspectie-operaties, verenigbaar met het kader vervat in het [Verdrag van 1994/2008](https://wetten.overheid.nl/jci1.3:c:BWBV0001956) en onverminderd de bepalingen daarvan;
+*Confidential Information*
 
-Zijn het volgende overeengekomen:
+Means information provided by DCA and obtained or developed in the conduct of security activities, the disclosure of which DCA has determined would cause damage to the safety or other sensitive interests of Aruba or its stakeholders.
 
-##### Artikel I. Begripsomschrijvingen
+*Passenger Screening Checkpoint*
 
-betekent, in het geval van de Verenigde Staten, DHS/TSA (**Transportation Security Administration of the Department of Homeland Security of the United States of America**) en, in het geval van Aruba, de minister belast met transport („MT”) of DCA (Directie Luchtvaart van Aruba), zoals vermeld in de desbetreffende artikelen (tezamen te noemen de „bevoegde autoriteiten”) of hun onderscheiden opvolgers.
+Means the location at the entry to a Sterile Area, at which individuals or accessible property are inspected for the presence of explosives, incendiaries, weapons, or other prohibited items. These locations include the Screening checkpoint or boarding gate where individuals and accessible property are inspected with metal detectors, x-ray machines, and other methods.
 
-betekent een natuurlijke persoon en zijn of haar handbagage die door een Amerikaanse voorinspectiefunctionaris na onderzoek en inspectie worden toegelaten tot de Verenigde Staten na te zijn gescreend conform de screeningprotocollen die voor beide partijen wederzijds aanvaardbaar zijn als vastgesteld uit hoofde van dit Verdrag.
+*Preclearance*
 
-betekent informatie verschaft door DCA en verkregen of ontwikkeld bij de uitvoering van beveiligingsactiviteiten, waarvan DCA heeft vastgesteld dat onthulling daarvan schadelijk zou zijn voor de veiligheid of voor andere gevoelige belangen van Aruba of zijn stakeholders.
+Means the procedure of conducting examination and inspection in the territory of one Party required for entry/admission into the territory of the other Party.
 
-betekent de locatie bij de toegang tot een steriele zone, waar natuurlijke personen of handbagage worden geïnspecteerd op de aanwezigheid van explosieven, brandbare materialen, wapens of andere verboden goederen. Deze locaties omvatten het screeningcheckpoint of de boarding gate waar natuurlijke personen en handbagage worden geïnspecteerd met metaaldetectors, röntgenapparatuur en andere methodes.
+*Screening*
 
-betekent de procedure voor onderzoek en inspectie op het grondgebied van de ene partij die vereist is voor toegang/toelating tot het grondgebied van de andere partij.
+Means the aviation security inspection of individuals and property for weapons, explosives, incendiaries, and other prohibited items.
 
-betekent de inspectie van natuurlijke personen en zaken op wapens, explosieven, brandbare materialen en andere verboden goederen ten behoeve van de veiligheid van de luchtvaart.
+*Selectee*
 
-betekent een persoon die is geselecteerd voor bijzondere screening door middel van een computerondersteund pre-screeningsysteem voor passagiers of een ander gezamenlijk door DHS/TSA en DCA vastgesteld en goedgekeurd proces,.
+Means a person selected for special Screening requirements by a computer-assisted passenger pre-screening system, or another process as mutually determined and approved by DHS/TSA and DCA.
 
-betekent informatie verkregen of opgesteld bij de uitvoering van beveiligingsactiviteiten, met inbegrip van onderzoek en ontwikkeling, waarvan DHS/TSA heeft vastgesteld dat de onthulling daarvan een ongerechtvaardigde inbreuk op de privacy zou vormen, handelsgeheimen of vertrouwelijke informatie verkregen van een persoon zou onthullen, of schadelijk zou zijn voor de veiligheid van het vervoer.
+*Sensitive Security Information*
 
-betekent een deel van een luchthaven waar passagiers toegelaten worden om aan boord van een luchtvaartuig te gaan en waar de toegang wordt gecontroleerd met omschreven beveiligingsmaatregelen, waaronder het screenen van personen en handbagage.
+Means information obtained or developed in the conduct of security activities, including research and development, the disclosure of which DHS/TSA has determined would constitute an unwarranted invasion of privacy, reveal trade secrets or privileged or confidential information obtained from any person, or be detrimental to the security of transportation.
 
-##### Artikel II. Doel
+*Sterile Area*
 
-In dit Verdrag zijn de voorwaarden vervat waaronder de bevoegde autoriteiten gaan samenwerken op het gebied van de veiligheid van de burgerluchtvaart, en normen gaan vaststellen voor het screenen van passagiers die van de voorinspectieluchthaven vertrekken naar de Verenigde Staten die vergelijkbaar zijn met de normen die zijn geïmplementeerd op Amerikaanse luchthavens. In dit Verdrag zijn voorts de voorwaarden vervat die nader kunnen worden omschreven in een aanhangsel bij dit Verdrag, uit hoofde waarvan DHS/TSA de procedures voor screening van ruimbagage van DCA kan aanvaarden. Bij de samenwerkingsactiviteiten uit hoofde van dit Verdrag wordt voorzien in de ontwikkeling en implementatie van wederzijds aanvaardbare screeningnormen voor checkpoints op luchthavens voor passagiers en ruimbagage, indien van toepassing, op de voorinspectieluchthaven teneinde te waarborgen dat de screening van passagiers, handbagage en ruimbagage, indien van toepassing, wordt uitgevoerd aan de hand van normen die vergelijkbaar zijn met de screeningnormen geïmplementeerd op de Amerikaanse luchthavens waar de gecontroleerde en toegelaten personen en ruimbagage zullen aankomen. Deze activiteiten waarborgen bijgevolg de veiligheid en het gemak van passagiers en ruimbagage die arriveren in de Verenigde Staten vanaf de voorinspectieluchthaven, in het bijzonder van passagiers die overstappen na aankomst in de Verenigde Staten, en zullen de veiligheidsmaatregelen van de VS en Aruba op elkaar afstemmen, waarbij dubbele of overbodige werkzaamheden worden voorkomen voor zover dit passend is en verenigbaar met de onderscheiden wet- en regelgeving van de partijen.
+Means a portion of an airport that provides passengers access to boarding aircraft, and to which access is controlled by specified security measures, which include the Screening of persons and accessible property.
 
-##### Artikel III. Implementatie
+##### Article II. Objective
 
-A. De bijlagen bij dit Verdrag zijn juridisch bindend en maken een integrerend onderdeel uit van dit Verdrag.
+This Agreement sets forth the terms and conditions under which the Competent Authorities will engage in cooperative activities in the area of civil aviation security, and establish Screening standards for passengers departing the Preclearance Airport for the United States that are comparable to those implemented at U.S. airports. In addition, this Agreement sets forth the terms and conditions, as may be further specified in an Appendix hereto, whereby DHS/TSA may accept DCA’s procedures for checked baggage Screening. Cooperative activities undertaken pursuant to this Agreement will provide for the development and implementation of mutually acceptable airport passenger checkpoint and checked baggage Screening standards, if applicable, at the Preclearance Airport to ensure that the screening of passengers, accessible property, and checked baggage Screening, if applicable, is performed using standards comparable to Screening standards implemented at the U.S. airports at which the Cleared Persons and checked baggage will arrive. Accordingly, these activities will ensure the security and facilitation of passengers and checked baggage arriving in the United States from the Preclearance Airport, particularly passengers transferring flights upon arrival in the United States, and align U.S. and Aruba’s security measures while reducing unnecessary duplication or redundancies, to the extent appropriate and consistent with the respective laws and regulations of the Parties.
 
-B. De naar behoren gemachtigde vertegenwoordigers van DHS/TSA en MT kunnen, in overeenstemming met de voorwaarden van dit Verdrag, projectafspraken uitwerken en vaststellen die als niet-juridisch bindende aanhangsels (hierna te noemen „aanhangsels”) bij dit Verdrag worden vastgelegd, waarin de samenwerkingsactiviteiten worden afgebakend. De aanhangsels bevatten een omschrijving van het soort samenwerking, het personeel en de overige middelen die nodig zijn voor de uitvoering van de taken, een raming van de kosten, uitvoeringsplannen, het soort te gebruiken of eventueel te lenen apparatuur en de duur, voor zover van toepassing. Op activiteiten verricht uit hoofde van een aanhangsel zijn de bepalingen van dit Verdrag van toepassing en daarmee dienen zij verenigbaar te zijn.
+##### Article III. Implementation
 
-C. De aangewezen functionaris binnen DHS/TSA voor alle coördinatie en management in het kader van dit Verdrag is de **Assistant Administrator of the Office of Global Strategies** of zijn vertegenwoordiger.
+A. [Annexes](https://wetten.overheid.nl/BWBR0005907) to this Agreement are legally binding and constitute an integral part of this Agreement.
 
-D. Voor Aruba is DCA verantwoordelijk voor alle coördinatie en management in het kader van dit Verdrag.
+B. The duly authorized representatives of DHS/TSA and MT, in accordance with the terms and conditions of this Agreement, may develop and conclude project arrangements, to be documented as non-legally binding appendices to this Agreement (“Appendices”), delineating their cooperative activities. The Appendices shall contain a description of the type of cooperation to be performed, the personnel and other resources required to accomplish the tasks, the estimated costs, implementation plans, the type of equipment to be used or loaned (if any), and duration, as appropriate. Any activity conducted under an Appendix shall be consistent with and subject to the terms of this Agreement.
 
-##### Artikel IV. Omvang van de werkzaamheden
+C. The designated official within the DHS/TSA for the coordination and management of this Agreement is the Assistant Administrator of the Office of Global Strategies or his/her designee.
 
-A. De samenwerking omtrent de veiligheid van de burgerluchtvaart ten behoeve van voorinspectie-operaties tussen de bevoegde autoriteiten kan bestaan uit, maar is niet noodzakelijkerwijs beperkt tot:
+D. For Aruba DCA is responsible for the coordination and management of this Agreement.
 
-- 1. het verschaffen van algemene expertise ten behoeve van het ontwikkelen en verbeteren van de infrastructuur, normen, procedures, beleidslijnen, training en apparatuur voor de veiligheid van de burgerluchtvaart;
+##### Article IV. Scope of work
 
-- 2. het in overeenstemming met [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=C&z=2017-03-19&g=2017-03-19) assistentie verlenen bij de ontwikkeling van formele trainingen en functioneringstests met betrekking tot de veiligheid van de burgerluchtvaart voor het screeningspersoneel op de voorinspectieluchthaven;
+A. The cooperative activities in relation to civil aviation security for Preclearance operations between the Competent Authorities of the Parties may include, but are not necessarily limited to, the following:
 
-- 3. het ontwikkelen en implementeren van vergelijkbare en wederzijds aanvaardbare normen en het delen van beste praktijken en procedures voor het screenen van passagiers en handbagage;
+- 1. Providing general expertise to assist in developing and improving civil aviation security infrastructure, standards, procedures, policies, training and equipment;
 
-- 4. het delen van informatie en ervaring met betrekking tot operationele processen op het gebied van de veiligheid van de burgerluchtvaart voor voorinspectie-operaties, met inbegrip van informatie ter zake van screeningmethodes en de beoordeling van nieuwe en geavanceerde beveiligingsapparatuur in een luchthavenomgeving;
+- 2. In accordance with [Annex C](https://wetten.overheid.nl/BWBV0006593), assisting in the development of formal training and performance testing related to civil aviation security for screener personnel at the Preclearance Airport;
 
-- 5. het in overeenstemming met [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=D&z=2017-03-19&g=2017-03-19) (uit)lenen van de nodige apparatuur teneinde te voldoen aan vergelijkbare normen voor de screening van passagiers en handbagage;
+- 3. Developing and implementing comparable and mutually acceptable standards, and sharing best practices and procedures for passenger and accessible property Screening;
 
-- 6. het in overeenstemming met [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=A&z=2017-03-19&g=2017-03-19) uitvoeren van gezamenlijke operationele beoordelingen van de onderscheiden infrastructuur, programma’s, procedures en processen van de partijen voor de veiligheid van de burgerluchtvaart voor het screenen van passagiers en handbagage in verband met de voorinspectie-operaties; en
+- 4. Sharing information and experience related to operational processes in civil aviation security for Preclearance operations, including information related to Screening methods and the evaluation of new and advanced security equipment in an airport environment;
 
-- 7. het ontwikkelen en uitvoeren van gezamenlijke initiatieven gericht op de verbetering van de veiligheid van de internationale burgerluchtvaart in verband met voorinspectie-operaties.
+- 5. In accordance with [Annex D](https://wetten.overheid.nl/BWBV0006593), loaning necessary equipment to achieve comparable screening standards for passenger and accessible property Screening;
 
-B. Relevante samenwerkingsactiviteiten in het kader van de veiligheid van de burgerluchtvaart voor voorinspectie-operaties en de ontwikkeling van veiligheidsnormen en -procedures ten behoeve van de screening en voorinspectie van passagiers dienen verenigbaar te zijn met dit Verdrag.
+- 6. In accordance with [Annex A](https://wetten.overheid.nl/BWBV0006593), conducting joint operational assessments of the Parties' respective civil aviation security infrastructure, programs, procedures, and processes, for the Screening of passengers and accessible property in connection with the Preclearance operations; and
 
-C. Elke uitwisseling van informatie die of van materiaal dat vertrouwelijke informatie of gevoelige veiligheidsinformatie kan omvatten geschiedt in overeenstemming met de van toepassing zijnde wetgeving en beleidslijnen, dit Verdrag en [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=B&z=2017-03-19&g=2017-03-19) hierbij.
+- 7. Developing and carrying out joint initiatives aimed at enhancing international civil aviation security in connection with Preclearance operations.
 
-##### Artikel V. Screeningnormen op de voorinspectieluchthaven
+B. Relevant cooperative activities in civil aviation security for Preclearance operations and the development of security standards and procedures pertaining to the Screening and Preclearance of passengers shall be consistent with this Agreement.
 
-A. De bevoegde autoriteiten stellen voor de screening van passagiers en handbagage op de voorinspectieluchthaven normen vast die vergelijkbaar zijn met de screeningnormen op de commerciële luchthavens in de Verenigde Staten en DCA waarborgt de implementatie ervan. Deze normen dienen bijgevolg onder meer te voorzien in de instelling en handhaving van steriele zones op de voorinspectieluchthaven in overeenstemming met de volgende vereisten:
+C. Any exchange of information or material that may involve Confidential Information or Sensitive Security Information, shall be done in accordance with applicable laws and policies, this Agreement and [Annex B](https://wetten.overheid.nl/BWBV0006593) hereto.
 
-- 1. het waarborgen dat de steriele zone vrij is van onbevoegde personen, explosieven, brandbaar materiaal of wapens, telkens wanneer de zone in gebruik wordt genomen na een periode zonder controles;
+##### Article V. Screening standards at the preclearance airport
 
-- 2. het controleren op toegang door onbevoegde personen en voorkomen dat er zonder toestemming explosieven, brandbare materialen, wapens of andere verboden goederen worden binnengebracht;
+A. The Competent Authorities shall establish, and DCA shall ensure implementation of, passenger and accessible property Screening standards at the Preclearance Airport that are comparable to the Screening standards at commercial airports in the United States. Accordingly, such standards shall provide for, among other things, the establishment and maintenance of Sterile Areas in the Preclearance Airport in accordance with the following requirements:
 
-- 3. het screenen van alle personen bij binnenkomst in de steriele zone en opnieuw screenen van alle personen die terugkeren naar de steriele zone nadat zij – ongeacht de reden – deze hebben verlaten naar een openbare (niet-steriele) zone;
+- 1. Ensuring that the Sterile Area is cleared of unauthorized persons, explosives, incendiaries, or weapons each time the area is put into operation following a period of non-control;
 
-- 4. het vaststellen en implementeren van controleprocedures bij inbreuken op de beveiliging teneinde te waarborgen dat onbevoegden en hun handbagage die worden aangetroffen in de steriele zone voortdurend worden geobserveerd totdat zij uit de steriele zone zijn verwijderd en dat de bevoegde opsporingsautoriteiten onverwijld in kennis worden gesteld van het incident;
+- 2. Controlling against access by unauthorized persons and the unauthorized introduction of explosives, incendiaries, weapons, or other prohibited items;
 
-- 5. het vaststellen en implementeren van procedures teneinde te waarborgen dat de steriele zone niet is vervuild bij een inbreuk op de beveiliging, waarbij het veiligheids- en opsporingspersoneel de onbevoegde persoon en de verboden zaak in de steriele zone niet voortdurend kunnen observeren en erop reageren. Mitigerende maatregelen omvatten volledige of gedeeltelijke ontruiming van de terminal, al naargelang van toepassing, en het in kennis stellen van de desbetreffende autoriteiten; en
+- 3. Screening any person upon entry into the Sterile Area, and rescreening any person, who for any reason exited from the Sterile Area to a public (non-sterile) area, upon reentry into the Sterile Area;
 
-- 6. het vaststellen en implementeren van kennisgevingsprocedures en effectieve communicatiekanalen teneinde een adequate respons van de opsporingsambtenaar (**law enforcement officer** – „LEO”) bij een inbreuk op de beveiliging van de steriele zone te waarborgen.
+- 4. Establishing and implementing breach control procedures to ensure that any unauthorized person who is discovered in the Sterile Area, and his or her accessible property, are continuously monitored until removed from the Sterile Area, and that appropriate law enforcement authorities are immediately notified of the incident;
 
-B. De bevoegde autoriteiten stellen een lijst van in de steriele zone verboden zaken op die wederzijds aanvaardbaar is en implementeren deze. Deze lijst bevat, maar is niet beperkt tot, revolvers en vuurwapens, knuppels en daarmee vergelijkbare attributen, explosieven, brandbare materialen, verdovende chemicaliën en andere gevaarlijke of scherpe voorwerpen die gebruikt kunnen worden om catastrofale schade aan een luchtvaartuig toe te brengen of gebruikt kunnen worden door personen die voornemens zijn een luchtvaartuig te kapen.
+- 5. Establishing and implementing procedures to ensure that the Sterile Area has not been contaminated in the event of a breach where security and law enforcement personnel are not able to continuously monitor and respond to the unauthorized person or prohibited item in the Sterile Area. Mitigation measures shall include full or partial terminal evacuation, as appropriate, and notification of appropriate authorities; and
 
-C. De door de bevoegde autoriteiten ontwikkelde screeningnormen en de lijst van verboden zaken, hierboven genoemd onder V.A en V.B, kunnen van tijd tot tijd worden gewijzigd of anderszins worden aangepast, afhankelijk van de actuele informatie omtrent dreigingen of andere onderling overeen te komen omstandigheden.
+- 6. Establishing and implementing notification procedures and effective communications channels to ensure the adequacy of law enforcement officer (“LEO”) response in the event of a breach of the Sterile Area.
 
-##### Artikel VI. Normen voor screeners op de voorinspectieluchthaven
+B. The Competent Authorities shall establish and implement a mutually acceptable list of items that are prohibited from the Sterile Area. That list shall include, but is not limited to, guns and firearms, club-like items, explosives, incendiaries, disabling chemicals and other dangerous or sharp items that could be used to cause catastrophic damage to an aircraft or might be used by those with the intent to hijack an aircraft.
 
-A. De bevoegde autoriteiten stellen voor alle personen die de screening van passagiers en handbagage op de voorinspectieluchthaven verrichten normen vast die vergelijkbaar zijn met de normen voor screeners in de Verenigde Staten en DCA waarborgt de implementatie ervan. Met deze normen dient bijgevolg te worden gewaarborgd dat screeners op de voorinspectieluchthaven:
+C. The screening standards developed by the Competent Authorities and the list of prohibited items, discussed in Article V.A and V.B above, may be amended or otherwise modified from time to time depending on current threat information or other circumstances as may be mutually agreed upon.
 
-- 1. fysiek en qua opleiding voldoen aan minimumeisen;
+##### Article VI. Screener standards at the preclearance airport
 
-- 2. met goed gevolg een antecedentenonderzoek ondergaan dat vergelijkbaar is met het onderzoek dat wordt verricht naar screeners op de luchthavens in de Verenigde Staten;
+A. The Competent Authorities shall establish, and DCA shall ensure implementation of, standards for all persons performing Screening functions at the Preclearance Airport, which shall be comparable to the screener standards required in the United States. Accordingly, such standards shall ensure that screeners at the Preclearance Airport shall:
 
-- 3. formele theoretische training, training op de werkvloer, nascholing en, zo nodig, remedial training afronden die vergelijkbaar is met het niveau van de trainingen voor screeners op de luchthavens in de Verenigde Staten. De training omvat ten minste instructie in deugdelijke screeningtechnieken, fysieke inspectie, gebruik van metaaldetectoren, gebruik van röntgensystemen en Threat Image Projection training of een vergelijkbaar alternatief;
+- 1. Meet minimum physical and educational standards;
 
-- 4. worden onderworpen aan een programma waarbij hun functioneren wordt getest door onaangekondigde evaluatie van hun vaardigheden ten aanzien van het ontdekken en behandelen van personen en goederen die niet mogen worden toegelaten tot de steriele zone in overeenstemming met het Arubaanse recht; en
+- 2. Successfully undergo a background check that is comparable to those applied to screeners at airports in the United States;
 
-- 5. worden onderworpen aan een programma van jaarlijkse hercertificering van screeningvaardigheden met gebruikmaking van zowel schriftelijke examens als praktische toepassingen. De normen kunnen nader worden omschreven in een aanhangsel bij dit Verdrag.
+- 3. Complete formal classroom training, on-the-job training, recurrent training, and where needed, remedial training that is comparable to the level of training provided to screeners at airports in the United States. Training shall, at a minimum, include instruction in proper Screening techniques, physical inspection, use of metal detectors, use of X-ray systems, and Threat Image Projection training or a comparable alternative;
 
-B. DCA waarborgt de implementatie op de voorinspectieluchthaven door te zorgen voor voldoende personeel en toezicht om de configuratie bij ieder screening checkpoint voor passagiers te ondersteunen.
+- 4. Be subject to a program of performance testing through undisclosed evaluation of screeners’ abilities to detect and process people and property prohibited from entering the Sterile Area in accordance with Aruban law; and
 
-##### Artikel VII. Screeningmethodes voor passagiers op de voorinspectieluchthaven
+- 5. Be subject to a program of annual screener proficiency recertification using both written examinations and practical applications.
 
-De bevoegde autoriteiten stellen wederzijds aanvaardbare procedures vast, en DCA waarborgt de implementatie ervan, om te waarborgen dat passagiers en andere personen op de voorinspectieluchthaven belet wordt verboden goederen mee te voeren naar de steriele zone of aan boord van een luchtvaartuig en dat deze wederzijds aanvaardbare procedures vergelijkbaar zijn met de in de Verenigde Staten verplichte screeningmethodes voor passagiers en ten minste het volgende waarborgen:
+The standards may be further specified in an Appendix hereto.
 
-- A. Alle personen die het screening checkpoint voor passagiers wensen te passeren of aan boord van een luchtvaartuig wensen te gaan worden gescreend op verboden goederen.
+B. DCA shall ensure implementation at the Preclearance Airport so as to maintain staffing levels and supervision sufficient to support the configuration of each Passenger Screening Checkpoint.
 
-- B. Personen die weigeren te worden gescreend, wordt belet het screening checkpoint voor passagiers te passeren.
+##### Article VII. Passenger screening methods at the preclearance airport
 
-- C. Alvorens een persoon toegestaan wordt het screening checkpoint voor passagiers te passeren:
+The Competent Authorities shall establish, and DCA shall ensure implementation of, mutually acceptable procedures to ensure that passengers and other persons at the Preclearance Airport are prevented from carrying prohibited items into the Sterile Area or onboard an aircraft, and that such mutually acceptable procedures shall be comparable to the passenger Screening procedures required in the United States, and, at a minimum, shall ensure the following:
 
-- 1. vindt screening gewoonlijk plaats met behulp van metaaldetectors. Indien er geen metaaldetectors beschikbaar zijn, vindt fouillering plaats conform procedures die vergelijkbaar zijn met de procedures die gehanteerd worden in de Verenigde Staten;
+- A. All persons desiring to pass beyond the Passenger Screening Checkpoint or board an airplane shall be screened for prohibited items.
 
-- 2. dient screening alle aanwijzingen van onverklaarde metalen voorwerpen op personen op te helderen.
+- B. Any person who refuses to be screened shall be denied passage beyond the Passenger Screening Checkpoint.
 
-- D. Indien schriftelijk overeengekomen tussen de bevoegde autoriteiten kan voor het screenen van personen gebruik worden gemaakt van andere apparatuur of methodes.
+- C. Prior to an individual being permitted to pass beyond the Passenger Screening Checkpoint, Screening shall:
 
-- E. Personen die niet gecontroleerd en toegelaten kunnen worden via een combinatie van de van toepassing zijnde screeningprocedures worden verwezen naar een LEO.
+   - 1. Normally be accomplished through the use of metal detectors. Where metal detectors are not available, a physical body search shall be conducted using procedures comparable to those employed in the United States;
 
-- F. DCA waarborgt de implementatie van specifieke wederzijds aanvaardbare procedures voor het gebruik van WTMD (**walk-through metal detectors**, metaaldetectiepoortjes), HHMD (**hand-held metal detectors**, handmetaaldetectors) fouillering en andere screeningmethodes, waaronder alarmprotocollen.
+   - 2. Satisfactorily resolve all indications of unaccounted for metal on an individual's person.
 
-- G. Specifieke wederzijds aanvaardbare procedures worden vastgesteld voor het screenen van de volgende passagiers, en DCA waarborgt de implementatie ervan: diplomaten; van screening vrijgestelde personen; personen met een handicap; baby’s, peuters en jonge kinderen; dieren, gewapende LEOs; personen in hechtenis van gewapende LEOs; personen onder beschermende escorte van gewapende LEOs; hulpverleners; gewapende veiligheidsfunctionarissen; en bemanning van luchtvaartuigen.
+- D. Other equipment or methods for Screening individuals may be used, as mutually agreed to, by the Competent Authorities in writing.
 
-- H. Secundaire screening van personen die door een luchtvaartmaatschappij als geselecteerden worden aangemerkt uit hoofde van de lijst met geselecteerden van DHS/TSA geschiedt conform wederzijds aanvaardbare procedures.
+- E. Any person who cannot be cleared by using any combination of applicable Screening procedures shall be referred to a LEO.
 
-- I. Er vindt steeksproefgewijs secundaire screening plaats van een wederzijds aanvaardbaar omschreven percentage van de personen die bij het screening checkpoint voor passagiers op de voorinspectieluchthaven arriveren.
+- F. DCA shall ensure implementation of specific mutually acceptable procedures for the use of walk-through metal detectors (“WTMD”), hand-held metal detectors (“HHMD”), a physical body search, and other Screening methods, including alarm resolution protocols.
 
-- J. Indien bij een passagier die onderworpen wordt aan voorinspectie bij een screening checkpoint voor passagiers of in een andere fase van het screeningproces voor passagiers op de voorinspectieluchthaven smokkelwaar of een veiligheidsrisico wordt geconstateerd, wordt personeel van de Amerikaanse douane- en grensbewakingsdienst, bijvoorbeeld de **Port Director** of de dienstdoende toezichthouder, onmiddellijk in kennis gesteld.
+- G. Specific mutually acceptable procedures to screen the following passengers shall be established, and DCA shall ensure their implementation: diplomats; individuals exempted from Screening; individuals with disabilities; infants, toddlers, and young children; animals; armed LEOs; individuals in the custody of armed LEOs; individuals under protective escort of armed LEOs; emergency personnel; armed security guards; and aircraft operator flight crews.
 
-##### Artikel VIII. Screeningapparatuur op de voorinspectieluchthaven
+- H. Secondary Screening of persons identified by an airline as Selectees pursuant to DHS/TSA’s Selectee List shall be conducted using mutually acceptable procedures.
 
-De voorinspectieluchthaven gebruikt een combinatie van screeningapparatuur en -methodes die voldoen aan de kwalificatienormen van DHS/TSA, waaronder röntgensystemen, WTMD, ETD (**explosives trace detection,** apparaten voor het ontdekken van sporen van explosieven) en HHMD. De partijen komen voorts overeen dat MT waarborgt dat:
+- I. Random secondary Screening of a mutually acceptable specified percentage of persons who enter the Passenger Screening Checkpoint at the Preclearance Airport shall be conducted.
 
-- A. elk röntgensysteem gebruikt voor screening op de voorinspectieluchthaven voldoet aan de test volgens de stappenwigmethode, organisch en niet-organisch materiaal kan onderscheiden en kleurenbeelden kan tonen;
+- J. When contraband or a security threat involving a passenger subject to Preclearance is detected at a Passenger Screening Checkpoint or otherwise during the passenger Screening process at the Preclearance Airport, U.S. Customs and Border Protection personnel, such as the Port Director or on-duty shift supervisor, will be immediately notified of the event.
 
-- B. de ETD-operators DHS/TSA raadplegen om de juiste ETD-instellingen te bepalen; en
+##### Article VIII. Screening equipment at the preclearance airport
 
-- C. de operators ervoor zorgen dat de screeningapparatuur dagelijks wordt gekalibreerd en periodiek wordt onderhouden.
+The Preclearance Airport shall use a combination of Screening equipment and methods that meet DHS/TSA qualification standards, to include X-ray systems, WTMDs, explosives trace detection (ETD) devices, and HHMDs. The Parties further agree that MT shall ensure that:
 
-##### Artikel IX. Screeningmethodes voor handbagage op de voorinspectieluchthaven
+- A. Each X-ray system used for Screening at the Preclearance Airport passes Test Step Wedge, discerns organic and inorganic materials, and has color imaging capability;
 
-De bevoegde autoriteiten stellen voor het screenen van handbagage op de voorinspectieluchthaven wederzijds aanvaardbare procedures vast die vergelijkbaar zijn met de in de Verenigde Staten verplichte screeningmethodes voor handbagage en DCA waarborgt de implementatie ervan. Met deze procedures wordt ten minste het volgende gewaarborgd:
+- B. The operators of the ETD devices shall consult with DHS/TSA to determine the appropriate ETD settings; and
 
-- A. Er worden wederzijds aanvaardbare alarmprotocollen vastgesteld en DCA waarborgt de implementatie ervan, teneinde passagiers te beletten verboden goederen in hun handbagage mee te voeren naar de steriele zone of aan boord van een vliegtuig door alle handbagage te screenen via het screening checkpoint voor passagiers, waarbij een of meer van de volgende screeningmethoden worden gebruikt:
+- C. The operators of the screening equipment shall provide for daily calibration of Screening equipment and periodic maintenance.
 
-- 1. screening met röntgenapparatuur;
+##### Article IX. Accessible property screening methods at the preclearance airport
 
-- 2. ETD; en/of
+The Competent Authorities shall establish, and DCA shall ensure implementation of, mutually acceptable procedures for accessible property Screening at the Preclearance Airport, which shall be comparable to the accessible property Screening procedures required in the United States. At a minimum, such procedures shall ensure the following:
 
-- 3. fysieke inspectie.
+- A. Mutually acceptable alarm resolution protocols shall be established, and DCA shall ensure implementation, to prevent passengers from carrying prohibited items in their accessible property into the Sterile Area, or onboard an aircraft, by Screening all carry-on items passing through the Passenger Screening Checkpoint, using one or more of the following Screening methods:
 
-- B. Er vinden voortdurend inspecties van handbagage plaats met de in gebruik zijnde röntgenapparaten bij alle screeningcheckpoints voor passagiers.
+   - 1. X-ray Screening;
 
-- C. Indien een persoon inspectie van een deel van zijn handbagage weigert, wordt dat deel niet toegelaten tot de steriele zone of de cabine van een luchtvaartuig dat de voorinspectieluchthaven verlaat naar de Verenigde Staten.
+   - 2. ETD; and/or
 
-- D. Wanneer het beeld van een stuk handbagage op het scherm van een röntgenapparaat erop duidt dat het mogelijk explosieven, brandbaar materiaal of een dodelijk of gevaarlijk wapen bevat, wordt het onderworpen aan aanvullende screening. Aanvullende screening van handbagage, die dient te geschieden in aanwezigheid van de passagier, wordt gedaan via de methodes in de onderstaande volgorde:
+   - 3. Physical inspection.
 
-- 1. ETD – indien beschikbaar, dient handbagage die niet door de operator van het röntgenapparaat kan worden geklaard te worden geïnspecteerd met ETD; en
+- B. Inspections of carry-on items at each X-ray unit in operation at each Passenger Screening Checkpoint shall be continuously conducted.
 
-- 2. fysieke inspectie – de handbagage dient fysiek te worden geïnspecteerd.
+- C. If a person refuses to permit inspection of any carry-on item, that item shall not be allowed into the Sterile Area or inside any aircraft cabin departing the Preclearance Airport for the United States.
 
-- E. Zaken die niet gecontroleerd en toegelaten kunnen worden via een combinatie van de van toepassing zijnde screeningprocedures worden doorverwezen naar een LEO.
+- D. When an image of a carry-on item displayed on an X-ray monitor indicates that the item may conceal an explosive, incendiary, or a deadly or dangerous weapon, the carry-on item shall be subjected to additional Screening. Additional Screening of the carry-on item, which must be accomplished in the presence of the passenger, shall use the following inspection methods in the order listed:
 
-##### Artikel X. Gezamenlijke operationele beoordeling van de voorinspectieluchthaven
+   - 1. ETD – where available, an ETD device must be used to inspect carry-on items that cannot be cleared by the X-ray operator; and
 
-A. De bevoegde autoriteiten verrichten gezamenlijk operationele beoordelingen van de infrastructuur, programma’s, procedures en processen ten behoeve van de veiligheid van de burgerluchtvaart die zijn vastgesteld en geïmplementeerd op de voorinspectieluchthaven teneinde te waarborgen dat voldaan wordt aan de wederzijds overeengekomen normen ten aanzien van screeningoperaties voor personen en handbagage in overeenstemming met dit Verdrag en de desbetreffende bijlage of aanhangsel bedoeld in [artikel III.A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=III&z=2017-03-19&g=2017-03-19).
+   - 2. Physical inspection – conduct a physical inspection of the carry-on item.
 
-B. De bevoegde autoriteiten verrichten periodiek gezamenlijke operationele beoordelingen van de screeningnormen die zijn geïmplementeerd op de voorinspectieluchthaven teneinde te waarborgen dat de normen en de implementatie en het functioneren ervan vergelijkbaar zijn met de normen die worden geïmplementeerd en toegepast op commerciële luchthavens in de Verenigde Staten.
+- E. Property that cannot be cleared by using any combination of the agreed upon procedures shall be referred to a LEO.
 
-C. De bevoegde autoriteiten coördineren de uitwerking van een wederzijds aanvaardbare planning voor deze gezamenlijke beoordelingen van de voorinspectieluchthaven. Elke gezamenlijke beoordeling wordt ten minste zestig (60) dagen vóór de uitvoering gepland.
+##### Article X. Joint operational assessment of the preclearance airport
 
-##### Artikel XI. Ondersteuning door gastheerstaat
+A. The Competent Authorities shall conduct joint operational assessments of the civil aviation security infrastructure, programs, procedures, and processes established and implemented at the Preclearance Airport for the purpose of ensuring compliance with the mutually agreed standards as related to passenger and accessible property Screening operations in accordance with this Agreement and related annex or appendix referred to in [Article III.A](https://wetten.overheid.nl/BWBV0006593).
 
-De ondersteuning door DCA die nodig is voor de uitvoering van de samenwerkingsactiviteiten en uitwisselingen beoogd in dit Verdrag dient te voldoen aan de van toepassing zijnde wet- en regelgeving, en het van toepassing zijnde beleid van Aruba. DCA kan voorts de aanvullende ondersteuning verstrekken zoals vastgelegd in een aanhangsel.
+B. The Competent Authorities shall conduct periodic joint operational assessments of the Screening standards implemented at the Preclearance Airport to ensure that the standards and their implementation and performance are comparable to those implemented and performed at commercial airports in the United States.
 
-##### Artikel XII. Financiële bepalingen
+C. The Competent Authorities shall coordinate on development of a mutually acceptable schedule of such joint operational assessments of the Preclearance Airport. Each joint operational assessment shall be scheduled at least sixty (60) days in advance of conducting such assessment.
 
-A. Elke partij draagt alle kosten, inclusief reiskosten, die verband houden met de deelname van haar eigen personeel aan werkzaamheden verricht uit hoofde van dit Verdrag.
+##### Article XI. Host party support
 
-B. Alle activiteiten verricht uit hoofde van dit Verdrag zijn afhankelijk van de beschikbaarheid van toegewezen middelen en personeel.
+The support by DCA necessary for accomplishing the cooperative activities and exchanges contemplated by this Agreement shall be in accordance with applicable laws, regulations and policies of Aruba. DCA also may provide such additional support as may be set forth in an Appendix.
 
-C. Onverminderd [artikel XII.A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XII&z=2017-03-19&g=2017-03-19) kunnen de partijen met wederzijdse instemming via een aanhangsel of een andere wederzijds aanvaardbare regeling bepalen om middelen uit te wisselen.
+##### Article XII. Financial provisions
 
-##### Artikel XIII. Vertrouwelijkheid
+A. Each Party shall bear all costs, including travel expenses, associated with the participation of its own personnel in work performed under this Agreement.
 
-A. Samenwerkingsacitiveiten uit hoofde van dit Verdrag kunnen bestaan uit het gebruik en de uitwisseling van vertrouwelijke informatie en/of gevoelige veiligheidsinformatie, voor zover toegestaan door de van toepassing zijnde wet- en regelgeving, en het van toepassing zijnde beleid van de partijen.
+B. All activities pursuant to this Agreement are subject to the availability of appropriated funds and personnel.
 
-B. De overdracht van vertrouwelijke informatie door DCA aan DHS/TSA dient vooraf te worden goedgekeurd door haar directeur.
+C. Notwithstanding Article XII.A, the Parties may, by mutual agreement, provide for an exchange of funds through an Appendix or other mutually acceptable arrangement.
 
-C. Overdracht van gevoelige veiligheidsinformatie door DHS/TSA aan DCA dient vooraf te worden goedgekeurd door de Administrator van TSA en te voldoen aan de vereisten inzake behandeling, verspreiding en opslag vervat in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=B&z=2017-03-19&g=2017-03-19) bij dit Verdrag.
+##### Article XIII. Confidentiality
 
-D. Tenzij anders vereist krachtens wet- of regelgeving, onthullen de bevoegde autoriteiten geen informatie, documenten, dossiers of andere materialen ontvangen van de andere partij in verband met de werkzaamheden verricht uit hoofde van dit Verdrag of de bijlagen of aanhangsels daarbij aan andere personen (met inbegrip van maar niet beperkt tot een aannemer van een partij) dan hun medewerkers, zonder de uitdrukkelijke schriftelijke instemming van de andere partij.
+A. Cooperative activities undertaken pursuant to this Agreement may include the use and exchange of Confidential Information and/or Sensitive Security Information, to the extent authorized by applicable laws, regulations and policies of the Parties.
 
-E. De bevoegde autoriteiten van beide partijen nemen alle praktische maatregelen om te waarborgen dat uit hoofde van dit Verdrag verstrekte of gegenereerde informatie beschermd wordt tegen verdere onthulling. Daartoe nemen de bevoegde autoriteiten van beide partijen maatregelen, voor zover verenigbaar met hun nationale wet- of regelgeving, teneinde te waarborgen dat:
+B. The release of Confidential Information by DCA to DHS/TSA is subject to the prior approval of its Director.
 
-- 1. er geen vertrouwelijke informatie en/of gevoelige veiligheidsinformatie wordt gebruikt voor doeleinden anders dan voorzien in de bijlagen of aanhangsels bij dit Verdrag;
+C. The release of Sensitive Security Information by DHS/TSA to DCA is subject to the prior approval of the TSA Administrator and to the handling, distribution and storage requirements contained in [Annex B](https://wetten.overheid.nl/BWBV0006593) hereto.
 
-- 2. voldaan wordt aan de beperkingen ten aanzien van verspreiding en toegang die gelden voor informatie die wordt verstrekt uit hoofde van een bijlage of aanhangsel bij dit Verdrag;
+D. Unless otherwise required by law or regulation, the Competent Authority of neither Party shall disclose to any person (including, but not limited to, a contractor of a Party) other than its employees any information, documents, records, or other materials received from the other Party in connection with work performed under this Agreement or its [Annexes](https://wetten.overheid.nl/BWBR0005907) and Appendices, without the express written consent of the other Party.
 
-- 3. alle gevallen worden onderzocht waarvan bekend is of ten aanzien waarvan er gronden zijn voor de verdenking dat er vertrouwelijke informatie of gevoelige veiligheidsinformatie of materiaal verstrekt of gegenereerd uit hoofde van de bijlagen of aanhangsels bij dit Verdrag verdwenen is of onthuld aan personen die niet zijn gemachtigd tot ontvangst daarvan uit hoofde van de bepalingen van dit Verdrag, en de bevoegde autoriteit van de andere partij onverwijld en volledig wordt geïnformeerd over dergelijke voorvallen en over de definitieve uitkomsten van het onderzoek en over de getroffen corrigerende maatregelen om herhaling te voorkomen.
+E. The Competent Authority of each Party shall take all practicable steps to ensure that information provided or generated pursuant to this Agreement is protected from further disclosure. In furtherance of that objective, the Competent Authority of each Party shall take steps, to the extent consistent with its domestic laws or regulations, to ensure that:
 
-F. De bevoegde autoriteiten van beide partijen waarborgen dat de toegang tot vertrouwelijke informatie of gevoelige veiligheidsinformatie wordt beperkt tot de personen die beschikken over de vereiste veiligheidsmachtigingen en deze informatie specifiek nodig hebben zoals omschreven in een bijlage of aanhangsel bij dit Verdrag.
+- 1. It does not use Confidential Information and/or Sensitive Security Information for purposes other than those provided for in the [Annexes](https://wetten.overheid.nl/BWBR0005907) or Appendices to this Agreement;
 
-##### Artikel XIV. Vrijwaring en aansprakelijkheid
+- 2. It complies with any distribution and access restrictions on information that is provided pursuant to the [Annexes](https://wetten.overheid.nl/BWBR0005907) or Appendices to this Agreement;
 
-A. Onverminderd de punten B en C van dit artikel aanvaarden de Verenigde Staten, met inbegrip van DHS/TSA en alle overige instanties en organen van de Verenigde Staten (tezamen aangeduid als „de Verenigde Staten”), geen aansprakelijkheid voor vorderingen, verliezen, schade, letsel of gevallen van overlijden die voortvloeien uit of verband houden met dit Verdrag en de bijlagen en aanhangsels daarbij.
+- 3. It investigates all cases in which it is known or where there are grounds for suspecting that Confidential Information or Sensitive Security Information or material provided or generated pursuant to the [Annexes](https://wetten.overheid.nl/BWBR0005907) or Appendices to this Agreement has been lost or disclosed to persons not authorized to receive such information under the terms of this Agreement, and promptly and fully informs the competent authority of the other Party of the details of any such occurrences, and the final results of the investigation and of the corrective action taken to preclude recurrences.
 
-B. De bevoegde autoriteiten van Aruba stemmen ermee in de Verenigde Staten en alle huidige of voormalige functionarissen of medewerkers van de Verenigde Staten schadeloos te stellen bij gerechtelijke uitspraken, regelingen of door hen betaalde schadevergoedingen en alle kosten (met inbegrip van kosten van advocaten) die voor hen ontstaan ten gevolge van een vordering of gerechtelijke procedure van welke aard dan ook ingesteld door een derde in Aruba die voortvloeit uit of verband houdt met dit Verdrag. Eventuele geschillen tussen de partijen worden opgelost in overeenstemming met de bepalingen van [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XVII&z=2017-03-19&g=2017-03-19).
+F. The Competent Authority of each Party shall ensure that access to Confidential Information and/or Sensitive Security Information is limited to those persons who possess requisite security clearances and have a specific need for access to the information as specified in an Annex or Appendix to this Agreement.
 
-C. Handelingen van de Verenigde Staten of huidige of voormalige functionarissen of medewerkers van de Verenigde Staten die voortvloeien uit of verband houden met dit Verdrag en de bijlagen en aanhangsels waarvan is vastgesteld, door middel van juridische procedures of in een regeling, dat die i. een opzettelijke misdraging of grove nalatigheid vormen en ii. hebben geleid tot persoonlijk letsel, overlijden of schade aan eigendommen, worden geacht te vallen buiten de reikwijdte van de verplichting van de competente autoriteiten van Aruba om de Verenigde Staten of huidige of voormalige functionarissen of medewerkers van de Verenigde Staten schadeloos te stellen uit hoofde van punt B. van dit artikel.
+##### Article XIV. Indemnities and liability
 
-##### Artikel XV. Overleg
+A. Without prejudice to paragraphs B and C of this Article, the United States, including the DHS/TSA and all other agencies and instrumentalities of the United States (collectively “the United States”), assumes no liability for any claim, loss, damage, injury, or death arising out of or relating to this Agreement, its [Annexes](https://wetten.overheid.nl/BWBR0005907) and Appendices.
 
-Elke partij kan te allen tijde verzoeken om overleg over de uitlegging, toepassing of wijziging van dit Verdrag, met inbegrip van de bijlagen of aanhangsels daarbij. Dergelijk overleg vangt zo spoedig mogelijk aan, maar niet later dan zestig (60) dagen te rekenen vanaf de datum waarop de andere partij het verzoek ontvangt, tenzij anders wordt overeengekomen.
+B. The Competent Authorities of Aruba, agree to indemnify the United States and any current or former officer or employee of the United States for any judgments, settlements, or awards paid by them and all costs (including attorneys' fees) incurred by them as a result of any claim or legal proceeding of any kind brought by a third party in Aruba, arising out of or relating to this Agreement. Any disagreements between the Parties shall be resolved in accordance with the provisions of [Article XVII](https://wetten.overheid.nl/BWBV0006593).
 
-##### Artikel XVI. Wijzigingen
+C. Acts by the United States or any current or former officer or employee of the United States arising out of or relating to this Agreement or its [Annexes](https://wetten.overheid.nl/BWBR0005907) and Appendices that have been determined, through judicial procedures or in a settlement, to (i) constitute intentional misconduct and gross negligence, and (ii) have resulted in personal injury, death, or property damage, shall not be considered within the scope of the obligation of the Competent Authorities of Aruba, to indemnify the United States or any current or former officer or employee of the United States under paragraph B of this Article.
 
-A. Wijzigingen van dit Verdrag of van de bijlagen worden onderling overeengekomen door de partijen via diplomatieke kanalen en treden in werking in overeenstemming met de procedure vervat in [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XVIII&z=2017-03-19&g=2017-03-19).
+##### Article XV. Consultations
 
-B. DHS/TSA en MT kunnen wijzigingen van een aanhangsel schriftelijk overeenkomen zonder uitwisseling van diplomatieke nota’s.
+Either Party may at any time request consultations concerning the interpretation, application or amendment of this Agreement, including its [Annexes](https://wetten.overheid.nl/BWBR0005907) or Appendices. Such consultations shall begin at the earliest possible date, but not later than 60 days from the date the other Party receives the request, unless otherwise mutually agreed.
 
-##### Artikel XVII. Regeling van geschillen
+##### Article XVI. Amendments
 
-Elk geschil omtrent de uitlegging of toepassing van dit Verdrag, met inbegrip van een bijlage of aanhangsel daarbij, wordt opgelost in overleg tussen de partijen in overeenstemming met [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XV&z=2017-03-19&g=2017-03-19) van dit Verdrag en wordt niet voor regeling voorgelegd aan een rechterlijke instantie, een internationaal scheidsgerecht of een derde.
+A. Any amendment to this Agreement or its [Annexes](https://wetten.overheid.nl/BWBR0005907) shall be mutually agreed upon through diplomatic channels by the Parties and shall come into force in accordance with the procedure laid down in [Article XVIII](https://wetten.overheid.nl/BWBV0006593).
 
-##### Artikel XVIII. Inwerkingtreding en beëindiging
+B. DHS/TSA and MT may agree in writing to amend any Appendix without an exchange of diplomatic notes.
 
-A. Dit Verdrag treedt in werking dertig dagen na de datum van de laatste nota van een diplomatieke notawisseling tussen de partijen waarbij de partijen elkaar ervan in kennis stellen dat de vereiste interne procedures voor de inwerkingtreding van dit Verdrag zijn voltooid.
+##### Article XVII. Resolution of disagreements
 
-B. Dit Verdrag kan op elk moment door elke partij worden opgezegd door hiervan zestig (60) dagen van te voren schriftelijk kennis te geven aan de andere partij. Beëindiging van dit Verdrag laat de verplichtingen van de partijen uit hoofde van de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XIII&z=2017-03-19&g=2017-03-19) en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XVII&z=2017-03-19&g=2017-03-19) van dit Verdrag onverlet. Elke partij heeft honderdtwintig (120) dagen om de activiteiten na beëindiging van dit Verdrag te beëindigen. Met de beëindiging van dit Verdrag worden tevens alle uit hoofde van dit Verdrag door de partijen gesloten bijlagen en/of aanhangsels beëindigd. Opzegging van een bijlage of aanhangsel betreft uitsluitend de activiteiten waarop de desbetreffende bijlage of het desbetreffende aanhangsel betrekking heeft.
+Any disagreement regarding the interpretation or application of this Agreement, including any Annex or Appendix, shall be resolved by consultations between the Parties, in accordance with [Article XV](https://wetten.overheid.nl/BWBV0006593) of this Agreement, and shall not be referred to any court, international tribunal or third party for settlement.
+
+##### Article XVIII. Entry into force and termination
+
+A. This Agreement shall enter into force thirty days from the date of the later note in an exchange of diplomatic notes by the Parties in which each Party informs the other that it has completed its necessary internal procedures for entry into force of this Agreement.
+
+B. This Agreement may be terminated at any time by either Party by providing sixty (60) days’ notice in writing to the other Party. Termination of this Agreement shall not affect obligations of the Parties under [Article XIII](https://wetten.overheid.nl/BWBV0006593) and [XVII](https://wetten.overheid.nl/BWBV0006593) of this Agreement. Each Party shall have one hundred twenty (120) days to close out covered activities following termination of this Agreement. Termination of this Agreement shall also terminate all [Annexes](https://wetten.overheid.nl/BWBR0005907) and/or Appendices concluded by the Parties pursuant to this Agreement. Termination of any Annex or Appendix affects only those activities covered by the terminated Annex or Appendix.
 
 IN WITNESS WHEREOF, the undersigned being duly authorized by their respective Governments, have signed this Agreement.
 
 DONE at Washington, DC, this 7th day of April, 2016, in duplicate, in the English language.
 
-**FOR THE KINGDOM OF THE NETHERLANDS, IN RESPECT OF ARUBA**
+*FOR THE KINGDOM OF THE NETHERLANDS, IN RESPECT OF ARUBA*
 
 MR. OTMAR E. ODUBER
 
 Minister of Tourism, Transportation, Primary Sector and Culture
 
-**FOR THE UNITED STATES OF AMERICA**
+*FOR THE UNITED STATES OF AMERICA*
 
 MR. PETER V. NEFFENGER
 

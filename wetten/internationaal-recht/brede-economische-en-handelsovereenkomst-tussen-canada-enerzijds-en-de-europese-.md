@@ -1,125 +1,22 @@
 ---
 title: "Brede Economische en Handelsovereenkomst tussen Canada, enerzijds, en de Europese Unie en haar lidstaten, anderzijds"
 identifier: "BWBV0006661"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-10-30"
-last_updated: "2016-10-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006661"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005393413"
-version_id: "10005831532"
-internal_id: "C10009220551"
-label_id: "10005380314"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006661/2016-10-30/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0006661&z=2016-10-30&g=2016-10-30"
-jci_1_0: "1.0:c:BWBV0006661&g=2016-10-30"
-citeertitel_status: "redactioneel"
+laatste_update: 2016-10-30
+status: geldig
+toestand: 2016-10-30
+bron: "https://wetten.overheid.nl/BWBV0006661"
+opgehaald: 2026-09-16
 ---
+
 # Brede Economische en Handelsovereenkomst tussen Canada, enerzijds, en de Europese Unie en haar lidstaten, anderzijds
 
-Canada,
-
-enerzijds, en
-
-De Europese Unie,
-
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-anderzijds,
-
-hierna gezamenlijk „de partijen” genoemd,
-
-vastbesloten:
-
-Verder te versterken hun nauwe economische banden en voort te bouwen op hun respectieve rechten en verplichtingen uit hoofde van de Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie van 15 april 1994 en andere multilaterale en bilaterale samenwerkingsinstrumenten;
-
-Tot stand te brengen een uitgebreide en betrouwbare markt voor hun goederen en diensten door de verlaging of afschaffing van handels- en investeringsbelemmeringen;
-
-Vast te stellen duidelijke, transparante, voorspelbare en tot wederzijds voordeel strekkende regels voor hun handel en investeringen;
-
-En
-
-Opnieuw bevestigende dat zij sterk gehecht zijn aan de democratie en de grondrechten die zijn vastgelegd in De Universele Verklaring van de Rechten van de Mens, gedaan te Parijs op 10 december 1948, en van oordeel zijnde dat de verspreiding van massavernietigingswapens een ernstige bedreiging voor de internationale veiligheid vormt;
-
-Erkennende het belang van internationale veiligheid, democratie, mensenrechten en de rechtsstaat voor de ontwikkeling van de internationale handel en de economische samenwerking;
-
-Erkennende dat de bepalingen van deze overeenkomst het recht van de partijen op hun respectieve grondgebied regels te stellen en hun flexibiliteit bij het bereiken van legitieme beleidsdoelstellingen, zoals volksgezondheid, veiligheid, milieu, openbare zeden en bevordering en bescherming van culturele verscheidenheid, in stand laten;
-
-Bevestigende hun verbintenissen als partijen bij het UNESCO-Verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen, gedaan te Parijs op 20 oktober 2005, en erkennende dat staten het recht hebben om hun cultuurbeleid te beschermen, te ontwikkelen en ten uitvoer te leggen, hun culturele sector te ondersteunen met het oog op de versterking van de diversiteit van cultuuruitingen, en hun culturele identiteit te behouden, met inbegrip van gebruikmaking van regelgevingsmaatregelen en financiële steun;
-
-Erkennende dat de bepalingen van deze overeenkomst investeringen en investeerders met betrekking tot hun investeringen beschermen, en beogen een stimulans te zijn voor tot wederzijds voordeel strekkende zakelijke activiteiten, zonder afbreuk te doen aan het recht van de partijen op hun grondgebied regels te stellen in het openbaar belang;
-
-Opnieuw uitdrukking gevende aan hun engagement om duurzame ontwikkeling en de ontwikkeling van de internationale handel op zodanige wijze te bevorderen dat wordt bijgedragen aan een in economisch, sociaal en ecologisch opzicht duurzame ontwikkeling;
-
-Aanmoedigende de ondernemingen op hun grondgebied of binnen hun jurisdictie om de internationaal erkende richtsnoeren en beginselen van maatschappelijk verantwoord ondernemerschap, zoals de OESO-richtsnoeren voor multinationale ondernemingen, te eerbiedigen, en naar de beste praktijken van verantwoord ondernemerschap te streven;
-
-Ten uitvoer leggende deze overeenkomst op een wijze die strookt met de handhaving van hun respectieve arbeids- en milieuwetgeving en die hun niveaus van arbeids- en milieubescherming verhoogt, en uitgaande van hun internationale verbintenissen op het gebied van arbeid en milieu;
-
-Erkennende de sterke banden tussen innovatie en handel, en het belang van innovatie voor toekomstige economische groei, en bevestigende hun engagement om intensievere samenwerking op het gebied van innovatie, alsmede op de daarmee verband houdende gebieden van onderzoek en ontwikkeling en wetenschap en technologie aan te moedigen, en de betrokkenheid van de desbetreffende entiteiten uit de publieke en de private sector te stimuleren,
-
-Zijn het volgende overeengekomen2[Red: De tekst van de bijlagen, protocollen en voorbehouden is niet opgenomen. De tekst van de bijlagen, protocollen en voorbehouden ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.]:
+*Canada, enerzijds, en De Europese Unie, het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, anderzijds, hierna gezamenlijk „de partijen” genoemd, vastbesloten: Verder te versterken hun nauwe economische banden en voort te bouwen op hun respectieve rechten en verplichtingen uit hoofde van de Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie van 15 april 1994 en andere multilaterale en bilaterale samenwerkingsinstrumenten; Tot stand te brengen een uitgebreide en betrouwbare markt voor hun goederen en diensten door de verlaging of afschaffing van handels- en investeringsbelemmeringen; Vast te stellen duidelijke, transparante, voorspelbare en tot wederzijds voordeel strekkende regels voor hun handel en investeringen; En Opnieuw bevestigende dat zij sterk gehecht zijn aan de democratie en de grondrechten die zijn vastgelegd in De Universele Verklaring van de Rechten van de Mens, gedaan te Parijs op 10 december 1948, en van oordeel zijnde dat de verspreiding van massavernietigingswapens een ernstige bedreiging voor de internationale veiligheid vormt; Erkennende het belang van internationale veiligheid, democratie, mensenrechten en de rechtsstaat voor de ontwikkeling van de internationale handel en de economische samenwerking; Erkennende dat de bepalingen van deze overeenkomst het recht van de partijen op hun respectieve grondgebied regels te stellen en hun flexibiliteit bij het bereiken van legitieme beleidsdoelstellingen, zoals volksgezondheid, veiligheid, milieu, openbare zeden en bevordering en bescherming van culturele verscheidenheid, in stand laten; Bevestigende hun verbintenissen als partijen bij het UNESCO-Verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen, gedaan te Parijs op 20 oktober 2005, en erkennende dat staten het recht hebben om hun cultuurbeleid te beschermen, te ontwikkelen en ten uitvoer te leggen, hun culturele sector te ondersteunen met het oog op de versterking van de diversiteit van cultuuruitingen, en hun culturele identiteit te behouden, met inbegrip van gebruikmaking van regelgevingsmaatregelen en financiële steun; Erkennende dat de bepalingen van deze overeenkomst investeringen en investeerders met betrekking tot hun investeringen beschermen, en beogen een stimulans te zijn voor tot wederzijds voordeel strekkende zakelijke activiteiten, zonder afbreuk te doen aan het recht van de partijen op hun grondgebied regels te stellen in het openbaar belang; Opnieuw uitdrukking gevende aan hun engagement om duurzame ontwikkeling en de ontwikkeling van de internationale handel op zodanige wijze te bevorderen dat wordt bijgedragen aan een in economisch, sociaal en ecologisch opzicht duurzame ontwikkeling; Aanmoedigende de ondernemingen op hun grondgebied of binnen hun jurisdictie om de internationaal erkende richtsnoeren en beginselen van maatschappelijk verantwoord ondernemerschap, zoals de OESO-richtsnoeren voor multinationale ondernemingen, te eerbiedigen, en naar de beste praktijken van verantwoord ondernemerschap te streven; Ten uitvoer leggende deze overeenkomst op een wijze die strookt met de handhaving van hun respectieve arbeids- en milieuwetgeving en die hun niveaus van arbeids- en milieubescherming verhoogt, en uitgaande van hun internationale verbintenissen op het gebied van arbeid en milieu; Erkennende de sterke banden tussen innovatie en handel, en het belang van innovatie voor toekomstige economische groei, en bevestigende hun engagement om intensievere samenwerking op het gebied van innovatie, alsmede op de daarmee verband houdende gebieden van onderzoek en ontwikkeling en wetenschap en technologie aan te moedigen, en de betrokkenheid van de desbetreffende entiteiten uit de publieke en de private sector te stimuleren, Zijn het volgende overeengekomen2[Red: De tekst van de bijlagen, protocollen en voorbehouden is niet opgenomen. De tekst van de bijlagen, protocollen en voorbehouden ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.]:*
 
 ### HOOFDSTUK EEN. ALGEMENE DEFINITIES EN INLEIDENDE BEPALINGEN
 
-### AFDELING A. ALGEMENE DEFINITIES
+#### AFDELING A. ALGEMENE DEFINITIES
 
 ##### Artikel 1.1. Algemeen toepasselijke definities
 
@@ -223,11 +120,11 @@ derde land: een land of grondgebied gelegen buiten het geografische toepassingsg
 
 TRIPs-Overeenkomst: de Overeenkomst inzake de handelsaspecten van de intellectuele eigendom, die is neergelegd in bijlage 1C bij de WTO-Overeenkomst;
 
-Verdrag van Wenen inzake het verdragenrecht: het Verdrag van Wenen inzake het verdragenrecht, gedaan te Wenen op 23 mei 1969;
+Verdrag van Wenen inzake het verdragenrecht: het Verdrag van Wenen inzake het verdragenrecht, gedaan te Wenen op 23 mei 1969;
 
 WTO: de Wereldhandelsorganisatie; en
 
-WTO-Overeenkomst: de Overeenkomst tot oprichting van de Wereldhandelsorganisatie, gedaan te Marrakesh op 15 april 1994.
+WTO-Overeenkomst: de Overeenkomst tot oprichting van de Wereldhandelsorganisatie, gedaan te Marrakesh op 15 april 1994.
 
 ##### Artikel 1.2. Partijspecifieke definities
 
@@ -251,15 +148,15 @@ Tenzij anders aangegeven, is de onderhavige overeenkomst van toepassing:
 
 - a. in het geval van Canada, op:
 
-- i. het grondgebied te land, het luchtruim, de binnenwateren en de territoriale zee van Canada;
+   - i. het grondgebied te land, het luchtruim, de binnenwateren en de territoriale zee van Canada;
 
-- ii. de exclusieve economische zone van Canada, zoals bepaald door zijn interne recht en in overeenstemming met deel V van het Verdrag van de Verenigde Naties inzake het recht van de zee, gedaan te Montego Bay op 10 december 1982 (hierna „Unclos” genoemd); en
+   - ii. de exclusieve economische zone van Canada, zoals bepaald door zijn interne recht en in overeenstemming met deel V van het Verdrag van de Verenigde Naties inzake het recht van de zee, gedaan te Montego Bay op 10 december 1982 (hierna „Unclos” genoemd); en
 
-- iii. het continentaal plat van Canada, zoals bepaald door zijn interne recht, in overeenstemming met deel VI van het Unclos;
+   - iii. het continentaal plat van Canada, zoals bepaald door zijn interne recht, in overeenstemming met deel VI van het Unclos;
 
 - b. in het geval van de EU-partij, op de grondgebieden waarop het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie worden toegepast en onder de in deze verdragen neergelegde voorwaarden. Voor de bepalingen met betrekking tot de tariefbehandeling van goederen is de onderhavige overeenkomst ook van toepassing op de zones die tot het douanegebied van de Europese Unie behoren maar niet onder de eerste zin van het hier onder b) vermelde vallen.
 
-### AFDELING B. INLEIDENDE BEPALINGEN
+#### AFDELING B. INLEIDENDE BEPALINGEN
 
 ##### Artikel 1.4. Instelling van vrijhandelsgebied
 
@@ -315,7 +212,7 @@ Dit hoofdstuk is van toepassing op de handel in goederen uit een partij zoals om
 
 2. Lid 1 houdt met betrekking tot een andere dan federale Canadese overheid en met betrekking tot een overheid van of in een lidstaat van de Europese Unie in dat een behandeling wordt toegekend die niet minder gunstig is dan die welke door die overheid aan soortgelijke, rechtstreeks concurrerende of substitueerbare goederen uit Canada respectievelijk de betrokken lidstaat wordt toegekend.
 
-3. Dit artikel is niet van toepassing op maatregelen, met inbegrip van de voortzetting, de onverwijlde verlenging of wijziging ervan, inzake Canadese accijnzen op absolute alcohol zoals vermeld onder tariefpost 2207.10.90 van de lijst van concessies van Canada (Lijst V), die als bijlage is gehecht aan het Protocol van Marrakesh bij de Algemene Overeenkomst inzake Tarieven en Handel 1994, gedaan op 15 april 1994 (het „Protocol van Marrakesh”), die wordt gebruikt bij de productie overeenkomstig de bepalingen van de Excise Act, 2001 (wet op de accijnzen), S.C. 2002, c. 22.
+3. Dit artikel is niet van toepassing op maatregelen, met inbegrip van de voortzetting, de onverwijlde verlenging of wijziging ervan, inzake Canadese accijnzen op absolute alcohol zoals vermeld onder tariefpost 2207.10.90 van de lijst van concessies van Canada (Lijst V), die als bijlage is gehecht aan het Protocol van Marrakesh bij de Algemene Overeenkomst inzake Tarieven en Handel 1994, gedaan op 15 april 1994 (het „Protocol van Marrakesh”), die wordt gebruikt bij de productie overeenkomstig de bepalingen van de Excise Act, 2001 (wet op de accijnzen), S.C. 2002, c. 22.
 
 ##### Artikel 2.4. Verlaging en afschaffing van invoerrechten
 
@@ -443,11 +340,11 @@ Elke partij streeft ernaar te waarborgen dat een goed uit de andere partij dat i
 
 - c. verwijst alle kwesties die niet in het kader van het onder b) bepaalde zijn opgelost, door naar het Comité voor de handel in goederen.
 
-4. De partijen nemen nota van de samenwerking en de uitwisseling van informatie over landbouwkwesties in het kader van de jaarlijkse landbouwdialoog tussen Canada en de Europese Unie, zoals vastgelegd bij briefwisseling van 14 juli 2008. Voor de toepassing van lid 3 kan in voorkomend geval gebruik worden gemaakt van de landbouwdialoog.
+4. De partijen nemen nota van de samenwerking en de uitwisseling van informatie over landbouwkwesties in het kader van de jaarlijkse landbouwdialoog tussen Canada en de Europese Unie, zoals vastgelegd bij briefwisseling van 14 juli 2008. Voor de toepassing van lid 3 kan in voorkomend geval gebruik worden gemaakt van de landbouwdialoog.
 
 ### HOOFDSTUK DRIE. HANDELSMAATREGELEN
 
-### AFDELING A. ANTIDUMPING- EN COMPENSERENDE MAATREGELEN
+#### AFDELING A. ANTIDUMPING- EN COMPENSERENDE MAATREGELEN
 
 ##### Artikel 3.1. Algemene bepalingen betreffende antidumping- en compenserende maatregelen
 
@@ -469,7 +366,7 @@ Elke partij streeft ernaar te waarborgen dat een goed uit de andere partij dat i
 
 2. Na onderzoek van de in lid 1 bedoelde informatie kunnen de autoriteiten van de partij in overeenstemming met het interne recht van die partij overwegen of de hoogte van de in te stellen antidumping- of compenserende rechten de volledige dumpingmarge of het volledige subsidiebedrag zal betreffen, dan wel een lager bedrag.
 
-### AFDELING B. ALGEMENE VRIJWARINGSMAATREGELEN
+#### AFDELING B. ALGEMENE VRIJWARINGSMAATREGELEN
 
 ##### Artikel 3.4. Algemene bepalingen betreffende algemene vrijwaringsmaatregelen
 
@@ -495,7 +392,7 @@ Elke partij streeft ernaar te waarborgen dat een goed uit de andere partij dat i
 
 2. De partij van invoer biedt aan met de partij van uitvoer in overleg te treden, om de in lid 1 bedoelde aangelegenheid te bespreken. De partij van invoer stelt geen maatregelen vast totdat er vanaf de datum van het aanbod om in overleg te treden dertig dagen zijn verstreken.
 
-### AFDELING C. ALGEMENE BEPALINGEN
+#### AFDELING C. ALGEMENE BEPALINGEN
 
 ##### Artikel 3.7. Uitsluiting van geschillenbeslechting
 
@@ -933,7 +830,7 @@ Elke partij draagt er zorg voor dat haar douanewet- en regelgeving erin voorziet
 
 2. De partijen evalueren regelmatig relevante internationale initiatieven over handelsbevordering, waaronder het „Compendium of Trade Facilitation Recommendations”, ontwikkeld door de Conferentie van de Verenigde Naties voor handel en ontwikkeling, en de Economische Commissie van de Verenigde Naties voor Europa, om uit te maken op welke gebieden nadere gezamenlijke actie de handel tussen de partijen en gezamenlijke multilaterale doelstellingen zou bevorderen.
 
-3. De partijen werken samen in overeenstemming met de Overeenkomst tussen de Europese Gemeenschap en Canada betreffende samenwerking en wederzijdse bijstand in douanezaken, gedaan te Ottawa op 4 december 1997 (de „Overeenkomst douanesamenwerking EU-Canada”).
+3. De partijen werken samen in overeenstemming met de Overeenkomst tussen de Europese Gemeenschap en Canada betreffende samenwerking en wederzijdse bijstand in douanezaken, gedaan te Ottawa op 4 december 1997 (de „Overeenkomst douanesamenwerking EU-Canada”).
 
 4. De partijen verlenen elkaar wederzijdse bijstand in douanezaken in overeenstemming met de Overeenkomst douanesamenwerking EU-Canada, waaronder aangelegenheden in verband met een vermeende overtreding van de douanewetgeving van een partij, zoals omschreven in die overeenkomst, en met de uitvoering van deze overeenkomst.
 
@@ -1019,7 +916,7 @@ De bepalingen in deze overeenkomst inzake geschillenbeslechting zijn niet van to
 
 ### HOOFDSTUK ACHT. INVESTERINGEN
 
-### AFDELING A. DEFINITIES EN TOEPASSINGSGEBIED
+#### AFDELING A. DEFINITIES EN TOEPASSINGSGEBIED
 
 ##### Artikel 8.1. Definities
 
@@ -1041,9 +938,9 @@ vertrouwelijke of beschermde informatie:
 
 - b. informatie die is beschermd tegen openbaarmaking;
 
-- i. in het geval van informatie van de verweerder, uit hoofde van het recht van de verweerder;
+   - i. in het geval van informatie van de verweerder, uit hoofde van het recht van de verweerder;
 
-- ii. in het geval van andere informatie, uit hoofde van het recht dat of de voorschriften die door het Gerecht op de openbaarmaking van die informatie van toepassing is of zijn verklaard;
+   - ii. in het geval van andere informatie, uit hoofde van het recht dat of de voorschriften die door het Gerecht op de openbaarmaking van die informatie van toepassing is of zijn verklaard;
 
 onder de overeenkomst vallende investering: met betrekking tot een partij, een investering:
 
@@ -1069,7 +966,7 @@ Icsid: Internationaal Centrum voor beslechting van investeringsgeschillen;
 
 Icsid-bepalingen betreffende aanvullende mogelijkheden: de bepalingen betreffende de opening van aanvullende mogelijkheden voor het verlenen van administratieve diensten bij geschillen door het secretariaat van het Internationaal Centrum voor beslechting van investeringsgeschillen;
 
-Icsid-Verdrag: het Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten, gedaan te Washington op 18 maart 1965;
+Icsid-Verdrag: het Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten, gedaan te Washington op 18 maart 1965;
 
 intellectuele-eigendomsrechten: auteursrecht en naburige rechten, recht op handelsmerken, recht op geografische aanduidingen, recht op tekeningen en modellen van nijverheid, octrooirecht, recht op ontwerpen voor schakelpatronen van geïntegreerde schakelingen, recht inzake bescherming van niet openbaar gemaakte informatie, en kwekersrecht, alsmede, indien het recht van een partij bij de overeenkomst hierin voorziet, gebruiksmodellenrecht. Het Gemengd Comité voor de CETA kan bij besluit deze definitie uitbreiden met andere categorieën intellectuele eigendom;
 
@@ -1087,11 +984,11 @@ investering: elke vorm van activa die een investeerder rechtstreeks of onrechtst
 
 - f. een belang dat voortvloeit uit:
 
-- i. een krachtens het recht van een partij bij de overeenkomst of bij overeenkomst verleende concessie, onder meer voor de prospectie, ontginning, winning of exploitatie van natuurlijke hulpbronnen;
+   - i. een krachtens het recht van een partij bij de overeenkomst of bij overeenkomst verleende concessie, onder meer voor de prospectie, ontginning, winning of exploitatie van natuurlijke hulpbronnen;
 
-- ii. een sleutelklaar-, bouw-, productie- of inkomstendelingscontract, of
+   - ii. een sleutelklaar-, bouw-, productie- of inkomstendelingscontract, of
 
-- iii. andere soortgelijke contracten;
+   - iii. andere soortgelijke contracten;
 
 - g. intellectuele-eigendomsrechten;
 
@@ -1129,7 +1026,7 @@ Een natuurlijke persoon die burger van Canada is en de nationaliteit van een van
 
 Een natuurlijke persoon die de nationaliteit van een van de lidstaten van de Europese Unie bezit of burger van Canada is en die tevens een permanente ingezetene van de andere partij bij de overeenkomst is, wordt geacht uitsluitend een natuurlijke persoon van de partij bij de overeenkomst van zijn of haar nationaliteit of burgerschap, naargelang het geval, te zijn;
 
-Verdrag van New York: het Verdrag van de Verenigde Naties over de erkenning en tenuitvoerlegging van buitenlandse scheidsrechterlijke uitspraken, gedaan te New York op 10 juni 1958;
+Verdrag van New York: het Verdrag van de Verenigde Naties over de erkenning en tenuitvoerlegging van buitenlandse scheidsrechterlijke uitspraken, gedaan te New York op 10 juni 1958;
 
 niet bij het geschil betrokken partij bij de overeenkomst: hetzij Canada, wanneer de Europese Unie of een lidstaat van de Europese Unie de verweerder is, hetzij de Europese Unie, wanneer Canada de verweerder is;
 
@@ -1149,7 +1046,7 @@ Uncitral-transparantievoorschriften: de voorschriften van Uncitral betreffende t
 
 ##### Artikel 8.2. Toepassingsgebied
 
-1. Dit hoofdstuk is van toepassing op door een partij bij de overeenkomst op haar grondgebied7)Voor alle duidelijkheid: de in dit hoofdstuk bedoelde verplichtingen zijn van toepassing op de exclusieve economische zone en het continentaal plat als bedoeld in het Verdrag van de Verenigde Naties inzake het recht van de zee, gedaan te Montego Bay op 10 december 1982:a.van Canada, overeenkomstig artikel 1.3 (Geografisch toepassingsgebied), onder a), enb.waarop het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie worden toegepast, overeenkomstig artikel 1.3 (Geografisch toepassingsgebied), onder b). vastgestelde of gehandhaafde maatregelen met betrekking tot:
+1. Dit hoofdstuk is van toepassing op door een partij bij de overeenkomst op haar grondgebied7)Voor alle duidelijkheid: de in dit hoofdstuk bedoelde verplichtingen zijn van toepassing op de exclusieve economische zone en het continentaal plat als bedoeld in het Verdrag van de Verenigde Naties inzake het recht van de zee, gedaan te Montego Bay op 10 december 1982:a.van Canada, overeenkomstig artikel 1.3 (Geografisch toepassingsgebied), onder a), enb.waarop het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie worden toegepast, overeenkomstig artikel 1.3 (Geografisch toepassingsgebied), onder b). vastgestelde of gehandhaafde maatregelen met betrekking tot:
 
 - a. een investeerder uit de andere partij bij de overeenkomst;
 
@@ -1161,15 +1058,15 @@ Uncitral-transparantievoorschriften: de voorschriften van Uncitral betreffende t
 
 - a. luchtdiensten of daarmee verband houdende diensten ter ondersteuning van luchtdiensten alsmede andere diensten verleend door middel van luchtvervoer9)Deze diensten omvatten diensten waarbij een luchtvaartuig wordt gebruikt voor gespecialiseerde activiteiten in sectoren zoals landbouw, bouw, fotografie, landmeetkunde, cartografie, bosbouw, observatie en patrouilles of reclame, wanneer de gespecialiseerde activiteit wordt aangeboden door de persoon die verantwoordelijk is voor de exploitatie van het luchtvaartuig., anders dan:
 
-- i. reparatie en onderhoud van luchtvaartuigen;
+   - i. reparatie en onderhoud van luchtvaartuigen;
 
-- ii. verkoop en marketing van luchtvervoerdiensten;
+   - ii. verkoop en marketing van luchtvervoerdiensten;
 
-- iii. geautomatiseerde boekingssystemen (CRS);
+   - iii. geautomatiseerde boekingssystemen (CRS);
 
-- iv. grondafhandelingsdiensten;
+   - iv. grondafhandelingsdiensten;
 
-- v. exploitatie van luchthavens; of
+   - v. exploitatie van luchthavens; of
 
 - b. activiteiten uitgevoerd in het kader van de uitoefening van overheidsgezag.
 
@@ -1177,7 +1074,7 @@ Uncitral-transparantievoorschriften: de voorschriften van Uncitral betreffende t
 
 4. In het kader van dit hoofdstuk kunnen verzoeken door een investeerder uitsluitend worden ingediend overeenkomstig artikel 8.18 en in overeenstemming met de procedures als bedoeld in afdeling F. Verzoeken met betrekking tot een verplichting als bedoeld in afdeling B zijn uitgesloten van het toepassingsgebied van afdeling F. Verzoeken in het kader van afdeling C met betrekking tot de vestiging of de verwerving van een onder de overeenkomst vallende investering zijn uitgesloten van het toepassingsgebied van afdeling F. Afdeling D is uitsluitend van toepassing op een onder de overeenkomst vallende investering en op investeerders met betrekking tot hun onder de overeenkomst vallende investering.
 
-5. Dit hoofdstuk laat de rechten en verplichtingen van de partijen bij de overeenkomst uit hoofde van de Luchtvervoersovereenkomst tussen Canada en de Europese Gemeenschap en haar lidstaten, gedaan te Brussel op 17 december 2009 en te Ottawa op 18 december 2009, onverlet.
+5. Dit hoofdstuk laat de rechten en verplichtingen van de partijen bij de overeenkomst uit hoofde van de Luchtvervoersovereenkomst tussen Canada en de Europese Gemeenschap en haar lidstaten, gedaan te Brussel op 17 december 2009 en te Ottawa op 18 december 2009, onverlet.
 
 ##### Artikel 8.3. Verhouding tot andere hoofdstukken
 
@@ -1185,7 +1082,7 @@ Uncitral-transparantievoorschriften: de voorschriften van Uncitral betreffende t
 
 2. De door een partij bij de overeenkomst aan een dienstverlener uit de andere partij bij de overeenkomst gestelde voorwaarde dat hij enkel tegen borgstelling of door het stellen van een andere vorm van financiële zekerheid een dienst op haar grondgebied kan verlenen, volstaat op zich niet om dit hoofdstuk toe te passen op de door de partij bij de overeenkomst vastgestelde of gehandhaafde maatregelen met betrekking tot de verlening van die grensoverschrijdende dienst. Dit hoofdstuk is van toepassing op door de partij bij de overeenkomst vastgestelde of gehandhaafde maatregelen met betrekking tot de borgstelling of de financiële zekerheid voor zover die borgstelling of die financiële zekerheid een onder de overeenkomst vallende investering is.
 
-### AFDELING B. VESTIGING VAN INVESTERINGEN
+#### AFDELING B. VESTIGING VAN INVESTERINGEN
 
 ##### Artikel 8.4. Markttoegang
 
@@ -1193,15 +1090,15 @@ Uncitral-transparantievoorschriften: de voorschriften van Uncitral betreffende t
 
 - a. beperkingen inhouden van:
 
-- i. het aantal ondernemingen die een specifieke economische activiteit mogen verrichten, in de vorm van numerieke quota, monopolies, exclusieve dienstverleners of van de eis van een onderzoek naar de economische behoefte;
+   - i. het aantal ondernemingen die een specifieke economische activiteit mogen verrichten, in de vorm van numerieke quota, monopolies, exclusieve dienstverleners of van de eis van een onderzoek naar de economische behoefte;
 
-- ii. de totale waarde van transacties of activa, in de vorm van numerieke quota of van de eis van een onderzoek naar de economische behoefte;
+   - ii. de totale waarde van transacties of activa, in de vorm van numerieke quota of van de eis van een onderzoek naar de economische behoefte;
 
-- iii. het totale aantal transacties of het totale volume van de output, uitgedrukt in bepaalde numerieke eenheden, in de vorm van quota of van de eis van een onderzoek naar de economische behoefte10)Lid 1, onder a), i), ii) en iii), is niet van toepassing op maatregelen die de productie van een landbouwproduct beperken.;
+   - iii. het totale aantal transacties of het totale volume van de output, uitgedrukt in bepaalde numerieke eenheden, in de vorm van quota of van de eis van een onderzoek naar de economische behoefte10)Lid 1, onder a), i), ii) en iii), is niet van toepassing op maatregelen die de productie van een landbouwproduct beperken.;
 
-- iv. de deelneming van buitenlands kapitaal, uitgedrukt als een maximumpercentage voor buitenlands aandeelhouderschap of de totale waarde van individuele of totale buitenlandse investeringen; of
+   - iv. de deelneming van buitenlands kapitaal, uitgedrukt als een maximumpercentage voor buitenlands aandeelhouderschap of de totale waarde van individuele of totale buitenlandse investeringen; of
 
-- v. het totale aantal natuurlijke personen dat in een bepaalde sector mag zijn tewerkgesteld of dat een onderneming in dienst mag hebben, en dat nodig is voor en zich rechtstreeks bezighoudt met het uitvoeren van een economische activiteit, in de vorm van numerieke quota of van de eis van een onderzoek naar de economische behoefte; of
+   - v. het totale aantal natuurlijke personen dat in een bepaalde sector mag zijn tewerkgesteld of dat een onderneming in dienst mag hebben, en dat nodig is voor en zich rechtstreeks bezighoudt met het uitvoeren van een economische activiteit, in de vorm van numerieke quota of van de eis van een onderzoek naar de economische behoefte; of
 
 - b. voor het uitoefenen van een economische activiteit door een onderneming specifieke soorten juridische entiteiten of joint ventures vereisen dan wel deze juist beperkingen opleggen.
 
@@ -1261,7 +1158,7 @@ Uncitral-transparantievoorschriften: de voorschriften van Uncitral betreffende t
 
 7. Dit artikel laat de door een partij bij de overeenkomst in het kader van de Wereldhandelsorganisatie aangegane verbintenissen onverlet.
 
-### AFDELING C. NIET-DISCRIMINERENDE BEHANDELING
+#### AFDELING C. NIET-DISCRIMINERENDE BEHANDELING
 
 ##### Artikel 8.6. Nationale behandeling
 
@@ -1285,7 +1182,7 @@ Uncitral-transparantievoorschriften: de voorschriften van Uncitral betreffende t
 
 Een partij bij de overeenkomst mag een van haar ondernemingen, die tevens een onder de overeenkomst vallende investering is, niet verplichten natuurlijke personen van een bepaalde nationaliteit als lid van het hoger management of de raad van bestuur te benoemen.
 
-### AFDELING D. INVESTERINGSBESCHERMING
+#### AFDELING D. INVESTERINGSBESCHERMING
 
 ##### Artikel 8.9. Investeringen en regelgevingsmaatregelen
 
@@ -1395,7 +1292,7 @@ Voor alle duidelijkheid: dit lid moet worden uitgelegd overeenkomstig bijlage 8-
 
 Indien een partij bij de overeenkomst of een instantie van een partij bij de overeenkomst een betaling verricht uit hoofde van een schadevergoeding, een borgstelling of een verzekeringsovereenkomst waartoe zij zich heeft verplicht of die zij is aangegaan met betrekking tot een door een van haar investeerders op het grondgebied van de andere partij bij de overeenkomst verrichte investering, erkent de andere partij bij de overeenkomst dat die partij bij de overeenkomst of haar instantie ten aanzien van de investering onder alle omstandigheden dezelfde rechten als de investeerder heeft. Deze rechten mogen door de partij bij de overeenkomst of een instantie van de partij bij de overeenkomst dan wel, met toestemming van de partij bij de overeenkomst of een instantie van de partij bij de overeenkomst, door de investeerder geldend worden gemaakt.
 
-### AFDELING E. VOORBEHOUDEN EN EXCEPTIES
+#### AFDELING E. VOORBEHOUDEN EN EXCEPTIES
 
 ##### Artikel 8.15. Voorbehouden en excepties
 
@@ -1403,13 +1300,13 @@ Indien een partij bij de overeenkomst of een instantie van een partij bij de ove
 
 - a. bestaande niet-conforme maatregelen die door een partij bij de overeenkomst worden gehandhaafd op het niveau van:
 
-- i. de Europese Unie, als opgenomen in haar lijst in bijlage I;
+   - i. de Europese Unie, als opgenomen in haar lijst in bijlage I;
 
-- ii. een nationale overheid, als opgenomen door die partij bij de overeenkomst in haar lijst in bijlage I;
+   - ii. een nationale overheid, als opgenomen door die partij bij de overeenkomst in haar lijst in bijlage I;
 
-- iii. een provinciale, territoriale of regionale overheid, als opgenomen door die partij bij de overeenkomst in haar lijst in bijlage I; of
+   - iii. een provinciale, territoriale of regionale overheid, als opgenomen door die partij bij de overeenkomst in haar lijst in bijlage I; of
 
-- iv. een lokale overheid;
+   - iv. een lokale overheid;
 
 - b. de handhaving of onmiddellijke verlenging van niet-conforme maatregelen als bedoeld onder a); of
 
@@ -1435,15 +1332,15 @@ Een partij bij de overeenkomst kan weigeren de voordelen van dit hoofdstuk toe t
 
 - b. de weigerende partij bij de overeenkomst maatregelen vaststelt of handhaaft met betrekking tot het derde land:
 
-- i. die betrekking hebben op de handhaving van de internationale vrede en veiligheid; en
+   - i. die betrekking hebben op de handhaving van de internationale vrede en veiligheid; en
 
-- ii. die transacties met de onderneming verbieden of die zouden worden overtreden of omzeild indien de voordelen van dit hoofdstuk zouden worden verleend aan de onderneming of aan de investeringen ervan.
+   - ii. die transacties met de onderneming verbieden of die zouden worden overtreden of omzeild indien de voordelen van dit hoofdstuk zouden worden verleend aan de onderneming of aan de investeringen ervan.
 
 ##### Artikel 8.17. Formele voorwaarden
 
 Onverminderd de artikelen 8.6 en 8.7 kan een partij bij de overeenkomst van een investeerder uit de andere partij bij de overeenkomst of van zijn onder de overeenkomst vallende investering verlangen dat periodiek, en uitsluitend voor informatieve of statistische doeleinden, inlichtingen over die investering worden verstrekt, mits zulks redelijk en niet buitensporig belastend is. De partij bij de overeenkomst beschermt vertrouwelijke of beschermde inlichtingen tegen enigerlei openbaarmaking die de concurrentiepositie van de investeerder of de onder de overeenkomst vallende investering zou aantasten. Dit artikel belet een partij bij de overeenkomst niet om anderszins inlichtingen in verband met het op billijke wijze en te goeder trouw toepassen van haar wettelijke regeling te verkrijgen of openbaar te maken.
 
-### AFDELING F. BESLECHTING VAN INVESTERINGSGESCHILLEN TUSSEN INVESTEERDERS EN STATEN
+#### AFDELING F. BESLECHTING VAN INVESTERINGSGESCHILLEN TUSSEN INVESTEERDERS EN STATEN
 
 ##### Artikel 8.18. Toepassingsgebied
 
@@ -1713,11 +1610,11 @@ schorst het Gerecht, na de partijen bij het geschil te hebben gehoord, zo spoedi
 
 - c. kan een op grond van artikel 8.39 gedane uitspraak niet als definitief worden beschouwd en kan geen vordering tot gedwongen tenuitvoerlegging van een uitspraak worden ingesteld zolang:
 
-- i. niet een periode van negentig dagen is verstreken na de bekendmaking van de uitspraak van het Gerecht, zonder dat beroep is ingesteld;
+   - i. niet een periode van negentig dagen is verstreken na de bekendmaking van de uitspraak van het Gerecht, zonder dat beroep is ingesteld;
 
-- ii. een ingesteld beroep niet is verworpen of ingetrokken; of
+   - ii. een ingesteld beroep niet is verworpen of ingetrokken; of
 
-- iii. niet een periode van negentig dagen is verstreken na de uitspraak van de Beroepsinstantie, zonder dat de zaak naar het Gerecht is verwezen;
+   - iii. niet een periode van negentig dagen is verstreken na de uitspraak van de Beroepsinstantie, zonder dat de zaak naar het Gerecht is verwezen;
 
 - d. wordt een definitieve uitspraak van de Beroepsinstantie beschouwd als een definitieve uitspraak voor de toepassing van artikel 8.41; en
 
@@ -1805,13 +1702,13 @@ Wanneer de investeerder, na de indiening van een verzoek krachtens deze afdeling
 
 - b. op verzoek:
 
-- i. de procedurestukken, dossierstukken, verzoekschriften en andere door een partij bij het geschil bij het Gerecht ingediende stukken;
+   - i. de procedurestukken, dossierstukken, verzoekschriften en andere door een partij bij het geschil bij het Gerecht ingediende stukken;
 
-- ii. de overeenkomstig artikel 4 van de Uncitral-transparantievoorschriften bij het Gerecht ingediende schriftelijke opmerkingen;
+   - ii. de overeenkomstig artikel 4 van de Uncitral-transparantievoorschriften bij het Gerecht ingediende schriftelijke opmerkingen;
 
-- iii. de processen-verbaal of verslagen van de zittingen van het Gerecht, indien beschikbaar; en
+   - iii. de processen-verbaal of verslagen van de zittingen van het Gerecht, indien beschikbaar; en
 
-- iv. de bevelen, uitspraken en beslissingen van het Gerecht; en
+   - iv. de bevelen, uitspraken en beslissingen van het Gerecht; en
 
 - c. op verzoek en voor rekening van de niet bij het geschil betrokken partij bij de overeenkomst, alle of een deel van de aan het Gerecht overgelegde bewijsstukken, tenzij de gevraagde bewijsstukken openbaar toegankelijk zijn.
 
@@ -1863,15 +1760,15 @@ De verweerder mag niet bij wijze van verweer, tegenvordering of compensatierecht
 
 - a. in het geval van een definitieve uitspraak uit hoofde van het Icsid-Verdrag:
 
-- i. een periode van honderdtwintig dagen is verstreken na de datum waarop de uitspraak is gedaan, zonder dat een partij bij het geschil heeft verzocht om herziening of nietigverklaring van de uitspraak; of
+   - i. een periode van honderdtwintig dagen is verstreken na de datum waarop de uitspraak is gedaan, zonder dat een partij bij het geschil heeft verzocht om herziening of nietigverklaring van de uitspraak; of
 
-- ii. de tenuitvoerlegging van de uitspraak werd opgeschort en de procedure voor herziening of nietigverklaring van de uitspraak is afgelopen;
+   - ii. de tenuitvoerlegging van de uitspraak werd opgeschort en de procedure voor herziening of nietigverklaring van de uitspraak is afgelopen;
 
 - b. in het geval van een definitieve uitspraak uit hoofde van de Icsid-bepalingen betreffende aanvullende mogelijkheden, de Uncitral-arbitragevoorschriften of eventuele andere voorschriften die van toepassing zijn ingevolge artikel 8.23, lid 2, onder d):
 
-- i. een periode van negentig dagen is verstreken na de datum waarop de uitspraak is gedaan, zonder dat een partij bij het geschil een procedure voor de herziening, vernietiging of nietigverklaring van de uitspraak heeft ingeleid; of
+   - i. een periode van negentig dagen is verstreken na de datum waarop de uitspraak is gedaan, zonder dat een partij bij het geschil een procedure voor de herziening, vernietiging of nietigverklaring van de uitspraak heeft ingeleid; of
 
-- ii. de tenuitvoerlegging van de uitspraak werd opgeschort en een rechterlijke instantie een verzoek om herziening, vernietiging of nietigverklaring van de uitspraak heeft toe- of afgewezen en hiertegen geen beroep openstaat.
+   - ii. de tenuitvoerlegging van de uitspraak werd opgeschort en een rechterlijke instantie een verzoek om herziening, vernietiging of nietigverklaring van de uitspraak heeft toe- of afgewezen en hiertegen geen beroep openstaat.
 
 4. De tenuitvoerlegging van de uitspraak is onderworpen aan de wettelijke regeling betreffende de tenuitvoerlegging van vonnissen of uitspraken die geldt op de plaats waar om de tenuitvoerlegging wordt verzocht.
 
@@ -1911,9 +1808,9 @@ De verweerder mag niet bij wijze van verweer, tegenvordering of compensatierecht
 
 - b. wanneer de verzoeken waarvoor om voeging wordt verzocht, niet op grond van dezelfde voorschriften zijn ingediend met het oog op geschillenbeslechting:
 
-- i. kunnen de investeerders overeenkomstig artikel 8.23, lid 2, gezamenlijk overeenstemming bereiken over de voorschriften; of
+   - i. kunnen de investeerders overeenkomstig artikel 8.23, lid 2, gezamenlijk overeenstemming bereiken over de voorschriften; of
 
-- ii. indien de investeerders niet binnen dertig dagen nadat de president van het Gerecht het verzoek om voeging heeft ontvangen, overeenstemming bereiken over de toepasselijke voorschriften, zijn de Uncitral-arbitragevoorschriften van toepassing.
+   - ii. indien de investeerders niet binnen dertig dagen nadat de president van het Gerecht het verzoek om voeging heeft ontvangen, overeenstemming bereiken over de toepasselijke voorschriften, zijn de Uncitral-arbitragevoorschriften van toepassing.
 
 7. De president van het Gerecht stelt, na ontvangst van een verzoek om voeging en in overeenstemming met de voorwaarden van artikel 8.27, lid 7, een nieuwe formatie van het Gerecht („formatie die uitspraak over de voeging doet”) samen die bevoegd is om, geheel of ten dele, kennis te nemen van alle of een deel van de verzoeken die het voorwerp van het gezamenlijke verzoek om voeging zijn.
 
@@ -2013,21 +1910,21 @@ diensten die worden verleend in het kader van de uitoefening van overheidsgezag:
 
 - e. luchtdiensten, aanverwante diensten ter ondersteuning van luchtdiensten en andere diensten verleend door middel van luchtvervoer15)Deze diensten omvatten diensten waarbij een luchtvaartuig wordt gebruikt voor gespecialiseerde activiteiten in sectoren zoals landbouw, bouw, fotografie, landmeetkunde, cartografie, bosbouw, observatie en patrouilles of reclame, wanneer de gespecialiseerde activiteit wordt aangeboden door de persoon die verantwoordelijk is voor de exploitatie van het luchtvaartuig., anders dan:
 
-- i. reparatie en onderhoud van luchtvaartuigen;
+   - i. reparatie en onderhoud van luchtvaartuigen;
 
-- ii. verkoop en marketing van luchtvervoerdiensten;
+   - ii. verkoop en marketing van luchtvervoerdiensten;
 
-- iii. geautomatiseerde boekingssystemen (CRS);
+   - iii. geautomatiseerde boekingssystemen (CRS);
 
-- iv. grondafhandelingsdiensten;
+   - iv. grondafhandelingsdiensten;
 
-- v. exploitatie van luchthavens;
+   - v. exploitatie van luchthavens;
 
 - f. opdrachten van een partij betreffende goederen of diensten aangekocht voor overheidsdoeleinden en niet met het oog op commerciële wederverkoop of gebruik bij de levering van goederen of diensten voor commerciële verkoop, ongeacht of die opdrachten „onder dit hoofdstuk vallende opdrachten” zijn in de zin van artikel 19.2, lid 2 (Toepassingsgebied); of
 
 - g. subsidies of andere overheidssteun in verband met de grensoverschrijdende handel in diensten, verleend door een partij.
 
-3. Dit hoofdstuk doet geen afbreuk aan de rechten en verplichtingen van de partijen in het kader van de Luchtvervoersovereenkomst tussen Canada en de Europese Gemeenschap en haar lidstaten, gedaan te Brussel op 17 december 2009 en te Ottawa op 18 december 2009.
+3. Dit hoofdstuk doet geen afbreuk aan de rechten en verplichtingen van de partijen in het kader van de Luchtvervoersovereenkomst tussen Canada en de Europese Gemeenschap en haar lidstaten, gedaan te Brussel op 17 december 2009 en te Ottawa op 18 december 2009.
 
 4. Dit hoofdstuk legt een partij geen verplichting op ten aanzien van onderdanen van de andere partij die op haar grondgebied toegang tot haar arbeidsmarkt of werk op permanente basis trachten te verkrijgen, en verleent die onderdanen evenmin enig recht met betrekking tot die toegang of dat werk.
 
@@ -2049,15 +1946,15 @@ Artikel 9.3 belet een partij niet om maatregelen vast te stellen of te handhaven
 
 - d. inzake het door een dienstverlener:
 
-- i. betalen van een borgsom of stellen van een andere vorm van financiële zekerheid;
+   - i. betalen van een borgsom of stellen van een andere vorm van financiële zekerheid;
 
-- ii. opzetten van of bijdragen aan een trustrekening;
+   - ii. opzetten van of bijdragen aan een trustrekening;
 
-- iii. aanhouden van een bepaalde soort verzekering en een bepaald verzekerd bedrag;
+   - iii. aanhouden van een bepaalde soort verzekering en een bepaald verzekerd bedrag;
 
-- iv. bieden van andere soortgelijke garanties; of
+   - iv. bieden van andere soortgelijke garanties; of
 
-- v. bieden van toegang tot gegevens.
+   - v. bieden van toegang tot gegevens.
 
 ##### Artikel 9.5. Meestbegunstigingsbehandeling
 
@@ -2083,13 +1980,13 @@ Een partij mag inzake haar volledige grondgebied of inzake haar grondgebied op n
 
 - a. bestaande niet-conforme maatregelen die door een partij worden gehandhaafd op het niveau van:
 
-- i. de Europese Unie, als opgenomen in haar lijst in bijlage I;
+   - i. de Europese Unie, als opgenomen in haar lijst in bijlage I;
 
-- ii. een nationale overheid, als opgenomen door die partij in haar lijst in bijlage I;
+   - ii. een nationale overheid, als opgenomen door die partij in haar lijst in bijlage I;
 
-- iii. een provinciale, territoriale of regionale overheid, als opgenomen door die partij in haar lijst in bijlage I; of
+   - iii. een provinciale, territoriale of regionale overheid, als opgenomen door die partij in haar lijst in bijlage I; of
 
-- iv. een lagere overheid;
+   - iv. een lagere overheid;
 
 - b. de handhaving of onverwijlde verlenging van niet-conforme maatregelen als bedoeld onder a); of
 
@@ -2105,9 +2002,9 @@ Een partij kan weigeren de voordelen van dit hoofdstuk toe te kennen aan een die
 
 - b. de weigerende partij ten aanzien van het derde land een maatregel vaststelt of handhaaft die:
 
-- i. betrekking heeft op de handhaving van de internationale vrede en veiligheid; en
+   - i. betrekking heeft op de handhaving van de internationale vrede en veiligheid; en
 
-- ii. transacties met de onderneming verbiedt of die geschonden dan wel omzeild zou worden indien de voordelen van dit hoofdstuk aan de onderneming zouden worden verleend.
+   - ii. transacties met de onderneming verbiedt of die geschonden dan wel omzeild zou worden indien de voordelen van dit hoofdstuk aan de onderneming zouden worden verleend.
 
 ### HOOFDSTUK TIEN. TIJDELIJKE TOELATING EN TIJDELIJK VERBLIJF VAN NATUURLIJKE PERSONEN VOOR ZAKELIJKE DOELEINDEN
 
@@ -2129,27 +2026,27 @@ stafpersoneel: zakelijke bezoekers voor investeringsdoeleinden, investeerders en
 
 - c. binnen de onderneming overgeplaatste personen: natuurlijke personen die ten minste een jaar in dienst van of partner van een onderneming uit een partij zijn en die tijdelijk worden overgeplaatst naar een onderneming (die een dochteronderneming, filiaal of moederonderneming van de onderneming uit een partij kan zijn) op het grondgebied van de andere partij. De betrokken natuurlijke persoon moet behoren tot een van de volgende categorieën:
 
-- i. leidinggevend personeel: natuurlijke personen met een leidinggevende functie binnen een onderneming die:
+   - i. leidinggevend personeel: natuurlijke personen met een leidinggevende functie binnen een onderneming die:
 
-- A. in de eerste plaats verantwoordelijk zijn voor het management van de onderneming of leiding geven aan de onderneming, dan wel aan een afdeling of onderafdeling daarvan; en
+      - A. in de eerste plaats verantwoordelijk zijn voor het management van de onderneming of leiding geven aan de onderneming, dan wel aan een afdeling of onderafdeling daarvan; en
 
-- B. een ruime beoordelingsmarge hebben bij de besluitvorming, waaronder eventueel de bevoegdheid om persoonlijk werknemers in dienst te nemen en te ontslaan of andere maatregelen in het kader van het personeelsbeleid te nemen (zoals toestemming voor bevorderingen of verloven), en
+      - B. een ruime beoordelingsmarge hebben bij de besluitvorming, waaronder eventueel de bevoegdheid om persoonlijk werknemers in dienst te nemen en te ontslaan of andere maatregelen in het kader van het personeelsbeleid te nemen (zoals toestemming voor bevorderingen of verloven), en
 
-- I. slechts zijn onderworpen aan algemeen toezicht of instructies van, in hoofdzaak, hogere leidinggevenden, de raad van bestuur of de aandeelhouders van de onderneming of daarmee gelijkgestelde personen; of
+         - I. slechts zijn onderworpen aan algemeen toezicht of instructies van, in hoofdzaak, hogere leidinggevenden, de raad van bestuur of de aandeelhouders van de onderneming of daarmee gelijkgestelde personen; of
 
-- II. toezicht houden op het werk van andere toezichthoudende, gespecialiseerde of leidinggevende werknemers dat zij ook controleren, en discretionaire bevoegdheid uitoefenen ten aanzien van de dagelijkse werkzaamheden; of
+         - II. toezicht houden op het werk van andere toezichthoudende, gespecialiseerde of leidinggevende werknemers dat zij ook controleren, en discretionaire bevoegdheid uitoefenen ten aanzien van de dagelijkse werkzaamheden; of
 
-- ii. specialisten: natuurlijke personen die werkzaam zijn in een onderneming en die beschikken over: Bij de beoordeling van dergelijke deskundigheid of kennis nemen de partijen de vaardigheden in aanmerking die ongebruikelijk zijn en verschillen van die welke over het algemeen in een bepaalde bedrijfstak voorhanden zijn, en die op korte termijn niet gemakkelijk kunnen worden overgedragen aan een andere natuurlijke persoon. Deze vaardigheden kunnen zijn verkregen via specifieke academische kwalificaties of uitgebreide ervaring in de onderneming; of
+   - ii. specialisten: natuurlijke personen die werkzaam zijn in een onderneming en die beschikken over: Bij de beoordeling van dergelijke deskundigheid of kennis nemen de partijen de vaardigheden in aanmerking die ongebruikelijk zijn en verschillen van die welke over het algemeen in een bepaalde bedrijfstak voorhanden zijn, en die op korte termijn niet gemakkelijk kunnen worden overgedragen aan een andere natuurlijke persoon. Deze vaardigheden kunnen zijn verkregen via specifieke academische kwalificaties of uitgebreide ervaring in de onderneming; of
 
-- A. bijzondere kennis van de producten of diensten van de onderneming en de toepassing ervan op de internationale markten; of
+      - A. bijzondere kennis van de producten of diensten van de onderneming en de toepassing ervan op de internationale markten; of
 
-- B. een hoge mate van deskundigheid of kennis van de processen en procedures van de onderneming zoals de productie, de onderzoeksuitrusting, de technische werkzaamheden of het management ervan.
+      - B. een hoge mate van deskundigheid of kennis van de processen en procedures van de onderneming zoals de productie, de onderzoeksuitrusting, de technische werkzaamheden of het management ervan.
 
-- iii. afgestudeerde stagiairs: natuurlijke personen die:
+   - iii. afgestudeerde stagiairs: natuurlijke personen die:
 
-- A. een universitaire graad hebben behaald; en
+      - A. een universitaire graad hebben behaald; en
 
-- B. tijdelijk worden overgeplaatst naar een onderneming op het grondgebied van de andere partij, met het oog op loopbaanontwikkeling of een opleiding in bedrijfskundige technieken of methoden; en onder
+      - B. tijdelijk worden overgeplaatst naar een onderneming op het grondgebied van de andere partij, met het oog op loopbaanontwikkeling of een opleiding in bedrijfskundige technieken of methoden; en onder
 
 natuurlijke personen voor zakelijke doeleinden: stafpersoneel, dienstverleners op contractbasis, beoefenaars van een vrij beroep of zakelijke bezoekers voor een kort verblijf die onderdaan zijn van een partij.
 
@@ -2209,15 +2106,15 @@ natuurlijke personen voor zakelijke doeleinden: stafpersoneel, dienstverleners o
 
 - a. de artikelen 9.3 (Nationale behandeling) en 9.6 (Markttoegang), onverminderd de artikelen 9.4 (Formele vereisten) en 9.2 (Toepassingsgebied) met uitzondering van artikel 9.2, lid 2, onder d), worden opgenomen in dit hoofdstuk en maken hiervan deel uit en zijn van toepassing op de behandeling van natuurlijke personen voor zakelijke doeleinden die zich op het grondgebied van de andere partij bevinden in de volgende categorieën:
 
-- i. stafpersoneel; en
+   - i. stafpersoneel; en
 
-- ii. dienstverleners op contractbasis en beoefenaars van een vrij beroep, zoals omschreven in artikel 10.1, voor alle sectoren vermeld in bijlage 10-E; en
+   - ii. dienstverleners op contractbasis en beoefenaars van een vrij beroep, zoals omschreven in artikel 10.1, voor alle sectoren vermeld in bijlage 10-E; en
 
 - b. artikel 9.5 (Meestbegunstigingsbehandeling), onverminderd de artikelen 9.4 (Formele vereisten) en 9.2 (Toepassingsgebied) met uitzondering van artikel 9.2, lid 2, onder d), wordt opgenomen in en maakt deel uit van dit hoofdstuk en is van toepassing op de behandeling van natuurlijke personen voor zakelijke doeleinden die zich op het grondgebied van de andere partij bevinden in de volgende categorieën:
 
-- i. stafpersoneel, dienstverleners op contractbasis en beoefenaars van een vrij beroep; en
+   - i. stafpersoneel, dienstverleners op contractbasis en beoefenaars van een vrij beroep; en
 
-- ii. zakelijke bezoekers voor een kort verblijf, zoals aangegeven in artikel 10.9.
+   - ii. zakelijke bezoekers voor een kort verblijf, zoals aangegeven in artikel 10.9.
 
 3. Voor alle duidelijkheid: lid 2 is van toepassing op de behandeling van natuurlijke personen voor zakelijke doeleinden die zich op het grondgebied van de andere partij bevinden en binnen de betrokken categorieën vallen, en die financiële diensten verlenen zoals omschreven in artikel 13.1 (Definities) van hoofdstuk dertien (Financiële diensten). Lid 2 is niet van toepassing op maatregelen inzake toestemming voor tijdelijke toelating aan natuurlijke personen uit een partij of uit een derde land.
 
@@ -2253,9 +2150,9 @@ natuurlijke personen voor zakelijke doeleinden: stafpersoneel, dienstverleners o
 
 - c. de natuurlijke personen die het grondgebied van de andere partij binnenkomen, moeten hebben behaald of in het bezit zijn van:
 
-- i. een universitaire graad of een kwalificatie waaruit kennis op een gelijkwaardig niveau blijkt;19)Wanneer de graad of de kwalificatie niet is verkregen in de partij waar de dienst wordt verleend, kan die partij beoordelen of deze gelijkwaardig is aan een op haar grondgebied vereiste universitaire graad. De partijen passen bijlage 10-C, onverminderd de voorbehouden in bijlage 10-E, toe bij de beoordeling of er sprake is van dergelijke gelijkwaardigheid. en
+   - i. een universitaire graad of een kwalificatie waaruit kennis op een gelijkwaardig niveau blijkt;19)Wanneer de graad of de kwalificatie niet is verkregen in de partij waar de dienst wordt verleend, kan die partij beoordelen of deze gelijkwaardig is aan een op haar grondgebied vereiste universitaire graad. De partijen passen bijlage 10-C, onverminderd de voorbehouden in bijlage 10-E, toe bij de beoordeling of er sprake is van dergelijke gelijkwaardigheid. en
 
-- ii. de beroepskwalificaties die de wet- of regelgeving van de partij waar de dienst wordt verleend eventueel voorschrijft voor het uitoefenen van de desbetreffende activiteit;
+   - ii. de beroepskwalificaties die de wet- of regelgeving van de partij waar de dienst wordt verleend eventueel voorschrijft voor het uitoefenen van de desbetreffende activiteit;
 
 - d. de natuurlijke personen ontvangen geen andere beloning voor het verlenen van diensten dan die welke wordt betaald door de onderneming waarvoor zij als dienstverleners op contractbasis gedurende hun verblijf op het grondgebied van de andere partij werken;
 
@@ -2271,9 +2168,9 @@ natuurlijke personen voor zakelijke doeleinden: stafpersoneel, dienstverleners o
 
 - c. de natuurlijke personen die het grondgebied van de andere partij binnenkomen, moeten hebben behaald of in het bezit zijn van:
 
-- i. een universitaire graad of een kwalificatie waaruit kennis op een gelijkwaardig niveau blijkt;21)Wanneer de graad of de kwalificatie niet is verkregen in de partij waar de dienst wordt verleend, kan die partij beoordelen of deze gelijkwaardig is aan een op haar grondgebied vereiste universitaire graad. De partijen passen bijlage 10-C, onverminderd de voorbehouden in bijlage 10-E, toe bij de beoordeling of er sprake is van dergelijke gelijkwaardigheid. en
+   - i. een universitaire graad of een kwalificatie waaruit kennis op een gelijkwaardig niveau blijkt;21)Wanneer de graad of de kwalificatie niet is verkregen in de partij waar de dienst wordt verleend, kan die partij beoordelen of deze gelijkwaardig is aan een op haar grondgebied vereiste universitaire graad. De partijen passen bijlage 10-C, onverminderd de voorbehouden in bijlage 10-E, toe bij de beoordeling of er sprake is van dergelijke gelijkwaardigheid. en
 
-- ii. de beroepskwalificaties die de wet- of regelgeving van de partij waar de dienst wordt verleend eventueel voorschrijft voor het verlenen van de desbetreffende activiteit;
+   - ii. de beroepskwalificaties die de wet- of regelgeving van de partij waar de dienst wordt verleend eventueel voorschrijft voor het verlenen van de desbetreffende activiteit;
 
 - d. de tijdelijke toelating en het tijdelijke verblijf waarvoor krachtens dit artikel toestemming is verleend, hebben enkel betrekking op het verlenen van een dienst die het voorwerp is van het contract. Het recht gebruik te maken van de beroepstitel van de partij waar de dienst wordt verleend kan worden toegekend, zoals voorgeschreven, door de bevoegde autoriteit, zoals omschreven in artikel 11.1 (Definities), door middel van een MRA of anderszins; en
 
@@ -2415,9 +2312,9 @@ kwalificatievereisten: materiële vereisten op het gebied van vaardigheden waara
 
 - b. die verband houden met een van de volgende sectoren of activiteiten:
 
-- i. wat Canada betreft, de culturele sector en, zoals vastgelegd in zijn lijst in bijlage II, sociale diensten, zaken met betrekking tot Aboriginals, minderheden, loterijen en kansspelen, en de winning, zuivering en distributie van water; en
+   - i. wat Canada betreft, de culturele sector en, zoals vastgelegd in zijn lijst in bijlage II, sociale diensten, zaken met betrekking tot Aboriginals, minderheden, loterijen en kansspelen, en de winning, zuivering en distributie van water; en
 
-- ii. wat de EU-partij betreft, audiovisuele diensten en, zoals uiteengezet in haar lijst in bijlage II, gezondheidszorg, onderwijs en sociale diensten, loterijen en kansspelen23)Met uitzondering van Malta., en de winning, zuivering en distributie van water.
+   - ii. wat de EU-partij betreft, audiovisuele diensten en, zoals uiteengezet in haar lijst in bijlage II, gezondheidszorg, onderwijs en sociale diensten, loterijen en kansspelen23)Met uitzondering van Malta., en de winning, zuivering en distributie van water.
 
 ##### Artikel 12.3. Vergunnings- en kwalificatievereisten en -procedures
 
@@ -2483,55 +2380,55 @@ financiële dienst: een dienst van financiële aard, met inbegrip van verzekerin
 
 - a. verzekeringen en aanverwante diensten:
 
-- i. directe verzekering (met inbegrip van medeverzekering):
+   - i. directe verzekering (met inbegrip van medeverzekering):
 
-- A. levensverzekering; of
+      - A. levensverzekering; of
 
-- B. schadeverzekering;
+      - B. schadeverzekering;
 
-- ii. herverzekering en retrocessie;
+   - ii. herverzekering en retrocessie;
 
-- iii. verzekeringsbemiddeling, zoals diensten van makelaars en agenten; of
+   - iii. verzekeringsbemiddeling, zoals diensten van makelaars en agenten; of
 
-- iv. ondersteunende diensten in de verzekeringssector, zoals adviesverstrekking, actuariaat, risicobeoordeling en regeling van schade-eisen; en
+   - iv. ondersteunende diensten in de verzekeringssector, zoals adviesverstrekking, actuariaat, risicobeoordeling en regeling van schade-eisen; en
 
 - b. bankdiensten en andere financiële diensten (m.u.v. verzekeringen):
 
-- i. aanvaarding van deposito's en andere terugbetaalbare fondsen van het publiek;
+   - i. aanvaarding van deposito's en andere terugbetaalbare fondsen van het publiek;
 
-- ii. alle soorten leningen, waaronder consumentenkrediet en hypotheken, factoring en financiering van commerciële transacties;
+   - ii. alle soorten leningen, waaronder consumentenkrediet en hypotheken, factoring en financiering van commerciële transacties;
 
-- iii. financiële leasing;
+   - iii. financiële leasing;
 
-- iv. alle diensten in verband met het betalingsverkeer en de overmaking van geld, waaronder krediet-, betaal- en debetkaarten, reischeques en bankwissels;
+   - iv. alle diensten in verband met het betalingsverkeer en de overmaking van geld, waaronder krediet-, betaal- en debetkaarten, reischeques en bankwissels;
 
-- v. verlenen van garanties en stellen van borgtochten;
+   - v. verlenen van garanties en stellen van borgtochten;
 
-- vi. transacties voor eigen rekening of voor rekening van cliënten op de beurs, de onderhandse markt of anderszins, ten aanzien van:
+   - vi. transacties voor eigen rekening of voor rekening van cliënten op de beurs, de onderhandse markt of anderszins, ten aanzien van:
 
-- A. geldmarktinstrumenten (met inbegrip van cheques, effecten of depositocertificaten);
+      - A. geldmarktinstrumenten (met inbegrip van cheques, effecten of depositocertificaten);
 
-- B. deviezen;
+      - B. deviezen;
 
-- C. derivaten, met inbegrip van termijninstrumenten en opties;
+      - C. derivaten, met inbegrip van termijninstrumenten en opties;
 
-- D. wisselkoers- en rentetariefinstrumenten, waaronder producten als swaps en rentetermijncontracten;
+      - D. wisselkoers- en rentetariefinstrumenten, waaronder producten als swaps en rentetermijncontracten;
 
-- E. verhandelbare effecten; of
+      - E. verhandelbare effecten; of
 
-- F. andere verhandelbare stukken en financiële activa, met inbegrip van ongemunt goud en zilver;
+      - F. andere verhandelbare stukken en financiële activa, met inbegrip van ongemunt goud en zilver;
 
-- vii. deelneming in de uitgifte van alle soorten effecten, met inbegrip van garantieverlening en plaatsing in de hoedanigheid van agent (openbaar dan wel particulier) en verlening van daarmee verband houdende diensten;
+   - vii. deelneming in de uitgifte van alle soorten effecten, met inbegrip van garantieverlening en plaatsing in de hoedanigheid van agent (openbaar dan wel particulier) en verlening van daarmee verband houdende diensten;
 
-- viii. financiële bemiddeling;
+   - viii. financiële bemiddeling;
 
-- ix. beheer van activa, zoals beheer van contanten of portefeuillebeheer, alle vormen van beheer van collectieve investeringen, beheer van pensioenfondsen, diensten aangaande bewaarneming, depositodiensten en fiduciaire diensten;
+   - ix. beheer van activa, zoals beheer van contanten of portefeuillebeheer, alle vormen van beheer van collectieve investeringen, beheer van pensioenfondsen, diensten aangaande bewaarneming, depositodiensten en fiduciaire diensten;
 
-- x. vereffenings- en verrekeningsdiensten in verband met financiële activa, met inbegrip van effecten, derivaten en andere verhandelbare instrumenten;
+   - x. vereffenings- en verrekeningsdiensten in verband met financiële activa, met inbegrip van effecten, derivaten en andere verhandelbare instrumenten;
 
-- xi. verstrekking en doorgifte van financiële informatie, verwerking van financiële gegevens en daarop betrekking hebbende software; of
+   - xi. verstrekking en doorgifte van financiële informatie, verwerking van financiële gegevens en daarop betrekking hebbende software; of
 
-- xii. advies- en bemiddelingsdiensten en andere ondersteunende financiële diensten voor alle onder i) tot en met xi) vermelde activiteiten, met inbegrip van kredietonderzoek en -analyse, onderzoek en advies aangaande investeringen en beleggingen, advies over overnames, bedrijfsreorganisaties en -strategieën;
+   - xii. advies- en bemiddelingsdiensten en andere ondersteunende financiële diensten voor alle onder i) tot en met xi) vermelde activiteiten, met inbegrip van kredietonderzoek en -analyse, onderzoek en advies aangaande investeringen en beleggingen, advies over overnames, bedrijfsreorganisaties en -strategieën;
 
 verlener van financiële diensten: een persoon uit een partij die op het grondgebied van die partij actief is in de financiële dienstverlening, met uitzondering van overheidsinstanties;
 
@@ -2631,15 +2528,15 @@ met dien verstande dat dit hoofdstuk wel van toepassing is voor zover een partij
 
 - a. beperkingen opleggen ten aanzien van:
 
-- i. het aantal financiële instellingen, al dan niet in de vorm van numerieke quota, monopolies, exclusieve dienstverleners of de eis van een onderzoek naar de economische behoefte;
+   - i. het aantal financiële instellingen, al dan niet in de vorm van numerieke quota, monopolies, exclusieve dienstverleners of de eis van een onderzoek naar de economische behoefte;
 
-- ii. de totale waarde van de met de financiële diensten verband houdende transacties of activa in de vorm van numerieke quota of de eis van een onderzoek naar de economische behoefte;
+   - ii. de totale waarde van de met de financiële diensten verband houdende transacties of activa in de vorm van numerieke quota of de eis van een onderzoek naar de economische behoefte;
 
-- iii. het totale aantal met de financiële diensten verband houdende transacties of het totale volume van de output aan financiële diensten, uitgedrukt in bepaalde numerieke eenheden, in de vorm van quota of de eis van een onderzoek naar de economische behoefte;
+   - iii. het totale aantal met de financiële diensten verband houdende transacties of het totale volume van de output aan financiële diensten, uitgedrukt in bepaalde numerieke eenheden, in de vorm van quota of de eis van een onderzoek naar de economische behoefte;
 
-- iv. de participatie van buitenlands kapitaal uitgedrukt als een maximumpercentage voor buitenlands aandeelhouderschap in financiële instellingen of de totale waarde van individuele of geaggregeerde buitenlandse investeringen in financiële instellingen; of
+   - iv. de participatie van buitenlands kapitaal uitgedrukt als een maximumpercentage voor buitenlands aandeelhouderschap in financiële instellingen of de totale waarde van individuele of geaggregeerde buitenlandse investeringen in financiële instellingen; of
 
-- v. het totale aantal natuurlijke personen die kunnen worden tewerkgesteld in een bepaalde financiëledienstensector of die een financiële instelling in dienst mag hebben en die nodig zijn voor en zich rechtstreeks bezighouden met het verlenen van een specifieke financiële dienst, door middel van numerieke quota of de eis van een onderzoek naar de economische behoefte; of
+   - v. het totale aantal natuurlijke personen die kunnen worden tewerkgesteld in een bepaalde financiëledienstensector of die een financiële instelling in dienst mag hebben en die nodig zijn voor en zich rechtstreeks bezighouden met het verlenen van een specifieke financiële dienst, door middel van numerieke quota of de eis van een onderzoek naar de economische behoefte; of
 
 - b. specifieke soorten juridische entiteiten of joint ventures via welke een financiële instelling een economische activiteit kan uitoefenen, vereisen of ten aanzien van die juridische entiteiten of joint ventures beperkingen opleggen.
 
@@ -2685,13 +2582,13 @@ Geen der partijen kan een financiële instelling uit de andere partij ertoe verp
 
 - a. bestaande niet-conforme maatregelen die door een partij worden gehandhaafd op het niveau van:
 
-- i. de Europese Unie, als opgenomen in haar lijst in bijlage I;
+   - i. de Europese Unie, als opgenomen in haar lijst in bijlage I;
 
-- ii. een nationale overheid, als opgenomen door Canada in afdeling A van zijn lijst in bijlage III of de Europese Unie in haar lijst in bijlage I;
+   - ii. een nationale overheid, als opgenomen door Canada in afdeling A van zijn lijst in bijlage III of de Europese Unie in haar lijst in bijlage I;
 
-- iii. een provinciale, territoriale of regionale overheid, als opgenomen door Canada in afdeling A van zijn lijst in bijlage III of de Europese Unie in haar lijst in bijlage I; of
+   - iii. een provinciale, territoriale of regionale overheid, als opgenomen door Canada in afdeling A van zijn lijst in bijlage III of de Europese Unie in haar lijst in bijlage I; of
 
-- iv. een lagere overheid;
+   - iv. een lagere overheid;
 
 - b. de handhaving of onverwijlde verlenging van niet-conforme maatregelen als bedoeld onder a); of
 
@@ -2701,13 +2598,13 @@ Geen der partijen kan een financiële instelling uit de andere partij ertoe verp
 
 - a. bestaande niet-conforme maatregelen die door een partij worden gehandhaafd op het niveau van:
 
-- i. de Europese Unie, als opgenomen in haar lijst in bijlage I;
+   - i. de Europese Unie, als opgenomen in haar lijst in bijlage I;
 
-- ii. een nationale overheid, als opgenomen door Canada in afdeling A van zijn lijst in bijlage III of de Europese Unie in haar lijst in bijlage I;
+   - ii. een nationale overheid, als opgenomen door Canada in afdeling A van zijn lijst in bijlage III of de Europese Unie in haar lijst in bijlage I;
 
-- iii. een provinciale, territoriale of regionale overheid, als opgenomen door Canada in afdeling A van zijn lijst in bijlage III of de Europese Unie in haar lijst in bijlage I; of
+   - iii. een provinciale, territoriale of regionale overheid, als opgenomen door Canada in afdeling A van zijn lijst in bijlage III of de Europese Unie in haar lijst in bijlage I; of
 
-- iv. een lagere overheid;
+   - iv. een lagere overheid;
 
 - b. de handhaving of onmiddellijke verlenging van niet-conforme maatregelen als bedoeld onder a); of
 
@@ -2909,7 +2806,7 @@ waarbij een behandeling wordt toegekend die minder gunstig is dan die welke die 
 
 - d. toegang tot douanefaciliteiten; of
 
-- e. de toewijzing van aanlegplaatsen en laad- en losinstallaties.26)Dit lid is niet van toepassing op vaartuigen of verleners van internationale zeevervoerdiensten die vallen onder de Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing (Overeenkomst inzake havenstaatmaatregelen om illegale, ongemelde en ongereglementeerde visserij te voorkomen, tegen te gaan en te beëindigen), gedaan te Rome op 22 november 2009.
+- e. de toewijzing van aanlegplaatsen en laad- en losinstallaties.26)Dit lid is niet van toepassing op vaartuigen of verleners van internationale zeevervoerdiensten die vallen onder de Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing (Overeenkomst inzake havenstaatmaatregelen om illegale, ongemelde en ongereglementeerde visserij te voorkomen, tegen te gaan en te beëindigen), gedaan te Rome op 22 november 2009.
 
 ##### Artikel 14.3. Verplichtingen
 
@@ -2929,13 +2826,13 @@ waarbij een behandeling wordt toegekend die minder gunstig is dan die welke die 
 
 - a. bestaande niet-conforme maatregelen die door een partij worden gehandhaafd op het niveau van:
 
-- i. de Europese Unie, als opgenomen in haar lijst in bijlage I;
+   - i. de Europese Unie, als opgenomen in haar lijst in bijlage I;
 
-- ii. een nationale overheid, als opgenomen door die partij in haar lijst in bijlage I;
+   - ii. een nationale overheid, als opgenomen door die partij in haar lijst in bijlage I;
 
-- iii. een provinciale, territoriale of regionale overheid, als opgenomen door die partij in haar lijst in bijlage I; of
+   - iii. een provinciale, territoriale of regionale overheid, als opgenomen door die partij in haar lijst in bijlage I; of
 
-- iv. een lagere overheid;
+   - iv. een lagere overheid;
 
 - b. de handhaving of onverwijlde verlenging van niet-conforme maatregelen als bedoeld onder a); of
 
@@ -3123,11 +3020,15 @@ Elke partij waarborgt dat aanbieders van openbare telecommunicatiediensten op ha
 
 ##### Artikel 15.12. Beslechting van telecommunicatiegeschillen
 
+Beroep op regelgevende autoriteiten
+
 1. In aansluiting op de artikelen 27.3 (Administratieve procedures) en 27.4 (Toetsing en beroep) ziet elke partij erop toe dat:
 
 - a. ondernemingen tijdig een beroep op haar regelgevende autoriteit kunnen doen voor de beslechting van geschillen met aanbieders van openbare telecommunicatienetwerken of -diensten over de aangelegenheden die onder de artikelen 15.3 tot en met 15.6 en ingevolge het interne recht van de partij binnen de jurisdictie van de regelgevende autoriteit vallen. In voorkomend geval neemt de regelgevende autoriteit binnen een redelijke termijn een bindend besluit om het geschil tot een oplossing te brengen;
 
 - b. aanbieders van telecommunicatienetwerken of -diensten uit de andere partij die om toegang tot essentiële faciliteiten of om interconnectie met een grote aanbieder op het grondgebied van de partij verzoeken, binnen een redelijke, algemeen bekendgemaakte specifieke termijn geschillen met die grote aanbieder over passende voorwaarden en tarieven voor interconnectie of toegang kunnen voorleggen aan een regelgevende autoriteit, in het kader van beslechting daarvan.
+
+Beroep en toetsing van vaststellingen of besluiten van regelgevende autoriteit
 
 2. Elke partij zorgt ervoor dat een onderneming waarvan de belangen door een vaststelling of besluit van een regelgevende autoriteit worden geschaad, tegen de vaststelling of dat besluit kan opkomen bij een onpartijdige en onafhankelijke rechterlijke, semi-rechterlijke of administratieve autoriteit, als bepaald in het interne recht van de partij. De rechterlijke, semi-rechterlijke of administratieve autoriteit verstrekt de onderneming schriftelijk de redenen op grond waarvan zij tot haar vaststelling of beslissing is gekomen. Elke partij zorgt ervoor dat deze vaststellingen of besluiten, onder voorbehoud van beroep of nadere toetsing, door de regelgevende autoriteit ten uitvoer worden gelegd.
 
@@ -3141,15 +3042,15 @@ Elke partij waarborgt dat aanbieders van openbare telecommunicatiediensten op ha
 
 - b. de maatregelen met betrekking tot openbare telecommunicatienetwerken of -diensten, met inbegrip van:
 
-- i. regelgeving van haar regelgevende autoriteit, samen met de rechtsgrondslag voor deze regelgeving;
+   - i. regelgeving van haar regelgevende autoriteit, samen met de rechtsgrondslag voor deze regelgeving;
 
-- ii. tarieven en andere voorwaarden van diensten;
+   - ii. tarieven en andere voorwaarden van diensten;
 
-- iii. specificaties van technische interfaces;
+   - iii. specificaties van technische interfaces;
 
-- iv. voorwaarden voor het koppelen van eind- of andere apparatuur aan de openbare telecommunicatienetwerken;
+   - iv. voorwaarden voor het koppelen van eind- of andere apparatuur aan de openbare telecommunicatienetwerken;
 
-- v. vereisten op het gebied van aanmelding, toestemming, registratie of vergunningverlening, indien van toepassing; en
+   - v. vereisten op het gebied van aanmelding, toestemming, registratie of vergunningverlening, indien van toepassing; en
 
 - c. informatie over de organen die verantwoordelijk zijn voor de voorbereiding, wijziging en goedkeuring van maatregelen inzake normen.
 
@@ -3233,7 +3134,7 @@ dienst van algemeen economisch belang: voor de Europese Unie: een dienst die, in
 
 2. De partijen nemen passende maatregelen om mededingingverstorend zakelijk gedrag te verbieden, waarbij zij erkennen dat dergelijke maatregelen tot de verwezenlijking van de doelstellingen van deze overeenkomst zullen bijdragen.
 
-3. De partijen werken samen bij aangelegenheden met betrekking tot het verbod van mededingingverstorende zakelijke activiteiten in de vrijhandelszone in overeenstemming met de Overeenkomst tussen de Europese Gemeenschappen en de regering van Canada betreffende de toepassing van hun mededingingsrecht, gedaan te Bonn op 17 juni 1999.
+3. De partijen werken samen bij aangelegenheden met betrekking tot het verbod van mededingingverstorende zakelijke activiteiten in de vrijhandelszone in overeenstemming met de Overeenkomst tussen de Europese Gemeenschappen en de regering van Canada betreffende de toepassing van hun mededingingsrecht, gedaan te Bonn op 17 juni 1999.
 
 4. De in lid 2 bedoelde maatregelen moeten in overeenstemming zijn met de beginselen van transparantie, non-discriminatie en de billijkheid van procedures. Uitsluitingen van de toepassing van het mededingingsrecht moeten transparant zijn. Een partij verstrekt de andere partij openbare informatie over dergelijke uitsluitingen in het kader van haar mededingingsrecht.
 
@@ -3353,15 +3254,17 @@ technische specificatie: een vereiste in een aanbestedingsprocedure waarin:
 
 ##### Artikel 19.2. Toepassingsgebied
 
+Toepassing van dit hoofdstuk
+
 1. Dit hoofdstuk is van toepassing op alle maatregelen inzake onder dit hoofdstuk vallende opdrachten, ongeacht of deze geheel of gedeeltelijk elektronisch worden aanbesteed.
 
 2. Voor de toepassing van dit hoofdstuk wordt onder „onder dit hoofdstuk vallende opdrachten” verstaan opdrachten betreffende de aanschaf voor overheidsdoeleinden:
 
 - a. van goederen, diensten of een combinatie daarvan:
 
-- i. zoals vermeld in de bijlagen van elke partij met betrekking tot haar lijst inzake markttoegang in het kader van dit hoofdstuk; en
+   - i. zoals vermeld in de bijlagen van elke partij met betrekking tot haar lijst inzake markttoegang in het kader van dit hoofdstuk; en
 
-- ii. die niet worden aangeschaft met het oog op commerciële verkoop of wederverkoop of voor gebruik bij de productie of levering van goederen of diensten voor commerciële verkoop of wederverkoop;
+   - ii. die niet worden aangeschaft met het oog op commerciële verkoop of wederverkoop of voor gebruik bij de productie of levering van goederen of diensten voor commerciële verkoop of wederverkoop;
 
 - b. met welke contractuele middelen dan ook, waaronder: koop; lease; huur of huurkoop, met of zonder koopoptie;
 
@@ -3383,11 +3286,11 @@ technische specificatie: een vereiste in een aanbestedingsprocedure waarin:
 
 - e. opdrachten die worden aanbesteed:
 
-- i. met het specifieke doel internationale bijstand, met inbegrip van ontwikkelingshulp, te verlenen;
+   - i. met het specifieke doel internationale bijstand, met inbegrip van ontwikkelingshulp, te verlenen;
 
-- ii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale overeenkomst betreffende de legering van strijdkrachten of betreffende de gezamenlijke uitvoering van een project door de ondertekenende landen; of
+   - ii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale overeenkomst betreffende de legering van strijdkrachten of betreffende de gezamenlijke uitvoering van een project door de ondertekenende landen; of
 
-- iii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale organisatie, of gefinancierd door een internationale subsidie, lening of andere vorm van steun, wanneer die procedure of voorwaarde niet in overeenstemming is met dit hoofdstuk.
+   - iii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale organisatie, of gefinancierd door een internationale subsidie, lening of andere vorm van steun, wanneer die procedure of voorwaarde niet in overeenstemming is met dit hoofdstuk.
 
 4. Onder dit hoofdstuk vallende opdrachten omvatten alle opdrachten die vallen onder de lijsten inzake markttoegang van Canada en van de Europese Unie, waarin de verbintenissen van elke partij als volgt worden uiteengezet:
 
@@ -3409,15 +3312,17 @@ technische specificatie: een vereiste in een aanbestedingsprocedure waarin:
 
 5. Indien een aanbestedende entiteit, in het kader van een onder dit hoofdstuk vallende opdracht, van personen die niet onder de bijlagen met betrekking tot de lijst inzake markttoegang van de betrokken partij voor dit hoofdstuk vallen, verlangt dat zij bij het plaatsen van opdrachten bepaalde voorschriften in acht nemen, dan is artikel 19.4 van overeenkomstige toepassing op die voorschriften.
 
+Waardebepaling
+
 6. Bij het ramen van de waarde van een opdracht om te bepalen of dit een onder dit hoofdstuk vallende opdracht is, geldt dat een aanbestedende entiteit:
 
 - a. de opdracht niet in afzonderlijke opdrachten mag verdelen noch een bijzondere methode voor het ramen van de waarde van de opdracht mag kiezen of gebruiken om deze geheel of gedeeltelijk buiten de toepassing van dit hoofdstuk te doen vallen; en
 
 - b. uitgaat van de geraamde maximale totale waarde van de opdracht over de gehele looptijd daarvan, ongeacht of de opdracht aan een of meer aanbieders wordt gegund, waarbij rekening wordt gehouden met alle vormen van vergoeding, met inbegrip van:
 
-- i. premies, honoraria, commissielonen en rente; en
+   - i. premies, honoraria, commissielonen en rente; en
 
-- ii. indien de aanbesteding de mogelijkheid van opties biedt, de totale waarde van deze opties.
+   - ii. indien de aanbesteding de mogelijkheid van opties biedt, de totale waarde van deze opties.
 
 7. Indien een bepaald vereiste met betrekking tot een opdracht tot gevolg heeft dat meer dan een opdracht wordt gegund of een opdracht in afzonderlijke delen wordt gegund („herhalingsopdrachten”), wordt de berekening van de geraamde maximale totale waarde gebaseerd op:
 
@@ -3429,9 +3334,9 @@ technische specificatie: een vereiste in een aanbestedingsprocedure waarin:
 
 - a. bij opdrachten met een vastgestelde looptijd:
 
-- i. de totale geraamde maximale waarde voor de looptijd van de opdracht indien de looptijd daarvan ten hoogste twaalf maanden bedraagt; of
+   - i. de totale geraamde maximale waarde voor de looptijd van de opdracht indien de looptijd daarvan ten hoogste twaalf maanden bedraagt; of
 
-- ii. indien de looptijd meer dan twaalf maanden bedraagt, de totale geraamde maximale waarde, met inbegrip van de geraamde restwaarde;
+   - ii. indien de looptijd meer dan twaalf maanden bedraagt, de totale geraamde maximale waarde, met inbegrip van de geraamde restwaarde;
 
 - b. bij opdrachten voor onbepaalde duur: het geraamde maandelijks te betalen bedrag vermenigvuldigd met 48; en
 
@@ -3459,6 +3364,8 @@ technische specificatie: een vereiste in een aanbestedingsprocedure waarin:
 
 ##### Artikel 19.4. Algemene beginselen
 
+Non-discriminatie
+
 1. Ten aanzien van alle maatregelen betreffende de onder dit hoofdstuk vallende opdrachten behandelt elke partij, met inbegrip van haar aanbestedende entiteiten, goederen en diensten uit de andere partij en aanbieders uit de andere partij die die goederen of diensten aanbieden, onmiddellijk en onvoorwaardelijk niet minder gunstig dan zij, met inbegrip van haar aanbestedende entiteiten, interne goederen, diensten en aanbieders behandelt. Voor alle duidelijkheid: een dergelijke behandeling omvat:
 
 - a. in Canada, een behandeling die niet minder gunstig is dan die welke door een provincie of territorium, met inbegrip van de aanbestedende entiteiten daarvan, wordt toegekend aan goederen, diensten en aanbieders uit die provincie of dat territorium; en
@@ -3471,11 +3378,15 @@ technische specificatie: een vereiste in een aanbestedingsprocedure waarin:
 
 - b. dat een lokaal gevestigde aanbieder niet wordt gediscrimineerd op grond van het feit dat de door die aanbieder voor een bepaalde opdracht aangeboden goederen of diensten afkomstig zijn uit de andere partij.
 
+Gebruik van elektronische middelen
+
 3. Wanneer een onder dit hoofdstuk vallende opdracht wordt aanbesteed met elektronische middelen:
 
 - a. ziet de aanbestedende entiteit erop toe dat voor de aanbesteding informatietechnologiesystemen en software, die betreffende de authenticatie en encryptie van informatie daaronder begrepen, worden gebruikt die algemeen beschikbaar zijn en interoperabel met andere algemeen beschikbare informatietechnologiesystemen en software; en
 
 - b. hanteert de aanbestedende entiteit mechanismen die de integriteit van verzoeken om deelname en van inschrijvingen waarborgen, onder meer door het tijdstip van ontvangst te registreren en ongeoorloofde toegang te voorkomen.
+
+Verloop van de aanbesteding
 
 4. Een aanbestedende entiteit ziet erop toe dat onder dit hoofdstuk vallende opdrachten worden aanbesteed op een transparante en onpartijdige wijze:
 
@@ -3485,9 +3396,15 @@ technische specificatie: een vereiste in een aanbestedingsprocedure waarin:
 
 - c. waarbij corruptie wordt voorkomen.
 
+Oorsprongsregels
+
 5. Met betrekking tot onder dit hoofdstuk vallende opdrachten mag een partij op uit de andere partij ingevoerde goederen of uit de andere partij verleende diensten geen oorsprongsregels toepassen die afwijken van de oorsprongsregels die zij op dat moment op de invoer van dezelfde goederen of de verlening van dezelfde diensten uit diezelfde partij in het normale handelsverkeer toepast.
 
+Compensatie
+
 6. Met betrekking tot onder dit hoofdstuk vallende opdrachten mogen de partijen en hun aanbestedende entiteiten geen compensatie vragen, in aanmerking nemen, opleggen of afdwingen.
+
+Maatregelen die niet specifiek betrekking hebben op overheidsopdrachten
 
 7. De leden 1 en 2 zijn niet van toepassing op: douanerechten en heffingen van ongeacht welke aard die bij invoer of in verband met invoer worden geïnd; de wijze van inning van deze rechten en heffingen; andere invoerregelingen of -formaliteiten en maatregelen die gevolgen hebben voor de handel in diensten, andere dan maatregelen betreffende onder dit hoofdstuk vallende overheidsopdrachten.
 
@@ -3507,13 +3424,15 @@ technische specificatie: een vereiste in een aanbestedingsprocedure waarin:
 
 - c. het internetadres of de internetadressen waarop de partij de volgende informatie publiceert:
 
-- i. haar statistische gegevens inzake overheidsopdrachten conform artikel 19.15, lid 5; of
+   - i. haar statistische gegevens inzake overheidsopdrachten conform artikel 19.15, lid 5; of
 
-- ii. haar berichten betreffende gegunde contracten conform artikel 19.15, lid 6.
+   - ii. haar berichten betreffende gegunde contracten conform artikel 19.15, lid 6.
 
 3. Bij elke wijziging van de in bijlage 19-8 vermelde informatie betreffende een partij stelt deze partij het Comité voor overheidsopdrachten daarvan onverwijld in kennis.
 
 ##### Artikel 19.6. Kennisgevingen
+
+Bericht van aanbesteding
 
 1. Voor elke onder dit hoofdstuk vallende overheidsopdracht publiceert de aanbestedende entiteit, behalve in de omstandigheden beschreven in artikel 19.12, een bericht van aanbesteding.
 
@@ -3549,6 +3468,8 @@ De daartoe bestemde gedrukte en elektronische media worden door elke partij verm
 
 - l. een vermelding dat de opdracht onder dit hoofdstuk valt.
 
+Samenvatting
+
 4. Voor iedere voorgenomen aanbesteding publiceert de aanbestedende entiteit in het Engels of het Frans, op hetzelfde tijdstip als het bericht van aanbesteding, een gemakkelijk toegankelijke samenvatting. Deze samenvatting bevat ten minste de volgende informatie:
 
 - a. de inhoud van de opdracht;
@@ -3556,6 +3477,8 @@ De daartoe bestemde gedrukte en elektronische media worden door elke partij verm
 - b. de termijn voor de indiening van inschrijvingen en in voorkomend geval de termijn voor de indiening van verzoeken om deelname aan de aanbesteding of aanvragen tot plaatsing op een lijst voor veelvuldig gebruik; en
 
 - c. het adres waar documenten met betrekking tot de opdracht kunnen worden opgevraagd.
+
+Aankondiging van geplande aanbestedingen
 
 5. De aanbestedende entiteiten worden aangemoedigd hun aanbestedingsplannen zo vroeg mogelijk in elk begrotingsjaar bekend te maken („aankondiging van geplande aanbestedingen”) in de passende elektronische en, indien beschikbaar, gedrukte media die in bijlage 19-8 worden vermeld. De aankondiging van geplande aanbestedingen wordt ook bekendgemaakt op het centrale toegangspunt dat is vermeld in bijlage 19-8, onder voorbehoud van het bepaalde in lid 2. De aankondiging van geplande aanbestedingen dient de inhoud van de opdracht en de geplande datum van publicatie van het bericht van aanbesteding te bevatten.
 
@@ -3595,6 +3518,8 @@ De daartoe bestemde gedrukte en elektronische media worden door elke partij verm
 
 ##### Artikel 19.8. Erkenning van aanbieders
 
+Registratiesystemen en erkenningsprocedures
+
 1. Een partij en haar aanbestedende entiteiten kunnen een systeem aanhouden voor de registratie van aanbieders in het kader waarvan belangstellende aanbieders zich moeten laten registreren en bepaalde informatie moeten verstrekken.
 
 2. Elke partij ziet erop toe dat:
@@ -3605,6 +3530,8 @@ De daartoe bestemde gedrukte en elektronische media worden door elke partij verm
 
 3. Een partij en haar aanbestedende entiteiten mogen geen registratiesysteem of erkenningsprocedure vaststellen of toepassen met als doel of gevolg dat onnodige belemmeringen voor de deelname van aanbieders uit de andere partij aan de aanbesteding ontstaan.
 
+Aanbesteding met voorafgaande selectie
+
 4. Indien een aanbestedende entiteit een opdracht wil aanbesteden met voorafgaande selectie:
 
 - a. neemt zij in het bericht van aanbesteding ten minste de in artikel 19.6, lid 3, onder a), b), f), g), j), k) en l), vermelde informatie op en nodigt zij aanbieders uit een verzoek om deelname in te dienen; en
@@ -3614,6 +3541,8 @@ De daartoe bestemde gedrukte en elektronische media worden door elke partij verm
 5. De aanbestedende entiteit staat alle erkende aanbieders toe om aan een bepaalde aanbesteding deel te nemen, tenzij de aanbestedende entiteit in het bericht van aanbesteding vermeldt dat het aantal aanbieders dat mag inschrijven, beperkt is en zij daarbij de criteria voor de selectie van dit beperkte aantal aanbieders opgeeft.
 
 6. Indien het aanbestedingsdossier niet vanaf de datum van publicatie van het in lid 4 bedoelde bericht openbaar toegankelijk is, ziet de aanbestedende entiteit erop toe dat het dossier voor alle overeenkomstig lid 5 geselecteerde erkende aanbieders op hetzelfde tijdstip beschikbaar komt.
+
+Lijsten voor veelvuldig gebruik
 
 7. Aanbestedende entiteiten mogen een lijst voor veelvuldig gebruik van aanbieders aanhouden op voorwaarde dat een bericht waarbij belangstellende aanbieders worden uitgenodigd een aanvraag tot plaatsing op de lijst in te dienen:
 
@@ -3645,6 +3574,8 @@ in de daartoe bestemde media als vermeld in bijlage 19-8.
 
 11. Wanneer een aanbieder die niet op een lijst voor veelvuldig gebruik is geplaatst, een verzoek indient om deelname aan een aanbesteding waarbij een lijst voor veelvuldig gebruik wordt gehanteerd en hij daarbij alle vereiste documenten dienaangaande indient binnen de in artikel 19.10, lid 2, bepaalde termijn, onderzoekt de aanbestedende entiteit het verzoek. De aanbestedende entiteit sluit de aanbieder niet uit van beoordeling in het kader van de opdracht op grond dat zij onvoldoende tijd heeft om het verzoek te onderzoeken, tenzij zij, in uitzonderlijke gevallen, wegens de complexiteit van de aanbesteding het onderzoek van het verzoek niet kan afronden binnen de voor de indiening van inschrijvingen gestelde termijn.
 
+Aanbestedende entiteiten van bijlagen 19-2 en 19-3
+
 12. Een in bijlage 19-2 of 19-3 genoemde aanbestedende entiteit kan een bericht waarbij aanbieders worden uitgenodigd een aanvraag tot plaatsing op een lijst voor veelvuldig gebruik in te dienen, gebruiken als bericht van aanbesteding, mits:
 
 - a. het bericht wordt gepubliceerd overeenkomstig lid 7 en de in lid 8 vermelde informatie en de in artikel 19.6, lid 3, voorgeschreven informatie die beschikbaar is, bevat, alsmede een verklaring dat het bericht als bericht van aanbesteding geldt of dat alleen de aanbieders op de lijst voor veelvuldig gebruik verdere berichten van aanbesteding waarop de lijst voor veelvuldig gebruik betrekking heeft, zullen ontvangen; en
@@ -3653,11 +3584,15 @@ in de daartoe bestemde media als vermeld in bijlage 19-8.
 
 13. Een in bijlage 19-2 of 19-3 genoemde aanbestedende entiteit mag aanbieders die overeenkomstig lid 10 een aanvraag tot plaatsing op een lijst voor veelvuldig gebruik hebben ingediend, toestaan in te schrijven voor een bepaalde opdracht, indien de aanbestedende entiteit voldoende tijd heeft om te onderzoeken of de aanbieder aan de voorwaarden voor deelname voldoet.
 
+Informatie inzake besluiten van aanbestedende entiteiten
+
 14. Aanbestedende entiteiten stellen aanbieders die een verzoek tot deelname aan een aanbesteding of een aanvraag tot plaatsing op een lijst voor veelvuldig gebruik hebben ingediend, onverwijld in kennis van hun besluit inzake dat verzoek of die aanvraag.
 
 15. Wanneer een aanbestedende entiteit een verzoek van een aanbieder om deelname aan een aanbesteding of een aanvraag van een aanbieder tot plaatsing op een lijst voor veelvuldig gebruik afwijst, de erkenning van een aanbieder intrekt of een aanbieder van een lijst voor veelvuldig gebruik schrapt, stelt zij de aanbieder daarvan onverwijld in kennis en verstrekt zij de aanbieder desgevraagd onverwijld een schriftelijke motivering van haar besluit.
 
 ##### Artikel 19.9. Technische specificaties en aanbestedingsdossier
+
+Technische specificaties
 
 1. Aanbestedende entiteiten mogen geen technische specificaties op- of vaststellen of toepassen of conformiteitsbeoordelingsprocedures voorschrijven met als doel of gevolg dat onnodige belemmeringen voor de internationale handel ontstaan.
 
@@ -3674,6 +3609,8 @@ in de daartoe bestemde media als vermeld in bijlage 19-8.
 5. Aanbestedende entiteiten vragen of aanvaarden van personen die een commercieel belang bij de aanbesteding kunnen hebben geen advies dat kan worden gebruikt bij de opstelling of de vaststelling van een technische specificatie voor een specifieke opdracht, wanneer dat advies tot gevolg kan hebben dat mededinging wordt uitgesloten.
 
 6. Voor alle duidelijkheid: een partij en haar aanbestedende entiteiten mogen technische specificaties opstellen, vaststellen of toepassen om het behoud van natuurlijke hulpbronnen of de bescherming van het milieu te bevorderen, mits in overeenstemming met dit artikel.
+
+Aanbestedingsdossier
 
 7. De aanbestedende entiteit stelt aanbieders een aanbestedingsdossier ter beschikking met alle informatie die zij nodig hebben om geldige inschrijvingen op te stellen en in te dienen. Tenzij deze informatie reeds in het bericht van aanbesteding is opgenomen, bevat het aanbestedingsdossier alle onderstaande gegevens:
 
@@ -3705,6 +3642,8 @@ in de daartoe bestemde media als vermeld in bijlage 19-8.
 
 - c. beantwoordt onverwijld elk redelijk verzoek om relevante informatie van een belangstellende of deelnemende aanbieder, mits dergelijke informatie die aanbieder niet bevoordeelt ten opzichte van andere aanbieders.
 
+Wijzigingen
+
 11. Indien een aanbestedende entiteit voorafgaand aan de gunning van een opdracht de criteria of vereisten wijzigt die in het bericht van aanbesteding of in het aanbestedingsdossier dat aan de deelnemende aanbieders is verstrekt, zijn vermeld, of een bericht van aanbesteding of aanbestedingsdossier wijzigt of opnieuw publiceert, geeft zij schriftelijk kennis van alle wijzigingen of verstrekt zij een gewijzigd of nieuw bericht van aanbesteding of aanbestedingsdossier:
 
 - a. aan alle aanbieders die op het tijdstip dat de informatie gewijzigd of opnieuw gepubliceerd wordt aan de procedure deelnemen, indien deze bekend zijn bij de aanbestedende entiteit, en in alle andere gevallen op dezelfde wijze als de oorspronkelijke informatie; en
@@ -3712,6 +3651,8 @@ in de daartoe bestemde media als vermeld in bijlage 19-8.
 - b. op een zodanig tijdstip dat de aanbieders voldoende tijd hebben om in voorkomend geval hun inschrijving te wijzigen en opnieuw in te dienen.
 
 ##### Artikel 19.10. Termijnen
+
+Algemeen
 
 1. Aanbestedende entiteiten geven, overeenkomstig hun eigen redelijke behoeften, de aanbieders voldoende tijd om verzoeken om deelname en geldige inschrijvingen op te stellen en in te dienen, waarbij rekening wordt gehouden met factoren zoals:
 
@@ -3722,6 +3663,8 @@ in de daartoe bestemde media als vermeld in bijlage 19-8.
 - c. de tijd die nodig is voor de verzending van inschrijvingen uit het buitenland en het eigen land indien geen gebruik wordt gemaakt van elektronische middelen.
 
 Deze termijnen en eventuele verlengingen ervan moeten voor alle belangstellende of deelnemende aanbieders gelijk zijn.
+
+Termijnen
 
 2. Wanneer een aanbestedende entiteit een opdracht aanbesteedt met voorafgaande selectie, mag de termijn voor de indiening van verzoeken om deelname in beginsel niet minder dan 25 dagen vanaf de datum van publicatie van het bericht van aanbesteding bedragen. Indien als gevolg van een door de aanbestedende entiteit naar behoren gemotiveerde urgente situatie een dergelijke termijn onhaalbaar is, mag deze worden verkort tot ten minste tien dagen.
 
@@ -3735,15 +3678,15 @@ Deze termijnen en eventuele verlengingen ervan moeten voor alle belangstellende 
 
 - a. zij overeenkomstig artikel 19.6, lid 5, ten minste veertig dagen, maar niet meer dan twaalf maanden vóór de publicatie van het bericht van aanbesteding een aankondiging van geplande aanbestedingen heeft gepubliceerd, waarin de volgende gegevens zijn opgenomen:
 
-- i. een omschrijving van de opdracht;
+   - i. een omschrijving van de opdracht;
 
-- ii. bij benadering de termijnen voor de indiening van inschrijvingen of verzoeken om deelname;
+   - ii. bij benadering de termijnen voor de indiening van inschrijvingen of verzoeken om deelname;
 
-- iii. een verklaring dat de belangstellende aanbieders hun belangstelling voor de opdracht aan de aanbestedende entiteit kenbaar moeten maken;
+   - iii. een verklaring dat de belangstellende aanbieders hun belangstelling voor de opdracht aan de aanbestedende entiteit kenbaar moeten maken;
 
-- iv. het adres waar documenten met betrekking tot de opdracht kunnen worden opgevraagd; en
+   - iv. het adres waar documenten met betrekking tot de opdracht kunnen worden opgevraagd; en
 
-- v. zoveel mogelijk van de informatie die, overeenkomstig artikel 19.6, lid 3, in het bericht van aanbesteding moet worden opgenomen;
+   - v. zoveel mogelijk van de informatie die, overeenkomstig artikel 19.6, lid 3, in het bericht van aanbesteding moet worden opgenomen;
 
 - b. zij, in het geval van herhalingsopdrachten, in een eerste bericht van aanbesteding aangeeft dat in volgende berichten de termijnen voor de indiening van inschrijvingen zullen worden gegeven op basis van dit lid; of
 
@@ -3783,27 +3726,27 @@ Deze termijnen en eventuele verlengingen ervan moeten voor alle belangstellende 
 
 - a. indien: op voorwaarde dat de vereisten van het aanbestedingsdossier niet wezenlijk worden gewijzigd;
 
-- i. geen inschrijvingen zijn ingediend of geen aanbieders om deelname hebben verzocht;
+   - i. geen inschrijvingen zijn ingediend of geen aanbieders om deelname hebben verzocht;
 
-- ii. geen inschrijvingen zijn ingediend die aan de essentiële vereisten van het aanbestedingsdossier voldoen;
+   - ii. geen inschrijvingen zijn ingediend die aan de essentiële vereisten van het aanbestedingsdossier voldoen;
 
-- iii. geen aanbieders aan de voorwaarden voor deelname voldoen; of
+   - iii. geen aanbieders aan de voorwaarden voor deelname voldoen; of
 
-- iv. de ingediende inschrijvingen onderling zijn afgestemd,
+   - iv. de ingediende inschrijvingen onderling zijn afgestemd,
 
 - b. indien de goederen of diensten slechts door een bepaalde aanbieder kunnen worden geleverd en er geen redelijk alternatief of substituut bestaat om een van de volgende redenen:
 
-- i. de opdracht betreft een kunstwerk;
+   - i. de opdracht betreft een kunstwerk;
 
-- ii. de bescherming van octrooien, auteursrechten of andere exclusieve rechten; of
+   - ii. de bescherming van octrooien, auteursrechten of andere exclusieve rechten; of
 
-- iii. de afwezigheid van mededinging om technische redenen;
+   - iii. de afwezigheid van mededinging om technische redenen;
 
 - c. voor aanvullende leveringen, door de oorspronkelijke aanbieder, van goederen of diensten die niet in de oorspronkelijke opdracht waren opgenomen, indien verandering van aanbieder voor de aanvullende goederen of diensten:
 
-- i. niet mogelijk is om economische of technische redenen, zoals wanneer de aanvullende goederen of diensten uitwisselbaar of interoperabel moeten zijn met bestaande uitrusting, software, diensten of installaties die in het kader van de oorspronkelijke opdracht zijn geleverd; en
+   - i. niet mogelijk is om economische of technische redenen, zoals wanneer de aanvullende goederen of diensten uitwisselbaar of interoperabel moeten zijn met bestaande uitrusting, software, diensten of installaties die in het kader van de oorspronkelijke opdracht zijn geleverd; en
 
-- ii. tot aanzienlijk ongemak of aanzienlijke kostenstijgingen zou leiden voor de aanbestedende entiteit;
+   - ii. tot aanzienlijk ongemak of aanzienlijke kostenstijgingen zou leiden voor de aanbestedende entiteit;
 
 - d. in strikt noodzakelijke gevallen, wanneer de goederen of diensten om uiterst dringende redenen, wegens gebeurtenissen die door de aanbestedende entiteit niet konden worden voorzien, niet tijdig kunnen worden verkregen door middel van openbare aanbesteding of aanbesteding met voorafgaande selectie;
 
@@ -3815,9 +3758,9 @@ Deze termijnen en eventuele verlengingen ervan moeten voor alle belangstellende 
 
 - h. indien opdrachten worden gegund aan de winnaar van een ontwerpwedstrijd, mits:
 
-- i. de wedstrijd is georganiseerd op een wijze die verenigbaar is met de beginselen van dit hoofdstuk, met name met betrekking tot de publicatie van een bericht van aanbesteding; en
+   - i. de wedstrijd is georganiseerd op een wijze die verenigbaar is met de beginselen van dit hoofdstuk, met name met betrekking tot de publicatie van een bericht van aanbesteding; en
 
-- ii. de deelnemers worden beoordeeld door een onafhankelijke jury met het oog op de gunning van een ontwerpopdracht aan de winnaar.
+   - ii. de deelnemers worden beoordeeld door een onafhankelijke jury met het oog op de gunning van een ontwerpopdracht aan de winnaar.
 
 2. Aanbestedende entiteiten stellen een schriftelijk verslag op over elke opdracht die in het kader van lid 1 wordt gegund. Dit verslag vermeldt de naam van de aanbestedende entiteit, de waarde en de aard van de aangeschafte goederen of diensten, en bevat tevens een verklaring met daarin een vermelding van de in lid 1 beschreven omstandigheden en voorwaarden die de onderhandse aanbestedingsprocedure rechtvaardigden.
 
@@ -3833,11 +3776,15 @@ Indien een aanbestedende entiteit een onder dit hoofdstuk vallende opdracht wil 
 
 ##### Artikel 19.14. Behandeling van inschrijvingen en gunning van opdrachten
 
+Behandeling van inschrijvingen
+
 1. De aanbestedende entiteit neemt bij het ontvangen, openen en behandelen van inschrijvingen procedures in acht die garanderen dat de aanbestedingsprocedure eerlijk en onpartijdig verloopt en de inschrijvingen vertrouwelijk worden behandeld.
 
 2. Indien een inschrijving door de aanbestedende entiteit pas na het verstrijken van de vastgestelde termijn wordt ontvangen, mag de betrokken aanbieder daarvan geen nadelige gevolgen ondervinden indien de vertraging uitsluitend te wijten is aan onjuiste afhandeling door de aanbestedende entiteit.
 
 3. Indien de aanbestedende entiteit een aanbieder de gelegenheid biedt om tussen de opening van de inschrijvingen en de gunning van de opdracht onbedoelde vormfouten te corrigeren, biedt de aanbestedende entiteit alle deelnemende aanbieders daartoe de gelegenheid.
+
+Gunning van opdrachten
 
 4. Om voor gunning in aanmerking te komen, moet een inschrijving schriftelijk worden ingediend, bij de opening voldoen aan de essentiële vereisten die in de berichten betreffende de aanbesteding en het aanbestedingsdossier zijn opgenomen, en afkomstig zijn van een aanbieder die aan de voorwaarden voor deelname voldoet.
 
@@ -3853,7 +3800,11 @@ Indien een aanbestedende entiteit een onder dit hoofdstuk vallende opdracht wil 
 
 ##### Artikel 19.15. Transparantie van informatie over overheidsopdrachten
 
+Aan aanbieders verstrekte informatie
+
 1. Aanbestedende entiteiten stellen de deelnemende aanbieders onverwijld in kennis van besluiten aangaande de gunning van een opdracht en doen dat op verzoek van een aanbieder schriftelijk. Onverminderd artikel 19.6, leden 2 en 3, stelt een aanbestedende entiteit een afgewezen aanbieder op diens verzoek in kennis van de redenen voor de afwijzing van zijn inschrijving en van de relatieve voordelen van de inschrijving van de gekozen aanbieder.
+
+Publicatie van informatie over de gunning
 
 2. Uiterlijk 72 dagen na de gunning van een onder dit hoofdstuk vallende opdracht publiceert de aanbestedende entiteit een bericht in de daartoe bestemde gedrukte of elektronische media als vermeld in bijlage 19-8. Indien alleen gebruik wordt gemaakt van een elektronisch medium, dient de informatie gedurende een redelijke termijn gemakkelijk toegankelijk te blijven. Het bericht bevat ten minste de volgende gegevens:
 
@@ -3869,21 +3820,25 @@ Indien een aanbestedende entiteit een onder dit hoofdstuk vallende opdracht wil 
 
 - f. de gebruikte aanbestedingsmethode, en in geval van onderhandse aanbesteding overeenkomstig artikel 19.12 een beschrijving van de omstandigheden die deze procedure rechtvaardigden.
 
+Bewaren van documentatie, verslagen en elektronische traceerbaarheid
+
 3. Een aanbestedende entiteit bewaart gedurende ten minste drie jaar vanaf de datum waarop zij een opdracht gunt:
 
 - a. de documentatie en verslagen betreffende aanbestedingsprocedures en gunningen in verband met onder dit hoofdstuk vallende opdrachten, met inbegrip van de op grond van artikel 19.12 vereiste verslagen; en
 
 - b. gegevens die waarborgen dat het verloop van de onder dit hoofdstuk vallende opdrachten elektronisch naar behoren traceerbaar is.
 
+Verzameling van en verslaglegging inzake statistieken
+
 4. Elke partij verzamelt statistische gegevens over haar onder dit hoofdstuk vallende contracten en brengt hierover verslag uit aan het Comité voor overheidsopdrachten. Elk verslag bestrijkt één jaar, wordt binnen twee jaar na afloop van de verslagperiode ingediend en bevat de volgende informatie:
 
 - a. voor aanbestedende entiteiten die onder bijlage 19-1 vallen:
 
-- i. het aantal en de totale waarde, voor alle aanbestedende entiteiten, van alle contracten waarop dit hoofdstuk betrekking heeft;
+   - i. het aantal en de totale waarde, voor alle aanbestedende entiteiten, van alle contracten waarop dit hoofdstuk betrekking heeft;
 
-- ii. het aantal en de totale waarde van alle contracten waarop dit hoofdstuk betrekking heeft die door de afzonderlijke aanbestedende entiteiten zijn gegund, uitgesplitst naar categorie goederen en diensten overeenkomstig een internationaal erkend uniform classificatiesysteem; en
+   - ii. het aantal en de totale waarde van alle contracten waarop dit hoofdstuk betrekking heeft die door de afzonderlijke aanbestedende entiteiten zijn gegund, uitgesplitst naar categorie goederen en diensten overeenkomstig een internationaal erkend uniform classificatiesysteem; en
 
-- iii. het aantal en de totale waarde van alle contracten waarop dit hoofdstuk betrekking heeft die door de afzonderlijke aanbestedende entiteiten zijn gegund in het kader van een onderhandse aanbesteding;
+   - iii. het aantal en de totale waarde van alle contracten waarop dit hoofdstuk betrekking heeft die door de afzonderlijke aanbestedende entiteiten zijn gegund in het kader van een onderhandse aanbesteding;
 
 - b. voor aanbestedende entiteiten die onder de bijlagen 19-2 en 19-3 vallen: het aantal en de totale waarde van de opdrachten waarop dit hoofdstuk betrekking heeft die door al die entiteiten zijn gegund, uitgesplitst per bijlage; en
 
@@ -3895,7 +3850,11 @@ Indien een aanbestedende entiteit een onder dit hoofdstuk vallende opdracht wil 
 
 ##### Artikel 19.16. Bekendmaking van informatie
 
+Verstrekking van informatie aan partijen
+
 1. Indien de andere partij daarom verzoekt, verstrekt een partij onverwijld alle informatie die nodig is om te bepalen of de aanbesteding eerlijk, onpartijdig en overeenkomstig dit hoofdstuk is verlopen, met inbegrip van informatie over de kenmerken en relatieve voordelen van de inschrijving van de gekozen aanbieder. Wanneer het bekendmaken van de informatie de mededinging bij latere aanbestedingen zou verstoren, wordt deze informatie door de partij die haar ontvangt pas aan een aanbieder vrijgegeven na overleg met en instemming van de partij die de informatie heeft verstrekt.
+
+Niet-bekendmaking van informatie
 
 2. Niettegenstaande de overige bepalingen van dit hoofdstuk verstrekken een partij en haar aanbestedende entiteiten aan een bepaalde aanbieder geen informatie die de eerlijke mededinging tussen aanbieders kan verstoren.
 
@@ -3953,6 +3912,8 @@ die zich voordoet in het kader van een onder dit hoofdstuk vallende opdracht waa
 
 1. Een partij kan haar bijlagen bij dit hoofdstuk wijzigen of rectificeren.
 
+Wijzigingen
+
 2. Wanneer een partij een bijlage bij dit hoofdstuk wijzigt:
 
 - a. stelt zij de andere partij schriftelijk van die wijziging in kennis; en
@@ -3974,6 +3935,8 @@ die zich voordoet in het kader van een onder dit hoofdstuk vallende opdracht waa
 - c. de wijziging betrekking heeft op een entiteit met betrekking tot welke de partij feitelijk haar zeggenschap of invloed heeft beëindigd, zoals bedoeld in lid 3, onder b),
 
 moet die andere partij binnen 45 dagen na ontvangst van de in lid 2, onder a), bedoelde kennisgeving schriftelijk bezwaar maken, zo niet wordt zij geacht, ook voor de toepassing van hoofdstuk 29 (Geschillenbeslechting), met de aanpassing of wijziging te hebben ingestemd.
+
+Rectificaties
 
 5. De volgende wijzigingen in de bijlagen van een partij worden geacht een rectificatie in te houden, mits zij geen gevolgen hebben voor het wederzijds overeengekomen toepassingsgebied waarin de onderhavige overeenkomst voorziet:
 
@@ -4005,7 +3968,7 @@ moet die andere partij binnen 45 dagen na ontvangst van de in lid 2, onder a), b
 
 ### HOOFDSTUK TWINTIG. INTELLECTUELE EIGENDOM
 
-### AFDELING A. ALGEMENE BEPALINGEN
+#### AFDELING A. ALGEMENE BEPALINGEN
 
 ##### Artikel 20.1. Doelstellingen
 
@@ -4025,9 +3988,9 @@ De doelstellingen van dit hoofdstuk zijn:
 
 ##### Artikel 20.3. Volksgezondheidsaspecten
 
-1. De partijen erkennen het belang van de Verklaring van Doha inzake de TRIPs-Overeenkomst en de volksgezondheid („Verklaring van Doha”), op 14 november 2001 aangenomen door de Ministeriële Conferentie van de WTO. De partijen waarborgen de consistentie van de uitlegging en de uitvoering van de rechten en verplichtingen in het kader van dit hoofdstuk met deze verklaring.
+1. De partijen erkennen het belang van de Verklaring van Doha inzake de TRIPs-Overeenkomst en de volksgezondheid („Verklaring van Doha”), op 14 november 2001 aangenomen door de Ministeriële Conferentie van de WTO. De partijen waarborgen de consistentie van de uitlegging en de uitvoering van de rechten en verplichtingen in het kader van dit hoofdstuk met deze verklaring.
 
-2. De partijen dragen bij aan de uitvoering van het Besluit van de Algemene Raad van de WTO van 30 augustus 2003 over punt 6 van de Verklaring van Doha alsmede van het Protocol tot wijziging van de TRIPs-Overeenkomst, gedaan te Genève op 6 december 2005, en nemen deze in acht.
+2. De partijen dragen bij aan de uitvoering van het Besluit van de Algemene Raad van de WTO van 30 augustus 2003 over punt 6 van de Verklaring van Doha alsmede van het Protocol tot wijziging van de TRIPs-Overeenkomst, gedaan te Genève op 6 december 2005, en nemen deze in acht.
 
 ##### Artikel 20.4. Uitputting
 
@@ -4037,7 +4000,7 @@ Dit hoofdstuk doet geen afbreuk aan de vrijheid van de partijen om te bepalen of
 
 Dit hoofdstuk houdt voor de partijen geen verplichting in om informatie openbaar te maken waarvan bekendmaking in strijd zou zijn met hun respectieve wetgeving of die niet openbaar mag worden gemaakt op grond van hun respectieve wetgeving betreffende toegang tot informatie en bescherming van de persoonlijke levenssfeer.
 
-### AFDELING B. NORMEN BETREFFENDE INTELLECTUELE-EIGENDOMSRECHTEN
+#### AFDELING B. NORMEN BETREFFENDE INTELLECTUELE-EIGENDOMSRECHTEN
 
 ##### Artikel 20.6. Definitie
 
@@ -4055,13 +4018,13 @@ farmaceutisch product: een product, met inbegrip van een chemisch geneesmiddel, 
 
 1. De partijen nemen de volgende internationale overeenkomsten in acht:
 
-- a. de Berner Conventie voor de bescherming van werken van letterkunde en kunst, gedaan te Parijs op 24 juli 1971 (artikelen 2 tot en met 20);
+- a. de Berner Conventie voor de bescherming van werken van letterkunde en kunst, gedaan te Parijs op 24 juli 1971 (artikelen 2 tot en met 20);
 
-- b. het Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake auteursrecht, gedaan te Genève op 20 december 1996 (artikelen 1 tot en met 14);
+- b. het Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake auteursrecht, gedaan te Genève op 20 december 1996 (artikelen 1 tot en met 14);
 
-- c. het Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake uitvoeringen en fonogrammen, gedaan te Genève op 20 december 1996 (artikelen 1 tot en met 23); en
+- c. het Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake uitvoeringen en fonogrammen, gedaan te Genève op 20 december 1996 (artikelen 1 tot en met 23); en
 
-- d. het Internationaal Verdrag inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties, gedaan te Rome op 26 oktober 1961 (artikelen 1 tot en met 22).
+- d. het Internationaal Verdrag inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties, gedaan te Rome op 26 oktober 1961 (artikelen 1 tot en met 22).
 
 2. Voor zover toegestaan in de in lid 1 bedoelde verdragen, houdt dit hoofdstuk geen beperking in van de mogelijkheden waarover elke partij beschikt om de door haar aan uitvoeringen toegekende bescherming van de intellectuele eigendom te beperken tot uitvoeringen die zijn vastgelegd op fonogrammen.
 
@@ -4081,15 +4044,15 @@ farmaceutisch product: een product, met inbegrip van een chemisch geneesmiddel, 
 
 - a. voor zover daarin is voorzien in haar wetgeving:
 
-- i. het, zulks wetende of redelijkerwijs behorende te weten, zonder toestemming onwerkzaam maken van een doeltreffende technische voorziening; en
+   - i. het, zulks wetende of redelijkerwijs behorende te weten, zonder toestemming onwerkzaam maken van een doeltreffende technische voorziening; en
 
-- ii. het aan het publiek aanbieden door marketing van een technische inrichting of een product, met inbegrip van computerprogramma's, of een dienst, als middel om een doeltreffende technische voorziening onwerkzaam te maken; en
+   - ii. het aan het publiek aanbieden door marketing van een technische inrichting of een product, met inbegrip van computerprogramma's, of een dienst, als middel om een doeltreffende technische voorziening onwerkzaam te maken; en
 
 - b. de vervaardiging, invoer of distributie van een technische inrichting of een product, met inbegrip van computerprogramma's, of de verlening van een dienst die of dat:
 
-- i. primair is ontwikkeld, geproduceerd of verleend om een doeltreffende technische voorziening onwerkzaam te maken; of
+   - i. primair is ontwikkeld, geproduceerd of verleend om een doeltreffende technische voorziening onwerkzaam te maken; of
 
-- ii. buiten het onwerkzaam maken van een doeltreffende technische voorziening een commercieel doel van slechts beperkt belang dient.
+   - ii. buiten het onwerkzaam maken van een doeltreffende technische voorziening een commercieel doel van slechts beperkt belang dient.
 
 4. In lid 3 wordt met de uitdrukking „voor zover daarin is voorzien in haar wetgeving” bedoeld dat elke partij de uitvoering van punt a, onder i) en ii), flexibel kan regelen.
 
@@ -4125,17 +4088,17 @@ wanneer deze informatie is gehecht aan een kopie van een werk, uitvoering of fon
 
 - a. bestrijken ten minste de volgende functies:
 
-- i. hosting van informatie op verzoek van een gebruiker van de hostingdiensten;
+   - i. hosting van informatie op verzoek van een gebruiker van de hostingdiensten;
 
-- ii. caching (wijze van opslag) via een automatisch proces, wanneer de dienstverlener:
+   - ii. caching (wijze van opslag) via een automatisch proces, wanneer de dienstverlener:
 
-- A. de informatie niet wijzigt om andere dan technische redenen;
+      - A. de informatie niet wijzigt om andere dan technische redenen;
 
-- B. ervoor zorgt dat de alom erkende en in de bedrijfstak gangbare aanwijzingen met betrekking tot caching van de informatie worden nageleefd; en
+      - B. ervoor zorgt dat de alom erkende en in de bedrijfstak gangbare aanwijzingen met betrekking tot caching van de informatie worden nageleefd; en
 
-- C. niet intervenieert bij het alom erkende en in de bedrijfstak gangbare rechtmatige gebruik van technologie voor het verkrijgen van gegevens over het gebruik van de informatie; en
+      - C. niet intervenieert bij het alom erkende en in de bedrijfstak gangbare rechtmatige gebruik van technologie voor het verkrijgen van gegevens over het gebruik van de informatie; en
 
-- iii. mere conduit (doorgeefluikactiviteiten), bestaande in het aanbieden van de middelen voor het doorgeven van de door een gebruiker verstrekte informatie of van de middelen om toegang tot een communicatienetwerk te krijgen; en
+   - iii. mere conduit (doorgeefluikactiviteiten), bestaande in het aanbieden van de middelen voor het doorgeven van de door een gebruiker verstrekte informatie of van de middelen om toegang tot een communicatienetwerk te krijgen; en
 
 - b. kunnen ook andere functies bestrijken, waaronder het verstrekken van een instrument voor het vinden van informatie, door het automatisch reproduceren van auteursrechtelijk beschermd materiaal en het mededelen van de reproducties.
 
@@ -4153,7 +4116,7 @@ Elke partij kan voorzien in strafrechtelijke procedures en sancties overeenkomst
 
 ##### Artikel 20.13. Internationale overeenkomsten
 
-Elke partij stelt alles in het werk wat redelijkerwijs in haar vermogen ligt om te voldoen aan de artikelen 1 tot en met 22 van het Verdrag van Singapore inzake het merkenrecht, gedaan te Singapore op 27 maart 2006, en om toe te treden tot het Protocol bij de Schikking van Madrid betreffende de internationale inschrijving van merken, gedaan te Madrid op 27 juni 1989.
+Elke partij stelt alles in het werk wat redelijkerwijs in haar vermogen ligt om te voldoen aan de artikelen 1 tot en met 22 van het Verdrag van Singapore inzake het merkenrecht, gedaan te Singapore op 27 maart 2006, en om toe te treden tot het Protocol bij de Schikking van Madrid betreffende de internationale inschrijving van merken, gedaan te Madrid op 27 juni 1989.
 
 ##### Artikel 20.14. Inschrijvingsprocedure
 
@@ -4193,13 +4156,13 @@ Voor de toepassing van deze onderafdeling:
 
 - a. het gebruik te voorkomen van een in bijlage 20-A opgenomen geografische aanduiding van de andere partij voor een product dat is ingedeeld in de in bijlage 20-A voor die geografische aanduiding vermelde productcategorie en dat:
 
-- i. niet van oorsprong is uit de in bijlage 20-A voor die geografische aanduiding vermelde plaats van oorsprong; dan wel
+   - i. niet van oorsprong is uit de in bijlage 20-A voor die geografische aanduiding vermelde plaats van oorsprong; dan wel
 
-- ii. van oorsprong is uit de in bijlage 20-A voor die geografische aanduiding vermelde plaats van oorsprong, maar niet is geproduceerd of vervaardigd in overeenstemming met de wet- en regelgeving van de andere partij die zou gelden wanneer het product zou zijn bestemd voor consumptie in de andere partij;
+   - ii. van oorsprong is uit de in bijlage 20-A voor die geografische aanduiding vermelde plaats van oorsprong, maar niet is geproduceerd of vervaardigd in overeenstemming met de wet- en regelgeving van de andere partij die zou gelden wanneer het product zou zijn bestemd voor consumptie in de andere partij;
 
 - b. het gebruik te voorkomen van middelen in de benaming of voorstelling van waren waarmee wordt aangegeven of gesuggereerd dat de waren in kwestie van oorsprong zijn uit een ander geografisch gebied dan de werkelijke plaats van oorsprong op een wijze die het publiek misleidt ten aanzien van de geografische oorsprong van de waren; en
 
-- c. elk ander gebruik te voorkomen dat een daad van oneerlijke mededinging vormt in de zin van artikel 10 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom, gedaan te Stockholm op 14 juli 1967.
+- c. elk ander gebruik te voorkomen dat een daad van oneerlijke mededinging vormt in de zin van artikel 10 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom, gedaan te Stockholm op 14 juli 1967.
 
 3. De bescherming als bedoeld in lid 2, onder a), wordt ook verleend wanneer de werkelijke oorsprong van het product is aangegeven, een vertaling van de geografische aanduiding wordt gebruikt of de geografische aanduiding vergezeld gaat van uitdrukkingen als „genre”, „type”, „stijl”, „imitatie” en dergelijke.
 
@@ -4221,11 +4184,11 @@ Voor de toepassing van deze onderafdeling:
 
 1. In afwijking van artikel 20.19, leden 2 en 3, is Canada niet verplicht te voorzien in de wettelijke middelen voor de belanghebbenden om het gebruik te voorkomen van de in deel A van bijlage 20-A opgenomen benamingen die zijn gemarkeerd met een asterisk30)Voor alle duidelijkheid: dit lid geldt eveneens voor de benaming „feta”., wanneer deze benamingen vergezeld gaan van uitdrukkingen als „genre”, „type”, „stijl”, „imitatie” en dergelijke, en worden gebruikt in combinatie met een leesbare en zichtbare aanduiding van de geografische oorsprong van het betrokken product.
 
-2. In afwijking van artikel 20.19, leden 2 en 3, belet de bescherming van de in deel A van bijlage 20-A opgenomen geografische aanduidingen die zijn gemarkeerd met een asterisk31)Voor alle duidelijkheid: dit lid geldt eveneens voor de benaming „feta”., niet dat deze aanduidingen op het grondgebied van Canada worden gebruikt door alle personen, met inbegrip van hun rechtsopvolgers en hun rechtverkrijgenden, die vóór 18 oktober 2013 commercieel gebruik van deze aanduidingen hebben gemaakt met betrekking tot producten uit de categorie „kaassoorten”.
+2. In afwijking van artikel 20.19, leden 2 en 3, belet de bescherming van de in deel A van bijlage 20-A opgenomen geografische aanduidingen die zijn gemarkeerd met een asterisk31)Voor alle duidelijkheid: dit lid geldt eveneens voor de benaming „feta”., niet dat deze aanduidingen op het grondgebied van Canada worden gebruikt door alle personen, met inbegrip van hun rechtsopvolgers en hun rechtverkrijgenden, die vóór 18 oktober 2013 commercieel gebruik van deze aanduidingen hebben gemaakt met betrekking tot producten uit de categorie „kaassoorten”.
 
-3. In afwijking van artikel 20.19, leden 2 en 3, belet de bescherming van de in deel A van bijlage 20-A opgenomen geografische aanduiding die is gemarkeerd met twee asterisken, niet dat deze aanduiding wordt gebruikt door alle personen, met inbegrip van hun rechtsopvolgers en hun rechtverkrijgenden, die gedurende een periode van ten minste vijf jaar vóór 18 oktober 2013 commercieel gebruik van deze aanduiding hebben gemaakt met betrekking tot producten uit de categorie „vers, bevroren en verwerkt vlees”. Voor alle andere personen, met inbegrip van hun rechtsopvolgers en hun rechtverkrijgenden, die gedurende een periode van minder dan vijf jaar vóór 18 oktober 2013 commercieel gebruik van deze aanduiding hebben gemaakt met betrekking tot producten uit de categorie „vers, bevroren en verwerkt vlees”, geldt een overgangsperiode van vijf jaar na de inwerkingtreding van dit artikel, gedurende welke het gebruik van bovenbedoelde aanduiding niet mag worden belet.
+3. In afwijking van artikel 20.19, leden 2 en 3, belet de bescherming van de in deel A van bijlage 20-A opgenomen geografische aanduiding die is gemarkeerd met twee asterisken, niet dat deze aanduiding wordt gebruikt door alle personen, met inbegrip van hun rechtsopvolgers en hun rechtverkrijgenden, die gedurende een periode van ten minste vijf jaar vóór 18 oktober 2013 commercieel gebruik van deze aanduiding hebben gemaakt met betrekking tot producten uit de categorie „vers, bevroren en verwerkt vlees”. Voor alle andere personen, met inbegrip van hun rechtsopvolgers en hun rechtverkrijgenden, die gedurende een periode van minder dan vijf jaar vóór 18 oktober 2013 commercieel gebruik van deze aanduiding hebben gemaakt met betrekking tot producten uit de categorie „vers, bevroren en verwerkt vlees”, geldt een overgangsperiode van vijf jaar na de inwerkingtreding van dit artikel, gedurende welke het gebruik van bovenbedoelde aanduiding niet mag worden belet.
 
-4. In afwijking van artikel 20.19, leden 2 en 3, belet de bescherming van de in deel A van bijlage 20-A opgenomen geografische aanduidingen die zijn gemarkeerd met drie asterisken, niet dat deze aanduidingen worden gebruikt door alle personen, met inbegrip van hun rechtsopvolgers en hun rechtverkrijgenden, die gedurende een periode van ten minste tien jaar vóór 18 oktober 2013 commercieel gebruik van deze aanduidingen hebben gemaakt met betrekking tot producten uit de categorie „drooggezouten vlees” respectievelijk de categorie „kaassoorten”. Voor alle andere personen, met inbegrip van hun rechtsopvolgers en hun rechtverkrijgenden, die gedurende een periode van minder dan tien jaar vóór 18 oktober 2013 commercieel gebruik van deze aanduidingen hebben gemaakt met betrekking tot producten uit de categorie „drooggezouten vlees” respectievelijk de categorie „kaassoorten”, geldt een overgangsperiode van vijf jaar na de inwerkingtreding van dit artikel, gedurende welke het gebruik van bovenbedoelde aanduidingen niet mag worden belet.
+4. In afwijking van artikel 20.19, leden 2 en 3, belet de bescherming van de in deel A van bijlage 20-A opgenomen geografische aanduidingen die zijn gemarkeerd met drie asterisken, niet dat deze aanduidingen worden gebruikt door alle personen, met inbegrip van hun rechtsopvolgers en hun rechtverkrijgenden, die gedurende een periode van ten minste tien jaar vóór 18 oktober 2013 commercieel gebruik van deze aanduidingen hebben gemaakt met betrekking tot producten uit de categorie „drooggezouten vlees” respectievelijk de categorie „kaassoorten”. Voor alle andere personen, met inbegrip van hun rechtsopvolgers en hun rechtverkrijgenden, die gedurende een periode van minder dan tien jaar vóór 18 oktober 2013 commercieel gebruik van deze aanduidingen hebben gemaakt met betrekking tot producten uit de categorie „drooggezouten vlees” respectievelijk de categorie „kaassoorten”, geldt een overgangsperiode van vijf jaar na de inwerkingtreding van dit artikel, gedurende welke het gebruik van bovenbedoelde aanduidingen niet mag worden belet.
 
 5. Wanneer vóór de in lid 6 vermelde toepassingsdatum in een partij te goeder trouw een handelsmerk is aangevraagd of ingeschreven, of wanneer vóór die datum in die partij door gebruik te goeder trouw rechten op een handelsmerk zijn verworven, vormen de voor de toepassing van deze onderafdeling in die partij genomen maatregelen geen beletsel voor de vatbaarheid voor inschrijving van het handelsmerk, voor de geldigheid van de inschrijving van het handelsmerk of voor het recht het handelsmerk te gebruiken, op grond dat het handelsmerk identiek is met of soortgelijk is aan een geografische aanduiding.
 
@@ -4243,7 +4206,7 @@ Voor de toepassing van deze onderafdeling:
 
 10. De bepalingen van deze onderafdeling doen geen afbreuk aan het recht van een persoon om voor handelsdoeleinden zijn naam of de naam van zijn voorganger in zaken te gebruiken, behalve wanneer deze naam op zodanige wijze wordt gebruikt dat het publiek daardoor wordt misleid.
 
-- a. De bepalingen van deze onderafdeling doen geen afbreuk aan het recht van een persoon om in Canada een handelsmerk te gebruiken of in te schrijven dat een van de in deel A van bijlage 20-B opgenomen benamingen omvat of daaruit bestaat; en
+11. - a. De bepalingen van deze onderafdeling doen geen afbreuk aan het recht van een persoon om in Canada een handelsmerk te gebruiken of in te schrijven dat een van de in deel A van bijlage 20-B opgenomen benamingen omvat of daaruit bestaat; en
 
 - b. punt a) geldt niet voor de in deel A van bijlage 20-B opgenomen benamingen met betrekking tot elk gebruik waardoor het publiek zou worden misleid met betrekking tot de geografische oorsprong van de waren.
 
@@ -4273,7 +4236,7 @@ De bepalingen van deze onderafdeling laten het recht om te verzoeken om erkennin
 
 ##### Artikel 20.24. Internationale overeenkomsten
 
-Elke partij stelt alles in het werk wat redelijkerwijs in haar vermogen ligt om toe te treden tot de Akte van Genève bij de Overeenkomst van „s-Gravenhage betreffende de internationale inschrijving van tekeningen of modellen van nijverheid, gedaan te Genève op 2 juli 1999.
+Elke partij stelt alles in het werk wat redelijkerwijs in haar vermogen ligt om toe te treden tot de Akte van Genève bij de Overeenkomst van „s-Gravenhage betreffende de internationale inschrijving van tekeningen of modellen van nijverheid, gedaan te Genève op 2 juli 1999.
 
 ##### Artikel 20.25. Relatie met auteursrecht
 
@@ -4283,7 +4246,7 @@ Het voorwerp van een recht inzake tekeningen en modellen is vatbaar voor bescher
 
 ##### Artikel 20.26. Internationale overeenkomsten
 
-Elke partij stelt alles in het werk wat redelijkerwijs in haar vermogen ligt om te voldoen aan de artikelen 1 tot en met 14 en artikel 22 van het Verdrag inzake octrooirecht, gedaan te Genève op 1 juni 2000.
+Elke partij stelt alles in het werk wat redelijkerwijs in haar vermogen ligt om te voldoen aan de artikelen 1 tot en met 14 en artikel 22 van het Verdrag inzake octrooirecht, gedaan te Genève op 1 juni 2000.
 
 ##### Artikel 20.27. Bescherming sui generis voor farmaceutische producten
 
@@ -4373,9 +4336,9 @@ Onder voorbehoud van dit lid wordt geen van de partijen belet op basis van onder
 
 ##### Artikel 20.31. Kwekersrechten
 
-De partijen werken samen om de bescherming van kwekersrechten in overeenstemming met de Akte van 1991 van het Internationaal Verdrag tot bescherming van kweekproducten, gedaan te Parijs op 2 december 1961, te bevorderen en te versterken.
+De partijen werken samen om de bescherming van kwekersrechten in overeenstemming met de Akte van 1991 van het Internationaal Verdrag tot bescherming van kweekproducten, gedaan te Parijs op 2 december 1961, te bevorderen en te versterken.
 
-### AFDELING C. HANDHAVING VAN INTELLECTUELE-EIGENDOMSRECHTEN
+#### AFDELING C. HANDHAVING VAN INTELLECTUELE-EIGENDOMSRECHTEN
 
 ##### Artikel 20.32. Algemene verplichtingen
 
@@ -4439,9 +4402,9 @@ Onverminderd haar wetgeving inzake verschoningsrechten, de bescherming van vertr
 
 - a. haar rechterlijke instanties in civiele procedures de bevoegdheid hebben de inbreukmaker die wist of redelijkerwijs kon weten dat hij inbreuk op intellectuele-eigendomsrechten maakte, te gelasten de houder van het recht:
 
-- i. adequate schadevergoeding te betalen ter compensatie van de schade die deze door de inbreuk heeft geleden; of
+   - i. adequate schadevergoeding te betalen ter compensatie van de schade die deze door de inbreuk heeft geleden; of
 
-- ii. de aan de inbreuk toe te schrijven winst te betalen, die kan worden geacht gelijk te zijn aan de schadevergoeding als bedoeld onder i); en
+   - ii. de aan de inbreuk toe te schrijven winst te betalen, die kan worden geacht gelijk te zijn aan de schadevergoeding als bedoeld onder i); en
 
 - b. haar rechterlijke instanties bij de vaststelling van de hoogte van de schadevergoeding wegens inbreuk op intellectuele-eigendomsrechten onder meer alle door de houder van het recht aangevoerde legitieme waardebepalingen, met inbegrip van gederfde winst, in aanmerking kunnen nemen.
 
@@ -4457,7 +4420,7 @@ Elke partij bepaalt dat haar rechterlijke instanties in voorkomend geval de bevo
 
 2. Lid 1 geldt mutatis mutandis voor houders van naburige rechten ten aanzien van hun beschermde materiaal.
 
-### AFDELING D. MAATREGELEN AAN GRENS
+#### AFDELING D. MAATREGELEN AAN GRENS
 
 ##### Artikel 20.43. Toepassingsgebied van maatregelen aan grens
 
@@ -4531,7 +4494,7 @@ Elke partij stelt procedures vast of handhaaft procedures krachtens welke haar b
 
 3. De samenwerking krachtens deze afdeling vindt plaats in overeenstemming met internationale overeenkomsten ter zake die voor beide partijen bindend zijn. Het Gemengd Comité douanesamenwerking bedoeld in artikel 6.14 (Gemengd Comité douanesamenwerking) zal de prioriteiten vaststellen voor de samenwerking tussen de bevoegde autoriteiten van de partijen krachtens deze afdeling en voorzien in de passende procedures daarvoor.
 
-### AFDELING E. SAMENWERKING
+#### AFDELING E. SAMENWERKING
 
 ##### Artikel 20.50. Samenwerking
 
@@ -4565,7 +4528,7 @@ Dit hoofdstuk is van toepassing op de ontwikkeling, de herziening en de methodol
 
 - c. transparante, efficiënte en doeltreffende regelgevingsprocedures te bevorderen ter ondersteuning van doelstellingen van overheidsbeleid en ter invulling van het mandaat van de regelgevende organen, onder meer door informatie uit te wisselen en een intensiever gebruik van optimale werkwijzen te bevorderen.
 
-5. Dit hoofdstuk treedt in de plaats van het tussen de regering van Canada en de Europese Commissie bestaande Kader voor samenwerking en transparantie op regelgevingsgebied, gedaan te Brussel op 21 december 2004, en het is van toepassing op de eerder in de context van dat Kader ondernomen activiteiten.
+5. Dit hoofdstuk treedt in de plaats van het tussen de regering van Canada en de Europese Commissie bestaande Kader voor samenwerking en transparantie op regelgevingsgebied, gedaan te Brussel op 21 december 2004, en het is van toepassing op de eerder in de context van dat Kader ondernomen activiteiten.
 
 6. De partijen kunnen op vrijwillige basis samenwerkingsactiviteiten op regelgevingsgebied ondernemen. Voor alle duidelijkheid: de partijen zijn niet verplicht om aan enige bepaalde vorm van samenwerking op regelgevingsgebied mee te doen, en kunnen samenwerking weigeren of van verdere samenwerking afzien. Weigert een partij samenwerking op regelgevingsgebied te initiëren of ziet zij van verdere samenwerking af, dan dient zij bereid te zijn de redenen voor haar besluit aan de andere partij toe te lichten.
 
@@ -4575,45 +4538,45 @@ De doelstellingen van samenwerking op regelgevingsgebied zijn:
 
 - a. bij te dragen aan de bescherming van het leven, de gezondheid of de veiligheid van de mens, het leven of de gezondheid van dieren en planten en het milieu door:
 
-- i. internationale middelen aan te trekken op gebieden zoals onderzoek, studie en risicoanalyse vóór het in de handel brengen, teneinde belangrijke regelgevingsvraagstukken aan te pakken waarover op lokaal, nationaal en internationaal niveau bezorgdheid bestaat; en
+   - i. internationale middelen aan te trekken op gebieden zoals onderzoek, studie en risicoanalyse vóór het in de handel brengen, teneinde belangrijke regelgevingsvraagstukken aan te pakken waarover op lokaal, nationaal en internationaal niveau bezorgdheid bestaat; en
 
-- ii. bij te dragen aan de door regelgevende ministeries gebruikte gegevensbank, teneinde risico's op te sporen, te beoordelen en te managen;
+   - ii. bij te dragen aan de door regelgevende ministeries gebruikte gegevensbank, teneinde risico's op te sporen, te beoordelen en te managen;
 
 - b. vertrouwen op te bouwen, wederzijds begrip van de regelgevingsaanpak te verbeteren en onderling expertise en inzichten uit te wisselen om:
 
-- i. de planning en ontwikkeling van regelgevingsvoorstellen te verbeteren;
+   - i. de planning en ontwikkeling van regelgevingsvoorstellen te verbeteren;
 
-- ii. de transparantie en voorspelbaarheid bij de ontwikkeling en vaststelling van voorschriften te bevorderen;
+   - ii. de transparantie en voorspelbaarheid bij de ontwikkeling en vaststelling van voorschriften te bevorderen;
 
-- iii. de doeltreffendheid van voorschriften te verbeteren;
+   - iii. de doeltreffendheid van voorschriften te verbeteren;
 
-- iv. alternatieve instrumenten in kaart te brengen;
+   - iv. alternatieve instrumenten in kaart te brengen;
 
-- v. de effecten van voorschriften in kaart te brengen;
+   - v. de effecten van voorschriften in kaart te brengen;
 
-- vi. onnodige verschillen in regelgeving te vermijden; en
+   - vi. onnodige verschillen in regelgeving te vermijden; en
 
-- vii. de uitvoering en naleving van regelgeving te verbeteren;
+   - vii. de uitvoering en naleving van regelgeving te verbeteren;
 
 - c. de bilaterale handel en investeringen te vergemakkelijken op een wijze die:
 
-- i. op bestaande regelingen voor samenwerking voortbouwt;
+   - i. op bestaande regelingen voor samenwerking voortbouwt;
 
-- ii. onnodige verschillen in regelgeving vermindert; en
+   - ii. onnodige verschillen in regelgeving vermindert; en
 
-- iii. nieuwe manieren van samenwerking in specifieke sectoren in kaart brengt;
+   - iii. nieuwe manieren van samenwerking in specifieke sectoren in kaart brengt;
 
 - d. bij te dragen aan versterking van het concurrentievermogen en efficiëntie van de industrie op een wijze die:
 
-- i. administratieve kosten waar mogelijk zo laag mogelijk houdt;
+   - i. administratieve kosten waar mogelijk zo laag mogelijk houdt;
 
-- ii. herhaling van voorschriften en de daaruit voortvloeiende nalevingskosten waar mogelijk tegengaat; en
+   - ii. herhaling van voorschriften en de daaruit voortvloeiende nalevingskosten waar mogelijk tegengaat; en
 
-- iii. waar mogelijk en passend met elkaar verenigbare benaderingen van regelgeving nastreeft, door:
+   - iii. waar mogelijk en passend met elkaar verenigbare benaderingen van regelgeving nastreeft, door:
 
-- A. regelgevingsvraagstukken technologisch neutraal te benaderen; en
+      - A. regelgevingsvraagstukken technologisch neutraal te benaderen; en
 
-- B. gelijkwaardigheid te erkennen of onderlinge afstemming te bevorderen.
+      - B. gelijkwaardigheid te erkennen of onderlinge afstemming te bevorderen.
 
 ##### Artikel 21.4. Samenwerking op regelgevingsgebied
 
@@ -4621,13 +4584,13 @@ De partijen streven ernaar de in artikel 21.3 genoemde doelstellingen te verweze
 
 - a. zich inzetten voor lopende bilaterale besprekingen over de regelgeving, onder meer om:
 
-- i. hervorming van regelgeving en de gevolgen daarvan voor de betrekkingen tussen de partijen te bespreken;
+   - i. hervorming van regelgeving en de gevolgen daarvan voor de betrekkingen tussen de partijen te bespreken;
 
-- ii. geleerde lessen in kaart te brengen;
+   - ii. geleerde lessen in kaart te brengen;
 
-- iii. indien passend te kijken naar alternatieve benaderingen voor regelgeving; en
+   - iii. indien passend te kijken naar alternatieve benaderingen voor regelgeving; en
 
-- iv. ervaringen met betrekking tot regelgevingsinstrumenten uit te wisselen, waaronder effect- en risicobeoordelingen alsmede nalevings- en handhavingsstrategieën met betrekking tot regelgeving;
+   - iv. ervaringen met betrekking tot regelgevingsinstrumenten uit te wisselen, waaronder effect- en risicobeoordelingen alsmede nalevings- en handhavingsstrategieën met betrekking tot regelgeving;
 
 - b. indien passend overleg met elkaar plegen en informatie uitwisselen gedurende het ontwikkelen van regelgeving. Met dit overleg en deze uitwisseling wordt zo vroeg mogelijk in dat proces begonnen;
 
@@ -4639,17 +4602,17 @@ De partijen streven ernaar de in artikel 21.3 genoemde doelstellingen te verweze
 
 - f. informatie inzake voorgenomen regelgevend optreden, maatregelen of wijzigingen waarover wordt gedacht, uitwisselen in een zo vroeg mogelijk stadium teneinde:
 
-- i. de grondslag achter de regelgevingskeuzes van een partij te begrijpen, met inbegrip van de keuze van het instrument, en de mogelijkheden voor meer afstemming tussen de partijen te onderzoeken inzake de formulering van doelstellingen van voorschriften en de vaststelling van het toepassingsgebied ervan. De partijen buigen zich tevens over het raakvlak tussen voorschriften, normen en conformiteitsbeoordeling in dit verband; en
+   - i. de grondslag achter de regelgevingskeuzes van een partij te begrijpen, met inbegrip van de keuze van het instrument, en de mogelijkheden voor meer afstemming tussen de partijen te onderzoeken inzake de formulering van doelstellingen van voorschriften en de vaststelling van het toepassingsgebied ervan. De partijen buigen zich tevens over het raakvlak tussen voorschriften, normen en conformiteitsbeoordeling in dit verband; en
 
-- ii. de methoden en aannamen te vergelijken die zijn gehanteerd voor de analyse van regelgevingsvoorstellen, in voorkomend geval met inbegrip van een analyse van de technische of economische haalbaarheid en de voordelen ten opzichte van het nagestreefde doel, met betrekking tot alle belangrijke overwogen alternatieve voorschriften of regelgevingsbenaderingen. Deze uitwisseling van informatie kan tevens nalevingsstrategieën en effectbeoordelingen omvatten, met inbegrip van een vergelijking van de mogelijke kosteneffectiviteit van de voorgestelde regelgeving met die van belangrijke overwogen alternatieve voorschriften of regelgevingsbenaderingen;
+   - ii. de methoden en aannamen te vergelijken die zijn gehanteerd voor de analyse van regelgevingsvoorstellen, in voorkomend geval met inbegrip van een analyse van de technische of economische haalbaarheid en de voordelen ten opzichte van het nagestreefde doel, met betrekking tot alle belangrijke overwogen alternatieve voorschriften of regelgevingsbenaderingen. Deze uitwisseling van informatie kan tevens nalevingsstrategieën en effectbeoordelingen omvatten, met inbegrip van een vergelijking van de mogelijke kosteneffectiviteit van de voorgestelde regelgeving met die van belangrijke overwogen alternatieve voorschriften of regelgevingsbenaderingen;
 
 - g. de mogelijkheden onderzoeken om onnodige verschillen in regelgeving tot een minimum te beperken, onder meer door:
 
-- i. een gelijktijdige of gezamenlijke risicobeoordeling en effectbeoordeling van de regelgeving uit te voeren indien dat haalbaar is en beide partijen tot voordeel strekt;
+   - i. een gelijktijdige of gezamenlijke risicobeoordeling en effectbeoordeling van de regelgeving uit te voeren indien dat haalbaar is en beide partijen tot voordeel strekt;
 
-- ii. tot een geharmoniseerde, gelijkwaardige of verenigbare oplossing te komen; of
+   - ii. tot een geharmoniseerde, gelijkwaardige of verenigbare oplossing te komen; of
 
-- iii. in specifieke gevallen wederzijdse erkenning te overwegen;
+   - iii. in specifieke gevallen wederzijdse erkenning te overwegen;
 
 - h. samenwerken bij kwesties die betrekking hebben op de ontwikkeling, de aanneming, de uitvoering en de handhaving van internationale normen, richtsnoeren en aanbevelingen;
 
@@ -4659,9 +4622,9 @@ De partijen streven ernaar de in artikel 21.3 genoemde doelstellingen te verweze
 
 - k. onderzoeken of het wenselijk en mogelijk is dezelfde of vergelijkbare uitgangspunten en methoden als die van de andere partij te gebruiken bij het analyseren van gegevens en het uitmaken van welke onderliggende problemen met regelgeving moeten worden aangepakt, teneinde:
 
-- i. verschillen bij het in kaart brengen van problemen te verminderen; en
+   - i. verschillen bij het in kaart brengen van problemen te verminderen; en
 
-- ii. vergelijkbare resultaten te bevorderen;
+   - ii. vergelijkbare resultaten te bevorderen;
 
 - l. periodiek analytische uitgangspunten en methoden vergelijken;
 
@@ -4669,17 +4632,17 @@ De partijen streven ernaar de in artikel 21.3 genoemde doelstellingen te verweze
 
 - n. agenda's voor gezamenlijk onderzoek opstellen teneinde:
 
-- i. dubbel onderzoek te verminderen;
+   - i. dubbel onderzoek te verminderen;
 
-- ii. meer gegevens te verzamelen tegen lagere kosten;
+   - ii. meer gegevens te verzamelen tegen lagere kosten;
 
-- iii. de beste gegevens te verzamelen;
+   - iii. de beste gegevens te verzamelen;
 
-- iv. waar passend een gemeenschappelijke wetenschappelijke basis vast te stellen;
+   - iv. waar passend een gemeenschappelijke wetenschappelijke basis vast te stellen;
 
-- v. de meest urgente problemen met betrekking tot de regelgeving op een meer consistente en prestatiegerichte wijze aan te pakken; en
+   - v. de meest urgente problemen met betrekking tot de regelgeving op een meer consistente en prestatiegerichte wijze aan te pakken; en
 
-- vi. onnodige verschillen in nieuwe regelgevingsvoorstellen te minimaliseren, en daarbij de bescherming van de gezondheid, veiligheid en het milieu op effectievere wijze te verbeteren;
+   - vi. onnodige verschillen in nieuwe regelgevingsvoorstellen te minimaliseren, en daarbij de bescherming van de gezondheid, veiligheid en het milieu op effectievere wijze te verbeteren;
 
 - o. evaluaties achteraf van de uitvoering van regelgeving of beleid verrichten;
 
@@ -4739,7 +4702,7 @@ Met het oog op een betere onderlinge afstemming en een grotere onderlinge vereni
 
 - f. gecoördineerde terugroepacties voor producten of andere vergelijkbare acties.
 
-4. De partijen kunnen bepalen dat zij onderling informatie uitwisselen over de veiligheid van consumentenproducten, en over preventieve, beperkende en corrigerende maatregelen die zijn genomen. Canada kan met name toegang krijgen tot bepaalde informatie uit het RAPEX-waarschuwingssysteem van de Europese Unie, dan wel de opvolger daarvan, wat consumentenproducten betreft zoals bedoeld in [Richtlijn 2001/95/EG](32001L0095) van het Europees Parlement en de Raad van 3 december 2001 inzake algemene productveiligheid. De Europese Unie kan vroegtijdige waarschuwingen over beperkende maatregelen en het terugroepen van producten ontvangen uit het Canadese systeem voor het melden van incidenten met consumentenproducten, beter bekend als Radar, of de opvolger daarvan, met betrekking tot consumentenproducten zoals omschreven in de „Canada Consumer Product Safety Act”, S.C. 2010, c. 21, en cosmetica zoals omschreven in de „Food and Drugs Act”, R.S.C. 1985, c. F-27. Deze onderlinge uitwisseling van informatie geschiedt op basis van een regeling waarin de in lid 5 bedoelde maatregelen worden uiteengezet.
+4. De partijen kunnen bepalen dat zij onderling informatie uitwisselen over de veiligheid van consumentenproducten, en over preventieve, beperkende en corrigerende maatregelen die zijn genomen. Canada kan met name toegang krijgen tot bepaalde informatie uit het RAPEX-waarschuwingssysteem van de Europese Unie, dan wel de opvolger daarvan, wat consumentenproducten betreft zoals bedoeld in Richtlijn 2001/95/EG van het Europees Parlement en de Raad van 3 december 2001 inzake algemene productveiligheid. De Europese Unie kan vroegtijdige waarschuwingen over beperkende maatregelen en het terugroepen van producten ontvangen uit het Canadese systeem voor het melden van incidenten met consumentenproducten, beter bekend als Radar, of de opvolger daarvan, met betrekking tot consumentenproducten zoals omschreven in de „Canada Consumer Product Safety Act”, S.C. 2010, c. 21, en cosmetica zoals omschreven in de „Food and Drugs Act”, R.S.C. 1985, c. F-27. Deze onderlinge uitwisseling van informatie geschiedt op basis van een regeling waarin de in lid 5 bedoelde maatregelen worden uiteengezet.
 
 5. Voordat de partijen voor het eerst informatie uitwisselen als bedoeld in lid 4, zien zij erop toe dat het Comité voor de handel in goederen zijn goedkeuring hecht aan de maatregelen tot uitvoering van deze uitwisselingen. De partijen zien erop toe dat deze maatregelen nader bepalen welke soort informatie wordt uitgewisseld en wat de modaliteiten zijn voor de uitwisseling en de toepassing van voorschriften inzake vertrouwelijkheid en bescherming van persoonsgegevens.
 
@@ -5093,7 +5056,7 @@ De partijen erkennen het recht van elke partij haar milieuprioriteiten te stelle
 
 - b. uitwisseling van informatie, en waar passend samenwerking met betrekking tot initiatieven ter bevordering van duurzaam bosbeheer, met inbegrip van initiatieven ter bestrijding van illegale houtkap en de daarmee samenhangende handel;
 
-- c. bevordering van de doeltreffende toepassing van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten („Convention on International Trade in Endangered Species of Wild Fauna and Flora”), gedaan te Washington op 3 maart 1973, met betrekking tot houtsoorten die bedreigd worden geacht; en
+- c. bevordering van de doeltreffende toepassing van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten („Convention on International Trade in Endangered Species of Wild Fauna and Flora”), gedaan te Washington op 3 maart 1973, met betrekking tot houtsoorten die bedreigd worden geacht; en
 
 - d. samenwerking, waar passend, in internationale fora die zich bezighouden met de instandhouding en het duurzame beheer van bossen.
 
@@ -5235,7 +5198,7 @@ De partijen erkennen het recht van elke partij haar milieuprioriteiten te stelle
 
 ##### Artikel 25.2. Dialoog inzake biotechnologievraagstukken in verband met markttoegang
 
-1. De partijen komen overeen dat samenwerking en uitwisseling van informatie over vraagstukken in verband met biotechnologische producten van wederzijds belang zijn. Deze samenwerking en uitwisseling van informatie vindt plaats in het kader van de bilaterale dialoog inzake agrarische biotechnologievraagstukken in verband met markttoegang van gemeenschappelijk belang, die werd ingesteld bij de op 15 juli 2009 onderling overeengekomen oplossing tussen Canada en de Europese Unie naar aanleiding van het WTO-geschil „European Communities – Measures Affecting the Approval and Marketing of Biotech Products” – (Europese Gemeenschappen – Maatregelen die van invloed zijn op de goedkeuring en het verhandelen van biotechnologische producten) WT/DS292. De bilaterale dialoog bestrijkt alle relevante onderwerpen die van wederzijds belang zijn voor de partijen, waaronder:
+1. De partijen komen overeen dat samenwerking en uitwisseling van informatie over vraagstukken in verband met biotechnologische producten van wederzijds belang zijn. Deze samenwerking en uitwisseling van informatie vindt plaats in het kader van de bilaterale dialoog inzake agrarische biotechnologievraagstukken in verband met markttoegang van gemeenschappelijk belang, die werd ingesteld bij de op 15 juli 2009 onderling overeengekomen oplossing tussen Canada en de Europese Unie naar aanleiding van het WTO-geschil „European Communities – Measures Affecting the Approval and Marketing of Biotech Products” – (Europese Gemeenschappen – Maatregelen die van invloed zijn op de goedkeuring en het verhandelen van biotechnologische producten) WT/DS292. De bilaterale dialoog bestrijkt alle relevante onderwerpen die van wederzijds belang zijn voor de partijen, waaronder:
 
 - a. goedkeuring van biotechnologische producten op het grondgebied van de partijen en, in voorkomend geval, toekomstige aanvragen voor de goedkeuring van producten met een commercieel belang voor beide zijden;
 
@@ -5301,7 +5264,7 @@ De partijen erkennen het recht van elke partij haar milieuprioriteiten te stelle
 
 2. Voortbouwend op deze gedeelde visie komen de partijen overeen hun samenwerking op het gebied van wetenschap, technologie, onderzoek en innovatie te intensiveren.
 
-3. De partijen streven ernaar samenwerkingsactiviteiten op wederkerige basis aan te moedigen, verder te ontwikkelen en te vergemakkelijken ter ondersteuning of in aanvulling op de Overeenkomst inzake wetenschappelijke en technologische samenwerking tussen de Europese Gemeenschap en Canada, gedaan te Halifax op 17 juni 1995. De partijen komen overeen deze activiteiten te verrichten op basis van de volgende beginselen:
+3. De partijen streven ernaar samenwerkingsactiviteiten op wederkerige basis aan te moedigen, verder te ontwikkelen en te vergemakkelijken ter ondersteuning of in aanvulling op de Overeenkomst inzake wetenschappelijke en technologische samenwerking tussen de Europese Gemeenschap en Canada, gedaan te Halifax op 17 juni 1995. De partijen komen overeen deze activiteiten te verrichten op basis van de volgende beginselen:
 
 - a. de activiteiten komen beide partijen ten goede;
 
@@ -5365,7 +5328,7 @@ De partijen erkennen het recht van elke partij haar milieuprioriteiten te stelle
 
 - b. het Comité voor diensten en investeringen, dat aangelegenheden behandelt met betrekking tot grensoverschrijdende handel in diensten, investeringen, tijdelijke toelating, elektronische handel en intellectuele-eigendomsrechten die verband houden met diensten. Op verzoek van een partij of naar aanleiding van een verwijzing van het desbetreffende gespecialiseerde comité dan wel bij de voorbereiding van een bespreking in het Gemengd Comité voor de CETA kan het Comité voor diensten en investeringen tevens aangelegenheden behandelen die zich voordoen op het gebied van financiële diensten of overheidsopdrachten, indien dit het oplossen vergemakkelijkt van een aangelegenheid die door het desbetreffende gespecialiseerde comité niet anderszins kan worden opgelost. Een Gemengd Comité voor de wederzijdse erkenning van beroepskwalificaties wordt ingesteld onder auspiciën van het Comité voor diensten en investeringen, waaraan het verslag uitbrengt;
 
-- c. het Gemengd Comité douanesamenwerking („Joint Customs Cooperation Committee” of „JCCC”), dat is ingesteld bij de Overeenkomst tussen de Europese Gemeenschap en Canada betreffende samenwerking en wederzijdse bijstand in douanezaken van 1998, gedaan te Ottawa op 4 december 1997, dat in het kader van deze overeenkomst aangelegenheden behandelt met betrekking tot oorsprongsregels, oorsprongsprocedures, douane en handelsbevordering, grensmaatregelen en tijdelijke schorsing van preferentiële tariefbehandeling;
+- c. het Gemengd Comité douanesamenwerking („Joint Customs Cooperation Committee” of „JCCC”), dat is ingesteld bij de Overeenkomst tussen de Europese Gemeenschap en Canada betreffende samenwerking en wederzijdse bijstand in douanezaken van 1998, gedaan te Ottawa op 4 december 1997, dat in het kader van deze overeenkomst aangelegenheden behandelt met betrekking tot oorsprongsregels, oorsprongsprocedures, douane en handelsbevordering, grensmaatregelen en tijdelijke schorsing van preferentiële tariefbehandeling;
 
 - d. het Gemengd Comité van beheer voor sanitaire en fytosanitaire maatregelen, dat aangelegenheden behandelt met betrekking tot sanitaire en fytosanitaire maatregelen;
 
@@ -5501,13 +5464,13 @@ mededingingswetgeving:
 
 - a. voor Canada, de Competition Act (mededingingswet), R.S.C. 1985, c. C-34; en
 
-- b. voor de Europese Unie, de artikelen 101, 102 en 106 van het Verdrag betreffende de werking van de Europese Unie van 13 december 2007, [Verordening (EG) nr. 139/2004](32004R0139) van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen en de uitvoeringsverordeningen en wijzigingen daarvan; en onder
+- b. voor de Europese Unie, de artikelen 101, 102 en 106 van het Verdrag betreffende de werking van de Europese Unie van 13 december 2007, Verordening (EG) nr. 139/2004 van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen en de uitvoeringsverordeningen en wijzigingen daarvan; en onder
 
 informatie die beschermd is op grond van haar mededingingswetgeving:
 
 - a. voor Canada, informatie die valt onder het toepassingsgebied van artikel 29 van de Competition Act, R.S.C. 1985, c. C-34; en
 
-- b. voor de Europese Unie, informatie die valt onder het toepassingsgebied van artikel 28 van [Verordening (EG) nr. 1/2003](32003R0001) van de Raad van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag, of van artikel 17 van [Verordening nr. 139/2004](32004R0139) van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen, of enige daarvoor in de plaats tredende bepalingen.
+- b. voor de Europese Unie, informatie die valt onder het toepassingsgebied van artikel 28 van Verordening (EG) nr. 1/2003 van de Raad van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag, of van artikel 17 van Verordening nr. 139/2004 van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen, of enige daarvoor in de plaats tredende bepalingen.
 
 ##### Artikel 28.3. Algemene uitzonderingen
 
@@ -5521,11 +5484,11 @@ informatie die beschermd is op grond van haar mededingingswetgeving:
 
 - c. ter verzekering van de naleving van wet- of regelgeving die niet onverenigbaar is met de bepalingen van deze overeenkomst, met inbegrip van die welke betrekking hebben op:
 
-- i. het voorkómen van misleidende of frauduleuze praktijken of op middelen om de gevolgen van de niet-nakoming van contracten te compenseren;
+   - i. het voorkómen van misleidende of frauduleuze praktijken of op middelen om de gevolgen van de niet-nakoming van contracten te compenseren;
 
-- ii. het beschermen van de persoonlijke levenssfeer van personen met betrekking tot de verwerking en verspreiding van persoonsgegevens en het beschermen van de vertrouwelijkheid van individuele dossiers en rekeningen; of
+   - ii. het beschermen van de persoonlijke levenssfeer van personen met betrekking tot de verwerking en verspreiding van persoonsgegevens en het beschermen van de vertrouwelijkheid van individuele dossiers en rekeningen; of
 
-- iii. de veiligheid.
+   - iii. de veiligheid.
 
 ##### Artikel 28.4. Tijdelijke vrijwaringsmaatregelen ten aanzien van kapitaalverkeer en betalingen
 
@@ -5541,7 +5504,7 @@ informatie die beschermd is op grond van haar mededingingswetgeving:
 
 - a. behandelen een partij niet minder gunstig dan een derde land in vergelijkbare situaties;
 
-- b. zijn in overeenstemming met de artikelen van de Overeenkomst betreffende het Internationale Monetaire Fonds, gedaan te Bretton Woods op 22 juli 1944, zoals van toepassing;
+- b. zijn in overeenstemming met de artikelen van de Overeenkomst betreffende het Internationale Monetaire Fonds, gedaan te Bretton Woods op 22 juli 1944, zoals van toepassing;
 
 - c. brengen geen onnodige schade toe aan de commerciële, economische en financiële belangen van een partij;
 
@@ -5571,11 +5534,11 @@ Niets in deze overeenkomst wordt zodanig uitgelegd dat:
 
 - b. een partij wordt belet maatregelen te nemen die zij ter bescherming van haar wezenlijke veiligheidsbelangen noodzakelijk acht en die:
 
-- i. verband houden met de productie van of de handel in wapens, munitie en oorlogstuig dan wel met dergelijke handel en transacties in andere goederen en materialen, diensten en technologie, en economische activiteiten die direct of indirect de bevoorrading van een militaire of andere met de veiligheid verband houdende inrichting ten doel hebben;37)De uitdrukking „handel in wapens, munitie en oorlogstuig” in dit artikel is gelijkwaardig aan de uitdrukking „handel in wapens, munitie en oorlogsmaterieel”.
+   - i. verband houden met de productie van of de handel in wapens, munitie en oorlogstuig dan wel met dergelijke handel en transacties in andere goederen en materialen, diensten en technologie, en economische activiteiten die direct of indirect de bevoorrading van een militaire of andere met de veiligheid verband houdende inrichting ten doel hebben;37)De uitdrukking „handel in wapens, munitie en oorlogstuig” in dit artikel is gelijkwaardig aan de uitdrukking „handel in wapens, munitie en oorlogsmaterieel”.
 
-- ii. in tijden van oorlog of ernstige internationale spanningen worden genomen; of
+   - ii. in tijden van oorlog of ernstige internationale spanningen worden genomen; of
 
-- iii. betrekking hebben op splijt- en fusiestoffen of op de grondstoffen waaruit deze kunnen worden vervaardigd; of
+   - iii. betrekking hebben op splijt- en fusiestoffen of op de grondstoffen waaruit deze kunnen worden vervaardigd; of
 
 - c. een partij wordt belet maatregelen te nemen tot uitvoering van haar internationale verplichtingen met het oog op de handhaving van de internationale vrede en veiligheid.
 
@@ -5605,13 +5568,13 @@ Niets in deze overeenkomst wordt zodanig uitgelegd dat:
 
 6. De artikelen 8.7 (Meestbegunstigingsbehandeling), 9.5 (Meestbegunstigingsbehandeling) en 13.4 (Meestbegunstigingsbehandeling) zijn niet van toepassing op door een partij krachtens een belastingverdrag toegekende belastingvoordelen.
 
-- a. Wanneer een investeerder een verzoek om overleg indient op grond van artikel 8.19 (Overleg) en stelt dat een belastingmaatregel indruist tegen een verplichting uit hoofde van de afdelingen C (Niet-discriminerende behandeling) of D (Investeringsbescherming) van hoofdstuk acht (Investeringen), kan de verweerder de zaak verwijzen voor overleg en gezamenlijke vaststelling door de partijen om te bepalen of:
+7. - a. Wanneer een investeerder een verzoek om overleg indient op grond van artikel 8.19 (Overleg) en stelt dat een belastingmaatregel indruist tegen een verplichting uit hoofde van de afdelingen C (Niet-discriminerende behandeling) of D (Investeringsbescherming) van hoofdstuk acht (Investeringen), kan de verweerder de zaak verwijzen voor overleg en gezamenlijke vaststelling door de partijen om te bepalen of:
 
-- i. de maatregel een belastingmaatregel is;
+   - i. de maatregel een belastingmaatregel is;
 
-- ii. de maatregel, indien wordt vastgesteld dat het om een belastingmaatregel gaat, indruist tegen een verplichting uit hoofde van de afdelingen C (Niet-discriminerende behandeling of D (Investeringsbescherming) van hoofdstuk acht (Investeringen); of
+   - ii. de maatregel, indien wordt vastgesteld dat het om een belastingmaatregel gaat, indruist tegen een verplichting uit hoofde van de afdelingen C (Niet-discriminerende behandeling of D (Investeringsbescherming) van hoofdstuk acht (Investeringen); of
 
-- iii. er sprake is van strijdigheid tussen de verplichtingen van deze overeenkomst die zouden zijn geschonden en die van een belastingverdrag.
+   - iii. er sprake is van strijdigheid tussen de verplichtingen van deze overeenkomst die zouden zijn geschonden en die van een belastingverdrag.
 
 - b. Een verwijzing op grond het vermelde onder a), kan niet later geschieden dan op de datum die het gerecht vaststelt als datum waarvoor de verweerder zijn contramemorie moet indienen. Indien de verweerder een dergelijke verwijzing doet, worden de in afdeling F (Beslechting van investeringsgeschillen tussen investeerders en staten) van hoofdstuk acht (Investeringen) bedoelde termijnen of procedures opgeschort. Indien de partijen binnen honderdtachtig dagen na de verwijzing geen overeenstemming bereiken om naar de aangelegenheid te kijken, of er niet in slagen een gezamenlijke vaststelling te doen, is de schorsing van de termijnen of van de procedure niet langer van toepassing en kan de investeerder zijn vordering doorzetten.
 
@@ -5645,7 +5608,7 @@ Indien een bepaling omvattende een recht of verplichting in deze overeenkomst ee
 
 ### HOOFDSTUK NEGENENTWINTIG. GESCHILLENBESLECHTING
 
-### AFDELING A. INLEIDENDE BEPALINGEN
+#### AFDELING A. INLEIDENDE BEPALINGEN
 
 ##### Artikel 29.1. Samenwerking
 
@@ -5671,7 +5634,7 @@ Dit hoofdstuk is van toepassing op elk geschil over de interpretatie of toepassi
 
 4. Geen enkele bepaling van deze overeenkomst belet een partij haar verplichtingen op te schorten indien zulks door het Orgaan voor geschillenbeslechting van de WTO is toegestaan. Een partij mag niet de WTO-Overeenkomst inroepen om de andere partij te beletten verplichtingen uit hoofde van dit hoofdstuk op te schorten.
 
-### AFDELING B. OVERLEG EN BEMIDDELING
+#### AFDELING B. OVERLEG EN BEMIDDELING
 
 ##### Artikel 29.4. Overleg
 
@@ -5701,7 +5664,7 @@ Dit hoofdstuk is van toepassing op elk geschil over de interpretatie of toepassi
 
 De partijen kunnen een beroep doen op bemiddeling met betrekking tot een maatregel als deze nadelige gevolgen voor de handel en investeringen tussen de partijen heeft. Bemiddelingsprocedures zijn opgenomen in bijlage 29-C.
 
-### AFDELING C. PROCEDURES VOOR GESCHILLENBESLECHTING EN NALEVING
+#### AFDELING C. PROCEDURES VOOR GESCHILLENBESLECHTING EN NALEVING
 
 #### ONDERAFDELING A. PROCEDURES VOOR GESCHILLENBESLECHTING
 
@@ -5827,7 +5790,7 @@ dan is de verzoekende partij gerechtigd tot opschorting van verplichtingen of to
 
 2. Indien de partijen binnen zestig dagen na de datum van ontvangst van de kennisgeving geen overeenstemming bereiken over de vraag of de maatregel waarvan is kennisgegeven, verenigbaar is met de in artikel 29.2 bedoelde bepalingen, verzoekt de verzoekende partij het arbitragepanel schriftelijk om hierover uitspraak te doen. Van dit verzoek wordt tegelijkertijd aan de andere partij en aan het Gemengd Comité voor de CETA kennisgegeven. De partijen en het Gemengd Comité voor de CETA worden binnen negentig dagen na de indiening van het verzoek in kennis gesteld van het eindverslag van het panel. Indien het arbitragepanel oordeelt dat een maatregel die is getroffen om de uitspraak na te leven in overeenstemming is met de in artikel 29.2 bedoelde bepalingen, wordt de opschorting van verplichtingen beëindigd.
 
-### AFDELING D. ALGEMENE BEPALINGEN
+#### AFDELING D. ALGEMENE BEPALINGEN
 
 ##### Artikel 29.16. Reglement van orde
 
@@ -5863,7 +5826,7 @@ Gedurende een periode van 10 jaar na de inwerkingtreding van deze overeenkomst w
 
 ##### Artikel 30.4. Lopende rekening
 
-De partijen verlenen overeenkomstig artikel VIII van de Statuten van het Internationaal Monetair Fonds, opgesteld te Bretton Woods op 22 juli 1944, machtiging voor alle betalingen en overmakingen in vrij converteerbare valuta op de lopende rekening van de betalingsbalans tussen de partijen.
+De partijen verlenen overeenkomstig artikel VIII van de Statuten van het Internationaal Monetair Fonds, opgesteld te Bretton Woods op 22 juli 1944, machtiging voor alle betalingen en overmakingen in vrij converteerbare valuta op de lopende rekening van de betalingsbalans tussen de partijen.
 
 ##### Artikel 30.5. Kapitaalverkeer
 
@@ -5881,7 +5844,7 @@ De partijen treden met elkaar in overleg om het onderlinge kapitaalverkeer te ve
 
 2. Deze overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op de datum waarop de partijen schriftelijke kennisgevingen met elkaar hebben uitgewisseld waarin zij verklaren dat aan hun respectieve interne vereisten is voldaan en dat hun respectieve interne procedures zijn voltooid, dan wel op een andere door de partijen overeengekomen datum.
 
-- a. De partijen kunnen deze overeenkomst voorlopig toepassen vanaf de eerste dag van de maand volgende op de datum waarop de partijen elkaar ervan in kennis hebben gesteld dat aan hun respectieve interne voorschriften is voldaan en dat hun respectieve interne procedures zijn voltooid zoals noodzakelijk voor de voorlopige toepassing van deze overeenkomst, dan wel vanaf een andere door de partijen overeengekomen datum.
+3. - a. De partijen kunnen deze overeenkomst voorlopig toepassen vanaf de eerste dag van de maand volgende op de datum waarop de partijen elkaar ervan in kennis hebben gesteld dat aan hun respectieve interne voorschriften is voldaan en dat hun respectieve interne procedures zijn voltooid zoals noodzakelijk voor de voorlopige toepassing van deze overeenkomst, dan wel vanaf een andere door de partijen overeengekomen datum.
 
 - b. Indien een partij voornemens is een bepaling van deze overeenkomst niet voorlopig toe te passen, stelt zij de andere partij in kennis van de bepalingen die zij niet voorlopig zal toepassen en biedt zij aan onverwijld in overleg te treden. Binnen dertig dagen na de kennisgeving kan de andere partij hetzij daartegen bezwaar maken, in welk geval deze overeenkomst niet voorlopig wordt toegepast, hetzij haar eigen kennisgeving verstrekken ten aanzien van gelijkwaardige bepalingen van deze overeenkomst die zij in voorkomend geval niet voornemens is voorlopig toe te passen. Indien de andere partij binnen dertig dagen na de tweede kennisgeving bezwaar maakt, wordt deze overeenkomst niet voorlopig toegepast. De bepalingen waarvoor geen kennisgeving door een partij plaatsvindt, worden door die partij voorlopig toegepast vanaf de eerste dag van de maand volgend op de latere kennisgeving, of op een andere door de partijen overeengekomen datum, mits zij kennisgevingen hebben uitgewisseld zoals bedoeld onder a).
 
@@ -5901,13 +5864,13 @@ De partijen treden met elkaar in overleg om het onderlinge kapitaalverkeer te ve
 
 - b. niet meer dan drie jaar zijn verstreken sinds de datum van beëindiging van de overeenkomst.
 
-3. De Overeenkomst tussen de Europese Economische Gemeenschap en Canada inzake de handel in alcoholhoudende dranken, gedaan te Brussel op 28 februari 1989, zoals gewijzigd („1989 Alcoholic Beverages Agreement”) en de Overeenkomst tussen de Europese Gemeenschap en Canada inzake de handel in wijnen en gedistilleerde dranken, gedaan te Niagara-on-the-Lake op 16 september 2003 (de „2003 Wines and Spirit Drinks Agreement”) worden hierbij opgenomen in en maken deel uit van deze overeenkomst, zoals gewijzigd bij bijlage 30-B.
+3. De Overeenkomst tussen de Europese Economische Gemeenschap en Canada inzake de handel in alcoholhoudende dranken, gedaan te Brussel op 28 februari 1989, zoals gewijzigd („1989 Alcoholic Beverages Agreement”) en de Overeenkomst tussen de Europese Gemeenschap en Canada inzake de handel in wijnen en gedistilleerde dranken, gedaan te Niagara-on-the-Lake op 16 september 2003 (de „2003 Wines and Spirit Drinks Agreement”) worden hierbij opgenomen in en maken deel uit van deze overeenkomst, zoals gewijzigd bij bijlage 30-B.
 
 4. De bepalingen van de 1989 Alcoholic Beverages Agreement of van de 2003 Wines and Spirit Drinks Agreement, zoals gewijzigd en opgenomen in deze overeenkomst, hebben voorrang voor zover er strijdigheid is tussen de bepalingen van die overeenkomsten en enige andere bepaling van deze overeenkomst.
 
-5. De Overeenkomst inzake wederzijdse erkenning tussen de Europese Gemeenschap en Canada (de „Overeenkomst inzake wederzijdse erkenning”), gedaan te Londen op 14 mei 1998, wordt beëindigd met ingang van de datum van inwerkingtreding van deze overeenkomst. In geval van voorlopige toepassing van hoofdstuk vier (Technische handelsbelemmeringen) in overeenstemming met artikel 30.7, lid 3, onder a), worden de Overeenkomst inzake wederzijdse erkenning, alsmede de daaruit voortvloeiende rechten en verplichtingen, opgeschort vanaf de datum van voorlopige toepassing. Indien de voorlopige toepassing wordt beëindigd, komt de opschorting van de Overeenkomst inzake wederzijdse erkenning te vervallen.
+5. De Overeenkomst inzake wederzijdse erkenning tussen de Europese Gemeenschap en Canada (de „Overeenkomst inzake wederzijdse erkenning”), gedaan te Londen op 14 mei 1998, wordt beëindigd met ingang van de datum van inwerkingtreding van deze overeenkomst. In geval van voorlopige toepassing van hoofdstuk vier (Technische handelsbelemmeringen) in overeenstemming met artikel 30.7, lid 3, onder a), worden de Overeenkomst inzake wederzijdse erkenning, alsmede de daaruit voortvloeiende rechten en verplichtingen, opgeschort vanaf de datum van voorlopige toepassing. Indien de voorlopige toepassing wordt beëindigd, komt de opschorting van de Overeenkomst inzake wederzijdse erkenning te vervallen.
 
-6. De partijen erkennen de resultaten die zijn bereikt in het kader van de Overeenkomst tussen de Europese Gemeenschap en de regering van Canada inzake sanitaire maatregelen ter bescherming van de volksgezondheid en de diergezondheid bij de handel in levende dieren en dierlijke producten, gedaan te Ottawa op 17 december 1998 (de „Veterinaire Overeenkomst”) en bevestigen hun voornemen om deze werkzaamheden voort te zetten in het kader van deze overeenkomst. De Veterinaire Overeenkomst komt te vervallen met ingang van de datum van inwerkingtreding van deze overeenkomst. In het geval van voorlopige toepassing van hoofdstuk vijf (Sanitaire en fytosanitaire maatregelen) in overeenstemming met artikel 30.7, lid 3, onder a), worden de Veterinaire Overeenkomst alsmede de daaruit voortvloeiende rechten en verplichtingen opgeschort vanaf de datum van voorlopige toepassing. Indien de voorlopige toepassing wordt beëindigd, wordt de opschorting van de Veterinaire Overeenkomst beëindigd.
+6. De partijen erkennen de resultaten die zijn bereikt in het kader van de Overeenkomst tussen de Europese Gemeenschap en de regering van Canada inzake sanitaire maatregelen ter bescherming van de volksgezondheid en de diergezondheid bij de handel in levende dieren en dierlijke producten, gedaan te Ottawa op 17 december 1998 (de „Veterinaire Overeenkomst”) en bevestigen hun voornemen om deze werkzaamheden voort te zetten in het kader van deze overeenkomst. De Veterinaire Overeenkomst komt te vervallen met ingang van de datum van inwerkingtreding van deze overeenkomst. In het geval van voorlopige toepassing van hoofdstuk vijf (Sanitaire en fytosanitaire maatregelen) in overeenstemming met artikel 30.7, lid 3, onder a), worden de Veterinaire Overeenkomst alsmede de daaruit voortvloeiende rechten en verplichtingen opgeschort vanaf de datum van voorlopige toepassing. Indien de voorlopige toepassing wordt beëindigd, wordt de opschorting van de Veterinaire Overeenkomst beëindigd.
 
 7. De definitie van „inwerkingtreding van deze overeenkomst” in artikel 30.7, lid 3, onder d), is niet van toepassing op dit artikel.
 

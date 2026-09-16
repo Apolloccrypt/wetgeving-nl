@@ -1,237 +1,200 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat inzake samenwerking met betrekking tot verkeersovertredingen"
 identifier: "BWBV0006976"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-05-01"
-last_updated: "2023-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006976"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005620713"
-version_id: "10006175872"
-internal_id: "C10009987901"
-label_id: "10005602904"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006976/2023-05-01/0"
-intitule_bron: "Trb.2022-100"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-10-28"
-intitule_in_force: "2023-06-01"
-intitule_status: "goed"
-original_publication: "Trb.2022-100"
-original_published_date: "2022-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2022-100"
-entry_into_force_date: "2023-05-01"
-jci_1_3: "jci1.3:c:BWBV0006976&z=2023-05-01&g=2023-05-01"
-jci_1_0: "1.0:c:BWBV0006976&g=2023-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-05-01"
+publicatiedatum: 2023-05-01
+laatste_update: 2023-05-01
+status: geldig
+toestand: 2023-05-01
+bron: "https://wetten.overheid.nl/BWBV0006976"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat inzake samenwerking met betrekking tot verkeersovertredingen
 
-Het Koninkrijk der Nederlanden
+*The Kingdom of the Netherlands and Swiss Confederation, hereinafter collectively referred to as “the Parties”, Considering that improving road safety is a priority for the Parties in order to reduce the number of deaths, injuries and the level of damage, Considering that the successful prosecution of road traffic offences committed using vehicles registered in the country of the other Party is an important element in achieving this goal, Considering that the processing of data provided for in terms of this Agreement is appropriate and necessary in order to achieve the legitimate goals in relation to road safety, namely a high level of protection for all road users, by facilitating the penalising of road traffic offences, whereby the principle of proportionality must always be respected when pursuing these goals, Considering that the protection of natural persons in relation to the processing of personal data is a fundamental right, Desiring that the implementation and application of this Agreement shall be in conformity with the applicable data protection rules of the Parties so as to ensure a high level of protection of personal data while facilitating the transfer of personal data, Have reached the following agreement:*
 
-en
+##### Article 1. Objective and scope of application
 
-de Zwitserse Bondsstaat,
+The purpose of this Agreement is to guarantee a high level of protection for all road users by ensuring the mutual prosecution of road traffic offences that are committed on the sovereign territory of each of the two Parties with vehicles that are registered on the sovereign territory of the other Party and by assisting each other in the enforcement of penalty notices regarding these offences.
 
-hierna tezamen „de partijen” genoemd,
+##### Article 2. Definitions
 
-Overwegende dat verbetering van de verkeersveiligheid voor de partijen een prioriteit is, om zo het aantal doden, gewonden en de omvang van de schade te verminderen,
+1. For the purposes of this Agreement:
 
-Overwegende dat de succesvolle vervolging van verkeersovertredingen die zijn begaan met in het land van de andere partij ingeschreven voertuigen, van groot belang is voor het bereiken van deze doelstelling,
+- a) “person” shall mean: a natural or legal person;
 
-Overwegende dat de verwerking van gegevens in het kader van dit Verdrag passend en noodzakelijk is om de legitieme doelstellingen in verband met verkeersveiligheid te verwezenlijken, namelijk een hoog niveau van bescherming van alle weggebruikers, door het bestraffen van verkeersovertredingen te vergemakkelijken, waarbij het evenredigheidsbeginsel bij het nastreven van deze doelstellingen altijd in acht dient te worden genomen,
+- b) “penalty notice” shall mean: a written notice that is issued by a judge or competent authority in which a financial penalty for a road traffic offence is imposed on a person, which may include the costs of proceedings and statutory increases;
 
-Overwegende dat de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens een grondrecht is,
+- c) “requesting Party” shall mean: the Party that issues a request pursuant to this Agreement to the other Party;
 
-Geleid door de wens dat de uitvoering en toepassing van dit Verdrag in overeenstemming zijn met de toepasselijke gegevensbeschermingsregels van de partijen, zodat een hoog niveau van bescherming van persoonsgegevens wordt gewaarborgd en tegelijkertijd de overdracht van persoonsgegevens wordt vergemakkelijkt,
+- d) “requested Party” shall mean: the Party that receives a request issued by the other Party pursuant to this Agreement;
 
-Hebben het volgende afgesproken:
+- e) road traffic offences are:
 
-##### Artikel 1. Doel en reikwijdte
+   - – for the Swiss Confederation: offences under the Federal Road Traffic Act of 19 December 1958 and its implementing provisions.
 
-Het doel van dit Verdrag is een hoog niveau van bescherming van alle weggebruikers te waarborgen door ervoor te zorgen dat verkeersovertredingen die op het soevereine grondgebied van elk van beide partijen worden begaan met voertuigen die op het soevereine grondgebied van de andere partij zijn ingeschreven, wederzijds worden vervolgd en door elkaar bijstand te verlenen bij de handhaving van bekeuringen betreffende deze overtredingen.
+   - – for the Kingdom of the Netherlands, for the European part of the Netherlands: the conduct referred to in Article 2, paragraph 1 of the Law on Administrative Enforcement of Traffic Offences (Wet administratiefrechtelijke handhaving verkeersvoorschriften).
 
-##### Artikel 2. Begripsomschrijvingen
+##### Article 3. Competent authorities
 
-1. Voor de toepassing van dit Verdrag wordt verstaan onder:
+The competent authorities for implementing this Agreement within the limits of their respective powers are:
 
-- a. „persoon”: elke natuurlijke persoon of rechtspersoon;
+- – for the Swiss Confederation:
 
-- b. „bekeuring”: een door een rechter of een bevoegde autoriteit uitgevaardigde schriftelijke kennisgeving waarin aan een persoon wegens een verkeersovertreding een geldboete wordt opgelegd, die de proceskosten en de wettelijke verhogingen kan omvatten;
+   - – the federal police and customs authority;
 
-- c. „verzoekende partij”: de partij die uit hoofde van dit Verdrag een verzoek indient bij de andere partij;
+   - – the cantonal and communal police forces;
 
-- d. „aangezochte partij”: de partij die een verzoek ontvangt van de andere partij uit hoofde van dit Verdrag;
+   - – the federal and cantonal judicial authorities;
 
-- e. „verkeersovertredingen”:
+   - – the Federal Roads Office acts as the national contact point with regard to the automated transfer of data in accordance with [Article 4](https://wetten.overheid.nl/BWBV0006976) and [Annex letter B](https://wetten.overheid.nl/BWBV0006976).
 
-- –. voor de Zwitserse Bondsstaat: overtredingen van de federale verkeerswet van 19 december 1958 en de uitvoeringsbepalingen daarvan.
+- – for the Kingdom of the Netherlands, for the European part of the Netherlands:
 
-- –. voor het Koninkrijk der Nederlanden, voor het Europese deel van Nederland: de in het eerste lid van artikel 2 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften bedoelde gedragingen.
+   - – the public prosecutor;
 
-##### Artikel 3. Bevoegde autoriteiten
+   - – the police;
 
-De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen van hun respectieve bevoegdheden zijn:
+   - – the officials referred to in Article 3, paragraph 1 of the Law on Administrative Enforcement of Traffic Offences;
 
-- –. voor de Zwitserse Bondsstaat:
+   - – the Minister of Justice and Security, represented by the Central Judicial Collection Agency, also exclusively assigned as the competent authority for requests according to [Article 6](https://wetten.overheid.nl/BWBV0006976).
 
-- –. de federale politie en douanedienst;
+##### Article 4. Transfer of data on vehicles and their holders
 
-- –. de kantonnale en gemeentelijke politiediensten;
+1. Data relating to vehicles and their holders, as set out in [Annex A](https://wetten.overheid.nl/BWBV0006976), entered in the national vehicle registers may be transferred at the request of a Party, to the extent that this is required for the prosecution of road traffic offences.
 
-- –. de federale en kantonnale gerechtelijke autoriteiten;
+2. Data shall be transferred by means of an automated procedure. If possible, existing software interfaces and applications shall be used. The data shall be transferred via the central vehicle register offices, which shall serve as national contact points. The specifications for the transfer of the data may only be modified with the consent of both Parties.
 
-- –. het Bundesamt für Strassen (ASTRA) treedt op als nationaal contactpunt met betrekking tot de geautomatiseerde doorgifte van gegevens overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=4&z=2023-05-01&g=2023-05-01) en [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2023-05-01&g=2023-05-01).
+3. A request to the national contact point of the other Party must contain the information set out in the [Annex letter A](https://wetten.overheid.nl/BWBV0006976). The requesting Party may not use this information other than for the purpose of the prosecution of the respective road traffic offence.
 
-- –. voor het Koninkrijk der Nederlanden, voor het Europese deel van Nederland:
+4. The national contact points shall have the information set out in the [Annex letter A](https://wetten.overheid.nl/BWBV0006976) ready in order to process requests.
 
-- –. het openbaar ministerie;
+##### Article 5. Issuing and transmission of penalty notices
 
-- –. de politie;
+1. Penalty notices may be issued and transmitted directly to the person concerned in accordance with the relevant national laws and regulations.
 
-- –. de ambtenaren bedoeld in het eerste lid van artikel 3 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften;
+2. In order to allow recipients the opportunity to state their position, the official documents must contain the following information in particular:
 
-- –. de minister van Justitie en Veiligheid, vertegenwoordigd door het Centraal Justitieel Incassobureau, ook exclusief aangewezen als de bevoegde autoriteit voor verzoeken overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=6&z=2023-05-01&g=2023-05-01).
+- a) the nature, location, date and – if possible – time of the offence and the means by which it was detected;
 
-##### Artikel 4. Overdracht van gegevens over voertuigen en hun houders
+- b) the registration number and – if possible – type, make and model of the motor vehicle used to commit the offence, or, in the absence of this information, any other information that can assist in identifying the vehicle;
 
-1. Gegevens over voertuigen en hun houders, zoals vermeld in [Annex A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01), die in de nationale voertuigregisters zijn opgenomen, mogen op verzoek van een partij worden overgedragen, voor zover dit nodig is voor de vervolging van verkeersovertredingen.
+- c) the penalty imposed or that may be imposed, together with details of the payment deadline and the payment terms;
 
-2. De gegevens worden overgedragen door middel van een geautomatiseerde procedure. Indien mogelijk wordt gebruikgemaakt van bestaande software-interfaces en -toepassingen. De gegevens worden overgedragen via de centrale voertuigregistratiebureaus, die als nationale contactpunten fungeren. De specificaties van de overdracht kunnen slechts met instemming van beide partijen worden gewijzigd.
+- d) instructions on legal remedies and deadlines for appealing the penalty notice.
 
-3. Een verzoek aan het nationale contactpunt van de andere partij moet de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01) vermelde gegevens bevatten. De verzoekende partij mag deze gegevens alleen gebruiken voor de vervolging van de betreffende verkeersovertreding.
+##### Article 6. Execution of penalty notices
 
-4. De nationale contactpunten moeten de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01), vermelde informatie bij de hand hebben om verzoeken te kunnen verwerken.
+1. The Parties can request the enforcement of penalty notices. The following criteria must be met:
 
-##### Artikel 5. Geven van bekeuringen
+- a) the penalty notice relates to facts which constitute an offence under the laws and regulations of the requested Party, including but not limited to: speeding; non-use of a seat belt; failing to stop at a red traffic light; drink-driving; driving under the influence of drugs; failing to wear a safety helmet; use of a forbidden lane; illegally using a mobile phone or any other communication devices while driving; parking violation; tailgating.
 
-1. Bekeuringen kunnen rechtstreeks aan de betrokkene worden gegeven overeenkomstig de toepasselijke nationale wet- en regelgeving.
+- b) the individual financial penalty, excluding the costs of administrative proceedings, including statutory increases, is equal to or more than 70 euros or 80 Swiss francs;
 
-2. Om de ontvangers in staat te stellen hun standpunt kenbaar te maken, moeten de officiële documenten met name de volgende informatie bevatten:
+- c) the penalty notice is enforceable according to the applicable laws and regulations of the requesting Party and the right of execution has not expired; and
 
-- a. de aard, locatie, datum en – indien mogelijk – tijd van de overtreding en de wijze waarop deze werd vastgesteld;
+- d) the natural person involved is a resident of the requested Party or the legal person involved has its registered seat in the requested Party.
 
-- b. het kentekennummer en – indien mogelijk – type, merk en model van het motorvoertuig waarmee de overtreding is begaan, of, bij ontbreken van deze informatie, alle andere informatie die kan helpen bij de identificatie van het voertuig;
+2. The penalty notice for which the request is made, together with the completed standard form as provided in [Annex letter C](https://wetten.overheid.nl/BWBV0006976), and all subsequent communications, are directly transmitted to the competent authorities of the requested Party in English.
 
-- c. de bekeuring die is of kan worden opgelegd, tezamen met bijzonderheden over de betalingstermijn en de betalingsvoorwaarden;
+3. The requesting Party does not enforce or continue to enforce the penalty notice until the requested Party has refused the request or reported that the enforcement did not succeed.
 
-- d. instructies over rechtsmiddelen en termijnen voor het aantekenen van beroep tegen de bekeuring.
+##### Article 7. Grounds for refusal, scope and termination of enforcement
 
-##### Artikel 6. Uitvoering van bekeuringen
+1. A request according to [Article 6, paragraph 1](https://wetten.overheid.nl/BWBV0006976) is refused in case of:
 
-1. De partijen kunnen om de handhaving van de bekeuringen verzoeken. Aan de volgende criteria moet worden voldaan:
+- a) decisions providing for imprisonment as the principal punishment;
 
-- a. de bekeuring heeft betrekking op feiten die volgens de wet- en regelgeving van de aangezochte partij een overtreding vormen, met inbegrip van maar niet beperkt tot: te hoge snelheid; het niet dragen van de veiligheidsgordel; door rood rijden; rijden onder invloed van alcohol; rijden onder invloed van drugs; het niet dragen van een veiligheidshelm; het gebruiken van een verboden rijstrook; het ongeoorloofd gebruiken van een mobiele telefoon of andere communicatieapparatuur tijdens het rijden; parkeerovertreding; bumperkleven.
+- b) road traffic offences that coincide with offences not only related to road traffic, unless the road traffic offences are prosecuted separately or exclusively.
 
-- b. de individuele financiële bekeuring, exclusief proceskosten en inclusief de wettelijke verhogingen, is gelijk aan of hoger dan 70 euro of 80 Zwitserse frank;
+2. A request for assistance on the enforcement of a penalty notice can be refused if it is established that:
 
-- c. de bekeuring is uitvoerbaar volgens de toepasselijke wet- en regelgeving van de verzoekende partij en het recht van uitvoering niet is vervallen; en
+- a) the penalty notice relates to facts which would not constitute an offence under the laws and regulations of the requested Party;
 
-- d. de betrokken natuurlijke persoon is een ingezetene van de aangezochte partij of de betrokken rechtspersoon heeft zijn statutaire zetel in de aangezochte partij.
+- b) the execution of the request is contrary to the principle of “ne bis in idem”;
 
-2. De bekeuring waarvoor het verzoek wordt ingediend, wordt tezamen met het ingevulde standaardformulier als bedoeld in de [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=C&z=2023-05-01&g=2023-05-01), en alle daaropvolgende mededelingen, rechtstreeks in het Engels aan de bevoegde autoriteiten van de aangezochte partij toegezonden.
+- c) there is immunity under the law of the requested Party, which makes it impossible to execute the penalty notice;
 
-3. De verzoekende partij handhaaft de bekeuring niet of blijft deze niet handhaven totdat de aangezochte partij het verzoek heeft afgewezen of heeft meegedeeld dat de handhaving niet is geslaagd.
+- d) the penalty notice is no longer enforceable under the law of the requested Party due to lapse of time;
 
-##### Artikel 7. Weigeringsgronden, reikwijdte en beëindiging van de uitvoering
+- e) the penalty notice is not final;
 
-1. Een verzoek overeenkomstig het eerste lid van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=6&z=2023-05-01&g=2023-05-01) wordt geweigerd in geval van:
+- f) the penalty notice has not reached the person concerned or has not reached the person involved in time, in accordance with the laws and regulations of the requesting Party;
 
-- a. beslissingen waarbij celstraf als hoofdstraf wordt opgelegd;
+- g) the penalty notice or at least its essential content is not translated into the language(s) of the Party in whose sovereign territory the recipient resides;
 
-- b. verkeersovertredingen die samenvallen met overtredingen die niet alleen verband houden met het wegverkeer, tenzij de verkeersovertredingen afzonderlijk of uitsluitend worden vervolgd.
+- h) the request is incomplete and cannot be completed by the competent authorities of the requesting Party.
 
-2. Een verzoek om bijstand bij de uitvoering van een bekeuring kan worden geweigerd indien wordt vastgesteld dat:
+3. If a request is rejected, the requesting Party shall be so notified, stating the reasons for the rejection.
 
-- a. de bekeuring betrekking heeft op feiten die volgens de wet- en regelgeving van de aangezochte partij niet strafbaar zijn;
+4. If, after a penalty notice has been sent to the requested Party, a sum of money has been received by the requesting Party to pay the fine, the requested Party shall be informed without delay.
 
-- b. de uitvoering van het verzoek zou indruisen tegen het beginsel van ne bis in idem;
+5. Portions of the fine that are already paid may no longer be enforced.
 
-- c. er naar het recht van de aangezochte partij sprake is van immuniteit, waardoor uitvoering van de bekeuring onmogelijk is;
+##### Article 8. Immediate enforcement and conversion
 
-- d. de bekeuring naar het recht van de aangezochte partij niet meer uitvoerbaar is wegens het verstrijken van de termijn;
+1. Penalty notices shall be enforced directly by the competent authorities of the requested Party and the amount of the fine shall be converted into its currency. The conversion shall be based on the official rate of exchange at the time the penalty notice was issued.
 
-- e. de bekeuring niet onherroepelijk is;
+2. The enforcement of a penalty notice is governed by the laws and regulations applicable in the requested Party. The authorities of the requested Party alone shall be competent to decide on the procedures for enforcement and to determine all the measures relating thereto, including the grounds for termination of enforcement.
 
-- f. de bekeuring de betrokkene niet of niet tijdig heeft bereikt, overeenkomstig de wet- of regelgeving van de verzoekende partij;
+3. If the person from whom the fine is collected demonstrates that payments have already been made to settle the fine, the requested Party shall promptly notify and consult the requesting Party about this.
 
-- g. de bekeuring of althans de essentiële inhoud ervan niet is vertaald in de taal of talen van de partij op wier soevereine grondgebied de ontvanger verblijft;
+4. As soon as the enforcement of the penalty notice has been completed, the requested Party shall immediately notify the requesting Party thereof.
 
-- h. het verzoek onvolledig is en kan niet worden aangevuld door de bevoegde autoriteiten van de verzoekende partij.
+##### Article 9. Proceeds of enforcement and costs
 
-3. Indien een verzoek wordt afgewezen, wordt de verzoekende partij daarvan in kennis gesteld met vermelding van de redenen voor de afwijzing.
+The requesting Party shall not be charged for the costs of measures pursuant to this Agreement; the proceeds of enforcement and the costs stipulated in a decision shall go to the requested Party.
 
-4. Indien, nadat een bekeuring naar de aangezochte partij is verstuurd, de verzoekende partij een geldsom heeft ontvangen om de bekeuring te betalen, wordt de aangezochte partij daarvan onverwijld in kennis gesteld.
+##### Article 10. Arrangement on implementation
 
-5. Delen van de bekeuring die reeds zijn betaald, kunnen niet meer worden geïnd.
+The competent authorities of the Parties are authorised to regulate the cooperation pursuant to this Agreement at administrative and technical levels in a bilateral arrangement. The bilateral arrangement may provide that data fields in [Annexes A](https://wetten.overheid.nl/BWBV0006976), [B](https://wetten.overheid.nl/BWBV0006976) and [C](https://wetten.overheid.nl/BWBV0006976) are amended if this is necessary for a proper implementation of this Agreement.
 
-##### Artikel 8. Onmiddellijke uitvoering en omrekening
+##### Article 11. Compatibility clause
 
-1. Bekeuringen worden rechtstreeks uitgevoerd door de bevoegde autoriteiten van de aangezochte partij en het bedrag van de bekeuring wordt omgerekend in haar munteenheid. De omrekening geschiedt op basis van de officiële wisselkoers ten tijde van de uitgifte van de bekeuring.
+This Agreement shall be implemented in compliance with Dutch and Swiss laws and regulations, their obligations under international law, and the obligations to which the European part of the Netherlands is subject as a member of the European Union.
 
-2. Voor de uitvoering van een bekeuring geldt de wet- en regelgeving die van toepassing is in de aangezochte partij. Alleen de autoriteiten van de aangezochte partij zijn bevoegd om te beslissen over de procedures voor de tenuitvoerlegging en om alle daarop betrekking hebbende maatregelen vast te stellen, met inbegrip van de gronden tot beëindiging van de tenuitvoerlegging.
+##### Article 12. Financial invariance
 
-3. Indien de persoon van wie de bekeuring wordt geïnd, aantoont dat er reeds betalingen zijn verricht om deze te vereffenen, stelt de aangezochte partij de verzoekende partij daarvan onverwijld in kennis en pleegt zij daarover overleg.
+1. The activities provided for in this Agreement shall be carried out by each of the Parties within the limits of their financial resources, without thereby imposing any additional burden on the regular budgets of the Netherlands and Switzerland.
 
-4. Zodra de uitvoering van de bekeuring is voltooid, stelt de aangezochte partij de verzoekende partij daarvan onverwijld in kennis.
+2. The competent authorities concerned shall implement this Agreement with the human, instrumental and financial resources available to them under the applicable laws and regulations.
 
-##### Artikel 9. Opbrengst van de uitvoering en kosten
+##### Article 13. Dispute resolution
 
-De kosten van maatregelen uit hoofde van dit Verdrag komen niet ten laste van de verzoekende partij; de opbrengsten van de uitvoering en de in een beslissing bepaalde kosten komen ten goede aan de aangezochte partij.
+1. The Parties shall endeavour to resolve disputes or other difficulties concerning the interpretation or application of this Agreement by mutual accord.
 
-##### Artikel 10. Regeling inzake de uitvoering
+2. Unresolved disputes or difficulties shall be settled through diplomatic channels.
 
-De bevoegde autoriteiten van de partijen zijn gemachtigd de samenwerking in het kader van dit Verdrag op administratief en technisch niveau te regelen in een bilaterale regeling. In de bilaterale regeling kan worden bepaald dat de gegevensvelden in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2023-05-01&g=2023-05-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=C&z=2023-05-01&g=2023-05-01) worden gewijzigd indien dit noodzakelijk is voor een goede uitvoering van dit Verdrag.
+##### Article 14. Territorial application
 
-##### Artikel 11. Verenigbaarheidsbepaling
+With regard to the Kingdom of the Netherlands, this Agreement shall only apply to the European part of the Netherlands.
 
-Dit Verdrag wordt uitgevoerd met inachtneming van de Nederlandse en de Zwitserse wet- en regelgeving, hun verplichtingen krachtens internationaal recht en de verplichtingen waaraan het Europese deel van Nederland als lid van de Europese Unie is onderworpen.
+##### Article 15. Provisional application
 
-##### Artikel 12. Geen financiële gevolgen
+The Parties shall provisionally apply [Article 4](https://wetten.overheid.nl/BWBV0006976) in conjunction with [Annex A](https://wetten.overheid.nl/BWBV0006976) and [Article 3](https://wetten.overheid.nl/BWBV0006976) in conjunction with [Annex B](https://wetten.overheid.nl/BWBV0006976) for the transfer of data on vehicles and their holders from the date of the signature of this Agreement.
 
-1. De in dit Verdrag vastgestelde activiteiten worden door elk van de partijen binnen de grenzen van hun financiële middelen uitgevoerd, zonder dat daardoor een extra last op de gewone begrotingen van Nederland en Zwitserland wordt gelegd.
+##### Article 16. Entry into force and Termination
 
-2. De betrokken bevoegde autoriteiten leggen dit Verdrag ten uitvoer met de personele, instrumentele en financiële middelen waarover zij krachtens de toepasselijke wet- en regelgeving beschikken.
+1. This Agreement shall enter into force on the first day of the second month following the date of receipt of the final notification in which the Parties have informed each other through diplomatic channels that the internal requirements for the entry into force of this Agreement have been complied with.
 
-##### Artikel 13. Geschillenbeslechting
+2. This Agreement shall remain in force until terminated in accordance with paragraph 4 of this Article.
 
-1. De partijen trachten geschillen of andere problemen in verband met de interpretatie of de toepassing van dit Verdrag in onderling overleg op te lossen.
+3. This Agreement may be amended by mutual written agreement of the Parties. Any amendment shall enter into force in accordance with paragraph 1 of this Article, with the exception of an amendment of one of the Annexes, which amendment shall enter into force on a date to be agreed upon by the Parties.
 
-2. Geschillen of problemen waarvoor geen oplossing wordt gevonden, worden langs diplomatieke weg geregeld.
+4. This Agreement may be terminated at any time by either Party by giving six (6) months’ written notice through diplomatic channels. However, any proceedings commenced before the notice of termination shall continue to be governed by the provisions of this Agreement until fully concluded.
 
-##### Artikel 14. Territoriale toepassing
-
-Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag uitsluitend van toepassing op het Europese deel van Nederland.
-
-##### Artikel 15. Voorlopige toepassing
-
-De partijen zullen [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=4&z=2023-05-01&g=2023-05-01) in combinatie met [Annex A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=3&z=2023-05-01&g=2023-05-01) in combinatie met [Annex B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2023-05-01&g=2023-05-01) voorlopig toepassen voor de overdracht van gegevens over voertuigen en hun houders vanaf de datum van ondertekening van dit Verdrag.
-
-##### Artikel 16. Inwerkingtreding en beëindiging
-
-1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgende op de datum van ontvangst van de laatste kennisgeving waarbij de partijen elkaar langs diplomatieke weg ervan in kennis hebben gesteld dat aan de interne vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
-
-2. Dit Verdrag blijft van kracht totdat het wordt beëindigd in overeenstemming met het vierde lid van dit artikel.
-
-3. Dit Verdrag kan met wederzijdse schriftelijke instemming van de partijen worden gewijzigd. Elke wijziging treedt in werking overeenkomstig het eerste lid van dit artikel, met uitzondering van een wijziging van een van de bijlagen, welke wijziging in werking treedt op een door de partijen overeen te komen datum.
-
-4. Dit Verdrag kan te allen tijde door elke partij worden opgezegd door middel van een schriftelijke kennisgeving langs diplomatieke weg met inachtneming van een opzeggingstermijn van zes (6) maanden. Op procedures die vóór de kennisgeving van de beëindiging zijn begonnen, blijven evenwel de bepalingen van dit Verdrag van toepassing totdat zij volledig zijn afgerond.
-
-5. Bij de inwerkingtreding vervangt het Verdrag de [Notawisseling, gedaan te Den Haag, van 4 december 1995 en 12 februari 1996, houdende een verdrag tussen het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat inzake artikelen 7 en 15 van het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBV0001211), gedaan te Straatsburg op 20 april 1959.
+5. Upon its entry into force, the Agreement shall replace the [Exchange of Notes, done at The Hague, dated 4 December 1995 and 12 February 1996, constituting an Agreement between the Kingdom of the Netherlands and the Swiss Confederation concerning Articles 7 and 15 of the European Convention on Mutual Legal Assistance in Criminal Matters](https://wetten.overheid.nl/jci1.3:c:BWBV0001211), done at Strasbourg on 20 April 1959.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorised thereto, have signed this Agreement.
 
 DONE at The Hague, on 26 October 2022, in duplicate, in the English, Dutch and German languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 E.W. BEZEM
 
-**For the Swiss Confederation,**
+*For the Swiss Confederation,*
 
 H. WALKER-NEDERKOORN

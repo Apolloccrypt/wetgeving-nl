@@ -1,112 +1,19 @@
 ---
 title: "Samenwerkingsovereenkomst tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds, betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS)"
 identifier: "BWBV0006469"
-country: "nl"
-rank: "verdrag"
-publication_date: "2015-03-01"
-last_updated: "2015-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006469"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005276143"
-version_id: "10005670312"
-internal_id: "C10008782841"
-label_id: "10005258954"
-dtd_version: "2.0"
-original_entry_into_force: "2015-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006469/2015-03-01/0"
-intitule_bron: "Trb.2007-11"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2007-03-19"
-intitule_in_force: "2015-04-02"
-intitule_status: "goed"
-original_publication: "Trb.2007-11"
-original_published_date: "2007-03-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-11"
-entry_into_force_date: "2015-03-01"
-jci_1_3: "jci1.3:c:BWBV0006469&z=2015-03-01&g=2015-03-01"
-jci_1_0: "1.0:c:BWBV0006469&g=2015-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-03-01"
+publicatiedatum: 2015-03-01
+laatste_update: 2015-03-01
+status: geldig
+toestand: 2015-03-01
+bron: "https://wetten.overheid.nl/BWBV0006469"
+opgehaald: 2026-09-16
 ---
+
 # Samenwerkingsovereenkomst tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds, betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS)
 
-De Europese Gemeenschap, hierna „de Gemeenschap” te noemen,
-
-en
-
-Het Koninkrijk België,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-Ierland,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-De Republiek Hongarije,
-
-Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „de lidstaten” te noemen,
-
-enerzijds,
-
-en
-
-Het Koninkrijk Marokko, hierna „Marokko” te noemen,
-
-anderzijds,
-
-hierna „de partijen” te noemen,
-
-Gezien de gemeenschappelijke belangen bij de ontwikkeling van een mondiaal satellietnavigatiesysteem (GNSS) voor civiel gebruik,
-
-Erkennende het belang van Galileo als bijdrage aan de navigatie- en informatie-infrastructuur in de Europese Gemeenschap en Marokko,
-
-Gezien de toenemende ontwikkeling van GNSS-toepassingen in Marokko, de Gemeenschap en andere gebieden in de wereld,
-
-In de wens de samenwerking tussen Marokko en de Gemeenschap te intensiveren, hierbij rekening houdend met de op 1 maart 2000 in werking getreden [Europees-mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko](https://wetten.overheid.nl/jci1.3:c:BWBV0001337), anderzijds1)PB L 70 van 18.3.2000, blz. 3. (hierna „de Associatieovereenkomst van maart 2000” te noemen),
-
-Hebben overeenstemming bereikt omtrent hetgeen volgt:
+*De Europese Gemeenschap, hierna „de Gemeenschap” te noemen, en Het Koninkrijk België, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, Ierland, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, De Republiek Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „de lidstaten” te noemen, enerzijds, en Het Koninkrijk Marokko, hierna „Marokko” te noemen, anderzijds, hierna „de partijen” te noemen, Gezien de gemeenschappelijke belangen bij de ontwikkeling van een mondiaal satellietnavigatiesysteem (GNSS) voor civiel gebruik, Erkennende het belang van Galileo als bijdrage aan de navigatie- en informatie-infrastructuur in de Europese Gemeenschap en Marokko, Gezien de toenemende ontwikkeling van GNSS-toepassingen in Marokko, de Gemeenschap en andere gebieden in de wereld, In de wens de samenwerking tussen Marokko en de Gemeenschap te intensiveren, hierbij rekening houdend met de op 1 maart 2000 in werking getreden Europees-mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds1)PB L 70 van 18.3.2000, blz. 3. (hierna „de Associatieovereenkomst van maart 2000” te noemen), Hebben overeenstemming bereikt omtrent hetgeen volgt:*
 
 ##### Artikel 1. Doel van de overeenkomst
 

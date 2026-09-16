@@ -1,46 +1,19 @@
 ---
 title: "Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende het Centre for Artificial Intelligence and Robotics in '-s Gravenhage van het United Nations Interregional Crime and Justice Research Institute"
 identifier: "BWBV0006698"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-09-07"
-last_updated: "2017-09-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006698"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005414773"
-version_id: "10005857082"
-internal_id: "C10009281611"
-label_id: "10005397754"
-dtd_version: "2.0"
-original_entry_into_force: "2017-09-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006698/2017-09-07/0"
-intitule_bron: "Trb.2017-161"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-09-13"
-intitule_in_force: "2017-09-13"
-intitule_status: "goed"
-original_publication: "Trb.2017-161"
-original_published_date: "2017-09-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2017-161"
-entry_into_force_date: "2017-09-07"
-jci_1_3: "jci1.3:c:BWBV0006698&z=2017-09-07&g=2017-09-07"
-jci_1_0: "1.0:c:BWBV0006698&g=2017-09-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-09-07"
+publicatiedatum: 2017-09-07
+laatste_update: 2017-09-07
+status: geldig
+toestand: 2017-09-07
+bron: "https://wetten.overheid.nl/BWBV0006698"
+opgehaald: 2026-09-16
 ---
+
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende het Centre for Artificial Intelligence and Robotics in '-s Gravenhage van het United Nations Interregional Crime and Justice Research Institute
 
-Whereas UNICRI was established as a part of the United Nations by the Economic and Social Council (ECOSOC) and is presently ruled by the Statute adopted by ECOSOC with Resolution No. 1989/56 of 24 May 1989;
-
-Whereas the United Nations Interregional Crime and Justice Research Institute (UNICRI) wishes to establish a Centre for Artificial Intelligence and Robotics in The Hague, the Kingdom of the Netherlands to facilitate the implementation of its mandate;
-
-Whereas the Kingdom of the Netherlands wishes to facilitate the work of UNICRI in this regard;
-
-Desiring to lay down conditions concerning the privileges, immunities, facilities, and services of and related to the UNICRI Centre for Artificial Intelligence and Robotics in the territory of the Kingdom of the Netherlands as are necessary for the fulfillment of the purposes of the Centre;
-
-The Kingdom of the Netherlands and the United Nations have agreed as follows:
+*Whereas UNICRI was established as a part of the United Nations by the Economic and Social Council (ECOSOC) and is presently ruled by the Statute adopted by ECOSOC with Resolution No. 1989/56 of 24 May 1989; Whereas the United Nations Interregional Crime and Justice Research Institute (UNICRI) wishes to establish a Centre for Artificial Intelligence and Robotics in The Hague, the Kingdom of the Netherlands to facilitate the implementation of its mandate; Whereas the Kingdom of the Netherlands wishes to facilitate the work of UNICRI in this regard; Desiring to lay down conditions concerning the privileges, immunities, facilities, and services of and related to the UNICRI Centre for Artificial Intelligence and Robotics in the territory of the Kingdom of the Netherlands as are necessary for the fulfillment of the purposes of the Centre; The Kingdom of the Netherlands and the United Nations have agreed as follows:*
 
 ## PART 1. GENERAL PROVISIONS
 
@@ -48,47 +21,47 @@ The Kingdom of the Netherlands and the United Nations have agreed as follows:
 
 For the purpose of this Agreement:
 
-- a). “Agreement” means this Host State Agreement between the Kingdom of the Netherlands and the United Nations;
+- a) “Agreement” means this Host State Agreement between the Kingdom of the Netherlands and the United Nations;
 
-- b). “host State” means the Kingdom of the Netherlands;
+- b) “host State” means the Kingdom of the Netherlands;
 
-- c). “UNICRI” means the United Nations Interregional Crime and Justice Research Institute;
+- c) “UNICRI” means the United Nations Interregional Crime and Justice Research Institute;
 
-- d). “Centre” means the UNICRI Centre for Artificial Intelligence and Robotics located in The Hague;
+- d) “Centre” means the UNICRI Centre for Artificial Intelligence and Robotics located in The Hague;
 
-- e). “Parties” means the United Nations and the host State;
+- e) “Parties” means the United Nations and the host State;
 
-- f). “General Convention” means the [Convention on the Privileges and Immunities of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) adopted by the General Assembly of the United Nations on 13 February 1946, to which the Kingdom of the Netherlands acceded on 19 April 1948;
+- f) “General Convention” means the [Convention on the Privileges and Immunities of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) adopted by the General Assembly of the United Nations on 13 February 1946, to which the Kingdom of the Netherlands acceded on 19 April 1948;
 
-- g). “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961, to which the Kingdom of the Netherlands acceded on 7 September 1984;
+- g) “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961, to which the Kingdom of the Netherlands acceded on 7 September 1984;
 
-- h). The “Head of the Centre” means the person appointed by the Secretary-General to head the Centre;
+- h) The “Head of the Centre” means the person appointed by the Secretary-General to head the Centre;
 
-- i). “officials of the Centre” means the Head of the Centre and staff who are assigned by the Secretary-General to serve as part of the Centre;
+- i) “officials of the Centre” means the Head of the Centre and staff who are assigned by the Secretary-General to serve as part of the Centre;
 
-- j). “experts on mission” means persons, other than officials, who, on a temporary basis, perform missions for the Centre;
+- j) “experts on mission” means persons, other than officials, who, on a temporary basis, perform missions for the Centre;
 
-- k). “interns” means students and recent graduates (degree obtained within the last twelve (12) months) who have been accepted by UNICRI into its internship programme for the purpose of performing certain tasks for the Centre without receiving a salary from UNICRI. An intern shall in no case fall under the definition of an official of the Centre;
+- k) “interns” means students and recent graduates (degree obtained within the last twelve (12) months) who have been accepted by UNICRI into its internship programme for the purpose of performing certain tasks for the Centre without receiving a salary from UNICRI. An intern shall in no case fall under the definition of an official of the Centre;
 
-- l). “family members forming part of the household” means:
+- l) “family members forming part of the household” means:
 
-- •. spouses and registered partners of a staff member of the Centre continuously living with the staff member;
+   - • spouses and registered partners of a staff member of the Centre continuously living with the staff member;
 
-- •. children of the staff member under the age of 18;
+   - • children of the staff member under the age of 18;
 
-- •. children of the staff member up to and including the age of 27 provided that they are unmarried, financially dependent on their parents and living continuously with their parent(s) during their posting in the host State; and
+   - • children of the staff member up to and including the age of 27 provided that they are unmarried, financially dependent on their parents and living continuously with their parent(s) during their posting in the host State; and
 
-- •. any such member of the immediate family of the staff member of the Centre as may be agreed upon between the host State and the United Nations.
+   - • any such member of the immediate family of the staff member of the Centre as may be agreed upon between the host State and the United Nations.
 
-- m). “premises” means buildings, parts of buildings and areas, including installations and facilities made available to, maintained, occupied or used by the Centre in the territory of the host State in consultation with the host State in connection with its functions and purposes;
+- m) “premises” means buildings, parts of buildings and areas, including installations and facilities made available to, maintained, occupied or used by the Centre in the territory of the host State in consultation with the host State in connection with its functions and purposes;
 
-- n). “property” means, without prejudice to the [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561), all property (be it material, real, or intellectual), assets, and funds belonging to the Centre or held or administered by the Centre in the territory of the host State in furtherance of its functions;
+- n) “property” means, without prejudice to the [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561), all property (be it material, real, or intellectual), assets, and funds belonging to the Centre or held or administered by the Centre in the territory of the host State in furtherance of its functions;
 
-- o). “Ministry of Foreign Affairs” means the Ministry of Foreign Affairs of the host State;
+- o) “Ministry of Foreign Affairs” means the Ministry of Foreign Affairs of the host State;
 
-- p). “competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the host State;
+- p) “competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the host State;
 
-- q). “Secretary-General” means the Secretary-General of the United Nations.
+- q) “Secretary-General” means the Secretary-General of the United Nations.
 
 ##### Article 2. Establishment of the Centre
 
@@ -98,7 +71,7 @@ For the purpose of this Agreement:
 
 ##### Article 3. Purpose and scope of this Agreement
 
-This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the Centre in the host State. It shall, **inter alia**, create conditions conducive to the stability and independence of the Centre and facilitate its smooth and efficient functioning.
+This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the Centre in the host State. It shall, *inter alia*, create conditions conducive to the stability and independence of the Centre and facilitate its smooth and efficient functioning.
 
 ## PART II. STATUS OF THE CENTRE
 
@@ -106,11 +79,11 @@ This Agreement shall regulate matters relating to or arising out of the establis
 
 1. The Centre shall possess full juridical personality in the host State. This shall, in particular, include the capacity:
 
-- a). to contract;
+- a) to contract;
 
-- b). to acquire and dispose of movable and immovable property; and
+- b) to acquire and dispose of movable and immovable property; and
 
-- c). to institute legal proceedings.
+- c) to institute legal proceedings.
 
 2. For the purpose of this Article, the Centre shall be represented by the Head of the Centre.
 
@@ -188,37 +161,37 @@ The archives of the Centre, and all papers and documents in whatever form, and m
 
 Without being restricted by financial controls, regulations, notification requirements in respect of financial transactions, or moratoria of any kind, the Centre:
 
-- a). may hold and use funds, gold or negotiable instruments of any kind and maintain and operate accounts in any currency and convert any currency held by it into any other currency;
+- a) may hold and use funds, gold or negotiable instruments of any kind and maintain and operate accounts in any currency and convert any currency held by it into any other currency;
 
-- b). shall be free to transfer its funds, gold or currency from one country to another, or within the host State; and
+- b) shall be free to transfer its funds, gold or currency from one country to another, or within the host State; and
 
-- c). may raise funds in any manner which it deems desirable, except that with respect to the raising of funds within the host State, the Centre shall obtain the concurrence of the competent authorities.
+- c) may raise funds in any manner which it deems desirable, except that with respect to the raising of funds within the host State, the Centre shall obtain the concurrence of the competent authorities.
 
 ##### Article 15. Exemption from taxes and duties for the Centre and its property
 
 1. Within the scope of its official activities, the Centre, its assets, income and other property shall be exempt from:
 
-- a). all direct taxes, whether levied by national, provincial or local authorities, which includes, **inter alia**, corporation tax;
+- a) all direct taxes, whether levied by national, provincial or local authorities, which includes, *inter alia*, corporation tax;
 
-- b). import and export taxes and duties (**belastingen bij invoer en uitvoer**);
+- b) import and export taxes and duties (*belastingen bij invoer en uitvoer*);
 
-- c). motor vehicle tax (**motorrijtuigenbelasting**);
+- c) motor vehicle tax (*motorrijtuigenbelasting*);
 
-- d). tax on passenger motor vehicles and motorcycles (**belasting van personenauto’s en motorrijwielen**);
+- d) tax on passenger motor vehicles and motorcycles (*belasting van personenauto’s en motorrijwielen*);
 
-- e). value added tax (**omzetbelasting**) paid on goods and services supplied on a recurring basis or involving considerable expenditure;
+- e) value added tax (*omzetbelasting*) paid on goods and services supplied on a recurring basis or involving considerable expenditure;
 
-- f). excise duties (**accijnzen**) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels, as well as chemical supplies;
+- f) excise duties (*accijnzen*) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels, as well as chemical supplies;
 
-- g). real property transfer tax (**overdrachtsbelasting**);
+- g) real property transfer tax (*overdrachtsbelasting*);
 
-- h). insurance tax (**assurantiebelasting**);
+- h) insurance tax (*assurantiebelasting*);
 
-- i). energy tax (**energiebelasting**);
+- i) energy tax (*energiebelasting*);
 
-- j). tax on mains water (**belasting op leidingwater**);
+- j) tax on mains water (*belasting op leidingwater*);
 
-- k). any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, levied in the host State subsequent to the date of entry into force of this Agreement.
+- k) any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, levied in the host State subsequent to the date of entry into force of this Agreement.
 
 2. The exemptions provided for in paragraph 1, subparagraphs e) through k), of this Article may be granted by way of a refund. These exemptions shall be applied in accordance with the formal requirements of the host State. These requirements, however, shall not affect the general principles laid down in paragraph 1 of this Article.
 
@@ -234,29 +207,29 @@ The Centre shall be exempt from all restrictions on imports and exports in respe
 
 ##### Article 17. Privileges, immunities and facilities of the Head of the Centre
 
-1. The Head of the Centre, together with members of his or her family forming part of the household who are not nationals or permanent residents of the host State, shall enjoy the privileges, immunities, exemptions and facilities accorded to heads of diplomatic missions in accordance with international law and in particular under the [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) and the provisions of the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345). He or she shall, **inter alia**, enjoy:
+1. The Head of the Centre, together with members of his or her family forming part of the household who are not nationals or permanent residents of the host State, shall enjoy the privileges, immunities, exemptions and facilities accorded to heads of diplomatic missions in accordance with international law and in particular under the [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) and the provisions of the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345). He or she shall, *inter alia*, enjoy:
 
-- a). personal inviolability, including immunity from arrest or detention or any other restriction of their liberty and from seizure of their personal baggage;
+- a) personal inviolability, including immunity from arrest or detention or any other restriction of their liberty and from seizure of their personal baggage;
 
-- b). immunity from criminal, civil and administrative jurisdiction;
+- b) immunity from criminal, civil and administrative jurisdiction;
 
-- c). inviolability of all papers and documents in whatever form and materials;
+- c) inviolability of all papers and documents in whatever form and materials;
 
-- d). immunity from national service obligations;
+- d) immunity from national service obligations;
 
-- e). exemption from immigration restrictions and alien registration;
+- e) exemption from immigration restrictions and alien registration;
 
-- f). exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNICRI;
+- f) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNICRI;
 
-- g). the same privileges in respect of currency and exchange facilities as are accorded to diplomatic agents;
+- g) the same privileges in respect of currency and exchange facilities as are accorded to diplomatic agents;
 
-- h). the same immunities and facilities in respect of their personal baggage as are accorded to diplomatic agents;
+- h) the same immunities and facilities in respect of their personal baggage as are accorded to diplomatic agents;
 
-- i). the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State, and to re-export their furniture and effects free of duties and taxes to their country of destination upon separation from UNICRI;
+- i) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State, and to re-export their furniture and effects free of duties and taxes to their country of destination upon separation from UNICRI;
 
-- j). for the purpose of their communications with the Centre, the right to receive and send papers in whatever form; and
+- j) for the purpose of their communications with the Centre, the right to receive and send papers in whatever form; and
 
-- k). the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+- k) the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. The Head of the Centre shall continue to be accorded immunity from legal process of every kind in respect of words which were spoken or written and all acts which were performed in his or her official capacity even after he or she ceased to perform his or her functions for the Centre.
 
@@ -266,15 +239,15 @@ The Centre shall be exempt from all restrictions on imports and exports in respe
 
 5. Persons referred to in this Article who are nationals or permanent residents of the host State shall enjoy within the host State only the privileges, immunities and facilities under [Article V, Section 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=V) and [Article VII of the General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=VII), together with the following modifications and supplementary provisions:
 
-- a). immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Centre;
+- a) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Centre;
 
-- b). inviolability of all official papers and documents in whatever form and materials;
+- b) inviolability of all official papers and documents in whatever form and materials;
 
-- c). exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNICRI;
+- c) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNICRI;
 
-- d). for the purpose of their communications with the Centre the right to receive and send papers in whatever form; and
+- d) for the purpose of their communications with the Centre the right to receive and send papers in whatever form; and
 
-- e). the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.
+- e) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.
 
 6. Persons referred to in paragraph 5 of this Article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions for the Centre.
 
@@ -282,25 +255,25 @@ The Centre shall be exempt from all restrictions on imports and exports in respe
 
 1. Officials of the Centre shall enjoy such privileges, immunities and facilities as are necessary for the independent performance of their functions. They shall enjoy privileges and immunities accorded to officials of the United Nations under [Articles V](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=V) and [VII of the General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=VII), including as modified and supplemented below:
 
-- a). immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Centre;
+- a) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Centre;
 
-- b). immunity from seizure and inspection of official baggage;
+- b) immunity from seizure and inspection of official baggage;
 
-- c). inviolability of all official papers and documents in whatever form and materials;
+- c) inviolability of all official papers and documents in whatever form and materials;
 
-- d). immunity from national service obligations;
+- d) immunity from national service obligations;
 
-- e). together with members of their family forming part of the household, exemption from immigration restrictions and alien registration;
+- e) together with members of their family forming part of the household, exemption from immigration restrictions and alien registration;
 
-- f). exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNICRI;
+- f) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNICRI;
 
-- g). the same privileges in respect of currency and exchange facilities as are accorded to the officials of comparable rank of diplomatic missions established in the host State;
+- g) the same privileges in respect of currency and exchange facilities as are accorded to the officials of comparable rank of diplomatic missions established in the host State;
 
-- h). exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the host State; an inspection in such a case shall be conducted in the presence of the official concerned;
+- h) exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the host State; an inspection in such a case shall be conducted in the presence of the official concerned;
 
-- i). together with members of their family forming part of the household, the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345); and
+- i) together with members of their family forming part of the household, the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345); and
 
-- j). the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State, and to re-export their furniture and effects free of duties and taxes to their country of destination upon separation from the Centre.
+- j) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State, and to re-export their furniture and effects free of duties and taxes to their country of destination upon separation from the Centre.
 
 2. In addition to the privileges, immunities and facilities listed in paragraph 1 of this Article, officials of the Centre of P-5 level and above, together with members of their family forming part of the household who are not nationals or permanent residents of the host State, shall be accorded the same privileges, immunities and facilities as the host State accords to diplomatic agents of comparable rank of the diplomatic missions established in the host State in conformity with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
@@ -312,13 +285,13 @@ The Centre shall be exempt from all restrictions on imports and exports in respe
 
 6. Persons referred to in this Article who are nationals or permanent residents of the host State shall enjoy only the privileges, immunities and facilities under [Article V, Section 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=V), and [Article VII of the General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=VII), including as modified and supplemented below:
 
-- a). immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Centre;
+- a) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Centre;
 
-- b). inviolability of all official papers and documents in whatever form and materials;
+- b) inviolability of all official papers and documents in whatever form and materials;
 
-- c). exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNICRI; and
+- c) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNICRI; and
 
-- d). the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.
+- d) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.
 
 7. Persons referred to in paragraph 6 under this Article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions for the Centre.
 
@@ -344,15 +317,15 @@ The Centre shall be exempt from all restrictions on imports and exports in respe
 
 2. Without prejudice to the applicable rules of the European Union with regard to the rights of citizens of a member state of the European Union, the European Economic Area, or Switzerland or their family members, the Ministry of Foreign Affairs shall register interns for a maximum period of six (6) months, provided that the Centre supplies the Ministry of Foreign Affairs with a declaration signed by them, accompanied by adequate proof, to the effect that:
 
-- a). the intern entered the host State in accordance with the applicable immigration procedures;
+- a) the intern entered the host State in accordance with the applicable immigration procedures;
 
-- b). the intern has sufficient financial means for living expenses and for repatriation, as well as sufficient medical insurance (including coverage of costs of hospitalization for at least the duration of the internship plus one (1) month) and third party liability insurance, and shall not be a charge on the public purse in the host State;
+- b) the intern has sufficient financial means for living expenses and for repatriation, as well as sufficient medical insurance (including coverage of costs of hospitalization for at least the duration of the internship plus one (1) month) and third party liability insurance, and shall not be a charge on the public purse in the host State;
 
-- c). the intern shall not engage in gainful employment in the host State during his or her internship other than as an intern for the Centre;
+- c) the intern shall not engage in gainful employment in the host State during his or her internship other than as an intern for the Centre;
 
-- d). the intern shall not bring any family members to reside with him or her in the host State other than in accordance with the applicable immigration procedures; and
+- d) the intern shall not bring any family members to reside with him or her in the host State other than in accordance with the applicable immigration procedures; and
 
-- e). the intern shall leave the host State within fourteen (14) days after the end of the internship, unless he or she is otherwise authorized to stay in the host State in accordance with the applicable immigration legislation.
+- e) the intern shall leave the host State within fourteen (14) days after the end of the internship, unless he or she is otherwise authorized to stay in the host State in accordance with the applicable immigration legislation.
 
 3. In exceptional circumstances, the maximum period of six (6) months mentioned in paragraph 2 of this Article, may be extended once by a maximum period of six (6) months. However, the total period of the internship shall not exceed a period of one (1) year.
 
@@ -404,17 +377,17 @@ Personnel recruited locally and assigned to hourly rates by UNICRI and not other
 
 3. In order to facilitate the entry and stay of the persons mentioned below, the Centre will promptly, and preferably no later than eight (8) days after the date of their first arrival in the host State, inform the host State of:
 
-- a). the presence of officials of the Centre;
+- a) the presence of officials of the Centre;
 
-- b). the presence of members of the family forming part of the household of officials of the Centre;
+- b) the presence of members of the family forming part of the household of officials of the Centre;
 
-- c). the presence of experts on mission;
+- c) the presence of experts on mission;
 
-- d). the presence of interns;
+- d) the presence of interns;
 
-- e). the presence of persons in the personal employ of those referred to in subparagraph (a) of this paragraph;
+- e) the presence of persons in the personal employ of those referred to in subparagraph (a) of this paragraph;
 
-- f). the date of the arrival of the persons referred to in subparagraphs (a), (b), (c), (d), and (e) of this paragraph.
+- f) the date of the arrival of the persons referred to in subparagraphs (a), (b), (c), (d), and (e) of this paragraph.
 
 4. With respect to the persons referred to in paragraphs 2 and 3 of this Article, the Centre shall promptly, but within eight (8) days, notify the host State of their final departure or the termination of their functions or their involvement with UNICRI.
 
@@ -448,13 +421,13 @@ The social security systems of the United Nations offer coverage comparable to t
 
 1. For purposes of official business of the persons listed below and the family members forming part of their household, the host State shall facilitate their entry into its territory, their departure from its territory and their transit to or from the premises of the Centre:
 
-- a). the Head of the Centre;
+- a) the Head of the Centre;
 
-- b). other officials of the Centre;
+- b) other officials of the Centre;
 
-- c). experts on mission;
+- c) experts on mission;
 
-- d). interns.
+- d) interns.
 
 2. This Article shall not prevent the requirement of reasonable evidence to be provided by the Centre to establish that persons claiming the treatment provided for in this Article fall under one of the categories in paragraph 1 above.
 
@@ -496,9 +469,9 @@ The Centre and the host State may, for the purpose of implementing this Agreemen
 
 UNICRI shall make provisions for appropriate modes of settlement of:
 
-- a). disputes arising out of contracts and other disputes of a private law character to which the Centre is a party; and
+- a) disputes arising out of contracts and other disputes of a private law character to which the Centre is a party; and
 
-- b). disputes involving any person referred to in this Agreement who, by reason of his or her official position or function in connection with the Centre, enjoys immunity, if such immunity has not been waived by the Secretary-General.
+- b) disputes involving any person referred to in this Agreement who, by reason of his or her official position or function in connection with the Centre, enjoys immunity, if such immunity has not been waived by the Secretary-General.
 
 ##### Article 34. Settlement of differences on the interpretation or application of this Agreement or supplementary arrangements or agreements
 
@@ -516,7 +489,7 @@ This Agreement shall apply to the part of the Kingdom of the Netherlands in Euro
 
 2. This Agreement shall be reviewed at the request of either Party.
 
-##### Article 37. Interpretation of the Agreement, the [General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) and the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)
+##### Article 37. Interpretation of the Agreement, the General Convention and the Vienna Convention
 
 1. This Agreement shall be interpreted in light of its primary purpose of enabling UNICRI through opening and maintaining its Centre in the host State to fully and efficiently discharge its responsibilities and fulfil its purposes.
 
@@ -532,10 +505,10 @@ IN WITNESS WHEREOF, the undersigned, duly authorized thereto, have signed this A
 
 DONE at The Hague, on 7 September 2017, in duplicate, in the English language.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 J.L.C. VAN DER WERFF
 
-**For the United Nations,**
+*For the United Nations,*
 
 CINDY J. SMITH

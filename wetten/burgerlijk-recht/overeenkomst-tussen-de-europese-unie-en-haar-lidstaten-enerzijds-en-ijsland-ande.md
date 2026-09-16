@@ -1,114 +1,19 @@
 ---
 title: "Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en IJsland, anderzijds, betreffende de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Unie, haar lidstaten en IJsland voor de tweede verbintenisperiode van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering"
 identifier: "BWBV0006503"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-11-27"
-last_updated: "2018-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006503"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10005303323"
-version_id: "10005700622"
-internal_id: "C10009470491"
-label_id: "10005286124"
-dtd_version: "2.0"
-original_entry_into_force: "2018-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006503/2018-11-27/0"
-intitule_bron: "Trb.2015-81"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2015-05-28"
-intitule_in_force: "2018-10-11"
-intitule_status: "goed"
-original_publication: "Trb.2015-81"
-original_published_date: "2015-05-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2015-81"
-entry_into_force_date: "2018-11-27"
-jci_1_3: "jci1.3:c:BWBV0006503&z=2018-11-27&g=2018-11-27"
-jci_1_0: "1.0:c:BWBV0006503&g=2018-11-27"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-11-27"
+publicatiedatum: 2018-11-27
+laatste_update: 2018-11-27
+status: geldig
+toestand: 2018-11-27
+bron: "https://wetten.overheid.nl/BWBV0006503"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en IJsland, anderzijds, betreffende de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Unie, haar lidstaten en IJsland voor de tweede verbintenisperiode van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering
 
-De Europese Unie
-
-(hierna ook „de Unie” genoemd),
-
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-enerzijds
-
-en IJsland
-
-anderzijds
-
-(hierna „de partijen” genoemd),
-
-Herinnerend aan het volgende:
-
-In de gemeenschappelijke verklaring van 8 december 2012 in Doha is bepaald dat de gekwantificeerde verbintenissen inzake emissiebeperking en -reductie voor de Unie, haar lidstaten, Kroatië en IJsland, voor de tweede verbintenisperiode van het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) gebaseerd zijn op de veronderstelling dat deze verbintenissen gezamenlijk zullen worden nagekomen in overeenstemming met [artikel 4 van het protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=4), dat [artikel 3, lid 7 ter, van het Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=3) zal worden toegepast op de gezamenlijke toegewezen hoeveelheid uit hoofde van de overeenkomst inzake de gezamenlijke nakoming door de Europese Unie, haar lidstaten, Kroatië en IJsland, en dat het niet op de Europese Unie, haar lidstaten, Kroatië of IJsland afzonderlijk zal worden toegepast;
-
-In die verklaring hebben de Unie, haar lidstaten en IJsland verklaard dat zij hun akten van aanvaarding gelijktijdig zullen neerleggen, zoals het geval was bij het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) zelf, zodat deze gelijktijdig in werking kunnen treden voor de Unie, haar 27 lidstaten, Kroatië en IJsland;
-
-IJsland neemt deel aan het Comité klimaatverandering van de Europese Unie, opgericht overeenkomstig artikel 26 van Verordening (EU) nr. 525/2013, en aan Werkgroep I van het Comité klimaatverandering,
-
-Hebben besloten de volgende overeenkomst te sluiten:
+*De Europese Unie (hierna ook „de Unie” genoemd), het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, enerzijds en IJsland anderzijds (hierna „de partijen” genoemd), Herinnerend aan het volgende: In de gemeenschappelijke verklaring van 8 december 2012 in Doha is bepaald dat de gekwantificeerde verbintenissen inzake emissiebeperking en -reductie voor de Unie, haar lidstaten, Kroatië en IJsland, voor de tweede verbintenisperiode van het Protocol van Kyoto gebaseerd zijn op de veronderstelling dat deze verbintenissen gezamenlijk zullen worden nagekomen in overeenstemming met artikel 4 van het protocol, dat artikel 3, lid 7 ter, van het Protocol van Kyoto zal worden toegepast op de gezamenlijke toegewezen hoeveelheid uit hoofde van de overeenkomst inzake de gezamenlijke nakoming door de Europese Unie, haar lidstaten, Kroatië en IJsland, en dat het niet op de Europese Unie, haar lidstaten, Kroatië of IJsland afzonderlijk zal worden toegepast; In die verklaring hebben de Unie, haar lidstaten en IJsland verklaard dat zij hun akten van aanvaarding gelijktijdig zullen neerleggen, zoals het geval was bij het Protocol van Kyoto zelf, zodat deze gelijktijdig in werking kunnen treden voor de Unie, haar 27 lidstaten, Kroatië en IJsland; IJsland neemt deel aan het Comité klimaatverandering van de Europese Unie, opgericht overeenkomstig artikel 26 van Verordening (EU) nr. 525/2013, en aan Werkgroep I van het Comité klimaatverandering, Hebben besloten de volgende overeenkomst te sluiten:*
 
 ##### Artikel 1. Doelstelling van de overeenkomst
 
@@ -124,7 +29,7 @@ In deze Overeenkomst wordt verstaan onder:
 
 - c. „Voorwaarden van de gezamenlijke nakoming”: de voorwaarden zoals vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=2&z=2018-11-27&g=2018-11-27) bij deze Overeenkomst;
 
-- d. „de ETS-richtlijn”: [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, zoals gewijzigd.
+- d. „de ETS-richtlijn”: Richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, zoals gewijzigd.
 
 ##### Artikel 3. Gezamenlijke nakoming
 

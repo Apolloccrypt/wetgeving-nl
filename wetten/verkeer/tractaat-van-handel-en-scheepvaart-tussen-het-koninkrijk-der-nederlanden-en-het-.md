@@ -1,44 +1,19 @@
 ---
 title: "Tractaat van handel en scheepvaart tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Ierland"
 identifier: "BWBV0006617"
-country: "nl"
-rank: "verdrag"
-publication_date: "1891-05-23"
-last_updated: "1891-05-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006617"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005374093"
-version_id: "10005798902"
-internal_id: "C10009131741"
-label_id: "10005356704"
-dtd_version: "2.0"
-original_entry_into_force: "1837-10-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006617/1891-05-23/0"
-intitule_bron: "Stb.1837-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1837-11-23"
-intitule_published: "1837-11-30"
-intitule_in_force: "1837-11-30"
-intitule_status: "goed"
-original_publication: "Stb.1837-64"
-original_signed_date: "1837-11-23"
-original_published_date: "1837-11-30"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1837-10-27"
-jci_1_3: "jci1.3:c:BWBV0006617&z=1891-05-23&g=1891-05-23"
-jci_1_0: "1.0:c:BWBV0006617&g=1891-05-23"
-citeertitel_status: "redactioneel"
-signed_date: "1837-11-23"
-entry_into_force: "1837-10-27"
+publicatiedatum: 1837-10-27
+laatste_update: 1891-05-23
+status: geldig
+toestand: 1891-05-23
+bron: "https://wetten.overheid.nl/BWBV0006617"
+opgehaald: 2026-09-16
 ---
+
 # Tractaat van handel en scheepvaart tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Ierland
 
-Zijne Majesteit de Koning der Nederlanden ter eener zijde en Hare Majesteit de Koningin van het Vereenigd Koningrijk van Groot-Brittannie en Ierland ter andere zijde, gelijkelijk verlangende om alle gerijf en aanmoediging te verschaffen aan hunne onderdanen, die met elkander in handelsbetrekkingen staan, en meenende, dat niets meer toe zal brengen tot de bereiking van dit wenschelijk doel, dan eene wederkeerige afschaffing van alle onderscheidings- en vergeldings-regten, welke van de schepen der Hooge contracterende partijen of van de ladingen der zoodanige schepen geheven worden in de havens van beide Rijken in Europa, hebben tot hunne gevolmagtigden, om ten dien einde eene overeenkomst te sluiten, benoemd, te weten:
-
-Zijne Majesteit de Koning der Nederlanden den heer Johan Gijsbert baron Verstolk van Soelen, lid der Ridderschap van de provincie Holland, Ridder-Grootkruis der orde van den Nederlandschen Leeuw en van St. Stephanus van Hongarijen, Hoogstdeszelfs Minister van Staat voor het Departement van Buitenlandsche Zaken, en
-
-Hare Majesteit de Koningin van het Vereenigd Koningrijk van Groot-Brittannie en Ierland, Sir Edward Cromwell Disbrowe, Ridder-Grootkruis der Koninklijke Hanoversche Guelphen orde, Hoogstderzelver buitengewoon gezant en gevolmagtigd Minister bij Zijne Majesteit den Koning der Nederlanden, Groot-Hertog van Luxemburg, welke na elkander hunne wederzijdsche volmagten, die in goede en behoorlijken vorm zijn bevonden, te hebben medegedeeld, wegens de volgende artikelen zijn overeengekomen.
+*Zijne Majesteit de Koning der Nederlanden ter eener zijde en Hare Majesteit de Koningin van het Vereenigd Koningrijk van Groot-Brittannie en Ierland ter andere zijde, gelijkelijk verlangende om alle gerijf en aanmoediging te verschaffen aan hunne onderdanen, die met elkander in handelsbetrekkingen staan, en meenende, dat niets meer toe zal brengen tot de bereiking van dit wenschelijk doel, dan eene wederkeerige afschaffing van alle onderscheidings- en vergeldings-regten, welke van de schepen der Hooge contracterende partijen of van de ladingen der zoodanige schepen geheven worden in de havens van beide Rijken in Europa, hebben tot hunne gevolmagtigden, om ten dien einde eene overeenkomst te sluiten, benoemd, te weten: Zijne Majesteit de Koning der Nederlanden den heer Johan Gijsbert baron Verstolk van Soelen, lid der Ridderschap van de provincie Holland, Ridder-Grootkruis der orde van den Nederlandschen Leeuw en van St. Stephanus van Hongarijen, Hoogstdeszelfs Minister van Staat voor het Departement van Buitenlandsche Zaken, en Hare Majesteit de Koningin van het Vereenigd Koningrijk van Groot-Brittannie en Ierland, Sir Edward Cromwell Disbrowe, Ridder-Grootkruis der Koninklijke Hanoversche Guelphen orde, Hoogstderzelver buitengewoon gezant en gevolmagtigd Minister bij Zijne Majesteit den Koning der Nederlanden, Groot-Hertog van Luxemburg, welke na elkander hunne wederzijdsche volmagten, die in goede en behoorlijken vorm zijn bevonden, te hebben medegedeeld, wegens de volgende artikelen zijn overeengekomen.*
 
 ##### Art. 1
 
@@ -56,7 +31,7 @@ Alle schepen, die volgens de wetten van Nederland moeten beschouwd worden Nederl
 
 ##### Art. 4
 
-Met betrekking tot de berekening van **ad valorem** rechten en tot alle andere met de douanereglementen samenhangende vragen, zullen Nederlandsche goederen in het Vereenigd Koninkrijk van Groot-Britannië en Ierland en Britsche goederen in Nederland ingevoerd, over en weder op dezelfde wijze worden behandeld als goederen van de meest begunstigde natie.
+Met betrekking tot de berekening van *ad valorem* rechten en tot alle andere met de douanereglementen samenhangende vragen, zullen Nederlandsche goederen in het Vereenigd Koninkrijk van Groot-Britannië en Ierland en Britsche goederen in Nederland ingevoerd, over en weder op dezelfde wijze worden behandeld als goederen van de meest begunstigde natie.
 
 ##### Art. 5
 
@@ -82,8 +57,8 @@ Gedaan te 's Gravenhage den zeven en twintigsten October des jaars Onzes Heeren,
 
 VERSTOLK VAN SOELEN.
 
-(**L. S.**)
+(*L. S.*)
 
 EDWD. CROMWELL DISBROWE.
 
-(**L. S.**)
+(*L. S.*)

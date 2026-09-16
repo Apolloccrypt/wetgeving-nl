@@ -1,46 +1,19 @@
 ---
 title: "Verdrag inzake de overbrenging van gevonniste personen tussen het Koninkrijk der Nederlanden en de Dominicaanse Republiek"
 identifier: "BWBV0006630"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-02-01"
-last_updated: "2021-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006630"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005379233"
-version_id: "10005807682"
-internal_id: "C10009785551"
-label_id: "10005362144"
-dtd_version: "2.0"
-original_entry_into_force: "2021-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006630/2021-02-01/0"
-intitule_bron: "Trb.2016-145"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-09-19"
-intitule_in_force: "2021-02-09"
-intitule_status: "goed"
-original_publication: "Trb.2016-145"
-original_published_date: "2016-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2016-145"
-entry_into_force_date: "2021-02-01"
-jci_1_3: "jci1.3:c:BWBV0006630&z=2021-02-01&g=2021-02-01"
-jci_1_0: "1.0:c:BWBV0006630&g=2021-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-02-01"
+publicatiedatum: 2021-02-01
+laatste_update: 2021-02-01
+status: geldig
+toestand: 2021-02-01
+bron: "https://wetten.overheid.nl/BWBV0006630"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag inzake de overbrenging van gevonniste personen tussen het Koninkrijk der Nederlanden en de Dominicaanse Republiek
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Dominicaanse Republiek, hierna te noemen „de Partijen”;
-
-Geleid door de wens de internationale samenwerking op het gebied van het strafrecht verder te ontwikkelen en het voor onderdanen van elk van de Partijen die gedetineerd zijn als gevolg van het plegen van een strafbaar feit mogelijk te maken hun veroordelingen binnen hun eigen samenleving te ondergaan,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Dominicaanse Republiek, hierna te noemen „de Partijen”; Geleid door de wens de internationale samenwerking op het gebied van het strafrecht verder te ontwikkelen en het voor onderdanen van elk van de Partijen die gedetineerd zijn als gevolg van het plegen van een strafbaar feit mogelijk te maken hun veroordelingen binnen hun eigen samenleving te ondergaan, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -196,12 +169,12 @@ Dit Verdrag kan worden toegepast op de tenuitvoerlegging van veroordelingen die 
 
 2. Met inachtneming van de termijn genoemd in het eerste lid hebben het Koninkrijk der Nederlanden en de Dominicaanse Republiek het recht de toepassing van dit Verdrag afzonderlijk op te zeggen in relatie tot elk van de delen waaruit het Koninkrijk der Nederlanden bestaat.
 
-TEN BLIJKE WAARVAN, de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag in tweevoud hebben ondertekend, te Santo Domingo, op 25 juli 2016 in de Nederlandse, de Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van interpretatiegeschillen is de Engelse tekst doorslaggevend.
+TEN BLIJKE WAARVAN, de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag in tweevoud hebben ondertekend, te Santo Domingo, op 25 juli 2016 in de Nederlandse, de Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van interpretatiegeschillen is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 M.A. VAN DRUNNEN LITTEL
 
-**Voor de Dominicaanse Republiek:**
+*Voor de Dominicaanse Republiek:*
 
 ANDRÉS NAVARRO GARCÍA

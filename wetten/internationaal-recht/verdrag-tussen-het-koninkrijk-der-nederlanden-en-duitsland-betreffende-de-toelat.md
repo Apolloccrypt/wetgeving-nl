@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Duitsland betreffende de toelating, vestiging en uitzetting van wederzijdse onderdanen op wederzijds staatsgebied"
 identifier: "BWBV0006689"
-country: "nl"
-rank: "verdrag"
-publication_date: "1907-01-29"
-last_updated: "1907-01-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006689"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005412513"
-version_id: "10005853102"
-internal_id: "C10009264911"
-label_id: "10005395194"
-dtd_version: "2.0"
-original_entry_into_force: "1907-01-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006689/1907-01-29/0"
-intitule_bron: "Stb.1906-279"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1906-11-07"
-intitule_published: "1906-11-14"
-intitule_in_force: "1906-11-14"
-intitule_status: "goed"
-original_publication: "Stb.1906-279"
-original_signed_date: "1906-11-07"
-original_published_date: "1906-11-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1907-01-29"
-jci_1_3: "jci1.3:c:BWBV0006689&z=1907-01-29&g=1907-01-29"
-jci_1_0: "1.0:c:BWBV0006689&g=1907-01-29"
-citeertitel_status: "redactioneel"
-signed_date: "1906-11-07"
-entry_into_force: "1907-01-29"
+publicatiedatum: 1907-01-29
+laatste_update: 1907-01-29
+status: geldig
+toestand: 1907-01-29
+bron: "https://wetten.overheid.nl/BWBV0006689"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Duitsland betreffende de toelating, vestiging en uitzetting van wederzijdse onderdanen op wederzijds staatsgebied
 
-Hare Majesteit de Koningin der Nederlanden en Zijne Majesteit de Duitsche Keizer, Koning van Pruisen, in naam van het Duitsche Rijk, bezield door den wensch om de tusschen Nederland en het Duitsche Rijk bestaande vriendschappelijke betrekkingen in stand te houden en te bevestigen, en met het doel om de voorwaarden te regelen voor de vestiging der Nederlandsche onderdanen in het Duitsche Rijk en der Duitsche onderdanen in Nederland, voor de wederzijdsche ondersteuning van hulpbehoevenden, alsmede voor de overbrenging met den sterken arm over de grenzen der beide Rijken van uit te leiden personen, zijn overeengekomen te dien einde een verdrag te sluiten en hebben tot Hoogstderzelver gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Hoogstderzelver Minister van Buitenlandsche Zaken, den heer R. MELVIL baron VAN LYNDEN,
-
-Zijne Majesteit de Duitsche Keizer, Koning van Pruisen:
-
-Hoogstdeszelfs Buitengewoon Gezant en Gevolmachtigd Minister bij Hare Majesteit de Koningin der Nederlanden, den heer KARL VON SCHLÖZER,
-
-die na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, zijn overeengekomen nopens de volgende artikelen:
-
-Wordt vanaf 30 april 2006 niet langer toegepast in de verhouding tussen het Koninkrijk der Nederlanden, enerzijds, en Duitsland, anderzijds (Trb. 2017/126).
+*Hare Majesteit de Koningin der Nederlanden en Zijne Majesteit de Duitsche Keizer, Koning van Pruisen, in naam van het Duitsche Rijk, bezield door den wensch om de tusschen Nederland en het Duitsche Rijk bestaande vriendschappelijke betrekkingen in stand te houden en te bevestigen, en met het doel om de voorwaarden te regelen voor de vestiging der Nederlandsche onderdanen in het Duitsche Rijk en der Duitsche onderdanen in Nederland, voor de wederzijdsche ondersteuning van hulpbehoevenden, alsmede voor de overbrenging met den sterken arm over de grenzen der beide Rijken van uit te leiden personen, zijn overeengekomen te dien einde een verdrag te sluiten en hebben tot Hoogstderzelver gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: Hoogstderzelver Minister van Buitenlandsche Zaken, den heer R. MELVIL baron VAN LYNDEN, Zijne Majesteit de Duitsche Keizer, Koning van Pruisen: Hoogstdeszelfs Buitengewoon Gezant en Gevolmachtigd Minister bij Hare Majesteit de Koningin der Nederlanden, den heer KARL VON SCHLÖZER, die na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, zijn overeengekomen nopens de volgende artikelen:*
 
 ##### Artikel 1
 
@@ -140,4 +107,4 @@ Ten blijke waarvan de gevolmachtigden dit verdrag hebben geteekend en van hunne 
 
 Gedaan in dubbel te 's Gravenhage, den 17 December 1904.
 
-(**L. S.**) R. MELVIL VAN LYNDEN.
+(*L. S.*) R. MELVIL VAN LYNDEN.

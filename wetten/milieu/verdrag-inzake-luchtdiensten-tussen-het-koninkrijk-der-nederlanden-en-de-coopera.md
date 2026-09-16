@@ -1,56 +1,19 @@
 ---
 title: "Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Coöperatieve Republiek Guyana"
 identifier: "BWBV0006945"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-10-01"
-last_updated: "2023-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006945"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005603213"
-version_id: "10006143282"
-internal_id: "C10010013971"
-label_id: "10005585274"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006945/2023-10-01/0"
-intitule_bron: "Trb.2021-174"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-12-27"
-intitule_in_force: "2023-08-30"
-intitule_status: "goed"
-original_publication: "Trb.2021-174"
-original_published_date: "2021-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2021-174"
-entry_into_force_date: "2023-10-01"
-jci_1_3: "jci1.3:c:BWBV0006945&z=2023-10-01&g=2023-10-01"
-jci_1_0: "1.0:c:BWBV0006945&g=2023-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-10-01"
+publicatiedatum: 2023-10-01
+laatste_update: 2023-10-01
+status: geldig
+toestand: 2023-10-01
+bron: "https://wetten.overheid.nl/BWBV0006945"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Coöperatieve Republiek Guyana
 
-PREAMBLE
-
-The Kingdom of the Netherlands
-
-and
-
-the Cooperative Republic of Guyana,
-
-hereinafter referred to as the Contracting Parties;
-
-Being parties to the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on 7 December 1944;
-
-Desiring to contribute to the progress of international civil aviation;
-
-Desiring to guarantee the highest level of safety and security in international air transport;
-
-Desiring to conclude an Agreement between the Kingdom of the Netherlands and the Cooperative Republic of Guyana for Air Services between and beyond their respective Territories;
-
-Have agreed as follows:
+*PREAMBLE The Kingdom of the Netherlands and the Cooperative Republic of Guyana, hereinafter referred to as the Contracting Parties; Being parties to the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944; Desiring to contribute to the progress of international civil aviation; Desiring to guarantee the highest level of safety and security in international air transport; Desiring to conclude an Agreement between the Kingdom of the Netherlands and the Cooperative Republic of Guyana for Air Services between and beyond their respective Territories; Have agreed as follows:*
 
 ### CHAPTER I. INTRODUCTION
 
@@ -58,47 +21,47 @@ Have agreed as follows:
 
 1. For the purpose of this Agreement:
 
-- a). the term “Aeronautical Authorities“ means for the Kingdom of the Netherlands, the Minister of Infrastructure and Water Management of the Netherlands; for the Cooperative Republic of Guyana, the Minister responsible for Transport; or, in either case, any person or body authorized to perform any functions at present exercised by the said Authorities;
+- a) the term “Aeronautical Authorities“ means for the Kingdom of the Netherlands, the Minister of Infrastructure and Water Management of the Netherlands; for the Cooperative Republic of Guyana, the Minister responsible for Transport; or, in either case, any person or body authorized to perform any functions at present exercised by the said Authorities;
 
-- b). the terms “Agreed Service” and “Specified Route” mean International Air Service pursuant to this Agreement and the route specified in the Annex to this Agreement respectively;
+- b) the terms “Agreed Service” and “Specified Route” mean International Air Service pursuant to this Agreement and the route specified in the Annex to this Agreement respectively;
 
-- c). the term “Agreement” means this Agreement, its Annex, as well as any amendment to the Agreement or the Annex;
+- c) the term “Agreement” means this Agreement, its Annex, as well as any amendment to the Agreement or the Annex;
 
-- d). the terms “Air Service”, “International Air Service”, “Airline” and “Stop for non-traffic purposes” shall have the meaning respectively assigned to them in [Article 96 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=96);
+- d) the terms “Air Service”, “International Air Service”, “Airline” and “Stop for non-traffic purposes” shall have the meaning respectively assigned to them in [Article 96 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=96);
 
-- e). the term “Change of Aircraft” means the operation of one of the Agreed Services by a Designated Airline in such a way that one or more sectors of the Specified Route are flown by different aircraft;
+- e) the term “Change of Aircraft” means the operation of one of the Agreed Services by a Designated Airline in such a way that one or more sectors of the Specified Route are flown by different aircraft;
 
-- f). the term “the Convention” means the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under [Article 90 of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) and any amendment of the Annexes or the Convention under Articles 90 and [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) thereof, insofar as those Annexes and amendments have become effective for, or have been ratified by both Contracting Parties;
+- f) the term “the Convention” means the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under [Article 90 of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) and any amendment of the Annexes or the Convention under Articles 90 and [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) thereof, insofar as those Annexes and amendments have become effective for, or have been ratified by both Contracting Parties;
 
-- g). the term “Designated Airline” means the Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&hoofdstuk=II&artikel=3&z=2023-10-01&g=2023-10-01) (Designation and Authorization) of this Agreement;
+- g) the term “Designated Airline” means the Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&hoofdstuk=II&artikel=3&z=2023-10-01&g=2023-10-01) (Designation and Authorization) of this Agreement;
 
-- h). the term “Stores” means articles of a readily consumable nature for use or sale on board an aircraft during flight including commissary supplies;
+- h) the term “Stores” means articles of a readily consumable nature for use or sale on board an aircraft during flight including commissary supplies;
 
-- i). the term “Tariff” means any amount, excluding governmental levies, charged or to be charged by the Airline, directly or through their agents, to any person or entity for the carriage of passengers (and their baggage) and cargo (excluding mail) in air transportation, including:
+- i) the term “Tariff” means any amount, excluding governmental levies, charged or to be charged by the Airline, directly or through their agents, to any person or entity for the carriage of passengers (and their baggage) and cargo (excluding mail) in air transportation, including:
 
-- (i). the conditions governing the availability and applicability of a Tariff; and
+   - (i) the conditions governing the availability and applicability of a Tariff; and
 
-- (ii). the charges and conditions for any services ancillary to such carriage which are offered by the Airline;
+   - (ii) the charges and conditions for any services ancillary to such carriage which are offered by the Airline;
 
-- j). the term “Territory” in relation to either Contracting Party shall be deemed to be the land areas and territorial waters adjacent thereto under the sovereignty, suzerainty, protection or mandate of the Contracting Party;
+- j) the term “Territory” in relation to either Contracting Party shall be deemed to be the land areas and territorial waters adjacent thereto under the sovereignty, suzerainty, protection or mandate of the Contracting Party;
 
-- k). the term “User Charge” means a charge imposed on Airlines for the provision of airport, air navigation, or aviation security facilities or services including related services and facilities;
+- k) the term “User Charge” means a charge imposed on Airlines for the provision of airport, air navigation, or aviation security facilities or services including related services and facilities;
 
-- l). the term “Capacity” means the combination of frequency per week and (the configuration of) the type of aircraft used on the route offered to the public by the Designated Airline(s);
+- l) the term “Capacity” means the combination of frequency per week and (the configuration of) the type of aircraft used on the route offered to the public by the Designated Airline(s);
 
-- m). the term “Place of Effective Management” means the place where key management and commercial decisions that are necessary for the conduct of the entity’s business as a whole are in substance made. All relevant facts and circumstances must be examined to determine the place of effective management. An entity may have more than one place of management, but it can have only one place of effective management at any one time;
+- m) the term “Place of Effective Management” means the place where key management and commercial decisions that are necessary for the conduct of the entity’s business as a whole are in substance made. All relevant facts and circumstances must be examined to determine the place of effective management. An entity may have more than one place of management, but it can have only one place of effective management at any one time;
 
-- n). the term “EU Member State” means a state that is now or in the future a contracting party to the Treaty on the European Union and the Treaty on the Functioning of the European Union;
+- n) the term “EU Member State” means a state that is now or in the future a contracting party to the Treaty on the European Union and the Treaty on the Functioning of the European Union;
 
-- o). the term “Caribbean part of the Netherlands” means the islands of Bonaire, Sint Eustatius and Saba;
+- o) the term “Caribbean part of the Netherlands” means the islands of Bonaire, Sint Eustatius and Saba;
 
-- p). the term “the Netherlands” means:
+- p) the term “the Netherlands” means:
 
-- (i). the European part of the Netherlands, and
+   - (i) the European part of the Netherlands, and
 
-- (ii). the Caribbean part of the Netherlands;
+   - (ii) the Caribbean part of the Netherlands;
 
-- q). the term “residents of the Caribbean part of the Netherlands” means residents with the nationality of the Kingdom of the Netherlands originating from the Caribbean part of the Netherlands.
+- q) the term “residents of the Caribbean part of the Netherlands” means residents with the nationality of the Kingdom of the Netherlands originating from the Caribbean part of the Netherlands.
 
 2. The applicable legislation for the European part of the Netherlands includes applicable legislation of the European Union.
 
@@ -108,11 +71,11 @@ Have agreed as follows:
 
 1. Each Contracting Party grants to the other Contracting Party, except as otherwise specified in the Annex, the following rights for the conduct of International Air Services by the Designated Airline(s) of the other Contracting Party:
 
-- a). the right to fly across its Territory without landing;
+- a) the right to fly across its Territory without landing;
 
-- b). the right to make stops for non-traffic purposes in its Territory; and
+- b) the right to make stops for non-traffic purposes in its Territory; and
 
-- c). while operating an Agreed Service on a Specified Route, the right to make stops in its Territory for the purposes of taking up and discharging international traffic in passengers, baggage, cargo and mail, either separately or in combination.
+- c) while operating an Agreed Service on a Specified Route, the right to make stops in its Territory for the purposes of taking up and discharging international traffic in passengers, baggage, cargo and mail, either separately or in combination.
 
 2. Nothing in paragraph 1 of this Article shall be deemed to grant the right for one Contracting Party's Airline(s) to participate in air transportation between points in the Territory of the other Contracting Party (cabotage).
 
@@ -122,33 +85,33 @@ Have agreed as follows:
 
 2. Upon receipt of such a notification, each Contracting Party shall, without delay, grant to the Airline(s) so designated by the other Contracting Party the appropriate operating authorizations subject to the provisions of this Article, unless it is not satisfied that:
 
-- a). in case an Airline in the European part of the Netherlands, is designated by the Kingdom of the Netherlands:
+- a) in case an Airline in the European part of the Netherlands, is designated by the Kingdom of the Netherlands:
 
-- (i). the Airline is established in the Territory of the Kingdom of the Netherlands under the European Union Treaties and has a valid operating licence in accordance with European Union law; and
+   - (i) the Airline is established in the Territory of the Kingdom of the Netherlands under the European Union Treaties and has a valid operating licence in accordance with European Union law; and
 
-- (ii). effective regulatory control of the Airline is exercised and maintained by the EU Member State responsible for issuing its Air Operator’s Certificate and the relevant Aeronautical Authority is clearly identified in the designation; and
+   - (ii) effective regulatory control of the Airline is exercised and maintained by the EU Member State responsible for issuing its Air Operator’s Certificate and the relevant Aeronautical Authority is clearly identified in the designation; and
 
-- (iii). the Airline is owned, directly or through majority ownership, and is effectively controlled by Member States of the European Union or the European Free Trade Association and/or by nationals of such States;
+   - (iii) the Airline is owned, directly or through majority ownership, and is effectively controlled by Member States of the European Union or the European Free Trade Association and/or by nationals of such States;
 
-- b). in case an Airline in the Caribbean part of the Netherlands, is designated by the Kingdom of the Netherlands:
+- b) in case an Airline in the Caribbean part of the Netherlands, is designated by the Kingdom of the Netherlands:
 
-- (i). the Airline is established in the Caribbean part of the Netherlands and has a valid operating license in accordance with the appropriate legislation for the Caribbean part of the Netherlands; and
+   - (i) the Airline is established in the Caribbean part of the Netherlands and has a valid operating license in accordance with the appropriate legislation for the Caribbean part of the Netherlands; and
 
-- (ii). effective regulatory control of the Airline is exercised and maintained by the Netherlands; and
+   - (ii) effective regulatory control of the Airline is exercised and maintained by the Netherlands; and
 
-- (iii). the Airline is owned, directly or through majority ownership, and is effectively controlled by residents of the Caribbean part of the Netherlands;
+   - (iii) the Airline is owned, directly or through majority ownership, and is effectively controlled by residents of the Caribbean part of the Netherlands;
 
-- c). in case an Airline is designated by the Cooperative Republic of Guyana: and that:
+- c) in case an Airline is designated by the Cooperative Republic of Guyana: and that:
 
-- (i). the Airline is established in the Territory of the Cooperative Republic of Guyana and has a valid Operating Licence from a Member State of Caricom in accordance with the applicable law of that State; and
+   - (i) the Airline is established in the Territory of the Cooperative Republic of Guyana and has a valid Operating Licence from a Member State of Caricom in accordance with the applicable law of that State; and
 
-- (ii). effective regulatory control of the Airline is exercised and maintained by the Member State of Caricom responsible for issuing its Air Operator’s Certificate and the relevant Aeronautical Authority is clearly identified in the designation; and
+   - (ii) effective regulatory control of the Airline is exercised and maintained by the Member State of Caricom responsible for issuing its Air Operator’s Certificate and the relevant Aeronautical Authority is clearly identified in the designation; and
 
-- (iii). the Airline is owned and shall continue to be owned directly or through majority ownership, and the Airline is effectively controlled by a Caricom Member State and/or by nationals of such State;
+   - (iii) the Airline is owned and shall continue to be owned directly or through majority ownership, and the Airline is effectively controlled by a Caricom Member State and/or by nationals of such State;
 
-- d). the Airline is maintaining and administering the standards set forth in [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&artikel=15&z=2023-10-01&g=2023-10-01) (Safety) and [Article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&artikel=16&z=2023-10-01&g=2023-10-01) (Aviation Security) of this Agreement;
+- d) the Airline is maintaining and administering the standards set forth in [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&artikel=15&z=2023-10-01&g=2023-10-01) (Safety) and [Article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&artikel=16&z=2023-10-01&g=2023-10-01) (Aviation Security) of this Agreement;
 
-- e). the Designated Airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operations of International Air Services by the Contracting Party considering the application or applications.
+- e) the Designated Airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operations of International Air Services by the Contracting Party considering the application or applications.
 
 3. Upon receipt of the operating authorization of paragraph 2 of this Article, the Designated Airline(s) may at any time begin to operate the Agreed Services, in part or in whole, provided that it complies with the provisions of this Agreement.
 
@@ -156,37 +119,37 @@ Have agreed as follows:
 
 1. Each Contracting Party shall have the right to withhold, revoke, suspend or limit the operating authorizations of an Airline designated by the other Contracting Party:
 
-- a). in case an Airline in the European part of the Netherlands is designated by the Kingdom of the Netherlands:
+- a) in case an Airline in the European part of the Netherlands is designated by the Kingdom of the Netherlands:
 
-- (i). the Airline is not established in the Territory of the Kingdom of the Netherlands under European Union Treaties or does not have a valid operating licence in accordance with European Union law; or
+   - (i) the Airline is not established in the Territory of the Kingdom of the Netherlands under European Union Treaties or does not have a valid operating licence in accordance with European Union law; or
 
-- (ii). effective regulatory control of the Airline is not exercised or not maintained by the EU Member State responsible for issuing its Air Operator’s Certificate or the relevant Aeronautical Authority is not clearly identified in the designation; or
+   - (ii) effective regulatory control of the Airline is not exercised or not maintained by the EU Member State responsible for issuing its Air Operator’s Certificate or the relevant Aeronautical Authority is not clearly identified in the designation; or
 
-- (iii). the Airline is not owned, directly or through majority ownership, or is not effectively controlled by Member States of the European Union or the European Free Trade Association and/or by nationals of such States;
+   - (iii) the Airline is not owned, directly or through majority ownership, or is not effectively controlled by Member States of the European Union or the European Free Trade Association and/or by nationals of such States;
 
-- b). in case an Airline in the Caribbean part of the Netherlands, is designated by the Kingdom of the Netherlands:
+- b) in case an Airline in the Caribbean part of the Netherlands, is designated by the Kingdom of the Netherlands:
 
-- (i). the Airline is not established in the Caribbean part of the Netherlands and does not have a valid operating license in accordance with the appropriate legislation for the Caribbean part of the Netherlands; or
+   - (i) the Airline is not established in the Caribbean part of the Netherlands and does not have a valid operating license in accordance with the appropriate legislation for the Caribbean part of the Netherlands; or
 
-- (ii). effective regulatory control of the Airline is not exercised or not maintained by the Netherlands; or
+   - (ii) effective regulatory control of the Airline is not exercised or not maintained by the Netherlands; or
 
-- (iii). the Airline is not owned, directly or through majority ownership, or is not effectively controlled by residents of the Caribbean part of the Netherlands;
+   - (iii) the Airline is not owned, directly or through majority ownership, or is not effectively controlled by residents of the Caribbean part of the Netherlands;
 
-- c). in case an Airline is designated by the Cooperative Republic of Guyana:
+- c) in case an Airline is designated by the Cooperative Republic of Guyana:
 
-- (i). the Airline is not established in the Territory of the Cooperative Republic of Guyana or does not have a valid Operating Licence from a Member State of Caricom in accordance with the applicable law of that State; or
+   - (i) the Airline is not established in the Territory of the Cooperative Republic of Guyana or does not have a valid Operating Licence from a Member State of Caricom in accordance with the applicable law of that State; or
 
-- (ii). effective regulatory control of the Airline is not exercised or not maintained by the Member State of Caricom responsible for issuing its Air Operator’s Certificate or the relevant Aeronautical Authority is not clearly identified in the designation; or
+   - (ii) effective regulatory control of the Airline is not exercised or not maintained by the Member State of Caricom responsible for issuing its Air Operator’s Certificate or the relevant Aeronautical Authority is not clearly identified in the designation; or
 
-- (iii). the Airline is not owned, directly or through majority ownership, or is not effectively controlled by a Caricom Member State and/or by nationals of such State;
+   - (iii) the Airline is not owned, directly or through majority ownership, or is not effectively controlled by a Caricom Member State and/or by nationals of such State;
 
-- d). in case the Airline has failed to comply with the laws and regulations referred to in [Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&hoofdstuk=V&artikel=13&z=2023-10-01&g=2023-10-01) (Application of Laws, Regulations and Procedures) of this Agreement;
+- d) in case the Airline has failed to comply with the laws and regulations referred to in [Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&hoofdstuk=V&artikel=13&z=2023-10-01&g=2023-10-01) (Application of Laws, Regulations and Procedures) of this Agreement;
 
-- e). in any case the Airline is not maintaining and administering the standards set forth in this Agreement, especially in [Articles 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&artikel=15&z=2023-10-01&g=2023-10-01) (Safety) and [16](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&artikel=16&z=2023-10-01&g=2023-10-01) (Security) of this Agreement;
+- e) in any case the Airline is not maintaining and administering the standards set forth in this Agreement, especially in [Articles 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&artikel=15&z=2023-10-01&g=2023-10-01) (Safety) and [16](https://wetten.overheid.nl/jci1.3:c:BWBV0006945&artikel=16&z=2023-10-01&g=2023-10-01) (Security) of this Agreement;
 
-- f). in the event of failure by such Airline to qualify before the Aeronautical Authorities of the Contracting Party assessing the authorization, under the laws and regulations normally and reasonably applied to the operation of International Air Services by these Authorities in conformity with the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507); or
+- f) in the event of failure by such Airline to qualify before the Aeronautical Authorities of the Contracting Party assessing the authorization, under the laws and regulations normally and reasonably applied to the operation of International Air Services by these Authorities in conformity with the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507); or
 
-- g). in case the Airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
+- g) in case the Airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
 
 2. Unless immediate action is essential to prevent further non-compliance with the conditions as referred to in paragraph 1 of this Article, the rights established by this Article shall be exercised only after consultation with the other Contracting Party. Unless otherwise agreed by the Contracting Parties, such consultations shall begin within a period of sixty (60) days from the date of receipt of the request.
 
@@ -198,19 +161,19 @@ Have agreed as follows:
 
 1. Each Contracting Party shall allow Tariffs for air transportation to be established by each Designated Airline based upon commercial considerations in the marketplace. Intervention by the Contracting Parties shall be limited to:
 
-- a). prevention of unreasonably discriminatory Tariffs or practices;
+- a) prevention of unreasonably discriminatory Tariffs or practices;
 
-- b). protection of consumers from Tariffs that are unreasonably high or restrictive due to the abuse of a dominant position; and
+- b) protection of consumers from Tariffs that are unreasonably high or restrictive due to the abuse of a dominant position; and
 
-- c). protection of Airlines from Tariffs that are artificially low due to direct or indirect governmental subsidy or support.
+- c) protection of Airlines from Tariffs that are artificially low due to direct or indirect governmental subsidy or support.
 
 2. Each Contracting Party may require, for information purposes only and on a non-discriminatory basis, the notification or prior filing with its Aeronautical Authorities, of Tariffs to be charged to or from its Territory by Designated Airlines of both Contracting Parties. Such filing by or on behalf of the Designated Airlines may be required at least thirty (30) days before the proposed date of effectiveness. In individual cases, filing may be permitted on shorter notice than normally required. If a Contracting Party permits a Designated Airline to file a Tariff on short notice, the Tariff shall become effective on the proposed date for traffic originating in the Territory of that Contracting Party.
 
 3. Neither Contracting Party shall take unilateral action to prevent the inauguration or continuation of a Tariff charged or proposed to be charged by:
 
-- a). an Airline of either Contracting Party for International Air Services between the Territories of the Contracting Parties; or
+- a) an Airline of either Contracting Party for International Air Services between the Territories of the Contracting Parties; or
 
-- b). an Airline of one Contracting Party for International Air Services between the Territory of the other Contracting Party and that of any other country.
+- b) an Airline of one Contracting Party for International Air Services between the Territory of the other Contracting Party and that of any other country.
 
 4. If either Contracting Party considers any such Tariff inconsistent with the considerations set forth in paragraph 1 of this Article, it shall request consultations and notify the other Contracting Party of the reasons for its dissatisfaction as soon as possible. These consultations shall be held not later than thirty (30) days after receipt of the request, and the Contracting Parties shall co-operate in securing information necessary for reasoned resolution of the issue. If the Contracting Parties reach agreement with respect to a Tariff for which a notice of dissatisfaction has been given, each Contracting Party shall use its best efforts to put that agreement into effect. Without such mutual agreement, the new Tariff shall neither take effect nor continue to be in effect.
 
@@ -218,11 +181,11 @@ Have agreed as follows:
 
 1. The Designated Airline(s) of each Contracting Party shall be allowed:
 
-- a). to establish in the Territory of the other Contracting Party offices for the promotion and sale of air transportation and ancillary or supplemental services (including the right to sell and to issue any ticket and/or air waybill, both its own tickets and/or air waybills and of any other Airline) as well as other facilities required for the provision of air transportation;
+- a) to establish in the Territory of the other Contracting Party offices for the promotion and sale of air transportation and ancillary or supplemental services (including the right to sell and to issue any ticket and/or air waybill, both its own tickets and/or air waybills and of any other Airline) as well as other facilities required for the provision of air transportation;
 
-- b). in the Territory of the other Contracting Party to engage directly and, at its discretion, through its agents, and/or other Airlines in the sale of air transportation and ancillary or supplemental services;
+- b) in the Territory of the other Contracting Party to engage directly and, at its discretion, through its agents, and/or other Airlines in the sale of air transportation and ancillary or supplemental services;
 
-- c). to sell such transportation and ancillary or supplemental services and any person shall be free to purchase such transportation or services in any currency.
+- c) to sell such transportation and ancillary or supplemental services and any person shall be free to purchase such transportation or services in any currency.
 
 2. The Designated Airline(s) of each Contracting Party shall be allowed to bring in and maintain in the Territory of the other Contracting Party its managerial, commercial, operational and technical staff as it may require in connection with the provision of air transportation and ancillary or supplemental services.
 
@@ -232,25 +195,25 @@ Have agreed as follows:
 
 5. In operating or holding out the Air Services on the Specified Routes, each Designated Airline of a Contracting Party may enter into commercial and/or cooperative marketing arrangements under the following conditions:
 
-- a). the commercial and/or cooperative marketing arrangements may include, but shall not be limited to blocked-space, code-sharing and leasing arrangements, with:
+- a) the commercial and/or cooperative marketing arrangements may include, but shall not be limited to blocked-space, code-sharing and leasing arrangements, with:
 
-- (i). Airline(s) of the same Contracting Party;
+   - (i) Airline(s) of the same Contracting Party;
 
-- (ii). Airline(s) of the other Contracting Party, including domestic code share;
+   - (ii) Airline(s) of the other Contracting Party, including domestic code share;
 
-- (iii). Airline(s) of a third country;
+   - (iii) Airline(s) of a third country;
 
-- (iv). A cargo surface transportation provider of any country.
+   - (iv) A cargo surface transportation provider of any country.
 
-- b). the operating Airline(s) involved in the co-operative marketing arrangements shall hold the underlying traffic rights including the route rights and the Capacity entitlements and meet the requirements normally applied to such arrangements;
+- b) the operating Airline(s) involved in the co-operative marketing arrangements shall hold the underlying traffic rights including the route rights and the Capacity entitlements and meet the requirements normally applied to such arrangements;
 
-- c). all marketing Airlines involved in the co-operative arrangements shall hold the underlying route rights and meet the requirements normally applied to such arrangements;
+- c) all marketing Airlines involved in the co-operative arrangements shall hold the underlying route rights and meet the requirements normally applied to such arrangements;
 
-- d). the total Capacity operated by the Air Services performed under such arrangements shall be counted only against the Capacity entitlement of the Contracting Party designating the operating Airline(s). The Capacity offered by the marketing Airline(s) on such services shall not be counted against the Capacity entitlement of the Contracting Party designating that Airline;
+- d) the total Capacity operated by the Air Services performed under such arrangements shall be counted only against the Capacity entitlement of the Contracting Party designating the operating Airline(s). The Capacity offered by the marketing Airline(s) on such services shall not be counted against the Capacity entitlement of the Contracting Party designating that Airline;
 
-- e). when holding out Air Services for sale under such arrangements, the Airline concerned or its agent shall make it clear to the purchaser at the point of sale as to which Airline shall be the operating Airline on each sector of the service and with which Airline(s) the purchaser is entering into a contractual relationship;
+- e) when holding out Air Services for sale under such arrangements, the Airline concerned or its agent shall make it clear to the purchaser at the point of sale as to which Airline shall be the operating Airline on each sector of the service and with which Airline(s) the purchaser is entering into a contractual relationship;
 
-- f). these provisions shall be applicable to passenger, combination and all-cargo services.
+- f) these provisions shall be applicable to passenger, combination and all-cargo services.
 
 6. Notwithstanding any other provision of this Agreement, the Designated Airline(s) and indirect providers of air transportation of either of the Contracting Parties shall be permitted, without restriction, to employ in connection with international air transportation any surface transportation for passengers, baggage, cargo and mail to or from any points in the Territory of either of the Contracting Parties or in third countries, including transport to and from all airports with customs facilities, and including, where applicable, the right to transport cargo and mail in bond under applicable laws and regulations.
 
@@ -350,9 +313,9 @@ The items referred to above may be required to be kept under customs supervision
 
 4. If any such ramp inspection or series of ramp inspections gives rise to:
 
-- a). serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507); or
+- a) serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507); or
 
-- b). serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507),
+- b) serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507),
 
 the Contracting Party carrying out the inspection shall, for the purpose of [Article 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33), be free to conclude that the requirements under which the certificates or licenses in respect of that aircraft or in respect of the crew of that aircraft had been issued or rendered valid, or that the requirements under which that aircraft is operated, are not equal to or above the minimum standards established pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507).
 
@@ -366,7 +329,7 @@ the Contracting Party carrying out the inspection shall, for the purpose of [Art
 
 ##### Article 16. Aviation Security
 
-1. The Contracting Parties reaffirm, consistent with their rights and obligations under international law, that their mutual obligations to protect the safety of civil aviation against acts of unlawful interference form an integral part of this Agreement. Without limiting the generality of their rights and obligations under international law, the Contracting Parties shall act specifically in conformity with the provisions of the [Convention on Offences and Certain Other Acts Committed on Board Aircraft](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), signed at Tokyo on 14 September 1963, the [Convention for the Suppression of Unlawful Seizure of Aircraft](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), signed at The Hague on 16 December 1970, the [Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), signed at Montreal on 23 September 1971, its supplementary Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, signed at Montreal on 24 February 1988, the [Convention on the Marking of Plastic Explosives for the Purpose of Detection](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), signed at Montreal on 1 March 1991, and any other convention on aviation security to which the Contracting Parties shall become party.
+1. The Contracting Parties reaffirm, consistent with their rights and obligations under international law, that their mutual obligations to protect the safety of civil aviation against acts of unlawful interference form an integral part of this Agreement. Without limiting the generality of their rights and obligations under international law, the Contracting Parties shall act specifically in conformity with the provisions of the [Convention on Offences and Certain Other Acts Committed on Board Aircraft](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), signed at Tokyo on 14 September 1963, the [Convention for the Suppression of Unlawful Seizure of Aircraft](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), signed at The Hague on 16 December 1970, the [Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), signed at Montreal on 23 September 1971, its supplementary Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, signed at Montreal on 24 February 1988, the [Convention on the Marking of Plastic Explosives for the Purpose of Detection](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), signed at Montreal on 1 March 1991, and any other convention on aviation security to which the Contracting Parties shall become party.
 
 2. The Contracting Parties shall provide upon request all necessary assistance to each other to prevent acts of unlawful seizure of civil aircraft and other unlawful acts against the safety of such aircraft, their passengers and crew, airports and air navigation facilities, and any other threat to the security of civil aviation.
 
@@ -438,10 +401,10 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 DONE in Georgetown on 8 December 2021, in duplicate, in the English language.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 HENK ARY CHRISTIAN VAN DER ZWAN
 
-**For the Cooperative Republic of Guyana,**
+*For the Cooperative Republic of Guyana,*
 
 HUGH HILTON TODD

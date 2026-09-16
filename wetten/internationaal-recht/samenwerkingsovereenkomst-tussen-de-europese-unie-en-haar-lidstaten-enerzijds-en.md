@@ -1,114 +1,19 @@
 ---
 title: "Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, inzake de Europese satellietnavigatieprogramma's"
 identifier: "BWBV0006317"
-categorie: "Overig"
+categorie: "Internationaal recht"
+soort: "verdrag"
 publicatiedatum: 2025-12-01
-laatste_update: 2026-06-02
+laatste_update: 2025-12-01
 status: geldig
+toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBV0006317"
+opgehaald: 2026-09-16
 ---
 
 # Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, inzake de Europese satellietnavigatieprogramma's
 
-De Europese Unie
-
-en
-
-Het Koninkrijk België,
-
-De Republiek Bulgarije,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-Ierland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-De Republiek Kroatië,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-Hongarije,
-
-Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-Roemenië,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna „lidstaten” genoemd, enerzijds,
-
-en
-
-De Zwitserse Bondsstaat, hierna „Zwitserland” genoemd, anderzijds, hierna „partij” of „partijen” genoemd,
-
-Gezien het gemeenschappelijke belang bij de ontwikkeling van een mondiaal navigatiesatellietsysteem (hierna „GNSS” genoemd) dat specifiek voor civiele doeleinden is ontworpen,
-
-Erkennende het belang van de Europese GNSS-programma's als een bijdrage tot de navigatie- en informatie-infrastructuur in de Europese Unie en Zwitserland,
-
-Gezien de toenemende ontwikkeling van GNSS-toepassingen in de Europese Unie, Zwitserland en andere gebieden in de wereld,
-
-Gezien het gemeenschappelijke belang bij de samenwerking op lange termijn tussen de Europese Unie, haar lidstaten en Zwitserland op het gebied van satellietnavigatie,
-
-Erkennende de nauwe deelname van Zwitserland aan de Galileo- en Egnos-programma's sinds de definitiefasen ervan,
-
-Gezien de resoluties van de Ruimteraad, met name „Resolutie betreffende het Europees ruimtevaartbeleid”, vastgesteld op 22 mei 2007, en „Vooruitgang boeken met het Europees ruimtevaartbeleid”, vastgesteld op 29 september 2008, waarin de Europese Unie, het Europees Ruimteagentschap (hierna „ESA” genoemd) en hun respectieve lidstaten als de drie belangrijkste actoren van het Europees ruimtevaartbeleid worden erkend, alsmede „Mondiale uitdagingen: volledig benutten van de Europese ruimtesystemen”, vastgesteld op 25 november 2010, waarin de Europese Commissie en ESA worden verzocht de procedure voor deelname aan alle fasen van de samenwerkingsprogramma's voor lidstaten die geen lid van zowel de Europese Unie als ESA zijn, te vereenvoudigen,
-
-Gezien de mededeling van de Commissie „Naar een ruimtevaartstrategie van de Europese Unie ten dienste van de burger” van 4 april 2011,
-
-Wensende formeel samenwerking wat alle aspecten van de Europese GNSS-programma's betreft tot stand te brengen,
-
-Erkennende dat Zwitserland belang heeft bij alle GNSS-diensten, zoals door EGNOS en Galileo aangeboden, met inbegrip van de overheidsdienst („Public Regulated Service”, hierna „PRS” genoemd),
-
-Gezien de overeenkomst van 25 juni 2007 inzake wetenschappelijke en technologische samenwerking tussen de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie, enerzijds, en de Zwitserse Bondsstaat, anderzijds,
-
-Erkennende de overeenkomst van 28 april 2008 tussen de Zwitserse Bondsstaat en de Europese Unie inzake beveiligingsprocedures voor de uitwisseling van gerubriceerde gegevens (hierna „beveiligingsovereenkomst” genoemd),
-
-Overwegende de voordelen van een gelijkwaardig niveau van bescherming van de Europese GNSS en de diensten ervan op de grondgebieden van de partijen,
-
-Erkennende de verplichtingen van de partijen volgens het internationaal recht, met name de verplichtingen van Zwitserland als permanente neutrale staat,
-
-Erkennende dat in [Verordening (EG) nr. 683/2008](32008R0683) van het Europees Parlement en de Raad van 9 juli 2008 betreffende de voortzetting van de uitvoering van de Europese programma's voor navigatie per satelliet (EGNOS en Galileo)3)PB EG L 196 van 24.7.2008, blz. 1. is bepaald dat de Europese Gemeenschap alle materiële en immateriële activa in eigendom heeft die worden gecreëerd of ontwikkeld in het kader van de Europese GNSS-programma's, als omschreven in die verordening,
-
-Gezien Verordening (EU) nr. 912/2010 van het Europees Parlement en de Raad van 22 september 2010 tot oprichting van het Europese GNSS-Agentschap4)PB EU L 276 van 20.10.2010, blz. 11.,
-
-Gezien Besluit nr. 1104/2011/EU van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de voorwaarden voor toegang tot de overheidsdienst (publiek gereguleerde dienst) die wordt aangeboden door het wereldwijde satellietnavigatiesysteem dat is ingevoerd door het Galileo-programma5)PB EU L 287 van 4.11.2011, blz. 1.,
-
-Zijn het volgende overeengekomen:
+*De Europese Unie en Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, Ierland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, De Republiek Kroatië, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna „lidstaten” genoemd, enerzijds, en De Zwitserse Bondsstaat, hierna „Zwitserland” genoemd, anderzijds, hierna „partij” of „partijen” genoemd, Gezien het gemeenschappelijke belang bij de ontwikkeling van een mondiaal navigatiesatellietsysteem (hierna „GNSS” genoemd) dat specifiek voor civiele doeleinden is ontworpen, Erkennende het belang van de Europese GNSS-programma's als een bijdrage tot de navigatie- en informatie-infrastructuur in de Europese Unie en Zwitserland, Gezien de toenemende ontwikkeling van GNSS-toepassingen in de Europese Unie, Zwitserland en andere gebieden in de wereld, Gezien het gemeenschappelijke belang bij de samenwerking op lange termijn tussen de Europese Unie, haar lidstaten en Zwitserland op het gebied van satellietnavigatie, Erkennende de nauwe deelname van Zwitserland aan de Galileo- en Egnos-programma's sinds de definitiefasen ervan, Gezien de resoluties van de Ruimteraad, met name „Resolutie betreffende het Europees ruimtevaartbeleid”, vastgesteld op 22 mei 2007, en „Vooruitgang boeken met het Europees ruimtevaartbeleid”, vastgesteld op 29 september 2008, waarin de Europese Unie, het Europees Ruimteagentschap (hierna „ESA” genoemd) en hun respectieve lidstaten als de drie belangrijkste actoren van het Europees ruimtevaartbeleid worden erkend, alsmede „Mondiale uitdagingen: volledig benutten van de Europese ruimtesystemen”, vastgesteld op 25 november 2010, waarin de Europese Commissie en ESA worden verzocht de procedure voor deelname aan alle fasen van de samenwerkingsprogramma's voor lidstaten die geen lid van zowel de Europese Unie als ESA zijn, te vereenvoudigen, Gezien de mededeling van de Commissie „Naar een ruimtevaartstrategie van de Europese Unie ten dienste van de burger” van 4 april 2011, Wensende formeel samenwerking wat alle aspecten van de Europese GNSS-programma's betreft tot stand te brengen, Erkennende dat Zwitserland belang heeft bij alle GNSS-diensten, zoals door EGNOS en Galileo aangeboden, met inbegrip van de overheidsdienst („Public Regulated Service”, hierna „PRS” genoemd), Gezien de overeenkomst van 25 juni 2007 inzake wetenschappelijke en technologische samenwerking tussen de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie, enerzijds, en de Zwitserse Bondsstaat, anderzijds, Erkennende de overeenkomst van 28 april 2008 tussen de Zwitserse Bondsstaat en de Europese Unie inzake beveiligingsprocedures voor de uitwisseling van gerubriceerde gegevens (hierna „beveiligingsovereenkomst” genoemd), Overwegende de voordelen van een gelijkwaardig niveau van bescherming van de Europese GNSS en de diensten ervan op de grondgebieden van de partijen, Erkennende de verplichtingen van de partijen volgens het internationaal recht, met name de verplichtingen van Zwitserland als permanente neutrale staat, Erkennende dat in Verordening (EG) nr. 683/2008 van het Europees Parlement en de Raad van 9 juli 2008 betreffende de voortzetting van de uitvoering van de Europese programma's voor navigatie per satelliet (EGNOS en Galileo)3)PB EG L 196 van 24.7.2008, blz. 1. is bepaald dat de Europese Gemeenschap alle materiële en immateriële activa in eigendom heeft die worden gecreëerd of ontwikkeld in het kader van de Europese GNSS-programma's, als omschreven in die verordening, Gezien Verordening (EU) nr. 912/2010 van het Europees Parlement en de Raad van 22 september 2010 tot oprichting van het Europese GNSS-Agentschap4)PB EU L 276 van 20.10.2010, blz. 11., Gezien Besluit nr. 1104/2011/EU van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de voorwaarden voor toegang tot de overheidsdienst (publiek gereguleerde dienst) die wordt aangeboden door het wereldwijde satellietnavigatiesysteem dat is ingevoerd door het Galileo-programma5)PB EU L 287 van 4.11.2011, blz. 1., Zijn het volgende overeengekomen:*
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
@@ -138,7 +43,7 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 - 8. „interoperabiliteit”: de geschiktheid van mondiale en regionale navigatiesatellietsystemen en augmentaties, en de erdoor geleverde diensten, om samen gebruikt te kunnen worden, zodat op gebruikersniveau meer mogelijkheden worden geboden dan wanneer uitsluitend op de open dienst van één systeem vertrouwd wordt;
 
-- 9. „intellectuele eigendom”: de betekenis die deze term heeft in [artikel 2, punt viii), van het Verdrag tot oprichting van de Wereldorganisatie voor de Intellectuele Eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004328&artikel=2), ondertekend te Stockholm op 14 juli 1967;
+- 9. „intellectuele eigendom”: de betekenis die deze term heeft in [artikel 2, punt viii), van het Verdrag tot oprichting van de Wereldorganisatie voor de Intellectuele Eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004328&artikel=2), ondertekend te Stockholm op 14 juli 1967;
 
 - 10. „gerubriceerde informatie”: informatie in elke vorm die bescherming vereist tegen onbevoegde openbaarmaking waardoor de wezenlijke belangen, waaronder de nationale veiligheid, van de partijen of van afzonderlijke lidstaten in verschillende mate zouden kunnen worden geschaad. De rubricering ervan wordt aangeduid met een rubriceringsmarkering. Dergelijke informatie wordt door de partijen gerubriceerd in overeenstemming met de van toepassing zijnde wet- en regelgeving en moet tegen elk verlies van vertrouwelijkheid, integriteit en beschikbaarheid worden beschermd.
 
@@ -170,7 +75,7 @@ De partijen passen de volgende beginselen toe op onder deze overeenkomst vallend
 
 ##### Artikel 5. Radiospectrum
 
-1. De partijen zetten de samenwerking en wederzijdse steun in radiospectrumkwesties in het kader van de Internationale Telecommunicatie-unie (hierna „ITU” genoemd) voort, rekening houdend met „Memorandum of Understanding on the Management of ITU filings of the Galileo radio-navigation satellite service system” van 5 november 2004.
+1. De partijen zetten de samenwerking en wederzijdse steun in radiospectrumkwesties in het kader van de Internationale Telecommunicatie-unie (hierna „ITU” genoemd) voort, rekening houdend met „Memorandum of Understanding on the Management of ITU filings of the Galileo radio-navigation satellite service system” van 5 november 2004.
 
 2. De partijen wisselen informatie uit over frequentieaanvragen en beschermen adequate frequentietoewijzingen voor Galileo om de beschikbaarheid van Galileo-diensten ten voordele van gebruikers over de hele wereld, en met name in Zwitserland en de Europese Unie, te verzekeren.
 
@@ -186,7 +91,7 @@ De partijen passen de volgende beginselen toe op onder deze overeenkomst vallend
 
 ##### Artikel 7. Overheidsopdrachten
 
-1. Voor aankopen in verband met de Europese GNSS-programma's gelden voor de partijen de verplichtingen die zij zijn aangegaan uit hoofde van de [Overeenkomst inzake overheidsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBV0001159) (hierna „GPA” genoemd) van de Wereldhandelsorganisatie (hierna „WTO” genoemd) en de Overeenkomst van 21 juni 1999 tussen de Europese Gemeenschap en de Zwitserse Bondsstaat betreffende sommige aspecten van overheidsopdrachten.
+1. Voor aankopen in verband met de Europese GNSS-programma's gelden voor de partijen de verplichtingen die zij zijn aangegaan uit hoofde van de [Overeenkomst inzake overheidsopdrachten](https://wetten.overheid.nl/jci1.3:c:BWBV0001159) (hierna „GPA” genoemd) van de Wereldhandelsorganisatie (hierna „WTO” genoemd) en de Overeenkomst van 21 juni 1999 tussen de Europese Gemeenschap en de Zwitserse Bondsstaat betreffende sommige aspecten van overheidsopdrachten.
 
 2. Onverminderd het bepaalde in [artikel XXIII van de GPA](https://wetten.overheid.nl/jci1.3:c:BWBV0001159&artikel=XXIII) ([artikel III van de herziene GPA](https://wetten.overheid.nl/jci1.3:c:BWBV0001159&artikel=III)), hebben Zwitserse entiteiten het recht deel te nemen aan overheidsopdrachten voor de levering van diensten in verband met de Europese GNSS-programma's.
 
@@ -308,7 +213,7 @@ Onverminderd het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 24. Bijlagen
 
-De bijlagen bij deze overeenkomst maken integrerend deel uit van de overeenkomst.
+De [bijlagen](https://wetten.overheid.nl/BWBR0007049) bij deze overeenkomst maken integrerend deel uit van de overeenkomst.
 
 ##### Artikel 25. Herziening
 
@@ -320,7 +225,7 @@ Deze overeenkomst kan te allen tijde met instemming van de partijen worden gewij
 
 2. Het opzeggen van deze overeenkomst heeft geen invloed op de geldigheid of duur van in het kader van de overeenkomst getroffen regelingen of op specifieke rechten en verplichtingen die op het gebied van intellectuele eigendom zijn ontstaan.
 
-3. In geval van opzegging van deze overeenkomst doet het gemengd comité een voorstel om de partijen in staat te stellen nog resterende kwesties af te ronden, met inbegrip van de financiële gevolgen, waarbij rekening wordt gehouden met het beginsel van **pro rata temporis**.
+3. In geval van opzegging van deze overeenkomst doet het gemengd comité een voorstel om de partijen in staat te stellen nog resterende kwesties af te ronden, met inbegrip van de financiële gevolgen, waarbij rekening wordt gehouden met het beginsel van *pro rata temporis*.
 
 ##### Artikel 27. Inwerkingtreding
 

@@ -1,866 +1,835 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kosovo betreffende de vestiging van de Kosovo Relocated Specialist Judicial Institution in Nederland"
 identifier: "BWBV0006581"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-01-01"
-last_updated: "2017-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006581"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005342293"
-version_id: "10005759262"
-internal_id: "C10009173471"
-label_id: "10005325564"
-dtd_version: "2.0"
-original_entry_into_force: "2017-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006581/2017-01-01/0"
-intitule_bron: "Trb.2016-27"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-02-26"
-intitule_in_force: "2016-11-28"
-intitule_status: "goed"
-original_publication: "Trb.2016-27"
-original_published_date: "2016-02-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2016-27"
-entry_into_force_date: "2017-01-01"
-jci_1_3: "jci1.3:c:BWBV0006581&z=2017-01-01&g=2017-01-01"
-jci_1_0: "1.0:c:BWBV0006581&g=2017-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2017-01-01"
+publicatiedatum: 2017-01-01
+laatste_update: 2017-01-01
+status: geldig
+toestand: 2017-01-01
+bron: "https://wetten.overheid.nl/BWBV0006581"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kosovo betreffende de vestiging van de Kosovo Relocated Specialist Judicial Institution in Nederland
 
-Het Koninkrijk der Nederlanden en de Republiek Kosovo,
+*The Kingdom of the Netherlands and the Republic of Kosovo, Referring to the Constitution of the Republic of Kosovo, as amended by Amendment No. 24 of 3 August 2015, Article 162, authorizing the establishment of Specialist Chambers and a Specialist Prosecutor’s Office in order to comply with the international obligations of the Republic of Kosovo in relation to the Council of Europe Parliamentary Assembly Report Doc 12462 of 7 January 2011; Referring to the exchange of letters between the President of the Republic of Kosovo and the High Representative of the European Union for Foreign Affairs and Security Policy dated 14 April 2014, ratified by Kosovo Law No. 04/L-274 of 15 May 2014, containing the commitment of the Republic of Kosovo to establish Specialist Chambers and a Specialist Prosecutor’s Office within the Kosovo judicial system to be used for trial and appellate proceedings arising from the investigation of the Special Investigative Task Force of the Special Prosecution Office of the Republic of Kosovo related to the Council of Europe Parliamentary Assembly Report Doc 12462 of 7 January 2011 and which may be relocated to a third State subject to the conclusion of a Host State Agreement with the Host State; Referring to Kosovo Law No. 05/L-053 on Specialist Chambers and Specialist Prosecutor’s Office establishing the Specialist Chambers within the Kosovo justice system and the Specialist Prosecutor’s Office to fulfil Kosovo’s international obligations undertaken in Law No. 04/L-274 in relation to allegations of certain crimes reported in the Council of Europe Parliamentary Assembly Report Doc 12462 of 7 January 2011 and which have been the subject of criminal investigation by the Special Investigative Task Force of the Special Prosecution Office of the Republic of Kosovo; Referring to the Interim Agreement between the Kingdom of the Netherlands and the Republic of Kosovo concerning the Hosting of the Kosovo Relocated Specialist Judicial Institution in the Netherlands of 26 January 2016; Wishing to conclude an agreement on the hosting of the Kosovo Specialist Chambers and Specialist Prosecutor’s Office to ensure the smooth and efficient functioning of the Kosovo Specialist Chambers and Specialist Prosecutor’s Office in the Netherlands; Have agreed as follows:*
 
-Verwijzend naar de Grondwet van de Republiek Kosovo, zoals gewijzigd bij amendement nr. 24 d.d. 3 augustus 2015, machtigt artikel 162 tot instelling van Speciale Kamers en een Speciale Aanklager teneinde te voldoen aan de internationale verplichtingen van de Republiek Kosovo ter zake van het rapport van de Parlementaire Vergadering van de Raad van Europa, doc. 12462 d.d. 7 januari 2011;
+### PART I. GENERAL PROVISIONS
 
-Verwijzend naar de briefwisseling tussen de President van de Republiek Kosovo en de Hoge Vertegenwoordiger van de Europese Unie voor Buitenlandse Zaken en Veiligheidsbeleid d.d. 14 april 2014, bekrachtigd bij wet nr. 04/L-274 van Kosovo d.d.15 mei 2014, met daarin de toezegging van de Republiek Kosovo om Speciale Kamers en een Speciale Aanklager in te stellen binnen het Kosovaarse rechtssysteem ten behoeve van de berechting en de beroepsprocedures die voortvloeien uit het onderzoek van de Special Investigative Taskforce van het bijzondere parket van de Republiek Kosovo in verband met het rapport van de Parlementaire Vergadering van de Raad van Europa, doc. 12462 d.d. 7 januari 2011 en die naar een derde staat verplaatst mogen worden, op basis van sluiting van een zetelverdrag met de gastheerstaat;
+##### Article 1. Use of terms
 
-Verwijzend naar wet nr. 05/L-053 van Kosovo inzake de instelling van Speciale Kamers en een Speciale Aanklager binnen het Kosovaarse rechtssysteem teneinde te voldoen aan de internationale verplichtingen van Kosovo aangegaan bij wet nr. 04/L-274 in verband met aantijgingen omtrent bepaalde misdrijven gerapporteerd aan de Parlementaire Vergadering van de Raad via doc. 12462 d.d. 7 januari 2011 die strafrechtelijk worden onderzocht door de Special Investigative Taskforce van het bijzondere parket van de Republiek Kosovo;
+For the purpose of this Agreement:
 
-Verwijzend naar het [Interim-verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kosovo betreffende de vestiging van de Kosovo Relocated Specialist Judicial Institution](https://wetten.overheid.nl/jci1.3:c:BWBV0006576) in Nederland van 26 januari 2016;
+- a) “the Kosovo Relocated Specialist Judicial Institution” means the relocated Specialist Chambers and Specialist Prosecutor’s Office as established by Kosovo Law No. 05/L-053 on Specialist Chambers and Specialist Prosecutor’s Office adopted on 3 August 2015;
 
-Geleid door de wens een verdrag te sluiten inzake de vestiging van de Speciale Kamers en de Speciale Aanklager van Kosovo teneinde het soepele en efficiënte functioneren van de Speciale Kamers en de Speciale Aanklager van Kosovo in Nederland te waarborgen;
+- b) “Law No. 05/L-053” means Kosovo Law No. 05/L-053 on Specialist Chambers and Specialist Prosecutor’s Office adopted on 3 August 2015;
 
-Zijn het volgende overeengekomen:
+- c) “Host State” means the Kingdom of the Netherlands;
 
-### DEEL I. ALGEMENE BEPALINGEN
+- d) “Parties” means the Republic of Kosovo and the Host State;
 
-##### Artikel 1. Begripsomschrijvingen
+- e) “judges” means the judges of the Kosovo Relocated Specialist Judicial Institution;
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+- f) “the President” means the President of the of the Specialist Chambers referred to as such in Law No. 05/L-053;
 
-- a. „Kosovo Relocated Specialist Judicial Institution” de verplaatste Speciale Kamers en de Speciale Aanklager ingesteld bij wet nr. 05/L-053 van Kosovo inzake Speciale Kamers en de Speciale Aanklager aangenomen op 3 augustus 2015;
+- g) “the Specialist Prosecutor” means the Specialist Prosecutor of the Specialist Prosecutor’s Office referred to in Law No. 05/L-053;
 
-- b. „wet nr. 05/L-053” wet nr. 05/L-053 van Kosovo inzake Speciale Kamers en de Speciale Aanklager aangenomen op 3 augustus 2015;
+- h) “the Deputy Specialist Prosecutor” means the Deputy Prosecutor of the Kosovo Relocated Specialist Judicial Institution referred to in Article 4(3) of Law No. 05/L-053;
 
-- c. „gastheerstaat” het Koninkrijk der Nederlanden;
+- i) “the Registrar” means the Registrar of the Kosovo Relocated Specialist Judicial Institution referred to in Law No. 05/L-053;
 
-- d. „partijen” de Republiek Kosovo en de gastheerstaat;
+- j) “the Deputy Registrar” means the Deputy Registrar of the Kosovo Relocated Specialist Judicial Institution referred to in Article 4(3) of Law No. 05/L-053;
 
-- e. „rechters” de rechters van de Kosovo Relocated Specialist Judicial Institution;
+- k) “EULEX” means the European Union Rule of Law Mission in Kosovo established by European Union Council Joint Action 2008/124/CFSP of 4 February 2008 and operating in the Republic of Kosovo pursuant to exchanges of letters between the President of the Republic of Kosovo and the High Representative of the European Union for Foreign Affairs and Security Policy dated 4 September 2012 and 14 April 2014;
 
-- f. „president” de president van de Speciale Kamers bedoeld in wet nr. 05/L-053;
+- l) “staff” means the staff of the Kosovo Relocated Specialist Judicial Institution including persons seconded and contracted by EULEX to work at the Kosovo Relocated Specialist Judicial Institution;
 
-- g. „Speciale Aanklager” de Speciale Aanklager van het speciale parket bedoeld in wet nr. 05/L-053;
+- m) “witnesses”, “victims” and “experts” means persons designated as such by the Kosovo Relocated Specialist Judicial Institution;
 
-- h. „plaatsvervangend Speciale Aanklager” de plaatsvervanger van de Speciale Aanklager van de Kosovo Relocated Specialist Judicial Institution bedoeld in artikel 4(3) van wet nr. 05/L-053;
+- n) “counsel” means defence counsel and victims counsel;
 
-- i. „griffier” de griffier van de Kosovo Relocated Specialist Judicial Institution bedoeld in wet nr. 05/L-053;
+- o) “suspect” means a person referred to as such in Law No. 05/L-053;
 
-- j. „plaatsvervangend griffier” de plaatsvervangend griffier van de Kosovo Relocated Specialist Judicial Institution bedoeld in artikel 4(3) van wet nr. 05/L-053;
+- p) “accused” means a person referred to as such in Law No. 05/L-053;
 
-- k. „EULEX” de rechtsstaatmissie van de Europese Unie in Kosovo, ingesteld bij het Gemeenschappelijk optreden van de Europese Unie 2008/124/GBVB d.d. 4 februari 2008, werkzaam in de Republiek Kosovo uit hoofde van de briefwisseling tussen de President van de Republiek Kosovo en de Hoge Vertegenwoordiger van de Europese Unie voor Buitenlandse Zaken en Veiligheidsbeleid d.d. 4 september 2012 en 14 april 2014;
+- q) “interns” means undergraduates or postgraduates who, not being staff, have been accepted by the Kosovo Relocated Specialist Judicial Institution into its internship programme for the purpose of performing certain tasks on a temporary basis in the Specialist Chambers, the Specialist Prosecutor’s Office or the Registry;
 
-- l. „personeel” de medewerkers van de Kosovo Relocated Specialist Judicial Institution met inbegrip van personen gedetacheerd en ingehuurd door EULEX voor werkzaamheden bij de Kosovo Relocated Specialist Judicial Institution;
+- r) “premises” means buildings, parts of buildings and areas, including installations and facilities made available to, maintained, occupied or used by the Kosovo Relocated Specialist Judicial Institution in the Host State in connection with its functions and purposes, including the detention of a person;
 
-- m. „getuigen”, „slachtoffers” en „deskundigen” personen die als zodanig zijn aangewezen door de Kosovo Relocated Specialist Judicial Institution;
+- s) “private servant” means domestic worker in the personal employ of a judge, the Specialist Prosecutor, the Deputy Prosecutor, the Registrar, the Deputy Registrar, or, in consultation with the Host State, staff of a comparable rank to a diplomatic agent under the Vienna Convention, whose stay in the Netherlands is tied to the stay of the judge, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar or such staff;
 
-- n. „raadslieden” de raadslieden voor de verdediging en raadslieden voor de slachtoffers;
+- t) “family member forming part of the household” means the person defined as such in the Protocol Guide of the Netherlands in accordance with the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- o. „verdachte” een persoon die als zodanig in wet nr. 05/L-053 wordt aangeduid;
+- u) “Ministry of Foreign Affairs” means the Ministry of Foreign Affairs of the Kingdom of the Netherlands;
 
-- p. „in staat van beschuldiging gesteld zijnde aangeklaagde” een persoon die als zodanig wordt aangeduid in wet nr. 05/L-053;
+- v) “competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the Host State;
 
-- q. „stagiairs” studenten of afgestudeerden die niet tot het personeel behoren en door de Kosovo Relocated Specialist Judicial Institution zijn toegelaten tot het stageprogramma voor het op tijdelijke basis verrichten van bepaalde taken voor de Speciale Kamers, de Speciale Aanklager of de griffie;
+- w) “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961;
 
-- r. „terrein” de gebouwen, delen van gebouwen en gebieden, met inbegrip van installaties en faciliteiten die de Kosovo Relocated Specialist Judicial Institution in overleg met de gastheerstaat ter beschikking worden gesteld of door de Kosovo Relocated Specialist Judicial Institution worden onderhouden, betrokken of gebruikt in de gastheerstaat in verband met haar taken en doelstellingen, waaronder de detentie van een persoon;
+- x) “Interim Agreement” means the [Interim Agreement between the Kingdom of the Netherlands and the Republic of Kosovo concerning the Hosting of the Kosovo Relocated Specialist Judicial Institution in the Netherlands](https://wetten.overheid.nl/jci1.3:c:BWBV0006576) of 26 January 2016.
 
-- s. „medewerkers in persoonlijke dienst” lokale medewerkers in persoonlijke dienst van een rechter, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier, de plaatsvervangend griffier of, in overleg met de gastheerstaat, medewerkers van een met diplomatiek personeel vergelijkbare rang uit hoofde van het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), wier verblijf gekoppeld is aan het verblijf van de rechter, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier, de plaatsvervangend griffier of daarmee vergelijkbare functionarissen;
+##### Article 2. Purpose and scope of this Agreement
 
-- t. „gezinsleden die deel uitmaken van de huishouding” personen als zodanig omschreven in de Protocolgids van Nederland in overeenstemming met het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) inzake diplomatiek verkeer;
+This Agreement shall regulate matters relating to or arising out of the presence and the proper functioning of the Kosovo Relocated Specialist Judicial Institution in the Host State. It shall, *inter alia*, create conditions conducive to the stability and independence of the Kosovo Relocated Specialist Judicial Institution and facilitate its smooth and efficient functioning.
 
-- u. „ministerie van Buitenlandse Zaken” het ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden;
+##### Article 3. Seat of the Kosovo Relocated Specialist Judicial Institution
 
-- v. „bevoegde autoriteiten” de nationale, provinciale, gemeentelijke en overige bevoegde autoriteiten uit hoofde van de wet- en regelgeving en gebruiken van de gastheerstaat;
+The Kosovo Relocated Specialist Judicial Institution shall have a seat in the Host State.
 
-- w. „Verdrag van Wenen”, het [Verdrag van Wenen inzake Diplomatiek Verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) van 18 april 1961;
+##### Article 4. Hosting and jurisdiction of the Kosovo Relocated Specialist Judicial Institution
 
-- x. „Interim-verdrag” het [Interim-verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kosovo betreffende de vestiging van de Kosovo Relocated Specialist Judicial Institution](https://wetten.overheid.nl/jci1.3:c:BWBV0006576) in Nederland van 26 januari 2016.
+The Kingdom of the Netherlands undertakes to host the Kosovo Relocated Specialist Judicial Institution for the sole purpose, and for the duration, of the relocated criminal proceedings in the Netherlands, in accordance with Law No. 05/L-053. The jurisdiction of the Kosovo Relocated Specialist Judicial Institution is limited to these proceedings.
 
-##### Artikel 2. Doelstellingen en reikwijdte van dit Verdrag
+##### Article 5. Detention in the Netherlands
 
-Dit Verdrag regelt alle zaken die verband houden met of voortvloeien uit de instelling en het naar behoren functioneren van de Kosovo Relocated Specialist Judicial Institution in de gastheerstaat. Het regelt onder meer de voorwaarden die bijdragen aan de stabiliteit en onafhankelijkheid van de Kosovo Relocated Specialist Judicial Institution en bevordert het soepel en efficiënt functioneren ervan.
+1. The Host State shall allow the detention of persons, whose arrest and detention as suspects or accused is ordered by the Kosovo Relocated Specialist Judicial Institution in accordance with Law No. 05/L-053. The detention of other persons is not permitted in the Host State, except in so far as the Kosovo Relocated Specialist Judicial Institution orders:
 
-##### Artikel 3. Zetel van de Kosovo Relocated Specialist Judicial Institution
+- a) the temporary detention of witnesses transferred in custody to the premises of the Kosovo Relocated Specialist Judicial Institution;
 
-Een zetel van de Kosovo Relocated Specialist Judicial Institution bevindt zich in de gastheerstaat.
+- b) the temporary detention of witnesses in the course of their evidence, including for contempt of court;
 
-##### Artikel 4. Vestiging en bevoegdheid van de Kosovo Relocated Specialist Judicial Institution
+- c) the continued detention of persons pending transfer on the basis of [Articles 43](https://wetten.overheid.nl/BWBV0006581) or [44](https://wetten.overheid.nl/BWBV0006581) of this Agreement.
 
-Het Koninkrijk der Nederlanden verplicht zich de Kosovo Relocated Specialist Judicial Institution te huisvesten uitsluitend ten behoeve van en gedurende de strafrechtelijke procedures die in overeenstemming met wet nr. 05/L-053 zijn verplaatst naar Nederland. De bevoegdheid van de Kosovo Relocated Specialist Judicial Institution is beperkt tot deze procedures.
+2. The Host State shall facilitate detention within the premises of the Kosovo Relocated Specialist Judicial Institution. The detention within the premises of the Kosovo Relocated Specialist Judicial Institution shall end upon the termination of this Agreement.
 
-##### Artikel 5. Detentie in Nederland
+3. The Host State shall, in accordance with the procedures under its national law and at the request of the Kosovo Relocated Specialist Judicial Institution, arrest on its territory and surrender to the Kosovo Relocated Specialist Judicial Institution any person who has escaped detention from the premises of the Kosovo Relocated Specialist Judicial Institution or has evaded such detention during transport in the territory of the Host State.
 
-1. De gastheerstaat staat toe dat personen wier arrestatie en detentie als verdachte of in staat van beschuldiging gesteld zijnde aangeklaagde is gelast door de Kosovo Relocated Specialist Judicial Institution in overeenstemming met wet nr. 05/L-053 worden gedetineerd. Detentie van andere personen in de gastheerstaat is niet toegestaan, tenzij de Kosovo Relocated Specialist Judicial Institution het volgende heeft gelast:
+### PART II. STATUS OF THE KOSOVO RELOCATED SPECIALIST JUDICIAL INSTITUTION
 
-- a. tijdelijke detentie van getuigen in hechtenis die zijn overgebracht naar het terrein van de Kosovo Relocated Specialist Judicial Institution;
+##### Article 6. Juridical personality
 
-- b. tijdelijke detentie van getuigen in het kader van hun getuigenverklaring, alsmede vanwege minachting van het hof;
+1. The Kosovo Relocated Specialist Judicial Institution shall possess in the Host State full juridical personality. This shall, in particular, include the capacity:
 
-- c. voortzetting van de detentie van personen in afwachting van overbrenging op grond van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=43&z=2017-01-01&g=2017-01-01) of [44](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=44&z=2017-01-01&g=2017-01-01) van dit Verdrag.
+- a) to contract;
 
-2. De gastheerstaat faciliteert detentie op het terrein van de Kosovo Relocated Specialist Judicial Institution. Detentie op het terrein van de Kosovo Relocated Specialist Judicial Institution eindigt met de beëindiging van dit Verdrag.
+- b) to acquire and dispose of movable and immovable property;
 
-3. In overeenstemming met de procedures uit hoofde van zijn nationale recht en op verzoek van de Kosovo Relocated Specialist Judicial Institution houdt de gastheerstaat personen aan op zijn grondgebied die zijn ontsnapt uit detentie op het terrein van de Kosovo Relocated Specialist Judicial Institution of gedurende de overbrenging binnen het grondgebied van de gastheerstaat zijn ontkomen aan detentie en draagt hen over aan de Kosovo Relocated Specialist Judicial Institution.
+- c) to institute proceedings; and
 
-### DEEL II. STATUS VAN DE KOSOVO RELOCATED SPECIALIST JUDICIAL INSTITUTION
+- d) to enter into arrangements as may be necessary for the exercise of its functions and operation.
 
-##### Artikel 6. Rechtspersoonlijkheid
+2. For the purposes of this Article, and without prejudice to the powers of the Specialist Prosecutor under Article 35 of Law No. 05/L-053, the Kosovo Relocated Specialist Judicial Institution shall be represented by the Registrar.
 
-1. De Kosovo Relocated Specialist Judicial Institution bezit volledige rechtspersoonlijkheid in de gastheerstaat. De instantie heeft, met name, de bevoegdheid:
+##### Article 7. Privileges, immunities and facilities
 
-- a. overeenkomsten te sluiten;
+The Kosovo Relocated Specialist Judicial Institution shall enjoy, in the territory of the Host State, such privileges, immunities and facilities as are necessary for the fulfillment of its purposes.
 
-- b. roerende en onroerende zaken te verwerven en te vervreemden;
+##### Article 8. Inviolability of the premises
 
-- c. rechtsgedingen in te stellen; en
+1. The premises shall be inviolable. The competent authorities shall ensure that the Kosovo Relocated Specialist Judicial Institution is not dispossessed and/or deprived of any part of its premises without its express consent.
 
-- d. de nodige regelingen te treffen die noodzakelijk kunnen zijn ten behoeve van het verrichten van haar taken en haar functioneren.
+2. The competent authorities shall not enter the premises to perform any official duty, except with the express consent, or at the request of the Registrar, or a staff member designated by him or her. Judicial actions and the service or execution of legal process, including the seizure of private property, cannot be enforced on the premises except with the consent of, and in accordance with conditions approved by, the Registrar, or a staff member designated by him or her.
 
-2. Voor de toepassing van dit artikel en onverminderd de bevoegdheden van de Speciale Aanklager uit hoofde van artikel 35 van wet nr. 05/L-053 wordt de Kosovo Relocated Specialist Judicial Institution vertegenwoordigd door de griffier.
+3. In case of fire or other emergency requiring prompt protective action, or in the event that the competent authorities have reasonable cause to believe that such an emergency has occurred or is about to occur on the premises, the consent of the Registrar, or a staff member designated by him or her, to any necessary entry into the premises shall be presumed if neither of them can be contacted in time.
 
-##### Artikel 7. Voorrechten, immuniteiten en faciliteiten
+4. Subject to paragraphs 1, 2 and 3 of this Article, the competent authorities shall take the necessary action to protect the premises against fire or other emergency.
 
-De Kosovo Relocated Specialist Judicial Institution geniet op het grondgebied van de gastheerstaat de voorrechten, immuniteiten en faciliteiten die noodzakelijk zijn voor de verwezenlijking van haar doelstellingen.
+5. The Kosovo Relocated Specialist Judicial Institution shall prevent its premises from being used as a refuge by persons who are avoiding arrest or the proper administration of justice under any law of the Host State.
 
-##### Artikel 8. Onschendbaarheid van het terrein
+##### Article 9. Protection of the premises and their vicinity
 
-1. Het terrein is onschendbaar. De bevoegde autoriteiten waarborgen dat het terrein niet geheel of gedeeltelijk wordt onteigend of aan Kosovo Relocated Specialist Judicial Institution wordt ontzegd zonder haar uitdrukkelijke toestemming.
+1. The competent authorities shall take all effective and adequate measures to ensure the security and protection of the Kosovo Relocated Specialist Judicial Institution and to ensure that the tranquility of the Kosovo Relocated Specialist Judicial Institution is not disturbed by the intrusion of persons or groups from outside the premises or by disturbances in their immediate vicinity, and shall provide to the premises the appropriate protection as may be required.
 
-2. De bevoegde autoriteiten betreden het terrein niet voor het vervullen van een officiële taak tenzij dit geschiedt met de uitdrukkelijke instemming of op verzoek van de griffier of een door hem of haar aangewezen lid van het personeel. Op het terrein vinden geen gerechtelijke acties en geen betekening of tenuitvoerlegging ter zake van rechtsvervolging plaats, met inbegrip van de inbeslagneming van privé-eigendommen, behoudens met instemming van de griffier of een door hem of haar aangewezen lid van het personeel en in overeenstemming met de door hem of haar goedgekeurde voorwaarden.
+2. If so requested by the Registrar, the competent authorities shall, in consultation with the Registrar, to the extent it is deemed necessary, provide adequate protection, including police protection, for the preservation of law and order on the premises or in the immediate vicinity thereof, and for the removal of persons therefrom.
 
-3. In het geval van brand of andere noodgevallen die onmiddellijk beschermend optreden vereisen, of indien de bevoegde autoriteiten in redelijkheid kunnen aannemen dat een dergelijk noodgeval zich heeft voorgedaan of op het punt staat zich voor te doen op het terrein, wordt de instemming van de griffier of een door hem of haar aangewezen lid van het personeel voor de noodzakelijke toegang tot het terrein geacht te zijn gegeven indien geen van beiden op tijd kan worden bereikt.
+3. The competent authorities shall take all reasonable steps to ensure that the amenities of the premises are not prejudiced and that the purposes for which the premises are required are not obstructed by any use made of the land or buildings in the vicinity of the premises.
 
-4. Onverminderd het bepaalde in het eerste, tweede en derde lid van dit artikel, nemen de bevoegde autoriteiten de nodige stappen om het terrein tegen brand of ander onheil te beveiligen.
+4. The Kosovo Relocated Specialist Judicial Institution shall take all reasonable steps to ensure that the amenities of the land in the vicinity of the premises are not prejudiced by any use made of the land or buildings in the premises.
 
-5. De Kosovo Relocated Specialist Judicial Institution voorkomt dat haar terrein gebruikt wordt als toevluchtsoord voor personen die arrestatie of berechting op grond van enige wet van de gastheerstaat willen ontlopen.
+5. The Kosovo Relocated Specialist Judicial Institution shall provide the competent authorities with all information relevant to the security and protection of the premises.
 
-##### Artikel 9. Bescherming van het terrein en de omgeving daarvan
+##### Article 10. Law and authority on the premises
 
-1. De bevoegde autoriteiten nemen alle doeltreffende en adequate maatregelen om de beveiliging en bescherming van de Kosovo Relocated Specialist Judicial Institution te waarborgen en ervoor te zorgen dat de rust van de Kosovo Relocated Specialist Judicial Institution niet wordt verstoord door personen of groepen die het terrein betreden of door ordeverstoring in de onmiddellijke omgeving van het terrein, en voorzien het terrein van de eventueel benodigde bescherming.
+1. The premises shall be under the control and authority of the Kosovo Relocated Specialist Judicial Institution, as provided in this Agreement.
 
-2. Indien de griffier daarom verzoekt, voorzien de bevoegde autoriteiten, in overleg met de griffier en voor zover dit noodzakelijk wordt geacht, in voldoende bescherming, met inbegrip van politiebescherming, voor de handhaving van de openbare orde op het terrein of in de onmiddellijke omgeving daarvan, en voor het verwijderen van personen van deze locatie.
+2. Except as otherwise provided in this Agreement, the laws and regulations of the Host State shall apply on the premises.
 
-3. De bevoegde autoriteiten treffen alle redelijke maatregelen om te waarborgen dat het ongestoord gebruik van het terrein niet nadelig wordt beïnvloed en dat het terrein kan worden gebruikt voor de doeleinden waarvoor het is bestemd zonder te worden belemmerd door de wijze van gebruik van de percelen of gebouwen in de omgeving van het terrein.
+3. The Kosovo Relocated Specialist Judicial Institution shall have the power to make its own rules and regulations, operative within its premises, including on the conditions applicable to its staff, as are necessary for the carrying out of its functions. The Kosovo Relocated Specialist Judicial Institution shall promptly inform the competent authorities upon the adoption of such regulations. No laws or regulations of the Host State which are inconsistent with regulations of the Kosovo Relocated Specialist Judicial Institution under this paragraph shall, to the extent of such inconsistency, be applicable within the premises.
 
-4. De Kosovo Relocated Specialist Judicial Institution treft alle redelijke maatregelen om te waarborgen dat het ongestoord gebruik van de percelen in de omgeving van het terrein niet nadelig wordt beïnvloed door de wijze van gebruik van de percelen of gebouwen van het terrein.
+4. The Kosovo Relocated Specialist Judicial Institution may expel or exclude persons from the premises for violation of the applicable rules or regulations and shall inform the competent authorities, if possible, in advance of such measures.
 
-5. De Kosovo Relocated Specialist Judicial Institution voorziet de bevoegde autoriteiten van alle informatie die relevant is voor de veiligheid en bescherming van het terrein.
+5. Subject to the rules and regulations referred to in paragraph 3 of this Article, and consistent with the laws and regulations of the Host State, only staff of the Kosovo Relocated Specialist Judicial Institution authorized by the Registrar shall be allowed to carry arms on the premises.
 
-##### Artikel 10. Recht en gezag op het terrein
+6. The Registrar, or a staff member designated by him or her, shall notify the Host State of the name and identity of staff of the Kosovo Relocated Specialist Judicial Institution authorized by the Registrar to carry arms on the premises, as well as the name, type, calibre and serial number of the arm or arms at his or her disposition.
 
-1. Het terrein staat onder het beheer en gezag van de Kosovo Relocated Specialist Judicial Institution, zoals bepaald in dit Verdrag.
+7. Any dispute as to whether a rule or regulation of the Kosovo Relocated Specialist Judicial Institution comes within the ambit of this Article or as to whether a law or regulation of the Host State is inconsistent with a regulation of the Kosovo Relocated Specialist Judicial Institution under this Article shall be settled promptly by the procedure set out in [Article 50](https://wetten.overheid.nl/BWBV0006581) of this Agreement. Pending such settlement, the rule or regulation of the Kosovo Relocated Specialist Judicial Institution shall apply and the law or regulation of the Host State shall be inapplicable on the premises to the extent that the Kosovo Relocated Specialist Judicial Institution claims it to be inconsistent with its rule or regulation.
 
-2. Tenzij anders bepaald in dit Verdrag, is de wet- en regelgeving van de gastheerstaat van toepassing op het terrein.
+##### Article 11. Public services for the premises
 
-3. De Kosovo Relocated Specialist Judicial Institution is bevoegd tot het uitvaardigen van op haar terrein geldende eigen regels en voorschriften, met inbegrip van voorwaarden die van toepassing zijn op haar personeel, die noodzakelijk zijn voor het uitoefenen van haar taken. De Kosovo Relocated Specialist Judicial Institution brengt dergelijke voorschriften na de aanneming ervan terstond ter kennis van de bevoegde autoriteiten. Op het terrein van de Kosovo Relocated Specialist Judicial Institution zijn geen wetten of regels van de gastheerstaat van toepassing voor zover deze onverenigbaar zijn met de regels van de Kosovo Relocated Specialist Judicial Institution uit hoofde van dit lid.
+1. The competent authorities shall secure, upon the request of the Registrar or a staff member designated by him or her, on fair and equitable conditions, the public services needed by the Kosovo Relocated Specialist Judicial Institution such as, but not limited to, postal, telephone, telegraphic services, any other means of communication, electricity, water, gas, sewage, collection of waste, fire protection, local transportation and cleaning of public streets including snow removal.
 
-4. De Kosovo Relocated Specialist Judicial Institution kan personen vanwege schending van de van toepassing zijnde regels en voorschriften van het terrein verwijderen of de toegang ertoe ontzeggen en stelt de bevoegde autoriteiten zo mogelijk vooraf van dergelijke maatregelen in kennis.
+2. In cases where the services referred to in paragraph 1 of this Article are made available to the Kosovo Relocated Specialist Judicial Institution by the competent authorities, or where the prices thereof are under their control [and not subject to existing contracts with private parties], the rates for such services shall not exceed the lowest comparable rates accorded to essential agencies and organs of the Host State.
 
-5. Met inachtneming van de in het derde lid van dit artikel bedoelde regels en in overeenstemming met de wet- en regelgeving van de gastheerstaat, is het uitsluitend leden van het personeel van de Kosovo Relocated Specialist Judicial Institution die daartoe door de griffier gemachtigd zijn toegestaan wapens te dragen op het terrein.
+3. In case of any interruption or threatened interruption of any such services, the Kosovo Relocated Specialist Judicial Institution shall be accorded the priority given to essential agencies and organs of the Host State, and the Host State shall take steps accordingly to ensure that the work of the Kosovo Relocated Specialist Judicial Institution is not prejudiced.
 
-6. De griffier of een door hem of haar aangewezen lid van het personeel stelt de gastheerstaat in kennis van de naam en identiteit van elk lid van het personeel van de Kosovo Relocated Specialist Judicial Institution dat door de griffier gemachtigd is een wapen te dragen op het terrein, alsmede van de naam, het type, kaliber en serienummer van het wapen of de wapens die hem of haar ter beschikking staan.
+4. Upon request of the competent authorities, the Registrar, or staff member designated by him or her, shall make suitable arrangements to enable duly authorized representatives of the appropriate public services to inspect, repair, maintain, reconstruct and relocate utilities, conduits, mains and sewers on the premises under conditions which shall not unreasonably disturb the carrying out of the functions of the Kosovo Relocated Specialist Judicial Institution.
 
-7. Ieder geschil over de vraag of een regel of voorschrift van de Kosovo Relocated Specialist Judicial Institution onder dit artikel valt of over de vraag of een wet of voorschrift van de gastheerstaat onverenigbaar is met een regel of voorschrift van de Kosovo Relocated Specialist Judicial Institution uit hoofde van dit artikel, wordt onverwijld beslecht volgens de in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=VII&artikel=50&z=2017-01-01&g=2017-01-01) van dit Verdrag vervatte procedure. Zolang het geschil nog niet is beslecht, is de regel van de Kosovo Relocated Specialist Judicial Institution van toepassing en is de wet en/of regel van de gastheerstaat op het terrein niet van toepassing voor zover de Kosovo Relocated Specialist Judicial Institution deze onverenigbaar met zijn regels acht.
+5. Underground constructions may be undertaken by the competent authorities on the premises only after consultation with the Registrar, or a staff member designated by him or her, and under conditions which shall not disturb the carrying out of the functions of the Kosovo Relocated Specialist Judicial Institution.
 
-##### Artikel 11. Openbare voorzieningen ten behoeve van het terrein
+##### Article 12. Flag, emblem and markings
 
-1. De bevoegde autoriteiten zorgen er, op verzoek van de griffier of een door hem of haar aangewezen lid van het personeel, voor dat de Kosovo Relocated Specialist Judicial Institution tegen redelijke voorwaarden de beschikking krijgt over de door de Kosovo Relocated Specialist Judicial Institution benodigde openbare voorzieningen waaronder, maar niet beperkt tot, post-, telefoon- en telegraafdiensten, alle andere communicatiemiddelen, elektriciteit, water, gas, riolering, ophalen van afval, brandbestrijding, lokaal vervoer en reiniging van de openbare weg met inbegrip van het ruimen van sneeuw.
+The Kosovo Relocated Specialist Judicial Institution shall be entitled to display a flag, emblem and markings at its premises and on vehicles and other means of transportation used for official purposes.
 
-2. Wanneer de openbare voorzieningen bedoeld in het eerste lid van dit artikel door de bevoegde autoriteiten aan de Kosovo Relocated Specialist Judicial Institution worden geleverd of de prijzen daarvan worden bepaald door deze autoriteiten en waarop geen bestaande overeenkomsten met private partijen van toepassing zijn, zijn de tarieven voor deze voorzieningen niet hoger dan de laagste vergelijkbare tarieven voor instellingen en organen van wezenlijk belang voor de gastheerstaat.
+##### Article 13. Funds, assets and other property
 
-3. In het geval van onderbreking of dreiging van onderbreking van dergelijke voorzieningen zal aan de Kosovo Relocated Specialist Judicial Institution de voorrang worden gegeven die ook aan instellingen en organen van wezenlijk belang voor de gastheerstaat wordt gegeven en de gastheerstaat treft de daartoe benodigde maatregelen om te waarborgen dat de werkzaamheden van de Kosovo Relocated Specialist Judicial Institution niet nadelig worden beïnvloed.
+1. The funds, assets and other property of the Kosovo Relocated Specialist Judicial Institution, wherever located and by whomsoever held, shall enjoy immunity from every form of legal process.
 
-4. De griffier, of een door hem of haar aangewezen lid van het personeel, treft op verzoek van de bevoegde autoriteiten passende maatregelen om naar behoren gemachtigde vertegenwoordigers van de desbetreffende nutsbedrijven in staat te stellen op het terrein van de Kosovo Relocated Specialist Judicial Institution voorzieningen, leidingen, buizen en rioleringen te inspecteren, repareren, onderhouden, reconstrueren of te verplaatsen zonder de uitoefening van de taken van de Kosovo Relocated Specialist Judicial Institution onnodig te verstoren.
+2. Funds, assets and other property of the Kosovo Relocated Specialist Judicial Institution, wherever located and by whomsoever held, shall be immune from search, seizure, requisition, confiscation, expropriation and any other form of interference, whether by executive, administrative, judicial or legislative action.
 
-5. Ondergrondse werkzaamheden op het terrein kunnen door de bevoegde autoriteiten uitsluitend worden uitgevoerd na overleg met de griffier of een door hem of haar aangewezen lid van het personeel en zonder de uitoefening van de taken van de Kosovo Relocated Specialist Judicial Institution te verstoren.
+3. The Kosovo Relocated Specialist Judicial Institution may expressly waive the immunity from jurisdiction in respect of legal proceedings of the funds, assets and other property of the Kosovo Relocated Specialist Judicial Institution. Such a waiver shall not be held to imply waiver of immunity in respect of the execution of the judgement, for which a separate waiver shall be necessary.
 
-##### Artikel 12. Vlag, embleem en onderscheidingstekens
+4. To the extent necessary to carry out the functions of the Kosovo Relocated Specialist Judicial Institution, funds, assets and other property of the Kosovo Relocated Specialist Judicial Institution, wherever located and by whomsoever held, shall be exempt from restrictions, regulations, control or moratoria of any nature.
 
-De Kosovo Relocated Specialist Judicial Institution is bevoegd haar vlag, embleem en onderscheidingstekens te tonen op haar terrein en op voertuigen en andere vervoermiddelen die voor officiële doeleinden worden gebruikt.
+5. Any immunities accorded to the funds, assets and other property of the Kosovo Relocated Specialist Judicial Institution in accordance with this Article shall be without prejudice to any immunities and privileges accorded to funds, assets and other property of the Republic of Kosovo pursuant to international law and the law of the Host State.
 
-##### Artikel 13. Fondsen, activa en overige eigendommen
+##### Article 14. Inviolability of archives, documents and materials
 
-1. De fondsen, activa en overige eigendommen van de Kosovo Relocated Specialist Judicial Institution, ongeacht waar deze zich bevinden of wie deze onder zich heeft, genieten immuniteit van elke vorm van rechtsvervolging.
+1. The archives of the Kosovo Relocated Specialist Judicial Institution, and all papers, documents and materials in whatever form, being sent to or from the Kosovo Relocated Specialist Judicial Institution, held by the Kosovo Relocated Specialist Judicial Institution or belonging to it, wherever located and by whomsoever held, shall be inviolable.
 
-2. De fondsen, activa en overige eigendommen van de Kosovo Relocated Specialist Judicial Institution, ongeacht waar deze zich bevinden of wie deze onder zich heeft, worden gevrijwaard van onderzoek, beslaglegging, vordering, inbeslagneming, onteigening en iedere andere vorm van inmenging, ongeacht of het optreden van uitvoerende, bestuursrechtelijke, rechterlijke of wetgevende aard is.
+2. The termination or absence of such inviolability shall not affect protective measures that the Judges or the Registrar may have ordered or may order or the Specialist Prosecutor’s Office may have put or may put in place with regard to documents and material made available to or used by the Specialist Chambers or the Specialist Prosecutor’s Office.
 
-3. De Kosovo Relocated Specialist Judicial Institution kan uitdrukkelijk de immuniteit van rechtsmacht opheffen van de fondsen, activa en overige eigendommen van de Kosovo Relocated Specialist Judicial Institution met betrekking tot gerechtelijke procedures. Deze afstand wordt niet geacht betrekking te hebben op de immuniteit ter zake van de tenuitvoerlegging van een gerechtelijk vonnis, hetgeen een afzonderlijke verklaring van opheffing vereist.
+##### Article 15. Facilities in respect of communications
 
-4. Voor zover benodigd voor de uitoefening van de taken van de Kosovo Relocated Specialist Judicial Institution zijn de fondsen, bezittingen en overige eigendommen van de Kosovo Relocated Specialist Judicial Institution, ongeacht waar deze zich bevinden of wie deze onder zich heeft, vrijgesteld van beperkingen, voorschriften, controles en moratoria van welke aard dan ook.
+1. The Kosovo Relocated Specialist Judicial Institution shall enjoy in the territory of the Host State for the purposes of its official communications and correspondence treatment not less favourable than that accorded by the Host State to any intergovernmental organization or diplomatic mission in the matter of priorities, rates and taxes applicable to mail and the various forms of communication and correspondence.
 
-5. Elke immuniteit toegekend aan de fondsen, activa en overige eigendommen van de Kosovo Relocated Specialist Judicial Institution in overeenstemming met dit artikel laat de immuniteiten en voorrechten toegekend aan de fondsen, activa en overige eigendommen van de Republiek Kosovo uit hoofde van het internationale recht en het recht van de gastheerstaat onverlet.
+2. No censorship shall be applied to the official communications or correspondence of the Kosovo Relocated Specialist Judicial Institution. Such immunity from censorship shall extend to printed matter, photographic and electronic data communications as well as any other forms of communications as may be used by the Kosovo Relocated Specialist Judicial Institution.
 
-##### Artikel 14. Onschendbaarheid van archieven, documenten en materiaal
+3. The Kosovo Relocated Specialist Judicial Institution shall have the right to operate all appropriate means of communication, including electronic means of communication, and shall have the right to use codes or ciphers for its official communications and correspondence. The official communications and correspondence of the Kosovo Relocated Specialist Judicial Institution shall be inviolable.
 
-1. De archieven van de Kosovo Relocated Specialist Judicial Institution en alle stukken, documenten en materialen, ongeacht in welke vorm, die worden verzonden naar of door de Kosovo Relocated Specialist Judicial Institution, in het bezit zijn van de Kosovo Relocated Specialist Judicial Institution of haar toebehoren, ongeacht waar deze zich bevinden en wie deze onder zich heeft, zijn onschendbaar.
+4. The Kosovo Relocated Specialist Judicial Institution shall have the right to dispatch and receive correspondence and other materials or communications by courier or in sealed bags, which shall enjoy the same privileges, immunities and facilities as diplomatic couriers and bags.
 
-2. De beëindiging of afwezigheid van deze onschendbaarheid doet geen afbreuk aan de beschermende maatregelen waartoe de rechters of griffier eventueel heeft bevolen of die de Speciale Aanklager eventueel heeft ingesteld of kan instellen ten aanzien van documenten en materiaal ter beschikking gesteld van of gebruikt door de Speciale Kamers of de Speciale Aanklager.
+5. The Kosovo Relocated Specialist Judicial Institution shall have the right to operate radio and other telecommunication equipment on any frequencies allocated to it by the Host State in accordance with its national procedures. The Host State shall endeavour to allocate to the Kosovo Relocated Specialist Judicial Institution, to the extent possible, frequencies for which it has applied.
 
-##### Artikel 15. Faciliteiten met betrekking tot communicatie
+6. For the fulfillment of its purposes and efficient discharge of its responsibilities, the Kosovo Relocated Specialist Judicial Institution shall have the right to publish freely and without restrictions within the Host State in conformity with this Agreement.
 
-1. Ten behoeve van haar officiële communicatie en correspondentie geniet de Kosovo Relocated Specialist Judicial Institution op het grondgebied van de gastheerstaat een behandeling die niet minder gunstig is dan die welke door de gastheerstaat wordt toegekend aan een intergouvernementele organisatie of diplomatieke missie ter zake van prioriteiten, tarieven en belastingen die van toepassing zijn op post en uiteenlopende vormen van communicatie en correspondentie.
+##### Article 16. Freedom of financial assets from restrictions
 
-2. De officiële communicatie en correspondentie van de Kosovo Relocated Specialist Judicial Institution worden niet gecensureerd. Deze immuniteit ten aanzien van censuur strekt zich uit tot drukwerk, fotografische en elektronische datacommunicatie en andere vormen van communicatie die de Kosovo Relocated Specialist Judicial Institution kan gebruiken.
+1. Without being subject to any financial controls, regulations, notification requirements in respect of financial transactions, or moratoria of any kind, the Kosovo Relocated Specialist Judicial Institution may freely:
 
-3. De Kosovo Relocated Specialist Judicial Institution heeft het recht alle passende communicatiemiddelen te gebruiken, met inbegrip van elektronische communicatiemiddelen, en heeft het recht ten behoeve van haar officiële communicatie en correspondentie codes of versleutelde gegevens te gebruiken. De officiële communicatie en correspondentie van de Kosovo Relocated Specialist Judicial Institution zijn onschendbaar.
+- a) purchase any currency, hold and use it;
 
-4. De Kosovo Relocated Specialist Judicial Institution heeft het recht correspondentie en andere materialen of berichten te verzenden en te ontvangen per koerier of in verzegelde tassen, ten aanzien waarvan dezelfde voorrechten, immuniteiten en faciliteiten gelden als voor diplomatieke koeriers en tassen.
+- b) operate accounts in any currency;
 
-5. De Kosovo Relocated Specialist Judicial Institution heeft het recht radioapparatuur en andere telecommunicatieapparatuur te gebruiken op de frequenties die aan de Kosovo Relocated Specialist Judicial Institution zijn toegewezen door de gastheerstaat in overeenstemming met zijn nationale procedures. De gastheerstaat streeft ernaar de door de Kosovo Relocated Specialist Judicial Institution aangevraagde frequenties zoveel mogelijk toe te wijzen.
+- c) purchase, hold and use funds, securities and gold; and
 
-6. Teneinde haar doelstellingen te verwezenlijken en zich doeltreffend van haar verantwoordelijkheden te kwijten in overeenstemming met dit Verdrag heeft de Kosovo Relocated Specialist Judicial Institution het recht vrijelijk en zonder beperkingen berichten te publiceren in de gastheerstaat.
+- d) transfer its funds, securities, gold and currencies to or from the Host State, to or from any other country, or within the Host State and convert any currency held by it in any other currency.
 
-##### Artikel 16. Vrijheid van beperkingen ten aanzien van financiële activa
+2. The Kosovo Relocated Specialist Judicial Institution shall enjoy treatment not less favourable than that accorded by the Host State to any intergovernmental organization or diplomatic mission in respect of rates of exchange for its financial transactions.
 
-1. De Kosovo Relocated Specialist Judicial Institution is niet onderworpen aan financiële controles, voorschriften, kennisgevingsvereisten met betrekking tot financiële transacties, of moratoria van enigerlei aard, en kan vrijelijk:
+##### Article 17. Exemption from taxes and duties for the Kosovo Relocated Specialist Judicial Institution and its property
 
-- a. elke valuta kopen, bezitten en gebruiken;
+1. Within the scope of its official activities, the Kosovo Relocated Specialist Judicial Institution, its assets, income and other property shall be exempt from all direct taxes, whether levied by national, provincial or local authorities which include, *inter alia*, income tax and corporation tax.
 
-- b. rekeningen aanhouden in welke valuta ook;
+2. Within the scope of its official activities, the Kosovo Relocated Specialist Judicial Institution shall be exempt from:
 
-- c. fondsen, effecten en goud kopen, bezitten en gebruiken; en
+- a) import and export taxes and duties (*belastingen bij invoer en uitvoer*);
 
-- d. haar fondsen, effecten, goud en valuta overbrengen naar of uit de gastheerstaat, naar of uit enig ander land, of binnen de gastheerstaat, en valuta die zij bezit omwisselen in welke andere valuta ook.
+- b) motor vehicle tax (*motorrijtuigenbelasting*);
 
-2. De Kosovo Relocated Specialist Judicial Institution geniet een behandeling die niet minder gunstig is dan die welke door de gastheerstaat wordt toegekend aan een intergouvernementele organisatie of diplomatieke missie ter zake van wisselkoersen voor haar financiële transacties.
+- c) tax on passenger motor vehicles and motorcycles (*belasting van personenauto's en motorrijwielen*);
 
-##### Artikel 17. Vrijstelling van de Kosovo Relocated Specialist Judicial Institution en haar eigendommen van belastingen en heffingen
+- d) value added tax (*omzetbelasting*) paid on goods and services supplied on a recurring basis or involving considerable expenditure;
 
-1. Binnen het kader van haar officiële taken worden de Kosovo Relocated Specialist Judicial Institution, haar bezittingen, inkomsten en andere eigendommen vrijgesteld van alle directe belastingen die door de nationale, provinciale of lokale autoriteiten worden geheven, met inbegrip van onder meer de inkomstenbelasting en vennootschapsbelasting.
+- e) excise duties (*accijnzen*) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
 
-2. Binnen het kader van haar officiële taken wordt de Kosovo Relocated Specialist Judicial Institution vrijgesteld van:
+- f) real property transfer tax (*overdrachtsbelasting*);
 
-- a. belastingen bij invoer en uitvoer;
+- g) insurance tax (*assurantiebelasting*);
 
-- b. motorrijtuigenbelasting;
+- h) energy tax (*energiebelasting*);
 
-- c. belasting van personenauto’s en motorrijwielen;
+- i) tax on mains water (*belasting op leidingwater*);
 
-- d. omzetbelasting betaald over alle zaken en diensten die herhaaldelijk worden geleverd of verleend of aanzienlijke uitgaven met zich meebrengen;
+- j) any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, levied in the Host State subsequent to the date of signature of this Agreement.
 
-- e. accijnzen als inbegrepen in de prijs van alcoholhoudende dranken en koolwaterstoffen zoals brandstofolie en motorbrandstoffen;
+3. The exemptions provided for in paragraph 2, subparagraphs d), e), f), g), h), i) and j) of this Article may be granted by way of a refund. These exemptions shall be applied in accordance with the formal requirements of the Host State. These requirements, however, shall not affect the general principles laid down in paragraph 2 of this Article.
 
-- f. overdrachtsbelasting;
+4. Goods acquired or imported under the terms set out in paragraph 2 of this Article shall not be sold, let out, given away or otherwise disposed of, except in accordance with conditions agreed upon with the Host State.
 
-- g. assurantiebelasting;
+5. The Kosovo Relocated Specialist Judicial Institution shall not claim exemption from taxes which are, in fact, no more than charges for public utility services provided at a fixed rate according to the amount of services rendered and which can be specifically identified, described and itemized.
 
-- h. energiebelasting;
+##### Article 18. Exemption from import and export restrictions
 
-- i. belasting op leidingwater;
+The Kosovo Relocated Specialist Judicial Institution shall be exempted from all restrictions on imports and exports in respect of articles imported or exported by the Kosovo Relocated Specialist Judicial Institution for its official use or in respect of its publications.
 
-- j. andere belastingen en heffingen van een in hoofdzaak vergelijkbare aard als de in dit lid genoemde belastingen, die na de datum van ondertekening van dit Verdrag door de gastheerstaat worden ingesteld.
+### PART III. PRIVILEGES, IMMUNITIES AND FACILITIES ACCORDED TO PERSONS UNDER THIS AGREEMENT
 
-3. De in het tweede lid, onderdelen d, e, f, g, h, i, en j, van dit artikel genoemde vrijstellingen kunnen worden toegekend in de vorm van een teruggave. Deze vrijstellingen worden toegepast overeenkomstig de formele vereisten van de gastheerstaat. Deze vereisten doen evenwel geen afbreuk aan de in het tweede lid van dit artikel vervatte algemene beginselen.
+##### Article 19. Privileges, immunities and facilities of the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar and the Deputy Registrar
 
-4. Goederen verworven of ingevoerd onder de in het tweede lid van dit artikel omschreven voorwaarden worden niet verkocht, verhuurd, geschonken of op andere wijze vervreemd, behalve overeenkomstig de met de gastheerstaat overeengekomen voorwaarden.
+1. The judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar and the Deputy Registrar together with members of their family forming part of their household who do not have Dutch nationality or permanent residence status in the Host State, shall enjoy the same privileges, immunities and facilities as are accorded by the Host State to heads of diplomatic missions in conformity with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345). They shall, inter alia, enjoy:
 
-5. De Kosovo Relocated Specialist Judicial Institution maakt evenwel geen aanspraak op vrijstelling van belastingen die in feite niets anders zijn dan heffingen voor openbare diensten die worden geleverd tegen een vast bedrag overeenkomstig het aantal geleverde diensten en die nauwkeurig kunnen worden geïdentificeerd, omschreven en gespecificeerd.
+- a) personal inviolability, including immunity from personal arrest or detention or any other restriction of their liberty;
 
-##### Artikel 18. Vrijstelling van invoer- en uitvoerbeperkingen
+- b) immunity from criminal, civil and administrative jurisdiction;
 
-De Kosovo Relocated Specialist Judicial Institution is vrijgesteld van alle invoer- en uitvoerbeperkingen met betrekking tot de door de Kosovo Relocated Specialist Judicial Institution voor officieel gebruik ingevoerde of uitgevoerde artikelen of met betrekking tot haar publicaties.
+- c) inviolability of all papers, documents in whatever form and materials;
 
-### DEEL III. VOORRECHTEN, IMMUNITEITEN EN FACILITEITEN TOEGEKEND AAN PERSONEN UIT HOOFDE VAN DIT VERDRAG
+- d) exemption from national service obligations;
 
-##### Artikel 19. Voorrechten, immuniteiten en faciliteiten van de rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier en de plaatsvervangend griffier
+- e) exemption from immigration restrictions and alien registration;
 
-1. De rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier en de plaatsvervangend griffier, tezamen met de gezinsleden die deel uitmaken van hun huishouding die niet de Nederlandse nationaliteit of een permanente verblijfsstatus in de gastheerstaat hebben, genieten dezelfde voorrechten, immuniteiten en faciliteiten als die welke overeenkomstig het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) door de gastheerstaat worden toegekend aan hoofden van diplomatieke missies. Zij genieten onder andere:
+- f) exemption from taxation on salaries, emoluments and allowances paid in respect of the employment of the judges, the Specialist Prosecutor and the Registrar with the Kosovo Relocated Specialist Judicial Institution;
 
-- a. persoonlijke onschendbaarheid, met inbegrip van immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking;
+- g) the same facilities in respect of currency and exchange facilities as are accorded to diplomatic agents;
 
-- b. immuniteit ten aanzien van strafrechtelijke, civielrechtelijke en bestuursrechtelijke rechtsmacht;
+- h) the same immunities and facilities in respect of their official and personal baggage as are accorded to diplomatic agents;
 
-- c. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materialen;
+- i) together with members of their family forming part of the household, the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- d. vrijstelling van verplichtingen met betrekking tot militaire dienst;
+- j) the right of unimpeded entry into, exit from or movement within the Host State, as appropriate and for purposes of the Kosovo Relocated Specialist Judicial Institution.
 
-- e. vrijstelling van inreisbeperkingen en vreemdelingenregistratie;
+2. With respect to the inheritance and gift tax, which depends upon residence, periods during which the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar and the Deputy Registrar are present in the Host State for the discharge of their functions shall not be considered as periods of residence.
 
-- f. vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die ter zake van het dienstverband van de rechters, de Speciale Aanklager en de griffier bij de Kosovo Relocated Specialist Judicial Institution aan hen worden betaald;
+3. The judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar and the Deputy Registrar shall, after the expiry of their terms of office, continue to be accorded immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity.
 
-- g. dezelfde faciliteiten met betrekking tot valuta- en wisselfaciliteiten als die welke worden toegekend aan diplomatieke ambtenaren;
+4. The Host State shall not be obliged to exempt from income tax pensions or annuities paid to former judges, Specialist Prosecutors, Deputy Specialist Prosecutors, Registrars, Deputy Registrars and the members of their family forming part of their household.
 
-- h. dezelfde immuniteiten en faciliteiten met betrekking tot hun persoonlijke bagage als die welke worden toegekend aan diplomatieke ambtenaren;
+5. Persons referred to in this Article who are nationals or permanent residents of the Host State shall enjoy only the following privileges, immunities and facilities to the extent necessary for the independent performance of their functions:
 
-- i. tezamen met de gezinsleden die deel uitmaken van hun huishouding, dezelfde repatriëringsfaciliteiten als die welke overeenkomstig het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) bij internationale crises gelden voor diplomatieke ambtenaren;
+- a) immunity from personal arrest or detention or any other restriction of their liberty;
 
-- j. het recht de gastheerstaat ongehinderd binnen te komen, te verlaten of zich erin te verplaatsen, al naargelang van toepassing en ten behoeve van de Kosovo Relocated Specialist Judicial Institution.
+- b) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the performance of their functions for the Kosovo Relocated Specialist Judicial Institution, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Kosovo Relocated Specialist Judicial Institution;
 
-2. Voor de successie- en schenkingsrechten die worden gebaseerd op het ingezetenschap worden tijdvakken gedurende welke de rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier en de plaatsvervangend griffier voor de uitoefening van hun functies aanwezig zijn in de gastheerstaat, niet aangemerkt als tijdvakken van ingezetenschap.
+- c) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the Kosovo Relocated Specialist Judicial Institution;
 
-3. De rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier en de plaatsvervangend griffier blijven na afloop van hun ambtstermijn immuniteit genieten ten aanzien van elke juridische procedure met betrekking tot alle door hen in hun officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen.
+- d) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with the Kosovo Relocated Specialist Judicial Institution;
 
-4. De gastheerstaat is niet verplicht pensioenuitkeringen of annuïteiten betaald aan voormalige rechters, Speciale Aanklagers, plaatsvervangend Speciale Aanklagers, griffiers of plaatsvervangend griffiers alsmede aan de gezinsleden die deel uitmaken van hun huishouding vrij te stellen van inkomstenbelasting.
+- e) for the purpose of their communications with the Kosovo Relocated Specialist Judicial Institution the right to receive and send papers in whatever form;
 
-5. De in dit artikel bedoelde personen die onderdaan of permanent ingezetene van de gastheerstaat zijn, genieten uitsluitend de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor de onafhankelijke uitoefening van hun functie:
+- f) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the Host State.
 
-- a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking;
+6. Persons referred to in paragraph 5 of this Article shall not be subjected by the Host State to any measure which may affect the free and independent performance of their functions for the Kosovo Relocated Specialist Judicial Institution.
 
-- b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen bij de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution;
+##### Article 20. Privileges, immunities and facilities of staff
 
-- c. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution;
+1. Staff shall enjoy such privileges, immunities and facilities as are necessary for the independent performance of their functions. They shall be accorded:
 
-- d. vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die ter zake van hun dienstverband bij de Kosovo Relocated Specialist Judicial Institution aan hen worden betaald;
+- a) immunity from personal arrest or detention or any other restriction of their liberty and from inspection or seizure of their official baggage;
 
-- e. het recht ten behoeve van de communicatie met de Kosovo Relocated Specialist Judicial Institution in welke vorm dan ook stukken te ontvangen en te verzenden.
+- b) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after termination of their employment with the Kosovo Relocated Specialist Judicial Institution;
 
-- f. het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in de gastheerstaat aanvaarden.
+- c) inviolability of all official papers, documents in whatever form and materials;
 
-6. De in het vijfde lid van dit artikel bedoelde personen worden door de gastheerstaat niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution kan belemmeren.
+- d) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with the Kosovo Relocated Specialist Judicial Institution;
 
-##### Artikel 20. Voorrechten, immuniteiten en faciliteiten van het personeel
+- e) exemption from national service obligations;
 
-1. De leden van het personeel genieten de voorrechten, immuniteiten en faciliteiten die nodig zijn voor de onafhankelijke uitoefening van hun functie. Zij genieten:
+- f) together with members of their family forming part of their household, exemption from immigration restrictions and alien registration;
 
-- a). immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking en van inspectie of inbeslagname van hun persoonlijke bagage;
+- g) the same privileges in respect of currency and exchange facilities as are accorded to the officials of comparable rank of diplomatic missions established in the Host State;
 
-- b). immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen in hun officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van hun dienstverband bij de Kosovo Relocated Specialist Judicial Institution;
+- h) together with members of their family forming part of their household, the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- c). onschendbaarheid van alle officiële stukken en documenten in welke vorm dan ook en materiaal;
+- i) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the Host State, and to re-export their furniture and effects free of duties and taxes to their country of destination.
 
-- d). vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die ter zake van hun dienstverband bij de Kosovo Relocated Specialist Judicial Institution aan hen worden betaald;
+2. In addition to the privileges, immunities and facilities listed in paragraph 1 of this Article, staff of comparable rank to diplomatic agents, together with members of their family forming part of their household who are not nationals or permanent residents of the Host State, shall be accorded the same privileges, immunities and facilities as the Host State accords to diplomatic agents of the diplomatic missions established in the Host State in conformity with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
-- e). vrijstelling van de nationale dienstplicht;
+3. In addition to the privileges, immunities and facilities listed in paragraph 1 of this Article, staff of comparable rank to administrative and technical staff of diplomatic missions, together with members of their family forming part of their household who are not nationals or permanent residents of the Host State, shall be accorded by the Host State the same privileges, immunities and facilities as the Host State accords to members of the administrative and technical staff of diplomatic missions established in the Host State, in conformity with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), provided that the immunity from criminal jurisdiction and personal inviolability shall not extend to acts performed outside the course of their official duties.
 
-- f). tezamen met de gezinsleden die deel uitmaken van hun huishouding, vrijstelling van inreisbeperkingen en vreemdelingenregistratie;
+4. With respect to the inheritance and gift tax, which depends upon residence, periods during which staff are present in the Host State for the discharge of their functions shall not be considered as periods of residence.
 
-- g). dezelfde voorrechten met betrekking tot valuta- en wisselfaciliteiten die ook worden toegekend aan functionarissen met vergelijkbare rang van diplomatieke missies die in de gastheerstaat zijn gevestigd;
+5. The Host State shall not be obliged to exempt from income tax pensions or annuities paid to former staff and the members of their family forming part of their household.
 
-- h). tezamen met de gezinsleden die deel uitmaken van hun huishouding, dezelfde repatriëringsfaciliteiten als die welke overeenkomstig het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) bij internationale crises gelden voor diplomatieke ambtenaren;
+6. Persons referred to in this Article who are nationals or permanent residents of the Host State shall enjoy only the following privileges, immunities and facilities to the extent necessary for the independent performance of their functions:
 
-- i). het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in de gastheerstaat aanvaarden, en deze meubels en bezittingen vrij van rechten en belastingen weer uit te voeren naar het land van bestemming.
+- a) immunity from personal arrest or detention or any other restriction of their liberty;
 
-2. Naast de in het eerste lid van dit artikel genoemde voorrechten, immuniteiten en faciliteiten, genieten de leden van het personeel met een rang die vergelijkbaar is met die van diplomatieke ambtenaren, tezamen met de gezinsleden die deel uitmaken van hun huishouding en die geen onderdaan of permanent ingezetene zijn van de gastheerstaat dezelfde voorrechten, immuniteiten en faciliteiten die overeenkomstig het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) door de gastheerstaat worden toegekend aan diplomatieke ambtenaren van de diplomatieke missies die in de gastheerstaat zijn gevestigd.
+- b) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the performance of their functions for the Kosovo Relocated Specialist Judicial Institution, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Kosovo Relocated Specialist Judicial Institution;
 
-3. Naast de in het eerste lid van dit artikel genoemde voorrechten, immuniteiten en faciliteiten genieten de leden van het personeel met een rang die vergelijkbaar is met die van administratief en technisch personeel van diplomatieke missies, tezamen met de gezinsleden die deel uitmaken van hun huishouding en die geen onderdaan of permanent ingezetene zijn van de gastheerstaat, dezelfde voorrechten, immuniteiten en faciliteiten die overeenkomstig het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) door de gastheerstaat worden toegekend aan leden van het administratief en technisch personeel van diplomatieke missies die in de gastheerstaat zijn gevestigd, met dien verstande dat de immuniteit ten aanzien van de rechtsmacht in strafzaken en de persoonlijke onschendbaarheid zich niet uitstrekken tot handelingen verricht buiten hun officiële taken.
+- c) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the Kosovo Relocated Specialist Judicial Institution;
 
-4. Voor de successie- en schenkingsrechten die worden gebaseerd op het ingezetenschap worden tijdvakken gedurende welke de leden van het personeel voor de uitoefening van hun functie aanwezig zijn in de gastheerstaat, niet aangemerkt als tijdvakken van ingezetenschap.
+- d) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with the Kosovo Relocated Specialist Judicial Institution;
 
-5. De gastheerstaat is niet verplicht pensioenuitkeringen of annuïteiten betaald aan voormalige leden van het personeel alsmede aan de gezinsleden die deel uitmaken van hun huishouding vrij te stellen van inkomstenbelasting.
+- e) for the purposes of their communications with the Kosovo Relocated Specialist Judicial Institution the right to receive and send papers in whatever form;
 
-6. De in dit artikel bedoelde personen die onderdaan of permanent ingezetene van de gastheerstaat zijn, genieten uitsluitend de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor de onafhankelijke uitoefening van hun functie:
+- f) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the Host State.
 
-- a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking;
+7. Persons referred to in paragraph 6 of this Article shall not be subjected by the Host State to any measure which may affect the free and independent performance of their functions at the Kosovo Relocated Specialist Judicial Institution.
 
-- b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen bij de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van hun functie bij de Kosovo Relocated Specialist Judicial Institution;
+##### Article 21. Personnel recruited locally and not otherwise covered by this Agreement
 
-- c. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution;
+1. Personnel recruited locally in the Host State by the Kosovo Relocated Specialist Judicial Institution and not otherwise covered by this Agreement shall be accorded immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the Kosovo Relocated Specialist Judicial Institution. Such immunity shall continue to be accorded even after termination of their employment with the Kosovo Relocated Specialist Judicial Institution. During their employment, they shall also be accorded such other facilities as may be necessary for the independent performance of their functions for the Kosovo Relocated Specialist Judicial Institution.
 
-- d. vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die ter zake van hun dienstverband bij de Kosovo Relocated Specialist Judicial Institution aan hen worden betaald;
+2. The terms and conditions of the employment of personnel recruited locally by the Kosovo Relocated Specialist Judicial Institution and not otherwise covered by this Agreement shall be in accordance with the relevant resolutions, decisions, regulations, rules and policies of the Kosovo Relocated Specialist Judicial Institution.
 
-- e. het recht ten behoeve van de communicatie met de Kosovo Relocated Specialist Judicial Institution in welke vorm dan ook stukken te ontvangen en te verzenden;
+##### Article 22. Interns
 
-- f. het recht vrij van rechten en belastingen, behoudens betalingen voor verleende diensten, hun meubels en bezittingen in te voeren wanneer zij voor de eerste maal hun functie in de gastheerstaat aanvaarden.
+1. Without prejudice to the applicable rules of the European Union in regard to citizens of a member state of the European Union, the Ministry of Foreign Affairs shall register interns for a maximum period of twelve (12) months, provided that the Registrar supplies the Ministry of Foreign Affairs with a declaration signed by the intern, accompanied by adequate proof, to the effect that:
 
-7. De in het zesde lid van dit artikel bedoelde personen worden door de gastheerstaat niet aan enige maatregel onderworpen die de vrije en onafhankelijke uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution kan belemmeren.
+- a) the intern entered the Host State in accordance with the applicable immigration procedures;
 
-##### Artikel 21. Lokaal geworven personeel ten aanzien waarvan in dit Verdrag niets anders is geregeld
+- b) the intern has sufficient financial means for living expenses and for repatriation, as well as sufficient medical insurance (including coverage of costs of hospitalization for at least the duration of the internship plus one month) and third party liability insurance, and shall not be a charge on the public purse of the Host State;
 
-1. Aan de leden van het door de Kosovo Relocated Specialist Judicial Institution lokaal geworven personeel ten aanzien van wie in dit Verdrag niets anders is geregeld wordt immuniteit van rechtsvervolging toegekend met betrekking tot alle door hen in hun officiële hoedanigheid voor de Kosovo Relocated Specialist Judicial Institution gesproken of geschreven woorden of verrichte handelingen. Deze immuniteit blijft ook gelden na beëindiging van hun dienstverband bij de Kosovo Relocated Specialist Judicial Institution. Gedurende hun dienstverband worden aan hen tevens de faciliteiten toegekend die benodigd zijn voor de onafhankelijke uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution.
+- c) the intern shall not engage in gainful employment in the Host State during his or her internship other than as an intern for the Kosovo Relocated Specialist Judicial Institution;
 
-2. De arbeidsvoorwaarden van het door de Kosovo Relocated Specialist Judicial Institution lokaal geworven personeel ten aanzien waarvan in dit Verdrag niets anders is geregeld dienen in overeenstemming te zijn met de relevante resoluties, besluiten, voorschriften, regels en het beleid van de Kosovo Relocated Specialist Judicial Institution.
+- d) the intern shall not bring any family members to reside with him or her in the Host State other than in accordance with the applicable immigration procedures including entitlement to do so as citizens of a member state of the European Union; and
 
-##### Artikel 22. Stagiairs
+- e) the intern shall leave the Host State within fifteen (15) days after the end of the internship unless he/she is otherwise entitled to stay in the Netherlands in accordance with the applicable immigration legislation.
 
-1. Onverminderd de van toepassing zijnde regels van de Europese Unie ten aanzien van burgers van een lidstaat van de Europese Unie registreert het ministerie van Buitenlandse Zaken stagiairs voor een tijdvak van ten hoogste twaalf (12) maanden, mits de griffier het ministerie van Buitenlandse Zaken een door de stagiair ondertekende verklaring doet toekomen vergezeld van voldoende bewijs waaruit blijkt dat:
+2. The Kosovo Relocated Specialist Judicial Institution shall not incur liability for damage resulting from non-fulfillment of the conditions of the declaration referred to in paragraph 1 of this Article by interns registered in accordance with that paragraph.
 
-- a. de stagiair de gastheerstaat is binnengekomen in overeenstemming met de van toepassing zijnde immigratieprocedures;
+3. Interns shall not enjoy privileges, immunities and facilities, except:
 
-- b. de stagiair over voldoende financiële middelen beschikt om in zijn of haar levensonderhoud te voorzien alsmede voor zijn of haar terugkeer, voldoende verzekerd is tegen ziektekosten (met inbegrip van een dekking voor kosten van ziekenhuisopname voor ten minste de duur van de stage plus een maand), beschikt over een wettelijke aansprakelijkheidsverzekering en niet ten laste zal komen van de openbare middelen van de gastheerstaat;
+- a) immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the Kosovo Relocated Specialist Judicial Institution, which immunity shall continue to be accorded even after termination of the internship with the Kosovo Relocated Specialist Judicial Institution for activities carried out on its behalf;
 
-- c. de stagiair tijdens de stage uitsluitend werkzaam zal zijn als stagiair bij de Kosovo Relocated Specialist Judicial Institution en in de gastheerstaat geen betaalde werkzaamheden zal verrichten;
+- b) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the Kosovo Relocated Specialist Judicial Institution.
 
-- d. de stagiair geen familieleden meebrengt die bij hem of haar in de gastheerstaat zullen wonen, tenzij in overeenstemming met de desbetreffende immigratieprocedures en zij daartoe gerechtigd zijn als burgers van een lidstaat van de Europese Unie; en
+##### Article 23. Experts
 
-- e. de stagiair de gastheerstaat verlaat binnen vijftien (15) dagen na het einde van zijn of haar stage, tenzij hij of zij op andere gronden gerechtigd is in Nederland te verblijven in overeenstemming met de desbetreffende immigratiewetgeving.
+1. Experts performing functions for the Kosovo Relocated Specialist Judicial Institution shall be accorded the following privileges, immunities and facilities to the extent necessary for the independent performance of their functions, subject to production of the document referred to in paragraph 2 of this Article:
 
-2. De Kosovo Relocated Specialist Judicial Institution is niet aansprakelijk voor schade voortvloeiend uit niet-naleving door in overeenstemming met het eerste lid van dit artikel geregistreerde stagiairs van de voorwaarden van de in dat lid bedoelde verklaring.
+- a) immunity from personal arrest or detention or any other restriction of their liberty in respect of acts or convictions prior to their entry into the territory of the Host State;
 
-3. Stagiairs genieten geen voorrechten, immuniteiten en faciliteiten, uitgezonderd:
+- b) immunity from seizure of their personal baggage;
 
-- a. immuniteit van rechtsvervolging met betrekking tot alle door hen in hun officiële hoedanigheid voor de Kosovo Relocated Specialist Judicial Institution gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de stage bij de Kosovo Relocated Specialist Judicial Institution voor namens de Kosovo Relocated Specialist Judicial Institution uitgevoerde activiteiten;
+- c) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the course of the performance of their functions for the Kosovo Relocated Specialist Judicial Institution, which immunity shall continue to be accorded even after the termination of their functions;
 
-- b. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution.
+- d) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the Kosovo Relocated Specialist Judicial Institution;
 
-##### Artikel 23. Deskundigen
+- e) for the purposes of their communications with the Kosovo Relocated Specialist Judicial Institution, the right to receive and send papers and documents in whatever form and materials relating to the performance of their functions for the Kosovo Relocated Specialist Judicial Institution by courier or in sealed bags;
 
-1. Aan deskundigen die functies bij de Kosovo Relocated Specialist Judicial Institution vervullen, worden de volgende voorrechten, immuniteiten en faciliteiten toegekend voor zover benodigd voor de onafhankelijke uitoefening van hun functie, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd:
+- f) exemption from inspection of their personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the Host State; an inspection in such a case shall be conducted in the presence of the expert concerned;
 
-- a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van de gastheerstaat;
+- g) the same privileges in respect of currency and exchange facilities as are accorded to representatives of foreign Governments on temporary official missions;
 
-- b. immuniteit van inbeslagname van hun persoonlijke bagage;
+- h) the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- c. immuniteit van rechtsvervolging met betrekking tot alle door hen tijdens de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na de beëindiging van hun functie;
+- i) exemption from immigration restrictions and alien registration in relation to their functions as specified in the document referred to in paragraph 2 of this Article.
 
-- d. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution;
+2. Experts shall be provided by the Kosovo Relocated Specialist Judicial Institution with a document certifying that they are performing functions for the Kosovo Relocated Specialist Judicial Institution on a temporary basis and specifying a time period for which their functions will last, which shall not exceed the duration of this Agreement. Such document shall be withdrawn prior to its expiry if the expert is no longer performing functions for the Kosovo Relocated Specialist Judicial Institution, or if the expert's presence at the seat of the Kosovo Relocated Specialist Judicial Institution is no longer required.
 
-- e. het recht ten behoeve van de communicatie met de Kosovo Relocated Specialist Judicial Institution stukken en documenten in welke vorm dan ook en materiaal met betrekking tot de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution, per koerier of in verzegelde tassen te ontvangen en te verzenden;
+3. With the exception of paragraph 1(c) of this Article, the privileges, immunities and facilities referred to in paragraph 1 of this Article shall cease to apply after fifteen (15) consecutive days following the date on which the presence of the expert concerned is no longer required by the Kosovo Relocated Specialist Judicial Institution.
 
-- f. vrijstelling van inspectie van hun persoonlijke bagage, tenzij gegronde redenen bestaan om aan te nemen dat de bagage artikelen bevat waarvan de invoer of uitvoer bij wet verboden is of waarop de quarantainevoorschriften van de gastheerstaat van toepassing zijn; in een dergelijk geval wordt een inspectie uitgevoerd in aanwezigheid van de betrokken deskundige;
+4. Experts who are nationals or permanent residents of the Host State shall enjoy only the following privileges, immunities and facilities to the extent necessary for the independent performance of their functions for the Kosovo Relocated Specialist Judicial Institution:
 
-- g. dezelfde voorrechten met betrekking tot valuta- en wisselfaciliteiten als die welke worden toegekend aan vertegenwoordigers van buitenlandse regeringen van tijdelijke officiële missies;
+- a) immunity from personal arrest or detention or any other restriction of their liberty;
 
-- h. dezelfde repatriëringsfaciliteiten als die welke overeenkomstig het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) bij internationale crises gelden voor diplomatieke ambtenaren;
+- b) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the performance of their functions, which immunity shall continue to be accorded even after they have ceased to perform their functions;
 
-- i. vrijstelling van inreisbeperkingen en vreemdelingenregistratie met betrekking tot hun functie zoals nader aangeduid in het in het tweede lid van dit artikel bedoelde document.
+- c) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions;
 
-2. Aan deskundigen die opdrachten voor de Kosovo Relocated Specialist Judicial Institution uitvoeren wordt door de Kosovo Relocated Specialist Judicial Institution een document uitgereikt waaruit blijkt dat zij op tijdelijke basis functies voor de Kosovo Relocated Specialist Judicial Institution uitoefenen en waarin de duur van hun functie wordt vermeld, waarbij de looptijd van dit Verdrag niet mag worden overschreden. Een dergelijk document wordt voor het verstrijken van de geldigheidsduur ervan ingetrokken indien de deskundige niet langer een functie bij de Kosovo Relocated Specialist Judicial Institution vervult of de aanwezigheid van de deskundige op de zetel van de Kosovo Relocated Specialist Judicial Institution niet langer vereist is.
+- d) for the purpose of their communications with the Kosovo Relocated Specialist Judicial Institution the right to receive and send papers in whatever form.
 
-3. Met uitzondering van het eerste lid, onderdeel c, van dit artikel, houden de voorrechten, immuniteiten en faciliteiten genoemd in het eerste lid van dit artikel na vijftien (15) opeenvolgende dagen na de datum waarop de aanwezigheid van de deskundige voor de Kosovo Relocated Specialist Judicial Institution niet langer vereist is op van kracht te zijn.
+5. Experts shall not be subjected by the Host State to any measure which may affect the independent performance of their functions for the Kosovo Relocated Specialist Judicial Institution.
 
-4. Deskundigen die onderdaan of permanent ingezetene van de gastheerstaat zijn, genieten uitsluitend de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor de onafhankelijke uitoefening van hun functie voor de Kosovo Relocated Specialist Judicial Institution:
+##### Article 24. Counsel and persons assisting counsel
 
-- a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking;
+1. Counsel shall enjoy the following privileges, immunities and facilities to the extent necessary for the free and independent exercise of their functions, subject to the procedure referred to in paragraph 2 of this Article and subject to the notification procedure required under [Article 33](https://wetten.overheid.nl/BWBV0006581) of this Agreement:
 
-- b. immuniteit van rechtsvervolging met betrekking tot alle door hen bij de uitoefening van hun functie gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie;
+- a) immunity from personal arrest or detention or any other restriction of their liberty in respect of acts or convictions prior to their entry into the territory of the Host State;
 
-- c. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot de uitoefening van hun functie;
+- b) immunity from seizure of their personal baggage;
 
-- d. het recht ten behoeve van de communicatie met de Kosovo Relocated Specialist Judicial Institution in welke vorm dan ook stukken te ontvangen en te verzenden.
+- c) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Kosovo Relocated Specialist Judicial Institution;
 
-5. Deskundigen worden door de gastheerstaat niet aan enige maatregel onderworpen die de onafhankelijke uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution kan beïnvloeden.
+- d) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions;
 
-##### Artikel 24. Raadslieden en personen die de verdediging bijstaan
+- e) for the purposes of communications in pursuance of their functions as counsel, the right to receive and send papers and documents in whatever form;
 
-1. De raadslieden genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover nodig voor de vrije en onafhankelijke uitoefening van hun functie, met inachtneming van de procedure bedoeld in het tweede lid van dit artikel en van de ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2017-01-01&g=2017-01-01) van dit Verdrag vereiste kennisgevingsprocedure:
+- f) together with members of their family forming part of their household, exemption from immigration restrictions and alien registration;
 
-- a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van de gastheerstaat;
+- g) exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the Host State; an inspection in such a case shall be conducted in the presence of the counsel concerned;
 
-- b. immuniteit van inbeslagname van hun persoonlijke bagage;
+- h) the same privileges in respect of currency and exchange facilities as are accorded to representatives of foreign Governments on temporary official missions;
 
-- c. immuniteit van enigerlei rechtsvervolging met betrekking tot alle in hun officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution;
+- i) together with members of their family forming part of the household, the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
-- d. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot de uitoefening van hun functie;
+2. Upon appointment of counsel in accordance with Law No. 05/L-053, rules, regulations and policies of the Kosovo Relocated Specialist Judicial Institution, counsel shall be provided with a certificate under the signature of the Registrar for the period required for the performance of their functions. This certificate shall be withdrawn if the power or mandate is terminated prior to the expiry of the certificate.
 
-- e. ten behoeve van de communicatie uit hoofde van hun functie als raadslieden, het recht stukken en documenten in welke vorm dan ook te ontvangen en te verzenden;
+3. With respect to the inheritance and gift tax, which depends upon residence, periods during which counsel are present in the Host State for the discharge of their functions shall not be considered as periods of residence.
 
-- f. tezamen met de gezinsleden die deel uitmaken van hun huishouding, vrijstelling van inreisbeperkingen en vreemdelingenregistratie;
+4. Persons referred to in this Article who are nationals or permanent residents of the Host State shall enjoy only the following privileges, immunities and facilities to the extent necessary for the independent performance of their functions before the Kosovo Relocated Specialist Judicial Institution:
 
-- g. vrijstelling van inspectie van persoonlijke bagage, tenzij gegronde redenen bestaan om aan te nemen dat de bagage artikelen bevat waarvan de invoer of uitvoer bij wet verboden is of waarop de quarantainevoorschriften van de gastheerstaat van toepassing zijn; in een dergelijk geval wordt een inspectie uitgevoerd in aanwezigheid van de betrokken raadsman;
+- a) immunity from personal arrest or detention or any other restriction of their liberty;
 
-- h. dezelfde voorrechten met betrekking tot valuta- en wisselfaciliteiten als die welke worden toegekend aan vertegenwoordigers van buitenlandse regeringen van tijdelijke officiële missies;
+- b) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the performance of their functions, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Kosovo Relocated Specialist Judicial Institution;
 
-- i. tezamen met de gezinsleden die deel uitmaken van hun huishouding, dezelfde repatriëringsfaciliteiten als die welke overeenkomstig het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) bij internationale crises gelden voor diplomatieke ambtenaren.
+- c) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions;
 
-2. Wanneer raadslieden zijn benoemd overeenkomstig wet nr. 05/L-053, de voorschriften en het beleid van de Kosovo Relocated Specialist Judicial Institution, wordt aan de raadslieden een door de griffier ondertekend certificaat uitgereikt voor het tijdvak benodigd voor de uitoefening van hun functie. Indien de volmacht of het mandaat wordt beëindigd voor het verstrijken van de geldigheidsduur van het certificaat, wordt dit certificaat ingetrokken.
+- d) for the purpose of their communications in pursuance of their functions as counsel, the right to receive and send papers in whatever form.
 
-3. Voor de successie- en schenkingsrechten die worden gebaseerd op het ingezetenschap worden tijdvakken gedurende welke de raadslieden voor de uitoefening van hun functie aanwezig zijn in de gastheerstaat, niet aangemerkt als tijdvakken van ingezetenschap.
+5. Counsel shall not be subjected by the Host State to any measure which may affect the free and independent performance of their functions for the Kosovo Relocated Specialist Judicial Institution.
 
-4. Personen bedoeld in dit artikel die onderdaan of permanent ingezetene van de gastheerstaat zijn, genieten uitsluitend de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor de onafhankelijke uitoefening van hun functie voor de Kosovo Relocated Specialist Judicial Institution:
+6. This Article shall be without prejudice to such disciplinary rules as may be applicable to counsel.
 
-- a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking;
+7. The provisions of this Article shall apply, *mutatis mutandis*, to persons assisting counsel, recognised by the Registrar as such, in accordance with the relevant rules, regulations and policies of the Kosovo Specialist Judicial Institution.
 
-- b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle in hun officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na beëindiging van de uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution;
+##### Article 25. Witnesses
 
-- c. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot de uitoefening van hun functie;
+1. Witnesses shall enjoy the following privileges, immunities and facilities to the extent necessary for their appearance before the Kosovo Relocated Specialist Judicial Institution for purposes of giving evidence, subject to the production of the document referred to in paragraph 2 of this Article and subject to the notification procedure required under [Article 33](https://wetten.overheid.nl/BWBV0006581) of this Agreement:
 
-- d. ten behoeve van hun communicatie uit hoofde van hun functie als raadslieden, het recht stukken en documenten in welke vorm dan ook te ontvangen en te verzenden.
+- a) immunity from personal arrest or detention or any other restriction of their liberty in respect of acts or convictions prior to their entry into the territory of the Host State;
 
-5. Raadslieden worden door de gastheerstaat niet aan enige maatregel onderworpen die de onafhankelijke uitoefening van hun functie bij de Kosovo Relocated Specialist Judicial Institution kan beïnvloeden.
+- b) immunity from seizure of their personal baggage unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the Host State;
 
-6. Dit artikel doet geen afbreuk aan mogelijke disciplinaire regels die op de raadslieden van toepassing zijn.
+- c) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the course of their appearance or testimony, which immunity shall continue to be accorded even after their appearance or testimony before the Kosovo Relocated Specialist Judicial Institution;
 
-7. De bepalingen van dit artikel zijn van overeenkomstige toepassing op personen die de verdediging bijstaan en als zodanig door de griffier zijn erkend, overeenkomstig de relevante regels en procedures van de Kosovo Relocated Specialist Judicial Institution.
+- d) inviolability of all papers and documents in whatever form and materials relating to their appearance or testimony;
 
-##### Artikel 25. Getuigen
+- e) exemption from immigration restrictions and alien registration when they travel for purposes of their appearance or testimony;
 
-1. Getuigen genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor hun verschijning voor de Kosovo Relocated Specialist Judicial Institution ten behoeve van het afleggen van een getuigenverklaring, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd en met inachtneming van de vereiste kennisgevingsprocedure uit hoofde van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2017-01-01&g=2017-01-01) van dit Verdrag:
+- f) for the purpose of their communications with the Kosovo Relocated Specialist Judicial Institution and with defence counsel in connection with their appearance or testimony, the right to receive and send papers in whatever form; and
 
-- a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van de gastheerstaat;
+- g) the same repatriation facilities in time of international crisis as are accorded to diplomatic envoys under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
-- b. immuniteit van inbeslagname van hun persoonlijke bagage, tenzij gegronde redenen bestaan om aan te nemen dat de bagage artikelen bevat waarvan de invoer of uitvoer bij wet verboden is of waarop de quarantainevoorschriften van de gastheerstaat van toepassing zijn;
+2. Witnesses shall be provided by the Registrar with a document certifying that their appearance is required by the Kosovo Relocated Specialist Judicial Institution and specifying a time period during which such appearance is necessary. This certificate shall be withdrawn prior to its expiry if the witness’ appearance before the Kosovo Relocated Specialist Judicial Institution or his or her presence at the seat of the Kosovo Relocated Specialist Judicial Institution is no longer required.
 
-- c. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen gedurende hun verschijning of getuigenverklaring gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na hun verschijning of getuigenverklaring voor de Kosovo Relocated Specialist Judicial Institution;
+3. The privileges, immunities and facilities referred to in paragraph 1 of this Article, except for that referred to in paragraph 1(c) of this Article, shall cease to apply after fifteen (15) consecutive days following the date on which the presence of the witness concerned is no longer required by the Kosovo Relocated Specialist Judicial Institution, provided that such witness had an opportunity to leave the Host State during that period.
 
-- d. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot hun verschijning of getuigenverklaring;
+4. Witnesses who are nationals or permanent residents of the Host State shall enjoy only the following privileges, immunities and facilities to the extent necessary for their appearance or testimony before the Kosovo Relocated Specialist Judicial Institution:
 
-- e. vrijstelling van inreisbeperkingen en vreemdelingenregistratie wanneer zij reizen ten behoeve van hun verschijning of getuigenverklaring;
+- a) immunity from personal arrest or detention or any other restriction of their liberty;
 
-- f. ten behoeve van de communicatie met de Kosovo Relocated Specialist Judicial Institution en met de raadslieden in verband met hun verschijning of getuigenverklaring, het recht stukken in welke vorm dan ook te ontvangen en te verzenden; en
+- b) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the course of their appearance or testimony, which immunity shall continue to be accorded even after their appearance or testimony before the Kosovo Relocated Specialist Judicial Institution;
 
-- g. dezelfde repatriëringsfaciliteiten als die welke overeenkomstig het [Verdrag van Wenen](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) bij internationale crises gelden voor diplomatieke gezanten.
+- c) inviolability of all official papers and documents in whatever form and materials;
 
-2. Aan getuigen wordt door de griffier een document uitgereikt waaruit blijkt dat hun verschijning door de Kosovo Relocated Specialist Judicial Institution vereist is en waarin het tijdvak wordt vermeld waarin hun aanwezigheid nodig is. Dit certificaat wordt voor het verstrijken van de geldigheidsduur ervan ingetrokken indien de verschijning van de getuige voor de Kosovo Relocated Specialist Judicial Institution, of zijn of haar aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution niet langer vereist is.
+- d) for the purpose of their communications with the Kosovo Relocated Specialist Judicial Institution and with counsel in connection with their appearance or testimony, the right to receive and send papers in whatever form.
 
-3. De in het eerste lid van dit artikel bedoelde voorrechten, immuniteiten en faciliteiten, uitgezonderd die bedoeld in het eerste lid, onderdeel c, van dit artikel houden op van toepassing te zijn na een tijdvak van vijftien (15) aaneengesloten dagen na de datum waarop de aanwezigheid van de betrokken getuige niet langer door de Kosovo Relocated Specialist Judicial Institution vereist is, op voorwaarde dat een dergelijke getuige de gelegenheid heeft gehad de gastheerstaat in dat tijdvak te verlaten.
+5. Witnesses shall not be subjected by the Host State to any measure which may affect their appearance or testimony before the Kosovo Relocated Specialist Judicial Institution.
 
-4. Getuigen die onderdaan of permanent ingezetene van de gastheerstaat zijn, genieten uitsluitend de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor hun verschijning of getuigenverklaring voor de Kosovo Relocated Specialist Judicial Institution:
+6. Witnesses who are not nationals or permanent residents of the Host State and whose appearance before the Kosovo Relocated Specialist Judicial Institution or their presence at the seat of the Kosovo Relocated Specialist Judicial Institution is no longer required, shall be obliged to leave the Host State. The Registrar shall take all necessary measures to arrange the relocation without delay to third States of witnesses who for security reasons cannot return to their home countries or their countries of permanent residence after appearing or testifying before the Kosovo Relocated Specialist Judicial Institution.
 
-- a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking;
+##### Article 26. Victims
 
-- b. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen gedurende hun verschijning of getuigenverklaring gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na hun verschijning of getuigenverklaring voor de Kosovo Relocated Specialist Judicial Institution;
+1. Victims participating in the proceedings in accordance with Article 22 of Law No. 05/L-053 shall enjoy the following privileges, immunities and facilities to the extent necessary for their appearance before the Kosovo Relocated Specialist Judicial Institution, subject to the production of the document referred to in paragraph 2 of this Article and subject to the notification procedure required under [Article 33](https://wetten.overheid.nl/BWBV0006581) of this Agreement:
 
-- c. onschendbaarheid van alle officiële stukken en documenten in welke vorm dan ook en materiaal;
+- a) immunity from personal arrest or detention or any other restriction of their liberty in respect of acts or convictions prior to their entry into the territory of the Host State;
 
-- d. ten behoeve van de communicatie met de Kosovo Relocated Specialist Judicial Institution en met de raadslieden in verband met hun verschijning of getuigenverklaring, het recht stukken in welke vorm dan ook te ontvangen en te verzenden.
+- b) immunity from seizure of their personal baggage unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the Host State;
 
-5. Getuigen worden door de gastheerstaat niet aan enige maatregel onderworpen die hun verschijning of getuigenverklaring voor de Kosovo Relocated Specialist Judicial Institution kan beïnvloeden.
+- c) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the course of their appearance before the Kosovo Relocated Specialist Judicial Institution, which immunity shall continue to be accorded even after their appearance before the Kosovo Relocated Specialist Judicial Institution;
 
-6. Getuigen die geen onderdaan of permanent ingezetene van de gastheerstaat zijn en wier verschijning voor de Kosovo Relocated Specialist Judicial Institution of aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution vereist is, zijn verplicht de gastheerstaat te verlaten. De griffier neemt alle maatregelen die noodzakelijk zijn om de onverwijlde verplaatsing naar een derde staat te regelen van getuigen die na het verschijnen of afleggen van een getuigenverklaring voor de Kosovo Relocated Specialist Judicial Institution om veiligheidsredenen niet kunnen terugkeren naar hun vaderland of naar het land waar zij hun vaste verblijfplaats hebben.
+- d) inviolability of all papers, documents in whatever form and materials relating to their participation in proceedings before the Kosovo Relocated Specialist Judicial Institution;
 
-##### Artikel 26. Slachtoffers
+- e) exemption from immigration restrictions or alien registration when they travel to and from the Kosovo Relocated Specialist Judicial Institution for purposes of their appearance.
 
-1. Slachtoffers die betrokken zijn bij de procedures in overeenstemming met artikel 22 van wet nr. 05/L-053 genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor hun verschijning voor de Kosovo Relocated Specialist Judicial Institution, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd en met inachtneming van de vereiste kennisgevingsprocedure uit hoofde van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2017-01-01&g=2017-01-01) van dit Verdrag:
+2. Victims shall be provided by the Registrar with a document certifying their participation in the proceedings of the Kosovo Relocated Specialist Judicial Institution and specifying a time period for that participation. Such document shall be withdrawn prior to its expiry if the victim is no longer participating in the proceedings of the Kosovo Relocated Specialist Judicial Institution, or if the victim's presence at the seat of the Kosovo Relocated Specialist Judicial Institution is no longer required.
 
-- a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van de gastheerstaat;
+3. The privileges, immunities and facilities referred to in paragraph 1 of this Article shall cease to apply after fifteen (15) consecutive days following the date on which the presence of the victim concerned is no longer required by the Kosovo Relocated Specialist Judicial Institution, provided such victim had an opportunity to leave the Host State during that period.
 
-- b. immuniteit van inbeslagname van hun persoonlijke bagage, tenzij gegronde redenen bestaan om aan te nemen dat de bagage artikelen bevat waarvan de invoer of uitvoer bij wet verboden is of waarop de quarantainevoorschriften van de gastheerstaat van toepassing zijn;
+4. Victims who are nationals or permanent residents of the Host State shall enjoy no privileges, immunities and facilities, except, to the extent necessary for their appearance before the Kosovo Relocated Specialist Judicial Institution, immunity from legal process in respect of words spoken or written and all acts performed by them in the course of their appearance before the Kosovo Relocated Specialist Judicial Institution, which immunity shall continue to be accorded even after their appearance before the Kosovo Relocated Specialist Judicial Institution.
 
-- c. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen gedurende hun verschijning gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na hun verschijning voor de Kosovo Relocated Specialist Judicial Institution;
+5. Victims shall not be subjected by the Host State to any measure which may affect their appearance before the Kosovo Relocated Specialist Judicial Institution.
 
-- d. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot hun deelname aan de procedure voor de Kosovo Relocated Specialist Judicial Institution;
+##### Article 27. Other persons, excluding accused and suspects, required to be present at the seat of the Kosovo Relocated Specialist Judicial Institution
 
-- e. vrijstelling van inreisbeperkingen en vreemdelingenregistratie wanneer zij ten behoeve van hun verschijning naar en van de Kosovo Relocated Specialist Judicial Institution reizen.
+1. Other persons, excluding accused and suspects, required to be present at the seat of the Kosovo Relocated Specialist Judicial Institution shall, to the extent necessary for the proper functioning of the Kosovo Relocated Specialist Judicial Institution, be accorded the following privileges, immunities and facilities subject to production of the document referred to in paragraph 2 of this Article and subject to the notification procedure required under [Article 33](https://wetten.overheid.nl/BWBV0006581) of this Agreement:
 
-2. Aan slachtoffers wordt door de griffier een document uitgereikt waaruit hun deelname aan de procedure voor de Kosovo Relocated Specialist Judicial Institution blijkt en waarin het tijdsbestek van die deelname wordt vermeld. Een dergelijk document wordt voor het verstrijken van de geldigheidsduur ervan ingetrokken indien het slachtoffer niet langer deelneemt aan de procedures voor de Kosovo Relocated Specialist Judicial Institution, of de aanwezigheid van het slachtoffer op de zetel van de Kosovo Relocated Specialist Judicial Institution niet langer vereist is.
+- a) immunity from personal arrest or detention or any other restriction of their liberty in respect of acts or convictions prior to their entry into the territory of the Host State;
 
-3. De in het eerste lid van dit artikel bedoelde voorrechten, immuniteiten en faciliteiten houden op van toepassing te zijn na een tijdvak van vijftien (15) aaneengesloten dagen na de datum waarop de aanwezigheid van het betrokken slachtoffer niet langer door de Kosovo Relocated Specialist Judicial Institution vereist is, op voorwaarde dat een dergelijk slachtoffer de gelegenheid heeft gehad de gastheerstaat in dat tijdvak te verlaten.
+- b) immunity from seizure of their personal baggage unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the Host State;
 
-4. Slachtoffers die onderdaan of permanent ingezetene van de gastheerstaat zijn, genieten geen voorrechten, immuniteiten en faciliteiten, uitgezonderd, voor zover benodigd voor hun verschijning voor de Kosovo Relocated Specialist Judicial Institution, immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen tijdens hun verschijning voor de Kosovo Relocated Specialist Judicial Institution gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na hun verschijning voor de Kosovo Relocated Specialist Judicial Institution.
+- c) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the course of their presence at the seat of the Kosovo Relocated Specialist Judicial Institution, which immunity shall continue to be accorded even after their presence at the seat of the Kosovo Relocated Specialist Judicial Institution;
 
-5. Slachtoffers worden door de gastheerstaat niet aan enige maatregel onderworpen die hun verschijning voor de Kosovo Relocated Specialist Judicial Institution kan beïnvloeden.
+- d) inviolability of all papers, documents in whatever form and materials relating to their presence at the seat of the Kosovo Relocated Specialist Judicial Institution;
 
-##### Artikel 27. Overige personen anders dan aangeklaagden en verdachten wier aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution vereist is
+- e) exemption from immigration restrictions and alien registration when they travel to and from the Kosovo Relocated Specialist Judicial Institution for purposes of their presence at the seat of the Kosovo Relocated Specialist Judicial Institution.
 
-1. Aan overige personen anders dan aangeklaagden en verdachten wier aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution vereist is worden, voor zover benodigd voor het naar behoren functioneren van de Kosovo Relocated Specialist Judicial Institution, de volgende voorrechten, immuniteiten en faciliteiten toegekend, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd en met inachtneming van de ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2017-01-01&g=2017-01-01) van dit Verdrag vereiste kennisgevingsprocedure:
+2. Persons referred to in this Article shall be provided by the Registrar with a document certifying that their presence is required at the seat of the Kosovo Relocated Specialist Judicial Institution and specifying a time period during which such presence is necessary. Such document shall be withdrawn prior to its expiry if their presence at the seat of the Kosovo Relocated Specialist Judicial Institution is no longer required.
 
-- a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van de gastheerstaat;
+3. With the exception of paragraph 1(c) of this Article, the privileges, immunities and facilities referred to in paragraph 1 of this Article shall cease to apply after fifteen (15) consecutive days following the date on which the presence of such other person concerned, excluding accused and suspects, is no longer required by the Kosovo Relocated Specialist Judicial Institution.
 
-- b. immuniteit van inbeslagname van hun persoonlijke bagage, tenzij gegronde redenen bestaan om aan te nemen dat de bagage artikelen bevat waarvan de invoer of uitvoer bij wet verboden is of waarop de quarantainevoorschriften van de gastheerstaat van toepassing zijn;
+4. Persons referred to in this Article who are nationals or permanent residents of the Host State shall enjoy no privileges, immunities and facilities, except, to the extent necessary for their presence at the seat of the Kosovo Relocated Specialist Judicial Institution, immunity from legal process in respect of words spoken or written and all acts performed by them in the course of their presence at the seat of the Kosovo Relocated Specialist Judicial Institution. Such immunity shall continue to be accorded even after their presence at the seat of the Kosovo Relocated Specialist Judicial Institution is no longer required.
 
-- c. immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen gedurende hun aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution gesproken of geschreven woorden en verrichte handelingen; deze immuniteit blijft ook gelden na hun aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution;
+5. Persons referred to in this Article shall not be subjected by the Host State to any measures which may affect their presence at the seat of the Kosovo Relocated Specialist Judicial Institution.
 
-- d. onschendbaarheid van alle stukken en documenten in welke vorm dan ook en materiaal met betrekking tot hun deelname aan de procedure voor de Kosovo Relocated Specialist Judicial Institution;
+##### Article 28. Employment of Family members of the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar and staff
 
-- e. vrijstelling van inreisbeperkingen en vreemdelingenregistratie wanneer zij ten behoeve van hun aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution van en naar de Kosovo Relocated Specialist Judicial Institution reizen.
+1. Members of the family forming part of the household of a judge, Specialist Prosecutor, Deputy Specialist Prosecutor, Registrar, Deputy Registrar or member of the staff shall be authorized to engage in gainful employment in the Host State for the duration of the term of office of the judge, Specialist Prosecutor, Deputy Specialist Prosecutor, Registrar, Deputy Registrar or member of the staff concerned.
 
-2. Aan de in dit artikel bedoelde personen wordt door de griffier een document uitgereikt waaruit blijkt dat hun aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution vereist is en waarin het tijdvak wordt vermeld waarin hun aanwezigheid nodig is. Een dergelijk document wordt voor het verstrijken van de geldigheidsduur ervan ingetrokken indien hun aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution niet langer vereist is.
+2. Members of the family forming part of the household of a judge, Specialist Prosecutor, Deputy Specialist Prosecutor, Registrar, Deputy Registrar, or member of the staff who obtain gainful employment shall enjoy no immunity from criminal, civil or administrative jurisdiction with respect to matters arising in the course of or in connection with such employment. However, any measures of execution shall be taken without infringing the inviolability of their person or of their residence, if they are entitled to such inviolability.
 
-3. Met uitzondering van het eerste lid, onderdeel c, van dit artikel, houden de voorrechten, immuniteiten en faciliteiten genoemd in het eerste lid van dit artikel na vijftien (15) opeenvolgende dagen na de datum waarop de aanwezigheid van deze overige personen anders dan aangeklaagden en verdachten voor de Kosovo Relocated Specialist Judicial Institution niet langer vereist is op van kracht te zijn.
+3. In case of the insolvency of a person aged under 18 with respect to a claim arising out of gainful employment of that person, the immunity of the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar and staff of whose family the person concerned is a member shall be waived for the purpose of settlement of the claim, in accordance with the provisions of [Article 30](https://wetten.overheid.nl/BWBV0006581) of this Agreement.
 
-4. In dit artikel bedoelde personen die onderdaan of permanent ingezetene van de gastheerstaat zijn, genieten geen voorrechten, immuniteiten en faciliteiten, uitgezonderd, voor zover benodigd voor hun aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution, immuniteit van enigerlei rechtsvervolging met betrekking tot alle door hen tijdens hun aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution gesproken of geschreven woorden en verrichte handelingen. Deze immuniteit blijft ook gelden nadat hun aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution niet langer vereist is.
+4. The employment referred to in paragraph 1 of this Article shall be in accordance with the legislation of the Host State, including fiscal and social security legislation.
 
-5. In dit artikel bedoelde personen worden door de gastheerstaat niet aan enige maatregel onderworpen die hun aanwezigheid voor de Kosovo Relocated Specialist Judicial Institution kan beïnvloeden.
+##### Article 29. Exceptions to immunities
 
-##### Artikel 28. Werkzaamheden van gezinsleden van de rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier, de plaatsvervangend griffier en van personeel
+The immunity granted to persons mentioned in [Article 19, paragraph 1](https://wetten.overheid.nl/BWBV0006581); [Article 20, paragraphs 1 to 3 and paragraph 6](https://wetten.overheid.nl/BWBV0006581); [Article 21](https://wetten.overheid.nl/BWBV0006581); [Article 22, paragraph 3](https://wetten.overheid.nl/BWBV0006581), [Article 23, paragraphs 1 and 4](https://wetten.overheid.nl/BWBV0006581), [Article 24, paragraphs 1 and 4](https://wetten.overheid.nl/BWBV0006581), shall not extend to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
 
-1. Het wordt gezinsleden die deel uitmaken van de huishouding van een rechter, Speciale Aanklager, plaatsvervangend Speciale Aanklager, griffier, plaatsvervangend griffier of van een lid van het personeel van de Kosovo Relocated Specialist Judicial Institution toegestaan in de gastheerstaat betaalde werkzaamheden te verrichten gedurende het tijdvak waarin de desbetreffende rechter, Speciale Aanklager, plaatsvervangend Speciale Aanklager, griffier, of plaatsvervangend griffier of het lid van het personeel van de Kosovo Relocated Specialist Judicial Institution is aangesteld.
+### PART IV. WAIVER OF PRIVILEGES, IMMUNITIES AND FACILITIES
 
-2. Gezinsleden die deel uitmaken van de huishouding van een rechter, Speciale Aanklager, plaatsvervangend Speciale Aanklager, griffier, plaatsvervangend griffier of van een lid van het personeel van de Kosovo Relocated Specialist Judicial Institution die betaalde werkzaamheden verrichten, genieten geen immuniteit ten aanzien van de strafrechtelijke, civielrechtelijke of bestuursrechtelijke rechtsmacht wat betreft aangelegenheden die ontstaan in de loop van of verband houden met deze werkzaamheden. Executoriale maatregelen worden evenwel genomen zonder inbreuk te maken op de onschendbaarheid van hun persoon of hun woning, indien zij recht hebben op een dergelijke onschendbaarheid.
+##### Article 30. Waiver of privileges, immunities and facilities provided for in Articles 19, 20, 21, 22, 23, 24, 25, 26 and 27
 
-3. Bij insolventie van een persoon jonger dan 18 jaar in verband met een vordering die voortvloeit uit betaalde werkzaamheden van die persoon wordt in overeenstemming met de bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=IV&artikel=30&z=2017-01-01&g=2017-01-01) van dit Verdrag ten behoeve van schikking van de vordering de immuniteit opgeheven van de rechter, Speciale Aanklager, plaatsvervangend Speciale Aanklager, griffier, de plaatsvervangend griffier of het personeel van wiens gezin de betrokkene lid is.
+1. The privileges, immunities and facilities provided for in [Articles 19](https://wetten.overheid.nl/BWBV0006581), [20](https://wetten.overheid.nl/BWBV0006581), [21](https://wetten.overheid.nl/BWBV0006581), [22](https://wetten.overheid.nl/BWBV0006581), [23](https://wetten.overheid.nl/BWBV0006581), [24](https://wetten.overheid.nl/BWBV0006581), [25](https://wetten.overheid.nl/BWBV0006581), [26](https://wetten.overheid.nl/BWBV0006581) and [27](https://wetten.overheid.nl/BWBV0006581) of this Agreement are granted in the interests of the Kosovo Relocated Specialist Judicial Institution and not for the personal benefit of the persons themselves.
 
-4. De in het eerste lid van dit artikel bedoelde werkzaamheden dienen in overeenstemming te zijn met de wetgeving van de gastheerstaat, met inbegrip van de wetgeving inzake belastingen en sociale zekerheid.
+2. The immunity of any person granted under this Agreement shall be waived as set out in Law No. 04/L-274 of the Republic of Kosovo in any particular case where the immunity would impede the course of justice and can be waived without prejudice to
 
-##### Artikel 29. Uitzondering op immuniteit
+- a. the purpose for which it is accorded; or
 
-De immuniteit verleend aan de personen genoemd in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=19&z=2017-01-01&g=2017-01-01), [artikel 20, eerste tot en met derde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=20&z=2017-01-01&g=2017-01-01), [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2017-01-01&g=2017-01-01), [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01), [artikel 23, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01), en [artikel 24, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2017-01-01&g=2017-01-01) strekt zich niet uit tot civiele vorderingen van een derde wegens schadevergoeding, met inbegrip van persoonlijke letsel of overlijden ten gevolge van een verkeersongeval veroorzaakt door een dergelijke persoon.
+- b. the interests of the Kosovo Relocated Specialist Judicial Institution.
 
-### DEEL IV. OPHEFFING VAN VOORRECHTEN, IMMUNITEITEN EN FACILITEITEN
+### PART V. COOPERATION BETWEEN THE KOSOVO RELOCATED SPECIALIST JUDICIAL INSTITUTION AND THE HOST STATE
 
-##### Artikel 30. Opheffing van de in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=19&z=2017-01-01&g=2017-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=20&z=2017-01-01&g=2017-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2017-01-01&g=2017-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2017-01-01&g=2017-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2017-01-01&g=2017-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2017-01-01&g=2017-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01) voorziene voorrechten, immuniteiten en faciliteiten
+#### SECTION 1. : GENERAL
 
-1. De in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=19&z=2017-01-01&g=2017-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=20&z=2017-01-01&g=2017-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2017-01-01&g=2017-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2017-01-01&g=2017-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2017-01-01&g=2017-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2017-01-01&g=2017-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01) van dit Verdrag voorziene voorrechten, immuniteiten en faciliteiten worden toegekend in het belang van de Kosovo Relocated Specialist Judicial Institution en niet voor het persoonlijk gewin van de betrokkenen zelf.
+##### Article 31. General cooperation between the Kosovo Relocated Specialist Judicial Institution and the Host State
 
-2. De immuniteit uit hoofde van dit Verdrag verleend aan een persoon wordt opgeheven zoals vervat in wet nr. 04/L-274 van de Republiek Kosovo in elk geval waarin de immuniteit de rechtsgang zou belemmeren en deze kan worden opgeheven zonder afbreuk te doen aan
+1. Whenever this Agreement imposes obligations on the competent authorities, the ultimate responsibility for the fulfilment of such obligations shall rest with the Government of the Host State.
 
-- a. het doel waarvoor deze is toegekend; of
+2. The Host State shall promptly inform the Registrar of the office designated to serve as the official contact point and to be primarily responsible for all matters in relation to this Agreement, as well as of any subsequent changes in this regard.
 
-- b. de belangen van de Kosovo Relocated Specialist Judicial Institution.
+3. The Registrar, or a staff member designated by him or her, shall serve as the official contact point for the Host State, and shall be primarily responsible for all matters in relation to this Agreement. The Host State shall be informed promptly about this designation and of any subsequent changes in this regard.
 
-### DEEL V. SAMENWERKING TUSSEN DE KOSOVO RELOCATED SPECIALIST JUDICIAL INSTITUTION EN DE GASTHEERSTAAT
+##### Article 32. Cooperation with the competent authorities
 
-#### SECTIE 1. : ALGEMEEN
+1. The Kosovo Relocated Specialist Judicial Institution shall cooperate at all times with the competent authorities to facilitate the proper administration of justice, the enforcement of the laws of the Host State, to secure the observance of police regulations and to prevent the occurrence of any abuse in connection with the privileges, immunities and facilities accorded under this Agreement.
 
-##### Artikel 31. Algemene samenwerking tussen de Kosovo Relocated Specialist Judicial Institution en de gastheerstaat
+2. The Kosovo Relocated Specialist Judicial Institution and the Host State shall cooperate on security matters, taking into account the public order and national security of the Host State.
 
-1. Waar dit Verdrag verplichtingen oplegt aan de bevoegde autoriteiten, ligt de uiteindelijke verantwoordelijkheid voor de vervulling van deze verplichtingen bij de regering van de gastheerstaat.
+3. Without prejudice to their privileges, immunities and facilities, it is the duty of all persons enjoying such privileges, immunities and facilities to respect the laws and regulations of the Host State. They also have the duty not to interfere in the internal affairs of the Host State.
 
-2. De gastheerstaat stelt de griffier onverwijld in kennis van de keuze van de instantie die wordt aangewezen als officieel en primair verantwoordelijk aanspreekpunt ten aanzien van alle aangelegenheden met betrekking tot dit Verdrag en van alle eventuele latere wijzigingen ter zake.
+4. The Kosovo Relocated Specialist Judicial Institution shall cooperate with the competent authorities responsible for health, safety at work, electronic communications and fire prevention.
 
-3. De griffier, of een door hem of haar aangewezen lid van het personeel, fungeert als officieel aanspreekpunt voor de gastheerstaat en is primair verantwoordelijk ten aanzien van alle aangelegenheden met betrekking tot dit Verdrag. De gastheerstaat wordt onverwijld van deze aanwijzing in kennis gesteld alsmede van alle eventuele wijzigingen ter zake.
+5. The Kosovo Relocated Specialist Judicial Institution shall observe all security directives as agreed with the Host State, as well as all directives of the competent authorities responsible for fire prevention regulations.
 
-##### Artikel 32. Samenwerking met de bevoegde autoriteiten
+##### Article 33. Notification and Identification Cards
 
-1. De Kosovo Relocated Specialist Judicial Institution werkt te allen tijde samen met de bevoegde autoriteiten teneinde een goede rechtsbedeling en de handhaving van de wetten van de gastheerstaat te vergemakkelijken, de naleving van politievoorschriften te waarborgen en gevallen van misbruik in verband met de uit hoofde van dit Verdrag verleende voorrechten, immuniteiten en faciliteiten te voorkomen.
+1. The Registrar shall promptly, and no later than ten (10) days prior to the date of their arrival, notify the Host State of the presence in the Host State of witnesses, victims and other persons as referred to in [Article 27](https://wetten.overheid.nl/BWBV0006581) of this Agreement. If in exceptional circumstances the ten (10) days prior notification is not possible, the Registrar shall consult the Ministry of Foreign Affairs immediately.
 
-2. De Kosovo Relocated Specialist Judicial Institution en de gastheerstaat werken samen op het gebied van veiligheid, daarbij rekening houdend met de openbare orde en nationale veiligheid van de gastheerstaat.
+2. The Registrar shall promptly, and no later than eight (8) days after the date of their first arrival in the Host State, notify the Host State of:
 
-3. Onverminderd hun voorrechten, immuniteiten en faciliteiten is het de plicht van alle personen die uit hoofde van dit Verdrag dergelijke voorrechten, immuniteiten en faciliteiten genieten de wet- en regelgeving van de gastheerstaat na te leven. Zij zijn tevens gehouden zich niet te mengen in de interne aangelegenheden van de gastheerstaat.
+- a) the presence of the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar and staff;
 
-4. De Kosovo Relocated Specialist Judicial Institution werkt samen met de bevoegde autoriteiten die verantwoordelijk zijn voor gezondheid, arbeidsveiligheid, elektronische communicatie en brandpreventie.
+- b) the presence of interns;
 
-5. De Kosovo Relocated Specialist Judicial Institution eerbiedigt de met de gastheerstaat overeengekomen veiligheidsrichtlijnen, alsook de richtlijnen van de bevoegde autoriteiten die verantwoordelijk zijn voor de voorschriften inzake brandpreventie.
+- c) the presence of experts;
 
-##### Artikel 33. Kennisgeving en identiteitskaarten
+- d) the presence of counsel and persons assisting counsel;
 
-1. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk tien (10) dagen vóór de datum van hun aankomst, in kennis van de aanwezigheid in de gastheerstaat van getuigen, slachtoffers en andere personen zoals bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01) van dit Verdrag. Indien in uitzonderlijke omstandigheden de voorafgaande kennisgeving van tien (10) dagen niet mogelijk is, treedt de griffier onverwijld in overleg met het ministerie van Buitenlandse Zaken.
+- e) the presence of members of the family forming part of the household of the persons referred to in subparagraphs a) and d);
 
-2. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk acht (8) dagen na hun eerste aankomst in de gastheerstaat in kennis van:
+- f) the presence of private servants of persons referred to in subparagraph a) of this paragraph;
 
-- a. de aanwezigheid van de rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier, de plaatsvervangend griffier en van personeel;
+- g) the date of the arrival of the persons referred to in subparagraphs (a), (b), (c), (d), (e), and (f) of this paragraph.
 
-- b. de aanwezigheid van stagiairs;
+3. With respect to persons referred to in paragraph 2(a), the Registrar shall promptly, but within eight (8) days, notify the Host State of their appointment. With respect to persons referred to in paragraph 2(b), the Registrar shall promptly, but within eight (8) days, notify the Host State of the acceptation of such persons into the internship programme of the Kosovo Relocated Specialist Judicial Institution.
 
-- c. de aanwezigheid van deskundigen;
+4. The Registrar shall promptly, but within eight (8) days, notify the Host State of the hiring of experts, and the hiring of personnel recruited locally in accordance with [Article 21](https://wetten.overheid.nl/BWBV0006581) of this Agreement.
 
-- d. de aanwezigheid van raadslieden en personen die de verdediging bijstaan;
+5. With respect to the persons referred to in paragraphs 1, 2 and 4 of this Article, the Registrar shall promptly, but within eight (8) days, notify the Host State of their final departure or the termination of their functions or their involvement with the Kosovo Relocated Specialist Judicial Institution.
 
-- e. de aanwezigheid van gezinsleden die deel uitmaken van de huishouding van de personen bedoeld onder a. en d.;
+6. With respect to persons referred to in paragraph 2(e) of this Article, the Registrar shall, where appropriate, promptly, but within eight (8) days, notify the Host State once a person has ceased to form part of the household.
 
-- f. de aanwezigheid van personen in persoonlijke dienst van de personen bedoeld onder a. van dit lid;
+7. With respect to persons referred to in paragraph 2(f) of this Article, the Registrar shall, where appropriate, promptly, but within eight (8) days, notify the Host State once a person is no longer employed as a private servant.
 
-- g. de datum van aankomst van de personen bedoeld onder a., b., c., d., e. en f. van dit lid.
+8. The Host State shall issue an identity card which shall serve to identify the holder in relation to the competent authorities, to
 
-3. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen in kennis van de benoeming van de personen bedoeld in het tweede lid, onder a. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen in kennis van de toelating van de personen bedoeld in het tweede lid, onder b., tot het stageprogramma van de Kosovo Relocated Specialist Judicial Institution.
+- a) the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar and staff;
 
-4. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen na aanstelling in kennis van deskundigen en van lokaal geworven personeel in overeenstemming met [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2017-01-01&g=2017-01-01) van dit Verdrag.
+- b) members of the family forming part of the household of the persons referred to in paragraph 2(a) and (d) of this Article;
 
-5. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen in kennis van het definitieve vertrek of de beëindiging van hun functies of betrokkenheid bij de Kosovo Relocated Specialist Judicial Institution van de personen bedoeld in het eerste, tweede en vierde lid van dit artikel.
+- c) private servants;
 
-6. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen in kennis van personen bedoeld in het tweede lid, onder e., van dit artikel die niet langer deel uitmaken van de huishouding.
+- d) interns, provided that they have been registered in accordance with [Article 22(1)](https://wetten.overheid.nl/BWBV0006581) of this Agreement;
 
-7. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen in kennis van personen bedoeld in het tweede lid, onder f., van dit artikel die niet langer in persoonlijke dienst werkzaam zijn.
+- e) experts, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 23(2)](https://wetten.overheid.nl/BWBV0006581) of this Agreement;
 
-8. De gastheerstaat verstrekt een identiteitskaart ter identificatie van de houder ten overstaan van de bevoegde autoriteiten aan
+- f) counsel and persons assisting counsel;
 
-- a. de rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier, de plaatsvervangend griffier en personeel;
+- g) other persons who are required to be present at the seat of the Kosovo Relocated Specialist Judicial Institution, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 27(2)](https://wetten.overheid.nl/BWBV0006581) of this Agreement;
 
-- b. de gezinsleden die deel uitmaken van de huishouding van de personen bedoeld in het tweede lid, onder a. en d, van dit artikel;
+- h) personnel recruited locally in accordance with [Article 21](https://wetten.overheid.nl/BWBV0006581) of this Agreement.
 
-- c. personen in persoonlijke dienst;
+9. At the final departure of the persons referred to in paragraphs 2, 4 and 8(g) of this Article or when these persons have ceased to perform their functions, the identity card referred to in paragraph 8 of this Article shall be promptly, and not later than within fifteen (15) days, be returned by the Registrar to the Ministry of Foreign Affairs. In case persons who have ceased to perform their functions are not able to return the identity card referred to in paragraph 8 of this Article within the specified time period, the Ministry of Foreign Affairs shall be consulted immediately.
 
-- d. stagiairs, mits zij zijn geregistreerd in overeenstemming met [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01), van dit Verdrag;
+##### Article 34. Social security regime
 
-- e. deskundigen, mits het ministerie van Buitenlandse Zaken het document bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01), van dit Verdrag heeft ontvangen;
+To the extent that the social security system of the Kosovo Relocated Specialist Judicial Institution offers coverage comparable to the coverage under the legislation of the Host State, the Kosovo Relocated Specialist Judicial Institution and its officials and members forming part of their household to whom the aforementioned scheme applies, shall be exempt from social security provisions of the Host State. Consequently, they shall not be covered against the risks described in the social security provisions of the Host State. This exemption applies to them unless they take up gainful activity in the Host State.
 
-- f. raadslieden en personen die de verdediging bijstaan;
+#### SECTION 2. : VISAS, PERMITS AND OTHER DOCUMENTS
 
-- g. overige personen wier aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution vereist is, mits het ministerie van Buitenlandse Zaken het document bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01), van dit Verdrag heeft ontvangen;
+##### Article 35. Visas for the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar, staff, counsel and persons assisting counsel
 
-- h. lokaal geworven personeel in overeenstemming met [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2017-01-01&g=2017-01-01) van dit Verdrag.
+1. The judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar, staff, counsel and persons assisting counsel as notified as such by the Registrar to the Host State, shall have the right of unimpeded entry into, exit from and movement within the Host State including unimpeded access to the premises.
 
-9. Bij het definitieve vertrek van de in het tweede, vierde en achtste lid, onder g., van dit artikel bedoelde personen of wanneer deze personen niet langer hun functie uitoefenen, dient de in het achtste lid van dit artikel bedoelde identiteitskaart onverwijld en uiterlijk binnen vijftien (15) dagen door de griffier te worden geretourneerd aan het ministerie van Buitenlandse Zaken. Indien personen die niet langer hun functie uitoefenen niet in de gelegenheid zijn de in het achtste lid van dit artikel bedoelde identiteitskaart binnen de omschreven termijn te retourneren, dient het ministerie van Buitenlandse Zaken onverwijld te worden geraadpleegd.
+2. Visas, where required, shall be granted free of charge and as promptly as possible.
 
-##### Artikel 34. Socialezekerheidsstelsel
+3. Applications for visas where required from members of the family forming part of the household of the persons referred to in paragraph 1 of this Article shall be processed by the Host State as promptly as possible and granted free of charge.
 
-Voor zover het socialezekerheidsstelsel van de Kosovo Relocated Specialist Judicial Institution een dekking biedt die vergelijkbaar is met de dekking krachtens de wetgeving van de gastheerstaat, zijn de Kosovo Relocated Specialist Judicial Institution, de functionarissen en de leden die deel uitmaken van hun huishouding op wie het bovenbedoelde stelsel van toepassing is, vrijgesteld van de bepalingen op het gebied van sociale zekerheid van de gastheerstaat. Zij zijn dientengevolge niet gedekt tegen de risico’s vervat in de bepalingen op het gebied van sociale zekerheid in de gastheerstaat. Deze vrijstelling is op hen van toepassing tenzij zij betaalde werkzaamheden gaan verrichten in de gastheerstaat.
+##### Article 36. Visas for witnesses, victims, experts, interns, persons who need to be present at the seat of the Kosovo Relocated Specialist Judicial Institution pursuant to a summons to appear as suspects or accused and other persons required to be present at the seat of the Kosovo Relocated Specialist Judicial Institution
 
-#### SECTIE 2. : VISA, VERGUNNINGEN EN OVERIGE DOCUMENTEN
+1. All persons referred to in [Articles 22](https://wetten.overheid.nl/BWBV0006581), [23](https://wetten.overheid.nl/BWBV0006581), [24](https://wetten.overheid.nl/BWBV0006581), [25](https://wetten.overheid.nl/BWBV0006581), [26](https://wetten.overheid.nl/BWBV0006581) and [27](https://wetten.overheid.nl/BWBV0006581) of this Agreement, as notified as such by the Registrar to the Host State, shall have the right of unimpeded entry into, exit from and, subject to paragraph 3 and 4 of this Article, movement within the Host State, as appropriate and for the purposes of the Kosovo Relocated Specialist Judicial Institution.
 
-##### Artikel 35. Visa voor de rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier, de plaatsvervangend griffier, de leden van het personeel, raadslieden en personen die de verdediging bijstaan
+2. Visas, where required, shall be granted free of charge and as promptly as possible to persons referred to in [Articles 22](https://wetten.overheid.nl/BWBV0006581) and [23](https://wetten.overheid.nl/BWBV0006581) of this Agreement. The same facilities as referred to in paragraph 1 of this Article shall be accorded to persons accompanying witnesses and victims, who have been notified as such by the Registrar to the Host State.
 
-1. De rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier, de plaatsvervangend griffier, de leden van het personeel, raadslieden en personen die de verdediging bijstaan van wie de griffier als zodanig kennisgeving heeft gedaan aan de gastheerstaat, hebben recht op onbelemmerde binnenkomst in, vertrek uit en verplaatsing binnen de gastheerstaat, met inbegrip van onbelemmerde toegang tot het terrein.
+3. Visas, where required, shall be granted free of charge and as promptly as possible to persons who shall be present at the seat of the Kosovo Relocated Specialist Judicial Institution pursuant to a summons to appear as a suspect or accused issued by the Kosovo Relocated Specialist Judicial Institution. The same applies to other persons referred to in [Articles 25](https://wetten.overheid.nl/BWBV0006581), [26](https://wetten.overheid.nl/BWBV0006581), and [27](https://wetten.overheid.nl/BWBV0006581) of this Agreement. These visas may be subject to territorial limitations.
 
-2. Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven.
+4. The Host State may attach such conditions or restrictions to the visa referred to in paragraph 3 of this Article as may be necessary to prevent violations of its public order or to protect the safety of the person concerned.
 
-3. Aanvragen voor visa, waar deze vereist zijn, van gezinsleden die deel uitmaken van de huishouding van de in het eerste lid van dit artikel bedoelde personen, worden door de gastheerstaat zo spoedig mogelijk behandeld en kosteloos verstrekt.
+5. Before applying paragraph 3 or 4 of this Article, the Host State will seek observations from the Kosovo Relocated Specialist Judicial Institution.
 
-##### Artikel 36. Visa voor getuigen, slachtoffers, deskundigen, stagiairs, personen wier aanwezigheid vereist is op de zetel van de Kosovo Relocated Specialist Judicial Institution krachtens een dagvaarding als verdachte of aangeklaagde en andere personen wier aanwezigheid vereist is op de zetel van de Kosovo Relocated Specialist Judicial Institution
+##### Article 37. Visas for visitors of persons detained by the Kosovo Relocated Specialist Judicial Institution
 
-1. Alle in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2017-01-01&g=2017-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2017-01-01&g=2017-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2017-01-01&g=2017-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01) van dit Verdrag bedoelde personen, van wie de griffier als zodanig kennisgeving heeft gedaan aan de gastheerstaat, hebben recht op onbelemmerde binnenkomst in, vertrek uit en, met inachtneming van het derde en vierde lid van dit artikel, verplaatsing binnen de gastheerstaat, wanneer van toepassing en ten behoeve van de Kosovo Relocated Specialist Judicial Institution.
+1. The Host State shall make adequate arrangements by which visas for visitors of persons detained by the Kosovo Relocated Specialist Judicial Institution are processed promptly. Visas for visitors who are family members of a person detained by the Kosovo Relocated Specialist Judicial Institution shall be processed promptly and may be issued, where appropriate, free of charge or for a reduced fee.
 
-2. Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven aan de personen bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01) van dit Verdrag. Dezelfde faciliteiten als bedoeld in het eerste lid van dit artikel gelden voor personen die getuigen en slachtoffers begeleiden en van wie de griffier als zodanig kennisgeving heeft gedaan aan de gastheerstaat.
+2. Visas for the visitors referred to in paragraph 1 of this Article may be subject to territorial limitations. Visas may be refused in the event that:
 
-3. Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven aan personen die aanwezig dienen te zijn op de zetel van de Kosovo Relocated Specialist Judicial Institution en door de Kosovo Relocated Specialist Judicial Institution zijn gedagvaard om te verschijnen als verdachte of aangeklaagde. Hetzelfde geldt voor de overige personen bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2017-01-01&g=2017-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2017-01-01&g=2017-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01) van dit Verdrag. Op deze visa kunnen territoriale beperkingen van toepassing zijn.
+- a) the visitors referred to in paragraph 1 of this Article cannot produce documents justifying the purpose and conditions of the intended stay and demonstrating that they have sufficient means of subsistence for the period of the intended stay and sufficient means for the return to the country of origin or transfer to a third State into which they are certain to be admitted, or that they are in a position to acquire such means lawfully;
 
-4. De gastheerstaat kan aan de visa bedoeld in het derde lid van dit artikel de voorwaarden of beperkingen verbinden die noodzakelijk zijn om schendingen van zijn openbare orde te voorkomen of de veiligheid van de betrokken persoon te beschermen.
+- b) an alert has been issued against them for the purpose of refusing entry; or
 
-5. Alvorens het derde of vierde lid van dit artikel toe te passen vraagt de gastheerstaat de Kosovo Relocated Specialist Judicial Institution om zijn zienswijze.
+- c) they must be considered a threat to public order, national security or the international relations of any of the Contracting Parties to the Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the Gradual Abolition of Checks at their Common Borders.
 
-##### Artikel 37. Visa voor bezoekers van personen die door de Kosovo Relocated Specialist Judicial Institution in hechtenis worden gehouden
+3. The Host State may attach such conditions or restrictions to the visa referred to in paragraph 2 of this Article as may be necessary to prevent violations of its public order or to protect the safety of the person concerned.
 
-1. De gastheerstaat treft passende voorzieningen om visa voor bezoekers van personen die door de Kosovo Relocated Specialist Judicial Institution in hechtenis worden gehouden snel te behandelen. Visa voor bezoekers die familieleden zijn van een persoon die door de Kosovo Relocated Specialist Judicial Institution in hechtenis wordt gehouden worden snel behandeld en kunnen, waar van toepassing, kosteloos of tegen een gereduceerd tarief worden verstrekt.
+##### Article 38. Driving licence
 
-2. Op de visa voor de in het eerste lid van dit artikel bedoelde bezoekers kunnen territoriale beperkingen van toepassing zijn. Visa kunnen worden geweigerd in het geval dat:
+During their period of employment or assignment the following persons shall be allowed to obtain from the Host State a driving licence on presentation of their valid foreign driving licence or to continue to drive using their own valid foreign driving licence, provided the holder is in possession of an identity card issued by the Host State in accordance with [Article 33](https://wetten.overheid.nl/BWBV0006581) of this Agreement:
 
-- a. de in het eerste lid van dit artikel bedoelde bezoekers geen documenten kunnen overleggen ter staving van het doel van het voorgenomen verblijf en de verblijfsomstandigheden en waaruit blijkt dat zij over voldoende middelen van bestaan beschikken, zowel voor de duur van het voorgenomen verblijf als voor de terugreis naar hun land van herkomst of voor de doorreis naar een derde staat, waar zij met zekerheid zullen worden toegelaten, dan wel in staat zijn deze middelen rechtmatig te verwerven;
+- 1. the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar and staff;
 
-- b. zij ter fine van weigering van toegang gesignaleerd staan; of
+- 2. members of the family forming part of the household of the persons referred to in subparagraph 1 of this Article;
 
-- c. zij dienen te worden beschouwd als een gevaar voor de openbare orde, de nationale veiligheid of de internationale betrekkingen van een van de overeenkomstsluitende partijen bij de Overeenkomst ter uitvoering van het tussen de Regeringen van de Staten van de Benelux Economische Unie, de Bondsrepubliek Duitsland en de Franse Republiek op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen.
+- 3. private servants of the persons referred to in subparagraph 1 of this Article;
 
-3. De gastheerstaat kan aan de visa bedoeld in het tweede lid van dit artikel de voorwaarden of beperkingen verbinden die noodzakelijk zijn om schendingen van zijn openbare orde te voorkomen of de veiligheid van de betrokken persoon te beschermen.
+- 4. counsel and persons assisting counsel and members of their family forming part of their household;
 
-##### Artikel 38. Rijbewijs
+- 5. interns;
 
-Voor de duur van hun tewerkstelling of opdracht is het de volgende personen toegestaan een rijbewijs van de gastheerstaat te verkrijgen op vertoon van hun geldige buitenlandse rijbewijs dan wel hun eigen geldige buitenlandse rijbewijs te blijven gebruiken, mits de houder in het bezit is van een door de gastheerstaat in overeenstemming met [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2017-01-01&g=2017-01-01) van dit Verdrag afgegeven identiteitskaart:
+- 6. experts, if he or she is required to stay in the Host State for an uninterrupted period exceeding three (3) months.
 
-- 1. de rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier, de plaatsvervangend griffier en personeel;
+#### SECTION 3. : SECURITY, OPERATIONAL ASSISTANCE
 
-- 2. de gezinsleden die deel uitmaken van de huishouding van de personen bedoeld onder 1. van dit artikel;
+##### Article 39. Security, safety and protection of persons referred to in this Agreement
 
-- 3. personen in persoonlijke dienst van de personen bedoeld onder 1. van dit artikel;
+1. Without prejudice to the privileges, immunities and facilities provided in this Agreement, the competent authorities shall take effective and adequate action which may be required to ensure the security, safety and protection of persons referred to in this Agreement, indispensable for the proper functioning of the Kosovo Relocated Specialist Judicial Institution, free from interference of any kind.
 
-- 4. raadslieden en personen die de verdediging bijstaan alsmede gezinsleden die deel uitmaken van hun huishouding;
+2. The Kosovo Relocated Specialist Judicial Institution shall cooperate with the competent authorities to ensure that all persons referred to in this Agreement observe the directives necessary for their security and safety, as given to them by the competent authorities.
 
-- 5. stagiairs;
+3. Without prejudice to their privileges, immunities and facilities, it is the duty of all persons referred to in this Agreement to observe the directives necessary for their security and safety, as given to them by the competent authorities.
 
-- 6. deskundigen, indien zij gedurende langer dan drie (3) maanden ononderbroken dienen te verblijven in de gastheerstaat.
+##### Article 40. Transport of persons detained by the Kosovo Relocated Specialist Judicial Institution
 
-#### SECTIE 3. : BEVEILIGING, OPERATIONELE BIJSTAND
+1. The transport of persons detained by the Kosovo Relocated Specialist Judicial Institution pursuant to Law No. 05/L-053 and the Rules of Procedure and Evidence from the point of arrival in the Host State to the premises of the Kosovo Relocated Specialist Judicial Institution shall, at the request of the Kosovo Relocated Specialist Judicial Institution, be carried out by the competent authorities of the Host State in consultation with the Kosovo Relocated Specialist Judicial Institution.
 
-##### Artikel 39. Beveiliging, veiligheid en bescherming van de in dit Verdrag bedoelde personen
+2. The transport of persons detained by the Kosovo Relocated Specialist Judicial Institution pursuant to Law No. 05/L-053 and the Rules of Procedure and Evidence from the premises of the Kosovo Relocated Specialist Judicial Institution to the point of departure from the Host State shall, at the request of the Kosovo Relocated Specialist Judicial Institution, be carried out by the competent authorities of the Host State in consultation with the Kosovo Relocated Specialist Judicial Institution.
 
-1. Onverminderd de voorrechten, immuniteiten en faciliteiten die uit hoofde van dit Verdrag worden toegekend, nemen de bevoegde autoriteiten de doeltreffende en adequate maatregelen die vereist kunnen zijn om de beveiliging, veiligheid en bescherming van de in dit Verdrag bedoelde personen te waarborgen, en die noodzakelijk zijn voor het naar behoren functioneren van de Kosovo Relocated Specialist Judicial Institution, zonder inmenging van welke aard dan ook.
+3. Any transport of persons detained by the Kosovo Relocated Specialist Judicial Institution pursuant to Law No. 05/L-053 and the Rules of Evidence in the Host State outside the premises of the Kosovo Relocated Specialist Judicial Institution shall, at the request of the Kosovo Relocated Specialist Judicial Institution, be carried out by the competent authorities of the Host State in consultation with the Kosovo Relocated Specialist Judicial Institution.
 
-2. De Kosovo Relocated Specialist Judicial Institution werkt samen met de bevoegde autoriteiten teneinde te waarborgen dat alle in dit Verdrag bedoelde personen zich houden aan de instructies die hun door de bevoegde autoriteiten worden gegeven met het oog op hun beveiliging en veiligheid.
+4. The Kosovo Relocated Specialist Judicial Institution shall give reasonable notice to the competent authorities of the Host State in case of a request for transport of persons referred to in this Article. Whenever possible, seventy-two (72) hours advance notice will be given.
 
-3. Onverminderd hun voorrechten, immuniteiten en faciliteiten is het de plicht van alle in dit Verdrag bedoelde personen zich te houden aan de instructies die hun door de bevoegde autoriteiten worden gegeven met het oog op hun beveiliging en veiligheid.
+5. Where the Host State receives a request under this Article and identifies problems in relation to the execution of the request, it shall consult with the Kosovo Relocated Specialist Judicial Institution, without delay, in order to resolve the matter. Such problems may include, *inter alia*:
 
-##### Artikel 40. Vervoer van personen in hechtenis van de Kosovo Relocated Specialist Judicial Institution
+- a) insufficient time and/or information to execute the request;
 
-1. Het vervoer van personen in hechtenis van de Kosovo Relocated Specialist Judicial Institution uit hoofde van wet nr. 05/L-053 en het Reglement van proces- en bewijsvoering, vanaf het punt van aankomst in de gastheerstaat naar het terrein van de Kosovo Relocated Specialist Judicial Institution wordt op verzoek van de Kosovo Relocated Specialist Judicial Institution in overleg met de Kosovo Relocated Specialist Judicial Institution verricht door de bevoegde autoriteiten van de gastheerstaat.
+- b) the impossibility, despite best efforts, to make adequate security arrangements for the transport of the person or persons; or
 
-2. Het vervoer van personen in hechtenis van de Kosovo Relocated Specialist Judicial Institution uit hoofde van wet nr. 05/L-053 en het Reglement van proces- en bewijsvoering, van het terrein van de Kosovo Relocated Specialist Judicial Institution naar het punt van vertrek uit de gastheerstaat wordt op verzoek van de Kosovo Relocated Specialist Judicial Institution in overleg met de Kosovo Relocated Specialist Judicial Institution verricht door de bevoegde autoriteiten van de gastheerstaat.
+- c) the existence of a threat to public order and security in the Host State.
 
-3. Het vervoer van personen in hechtenis van de Kosovo Relocated Specialist Judicial Institution uit hoofde van wet nr. 05/L-053 en het Reglement van proces- en bewijsvoering, buiten het terrein van de Kosovo Relocated Specialist Judicial Institution wordt op verzoek van de Kosovo Relocated Specialist Judicial Institution in overleg met de Kosovo Relocated Specialist Judicial Institution verricht door de bevoegde autoriteiten van de gastheerstaat.
+6. A person detained by the Kosovo Relocated Specialist Judicial Institution pursuant to Law No. 05/L-053 and the Rules of Procedure and Evidence shall be transported directly and without impediment to the destination specified in paragraphs 1 and 2 of this Article or to any other destination as requested by the Kosovo Relocated Specialist Judicial Institution under paragraph 3 of this Article.
 
-4. De Kosovo Relocated Specialist Judicial Institution stelt de bevoegde autoriteiten van de gastheerstaat binnen een redelijke termijn in kennis van een verzoek om vervoer van de in dit artikel bedoelde personen. Wanneer mogelijk wordt deze kennisgeving tweeënzeventig (72) uur van te voren gedaan.
+7. The Kosovo Relocated Specialist Judicial Institution and the Host State shall, as appropriate, make practical arrangements for the transport of persons detained by the Kosovo Relocated Specialist Judicial Institution pursuant to Law No. 05/L-053 and the Rules of Procedure and Evidence in accordance with this Article.
 
-5. Wanneer de gastheerstaat ingevolge dit artikel een verzoek ontvangt en ter zake van de uitvoering van het verzoek problemen vaststelt, wordt onverwijld overleg gepleegd met de Kosovo Relocated Specialist Judicial Institution teneinde de kwestie op te lossen. Dergelijke problemen kunnen onder andere betreffen:
+##### Article 41. Cooperation in detention matters
 
-- a. onvoldoende tijd en/of informatie om het verzoek uit te voeren;
+Where the presence of a person in detention is required for the purpose of giving testimony or other assistance to the Kosovo Relocated Specialist Judicial Institution and where, for security reasons, such a person cannot be maintained in custody in the detention centre of the Kosovo Relocated Specialist Judicial Institution, the Kosovo Relocated Specialist Judicial Institution and the Host State shall consult and, where necessary, make arrangements to transport the person to a prison facility or other place forming part of the premises of the Kosovo Relocated Specialist Judicial Institution.
 
-- b. de onmogelijkheid, ondanks alle mogelijke inspanningen, adequate veiligheidsmaatregelen te treffen voor het vervoer van de persoon of personen; of
+##### Article 42. Provisional release
 
-- c. het bestaan van een gevaar voor de openbare orde en veiligheid in de gastheerstaat.
+1. Persons detained by the Kosovo Relocated Specialist Judicial Institution in the Host State shall not be provisionally released in the Host State in accordance with Article 41(11) of Law No. 05/L-053, except for persons who are nationals or permanent residents of the Host State.
 
-6. Een persoon in hechtenis van de Kosovo Relocated Specialist Judicial Institution uit hoofde van wet nr. 05/L-053 en het Reglement van proces- en bewijsvoering, wordt rechtstreeks en zonder belemmering naar de in het eerste en tweede lid van dit artikel genoemde bestemming vervoerd of naar een andere bestemming waarom de Kosovo Relocated Specialist Judicial Institution ingevolge het derde lid van dit artikel kan verzoeken.
+2. The Host State shall facilitate the transport of persons granted provisional release in accordance with [Article 40](https://wetten.overheid.nl/BWBV0006581) of this Agreement.
 
-7. De Kosovo Relocated Specialist Judicial Institution en de gastheerstaat treffen, naargelang van toepassing, praktische regelingen voor het vervoer van personen in hechtenis van de Kosovo Relocated Specialist Judicial Institution uit hoofde van wet nr. 05/L-053 en het Reglement van proces- en bewijsvoering in overeenstemming met dit artikel.
+3. The Kosovo Relocated Specialist Judicial Institution and the Host State shall make practical arrangements as to the implementation of this Article.
 
-##### Artikel 41. Samenwerking bij detentie
+##### Article 43. Release
 
-Wanneer de aanwezigheid van een persoon die zich in hechtenis bevindt, vereist is voor het afleggen van een verklaring of andere medewerking aan de Kosovo Relocated Specialist Judicial Institution en wanneer, om veiligheidsredenen, een dergelijke persoon niet kan worden vastgehouden in het detentiecentrum van de Kosovo Relocated Specialist Judicial Institution, plegen de Kosovo Relocated Specialist Judicial Institution en de gastheerstaat overleg en treffen, wanneer noodzakelijk, regelingen om de persoon te vervoeren naar een penitentiaire inrichting of andere locatie die deel uitmaakt van het terrein van de Kosovo Relocated Specialist Judicial Institution.
+1. Persons detained by the Kosovo Relocated Specialist Judicial Institution in the Host State shall not be released in the Host State, except for persons who are nationals or permanent residents of the Host State. The Kosovo Relocated Specialist Judicial Institution retains jurisdiction over such persons until their return and release in the country where they were originally detained on behalf of the Kosovo Relocated Specialist Judicial Institution or in Kosovo, or if they do not have rights of residency in either of those places, in a country where they are ordinarily and/or lawfully resident, or in another country which agrees to receive them, in accordance with Article 41(11) of Law No. 05/L-053. The Kosovo Relocated Specialist Judicial Institution bears the responsibility for the departure of such persons from the Host State.
 
-##### Artikel 42. Voorlopige invrijheidstelling
+2. The Kosovo Relocated Specialist Judicial Institution shall make such arrangements [as it considers appropriate] for the transfer of the person to one of the countries referred to in paragraph 1 of this Article.
 
-1. Personen in hechtenis van de Kosovo Relocated Specialist Judicial Institution in de gastheerstaat worden niet voorlopig in vrijheid gesteld in de gastheerstaat in overeenstemming met artikel 41, elfde lid, van wet nr. 05/L-053, tenzij het personen betreft die onderdaan of permanent ingezetene zijn van de gastheerstaat.
+3. The provisions of [Article 40](https://wetten.overheid.nl/BWBV0006581) of this Agreement shall apply, *mutatis mutandis*, to the transport of persons referred to in this Article within the Host State.
 
-2. De gastheerstaat faciliteert het vervoer van personen die voorlopig in vrijheid zijn gesteld in overeenstemming met [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=40&z=2017-01-01&g=2017-01-01) van dit Verdrag.
+4. The Government of Kosovo shall take all necessary measures to protect the safety and well-being of a person referred to in this Article when he or she is released in Kosovo.
 
-3. De Kosovo Relocated Specialist Judicial Institution en de gastheerstaat treffen praktische regelingen voor de uitvoering van dit artikel.
+##### Article 44. Enforcement of sentences
 
-##### Artikel 43. Invrijheidstelling
+1. A sentence of imprisonment shall be served in a State designated by the Kosovo Relocated Specialist Judicial Institution from among those States with which the Kosovo Relocated Specialist Judicial Institution has arrangements for this purpose in accordance with Article 50 of Law No. 05/L-053.
 
-1. Personen in hechtenis van de Kosovo Relocated Specialist Judicial Institution in de gastheerstaat worden niet in vrijheid gesteld in de gastheerstaat, tenzij het personen betreft die onderdaan of permanent ingezetene zijn van de gastheerstaat. De Kosovo Relocated Specialist Judicial Institution blijft bevoegd ter zake van dergelijke personen totdat zij zijn teruggekeerd en in vrijheid zijn gesteld in het land waar zij in hechtenis zaten namens de de Kosovo Relocated Specialist Judicial Institution of in Kosovo, of indien zij geen recht hebben op verblijf in een van deze landen, in het land waarvan zij oorspronkelijk en/of rechtmatig inwoner waren of in een ander land dat ermee instemt hen te ontvangen in overeenstemming met artikel 41, elfde lid, van wet nr. 05/L-053. De Kosovo Relocated Specialist Judicial Institution draagt de verantwoordelijkheid voor het vertrek van deze personen uit de gastheerstaat.
+2. A sentence of imprisonment shall not be served in the Host State.
 
-2. De Kosovo Relocated Specialist Judicial Institution treft de regelingen die zij passend acht voor de overbrenging van de persoon naar een van de landen bedoeld in het eerste lid van dit artikel.
+##### Article 45. Limitation to the exercise of jurisdiction by the Host State
 
-3. De bepalingen van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=40&z=2017-01-01&g=2017-01-01) van dit Verdrag zijn van overeenkomstige toepassing op het vervoer van de in dit artikel bedoelde personen binnen de gastheerstaat.
+1. The Host State shall not exercise its jurisdiction or proceed with a request for extradition from another State with regard to suspects or accused who appear before and who are prosecuted by the Kosovo Relocated Specialist Judicial Institution for any acts, omissions or convictions prior to their entry into the territory of the Host State except as may be provided for in the Rules of Procedure and Evidence.
 
-4. De regering van Kosovo neemt alle nodige maatregelen ter bescherming van de veiligheid en het welzijn van personen bedoeld in dit artikel zodra zij in Kosovo in vrijheid worden gesteld.
+2. The immunity provided for in this Article shall cease when the person referred to in paragraph 1 of this Article, having been acquitted, released or is otherwise no longer required by the Kosovo Relocated Specialist Judicial Institution and having had for a period of fifteen (15) consecutive days from that date an opportunity of leaving, has nevertheless remained in the territory of the Host State, or having left it, has returned.
 
-##### Artikel 44. Tenuitvoerlegging van vonnissen
+##### Article 46. Internal Security of the Host State
 
-1. Veroordelingen tot gevangenisstraf worden ten uitvoer gelegd in een staat aangewezen door de Kosovo Relocated Specialist Judicial Institution uit de staten waarmee de Kosovo Relocated Specialist Judicial Institution daartoe regelingen heeft getroffen in overeenstemming met artikel 50 van wet nr. 05/L-053.
+Nothing in this Agreement shall affect the right of the Host State to take such measures as it may consider necessary for the purpose of protecting its national security.
 
-2. Veroordelingen tot gevangenisstraf worden niet ten uitvoer gelegd in de gastheerstaat.
+### PART VI. COSTS
 
-##### Artikel 45. Beperking van de uitoefening van rechtsmacht door de gastheerstaat
+##### Article 47. Costs
 
-1. De gastheerstaat oefent geen rechtsmacht uit en neemt geen verzoek om uitlevering in behandeling van een andere staat met betrekking tot verdachten en aangeklaagden die voor de Kosovo Relocated Specialist Judicial Institution verschijnen en door de Kosovo Relocated Specialist Judicial Institution vervolgd worden, ten aanzien van handelen, nalaten te handelen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van de gastheerstaat, uitgezonderd zoals vervat in het Reglement van proces- en bewijsvoering.
+All costs relating to the presence and functioning of the Kosovo Relocated Specialist Judicial Institution in the Host State and incurred by the Host State relating to the functioning of the Kosovo Relocated Specialist Judicial Institution in the Host State shall be borne by the Kosovo Relocated Specialist Judicial Institution in accordance with Kosovo Law No. 04/L-274 on Ratification of the International Agreement between the Republic of Kosovo and the European Union on the European Union Rule of Law Mission in Kosovo of 23 April 2014, and not by the budget of Kosovo, pursuant to Article 63(1) of Law No. 05/L-053.
 
-2. Aan de in dit artikel voorziene immuniteit komt een einde wanneer de persoon die is vrijgesproken, in vrijheid is gesteld of wiens aanwezigheid anderszins niet langer door de Kosovo Relocated Specialist Judicial Institution wordt verlangd en die vanaf die datum gedurende vijftien (15) achtereenvolgende dagen de gelegenheid heeft gehad te vertrekken, niettemin is gebleven op het grondgebied van de gastheerstaat of, na te zijn vertrokken, weer is teruggekeerd.
+### PART VII. FINAL PROVISIONS
 
-##### Artikel 46. Nationale veiligheid in de gastheerstaat
+##### Article 48. Supplementary arrangements and agreements
 
-Niets in dit Verdrag tast het recht van de gastheerstaat aan de maatregelen te treffen die hij nodig acht ten behoeve van de bescherming van zijn nationale veiligheid.
+The Kosovo Relocated Specialist Judicial Institution, within the limits of its competence pursuant to Law No. 05/L-053, and the Host State may, for the purpose of implementing this Agreement or of addressing matters not foreseen in this Agreement, make other supplementary agreements and arrangements as appropriate.
 
-### DEEL ZESDE. KOSTEN
+##### Article 49. Settlement of disputes with third Parties
 
-##### Artikel 47. Kosten
+The Kosovo Relocated Specialist Judicial Institution shall make provisions for appropriate modes of settlement of:
 
-Alle kosten die verband houden met de aanwezigheid en het functioneren van de Kosovo Relocated Specialist Judicial Institution in de gastheerstaat die de gastheerstaat maakt in verband met het functioneren van de Kosovo Relocated Specialist Judicial Institution worden gedragen door de Kosovo Relocated Specialist Judicial Institution in overeenstemming met wet 04/L-274 van Kosovo inzake de bekrachtiging van het internationaal verdrag tussen de Republiek Kosovo en de Europese Unie ten behoeve van de rechtsstaatmissie van de Europese Unie in Kosovo d.d. 23 april 2014 en worden niet voldaan vanuit de begroting van Kosovo uit hoofde van artikel 63, eerste lid, van wet nr. 05/L-053.
+- a) disputes arising out of contracts and other disputes of a private-law character to which the Kosovo Relocated Specialist Judicial Institution is a party;
 
-### DEEL VII. SLOTBEPALINGEN
+- b) disputes involving any person referred to in this Agreement who, by reason of his or her official position or function in connection with the Kosovo Relocated Specialist Judicial Institution, enjoys immunity, if such immunity has not been waived.
 
-##### Artikel 48. Aanvullende regelingen en overeenkomsten
+##### Article 50. Settlement of differences on the interpretation or application of this Agreement or its supplementary arrangements or agreements
 
-De Kosovo Relocated Specialist Judicial Institution kan, binnen de grenzen van haar bevoegdheid krachtens wet nr. 05/L-053, met de gastheerstaat, ten behoeve van de uitvoering van dit Verdrag of ten behoeve van aangelegenheden die niet worden geregeld in dit Verdrag andere aanvullende overeenkomsten en regelingen treffen, naar gelang van toepassing.
+1. The Registrar of the Kosovo Relocated Specialist Judicial Institution and representatives of the Host State will regularly consult on the implementation of this Agreement and supplementary arrangements or agreements related to the Kosovo Relocated Specialist Judicial Institution or between the Kosovo Relocated Specialist Judicial Institution and the Host State.
 
-##### Artikel 49. Beslechting van geschillen met derden
+2. In case of a dispute regarding the application, implementation or interpretation of this Agreement, the Registrar shall forthwith notify the Ministry of Foreign Affairs of the Republic of Kosovo. In such a case, the Host State may also notify the Ministry of Foreign Affairs of the Republic of Kosovo, as appropriate.
 
-De Kosovo Relocated Specialist Judicial Institution stelt bepalingen vast ten behoeve van een passende wijze van beslechting van:
+3. If a solution of a dispute under paragraph 2 is not reached within three months after the notification thereof, the dispute shall, at the request of either Party, be referred to an arbitral tribunal of three arbitrators. The Host State shall appoint one arbitrator and the Republic of Kosovo in consultation with the Registrar of the Kosovo Relocated Specialist Judicial Institution shall appoint one arbitrator, and the two arbitrators so appointed shall appoint a third, who shall be the chairperson of the arbitral tribunal. If, within fifteen (15) days of the appointment of the two arbitrators, the third arbitrator has not been appointed, either Party may request the President of the International Court of Justice to appoint the arbitrator referred to.
 
-- a. geschillen die voortvloeien uit contracten en andere geschillen van privaatrechtelijke aard waarbij de Kosovo Relocated Specialist Judicial Institution partij is;
+4. The arbitral tribunal shall determine its own procedures, provided that any two arbitrators shall constitute a quorum for all purposes, and all decisions require the agreement of any two arbitrators.
 
-- b. geschillen waarbij in dit Verdrag bedoelde personen betrokken zijn die uit hoofde van hun officiële positie of functie in verband met de Kosovo Relocated Specialist Judicial Institution immuniteit genieten, indien deze immuniteit niet is opgeheven.
+5. The expenses, as assessed by the arbitral tribunal, shall be borne by the Kosovo Relocated Specialist Judicial Institution in accordance with [Article 47](https://wetten.overheid.nl/BWBV0006581) of this Agreement, and by the Host State.
 
-##### Artikel 50. Beslechting van geschillen betreffende de interpretatie of toepassing van dit Verdrag of van aanvullende regelingen of overeenkomsten
+6. The arbitral tribunal shall reach a decision on the difference on the basis of the provisions of this Agreement and subsequent arrangements or agreements and the applicable rules of international law. The arbitral award shall contain a statement of the reasons on which it is based and shall be final and binding on the Parties.
 
-1. De griffier van de Kosovo Relocated Specialist Judicial Institution en vertegenwoordigers van de gastheerstaat plegen regelmatig overleg over de uitvoering van dit Verdrag en over aanvullende regelingen of overeenkomsten die betrekking hebben op de Kosovo Relocated Specialist Judicial Institution of gesloten worden tussen de Kosovo Relocated Specialist Judicial Institution en de gastheerstaat.
+##### Article 51. Application
 
-2. Bij een geschil omtrent de toepassing, uitvoering of uitlegging van dit Verdrag, stelt de griffier het ministerie van Buitenlandse Zaken van de Republiek Kosovo onverwijld in kennis. In dat geval kan ook de gastheerstaat het ministerie van Buitenlandse Zaken van de Republiek Kosovo in kennis stellen, naargelang van toepassing.
+With respect to the Host State, this Agreement shall apply to the part of the Kingdom of the Netherlands in Europe only.
 
-3. Indien een geschil binnen drie maanden na de kennisgeving niet kan worden beslecht, wordt het op verzoek van een van de partijen voorgelegd aan een scheidsgerecht bestaande uit drie arbiters. Een arbiter wordt benoemd door de gastheerstaat, een in overleg tussen de Republiek Kosovo en de griffier van de Kosovo Relocated Specialist Judicial Institution en de twee arbiters tezamen benoemen een derde die zal optreden als voorzitter van het scheidsgerecht. Indien binnen vijftien (15) dagen na de benoeming van de twee arbiters geen derde is benoemd, kan elk van beide partijen de president van het Internationaal Gerechtshof verzoeken de bedoelde arbiter te benoemen.
+##### Article 52. Amendments
 
-4. Het scheidsgerecht stelt zijn eigen procedures vast, waarbij twee arbiters een quorum voor alle doeleinden dienen te vormen, en alle besluiten dienen te worden genomen met de instemming van ten minste twee arbiters.
+This Agreement may be amended by mutual consent of the Parties.
 
-5. De kosten, zoals geraamd door het scheidsgerecht, worden gedragen door de Kosovo Relocated Specialist Judicial Institution in overeenstemming met [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=ZESDE&artikel=47&z=2017-01-01&g=2017-01-01) van dit Verdrag en door de gastheerstaat.
+##### Article 53. Entry into force
 
-6. Het scheidsgerecht beslist over het geschil op basis van de bepalingen van dit Verdrag en van aanvullende regelingen of overeenkomsten en de toepasselijke regels van het internationale recht. De uitspraak van het scheidsgerecht gaat vergezeld van een uiteenzetting van de gronden ervan en is onherroepelijk en bindend voor de partijen.
+1. This Agreement shall enter into force on the first day of the second month after the Parties have notified each other that their constitutional requirements for entry into force of the Agreement have been complied with.
 
-##### Artikel 51. Toepassing
+2. The [Interim Agreement between the Netherlands and the Republic of Kosovo concerning the Hosting of the Kosovo Relocated Specialist Judicial Institution in the Netherlands](https://wetten.overheid.nl/jci1.3:c:BWBV0006576) of 26 January 2016 shall cease to have effect on the date of entry into force of this Agreement.
 
-Wat de gastheerstaat betreft, is dit Verdrag uitsluitend van toepassing op het deel van het Koninkrijk der Nederlanden in Europa.
+##### Article 54. Duration and termination
 
-##### Artikel 52. Wijzigingen
+1. This Agreement shall remain in force for a period of one year, after which it shall be automatically extended for consecutive periods of one year, unless the adequate and necessary funding for the costs, referred to in [Article 47](https://wetten.overheid.nl/BWBV0006581) of this Agreement, has not been procured. In such a case the Host State may notify the Republic of Kosovo, in writing, with a three (3) months’ notice before the end of the initial period of one year or a consecutive period of one year, that it does not wish to extend the Agreement.
 
-Dit Verdrag kan met wederzijdse instemming van de partijen worden gewijzigd.
+2. This Agreement shall cease to be in force if the seat of the Kosovo Relocated Specialist Judicial Institution is removed from the territory of the Host State or if the Kosovo Relocated Specialist Judicial Institution is dissolved pursuant to a notification of completion by the Council of the European Union to the Republic of Kosovo, except for such provisions as may be applicable in connection with the orderly termination of the operations of the Kosovo Relocated Specialist Judicial Institution at its seat in the Host State and the disposition of its property therein, as well as provisions granting immunity from legal process of every kind in respect of words spoken or written or acts done in an official capacity.
 
-##### Artikel 53. Inwerkingtreding
+3. The provisions relating to the inviolability of the funds, assets, archives and documents of the Kosovo Relocated Specialist Judicial Institution shall survive termination of this Agreement.
 
-1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de partijen elkaar ervan in kennis hebben gesteld dat aan de grondwettelijke vereisten voor de inwerkingtreding van het Verdrag is voldaan.
-
-2. Het [Interim-verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kosovo betreffende de vestiging van de Kosovo Relocated Specialist Judicial Institution](https://wetten.overheid.nl/jci1.3:c:BWBV0006576) in Nederland van 26 januari 2016 houdt op van kracht te zijn op de datum van inwerkingtreding van dit Verdrag.
-
-##### Artikel 54. Duur en beëindiging
-
-1. Dit Verdrag blijft van kracht gedurende een jaar, waarna het steeds automatisch met een jaar zal worden verlengd, tenzij er geen toereikende financiering voor de noodzakelijke kosten bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=ZESDE&artikel=47&z=2017-01-01&g=2017-01-01) van dit Verdrag kan worden verkregen. In dat geval kan de gastheerstaat de Republiek Kosovo er drie maanden vóór het einde van de eerste termijn van een jaar of een volgende termijn van een jaar schriftelijk van in kennis stellen dat hij het Verdrag niet wenst te verlengen.
-
-2. Dit Verdrag houdt op van kracht te zijn indien de zetel van de Kosovo Relocated Specialist Judicial Institution wordt verwijderd van het grondgebied van de gastheerstaat of indien de Kosovo Relocated Specialist Judicial Institution wordt ontbonden uit hoofde van een kennisgeving van voltooiing door de Raad van de Europese Unie aan de Republiek Kosovo, met uitzondering van de bepalingen die van toepassing kunnen zijn in verband met de ordentelijke beëindiging van de werkzaamheden van de Kosovo Relocated Specialist Judicial Institution op haar zetel in de gastheerstaat en de vervreemding van haar bezittingen aldaar, alsmede van de bepalingen inzake immuniteit ten aanzien van elke juridische procedure met betrekking tot alle in een officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen.
-
-3. De bepalingen inzake de onschendbaarheid van fondsen, bezittingen, archieven en documenten van de Kosovo Relocated Specialist Judicial Institution blijven na beëindiging van dit Verdrag van kracht.
-
-4. De gastheerstaat wordt tijdig op de hoogte gebracht van de ontbinding van de Kosovo Relocated Specialist Judicial Institution.
+4. The Host State shall be notified in a timely manner with respect to the dissolution of the Kosovo Relocated Specialist Judicial Institution.
 
 IN WITNESS WHEREOF, the undersigned, duly authorized thereto, have signed this Agreement.
 
 DONE at Pristina on 15 February 2016, in duplicate, in the English language.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 Gerrie Willems,
 
 Ambassador
 
-**For the Republic of Kosovo,**
+*For the Republic of Kosovo,*
 
 Hashim Thaçi,
 

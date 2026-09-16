@@ -1,133 +1,102 @@
 ---
 title: "Schikking betreffende de internationale inschrijving van fabrieks- of handelsmerken"
 identifier: "BWBV0006160"
-country: "nl"
-rank: "verdrag"
-publication_date: "1902-09-14"
-last_updated: "1902-09-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006160"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005064833"
-version_id: "10005400112"
-internal_id: "C10008322011"
-label_id: "10005048074"
-dtd_version: "2.0"
-original_entry_into_force: "1893-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006160/1902-09-14/0"
-intitule_bron: "Stb.1893-55"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1893-03-23"
-intitule_published: "1893-04-18"
-intitule_in_force: "1893-04-18"
-intitule_status: "goed"
-original_publication: "Stb.1893-55"
-original_signed_date: "1893-03-23"
-original_published_date: "1893-04-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1893-03-01"
-jci_1_3: "jci1.3:c:BWBV0006160&z=1902-09-14&g=1902-09-14"
-jci_1_0: "1.0:c:BWBV0006160&g=1902-09-14"
-citeertitel_status: "redactioneel"
-signed_date: "1893-03-23"
-entry_into_force: "1893-03-01"
+publicatiedatum: 1893-03-01
+laatste_update: 1902-09-14
+status: geldig
+toestand: 1902-09-14
+bron: "https://wetten.overheid.nl/BWBV0006160"
+opgehaald: 2026-09-16
 ---
+
 # Schikking betreffende de internationale inschrijving van fabrieks- of handelsmerken
 
-De ondergeteekenden, gevolmachtigden van de Regeeringen der bovengenoemde Staten;
+*Les soussignés Plénipotentaires des Gouvernements des Etats ci-dessus énumérés, Vu l'article 15 de la Convention internationale du 20 Mars 1883 pour la protection de la propriété industrielle, Ont d'un commun accord et sous réserve de ratification, arrêté l'Arrangement suivant:*
 
-Gezien artikel 15 der internationale overeenkomst van den 20sten Maart 1883 tot bescherming van den industrieelen eigendom;
+##### Article premier
 
-Hebben in gemeen overleg en onder voorbehoud van bekrachtiging de volgende schikking vastgesteld:
+Les sujets ou citoyens de chacun des Etats contractants pourront s'assurer dans tous les autres Etats, la protection de leurs marques de fabrique ou de commerce acceptées au dépôt dans le pays d'origine, moyennant le dépôt des dites marques au Bureau international à Berne fait par l'entremise de l'administration du dit pays d'origine.
 
-##### Artikel 1
+##### Article 2
 
-De onderdanen of burgers van elken der contracteerende Staten zullen zich in al de andere Staten de bescherming hunner, bij het dépôt in het land van oorsprong aangenomen fabrieks- of handelsmerken kunnen verzekeren tegen dépôt der gezegde merken aan het Internationaal Bureau te Bern, gedaan door tusschenkomst der Administratie van gezegd land van oorsprong.
+Sont assimilés aux sujets ou citoyens des Etats contractants les sujets ou citoyens des Etats n'ayant pas adhéré au présent Arrangement qui, sur le territoire de l'Union restreinte constituée par ce dernier, satisfont aux conditions établies par l'article 3 de la Convention générale.
 
-##### Artikel 2
+##### Article 3
 
-Met de onderdanen of burgers der contracteerende Staten worden gelijkgesteld de onderdanen of burgers der niet tot deze schikking toegetreden Staten, die, op het grondgebied, waarover de bij die schikking tot stand gebrachte Vereeniging van beperkten omvang zich uitstrekt, voldoen aan de voorwaarden vastgesteld in art. 3 der Algemeene Overeenkomst tot bescherming van den industrieelen eigendom.
+Le Bureau international enregistrera immédiatement les marques déposées conformément à l'article 1er. Il notifiera cet enregistrement aux Etats contractants. Les marques enregistrées seront publiées dans un supplément au journal du Bureau international au moyen d'un cliché fourni par le déposant.
 
-##### Artikel 3
+Si le déposant revendique la couleur à titre d'élément distinctif de sa marque, il sera tenu:
 
-Het Internationaal Bureau zal de overeenkomstig artikel 1 gedeponeerde merken onmiddellijk inschrijven. Het zal van die inschrijving aan de contracteerende Staten kennis geven. De ingeschreven merken zullen worden openbaar gemaakt in een bijvoegsel van het blad van het Internationaal Bureau door middel van een cliché verstrekt door dengeen die het merk deponeert. Indien deze verlangt, dat een bepaalde kleur in zijn merk als onderscheidingsteeken dienst zal doen, zal hij gehouden zijn:
+- 1° de le déclarer, et d'accompagner son dépôt d'une description qui fera mention de la couleur;
 
-- 1°. dit uitdrukkelijk te verklaren en de inzending van zijn merk vergezeld te doen gaan van eene beschrijving, waarin bedoelde kleur wordt aangegeven;
+- 2° de joindre à sa demande des exemplaires de ladite marque en couleur, qui seront annexés aux notifications faites par le Bureau international. Le nombre de ces exemplaires sera fixé par le Règlement d'exécution.
 
-- 2°. bij zijne aanvrage gekleurde exemplaren van bedoeld merk te voegen, welke exemplaren zullen worden gehecht aan de kennisgevingen van inschrijving uitgaande van het Internationaal Bureau. Het aantal dezer exemplaren zal worden bepaald in het reglement, waarin de bijzonderheden betreffende de uitvoering van deze schikking zullen worden geregeld.
+En vue de la publicité à donner, dans les divers Etats, aux marques enregistrées, chaque Administration recevra gratuitement du Bureau international le nombre d'exemplaires de la susdite publication qu'il lui plaira de demander.
 
-Met het oog op de in de onderscheidene Staten aan de ingeschreven merken te geven openbaarheid, zal elke administratie kosteloos van het Internationaal Bureau het aantal exemplaren der gezegde publicatie ontvangen, dat het haar zal gelieven aan te vragen.
+##### Article 4
 
-##### Artikel 4
+A partir de l'enregistrement ainsi fait au Bureau international, la protection dans chacun des Etats contractants sera la même que si la marque y avait été directement déposée.
 
-Van het tijdstip der aldus op het Internationaal Bureau gedane inschrijving af, zal de bescherming in elken der contracteerende Staten gelden alsof het merk aldaar rechtstreeks ware gedeponeerd.
+##### Article 4bis
 
-##### Artikel 4bis
+Lorsqu'une marque, déjà deposée dans un ou plusieurs des Etats contractants, a été postérieurement enregistrée par le Bureau international au nom du même titulaire ou de son ayant cause, l'enregistrement international sera considéré comme substitué aux enregistrements nationaux antérieurs, sans préjudice des droits acquis par le fait de ces derniers.
 
-Wanneer een merk, reeds gedeponeerd in een of meer der contracterende Staten, daarna is ingeschreven door het Internationaal Bureau ten name van denzelfden inzender of diens rechtverkrijgende, zal de internationale inschrijving beschouwd worden als in de plaats te zijn getreden van de vroegere nationale inschrijvingen, zonder afbreuk te doen aan de rechten door laatstvermelde inschrijvingen verkregen.
+##### Article 5
 
-##### Artikel 5
+Dans les pays où leur législation les y autorise, les Administrations auxquelles le Bureau international notifiera l'enregistrement d'une marque, auront la faculté de déclarer que la protection ne peut être accordée à cette marque sur leur territoire. Un tel refus ne pourra être opposé que dans les conditions qui s'appliqueraient, en vertu de la Convention du 20 mais 1883, à une marque déposée à l'enregistrement national.
 
-In de landen, waar hunne wetgeving er hen toe machtigt, zullen de administratiën aan welke het Internationaal Bureau de inschrijving van een merk zal mededeelen, de bevoegdheid hebben te verklaren, dat de bescherming niet op hun grondgebied aan dat merk kan worden verleend. Dergelijke weigering van bescherming kan alleen gedaan worden op grond van omstandigheden die, krachtens de overeenkomst van 20 Maart 1883, ook van kracht zouden zijn ten aanzien van een merk, ingezonden ter nationale inschrijving.
+Elles devront exercer cette faculté dans le délai prévu par leu loi nationale, et, au plus tard, dans l'année de la notification prévue par l'article 3, en indiquant au Bureau international leurs motifs de refus.
 
-Zij zullen van die bevoegdheid behooren gebruik te maken binnen den termijn door de wet van hun land bepaald, en uiterlijk binnen het jaar na de kennisgeving bedoeld in artikel 3, onder opgave aan het Internationaal Bureau van de redenen waarop de weigering van bescherming wordt gegrond. Gezegde verklaring aldus aan het Internationaal Bureau medegedeeld zijnde, zal door hetzelve zonder verwijl overgebracht worden aan de administratie van het land van oorsprong en aan den eigenaar van het merk. De belanghebbende zal dezelfde middelen van verhaal hebben alsof het merk rechtstreeks door hem gedeponeerd ware in het land, waar de bescherming wordt geweigerd.
+Ladite déclaration ainsi notifiée au Bureau international sera par lui transmise sans délai à l'Administration du pays d'origine et au propriétaire de la marque. L'intéressé aura les mêmes moyens de recours que si la marque avait été par lui directement déposée dans le pays où la protection est refusée.
 
-##### Artikel 5bis
+##### Article 5bis
 
-Het Internationaal Bureau zal aan ieder, die daartoe aanvrage doet, tegen eene taks, bepaald in het reglement (1) een afschrift afgeven van de aanteekeningen, omtrent een bepaald merk in het register van inschrijving voorkomende.
+Le Bureau international délivrera à toute personne qui en fera la demande, moyennant une taxe fixée par le Règlement, une copie des mentions inscrites dans le Registre relativement à une marque déterminée.
 
-##### Artikel 6
+##### Article 6
 
-De bescherming voortvloeiende uit de inschrijving op het Internationaal Bureau zal gedurende twintig jaren van die inschrijving af gelden, maar zal niet kunnen worden ingeroepen ten behoeve van een merk dat mocht hebben opgehouden de wettelijke bescherming in het land van oorsprong te genieten.
+La protection résultant de l'enregistrement au Bureau international durera vingt ans à partir de cet enregistrement mais ne pourra être invoquée en faveur d'une marque qui ne jouirait plus de la protection légale dans le pays d'origine.
 
-##### Artikel 7
+##### Article 7
 
-De inschrijving zal steeds kunnen worden vernieuwd volgens de voorschriften der artikelen 1 en 3.
+L'enregistrement pourra toujours être renouvelé suivant les prescriptions des articles 1 et 3. Six mois avant l'expiration du terme de protection le Bureau international donnera un avis officieux à l'administration du pays d'origine et au propriétaire de la marque.
 
-Zes maanden voor den afloop van den termijn van bescherming zal het Internationaal Bureau een officieus bericht zenden aan de Administratie van het land van oorsprong en aan den eigenaar van het merk.
+##### Article 8
 
-##### Artikel 8
+L'Administration du pays d'origine fixera à son gré, et percevra à son profit, une taxe qu'elle réclamera du propriétaire de la marque dont l'enregistrement international est demandé. A cette taxe s'ajoutera un émolument international de 100 francs pour la première marque, et de 50 francs pour chacune des marques suivantes, déposées en même temps par le même propriétaire. Le produit annuel de cette taxe sera réparti par parts égales entre les Etats contractants par les soins du Bureau international, après déduction des frais communs nécessités par l'exécution de cet Arrangement.
 
-De administratie van het land van oorsprong zal naar goedvinden vaststellen en te haren voordeele innen eene taks, welke zij zal invorderen van den eigenaar van het merk, welks internationale inschrijving verlangd wordt. Deze taks zal worden verhoogd met een internationaal emolument van honderd francs voor het eerste merk en van vijftig francs voor elk volgend merk door denzelfden eigenaar te gelijker tijd ingezonden. De jaarlijksche opbrengst van deze taks zal door de zorgen van het Internationaal Bureau in gelijke deelen onder de contracteerende Staten worden verdeeld, na aftrek der gemeenschappelijke onkosten door de uitvoering dezer schikking veroorzaakt.
+##### Article 9
 
-##### Artikel 9
+L'administration du pays d'origine notifiera au Bureau international les annulations, radiations, renonciations, transmissions et autres changements qui se produiront dans la propriété de la marque.
 
-De Administratie van het land van oorsprong zal aan het Internationaal Bureau kennis geven van elke opheffing, doorhaling, afstand, overdracht en andere wijzigingen die zich ten opzichte van den eigendom van het merk zullen voordoen. Het Internationaal Bureau zal deze wijzigingen inschrijven, dezelve mededeelen aan de contracteerende Administratiën en terstond in zijn blad openbaar maken.
+Le Bureau international enregistrera ces changements, les notifiera aux Administrations contractantes et les publiera aussitôt dans son journal.
 
-##### Artikel 9bis
+##### Article 9bis
 
-Indien een merk, dat in het internationaal register is ingeschreven, mocht worden overgedragen aan een persoon gevestigd in eenen anderen der contracteerende Staten dan waaruit het merk afkomstig is, zal de overdracht ter kennis van het Internationaal Bureau worden gebracht door de administratie van het land waaruit het merk afkomstig is. Het Internationaal Bureau zal de overdracht inschrijven en na ontvangst van de toestemming der administratie waaronder de nieuwe eigenaar ressorteert, mededeelen aan de andere administraties, en in zijn blad openbaar maken.
+Lorsqu'une marque inscrite dans le Registre international sera transmise à une personne établie dans un Etat contractant autre que le pays d'origine de la marque, la transmission sera notifiée au Bureau international par l'Administration de ce même pays d'origine. Le Bureau international enregistrera la transmission et, après avoir reçu l'assentiment de l'Administration à laquelle ressortit le nouveau titulaire, il la notifiera aux autres Administrations et la publiera dans sons journal.
 
-Bovenstaande bepaling brengt geene wijziging in de wetgevingen der contracteerende Staten, die overdracht van een merk niet toelaten, wanneer daarmee niet gepaard gaat overdracht der onderneming van nijverheid of handel ter onderscheiding van welker voortbrengselen dat merk dient. Overdracht van een in het internationaal register ingeschreven merk aan een persoon, niet gevestigd in een der contracteerende landen, zal niet worden ingeschreven.
+La présente disposition n'a point pour effet de modifier les législations des Etats contractants qui prohibent la transmission de la marque sans la cession simultanée de l'établissement industriel ou commercial dont elle distingue les produits.
 
-##### Artikel 10
+Nulle transmission de marque inscrite dans le Registre international, faite au profit d'une personne non établie dans l'un des pays signataires, ne sera enregistrée.
 
-De Administratiën zullen in gemeen overleg de bijzonderheden betreffende de uitvoering van deze schikking regelen.
+##### Article 10
 
-##### Artikel 11
+Les Administrations règleront d'un commun accord les détails relatifs à l'execution du présent Arrangement.
 
-De Staten der Unie ter bescherming van den industrieelen eigendom die aan de onderwerpelijke schikking geen deel hebben genomen, zullen ter aansluiting worden toegelaten op hunne aanvrage daartoe en in den vorm voorgeschreven bij artikel 16 der overeenkomst van den 20sten Maart 1883 tot bescherming van den industrieelen eigendom. Zoodra aan het Internationaal Bureau zal bericht zijn dat een staat tot deze schikking is toegetreden zal hetzelve aan de Administratie van dien staat, overeenkomstig artikel 3 in eens kennis geven van alle merken die op dat oogenblik de internationale bescherming genieten. Die kennisgeving zal op zich zelf voldoende zijn om aan gezegde merken het voordeel der voorafgaande bepalingen op het grondgebied van den toegetreden staat te verzekeren en om den termijn van een jaar te doen aanvangen, gedurende welken de betrokken Administratie gebruik kan maken van de bij artikel 5 vermelde bevoegdheid.
+##### Article 11
 
-##### Artikel 12
+Les Etats de l'Union pour la protection de la propiété industrielle qui n'ont pas pris part au présent Arrangement seront admis à y adhérer sur leur demandé et dans la forme prescrite par l'article 16 de la Convention du 20 Mars 1883 pour la protection la propriété industrielle.
 
-Deze schikking zal bekrachtigd worden en de akten van bekrachtiging zullen uiterlijk binnen zes maanden te Madrid worden uitgewisseld. Zij zal in werking treden eene maand na de uitwisseling der akten van bekrachtiging en zal dezelfde kracht en duur hebben als de overeenkomst van den 20sten Maart 1883.
+Dès que le Bureau international sera informé qu'un Etat a adhéré au présent Arrangement, il adressera à l'Administration de cet Etat, conformément à l'article 3 une notification collective des marques qui, à ce moment jouissent de la protection internationale.
 
-De ondergeteekenden gevolmachtigden der bovengenoemde Regeeringen;
+Cette notification assurera, par elle même aux dites marques le bénéfice des précédentes dispositions sur le territoire de l'Etat adhérent et fera courir le délai d'un an pendant lequel l'Administration intéressée peut faire la declaration, prévue par l'article 5.
 
-Gezien de verklaring den 12den Maart 1883 aangenomen door de te Parijs vergaderde internationale conferentie voor de bescherming van den industrieelen eigendom;
+##### Article 12
 
-Hebben in gemeen overleg en onder voorbehoud van bekrachtiging het volgende Protocol aangenomen:
+Le présent Arrangement sera ratifié et les ratifications en seront échangées à Madrid dans le délai de six mois au plus tard.
 
-##### Artikel 1
-
-De eerste alinea van cijfer 6 van het Slotprotokol behoorende bij de internationale overeenkomst van den 20sten Maart 1883 tot bescherming van den industrieelen eigendom wordt afgeschaft en vervangen door de volgende bepaling:
-
-„De uitgaven van het Internationaal Bureau bij artikel 13 ingesteld, zullen gemeenschappelijk door de contracteerende Staten worden gedragen. Zij zullen in geen geval eene som van zestig duizend franken per jaar kunnen te boven gaan.”
-
-##### Artikel 2
-
-Dit Protokol zal bekrachtigd worden en de akten van bekrachtiging zullen uiterlijk binnen zes maanden te Madrid worden uitgewisseld.
-
-Het zal in werking treden eene maand na de uitwisseling der akten van bekrachtiging en zal dezelfde kracht en duur bezitten als de overeenkomst van den 20sten Maart 1883, waarvan het zal beschouwd worden een onafscheidelijk deel uit te maken.
+Il entrera en vigueur un mois à partir de l'échange des ratifications, et aura la même force et durée que la Convention du 20 Mars 1883.
 
 En foi de quoi, les Plénipotentiaires des Etats ci-dessus énumérés ont signé le présent Arrangement à Madrid le quatorze avril mil huit cent quatre-vingt-onze.

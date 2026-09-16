@@ -1,142 +1,21 @@
 ---
 title: "Partnerschapsovereenkomst op het gebied van betrekkingen en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en Nieuw-Zeeland, anderzijds"
 identifier: "BWBV0006639"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-07-21"
-last_updated: "2022-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006639"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005383093"
-version_id: "10005813112"
-internal_id: "C10009911291"
-label_id: "10005366314"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006639/2022-07-21/0"
-intitule_bron: "Trb.2016-174"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-11-09"
-intitule_in_force: "2022-08-19"
-intitule_status: "goed"
-original_publication: "Trb.2016-174"
-original_published_date: "2016-11-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2016-174"
-entry_into_force_date: "2022-07-21"
-jci_1_3: "jci1.3:c:BWBV0006639&z=2022-07-21&g=2022-07-21"
-jci_1_0: "1.0:c:BWBV0006639&g=2022-07-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-07-21"
+publicatiedatum: 2022-07-21
+laatste_update: 2022-07-21
+status: geldig
+toestand: 2022-07-21
+bron: "https://wetten.overheid.nl/BWBV0006639"
+opgehaald: 2026-09-16
 ---
+
 # Partnerschapsovereenkomst op het gebied van betrekkingen en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en Nieuw-Zeeland, anderzijds
 
-De Europese Unie, hierna „de Unie” genoemd,
+*De Europese Unie, hierna „de Unie” genoemd, en het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, lidstaten van de Europese Unie, hierna „de lidstaten” genoemd, enerzijds, en Nieuw-Zeeland, anderzijds, hierna „de partijen” genoemd, Overwegende hun gedeelde waarden en hun nauwe historische, politieke, economische en culturele banden, Verheugd over de vooruitgang die is gemaakt bij de ontwikkeling van de onderlinge betrekkingen tot beider voordeel sinds de goedkeuring van de gemeenschappelijke verklaring betreffende de onderlinge betrekkingen en samenwerking tussen de Europese Unie en Nieuw-Zeeland van 21 september 2007, Opnieuw bevestigend dat zij zich engageren voor de doelstellingen en beginselen van het Handvest van de Verenigde Naties (het VN-Verdrag) en het versterken van de rol van de Verenigde Naties (VN), Opnieuw bevestigend dat zij sterk gehecht zijn aan de democratische beginselen en de rechten van de mens, vastgelegd in de Universele Verklaring van de rechten van de mens en andere toepasselijke internationale mensenrechteninstrumenten, alsmede aan de beginselen van de rechtsstaat en goed bestuur, Erkennend dat de Nieuw-Zeelandse regering bijzonder gehecht is aan de beginselen van het Verdrag van Waitangi, Beklemmend de alomvattende aard van hun betrekkingen en het belang van een coherent kader ter bevordering van de ontwikkeling van deze betrekkingen, Uitdrukking gevend aan hun gezamenlijke wil om de betrekkingen om te smeden tot een versterkt partnerschap, Bevestigend hun wens om de onderlinge politieke dialoog en samenwerking te intensiveren en te ontwikkelen, Vastbesloten de samenwerking op gebieden van wederzijds belang op bilateraal, regionaal en mondiaal niveau en tot wederzijds voordeel te consolideren, te verdiepen en te diversifiëren, Erkennend dat er behoefte is aan meer samenwerking op het gebied van recht, vrijheid en veiligheid, Overwegende dat zij duurzame ontwikkeling in economisch, sociaal en ecologisch opzicht wensen te bevorderen, Voorts erkennend dat zij beiden belang hebben bij het bevorderen van wederzijds begrip en sterke persoonlijke contacten, onder meer door toerisme, onderlinge regelingen om jongeren de mogelijkheid te geven andere landen te bezoeken en er te werken of studeren, en door andere korte bezoeken, Opnieuw bevestigend dat zij vastbesloten zijn de economische groei, de mondiale economische governance, de financiële stabiliteit en een doelmatig multilateralisme te bevorderen, Opnieuw bevestigend dat zij vastbesloten zijn samen te werken ter bevordering van internationale vrede en veiligheid, Voortbouwend op de overeenkomsten tussen de EU en Nieuw-Zeeland, met name inzake crisisbeheersing, wetenschap en technologie, luchtdiensten, conformiteitsbeoordelingsprocedures en sanitaire maatregelen, Wijzend op het feit dat, als de partijen in het kader van deze overeenkomst specifieke overeenkomsten sluiten op het gebied van vrijheid, veiligheid en recht, die door de Unie zouden worden gesloten krachtens titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie, de bepalingen van dergelijke toekomstige overeenkomsten niet bindend zijn voor het Verenigd Koninkrijk en/of Ierland, tenzij de Europese Unie, samen met het Verenigd Koninkrijk en/of Ierland wat betreft hun respectieve bilaterale betrekkingen, Nieuw-Zeeland ervan in kennis heeft gesteld dat het Verenigd Koninkrijk en/of Ierland gebonden zijn door dergelijke overeenkomsten als deel van de Unie, overeenkomstig Protocol nr. 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht, dat aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie is gehecht. Evenzo zijn latere interne maatregelen van de Unie die met het oog op de uitvoering van deze overeenkomst krachtens voornoemde titel V worden genomen, niet bindend voor het Verenigd Koninkrijk en/of Ierland, tenzij deze laatsten hun wens te kennen hebben gegeven deel te nemen aan deze maatregelen of deze te aanvaarden overeenkomstig Protocol nr. 21. Voorts wijzende op het feit dat dergelijke toekomstige overeenkomsten of dergelijke latere interne maatregelen van de Unie zouden komen te vallen onder Protocol nr. 22 betreffende de positie van Denemarken dat gehecht is aan voornoemde Verdragen, Zijn het volgende overeengekomen:*
 
-en
-
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-lidstaten van de Europese Unie, hierna „de lidstaten” genoemd,
-
-enerzijds, en
-
-Nieuw-Zeeland,
-
-anderzijds,
-
-hierna „de partijen” genoemd,
-
-Overwegende hun gedeelde waarden en hun nauwe historische, politieke, economische en culturele banden,
-
-Verheugd over de vooruitgang die is gemaakt bij de ontwikkeling van de onderlinge betrekkingen tot beider voordeel sinds de goedkeuring van de gemeenschappelijke verklaring betreffende de onderlinge betrekkingen en samenwerking tussen de Europese Unie en Nieuw-Zeeland van 21 september 2007,
-
-Opnieuw bevestigend dat zij zich engageren voor de doelstellingen en beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) (het VN-Verdrag) en het versterken van de rol van de Verenigde Naties (VN),
-
-Opnieuw bevestigend dat zij sterk gehecht zijn aan de democratische beginselen en de rechten van de mens, vastgelegd in de Universele Verklaring van de rechten van de mens en andere toepasselijke internationale mensenrechteninstrumenten, alsmede aan de beginselen van de rechtsstaat en goed bestuur,
-
-Erkennend dat de Nieuw-Zeelandse regering bijzonder gehecht is aan de beginselen van het Verdrag van Waitangi,
-
-Beklemmend de alomvattende aard van hun betrekkingen en het belang van een coherent kader ter bevordering van de ontwikkeling van deze betrekkingen,
-
-Uitdrukking gevend aan hun gezamenlijke wil om de betrekkingen om te smeden tot een versterkt partnerschap,
-
-Bevestigend hun wens om de onderlinge politieke dialoog en samenwerking te intensiveren en te ontwikkelen,
-
-Vastbesloten de samenwerking op gebieden van wederzijds belang op bilateraal, regionaal en mondiaal niveau en tot wederzijds voordeel te consolideren, te verdiepen en te diversifiëren,
-
-Erkennend dat er behoefte is aan meer samenwerking op het gebied van recht, vrijheid en veiligheid,
-
-Overwegende dat zij duurzame ontwikkeling in economisch, sociaal en ecologisch opzicht wensen te bevorderen,
-
-Voorts erkennend dat zij beiden belang hebben bij het bevorderen van wederzijds begrip en sterke persoonlijke contacten, onder meer door toerisme, onderlinge regelingen om jongeren de mogelijkheid te geven andere landen te bezoeken en er te werken of studeren, en door andere korte bezoeken,
-
-Opnieuw bevestigend dat zij vastbesloten zijn de economische groei, de mondiale economische governance, de financiële stabiliteit en een doelmatig multilateralisme te bevorderen,
-
-Opnieuw bevestigend dat zij vastbesloten zijn samen te werken ter bevordering van internationale vrede en veiligheid,
-
-Voortbouwend op de overeenkomsten tussen de EU en Nieuw-Zeeland, met name inzake crisisbeheersing, wetenschap en technologie, luchtdiensten, conformiteitsbeoordelingsprocedures en sanitaire maatregelen,
-
-Wijzend op het feit dat, als de partijen in het kader van deze overeenkomst specifieke overeenkomsten sluiten op het gebied van vrijheid, veiligheid en recht, die door de Unie zouden worden gesloten krachtens [titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=V), de bepalingen van dergelijke toekomstige overeenkomsten niet bindend zijn voor het Verenigd Koninkrijk en/of Ierland, tenzij de Europese Unie, samen met het Verenigd Koninkrijk en/of Ierland wat betreft hun respectieve bilaterale betrekkingen, Nieuw-Zeeland ervan in kennis heeft gesteld dat het Verenigd Koninkrijk en/of Ierland gebonden zijn door dergelijke overeenkomsten als deel van de Unie, overeenkomstig [Protocol nr. 21 betreffende de positie van het Verenigd Koninkrijk en Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht](onbekend), dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht. Evenzo zijn latere interne maatregelen van de Unie die met het oog op de uitvoering van deze overeenkomst krachtens voornoemde titel V worden genomen, niet bindend voor het Verenigd Koninkrijk en/of Ierland, tenzij deze laatsten hun wens te kennen hebben gegeven deel te nemen aan deze maatregelen of deze te aanvaarden overeenkomstig Protocol nr. 21. Voorts wijzende op het feit dat dergelijke toekomstige overeenkomsten of dergelijke latere interne maatregelen van de Unie zouden komen te vallen onder [Protocol nr. 22 betreffende de positie van Denemarken](onbekend) dat gehecht is aan voornoemde Verdragen,
-
-Zijn het volgende overeengekomen:
-
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 1. Doel van de overeenkomst
 
@@ -178,7 +57,7 @@ De eerbiediging van de democratische beginselen, de mensenrechten en de fundamen
 
 De partijen verbinden zich ertoe samen te werken door van gedachten te wisselen over politieke vraagstukken van wederzijds belang, en, in voorkomend geval, het uitwisselen van informatie over standpunten in regionale en internationale fora en organisaties.
 
-## TITEL II. POLITIEKE DIALOOG EN SAMENWERKING INZAKE BUITENLANDS BELEID EN VEILIGHEID
+### TITEL II. POLITIEKE DIALOOG EN SAMENWERKING INZAKE BUITENLANDS BELEID EN VEILIGHEID
 
 ##### Artikel 5. Politieke dialoog
 
@@ -194,7 +73,7 @@ Om het gedeelde engagement voor de democratische beginselen, de mensenrechten en
 
 ##### Artikel 7. Crisisbeheer
 
-De partijen bevestigen opnieuw hun verbintenis tot bevordering van de internationale vrede en veiligheid, onder andere in het kader van de op 18 april 2012 in Brussel ondertekende overeenkomst tussen de Europese Unie en Nieuw-Zeeland tot vaststelling van een kader voor de deelname van Nieuw-Zeeland aan crisisbeheersingsoperaties van de Europese Unie.
+De partijen bevestigen opnieuw hun verbintenis tot bevordering van de internationale vrede en veiligheid, onder andere in het kader van de op 18 april 2012 in Brussel ondertekende overeenkomst tussen de Europese Unie en Nieuw-Zeeland tot vaststelling van een kader voor de deelname van Nieuw-Zeeland aan crisisbeheersingsoperaties van de Europese Unie.
 
 ##### Artikel 8. Bestrijding van de verspreiding van massavernietigingswapens
 
@@ -232,7 +111,7 @@ De partijen bevestigen opnieuw hun verbintenis tot bevordering van de internatio
 
 1. De partijen bevestigen opnieuw het belang van terrorismebestrijding, met volledige naleving van de rechtsstaat, het internationale recht, met name het [VN-Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en de relevante resoluties van de VN-Veiligheidsraad, het recht inzake de de mensenrechten, het vluchtelingenrecht en het internationale humanitaire recht.
 
-2. Binnen dit kader en rekening houdend met de mondiale strategie voor terrorismebestrijding van de VN, vervat in Resolutie 60/288 van de Algemene Vergadering van de VN van 8 september 2006, komen de partijen overeen samen te werken voor de preventie en bestrijding van terrorisme, met name:
+2. Binnen dit kader en rekening houdend met de mondiale strategie voor terrorismebestrijding van de VN, vervat in Resolutie 60/288 van de Algemene Vergadering van de VN van 8 september 2006, komen de partijen overeen samen te werken voor de preventie en bestrijding van terrorisme, met name:
 
 - a. in het kader van de volledige uitvoering van de resoluties 1267, 1373 en 1540 van de VN-Veiligheidsraad en andere relevante VN-resoluties en internationale instrumenten;
 
@@ -240,11 +119,11 @@ De partijen bevestigen opnieuw hun verbintenis tot bevordering van de internatio
 
 - c. door van gedachten te wisselen over:
 
-- i. middelen en methoden voor het bestrijden van terrorisme, onder meer op technisch gebied en met betrekking tot training;
+   - i. middelen en methoden voor het bestrijden van terrorisme, onder meer op technisch gebied en met betrekking tot training;
 
-- ii. terrorismepreventie; en
+   - ii. terrorismepreventie; en
 
-- iii. beste praktijken betreffende de bescherming van de mensenrechten in het kader van de strijd tegen het terrorisme;
+   - iii. beste praktijken betreffende de bescherming van de mensenrechten in het kader van de strijd tegen het terrorisme;
 
 - d. door samen te werken om de internationale consensus over de strijd tegen terrorisme en het normatieve kader daarvoor te vergroten en zo spoedig mogelijk toe te werken naar overeenstemming over het alomvattend verdrag inzake internationaal terrorisme, ter aanvulling op de bestaande VN-instrumenten voor de bestrijding van terrorisme; en
 
@@ -254,7 +133,7 @@ De partijen bevestigen opnieuw hun verbintenis tot bevordering van de internatio
 
 4. De partijen bevestigen opnieuw hun engagement om samen te werken om steun voor capaciteitsopbouw inzake terrorismebestrijding aan andere staten te verstrekken die middelen en expertise behoeven om terroristische activiteiten te voorkomen en er op te reageren, onder meer in het kader van het mondiaal terrorismebestrijdingsforum (Global Counter-Terrorism Forum – GCTF).
 
-## TITEL III. SAMENWERKING INZAKE MONDIALE ONTWIKKELING EN HUMANITAIRE HULP
+### TITEL III. SAMENWERKING INZAKE MONDIALE ONTWIKKELING EN HUMANITAIRE HULP
 
 ##### Artikel 12. Ontwikkeling
 
@@ -272,7 +151,7 @@ De partijen bevestigen opnieuw hun verbintenis tot bevordering van de internatio
 
 De partijen bevestigen opnieuw hun gemeenschappelijk engagement voor humanitaire hulp en streven ernaar, waar passend, een gecoördineerde respons te bieden.
 
-## TITEL IV. SAMENWERKING OP ECONOMISCH EN HANDELSGEBIED
+### TITEL IV. SAMENWERKING OP ECONOMISCH EN HANDELSGEBIED
 
 ##### Artikel 14. Dialoog over economische, handels- en investeringsaangelegenheden
 
@@ -300,7 +179,7 @@ De partijen bevestigen opnieuw hun gemeenschappelijk engagement voor humanitaire
 
 ##### Artikel 15. Sanitaire en fytosanitaire vraagstukken
 
-1. De partijen komen overeen hun samenwerking op te voeren op sanitair en fytosanitair gebied in het kader van de [WTO-overeenkomst inzake sanitaire en fytosanitaire maatregelen](onbekend) en de Codex Alimentarius-Commissie, de Wereldorganisatie voor diergezondheid („OIE”) en de relevante internationale en regionale organisaties die actief zijn in het kader van het Internationaal Verdrag voor de bescherming van planten („IPPC”). Deze samenwerking heeft tot doel het wederzijdse begrip van hun respectieve SPS-maatregelen te vergroten en de handel tussen de partijen te faciliteren, en kan het volgende omvatten:
+1. De partijen komen overeen hun samenwerking op te voeren op sanitair en fytosanitair gebied in het kader van de [WTO-overeenkomst inzake sanitaire en fytosanitaire maatregelen](https://wetten.overheid.nl/BWBV0001160) en de Codex Alimentarius-Commissie, de Wereldorganisatie voor diergezondheid („OIE”) en de relevante internationale en regionale organisaties die actief zijn in het kader van het Internationaal Verdrag voor de bescherming van planten („IPPC”). Deze samenwerking heeft tot doel het wederzijdse begrip van hun respectieve SPS-maatregelen te vergroten en de handel tussen de partijen te faciliteren, en kan het volgende omvatten:
 
 - a. de uitwisseling van informatie;
 
@@ -310,7 +189,7 @@ De partijen bevestigen opnieuw hun gemeenschappelijk engagement voor humanitaire
 
 - d. de erkenning van ziekte- of plagenvrije gebieden en gebieden met een lage ziekte- of plagenprevalentie.
 
-2. Daartoe verbinden de partijen zich ertoe om ten volle gebruik te maken van bestaande instrumenten zoals de Overeenkomst tussen de Europese Gemeenschap en Nieuw-Zeeland inzake sanitaire maatregelen voor de handel in levende dieren en dierlijke producten, die op 17 december 1996 in Brussel is ondertekend, en samen te werken in een passend bilateraal forum voor andere, niet onder die overeenkomst vallende sanitaire en fytosanitaire vraagstukken.
+2. Daartoe verbinden de partijen zich ertoe om ten volle gebruik te maken van bestaande instrumenten zoals de Overeenkomst tussen de Europese Gemeenschap en Nieuw-Zeeland inzake sanitaire maatregelen voor de handel in levende dieren en dierlijke producten, die op 17 december 1996 in Brussel is ondertekend, en samen te werken in een passend bilateraal forum voor andere, niet onder die overeenkomst vallende sanitaire en fytosanitaire vraagstukken.
 
 ##### Artikel 16. Dierenwelzijn
 
@@ -320,7 +199,7 @@ De partijen bevestigen opnieuw het belang van wederzijds begrip en samenwerking 
 
 1. De partijen zijn het erover eens dat een grotere compatibiliteit van normen, technische voorschriften en conformiteitsbeoordelingsprocedures van essentieel belang is om de handel in goederen te faciliteren.
 
-2. De partijen erkennen dat het in hun wederzijdse belang is om technische handelsbelemmeringen af te bouwen en tot dit doel komen zij overeen samen te werken in het kader van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](onbekend) en de overeenkomst tussen de Europese Gemeenschap en Nieuw-Zeeland inzake wederzijdse erkenning van conformiteitsbeoordeling die op 25 juni 1998 in Wellington werd ondertekend.
+2. De partijen erkennen dat het in hun wederzijdse belang is om technische handelsbelemmeringen af te bouwen en tot dit doel komen zij overeen samen te werken in het kader van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160) en de overeenkomst tussen de Europese Gemeenschap en Nieuw-Zeeland inzake wederzijdse erkenning van conformiteitsbeoordeling die op 25 juni 1998 in Wellington werd ondertekend.
 
 ##### Artikel 18. Mededingingsbeleid
 
@@ -404,7 +283,7 @@ Met deze samenwerking wordt meer bepaald een verbetering van het concurrentiever
 
 De partijen erkennen het belang van het toerisme voor een beter wederzijds begrip en wederzijdse waardering tussen de volkeren van de Unie en Nieuw-Zeeland en van de economische voordelen die uit meer toerisme voortvloeien, en komen overeen samen te werken om het toerisme in beide richtingen tussen de Unie en Nieuw-Zeeland te stimuleren.
 
-## TITEL V. SAMENWERKING INZAKE RECHT, VRIJHEID EN VEILIGHEID
+### TITEL V. SAMENWERKING INZAKE RECHT, VRIJHEID EN VEILIGHEID
 
 ##### Artikel 29. Juridische samenwerking
 
@@ -422,9 +301,9 @@ De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten,
 
 1. De partijen bevestigen opnieuw hun engagement om samen te werken voor het voorkomen en bestrijden van grensoverschrijdende georganiseerde economische en financiële misdaad en corruptie, namaak en illegale transacties, door te voldoen aan hun wederzijdse internationale verplichtingen in dit verband, onder meer met betrekking tot effectieve samenwerking om beslag te leggen op uit corruptie verkregen bezittingen of gelden.
 
-2. De partijen bevorderen de toepassing van het op 15 november 2000 aangenomen [VN-Verdrag tegen grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/jci1.3:c:BWBV0001668).
+2. De partijen bevorderen de toepassing van het op 15 november 2000 aangenomen [VN-Verdrag tegen grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/jci1.3:c:BWBV0001668).
 
-3. De partijen bevorderen tevens de toepassing van het op 31 oktober 2002 aangenomen [VN-Verdrag tegen corruptie](https://wetten.overheid.nl/jci1.3:c:BWBV0001830), rekening houdend met de beginselen van transparantie en maatschappelijke participatie.
+3. De partijen bevorderen tevens de toepassing van het op 31 oktober 2002 aangenomen [VN-Verdrag tegen corruptie](https://wetten.overheid.nl/jci1.3:c:BWBV0001830), rekening houdend met de beginselen van transparantie en maatschappelijke participatie.
 
 ##### Artikel 32. Drugsbestrijding
 
@@ -454,7 +333,7 @@ De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten,
 
 - b. elke lidstaat zal zijn onderdanen die illegaal op het grondgebied van Nieuw-Zeeland verblijven, op verzoek van dat land zonder verdere formaliteiten overnemen.
 
-Overeenkomstig hun internationale verplichtingen, onder meer uit hoofde van het op 7 december 1944 ondertekende [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), verstrekken de lidstaten en Nieuw-Zeeland hun onderdanen daartoe de nodige identiteitsdocumenten.
+Overeenkomstig hun internationale verplichtingen, onder meer uit hoofde van het op 7 december 1944 ondertekende [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), verstrekken de lidstaten en Nieuw-Zeeland hun onderdanen daartoe de nodige identiteitsdocumenten.
 
 3. De partijen gaan na, op verzoek van een van beide partijen, of de sluiting van een overeenkomst tussen Nieuw-Zeeland en de Europese Unie op het gebied van overname, overeenkomstig [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2022-07-21&g=2022-07-21), van deze overeenkomst, mogelijk is. In die overeenkomst worden passende regelingen opgenomen voor onderdanen van derde landen en staatloze personen.
 
@@ -474,13 +353,13 @@ Overeenkomstig hun internationale verplichtingen, onder meer uit hoofde van het 
 
 2. Deze samenwerking kan onder meer de uitwisseling van informatie en deskundigheid inhouden. Zij kan ook samenwerking omvatten tussen de regelgevende instanties in organen zoals de OESO-werkgroep inzake veiligheid en privacy in de digitale economie en de Global Privacy Enforcement Network.
 
-## TITEL VI. SAMENWERKING OP HET GEBIED VAN ONDERZOEK, INNOVATIE EN DE INFORMATIEMAATSCHAPPIJ
+### TITEL VI. SAMENWERKING OP HET GEBIED VAN ONDERZOEK, INNOVATIE EN DE INFORMATIEMAATSCHAPPIJ
 
 ##### Artikel 38. Onderzoek en innovatie
 
 1. De partijen komen overeen hun samenwerking op het gebied van onderzoek en innovatie te versterken.
 
-2. De partijen stimuleren, ontwikkelen en faciliteren samenwerkingsactiviteiten op het gebied van onderzoek en innovatie voor vreedzame doeleinden, ter ondersteuning van of complementair aan de op 16 juli 2008 in Brussel ondertekende Overeenkomst voor wetenschappelijke en technologische samenwerking tussen de Europese Gemeenschap en de regering van Nieuw-Zeeland.
+2. De partijen stimuleren, ontwikkelen en faciliteren samenwerkingsactiviteiten op het gebied van onderzoek en innovatie voor vreedzame doeleinden, ter ondersteuning van of complementair aan de op 16 juli 2008 in Brussel ondertekende Overeenkomst voor wetenschappelijke en technologische samenwerking tussen de Europese Gemeenschap en de regering van Nieuw-Zeeland.
 
 ##### Artikel 39. Informatiemaatschappij
 
@@ -498,7 +377,7 @@ Overeenkomstig hun internationale verplichtingen, onder meer uit hoofde van het 
 
 - e. de uitwisseling van standpunten over maatregelen op het gebied van internationale mobiele roamingkosten.
 
-## TITEL VII. SAMENWERKING OP HET GEBIED VAN ONDERWIJS, CULTUUR EN PERSOONLIJKE CONTACTEN
+### TITEL VII. SAMENWERKING OP HET GEBIED VAN ONDERWIJS, CULTUUR EN PERSOONLIJKE CONTACTEN
 
 ##### Artikel 40. Onderwijs en opleiding
 
@@ -534,7 +413,7 @@ Overeenkomstig hun internationale verplichtingen, onder meer uit hoofde van het 
 
 De partijen erkennen de waarde van intermenselijke contacten en de bijdrage welke deze kunnen leveren tot meer begrip tussen de Unie en Nieuw-Zeeland. Zij komen overeen dergelijke contacten in passende gevallen te bevorderen en te verdiepen. Deze contacten kunnen de uitwisseling van ambtenaren en korte stages voor postdoctoraalstudenten omvatten.
 
-## TITEL VIII. SAMENWERKING OP HET GEBIED VAN DUURZAME ONTWIKKELING, ENERGIE EN VERVOER
+### TITEL VIII. SAMENWERKING OP HET GEBIED VAN DUURZAME ONTWIKKELING, ENERGIE EN VERVOER
 
 ##### Artikel 43. Milieu en natuurlijke hulpbronnen
 
@@ -612,11 +491,11 @@ De partijen erkennen het belang van de energiesector en de rol van een goed func
 
 - b. de versterking van de betrekkingen op het gebied van de luchtvaart tussen de Unie en Nieuw-Zeeland, met het oog op:
 
-- i. de verbetering van markttoegang en investeringsmogelijkheden, de liberalisering van eigendoms- en controlebepalingen in overeenkomsten inzake luchtvervoerdiensten, in overeenstemming met het binnenlandse vervoersbeleid;
+   - i. de verbetering van markttoegang en investeringsmogelijkheden, de liberalisering van eigendoms- en controlebepalingen in overeenkomsten inzake luchtvervoerdiensten, in overeenstemming met het binnenlandse vervoersbeleid;
 
-- ii. de verbreding en verdieping van de samenwerking op het gebied van regelgeving voor de veiligheid en beveiliging van de luchtvaart en de economische regelgeving van de luchtvervoersindustrie; en
+   - ii. de verbreding en verdieping van de samenwerking op het gebied van regelgeving voor de veiligheid en beveiliging van de luchtvaart en de economische regelgeving van de luchtvervoersindustrie; en
 
-- iii. de convergentie van de regelgeving en het wegwerken van handelsbelemmeringen, alsook samenwerking inzake luchtverkeersbeheer;
+   - iii. de convergentie van de regelgeving en het wegwerken van handelsbelemmeringen, alsook samenwerking inzake luchtverkeersbeheer;
 
 - c. de onbeperkte toegang tot de internationale maritieme markten en handel, gebaseerd op eerlijke concurrentie op een commerciële basis; en
 
@@ -658,7 +537,7 @@ De partijen erkennen het belang van de energiesector en de rol van een goed func
 
 4. De samenwerking kan onder meer de vorm aannemen van gezamenlijk vast te stellen specifieke programma’s en projecten, alsmede dialoog, samenwerking en initiatieven op gebieden van wederzijds belang op bilateraal of multilateraal niveau.
 
-## TITEL IX. INSTITUTIONEEL KADER
+### TITEL IX. INSTITUTIONEEL KADER
 
 ##### Artikel 52. Andere overeenkomsten of regelingen
 
@@ -710,11 +589,11 @@ De partijen erkennen het belang van de energiesector en de rol van een goed func
 
 6. Indien binnen 15 dagen na de aanvang van het overleg op ministerieel niveau en uiterlijk 45 dagen na de datum van kennisgeving geen wederzijds aanvaardbare oplossing wordt gevonden, kan de kennisgevende partij besluiten passende maatregelen te nemen als kennisgegeven overeenkomstig lid 3. Het besluit tot opschorting wordt in de Unie met eenparigheid van stemmen genomen. In Nieuw-Zeeland wordt het besluit tot opschorting door de regering van Nieuw-Zeeland overeenkomstig zijn wet- en regelgeving genomen.
 
-7. Voor de toepassing van dit artikel wordt onder „passende maatregelen” verstaan: de gedeeltelijke opschorting, de volledige opschorting of de beëindiging van deze overeenkomst, dan wel, in voorkomend geval, van een andere specifieke overeenkomst die deel uitmaakt van het gemeenschappelijke institutionele kader als bedoeld in [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2022-07-21&g=2022-07-21), overeenkomstig de desbetreffende bepalingen van een dergelijke overeenkomst. De door een partij genomen passende maatregelen met het oog op de gedeeltelijke opschorting van deze overeenkomst zijn alleen van toepassing op de bepalingen van de titels I tot en met VIII. Bij de keuze van de passende maatregelen moet voorrang worden gegeven aan maatregelen die de betrekkingen tussen de partijen het minst verstoren. Deze maatregelen, die onder artikel 52, lid 2, vallen, moeten in verhouding staan tot de schending van de verplichtingen uit hoofde van deze overeenkomst en in overeenstemming zijn met het internationaal recht.
+7. Voor de toepassing van dit artikel wordt onder „passende maatregelen” verstaan: de gedeeltelijke opschorting, de volledige opschorting of de beëindiging van deze overeenkomst, dan wel, in voorkomend geval, van een andere specifieke overeenkomst die deel uitmaakt van het gemeenschappelijke institutionele kader als bedoeld in [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2022-07-21&g=2022-07-21), overeenkomstig de desbetreffende bepalingen van een dergelijke overeenkomst. De door een partij genomen passende maatregelen met het oog op de gedeeltelijke opschorting van deze overeenkomst zijn alleen van toepassing op de bepalingen van de [titels I tot en met VIII](https://wetten.overheid.nl/BWBR0011837). Bij de keuze van de passende maatregelen moet voorrang worden gegeven aan maatregelen die de betrekkingen tussen de partijen het minst verstoren. Deze maatregelen, die onder artikel 52, lid 2, vallen, moeten in verhouding staan tot de schending van de verplichtingen uit hoofde van deze overeenkomst en in overeenstemming zijn met het internationaal recht.
 
 8. De partijen zien nauwlettend toe op de ontwikkeling van de situatie die tot de maatregelen op grond van dit artikel heeft geleid. De partij die de passende maatregelen neemt, trekt deze in, zodra dit gerechtvaardigd is, en in elk geval zodra de redenen die aanleiding gaven tot toepassing ervan, niet meer bestaan.
 
-## TITEL X. SLOTBEPALINGEN
+### TITEL X. SLOTBEPALINGEN
 
 ##### Artikel 55. Definities
 

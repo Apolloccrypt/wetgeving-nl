@@ -1,50 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake samenwerking bij de veiligheid van de burgerluchtvaart"
 identifier: "BWBV0006162"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-02-01"
-last_updated: "2014-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006162"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005065563"
-version_id: "10005401292"
-internal_id: "C10008518961"
-label_id: "10005048504"
-dtd_version: "2.0"
-original_entry_into_force: "2014-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006162/2014-02-01/0"
-intitule_bron: "Trb.2013-86"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-05-27"
-intitule_in_force: "2014-01-30"
-intitule_status: "goed"
-original_publication: "Trb.2013-86"
-original_published_date: "2013-05-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2013-86"
-entry_into_force_date: "2014-02-01"
-jci_1_3: "jci1.3:c:BWBV0006162&z=2014-02-01&g=2014-02-01"
-jci_1_0: "1.0:c:BWBV0006162&g=2014-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-02-01"
+publicatiedatum: 2014-02-01
+laatste_update: 2014-02-01
+status: geldig
+toestand: 2014-02-01
+bron: "https://wetten.overheid.nl/BWBV0006162"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake samenwerking bij de veiligheid van de burgerluchtvaart
 
-The Kingdom of the Netherlands and the United States of America (hereinafter referred to collectively as the “Parties” and individually as a “Party”);
-
-Considering their common purpose of promoting civil aeronautics and safety of air commerce between the Kingdom of the Netherlands and the United States of America;
-
-Declaring their mutual commitment to the safety of international aviation;
-
-Recognizing that the Kingdom of the Netherlands and the United States of America, as parties to the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) (Chicago, 7 December 1944), have a mutual interest in ensuring the continued improvement of civil aviation safety;
-
-Desiring to cooperate in the provision of services with respect to aviation safety that may be needed by the aviation authorities of the Kingdom of the Netherlands;
-
-Seeking to promote continued cooperation in the orderly, efficient, and safe control and use of airspace of the Kingdom of the Netherlands;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and the United States of America (hereinafter referred to collectively as the “Parties” and individually as a “Party”); Considering their common purpose of promoting civil aeronautics and safety of air commerce between the Kingdom of the Netherlands and the United States of America; Declaring their mutual commitment to the safety of international aviation; Recognizing that the Kingdom of the Netherlands and the United States of America, as parties to the Convention on International Civil Aviation (Chicago, 7 December 1944), have a mutual interest in ensuring the continued improvement of civil aviation safety; Desiring to cooperate in the provision of services with respect to aviation safety that may be needed by the aviation authorities of the Kingdom of the Netherlands; Seeking to promote continued cooperation in the orderly, efficient, and safe control and use of airspace of the Kingdom of the Netherlands; Have agreed as follows:*
 
 ##### Article I
 
@@ -104,7 +73,7 @@ Each Party and its Implementing Authorities may at any time request consultation
 
 1. Any amendments to this Agreement shall be mutually agreed upon by the Parties and shall come into force on the date on which the Parties have informed each other in writing, through the exchange of diplomatic notes, of the completion of their respective internal procedures for entry into force of the amendment.
 
-2. The Implementing Authorities may agree in writing to amend any contractual agreement or non-binding arrangement referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01)**.**
+2. The Implementing Authorities may agree in writing to amend any contractual agreement or non-binding arrangement referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01)*.*
 
 ##### Article VIII
 
@@ -124,7 +93,7 @@ IN WITNESS WHEREOF, the undersigned being duly authorized by their respective Go
 
 DONE at Washington, this 23rd day of May, 2013, in duplicate, in the English language.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 R. BEKINK
 
@@ -134,7 +103,7 @@ E.W. BALBORDA
 
 R.F. PANTOPHLET
 
-**For the United States of America,**
+*For the United States of America,*
 
 JULIE OETTINGER
 

@@ -1,56 +1,19 @@
 ---
 title: "Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Argentijnse Republiek"
 identifier: "BWBV0006673"
-country: "nl"
-rank: "verdrag"
-publication_date: "2024-11-01"
-last_updated: "2024-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006673"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005405113"
-version_id: "10005840972"
-internal_id: "C10010138541"
-label_id: "10005388364"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006673/2024-11-01/0"
-intitule_bron: "Trb.2017-54"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-04-19"
-intitule_in_force: "2024-10-23"
-intitule_status: "goed"
-original_publication: "Trb.2017-54"
-original_published_date: "2017-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2017-54"
-entry_into_force_date: "2024-11-01"
-jci_1_3: "jci1.3:c:BWBV0006673&z=2024-11-01&g=2024-11-01"
-jci_1_0: "1.0:c:BWBV0006673&g=2024-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-11-01"
+publicatiedatum: 2024-11-01
+laatste_update: 2024-11-01
+status: geldig
+toestand: 2024-11-01
+bron: "https://wetten.overheid.nl/BWBV0006673"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Argentijnse Republiek
 
-Preambule
-
-Het Koninkrijk der Nederlanden
-
-en
-
-de Argentijnse Republiek,
-
-hierna te noemen „de partijen”;
-
-Partij zijnde bij het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opengesteld voor ondertekening te Chicago op 7 december 1944;
-
-Geleid door de wens een bijdrage te leveren aan de vooruitgang van de internationale luchtvaart;
-
-Geleid door de wens de hoogste mate van veiligheid en beveiliging van internationale luchtdiensten te waarborgen;
-
-Geleid door de wens een verdrag inzake luchtdiensten te sluiten tussen het Koninkrijk der Nederlanden en de Argentijnse Republiek;
-
-Zijn het volgende overeengekomen:
+*Preambule Het Koninkrijk der Nederlanden en de Argentijnse Republiek, hierna te noemen „de partijen”; Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, opengesteld voor ondertekening te Chicago op 7 december 1944; Geleid door de wens een bijdrage te leveren aan de vooruitgang van de internationale luchtvaart; Geleid door de wens de hoogste mate van veiligheid en beveiliging van internationale luchtdiensten te waarborgen; Geleid door de wens een verdrag inzake luchtdiensten te sluiten tussen het Koninkrijk der Nederlanden en de Argentijnse Republiek; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. INLEIDING
 
@@ -60,15 +23,15 @@ Zijn het volgende overeengekomen:
 
 - a. wordt onder „luchtvaartautoriteiten” verstaan wat het Koninkrijk der Nederlanden betreft, de minister van Infrastructuur en Milieu; en wat de Argentijnse Republiek betreft, de minister van Vervoer en de Nationale Burgerluchtvaart Autoriteit; of, in beide gevallen, elke persoon of instantie die bevoegd is de functies te vervullen die thans door de genoemde autoriteiten worden vervuld;
 
-- b. wordt onder „overeengekomen dienst” en „omschreven route” verstaan respectievelijk de internationale luchtdienst overeenkomstig dit Verdrag en de route omschreven in de bijlage bij dit Verdrag;
+- b. wordt onder „overeengekomen dienst” en „omschreven route” verstaan respectievelijk de internationale luchtdienst overeenkomstig dit Verdrag en de route omschreven in de [bijlage](https://wetten.overheid.nl/BWBV0006673) bij dit Verdrag;
 
-- c. wordt onder „Verdrag” verstaan dit Verdrag en de bijlage erbij opgesteld voor de toepassing ervan, alsmede elke wijziging van het Verdrag of de bijlage;
+- c. wordt onder „Verdrag” verstaan dit Verdrag en de [bijlage](https://wetten.overheid.nl/BWBV0006673) erbij opgesteld voor de toepassing ervan, alsmede elke wijziging van het Verdrag of de bijlage;
 
 - d. hebben „luchtdienst”, „internationale luchtdienst” en „luchtvaartmaatschappij” de betekenis die daaraan in [artikel 96 van het Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=96) respectievelijk wordt toegekend;
 
 - e. wordt onder „verandering van luchtvaartuig” verstaan de exploitatie van een van de overeengekomen diensten door een aangewezen luchtvaartmaatschappij op zodanige wijze dat op een of meer delen van de omschreven route wordt gevlogen met verschillende luchtvaartuigen;
 
-- f. wordt onder „het Verdrag van Chicago” verstaan het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), op 7 december 1944 te Chicago voor ondertekening opengesteld, met inbegrip van alle overeenkomstig artikel 90 van dat verdrag aangenomen bijlagen en alle wijzigingen van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0010905&artikel=1) of van het verdrag ingevolge de [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) en [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) daarvan, voor zover deze bijlagen en wijzigingen in werking zijn getreden voor, of zijn bekrachtigd door beide partijen;
+- f. wordt onder „het Verdrag van Chicago” verstaan het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), op 7 december 1944 te Chicago voor ondertekening opengesteld, met inbegrip van alle overeenkomstig artikel 90 van dat verdrag aangenomen bijlagen en alle wijzigingen van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0010905&artikel=1) of van het verdrag ingevolge de [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) en [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) daarvan, voor zover deze bijlagen en wijzigingen in werking zijn getreden voor, of zijn bekrachtigd door beide partijen;
 
 - g. wordt onder „aangewezen luchtvaartmaatschappij” verstaan de luchtvaartmaatschappij die is aangewezen en gemachtigd overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006673&hoofdstuk=II&artikel=3&z=2024-11-01&g=2024-11-01) (Aanwijzing en verlening van vergunningen) van dit Verdrag;
 
@@ -88,9 +51,9 @@ Zijn het volgende overeengekomen:
 
 - o. wordt onder „Nederland” verstaan
 
-- i. het Europese deel van Nederland; en
+   - i. het Europese deel van Nederland; en
 
-- ii. het Caribische deel van Nederland;
+   - ii. het Caribische deel van Nederland;
 
 - p. wordt onder „inwoners van het Caribische deel van Nederland” verstaan inwoners met de nationaliteit van het Koninkrijk der Nederlanden die afkomstig zijn uit het Caribische deel van Nederland.
 
@@ -100,7 +63,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 2. Verlening van rechten
 
-1. Elke partij verleent de andere partij, behoudens andersluidende bepalingen in de bijlage, de volgende rechten voor het verrichten van internationale luchtdiensten door de aangewezen luchtvaartmaatschappij(en) van de andere partij:
+1. Elke partij verleent de andere partij, behoudens andersluidende bepalingen in de [bijlage](https://wetten.overheid.nl/BWBV0006673), de volgende rechten voor het verrichten van internationale luchtdiensten door de aangewezen luchtvaartmaatschappij(en) van de andere partij:
 
 - a. het recht zonder te landen over haar grondgebied te vliegen;
 
@@ -112,33 +75,33 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 3. Aanwijzing en verlening van vergunningen
 
-1. Elke partij heeft het recht, langs diplomatieke weg bij een schriftelijke kennisgeving aan de andere partij, een of meer luchtvaartmaatschappijen aan te wijzen voor de exploitatie van internationale luchtdiensten op de in de bijlage omschreven routes en een eerder aangewezen luchtvaartmaatschappij te vervangen door een andere luchtvaartmaatschappij.
+1. Elke partij heeft het recht, langs diplomatieke weg bij een schriftelijke kennisgeving aan de andere partij, een of meer luchtvaartmaatschappijen aan te wijzen voor de exploitatie van internationale luchtdiensten op de in de [bijlage](https://wetten.overheid.nl/BWBV0006673) omschreven routes en een eerder aangewezen luchtvaartmaatschappij te vervangen door een andere luchtvaartmaatschappij.
 
 2. Na ontvangst van een dergelijke kennisgeving verleent elke partij, met inachtneming van de bepalingen van dit artikel, onverwijld aan elke aldus door de andere partij aangewezen luchtvaartmaatschappij(en) de vereiste exploitatievergunningen, tenzij zij er niet van overtuigd is dat:
 
 - a. in het geval van een luchtvaartmaatschappij in het Europese deel van Nederland aangewezen door het Koninkrijk der Nederlanden:
 
-- i. de luchtvaartmaatschappij op het grondgebied van het Koninkrijk der Nederlanden gevestigd is overeenkomstig de verdragen van de Europese Unie en beschikt over een geldige exploitatievergunning in overeenstemming met het recht van de Europese Unie; en
+   - i. de luchtvaartmaatschappij op het grondgebied van het Koninkrijk der Nederlanden gevestigd is overeenkomstig de verdragen van de Europese Unie en beschikt over een geldige exploitatievergunning in overeenstemming met het recht van de Europese Unie; en
 
-- ii. de lidstaat van de Europese Unie die verantwoordelijk is voor de afgifte van het bewijs luchtvaartexploitant daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft en de desbetreffende luchtvaartautoriteit duidelijk wordt vermeld in de aanwijzing; en
+   - ii. de lidstaat van de Europese Unie die verantwoordelijk is voor de afgifte van het bewijs luchtvaartexploitant daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft en de desbetreffende luchtvaartautoriteit duidelijk wordt vermeld in de aanwijzing; en
 
-- iii. de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk onder toezicht staat van lidstaten van de Europese Unie of de Europese Vrijhandelsassociatie en/of van onderdanen van deze staten;
+   - iii. de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk onder toezicht staat van lidstaten van de Europese Unie of de Europese Vrijhandelsassociatie en/of van onderdanen van deze staten;
 
 - b. in het geval van een luchtvaartmaatschappij in het Caribische deel van Nederland aangewezen door het Koninkrijk der Nederlanden:
 
-- i. de luchtvaartmaatschappij in het Caribische deel van Nederland gevestigd is en beschikt over een geldige exploitatievergunning in overeenstemming met de van toepassing zijnde wetgeving voor het Caribische deel van Nederland; en
+   - i. de luchtvaartmaatschappij in het Caribische deel van Nederland gevestigd is en beschikt over een geldige exploitatievergunning in overeenstemming met de van toepassing zijnde wetgeving voor het Caribische deel van Nederland; en
 
-- ii. Nederland daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft; en
+   - ii. Nederland daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft; en
 
-- iii. de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk onder toezicht staat van inwoners van het Caribische deel van Nederland met de Nederlandse nationaliteit;
+   - iii. de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk onder toezicht staat van inwoners van het Caribische deel van Nederland met de Nederlandse nationaliteit;
 
 - c. in het geval van een luchtvaartmaatschappij aangewezen door de Argentijnse Republiek:
 
-- i. de luchtvaartmaatschappij gevestigd is op het grondgebied van de Argentijnse Republiek en beschikt over een geldige exploitatievergunning in overeenstemming met de van toepassing zijnde wetgeving van de Argentijnse Republiek; en
+   - i. de luchtvaartmaatschappij gevestigd is op het grondgebied van de Argentijnse Republiek en beschikt over een geldige exploitatievergunning in overeenstemming met de van toepassing zijnde wetgeving van de Argentijnse Republiek; en
 
-- ii. de Argentijnse Republiek daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft; en
+   - ii. de Argentijnse Republiek daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft; en
 
-- iii. de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk onder toezicht staat van de Argentijnse Republiek en/of van onderdanen van de Argentijnse Republiek;
+   - iii. de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk onder toezicht staat van de Argentijnse Republiek en/of van onderdanen van de Argentijnse Republiek;
 
 en dat:
 
@@ -156,27 +119,27 @@ en dat:
 
 - a. in het geval van een luchtvaartmaatschappij in het Europese deel van Nederland aangewezen door het Koninkrijk der Nederlanden:
 
-- i. de luchtvaartmaatschappij niet gevestigd is op het grondgebied van het Koninkrijk der Nederlanden overeenkomstig de verdragen van de Europese Unie of niet beschikt over een geldige exploitatievergunning in overeenstemming met het recht van de Europese Unie; of
+   - i. de luchtvaartmaatschappij niet gevestigd is op het grondgebied van het Koninkrijk der Nederlanden overeenkomstig de verdragen van de Europese Unie of niet beschikt over een geldige exploitatievergunning in overeenstemming met het recht van de Europese Unie; of
 
-- ii. de lidstaat van de Europese Unie die verantwoordelijk is voor de afgifte van het bewijs luchtvaartexploitant niet daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft of de desbetreffende luchtvaartautoriteit niet duidelijk wordt vermeld in de aanwijzing; of
+   - ii. de lidstaat van de Europese Unie die verantwoordelijk is voor de afgifte van het bewijs luchtvaartexploitant niet daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft of de desbetreffende luchtvaartautoriteit niet duidelijk wordt vermeld in de aanwijzing; of
 
-- iii. de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van of niet daadwerkelijk onder toezicht staat van lidstaten van de Europese Unie of de Europese Vrijhandelsassociatie en/of van onderdanen van deze staten;
+   - iii. de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van of niet daadwerkelijk onder toezicht staat van lidstaten van de Europese Unie of de Europese Vrijhandelsassociatie en/of van onderdanen van deze staten;
 
 - b. in het geval van een luchtvaartmaatschappij in het Caribische deel van Nederland aangewezen door het Koninkrijk der Nederlanden:
 
-- i. de luchtvaartmaatschappij niet gevestigd is in het Caribische deel van Nederland en niet beschikt over een geldige exploitatievergunning in overeenstemming met de van toepassing zijnde wetgeving voor het Caribische deel van Nederland; of
+   - i. de luchtvaartmaatschappij niet gevestigd is in het Caribische deel van Nederland en niet beschikt over een geldige exploitatievergunning in overeenstemming met de van toepassing zijnde wetgeving voor het Caribische deel van Nederland; of
 
-- ii. Nederland niet daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft; of
+   - ii. Nederland niet daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft; of
 
-- iii. de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van of niet daadwerkelijk onder toezicht staat van inwoners van het Caribische deel van Nederland met de Nederlandse nationaliteit;
+   - iii. de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van of niet daadwerkelijk onder toezicht staat van inwoners van het Caribische deel van Nederland met de Nederlandse nationaliteit;
 
 - c. in het geval van een luchtvaartmaatschappij aangewezen door de Argentijnse Republiek:
 
-- i. de luchtvaartmaatschappij niet gevestigd is op het grondgebied van de Argentijnse Republiek of niet beschikt over een geldige exploitatievergunning in overeenstemming met de van toepassing zijnde wetgeving van de Argentijnse Republiek; of
+   - i. de luchtvaartmaatschappij niet gevestigd is op het grondgebied van de Argentijnse Republiek of niet beschikt over een geldige exploitatievergunning in overeenstemming met de van toepassing zijnde wetgeving van de Argentijnse Republiek; of
 
-- ii. de Argentijnse Republiek niet daadwerkelijk controleert of de aangewezen luchtvaartmaatschappij de regelgeving naleeft; of
+   - ii. de Argentijnse Republiek niet daadwerkelijk controleert of de aangewezen luchtvaartmaatschappij de regelgeving naleeft; of
 
-- iii. de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van of niet daadwerkelijk onder toezicht staat van de Argentijnse Republiek en/of van onderdanen van de Argentijnse Republiek;
+   - iii. de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van of niet daadwerkelijk onder toezicht staat van de Argentijnse Republiek en/of van onderdanen van de Argentijnse Republiek;
 
 - d. in het geval de luchtvaartmaatschappij heeft verzuimd de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006673&hoofdstuk=V&artikel=12&z=2024-11-01&g=2024-11-01) (Toepassing van wetten, voorschriften en procedures) van dit Verdrag bedoelde wetten en voorschriften na te leven;
 
@@ -226,11 +189,11 @@ en dat:
 
 - a. de commerciële en/of samenwerkingsregelingen op het gebied van de verkoop kunnen bestaan uit, maar zijn niet beperkt tot, vast af te nemen plaatsen, code-sharing en lease-regelingen, met:
 
-- i. de luchtvaartmaatschappij(en) van dezelfde partij;
+   - i. de luchtvaartmaatschappij(en) van dezelfde partij;
 
-- ii. de luchtvaartmaatschappij(en) van de andere partij;
+   - ii. de luchtvaartmaatschappij(en) van de andere partij;
 
-- iii. de luchtvaartmaatschappij(en) van een derde land;
+   - iii. de luchtvaartmaatschappij(en) van een derde land;
 
 - b. de uitvoerende luchtvaartmaatschappij(en) betrokken bij de samenwerkingsregelingen op het gebied van de verkoop bezit (bezitten) de desbetreffende verkeersrechten met inbegrip van de rechten op routes en capaciteit en voldoet (voldoen) aan de vereisten die gewoonlijk op dergelijke regelingen van toepassing zijn;
 
@@ -336,7 +299,7 @@ staat het de partij die de inspectie verricht vrij, voor de toepassing van [arti
 
 ##### Artikel 15. Beveiliging van de luchtvaart
 
-1. Overeenkomstig hun rechten en verplichtingen ingevolge het internationale recht, bevestigen de partijen opnieuw dat hun verplichting jegens elkaar tot bescherming van de veiligheid van de burgerluchtvaart tegen daden van wederrechtelijke inmenging een integrerend onderdeel uitmaakt van dit Verdrag. Zonder hun rechten en verplichtingen ingevolge het internationale recht in het algemeen te beperken handelen de partijen in het bijzonder overeenkomstig de bepalingen van het [Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), ondertekend te Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend te ’s-Gravenhage op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend te Montreal op 23 september 1971, het [Aanvullend Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](onbekend), ondertekend te Montreal op 24 februari 1988, alsmede elk ander verdrag en protocol inzake de veiligheid van de burgerluchtvaart dat beide partijen naleven.
+1. Overeenkomstig hun rechten en verplichtingen ingevolge het internationale recht, bevestigen de partijen opnieuw dat hun verplichting jegens elkaar tot bescherming van de veiligheid van de burgerluchtvaart tegen daden van wederrechtelijke inmenging een integrerend onderdeel uitmaakt van dit Verdrag. Zonder hun rechten en verplichtingen ingevolge het internationale recht in het algemeen te beperken handelen de partijen in het bijzonder overeenkomstig de bepalingen van het [Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), ondertekend te Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend te ’s-Gravenhage op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend te Montreal op 23 september 1971, het [Aanvullend Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/BWBV0002152), ondertekend te Montreal op 24 februari 1988, alsmede elk ander verdrag en protocol inzake de veiligheid van de burgerluchtvaart dat beide partijen naleven.
 
 2. De partijen verlenen elkaar op verzoek alle nodige bijstand ter voorkoming van gedragingen van het wederrechtelijk in zijn macht brengen van burgerluchtvaartuigen en andere wederrechtelijke gedragingen gericht tegen de veiligheid van deze luchtvaartuigen, de passagiers en bemanning, luchthavens en luchtvaartvoorzieningen, alsmede elke andere bedreiging voor de beveiliging van de burgerluchtvaart.
 
@@ -362,15 +325,15 @@ staat het de partij die de inspectie verricht vrij, voor de toepassing van [arti
 
 1. In een geest van nauwe samenwerking kunnen de luchtvaartautoriteiten van de partijen van tijd tot tijd met elkaar overleg plegen teneinde te verzekeren dat de bepalingen van dit Verdrag worden uitgevoerd en naar tevredenheid worden nageleefd.
 
-2. Elke partij kan om overleg verzoeken met het oog op wijziging van dit Verdrag en/of van de bijlage daarbij. Dit overleg begint binnen zestig (60) dagen na de datum van ontvangst van het verzoek door de andere partij, tenzij anders wordt overeengekomen. Dit overleg kan zowel door middel van besprekingen als door middel van een briefwisseling worden gevoerd.
+2. Elke partij kan om overleg verzoeken met het oog op wijziging van dit Verdrag en/of van de [bijlage](https://wetten.overheid.nl/BWBV0006673) daarbij. Dit overleg begint binnen zestig (60) dagen na de datum van ontvangst van het verzoek door de andere partij, tenzij anders wordt overeengekomen. Dit overleg kan zowel door middel van besprekingen als door middel van een briefwisseling worden gevoerd.
 
 3. Elke wijziging van dit Verdrag wordt overeengekomen tussen de partijen en geschiedt bij diplomatieke notawisseling. Een dergelijke wijziging treedt in werking in overeenstemming met de bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006673&hoofdstuk=VII&artikel=25&z=2024-11-01&g=2024-11-01) (Inwerkingtreding) van dit Verdrag.
 
-4. Onverminderd de bepalingen van het derde lid van dit artikel, worden wijzigingen van de bijlage bij dit Verdrag tussen de luchtvaartautoriteiten overeengekomen en bij diplomatieke notawisseling bevestigd, en worden van kracht op een in de diplomatieke notawisseling te bepalen datum. Deze uitzondering op het derde lid van dit artikel is niet van toepassing indien er verkeersrechten worden toegevoegd aan bovengenoemde bijlage.
+4. Onverminderd de bepalingen van het derde lid van dit artikel, worden wijzigingen van de [bijlage](https://wetten.overheid.nl/BWBV0006673) bij dit Verdrag tussen de luchtvaartautoriteiten overeengekomen en bij diplomatieke notawisseling bevestigd, en worden van kracht op een in de diplomatieke notawisseling te bepalen datum. Deze uitzondering op het derde lid van dit artikel is niet van toepassing indien er verkeersrechten worden toegevoegd aan bovengenoemde bijlage.
 
 ##### Artikel 18. Beslechting van geschillen
 
-1. Elk geschil dat tussen de partijen mocht ontstaan met betrekking tot de uitlegging of toepassing van dit Verdrag en de bijlage daarbij, trachten de partijen in de eerste plaats te beslechten door middel van overleg en onderhandelingen.
+1. Elk geschil dat tussen de partijen mocht ontstaan met betrekking tot de uitlegging of toepassing van dit Verdrag en de [bijlage](https://wetten.overheid.nl/BWBV0006673) daarbij, trachten de partijen in de eerste plaats te beslechten door middel van overleg en onderhandelingen.
 
 2. Indien de partijen er niet in slagen het geschil door middel van overleg te beslechten, kan het, op verzoek van een van de partijen, aan arbitrage worden onderworpen in overeenstemming met de hieronder vervatte procedure.
 
@@ -430,16 +393,16 @@ Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het 
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan de formaliteiten en constitutionele vereisten voor de inwerkingtreding van het Verdrag in hun respectieve landen is voldaan.
 
-2. Het [Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Argentijnse Republiek inzake luchtdiensten](https://wetten.overheid.nl/jci1.3:c:BWBV0006100), gesloten te ’s-Gravenhage op 23 november 1993, houdt op van toepassing te zijn op de datum waarop dit Verdrag in werking treedt.
+2. Het [Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Argentijnse Republiek inzake luchtdiensten](https://wetten.overheid.nl/jci1.3:c:BWBV0006100), gesloten te ’s-Gravenhage op 23 november 1993, houdt op van toepassing te zijn op de datum waarop dit Verdrag in werking treedt.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun respectieve regeringen, dit Verdrag hebben ondertekend.
 
-GEDAAN te Amsterdam op 27 maart 2017, in twee oorspronkelijke exemplaren, in de Engelse, de Nederlandse en de Spaanse taal, waarbij alle teksten gelijkelijk authentiek zijn. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
+GEDAAN te Amsterdam op 27 maart 2017, in twee oorspronkelijke exemplaren, in de Engelse, de Nederlandse en de Spaanse taal, waarbij alle teksten gelijkelijk authentiek zijn. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 A.G. KOENDERS
 
-**Voor de Argentijnse Republiek,**
+*Voor de Argentijnse Republiek,*
 
 S. MALCORRA

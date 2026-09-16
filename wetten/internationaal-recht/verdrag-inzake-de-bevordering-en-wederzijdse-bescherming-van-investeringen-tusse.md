@@ -1,47 +1,18 @@
 ---
 title: "Verdrag inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten"
 identifier: "BWBV0006303"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-11-26"
-last_updated: "2013-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006303"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005154383"
-version_id: "10005514212"
-internal_id: "C10009089781"
-label_id: "10005137184"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006303/2013-11-26/0"
-intitule_bron: "Trb.2014-1"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-01-15"
-intitule_status: "nogniet"
-original_publication: "Trb.2014-1"
-original_published_date: "2014-01-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2014-1"
-jci_1_3: "jci1.3:c:BWBV0006303&z=2013-11-26&g=2013-11-26"
-jci_1_0: "1.0:c:BWBV0006303&g=2013-11-26"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-01-15"
+laatste_update: 2013-11-26
+status: geldig
+toestand: 2013-11-26
+bron: "https://wetten.overheid.nl/BWBV0006303"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten
 
-Het Koninkrijk der Nederlanden
-
-En
-
-de Verenigde Arabische Emiraten,
-
-hierna te noemen de verdragsluitende partijen,
-
-Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door onderdanen van de ene verdragsluitende partij op het grondgebied van de andere verdragsluitende partij,
-
-In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de verdragsluitende partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen van belang is,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden En de Verenigde Arabische Emiraten, hierna te noemen de verdragsluitende partijen, Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door onderdanen van de ene verdragsluitende partij op het grondgebied van de andere verdragsluitende partij, In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de verdragsluitende partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen van belang is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -49,27 +20,27 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen” verstaan: alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen, zoals hypotheken, vruchtgebruik, panden en onderpanden;
+   - i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen, zoals hypotheken, vruchtgebruik, panden en onderpanden;
 
-- ii. rechten ontleend aan aandelen, obligaties, waardepapieren, plaatsingen, schuldbrieven, leningen en andere soorten belangen in ondernemingen en joint ventures;
+   - ii. rechten ontleend aan aandelen, obligaties, waardepapieren, plaatsingen, schuldbrieven, leningen en andere soorten belangen in ondernemingen en joint ventures;
 
-- iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, zoals auteursrechten, handelsmerken, octrooien, industriële ontwerpen en andere industriële eigendomsrechten, technische werkwijzen, goodwill en knowhow;
+   - iv. rechten op het gebied van de intellectuele eigendom, zoals auteursrechten, handelsmerken, octrooien, industriële ontwerpen en andere industriële eigendomsrechten, technische werkwijzen, goodwill en knowhow;
 
-- v. rechten verleend krachtens het publiekrecht of bij overeenkomst en vergunning ingevolge de wet, met uitzondering van de natuurlijke hulpbronnen wat betreft de Verenigde Arabische Emiraten. De rechten inzake natuurlijke hulpbronnen worden uitgesloten tenzij de afzonderlijke emiraten bij decreet toestaan dat dit Verdrag van toepassing is op rechten inzake natuurlijke hulpbronnen verleend door middel van een overeenkomst tussen een onderdaan van het Koninkrijk der Nederlanden en het betreffende emiraat.
+   - v. rechten verleend krachtens het publiekrecht of bij overeenkomst en vergunning ingevolge de wet, met uitzondering van de natuurlijke hulpbronnen wat betreft de Verenigde Arabische Emiraten. De rechten inzake natuurlijke hulpbronnen worden uitgesloten tenzij de afzonderlijke emiraten bij decreet toestaan dat dit Verdrag van toepassing is op rechten inzake natuurlijke hulpbronnen verleend door middel van een overeenkomst tussen een onderdaan van het Koninkrijk der Nederlanden en het betreffende emiraat.
 
 Veranderingen van de vorm van een investering doen geen afbreuk aan het feit dat zij als investering wordt aangemerkt.
 
 - b. omvat de term „onderdanen” met betrekking tot elk van de verdragsluitende partijen:
 
-- i. natuurlijke personen die de nationaliteit van die verdragsluitende partij hebben;
+   - i. natuurlijke personen die de nationaliteit van die verdragsluitende partij hebben;
 
-- ii. rechtspersonen die ingevolge het recht van die verdragsluitende partij zijn opgericht;
+   - ii. rechtspersonen die ingevolge het recht van die verdragsluitende partij zijn opgericht;
 
-- iii. rechtspersonen die ingevolge het recht van een verdragsluitende partij zijn opgericht, maar die onder al dan niet rechtstreeks toezicht staan van rechtspersonen zoals omschreven onder ii;
+   - iii. rechtspersonen die ingevolge het recht van een verdragsluitende partij zijn opgericht, maar die onder al dan niet rechtstreeks toezicht staan van rechtspersonen zoals omschreven onder ii;
 
-- iv. de regering van die verdragsluitende partij.
+   - iv. de regering van die verdragsluitende partij.
 
 - c. wordt onder „vrij inwisselbare valuta” verstaan: een valuta die op grote schaal wordt verhandeld op de internationale wisselmarkten en frequent wordt gebruikt bij internationale transacties.
 
@@ -115,9 +86,9 @@ Veranderingen van de vorm van een investering doen geen afbreuk aan het feit dat
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabricaten of eindproducten; of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabricaten of eindproducten; of
 
-- ii. om kapitaalgoederen te vervangen teneinde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen teneinde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -163,7 +134,7 @@ Aan onderdanen van de ene verdragsluitende partij die verliezen lijden met betre
 
 3. Een juridisch geschil betreffende een investering op het grondgebied van de Verenigde Arabische Emiraten kan alleen worden voorgelegd aan ICSID wanneer de onderdaan die partij is bij het geschil, het geschil eerst heeft voorgelegd aan de bevoegde rechterlijke instantie van de Verenigde Arabische Emiraten en het geschil niet tot tevredenheid van de onderdaan is beslecht.
 
-Na zes maanden na de datum van het verzoek om overleg kan de onderdaan de zaak voorleggen aan het Internationale Centrum voor de Beslechting van Investeringsgeschillen (ICSID) ter beslechting door conciliatie of arbitrage krachtens het [Verdrag inzake de beslechting van investeringsgeschillen tussen staten en onderdanen van andere staten](onbekend), dat op 18 maart 1965 te Washington werd opengesteld voor ondertekening.
+Na zes maanden na de datum van het verzoek om overleg kan de onderdaan de zaak voorleggen aan het Internationale Centrum voor de Beslechting van Investeringsgeschillen (ICSID) ter beslechting door conciliatie of arbitrage krachtens het [Verdrag inzake de beslechting van investeringsgeschillen tussen staten en onderdanen van andere staten](https://wetten.overheid.nl/BWBV0004615), dat op 18 maart 1965 te Washington werd opengesteld voor ondertekening.
 
 4. Elke verdragsluitende partij stemt ermee in een juridisch geschil dat ontstaat tussen die verdragsluitende partij en een onderdaan van de andere verdragsluitende partij aangaande een investering van die onderdaan op het grondgebied van de eerstgenoemde verdragsluitende partij voor te leggen aan ICSID.
 
@@ -215,10 +186,10 @@ GEDAAN in tweevoud te Abu Dhabi op 26 november 2013 in de Arabische, de Nederlan
 
 In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 H.G.J. KAMP
 
-**Voor de Verenigde Arabische Emiraten,**
+*Voor de Verenigde Arabische Emiraten,*
 
 OBAID HUMAID AL TAYER

@@ -1,135 +1,18 @@
 ---
 title: "Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Armenië, anderzijds, inzake een gemeenschappelijke luchtvaartruimte"
 identifier: "BWBV0006948"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-11-15"
-last_updated: "2021-11-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006948"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005604343"
-version_id: "10006146152"
-internal_id: "C10009875821"
-label_id: "10005586454"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006948/2021-11-15/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0006948&z=2021-11-15&g=2021-11-15"
-jci_1_0: "1.0:c:BWBV0006948&g=2021-11-15"
-citeertitel_status: "redactioneel"
+laatste_update: 2021-11-15
+status: geldig
+toestand: 2021-11-15
+bron: "https://wetten.overheid.nl/BWBV0006948"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Armenië, anderzijds, inzake een gemeenschappelijke luchtvaartruimte
 
-Het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk Der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-verdragsluitende partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna „de EU-Verdragen” genoemd, en lidstaten van de Europese Unie, hierna gezamenlijk „de EU-lidstaten” en afzonderlijk „de EU-lidstaat” genoemd,
-
-en de Europese Unie,
-
-enerzijds,
-
-en de Republiek Armenië, hierna „Armenië” genoemd,
-
-anderzijds,
-
-hierna gezamenlijk de „partijen” genoemd,
-
-De EU-lidstaten en Armenië, als partijen bij het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), voor ondertekening opengesteld te Chicago op 7 december 1944, samen met de Europese Unie;
-
-Wijzend op de partnerschaps- en samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Armenië, anderzijds, gedaan te Luxemburg op 22 april 1996;
-
-De wens uitdrukkend een gemeenschappelijke luchtvaartruimte tot stand te brengen, gebaseerd op de doelstelling om de toegang tot de markten van de partijen open te stellen met gelijke concurrentievoorwaarden, non-discriminatie en inachtneming van dezelfde regels, met name op het gebied van veiligheid, beveiliging, luchtverkeersbeheer, concurrentie, sociale aspecten en milieu;
-
-De wens uitdrukkend de luchtdiensten te verbeteren en een internationaal luchtvaartsysteem te bevorderen op basis van non-discriminatie en open en eerlijke concurrentie tussen luchtvaartmaatschappijen;
-
-De wens uitdrukkend hun belangen op het gebied van luchtvervoer te bevorderen;
-
-Erkennend dat efficiënte luchtverbindingen belangrijk zijn om handel, toerisme, investeringen en sociaaleconomische ontwikkeling te bevorderen;
-
-Overeenkomend dat het belangrijk is de regels betreffende de gemeenschappelijke luchtvaartruimte te baseren op de relevante geldende wetgeving in de Europese Unie, zoals vastgesteld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15) bij deze overeenkomst;
-
-Erkennend dat de volledige naleving van de regels van de gemeenschappelijke luchtvaartruimte de partijen in staat stelt alle voordelen van de gemeenschappelijke luchtvaartruimte volledig te benutten, met inbegrip van het openstellen van de toegang tot markten en het maximaliseren van de voordelen voor de consumenten, bedrijfssectoren en werknemers van beide partijen;
-
-Erkennend dat de totstandbrenging van de gemeenschappelijke luchtvaartruimte en de toepassing van de regels ervan niet kan worden bereikt zonder, waar nodig, overgangsmaatregelen vast te stellen, en dat het belangrijk is in dit verband adequate bijstand te verlenen;
-
-Geleid door de wens het hoogst mogelijke niveau van veiligheid en beveiliging van het luchtvervoer te garanderen en bevestigend dat zij zich grote zorgen maken over daden of bedreigingen die gericht zijn tegen luchtvaartuigen en die de veiligheid van personen of goederen in gevaar brengen, de exploitatie van luchtvaartuigen nadelig beïnvloeden en het vertrouwen van de reizigers in de veiligheid van de burgerluchtvaart ondermijnen;
-
-Vastberaden om de potentiële voordelen van regelgevende samenwerking en harmonisering van hun wet- en regelgeving op het gebied van de burgerluchtvaart zoveel mogelijk te benutten;
-
-Erkennend dat concurrerende luchtdiensten en een levensvatbare luchtvervoerssector belangrijke voordelen kunnen opleveren;
-
-De wens uitdrukkend vrije, eerlijke en onverstoorde concurrentie te bevorderen, erkennende dat subsidies een nadelig effect kunnen hebben op de concurrentie en de basisdoelstellingen van deze overeenkomst in gevaar kunnen brengen, en erkennende dat de potentiële voordelen mogelijkerwijs niet kunnen worden benut zonder een gelijk speelveld voor luchtvaartmaatschappijen, gekenmerkt door vrije, eerlijke en onverstoorde concurrentie;
-
-Voornemens voort te bouwen op bestaande overeenkomsten en regelingen tussen de partijen, teneinde te zorgen voor openstelling van de markttoegang en zoveel mogelijk voordelen te creëren voor de consumenten, expediteurs, luchtvaartmaatschappijen, luchthavens en hun personeelsleden, de gemeenschap in het algemeen en anderen die daar onrechtstreeks profijt van trekken;
-
-Het belang bevestigend van bescherming van het milieu bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid;
-
-Bevestigend dat er behoefte is aan dringende maatregelen tegen de klimaatverandering en aan een voortzetting van de samenwerking om de broeikasgasemissies van de luchtvaartsector te doen afnemen, op een wijze die in overeenstemming is met multilaterale akkoorden op dit gebied en met name de relevante instrumenten van de Internationale Burgerluchtvaartorganisatie (hierna „de ICAO” genoemd) en het in het kader van het [Raamverdrag van de Verenigde Naties inzake klimaatverandering](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) gesloten Overeenkomst van Parijs van 12 december 2015;
-
-Het belang bevestigend van de bescherming van de consument, met inbegrip van de bescherming die wordt geboden door het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), gesloten te Montreal op 28 mei 1999, en van het bereiken van een passend niveau van consumentenbescherming met betrekking tot luchtdiensten, en erkennende dat er behoefte is aan wederzijdse samenwerking op dit gebied;
-
-Erkennend dat de groei aan commerciële mogelijkheden niet mag leiden tot een afzwakking van hun arbeidsnormen, en het belang benadrukkend van de sociale dimensie van de internationale luchtvaart en van een onderzoek naar de gevolgen van de openstelling van markten voor de werknemers, de werkgelegenheid en de arbeidsomstandigheden;
-
-Erop wijzend dat het belangrijk is de toegang tot kapitaal voor de luchtvaartsector te verbeteren, teneinde het luchtvervoer verder te ontwikkelen;
-
-Erkennend dat de mogelijkheid op toetreding van derde landen tot deze overeenkomst voordelen kan inhouden;
-
-De wens uitdrukkend een overeenkomst inzake luchtvervoer te sluiten, in aanvulling op het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507);
-
-Zijn als volgt overeengekomen:
+*Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk Der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, verdragsluitende partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna „de EU-Verdragen” genoemd, en lidstaten van de Europese Unie, hierna gezamenlijk „de EU-lidstaten” en afzonderlijk „de EU-lidstaat” genoemd, en de Europese Unie, enerzijds, en de Republiek Armenië, hierna „Armenië” genoemd, anderzijds, hierna gezamenlijk de „partijen” genoemd, De EU-lidstaten en Armenië, als partijen bij het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944, samen met de Europese Unie; Wijzend op de partnerschaps- en samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Armenië, anderzijds, gedaan te Luxemburg op 22 april 1996; De wens uitdrukkend een gemeenschappelijke luchtvaartruimte tot stand te brengen, gebaseerd op de doelstelling om de toegang tot de markten van de partijen open te stellen met gelijke concurrentievoorwaarden, non-discriminatie en inachtneming van dezelfde regels, met name op het gebied van veiligheid, beveiliging, luchtverkeersbeheer, concurrentie, sociale aspecten en milieu; De wens uitdrukkend de luchtdiensten te verbeteren en een internationaal luchtvaartsysteem te bevorderen op basis van non-discriminatie en open en eerlijke concurrentie tussen luchtvaartmaatschappijen; De wens uitdrukkend hun belangen op het gebied van luchtvervoer te bevorderen; Erkennend dat efficiënte luchtverbindingen belangrijk zijn om handel, toerisme, investeringen en sociaaleconomische ontwikkeling te bevorderen; Overeenkomend dat het belangrijk is de regels betreffende de gemeenschappelijke luchtvaartruimte te baseren op de relevante geldende wetgeving in de Europese Unie, zoals vastgesteld in bijlage II bij deze overeenkomst; Erkennend dat de volledige naleving van de regels van de gemeenschappelijke luchtvaartruimte de partijen in staat stelt alle voordelen van de gemeenschappelijke luchtvaartruimte volledig te benutten, met inbegrip van het openstellen van de toegang tot markten en het maximaliseren van de voordelen voor de consumenten, bedrijfssectoren en werknemers van beide partijen; Erkennend dat de totstandbrenging van de gemeenschappelijke luchtvaartruimte en de toepassing van de regels ervan niet kan worden bereikt zonder, waar nodig, overgangsmaatregelen vast te stellen, en dat het belangrijk is in dit verband adequate bijstand te verlenen; Geleid door de wens het hoogst mogelijke niveau van veiligheid en beveiliging van het luchtvervoer te garanderen en bevestigend dat zij zich grote zorgen maken over daden of bedreigingen die gericht zijn tegen luchtvaartuigen en die de veiligheid van personen of goederen in gevaar brengen, de exploitatie van luchtvaartuigen nadelig beïnvloeden en het vertrouwen van de reizigers in de veiligheid van de burgerluchtvaart ondermijnen; Vastberaden om de potentiële voordelen van regelgevende samenwerking en harmonisering van hun wet- en regelgeving op het gebied van de burgerluchtvaart zoveel mogelijk te benutten; Erkennend dat concurrerende luchtdiensten en een levensvatbare luchtvervoerssector belangrijke voordelen kunnen opleveren; De wens uitdrukkend vrije, eerlijke en onverstoorde concurrentie te bevorderen, erkennende dat subsidies een nadelig effect kunnen hebben op de concurrentie en de basisdoelstellingen van deze overeenkomst in gevaar kunnen brengen, en erkennende dat de potentiële voordelen mogelijkerwijs niet kunnen worden benut zonder een gelijk speelveld voor luchtvaartmaatschappijen, gekenmerkt door vrije, eerlijke en onverstoorde concurrentie; Voornemens voort te bouwen op bestaande overeenkomsten en regelingen tussen de partijen, teneinde te zorgen voor openstelling van de markttoegang en zoveel mogelijk voordelen te creëren voor de consumenten, expediteurs, luchtvaartmaatschappijen, luchthavens en hun personeelsleden, de gemeenschap in het algemeen en anderen die daar onrechtstreeks profijt van trekken; Het belang bevestigend van bescherming van het milieu bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid; Bevestigend dat er behoefte is aan dringende maatregelen tegen de klimaatverandering en aan een voortzetting van de samenwerking om de broeikasgasemissies van de luchtvaartsector te doen afnemen, op een wijze die in overeenstemming is met multilaterale akkoorden op dit gebied en met name de relevante instrumenten van de Internationale Burgerluchtvaartorganisatie (hierna „de ICAO” genoemd) en het in het kader van het Raamverdrag van de Verenigde Naties inzake klimaatverandering gesloten Overeenkomst van Parijs van 12 december 2015; Het belang bevestigend van de bescherming van de consument, met inbegrip van de bescherming die wordt geboden door het Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer, gesloten te Montreal op 28 mei 1999, en van het bereiken van een passend niveau van consumentenbescherming met betrekking tot luchtdiensten, en erkennende dat er behoefte is aan wederzijdse samenwerking op dit gebied; Erkennend dat de groei aan commerciële mogelijkheden niet mag leiden tot een afzwakking van hun arbeidsnormen, en het belang benadrukkend van de sociale dimensie van de internationale luchtvaart en van een onderzoek naar de gevolgen van de openstelling van markten voor de werknemers, de werkgelegenheid en de arbeidsomstandigheden; Erop wijzend dat het belangrijk is de toegang tot kapitaal voor de luchtvaartsector te verbeteren, teneinde het luchtvervoer verder te ontwikkelen; Erkennend dat de mogelijkheid op toetreding van derde landen tot deze overeenkomst voordelen kan inhouden; De wens uitdrukkend een overeenkomst inzake luchtvervoer te sluiten, in aanvulling op het Verdrag inzake de internationale burgerluchtvaart; Zijn als volgt overeengekomen:*
 
 ##### Artikel 1. Doel
 
@@ -149,11 +32,11 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze overeenkomst 
 
 - 5. „bevoegde autoriteit”: het overheidsagentschap dat of de overheidsentiteit die verantwoordelijk is voor de administratieve taken uit hoofde van deze overeenkomst;
 
-- 6. „verdrag”: het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), voor ondertekening opengesteld te Chicago op 7 december 1944, en omvattende:
+- 6. „verdrag”: het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), voor ondertekening opengesteld te Chicago op 7 december 1944, en omvattende:
 
-- a. iedere wijziging die krachtens [artikel 94, punt a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94), van het verdrag in werking is getreden en die door Armenië en de EU-lidstaat of -lidstaten geratificeerd is, voor zover zij ter zake doet, en
+   - a. iedere wijziging die krachtens [artikel 94, punt a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94), van het verdrag in werking is getreden en die door Armenië en de EU-lidstaat of -lidstaten geratificeerd is, voor zover zij ter zake doet, en
 
-- b. iedere bijlage of iedere wijziging daarvan die is goedgekeurd krachtens [artikel 90 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90), voor zover deze bijlage of wijziging op een gegeven tijdstip voor zowel Armenië als de EU-lidstaat of -lidstaten van kracht is en ter zake doet;
+   - b. iedere bijlage of iedere wijziging daarvan die is goedgekeurd krachtens [artikel 90 van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90), voor zover deze bijlage of wijziging op een gegeven tijdstip voor zowel Armenië als de EU-lidstaat of -lidstaten van kracht is en ter zake doet;
 
 - 7. „volledige kosten”: de kosten van de dienstverlening plus een redelijke vergoeding voor vaste beheerskosten;
 
@@ -173,19 +56,21 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze overeenkomst 
 
 - 15. „zelfafhandeling”: situatie waarbij een gebruiker zichzelf rechtstreeks een of meer categorieën afhandelingsdiensten verleent en met derden geen enkel contract, hoe ook genaamd, dat de verlening van dergelijke diensten tot doel heeft, afsluit; voor de toepassing van deze definitie worden gebruikers onderling niet als derden beschouwd als:
 
-- a. de ene een meerderheidsbelang heeft in de andere, of
+   - a. de ene een meerderheidsbelang heeft in de andere, of
 
-- b. eenzelfde entiteit in elk van beide een meerderheidsbelang heeft;
+   - b. eenzelfde entiteit in elk van beide een meerderheidsbelang heeft;
 
 - 16. „recht van de vijfde vrijheid”: het recht of voorrecht dat door een staat („de verlenende staat”) aan de luchtvaartmaatschappijen van een andere staat („de ontvangende staat”) wordt verleend om internationale luchtvervoersdiensten uit te voeren tussen het grondgebied van de verlenende staat en het grondgebied van een derde staat, voor zover dergelijke diensten beginnen of eindigen op het grondgebied van de ontvangende staat;
 
 - 17. „derde land”: een land dat geen EU-lidstaat en niet Armenië is.
 
-## TITEL I. ECONOMISCHE BEPALINGEN
+### TITEL I. ECONOMISCHE BEPALINGEN
 
 ##### Artikel 3. Toekenning van rechten
 
 1. De overgangsbepalingen van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=I&z=2021-11-15&g=2021-11-15) van deze overeenkomst zijn van toepassing op de in dit artikel vastgestelde rechten.
+
+Verkeersrechten en routeschema
 
 2. Elke partij verleent de andere partij op niet-discriminerende basis de hierna vermelde rechten met betrekking tot de exploitatie van internationale luchtdiensten door luchtvaartmaatschappijen van de andere partij:
 
@@ -195,11 +80,13 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze overeenkomst 
 
 - c. het recht geregelde en niet-geregelde internationale passagiersvluchten, gecombineerde vluchten en goederenvluchten uit te voeren tussen punten1)De verwijzing naar punten in dit artikel moet worden opgevat als een verwijzing naar internationaal erkende luchthavens. op de volgende routes:
 
-- i. in het geval van luchtvaartmaatschappijen uit de Europese Unie: punten in de Europese Unie – tussenliggende punten op het grondgebied van partnerlanden van het Europees nabuurschapsbeleid2)Zie de conclusies van de Raad van 16 juni 2003, samen met de mededeling van de Commissie over het Europees nabuurschapsbeleid van 12 mei 2004, door de Raad bekrachtigd in zijn conclusies van 14 juni 2004., partijen bij de multilaterale overeenkomst tot oprichting van een Europese gemeenschappelijke luchtvaartruimte3)Multilaterale Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, de Republiek Albanië, Bosnië en Herzegovina, de Republiek Bulgarije, de Republiek Kroatië, de Republiek IJsland, de Republiek Montenegro, de voormalige Joegoslavische Republiek Macedonië, het Koninkrijk Noorwegen, de Republiek Servië, Roemenië en de Missie van de Verenigde Naties voor interim-bestuur in Kosovo (UNMIK) (1) betreffende de totstandbrenging van een Europese Gemeenschappelijke Luchtvaartruimte ([PB L 285 van 16.10.2006, blz. 3](onbekend)) Op grond van Resolutie 1244 van de VN-Veiligheidsraad van 10 juni 1999)., of lidstaten van de Europese Vrijhandelsassociatie4)De Republiek IJsland, het Vorstendom Liechtenstein, het Koninkrijk Noorwegen en de Zwitserse Bondsstaat. – punten in Armenië – verder gelegen punten;
+   - i. in het geval van luchtvaartmaatschappijen uit de Europese Unie: punten in de Europese Unie – tussenliggende punten op het grondgebied van partnerlanden van het Europees nabuurschapsbeleid2)Zie de conclusies van de Raad van 16 juni 2003, samen met de mededeling van de Commissie over het Europees nabuurschapsbeleid van 12 mei 2004, door de Raad bekrachtigd in zijn conclusies van 14 juni 2004., partijen bij de multilaterale overeenkomst tot oprichting van een Europese gemeenschappelijke luchtvaartruimte3)Multilaterale Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, de Republiek Albanië, Bosnië en Herzegovina, de Republiek Bulgarije, de Republiek Kroatië, de Republiek IJsland, de Republiek Montenegro, de voormalige Joegoslavische Republiek Macedonië, het Koninkrijk Noorwegen, de Republiek Servië, Roemenië en de Missie van de Verenigde Naties voor interim-bestuur in Kosovo (UNMIK) (1) betreffende de totstandbrenging van een Europese Gemeenschappelijke Luchtvaartruimte (PB L 285 van 16.10.2006, blz. 3) Op grond van Resolutie 1244 van de VN-Veiligheidsraad van 10 juni 1999)., of lidstaten van de Europese Vrijhandelsassociatie4)De Republiek IJsland, het Vorstendom Liechtenstein, het Koninkrijk Noorwegen en de Zwitserse Bondsstaat. – punten in Armenië – verder gelegen punten;
 
-- ii. in het geval van luchtvaartmaatschappijen uit Armenië: punten in Armenië – tussenliggende punten op het grondgebied van partnerlanden van het Europees nabuurschapsbeleid, partijen bij de multilaterale overeenkomst tot oprichting van een Europese gemeenschappelijke luchtvaartruimte, of lidstaten van de Europese Vrijhandelsassociatie – punten in de Europese Unie;
+   - ii. in het geval van luchtvaartmaatschappijen uit Armenië: punten in Armenië – tussenliggende punten op het grondgebied van partnerlanden van het Europees nabuurschapsbeleid, partijen bij de multilaterale overeenkomst tot oprichting van een Europese gemeenschappelijke luchtvaartruimte, of lidstaten van de Europese Vrijhandelsassociatie – punten in de Europese Unie;
 
 - d. de overige in deze overeenkomst gespecificeerde rechten.
+
+Operationele flexibiliteit
 
 3. De luchtvaartmaatschappijen van beide partijen mogen bij een vlucht of alle vluchten en naar keuze op de in lid 2 gespecificeerde routes:
 
@@ -247,19 +134,19 @@ De bij dit lid voorziene operationele flexibiliteit kan worden uitgeoefend zonde
 
 - a. in het geval van een luchtvaartmaatschappij uit Armenië:
 
-- i. de hoofdvestiging van de luchtvaartmaatschappij zich in Armenië bevindt en de maatschappij houder is van een geldige exploitatievergunning overeenkomstig het recht van Armenië;
+   - i. de hoofdvestiging van de luchtvaartmaatschappij zich in Armenië bevindt en de maatschappij houder is van een geldige exploitatievergunning overeenkomstig het recht van Armenië;
 
-- ii. het regelgevend toezicht op de luchtvaartmaatschappij daadwerkelijk wordt uitgeoefend en gehandhaafd door Armenië, dat het Air Operator Certificate van de luchtvaartmaatschappij heeft afgegeven, en de bevoegde autoriteit duidelijk is vermeld; en
+   - ii. het regelgevend toezicht op de luchtvaartmaatschappij daadwerkelijk wordt uitgeoefend en gehandhaafd door Armenië, dat het Air Operator Certificate van de luchtvaartmaatschappij heeft afgegeven, en de bevoegde autoriteit duidelijk is vermeld; en
 
-- iii. tenzij anders bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=6&z=2021-11-15&g=2021-11-15), de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via één meerderheidsparticipatie, en de feitelijke zeggenschap over die maatschappij berust bij Armenië of bij onderdanen van Armenië, of bij beide;
+   - iii. tenzij anders bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=6&z=2021-11-15&g=2021-11-15), de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via één meerderheidsparticipatie, en de feitelijke zeggenschap over die maatschappij berust bij Armenië of bij onderdanen van Armenië, of bij beide;
 
 - b. in het geval van een luchtvaartmaatschappij uit de Europese Unie:
 
-- i. de hoofdvestiging van de luchtvaartmaatschappij zich op het grondgebied van de Europese Unie bevindt en de luchtvaartmaatschappij houder is van een geldige exploitatievergunning overeenkomstig het recht van de Europese Unie;
+   - i. de hoofdvestiging van de luchtvaartmaatschappij zich op het grondgebied van de Europese Unie bevindt en de luchtvaartmaatschappij houder is van een geldige exploitatievergunning overeenkomstig het recht van de Europese Unie;
 
-- ii. de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate daadwerkelijk regelgevend toezicht houdt op de luchtvaartmaatschappij, en de bevoegde autoriteit duidelijk is vermeld; en
+   - ii. de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate daadwerkelijk regelgevend toezicht houdt op de luchtvaartmaatschappij, en de bevoegde autoriteit duidelijk is vermeld; en
 
-- iii. tenzij anders bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=6&z=2021-11-15&g=2021-11-15), de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, en de feitelijke zeggenschap over die maatschappij berust bij een of meer lidstaten van de Europese Unie of van de Europese Vrijhandelsassociatie of bij hun onderdanen, of bij beide;
+   - iii. tenzij anders bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=6&z=2021-11-15&g=2021-11-15), de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, en de feitelijke zeggenschap over die maatschappij berust bij een of meer lidstaten van de Europese Unie of van de Europese Vrijhandelsassociatie of bij hun onderdanen, of bij beide;
 
 - c. de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=II&artikel=14&z=2021-11-15&g=2021-11-15) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=II&artikel=15&z=2021-11-15&g=2021-11-15) worden nageleefd; en
 
@@ -279,19 +166,19 @@ Dit lid heeft geen betrekking op de erkenning van vaststellingen die verband hou
 
 - a. in het geval van een luchtvaartmaatschappij uit Armenië:
 
-- i. de hoofdvestiging van de luchtvaartmaatschappij zich niet in Armenië bevindt of de maatschappij niet over een geldige exploitatievergunning overeenkomstig het recht van Armenië beschikt;
+   - i. de hoofdvestiging van de luchtvaartmaatschappij zich niet in Armenië bevindt of de maatschappij niet over een geldige exploitatievergunning overeenkomstig het recht van Armenië beschikt;
 
-- ii. het regelgevend toezicht op de luchtvaartmaatschappij niet effectief wordt uitgeoefend of gehandhaafd door Armenië, indien Armenië verantwoordelijk is voor de afgifte van het Air Operator Certificate, of de bevoegde luchtvaartautoriteit niet duidelijk is vermeld; of
+   - ii. het regelgevend toezicht op de luchtvaartmaatschappij niet effectief wordt uitgeoefend of gehandhaafd door Armenië, indien Armenië verantwoordelijk is voor de afgifte van het Air Operator Certificate, of de bevoegde luchtvaartautoriteit niet duidelijk is vermeld; of
 
-- iii. tenzij anders bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=6&z=2021-11-15&g=2021-11-15), de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, of de feitelijke zeggenschap over die maatschappij berust niet bij Armenië of bij onderdanen van Armenië, of niet bij beide;
+   - iii. tenzij anders bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=6&z=2021-11-15&g=2021-11-15), de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, of de feitelijke zeggenschap over die maatschappij berust niet bij Armenië of bij onderdanen van Armenië, of niet bij beide;
 
 - b. in het geval van een luchtvaartmaatschappij uit de Europese Unie:
 
-- i. de hoofdvestiging van de luchtvaartmaatschappij zich niet op het grondgebied van de Europese Unie bevindt of de luchtvaartmaatschappij geen houder is van een geldige exploitatievergunning overeenkomstig het recht van de Europese Unie;
+   - i. de hoofdvestiging van de luchtvaartmaatschappij zich niet op het grondgebied van de Europese Unie bevindt of de luchtvaartmaatschappij geen houder is van een geldige exploitatievergunning overeenkomstig het recht van de Europese Unie;
 
-- ii. het regelgevend toezicht op de luchtvaartmaatschappij niet wordt uitgeoefend of gehandhaafd door de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate, of de bevoegde autoriteit niet duidelijk is vermeld; of
+   - ii. het regelgevend toezicht op de luchtvaartmaatschappij niet wordt uitgeoefend of gehandhaafd door de EU-lidstaat die verantwoordelijk is voor de afgifte van het Air Operator Certificate, of de bevoegde autoriteit niet duidelijk is vermeld; of
 
-- iii. tenzij anders bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=6&z=2021-11-15&g=2021-11-15), de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, en de feitelijke zeggenschap over die maatschappij berust niet bij een of meer lidstaten van de Europese Unie of van de Europese Vrijhandelsassociatie of bij hun onderdanen, of niet bij beide;
+   - iii. tenzij anders bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=6&z=2021-11-15&g=2021-11-15), de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, en de feitelijke zeggenschap over die maatschappij berust niet bij een of meer lidstaten van de Europese Unie of van de Europese Vrijhandelsassociatie of bij hun onderdanen, of niet bij beide;
 
 - c. de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=8&z=2021-11-15&g=2021-11-15), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=II&artikel=14&z=2021-11-15&g=2021-11-15) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=II&artikel=15&z=2021-11-15&g=2021-11-15) niet zijn nageleefd; of
 
@@ -471,7 +358,7 @@ mits alle deelnemers aan die overeenkomsten het vereiste gezag hebben en voldoen
 
 2. De partijen werken samen, ook in het kader van het gemengd comité, teneinde de onderlinge uitwisseling van statistische informatie, die nodig is om toezicht te kunnen houden op de ontwikkeling van het in het kader van deze overeenkomst geëxploiteerde luchtvervoer, te vergemakkelijken.
 
-## TITEL II. SAMENWERKING OP REGELGEVINGSGEBIED
+### TITEL II. SAMENWERKING OP REGELGEVINGSGEBIED
 
 ##### Artikel 14. Veiligheid van de luchtvaart
 
@@ -507,7 +394,7 @@ Wanneer Armenië de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 2. Armenië kan worden onderworpen aan een inspectie van de Europese Commissie overeenkomstig de relevante wetgeving van de Europese Unie inzake beveiliging van de luchtvaart, zoals vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&bijlage=II&z=2021-11-15&g=2021-11-15), deel C. De partijen stellen het mechanisme vast dat nodig is voor de uitwisseling van informatie over de resultaten van dergelijke beveiligingsinspecties.
 
-3. Aangezien de veiligheid van burgerluchtvaartuigen, hun passagiers en hun bemanning een fundamentele voorwaarde is voor het exploiteren van internationale luchtdiensten, bevestigen beide partijen dat hun verplichtingen tegenover elkaar ook de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden omvatten, met name hun verplichtingen uit hoofde van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), het [Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), ondertekend in Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend in Den Haag op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend in Montreal op 23 september 1971, het [Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), ondertekend te Montreal op 24 februari 1988, en het [Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), ondertekend te Montreal op 1 maart 1991, voor zover beide partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de beveiliging van de burgerluchtvaart waartoe de partijen zijn toegetreden.
+3. Aangezien de veiligheid van burgerluchtvaartuigen, hun passagiers en hun bemanning een fundamentele voorwaarde is voor het exploiteren van internationale luchtdiensten, bevestigen beide partijen dat hun verplichtingen tegenover elkaar ook de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden omvatten, met name hun verplichtingen uit hoofde van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), het [Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), ondertekend in Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend in Den Haag op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend in Montreal op 23 september 1971, het [Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), ondertekend te Montreal op 24 februari 1988, en het [Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), ondertekend te Montreal op 1 maart 1991, voor zover beide partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de beveiliging van de burgerluchtvaart waartoe de partijen zijn toegetreden.
 
 4. Op verzoek verlenen de partijen elkaar alle nodige bijstand om het wederrechtelijk in zijn macht brengen van burgerluchtvaartuigen en andere wederrechtelijke daden tegen de veiligheid van dergelijke luchtvaartuigen, hun passagiers en bemanning, luchthavens en luchtvaartnavigatiefaciliteiten, en alle andere dreigingen tegen de beveiliging van de burgerluchtvaart te voorkomen.
 
@@ -523,7 +410,7 @@ Wanneer Armenië de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 10. Wanneer een partij aannemelijke redenen heeft om te geloven dat de andere partij afwijkt van de in dit artikel vastgestelde voorschriften inzake luchtvaartbeveiliging, vraagt zij onmiddellijk om overleg met de andere partij. Dit overleg gaat van start binnen 30 dagen na ontvangst van het verzoek.
 
-11. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=5&z=2021-11-15&g=2021-11-15) wordt de exploitatievergunning van een of meer luchtvaartmaatschappijen van de andere partij ingehouden, ingetrokken, beperkt of aan voorwaarden onderworpen wanneer niet binnen 30 dagen na de aanvangsdatum van dit overleg, of een langere periode, indien overeengekomen, een bevredigende oplossing wordt gevonden.
+11. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006948&titeldeel=I&artikel=5&z=2021-11-15&g=2021-11-15) wordt de exploitatievergunning van een of meer luchtvaartmaatschappijen van de andere partij ingehouden, ingetrokken, beperkt of aan voorwaarden onderworpen wanneer niet binnen 30 dagen na de aanvangsdatum van dit overleg, of een langere periode, indien overeengekomen, een bevredigende oplossing wordt gevonden.
 
 12. Wanneer een onmiddellijke en buitengewone dreiging dit vereist, mag een partij onmiddellijk voorlopige maatregelen treffen.
 
@@ -543,13 +430,13 @@ Wanneer Armenië de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 - c. betrekt de Europese Unie Armenië bij relevante en uit het gemeenschappelijk Europees luchtruim voortvloeiende operationele initiatieven op het gebied van luchtvaartnavigatiediensten, luchtruim en interoperabiliteit, met name door:
 
-- i. te onderzoeken of het mogelijk is samen te werken met of deel te nemen aan een bestaand functioneel luchtruimblok of een nieuw op te richten;
+   - i. te onderzoeken of het mogelijk is samen te werken met of deel te nemen aan een bestaand functioneel luchtruimblok of een nieuw op te richten;
 
-- ii. deel te nemen aan de netwerkfuncties van het gemeenschappelĳk Europees luchtruim;
+   - ii. deel te nemen aan de netwerkfuncties van het gemeenschappelĳk Europees luchtruim;
 
-- iii. te zorgen voor afstemming op de plannen voor de uitrol van Sesar;
+   - iii. te zorgen voor afstemming op de plannen voor de uitrol van Sesar;
 
-- iv. de interoperabiliteit te versterken; en
+   - iv. de interoperabiliteit te versterken; en
 
 - d. neemt Armenië de nodige maatregelen om de prestatieregeling van de Europese Unie toe te passen met als doel de algemene vluchtefficiëntie te optimaliseren, de kosten te beperken en de veiligheid en capaciteit van de bestaande systemen te vergroten.
 
@@ -581,7 +468,7 @@ Wanneer Armenië de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0006
 
 ##### Artikel 18. Aansprakelijkheid van luchtvaartmaatschappijen
 
-De partijen bevestigen hun verplichtingen uit hoofde van het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), dat op 28 mei 1999 in Montreal is opgesteld (het Verdrag van Montreal).
+De partijen bevestigen hun verplichtingen uit hoofde van het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), dat op 28 mei 1999 in Montreal is opgesteld (het Verdrag van Montreal).
 
 ##### Artikel 19. Bescherming van de consument
 
@@ -615,7 +502,7 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 7. Elke partij mag vragen dat het gemengd comité bijeenkomt om de door haar belangrijk geachte arbeidskwesties te bespreken.
 
-## TITEL III. INSTITUTIONELE EN SLOTBEPALINGEN
+### TITEL III. INSTITUTIONELE EN SLOTBEPALINGEN
 
 ##### Artikel 22. Interpretatie en tenuitvoerlegging
 
@@ -681,9 +568,9 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 3. Tenzij de partijen anders overeenkomen, wordt de arbitrage uitgevoerd door een als volgt samen te stellen scheidsgerecht van drie scheidsrechters:
 
-- a. binnen 20 dagen na ontvangst van een verzoek om arbitrage stelt elke partij een scheidsrechter aan. Binnen 30 dagen na hun benoeming wijzen deze twee scheidsrechters gezamenlijk een derde scheidsrechter aan, die als voorzitter van het scheidsgerecht zal optreden;
+- a. binnen 20 dagen na ontvangst van een verzoek om arbitrage stelt elke partij een scheidsrechter aan. Binnen 30 dagen na hun benoeming wijzen deze twee scheidsrechters gezamenlijk een derde scheidsrechter aan, die als voorzitter van het scheidsgerecht zal optreden;
 
-- b. indien een partij verzuimt een scheidsrechter aan te stellen, of indien de derde scheidsrechter niet wordt aangesteld overeenkomstig punt a), kan elke partij de voorzitter van de ICAO-Raad verzoeken de nodige scheidsrechter of scheidsrechters aan te stellen binnen 30 dagen na ontvangst van dat verzoek. Als de voorzitter van de ICAO-Raad een onderdaan is van Armenië of van een EU-lidstaat gaat de oudste vicevoorzitter van de ICAO-Raad die geen onderdaan is van Armenië of van een EU-lidstaat over tot aanstelling.
+- b. indien een partij verzuimt een scheidsrechter aan te stellen, of indien de derde scheidsrechter niet wordt aangesteld overeenkomstig punt a), kan elke partij de voorzitter van de ICAO-Raad verzoeken de nodige scheidsrechter of scheidsrechters aan te stellen binnen 30 dagen na ontvangst van dat verzoek. Als de voorzitter van de ICAO-Raad een onderdaan is van Armenië of van een EU-lidstaat gaat de oudste vicevoorzitter van de ICAO-Raad die geen onderdaan is van Armenië of van een EU-lidstaat over tot aanstelling.
 
 4. Het scheidsgerecht wordt opgericht op de datum waarop de laatste van de drie scheidsrechters zijn aanstelling aanvaardt volgens de door het gemengd comité vast te stellen procedures.
 
@@ -695,15 +582,15 @@ Met inachtneming van de overgangsbepalingen in [bijlage I](https://wetten.overhe
 
 8. Een partij kan binnen veertien dagen nadat zij van het verslag in kennis is gesteld het scheidsgerecht schriftelijk verzoeken bepaalde aspecten van het tussentijdse verslag te heroverwegen.
 
-9. In geval van hoogdringendheid stelt het scheidsgerecht alles in het werk om de partijen binnen 45 dagen, en uiterlijk binnen 60 dagen, na de oprichting in kennis te stellen van zijn tussentijds verslag. Een partij kan binnen zeven dagen nadat zij van het verslag in kennis is gesteld het scheidsgerecht schriftelijk verzoeken bepaalde aspecten van het tussentijds verslag te heroverwegen. Het scheidsgerecht kan het tussentijds verslag naar aanleiding van schriftelijke opmerkingen van de partijen wijzigen, en wanneer het dat zinvol acht, de zaak nader onderzoeken. In de definitieve uitspraak van het scheidsgerecht worden de in de tussentijdse fase naar voren gebrachte argumenten afdoende besproken en wordt duidelijk ingegaan op de vragen en opmerkingen van de partijen.
+9. In geval van hoogdringendheid stelt het scheidsgerecht alles in het werk om de partijen binnen 45 dagen, en uiterlijk binnen 60 dagen, na de oprichting in kennis te stellen van zijn tussentijds verslag. Een partij kan binnen zeven dagen nadat zij van het verslag in kennis is gesteld het scheidsgerecht schriftelijk verzoeken bepaalde aspecten van het tussentijds verslag te heroverwegen. Het scheidsgerecht kan het tussentijds verslag naar aanleiding van schriftelijke opmerkingen van de partijen wijzigen, en wanneer het dat zinvol acht, de zaak nader onderzoeken. In de definitieve uitspraak van het scheidsgerecht worden de in de tussentijdse fase naar voren gebrachte argumenten afdoende besproken en wordt duidelijk ingegaan op de vragen en opmerkingen van de partijen.
 
 10. Het scheidsgerecht stelt de partijen uiterlijk 120 dagen na de oprichting in kennis van zijn definitieve beslissing. Wanneer het scheidsgerecht van oordeel is dat deze termijn niet kan worden gehaald, stelt de voorzitter van het scheidsgerecht de partijen hiervan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het scheidsgerecht de partijen in kennis denkt te kunnen stellen van zijn definitieve beslissing. In geen geval mogen de partijen later dan 150 dagen na de datum van oprichting van het scheidsgerecht in kennis worden gesteld van de definitieve beslissing.
 
 11. In geval van hoogdringendheid stelt het scheidsgerecht alles in het werk om de partijen binnen 60 dagen na de oprichting in kennis te stellen van zijn definitieve beslissing. Wanneer het scheidsgerecht van oordeel is dat deze termijn niet kan worden gehaald, stelt de voorzitter van het scheidsgerecht de partijen hiervan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het scheidsgerecht de partijen in kennis denkt te kunnen stellen van zijn definitieve beslissing. In geen geval mogen de partijen later dan 75 dagen na de datum van oprichting van het scheidsgerecht in kennis worden gesteld van de definitieve beslissing.
 
-12. De partijen kunnen binnen tien dagen nadat de beslissing is genomen om toelichting verzoeken; toelichtingen worden binnen 15 dagen na het verzoek gegeven.
+12. De partijen kunnen binnen tien dagen nadat de beslissing is genomen om toelichting verzoeken; toelichtingen worden binnen 15 dagen na het verzoek gegeven.
 
-13. Als het scheidsgerecht een schending van deze overeenkomst vaststelt en de verantwoordelijke partij zich niet aan de definitieve beslissing van het scheidsgerecht houdt of niet binnen 40 dagen na de kennisgeving van de definitieve beslissing van het scheidsgerecht met de andere partij overeenstemming bereikt over een voor beide partijen aanvaardbare oplossing, dan kan de andere partij de toepassing van vergelijkbare uit deze overeenkomst voortvloeiende rechten schorsen of, indien nodig, de toepassing van deze overeenkomst volledig schorsen tot de verantwoordelijke partij voldoet aan de definitieve beslissing van het scheidsgerecht of tot de partijen overeenstemming hebben bereikt over een voor beide partijen aanvaardbare oplossing.
+13. Als het scheidsgerecht een schending van deze overeenkomst vaststelt en de verantwoordelijke partij zich niet aan de definitieve beslissing van het scheidsgerecht houdt of niet binnen 40 dagen na de kennisgeving van de definitieve beslissing van het scheidsgerecht met de andere partij overeenstemming bereikt over een voor beide partijen aanvaardbare oplossing, dan kan de andere partij de toepassing van vergelijkbare uit deze overeenkomst voortvloeiende rechten schorsen of, indien nodig, de toepassing van deze overeenkomst volledig schorsen tot de verantwoordelijke partij voldoet aan de definitieve beslissing van het scheidsgerecht of tot de partijen overeenstemming hebben bereikt over een voor beide partijen aanvaardbare oplossing.
 
 ##### Artikel 25. Vrijwaringsmaatregelen
 

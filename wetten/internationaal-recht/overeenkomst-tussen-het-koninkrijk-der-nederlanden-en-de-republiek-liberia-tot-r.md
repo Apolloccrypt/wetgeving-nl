@@ -1,54 +1,23 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Liberia tot regeling der wederzijdse uitlevering van misdadigers"
 identifier: "BWBV0006078"
-country: "nl"
-rank: "verdrag"
-publication_date: "1896-10-30"
-last_updated: "1896-10-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006078"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10005016413"
-version_id: "10005339262"
-internal_id: "C10008220351"
-label_id: "10004999524"
-dtd_version: "2.0"
-original_entry_into_force: "1896-10-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006078/1896-10-30/0"
-intitule_bron: "Stb.1896-143"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1896-07-28"
-intitule_published: "1896-08-13"
-intitule_in_force: "1896-08-13"
-intitule_status: "goed"
-original_publication: "Stb.1896-143"
-original_signed_date: "1896-07-28"
-original_published_date: "1896-08-13"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1896-10-30"
-jci_1_3: "jci1.3:c:BWBV0006078&z=1896-10-30&g=1896-10-30"
-jci_1_0: "1.0:c:BWBV0006078&g=1896-10-30"
-citeertitel_status: "redactioneel"
-signed_date: "1896-07-28"
-entry_into_force: "1896-10-30"
+publicatiedatum: 1896-10-30
+laatste_update: 1896-10-30
+status: geldig
+toestand: 1896-10-30
+bron: "https://wetten.overheid.nl/BWBV0006078"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Liberia tot regeling der wederzijdse uitlevering van misdadigers
 
-**Hare Majesteit de Koningin der Nederlanden** en in Hoogst-Derzelver naam **Hare Majesteit de Koningin-Weduwe, Regentes van het Koninkrijk**, en **Zijne Excellentie de President van Liberia**, wenschende een verdrag te sluiten tot uitlevering van misdadigers, hebben te dien einde tot Hunne gevolmachtigden benoemd:
-
-**Hare Majesteit de Koningin-Weduwe, Regentes van het Koninkrijk der Nederlanden:**
-
-jonkheer mr. JOAN ROËLL, Minister van Buitenlandsche Zaken, de heeren mr. WILLEM VAN DER KAAY, Minister van Justitie, en mr. JACOB HENDRIK BERGSMA, Minister van Koloniën;
-
-en **Zijne Excellentie de President van Liberia:**
-
-den heer dr. HENDRIK PIETER NICOLAAS MULLER, Consul-Generaal der Republiek Liberia voor het Koninkrijk der Nederlanden;
-
-die na elkander hunne, in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, omtrent het navolgende zijn overeengekomen:
+*Hare Majesteit de Koningin der Nederlanden en in Hoogst-Derzelver naam Hare Majesteit de Koningin-Weduwe, Regentes van het Koninkrijk, en Zijne Excellentie de President van Liberia, wenschende een verdrag te sluiten tot uitlevering van misdadigers, hebben te dien einde tot Hunne gevolmachtigden benoemd: Hare Majesteit de Koningin-Weduwe, Regentes van het Koninkrijk der Nederlanden: jonkheer mr. JOAN ROËLL, Minister van Buitenlandsche Zaken, de heeren mr. WILLEM VAN DER KAAY, Minister van Justitie, en mr. JACOB HENDRIK BERGSMA, Minister van Koloniën; en Zijne Excellentie de President van Liberia: den heer dr. HENDRIK PIETER NICOLAAS MULLER, Consul-Generaal der Republiek Liberia voor het Koninkrijk der Nederlanden; die na elkander hunne, in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, omtrent het navolgende zijn overeengekomen:*
 
 ##### Artikel I
 
-**De Regeering der Nederlanden en de Regeering van Liberia** verbinden zich aan elkander uit te leveren die personen welke, beklaagd of veroordeeld zijnde wegens een strafbaar feit gepleegd op het grondgebied der eene partij, zullen worden gevonden op het grondgebied der andere partij, onder de omstandigheden en voorwaarden in het tegenwoordig verdrag vermeld.
+*De Regeering der Nederlanden en de Regeering van Liberia* verbinden zich aan elkander uit te leveren die personen welke, beklaagd of veroordeeld zijnde wegens een strafbaar feit gepleegd op het grondgebied der eene partij, zullen worden gevonden op het grondgebied der andere partij, onder de omstandigheden en voorwaarden in het tegenwoordig verdrag vermeld.
 
 ##### Artikel II
 
@@ -56,9 +25,9 @@ Overeenkomstig de bepalingen van dit verdrag, zullen worden uitgeleverd zij, die
 
 - 1°.
 
-- a. Aanslag tegen het leven of de vrijheid van den Koning, van de regeerende Koningin, van den Regent, van den President der Republiek, of van een ander Hoofd van een bevrienden Staat, of ondernomen met het oogmerk Hen tot regeeren ongeschikt te maken;
+   - a. Aanslag tegen het leven of de vrijheid van den Koning, van de regeerende Koningin, van den Regent, van den President der Republiek, of van een ander Hoofd van een bevrienden Staat, of ondernomen met het oogmerk Hen tot regeeren ongeschikt te maken;
 
-- b. Aanslag tegen het leven of de vrijheid van de niet-regeerende Koningin, van den vermoedelijken Troonopvolger of van een lid van het Koninklijk Huis;
+   - b. Aanslag tegen het leven of de vrijheid van de niet-regeerende Koningin, van den vermoedelijken Troonopvolger of van een lid van het Koninklijk Huis;
 
 - 2°. Doodslag of moord, kinderdoodslag of kindermoord;
 
@@ -170,10 +139,10 @@ Ten blijke waarvan de wederzijdsche gevolmachtigden de tegenwoordige overeenkoms
 
 Gedaan te 's Gravenhage den 2den Februari 1895.
 
-**(L.S.) (get.)** J. RÖELL.
+*(L.S.) (get.)* J. RÖELL.
 
-**(L.S.) (get.)** VAN DER KAAY.
+*(L.S.) (get.)* VAN DER KAAY.
 
-**(L.S.) (get.)** BERGSMA.
+*(L.S.) (get.)* BERGSMA.
 
-**(L.S.) (get.)** HENDRIK P. N. MULLER.
+*(L.S.) (get.)* HENDRIK P. N. MULLER.

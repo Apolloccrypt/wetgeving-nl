@@ -1,120 +1,81 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Chinese Republiek nopens opheffing van exterritoriale rechten in China en regeling van aanverwante zaken"
 identifier: "BWBV0006522"
-country: "nl"
-rank: "verdrag"
-publication_date: "1945-12-05"
-last_updated: "1945-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006522"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005314483"
-version_id: "10005715052"
-internal_id: "C10008847061"
-label_id: "10005297514"
-dtd_version: "2.0"
-original_entry_into_force: "1945-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006522/1945-12-05/0"
-intitule_bron: "Stb.1946-G 154"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1946-06-22"
-intitule_published: "1946-07-12"
-intitule_in_force: "1946-07-12"
-intitule_status: "goed"
-original_publication: "Stb.1946-G 154"
-original_signed_date: "1946-06-22"
-original_published_date: "1946-07-12"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1945-12-05"
-jci_1_3: "jci1.3:c:BWBV0006522&z=1945-12-05&g=1945-12-05"
-jci_1_0: "1.0:c:BWBV0006522&g=1945-12-05"
-citeertitel_status: "redactioneel"
-signed_date: "1946-06-22"
-entry_into_force: "1945-12-05"
+publicatiedatum: 1945-12-05
+laatste_update: 1945-12-05
+status: geldig
+toestand: 1945-12-05
+bron: "https://wetten.overheid.nl/BWBV0006522"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Chinese Republiek nopens opheffing van exterritoriale rechten in China en regeling van aanverwante zaken
 
-Hare Majesteit de Koningin der Nederlanden
+*Her Majesty the Queen of the Netherlands and His Excellency the President of the National Government of the Republic of China; Being desirous of defining more clearly, in a spirit of friendship, the general relations between them and for this purpose to settle certain matters relating to jurisdiction in China; Have decided to conclude a treaty for this purpose and to that end have appointed as their Plenipotentiaries; Her Majesty the Queen of the Netherlands: His Excellency Jonkheer E. F. M. J. Michiels van Verduynen, Her Acting Minister for Foreign Affairs; His Excellency the President of the National Government of the Republic of China: His Excellency Monsieur Wunsz King, Ambassador Extraordinary and Plenipotentiary of the Republic of China to Her Majesty the Queen of the Netherlands; Who, having communicated to each other their full powers, found to be in good and due form, have agreed upon the following Articles:*
 
-en
+##### Article I
 
-Zijne Excellentie de President van de Nationale Regeering van de Chineesche Republiek,
+The territories of the High Contracting Parties to which the present Treaty applies are, on the part of the Republic of China, all the territories of the Republic of China; and on the part of the Kingdom of the Netherlands, all the territories of the Kingdom of the Netherlands.
 
-Geleid door den wensch, in vriendschappelijken geest de algemeene betrekkingen tusschen beide landen duidelijker te omschrijven en te dien einde bepaalde aangelegenheden met betrekking tot de regtsmacht in China te regelen;
+In the present Treaty, the term „nationals of the one (or of the other) High Contracting Party” shall, in relation to the Republic of China, mean all persons who are Chinese citizens by virtue of the Chinese nationality laws; and in relation to the Kingdom of the Netherlands, mean all persons being Netherlands subjects by virtue of the Netherlands nationality laws.
 
-Hebben besloten met dit doel een verdrag te sluiten en hebben te dien einde tot hun Gevolmachtigden benoemd;
+##### Article II
 
-Hare Majesteit de Koningin der Nederlanden:
+All those provisions of treaties or agreements in force between the Kingdom of the Netherlands and the Republic of China which authorise the Netherlands Government or its representatives to exercise jurisdiction over Netherlands nationals or companies in the territory of the Republic of China are hereby abrogated. Netherlands nationals and companies in the territory of the Republic of China shall be subject to the jurisdiction of the Government of the Republic of China in accordance with the principles of international law and practice.
 
-Zijne Excellentie Jonkheer E. F. M. J. Michiels van Verduynen, Haar waarnemend Minister van Buitenlandsche Zaken;
+##### Article III
 
-Zijne Excellentie de President van de Nationale Regeering van de Chineesche Republiek:
+The Netherlands Government considers that the Final Protocol concluded at Peking on September 7, 1901, between the Chinese Government and other Governments, including the Netherlands Government, should be terminated and agrees that the rights accorded to the Netherlands Government under that Protocol and under the agreements supplementary thereto shall cease.
 
-Zijne Excellentie den Heer Wunsz King, buitengewoon en gevolmachtigd Ambassadeur van de Chineesche Republiek bij Hare Majesteit de Koningin der Nederlanden;
+The Netherlands Government will co-operate with the Government of the Republic of China for the reaching of any necessary agreements with other Governments concerned for the transfer to the Government of the Republic of China of the administration and control of the Diplomatic Quarter at Peiping, including the official assets and the official obligations of the Diplomatic Quarter, it being mutually understood that the Government of the Republic of China in taking over administration and control of the Diplomatic Quarter will make provision for the assumption and discharge of the official obligations and liabilities of the Diplomatic Quarter and for the recognition and protection of all legitimate rights therein.
 
-Die, na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, zijn overeengekomen als volgt:
+The Government of the Republic of China hereby accords to the Netherlands Government a continued right to use for official purposes the land which has been allocated to the Netherlands Government in the Diplomatic Quarter in Peiping, on parts of which are located buildings belonging to the Kingdom of the Netherlands.
 
-##### Artikel I
+##### Article IV
 
-Het grondgebied van de Hooge Verdragsluitende Partijen, waarop dit Verdrag van toepassing is, omvat voor wat betreft de Chineesche Republiek alle gebiedsdeelen van de Chineesche Republiek; en voor wat betreft het Koninkrijk der Nederlanden alle gebiedsdeelen van het Koninkrijk der Nederlanden.
+The Netherlands Government considers that the International Settlements at Shanghai and Amoy should revert to the administration and control of the Government of the Republic of China and agrees that the rights accorded to the Netherlands Government in relation to those Settlements shall cease.
 
-In dit Verdrag zal de uitdrukking „onderdanen van de eene (of van de andere) Hooge Verdragsluitende Partij”, ten aanzien van de Chineesche Republiek beteekenen alle personen, die Chineesche staatsburgers zijn krachtens de Chineesche nationaliteitswetten; en ten aanzien van het Koninkrijk der Nederlanden, beteekenen alle personen, die Nederlandsche onderdanen zijn op grond van de Nederlandsche nationaliteitswetten.
+The Netherlands Government will co-operate with the Government of the Republic of China for the reaching of any necessary agreements with other Governments concerned for the transfer to the Government of the Republic of China of the administration and control of the International Settlements at Shanghai and Amoy, including the official assets and the official obligations of those Settlements, it being mutually understood that the Government of the Republic of China in taking over administration and control of those Settlements will make provision for the assumption and discharge of the official obligations and liabilities of those Settlements and for the recognition and protection of all legitimate rights therein.
 
-##### Artikel II
+##### Article V
 
-Al die bepalingen van verdragen of overeenkomsten, van kracht tusschen het Koninkrijk der Nederlanden en de Chineesche Republiek, op grond waarvan de Nederlandsche Regeering of hare vertegenwoordigers bevoegd zijn regtsmacht uit te oefenen over Nederlandsche onderdanen of ondernemingen op het grondgebied van de Chineesche Republiek, worden hierbij afgeschaft. Nederlandsche onderdanen en ondernemingen op het grondgebied van de Chineesche Republiek zullen zijn onderworpen aan de regtsmacht van de Regeering der Chineesche Republiek, overeenkomstig de beginselen van internationaal recht en gebruik.
+In order to obviate any questions as to existing rights in respect of or as to existing titles to real property in the territory of the Republic of China possessed by Netherlands nationals or companies or by the Kingdom of the Netherlands, particularly questions which might arise from the abrogation of the provisions of treaties or agreements as stipulated in Article II, it is agreed that such existing rights or titles shall be indefeasible and shall not be questioned upon any ground except upon proof, established through due process of law, of fraud, or of fraudulent or other dishonest practices in the acquisition of such rights or titles, it being understood that no right or title shall be rendered invalid by virtue of any subsequent change in the official procedure through which it was acquired.
 
-##### Artikel III
+It is also agreed that these rights or titles shall be subject to the laws and regulations of the Republic of China concerning taxation, national defence, and the right of eminent domain; and that no such rights or titles may be alienated to the Government or nationals or companies of any third country without the express consent of the Government of the Republic of China.
 
-De Nederlandsche Regeering is van oordeel, dat het tusschen de Chineesche Regeering en andere Regeeringen, met inbegrip van de Nederlandsche Regeering, op 7 September 1901 te Peking gesloten Slotprotocol behoort te worden opgezegd en stemt er mede in, dat de krachtens dat Protocol en de overeenkomsten, welke dit aanvullen, aan de Nederlandsche Regeering toegekende rechten zullen ophouden te bestaan.
+It is also agreed that if it should be the desire of the Government of the Republic of China to replace by new deeds of ownership existing leases in perpetuity or other documentary evidence relating to real property held by Netherlands nationals or companies or by the Kingdom of the Netherlands, the replacement shall be made by the Chinese authorities without charges of any sort and the new deeds of ownership shall fully protect the holders of such leases or other documentary evidence and their legal heirs and assigns without diminution of their prior rights and interests, including the right of alienation.
 
-De Nederlandsche Regeering zal met de Regeering van de Chineesche Republiek samenwerken om tot het sluiten van noodzakelijke overeenkomsten te geraken met andere betrokken Regeeringen, voor zooveel betreft de overdracht van het bestuur van en toezicht op de Diplomatieke Wijk in Peiping, met inbegrip van de officieele rechten en verplichtingen van de Diplomatieke Wijk, aan de Regeering van de Chineesche Republiek, met dien verstande, dat de Regeering van de Chineesche Republiek bij het overnemen van het bestuur van en het toezicht op de Diplomatieke Wijk voorzieningen zal treffen voor de aanvaarding en nakoming van de officieele verplichtingen en lasten van de Diplomatieke Wijk en voor de erkenning en bescherming van alle wettige rechten aldaar.
+It is further agreed that Netherlands nationals or companies shall not be required or asked by the Chinese authorities to make any payments of fees in connection with land transfers for or with relation to any period prior to the effective date of this Treaty.
 
-De Regeering van de Chineesche Republiek verleent bij deze een blijvend recht aan de Nederlandsche Regeering om voor officieele doeleinden die gedeelten van het land, dat toegewezen is aan de Nederlandsche Regeering in de Diplomatieke Wijk in Peiping, te gebruiken, waarop gebouwen toebehoorende aan het Koninkrijk der Nederlanden zich bevinden.
+##### Article VI
 
-##### Artikel IV
+Each of the High Contracting Parties shall accord to the nationals of the other the right to enter or to leave its territory and the right to travel, reside and carry on commerce throughout the whole extent of that territory.
 
-De Nederlandsche Regeering is van oordeel, dat de Internationale Nederzettingen in Shanghai en Amoy weder onder het bestuur en toezicht van de Regeering van de Chineesche Republiek gebracht dienen te worden en stemt ermede in, dat de rechten aan de Nederlandsche Regeering verleend met betrekking tot die Nederzettingen zullen ophouden te bestaan.
+With regard to all legal proceedings and all matters relating to the administration of justice and the levying of taxes of whatever description, each of the two Governments will endeavour to accord to nationals and companies of the other treatment not less favourable than that enjoyed by its own nationals and companies in its own territory.
 
-De Nederlandsche Regeering zal met de Regeering van de Chineesche Republiek samenwerken om tot het sluiten van noodzakelijke overeenkomsten te geraken met andere betrokken Regeeringen voor zooveel betreft de overdracht aan de Regeering van de Chineesche Republiek van het bestuur van en toezicht op de Internationale Nederzettingen in Shanghai en Amoy, met inbegrip van de officieele rechten en verplichtingen van de Diplomatieke Wijk, met dien verstande, dat de Regeering van de Chineesche Republiek bij het overnemen van het bestuur van en het toezicht op die Nederzettingen voorzieningen zal treffen voor de aanvaarding en nakoming van de officieele verplichtingen en lasten van die Nederzettingen en voor de erkenning en bescherming van alle wettelijke rechten aldaar.
+##### Article VII
 
-##### Artikel V
+The High Contracting Parties mutually agree that the consular officers of one of the High Contracting Parties, duly provided with exequaturs, shall be permitted to reside in such ports, places and cities of the other High Contracting Party as may be agreed upon.
 
-Ten einde alle geschillen te voorkomen over bestaande rechten in verband met of met betrekking tot bestaande rechtstitels op onroerende goederen gelegen op het grondgebied van de Chineesche Republiek, en in het bezit van Nederlandsche onderdanen of ondernemingen, of van het Koninkrijk der Nederlanden, in het bijzonder geschillen, die mochten voortspruiten uit het buitenwerking stellen van verdragen of overeenkomsten, als bepaald in artikel II, wordt overeengekomen, dat dergelijke bestaande rechten of rechtstitels onaantastbaar zullen zijn en op geen andere gronden zullen worden betwist dan van bewijs, behoorlijk in rechten geleverd, van bedrog, of van bedriegelijke of andere oneerlijke practijken bij de verkrijging van dergelijke rechten of rechtstitels, met dien verstande, dat geen enkel recht of rechtstitel ongeldig verklaard zal worden uit hoofde van eenige latere wijziging in de officieele procedure door welke hetzelve werd verkregen.
+The consular officers of one High Contracting Party shall have the right to interview, to communicate with and to advise the nationals of their country within their consular districts; they shall be informed immediately whenever the nationals of their country are under detention or arrest or in prison or are awaiting trial in their consular districts and shall, upon notification to the appropriate authorities, be permitted to visit any such nationals; and in general, the consular officers of one High Contracting Party shall be accorded in the territory of the other High Contracting Party the rights, privileges and immunities enjoyed by consular officers under modern international usage.
 
-Voorts wordt overeengekomen, dat deze rechten of rechtstitels onderworpen zullen zijn aan de wetten en verordeningen van de Chineesche Republiek voor wat betreft belasting, nationale verdediging en souvereine macht; en dat dergelijke rechten en rechtstitels niet mogen worden vervreemd aan de Regeering of onderdanen van een derde mogendheid zonder uitdrukkelijke toestemming van de Regeering van de Chineesche Republiek.
+It is likewise agreed that the nationals of one High Contracting Party in the territory of the other High Contracting Party shall have the right at all times to communicate with the consular officers of their country. Communications to their consular officers from the nationals of one High Contracting Party who are under detention or arrest or in prison or are awaiting trial in the territory of the other High Contracting Party shall be forwarded to their consular officers by the local authorities.
 
-Voorts wordt overeengekomen, dat, indien de Regeering van de Chineesche Republiek het wenschelijk mocht achten om bestaande erfpachten of andere schriftelijke bewijsstukken met betrekking tot onroerende goederen in bezit van Nederlandsche onderdanen of ondernemingen, of van het Koninkrijk der Nederlanden, te vervangen door nieuwe eigendomsacten, de vervanging door de Chineesche autoriteiten geheel kosteloos zal geschieden en dat de nieuwe eigendomsacten de houders van dergelijke pachten of andere schriftelijke bewijsstukken en hun wettige erfgenamen en rechtverkrijgenden volledig zullen beschermen, onverminderd hun vroegere rechten en belangen, met inbegrip van het recht van vervreemding.
+##### Article VIII
 
-Voorts wordt overeengekomen, dat Nederlandsche onderdanen of ondernemingen door de Chineesche autoriteiten niet zullen worden verplicht of verzocht om eenige rechten te betalen in verband met overdracht van grond voor of met betrekking tot eenige periode voorafgaande aan den datum van de inwerkingtreding van dit Verdrag.
+The High Contracting Parties will enter into negotiations for the conclusion of a comprehensive modern treaty or treaties of friendship, commerce, navigation and consular rights upon the request of either of them or in any case within six months after the cessation of the hostilities in the war against the common enemies in which they are both now engaged. The treaty or treaties to be thus negotiated should be based upon the principles of international law and practice as reflected in modern international procedure and in the modern treaties which each of the High Contracting Parties has respectively concluded with other Powers in recent years.
 
-##### Artikel VI
+Pending the conclusion of the treaty or treaties referred to in the preceding paragraph, each of the High Contracting Parties agrees that the consular officers of the other will be permitted to exercise their functions as such in accordance with general principles of international law in all ports, cities and places of the former which are or may be open to consular officers of any foreign country.
 
-Ieder der Hooge Verdragsluitende Partijen zal aan de onderdanen van de andere het recht verleenen om haar grondgebied te betreden of te verlaten, alsmede het recht om binnen de geheele uitgestrektheid van haar grondgebied te reizen, te verblijven en handel te drijven.
+Pending the conclusion of the treaty or treaties referred to in the first paragraph, if any questions affecting the rights in the territory of the Republic of China of Netherlands nationals or companies or of the Kingdom of the Netherlands, should arise in the future and if these questions are not covered by the present Treaty and the Exchange of Notes or by the provisions of existing treaties, conventions or agreements between the High Contracting Parties, not abrogated by or inconsistent with this Treaty and the Exchange of Notes, such questions shall be discussed by the representatives of the two Governments and shall be decided in accordance with the generally accepted principles of international law and with modern international practice.
 
-Elk der beide Regeeringen zal trachten om ten aanzien van alle rechtsgedingen en alle zaken betreffende de rechtspleging en belastingheffing onverschillig van welken aard, aan de onderdanen en ondernemingen van de andere een niet minder gunstige behandeling toe te kennen dan die, welke genoten wordt door haar eigen onderdanen binnen haar eigen grondgebied.
+##### Article IX
 
-##### Artikel VII
+The present Treaty shall be ratified and the instruments of ratification shall be exchanged at Chungking as soon as possible.
 
-De Hooge Verdragsluitende Partijen komen wederkeerig overeen, dat aan de consulaire ambtenaren, behoorlijk voorzien van exequaturs, van een van de Hooge Verdragsluitende Partijen, zal worden toegestaan om te verblijven in die havens, plaatsen of steden van de andere Hooge Verdragsluitende Partij, als zal worden overeengekomen.
-
-De consulaire ambtenaren van de eene Hooge Verdragsluitende Partij zullen het recht hebben om zich met de onderdanen van hun land binnen de grenzen van hun consulaire districten te onderhouden, met hen in verbinding te treden en hun raad te geven; zij zullen onmiddellijk op de hoogte gesteld worden, wanneer de onderdanen van hun land zich in hechtenis, onder arrest of in gevangenschap bevinden, en hun zal, na behoorlijke kennisgeving aan de bevoegde instanties, worden toegestaan om dergelijke onderdanen te bezoeken; en in het algemeen zullen aan de consulaire ambtenaren van de eene Hooge Vedragsluitende Partij binnen het grondgebied van de andere Hooge Verdragsluitende Partij de rechten, voorrechten en immuniteiten worden verleend, die volgens modern internationaal gebruik worden genoten door consulaire ambtenaren.
-
-Eveneens wordt overeengekomen, dat de onderdanen van de eene Hooge Verdragsluitende Partij binnen het grondgebied van de andere Hooge Verdragsluitende Partij te allen tijde het recht zullen hebben om zich in verbinding te stellen met de consulaire ambtenaren van hun land. Berichtgevingen aan hun consulaire ambtenaren van de onderdanen van de eene Hooge Verdragsluitende Partij, die zich in hechtenis, onder arrest of in gevangenschap bevinden, of die zich hangende hun berechting binnen het grondgebied van de andere Hooge Verdragsluitende Partij bevinden, zullen door de plaatselijke autoriteiten aan hun consulaire ambtenaren worden overgebracht.
-
-##### Artikel VIII
-
-De Hooge Vedragsluitende Partijen zullen onderhandelingen aanknoopen nopens de totstandkoming van een alomvattend modern verdrag of verdragen van vriendschap, handel, scheepvaart en consulaire rechten op verzoek van de eene of de andere Partij, of in elk geval binnen zes maanden na de staking van vijandelijkheden in den oorlog tegen de gemeenschappelijke vijanden, waarin zij thans beide gewikkeld zijn. Het verdrag of de verdragen, waarover aldus zal worden onderhandeld, moeten gebaseerd worden op de beginselen van internationaal recht en gebruik, zooals deze tot uitdrukking komen in de moderne internationale praktijk en in de moderne verdragen, welke elk der Hooge Verdragsluitende Partijen onderscheidenlijk met andere Mogendheden heeft gesloten gedurende de laatste jaren.
-
-Hangende de sluiting van het verdrag of de verdragen, waarnaar in het vorige lid wordt verwezen, stemt elk der Hooge Verdragsluitende Partijen ermee in, dat aan de consulaire ambtenaren van de andere zal worden toegestaan om hun functies als zoodanig uit te oefenen in overeenstemming met algemeene beginselen van internationaal recht in alle havens, steden en plaatsen van eerstgenoemde, die opengesteld zijn of zullen worden voor consulaire ambtenaren van welk vreemd land ook.
-
-Indien zich hangende de sluiting van het verdrag of de verdragen, waarnaar in het eerste lid wordt verwezen, in de toekomst vragen mochten voordoen rakende de rechten van Nederlandsche onderdanen of ondernemingen, of van het Koninkrijk der Nederlanden binnen het grondgebied van de Chineesche Republiek, en indien deze vragen niet worden gedekt door het onderhavige Verdrag en de Notawisseling of door de bepalingen van bestaande verdragen, conventies of overeenkomsten tusschen de Hooge Vedragsluitende Partijen, die niet buiten werking gesteld zijn door of onvereenigbaar zijn met dit Vedrag en de Notawisseling, zullen dergelijke vragen besproken worden door de vertegenwoordigers van de beide Regeeringen en beslist worden overeenkomstig de algemeen aanvaarde beginselen van internationaal recht en de moderne internationale practijk.
-
-##### Artikel IX
-
-Het onderhavige Verdrag zal worden bekrachtigd en de bekrachtigingsoorkonden zullen zoo spoedig mogelijk te Chunking worden uitgewisseld.
-
-Het Verdrag zal van kracht worden op den dag van de uitwisseling der bekrachtigingen. Ter oorkonde waarvan de bovengenoemde Gevolmachtigden het onderhavige Verdrag hebben onderteekend en van hun zegels hebben voorzien.
+The Treaty shall come into force on the day of the exchange of ratifications. In witness whereof the above mentioned Plenipotentiaries have signed the present Treaty and affixed their seals thereto.
 
 Done at London this twenty-ninth day of May 1945, corresponding to the twenty-ninth day of the fifth month of the thirty-fourth year of the Republic of China, in duplicate in English.
 

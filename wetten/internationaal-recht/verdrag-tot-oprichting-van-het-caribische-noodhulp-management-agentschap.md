@@ -1,602 +1,573 @@
 ---
 title: "Verdrag tot oprichting van het Caribische Noodhulp Management Agentschap"
 identifier: "BWBV0006839"
-country: "nl"
-rank: "verdrag"
-publication_date: "2024-06-04"
-last_updated: "2024-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006839"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005535793"
-version_id: "10006021582"
-internal_id: "C10010110631"
-label_id: "10005518964"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006839/2024-06-04/0"
-intitule_bron: "Trb.2019-136"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-09-04"
-intitule_in_force: "2024-07-11"
-intitule_status: "goed"
-original_publication: "Trb.2019-136"
-original_published_date: "2019-09-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2019-136"
-entry_into_force_date: "2024-06-04"
-jci_1_3: "jci1.3:c:BWBV0006839&z=2024-06-04&g=2024-06-04"
-jci_1_0: "1.0:c:BWBV0006839&g=2024-06-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-06-04"
+publicatiedatum: 2024-06-04
+laatste_update: 2024-06-04
+status: geldig
+toestand: 2024-06-04
+bron: "https://wetten.overheid.nl/BWBV0006839"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tot oprichting van het Caribische Noodhulp Management Agentschap
 
-De staten die partij zijn:
+*The States Parties: Conscious that the fragile economies and ecosystems of States within the Caribbean Region are extremely vulnerable to natural and man-made disasters including hurricanes, earthquakes, tsunamis, volcanic eruptions, droughts, floods and landslides; Recalling that during recent decades a succession of natural disasters including hurricanes, earthquakes, floods, landslides and volcanic eruptions adversely affected many States within the Caribbean Region; Recognizing the work of the Caribbean Disaster Emergency Response Agency In disaster preparedness and response; Desirous of establishing the Caribbean Disaster Emergency Management Agency to replace and advance the work of the Caribbean Disaster Emergency Response Agency to ensure the sustainable development of resilient communities within the Caribbean Region; Have agreed as follows:*
 
-Zich ervan bewust dat de fragiele economieën en ecosystemen van staten in de Caribische regio uiterst kwetsbaar zijn voor natuurrampen en door de mens veroorzaakte rampen, waaronder orkanen, aardbevingen, tsunami's, vulkaanuitbarstingen, droogtes, overstromingen en aardverschuivingen;
+##### Article I. Definitions
 
-In herinnering brengend dat in de afgelopen decennia een opeenvolging van natuurrampen, waaronder orkanen, aardbevingen, overstromingen, aardverschuivingen en vulkaanuitbarstingen, nadelige gevolgen heeft gehad voor veel staten in de Caribische regio;
+In this Agreement, unless the context otherwise requires:
 
-Erkennend het werk van het Caribisch Agentschap voor Spoedhulp bij Rampen (Caribbean Disaster Emergency Response Agency) op het gebied van de voorbereiding op en bestrijding van rampen;
+“affected Participating State” means a State in the territory of which a disaster has occurred;
 
-De wens uitsprekend het Caribische Noodhulp Management Agentschap op te richten dat de werkzaamheden van het Caribisch Agentschap voor Spoedhulp bij Rampen overneemt en verder uitbreidt om te waarborgen dat de weerbaarheid van gemeenschappen in de Caribische regio een duurzame ontwikkeling laat zien;
+“CARICOM” means the Caribbean Community;
 
-Zijn het volgende overeengekomen:
+“CDEMA” means the Caribbean Disaster Emergency Management Agency established under [Article II](https://wetten.overheid.nl/BWBV0006839);
 
-##### Artikel I. Begripsomschrijvingen
+“CDERA” means the Caribbean Disaster Emergency Response Agency an Institution of the Community recognized under Article 21 of the Treaty;
 
-Tenzij uit het zinsverband anders volgt, wordt in dit Verdrag verstaan onder:
+“coordinating Unit” means the administrative and operational organ of CDEMA;
 
-- „getroffen deelnemende staat”: een staat op het grondgebied waarvan een ramp heeft plaatsgevonden;
+“council” means the Organ of CDEMA referred to in [Article VI](https://wetten.overheid.nl/BWBV0006839);
 
-- „CARICOM”: de Caribische Gemeenschap;
+“disaster” means the exposure of the human habitat to the operation of the forces of nature or to human intervention resulting in widespread destruction of lives or property, but excludes events occasioned by war or military confrontation;
 
-- „CDEMA”: het Caribische Noodhulp Management Agentschap (Caribbean Disaster Emergency Management Agency), opgericht ingevolge [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=II&z=2024-06-04&g=2024-06-04);
+“disaster management” means the development and implementation of regional and national policies to prevent and mitigate the effects of disaster;
 
-- „CDERA”: het Caribisch Agentschap voor Spoedhulp bij Rampen (Caribbean Disaster Emergency Response Agency), een instantie van de Gemeenschap die erkend wordt ingevolge artikel 21 van het Verdrag van Chaguaramas;
+“Executive Director” means the Executive Director of CDEMA appointed under [Article VII](https://wetten.overheid.nl/BWBV0006839);
 
-- „coördinerende eenheid”: het administratief en operationeel orgaan van CDEMA;
+“Fund” means the Emergency Assistance Fund established under [Article XXVI](https://wetten.overheid.nl/BWBV0006839);
 
-- „raad”: het CDEMA-orgaan dat in artikel VI wordt bedoeld;
+“Management Committee of the Council or MCC” means the Committee established and appointed by the Council under [Article VII](https://wetten.overheid.nl/BWBV0006839);
 
-- „ramp”: de blootstelling van de menselijke habitat aan de invloed van natuurgeweld of aan menselijke ingrepen die resulteren in wijdverbreide verwoesting van levens of eigendommen, evenwel met uitsluiting van gebeurtenissen die veroorzaakt worden door oorlog of militaire confrontatie;
+“National Disaster Management Agency” means the government agency responsible for disaster management;
 
-- „rampenbeheersing”: het ontwikkelen en uitvoeren van regionaal en nationaal beleid om de gevolgen van rampen te voorkomen en te mitigeren;
+“Participating State” means a State Party to this Agreement;
 
-- „uitvoerend directeur”: de uitvoerend directeur van CDEMA benoemd overeenkomstig [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=VII&z=2024-06-04&g=2024-06-04);
+“requesting State” means a Participating State which has made a request under this Agreement;
 
-- „fonds”: het fonds voor noodhulp opgericht ingevolge [artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=XXVI&z=2024-06-04&g=2024-06-04);
+“sending State” means a Participating State which has responded to a request for assistance under this Agreement;
 
-- „comité van beheer van de raad of MCC”: het comité dat door de raad is ingesteld en benoemd ingevolge [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=VII&z=2024-06-04&g=2024-06-04);
+“State” includes a non-politically independent territory of the Caribbean;
 
-- „nationaal agentschap voor rampenbeheersing”: de overheidsinstantie die verantwoordelijk is voor rampenbeheersing;
+“TAC” means the Technical Advisory Committee referred to under [Article X](https://wetten.overheid.nl/BWBV0006839); and
 
-- „deelnemende staat”: een staat die partij is bij dit Verdrag;
+“Treaty” means the Revised Treaty of Chaguaramas establishing the Caribbean Community including the CARICOM Single Market and Economy (CSME) signed at Nassau, The Bahamas on the 5th day of July 2001.
 
-- „verzoekende staat”: een deelnemende staat die een verzoek heeft gedaan ingevolge dit Verdrag;
+##### Article II. Establishment of CDEMA
 
-- „zendstaat”: een deelnemende staat die heeft gereageerd op een verzoek dat ingevolge dit Verdrag wordt gedaan;
+The Caribbean Disaster Emergency Management Agency (CDEMA) is hereby established with the organs, membership, structure. and functions herein set forth.
 
-- „staat”: een niet-politiek onafhankelijk gebied in de Caribische regio;
+##### Article III. Legal personality
 
-- „TAC”: het technisch adviescomité bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=X&z=2024-06-04&g=2024-06-04); en
+1. CDEMA shall have international legal personality and such legal capacity as may be necessary for the exercise of its functions and the fulfillment of its objectives.
 
-- „Verdrag van Chaguaramas”: het Herziene Verdrag van Chaguaramas tot oprichting van de Caribische Gemeenschap, met inbegrip van de gemeenschappelijke markt en economie van de Caricom, ondertekend te Nassau, Bahama's, op 5 juli 2001.
+2. CDEMA and its staff shall enjoy all the usual rights, privileges and immunities of Agencies which have international legal personality.
 
-##### Artikel II. Oprichting van CDEMA
+##### Article IV. Membership
 
-Hierbij wordt het Caribische Noodhulp Management Agentschap (Caribbean Disaster Emergency Management Agency (CDEMA)) opgericht met de organen, het lidmaatschap, de structuur en taken vervat in dit Verdrag.
+Membership of CDEMA shall be open to:
 
-##### Artikel III. Rechtspersoonlijkheid
+- a) the States and territories listed in the Annex; and
 
-1. CDEMA bezit internationale rechtspersoonlijkheid en beschikt over de handelingsbevoegdheid die nodig is voor het uitoefenen van zijn taken en het verwezenlijken van zijn doelstellingen.
+- b) other States within the Caribbean Region recommended for membership by the MCC under [Article XXXIX](https://wetten.overheid.nl/BWBV0006839).
 
-2. CDEMA en zijn medewerkers genieten alle gebruikelijke rechten, voorrechten en immuniteiten van agentschappen met internationale rechtspersoonlijkheid.
+##### Article V. Objectives
 
-##### Artikel IV. Lidmaatschap
+CDEMA shall have the following objectives:
 
-Het lidmaatschap van CDEMA staat open voor:
+- a) mobilising and coordinating disaster relief;
 
-- a. de staten en grondgebieden die vermeld staan in de Bijlage; en
+- b) mitigating or eliminating, as far as practicable, the immediate consequences of disasters in Participating States;
 
-- b. andere staten in de Caribische regio die door het MCC uit hoofde van [artikel XXXIX](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=XXXIX&z=2024-06-04&g=2024-06-04) worden voorgedragen voor lidmaatschap.
+- c) providing immediate and coordinated response by means of emergency disaster relief to any affected Participating State;
 
-##### Artikel V. Doelstellingen
+- d) securing, coordinating and providing to interested inter-governmental and non-governmental organisations reliable and comprehensive information on disasters affecting any Participating State;
 
-CDEMA heeft de volgende doelstellingen:
+- e) encouraging:
 
-- a. mobiliseren en coördineren van noodhulp bij rampen;
+   - (i) the adoption of disaster loss reduction and mitigation policies and practices at the national and regional level;
 
-- b. mitigeren of wegnemen, voor zover praktisch uitvoerbaar, van de onmiddellijke gevolgen van rampen in de deelnemende staten;
+   - (ii) cooperative arrangements and mechanisms to facilitate the development of a culture of disaster loss reduction; and
 
-- c. geven van een onmiddellijke en gecoördineerde reactie door middel van noodhulp bij rampen voor elke getroffen deelnemende staat;
+- f) coordinating the establishment, enhancement and maintenance of adequate emergency disaster response capabilities among the Participating States.
 
-- d. betrouwbare en uitgebreide informatie over rampen die een deelnemende staat treffen, bemachtigen, coördineren en aanbieden aan geïnteresseerde intergouvernementele en niet-gouvernementele organisaties;
+##### Article VI. Organs of CDEMA
 
-- e. bevorderen van:
+CDEMA shall have the following Organs with the functions specified in this Agreement:
 
-- i. het aannemen van beleid en praktijken voor het verminderen en mitigeren van verliezen na rampen, op nationaal en regionaal niveau;
+- a) The Council;
 
-- ii. samenwerkingsregelingen en -mechanismen om de ontwikkeling te bevorderen van een cultuur waarin verliezen als gevolg van rampen worden beperkt; en
+- b) The Technical Advisory Committee; and
 
-- f. coördineren van het opzetten, verbeteren en in stand houden van adequate faciliteiten voor noodhulp bij rampen in de deelnemende staten.
+- c) The Coordinating Unit.
 
-##### Artikel VI. Organen van CDEMA
+##### Article VII. The council
 
-CDEMA heeft de volgende organen met de taken omschreven in dit Verdrag:
+1. The Council shall consist of the Heads of Government of the Participating States.
 
-- a. de raad;
+2. Each member of the Council shall be entitled to nominate any other competent person to represent that member at meetings of the Council.
 
-- b. het technisch adviescomité; en
+3. The Council shall meet in ordinary session at least once in every calendar year and shall convene in extraordinary sessions at the request of three quarters of the Participating States.
 
-- c. de coördinerende eenheid.
+4. The Chairperson and Deputy Chairperson shall be elected from among members of the Council.
 
-##### Artikel VII. De raad
+5. The Chairperson shall preside over the meetings of the Council and the MCC.
 
-1. De raad bestaat uit de regeringsleiders van de deelnemende staten.
+6. The Chairperson and Deputy Chairperson shall serve for a period of one year and shall be eligible for re-election.
 
-2. Elk lid van de raad is gerechtigd een andere bevoegde persoon voor te dragen om dit lid te vertegenwoordigen bij vergaderingen van de raad.
+7. In the absence of the Chairperson, the Deputy Chairperson shall preside over meetings of the Council and the MCC.
 
-3. De raad komt ten minste eenmaal per kalenderjaar in gewone zitting bijeen en houdt buitengewone zittingen indien driekwart van de deelnemende staten daarom verzoekt.
+8. In the absence of both the Chairperson and the Deputy Chairperson, the Members of the Council present may elect any member to act in the position of Chairperson.
 
-4. De voorzitter en vicevoorzitter worden gekozen uit de leden van de raad.
+9. The Council shall regulate its own procedure.
 
-5. De voorzitter zit de vergaderingen van de raad en het MCC voor.
+##### Article VIII. Functions of the Council
 
-6. De voorzitter en vicevoorzitter bekleden deze functie gedurende een jaar en kunnen worden herkozen.
+The Council shall:
 
-7. Bij afwezigheid van de voorzitter, zit de vicevoorzitter de vergaderingen van de raad en het MCC voor.
+- a) determine the policies of CDEMA;
 
-8. Bij afwezigheid van zowel de voorzitter als de vicevoorzitter, kunnen de aanwezige leden van de raad een lid kiezen die als voorzitter zal optreden.
+- b) receive and approve the annual budget and the contribution of the Participating States to CDEMA;
 
-9. De raad stelt haar eigen reglement van orde op.
+- c) designate national disaster and disaster management organizations as Sub-Regional Disaster Emergency Operational Units with the prior consent of the Governments of the Participating States involved;
 
-##### Artikel VIII. Taken van de raad
+- d) appoint the Executive Director on the recommendation of the MCC;
 
-De raad:
+- e) consider and make decisions based on the recommendations of the TAC;
 
-- a. bepaalt het beleid van CDEMA;
+- f) perform any other function as it deems necessary or expedient to achieve the objectives of this Agreement.
 
-- b. neemt de jaarbegroting en de bijdragen van de deelnemende staten van CDEMA in ontvangst en keurt deze goed;
+##### Article IX. Management Committee of the Council
 
-- c. wijst nationale rampenbestrijdings- en rampenbeheersingsorganisaties aan als subregionale operationele eenheden voor noodhulp, met voorafgaande toestemming van de regeringen van de betrokken deelnemende staten;
+1. There shall be established a Management Committee of the Council whose members shall be appointed by the Council.
 
-- d. benoemt de uitvoerend directeur op aanbeveling van het MCC;
+2. The membership of the MCC shall comprise:
 
-- e. neemt aanbevelingen van het TAC in overweging en neemt op basis daarvan besluiten;
+- (i) four persons, each representing one of the sub-regions of CDEMA, one of whom shall be Chairperson of the Council;
 
-- f. voert elke andere taak uit die zij nodig of wenselijk acht om de doelstellingen van dit Verdrag te verwezenlijken.
+- (ii) the Chairperson of the TAC; and
 
-##### Artikel IX. Comité van beheer van de raad
+- (iii) the executive Director.
 
-1. Er wordt een comité van beheer van de raad (MCC) opgericht waarvan de leden door de raad worden benoemd.
+3. The Terms of Reference of the MCC shall be determined by the Council.
 
-2. Het MCC bestaat uit de volgende leden:
+##### Article X. The Technical Advisory Committee
 
-- i. vier personen, die elk een van de subregio's van CDEMA vertegenwoordigen; een van hen wordt de voorzitter van de raad;
+1. The Technical Advisory Committee shall consist of the national disaster coordinators of the Participating States.
 
-- ii. de voorzitter van het TAC; en
+2. Notwithstanding paragraph 1, persons may be selected by the TAC from regional institutions engaged in activities related to disaster management to participate in meetings of the TAC.
 
-- iii. de uitvoerend directeur.
+3. The Chairperson of the TAC shall be elected from amongst its members and shall not be elected to serve as Chairperson for more than two consecutive terms.
 
-3. Het mandaat van het MCC wordt vastgesteld door de raad.
+5. The Chairperson shall convene the meetings of the TAC which shall meet at least once in every calendar year and convene extraordinary meetings at the request of not less than one-half of its members.
 
-##### Artikel X. Het technisch adviescomité
+6. The Executive Director shall be the Secretary of the TAC.
 
-1. Het technisch adviescomité (TAC) bestaat uit de nationale coördinatoren rampenbestrijding van de deelnemende staten.
+7. The TAC shall regulate its own procedure.
 
-2. Niettegenstaande het eerste lid mag het TAC voor deelname aan zijn vergaderingen personen selecteren uit regionale instellingen die zich bezighouden met activiteiten op het gebied van rampenbeheersing.
+##### Article XI. Functions of the Technical Advisory Committee
 
-3. De voorzitter van het TAC wordt gekozen uit de leden ervan en mag ten hoogste twee achtereenvolgende termijnen als voorzitter fungeren.
+The TAC shall:
 
-5. De voorzitter roept de vergaderingen van het TAC bijeen. Het TAC komt ten minste eenmaal per kalenderjaar bijeen en houdt op verzoek van ten minste de helft van zijn leden een buitengewone vergadering.
+- a) act in an advisory capacity to CDEMA on matters relating to strategies for resource mobilization, work programme review and programme development;
 
-6. De uitvoerend directeur is de secretaris van het TAC.
+- b) recommend standards and procedures for the fair and equitable deployment of resources for disaster management made available by Participating States;
 
-7. Het TAC stelt zijn eigen reglement van orde op.
+- c) recommend the standards and procedures for triggering the disaster response mechanism;
 
-##### Artikel XI. Taken van het technisch adviescomité
+- d) develop and recommend procedures for mobilising national resources to provide assistance in a timely and efficacious manner;
 
-Het TAC:
+- e) recommend guidelines for establishing systems for maintaining and sharing inventories of critical resources likely to be needed by Participating States in the event of a disaster;
 
-- a. treedt op in de hoedanigheid van adviseur van CDEMA bij zaken die verband houden met strategieën voor het mobiliseren van middelen, het evalueren van werkprogramma's en het ontwikkelen van programma's;
+- f) make recommendations for the rapid access of financial resources to cover the cost of mobilisation in the event of disaster in a Participating State;
 
-- b. doet aanbevelingen voor normen en procedures voor de eerlijke en rechtvaardige inzet van middelen voor rampenbeheersing die door de deelnemende staten ter beschikking worden gesteld;
+- g) recommend protocols to facilitate the movement of resources originating in or transiting in a Participating State having regard to the requirements of immigration and customs authorities;
 
-- c. doet aanbevelingen voor normen en procedures voor het in werking stellen van het rampenbestrijdingsmechanisme;
+- h) recommend and regularly review pro forma lists of the likely requirements of Participating States in the event of disasters;
 
-- d. ontwikkelt en doet aanbevelingen voor procedures voor het mobiliseren van nationale middelen om tijdig en doelmatig bijstand te bieden;
+- i) advise CARICOM institutions and national institutions on matters relevant to its functions;
 
-- e. doet aanbevelingen voor richtlijnen voor het instellen van systemen voor het bijhouden en delen van lijsten van kritische middelen die deelnemende staten naar verwachting nodig hebben wanneer zich een ramp voordoet;
+- j) forward its recommendations to the Council for its consideration; and
 
-- f. doet aanbevelingen voor snelle toegang tot financiële middelen om de kosten van mobilisatie te dekken die een deelnemende staat heeft wanneer zich een ramp voordoet;
+- k) perform such other functions as the Council may determine.
 
-- g. doet aanbevelingen voor protocollen om de verplaatsing van middelen die afkomstig zijn van of worden doorgevoerd door een deelnemende staat te vergemakkelijken, rekening houdend met de eisen van de immigratie- en douaneautoriteiten;
+##### Article XII. The Headquarters of the Coordinating Unit
 
-- h. doet aanbevelingen voor en evalueert regelmatig pro-formalijsten van zaken die deelnemende staten waarschijnlijk nodig hebben wanneer zich een ramp voordoet;
+The Coordinating Unit shall have its headquarters where the Council decides.
 
-- i. adviseert CARICOM-instanties en nationale instanties over zaken die relevant zijn voor zijn taken;
+##### Article XIII. Functions of the Coordinating Unit
 
-- j. stuurt zijn aanbevelingen ter behandeling naar de raad; en
+1. In addition to any other functions which the Council may specify, the Coordinating Unit shall:
 
-- k. voert alle andere taken uit die de raad kan vaststellen.
+- a) develop and maintain a reliable damage assessment system and procedures to facilitate rapid and effective evaluation of national disasters;
 
-##### Artikel XII. Het hoofdkwartier van de coördinerende eenheid
+- b) develop and maintain a comprehensive and reliable data base of all relevant resources necessary to achieve the objectives of CDEMA and a system for updating the database;
 
-De coördinerende eenheid heeft haar hoofdkwartier op de locatie waartoe de raad besluit.
+- c) establish, equip and maintain a coordinated emergency operations system capable of responding to emergency situations;
 
-##### Artikel XIII. Taken van de coördinerende eenheid
+- d) establish and maintain an efficient and reliable system of communications with sub-regional operational focal points in order to facilitate the mobilisation, deployment and coordination of disaster response supplies and services;
 
-1. In aanvulling op andere taken die de raad kan specificeren verricht de coördinerende eenheid de volgende taken:
+- e) establish and maintain a reliable system of communications with the heads of national disaster management Agencies and ensure that their disaster response capabilities are maintained at agreed levels of operational efficiency;
 
-- a. ontwikkelen en onderhouden van een betrouwbaar schadebeoordelingssysteem en procedures voor het vergemakkelijken van een snelle en effectieve evaluatie van nationale rampen;
+- f) establish arrangements with regional media houses designed to ensure the dissemination of reliable information on national disasters to the public;
 
-- b. ontwikkelen en onderhouden van een uitgebreide en betrouwbare database van alle relevante middelen die nodig zijn om de doelstellingen van CDEMA te verwezenlijken en een systeem voor het actualiseren van de database;
+- g) establish arrangements with the CARICOM Committee of Ambassadors in the metropolitan centres in order to ensure the dissemination to them of reliable information on national disasters in Participating States and their cooperation in mobilising disaster relief resources on a timely and structured basis;
 
-- c. opzetten, uitrusten en onderhouden van een systeem voor gecoördineerde hulpoperaties waarmee op noodsituaties kan worden gereageerd;
+- h) establish arrangements with regional airlines and shipping lines in order to ensure access to their facilities on a priority basis in the event of a disaster;
 
-- d. opzetten en onderhouden van een efficiënt en betrouwbaar systeem voor communicatie met subregionale operationele contactpunten om de mobilisatie, inzet en coördinatie van voorraden en diensten voor rampenbestrijding te vergemakkelijken;
+- i) establish and maintain relations with international relief organisations in order to facilitate accessing their resources in the event of a disaster;
 
-- e. opzetten en onderhouden van een betrouwbaar systeem voor communicatie met de hoofden van de nationale agentschappen voor rampenbeheersing en waarborgen dat hun vermogen op rampen te reageren op het afgesproken operationele niveau blijft;
+- j) mobilise and organise technical assistance from interested national and international bodies to assist in the development of the disaster response capabilities of Participating States;
 
-- f. afspraken maken met regionale mediaorganisaties om te waarborgen dat er betrouwbare informatie over nationale rampen wordt gegeven aan het publiek;
+- k) provide a clearing house for relevant information and intelligence in all matters relating to disasters including current research being undertaken in all related regional institutions;
 
-- g. afspraken maken met het comité van ambassadeurs van CARICOM in de stedelijke centra om te waarborgen dat zij betrouwbare informatie krijgen over nationale rampen in de deelnemende staten en dat zij hun medewerking verlenen aan het tijdig en gestructureerd mobiliseren van hulpmiddelen voor de rampenbestrijding;
+- l) on the basis of a distress call or on such other request as may be agreed after consultation with Sub-Regional Disaster Response Operational Units be capable of triggering the mechanism;
 
-- h. afspraken maken met regionale luchtvaart- en scheepvaartmaatschappijen om prioritaire toegang tot hun faciliteiten te waarborgen wanneer zich een ramp voordoet;
+- m) provide assistance on request to the heads of national disaster management Agencies in the event of a disaster;
 
-- i. aanknopen en onderhouden van betrekkingen met internationale hulporganisaties om toegang tot hun middelen te vergemakkelijken wanneer zich een ramp voordoet;
+- n) on request liaise with the disciplined forces of sending States both in the planning and response stage of any operation mounted after the activation of the triggering mechanism;
 
-- j. mobiliseren en organiseren van technische bijstand van belanghebbende nationale en internationale instanties die willen bijdragen aan de ontwikkeling van de mogelijkheden tot rampenbestrijding van de deelnemende staten;
+- o) assist in the development of comprehensive disaster management capabilities and review periodically the disaster response capabilities of Participating States giving due consideration to the availability of resources for immediate and timely response to disaster situations;
 
-- k. fungeren als een uitwisselingscentrum voor relevante informatie en inlichtingen bij alle zaken die betrekking hebben op rampen, met inbegrip van onderzoek dat op dat moment wordt uitgevoerd in alle betreffende regionale instellingen;
+- p) establish collaborative arrangements and mechanisms with regional disaster management stakeholders to promote disaster loss reduction; and
 
-- l. op basis van een noodoproep of een ander soort verzoek waartoe kan worden besloten na overleg met de subregionale operationele eenheden bij noodsituaties, de mogelijkheid hebben het mechanisme in werking te stellen;
+- q) prepare the administrative and emergency budgets of CDEMA for submission to the MCC.
 
-- m. bieden van bijstand op verzoek van de hoofden van de nationale agentschappen voor rampenbeheersing wanneer zich een ramp voordoet;
+2. The Coordinating Unit shall have the following programming areas:
 
-- n. op verzoek contacten onderhouden met de geüniformeerde troepen van de zendstaten in zowel de plannings- als uitvoeringsfase van een operatie die wordt opgezet na de inwerkingtreding van het mechanisme;
+- a) education, research and information;
 
-- o. helpen bij de ontwikkeling van uitgebreide rampenbeheersingsmogelijkheden en periodiek toetsen van de rampenbestrijdingsmogelijkheden van de deelnemende staten, met de nodige aandacht voor de beschikbaarheid van middelen voor het onmiddellijk en tijdig reageren op noodsituaties;
+- b) finance and administration;
 
-- p. instellen van samenwerkingsregelingen en -mechanismen met belanghebbenden bij regionale rampenbeheersing teneinde het beperken van verliezen bij rampen te bevorderen; en
+- c) preparedness and response;
 
-- q. opstellen van administratieve en noodhulpbegrotingen van CDEMA die aan het MCC worden voorgelegd.
+- d) mitigation and research; and
 
-2. De coördinerende eenheid heeft de volgende programmagebieden:
+- e) any other programming area, which the Council may determine.
 
-- a. onderwijs, onderzoek en informatie;
+##### Article XIV. Executive Director
 
-- b. financiering en administratie;
+1. There shall be an Executive Director who shall manage the Coordinating Unit and be the Chief Executive Officer of CDEMA.
 
-- c. voorbereiding en bestrijding;
+2. The Executive Director shall be appointed for a term not exceeding three years and is eligible for reappointment.
 
-- d. mitigatie en onderzoek; en
+3. A Deputy Executive Director shall be appointed by the MCC on the recommendation of the Executive Director for a term not exceeding three years and is eligible for reappointment.
 
-- e. elk ander programmagebied dat de raad kan bepalen.
+4. The Executive Director and the Deputy Executive Director shall be appointed from among persons with experience in matters relating to emergency relief operations, social welfare and management.
 
-##### Artikel XIV. Uitvoerend directeur
+##### Article XV. Responsibilities of the Executive Director
 
-1. Er is een uitvoerend directeur die leiding geeft aan de coördinerende eenheid en die de hoogste functionaris van CDEMA is.
+1. The Executive Director shall have the following responsibilities:
 
-2. De uitvoerend directeur wordt benoemd voor een termijn van ten hoogste drie jaar en kan worden herbenoemd.
+- a) implementing the policies of CDEMA;
 
-3. Een plaatsvervangend uitvoerend directeur wordt door het MCC op voordracht van de uitvoerend directeur benoemd voor een termijn van ten hoogste drie jaar, en kan worden herbenoemd.
+- b) the administration and coordination of activities and programmes of CDEMA;
 
-4. De uitvoerend directeur en de plaatsvervangend uitvoerend directeur worden benoemd uit personen met ervaring op gebieden die verband houden met noodhulpoperaties, sociaal welzijn en management.
+- c) the control of the revenue and expenditure of CDEMA as approved by the Council;
 
-##### Artikel XV. Verantwoordelijkheden van de uitvoerend directeur
+- d) the creation and implementation of special programmes and projects where necessary;
 
-1. De uitvoerend directeur heeft de volgende verantwoordelijkheden:
+- e) ensuring that correct procedures are followed with respect to all matters within the competence of CDEMA;
 
-- a. uitvoeren van het beleid van CDEMA;
+- f) prepare an administrative budget biennially;
 
-- b. administratie en coördinatie van activiteiten en programma's van CDEMA;
+- g) cause the accounts of CDEMA and the Fund to be audited annually by external auditors approved by the MCC;
 
-- c. beheren van de opbrengsten en uitgaven van CDEMA zoals goedgekeurd door de raad;
+- h) submit annually the audited financial report of CDEMA and the Fund and the budget of CDEMA to the Council for its consideration;
 
-- d. opzetten en uitvoeren van speciale programma's en projecten wanneer nodig;
+- i) submit an annual report to the Council on the work of CDEMA;
 
-- e. waarborgen dat de juiste procedures worden gevolgd bij alle aangelegenheden die binnen de bevoegdheden van CDEMA vallen;
+- j) appoint the staff of the Coordinating Unit except the Deputy Executive Director;
 
-- f. om de twee jaar opstellen van een administratieve begroting;
+- k) subject to the approval of the MCC, the determination of the terms and conditions of service of the staff of the Coordinating Unit; and
 
-- g. ervoor zorgen dat de rekeningen van CDEMA en het fonds jaarlijks worden gecontroleerd door externe accountants die door het MCC zijn goedgekeurd;
+- l) the performance of any other function or duty in pursuance of the objectives of CDEMA.
 
-- h. jaarlijks bij de raad ter behandeling indienen van het gecontroleerde financieel verslag van CDEMA en het fonds en de begroting van CDEMA;
+2. In the performance of their duties the Executive Director and staff of CDEMA shall seek to maintain their independence and shall not engage in any activity or function in a manner which would compromise the functional independence of CDEMA.
 
-- i. indienen van een jaarverslag over het werk van CDEMA bij de raad;
+##### Article XVI. Sub-Regional Disaster Emergency Response Operational Units
 
-- j. benoemen van de medewerkers van de coördinerende eenheid, met uitzondering van de plaatsvervangend uitvoerend directeur;
+1. Where, pursuant to paragraph (e) of [Article VII](https://wetten.overheid.nl/BWBV0006839), the Council has designated Sub-Regional Disaster Emergency Response Operational Units, such bodies shall:
 
-- k. vaststellen van de arbeidsvoorwaarden van de medewerkers van de coördinerende eenheid, onder voorbehoud van goedkeuring door het MCC;
+- a) acquire and maintain on an updated basis comprehensive information on the facilities and services available in each of the Participating States for which they have responsibility;
 
-- l. uitvoeren van elke andere taak of opdracht ten behoeve van het verwezenlijken van de doelstellingen van CDEMA.
+- b) maintain and test on a regular basis communications with the Coordinating Unit and with critical response agencies under the control of national relief organisations;
 
-2. Bij het uitvoeren van hun taken streven de uitvoerend directeur en de medewerkers van CDEMA ernaar hun onafhankelijkheid te behouden en zich niet bezig te houden met activiteiten of taken op een wijze die de functionele onafhankelijkheid van CDEMA in gevaar zou brengen.
+- c) maintain independent fuel and power supplies and ensure that relevant physical facilities are in a condition to withstand a major disaster; and
 
-##### Artikel XVI. Subregionale operationele eenheden voor noodhulp
+- d) keep and maintain at the operational focal point in serviceable and optimal working condition an equipment package containing essential items recommended by the TAC.
 
-1. Wanneer, ingevolge [artikel VII, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=VII&z=2024-06-04&g=2024-06-04)1)[Red.] Kennelijk wordt hier artikel VIII, onderdeel c bedoeld., de raad subregionale operationele eenheden voor noodhulp heeft aangewezen, hebben deze eenheden de volgende taken:
+2. In making a designation referred to in paragraph 1 of this Article, the Council shall identify the States for which the Sub-Regional Disaster Response Operational Unit concerned shall have responsibility.
 
-- a. verwerven, bijhouden en actualiseren van uitgebreide informatie over de faciliteiten en diensten die beschikbaar zijn in elk van de deelnemende staten waarvoor zij verantwoordelijkheid dragen;
+##### Article XVII. The administrative budget
 
-- b. onderhouden en regelmatig testen van de communicatie met de coördinerende eenheid en met cruciale agentschappen die onder leiding staan van nationale noodhulporganisaties;
+1. CDEMA shall establish an administrative budget, the funds of which shall be used to defray the ordinary expenses incurred in administering its affairs.
 
-- c. onderhouden van een onafhankelijke brandstof- en stroomtoevoer en waarborgen dat alle relevante fysieke faciliteiten in een zodanig staat verkeren dat ze een grote ramp kunnen doorstaan; en
+2. Participating States shall contribute to the administrative budget in accordance with a scale of assessment recommended by the MCC and approved by the Council.
 
-- d. op het operationeel contactpunt bewaren en onderhouden van een bruikbaar en in optimale staat gehouden uitrustingspakket met essentiële items die door het TAC zijn aangeraden.
+3. A Participating State whose economy has been severely affected by a natural disaster may request a waiver of assessed contributions to the budget of CDEMA.
 
-2. Bij de aanwijzing bedoeld in het eerste lid van dit artikel, wijst de raad de staten aan waarvoor de subregionale operationele eenheden voor noodhulp verantwoordelijk zijn.
+4. The Executive Director, with the approval of the Council, shall establish financial regulations for CDEMA and the Fund in accordance with international accounting standards.
 
-##### Artikel XVII. De administratieve begroting
+##### Article XVIII. Emergency Assistance Fund
 
-1. CDEMA stelt een administratieve begroting op waarvan de fondsen gebruikt worden voor de financiering van de gebruikelijke uitgaven voor het regelen van zijn zaken.
+1. CDEMA shall establish an Emergency Assistance Fund (hereinafter referred to as “the Fund”) which shall be used solely to defray expenses incurred in connection with the rendering of assistance in the event of a disaster occurring in a Participating State.
 
-2. Deelnemende staten dragen bij aan de administratieve begroting in overeenstemming met een contributieschaal die door het MCC wordt voorgesteld en door de raad wordt goedgekeurd.
+2. Participating States shall contribute to the Fund in accordance with a scale of assessment recommended by the MCC and approved by the Council.
 
-3. Een deelnemende staat waarvan de economie ernstig getroffen is door een natuurramp kan vragen om een vrijstelling van de vastgestelde bijdragen aan de begroting van CDEMA.
+3. A Participating State whose economy has been severely affected by a natural disaster may request a waiver of assessed contributions to the budget of the Fund.
 
-4. De uitvoerend directeur stelt, met goedkeuring van de raad, het financieel reglement van CDEMA en het fonds op in overeenstemming met internationale boekhoudnormen.
+4. The Executive Director may accept contributions to the Fund from external sources on such conditions as may be prescribed by them and agreed by the MCC for the benefit of all Participating States.
 
-##### Artikel XVIII. Noodhulpfonds
+##### Article XIX. Undertakings of Participating States
 
-1. CDEMA stelt een noodhulpfonds in (hierna te noemen „het fonds”) dat uitsluitend wordt gebruikt voor het betalen van uitgaven die gemaakt worden in verband met het verlenen van bijstand wanneer er zich een ramp voordoet in een deelnemende staat.
+Without prejudice to the requirement to discharge any other obligations assumed under or in connection with this Agreement, Participating States undertake to:
 
-2. Deelnemende staten dragen bij aan het fonds in overeenstemming met een contributieschaal die door het MCC wordt voorgesteld en door de raad wordt goedgekeurd.
+- a) establish and maintain, as the case may be, national relief organizations capable of responding swiftly, effectively and in a coordinated manner to disasters in Participating States;
 
-3. Een deelnemende staat waarvan de economie ernstig getroffen is door een natuurramp kan vragen om een vrijstelling van de vastgestelde bijdragen aan de begroting van het fonds.
+- b) establish emergency disaster planning groups and define national policies and priorities in the event of disasters;
 
-4. De uitvoerend directeur kan bijdragen van externe bronnen aan het fonds aanvaarden op voorwaarden die zij kunnen stellen en die door het MCC zijn goedgekeurd ten behoeve van alle deelnemende staten.
+- c) provide national disaster management agencies with adequate support including named emergency coordinators, liaison officers within key government Ministries, emergency support services and access to utilities;
 
-##### Artikel XIX. Verplichtingen van de deelnemende staten
+- d) ensure that national disaster management agencies and their coordinators have specific functions and responsibilities to ensure the development of an adequate response capability to support adequate responses to national disasters;
 
-Onverminderd het vereiste om andere verplichtingen die uit hoofde van of in verband met dit Verdrag zijn aangegaan na te komen, verplichten de deelnemende staten zich ertoe:
+- e) define the role and functions of key agencies including the Security Services, Health and Public Works in disaster emergency response management and establish a system for regular review of their procedures to ensure coordinated response;
 
-- a. nationale hulporganisaties op te richten en in stand te houden, naargelang van het geval, die in staat zijn snel, effectief en op gecoördineerde wijze te reageren op rampen in de deelnemende staten;
+- f) establish and equip a suitable emergency operations centre capable of handling emergency telecommunications and coordinating emergency response involving relevant services;
 
-- b. planningsgroepen voor noodsituaties op te richten en nationaal beleid en nationale prioriteiten vast te stellen wanneer zich een ramp voordoet;
+- g) develop and maintain an emergency telecommunications system based on the most appropriate technology to ensure the coordination of emergency operations among stakeholders;
 
-- c. nationale agentschappen voor rampenbeheersing op te richten met voldoende ondersteuning, waaronder met name genoemde rampenbeheersingscoördinatoren, liaison officers binnen belangrijke ministeries, ondersteuningsdiensten en toegang tot nutsvoorzieningen;
+- h) establish and strengthen procedures for coping with major disaster threats and maintain review systems for testing the procedures through drills and simulations;
 
-- d. te waarborgen dat nationale agentschappen voor rampenbeheersing en hun coördinatoren specifieke functies en verantwoordelijkheden hebben om te verzekeren dat er voldoende capaciteit wordt opgebouwd om een adequate reactie te kunnen ondersteunen bij nationale rampen;
+- i) review and rationalize legal arrangements for disaster mitigation and emergency action;
 
-- e. de rol en taken vast te leggen van belangrijke instanties, zoals de veiligheids- en gezondheidsdiensten en openbare werken, bij rampenbeheersing in noodsituaties en een systeem op te zetten voor het regelmatig herzien van hun procedures teneinde een gecoördineerde reactie te waarborgen;
+- j) review and catalogue past disaster events and list credible future emergency responses and identify and map areas with special problems and peculiarities such as flood or landslide prone areas;
 
-- f. een geschikt operationeel centrum op te zetten en uit te rusten waar telecommunicatie in noodsituaties kan worden afgehandeld en de hulpverlening van de relevante diensten kan worden gecoördineerd;
+- k) establish data bases of key resources, both human and material, and a system for keeping them current and to computerize and integrate them into an automated emergency information system;
 
-- g. een noodtelecommunicatiesysteem te ontwikkelen en te onderhouden gebaseerd op de meest geschikte technologie teneinde de coördinatie tussen de belanghebbenden van de noodoperaties te waarborgen;
+- l) develop, in collaboration with competent governmental agencies, an emergency shelter policy and programme involving the full participation of local officials from community-based organizations;
 
-- h. procedures in te stellen en te versterken voor het omgaan met de dreiging van ernstige rampen en toetsingsystemen in stand te houden voor het testen van procedures door middel van oefeningen en simulaties;
+- m) develop and review a system for community participation, local mobilisation and counter disaster action in the event of isolation;
 
-- i. juridische regelingen voor rampenmitigatie en noodmaatregelen te toetsen en te rationaliseren;
+- n) develop strategies for loss reduction in the public and private sectors focusing on vital economic activities and critical facilities;
 
-- j. eerdere rampen te evalueren en te catalogiseren en een lijst te maken van realistische manieren om op toekomstige rampen te reageren en gebieden met bijzondere problemen en kenmerken, zoals gebieden die een groter risico lopen op overstromingen of aardverschuivingen, te identificeren en in te kaart brengen;
+- o) develop a system and procedures for damage assessment in order to facilitate rapid and effective post impact evaluation;
 
-- k. databases met belangrijke hulpmiddelen, zowel mensen als materieel, en een systeem om deze actueel te houden op te zetten en deze langs digitale weg op te nemen in geautomatiseerde informatiesystemen voor noodsituaties;
+- p) develop and implement a comprehensive disaster public awareness, information and education programme involving media houses, schools, voluntary agencies and other institutions in order to ensure public participation and community involvement in the disaster management system;
 
-- l. in samenwerking met bevoegde overheidsinstanties, beleid en programma's voor noodopvang te ontwikkelen, waarbij lokale functionarissen uit gemeenschapsorganisaties volledig betrokken worden;
+- q) develop and implement appropriate training programmes for persons involved in the disaster management system;
 
-- m. een systeem te ontwikkelen en te toetsen voor deelname van de gemeenschap, lokale mobilisatie en maatregelen om rampen tegen te gaan in het geval van isolement;
+- r) identify and seek participation in bilateral and multilateral technical cooperation programmes designed to develop disaster management capabilities;
 
-- n. strategieën te ontwikkelen voor het beperken van verliezen in de publieke en private sector, waarbij de focus ligt op vitale economische activiteiten en vitale faciliteiten;
+- s) identify and maintain in a state of readiness and make available immediately on request by the Executive Director relevant material and human resources in the event of disaster.
 
-- o. een systeem en procedures voor schadebeoordeling te ontwikkelen om een snelle en effectieve evaluatie achteraf mogelijk te maken;
+##### Article XX. Relations with Government and Non-Governmental Institutions
 
-- p. een uitbreid programma voor bewustwording, informatie en educatie van het publiek op het gebied van rampen te ontwikkelen en te implementeren, waarbij mediaorganisaties, scholen, vrijwilligers en andere instellingen betrokken worden om deelname en betrokkenheid van burgers en de gemeenschap bij rampenbeheersing te verzekeren;
+1. CDEMA may conclude agreements with Governmental, Inter Governmental and Non-Governmental Organizations or Agencies in order to achieve its objectives.
 
-- q. geschikte trainingsprogramma’s voor personen die betrokken zijn bij het rampenbeheersingsprogramma te ontwikkelen en te implementeren;
+2. Unless the Council decides otherwise, the Executive Director may negotiate and conclude such Agreements on behalf of CDEMA.
 
-- r. deelnemers aan bilaterale en multilaterale programma's voor technische samenwerking gericht op het ontwikkelen van capaciteiten op het gebied van rampenbeheersing te identificeren en uit te nodigen;
+##### Article XXI. Disciplined forces
 
-- s. relevante materiële middelen en menselijke hulpbronnen te identificeren en in staat van paraatheid te houden, die op verzoek van de uitvoerend directeur onmiddellijk beschikbaar worden gesteld wanneer zich een ramp voordoet.
+1. Where, in response to a request for assistance by any affected Participating State, members of the disciplined forces of another Participating State are despatched to any part of the territory of the requesting State, the Executive Director shall, subject to the express prior agreement of the competent authorities of the requesting State, designate a Special Coordinator from among the senior officers of such forces acting after consultation with the Chiefs of Staff or Commanding Officers of the disciplined forces concerned.
 
-##### Artikel XX. Betrekkingen met gouvernementele en niet-gouvernementele instellingen
+2. The Special Coordinator shall be charged with responsibility for coordinating the disaster relief efforts of the disciplined forces in the affected Participating State.
 
-1. CDEMA kan overeenkomsten sluiten met gouvernementele, intergouvernementele en niet-gouvernementele organisaties of agentschappen om zijn doelen te verwezenlijken.
+3. No member of the disciplined forces of a Participating State shall be despatched to the territory of an affected Participating State without the express prior consent of that State.
 
-2. Tenzij de raad anderszins besluit, kan de uitvoerend directeur namens CDEMA over deze overeenkomsten onderhandelen en deze sluiten.
+4. In the absence of a contrary agreement between the requesting State and the sending State to that effect, members of the disciplined forces of the sending State shall be under the control and disciplinary authority of their commanding officer.
 
-##### Artikel XXI. Geüniformeerde troepen
+##### Article XXII. Direction and control of assistance
 
-1. Wanneer, in antwoord op een verzoek om bijstand van een getroffen deelnemende staat, leden van de geüniformeerde troepen van een andere deelnemende staat naar enig deel van het grondgebied van de verzoekende staat worden gezonden, wijst de uitvoerend directeur, met inachtneming van de uitdrukkelijke voorafgaande toestemming van de bevoegde autoriteiten van de verzoekende staat, een speciale coördinator aan uit de leidinggevende officieren van dergelijke troepen na raadpleging van de leiding of bevelvoerende officieren van de betreffende geüniformeerde troepen.
+1. Subject to paragraph 2, the overall direction, control, coordination and supervision of assistance despatched to a requesting State shall be the responsibility within its territory, of the requesting State.
 
-2. De speciale coördinator wordt belast met de taak de noodhulp te coördineren die geleverd wordt door de geüniformeerde troepen in de getroffen deelnemende staat.
+2. Where the assistance from a sending State involves personnel other than disciplined forces, the sending State shall designate in consultation with the requesting State the person who should be in charge of, and retain immediate operational supervision over the personnel, equipment and supplies provided by it. The person so designated shall exercise such supervision in cooperation with the competent authorities of the requesting State.
 
-3. Er worden geen leden van de geüniformeerde troepen van een deelnemende staat gezonden naar het grondgebied van een getroffen deelnemende staat zonder de uitdrukkelijke voorafgaande toestemming van die staat.
+3. The requesting State shall provide to the extent of its capabilities local facilities and services for proper and efficient administration of communications assistance. In particular, the requesting State shall ensure that any ground stations brought into its territory for the purpose of rendering assistance shall be duly licensed to transmit and receive information in accordance with its domestic laws and regulations.
 
-4. Tenzij anders overeengekomen tussen de verzoekende staat en de zendstaat staan leden van de geüniformeerde troepen van de zendstaat onder het bevel en tuchtrechtelijk toezicht van hun bevelvoerende officier.
+4. In the absence of a contrary agreement, ownership of equipment and materials despatched to a requesting State by a sending State during periods of assistance shall be unaffected and their prompt return shall be facilitated at the request of the sending State.
 
-##### Artikel XXII. Leiding en controle van de bijstand
+5. The requesting State shall ensure the protection of personnel, equipment and materials brought into its territory for the purpose of rendering assistance during times of disaster.
 
-1. Met inachtneming van het tweede lid behoren de algehele leiding en coördinatie van en de controle en het toezicht op de bijstand die naar een verzoekende staat wordt gezonden op zijn grondgebied tot de verantwoordelijkheid van de verzoekende staat.
+##### Article XXIII. Competent authorities and contact points
 
-2. Wanneer bij de bijstand van een zendstaat ander personeel dan geüniformeerde troepen betrokken is, wijst de zendstaat in overleg met de verzoekende staat de persoon aan die de leiding en het onmiddellijke operationeel toezicht heeft over het personeel, de uitrusting en voorraden die hij heeft verstrekt. De aldus aangewezen persoon voert dit toezicht uit in samenwerking met de bevoegde autoriteiten van de verzoekende staat.
+1. In the absence of a contrary indication from a Participating State the competent authority and contact point authorised to make requests for and accept offers of assistance in the event of a disaster shall be the head of the National Disaster Management Agency.
 
-3. De verzoekende staat verstrekt voor zover binnen zijn mogelijkheden ligt, lokale faciliteiten en diensten voor de goede en efficiënte administratie van bijstand op het gebied van communicatie. De verzoekende staat zorgt er met name voor dat eventuele grondstations die zijn grondgebied worden binnengebracht voor het verlenen van bijstand over de juiste vergunningen beschikken om informatie te zenden en te ontvangen in overeenstemming met zijn nationale wet- en regelgeving.
+2. The Coordinating Unit shall be immediately informed of any change of the contact and focal points of Participating States.
 
-4. Tenzij anders overeengekomen blijft de eigendom van uitrusting en materialen die door een zendstaat naar een verzoekende staat worden gezonden tijdens perioden waarin bijstand wordt verleend onaangetast en wordt de onverwijlde terugkeer ervan op verzoek van de zendstaat gefaciliteerd.
+3. The Coordinating Unit shall expeditiously inform Participating States and relevant international organizations with the information referred to in paragraphs 1 and 2 of this Article.
 
-5. De verzoekende staat waarborgt de bescherming van personeel, uitrusting en materialen die zijn grondgebied worden binnengebracht met het oog op het verlenen van bijstand wanneer zich een ramp heeft voorgedaan.
+##### Article XXIV. Confidentiality and public statements
 
-##### Artikel XXIII. Bevoegde autoriteiten en aanspreekpunten
+1. Participating States their officials and the staff of CDEMA shall respect and not disclose any confidential information received by them in connection with assistance requested in the event of a disaster and the information shall be used exclusively for its intended purpose.
 
-1. Tenzij anders bepaald door een deelnemende staat is het hoofd van het nationaal agentschap voor crisisbeheersing de bevoegde autoriteit en het aanspreekpunt dat gemachtigd is verzoeken om bijstand te doen en aangeboden bijstand te aanvaarden wanneer zich een ramp heeft voorgedaan.
+2. The sending State shall use its best endeavours to coordinate with the requesting State before releasing information to the public on the assistance provided in connection with a disaster.
 
-2. De coördinerende eenheid wordt onmiddellijk in kennis gesteld van enige wijziging van de aanspreek- en contactpunten van de deelnemende staten.
+##### Article XXV. Costs of providing assistance
 
-3. De coördinerende eenheid stelt de deelnemende staten en relevante internationale organisaties onverwijld in kennis van de in het eerste en tweede lid van dit artikel bedoelde informatie.
+Except as may otherwise be agreed between them, the expenses incurred by a sending State in providing assistance to a requesting State shall be defrayed by the sending State.
 
-##### Artikel XXIV. Vertrouwelijkheid en publieke verklaringen
+##### Article XXVI. Termination of assistance
 
-1. Deelnemende staten en hun functionarissen en medewerkers van CDEMA eerbiedigen de vertrouwelijkheid van de informatie die zij hebben ontvangen in verband met bijstand die gevraagd wordt wanneer zich een ramp heeft voorgedaan en maken deze niet openbaar. De informatie wordt uitsluitend gebruikt voor het beoogde doel.
+1. The Executive Director shall, subject to paragraph 2, after consultation with the requesting State, determine the period of response to a disaster.
 
-2. De zendstaat stelt alles in het werk om tot afstemming met de verzoekende staat te komen alvorens informatie aan het publiek bekend te maken over de bijstand die in verband met een ramp wordt gegeven.
+2. The requesting or sending State may, at any time, after appropriate consultation and by notification in writing terminate the receipt or provision of assistance received or provided under this Agreement.
 
-##### Artikel XXV. Kosten van de bijstand
+##### Article XXVII. Privileges, immunities and facilities to be accorded a sending State and its personnel
 
-Tenzij anderszins overeengekomen worden de kosten die een zendstaat maakt bij het verlenen van bijstand aan een verzoekende staat gedragen door de zendstaat.
+1. The requesting State shall accord to personnel of the sending State and personnel acting on its behalf the necessary privileges, immunities and facilities for the performance of their functions in rendering assistance.
 
-##### Artikel XXVI. Beëindiging van de bijstand
+2. Subject to prior notification by the sending State and acceptance by the requesting State of the personnel of the sending State or personnel acting on its behalf, the requesting State shall:
 
-1. De uitvoerend directeur stelt, met inachtneming van het tweede lid en na overleg met de verzoekende staat, de periode vast waarin hulp wordt geboden na een ramp.
+- a) grant to such personnel immunity from arrest and detention;
 
-2. De verzoekende staat of zendstaat kan te allen tijde, na het nodige overleg, door middel van een schriftelijke kennisgeving de uit hoofde van dit Verdrag ontvangen of geleverde bijstand beëindigen.
+- b) grant to such personnel immunity from legal process in respect of words spoken or written and in respect of all acts and omissions in rendering assistance and the immunity shall continue notwithstanding that the period of assistance has been terminated;
 
-##### Artikel XXVII. Voorrechten, immuniteiten en faciliteiten die aan een zendstaat en zijn personeel worden toegekend
+- c) grant to such personnel exemption from taxes, duties or other charges, in respect of the performance of their functions in rendering assistance, as is accorded to diplomatic personnel in accordance with international law;
 
-1. De verzoekende staat kent personeel van de zendstaat en personeel dat namens deze staat optreedt de nodige voorrechten, immuniteiten en faciliteiten toe ten behoeve van de uitoefening van hun functies bij het verlenen van bijstand.
+- d) facilitate the entry into, stay in and departure from its territory of personnel so notified and accepted.
 
-2. Behoudens voorafgaande kennisgeving door de zendstaat en aanvaarding door de verzoekende staat van het personeel van de zendstaat of personeel dat namens deze staat optreedt, zal de verzoekende staat:
+3. The requesting Stale shall:
 
-- a. dergelijk personeel immuniteit van arrestatie en detentie verlenen;
+- a) accord the sending State exemption from taxes, duties or other charges on equipment and property brought into the territory of the requesting State by the sending State for the purpose of rendering assistance;
 
-- b. dergelijk personeel immuniteit van rechtsvervolging verlenen met betrekking tot gesproken of geschreven woorden en met betrekking tot al het handelen of nalaten te handelen bij het verlenen van bijstand en deze immuniteit blijft ook gelden nadat de periode waarin bijstand wordt verleend is beëindigd;
+- b) confer immunity from seizure, attachment or requisition of such equipment and property and ensure their return to the sending State; and
 
-- c. dergelijk personeel de vrijstelling van belastingen, rechten en ander heffingen, met betrekking tot hun taakvervulling bij het geven van bijstand, verlenen die ook wordt verleend aan diplomatiek personeel in overeenstemming met het internationaal recht;
+- c) as far as possible, facilitate access to medical care of sick or injured personnel deployed during the period of assistance.
 
-- d. de binnenkomst op, het verblijf in en het vertrek uit zijn grondgebied van aldus aangemeld en aanvaard personeel vergemakkelijken.
+4. Persons enjoying privileges and immunities under this Article shall respect the law and regulations of the requesting State and shall not interfere in its domestic affairs.
 
-3. De verzoekende staat:
+##### Article XXVIII. Transit of personnel, equipment and property
 
-- a. verleent de zendstaat vrijstelling van belastingen, rechten en ander heffingen op uitrusting en eigendommen die door de zendstaat het grondgebied van de verzoekende staat worden binnengebracht voor het verlenen van bijstand;
+Participating States shall, at the request of either the requesting State or the sending State, take all measures necessary to facilitate the transit through their territory of duly notified personnel, equipment and property involved in rendering assistance to or from a requesting State.
 
-- b. kent immuniteit van inbeslagname, beslaglegging of vordering van dergelijke uitrusting of eigendommen toe en waarborgt de terugzending ervan naar de zendstaat; en
+##### Article XXIX. Claims and compensation
 
-- c. vergemakkelijkt, voor zover mogelijk, de toegang tot medische zorg voor zieke of gewonde personeelsleden tijdens de periode waarin bijstand wordt verleend.
+1. Participating States shall cooperate in order to facilitate the determination of legal proceedings and the settlement of claims under this Article.
 
-4. Personen die voorrechten en immuniteiten genieten uit hoofde van dit artikel eerbiedigen de wet- en regelgeving van de verzoekende staat en mengen zich niet in zijn interne aangelegenheden.
+2. In the absence of an agreement to the contrary the requesting State shall, in respect of death or injury to persons or damage to or loss of property or damage to the environment caused within its territory or under its control or jurisdiction by personnel of the requested State in the course of providing assistance:
 
-##### Artikel XXVIII. Doorvoer van personeel, apparatuur en eigendommen
+- a) not bring any legal proceedings against the sending State or persons or other legal entities acting on its behalf;
 
-Deelnemende staten dienen, op verzoek van hetzij de verzoekende staat hetzij de zendstaat, alle maatregelen te treffen die nodig zijn om de doorvoer over zijn grondgebied van officieel aangekondigde personeelsleden, uitrusting en eigendommen die bij de verlening van bijstand betrokken zijn, naar en van de verzoekende staat te vergemakkelijken.
+- b) assume responsibility for dealing with all legal proceedings and claims brought by third parties against the sending State or against persons or other legal entities acting on its behalf except in cases of wilful misconduct or gross negligence;
 
-##### Artikel XXIX. Vorderingen en schadevergoeding
+- c) hold the sending State or persons or other legal entities acting on its behalf harmless in respect of legal proceedings referred to in sub-paragraph (b);
 
-1. Deelnemende staten werken samen ter vergemakkelijking van de afwikkeling van gerechtelijke procedures en de schikking van vorderingen uit hoofde van dit artikel.
+- d) compensate the sending State or persons or other legal entities acting on its behalf for death or injury to personnel of the sending State or persons or other legal entities acting on its behalf, and
 
-2. Tenzij anders overeengekomen zal de verzoekende staat, ten aanzien van het overlijden van of oplopen van letsel door personen of schade aan of verlies van eigendommen of schade aan het milieu veroorzaakt op zijn grondgebied of onder zijn controle of rechtsmacht door personeel van de aangezochte staat tijdens het verlenen van bijstand:
+- e) for loss of or damage to non-consumable equipment or materials brought to the requesting State for the purpose of rendering assistance except in the case of the wilful misconduct or gross negligence by the personnel of the sending State.
 
-- a. geen rechtsvervolging instellen tegen de zendstaat of personen of andere juridische entiteiten die namens hem optreden;
+3. Nothing in this Article shall be construed to prevent compensation or indemnity available under any applicable international agreement or national law of a Participating State nor to require the requesting State to apply paragraph 2 of this Article, in whole or in part, permanent residents.
 
-- b. de verantwoordelijkheid aanvaarden voor het afhandelen van alle gerechtelijke procedures ingesteld door en vorderingen van derden jegens de zendstaat of personen of andere juridische entiteiten die namens hem optreden, uitgezonderd in gevallen van opzettelijk handelen of grove nalatigheid;
+##### Article XXX. Priveleges and immunities of CDEMA
 
-- c. de zendstaat of personen of andere juridische entiteiten die namens hem optreden vrijwaren met betrekking van de in onderdeel b bedoelde gerechtelijke procedures;
+1. CDEMA its property and assets wherever located and by whomsoever held shall enjoy immunity from every form of legal process except or in so far as in any particular case the Executive Director has expressly waived its immunity. Any waiver of immunity shall not extend to any measure of execution.
 
-- d. de zendstaat of personen of andere juridische entiteiten die namens hem optreden schadevergoeding betalen voor het overlijden van of oplopen van letsel door personeel van de zendstaat of personen of andere juridische entiteiten die namens hem optreden, en
+2. Save as provided in paragraph 1 the property of CDEMA, wherever located or by whomsoever held, shall be immune from search, acquisition, confiscation, expropriation and any other form of interference, whether by executive, administrative or judicial action.
 
-- e. voor het verlies van of de schade aan niet-verbruikbare uitrusting of materialen die naar de verzoekende staat worden gebracht met het oog op het verlenen van bijstand, uitgezonderd in gevallen van opzettelijk handelen door of grove nalatigheid van het personeel van de zendstaat.
+3. This Article shall not be construed as preventing the Government of a Participating State from taking appropriate action in connection with the investigation of accidents involving motor vehicles belonging to or operated on behalf of CDEMA.
 
-3. Niets in dit artikel mag zodanig worden uitgelegd dat het een belemmering vormt voor de schadevergoeding of schadeloosstelling die beschikbaar is op grond van een toepasselijke internationale overeenkomst of de nationale wetgeving van een deelnemende staat of dat het een verzoekende staat ertoe verplicht het tweede lid van dit artikel geheel of deels toe te passen op permanent ingezetenen.
+##### Article XXXI. Archives of CDEMA
 
-##### Artikel XXX. Voorrechten en immuniteiten van CDEMA
+1. The archives of CDEMA shall be inviolable wherever located.
 
-1. CDEMA, zijn eigendommen en vermogensbestanddelen, ongeacht waar zij zijn gelegen of wie deze onder zich heeft, genieten immuniteit van elke vorm van rechtsvervolging, behoudens voor zover de uitvoerend directeur in een bijzonder geval uitdrukkelijk afstand heeft gedaan van zijn immuniteit. De afstand van immuniteit strekt zich niet uit tot enige maatregel van tenuitvoerlegging.
+2. Proprietary data, confidential information and personnel records shall not be placed in archives open to public inspection.
 
-2. Behoudens zoals voorzien in het eerste lid, worden eigendommen van CDEMA, ongeacht waar zij zijn gelegen of wie deze onder zich heeft, gevrijwaard van onderzoek, beslaglegging, vordering, inbeslagneming, onteigening en iedere andere vorm van inmenging, ongeacht of het optreden van uitvoerende, bestuursrechtelijke of rechterlijke aard is.
+##### Article XXXII. Facilities in respect of communications
 
-3. Dit artikel mag niet zodanig worden uitgelegd dat een regering van een deelnemende staat belet wordt passende maatregelen te nemen in verband met het onderzoek naar ongevallen waarbij motorvoertuigen betrokken zijn die toebehoren aan of worden bestuurd namens CDEMA.
+1. CDEMA shall enjoy in Participating States freedom of communication for its official communications.
 
-##### Artikel XXXI. Archieven van CDEMA
+2. The official correspondence and all other forms of official communications shall be inviolable.
 
-1. De archieven van CDEMA zijn onschendbaar, waar deze zich ook bevinden.
+3. CDEMA shall have the right to use codes and to despatch and receive correspondence by courier in sealed bags, which shall not be searched or detained unless the competent authorities have reasonable grounds to believe that the sealed bags do not only contain articles, correspondence or documents for the exclusive official use of CDEMA, in which case the bag shall be opened only in the presence of an officer of CDEMA.
 
-2. Door eigendomsrechten beschermde gegevens, vertrouwelijke informatie en personeelsdossiers worden niet in archieven opgeborgen die ter inzage van het publiek zijn.
+4. This Article shall not preclude the adoption of appropriate security measures in the interest of a participating State or its Government.
 
-##### Artikel XXXII. Faciliteiten met betrekking tot communicatie
+##### Article XXXIII. Representatives and staff of CDEMA
 
-1. Ten behoeve van zijn officiële communicatie geniet CDEMA in de deelnemende staten vrijheid van communicatie.
+Representatives of Participating States attending meetings of the Council, the MCC or the TAC as well as the Executive Director and other staff of CDEMA, shall enjoy in the territory of each Participating State:
 
-2. De officiële correspondentie en alle andere vormen van officiële communicatie zijn onschendbaar.
+- a) immunity from legal process with respect to acts performed by them in the exercise of their functions, except to the extent that the State which they represent or CDEMA as appropriate expressly waives this immunity in any particular case;
 
-3. CDEMA heeft het recht codes te gebruiken en correspondentie te verzenden en te ontvangen per koerier in verzegelde tassen, die niet mogen worden onderzocht of vastgehouden tenzij de bevoegde autoriteiten redelijke gronden hebben om aan te nemen dat de verzegelde tassen niet uitsluitend artikelen, correspondentie of documenten bevatten voor het exclusieve officiële gebruik door CDEMA, in welk geval de tas uitsluitend wordt geopend in aanwezigheid van een functionaris van CDEMA.
+- b) where they are not nationals of that Participating State, the same exemptions from immigration restrictions, alien registration requirements and national service obligations, the same facilities as regards exchange restrictions and the same treatment in respect of traveling facilities as are accorded by that Participating State to the representatives, officials and employees of comparable rank of other Participating States.
 
-4. Dit artikel vormt geen beletsel voor het aannemen van passende veiligheidsmaatregelen in het belang van een deelnemende staat of zijn regering.
+##### Article XXXIV. Exemption from taxes and customs duties
 
-##### Artikel XXXIII. Vertegenwoordigers en medewerkers van CDEMA
+1. CDEMA, its assets, property, income, operations and transactions shall be exempt from all direct taxation and goods imported or exported for its official use shall be exempt from all customs duties. CDEMA shall not claim exemption from taxes which are no more than charges for services rendered.
 
-Vertegenwoordigers van deelnemende staten die deelnemen aan vergaderingen van de raad, het MCC of het TAC alsmede de uitvoerend directeur en andere medewerkers van CDEMA, genieten op het grondgebied van elke deelnemende staat:
+2. Where purchases of goods or services of substantial value necessary for the official activities of CDEMA are made by or on behalf of CDEMA, and where the price of the goods or services includes taxes or duties, appropriate measures shall, to the extent practicable, be taken by Participating States to grant exemptions from such taxes or duties or provide for their reimbursement.
 
-- a. immuniteit van rechtsvervolging met betrekking tot handelingen die zij hebben verricht bij de uitoefening van hun functies, behoudens voor zover de staat die zij vertegenwoordigen of CDEMA, naargelang van toepassing, uitdrukkelijk afstand doet van deze immuniteit in een bijzonder geval;
+3. Goods imported or purchased under an exemption provided for in this Article shall not be sold or otherwise disposed of in the territory of the Participating State granting the exemptions, except under conditions agreed with that Participating State.
 
-- b. wanneer zij geen onderdanen zijn van die deelnemende staat, dezelfde vrijstellingen van inreisbeperkingen, vreemdelingenregistratie en nationale dienstplicht, dezelfde faciliteiten ten aanzien van deviezenbeperkingen en dezelfde behandeling ter zake van reisvoorzieningen als die welke door de deelnemende staten worden toegekend aan vertegenwoordigers, functionarissen en medewerkers van vergelijkbare rang van de andere deelnemende staten.
+4. No tax shall be levied by Participating States in respect of salaries, other types of emoluments or any other form of payment made by CDEMA to the Executive Director and staff of CDEMA as well as experts performing missions for CDEMA.
 
-##### Artikel XXXIV. Vrijstelling van belastingen en douaneheffingen
+5. Paragraph 4 does not apply where the Executive Director or the staff member of CDEMA is a national of the Participating State where CDEMA is located.
 
-1. CDEMA, zijn vermogensbestanddelen, eigendommen, inkomsten, werkzaamheden en transacties zijn vrijgesteld van alle directe belastingen en alle douaneheffingen op goederen die worden geïmporteerd of geëxporteerd voor officieel gebruik door CDEMA. CDEMA maakt geen aanspraak op vrijstelling van belastingen die slechts heffingen voor verleende diensten zijn.
+##### Article XXXV. Suspension of rights and privileges of membership
 
-2. Wanneer door of namens CDEMA goederen of diensten worden gekocht waarmee een aanzienlijk bedrag is gemoeid en die nodig zijn voor de uitoefening van de officiële activiteiten van CDEMA en wanneer in de prijs van goederen of diensten belastingen of douanerechten zijn begrepen, treffen de deelnemende staten voor zover mogelijk passende maatregelen teneinde vrijstelling van deze belastingen of douaneheffingen te verlenen of te voorzien in de terugbetaling daarvan.
+1. A Participating State which is in arrears in the payment of its financial contribution to the administrative budget of CDEMA shall have no vote in the Council or the MCC if the amount of the arrears equals or exceeds the amount of the contributions due from it for the preceding two financial years.
 
-3. De met een vrijstelling als bedoeld in dit artikel geïmporteerde of gekochte goederen worden niet binnen het grondgebied van de deelnemende staat die de vrijstelling verleende, verkocht of op andere wijze vervreemd, behalve op met die deelnemende staat overeengekomen voorwaarden.
+2. A Participating State which has violated the obligations assumed under this Agreement may be suspended from the exercise of the rights and privileges of membership by the Council.
 
-4. Door de deelnemende staten wordt geen belasting wordt geheven ter zake van salarissen, andere vergoedingen of enige ander vorm van betaling door CDEMA aan de uitvoerend directeur en medewerkers van CDEMA alsmede aan deskundigen die opdrachten uitvoeren voor CDEMA.
+##### Article XXXVI. Arbitration
 
-5. Het vierde lid is niet van toepassing wanneer de uitvoerend directeur of de medewerker van CDEMA een onderdaan is van de deelnemende staat waar CDEMA is gevestigd.
+1. Any dispute between a State Party and CDEMA arising out of the interpretation or application of this Agreement, which is not settled by negotiation or other agreed mode of settlement shall be referred for final decision to an arbitral tribunal of three arbitrators at the instance of either party.
 
-##### Artikel XXXV. Schorsing van rechten en voorrechten van het lidmaatschap
+2. Each party shall be entitled to appoint one arbitrator within fifteen days following the request of either party and the two arbitrators shall within fifteen days following the date of their appointments appoint a third arbitrator who shall be the Chairperson of the arbitral tribunal.
 
-1. Een deelnemende staat die achterstallig is met de betaling van zijn financiële bijdrage aan de administratieve begroting van CDEMA, kan in de raad of het MCC geen stemrecht uitoefenen indien het bedrag van de achterstallige betaling gelijk is aan of hoger dan dat van de bijdragen door hem verschuldigd over de twee voorgaande boekjaren.
+3. Where any party fails to appoint an arbitrator under paragraph 2 the other party may request the Secretary-General of the Caribbean Community to appoint an arbitrator within ten days.
 
-2. Een deelnemende staat die de verplichtingen die ingevolge dit Verdrag zijn aangegaan heeft geschonden kan door de raad worden geschorst in de uitoefening van de rechten en voorrechten van het lidmaatschap.
+4. Where the two arbitrators appointed under paragraph 2 fail to appoint a third arbitrator either party may request the Secretary General of the Caribbean Community to appoint an arbitrator within ten days.
 
-##### Artikel XXXVI. Arbitrage
+5. The arbitral tribunal shall establish its own rules of procedure.
 
-1. Elk geschil tussen een staat die partij is en CDEMA dat voortvloeit uit de interpretatie of toepassing van dit Verdrag en dat niet door onderhandeling of een andere overeengekomen wijze van geschillenbeslechting wordt geregeld, wordt op verzoek van een van de partijen ter definitieve beslissing verwezen naar een scheidsgerecht bestaande uit drie scheidsrechters.
+##### Article XXXVII. Signature and ratification
 
-2. Elke partij is gerechtigd een scheidsrechter te benoemen binnen vijftien dagen volgend op het verzoek van de andere partij en de twee scheidsrechters benoemen binnen vijftien dagen volgend op de datum van hun benoeming een derde scheidsrechter die de voorzitter is van het scheidsgerecht.
+The Agreement shall be open for signature by the States listed in the Annex and shall be subject to ratification in accordance with their respective constitutional procedures.
 
-3. Wanneer een partij verzuimt een scheidsrechter te benoemen uit hoofde van het tweede lid, kan de andere partij de Secretaris-Generaal van de Caribische Gemeenschap verzoeken binnen tien dagen een scheidsrechter te benoemen.
+##### Article XXXVIII. Entry into force
 
-4. Wanneer de twee uit hoofde van het tweede lid benoemde scheidsrechters verzuimen een derde scheidsrechter te benoemen, kan elk van de partijen de Secretaris-Generaal van de Caribische Gemeenschap verzoeken binnen tien dagen een scheidsrechter te benoemen.
+This Agreement shall enter into force when Instruments of Ratification have been deposited by at least seven of the States listed in the Annex.
 
-5. Het scheidsgerecht stelt zijn eigen reglement van orde vast.
+##### Article XXXIX. Accession
 
-##### Artikel XXXVII. Ondertekening en bekrachtiging
+1. This Agreement shall be open to accession by any Caribbean State which on the recommendation of the MCC has been admitted to membership of the CDEMA by the Council on such terms and conditions as the Council may decide.
 
-Dit Verdrag staat open voor ondertekening door de in de Bijlage genoemde staten en dient te worden bekrachtigd in overeenstemming met hun respectieve grondwettelijke procedures.
+2. A State admitted to membership in accordance with paragraph 1 shall deposit an Instrument of Accession with the Secretary-General of the Caribbean Community.
 
-##### Artikel XXXVIII. Inwerkingtreding
+##### Article XL. Depositary
 
-Dit Verdrag treedt in werking nadat de akten van bekrachtiging door ten minste zeven van de in de Bijlage genoemde staten zijn nedergelegd.
+1. The original of this Agreement and any amendments thereto shall be deposited with the Secretary General of the Caribbean Community.
 
-##### Artikel XXXIX. Toetreding
+2. The Secretary-General of the Caribbean Community shall notify the Coordinating Unit of CDEMA of the Deposit of Instruments of Ratification or Accession, as the case may be and forward certified copies of such Instruments to the Coordinating Unit.
 
-1. Dit Verdrag staat open voor toetreding door elke Caribische staat die op voordracht van het MCC is toegelaten tot het lidmaatschap van het CDEMA door de raad op de voorwaarden die de raad kan vaststellen.
+##### Article XLI. Amendments
 
-2. Een staat die is toegelaten tot het lidmaatschap in overeenstemming met het eerste lid legt een akte van toetreding neder bij de Secretaris-Generaal van de Caribische Gemeenschap.
+1. Any Participating State may propose amendments to this Agreement.
 
-##### Artikel XL. Depositaris
+2. Any proposal for an amendment to this Agreement shall be submitted to the Coordinating Unit, which shall transmit it to the MCC with its comments.
 
-1. Het oorspronkelijke exemplaar van dit Verdrag en eventuele wijzigingen daarvan worden nedergelegd bij de Secretaris-Generaal van de Caribische Gemeenschap.
+3. The MCC shall consider the proposal together with the comments of the Coordinating Unit and make a recommendation to the Council.
 
-2. De Secretaris-Generaal van de Caribische Gemeenschap stelt de coördinerende eenheid van CDEMA in kennis van de nederlegging van akten van bekrachtiging of toetreding, naargelang van het geval, en zendt gewaarmerkte afschriften van deze akten naar de coördinerende eenheid.
+4. The Council shall consider the proposal for amendment and may adopt it with such modifications as it deems necessary.
 
-##### Artikel XLI. Wijzigingen
+5. Amendments shall enter into force when ratified by all Participating States.
 
-1. Elke deelnemende staat kan wijzigingen van dit Verdrag voorstellen.
+##### Article XLII. Withdrawal
 
-2. Elk voorstel tot wijziging van dit Verdrag wordt aan de coördinerende eenheid voorgelegd, die het voorzien van haar opmerkingen naar het MCC stuurt.
+1. Any Participating State may withdraw from CDEMA.
 
-3. Het MCC bestudeert het voorstel en de opmerkingen van de coördinerende eenheid en doet de raad een aanbeveling.
+2. Any Participating State wishing to withdraw from CDEMA shall give to the Coordinating Unit twelve months’ written notice of its intention to do so and the Executive Director shall immediately notify the other Participating States.
 
-4. De raad neemt het voorstel tot wijziging in overweging en neemt het aan met de door haar nodig geachte wijzigingen.
+3. A notice given under paragraph 2 of this Article may be withdrawn at any time prior to the date on which withdrawal is to take effect.
 
-5. Wijzigingen treden in werking wanneer alle deelnemende staten deze hebben bekrachtigd.
+4. A Participating State withdrawing from CDEMA shall honour any financial obligations duly assumed by it during the period of its membership.
 
-##### Artikel XLII. Terugtrekking
+##### Article XLIII. Provisional application
 
-1. Een deelnemende staat kan zich uit CDEMA terugtrekken.
-
-2. Een deelnemende staat die zich uit CDEMA wenst terug te trekken geeft de coördinerende eenheid, met inachtneming van een opzegtermijn van twaalf maanden, schriftelijk kennis van zijn voornemen tot terugtrekking en de uitvoerend directeur stelt de overige deelnemende staten hiervan onmiddellijk in kennis.
-
-3. Een kennisgeving uit hoofde van het tweede lid van dit artikel kan op elk moment voorafgaande aan de datum waarop de terugtrekking in werking treedt worden ingetrokken.
-
-4. Een deelnemende staat die zich terugtrekt uit CDEMA dient alle financiële verplichtingen die hij tijdens zijn lidmaatschap is aangegaan te vervullen.
-
-##### Artikel XLIII. Voorlopige toepassing
-
-Zeven of meer van de deelnemende staten vermeld in de Bijlage bij dit Verdrag, kunnen bij ondertekening, of op een latere datum voordat dit Verdrag in werking treedt, hun voornemen uitspreken dit Verdrag voorlopig toe te passen.
+Seven or more of the Participating States listed in the Annex to this Agreement may, upon signature, or at any later date before this Agreement enters into force, declare their intention to apply it provisionally.
 
 IN WITNESS WHEREOF the undersigned representatives, being duly authorised by their respective Governments, have signed this Agreement.
 

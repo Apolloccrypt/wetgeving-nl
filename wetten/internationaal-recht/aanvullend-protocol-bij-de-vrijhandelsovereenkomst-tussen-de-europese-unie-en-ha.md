@@ -1,112 +1,21 @@
 ---
 title: "Aanvullend Protocol bij de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, om rekening te houden met de toetreding van Kroatië tot de Europese Unie"
 identifier: "BWBV0006351"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-01-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006351"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005187223"
-version_id: "10005565952"
-internal_id: "C10009044641"
-label_id: "10005170194"
-dtd_version: "2.0"
-original_entry_into_force: "2016-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006351/2016-01-01/0"
-intitule_bron: "Trb.2014-89"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2014-05-12"
-intitule_in_force: "2016-02-24"
-intitule_status: "goed"
-original_publication: "Trb.2014-89"
-original_published_date: "2014-05-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2014-89"
-entry_into_force_date: "2016-01-01"
-jci_1_3: "jci1.3:c:BWBV0006351&z=2016-01-01&g=2016-01-01"
-jci_1_0: "1.0:c:BWBV0006351&g=2016-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-01-01"
+publicatiedatum: 2016-01-01
+laatste_update: 2016-01-01
+status: geldig
+toestand: 2016-01-01
+bron: "https://wetten.overheid.nl/BWBV0006351"
+opgehaald: 2026-09-16
 ---
+
 # Aanvullend Protocol bij de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, om rekening te houden met de toetreding van Kroatië tot de Europese Unie
 
-Het Koninkrijk België,
+*Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie , hierna de „lidstaten van de Europese Unie” genoemd, en de Europese Unie, enerzijds, en de Republiek Korea, hierna „Korea” genoemd, anderzijds, hierna „de partijen” genoemd, Overwegende dat de vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds (hierna „de overeenkomst” genoemd), op 6 oktober 2010 te Brussel is ondertekend en sinds 1 juli 2011 voorlopig wordt toegepast. Overwegende dat het Verdrag betreffende de toetreding van de Republiek Kroatië (hierna „Kroatië” genoemd) tot de Europese Unie (hierna het „Toetredingsverdrag” genoemd) op 9 december 2011 te Brussel is ondertekend en op 1 juli 2013 in werking is getreden, Zijn het volgende overeengekomen:*
 
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-de Republiek Hongarije,
-
-Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) , hierna de „lidstaten van de Europese Unie” genoemd,
-
-en
-
-de Europese Unie,
-
-enerzijds, en
-
-de Republiek Korea, hierna „Korea” genoemd,
-
-anderzijds,
-
-hierna „de partijen” genoemd,
-
-Overwegende dat de [vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0005188) (hierna „de overeenkomst” genoemd), op 6 oktober 2010 te Brussel is ondertekend en sinds 1 juli 2011 voorlopig wordt toegepast.
-
-Overwegende dat het [Verdrag betreffende de toetreding van de Republiek Kroatië (hierna „Kroatië” genoemd) tot de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005638) (hierna het „Toetredingsverdrag” genoemd) op 9 december 2011 te Brussel is ondertekend en op 1 juli 2013 in werking is getreden,
-
-Zijn het volgende overeengekomen:
-
-### AFDELING I. DE PARTIJEN
+#### AFDELING I. DE PARTIJEN
 
 ##### Artikel 1
 
@@ -116,37 +25,37 @@ Kroatië wordt een partij bij de [overeenkomst](https://wetten.overheid.nl/jci1.
 
 Kroatië wordt toegevoegd aan de lijst van partijen bij de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005188).
 
-### AFDELING II. OORSPRONGSREGELS
+#### AFDELING II. OORSPRONGSREGELS
 
 ##### Artikel 3
 
-Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds; Brussel, 6 oktober 2010.
+*Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds; Brussel, 6 oktober 2010.*
 
 ##### Artikel 4
 
-1. De bepalingen van de overeenkomst kunnen worden toegepast op goederen die van Korea naar Kroatië of van Kroatië naar Korea worden uitgevoerd, wanneer die goederen voldoen aan de bepalingen van het [protocol betreffende oorsprongsregels bij de overeenkomst](onbekend), en op 1 juli 2013 ofwel onderweg waren of in tijdelijke opslag waren in een douane-entrepot of in een vrije zone in Korea of Kroatië.
+1. De bepalingen van de overeenkomst kunnen worden toegepast op goederen die van Korea naar Kroatië of van Kroatië naar Korea worden uitgevoerd, wanneer die goederen voldoen aan de bepalingen van het [protocol betreffende oorsprongsregels bij de overeenkomst](https://wetten.overheid.nl/BWBV0005188), en op 1 juli 2013 ofwel onderweg waren of in tijdelijke opslag waren in een douane-entrepot of in een vrije zone in Korea of Kroatië.
 
 2. In dergelijke gevallen wordt preferentiële behandeling verleend, mits binnen twaalf maanden na 1 juli 2013 bij de douaneautoriteiten van het land van invoer een bewijs van oorsprong wordt ingediend dat achteraf is afgegeven.
 
-### AFDELING III. HANDEL IN DIENSTEN, VESTIGING EN ELEKTRONISCHE HANDEL
+#### AFDELING III. HANDEL IN DIENSTEN, VESTIGING EN ELEKTRONISCHE HANDEL
 
 ##### Artikel 5
 
-Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds; Brussel, 6 oktober 2010.
+*Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds; Brussel, 6 oktober 2010.*
 
 ##### Artikel 6
 
-Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds; Brussel, 6 oktober 2010.
+*Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds; Brussel, 6 oktober 2010.*
 
 ##### Artikel 7
 
-Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds; Brussel, 6 oktober 2010.
+*Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds; Brussel, 6 oktober 2010.*
 
 ##### Artikel 8
 
-Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds; Brussel, 6 oktober 2010.
+*Wijzigt de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds; Brussel, 6 oktober 2010.*
 
-### AFDELING IV. ALGEMENE EN SLOTBEPALINGEN
+#### AFDELING IV. ALGEMENE EN SLOTBEPALINGEN
 
 ##### Artikel 9
 
@@ -166,4 +75,4 @@ De Europese Unie communiceert aan Korea de Kroatische taalversie van de [overeen
 
 ##### Artikel 11
 
-Dit protocol en de bijlagen bij dit protocol maken een integrerend deel uit van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005188).
+Dit protocol en de [bijlagen](https://wetten.overheid.nl/BWBR0009045) bij dit protocol maken een integrerend deel uit van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005188).

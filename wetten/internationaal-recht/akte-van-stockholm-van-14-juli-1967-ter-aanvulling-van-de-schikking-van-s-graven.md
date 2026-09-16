@@ -1,248 +1,225 @@
 ---
 title: "Akte van Stockholm van 14 juli 1967 ter aanvulling van de Schikking van 's-Gravenhage betreffende het internationaal depot van tekeningen en modellen van nijverheid, van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960 en aangevuld door de Aanvullende Akte van Monaco van 18 november 1961"
 identifier: "BWBV0006589"
-country: "nl"
-rank: "verdrag"
-publication_date: "1980-11-03"
-last_updated: "1980-11-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006589"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005345993"
-version_id: "10005765442"
-internal_id: "C10009065571"
-label_id: "10005328734"
-dtd_version: "2.0"
-original_entry_into_force: "1979-05-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006589/1980-11-03/0"
-intitule_bron: "Trb.1969-142"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-12-29"
-intitule_in_force: "1979-04-04"
-intitule_status: "goed"
-original_publication: "Trb.1969-142"
-original_published_date: "1969-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-142"
-entry_into_force_date: "1979-05-28"
-jci_1_3: "jci1.3:c:BWBV0006589&z=1980-11-03&g=1980-11-03"
-jci_1_0: "1.0:c:BWBV0006589&g=1980-11-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-05-28"
+publicatiedatum: 1979-05-28
+laatste_update: 1980-11-03
+status: geldig
+toestand: 1980-11-03
+bron: "https://wetten.overheid.nl/BWBV0006589"
+opgehaald: 2026-09-16
 ---
+
 # Akte van Stockholm van 14 juli 1967 ter aanvulling van de Schikking van 's-Gravenhage betreffende het internationaal depot van tekeningen en modellen van nijverheid, van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960 en aangevuld door de Aanvullende Akte van Monaco van 18 november 1961
 
-##### Artikel 1
+##### Article 1
 
-In deze Aanvullende Akte wordt verstaan onder:
+Au sens du présent Acte complémentaire, il faut entendre par:
 
-„Akte van 1934”, de op 2 juni 1934 te Londen ondertekende Akte van de Schikking van 's-Gravenhage betreffende het internationale dépôt van tekeningen en modellen van nijverheid;
+- „Acte de 1934”, l'Acte signé à Londres le 2 juin 1934 de l'Arrangement de La Haye concernant le dépôt international des dessins et modèles industriels;
 
-„Akte van 1960”, de op 28 november 1960 te 's-Gravenhage ondertekende [Akte van de Schikking van 's-Gravenhage betreffende het internationale depot van tekeningen en modellen van nijverheid](https://wetten.overheid.nl/jci1.3:c:BWBV0002034);
+- „Acte de 1960”, [l'Acte signé à La Haye le 28 novembre 1960 de l'Arrangement de La Haye concernant le dépôt international des dessins et modèles industriels](https://wetten.overheid.nl/jci1.3:c:BWBV0002034);
 
-„Aanvullende Akte van 1961”, de op 18 november 1961 te Monaco ondertekende [Akte ter aanvulling van de Akte van 1934](https://wetten.overheid.nl/jci1.3:c:BWBV0006584);
+- „Acte additionnel de 1961”, [l'Acte signé à Monaco le 18 novembre 1961, additionnel à l'Acte de 1934](https://wetten.overheid.nl/jci1.3:c:BWBV0006584);
 
-„Organisatie”, de Wereldorganisatie voor de intellectuele eigendom;
+- „Organisation”, l'Organisation Mondiale de la propriété Intellectuelle;
 
-„Internationaal Bureau”, het Internationale Bureau voor de intellectuele eigendom;
+- „Bureau international”, le Bureau international de la propriété intellectuelle;
 
-„Directeur-Generaal”, de Directeur-Generaal van de Organisatie;
+- „Directeur général”, le Directeur général de l'Organisation;
 
-„Bijzondere Unie”, de Unie van 's-Gravenhage, in het leven geroepen door de Schikking van 's-Gravenhage van 6 november 1925 betreffende het internationale depot van tekeningen en modellen van nijverheid en in stand gehouden door de Akten van 1934 [en 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034) en door de [Aanvullende Akte van 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584) alsmede door de onderhavige Aanvullende Akte.
+- „Union particulière”, l'Union de La Haye, créée par l'Arrangement de la Haye du 6 novembre 1925 concernant le dépôt international des dessins et modèles industriels, et maintenue par les Actes de 1934 et [de 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034), et par [l'Acte additionnel de 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584), ainsi que par le présent Acte complémentaire.
 
-##### Artikel 2
+##### Article 2
 
-1a). De bijzondere Unie kent een Algemene Vergadering, samengesteld uit de landen, die de onderhavige Akte hebben bekrachtigd of daartoe zijn toegetreden.
+1) a). L'Union particulière a une Assemblée composée des pays qui ont ratifié le présent Acte ou y ont adhéré.
 
-b). De Regering van elk land is vertegenwoordigd door een afgevaardigde, die zich kan doen bijstaan door plaatsvervangers, adviseurs en deskundigen.
+b). Le Gouvernement de chaque pays est représenté par un délégué, qui peut être assisté de suppléants, de conseillers et d'experts.
 
-c). De door elke delegatie gemaakte kosten worden gedragen door de Regering die haar heeft aangewezen.
+c). Les dépenses de chaque délégation sont supportées par le Gouvernement qui l'a désignée.
 
-2a). De Algemene Vergadering:
+2) a). L'Assemblée:
 
-- i). neemt alle vraagstukken in behandeling betreffende de instandhouding en de ontwikkeling van de bijzondere Unie en de toepassing van haar Schikking;
+- i) traite de toutes les questions concernant le maintien et le développement de l'Union particulière et l'application de son Arrangement;
 
-- ii). verstrekt aan het Internationale Bureau richtlijnen betreffende de voorbereiding van de herzieningsconferenties, hierbij deugdelijk rekening houdende met de opmerkingen van de landen van de bijzondere Unie, die deze Akte niet hebben bekrachtigd of daartoe niet zijn toegetreden;
+- ii) donne au Bureau international des directives concernant la préparation des conférences de revision, compte étant dûment tenu des observations des pays de l'Union particulière qui n'ont pas ratifié le présent Acte ou n'y ont pas adhéré;
 
-- iii). brengt wijzigingen aan in het reglement van uitvoering en stelt de bedragen der taksen vast voor het internationale depot van tekeningen en modellen van nijverheid;
+- iii) modifie le règlement d'exécution et fixe le montant des taxes relatives au dépôt international des dessins et modèles industriels;
 
-- iv). bestudeert en hecht haar goedkeuring aan de rapporten en de werkzaamheden van de Directeur-Generaal met betrekking tot de bijzondere Unie en verstrekt hem alle van belang zijnde richtlijnen met betrekking tot de vraagstukken ter zake van de competentie van de bijzondere Unie;
+- iv) examine et approuve les rapports et les activités du Directeur général relatifs à l'Union particulière et lui donne toutes directives utiles concernant les questions de la compétence de l'Union particulière;
 
-- v). stelt het programma en de tweejaarlijkse begroting van de bijzondere Unie vast en keurt haar jaarrekeningen goed;
+- v) arrête le programme, adopte le budget biennal de l'Union particulière et approuve ses comptes de clôture;
 
-- vi). stelt het financiële reglement van de bijzondere Unie vast;
+- vi) adopte le Règlement financier de l'Union particulière;
 
-- vii). roept de commissies van deskundigen en werkgroepen in het leven, die zij van belang acht voor de verwezenlijking van de doelstellingen der bijzondere Unie;
+- vii) crée les comités d'experts et groupes de travail qu'elle juge utiles à la réalisation des objectifs de l'Union particulière;
 
-- viii). beslist welke landen, geen leden der bijzondere Unie zijnde, en welke intergouvernementele en niet-gouvernementele internationale organisaties als waarnemers tot haar vergaderingen kunnen worden toegelaten;
+- viii) décide quels sont les pays non membres de l'Union particulière et quelles sont les organisations intergouvernementales et internationales non gouvernementales qui peuvent être admis à ses réunions en qualité d'observateurs;
 
-- ix). neemt de wijzigingen aan van de artikelen 2 tot en met 5;
+- ix) adopte les modifications des [articles 2 à 5](https://wetten.overheid.nl/BWBR0009107);
 
-- x). verricht iedere handeling die dienstig is ter verwezenlijking van de doelstellingen van de bijzondere Unie;
+- x) entreprend toute autre action appropriée en vue d'atteindre les objectifs de l'Union particulière;
 
-- xi). verricht alle overige taken, die in deze Akte besloten liggen.
+- xi) s'acquitte de toutes autres tâches qu'impliquent le présent Acte complémentaire.
 
-b). Aangaande de vraagstukken, die eveneens andere door de Organisatie beheerde Unies raken, doet de Algemene Vergadering uitspraak na het advies van de Coördinatiecommissie van de Organisatie te hebben ingewonnen.
+b). Sur les questions qui intéressent également d'autres Unions administrées par l'Organisation, l'Assemblée statue connaissance prise de l'avis du Comité de coordination de l'Organisation.
 
-3a). Elk land dat lid is van de Algemene Vergadering heeft één stem.
+3) a). Chaque pays membre de l'Assemblée dispose d'une voix.
 
-b). Het quorum wordt gevormd door de helft van de landen die lid zijn van de Algemene Vergadering.
+b). La moitié des pays membres de l'Assemblée constitue le quorum.
 
-c). Niettegenstaande het bepaalde onder b) kunnen, indien gedurende een zitting het aantal vertegenwoordigde landen kleiner is dan de helft, maar gelijk aan/of groter dan het derde deel van de landen die lid zijn van de Algemene Vergadering, door die Vergadering besluiten worden genomen; evenwel worden de besluiten van de Algemene Vergadering, met uitzondering van die, welke haar eigen procedure betreffen, eerst rechtens uitvoerbaar, nadat aan de hierna vermelde voorwaarden is voldaan. Het Internationale Bureau brengt de hier bedoelde besluiten ter kennis van de landen die lid zijn van de Algemene Vergadering, die niet vertegenwoordigd waren en verzoekt hun binnen een termijn van drie maanden, te rekenen van de datum van de bedoelde kennisgeving, schriftelijk hun stem uit te brengen of hun onthouding kenbaar te maken. Indien na afloop van deze termijn het aantal landen, dat op deze wijze zijn stem heeft uitgebracht of zijn onthouding heeft kenbaar gemaakt, ten minste gelijk is aan het aantal landen dat aan het quorum der vergadering ontbrak, zullen bedoelde besluiten rechtens uitvoerbaar worden, mits tezelfdertijd de vereiste meerderheid is bereikt.
+c). Nonobstant les dispositions du sous-alinéa *b),* si, lors d'une session, le nombre des pays représentés est inférieur à la moitié mais égal ou supérieur au tiers des pays membres de l'Assemblée, celle-ci peut prendre des décisions; toutefois, les décisions de l'Assemblée, à l'exception de celles qui concernent sa procédure, ne deviennent exécutoires que lorsque les conditions énoncées ci-après sont remplies. Le Bureau international communique lesdites décisions aux pays membres de l'Assemblée qui n'étaient pas représentés, en les invitant à exprimer par écrit, dans un délai de trois mois à compter de la date de ladite communication, leur vote ou leur abstention. Si, à l'expiration de ce délai, le nombre des pays ayant ainsi exprimé leur vote ou leur abstention est au moins égal au nombre de pays qui faisait défaut pour que le quorum fût atteint lors de la session, lesdites décisions deviennent exécutoires, pourvu qu'en même temps la majorité nécessaire reste acquise.
 
-d). Onverminderd het bepaalde in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=5&z=1980-11-03&g=1980-11-03), worden de besluiten van de Algemene Vergadering genomen met een meerderheid van twee derde van de uitgebrachte stemmen.
+d). Sous réserve des dispositions de [l'article 5.2)](https://wetten.overheid.nl/BWBV0006589), les décisions de l'Assemblée sont prises à la majorité des deux tiers des votes exprimés.
 
-e). Onthouding geldt niet als stem.
+e). L'abstention n'est pas considérée comme un vote.
 
-f). Een afgevaardigde kan slechts één enkel land vertegenwoordigen en kan slechts uit naam van dit land zijn stem uitbrengen.
+f). Un délégué ne peut représenter qu'un seul pays et ne peut voter qu'au nom de celui-ci.
 
-g). De landen van de bijzondere Unie die geen lid zijn van de Algemene Vergadering kunnen haar bijeenkomsten als waarnemers bijwonen.
+g). Les pays de l'Union particulière qui ne sont pas membres de l' Assemblée sont admis à ses réunions en qualité d'observateurs.
 
-4a). De Algemene Vergadering komt eenmaal in de twee jaar in gewone zitting bijeen op uitnodiging van de Directeur-Generaal en, uitzonderlijke omstandigheden daargelaten, gedurende dezelfde periode en te zelfder plaatse als de Algemene Vergadering van de Organisatie.
+4) a). L'Assemblée se réunit une fois tous les deux ans en session ordinaire, sur convocation du Directeur général et, sauf cas exceptionnels, pendant la même période et au même lieu que l'Assemblée générale de l'Organisation.
 
-b). De Algemene Vergadering komt in buitengewone zitting bijeen op uitnodiging van de Directeur-Generaal ingevolge een verzoek van een vierde van de landen die lid zijn van de Algemene Vergadering.
+b). L'Assemblée se réunit en session extraordinaire sur convocation adressée par le Directeur général, à la demande d'un quart des pays membres de l'Assemblée.
 
-c). De agenda voor elke zitting wordt opgesteld door de Directeur-Generaal.
+c). L'ordre du jour de chaque session est préparé par le Directeur général.
 
-5). De Algemene Vergadering stelt haar reglement van orde vast.
+5). L'Assemblée adopte son règlement intérieur.
 
-##### Artikel 3
+##### Article 3
 
-1a). De taken met betrekking tot het internationale depot van tekeningen en modellen van nijverheid, alsmede de andere aan de bijzondere Unie toevallende administratieve taken, worden verricht door het Internationale Bureau.
+1) a). Les tâches relatives au dépôt international des dessins et modèles industriels ainsi que les autres tâches administratives incombant à l'Union particulière sont assurées par le Bureau international.
 
-b). Het Internationale Bureau bereidt in het bijzonder de bijeenkomsten voor en voorziet in het secretariaat van de Algemene Vergadering en van de door haar in het leven te roepen commissies van deskundigen en werkgroepen.
+b). En particulier, le Bureau international prépare les réunions et assure le secrétariat de l'Assemblée et des comités d'experts et groupes de travail qu'elle peut créer.
 
-c). De Directeur-Generaal is de hoogste functionaris van de bijzondere Unie en tevens haar vertegenwoordiger.
+c). Le Directeur général est le plus haut fonctionnaire de l'Union particulière et la représente.
 
-2). De Directeur-Generaal en ieder door hem aangewezen lid van het personeel nemen zonder stemrecht deel aan alle bijeenkomsten van de Algemene Vergadering en van de door haar in te stellen commissies van deskundigen en werkgroepen. De Directeur-Generaal of een door hem aangewezen lid van het personeel is ambtshalve secretaris van die organen.
+2). Le Directeur général et tout membre du personnel désigné par lui prennent part, sans droit de vote, à toutes les réunions de l'Assemblée et de tout comité d'experts ou groupe de travail qu'elle peut créer. Le Directeur général ou un membre du personnel désigné par lui est d'office secrétaire de ces organes.
 
-3a). Het Internationale Bureau bereidt volgens de aanwijzingen van de Algemene Vergadering conferenties voor ter herziening van de bepalingen van de Schikking.
+3) a). Le Bureau international, selon les directives de l'Assemblée, prépare les conférences de révision des dispositions de l'Arrangement.
 
-b). Het Internationale Bureau kan bij de voorbereiding van de herzieningsconferenties het advies inwinnen van intergouvernementele en niet-gouvernementele internationale organisaties.
+b). Le Bureau international peut consulter des organisations intergouvernementales et internationales non gouvernementales sur la préparation des conférences de revision.
 
-c). De Directeur-Generaal en de door hem aangewezen personen nemen zonder stemrecht deel aan de beraadslagingen tijdens deze herzieningsconferenties.
+c). Le Directeur général et les personnes désignées par lui prennent part, sans droit de vote, aux délibérations dans ces conférences.
 
-4). Het Internationale Bureau voert alle overige aan hem opgedragen taken uit.
+4). Le Bureau international exécute toutes autres tâches qui lui sont attribuées.
 
-##### Artikel 4
+##### Article 4
 
-1a). De bijzondere Unie heeft een begroting.
+1) a). L'Union particulière a un budget.
 
-b). De begroting van de bijzondere Unie omvat de eigen inkomsten en uitgaven van de bijzondere Unie, haar bijdrage aan de begroting van de gemeenschappelijke uitgaven der Unies, alsook indien zulks zich voordoet, het bedrag dat ter beschikking is gesteld van de begroting van de Conferentie der Organisatie.
+b). Le budget de l'Union particulière comprend les recettes et les dépenses propres à l'Union particulière, sa contribution au budget des dépenses communes aux Unions, ainsi que, le cas échéant, la somme mise à la disposition du budget de la Conférence de l'Organisation.
 
-c). Als gemeenschappelijke uitgaven der Unies worden beschouwd de uitgaven die niet uitsluitend ten laste van de bijzondere Unie komen maar tevens van een of meer andere Unies, welke beheerd worden door de Organisatie. Het aandeel van de bijzondere Unie in deze gemeenschappelijke uitgaven is evenredig aan het belang, dat deze uitgaven voor haar vertegenwoordigen.
+c). Sont considérées comme dépenses communes aux Unions, les dépenses qui ne sont pas attribuées exclusivement à l'Union particulière, mais également à une ou plusieurs autres Unions administrées par l'Organisation. La part de l'Union particulière dans ces dépenses communes est proportionnelle à l'intérêt que ces dépenses présentent pour elle.
 
-d).
+2). Le budget de l'Union particulière est arrêté compte tenu des exigences de coordination avec les budgets des autres Unions administrées par l'Organisation.
 
-2. De begroting van de bijzondere Unie wordt vastgesteld met inachtneming van de vereisten tot coördinatie met de begrotingen van de andere door de Organisatie beheerde Unies.
+3). Le budget de l'Union particulière est financé par les ressources suivantes:
 
-3). De begroting van de bijzondere Unie wordt gefinancierd uit de volgende bronnen van inkomsten:
+- i) les taxes relatives au dépôt international et les taxes et sommes dues pour les autres services rendus par le Bureau international au titre de l'Union particulière;
 
-- i). de taksen voor het internationale depot en de taksen en gelden verschuldigd voor de overige diensten, welke door het Internationale Bureau worden verleend namens de bijzondere Unie;
+- ii) le produit de la vente des publications du Bureau international concernant l'Union particulière et les droits afférents à ces publications;
 
-- ii). de opbrengst van de verkoop van de publikaties van het Internationale Bureau betreffende de bijzondere Unie en de rechten welke op deze publikaties betrekking hebben;
+- iii) les dons, legs et subventions;
 
-- iii). giften, legaten en subsidies;
+- iv) les loyers, intérêts et autres revenus divers.
 
-- iv). huuropbrengsten, renten en overige inkomsten.
+4) a). Le montant des taxes mentionnées à l'alinéa 3) i) est fixé par l'Assemblée, sur proposition du Directeur général.
 
-4a). Het bedrag der taksen, bedoeld in lid 3) i) wordt vastgesteld door de Algemene Vergadering op voorstel van de Directeur-Generaal.
+b). Ce montant est fixé de manière à ce que les recettes de l'Union particulière provenant des taxes et des autres sources de revenus permettent au moins de couvrir les dépenses du Bureau international intéressant l'Union particulière.
 
-b). Dit bedrag wordt zo vastgesteld, dat de ontvangsten van de bijzondere Unie, afkomstig uit taksen en andere bronnen van inkomsten, ten minste voldoende zijn om de uitgaven van het Internationale Bureau ten behoeve van de bijzondere Unie te dekken.
+c). Dans le cas où le budget n'est pas adopté avant le début d'un nouvel exercice, le budget de l'année précédente est reconduit selon les modalités prévues par le règlement financier.
 
-c). Ingeval een begroting niet is vastgesteld voor de aanvang van het nieuwe begrotingsjaar wordt de begroting van het voorafgaande jaar aangehouden volgens de werkwijze voorzien in het financiële reglement.
+5). Sous réserve des dispositions de l'alinéa 4) *a),* le montant des taxes et sommes dues pour les autres services rendus par le Bureau international au titre de l'Union particulière est fixé par le Directeur général, qui en fait rapport à l'Assemblée.
 
-5). Onder voorbehoud van het bepaalde in het vierde lid onder a) wordt het bedrag der taksen en der gelden verschuldigd voor de andere door het Internationale Bureau namens de bijzondere Unie verleende diensten vastgesteld door de Directeur-Generaal, die daarover verslag uitbrengt aan de Algemene Vergadering.
+6) a). L'Union particulière possède un fonds de roulement constitué par les excédents de recettes et, si de tels excédents ne suffisent pas, par un versement unique effectué par chaque pays de l'Union particulière. Si le fonds devient insuffisant, l'Assemblée décide de son augmentation.
 
-6a). De bijzondere Unie bezit een operationeel fonds, gevormd door de overschotten der ontvangsten en ingeval deze overschotten niet voldoende zijn, door een eenmalige storting van elk der landen van de bijzondere Unie. Indien het fonds ontoereikend wordt beslist de Algemene Vergadering over bijstorting.
+b). Le montant du versement initial de chaque pays au fonds précité ou de sa participation à l'augmentation de celui-ci est proportionnel à la contribution de ce pays, en tant que membre de l'Union de Paris pour la protection de la propriété industrielle, au budget de ladite Union pour l'année au cours de laquelle le fonds est constitué ou l'augmentation décidée.
 
-b). Het bedrag der eerste storting door ieder land aan het hiervoor vermelde fonds of dat van zijn deelneming aan de bijstorting is evenredig aan de bijdrage van dat land, als lid van de Unie van Parijs voor de bescherming van de industriële eigendom, aan de begroting van genoemde Unie voor het jaar waarin het fonds is gesticht of tot bijstorting is besloten.
+c). La proportion et les modalités de versement sont arrêtées par l'Assemblée, sur proposition du Directeur général et après avis du Comité de coordination de l'Organisation.
 
-c). Het aandeel en de wijze van storting worden vastgesteld door de Algemene Vergadering op voorstel van de Directeur-Generaal en na advies van de Coördinatiecommissie van de Organisatie.
+7) a). L'Accord de siège conclu avec le pays sur le territoire duquel l'Organisation a son siège prévoit que, si le fonds de roulement est insuffisant, ce pays accorde des avances. Le montant de ces avances et les conditions dans lesquelles elles sont accordées font l'objet, dans chaque cas, d'accords séparés entre le pays en cause et l'Organisation.
 
-d).
+b). Le pays visé au sous-alinéa *a)* et l'Organisation ont chacun le droit de dénoncer l'engagement d'accorder des avances moyennant notification par écrit. La dénonciation prend effet trois ans après la fin de l'année au cours de laquelle elle a été notifiée.
 
-7a). De Overeenkomst betreffende de zetelvestiging, gesloten met het land op welks grondgebied de Organisatie haar zetel heeft, bepaalt dat, indien het operationele fonds niet toereikend is, dat land voorschotten verstrekt. Het bedrag dezer voorschotten en de voorwaarden waarop zij worden verstrekt, vormen telkenmale het onderwerp van afzonderlijke overeenkomsten tussen het betrokken land en de Organisatie.
+8). La vérification des comptes est assurée, selon les modalités prévues par le règlement financier, par un ou plusieurs pays de l'Union particulière ou par des contrôleurs extérieurs, qui sont, avec leur consentement, désignés par l'Assemblée.
 
-b). Het land, bedoeld onder a), en de Organisatie hebben elk het recht de overeenkomst tot het verstrekken van voorschotten schriftelijk op te zeggen. De opzegging wordt van kracht drie jaar na afloop van het jaar waarin de kennisgeving is gedaan.
+##### Article 5
 
-8). Het nazien der rekeningen wordt verricht op de wijze voorzien in het financiële reglement, door een of meer landen van de bijzondere Unie of door onafhankelijke controleurs, die met hun instemming zijn aangewezen door de Algemene Vergadering.
+1). Des propositions de modification au présent Acte complémentaire peuvent être présentées par tout pays membre de l'Assemblée ou par le Directeur général. Ces propositions sont communiquées par ce dernier aux pays membres de l'Assemblée six mois au moins avant d'être soumises à l'examen de l'Assemblée.
 
-##### Artikel 5
+2). Toute modification visée à l'alinéa 1) est adoptée par l'Assemblée. L'adoption requiert les trois quarts des votes exprimés; toutefois, toute modification de [l'article 2](https://wetten.overheid.nl/BWBV0006589) et du présent alinéa requiert les quatre cinquièmes des votes exprimés.
 
-1). Voorstellen tot wijziging van deze Aanvullende Akte kunnen worden ingediend door elk land dat lid is van de Algemene Vergadering of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden voor zij aan de behandeling door de Algemene Vergadering worden onderworpen, medegedeeld aan de landen die lid zijn van de Algemene Vergadering.
+3). Toute modification visée à l'alinéa 1) entre en vigueur un mois après la réception par le Directeur général des notifications écrites d'acceptation, effectuée en conformité avec leurs règles constitutionnelles respectives, de la part des trois quarts des pays qui étaient membres de l'Assemblée au moment où la modification a été adoptée. Toute modification ainsi acceptée lie tous les pays qui sont membres de l'Assemblée au moment où la modification entre en vigueur ou qui en deviennent membres à une date ultérieure.
 
-2). De wijzigingen, bedoeld in het eerste lid, worden door de Algemene Vergadering vastgesteld. Voor deze vaststelling is drie vierde van de uitgebrachte stemmen vereist; voor een wijziging van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=2&z=1980-11-03&g=1980-11-03) en van dit lid is evenwel vier vijfde van de uitgebrachte stemmen vereist.
+##### Article 6
 
-3). De wijzigingen, bedoeld in het eerste lid, worden van kracht één maand na ontvangst door de Directeur-Generaal van de schriftelijke verklaringen van aanvaarding, verricht overeenkomstig hun onder scheiden grondwettelijke procedures door drie vierde van de landen die lid waren van de Algemene Vergadering op het tijdstip waarop de herziening werd aanvaard. De aldus aanvaarde herziening bindt alle landen die lid zijn van de Algemene Vergadering op het tijdstip, waarop de wijziging van kracht wordt, of die op een latere datum lid worden.
+1) a). *Wijzigt de Overeenkomst van 's-Gravenhage van 6 november 1925 betreffende het internationaal depot van tekeningen of modellen van nijverheid, herzien te Londen op 2 juni 1934; Londen, 2 juni 1934.*
 
-##### Artikel 6
+b). *Wijzigt de Overeenkomst van 's-Gravenhage van 6 november 1925 betreffende het internationaal depot van tekeningen of modellen van nijverheid, herzien te Londen op 2 juni 1934; Londen, 2 juni 1934.*
 
-1a). Wijzigt de Overeenkomst van 's-Gravenhage van 6 november 1925 betreffende het internationaal depot van tekeningen of modellen van nijverheid, herzien te Londen op 2 juni 1934; Londen, 2 juni 1934.
+c). Toute modification du règlement d'exécution visé à l'article 20 de l'Acte de 1934 s'effectue selon la procédure prescrite par [l'article 2.2) *a)* iii) et 3) *d)*](https://wetten.overheid.nl/BWBV0006589).
 
-b). Wijzigt de Overeenkomst van 's-Gravenhage van 6 november 1925 betreffende het internationaal depot van tekeningen of modellen van nijverheid, herzien te Londen op 2 juni 1934; Londen, 2 juni 1934.
+d). *Wijzigt de Overeenkomst van 's-Gravenhage van 6 november 1925 betreffende het internationaal depot van tekeningen of modellen van nijverheid, herzien te Londen op 2 juni 1934; Londen, 2 juni 1934.*
 
-c). Alle wijzigingen van het reglement van uitvoering, bedoeld in artikel 20 van de Akte van 1934, worden verricht volgens de procedure omschreven in [artikel 2, tweede lid onder a) iii), en derde lid onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=2&z=1980-11-03&g=1980-11-03).
+e). Les références, dans l'article 22 de l'Acte de 1934, aux articles 16, *16bis* et *17 bis* de la „Convention générale” sont à considérer comme se rapportant à celles des dispositions de l'Acte de Stockholm de la Convention de Paris pour la protection de la propriété industrielle qui, dans ledit Acte de Stockholm, correspondent aux articles 16, 16*bis* et 17*bis* des Actes antérieurs de la Convention de Paris.
 
-d). Wijzigt de Overeenkomst van 's-Gravenhage van 6 november 1925 betreffende het internationaal depot van tekeningen of modellen van nijverheid, herzien te Londen op 2 juni 1934; Londen, 2 juni 1934.
+2) a). Toute modification des taxes visées à [l'article 3 de l'Acte additionnel de 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584&artikel=3) s'effectue selon la procédure prescrite par [l'article 2.2) *a)* iii) et 3) *d).*](https://wetten.overheid.nl/BWBV0006589)
 
-e). De verwijzingen in artikel 22 van de Akte van 1934 naar de artikelen 16, 16 bis en 17 bis van het „algemeen verdrag” worden geacht betrekking te hebben op die bepalingen van de Akte van Stockholm van het Verdrag van Parijs tot bescherming van de industriële eigendom, die in de bedoelde Akte van Stockholm overeenkomen met de artikelen 16, 16 bis en 17 bis van de voorgaande Akten van het Verdrag van Parijs.
+b). *Wijzigt de Aanvullende Akte bij de Overeenkomst van 's-Gravenhage van 6 november 1925 betreffende het internationaal depot van tekeningen of modellen van nijverheid, herzien te Londen op 2 juni 1934; Monaco, 18 november 1961.*
 
-2a). Alle wijzigingen van de taksen bedoeld in [artikel 3 van de Aanvullende Akte van 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584&artikel=3) worden tot stand gebracht volgens de procedure, omschreven in [artikel 2, tweede lid onder a) iii) en derde lid onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=2&z=1980-11-03&g=1980-11-03).
+c). Les références, dans [l'article 6.2) de l'Acte additionnel de 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584&artikel=6), aux articles 16 et 16bis de la Convention de Paris pour la protection de la propriété industrielle sont à considérer comme se rapportant à celles des dispositions de l'Acte de Stockholm de ladite Convention qui, dans l'Acte de Stockholm, correspondent aux articles 16 et 16*bis* des Actes antérieurs de la Convention de Paris.
 
-b). Wijzigt de Aanvullende Akte bij de Overeenkomst van 's-Gravenhage van 6 november 1925 betreffende het internationaal depot van tekeningen of modellen van nijverheid, herzien te Londen op 2 juni 1934; Monaco, 18 november 1961.
+d). Les références, dans les [alinéas 1) et 3) de l'article 7 de l'Acte additionnel de 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584&artikel=7), au Gouvernement de la Confédération suisse sont à considérer comme se rapportant au Directeur général.
 
-c). De verwijzingen in [artikel 6, tweede lid, van de Aanvullende Akte van 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584&artikel=6) naar de artikelen 16 en 16 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom worden geacht betrekking te hebben op die bepalingen van de Akte van Stockholm van bedoeld Verdrag, die in de Akte van Stockholm overeenkomen met de artikelen 16 en 16 bis van de voorgaande Akten van het Verdrag van Parijs.
+##### Article 7
 
-d). De verwijzingen in [artikel 7, eerste en derde lid, van de Aanvullende Akte van 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584&artikel=7) naar de Regering van de Zwitserse Bondsstaat dienen te worden beschouwd als betrekking hebbende op de Directeur-Generaal
+1). Les références, dans [l'Acte de 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034), au „Bureau de l'Union internationale pour la protection de la propriété industrielle” ou au „Bureau international” sont à considérer comme se rapportant au Bureau international tel qu'il est défini à [l'article 1](https://wetten.overheid.nl/BWBV0006589) du présent Acte complémentaire.
 
-##### Artikel 7
+2). *Wijzigt de Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960; 's-Gravenhage, 28 november 1960.*
 
-1). De verwijzingen in de [Akte van 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034) naar het „Bureau van de Internationale Unie voor de bescherming van de industriële eigendom” of naar het „Internationale Bureau” worden geacht betrekking te hebben op het Internationale Bureau, zoals dit is omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=1&z=1980-11-03&g=1980-11-03) van de onderhavige Aanvullende Akte.
+3). Les références, dans [l'Acte de 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034), au Gouvernement de la Confédération suisse sont à considérer comme se rapportant au Directeur général.
 
-2). Wijzigt de Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960; 's-Gravenhage, 28 november 1960.
+4). *Wijzigt de Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960; 's-Gravenhage, 28 november 1960.*
 
-3). De verwijzingen in de [Akte van 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034) naar de Regering van de Zwitserse Bondsstaat dienen te worden beschouwd als betrekking hebbende op de Directeur-Generaal.
+##### Article 8
 
-4). Wijzigt de Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960; 's-Gravenhage, 28 november 1960.
+1). Les pays qui, avant le 13 janvier 1968, ont ratifié l'Acte de 1934 ou [l'Acte de 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034), ainsi que les pays qui ont adhéré à l'un au moins de ces Actes, peuvent signer et ratifier le présent Acte complémentaire ou peuvent y adhérer.
 
-##### Artikel 8
+b). La ratification du présent Acte complémentaire, ou l'adhésion à celui-ci, par un pays qui est lié par l'Acte de 1934 sans être lié également par [l'Acte additionnel de 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584), comporte la ratification automatique de l'Acte additionnel de 1961, ou l'adhésion automatique à celui-ci.
 
-1a). De landen die vóór 13 januari 1968 de Akte van 1934 of de [Akte van 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034) hebben bekrachtigd, benevens de landen, die tot ten minste een van deze Akten zijn toegetreden, kunnen de onderhavige Aanvullende Akte ondertekenen en bekrachtigen of daartoe toetreden.
+2). Les instruments de ratification et d'adhésion sont déposés auprès du Directeur général.
 
-b). De bekrachtiging van of de toetreding tot de onderhavige Aanvullende Akte door een land, dat gebonden is door de Akte van 1934 zonder tevens gebonden te zijn door de [Aanvullende Akte van 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584) rengt automatisch de bekrachtiging van of de toetreding tot de Aanvullende Akte van 1961 met zich mede.
+##### Article 9
 
-2). De akten van bekrachtiging en toetreding worden nedergelegd bij de Directeur-Generaal.
+1). A l'égard des cinq pays qui ont, les premiers, déposé leurs instruments de ratification ou d'adhésion, le présent Acte complémentaire entre en vigueur trois mois après le dépôt du cinquième instrument de ratification ou d'adhésion.
 
-##### Artikel 9
+2). A l'égard de tout autre pays, le présent Acte complémentaire entre en vigueur trois mois après la date à laquelle sa ratification ou son adhésion a été notifiée par le Directeur général, à moins qu'une date postérieure n'ait été indiquée dans l'instrument de ratification ou d'adhésion. Dans ce dernier cas, le présent Acte entre en vigueur, à l'égard de ce pays, à la date ainsi indiquée.
 
-1). Voor de eerste vijf landen die hun akten van bekrachtiging of toetreding hebben nedergelegd treedt de onderhavige Aanvullende Akte in werking drie maanden na de datum waarop de vijfde akte van bekrachtiging of toetreding is nedergelegd.
+##### Article 10
 
-2). Voor ieder ander land treedt de onderhavige Aanvullende Akte in werking drie maanden na de datum waarop zijn bekrachtiging of toetreding door de Directeur-Generaal is bekendgemaakt, tenzij in de akte van bekrachtiging of toetreding een latere datum is vermeld. In dit laatste geval treedt voor het betrokken land de onderhavige Akte in werking op de aldus aangegeven datum.
+1). Sous réserve de [l'article 8](https://wetten.overheid.nl/BWBV0006589) et de l'alinéa suivant, tout pays qui n'a pas ratifié l'Acte de 1934 ou qui n'y a pas adhéré devient lié par [l'Acte additionnel de 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584) et par les [articles 1 à 6](https://wetten.overheid.nl/BWBR0009107) du présent Acte complémentaire à partir de la date à laquelle son adhésion à l'Acte de 1934 prend effet; toutefois, si à cette date le présent Acte complémentaire n'est pas encore entré en vigueur selon les termes de [l'article 9.1)](https://wetten.overheid.nl/BWBV0006589), alors ce pays ne devient lié par lesdits articles du présent Acte complémentaire qu'à partir de l'entrée en vigueur de ce dernier Acte selon les termes de l'article 9.1).
 
-##### Artikel 10
+2). Sous réserve de [l'article 8](https://wetten.overheid.nl/BWBV0006589) et de l'alinéa précédent, tout pays qui n'a pas ratifié [l'Acte de 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034) ou qui n'y a pas adhéré devient lié par les [articles 1 à 7](https://wetten.overheid.nl/BWBR0009107) du présent Acte complémentaire à partir de la date à laquelle sa ratification de l'Acte de 1960 ou son adhésion à celui-ci prend effet; toutefois, si à cette date le présent Acte complémentaire n'est pas encore entré en vigueur selon les termes de [l'article 9.1](https://wetten.overheid.nl/BWBV0006589)), alors ce pays ne devient lié par lesdits articles du présent Acte complémentaire qu'à partir de l'entrée en vigueur de ce dernier Acte selon les termes de l'article 9.1).
 
-1). Onverminderd het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=8&z=1980-11-03&g=1980-11-03) en in het volgende lid bepaalde wordt elk land, dat de Akte van 1934 niet heeft bekrachtigd of niet daartoe is toegetreden, gebonden door de [Aanvullende Akte van 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584) en door de artikelen 1 tot en met 6 van de onderhavige Aanvullende Akte vanaf de datum, waarop zijn toetreding tot de Akte van 1934 van kracht wordt; indien evenwel op die datum de onderhavige Aanvullende Akte nog niet ingevolge het bepaalde in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=9&z=1980-11-03&g=1980-11-03), in werking is getreden, is dat land niet gebonden door de genoemde artikelen van de onderhavige Aanvullende Akte dan na de inwerkingtreding van laatstgenoemde Akte ingevolge het bepaalde in artikel 9, eerste lid.
+##### Article 11
 
-2). Onverminderd het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=8&z=1980-11-03&g=1980-11-03) en in het vorige lid bepaalde wordt elk land, dat de [Akte van 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034) niet heeft bekrachtigd of niet daartoe is toegetreden, gebonden door de artikelen 1 tot en met 7 van de onderhavige Aanvullende Akte vanaf de datum, waarop zijn bekrachtiging van de Akte van 1960 of zijn toetreding daartoe van kracht wordt; indien evenwel op die datum de onderhavige Aanvullende Akte nog niet ingevolge het bepaalde in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=9&z=1980-11-03&g=1980-11-03), in werking is getreden, is dat land niet gebonden door de genoemde artikelen van de onderhavige Aanvullende Akte dan na de inwerkingtreding van laatstgenoemde Akte ingevolge het bepaalde in artikel 9, eerste lid.
+1) a). Le présent Acte complémentaire est signé en un seul exemplaire en langue française et déposé auprès du Gouvernement de la Suède.
 
-##### Artikel 11
+b). Des textes officiels sont établis par le Directeur général, après consultation des Gouvernements intéressés, dans les autres langues que l'Assemblée pourra indiquer.
 
-1a). De onderhavige Aanvullende Akte wordt ondertekend in één enkel exemplaar in de Franse taal en nedergelegd bij de Regering van Zweden.
+2). Le présent Acte complémentaire reste ouvert à la signature, à Stockholm, jusqu'au 13 janvier 1968.
 
-b). Officiële teksten worden vastgesteld door de Directeur-Generaal, na raadpleging van de betrokken Regeringen, in andere door de Algemene Vergadering aan te wijzen talen.
+3). Le Directeur général transmet deux copies, certifiées conformes par le Gouvernement de la Suède, du texte signé du présent Acte complémentaire aux Gouvernements de tous les pays de l'Union particulière et, sur demande, au Gouvernement de tout autre pays.
 
-2). De onderhavige Aanvullende Akte staat open voor ondertekening te Stockholm tot 13 januari 1968.
+4). Le Directeur général fait enregistrer le présent Acte complémentaire auprès du Secrétariat de l'Organisation des Nations Unies.
 
-3). De Directeur-Generaal verstrekt twee door de Regering van Zweden voor eensluidend gewaarmerkte afschriften van de ondertekende tekst van de onderhavige Aanvullende Akte aan de Regeringen van alle landen van de bijzondere Unie en, op verzoek, aan de Regeringen van andere landen.
+5). Le Directeur général notifie aux Gouvernements de tous les pays de l'Union particulière les signatures, les dépôts d'instruments de ratification ou d'adhésion, l'entrée en vigueur et toute autre notification appropriée.
 
-4). De Directeur-Generaal doet de onderhavige Aanvullende Akte registreren bij het Secretariaat van de Organisatie der Verenigde Naties.
+##### Article 12
 
-5). De Directeur-Generaal brengt de ondertekeningen, de nederleggingen van akten van bekrachtiging of toetreding, de inwerkingtreding en alle overige dienstige mededelingen ter kennis van de Regeringen van alle landen van de bijzondere Unie.
-
-##### Artikel 12
-
-Tot het tijdstip van ambtsaanvaarding van de eerste Directeur-Generaal worden de verwijzingen in de onderhavige Aanvullende Akte naar het Internationale Bureau van de Organisatie of naar de Directeur-Generaal geacht betrekking te hebben op het Bureau van de Unie, ingesteld krachtens het [Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), respectievelijk op zijn Directeur.
+Jusqu'à l'entrée en fonction du premier Directeur général, les références, dans le présent Acte complémentaire, au Bureau international de l'Organisation ou au Directeur général sont considérées comme se rapportant respectivement au Bureau de l'Union établie par la [Convention de Paris pour la protection de la propriété industrielle](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), ou à son Directeur.
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé le présent Acte complémentaire.
 

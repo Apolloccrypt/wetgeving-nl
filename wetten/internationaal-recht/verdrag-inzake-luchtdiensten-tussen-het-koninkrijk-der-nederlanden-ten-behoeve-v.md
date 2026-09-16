@@ -2,33 +2,22 @@
 title: "Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en het Gemenebest van de Bahama's"
 identifier: "BWBV0006652"
 categorie: "Internationaal recht"
-publicatiedatum: 2016-12-08
-laatste_update: 2016-12-08
+soort: "verdrag"
+publicatiedatum: 2026-06-01
+laatste_update: 2026-06-01
 status: geldig
+toestand: 2026-06-01
 bron: "https://wetten.overheid.nl/BWBV0006652"
+opgehaald: 2026-09-16
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en het Gemenebest van de Bahama's
 
-The Kingdom of the Netherlands, in respect of Curaçao,
-
-and
-
-the Commonwealth of The Bahamas (hereinafter, “the Parties”);
-
-Being parties to the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on December 7, 1944;
-
-Desiring to contribute to the progress of regional and international civil aviation;
-
-Desiring to conclude an agreement for the purpose of establishing and operating Air Services between and beyond their respective Territories;
-
-Desiring to ensure the highest level of safety and security in International Air Service;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands, in respect of Curaçao, and the Commonwealth of The Bahamas (hereinafter, “the Parties”); Being parties to the Convention on International Civil Aviation, opened for signature at Chicago on December 7, 1944; Desiring to contribute to the progress of regional and international civil aviation; Desiring to conclude an agreement for the purpose of establishing and operating Air Services between and beyond their respective Territories; Desiring to ensure the highest level of safety and security in International Air Service; Have agreed as follows:*
 
 ### CHAPTER I. INTRODUCTION
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purpose of this Agreement, unless otherwise defined, the term:
 
@@ -36,11 +25,11 @@ For the purpose of this Agreement, unless otherwise defined, the term:
 
 - 2. “Agreed Services” means Air Services on the specified routes for the carriage of passengers, cargo and mail, separately or in combination;
 
-- 3. “Agreement” means this Agreement, its Annex, and any amendments thereto;
+- 3. “Agreement” means this Agreement, its [Annex](https://wetten.overheid.nl/BWBV0006652), and any amendments thereto;
 
 - 4. “Air Service”, “International Air Service”, “Airline” and “stop for non-traffic purposes” shall have the meaning respectively assigned to them in [Article 96 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=96);
 
-- 5. “Designated Airline” means an Airline or Airlines designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=II&artikel=3&z=2016-12-08&g=2016-12-08) (Designation and Authorization) of this Agreement;
+- 5. “Designated Airline” means an Airline or Airlines designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=II&artikel=3&z=2026-06-01&g=2026-06-01) (Designation and Authorization) of this Agreement;
 
 - 6. “the Convention” means the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on December 7, 1944, and includes any Annex adopted under [Article 90 of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) and any amendment of the [Annexes](https://wetten.overheid.nl/jci1.3:c:BWBR0008858&artikel=1) or the Convention under Articles 90 and [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) thereof, insofar as those Annexes and amendments have become effective for, or been ratified by both Parties;
 
@@ -56,7 +45,7 @@ For the purpose of this Agreement, unless otherwise defined, the term:
 
 ### CHAPTER II. OBJECTIVES
 
-#### Article 2. Grant of Rights
+##### Article 2. Grant of Rights
 
 1. Each Party grants to the other Party the following rights for the conduct of Air Services by the Designated Airlines of the other Party:
 
@@ -64,13 +53,13 @@ For the purpose of this Agreement, unless otherwise defined, the term:
 
 - b. the right to make stops in its Territory for non-traffic purposes; and
 
-- c. the right to make stops at the point(s) on the route(s) specified in the Route Schedule to this Agreement for the purpose of taking on board and discharging international traffic in passengers, cargo and mail.
+- c. the right to make stops at the point(s) on the route(s) specified in the [Route Schedule](https://wetten.overheid.nl/BWBV0006652) to this Agreement for the purpose of taking on board and discharging international traffic in passengers, cargo and mail.
 
 2. Nothing in this Agreement shall be deemed to confer on the Designated Airline or Airlines of one Party the right to take on board in the Territory of the other Party, passengers, cargo or mail carried for remuneration or hire and destined for another point in the Territory of that other Party.
 
 3. The exercise of fifth freedom traffic rights will be subject to approval between the Aeronautical Authorities of both Parties, and may be agreed upon in an arrangement.
 
-#### Article 3. Designation and Authorization
+##### Article 3. Designation and Authorization
 
 1. Each Party shall have the right to designate in writing, through diplomatic channels, to the Aeronautical Authority of the other Party one or more Airlines to operate the Agreed Services in accordance with this Agreement and to withdraw a designation or to substitute another Airline for an Airline previously designated.
 
@@ -82,19 +71,19 @@ For the purpose of this Agreement, unless otherwise defined, the term:
 
 - c. the Designated Airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of International Air Services by the Party considering the application or applications; and
 
-- d. the Party designating the Airline is in compliance with the standards set forth in [Article 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=V&artikel=12&z=2016-12-08&g=2016-12-08) (Safety) and [Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=V&artikel=13&z=2016-12-08&g=2016-12-08) (Aviation Security).
+- d. the Party designating the Airline is in compliance with the standards set forth in [Article 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=V&artikel=12&z=2026-06-01&g=2026-06-01) (Safety) and [Article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=V&artikel=13&z=2026-06-01&g=2026-06-01) (Aviation Security).
 
 3. Upon receipt of the operating authorization of paragraph 2 of this Article, the Designated Airline may at any time begin to operate the Agreed Services, in part or in whole, provided that it complies with the provisions of this Agreement.
 
-#### Article 4. Revocation of Authorization
+##### Article 4. Revocation of Authorization
 
-1. Either Party shall have the right to withhold the authorizations referred to in [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=II&artikel=3&z=2016-12-08&g=2016-12-08) (Designation and Authorization) of this Agreement with respect to an Airline designated by the other Party, and to revoke, suspend or impose conditions on such authorizations, temporarily or permanently, in the event that the Designated Airline fails to comply with the provisions of paragraph 2 of Article 3 (Designation and Authorization), and of [Article 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=V&artikel=11&z=2016-12-08&g=2016-12-08) (Application of Laws) of this Agreement.
+1. Either Party shall have the right to withhold the authorizations referred to in [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=II&artikel=3&z=2026-06-01&g=2026-06-01) (Designation and Authorization) of this Agreement with respect to an Airline designated by the other Party, and to revoke, suspend or impose conditions on such authorizations, temporarily or permanently, in the event that the Designated Airline fails to comply with the provisions of paragraph 2 of Article 3 (Designation and Authorization), and of [Article 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=V&artikel=11&z=2026-06-01&g=2026-06-01) (Application of Laws) of this Agreement.
 
-2. In the event of an action by one Party under this Article, the rights of the other Party under [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VI&artikel=19&z=2016-12-08&g=2016-12-08) (Settlement of Disputes) shall not be prejudiced.
+2. In the event of an action by one Party under this Article, the rights of the other Party under [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VI&artikel=19&z=2026-06-01&g=2026-06-01) (Settlement of Disputes) shall not be prejudiced.
 
 ### CHAPTER III. COMMERCIAL PROVISIONS
 
-#### Article 5. Commercial Activities
+##### Article 5. Commercial Activities
 
 1. The Designated Airline(s) of each Party shall have the right to establish offices, both on-line and off-line, in the Territory of the other Party for the promotion and sale of Air Services.
 
@@ -122,13 +111,13 @@ For the purpose of this Agreement, unless otherwise defined, the term:
 
 provided that all Airlines in such arrangements (1) hold the appropriate authority and (2) meet the requirements normally applied to such arrangements.
 
-#### Article 6. User Charges
+##### Article 6. User Charges
 
 1. Neither Party shall impose or permit to be imposed on the Designated Airlines of the other Party User Charges higher than those imposed on its own Airlines operating similar International Air Services.
 
 2. Each Party shall encourage consultations on User Charges between its competent charging authority and Airlines using the service and facilities provided by those charging authorities or service provider where practicable through those Airlines' representative organizations. Reasonable notice of any proposals for changes in User Charges should be given to such users to enable them to express their views before such changes are made. Each Party shall further encourage its competent charging authority or service provider and such users to exchange appropriate information concerning User Charges.
 
-#### Article 7. Fair Competition
+##### Article 7. Fair Competition
 
 1. Each Designated Airline shall have a fair opportunity to operate the routes specified in this Agreement.
 
@@ -148,11 +137,11 @@ provided that all Airlines in such arrangements (1) hold the appropriate authori
 
 - e. the practices in question reflect an intent or have the effect of crippling, excluding or driving another Airline from the market.
 
-5. If the Aeronautical Authorities of one Party consider that an operation or operations intended or conducted by the Designated Airline(s) of the other Party may constitute unfair competitive behavior in accordance with paragraphs 4 of this Article, they may request consultation in accordance with [Article 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VI&artikel=18&z=2016-12-08&g=2016-12-08) (Consultations) of this Agreement with a view to resolving the problem. Any such request shall be accompanied by notice of the reasons for the request, and the consultation shall begin within sixty (60) days after receipt of the request.
+5. If the Aeronautical Authorities of one Party consider that an operation or operations intended or conducted by the Designated Airline(s) of the other Party may constitute unfair competitive behavior in accordance with paragraphs 4 of this Article, they may request consultation in accordance with [Article 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VI&artikel=18&z=2026-06-01&g=2026-06-01) (Consultations) of this Agreement with a view to resolving the problem. Any such request shall be accompanied by notice of the reasons for the request, and the consultation shall begin within sixty (60) days after receipt of the request.
 
-6. If the Parties fail to reach a resolution of the problem through consultations, either Party may invoke the dispute resolution mechanism under [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VI&artikel=19&z=2016-12-08&g=2016-12-08) (Settlement of Disputes) of this Agreement to resolve the dispute.
+6. If the Parties fail to reach a resolution of the problem through consultations, either Party may invoke the dispute resolution mechanism under [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VI&artikel=19&z=2026-06-01&g=2026-06-01) (Settlement of Disputes) of this Agreement to resolve the dispute.
 
-#### Article 8. Pricing
+##### Article 8. Pricing
 
 1. Prices charged for Air Services under this Agreement may be freely established by the Designated Airlines and shall not be subject to approval.
 
@@ -160,7 +149,7 @@ provided that all Airlines in such arrangements (1) hold the appropriate authori
 
 ### CHAPTER IV. FINANCIAL PROVISIONS
 
-#### Article 9. Customs Duties
+##### Article 9. Customs Duties
 
 1. Each Party shall on the basis of reciprocity exempt a Designated Airline of the other Party to the fullest extent possible under its national law from customs duties, excise taxes, inspection fees and other national duties and charges, not based on the cost of services provided on arrival, on aircraft, fuel, lubricating oils, consumable technical supplies, spare parts including engines, regular aircraft equipment, aircraft stores and other items such as printed ticket stock, air waybills, any printed material which bears the insignia of the company printed thereon and usual publicity material distributed free of charge by that Designated Airline intended for use or used solely in connection with the operation or servicing of aircraft of the Airline of such other Party operating the Agreed Services.
 
@@ -178,13 +167,13 @@ whether or not such items are used or consumed wholly within the Territory of th
 
 4. Regular airborne equipment, spare parts, supplies fuels and lubricants and aircraft stores retained on board the aircraft of either Party may be unloaded in the Territory of the other Party only with the approval of the customs authorities of that Party, who may require that materials be placed under their supervision up to such time as they are re-exported or otherwise disposed of in accordance with customs regulations.
 
-#### Article 10. Transfer of funds
+##### Article 10. Transfer of funds
 
 Each Designated Airline shall have the right to convert and remit to its country, on demand, local revenues from the sale of Air Services and associated activities directly linked to Air Services in excess of sums locally disbursed. Conversion and remittance shall be permitted promptly in respect thereof at the rate of exchange applicable to current transactions and remittance on the date the carrier makes the initial application for remittance.
 
 ### CHAPTER V. REGULATORY PROVISIONS
 
-#### Article 11. Application of Laws
+##### Article 11. Application of Laws
 
 1. The laws and regulations of one Party governing entry into and departure from its Territory of aircraft engaged in International Air Services, or the operation and navigation of such aircraft while within its Territory, shall be applied to aircraft of the Designated Airline of the other Party.
 
@@ -194,11 +183,11 @@ Each Designated Airline shall have the right to convert and remit to its country
 
 4. Passengers, baggage, cargo and mail in direct transit shall be subject to no more than a simplified control. Baggage and cargo in direct transit shall be exempt from customs duties and other similar taxes.
 
-#### Article 12. Safety
+##### Article 12. Safety
 
 1. Each Party shall recognize as valid, for the purpose of operating the Air Service provided for in this Agreement, certificates of airworthiness, certificates of competency, and licenses issued or validated by the other Party and still in force, provided that the requirements for such certificates or licenses are at least equal to the minimum standards that may be established pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507). Each Party may, however, refuse to recognize as valid for the purpose of flights above or landing within its own Territory, certificates of competency and licenses granted to or validated for its own nationals by the other Party.
 
-2. Each Party may request consultations concerning the safety standards maintained by the other Party relating to aeronautical facilities, aircrew, aircraft and the operation of the aircraft. Such consultations shall take place in conformity with [Article 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VI&artikel=18&z=2016-12-08&g=2016-12-08) (Consultations) of this Agreement.
+2. Each Party may request consultations concerning the safety standards maintained by the other Party relating to aeronautical facilities, aircrew, aircraft and the operation of the aircraft. Such consultations shall take place in conformity with [Article 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VI&artikel=18&z=2026-06-01&g=2026-06-01) (Consultations) of this Agreement.
 
 3. If, following such consultations, one Party finds that the other Party does not effectively maintain and administer safety standards and requirements in the areas referred to in paragraph 2 of this Article that meet the minimum standards that may be established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), the other Party shall be notified of such findings and the steps considered necessary to conform with these minimum standards, and the other Party shall take appropriate corrective action within an agreed time period. Each Party reserves the right to withhold, revoke, or limit the operations authorization of an Airline or Airlines designated by the other Party in the event the other Party does not take such appropriate corrective action within an agreed period of time.
 
@@ -210,7 +199,7 @@ Each Designated Airline shall have the right to convert and remit to its country
 
 7. With reference to paragraph 3 of this Article, if it is determined that one Party remains in non-compliance with the International Civil Aviation Organization (ICAO) standards when the agreed time period has elapsed, the Secretary General of ICAO should be advised thereof. The latter should also be advised of the subsequent satisfactory resolution of the situation.
 
-#### Article 13. Aviation Security
+##### Article 13. Aviation Security
 
 1. In accordance with their rights and obligations under international law, the Parties reaffirm that their obligation to each other to protect the security of civil aviation against acts of unlawful interference forms an integral part of this Agreement. Without limiting the generality of their rights and obligations under international law, the Parties shall, in particular, act in conformity with the provisions of the [Convention on Offences and Certain Other Acts Committed on Board Aircraft](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), done at Tokyo on September 14, 1963, the [Convention for the Suppression of Unlawful Seizure of Aircraft](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), done at The Hague on December 16, 1970, the [Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0002724), done at Montreal on September 23, 1971, its [Supplementary Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), done at Montreal on February 24, 1988, the [Convention on the Marking of Plastic Explosives for the Purpose of Detection](https://wetten.overheid.nl/jci1.3:c:BWBV0003003), done at Montreal on March 1, 1991, as well as with any other convention or protocol relating to the security of civil aviation which both Parties adhere to.
 
@@ -226,7 +215,7 @@ Each Designated Airline shall have the right to convert and remit to its country
 
 7. When a Party has reasonable grounds to believe that the other Party has departed from the aviation security provisions of this Article, the Aeronautical Authorities of that Party may request immediate consultations with the Aeronautical Authorities of the other Party. Such consultations shall start within fifteen (15) days of receipt of such a request from either Party. Failure to reach a satisfactory agreement within fifteen (15) days from the date of such request shall constitute grounds to withhold, revoke, limit, or impose conditions on the operating authorization of a Designated Airline or Airlines of that Party. When required by an emergency, or to prevent further non-compliance with the provisions of this Article, a Party may take interim action at any time prior to the expiry of fifteen (15) days.
 
-#### Article 14. Security of Travel Documents
+##### Article 14. Security of Travel Documents
 
 1. Each Party agrees to adopt measures to ensure the security of their passports and other travel documents.
 
@@ -236,7 +225,7 @@ Each Designated Airline shall have the right to convert and remit to its country
 
 4. Each Party further agrees to exchange operational information regarding forged or counterfeit travel documents, and to cooperate with the other Party to strengthen resistance to travel document fraud, including the forgery and counterfeiting of travel documents, the use of forged or counterfeit travel documents, the use of valid travel documents by imposters, the misuse of authentic travel documents by rightful holders in furtherance of the commission of an offence, the use of expired or revoked travel documents, and the use of fraudulently obtained travel documents.
 
-#### Article 15. Inadmissible and Undocumented Passengers and Deportees
+##### Article 15. Inadmissible and Undocumented Passengers and Deportees
 
 1. Each Party agrees to establish effective border controls.
 
@@ -246,53 +235,53 @@ Each Designated Airline shall have the right to convert and remit to its country
 
 ### CHAPTER VI. PROCEDURAL PROVISIONS
 
-#### Article 16. Approval of Schedules
+##### Article 16. Approval of Schedules
 
 1. The Designated Airline(s) of each Party shall submit its envisaged flight schedules for approval to the Aeronautical Authorities of the other Party at least thirty (30) days prior to the operation of the Agreed Services. The same shall apply to any modification thereof.
 
 2. For supplementary flights which a Designated Airline of one Party wishes to operate on the Agreed Services outside the approved timetable, that Airline must request prior permission from the Aeronautical Authorities of the other Party. Such requests shall be submitted at least fifteen (15) days prior to the operation of such flights.
 
-#### Article 17. Statistics
+##### Article 17. Statistics
 
 The Aeronautical Authorities of each Party shall provide the Aeronautical Authorities of the other Party, upon request, periodic or other statements of statistics as may be reasonably required.
 
-#### Article 18. Consultations
+##### Article 18. Consultations
 
 Either Party may, at any time, request consultations relating to the interpretation, application, implementation, or amendment of, or compliance with this Agreement or its Annexes. Such consultations shall begin, unless otherwise agreed, not later than sixty (60) days from the date the other Party receives the request.
 
-#### Article 19. Settlement of Disputes
+##### Article 19. Settlement of Disputes
 
-1. The Aeronautical Authorities of the Parties shall in the first place endeavor to settle by consultations and negotiation any dispute arising between the Parties relating to the interpretation or application of this Agreement, except those that may arise under [Articles 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=V&artikel=12&z=2016-12-08&g=2016-12-08) (Safety) and [13](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=V&artikel=13&z=2016-12-08&g=2016-12-08) (Aviation Security).
+1. The Aeronautical Authorities of the Parties shall in the first place endeavor to settle by consultations and negotiation any dispute arising between the Parties relating to the interpretation or application of this Agreement, except those that may arise under [Articles 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=V&artikel=12&z=2026-06-01&g=2026-06-01) (Safety) and [13](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=V&artikel=13&z=2026-06-01&g=2026-06-01) (Aviation Security).
 
 2. If the Aeronautical Authorities fail to reach a settlement by negotiation, the dispute shall be settled through diplomatic channels.
 
-#### Article 20. Amendment
+##### Article 20. Amendment
 
-1. Any amendment to the present Agreement shall be agreed upon by the Parties and shall be effected through an exchange of diplomatic notes. Such amendment shall enter into force in accordance with the provisions of [Article 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VII&artikel=25&z=2016-12-08&g=2016-12-08) (Entry into Force).
+1. Any amendment to the present Agreement shall be agreed upon by the Parties and shall be effected through an exchange of diplomatic notes. Such amendment shall enter into force in accordance with the provisions of [Article 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VII&artikel=25&z=2026-06-01&g=2026-06-01) (Entry into Force).
 
-2. Notwithstanding the provisions of paragraph 1 of this Article, any amendments to the Annex to this present Agreement may be agreed upon by the Aeronautical Authorities of the Parties, through an exchange of diplomatic notes and shall enter into force on a date to be determined in the diplomatic notes. This exception to paragraph 1 of this Article does not apply in case any traffic rights are added to the Annex.
+2. Notwithstanding the provisions of paragraph 1 of this Article, any amendments to the [Annex](https://wetten.overheid.nl/BWBV0006652) to this present Agreement may be agreed upon by the Aeronautical Authorities of the Parties, through an exchange of diplomatic notes and shall enter into force on a date to be determined in the diplomatic notes. This exception to paragraph 1 of this Article does not apply in case any traffic rights are added to the Annex.
 
 ### CHAPTER VII. FINAL PROVISIONS
 
-#### Article 21. Multilateral Agreements
+##### Article 21. Multilateral Agreements
 
-If a general multilateral air transport agreement comes into force in respect of both Parties, this Agreement and its Annex shall be deemed to be amended accordingly. Consultations in accordance with [Article 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VI&artikel=18&z=2016-12-08&g=2016-12-08) (Consultations) of this Agreement may be held with a view to determining the extent to which this Agreement is affected by the provisions of the multilateral agreement.
+If a general multilateral air transport agreement comes into force in respect of both Parties, this Agreement and its [Annex](https://wetten.overheid.nl/BWBV0006652) shall be deemed to be amended accordingly. Consultations in accordance with [Article 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006652&hoofdstuk=VI&artikel=18&z=2026-06-01&g=2026-06-01) (Consultations) of this Agreement may be held with a view to determining the extent to which this Agreement is affected by the provisions of the multilateral agreement.
 
-#### Article 22. Termination
+##### Article 22. Termination
 
 1. Either Party may at any time give notice in writing through diplomatic channels to the other Party of its decision to terminate this Agreement. Such notice shall be communicated simultaneously to ICAO.
 
 2. The Agreement shall terminate at midnight one (1) year after the date of receipt of the notice by the other Party, unless the notice to terminate is withdrawn by mutual consent before the expiry of this period. In the absence of acknowledgement of receipt by the other Party, the notice shall be deemed to have been received fourteen (14) days after the receipt of the notice by ICAO.
 
-#### Article 23. Registration with ICAO
+##### Article 23. Registration with ICAO
 
 This Agreement and any amendments thereto shall, upon signature, be submitted for registration with ICAO.
 
-#### Article 24. Territorial Application
+##### Article 24. Territorial Application
 
 As regards the Kingdom of the Netherlands, this Agreement shall apply to Curaçao only.
 
-#### Article 25. Entry into Force
+##### Article 25. Entry into Force
 
 This Agreement shall enter into force on the first day of the second month following the date of receipt of the last written notification, through diplomatic channels, by which the Parties shall have notified each other that all necessary internal procedures for entry into force of this Agreement have been completed.
 
@@ -300,10 +289,10 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respe
 
 DONE at Nassau, The Bahamas on this 8th day of December 2016, in duplicate, in the English language.
 
-**For the Commonwealth of the Bahamas**
+*For the Commonwealth of the Bahamas*
 
 GLENYS HANNA-MARTIN
 
-**For the Kingdom of the Netherlands, in respect of Curaçao**
+*For the Kingdom of the Netherlands, in respect of Curaçao*
 
 SUSANNE CAMELIA-RÖMER

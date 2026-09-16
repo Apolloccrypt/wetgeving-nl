@@ -1,305 +1,266 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake internationale juridische samenwerking met betrekking tot misdrijven die verband houden met het neerhalen van vlucht MH17 van Malaysia Airlines op 17 juli 2014"
 identifier: "BWBV0006683"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-08-28"
-last_updated: "2018-08-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006683"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005410523"
-version_id: "10005850302"
-internal_id: "C10009433151"
-label_id: "10005393634"
-dtd_version: "2.0"
-original_entry_into_force: "2018-08-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006683/2018-08-28/0"
-intitule_bron: "Trb.2017-102"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2017-07-07"
-intitule_in_force: "2018-09-07"
-intitule_status: "goed"
-original_publication: "Trb.2017-102"
-original_published_date: "2017-07-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2017-102"
-entry_into_force_date: "2018-08-28"
-jci_1_3: "jci1.3:c:BWBV0006683&z=2018-08-28&g=2018-08-28"
-jci_1_0: "1.0:c:BWBV0006683&g=2018-08-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-08-28"
+publicatiedatum: 2018-08-28
+laatste_update: 2018-08-28
+status: geldig
+toestand: 2018-08-28
+bron: "https://wetten.overheid.nl/BWBV0006683"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake internationale juridische samenwerking met betrekking tot misdrijven die verband houden met het neerhalen van vlucht MH17 van Malaysia Airlines op 17 juli 2014
 
-Het Koninkrijk der Nederlanden
+*The Kingdom of the Netherlands and Ukraine (hereinafter the “Parties”), Recalling the downing of Malaysia Airlines flight MH17 on 17 July 2014 in Donetsk Oblast, Ukraine, which resulted in the tragic loss of 298 lives; Considering that UN Security Council Resolution 2166 (2014) demands that those responsible for the downing of Malaysia Airlines flight MH17 be held to account and that all States cooperate fully with efforts to establish accountability; Noting that Australia, the Kingdom of Belgium, Malaysia, the Kingdom of the Netherlands and Ukraine are participating in a Joint Investigation Team (JIT) to coordinate the international criminal investigation, with the aim of bringing the perpetrators to justice; Considering that the States participating in the JIT have determined that it is in the interests of the proper administration of justice that the prosecution and adjudication of crimes connected with the downing of Malaysia Airlines flight MH17 are concentrated in the Kingdom of the Netherlands; Noting that judicial authorities of the States participating in the JIT have agreed to consult each other in relation to prosecution or related measures connected with the downing of Malaysia Airlines flight MH17; Taking into account the Agreement on cooperation between Ukraine and Eurojust, done at Brussels on 27 June 2016 and the Agreement between Ukraine and the European Police Office on operational and strategic cooperation done at The Hague on 14 December 2016; Have agreed as follows:*
 
-en
+## PART I. GENERAL PROVISIONS
 
-Oekraïne
+##### Article 1. Definitions
 
-(hierna „de partijen”),
+For the purpose of this Agreement:
 
-**In herinnering roepend** het neerhalen van vlucht MH17 van Malaysia Airlines op 17 juli 2014 in Donetsk Oblast, Oekraïne, dat leidde tot het tragische verlies van 298 levens;
+- a) “Convention on the Transfer of Proceedings” means: the [European Convention on the Transfer of Proceedings in Criminal Matters](https://wetten.overheid.nl/BWBV0001035), done at Strasbourg on 15 May 1972 (European Treaty Series No. 73);
 
-**Overwegende** dat in Resolutie 2166 (2014) van de Veiligheidsraad van de Verenigde Naties wordt geëist dat de verantwoordelijken voor het neerhalen van vlucht MH17 van Malaysia Airlines ter verantwoording worden geroepen en dat alle staten volledig meewerken aan inspanningen om dit te bewerkstelligen;
+- b) “crime” means: any crime connected with the downing of Malaysia Airlines flight MH17 on 17 July 2014;
 
-**Gelet op het feit** dat Australië, het Koninkrijk België, Maleisië, het Koninkrijk der Nederlanden en Oekraïne samenwerken in een **Joint Investigation Team** (JIT) om het internationale strafrechtelijk onderzoek te coördineren, met als doel de daders voor de rechter te brengen;
+- c) “judgment”: means a decision or order of a court in the Kingdom of the Netherlands imposing a sentence for a crime;
 
-**Overwegende** dat de staten die deelnemen aan het JIT hebben besloten dat het in het belang van een goede rechtsbedeling is dat de vervolging en berechting van misdrijven die verband houden met het neerhalen van vlucht MH17 van Malaysia Airlines in het Koninkrijk der Nederlanden worden geconcentreerd;
+- d) “sentence”: means any punishment or measure involving deprivation of liberty imposed by a court in the Kingdom of the Netherlands for a crime.
 
-**Gelet op het feit** dat de justitiële autoriteiten van de staten die deelnemen aan het JIT zijn overeengekomen met elkaar te overleggen over de vervolging of daarmee samenhangende maatregelen die verband houden met het neerhalen van vlucht MH17 van Malaysia Airlines;
+##### Article 2. Scope of application
 
-**Rekening houdend** met het Verdrag inzake samenwerking tussen Oekraïne en Eurojust, gedaan te Brussel op 27 juni 2016 en het Verdrag tussen Oekraïne en Europol inzake operationele en strategische samenwerking, gedaan te Den Haag op 14 december 2016;
+1. This Agreement serves to regulate matters relating to or arising out of the prosecution and adjudication in the Kingdom of the Netherlands of crimes connected with the downing of Malaysia Airlines flight MH17 on 17 July 2014 in Ukraine.
 
-Zijn het volgende overeengekomen:
+2. The Parties shall afford one another the widest measure of cooperation in respect of the prosecution and adjudication of these crimes and the enforcement of any sentence rendered for these crimes.
 
-## DEEL I. ALGEMENE BEPALINGEN
+3. This Agreement supplements existing conventions and regulations regarding international cooperation in criminal matters applicable between the Parties.
 
-##### Artikel 1. Begripsomschrijvingen
+##### Article 3. Channels of communication
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+1. For the purpose of the application of this Agreement the competent authorities of the Parties shall communicate through their central authorities, which are:
 
-- a. „Verdrag betreffende de overdracht van strafvervolging”: het [Europees verdrag betreffende de overdracht van strafvervolging](onbekend), gedaan te Straatsburg op 15 mei 1972 (ETS nr. 73);
+- a) for Ukraine: the Prosecutor General’s Office concerning requests during the pre-trial stage and the Ministry of Justice concerning requests during the trial and enforcement of sentence stages;
 
-- b. „misdrijf”: elk misdrijf dat verband houdt met het neerhalen van vlucht MH17 van Malaysia Airlines op 17 juli 2014;
+- b) for the Kingdom of the Netherlands: the Minister of Security and Justice.
 
-- c. „vonnis”: een beslissing of bevel van een rechter in het Koninkrijk der Nederlanden waarin een veroordeling wegens een misdrijf wordt uitgesproken;
+2. Requests and answers shall be exchanged by any means which leaves a written record under conditions allowing them to establish their authenticity.
 
-- d. „veroordeling”: elke straf of maatregel die door een rechter van het Koninkrijk der Nederlanden wordt opgelegd en die vrijheidsbeneming wegens een misdrijf met zich meebrengt.
+##### Article 4. Exemption from legalization
 
-##### Artikel 2. Reikwijdte
+Any request or documents submitted by either Party in accordance with this Agreement shall be exempt from legalization or other similar formalities.
 
-1. Dit Verdrag strekt tot het regelen van aangelegenheden in verband met of voortvloeiend uit de vervolging en berechting in het Koninkrijk der Nederlanden van misdrijven die verband houden met het neerhalen van vlucht MH17 van Malaysia Airlines op 17 juli 2014 in Oekraïne.
+## PART II. TRANSFER OF CRIMINAL PROCEEDINGS
 
-2. De partijen werken in de ruimst mogelijke zin samen bij de vervolging en berechting van deze misdrijven en de tenuitvoerlegging van elke veroordeling die wegens deze misdrijven wordt uitgesproken.
+##### Article 5. Competence
 
-3. Dit Verdrag vormt een aanvulling op bestaande verdragen en regelingen inzake internationale strafrechtelijke samenwerking die tussen de partijen van toepassing zijn.
+1. In addition and without prejudice to existing competence under its own criminal law, the Kingdom of the Netherlands shall have competence to prosecute crimes to which the law of Ukraine is applicable, following a transfer of proceedings in accordance with [Article 6](https://wetten.overheid.nl/BWBV0006683) of this Agreement.
 
-##### Artikel 3. Communicatiekanalen
+2. For the purpose of the application of this Agreement, a transfer of proceedings may be based on the grounds listed in [Article 8, paragraph 1, of the Convention on the Transfer of Proceedings](https://wetten.overheid.nl/jci1.3:c:BWBV0001035&artikel=8), of which subparagraphs (d) and (e) are particularly relevant.
 
-1. Ten behoeve van de toepassing van dit Verdrag communiceren de bevoegde autoriteiten van de partijen via hun centrale autoriteiten. Deze zijn:
+##### Article 6. Transfer of proceedings
 
-- a. voor Oekraïne: het openbaar ministerie wat betreft verzoeken tijdens de fase voorafgaand aan het proces en het ministerie van Justitie wat betreft verzoeken tijdens de fase waarin het proces plaatsvindt en de fase waarin de veroordeling ten uitvoer wordt gelegd;
+1. For the purpose of the application of [Article 6 of the Convention on the Transfer of Proceedings](https://wetten.overheid.nl/jci1.3:c:BWBV0001035&artikel=6), the Kingdom of the Netherlands may invite Ukraine to request for a transfer of proceedings.
 
-- b. voor het Koninkrijk der Nederlanden: de Minister van Veiligheid en Justitie.
+2. Ukraine shall act upon the invitation expeditiously and in accordance with its national law.
 
-2. Verzoeken en antwoorden worden uitgewisseld in een vorm die toelaat dat het schriftelijk wordt vastgelegd en die de autoriteiten in staat stelt de echtheid ervan vast te stellen.
+3. No translation of the documents relating to the transfer of criminal proceedings shall be required.
 
-##### Artikel 4. Vrijstelling van legalisatie
+## PART III. EXTRADITION
 
-Elk verzoek of document dat door een partij in overeenstemming met dit Verdrag wordt ingediend is vrijgesteld van legalisatie of andere soortgelijke formaliteiten.
+##### Article 7. Extradition
 
-## DEEL II. OVERDRACHT VAN STRAFVERVOLGING
+In relation to the issues of extradition of persons for crimes the relevant international treaties in force between the Parties shall apply.
 
-##### Artikel 5. Bevoegdheid
+## PART IV. USE OF VIDEOCONFERENCE
 
-1. In aanvulling op en onverminderd bestaande bevoegdheden ingevolge zijn eigen strafrecht heeft het Koninkrijk der Nederlanden de bevoegdheid misdrijven te vervolgen waarop het Oekraïense recht van toepassing is, na een overdracht van strafvervolging in overeenstemming met [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=II&artikel=6&z=2018-08-28&g=2018-08-28) van dit Verdrag.
+##### Article 8. Standing trial by videoconference
 
-2. Ten behoeve van de toepassing van dit Verdrag kan een overdracht van strafvervolging berusten op de gronden die zijn genoemd in [artikel 8, eerste lid, van het Verdrag betreffende de overdracht van strafvervolging](https://wetten.overheid.nl/jci1.3:c:BWBV0001035&artikel=8), waarvan met name de onderdelen d en e relevant zijn.
+1. An accused person who is present in the territory of Ukraine and whose extradition to the Kingdom of the Netherlands has been refused, may stand trial in the Kingdom of the Netherlands via a videoconference link in accordance with this Agreement.
 
-##### Artikel 6. Overdracht van strafvervolging
+2. Standing trial by videoconference shall only be carried out with the consent of the accused person. The Parties shall make arrangements enabling the competent authority of the Kingdom of the Netherlands to inform the accused person of the consequences of consenting to the use of videoconference and to assure that the accused person expresses his or her consent voluntarily and in full awareness of these consequences. To that end, the accused person shall have the right to be assisted by a legal counsel and by an interpreter. The consent shall be given in writing or otherwise formally recorded and may not be revoked.
 
-1. Ten behoeve van de toepassing van [artikel 6 van het Verdrag betreffende de overdracht van strafvervolging](https://wetten.overheid.nl/jci1.3:c:BWBV0001035&artikel=6) kan het Koninkrijk der Nederlanden Oekraïne uitnodigen te verzoeken om een overdracht van strafvervolging.
+3. After the consent, referred to in paragraph 2 of this Article, has been given, standing trial by videoconference shall be considered as proceedings at the hearing of which the accused person was personally present.
 
-2. Oekraïne geeft met voortvarendheid en overeenkomstig zijn nationale recht gevolg aan de uitnodiging.
+4. The competent authorities of the Parties shall agree the practical arrangements, including the technical means and specifications for the use of videoconference and the persons participating in the hearing by videoconference. When agreeing practical arrangements, the competent authority of Ukraine shall undertake to:
 
-3. De documenten met betrekking tot de overdracht van strafvervolging behoeven niet te worden vertaald.
+- a) inform the accused person of the date and place of the hearing by videoconference and, where necessary, arrange for him or her to be present at the hearing by videoconference;
 
-## DEEL III. UITLEVERING
+- b) provide the accused person with information, submitted by the Kingdom of the Netherlands, about his or her rights under Dutch law, in such a time as to allow the exercise of his or her rights of defence effectively.
 
-##### Artikel 7. Uitlevering
+5. Where a hearing is held by videoconference, the following rules shall apply:
 
-Op kwesties van uitlevering van personen wegens misdrijven zijn de relevante internationale verdragen die tussen de partijen van kracht zijn van toepassing.
+- a) a judicial authority of Ukraine shall be present during the hearing, where necessary assisted by an interpreter, and shall also be responsible for establishing the identity of the accused person and ensuring respect for the fundamental principles of Ukrainian law. If that authority is of the view that during the hearing the fundamental principles of Ukrainian law are being infringed, it shall immediately take the necessary measures to ensure that the hearing continues in accordance with those principles;
 
-## DEEL IV. GEBRUIKMAKING VAN VIDEOCONFERENTIE
+- b) measures for the protection of the accused person shall be agreed, where necessary, between the competent authorities of the Parties;
 
-##### Artikel 8. Terechtstaan per videoconferentie
+- c) the hearing shall be conducted directly by or under the direction of the judicial authority of the Kingdom of the Netherlands in accordance with Dutch law;
 
-1. Een verdachte die zich op het grondgebied van Oekraïne bevindt en wiens uitlevering aan het Koninkrijk der Nederlanden is geweigerd, kan terechtstaan in het Koninkrijk der Nederlanden door middel van een videoconferentieverbinding in overeenstemming met dit Verdrag.
+- d) at the request of the Kingdom of the Netherlands or the accused person, Ukraine shall ensure that the accused person is assisted by an interpreter, if necessary;
 
-2. Terechtstaan per videoconferentie vindt uitsluitend plaats indien de verdachte daarmee instemt. De partijen treffen regelingen die de bevoegde autoriteit van het Koninkrijk der Nederlanden in staat stellen de verdachte in kennis te stellen van de consequenties van zijn instemming met het gebruikmaken van videoconferentie en zich ervan te verzekeren dat de verdachte vrijwillig instemt en zich terdege bewust is van deze consequenties. De verdachte heeft hiertoe het recht zich door een raadsman en een tolk te laten bijstaan. De instemming dient schriftelijk of op andere wijze formeel te worden vastgelegd en kan niet worden ingetrokken.
+- e) accused persons shall be informed in advance of the hearing of the procedural rights which would accrue to them, including the right not to testify, under the law of the Parties.
 
-3. Nadat de in het tweede lid van dit artikel bedoelde instemming is verleend, geldt het terechtstaan per videoconferentie als een procedure op tegenspraak.
+6. Without prejudice to any measures agreed for the protection of persons, on the conclusion of the hearing, the competent authority of Ukraine shall draw up minutes indicating the date and place of the hearing, the identity of the person heard, the identities and functions of all other persons in Ukraine participating in the hearing, any oaths taken and the technical conditions under which the hearing took place. The document shall be forwarded to the competent authority of the Kingdom of the Netherlands.
 
-4. De bevoegde autoriteiten van de partijen komen praktische regelingen overeen over onder meer de technische middelen en specificaties voor het gebruikmaken van videoconferentie en de personen die aan het verhoor per videoconferentie deelnemen. Bij het overeenkomen van de praktische regelingen verbindt de bevoegde autoriteit van Oekraïne zich ertoe:
+##### Article 9. Hearing witnesses or experts by videoconference
 
-- a. de verdachte in kennis te stellen van de datum en plaats van het verhoor per videoconferentie en, indien nodig, ervoor te zorgen dat de verdachte aanwezig is bij het verhoor per videoconferentie;
+1. If a person is present in the territory of Ukraine and has to be heard as a witness or expert for evidentiary purposes during the pre-trial stage or during trial, the competent authorities of the Kingdom of the Netherlands may request that the hearing take place by videoconference, in accordance with this Agreement.
 
-- b. de verdachte te voorzien van door het Koninkrijk der Nederlanden verschafte informatie over zijn rechten ingevolge het Nederlandse recht, op een zodanig moment dat het hem mogelijk maakt zijn rechten van verdediging daadwerkelijk uit te oefenen.
+2. The competent authorities of the Parties shall agree the practical arrangements, including the technical means and specifications for the use of videoconference and the persons participating in the hearing. When agreeing such arrangements, the competent authority of Ukraine shall undertake to:
 
-5. Bij een verhoor per videoconferentie zijn de volgende regels van toepassing:
+- a) summon the witness or expert concerned, indicating the time and the venue of the hearing;
 
-- a. een rechterlijke autoriteit van Oekraïne is aanwezig tijdens het verhoor, indien nodig bijgestaan door een tolk, en heeft tot taak de identiteit van de verdachte vast te stellen en erop toe te zien dat de fundamentele beginselen van het Oekraïense recht in acht worden genomen. Indien deze autoriteit van oordeel is dat de fundamentele beginselen van het Oekraïense recht tijdens het verhoor worden geschonden, treft zij onverwijld de nodige maatregelen opdat het verhoor met inachtneming van die beginselen wordt voortgezet;
+- b) establish the identity of the person to be heard.
 
-- b. de bevoegde autoriteiten van de partijen komen zo nodig maatregelen voor de bescherming van de verdachte overeen;
+3. Witnesses and experts may claim the right not to testify which would accrue to them under the law of either Party and shall be informed about this right in advance of the hearing.
 
-- c. het verhoor wordt rechtstreeks door of onder leiding van de rechterlijke autoriteit van het Koninkrijk der Nederlanden overeenkomstig het Nederlands recht afgenomen;
+4. Ukraine shall take the necessary measures to ensure that, where the person is being heard within its territory in accordance with this Agreement and refuses to testify when under an obligation to testify or does not testify the truth, its national law applies in the same way as if the hearing took place in a national procedure.
 
-- d. op verzoek van het Koninkrijk der Nederlanden of van de verdachte draagt Oekraïne er zorg voor dat de verdachte zo nodig door een tolk wordt bijgestaan;
+5. [Article 8, paragraphs 5 and 6](https://wetten.overheid.nl/BWBV0006683), of this Agreement shall apply *mutatis mutandis*.
 
-- e. de verdachte wordt voorafgaand aan het verhoor op de hoogte gesteld van de procedurele rechten, met inbegrip van het verschoningsrecht, die hij volgens het recht van de partijen geniet.
+##### Article 10. Access to legal counsel
 
-6. Onverminderd eventuele maatregelen die ter bescherming van personen zijn overeengekomen, stelt de bevoegde autoriteit van Oekraïne na afloop van het verhoor een proces-verbaal op waarin het volgende wordt vermeld: de datum en de plaats van het verhoor, de identiteit van de verhoorde persoon, de identiteit en de hoedanigheid van alle andere personen die in Oekraïne aan het verhoor hebben deelgenomen, eventuele eedafleggingen en de technische omstandigheden waaronder het verhoor heeft plaatsgevonden. Dit document wordt naar de bevoegde autoriteit van het Koninkrijk der Nederlanden gezonden.
+The Parties shall ensure that suspects and accused persons have the right of access to legal counsel in such time and in such a manner so as to allow them to exercise their rights of defence practically and effectively. For this purpose, a suspected or accused person present in the territory of Ukraine shall have the right to communicate freely and in confidence with the legal counsel representing him or her in the trial in the Kingdom of the Netherlands, assisted by an interpreter if needed. To this end, a Dutch legal counsel shall enjoy relevant guarantees provided for by Ukrainian law.
 
-##### Artikel 9. Verhoren van getuigen of deskundigen per videoconferentie
+## PART V. TRANSFER OF ENFORCEMENT OF SENTENCES
 
-1. Indien een persoon die zich op het grondgebied van Oekraïne bevindt als getuige of deskundige dient te worden verhoord ten behoeve van bewijsvoering voorafgaande aan of tijdens het proces, kunnen de bevoegde autoriteiten van het Koninkrijk der Nederlanden verzoeken om een verhoor per videoconferentie, in overeenstemming met dit Verdrag.
+##### Article 11. Transfer of enforcement
 
-2. De bevoegde autoriteiten van de partijen komen praktische regelingen overeen over onder meer de technische middelen en specificaties voor het gebruikmaken van videoconferentie en de personen die deelnemen aan het verhoor. Bij het overeenkomen van deze regelingen verbindt de Oekraïense bevoegde autoriteit zich ertoe:
+1. The enforcement of a sentence concerning a person with Ukrainian nationality who is present in the territory of Ukraine shall be transferred in accordance with this Agreement.
 
-- a. de betreffende getuige of deskundige op te roepen, onder vermelding van het tijdstip en de plaats van het verhoor;
+2. Without prejudice to [Article 14](https://wetten.overheid.nl/BWBV0006683) of this Agreement, the enforcement of the sentence may be transferred only if the judgment is final and enforceable.
 
-- b. de identiteit vast te stellen van de te verhoren persoon.
+3. The consent of the sentenced person, referred to in paragraph 1 of this Article, with the transfer of the enforcement of the sentence shall not be required.
 
-3. Getuigen en deskundigen kunnen zich beroepen op het verschoningsrecht dat zij op grond van het recht van een partij genieten en dienen voorafgaand aan het verhoor van dit recht in kennis te worden gesteld.
+##### Article 12. Requests for transfer of enforcement
 
-4. Oekraïne treft de noodzakelijke maatregelen om ervoor te zorgen dat ten aanzien van de persoon die overeenkomstig dit Verdrag op zijn grondgebied wordt verhoord en die weigert een verklaring af te leggen terwijl hij daartoe is verplicht of geen verklaring naar waarheid aflegt, zijn nationale recht van toepassing is alsof het een verhoor in een nationale procedure betrof.
+1. A request by the competent authority of the Kingdom of the Netherlands for a transfer of the enforcement of the sentence shall include the following information:
 
-5. Het [vijfde en zesde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=IV&artikel=8&z=2018-08-28&g=2018-08-28) van dit Verdrag zijn van overeenkomstige toepassing.
+- a) the name, date and place of birth of the sentenced person;
 
-##### Artikel 10. Toegang tot een raadsman
+- b) his or her address, if any, in Ukraine;
 
-De partijen zorgen ervoor dat verdachten recht hebben op toegang tot een raadsman op een zodanig moment en op zodanige wijze dat zij hun rechten van verdediging in de praktijk daadwerkelijk kunnen uitoefenen. Ten behoeve hiervan heeft een verdachte die zich op het grondgebied van Oekraïne bevindt het recht vrijelijk en vertrouwelijk te communiceren met de raadsman die hem of haar vertegenwoordigt in het proces in het Koninkrijk der Nederlanden, zo nodig bijgestaan door een tolk. De Nederlandse raadsman geniet hiertoe de relevante waarborgen voorzien in het Oekraïense recht.
+- c) a statement of facts upon which the sentence was based;
 
-## DEEL V. OVERDRACHT VAN DE TENUITVOERLEGGING VAN VEROORDELINGEN
+- d) a copy of the relevant provisions of the Criminal Code of the Kingdom of the Netherlands on which the sentence was based;
 
-##### Artikel 11. Overdracht van de tenuitvoerlegging
+- e) the nature and duration of the sentence;
 
-1. De tenuitvoerlegging van een veroordeling van een persoon met de Oekraïense nationaliteit die zich op het grondgebied van Oekraïne bevindt, wordt overgedragen in overeenstemming met dit Verdrag.
+- f) information about the limitation period for the enforcement of the sentence;
 
-2. Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=V&artikel=14&z=2018-08-28&g=2018-08-28) van dit Verdrag kan de overdracht van de tenuitvoerlegging van de veroordeling uitsluitend plaatsvinden indien het vonnis onherroepelijk en voor tenuitvoerlegging vatbaar is.
+- g) any other information relevant to the enforcement of the sentence.
 
-3. De instemming van de veroordeelde, bedoeld in het eerste lid van dit artikel, is voor de overdracht van de tenuitvoerlegging van de veroordeling niet vereist.
+2. The competent authority of the Kingdom of the Netherlands shall provide a certified copy of the judgment.
 
-##### Artikel 12. Verzoeken tot overdracht van de tenuitvoerlegging
+3. The competent authority of Ukraine shall act expeditiously upon the request and in accordance with national law. It shall notify the competent authority of the Kingdom of the Netherlands of its decision.
 
-1. Een verzoek van de bevoegde autoriteit van het Koninkrijk der Nederlanden tot overdracht van de tenuitvoerlegging van een veroordeling dient de volgende informatie te bevatten:
+##### Article 13. Detention or other measures
 
-- a. de naam, geboortedatum en -plaats van de veroordeelde;
+When requesting the enforcement of the sentence, the competent authority of the Kingdom of the Netherlands may also request the competent authority of Ukraine to detain the sentenced person or take any other measure to ensure that the sentenced person remains in the territory of Ukraine, pending a decision on the transfer of the enforcement of the sentence. The duration of the sentence shall not be aggravated as a result of any period spent in custody by reason of this provision.
 
-- b. indien van toepassing, zijn of haar adres in Oekraïne;
+##### Article 14. Judgments after a hearing of the person concerned and judgments in absentia
 
-- c. een opgave van de feiten die aan de veroordeling ten grondslag liggen;
+1. Except as provided in paragraph 2 of this Article, a judgment *in absentia* means any judgment rendered after criminal proceedings at the hearing of which the accused person was not personally present.
 
-- d. een afschrift van de relevante bepalingen van de Nederlandse strafwet die aan de veroordeling ten grondslag liggen;
+2. The following shall not be considered as judgments *in absentia*:
 
-- e. de aard en duur van de veroordeling;
+- a) any judgment rendered after the sentenced person has specifically authorized legal counsel to represent him or her in court, in accordance with the Dutch Code of Criminal Procedure;
 
-- f. informatie over de verjaringstermijn voor de tenuitvoerlegging van de veroordeling;
+- b) any judgment rendered after a hearing of the sentenced person by videoconference, in accordance with [Article 8](https://wetten.overheid.nl/BWBV0006683) of this Agreement;
 
-- g. eventuele andere informatie die relevant is voor de tenuitvoerlegging van de veroordeling.
+- c) any judgment rendered *in absentia* on appeal, provided that the appeal from the judgment of the court of first instance was lodged by the person sentenced;
 
-2. De bevoegde autoriteit van het Koninkrijk der Nederlanden verstrekt een gewaarmerkt afschrift van het vonnis.
+- d) any judgment rendered *in absentia* against which no appeal has been lodged after the sentenced person has been notified in accordance with paragraph 4 of this Article.
 
-3. De bevoegde autoriteit van Oekraïne geeft met voortvarendheid en overeenkomstig het nationale recht gevolg aan het verzoek. Zij stelt de bevoegde autoriteit van het Koninkrijk der Nederlanden in kennis van haar besluit.
+3. A judgment *in absentia* may, as soon as it has been rendered, be transmitted to Ukraine for the purpose of notification and with a view to enforcement.
 
-##### Artikel 13. Detentie en andere maatregelen
+4. Ukraine shall ensure that the person sentenced is personally notified of the judgment *in absentia*. In the notification the following information provided by the Kingdom of the Netherlands shall be given:
 
-Bij het verzoek om tenuitvoerlegging van de veroordeling kan de bevoegde autoriteit van het Koninkrijk der Nederlanden de bevoegde autoriteit van Oekraïne tevens verzoeken de veroordeelde in hechtenis te nemen of enige andere maatregel te nemen om te waarborgen dat de veroordeelde op het grondgebied van Oekraïne blijft in afwachting van een beslissing over de overdracht van de tenuitvoerlegging van de veroordeling. De duur van de veroordeling wordt niet verlengd als gevolg van enigerlei periode van hechtenis die op grond van dit artikel werd ondergaan.
+- a) that a request for enforcement has been presented in accordance with this Agreement;
 
-##### Artikel 14. Vonnissen op tegenspraak en verstekvonnissen
+- b) that the judgment may be appealed in accordance with the Dutch Code of Criminal Procedure;
 
-1. Behoudens het bepaalde in het tweede lid van dit artikel wordt onder een verstekvonnis verstaan, elk vonnis dat is gewezen na een strafrechtelijke procedure waarbij de verdachte niet in persoon ter terechtzitting is verschenen.
+- c) that the appeal must be lodged with such authority as may be specified;
 
-2. Niet als verstekvonnis wordt beschouwd:
+- d) that, if no appeal is lodged within the prescribed period, the judgment will, for the purpose of this Agreement, be considered as having been rendered after a hearing of the accused.
 
-- a. elk vonnis dat is gewezen nadat de veroordeelde een raadsman uitdrukkelijk tot zijn of haar verdediging in rechte heeft gemachtigd, in overeenstemming met het Nederlandse Wetboek van Strafvordering;
+5. A certificate of the notification, referred to in paragraph 4 of this Article, shall be sent promptly to the authority requesting enforcement.
 
-- b. elk vonnis dat is gewezen na het verhoren van de veroordeelde per videoconferentie, in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006683&deel=IV&artikel=8&z=2018-08-28&g=2018-08-28) van dit Verdrag;
+##### Article 15. Enforcement
 
-- c. een in hoger beroep gewezen verstekvonnis mits het beroep tegen het vonnis in eerste aanleg was ingesteld door de veroordeelde;
+1. The enforcement of the sentence in Ukraine shall be carried out in accordance with Ukrainian law.
 
-- d. elk verstekvonnis waartegen geen hoger beroep is aangetekend na de kennisgeving aan de veroordeelde in overeenstemming met het vierde lid van dit artikel.
+2. Ukraine shall be bound by the legal nature and duration of the sentence as determined in the judgment. If, however, the sentence is by its duration or nature incompatible with Ukrainian law, the sentence may be adapted to the punishment or measure prescribed by Ukrainian law for similar offences.
 
-3. Een verstekvonnis kan, zodra het is gewezen, aan Oekraïne worden gezonden, ter betekening en ten behoeve van de tenuitvoerlegging ervan.
+3. Where the sentence exceeds the maximum penalty provided for similar offences under Ukrainian law, the adapted sentence shall not be less than the maximum penalty provided for similar offences under Ukrainian law.
 
-4. Oekraïne zorgt ervoor dat de veroordeelde persoonlijk in kennis wordt gesteld van het verstekvonnis. In de akte van betekening dient de volgende door het Koninkrijk der Nederlanden verstrekte informatie te worden vermeld:
+4. Where the sentence is incompatible with Ukrainian law in terms of its nature, the adapted sentence shall correspond as closely as possible to the sentence imposed.
 
-- a. dat een verzoek tot tenuitvoerlegging is gedaan in overeenstemming met dit Verdrag;
+5. The adaptation of the sentence shall not aggravate, by its nature or duration, the sentence as determined in the judgment.
 
-- b. dat tegen het vonnis hoger beroep kan worden ingesteld in overeenstemming met het Nederlandse Wetboek van Strafvordering;
+6. Any term spent in detention in Ukraine for the crime in respect of which the person was sentenced in the Kingdom of the Netherlands shall be deducted in full from the total duration of the deprivation of liberty to be served, on a day-for-day basis.
 
-- c. dat het hoger beroep moet worden ingesteld bij de aangeduide autoriteit;
+7. The enforcement of the sentence in Ukraine shall have the effect of suspending the enforcement of the sentence in the Kingdom of the Netherlands.
 
-- d. dat, indien niet binnen de voorgeschreven termijn hoger beroep is ingesteld, het vonnis voor de toepassing van dit Verdrag geacht wordt op tegenspraak te zijn gewezen.
+##### Article 16. Review of sentence and information on enforcement
 
-5. Een afschrift van de akte van betekening, bedoeld in het vierde lid van dit artikel, wordt onverwijld gezonden aan de autoriteit die om tenuitvoerlegging heeft verzocht.
+1. Any application for review of the judgment shall be decided by the competent authorities of the Kingdom of the Netherlands.
 
-##### Artikel 15. Tenuitvoerlegging
+2. Ukraine shall terminate enforcement of the sentence as soon as it is informed by the Kingdom of the Netherlands of any decision or measure as a result of which the sentence ceases to be enforceable.
 
-1. De tenuitvoerlegging van de veroordeling in Oekraïne geschiedt overeenkomstig het Oekraïense recht.
+3. The competent authority of Ukraine shall provide information to the competent authority of the Kingdom of the Netherlands concerning the enforcement of the sentence:
 
-2. Oekraïne is gebonden aan het rechtskarakter en de duur van de veroordeling, zoals die zijn vastgesteld in het vonnis. Indien de veroordeling evenwel naar aard of duur onverenigbaar is met het Oekraïense recht, kan Oekraïne de veroordeling aanpassen aan de straf of maatregel die door zijn eigen wet voor soortgelijke strafbare feiten wordt voorgeschreven.
+- a) when the enforcement of the sentence has been completed;
 
-3. Wanneer de veroordeling zwaarder is dan de maximumstraf voor soortgelijke strafbare feiten ingevolge het Oekraïense recht, dient de aangepaste veroordeling niet minder zwaar te zijn dan de maximumstraf voor soortgelijke strafbare feiten ingevolge het Oekraïense recht.
+- b) if the sentenced person has escaped from custody before enforcement of the sentence has been completed; or
 
-4. Wanneer de veroordeling naar aard onverenigbaar is met het Oekraïense recht dient de aangepaste veroordeling zoveel mogelijk overeen te komen met de opgelegde veroordeling.
+- c) upon request by the competent authority of the Kingdom of the Netherlands.
 
-5. De aanpassing van de veroordeling houdt, naar aard of duur, geen verzwaring van de bij het vonnis vastgestelde veroordeling in.
+## PART VI. FINAL PROVISIONS
 
-6. De tijd die in Oekraïne in detentie is doorgebracht wegens een misdrijf ten aanzien waarvan de persoon in het Koninkrijk der Nederlanden is veroordeeld, wordt volledig in mindering gebracht op de totale duur van de vrijheidsbeneming, op basis van een dag voor een dag.
+##### Article 17. Languages
 
-7. Met de tenuitvoerlegging van de veroordeling in Oekraïne wordt de tenuitvoerlegging van de veroordeling in het Koninkrijk der Nederlanden opgeschort.
+Requests and answers and supporting documents communicated under this Agreement shall be made in or translated into the Ukrainian language, unless otherwise agreed by the Parties or provided by this Agreement.
 
-##### Artikel 16. Herziening van de veroordeling en informatie over de tenuitvoerlegging
+##### Article 18. Costs
 
-1. De beslissing over elk verzoek tot herziening van het vonnis ligt bij de bevoegde autoriteiten van het Koninkrijk der Nederlanden.
+1. Ukraine shall cover the costs resulting from the application of this Agreement in its territory, except for the following costs to be covered or refunded by the Kingdom of the Netherlands:
 
-2. Oekraïne beëindigt de tenuitvoerlegging van de veroordeling zodra het door het Koninkrijk der Nederlanden in kennis is gesteld van enige beslissing of maatregel ten gevolge waarvan de veroordeling niet meer voor tenuitvoerlegging vatbaar is.
+- a) costs incurred by the attendance of experts in the territory of Ukraine;
 
-3. De bevoegde autoriteit van Oekraïne verstrekt de bevoegde autoriteit van het Koninkrijk der Nederlanden informatie inzake de tenuitvoerlegging van de veroordeling:
+- b) costs of establishing and servicing a video link in Ukraine;
 
-- a. wanneer de tenuitvoerlegging van de veroordeling is beëindigd;
+- c) costs of interpreters provided by Ukraine;
 
-- b. indien de veroordeelde uit de detentie ontsnapt is vóór de beëindiging van de tenuitvoerlegging van de veroordeling; of
+- d) allowances to witnesses and their travelling expenses in Ukraine.
 
-- c. op verzoek van de bevoegde autoriteit van het Koninkrijk der Nederlanden.
+2. Parties shall consult with a view to making arrangements for the refund of costs of an extraordinary nature.
 
-## DEEL VI. SLOTBEPALINGEN
+##### Article 19. Consultations
 
-##### Artikel 17. Talen
+In case of any issues arising from the interpretation or application of this Agreement, the Parties shall consult through their central authorities or diplomatic channels, as appropriate.
 
-Verzoeken en antwoorden alsmede ondersteunende documenten die ingevolge dit Verdrag worden gecommuniceerd, worden opgesteld of vertaald in de Oekraïense taal, tenzij de partijen anderszins overeenkomen of in dit Verdrag anderszins is bepaald.
+##### Article 20. Entry into force, amendment and termination
 
-##### Artikel 18. Kosten
+1. This Agreement shall enter into force on the date of receipt through diplomatic channels of the last written notification concerning the completion by the Parties of their internal procedures required for this Agreement to enter into force.
 
-1. Oekraïne draagt de kosten die voortvloeien uit de toepassing van dit Verdrag op zijn grondgebied, met uitzondering van de volgende kosten die door het Koninkrijk der Nederlanden worden gedragen of terugbetaald:
+2. This Agreement may be amended by mutual written consent of the Parties. Such amendments shall enter into force in accordance with the procedure set out in paragraph 1 of this Article.
 
-- a. kosten veroorzaakt door het optreden van deskundigen op het grondgebied van Oekraïne;
+3. Either Party may terminate this Agreement by giving written notice through diplomatic channels at any time. The termination shall take effect six months after the date on which such notice is given. Any requests received prior to the date of termination of this Agreement shall continue to be governed by it.
 
-- b. kosten van het tot stand brengen en functioneren van een videoverbinding in Oekraïne;
+##### Article 21. Territorial application
 
-- c. kosten van tolken die door Oekraïne beschikbaar worden gesteld;
-
-- d. vergoedingen betaald aan getuigen alsmede hun reiskosten in Oekraïne.
-
-2. De partijen voeren overleg met het oog op het treffen van regelingen voor het terugbetalen van kosten van buitengewone aard.
-
-##### Artikel 19. Overleg
-
-In het geval van kwesties die voortvloeien uit de interpretatie of toepassing van dit Verdrag, plegen de partijen overleg via hun centrale autoriteiten of langs diplomatieke weg.
-
-##### Artikel 20. Inwerkingtreding, wijziging en beëindiging
-
-1. Dit Verdrag treedt in werking op de datum van ontvangst langs diplomatieke weg van de laatste schriftelijke kennisgeving inzake de voltooiing door de partijen van hun interne procedures die vereist zijn voor de inwerkingtreding van dit Verdrag.
-
-2. Dit Verdrag kan met wederzijdse schriftelijke instemming van de partijen worden gewijzigd. Deze wijzigingen treden in werking in overeenstemming met de in het eerste lid van dit artikel vervatte procedure.
-
-3. Elke partij kan dit Verdrag op enig moment beëindigen door daarvan langs diplomatieke weg kennis te geven. De beëindiging wordt van kracht zes maanden na de datum waarop deze kennisgeving wordt gedaan. Op verzoeken die voor de datum van beëindiging van dit Verdrag worden ontvangen, blijft dit Verdrag van toepassing.
-
-##### Artikel 21. Territoriale toepassing
-
-Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het Europese deel van Nederland.
+With respect to the Kingdom of the Netherlands, this Agreement shall apply to the European part of the Netherlands.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized, have signed the present Agreement.
 
 DONE at Tallinn on 7 July 2017 in duplicate, in the Dutch, Ukrainian and English languages, all texts being equally authentic. In case of divergence in the interpretation, the English text shall prevail.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 S. BLOK
 
-**For Ukraine,**
+*For Ukraine,*
 
 P. PETRENKO

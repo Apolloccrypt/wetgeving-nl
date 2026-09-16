@@ -1,44 +1,19 @@
 ---
 title: "Verdrag bevattende het instrument bedoeld in artikel 3, tweede lid, van de Overeenkomst betreffende uitlevering tussen de Verenigde Staten van Amerika en de Europese Unie, ondertekend te Washington op 25 juni 2003, inzake de toepassing van het Uitleveringsverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika, ondertekend te 's-Gravenhage op 24 juni 1980"
 identifier: "BWBV0006165"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-02-01"
-last_updated: "2004-09-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006165"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005066583"
-version_id: "10005402262"
-internal_id: "C10008325231"
-label_id: "10005049514"
-dtd_version: "2.0"
-original_entry_into_force: "2010-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006165/2010-02-01/0"
-intitule_bron: "Trb.2004-299"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2004-12-20"
-intitule_in_force: "2010-01-12"
-intitule_status: "goed"
-original_publication: "Trb.2004-299"
-original_published_date: "2004-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-299"
-entry_into_force_date: "2010-02-01"
-jci_1_3: "jci1.3:c:BWBV0006165&z=2010-02-01&g=2010-02-01"
-jci_1_0: "1.0:c:BWBV0006165&g=2010-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-02-01"
+publicatiedatum: 2010-02-01
+laatste_update: 2010-02-01
+status: geldig
+toestand: 2010-02-01
+bron: "https://wetten.overheid.nl/BWBV0006165"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag bevattende het instrument bedoeld in artikel 3, tweede lid, van de Overeenkomst betreffende uitlevering tussen de Verenigde Staten van Amerika en de Europese Unie, ondertekend te Washington op 25 juni 2003, inzake de toepassing van het Uitleveringsverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika, ondertekend te 's-Gravenhage op 24 juni 1980
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Verenigde Staten van Amerika,
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika, zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -56,7 +31,7 @@ Zoals voorzien in artikel 3, tweede lid, van de Overeenkomst betreffende uitleve
 
 - f. Ingevolge artikel 13 van de VS-EU-Uitleveringsovereenkomst, wordt artikel 7, eerste lid, opgenomen in de bijlage bij dit Verdrag, toegepast in plaats van artikel 7, eerste lid, van het Uitleveringsverdrag van 1980;
 
-- g. Ingevolge artikel 14 van de VS-EU-Uitleveringsovereenkomst, wordt artikel 10**bis,** opgenomen in de bijlage bij dit Verdrag, toegepast ter aanvulling van de bepalingen van het Uitleveringsverdrag van 1980.
+- g. Ingevolge artikel 14 van de VS-EU-Uitleveringsovereenkomst, wordt artikel 10*bis,* opgenomen in de bijlage bij dit Verdrag, toegepast ter aanvulling van de bepalingen van het Uitleveringsverdrag van 1980.
 
 ##### Artikel 2
 
@@ -84,10 +59,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te 's-Gravenhage, in tweevoud, op 29 september 2004, in de Nederlandse en de Engelse taal, zijnde beide teksten gelijkelijk authentiek
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 B. R. BOT
 
-**Voor de Regering van de Verenigde Staten van Amerika**
+*Voor de Regering van de Verenigde Staten van Amerika*
 
 JOHN ASHCROFT

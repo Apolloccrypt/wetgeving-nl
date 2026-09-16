@@ -1,882 +1,837 @@
 ---
 title: "Algemeen Reglement van de Wereldpostunie"
 identifier: "BWBV0006293"
-country: "nl"
-rank: "verdrag"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006293"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005148683"
-version_id: "10005506192"
-internal_id: "C10009460401"
-label_id: "10005132804"
-dtd_version: "2.0"
-original_entry_into_force: "2017-08-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006293/2026-01-01/0"
-intitule_bron: "Trb.2013-208"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2013-10-29"
-intitule_in_force: "2018-10-04"
-intitule_status: "goed"
-original_publication: "Trb.2013-208"
-original_published_date: "2013-10-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2013-208"
-entry_into_force_date: "2017-08-02"
-jci_1_3: "jci1.3:c:BWBV0006293&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBV0006293&g=2026-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2017-08-02"
+publicatiedatum: 2017-08-02
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBV0006293"
+opgehaald: 2026-09-16
 ---
+
 # Algemeen Reglement van de Wereldpostunie
 
-(Herschikking, aangenomen door het Congres van Doha 2012)
+*(Recast and adopted by the 2012 Doha Congress) The undersigned plenipotentiaries of the Governments of member countries of the Union, having regard to article 22.2 of the Constitution of the Universal Postal Union, concluded at Vienna on 10 July 1964, have, by common consent, and subject to article 25.4 of the Constitution, drawn up in these General Regulations the following provisions securing the application of the Constitution and the functioning of the Union.*
 
-Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitutie van de Wereldpostunie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=22), hebben de ondergetekenden, gevolmachtigden van de Regeringen van de lidstaten van de Unie, in gemeenschappelijk overleg en onder voorbehoud van [artikel 25.4 van genoemde Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=25), in dit Algemeen Reglement de volgende bepalingen vastgelegd die borg staan voor de toepassing van de [Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459) en het functioneren van de Unie.
+### CHAPTER I. ORGANIZATION, FUNCTIONS AND OPERATION OF CONGRESSES, THE COUNCIL OF ADMINISTRATION, THE POSTAL OPERATIONS COUNCIL AND THE CONSULTATIVE COMMITTEE
 
-### HOOFDSTUK I. ORGANISATIE, TAKEN EN FUNCTIONEREN VAN CONGRESSEN, DE RAAD VAN BESTUUR, DE POSTRAAD EN DE ADVIESCOMMISSIE
+### SECTION 1. CONGRESS
 
-## DEEL 1. CONGRES
+##### Article 101. Organization and convening of Congresses and Extraordinary Congresses (Const. 14, 15)
 
-##### Artikel 101. Organisatie en bijeenroepen van Congressen en buitengewone Congressen ([Const. 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=15))
+1. The representatives of member countries shall meet in Congress not later than four years after the end of the year during which the preceding Congress took place.
 
-1. Uiterlijk vier jaar na het einde van het jaar gedurende welk het voorgaande Congres heeft plaatsgevonden, komen de vertegenwoordigers van de lidstaten in Congres bijeen.
+2. Each member country shall arrange for its representation at Congress by one or more plenipotentiaries furnished by their Government with the necessary powers. It may, if need be, arrange to be represented by the delegation of another member country. Nevertheless it shall be understood that a delegation may represent only one member country other than its own.
 
-2. Elke lidstaat laat zich bij het Congres vertegenwoordigen door een of meerdere gevolmachtigden die door hun Regering met de benodigde bevoegdheden zijn bekleed. Een lidstaat kan zich indien nodig laten vertegenwoordigen door de delegatie van een andere lidstaat. Een delegatie kan naast haar eigen land evenwel slechts één ander land vertegenwoordigen.
+3. In principle, each Congress shall designate the country in which the next Congress will be held. If that designation proves inapplicable, the Council of Administration shall be authorized to designate the country where Congress is to meet, after consultation with the latter country.
 
-3. In beginsel wijst elk Congres het land aan waarin het volgende Congres plaatsvindt. Indien deze aanwijzing praktisch onuitvoerbaar blijkt, is de Raad van Bestuur bevoegd een land aan te wijzen waar het Congres zitting houdt, na overleg met dit land.
+4. After consultation with the International Bureau, the host Government shall fix the definitive date and the precise locality of Congress. In principle one year before that date, the host Government shall send an invitation to the Government of each member country of the Union. This invitation may be sent direct or through the intermediary of another Government or through the Director General of the International Bureau.
 
-4. Na overleg met het Internationaal Bureau stelt de uitnodigende Regering de definitieve datum en exacte plaats van het Congres vast. In beginsel een jaar voor deze datum zendt de uitnodigende Regering een uitnodiging aan de Regering van elke lidstaat. Deze uitnodiging kan hetzij rechtstreeks aan de Regering worden gericht, hetzij door tussenkomst van een andere Regering of door tussenkomst van de Directeur-Generaal van het Internationaal Bureau.
+5. When a Congress has to be convened without a host Government, the International Bureau, with the agreement of the Council of Administration and after consultation with the Government of the Swiss Confederation, shall take the necessary steps to convene and organize the Congress in the country in which the seat of the Union is situated. In this event, the International Bureau shall perform the functions of the host government.
 
-5. Wanneer een Congres bijeen moet komen zonder uitnodigende Regering, treft het Internationaal Bureau, met instemming van de Raad van Bestuur en na overleg met de Regering van de Zwitserse Bondsstaat, de nodige maatregelen om het Congres bijeen te roepen en te organiseren in het land waar de Unie zetelt. In dat geval fungeert het Internationaal Bureau als uitnodigende Regering.
+6. The meeting place of an Extraordinary Congress shall be fixed, after consultation with the International Bureau, by the member countries which have initiated that Congress.
 
-6. De plaats van bijeenkomst van een buitengewoon Congres wordt, na overleg met het Internationaal Bureau, vastgesteld door de lidstaten die het initiatief voor dat Congres hebben genomen.
+7. Paragraphs 2 to 5 and [article 102](https://wetten.overheid.nl/BWBV0006293) shall be applicable by analogy to Extraordinary Congresses.
 
-7. De onder 2 tot en met 5 en [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=1&artikel=102&z=2026-01-01&g=2026-01-01) voorziene bepalingen zijn van dienovereenkomstige toepassing op buitengewone Congressen.
+##### Article 102. Right to vote at Congress
 
-##### Artikel 102. Stemrecht tijdens Congressen
+1. Each member country shall be entitled to one vote, subject to the sanctions provided for in [article 149](https://wetten.overheid.nl/BWBV0006293).
 
-1. Bij de beraadslagingen beschikt elk land over één stem, onder voorbehoud van de in [artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=IV&artikel=149&z=2026-01-01&g=2026-01-01) bedoelde sancties.
+##### Article 103. Functions of Congress
 
-##### Artikel 103. Taken van het Congres
+1. On the basis of proposals by member countries, the Council of Administration and the Postal Operations Council, Congress shall:
 
-1. Op basis van de voorstellen van de lidstaten, de Raad van Bestuur en de Postraad, gaat het Congres over tot:
+- 1.1 determine the general principles for achieving the object and purpose of the Union set out in the [Preamble](https://wetten.overheid.nl/BWBV0004459) and [article 1 of the Constitution](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=PREMIER);
 
-- 1.1. vaststelling van het algemeen beleid voor het verwezenlijken van het voorwerp en doel van de Unie zoals uiteengezet in de [preambule van de Constitutie](onbekend) en in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=PREMIER) ervan;
+- 1.2 consider and adopt, where appropriate, proposals for amendments to the [Constitution](https://wetten.overheid.nl/BWBV0004459), General Regulations, Convention and Agreements submitted by member countries and the Councils, in accordance with [article 29 of the Constitution](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=29) and [article 138](https://wetten.overheid.nl/BWBV0006293) of the General Regulations;
 
-- 1.2. bestudering en aanneming, in voorkomend geval, van de door de lidstaten en de Raden overeenkomstig [artikel 29 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=29) en [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=138&z=2026-01-01&g=2026-01-01) van het Algemeen Reglement gedane voorstellen tot wijziging van de [Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459), van het Algemeen Reglement, van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006291) en van de overige verdragen;
+- 1.3 set the date for the entry into force of the Acts;
 
-- 1.3. vaststelling van de datum van inwerkingtreding van de Akten;
+- 1.4 adopt its Rules of Procedure and the amendments to those Rules;
 
-- 1.4. aanneming van het Reglement van Orde en van de wijzigingen hiervan;
+- 1.5 consider the comprehensive reports on the work of the Council of Administration, the Postal Operations Council and the Consultative Committee, covering the period from the previous Congress, presented by these respective bodies in accordance with [articles 111](https://wetten.overheid.nl/BWBV0006293), [117](https://wetten.overheid.nl/BWBV0006293) and [125](https://wetten.overheid.nl/BWBV0006293) of the General Regulations;
 
-- 1.5. bestudering van de volledige verslagen met betrekking tot de werkzaamheden voorgelegd door respectievelijk de Raad van Bestuur, de Postraad en de Adviescommissie binnen het sinds het voorgaande Congres verstreken tijdvak, overeenkomstig het bepaalde in de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=111&z=2026-01-01&g=2026-01-01), [117](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=3&artikel=117&z=2026-01-01&g=2026-01-01) en [125](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=4&artikel=125&z=2026-01-01&g=2026-01-01) van het Algemeen Reglement;
+- 1.6 adopt the Union’s strategy;
 
-- 1.6. aanneming van de strategie van de Unie;
+   - 1.6 bis approve the draft quadrennial UPU business plan;
 
-- 1.6bis. aanneming van het ontwerp voor het vierjaarlijks werkplan van de Unie;
+- 1.7 fix the maximum amount of the Union’s expenditure, in accordance with [article 21 of the Constitution](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=21);
 
-- 1.7. vaststelling van het maximumbedrag van de uitgaven van de Unie, overeenkomstig [artikel 21 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=21);
+- 1.8 elect the member countries to sit on the Council of Administration and the Postal Operations Council, in accordance with, inter alia, the electoral procedures laid down in the Congress resolutions pertaining to this matter;
 
-- 1.8. verkiezing van de lidstaten die in de Raad van Bestuur en de Postraad zitting hebben, in overeenstemming met, onder andere, de kiesprocedures die zijn vastgelegd in de hierop betrekking hebbende resoluties van het Congres;
+- 1.9 elect the Director General and Deputy Director General;
 
-- 1.9. verkiezing van de Directeur-Generaal en de Plaatsvervangend Directeur-Generaal;
+- 1.10 set in a Congress resolution the ceiling of the costs to be borne by the Union for the production of documents in Chinese, German, Portuguese and Russian.
 
-- 1.10. vaststelling, in een resolutie, van het plafond van de door de Unie voor de levering van stukken in het Duits, Chinees, Portugees en Russisch te dragen kosten.
+2. Congress, as the supreme body of the Union, shall deal with such other questions concerning postal services.
 
-2. Als hoogste orgaan van de Unie houdt het Congres zich tevens bezig met andere aangelegenheden, in het bijzonder op het gebied van postale diensten.
+##### Article 104. Rules of Procedure of Congresses
 
-##### Artikel 104. Reglement van orde van Congressen
+1. For the organization of its work and the conduct of its debates, Congress shall apply its Rules of Procedure.
 
-1. Bij de organisatie van de werkzaamheden en het voeren van overleg hanteert het Congres zijn Reglement van Orde.
+2. Each Congress may amend its Rules of Procedure under the conditions laid down in those Rules of Procedure.
 
-2. Elk Congres kan zijn Reglement van Orde wijzigen volgens de voorwaarden vastgelegd in het Reglement van Orde.
+3. Paragraphs 1 and 2 shall also be applicable by analogy to Extraordinary Congresses.
 
-3. Het eerste en tweede lid zijn van dienovereenkomstige toepassing op Buitengewone Congressen.
+##### Article 105. Observers to the Union’s bodies
 
-##### Artikel 105. Waarnemers bij de organen van de Unie
+1. The following entities shall be invited to participate in the plenary sessions and committee meetings of Congress, the Council of Administration and the Postal Operations Council as observers:
 
-1. De volgende instanties worden uitgenodigd als waarnemer deel te nemen aan de plenaire zittingen en commissievergaderingen van het Congres, de Raad van Bestuur en de Postraad:
+- 1.1 the United Nations;
 
-- 1.1. de Verenigde Naties;
+- 1.2 Restricted Unions;
 
-- 1.2. Beperkte Unies;
+- 1.3 members of the Consultative Committee;
 
-- 1.3. leden van de Adviescommissie;
+- 1.4 entities authorized to attend Union meetings as observers by virtue of a resolution or decision of Congress.
 
-- 1.4. instanties die uit hoofde van een resolutie of besluit van het Congres bevoegd zijn vergaderingen van de Unie bij te wonen als waarnemer.
+2. The following entities, if duly designated by the Council of Administration in accordance with [article 107.1.12](https://wetten.overheid.nl/BWBV0006293) shall be invited to attend specific meetings of Congress as ad hoc observers:
 
-2. De volgende instanties, indien naar behoren aangewezen door de Raad van Bestuur in overeenstemming met [artikel 107.1.12](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=107&z=2026-01-01&g=2026-01-01) worden uitgenodigd specifieke bijeenkomsten van het Congres bij te wonen als ad-hocwaarnemer:
+- 2.1 specialized agencies of the United Nations and other intergovernmental organizations;
 
-- 2.1. gespecialiseerde organisaties van de Verenigde Naties en andere intergouvernementele organisaties;
+- 2.2 any international body, any association or enterprise, or any qualified person.
 
-- 2.2. elk internationaal orgaan, elke vereniging of onderneming, of elke daarvoor in aanmerking komende persoon.
+3. In addition to the observers defined in paragraph 1 of this article, the Council of Administration and the Postal Operations Council may designate ad hoc observers to attend their meetings in accordance with their Rules of Procedure, when this is in the interests of the Union and its bodies.
 
-3. Naast de waarnemers omschreven onder 1 van dit artikel, kunnen de Adviescommissie en de Postraad in overeenstemming met hun Reglement van Orde ad-hocwaarnemers aanwijzen om hun vergaderingen bij te wonen, indien zulks in het belang is van de Unie en haar organen.
+### SECTION 2. COUNCIL OF ADMINISTRATION (CA)
 
-## DEEL 2. RAAD VAN BESTUUR
+##### Article 106. Composition and functioning of the CA
 
-##### Artikel 106. Samenstelling en functioneren van de Raad van Bestuur
+1. The Council of Administration shall consist of forty-one members who shall exercise their functions during the period between two successive Congresses.
 
-1. De Raad van Bestuur bestaat uit eenenveertig leden die hun functie gedurende het tijdvak tussen twee opeenvolgende Congressen uitoefenen.
+2. The role of Chair shall devolve by right on the host member country of Congress. If that member country waives this right, it shall become a de jure member and, as a result, the geographical group to which it belongs shall have at its disposal an additional seat, to which the restrictive provisions of paragraph 3 shall not apply. In that case, the Council of Administration shall elect as Chair one of the members belonging to the geographical group of the host member country.
 
-2. De rol van voorzitter wordt van rechtswege toegekend aan de gastheerlidstaat van het Congres. Indien deze lidstaat afstand doet van dit recht, wordt hij van rechtswege lid en beschikt de geografische groep waartoe hij behoort derhalve over een extra zetel waarop de onder 3 bedoelde beperkingen niet van toepassing zijn. In dat geval kiest de Raad van Bestuur een van de leden die behoren tot de geografische groep waarvan de gastheerlidstaat deel uitmaakt tot voorzitter.
+3. The forty other members of the Council of Administration shall be elected by Congress on the basis of an equitable geographical distribution. At least a half of the membership is renewed at each Congress; no member country may be chosen by three successive Congresses. Without prejudice to the foregoing, one seat in the geographical group to which member countries defined as Pacific Island countries and territories (as per the relevant list established by the United Nations) belong shall be reserved for those member countries.
 
-3. De veertig overige leden van de Raad van Bestuur worden door het Congres gekozen op basis van een billijke geografische spreiding. Ten minste de helft van de leden wordt bij elk Congres vervangen; geen enkele lidstaat kan door drie achtereenvolgende Congressen worden gekozen. Onverminderd het voorgaande wordt één zetel in de geografische groep waartoe lidstaten behoren die worden omschreven als eilandstaten en -gebieden in de Stille Oceaan (conform de relevante lijst die door de Organisatie van de Verenigde Naties is opgesteld) gereserveerd voor die lidstaten.
+4. Each member of the Council of Administration shall appoint its representative(s). The members of the Council of Administration shall take an active part in its work.
 
-4. Elk lid van de Raad van Bestuur benoemt zijn vertegenwoordiger(s). De leden van de Raad van Bestuur nemen metterdaad deel aan zijn activiteiten.
+5. Except as otherwise stipulated in [article 110](https://wetten.overheid.nl/BWBV0006293), the office of member of the Council of Administration shall be unpaid. The operational expenses of this Council shall be borne by the Union.
 
-5. Het lidmaatschap van de Raad van Bestuur is onbezoldigd. De operationele kosten van deze Raad komen ten laste van de Unie.
+6. The CA shall define, formalize and/or set up the standing groups and task forces or other bodies to be established within its structure, with due regard being paid to the Union’s strategy and business plan adopted by Congress.
 
-6. De Raad van Bestuur omschrijft en formaliseert de Permanente Groepen en Taskforces of overige organen die binnen zijn structuur worden ingesteld en/of zet deze op, waarbij terdege rekening wordt gehouden met de strategie van de Unie en het bedrijfsplan dat door het Congres is aangenomen.
+##### Article 107. Functions of the CA
 
-##### Artikel 107. Taken van de Raad van Bestuur
+1. The Council of Administration shall have the following functions:
 
-1. De Raad van Bestuur heeft de volgende taken:
+- 1.1. Supervises all the activities of the Union between Congresses, ensuring compliance with the decisions of Congress, studying questions with respect to governmental policies on postal issues, and taking account of international regulatory developments such as those relating to trade in services and to competition.
 
-- 1.1. het toezien op alle activiteiten van de Unie tussen Congressen in, rekening houdend met de besluiten van het Congres, door bestudering van de vraagstukken betreffende regeringsbeleid op postaal gebied en rekening houdend met de internationale beleidslijnen inzake regulering, zoals die welke betrekking hebben op de handel in diensten en mededinging;
+- 1.2. Promotes, coordinates and supervises all forms of postal technical assistance within the framework of international technical cooperation.
 
-- 1.2. het bevorderen, coördineren en toezien op alle vormen van postale technische bijstand in het kader van internationale technische samenwerking;
+- 1.3. Examines the draft quadrennial Union business plan approved by Congress, and finalizes it by bringing the activities set out in the draft plan for the four-year period into line with the actual resources available. The plan should also, if appropriate, be in line with the results of the prioritization process carried out by Congress. The finalized version of the quadrennial Union business plan, completed and approved by the CA, will then form the basis for the preparation of the annual Programme and Budget as well as for the annual operating plans to be drawn up and implemented by the CA and POC.
 
-- 1.3. het bestuderen van het door het Congres goedgekeurde ontwerp van het vierjarige bedrijfsplan van de Unie en het finaliseren daarvan door de activiteiten vervat in het ontwerp af te stemmen op de feitelijk beschikbare middelen. Dit plan moet, indien van toepassing, tevens afgestemd zijn op de uitkomsten van het door het Congres uitgevoerde prioriteringsproces. Het gefinaliseerde vierjarige bedrijfsplan vormt, na completering en goedkeuring door de Raad van Bestuur, de basis voor de opstelling van het jaarprogramma en de jaarbegroting, alsmede voor de door de Raad van Bestuur en Postraad op te stellen en uit te voeren operationele jaarplannen;
+- 1.4. Considers and approves the annual programme and budget and the accounts of the Union, while taking into account the final version of the Union Business Plan, as described in article 107.1.3.
 
-- 1.4. het bestuderen en goedkeuren van het jaarprogramma, de begroting en de rekeningen van de Unie, gebaseerd op de definitieve versie van het bedrijfsplan van de Unie zoals beschreven in artikel 107.1.3;
+- 1.5. Authorizes the ceiling of expenditure to be exceeded, if circumstances so require, in accordance with [article 146.3 to 5](https://wetten.overheid.nl/BWBV0006293).
 
-- 1.5. het toestaan, indien de omstandigheden zulks vereisen, van de overschrijding van het uitgavenplafond overeenkomstig [artikel 146.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=IV&artikel=146&z=2026-01-01&g=2026-01-01) tot en met 146.5;
+- 1.6. Authorizes election of a lower contribution class, if it is so requested, in accordance with the conditions set out in [article 151.5](https://wetten.overheid.nl/BWBV0006293).
 
-- 1.6. het, op verzoek, toestaan van de keuze van een lagere contributieklasse, overeenkomstig de in [artikel 151.5](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=IV&artikel=151&z=2026-01-01&g=2026-01-01) bedoelde voorwaarden;
+- 1.7. Authorizes a change of geographical group if it is so requested by a member country, taking into account the views expressed by the member countries which are members of the geographical groups concerned.
 
-- 1.7. het, op verzoek van een lidstaat, toestaan van de verandering van geografische groep, met inachtneming van de mening van de lidstaten die lid zijn van de betrokken geografische groepen;
+- 1.8. Creates or abolishes International Bureau posts financed by the regular budget, taking into account the restrictions imposed by the expenditure ceiling fixed.
 
-- 1.8. het creëren of schrappen van arbeidsplaatsen bij het Internationaal Bureau die uit de reguliere begroting worden gefinancierd, rekening houdend met de beperkingen die samenhangen met het vastgestelde uitgavenplafond;
+- 1.9. Decides on the contacts to be established with member countries in order to carry out its functions.
 
-- 1.9. het nemen van beslissingen omtrent met lidstaten te leggen contacten voor het vervullen van zijn taken;
+- 1.10. After consulting the Postal Operations Council, decides on the relations to be established with the organizations which are not observers within the meaning of [article 105.1](https://wetten.overheid.nl/BWBV0006293) and 105.2.1.
 
-- 1.10. het, na overleg met de Postraad, nemen van beslissingen omtrent het aangaan van betrekkingen met organisaties die geen waarnemer zijn in de zin van [artikel 105.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=1&artikel=105&z=2026-01-01&g=2026-01-01) en 105.2.1;
+- 1.11. Considers the reports by the International Bureau on UPU relations with other international bodies and takes the decisions which it considers appropriate on the conduct of such relations and the action to be taken on them.
 
-- 1.11. het bestuderen van de verslagen van het Internationaal Bureau over de betrekkingen van de UPU met de andere internationale instanties en het nemen van de door hem opportuun geachte maatregelen met betrekking tot het beheer van deze betrekkingen en het hieraan te geven gevolg;
+- 1.12. Designates in due course, after consulting the Postal Operations Council and the Secretary General, the specialized agencies of the United Nations, international organizations, associations, enterprises and qualified persons to be invited as ad hoc observers to specific meetings of Congress and its Committees when this is in the interest of the Union or the work of the Congress and instructs the Director General of the International Bureau to issue the necessary invitations.
 
-- 1.12. het, op een gelegen moment, na overleg met de Postraad en met de Secretaris-Generaal, aanwijzen van gespecialiseerde organisaties van de Verenigde Naties, internationale organisaties, verenigingen, bedrijven en personen die als ad-hocwaarnemer worden uitgenodigd om specifieke zittingen van het Congres en van de Commissies bij te wonen wanneer dat in het belang van de Unie is of de werkzaamheden van het Congres ten goede kan komen, en het belasten van de Directeur-Generaal van het Internationaal Bureau met de verzending van de vereiste uitnodigingen;
+- 1.13. Designates the member country where the next Congress is to be held in the case provided for in [article 101.3](https://wetten.overheid.nl/BWBV0006293).
 
-- 1.13. het aanwijzen van de lidstaat waar het volgende Congres zitting heeft in het in [artikel 101.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=1&artikel=101&z=2026-01-01&g=2026-01-01) bedoelde geval;
+- 1.14. Determines in due course and after consulting the Postal Operations Council the number of Committees required to carry out the work of Congress, and specifies their functions.
 
-- 1.14. het, te gelegener tijd en na overleg met de Postraad, vaststellen van het aantal Commissies dat benodigd is om de werkzaamheden van het Congres te verrichten en het vaststellen van hun bevoegdheden;
+- 1.15. Designates, after consulting the Postal Operations Council and subject to the approval of Congress, the member countries prepared:
 
-- 1.15. het, na overleg met de Postraad en onder voorbehoud van de goedkeuring van het Congres, aanwijzen van de lidstaten die mogelijk:
+   - 1.15.1. to assume the positions of Vice-Chairs of Congress and Chairs and Vice-Chairs of the Committees, taking as much account as possible of the equitable geographical distribution of the member countries; and
 
-- 1.15.1. de positie van vicevoorzitter van het Congres en die van voorzitter en vicevoorzitter van de Commissies op zich kunnen nemen, zo veel mogelijk rekening houdend met een billijke geografische spreiding van de lidstaten;
+   - 1.15.2. to sit on the Restricted Committees of the Congress.
 
-- 1.15.2. deel kunnen uitmaken van de Besloten Commissies van het Congres;
+- 1.16. (Deleted.)
 
-- 1.16. (geschrapt);
+- 1.17. Considers and approves, within the framework of its competence, any action considered necessary to safeguard and enhance the quality of and to modernize the international postal service.
 
-- 1.17. het in het kader van zijn bevoegdheden in overweging nemen en goedkeuren van elke maatregel die nodig is voor het waarborgen en verhogen van de kwaliteit van de internationale postale dienst en deze moderniseren;
+- 1.18. Studies, at the request of Congress, the Postal Operations Council or member countries, administrative, legislative and legal problems concerning the Union or the international postal service; it shall be for the Council of Administration to decide, in the above-mentioned fields, whether it is expedient to undertake the studies requested by member countries between Congresses.
 
-- 1.18. het, op verzoek van het Congres, van de Postraad of van de lidstaten, bestuderen van problemen van bestuurlijke, wetgevende en juridische aard die de Unie of de internationale postale dienst aangaan; het is de taak van de Raad van Bestuur te besluiten op bovengenoemde gebieden of het al dan niet opportuun is tussen de Congressen in de door de lidstaten verzochte studies te ondernemen;
+- 1.19. Formulates proposals which shall be submitted for the approval either of Congress or of member countries in accordance with [article 142](https://wetten.overheid.nl/BWBV0006293).
 
-- 1.19. het doen van voorstellen die ter goedkeuring worden voorgelegd aan hetzij het Congres, hetzij de lidstaten overeenkomstig [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=142&z=2026-01-01&g=2026-01-01);
+- 1.20. Submits subjects for study to the Postal Operations Council for examination in accordance with [article 113.1.6](https://wetten.overheid.nl/BWBV0006293).
 
-- 1.20. het ter beoordeling aan de Postraad voorleggen van studieonderwerpen, overeenkomstig [113.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=3&artikel=113&z=2026-01-01&g=2026-01-01);
+- 1.21. Reviews and approves, in consultation with the Postal Operations Council, the draft Strategy for presentation to Congress.
 
-- 1.21. het, in overleg met de Postraad, beoordelen en goedkeuren van het strategieontwerp dat aan het Congres moet worden voorgelegd;
+- 1.22. Receives and discusses proposals, opinions and reports from the Consultative Committee and considers proposals and reports from the Consultative Committee for submission to Congress.
 
-- 1.22. het in ontvangst nemen van de voorstellen, de aanbevelingen alsmede de verslagen van de Adviescommissie en hierover beraadslagen, en het bestuderen van de voorstellen en verslagen van laatstgenoemde met het oog op de voorlegging ervan aan het Congres;
+- 1.23. Provides control over the activities of the International Bureau.
 
-- 1.23. het zorg dragen voor de controle van de activiteiten van het Internationaal Bureau;
+- 1.24. Approves the annual report on the work of the Union and the annual Financial Operating Reports prepared by the International Bureau and, where appropriate, furnishes observations on them.
 
-- 1.24. het goedkeuren van de door het Internationaal Bureau opgestelde jaarlijkse verslagen betreffende de activiteiten van de Unie en het financieel beheer en, in voorkomend geval, het leveren van commentaar hierop;
+- 1.25. Establishes principles, as may be considered necessary, for the Postal Operations Council to take into account in its study of questions with major financial repercussions (charges, terminal dues, transit charges, basic airmail conveyance rates and the posting abroad of letter-post items), follows closely the study of these questions, and reviews and approves, for conformity with the aforementioned principles, Postal Operations Council proposals relating to these questions.
 
-- 1.25. het vaststellen, wanneer hij zulks nuttig acht, van de beginselen waarmee de Postraad rekening moet houden bij de bestudering van vraagstukken die belangrijke financiële gevolgen hebben (toeslagen, eindkosten, doorvoerkosten, basistarief van luchtvervoer van post en terpostbezorging van brievenpost in het buitenland), het nauwgezet volgen van de bestudering van deze vraagstukken en het beoordelen en goedkeuren van de op dezelfde onderwerpen betrekking hebbende voorstellen van de Postraad, teneinde te waarborgen dat deze overeenkomen met de eerdergenoemde beginselen;
+- 1.26. Approves, within the framework of its competence, the recommendations of the Postal Operations Council for the adoption, if necessary, of regulations or of a new procedure until such time as Congress takes a decision in the matter.
 
-- 1.26. het goedkeuren, in het kader van zijn bevoegdheden, van de aanbevelingen van de Postraad betreffende de aanneming, indien nodig, van regelgeving of een nieuwe werkwijze in afwachting van een besluit ter zake door het Congres;
+- 1.27. Considers the annual report prepared by the Postal Operations Council and any proposals submitted by the Council.
 
-- 1.27. het beoordelen van het door de Postraad opgestelde jaarverslag en, in voorkomend geval, de door deze Raad ingediende voorstellen;
+- 1.28. Approves the four-yearly report prepared by the International Bureau in consultation with the Postal Operations Council, on the performance of member countries in respect of the execution of the Union Strategy approved by the preceding Congress, for submission to the following Congress.
 
-- 1.28. het goedkeuren van het vierjarig verslag, dat door het Internationaal Bureau in overleg met de Postraad wordt opgesteld, over de resultaten van de lidstaten betreffende de uitvoering van de door het voorgaande Congres goedgekeurde strategie van de Unie met het oog op de voorlegging ervan aan het volgende Congres;
+- 1.29. Establishes the framework for the organization of the Consultative Committee and concurs in the organization of the Consultative Committee, in accordance with the provisions of [article 123](https://wetten.overheid.nl/BWBV0006293).
 
-- 1.29. het vaststellen van het kader voor de organisatie van de Adviescommissie en het goedkeuren van de organisatie van de Adviescommissie, overeenkomstig de bepalingen van [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=4&artikel=123&z=2026-01-01&g=2026-01-01);
+- 1.30. Establishes criteria for membership of the Consultative Committee and revokes membership in accordance with those criteria, as further detailed in the relevant rules of procedure referred to in [article 123](https://wetten.overheid.nl/BWBV0006293).
 
-- 1.30. het vaststellen van de criteria voor toetreding tot de Adviescommissie en het intrekken van het lidmaatschap in overeenstemming met deze criteria, zoals nader uiteengezet in het relevante reglement van orde bedoeld in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=4&artikel=123&z=2026-01-01&g=2026-01-01);
+- 1.31. Lays down the Financial Regulations of the Union.
 
-- 1.31. het vaststellen van het Financieel Reglement van de Unie;
+- 1.32. Lays down the rules governing the Reserve Fund.
 
-- 1.32. het vaststellen van de regels van het Reservefonds;
+- 1.33. Lays down the rules governing the Special Fund.
 
-- 1.33. het vaststellen van de regels van het Bijzondere Fonds;
+- 1.34. Lays down the rules governing the Special Activities Fund.
 
-- 1.34. het vaststellen van de regels van het Fonds Bijzondere Activiteiten;
+- 1.35. Lays down the rules governing the Voluntary Fund.
 
-- 1.35. het vaststellen van de regels van het Vrijwillige Fonds;
+- 1.36. Lays down the Staff Regulations and the conditions of service of the elected officials.
 
-- 1.36. het vaststellen van de rechtspositie van het personeel en de arbeidsvoorwaarden van de gekozen functionarissen;
+- 1.37. Lays down the Regulations of the Social Fund.
 
-- 1.37. het vaststellen van het Reglement van het Sociaal Fonds;
+- 1.38. Exercises, within the context of [article 153](https://wetten.overheid.nl/BWBV0006293), overall supervision of the creation and activities of user-funded subsidiary bodies.
 
-- 1.38. het binnen het kader van [artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=V&artikel=153&z=2026-01-01&g=2026-01-01) uitoefenen van algemeen toezicht op de instelling en activiteiten van door de gebruikers gefinancierde hulporganen;
+- 1.39. Adopts its Rules of Procedure and the amendments to those Rules.
 
-- 1.39. het aannemen van het Reglement van Orde en van de wijzigingen hiervan.
+##### Article 108. Organization of CA sessions
 
-##### Artikel 108. Organiseren van vergaderingen van de Raad van Bestuur
+1. At its constituent meeting, which shall be convened and opened by the Chair of Congress, the Council of Administration shall elect four Vice-Chairs from among its members. The Chair and four Vice-Chairs shall be member countries from each of the five geographical groups of the Union.
 
-1. Tijdens zijn oprichtingsvergadering, die bijeen wordt geroepen en geopend door de Voorzitter van het Congres, kiest de Raad van Bestuur, uit zijn leden, vier Vicevoorzitters. De Voorzitter en vier Vicevoorzitters komen uit lidstaten van elk van de vijf geografische groepen van de Unie.
+2. The Council of Administration shall meet twice a year, or additionally on an exceptional basis, at Union headquarters, in accordance with the relevant procedures set forth in its Rules of Procedure.
 
-2. De Raad van Bestuur komt tweemaal per jaar, of vaker bij wijze van uitzondering, bijeen op de zetel van de Unie, in overeenstemming met de relevante procedures vervat in zijn Reglement van Orde.
+3. The Chair and Vice-Chairs, and the Committee Chairs, Co-Chairs and Vice-Chairs, of the Council of Administration shall form the Management Committee. This Committee shall prepare and direct the work of each session of the Council of Administration. It shall approve, on behalf of the Council of Administration, the annual report prepared by the International Bureau on the work of the Union and it shall take on any other task which the Council of Administration decides to assign to it or the need for which arises in the course of the strategic planning process.
 
-3. De Voorzitter en de Vicevoorzitters, en de Voorzitters, Medevoorzitters en de Vicevoorzitters van de Commissies van de Raad van Bestuur vormen de Commissie van Beheer. Deze Commissie bereidt de werkzaamheden van elke zitting van de Raad van Bestuur voor en geeft hieraan leiding. De Commissie keurt namens de Raad van Bestuur het door het Internationaal Bureau opgestelde jaarverslag betreffende de activiteiten van de Unie goed en neemt alle andere taken op zich die de Raad van Bestuur besluit aan haar op te dragen of die aan de hand van het strategische planningsproces noodzakelijk blijken.
+4. The Chair of the Postal Operations Council shall represent that body at meetings of the Council of Administration when the agenda contains questions of interest to the Postal Operations Council.
 
-4. De Voorzitter van de Postraad vertegenwoordigt deze Raad tijdens de zittingen van de Raad van Bestuur wanneer op de agenda punten staan die voor de Postraad van belang zijn.
+5. (Deleted.)
 
-5. (geschrapt.)
+##### Article 109. Observers
 
-##### Artikel 109. Waarnemers
+1. Observers
 
-1. Waarnemers
+- 1.1. To ensure effective liaison between the work of the two bodies, the Postal Operations Council may designate representatives to attend Council of Administration meetings as observers.
 
-- 1.1. Teneinde een doeltreffende samenhang tussen de werkzaamheden van beide organen te waarborgen kan de Postraad vertegenwoordigers benoemen om de vergaderingen van de Raad van Bestuur in de hoedanigheid van waarnemer bij te wonen.
+- 1.2. Member countries of the Union which are not members of the Council, as well as the observers and ad hoc observers referred to in [article 105](https://wetten.overheid.nl/BWBV0006293), may participate in the plenary sessions and Committee meetings of the Council of Administration, without the right to vote.
 
-- 1.2. Lidstaten van de Unie die geen lid zijn van de Raad, alsmede waarnemers en de ad-hocwaarnemers bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=1&artikel=105&z=2026-01-01&g=2026-01-01) kunnen zonder stemrecht aan de plenaire zittingen en aan de vergaderingen van de Commissies van de Raad van Bestuur deelnemen.
+- 1.3. Members of the Consultative Committee, as well as the other observers and ad hoc observers referred to in [article 105](https://wetten.overheid.nl/BWBV0006293), also have the right to attend meetings of the standing groups, task forces and other bodies of the Council of Administration as observers, without the right to vote, subject to the provisions of paragraph 2.3.
 
-- 1.3. De leden van de Adviescommissie alsmede waarnemers en de ad-hocwaarnemers bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=1&artikel=105&z=2026-01-01&g=2026-01-01) hebben tevens het recht om deel te nemen aan de vergaderingen van de Permanente Groepen, Taskforces en andere organen van de Raad van Bestuur in de hoedanigheid van waarnemer zonder stemrecht, onder voorbehoud van het bepaalde onder 2.3.
+2. Principles
 
-2. Beginselen
+- 2.1. For logistical reasons, the Council of Administration may limit the number of attendees per observer and ad hoc observer participating. It may also limit their right to speak during the debates.
 
-- 2.1. Vanwege logistieke redenen kan de Raad van Bestuur het aantal deelnemers per waarnemer en ad-hocwaarnemer beperken. Ook kan de Raad hun spreekrecht tijdens de beraadslagingen beperken.
+- 2.2. Observers and ad hoc observers may, at their request, be allowed to cooperate in the studies undertaken, subject to such conditions as the Council may establish to ensure the efficiency and effectiveness of its work. They may also be invited to chair standing groups and task forces when their experience or expertise justifies it. The participation of observers and ad hoc observers shall be carried out without additional expense for the Union.
 
-- 2.2. Het kan de waarnemers en ad-hocwaarnemers, op hun verzoek, worden toegestaan medewerking te verlenen aan de ondernomen studies, met inachtneming van de voorwaarden die de Raad kan stellen ter waarborging van het resultaat en de doeltreffendheid van zijn werkzaamheden. Ook kan op hen een beroep worden gedaan voor het voorzitten van Permanente Groepen of Taskforces wanneer hun kennis of ervaring zulks rechtvaardigt. De deelname van de waarnemers en ad-hocwaarnemers vindt plaats zonder extra kosten voor de Unie.
+- 2.3. In exceptional circumstances, members of the Consultative Committee and ad hoc observers may be excluded from a meeting or a portion of a meeting or may have their right to receive documents restricted if the confidentiality of the subject of the meeting or document so requires. This restriction may be decided on a case-by-case basis by any body concerned, or by its Chair in consultation with the Chair of the Council of Administration and the Secretary General. The case-by-case situations shall be reported to the Council of Administration and to the Postal Operations Council when matters of interest to the Postal Operations Council are concerned. If it considers this necessary, the Council of Administration may subsequently review restrictions, in consultation with the Postal Operations Council where appropriate. Strictly in so far as prospective meetings are concerned, notification of restrictions shall preferably be sent to the members of the Consultative Committee and ad hoc observers concerned at least 14 days in advance of the relevant meeting (or as soon as possible in the case of urgent meetings convened less than 14 days following issuance of the relevant invitation by the International Bureau). Accordingly, such notifications shall not apply in the event of exclusions or document access restrictions deemed necessary in the context of an ongoing meeting of the body concerned.
 
-- 2.3. Onder uitzonderlijke omstandigheden kunnen leden van de Adviescommissie en de ad-hocwaarnemers worden uitgesloten van een vergadering of een deel van een vergadering. Ook kan hun recht op het ontvangen van bepaalde documenten worden beperkt indien de vertrouwelijkheid van het onderwerp van de vergadering of van het document dat vereist. Het besluit betreffende een dergelijke beperking kan per geval door elk betrokken orgaan of door de Voorzitter ervan in samenspraak met de Voorzitter van de Raad van Bestuur en de Secretaris-Generaal worden genomen. De verschillende gevallen worden aan de Raad van Bestuur bekendgemaakt, en aan de Postraad indien het om vraagstukken gaat die een bijzonder belang voor dit orgaan inhouden. Vervolgens kan de Raad van Bestuur, indien hij zulks nodig acht, de beperkingen, indien opportuun in overleg met de Postraad, opnieuw beoordelen. Uitsluitend voor toekomstige vergaderingen geldt dat kennisgevingen van beperkingen bij voorkeur ten minste veertien dagen vóór de desbetreffende vergadering aan de betrokken leden van de Adviescommissie en de ad-hocwaarnemers worden gezonden (of zo spoedig mogelijk in het geval van spoedvergaderingen die minder dan veertien dagen na verzending van de desbetreffende uitnodiging door het Internationaal Bureau worden gehouden). Bijgevolg zijn deze kennisgevingen niet van toepassing in het geval van uitsluitingen of beperkingen van de toegang tot documenten die noodzakelijk worden geacht in het kader van een lopende vergadering van het betrokken orgaan.
+##### Article 110. Reimbursement of travel expenses and payment of allowances to the Chair
 
-##### Artikel 110. Reiskostenvergoeding
+1. The travel expenses of representatives of members of the Council of Administration participating in its meetings shall be borne by their member country. However, other than for meetings that take place during Congress, one representative of each of the member countries classified as developing or least developed countries according to the lists established, respectively, by the Council of Administration and the United Nations shall be entitled to reimbursement of the price of an economy class return air ticket and/or first class return rail ticket, or expenses incurred for travel by any other means. The amount reimbursed for travelling by rail or by any other means shall not exceed the price of the economy class return air ticket. The same entitlement shall be granted to each member of its Committees or other bodies when these meet outside Congress and the sessions of the Council.
 
-1. De reiskosten van vertegenwoordigers van leden van de Raad van Bestuur die deelnemen aan de zittingen van dit orgaan, komen ten laste van hun lidstaat. Een vertegenwoordiger van elk van de lidstaten die overeenkomstig de door de Raad van Bestuur, respectievelijk de Verenigde Naties opgestelde lijsten worden gerangschikt onder de ontwikkelingslanden of minst ontwikkelde landen heeft, behalve voor de vergaderingen die tijdens het Congres plaatsvinden, echter recht op de vergoeding van hetzij de prijs van een economyclass-retourvliegticket en/of van een eersteklassetreinkaartje, hetzij van de kosten van de reis met elk ander middel, in het laatste geval op voorwaarde dat het bedrag de prijs van een economyclass-retourvliegticket niet te boven gaat. Hetzelfde recht wordt toegekend aan de vertegenwoordiger van elk lid van de Commissies of andere organen van de Raad wanneer deze buiten het Congres en de zittingen van de Raad vergaderen.
+2. Moreover, in the event that a member country classified as one of the developing or least developed countries according to the aforementioned lists is the Chair of the Council of Administration, one representative thereof shall be entitled to the same reimbursement as set forth in paragraph 1, as well as daily subsistence allowances (to be paid by analogy with the conditions applied to Union staff members), for participation in that capacity in meetings of the Council of Administration, the Postal Operations Council, the Coordination Committee for the Permanent Bodies of the Union and the Management Board of the Provident Scheme of the Union.
 
-##### Artikel 111. Informatie over de activiteiten van de Raad van Bestuur
+##### Article 111. Information on the activities of the CA
 
-1. Na elke zitting brengt de Raad van Bestuur de lidstaten, hun aangewezen aanbieders, de Beperkte Unies en de leden van de Adviescommissie op de hoogte van zijn activiteiten, in het bijzonder door hun een beknopt verslag alsmede de resoluties en besluiten van de Raad te doen toekomen.
+1. After each session, the Council of Administration shall inform the member countries and their designated operators, the Restricted Unions and the members of the Consultative Committee about its activities by sending them, inter alia, a summary record and its resolutions and decisions.
 
-2. De Raad van Bestuur stelt ten behoeve van het Congres een verslag op over al zijn activiteiten en doet dit ten minste twee maanden voor de opening van het Congres toekomen aan de lidstaten, aan hun aangewezen aanbieders en aan de leden van de Adviescommissie.
+2. The Council of Administration shall make to Congress a comprehensive report on its work and send it to the member countries of the Union, their designated operators and the members of the Consultative Committee at least two months before the opening of Congress.
 
-## DEEL 3. POSTRAAD
+### SECTION 3. POSTAL OPERATIONS COUNCIL (POC)
 
-##### Artikel 112. Samenstelling en functioneren van de Postraad
+##### Article 112. Composition and functioning of the POC
 
-1. De Postraad is samengesteld uit achtenveertig leden die hun taken gedurende het tijdvak tussen twee opeenvolgende Congressen vervullen.
+1. The Postal Operations Council shall consist of forty-eight members who shall exercise their functions during the period between successive Congresses.
 
-2. De leden van de Postraad worden door het Congres gekozen, aan de hand van een duidelijk omschreven geografische spreiding. Bij elk Congres wordt ten minste een derde van de leden van elke geografische groep vervangen. Onverminderd het voorgaande wordt één zetel in de geografische groep waartoe lidstaten behoren die worden omschreven als eilandstaten en -gebieden in de Stille Oceaan (conform de relevante lijst die door de Organisatie van de Verenigde Naties is opgesteld) gereserveerd voor die lidstaten.
+2. The members of the Postal Operations Council shall be elected by Congress on the basis of qualified geographical distribution. At least one third of the members of each geographical group shall be renewed at each Congress. Without prejudice to the foregoing, one seat in the geographical group to which member countries defined as Pacific Island countries and territories (as per the relevant list established by the United Nations) belong shall be reserved for those member countries.
 
-3. Elk lid van de Postraad benoemt zijn vertegenwoordiger(s). De leden van de Postraad nemen metterdaad deel aan de activiteiten van de Raad.
+3. Each member of the Postal Operations Council shall appoint its representative(s). The members of the Postal Operations Council shall take an active part in its work.
 
-4. De operationele kosten van de Postraad komen ten laste van de Unie. De leden van de Raad ontvangen geen enkele vergoeding.
+4. Except as otherwise stipulated in [article 116](https://wetten.overheid.nl/BWBV0006293), the office of member of the Postal Operations Council shall be unpaid. The operational expenses of this Council shall be borne by the Union.
 
-5. De Postraad omschrijft en formaliseert de Permanente groepen en Taskforces, door de gebruikers gefinancierde hulporganen of overige organen die binnen zijn structuur worden ingesteld en/of zet deze op, waarbij terdege rekening wordt gehouden met de strategie van de Unie en het bedrijfsplan dat door het Congres is aangenomen.
+5. The Postal Operations Council shall define, formalize and/or set up the standing groups, task forces, user-funded subsidiary bodies or other bodies to be established within its structure, with due regard being paid to the Union’s strategy and business plan adopted by Congress.
 
-##### Artikel 113. Taken van de Postraad
+##### Article 113. Functions of the POC
 
-1. De Postraad heeft de volgende taken:
+1. The Postal Operations Council shall have the following functions:
 
-- 1.1. het coördineren van de praktische maatregelen voor de ontwikkeling en de verbetering van de internationale postale diensten;
+- 1.1. Coordinates practical measures for the development and improvement of international postal services.
 
-- 1.2. het, onder voorbehoud van de goedkeuring van de Raad van Bestuur in het kader van diens bevoegdheden, ondernemen van elke actie die nodig wordt geacht voor het behouden en verbeteren van de kwaliteit van de internationale postale dienst en om deze te moderniseren;
+- 1.2. Takes, subject to Council of Administration approval within the framework of the latter’s competence, any action considered necessary to safeguard and enhance the quality of and to modernize the international postal service.
 
-- 1.3. het nemen van beslissingen omtrent te leggen contacten met de lidstaten en hun aangewezen aanbieders voor het vervullen van zijn taken;
+- 1.3. Decides on the contacts to be established with member countries and their designated operators in order to carry out its functions.
 
-- 1.4. het treffen van de nodige maatregelen met het oog op de bestudering en verspreiding van de door bepaalde lidstaten en hun aangewezen aanbieders opgedane ervaring en geboekte vooruitgang op het gebied van techniek, exploitatie, economie en beroepsopleiding die de andere lidstaten en hun aangewezen aanbieders aangaan;
+- 1.4. Takes the necessary steps to study and publicize the experiments and progress made by certain member countries and their designated operators in the technical, operational, economic and vocational training fields of interest to other member countries and their designated operators.
 
-- 1.5. het, na overleg met de Raad van Bestuur, nemen van passende maatregelen op het gebied van technische samenwerking met alle lidstaten van de Unie en hun aangewezen aanbieders, in het bijzonder met nieuwe landen en ontwikkelingslanden en hun aangewezen aanbieders;
+- 1.5. Takes, in consultation with the Council of Administration, appropriate steps in the sphere of technical cooperation with all member countries of the Union and their designated operators and in particular with the new and developing countries and their designated operators.
 
-- 1.6. het bestuderen van alle overige vraagstukken die door een lid van de Postraad, door de Raad van Bestuur of door een lidstaat of aangewezen aanbieder aan hem worden voorgelegd;
+- 1.6. Examines any other questions submitted to it by a member of the Postal Operations Council, by the Council of Administration or by any member country or designated operator.
 
-- 1.7. het in ontvangst nemen en bespreken van voorstellen, aanbevelingen alsmede van de verslagen van de Adviescommissie en, voor de vraagstukken die de Postraad aangaan, het bestuderen en van opmerkingen voorzien van de aanbevelingen en verslagen van de Adviescommissie met het oog op de voorlegging ervan aan het Congres;
+- 1.7. Receives and discusses proposals, opinions and reports from the Consultative Committee and, when matters of interest to the Postal Operations Council are involved, examines and comments on proposals and reports from the Consultative Committee for submission to Congress.
 
-- 1.8. (geschrapt;)
+- 1.8. (Deleted.)
 
-- 1.9. het leiden van de bestudering van de belangrijkste exploitatie-, handels-, technische en economische problemen en problemen op het gebied van technische samenwerking die van belang zijn voor alle lidstaten van de Unie of hun aangewezen aanbieders, in het bijzonder vraagstukken die aanzienlijke financiële gevolgen hebben (toeslagen, eindkosten, doorvoerkosten, basistarief luchtvervoer, quota postpakketten en terpostbezorging van briefpostzendingen in het buitenland), het samenstellen van informatie en het formuleren van zienswijzen hieromtrent en het aanbevelen van te nemen maatregelen;
+- 1.9. Conducts the study of the most important operational, commercial, technical, economic and technical cooperation problems which are of interest to all member countries or their designated operators, including questions with major financial repercussions (charges, terminal dues, transit charges, airmail conveyance rates, parcel-post rates, and the posting abroad of letter-post items), and prepares information, opinions and recommendations for action on them.
 
-- 1.10. het aan de Raad van Bestuur verstrekken van de nodige gegevens voor het opstellen van de aan het Congres voor te leggen ontwerpstrategie van de Unie en het ontwerp voor het vierjaarlijks werkplan van de Unie;
+- 1.10. Provides input to the Council of Administration for the development of the draft Union Strategy and draft quadrennial Union business plan to be submitted to Congress.
 
-- 1.11. het bestuderen van problemen die verband houden met het onderwijs en de beroepsopleiding die de lidstaten en hun aangewezen aanbieders alsmede nieuwe landen en ontwikkelingslanden aangaan;
+- 1.11. Studies teaching and vocational training problems of interest to member countries and their designated operators, as well as to the new and developing countries.
 
-- 1.12. het bestuderen van de huidige situatie en de behoeften in nieuwe landen en ontwikkelingslanden en het opstellen van passende aanbevelingen over de wijze waarop en de middelen waarmee hun postale diensten kunnen worden verbeterd;
+- 1.12. Studies the present position and needs of the new and developing countries and prepares appropriate recommendations on ways and means of improving their postal services.
 
-- 1.13. het herzien van de Regelingen van de Unie; in dit verband blijft de Postraad wat betreft het beleid en de fundamentele beginselen onderworpen aan de richtlijnen van de Raad van Bestuur;
+- 1.13. Revises the Regulations of the Union; in this regard, the Postal Operations Council shall be subject to Council of Administration guidance on matters of fundamental policy and principle.
 
-- 1.14. het formuleren van voorstellen die ter goedkeuring worden voorgelegd aan hetzij het Congres, hetzij de lidstaten overeenkomstig [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=142&z=2026-01-01&g=2026-01-01); de goedkeuring van de Raad van Bestuur is vereist wanneer deze voorstellen betrekking hebben op vraagstukken die onder de bevoegdheid van de Raad vallen;
+- 1.14. Formulates proposals which shall be submitted for the approval either of Congress or of member countries in accordance with [article 142](https://wetten.overheid.nl/BWBV0006293); the approval of the Council of Administration is required when these proposals concern questions within the latter’s competence.
 
-- 1.15. het, op verzoek van een lidstaat, bestuderen van elk voorstel dat deze lidstaat overeenkomstig [artikel 141](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=141&z=2026-01-01&g=2026-01-01) aan het Internationaal Bureau zendt, het opstellen van het commentaar hierop en het Internationaal Bureau opdragen dit bij het genoemde voorstel te voegen alvorens dit ter goedkeuring voor te leggen aan de lidstaten;
+- 1.15. Examines, at the request of a member country, any proposal which that member country forwards to the International Bureau under [article 141](https://wetten.overheid.nl/BWBV0006293), prepares observations on it and instructs the International Bureau to annex these observations to the proposal before submitting it for approval to the member countries.
 
-- 1.16. het, indien nodig, aanbevelen en eventueel aannemen – na goedkeuring door de Raad van Bestuur en overleg met alle lidstaten – van regelgeving of een nieuwe werkwijze in afwachting van het besluit van het Congres ter zake;
+- 1.16. Recommends, if necessary, and where appropriate after approval by the Council of Administration and consultation of all the member countries, the adoption of regulations or of a new procedure until such time as Congress takes a decision in the matter.
 
-- 1.17. het, in de vorm van aanbevelingen (of als bindende bepalingen indien de Akten van de Unie daarin voorzien) aan de lidstaten en hun aangewezen aanbieders, opstellen en aanreiken van normen op het gebied van techniek en exploitatie en op andere gebieden binnen zijn bevoegdheden waarop een uniforme werkwijze onmisbaar is; de Postraad verstrekt dienovereenkomstig, indien nodig, ook wijzigingen van reeds door hem vastgestelde normen;
+- 1.17. Prepares and issues, in the form of recommendations to member countries and their designated operators (or as binding provisions if the Acts of the Union so provide), standards for technological, operational and other processes within its competence where uniformity of practice is essential; it shall similarly issue, as required, amendments to standards it has already set.
 
-- 1.18. het vaststellen van het kader voor de organisatie van de door de gebruikers gefinancierde hulporganen en het goedkeuren van de organisatie van deze organen, overeenkomstig de bepalingen van [artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=V&artikel=153&z=2026-01-01&g=2026-01-01);
+- 1.18. Establishes the framework for the organization of user-funded subsidiary bodies and concurs in the organization of these bodies in accordance with the provisions of [article 153](https://wetten.overheid.nl/BWBV0006293).
 
-- 1.19. het jaarlijks in ontvangst nemen en bespreken van verslagen van de door de gebruikers gefinancierde hulporganen;
+- 1.19. Receives and discusses reports from the user-funded subsidiary bodies on an annual basis.
 
-- 1.20. het aannemen van het Reglement van Orde en van de wijzigingen hiervan
+- 1.20. Adopts its Rules of Procedure and the amendments to those Rules.
 
-##### Artikel 114. Organisatie van vergaderingen van de Postraad
+##### Article 114. Organization of POC sessions
 
-1. Tijdens zijn eerste vergadering, die bijeen wordt geroepen en wordt geopend door de Voorzitter van het Congres, kiest de Postraad uit zijn leden een Voorzitter en vier Vicevoorzitters en de Voorzitter/Vicevoorzitters/Medevoorzitters van de Commissies. De Voorzitter en vier Vicevoorzitters komen uit lidstaten van elk van de vijf geografische groepen van de Unie.
+1. At its first meeting, which shall be convened and opened by the Chair of Congress, the Postal Operations Council shall choose from among its members a Chair and four Vice-Chairs, and the Committee Chairs/Vice-Chairs/Co-Chairs. The Chair and four Vice-Chairs shall be member countries from each of the five geographical groups of the Union.
 
-2. De Postraad komt tweemaal per jaar, of vaker bij wijze van uitzondering, op de zetel van de Unie bijeen, in overeenstemming met de relevante procedures die zijn vervat in zijn Reglement van Orde.
+2. The Postal Operations Council shall meet twice a year, or additionally on an exceptional basis, at Union headquarters, in accordance with the relevant procedures set forth in its Rules of Procedure.
 
-3. De Voorzitter en de Vicevoorzitters en de Voorzitters, Medevoorzitters en Vicevoorzitters van de Commissies van de Postraad vormen de Commissie van Beheer. Deze Commissie bereidt de werkzaamheden van elke zitting van de Postraad voor en geeft hieraan leiding, en neemt alle taken op zich die de Raad besluit aan haar op te dragen of die tijdens het strategische planningsproces noodzakelijk blijken.
+3. The Chair and Vice-Chairs, and the Committee Chairs, Co-Chairs and Vice-Chairs, of the Postal Operations Council shall form the Management Committee. This Committee shall prepare and direct the work of each meeting of the Postal Operations Council and take on all the tasks which the latter decides to assign to it or the need for which arises in the course of the strategic planning process.
 
-4. Op basis van de door het Congres aangenomen strategie van de Unie en, in het bijzonder, het gedeelte dat betrekking heeft op de strategieën van de permanente organen van de Unie, stelt de Postraad tijdens zijn zitting na het Congres, een basiswerkprogramma op dat een aantal tactieken bevat ter verwezenlijking van de strategieën. Dit basisprogramma, dat een beperkt aantal werkzaamheden op het gebied van actuele onderwerpen van gemeenschappelijk belang behelst, wordt jaarlijks herzien aan de hand van de nieuwe feiten en prioriteiten.
+4. On the basis of the Union Strategy adopted by Congress and, in particular, the part relating to the strategies of the permanent bodies of the Union, the Postal Operations Council shall, at its session following Congress, prepare a basic work programme containing a number of tactics aimed at implementing the strategies. This basic work programme, which shall include a limited number of projects on topical subjects of common interest, shall be revised annually in the light of new realities and priorities.
 
-5. (geschrapt.)
+5. (Deleted.)
 
-##### Artikel 115. Waarnemers
+##### Article 115. Observers
 
-1. Waarnemers
+1. Observers
 
-- 1.1. Teneinde te zorgen voor een doeltreffende samenhang tussen de werkzaamheden van beide organen kan de Raad van Bestuur vertegenwoordigers benoemen om de vergaderingen van de Postraad in de hoedanigheid van waarnemer bij te wonen.
+- 1.1. In order to ensure effective liaison between the work of the two bodies, the Council of Administration may designate representatives to attend Postal Operations Council meetings as observers.
 
-- 1.2. Lidstaten van de Unie die geen lid zijn van de Raad, alsmede de waarnemers en ad-hocwaarnemers bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=1&artikel=105&z=2026-01-01&g=2026-01-01) kunnen zonder stemrecht, aan de plenaire zittingen en aan de vergaderingen van de Commissies van de Postraad deelnemen.
+- 1.2. Member countries of the Union which are not members of the Council, as well as the observers and ad hoc observers referred to in [article 105](https://wetten.overheid.nl/BWBV0006293), may participate in the plenary sessions and Committee meetings of the Postal Operations Council, without the right to vote.
 
-- 1.3. De leden van de Adviescommissie alsmede waarnemers en de ad-hocwaarnemers bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=1&artikel=105&z=2026-01-01&g=2026-01-01) hebben het recht om deel te nemen aan de vergaderingen van de Permanente Groepen, Taskforces en andere organen van de Postraad in de hoedanigheid van waarnemer zonder stemrecht, onder voorbehoud van het bepaalde onder 2.3.
+- 1.3. Members of the Consultative Committee, as well as the other observers and ad hoc observers referred to in [article 105](https://wetten.overheid.nl/BWBV0006293), have the right to attend meetings of the standing groups, task forces and other bodies of the Postal Operations Council as observers, without the right to vote, subject to the provisions of paragraph 2.3.
 
-2. Beginselen
+2. Principles
 
-- 2.1. Vanwege logistieke redenen kan de Postraad het aantal deelnemers per waarnemer en ad-hocwaarnemer beperken. Ook kan de Raad hun spreekrecht tijdens de beraadslagingen beperken.
+- 2.1. For logistical reasons, the Postal Operations Council may limit the number of attendees per observer and ad hoc observer participating. It may also limit their right to speak during the debates.
 
-- 2.2. Het kan de waarnemers en ad-hocwaarnemers, op hun verzoek, worden toegestaan medewerking te verlenen aan de ondernomen studies, met inachtneming van de voorwaarden die de Raad kan stellen ter waarborging van het resultaat en de doeltreffendheid van zijn werkzaamheden. Ook kan op hen een beroep worden gedaan voor het voorzitten van Permanente Groepen of Taskforces wanneer hun kennis of ervaring zulks rechtvaardigt. De deelname van de waarnemers en ad-hocwaarnemers vindt plaats zonder extra kosten voor de Unie.
+- 2.2. Observers and ad hoc observers may, at their request, be allowed to cooperate in the studies undertaken, subject to such conditions as the Council may establish to ensure the efficiency and effectiveness of its work. They may also be invited to chair standing groups and task forces when their experience or expertise justifies it. The participation of observers and ad hoc observers shall be carried out without additional expense for the Union.
 
-- 2.3. Onder uitzonderlijke omstandigheden kunnen leden van de Adviescommissie en de ad-hocwaarnemers worden uitgesloten van een vergadering of een deel van een vergadering. Ook kan hun recht op het ontvangen van bepaalde documenten worden beperkt indien de vertrouwelijkheid van het onderwerp van de vergadering of van het document dat vereist. Het besluit betreffende een dergelijke beperking kan per geval door elk betrokken orgaan of door de Voorzitter ervan in samenspraak met de Voorzitter van de Postraad en de Secretaris-Generaal worden genomen. De verschillende gevallen worden aan de Raad van Bestuur bekendgemaakt en aan de Postraad. Vervolgens kan de Raad van Bestuur, indien hij zulks nodig acht, de beperkingen opnieuw beoordelen, wanneer opportuun in overleg met de Postraad; Uitsluitend voor toekomstige vergaderingen geldt dat kennisgevingen van beperkingen bij voorkeur ten minste veertien dagen vóór de desbetreffende vergadering aan de betrokken leden van de Adviescommissie en de ad-hocwaarnemers worden gezonden (of zo spoedig mogelijk in het geval van spoedvergaderingen die minder dan veertien dagen na verzending van de desbetreffende uitnodiging door het Internationaal Bureau worden gehouden). Bijgevolg zijn deze kennisgevingen niet van toepassing in het geval van uitsluitingen of beperkingen van de toegang tot documenten die noodzakelijk worden geacht in het kader van een lopende vergadering van het betrokken orgaan.
+- 2.3. In exceptional circumstances, members of the Consultative Committee and ad hoc observers may be excluded from a meeting or a portion of a meeting or may have their right to receive documents restricted if the confidentiality of the subject of the meeting or document so requires. This restriction may be decided on a case-by-case basis by any body concerned, or by its Chair in consultation with the Chair of the Postal Operations Council and the Secretary General. The case-by-case situations shall be reported to the Council of Administration and to the Postal Operations Council. If it considers this necessary, the Council of Administration may subsequently review restrictions, in consultation with the Postal Operations Council where appropriate. Strictly in so far as prospective meetings are concerned, notification of restrictions shall preferably be sent to the members of the Consultative Committee and ad hoc observers concerned at least 14 days in advance of the relevant meeting (or as soon as possible in the case of urgent meetings convened less than 14 days following issuance of the relevant invitation by the International Bureau). Accordingly, such notifications shall not apply in the event of exclusions or document access restrictions deemed necessary in the context of an ongoing meeting of the body concerned.
 
-##### Artikel 116. Reiskostenvergoeding
+##### Article 116. Reimbursement of travel expenses and payment of allowances to the Chair
 
-1. De reiskosten van vertegenwoordigers van leden van de Postraad die deelnemen aan de zittingen van dit orgaan, komen ten laste van hun lidstaat. Een vertegenwoordiger van elk van de lidstaten die overeenkomstig de Verenigde Naties opgestelde lijst worden gerangschikt onder de minst ontwikkelde landen heeft, behalve voor de vergaderingen die tijdens het Congres plaatsvinden, echter recht op de vergoeding van hetzij de prijs van een economyclass-retourvliegticket en/of van een eersteklassetreinkaartje, hetzij van de kosten van de reis met elk ander middel, in het laatste geval op voorwaarde dat het bedrag de prijs van een economyclass-retourvliegticket niet te boven gaat.
+1. The travel expenses of representatives of members of the Postal Operations Council participating in its meetings shall be borne by their member country. However, other than for meetings that take place during Congress, one representative of each of the member countries classified as least developed countries according to the list established by the United Nations shall be entitled to reimbursement of the price of an economy class return air ticket and/or first class return rail ticket, or expenses incurred for travel by any other means. The amount reimbursed for travelling by rail or by any other means shall not exceed the price of the economy class return air ticket.
 
-##### Artikel 117. Informatie over de activiteiten van de Postraad
+2. Moreover, in the event that a member country classified as one of the least developed countries according to the aforementioned list is the Chair of the Postal Operations Council, one representative thereof shall be entitled to the same reimbursement as set forth in paragraph 1, as well as daily subsistence allowances (to be paid by analogy with the conditions applied to Union staff members), for participation in that capacity in meetings of the Postal Operations Council, the Council of Administration and the Coordination Committee for the Permanent Bodies of the Union.
 
-1. Na elke zitting brengt de Postraad de lidstaten, hun aangewezen aanbieders, de beperkte Unies en de leden van de Adviescommissie op de hoogte van zijn activiteiten, met name door hun een beknopt verslag alsmede de resoluties en besluiten van de Raad te doen toekomen.
+##### Article 117. Information on the activities of the POC
 
-2. De Postraad stelt, ten behoeve van de Raad van Bestuur, een jaarverslag van zijn activiteiten op.
+1. After each session, the Postal Operations Council shall inform the member countries and their designated operators, the Restricted Unions and the members of the Consultative Committee about its activities by sending them, inter alia, a summary record and its resolutions and decisions.
 
-3. De Postraad stelt ten behoeve van het Congres een verslag op over al zijn activiteiten, met inbegrip van verslagen over door gebruikers gefinancierde hulporganen zoals voorzien in [artikel 152](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=IV&artikel=152&z=2026-01-01&g=2026-01-01), en doet dit ten minste twee maanden voor de opening van het Congres toekomen aan alle lidstaten van de Unie, aan hun aangewezen aanbieders en aan de leden van de Adviescommissie.
+2. The Postal Operations Council shall prepare for the Council of Administration an annual report on its work.
 
-## DEEL 4. ADVIESCOMMISSIE
+3. The Postal Operations Council shall make to Congress a comprehensive report on its work, including reports on user-funded subsidiary bodies as provided for in [article 152](https://wetten.overheid.nl/BWBV0006293), and send it to member countries of the Union, their designated operators and members of the Consultative Committee at least two months before the opening of Congress.
 
-##### Artikel 118. Doel van de Adviescommissie
+##### Article 117bis. Coordination Committee for the Permanent Bodies of the Union
 
-1. De Adviescommissie heeft tot doel de belangen van de postale sector in brede zin te behartigen en als kader te dienen voor een doeltreffende dialoog tussen de betrokken partijen.
+1. The Chairman of the CA, the Chairman of the POC and the Director General of the International Bureau shall form the Coordination Committee for the Permanent Bodies of the Union (CCoord).
 
-##### Artikel 119. Samenstelling van de Adviescommissie
+2. The CCoord shall have the following attributions and functions:
 
-1. De Adviescommissie omvat:
+- 2.1 Contribute to the coordination of the work of the permanent bodies of the Union;
 
-- 1.1. niet-gouvernementele organisaties (waaronder organisaties die cliënten vertegenwoordigen, leveranciers van distributiediensten, werknemers en werkgevers in de postsector), filantropische entiteiten, standaardisatie-, financiële en ontwikkelingsorganisaties, leveranciers van goederen en diensten die voor de postale dienstensector werkzaam zijn, vervoersentiteiten en overige particuliere entiteiten en vergelijkbare organisaties waarin particulieren verenigd zijn, alsmede ondernemingen die een bijdrage wensen te leveren aan de verwezenlijking van de missie en de doelen van de Unie;
+- 2.2 Meet, when needed, in order to discuss important questions relating to the Union and the postal service and provide the Union’s bodies with an evaluation of such questions;
 
-- 1.1bis. hoge vertegenwoordigers van de postale sector die zijn aanbevolen door de lidstaten of de betrokken organen van de Unie, met inbegrip van de Adviescommissie;
+- 2.3 Ensure proper implementation of the strategic planning process so that all decisions on the Union’s activities are taken by the appropriate bodies in accordance with the respective responsibilities as specified in the Acts of the Union.
 
-- 1.1ter. (Geschrapt.)
+3. On convocation by the Chairman of the CA, the CCoord shall meet twice a year, at Union headquarters. The date and place of the meetings shall be fixed by the Chairman of the CA in agreement with the Chairman of the POC and the Director General of the International Bureau.
 
-- 1.2. (Geschrapt.)
+### SECTION 4. CONSULTATIVE COMMITTEE (CC)
 
-- 1.3. (Geschrapt.)
+##### Article 118. Aim of the CC
 
-1bis. Alle leden van de Adviescommissie moeten gevestigd zijn (en, indien de betreffende lidstaat zulks vereist, naar behoren geregistreerd zijn) of, in het geval van de hoge vertegenwoordigers bedoeld in [1.1bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=1bis), duurzaam verblijven, in een lidstaat van de Unie.
+1. The aim of the Consultative Committee is to represent the interests of the wider international postal sector, and to provide a framework for effective dialogue between stakeholders.
 
-2. De operationele kosten van de Adviescommissie worden over de leden van de Adviescommissie omgeslagen, tenzij de Raad van Bestuur anderszins besluit. In dit opzicht, en zoals nader uiteengezet in het Reglement van Orde van de Adviescommissie, kunnen er verschillende lidmaatschapsgelden van toepassing zijn afhankelijk van het specifieke rechtskarakter en financiële mogelijkheden van de leden van de Adviescommissie.
+##### Article 119. Composition of the CC
 
-3. De leden van de Adviescommissie krijgen geen enkele vergoeding of beloning.
+1. The Consultative Committee shall consist of:
 
-##### Artikel 120. Lidmaatschap van de Adviescommissie
+- 1.1 non-governmental organizations (including organizations representing customers, delivery service providers, postal employees or postal employers); philanthropic entities; standardization, financial and development organizations; suppliers of goods and services to the postal services sector; transportation entities and other private sector entities; and like organizations of individuals and companies which have an interest in supporting the mission and objectives of the Union;
 
-1. De Adviescommissie bestaat uit:
+- 1.1bis high-level figures from the postal sector recommended by member countries or the bodies of the Union concerned, including the Consultative Committee.
 
-- 1.1. niet-gouvernementele organisaties (waaronder organisaties die cliënten, leveranciers van distributiediensten, werknemers bij de post of werkgevers bij de post vertegenwoordigen), filantropische entiteiten, normalisatieorganisaties, financiële en ontwikkelingsorganisaties, leveranciers van goederen en diensten die voor de postdienstensector werkzaam zijn, vervoersentiteiten, universitaire instellingen en onderzoeksinstituten, denktanks en soortgelijke kennisinstellingen en -organen die belang hebben bij het bijdragen aan de verwezenlijking van de missie en doelen van de Unie;
+- 1.1ter (Deleted.)
 
-- 1.2. hoge vertegenwoordigers uit de postsector die worden aanbevolen door lidstaten of organen van de Unie, met inbegrip van de Adviescommissie.
+- 1.2 (Deleted.)
 
-2. Alle leden van de Adviescommissie hebben hun hoofdvestiging (en zijn, indien vereist door de betrokken lidstaat, naar behoren geregistreerd) of, in het geval van een hoge vertegenwoordiger als bedoeld in punt 1.2, hun vaste verblijfplaats in een lidstaat van de Unie.
+- 1.3 (Deleted.)
 
-3. De operationele kosten van de Adviescommissie worden over de leden van de Adviescommissie omgeslagen, tenzij de Raad van Bestuur anders bepaalt. In dit verband, en zoals uiteengezet in het Reglement van Orde van de Adviescommissie, kunnen verschillende lidmaatschapsgelden van toepassing zijn, afhankelijk van de juridische aard en de specifieke financiële mogelijkheden van de leden van de Adviescommissie.
+1bis. All members of the Consultative Committee shall be established (and, if so required by the member country concerned, duly registered) or, in the case of the high-level figures referred to in 1.1bis, have permanent residence, in a Union member country.
 
-4. De leden van de Adviescommissie krijgen geen enkele vergoeding of beloning.
+2. The operational costs of the Consultative Committee shall be shared by members of the Consultative Committee, except as otherwise determined by the Council of Administration. In this regard, and as further outlined in the Rules of Procedure of the Consultative Committee, different membership fees may apply depending on the specific legal nature and financial capability of members of the Consultative Committee.
 
-##### Artikel 121. Toetreding tot de Adviescommissie
+3. The members of the Consultative Committee shall not receive remuneration or any other compensation.
 
-1. De toetreding tot de Adviescommissie wordt vastgesteld aan de hand van een procedure van indiening respectievelijk inwilliging van verzoeken die door de Raad van Bestuur wordt ingesteld en verloopt overeenkomstig [artikel 107.1.30](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=107&z=2026-01-01&g=2026-01-01).
+##### Article 120. Composition of the CC
 
-2. Onverminderd het bepaalde in[artikel 120.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=4&artikel=120&z=2026-01-01&g=2026-01-01) gaan alle verzoeken om toetreding tot de Adviescommissie zoals ingediend door de entiteiten of hoge vertegenwoordigers bedoeld in artikel 120, vergezeld van de voorafgaande schriftelijke goedkeuring of aanbeveling van de lidstaat van de Unie.
+1. The Consultative Committee shall consist of:
 
-2bis. Herroeping van de toetreding tot de Adviescommissie vindt plaats door middel van een proces dat is vastgesteld door de Raad van Bestuur in overeenstemming met [artikel 107.1.30](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=107&z=2026-01-01&g=2026-01-01).
+- 1.1. non-governmental organizations (including those representing customers, delivery service providers, postal employees or postal employers); philanthropic entities; standardization, financial and development organizations; suppliers of goods and services to the postal services sector; transportation entities; academic and research institutions; think tanks and similar knowledge-based institutions; and like organizations that have an interest in supporting the mission and objectives of the Union;
 
-3. Elk lid van de Adviescommissie wijst zijn eigen vertegenwoordigers aan.
+- 1.2. high-level figures from the postal sector recommended by member countries or the bodies of the Union concerned, including the Consultative Committee.
 
-##### Artikel 122. Taken van de Adviescommissie
+2. All members of the Consultative Committee shall have their principal place of business (and, if so required by the member country concerned, be duly registered) or, in the case of the high-level figures referred to in 1.2, have permanent residence, in a Union member country.
 
-1. De Adviescommissie heeft de volgende taken:
+3. The operational costs of the Consultative Committee shall be shared by members of the Consultative Committee, except as otherwise determined by the Council of Administration. In this regard, and as further outlined in the Rules of Procedure of the Consultative Committee, different membership fees may apply depending on the specific legal nature and financial capability of members of the Consultative Committee.
 
-- 1.1. het bestuderen van de desbetreffende documenten en verslagen van de Raad van Bestuur en van de Postraad en hun respectieve organen. Onder uitzonderlijke omstandigheden kan het recht bepaalde teksten en documenten te ontvangen worden beperkt indien de vertrouwelijkheid van het onderwerp van de vergadering of van het document dat vereist, in overeenstemming met de [artikelen 109.2.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=109&z=2026-01-01&g=2026-01-01) en [115.2.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=3&artikel=115&z=2026-01-01&g=2026-01-01).
+4. The members of the Consultative Committee shall not receive remuneration or any other compensation.
 
-- 1.2. het uitvoeren van en bijdragen aan studies over vraagstukken die voor de leden van de Adviescommissie van belang zijn;
+##### Article 121. Membership of the CC
 
-- 1.3. het bestuderen van vraagstukken betreffende de postale dienstensector en het leveren van bijdragen over deze vraagstukken in de vorm van voorstellen, aanbevelingen en verslagen aan de Raad van Bestuur en de Postraad en hun respectieve organen, in voorkomend geval.
+1. Membership of the Consultative Committee shall be determined through a process of application and acceptance established by the Council of Administration, in accordance with [article 107.1.30](https://wetten.overheid.nl/BWBV0006293).
 
-- 1.4. (geschrapt.)
+2. Without prejudice to the requirement set forth in [article 120.2](https://wetten.overheid.nl/BWBV0006293), any requests for membership of the Consultative Committee as submitted by the entities or high-level figures referred to in article 120 shall be accompanied by the prior written authorization or recommendation of the corresponding Union member country.
 
-- 1.5. het indienen van aanbevelingen en verslagen bij het Congres, onder voorbehoud van goedkeuring van de Raad van Bestuur en in naam van laatstgenoemde, en wat de vraagstukken die voor de Postraad van belang zijn betreft, onder voorbehoud van beoordeling en commentaar door deze laatste overeenkomstig de [artikelen 107.1.22](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=107&z=2026-01-01&g=2026-01-01) et [113.1.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=3&artikel=113&z=2026-01-01&g=2026-01-01).
+2bis. Revocation of membership of the Consultative Committee shall be determined through a process established by the Council of Administration in accordance with [article 107.1.30](https://wetten.overheid.nl/BWBV0006293).
 
-##### Artikel 123. Organisatie van de Adviesraad
+3. Each member of the Consultative Committee shall appoint its own representative(s).
 
-1. Na elk Congres wordt de Adviescommissie opnieuw georganiseerd, volgens het door de Raad van Bestuur opgezette kader. De Voorzitter van de Raad van Bestuur zit de organisatievergadering van de Adviescommissie voor, gedurende welke wordt overgegaan tot de verkiezing van de Voorzitter van deze Commissie.
+##### Article 122. Functions of the CC
 
-2. De Adviescommissie stelt haar interne organisatie vast en stelt haar eigen Reglement van Orde op, rekening houdend met de algemene beginselen van de Unie en onder voorbehoud van de goedkeuring van de Raad van Bestuur, na overleg met de Postraad.
+1. The Consultative Committee shall have the following functions:
 
-3. De Adviescommissie vergadert minimaal eenmaal per jaar of vaker indien dit voor haar werkzaamheden noodzakelijk wordt geacht. De datum en plaats van elke vergadering worden door de Voorzitter van de Adviescommissie vastgesteld, na overeenstemming met de Voorzitters van de Raad van Bestuur en de Postraad en met de Directeur-Generaal van het Internationaal Bureau.
+- 1.1. Examines documents and reports of the Council of Administration and the Postal Operations Council, and their respective bodies. In exceptional circumstances, the right to receive certain texts and documents may be restricted if the confidentiality of the subject of the meeting or document so requires, in accordance with [articles 109.2.3](https://wetten.overheid.nl/BWBV0006293) and [115.2.3](https://wetten.overheid.nl/BWBV0006293).
 
-##### Artikel 124. Vertegenwoordigers van de Adviescommissie bij de Raad van Bestuur, de Postraad en het Congres
+- 1.2. Conducts and contributes to studies of issues of importance to the Consultative Committee’s members.
 
-1. Onverminderd [artikel 124.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=4&artikel=124&z=2026-01-01&g=2026-01-01), hebben de leden van de Adviescommissie het recht de vergaderingen van het Congres, de Raad van Bestuur en de Postraad en hun respectieve commissies, Permanente Groepen, Taskforces en andere organen als waarnemer zonder stemrecht bij te wonen, met inachtneming van de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=109&z=2026-01-01&g=2026-01-01) en [115](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=3&artikel=115&z=2026-01-01&g=2026-01-01) en het Reglement van Orde van het Congres voor zover dit voor het desbetreffende orgaan relevant is.
+- 1.2bis Subject to the approval of the Council of Administration, and also subject to examination and comments by the Postal Operations Council when matters of interest to that body are involved, coordinates and facilitates implementation of postal sector projects involving members of the Consultative Committee, potentially in partnership with the governmental authorities of member countries and/or their designated operators.
 
-2. Ter waarborging van een doeltreffend contact met de organen van de Unie wijst de Adviescommissie vertegenwoordigers aan die de enige vertegenwoordigers zijn van de Adviescommissie zodat zij formeel, in naam van dit orgaan, de bijdragen kunnen leveren waarnaar wordt verwezen in [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=4&artikel=122&z=2026-01-01&g=2026-01-01). Deze aangewezen vertegenwoordigers hebben het recht om, namens de Adviescommissie de vergaderingen van het Congres, de Raad van Bestuur, de Postraad en hun respectieve commissies, Permanente Groepen, Taskforces en andere organen als waarnemer zonder stemrecht bij te wonen, met inachtneming van de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=109&z=2026-01-01&g=2026-01-01) en [115](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=3&artikel=115&z=2026-01-01&g=2026-01-01) en het Reglement van Orde van het Congres voor zover dit voor het desbetreffende orgaan relevant is.
+- 1.3. Considers issues affecting the postal sector and provides input on such issues in the form of proposals, opinions and reports to the Council of Administration and Postal Operations Council, and their respective bodies, as appropriate.
 
-3. De Voorzitter van de Raad van Bestuur en de Voorzitter van de Postraad vertegenwoordigen deze organen bij de vergaderingen van de Adviescommissie wanneer op de agenda van deze vergaderingen punten staan die voor deze organen van belang zijn.
+- 1.4. Submits proposals and reports to Congress, subject to the approval of the Council of Administration and in the name of the latter and, when matters of interest to the Postal Operations Council are involved, subject to examination and comments by the Postal Operations Council in accordance with [articles 107.1.21](https://wetten.overheid.nl/BWBV0006293) and [113.1.7](https://wetten.overheid.nl/BWBV0006293).
 
-##### Artikel 125. Waarnemers bij de Adviescommissie
+##### Article 123. Organization of the CC
 
-1. Lidstaten van de Unie, waarnemers en de ad-hocwaarnemers bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=1&artikel=105&z=2026-01-01&g=2026-01-01) kunnen zonder stemrecht deelnemen aan de zittingen van de Adviescommissie.
+1. The Consultative Committee shall reorganize itself after each Congress in accordance with the framework established by the Council of Administration. The Chair of the Council of Administration shall preside at the organizational meeting of the Consultative Committee, which shall elect its Chair at that meeting.
 
-2. Vanwege logistieke redenen kan de Adviescommissie het aantal deelnemers per waarnemer en ad-hocwaarnemers beperken. Ook kan de Raad hun spreekrecht tijdens de beraadslagingen beperken.
+2. The Consultative Committee shall determine its internal organization and shall draw up its own rules of procedure, taking into account the general principles of the Union and subject to the concurrence of the Council of Administration after having consulted the Postal Operations Council.
 
-3. Onder uitzonderlijke omstandigheden kunnen de waarnemers en ad-hocwaarnemers worden uitgesloten van een vergadering of een deel van een vergadering van de Adviescommissie. Ook kan hun recht op het ontvangen van bepaalde documenten worden beperkt indien de vertrouwelijkheid van het onderwerp van de vergadering of van het document dat vereist. Het besluit betreffende een dergelijke beperking kan per geval door de Adviescommissie of de Voorzitter ervan, in overleg met de Voorzitter van de Raad van Bestuur en de Secretaris-Generaal worden genomen. De verschillende gevallen worden aan de Raad van Bestuur bekendgemaakt, en aan de Postraad indien het om vraagstukken gaat die een bijzonder belang voor dit orgaan inhouden. Vervolgens kan de Raad van Bestuur, indien hij zulks nodig acht, de beperkingen, indien opportuun in overleg met de Postraad, opnieuw beoordelen. Uitsluitend voor toekomstige vergaderingen geldt dat kennisgevingen van beperkingen bij voorkeur ten minste veertien dagen vóór de desbetreffende vergadering aan de betrokken waarnemers en ad-hocwaarnemers worden gezonden (of zo spoedig mogelijk in het geval van spoedvergaderingen die minder dan veertien dagen na verzending van de desbetreffende uitnodiging door het Internationaal Bureau worden gehouden). Bijgevolg zijn deze kennisgevingen niet van toepassing in het geval van uitsluitingen of beperkingen van de toegang tot documenten die noodzakelijk worden geacht in het kader van een lopende vergadering van het betrokken orgaan.
+3. The Consultative Committee shall meet at least once a year or additionally as deemed appropriate for its work. The date and location of each meeting shall be fixed by the Chair of the Consultative Committee, in agreement with the Chairs of the Council of Administration and the Postal Operations Council and the Director General of the International Bureau.
 
-### HOOFDSTUK II. INTERNATIONAAL BUREAU
+##### Article 124. Representatives of the Consultative Committee at the Council of Administration, the Postal Operations Council and Congress
 
-## DEEL 1. VERKIEZING EN TAKEN VAN DE DIRECTEUR-GENERAAL EN DE PLAATSVERVANGEND DIRECTEUR-GENERAAL VAN HET INTERNATIONAAL BUREAU
+1. Without prejudice to [article 124.2](https://wetten.overheid.nl/BWBV0006293), members of the Consultative Committee have the right to attend meetings of Congress, the Council of Administration, and the Postal Operations Council, as well as their respective Committees, standing groups, task forces and other bodies, as observers without the right to vote, subject to the provisions of [articles 109](https://wetten.overheid.nl/BWBV0006293) and [115](https://wetten.overheid.nl/BWBV0006293) and of the Rules of Procedure of Congresses, as relevant to the body concerned.
 
-##### Artikel 126. Informatie over de activiteiten van de Adviescommissie
+2. In order to ensure effective liaison with the bodies of the Union, the Consultative Committee shall designate representatives, who shall be the only representatives of the Consultative Committee, to formally provide, on behalf of that body, the input referred to in [article 122](https://wetten.overheid.nl/BWBV0006293). Such designated representatives shall have the right to attend, on behalf of the Consultative Committee, meetings of Congress, the Council of Administration and the Postal Operations Council, as well as their respective Committees, standing groups, task forces and other bodies, as observers without the right to vote, subject to the provisions of [articles 109](https://wetten.overheid.nl/BWBV0006293) and [115](https://wetten.overheid.nl/BWBV0006293) and of the Rules of Procedure of Congresses, as relevant to the body concerned.
 
-1. Na elke zitting brengt de Adviescommissie de Raad van Bestuur en de Postraad op de hoogte van haar activiteiten door de Voorzitters van deze organen, onder andere, een beknopt verslag te zenden van haar vergaderingen alsmede aanbevelingen en zienswijzen. De Voorzitter van de Adviescommissie of een andere aangewezen vertegenwoordiger van de Adviescommissie brengt ook verslag uit over de werkzaamheden van de Adviescommissie op elke plenaire vergadering van respectievelijk de Raad van Bestuur en de Postraad.
+3. The Chair of the Council of Administration and the Chair of the Postal Operations Council shall represent those bodies at meetings of the Consultative Committee when the agenda of such meetings contains questions of interest to those bodies.
 
-2. De Adviescommissie brengt bij de Raad van Bestuur en de Postraad een jaarlijks activiteitenverslag uit. Dit verslag is inbegrepen in de stukken van de Raad van Bestuur en de Postraad die aan de lidstaten van de Unie, aan hun aangewezen aanbieders en aan de beperkte Unies wordt verstrekt overeenkomstig [art. 111](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=111&z=2026-01-01&g=2026-01-01) en [117](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=3&artikel=117&z=2026-01-01&g=2026-01-01).
+##### Article 125. CC observers
 
-3. De Adviescommissie stelt ten behoeve van het Congres een verslag op over haar activiteiten en doet dit ten minste twee maanden voor de opening van het Congres toekomen aan de lidstaten en aan hun aangewezen aanbieders.
+1. Member countries of the Union and the observers and ad hoc observers referred to in [article 105](https://wetten.overheid.nl/BWBV0006293) may participate in the sessions of the Consultative Committee, without the right to vote.
 
-##### Artikel 127. Taken van de Directeur-Generaal
+2. For logistical reasons, the Consultative Committee may limit the number of attendees per observer and ad hoc observer participating. It may also limit their right to speak during the debates.
 
-0bis. De Directeur-Generaal is de wettelijke vertegenwoordiger van de Unie.
+3. In exceptional circumstances, observers and ad hoc observers may be excluded from a meeting or a portion of a meeting of the Consultative Committee or may have their right to receive documents restricted if the confidentiality of the subject of the meeting or document so requires. This restriction may be decided on a case-by-case basis by the Consultative Committee or its Chair, in consultation with the Chair of the Council of Administration and the Secretary General. The case-by-case situations shall be reported to the Council of Administration and to the Postal Operations Council when matters of interest to the Postal Operations Council are concerned. If it considers this necessary, the Council of Administration may subsequently review restrictions, in consultation with the Postal Operations Council where appropriate. Strictly in so far as prospective meetings are concerned, notification of restrictions shall preferably be sent to the observers and ad hoc observers concerned at least 14 days in advance of the relevant meeting (or as soon as possible in the case of urgent meetings convened less than 14 days following issuance of the relevant invitation by the International Bureau). Accordingly, such notifications shall not apply in the event of exclusions or document access restrictions deemed necessary in the context of an ongoing meeting of the body concerned.
 
-1. De Directeur-Generaal organiseert, bestuurt en leidt het Internationaal Bureau.
+### CHAPTER II. INTERNATIONAL BUREAU
 
-2. Wat betreft de indeling van functies, benoemingen en bevordering is hij bevoegd tot:
+### SECTION 1. ELECTION AND DUTIES OF THE DIRECTOR GENERAL AND DEPUTY DIRECTOR GENERAL OF THE INTERNATIONAL BUREAU
 
-- 2.1. het indelen van de functies in de rangen G 1 tot en met D 2, en tot het bevorderen van de functionarissen in deze rangen.
+##### Article 126. Information on the activities of the CC
 
-- 2.2. Voor benoemingen in de rangen P 1 tot en met D 2 dient hij de beroepsbekwaamheid in acht te nemen van de kandidaten die de nationaliteit hebben van een lidstaat of die hun beroep uitoefenen in een lidstaat, rekening houdend met een billijke geografische spreiding en taalspreiding en genderbalans. De functies in de rang D 2 moeten, met inachtneming van het doorslaggevende criterium van de doeltreffendheid van het Internationaal Bureau, zoveel mogelijk worden vervuld door kandidaten uit andere regio’s dan die waaruit de Directeur-Generaal en de Plaatsvervangend Directeur-Generaal afkomstig zijn.
+1. After each session, the Consultative Committee shall inform the Council of Administration and the Postal Operations Council of its activities by sending to the Chairs of those bodies, inter alia, a summary record of its meetings and its recommendations and views. The Chair of the Consultative Committee, or another designated representative of the Consultative Committee, shall also report on the activities of the Consultative Committee at each plenary session of the Council of Administration and the Postal Operations Council respectively.
 
-- 2.3. Bij de benoeming van een nieuwe functionaris houdt de Directeur-Generaal er tevens rekening mee dat de personen in de functies van de rangen D 2, D 1 en P 5 ingezetenen van verschillende lidstaten van de Unie moeten zijn.
+2. The Consultative Committee shall make to the Council of Administration and the Postal Operations Council an annual activity report. This report shall be included in the documentation of the Council of Administration and the Postal Operations Council provided to member countries of the Union, to their designated operators and to the Restricted Unions, in accordance with [articles 111](https://wetten.overheid.nl/BWBV0006293) and [117](https://wetten.overheid.nl/BWBV0006293).
 
-- 2.4. Bij de bevordering van een functionaris van het Internationaal Bureau in de rangen D 2, D 1 en P 5 is de Directeur-Generaal niet verplicht hetzelfde beginsel toe te passen als bij 2.3.
+3. The Consultative Committee shall make to Congress a comprehensive report on its work and send it to the member countries and their designated operators at least two months before the opening of Congress.
 
-- 2.5. De bekwaamheid die tijdens het wervingsproces wordt vastgesteld heeft prioriteit boven de eis van een billijke geografische spreiding en taalspreiding en genderbalans.
+##### Article 127. Duties of the Director General
 
-- 2.6. De Directeur-Generaal brengt de Raad van Bestuur eenmaal per jaar op de hoogte van de benoemingen en bevorderingen in de rangen P 4 tot en met D 2.
+0bis. The Director General shall be the legal representative of the Union.
 
-3. De Directeur-Generaal heeft voorts de volgende bevoegdheden:
+1. The Director General shall organize, administer and direct the International Bureau.
 
-- 3.1. het vervullen van de taken van depositaris van de Akten van de Unie en van tussenpersoon bij de procedure voor toetreding en toelating tot de Unie alsmede bij de procedure voor het verlaten ervan;
+2. Regarding the classification of posts, appointments and promotions:
 
-- 3.2. het aan alle regeringen van de lidstaten kennisgeven van de besluiten van het Congres;
+- 2.1 the Director General shall be empowered to classify posts in grades G 1 to D 2 and to appoint and promote officials in those grades;
 
-- 3.3. het aan alle lidstaten en hun aangewezen aanbieders kennisgeven van de door de Postraad vastgestelde of herziene Regelingen;
+- 2.2 for appointments in grades P 1 to D 2, the Director General shall consider the professional qualifications of the candidates who are nationals of a member country or who exercise their professional activities in a member country, taking into account equitable geographical and language distribution, and gender balance. D 2 posts shall as far as possible be filled by candidates from different regions and from regions other than those from which the Director General and Deputy Director General originate, bearing in mind the paramount consideration of the efficiency of the International Bureau;
 
-- 3.4. het opstellen van de jaarlijkse ontwerpbegroting van de Unie op het laagst mogelijke niveau dat nog verenigbaar is met de behoeften van de Unie en deze op een gelegen tijdstip ter beoordeling voorleggen aan de Raad van Bestuur; het, na goedkeuring door de Raad van Bestuur, aan de lidstaten mededelen van de begroting en deze ten uitvoer leggen;
+- 2.3 the Director General shall also consider, for the appointment of a new official, that, in principle, persons occupying grade D 2, D 1 and P 5 posts must be nationals of different member countries of the Union;
 
-- 3.5. het uitvoeren van de specifieke door de organen van de Unie verzochte activiteiten alsmede die welke de Directeur-Generaal uit hoofde van de Akten worden toegewezen;
+- 2.4 for the promotion of an official of the International Bureau to grades D 2, D 1 and P 5, the Director General shall not be bound to apply the same principle as under 2.3;
 
-- 3.6. het nemen van initiatieven voor het verwezenlijken van de door de organen van de Unie gestelde doelen, in het kader van het vastgestelde beleid en de beschikbare financiële middelen;
+- 2.5 the requirements of equitable geographical and language distribution and gender balance shall rank behind merit in the recruitment process;
 
-- 3.7. het aan de Raad van Bestuur of aan de Postraad voorleggen van suggesties en voorstellen;
+- 2.6 the Director General shall inform the Council of Administration once a year of appointments and promotions in grades P 4 to D 2.
 
-- 3.8. het, na de afsluiting van het Congres, aan de Postraad voorleggen van voorstellen betreffende de wijzigingen die op de Regelingen moeten worden aangebracht naar aanleiding van de besluiten van het Congres, overeenkomstig het Reglement van Orde van de Postraad;
+3. Furthermore, the Director General shall have the following duties:
 
-- 3.9. het opstellen, ten behoeve van de Raad van Bestuur en op basis van de door de Raden gegeven richtlijnen, van de ontwerpstrategie van de Unie en het ontwerp voor het vierjaarlijks werkplan die aan het Congres moeten worden voorgelegd;
+- 3.1 acts as depositary of the Acts of the Union and as intermediary in the procedure of accession and admission to and withdrawal from the Union;
 
-- 3.10. het, ter goedkeuring door de Raad van Bestuur, opstellen van een vierjarig verslag over de resultaten van de lidstaten betreffende de uitvoering van de door het voorgaande Congres goedgekeurde strategie, dat aan het volgende Congres wordt voorgelegd;
+- 3.2 notifies the decisions taken by Congress to all the Governments of member countries;
 
-- 3.11. (Geschrapt.)
+- 3.3 notifies all member countries and their designated operators of the Regulations drawn up or revised by the Postal Operations Council;
 
-- 3.12. het optreden als tussenpersoon in de betrekkingen tussen:
+- 3.4 prepares the draft annual budget of the Union at the lowest possible level consistent with the requirements of the Union and submits it in due course to the Council of Administration for consideration; communicates the budget to the member countries of the Union after approval by the Council of Administration and executes it;
 
-- 3.12.1. de Unie en de beperkte Unies;
+- 3.5 executes the specific activities requested by the bodies of the Union and those assigned to the Director General by the Acts;
 
-- 3.12.2. de Unie en de Organisatie van de Verenigde Naties;
+- 3.6 takes action to achieve the objectives set by the bodies of the Union, within the framework of the established policy and the funds available;
 
-- 3.12.3. de Unie en de internationale organisaties wier activiteiten voor de Unie van belang zijn;
+- 3.7 submits suggestions and proposals to the Council of Administration or to the Postal Operations Council;
 
-- 3.12.4. de Unie en de internationale instanties, verenigingen of ondernemingen waarmee de organen van de Unie overleg wensen te plegen of die zij bij hun werkzaamheden wensen te betrekken;
+- 3.8 following the close of Congress, submits proposals to the Postal Operations Council concerning changes to the Regulations required as a result of Congress decisions, in accordance with the Rules of Procedure of the Postal Operations Council;
 
-- 3.13. het vervullen van de taak van Secretaris-Generaal van de organen van de Unie en het in die hoedanigheid, met inachtneming van de bijzondere bepalingen van dit Algemeen Reglement, toezien op:
+- 3.9 prepares, for the Council of Administration and on the basis of directives issued by the Councils, the draft Union Strategy and draft quadrennial UPU business plan to be submitted to Congress;
 
-- 3.13.1. de voorbereiding en de organisatie van de werkzaamheden van de organen van de Unie;
+- 3.10 prepares, for approval by the Council of Administration, a four-yearly report on the member countries’ performance in respect of the Union Strategy approved by the preceding Congress, which will be submitted to the following Congress;
 
-- 3.13.2. de opstelling, vervaardiging en verspreiding van stukken, rapporten en verslagen;
+- 3.11 (Deleted.)
 
-- 3.13.3. het functioneren van het secretariaat gedurende de vergaderingen van de organen van de Unie;
+- 3.12 acts as an intermediary in relations between:
 
-- 3.14. het bijwonen van zittingen van de organen van de Unie en het zonder stemrecht deelnemen aan de beraadslagingen, met de mogelijkheid zich te laten vertegenwoordigen.
+   - 3.12.1 the Union and the Restricted Unions;
 
-##### Artikel 128. Taken van de Plaatsvervangend Directeur-Generaal
+   - 3.12.2 the Union and the United Nations;
 
-1. De Plaatsvervangend Directeur-Generaal staat de Directeur-Generaal bij en is verantwoording aan hem verschuldigd.
+   - 3.12.3 the Union and the international organizations whose activities are of interest to the Union;
 
-2. In geval van afwezigheid of verhindering van de Directeur-Generaal oefent de Plaatsvervangend Directeur-Generaal zijn bevoegdheden uit. Hetzelfde geldt indien de in [artikel 126.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=II&deel=1&artikel=126&z=2026-01-01&g=2026-01-01) bedoelde functie van Directeur-Generaal vacant is.
+   - 3.12.4 the Union and the international organizations or the associations or enterprises that the bodies of the Union wish to consult or associate with their work;
 
-## DEEL 2. SECRETARIAAT VAN DE ORGANEN VAN DE UNIE EN DE ADVIESRAAD
+- 3.13 assumes the duties of Secretary General of the bodies of the Union and supervises in this capacity, taking into account the special provisions of these General Regulations, in particular:
 
-##### Artikel 129. Algemeen
+   - 3.13.1 the preparation and organization of the work of the Union’s bodies;
 
-1. Het secretariaat van de organen van de Unie en de Adviesraad wordt verzorgd door het Internationaal Bureau onder de verantwoordelijkheid van de Directeur-Generaal.
+   - 3.13.2 the preparation, production and distribution of documents, reports and minutes;
 
-##### Artikel 130. Opstellen en verspreiden van stukken van de organen van de Unie
+   - 3.13.3 the functioning of the secretariat at meetings of the Union’s bodies;
 
-1. Het Internationaal Bureau stelt alle stukken op en stelt deze via de website van de Unie beschikbaar in de in [artikel 155](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=VI&artikel=155&z=2026-01-01&g=2026-01-01) genoemde taalversies, in overeenstemming met het Reglement van Orde van de Raad van Bestuur en de Postraad. Het Internationaal Bureau wijst door middel van een efficiënt online signaleringssysteem, met name de vertegenwoordigers van de lidstaten, tevens op nieuwe elektronische publicaties op de website van de Unie.
+- 3.14 attends the meetings of the bodies of the Union and takes part in the discussions without the right to vote, with the possibility of being represented.
 
-2. Uitsluitend op verzoek van een afzonderlijke lidstaat verspreidt het Internationaal Bureau daarnaast fysieke publicaties van de Unie, zoals circulaires van het Internationaal Bureau en beknopte verslagen van de Raad van Bestuur en de Postraad.
+##### Article 128. Duties of the Deputy Director General
 
-##### Artikel 131. Lijst van lidstaten ([Const. 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=2))
+1. The Deputy Director General shall assist the Director General and shall be responsible to him.
 
-1. Het Internationaal Bureau stelt een lijst van lidstaten van de Unie op en houdt deze bij; hierin wordt hun contributieklasse vermeld, hun geografische groep en hun positie ten aanzien van de Akten van de Unie.
+2. If the Director General is absent or prevented from discharging his duties, the Deputy Director General shall exercise his functions. The same shall apply in the case of a vacancy in the post of Director General as mentioned in [article 126.3](https://wetten.overheid.nl/BWBV0006293).
 
-##### Artikel 132. Informatie. Zienswijzen. Verzoeken om uitlegging en wijziging van de Akten. Inlichtingen. Rol bij de vereffening
+### SECTION 2. SECRETARIAT OF THE UNION BODIES AND THE CONSULTATIVE COMMITTEE
 
-1. Het Internationaal Bureau houdt zich te allen tijde ter beschikking van de Raad van Bestuur, van de Postraad, van de lidstaten en van hun aangewezen aanbieders voor het verstrekken van alle nuttige inlichtingen inzake vraagstukken die met de dienst verband houden.
+##### Article 129. General remarks
 
-2. Het Internationaal Bureau is in het bijzonder belast met het bijeenbrengen, coördineren, publiceren en verspreiden van inlichtingen van uiteenlopende aard die van belang zijn voor de postale dienst; het op verzoek van de betrokken partijen uitbrengen van een zienswijze of bieden van geschillenbeslechting (in dat laatste geval tegen betaling en in overeenstemming met de relevante procedures die zijn aangenomen door de Raad van Bestuur) over geschillen; het gevolg geven aan verzoeken om uitlegging en wijziging van de Akten van de Unie en, in het algemeen, het verrichten van studies en redactionele of documentaire werkzaamheden die de genoemde Akten aan hem toekennen of die hem in het belang van de Unie worden opgedragen.
+1. The secretariat of the Union’s bodies and the Consultative Committee shall be provided by the International Bureau under the responsibility of the Director General.
 
-3. Het Internationaal Bureau verricht eveneens de onderzoeken waarom door de lidstaten en door de door hun aangewezen aanbieders wordt verzocht teneinde de zienswijze van de andere lidstaten en van hun aangewezen aanbieders met betrekking tot een bepaald vraagstuk te vernemen. De uitkomst van een onderzoek heeft niet het karakter van een stemming en is niet formeel bindend.
+##### Article 130. Preparation and distribution of documents of the Union bodies
 
-4. Het Internationaal Bureau kan in de hoedanigheid van clearing office optreden bij de vereffening van rekeningen van uiteenlopende aard die betrekking hebben op de postale dienst.
+1. The International Bureau shall prepare and make available through the Union website all the documents published, in the language versions specified in [article 155](https://wetten.overheid.nl/BWBV0006293), in accordance with the Rules of Procedure of the Council of Administration and Postal Operations Council. The International Bureau shall also indicate, to the representatives of member countries in particular, new e-document publications on the Union website by means of an efficient web-signalling system.
 
-5. Het Internationaal Bureau waarborgt de vertrouwelijkheid en veiligheid van de commerciële gegevens die lidstaten en/of hun aangewezen aanbieders verstrekken voor het uitvoeren van zijn taken die voortvloeien uit de Akten of besluiten van de Unie.
+2. Furthermore, the International Bureau shall physically distribute Union publications, such as International Bureau circulars and CA and POC Summary Records, only at the request of an individual member country.
 
-##### Artikel 133. Informatie. Zienswijzen. Verzoeken om uitlegging en wijziging van de Akten. Inlichtingen. Rol bij de vereffening
+##### Article 131. List of member countries (Const. 2)
 
-1. Het Internationaal Bureau houdt zich te allen tijde ter beschikking van de Raad van Bestuur, van de Postraad, van de Adviescommissie, van de lidstaten en van hun aangewezen aanbieders voor het verstrekken van alle nuttige inlichtingen inzake vraagstukken die met de dienst verband houden.
+1. The International Bureau shall prepare and keep up to date the list of member countries of the Union showing therein their contribution class, their geographical group and their position with respect to the Acts of the Union.
 
-2. Het Internationaal Bureau is in het bijzonder belast met het bijeenbrengen, coördineren, publiceren en verspreiden van inlichtingen van uiteenlopende aard die van belang zijn voor de postale dienst; het op verzoek van de betrokken partijen uitbrengen van een zienswijze of bieden van geschillenbeslechting (in dat laatste geval tegen betaling en in overeenstemming met de relevante procedures die zijn aangenomen door de Raad van Bestuur) over geschillen; het gevolg geven aan verzoeken om uitlegging en wijziging van de Akten van de Unie en, in het algemeen, het verrichten van studies en redactionele of documentaire werkzaamheden die de genoemde Akten aan hem toekennen of die hem in het belang van de Unie worden opgedragen.
+##### Article 132. Information. Opinions. Requests for explanation and amendment of the Acts. Inquiries. Role in the settlement of accounts
 
-3. Het Internationaal Bureau verricht eveneens de onderzoeken waarom door de lidstaten en door de door hun aangewezen aanbieders wordt verzocht teneinde de zienswijze van de andere lidstaten en van hun aangewezen aanbieders, de leden van de Adviescommissie en het publiek, in voorkomend geval, met betrekking tot een bepaald vraagstuk te vernemen. De uitkomst van deze onderzoeken heeft niet het karakter van een stemming en is niet formeel bindend.
+1. The International Bureau shall be at all times at the disposal of the Council of Administration, the Postal Operations Council and member countries and their designated operators for the purpose of supplying them with any necessary information on questions relating to the service.
 
-4. Het Internationaal Bureau kan in de hoedanigheid van clearing office optreden bij de vereffening van rekeningen van uiteenlopende aard die betrekking hebben op de postale dienst.
+2. In particular it shall collect, collate, publish and distribute all kinds of information of interest to the postal service; give an opinion or provide dispute settlement services (in the latter case on a paid basis and in accordance with the relevant procedures adopted by the Council of Administration), at the request of the parties involved, on questions in dispute; act on requests for explanation and amendment of the Acts of the Union; and, in general, carry out such studies and editorial or documentary work as are assigned to it by those Acts or as may be referred to it in the interest of the Union.
 
-5. Het Internationaal Bureau waarborgt de vertrouwelijkheid en veiligheid van de commerciële gegevens die lidstaten, hun aangewezen aanbieders en/of de leden van de Adviescommissie verstrekken voor het uitvoeren van zijn taken die voortvloeien uit de Akten of besluiten van de Unie.
+3. It shall also conduct inquiries requested by member countries and their designated operators to obtain the views of other member countries and designated operators on a particular question. The result of an inquiry shall not have the status of a vote and shall not be formally binding.
 
-##### Artikel 134. Door het Internationaal Bureau verstrekte formulieren ([Const. 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=20))
+4. It may act as a clearing house in the settlement of accounts of all kinds relating to the postal service.
 
-1. Het Internationaal Bureau is belast met het doen vervaardigen van internationale antwoordcoupons en met de verstrekking tegen kostprijs hiervan aan de lidstaten of hun aangewezen aanbieders die daarom verzoeken.
+5. The International Bureau shall ensure the confidentiality and security of commercial data provided by member countries and/or their designated operators for the performance of its duties arising from the Acts or decisions of the Union.
 
-##### Artikel 135. Akten van de beperkte Unies en bijzondere verdragen ([Const. 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=8))
+##### Article 133. Information. Opinions. Requests for explanation and amendment of the Acts. Inquiries. Role in the settlement of accounts
 
-1. Twee exemplaren van de Akten van de beperkte Unies en van de ingevolge [artikel 8 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=8) gesloten bijzondere verdragen moeten door de Bureaus van deze Unies of, bij gebreke daarvan, door een van de verdragsluitende partijen aan het Internationaal Bureau worden gezonden.
+1. The International Bureau shall be at all times at the disposal of the Council of Administration, the Postal Operations Council, the Consultative Committee and member countries and their designated operators for the purpose of supplying them with any necessary information on questions relating to the service.
 
-2. Het Internationaal Bureau ziet erop toe dat de Akten van de beperkte Unies en de bijzondere verdragen niet voorzien in minder gunstige voorwaarden voor het publiek dan die welke in de Akten van de Unie zijn voorzien.
+2. In particular it shall collect, collate, publish and distribute all kinds of information of interest to the postal service; give an opinion or provide dispute settlement services (in the latter case on a paid basis and in accordance with the relevant procedures adopted by the Council of Administration), at the request of the parties involved, on questions in dispute; act on requests for explanation and amendment of the Acts of the Union; and, in general, carry out such studies and editorial or documentary work as are assigned to it by those Acts or as may be referred to it in the interest of the Union.
 
-Het Internationaal Bureau meldt elke uit hoofde van deze bepaling vastgestelde onregelmatigheid aan de Raad van Bestuur.
+3. It shall also conduct inquiries requested by member countries and their designated operators to obtain the views of other member countries, designated operators, members of the Consultative Committee and the public, as appropriate, on particular questions. The result of such inquiries shall not have the status of a vote and shall not be formally binding.
 
-3. Het Internationaal Bureau brengt de lidstaten en hun aangewezen aanbieders op de hoogte van het bestaan van bovengenoemde Unies en verdragen.
+4. It may act as a clearing house in the settlement of accounts of all kinds relating to the postal service.
 
-##### Artikel 136. Periodiek van de Unie
+5. The International Bureau shall ensure the confidentiality and security of commercial data provided by member countries, their designated operators and/or members of the Consultative Committee for the performance of its duties arising from the Acts or decisions of the Union.
 
-1. Het Internationaal Bureau publiceert met behulp van de hem ter beschikking gestelde stukken een periodiek in de Duitse, Engelse, Arabische, Chinese, Spaanse, Franse en Russische taal.
+##### Article 134. Forms supplied by the International Bureau (Const. 20)
 
-##### Artikel 137. Jaarlijks verslag van de activiteiten van de Unie ([Const. 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=20), [Alg. Regl.107.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=107&z=2026-01-01&g=2026-01-01); 24)
+1. The International Bureau shall be responsible for arranging the manufacture of international reply coupons and for supplying them, at cost, to member countries or their designated operators ordering them.
 
-1. Het Internationaal Bureau stelt een jaarlijks verslag op van de activiteiten van de Unie en doet dit, na goedkeuring door de Commissie van Beheer van de Raad van Bestuur, toekomen aan de lidstaten en/of hun aangewezen aanbieders, aan de beperkte Unies en aan de Organisatie van de Verenigde Naties.
+##### Article 135. Acts of Restricted Unions and Special Agreements (Const. 8)
 
-### HOOFDSTUK III. INDIENING, BEHANDELING VAN VOORSTELLEN, KENNISGEVING VAN BESLUITEN EN INWERKINGTREDING VAN DE REGELINGEN EN ANDERE BESLUITEN
+1. Two copies of the Acts of Restricted Unions and of Special Agreements concluded under [article 8 of the Constitution](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=8) shall be sent to the International Bureau by the offices of such Unions, or failing that, by one of the contracting parties.
 
-##### Artikel 138. Procedure voor de indiening van voorstellen bij het Congres
+2. The International Bureau shall see that the Acts of Restricted Unions and Special Agreements do not include conditions less favourable to the public than those which are provided for in the Acts of the Union. It shall notify the Council of Administration of any irregularity discovered through applying this provision.
 
-1. Onder voorbehoud van de uitzonderingen bedoeld onder 2 en 5 wordt de indiening bij het Congres van voorstellen van ongeacht welke aard door de lidstaten geregeld door de volgende procedure:
+3. The International Bureau shall inform member countries and their designated operators of the existence of the Restricted Unions and the Special Agreements mentioned above.
 
-- 1.1. geaccepteerd worden voorstellen die ten minste vier maanden vóór de voor het Congres vastgestelde datum door het Internationaal Bureau worden ontvangen;
+##### Article 136. Union periodical
 
-- 1.2. gedurende het tijdvak van vier maanden voorafgaand aan de voor het Congres vastgestelde datum mogen geen voorstellen van redactionele aard worden ingediend;
+1. The International Bureau shall publish, with the aid of the documents made available to it, a periodical in Arabic, Chinese, English, French, German, Russian and Spanish.
 
-- 1.3. inhoudelijke voorstellen die door het Internationaal Bureau worden ontvangen in de periode tussen vier en drie maanden vóór de voor het Congres vastgestelde datum worden uitsluitend geaccepteerd indien deze worden ondersteund door ten minste twee lidstaten;
+##### Article 137. Annual report on the work of the Union (Const. 20; Gen. Regs 107.1.24)
 
-- 1.4. inhoudelijke voorstellen die door het Internationaal Bureau worden ontvangen in de periode tussen drie en twee maanden vóór de voor het Congres vastgestelde datum worden uitsluitend geaccepteerd indien deze worden ondersteund door ten minste acht lidstaten; de voorstellen die daarna worden ontvangen, worden niet meer geaccepteerd;
+1. The International Bureau shall make an annual report on the work of the Union, which shall be sent, after approval by the Management Committee of the Council of Administration, to member countries and/or designated operators, the Restricted Unions and the United Nations.
 
-- 1.5. de adhesiebetuigingen moeten door het Internationaal Bureau binnen dezelfde termijn worden ontvangen als de voorstellen waarop deze betrekking hebben.
+### CHAPTER III. SUBMISSION, CONSIDERATION OF PROPOSALS, NOTIFICATION OF DECISIONS ADOPTED AND ENTRY INTO FORCE OF THE REGULATIONS AND OTHER DECISIONS ADOPTED
 
-2. Voorstellen betreffende de [Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459) of het Algemeen Reglement moeten ten minste vier maanden vóór de opening van het Congres door het Internationaal Bureau worden ontvangen; voorstellen die na die datum maar vóór de opening worden ontvangen, kunnen slechts in aanmerking worden genomen indien het Congres daartoe met een meerderheid van twee derde van de bij het Congres vertegenwoordigde landen beslist en indien aan de onder 1 bedoelde voorwaarden wordt voldaan.
+##### Article 138. Procedure for submitting proposals to Congress
 
-3. Elk voorstel mag in beginsel slechts één doel hebben en uitsluitend wijzigingen bevatten die door dat doel worden gerechtvaardigd. Elk voorstel dat aanzienlijke uitgaven voor de Unie met zich meebrengt, moet vergezeld zijn van een door de desbetreffende lidstaat, in overleg met het Internationaal Bureau, opgestelde staat van de financiële consequenties, teneinde vast te stellen welke financiële middelen benodigd zijn voor de uitvoering ervan.
+1. Subject to the exceptions provided for in paragraphs 2 and 5, the following procedures shall govern the submission of proposals of all kinds to Congress by member countries:
 
-4. De voorstellen van redactionele aard worden door de lidstaten die deze indienen bovenaan voorzien van de vermelding „Voorstel van redactionele aard” en door het Internationaal Bureau gepubliceerd onder een nummer, gevolgd door de letter R. De voorstellen die niet van deze vermelding zijn voorzien, maar die naar het oordeel van het Internationaal Bureau van louter redactionele aard zijn, worden gepubliceerd met een passende annotatie; het Internationaal Bureau stelt ten behoeve van het Congres een lijst van deze voorstellen op.
+- 1.1 proposals which reach the International Bureau at least four months before the date fixed for Congress shall be accepted;
 
-5. De onder 1 en 4 voorgeschreven procedure is noch van toepassing op voorstellen betreffende het Reglement van Orde van de Congressen, noch op voorstellen ingediend door de Raad van Bestuur of de Postraad.
+- 1.2 no drafting proposal shall be accepted during the period of four months preceding the date fixed for Congress;
 
-##### Artikel 139. Procedure voor de indiening van voorstellen tot wijziging van het Verdrag of de overeenkomsten tussen twee Congressen
+- 1.3 proposals of substance which reach the International Bureau in the interval between four and three months before the date fixed for Congress shall not be accepted unless they are supported by at least two member countries;
 
-1. Om in aanmerking te worden genomen moet elk voorstel betreffende het Verdrag of de overige verdragen dat door een lidstaat tussen twee Congressen in wordt ingediend, worden gesteund door ten minste twee andere lidstaten. Aan deze voorstellen wordt geen gevolg gegeven indien het Internationaal Bureau niet tegelijkertijd de benodigde adhesiebetuigingen ontvangt.
+- 1.4 proposals of substance which reach the International Bureau in the interval between three and two months before the date fixed for Congress shall not be accepted unless they are supported by at least eight member countries; proposals which arrive after that time shall no longer be accepted;
 
-2. Deze voorstellen worden door tussenkomst van het Internationaal Bureau aan de andere lidstaten gericht.
+- 1.5 declarations of support must reach the International Bureau within the same period of time as the proposal to which they refer.
 
-##### Artikel 140. Bestudering van voorstellen tot wijziging van het Verdrag of de overige verdragen tussen twee Congressen
+2. Proposals concerning the Constitution or the General Regulations shall reach the International Bureau not later than four months before the opening of Congress; any received after that date but before the opening of Congress shall not be considered unless Congress so decides by a majority of two thirds of the member countries represented at Congress and unless the conditions laid down in paragraph 1 are fulfilled.
 
-1. Elk voorstel betreffende het [Verdrag](onbekend), de overige verdragen en hun Slotprotocollen is onderworpen aan de volgende procedure: wanneer een lidstaat een voorstel aan het Internationaal Bureau heeft gezonden, zendt dit Bureau het voorstel aan alle lidstaten ter beoordeling toe. De lidstaten beschikken over een termijn van 45 dagen om het voorstel te beoordelen en, in voorkomend geval, hun opmerkingen aan het Internationaal Bureau te doen toekomen. Wijzigingen zijn niet toegestaan. Aan het einde van deze termijn van 45 dagen zendt het Internationaal Bureau de lidstaten alle opmerkingen toe die het heeft ontvangen en verzoekt het elke lidstaat met stemrecht voor of tegen het voorstel te stemmen. De lidstaten waarvan de stem niet binnen een termijn van 45 dagen door het Internationaal Bureau is ontvangen, worden geacht zich van stemming te hebben onthouden. De eerder genoemde termijn gaat in op de datum van de circulaires van het Internationaal Bureau. Eventuele documentatie en opmerkingen die uit de bovengenoemde procedure voortvloeien worden fysiek of met veilige elektronische middelen ingediend en, in het geval van indieningen van lidstaten bij het Internationaal Bureau, ondertekend door een naar behoren gemachtigde vertegenwoordiger van de overheidsautoriteit van de betreffende lidstaat. Voor de toepassing van dit lid worden met „veilige elektronische middelen” alle elektronische middelen bedoeld die worden gebruikt voor het verwerken, opslaan en verzenden van gegevens die waarborgen dat de volledigheid, integriteit en vertrouwelijkheid van dergelijke gegevens gehandhaafd blijven bij het indienen van bovenvermelde documentatie en opmerkingen door het Internationaal Bureau of een lidstaat.
+3. Every proposal must, as a rule, have only one aim and contain only the changes justified by that aim. Similarly, each proposal liable to lead to significant costs for the Union shall be accompanied by an indication of its financial impact, prepared by the member country submitting the proposal, in consultation with the International Bureau, so that the financial resources needed for its implementation can be determined.
 
-2. Indien een voorstel betrekking heeft op een Overeenkomst van de Unie of het Slotprotocol ervan kunnen alleen de lidstaten die partij bij dat verdrag zijn deelnemen aan de onder 1 bedoelde handelingen.
+4. Drafting proposals shall be headed “Drafting proposal” by the member countries which submit them and shall be published by the International Bureau under a number followed by the letter R. Proposals which do not bear this indication but which, in the opinion of the International Bureau, deal only with drafting points shall be published with an appropriate annotation; the International Bureau shall draw up a list of these proposals for Congress.
 
-##### Artikel 141. Procedure voor de indiening bij de Postraad van voorstellen betreffende de opstelling van nieuwe Regelingen, met inachtneming van de door het Congres genomen besluiten
+5. The procedure prescribed in paragraphs 1 and 4 shall apply neither to proposals concerning the Rules of Procedure of Congresses, nor to proposals submitted by the Council of Administration or the Postal Operations Council.
 
-Vervallen
+##### Article 138bis. Procedure for amending proposals submitted in accordance with article 138
 
-##### Artikel 142. Wijziging van de Regelingen door de Postraad
+1. Amendments to proposals already made, including those submitted by the Council of Administration or the Postal Operations Council, may be presented to the International Bureau in accordance with the provisions of the Rules of Procedure of Congresses.
 
-1. De voorstellen tot wijziging van de Regelingen worden behandeld door de Postraad.
+2. (Deleted.)
 
-2. Voor het indienen van een voorstel tot wijziging van de Regelingen is de steun van ten minste één lidstaat vereist.
+##### Article 139. Procedure for submitting proposals amending the Convention or the Agreements between Congresses
 
-3. (Vervallen)
+1. To be eligible for consideration, every proposal concerning the Convention or the Agreements submitted by a member country between Congresses shall be supported by at least two other member countries. Such proposals shall lapse if the International Bureau does not receive, at the same time, the necessary number of declarations of support.
 
-##### Artikel 143. Kennisgeving van tussen twee Congressen genomen besluiten ([Const. 29](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=29), [Alg. Regl. 139](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=139&z=2026-01-01&g=2026-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=140&z=2026-01-01&g=2026-01-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=142&z=2026-01-01&g=2026-01-01))
+2. These proposals shall be sent to other member countries through the intermediary of the International Bureau.
 
-1. De in het Verdrag, de overige verdragen en de Slotprotocollen bij deze Akten aangebrachte wijzigingen worden bevestigd door middel van een kennisgeving van de Directeur-Generaal van het Internationaal Bureau aan de regeringen van de lidstaten.
+##### Article 140. Consideration of proposals amending the Convention or the Agreements between Congresses
 
-2. Van de door de Postraad in de Regelingen en de Slotprotocollen daarvan aangebrachte wijzigingen geeft het Internationaal Bureau kennis aan de lidstaten en aan hun aangewezen aanbieders. Hetzelfde geldt voor de in artikel 36.3.2 van het Verdrag en in de overeenkomstige bepalingen van de overige verdragen bedoelde uitleggingen.
+1. Every proposal concerning the Convention, the Agreements and their Final Protocols shall be subject to the following procedure: where a member country has sent a proposal to the International Bureau, the latter shall forward it to all member countries for examination. They shall be allowed a period of 45 days in which to examine the proposal and forward any observations to the International Bureau. Amendments shall not be admissible. Once these 45 days have elapsed, the International Bureau shall forward to member countries all the observations it has received and invite each member country to vote for or against the proposal. Member countries whose votes have not been received by the International Bureau within a period of 45 days shall be considered as having abstained. The aforementioned periods shall be reckoned from the dates of the International Bureau circulars. Any documentation and observations arising from the aforementioned procedure shall be submitted by physical or secure electronic means and, in the case of member country submissions to the International Bureau, be signed by a duly authorized representative of the governmental authority of the member country concerned. For the purposes of this paragraph, “secure electronic means” shall refer to any electronic means used for the processing, storage and transmission of data that ensure that the completeness, integrity and confidentiality of the data are maintained during the submission of the aforementioned documentation and observations by the International Bureau or a member country.
 
-##### Artikel 144. Inwerkingtreding van de Regelingen en van andere tussen twee Congressen genomen besluiten
+2. If the proposal relates to an Agreement of the Union or its Final Protocol, only the member countries which are parties to that Agreement may take part in the procedure described in paragraph 1.
 
-1. De Regelingen en alle wijzigingen daarvan treden in werking op de daarin vermelde datum zoals bepaald door de Postraad, en blijven voor onbepaalde tijd van kracht.
+##### Article 141. Procedure for submitting proposals to the Postal Operations Council concerning the preparation of new Regulations in the light of decisions taken by Congress
 
-2. Onder voorbehoud van het bepaalde onder 1 zijn de tussen twee Congressen aangenomen besluiten tot wijziging van de Akten van de Unie eerst uitvoerbaar na ten minste drie maanden na kennisgeving hiervan.
+*Vervallen*
 
-### HOOFDSTUK IV. FINANCIËN
+##### Article 142. Amendment of the Regulations by the Postal Operations Council
 
-##### Artikel 145. Vaststelling en regeling van de uitgaven van de Unie
+1. Proposals for amending the Regulations shall be dealt with by the Postal Operations Council.
 
-1. Onder voorbehoud van de bepalingen onder 2 tot en met 6 mogen de jaarlijkse uitgaven die verband houden met de activiteiten van de organen van de Unie de limiet van 38.890.030 Zwitserse frank voor de jaren 2022 tot en met 2025 niet te boven gaan. Dit plafond is eveneens van toepassing op de jaren na 2025 indien het voor 2025 geplande Congres wordt uitgesteld
+2. The support of at least one member country shall be required for submitting any proposal to amend the Regulations.
 
-2. De uitgaven die verband houden met de vergadering van het volgende Congres (verplaatsing van het secretariaat, vervoerskosten, kosten voor de technische installatie voor simultaan tolken, kosten voor het kopiëren van stukken gedurende het Congres, enzovoort) mogen de limiet van 2.900.000 Zwitserse frank niet te boven gaan.
+3. (Deleted.)
 
-3. De Raad van Bestuur is bevoegd de onder 1 en 2 bedoelde limieten te overschrijden bij de verrekening van de verhoging van salarisschalen, contributies voor pensioenen of vergoedingen, met inbegrip van functievergoedingen, die door de Verenigde Naties worden toegestaan voor toepassing op hun personeel dat in Genève werkzaam is.
+##### Article 143. Notification of decisions adopted between Congresses (Const. 29; Gen. Regs 139, 140, 142)
 
-4. De Raad van Bestuur is tevens bevoegd jaarlijks het bedrag van de uitgaven anders dan die welke betrekking hebben op het in dienst zijnde personeel aan te passen aan de hand van het Zwitserse prijsindexcijfer voor consumptiegoederen.
+1. Amendments made to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0006291), the Agreements and the Final Protocols to those Acts shall be sanctioned by notification thereof to the Governments of member countries by the Director General of the International Bureau.
 
-5. In afwijking van de bepalingen onder 1 kan de Raad van Bestuur of, in geval van zeer spoedeisende aangelegenheden, de Directeur-Generaal een overschrijding van de vastgestelde limieten toestaan voor belangrijke en onvoorziene reparaties aan het gebouw van het Internationaal Bureau, waarbij de overschrijding evenwel niet meer kan bedragen dan 125.000 Zwitserse frank per jaar.
+2. Amendments made to the Regulations and their Final Protocols by the Postal Operations Council shall be communicated to member countries and their designated operators by the International Bureau. The same shall apply to the interpretations referred to in [article 38.3.2 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0006291&artikel=38) and in the corresponding provisions of the Agreements.
 
-6. Indien de onder 1 en 2 bedoelde kredieten ontoereikend blijken om het goed functioneren van de Unie te waarborgen, kunnen deze limieten slechts worden overschreden met de goedkeuring van de meerderheid van de lidstaten van de Unie. Elk overleg moet een volledige uiteenzetting bevatten van de feiten die een dergelijk verzoek rechtvaardigen.
+##### Article 144. Entry into force of the Regulations and of the other decisions adopted between Congresses
 
-##### Artikel 146. Vaststelling van de uitgaven van de Unie
+1. The Regulations and any amendments thereto shall enter into force on the date specified therein as decided by the Postal Operations Council, and shall remain in force for an indefinite period.
 
-1. Onder voorbehoud van de bepalingen onder 2 tot en met 6 mogen de jaarlijkse uitgaven die verband houden met de activiteiten van de organen van de Unie de limiet van 38.890.030 Zwitserse frank voor de jaren 2022 en 2023 en 39.512.270 Zwitserse frank voor de jaren 2024 en 2025 niet te boven gaan. Dit plafond is eveneens van toepassing op de jaren na 2025 indien het voor 2025 geplande Congres wordt uitgesteld.
+2. Subject to the provisions of paragraph 1, decisions on amending the Acts of the Union which are adopted between Congresses shall not take effect until at least three months after their notification.
 
-2. De uitgaven die verband houden met de vergadering van het volgende Congres (verplaatsing van het secretariaat, vervoerskosten, kosten voor de technische installatie voor simultaan tolken, kosten voor het kopiëren van stukken gedurende het Congres, enzovoort) mogen de limiet van 2.900.000 Zwitserse frank niet te boven gaan.
+### CHAPTER IV. FINANCE
 
-3. De Raad van Bestuur is bevoegd de onder 1 en 2 bedoelde limieten te overschrijden bij de verrekening van de verhoging van salarisschalen, contributies voor pensioenen of vergoedingen, met inbegrip van de functievergoedingen, die door de Verenigde Naties worden toegestaan voor toepassing op hun personeel dat in Genève werkzaam is.
+##### Article 145. Fixing of the expenditure of the Union
 
-4. De Raad van Bestuur is tevens bevoegd jaarlijks het bedrag van de uitgaven anders dan die welke betrekking hebben op het in dienst zijnde personeel aan te passen aan de hand van het Zwitserse prijsindexcijfer voor consumptiegoederen.
+1. Subject to the provisions of paragraphs 2 to 6, the annual expenditure relating to the activities of bodies of the Union may not exceed 38,890,030 Swiss francs for the years 2022 to 2025. In the event that the Congress planned for 2025 is postponed, the same ceilings shall also apply to the post-2025 period.
 
-5. In afwijking van de bepalingen onder 1 kan de Raad van Bestuur of, in geval van zeer spoedeisende aangelegenheden, de Directeur-Generaal een overschrijding van de vastgestelde limieten toestaan voor belangrijke en onvoorziene reparaties aan het gebouw van het Internationaal Bureau, waarbij de overschrijding evenwel niet meer kan bedragen dan 125 000 Zwitserse frank per jaar.
+2. The expenditure relating to the convening of the next Congress (travelling expenses of the secretariat, transport charges, cost of installing simultaneous interpretation equipment, cost of reproducing documents during the Congress, etc.) shall not exceed the limit of 2,900,000 Swiss francs.
 
-6. Indien de onder 1 en 2 bedoelde kredieten ontoereikend blijken om het goed functioneren van de Unie te waarborgen, kunnen deze limieten slechts worden overschreden met de goedkeuring van de meerderheid van de lidstaten van de Unie. Elk overleg moet een volledige uiteenzetting bevatten van de feiten die een dergelijk verzoek rechtvaardigen.
+3. The Council of Administration shall be authorized to exceed the limits laid down in paragraphs 1 and 2 to take account of increases in salary scales, pension contributions or allowances, including post adjustments, approved by the United Nations for application to its staff working in Geneva.
 
-##### Artikel 147. Financiële tekorten
+4. The Council of Administration shall also be authorized to adjust, each year, the amount of expenditure other than that relating to staff on the basis of the Swiss consumer price index.
 
-1. Teneinde de tekorten in de middelen van de Unie op te vangen, wordt een Reservefonds in het leven geroepen. Het bedrag ervan wordt vastgesteld door de Raad van Bestuur. Dit Fonds wordt in eerste instantie gecreëerd uit begrotingsoverschotten. Het Fonds kan eveneens dienen voor het sluitend maken van de begroting of het verlagen van de contributie van de lidstaten.
+5. Notwithstanding paragraph 1, the Council of Administration, or in case of extreme urgency, the Director General, may authorize the prescribed limits to be exceeded to meet the cost of major and unforeseen repairs to the International Bureau building, provided however that the amount of the increase does not exceed 125,000 Swiss francs per annum.
 
-2. Ten aanzien van tijdelijke financiële tekorten verstrekt de Regering van de Zwitserse Bondsstaat, onder de in onderlinge overeenstemming vast te stellen voorwaarden, op korte termijn de benodigde voorschotten.
+6. If the credits authorized in paragraphs 1 and 2 prove inadequate to ensure the smooth running of the Union, these limits may only be exceeded with the approval of the majority of the member countries of the Union. Any consultation shall include a complete description of the facts justifying such a request.
 
-##### Artikel 148. Toezicht op de boekhouding en verslaglegging
+##### Article 146. Fixing of the expenditure of the Union
 
-1. De regering van de Zwitserse Bondsstaat houdt kosteloos toezicht op het beheer van de financiële rekeningen alsmede op de boekhouding van het Internationaal Bureau, binnen de door het Congres vastgestelde kredietlimieten.
+1. Subject to the provisions of paragraphs 2 to 6, the annual expenditure relating to the activities of bodies of the Union may not exceed 38,890,030 Swiss francs for the years 2022 and 2023, and 39,512,270 Swiss francs for the years 2024 and 2025. In the event that the Congress planned for 2025 is postponed, the latter ceiling shall also apply to the post-2025 period
 
-##### Artikel 149. Automatische sancties
+2. The expenditure relating to the convening of the next Congress (travelling expenses of the secretariat, transport charges, cost of installing simultaneous interpretation equipment, cost of reproducing documents during the Congress, etc.) shall not exceed the limit of 2,900,000 Swiss francs.
 
-1. Elke lidstaat die de in [artikel 146.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=IV&artikel=146&z=2026-01-01&g=2026-01-01) bedoelde overdracht niet kan verrichten en weigert zich te onderwerpen aan een overeenkomstig artikel 146.4 door het Internationaal Bureau voorgestelde afbetalingsregeling, of deze regeling niet naleeft, verliest automatisch zijn stemrecht bij het Congres en bij de vergaderingen van de Raad van Bestuur en bij de Postraad, en is niet meer in deze twee Raden verkiesbaar.
+3. The Council of Administration shall be authorized to exceed the limits laid down in paragraphs 1 and 2 to take account of increases in salary scales, pension contributions or allowances, including post adjustments, approved by the United Nations for application to its staff working in Geneva.
 
-2. De automatische sancties worden ambtshalve en met onmiddellijke ingang opgeheven zodra de desbetreffende lidstaat zich, ten aanzien van de hoofdsom en de renten, volledig heeft gekweten van zijn aan de Unie verplichte achterstallige contributie, of wanneer hij met de Unie is overeengekomen zich te onderwerpen aan een aflossingsregeling voor zijn schulden.
+4. The Council of Administration shall also be authorized to adjust, each year, the amount of expenditure other than that relating to staff on the basis of the Swiss consumer price index.
 
-##### Artikel 150. Contributieklassen
+5. Notwithstanding paragraph 1, the Council of Administration, or in case of extreme urgency, the Director General, may authorize the prescribed limits to be exceeded to meet the cost of major and unforeseen repairs to the International Bureau building, provided however that the amount of the increase does not exceed 125,000 Swiss francs per annum.
 
-1. De lidstaten dragen bij aan de dekking van de uitgaven van de Unie volgens de contributieklasse waartoe zij behoren. De opbouw van de contributieklassen begint bij één eenheid en loopt op in stappen van één eenheid tot een niveau dat wordt vastgesteld onder verwijzing naar de meest recente contributieschaal voor de verdeling van de uitgaven van de Verenigde Naties. Lidstaten kiezen hun contributieklasse op basis van hun economische capaciteit en nemen de bovengenoemde contributieschaal in overweging. De lidstaten die door de Verenigde Naties worden genoemd als de minst ontwikkelde landen betalen een halve contributie-eenheid. Kleine eilandstaten in ontwikkeling met een bevolking van minder dan 200.000 (zoals vermeld door de Verenigde Naties) betalen een tiende van een contributie-eenheid.
+6. If the credits authorized in paragraphs 1 and 2 prove inadequate to ensure the smooth running of the Union, these limits may only be exceeded with the approval of the majority of the member countries of the Union. Any consultation shall include a complete description of the facts justifying such a request.
 
-2. Niettegenstaande de onder 1 bedoelde contributieklassen kan elke lidstaat ervoor kiezen meer contributie-eenheden te betalen, zulks gedurende een tijdvak dat ten minste gelijk is aan het tijdvak tussen twee Congressen. Deze wijziging wordt uiterlijk tijdens het Congres aangekondigd. Aan het einde van het tijdvak tussen twee Congressen valt de lidstaat automatisch terug op het oorspronkelijke aantal contributie-eenheden, behalve wanneer hij besluit een groter aantal contributie-eenheden te blijven betalen. Door de betaling van aanvullende contributies nemen de uitgaven navenant toe.
+##### Article 147. Shortfalls in financing
 
-3. Lidstaten kiezen het aantal eenheden op het moment van hun toelating of toetreding, en nemen daarbij de meest recente contributieschaal voor de verdeling van de uitgaven van de Verenigde Naties in overweging, in overeenstemming met de procedure zoals vervat in [artikel 21.4 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=21).
+1. A Reserve Fund shall be established with the Union to cover shortfalls in financing. Its amount shall be fixed by the Council of Administration. The Fund shall be maintained primarily from budget surpluses, and may also be used to balance the budget or reduce the amount of member countries’ contributions.
 
-4. Lidstaten die meer betalen dan op grond van de economische capaciteiten die vastgesteld zijn onder verwijzing naar de contributieschaal voor de verdeling van de uitgaven van de Verenigde Naties, hebben het recht hun aantal eenheden te verminderen met maximaal twee eenheden per Congrescyclus, mits dit niet leidt tot een lagere contributie dan zij zouden betalen ingevolge de huidige contributieschaal voor de verdeling van de uitgaven van de Verenigde Naties. De kosten van een dergelijke vermindering wordt op basis van solidariteit gedragen door alle lidstaten in overeenstemming met de procedure vervat in [artikel 21.3 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=21). Lidstaten die betalen op een niveau dat lager ligt dan hun economische capaciteit, zoals vastgesteld onder verwijzing naar de contributieschaal voor de verdeling van de uitgaven van de Verenigde Naties, worden uitgenodigd hun aantal eenheden te verhogen met minimaal twee eenheden per Congrescyclus totdat ze het niveau hebben bereikt van de huidige contributieschaal zoals hierboven bedoeld. De lidstaten die dit nalaten mogen niet profiteren van de reductie van de waarde van de contributie-eenheid die voortvloeit uit de stijging van het totale aantal contributie-eenheden.
+2. In case of temporary shortfalls in Union financing, the Government of the Swiss Confederation shall make the necessary short-term advances to the Union, on conditions fixed by mutual agreement.
 
-5. (Geschrapt.)
+##### Article 148. Supervision of book-keeping and accounting
 
-6. In uitzonderlijke gevallen zoals natuurrampen waarvoor internationale hulpprogramma’s nodig zijn, kan de Raad van Bestuur evenwel, eenmaal tussen twee Congressen in, op verzoek van een lidstaat, indien deze aantoont dat hij zijn contributie in de oorspronkelijk gekozen klasse niet kan handhaven, een tijdelijke verlaging van klasse toestaan.
+1. The Government of the Swiss Confederation shall supervise, without charge, the book-keeping and accounting of the International Bureau within the limits of the credits fixed by Congress.
 
-7. Bij de toepassing van het bepaalde onder 6 kan de tijdelijke verlaging door de Raad van Bestuur worden toegestaan voor een maximumtermijn van twee jaar of tot het volgende Congres, indien dit eerder plaatsvindt. Na het verstrijken van de vastgestelde termijn wordt het betrokken land automatisch in zijn oorspronkelijke klasse teruggeplaatst.
+##### Article 149. Automatic sanctions
 
-8. Verplaatsingen naar een hogere klasse zijn niet aan beperkingen onderworpen.
+1. Any member country unable to make the assignment provided for in [article 146.3](https://wetten.overheid.nl/BWBV0006293) and which does not agree to submit to an amortization schedule proposed by the International Bureau in accordance with article 146.4, or which does not comply with such a schedule shall automatically lose its right to vote at Congress and at meetings of the Council of Administration and the Postal Operations Council and shall no longer be eligible for membership of these two Councils.
 
-##### Artikel 151. Betaling van benodigdheden die door het Internationaal Bureau worden geleverd ([Alg. Regl. 134](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=II&deel=2&artikel=134&z=2026-01-01&g=2026-01-01))
+2. Automatic sanctions shall be lifted as a matter of course and with immediate effect as soon as the member country concerned has paid its arrears of mandatory contributions owed to the Union, in capital and interest, or has agreed with the Union to submit to a schedule for the amortization of the arrears.
 
-1. De benodigdheden die tegen betaling door het Internationaal Bureau aan de lidstaten en aan hun aangewezen aanbieders worden geleverd, moeten zo snel mogelijk worden betaald, doch uiterlijk binnen zes maanden, te rekenen vanaf de eerste dag van de maand volgend op die waarin het Internationaal Bureau de rekening heeft verzonden. Na deze termijn dragen de verschuldigde bedragen rente ten behoeve van de Unie, ten belope van 5% per jaar, te rekenen vanaf het verstrijken van de genoemde termijn.
+##### Article 150. Contribution classes
 
-##### Artikel 152. Organisatie van door de gebruikers gefinancierde hulporganen
+1. Member countries shall contribute to defraying Union expenses according to the contribution class to which they belong. The structure of the contribution classes shall commence at one unit and rise in incremental one-unit steps to a level defined with reference to the most recent scale of assessments for the apportionment of the expenses of the United Nations. Member countries shall choose their contribution class on the basis of their economic capacity while considering the aforementioned scale of assessments. The member countries listed by the United Nations as the least developed countries shall pay half a contribution unit. Small island developing states with a population of less than 200,000 (as listed by the United Nations) shall pay one tenth of a contribution unit.
 
-1. Onder voorbehoud van goedkeuring door de Raad van Bestuur kan de Postraad een aantal door de gebruikers gefinancierde hulporganen instellen die op vrijwillige basis worden gefinancierd, teneinde operationele, commerciële, technische en economische activiteiten te organiseren die op grond van [artikel 18 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=18) tot zijn bevoegdheden behoren, maar die niet mogen worden gefinancierd uit de reguliere begroting.
+2. Notwithstanding the contribution classes listed in paragraph 1, any member country may elect to contribute a higher number of units, for a minimum term equivalent to the period between Congresses. The announcement of a change shall be made at the latest at Congress. At the end of the period between Congresses, the member country shall return automatically to its original number of contribution units unless it decides to maintain its contribution of a higher number of units. The payment of additional contributions will increase the expenditure accordingly.
 
-2. Bij de instelling van een dergelijk orgaan van de Postraad neemt de Postraad besluiten conform het basiskader van het Reglement van Orde van het orgaan, waarbij naar behoren rekening wordt gehouden met de elementaire regels en beginselen van de UPU als intergouvernementele organisatie en legt deze ter goedkeuring voor aan de Raad van Bestuur. Het basiskader omvat de volgende onderdelen:
+3. Member countries shall choose their number of units upon their admission or accession to the Union, while considering the most recent scale of assessments for the apportionment of the expenses of the United Nations, in accordance with the procedure laid down in article 20.4 of the Constitution.
 
-- 2.1. het mandaat;
+4. Member countries paying above the economic capacities assessed through reference to the scale of assessments for the apportionment of the expenses of the United Nations shall have the right to reduce their number of units by up to a maximum of two units per Congress cycle, provided that this does not result in a lower contribution than they would pay under the current scale of assessments for the apportionment of the expenses of the United Nations. The cost of any such reduction in the number of contribution units shall be borne by member countries in accordance with the procedures laid down in paragraph 8 below. Conversely, member countries paying at a level below their economic capacity, as assessed through reference to the scale of assessments for the apportionment of the expenses of the United Nations, shall be invited to increase their number of contribution units by at least two per Congress cycle until they have reached the level of the current scale of assessments referred to above. Those member countries that fail to do so shall not benefit from the reduced amount of the contribution unit as per the procedures laid down in paragraph 8 below.
 
-- 2.2. de samenstelling met inbegrip van de categorieën van leden die deelnemen;
+5. Nevertheless, in exceptional circumstances such as natural disasters necessitating international aid programmes, the Council of Administration may authorize a temporary reduction in contribution class once between two Congresses when so requested by a member country if the said member establishes that it can no longer maintain its contribution at the class originally chosen.
 
-- 2.3. reglement omtrent de besluitvorming, met inbegrip van de interne structuur en de relatie tot de overige organen van de UPU;
+6. The temporary reduction in contribution class in application of paragraph 5 may be authorized by the Council of Administration for a maximum period of two years or up to the next Congress, whichever is earlier. On expiry of the specified period, the country concerned shall automatically revert to its original contribution class.
 
-- 2.4. beginselen voor stemmen en vertegenwoordiging;
+7. Changes to a higher class shall not be subject to any restriction.
 
-- 2.5. financiering (inschrijving, tarieven voor gebruik, etc.);
+8. The International Bureau shall calculate the relevant baseline and reduced contribution unit amounts in accordance with the following parameters.
 
-- 2.6. samenstelling van het secretariaat en structuur van de leiding.
+- 8.1. In the event of a gross reduction1)For the purposes of this paragraph, “gross reduction” shall refer to the aggregated reduction in the number of contribution units as decided by individual member countries. in the number of contribution units, any resulting increase in the baseline (i.e. non-reduced) and reduced contribution unit amounts shall be borne in solidarity by all member countries, in proportion to the existing baseline and reduced contribution unit amounts.
 
-3. Elk door de gebruikers gefinancierd hulporgaan organiseert zijn activiteiten zelfstandig binnen het door de Postraad vastgestelde elementaire kader en onder voorbehoud van goedkeuring door de Raad van Bestuur en stelt jaarlijks een verslag op van zijn activiteiten dat dient te worden beoordeeld door de Postraad.
+- 8.2. In the event of a gross increase2)For the purposes of this paragraph, “gross increase” shall refer to the aggregated increase in the number of contribution units as decided by individual member countries. in the number of contribution units and/or subsequent member country ineligibility to benefit from the reduced contribution unit amount, any further reduction in the amount of the reduced contribution unit shall solely benefit member countries paying at or above their economic capacity, and member countries paying at a level below their economic capacity and that increase their number of contribution units by at least two per Congress cycle.
 
-4. De Raad van Bestuur stelt de regels vast voor de kosten van de ondersteuning die de door de gebruikers gefinancierde hulporganen moeten bijdragen aan de reguliere begroting en publiceert deze in het Financieel Reglement van de UPU.
+9. The procedures outlined in paragraph 8 shall not apply to any changes in the amounts of the baseline and reduced contribution units resulting from: i) the exceptional circumstances described in paragraphs 5 and 6; or ii) any adjustments in the expenditure of the Union as decided by the Council of Administration. In these cases, the cost of any such changes shall be distributed in proportion to the existing baseline and reduced contribution unit amounts and borne in solidarity by all member countries.
 
-5. De Directeur-Generaal van het Internationaal Bureau leidt het secretariaat voor de door de gebruikers gefinancierde hulporganen in overeenstemming met het relevante personeelsreglement dat van toepassing is op het personeel dat is aangesteld voor de door de gebruikers gefinancierde hulporganen. Het secretariaat van de hulporganen maakt deel uit van het Internationaal Bureau.
+##### Article 151. Payment for supplies from the International Bureau (Gen. Regs 134)
 
-6. Informatie over in overeenstemming met dit artikel ingestelde door de gebruikers gefinancierde hulporganen wordt na hun instelling verstrekt aan het Congres.
+1. Supplies provided by the International Bureau to member countries and their designated operators against payment shall be paid for in the shortest possible time and at the latest within six months from the first day of the month following that in which the account is sent by the Bureau. After that period the sums due shall be chargeable with interest in favour of the Union at the rate of 5% per annum reckoned from the date of expiry of that period.
 
-### HOOFDSTUK V. ARBITRAGE
+##### Article 152. Organization of user-funded subsidiary bodies
 
-##### Artikel 153. Arbitrageprocedure
+1. Subject to the approval of the Council of Administration, the POC may establish a number of user- funded subsidiary bodies, funded by voluntary means, in order to organize operational, commercial, technical and economic activities which fall within its competence under article 18 of the Constitution, but which may not be financed by the regular budget.
 
-1. Bij geschillen tussen lidstaten die dienen te worden geregeld door middel van arbitrage, stelt de ene lidstaat de andere schriftelijk in kennis van het voorwerp van het geschil en zijn voornemen een arbitrageprocedure in stellen.
+2. Upon the creation of such a body under the POC, the POC shall decide on the basic framework of the rules of procedure of the body, taking due consideration of the fundamental rules and principles of the UPU as an intergovernmental organization, and shall submit it to the CA for approval. The basic framework shall include the following elements:
 
-2. Indien het geschil kwesties van operationele of technische aard betreft, kan elke lidstaat zijn aangewezen aanbieder verzoeken overeenkomstig de hieronder beschreven procedure te handelen en de desbetreffende bevoegdheden delegeren aan zijn aanbieder. De betrokken lidstaten worden op de hoogte gehouden van de voortgang van de procedure en van de uitkomst. De desbetreffende lidstaten of aangewezen aanbieders worden hierna aangeduid als „partijen bij de arbitrage”.
+- 2.1 the mandate;
 
-3. De partijen bij de arbitrage benoemen hetzij één hetzij drie scheidsrechters.
+- 2.2 the constituency, including the categories of members participating;
 
-4. Indien de partijen bij de arbitrage besluiten drie scheidsrechters te benoemen, kiest elke partij in overeenstemming met het tweede lid een lidstaat of een aangewezen aanbieder die niet rechtstreeks betrokken is bij het geschil om op te treden als scheidsrechter. Wanneer verschillende lidstaten en/of aangewezen aanbieders gezamenlijk een partij bij een geschil vormen, tellen zij ten behoeve van de toepassing van deze bepalingen als één partij.
+- 2.3 decision-making rules, including its internal structure and its relationship with other Union bodies;
 
-5. Indien de partijen overeenkomen drie scheidsrechters te benoemen, benoemen de partijen gezamenlijk de derde scheidsrechter die niet van een lidstaat of aangewezen aanbieder afkomstig behoeft te zijn.
+- 2.4 voting and representation principles;
 
-6. Indien het een geschil over een van de verdragen betreft, kunnen de scheidsrechters alleen worden benoemd uit de lidstaten die aan dat verdrag deelnemen.
+- 2.5 financing (subscription, usage fees, etc.);
 
-7. De partijen bij de arbitrage kunnen gezamenlijk overeenkomen een scheidsrechter te benoemen die niet van een lidstaat of aangewezen aanbieder afkomstig behoeft te zijn.
+- 2.6 composition of secretariat and management structure.
 
-8. Indien een of beide partij bij de arbitrage verzuimt binnen een termijn van drie maanden vanaf de datum van de kennisgeving inzake het instellen van de arbitrage een of meer scheidsrechters te benoemen, verzoekt het Internationaal Bureau desgevraagd het in gebreke blijvende land een scheidsrechter te benoemen of benoemt het ambtshalve zelf een scheidsrechter. Het Internationaal Bureau wordt niet betrokken bij de beraadslagingen of treedt niet op als scheidsrechter, tenzij beide partijen daarom verzoeken. In het laatste geval treedt het Internationaal Bureau tegen betaling op als scheidsrechter, en in overeenstemming met de relevante procedures die zijn aangenomen door de Raad van Bestuur.
+3. Each user-funded subsidiary body shall organize its activities in an autonomous manner within the basic framework decided by the POC and approved by the CA, and shall prepare an annual report on its activities for consideration by the POC.
 
-9. De partijen bij de arbitrage kunnen te allen tijde voordat door de scheidsrechter of scheidsrechters uitspraak is gedaan onderling overeenkomen het geschil in der minne te schikken. De kennisgeving inzake terugtrekking van het geschil dient binnen tien dagen nadat de partijen daar overeenstemming over hebben bereikt schriftelijk te worden ingediend bij het Internationaal Bureau. Indien de partijen besluiten de arbitrageprocedure te staken, zijn de scheidsrechters niet langer bevoegd tot uitspraak over de aangelegenheid.
+4. The Council of Administration shall establish the rules concerning support costs that user-funded subsidiary bodies should contribute to the regular budget, and shall publish them in the UPU Financial Regulations.
 
-10. De scheidsrechter of scheidsrechters dienen uitspraak te doen op grond van de aangevoerde feiten en bewijzen. Beide partijen en de scheidsrechter of scheidsrechters dienen in kennis te worden gesteld van alle informatie over het geschil.
+5. The Director General of the International Bureau shall administer the secretariat of the user-funded subsidiary bodies in accordance with the relevant Staff Regulations and Rules, as applicable to the staff recruited for the user-funded subsidiary bodies. The secretariat of the subsidiary bodies shall be an integral part of the International Bureau.
 
-11. De scheidsrechter of scheidsrechters beslissen bij meerderheid van stemmen en het Internationaal Bureau en de partijen worden binnen zes maanden na de datum van de kennisgeving inzake het instellen van arbitrage in kennis gesteld van de uitspraak.
+6. Information concerning user-funded subsidiary bodies established in accordance with this article shall be reported to Congress following their establishment.
 
-12. Arbitrageprocedures zijn vertrouwelijk en binnen tien dagen na de kennisgeving van de uitspraak aan de partijen wordt het Internationaal Bureau schriftelijk in kennis gesteld van slechts een korte beschrijving van het geschil en de uitspraak.
+### CHAPTER V. ARBITRATION
 
-13. De uitspraak van de scheidsrechter of scheidsrechters is onherroepelijk en bindend voor de partijen. Er is geen beroep mogelijk.
+##### Article 153. Arbitration procedure
 
-14. De partijen bij de arbitrage gaan onverwijld over tot tenuitvoerlegging van de uitspraak van de scheidsrechter of scheidsrechters. Indien een aangewezen aanbieder door zijn lidstaat gemachtigd is een arbitrageprocedure in te stellen en zich eraan te conformeren, dient de lidstaat erop toe te zien dat de aangewezen aanbieder de uitspraak van de scheidsrechter of scheidsrechters ten uitvoer legt.
+1. If a dispute has to be settled by arbitration between member countries, each member country must advise the other party in writing of the subject of the dispute and inform it, by means of a notice to initiate arbitration, that it wishes to initiate arbitration.
 
-### HOOFDSTUK V. ARBITRAGE
+2. If the dispute concerns questions of an operational or technical nature, each member country may ask its designated operator to act in accordance with the procedure provided for in the following paragraphs and delegate such power to its operator. The member country concerned shall be informed of the progress of the proceedings and of the result. The respective member countries or designated operators shall hereafter be referred to as “parties to the arbitration”.
 
-##### Artikel 154. Werktalen van het Internationaal Bureau
+3. The parties to the arbitration shall appoint either one or three arbitrators.
 
-1. De werktalen van het Internationaal Bureau zijn het Frans en het Engels.
+4. Where the parties to the arbitration choose to appoint three arbitrators, each party shall, in accordance with paragraph 2, select a member country or designated operator not directly involved in the dispute, to act as an arbitrator. When several member countries and/or designated operators make common cause, they shall count only as a single party for the purposes of these provisions.
 
-##### Artikel 155. Talen die worden gebruikt voor verslaglegging, beraadslagingen en dienstcorrespondentie
+5. Where the parties agree to the appointment of three arbitrators, the third arbitrator shall be jointly agreed upon by the parties and shall not need to be from a member country or designated operator.
 
-1. Voor de stukken van de Unie worden de Franse, Engelse, Arabische en Spaanse taal gebruikt. Tevens worden de Duitse, Chinese, Portugese en Russische taal gebruikt, mits de productie in deze talen zich beperkt tot de belangrijkste basisstukken. Ook worden andere talen gebruikt, mits de lidstaten die daarom verzoeken alle kosten ervan dragen.
+6. If the dispute concerns one of the Agreements, the arbitrators may be appointed only from among the member countries that are parties to that Agreement.
 
-2. De lidstaat of -staten die om een andere taal dan de officiële taal hebben verzocht, vormen een taalgroep.
+7. The parties to the arbitration may jointly agree to appoint a single arbitrator, who shall not need to be from a member country or designated operator.
 
-3. De stukken worden door het Internationaal Bureau gepubliceerd in de officiële taal en in de talen van de samengestelde taalgroepen, hetzij rechtstreeks, hetzij door tussenkomst van de regionale bureaus van deze groepen, overeenkomstig de met het Internationaal Bureau overeengekomen modaliteiten. De publicatie in de verschillende talen vindt volgens hetzelfde model plaats.
+8. If one or both parties to the arbitration do not, within a period of three months from the date of the notice to initiate arbitration, appoint an arbitrator or arbitrators the International Bureau shall, if so requested, itself call upon the defaulting member country to appoint an arbitrator, or shall itself appoint one automatically. The International Bureau shall not be involved in the deliberations or act as arbitrator unless otherwise mutually requested by the parties. In the latter case, the International Bureau shall serve as an arbitrator on a paid basis and in accordance with the relevant dispute settlement procedures adopted by the Council of Administration.
 
-4. De rechtstreeks door het Internationaal Bureau gepubliceerde stukken worden, voor zover mogelijk, gelijktijdig verspreid in de verschillende talen waarom is verzocht.
+9. The parties to the arbitration may mutually agree to reconcile the dispute at any time before a ruling is delivered by the arbitrator or arbitrators. Notice of any withdrawal must be submitted in writing to the International Bureau within 10 days of the parties reaching such agreement. Where the parties agree to withdraw from the arbitration process, the arbitrator or arbitrators shall lose their authority to decide the matter.
 
-5. De correspondentie tussen de lidstaten of hun aangewezen aanbieders en het Internationaal Bureau en tussen dit Bureau en derden kan worden uitgewisseld in elke taal waarvoor het Internationaal Bureau een vertaaldienst heeft.
+10. The arbitrator or arbitrators shall be required to make a decision on the dispute based on the facts and evidence before them. All information regarding the dispute must be notified to both parties and the arbitrator or arbitrators.
 
-6. De vertaalkosten in ongeacht welke taal, met inbegrip van die welke voortvloeien uit de toepassing van het bepaalde onder 5 en [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=II&deel=2&artikel=136&z=2026-01-01&g=2026-01-01), worden gedragen door de taalgroep die om die taal heeft verzocht. De lidstaten die de officiële taal gebruiken, storten voor de vertaling van niet-officiële stukken een forfaitaire contributie waarvan het bedrag per contributie-eenheid gelijk is aan het bedrag dat wordt betaald door de landen die gebruik maken van de andere werktaal van het Internationaal Bureau. Alle overige kosten die verband houden met de verstrekking van stukken worden door de Unie gedragen. Het plafond van de door de Unie voor de levering van stukken in het Duits, Chinees, Portugees en Russisch te dragen kosten wordt vastgesteld in een resolutie van het Congres.
+11. The decision of the arbitrator or arbitrators shall be taken by a majority of votes, and notified to the International Bureau and the parties within six months of the date of the notice to initiate arbitration.
 
-7. De door een taalgroep te dragen kosten worden verdeeld over de leden van deze groep, in verhouding tot hun bijdrage aan de uitgaven van de Unie. De kosten kunnen volgens een andere verdeelsleutel over de leden van de taalgroep worden verdeeld, mits de betrokken lidstaten het hierover eens worden en het Internationaal Bureau via de woordvoerder van de groep van hun besluit in kennis stellen.
+12. The arbitration proceedings shall be confidential, and only a brief description of the dispute and the decision shall be advised in writing to the International Bureau within 10 days of the decision being delivered to the parties.
 
-8. Het Internationaal Bureau geeft na een termijn die ten hoogste twee jaar mag bedragen gevolg aan elke wijziging van de taalkeuze waarom door een lidstaat wordt verzocht.
+13. The decision of the arbitrator or arbitrators shall be final and binding on the parties and not subject to appeal.
 
-9. Voor de beraadslagingen van de organen van de Unie worden de Franse, de Engelse, de Spaanse, de Russische en de Arabische taal toegelaten, door middel van een tolksysteem – met of zonder elektronische apparatuur – waarvan de keuze wordt overgelaten aan het oordeel van de organisatoren van de vergadering, na overleg met de Directeur-Generaal van het Internationaal Bureau en met de betrokken lidstaten.
+14. The parties to the arbitration shall implement the decision of the arbitrator or arbitrators without delay. Where a designated operator is delegated power by its member country to initiate and adhere to the arbitration procedure, the member country shall be responsible for ensuring that the designated operator implements the decision of the arbitrator or arbitrators.
 
-10. Voor de onder 9 bedoelde beraadslagingen en vergaderingen worden tevens andere talen toegestaan.
+### CHAPTER VI. USE OF LANGUAGES WITHIN THE UNION
 
-11. De delegaties die andere talen gebruiken, dragen zorg voor de simultane vertolking in een van de onder 9 bedoelde talen, hetzij door middel van het in dat lid bedoelde systeem, wanneer de benodigde technische aanpassingen kunnen worden gerealiseerd, hetzij door middel van persoonlijke tolken.
+##### Article 154. Working languages of the International Bureau
 
-12. De kosten van de tolkdiensten worden verdeeld over de lidstaten die dezelfde taal gebruiken, in verhouding tot hun bijdrage aan de uitgaven van de Unie. De installatie- en onderhoudskosten van de technische apparatuur worden evenwel door de Unie gedragen.
+1. The working languages of the International Bureau shall be French and English.
 
-13. De lidstaten en/of hun aangewezen aanbieders kunnen afspraken maken met betrekking tot de in hun wederzijdse betrekkingen voor dienstcorrespondentie te gebruiken taal. Bij gebreke van dergelijke afspraken wordt de Franse taal gebruikt.
+##### Article 155. Languages used for documentation, for debates and for official correspondence
 
-### HOOFDSTUK VII. SLOTBEPALINGEN
+1. In the documentation published by the Union, the French, English, Arabic and Spanish languages shall be used. The Chinese, German, Portuguese and Russian languages shall also be used, provided that only the most important basic documentation is produced in these languages. Other languages may also be used on condition that the member countries which have made the request bear all of the costs involved.
 
-##### Artikel 156. Voorwaarden voor de goedkeuring van voorstellen betreffende het Algemeen Reglement
+2. The member country or countries which have requested the use of a language other than the official language constitute a language group.
 
-1. Om uitvoerbaar te worden, moeten de bij het Congres ingediende voorstellen met betrekking tot dit Algemeen Reglement worden goedgekeurd door de meerderheid van de bij het Congres vertegenwoordigde lidstaten die stemrecht hebben. Ten tijde van de stemming moet ten minste twee derde van de lidstaten van de Unie die stemrecht hebben, aanwezig zijn.
+3. Documentation shall be published by the International Bureau in the official language and in the languages of the other duly constituted language groups, either directly or through the intermediary of the regional offices of those groups in conformity with the procedures agreed with the International Bureau. Publication in the different languages shall be effected in accordance with a common standard.
 
-##### Artikel 157. Voorstellen betreffende de Akkoorden met de Organisatie van de Verenigde Naties ([Const 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=9))
+4. Documentation published directly by the International Bureau shall, as far as possible, be distributed simultaneously in the different languages requested.
 
-1. De in [artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=VII&artikel=156&z=2026-01-01&g=2026-01-01) bedoelde voorwaarden voor goedkeuring zijn eveneens van toepassing op voorstellen tot wijziging van de tussen de Wereldpostunie en de Organisatie van de Verenigde Naties gesloten Akkoorden, voor zover deze Akkoorden niet voorzien in voorwaarden voor wijziging van de daarin vervatte bepalingen.
+5. Correspondence between the member countries or their designated operators of member countries and the International Bureau and between the latter and outside entities may be exchanged in any language for which the International Bureau has available a translation service.
 
-##### Artikel 158. Inwerkingtreding en duur van het Algemeen Reglement
+6. The costs of translation into any language, including those resulting from the application of paragraph 5 and [article 136](https://wetten.overheid.nl/BWBV0006293), shall be borne by the language group which has asked for that language. The member countries using the official language shall pay, in respect of the translation of non-official documents, a lump sum contribution, the amount of which per contribution unit shall be the same as that borne by the member countries using the other International Bureau working language. All other costs involved in the supply of documents shall be borne by the Union. The ceiling of the costs to be borne by the Union for the production of documents in Chinese, German, Portuguese and Russian shall be fixed by a Congress resolution.
 
-1. (Geschrapt.)
+7. The costs to be borne by a language group shall be divided among the members of that group in proportion to their contributions to the expenses of the Union. These costs may be divided among the members of the language group according to another system, provided that the member countries concerned agree to it and inform the International Bureau of their decision through the intermediary of the spokesman of the group.
 
-2. Dit Algemeen Reglement treedt in werking op 1 januari 2014 en blijft voor onbepaalde tijd van kracht.
+8. The International Bureau shall give effect to any change in the choice of language requested by a member country after a period which shall not exceed two years.
 
-IN WITNESS WHEREOF the plenipotentiaries of the Governments of the member countries have signed these General Regulations in a single original which shall be deposited with the Director General of the International Bureau. A copy thereof shall be delivered to each party by the International Bureau of the Universal Postal Union.
+9. For the discussions at meetings of the Union’s bodies, the French, English, Spanish, Russian and Arabic languages shall be admissible, by means of a system of interpretation – with or without electronic equipment – the choice being left to the judgment of the organizers of the meeting after consultation with the Director General of the International Bureau and the member countries concerned.
 
-DONE at Doha, 11 October 2012
+10. Other languages shall likewise be admissible for the discussions and meetings mentioned in paragraph 9.
 
-##### Artikel 138bis. Procedure voor wijzigingen van voorstellen ingediend overeenkomstig [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=138&z=2026-01-01&g=2026-01-01)
+11. Delegations using other languages shall arrange for simultaneous interpretation into one of the languages mentioned in paragraph 9, either by the system indicated in the same paragraph, when the necessary technical modifications can be made, or by individual interpreters.
 
-1. Wijzigingen van reeds gedane voorstellen, met inbegrip van die welke door de Raad van Bestuur of de Postraad zijn ingediend, kunnen aan het Internationaal Bureau voorgelegd worden overeenkomstig de bepalingen van het Reglement van Orde van de Congressen.
+12. The costs of the interpretation services shall be shared among the member countries using the same language in proportion to their contributions to the expenses of the Union. However, the costs of installing and maintaining the technical equipment shall be borne by the Union.
 
-2. (Geschrapt.)
+13. Member countries and/or their designated operators may come to an understanding about the language to be used for official correspondence in their relations with one another. In the absence of such an understanding, the language to be used shall be French.
 
-### HOOFDSTUK IV. FINANCIËN
+### CHAPTER VII. FINAL PROVISIONS
 
-### HOOFDSTUK V. ARBITRAGE
+##### Article 156. Conditions for approval of proposals concerning the General Regulations
 
-### HOOFDSTUK VI. WERKTALEN BINNEN DE UNIE
+1. To become effective, proposals submitted to Congress relating to these General Regulations shall be approved by a majority of the member countries represented at Congress and having the right to vote. At least two thirds of the member countries of the Union having the right to vote shall be present at the time of voting.
 
-### HOOFDSTUK VII. SLOTBEPALINGEN
+##### Article 157. Proposals concerning the Agreements with the United Nations (Const 9)
 
-IN WITNESS WHEREOF the plenipotentiaries of the Governments of the member countries have signed these General Regulations in a single original which shall be deposited with the Director General of the International Bureau. A copy thereof shall be delivered to each party by the International Bureau of the Universal Postal Union.
+1. The conditions of approval referred to in [article 156](https://wetten.overheid.nl/BWBV0006293) shall apply equally to proposals designed to amend the Agreements concluded between the Universal Postal Union and the United Nations, in so far as those Agreements do not lay down conditions for the amendment of the provisions they contain.
 
-DONE at Doha, 11 October 2012
+##### Article 158. Entry into force and duration of the General Regulations
 
-##### Artikel 117bis. Coördinatiecommissie voor de permanente organen van de Unie
+1. (Deleted.)
 
-1. De Voorzitter van de Raad van Bestuur, de Voorzitter van de Postraad en de Directeur-Generaal van het Internationaal Bureau vormen de Coördinatiecommissie voor de permanente organen van de Unie.
-
-2. De Coördinatiecommissie verricht de volgende taken:
-
-- 2.1. het helpen coördineren van het werk van de permanente organen van de Unie;
-
-- 2.2. het, indien nodig, bijeenkomen om kwesties te bespreken die van belang zijn voor de Unie en de postdienst en het verstrekken van een evaluatie van deze kwesties aan de organen van de Unie;
-
-- 2.3. het waarborgen van de juiste uitvoering van het strategische planningsproces zodat alle besluiten over de activiteiten van de Unie door de juiste organen worden genomen in overeenstemming met hun onderscheiden verantwoordelijkheden zoals vervat in de Akten van de Unie.
-
-3. Op bijeenroeping door de Voorzitter van de Raad van Bestuur komt de Coördinatiecommissie tweemaal per jaar bijeen op de zetel van de Unie. De datum en plaats van de vergaderingen worden door de Voorzitter van de Raad van Bestuur vastgesteld, na overeenstemming met de Voorzitter van de Postraad en de Directeur-Generaal van het Internationaal Bureau.
-
-## DEEL 4. ADVIESCOMMISSIE
-
-### HOOFDSTUK II. INTERNATIONAAL BUREAU
-
-## DEEL 1. VERKIEZING EN TAKEN VAN DE DIRECTEUR-GENERAAL EN DE PLAATSVERVANGEND DIRECTEUR-GENERAAL VAN HET INTERNATIONAAL BUREAU
-
-## DEEL 2. SECRETARIAAT VAN DE ORGANEN VAN DE UNIE EN DE ADVIESRAAD
-
-### HOOFDSTUK III. INDIENING, BEHANDELING VAN VOORSTELLEN, KENNISGEVING VAN BESLUITEN EN INWERKINGTREDING VAN DE REGELINGEN EN ANDERE BESLUITEN
-
-### HOOFDSTUK IV. FINANCIËN
-
-### HOOFDSTUK VI. WERKTALEN BINNEN DE UNIE
-
-### HOOFDSTUK VII. SLOTBEPALINGEN
+2. These General Regulations shall come into force on 1 January 2014 and shall remain in force for an indefinite period.
 
 IN WITNESS WHEREOF the plenipotentiaries of the Governments of the member countries have signed these General Regulations in a single original which shall be deposited with the Director General of the International Bureau. A copy thereof shall be delivered to each party by the International Bureau of the Universal Postal Union.
 

@@ -1,50 +1,19 @@
 ---
 title: "Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Federale Republiek Brazilië"
 identifier: "BWBV0006833"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006833"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005508413"
-version_id: "10005991182"
-internal_id: "C10009832081"
-label_id: "10005491714"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006833/2021-07-01/0"
-intitule_bron: "Trb.2019-125"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-08-02"
-intitule_in_force: "2021-06-24"
-intitule_status: "goed"
-original_publication: "Trb.2019-125"
-original_published_date: "2019-08-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2019-125"
-entry_into_force_date: "2021-07-01"
-jci_1_3: "jci1.3:c:BWBV0006833&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBV0006833&g=2021-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-07-01"
+publicatiedatum: 2021-07-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBV0006833"
+opgehaald: 2026-09-16
 ---
+
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Federale Republiek Brazilië
 
-Het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten,
-
-en
-
-de Federale Republiek Brazilië, (hierna te noemen „de partijen”),
-
-Partij zijnde bij het [Verdrag inzake de internationale burgerluchtvaart](onbekend), opengesteld voor ondertekening te Chicago op 7 december 1944;
-
-Geleid door de wens een bijdrage te leveren aan de vooruitgang van de internationale burgerluchtvaart;
-
-Geleid door de wens een verdrag te sluiten ten behoeve van het instellen en exploiteren van luchtdiensten tussen en via hun onderscheiden grondgebieden;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Federale Republiek Brazilië, (hierna te noemen „de partijen”), Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, opengesteld voor ondertekening te Chicago op 7 december 1944; Geleid door de wens een bijdrage te leveren aan de vooruitgang van de internationale burgerluchtvaart; Geleid door de wens een verdrag te sluiten ten behoeve van het instellen en exploiteren van luchtdiensten tussen en via hun onderscheiden grondgebieden; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -52,11 +21,11 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 - a. wordt onder „luchtvaartautoriteit” verstaan, wat Sint Maarten betreft, de minister van Toerisme, Economische Zaken, Verkeer en Telecommunicatie, verantwoordelijk voor de burgerluchtvaart, en wat Brazilië betreft, de burgerluchtvaartautoriteit vertegenwoordigd door de Agência Nacional de Aviação Civil (ANAC); of, in beide gevallen elke persoon of instantie die bevoegd is de functies te vervullen die worden vervuld door de genoemde autoriteiten;
 
-- b. wordt onder „Verdrag” verstaan dit Verdrag, de Bijlage daarbij en alle wijzigingen daarvan;
+- b. wordt onder „Verdrag” verstaan dit Verdrag, de [Bijlage](https://wetten.overheid.nl/BWBV0006833) daarbij en alle wijzigingen daarvan;
 
 - c. wordt onder „capaciteit” verstaan het aantal diensten dat uit hoofde van het Verdrag wordt geleverd, gewoonlijk gemeten als het aantal vluchten (frequenties), stoelen of tonnen vracht die op een markt worden aangeboden (stedenpaar of land naar land) of op een route gedurende een specifiek tijdvak, bijvoorbeeld dagelijks, wekelijks, in een bepaald seizoen of jaarlijks;
 
-- d. wordt onder „het Verdrag van Chicago” verstaan het [Verdrag inzake de internationale burgerluchtvaart](onbekend), op 7 december 1944 te Chicago voor ondertekening opengesteld, met inbegrip van alle overeenkomstig [artikel 90 van het Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) aangenomen [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0010905&artikel=1), en elke wijziging van de Bijlagen of van het Verdrag van Chicago overeenkomstig artikel 90 en [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94), voor zover deze Bijlagen en wijzigingen van kracht zijn geworden voor beide partijen;
+- d. wordt onder „het Verdrag van Chicago” verstaan het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/BWBV0005507), op 7 december 1944 te Chicago voor ondertekening opengesteld, met inbegrip van alle overeenkomstig [artikel 90 van het Verdrag van Chicago](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) aangenomen [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0010905&artikel=1), en elke wijziging van de Bijlagen of van het Verdrag van Chicago overeenkomstig artikel 90 en [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94), voor zover deze Bijlagen en wijzigingen van kracht zijn geworden voor beide partijen;
 
 - e. wordt onder „aangewezen luchtvaartmaatschappij” verstaan een luchtvaartmaatschappij die is aangewezen en gemachtigd overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006833&artikel=3&z=2021-07-01&g=2021-07-01) (Aanwijzing en verlening van vergunningen) van dit Verdrag;
 
@@ -70,7 +39,7 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 ##### Artikel 2. Verlening van rechten
 
-1. Elke partij verleent de andere partij de in dit Verdrag omschreven rechten ten behoeve van de exploitatie van internationale luchtdiensten op de routes die omschreven zijn in de Bijlage bij dit Verdrag.
+1. Elke partij verleent de andere partij de in dit Verdrag omschreven rechten ten behoeve van de exploitatie van internationale luchtdiensten op de routes die omschreven zijn in de [Bijlage](https://wetten.overheid.nl/BWBV0006833) bij dit Verdrag.
 
 2. Onverminderd de bepalingen van dit Verdrag geniet(en) de door elke partij aangewezen luchtvaartmaatschappij(en) de volgende rechten:
 
@@ -128,9 +97,9 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 ##### Artikel 6. Erkenning van certificaten en vergunningen
 
-1. Bewijzen van luchtwaardigheid, bewijzen van bevoegdheid en vergunningen die door de ene partij zijn uitgereikt of geldig zijn verklaard en nog van kracht zijn, worden door de andere partij als geldig erkend voor de exploitatie van de overeengekomen diensten, mits de eisen op grond waarvan deze bewijzen en vergunningen werden uitgereikt of geldig verklaard gelijk zijn aan of zwaarder dan de minimumnormen die kunnen worden vastgesteld uit hoofde van het [Verdrag van Chicago](onbekend).
+1. Bewijzen van luchtwaardigheid, bewijzen van bevoegdheid en vergunningen die door de ene partij zijn uitgereikt of geldig zijn verklaard en nog van kracht zijn, worden door de andere partij als geldig erkend voor de exploitatie van de overeengekomen diensten, mits de eisen op grond waarvan deze bewijzen en vergunningen werden uitgereikt of geldig verklaard gelijk zijn aan of zwaarder dan de minimumnormen die kunnen worden vastgesteld uit hoofde van het [Verdrag van Chicago](https://wetten.overheid.nl/BWBV0005507).
 
-2. Indien de voorrechten of voorwaarden van de in het eerste lid van dit artikel bedoelde vergunningen of bewijzen, afgegeven door de luchtvaartautoriteiten van een partij aan een persoon of aangewezen luchtvaartmaatschappij of voor een luchtvaartuig dat gebruikt wordt voor de exploitatie van de overeengekomen diensten, een afwijking toestaan van de krachtens het [Verdrag van Chicago](onbekend) vastgestelde minimumnormen, welke afwijking is geregistreerd bij de Internationale Burgerluchtvaartorganisatie (ICAO), kan de andere partij verzoeken om overleg tussen de luchtvaartautoriteiten teneinde helderheid te verschaffen over het gebruik in kwestie.
+2. Indien de voorrechten of voorwaarden van de in het eerste lid van dit artikel bedoelde vergunningen of bewijzen, afgegeven door de luchtvaartautoriteiten van een partij aan een persoon of aangewezen luchtvaartmaatschappij of voor een luchtvaartuig dat gebruikt wordt voor de exploitatie van de overeengekomen diensten, een afwijking toestaan van de krachtens het [Verdrag van Chicago](https://wetten.overheid.nl/BWBV0005507) vastgestelde minimumnormen, welke afwijking is geregistreerd bij de Internationale Burgerluchtvaartorganisatie (ICAO), kan de andere partij verzoeken om overleg tussen de luchtvaartautoriteiten teneinde helderheid te verschaffen over het gebruik in kwestie.
 
 3. Elke partij behoudt zich evenwel het recht voor voor vluchten boven of landingen op haar grondgebied te weigeren bewijzen van bevoegdheid en vergunningen te erkennen die aan haar eigen onderdanen zijn verstrekt door de andere partij.
 
@@ -150,7 +119,7 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 ##### Artikel 8. Beveiliging van de luchtvaart
 
-1. Overeenkomstig hun rechten en verplichtingen ingevolge het internationale recht, bevestigen de partijen opnieuw dat hun verplichting jegens elkaar tot bescherming van de veiligheid van de burgerluchtvaart tegen daden van wederrechtelijke inmenging een integrerend onderdeel uitmaakt van dit Verdrag. Zonder hun rechten en verplichtingen ingevolge het internationale recht in het algemeen te beperken handelen de partijen in het bijzonder overeenkomstig de bepalingen van het [Verdrag inzake strafbare feiten en bepaalde andere handelingen, begaan aan boord van luchtvaartuigen](onbekend), ondertekend te Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](onbekend), ondertekend te Den Haag op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](onbekend), ondertekend te Montreal op 23 september 1971, het [Aanvullend Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](onbekend), ondertekend te Montreal op 24 februari 1988 en het [Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan](onbekend), ondertekend te Montreal op 1 maart 1991, alsmede elk ander verdrag of protocol inzake de veiligheid van de burgerluchtvaart dat beide partijen naleven.
+1. Overeenkomstig hun rechten en verplichtingen ingevolge het internationale recht, bevestigen de partijen opnieuw dat hun verplichting jegens elkaar tot bescherming van de veiligheid van de burgerluchtvaart tegen daden van wederrechtelijke inmenging een integrerend onderdeel uitmaakt van dit Verdrag. Zonder hun rechten en verplichtingen ingevolge het internationale recht in het algemeen te beperken handelen de partijen in het bijzonder overeenkomstig de bepalingen van het [Verdrag inzake strafbare feiten en bepaalde andere handelingen, begaan aan boord van luchtvaartuigen](https://wetten.overheid.nl/BWBV0004659), ondertekend te Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/BWBV0004424), ondertekend te Den Haag op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/BWBV0003604), ondertekend te Montreal op 23 september 1971, het [Aanvullend Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/BWBV0002152), ondertekend te Montreal op 24 februari 1988 en het [Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan](https://wetten.overheid.nl/BWBV0003003), ondertekend te Montreal op 1 maart 1991, alsmede elk ander verdrag of protocol inzake de veiligheid van de burgerluchtvaart dat beide partijen naleven.
 
 2. De partijen verlenen elkaar op verzoek alle nodige bijstand ter voorkoming van gedragingen van het wederrechtelijk in zijn macht brengen van burgerluchtvaartuigen en andere wederrechtelijke gedragingen gericht tegen de veiligheid van deze luchtvaartuigen, zijn passagiers en bemanning, luchthavens en luchtvaartvoorzieningen, alsmede elke andere bedreiging voor de veiligheid van de burgerluchtvaart.
 
@@ -240,7 +209,7 @@ ongeacht of dergelijke goederen geheel worden gebruikt of verbruikt op het grond
 
 1. Bij de exploitatie van luchtdiensten die zijn toegestaan uit hoofde van dit Verdrag, mag elke luchtvaartmaatschappij gebruik maken van eigen luchtvaartuigen of van luchtvaartuigen die zijn geleased („dry lease”), per uur gehuurd („interchange” of „lease for hours”), geleased met bemanning, verzekering en onderhoud„(„wet lease”) op grond van een overeenkomst tussen luchtvaartmaatschappijen van een van de partijen of derde staten, waarbij de wet- en regelgeving van beide partijen en het Protocol inzake wijziging van het Verdrag van Chicago ([artikel 83 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=83_bis)) worden geëerbiedigd. De luchtvaartautoriteiten van de partijen sluiten een specifieke overeenkomst waarin de voorwaarden voor de overdracht van de verantwoordelijkheid voor de veiligheid als verstrekt door de ICAO zijn vastgelegd.
 
-2. Op elk deel van de routes in de Bijlage van het Verdrag is een luchtvaartmaatschappij gerechtigd internationaal luchtvervoer, mede met code-sharing met andere luchtvaartmaatschappijen, te verzorgen zonder beperkingen ten aanzien van verandering van het type, de omvang of het aantal ingezette luchtvaartuigen op een punt of punten van de route, met dien verstande dat het vervoer voorbij dat punt een voortzetting is van het vervoer vanuit het grondgebied van de partij die de luchtvaartmaatschappij heeft aangewezen, en bij binnenkomende vluchten het vervoer naar het grondgebied van de partij die de luchtvaartmaatschappij heeft aangewezen een voortzetting is van het vervoer voorbij dat punt.
+2. Op elk deel van de routes in de [Bijlage](https://wetten.overheid.nl/BWBV0006833) van het Verdrag is een luchtvaartmaatschappij gerechtigd internationaal luchtvervoer, mede met code-sharing met andere luchtvaartmaatschappijen, te verzorgen zonder beperkingen ten aanzien van verandering van het type, de omvang of het aantal ingezette luchtvaartuigen op een punt of punten van de route, met dien verstande dat het vervoer voorbij dat punt een voortzetting is van het vervoer vanuit het grondgebied van de partij die de luchtvaartmaatschappij heeft aangewezen, en bij binnenkomende vluchten het vervoer naar het grondgebied van de partij die de luchtvaartmaatschappij heeft aangewezen een voortzetting is van het vervoer voorbij dat punt.
 
 ##### Artikel 17. Statistieken
 
@@ -294,12 +263,12 @@ Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag uitsluitend van toepa
 
 TEN BLIJKE WAARVAN de ondergetekenden, naar behoren gemachtigd door hun respectieve Regeringen, dit Verdrag hebben ondertekend.
 
-GEDAAN, in tweevoud, te Brasilia op 8 juli 2019, in de Engelse, de Nederlandse en de Portugese taal, waarbij alle teksten gelijkelijk authentiek zijn. In geval van verschil in interpretatie van dit Verdrag is de Engelse tekst doorslaggevend.
+GEDAAN, in tweevoud, te Brasilia op 8 juli 2019, in de Engelse, de Nederlandse en de Portugese taal, waarbij alle teksten gelijkelijk authentiek zijn. In geval van verschil in interpretatie van dit Verdrag is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten,**
+*Voor het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten,*
 
 STUART ANDREW JOHNSON
 
-**Voor de Federale Republiek Brazilië,**
+*Voor de Federale Republiek Brazilië,*
 
 ERNESTO ARAÚJO

@@ -1,140 +1,111 @@
 ---
 title: "Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen"
 identifier: "BWBV0006264"
-country: "nl"
-rank: "verdrag"
-publication_date: "1938-04-28"
-last_updated: "1938-04-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006264"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005125563"
-version_id: "10005477402"
-internal_id: "C10008450861"
-label_id: "10005108634"
-dtd_version: "2.0"
-original_entry_into_force: "1938-04-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006264/1938-04-28/0"
-intitule_bron: "Stb.1938-12"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1938-02-09"
-intitule_published: "1938-02-18"
-intitule_in_force: "1938-02-18"
-intitule_status: "goed"
-original_publication: "Stb.1938-12"
-original_signed_date: "1938-02-09"
-original_published_date: "1938-02-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1938-04-28"
-jci_1_3: "jci1.3:c:BWBV0006264&z=1938-04-28&g=1938-04-28"
-jci_1_0: "1.0:c:BWBV0006264&g=1938-04-28"
-citeertitel_status: "redactioneel"
-signed_date: "1938-02-09"
-entry_into_force: "1938-04-28"
+publicatiedatum: 1938-04-28
+laatste_update: 1938-04-28
+status: geldig
+toestand: 1938-04-28
+bron: "https://wetten.overheid.nl/BWBV0006264"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen
 
-[**Zie de Franse tekst voor een Opsomming van Staatshoofden**]
+*Sa Majesté le Roi d'Albanie, le Président du Reich Allemand, le Président des États Unis d'Amérique, le Président Fédéral de la République d'Autriche, Sa Majesté le Roi des Belges, le Président des États-Unis du Brésil, le Président de la République du Chili, le Président du Gouvernement Nationaliste de République de Chine, le Président de la République de Colombie, le Président de la République de Cuba, Sa Majesté le Roi de Danemark et d'Islande, le Président de la République de l'Equateur, le Président de la République de El Salvador, le Président de la République Espagnole, le Président de la République de Finlande, le Président de la République Française, Sa Majesté le Roi de Grande-Bretagne, d'Irlande et des territoires britanniques au-delà des Mers, Empereur des Indes, le Président de la République de Guatemala, le Président de la République Hellénique, le Président de la République du Honduras, Son Altesse Sérénissime le Régent du Royaume de Hongrie, Sa Majesté le Roi d'Italie, Sa Majesté l'Empereur du Japon, le Président de la République de Lithuanie, le Président des États-Unis du Mexique, le Président de la République du Nicaragua, Sa Majesté le Roi de Norvège, Sa Majesté la Reine des Pays-Bas, le Président de la République de Pologne, le Président de la République du Portugal, Sa Majesté le Roi de Roumanie, le Président de la République de Saint Domingue, les Capitaines Régents de la Sérénissime République de Saint Marin, Sa Sainteté le Souverain Pontife, Sa Majesté le Roi de Suède, le Conseil Fédéral Suisse, le Président de la République de Tchécoslovaque, le Président de la République de Turquie, le Comité Central Exécutif de l'Union des Républiques Soviétiques Socialistes, le Président des États-Unis du Venezuela, Sa Majesté le Roi de Yougoslavie, ayant reconnu l'utilité d'adopter certaines règles uniformes en matière de saisie conservatoire des aéronefs, ont nommé à cet effet leur Plénipotentiaires respectifs, lesquels, dûment autorisés, ont conclu et signé la Convention suivante:*
 
-het nut hebbende erkend om eenige eenvormige bepalingen te aanvaarden inzake conservatoir beslag op luchtvaartuigen,
+##### Article Premier
 
-hebben tot dat doel ieder hunne Gevolmachtigden aangewezen,
+Les Hautes Parties Contractantes s'engagent à prendre les mesures nécessaires pour donner effet aux règles établies par la présente Convention.
 
-die na daartoe behoorlijk te zijn gemachtigd, het volgende Verdrag hebben gesloten en geteekend:
+##### Article 2
 
-##### Artikel 1
+(1). Au sens de la présente Convention on comprend par saisie conservatoire tout acte, quel que soit son nom, par lequel un aéronef est arrêté, dans un intérêt privé, par l'entremise des agents de la justice ou de l'administration publique, au profit soit d'un créancier, soit du propriétaire ou du titulaire d'un droit réel grevant l'aéronef, sans que le saisissant puisse invoquer un jugement exécutoire, obtenu préalablement dans la procédure ordinaire, ou un titre d'exécution équivalent.
 
-De Hooge Verdragsluitende Partijen verbinden zich de noodige maatregelen te nemen teneinde de in dit Verdrag gestelde regelen ten uitvoer te brengen.
+(2). Au cas où la loi compétente accorde au créancier, qui détient l'aéronef sans le consentement de l'exploitant, un droit de rétention, l'exercice de ce droit est, aux fins de la présente Convention, assimilé à la saisie conservatoire et soumis au régime prévu par la présente Convention.
 
-##### Artikel 2
+##### Article 3
 
-(1). Dit Verdrag verstaat onder conservatoir beslag elke handeling, hoe ook genaamd, waardoor een luchtvaartuig ten behoeve van een privaat belang door tusschenkomst van justitieele of administratieve ambtenaren, hetzij ten behoeve van een schuldeischer, hetzij ten behoeve van den eigenaar of den gerechtigde tot een op het luchtvaartuig rustend zakelijk recht, in beslag wordt genomen, zonder dat de beslaglegger beroep kan doen op een tevoren, in de gewone procedure verkregen, voor tenuitvoerlegging vatbaar vonnis of een gelijkwaardigen executorialen titel.
+(1). Sont exempts de saisie conservatoire:
 
-(2). In geval de van toepassing zijnde wet aan den schuldeischer, die het luchtvaartuig zonder toestemming van den houder onder zich heeft, een retentierecht toekent, wordt de uitoefening van dat recht voor de toepassing van dit Verdrag gelijkgesteld met conservatoir beslag en door de bepalingen van dit Verdrag beheerscht.
+- a) Les aéronefs affectés exclusivement à un service d'Etat, poste comprise, commerce excepté;
 
-##### Artikel 3
+- b) Les aéronefs mis effectivement en service sur une ligne régulière de transports publics et les aéronefs de réserve indispensables;
 
-(1). Voor conservatoir beslag zijn niet vatbaar:
+- c) Tout autre aéronef affecté à des transports de personnes ou de biens contre rémunération, lorsqu'il est prêt à partir pour un tel transport, excepté dans le cas où il s'agit d'une dette contractée pour le voyage qu'il va faire ou d'une créance née au cours du voyage.
 
-- a. De luchtvaartuigen, welke uitsluitend zijn bestemd voor een tak van staatsdienst, postvervoer daaronder begrepen, doch met uitsluiting van handelsvervoer;
+Les dispositions du présent article ne s'appliquent pas à la saisie conservatoire exercée par le propriétaire dépossédé de son aéronef par un acte illicite.
 
-- b. De luchtvaartuigen, welke werkelijk in dienst zijn gesteld op een geregelde luchtlijn van openbaar vervoer en de daarvoor onontbeerlijke reserve-luchtvaartuigen;
+##### Article 4
 
-- c. Elk ander luchtvaartuig, dat dient voor het vervoer van personen of goederen tegen betaling, wanneer het gereed staat voor zulk een vervoer te vertrekken, behalve ingeval het beslag wordt gelegd voor een schuld, aangegaan ten behoeve van de reis, welke het luchtvaartuig op het punt staat te ondernemen, of voor een vordering, welke tijdens de reis is ontstaan.
+(1). Dans le cas où la saisie n'est pas interdite ou lorsque, en cas d'insaisissabilité de l'aéronef, l'exploitant ne l'invoque pas, un cautionnement suffisant empêche la saisie conservatoire et donne droit à la mainlevée immédiate.
 
-(2).
+(2). Le cautionnement est suffisant s'il couvre le montant de la dette et les frais et s'il est affecté exclusivement au paiement du créancier, ou s'il couvre la valeur de l'aéronef si celle-ci est inférieure au montant de la dette et des frais.
 
-De bepalingen van dit artikel zijn niet van toepassing ten aanzien van conservatoir beslag, hetwelk wordt gelegd door den eigenaar, wien door een onrechtmatige daad het bezit van zijn luchtvaartuig is ontnomen.
+##### Article 5
 
-##### Artikel 4
+Dans tous les cas, il sera statué, par une procédure sommaire et rapide, sur la demande en mainlevée de la saisie conservatoire.
 
-(1). Indien het beslag niet verboden is of wanneer, bij onvatbaarheid van het luchtvaartuig voor beslag, de houder zich daarop niet beroept, belet een voldoende zekerheidstelling het conservatoir beslag; de zekerheidstelling geeft recht op onmiddellijke opheffing.
+##### Article 6
 
-(2). De zekerheidstelling is voldoende, indien zij het bedrag der schuldvordering en de kosten dekt en uitsluitend is bestemd voor de betaling van den schuldeischer, of indien zij de waarde van het luchtvaartuig dekt, ingeval deze geringer is dan het bedrag van de schuld en de kosten.
+(1). S'il a été procédé la saisie d'un aéronef insaisissable d'après les dispositions de la présente Convention, ou si le débiteur a dû fournir un cautionnement pour en empêcher la saisie ou pour en obtenir mainlevée, le saisissant est responsable, suivant la loi du lieu de la procédure, du dommage en résultant pour l'exploitant ou le propriétaire.
 
-##### Artikel 5
+(2). La même règle s'applique en cas de saisie conservatoire opérée sans juste cause.
 
-In alle gevallen zal door middel van een eenvoudigen en snellen rechtsgang worden beslist over het verzoek om opheffing van het conservatoir beslag.
+##### Article 7
 
-##### Artikel 6
+La présente Convention ne s'applique ni aux mesures conservatoires en matière de faillite, ni aux mesures conservatoires effectués en cas d'infraction aux règles de douane, pénales ou de police.
 
-(1). Indien is overgegaan tot beslag op een luchtvaartuig, dat volgens de bepalingen van dit Verdrag niet vatbaar is voor beslag of indien de schuldenaar zekerheid heeft moeten stellen om zoodanig beslag te verhinderen of daarvan opheffing te verkrijgen, is de beslaglegger volgens de wet van de plaats van den rechtsgang aansprakelijk voor de schade, welke daaruit voor den houder of den eigenaar voortspruit.
+##### Article 8
 
-(2). Dezelfde regel is van toepassing ingeval zonder wettigen grond conservatoir beslag is gelegd.
+La présente Convention ne s'oppose pas à l'application des conventions internationales entre les Hautes Parties Contractantes qui prévoient une insaisissabilité plus étendue.
 
-##### Artikel 7
+##### Article 9
 
-Dit Verdrag is niet van toepassing op conservatoire maatregelen ter zake van faillissement, noch op conservatoire maatregelen, welke in geval van overtreding van douane-, straf- of politievoorschriften worden toegepast.
+(1). La présente Convention s'applique sur le territoire de chacune des Hautes Parties Contractantes à tout aéronef immatriculé dans le territoire d'une autre Haute Partie Contractante.
 
-##### Artikel 8
+(2). L'expression „territoire d'une Haute Partie Contractante” comprend tout territoire soumis au pouvoir souverain, à la suzeraineté, au protectorat, au mandat ou à l'autorité de ladite Haute Partie Contractante pour lequel cette dernière est partie à la Convention.
 
-Dit Verdrag vormt geen beletsel tegen de toepassing tusschen de Hooge Verdragsluitende Partijen van internationale verdragen, welke een ruimere onvatbaarheid voor beslag voorzien.
+##### Article 10
 
-##### Artikel 9
+La présente Convention est rédigée en français en un seul exemplaire qui restera déposé aux archives du Ministère des Affaires Etrangères du Royaume d'Italie, et dont une copie certifiée conforme sera transmise par les soins du Gouvernement du Royaume d'Italie à chacun des Gouvernements intéressés.
 
-(1). Dit Verdrag is van toepassing op het grondgebied van elke der Hooge Verdragsluitende Partijen ten aanzien van elk luchtvaartuig, dat binnen het grondgebied van een andere Hooge Verdragsluitende Partij is ingeschreven.
+##### Article 11
 
-(2). De uitdrukking „grondgebied van een Hooge Verdragsluitende Partij” omvat elk grondgebied, dat is onderworpen aan het souverein gezag, de suzereiniteit, het protectoraat, het mandaat of het gezag van die Hooge Verdragsluitende Partij, en waarvoor laatstbedoelde bij dit Verdrag partij is.
+(1). La présente Convention sera ratifiée. Les instruments de ratification seront déposés aux archives du Ministère des Affaires Etrangères du Royaume d'Italie, qui en notifiera le dépôt à chacun des Gouvernements intéressés.
 
-##### Artikel 10
+(2). Dès que le dépôt de cinq ratifications aura été effectué, la Convention entrera en vigueur, entre les Hautes Parties Contractantes qui l'auront ratifiée, quatre-vingt-dix jours après le dépôt de la cinquième ratification. Chaque ratification dont le dépôt sera effectué ultérieurement produira ses effets quatre-vingt-dix jours après ce dépôt.
 
-Dit Verdrag is gesteld in de Fransche taal in één enkel exemplaar, dat zal blijven berusten in de archieven van het Ministerie van Buitenlandsche Zaken van het Koninkrijk Italië en waarvan een voor eensluidend gewaarmerkt afschrift door de zorg der Regeering van het Koninkrijk Italië aan elk der belanghebbende Regeeringen zal worden overgelegd.
+(3). Il appartiendra au Gouvernement du Royaume d'Italie de notifier à chacun des Gouvernements intéressés la date de l'entrée en vigueur de la présente Convention.
 
-##### Artikel 11
+##### Article 12
 
-(1). Dit Verdrag zal bekrachtigd worden. De bekrachtigingsoorkonden zullen worden nedergelegd in de archieven van het Ministerie van Buitenlandsche Zaken van het Koninkrijk Italië, dat van die nederlegging kennis zal geven aan elke der belanghebbende Regeeringen.
+(1). La présente Convention, après son entrée en vigueur, sera ouverte à l'adhésion.
 
-(2). Zoodra vijf bekrachtigingen zullen zijn nedergelegd, zal het Verdrag tusschen de Hooge Verdragsluitende Partijen, welke het hebben bekrachtigd, in werking treden op den negentigsten dag na de nederlegging van de vijfde bekrachtiging. Elke bekrachtiging, waarvan de nederlegging later geschiedt, zal negentig dagen na die nederlegging van kracht worden.
+(2). L'adhésion sera effectuée par une notification adressée au Gouvernement du Royaume d'Italie, qui en fera part à chacun des Gouvernements intéressés.
 
-(3). De Regeering van het Koninkrijk Italië zal aan elk der belanghebbende Regeeringen kennis geven van den datum van inwerkingtreding van dit Verdrag.
+(3). L'adhésion produira ses effets quatre-vingt-dix jours après la notification faite au Gouvernement du Royaume d'Italie.
 
-##### Artikel 12
+##### Article 13
 
-(1). Dit Verdrag zal na zijn inwerkingtreding voor toetreding zijn opengesteld.
+(1). Chacune des Hautes Parties Contractantes pourra dénoncer la présente Convention par une notification faite au Gouvernement du Royaume d'Italie, qui en avisera immédiatement chacun des Gouvernements intéressés.
 
-(2). De toetreding heeft plaats door een kennisgeving, gericht tot de Regeering van het Koninkrijk Italië, welke daarvan mededeeling zal doen aan elke der belanghebbende Regeeringen.
+(2). La dénonciation produira ses effets six mois après la notification de la dénonciation et seulement à l'égard de la Partie qui y aura procédé.
 
-(3). De toetreding zal van kracht worden op den negentigsten dag na de aan de Regeering van het Koninkrijk Italië gedane kennisgeving.
+##### Article 14
 
-##### Artikel 13
+(1). Les Hautes Parties Contractantes pourront, au moment de la signature, du dépôt des ratifications, ou de leur adhésion, déclarer que l'acceptation qu'elles donnent à la présente Convention ne s'applique pas à l'ensemble ou à toute partie de leurs colonies, protectorats, territoires d'outre-mer, territoires sous mandat ou tout autre territoire soumis à leur souveraineté, autorité, ou suzeraineté.
 
-(1). Elke der Hooge Verdragsluitende Partijen kan dit Verdrag opzeggen door eene kennisgeving, gedaan aan de Regeering van het Koninkrijk Italië, welke daarvan onmiddellijk mededeeling zal doen aan elke der belanghebbende Regeeringen.
+(2). Les Hautes Parties Contractantes pourront ultérieurement notifier au Gouvernement du Royaume d'Italie qu'elles entendent rendre applicable la présente Convention à l'ensemble ou à toute partie de leurs colonies, protectorats, territoires d'outre-mer, territoires sous mandat, ou tout autre territoire soumis à leur souveraineté, autorité, ou suzeraineté ainsi exclus de leur déclaration originelle.
 
-(2). De opzegging wordt van kracht zes maanden na de kennisgeving van de opzegging en enkel ten aanzien van de Partij, welke daartoe is overgegaan.
+(3). Elles pourront, à tout moment, notifier au Gouvernement du Royaume d'Italie qu'elles entendent voir cesser l'application de la présente Convention à l'ensemble ou à toute partie de leurs colonies, protectorats, territoires d'outre-mer, territoires sous mandat, ou tout autre territoire soumis à leur souveraineté, autorité, ou suzeraineté.
 
-##### Artikel 14
+(4). Le Gouvernement du Royaume d'Italie notifiera à chacun des Gouvernements intéressés les notifications faites conformément aux deux alinéas précédents.
 
-(1). De Hooge Verdragsluitende Partijen kunnen ten tijde van de onderteekening, van de nederlegging van de bekrachtigingsoorkonde of van haar toetreding, verklaren, dat het aanvaarden van dit Verdrag niet geldt ten aanzien van het geheel of van een gedeelte van hare koloniën, protectoraten, overzeesche gebiedsdeelen, mandaatlanden of eenig ander gebied, onderworpen aan hare souvereiniteit, gezag of suzereiniteit.
+##### Article 15
 
-(2). De Hooge Verdragsluitende Partijen kunnen later aan de Regeering van het Koninkrijk Italië kennis geven, dat zij de bedoeling hebben dit Verdrag van toepassing te doen zijn ten aanzien van het geheel of een gedeelte van hare koloniën, protectoraten, overzeesche gebiedsdeelen, mandaatlanden, of eenig ander gebied, onderworpen aan haar souvereiniteit, gezag, of suzereiniteit, dat aldus wordt geacht te zijn uitgesloten van haar oorspronkelijke verklaring.
-
-(3). Zij kunnen op elk oogenblik aan de Regeering van het Koninkrijk Italië kennis geven, dat zij de bedoeling hebben de toepassing van dit Verdrag ten aanzien van het geheel of een gedeelte van haar koloniën, protectoraten, overzeesche gebiedsdeelen, mandaatlanden of eenig ander gebied, onderworpen aan haar souvereiniteit, gezag of suzereiniteit, te doen ophouden.
-
-(4). De Regeering van het Koninkrijk Italië zal elke der belanghebbende Regeeringen in kennis stellen van de kennisgevingen, welke overeenkomstig de beide voorafgaande alinea's zijn gedaan.
-
-##### Artikel 15
-
-Elke der Hooge Verdragsluitende Partijen heeft de bevoegdheid, maar zulks niet eerder dan twee jaar na de inwerkingtreding van het Verdrag, het bijeenkomen van een nieuwe Internationale Conferentie uit te lokken, met het doel de verbeteringen na te gaan, welke in dit Verdrag zouden kunnen worden aangebracht. Zij zal zich te dien einde wenden tot de Regeering der Fransche Republiek, welke de maatregelen zal treffen noodig om die Conferentie voor te bereiden.
+Chacune des Hautes Parties Contractantes aura la faculté, au plus tôt deux ans après la mise en vigueur de la présente Convention, de provoquer la réunion d'une nouvelle conférence internationale dans le but de rechercher les améliorations qui pourraient être apportées à la présente Convention. Elle s'adressera dans ce but au Gouvernement de la République Française qui prendra les mesures nécessaires pour préparer cette conférence.
 
 La présente Convention, faite à Rome, le 29 mai 1933, restera ouverte à la signature jusqu'au premier janvier 1934.
 

@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake de status van personeel van de Verenigde Staten in het Caribische deel van het Koninkrijk"
 identifier: "BWBV0006064"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-09-01"
-last_updated: "2012-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006064"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10005009223"
-version_id: "10005329792"
-internal_id: "C10008383541"
-label_id: "10004992294"
-dtd_version: "2.0"
-original_entry_into_force: "2013-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006064/2013-09-01/0"
-intitule_bron: "Trb.2012-226"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-12-07"
-intitule_in_force: "2013-07-26"
-intitule_status: "goed"
-original_publication: "Trb.2012-226"
-original_published_date: "2012-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2012-226"
-entry_into_force_date: "2013-09-01"
-jci_1_3: "jci1.3:c:BWBV0006064&z=2013-09-01&g=2013-09-01"
-jci_1_0: "1.0:c:BWBV0006064&g=2013-09-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-09-01"
+publicatiedatum: 2013-09-01
+laatste_update: 2013-09-01
+status: geldig
+toestand: 2013-09-01
+bron: "https://wetten.overheid.nl/BWBV0006064"
+opgehaald: 2026-09-16
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake de status van personeel van de Verenigde Staten in het Caribische deel van het Koninkrijk
 
-Het Koninkrijk der Nederlanden (hierna „het Koninkrijk”)
-
-en
-
-de Verenigde Staten van Amerika (hierna „de Verenigde Staten”), hierna gezamenlijk te noemen „de partijen”,
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden (hierna „het Koninkrijk”) en de Verenigde Staten van Amerika (hierna „de Verenigde Staten”), hierna gezamenlijk te noemen „de partijen”, zijn het volgende overeengekomen:*
 
 ##### Artikel I. Begripsomschrijvingen
 
@@ -116,7 +91,7 @@ Het ministerie van Defensie van de Verenigde Staten mag overeenkomsten aangaan v
 
 1. Met inachtneming van de bepalingen van dit artikel zijn de autoriteiten van de Verenigde Staten in het grondgebied van het Caribische deel van het Koninkrijk bevoegd tot het uitoefenen van strafrechtelijke en disciplinaire rechtsmacht over personeel van de Verenigde Staten.
 
-- a. De autoriteiten van de Verenigde Staten zijn bevoegd tot het uitoefenen van exclusieve rechtsmacht over personeel van de Verenigde Staten dat onder de wetgeving van de Verenigde Staten valt ten aanzien van vergrijpen, met inbegrip van vergrijpen die verband houden met haar veiligheid, die op grond van de wetgeving van de Verenigde Staten strafbaar zijn, maar niet op grond van de wetgeving van het Koninkrijk.
+2. - a. De autoriteiten van de Verenigde Staten zijn bevoegd tot het uitoefenen van exclusieve rechtsmacht over personeel van de Verenigde Staten dat onder de wetgeving van de Verenigde Staten valt ten aanzien van vergrijpen, met inbegrip van vergrijpen die verband houden met haar veiligheid, die op grond van de wetgeving van de Verenigde Staten strafbaar zijn, maar niet op grond van de wetgeving van het Koninkrijk.
 
 - b. De bevoegde autoriteiten van het Koninkrijk zijn bevoegd tot het uitoefenen van exclusieve rechtsmacht over personeel van de Verenigde Staten ten aanzien van vergrijpen, met inbegrip van vergrijpen die verband houden met de veiligheid van het Koninkrijk, die op grond van de wetgeving van het Koninkrijk strafbaar zijn, maar niet op grond van de wetgeving van de Verenigde Staten.
 
@@ -126,15 +101,15 @@ Het ministerie van Defensie van de Verenigde Staten mag overeenkomsten aangaan v
 
 - a. De autoriteiten van de Verenigde Staten hebben voorrang bij de uitoefening van rechtsmacht over personeel van de Verenigde Staten met betrekking tot:
 
-- i. vergrijpen die uitsluitend gericht zijn tegen de eigendommen of veiligheid van de Verenigde Staten of vergrijpen die uitsluitend gericht zijn tegen een lid of eigendommen van het personeel van de Verenigde Staten;
+   - i. vergrijpen die uitsluitend gericht zijn tegen de eigendommen of veiligheid van de Verenigde Staten of vergrijpen die uitsluitend gericht zijn tegen een lid of eigendommen van het personeel van de Verenigde Staten;
 
-- ii. vergrijpen die voortvloeien uit handelen of nalaten tijdens de uitoefening van officiële taken, zoals vastgesteld door de Verenigde Staten volgens hun militaire procedures.
+   - ii. vergrijpen die voortvloeien uit handelen of nalaten tijdens de uitoefening van officiële taken, zoals vastgesteld door de Verenigde Staten volgens hun militaire procedures.
 
 - b. Het Koninkrijk kan de Verenigde Staten verzoeken af te zien van haar voorrang bij de uitoefening van rechtsmacht over personeel van de Verenigde Staten in gevallen die voor het Koninkrijk van bijzonder belang zijn. In dergelijke gevallen plegen de partijen overleg teneinde elkaars legitieme belangen te waarborgen.
 
 - c. De bevoegde autoriteiten van het Koninkrijk hebben voorrang bij de uitoefening van rechtsmacht ten aanzien van overige vergrijpen.
 
-- a. Het Koninkrijk doet afstand van zijn recht, zoals vervat in dit artikel, tot het uitoefenen van strafrechtelijke rechtsmacht over personeel van de Verenigde Staten uitgezonderd in gevallen die voor het Koninkrijk van bijzonder belang zijn.
+4. - a. Het Koninkrijk doet afstand van zijn recht, zoals vervat in dit artikel, tot het uitoefenen van strafrechtelijke rechtsmacht over personeel van de Verenigde Staten uitgezonderd in gevallen die voor het Koninkrijk van bijzonder belang zijn.
 
 - b. Indien het Koninkrijk vaststelt dat een geval van bijzonder belang is, stelt het de autoriteiten van de Verenigde Staten daarvan in kennis binnen veertien dagen na de ontdekking, door een bevoegde autoriteit van het Koninkrijk, van het vermeende vergrijp dat aanleiding was voor het besluit. In dergelijke omstandigheden kunnen de Verenigde Staten het Koninkrijk verzoeken in overleg te treden en af te zien van het recht tot het uitoefenen van zijn rechtsmacht over het specifieke geval van bijzonder belang. De partijen plegen vervolgens overleg teneinde elkaars legitieme belangen te waarborgen en streven ernaar dit overleg binnen dertig dagen af te ronden of zo spoedig als redelijkerwijs mogelijk is daarna.
 
@@ -142,11 +117,11 @@ Het ministerie van Defensie van de Verenigde Staten mag overeenkomsten aangaan v
 
 5. De voorgaande bepalingen van dit artikel verlenen de autoriteiten van de Verenigde Staten niet het recht rechtsmacht uit te oefenen over personen die onderdaan van het Koninkrijk zijn of die hun normale verblijfplaats in het Caribische deel van het Koninkrijk hebben, tenzij zij tevens behoren tot het personeel van de Verenigde Staten.
 
-- a. De bevoegde autoriteiten van de partijen staan elkaar bij de aanhouding van personeel van de Verenigde Staten en bij hun overlevering aan de autoriteit die in overeenstemming met de bovenstaande bepalingen rechtsmacht dient uit te oefenen.
+6. - a. De bevoegde autoriteiten van de partijen staan elkaar bij de aanhouding van personeel van de Verenigde Staten en bij hun overlevering aan de autoriteit die in overeenstemming met de bovenstaande bepalingen rechtsmacht dient uit te oefenen.
 
 - b. De bevoegde autoriteiten van het Koninkrijk stellen de autoriteiten van de Verenigde Staten onverwijld in kennis van de aanhouding van personeel van de Verenigde Staten en de ontdekking van een vergrijp waarvan gesteld wordt dat deze is gepleegd door personeel van de Verenigde Staten.
 
-- a. De bevoegde autoriteiten van de partijen verlenen elkaar bijstand bij de uitvoering van alle nodige onderzoeken ter zake van vergrijpen en bij het bijeenbrengen en overleggen van bewijsmateriaal, met inbegrip van inbeslagname en, in daarvoor in aanmerking komende gevallen, overdracht van voorwerpen die verband houden met een vergrijp. De overdracht van dergelijke voorwerpen kan evenwel geschieden onder de voorwaarde dat zij binnen de door de autoriteit die ze overdraagt aangegeven termijn worden geretourneerd.
+7. - a. De bevoegde autoriteiten van de partijen verlenen elkaar bijstand bij de uitvoering van alle nodige onderzoeken ter zake van vergrijpen en bij het bijeenbrengen en overleggen van bewijsmateriaal, met inbegrip van inbeslagname en, in daarvoor in aanmerking komende gevallen, overdracht van voorwerpen die verband houden met een vergrijp. De overdracht van dergelijke voorwerpen kan evenwel geschieden onder de voorwaarde dat zij binnen de door de autoriteit die ze overdraagt aangegeven termijn worden geretourneerd.
 
 - b. De bevoegde autoriteiten van de partijen stellen elkaar in kennis van de afdoening van alle zaken die voortvloeien uit handelingen van personeel van de Verenigde Staten op het grondgebied van het Caribische deel van het Koninkrijk.
 
@@ -186,10 +161,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Washington, in tweevoud, op 19 oktober 2012.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 R. S. BEKINK
 
-**Voor de Verenigde Staten van Amerika,**
+*Voor de Verenigde Staten van Amerika,*
 
 ANDREW J. SHAPIRO

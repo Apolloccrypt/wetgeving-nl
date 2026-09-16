@@ -1,440 +1,403 @@
 ---
 title: "Mondiale Overeenkomst inzake de erkenning van kwalificaties in het hoger onderwijs"
 identifier: "BWBV0006925"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-11-25"
-last_updated: "2019-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006925"
+categorie: "Onderwijs"
 soort: "verdrag"
-stam_id: "10005593413"
-version_id: "10006129912"
-internal_id: "C10009847801"
-label_id: "10005575704"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006925/2019-11-25/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0006925&z=2019-11-25&g=2019-11-25"
-jci_1_0: "1.0:c:BWBV0006925&g=2019-11-25"
-citeertitel_status: "redactioneel"
+laatste_update: 2019-11-25
+status: geldig
+toestand: 2019-11-25
+bron: "https://wetten.overheid.nl/BWBV0006925"
+opgehaald: 2026-09-16
 ---
+
 # Mondiale Overeenkomst inzake de erkenning van kwalificaties in het hoger onderwijs
 
-PREAMBULE
+*PREAMBLE The General Conference of the United Nations Educational, Scientific and Cultural Organization, meeting in Paris from 12 to 27 November 2019 at its 40th session, Inspired by a common will to strengthen educational, geographical, humanitarian, cultural, scientific and socioeconomic ties between States Parties, and to enhance dialogue between regions and the sharing of their recognition instruments and practices, Recalling the Constitution of the United Nations Educational, Scientific and Cultural Organization (UNESCO), which stipulates that “the purpose of the Organization is to contribute to peace and security by promoting collaboration among the nations through education, science and culture”, Mindful of the provisions of the Charter of the United Nations of 1945, the Universal Declaration of Human Rights of 1948, the Convention relating to the Status of Refugees of 1951 and its Protocol of 1967, the Convention relating to the Status of Stateless Persons of 1954, the UNESCO Convention against Discrimination in Education of 1960 and in particular its Article 4a, the International Covenant on Economic, Social and Cultural Rights of 1966, and the UNESCO Convention on Technical and Vocational Education of 1989, Mindful of the UNESCO Recommendation on the Recognition of Studies and Qualifications in Higher Education of 1993; the UNESCO Recommendation concerning the Status of Higher-Education Teaching Personnel of 1997; the United Nations Declaration on the Rights of Indigenous Peoples of 2007; and the UNESCO Recommendation on Science and Scientific Researchers of 2017, Building on the UNESCO regional conventions on the recognition of qualifications concerning higher education, Reaffirming the States Parties’ responsibility to promote inclusive and equitable quality education at all levels and lifelong learning opportunities for all, Conscious of increasing international cooperation in higher education, of the mobility of students, workers, professionals, researchers and academics, of changes in scientific research, and of the different modes, methods, developments and innovations in teaching and learning, Considering higher education, provided by both public and private institutions, as a public good and a public responsibility, and being aware of the need to uphold and protect the principles of academic freedom and of the autonomy of higher-education institutions, Convinced that the international recognition of qualifications concerning higher education will facilitate interdependent learning and knowledge development via the mobility of learners and learning, academics, scientific research and researchers, and workers and professionals and will enhance international cooperation in higher education, Respecting the cultural diversity among the States Parties, including, inter alia, differences in educational traditions and in the values of higher education, Desiring to respond to the need for a global convention on the recognition of qualifications concerning higher education to complement the UNESCO regional conventions on the recognition of qualifications concerning higher education, and to enhance the cohesion between them, Convinced of the need to find common, practical and transparent solutions to improve recognition practices globally, Convinced that this Convention will promote international mobility, as well as communication and cooperation regarding fair and transparent procedures for recognition, and quality assurance and academic integrity in higher education at a global level, Adopts this Convention on this twenty-fifth day of November 2019.*
 
-De Algemene Conferentie van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, bijeengekomen te Parijs van 12 tot en met 27 november 2019 tijdens haar veertigste zitting;
+### SECTION I. DEFINITION OF TERMS
 
-Geïnspireerd door een gemeenschappelijke wil om de educatieve, geografische, humanitaire, culturele, wetenschappelijke en sociaal-economische banden tussen staten die partij zijn te versterken en de dialoog tussen regio’s en het delen van hun instrumenten en praktijken inzake erkenning te verbeteren;
+##### Article I
 
-In herinnering brengend het [Statuut van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur](https://wetten.overheid.nl/jci1.3:c:BWBV0003155) (UNESCO), waarin wordt bepaald dat „de Organisatie ten doel heeft bij te dragen aan de vrede en veiligheid door de samenwerking van de volken door middel van onderwijs, wetenschap en cultuur te bevorderen”;
+For the purposes of this Convention, the following definitions shall apply:
 
-Indachtig de bepalingen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) uit 1945, de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) uit 1948, het [Verdrag betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) uit 1951 en het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0006107) daarbij uit 1967, het [Verdrag betreffende de status van staatlozen](https://wetten.overheid.nl/jci1.3:c:BWBV0001003) uit 1954, het UNESCO-[verdrag nopens de bestrijding van discriminatie in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBV0005155) uit 1960 en met name [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBV0005155&artikel=4) ervan, het [Internationaal Verdrag inzake economische, sociale en culturele rechten](https://wetten.overheid.nl/jci1.3:c:BWBV0001016) uit 1966 en het Verdrag inzake technisch en beroepsonderwijs uit 1989;
+- Access (to higher education): the right provided to any individual holding a qualification to apply and be considered for admission to a level of higher education
 
-Indachtig de Aanbeveling van UNESCO inzake de erkenning van studies en kwalificaties in het hoger onderwijs uit 1993, de Aanbeveling van UNESCO inzake de status van onderwijzend personeel in het hoger onderwijs uit 1997, de Verklaring van de Verenigde Naties inzake de rechten van inheemse volken uit 2007 en de Aanbeveling van UNESCO inzake wetenschap en wetenschappelijk onderzoekers uit 2017;
+- Admission (to higher-education institutions and programmes): the act of, or system for, allowing qualified applicants to pursue higher education at a given institution and/or in a given programme
 
-Voortbouwend op de regionale overeenkomsten van UNESCO inzake de erkenning van kwalificaties in het hoger onderwijs;
+- Applicant:
 
-Opnieuw de verantwoordelijkheid van de staten die partij zijn bevestigend om inclusieve en gelijkwaardige toegang tot hoogwaardig onderwijs op alle niveaus en een leven lang leren voor iedereen te bevorderen;
+   - a) an individual submitting to the competent recognition authority a qualification, partial studies, or prior learning for assessment and/or recognition; or
 
-Zich bewust van de toenemende internationale samenwerking in het hoger onderwijs, van de mobiliteit van studenten, werknemers, beroepsbeoefenaars, onderzoekers en academici, van veranderingen in het wetenschappelijk onderzoek en van de verschillende werkwijzen, methoden, ontwikkelingen en innovaties in onderwijs en leren;
+   - b) an entity acting with consent on behalf of an individual
 
-Hoger onderwijs, aangeboden door zowel publieke als private instellingen, als een publiek goed en een publieke verantwoordelijkheid beschouwend, en zich bewust van de noodzaak de beginselen van academische vrijheid en van de autonomie van instellingen voor hoger onderwijs in stand te houden en te beschermen;
+- Assessment: the evaluation of an applicant’s qualifications, partial studies, or prior learning by a competent recognition authority engaged in the evaluation of qualifications
 
-Ervan overtuigd dat de internationale erkenning van kwalificaties in het hoger onderwijs onderling afhankelijk leren en kennisontwikkeling zal faciliteren door middel van de mobiliteit van studenten en leren, academici, wetenschappelijk onderzoek en onderzoekers, en werknemers en beroepsbeoefenaars en de internationale samenwerking in het hoger onderwijs zal verbeteren;
+- Competent authority: an individual or entity that has the authority, capacity, or legal power to perform a designated function
 
-De culturele verscheidenheid eerbiedigend tussen de staten die partij zijn, waaronder, onder andere, verschillen in onderwijstradities en in de waarden van hoger onderwijs;
+- Competent recognition authority: an entity which, in accordance with the laws, regulations, policies, or practices of a State Party, assesses qualifications and/or makes decisions on the recognition of qualifications
 
-De wens uitsprekend in te spelen op de behoefte aan een mondiale overeenkomst inzake de erkenning van kwalificaties in het hoger onderwijs ter aanvulling van de regionale overeenkomsten van UNESCO inzake de erkenning van kwalificaties in het hoger onderwijs en om de samenhang ertussen te verbeteren;
+- Constituent units: official entities of a State Party to this Convention at the level of subnational jurisdictions, such as provinces, states, counties, or cantons, in accordance with [Article XX b)](https://wetten.overheid.nl/BWBV0006925), Federal or Non-Unitary Constitutional Systems, of this Convention
 
-Overtuigd van de noodzaak gemeenschappelijke, praktische en transparante oplossingen te vinden om erkenningspraktijken wereldwijd te verbeteren;
+- Cross-border education: all modes of educational delivery which involve the movement of people, knowledge, programmes, providers and curriculum across States Parties’ borders, including, but not limited to, quality-assured international joint degree programmes, cross-border higher education, transnational education, offshore education and borderless education
 
-Ervan overtuigd dat deze Overeenkomst internationale mobiliteit zal bevorderen, alsmede communicatie en samenwerking wat betreft eerlijke en transparante procedures voor erkenning en kwaliteitsborging en academische integriteit in het hoger onderwijs op mondiaal niveau;
+- Displaced person: an individual forced to move from his or her locality or environment and occupational activities to another locality or environment
 
-Neemt deze Overeenkomst aan op 25 november 2019.
+- Formal education system: a State Party’s education system, including all officially recognized entities with responsibility for education, as well as public and private education institutions at all levels recognized by a State Party’s competent authorities and authorized thereby to deliver instruction and other education-related services
 
-### HOOFDSTUK I. BEGRIPSBEPALINGEN
+- Formal learning: learning derived from activities within a structured learning setting, leading to a formal qualification, and provided by an education institution recognized by a State Party’s competent authorities and authorized thereby to deliver such learning activities
 
-##### Artikel I
+- Higher education: all types of study programmes or sets of courses of study at the post-secondary level which are recognized by the competent authorities of a State Party, or of a constituent unit thereof, as belonging to its higher-education system
 
-Voor de toepassing van deze Overeenkomst zijn de volgende begripsbepalingen van toepassing:
+- Higher-education institution: an establishment providing higher education and recognized by a competent authority of a State Party, or of a constituent unit thereof, as belonging to its higher-education system
 
-- Toegang (tot het hoger onderwijs): het recht van elke natuurlijke persoon die een kwalificatie bezit om toelating tot een niveau van hoger onderwijs aan te vragen en hiervoor in aanmerking te komen;
+- Higher-education programme: a post-secondary programme of study recognized by the competent authority of a State Party, or of a constituent unit thereof, as belonging to its higher-education system and the successful completion of which provides the student with a higher-education qualification
 
-- Toelating (tot instellingen en programma’s voor hoger onderwijs): de handeling die of het stelsel dat het mogelijk maakt dat gekwalificeerde aanvragers een studie in het hoger onderwijs bij een bepaalde instelling en/of via een bepaald programma volgen.
+- Informal learning: learning which occurs outside the formal education system and which results from daily life activities related to work, family, local community, or leisure
 
-- Aanvrager:
+- International joint degree: a type of cross-border education degree; a single degree recognized and/or authorized and conferred jointly upon completion of an integrated, coordinated and jointly offered programme, by two or more higher education institutions belonging to more than one country
 
-- a. een natuurlijke persoon die een kwalificatie, deelstudies of eerder verworven competenties ter beoordeling en/of erkenning bij de bevoegde erkenningsautoriteiten indient; of
+- Learning outcomes: a learner’s acquired knowledge and skills upon completion of a learning process
 
-- b. een entiteit die met toestemming namens een natuurlijke persoon optreedt.
+- Lifelong learning: a process which refers to all learning activities, whether formal, non-formal, or informal, covers the entire lifespan and has the aim of improving and developing human capacities, knowledge, skills, attitudes and competencies
 
-- Beoordeling: de evaluatie van de kwalificaties, deelstudies of eerder opgedane competenties van een aanvrager door een bevoegde erkenningsautoriteit die betrokken is bij de evaluatie van kwalificaties.
+- Mobility: the physical or virtual movement of individuals outside their country for the purpose of studying, researching, teaching, or working
 
-- Bevoegde autoriteit: een natuurlijke persoon of entiteit die het gezag, de capaciteit of wettelijke bevoegdheid heeft om een aangewezen functie te vervullen.
+- Non-formal learning: learning achieved within an education or training framework which places an emphasis on working life and which does not belong to the formal education system
 
-- Bevoegde erkenningsautoriteit: een entiteit die, overeenkomstig de wetten, voorschriften, het beleid of de praktijken van een staat die partij is, kwalificaties beoordeelt en/of besluiten neemt over de erkenning van kwalificaties.
+- Non-traditional learning modes: formal, non-formal and informal mechanisms for the delivery of educational programmes and learning activities not primarily relying on face-to-face interaction between the educator and the learner
 
-- Samenstellende delen: officiële entiteiten van een staat die partij is bij deze Overeenkomst op het niveau van subnationale rechtsgebieden zoals provincies, deelstaten, districten of kantons, in overeenstemming met [artikel XXb](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=VI&artikel=XX&z=2019-11-25&g=2019-11-25), federale of niet-unitaire grondwettelijke stelsels, van deze Overeenkomst.
+- Partial recognition: the partial recognition of a full and completed qualification which cannot be fully recognized on account of the demonstration of substantial differences by a competent recognition authority
 
-- Grensoverschrijdend onderwijs: alle manieren om onderwijs te geven waarbij personen, kennis, programma’s, aanbieders en curricula de grenzen van de staten die partij zijn overschrijden, met inbegrip van, maar niet beperkt tot, internationale programma’s met kwaliteitsborging die een gezamenlijke graad opleveren, grensoverschrijdend hoger onderwijs, transnationaal onderwijs, offshore-onderwijs en grenzeloos onderwijs.
+- Partial studies: any part of a higher-education programme which has been evaluated and, while not a complete programme in itself, represents a significant acquisition of knowledge, skills, attitudes and competencies
 
-- Ontheemde persoon: een natuurlijke persoon die gedwongen is zijn of haar verblijfplaats of omgeving en beroepsactiviteiten te verlaten om naar een andere verblijfplaats of omgeving te gaan.
+- Prior learning: the experience, knowledge, skills, attitudes and competencies which an individual has acquired as a result of formal, non-formal, or informal learning, assessed against a given set of learning outcomes, objectives, or standards
 
-- Formeel onderwijsstelsel: het onderwijsstelsel van een staat die partij is, met inbegrip van alle officieel erkende entiteiten die voor onderwijs verantwoordelijk zijn, alsmede publieke en private onderwijsinstellingen op alle niveaus die door de bevoegde autoriteiten van een staat die partij is worden erkend en derhalve gemachtigd zijn onderwijs te verzorgen en andere onderwijsgerelateerde diensten te verstrekken.
+- Qualification:
 
-- Formeel leren: scholing opgebouwd uit activiteiten binnen een gestructureerde leeromgeving, die leiden tot een formele kwalificatie, en aangeboden door een onderwijsinstelling die erkend wordt door de bevoegde autoriteiten van een staat die partij is en derhalve gemachtigd is deze leeractiviteiten aan te bieden.
+   - a) Higher-education qualification: any degree, diploma, certificate, or award issued by a competent authority and attesting the successful completion of a higher-education programme or the validation of prior learning, where applicable
 
-- Hoger onderwijs: alle typen studieprogramma’s of reeksen leerplannen op postsecundair niveau die door de bevoegde autoriteiten van een staat die partij is, of een samenstellend deel daarvan, zijn erkend als deel uitmakend van zijn hoger onderwijsstelsel.
+   - b) Qualification giving access to higher education: any degree, diploma, certificate, or award issued by a competent authority and attesting the successful completion of an education programme or the validation of prior learning, where applicable, and giving the holder of the qualification the right to be considered for admission to higher education
 
-- Instelling voor hoger onderwijs: een instelling die hoger onderwijs verzorgt en door de bevoegde autoriteiten van een staat die partij is, of een samenstellend deel daarvan, is erkend als deel uitmakend van zijn hoger onderwijsstelsel.
+- Qualified applicant: an individual who has fulfilled relevant criteria and is considered eligible to apply for admission to higher education
 
-- Programma voor hoger onderwijs: een postsecundair studieprogramma dat door de bevoegde autoriteit van een staat die partij is, of een samenstellend deel daarvan, is erkend als deel uitmakend van zijn hoger onderwijsstelsel, en waarvan de succesvolle afronding de student een kwalificatie in het hoger onderwijs oplevert.
+- Qualifications framework: a system for the classification, publication and organization of quality assured qualifications according to a set of criteria
 
-- Informeel leren: scholing die plaatsvindt buiten het formele onderwijsstelsel en die het resultaat is van dagelijkse activiteiten die verband houden met werk, familie, de plaatselijke gemeenschap of vrijetijdsbesteding.
+- Quality assurance: an ongoing process by which the quality of a higher-education system, institution, or programme is assessed by the competent authority/authorities to assure stakeholders that acceptable educational standards are continuously being maintained and enhanced
 
-- Internationale gezamenlijke graad: een graad die behaald wordt na het volgen van grensoverschrijdend onderwijs; een enkele graad die wordt erkend en/of goedgekeurd en die gezamenlijk wordt toegekend na afronding van een geïntegreerd, gecoördineerd en gezamenlijk aangeboden programma door twee of meer instellingen voor hoger onderwijs die tot meer dan één land behoren.
+- Recognition: a formal acknowledgment by a competent recognition authority of the validity and academic level of a foreign education qualification, of partial studies, or of prior learning for the purpose of providing an applicant with outcomes including, but not limited to:
 
-- Leerresultaten: de kennis en vaardigheden die een lerende heeft opgedaan na het afronden van een leerproces.
+   - a) the right to apply for admission to higher education; and/or
 
-- Leven lang leren: een proces dat verwijst naar alle leeractiviteiten, formeel, niet-formeel of informeel, die gedurende het hele leven ontplooid worden en als doel hebben menselijke capaciteiten, kennis, vaardigheden, zienswijzen en competenties te verbeteren en te ontwikkelen.
+   - b) the possibility to seek employment opportunities
 
-- Mobiliteit: de fysieke of virtuele verplaatsing van natuurlijke personen buiten hun land voor studie, onderzoek, geven van onderwijs of werk.
+- Region: any one of the areas identified in accordance with the UNESCO definition of regions with a view to the execution by the Organization of regional activities, namely, Africa, Arab States, Asia and the Pacific, Europe, and Latin America and the Caribbean
 
-- Niet-formeel leren: scholing die tot stand komt in een onderwijs- of opleidingskader waarin de nadruk op het werkzame leven wordt gelegd en die niet tot een formeel onderwijsstelsel behoort.
+- Regional recognition conventions: the UNESCO conventions on the recognition of qualifications concerning higher education in each of the UNESCO regions, including the Convention on the Recognition of Studies, Diplomas and Degrees in Higher Education in the Arab and European States bordering on the Mediterranean
 
-- Niet-traditionele manieren van leren: formele, niet-formele en informele mechanismen voor het bieden van onderwijsprogramma’s en leeractiviteiten die niet in eerste instantie berusten op persoonlijk contact tussen degene die onderwijs verzorgt en degene die onderwijs volgt.
+- Requirements:
 
-- Gedeeltelijke erkenning: de gedeeltelijke erkenning van een volledige en afgeronde kwalificatie die niet volledig erkend kan worden vanwege het aantonen van aanzienlijke verschillen door een bevoegde erkenningsautoriteit.
+   - a) General requirements: conditions which must be fulfilled for access to higher education, or to a given level thereof, or for the obtaining of a higher-education qualification at a given level
 
-- Deelstudies: elk deel van een programma voor hoger onderwijs dat geëvalueerd is en waarmee, hoewel op zichzelf geen volledig programma, een aanzienlijke mate van kennis, vaardigheden, zienswijzen en competenties wordt verworven.
+   - b) Specific requirements: conditions, in addition to the general requirements, which must be fulfilled for admission to a particular higher-education programme, or for the obtaining of a specific higher-education qualification in a particular field of study
 
-- Eerder verworven competenties: de ervaring, kennis, vaardigheden, zienswijzen en competenties die een natuurlijke persoon heeft opgedaan door formeel, niet-formeel of informeel leren, beoordeeld aan de hand van een gegeven reeks leerresultaten, doelstellingen of normen.
+- Substantial differences: significant differences between the foreign qualification and the qualification of the State Party which would most likely prevent the applicant from succeeding in a desired activity, such as, but not limited to, further study, research activities, or employment opportunities
 
-- Kwalificatie:
+### SECTION II. OBJECTIVES OF THE CONVENTION
 
-- a. Kwalificatie in het hoger onderwijs: elk(e) graad, diploma, getuigschrift of toekenning die is afgegeven door een bevoegde autoriteit en die getuigt van de succesvolle afronding van een programma voor hoger onderwijs of de validatie van eerder verworven competenties, naargelang van toepassing;
+##### Article II
 
-- b. Kwalificatie die toegang geeft tot het hoger onderwijs: elk(e) graad, diploma, getuigschrift of toekenning die is afgegeven door een bevoegde autoriteit en die getuigt van de succesvolle afronding van een programma voor hoger onderwijs of de validatie van eerder verworven competenties en die de houder van de kwalificatie het recht geeft in aanmerking te komen voor toelating tot het hoger onderwijs.
+Building on and enhancing the coordination, revisions and achievements of the regional recognition conventions, the objectives of this Convention are to:
 
-- Gekwalificeerde aanvrager: een natuurlijke persoon die voldaan heeft aan de relevante criteria en geacht wordt in aanmerking te komen voor toelating tot het hoger onderwijs.
+- 1. Promote and strengthen international cooperation in higher education;
 
-- Kwalificatiekader: een systeem voor de classificatie, publicatie en organisatie van kwalificaties met kwaliteitsborging volgens een reeks criteria.
+- 2. Support interregional initiatives, policies and innovations for international cooperation in higher education;
 
-- Kwaliteitsborging: een voortdurend proces waarbij de kwaliteit van een stelsel, instelling of programma op het gebied van hoger onderwijs wordt beoordeeld door de bevoegde autoriteit/autoriteiten om belanghebbenden te verzekeren dat aanvaardbare onderwijsnormen voortdurend worden onderhouden en verbeterd.
+- 3. Facilitate global mobility and the achievement of merit in higher education for the mutual benefit of qualification holders, higher-education institutions, employers, and any other stakeholders of the States Parties to this Convention while understanding and respecting the diversity of the States Parties’ higher-education systems;
 
-- Erkenning: een formele bevestiging door een bevoegde erkenningsautoriteit van de geldigheid en het academisch niveau van een buitenlandse onderwijskwalificatie, van deelstudies of eerder verworven competenties om een aanvrager resultaten te bieden waaronder, maar niet beperkt tot:
+- 4. Provide an inclusive global framework for the fair, transparent, consistent, coherent, timely and reliable recognition of qualifications concerning higher education;
 
-- a. het recht toelating tot het hoger onderwijs aan te vragen en/of
+- 5. Respect, uphold and protect the autonomy and diversity of higher-education institutions and systems;
 
-- b. de mogelijkheid werk te zoeken.
+- 6. Foster trust and confidence in the quality and reliability of qualifications through, inter alia, the promotion of integrity and ethical practices;
 
-- Regio: een van de gebieden die zijn aangewezen in overeenstemming met de omschrijving van regio’s door UNESCO met het oog op de uitvoering door de organisatie van regionale activiteiten, te weten Afrika, Arabische Staten, Azië en de Grote Oceaan, Europa en Latijns-Amerika en de Caraïben.
+- 7. Promote a culture of quality assurance in higher-education institutions and systems, and develop the capacities necessary for ensuring reliability, consistency and complementarity in quality assurance, in qualifications frameworks and in the recognition of qualifications in order to support international mobility;
 
-- Regionale overeenkomsten inzake erkenning: de UNESCO-overeenkomsten inzake de erkenning van kwalificaties in het hoger onderwijs in elk van de UNESCO-regio’s, waaronder het Internationale Verdrag betreffende de erkenning van studies aan, en diploma’s en graden van hoger onderwijs in de Arabische en Europese Staten die grenzen aan de Middellandse Zee.
+- 8. Promote the development, collection and sharing of accessible, up-to-date, reliable, transparent and relevant information and the dissemination of best practices among stakeholders, States Parties and regions;
 
-- Eisen:
+- 9. Promote, through the recognition of qualifications, inclusive and equitable access to quality higher education and support lifelong learning opportunities for all, including refugees and displaced persons;
 
-- a. Algemene eisen: voorwaarden waaraan dient te worden voldaan om in aanmerking te komen voor toegang tot het hoger onderwijs, of tot een bepaald niveau daarvan, of voor het verkrijgen van een kwalificatie in het hoger onderwijs op een bepaald niveau.
+- 10. Foster globally the optimal use of human and educational resources with a view to promoting education for sustainable development, and contribute to structural, economic, technological, cultural, democratic and social development for all societies.
 
-- b. Specifieke eisen: voorwaarden waaraan in aanvulling op de algemene eisen dient te zijn voldaan, teneinde te worden toegelaten tot een bepaald programma in het hoger onderwijs, of ter verkrijging van een specifieke kwalificatie in het hoger onderwijs in een bepaalde studierichting.
+### SECTION III. BASIC PRINCIPLES FOR THE RECOGNITION OF QUALIFICATIONS CONCERNING HIGHER EDUCATION
 
-- Aanzienlijke verschillen: aanzienlijke verschillen tussen de buitenlandse kwalificatie en de kwalificatie van de staat die partij is die de aanvrager naar alle waarschijnlijkheid zouden verhinderen te slagen in een gewenste activiteit, zoals, maar niet beperkt tot, aanvullende studie, onderzoeksactiviteiten of werkgelegenheidskansen.
+##### Article III
 
-### HOOFDSTUK II. DOELSTELLINGEN VAN DE OVEREENKOMST
+For the recognition of qualifications concerning higher education, this Convention establishes the following principles:
 
-##### Artikel II
+- 1. Individuals have the right to have their qualifications assessed for the purpose of applying for admission to higher education studies or seeking employment opportunities.
 
-Deze Overeenkomst, die voortbouwt op de coördinatie, herzieningen en resultaten van de regionale overeenkomsten inzake erkenning en deze versterkt, heeft de volgende doelstellingen:
+- 2. Recognition of qualifications should be transparent fair, timely and non-discriminatory in accordance with the rules and regulations of each State Party, and should be affordable.
 
-- 1. Bevorderen en versterken van internationale samenwerking in het hoger onderwijs;
+- 3. Recognition decisions are based on trust, clear criteria, and fair, transparent and non-discriminatory procedures, and underline the fundamental importance of equitable access to higher education as a public good which may lead to employment opportunities.
 
-- 2. Ondersteunen van initiatieven, beleid en innovaties op interregionaal niveau met het oog op internationale samenwerking in het hoger onderwijs;
+- 4. Recognition decisions are based on appropriate, reliable, accessible and up-to-date information on higher-education systems, institutions, programmes and quality assurance mechanisms which has been provided through the competent authorities of the States Parties, official national information centres, or similar entities.
 
-- 3. Faciliteren van mondiale mobiliteit en aanmoedigen van verdiensten in het hoger onderwijs ten voordele van houders van kwalificaties, hoger onderwijsinstellingen, werkgevers en andere belanghebbenden van de staten die partij zijn bij deze Overeenkomst, met begrip en respect voor de diversiteit van de hoger onderwijsstelsels van de staten die partij zijn;
+- 5. Recognition decisions are made with due respect for the diversity of higher-education systems worldwide.
 
-- 4. Bieden van een inclusief mondiaal kader voor de eerlijke, transparante, consistente, coherente, tijdige en betrouwbare erkenning van kwalificaties in het hoger onderwijs;
+- 6. Competent recognition authorities undertaking recognition assessments shall do so in good faith, giving clear reasons for decisions, and have mechanisms for appealing recognition decisions.
 
-- 5. Respecteren, steunen en beschermen van de autonomie en diversiteit van instellingen en stelsels in het hoger onderwijs;
+- 7. Applicants seeking recognition of their qualifications provide adequate and accurate information and documentation on their achieved qualifications in good faith, and have the right to appeal.
 
-- 6. Versterken van vertrouwen in de kwaliteit en betrouwbaarheid van kwalificaties door, onder andere, het aanmoedigen van praktijken op het gebied van integriteit en ethiek;
+- 8. States Parties commit to adopting measures to eradicate all forms of fraudulent practices regarding higher education qualifications by encouraging the use of contemporary technologies and networking activities among States Parties.
 
-- 7. Bevorderen van een cultuur van kwaliteitsborging in instellingen en stelsels in het hoger onderwijs en ontwikkelen van de capaciteiten die nodig zijn voor het waarborgen van betrouwbaarheid, consistentie en complementariteit bij de kwaliteitsborging, bij kwalificatiekaders en bij de erkenning van kwalificaties teneinde internationale mobiliteit te ondersteunen;
+### SECTION IV. OBLIGATIONS OF THE STATES PARTIES TO THE CONVENTION
 
-- 8. Bevorderen van het ontwikkelen, verzamelen en delen van toegankelijke, actuele, betrouwbare, transparante en relevante informatie en het verspreiden van beste praktijken onder de belanghebbenden, staten die partij zijn en regio’s;
+This Convention establishes the following obligations for the States Parties:
 
-- 9. Bevorderen, door het erkennen van kwalificaties, van inclusieve en gelijkwaardige toegang tot hoogwaardig hoger onderwijs en ondersteunen van mogelijkheden voor een leven lang leren voor iedereen, met inbegrip van vluchtelingen en ontheemden;
+##### Article IV. Recognition of Qualifications Giving Access to Higher Education
 
-- 10. Versterken op mondiaal niveau van het optimaal gebruikmaken van menselijke en onderwijskundige middelen met het oog op het bevorderen van onderwijs ten behoeve van duurzame ontwikkeling en bijdragen aan structurele, economische, technologische, culturele, democratische en maatschappelijke ontwikkeling voor alle samenlevingen.
+1. Each State Party shall recognize, for the purposes of access to its higher-education system, the qualifications and documented or certified prior learning acquired in other States Parties which meet the general requirements for access to higher education in those States Parties, unless substantial differences can be shown between the general requirements for access in the State Party in which the qualification was obtained and those in the State Party in which recognition of the qualification is sought. Alternatively, it shall be sufficient for a State Party to enable the holder of a qualification issued in another State Party to obtain an assessment of that qualification.
 
-### HOOFDSTUK III. BASISBEGINSELEN VOOR HET ERKENNEN VAN KWALIFICATIES IN HET HOGER ONDERWIJS
+2. Qualifications acquired through recognized non-traditional learning modes which are subject to comparable quality assurance mechanisms will be assessed according to the rules and regulations of the State Party, or of the constituent unit thereof, using the same criteria as those applied to similar qualifications acquired through traditional learning modes.
 
-##### Artikel III
+3. Where a qualification gives access only to specific types of institutions or programmes of higher education in the State Party in which the qualification was obtained, each State Party shall grant holders of such qualifications access to similar specific types of institutions or programmes belonging to its higher-education system, if available, unless substantial differences can be shown.
 
-Voor de erkenning van kwalificaties in het hoger onderwijs worden in deze Overeenkomst de volgende beginselen vastgelegd:
+##### Article V. Recognition of Higher-Education Qualifications
 
-- 1. Natuurlijke personen hebben het recht hun kwalificaties te laten beoordelen om toelating tot een studie in het hoger onderwijs te kunnen vragen of een baan te zoeken.
+1. Each State Party shall recognize a higher-education qualification conferred in another State Party, unless substantial differences can be shown between the qualification for which recognition is sought and the corresponding qualification in the State Party in which recognition is sought. Alternatively, it shall be sufficient for a State Party to enable the holder of a higher-education qualification issued in another State Party to obtain an assessment of that qualification, upon the request of the holder.
 
-- 2. De erkenning van kwalificaties dient transparant, eerlijk, tijdig en niet-discriminatoir te zijn in overeenstemming met de regels en voorschriften van elke staat die partij is en dient betaalbaar te zijn.
+2. Higher-education qualifications acquired through recognized non-traditional learning modes which are subject to comparable quality assurance mechanisms and which are considered a part of the higher-education system of a State Party will be assessed according to the rules and regulations of the State Party in which recognition is sought, or of the constituent unit thereof, using the same criteria as those applied to similar qualifications acquired through traditional learning modes.
 
-- 3. Besluiten inzake erkenning zijn gebaseerd op vertrouwen, heldere criteria en eerlijke, transparante en niet-discriminatoire procedures en onderstrepen het fundamenteel belang van gelijkwaardige toegang tot het hoger onderwijs als een publiek goed dat tot werkgelegenheidskansen kan leiden.
+3. Higher-education qualifications acquired through cross-border education with international joint degrees or through any other joint programme undertaken in more than one country, of which at least one is a State Party to this Convention, shall be assessed according to the rules and regulations of the State Party in which recognition is sought, or of the constituent unit thereof, using the same criteria as those applied to qualifications acquired through programmes undertaken in a single country.
 
-- 4. Besluiten inzake erkenning zijn gebaseerd op passende, betrouwbare, toegankelijke en actuele informatie over hoger onderwijsstelsels, instellingen, programma’s en kwaliteitsborgingsmechanismen die is verstrekt via bevoegde autoriteiten van de staten die partij zijn, officiële nationale informatiecentra of soortgelijke entiteiten.
+4. Recognition in a State Party of a higher-education qualification issued in another State Party shall have at least one of the following outcomes:
 
-- 5. Besluiten inzake erkenning worden genomen met respect voor de diversiteit van hoger onderwijsstelsels in de wereld.
+- a) It shall provide the holder with the right to apply for admission to further higher education under the same conditions as those applicable to holders of higher-education qualifications of the State Party in which recognition is sought; and/or
 
-- 6. Bevoegde erkenningsautoriteiten die erkenningsbeoordelingen uitvoeren doen dit in goed vertrouwen en geven duidelijke onderbouwing van hun besluiten en beschikken over mechanismen om in beroep te gaan tegen besluiten inzake erkenning.
+- b) It shall provide the holder with the right to use the title associated with a higher-education qualification in accordance with the laws or regulations of the State Party, or of the constituent unit thereof, in which recognition is sought.
 
-- 7. Aanvragers die om erkenning van hun kwalificaties vragen verstrekken te goeder trouw adequate en accurate informatie over en documentatie van hun bereikte kwalificaties en hebben het recht beroep aan te tekenen.
+In addition, assessment and recognition may enable qualified applicants to seek employment opportunities subject to the laws and regulations of the State Party, or of the constituent unit thereof, in which recognition is sought.
 
-- 8. De staten die partij zijn committeren zich tot het aannemen van maatregelen om alle vormen van frauduleuze praktijken wat betreft kwalificaties in het hoger onderwijs uit te bannen door het gebruik aan te moedigen van moderne technologieën en netwerkactiviteiten tussen staten die partij zijn.
+5. Where a competent recognition authority can demonstrate substantial differences between the qualification for which recognition is sought and the corresponding qualification in the State Party in which recognition is sought, the competent recognition authority shall seek to establish whether partial recognition may be granted.
 
-### HOOFDSTUK IV. VERPLICHTINGEN VAN DE STATEN DIE PARTIJ ZIJN BIJ DE OVEREENKOMST
+6. Each State Party may make the recognition of higher-education qualifications acquired through cross-border education or through foreign educational institutions operating in its jurisdiction contingent upon specific requirements of the legislation or regulations of the State Party, or of the constituent unit thereof, or upon specific agreements concluded with the State Party of origin of such institutions.
 
-##### Artikel IV. Erkenning van kwalificaties die toegang tot het hoger onderwijs geven
+##### Article VI. Recognition of Partial Studies and Prior Learning
 
-1. Elke staat die partij is erkent, ten behoeve van toegang tot zijn hoger onderwijsstelsel, de kwalificaties en gedocumenteerde of gecertificeerde eerder verworven competenties die in andere staten die partij zijn, zijn behaald en die voldoen aan de algemene eisen voor toegang tot het hoger onderwijs in die staten die partij zijn, tenzij er aanzienlijke verschillen kunnen worden aangetoond tussen de algemene eisen voor toegang in de staat die partij is waarin de kwalificatie is behaald en die in de staat die partij is waarin naar erkenning wordt gestreefd. Als alternatief kan een staat die partij is volstaan met het bieden van de mogelijkheid aan de houder van een kwalificatie die is afgegeven in een andere staat die partij is, een beoordeling van die kwalificatie te verkrijgen.
+1. Each State Party may recognize, for the purpose of the completion of a higher-education programme or the continuation of higher education studies, where appropriate, and taking into account the legislation of the States Parties regarding access, documented or certified partial studies or documented or certified prior learning acquired in another State Party, unless substantial differences can be shown between the partial studies or prior learning and the part of the higher-education programme they or it would replace in the State Party in which recognition is sought. Alternatively, it shall be sufficient for a State Party to enable an individual who has undertaken documented or certified partial studies or documented or certified prior learning in another State Party to obtain an assessment of these partial studies or this prior learning, upon the request of the individual concerned.
 
-2. Kwalificaties verkregen via erkende niet-traditionele manieren van leren die onderworpen zijn aan vergelijkbare kwaliteitsborgingsmechanismen worden beoordeeld volgens de regels en voorschriften van de staat die partij is of een samenstellend deel daarvan, gebruikmakend van dezelfde criteria als die toegepast op kwalificaties behaald door traditionele manieren van leren.
+2. Documented or certified partial completion of higher-education programmes delivered by recognized non-traditional learning modes which are subject to comparable quality assurance mechanisms and which are considered a part of the higher-education system of a State Party shall be assessed according to the rules and regulations of the State Party, or of the constituent unit thereof, using the same criteria as those applied to partial studies delivered by traditional learning modes.
 
-3. Wanneer een kwalificatie slechts toegang geeft tot specifieke typen instellingen of programma’s in het hoger onderwijs in de staat die partij is waarin de kwalificatie is behaald, geeft elke staat die partij is de houders van dergelijke kwalificaties toegang tot soortgelijke specifieke instellingen of programma’s in zijn hoger onderwijsstelsel, indien die er zijn, tenzij er aanzienlijke verschillen worden aangetoond.
+3. Documented or certified partial completion of higher-education programmes delivered through cross-border education with international joint degrees or any other joint programme undertaken in more than one country, of which at least one is a State Party to this Convention, will be assessed according to the rules and regulations of the State Party, or of the constituent unit thereof, using the same criteria as those applied to partial studies acquired in a single country.
 
-##### Artikel V. Erkenning van kwalificaties in het hoger onderwijs
+##### Article VII. Recognition of Partial Studies and Qualifications Held by Refugees and Displaced Persons
 
-1. Elke staat die partij is erkent een kwalificatie in het hoger onderwijs die in een andere staat die partij is, is toegekend, tenzij er aanzienlijke verschillen kunnen worden aangetoond tussen de kwalificatie waarvan de erkenning wordt nagestreefd en de corresponderende kwalificatie in de staat die partij is waarin naar erkenning wordt gestreefd. Als alternatief kan een staat die partij is volstaan met het bieden van de mogelijkheid aan de houder van een kwalificatie die is afgegeven in een andere staat die partij is, een beoordeling van die kwalificatie te verkrijgen, op verzoek van de houder.
+Each State Party shall take the necessary and feasible steps, within its education system and in conformity with its constitutional, legislative and regulatory provisions, to develop reasonable procedures for assessing fairly and efficiently whether refugees and displaced persons fulfil the relevant requirements for access to higher education, to further higher-education programmes, or to the seeking of employment opportunities, including in cases where partial studies, prior learning, or qualifications acquired in another country cannot be proven by documentary evidence.
 
-2. Kwalificaties in het hoger onderwijs die zijn verkregen door erkende niet-traditionele manieren van leren die onderworpen zijn aan vergelijkbare kwaliteitsborgingsmechanismen en die als onderdeel worden beschouwd van het hoger onderwijsstelsel van een staat die partij is, worden beoordeeld volgens de regels en voorschriften van een staat die partij is waarin naar erkenning wordt gestreefd, of een samenstellend deel daarvan, gebruikmakend van dezelfde criteria als die worden toegepast op soortgelijke kwalificaties die verkregen zijn met traditionele manieren van leren.
+##### Article VIII. Information for Assessment and Recognition
 
-3. Kwalificaties in het hoger onderwijs die zijn verkregen via grensoverschrijdend onderwijs met internationale gezamenlijke graden of via elk ander gezamenlijk programma dat in meer dan een land wordt gevolgd, waarvan ten minste één staat die partij is bij deze Overeenkomst, worden beoordeeld volgens de regels en voorschriften van de staat die partij is waarin naar erkenning wordt gestreefd, of een samenstellend deel daarvan, gebruikmakend van dezelfde criteria als die worden toegepast op kwalificaties die worden verkregen door programma’s die worden gevolgd in een enkel land.
+1. Each State Party shall establish transparent systems for the complete description of the qualifications and learning outcomes obtained in its territory.
 
-4. Erkenning in een staat die partij is van een kwalificatie in het hoger onderwijs afgegeven in een andere staat die partij is heeft ten minste een van de volgende resultaten:
+2. Each State Party, to the extent feasible based on its constitutional, legislative and regulatory situation and structure, shall put in place an objective and reliable system for the approval, recognition and quality assurance of its higher-education institutions in order to promote confidence and trust in its higher-education system.
 
-- a. Het geeft de houder het recht toelating aan te vragen tot het hoger onderwijs onder dezelfde voorwaarden als van toepassing zijn op houders van kwalificaties in het hoger onderwijs van de staat die partij is waarin naar erkenning wordt gestreefd; en/of
+3. Each State Party shall establish and maintain a national information centre or similar entities to provide access to relevant, accurate and up-to-date information about its higher-education system.
 
-- b. Het geeft de houder het recht de titel te gebruiken die verbonden is aan de kwalificatie in het hoger onderwijs in overeenstemming met de wetten of voorschriften van de staat die partij is, of van het samenstellend deel daarvan, waarin naar erkenning wordt gestreefd.
+4. Each State Party shall encourage the use of technologies to ensure easy access to information.
 
-Daarnaast kan de beoordeling en erkenning gekwalificeerde aanvragers in staat stellen werk te zoeken, met inachtneming van de wetten en voorschriften van de staat die partij is, of van het samenstellend deel daarvan, waarin naar erkenning wordt gestreefd.
+5. Each State Party shall:
 
-5. Wanneer een bevoegde erkenningsautoriteit aanzienlijke verschillen kan aantonen tussen de kwalificatie waarvan de erkenning wordt nagestreefd en de corresponderende kwalificatie in de staat die partij is waarin naar erkenning wordt gestreefd, spant de bevoegde erkenningsautoriteit zich in om vast te stellen of gedeeltelijke erkenning kan worden toegestaan.
+- a) Provide access to authoritative and accurate information on its higher-education systems, qualifications, quality assurance, and qualification frameworks, if applicable;
 
-6. Elke staat die partij is kan de erkenning van kwalificaties in het hoger onderwijs die behaald zijn door grensoverschrijdend onderwijs of bij buitenlandse onderwijsinstellingen die in zijn rechtsgebied werkzaam zijn afhankelijk maken van specifieke eisen binnen de wet- of regelgeving van de staat die partij is, of een samenstellend deel daarvan, of van specifieke overeenkomsten die gesloten zijn met de staat van oorsprong van deze instellingen die partij is.
+- b) Facilitate the dissemination of and access to accurate information on the other States Parties’ higher-education systems, qualifications, and qualifications giving access to higher education;
 
-##### Artikel VI. Erkenning van deelstudies en van eerder verworven competenties
+- c) Give advice and information, where appropriate, on recognition matters, including criteria and procedures for the assessment of qualifications, and the development of materials for good recognition practices in accordance with the laws, regulations and policies of the State Party; and
 
-1. Elke staat die partij is kan, met het oog op de afronding van een programma voor hoger onderwijs of de voortzetting van een studie in het hoger onderwijs, naargelang van toepassing, en rekening houdend met de wetgeving van de staten die partij zijn betreffende toegang, gedocumenteerde of gecertificeerde deelstudies of gedocumenteerde of gecertificeerde eerder in een andere staat die partij is verworven competenties erkennen, tenzij er aanzienlijke verschillen kunnen worden aangetoond tussen de deelstudies of eerder verworven competenties en het deel van het hoger onderwijsprogramma dat deze zou vervangen in de staat die partij is waarin naar erkenning wordt gestreefd. Als alternatief kan een staat die partij is volstaan met het bieden van de mogelijkheid aan een natuurlijke persoon die gedocumenteerde of gecertificeerde deelstudies heeft gevolgd in of gedocumenteerde of gecertificeerde eerder verworven competenties bezit uit een andere staat die partij is, een beoordeling te verkrijgen van deze deelstudies of eerder verworven competenties, op verzoek van de desbetreffende natuurlijke persoon.
+- d) Ensure the provision, within a reasonable time, of adequate information on any institution belonging to its higher-education system, and on any programme operated by such institutions, with a view to enabling the competent authorities of other States Parties to ascertain whether the quality of the qualifications issued by these institutions justifies recognition in the State Party in which recognition is sought.
 
-2. Gedocumenteerde of gecertificeerde gedeeltelijke voltooiing van een programma voor hoger onderwijs volgens erkende niet-traditionele manieren van leren waarop vergelijkbare kwaliteitsborgingsmechanismen van toepassing zijn en die als onderdeel van het hoger onderwijsstelsel van een staat die partij is worden beschouwd, worden beoordeeld volgens de regels en voorschriften van de staat die partij is, of van een samenstellend deel daarvan, gebruikmakend van dezelfde criteria als die worden toegepast op deelstudies volgens traditionele manieren van leren.
+##### Article IX. Assessment of an Application
 
-3. Gedocumenteerde of gecertificeerde gedeeltelijke voltooiing van een programma in het hoger onderwijs via grensoverschrijdend onderwijs met internationale gezamenlijke graden of via elk ander gezamenlijk programma dat in meer dan een land wordt gevolgd, waarvan ten minste één staat die partij is bij deze Overeenkomst, wordt beoordeeld volgens de regels en voorschriften van de staat die partij is, of een samenstellend deel daarvan, gebruikmakend van dezelfde criteria als die worden toegepast op deelstudies die worden gevolgd in een enkel land.
+1. In the first instance, the responsibility for providing adequate information rests with the applicant, who shall provide such information in good faith.
 
-##### Artikel VII. Erkenning van deelstudies en kwalificaties in bezit van vluchtelingen en ontheemden
+2. Each State Party shall ensure that the institutions belonging to its education system provide to the extent available, upon request, within a reasonable time frame and free of charge, relevant information to the holder of a qualification or to the institution or the competent recognition authorities of the State Party in which recognition is sought.
 
-Elke staat die partij is neemt de noodzakelijke en haalbare maatregelen, binnen zijn onderwijsstelsel en conform zijn grondwettelijke, wettelijke en regelgevende bepalingen, om redelijke procedures te ontwikkelen voor de eerlijke en efficiënte beoordeling of vluchtelingen en ontheemden voldoen aan de relevante eisen voor toegang tot het hoger onderwijs, tot verdere programma’s in het hoger onderwijs of tot het vinden van een baan, met inbegrip van gevallen waarin deelstudies, eerder verworven competenties of kwalificaties verworven in een ander land niet kunnen worden onderbouwd met documentatie.
+3. Each State Party shall ensure that the body undertaking assessment for the purposes of recognition demonstrates the reasons for which an application does not fulfil requirements or demonstrates where substantial differences are identified.
 
-##### Artikel VIII. Informatie ten behoeve van beoordeling en erkenning
+##### Article X. Information on the Competent Recognition Authorities
 
-1. Elke staat die partij is zet transparante systemen op voor de volledige beschrijving van de kwalificaties en leerresultaten die op zijn grondgebied zijn behaald.
+1. Each State Party shall provide the depository of this Convention with official notification of the competent authorities that make decisions on recognition matters in its jurisdiction.
 
-2. Elke staat die partij is zet, voor zover haalbaar op basis van zijn grondwettelijke, wettelijke en regelgevende situatie en structuur, een objectief en betrouwbaar systeem op voor de goedkeuring, erkenning en kwaliteitsborging van zijn instellingen voor hoger onderwijs teneinde het vertrouwen in zijn hoger onderwijsstelsel te bevorderen.
+2. Where there are central competent recognition authorities of a State Party, they shall immediately be bound by the provisions of this Convention and shall take the necessary measures to ensure the implementation of the provisions of this Convention in the jurisdiction of said State Party.
 
-3. Elke staat die partij is zet een nationaal informatiecentrum of soortgelijke entiteiten op en onderhoudt dit om toegang te verlenen tot relevante, accurate en actuele informatie over zijn hoger onderwijsstelsel.
+3. Where the competence to make decisions on recognition matters lies with the constituent units, the State Party shall furnish the depository with a brief statement on its constitutional situation or structure at the time of signature or when depositing its instrument of ratification, acceptance, approval, or accession, and on any changes thereafter. In such cases, the competent recognition authorities of the constituent units so designated shall take, to the extent feasible within the State Party’s constitutional situation and structure, the necessary measures to ensure the implementation of the provisions of this Convention within the State Party’s jurisdiction.
 
-4. Elke staat die partij is moedigt het gebruik van technologie aan om gemakkelijke toegang tot informatie te waarborgen.
+4. Where the competence to make decisions on recognition matters lies with individual higher-education institutions or other entities, each State Party or constituent unit thereof, according to its constitutional situation or structure, shall transmit the text of this Convention to these institutions or entities and shall take all the necessary steps to encourage the favourable consideration and application of its provisions.
 
-5. Elke staat die partij is:
+5. The provisions of paragraphs 2, 3 and 4 of this Article shall apply, mutatis mutandis, to the obligations of the States Parties under this Convention.
 
-- a. Biedt toegang tot gezaghebbende en accurate informatie over zijn hoger onderwijsstelsel, kwalificaties, kwaliteitsborging en kwalificatiekaders, indien van toepassing;
+##### Article XI. Additional Requirements for Admission to Higher-Education Programmes
 
-- b. Vergemakkelijkt de verspreiding van en toegang tot accurate informatie over de hoger onderwijsstelsels, kwalificaties en kwalificaties die toegang tot het hoger onderwijs geven van andere staten die partij zijn;
+1. Where admission to particular higher-education programmes is dependent on the fulfilment of specific requirements in addition to the general requirements for access, the competent authorities of the State Party concerned may impose the same specific requirements on holders of qualifications obtained in other States Parties or assess whether applicants with qualifications obtained in other States Parties fulfil the equivalent requirements.
 
-- c. Geeft advies en informatie, wanneer van toepassing, over erkenningskwesties, waaronder criteria en procedures voor de beoordeling van kwalificaties en de ontwikkeling van materialen voor goede erkenningspraktijken in overeenstemming met de wetten, regels en het beleid van de staat die partij is; en
+2. Where qualifications giving access to higher education in one State Party are issued only in combination with additional qualifying examinations as a prerequisite for access, the other States Parties may make access conditional on these requirements or offer an alternative for satisfying such additional requirements within their own education systems.
 
-- d. Waarborgt het verstrekken, binnen een redelijke termijn, van adequate informatie over elke instelling die tot zijn hoger onderwijsstelsel behoort en over elk programma dat door dergelijke instellingen wordt uitgevoerd, teneinde het de bevoegde autoriteiten van de andere staten die partij zijn mogelijk te maken vast te stellen of de kwaliteit van de kwalificaties die zijn afgegeven door deze instellingen de erkenning rechtvaardigen in de staat die partij is waarin naar erkenning wordt gestreefd.
+3. Without prejudice to the provisions of [Article IV](https://wetten.overheid.nl/BWBV0006925), admission to a given higher-education institution, or to a given programme within such an institution, may be restricted or selective, according to fair and transparent regulations.
 
-##### Artikel IX. Beoordeling van een aanvraag
+4. With respect to paragraph 3 of the present article, admission procedures shall be designed with a view to ensuring that the assessment of foreign qualifications is carried out according to the principles of transparency, fairness and non-discrimination described in [Article III](https://wetten.overheid.nl/BWBV0006925).
 
-1. In eerste instantie ligt de verantwoordelijkheid voor het verstrekken van adequate informatie bij de aanvrager, die deze informatie in goed vertrouwen verstrekt.
+5. Without prejudice to the provisions of [Article IV](https://wetten.overheid.nl/BWBV0006925), admission to a given higher-education institution may be based on the condition of the demonstration by the qualification holder of sufficient competence in the language or languages of instruction of the institution concerned, or in other specified languages.
 
-2. Elke staat die partij is waarborgt dat de instellingen die tot zijn onderwijsstelsel behoren op verzoek, binnen een redelijke termijn en zonder kosten in rekening te brengen, relevante informatie verstrekken, voor zover beschikbaar, aan de houder van een kwalificatie of aan de instelling of de bevoegde erkenningsautoriteiten van de staat die partij is waarin naar erkenning wordt gestreefd.
+6. For the purpose of admission to higher-education programmes, each State Party may make the recognition of qualifications issued by foreign educational institutions operating in its jurisdiction contingent upon specific requirements of the legislation and regulations of the State Party or the constituent unit thereof, or upon specific agreements concluded with the State Party of origin of such institutions.
 
-3. Elke staat die partij is waarborgt dat het lichaam dat de beoordeling uitvoert ten behoeve van erkenning met redenen omkleedt waarom een aanvraag niet aan de eisen voldoet of aantoont dat er aanzienlijke verschillen bestaan.
+### SECTION V. IMPLEMENTATION STRUCTURES AND COOPERATION
 
-##### Artikel X. Informatie over de bevoegde erkenningsautoriteiten
+##### Article XII. Implementation Structures
 
-1. Elke staat die partij is stelt de depositaris van deze Overeenkomst door middel van een officiële kennisgeving op de hoogte van de bevoegde autoriteiten die besluiten nemen over erkenningskwesties in zijn rechtsgebied.
+The States Parties agree to implement this Convention through or in cooperation with:
 
-2. Wanneer er centrale bevoegde erkenningsautoriteiten in een staat die partij is zijn, zijn deze onmiddellijk gebonden door de bepalingen van deze Overeenkomst en nemen zij de noodzakelijke maatregelen om de invoering van de bepalingen van deze Overeenkomst in het rechtsgebied van deze staat die partij is te waarborgen.
+- 1. National implementation structures;
 
-3. Wanneer de bevoegdheid om besluiten te nemen over erkenningskwesties bij de samenstellende delen ligt, voorziet de staat die partij is de depositaris van een korte verklaring omtrent zijn constitutionele situatie of structuur ten tijde van de ondertekening of wanneer zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding wordt nedergelegd en bij elke wijziging nadien. In dergelijke gevallen nemen de bevoegde erkenningsautoriteiten van de aldus aangewezen samenstellende delen, voor zover mogelijk binnen de constitutionele situatie en structuur van de staat die partij is, de noodzakelijke maatregelen om de invoering van de bepalingen van deze Overeenkomst in het rechtsgebied van deze staat die partij is te waarborgen
+- 2. Networks of national implementation structures;
 
-4. Wanneer de bevoegdheid om besluiten te nemen over erkenningskwesties bij de individuele instellingen voor hoger onderwijs of andere entiteiten ligt, verzendt elke staat die partij is of samenstellend deel daarvan, overeenkomstig zijn constitutionele situatie of structuur, de tekst van deze Overeenkomst naar deze instellingen of entiteiten en neemt alle noodzakelijke stappen om de welwillende beoordeling en toepassing van de bepalingen ervan te bevorderen.
+- 3. National, regional and global organizations for accreditation, quality assurance, qualification frameworks, and recognition of qualifications;
 
-5. De bepalingen van het tweede, derde en vierde lid van dit artikel zijn van overeenkomstige toepassing op de verplichtingen van de staten die partij zijn bij deze Overeenkomst.
+- 4. The Intergovernmental Conference of the States Parties;
 
-##### Artikel XI. Aanvullende eisen voor toelating tot programma’s in het hoger onderwijs
+- 5. Regional recognition convention committees.
 
-1. Wanneer toelating tot bepaalde programma’s in het hoger onderwijs afhangt van het voldoen aan specifieke eisen in aanvulling op algemene eisen voor toegang, kunnen de bevoegde autoriteiten van de betreffende staat die partij is dezelfde specifieke eisen opleggen aan houders van kwalificaties die in andere staten die partij zijn behaald zijn of beoordelen of aanvragers met kwalificaties die in andere staten die partij behaald zijn aan gelijkwaardige eisen voldoen.
+##### Article XIII. National Implementation Structures
 
-2. Wanneer kwalificaties die toegang geven tot het hoger onderwijs in een staat die partij is alleen worden gegeven in combinatie met aanvullende kwalificatie-examens als voorwaarde voor toegang, kunnen de andere staten die partij zijn toegang afhankelijk maken van deze eisen of een alternatief bieden voor het voldoen aan deze aanvullende eisen binnen hun eigen onderwijsstelsels.
+1. In order to facilitate the recognition of higher-education qualifications, the States Parties undertake to implement this Convention through relevant organizations, including national information centres or similar entities.
 
-3. Onverminderd de bepalingen van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=IV&artikel=IV&z=2019-11-25&g=2019-11-25), kan toelating tot een bepaalde instelling voor hoger onderwijs, of tot een bepaald programma binnen een dergelijke instelling, beperkt of selectief zijn, volgens eerlijke en transparante regels.
+2. Each State Party will notify the Secretariat of the Intergovernmental Conference of the States Parties of its national implementation structures and of any modification in this regard.
 
-4. Met betrekking tot het derde lid van dit artikel, worden toelatingsprocedures zodanig opgezet dat gewaarborgd wordt dat de beoordeling van buitenlandse kwalificaties wordt uitgevoerd volgens de beginselen van transparantie, eerlijkheid en non-discriminatie zoals omschreven in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=III&artikel=III&z=2019-11-25&g=2019-11-25).
+3. National implementation structures should form and actively participate in networks.
 
-5. Onverminderd de bepalingen van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=IV&artikel=IV&z=2019-11-25&g=2019-11-25), kan toelating tot een bepaalde instelling in het hoger onderwijs gebaseerd zijn op de voorwaarde dat de houder van de kwalificatie kan aantonen over voldoende vaardigheid te beschikken in de taal of talen waarin op de instelling onderwijs wordt verzorgd, of in andere gespecificeerde talen.
+##### Article XIV. Networks of National Implementation Structures
 
-6. Ten behoeve van de toelating tot programma’s in het hoger onderwijs, kan elke staat die partij is de erkenning van kwalificaties die zijn afgegeven door buitenlandse hoger onderwijsinstellingen die werkzaam zijn binnen zijn rechtsgebied, afhankelijk maken van specifieke eisen binnen de wet- of regelgeving van de staat die partij is, of een samenstellend deel daarvan, of van specifieke overeenkomsten die gesloten zijn met de staat van oorsprong van deze instellingen die partij is.
+1. Under the auspices of the Intergovernmental Conference of the States Parties, the networks shall be composed of national implementation structures of the States Parties and shall uphold and assist with the practical implementation of this Convention.
 
-### HOOFDSTUK V. UITVOERINGSSTRUCTUREN EN SAMENWERKING
+2. The networks shall provide information exchange, capacity building and technical support to the States Parties upon request.
 
-##### Artikel XII. Uitvoeringsstructuren
+3. The networks shall seek to strengthen the interregional cooperation under this Convention and uphold links to the Intergovernmental Conference of the States Parties.
 
-De staten die partij zijn komen overeen deze Overeenkomst uit te voeren door middel van of in samenwerking met:
+4. States Parties may participate in existing regional networks established through the regional recognition conventions or create new networks. Participation in existing regional networks shall be subject to the agreement of the relevant regional recognition convention committees.
 
-- 1. Nationale uitvoeringsstructuren;
+##### Article XV. The Intergovernmental Conference of the States Parties
 
-- 2. Netwerken van nationale uitvoeringsstructuren;
+1. An Intergovernmental Conference of the States Parties, hereinafter referred to as “the Conference”, shall be established.
 
-- 3. Nationale, regionale en mondiale organisaties voor accreditatie, kwaliteitsborging, kwalificatiekaders en erkenning van kwalificaties;
+2. The Conference shall be composed of representatives of all States Parties to this Convention.
 
-- 4. De Intergouvernementele Conferentie van de staten die partij zijn;
+3. The States which are not States Parties to this Convention and the heads of the regional recognition convention committees shall be invited to participate in the meetings of the Conference as observers.
 
-- 5. Comités van de regionale erkenningsovereenkomsten.
+4. Representatives of relevant international and regional organizations, as well as representatives of governmental and non-governmental organizations active in the field of recognition of higher-education qualifications, may also be invited to attend meetings of the Conference as observers.
 
-##### Artikel XIII. Nationale uitvoeringsstructuren
+5. The Conference shall meet in ordinary sessions at least every two years. It may meet in extraordinary sessions if it so decides or at the request of at least one third of the States Parties. The Conference shall have an interim work programme concerning activities between sessions. The Conference shall submit a report at each of the ordinary sessions of the General Conference of UNESCO.
 
-1. Om de erkenning van kwalificaties in het hoger onderwijs te vergemakkelijken, verplichten de staten die partij zijn zich ertoe deze Overeenkomst uit te voeren door middel van relevante organisaties, met inbegrip van nationale informatiecentra of soortgelijke entiteiten.
+6. The Conference shall meet for the first time within two years of the entry into force of this Convention, and at that time it shall adopt its own rules of procedure.
 
-2. Elke staat die partij is stelt het Secretariaat van de Internationale Conferentie van de staten die partij zijn in kennis van zijn nationale uitvoeringsstructuren en van elke wijziging in dit opzicht.
+7. The Conference shall promote the application of this Convention and shall oversee its implementation by adopting recommendations, declarations, models of good practices, or any relevant subsidiary text at the global or interregional level.
 
-3. Nationale uitvoeringsstructuren dienen netwerken op te zetten en daaraan actief deel te nemen.
+8. The Conference may adopt operational guidelines for the States Parties to this Convention, in consultation with the regional recognition convention committees.
 
-##### Artikel XIV. Netwerken van nationale uitvoeringsstructuren
+9. The Conference shall support the follow-up of the activities relating to monitoring by and reporting to UNESCO’s governing bodies with regard to the implementation of this Convention.
 
-1. Onder auspiciën van de Intergouvernementele Conferentie van de staten die partij zijn, bestaan de netwerken uit de nationale uitvoeringsstructuren van de staten die partij zijn en ondersteunen en helpen ze bij de praktische uitvoering van deze Overeenkomst.
+10. The Conference shall cooperate with the regional recognition convention committees under the auspices of UNESCO.
 
-2. De netwerken bieden de staten die partij zijn op verzoek uitwisseling van informatie, capaciteitsopbouw en technische ondersteuning.
+11. The Conference shall ensure that there is the necessary information exchange between the Conference and the regional recognition convention committees.
 
-3. De netwerken streven naar versterking van de interregionale samenwerking uit hoofde van deze Overeenkomst en ondersteunen banden met de Intergouvernementele Conferentie van de staten die partij zijn.
+12. The Conference shall examine for adoption the draft amendments to this Convention in accordance with [Article XXIII](https://wetten.overheid.nl/BWBV0006925). The amendments adopted shall not undermine the principles of transparent, fair, timely and non-discriminatory recognition stated in this Convention.
 
-4. Staten die partij zijn kunnen deelnemen aan bestaande regionale netwerken die zijn opgericht via regionale erkenningsovereenkomsten of nieuwe netwerken opzetten. Deelname aan bestaande regionale netwerken is afhankelijk van de instemming van de relevante comités van de regionale erkenningsovereenkomsten.
+13. The Secretariat of the Conference shall be provided by the Director-General of UNESCO. The Secretariat shall prepare the documentation of the Conference, draft the agenda of its meetings, and ensure the implementation of its decisions.
 
-##### Artikel XV. De Intergouvernementele Conferentie van de staten die partij zijn
+### SECTION VI. FINAL CLAUSES
 
-1. Er wordt een Intergouvernementele Conferentie van de staten die partij zijn opgericht, hier na „de Conferentie” genoemd.
+##### Article XVI. Ratification, Acceptance, or Approval by Member States
 
-2. De Conferentie bestaat uit vertegenwoordigers van alle staten die partij zijn bij deze Overeenkomst.
+1. This Convention shall be subject to ratification, acceptance, or approval by Member States of UNESCO and the Holy See in accordance with their respective constitutional and legislative procedures.
 
-3. De staten die geen partij zijn bij deze Overeenkomst en de hoofden van de comités van de regionale overeenkomsten inzake erkenning worden uitgenodigd als waarnemers deel te nemen aan bijeenkomsten van de Conferentie.
+2. The instruments of ratification, acceptance, or approval shall be deposited with the Director-General of UNESCO.
 
-4. Vertegenwoordigers van relevante internationale en regionale organisaties alsmede vertegenwoordigers van gouvernementele en niet-gouvernementele organisaties die actief zijn op het gebied van erkenning van kwalificaties in het hoger onderwijs, kunnen ook worden uitgenodigd als waarnemers deel te nemen aan bijeenkomsten van de Conferentie.
+##### Article XVII. Accession
 
-5. De Conferentie komt ten minste eenmaal per twee jaar in gewone zitting bijeen. Zij kan in buitengewone zitting bijeenkomen indien zij daartoe beslist of op verzoek van ten minste een derde van de staten die partij zijn. De Conferentie heeft een interim werkprogramma met betrekking tot activiteiten tussen zittingen. De Conferentie overlegt een verslag tijdens elke gewone zitting van de Algemene Conferentie van UNESCO.
+1. This Convention shall be open to accession by all States which are not members of UNESCO but which are Members of the United Nations and are invited by the General Conference of UNESCO to accede to it.
 
-6. De Conferentie komt voor de eerste maal bijeen binnen twee jaar na de inwerkingtreding van deze Overeenkomst en neemt dan haar eigen reglement van orde aan.
+2. This Convention shall also be open to accession by territories which enjoy full internal self-government recognized as such by the United Nations, but which have not attained full independence in accordance with General Assembly resolution 1514 (XV), and which have competence over the matters governed by this Convention, including the competence to enter into treaties in respect of such matters.
 
-7. De Conferentie bevordert de toepassing van deze Overeenkomst en houdt toezicht op de invoering daarvan door het aannemen van aanbevelingen, verklaringen, modellen van goede praktijken of relevante ondersteunende teksten op mondiaal of interregionaal niveau.
+3. The instrument of accession shall be deposited with the Director-General of UNESCO.
 
-8. De Conferentie kan operationele richtlijnen aannemen voor de staten die partij zijn bij deze Overeenkomst, in overleg met de comités van de regionale erkenningsovereenkomsten.
+##### Article XVIII. Entry into Force
 
-9. De Conferentie ondersteunt de opvolging van activiteiten die verband houden met de monitoring door en verslaglegging aan de bestuursorganen van UNESCO met betrekking tot de uitvoering van deze Overeenkomst.
+1. This Convention shall enter into force three months after the date of deposit of the twentieth instrument of ratification, acceptance, approval, or accession, but only with regard to those States Parties which have deposited their respective instruments of ratification, acceptance, approval, or accession on or before that date.
 
-10. De Conferentie werkt samen met de comités van de regionale erkenningsovereenkomsten onder de auspiciën van UNESCO.
+2. This Convention shall enter into force with regard to any other State Party three months after the deposit of its instrument of ratification, acceptance, approval, or accession.
 
-11. De Conferentie waarborgt dat er een uitwisseling is van noodzakelijke informatie tussen de Conferentie en de comités van de regionale erkenningsovereenkomsten.
+##### Article XIX. Relationship between the States Parties to this Convention and the Parties to the Regional Recognition Conventions and to other Treaties
 
-12. De Conferentie bestudeert de conceptwijzigingen van deze Overeenkomst in overeenstemming met [artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=VI&artikel=XXII&z=2019-11-25&g=2019-11-25) met het oog op de aanneming ervan. De aangenomen wijzigingen mogen geen afbreuk doen aan de beginselen van transparante, eerlijke, tijdige en niet-discriminatoire erkenning zoals vervat in deze Overeenkomst.
+1. The ratification of, acceptance of, approval of, or accession to of any of the regional recognition conventions shall not be a prerequisite for the ratification of, acceptance of, approval of, or accession to this Convention.
 
-13. Het Secretariaat van de Conferentie wordt verzorgd door de Directeur-Generaal van UNESCO. Het Secretariaat stelt de documentatie van de Conferentie op, alsmede de ontwerpagenda van haar bijeenkomsten, en waarborgt de implementatie van de besluiten ervan.
+2. The States Parties to this Convention shall:
 
-### HOOFDSTUK VI. SLOTBEPALINGEN
+- a) Foster mutual support between this Convention and the other treaties to which they are parties, particularly the regional recognition conventions; and
 
-##### Artikel XVI. Bekrachtiging, aanvaarding of goedkeuring door lidstaten
+- b) Take into account the relevant provisions of this Convention when interpreting and applying the regional recognition conventions to which they are parties or when entering into other international obligations.
 
-1. Deze Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd door lidstaten van UNESCO en Vaticaanstad in overeenstemming met hun onderscheiden grondwettelijke en wettelijke procedures.
+3. Nothing in this Convention shall be interpreted as modifying the rights and obligations of the States Parties under the regional recognition conventions and any other treaties to which they are parties.
 
-2. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Directeur-Generaal van UNESCO.
+4. To ensure coherent interaction between this Convention, the regional recognition conventions, any other relevant bilateral or multilateral agreements, and any other existing or future treaty or convention to which a State Party to this Convention may be or may become a party, nothing in this Convention shall be deemed to derogate from any provisions more favourable to recognition, in particular, provisions regarding national information centres, networks and substantial differences.
 
-##### Artikel XVII. Toetreding
+##### Article XX. Federal or Non-Unitary Constitutional Systems
 
-1. Deze Overeenkomst staat open voor toetreding door alle staten die geen lid zijn van UNESCO maar die lid zijn van de Verenigde Naties en door de Algemene Conferentie van UNESCO worden uitgenodigd ertoe toe te treden.
+Recognizing that international agreements are equally binding on States Parties regardless of their constitutional systems, the following provisions shall apply to States Parties which have a federal or non-unitary constitutional system:
 
-2. Deze Overeenkomst staat tevens open voor toetreding door gebieden die een door de Verenigde Naties als dusdanig erkende volledige interne autonomie genieten, maar niet volledig onafhankelijk zijn overeenkomstig Resolutie 1514 (XV) van de Algemene Vergadering, en die bevoegd zijn voor de aangelegenheden die in dit Verdrag worden geregeld, alsook om over deze aangelegenheden verdragen te sluiten.
+- a) With regard to the provisions of this Convention the implementation of which comes under the legal jurisdiction of the federal or central legislative power, the obligations of the federal or central Government shall be the same as for those States Parties which are not federal States;
 
-3. De akte van toetreding dient te worden nedergelegd bij de Directeur-Generaal van UNESCO.
+- b) With regard to the provisions of the Convention the implementation of which comes under the jurisdiction of constituent units of a State Party, such as provinces, states, counties, or cantons, which are not obliged by the constitutional system of the federation to take legislative measures, the federal Government shall inform, as necessary, the competent authorities of the constituent units of a State Party of said provisions, with its recommendation for their adoption.
 
-##### Artikel XVIII. Inwerkingtreding
+##### Article XXI. Denunciation
 
-1. Deze Overeenkomst treedt in werking drie maanden na de datum van de nederlegging van de twintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, evenwel uitsluitend ten aanzien van die staten die partij zijn die hun onderscheiden akten van bekrachtiging, aanvaarding, goedkeuring of toetreding op of voor die datum hebben nedergelegd.
+1. Any State Party to this Convention may denounce, at any time, this Convention.
 
-2. Voor elk van de andere staten die partij zijn treedt deze Overeenkomst in werking drie maanden na de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+2. The denunciation shall be notified by an instrument in writing deposited with the Director-General of UNESCO.
 
-##### Artikel XIX. Verhouding van de staten die partij zijn tot deze Overeenkomst en de partijen bij de regionale overeenkomsten inzake erkenning en andere verdragen
+3. The denunciation shall take effect 12 months after the receipt of the instrument of denunciation. It shall in no way affect the obligations under this Convention incumbent upon the State Party denouncing the Convention until the date on which the withdrawal takes effect.
 
-1. De bekrachtiging, aanvaarding of goedkeuring van of toetreding tot een van de regionale overeenkomsten inzake erkenning is geen noodzakelijke voorwaarde voor de bekrachtiging, aanvaarding of goedkeuring van of toetreding tot deze Overeenkomst.
+4. The denunciation of this Convention shall not have any impact with respect to:
 
-2. De staten die partij zijn bij deze Overeenkomst:
+- a) Recognition decisions taken previously under the provisions of this Convention;
 
-- a. Bevorderen wederzijdse ondersteuning tussen deze Overeenkomst en andere verdragen waar zij partij bij zijn, in het bijzonder de regionale overeenkomsten inzake erkenning; en
+- b) The recognition assessments still in progress under this Convention.
 
-- b. Houden rekening met de relevante bepalingen van deze Overeenkomst bij het uitleggen en toepassen van de regionale overeenkomsten inzake erkenning waar zij partij bij zijn of wanneer zij andere internationale verplichtingen aangaan.
+##### Article XXII. Depositary Functions
 
-3. Niets in deze Overeenkomst mag zo worden uitgelegd dat het de rechten en verplichtingen van de staten die partij zijn ingevolge de regionale overeenkomsten inzake erkenning en andere verdragen waar zij partij bij zijn verandert.
+The Director-General of UNESCO, as the depositary of this Convention, shall inform the Member States of the Organization, the States not members of the Organization referred to in [Article XVII](https://wetten.overheid.nl/BWBV0006925), as well as the United Nations, of:
 
-4. Om een coherente interactie tussen deze Overeenkomst, de regionale overeenkomsten inzake erkenning, eventuele andere relevante bilaterale of multilaterale verdragen en eventuele andere bestaande of toekomstige verdragen of overeenkomsten waar een staat die partij is bij deze Overeenkomst mogelijkerwijs partij is of wordt, te waarborgen wordt niets in deze Overeenkomst geacht afbreuk te doen aan bepalingen van een gunstigere strekking inzake erkenning, met name bepalingen over nationale informatiecentra, netwerken en aanzienlijke verschillen.
+- a) The deposit of all the instruments of ratification, acceptance, approval, or accession provided for in [Articles XVI](https://wetten.overheid.nl/BWBV0006925) and [XVII](https://wetten.overheid.nl/BWBV0006925);
 
-##### Artikel XX. Federale of niet-unitaire constitutionele stelsels
+- b) The denunciations provided for in [Article XXI](https://wetten.overheid.nl/BWBV0006925);
 
-Erkennend dat internationale overeenkomsten in gelijke mate bindend zijn voor staten die partij zijn, ongeacht hun constitutionele stelsel, zijn de volgende bepalingen van toepassing op staten die partij zijn met een federaal of niet-unitair constitutioneel stelsel:
+- c) The amendments to the Convention adopted in accordance with [Article XXIII](https://wetten.overheid.nl/BWBV0006925) and the date on which the amendments come into force as proposed in accordance with Article XXIII.
 
-- a. Ten aanzien van de bepalingen van deze Overeenkomst, waarvan de implementatie onder de rechtsmacht van de federale of centrale wetgevende macht valt, zijn de verplichtingen van de federale of centrale regering dezelfde als die voor staten die partij zijn die geen federale staten zijn;
+##### Article XXIII. Amendments
 
-- b. Ten aanzien van de bepalingen van dit Verdrag, waarvan de implementatie onder de rechtsmacht valt van de samenstellende delen van een staat die partij is, zoals provincies, staten, districten of kantons die door het constitutionele stelsel van de federatie niet verplicht zijn wetgevende maatregelen te treffen, stelt de federale regering de bevoegde autoriteiten van de samenstellende delen van een staat die partij is in kennis van genoemde bepalingen, tezamen met haar aanbeveling deze aan te nemen.
+1. A State Party to this Convention may, by written communication addressed to the Director-General of UNESCO, propose amendments to this Convention. The Director-General shall circulate such communication to all States Parties. If within six months of the date of dispatch of the communication, no less than one half of the States Parties to the Convention reply favourably to the request, the Director-General shall present such proposal to the next session of the Intergovernmental Conference of the States Parties for discussion and possible adoption.
 
-##### Artikel XXI. Opzegging
+2. Amendments shall be adopted by a two-thirds majority of States Parties present and voting.
 
-1. Elke staat die partij is bij deze Overeenkomst kan deze te allen tijde opzeggen.
+3. Once adopted, amendments to this Convention shall be submitted to the States Parties for ratification, acceptance, approval, or accession.
 
-2. De opzegging wordt door middel van een schriftelijke akte ter kennis gebracht en bij de Directeur-Generaal van UNESCO nedergelegd
+4. For States Parties which have ratified, accepted, approved, or acceded to them, amendments to this Convention shall enter into force three months after the deposit by two thirds of the States Parties of the instruments referred to in paragraph 3 of this Article. Thereafter for each State Party which ratifies, accepts, approves, or accedes to an amendment, said amendment shall enter into force three months after the date on which that State Party has deposited its instrument of ratification, acceptance, approval, or accession.
 
-3. De opzegging wordt van kracht 12 maanden na de ontvangst van de akte van opzegging. Dit heeft in geen geval gevolgen voor de verplichtingen uit hoofde van deze Overeenkomst van de staat die partij is die deze Overeenkomst opzegt tot de datum waarop de terugtrekking van kracht wordt.
+5. A State which becomes a State Party to this Convention after the entry into force of amendments in conformity with paragraph 4 of this Article shall, failing an expression of different intention, be considered to be:
 
-4. De opzegging van deze Overeenkomst heeft geen gevolgen met betrekking tot:
+- a) A State Party to this Convention as so amended; and
 
-- a. Besluiten inzake erkenning die eerder zijn genomen ingevolge de bepalingen van deze Overeenkomst;
+- b) A State Party to the unamended Convention in relation to any State Party not bound by the amendments.
 
-- b. Beoordelingen inzake erkenningen die nog lopen ingevolge deze Overeenkomst.
+##### Article XXIV. Registration with the United Nations
 
-##### Artikel XXII. Taken van depositaris
+In conformity with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), this Convention shall be registered with the Secretariat of the United Nations at the request of the Director-General of UNESCO.
 
-De Directeur-Generaal van UNESCO stelt, als de depositaris van deze Overeenkomst, de lidstaten van de Organisatie, de in [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=VI&artikel=XVII&z=2019-11-25&g=2019-11-25) bedoelde staten die geen lid zijn van de Organisatie en de Verenigde Naties in kennis van:
+##### Article XXV. Authoritative Texts
 
-- a. De nederlegging van akten van bekrachtiging, aanvaarding, goedkeuring of toetreding voorzien in de [artikelen XVI](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=VI&artikel=XVI&z=2019-11-25&g=2019-11-25) en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=VI&artikel=XVII&z=2019-11-25&g=2019-11-25);
-
-- b. De opzeggingen voorzien in [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=VI&artikel=XXI&z=2019-11-25&g=2019-11-25);
-
-- c. De wijzigingen van de Overeenkomst aangenomen in overeenstemming met [artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=VI&artikel=XXIII&z=2019-11-25&g=2019-11-25) en de datum waarop de wijzigingen in werking treden zoals voorgesteld in overeenstemming met artikel XXIII.
-
-##### Artikel XXIII. Wijzigingen
-
-1. Een staat die partij is bij deze Overeenkomst kan door middel van een schriftelijke mededeling gericht aan de Directeur-Generaal van UNESCO voorstellen doen tot wijziging van deze Overeenkomst. De Directeur-Generaal verzendt deze mededeling aan alle staten die partij zijn. Indien, binnen zes maanden na de datum van verzending van de mededeling, ten minste de helft van de staten die partij zijn bij de Overeenkomst instemt met het verzoek, legt de Directeur-Generaal een dergelijk voorstel voor aan de volgende zitting van de Intergouvernementele Conferentie van de staten die partij zijn voor bespreking en eventuele aanneming ervan.
-
-2. Wijzigingen worden aangenomen door een tweederdemeerderheid van de staten die partij zijn die aanwezig zijn en hun stem uitbrengen.
-
-3. Zodra wijzigingen van deze Overeenkomst zijn aangenomen dienen deze te worden voorgelegd aan de staten die partij zijn met het oog op bekrachtiging, aanvaarding, goedkeuring of toetreding.
-
-4. Voor staten die partij zijn die deze wijzigingen van de Overeenkomst hebben bekrachtigd, aanvaard, goedgekeurd of die ertoe zijn toegetreden, treden zij in werking drie maanden na de nederlegging van de in het derde lid van dit artikel bedoelde akten door twee derde van de staten die partij zijn. Vervolgens treedt de genoemde wijziging voor elke staat die partij is die deze bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt in werking drie maanden na de datum van de nederlegging door die staat die partij is van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
-
-5. Een staat die partij wordt bij deze Overeenkomst na de inwerkingtreding van wijzigingen overeenkomstig het vierde lid van dit artikel wordt, tenzij blijk wordt gegeven van een andere bedoeling, geacht:
-
-- a. partij te zijn bij de aldus gewijzigde Overeenkomst; en
-
-- b. partij te zijn bij de ongewijzigde Overeenkomst ten aanzien van elke staat die partij is die niet gebonden is door de wijziging.
-
-##### Artikel XXIV. Registratie bij de Verenigde Naties
-
-In overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt deze Overeenkomst geregistreerd bij het Secretariaat van de Verenigde Naties op verzoek van de Directeur-Generaal van UNESCO.
-
-##### Artikel XXV. Authentieke teksten
-
-Deze Overeenkomst is opgesteld in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, waarbij alle zes teksten gelijkelijk authentiek zijn.
+This Convention has been drawn up in Arabic, Chinese, English, French, Russian and Spanish, all six texts being equally authoritative.

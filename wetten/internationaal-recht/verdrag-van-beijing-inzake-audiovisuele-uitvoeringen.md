@@ -1,53 +1,18 @@
 ---
 title: "Verdrag van Beijing inzake audiovisuele uitvoeringen"
 identifier: "BWBV0006805"
-country: "nl"
-rank: "verdrag"
-publication_date: "2012-06-24"
-last_updated: "2012-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006805"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005472413"
-version_id: "10005947842"
-internal_id: "C10009528011"
-label_id: "10005455734"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006805/2012-06-24/0"
-intitule_bron: "Trb.2019-53"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-04-01"
-intitule_status: "nogniet"
-original_publication: "Trb.2019-53"
-original_published_date: "2019-04-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2019-53"
-jci_1_3: "jci1.3:c:BWBV0006805&z=2012-06-24&g=2012-06-24"
-jci_1_0: "1.0:c:BWBV0006805&g=2012-06-24"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-04-01"
+laatste_update: 2012-06-24
+status: geldig
+toestand: 2012-06-24
+bron: "https://wetten.overheid.nl/BWBV0006805"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag van Beijing inzake audiovisuele uitvoeringen
 
-Preamble
-
-The Contracting Parties,
-
-Desiring to develop and maintain the protection of the rights of performers in their audiovisual performances in a manner as effective and uniform as possible,
-
-Recalling the importance of the Development Agenda recommendations, adopted in 2007 by the General Assembly of the Convention Establishing the World Intellectual Property Organization (WIPO), which aim to ensure that development considerations form an integral part of the Organization’s work,
-
-Recognizing the need to introduce new international rules in order to provide adequate solutions to the questions raised by economic, social, cultural and technological developments,
-
-Recognizing the profound impact of the development and convergence of information and communication technologies on the production and use of audiovisual performances,
-
-Recognizing the need to maintain a balance between the rights of performers in their audiovisual performances and the larger public interest, particularly education, research and access to information,
-
-Recognizing that the [WIPO Performances and Phonograms Treaty (WPPT)](https://wetten.overheid.nl/jci1.3:c:BWBV0004061) done in Geneva on December 20, 1996, does not extend protection to performers in respect of their performances fixed in audiovisual fixations,
-
-Referring to the Resolution concerning Audiovisual Performances adopted by the Diplomatic Conference on Certain Copyright and Neighboring Rights Questions on December 20, 1996,
-
-Have agreed as follows:
+*Preamble The Contracting Parties, Desiring to develop and maintain the protection of the rights of performers in their audiovisual performances in a manner as effective and uniform as possible, Recalling the importance of the Development Agenda recommendations, adopted in 2007 by the General Assembly of the Convention Establishing the World Intellectual Property Organization (WIPO), which aim to ensure that development considerations form an integral part of the Organization’s work, Recognizing the need to introduce new international rules in order to provide adequate solutions to the questions raised by economic, social, cultural and technological developments, Recognizing the profound impact of the development and convergence of information and communication technologies on the production and use of audiovisual performances, Recognizing the need to maintain a balance between the rights of performers in their audiovisual performances and the larger public interest, particularly education, research and access to information, Recognizing that the WIPO Performances and Phonograms Treaty (WPPT) done in Geneva on December 20, 1996, does not extend protection to performers in respect of their performances fixed in audiovisual fixations, Referring to the Resolution concerning Audiovisual Performances adopted by the Diplomatic Conference on Certain Copyright and Neighboring Rights Questions on December 20, 1996, Have agreed as follows:*
 
 ##### Article 1. Relation to Other Conventions and Treaties
 
@@ -61,13 +26,13 @@ Have agreed as follows:
 
 For the purposes of this Treaty:
 
-- a). “performers” are actors, singers, musicians, dancers, and other persons who act, sing, deliver, declaim, play in, interpret, or otherwise perform literary or artistic works or expressions of folklore3)Agreed statement concerning Article 2(a): It is understood that the definition of “performers” includes those who perform a literary or artistic work that is created or first fixed in the course of a performance.;
+- a) “performers” are actors, singers, musicians, dancers, and other persons who act, sing, deliver, declaim, play in, interpret, or otherwise perform literary or artistic works or expressions of folklore3)Agreed statement concerning Article 2(a): It is understood that the definition of “performers” includes those who perform a literary or artistic work that is created or first fixed in the course of a performance.;
 
-- b). „audiovisual fixation” means the embodiment of moving images, whether or not accompanied by sounds or by the representations thereof, from which they can be perceived, reproduced or communicated through a device4)Agreed statement concerning Article 2(b): It is hereby confirmed that the definition of “audiovisual fixation” contained in Article 2(b) is without prejudice to Article 2(c) of the WPPT.;
+- b) „audiovisual fixation” means the embodiment of moving images, whether or not accompanied by sounds or by the representations thereof, from which they can be perceived, reproduced or communicated through a device4)Agreed statement concerning Article 2(b): It is hereby confirmed that the definition of “audiovisual fixation” contained in Article 2(b) is without prejudice to Article 2(c) of the WPPT.;
 
-- c). „broadcasting” means the transmission by wireless means for public reception of sounds or of images or of images and sounds or of the representations thereof; such transmission by satellite is also “broadcasting”; transmission of encrypted signals is “broadcasting”where the means for decrypting are provided to the public by the broadcasting organization or with its consent;
+- c) „broadcasting” means the transmission by wireless means for public reception of sounds or of images or of images and sounds or of the representations thereof; such transmission by satellite is also “broadcasting”; transmission of encrypted signals is “broadcasting”where the means for decrypting are provided to the public by the broadcasting organization or with its consent;
 
-- d). „communication to the public” of a performance means the transmission to the public by any medium, otherwise than by broadcasting, of an unfixed performance, or of a performance fixed in an audiovisual fixation. For the purposes of [Article 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006805&artikel=11&z=2012-06-24&g=2012-06-24), “communication to the public” includes making a performance fixed in an audiovisual fixation audible or visible or audible and visible to the public.
+- d) „communication to the public” of a performance means the transmission to the public by any medium, otherwise than by broadcasting, of an unfixed performance, or of a performance fixed in an audiovisual fixation. For the purposes of [Article 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006805&artikel=11&z=2012-06-24&g=2012-06-24), “communication to the public” includes making a performance fixed in an audiovisual fixation audible or visible or audible and visible to the public.
 
 ##### Article 3. Beneficiaries of Protection
 
@@ -87,9 +52,9 @@ For the purposes of this Treaty:
 
 1. Independently of a performer’s economic rights, and even after the transfer of those rights, the performer shall, as regards his live performances or performances fixed in audiovisual fixations, have the right:
 
-- (i). to claim to be identified as the performer of his performances, except where omission is dictated by the manner of the use of the performance; and
+- (i) to claim to be identified as the performer of his performances, except where omission is dictated by the manner of the use of the performance; and
 
-- (ii). to object to any distortion, mutilation or other modification of his performances that would be prejudicial to his reputation, taking due account of the nature of audiovisual fixations.
+- (ii) to object to any distortion, mutilation or other modification of his performances that would be prejudicial to his reputation, taking due account of the nature of audiovisual fixations.
 
 2. The rights granted to a performer in accordance with paragraph (1) shall, after his death, be maintained, at least until the expiry of the economic rights, and shall be exercisable by the persons or institutions authorized by the legislation of the Contracting Party where protection is claimed. However, those Contracting Parties whose legislation, at the moment of their ratification of or accession to this Treaty, does not provide for protection after the death of the performer of all rights set out in the preceding paragraph may provide that some of these rights will, after his death, cease to be maintained.
 
@@ -99,9 +64,9 @@ For the purposes of this Treaty:
 
 Performers shall enjoy the exclusive right of authorizing, as regards their performances:
 
-- (i). the broadcasting and communication to the public of their unfixed performances except where the performance is already a broadcast performance; and
+- (i) the broadcasting and communication to the public of their unfixed performances except where the performance is already a broadcast performance; and
 
-- (ii). the fixation of their unfixed performances.
+- (ii) the fixation of their unfixed performances.
 
 ##### Article 7. Right of Reproduction
 
@@ -143,7 +108,7 @@ Performers shall enjoy the exclusive right of authorizing the making available t
 
 1. Contracting Parties may, in their national legislation, provide for the same kinds of limitations or exceptions with regard to the protection of performers as they provide for, in their national legislation, in connection with the protection of copyright in literary and artistic works.
 
-2. Contracting Parties shall confine any limitations of or exceptions to rights provided for in this Treaty to certain special cases which do not conflict with a normal exploitation of the performance and do not unreasonably prejudice the legitimate interests of the performer9)Agreed statement concerning Article 13: The Agreed statement concerning Article 10 (on Limitations and Exceptions) of the WIPO Copyright Treaty (WCT) is applicable **mutatis mutandis** also to Article 13 (on Limitations and Exceptions) of the Treaty..
+2. Contracting Parties shall confine any limitations of or exceptions to rights provided for in this Treaty to certain special cases which do not conflict with a normal exploitation of the performance and do not unreasonably prejudice the legitimate interests of the performer9)Agreed statement concerning Article 13: The Agreed statement concerning Article 10 (on Limitations and Exceptions) of the WIPO Copyright Treaty (WCT) is applicable *mutatis mutandis* also to Article 13 (on Limitations and Exceptions) of the Treaty..
 
 ##### Article 14. Term of Protection
 
@@ -157,11 +122,11 @@ Contracting Parties shall provide adequate legal protection and effective legal 
 
 1. Contracting Parties shall provide adequate and effective legal remedies against any person knowingly performing any of the following acts knowing, or with respect to civil remedies having reasonable grounds to know, that it will induce, enable, facilitate, or conceal an infringement of any right covered by this Treaty:
 
-- (i). to remove or alter any electronic rights management information without authority;
+- (i) to remove or alter any electronic rights management information without authority;
 
-- (ii). to distribute, import for distribution, broadcast, communicate or make available to the public, without authority, performances or copies of performances fixed in audiovisual fixations knowing that electronic rights management information has been removed or altered without authority.
+- (ii) to distribute, import for distribution, broadcast, communicate or make available to the public, without authority, performances or copies of performances fixed in audiovisual fixations knowing that electronic rights management information has been removed or altered without authority.
 
-2. As used in this Article, “rights management information” means information which identifies the performer, the performance of the performer, or the owner of any right in the performance, or information about the terms and conditions of use of the performance, and any numbers or codes that represent such information, when any of these items of information is attached to a performance fixed in an audiovisual fixation12)Agreed statement concerning Article 16: The Agreed statement concerning Article 12 (on Obligations concerning Rights Management Information) of the WCT is applicable **mutatis mutandis** also to Article 16 (on Obligations concerning Rights Management Information) of the Treaty..
+2. As used in this Article, “rights management information” means information which identifies the performer, the performance of the performer, or the owner of any right in the performance, or information about the terms and conditions of use of the performance, and any numbers or codes that represent such information, when any of these items of information is attached to a performance fixed in an audiovisual fixation12)Agreed statement concerning Article 16: The Agreed statement concerning Article 12 (on Obligations concerning Rights Management Information) of the WCT is applicable *mutatis mutandis* also to Article 16 (on Obligations concerning Rights Management Information) of the Treaty..
 
 ##### Article 17. Formalities
 
@@ -191,21 +156,21 @@ The enjoyment and exercise of the rights provided for in this Treaty shall not b
 
 ##### Article 21. Assembly
 
-- a). The Contracting Parties shall have an Assembly.
+1. - a) The Contracting Parties shall have an Assembly.
 
-- b). Each Contracting Party shall be represented in the Assembly by one delegate who may be assisted by alternate delegates, advisors and experts.
+- b) Each Contracting Party shall be represented in the Assembly by one delegate who may be assisted by alternate delegates, advisors and experts.
 
-- c). The expenses of each delegation shall be borne by the Contracting Party that has appointed the delegation. The Assembly may ask WIPO to grant financial assistance to facilitate the participation of delegations of Contracting Parties that are regarded as developing countries in conformity with the established practice of the General Assembly of the United Nations or that are countries in transition to a market economy.
+- c) The expenses of each delegation shall be borne by the Contracting Party that has appointed the delegation. The Assembly may ask WIPO to grant financial assistance to facilitate the participation of delegations of Contracting Parties that are regarded as developing countries in conformity with the established practice of the General Assembly of the United Nations or that are countries in transition to a market economy.
 
-- a). The Assembly shall deal with matters concerning the maintenance and development of this Treaty and the application and operation of this Treaty.
+2. - a) The Assembly shall deal with matters concerning the maintenance and development of this Treaty and the application and operation of this Treaty.
 
-- b). The Assembly shall perform the function allocated to it under [Article 23(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006805&artikel=23&z=2012-06-24&g=2012-06-24) in respect of the admission of certain intergovernmental organizations to become party to this Treaty.
+- b) The Assembly shall perform the function allocated to it under [Article 23(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006805&artikel=23&z=2012-06-24&g=2012-06-24) in respect of the admission of certain intergovernmental organizations to become party to this Treaty.
 
-- c). The Assembly shall decide the convocation of any diplomatic conference for the revision of this Treaty and give the necessary instructions to the Director General of WIPO for the preparation of such diplomatic conference.
+- c) The Assembly shall decide the convocation of any diplomatic conference for the revision of this Treaty and give the necessary instructions to the Director General of WIPO for the preparation of such diplomatic conference.
 
-- a). Each Contracting Party that is a State shall have one vote and shall vote only in its own name.
+3. - a) Each Contracting Party that is a State shall have one vote and shall vote only in its own name.
 
-- b). Any Contracting Party that is an intergovernmental organization may participate in the vote, in place of its Member States, with a number of votes equal to the number of its Member States which are party to this Treaty. No such intergovernmental organization shall participate in the vote if any one of its Member States exercises its right to vote and vice versa.
+- b) Any Contracting Party that is an intergovernmental organization may participate in the vote, in place of its Member States, with a number of votes equal to the number of its Member States which are party to this Treaty. No such intergovernmental organization shall participate in the vote if any one of its Member States exercises its right to vote and vice versa.
 
 4. The Assembly shall meet upon convocation by the Director General and, in the absence of exceptional circumstances, during the same period and at the same place as the General Assembly of WIPO.
 
@@ -239,9 +204,9 @@ This Treaty shall enter into force three months after 30 eligible parties referr
 
 This Treaty shall bind:
 
-- (i). the 30 eligible parties referred to in [Article 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006805&artikel=23&z=2012-06-24&g=2012-06-24), from the date on which this Treaty has entered into force;
+- (i) the 30 eligible parties referred to in [Article 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006805&artikel=23&z=2012-06-24&g=2012-06-24), from the date on which this Treaty has entered into force;
 
-- (ii). each other eligible party referred to in [Article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006805&artikel=23&z=2012-06-24&g=2012-06-24), from the expiration of three months from the date on which it has deposited its instrument of ratification or accession with the Director General of WIPO.
+- (ii) each other eligible party referred to in [Article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006805&artikel=23&z=2012-06-24&g=2012-06-24), from the expiration of three months from the date on which it has deposited its instrument of ratification or accession with the Director General of WIPO.
 
 ##### Article 28. Denunciation of the Treaty
 

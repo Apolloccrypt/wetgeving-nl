@@ -1,326 +1,273 @@
 ---
 title: "Verdrag van de Raad van Europa inzake een integrale benadering van veiligheid en gastvrijheid bij voetbalwedstrijden en andere sportevenementen"
 identifier: "BWBV0006615"
-country: "nl"
-rank: "verdrag"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006615"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005373683"
-version_id: "10005798692"
-internal_id: "C10009686241"
-label_id: "10005356454"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006615/2020-04-01/0"
-intitule_bron: "Trb.2016-111"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2016-07-26"
-intitule_in_force: "2020-03-18"
-intitule_status: "goed"
-original_publication: "Trb.2016-111"
-original_published_date: "2016-07-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2016-111"
-entry_into_force_date: "2020-04-01"
-jci_1_3: "jci1.3:c:BWBV0006615&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBV0006615&g=2020-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-04-01"
+publicatiedatum: 2020-04-01
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBV0006615"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag van de Raad van Europa inzake een integrale benadering van veiligheid en gastvrijheid bij voetbalwedstrijden en andere sportevenementen
 
-Preambule
+*Preamble The member States of the Council of Europe and the other States Parties to the European Cultural Convention (ETS No. 18), signatories hereto, Considering that the aim of the Council of Europe is to achieve greater unity among its members; Concerned with the right to physical integrity and the legitimate expectation of individuals to attend football matches and other sports events without fear of violence, public disorder or other criminal activity; Concerned to make football matches and other sports events enjoyable and welcoming for all citizens while also recognising that creating a welcoming environment can have a significant and positive impact on safety and security at such events; Concerned with the need to promote the inclusion of all stakeholders in providing a safe environment at football matches and other sports events; Concerned with the need to maintain the rule of law in and within the vicinity of football and other sports stadiums, on transit routes to and from the stadiums and in other areas frequented by many thousands of spectators; Recognising that sport, and all agencies and stakeholders involved in organising and managing a football match or other sports event, must uphold core values of the Council of Europe, such as social cohesion, tolerance, respect and non-discrimination; Recognising variations among States regarding their constitutional, judicial, cultural and historical circumstances, and the character and severity of safety and security problems associated with football matches and other sports events; Recognising the need to take full account of national and international legislation on matters such as data protection, rehabilitation of offenders and human rights; Recognising that a wide range of public and private agencies and other stakeholders, including spectators, have a shared objective in making football matches and other sports events safe, secure and welcoming for individuals and recognising that their collective actions will necessarily comprise a range of interrelated and overlapping measures; Recognising that the overlapping character of these measures requires the relevant agencies to develop effective international, national and local partnerships in order to prepare and deliver an integrated and balanced multi-agency approach to safety, security and service in connection with football matches and other sports events; Recognising that events outside of sports stadiums can have a direct impact on events inside the stadiums and vice versa; Recognising that consultation with key stakeholders, especially supporters and local communities, can assist the relevant agencies in reducing the risks to safety and security and in creating a welcoming atmosphere inside and outside of stadiums; Being resolved to take common and co-operative action to reduce the risks to safety and security at football matches and other sports events in order to provide an enjoyable experience for spectators, participants and local communities; Building upon the content of the European Convention on Spectator Violence and Misbehaviour at Sports Events and in particular at Football Matches (ETS No. 120), opened for signature in Strasbourg on 19 August 1985 (hereafter “Convention No. 120”); Taking into account that extensive European experience and good practices has resulted in the development of a new integrated and partnership approach towards the safety and security of spectators, reflected in particular in the Recommendation Rec (2015) 1 on Safety, Security and Service at Football Matches, and other Sports Events, adopted by the Standing Committee of the Convention No. 120 at its 40thmeeting on 18 June 2015, Have agreed as follows:*
 
-De lidstaten van de Raad van Europa en de andere staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend) (ETS nr. 18) die dit Verdrag hebben ondertekend,
+##### Article 1. Scope
 
-Overwegend dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn leden;
+1. The Parties shall, within the limits of their respective constitutional provisions, take the necessary steps to give effect to the provisions of this Convention in respect of football matches or tournaments played in their territory by professional football clubs and national teams.
 
-Zich inzettend voor het recht op fysieke integriteit en de legitieme verwachting van individuen om voetbalwedstrijden en andere sportevenementen bij te kunnen wonen zonder te hoeven vrezen voor geweld, verstoring van de openbare orde of andere criminele activiteiten;
+2. The Parties may apply the provisions of this Convention to other sports or sports events hosted in their territory, including non-professional football matches, especially in circumstances where safety or security risks are involved.
 
-Zich ervoor inzettend dat alle burgers voetbalwedstrijden en andere sportwedstrijden als plezierig en gastvrij ervaren, daarbij onderkennend dat het creëren van een gastvrije omgeving ook een belangrijke positieve impact op de veiligheid en beveiliging van dergelijke evenementen kan hebben;
+##### Article 2. Aim
 
-Zich bewust van de noodzaak alle belanghebbenden te betrekken bij het bieden van een veilige omgeving bij voetbalwedstrijden en andere sportevenementen;
+The aim of this Convention is to provide a safe, secure and welcoming environment at football matches and other sports events. To that end, the Parties shall:
 
-Zich bewust van de noodzaak de rechtsstaat te handhaven in en rondom voetbalstadions en andere sportstadions, op de doorgangsroutes naar en van de stadions en in andere gebieden die door vele duizenden toeschouwers worden bezocht;
+- a. adopt an integrated, multi-agency and balanced approach towards safety, security and service, based upon an ethos of effective local, national and international partnerships and co-operation;
 
-Erkennend dat de sportwereld en alle instanties en belanghebbenden die betrokken zijn bij de organisatie en het management van een voetbalwedstrijd of ander sportevenement, kernwaarden van de Raad van Europa, zoals sociale cohesie, tolerantie, respect en non-discriminatie, hoog dienen te houden;
+- b. ensure that all public and private agencies, and other stakeholders, recognise that safety, security and service provision cannot be considered in isolation, and can have a direct influence on delivery of the other two components;
 
-Erkennend dat er tussen staten verschillen bestaan wat betreft de constitutionele, gerechtelijke, culturele en historische omstandigheden, en de aard en ernst van veiligheids- en beveiligingsproblemen die samenhangen met voetbalwedstrijden en andere sportevenementen;
+- c. take account of good practices in developing an integrated approach to safety, security and service.
 
-Erkennend de noodzaak volledig rekening te houden met de nationale en internationale wetgeving over zaken als gegevensbescherming, rehabilitatie van daders en mensenrechten;
+##### Article 3. Definitions
 
-Erkennend dat een breed scala van publieke en private instanties en overige belanghebbenden, onder wie toeschouwers, als gezamenlijke doelstelling hebben individuen op veilige en gastvrije wijze voetbalwedstrijden en andere sportevenementen te laten bijwonen en erkennend dat hun gezamenlijke acties noodzakelijkerwijs een reeks samenhangende en overlappende maatregelen zullen omvatten;
+For the purposes of this Convention, the terms:
 
-Erkennend dat de overlappende aard van deze maatregelen van de relevante instanties vereist dat zij effectieve internationale, nationale en lokale partnerschappen ontwikkelen om een integrale en evenwichtige benadering van veiligheid, beveiliging en gastvrijheid door meerdere instanties te ontwikkelen en uit te voeren voor voetbalwedstrijden en andere sportevenementen;
+- a. “safety measures” shall mean any measure designed and implemented with the primary aim of protecting the health and well-being of individuals and groups who attend, or participate in, a football match or other sports event, inside or outside of the stadium, or who reside or work in the vicinity of the event;
 
-Erkennend dat evenementen buiten sportstadions een directe impact kunnen hebben op evenementen binnen de stadions en vice versa;
+- b. “security measures” shall mean any measure designed and implemented with the primary aim of preventing, reducing the risk and/or responding to any violence or other criminal activity or disorder committed in connection with a football or other sports event, inside or outside of a stadium;
 
-Erkennend dat overleg met belangrijke belanghebbenden, in het bijzonder supporters en lokale gemeenschappen, de relevante instanties kan helpen bij het terugdringen van risico’s op het gebied van veiligheid en beveiliging en het creëren van een gastvrije sfeer binnen en buiten stadions;
+- c. “service measures” shall mean any measure designed and implemented with the primary aim of making individuals and groups feel comfortable, appreciated and welcome when attending a football match or other sports event, inside or outside of a stadium;
 
-Vastbesloten samen te werken en gezamenlijk actie te ondernemen om de risico’s op het gebied van veiligheid en beveiliging bij voetbalwedstrijden en andere sportevenementen te verminderen teneinde toeschouwers, deelnemers en lokale gemeenschappen een prettige ervaring te bieden;
+- d. “agency” shall mean any public or private body with a constitutional, legislative, regulatory or other responsibility in respect of the preparation and implementation of any safety, security or service measure in connection with a football match or other sports event, inside or outside of a stadium;
 
-Voortbouwend op de inhoud van de [Europese Overeenkomst inzake gewelddadigheden door en wangedrag van toeschouwers rond sportevenementen en in het bijzonder rond voetbalwedstrijden](onbekend) (1985, ETS nr. 120), opengesteld voor ondertekening te Straatsburg op 19 augustus 1985, (hierna „Overeenkomst nr. 120”);
+- e. “stakeholder” shall mean spectators, local communities or other interested parties who do not have legislative or regulatory responsibilities but who can play an important role in helping to make football matches or other sports events safe, secure and welcoming, inside and outside of stadiums;
 
-Er rekening mee houdend dat uitgebreide Europese ervaringen en goede praktijken hebben geleid tot de ontwikkeling van een nieuwe, integrale en partnerschapsgerichte benadering van de veiligheid en beveiliging van toeschouwers, die met name tot uitdrukking komt in Aanbeveling Rec (2015) 1 inzake veiligheid, beveiliging en gastvrijheid bij voetbalwedstrijden en andere sportevenementen, aangenomen door de Permanente Commissie van [Overeenkomst nr. 120](onbekend) tijdens haar 40e bijeenkomst op 18 juni 2015,
+- f. “integrated approach” shall mean recognition that, irrespective of their primary purpose, safety, security and service measures at football matches and other sports events invariably overlap, are interrelated in terms of impact, need to be balanced and cannot be designed or implemented in isolation;
 
-Zijn het volgende overeengekomen:
+- g. “multi-agency integrated approach” shall mean recognition that the roles and actions of each agency involved in football or other sports planning and operational activities must be co-ordinated, complementary, proportionate and designed and implemented as part of a comprehensive safety, security and service strategy;
 
-##### Artikel 1. Reikwijdte
+- h. “good practices” shall mean measures applied in one or more countries that have proven to be very effective in meeting the stated aim or objective;
 
-1. De partijen nemen, binnen de grenzen van hun respectieve constitutionele bepalingen, de stappen die nodig zijn om uitvoering te geven aan de bepalingen van dit Verdrag ten aanzien van voetbalwedstrijden of -toernooien op hun grondgebied gespeeld door professionele voetbalclubs en nationale teams.
+- i. “relevant agency” shall mean a body (public or private) involved in the organisation and/or management of a football match or other sports event held inside or outside of a sports stadium.
 
-2. De partijen kunnen de bepalingen van dit Verdrag toepassen op andere sporten of sportevenementen die op hun grondgebied worden gehouden, met inbegrip van niet-professionele voetbalwedstrijden, in het bijzonder wanneer er omstandigheden zijn die veiligheids- of beveiligingsrisico’s met zich meebrengen.
+##### Article 4. Domestic co-ordination arrangements
 
-##### Artikel 2. Doel
+1. The Parties shall ensure that national and local co-ordination arrangements are established for the purpose of developing and implementing a multi-agency integrated approach to safety, security and service at national and local level.
 
-Het doel van dit Verdrag is het bieden van een veilige, beveiligde en gastvrije omgeving bij voetbalwedstrijden en andere sportevenementen. Hiertoe:
+2. The Parties shall ensure that co-ordination arrangements are established to identify, analyse and evaluate the risks pertaining to safety, security and services, and to allow the sharing of updated information on risk assessment.
 
-- a. nemen de partijen een integrale, evenwichtige en door meerdere instanties gedragen benadering van veiligheid, beveiliging en gastvrijheid aan, gebaseerd op effectieve partnerschappen en samenwerking op lokaal, nationaal en internationaal niveau;
+3. The Parties shall ensure that the co-ordination arrangements involve all key public and private agencies responsible for safety, security and service matters connected with the event, both inside and outside of the venue where the event is taking place.
 
-- b. waarborgen de partijen dat alle publieke en private instanties, en overige belanghebbenden, erkennen dat veiligheid, beveiliging en gastvrijheid niet als op zichzelf staande componenten kunnen worden gezien en dat elke component de andere twee rechtstreeks kan beïnvloeden;
+4. The Parties shall ensure that the co-ordination arrangements take full account of the safety, security and service principles set out in this Convention and that national and local strategies are developed, regularly evaluated and refined in the light of national and international experience and good practices.
 
-- c. houden de partijen rekening met goede praktijken bij het ontwikkelen van een integrale benadering van veiligheid, beveiliging en gastvrijheid.
+5. The Parties shall ensure that national legal, regulatory or administrative frameworks clarify the respective roles and responsibilities of the relevant agencies and that these roles are complementary, consistent with an integrated approach and widely understood at strategic and operational levels.
 
-##### Artikel 3. Begripsomschrijvingen
+##### Article 5. Safety, security and service in sports stadiums
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+1. The Parties shall ensure that national legal, regulatory or administrative frameworks require event organisers, in consultation with all partner agencies, to provide a safe and secure environment for all participants and spectators.
 
-- a. **„maatregelen op het gebied van veiligheid”** elke maatregel die wordt genomen en uitgevoerd met als voornaamste doel het beschermen van de gezondheid en het welzijn van individuen en groepen die een voetbalwedstrijd of ander sportevenement bezoeken of eraan deelnemen, zowel binnen als buiten een stadion, of personen die in de nabijheid van het evenement wonen of werken;
+2. The Parties shall ensure that the competent public authorities put in place regulations or arrangements to guarantee the effectiveness of stadium licensing procedures, certification arrangements and safety regulations in general and ensure their application, monitoring and enforcement.
 
-- b. **„maatregelen op het gebied van beveiliging”** elke maatregel die wordt genomen en uitgevoerd met als voornaamste doel het voorkomen van, verminderen van het risico op en/of het reageren op geweld dat of een andere criminele activiteit of verstoring die plaatsvindt in verband met een voetbalwedstrijd of ander sportevenement, zowel binnen als buiten een stadion;
+3. The Parties shall require the relevant agencies to ensure that stadium design, infrastructure and associated crowd management arrangements comply with national and international standards and good practices.
 
-- c. **„maatregelen op het gebied van gastvrijheid”** elke maatregel die wordt genomen en uitgevoerd met als voornaamste doel ervoor te zorgen dat individuen en groepen zich op hun gemak, gewaardeerd en welkom voelen wanneer zij een voetbalwedstrijd of ander sportevenement bezoeken, zowel binnen als buiten een stadion;
+4. The Parties shall encourage the relevant agencies to ensure that stadiums provide an inclusive and welcoming environment for all sections of society, including children, the elderly and those with disabilities, and incorporate, in particular, the provision of appropriate sanitary and refreshment facilities and good viewing conditions for all spectators.
 
-- d. **„instantie”** elke publiek of privaat lichaam met een constitutionele, wetgevende, regelgevende of andere verantwoordelijkheid ten aanzien van de voorbereiding en uitvoering van maatregelen op het gebied van veiligheid, beveiliging en gastvrijheid in verband met een voetbalwedstrijd of ander sportevenement, zowel binnen als buiten een stadion;
+5. The Parties shall ensure that stadiums’ operating arrangements are comprehensive; make provision for effective liaison with the police, emergency services and partner agencies; and incorporate clear policies and procedures on matters that might impact on crowd management and associated safety and security risks, in particular:
 
-- e. **„belanghebbende”** alle toeschouwers, lokale gemeenschappen of andere belanghebbende partijen die geen wetgevende of regelgevende verantwoordelijkheden hebben, maar wel een belangrijke rol kunnen spelen bij het veilig en gastvrij maken van voetbalwedstrijden en andere sportevenementen, zowel binnen als buiten stadions;
+- – the use of pyrotechnics;
 
-- f. **„integrale benadering”** de erkenning dat, ongeacht hun primaire doel, maatregelen op het gebied van veiligheid, beveiliging en gastvrijheid bij voetbalwedstrijden en andere sportevenementen elkaar altijd overlappen, wat betreft hun impact met elkaar verband houden, evenwichtig dienen te zijn, en niet als op zichzelf staande maatregelen kunnen worden genomen of uitgevoerd;
+- – any violent or other prohibited behaviour; and
 
-- g. **„integrale benadering door meerdere instanties”** de erkenning dat de taken en acties van elke instantie die betrokken is bij de planning en operationele activiteiten van voetbal of andere sporten gecoördineerd, complementair en proportioneel dienen te zijn en ontwikkeld en uitgevoerd als onderdeel van een veelomvattende strategie voor veiligheid, beveiliging en gastvrijheid;
+- – any racist or other discriminatory behaviour.
 
-- h. **„goede praktijken”** maatregelen die in een of meer landen zijn toegepast en zeer effectief zijn gebleken bij het verwezenlijken van het gestelde streven of doelstelling;
+6. The Parties shall require the relevant agencies to ensure that all personnel, from the public or private sectors, involved in making football matches and other sports events safe, secure and welcoming are equipped and trained to fulfil their functions effectively and in an appropriate manner.
 
-- i. **„relevante instantie”** een lichaam (publiek of privaat) dat betrokken is bij de organisatie en/of het management van een voetbalwedstrijd of ander sportevenement dat binnen of buiten een sportstadion wordt gehouden.
+7. The Parties shall encourage their competent agencies to highlight the need for players, coaches or other representatives of participating teams to act in accordance with key sporting principles, such as tolerance, respect and fair play, and recognise that acting in a violent, racist or other provocative manner can have a negative impact on spectator behaviour.
 
-##### Artikel 4. Coördinatie op binnenlands niveau
+##### Article 6. Safety, security and service in public places
 
-1. De partijen waarborgen dat er nationale en lokale coördinatiestructuren worden opgezet om op nationaal en lokaal niveau een integrale benadering van veiligheid, beveiliging en gastvrijheid door meerdere instanties te ontwikkelen.
+1. The Parties shall encourage all agencies and stakeholders involved in organising football matches and other sports events in public spaces, including the municipal authorities, police, local communities and businesses, supporter representatives, football clubs and national associations, to work together, notably in respect of:
 
-2. De partijen waarborgen dat er coördinatiestructuren worden opgezet om de risico’s verbonden aan veiligheid, beveiliging en gastvrijheid te identificeren, analyseren en evalueren en om het delen van actuele informatie over risicobeoordeling mogelijk te maken.
+- a. assessing risk and preparing appropriate preventative measures designed to minimise disruption and provide reassurances to the local community and businesses, in particular those located in the vicinity of where the event is taking place or public viewing areas;
 
-3. De partijen waarborgen dat bij de coördinatiestructuren alle belangrijke publieke en private instanties betrokken zijn die verantwoordelijk zijn voor de veiligheid, beveiliging en gastvrijheid van het evenement, zowel binnen als buiten de locatie waar het evenement plaatsvindt.
+- b. creating a safe, secure and welcoming environment in public spaces that are designated for supporters to gather before and after the event, or locations in which supporters can be expected to frequent of their own volition, and along transit routes to and from the city and/or to and from the stadium.
 
-4. De partijen waarborgen dat er bij de coördinatiestructuren ten volle rekening wordt gehouden met de beginselen inzake veiligheid, beveiliging en gastvrijheid vervat in dit Verdrag en dat er nationale en lokale strategieën worden ontwikkeld die regelmatig worden geëvalueerd en verfijnd in het licht van nationale en internationale ervaringen en goede praktijken.
+2. The Parties shall ensure that risk assessment and safety and security measures take account of the journey to and from the stadium.
 
-5. De partijen waarborgen dat in nationale wettelijke, regelgevende of bestuursrechtelijke kaders de onderscheiden taken en verantwoordelijkheden van de relevante instanties duidelijk tot uiting komen en dat deze taken complementair zijn, in overeenstemming met een integrale benadering, en op strategische en operationeel niveau algemeen bekend zijn.
+##### Article 7. Contingency and emergency planning
 
-##### Artikel 5. Veiligheid, beveiliging en gastvrijheid in sportstadions
+The Parties shall ensure that multi-agency contingency and emergency plans are developed, and that those plans are tested and refined in regular joint exercises. National legal, regulatory or administrative frameworks shall make clear which agency is responsible for initiating, supervising and certifying the exercises.
 
-1. De partijen waarborgen dat in nationale wettelijke, regelgevende of bestuursrechtelijke kaders van organisatoren van evenementen verlangd wordt dat zij, in overleg met alle partnerinstanties, een veilige en beveiligde omgeving bieden aan alle deelnemers en toeschouwers.
+##### Article 8. Engagement with supporters and local communities
 
-2. De partijen waarborgen dat de bevoegde publieke autoriteiten regelgeving of regelingen in het leven roepen om de doelmatigheid van procedures voor het verlenen van vergunningen aan stadions, certificeringsregelingen en veiligheidsvoorschriften in het algemeen te waarborgen alsmede de toepassing, monitoring en handhaving daarvan.
+1. The Parties shall encourage all agencies to develop and pursue a policy of proactive and regular communication with key stakeholders, including supporter representatives and local communities, based on the principle of dialogue, and with the aim of generating a partnership ethos and positive co-operation as well as identifying solutions to potential problems.
 
-3. De partijen verlangen van de relevante instanties dat zij waarborgen dat het ontwerp en de infrastructuur van stadions en de daarmee samenhangende regelingen voor crowd management voldoen aan nationale en internationale normen en goede praktijken.
+2. The Parties shall encourage all public and private agencies and other stakeholders, including local communities and supporter representatives, to initiate or participate in multi-agency social, educational, crime-prevention and other community projects designed to foster mutual respect and understanding, especially among supporters, sports clubs and associations as well as agencies responsible for safety and security.
 
-4. De partijen moedigen de relevante instanties aan te waarborgen dat stadions zorgen voor een inclusieve en gastvrije omgeving voor alle geledingen van de maatschappij, met inbegrip van kinderen, ouderen en personen met een handicap, en daarbij met name zorgen voor de aanwezigheid van passende sanitaire voorzieningen en mogelijkheden om iets te eten of te drinken en een goed zicht voor alle toeschouwers.
+##### Article 9. Police strategies and operations
 
-5. De partijen waarborgen dat stadions uitgebreide operationele procedures kennen, waaronder een effectieve liaison met de politie, hulpdiensten en partnerinstanties en duidelijk beleid en heldere procedures wat betreft zaken die van invloed kunnen zijn op crowd management en daarmee samenhangende veiligheids- en beveiligingsrisico’s, in het bijzonder:
+1. The Parties shall ensure that policing strategies are developed, regularly evaluated and refined in the light of national and international experience and good practices, and are consistent with the wider, integrated approach to safety, security and service.
 
-- –. het gebruik van pyrotechniek;
+2. The Parties shall ensure that policing strategies take account of good practices including, in particular: intelligence gathering, continuous risk assessment, risk-based deployment, proportionate intervention to prevent the escalation of risk or disorder, effective dialogue with supporters and the wider community, and evidence gathering of criminal activity as well as the sharing of such evidence with the competent authorities responsible for prosecution.
 
-- –. gewelddadig gedrag of andere gedragingen die verboden zijn; en
+3. The Parties shall ensure that the police work in partnership with organisers, supporters, local communities and other stakeholders in making football matches and other sports events safe, secure and welcoming for all concerned.
 
-- –. racistisch of ander discriminatoir gedrag.
+##### Article 10. Prevention and sanctioning of offending behaviour
 
-6. De partijen verlangen van de relevante instanties dat zij waarborgen dat alle medewerkers, uit de publieke of private sector, die zorgen voor veilige en gastvrije voetbalwedstrijden en andere sportevenementen de uitrusting en training hebben om hun taken doeltreffend en op de juiste wijze te vervullen.
+1. The Parties shall take all possible measures to reduce the risk of individuals or groups participating in, or organising incidents of violence or disorder.
 
-7. De partijen moedigen hun bevoegde instanties aan om te wijzen op de noodzaak voor spelers, coaches of andere vertegenwoordigers van de deelnemende teams om te handelen in overeenstemming met belangrijke beginselen in de sport, zoals tolerantie, respect en fair play, en te erkennen dat gewelddadig, racistisch of ander provocatief gedrag een negatieve invloed kan hebben op het gedrag van toeschouwers.
+2. The Parties shall, in accordance with national and international law, ensure that effective exclusion arrangements, appropriate to the character and location of risk, are in place to deter and prevent incidents of violence or disorder.
 
-##### Artikel 6. Veiligheid, beveiliging en gastvrijheid in openbare ruimten
+3. The Parties shall, in accordance with national and international law, co-operate in seeking to ensure that individuals committing offences abroad receive appropriate sanctions, either in the country where the offence is committed or in their country of residence or citizenship.
 
-1. De partijen moedigen alle instanties en belanghebbenden die betrokken zijn bij het organiseren van voetbalwedstrijden en andere sportevenementen in publieke ruimten, met inbegrip van de gemeentelijke autoriteiten, politie, lokale gemeenschappen en ondernemingen, vertegenwoordigers van supporters, voetbalclubs en nationale bonden, aan samen te werken, in het bijzonder op de volgende gebieden:
+4. Where appropriate, and in accordance with national and international law, the Parties shall consider empowering the judicial or administrative authorities responsible to impose sanctions on individuals who have caused or contributed to incidents of football-related violence and/or disorder, with the possibility of imposing restrictions on travel to football events held in another country.
 
-- a. het beoordelen van risico’s en nemen van passende preventieve maatregelen, bedoeld om verstoringen tot een minimum te beperken en de lokale gemeenschap en ondernemingen gerust te stellen, met name degene die gevestigd zijn in de buurt van de locatie waar het evenement plaatsvindt of public viewing-locaties;
+##### Article 11. International co-operation
 
-- b. het creëren van een veilige, beveiligde en gastvrije omgeving in aangewezen publieke ruimten waar supporters voor en na het evenement kunnen samenkomen of locaties waar supporters naar verwachting uit eigen beweging naartoe gaan, en langs de doorgangsroutes naar en van de stad en/of naar en van het stadion.
+1. The Parties shall co-operate closely on all matters covered by this Convention and related matters, in order to maximise collaboration in respect of international events, share experiences and participate in the development of good practices.
 
-2. De partijen waarborgen dat bij risicobeoordeling en maatregelen op het gebied van veiligheid en beveiliging rekening wordt gehouden met de reis naar en van het stadion.
+2. The Parties shall, without prejudice to existing national provisions, in particular the allocation of powers among the different services and authorities, set up or designate a National Football Information Point within the police force (NFIP). The NFIP shall:
 
-##### Artikel 7. Planning voor onvoorziene gebeurtenissen en noodgevallen
+- a. act as the direct and single contact point for exchanging general (strategic, operational and tactical) information in connection with a football match with an international dimension;
 
-De partijen waarborgen dat er plannen voor onvoorziene gebeurtenissen en noodgevallen worden ontwikkeld waarbij meerdere instanties samenwerken en dat deze plannen worden getest en verfijnd met reguliere gezamenlijke oefeningen. Uit nationale wettelijke, regelgevende of bestuursrechtelijke kaders wordt duidelijk welke instantie verantwoordelijk is voor het initiëren, toezicht houden op en certificeren van de oefeningen.
+- b. exchange personal data in accordance with the applicable domestic and international rules;
 
-##### Artikel 8. Relatie met supporters en lokale gemeenschappen
+- c. facilitate, co-ordinate or organise the implementation of international police co-operation in connection with football matches with an international dimension;
 
-1. De partijen moedigen alle instanties aan beleid te ontwikkelen en in te voeren om op proactieve wijze regelmatig contact te onderhouden met belangrijke belanghebbenden, onder wie vertegenwoordigers van supporters en lokale gemeenschappen, gebaseerd op het beginsel van dialoog en met als doel een gevoel van partnerschap en positieve samenwerking te genereren en oplossingen voor mogelijke problemen te vinden.
+- d. be capable of fulfilling efficiently and promptly the tasks assigned to it.
 
-2. De partijen moedigen alle publieke en private instanties en overige belanghebbenden, onder wie lokale gemeenschappen en vertegenwoordigers van supporters, aan tot het initiëren van of deelnemen aan door meerdere instanties uitgevoerde projecten met een sociaal, educatief of op criminaliteitspreventie gericht karakter of andere gemeenschapsprojecten, die gericht zijn op het bevorderen van wederzijds respect en begrip, met name bij supporters, sportclubs en sportbonden alsmede instanties die verantwoordelijk zijn voor veiligheid en beveiliging.
+3. The Parties shall further ensure that the NFIP provides a national source of expertise regarding football policing operations, supporter dynamics and associated safety and security risks.
 
-##### Artikel 9. Strategieën en operaties van de politie
+4. Each State Party shall notify the Committee on Safety and Security at Sports Events, created by this Convention, in writing, of the name and contact details of its NFIP, and any subsequent changes with regard to it.
 
-1. De partijen waarborgen dat er politiestrategieën worden ontwikkeld, regelmatig worden geëvalueerd en worden verfijnd in het licht van nationale en internationale ervaringen en goede praktijken, en dat die aansluiten op de bredere, integrale benadering van veiligheid, beveiliging en gastvrijheid.
+5. The Parties shall co-operate at international level in respect of sharing good practices and information on preventative, educational and informative projects and the establishment of partnerships with all agencies involved in the delivery of national and local initiatives, focused on or driven by the local community and supporters.
 
-2. De partijen waarborgen dat bij de politiestrategieën rekening wordt gehouden met goede praktijken, waaronder in het bijzonder: het vergaren van inlichtingen, voortdurende risicobeoordeling, op risico’s gebaseerde inzet, proportionele interventie om het risico van escalatie of ongeregeldheden te voorkomen, effectieve dialoog met supporters en de gemeenschap in het algemeen, vergaren van bewijzen van criminele activiteiten en het delen van deze bewijzen met de bevoegde autoriteiten die vervolging kunnen instellen.
+### PROCEDURAL CLAUSES
 
-3. De partijen waarborgen dat de politie samenwerkt met organisatoren, supporters, lokale gemeenschappen en overige belanghebbenden om voetbalwedstrijden en andere sportevenementen voor alle betrokkenen veilig en gastvrij te maken.
+##### Article 12. Provision of information
 
-##### Artikel 10. Preventie en bestraffing van laakbaar gedrag
+Each Party shall forward to the Committee on Safety and Security at Sports Events, in one of the official languages of the Council of Europe, all relevant information concerning legislative and other measures taken by it for the purpose of complying with the terms of this Convention, whether with regard to football or other sports.
 
-1. De partijen nemen alle mogelijke maatregelen om het risico te verminderen dat individuen of groepen deelnemen aan geweldsincidenten of ongeregeldheden of deze organiseren.
+##### Article 13. Committee on Safety and Security at Sports Events
 
-2. De partijen waarborgen, in overeenstemming met het nationale en internationale recht, dat er effectieve uitsluitingsregelingen, passend bij de aard en locatie van het risico, zijn ingesteld om geweldsincidenten of ongeregeldheden te ontmoedigen en te voorkomen.
+1. For the purposes of this Convention, the Committee on Safety and Security at Sports Events is hereby established.
 
-3. De partijen werken, in overeenstemming met het nationale en internationale recht, samen teneinde te waarborgen dat individuen die in het buitenland strafbare feiten begaan op passende wijze worden bestraft, hetzij in het land waar het strafbare feit is gepleegd, hetzij in het land van verblijf of nationaliteit.
+2. Any Party to this Convention may be represented on the committee by one or more delegates representing lead governmental agencies, preferably with responsibility for sport safety and security, and the NFIP. Each Party to this Convention shall have one vote.
 
-4. Waar van toepassing, en in overeenstemming met het nationale en internationaal recht, nemen de partijen in overweging de rechterlijke of bestuurlijke autoriteiten de bevoegdheid te geven sancties op te leggen aan individuen die voetbalgerelateerd(e) geweld en/of ongeregeldheden hebben veroorzaakt of daaraan hebben bijgedragen, met de mogelijkheid beperkingen te stellen aan het reizen naar voetbalevenementen in een ander land.
+3. Any member State of the Council of Europe or other State Party to the [European Cultural Convention](https://wetten.overheid.nl/BWBV0005098) which is not a Party to this Convention, as well as any non-member State which is a Party to [Convention No. 120](https://wetten.overheid.nl/BWBV0002623), may be represented on the committee as an observer.
 
-##### Artikel 11. Internationale samenwerking
+4. The committee may, by unanimous decision, invite any non-member State of the Council of Europe which is not a Party to this Convention or to [Convention No. 120](https://wetten.overheid.nl/BWBV0002623) and any organisation interested in being represented to be an observer at one or more of its meetings.
 
-1. De partijen werken nauw samen bij alle zaken waarop dit Verdrag van toepassing is en bij daarmee verband houdende zaken, teneinde tot een zo goed mogelijke samenwerking te komen bij internationale evenementen, ervaringen te delen en deel te nemen aan het ontwikkelen van goede praktijken.
+5. The committee shall be convened by the Secretary General of the Council of Europe. Its first meeting shall be held within one year of the date on which ten member States of the Council of Europe have expressed their consent to be bound by the Convention. It shall subsequently meet at least every year after its first meeting. In addition it shall meet whenever a majority of the Parties so request.
 
-2. De partijen zetten, onverminderd bestaande nationale bepalingen, met name de toewijzing van bevoegdheden aan de verschillende diensten en autoriteiten, binnen de politie een nationaal informatiepunt voetbal (NIPV) op of wijzen dit aan. Het nationaal informatiepunt voetbal:
+6. A majority of the Parties shall constitute a quorum for holding a meeting of the committee.
 
-- a. treedt op als het rechtstreekse en centrale aanspreekpunt voor het uitwisselen van algemene (strategische, operationele en tactische) informatie in verband met een voetbalwedstrijd met een internationale dimensie;
+7. Subject to the provisions of this Convention, the committee shall draw up and adopt by consensus its own rules of procedure.
 
-- b. wisselt persoonsgegevens uit in overeenstemming met de van toepassing zijnde nationale en internationale regels;
+##### Article 14. Functions of the Committee on Safety and Security at Sports Events
 
-- c. faciliteert, coördineert of organiseert de implementatie van internationale politiesamenwerking in verband met voetbalwedstrijden met een internationale dimensie;
+1. The committee shall be responsible for monitoring the application of this Convention. It may in particular:
 
-- d. is in staat de hem toegewezen taken efficiënt en voortvarend te vervullen.
+- a. keep under review the provisions of this Convention and examine any necessary modifications;
 
-3. De partijen waarborgen voorts dat het nationaal informatiepunt voetbal een nationale bron van expertise is wat betreft voetbalgerelateerde politieoperaties, de bewegingen van supporters en daarmee samenhangende risico’s voor de veiligheid en beveiliging.
+- b. hold consultations and, where appropriate, exchange information with relevant organisations;
 
-4. Elke staat die partij is stelt het bij dit Verdrag ingestelde Comité veiligheid en beveiliging bij sportevenementen schriftelijk in kennis van de naam en contactgegevens van zijn nationaal informatiepunt voetbal en eventuele daaropvolgende wijzigingen daarvan.
+- c. make recommendations to the Parties to this Convention concerning measures to be taken for its implementation;
 
-5. De partijen werken op internationaal niveau samen met betrekking tot het delen van goede praktijken en informatie over projecten op het gebied van preventie, educatie en informatie en het aangaan van partnerschappen met alle instanties die betrokken zijn bij nationale en lokale initiatieven, gericht op of geïnitieerd door de lokale gemeenschap en supporters.
+- d. recommend the appropriate measures to keep the public informed about the activities undertaken within the framework of this Convention;
 
-### PROCEDURELE BEPALINGEN
+- e. make recommendations to the Committee of Ministers concerning non-member States of the Council of Europe to be invited to accede to this Convention;
 
-##### Artikel 12. Verstrekking van informatie
+- f. make any proposal for improving the effectiveness of this Convention;
 
-Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle relevante informatie in een van de officiële talen van de Raad van Europa toekomen over wetgevende en andere maatregelen die zij heeft getroffen teneinde te voldoen aan de voorwaarden van dit Verdrag, met betrekking tot voetbal of andere sporten.
+- g. facilitate the collection, analysis and exchange of information, experience and good practices between States.
 
-##### Artikel 13. Comité veiligheid en beveiliging bij sportevenementen
+2. The committee, with the prior agreement of the Parties concerned, shall monitor compliance with this Convention through a programme of visits to the States Parties, in order to provide advice and support on the implementation of this Convention.
 
-1. Ten behoeve van dit Verdrag is hierbij het Comité veiligheid en beveiliging bij sportevenementen ingesteld.
+3. The committee shall also gather the information provided by States Parties according to [Article 12](https://wetten.overheid.nl/BWBV0006615), and transmit relevant data to all States Parties of the Convention. It may in particular inform each State Party about the nomination of a new NFIP, and circulate its contact details.
 
-2. Elke partij bij dit Verdrag kan in het comité vertegenwoordigd worden door een of meer afgevaardigden die de belangrijkste overheidsinstanties, bij voorkeur instanties verantwoordelijk voor veiligheid en beveiliging van sport, vertegenwoordigen evenals het nationaal informatiepunt voetbal. Elke partij bij dit Verdrag heeft één stem.
+4. In order to discharge its functions, the committee may, on its own initiative, arrange for meetings of groups of experts.
 
-3. Elke lidstaat van de Raad van Europa of elke andere staat die partij is bij het [Europees Cultureel Verdrag](onbekend) die geen partij is bij dit Verdrag, alsmede elke niet-lidstaat die partij is bij [Overeenkomst nr. 120](onbekend), kan in het comité als waarnemer vertegenwoordigd worden.
+##### Article 15. Amendments
 
-4. Het comité kan, bij unanimiteit van stemmen, elke niet-lidstaat van de Raad van Europa die geen partij is bij dit Verdrag of bij [Overeenkomst nr. 120](onbekend) alsmede elke organisatie die blijk gegeven heeft van haar wens vertegenwoordigd te zijn, uitnodigen waarnemer te zijn bij een of meer van zijn bijeenkomsten.
+1. Amendments to this Convention may be proposed by a Party, the Committee on Safety and Security at Sports Events or the Committee of Ministers of the Council of Europe.
 
-5. Het comité wordt bijeengeroepen door de Secretaris-Generaal van de Raad van Europa. De eerste bijeenkomst van het comité wordt gehouden binnen een jaar na de datum waarop tien lidstaten van de Raad van Europa hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht. Na de eerste bijeenkomst komt het comité vervolgens ten minste elk jaar bijeen. Daarnaast komt het bijeen wanneer een meerderheid van de partijen daarom verzoekt.
+2. Any proposal for amendment shall be communicated by the Secretary General of the Council of Europe to the member States of the Council of Europe, to the other States Parties to the [European Cultural Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005098), to any non-member State of the Council of Europe having acceded to [Convention No. 120](https://wetten.overheid.nl/jci1.3:c:BWBV0002623) prior to the date of opening for signature of this Convention and to every non-member State which has acceded to or has been invited to accede to this Convention in accordance with the provisions of [Article 18](https://wetten.overheid.nl/BWBV0006615).
 
-6. Een meerderheid van de partijen vormt een quorum voor het houden van een bijeenkomst van het comité.
+3. Any amendment proposed by a Party or the Committee of Ministers shall be communicated to the committee at least two months before the meeting at which it is to be considered. The committee shall submit its opinion on the proposed amendment to the Committee of Ministers.
 
-7. Met inachtneming van de bepalingen van dit Verdrag stelt het comité zijn eigen reglement van orde op en neemt dat bij consensus aan.
+4. The Committee of Ministers shall consider the proposed amendment and any opinion submitted by the committee and may adopt the amendment by the majority provided for in [Article 20.d of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20).
 
-##### Artikel 14. Taken van het Comité veiligheid en beveiliging bij sportevenementen
+5. The text of any amendment adopted by the Committee of Ministers in accordance with paragraph 4 of this article shall be forwarded to the Parties for acceptance in accordance with their respective internal procedures.
 
-1. Het comité is verantwoordelijk voor het monitoren van de toepassing van dit Verdrag. Het kan in het bijzonder:
+6. Any amendment adopted in accordance with paragraph 4 of this article shall come into force on the first day of the month following the expiration of a period of one month after all Parties have informed the Secretary General of their acceptance thereof.
 
-- a. de bepalingen van dit Verdrag regelmatig toetsen en mogelijk noodzakelijke wijzigingen onderzoeken;
+### FINAL CLAUSES
 
-- b. overleg voeren en, wanneer van toepassing, informatie uitwisselen met relevante organisaties;
+##### Article 16. Signature
 
-- c. aanbevelingen doen aan de partijen bij dit Verdrag over maatregelen voor de invoering ervan;
+1. This Convention shall be open for signature by the member States of the Council of Europe, the States Parties to the European Cultural Convention and any non-member State of the Council of Europe having acceded to the[European Convention on Spectator Violence and Misbehaviour at Sports Events and in particular at Football Matches](https://wetten.overheid.nl/BWBV0002623) (ETS No. 120), opened for signature in Strasbourg on 19 August 1985, prior to the date of opening for signature of this Convention.
 
-- d. passende maatregelen aanbevelen om het publiek op de hoogte te houden van de activiteiten die in het kader van dit Verdrag worden uitgevoerd;
+2. This Convention is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-- e. aanbevelingen doen aan het Comité van Ministers betreffende het uitnodigen van staten die geen lid zijn van de Raad van Europa om toe te treden tot het Verdrag;
+3. No State Party to [Convention No. 120](https://wetten.overheid.nl/BWBV0002623) may deposit its instrument of ratification, acceptance or approval unless it has already denounced the said Convention or denounces it simultaneously.
 
-- f. voorstellen doen voor het verbeteren van de doelmatigheid van dit Verdrag;
+4. When depositing its instrument of ratification, acceptance or approval in accordance with the preceding paragraph, a Contracting State may declare that it will continue to apply [Convention No. 120](https://wetten.overheid.nl/BWBV0002623) until the entry into force of this Convention according to the provisions of [Article 17, paragraph 1](https://wetten.overheid.nl/BWBV0006615).
 
-- g. het verzamelen, analyseren en uitwisselen van informatie, ervaringen en goede praktijken tussen de staten faciliteren.
+##### Article 17. Entry into force
 
-2. Het comité monitort, na voorafgaande instemming van de betrokken partijen, de naleving van dit Verdrag door middel van een programma van bezoeken aan de staten die partij zijn, teneinde advies en ondersteuning te bieden bij de implementatie van dit Verdrag.
+1. The Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date on which three member States of the Council of Europe have expressed their consent to be bound by the Convention in accordance with the provisions of [Article 16](https://wetten.overheid.nl/BWBV0006615).
 
-3. Het comité verzamelt tevens de informatie die conform [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=12&z=2020-04-01&g=2020-04-01) door de staten die partij zijn wordt geleverd en geeft relevante gegevens door aan alle staten die partij zijn bij het Verdrag. Het comité kan in het bijzonder elke staat die partij is informeren over de aanwijzing van een nieuw nationaal informatiepunt voetbal en de contactgegevens ervan verspreiden.
+2. In respect of any Signatory State which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of the deposit of the instrument of ratification, acceptance or approval.
 
-4. Voor het vervullen van zijn taken kan het comité uit eigen beweging vergaderingen met deskundigen organiseren.
+##### Article 18. Accession by non-member States
 
-##### Artikel 15. Wijzigingen
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe, after consulting the Parties, may invite any non-member State of the Council of Europe to accede to the Convention by a decision taken by the majority provided for in [Article 20.d of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) and by the unanimous vote of the representatives of the Contracting States entitled to sit on the Committee of Ministers.
 
-1. Wijzigingen van dit Verdrag kunnen worden voorgesteld door een partij, het Comité veiligheid en beveiliging bij sportevenementen of het Comité van Ministers van de Raad van Europa.
+2. In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of the deposit of the instrument of accession with the Secretary General of the Council of Europe.
 
-2. Elk voorstel tot wijziging wordt door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de lidstaten van de Raad van Europa, aan de andere staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend), aan elke niet-lidstaat van de Raad van Europa die tot [Overeenkomst nr. 120](onbekend) is toegetreden vóór de datum waarop dit Verdrag voor ondertekening wordt opengesteld en aan elke niet-lidstaat die in overeenstemming met de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=18&z=2020-04-01&g=2020-04-01) tot dit Verdrag is toegetreden of is uitgenodigd toe te treden.
+3. A Party which is not a member State of the Council of Europe shall contribute to the financing of the Committee on Safety and Security at Sports Events in a manner to be decided by the Committee of Ministers.
 
-3. Elke wijziging die door een partij of door het Comité van Ministers wordt voorgesteld, wordt aan het comité medegedeeld ten minste twee maanden voor de vergadering waarop de wijziging zal worden behandeld. Het comité doet het Comité van Ministers zijn standpunt omtrent de voorgestelde wijziging toekomen.
+##### Article 19. Effects of the Convention
 
-4. Het Comité van Ministers bestudeert de voorgestelde wijziging en het door het comité ingediende standpunt en kan de wijziging bij de in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) voorziene meerderheid aannemen.
+1. In relations between a Party to this Convention and a Party to [Convention No. 120](https://wetten.overheid.nl/BWBV0002623) which has not ratified this Convention, [Articles 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002623&artikel=4) and [5 of Convention No. 120](https://wetten.overheid.nl/jci1.3:c:BWBV0002623&artikel=5) shall continue to apply.
 
-5. De tekst van elke wijziging aangenomen door het Comité van Ministers overeenkomstig het vierde lid van dit artikel, wordt toegezonden aan de partijen voor aanvaarding in overeenstemming met hun respectieve interne procedures.
+2. After the entry into force of this Convention, if a State has denounced [Convention No. 120](https://wetten.overheid.nl/jci1.3:c:BWBV0002623&artikel=5) but such denunciation is not yet effective at the time of ratification of this Convention, this Convention shall apply according to the provisions of [Article 17, paragraph 2](https://wetten.overheid.nl/BWBV0006615).
 
-6. Elke overeenkomstig het vierde lid van dit artikel aangenomen wijziging treedt in werking op de eerste dag van de maand na het verstrijken van een tijdvak van een maand na de datum waarop alle partijen de Secretaris-Generaal hebben medegedeeld dat zij haar hebben aanvaard.
+##### Article 20. Territorial application
 
-### SLOTBEPALINGEN
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
 
-##### Artikel 16. Ondertekening
+2. Any Party may, at any later date, by declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such a territory, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of receipt of said declaration by the Secretary General.
 
-1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa, de staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend) en elke niet-lidstaat van de Raad van Europa die voorafgaand aan de datum waarop dit Verdrag voor ondertekening wordt opengesteld, is toegetreden tot de [Europese Overeenkomst inzake gewelddadigheden door en wangedrag van toeschouwers rond sportevenementen en in het bijzonder rond voetbalwedstrijden](onbekend) (ETS nr. 120), opengesteld voor ondertekening te Straatsburg op 19 augustus 1985.
+3. Any declaration made under the two preceding paragraphs may, in respect of any territory mentioned in the declaration, be withdrawn by a notification addressed to the Secretary General. This withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
 
-2. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+##### Article 21. Denunciation
 
-3. Geen staat die partij is bij [Overeenkomst nr. 120](onbekend) mag zijn akte van bekrachtiging, aanvaarding of goedkeuring nederleggen tenzij hij de genoemde Overeenkomst reeds heeft opgezegd of tegelijkertijd opzegt.
+1. Any Party may, at any time, denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
 
-4. Bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring in overeenstemming met het voorgaande lid, kan een verdragsluitende staat verklaren dat hij [Overeenkomst nr. 120](onbekend) blijft toepassen tot de inwerkingtreding van dit Verdrag volgens de bepalingen van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2020-04-01&g=2020-04-01).
+2. This denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
 
-##### Artikel 17. Inwerkingtreding
+##### Article 22. Notifications
 
-1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop drie lidstaten van de Raad van Europa hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht overeenkomstig het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=16&z=2020-04-01&g=2020-04-01).
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, the other States Parties to the [European Cultural Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005098) and any State which has acceded to this Convention, of:
 
-2. Met betrekking tot elke ondertekenende staat die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
+- a. any signature in accordance with [Article 16](https://wetten.overheid.nl/BWBV0006615);
 
-##### Artikel 18. Toetreding door niet-lidstaten
+- b. the deposit of any instrument of ratification, acceptance, approval or accession in accordance with [Article 16](https://wetten.overheid.nl/BWBV0006615) or [Article 18](https://wetten.overheid.nl/BWBV0006615);
 
-1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na overleg met de partijen, elke andere staat die geen lid is van de Raad van Europa uitnodigen toe te treden tot dit Verdrag, bij een besluit genomen met de meerderheid als voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) en met algemene stemmen van de vertegenwoordigers van de verdragsluitende staten die recht hebben op een zetel in het Comité van Ministers.
+- c. any date of entry into force of this Convention in accordance with [Articles 17](https://wetten.overheid.nl/BWBV0006615) and [18](https://wetten.overheid.nl/BWBV0006615);
 
-2. Ten aanzien van elke toetredende staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+- d. any proposal for amendment or any amendment adopted in accordance with [Article 15](https://wetten.overheid.nl/BWBV0006615) and the date on which the amendment comes into force;
 
-3. Een partij die geen lidstaat van de Raad van Europa is draagt bij aan de financiering van het Comité veiligheid en beveiliging bij sportevenementen, op een door het Comité van Ministers vast te stellen wijze.
+- e. any declaration made under the provisions of [Article 20](https://wetten.overheid.nl/BWBV0006615);
 
-##### Artikel 19. Gevolgen van het Verdrag
+- f. any denunciation made in pursuance of the provisions of [Article 21](https://wetten.overheid.nl/BWBV0006615);
 
-1. In de betrekkingen tussen een partij bij dit Verdrag en een partij bij [Overeenkomst nr. 120](onbekend) die dit Verdrag niet heeft bekrachtigd, blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002623&artikel=4) en [5 van Overeenkomst nr. 120](https://wetten.overheid.nl/jci1.3:c:BWBV0002623&artikel=5) van toepassing.
-
-2. Indien een staat [Overeenkomst nr. 120](onbekend) heeft opgezegd, maar deze opzegging is nog niet van kracht op het tijdstip waarop dit Verdrag wordt bekrachtigd, dan is dit Verdrag, na de inwerkingtreding ervan, van toepassing in overeenstemming met de bepalingen van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2020-04-01&g=2020-04-01).
-
-##### Artikel 20. Territoriale toepassing
-
-1. Elke staat kan, op het tijdstip van de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden waarop dit Verdrag van toepassing is nader aanduiden.
-
-2. Elke partij kan op een later tijdstip door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa de toepassing van dit Verdrag uitbreiden tot elk ander grondgebied dat in de verklaring wordt genoemd. Ten aanzien van een dergelijk grondgebied treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van ontvangst van de verklaring door de Secretaris-Generaal.
-
-3. Elke krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring genoemd grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
-
-##### Artikel 21. Opzegging
-
-1. Elke partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
-
-2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
-
-##### Artikel 22. Kennisgevingen
-
-De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de andere staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend) en elke andere staat die is toegetreden tot dit Verdrag in kennis van:
-
-- a. elke ondertekening in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=16&z=2020-04-01&g=2020-04-01);
-
-- b. de nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=16&z=2020-04-01&g=2020-04-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=18&z=2020-04-01&g=2020-04-01);
-
-- c. elke datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2020-04-01&g=2020-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=18&z=2020-04-01&g=2020-04-01);
-
-- d. elk voorstel tot wijziging of elke wijziging die in overeenstemming met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=15&z=2020-04-01&g=2020-04-01) is aangenomen en de datum waarop de wijziging in werking treedt;
-
-- e. elke verklaring afgelegd ingevolge de bepalingen van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=20&z=2020-04-01&g=2020-04-01);
-
-- f. elke opzegging gedaan ingevolge de bepalingen van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=21&z=2020-04-01&g=2020-04-01);
-
-- g. elke andere akte, verklaring, kennisgeving of mededeling met betrekking tot dit Verdrag.
+- g. any other act, declaration, notification or communication relating to this Convention.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

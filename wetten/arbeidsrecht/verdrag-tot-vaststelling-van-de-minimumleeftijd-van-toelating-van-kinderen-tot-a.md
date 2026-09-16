@@ -1,107 +1,78 @@
 ---
 title: "Verdrag tot vaststelling van de minimumleeftijd van toelating van kinderen tot arbeid op zee (herzien)"
 identifier: "BWBV0006231"
-country: "nl"
-rank: "verdrag"
-publication_date: "1964-11-13"
-last_updated: "1964-11-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006231"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10005109303"
-version_id: "10005456532"
-internal_id: "C10008415261"
-label_id: "10005092314"
-dtd_version: "2.0"
-original_entry_into_force: "1948-07-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006231/1964-11-13/0"
-intitule_bron: "Stb.1948-I 59"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1948-02-14"
-intitule_published: "1948-03-09"
-intitule_in_force: "1948-03-09"
-intitule_status: "goed"
-original_publication: "Stb.1948-I 59"
-original_signed_date: "1948-02-14"
-original_published_date: "1948-03-09"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1948-07-08"
-jci_1_3: "jci1.3:c:BWBV0006231&z=1964-11-13&g=1964-11-13"
-jci_1_0: "1.0:c:BWBV0006231&g=1964-11-13"
-citeertitel_status: "redactioneel"
-signed_date: "1948-02-14"
-entry_into_force: "1948-07-08"
+publicatiedatum: 1948-07-08
+laatste_update: 1964-11-13
+status: geldig
+toestand: 1964-11-13
+bron: "https://wetten.overheid.nl/BWBV0006231"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tot vaststelling van de minimumleeftijd van toelating van kinderen tot arbeid op zee (herzien)
 
-De Algemeene Conferentie van de Internationale Organisatie van den Arbeid, door den Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Genève en aldaar bijeengekomen op 22 October 1936 in hare twee en twintigste zitting;
+*The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Twenty-second Session on 22 October 1936, and Having decided upon the adoption of certain proposals with regard to the partial revision of the Convention fixing the minimum age for admission of children to employment at sea adopted by the Conference at its Second Session, the question forming the Agenda of the present Session, and Considering that these proposals must take the form of an International Convention, adopts, this twenty-fourth day of October of the year one thousand nine hundred and thirty-six, the following Convention which may be cited as the Minimum Age (Sea) Convention (Revised), 1936:*
 
-besloten hebbende verschillende voorstellen aan te nemen betreffende de gedeeltelijke herziening van het verdrag tot vaststelling van den minimum leeftijd van toelating van kinderen tot arbeid op zee, aangenomen door de Conferentie in hare tweede zitting, welk onderwerp op de agenda van de huidige zitting geplaatst is;
+##### Article 1
 
-overwegende, dat deze voorstellen den vorm zullen aannemen van een internationaal verdrag;
+For the purpose of this Convention, the term „vessel” includes all ships and boats, of any nature whatsoever, engaged in maritime navigation, whether publicly or privately owned; it excludes ships of war.
 
-neemt heden den 24sten October 1936 het volgende verdrag aan, dat genoemd zal worden „(herzien) verdrag betreffende den minimum leeftijd (arbeid op zee) 1936”:
+##### Article 2
 
-De wijziging is in werking getreden op 15 januari 1948 (Trb. 1957/181).
+1. Children under the age of fifteen years shall not be employed or work on vessels, other than vessels upon which only members of the same family are employed.
 
-##### Artikel 1
+2. Provided that national laws or regulations may provide for the issue in respect of children of not less than fourteen years of age of certificates permitting them to be employed in cases in which an educational or other appropriate authority designated by such laws or regulations is satisfied, after having due regard to the health and physical condition of the child and to the prospective as well as to the immediate benefit to the child of the employment proposed, that such employment will be beneficial to the child.
 
-Voor de toepassing van dit verdrag worden onder „schepen” verstaan alle vaartuigen, van welke soort ook, toebehoorende aan de overheid dan wel aan bijzondere personen, in gebruik voor de zeevaart, met uitzondering van oorlogsschepen.
+##### Article 3
 
-##### Artikel 2
+The provisions of Article 2 shall not apply to work done by children on schoolships or training-ships, provided that such work is approved and supervised by public authority.
 
-1. Kinderen beneden 15 jaar mogen niet gebruikt worden voor arbeid aan boord van schepen, tenzij daarop uitsluitend leden van één gezin werkzaam zijn.
+##### Article 4
 
-2. De nationale wetgeving kan echter toestaan, dat certificaten worden afgegeven, welke toestaan dat kinderen, die ten minste 14 jaar oud zijn, gebruikt worden in de gevallen, dat een schoolautoriteit of een andere geëigende autoriteit, daartoe aangewezen door de nationale wetgeving, er zich van vergewist heeft, na behoorlijk gelet te hebben op den lichamelijken toestand van het kind en zoowel op de toekomstige voordeelen als op het onmiddellijk voordeel, dat de bedoelde arbeid voor het kind kan meebrengen, dat die arbeid in het belang van het kind is.
+In order to facilitate the enforcement of the provisions of this Convention, every shipmaster shall be required to keep a register of all persons under the age of sixteen years employed on board his vessel, or a list of them in the articles of agreement, and of the dates of their births.
 
-##### Artikel 3
+##### Article 5
 
-Het in artikel 2 bepaalde is niet van toepassing op arbeid van kinderen aan boord van opleidingsschepen, mits die arbeid wordt verricht met goedkeuring en onder toezicht van de overheid.
+This Convention shall not come into force until after the adoption by the International Labour Conference of a Convention revising the Convention fixing the minimum age for admission of children to industrial employment, 1919, and a Convention revising the Convention concerning the age for admission of children to non-industrial employment, 1932.
 
-##### Artikel 4
+##### Article 6
 
-Ter bevordering van het toezicht op de naleving van de bepalingen van dit verdrag is ieder gezagvoerder verplicht een arbeidsregister of bemanningsrol bij te houden, waarop de namen en geboortedata vermeld zijn van alle aan boord werkzame personen beneden 16 jaar.
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-##### Artikel 5
+##### Article 7
 
-Dit verdrag zal eerst in werking treden, nadat door de Internationale Conferentie van den Arbeid aangenomen is een verdrag houdende herziening van het verdrag tot vaststelling van den minimum leeftijd van toelating van kinderen tot het verrichten van arbeid in nijverheidsondernemingen (1919) en van een verdrag houdende herziening van het verdrag betreffende den leeftijd van toelating van kinderen tot het verrichten van niet industrieele werkzaamheden (1932).
+1. This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.
 
-##### Artikel 6
+2. Subject to the provisions of Article 5 above is shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.
 
-De officieele bekrachtigingen van dit verdrag zullen worden medegedeeld aan den Directeur-Generaal van het Internationaal Arbeidsbureau en door hem worden ingeschreven.
+3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.
 
-##### Artikel 7
+##### Article 8
 
-1. Dit verdrag zal slechts verbindend zijn voor de Leden van de Internationale Organisatie van den Arbeid, die hunne bekrachtigingen door den Directeur-Generaal hebben doen inschrijven.
+As soon as the ratifications of two Members of the International Labour Organisation have been registered, the Director-General of the International Labour Office shall so notify all the Members of the International Labour Organisation. He shall likewise notify them of the registration of ratifications which may be communicated subsequently by other Members of the Organisation.
 
-2. Onder voorbehoud van het bepaalde in artikel 5 hierboven genoemd zal het van kracht worden twaalf maanden, nadat de bekrachtigingen van twee Leden door den Directeur-Generaal van het Internationaal Arbeidsbureau zullen zijn ingeschreven.
+##### Article 9
 
-3. Vervolgens zal dit verdrag voor ieder der andere Leden in werking treden twaalf maanden na den datum, waarop de bekrachtiging van dat Lid door het Internationaal Arbeidsbureau zal zijn ingeschreven.
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-##### Artikel 8
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceeding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
 
-Zoodra de bekrachtigingen van twee Leden der Internationale Organisatie van den Arbeid door het Internationaal Arbeidsbureau zijn ingeschreven, zal de Directeur-Generaal van het Internationaal Arbeidsbureau van dit feit mededeeling doen aan alle Leden van de Internationale Organisatie van den Arbeid. Hij zal hen eveneens in kennis stellen met de inschrijvingen van de bekrachtigingen, die hem later door andere Leden der Organisatie zullen worden medegedeeld.
+##### Article 10
 
-##### Artikel 9
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-1. Ieder Lid, dat dit verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaren na den datum, waarop dit verdrag van kracht begint te worden, zulks bij een verklaring, toegezonden aan den Directeur-Generaal van het Internationaal Arbeidsbureau en door dezen in te schrijven. De opzegging wordt eerst van kracht een jaar, nadat zij door het Internationaal Arbeidsbureau is ingeschreven.
+##### Article 11
 
-2. Ieder Lid, dat dit verdrag heeft bekrachtigd, dat binnen den termijn van een jaar na verloop van den termijn van tien jaren, bedoeld in het vorig lid, geen gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, zal voor een nieuwen termijn van tien jaren gebonden zijn en zal in het vervolg dit verdrag kunnen opzeggen, na verloop van elken termijn van tien jaren onder de voorwaarde bedoeld in dit artikel.
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides,
 
-##### Artikel 10
+- (a) the ratification by a Member of the new revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 9 above, if and when the new revising Convention shall have come into force;
 
-Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig acht legt deze een verslag inzake de toepassing van dit Verdrag voor aan de Algemene Conferentie, en gaat na of het wenselijk is de kwestie van de gehele of gedeeltelijke herziening van het Verdrag op de agenda van de Conferentie te plaatsen.
+- (b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-##### Artikel 11
+This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-1. Indien de Internationale Arbeidsconferentie een nieuw verdrag aanneemt, houdende geheele of gedeeltelijke herziening van dit verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
+##### Article 12
 
-- a. de bekrachtiging door elk Lid van het nieuwe verdrag houdende herziening, vanzelf medebrengen, onmiddellijke opzegging van dit verdrag, niettegenstaande het bepaalde in artikel 9 onder voorbehoud evenwel, dat het nieuwe verdrag, houdende herziening, van kracht geworden is;
-
-- b. vanaf den datum, waarop het nieuwe verdrag, houdende herziening, van kracht geworden is, het onderhavige verdrag niet langer door de Leden bekrachtigd kunnen worden.
-
-2. Het onderhavige verdrag zal echter van kracht blijven naar vorm en inhoud voor die Leden, die het bekrachtigd hebben en die het nieuwe verdrag, houdende herziening, niet bekrachtigen.
-
-##### Artikel 12
-
-Zoowel de Fransche als de Engelsche tekst van dit verdrag is authentiek.
+The French and English texts of this Convention shall both be authentic.

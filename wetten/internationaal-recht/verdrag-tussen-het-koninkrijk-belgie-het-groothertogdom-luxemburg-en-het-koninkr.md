@@ -1,88 +1,21 @@
 ---
 title: "Verdrag tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake politiesamenwerking"
 identifier: "BWBV0006758"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-10-01"
-last_updated: "2023-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006758"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005448953"
-version_id: "10005909852"
-internal_id: "C10010019221"
-label_id: "10005432444"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006758/2023-10-01/0"
-intitule_bron: "Trb.2018-160"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2018-09-03"
-intitule_in_force: "2023-10-18"
-intitule_status: "goed"
-original_publication: "Trb.2018-160"
-original_published_date: "2018-09-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2018-160"
-entry_into_force_date: "2023-10-01"
-jci_1_3: "jci1.3:c:BWBV0006758&z=2023-10-01&g=2023-10-01"
-jci_1_0: "1.0:c:BWBV0006758&g=2023-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-10-01"
+publicatiedatum: 2023-10-01
+laatste_update: 2023-10-01
+status: geldig
+toestand: 2023-10-01
+bron: "https://wetten.overheid.nl/BWBV0006758"
+opgehaald: 2026-09-16
 ---
+
 # Verdrag tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake politiesamenwerking
 
-Het Koninkrijk België,
+*Het Koninkrijk België, het Groothertogdom Luxemburg, en het Koninkrijk der Nederlanden hierna genoemd „de Verdragsluitende Partijen” Geleid door: De wens de bestaande samenwerking tussen de Verdragsluitende Partijen verder te intensiveren en vastbesloten de mogelijkheden tot grensoverschrijdende politiële samenwerking uit te breiden met het oog op een nog nauwere samenwerking inzake de handhaving van de openbare orde en veiligheid en de voorkoming, de opsporing en het onderzoek van strafbare feiten; Overwegende: Dat het „Verdrag tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg inzake grensoverschrijdend politieel optreden”, ondertekend te Luxemburg op 8 juni 2004, dient te worden geactualiseerd; Dat er zich gelet op de ontwikkeling inzake internationale politiesamenwerking opportuniteiten voordoen om de verschillende vormen van politiesamenwerking tussen Verdragsluitende Partijen verder uit te breiden, in het bijzonder inzake grensoverschrijdende opsporing, grensoverschrijdende achtervolging, uitwisseling van informatie met inbegrip van het verlenen van een ruimere toegang tot elkaars politiedatabanken; Dat de minister van Veiligheid en Binnenlandse Zaken en de minister van Justitie van het Koninkrijk België, de minister van Interne Veiligheid en de minister van Justitie van het Groothertogdom Luxemburg en de minister van Veiligheid en Justitie van het Koninkrijk der Nederlanden op 18 november 2016 een gemeenschappelijke verklaring hebben ondertekend waarin zij het engagement verwoorden om hetvoornoemde verdrag van 8 juni 2004 te moderniseren; Gelet op: – Het Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de Benelux Economische Unie, ondertekend te ’s-Gravenhage op 17 juni 2008 (hierna genoemd: „het Verdrag tot instelling van de Benelux Unie”), en in het bijzonder artikel 2, tweede lid, onder c), en artikel 3, tweede lid, onder c), van dat Verdrag; – Het Verdrag betreffende de werking van de Europese Unie, meer bepaald deel III, titel V, „De ruimte van vrijheid, veiligheid en recht”; – De Overeenkomst ter uitvoering van het tussen de regeringen van de staten van de Benelux Economische Unie, de bondsrepubliek Duitsland en de Franse republiek op 14 juni 1985 te Schengen gesloten akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen, ondertekend te Schengen op 19 juni 1990 (hierna genoemd: „de Schengen-Uitvoeringsovereenkomst”); – Het Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, het Koninkrijk Spanje, de Franse republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van het terrorisme, de grensoverschrijdende criminaliteit en de illegale migratie, ondertekend te Prüm op 27 mei 2005; – Het Besluit van de Raad 2003/170/JBZ van 27 februari 2003 betreffende het gezamenlijk gebruik van verbindingsofficieren die gedetacheerd zijn door de rechtshandhavende autoriteiten van de lidstaten, zoals gewijzigd door het besluit van de Raad 2006/560/JBZ van 24 juli 2006; – Het Kaderbesluit 2006/960/JBZ van de Raad van 18 december 2006 betreffende de vereenvoudiging van de uitwisseling van informatie en inlichtingen tussen de rechtshandhavingsautoriteiten van de lidstaten van de Europese Unie (hierna genoemd: „het Zweeds Kaderbesluit”); – Het Besluit 2008/615/JBZ van de Raad van 23 juni 2008 inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van terrorisme en grensoverschrijdende criminaliteit; – Het Besluit 2008/616/JBZ van de Raad van 23 juni 2008 betreffende de uitvoering van Besluit 2008/615/JBZ inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van terrorisme en grensoverschrijdende criminaliteit; – Het Besluit 2008/617/JBZ van de Raad van 23 juni 2008 ter verbetering van de samenwerking in crisissituaties tussen de speciale interventie-eenheden van de lidstaten van de Europese Unie; – De Richtlijn 2014/41/EU van het Europees Parlement en de Raad van 3 april 2014 betreffende het Europees onderzoeksbevel in strafzaken; – De Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (hierna genoemd: „de algemene verordening gegevensbescherming”); – De Richtlijn (EU) 2016/680 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van Kaderbesluit 2008/977/JBZ van de Raad (hierna genoemd: „Richtlijn (EU) 2016/680”); Zijn het volgende overeengekomen:*
 
-het Groothertogdom Luxemburg,
-
-en
-
-het Koninkrijk der Nederlanden
-
-hierna genoemd „de Verdragsluitende Partijen”
-
-Geleid door:
-
-De wens de bestaande samenwerking tussen de Verdragsluitende Partijen verder te intensiveren en vastbesloten de mogelijkheden tot grensoverschrijdende politiële samenwerking uit te breiden met het oog op een nog nauwere samenwerking inzake de handhaving van de openbare orde en veiligheid en de voorkoming, de opsporing en het onderzoek van strafbare feiten;
-
-Overwegende:
-
-Dat het „[Verdrag tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg inzake grensoverschrijdend politieel optreden](https://wetten.overheid.nl/jci1.3:c:BWBV0001717)”, ondertekend te Luxemburg op 8 juni 2004, dient te worden geactualiseerd;
-
-Dat er zich gelet op de ontwikkeling inzake internationale politiesamenwerking opportuniteiten voordoen om de verschillende vormen van politiesamenwerking tussen Verdragsluitende Partijen verder uit te breiden, in het bijzonder inzake grensoverschrijdende opsporing, grensoverschrijdende achtervolging, uitwisseling van informatie met inbegrip van het verlenen van een ruimere toegang tot elkaars politiedatabanken;
-
-Dat de minister van Veiligheid en Binnenlandse Zaken en de minister van Justitie van het Koninkrijk België, de minister van Interne Veiligheid en de minister van Justitie van het Groothertogdom Luxemburg en de minister van Veiligheid en Justitie van het Koninkrijk der Nederlanden op 18 november 2016 een gemeenschappelijke verklaring hebben ondertekend waarin zij het engagement verwoorden om het[voornoemde verdrag van 8 juni 2004](https://wetten.overheid.nl/jci1.3:c:BWBV0001717) te moderniseren;
-
-Gelet op:
-
-Het [Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de Benelux Economische Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0003087), ondertekend te ’s-Gravenhage op 17 juni 2008 (hierna genoemd: „het Verdrag tot instelling van de Benelux Unie”), en in het bijzonder [artikel 2, tweede lid, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=2), en [artikel 3, tweede lid, onder c), van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=3);
-
-Het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), meer bepaald [deel III, titel V, „De ruimte van vrijheid, veiligheid en recht”](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=V);
-
-De Overeenkomst ter uitvoering van het tussen de regeringen van de staten van de Benelux Economische Unie, de bondsrepubliek Duitsland en de Franse republiek op 14 juni 1985 te Schengen gesloten akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen, ondertekend te Schengen op 19 juni 1990 (hierna genoemd: „de Schengen-Uitvoeringsovereenkomst”);
-
-Het [Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, het Koninkrijk Spanje, de Franse republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van het terrorisme, de grensoverschrijdende criminaliteit en de illegale migratie](https://wetten.overheid.nl/jci1.3:c:BWBV0002898), ondertekend te Prüm op 27 mei 2005;
-
-Het Besluit van de Raad 2003/170/JBZ van 27 februari 2003 betreffende het gezamenlijk gebruik van verbindingsofficieren die gedetacheerd zijn door de rechtshandhavende autoriteiten van de lidstaten, zoals gewijzigd door het besluit van de Raad 2006/560/JBZ van 24 juli 2006;
-
-Het Kaderbesluit 2006/960/JBZ van de Raad van 18 december 2006 betreffende de vereenvoudiging van de uitwisseling van informatie en inlichtingen tussen de rechtshandhavingsautoriteiten van de lidstaten van de Europese Unie (hierna genoemd: „het Zweeds Kaderbesluit”);
-
-Het Besluit 2008/615/JBZ van de Raad van 23 juni 2008 inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van terrorisme en grensoverschrijdende criminaliteit;
-
-Het Besluit 2008/616/JBZ van de Raad van 23 juni 2008 betreffende de uitvoering van Besluit 2008/615/JBZ inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van terrorisme en grensoverschrijdende criminaliteit;
-
-Het Besluit 2008/617/JBZ van de Raad van 23 juni 2008 ter verbetering van de samenwerking in crisissituaties tussen de speciale interventie-eenheden van de lidstaten van de Europese Unie;
-
-De [Richtlijn 2014/41](32014L0041)/EU van het Europees Parlement en de Raad van 3 april 2014 betreffende het Europees onderzoeksbevel in strafzaken;
-
-De Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming) (hierna genoemd: „de algemene verordening gegevensbescherming”);
-
-De Richtlijn (EU) 2016/680 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van Kaderbesluit 2008/977/JBZ van de Raad (hierna genoemd: „Richtlijn (EU) 2016/680”);
-
-Zijn het volgende overeengekomen:
-
-## TITEL 1. ALGEMENE BEPALINGEN
+### TITEL 1. ALGEMENE BEPALINGEN
 
 ##### Artikel 1. Begrippen
 
@@ -146,11 +79,11 @@ Dit doel omvat mede de bescherming en begeleiding van personen en goederen.
 
 1. Dit Verdrag beoogt de juridische instrumenten tot grensoverschrijdende politiële samenwerking, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=1&artikel=2&z=2023-10-01&g=2023-10-01) van dit Verdrag, aan te vullen ten opzichte van de bestaande internationale overeenkomsten en het recht van de Europese Unie. Dit betreft met name de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=21&z=2023-10-01&g=2023-10-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=3&artikel=22&z=2023-10-01&g=2023-10-01) van dit Verdrag die verdergaan dan het bepaalde in de artikelen 40 en 41 van de Schengen-Uitvoeringsovereenkomst.
 
-2. Dit Verdrag biedt een zelfstandige rechtsbasis voor de samenwerking zoals bedoeld in de titels 2 tot en met 6 van dit Verdrag. Voor zover de uitvoeringsmodaliteiten van deze vormen van samenwerking niet in of krachtens dit Verdrag bepaald zijn, geschiedt de samenwerking met inachtneming van het onderscheiden nationale recht van de Verdragsluitende Partijen.
+2. Dit Verdrag biedt een zelfstandige rechtsbasis voor de samenwerking zoals bedoeld in de [titels 2 tot en met 6 van dit Verdrag](https://wetten.overheid.nl/BWBR0012925). Voor zover de uitvoeringsmodaliteiten van deze vormen van samenwerking niet in of krachtens dit Verdrag bepaald zijn, geschiedt de samenwerking met inachtneming van het onderscheiden nationale recht van de Verdragsluitende Partijen.
 
 3. Indien bepalingen van dit Verdrag of de uitvoering ervan in strijd zijn met de verplichtingen van de Verdragsluitende Partijen die voortvloeien uit internationale overeenkomsten of uit het recht van de Europese Unie, wordt voorrang gegeven aan deze verplichtingen.
 
-## TITEL 2. UITWISSELING VAN PERSOONSGEGEVENS EN INFORMATIE
+### TITEL 2. UITWISSELING VAN PERSOONSGEGEVENS EN INFORMATIE
 
 ##### Artikel 4. Doel van de uitwisseling
 
@@ -202,7 +135,7 @@ De ambtenaren die rechtstreeks persoonsgegevens of informatie uitwisselen op bas
 
 ##### Artikel 8. Vertrouwelijkheid
 
-De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en verwerkingsverantwoordelijken moeten de graad van vertrouwelijkheid die de verstrekkende bevoegde dienst aan de persoonsgegevens en informatie heeft toegekend, waarborgen zoals voorzien in hun nationale recht, in overeenstemming met de concordantietabel van rubriceringen vervat in aanhangsel B van Besluit 2013/488/EU van de Raad van 23 september 2013 betreffende de beveiligingsvoorschriften voor de bescherming van gerubriceerde EU-informatie.
+De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en verwerkingsverantwoordelijken moeten de graad van vertrouwelijkheid die de verstrekkende bevoegde dienst aan de persoonsgegevens en informatie heeft toegekend, waarborgen zoals voorzien in hun nationale recht, in overeenstemming met de concordantietabel van rubriceringen vervat in aanhangsel B van Besluit 2013/488/EU van de Raad van 23 september 2013 betreffende de beveiligingsvoorschriften voor de bescherming van gerubriceerde EU-informatie.
 
 ##### Artikel 9. Doorverstrekking aan andere overheidsinstanties
 
@@ -296,7 +229,7 @@ De ontvangende bevoegde dienst en, waar van toepassing, de verdere verwerkers en
 
 3. Indien het eerste lid niet wordt toegepast dan kunnen de betreffende persoonsgegevens en informatie worden uitgewisseld op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=2&artikel=4&z=2023-10-01&g=2023-10-01) van dit Verdrag.
 
-## TITEL 3. GRENSOVERSCHRIJDEND OPTREDEN
+### TITEL 3. GRENSOVERSCHRIJDEND OPTREDEN
 
 ##### Artikel 18. Bijstand in de vorm van personeel en materieel
 
@@ -438,7 +371,7 @@ Indien de bevoegde autoriteit of dienst van de gaststaat geen toestemming verlee
 
 4. Wanneer een ambtenaar van een Verdragsluitende Partij in het kader van een optreden op een internationale trein of schip, een aanhouding verricht of een voorwerp in beslag neemt op zijn eigen grondgebied, en vervolgens om praktische redenen een grensoverschrijding noodzakelijk is, blijft de aanhouding of inbeslagneming van kracht op het grondgebied van de andere Verdragsluitende Partij. De bevoegde diensten van de gaststaat worden onverwijld van deze situatie op de hoogte gebracht. De aangehouden persoon of het in beslag genomen voorwerp wordt, zo nodig met de hulp van ambtenaren van de andere Verdragsluitende partij, zo spoedig mogelijk overgebracht naar de Verdragsluitende Partij op wier grondgebied de aanhouding of inbeslagneming is verricht.
 
-## TITEL 4. ANDERE VORMEN VAN SAMENWERKING
+### TITEL 4. ANDERE VORMEN VAN SAMENWERKING
 
 ##### Artikel 27. Verbindingsofficieren
 
@@ -508,9 +441,9 @@ De ambtenaar is bevoegd om zich in de uitvoering van zijn politietaken of in het
 
 3. De in het eerste lid bedoelde onderzoeksmaatregel wordt uitgevoerd overeenkomstig het nationale recht van de Verdragsluitende Partij op wier grondgebied de uitvoering ervan plaatsvindt. Indien het nationale recht van de aangezochte Verdragsluitende Partij bepaalt dat voor dergelijke onderzoeksmaatregel de toestemming nodig is van de betrokkene of derden, dan wel een bevel van de justitiële overheden van de aangezochte Verdragsluitende Partij, dan zal de aangezochte bevoegde dienst daartoe de nodige daden stellen overeenkomstig het eigen nationale recht alsof het feit waarop de vraag gebaseerd is, plaats heeft gevonden op het grondgebied van de aangezochte Verdragsluitende Partij.
 
-4. Het toezenden van de resultaten van de uitgevoerde onderzoeksmaatregelen aan de verzoekende Verdragsluitende Partij gebeurt overeenkomstig de nationale bepalingen waarmee de aangezochte Verdragsluitende Partij [Richtlijn 2014/41](32014L0041)/EU van het Europees parlement en de Raad van 3 april 2014 betreffende het Europees onderzoeksbevel in strafzaken heeft omgezet.
+4. Het toezenden van de resultaten van de uitgevoerde onderzoeksmaatregelen aan de verzoekende Verdragsluitende Partij gebeurt overeenkomstig de nationale bepalingen waarmee de aangezochte Verdragsluitende Partij Richtlijn 2014/41/EU van het Europees parlement en de Raad van 3 april 2014 betreffende het Europees onderzoeksbevel in strafzaken heeft omgezet.
 
-## TITEL 5. BEVOEGDHEDEN
+### TITEL 5. BEVOEGDHEDEN
 
 ##### Artikel 34. Gezag
 
@@ -666,7 +599,7 @@ Elke Verdragsluitende Partij draagt de kosten die voor haar overheden uit de toe
 
 In bijzondere gevallen kunnen de bevoegde diensten van de betrokken Verdragsluitende Partijen een afwijkende regeling overeenkomen.
 
-## TITEL 6. GRENSOVERSCHRIJDEND OPTREDEN VAN SPECIALE EENHEDEN
+### TITEL 6. GRENSOVERSCHRIJDEND OPTREDEN VAN SPECIALE EENHEDEN
 
 ##### Artikel 52. Toepassingsgebied
 
@@ -726,27 +659,27 @@ Deze titel regelt het optreden van de speciale eenheden van de Verdragsluitende 
 
 ##### Artikel 58. Vervoeren en dragen van wapens en munitie
 
-1. Tijdens een optreden of een aanwezigheid als bedoeld in de artikelen 53 tot en met 57 van dit Verdrag, mogen de betrokken leden van de speciale eenheden de wapens en munitie die in hun eigen land tot hun uitrusting behoren, vervoeren en dragen, mits deze vervoerd en gedragen mogen worden door de leden van de speciale eenheden van de Verdragsluitende Partij op wier grondgebied ze optreden of aanwezig zijn.
+1. Tijdens een optreden of een aanwezigheid als bedoeld in de [artikelen 53 tot en met 57](https://wetten.overheid.nl/BWBR0012925) van dit Verdrag, mogen de betrokken leden van de speciale eenheden de wapens en munitie die in hun eigen land tot hun uitrusting behoren, vervoeren en dragen, mits deze vervoerd en gedragen mogen worden door de leden van de speciale eenheden van de Verdragsluitende Partij op wier grondgebied ze optreden of aanwezig zijn.
 
-2. Tijdens een optreden of een aanwezigheid van leden van de speciale eenheden als bedoeld in de artikelen 53 tot en met 57 van dit Verdrag, zijn de bepalingen van [artikel 39, tweede](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=39&z=2023-10-01&g=2023-10-01) tot en met vierde lid, van overeenkomstige toepassing.
+2. Tijdens een optreden of een aanwezigheid van leden van de speciale eenheden als bedoeld in de [artikelen 53 tot en met 57](https://wetten.overheid.nl/BWBR0012925) van dit Verdrag, zijn de bepalingen van [artikel 39, tweede](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=39&z=2023-10-01&g=2023-10-01) tot en met vierde lid, van overeenkomstige toepassing.
 
 ##### Artikel 59. Gebruik van dwang en geweld
 
-1. De bepalingen van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=40&z=2023-10-01&g=2023-10-01) van dit Verdrag zijn van overeenkomstige toepassing op een optreden of een aanwezigheid van leden van de speciale eenheden als bedoeld in de artikelen 53 tot en met 57 van dit Verdrag.
+1. De bepalingen van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=40&z=2023-10-01&g=2023-10-01) van dit Verdrag zijn van overeenkomstige toepassing op een optreden of een aanwezigheid van leden van de speciale eenheden als bedoeld in de [artikelen 53 tot en met 57](https://wetten.overheid.nl/BWBR0012925) van dit Verdrag.
 
-2. In afwijking van [artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=40&z=2023-10-01&g=2023-10-01), van dit Verdrag, mogen leden van de speciale eenheden die in hun eigen land bevoegd zijn om automatische wapens of afstandsprecisievuurwapens te gebruiken, deze wapens tijdens een optreden of een aanwezigheid als bedoeld in de artikelen 53 tot en met 57 van dit Verdrag afvuren onder dezelfde wettelijke voorwaarden als de leden van de speciale eenheden van de Verdragsluitende Partij op wier grondgebied zij zich bevinden.
+2. In afwijking van [artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=40&z=2023-10-01&g=2023-10-01), van dit Verdrag, mogen leden van de speciale eenheden die in hun eigen land bevoegd zijn om automatische wapens of afstandsprecisievuurwapens te gebruiken, deze wapens tijdens een optreden of een aanwezigheid als bedoeld in de [artikelen 53 tot en met 57](https://wetten.overheid.nl/BWBR0012925) van dit Verdrag afvuren onder dezelfde wettelijke voorwaarden als de leden van de speciale eenheden van de Verdragsluitende Partij op wier grondgebied zij zich bevinden.
 
 ##### Artikel 60. Burgerrechtelijke en strafrechtelijke aansprakelijkheid
 
 1. Wanneer leden van de speciale eenheden van de aangezochte Verdragsluitende Partij op verzoek optreden als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=6&artikel=53&z=2023-10-01&g=2023-10-01) of [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=6&artikel=54&z=2023-10-01&g=2023-10-01) van dit Verdrag, zijn de bepalingen van artikel 48, vierde en vijfde lid, van overeenkomstige toepassing op dit optreden.
 
-2. Bij alle andere vormen van optreden of een aanwezigheid van leden van de speciale eenheden als bedoeld in de artikelen 55 tot en met 57 van dit Verdrag, zijn de bepalingen van [artikel 48, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=48&z=2023-10-01&g=2023-10-01), van overeenkomstige toepassing.
+2. Bij alle andere vormen van optreden of een aanwezigheid van leden van de speciale eenheden als bedoeld in de [artikelen 55 tot en met 57](https://wetten.overheid.nl/BWBR0012925) van dit Verdrag, zijn de bepalingen van [artikel 48, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=48&z=2023-10-01&g=2023-10-01), van overeenkomstige toepassing.
 
-3. Onder voorbehoud van de uitoefening van hun rechten tegenover derden en met uitzondering van het bepaalde in [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=48&z=2023-10-01&g=2023-10-01), zien de Verdragsluitende Partijen, bij een optreden of een aanwezigheid van speciale eenheden als bedoeld in de artikelen 53 tot 57 van dit Verdrag, ervan af het bedrag van de door hen geleden schade op elkaar te verhalen.
+3. Onder voorbehoud van de uitoefening van hun rechten tegenover derden en met uitzondering van het bepaalde in [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=48&z=2023-10-01&g=2023-10-01), zien de Verdragsluitende Partijen, bij een optreden of een aanwezigheid van speciale eenheden als bedoeld in de [artikelen 53 tot 57](https://wetten.overheid.nl/BWBR0012925) van dit Verdrag, ervan af het bedrag van de door hen geleden schade op elkaar te verhalen.
 
 4. De Verdragsluitende Partijen kunnen, door middel van een uitvoeringsovereenkomst, afwijken van het bepaalde in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=5&artikel=49&z=2023-10-01&g=2023-10-01) in het geval de ambtenaren van de zendstaat worden ingezet op grond van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=6&artikel=53&z=2023-10-01&g=2023-10-01), [54](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=6&artikel=54&z=2023-10-01&g=2023-10-01) of [55](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&titeldeel=6&artikel=55&z=2023-10-01&g=2023-10-01) van dit Verdrag.
 
-## TITEL 7. WIJZE VAN TOEPASSING EN SLOTBEPALINGEN
+### TITEL 7. WIJZE VAN TOEPASSING EN SLOTBEPALINGEN
 
 ##### Artikel 61. Uitzonderingsclausule
 
@@ -786,13 +719,13 @@ Uiterlijk vijf jaren na de inwerkingtreding van dit Verdrag brengen de bevoegde 
 
 3. Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de datum van de neerlegging bij de depositaris van de laatste akte van bekrachtiging, aanvaarding of goedkeuring. De depositaris stelt de Verdragsluitende Partijen op de hoogte van de datum van inwerkingtreding van dit Verdrag.
 
-4. Vanaf de inwerkingtreding van dit Verdrag, vervangt dit Verdrag het „[Verdrag tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake grensoverschrijdend politieel optreden](https://wetten.overheid.nl/jci1.3:c:BWBV0001717)”, ondertekend te Luxemburg op 8 juni 2004.
+4. Vanaf de inwerkingtreding van dit Verdrag, vervangt dit Verdrag het „[Verdrag tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake grensoverschrijdend politieel optreden](https://wetten.overheid.nl/jci1.3:c:BWBV0001717)”, ondertekend te Luxemburg op 8 juni 2004.
 
 5. Elke Verdragsluitende Partij kan dit Verdrag door schriftelijke kennisgeving aan de depositaris opzeggen. De depositaris notificeert deze kennisgeving aan de andere Verdragsluitende Partijen. De opzegging wordt van kracht zes maanden na laatstgenoemde kennisgeving. Het Verdrag blijft in werking tussen de overige twee Verdragsluitende Partijen. Verplichtingen die reeds vóór de schriftelijke kennisgeving van de opzegging werden aangegaan op basis van dit Verdrag, zullen volkomen gevolg blijven hebben.
 
 6. Elke Verdragsluitende Partij kan te allen tijde schriftelijk om wijziging of aanpassing van dit Verdrag verzoeken. Indien door een Verdragsluitende Partij een desbetreffend verzoek wordt ingediend, worden door de Verdragsluitende Partijen onderhandelingen inzake de wijziging van het Verdrag geopend. De Verdragsluitende Partijen stellen de wijzigingen van dit Verdrag in gemeen overleg vast. Elke wijziging of aanpassing treedt in werking overeenkomstig de modaliteiten bepaald in het eerste tot en met het derde lid van dit artikel.
 
-7. Een Verdragsluitende Partij kan, met betrekking tot de gegevens die deze Verdragsluitende Partij betreffen, aan de depositaris wijzigingen notificeren aan de inhoud van bijlagen 1 tot 6 van dit Verdrag. De depositaris geeft hiervan kennis aan de andere Verdragsluitende Partijen.
+7. Een Verdragsluitende Partij kan, met betrekking tot de gegevens die deze Verdragsluitende Partij betreffen, aan de depositaris wijzigingen notificeren aan de inhoud van [bijlagen 1 tot 6](https://wetten.overheid.nl/BWBR0015678) van dit Verdrag. De depositaris geeft hiervan kennis aan de andere Verdragsluitende Partijen.
 
 ##### Artikel 67. Territoriaal toepassingsgebied
 
@@ -804,20 +737,20 @@ Het territoriale toepassingsgebied van dit Verdrag is:
 
 - c. wat het Koninkrijk der Nederlanden betreft, het grondgebied in Europa.
 
-GEDAAN te Brussel op 23 juli 2018, in één origineel exemplaar, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
+GEDAAN te Brussel op 23 juli 2018, in één origineel exemplaar, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk België,**
+*Voor het Koninkrijk België,*
 
 J. JAMBON
 
 K. GEENS
 
-**Voor het Groothertogdom Luxemburg,**
+*Voor het Groothertogdom Luxemburg,*
 
 E. SCHNEIDER
 
 F. BRAZ
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 F. GRAPPERHAUS
