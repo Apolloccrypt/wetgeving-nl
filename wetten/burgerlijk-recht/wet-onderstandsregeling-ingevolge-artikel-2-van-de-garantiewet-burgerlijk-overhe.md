@@ -9,7 +9,7 @@ laatste_update: 1998-04-01
 status: geldig
 toestand: 1998-04-01
 bron: "https://wetten.overheid.nl/BWBR0002083"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 21 December 1951, houdende een onderstandsregeling ingevolge artikel 2 van de "Garantiewet Burgerlijk Overheidspersoneel Indonesië"

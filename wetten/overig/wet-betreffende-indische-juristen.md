@@ -9,7 +9,7 @@ laatste_update: 2008-09-01
 status: geldig
 toestand: 2008-09-01
 bron: "https://wetten.overheid.nl/BWBR0002081"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 16 augustus 1951, tot openstelling van rechterlijke betrekkingen advocatuur en notariaat voor bepaalde groepen van Indische juristen, notarissen en candidaat-notarissen

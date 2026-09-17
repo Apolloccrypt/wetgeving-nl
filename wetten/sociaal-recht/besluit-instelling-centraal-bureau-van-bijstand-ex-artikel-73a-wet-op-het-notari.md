@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0001961"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 20 mei 1933, tot vaststelling van een algemeenen maatregel van bestuur, bedoeld in artikel 73a der Wet op het Notarisambt, gelijk dit artikel is vastgesteld bij de wet van 15 mei 1931, Stb. 195

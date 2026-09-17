@@ -1,102 +1,63 @@
 ---
 title: "Algemene Overeenkomst betreffende de privileges en immuniteiten van de Internationale Politie Organisatie – INTERPOL"
+citeertitel: "Algemene Overeenkomst betreffende de privileges en immuniteiten van de Internationale Politie Organisatie - INTERPOL"
 identifier: "BWBV0007138"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-11-24"
-last_updated: "2025-11-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007138"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005724153"
-version_id: "10006325452"
-internal_id: "C10010239121"
-label_id: "10005705764"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007138/2025-11-24/0"
-intitule_bron: "Trb.2026-34"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2026-04-07"
-intitule_status: "nogniet"
-original_publication: "Trb.2026-34"
-original_published_date: "2026-04-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2026-34"
-jci_1_3: "jci1.3:c:BWBV0007138&z=2025-11-24&g=2025-11-24"
-jci_1_0: "1.0:c:BWBV0007138&g=2025-11-24"
-citeertitel_status: "redactioneel"
-short_title: "Algemene Overeenkomst betreffende de privileges en immuniteiten van de Internationale Politie Organisatie - INTERPOL"
-entry_into_force: "2026-04-07"
+laatste_update: 2025-11-24
+status: geldig
+toestand: 2025-11-24
+bron: "https://wetten.overheid.nl/BWBV0007138"
+opgehaald: 2026-09-17
 ---
+
 # Algemene Overeenkomst betreffende de privileges en immuniteiten van de Internationale Politie Organisatie – INTERPOL
 
-The States Parties to this General Agreement:
-
-**Considering** that the International Criminal Police Organization – INTERPOL (“ICPO-INTERPOL”) aims, under the terms of its Constitution, to ensure and promote the widest possible mutual assistance between all criminal police authorities within the limits of the domestic laws of its Member Countries and in the spirit of the Universal Declaration of Human Rights, and to establish and develop all institutions likely to contribute effectively to the prevention and suppression of ordinary law crimes,
-
-**Reaffirming** the principles and purposes set out in the ICPO-INTERPOL’s Constitution,
-
-**Considering** that, in accordance with paragraph 3 of Article 30 of the ICPO-INTERPOL’s Constitution, all the ICPO-INTERPOL’s Member Countries shall do their best to assist the Secretary General and the staff of the ICPO-INTERPOL in the discharge of their functions,
-
-**Considering** that, in accordance with Article 31 of the ICPO-INTERPOL’s Constitution, the ICPO-INTERPOL needs the constant and active cooperation of its Member Countries, who should do all within their power which is compatible with the legislation of their countries to participate diligently in its activities,
-
-**Considering** that the ICPO-INTERPOL’s mandate, activities and operations take place in the territory of all its Member Countries, with the consequent mobility of persons, goods and services required to carry out these activities and operations,
-
-**Considering** also that the Representatives of the Member Countries, the Members of Certain of the ICPO-INTERPOL’s Bodies, and the Officials of the ICPO-INTERPOL must enjoy privileges and immunities in order to discharge their functions on behalf of the ICPO-INTERPOL with complete independence,
-
-**Considering** that the purpose of such privileges and immunities is not to benefit individuals but to ensure the efficient performance of the functions of the Representatives of the Member Countries, the Members of Certain of the ICPO-INTERPOL’s Bodies, and the Officials of the ICPO-INTERPOL,
-
-**Desiring** to clarify the extent of the privileges and immunities applicable to the ICPO-INTERPOL’s activities and operations,
-
-**Reaffirming** the fundamental respect for the principles of the sovereign equality, territorial integrity, and political independence of States, and non-intervention by States in the domestic affairs of other States,
-
-**Convinced** that granting such privileges and immunities will contribute to strengthening and developing international police cooperation,
-
-**Have agreed** as follows:
+*The States Parties to this General Agreement: Considering that the International Criminal Police Organization – INTERPOL (“ICPO-INTERPOL”) aims, under the terms of its Constitution, to ensure and promote the widest possible mutual assistance between all criminal police authorities within the limits of the domestic laws of its Member Countries and in the spirit of the Universal Declaration of Human Rights, and to establish and develop all institutions likely to contribute effectively to the prevention and suppression of ordinary law crimes, Reaffirming the principles and purposes set out in the ICPO-INTERPOL’s Constitution, Considering that, in accordance with paragraph 3 of Article 30 of the ICPO-INTERPOL’s Constitution, all the ICPO-INTERPOL’s Member Countries shall do their best to assist the Secretary General and the staff of the ICPO-INTERPOL in the discharge of their functions, Considering that, in accordance with Article 31 of the ICPO-INTERPOL’s Constitution, the ICPO-INTERPOL needs the constant and active cooperation of its Member Countries, who should do all within their power which is compatible with the legislation of their countries to participate diligently in its activities, Considering that the ICPO-INTERPOL’s mandate, activities and operations take place in the territory of all its Member Countries, with the consequent mobility of persons, goods and services required to carry out these activities and operations, Considering also that the Representatives of the Member Countries, the Members of Certain of the ICPO-INTERPOL’s Bodies, and the Officials of the ICPO-INTERPOL must enjoy privileges and immunities in order to discharge their functions on behalf of the ICPO-INTERPOL with complete independence, Considering that the purpose of such privileges and immunities is not to benefit individuals but to ensure the efficient performance of the functions of the Representatives of the Member Countries, the Members of Certain of the ICPO-INTERPOL’s Bodies, and the Officials of the ICPO-INTERPOL, Desiring to clarify the extent of the privileges and immunities applicable to the ICPO-INTERPOL’s activities and operations, Reaffirming the fundamental respect for the principles of the sovereign equality, territorial integrity, and political independence of States, and non-intervention by States in the domestic affairs of other States, Convinced that granting such privileges and immunities will contribute to strengthening and developing international police cooperation, Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 1. For the purposes of this General Agreement:
 
-- a). “Agreement” means the present General Agreement;
+- a) “Agreement” means the present General Agreement;
 
-- b). “Archives of the ICPO-INTERPOL” means all information in any medium, including but not limited to the records, correspondences, papers, documents, manuscripts, photographs, films, recordings, computer programmes, video tapes, discs and data belonging to, sent to, received by, processed by, held by, produced by, elaborated by, or that is transiting through the ICPO-INTERPOL;
+- b) “Archives of the ICPO-INTERPOL” means all information in any medium, including but not limited to the records, correspondences, papers, documents, manuscripts, photographs, films, recordings, computer programmes, video tapes, discs and data belonging to, sent to, received by, processed by, held by, produced by, elaborated by, or that is transiting through the ICPO-INTERPOL;
 
-- c). “Constitution” means the Constitution of the ICPO-INTERPOL, which entered into force on 13 June 1956, and any subsequent amendments;
+- c) “Constitution” means the Constitution of the ICPO-INTERPOL, which entered into force on 13 June 1956, and any subsequent amendments;
 
-- d). “INTERPOL Information System” means all the structured material resources and software used by the ICPO-INTERPOL – databases, communications infrastructure, advanced sensor technology and other services – to process data through its channels in the context of international police cooperation;
+- d) “INTERPOL Information System” means all the structured material resources and software used by the ICPO-INTERPOL – databases, communications infrastructure, advanced sensor technology and other services – to process data through its channels in the context of international police cooperation;
 
-- e). “Members of Certain of the ICPO-INTERPOL’s Bodies” means the members of the Executive Committee, the members of the Commission for the Control of Files and the Advisers;
+- e) “Members of Certain of the ICPO-INTERPOL’s Bodies” means the members of the Executive Committee, the members of the Commission for the Control of Files and the Advisers;
 
-- f). “Officials of the ICPO-INTERPOL” means the Secretary General and staff members of the General Secretariat, within the meaning of Article 27 of the Constitution, who are subject to the INTERPOL Staff Regulations and Rules;
+- f) “Officials of the ICPO-INTERPOL” means the Secretary General and staff members of the General Secretariat, within the meaning of Article 27 of the Constitution, who are subject to the INTERPOL Staff Regulations and Rules;
 
-- g). “Official Activities” means activities necessary for and carried out in the implementation of the ICPO-INTERPOL’s aims as set out in the Constitution;
+- g) “Official Activities” means activities necessary for and carried out in the implementation of the ICPO-INTERPOL’s aims as set out in the Constitution;
 
-- h). “Premises of the ICPO-INTERPOL” means the land, building(s) and/or parts of building(s), irrespective of ownership, used exclusively by the ICPO-INTERPOL in order to carry out its Official Activities, on a temporary or permanent basis, provided there is prior consent of the host country;
+- h) “Premises of the ICPO-INTERPOL” means the land, building(s) and/or parts of building(s), irrespective of ownership, used exclusively by the ICPO-INTERPOL in order to carry out its Official Activities, on a temporary or permanent basis, provided there is prior consent of the host country;
 
-- i). “Property, Funds, and Assets” means property and funds owned, in custody of, or administered by the ICPO-INTERPOL in furtherance of its constitutional functions;
+- i) “Property, Funds, and Assets” means property and funds owned, in custody of, or administered by the ICPO-INTERPOL in furtherance of its constitutional functions;
 
-- j). “Representatives of Member Countries” means delegates from Member Countries duly accredited for attending sessions of the ICPO-INTERPOL’s bodies or conferences or meetings convened by the ICPO-INTERPOL;
+- j) “Representatives of Member Countries” means delegates from Member Countries duly accredited for attending sessions of the ICPO-INTERPOL’s bodies or conferences or meetings convened by the ICPO-INTERPOL;
 
-- k). “State Party” means any Member Country of the ICPO-INTERPOL for which this Agreement has entered into force;
+- k) “State Party” means any Member Country of the ICPO-INTERPOL for which this Agreement has entered into force;
 
-- l). “Statutory Meetings” means sessions of the ICPO-INTERPOL’s General Assembly and Executive Committee, Regional Conferences, Heads of National Central Bureaus Conferences, and any other meetings of a body or subsidiary body of the ICPO-INTERPOL held in accordance with the Constitution.
+- l) “Statutory Meetings” means sessions of the ICPO-INTERPOL’s General Assembly and Executive Committee, Regional Conferences, Heads of National Central Bureaus Conferences, and any other meetings of a body or subsidiary body of the ICPO-INTERPOL held in accordance with the Constitution.
 
 2. For the purposes of this Agreement, the following terms are accorded the meaning as provided in the Constitution:
 
-- a). Advisers;
+- a) Advisers;
 
-- b). Commission for the Control of Files;
+- b) Commission for the Control of Files;
 
-- c). Executive Committee;
+- c) Executive Committee;
 
-- d). General Assembly;
+- d) General Assembly;
 
-- e). General Secretariat;
+- e) General Secretariat;
 
-- f). National Central Bureau; and
+- f) National Central Bureau; and
 
-- g). Secretary General.
+- g) Secretary General.
 
 ##### Article 2. Object and purpose
 
@@ -108,21 +69,21 @@ This Agreement aims to grant the ICPO-INTERPOL privileges and immunities in orde
 
 2. It shall also have legal capacity, in particular:
 
-- a). to contract;
+- a) to contract;
 
-- b). to acquire and dispose of immovable and movable property; and
+- b) to acquire and dispose of immovable and movable property; and
 
-- c). to institute legal proceedings.
+- c) to institute legal proceedings.
 
 ##### Article 4. Immunity from legal process and other actions
 
 1. The ICPO-INTERPOL, its property, funds, and assets, wherever located and by whomsoever held, shall enjoy immunity from judicial and other forms of legal process, except:
 
-- a). insofar as in any particular case it has expressly waived such immunity; the waiver of jurisdictional immunity is not intended to imply a waiver of immunity regarding enforcement measures, for which a separate waiver is required;
+- a) insofar as in any particular case it has expressly waived such immunity; the waiver of jurisdictional immunity is not intended to imply a waiver of immunity regarding enforcement measures, for which a separate waiver is required;
 
-- b). in respect of the enforcement of an award made under a dispute settlement mechanism provided for under [Article 15(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0007138&artikel=15&z=2025-11-24&g=2025-11-24); and
+- b) in respect of the enforcement of an award made under a dispute settlement mechanism provided for under [Article 15(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0007138&artikel=15&z=2025-11-24&g=2025-11-24); and
 
-- c). arising from civil actions brought in case of damage resulting from an accident caused by a motor vehicle or other means of transportation owned by or used on behalf of the ICPO-INTERPOL.
+- c) arising from civil actions brought in case of damage resulting from an accident caused by a motor vehicle or other means of transportation owned by or used on behalf of the ICPO-INTERPOL.
 
 2. The Premises, property, funds, and assets of the ICPO-INTERPOL shall be inviolable. The ICPO-INTERPOL’s Premises, property, funds, and assets, wherever located and by whomsoever held, shall enjoy immunity from any form of search, seizure, confiscation, requisition, expropriation, and any other form of interference, whether by execution, administrative, judicial, or legislative action.
 
@@ -138,9 +99,9 @@ This Agreement aims to grant the ICPO-INTERPOL privileges and immunities in orde
 
 The ICPO-INTERPOL may, without being restricted by any financial controls, regulations or moratoria:
 
-- a). Receive and hold funds and foreign exchange of any kind and open, operate and manage accounts in any currency; and
+- a) Receive and hold funds and foreign exchange of any kind and open, operate and manage accounts in any currency; and
 
-- b). Freely transfer its funds or currency within any country, or from one country to another, and convert any currency held by it into any other currency, according to the procedures established by the applicable national legislation.
+- b) Freely transfer its funds or currency within any country, or from one country to another, and convert any currency held by it into any other currency, according to the procedures established by the applicable national legislation.
 
 ##### Article 7. Tax exemptions for official use
 
@@ -158,19 +119,19 @@ The ICPO-INTERPOL may, without being restricted by any financial controls, regul
 
 1. The competent authorities of any State Party shall take all necessary measures to facilitate the entry into and exit from their territory for the purpose of attending a Statutory Meeting:
 
-- a). Representatives of Member Countries and their delegations;
+- a) Representatives of Member Countries and their delegations;
 
-- b). Members of the Executive Committee and their delegations;
+- b) Members of the Executive Committee and their delegations;
 
-- c). Officials of the ICPO-INTERPOL;
+- c) Officials of the ICPO-INTERPOL;
 
-- d). Members of the Commission for the Control of Files and persons carrying out official duties on its behalf;
+- d) Members of the Commission for the Control of Files and persons carrying out official duties on its behalf;
 
-- e). Interpreters and minute-takers hired by the General Secretariat;
+- e) Interpreters and minute-takers hired by the General Secretariat;
 
-- f). Advisers; and
+- f) Advisers; and
 
-- g). Observers, experts, and other persons who have been officially invited to attend sessions of the ICPO-INTERPOL’s Statutory Meetings, or to attend conferences or meetings convened by the ICPO-INTERPOL, or who have been officially requested by the ICPO-INTERPOL to perform duties within the framework of its bodies.
+- g) Observers, experts, and other persons who have been officially invited to attend sessions of the ICPO-INTERPOL’s Statutory Meetings, or to attend conferences or meetings convened by the ICPO-INTERPOL, or who have been officially requested by the ICPO-INTERPOL to perform duties within the framework of its bodies.
 
 2. Any applications for visas or entry or exit permits required for persons referred to in paragraph (1) of this Article shall be dealt with free of charge and as quickly as possible in accordance with applicable legislation. The ICPO-INTERPOL will ensure that the persons concerned submit their visa applications sufficiently in advance.
 
@@ -178,29 +139,29 @@ The ICPO-INTERPOL may, without being restricted by any financial controls, regul
 
 Members of Certain of the ICPO-INTERPOL’s bodies shall be granted within and with respect to the States Parties to this Agreement the following privileges and immunities while carrying out Official Activities and throughout their journey to or from the designated location where a meeting is held by the ICPO-INTERPOL:
 
-- a). Immunity from personal arrest or detention;
+- a) Immunity from personal arrest or detention;
 
-- b). Immunity from inspection and seizure of their baggage;
+- b) Immunity from inspection and seizure of their baggage;
 
-- c). Immunity from legal process of every kind, even if they no longer hold the status referred to above, in respect of words spoken or written and all acts performed by them in their official capacity;
+- c) Immunity from legal process of every kind, even if they no longer hold the status referred to above, in respect of words spoken or written and all acts performed by them in their official capacity;
 
-- d). Exemption from immigration restrictions or alien registration in the State Party they are visiting or through which they are passing in the exercise of their functions; and
+- d) Exemption from immigration restrictions or alien registration in the State Party they are visiting or through which they are passing in the exercise of their functions; and
 
-- e). Inviolability of all papers, documents and data, whether in hard-copy or electronic format.
+- e) Inviolability of all papers, documents and data, whether in hard-copy or electronic format.
 
 ##### Article 10. Representatives of Member Countries
 
 1. Representatives of Member Countries who have been notified to the appropriate authorities of the States Parties to this Agreement shall be granted within and with respect to those States Parties the following privileges and immunities while participating in Official Activities and throughout their journey to or from the designated location where a meeting is held by the ICPO-INTERPOL:
 
-- a). Immunity from arrest or detention;
+- a) Immunity from arrest or detention;
 
-- b). Immunity from inspection and seizure of their baggage;
+- b) Immunity from inspection and seizure of their baggage;
 
-- c). Immunity from legal process of every kind, even if they no longer hold the status referred to above, in respect of words spoken or written and all acts performed by them in their official capacity;
+- c) Immunity from legal process of every kind, even if they no longer hold the status referred to above, in respect of words spoken or written and all acts performed by them in their official capacity;
 
-- d). Exemption from immigration restrictions or alien registration in the State Party they are visiting or through which they are passing in the exercise of their functions; and
+- d) Exemption from immigration restrictions or alien registration in the State Party they are visiting or through which they are passing in the exercise of their functions; and
 
-- e). Inviolability of all papers, documents and data, whether in hard-copy or electronic format.
+- e) Inviolability of all papers, documents and data, whether in hard-copy or electronic format.
 
 2. The provisions of this article are not applicable in relation to the authorities of a State Party of which the person is a national or permanent resident, or of which he or she has been a representative.
 
@@ -208,25 +169,25 @@ Members of Certain of the ICPO-INTERPOL’s bodies shall be granted within and w
 
 1. Officials of the ICPO-INTERPOL shall be granted the following privileges and immunities:
 
-- a). Immunity from legal process of every kind, even after they have ceased to be Officials of the ICPO-INTERPOL, in respect of words spoken or written and all acts performed by them in their official capacity;
+- a) Immunity from legal process of every kind, even after they have ceased to be Officials of the ICPO-INTERPOL, in respect of words spoken or written and all acts performed by them in their official capacity;
 
-- b). Immunity from immigration restrictions and alien registration. Applications for visas, where required, from Officials of the ICPO-INTERPOL, when accompanied by a certificate that they are travelling to carry out Official Activities of the ICPO-INTERPOL, shall be dealt with as quickly as possible by the States Parties in accordance with applicable legislation. In addition, such persons shall be granted facilities for speedy travel;
+- b) Immunity from immigration restrictions and alien registration. Applications for visas, where required, from Officials of the ICPO-INTERPOL, when accompanied by a certificate that they are travelling to carry out Official Activities of the ICPO-INTERPOL, shall be dealt with as quickly as possible by the States Parties in accordance with applicable legislation. In addition, such persons shall be granted facilities for speedy travel;
 
-- c). Exemption from national service obligations;
+- c) Exemption from national service obligations;
 
-- d). The same privileges in respect of foreign exchange as are granted by the State Party to members of diplomatic missions, having comparable rank;
+- d) The same privileges in respect of foreign exchange as are granted by the State Party to members of diplomatic missions, having comparable rank;
 
-- e). The same protection and repatriation facilities with respect to themselves and members of their families forming part of their households as are accorded, in times of international crisis, to members of the staff of diplomatic missions; and
+- e) The same protection and repatriation facilities with respect to themselves and members of their families forming part of their households as are accorded, in times of international crisis, to members of the staff of diplomatic missions; and
 
-- f). Exemption from taxation with respect to the emoluments, including salaries, salary supplements and allowances, as well as compensations and indemnities paid to them by the ICPO-INTERPOL.
+- f) Exemption from taxation with respect to the emoluments, including salaries, salary supplements and allowances, as well as compensations and indemnities paid to them by the ICPO-INTERPOL.
 
 2. In addition, and without prejudice to the privileges and immunities set forth in paragraph (1) of this Article, the Secretary General of the ICPO-INTERPOL, including any Official acting in this capacity during the Secretary General’s absence from duty, shall be accorded, while in the territory of a State Party, and throughout the duration of his or her functions, in respect of himself or herself, the privileges and immunities, exemptions and facilities normally accorded to heads of diplomatic missions by that State Party, in accordance with international law.
 
 3. The immunities referred to in paragraphs (1) and (2) of this Article do not extend to:
 
-- a). Road traffic misdemeanours and offences;
+- a) Road traffic misdemeanours and offences;
 
-- b). Civil actions brought in case of damage resulting from an accident caused by a motor vehicle or other means of transportation owned by or used on behalf of Officials.
+- b) Civil actions brought in case of damage resulting from an accident caused by a motor vehicle or other means of transportation owned by or used on behalf of Officials.
 
 4. The ICPO-INTERPOL shall determine the categories of Officials of the ICPO-INTERPOL to whom this Article shall apply and shall make this determination known to the States Parties. The ICPO-INTERPOL shall also inform the States Parties of any substantial changes in that regard.
 
@@ -264,11 +225,11 @@ No person enjoying privileges and immunities under this agreement shall be requi
 
 The ICPO-INTERPOL shall take appropriate measures to ensure the satisfactory settlement of disputes:
 
-- a). arising from contracts to which the ICPO-INTERPOL is a party. The ICPO-INTERPOL shall include in its contracts a clause whereby any dispute arising from the interpretation or performance of the contract shall be settled by consultation or mediation, or by an arbitration procedure agreed between the parties, in the absence of an amicable settlement of the dispute between them;
+- a) arising from contracts to which the ICPO-INTERPOL is a party. The ICPO-INTERPOL shall include in its contracts a clause whereby any dispute arising from the interpretation or performance of the contract shall be settled by consultation or mediation, or by an arbitration procedure agreed between the parties, in the absence of an amicable settlement of the dispute between them;
 
-- b). concerning data processing in the INTERPOL Information System, which may be brought before the Commission for the Control of Files; and
+- b) concerning data processing in the INTERPOL Information System, which may be brought before the Commission for the Control of Files; and
 
-- c). between the ICPO-INTERPOL and its Officials which may be submitted to the Administrative Tribunal of the International Labour Organization.
+- c) between the ICPO-INTERPOL and its Officials which may be submitted to the Administrative Tribunal of the International Labour Organization.
 
 ##### Article 16. Settlement of disputes with States Parties
 
@@ -296,9 +257,9 @@ The ICPO-INTERPOL shall take appropriate measures to ensure the satisfactory set
 
 7. A State which becomes a Party to the present Agreement after the entry into force of an amendment shall, failing an expression of different intention by that State:
 
-- a). Be considered a Party to the present Agreement as so amended; and
+- a) Be considered a Party to the present Agreement as so amended; and
 
-- b). Be considered a Party to the unamended Agreement in relation to any State Party not bound by the amendment.
+- b) Be considered a Party to the unamended Agreement in relation to any State Party not bound by the amendment.
 
 ##### Article 18. Interpretation
 
@@ -332,6 +293,6 @@ The ICPO-INTERPOL shall take appropriate measures to ensure the satisfactory set
 
 The Secretary General of the ICPO-INTERPOL shall be the depositary of this Agreement.
 
-**IN WITNESS WHEREOF**, the undersigned Representatives, having been duly authorized thereto by their respective governments, have signed this Agreement.
+*IN WITNESS WHEREOF*, the undersigned Representatives, having been duly authorized thereto by their respective governments, have signed this Agreement.
 
 DONE at Marrakech, Kingdom of Morocco, on 24 November 2025, in the Arabic, English, French and Spanish languages, all texts being equally authoritative and deposited in the archives of the ICPO-INTERPOL, the Secretary General of which shall transmit a certified true copy to all signatory and acceding States.

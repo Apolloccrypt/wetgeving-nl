@@ -9,7 +9,7 @@ laatste_update: 1999-09-01
 status: geldig
 toestand: 1999-09-01
 bron: "https://wetten.overheid.nl/BWBR0002341"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 23 juni 1960, houdende voorzieningen op het terrein van de invoerrechten en accijnzen ter uitvoering van het Benelux-Unieverdrag en andere internationale overeenkomsten

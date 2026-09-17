@@ -9,7 +9,7 @@ laatste_update: 1961-07-27
 status: geldig
 toestand: 1961-07-27
 bron: "https://wetten.overheid.nl/BWBR0002159"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 10 november 1954, houdende vaststelling van een premieregeling voor reserve-personeel bij de gronddienst van de Koninklijke Luchtmacht

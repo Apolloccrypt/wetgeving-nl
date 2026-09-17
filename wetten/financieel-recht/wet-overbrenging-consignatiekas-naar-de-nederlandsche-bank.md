@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0001972"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 27 maart 1936, tot overbrenging van de consignatiekas voor het bewaren van effecten aan toonder naar de Nederlandsche Bank

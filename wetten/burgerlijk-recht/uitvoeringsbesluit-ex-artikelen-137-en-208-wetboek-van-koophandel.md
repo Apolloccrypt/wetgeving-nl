@@ -9,7 +9,7 @@ laatste_update: 1936-03-20
 status: geldig
 toestand: 1936-03-20
 bron: "https://wetten.overheid.nl/BWBR0001970"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 2 maart 1936, tot vaststelling van een algemeenen maatregel van bestuur, als bedoeld in de artikelen 137, tweede lid, en 208, tweede lid, van het Wetboek van Koophandel

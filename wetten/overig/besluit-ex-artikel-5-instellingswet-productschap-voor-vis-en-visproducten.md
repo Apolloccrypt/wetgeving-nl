@@ -9,7 +9,7 @@ laatste_update: 1959-01-01
 status: geldig
 toestand: 1959-01-01
 bron: "https://wetten.overheid.nl/BWBR0002303"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 1 december 1958, houdende uitvoering van artikel 5, eerste lid, onder a, van de Instellingswet Productschap voor Vis en Visproducten

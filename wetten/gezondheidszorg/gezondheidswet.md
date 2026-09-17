@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0002202"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 18 januari 1956, houdende nieuwe wettelijke voorschriften met betrekking tot de organisatie van de zorg voor de volksgezondheid

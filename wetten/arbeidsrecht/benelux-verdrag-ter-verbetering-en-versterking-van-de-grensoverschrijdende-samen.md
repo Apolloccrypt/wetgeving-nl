@@ -2,83 +2,17 @@
 title: "Benelux-Verdrag ter verbetering en versterking van de grensoverschrijdende samenwerking op het gebied van de bestrijding van de sociale fraude en onjuistheden in de sociale zekerheid, de bescherming van de gezondheid en de veiligheid op het werk en van fatsoenlijke arbeidsvoorwaarden"
 identifier: "BWBV0007155"
 categorie: "Arbeidsrecht"
-publicatiedatum: 2026-03-09
-laatste_update: 2026-06-02
+soort: "verdrag"
+laatste_update: 2026-03-09
 status: geldig
+toestand: 2026-03-09
 bron: "https://wetten.overheid.nl/BWBV0007155"
+opgehaald: 2026-09-17
 ---
 
 # Benelux-Verdrag ter verbetering en versterking van de grensoverschrijdende samenwerking op het gebied van de bestrijding van de sociale fraude en onjuistheden in de sociale zekerheid, de bescherming van de gezondheid en de veiligheid op het werk en van fatsoenlijke arbeidsvoorwaarden
 
-Het Koninkrijk België, vertegenwoordigd door:
-
-De Federale Regering,
-
-De Vlaamse Regering,
-
-De Regering van de Franse Gemeenschap,
-
-De Waalse Regering,
-
-De Regering van het Brussels Hoofdstedelijk Gewest,
-
-De Regering van de Duitstalige Gemeenschap,
-
-Het Groothertogdom Luxemburg,
-
-Het Koninkrijk der Nederlanden,
-
-hierna te noemen: „de Verdragsluitende Partijen”,
-
-Geleid door de wens de nauwe grensoverschrijdende samenwerking tussen de drie landen van de Benelux Unie inzake de bestrijding van grensoverschrijdende sociale fraude en sociale dumping te verbeteren en te versterken,
-
-Vanuit het perspectief van het garanderen van het vrije verkeer en de rechten van sociaal verzekerden,
-
-Verlangend onjuistheden en misbruik te vermijden en grensoverschrijdende sociale fraude en sociale dumping te bestrijden,
-
-Overwegende dat sociale fraude in haar vele facetten zoals sociale dumping, schijnconstructies, detacheringsfraude, premie- en uitkeringsfraude, frauduleuze uitzendkantoren, illegale arbeid en zwartwerk dan wel bedrieglijk gemeld werk, een groeiend maatschappelijk probleem vormt en steeds vaker een georganiseerd karakter vertoont,
-
-Overwegende dat moet worden gezorgd voor een efficiënte bescherming van de werkgelegenheid, de veiligheid, de gezondheid en de hygiëne op het werk, alsmede voor fatsoenlijke en billijke arbeidsomstandigheden en -voorwaarden, met name voor werkenden die zich in een kwetsbare situatie bevinden,
-
-Overwegende dat de controle- en inspectiediensten worden geconfronteerd met juridische, administratieve, praktische en territoriale beperkingen,
-
-Gelet op [artikel 6, lid 2, onder f), van het Verdrag tot instelling van de Benelux Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=6), ondertekend te ’s-Gravenhage op 17 juni 2008,
-
-Gezien het [Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid](onbekend), ondertekend te Brussel op 6 december 2010, en de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg betreffende de samenwerking en de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, ondertekend te Brussel op 5 februari 2015,
-
-Gezien het [IAO-Verdrag nr. 81 van 1947 betreffende de arbeidsinspectie in de industrie en handel](onbekend) en Aanbeveling nr. 81 betreffende de arbeidsinspectie,
-
-Overwegende het Handvest van de grondrechten van de Europese Unie en met name artikel 15 met betrekking tot de vrijheid van beroep en het recht om te werken op het grondgebied van de lidstaten, artikel 31 met betrekking tot rechtvaardige en billijke arbeidsomstandigheden en -voorwaarden en artikel 34 met betrekking tot de sociale zekerheid en sociale bijstand, alsmede hoofdstuk II en III van de Europese Pijler van sociale rechten,
-
-Rekening houdend met de samenwerking en de uitwisseling van informatie overeenkomstig de verscheidene Europese bepalingen die op dit gebied van toepassing zijn, waaronder:
-
-[Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels,
-
-[Verordening (EG) nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van [verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de socialezekerheidsstelsels,
-
-[Verordening (EU) nr. 1231/2010](32010R1231) van het Europees Parlement en de Raad van 24 november 2010 tot uitbreiding van [verordening (EG) nr. 883/2004](32004R0883) en [verordening (EG) nr. 987/2009](32009R0987) tot onderdanen van derde landen die enkel door hun nationaliteit nog niet onder deze verordeningen vallen,
-
-[Verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming),
-
-[Verordening (EU) 2019/1149](32019R1149) van het Europees Parlement en de Raad van 20 juni 2019 tot oprichting van een Europese Arbeidsautoriteit, tot wijziging van de [verordeningen (EG) nr. 883/2004](32004R0883), [(EU) 492/2011](32011R0492) en [(EU) 2016/589](32016R0589), en tot intrekking van besluit [(EU) 2016/344](32016R0344),
-
-[Richtlijn 96/71/EG](31996L0071) van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten,
-
-[Richtlijn 2014/67/EU](32014L0067) van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van [richtlijn 96/71/EG](31996L0071) betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten en tot wijziging van [verordening (EU) nr. 1024/2012](32012R1024) betreffende de administratieve samenwerking via het informatiesysteem interne markt („de IMI-verordening”),
-
-[Richtlijn (EU) 2016/680](32016L0680) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van kaderbesluit 2008/977/JBZ van de Raad,
-
-[Richtlijn (EU) 2019/1152](32019L1152) van het Europees Parlement en de Raad van 20 juni 2019 betreffende transparante en voorspelbare arbeidsvoorwaarden in de Europese Unie,
-
-[Richtlijn (EU) 2020/1057](32020L1057) van het Europees Parlement en de Raad van 15 juli 2020 tot vaststelling van specifieke regels met betrekking tot [richtlijn 96/71/EG](31996L0071) en [richtlijn 2014/67/EU](32014L0067) wat betreft de detachering van bestuurders in de wegvervoersector en tot wijziging van [richtlijn 2006/22/EG](32006L0022) wat betreft de handhavingsvoorschriften en [verordening (EU) nr. 1024/2012](32012R1024),
-
-Overeenkomst krachtens artikel 16, eerste lid, van [verordening (EG) nr. 883/2004](32004R0883) betreffende de vaststelling van de op Rijnvarenden toepasselijke wetgeving,
-
-Kaderovereenkomst inzake de toepassing van artikel 16, lid 1, van [verordening (EG) nr. 883/2004](32004R0883) in geval van gewoonlijk grensoverschrijdend telewerk,
-
-Overwegende het geheel aan besluiten, beschikkingen, aanbevelingen, verklaringen, resoluties en verschillende administratieve schikkingen, gemeenschappelijke werkprogramma’s en andere instrumenten voor fatsoenlijke en billijke arbeidsomstandigheden en -voorwaarden, alsmede ter bestrijding van sociale fraude, die zowel binnen de Benelux als binnen de Europese Unie zijn aangenomen,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België, vertegenwoordigd door: – De Federale Regering, – De Vlaamse Regering, – De Regering van de Franse Gemeenschap, – De Waalse Regering, – De Regering van het Brussels Hoofdstedelijk Gewest, – De Regering van de Duitstalige Gemeenschap, Het Groothertogdom Luxemburg, Het Koninkrijk der Nederlanden, hierna te noemen: „de Verdragsluitende Partijen”, Geleid door de wens de nauwe grensoverschrijdende samenwerking tussen de drie landen van de Benelux Unie inzake de bestrijding van grensoverschrijdende sociale fraude en sociale dumping te verbeteren en te versterken, Vanuit het perspectief van het garanderen van het vrije verkeer en de rechten van sociaal verzekerden, Verlangend onjuistheden en misbruik te vermijden en grensoverschrijdende sociale fraude en sociale dumping te bestrijden, Overwegende dat sociale fraude in haar vele facetten zoals sociale dumping, schijnconstructies, detacheringsfraude, premie- en uitkeringsfraude, frauduleuze uitzendkantoren, illegale arbeid en zwartwerk dan wel bedrieglijk gemeld werk, een groeiend maatschappelijk probleem vormt en steeds vaker een georganiseerd karakter vertoont, Overwegende dat moet worden gezorgd voor een efficiënte bescherming van de werkgelegenheid, de veiligheid, de gezondheid en de hygiëne op het werk, alsmede voor fatsoenlijke en billijke arbeidsomstandigheden en -voorwaarden, met name voor werkenden die zich in een kwetsbare situatie bevinden, Overwegende dat de controle- en inspectiediensten worden geconfronteerd met juridische, administratieve, praktische en territoriale beperkingen, Gelet op artikel 6, lid 2, onder f), van het Verdrag tot instelling van de Benelux Unie, ondertekend te ’s-Gravenhage op 17 juni 2008, Gezien het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, ondertekend te Brussel op 6 december 2010, en de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg betreffende de samenwerking en de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, ondertekend te Brussel op 5 februari 2015, Gezien het IAO-Verdrag nr. 81 van 1947 betreffende de arbeidsinspectie in de industrie en handel en Aanbeveling nr. 81 betreffende de arbeidsinspectie, Overwegende het Handvest van de grondrechten van de Europese Unie en met name artikel 15 met betrekking tot de vrijheid van beroep en het recht om te werken op het grondgebied van de lidstaten, artikel 31 met betrekking tot rechtvaardige en billijke arbeidsomstandigheden en -voorwaarden en artikel 34 met betrekking tot de sociale zekerheid en sociale bijstand, alsmede hoofdstuk II en III van de Europese Pijler van sociale rechten, Rekening houdend met de samenwerking en de uitwisseling van informatie overeenkomstig de verscheidene Europese bepalingen die op dit gebied van toepassing zijn, waaronder: – Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels, – Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels, – Verordening (EU) nr. 1231/2010 van het Europees Parlement en de Raad van 24 november 2010 tot uitbreiding van verordening (EG) nr. 883/2004 en verordening (EG) nr. 987/2009 tot onderdanen van derde landen die enkel door hun nationaliteit nog niet onder deze verordeningen vallen, – Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), – Verordening (EU) 2019/1149 van het Europees Parlement en de Raad van 20 juni 2019 tot oprichting van een Europese Arbeidsautoriteit, tot wijziging van de verordeningen (EG) nr. 883/2004, (EU) 492/2011 en (EU) 2016/589, en tot intrekking van besluit (EU) 2016/344, – Richtlijn 96/71/EG van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten, – Richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van richtlijn 96/71/EG betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten en tot wijziging van verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het informatiesysteem interne markt („de IMI-verordening”), – Richtlijn (EU) 2016/680 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van kaderbesluit 2008/977/JBZ van de Raad, – Richtlijn (EU) 2019/1152 van het Europees Parlement en de Raad van 20 juni 2019 betreffende transparante en voorspelbare arbeidsvoorwaarden in de Europese Unie, – Richtlijn (EU) 2020/1057 van het Europees Parlement en de Raad van 15 juli 2020 tot vaststelling van specifieke regels met betrekking tot richtlijn 96/71/EG en richtlijn 2014/67/EU wat betreft de detachering van bestuurders in de wegvervoersector en tot wijziging van richtlijn 2006/22/EG wat betreft de handhavingsvoorschriften en verordening (EU) nr. 1024/2012, – Overeenkomst krachtens artikel 16, eerste lid, van verordening (EG) nr. 883/2004 betreffende de vaststelling van de op Rijnvarenden toepasselijke wetgeving, – Kaderovereenkomst inzake de toepassing van artikel 16, lid 1, van verordening (EG) nr. 883/2004 in geval van gewoonlijk grensoverschrijdend telewerk, Overwegende het geheel aan besluiten, beschikkingen, aanbevelingen, verklaringen, resoluties en verschillende administratieve schikkingen, gemeenschappelijke werkprogramma’s en andere instrumenten voor fatsoenlijke en billijke arbeidsomstandigheden en -voorwaarden, alsmede ter bestrijding van sociale fraude, die zowel binnen de Benelux als binnen de Europese Unie zijn aangenomen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN EN PRINCIPES MET BETREKKING TOT DE VERSTERKTE SAMENWERKING
 
@@ -86,15 +20,15 @@ Zijn het volgende overeengekomen:
 
 Doel van dit Verdrag is multidisciplinaire samenwerking tussen de Verdragsluitende Partijen te verbeteren en te versterken teneinde:
 
-- –. De strijd aan te gaan tegen sociale fraude, tegen oneerlijke concurrentie en tegen sociale dumping, dit door middel van een betere samenwerking tussen alle bevoegde controle- en inspectiediensten enerzijds en een betere uitwisseling van gegevens anderzijds;
+- – De strijd aan te gaan tegen sociale fraude, tegen oneerlijke concurrentie en tegen sociale dumping, dit door middel van een betere samenwerking tussen alle bevoegde controle- en inspectiediensten enerzijds en een betere uitwisseling van gegevens anderzijds;
 
-- –. Erop toe te zien dat de in dit Verdrag bedoelde personen de prestaties en uitkeringen genieten waar zij recht op hebben;
+- – Erop toe te zien dat de in dit Verdrag bedoelde personen de prestaties en uitkeringen genieten waar zij recht op hebben;
 
-- –. Erop toe te zien dat de veiligheid, de gezondheid en de hygiëne op het werk worden gerespecteerd;
+- – Erop toe te zien dat de veiligheid, de gezondheid en de hygiëne op het werk worden gerespecteerd;
 
-- –. Erop toe te zien dat fatsoenlijke en billijke arbeidsomstandigheden en -voorwaarden, alsmede het recht om te werken van werknemers worden gerespecteerd;
+- – Erop toe te zien dat fatsoenlijke en billijke arbeidsomstandigheden en -voorwaarden, alsmede het recht om te werken van werknemers worden gerespecteerd;
 
-- –. Er op toe te zien dat de juiste sociale bijdragen worden afgedragen in de bevoegde lidstaat.
+- – Er op toe te zien dat de juiste sociale bijdragen worden afgedragen in de bevoegde lidstaat.
 
 ##### Artikel 2. Begripsomschrijvingen
 
@@ -108,45 +42,45 @@ Doel van dit Verdrag is multidisciplinaire samenwerking tussen de Verdragsluiten
 
 - a. „Benelux-overleg”: het overleg tussen de Verdragsluitende Partijen in het kader van de Benelux Unie aangaande sociale reglementering, aangaande de strijd tegen de fraude en aangaande de bescherming van de gezondheid en van de veiligheid op het werk, dat concrete invulling krijgt in ambtelijke werkgroepen als bedoeld in [artikel 12, onder b), van het Verdrag tot instelling van de Benelux Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=12);
 
-- b. „Basisverordening”: [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels;
+- b. „Basisverordening”: Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels;
 
-- c. „Toepassingsverordening”: [Verordening (EG) nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van [verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de socialezekerheidsstelsels;
+- c. „Toepassingsverordening”: Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels;
 
-- d. „Detacheringsrichtlijn”: [Richtlijn 96/71/EG](31996L0071) van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten;
+- d. „Detacheringsrichtlijn”: Richtlijn 96/71/EG van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten;
 
-- e. „Detacheringsrichtlijn wegvervoersector”: [Richtlijn (EU) 2020/1057](32020L1057) van het Europees Parlement en de Raad van 15 juli 2020 tot vaststelling van specifieke regels met betrekking tot [richtlijn 96/71/EG](31996L0071) en [richtlijn 2014/67/EU](32014L0067) wat betreft de detachering van bestuurders in de wegvervoersector en tot wijziging van [richtlijn 2006/22/EG](32006L0022) wat betreft de handhavingsvoorschriften en [verordening (EU) nr. 1024/2012](32012R1024);
+- e. „Detacheringsrichtlijn wegvervoersector”: Richtlijn (EU) 2020/1057 van het Europees Parlement en de Raad van 15 juli 2020 tot vaststelling van specifieke regels met betrekking tot richtlijn 96/71/EG en richtlijn 2014/67/EU wat betreft de detachering van bestuurders in de wegvervoersector en tot wijziging van richtlijn 2006/22/EG wat betreft de handhavingsvoorschriften en verordening (EU) nr. 1024/2012;
 
 - f. „EU-instrumenten”: de EU-instrumenten bedoeld onder b) tot en met e), alsmede de volgende instrumenten:
 
-  - –. [Verordening (EG) nr. 561/2006](32006R0561) van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer, tot wijziging van [verordeningen (EEG) nr. 3821/85](31985R3821) en [(EG) nr. 2135/98](31998R2135) van de Raad en tot intrekking van [verordening (EEG) nr. 3820/85](31985R3820) van de Raad,
+   - – Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer, tot wijziging van verordeningen (EEG) nr. 3821/85 en (EG) nr. 2135/98 van de Raad en tot intrekking van verordening (EEG) nr. 3820/85 van de Raad,
 
-  - –. [Verordening 1231/2010](32010R1231) (EU) van het Europees Parlement en de Raad van 24 november 2010 tot uitbreiding van [verordening (EG) nr. 883/2004](32004R0883) en [verordening (EG) nr. 987/2009](32009R0987) tot onderdanen van derde landen die enkel door hun nationaliteit nog niet onder deze verordeningen vallen,
+   - – Verordening 1231/2010 (EU) van het Europees Parlement en de Raad van 24 november 2010 tot uitbreiding van verordening (EG) nr. 883/2004 en verordening (EG) nr. 987/2009 tot onderdanen van derde landen die enkel door hun nationaliteit nog niet onder deze verordeningen vallen,
 
-  - –. [Verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming),
+   - – Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming),
 
-  - –. [Verordening (EU) 2019/1149](32019R1149) van het Europees Parlement en de Raad van 20 juni 2019 tot oprichting van een Europese Arbeidsautoriteit, tot wijziging van de [verordeningen (EG) nr. 883/2004](32004R0883), [(EU) 492/2011](32011R0492) en [(EU) 2016/589](32016R0589), en tot intrekking van besluit [(EU) 2016/344](32016R0344),
+   - – Verordening (EU) 2019/1149 van het Europees Parlement en de Raad van 20 juni 2019 tot oprichting van een Europese Arbeidsautoriteit, tot wijziging van de verordeningen (EG) nr. 883/2004, (EU) 492/2011 en (EU) 2016/589, en tot intrekking van besluit (EU) 2016/344,
 
-  - –. [Richtlijn 2014/67/EU](32014L0067) van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van [richtlijn 96/71/EG](31996L0071) van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten en tot wijziging van [verordening (EU) nr. 1024/2012](32012R1024) betreffende de administratieve samenwerking via het informatiesysteem interne markt („de IMI-verordening”);
+   - – Richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van richtlijn 96/71/EG van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten en tot wijziging van verordening (EU) nr. 1024/2012 betreffende de administratieve samenwerking via het informatiesysteem interne markt („de IMI-verordening”);
 
-  - –. [Richtlijn (EU) 2016/680](32016L0680) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van kaderbesluit 2008/977/JBZ van de Raad;
+   - – Richtlijn (EU) 2016/680 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van kaderbesluit 2008/977/JBZ van de Raad;
 
-  - –. [Richtlijn (EU) 2019/1152](32019L1152) van het Europees Parlement en de Raad van 20 juni 2019 betreffende transparante en voorspelbare arbeidsvoorwaarden in de Europese Unie,
+   - – Richtlijn (EU) 2019/1152 van het Europees Parlement en de Raad van 20 juni 2019 betreffende transparante en voorspelbare arbeidsvoorwaarden in de Europese Unie,
 
-  - –. Overeenkomst krachtens artikel 16, eerste lid, van [verordening (EG) 883/2004](32004R0883) betreffende de vaststelling van de op Rijnvarenden toepasselijke wetgeving,
+   - – Overeenkomst krachtens artikel 16, eerste lid, van verordening (EG) 883/2004 betreffende de vaststelling van de op Rijnvarenden toepasselijke wetgeving,
 
-  - –. Kaderovereenkomst inzake de toepassing van artikel 16, lid 1, van [verordening (EG) nr. 883/2004](32004R0883) in geval van gewoonlijk grensoverschrijdend telewerk,
+   - – Kaderovereenkomst inzake de toepassing van artikel 16, lid 1, van verordening (EG) nr. 883/2004 in geval van gewoonlijk grensoverschrijdend telewerk,
 
-  - –. Elke andere in het kader van de Europese Unie vastgestelde rechtshandeling die bovenbedoelde EU-instrumenten aanvult, die er uitvoering aan geeft of die er anderszins mee verbonden is, en die door het Benelux Comité van Ministers overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0007155&hoofdstuk=VII&artikel=19&z=2026-03-09&g=2026-03-09) wordt aangewezen als zijnde een EU-instrument in de zin van onderhavige bepaling;
+   - – Elke andere in het kader van de Europese Unie vastgestelde rechtshandeling die bovenbedoelde EU-instrumenten aanvult, die er uitvoering aan geeft of die er anderszins mee verbonden is, en die door het Benelux Comité van Ministers overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0007155&hoofdstuk=VII&artikel=19&z=2026-03-09&g=2026-03-09) wordt aangewezen als zijnde een EU-instrument in de zin van onderhavige bepaling;
 
 - g. „Grensoverschrijdende tewerkstelling”: elke vorm van tewerkstelling zoals bedoeld in de onder b) tot en met f) opgesomde EU-instrumenten;
 
 - h. „Detachering”:
 
-  - –. De detachering zoals bedoeld in artikel 12 van de Basisverordening,
+   - – De detachering zoals bedoeld in artikel 12 van de Basisverordening,
 
-  - –. De terbeschikkingstelling van werknemers zoals bedoeld in artikel 2 van de Detacheringsrichtlijn,
+   - – De terbeschikkingstelling van werknemers zoals bedoeld in artikel 2 van de Detacheringsrichtlijn,
 
-  - –. De detachering van bestuurders zoals bedoeld in de Detacheringsrichtlijn wegvervoersector;
+   - – De detachering van bestuurders zoals bedoeld in de Detacheringsrichtlijn wegvervoersector;
 
 - i. „Pluriactiviteit”: het verrichten van werkzaamheden in twee of meer lidstaten in de zin van artikel 13 van de Basisverordening;
 
@@ -258,9 +192,9 @@ In functie van de opgedane ervaring of van de behoeften op het terrein, kan het 
 
 2. Het bevoegd orgaan dat het draagbaar A1-document heeft afgegeven, verstrekt zo snel mogelijk de beschikbare informatie waar overeenkomstig lid 1 om is verzocht, met inachtneming van de voorschriften, inclusief eventuele termijnen, die in de toepasselijke EU-instrumenten zijn vastgelegd. De Verdragsluitende Partijen kunnen ook andere termijnen overeenkomen bij administratieve schikking of bij beschikking van het Benelux Comité van Ministers als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0007155&hoofdstuk=VII&artikel=19&z=2026-03-09&g=2026-03-09), binnen de grenzen van de geldende voorschriften.
 
-3. In geval van een geschil over de vaststelling van de toepasselijke wetgeving, geven de Verdragsluitende Partijen volledige uitwerking aan besluit nr. A1 van de Administratieve Commissie voor de coördinatie van de socialezekerheidsstelsels van 12 juni 2009 betreffende de instelling van een dialoog- en bemiddelingsprocedure met betrekking tot de geldigheid van documenten, het bepalen van de toepasselijke wetgeving en het verlenen van prestaties uit hoofde van [verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad.
+3. In geval van een geschil over de vaststelling van de toepasselijke wetgeving, geven de Verdragsluitende Partijen volledige uitwerking aan besluit nr. A1 van de Administratieve Commissie voor de coördinatie van de socialezekerheidsstelsels van 12 juni 2009 betreffende de instelling van een dialoog- en bemiddelingsprocedure met betrekking tot de geldigheid van documenten, het bepalen van de toepasselijke wetgeving en het verlenen van prestaties uit hoofde van verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad.
 
-De in besluit nr. A1 vastgelegde procedure doet op generlei wijze afbreuk aan het recht van de functionarissen van het bevoegd orgaan van een Verdragsluitende Partij om aan het bevoegd orgaan van de andere Verdragsluitende Partij vragen te stellen over elementen die verband houden met de gegrondheid van het besluit tot vaststelling van de toepasselijke wetgeving in het geval van een detachering of van pluriactiviteit.
+De in besluit nr. A1 vastgelegde procedure doet op generlei wijze afbreuk aan het recht van de functionarissen van het bevoegd orgaan van een Verdragsluitende Partij om aan het bevoegd orgaan van de andere Verdragsluitende Partij vragen te stellen over elementen die verband houden met de gegrondheid van het besluit tot vaststelling van de toepasselijke wetgeving in het geval van een detachering of van pluriactiviteit.
 
 4. Wanneer een door het bevoegd orgaan van een Verdragsluitende Partij afgegeven draagbaar A1-document wordt ingetrokken of ongeldig verklaard omdat de socialezekerheidswetgeving van een andere Verdragsluitende Partij van toepassing is, wisselen de betrokken Verdragsluitende Partijen alle beschikbare informatie uit die nuttig is met het oog op de aansluiting van de betrokken werkende of werkenden bij de toepasselijke socialezekerheidswetgeving, met het oog op de overdracht van de desbetreffende socialezekerheidsbijdragen en, in voorkomend geval, met het oog op terugvordering als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007155&hoofdstuk=V&artikel=14&z=2026-03-09&g=2026-03-09).
 
@@ -310,7 +244,7 @@ Daartoe, wanneer een verzoek om informatie ter bestrijding van fraude en onjuist
 
 ##### Artikel 15. Gegevensbescherming
 
-Elke Verdragsluitende Partij zorgt ervoor dat de verwerking van persoonsgegevens in het kader van de uitvoering van onderhavig Verdrag geschiedt overeenkomstig [verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming), overeenkomstig de bijkomede bepalingen welke in voorkomend geval van toepassing zijn krachtens andere EU-instrumenten, alsmede overeenkomstig de ter uitvoering daarvan in de interne rechtsorde van de betrokken Verdragsluitende Partij vastgestelde bepalingen.
+Elke Verdragsluitende Partij zorgt ervoor dat de verwerking van persoonsgegevens in het kader van de uitvoering van onderhavig Verdrag geschiedt overeenkomstig verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), overeenkomstig de bijkomede bepalingen welke in voorkomend geval van toepassing zijn krachtens andere EU-instrumenten, alsmede overeenkomstig de ter uitvoering daarvan in de interne rechtsorde van de betrokken Verdragsluitende Partij vastgestelde bepalingen.
 
 ##### Artikel 16. Gegevensuitwisseling
 
@@ -392,9 +326,9 @@ De bepalingen van dit Verdrag blijven van toepassing voor zover ze geen afbreuk 
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
-GEDAAN te Brussel, op 9 maart 2026, in één exemplaar, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
+GEDAAN te Brussel, op 9 maart 2026, in één exemplaar, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk België, vertegenwoordigd door:**
+*Voor het Koninkrijk België, vertegenwoordigd door:*
 
 – De Federale Regering
 
@@ -410,12 +344,12 @@ GEDAAN te Brussel, op 9 maart 2026, in één exemplaar, in de Nederlandse en de 
 
 F. VANDENBROUCKE
 
-**Voor het Groothertogdom Luxemburg**
+*Voor het Groothertogdom Luxemburg*
 
 M. DEPREZ
 
 M. SPAUTZ
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 J.A. VIJLBRIEF

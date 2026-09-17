@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0002392"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 12 december 1962, houdende verzekering van de voedselvoorziening in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden

@@ -9,7 +9,7 @@ laatste_update: 1957-10-27
 status: geldig
 toestand: 1957-10-27
 bron: "https://wetten.overheid.nl/BWBR0002254"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # BESCHIKKING REGISTRATIE VERPLAATSTE PERSONEN

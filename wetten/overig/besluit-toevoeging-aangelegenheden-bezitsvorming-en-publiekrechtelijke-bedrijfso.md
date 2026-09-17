@@ -9,7 +9,7 @@ laatste_update: 1956-11-26
 status: geldig
 toestand: 1956-11-26
 bron: "https://wetten.overheid.nl/BWBR0002236"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 26 oktober 1956, houdende toevoeging van de aangelegenheden van de bezitsvorming en de publiekrechtelijke bedrijfsorganisatie aan het departement van Binnenlandse Zaken en naamsverandering van dit departement in: Departement van Binnenlandse Zaken, Bezitsvorming en Publiekrechtelijke Bedrijfsorganisatie

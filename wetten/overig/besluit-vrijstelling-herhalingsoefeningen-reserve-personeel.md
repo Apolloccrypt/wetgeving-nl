@@ -9,7 +9,7 @@ laatste_update: 1997-10-17
 status: geldig
 toestand: 1997-10-17
 bron: "https://wetten.overheid.nl/BWBR0002237"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 26 oktober 1956, houdende regelen betreffende het verlenen van vrijstelling van de verplichting tot opkomst in werkelijke dienst in gewone omstandigheden aan militairen, die behoren tot het reserve-personeel der krijgsmacht

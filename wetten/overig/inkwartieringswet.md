@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0002111"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 18 juni 1953, houdende regeling inzake de inkwartiering en het onderhoud van militairen en de transporten en leverantiën voor de legers en verdedigingswerken

@@ -9,7 +9,7 @@ laatste_update: 2023-09-16
 status: geldig
 toestand: 2023-09-16
 bron: "https://wetten.overheid.nl/BWBR0002059"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 27 Februari 1950 tot uitvoering van de artikelen 4, vijfde lid, en 138, tweede lid, van de Wet op de Bedrijfsorganisatie. (Staasblad 1950, No. K 22.)

@@ -9,7 +9,7 @@ laatste_update: 2002-09-01
 status: geldig
 toestand: 2002-09-01
 bron: "https://wetten.overheid.nl/BWBR0002314"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 25 april 1959, tot regeling van het financieel beheer van de Centrale Raad voor de Volksgezondheid

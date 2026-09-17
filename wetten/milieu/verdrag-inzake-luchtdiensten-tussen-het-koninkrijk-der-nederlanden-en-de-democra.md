@@ -1,52 +1,19 @@
 ---
 title: "Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Democratische Socialistische Republiek Sri Lanka"
 identifier: "BWBV0006987"
-country: "nl"
-rank: "verdrag"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006987"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005624713"
-version_id: "10006192002"
-internal_id: "C10010051501"
-label_id: "10005606784"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006987/2024-01-01/0"
-intitule_bron: "Trb.2023-25"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-03-20"
-intitule_in_force: "2023-12-13"
-intitule_status: "goed"
-original_publication: "Trb.2023-25"
-original_published_date: "2023-03-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2023-25"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBV0006987&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBV0006987&g=2024-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBV0006987"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Democratische Socialistische Republiek Sri Lanka
 
-The Kingdom of the Netherlands
-
-and
-
-the Democratic Socialist Republic of Sri Lanka, hereinafter referred to as the Contracting Parties;
-
-Being parties to the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on 7 December 1944;
-
-Desiring to contribute to the progress of international civil aviation;
-
-Desiring to guarantee the highest level of safety and security in International Air Service;
-
-Desiring to conclude an Agreement between the Kingdom of the Netherlands and the Democratic Socialist Republic of Sri Lanka for the purpose of establishing and operating Air Services between and beyond their respective Territories;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and the Democratic Socialist Republic of Sri Lanka, hereinafter referred to as the Contracting Parties; Being parties to the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944; Desiring to contribute to the progress of international civil aviation; Desiring to guarantee the highest level of safety and security in International Air Service; Desiring to conclude an Agreement between the Kingdom of the Netherlands and the Democratic Socialist Republic of Sri Lanka for the purpose of establishing and operating Air Services between and beyond their respective Territories; Have agreed as follows:*
 
 ### CHAPTER I. INTRODUCTION
 
@@ -56,9 +23,9 @@ Have agreed as follows:
 
 - a. the term “Aeronautical Authorities” means for the Kingdom of the Netherlands, the Ministry of Infrastructure and Water Management; for the Democratic Socialist Republic of Sri Lanka, the Minister in charge of the subject of Civil Aviation; or, in either case, any person or body authorized to perform any functions at present exercised by the said Authorities;
 
-- b. the terms “Agreed Service” and “Specified Route” mean International Air Service pursuant to this Agreement and the Route specified in the Annex to this Agreement respectively;
+- b. the terms “Agreed Service” and “Specified Route” mean International Air Service pursuant to this Agreement and the Route specified in the [Annex](https://wetten.overheid.nl/BWBV0006987) to this Agreement respectively;
 
-- c. the term “Agreement” means this Agreement, its Annex, as well as any amendment to this Agreement or to its Annex;
+- c. the term “Agreement” means this Agreement, its [Annex](https://wetten.overheid.nl/BWBV0006987), as well as any amendment to this Agreement or to its Annex;
 
 - d. the terms “Air Service”, “International Air Service”, “Airline” and “Stop for non-commercial traffic purposes” shall have the meaning respectively assigned to them in [Article 96 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=96);
 
@@ -72,9 +39,9 @@ Have agreed as follows:
 
 - i. the term “Tariff” means any amount, fare, rate or charge charged or to be charged by Airlines, directly or through their agents, to any person or entity for the carriage of passengers (and their baggage) and/or cargo (excluding mail) in air transportation, including:
 
-- i. the conditions governing the availability and applicability of a Tariff; and
+   - i. the conditions governing the availability and applicability of a Tariff; and
 
-- ii. the charges and conditions for any services ancillary to such carriage as well as any other mode(s) of transportation in connection therewith which are offered by Airlines;
+   - ii. the charges and conditions for any services ancillary to such carriage as well as any other mode(s) of transportation in connection therewith which are offered by Airlines;
 
 - j. the term “Territory” in relation to either Contracting Party has the meaning assigned to it in [Article 2 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=2);
 
@@ -90,11 +57,11 @@ Have agreed as follows:
 
 - p.
 
-- i. references in this Agreement to nationals of the Kingdom of the Netherlands shall be understood as referring to nationals of European Union Member States;
+   - i. references in this Agreement to nationals of the Kingdom of the Netherlands shall be understood as referring to nationals of European Union Member States;
 
-- ii. references in this Agreement to Airlines of the Kingdom of the Netherlands shall be understood as referring to Airlines designated by the Kingdom of the Netherlands;
+   - ii. references in this Agreement to Airlines of the Kingdom of the Netherlands shall be understood as referring to Airlines designated by the Kingdom of the Netherlands;
 
-- iii. references in this Agreement to the “European Union Treaties” shall be understood as referring to the Treaty on European Union and the Treaty on the Functioning of the European Union.
+   - iii. references in this Agreement to the “European Union Treaties” shall be understood as referring to the Treaty on European Union and the Treaty on the Functioning of the European Union.
 
 2. The applicable legislation for the European part of the Netherlands includes applicable legislation of the European Union.
 
@@ -102,7 +69,7 @@ Have agreed as follows:
 
 ##### Article 2. Grant of rights
 
-1. Each Contracting Party grants to the other Contracting Party, except as otherwise specified in the Annex to this Agreement, the following rights for the conduct of International Air Services by the Designated Airline(s) of the other Contracting Party on the Routes Specified in the Annex to this Agreement.
+1. Each Contracting Party grants to the other Contracting Party, except as otherwise specified in the [Annex](https://wetten.overheid.nl/BWBV0006987) to this Agreement, the following rights for the conduct of International Air Services by the Designated Airline(s) of the other Contracting Party on the Routes Specified in the Annex to this Agreement.
 
 - a. the right to fly across the Territory of the other Contracting Party without landing;
 
@@ -124,19 +91,19 @@ Have agreed as follows:
 
 - a. in the case an Airline is designated by the Netherlands:
 
-- i. the Airline is established in the Territory of the Kingdom of the Netherlands under the European Union Treaties and has a valid Operating License in accordance with European Union law; and
+   - i. the Airline is established in the Territory of the Kingdom of the Netherlands under the European Union Treaties and has a valid Operating License in accordance with European Union law; and
 
-- ii. effective regulatory control of the Airline is exercised and maintained by the European Union Member State responsible for issuing its Air Operator’s Certificate and the relevant Aeronautical Authority is clearly identified in the designation; and
+   - ii. effective regulatory control of the Airline is exercised and maintained by the European Union Member State responsible for issuing its Air Operator’s Certificate and the relevant Aeronautical Authority is clearly identified in the designation; and
 
-- iii. the Airline is owned, directly or through majority ownership, and is effectively controlled by Member States of the European Union or the European Free Trade Association and/or by nationals of such States,
+   - iii. the Airline is owned, directly or through majority ownership, and is effectively controlled by Member States of the European Union or the European Free Trade Association and/or by nationals of such States,
 
 - b. in the case an Airline is designated by the Democratic Socialist Republic of Sri Lanka: and that:
 
-- i. the Airline is incorporated and has its principal place of business in the Territory of the Democratic Socialist Republic of Sri Lanka; and
+   - i. the Airline is incorporated and has its principal place of business in the Territory of the Democratic Socialist Republic of Sri Lanka; and
 
-- ii. the Democratic Socialist Republic of Sri Lanka has and maintains effective regulatory control of the Airline; and
+   - ii. the Democratic Socialist Republic of Sri Lanka has and maintains effective regulatory control of the Airline; and
 
-- iii. the Airline holds a current Air Operator’s certificate issued by the Aeronautical Authority of the Democratic Socialist Republic of Sri Lanka;
+   - iii. the Airline holds a current Air Operator’s certificate issued by the Aeronautical Authority of the Democratic Socialist Republic of Sri Lanka;
 
 - c. the Contracting Party designating the Airline is maintaining and administering the standards set forth in [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01) (Fair Competition), [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=14&z=2024-01-01&g=2024-01-01) (Safety) and [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=15&z=2024-01-01&g=2024-01-01) (Aviation Security) of this Agreement; and
 
@@ -152,23 +119,23 @@ Have agreed as follows:
 
 - a. in the case an Airline is designated by the Netherlands:
 
-- i. the Airline is not established in the Territory of the Kingdom of the Netherlands under European Union Treaties or does not have a valid Operating License in accordance with European Union law; or
+   - i. the Airline is not established in the Territory of the Kingdom of the Netherlands under European Union Treaties or does not have a valid Operating License in accordance with European Union law; or
 
-- ii. effective regulatory control of the Airline is not exercised or not maintained by the European Union Member State responsible for issuing its Air Operator’s Certificate or the relevant Aeronautical Authority is not clearly identified in the designation; or
+   - ii. effective regulatory control of the Airline is not exercised or not maintained by the European Union Member State responsible for issuing its Air Operator’s Certificate or the relevant Aeronautical Authority is not clearly identified in the designation; or
 
-- iii. the Airline is not owned, directly or through majority ownership, or is not effectively controlled by Member States of the European Union or the European Free Trade Association and/or by nationals of such States; or
+   - iii. the Airline is not owned, directly or through majority ownership, or is not effectively controlled by Member States of the European Union or the European Free Trade Association and/or by nationals of such States; or
 
-- iv. the Airline is already authorized to operate under a bilateral agreement between Sri Lanka and another European Union Member State and by exercising traffic rights under this Agreement on a route that includes a point in that other Member State, it would be circumventing restrictions on the traffic rights imposed by the other agreement; or
+   - iv. the Airline is already authorized to operate under a bilateral agreement between Sri Lanka and another European Union Member State and by exercising traffic rights under this Agreement on a route that includes a point in that other Member State, it would be circumventing restrictions on the traffic rights imposed by the other agreement; or
 
-- v. the Airline designated holds an Air Operator’s Certificate issued by a European Union Member State with which Sri Lanka does not have a bilateral Air Service Arrangement and that Member State has denied traffic rights to Sri Lanka,
+   - v. the Airline designated holds an Air Operator’s Certificate issued by a European Union Member State with which Sri Lanka does not have a bilateral Air Service Arrangement and that Member State has denied traffic rights to Sri Lanka,
 
 - b. in the case an Airline is designated by the Democratic Socialist Republic of Sri Lanka:
 
-- i. the Airline is not incorporated and does not have its principal place of business in the Territory of the designating party; or
+   - i. the Airline is not incorporated and does not have its principal place of business in the Territory of the designating party; or
 
-- ii. the Democratic Socialist Republic of Sri Lanka does not have or maintain effective regulatory control of the Airline; or
+   - ii. the Democratic Socialist Republic of Sri Lanka does not have or maintain effective regulatory control of the Airline; or
 
-- iii. the Airline does not hold a current Air Operator’s certificate issued by the Aeronautical Authority of the Democratic Socialist Republic of Sri Lanka;
+   - iii. the Airline does not hold a current Air Operator’s certificate issued by the Aeronautical Authority of the Democratic Socialist Republic of Sri Lanka;
 
 - c. in case the other Contracting Party is not maintaining and administering the standards set forth in [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01) (Fair Competition), [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=14&z=2024-01-01&g=2024-01-01) (Safety) and [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=V&artikel=15&z=2024-01-01&g=2024-01-01) (Aviation Security) of this Agreement; or
 
@@ -218,13 +185,13 @@ Have agreed as follows:
 
 - a. the commercial and/or cooperative marketing arrangements may include, but shall not be limited to blocked-space, code-sharing and leasing arrangements, with:
 
-- i. the Airline(s) of the same Contracting Party;
+   - i. the Airline(s) of the same Contracting Party;
 
-- ii. the Airline(s) of the other Contracting Party, including domestic code- sharing;
+   - ii. the Airline(s) of the other Contracting Party, including domestic code- sharing;
 
-- iii. the Airline(s) of a third country; or
+   - iii. the Airline(s) of a third country; or
 
-- iv. a cargo or passenger surface transportation provider of any country.
+   - iv. a cargo or passenger surface transportation provider of any country.
 
 - b. the operating Airline(s) involved in the co-operative marketing arrangements shall hold the underlying traffic rights including the route rights and the Capacity entitlements and meet the requirements normally applied to such arrangements;
 
@@ -368,11 +335,11 @@ the Contracting Party carrying out the inspection shall, for the purpose of [Art
 
 1. In a spirit of close cooperation the Aeronautical Authorities of the Contracting Parties may consult each other any time with a view to ensuring the interpretation, application, implementation of, and satisfactory compliance with, the provisions of this Agreement.
 
-2. Either Contracting Party may request consultations with a view to amend this Agreement and/or its Annex. These consultations shall begin within sixty (60) days from the date of receipt of the request by the other Contracting Party, unless otherwise agreed. Such consultations may be conducted through discussion or by correspondence.
+2. Either Contracting Party may request consultations with a view to amend this Agreement and/or its [Annex](https://wetten.overheid.nl/BWBV0006987). These consultations shall begin within sixty (60) days from the date of receipt of the request by the other Contracting Party, unless otherwise agreed. Such consultations may be conducted through discussion or by correspondence.
 
 3. Any Amendment to this Agreement shall be agreed upon by the Contracting Parties and shall be effected through an exchange of diplomatic notes. Such Amendment shall enter into force in accordance with the provisions [Article 25, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006987&hoofdstuk=VII&artikel=25&z=2024-01-01&g=2024-01-01), (Entry into Force) of this Agreement.
 
-4. Notwithstanding the provisions of paragraph 3 of this Article, any amendment of the Route Schedule in the Annex to this Agreement may be agreed upon by the Aeronautical Authorities of the Contracting Parties, and confirmed through an exchange of diplomatic notes, and shall enter into force on a date to be determined in the diplomatic notes. This exception to paragraph 3 of this Article does not apply in case any traffic rights are added to the above-mentioned Annex.
+4. Notwithstanding the provisions of paragraph 3 of this Article, any amendment of the Route Schedule in the [Annex](https://wetten.overheid.nl/BWBV0006987) to this Agreement may be agreed upon by the Aeronautical Authorities of the Contracting Parties, and confirmed through an exchange of diplomatic notes, and shall enter into force on a date to be determined in the diplomatic notes. This exception to paragraph 3 of this Article does not apply in case any traffic rights are added to the above-mentioned Annex.
 
 ##### Article 18. Settlement of Disputes
 
@@ -436,10 +403,10 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 DONE in The Hague, on this 22nd day of February 2023, in two original copies, in the English language.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 HENRI VAN FAASSEN
 
-**For the Democratic Socialist Republic of Sri Lanka,**
+*For the Democratic Socialist Republic of Sri Lanka,*
 
 ARUNI RANARAJA

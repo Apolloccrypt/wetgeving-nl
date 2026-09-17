@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0002037"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 23 januari 1948, tot uitvoering van artikel 32 der Wet buitengewoon pensioen 1940-1945 (Staatsblad 1947, No. H 313)

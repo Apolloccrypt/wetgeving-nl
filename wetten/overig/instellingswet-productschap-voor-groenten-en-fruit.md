@@ -9,7 +9,7 @@ laatste_update: 1995-07-26
 status: geldig
 toestand: 1995-07-26
 bron: "https://wetten.overheid.nl/BWBR0002148"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 30 september 1954, houdende instelling van een productschap voor groenten en fruit

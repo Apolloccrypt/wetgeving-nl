@@ -9,7 +9,7 @@ laatste_update: 1959-10-01
 status: geldig
 toestand: 1959-10-01
 bron: "https://wetten.overheid.nl/BWBR0002328"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 9 september 1959, tot regeling van de toelating van vreemde militaire luchtvaartuigen binnen Nederlands rechtsgebied

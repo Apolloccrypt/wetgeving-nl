@@ -9,7 +9,7 @@ laatste_update: 1954-01-07
 status: geldig
 toestand: 1954-01-07
 bron: "https://wetten.overheid.nl/BWBR0002124"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 23 december 1953, houdende voorzieningen ten aanzien van enige tijdens de oorlog gehouden registers van de burgerlijke stand

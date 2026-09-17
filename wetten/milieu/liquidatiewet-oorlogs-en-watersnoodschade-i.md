@@ -9,7 +9,7 @@ laatste_update: 1960-08-01
 status: geldig
 toestand: 1960-08-01
 bron: "https://wetten.overheid.nl/BWBR0002342"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 14 juli 1960, houdende regelen met betrekking tot de afsluiting van een gedeelte van de uit de Wet op de Materiële Oorlogsschaden, de Wet Overheidsaansprakelijkheid Bezettingshandelingen en de Wet op de Watersnoodschade 1953 voortvloeiende werkzaamheden

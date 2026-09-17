@@ -9,7 +9,7 @@ laatste_update: 1958-04-17
 status: geldig
 toestand: 1958-04-17
 bron: "https://wetten.overheid.nl/BWBR0002278"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 28 maart 1958, houdende vaststelling van een premieregeling voor militairen met de stand van soldaat der eerste klasse, die een verbintenis bij het reserve-personeel der Koninklijke Landmacht of der Koninklijke Luchtmacht hebben gesloten

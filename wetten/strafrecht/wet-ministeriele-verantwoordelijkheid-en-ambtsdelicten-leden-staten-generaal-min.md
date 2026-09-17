@@ -9,7 +9,7 @@ laatste_update: 2018-09-19
 status: geldig
 toestand: 2018-09-19
 bron: "https://wetten.overheid.nl/BWBR0001844"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 22 april 1855, houdende regeling der verantwoordelijkheid van de Hoofden der Ministeriële Departementen

@@ -8,7 +8,7 @@ laatste_update: 1959-12-14
 status: geldig
 toestand: 1959-12-14
 bron: "https://wetten.overheid.nl/BWBR0002334"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Formulier van Kennisgeving Vestiging en Neerlegging Praktijk Artsen, Tandartsen, Apothekers Vroedvrouwen en Tandheelkundigen

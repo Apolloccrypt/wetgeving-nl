@@ -9,7 +9,7 @@ laatste_update: 1957-02-01
 status: geldig
 toestand: 1957-02-01
 bron: "https://wetten.overheid.nl/BWBR0002241"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 22 december 1956, houdende uitvoering van artikel 9 van de Instellingswet Produktschap voor Vis en Visprodukten

@@ -8,7 +8,7 @@ laatste_update: 1960-12-26
 status: geldig
 toestand: 1960-12-26
 bron: "https://wetten.overheid.nl/BWBR0002349"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Aanwijzing ambtenaren, als Bedoeld in Artikel 72 van de Luchtvaartwet

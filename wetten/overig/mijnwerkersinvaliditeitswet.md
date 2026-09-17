@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0001960"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van den 21sten April 1933, tot verzekering van mijnarbeiders tegen geldelijke gevolgen van invaliditeit en ouderdom

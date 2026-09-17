@@ -9,7 +9,7 @@ laatste_update: 1959-10-01
 status: geldig
 toestand: 1959-10-01
 bron: "https://wetten.overheid.nl/BWBR0002344"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 30 juli 1960, tot vaststelling van een nieuwe wachtgeldregeling voor het personeel van de buitenlandse dienst

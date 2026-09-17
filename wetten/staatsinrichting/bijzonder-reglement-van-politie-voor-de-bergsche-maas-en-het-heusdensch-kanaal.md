@@ -9,7 +9,7 @@ laatste_update: 1989-07-29
 status: geldig
 toestand: 1989-07-29
 bron: "https://wetten.overheid.nl/BWBR0001861"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 31 Oktober 1894, tot vaststelling van een bijzonder reglement van politie voor de krachtens de wet van 26 Januari 1883 (Staatsblad n°. 4) in aanleg zijnde rivier de Maas, voor zoover die voor het openbaar verkeer is of zal worden opengesteld, en het Heusdensch kanaal

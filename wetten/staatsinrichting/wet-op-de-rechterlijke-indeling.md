@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0002080"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 10 augustus 1951, houdende nieuwe vaststelling van het rechtsgebied en de zetels der rechtbank en kantongerechten

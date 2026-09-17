@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0002361"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 27 september 1961, houdende uitvoering van het op 20 juni 1956 te New York gesloten Verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud

@@ -1,45 +1,18 @@
 ---
 title: "Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Republiek Finland"
 identifier: "BWBV0006991"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-06-01"
-last_updated: "2023-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006991"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005626413"
-version_id: "10006195002"
-internal_id: "C10009989531"
-label_id: "10005608484"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006991/2023-06-01/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0006991&z=2023-06-01&g=2023-06-01"
-jci_1_0: "1.0:c:BWBV0006991&g=2023-06-01"
-citeertitel_status: "redactioneel"
+laatste_update: 2023-06-01
+status: geldig
+toestand: 2023-06-01
+bron: "https://wetten.overheid.nl/BWBV0006991"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Republiek Finland
 
-The Kingdom of the Netherlands, in respect of Sint Maarten,
-
-and
-
-the Republic of Finland, (hereinafter referred to as the “Contracting Parties”);
-
-Being parties to the [Convention on International Civil Aviation](onbekend), opened for signature at Chicago on 7 December 1944;
-
-Desiring to promote their mutual relations in the field of civil aviation and to conclude an agreement for the purpose of establishing air services between and beyond their respective territories;
-
-Desiring to promote an international aviation system based on competition among airlines in the marketplace with minimum government interference and regulation;
-
-Desiring to facilitate the expansion of international air service opportunities;
-
-Desiring to ensure the highest degree of safety and security in international air services and reaffirming their grave concern about acts or threats against the security of aircraft, which jeopardize the safety of persons or property, adversely affect the operation of air services and undermine public confidence in the safety of civil aviation;
-
-Desiring to make it possible for airlines to offer the travelling and shipping public a variety of service options and wishing to encourage individual airlines to develop and implement innovative and competitive prices;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands, in respect of Sint Maarten, and the Republic of Finland, (hereinafter referred to as the “Contracting Parties”); Being parties to the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944; Desiring to promote their mutual relations in the field of civil aviation and to conclude an agreement for the purpose of establishing air services between and beyond their respective territories; Desiring to promote an international aviation system based on competition among airlines in the marketplace with minimum government interference and regulation; Desiring to facilitate the expansion of international air service opportunities; Desiring to ensure the highest degree of safety and security in international air services and reaffirming their grave concern about acts or threats against the security of aircraft, which jeopardize the safety of persons or property, adversely affect the operation of air services and undermine public confidence in the safety of civil aviation; Desiring to make it possible for airlines to offer the travelling and shipping public a variety of service options and wishing to encourage individual airlines to develop and implement innovative and competitive prices; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
@@ -47,9 +20,9 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 - 1. “aeronautical authorities” means, in the case of the Republic of Finland, the Civil Aviation Authority; in the case of the Kingdom of the Netherlands, in respect of Sint Maarten, the Minister of Tourism, Economic Affairs, Traffic and Telecommunication, responsible of Aviation; or, in either case, any person or body authorised to perform any functions at present exercised by the said aeronautical authorities or similar functions;
 
-- 2. “Agreement” means this Agreement, its Annex, and any amendments to the Agreement or to the Annex;
+- 2. “Agreement” means this Agreement, its [Annex](https://wetten.overheid.nl/BWBV0006991), and any amendments to the Agreement or to the Annex;
 
-- 3. “Convention” means the [Convention on International Civil Aviation](onbekend), opened for signature at Chicago on 7 December 1944, including any amendment that has entered into force under [Article 94 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) and has been ratified by both Contracting Parties, and any Annex or any amendment thereto adopted under [Article 90 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90), insofar as such Annexes or amendments are at any given time effective for both Contracting Parties;
+- 3. “Convention” means the [Convention on International Civil Aviation](https://wetten.overheid.nl/BWBV0005507), opened for signature at Chicago on 7 December 1944, including any amendment that has entered into force under [Article 94 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) and has been ratified by both Contracting Parties, and any Annex or any amendment thereto adopted under [Article 90 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90), insofar as such Annexes or amendments are at any given time effective for both Contracting Parties;
 
 - 4. “designated airline” means an airline designated and authorised in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006991&artikel=3&z=2023-06-01&g=2023-06-01) of this Agreement;
 
@@ -67,13 +40,13 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 - b. the right to make stops for non-traffic purposes in its territory.
 
-2. Each Contracting Party grants to the other Contracting Party the rights specified in this Agreement for the purpose of operating international air services on the routes specified in the Annex to this Agreement. Such services and routes are hereinafter called “the agreed services” and “the specified routes” respectively. While operating an agreed service on a specified route the airline(s) designated by each Contracting Party shall enjoy, in addition to the rights specified in paragraph 1 of this Article, the right to make stops in the territory of the other Contracting Party at the points specified for that route in the Annex to this Agreement for the purpose of taking up and/or putting down international traffic in passengers, cargo and mail, separately or in combination.
+2. Each Contracting Party grants to the other Contracting Party the rights specified in this Agreement for the purpose of operating international air services on the routes specified in the [Annex](https://wetten.overheid.nl/BWBV0006991) to this Agreement. Such services and routes are hereinafter called “the agreed services” and “the specified routes” respectively. While operating an agreed service on a specified route the airline(s) designated by each Contracting Party shall enjoy, in addition to the rights specified in paragraph 1 of this Article, the right to make stops in the territory of the other Contracting Party at the points specified for that route in the [Annex](https://wetten.overheid.nl/BWBV0006991) to this Agreement for the purpose of taking up and/or putting down international traffic in passengers, cargo and mail, separately or in combination.
 
-3. On any segment or segments of the routes in the Annex to this Agreement, any designated airline may perform international air transportation without any limitation as to change, at any point on the route, in type or number of aircraft operated.
+3. On any segment or segments of the routes in the [Annex](https://wetten.overheid.nl/BWBV0006991) to this Agreement, any designated airline may perform international air transportation without any limitation as to change, at any point on the route, in type or number of aircraft operated.
 
 4. Nothing in this Agreement shall be deemed to confer on a designated airline of one Contracting Party the right of taking on, in the territory of the other Contracting Party, passengers, cargo and mail carried for remuneration or hire and destined for another point in the territory of that other Contracting Party. In respect of Finland no commercial traffic rights shall be exercised by the designated airlines of Finland between Sint Maarten and the Netherlands (including the Caribbean part of the Netherlands (Bonaire, Sint Eustatius and Saba), between Sint Maarten and Curacao, and between Sint Maarten and Aruba.
 
-5. The designated airline(s) of the Contracting Parties may, at any given time, exercise fifth freedom traffic rights to intermediate points and/or to beyond points as specified in the Annex. Such intermediate and beyond points may be freely chosen and altered by the designated airlines of the Contracting Parties and the designated airline(s) shall notify accordingly to the aeronautical authorities of the other Contracting Party.
+5. The designated airline(s) of the Contracting Parties may, at any given time, exercise fifth freedom traffic rights to intermediate points and/or to beyond points as specified in the [Annex](https://wetten.overheid.nl/BWBV0006991). Such intermediate and beyond points may be freely chosen and altered by the designated airlines of the Contracting Parties and the designated airline(s) shall notify accordingly to the aeronautical authorities of the other Contracting Party.
 
 ##### Article 3. Designation and Authorisation
 
@@ -81,19 +54,19 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 2. Upon receipt of the notice of such a designation and of applications from the designated airline, in the form and manner prescribed for operating authorisations and technical permissions, the other Contracting Party shall grant the appropriate authorisations and permissions with minimum procedural delay, provided that:
 
-- a). in the case of an airline designated by Finland:
+- a) in the case of an airline designated by Finland:
 
-- (i). the airline is established in the territory of Finland under the EU Treaties and has a valid Operating Licence in accordance with European Union law; and
+   - (i) the airline is established in the territory of Finland under the EU Treaties and has a valid Operating Licence in accordance with European Union law; and
 
-- (ii). effective regulatory control of the airline is exercised and maintained by the European Union Member State responsible for issuing its Air Operator Certificate and the relevant aeronautical authority is clearly identified in the designation;
+   - (ii) effective regulatory control of the airline is exercised and maintained by the European Union Member State responsible for issuing its Air Operator Certificate and the relevant aeronautical authority is clearly identified in the designation;
 
-- b). in the case of an airline designated by Sint Maarten:
+- b) in the case of an airline designated by Sint Maarten:
 
-- (i). the airline is established in the territory of Sint Maarten and is licensed in accordance with the applicable law of Sint Maarten; and
+   - (i) the airline is established in the territory of Sint Maarten and is licensed in accordance with the applicable law of Sint Maarten; and
 
-- (ii). Sint Maarten has and maintains effective regulatory control of the airline; and
+   - (ii) Sint Maarten has and maintains effective regulatory control of the airline; and
 
-- c). the designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air services by the Contracting Party considering the application or applications.
+- c) the designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air services by the Contracting Party considering the application or applications.
 
 3. When an airline has been so designated and authorised it may begin at any time to operate the agreed services, provided that the airline complies with all applicable provisions of the Agreement.
 
@@ -101,19 +74,19 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 1. Either Contracting Party may revoke, suspend or limit the operating authorisation or technical permissions of an airline designated by the other Contracting Party where:
 
-- a). in the case of an airline designated by Finland:
+- a) in the case of an airline designated by Finland:
 
-- (i). the airline is not established in the territory of Finland under the EU Treaties or does not have a valid Operating Licence in accordance with European Union law; or
+   - (i) the airline is not established in the territory of Finland under the EU Treaties or does not have a valid Operating Licence in accordance with European Union law; or
 
-- (ii). effective regulatory control of the airline is not exercised or not maintained by the European Union Member State responsible for issuing its Air Operator Certificate, or the relevant aeronautical authority is not clearly identified in the designation;
+   - (ii) effective regulatory control of the airline is not exercised or not maintained by the European Union Member State responsible for issuing its Air Operator Certificate, or the relevant aeronautical authority is not clearly identified in the designation;
 
-- b). in the case of an airline designated by Sint Maarten:
+- b) in the case of an airline designated by Sint Maarten:
 
-- (i). the airline is not established in the territory of Sint Maarten and is not licensed in accordance with the applicable law of Sint Maarten; or
+   - (i) the airline is not established in the territory of Sint Maarten and is not licensed in accordance with the applicable law of Sint Maarten; or
 
-- (ii). Sint Maarten is not maintaining effective regulatory control of the airline; or
+   - (ii) Sint Maarten is not maintaining effective regulatory control of the airline; or
 
-- c). these airlines have failed to comply with the laws and regulations referred to in [Article 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006991&artikel=5&z=2023-06-01&g=2023-06-01) of this Agreement.
+- c) these airlines have failed to comply with the laws and regulations referred to in [Article 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006991&artikel=5&z=2023-06-01&g=2023-06-01) of this Agreement.
 
 2. Unless immediate revocation, suspension, limitation or imposition of the conditions mentioned in paragraph 1 of this Article is essential to prevent further infringements of laws and/or regulations, such right shall be exercised only after consultations with the aeronautical authorities of the other Contracting Party. Such consultations shall begin within a period of fifteen (15) days from the date of receipt of a request for consultations or as otherwise agreed between the Contracting Parties.
 
@@ -133,13 +106,13 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 2. There shall also be exempt from the taxes, duties, fees and charges referred to in paragraph 1 of this Article, with the exception of charges based on the cost of the service provided:
 
-- a). aircraft stores taken on board in the territory of one Contracting Party, within reasonable limits, for use on an outbound aircraft engaged in an international air service of a designated airline of the other Contracting Party;
+- a) aircraft stores taken on board in the territory of one Contracting Party, within reasonable limits, for use on an outbound aircraft engaged in an international air service of a designated airline of the other Contracting Party;
 
-- b). spare parts, including engines, introduced into the territory of one Contracting Party for the maintenance or repair of aircraft engaged in an international air service of a designated airline of the other Contracting Party;
+- b) spare parts, including engines, introduced into the territory of one Contracting Party for the maintenance or repair of aircraft engaged in an international air service of a designated airline of the other Contracting Party;
 
-- c). fuel, lubricants and consumable technical supplies introduced into or supplied in the territory of one Contracting Party for use in an international air service by a designated airline of the other Contracting Party, even when these supplies are to be used on the part of the journey performed over the territory of the first mentioned Contracting Party, in which territory they are taken on board;
+- c) fuel, lubricants and consumable technical supplies introduced into or supplied in the territory of one Contracting Party for use in an international air service by a designated airline of the other Contracting Party, even when these supplies are to be used on the part of the journey performed over the territory of the first mentioned Contracting Party, in which territory they are taken on board;
 
-- d). airline documents, such as tickets and air waybills, as well as publicity and promotional material within reasonable limits, intended for use by a designated airline of one Contracting Party and introduced into the territory of the other Contracting Party.
+- d) airline documents, such as tickets and air waybills, as well as publicity and promotional material within reasonable limits, intended for use by a designated airline of one Contracting Party and introduced into the territory of the other Contracting Party.
 
 3. Materials referred to in paragraph 2 of this Article may be required to be kept under customs supervision or control.
 
@@ -167,11 +140,11 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 1. Each Contracting Party shall allow tariffs for air services to be decided by each designated airline based on commercial considerations in the marketplace. Intervention by the Contracting Parties shall be limited to:
 
-- a). the prevention of unreasonably discriminatory tariffs or practices;
+- a) the prevention of unreasonably discriminatory tariffs or practices;
 
-- b). the protection of consumers from tariffs that are unreasonably high or restrictive due to the abuse of a dominant position; and
+- b) the protection of consumers from tariffs that are unreasonably high or restrictive due to the abuse of a dominant position; and
 
-- c). the protection of airlines from tariffs that are artificially low due to direct or indirect governmental subsidy or support.
+- c) the protection of airlines from tariffs that are artificially low due to direct or indirect governmental subsidy or support.
 
 2. Each Contracting Party may require notification to or filing with its aeronautical authorities of tariffs to be charged to or from its territory by a designated airline of the other Contracting Party. Notification or filing by the airlines of both Contracting Parties may be required no more than thirty (30) days before the proposed date of effectiveness. In individual cases, notification or filing may be permitted on shorter notice than normally required. Neither Contracting Party shall require the notification or filing by a designated airline of the other Contracting Party of tariffs charged by charterers to the public, except as may be required on a non-discriminatory basis for information purposes.
 
@@ -205,25 +178,25 @@ Each designated airline shall have the right to provide their own ground handlin
 
 1. Each Contracting Party may request consultations at any time concerning safety standards maintained by the other Contracting Party in areas relating to aeronautical facilities, flight crew, aircraft and the operation of aircraft. Such consultations shall take place within thirty (30) days of that request.
 
-2. If, following such consultations, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards in the areas mentioned in paragraph 1 of this Article that meet the standards established at that time pursuant to the [Convention](onbekend), the other Contracting Party shall be informed of such findings and of the steps considered necessary to conform with those standards. The other Contracting Party shall then take appropriate corrective action within an agreed time period.
+2. If, following such consultations, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards in the areas mentioned in paragraph 1 of this Article that meet the standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/BWBV0005507), the other Contracting Party shall be informed of such findings and of the steps considered necessary to conform with those standards. The other Contracting Party shall then take appropriate corrective action within an agreed time period.
 
-3. Pursuant to [Article 16 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=16), it is further agreed that, any aircraft operated by, or on behalf of an airline of one Contracting Party, on air service to or from the territory of the other Contracting Party, may, while within the territory of the other Contracting Party, be made the subject of a search by the authorised representatives of the other Contracting Party, provided that this does not cause unreasonable delay in the operation of the aircraft. Notwithstanding the obligations mentioned in [Article 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33), the purpose of this search is to verify the validity of the relevant aircraft documentation, the licensing of its crew, and that the aircraft equipment and the condition of the aircraft conform to the standards established at that time pursuant to the [Convention](onbekend).
+3. Pursuant to [Article 16 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=16), it is further agreed that, any aircraft operated by, or on behalf of an airline of one Contracting Party, on air service to or from the territory of the other Contracting Party, may, while within the territory of the other Contracting Party, be made the subject of a search by the authorised representatives of the other Contracting Party, provided that this does not cause unreasonable delay in the operation of the aircraft. Notwithstanding the obligations mentioned in [Article 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33), the purpose of this search is to verify the validity of the relevant aircraft documentation, the licensing of its crew, and that the aircraft equipment and the condition of the aircraft conform to the standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/BWBV0005507).
 
 4. When urgent action is essential to ensure the safety of an airline operation, each Contracting Party reserves the right to immediately suspend or vary the operating authorisation of an airline or airlines of the other Contracting Party.
 
 5. Any action by one Contracting Party in accordance with paragraph 4 of this Article shall be discontinued once the basis for the taking of that action ceases to exist.
 
-6. With reference to paragraph 2 of this Article, if it is determined that a Contracting Party remains in non-compliance with the standards established at that time pursuant to the [Convention](onbekend) when the agreed time period has lapsed, the Secretary General of the International Civil Aviation Organization should be advised thereof. The latter should also be advised of the subsequent satisfactory resolution of the situation.
+6. With reference to paragraph 2 of this Article, if it is determined that a Contracting Party remains in non-compliance with the standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/BWBV0005507) when the agreed time period has lapsed, the Secretary General of the International Civil Aviation Organization should be advised thereof. The latter should also be advised of the subsequent satisfactory resolution of the situation.
 
 7. Where one Contracting Party has designated an airline whose regulatory control is exercised and maintained by a third State, the rights of the other Contracting Party under this Article shall apply equally in respect of the adoption, exercise or maintenance of safety standards by that third State and in respect of the operating authorisation of that airline.
 
 ##### Article 13. Aviation Security
 
-1. Consistent with their rights and obligations under international law, the Contracting Parties reaffirm that their obligation to each other to protect the security of civil aviation against acts of unlawful interference forms an integral part of this Agreement. Without limiting the generality of their rights and obligations under international law, the Contracting Parties shall in particular act in conformity with the provisions of the [Convention on Offences and Certain Other Acts Committed on Board Aircraft](onbekend), signed at Tokyo on 14 September 1963, the [Convention for the Suppression of Unlawful Seizure of Aircraft](onbekend), signed at the Hague on 16 December 1970, the [Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation](onbekend), signed at Montreal on 23 September 1971, the [Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation](onbekend), signed at Montreal on 24 February 1988 and the [Convention on the Marking of Plastic Explosives for the Purpose of Detection](onbekend), signed at Montreal on 1 March 1991, as well as with any other convention or protocol relating to the security of civil aviation which both Contracting Parties adhere to.
+1. Consistent with their rights and obligations under international law, the Contracting Parties reaffirm that their obligation to each other to protect the security of civil aviation against acts of unlawful interference forms an integral part of this Agreement. Without limiting the generality of their rights and obligations under international law, the Contracting Parties shall in particular act in conformity with the provisions of the [Convention on Offences and Certain Other Acts Committed on Board Aircraft](https://wetten.overheid.nl/BWBV0004659), signed at Tokyo on 14 September 1963, the [Convention for the Suppression of Unlawful Seizure of Aircraft](https://wetten.overheid.nl/BWBV0004424), signed at the Hague on 16 December 1970, the [Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation](https://wetten.overheid.nl/BWBV0003604), signed at Montreal on 23 September 1971, the [Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation](https://wetten.overheid.nl/BWBV0002152), signed at Montreal on 24 February 1988 and the [Convention on the Marking of Plastic Explosives for the Purpose of Detection](https://wetten.overheid.nl/BWBV0003003), signed at Montreal on 1 March 1991, as well as with any other convention or protocol relating to the security of civil aviation which both Contracting Parties adhere to.
 
 2. The Contracting Parties shall provide upon request all necessary assistance to each other to prevent acts of unlawful seizure of civil aircraft and other unlawful acts against the safety of such aircraft, their passengers and crew, airports and air navigation facilities, and any other threat to the security of civil aviation.
 
-3. The Contracting Parties shall, in their mutual relations, as a minimum, act in conformity with the aviation security provisions and technical requirements established by the International Civil Aviation Organization and designated as Annexes to the [Convention](onbekend) to the extent that such security provisions and requirements are applicable to the Contracting Parties; they shall require that operators of aircraft of their registry or operators of aircraft which have their principal place of business or permanent residence in their territory or are established in the territory of Finland under the EU Treaties and have received an operating licence in accordance with European Union law and the operators of airports in their territory act in conformity with such aviation security provisions.
+3. The Contracting Parties shall, in their mutual relations, as a minimum, act in conformity with the aviation security provisions and technical requirements established by the International Civil Aviation Organization and designated as Annexes to the [Convention](https://wetten.overheid.nl/BWBV0005507) to the extent that such security provisions and requirements are applicable to the Contracting Parties; they shall require that operators of aircraft of their registry or operators of aircraft which have their principal place of business or permanent residence in their territory or are established in the territory of Finland under the EU Treaties and have received an operating licence in accordance with European Union law and the operators of airports in their territory act in conformity with such aviation security provisions.
 
 4. Each Contracting Party agrees that such operators of aircraft shall comply with the aviation security provisions and requirements referred to in paragraph 3 of this Article required by the other Contracting Party for entry into, departure from, or while within the territory of that other Contracting Party. Each Contracting Party shall ensure that adequate measures are effectively applied within its territory to protect the aircraft and to inspect passengers, crew, carry-on items, baggage, cargo and aircraft stores prior to and during boarding or loading. Each Contracting Party shall also give sympathetic consideration to any request from the other Contracting Party for reasonable special security measures to meet a particular threat.
 
@@ -261,7 +234,7 @@ Each Contracting Party shall, where necessary, take all appropriate action withi
 
 1. If either of the Contracting Parties considers it desirable to amend any provision of this Agreement, such amendment shall be agreed upon by the Contracting Parties and shall be effected by an exchange of diplomatic notes. Such amendment shall enter into force in accordance with the provisions of [Article 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006991&artikel=22&z=2023-06-01&g=2023-06-01) of this Agreement.
 
-2. Notwithstanding the provisions of paragraph 1 of this Article, amendments relating only to the Annex to this Agreement shall be agreed upon between the aeronautical authorities of the Contracting Parties, and confirmed in writing through diplomatic notes, and shall enter into force on a date to be determined in the diplomatic notes. This exception to paragraph 1 of this Article does not apply in case any traffic rights are added to the Annex to this Agreement.
+2. Notwithstanding the provisions of paragraph 1 of this Article, amendments relating only to the [Annex](https://wetten.overheid.nl/BWBV0006991) to this Agreement shall be agreed upon between the aeronautical authorities of the Contracting Parties, and confirmed in writing through diplomatic notes, and shall enter into force on a date to be determined in the diplomatic notes. This exception to paragraph 1 of this Article does not apply in case any traffic rights are added to the Annex to this Agreement.
 
 ##### Article 18. Multilateral Conventions
 
@@ -285,16 +258,16 @@ As regards to the Kingdom of the Netherlands, this Agreement shall apply to Sint
 
 1. This Agreement shall enter into force on the first day of the second month following the date of receipt of the last written notification through diplomatic channels, by which the Contracting Parties have notified each other that the procedures necessary for the entry into force of this Agreement have been completed.
 
-2. Upon entry into force, this Agreement shall supersede, in the relation between the Kingdom of the Netherlands, in respect of Sint Maarten, and the Republic of Finland, the [Air Transport Agreement between the Netherlands and Finland](onbekend), signed at Helsinki on 25 February 1949.
+2. Upon entry into force, this Agreement shall supersede, in the relation between the Kingdom of the Netherlands, in respect of Sint Maarten, and the Republic of Finland, the [Air Transport Agreement between the Netherlands and Finland](https://wetten.overheid.nl/BWBV0005741), signed at Helsinki on 25 February 1949.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement.
 
 DONE at The Hague on June 1st, 2023, in duplicate in the English language.
 
-**For the Kingdom of the Netherlands, in respect of Sint Maarten,**
+*For the Kingdom of the Netherlands, in respect of Sint Maarten,*
 
 RENE VIOLENUS
 
-**For the Republic of Finland,**
+*For the Republic of Finland,*
 
 ILKKA-PEKKA ANTERO SIMILÄ

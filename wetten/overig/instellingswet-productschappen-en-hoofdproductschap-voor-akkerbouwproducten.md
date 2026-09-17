@@ -9,7 +9,7 @@ laatste_update: 1986-01-01
 status: geldig
 toestand: 1986-01-01
 bron: "https://wetten.overheid.nl/BWBR0002152"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 30 september 1954, houdende instelling van productschappen en een hoofdproductschap voor akkerbouwproducten

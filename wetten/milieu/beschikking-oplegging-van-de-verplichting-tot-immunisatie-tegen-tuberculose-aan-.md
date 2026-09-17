@@ -8,7 +8,7 @@ laatste_update: 1956-06-03
 status: geldig
 toestand: 1956-06-03
 bron: "https://wetten.overheid.nl/BWBR0002218"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Beschikking oplegging van de verplichting tot immunisatie tegen tuberculose aan bepaalde groepen van militairen der koninklijke landmacht en der koninklijke luchtmacht

@@ -9,7 +9,7 @@ laatste_update: 2002-09-13
 status: geldig
 toestand: 2002-09-13
 bron: "https://wetten.overheid.nl/BWBR0002224"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 20 juni 1956, bepalende de volgorde van en de verhouding tussen de rangen en standen bij de zee-, de land- en de luchtmacht

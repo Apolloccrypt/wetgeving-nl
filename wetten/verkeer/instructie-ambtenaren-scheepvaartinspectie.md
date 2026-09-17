@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0002271"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 30 januari 1958, tot vaststelling van een algemene maatregel van rijksbestuur als bedoeld in artikel 10 van de Schepenwet

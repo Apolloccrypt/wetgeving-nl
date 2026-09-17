@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0002138"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 30 juni 1954, houdende vaststelling van een vervaltermijn voor rechtsvorderingen ter zake van beheer, gevoerd door het Nederlandse Beheersinstituut of door personen, door wie het zich heeft doen bijstaan of vertegenwoordigen of die het heeft te werk gesteld

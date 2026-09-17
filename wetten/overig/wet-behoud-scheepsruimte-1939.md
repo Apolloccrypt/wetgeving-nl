@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0001998"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 24 juni 1939, houdende regelen teneinde te waarborgen, dat Nederland, in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden, in voldoende mate de beschikking blijft behouden over scheepsruimte

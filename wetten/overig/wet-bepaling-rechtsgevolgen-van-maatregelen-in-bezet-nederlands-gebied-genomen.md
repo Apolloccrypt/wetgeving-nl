@@ -9,7 +9,7 @@ laatste_update: 1956-09-01
 status: geldig
 toestand: 1956-09-01
 bron: "https://wetten.overheid.nl/BWBR0002206"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 8 maart 1956, tot bepaling van de rechtsgevolgen van maatregelen, in bezet Nederlands gebied genomen met betrekking tot de rechtstoestand van militairen der Koninklijke Landmacht

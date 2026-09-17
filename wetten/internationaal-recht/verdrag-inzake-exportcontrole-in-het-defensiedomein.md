@@ -1,104 +1,73 @@
 ---
 title: "Verdrag inzake exportcontrole in het defensiedomein"
 identifier: "BWBV0007130"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-09-17"
-last_updated: "2021-09-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007130"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005721013"
-version_id: "10006321512"
-internal_id: "C10010233891"
-label_id: "10005702594"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007130/2021-09-17/0"
-intitule_bron: "Trb.2026-19"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2026-03-13"
-intitule_status: "nogniet"
-original_publication: "Trb.2026-19"
-original_published_date: "2026-03-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2026-19"
-jci_1_3: "jci1.3:c:BWBV0007130&z=2021-09-17&g=2021-09-17"
-jci_1_0: "1.0:c:BWBV0007130&g=2021-09-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "2026-03-13"
+laatste_update: 2021-09-17
+status: geldig
+toestand: 2021-09-17
+bron: "https://wetten.overheid.nl/BWBV0007130"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag inzake exportcontrole in het defensiedomein
 
-De Staten die partij zijn bij dit Verdrag, hierna de „verdragsluitende partijen” genoemd,
+*Die Staaten, die Vertragsparteien dieses Übereinkommens sind, im Folgenden als »Vertragsparteien« bezeichnet, eingedenk ihrer europäischen und internationalen Verpflichtungen im Bereich der Kontrolle der Ausfuhr von Militärtechnologie und Militärgütern und der Genehmigung von Ausfuhren, insbesondere des Vertrags vom 2. April 2013 über den Waffenhandel und, für die Mitgliedstaaten der Europäischen Union, des Gemeinsamen Standpunkts 2008/944/GASP des Rates vom 8. Dezember 2008 in der Fassung vom 16. September 2019 betreffend gemeinsame Regeln für die Kontrolle der Ausfuhr von Militärtechnologie und Militärgütern, in Anbetracht ihrer jeweiligen Zuständigkeit für die Genehmigung von Verbringungen und Ausfuhren aus ihren jeweiligen Hoheitsgebieten von Rüstungsgütern aus regierungsseitigen Gemeinschaftsprojekten und solchen, die von ihrer jeweiligen Industrie entwickelt wurden, in Anbetracht dessen, dass jede Vertragspartei ihre nationale Ausfuhrkontrolle für Rüstungsgüter auf der Grundlage ihrer nationalen Rechtsvorschriften, einschließlich ihrer nationalen Grundsätze zur Exportkontrollpolitik, durchführt, in Anerkennung der Bedeutung verlässlicher Verbringungs- und Ausfuhrmöglichkeiten für den wirtschaftlichen und politischen Erfolg ihrer industriellen und zwischenstaatlichen Zusammenarbeit, in Bekräftigung ihrer Bereitschaft, den mit der Ausfuhrkontrolle für Rüstungsgüter verbundenen Verwaltungsaufwand zu verringern und so den Erfolg ihrer gemeinsamen Programme sicherzustellen und Industriepartnerschaften zwischen den Vertragsparteien zu erleichtern, Bezugnehmend auf die verschiedenen zwischen den Vertragsparteien bestehenden Übereinkünfte über Zusammenarbeit und zweiseitigen Sicherheitsabkommen – sind wie folgt übereingekommen:*
 
-Herinnerend aan hun Europese en internationale verbintenissen op het gebied van controle op de uitvoer van militaire goederen en technologie en uitvoervergunningen, met name het Wapenhandelsverdrag van 2 april 2013 en, voor de lidstaten van de Europese Unie, het Gemeenschappelijk Standpunt 2008/944/GBVB van de Raad van 8 december 2008, in de versie van 16 september 2019, tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie,
+##### Artikel 1. Regierungsseitige Gemeinschaftsprojekte und ihre Untersysteme
 
-Erkennend hun respectieve bevoegdheid om toestemming te verlenen voor de overdracht of uitvoer vanaf hun grondgebied van defensiegerelateerde producten die voortvloeien uit intergouvernementele programma's of die door hun industrieën zijn ontwikkeld,
+1. Sind zwei oder mehr Vertragsparteien an denselben regierungsseitigen Gemeinschaftsprojekten beteiligt, so sind die in diesem Artikel festgelegten Grundsätze für die betroffenen Vertragsparteien auf diese regierungsseitigen Gemeinschaftsprojekte und deren Untersysteme anwendbar.
 
-Erkennend dat elke verdragsluitende partij nationale controles op haar uitvoer van defensiegerelateerde producten uitvoert op basis van haar nationale wet- en regelgeving, met inbegrip van de nationale beginselen van het exportcontrolebeleid,
+2. Die Vertragsparteien unterrichten die anderen betroffenen Vertragsparteien – frühzeitig vor Aufnahme formeller Verhandlungen – über die Möglichkeit von Verkäufen an Dritte und übermitteln die zur Bewertung durch die andere Vertragspartei oder die anderen Vertragsparteien erforderlichen Informationen. Diese Übermittlung von Informationen schließt Gespräche über die Bedingungen, unter denen das Vorhaben aus Sicht der verbringenden oder ausführenden Vertragspartei im Einklang mit den europäischen und internationalen Verpflichtungen aller betroffenen Vertragsparteien durchgeführt werden kann, ein.
 
-Erkennend het belang van betrouwbare overdracht- en uitvoermogelijkheden voor het economische en politieke succes van hun industriële en intergouvernementele samenwerking,
+3. Eine betroffene Vertragspartei widerspricht einer von einer anderen Vertragspartei beabsichtigten Verbringung oder Ausfuhr an Dritte nicht, außer in dem Ausnahmefall, in dem ihre unmittelbaren Interessen oder ihre nationale Sicherheit dadurch beeinträchtigt würden.
 
-Bevestigend dat zij bereid zijn de administratieve lasten voor de exportcontrole voor defensiegerelateerde producten te verminderen, teneinde het welslagen van hun gezamenlijke programma’s te waarborgen en industriële partnerschappen tussen de verdragsluitende partijen te vergemakkelijken,
+4. Sollte eine betroffene Vertragspartei beabsichtigen, einer Verbringung oder einer Ausfuhr zu widersprechen, so unterrichtet sie die anderen betroffenen Vertragsparteien so früh wie möglich, spätestens zwei Monate nach Kenntniserlangung der beabsichtigten Verbringung oder Ausfuhr. Diese Vertragsparteien leiten umgehend hochrangige Konsultationen ein, um ihre Bewertungen auszutauschen und angemessene Lösungen zu finden. Die Vertragspartei, die einer Verbringung oder einer Ausfuhr widerspricht, unternimmt alle Anstrengungen, um alternative Lösungen vorzuschlagen.
 
-Verwijzend naar de verschillende samenwerkingsverdragen en bilaterale veiligheidsverdragen tussen de verdragsluitende partijen,
+##### Artikel 2. Rüstungsgüter aus industrieller Zusammenarbeit
 
-Zijn het volgende overeengekomen:
+1. Eine Vertragspartei widerspricht der Verbringung oder der Ausfuhr eines Rüstungssystems eines Herstellers einer anderen Vertragspartei, das Rüstungsgüter enthält, die in ihrem Hoheitsgebiet im Rahmen der Vertiefung der Integration ihrer Rüstungsindustrien entwickelt wurden, an Dritte durch die andere Vertragspartei nicht, außer in dem Ausnahmefall, in dem ihre unmittelbaren Interessen oder ihre nationale Sicherheit dadurch beeinträchtigt würden.
 
-##### Artikel 1. Intergouvernementele programma’s en hun subsystemen
+2. Sollte eine Vertragspartei beabsichtigen, einer Verbringung oder einer Ausfuhr zu widersprechen, so unterrichtet sie die andere betroffene Vertragspartei so früh wie möglich, spätestens zwei Monate nach Kenntniserlangung der beabsichtigten Verbringung oder Ausfuhr. Diese Vertragsparteien leiten umgehend hochrangige Konsultationen ein, um ihre Bewertungen auszutauschen und angemessene Lösungen zu finden.
 
-1. Indien twee of meer verdragsluitende partijen aan dezelfde intergouvernementele programma’s deelnemen, dan zijn de in dit artikel beschreven beginselen voor de betreffende verdragsluitende partijen van toepassing op die intergouvernementele programma’s en hun subsystemen.
+3. Die Einzelheiten der Durchführung dieses Artikels regelt Anlage 1 zu diesem Übereinkommen, die einen Bestandteil desselben darstellt.
 
-2. De verdragsluitende partijen stellen de andere betrokken verdragsluitende partijen ruim voor het begin van de formele onderhandelingen in kennis van de mogelijkheid van verkoop aan derden en verstrekken de voor hun beoordeling benodigde informatie. Deze overdracht van informatie omvat besprekingen over de voorwaarden waaronder, vanuit het oogpunt van de verdragsluitende partij die overgaat tot de overdracht of uitvoer, overgegaan kan worden tot deze transactie in overeenstemming met de Europese en internationale verbintenissen van alle betrokken verdragsluitende partijen.
+##### Artikel 3. »De-minimis«-Grundsatz
 
-3. Een betrokken verdragsluitende partij verzet zich niet tegen een door een andere verdragsluitende partij voorgenomen overdracht of uitvoer naar een derde partij, behalve in uitzonderlijke omstandigheden, wanneer deze overdracht of uitvoer haar rechtstreekse belangen of de nationale veiligheid schaadt.
+1. Nicht in den Anwendungsbereich von Artikel 1 oder 2 fallende von einem Hersteller einer Vertragspartei entwickelte Rüstungsgüter, die in ein Rüstungssystem eines Herstellers einer anderen Vertragspartei integriert werden sollen (im Folgenden als »Zulieferungen« bezeichnet), unterliegen dem *»De-minimis«*-Grundsatz.
 
-4. Indien een betrokken verdragsluitende partij voornemens is bezwaar te maken tegen een overdracht of uitvoer, stelt zij de andere betrokken verdragsluitende partijen daarvan zo spoedig mogelijk in kennis, uiterlijk binnen een termijn van twee maanden nadat zij van de voorgenomen overdracht of uitvoer in kennis is gesteld. Deze verdragsluitende partijen organiseren onmiddellijk overleg op hoog niveau om hun beoordeling te delen en passende oplossingen te vinden. De verdragsluitende partij die bezwaar maakt tegen een overdracht of uitvoer stelt alles in het werk om alternatieven voor te stellen.
+2. Nach dem in Absatz 1 genannten *»De-minimis«*-Grundsatz erteilt eine Vertragspartei, sofern ihr Zulieferanteil zu einem durch eine andere Vertragspartei aus dem Hoheitsgebiet der Vertragsparteien zu verbringenden oder auszuführenden Gesamtsystem unterhalb eines zwischen allen Vertragsparteien zuvor einvernehmlich festgelegten Prozentsatzes liegt, unverzüglich die entsprechenden Ausfuhr-, Verbringungsoder Reexportgenehmigungen, außer in dem Ausnahmefall, in dem ihre unmittelbaren Interessen oder ihre nationale Sicherheit dadurch beeinträchtigt würden.
 
-##### Artikel 2. Defensiegerelateerde producten ontstaan door industriële samenwerking
+3. Die Einzelheiten der Durchführung dieses Artikels regeln die Anlagen 2 und 3 zu diesem Übereinkommen, die einen Bestandteil desselben darstellen.
 
-1. Een verdragsluitende partij verzet zich niet tegen de uitvoer of overdracht door een andere verdragsluitende partij aan een derde partij van een wapensysteem van een producent uit het land van een andere verdragsluitende partij waarin defensiegerelateerde producten zijn verwerkt die op zijn grondgebied zijn ontwikkeld in het kader van de verdere integratie van hun defensie-industrie, behalve in uitzonderlijke omstandigheden, wanneer die overdracht of uitvoer haar directe belangen of de nationale veiligheid schaadt.
+##### Artikel 4. Ständiges Gremium
 
-2. Indien een verdragsluitende partij voornemens is bezwaar te maken tegen een overdracht of uitvoer, stelt zij de andere betrokken verdragsluitende partij daarvan zo spoedig mogelijk in kennis, uiterlijk binnen een termijn van twee maanden nadat zij van de voorgenomen uitvoer of overdracht in kennis is gesteld. Deze verdragsluitende partijen organiseren onmiddellijk overleg op hoog niveau om hun beoordeling te delen en passende oplossingen te vinden.
+1. Die Vertragsparteien richten zur Beilegung von Differenzen bezüglich der operativen Durchführung ein ständiges Gremium zur Beratung über die durch dieses Übereinkommen geregelten allgemeinen Angelegenheiten ein.
 
-3. De nadere bepalingen voor de toepassing van dit artikel zijn vastgesteld in bijlage 1 bij dit Verdrag, die daarvan een integraal deel uitmaakt.
+2. Die Vertragsparteien benennen nationale Anlaufstellen und machen diese Information untereinander zugänglich.
 
-##### Artikel 3. Het de-minimisbeginsel
+3. Die betroffenen Vertragsparteien richten Ad-hoc-Gremien zur Beratung über die in Artikel 1 Absatz 4, Artikel 2 Absatz 2 und in den Anlagen 1 und 2 zu diesem Übereinkommen genannten Konsultationen oder über sonstige konkrete, durch dieses Übereinkommen geregelte und nicht alle Vertragsparteien betreffende Fragen ein.
 
-1. Voor defensiegerelateerde producten die door een producent uit een van de verdragsluitende partijen zijn ontwikkeld en die buiten het toepassingsgebied van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&artikel=1&z=2021-09-17&g=2021-09-17) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&artikel=2&z=2021-09-17&g=2021-09-17) van dit Verdrag vallen en die bestemd zijn om te worden geïntegreerd in een wapensysteem van een producent van een andere verdragsluitende partij (hierna „componenten” genoemd), geldt het **de-minimis-**beginsel.
+##### Artikel 5. Austausch von Verschlusssachen
 
-2. Op grond van het in het vorige lid bedoelde **de-minimis-**beginsel geeft een verdragsluitende partij, wanneer zijn aandeel van componenten die bestemd zijn voor de integratie in een eindproduct dat door een andere verdragsluitende partij buiten het grondgebied van de verdragsluitende partijen wordt overgedragen of uitgevoerd, lager blijft dan een percentage dat vooraf in onderlinge overeenstemming tussen alle verdragsluitende partijen is vastgesteld, onverwijld de overeenkomstige uitvoer-, overdrachts- of wederuitvoervergunningen af, behalve in uitzonderlijke gevallen, wanneer deze overdracht, uitvoer of wederuitvoer haar directe belangen of de nationale veiligheid zou schaden.
+Alle aufgrund dieses Übereinkommens zur Verfügung gestellten oder erstellten Verschlusssachen oder geschützten Informationen werden im Einklang mit dem einschlägigen zweiseitigen Sicherheitsabkommen zwischen den betroffenen Vertragsparteien aufbewahrt, behandelt, übermittelt und geschützt. Ist zwischen den betroffenen Vertragsparteien kein zweiseitiges Sicherheitsabkommen anwendbar, so werden Verschlusssachen weder ausgetauscht noch erstellt.
 
-3. De nadere bepalingen voor de toepassing van dit artikel zijn vastgesteld in [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&bijlage=2&z=2021-09-17&g=2021-09-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&bijlage=3&z=2021-09-17&g=2021-09-17) bij dit Verdrag, die daarvan een integraal deel uitmaken.
+##### Artikel 6. Schlussbestimmungen
 
-##### Artikel 4. Het Permanent Comité
+1. Dieses Übereinkommen wird ab dem Tag seiner Unterzeichnung vorläufig angewandt. Es tritt am Tag der Hinterlegung der letzten Notifikation eines Unterzeichnerstaats über den Abschluss seiner für das Inkrafttreten erforderlichen innerstaatlichen Verfahren bei der Regierung der Französischen Republik, die als Verwahrer bestimmt wird, in Kraft.
 
-1. De verdragsluitende partijen stellen een permanent comité in om elkaar te raadplegen over alle algemene aangelegenheden die onder dit Verdrag vallen, teneinde geschillen over de operationele uitvoering op te lossen.
+2. Sollte dieses Übereinkommen nicht innerhalb von zwei Jahren nach seiner Unterzeichnung gemäß Absatz 1 in Kraft getreten sein, so können die Vertragsparteien, die dem Verwahrer den Abschluss ihrer für das Inkrafttreten erforderlichen innerstaatlichen Verfahren notifiziert haben, einvernehmlich anderen Mitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) oder den Vertragsstaaten des Rahmenübereinkommens über Maßnahmen zur Erleichterung der Umstrukturierung und der Tätigkeit der Europäischen Rüstungsindustrie erlauben, dem Übereinkommen beizutreten. In diesem Fall tritt dieses Übereinkommen an dem Tag in Kraft, an dem der erste Staat, dem nach Satz 1 erlaubt wurde, diesem Übereinkommen beizutreten, beim Verwahrer die Notifikation über den Abschluss seiner für das Inkrafttreten erforderlichen innerstaatlichen Verfahren hinterlegt. Nach seinem Inkrafttreten wird das Übereinkommen weiterhin vorläufig auf den Unterzeichnerstaat angewandt, der den Abschluss seiner innerstaatlichen Verfahren nicht notifiziert hat, solange dieser den anderen Vertragsparteien nicht seine Absicht notifiziert hat, keine Vertragspartei des Übereinkommens zu werden.
 
-2. De verdragsluitende partijen wijzen nationale contactpunten aan en stellen deze informatie onderling beschikbaar.
+3. Nach Inkrafttreten dieses Übereinkommens können die Vertragsparteien, die dem Verwahrer den Abschluss ihrer für das Inkrafttreten erforderlichen innerstaatlichen Verfahren notifiziert haben, durch einen einstimmigen Beschluss anderen Mitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) oder den Vertragsstaaten des Rahmenübereinkommens über Maßnahmen zur Erleichterung der Umstrukturierung und der Tätigkeit der Europäischen Rüstungsindustrie erlauben, diesem Übereinkommen beizutreten ten.
 
-3. De betrokken verdragsluitende partijen richten ad-hoc-organen op voor het overleg bedoeld in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&artikel=1&z=2021-09-17&g=2021-09-17), [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&artikel=2&z=2021-09-17&g=2021-09-17), en [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&bijlage=1&z=2021-09-17&g=2021-09-17) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&bijlage=2&z=2021-09-17&g=2021-09-17) van dit Verdrag, of voor alle andere specifieke, onder dit Verdrag vallende aangelegenheden die niet alle verdragsluitende partijen betreffen.
+4. Für jede neue Vertragspartei tritt das Übereinkommen am Tag der Hinterlegung ihrer Beitrittsurkunde beim Verwahrer in Kraft.
 
-##### Artikel 5. Uitwisseling van gerubriceerde gegevens
+5. Jede Vertragspartei kann dieses Übereinkommen unter Einhaltung einer Frist von sechs Monaten jederzeit durch schriftliche Mitteilung an die anderen Vertragsparteien kündigen.
 
-Gerubriceerde of beschermde gegevens die op grond van dit Verdrag worden verstrekt of gegenereerd, worden bewaard, behandeld, doorgegeven en beveiligd overeenkomstig het toepasselijke bilaterale beveiligingsverdrag tussen de betrokken verdragsluitende partijen. Indien een bilateraal beveiligingsverdrag tussen de betrokken verdragsluitende partijen ontbreekt worden geen gerubriceerde gegevens uitgewisseld noch gegenereerd.
+6. Die Vertragspartei, die dieses Übereinkommen gekündigt hat, erfüllt weiterhin alle Verbindlichkeiten und Pflichten aus diesem Übereinkommen im Hinblick auf Verbringungen oder Ausfuhren von Rüstungsgütern, deren jeweilige Verbringungs- oder Ausfuhrgenehmigung vor dem Wirksamwerden der Kündigung beantragt wurde. Die Vertragspartei, die dieses Übereinkommen gekündigt hat, und die verbleibenden Vertragsparteien beraten sich untereinander in dem nach Artikel 4 Absatz 1 eingerichteten ständigen Gremium, solange sie dies zur Klärung der durch die Kündigung aufgeworfenen Fragen für notwendig erachten.
 
-##### Artikel 6. Slotbepalingen
+7. Die Urschrift dieses Übereinkommens wird beim Verwahrer hinterlegt.
 
-1. Dit Verdrag is voorlopig van toepassing met ingang van de datum van ondertekening ervan. Het treedt in werking op de datum waarop de laatste ondertekenende staat bij de regering van de Franse Republiek, die is aangewezen als depositaris, kennisgeving doet van de voltooiing van zijn daartoe vereiste interne procedures.
-
-2. Indien dit Verdrag niet binnen twee jaar na de datum van ondertekening overeenkomstig het eerste lid van dit artikel in werking is getreden, kunnen de verdragsluitende partijen die de depositaris in kennis hebben gesteld van de voltooiing van hun daartoe vereiste interne procedures, met gezamenlijke en unanieme overeenstemming andere lidstaten van de Europese Unie (EU) of de Europese Vrijhandelsassociatie (EVA) of partijen bij het kaderverdrag inzake maatregelen ter vergemakkelijking van de herstructurering en de werking van de Europese defensie-industrie toestaan tot het Verdrag toe te treden. In dergelijke gevallen treedt dit Verdrag in werking op de datum waarop de eerste staat die overeenkomstig de eerste zin van dit lid daartoe gemachtigd is, de depositaris in kennis stelt van de voltooiing van zijn daartoe vereiste interne procedures. Na de inwerkingtreding blijft het Verdrag voorlopig van toepassing op de ondertekenende staat die geen kennisgeving heeft gedaan van de voltooiing van zijn interne procedures, indien hij de andere verdragsluitende partijen niet in kennis heeft gesteld van zijn voornemen geen partij bij de Verdrag te worden.
-
-3. Na de inwerkingtreding van dit Verdrag kunnen de verdragsluitende partijen die de depositaris ervan in kennis hebben gesteld dat hun daartoe vereiste interne procedures zijn voltooid, met eenparigheid van stemmen andere lidstaten van de Europese Unie (EU) of de Europese Vrijhandelsassociatie (EVA) of partijen bij de kaderverdrag inzake maatregelen ter vergemakkelijking van de herstructurering en de werking van de Europese defensie-industrie machtigen tot dit Verdrag toe te treden.
-
-4. Voor elke nieuwe verdragsluitende partij treedt het Verdrag in werking op de datum van nederlegging van haar akte van toetreding bij de depositaris.
-
-5. Elke verdragsluitende partij kan dit Verdrag te allen tijde opzeggen door de andere verdragsluitende partijen daarvan schriftelijk in kennis te stellen met een opzegtermijn van zes maanden.
-
-6. De verdragsluitende partij die dit Verdrag heeft opgezegd, blijft de verbintenissen en verplichtingen van dit Verdrag nakomen met betrekking tot overdrachten of uitvoer van defensiegerelateerde producten waarvoor de overeenkomstige overdrachts- of uitvoervergunning is aangevraagd voordat die opzegging van kracht wordt. De verdragsluitende partij die dit Verdrag heeft opgezegd, en de andere verdragsluitende partijen plegen overleg in het overeenkomstig [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&artikel=4&z=2021-09-17&g=2021-09-17), ingestelde Permanent Comité zolang zij dit nodig achten om kwesties in verband met de opzegging te regelen.
-
-7. Het origineel van dit Verdrag wordt nedergelegd bij de depositaris.
-
-8. De registratie van dit Verdrag bij het secretariaat van de Verenigde Naties overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) geschiedt onmiddellijk na de inwerkingtreding ervan door de depositaris. De andere verdragsluitende partijen worden na bevestiging door het secretariaat in kennis gesteld van de registratie en het registratienummer van de Verenigde Naties.
+8. Die Registrierung dieses Übereinkommens beim Sekretariat der Vereinten Nationen nach Artikel 102 der Charta der Vereinten Nationen wird durch den Verwahrer unverzüglich nach dem Inkrafttreten eingeleitet. Die übrigen Vertragsparteien werden unter Angabe der VN-Registrierungsnummer von der erfolgten Registrierung unterrichtet, sobald diese vom Sekretariat der Vereinten Nationen bestätigt worden ist.
 
 GESCHEHEN zu Paris am 17. September 2021 in einer Urschrift in französischer, deutscher und spanischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist. Der Verwahrer übermittelt allen Vertragsparteien beglaubigte Abschriften.

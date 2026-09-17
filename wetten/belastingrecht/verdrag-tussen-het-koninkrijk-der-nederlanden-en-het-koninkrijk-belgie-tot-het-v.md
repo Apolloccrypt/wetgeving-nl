@@ -1,53 +1,18 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en tot het voorkomen van het ontduiken en ontwijken van belasting"
 identifier: "BWBV0006999"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-06-21"
-last_updated: "2023-06-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006999"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10005629913"
-version_id: "10006199702"
-internal_id: "C10009996561"
-label_id: "10005613084"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006999/2023-06-21/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0006999&z=2023-06-21&g=2023-06-21"
-jci_1_0: "1.0:c:BWBV0006999&g=2023-06-21"
-citeertitel_status: "redactioneel"
+laatste_update: 2023-06-21
+status: geldig
+toestand: 2023-06-21
+bron: "https://wetten.overheid.nl/BWBV0006999"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en tot het voorkomen van het ontduiken en ontwijken van belasting
 
-Het Koninkrijk der Nederlanden
-
-enerzijds,
-
-en
-
-Het Koninkrijk België,
-
-De Vlaamse Gemeenschap,
-
-De Franse Gemeenschap,
-
-De Duitstalige Gemeenschap,
-
-Het Vlaamse Gewest,
-
-Het Waalse Gewest,
-
-en het Brussels Hoofdstedelijk Gewest,
-
-anderzijds,
-
-Geleid door de wens hun economische betrekkingen verder te ontwikkelen en hun samenwerking op belastinggebied te verbeteren,
-
-Voornemens een verdrag te sluiten tot het vermijden van dubbele belasting inzake belastingen naar het inkomen, zonder daarbij mogelijkheden te scheppen tot niet-heffing of verminderde heffing van belasting door middel van het ontduiken of het ontwijken van belasting (daaronder begrepen het gebruik van treaty-shopping-structuren die als doel hebben de in dit Verdrag voorziene tegemoetkomingen te verkrijgen in het indirecte voordeel van inwoners van derde rechtsgebieden),
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden enerzijds, en Het Koninkrijk België, De Vlaamse Gemeenschap, De Franse Gemeenschap, De Duitstalige Gemeenschap, Het Vlaamse Gewest, Het Waalse Gewest, en het Brussels Hoofdstedelijk Gewest, anderzijds, Geleid door de wens hun economische betrekkingen verder te ontwikkelen en hun samenwerking op belastinggebied te verbeteren, Voornemens een verdrag te sluiten tot het vermijden van dubbele belasting inzake belastingen naar het inkomen, zonder daarbij mogelijkheden te scheppen tot niet-heffing of verminderde heffing van belasting door middel van het ontduiken of het ontwijken van belasting (daaronder begrepen het gebruik van treaty-shopping-structuren die als doel hebben de in dit Verdrag voorziene tegemoetkomingen te verkrijgen in het indirecte voordeel van inwoners van derde rechtsgebieden), Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. WERKINGSSFEER VAN HET VERDRAG
 
@@ -69,27 +34,27 @@ Zijn het volgende overeengekomen:
 
 - a. in België: met inbegrip van de voorheffingen, de opcentiemen op die belastingen en voorheffingen, alsmede de aanvullende belastingen op de personenbelasting, (hierna te noemen: „Belgische belasting”);
 
-- 1°. de personenbelasting;
+   - 1° de personenbelasting;
 
-- 2°. de vennootschapsbelasting;
+   - 2° de vennootschapsbelasting;
 
-- 3°. de rechtspersonenbelasting;
+   - 3° de rechtspersonenbelasting;
 
-- 4°. de belasting van niet-inwoners;
+   - 4° de belasting van niet-inwoners;
 
-- 5°. de onroerende voorheffing;
+   - 5° de onroerende voorheffing;
 
 - b. in Nederland: (hierna te noemen: „Nederlandse belasting”).
 
-- 1°. de inkomstenbelasting;
+   - 1° de inkomstenbelasting;
 
-- 2°. de loonbelasting;
+   - 2° de loonbelasting;
 
-- 3°. de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet;
+   - 3° de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet;
 
-- 4°. de dividendbelasting;
+   - 4° de dividendbelasting;
 
-- 5°. de bronbelasting;
+   - 5° de bronbelasting;
 
 4. Het Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van de ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de verdragsluitende Staten delen elkaar alle wezenlijke wijzigingen die in hun onderscheidene belastingwetten zijn aangebracht, mede.
 
@@ -101,11 +66,11 @@ Zijn het volgende overeengekomen:
 
 - a.
 
-- 1°. betekenen de uitdrukkingen „een verdragsluitende Staat” en „de andere verdragsluitende Staat” het Koninkrijk België of het Koninkrijk der Nederlanden, ten behoeve van Nederland, al naargelang de context vereist;
+   - 1° betekenen de uitdrukkingen „een verdragsluitende Staat” en „de andere verdragsluitende Staat” het Koninkrijk België of het Koninkrijk der Nederlanden, ten behoeve van Nederland, al naargelang de context vereist;
 
-- 2°. betekent de uitdrukking „België” het Koninkrijk België; gebruikt in geografische zin, betekent zij het territorium van het Koninkrijk België, daarin inbegrepen de territoriale zee en de maritieme zones en de luchtgebieden waarover, in overeenstemming met het internationaal recht, het Koninkrijk België soevereine rechten of zijn jurisdictie uitoefent;
+   - 2° betekent de uitdrukking „België” het Koninkrijk België; gebruikt in geografische zin, betekent zij het territorium van het Koninkrijk België, daarin inbegrepen de territoriale zee en de maritieme zones en de luchtgebieden waarover, in overeenstemming met het internationaal recht, het Koninkrijk België soevereine rechten of zijn jurisdictie uitoefent;
 
-- 3°. betekent de uitdrukking „Nederland” het Europese deel van Nederland, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan zijn territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationaal recht, rechtsmacht heeft of soevereine rechten uitoefent;
+   - 3° betekent de uitdrukking „Nederland” het Europese deel van Nederland, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan zijn territoriale zee waarbinnen het Koninkrijk der Nederlanden, in overeenstemming met het internationaal recht, rechtsmacht heeft of soevereine rechten uitoefent;
 
 - b. omvat de uitdrukking „persoon” een natuurlijke persoon, een vennootschap en elke andere vereniging van personen;
 
@@ -121,25 +86,25 @@ Zijn het volgende overeengekomen:
 
 - h. betekent de uitdrukking „bevoegde autoriteit”:
 
-- 1°. in het geval van België, naargelang het geval, de Minister van Financiën van de federale Regering en/of van de Regering van een Gewest en/of van een Gemeenschap, of zijn bevoegde vertegenwoordiger; en
+   - 1° in het geval van België, naargelang het geval, de Minister van Financiën van de federale Regering en/of van de Regering van een Gewest en/of van een Gemeenschap, of zijn bevoegde vertegenwoordiger; en
 
-- 2°. in het geval van Nederland, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 2° in het geval van Nederland, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
 - i. betekent de uitdrukking „onderdanen”:
 
-- 1°. alle natuurlijke personen die de nationaliteit van een verdragsluitende Staat bezitten;
+   - 1° alle natuurlijke personen die de nationaliteit van een verdragsluitende Staat bezitten;
 
-- 2°. alle vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een verdragsluitende Staat van kracht is;
+   - 2° alle vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een verdragsluitende Staat van kracht is;
 
 - j. betekent de uitdrukking „erkend pensioenfonds” van een verdragsluitende Staat: elke persoon die inwoner is van die Staat en die: en op voorwaarde dat die persoon zoals bedoeld onder 1° of onder 2° ofwel:
 
-- 1°. zich uitsluitend of nagenoeg uitsluitend bezighoudt met het beheren van pensioenstelsels, het uitvoeren van pensioenregelingen of het verschaffen van pensioenuitkeringen; of
+   - 1° zich uitsluitend of nagenoeg uitsluitend bezighoudt met het beheren van pensioenstelsels, het uitvoeren van pensioenregelingen of het verschaffen van pensioenuitkeringen; of
 
-- 2°. inkomsten verwerft ten voordele van een of meer personen zoals bedoeld onder 1°;
+   - 2° inkomsten verwerft ten voordele van een of meer personen zoals bedoeld onder 1°;
 
-- (i). wat België betreft, onder toezicht staat van de Autoriteit voor Financiële Diensten en Markten (FSMA) of van de Nationale Bank van België of aan de controle is onderworpen van een onafhankelijke commissaris, erkend door de FSMA; of
+   - (i) wat België betreft, onder toezicht staat van de Autoriteit voor Financiële Diensten en Markten (FSMA) of van de Nationale Bank van België of aan de controle is onderworpen van een onafhankelijke commissaris, erkend door de FSMA; of
 
-- (ii). wat Nederland betreft, onder toezicht staat van de Stichting Autoriteit Financiële Markten (AFM) of De Nederlandsche Bank N.V. (DNB).
+   - (ii) wat Nederland betreft, onder toezicht staat van de Stichting Autoriteit Financiële Markten (AFM) of De Nederlandsche Bank N.V. (DNB).
 
 2. Voor de toepassing van het Verdrag op enig ogenblik door een verdragsluitende Staat heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat ogenblik heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is; elke betekenis onder de toepasselijke belastingwetgeving van die Staat heeft voorrang op de betekenis welke die uitdrukking heeft onder de andere wetten van die Staat.
 
@@ -387,7 +352,7 @@ andere verdragsluitende Staat ook in eerstbedoelde verdragsluitende Staat worden
 
 ##### Artikel 16. Pensioenen, lijfrenten, socialezekerheidsuitkeringen en alimentatie-uitkeringen
 
-- a. Onder voorbehoud van de bepalingen van [artikel 17, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006999&hoofdstuk=III&artikel=17&z=2023-06-21&g=2023-06-21), zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een verdragsluitende Staat ter zake van een vroegere dienstbetrekking, alsmede lijfrenten en uitkeringen – al dan niet periodiek – uit pensioensparen, pensioenfondsen en groepsverzekeringen betaald aan een inwoner van een verdragsluitende Staat, slechts in die Staat belastbaar.
+1. - a. Onder voorbehoud van de bepalingen van [artikel 17, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006999&hoofdstuk=III&artikel=17&z=2023-06-21&g=2023-06-21), zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een verdragsluitende Staat ter zake van een vroegere dienstbetrekking, alsmede lijfrenten en uitkeringen – al dan niet periodiek – uit pensioensparen, pensioenfondsen en groepsverzekeringen betaald aan een inwoner van een verdragsluitende Staat, slechts in die Staat belastbaar.
 
 - b. Pensioenen en andere al dan niet periodieke uitkeringen die worden betaald ter uitvoering van de sociale wetgeving van een verdragsluitende Staat aan een inwoner van de andere verdragsluitende Staat zijn slechts in de laatstbedoelde Staat belastbaar.
 
@@ -411,15 +376,15 @@ andere verdragsluitende Staat ook in eerstbedoelde verdragsluitende Staat worden
 
 ##### Artikel 17. Overheidsfuncties
 
-- a. Salarissen, lonen, en andere soortgelijke beloningen, niet zijnde pensioenen, betaald door een verdragsluitende Staat of een staatkundig onderdeel of lokale autoriteit daarvan, aan een natuurlijke persoon, ter zake van verleende diensten aan die Staat of dat onderdeel of die lokale autoriteit, mogen in die Staat worden belast.
+1. - a. Salarissen, lonen, en andere soortgelijke beloningen, niet zijnde pensioenen, betaald door een verdragsluitende Staat of een staatkundig onderdeel of lokale autoriteit daarvan, aan een natuurlijke persoon, ter zake van verleende diensten aan die Staat of dat onderdeel of die lokale autoriteit, mogen in die Staat worden belast.
 
 - b. Die salarissen, lonen, en andere soortgelijke beloningen zijn evenwel slechts in de andere verdragsluitende Staat belastbaar indien de diensten in die Staat worden bewezen en de natuurlijke persoon inwoner van die Staat is, die:
 
-- 1°. onderdaan is van die Staat, of
+   - 1° onderdaan is van die Staat, of
 
-- 2°. niet uitsluitend met het oog op het bewijzen van de diensten inwoner van die Staat is geworden.
+   - 2° niet uitsluitend met het oog op het bewijzen van de diensten inwoner van die Staat is geworden.
 
-- a. Pensioenen betaald door een verdragsluitende Staat of een staatkundig onderdeel of lokale autoriteit daarvan, hetzij rechtstreeks, hetzij uit door hen in het leven geroepen fondsen, aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of aan dat onderdeel of die lokale autoriteit, mogen in die Staat worden belast.
+2. - a. Pensioenen betaald door een verdragsluitende Staat of een staatkundig onderdeel of lokale autoriteit daarvan, hetzij rechtstreeks, hetzij uit door hen in het leven geroepen fondsen, aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of aan dat onderdeel of die lokale autoriteit, mogen in die Staat worden belast.
 
 - b. Die pensioenen zijn evenwel slechts in de andere verdragsluitende Staat belastbaar indien de natuurlijke persoon inwoner en onderdaan is van die Staat.
 
@@ -541,7 +506,7 @@ Deze vermindering wordt gerealiseerd door, voor zover nodig, in België verschul
 
 5. De bepalingen van paragraaf 3 mogen in geen geval aldus worden uitgelegd dat het een verdragsluitende Staat toegestaan is het verstrekken van inlichtingen te weigeren, enkel omdat de inlichtingen berusten bij een bank, een andere financiële instelling, een trust, een stichting, een gevolmachtigde of een persoon die bij wijze van vertegenwoordiging of als zaakwaarnemer optreedt, of omdat de inlichtingen betrekking hebben op eigendomsbelangen in een persoon. Teneinde zulke inlichtingen te verkrijgen, heeft de belastingadministratie van de aangezochte verdragsluitende Staat de bevoegdheid om te vragen inlichtingen bekend te maken en om een onderzoek en verhoren in te stellen, niettegenstaande andersluidende bepalingen in de nationale belastingwetgeving van die Staat.
 
-- a. Niettegenstaande de bepalingen van paragraaf 1, zijn de bepalingen van dit artikel van overeenkomstige toepassing op inlichtingen die relevant zijn voor de uitvoering van inkomensafhankelijke regelingen onder de Nederlandse wetgeving door de Dienst Toeslagen, die is belast met de toepassing of de tenuitvoerlegging van deze regelingen.
+6. - a. Niettegenstaande de bepalingen van paragraaf 1, zijn de bepalingen van dit artikel van overeenkomstige toepassing op inlichtingen die relevant zijn voor de uitvoering van inkomensafhankelijke regelingen onder de Nederlandse wetgeving door de Dienst Toeslagen, die is belast met de toepassing of de tenuitvoerlegging van deze regelingen.
 
 - b. Indien op grond van paragraaf 1 inlichtingen voor de belastingheffing worden verkregen door een verdragsluitende Staat, mogen deze inlichtingen, niettegenstaande de laatste zin van paragraaf 2, door die Staat ook worden gebruikt voor de uitvoering van de inkomensafhankelijke regelingen, bedoeld in subparagraaf a van deze paragraaf.
 
@@ -573,7 +538,7 @@ de bevoegde autoriteit van de eerstbedoelde Staat stelt de bevoegde autoriteit v
 
 - a. bestuurlijke maatregelen te nemen die in strijd zijn met de wetgeving of bestuurlijke praktijk van die of van de andere verdragsluitende Staat;
 
-- b. maatregelen te nemen die in strijd zouden zijn met de openbare orde (**ordre public**);
+- b. maatregelen te nemen die in strijd zouden zijn met de openbare orde (*ordre public*);
 
 - c. bijstand te verlenen indien de andere verdragsluitende Staat niet alle redelijke invorderings- of conservatoire maatregelen heeft aangewend die hem naargelang van het geval uit hoofde van zijn wetgeving of bestuurlijke praktijk, ter beschikking staan;
 
@@ -597,58 +562,58 @@ de bevoegde autoriteit van de eerstbedoelde Staat stelt de bevoegde autoriteit v
 
 2. De bepalingen van het Verdrag zullen van toepassing zijn:
 
-- a. op de bij de bron verschuldigde belastingen op inkomsten die zijn toegekend of betaalbaar gesteld op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin het Verdrag in werking treedt;
+- a. op de bij de bron verschuldigde belastingen op inkomsten die zijn toegekend of betaalbaar gesteld op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin het Verdrag in werking treedt;
 
-- b. op de andere belastingen geheven naar inkomsten van belastbare tijdperken die beginnen op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin het Verdrag in werking treedt;
+- b. op de andere belastingen geheven naar inkomsten van belastbare tijdperken die beginnen op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin het Verdrag in werking treedt;
 
-- c. op andere belastingen die verschuldigd zijn ter zake van belastbare feiten die zich voordoen op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin het Verdrag in werking treedt.
+- c. op andere belastingen die verschuldigd zijn ter zake van belastbare feiten die zich voordoen op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin het Verdrag in werking treedt.
 
-3. Het op 5 juni 2001 te Luxemburg ondertekende Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen wordt beëindigd met de inwerkingtreding van het onderhavige Verdrag. De bepalingen van het in deze paragraaf eerstgenoemde Verdrag blijven echter van toepassing totdat de bepalingen van het Verdrag, in overeenstemming met de bepalingen van paragraaf 2, toepassing vinden.
+3. Het op 5 juni 2001 te Luxemburg ondertekende Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen wordt beëindigd met de inwerkingtreding van het onderhavige Verdrag. De bepalingen van het in deze paragraaf eerstgenoemde Verdrag blijven echter van toepassing totdat de bepalingen van het Verdrag, in overeenstemming met de bepalingen van paragraaf 2, toepassing vinden.
 
-4. Niettegenstaande de bepalingen van paragraaf 3, blijft de in [artikel 27, paragrafen 2, 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006999&hoofdstuk=V&artikel=27&z=2023-06-21&g=2023-06-21), van het in paragraaf 3 van dit artikel genoemde Verdrag in samenhang met artikel 1a, lid 2, van de Goedkeuringswet opgenomen compensatieregeling van toepassing met betrekking tot beloningen die ook onder het onderhavige Verdrag ter heffing aan België blijven toegewezen. Onder de Goedkeuringswet, bedoeld in de eerste zin, wordt verstaan: de Wet van 12 december 2002 tot goedkeuring van het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met Protocol I en II en briefwisseling (**Trb.** 2001, 136). Voor de toepassing van de eerste zin wordt bij de berekening van de netto inkomensachteruitgang als bedoeld in artikel 27, paragraaf 3, van het in paragraaf 3 van dit artikel genoemde Verdrag uitgegaan van de som van de Nederlandse en Belgische belasting alsmede premie als is bedoeld in hoofdstuk 2 van de Wet financiering sociale verzekeringen dan wel daarmee vergelijkbare bijdragen en premies ingevolge de Belgische sociale zekerheid die de in artikel 27, paragraaf 2, van het in paragraaf 3 van dit artikel genoemde Verdrag bedoelde natuurlijke persoon met toepassing van de bepalingen van het onderhavige Verdrag uiteindelijk verschuldigd is over zijn inkomen.
+4. Niettegenstaande de bepalingen van paragraaf 3, blijft de in [artikel 27, paragrafen 2, 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006999&hoofdstuk=V&artikel=27&z=2023-06-21&g=2023-06-21), van het in paragraaf 3 van dit artikel genoemde Verdrag in samenhang met artikel 1a, lid 2, van de Goedkeuringswet opgenomen compensatieregeling van toepassing met betrekking tot beloningen die ook onder het onderhavige Verdrag ter heffing aan België blijven toegewezen. Onder de Goedkeuringswet, bedoeld in de eerste zin, wordt verstaan: de Wet van 12 december 2002 tot goedkeuring van het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met Protocol I en II en briefwisseling (*Trb.* 2001, 136). Voor de toepassing van de eerste zin wordt bij de berekening van de netto inkomensachteruitgang als bedoeld in artikel 27, paragraaf 3, van het in paragraaf 3 van dit artikel genoemde Verdrag uitgegaan van de som van de Nederlandse en Belgische belasting alsmede premie als is bedoeld in hoofdstuk 2 van de Wet financiering sociale verzekeringen dan wel daarmee vergelijkbare bijdragen en premies ingevolge de Belgische sociale zekerheid die de in artikel 27, paragraaf 2, van het in paragraaf 3 van dit artikel genoemde Verdrag bedoelde natuurlijke persoon met toepassing van de bepalingen van het onderhavige Verdrag uiteindelijk verschuldigd is over zijn inkomen.
 
 ##### Artikel 29. Beëindiging
 
 Dit Verdrag blijft van kracht totdat het door een verdragsluitende Staat wordt opgezegd. Elke verdragsluitende Staat kan het Verdrag langs diplomatieke weg opzeggen door ten minste zes maanden voor het einde van elk kalenderjaar dat begint na het verstrijken van een periode van vijf jaar vanaf de datum van inwerkingtreding van het Verdrag, aan de andere verdragsluitende Staat kennis te geven van de beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn:
 
-- a. op de bij de bron verschuldigde belastingen op inkomsten die zijn toegekend of betaalbaar gesteld op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin de kennisgeving van de beëindiging is gedaan;
+- a. op de bij de bron verschuldigde belastingen op inkomsten die zijn toegekend of betaalbaar gesteld op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin de kennisgeving van de beëindiging is gedaan;
 
-- b. op de andere belastingen geheven naar inkomsten van belastbare tijdperken die beginnen op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin de kennisgeving van de beëindiging is gedaan;
+- b. op de andere belastingen geheven naar inkomsten van belastbare tijdperken die beginnen op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin de kennisgeving van de beëindiging is gedaan;
 
-- c. op andere belastingen die verschuldigd zijn ter zake van belastbare feiten die zich voordoen op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin de kennisgeving van de beëindiging is gedaan.
+- c. op andere belastingen die verschuldigd zijn ter zake van belastbare feiten die zich voordoen op of na 1 januari van het jaar dat onmiddellijk volgt op dat waarin de kennisgeving van de beëindiging is gedaan.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gevolmachtigd door hun respectieve Regeringen, dit Verdrag hebben ondertekend.
 
-GEDAAN in tweevoud te Brussel, op 21 juni 2023, in de Nederlandse en de Franse taal, zijnde de twee teksten gelijkelijk authentiek.
+GEDAAN in tweevoud te Brussel, op 21 juni 2023, in de Nederlandse en de Franse taal, zijnde de twee teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 M.L.A. VAN RIJ
 
-**Voor het Koninkrijk België,**
+*Voor het Koninkrijk België,*
 
 V. VAN PETEGHEM
 
-**Voor de Vlaamse Gemeenschap,**
+*Voor de Vlaamse Gemeenschap,*
 
 M. DIEPENDAELE
 
-**Voor de Franse Gemeenschap,**
+*Voor de Franse Gemeenschap,*
 
 V. VAN PETEGHEM
 
-**Voor de Duitstalige Gemeenschap,**
+*Voor de Duitstalige Gemeenschap,*
 
 V. VAN PETEGHEM
 
-**Voor het Vlaamse Gewest,**
+*Voor het Vlaamse Gewest,*
 
 M. DIEPENDAELE
 
-**Voor het Waalse Gewest,**
+*Voor het Waalse Gewest,*
 
 V. VAN PETEGHEM
 
-**Voor het Brussels Hoofdstedelijk Gewest,**
+*Voor het Brussels Hoofdstedelijk Gewest,*
 
 V. VAN PETEGHEM

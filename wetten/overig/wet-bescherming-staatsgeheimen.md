@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0002074"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 5 April 1951, houdende nadere voorzieningen met betrekking tot de bescherming van gegevens, waarvan de geheimhouding door het belang van de Staat wordt geboden

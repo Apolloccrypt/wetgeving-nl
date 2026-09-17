@@ -1,46 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens"
 identifier: "BWBV0007066"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-05-01"
-last_updated: "2025-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007066"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005668313"
-version_id: "10006245762"
-internal_id: "C10010191601"
-label_id: "10005650044"
-dtd_version: "2.0"
-original_entry_into_force: "2025-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007066/2025-05-01/0"
-intitule_bron: "Trb.2024-85"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-07-24"
-intitule_in_force: "2025-05-02"
-intitule_status: "goed"
-original_publication: "Trb.2024-85"
-original_published_date: "2024-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2024-85"
-entry_into_force_date: "2025-05-01"
-jci_1_3: "jci1.3:c:BWBV0007066&z=2025-05-01&g=2025-05-01"
-jci_1_0: "1.0:c:BWBV0007066&g=2025-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-05-01"
+publicatiedatum: 2025-05-01
+laatste_update: 2025-05-01
+status: geldig
+toestand: 2025-05-01
+bron: "https://wetten.overheid.nl/BWBV0007066"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Slowaakse Republiek,
-
-Hierna gezamenlijk te noemen „partijen” en elk afzonderlijk „partij”,
-
-Geleid door de wens de wederzijdse beveiliging van gerubriceerde gegevens te waarborgen, in het belang van de nationale veiligheid, zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Slowaakse Republiek, Hierna gezamenlijk te noemen „partijen” en elk afzonderlijk „partij”, Geleid door de wens de wederzijdse beveiliging van gerubriceerde gegevens te waarborgen, in het belang van de nationale veiligheid, zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Doel en reikwijdte
 
@@ -54,35 +27,35 @@ Geleid door de wens de wederzijdse beveiliging van gerubriceerde gegevens te waa
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- a. **„Verdrag”,** dit document met inbegrip van de Bijlagen daarbij.
+- a. *„Verdrag”,* dit document met inbegrip van de Bijlagen daarbij.
 
-- b. **„Bijlage”,** een bijlage bij dit document.
+- b. *„Bijlage”,* een bijlage bij dit document.
 
-- c. **„Gerubriceerd contract”,** elke wettelijk afdwingbare overeenkomst voor het leveren van goederen of diensten die een van de partijen of een opdrachtnemer onder haar rechtsmacht aangaat met een opdrachtnemer onder de rechtsmacht van de andere partij, die gerubriceerde gegevens bevat of waarbij voor de uitvoering toegang of mogelijk toegang vereist is tot het genereren, gebruiken of overdragen van gerubriceerde gegevens.
+- c. *„Gerubriceerd contract”,* elke wettelijk afdwingbare overeenkomst voor het leveren van goederen of diensten die een van de partijen of een opdrachtnemer onder haar rechtsmacht aangaat met een opdrachtnemer onder de rechtsmacht van de andere partij, die gerubriceerde gegevens bevat of waarbij voor de uitvoering toegang of mogelijk toegang vereist is tot het genereren, gebruiken of overdragen van gerubriceerde gegevens.
 
-- d. **„Gerubriceerde gegevens”,** gegevens, materiaal of voorwerpen, ongeacht de vorm of aard daarvan, of delen daarvan, die door een van de partijen als gerubriceerd worden aangemerkt, waarvan de ongeoorloofde bekendmaking, verandering, compromittering of elk verlies de belangen van een of beide partijen in meer of mindere mate zou kunnen schaden.
+- d. *„Gerubriceerde gegevens”,* gegevens, materiaal of voorwerpen, ongeacht de vorm of aard daarvan, of delen daarvan, die door een van de partijen als gerubriceerd worden aangemerkt, waarvan de ongeoorloofde bekendmaking, verandering, compromittering of elk verlies de belangen van een of beide partijen in meer of mindere mate zou kunnen schaden.
 
-- e. **„Bevoegde beveiligingsautoriteit”,** de overheidsautoriteit in een partij die verantwoordelijk is voor de implementatie van en toezicht op dit Verdrag. De bevoegde beveiligingsautoriteit kan een deel van zijn verantwoordelijkheden delegeren aan een gemachtigde bevoegde beveiligingsautoriteit.
+- e. *„Bevoegde beveiligingsautoriteit”,* de overheidsautoriteit in een partij die verantwoordelijk is voor de implementatie van en toezicht op dit Verdrag. De bevoegde beveiligingsautoriteit kan een deel van zijn verantwoordelijkheden delegeren aan een gemachtigde bevoegde beveiligingsautoriteit.
 
-- f. **„Opdrachtnemer”,** elke persoon (anders dan degenen die door een partij in dienst zijn genomen op grond van een contract of arbeidsovereenkomst), rechtspersoon of andere vorm van organisatie onder de rechtsmacht van een partij, die een gerubriceerd contract aangaat of er door gebonden is.
+- f. *„Opdrachtnemer”,* elke persoon (anders dan degenen die door een partij in dienst zijn genomen op grond van een contract of arbeidsovereenkomst), rechtspersoon of andere vorm van organisatie onder de rechtsmacht van een partij, die een gerubriceerd contract aangaat of er door gebonden is.
 
-- g. **„Veiligheidsmachtiging bedrijfslocatie”,** de vaststelling door de bevoegde beveiligingsautoriteit dat een bedrijfslocatie passende veiligheidsmaatregelen heeft genomen voor de toegang tot en omgang met gerubriceerde gegevens, tot en met een gespecificeerd rubriceringsniveau, in overeenstemming met de nationale wet- en regelgeving.
+- g. *„Veiligheidsmachtiging bedrijfslocatie”,* de vaststelling door de bevoegde beveiligingsautoriteit dat een bedrijfslocatie passende veiligheidsmaatregelen heeft genomen voor de toegang tot en omgang met gerubriceerde gegevens, tot en met een gespecificeerd rubriceringsniveau, in overeenstemming met de nationale wet- en regelgeving.
 
-- h. **„Need to know”,** het vereiste voor een natuurlijke persoon, rechtspersoon of andere organisatievorm, voor toegang tot, kennis van of bezit van gerubriceerde gegevens voor het uitvoeren van hun officiële taken of diensten.
+- h. *„Need to know”,* het vereiste voor een natuurlijke persoon, rechtspersoon of andere organisatievorm, voor toegang tot, kennis van of bezit van gerubriceerde gegevens voor het uitvoeren van hun officiële taken of diensten.
 
-- i. **„Partij van herkomst”,** de partij onder wier gezag gerubriceerde gegevens zijn gecreëerd.
+- i. *„Partij van herkomst”,* de partij onder wier gezag gerubriceerde gegevens zijn gecreëerd.
 
-- j. **„Veiligheidsmachtiging personeel”,** de vaststelling door de bevoegde beveiligingsautoriteit dat een natuurlijke persoon toestemming heeft gekregen voor de toegang tot en omgang met gerubriceerde gegevens, met inbegrip van een gespecificeerd rubriceringsniveau, in overeenstemming met de nationale wet- en regelgeving.
+- j. *„Veiligheidsmachtiging personeel”,* de vaststelling door de bevoegde beveiligingsautoriteit dat een natuurlijke persoon toestemming heeft gekregen voor de toegang tot en omgang met gerubriceerde gegevens, met inbegrip van een gespecificeerd rubriceringsniveau, in overeenstemming met de nationale wet- en regelgeving.
 
-- k. **„Verstrekkende partij”,** de partij of opdrachtnemer onder haar rechtsmacht die de gerubriceerde gegevens uit hoofde van dit Verdrag verstrekt aan de ontvangende partij.
+- k. *„Verstrekkende partij”,* de partij of opdrachtnemer onder haar rechtsmacht die de gerubriceerde gegevens uit hoofde van dit Verdrag verstrekt aan de ontvangende partij.
 
-- l. **„Ontvangende partij”,** de partij of opdrachtnemer onder haar rechtsmacht die de gerubriceerde gegevens uit hoofde van dit Verdrag ontvangt van de verstrekkende partij.
+- l. *„Ontvangende partij”,* de partij of opdrachtnemer onder haar rechtsmacht die de gerubriceerde gegevens uit hoofde van dit Verdrag ontvangt van de verstrekkende partij.
 
-- m. **„Rubriceringsgids”,** een document dat hoort bij een gerubriceerd contract waarin de van toepassing zijnde rubriceringsniveaus voor elk onderdeel van dat gerubriceerde contract worden gespecificeerd.
+- m. *„Rubriceringsgids”,* een document dat hoort bij een gerubriceerd contract waarin de van toepassing zijnde rubriceringsniveaus voor elk onderdeel van dat gerubriceerde contract worden gespecificeerd.
 
-- n. **„Beveiligingsincident”,** elke ongeoorloofde bekendmaking, verandering, compromittering, elk verlies, elke toegang, omgang met, elke opslag of vernietiging van gerubriceerde gegevens, in strijd met de nationale wet- en regelgeving van de ontvangende partij en/of dit Verdrag.
+- n. *„Beveiligingsincident”,* elke ongeoorloofde bekendmaking, verandering, compromittering, elk verlies, elke toegang, omgang met, elke opslag of vernietiging van gerubriceerde gegevens, in strijd met de nationale wet- en regelgeving van de ontvangende partij en/of dit Verdrag.
 
-- o. **„Derde”,** elke internationale organisatie, regering of staat, met inbegrip van natuurlijke personen, rechtspersonen of andere organisatievormen onder zijn rechtsmacht die geen partij is bij dit Verdrag.
+- o. *„Derde”,* elke internationale organisatie, regering of staat, met inbegrip van natuurlijke personen, rechtspersonen of andere organisatievormen onder zijn rechtsmacht die geen partij is bij dit Verdrag.
 
 ##### Artikel 3. Bevoegde beveiligingsautoriteiten
 
@@ -96,7 +69,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 De volgende rubriceringsniveaus van de partijen komen overeen en corresponderen met de rubriceringsniveaus die in de nationale wet- en regelgeving van de partijen staan. Het Engelse equivalent is een niet-officiële vertaling, die geen deel uitmaakt van de nationale wet- en regelgeving van de partijen en niet gebruikt dient te worden om gerubriceerde gegevens aan te duiden.
 
-| **Voor het Koninkrijk der Nederlanden** | **Voor de Slowaakse Republiek** | **Equivalent in het Engels** |
+| Voor het Koninkrijk der Nederlanden | Voor de Slowaakse Republiek | Equivalent in het Engels |
 | --- | --- | --- |
 | Stg. ZEER GEHEIM | PRÍSNE TAJNÉ | TOP SECRET |
 | Stg. GEHEIM | TAJNÉ | SECRET |
@@ -279,14 +252,14 @@ De bevoegde beveiligingsautoriteiten van de partijen kunnen uitvoeringsregelinge
 
 TEN BLIJKE WAARVAN de vertegenwoordigers van de partijen, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
-GEDAAN te Bratislava op 2 juli 2024, in twee oorspronkelijke exemplaren, elk in de Nederlandse, de Slowaakse en de Engelse taal.
+GEDAAN te Bratislava op 2 juli 2024, in twee oorspronkelijke exemplaren, elk in de Nederlandse, de Slowaakse en de Engelse taal.
 
 In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 GABRIELLA SANCISI
 
-**Voor de Slowaakse Republiek,**
+*Voor de Slowaakse Republiek,*
 
 ROMAN KONEČNÝ

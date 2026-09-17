@@ -3,7 +3,7 @@ title: "Overeenkomst inzake luchtvervoer tussen ten eerste, de Verenigde Staten 
 identifier: "BWBV0005416"
 categorie: "Overig"
 publicatiedatum: 2011-06-21
-laatste_update: 2011-06-21
+laatste_update: 2026-09-16
 status: geldig
 bron: "https://wetten.overheid.nl/BWBV0005416"
 ---
@@ -114,15 +114,15 @@ erkennende dat de Europese Unie de Europese Gemeenschap heeft vervangen en opgev
 
 zijn als volgt overeengekomen:
 
-#### Artikel 1. Definitie
+##### Artikel 1. Definitie
 
 Onder „Partij” worden verstaan: de Verenigde Staten, de Europese Unie en haar lidstaten, IJsland of Noorwegen.
 
-#### Artikel 2. Toepassing van de [luchtvervoersovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513), zoals gewijzigd bij het protocol en de bijlage daarbij
+##### Artikel 2. Toepassing van de [luchtvervoersovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513), zoals gewijzigd bij het protocol en de bijlage daarbij
 
 De bepalingen van de door de Verenigde Staten van Amerika en de Europese Gemeenschap en haar lidstaten op 25 en 30 april 2007 ondertekende [overeenkomst inzake luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0002513) (hierna „de luchtvervoersovereenkomst”), zoals gewijzigd bij het protocol tot wijziging van de overeenkomst inzake luchtvervoer dat op 24 juni 2010 door de Verenigde Staten van Amerika en de Europese Unie en haar lidstaten is ondertekend (hierna „het protocol”), die door verwijzing in deze Overeenkomst zijn opgenomen, zijn van toepassing op alle partijen bij deze overeenkomst, onverminderd de bijlage bij deze overeenkomst. De bepalingen van de luchtvervoersovereenkomst, zoals gewijzigd bij het protocol, zijn van toepassing op IJsland en Noorwegen als waren zij lidstaten van de Europese Unie, zodat IJsland en Noorwegen alle rechten en verplichtingen hebben die de lidstaten uit hoofde van die overeenkomst hebben. De bepalingen van de bijlage bij deze Overeenkomst maken integrerend deel uit van deze Overeenkomst.
 
-#### Artikel 3. Opzegging van de Overeenkomst of beëindiging van de voorlopige toepassing
+##### Artikel 3. Opzegging van de Overeenkomst of beëindiging van de voorlopige toepassing
 
 1. Zowel de Verenigde Staten als de Europese Unie en haar lidstaten mogen te allen tijde de andere drie partijen via diplomatieke kanalen schriftelijk in kennis stellen van hun besluit om deze Overeenkomst op te zeggen of om de bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005416&artikel=5&z=2011-06-21&g=2011-06-21) vastgestelde voorlopige toepassing ervan te beëindigen.
 
@@ -136,15 +136,15 @@ Deze kennisgeving moet tegelijk ook naar de Internationale Burgerluchtvaartorgan
 
 5. Onverminderd andere bepalingen van dit artikel neemt deze Overeenkomst, zoals gewijzigd bij het protocol, een einde wanneer de [luchtvervoersovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513) wordt beëindigd.
 
-#### Artikel 4. Registratie bij de ICAO
+##### Artikel 4. Registratie bij de ICAO
 
 Deze overeenkomst en alle wijzigingen daarvan worden door het Secretariaat-generaal van de Raad van de Europese Unie geregistreerd bij de ICAO.
 
-#### Artikel 5. Voorlopige toepassing
+##### Artikel 5. Voorlopige toepassing
 
 De partijen zijn overeengekomen deze overeenkomst vanaf de datum van ondertekening voorlopig toe te passen, in afwachting van de inwerkingtreding ervan, voor zover dit is toegestaan uit hoofde van de toepasselijke nationale wetgeving. Indien de [luchtvervoersovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513), zoals gewijzigd bij het protocol, overeenkomstig [artikel 23 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=23) wordt opgezegd, of indien de voorlopige toepassing ervan overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=25) wordt beëindigd, of indien de voorlopige toepassing van het protocol overeenkomstig artikel 9 van het protocol wordt beëindigd, wordt tegelijkertijd de voorlopige toepassing van deze overeenkomst beëindigd.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze Overeenkomst treedt in werking op de laatste van de volgende data:
 

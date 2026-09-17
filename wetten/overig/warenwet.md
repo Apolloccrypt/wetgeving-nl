@@ -9,7 +9,7 @@ laatste_update: 2025-07-12
 status: geldig
 toestand: 2025-07-12
 bron: "https://wetten.overheid.nl/BWBR0001969"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 28 december 1935, houdende voorschriften betreffende de hoedanigheid en aanduiding van waren

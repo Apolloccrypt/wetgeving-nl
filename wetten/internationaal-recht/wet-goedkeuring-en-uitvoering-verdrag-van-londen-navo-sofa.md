@@ -9,7 +9,7 @@ laatste_update: 1953-09-09
 status: geldig
 toestand: 1953-09-09
 bron: "https://wetten.overheid.nl/BWBR0002118"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 7 augustus 1953, houdende goedkeuring en uitvoering van het Verdrag van Londen van 19 Juni 1951 tussen de Staten, die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten

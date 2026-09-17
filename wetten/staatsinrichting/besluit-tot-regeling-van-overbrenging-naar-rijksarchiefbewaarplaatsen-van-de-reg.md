@@ -9,7 +9,7 @@ laatste_update: 1929-08-07
 status: geldig
 toestand: 1929-08-07
 bron: "https://wetten.overheid.nl/BWBR0001943"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 6 juli 1929, tot regeling van de overbrenging naar de Rijksarchiefbewaarplaatsen van de registers der overledenen, opgemaakt ingevolge de "Ordonnantie eener Belasting op het Regt van Successie" van 4 October 1805

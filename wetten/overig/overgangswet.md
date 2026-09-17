@@ -9,7 +9,7 @@ laatste_update: 1838-01-26
 status: geldig
 toestand: 1838-01-26
 bron: "https://wetten.overheid.nl/BWBR0001834"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 16 mei 1829, houdende bepalingen wegens den overgang van de vroegere tot de nieuwe wetgeving

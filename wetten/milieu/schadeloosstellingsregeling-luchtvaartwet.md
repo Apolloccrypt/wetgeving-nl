@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0002405"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 27 maart 1963 ter uitvoering van artikel 60 van de Luchtvaartwet (Schadeloosstellingsregeling Luchtvaartwet)

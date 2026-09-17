@@ -9,7 +9,7 @@ laatste_update: 1956-01-01
 status: geldig
 toestand: 1956-01-01
 bron: "https://wetten.overheid.nl/BWBR0002186"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 18 juni 1955, houdende uitvoering van artikel 13 van de Instellingswet Productschap voor Groenten en Fruit

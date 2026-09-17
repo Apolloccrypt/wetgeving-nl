@@ -9,7 +9,7 @@ laatste_update: 2026-09-12
 status: geldig
 toestand: 2026-09-12
 bron: "https://wetten.overheid.nl/BWBR0024492"
-opgehaald: 2026-09-16
+opgehaald: 2026-09-17
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 september 2008, nr. K&K 2008088170, houdende regels met betrekking tot het afvalbeheer en het gebruik van bepaalde gevaarlijke stoffen in batterijen en accu’s (Regeling beheer batterijen en accu’s 2008)

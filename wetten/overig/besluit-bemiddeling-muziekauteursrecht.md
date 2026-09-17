@@ -9,7 +9,7 @@ laatste_update: 2009-12-02
 status: geldig
 toestand: 2009-12-02
 bron: "https://wetten.overheid.nl/BWBR0001954"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 12 oktober 1932, tot vaststelling van den algemeenen maatregel van bestuur, bedoeld bij artikel 30a, vijfde lid, der Auteurswet 1912, gelijk deze luidt ingevolge de Wet van 11 februari 1932, Stb. 45

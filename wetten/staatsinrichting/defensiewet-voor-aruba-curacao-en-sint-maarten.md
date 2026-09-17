@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0002177"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 29 maart 1955, houdende het in overeenstemming brengen van de Defensiewet voor de Nederlandse Antillen met de nieuwe rechtsorde

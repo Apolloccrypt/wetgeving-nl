@@ -9,7 +9,7 @@ laatste_update: 1961-06-05
 status: geldig
 toestand: 1961-06-05
 bron: "https://wetten.overheid.nl/BWBR0002354"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 2 mei 1961, tot hernieuwde vaststelling van de algemene maatregel van bestuur, bedoeld bij artikel 570 van het Wetboek van Koophandel

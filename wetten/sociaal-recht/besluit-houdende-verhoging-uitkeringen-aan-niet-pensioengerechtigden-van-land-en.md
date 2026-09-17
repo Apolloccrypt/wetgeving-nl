@@ -9,7 +9,7 @@ laatste_update: 1956-11-15
 status: geldig
 toestand: 1956-11-15
 bron: "https://wetten.overheid.nl/BWBR0002238"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 27 oktober 1956, houdende verhoging uitkeringen aan niet-pensioengerechtigden van land- en zeemacht met een nadere toeslag-1954

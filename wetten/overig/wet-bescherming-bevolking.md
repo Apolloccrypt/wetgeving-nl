@@ -9,7 +9,7 @@ laatste_update: 1986-07-01
 status: geldig
 toestand: 1986-07-01
 bron: "https://wetten.overheid.nl/BWBR0002096"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 10 juli 1952, tot bescherming van de bevolking tegen de gevolgen van oorlogsgeweld

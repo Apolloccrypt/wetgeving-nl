@@ -9,7 +9,7 @@ laatste_update: 2023-05-01
 status: geldig
 toestand: 2023-05-01
 bron: "https://wetten.overheid.nl/BWBR0001905"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 5 juli 1921, tot vaststelling van voorschriften betreffende overzetveren en veerrechten

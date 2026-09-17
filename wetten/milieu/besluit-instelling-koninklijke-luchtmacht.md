@@ -9,7 +9,7 @@ laatste_update: 1953-04-16
 status: geldig
 toestand: 1953-04-16
 bron: "https://wetten.overheid.nl/BWBR0002107"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 11 maart 1953, houdende de instelling Koninklijke Luchtmacht

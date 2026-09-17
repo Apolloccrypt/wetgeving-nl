@@ -9,7 +9,7 @@ laatste_update: 1953-07-22
 status: geldig
 toestand: 1953-07-22
 bron: "https://wetten.overheid.nl/BWBR0002112"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 8 juli 1953, houdende goedkeuring van het op 5 September 1952 te Brussel tussen Nederland, België en Luxemburg gesloten Verdrag nopens wederkerige bijstand inzake de invordering van belastingschulden

@@ -9,7 +9,7 @@ laatste_update: 2006-07-23
 status: geldig
 toestand: 2006-07-23
 bron: "https://wetten.overheid.nl/BWBR0002114"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # INKWARTIERINGSBESCHIKKING 1953

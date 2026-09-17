@@ -9,7 +9,7 @@ laatste_update: 1946-07-12
 status: geldig
 toestand: 1946-07-12
 bron: "https://wetten.overheid.nl/BWBR0002018"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 4 juli 1946, tot tijdelijke afwijking van het Koninklijk besluit van 20 mei 1933, Stb. 292, tot vaststelling van een algemeenen maatregel van bestuur, bedoeld in artikel 73a der Wet op het Notarisambt

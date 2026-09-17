@@ -9,7 +9,7 @@ laatste_update: 1952-12-01
 status: geldig
 toestand: 1952-12-01
 bron: "https://wetten.overheid.nl/BWBR0002101"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 23 oktober 1952, houdende nadere regeling inzake de sluiting van de scheepsboekhouding, aangehouden krachtens het Koninklijk besluit van 21 juni 1836, Stb. 41

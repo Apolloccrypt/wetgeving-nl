@@ -9,7 +9,7 @@ laatste_update: 1954-10-10
 status: geldig
 toestand: 1954-10-10
 bron: "https://wetten.overheid.nl/BWBR0002146"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 8 oktober 1954, houdende verhoging uitkeringen niet-pensioengerechtigden van land- en zeemacht met een toeslag-1954

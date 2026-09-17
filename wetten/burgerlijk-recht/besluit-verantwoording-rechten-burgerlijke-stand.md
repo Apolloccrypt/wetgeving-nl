@@ -9,7 +9,7 @@ laatste_update: 1879-10-26
 status: geldig
 toestand: 1879-10-26
 bron: "https://wetten.overheid.nl/BWBR0001853"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 26 september 1879, tot regeling van de verantwoording der regten, geheven krachtens art. 2 der wet van 23 april 1879 (Staatsblad n°. 72)

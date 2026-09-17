@@ -9,7 +9,7 @@ laatste_update: 1943-03-24
 status: geldig
 toestand: 1943-03-24
 bron: "https://wetten.overheid.nl/BWBR0002005"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 26 maart 1942, houdende bepalingen nopens het ten aanzien van Nederlanders in Groot-Brittannië en Noord-Ierland opmaken van authentieke akten betreffende geboorten, gesloten huwelijken en gevallen van overlijden en de regeling van de overschrijving van de akten, bedoeld bij de artikelen 35, 60 en 61 van het Burgerlijk Wetboek

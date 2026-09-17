@@ -9,7 +9,7 @@ laatste_update: 2012-12-07
 status: geldig
 toestand: 2012-12-07
 bron: "https://wetten.overheid.nl/BWBR0002323"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 1 augustus 1959, houdende regelen betreffende de samenstelling, benoeming, werkwijze en bevoegdheid der commissies, bedoeld in artikel 6 van de wet van 10 juli 1952 (Stb. 407) ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden

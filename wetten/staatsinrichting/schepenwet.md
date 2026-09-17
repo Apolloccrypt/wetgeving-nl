@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0001876"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 1 juli 1909, houdende bepalingen ter voorkoming van scheepsrampen, tot het instellen van een onderzoek omtrent voorgekomen scheepsrampen en omtrent maatregelen van tucht ten opzichte van kapiteins, stuurlieden of machinisten

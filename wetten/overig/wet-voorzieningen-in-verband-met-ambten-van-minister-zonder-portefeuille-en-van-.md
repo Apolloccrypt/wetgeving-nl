@@ -9,7 +9,7 @@ laatste_update: 1993-12-31
 status: geldig
 toestand: 1993-12-31
 bron: "https://wetten.overheid.nl/BWBR0002069"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 25 januari 1951, houdende nadere voorzieningen in verband met de invoering van de ambten van minister zonder portefeuille en van staatssecretaris

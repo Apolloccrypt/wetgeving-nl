@@ -9,7 +9,7 @@ laatste_update: 1838-10-09
 status: geldig
 toestand: 1838-10-09
 bron: "https://wetten.overheid.nl/BWBR0001839"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 14 september 1838, waarbij worden vastgesteld vier Reglementen, in voldoening aan art. 19 der Wet op de samenstelling van de Rechterlijke macht en het beleid der Justitie

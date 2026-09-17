@@ -9,7 +9,7 @@ laatste_update: 1952-11-01
 status: geldig
 toestand: 1952-11-01
 bron: "https://wetten.overheid.nl/BWBR0002072"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 17 maart 1951, regelende de door het nieuwe binnenvaartrecht voor bepaalde gevallen voorgeschreven oproeping door de griffier van de wederpartij bij een vervoerovereenkomst

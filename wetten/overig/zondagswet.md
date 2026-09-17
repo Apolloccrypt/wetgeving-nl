@@ -9,7 +9,7 @@ laatste_update: 1994-04-01
 status: geldig
 toestand: 1994-04-01
 bron: "https://wetten.overheid.nl/BWBR0002120"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 15 October 1953, houdende nadere voorschriften ter wegneming van beletselen voor de viering van en ter verzekering van de openbare rust op de Zondag en enige Christelijke feestdagen

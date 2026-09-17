@@ -9,7 +9,7 @@ laatste_update: 1929-05-22
 status: geldig
 toestand: 1929-05-22
 bron: "https://wetten.overheid.nl/BWBR0001942"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 19 april 1929, tot uitvoering van het eerste lid van artikel 19 der Archiefwet 1918 (Staatsblad n°. 378), gewijzigd bij de wet van 14 Mei 1928 (Staatsblad n°. 177) en van het vierde lid van dat artikel, voor zoover dit de archieven van de voormalige wees- en momboirkamers betreft

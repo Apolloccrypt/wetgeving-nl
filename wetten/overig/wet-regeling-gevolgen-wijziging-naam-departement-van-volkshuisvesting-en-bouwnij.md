@@ -9,7 +9,7 @@ laatste_update: 1956-10-13
 status: geldig
 toestand: 1956-10-13
 bron: "https://wetten.overheid.nl/BWBR0002270"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 23 januari 1958, houdende regeling van de gevolgen van de wijziging van de naam van het departement van Wederopbouw en Volkshuisvesting in die van departement van Volkshuisvesting en Bouwnijverheid

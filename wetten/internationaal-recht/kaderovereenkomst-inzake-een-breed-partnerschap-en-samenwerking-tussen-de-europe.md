@@ -1,139 +1,20 @@
 ---
 title: "Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en het Koninkrijk Thailand, anderzijds"
 identifier: "BWBV0006983"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-12-14"
-last_updated: "2022-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006983"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005623113"
-version_id: "10006188062"
-internal_id: "C10009973971"
-label_id: "10005605604"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006983/2022-12-14/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0006983&z=2022-12-14&g=2022-12-14"
-jci_1_0: "1.0:c:BWBV0006983&g=2022-12-14"
-citeertitel_status: "redactioneel"
+laatste_update: 2022-12-14
+status: geldig
+toestand: 2022-12-14
+bron: "https://wetten.overheid.nl/BWBV0006983"
+opgehaald: 2026-09-17
 ---
+
 # Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en het Koninkrijk Thailand, anderzijds
 
-de Europese Unie, hierna „de EU” genoemd,
+*de Europese Unie, hierna „de EU” genoemd, en het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, lidstaten van de Europese Unie, hierna „de lidstaten” genoemd, enerzijds, en het Koninkrijk Thailand, hierna „Thailand” genoemd, anderzijds, hierna „de partijen” genoemd, Gezien de traditionele vriendschapsbanden tussen de partijen en de nauwe historische, politieke en economische banden die hen verenigen; Gezien het bijzondere belang dat de partijen hechten aan het omvattende karakter van hun wederzijdse betrekkingen; Bevestigend dat de partijen gehecht zijn aan de democratische beginselen, de rechten van de mens en de fundamentele vrijheden, zoals deze zijn vastgelegd in de Universele Verklaring van de Rechten van de Mens die op 10 december 1948 is aangenomen door de Algemene Vergadering van de Verenigde Naties (AVVN), en in andere toepasselijke internationale mensenrechteninstrumenten; Bevestigend dat de partijen gehecht zijn aan de beginselen van de rechtsstaat en goed bestuur en streven naar economische en sociale vooruitgang ten bate van hun bevolking, rekening houdend met de vereisten inzake milieubescherming en de beginselen van duurzame ontwikkeling, alsmede de Agenda 2030 voor duurzame ontwikkeling, aangenomen bij Resolutie nr. 70/1 van de AVVN van 25 september 2015; Erkennende dat Thailand een ontwikkelingsland is en rekening houdend met de respectieve ontwikkelingsstadia van de partijen; Erkennende dat de concepten en de doelstellingen inzake non-proliferatie en ontwapening via toepasselijke internationale en regionale instrumenten moeten worden bevorderd om het gevaar van massavernietigingswapens tegen te gaan. Met de bij consensus aangenomen Resolutie 1540 (2004) van de Veiligheidsraad van de Verenigde Naties (VN-Veiligheidsraad) wordt onderstreept dat de gehele internationale gemeenschap zich ertoe verbindt om de verspreiding van dergelijke wapens te bestrijden. De Europese Raad heeft op 12 december 2003 een strategie tegen de verspreiding van massavernietigingswapens goedgekeurd en de Raad van de Europese Unie heeft op 17 november 2003 beleidsmaatregelen van de EU goedgekeurd om non-proliferatiebeleid te integreren in de betrekkingen van de EU met derde landen. Thailand is, als lid van de Associatie van Zuidoost-Aziatische Staten (Asean), een van de initiatiefnemers van en ondertekenende partijen bij het Verdrag inzake een kernwapenvrije zone in Zuidoost-Azië, dat op 15 december 1995 in Bangkok werd ondertekend; Overwegende dat de partijen de banden tussen ontwapening, wapenbeheersing, vrede en veiligheid en ontwikkeling erkennen, en vaststellen dat nauwere samenwerking tussen de partijen bij de bevordering van de uitvoering van de toepasselijke internationale instrumenten kan leiden tot vooruitgang in de richting van de verwezenlijking van de duurzame-ontwikkelingsdoelstellingen van de VN en een veiligere wereld; Overwegende dat de partijen terrorisme beschouwen als een bedreiging voor de mondiale veiligheid en hun dialoog en samenwerking bij de bestrijding van terrorisme wensen te intensiveren overeenkomstig de desbetreffende resoluties van de VN-Veiligheidsraad, met name Resolutie 1373 (2001), en opnieuw bevestigend dat eerbiediging van de rechten van de mens van iedereen en de rechtsstaat de grondslag vormen voor de strijd tegen terrorisme; Opnieuw bevestigend dat de ernstigste misdrijven die de internationale gemeenschap als geheel met zorg vervullen, niet ongestraft mogen blijven en dat de effectieve vervolging ervan moet worden gewaarborgd door maatregelen op nationaal niveau te nemen en de wereldwijde samenwerking te intensiveren; Opnieuw bevestigend dat zij vastbesloten zijn om ernstige misdrijven die de internationale gemeenschap met zorg vervullen te bestrijden; Het belang erkennende van de op 7 maart 1980 in Kuala Lumpur ondertekende Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en Indonesië, Maleisië, de Filipijnen, Singapore en Thailand, lidstaten van de Associatie van Zuidoost-Aziatische staten (ASEAN), en van de daaropvolgende toetredingsprotocollen; Het belang erkennend van versterking van de bestaande betrekkingen tussen de partijen ter stimulering van de onderlinge samenwerking, alsook van hun gemeenschappelijke streven om de betrekkingen op gebieden van wederzijds belang te consolideren, te verdiepen en te diversifiëren, op basis van de eerbiediging van soevereiniteit, gelijkwaardigheid, non-discriminatie, inachtneming van het milieu en wederzijds voordeel; Erkennend dat de partijen de gemeenschappelijke ambitie delen om hulpbronnenefficiënte, inclusieve, innovatieve, klimaatneutrale en groene economieën tot stand te brengen, en dat de uitwisseling van ervaringen bij de uitvoering van hun binnenlands beleid de resultaten ervan kan verbeteren en de verwezenlijking van de duurzame-ontwikkelingsdoelstellingen van de VN kan versnellen; Verklarend dat zij zich er volledig toe verbinden duurzame ontwikkeling in al haar dimensies te bevorderen, met inbegrip van milieubescherming en doeltreffende samenwerking voor de bestrijding van de klimaatverandering en de doeltreffende uitvoering van het Raamverdrag van de Verenigde Naties inzake klimaatverandering (UNFCCC), dat op 9 mei 1992 in Rio de Janeiro is gesloten, en van de Overeenkomst van Parijs, die op 12 december 2015 is gesloten, alsmede de doeltreffende bevordering en uitvoering van internationaal erkende sociale en arbeidsnormen; Ervoor zorgend dat in dit opzicht niemand wordt achtergelaten; Wijzend op het belang van verdieping van de betrekkingen en samenwerking op gebieden zoals migratie; Bevestigend dat zij ernaar streven om, in volledige overeenstemming met de in regionaal verband ondernomen activiteiten, de onderlinge samenwerking te verdiepen op grond van gemeenschappelijke waarden en tot wederzijds voordeel; Het belang erkennend dat de partijen hechten aan de beginselen en regels die van toepassing zijn op de internationale handel, met name zoals deze zijn neergelegd in de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO-Overeenkomst), op 15 april 1994 gesloten te Marrakesh, en de noodzaak deze op transparante en niet-discriminerende wijze toe te passen; Wijzend op het feit dat, als de partijen in het kader van deze overeenkomst specifieke overeenkomsten besluiten aan te gaan op het gebied van vrijheid, veiligheid en recht, die door de EU zouden worden gesloten op grond van titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie (VWEU), de bepalingen van dergelijke toekomstige specifieke overeenkomsten niet bindend zijn voor Ierland, tenzij de EU, samen met Ierland wat betreft zijn bilaterale betrekkingen, Thailand ervan in kennis heeft gesteld dat Ierland gebonden is door dergelijke toekomstige specifieke overeenkomsten als deel van de EU, overeenkomstig Protocol nr. 21 betreffende de positie van Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht, dat aan het Verdrag betreffende de Europese Unie (VEU) en het VWEU is gehecht. Evenzo zijn interne maatregelen die de EU krachtens de voornoemde titel vaststelt met het oog op de uitvoering van deze overeenkomst, niet bindend voor Ierland, tenzij Ierland te kennen geeft deel te willen nemen aan deze maatregelen of deze te aanvaarden overeenkomstig Protocol nr. 21. Tevens vaststellend dat dergelijke toekomstige specifieke overeenkomsten of dergelijke latere interne maatregelen van de EU vallen onder Protocol nr. 22 betreffende de positie van Denemarken dat aan die verdragen is gehecht; Zijn het volgende overeengekomen:*
 
-en
-
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-lidstaten van de Europese Unie, hierna „de lidstaten” genoemd,
-
-enerzijds,
-
-en
-
-het Koninkrijk Thailand, hierna „Thailand” genoemd,
-
-anderzijds,
-
-hierna „de partijen” genoemd,
-
-Gezien de traditionele vriendschapsbanden tussen de partijen en de nauwe historische, politieke en economische banden die hen verenigen;
-
-Gezien het bijzondere belang dat de partijen hechten aan het omvattende karakter van hun wederzijdse betrekkingen;
-
-Bevestigend dat de partijen gehecht zijn aan de democratische beginselen, de rechten van de mens en de fundamentele vrijheden, zoals deze zijn vastgelegd in de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) die op 10 december 1948 is aangenomen door de Algemene Vergadering van de Verenigde Naties (AVVN), en in andere toepasselijke internationale mensenrechteninstrumenten;
-
-Bevestigend dat de partijen gehecht zijn aan de beginselen van de rechtsstaat en goed bestuur en streven naar economische en sociale vooruitgang ten bate van hun bevolking, rekening houdend met de vereisten inzake milieubescherming en de beginselen van duurzame ontwikkeling, alsmede de Agenda 2030 voor duurzame ontwikkeling, aangenomen bij Resolutie nr. 70/1 van de AVVN van 25 september 2015;
-
-Erkennende dat Thailand een ontwikkelingsland is en rekening houdend met de respectieve ontwikkelingsstadia van de partijen;
-
-Erkennende dat de concepten en de doelstellingen inzake non-proliferatie en ontwapening via toepasselijke internationale en regionale instrumenten moeten worden bevorderd om het gevaar van massavernietigingswapens tegen te gaan. Met de bij consensus aangenomen Resolutie 1540 (2004) van de Veiligheidsraad van de Verenigde Naties (VN-Veiligheidsraad) wordt onderstreept dat de gehele internationale gemeenschap zich ertoe verbindt om de verspreiding van dergelijke wapens te bestrijden. De Europese Raad heeft op 12 december 2003 een strategie tegen de verspreiding van massavernietigingswapens goedgekeurd en de Raad van de Europese Unie heeft op 17 november 2003 beleidsmaatregelen van de EU goedgekeurd om non-proliferatiebeleid te integreren in de betrekkingen van de EU met derde landen. Thailand is, als lid van de Associatie van Zuidoost-Aziatische Staten (Asean), een van de initiatiefnemers van en ondertekenende partijen bij het Verdrag inzake een kernwapenvrije zone in Zuidoost-Azië, dat op 15 december 1995 in Bangkok werd ondertekend;
-
-Overwegende dat de partijen de banden tussen ontwapening, wapenbeheersing, vrede en veiligheid en ontwikkeling erkennen, en vaststellen dat nauwere samenwerking tussen de partijen bij de bevordering van de uitvoering van de toepasselijke internationale instrumenten kan leiden tot vooruitgang in de richting van de verwezenlijking van de duurzame-ontwikkelingsdoelstellingen van de VN en een veiligere wereld;
-
-Overwegende dat de partijen terrorisme beschouwen als een bedreiging voor de mondiale veiligheid en hun dialoog en samenwerking bij de bestrijding van terrorisme wensen te intensiveren overeenkomstig de desbetreffende resoluties van de VN-Veiligheidsraad, met name Resolutie 1373 (2001), en opnieuw bevestigend dat eerbiediging van de rechten van de mens van iedereen en de rechtsstaat de grondslag vormen voor de strijd tegen terrorisme;
-
-Opnieuw bevestigend dat de ernstigste misdrijven die de internationale gemeenschap als geheel met zorg vervullen, niet ongestraft mogen blijven en dat de effectieve vervolging ervan moet worden gewaarborgd door maatregelen op nationaal niveau te nemen en de wereldwijde samenwerking te intensiveren;
-
-Opnieuw bevestigend dat zij vastbesloten zijn om ernstige misdrijven die de internationale gemeenschap met zorg vervullen te bestrijden;
-
-Het belang erkennende van de op 7 maart 1980 in Kuala Lumpur ondertekende Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en Indonesië, Maleisië, de Filipijnen, Singapore en Thailand, lidstaten van de Associatie van Zuidoost-Aziatische staten (ASEAN), en van de daaropvolgende toetredingsprotocollen;
-
-Het belang erkennend van versterking van de bestaande betrekkingen tussen de partijen ter stimulering van de onderlinge samenwerking, alsook van hun gemeenschappelijke streven om de betrekkingen op gebieden van wederzijds belang te consolideren, te verdiepen en te diversifiëren, op basis van de eerbiediging van soevereiniteit, gelijkwaardigheid, non-discriminatie, inachtneming van het milieu en wederzijds voordeel;
-
-Erkennend dat de partijen de gemeenschappelijke ambitie delen om hulpbronnenefficiënte, inclusieve, innovatieve, klimaatneutrale en groene economieën tot stand te brengen, en dat de uitwisseling van ervaringen bij de uitvoering van hun binnenlands beleid de resultaten ervan kan verbeteren en de verwezenlijking van de duurzame-ontwikkelingsdoelstellingen van de VN kan versnellen;
-
-Verklarend dat zij zich er volledig toe verbinden duurzame ontwikkeling in al haar dimensies te bevorderen, met inbegrip van milieubescherming en doeltreffende samenwerking voor de bestrijding van de klimaatverandering en de doeltreffende uitvoering van het [Raamverdrag van de Verenigde Naties inzake klimaatverandering](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) (UNFCCC), dat op 9 mei 1992 in Rio de Janeiro is gesloten, en van de [Overeenkomst van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0006603), die op 12 december 2015 is gesloten, alsmede de doeltreffende bevordering en uitvoering van internationaal erkende sociale en arbeidsnormen;
-
-Ervoor zorgend dat in dit opzicht niemand wordt achtergelaten;
-
-Wijzend op het belang van verdieping van de betrekkingen en samenwerking op gebieden zoals migratie;
-
-Bevestigend dat zij ernaar streven om, in volledige overeenstemming met de in regionaal verband ondernomen activiteiten, de onderlinge samenwerking te verdiepen op grond van gemeenschappelijke waarden en tot wederzijds voordeel;
-
-Het belang erkennend dat de partijen hechten aan de beginselen en regels die van toepassing zijn op de internationale handel, met name zoals deze zijn neergelegd in de [Overeenkomst tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) (WTO-Overeenkomst), op 15 april 1994 gesloten te Marrakesh, en de noodzaak deze op transparante en niet-discriminerende wijze toe te passen;
-
-Wijzend op het feit dat, als de partijen in het kader van deze overeenkomst specifieke overeenkomsten besluiten aan te gaan op het gebied van vrijheid, veiligheid en recht, die door de EU zouden worden gesloten op grond van [titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=V) (VWEU), de bepalingen van dergelijke toekomstige specifieke overeenkomsten niet bindend zijn voor Ierland, tenzij de EU, samen met Ierland wat betreft zijn bilaterale betrekkingen, Thailand ervan in kennis heeft gesteld dat Ierland gebonden is door dergelijke toekomstige specifieke overeenkomsten als deel van de EU, overeenkomstig [Protocol nr. 21 betreffende de positie van Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht](onbekend), dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) (VEU) en het [VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht. Evenzo zijn interne maatregelen die de EU krachtens de voornoemde titel vaststelt met het oog op de uitvoering van deze overeenkomst, niet bindend voor Ierland, tenzij Ierland te kennen geeft deel te willen nemen aan deze maatregelen of deze te aanvaarden overeenkomstig Protocol nr. 21.
-
-Tevens vaststellend dat dergelijke toekomstige specifieke overeenkomsten of dergelijke latere interne maatregelen van de EU vallen onder [Protocol nr. 22 betreffende de positie van Denemarken](onbekend) dat aan die verdragen is gehecht;
-
-Zijn het volgende overeengekomen:
-
-## TITEL I. AARD EN TOEPASSINGSGEBIED
+### TITEL I. AARD EN TOEPASSINGSGEBIED
 
 ##### Artikel 1. Algemene beginselen
 
@@ -183,7 +64,7 @@ In het licht van hun gevestigde partnerschap komen de partijen tot overeenstemmi
 
 - b. overeenkomstig hun respectieve internationale verplichtingen, de doeltreffendheid van de nationale exportcontroles te vergroten en de uitvoer en doorvoer van met massavernietigingswapens verband houdende goederen te controleren, met inbegrip van de controle van goederen/technologieën voor tweeërlei gebruik op eindgebruik voor massavernietigingswapens, met doeltreffende middelen voor wettelijke of bestuursrechtelijke handhaving, met inbegrip van effectieve sancties en preventieve maatregelen tegen overtredingen van de exportcontroles, onder meer door samenwerking en capaciteitsopbouw;
 
-- c. de volledige en doeltreffende uitvoering te bevorderen van het [Verdrag inzake de niet-verspreiding van kernwapens](https://wetten.overheid.nl/jci1.3:c:BWBV0004367) (NPV), op 1 juli 1968 ondertekend te Londen, Moskou en Washington, D.C., als hoeksteen van het wereldwijde nucleaire non-proliferatie- en ontwapeningsregime, en een belangrijk element bij de ontwikkeling van toepassingen op het gebied van kernenergie voor vreedzame doeleinden, van het [Verdrag tot verbod van de ontwikkeling, de productie en de aanleg van voorraden van bacteriologische (biologische) en toxinewapens en inzake de vernietiging van deze wapens](https://wetten.overheid.nl/jci1.3:c:BWBV0003925) (BTWC), op 10 april 1972 ondertekend te Londen, Moskou en Washington, D.C., en van het [Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens](https://wetten.overheid.nl/jci1.3:c:BWBV0001193) (CWC), op 13 januari 1993 ondertekend te Parijs en New York.
+- c. de volledige en doeltreffende uitvoering te bevorderen van het [Verdrag inzake de niet-verspreiding van kernwapens](https://wetten.overheid.nl/jci1.3:c:BWBV0004367) (NPV), op 1 juli 1968 ondertekend te Londen, Moskou en Washington, D.C., als hoeksteen van het wereldwijde nucleaire non-proliferatie- en ontwapeningsregime, en een belangrijk element bij de ontwikkeling van toepassingen op het gebied van kernenergie voor vreedzame doeleinden, van het [Verdrag tot verbod van de ontwikkeling, de productie en de aanleg van voorraden van bacteriologische (biologische) en toxinewapens en inzake de vernietiging van deze wapens](https://wetten.overheid.nl/jci1.3:c:BWBV0003925) (BTWC), op 10 april 1972 ondertekend te Londen, Moskou en Washington, D.C., en van het [Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens](https://wetten.overheid.nl/jci1.3:c:BWBV0001193) (CWC), op 13 januari 1993 ondertekend te Parijs en New York.
 
 3. De partijen komen overeen een regelmatige dialoog in te stellen ter begeleiding en consolidatie van de in lid 2, punten a) en c) bedoelde elementen. Deze dialoog kan op regionale basis plaatsvinden.
 
@@ -191,9 +72,9 @@ In het licht van hun gevestigde partnerschap komen de partijen tot overeenstemmi
 
 1. De partijen erkennen dat de illegale productie, overdracht en verspreiding van handvuurwapens en lichte wapens, met inbegrip van munitie daarvoor, alsmede de buitensporige accumulatie, het gebrekkig voorraadbeheer, de ontoereikende veiligheid en de ongecontroleerde verspreiding van handvuurwapens en lichte wapens, die een breed scala aan humanitaire en sociaal-economische gevolgen hebben, een ernstige bedreiging blijven vormen voor de vrede en de internationale veiligheid, alsmede voor de duurzame ontwikkeling op individueel, lokaal, regionaal, nationaal en internationaal niveau.
 
-2. De partijen komen overeen hun respectieve verplichtingen met betrekking tot de aanpak van de illegale handel in handvuurwapens en lichte wapens en munitie daarvoor na te komen en volledig uit te voeren, uit hoofde van de bestaande internationale overeenkomsten en de resoluties van de VN-Veiligheidsraad, evenals hun verbintenissen in het kader van andere internationale instrumenten op dat gebied, zoals het VN-actieprogramma ter voorkoming, bestrijding en uitbanning van de illegale handel in handvuurwapens en lichte wapens in al zijn aspecten, dat de AVVN op 20 juli 2001 heeft aangenomen.
+2. De partijen komen overeen hun respectieve verplichtingen met betrekking tot de aanpak van de illegale handel in handvuurwapens en lichte wapens en munitie daarvoor na te komen en volledig uit te voeren, uit hoofde van de bestaande internationale overeenkomsten en de resoluties van de VN-Veiligheidsraad, evenals hun verbintenissen in het kader van andere internationale instrumenten op dat gebied, zoals het VN-actieprogramma ter voorkoming, bestrijding en uitbanning van de illegale handel in handvuurwapens en lichte wapens in al zijn aspecten, dat de AVVN op 20 juli 2001 heeft aangenomen.
 
-3. De partijen erkennen het belang van binnenlandse controlesystemen voor de overdracht van conventionele wapens overeenkomstig hun internationale verplichtingen en het voorwerp en doel van het [Wapenhandelsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006233), aangenomen bij Resolutie nr. 67/234B van de AVVN van 2 april 2013. De partijen onderkennen dat het van belang is die controles op verantwoorde wijze toe te passen en aldus bij te dragen tot de internationale en regionale vrede, veiligheid en stabiliteit, en tot het verminderen van menselijk leed, en te helpen voorkomen dat conventionele wapens op de illegale markt belanden. De partijen komen overeen hun dialoog en samenwerking op het gebied van uitvoercontroles te versterken.
+3. De partijen erkennen het belang van binnenlandse controlesystemen voor de overdracht van conventionele wapens overeenkomstig hun internationale verplichtingen en het voorwerp en doel van het [Wapenhandelsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006233), aangenomen bij Resolutie nr. 67/234B van de AVVN van 2 april 2013. De partijen onderkennen dat het van belang is die controles op verantwoorde wijze toe te passen en aldus bij te dragen tot de internationale en regionale vrede, veiligheid en stabiliteit, en tot het verminderen van menselijk leed, en te helpen voorkomen dat conventionele wapens op de illegale markt belanden. De partijen komen overeen hun dialoog en samenwerking op het gebied van uitvoercontroles te versterken.
 
 4. De partijen komen overeen hun samenwerking te intensiveren en te streven naar coördinatie, complementariteit en synergie bij hun inspanningen in verband met de preventie en uitroeiing van de illegale handel in handvuurwapens en lichte wapens, en de overdracht van conventionele wapens en de nationale systemen voor in- en uitvoercontrole van conventionele wapens.
 
@@ -203,7 +84,7 @@ De partijen bevestigen andermaal dat de ernstigste misdrijven die de gehele inte
 
 ##### Artikel 6. Samenwerking bij het voorkomen en bestrijden van terrorisme
 
-1. De partijen bevestigen andermaal het belang van de strijd tegen terrorisme, met volledige eerbiediging van de rechtsstaat, het internationaal recht, met name het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), op 26 juni 1945 ondertekend te San Francisco, en de desbetreffende resoluties van de VN-Veiligheidsraad, de wetgeving inzake mensenrechten en het internationale humanitaire recht. Binnen dit kader en overeenkomstig de mondiale strategie voor terrorismebestrijding van de VN, opgenomen in Resolutie nr. 60/288 van de AVVN van 8 september 2006, zoals later herzien, alsmede de gezamenlijke verklaring van de EU en de Asean over samenwerking ter bestrijding van terrorisme van 28 januari 2003, komen de partijen overeen samen te werken aan de preventie en bestrijding van terrorisme in al zijn vormen en manifestaties.
+1. De partijen bevestigen andermaal het belang van de strijd tegen terrorisme, met volledige eerbiediging van de rechtsstaat, het internationaal recht, met name het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), op 26 juni 1945 ondertekend te San Francisco, en de desbetreffende resoluties van de VN-Veiligheidsraad, de wetgeving inzake mensenrechten en het internationale humanitaire recht. Binnen dit kader en overeenkomstig de mondiale strategie voor terrorismebestrijding van de VN, opgenomen in Resolutie nr. 60/288 van de AVVN van 8 september 2006, zoals later herzien, alsmede de gezamenlijke verklaring van de EU en de Asean over samenwerking ter bestrijding van terrorisme van 28 januari 2003, komen de partijen overeen samen te werken aan de preventie en bestrijding van terrorisme in al zijn vormen en manifestaties.
 
 2. De partijen doen dit in het bijzonder:
 
@@ -217,7 +98,7 @@ De partijen bevestigen andermaal dat de ernstigste misdrijven die de gehele inte
 
 - e. door beste praktijken uit te wisselen betreffende de bescherming van de mensenrechten in het kader van de bestrijding van terrorisme.
 
-## TITEL II. BILATERALE, REGIONALE EN INTERNATIONALE SAMENWERKING
+### TITEL II. BILATERALE, REGIONALE EN INTERNATIONALE SAMENWERKING
 
 ##### Artikel 7. Samenwerking in regionale en internationale organisaties
 
@@ -231,7 +112,7 @@ De partijen bevestigen andermaal dat de ernstigste misdrijven die de gehele inte
 
 2. De partijen kunnen eventueel besluiten financiële steun te verlenen voor samenwerkingsactiviteiten op de in deze overeenkomst beschreven of daarmee samenhangende gebieden, overeenkomstig hun respectieve financiële procedures en middelen. Deze samenwerking kan met name de organisatie omvatten van opleidingen, workshops en seminars, uitwisselingen van deskundigen, onderzoeken en andere activiteiten waarover de partijen overeenstemming bereiken.
 
-## TITEL III. SAMENWERKING INZAKE HANDEL EN INVESTERINGEN
+### TITEL III. SAMENWERKING INZAKE HANDEL EN INVESTERINGEN
 
 ##### Artikel 9. Algemene beginselen
 
@@ -241,13 +122,13 @@ De partijen bevestigen andermaal dat de ernstigste misdrijven die de gehele inte
 
 3. De partijen houden elkaar op de hoogte van de ontwikkeling van het handelsbeleid en handelsgerelateerd beleid of andere daarmee verband houdende vraagstukken, zoals het landbouwbeleid, voedselveiligheid, niet-tarifaire maatregelen, het consumentenbeleid en het milieubeleid, met inbegrip van afvalbeheer.
 
-4. De partijen sporen aan tot dialoog en samenwerking om hun handels- en investeringsbetrekkingen te ontwikkelen, waaronder het oplossen van onder meer handelsproblemen op de in de artikelen 10 tot en met 19 van deze overeenkomst bedoelde gebieden.
+4. De partijen sporen aan tot dialoog en samenwerking om hun handels- en investeringsbetrekkingen te ontwikkelen, waaronder het oplossen van onder meer handelsproblemen op de in de [artikelen 10 tot en met 19](https://wetten.overheid.nl/BWBR0011574) van deze overeenkomst bedoelde gebieden.
 
 ##### Artikel 10. Sanitaire en fytosanitaire vraagstukken
 
 1. De partijen werken samen op het gebied van voedselveiligheid en inzake sanitaire en fytosanitaire vraagstukken, ter bescherming van het leven en de gezondheid van mensen, dieren of planten op hun grondgebied.
 
-2. De partijen plegen overleg en wisselen informatie uit over hun respectieve maatregelen, zoals vastgesteld in de [WTO-Overeenkomst inzake sanitaire en fytosanitaire maatregelen](onbekend) die op 1 januari 1995 in werking is getreden met de oprichting van de WTO, en aldus de normen van het [Internationaal Verdrag ter bescherming van planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652) dat op 6 december 1951 te Rome werd ondertekend, de Wereldorganisatie voor diergezondheid en de Codex Alimentarius Commissie omvatten.
+2. De partijen plegen overleg en wisselen informatie uit over hun respectieve maatregelen, zoals vastgesteld in de [WTO-Overeenkomst inzake sanitaire en fytosanitaire maatregelen](https://wetten.overheid.nl/BWBV0001160) die op 1 januari 1995 in werking is getreden met de oprichting van de WTO, en aldus de normen van het [Internationaal Verdrag ter bescherming van planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652) dat op 6 december 1951 te Rome werd ondertekend, de Wereldorganisatie voor diergezondheid en de Codex Alimentarius Commissie omvatten.
 
 3. De partijen komen overeen de samenwerking voor capaciteitsopbouw inzake sanitaire en fytosanitaire aangelegenheden op te voeren. Dergelijke capaciteitsopbouw wordt specifiek op de behoeften van elke partij afgestemd en heeft als doel de betrokken partij te helpen voldoen aan het wettelijke kader van de andere partij.
 
@@ -277,7 +158,7 @@ De partijen bevestigen andermaal dat de ernstigste misdrijven die de gehele inte
 
 ##### Artikel 12. Technische handelsbelemmeringen
 
-1. De partijen stimuleren het gebruik van internationale normen en internationale accreditatieregelingen en zij wisselen informatie uit op het gebied van normen, technische voorschriften en conformiteitsbeoordelingsprocedures, onder meer in het kader van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](onbekend) (TBT), die met de oprichting van de WTO op 1 januari 1995 in werking is getreden.
+1. De partijen stimuleren het gebruik van internationale normen en internationale accreditatieregelingen en zij wisselen informatie uit op het gebied van normen, technische voorschriften en conformiteitsbeoordelingsprocedures, onder meer in het kader van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160) (TBT), die met de oprichting van de WTO op 1 januari 1995 in werking is getreden.
 
 2. De partijen versterken hun samenwerking op het gebied van normen, technische voorschriften en conformiteitsbeoordelingsprocedures, met inbegrip van technische capaciteitsopbouw en samenwerking met het oog op de naleving van TBT-maatregelen.
 
@@ -285,13 +166,13 @@ De partijen bevestigen andermaal dat de ernstigste misdrijven die de gehele inte
 
 ##### Artikel 13. Douanesamenwerking en handelsbevordering
 
-1. De partijen wisselen ervaringen uit en gaan na in hoeverre het mogelijk is invoer-, uitvoer- en andere douaneprocedures te vereenvoudigen, de transparantie van de voorschriften met betrekking tot de handel te vergroten en douanesamenwerking te ontwikkelen, met inbegrip van doeltreffende mechanismen voor wederzijdse administratieve bijstand. De partijen werken samen om de uitvoering van de WTO-Overeenkomst inzake handelsbevordering, die op 22 februari 2017 in werking is getreden, te vergemakkelijken. De partijen zullen bijzondere aandacht besteden aan het vergroten van de veiligheid van de internationale handel, waaronder vervoersdiensten, en aan een juiste balans tussen handelsbevordering, efficiënte controles en de bestrijding van fraude en onregelmatigheden in verband met de douane.
+1. De partijen wisselen ervaringen uit en gaan na in hoeverre het mogelijk is invoer-, uitvoer- en andere douaneprocedures te vereenvoudigen, de transparantie van de voorschriften met betrekking tot de handel te vergroten en douanesamenwerking te ontwikkelen, met inbegrip van doeltreffende mechanismen voor wederzijdse administratieve bijstand. De partijen werken samen om de uitvoering van de WTO-Overeenkomst inzake handelsbevordering, die op 22 februari 2017 in werking is getreden, te vergemakkelijken. De partijen zullen bijzondere aandacht besteden aan het vergroten van de veiligheid van de internationale handel, waaronder vervoersdiensten, en aan een juiste balans tussen handelsbevordering, efficiënte controles en de bestrijding van fraude en onregelmatigheden in verband met de douane.
 
 2. Zonder afbreuk te doen aan andere vormen van samenwerking waarin deze overeenkomst voorziet, verklaren de partijen dat zij bereid zijn om te overwegen in de toekomst binnen het institutionele kader dat bij deze overeenkomst is vastgesteld een protocol te sluiten over douanesamenwerking, met inbegrip van wederzijdse bijstand.
 
 ##### Artikel 14. Antidumping
 
-1. De partijen bevestigen opnieuw hun rechten en verplichtingen uit hoofde van [artikel VI van de Algemene Overeenkomst betreffende tarieven en handel 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=6) (GATT 1994) en de [WTO-Overeenkomst inzake de toepassing van artikel VI van de GATT 1994](onbekend), met name [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=15).
+1. De partijen bevestigen opnieuw hun rechten en verplichtingen uit hoofde van [artikel VI van de Algemene Overeenkomst betreffende tarieven en handel 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=6) (GATT 1994) en de [WTO-Overeenkomst inzake de toepassing van artikel VI van de GATT 1994](https://wetten.overheid.nl/BWBV0001160), met name [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=15).
 
 2. De partijen hechten veel belang aan de samenwerking op het gebied van antidumping.
 
@@ -315,7 +196,7 @@ De partijen gaan een consistente dialoog aan die met name gericht is op het uitw
 
 2. De partijen verlenen elkaar technische bijstand op het gebied van intellectuele-eigendomsrechten en helpen elkaar bij het verbeteren van de bescherming, de handhaving, het gebruik en de commercialisering van intellectuele-eigendomsrechten op basis van de Europese ervaring, en bij de bevordering van de verspreiding van de kennis daarvan.
 
-3. De partijen erkennen het belang van de Verklaring van Doha over de [Overeenkomst inzake de handelsaspecten van de intellectuele eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC) (Trips-Overeenkomst) en de volksgezondheid, die op 14 november 2001 in Doha is aangenomen. De partijen eerbiedigen het Besluit van de Algemene Raad van de WTO van 30 augustus 2003 over punt 6 van de Verklaring van Doha inzake de Trips-Overeenkomst en de volksgezondheid, en het Protocol tot wijziging van de Trips-Overeenkomst, dat op 6 december 2005 in Genève is aangenomen, en dragen bij tot de uitvoering daarvan.
+3. De partijen erkennen het belang van de Verklaring van Doha over de [Overeenkomst inzake de handelsaspecten van de intellectuele eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC) (Trips-Overeenkomst) en de volksgezondheid, die op 14 november 2001 in Doha is aangenomen. De partijen eerbiedigen het Besluit van de Algemene Raad van de WTO van 30 augustus 2003 over punt 6 van de Verklaring van Doha inzake de Trips-Overeenkomst en de volksgezondheid, en het Protocol tot wijziging van de Trips-Overeenkomst, dat op 6 december 2005 in Genève is aangenomen, en dragen bij tot de uitvoering daarvan.
 
 ##### Artikel 19. Digitale handel
 
@@ -331,7 +212,7 @@ De partijen gaan een consistente dialoog aan die met name gericht is op het uitw
 
 2. De partijen erkennen het mondiale karakter van digitale handel en bevestigen het belang van actieve deelname aan multilaterale fora om de ontwikkeling van digitale handel te bevorderen.
 
-## TITEL IV. SAMENWERKING OP HET GEBIED VAN VRIJHEID, VEILIGHEID EN RECHT
+### TITEL IV. SAMENWERKING OP HET GEBIED VAN VRIJHEID, VEILIGHEID EN RECHT
 
 ##### Artikel 20. Rechtsstaat
 
@@ -345,7 +226,7 @@ De partijen gaan een consistente dialoog aan die met name gericht is op het uitw
 
 2. De partijen werken samen om gendergelijkheid te bevorderen, vrouwen en meisjes alle mensenrechten volledig te laten uitoefenen en hun positie te versterken, en zorgen voor de integratie van genderperspectieven in de uitvoering van deze overeenkomst.
 
-3. De partijen wisselen goede praktijken uit en onderzoeken verdere regelingen voor samenwerking en mogelijke synergieën tussen de respectieve gendergerelateerde beleidsmaatregelen en programma’s van de partijen, overeenkomstig de internationale normen en verbintenissen die op de partijen van toepassing zijn, zoals het [Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBV0002909), dat op 18 december 1979 door de AVVN is aangenomen, de Verklaring en het Actieplatform van Peking, die op 15 september 1995 tijdens de vierde Wereldvrouwenconferentie in Peking zijn aangenomen, het Actieprogramma van de Internationale Conferentie over Bevolking en Ontwikkeling en de resultaten van de toetsingsconferenties ervan, de Agenda 2030 voor duurzame ontwikkeling en Resolutie 1325 (2000) van de VN-Veiligheidsraad en de daaropvolgende resoluties over vrouwen, vrede en veiligheid.
+3. De partijen wisselen goede praktijken uit en onderzoeken verdere regelingen voor samenwerking en mogelijke synergieën tussen de respectieve gendergerelateerde beleidsmaatregelen en programma’s van de partijen, overeenkomstig de internationale normen en verbintenissen die op de partijen van toepassing zijn, zoals het [Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBV0002909), dat op 18 december 1979 door de AVVN is aangenomen, de Verklaring en het Actieplatform van Peking, die op 15 september 1995 tijdens de vierde Wereldvrouwenconferentie in Peking zijn aangenomen, het Actieprogramma van de Internationale Conferentie over Bevolking en Ontwikkeling en de resultaten van de toetsingsconferenties ervan, de Agenda 2030 voor duurzame ontwikkeling en Resolutie 1325 (2000) van de VN-Veiligheidsraad en de daaropvolgende resoluties over vrouwen, vrede en veiligheid.
 
 ##### Artikel 22. Bescherming van persoonsgegevens en privacy
 
@@ -377,7 +258,7 @@ De partijen komen overeen regelmatig uitwisselingen te houden om het bieden van 
 
 - c. de regels voor toelating, alsmede de rechten en de status van de personen die overeenkomstig deze regels worden toegelaten, de eerlijke behandeling van legale buitenlandse ingezetenen, onderwijs en opleiding en maatregelen tegen racisme en vreemdelingenhaat;
 
-- d. de opzet van een doelmatige en preventieve aanpak van irreguliere migratie, smokkel van migranten en mensenhandel, overeenkomstig het [Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/jci1.3:c:BWBV0001668) (UNTOC), aangenomen bij Resolutie nr. 55/25 van de AVVN van 15 november 2000 en de protocollen daarbij die voor de partijen in werking zijn getreden, met inbegrip van manieren om netwerken van smokkelaars te bestrijden, criminele organisaties die betrokken zijn bij mensenhandel te ontwrichten en de slachtoffers van deze praktijken te beschermen;
+- d. de opzet van een doelmatige en preventieve aanpak van irreguliere migratie, smokkel van migranten en mensenhandel, overeenkomstig het [Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/jci1.3:c:BWBV0001668) (UNTOC), aangenomen bij Resolutie nr. 55/25 van de AVVN van 15 november 2000 en de protocollen daarbij die voor de partijen in werking zijn getreden, met inbegrip van manieren om netwerken van smokkelaars te bestrijden, criminele organisaties die betrokken zijn bij mensenhandel te ontwrichten en de slachtoffers van deze praktijken te beschermen;
 
 - e. de, bij voorkeur vrijwillige, terugkeer onder veilige, humane en waardige omstandigheden van irregulier verblijvende personen, alsmede de bevordering van hun vrijwillige en duurzame terugkeer, en de overname van deze personen overeenkomstig lid 3 van dit artikel;
 
@@ -393,7 +274,7 @@ De partijen komen overeen regelmatig uitwisselingen te houden om het bieden van 
 
 - c. de lidstaten en Thailand verstrekken de reisdocumenten voor die doeleinden. Indien geen documenten of andere bewijzen van nationaliteit worden overgelegd, verlenen de bevoegde diplomatieke en consulaire vertegenwoordigingen van de betrokken lidstaat of van Thailand, op verzoek van Thailand of de betrokken lidstaat, werken volledig samen om onverwijld het bewijs van nationaliteit vast te stellen.
 
-4. In het kader van het overleg over migratievraagstukken komen de partijen overeen een dialoog over overname op gang te brengen, die op verzoek van een van beide partijen kan leiden tot het sluiten van een overnameovereenkomst, met inbegrip van het gebruik van het reisdocument van de EU, indien de voorwaarden dit toelaten2)[Verordening (EU) 2016/1953](31953R2016) van het Europees Parlement en de Raad van 26 oktober 2016 betreffende de vaststelling van een Europees reisdocument voor de terugkeer van illegaal verblijvende onderdanen van derde landen en tot intrekking van de aanbeveling van de Raad van 30 november 1994 (PB L 311 van 17.11.2016, blz. 13), met inbegrip van de daaropvolgende wijzigingen.. De partijen kunnen ook overwegen een dialoog op te starten over het vergemakkelijken van het verkeer van personen, die op verzoek van een van beide partijen en indien de voorwaarden dit toelaten, kan leiden tot het sluiten van een visumversoepelingsovereenkomst voor burgers van de lidstaten en Thailand.
+4. In het kader van het overleg over migratievraagstukken komen de partijen overeen een dialoog over overname op gang te brengen, die op verzoek van een van beide partijen kan leiden tot het sluiten van een overnameovereenkomst, met inbegrip van het gebruik van het reisdocument van de EU, indien de voorwaarden dit toelaten2)Verordening (EU) 2016/1953 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende de vaststelling van een Europees reisdocument voor de terugkeer van illegaal verblijvende onderdanen van derde landen en tot intrekking van de aanbeveling van de Raad van 30 november 1994 (PB L 311 van 17.11.2016, blz. 13), met inbegrip van de daaropvolgende wijzigingen.. De partijen kunnen ook overwegen een dialoog op te starten over het vergemakkelijken van het verkeer van personen, die op verzoek van een van beide partijen en indien de voorwaarden dit toelaten, kan leiden tot het sluiten van een visumversoepelingsovereenkomst voor burgers van de lidstaten en Thailand.
 
 ##### Artikel 26. Humanitaire samenwerking
 
@@ -401,7 +282,7 @@ De partijen streven naar verdere samenwerking over alle kwesties op het gebied v
 
 ##### Artikel 27. Bestrijding van georganiseerde misdaad en corruptie
 
-De partijen komen overeen samen te werken bij de bestrijding van grensoverschrijdende georganiseerde misdaad, economische en financiële criminaliteit, ernstige criminaliteit3)Zoals gedefinieerd in artikel 2, punt b, UNTOC. en corruptie, en de bestrijding van seksueel misbruik van kinderen. Die samenwerking is meer in het bijzonder gericht op de toepassing en bevordering van de desbetreffende internationale normen en rechtsinstrumenten waarbij de partijen partij zijn, zoals het [UNTOC](https://wetten.overheid.nl/jci1.3:c:BWBV0001668) en de aanvullende protocollen daarbij en het [VN-Verdrag tegen corruptie](https://wetten.overheid.nl/jci1.3:c:BWBV0001830), aangenomen bij Resolutie nr. 58/4 van de AVVN van 31 oktober 2003.
+De partijen komen overeen samen te werken bij de bestrijding van grensoverschrijdende georganiseerde misdaad, economische en financiële criminaliteit, ernstige criminaliteit3)Zoals gedefinieerd in artikel 2, punt b, UNTOC. en corruptie, en de bestrijding van seksueel misbruik van kinderen. Die samenwerking is meer in het bijzonder gericht op de toepassing en bevordering van de desbetreffende internationale normen en rechtsinstrumenten waarbij de partijen partij zijn, zoals het [UNTOC](https://wetten.overheid.nl/jci1.3:c:BWBV0001668) en de aanvullende protocollen daarbij en het [VN-Verdrag tegen corruptie](https://wetten.overheid.nl/jci1.3:c:BWBV0001830), aangenomen bij Resolutie nr. 58/4 van de AVVN van 31 oktober 2003.
 
 ##### Artikel 28. Samenwerking bij het voorkomen en bestrijden van het witwassen van geld en de financiering van terrorisme
 
@@ -419,7 +300,7 @@ De partijen komen overeen samen te werken bij de bestrijding van grensoverschrij
 
 3. De samenwerking op het gebied van het drugsbeleid tussen de partijen omvat onder meer technische en administratieve bijstand, opleiding van personeel, onderzoek in verband met drugs, uitwisseling van informatie en ervaringen over het gebruik van informatietechnologie op het gebied van drugsbestrijding, evenals innovatieve benaderingen van het drugsbeleid, justitiële samenwerking en samenwerking op het gebied van rechtshandhaving, en het voorkomen van het oneigenlijk gebruik van precursoren, met inbegrip van „designer-precursoren”, die worden gebruikt voor de illegale vervaardiging van verdovende middelen, psychotrope stoffen en nieuwe psychoactieve stoffen. De partijen kunnen overeenkomen de samenwerking tot andere terreinen uit te breiden, zoals de uitwisseling van beste praktijken of informatie over preventie, behandeling, rehabilitatie, beperking van de schade en monitoring van drugsverslaving, substitutiemiddelen, evenals aanvullende maatregelen ter versterking van de samenwerking op het gebied van de controle op drugprecursoren, forensische wetenschap, drugsgerelateerd financieel onderzoek en alternatieve ontwikkeling.
 
-## TITEL V. SAMENWERKING IN ANDERE SECTOREN
+### TITEL V. SAMENWERKING IN ANDERE SECTOREN
 
 ##### Artikel 30. Mensenrechten
 
@@ -577,13 +458,13 @@ De partijen faciliteren en ondersteunen de relevante samenwerkingsactiviteiten d
 
 - d. een dialoog inzake zeevervoersdiensten op gebieden van wederzijds belang die met name gericht is op:
 
-- i. het faciliteren van en samenwerken bij het wegnemen van alle belemmeringen die de ontwikkeling van de maritieme handel in de weg kunnen staan en het verbeteren van de voorwaarden waaronder zeevrachtvervoer tussen de havens van de partijen plaatsvindt;
+   - i. het faciliteren van en samenwerken bij het wegnemen van alle belemmeringen die de ontwikkeling van de maritieme handel in de weg kunnen staan en het verbeteren van de voorwaarden waaronder zeevrachtvervoer tussen de havens van de partijen plaatsvindt;
 
-- ii. het verlenen van onbeperkte toegang tot internationale handel en cross-trade op commerciële basis;
+   - ii. het verlenen van onbeperkte toegang tot internationale handel en cross-trade op commerciële basis;
 
-- iii. het verbeteren van het concurrentievermogen van de zeevervoerssector van de partijen; en
+   - iii. het verbeteren van het concurrentievermogen van de zeevervoerssector van de partijen; en
 
-- iv. het verlenen van gelijke behandeling aan vaartuigen die onder de vlag van een lidstaat of van Thailand varen, of die worden geëxploiteerd door onderdanen of ondernemingen van de andere partij vergeleken met de behandeling van de eigen vaartuigen, wat betreft toegang tot de havens, ondersteunende diensten en havendiensten, met inbegrip van de rol van het zeevervoer bij de ontwikkeling van een efficiënte vervoersketen;
+   - iv. het verlenen van gelijke behandeling aan vaartuigen die onder de vlag van een lidstaat of van Thailand varen, of die worden geëxploiteerd door onderdanen of ondernemingen van de andere partij vergeleken met de behandeling van de eigen vaartuigen, wat betreft toegang tot de havens, ondersteunende diensten en havendiensten, met inbegrip van de rol van het zeevervoer bij de ontwikkeling van een efficiënte vervoersketen;
 
 - e. het invoeren van normen voor veiligheid en beveiliging en ter voorkoming van mariene verontreiniging, met name wat het zeevervoer betreft, overeenkomstig de internationale verdragen die op beide partijen van toepassing zijn, met inbegrip van samenwerking binnen de desbetreffende internationale fora met het oog op betere handhaving van de internationale regelgeving.
 
@@ -599,7 +480,7 @@ De partijen faciliteren en ondersteunen de relevante samenwerkingsactiviteiten d
 
 2. De partijen streven ernaar om passende maatregelen te nemen om de bijdrage van onderwijs en cultuur aan opleiding en culturele uitwisselingen inzake duurzame ontwikkeling te bevorderen en gezamenlijke initiatieven op deze gebieden uit te voeren, waaronder de gezamenlijke organisatie van culturele evenementen. In dat verband komen de partijen ook overeen de activiteiten van de stichting Azië-Europa te blijven steunen.
 
-3. De partijen komen overeen nauw samen te werken in desbetreffende internationale fora, zoals de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (Unesco), teneinde het behoud van tastbaar en immaterieel cultureel erfgoed te bevorderen, met name in het kader van de [Overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld](https://wetten.overheid.nl/jci1.3:c:BWBV0003974) die op 16 november 1972 door de Algemene Conferentie van de Unesco is aangenomen, en het [Verdrag inzake de bescherming van het immaterieel cultureel erfgoed](https://wetten.overheid.nl/jci1.3:c:BWBV0005396) dat op 17 oktober 2003 door de Algemene Conferentie van de Unesco is aangenomen, en hechten daarbij belang aan de bevordering van de culturele diversiteit voor de ontwikkeling van de kunsten en de op kennis gebaseerde creatieve economie.
+3. De partijen komen overeen nauw samen te werken in desbetreffende internationale fora, zoals de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (Unesco), teneinde het behoud van tastbaar en immaterieel cultureel erfgoed te bevorderen, met name in het kader van de [Overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld](https://wetten.overheid.nl/jci1.3:c:BWBV0003974) die op 16 november 1972 door de Algemene Conferentie van de Unesco is aangenomen, en het [Verdrag inzake de bescherming van het immaterieel cultureel erfgoed](https://wetten.overheid.nl/jci1.3:c:BWBV0005396) dat op 17 oktober 2003 door de Algemene Conferentie van de Unesco is aangenomen, en hechten daarbij belang aan de bevordering van de culturele diversiteit voor de ontwikkeling van de kunsten en de op kennis gebaseerde creatieve economie.
 
 4. De partijen moedigen voorts maatregelen aan om banden tussen hun respectieve gespecialiseerde instanties tot stand te brengen en de uitwisseling van informatie, knowhow, studenten, academisch personeel en deskundigen aan te moedigen en de banden tussen denktanks verder te bevorderen. Bij hun samenwerking en bij het gebruik van technische middelen wordt gebruikgemaakt van de faciliteiten die de EU-programma’s in Zuidoost-Azië op het gebied van onderwijs en cultuur bieden, alsmede van de ervaringen die beide partijen op dat gebied hebben opgedaan. De partijen komen tevens overeen de samenwerking op het gebied van hoger onderwijs te intensiveren en de uitvoering van het Erasmus+-programma te bevorderen, en om beste praktijken op het gebied van jeugdbeleid en jeugdwerk uit te wisselen.
 
@@ -639,17 +520,17 @@ De partijen faciliteren en ondersteunen de relevante samenwerkingsactiviteiten d
 
 1. De partijen versterken de dialoog en de samenwerking op het gebied van oceaangovernance met het oog op de bevordering van de instandhouding op lange termijn en het duurzame beheer van mariene biologische rijkdommen en mariene ecosystemen.
 
-2. De partijen intensiveren de samenwerking op het gebied van de instandhouding, het beheer en de duurzame exploitatie van mariene biologische rijkdommen zoals omschreven in het [Verdrag van de Verenigde Naties inzake het recht van de zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) (Unclos), aangenomen op 10 december 1982 door de derde Conferentie van de Verenigde Naties over het Zeerecht, en de Gedragscode voor een verantwoorde visserij van de Voedsel- en Landbouworganisatie van de Verenigde Naties (FAO), aangenomen bij Resolutie nr. 4/95 van de FAO-conferentie van 31 oktober 1995. De partijen verbinden zich ertoe samen te werken aan de bevordering van de uitvoering van de doelstellingen van de Overeenkomst van de FAO om de naleving van de internationale instandhoudings- en beheersmaatregelen door vissersvaartuigen op de volle zee te bevorderen, aangenomen te Rome op 24 november 1993, en de [VN-Overeenkomst over de toepassing van de bepalingen van het Verdrag van de Verenigde Naties inzake het recht van de zee van 10 december 1982 die betrekking hebben op de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden](https://wetten.overheid.nl/jci1.3:c:BWBV0001615), aangenomen te New York op 4 augustus 1995.
+2. De partijen intensiveren de samenwerking op het gebied van de instandhouding, het beheer en de duurzame exploitatie van mariene biologische rijkdommen zoals omschreven in het [Verdrag van de Verenigde Naties inzake het recht van de zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) (Unclos), aangenomen op 10 december 1982 door de derde Conferentie van de Verenigde Naties over het Zeerecht, en de Gedragscode voor een verantwoorde visserij van de Voedsel- en Landbouworganisatie van de Verenigde Naties (FAO), aangenomen bij Resolutie nr. 4/95 van de FAO-conferentie van 31 oktober 1995. De partijen verbinden zich ertoe samen te werken aan de bevordering van de uitvoering van de doelstellingen van de Overeenkomst van de FAO om de naleving van de internationale instandhoudings- en beheersmaatregelen door vissersvaartuigen op de volle zee te bevorderen, aangenomen te Rome op 24 november 1993, en de [VN-Overeenkomst over de toepassing van de bepalingen van het Verdrag van de Verenigde Naties inzake het recht van de zee van 10 december 1982 die betrekking hebben op de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden](https://wetten.overheid.nl/jci1.3:c:BWBV0001615), aangenomen te New York op 4 augustus 1995.
 
 3. De partijen komen verder overeen dat zij zullen samenwerken:
 
-- a. aan de bevordering van de uitvoering van de FAO-overeenkomst inzake havenstaatmaatregelen om illegale, ongemelde en ongereglementeerde visserij te voorkomen, tegen te gaan en te beëindigen, aangenomen te Rome op 22 november 2009;
+- a. aan de bevordering van de uitvoering van de FAO-overeenkomst inzake havenstaatmaatregelen om illegale, ongemelde en ongereglementeerde visserij te voorkomen, tegen te gaan en te beëindigen, aangenomen te Rome op 22 november 2009;
 
 - b. met en binnen de regionale organisaties voor visserijbeheer of regelingen waarbij zij lid, waarnemer of samenwerkende niet-verdragsluitende partij zijn, met als doel de instandhouding en het duurzame beheer van mariene biologische rijkdommen en hun ecosystemen te bevorderen;
 
 - c. in de strijd tegen illegale, ongemelde en ongereglementeerde visserij (IOO-visserij) en visserijgerelateerde activiteiten met omvattende, doeltreffende en transparante maatregelen, onder meer door ervaringen te delen, capaciteitsopbouw te bevorderen en informatie over IOO-visserijactiviteiten uit te wisselen, in voorkomend geval rekening houdend met de vertrouwelijkheid van gegevens en hun nationale wetgeving;
 
-- d. aan de bevordering van de fundamentele principes en rechten op het werk in de visserij-, schaal- en schelpdierensector en bij de uitvoering van het IAO-Verdrag betreffende werk in de visserijsector nr. 188, aangenomen te Genève op 30 mei 2007;
+- d. aan de bevordering van de fundamentele principes en rechten op het werk in de visserij-, schaal- en schelpdierensector en bij de uitvoering van het IAO-Verdrag betreffende werk in de visserijsector nr. 188, aangenomen te Genève op 30 mei 2007;
 
 - e. aan de ontwikkeling van duurzame en verantwoorde mariene aquacultuur, met inbegrip van de uitvoering van de doelstellingen en beginselen van de Gedragscode voor een verantwoorde visserij van de FAO;
 
@@ -689,9 +570,9 @@ De partijen faciliteren en ondersteunen de relevante samenwerkingsactiviteiten d
 
 1. De partijen komen overeen de samenwerking op het gebied van werkgelegenheid en sociale zaken te intensiveren, met inbegrip van de samenwerking inzake regionale en sociale cohesie, gezondheid en veiligheid op het werk, gendergelijkheid en gelijke beloning voor werk van gelijke waarde, een leven lang leren en de ontwikkeling van vaardigheden, sociale bescherming en waardig werk, teneinde de sociale dimensie van de mondialisering te versterken.
 
-2. De partijen bevestigen opnieuw dat zij moeten bijdragen aan het mondialiseringsproces, tot voordeel strekkend voor alle betrokkenen, en dat volledige en productieve werkgelegenheid en waardig werk moeten worden gestimuleerd als basisvoorwaarden voor duurzame ontwikkeling en armoedebestrijding, zoals bekrachtigd in de Agenda 2030 voor duurzame ontwikkeling, de IAO-verklaring over sociale gerechtigheid voor een eerlijke mondialisering, aangenomen in Genève op 10 juni 2008, en de eeuwfeestverklaring van de IAO over de toekomst van werk, aangenomen in Genève op 21 juni 2019. De partijen houden rekening met de kenmerken van en verschillen in hun respectieve economische en sociale situatie.
+2. De partijen bevestigen opnieuw dat zij moeten bijdragen aan het mondialiseringsproces, tot voordeel strekkend voor alle betrokkenen, en dat volledige en productieve werkgelegenheid en waardig werk moeten worden gestimuleerd als basisvoorwaarden voor duurzame ontwikkeling en armoedebestrijding, zoals bekrachtigd in de Agenda 2030 voor duurzame ontwikkeling, de IAO-verklaring over sociale gerechtigheid voor een eerlijke mondialisering, aangenomen in Genève op 10 juni 2008, en de eeuwfeestverklaring van de IAO over de toekomst van werk, aangenomen in Genève op 21 juni 2019. De partijen houden rekening met de kenmerken van en verschillen in hun respectieve economische en sociale situatie.
 
-3. De partijen bevestigen hun respectieve verbintenissen om internationaal erkende sociale en arbeidsnormen te bevorderen en doeltreffend toe te passen, en de fundamentele principes en rechten met betrekking tot werk, zoals vastgelegd in de Verklaring van de IAO betreffende de fundamentele principes en rechten op het werk, aangenomen in Genève op 18 juni 1998 en gewijzigd op 10 juni 2022, te eerbiedigen, te bevorderen en te verwezenlijken. De partijen komen overeen samen te werken en technische bijstand te verlenen met het oog op de ratificatie en uitvoering van de fundamentele IAO-verdragen, en om samen te werken aan de bevordering van de ratificatie en uitvoering van andere actuele IAO-verdragen, in voorkomend geval, onder meer wat betreft geweld en pesterijen op de werkvloer.
+3. De partijen bevestigen hun respectieve verbintenissen om internationaal erkende sociale en arbeidsnormen te bevorderen en doeltreffend toe te passen, en de fundamentele principes en rechten met betrekking tot werk, zoals vastgelegd in de Verklaring van de IAO betreffende de fundamentele principes en rechten op het werk, aangenomen in Genève op 18 juni 1998 en gewijzigd op 10 juni 2022, te eerbiedigen, te bevorderen en te verwezenlijken. De partijen komen overeen samen te werken en technische bijstand te verlenen met het oog op de ratificatie en uitvoering van de fundamentele IAO-verdragen, en om samen te werken aan de bevordering van de ratificatie en uitvoering van andere actuele IAO-verdragen, in voorkomend geval, onder meer wat betreft geweld en pesterijen op de werkvloer.
 
 4. De partijen komen overeen de samenwerking tussen de overheid en de sociale partners op het gebied van werkgelegenheid en sociale zaken te bevorderen, en de uitwisseling van informatie over werkgelegenheid, gezondheid en veiligheid op het werk, arbeidsinspecties en sociale dialoog over sociale en arbeidsbescherming te stimuleren.
 
@@ -705,7 +586,7 @@ De partijen komen overeen om overeenkomstig de bestaande statistische samenwerki
 
 De partijen erkennen de rol en de bijdrage van het maatschappelijk middenveld, met name academici, sociale partners, en de banden tussen denktanks en sociale partners, aan de dialoog en het samenwerkingsproces in het kader van deze overeenkomst en zij komen overeen een doeltreffende dialoog met het maatschappelijk middenveld aan te moedigen en te stimuleren, en hun effectieve en constructieve participatie en partnerschappen met meerdere belanghebbenden te bevorderen.
 
-## TITEL VI. VORMEN VAN SAMENWERKING
+### TITEL VI. VORMEN VAN SAMENWERKING
 
 ##### Artikel 50. Middelen voor samenwerking
 
@@ -719,7 +600,7 @@ De partijen erkennen de rol en de bijdrage van het maatschappelijk middenveld, m
 
 2. De partijen komen overeen samen te werken aan gezamenlijke acties die gericht zijn op het verlenen van bijstand voor duurzame ontwikkeling aan buurlanden van Thailand en daarbuiten, in relevante sectoren voor trilaterale samenwerking. De samenwerkingsgebieden moeten worden bepaald door alle betrokken partners, op basis van de behoeften van de begunstigde landen, de capaciteit en de deskundigheid van de EU en Thailand, en moeten op ad-hocbasis worden vastgesteld.
 
-## TITEL VII. INSTITUTIONEEL KADER
+### TITEL VII. INSTITUTIONEEL KADER
 
 ##### Artikel 52. Gemengd Comité
 
@@ -743,7 +624,7 @@ De partijen erkennen de rol en de bijdrage van het maatschappelijk middenveld, m
 
 5. Het Gemengd Comité stelt zijn eigen reglement van orde vast.
 
-## TITEL VIII. SLOTBEPALINGEN
+### TITEL VIII. SLOTBEPALINGEN
 
 ##### Artikel 53. Aanpassingsclausule
 

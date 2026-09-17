@@ -1,658 +1,633 @@
 ---
 title: "Verdrag inzake de overeenkomst van internationaal spoorwegvervoer van goederen"
 identifier: "BWBV0007074"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-11-17"
-last_updated: "2023-11-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007074"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005670213"
-version_id: "10006261952"
-internal_id: "C10010131181"
-label_id: "10005653334"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007074/2023-11-17/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0007074&z=2023-11-17&g=2023-11-17"
-jci_1_0: "1.0:c:BWBV0007074&g=2023-11-17"
-citeertitel_status: "redactioneel"
+laatste_update: 2023-11-17
+status: geldig
+toestand: 2023-11-17
+bron: "https://wetten.overheid.nl/BWBV0007074"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag inzake de overeenkomst van internationaal spoorwegvervoer van goederen
 
-Preambule
+*Preamble The States that are Parties to this Convention, hereinafter referred to as the “Parties”, Conscious of the need to increase the competitiveness of rail transport vis-à- vis other transport modes by facilitating international transport of goods by rail between Europe and Asia, Noting the Convention concerning International Carriage by Rail (COTIF) of 9 May 1980 in the version of the Modification Protocol of 3 June 1999, in particular the Uniform Rules concerning the Contract of International Carriage of Goods by Rail (CIM – Appendix B to the Convention), Noting the Agreement on International Railway Freight Communications (SMGS), Noting the need to make provisions for circumstances where neither CIM nor SMGS rules apply over the entire journey, in particular for Euro-Asian rail freight connections, Considering that in order to facilitate such transport, it is essential to standardize the conditions for governing the contract of international carriage of goods by rail, particularly with respect to the documents used for such a carriage and the carrier’s liability, Conscious of the rapid increase in transport by rail between Europe and Asia and the need to increase the market share of rail transport to reduce the environmental impact of freight transport by easing the administrative and contractual barriers that exist in the sector, Noting that the present Convention will co-exist with the two existing rail legal regimes (CIM and SMGS) which remain applicable for the international carriage of goods within their respective geographical areas, Have agreed as follows:*
 
-De Staten die partij zijn bij dit Verdrag, hierna te noemen de „partijen”,
+### CHAPTER 1. GENERAL PROVISIONS
 
-Zich bewust van de noodzaak om het concurrentievermogen van het spoorwegvervoer ten opzichte van andere vervoerswijzen te vergroten door het internationale spoorwegvervoer van goederen tussen Europa en Azië te vergemakkelijken,
+##### Article 1. Scope of Application
 
-Gelet op het [Verdrag betreffende het internationale spoorwegvervoer (COTIF)](onbekend) van 9 mei 1980 in de versie van het [Protocol van 3 juni 1999 houdende wijziging, met name de Uniforme Regelen betreffende de overeenkomst van internationaal spoorwegvervoer van goederen](onbekend) (CIM – Aanhangsel B bij COTIF),
+1. This Convention shall apply to a contract of carriage of goods by rail:
 
-Gelet op de Overeenkomst betreffende het internationaal spoorwegvervoer van goederen (SMGS),
+- a) When the place of taking over of the goods and the place designated for delivery are situated in two different States which are Parties to this Convention; and
 
-Gelet op de noodzaak om voorzieningen te treffen voor omstandigheden waarin noch de CIM- noch de SMGS-regels van toepassing zijn op het gehele traject, met name voor Euro-Aziatische verbindingen voor spoorwegvervoer van goederen,
+- b) If the contract of carriage stipulates that the contract is subject to this Convention; and
 
-Overwegend dat het, om dergelijk vervoer te vergemakkelijken, van essentieel belang is de voorwaarden die van toepassing zijn op de overeenkomst van internationaal spoorwegvervoer van goederen te standaardiseren, met name wat betreft de documenten die voor een dergelijk vervoer worden gebruikt en de aansprakelijkheid van de vervoerder,
+- c) If none of the following provisions apply to the entire journey covered by the contract of carriage:
 
-Zich bewust van de snelle toename van het spoorwegvervoer tussen Europa en Azië en de noodzaak om het marktaandeel van het spoorwegvervoer te vergroten om de milieueffecten van het goederenvervoer te verminderen door de administratieve en contractuele belemmeringen in de sector te verlichten,
+   - (i) CIM or SMGS;
 
-Vaststellend dat dit Verdrag naast de twee bestaande rechtsstelsels voor spoorwegvervoer (CIM en SMGS) zal bestaan, die van toepassing blijven op het internationale spoorwegvervoer van goederen binnen hun respectieve geografische gebieden,
+   - (ii) Bilateral or multilateral agreements between Parties.
 
-Zijn het volgende overeengekomen:
+2. The contract of carriage may also stipulate that this Convention applies to transport operations carried out by other modes of transport in addition to international rail transport (multimodal transport):
 
-### HOOFDSTUK 1. ALGEMENE BEPALINGEN
+- a) If the application of this Convention does not contradict with any international treaty governing such additional transport; and
 
-##### Artikel 1. Toepassingsgebied
+- b) Unless the Party whose law applies to such multimodal transport contract has declared that it will not apply this Convention to multimodal transport contracts.
 
-1. Dit Verdrag is van toepassing op een overeenkomst van spoorwegvervoer van goederen:
+3. Two or more Parties may conclude agreements which declare this Convention applicable to contracts of carriage of goods by rail between their countries in cases other than those regulated in paragraphs 1 and 2 of this Article.
 
-- a. wanneer de plaats van inontvangstneming van de goederen en de plaats bestemd voor de aflevering gelegen zijn in twee verschillende Staten die partij zijn bij dit Verdrag; en
+##### Article 2. Definitions
 
-- b. indien in de vervoerovereenkomst is bepaald dat dit Verdrag op de overeenkomst van toepassing is; en
+In this Convention:
 
-- c. indien geen van de volgende bepalingen van toepassing is op de gehele reis waarop de vervoerovereenkomst betrekking heeft:
+- a) “Contract of carriage” means a contract under which a carrier undertakes to carry goods against payment and to deliver them to a consignee under the conditions provided by this Convention.
 
-- i. CIM of SMGS;
+- b) “Carrier” means the contractual or a subsequent carrier.
 
-- ii. bilaterale of multilaterale overeenkomsten tussen partijen.
+- c) “Contractual carrier” means the carrier who has concluded the contract of carriage with the consignor.
 
-2. In de vervoerovereenkomst kan tevens worden bepaald dat dit Verdrag van toepassing is op andere vervoerswijzen dan het internationale spoorwegvervoer (multimodaal vervoer):
+- d) “Subsequent carrier” means a carrier who has not concluded the contract of carriage with the consignor but, by the very act of taking over of the goods with the consignment note, becomes a party to the contract of carriage.
 
-- a. indien de toepassing van dit Verdrag niet in strijd is met enig internationaal verdrag inzake dergelijk aanvullend vervoer; en
+- e) “Consignor” means the person who has concluded the contract of carriage with the contractual carrier.
 
-- b. tenzij de partij waarvan het recht van toepassing is op dergelijk multimodaal vervoer heeft verklaard dit Verdrag niet toe te passen op multimodale vervoerovereenkomsten.
+- f) “Parties to the contract” means the carrier and the consignor.
 
-3. Twee of meer partijen kunnen overeenkomsten sluiten waarin dit Verdrag van toepassing wordt verklaard op het spoorwegvervoer van goederen tussen hun landen in gevallen anders dan geregeld in het eerste en tweede lid van dit artikel.
+- g) “Consignee” means the person to whom the carrier has to deliver the goods in accordance with the contract.
 
-##### Artikel 2. Begripsomschrijvingen
+- h) „Person entitled” means the person who has the right to dispose of the goods.
 
-In dit Verdrag wordt verstaan onder:
+- i) “Goods” means the wares, merchandise and articles of every kind whatsoever that a carrier undertakes to carry under a contract of carriage and includes the packing and any equipment and intermodal transport unit not supplied by or on behalf of the carrier. Empty wagons may also be considered as goods by the parties to the contract.
 
-- a. „vervoerovereenkomst” een overeenkomst op grond waarvan een vervoerder zich ertoe verbindt goederen tegen betaling te vervoeren en deze aan een geadresseerde af te leveren onder de in dit Verdrag bepaalde voorwaarden.
+- j) “Consignment” means the totality of goods that is to be carried under a single contract of carriage.
 
-- b. „vervoerder” de contractuele vervoerder of een opvolgende vervoerder.
+- k) “Consignment note” means a document which confirms the conclusion and the content of the contract of carriage.
 
-- c. „contractuele vervoerder” de vervoerder die de vervoerovereenkomst met de afzender heeft gesloten.
+- l) “Electronic consignment note” means a consignment note established in the form of electronic data registration whose authenticity and integrity is assured at all times and which has the same functions as the consignment note.
 
-- d. „opvolgende vervoerder” een vervoerder die de vervoerovereenkomst niet met de afzender heeft gesloten, maar door het enkele feit dat hij de goederen met de vrachtbrief in ontvangst neemt, partij wordt bij de vervoerovereenkomst.
+- m) “Consignment bill” means a negotiable transport document concerning the obligation of the carrier to deliver the goods to the bearer of the consignment bill.
 
-- e. „afzender” de persoon die de vervoerovereenkomst met de contractuele vervoerder heeft gesloten.
+- n) “Electronic consignment bill” means a consignment bill established in the form of electronic data registration whose authenticity and integrity is assured at all times and which has the same functions as the consignment bill.
 
-- f. „partijen bij de overeenkomst” de vervoerder en de afzender.
+- o) “Bearer” means the person or party who is in the possession of a consignment bill.
 
-- g. „geadresseerde” de persoon aan wie de vervoerder de goederen overeenkomstig de overeenkomst dient af te leveren.
+- p) “Costs relating to carriage” means the carriage charges and incidental costs, customs duties and other additional costs which are justified and necessary for the performance of the contract and incurred from the conclusion of the contract until delivery.
 
-- h. „rechthebbende” de persoon die het recht heeft over de goederen te beschikken.
+- q) “Carriage charges” means the contractual remuneration payable to the carrier for the performance of the contract of carriage.
 
-- i. „goederen” de koopwaar, handelswaar en zaken van welke aard dan ook tot het vervoer waarvan een vervoerder zich uit hoofde van een vervoerovereenkomst verbindt, met inbegrip van de verpakking en van de uitrusting en intermodale transporteenheid die niet door of namens de vervoerder ter beschikking worden gesteld. Lege wagons kunnen door de partijen bij de overeenkomst ook als goederen worden beschouwd.
+- r) “Tariffs” means a carrier’s pricing systems, legally in force or determined by the carrier’s costs of services, on the basis of which the carriage charges under the contract of carriage is formed.
 
-- j. „zending” het geheel van goederen dat in het kader van een enkele vervoerovereenkomst dient te worden vervoerd.
+- s) “Dangerous goods” means those substances and articles the carriage of which is prohibited by the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID – Appendix C to the COTIF) or the provisions of Annex 2 to SMGS, or authorized only under the conditions prescribed therein.
 
-- k. „vrachtbrief” een document dat het sluiten en de inhoud van de vervoerovereenkomst bevestigt.
+- t) “Intermodal transport unit” means a container, transportable tank or flat, swap body, semi-trailer or other comparable loading unit used for the transport of goods in intermodal transport.
 
-- l. „digitale vrachtbrief” een vrachtbrief in de vorm van een elektronisch gegevensregistratieformulier waarvan de echtheid en integriteit te allen tijde worden gewaarborgd en die dezelfde functies heeft als de vrachtbrief.
+##### Article 3. Mandatory Law
 
-- m. „cognossement” een verhandelbaar vervoersdocument betreffende de verplichting van de vervoerder om de goederen aan de cognossementhouder af te leveren.
+1. Unless provided otherwise in this Convention, any stipulation in the contract of carriage, which would derogate from this Convention shall be null and void. The nullity of such stipulation shall not involve the nullity of other provisions of the contract of carriage agreed by the parties.
 
-- n. „elektronisch cognossement” een cognossement in de vorm van een elektronisch gegevensregistratieformulier waarvan de echtheid en integriteit te allen tijde worden gewaarborgd en die dezelfde functies heeft als het cognossement.
+2. A carrier may assume a liability greater and obligations more burdensome than those provided for in this Convention. Furthermore, the compensation payable by the consignor pursuant to [Articles 7](https://wetten.overheid.nl/BWBV0007074) and [11](https://wetten.overheid.nl/BWBV0007074) may be limited in amount, but not less than the amount which the carrier is liable for under this Convention for total loss of the goods.
 
-- o. „houder” de persoon of partij die in het bezit is van een cognossement.
+##### Article 4. Provisions of public law
 
-- p. „kosten in verband met het vervoer” de vervoerskosten en incidentele kosten, douanerechten en andere aanvullende kosten die gerechtvaardigd en noodzakelijk zijn voor de uitvoering van de overeenkomst en die ontstaan vanaf het sluiten van de overeenkomst tot en met de aflevering.
+This Convention governs only the rights and obligations of the parties to the contract of carriage arising from such contract. Carriage to which this Convention applies shall remain subject to the provisions of public law, in particular public law provisions regulating:
 
-- q. „vervoerskosten” de contractuele vergoeding die aan de vervoerder verschuldigd is voor het uitvoeren van de vervoerovereenkomst.
+- a) Rights and obligations of employees of parties to the contract;
 
-- r. „tarieven” de prijssystemen van een vervoerder, die wettelijk van kracht zijn of worden bepaald door de kosten van diensten van de vervoerder, op basis waarvan de vervoerskosten in het kader van de vervoerovereenkomst worden gevormd.
+- b) The safe transport of dangerous goods as well as other safety issues;
 
-- s. „gevaarlijke goederen” de stoffen en voorwerpen waarvan het vervoer is verboden door het Reglement betreffende het internationale spoorwegvervoer van gevaarlijke goederen (RID – Aanhangsel C bij COTIF) of de bepalingen van Bijlage 2 bij het SMGS, of die uitsluitend zijn toegestaan onder de daarin voorgeschreven voorwaarden.
+- c) Customs formalities;
 
-- t. „intermodale transporteenheid” een container, verplaatsbare tank of laadplaat, wissellaadbak, oplegger of andere vergelijkbare laadeenheid die wordt gebruikt voor het vervoer van goederen in intermodaal vervoer.
+- d) The protection of animals;
 
-##### Artikel 3. Dwingend recht
+- e) Restrictions and special conditions for the transport of various types of goods;
 
-1. Tenzij in dit Verdrag anders is bepaald, is elke bepaling in de vervoerovereenkomst die zou afwijken van dit Verdrag nietig. De nietigheid van een dergelijke bepaling houdt niet in dat andere bepalingen van de door de partijen overeengekomen vervoerovereenkomst ook nietig zijn.
+- f) Restrictions to use various border crossings, railway infrastructure or railway stations in various countries;
 
-2. Een vervoerder kan een zwaardere aansprakelijkheid en verplichtingen op zich nemen die zwaarder zijn dan die waarin dit Verdrag voorziet. Bovendien kan de door de afzender krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=7&z=2023-11-17&g=2023-11-17) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=11&z=2023-11-17&g=2023-11-17) te betalen vergoeding qua bedrag worden beperkt, maar deze mag niet lager zijn dan het bedrag waarvoor de vervoerder krachtens dit Verdrag aansprakelijk is wanneer de goederen volledig verloren gaan.
+- g) Licensing of railway undertakings to perform rail transport of goods;
 
-##### Artikel 4. Bepalingen van het publiekrecht
+- h) The right of access of a railway undertaking to use the railway infrastructure in various countries; and/or
 
-Dit Verdrag regelt alleen de rechten en verplichtingen van de partijen bij de vervoerovereenkomst die voortvloeien uit een dergelijke overeenkomst. Vervoer waarop dit Verdrag van toepassing is, blijft onderworpen aan de bepalingen van het publiekrecht, met name publiekrechtelijke bepalingen die het volgende regelen:
+- i) The technical admission of railway vehicles/wagons for circulation in international rail traffic.
 
-- a. rechten en verplichtingen van werknemers van de partijen bij de overeenkomst;
+### CHAPTER 2. CONCLUSION AND PERFORMANCE OF THE CONTRACT OF CARRIAGE
 
-- b. het veilige vervoer van gevaarlijke goederen alsmede andere veiligheidskwesties;
+##### Article 5. Contract of carriage
 
-- c. douaneformaliteiten;
+1. Under the contract of carriage the carrier is obliged to carry the goods to the destination and to deliver them to the consignee. Subject to [Article 8](https://wetten.overheid.nl/BWBV0007074) the consignor is obliged to pay the costs relating to carriage.
 
-- d. de bescherming van dieren;
+2. The contract of carriage shall be confirmed by a consignment note. The relevant international associations in the railway sector may together establish a standard model of the consignment note, also taking into account customs matters.
 
-- e. beperkingen en bijzondere voorwaarden voor het vervoer van verschillende soorten goederen;
+For one consignment, only one consignment note shall be made out, even if the totality of goods consists of several parts or is transported in several wagons.
 
-- f. beperkingen van het gebruik van verschillende grensovergangen, spoorweginfrastructuur of treinstations in verschillende landen;
+The absence, irregularity or loss of the consignment note shall not affect the existence or validity of the contract of carriage which shall remain subject to this Convention.
 
-- g. vergunningen aan spoorwegondernemingen om spoorwegvervoer van goederen uit te voeren;
+3. The consignment note shall be signed by the consignor and the contractual carrier. An imprint, a stamp or an accounting machine entry can be used as a signature.
 
-- h. het recht op toegang van een spoorwegonderneming om de spoorweginfrastructuur in verschillende landen te gebruiken; en/of
+The carrier must certify the taking over of the goods on the consignment note in an appropriate manner and return to the consignor the original of the consignment note which is intended for the consignor.
 
-- i. de technische toelating van spoorwegvoertuigen/wagons voor het internationale spoorwegverkeer.
+4. An electronic consignment note may be used provided it is agreed by the parties involved in the contract of carriage.
 
-### HOOFDSTUK 2. SLUITEN EN UITVOEREN VAN EEN VERVOEROVEREENKOMST
+##### Article 6. Content of the consignment note
 
-##### Artikel 5. Vervoerovereenkomst
+1. The consignment note must contain the following particulars:
 
-1. Op grond van de vervoerovereenkomst is de vervoerder verplicht de goederen naar de bestemming te vervoeren en deze aan de geadresseerde af te leveren. Met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=8&z=2023-11-17&g=2023-11-17) is de afzender verplicht de kosten in verband met het vervoer te betalen.
+- a) The date and the place at which it is made out;
 
-2. De vervoerovereenkomst wordt bevestigd door middel van een vrachtbrief. De relevante internationale samenwerkingsverbanden in de spoorwegsector kunnen samen een standaardmodel van een vrachtbrief opstellen, daarbij ook rekening houdend met douaneaangelegenheden.
+- b) The name and address of the consignor;
 
-Voor één zending wordt slechts één vrachtbrief opgesteld, zelfs indien het geheel van goederen uit meerdere delen bestaat of in meerdere wagons wordt vervoerd.
+- c) The name and address of the contractual carrier;
 
-Het ontbreken, de onregelmatigheid of het verlies van de vrachtbrief doet geen afbreuk aan het bestaan of de geldigheid van de vervoerovereenkomst, waarop dit Verdrag van toepassing blijft.
+- d) The name and address of the person to whom the goods have effectively been handed over if he is not the contractual carrier;
 
-3. De vrachtbrief wordt ondertekend door de verzender en de contractuele vervoerder. Een afdruk, stempel of aanduiding van een boekhoudmachine kan als handtekening worden gebruikt.
+- e) The place and the date of taking over of the goods;
 
-De vervoerder dient de inontvangstneming van de goederen op de vrachtbrief op passende wijze te certificeren en het voor de afzender bestemde origineel van de vrachtbrief aan de afzender terug te zenden.
+- f) The place designated for delivery;
 
-4. Een elektronische vrachtbrief kan worden gebruikt op voorwaarde dat de bij de vervoerovereenkomst betrokken partijen hiermee akkoord gaan.
+- g) The name and address of the consignee;
 
-##### Artikel 6. Inhoud van de vrachtbrief
+- h) The description of the nature of the goods and the method of packing, and, in case of dangerous goods, their generally recognized description;
 
-1. De vrachtbrief dient de volgende gegevens te bevatten:
+- i) The number of packages and their special marks and numbers;
 
-- a. de datum en de plaats van het opmaken ervan;
+- j) The wagon numbers identifying the wagons in which the consignment is carried;
 
-- b. de naam en het adres van de afzender;
+- k) The number of the railway vehicle running on its own wheels (empty wagon), if it is handed over for carriage as goods;
 
-- c. de naam en het adres van de contractuele vervoerder;
+- l) In case of using an intermodal transport unit, its category, number or other characteristics necessary for its identification;
 
-- d. de naam en het adres van de persoon aan wie de goederen daadwerkelijk werden afgegeven indien hij niet de contractuele vervoerder is;
+- m) The gross mass or the quantity of the goods expressed in other ways;
 
-- e. de plaats en de datum waarop de goederen in ontvangst werden genomen;
+- n) A detailed list of the documents which are required by customs or other administrative authorities and are attached to the consignment note or held at the disposal of the carrier at the offices of a duly designated authority or a body designated in the contract;
 
-- f. de plaats van de aflevering;
+- o) The carriage charges and other costs relating to carriage insofar as they have to be paid by the consignee.
 
-- g. de naam en het adres van de geadresseerde;
+2. Where applicable the consignment note must also contain the following particulars:
 
-- h. de omschrijving van de aard van de goederen en de verpakkingswijze, en, in het geval van gevaarlijke goederen, de algemeen erkende omschrijving ervan;
+- a) Carriage charges and other costs relating to carriage which the consignor undertakes to pay;
 
-- i. het aantal colli en de bijzondere merktekens en nummers ervan;
+- b) The agreed time of delivery;
 
-- j. de wagonnummers ter identificatie van de wagons waarin de zending wordt vervoerd;
+- c) The agreed route to follow;
 
-- k. het nummer van het op eigen wielen rollende spoorvoertuig (lege wagon), indien het als te vervoeren goed wordt aangeboden;
+- d) A list of the documents not mentioned in paragraph 1 of this Article, point (n), handed over to the carrier;
 
-- l. bij intermodale transporteenheden, de categorie ervan, het nummer of de voor hun identificatie vereiste andere kenmerken;
+- e) The information given by the consignor concerning the number and description of seals he has affixed to the wagon;
 
-- m. de brutomassa of de op andere wijze uitgedrukte hoeveelheid goederen;
+- f) Additional information on specific requirements relating to the handling of the goods including dangerous goods.
 
-- n. een gedetailleerde lijst van de documenten die door de douane of andere administratieve autoriteiten worden verlangd en die aan de vrachtbrief zijn gehecht of ter beschikking van de vervoerder worden gehouden bij een naar behoren aangewezen autoriteit of een in de overeenkomst aangewezen instantie;
+3. The parties to the contract may enter on the consignment note other particulars relating to carriage they consider useful.
 
-- o. de vervoerskosten en andere kosten betrekking hebbend op het vervoer, voor zover deze door de geadresseerde dienen te worden betaald.
+##### Article 7. Responsibility of the consignor
 
-2. In voorkomend geval dient de vrachtbrief tevens de volgende gegevens te bevatten:
+1. The consignor shall be liable for all costs, loss or damage sustained by the carrier by reason of:
 
-- a. vervoerskosten en andere kosten in verband met het vervoer die de afzender voor zijn rekening neemt;
+- a) The entries made by or on behalf of the consignor in the consignment note or other documents referred to in [Article 12](https://wetten.overheid.nl/BWBV0007074) being incorrect, insufficient, inaccurate or inconsistent with the facts; or
 
-- b. de overeengekomen afleveringstermijn;
+- b) The consignor omitting to provide the necessary information on the generally recognized description of the dangerous goods.
 
-- c. het overeengekomen vervoertraject;
+2. The consignor shall, to the extent he is at fault, also be liable for all costs, loss or damage sustained by the carrier by reason of the consignor omitting to provide necessary information on specific requirements relating to the handling of the goods.
 
-- d. een lijst van niet in het eerste lid, onderdeel n, van dit artikel genoemde documenten die aan de vervoerder zijn overhandigd;
+3. If the consignor has failed to disclose the dangerous nature of the goods or specific requirements relating to the handling of the goods, the carrier may at any time unload or destroy the goods or render them innocuous, as the circumstances and the potential risk may require. In this case the carrier may claim the costs or expenses necessitated by the measures taken and shall not be obliged to pay compensation for loss of or damage to the goods.
 
-- e. de door de afzender verstrekte informatie van het aantal en de beschrijving van de door hem op de wagon aangebrachte verzegelingen;
+4. The carrier may not claim costs or expenses and shall be obliged to pay compensation for loss of or damage to the goods if he was aware of the incorrectness or incompleteness of the consignment note or the documents referred in [Article 12](https://wetten.overheid.nl/BWBV0007074) or of the dangerous nature of the goods or the specific requirements related to the handling of the goods on taking them over.
 
-- f. aanvullende informatie over specifieke eisen met betrekking tot de behandeling van de goederen, met inbegrip van gevaarlijke goederen.
+##### Article 8. Payment of the costs relating to carriage
 
-3. De partijen bij de overeenkomst kunnen op de vrachtbrief andere gegevens met betrekking tot het vervoer vermelden die zij nuttig achten.
+1. Unless otherwise agreed between the consignor and the carrier, the carriage charges shall be paid by the consignor; other costs relating to carriage shall be paid by the consignor when they are caused by circumstances beyond the carrier’s control. Unless otherwise agreed the carrier has the right to demand the carriage charges before the beginning of the carriage.
 
-##### Artikel 7. Verantwoordelijkheid van de afzender
+2. When by virtue of an agreement between the consignor and the carrier, the costs relating to carriage are payable by the consignee, the consignor shall remain liable for payment of the costs, if the consignee has not taken possession of the consignment note nor has taken delivery nor asserted his rights in accordance with [Article 14, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0007074) nor exercised rights in accordance with [Article 15](https://wetten.overheid.nl/BWBV0007074).
 
-1. De afzender is aansprakelijk voor alle kosten, verliezen of schade die de vervoerder heeft geleden ten gevolge van:
+3. If the carriage charges are calculated based on tariffs, the calculation shall be based on the tariffs which are valid on the day of the conclusion of the contract of carriage, and in the currency defined according to the applied tariffs for the international carriage. Carriage charges are calculated separately by each participating carrier with regard to his section of the route and according to his pricing systems and tariffs.
 
-- a. het onjuist, onvolledig, onnauwkeurig of onverenigbaar met de feiten zijn van de door of namens de afzender aangebrachte aanduidingen in de vrachtbrief of andere in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=12&z=2023-11-17&g=2023-11-17) bedoelde documenten; of
+4. The carrier has to be reimbursed of all costs relating to carriage which are not foreseen in the applied tariffs and were caused by circumstances beyond the carrier’s control. These costs are registered on the date of their occurrence separately for each consignment and are justified by the relevant documents.
 
-- b. het verzuimen door de afzender om de nodige informatie te verstrekken over de algemeen erkende omschrijving van de gevaarlijke goederen.
+##### Article 9. Examination
 
-2. De afzender is, voor zover hij in gebreke is, tevens aansprakelijk voor alle kosten, verliezen of schade die de vervoerder heeft geleden doordat de afzender niet de nodige informatie heeft verstrekt over specifieke eisen met betrekking tot de behandeling van de goederen.
+1. The carrier shall have the right to examine whether the conditions of carriage have been complied with and whether the consignment corresponds with the entries in the consignment note made by the consignor. If the examination concerns the contents of the consignment, this shall be carried out as far as possible in the presence of the person entitled; where this is not possible, the carrier shall require the presence of two independent witnesses, unless the laws and prescriptions of the State where the examination takes place provide otherwise.
 
-3. Indien de afzender heeft verzuimd de gevaarlijke aard van de goederen of de specifieke eisen met betrekking tot de behandeling van de goederen te vermelden, kan de vervoerder de goederen te allen tijde lossen of vernietigen of onschadelijk maken, naargelang de omstandigheden en het potentiële risico. In dit geval kan de vervoerder aanspraak maken op de kosten of uitgaven die noodzakelijk zijn door de genomen maatregelen en is hij niet gehouden tot vergoeding van verlies of schade aan de goederen.
+2. If the consignment does not correspond with the entries in the consignment note or if the provisions of public law have not been complied with, the result of the examination must be entered in the consignment note. In this case the costs of the examination shall be charged against the goods, if they have not been paid immediately.
 
-4. De vervoerder kan geen aanspraak maken op kosten of uitgaven en is gehouden tot schadevergoeding voor verlies van of schade aan de goederen indien hij op de hoogte was van de onjuistheid of onvolledigheid van de vrachtbrief of van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=12&z=2023-11-17&g=2023-11-17) bedoelde documenten of van de gevaarlijke aard van de goederen of van de specifieke eisen met betrekking tot de behandeling van de goederen bij de inontvangstneming ervan.
+3. When the consignor loads the goods, he shall be entitled to require the carrier to examine the condition of the goods and their packaging as well as the accuracy of statements on the consignment note as to the number of packages, their marks and numbers as well as the gross mass of the goods or their quantity otherwise expressed. The carrier shall be obliged to proceed with the examination only if he has appropriate means of carrying it out. The carrier may demand the payment of the costs of the examination. The result of the examination shall be entered on the consignment note.
 
-##### Artikel 8. Betaling van de kosten in verband met het vervoer
+##### Article 10. Evidential value of the consignment note
 
-1. Tenzij anders overeengekomen tussen de afzender en de vervoerder, worden de vervoerskosten door de afzender betaald; andere kosten in verband met het vervoer worden door de afzender betaald wanneer deze worden veroorzaakt door omstandigheden buiten de macht van de vervoerder. Tenzij anders overeengekomen, heeft de vervoerder het recht om de vervoerskosten vóór het begin van het vervoer te verlangen.
+1. The consignment note, signed according to [Article 5, paragraph 3](https://wetten.overheid.nl/BWBV0007074) shall be prima facie evidence, save proof to the contrary, of the conclusion and the conditions of the contract of carriage and the taking over of the goods by the carrier.
 
-2. Wanneer uit hoofde van een overeenkomst tussen de afzender en de vervoerder de kosten in verband met het vervoer door de geadresseerde worden betaald, blijft de afzender aansprakelijk voor de betaling van de kosten, indien de geadresseerde de vrachtbrief niet in bezit heeft genomen, noch in ontvangst heeft genomen, noch zijn rechten overeenkomstig [artikel 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=14&z=2023-11-17&g=2023-11-17), heeft doen gelden, noch rechten overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=15&z=2023-11-17&g=2023-11-17) heeft uitgeoefend.
+2. If the consignment note, signed according to [Article 5, paragraph 3](https://wetten.overheid.nl/BWBV0007074), contains no specific reservations by the carrier, it is assumed, save proof to the contrary, that the goods and their packaging have apparently been in a good and appropriate condition to be transported at the moment they were taken over by the carrier.
 
-3. Indien de vervoerskosten worden berekend op basis van tarieven, wordt de berekening gebaseerd op de tarieven die geldig zijn op de dag van het sluiten van de vervoerovereenkomst en in de valuta die is vastgesteld volgens de toegepaste tarieven voor het internationale vervoer. De vervoerskosten worden door elke deelnemende vervoerder afzonderlijk berekend met betrekking tot zijn gedeelte van de route en volgens zijn prijssystemen en tarieven.
+3. If the carrier has loaded the goods or has examined them, the consignment note shall be prima facie evidence, save proof to the contrary, of the condition of the goods and their packaging indicated on the consignment note or, in the absence of such indications, of their apparently good and appropriate condition at the moment they were taken over by the carrier and of the accuracy of the statements in the consignment note concerning the number of packages, their marks and numbers as well as the gross mass of the goods or their quantity otherwise expressed.
 
-4. De vervoerder dient een vergoeding te ontvangen voor alle kosten in verband met het vervoer die niet in de toegepaste tarieven zijn voorzien en die zijn veroorzaakt door omstandigheden die buiten de macht van de vervoerder liggen. Deze kosten worden voor elke zending afzonderlijk geregistreerd op de datum van het ontstaan ervan en worden gestaafd door de desbetreffende documenten.
+However, the consignment note will not be prima facie evidence in a case where it bears a reasoned reservation.
 
-##### Artikel 9. Onderzoek
+##### Article 11. Packing, Loading
 
-1. De vervoerder heeft het recht te onderzoeken of de vervoersvoorwaarden vervuld zijn en of de zending overeenstemt met de door de afzender op de vrachtbrief vermelde gegevens. Wanneer het onderzoek betrekking heeft op de inhoud van de zending, wordt dit zoveel mogelijk uitgevoerd in aanwezigheid van de rechthebbende; indien dit niet mogelijk is, verlangt de vervoerder de aanwezigheid van twee onafhankelijke getuigen, tenzij de wetten en voorschriften van de Staat waar het onderzoek plaatsvindt anders bepalen.
+1. The consignor shall be liable to the carrier for any loss or damage and costs due to defective packing or labelling of the goods or defective marking, unless the defect was apparent or known to the carrier at the time when he took over the goods and he made no reservations concerning it.
 
-2. Indien de zending niet overeenstemt met de aanduidingen in de vrachtbrief of indien de bepalingen van het publiekrecht niet zijn nageleefd, dient het resultaat van het onderzoek in de vrachtbrief te worden vermeld. In dit geval komen de kosten van het onderzoek ten laste van de goederen, indien deze niet onmiddellijk zijn betaald.
+2. The consignor shall be liable for all the consequences of defective loading carried out by him and in particular has to compensate the carrier for the loss or damage sustained in consequence by him, unless the defect was apparent or known to the carrier at the time when he took over the goods and he made no reservations concerning it. Should the consignment note contain no information on the person who has loaded the goods, it is presumed that the goods have been loaded by the consignor.
 
-3. Wanneer de afzender zorg draagt voor de belading van de goederen, kan hij eisen dat de vervoerder de staat van de goederen en van hun verpakking onderzoekt, alsook de juistheid van de op de vrachtbrief vermelde aanduidingen over het aantal colli, hun merktekens en nummers alsmede de brutomassa van de goederen of de op andere wijze uitgedrukte hoeveelheid. De vervoerder is daartoe alleen verplicht indien hij over passende middelen beschikt om het onderzoek uit te voeren. De vervoerder kan de kosten van het onderzoek terugvorderen. Het resultaat van het onderzoek wordt op de vrachtbrief vermeld.
+3. In the case of apparent or known defective packing, labelling or loading of the goods the carrier may accept the goods for carriage under specific contractual conditions.
 
-##### Artikel 10. Bewijskracht van de vrachtbrief
+##### Article 12. Completion of administrative formalities
 
-1. De overeenkomstig [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=5&z=2023-11-17&g=2023-11-17), ondertekende vrachtbrief levert volledig bewijs, behoudens tegenbewijs, van het sluiten en de voorwaarden van de vervoerovereenkomst en de inontvangstneming van de goederen door de vervoerder.
+1. For the purposes of the customs or other formalities which have to be completed before delivery of the goods, the consignor shall attach the necessary documents to the consignment note or make them available to the carrier and shall furnish him in advance by electronic communication or otherwise with all the information which he requires.
 
-2. Indien de overeenkomstig [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=5&z=2023-11-17&g=2023-11-17), ondertekende vrachtbrief geen specifieke voorbehouden van de vervoerder bevat, wordt ervan uitgegaan, behoudens tegenbewijs, dat de goederen en de verpakking ervan zich kennelijk in een goede en geschikte staat bevonden om te worden vervoerd op het moment dat zij door de vervoerder in ontvangst werden genomen.
+2. The carrier shall not be obliged to check whether these documents and this information are correct and sufficient. The consignor shall be liable to the carrier for any damage caused by the absence or insufficiency of, or any irregularity in, such documents and information except in the case the damage was caused by fault of the carrier.
 
-3. Indien de vervoerder de goederen heeft geladen of heeft onderzocht, levert de vrachtbrief, behoudens tegenbewijs, volledig bewijs van de staat van de goederen en de verpakking ervan die op de vrachtbrief is vermeld, of, bij gebreke van dergelijke aanduidingen, van hun ogenschijnlijk goede en geschikte staat op het moment dat zij door de vervoerder in ontvangst zijn genomen, en van de juistheid van de aanduidingen in de vrachtbrief betreffende het aantal colli, hun merktekens en nummers, alsmede de brutomassa van de goederen of de anderszins uitgedrukte hoeveelheid.
+3. The carrier shall be liable for any damage caused by the loss or incorrect use of the documents which were made available to him unless the loss or incorrect use of the documents has been caused by circumstances which a diligent carrier could not avoid and the consequences of which he was unable to prevent. The compensation payable by the carrier shall not exceed the compensation provided for in the event of loss of the goods.
 
-De vrachtbrief levert evenwel niet volledig bewijs in het geval dat deze een met redenen omkleed voorbehoud bevat.
+##### Article 13. Time of delivery
 
-##### Artikel 11. Laden en lossen
+1. The carrier shall deliver the goods within the time agreed in the contract of carriage. If no time of delivery has been agreed, delivery shall be made within the time which could reasonably be required of a diligent carrier, taking into account the circumstances of the carriage.
 
-1. De afzender is jegens de vervoerder aansprakelijk voor verlies of schade en kosten als gevolg van gebrekkige verpakking of etikettering van de goederen of gebrekkige merktekens, tenzij het gebrek zichtbaar of bekend was bij de vervoerder op het moment dat hij de goederen in ontvangst nam en hij er geen voorbehouden bij maakte.
+2. The time of delivery shall be extended for the duration of any delay along the route for reasons beyond the control of the carrier.
 
-2. De afzender is aansprakelijk voor alle gevolgen van een gebrekkige belading die hij heeft uitgevoerd en dient in het bijzonder de vervoerder te vergoeden voor het verlies of de schade die hij daardoor heeft geleden, tenzij het gebrek zichtbaar of bekend was bij de vervoerder op het moment dat hij de goederen in ontvangst nam en hij er geen voorbehouden bij maakte. Indien de vrachtbrief geen informatie bevat over de persoon die de goederen heeft geladen, wordt aangenomen dat de goederen door de afzender zijn geladen.
+##### Article 14. Delivery
 
-3. In geval van zichtbare of bekende gebrekkige verpakking, etikettering of lading van de goederen kan de vervoerder de goederen onder specifieke contractuele voorwaarden aanvaarden voor vervoer.
+1. At the place designated for delivery the carrier shall hand over the consignment note and deliver the goods to the consignee against a receipt and payment of all amounts due according to the contract of carriage.
 
-##### Artikel 12. Vervullen van administratieve formaliteiten
+2. If a loss of the goods is established or if the goods are damaged or delivered late, the consignee shall be entitled to enforce in his own name against the carrier any rights or remedies arising from the contract of carriage.
 
-1. Met het oog op douane- of andere formaliteiten die vóór de aflevering van de goederen moeten worden vervuld, voegt de afzender de nodige documenten bij de vrachtbrief of stelt hij deze ter beschikking van de vervoerder en verstrekt hij hem vooraf via elektronische communicatie of anderszins alle informatie die hij nodig heeft.
+3. In other respects, delivery of the goods shall be carried out in accordance with the requirements in force at the place of destination.
 
-2. De vervoerder is niet verplicht na te gaan of deze documenten en deze informatie juist en volledig zijn. De afzender is jegens de vervoerder aansprakelijk voor elke schade veroorzaakt door het ontbreken, de onvolledigheid van of enige onregelmatigheid in dergelijke documenten en informatie, behalve in het geval dat de schade is veroorzaakt door schuld van de vervoerder.
+4. This Convention does not affect a right of the carrier that may exist pursuant to the contract of carriage or the applicable law to retain the goods to secure the payment of sums due.
 
-3. De vervoerder is aansprakelijk voor elke schade veroorzaakt door het verlies of het onjuiste gebruik van de documenten die hem ter beschikking zijn gesteld, tenzij het verlies of het onjuiste gebruik van de documenten is veroorzaakt door omstandigheden die een zorgvuldige vervoerder niet kon vermijden en waarvan hij de gevolgen niet kon voorkomen. De door de vervoerder te betalen schadevergoeding mag niet hoger zijn dan de schadevergoeding die is voorzien in het geval van verlies van de goederen.
+##### Article 15. Right to dispose of the goods
 
-##### Artikel 13. Afleveringstermijnen
+1. The consignor has the right to dispose of the goods and to modify the contract of carriage by giving subsequent orders, in particular by asking the carrier to stop the goods in transit or not to deliver them or to give them back at the place of taking over of the goods or to change the place designated for delivery or to deliver them to a consignee other than the consignee indicated in the consignment note.
 
-1. De vervoerder levert de goederen af binnen de in de vervoerovereenkomst overeengekomen termijn. Indien geen afleveringstermijn is overeengekomen, geschiedt de aflevering binnen de termijn die redelijkerwijs van een zorgvuldige vervoerder kan worden verlangd, rekening houdend met de omstandigheden van het vervoer.
+2. The consignor’s right of disposal shall pass over to the consignee at the time specified by the consignor in the consignment note. Unless the consignor has specified otherwise, the right of disposal shall pass over to the consignee when the goods have reached the place designated for delivery.
 
-2. De afleveringstermijn wordt verlengd met de duur van elke vertraging langs de route om redenen buiten de macht van de vervoerder.
+3. If in exercising his right of disposal the consignee has ordered the delivery of the goods to another person, this other person shall not be entitled to name other consignees.
 
-##### Artikel 14. Aflevering
+4. Any right of disposal shall be extinguished when the consignee or another person named by the consignee has taken possession of the consignment note from the carrier and has accepted the goods or has asked for delivery of the goods.
 
-1. Op de plaats bestemd voor de aflevering overhandigt de vervoerder de vrachtbrief en levert hij de goederen af aan de geadresseerde tegen een ontvangstbewijs en betaling van alle volgens de vervoerovereenkomst verschuldigde bedragen.
+##### Article 16. Exercise of the right to dispose of the goods
 
-2. Indien het verlies van de goederen wordt vastgesteld of indien de goederen beschadigd of te laat zijn afgeleverd, is de geadresseerde gerechtigd om in eigen naam de uit de vervoerovereenkomst voortvloeiende rechten of rechtsmiddelen jegens de vervoerder te doen gelden.
+1. If the person entitled wishes to dispose of the goods, he has to give the necessary instructions to the carrier. If the consignment note so prescribes, the person entitled has to produce to the carrier his original of the consignment note on which the new instructions have to be entered.
 
-3. Overigens wordt de aflevering van de goederen uitgevoerd overeenkomstig de voorschriften die gelden op de plaats van bestemming.
+2. The carrier may refuse to carry out instructions, if this would be impossible, unlawful or unreasonable to require. Instructions must in particular neither interfere with the normal working of the carrier’s undertaking nor prejudice the consignors or consignees of other consignments. No instruction shall have the effect of splitting the consignment.
 
-4. Dit Verdrag doet geen afbreuk aan een retentierecht op de goederen dat door de vervoerder uit hoofde van de vervoerovereenkomst of de toepasselijke wetgeving kan worden uitgeoefend tot zekerheid van de betaling van de verschuldigde bedragen.
+3. When, by reason of the provisions of paragraphs 1 and 2 of this Article, the carrier will not carry out instructions which he receives, he shall immediately notify the person who gave him such instructions.
 
-##### Artikel 15. Recht over de goederen te beschikken
+4. A carrier who has not carried out properly the instructions given under the provisions of this Article shall be liable to the person who has the right to bring an action against the carrier for any loss or damage caused thereby, if the carrier is at fault. If in the case mentioned in paragraph 1 of this Article, sentence 2, the carrier carries out instructions without requiring the original of the consignment note to be produced, he shall be liable to the person who has the right to bring an action against the carrier for any loss or damage caused thereby. Any compensation payable shall not exceed the amount payable in the event of loss of the goods.
 
-1. De afzender heeft het recht over de goederen te beschikken en de vervoerovereenkomst te wijzigen door het geven van nadere opdrachten, met name door de vervoerder te verzoeken de goederen niet verder te vervoeren of niet af te leveren of terug te geven op de plaats van inontvangstneming van de goederen of de plaats bestemd voor de aflevering te wijzigen of deze af te leveren aan een andere geadresseerde dan de in de vrachtbrief vermelde geadresseerde.
+5. The carrier has the right to demand payment for the additional costs of carriage and the expenses arising from the diligent carrying out of the given instructions.
 
-2. Het beschikkingsrecht van de afzender gaat op het door de afzender in de vrachtbrief vermelde tijdstip over op de geadresseerde. Tenzij de afzender anders heeft aangegeven, gaat het beschikkingsrecht over op de geadresseerde wanneer de goederen de plaats bestemd voor de aflevering hebben bereikt.
+##### Article 17. Circumstances preventing carriage and delivery
 
-3. Indien de geadresseerde bij de uitoefening van zijn beschikkingsrecht opdracht heeft gegeven tot aflevering van de goederen aan een andere persoon, heeft deze andere persoon niet het recht andere geadresseerden te noemen.
+1. If it becomes evident, after the goods have been taken over by the carrier, that carriage or delivery cannot be performed according to the contract, the carrier shall ask for instructions from the person entitled or, where circumstances prevent delivery, from the consignor. In derogation from sentence 1, the carrier shall ask for instructions from the consignee if it becomes evident, after the goods have reached the country of destination, that the carriage cannot be performed according to the contract of carriage.
 
-4. Elk beschikkingsrecht vervalt wanneer de geadresseerde of een andere door de geadresseerde aangewezen persoon de vrachtbrief van de vervoerder in bezit heeft genomen en de goederen heeft aanvaard of om aflevering van de goederen heeft verzocht.
+2. If the consignee has given the instruction to deliver the goods to another person, paragraph 1 of this Article shall apply as if the consignee were the consignor and the other person were the consignee.
 
-##### Artikel 16. Uitoefening van het beschikkingsrecht
+3. If circumstances preventing carriage can be avoided by modifying the route, the carrier shall decide whether a modification shall be made or whether it is in the interest of the person entitled to ask him for instructions.
 
-1. Indien de rechthebbende over de goederen wil beschikken, dient hij de nodige instructies aan de vervoerder te geven. Indien dit in de vrachtbrief wordt voorgeschreven, dient de rechthebbende aan de vervoerder zijn origineel van de vrachtbrief te overleggen waarop de nieuwe instructies dienen te worden aangebracht.
+4. If circumstances preventing delivery cease to exist before arrival of instructions from the consignor to the carrier, the goods shall be delivered to the consignee. The consignor shall be notified without delay.
 
-2. De vervoerder kan weigeren instructies uit te voeren, indien dit onmogelijk, onrechtmatig of onredelijk zou zijn om te eisen. De instructies mogen met name geen afbreuk doen aan het normale functioneren van de onderneming van de vervoerder en mogen evenmin afbreuk doen aan de afzenders of geadresseerden van andere zendingen. Geen instructie mag tot gevolg hebben dat de zending wordt gesplitst.
+##### Article 18. Consequences of circumstances preventing carriage and delivery
 
-3. Wanneer de vervoerder op grond van het bepaalde in het eerste en tweede lid van dit artikel de door hem ontvangen instructies niet zal uitvoeren, stelt hij de persoon die deze instructies heeft gegeven daarvan onmiddellijk in kennis.
+1. The carrier is entitled to the reimbursement of the costs caused by his request for instructions or the carrying out of instructions or as a result of a decision in accordance with [Article 17, paragraph 3](https://wetten.overheid.nl/BWBV0007074), unless such costs were caused by his fault.
 
-4. Een vervoerder die de uit hoofde van het bepaalde in dit artikel gegeven instructies niet naar behoren heeft uitgevoerd, is aansprakelijk jegens de persoon die gerechtigd is een vordering tegen de vervoerder in te stellen wegens verlies of schade die daardoor is veroorzaakt, indien de vervoerder schuld heeft. Indien de vervoerder in het geval bedoeld in de tweede zin van het eerste lid van dit artikel, instructies uitvoert zonder te vereisen dat het origineel van de vrachtbrief wordt overgelegd, is hij aansprakelijk jegens de persoon die het recht heeft een vordering in te stellen tegen de vervoerder wegens verlies of schade die daardoor is veroorzaakt. De te betalen schadevergoeding mag niet hoger zijn dan het bedrag dat verschuldigd is in geval van verlies van de goederen.
+The carrier may in particular recover the carriage charge applicable to the route followed and shall be allowed the time of delivery applicable to such route.
 
-5. De vervoerder heeft het recht om betaling te eisen van de aanvullende vervoerskosten en de kosten die voortvloeien uit de zorgvuldige uitvoering van de gegeven instructies.
+2. If the carrier cannot, within a reasonable time taking into account the different conditions of the goods, obtain lawful and reasonable instructions, he shall take such measures as seem to be in the best interest of the person entitled. He may, for example, return the goods to the consignor at the consignor’s expense or unload them for account of the person entitled. Thereupon the carriage shall be deemed to be at an end. The carrier shall then hold the goods on behalf of the person entitled. He may, however, entrust them to a third party, and in that case he shall not be under any liability except for the exercise of reasonable care in the choice of such third party. In these cases, the charges due under the contract of carriage and all other costs relating to carriage shall remain chargeable against the goods.
 
-##### Artikel 17. Omstandigheden die vervoer en aflevering belemmeren
+3. The carrier may sell the goods, without awaiting instructions from the person entitled, if this is justified by the perishable nature or the condition of the goods or if the costs of storage would be out of proportion to the value of the goods. He may also proceed to the sale of the goods in other cases if within a set time he has not received from the person entitled instructions to the contrary which he may reasonably be required to carry out; in such a case the carrier may destroy unusable goods at the consignor’s expense. All measures have to be taken in compliance with the legislation in force.
 
-1. Indien na de inontvangstneming van de goederen door de vervoerder blijkt dat het vervoer of de aflevering niet volgens de overeenkomst kan worden uitgevoerd, vraagt de vervoerder instructies aan de rechthebbende of, indien de omstandigheden de aflevering verhinderen, aan de afzender. In afwijking van de eerste zin vraagt de vervoerder de geadresseerde om instructies indien, nadat de goederen het land van bestemming hebben bereikt, blijkt dat het vervoer niet volgens de vervoerovereenkomst kan worden uitgevoerd.
+4. If the goods have been sold, the proceeds of sale, after deduction of the costs chargeable against the goods, shall be placed at the disposal of the person entitled. If the proceeds of sale are less than those costs, the carrier shall be entitled to the difference.
 
-2. Indien de geadresseerde de instructie heeft gegeven de goederen aan een andere persoon te leveren, is het eerste lid van dit artikel van toepassing als ware de geadresseerde de afzender en de andere persoon de geadresseerde.
+### CHAPTER 3. LIABILITY
 
-3. Indien omstandigheden die het vervoer verhinderen kunnen worden vermeden door wijziging van de route, beslist de vervoerder of een wijziging moet worden aangebracht of dat het in het belang is van de persoon die gerechtigd is hem om instructies te vragen.
+##### Article 19. Basis of liability
 
-4. Indien omstandigheden die de aflevering verhinderen ophouden te bestaan vóór het binnenkomen van de instructies van de afzender aan de vervoerder, worden de goederen afgeleverd aan de geadresseerde. De afzender wordt onverwijld in kennis gesteld.
+1. The contractual carrier shall be liable for loss or damage resulting from the total or partial loss of or damage to the goods between the time of taking over of the goods and the time of delivery, as well as for delay in delivery.
 
-##### Artikel 18. Gevolgen van omstandigheden die vervoer en aflevering belemmeren
+2. If carriage governed by a single contract is performed by subsequent carriers, the liability of the contractual carrier and all subsequent carriers shall be joint and several.
 
-1. De vervoerder heeft recht op vergoeding van de kosten die voortvloeien uit zijn verzoek om instructies of de uitvoering van instructies of als gevolg van een besluit overeenkomstig [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=17&z=2023-11-17&g=2023-11-17), tenzij deze kosten door zijn schuld zijn veroorzaakt. De vervoerder kan met name de vervoerskosten die van toepassing zijn op de gevolgde route terugvorderen en hij mag de afleveringstermijn hanteren die op die route van toepassing is.
+3. The carrier shall be relieved of this liability to the extent that the loss or damage or the delay in delivery was caused by the fault of the person entitled if the instruction is not the result of the fault of the carrier or by an inherent defect of the goods or by circumstances which the carrier could not avoid and the consequences of which he was unable to prevent.
 
-2. Indien de vervoerder niet binnen een redelijke termijn, rekening houdend met de verschillende omstandigheden van de goederen, wettige en redelijke instructies kan krijgen, neemt hij de maatregelen die in het belang van de rechthebbende lijken te zijn. Hij kan de goederen bijvoorbeeld aan de afzender terugzenden voor rekening van de afzender of lossen voor rekening van de rechthebbende. Daarop wordt het vervoer geacht te zijn beëindigd. De vervoerder neemt de bewaring van de goederen dan op zich namens de rechthebbende. Hij kan de goederen evenwel aan een derde toevertrouwen en hij is in dat geval slechts aansprakelijk voor een oordeelkundige keuze van die derde. In deze gevallen blijven de goederen belast met de volgens de vervoerovereenkomst verschuldigde bedragen en alle andere kosten in verband met het vervoer.
+4. The carrier shall be relieved of this liability to the extent that the loss or damage or the delay in delivery arises from the special risks inherent from one of the following circumstances:
 
-3. De vervoerder kan zonder instructies van de rechthebbende af te wachten tot verkoop van de goederen overgaan, wanneer de bederfelijke aard of de staat van de goederen dit rechtvaardigt of wanneer de kosten van bewaring onevenredig hoog zijn in verhouding tot de waarde van de goederen. In andere gevallen kan hij eveneens tot verkoop van de goederen overgaan, wanneer hij niet binnen een redelijke termijn van de rechthebbende andersluidende instructies heeft ontvangen, waarvan de uitvoering redelijkerwijs kan worden gevorderd; in dat geval kan de vervoerder onbruikbare goederen voor rekening van de afzender vernietigen. Alle maatregelen dienen te worden genomen in overeenstemming met de geldende wetgeving.
+- a) Carriage in open wagons pursuant to the General Conditions of Carriage or the established practice; subject to damage sustained by the goods because of atmospheric influences, goods carried in intermodal transport units, or in closed road vehicles carried on wagons shall not be considered as being carried in open wagons;
 
-4. Indien de goederen zijn verkocht, wordt de opbrengst van de verkoop, na aftrek van de kosten waarmee de goederen zijn belast, ter beschikking gesteld van de rechthebbende. Indien deze kosten de opbrengst van de verkoop te boven gaan, heeft de vervoerder recht op het verschil.
+- b) Absence or inadequacy of packaging in the case of goods which by their nature are liable to loss or damage when not packed or when not packed properly;
 
-### HOOFDSTUK 3. AANSPRAKELIJKHEID
+- c) Loading of the goods by the consignor or unloading by the consignee;
 
-##### Artikel 19. Aansprakelijkheidsgronden
+- d) The nature of certain goods which particularly exposes them to total or partial loss or damage, especially through breakage, rust, interior and spontaneous decay, desiccation or wastage;
 
-1. De contractuele vervoerder is aansprakelijk voor verlies of schade als gevolg van het geheel of gedeeltelijk verlies van of schade aan de goederen vanaf het moment van inontvangstneming van de goederen tot de aflevering, alsmede voor vertraging in de aflevering.
+- e) Irregular, incorrect or incomplete description or numbering of packages.
 
-2. Indien het vervoer dat onder één enkele overeenkomst valt, wordt uitgevoerd door latere vervoerders, is de aansprakelijkheid van de contractuele vervoerder en alle daaropvolgende vervoerders hoofdelijk.
+5. When the carrier establishes that, having regard to the circumstances of the particular case, the loss or damage or delay in delivery could have arisen from one of the special risks referred to in paragraph 4 of this Article, it shall be presumed that it did so arise. The person who has the right to bring an action against the carrier shall have the right to prove that the loss or damage or delay in delivery was not attributed either wholly or in part to one of those risks.
 
-3. De vervoerder is ontheven van deze aansprakelijkheid voor zover het verlies of de schade of de vertraging in de aflevering werd veroorzaakt door de schuld van de rechthebbende indien de instructie niet het gevolg is van de schuld van de vervoerder of door een inherent gebrek aan de goederen of door omstandigheden die de vervoerder niet heeft kunnen vermijden en waarvan hij de gevolgen niet heeft kunnen verhinderen.
+##### Article 20. Presumption of loss of the goods
 
-4. De vervoerder is van deze aansprakelijkheid ontheven voor zover het verlies of de schade of de vertraging in de aflevering voortvloeit uit de bijzondere risico’s die inherent zijn aan een van de volgende omstandigheden:
+1. The person who has the right to bring an action against the carrier may, without being required to furnish further proof, consider the goods as lost when they have not been delivered or arrived for delivery to the consignee within three months after the time of delivery.
 
-- a. vervoer in open wagons overeenkomstig de Algemene Vervoersvoorwaarden of de gevestigde praktijk; onder voorbehoud van schade die de goederen hebben geleden als gevolg van atmosferische invloeden, worden goederen die worden vervoerd in intermodale transporteenheden of in gesloten wegvoertuigen die op wagons worden vervoerd, niet geacht te zijn vervoerd in open wagons;
+2. That person may, on receipt of compensation for the missing goods, request in writing that he shall be notified immediately should the goods be recovered within one year after the payment of compensation. The carrier shall acknowledge such request in writing.
 
-- b. het ontbreken of de gebrekkigheid van de verpakking in het geval van goederen die door hun aard onderhevig zijn aan verliezen of beschadigingen, wanneer ze niet of gebrekkig zijn verpakt;
+3. Within thirty days after receipt of such notification, the person who has the right to bring an action against the carrier may require the goods to be delivered to him against payment of the charges due under the contract of carriage, all other costs relating to carriage and against a refund of the compensation received less, where appropriate, costs which may have been included therein. He shall retain his rights to claim compensation for delay in delivery provided for in [Article 25](https://wetten.overheid.nl/BWBV0007074).
 
-- c. het laden van de goederen door de afzender of het lossen door de geadresseerde;
+4. In the absence of the request referred to in paragraph 2 of this Article or of instructions given within the period specified in paragraph 3 of this Article, or if the goods are recovered more than one year after the payment of compensation, the carrier shall be entitled to deal with them in accordance with the laws and prescriptions in force at the place where the goods are situated.
 
-- d. de aard van bepaalde goederen die deze in het bijzonder blootstellen aan geheel of gedeeltelijk verlies of schade, met name door breuk, roest, inwendig en spontaan bederf, uitdroging of kwaliteitsverlies;
+5. Any obligation of the consignee to accept the recovered goods shall be subject to the laws applicable at the place designated for delivery.
 
-- e. de onnauwkeurige, onjuiste of onvolledige aanduiding of nummering van de colli.
+##### Article 21. Compensation for loss
 
-5. Wanneer de vervoerder bewijst dat het verlies of de beschadiging of de vertraging in de aflevering, gelet op de omstandigheden van het specifieke geval, kan zijn ontstaan uit een of meer van de in het vierde lid van dit artikel genoemde bijzondere risico's, wordt vermoed dat het verlies of de beschadiging of de vertraging in de aflevering daardoor is veroorzaakt. De persoon die het recht heeft om een vordering tegen de vervoerder in te stellen, heeft evenwel het recht aan te tonen dat het verlies of de beschadiging of de vertraging in de aflevering niet geheel of gedeeltelijk door een van deze risico’s is veroorzaakt.
+1. In case of total or partial loss of the goods, the carrier shall compensate the value of the goods on the day and at the place where they were taken over for carriage. If part of the goods has been delivered, its value which remains to the person entitled shall be deducted from the amount of compensation.
 
-##### Artikel 20. Vermoeden van verlies van de goederen
+2. The value of the goods shall be fixed according to the market price at the place where they were taken over for carriage or, if there is no market price, according to the usual value of goods of the same kind and quality. If the goods have been sold just before being taken over for carriage the purchase price noted in the seller’s invoice, minus carriage charges included therein, shall be presumed to be the market price.
 
-1. De persoon die het recht heeft om een vordering tegen de vervoerder in te stellen, kan, zonder nader bewijs te hoeven leveren, de goederen als verloren beschouwen wanneer zij niet zijn afgeleverd of voor aflevering aan de geadresseerde zijn aangekomen binnen drie maanden na de afleveringstermijn.
+3. Unless otherwise agreed by the parties to the contract pursuant to [Article 3 paragraph 2](https://wetten.overheid.nl/BWBV0007074), compensation shall not exceed 17 units of account per kilogram of gross weight short.
 
-2. Deze persoon kan, na ontvangst van de schadevergoeding voor de ontbrekende goederen, schriftelijk verzoeken hem onmiddellijk in kennis te stellen indien de goederen binnen een jaar na de betaling van de schadevergoeding worden teruggevonden. De vervoerder bevestigt dit verzoek schriftelijk.
+4. The carrier shall, in addition, refund the carriage charge, customs duties already paid and other costs relating to carriage. If part of the goods has been delivered, paragraph 1 of this Article, sentence 2, shall apply by analogy.
 
-3. Binnen dertig dagen na ontvangst van deze kennisgeving kan de persoon die het recht heeft om een vordering tegen de vervoerder in te stellen, verlangen dat de goederen aan hem worden geleverd tegen betaling van de kosten die verschuldigd zijn uit hoofde van de vervoerovereenkomst, alle andere kosten in verband met het vervoer en tegen terugbetaling van de ontvangen schadevergoeding minus, wanneer van toepassing, kosten die eventueel daarin zijn opgenomen. Hij behoudt zijn recht op schadevergoeding wegens vertraging in de aflevering als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=3&artikel=25&z=2023-11-17&g=2023-11-17).
+5. In case of loss of an intermodal transport unit or its removable parts, the compensation shall be limited to the usual value of the unit or its removable parts on the day and at the place of loss. If it is impossible to ascertain the day or the place of loss, the compensation shall be limited to the usual value on the day and at the place where the unit has been taken over by the carrier. The same shall apply in case of loss of an empty wagon which is to be carried as goods under the contract of carriage.
 
-4. Bij gebreke van het in het tweede lid van dit artikel bedoelde verzoek of van instructies die zijn gegeven binnen de in het derde lid van dit artikel genoemde termijn, of indien de goederen meer dan een jaar na de betaling van de schadevergoeding worden teruggevonden, heeft de vervoerder het recht deze te behandelen overeenkomstig de wetten en voorschriften die van kracht zijn op de plaats waar de goederen zich bevinden.
+6. The carrier shall not be liable for loss or damage resulting from loss of accessories which are not mentioned on both sides of the vehicle (empty wagon) or in the inventory which accompanies it.
 
-5. Elke verplichting van de geadresseerde om de teruggevonden goederen te aanvaarden, is onderworpen aan de wetten die van toepassing zijn op de plaats bestemd voor de aflevering.
+7. No further damages shall be payable.
 
-##### Artikel 21. Schadevergoeding voor verlies
+##### Article 22. Unit of account
 
-1. In geval van geheel of gedeeltelijk verlies van de goederen vergoedt de vervoerder de waarde van de goederen op de dag en de plaats waar zij voor vervoer in ontvangst zijn genomen. Indien een deel van de goederen is geleverd, wordt de waarde die voor de rechthebbende overblijft, in mindering gebracht op het bedrag van de schadevergoeding.
+1. The unit of account referred to in [Article 21](https://wetten.overheid.nl/BWBV0007074) is the Special Drawing Right as defined in accordance with the instructions of the International Monetary Fund. The amount referred to in Article 21 is to be converted into the national currency of a State according to the value of such currency at the date of judgement or award or the date agreed upon by the parties to the contract. Where the calculation of an amount requires the conversion of sums expressed in foreign currency, conversion shall be at the exchange rate applicable on the day and at the place of payment.
 
-2. De waarde van de goederen wordt vastgesteld op basis van de marktprijs op de plaats waar zij voor vervoer in ontvangst zijn genomen of, indien er geen marktprijs is, volgens de gebruikelijke waarde van goederen van dezelfde soort en kwaliteit. Indien de goederen zijn verkocht vlak voordat zij voor vervoer in ontvangst zijn genomen, wordt de op de factuur van de verkoper vermelde koopprijs, verminderd met de daarin opgenomen vervoerskosten, geacht de marktprijs te zijn.
+2. The value of a national currency, in terms of the Special Drawing Right, of a Party to this Convention that is a member of the International Monetary Fund is to be calculated in accordance with the method of valuation applied by the International Monetary Fund in effect at the date in question for its operations and transactions. The value of a national currency, in terms of the Special Drawing Right, of a Party to this Convention that is not a member of the International Monetary Fund is to be calculated in a manner to be determined by that Party.
 
-3. Tenzij anders overeengekomen door de partijen bij de overeenkomst overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=1&artikel=3&z=2023-11-17&g=2023-11-17), bedraagt de schadevergoeding niet meer dan 17 rekeneenheden per ontbrekend kilogram brutomassa.
+##### Article 23. Liability for wastage during carriage
 
-4. De vervoerder betaalt daarnaast de vervoersheffing, de reeds betaalde douanerechten en andere kosten in verband met het vervoer terug. Indien een deel van de goederen is geleverd, is de tweede zin van het eerste lid van dit artikel, van overeenkomstige toepassing.
+1. Subject to [Article 19](https://wetten.overheid.nl/BWBV0007074), in respect of goods which, by reason of their nature, are generally subject to wastage by the sole fact of carriage, the carrier shall only be liable to the extent that the wastage exceeds the following allowances, whatever the length of the route:
 
-5. In geval van verlies van een intermodale transporteenheid of de verwijderbare delen daarvan, wordt de schadevergoeding beperkt tot de gebruikelijke waarde van de eenheid of de verwijderbare delen daarvan op de dag en op de plaats van verlies. Indien het onmogelijk is de dag of de plaats van verlies vast te stellen, wordt de vergoeding beperkt tot de gebruikelijke waarde op de dag en op de plaats waar de eenheid door de vervoerder in ontvangst is genomen. Hetzelfde geldt in geval van verlies van een lege wagon die in het kader van de vervoerovereenkomst als goederen wordt vervoerd.
+- a) Two per cent of the mass for liquid goods or goods consigned in a moist condition;
 
-6. De vervoerder is niet aansprakelijk voor verlies of schade als gevolg van verlies van accessoires die niet op beide zijden van het voertuig (lege wagon) of in de bijbehorende inventaris zijn vermeld.
+- b) One per cent of the mass for dry goods.
 
-7. Er is geen verdere schadevergoeding verschuldigd.
+2. The limitation of liability provided for in paragraph 1 of this Article may not be invoked if, having regard to the circumstances of a particular case, it is proved that the loss was not due to causes which would justify the allowance.
 
-##### Artikel 22. Rekeneenheid
+3. Where several packages are carried under a single consignment note, the wastage during carriage shall be calculated separately for each package if its mass on consignment is shown separately on the consignment note or can be ascertained otherwise.
 
-1. De rekeneenheid bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=3&artikel=21&z=2023-11-17&g=2023-11-17) is het Bijzondere Trekkingsrecht zoals omschreven in overeenstemming met de instructies van het Internationale Monetaire Fonds. Het in artikel 21 bedoelde bedrag wordt omgerekend in de nationale munteenheid van een Staat overeenkomstig de waarde van de desbetreffende munteenheid op de datum van de uitspraak of op de door de partijen bij de overeenkomst afgesproken datum. Indien voor de berekening van een bedrag de omrekening van in vreemde valuta uitgedrukte bedragen vereist is, geschiedt de omrekening tegen de wisselkoers die geldt op de dag en op de plaats van betaling.
+4. In case of total loss of goods or in case of loss of a package no deduction for wastage during carriage shall be made in calculating the compensation.
 
-2. De waarde van een nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een partij bij dit Verdrag die lid is van het Internationale Monetaire Fonds, wordt berekend overeenkomstig de waarderingsmethode die door het Internationale Monetaire Fonds op de desbetreffende datum wordt gehanteerd voor zijn eigen verrichtingen en transacties. De waarde van de nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een partij bij dit Verdrag die geen lid is van het Internationale Monetaire Fonds, wordt berekend op een door die partij vastgestelde wijze.
+##### Article 24. Compensation for damage
 
-##### Artikel 23. Aansprakelijkheid voor verspilling tijdens het vervoer
+1. In case of damage to goods, the carrier shall compensate the loss in value of the goods. The amount shall be calculated on the basis of expertise or by applying to the value of the goods defined in accordance with [Article 21, paragraph 2](https://wetten.overheid.nl/BWBV0007074) whereas the percentage of loss in value shall be noted at the place of destination. It is presumed that the costs of lowering and repairing the damage correspond to the loss in value.
 
-1. Onverminderd het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=3&artikel=19&z=2023-11-17&g=2023-11-17) ten aanzien van goederen die, ingevolge hun aard, in het algemeen een gewichtsverlies ondergaan tijdens het vervoer, is de vervoerder, ongeacht de lengte van het afgelegde traject, slechts aansprakelijk voor het gedeelte van het verlies dat meer bedraagt dan:
+2. The carrier shall, in addition, refund the costs provided for in [Article 21, paragraph 4](https://wetten.overheid.nl/BWBV0007074), in the proportion set out in paragraph 1 of this Article.
 
-- a. twee procent van de massa voor vloeibare goederen of in vochtige toestand aangeboden goederen;
+3. The compensation shall not exceed:
 
-- b. één procent van de massa voor droge goederen.
+- a) The amount payable in the case of total loss, if the whole consignment has lost value through damage;
 
-2. Op de in het eerste lid van dit artikel bedoelde beperking van de aansprakelijkheid kan geen beroep worden gedaan, indien wordt bewezen dat het verlies, gelet op de omstandigheden van het specifieke geval, geen gevolg is van oorzaken die de afwijking zouden rechtvaardigen.
+- b) The amount payable in the case of loss of the part affected, if only part of the consignment has lost value through damage.
 
-3. In het geval dat meer colli met één enkele vrachtbrief zijn vervoerd, wordt het gewichtsverlies tijdens het vervoer voor iedere collo afzonderlijk berekend, wanneer de massa ervan afzonderlijk op de vrachtbrief is vermeld of op andere wijze kan worden vastgesteld.
+4. In case of damage to an empty wagon which is to be carried as goods under the contract of carriage or to an intermodal transport unit or their removable parts, the compensation shall be limited to the cost of repair. Paragraph 3 of this Article shall apply by analogy.
 
-4. In geval van geheel verlies van goederen of in geval van verlies van één collo vindt voor de berekening van de schadevergoeding geen aftrek plaats wegens gewichtsverlies tijdens het vervoer.
+5. No further damages shall be payable.
 
-##### Artikel 24. Schadevergoeding
+##### Article 25. Compensation for delay in delivery
 
-1. In geval van schade aan goederen vergoedt de vervoerder de waardevermindering van de goederen. Het bedrag wordt berekend op basis van deskundigheid of door toepassing van de waarde van de overeenkomstig [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=3&artikel=21&z=2023-11-17&g=2023-11-17), omschreven goederen, terwijl het percentage van de waardevermindering op de plaats van bestemming wordt genoteerd. Aangenomen wordt dat de kosten van het verlagen en repareren van de schade overeenkomen met de vermindering van de waarde.
+1. If it is proved that any damage has resulted from delay in delivery, the carrier shall pay compensation not exceeding half of the carriage charges.
 
-2. De vervoerder vergoedt daarnaast de in [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=3&artikel=21&z=2023-11-17&g=2023-11-17), voorziene kosten in de verhouding zoals bepaald in het eerste lid van dit artikel.
+2. Insofar as the goods are lost or have lost value as a result of partial loss or damage, compensation for delay shall not be paid.
 
-3. De schadevergoeding bedraagt niet meer dan:
+3. In no case the compensation for delay together with that for partial loss of or damage to goods shall exceed the compensation which would be payable in case of total loss of the goods.
 
-- a. indien de gehele zending door de schade in waarde is verminderd, het in geval van geheel verlies te betalen bedrag;
+4. If the time of delivery has been established by agreement, other forms of compensation than those provided for in paragraph 1 of this Article may be so agreed. If, in this case, not only the agreed time of the delivery is exceeded but also the time which could reasonably be required from the diligent carrier as provided for in [Article 13](https://wetten.overheid.nl/BWBV0007074) is exceeded too, the person who has the right to bring an action against the carrier may claim either the compensation provided for in the agreement or that provided for in this Article.
 
-- b. indien slechts een gedeelte van de zending door de schade in waarde is verminderd, het te betalen bedrag in geval van verlies van het in waarde verminderde gedeelte.
+##### Article 26. Persons for whom the carrier is liable
 
-4. In geval van beschadiging van een lege wagon die als te vervoeren goederen voor vervoer is aangeboden of van beschadiging van een intermodale transporteenheid of van de verwijderbare delen daarvan wordt de schadevergoeding beperkt tot de herstelkosten. Het derde lid van dit artikel is van overeenkomstige toepassing.
+The carrier shall be liable for his servants and other persons whose services he makes use of for the performance of the carriage, when these servants and other persons are acting within the scope of their functions. The undertakings or bodies operating the railway infrastructure on which the carriage is performed shall be considered as persons whose services the carrier makes use of for the performance of the carriage. The carrier’s right of recourse is preserved.
 
-5. Er is geen verdere schadevergoeding verschuldigd.
+##### Article 27. Other actions
 
-##### Artikel 25. Schadevergoeding bij vertraging in de aflevering
+1. In all cases where this Convention shall apply, any action in respect of liability, on whatever grounds, may be brought against the carrier only subject to the conditions and limitations laid down in this Convention.
 
-1. Indien wordt bewezen dat de schade het gevolg is van vertraging in de aflevering, dan betaalt de vervoerder een schadevergoeding die niet meer mag bedragen dan de helft van de vervoerskosten.
+2. If an action is brought against the servants or other persons for whom the carrier is liable pursuant to [Article 26](https://wetten.overheid.nl/BWBV0007074), such action may also be brought only subject to the conditions and limitations laid down in this Convention.
 
-2. Voor zover de goederen verloren gaan of waarde hebben verloren als gevolg van gedeeltelijk verlies of schade, wordt geen vergoeding voor vertraging betaald.
+### CHAPTER 4. SETTLEMENT OF CLAIMS
 
-3. In geen geval mag de vergoeding voor vertraging en die voor gedeeltelijk verlies of gedeeltelijke schade van goederen hoger zijn dan de vergoeding die verschuldigd zou zijn in geval van geheel verlies van de goederen.
+##### Article 28. Notice of damage
 
-4. Indien de afleveringstermijn bij overeenkomst is vastgesteld, kunnen andere vormen van schadevergoeding worden overeengekomen dan die bedoeld in het eerste lid van dit artikel. Indien in dit geval niet alleen de overeengekomen afleveringstermijn wordt overschreden, maar ook de termijn die redelijkerwijs van de zorgvuldige vervoerder als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=13&z=2023-11-17&g=2023-11-17) kan worden verlangd, ook wordt overschreden, kan de persoon die het recht heeft om een vordering tegen de vervoerder in te stellen, hetzij de in de overeenkomst of de in dit artikel bedoelde schadevergoeding vorderen.
+1. Where partial loss of or damage to the goods is apparent and the consignee or the consignor fails to notify this on delivery of the goods at the latest, it is presumed that the goods have been delivered in a condition conforming with the contract of carriage. The notice must specify the damage sufficiently clearly.
 
-##### Artikel 26. Personen voor wie de vervoerder aansprakelijk is
+2. Where partial loss or damage was not apparent, the presumption referred to in paragraph 1 of this Article shall also apply if the damage is not notified within seven days after delivery.
 
-De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen van wier diensten hij gebruik maakt bij de uitvoering van het vervoer, wanneer deze ondergeschikten en andere personen handelen in de uitoefening van hun werkzaamheden. De ondernemingen of lichamen die de spoorweginfrastructuur exploiteren waarop het vervoer wordt verricht, worden beschouwd als personen van wier diensten de vervoerder gebruik maakt bij de uitvoering van het vervoer. Het recht van regres van de vervoerder wordt niet aangetast.
+3. Claims for delay in delivery shall be extinguished if the consignee does not notify the carrier of the delay in delivery within 60 days after delivery of the goods.
 
-##### Artikel 27. Andere vorderingen
+4. If loss, damage or delay is notified on delivery, it is sufficient to give notice to the person delivering the goods. After delivery any notice of damage shall be given to the carrier in text form (e.g. email). Dispatch within the applicable notification period is sufficient.
 
-1. In alle gevallen waar dit Verdrag van toepassing is, kan tegen de vervoerder slechts een vordering wegens aansprakelijkheid, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen neergelegd in dit Verdrag.
+##### Article 29. Claims
 
-2. Indien een vordering wordt ingesteld tegen de ondergeschikten of andere personen voor wie de vervoerder aansprakelijk is ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=3&artikel=26&z=2023-11-17&g=2023-11-17), mag deze vordering eveneens uitsluitend worden ingesteld onder de voorwaarden en beperkingen neergelegd in dit Verdrag.
+1. Claims relating to the contract of carriage must be addressed in text form (e.g. email) to the carrier against whom an action may be brought.
 
-### HOOFDSTUK 4. SCHIKKING VAN VORDERINGEN
+2. A claim may be made by a person who has the right to bring an action against the carrier. The necessity to make a claim before bringing an action against the carrier shall remain subject to the applicable national law where the action shall be brought.
 
-##### Artikel 28. Kennisgeving van schade
+3. When the person who has the right to bring an action against the carrier is the consignor, he must produce the original of the consignment note. Failing this he must produce an authorisation from the consignee or furnish proof that the consignee has refused to accept the goods. If necessary, the consignor must prove the absence or loss of the original of the consignment note.
 
-1. Wanneer gedeeltelijk verlies van of een beschadiging aan de goederen zichtbaar is en de geadresseerde of de afzender hiervan niet uiterlijk bij aflevering van de goederen kennis geeft, wordt aangenomen dat de goederen zijn afgeleverd in een staat die in overeenstemming is met de vervoerovereenkomst. In de kennisgeving moet de schade voldoende duidelijk worden gespecificeerd.
+4. When the person who has the right to bring an action against the carrier is the consignee, he must produce the original of the consignment note intended for the accompaniment of the goods if it has been handed over to him.
 
-2. Wanneer gedeeltelijk verlies van of een beschadiging aan de goederen niet zichtbaar was, is het in het eerste lid van dit artikel bedoelde vermoeden ook van toepassing indien van de schade niet binnen zeven dagen na aflevering kennis wordt gegeven.
+5. The consignment note and any other documents which the person who has the right to bring an action against the carrier thinks fit to submit with the claim must be produced either in the original or as copies, the copies, where appropriate, duly certified if the carrier so requests.
 
-3. Vorderingen wegens vertraging in de aflevering vervallen indien de geadresseerde de vervoerder niet binnen 60 dagen na aflevering van de goederen in kennis stelt van de vertraging in de aflevering.
+6. On settlement of the claim the carrier may require the production, in the original form, of the consignment note, so that the settlement of the claim can be recorded therein.
 
-4. Indien van verlies, beschadiging of vertraging in de aflevering wordt kennis gegeven, volstaat het om de persoon die de goederen aflevert hiervan in kennis te stellen. Na aflevering wordt elke kennisgeving van schade in tekstvorm (bijvoorbeeld e-mail) aan de vervoerder gegeven. Verzending binnen de van toepassing zijnde kennisgevingstermijn volstaat.
+7. The person who has the right to bring an action against the carrier may claim interest on compensation, calculated according to the applicable national law, from the day on which the claim was addressed to the carrier or, if no such claim has been made, from the day on which legal proceedings were instituted.
 
-##### Artikel 29. Vorderingen
+##### Article 30. Right to bring an action against the carrier
 
-1. Vorderingen met betrekking tot de vervoerovereenkomst moeten in tekstvorm (bijvoorbeeld e-mail) worden gericht aan de vervoerder tegen wie een vordering kan worden ingesteld.
+1. The consignor may bring an action pertaining to the contract of carriage as long as the consignee or a third party does not have such right pursuant to paragraph 2 of this Article or if there are circumstances preventing delivery.
 
-2. Een vordering kan worden ingesteld door een persoon die gerechtigd is een vordering in te stellen tegen de vervoerder. De noodzaak om een vordering buiten rechte tegen de vervoerder in te stellen alvorens naar de rechter te stappen, blijft onderworpen aan het toepasselijke nationale recht waarin de vordering wordt ingesteld.
+2. The consignee may bring an action pertaining to the contract of carriage from the time he has the right to dispose of the goods in accordance with [Article 15](https://wetten.overheid.nl/BWBV0007074). The same shall apply to a person other than the consignee provided that such person has obtained the right to dispose of the goods.
 
-3. Wanneer de persoon die gerechtigd is een vordering in te stellen tegen de vervoerder de afzender is, moet hij het origineel van de vrachtbrief overleggen. Bij gebreke daarvan moet hij een vergunning van de geadresseerde overleggen of het bewijs leveren dat de geadresseerde heeft geweigerd de goederen in ontvangst te nemen. Zo nodig moet de afzender aantonen dat het origineel van de vrachtbrief niet aanwezig was of verloren is gegaan.
+3. An action for the recovery of a sum paid pursuant to the contract of carriage may only be brought by the person who made the payment.
 
-4. Wanneer de persoon die gerechtigd is een vordering in te stellen tegen de vervoerder de afzender is, moet hij het origineel van de vrachtbrief overleggen dat de goederen vergezelt indien deze aan deze persoon is overhandigd.
+##### Article 31. Carriers against whom an action may be brought
 
-5. De vrachtbrief en alle andere documenten die de persoon die gerechtigd is om een vordering in te stellen tegen de vervoerder geschikt acht om samen met de vordering in te dienen, moeten hetzij in het origineel, hetzij in afschriften worden overgelegd, in voorkomend geval naar behoren gewaarmerkt indien de vervoerder daarom verzoekt.
+1. Actions based on the contract of carriage may be brought against the contractual carrier or against the carrier who has delivered the goods or against the carrier having performed the part of the carriage on which the event giving rise to the proceedings occurred.
 
-6. Bij de afwikkeling van de vordering kan de vervoerder eisen dat de vrachtbrief in originele vorm wordt overgelegd, zodat de afwikkeling van de vordering daarin kan worden vermeld.
+2. An action for the recovery of a sum paid pursuant to the contract of carriage may be brought against the carrier who has collected that sum or against the carrier on whose behalf it was collected.
 
-7. De persoon die gerechtigd is om een vordering tegen de vervoerder in te stellen, kan aanspraak maken op rente op schadevergoeding, berekend volgens het toepasselijke nationale recht, vanaf de dag waarop de vordering tot de vervoerder is gericht of, indien een dergelijke vordering niet is ingediend, vanaf de dag waarop een gerechtelijke procedure is ingesteld.
+3. An action may be brought against a carrier other than those specified in paragraphs 1 and 2 of this Article when triggered in the form of counterclaim or by way of objection to proceedings relating to a principal claim based on the same contract of carriage.
 
-##### Artikel 30. Recht om een vordering tegen de vervoerder in te stellen
+4. If the plaintiff has a choice between several carriers, his right to choose shall be extinguished as soon as he brings an action against any one of them.
 
-1. De afzender kan een vordering instellen met betrekking tot de vervoerovereenkomst zolang de geadresseerde of een derde dit recht niet heeft op grond van het tweede lid van dit artikel of indien er omstandigheden zijn die aflevering verhinderen.
+##### Article 32. Limitation of actions
 
-2. De geadresseerde kan met betrekking tot de vervoerovereenkomst een vordering instellen vanaf het moment waarop hij overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=15&z=2023-11-17&g=2023-11-17) over de goederen kan beschikken. Hetzelfde geldt voor een andere persoon dan de geadresseerde, mits die persoon het recht heeft verkregen om over de goederen te beschikken.
+1. The period of limitation for an action arising from carriage under this Convention shall be one year. Nevertheless, the period of limitation shall be two years in the case of an action:
 
-3. Een vordering tot terugvordering van een bedrag dat op grond van de vervoerovereenkomst is betaald, kan alleen worden ingesteld door de persoon die de betaling heeft verricht.
+- a) To recover a cash on delivery payment collected by the carrier from the consignee;
 
-##### Artikel 31. Vervoerders tegen wie een vordering kan worden ingesteld
+- b) To recover the proceeds of sale effected by the carrier.
 
-1. Vorderingen op basis van de vervoerovereenkomst kunnen worden ingesteld tegen de contractuele vervoerder of tegen de vervoerder die de goederen heeft geleverd of tegen de vervoerder die het deel van het vervoer heeft uitgevoerd waarop het aan de procedure ten grondslag liggende feit zich heeft voorgedaan.
+2. The period of limitation shall run for actions:
 
-2. Een vordering tot terugvordering van een uit hoofde van de vervoerovereenkomst betaald bedrag kan worden ingesteld tegen de vervoerder die dat bedrag heeft geïnd of tegen de vervoerder namens wie het is geïnd.
+- a) For compensation for total loss, from the thirtieth day after expiry of the transit period;
 
-3. Tegen een andere dan de in het eerste en tweede lid van dit artikel genoemde vervoerder kan een vordering worden ingesteld wanneer deze in de vorm van een tegenvordering in gang wordt gezet of door middel van bezwaar tegen een procedure met betrekking tot een hoofdvordering op grond van dezelfde vervoerovereenkomst.
+- b) For compensation for partial loss, damage or exceeding of the transit period, from the day when delivery took place;
 
-4. Indien de eiser een keuze heeft tussen meerdere vervoerders, vervalt zijn keuzerecht zodra hij een vordering tegen een van hen heeft ingesteld.
+- c) In all the other cases, from the day when the right of action may be exercised.
 
-##### Artikel 32. Verjaring
+The day indicated for the commencement of the period of limitation shall not be included in the period.
 
-1. De verjaringstermijn voor een vordering die voortvloeit uit het vervoer krachtens dit Verdrag bedraagt één jaar. De verjaringstermijn bedraagt echter twee jaar in het geval van een vordering:
+3. The period of limitation shall be suspended by a claim made in accordance with [Article 29](https://wetten.overheid.nl/BWBV0007074) until the day that the carrier rejects the claim by notification in writing and returns the documents submitted with it. If part of the claim is admitted, the period of limitation shall start to run again in respect to the part of the claim in dispute. The burden of proof of receipt of the claim or of the reply and of the return of the documents shall lie on the party who relies on those facts. The period of limitation shall not be suspended by further claims having the same object.
 
-- a. om een door de vervoerder bij de geadresseerde geïnde contante betaling bij aflevering terug te vorderen;
+4. A right of action which has become time-barred may not be exercised further, even by way of counterclaim or relied upon by way of exception.
 
-- b. om de opbrengst van de verkoop door de vervoerder terug te vorderen.
+5. Otherwise, the suspension and interruption of periods of limitation shall be governed by national law.
 
-2. De verjaringstermijn geldt voor vorderingen:
+### CHAPTER 5. CONSIGNMENT BILL
 
-- a. voor vergoeding van geheel verlies, vanaf de dertigste dag na het verstrijken van de afleveringstermijn;
+##### Article 33. Issuance of a consignment bill
 
-- b. voor vergoeding van gedeeltelijk verlies, schade of overschrijding van de afleveringstermijn, vanaf de dag waarop de aflevering heeft plaatsgevonden;
+1. If the parties to the contract of carriage agree to use a negotiable transport document instead of a consignment note the carrier is obliged to issue a consignment bill concerning the obligation to deliver the goods to the bearer.
 
-- c. in alle andere gevallen, vanaf de dag waarop het vorderingsrecht kan worden uitgeoefend.
+2. The consignment bill shall be signed by the carrier. As a signature there can be used an imprint, a stamp or an accounting machine entry.
 
-De voor het begin van de verjaringstermijn aangegeven dag wordt niet in de termijn opgenomen.
+3. Instead of a consignment bill an electronic consignment bill may be used provided it is agreed by the parties to the contract of carriage.
 
-3. De verjaringstermijn wordt geschorst door een vordering overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=4&artikel=29&z=2023-11-17&g=2023-11-17) tot de dag waarop de vervoerder de vordering door middel van een schriftelijke kennisgeving afwijst en de daarbij ingediende documenten retourneert. Indien een deel van de vordering wordt aanvaard, gaat de verjaringstermijn opnieuw in met betrekking tot het gedeelte van de vordering dat wordt betwist. De bewijslast van de ontvangst van de vordering of van de repliek en van de terugzending van de documenten ligt bij de partij die zich op deze feiten beroept. De verjaringstermijn wordt niet geschorst door verdere vorderingen met hetzelfde doel.
+##### Article 34. Effect of the consignment bill; legitimation
 
-4. Een rechtsvordering die verjaard is, kan niet verder worden uitgeoefend, zelfs niet door middel van een tegenvordering of bij wijze van uitzondering.
+1. [Article 5, paragraph 2](https://wetten.overheid.nl/BWBV0007074), and [Articles 6](https://wetten.overheid.nl/BWBV0007074), [7](https://wetten.overheid.nl/BWBV0007074), [9](https://wetten.overheid.nl/BWBV0007074) and [10](https://wetten.overheid.nl/BWBV0007074) shall be applicable mutatis mutandis when a consignment bill has been issued. A copy of the consignment bill shall accompany the goods.
 
-5. De schorsing en de stuiting van verjaringstermijnen wordt voor het overige beheerst door het nationale recht.
+2. The carrier may not rebut the presumptions pursuant to paragraph 1 of this Article vis-a-vis a consignee designated in the consignment bill and to whom the consignment bill has been handed over, unless the consignee was aware, or was unaware through gross negligence, at the time the consignment bill was handed over, that the information therein is incorrect. The same shall apply vis-à-vis any third party to whom the consignment bill has been transferred.
 
-### HOOFDSTUK 5. COGNOSSEMENT
+3. Any claim under a contract of carriage embodied in a consignment bill may be brought only by the person entitled to claim under the consignment bill. The bearer of the consignment bill is, for his benefit, presumed to be the person entitled to claim under the consignment bill.
 
-##### Artikel 33. Afgifte van een cognossement
+##### Article 35. Delivery against surrender of the consignment bill
 
-1. Indien de partijen bij de vervoerovereenkomst overeenkomen een verhandelbaar vervoersdocument te gebruiken in plaats van een vrachtbrief, is de vervoerder verplicht een cognossement af te geven met betrekking tot de verplichting om de goederen aan de houder te leveren.
+1. After the goods’ arrival at the place designated for delivery, the bearer of the consignment bill shall be entitled to require the carrier to deliver the goods against surrender of the consignment bill, in which the delivery is confirmed, and against payment of all amounts due according to the contract of carriage. However, the carrier must not deliver the goods to the bearer of the consignment bill if he is aware, or unaware through gross negligence, that the bearer of the consignment bill is not the person entitled to claim under the consignment bill.
 
-2. Het cognossement wordt ondertekend door de vervoerder. Een afdruk, een stempel of een aanduiding van een boekhoudmachine kan als handtekening worden gebruikt.
+2. If the carrier delivers the goods to a party other than the bearer of the consignment bill or, in the cases covered in paragraph 1 of this Article, sentence 2, to a party other than the person entitled to claim under the consignment bill, then the carrier shall be liable for the resulting damage suffered by the person entitled to claim under the consignment bill. The liability shall be limited to the amount which would have been payable if the goods have been lost.
 
-3. In plaats van een papieren cognossement kan een elektronisch cognossement worden gebruikt op voorwaarde dat de bij de vervoerovereenkomst betrokken partijen hiermee akkoord gaan.
+3. If delivery cannot be performed according to the contract of carriage because the consignment bill is not presented to the carrier, the carrier shall ask for instructions from the person entitled to claim under the consignment bill. If the carrier cannot obtain lawful and reasonable instructions within a reasonable time, he shall take measures according to [Article 18, paragraph 2](https://wetten.overheid.nl/BWBV0007074), but without the right to return the goods to the consignor.
 
-##### Artikel 34. Gevolgen van het cognossement; wettiging
+##### Article 36. Carrying out instructions
 
-1. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=5&z=2023-11-17&g=2023-11-17), en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=6&z=2023-11-17&g=2023-11-17), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=7&z=2023-11-17&g=2023-11-17), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=9&z=2023-11-17&g=2023-11-17) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=10&z=2023-11-17&g=2023-11-17) zijn van overeenkomstige toepassing wanneer een cognossement is afgegeven. De goederen worden vergezeld door een afschrift van het cognossement.
+1. Where a consignment bill has been issued, only its bearer shall have the right of disposal pursuant to the [Articles 15](https://wetten.overheid.nl/BWBV0007074) and [16](https://wetten.overheid.nl/BWBV0007074). If circumstances prevent carriage, the carrier shall ask for instructions from the person entitled to claim under the consignment bill; [Article 18](https://wetten.overheid.nl/BWBV0007074) shall be applicable without the right to return the goods to the consignor. The carrier may carry out instructions only against presentation of the consignment bill. However, the carrier must not carry out any instructions issued by the bearer of the consignment bill if he is aware, or unaware through gross negligence, that the bearer of the consignment bill is not the person entitled to claim under the consignment bill.
 
-2. De vervoerder mag de in het eerste lid van dit artikel bedoelde veronderstellingen jegens een in het cognossement aangewezen geadresseerde en aan wie het cognossement is overhandigd, niet weerleggen, tenzij de geadresseerde op het tijdstip van de overhandiging van het cognossement wist, of door grove nalatigheid niet wist, dat de daarin vermelde informatie onjuist is. Hetzelfde geldt voor elke derde aan wie het cognossement is overgedragen.
+2. If the carrier carries out instructions without having had the consignment bill presented to him, he shall be liable to the person entitled to claim under the consignment bill for any resulting damage the latter may suffer. The liability shall be limited to the amount which would have been payable if the goods had been lost.
 
-3. Elke vordering op grond van een vervoerovereenkomst die in een cognossement is opgenomen, kan alleen worden ingediend door de persoon die op grond van het cognossement aanspraak kan maken. De cognossementhouder wordt, in diens belang, geacht de persoon te zijn die een vordering kan indienen op grond van het cognossement.
+##### Article 37. Objections
 
-##### Artikel 35. Aflevering tegen overlevering van het cognossement
+The carrier may only object to a claim by a person entitled to claim under the consignment bill insofar as:
 
-1. Na aankomst van de goederen op de plaats bestemd voor de aflevering heeft de cognossementhouder het recht van de vervoerder te verlangen dat hij de goederen aflevert tegen overhandiging van het cognossement, waarin de aflevering is bevestigd, en tegen betaling van alle bedragen die volgens de vervoerovereenkomst verschuldigd zijn. De vervoerder mag de goederen echter niet aan de cognossementhouder afleveren indien hij weet, of door grove nalatigheid niet weet, dat de cognossementhouder niet de persoon is die gerechtigd is om op grond van het cognossement een vordering in te dienen.
+- a) The objection concerns the validity of the statements made in the consignment bill; or
 
-2. Indien de vervoerder de goederen aflevert aan een andere partij dan de cognossementhouder of, in de gevallen bedoeld in de tweede zin van het eerste lid van dit artikel, aan een andere partij dan de persoon die gerechtigd is om op grond van het cognossement een vordering in te dienen, is de vervoerder aansprakelijk voor de daaruit voortvloeiende schade die de persoon die gerechtigd is om op grond van het cognossement een vordering in te dienen heeft geleden. De aansprakelijkheid is beperkt tot het bedrag dat verschuldigd zou zijn geweest indien de goederen verloren waren gegaan.
+- b) The objection arises from the contents of the consignment bill; or
 
-3. Indien de aflevering niet volgens de vervoerovereenkomst kan worden uitgevoerd omdat het cognossement niet aan de vervoerder wordt overgelegd, vraagt de vervoerder aan de persoon die gerechtigd is om op grond van het cognossement een vordering in te dienen om instructies. Indien de vervoerder niet binnen een redelijke termijn wettige en redelijke instructies kan verkrijgen, neemt hij maatregelen overeenkomstig [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=18&z=2023-11-17&g=2023-11-17), maar heeft hij niet het recht om de goederen aan de afzender terug te zenden.
+- c) The carrier is entitled to raise objections directly against the person entitled to claim under the consignment bill.
 
-##### Artikel 36. Uitvoeren van instructies
+References to other agreements made in the consignment bill shall not be considered as a binding part of the consignment bill.
 
-1. Wanneer een cognossement is afgegeven, heeft alleen de houder ervan het recht van beschikking ingevolge de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=15&z=2023-11-17&g=2023-11-17) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=16&z=2023-11-17&g=2023-11-17). Indien de omstandigheden het vervoer onmogelijk maken, vraagt de vervoerder de persoon die gerechtigd is op grond van het cognossement een vordering in te dienen om instructies; [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=2&artikel=18&z=2023-11-17&g=2023-11-17) is van toepassing met uitzondering van het recht de goederen aan de afzender te retourneren. De vervoerder mag alleen instructies uitvoeren tegen overlegging van het cognossement. De vervoerder mag echter geen instructies uitvoeren die door de cognossementhouder worden gegeven indien hij weet, of door grove nalatigheid niet weet, dat de cognossementhouder niet de persoon is die gerechtigd is op grond van het cognossement een vordering in te dienen.
+##### Article 38. Consignment bill as document of title
 
-2. Indien de vervoerder instructies uitvoert zonder dat het cognossement aan hem is overgelegd, is hij jegens de persoon die gerechtigd is om op grond van het cognossement een vordering in te dienen aansprakelijk voor de schade die deze laatste eventueel kan lijden. De aansprakelijkheid is beperkt tot het bedrag dat verschuldigd zou zijn geweest indien de goederen verloren waren gegaan.
+The issue and handing over of the consignment bill to the consignee designated therein shall have the same effect, in terms of the acquisition of rights to the goods, as a physical handing over of the goods, provided the carrier is in possession of the goods. The same shall apply to a transfer of the consignment bill to third parties.
 
-##### Artikel 37. Bezwaren
+### CHAPTER 6. RELATIONS BETWEEN CARRIERS
 
-De vervoerder kan slechts bezwaar maken tegen een vordering van een persoon die gerechtigd is op grond van het cognossement een vordering in te stellen, voor zover:
+##### Article 39. Settlement of accounts
 
-- a. het bezwaar de geldigheid van de verklaringen in het cognossement betreft; of
+Any carrier who has collected or ought to have collected, either at departure or on arrival, charges or other costs arising from the contract of carriage must pay to the carriers concerned their respective shares. The methods of payment shall be fixed by agreement between the carriers.
 
-- b. het bezwaar voortvloeit uit de inhoud van het cognossement; of
+##### Article 40. Right of recourse
 
-- c. de vervoerder het recht heeft rechtstreeks bezwaar te maken tegen de persoon die gerechtigd is op grond van het cognossement een vordering in te dienen.
+1. A carrier who has paid compensation pursuant to this Convention shall have a right of recourse against the carriers who have taken part in the carriage in accordance with the following provisions:
 
-Verwijzingen naar andere overeenkomsten in het cognossement worden niet beschouwd als een bindend onderdeel van het cognossement.
+- a) The carrier who has caused the loss or damage shall be solely liable for it;
 
-##### Artikel 38. Cognossement als eigendomstitel
+- b) When the loss or damage has been caused by several carriers, each shall be liable for the loss or damage he has caused; if such distinction is impossible, the compensation shall be apportioned between them in accordance with letter (c);
 
-De afgifte en overhandiging van het cognossement aan de daarin aangewezen geadresseerde heeft, in termen van het verwerven van rechten op de goederen, hetzelfde effect als een fysieke overhandiging van de goederen, mits de vervoerder in het bezit is van de goederen. Hetzelfde geldt voor de overdracht van het cognossement aan derden.
+- c) If it cannot be proved which of the carriers has caused the loss or damage, the compensation shall be apportioned between all the carriers who have taken part in the carriage, except those who prove that the loss or damage was not caused by them; such apportionment shall be in proportion to their respective shares of the carriage charge.
 
-### HOOFDSTUK 6. BETREKKINGEN TUSSEN VERVOERDERS
+2. In the case of insolvency of any one of these carriers, the unpaid share due from him shall be apportioned among all the other carriers who have taken part in the carriage, in proportion to their respective shares of the carriage charge.
 
-##### Artikel 39. Vereffening van rekeningen
+##### Article 41. Agreements concerning recourse
 
-Elke vervoerder die bij vertrek of bij aankomst alle kosten die voortvloeien uit de vervoerovereenkomst heeft geïnd of had moeten innen, dient aan de betrokken vervoerders hun respectieve aandelen te betalen. De wijzen van betaling worden in een overeenkomst tussen de vervoerders vastgelegd.
+The carriers may conclude agreements between themselves which derogate from [Articles 39](https://wetten.overheid.nl/BWBV0007074) and [40](https://wetten.overheid.nl/BWBV0007074).
 
-##### Artikel 40. Regresrecht
+### CHAPTER 7. FINAL PROVISIONS
 
-1. Een vervoerder die op grond van dit Verdrag een schadevergoeding heeft betaald, heeft recht van regres tegen de vervoerders die aan het vervoer hebben deelgenomen overeenkomstig de volgende bepalingen:
+##### Article 42. Secretariat
 
-- a. De vervoerder die het verlies of de schade heeft veroorzaakt, is hiervoor als enige aansprakelijk;
+The Executive Secretary of the United Nations Economic Commission for Europe shall provide secretariat functions to this Convention.
 
-- b. Wanneer het verlies of de schade door meerdere vervoerders is veroorzaakt, is elk van hen aansprakelijk voor het verlies of de schade die hij heeft veroorzaakt; indien een dergelijk onderscheid onmogelijk is, wordt de compensatie overeenkomstig onderdeel c onderling verdeeld;
+##### Article 43. Procedures for signature of and for becoming Party to the Convention
 
-- c. Indien niet kan worden aangetoond welke vervoerder het verlies of de schade heeft veroorzaakt, wordt de vergoeding verdeeld over alle vervoerders die aan het vervoer hebben deelgenomen, met uitzondering van degenen die bewijzen dat het verlies of de schade niet door hen is veroorzaakt; deze verdeling geschiedt in verhouding tot hun respectieve aandeel van de vervoerkosten.
+1. This Convention shall be open for signature at the United Nations Headquarters in New York until 31 March 2025 by all States.
 
-2. In geval van onvermogen om te betalen van een van deze vervoerders wordt het onbetaalde deel dat van hem verschuldigd is, verdeeld over alle andere vervoerders die aan het vervoer hebben deelgenomen, in verhouding tot hun respectieve aandeel in de vervoerskosten.
+2. This Convention shall be subject to ratification, acceptance or approval by the signatory States. It shall be open for accession by any State which has not signed the Convention.
 
-##### Artikel 41. Overeenkomsten inzake regres
+3. The instruments of ratification, acceptance, approval or accession shall be deposited with the Depositary.
 
-De vervoerders kunnen onderling overeenkomsten sluiten die afwijken van de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=6&artikel=39&z=2023-11-17&g=2023-11-17) en [40](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=6&artikel=40&z=2023-11-17&g=2023-11-17).
+##### Article 44. Entry into force
 
-### HOOFDSTUK 7. SLOTBEPALINGEN
+1. This Convention shall enter into force six months after the date on which five States have deposited their instruments of ratification, acceptance, approval or accession.
 
-##### Artikel 42. Secretariaat
+2. For each State that ratifies, accepts, approves or accedes to this Convention after deposit of the fifth instrument of ratification, acceptance, approval or accession, the Convention shall enter into force six months after the date of deposit by such State of its instrument of ratification, acceptance, approval or accession.
 
-De uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties verzorgt secretariaatsdiensten voor dit Verdrag.
+##### Article 45. Denunciation
 
-##### Artikel 43. Procedures voor ondertekening van en voor partij worden bij het Verdrag
+1. Any Party may denounce this Convention by a formal notification in writing addressed to the Depositary.
 
-1. Dit Verdrag staat tot en met 31 maart 2025 open voor ondertekening door alle Staten op het Hoofdkwartier van de Verenigde Naties te New York.
+2. Denunciation shall become effective six months after the date of receipt by the Depositary of the notification of denunciation.
 
-2. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de ondertekenende Staten. Dit Verdrag staat open voor toetreding door elke Staat die het Verdrag niet heeft ondertekend.
+##### Article 46. Settlement of disputes
 
-3. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de depositaris.
+1. Any dispute between two or more Parties concerning the interpretation or application of this Convention shall, so far as possible, be settled by negotiation between them.
 
-##### Artikel 44. Inwerkingtreding
+2. Any dispute between two or more Parties concerning the interpretation or application of this Convention which cannot be settled by the means indicated in paragraph 1 of this Article shall, at the request of one of the Parties, be referred to an arbitration tribunal composed as follows: each Party to the dispute shall appoint an arbitrator, and these arbitrators shall appoint another arbitrator, who shall be the chair. If, three months after receipt of a request, one of the Parties has failed to appoint an arbitrator or if the arbitrators have failed to elect the chair, any of the Parties may request the Secretary-General of the United Nations to appoint an arbitrator or the chair of the arbitration tribunal.
 
-1. Dit Verdrag treedt in werking zes maanden na de datum waarop vijf Staten hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
+3. The decision of the arbitration tribunal established under the provisions of paragraph 2 of this Article shall be final and binding on the Parties to the dispute.
 
-2. Ten aanzien van iedere Staat die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de datum van de nederlegging van de vijfde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking zes maanden na de datum van nederlegging door de betreffende Staat van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+4. The arbitration tribunal shall determine its own rules of procedure.
 
-##### Artikel 45. Opzegging
+5. The arbitration tribunal shall take its decisions by majority vote.
 
-1. Elke partij kan dit Verdrag opzeggen door middel van een officiële schriftelijke kennisgeving aan de depositaris.
+6. Any controversy which may arise between the Parties to the dispute as regards the interpretation and execution of the award may be submitted by any of such Parties for judgment to the arbitration tribunal which made the award.
 
-2. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving van opzegging door de depositaris.
+7. Each Party to the dispute shall individually bear the costs of its own appointed arbitrator and of its representatives in the arbitral proceedings; the costs of the chair and the remaining costs shall be borne in equal parts by the Parties to the dispute.
 
-##### Artikel 46. Regeling van geschillen
+##### Article 47. Reservations
 
-1. Elk geschil tussen twee of meer partijen betreffende de uitlegging of toepassing van dit Verdrag wordt zoveel mogelijk geregeld door middel van onderhandelingen tussen de partijen.
+1. Any Party may, at the time of signing, ratifying, accepting, approving or acceding to this Convention, declare that it does not consider itself bound by [Article 46, paragraphs 2 to 7](https://wetten.overheid.nl/BWBV0007074) of this Convention. Other Parties shall not be bound by these paragraphs in respect of any Party, which has entered such a reservation.
 
-2. Elk geschil tussen twee of meer partijen over de uitlegging of toepassing van dit Verdrag dat niet kan worden beslecht met de in het eerste lid van dit artikel bedoelde middelen, wordt op verzoek van een van de partijen voorgelegd aan een scheidsgerecht dat als volgt is samengesteld: elke partij bij het geschil benoemt een arbiter en deze arbiters benoemen een andere arbiter, die de voorzitter is. Indien een van de partijen drie maanden na ontvangst van een verzoek heeft nagelaten een arbiter aan te wijzen of indien de arbiters nagelaten hebben een voorzitter te kiezen, kan een van de partijen de Secretaris-Generaal van de Verenigde Naties verzoeken een arbiter of de voorzitter van het scheidsgerecht te benoemen.
+2. Any Party, having entered a reservation as provided for in paragraph 1 of this Article, may at any time withdraw such a reservation by notifying the Depositary.
 
-3. De beslissing van het krachtens het tweede lid van dit artikel ingestelde scheidsgerecht is definitief en bindend voor de partijen bij het geschil.
+3. Apart from the reservations set out in [Article 1, paragraph 2](https://wetten.overheid.nl/BWBV0007074), point (b) and in paragraph 1 of this Article, no reservation to this Convention shall be permitted.
 
-4. Het scheidsgerecht stelt zijn eigen reglement van orde vast.
+##### Article 48. Procedures for amending the provisions of the Convention
 
-5. Het scheidsgerecht neemt zijn beslissing bij meerderheid van stemmen.
+1. After this Convention has been in force for one year, it may be amended according to the procedure defined in this Article.
 
-6. Elke onenigheid die tussen de partijen bij het geschil kan ontstaan met betrekking tot de uitlegging en uitvoering van de uitspraak, kan door een van deze partijen ter beoordeling worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan.
+2. Any proposed amendment to this Convention presented by a Party to this Convention shall be submitted to the Working Party on Rail Transport of the United Nations Economic Commission for Europe for consideration and decision.
 
-7. Elke partij bij het geschil draagt de kosten van haar eigen arbiter, alsmede die van haar vertegenwoordigers bij de arbitrageprocedure; de kosten van de voorzitter en de overige kosten worden gelijkelijk gedragen door de partijen bij het geschil.
+3. The Parties to this Convention shall make all possible efforts at the sessions of the Working Party to achieve consensus for adoption of the proposed amendment. If, despite these efforts, consensus is not reached on the proposed amendment, it shall require, as a last resort, an adoption by a two-thirds majority of Parties present and voting. A proposed amendment adopted either by consensus or by a two-thirds majority of Parties shall be submitted by the secretariat of the Convention to the Depositary to be circulated for acceptance to all Parties to this Convention, as well as to signatory States.
 
-##### Artikel 47. Voorbehouden
+4. Within a period of nine months from the date on which the adopted amendment is communicated by the Depositary, any Party may inform the Depositary that it has objection to the amendment.
 
-1. Elke partij kan, bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, verklaren zich niet gebonden te achten door [artikel 46, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=7&artikel=46&z=2023-11-17&g=2023-11-17), van dit Verdrag. Andere partijen zijn niet gebonden door deze leden ten aanzien van elke partij die een dergelijk voorbehoud heeft gemaakt.
+5. The amendment shall be deemed to have been accepted if, by the end of the period of nine months foreseen in the paragraph 4 of this Article, no objection has been notified by a Party to this Convention. If an objection is stated, the adopted amendment shall be of no effect.
 
-2. Elke partij die een voorbehoud heeft gemaakt overeenkomstig het eerste lid van dit artikel, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de depositaris.
+6. In the case of a State which becomes a Party to this Convention between the moment of notification of the amendment and the end of the nine-month period foreseen in paragraph 4 of this Article, the secretariat of the Convention shall notify the new Party about the amendment as soon as possible. The latter may inform the Depositary before the end of this period of nine months that it has an objection to the amendment.
 
-3. Afgezien van de voorbehouden bedoeld in [artikel 1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=1&artikel=1&z=2023-11-17&g=2023-11-17), en in het eerste lid van dit artikel, is geen voorbehoud bij dit Verdrag toegestaan.
+7. The Depositary shall notify, as soon as possible, all the Parties of objections raised in accordance with paragraphs 4 and 6 of this Article as well as of any amendment accepted according to paragraph 5 of this Article.
 
-##### Artikel 48. Procedures voor het wijzigen van de bepalingen van het Verdrag
+8. Any amendment deemed to have been accepted shall enter into force six months after the end of the period of nine months set out in paragraph 4 of this Article.
 
-1. Nadat dit Verdrag één jaar van kracht is kan het overeenkomstig de in dit artikel omschreven procedure worden gewijzigd.
+9. Any instrument of ratification, acceptance, approval or accession deposited after an amendment has been accepted in accordance with the procedure in this Article, but before it has entered into force, shall be deemed to apply to the Convention as amended on the date when the amendment enters into force.
 
-2. Elke door een partij bij dit Verdrag voorgestelde wijziging van dit Verdrag dient ter bestudering en besluitvorming te worden ingediend bij de Werkgroep voor het spoorwegvervoer van de Economische Commissie voor Europa van de Verenigde Naties.
+10. Any such instrument deposited after the entry into force of an amendment to this Convention shall be deemed to apply to the Convention as amended.
 
-3. De partijen bij dit Verdrag stellen tijdens de zittingen van de Werkgroep alles in het werk om consensus te bereiken met het oog op de aanneming van de voorgestelde wijziging. Indien ondanks deze inspanningen over de voorgestelde wijziging geen consensus wordt bereikt, wordt deze in laatste instantie aangenomen met een tweederdemeerderheid van de partijen die aanwezig zijn en hun stem uitbrengen. Het secretariaat van het Verdrag doet een voorgestelde wijziging die bij consensus of met een tweederdemeerderheid van de partijen is aangenomen toekomen aan de depositaris die deze ter aanvaarding toezendt aan alle partijen bij dit Verdrag alsmede aan de ondertekenende Staten.
+##### Article 49. Convening of a conference
 
-4. Binnen een tijdvak van negen maanden na de datum waarop de aangenomen wijziging door de depositaris is verzonden, kan elke partij de depositaris ervan in kennis stellen dat zij bezwaar maakt tegen de wijziging.
+1. Once this Convention is in force, any Party may, by notification to the secretariat of the Convention, request that a conference be convened for the purpose of reviewing this Convention. The secretariat of the Convention shall notify all Parties of the request and a review conference shall be convened by the secretariat of the Convention if, within a period of four months following the date of notification by the secretariat of the Convention, not less than one fourth of the Parties to this Convention notify the secretariat of their concurrence with the request.
 
-5. De wijziging wordt geacht te zijn aanvaard indien aan het eind van het tijdvak van negen maanden voorzien in het vierde lid van dit artikel geen kennisgeving van bezwaar is ontvangen van een partij bij dit Verdrag. Indien een bezwaar is ontvangen, heeft de aangenomen wijziging geen gevolgen.
+2. If a conference is convened in accordance with the preceding paragraph, the secretariat of the Convention shall notify all the Parties and invite them to submit within a period of three months proposals which they may wish the conference to consider. The secretariat of the Convention shall circulate to all Parties the provisional agenda for the conference together with the texts of such proposals at least three months before the date on which the conference is to meet.
 
-6. Indien een Staat tussen het tijdstip van kennisgeving van de wijziging en het eind van het tijdvak van negen maanden voorzien in het vierde lid van dit artikel, partij wordt bij dit Verdrag, stelt het secretariaat van het Verdrag de nieuwe partij zo spoedig mogelijk in kennis van de wijziging. De nieuwe partij kan de depositaris voor het eind van dit tijdvak van negen maanden ervan in kennis stellen bezwaar te maken tegen de wijziging.
+3. The secretariat of the Convention shall invite to any conference convened in accordance with this Article all States referred to in [Article 43, paragraph 2](https://wetten.overheid.nl/BWBV0007074), of this Convention.
 
-7. De depositaris stelt alle partijen zo spoedig mogelijk in kennis van bezwaren gerezen in overeenstemming met het vierde en zesde lid van dit artikel alsmede van elke wijziging die in overeenstemming met het vijfde lid van dit artikel is aanvaard.
+##### Article 50. Deposit of this Convention with the Secretary-General
 
-8. Elke wijziging die wordt geacht te zijn aanvaard treedt zes maanden na het verstrijken van de termijn van negen maanden zoals vervat in het vierde lid van dit artikel in werking.
+The Secretary-General of the United Nations is hereby designated as the Depositary of this Convention who shall transmit a certified true copy of the Convention to all signatory and acceding States.
 
-9. Elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, nedergelegd nadat een wijziging is aanvaard overeenkomstig de procedure van dit artikel, maar voordat zij in werking is getreden, wordt geacht van toepassing te zijn op het Verdrag zoals gewijzigd op de datum waarop de wijziging in werking treedt.
+*IN WITNESS WHEREOF*, the undersigned plenipotentiaries, being duly authorized thereto, have signed this Convention.
 
-10. Elke akte die wordt nedergelegd na de inwerkingtreding van een wijziging van dit Verdrag wordt geacht van toepassing te zijn op het Verdrag zoals gewijzigd.
-
-##### Artikel 49. Bijeenroeping van een conferentie
-
-1. Zodra dit Verdrag in werking is getreden, kan elke partij door middel van een kennisgeving aan het secretariaat van het Verdrag verzoeken om bijeenroeping van een conferentie teneinde dit Verdrag te herzien. Het secretariaat van het Verdrag stelt alle partijen in kennis van het verzoek en roept een conferentie tot herziening bijeen, mits binnen een tijdvak van vier maanden na de datum van de kennisgeving van het secretariaat van het Verdrag ten minste een vierde van de partijen bij dit Verdrag het secretariaat ervan in kennis stelt met het verzoek in te stemmen.
-
-2. Indien in overeenstemming met het vorige lid een conferentie bijeen wordt geroepen, stelt het secretariaat van het Verdrag alle partijen daarvan in kennis en nodigt hen uit binnen een tijdvak van drie maanden voorstellen in te dienen die zij de conferentie ter bestudering wensen voor te leggen. Het secretariaat van het Verdrag doet alle partijen ten minste drie maanden voor de datum waarop de conferentie moet plaatsvinden de voorlopige agenda voor de conferentie toekomen tezamen met de teksten van deze voorstellen.
-
-3. Het secretariaat van het Verdrag nodigt alle Staten bedoeld in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007074&hoofdstuk=7&artikel=43&z=2023-11-17&g=2023-11-17), van dit Verdrag uit voor elke conferentie die bijeengeroepen wordt.
-
-##### Artikel 50. Nederlegging van dit Verdrag bij de Secretaris-Generaal
-
-De Secretaris-Generaal van de Verenigde Naties wordt hierbij aangewezen als depositaris van dit Verdrag, die alle ondertekenende en toetredende Staten een voor eensluidend gewaarmerkt afschrift zal doen toekomen.
-
-**IN WITNESS WHEREOF**, the undersigned plenipotentiaries, being duly authorized thereto, have signed this Convention.
-
-**DONE** at Geneva, on 17 November 2023, in a single copy in the English, French and Russian languages, the three texts being equally authentic.
+*DONE* at Geneva, on 17 November 2023, in a single copy in the English, French and Russian languages, the three texts being equally authentic.

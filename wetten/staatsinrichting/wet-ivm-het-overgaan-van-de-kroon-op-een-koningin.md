@@ -9,7 +9,7 @@ laatste_update: 1891-09-01
 status: geldig
 toestand: 1891-09-01
 bron: "https://wetten.overheid.nl/BWBR0001858"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 22 juni 1891, betreffende de wettelijk vastgestelde formulieren, ambtstitels en officieele benamingen in verband met het overgaan van de Kroon op eene Koningin

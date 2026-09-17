@@ -9,7 +9,7 @@ laatste_update: 1956-10-15
 status: geldig
 toestand: 1956-10-15
 bron: "https://wetten.overheid.nl/BWBR0002205"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 2 februari 1956, houdende instelling van een productschap voor zuivel

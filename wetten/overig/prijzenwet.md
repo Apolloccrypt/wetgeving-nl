@@ -9,7 +9,7 @@ laatste_update: 2022-05-28
 status: geldig
 toestand: 2022-05-28
 bron: "https://wetten.overheid.nl/BWBR0002353"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 24 maart 1961, houdende regelen op het gebied van de prijzen van goederen en diensten

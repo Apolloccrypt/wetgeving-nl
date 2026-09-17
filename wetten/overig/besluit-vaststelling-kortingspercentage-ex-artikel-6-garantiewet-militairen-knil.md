@@ -9,7 +9,7 @@ laatste_update: 1952-07-28
 status: geldig
 toestand: 1952-07-28
 bron: "https://wetten.overheid.nl/BWBR0002094"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 26 juni 1952, houdende vaststelling van een kortingspercentage als bedoeld in artikel 6, lid 2, slotalinea van de Garantiewet Militairen K.N.I.L.

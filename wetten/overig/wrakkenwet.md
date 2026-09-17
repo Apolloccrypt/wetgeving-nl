@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0001963"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 19 juli 1934, tot vaststelling van bepalingen omtrent de opruiming van vaartuigen en andere voorwerpen, in openbare wateren gestrand, gezonken of aan den grond geraakt of in waterkeeringen of andere waterstaatswerken vastgeraakt

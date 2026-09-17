@@ -9,7 +9,7 @@ laatste_update: 2014-01-06
 status: geldig
 toestand: 2014-01-06
 bron: "https://wetten.overheid.nl/BWBR0002253"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 22 augustus 1957, houdende vaststelling van een algemene maatregel van bestuur, ter uitvoering van artikel 9 van de Wet verplaatsing bevolking

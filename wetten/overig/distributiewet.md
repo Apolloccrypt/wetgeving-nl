@@ -9,7 +9,7 @@ laatste_update: 2020-07-17
 status: geldig
 toestand: 2020-07-17
 bron: "https://wetten.overheid.nl/BWBR0001997"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 24 juni 1939, houdende regelen teneinde in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden een doelmatige distributie van goederen in het belang van volkshuishouding, landsverdediging en veiligheid van niet-militaire personen of lichamen mogelijk te maken

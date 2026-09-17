@@ -9,7 +9,7 @@ laatste_update: 2026-09-12
 status: geldig
 toestand: 2026-09-12
 bron: "https://wetten.overheid.nl/BWBR0053099"
-opgehaald: 2026-09-16
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 5 september 2026, houdende regels ter gedeeltelijke uitvoering van Verordening (EU) nr. 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen, tot wijziging van Richtlijn 2008/98/EG en Verordening (EU) 2019/1020 en tot intrekking van Richtlijn 2006/66/EG (Uitvoeringsbesluit hoofdstuk VIII EU-verordening batterijen) [KetenID WGK027364]

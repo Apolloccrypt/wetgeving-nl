@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0002058"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 27 januari 1950, tot toepassing ten aanzien van het bedrijfsleven van de artikelen 80 en 152 tot en met 154 van de Grondwet

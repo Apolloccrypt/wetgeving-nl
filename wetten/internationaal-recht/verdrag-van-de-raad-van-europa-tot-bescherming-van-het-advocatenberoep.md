@@ -1,417 +1,384 @@
 ---
 title: "Verdrag van de Raad van Europa tot bescherming van het advocatenberoep"
 identifier: "BWBV0007100"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-05-13"
-last_updated: "2025-05-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007100"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005706313"
-version_id: "10006304972"
-internal_id: "C10010196901"
-label_id: "10005688454"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007100/2025-05-13/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0007100&z=2025-05-13&g=2025-05-13"
-jci_1_0: "1.0:c:BWBV0007100&g=2025-05-13"
-citeertitel_status: "redactioneel"
+laatste_update: 2025-05-13
+status: geldig
+toestand: 2025-05-13
+bron: "https://wetten.overheid.nl/BWBV0007100"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag van de Raad van Europa tot bescherming van het advocatenberoep
 
-Preambule
+*Preamble The member States of the Council of Europe and the other signatories to this Convention, Considering that the aim of the Council of Europe is to achieve greater unity between its members; Recalling the Convention for the Protection of Human Rights and Fundamental Freedoms (ETS No. 5, 1950) and its Protocols and the case law of the European Court of Human Rights; Taking into account the Basic Principles on the Role of Lawyers, adopted by the Eighth United Nations Congress on the Prevention of Crime and the Treatment of Offenders (Havana, Cuba, 27 August-7 September 1990); Taking into account Recommendation Rec(2000)21 of the Committee of Ministers to member States on the freedom of exercise of the profession of lawyer; Taking into account Resolution 44/9 on the independence and impartiality of the judiciary, jurors and assessors, and the independence of lawyers, adopted by the United Nations Human Rights Council on 16 July 2020; Underlining the fundamental role that lawyers and their professional associations play in upholding the rule of law, securing access to justice and ensuring the protection of human rights and fundamental freedoms; Noting with grave concern that lawyers are increasingly being subjected to attacks, threats, harassment and intimidation on account of their professional activities as well as to improper hindrance or interference when performing their legitimate professional activities; Condemning all such attacks, threats, harassment, intimidation and improper hindrance or interference; Considering the different manner in which the profession of lawyer may be organised in member States of the Council of Europe and the other signatories to this Convention; Considering the need to strengthen the international legal framework to ensure the freedom to practise the profession of lawyer, Have agreed as follows:*
 
-De lidstaten van de Raad van Europa en de andere ondertekenaars van dit Verdrag,
+### CHAPTER I. PURPOSE, SCOPE AND USE OF TERMS
 
-Overwegend dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn leden;
+##### Article 1. Purpose of the Convention
 
-In herinnering roepend het [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) (ETS nr. 5, 1950) en de bijbehorende Protocollen en de jurisprudentie van het Europees Hof voor de Rechten van de Mens;
+1. The purpose of this Convention is to strengthen the protection of the profession of lawyer and the right to practise this profession with independence and without discrimination, improper hindrance or interference, or being subjected to attacks, threats, harassment or intimidation.
 
-Rekening houdend met de basisbeginselen inzake de rol van advocaten, aangenomen door het achtste congres van de Verenigde Naties over de preventie van criminaliteit en de behandeling van daders (Havana, Cuba, 27 augustus-7 september 1990);
+2. This Convention establishes a specific mechanism in order to ensure an effective implementation of its provisions by the Parties.
 
-Rekening houdend met Aanbeveling Rec(2000)21 van het Comité van Ministers aan de lidstaten inzake de vrijheid van uitoefening van het advocatenberoep;
+##### Article 2. Scope
 
-Rekening houdend met Resolutie 44/9 over de onafhankelijkheid en onpartijdigheid van de rechterlijke macht, juryleden en beoordelaars, en de onafhankelijkheid van advocaten, aangenomen door de Mensenrechtenraad van de Verenigde Naties op 16 juli 2020;
+1. This Convention applies to the professional activities of lawyers and of their professional associations.
 
-Benadrukkend de fundamentele rol die advocaten en hun beroepsverenigingen spelen bij het handhaven van de rechtsstaat, het waarborgen van de toegang tot de rechter en het waarborgen van de bescherming van de mensenrechten en de fundamentele vrijheden;
+2. The provisions in [Articles 5 to 9](https://wetten.overheid.nl/BWBR0012789) of this Convention are, insofar as relevant to their specific situation, applicable to those lawyers providing, under their home title, legal advice, assistance or representation in a Party and who are:
 
-Er met grote bezorgdheid nota van nemend dat advocaten steeds vaker het slachtoffer worden van aanvallen, bedreigingen, pesterijen en intimidatie vanwege hun beroepsactiviteiten, alsook van ongepaste belemmeringen of inmenging bij de uitoefening van hun legitieme beroepsactiviteiten;
+- a) included within the scope of a declaration made by another Party under [Article 20, paragraph 1](https://wetten.overheid.nl/BWBV0007100), of this Convention; or
 
-Hun veroordeling uitsprekend over deze aanvallen, bedreigingen, pesterijen, intimidatie en ongepaste belemmeringen of inmenging;
+- b) doing so pursuant to the law of that Party, European Union law or international agreements.
 
-Gelet op de verschillende wijzen waarop het beroep van advocaat kan worden georganiseerd in de lidstaten van de Raad van Europa en de andere ondertekenaars van dit Verdrag;
+3. The provisions in [Articles 6](https://wetten.overheid.nl/BWBV0007100) (professional rights of lawyers), [7](https://wetten.overheid.nl/BWBV0007100) (freedom of expression) and [9 (protective measures), paragraph 4](https://wetten.overheid.nl/BWBV0007100), of this Convention are also applicable to:
 
-Overwegend dat het internationale rechtskader moet worden versterkt om de vrijheid van uitoefening van het beroep van advocaat te waarborgen
+- a) any person who, in violation of [Articles 5](https://wetten.overheid.nl/BWBV0007100) and [8](https://wetten.overheid.nl/BWBV0007100) of this Convention, has either been refused the qualification of lawyer or a licence to practise or has had these revoked or suspended;
 
-Zijn het volgende overeengekomen:
+- b) any person who is recognised by an international court or tribunal, or a body established by an international organisation, as competent to act in proceedings before it when advising on or acting in such proceedings.
 
-### HOOFDSTUK I. DOEL, REIKWIJDTE EN BEGRIPSOMSCHRIJVINGEN
+4. The provisions in [Articles 6, paragraph 3, sub-paragraphs b and c](https://wetten.overheid.nl/BWBV0007100), and [9, paragraph 4](https://wetten.overheid.nl/BWBV0007100), of this Convention are also applicable to persons employed or engaged by lawyers to assist them insofar as they contribute directly to the carrying out of the professional activities of those lawyers.
 
-##### Artikel 1. Doel van het Verdrag
+5. The provisions in [Article 9, paragraph 4](https://wetten.overheid.nl/BWBV0007100), of this Convention are also applicable to persons employed or engaged to assist professional associations insofar as the carrying out by them of the professional activities of those associations is concerned.
 
-1. Het doel van dit Verdrag is de versterking van de bescherming van het beroep van advocaat en het recht om dit beroep onafhankelijk en zonder discriminatie, ongepaste belemmering of inmenging uit te oefenen, of het slachtoffer te worden van aanvallen, bedreigingen, pesterijen of intimidatie.
+##### Article 3. Use of terms
 
-2. Bij dit Verdrag wordt een specifiek mechanisme ingesteld om een doeltreffende uitvoering van de bepalingen ervan door de partijen te waarborgen.
+For the purposes of this Convention:
 
-##### Artikel 2. Reikwijdte
+- a) “lawyer” shall mean any natural person who is qualified and authorised, according to national law, to practise the profession of lawyer;
 
-1. Dit Verdrag is van toepassing op de beroepsactiviteiten van advocaten en hun beroepsverenigingen.
+- b) “client” shall mean any natural or legal person who is advised, assisted or represented by a lawyer;
 
-2. De bepalingen van de artikelen 5 tot en met 9 van dit Verdrag zijn, voor zover relevant voor hun specifieke situatie, van toepassing op de advocaten die onder hun oorspronkelijke beroepstitel juridisch advies, bijstand of vertegenwoordiging in een partij verlenen en die:
+- c) “prospective client” shall mean any natural or legal person who seeks, whether directly or indirectly, to be advised, assisted or represented by the lawyer concerned;
 
-- a. vallen onder de reikwijdte van een verklaring van een andere partij uit hoofde van het [eerste lid van artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=V&artikel=20&z=2025-05-13&g=2025-05-13) van dit Verdrag; of
+- d) “professional association” shall mean a representative body to which some or all lawyers belong, whether directly or indirectly, or are enrolled and which has some responsibility for organising or regulating their profession under national law;
 
-- b. dit doen op grond van het recht van die partij, het recht van de Europese Unie of internationale overeenkomsten.
+- e) “professional activities of lawyers” shall mean any action for the preparation or provision of advice, assistance or representation for a client or prospective client in connection with the interpretation or application of law, whether national, foreign or international, both in the Parties where they are established and wherever else this may be undertaken, including in connection with the proceedings and work of an international court or tribunal or a body established by an international organisation;
 
-3. De bepalingen van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=6&z=2025-05-13&g=2025-05-13) (beroepsrechten van advocaten), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=7&z=2025-05-13&g=2025-05-13) (vrijheid van meningsuiting) en [9 (beschermingsmaatregelen), vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=9&z=2025-05-13&g=2025-05-13), van dit Verdrag zijn eveneens van toepassing op:
+- f) “professional activities of professional associations” shall mean any action covered by [Article 4, paragraph 2](https://wetten.overheid.nl/BWBV0007100), of this Convention;
 
-- a. elke persoon aan wie, in strijd met de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=5&z=2025-05-13&g=2025-05-13) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=8&z=2025-05-13&g=2025-05-13) van dit Verdrag, hetzij de kwalificatie van advocaat of een vergunning tot uitoefening van het beroep is geweigerd, of voor wie deze is ingetrokken of geschorst;
+- g) “public authorities” shall mean:
 
-- b. elke persoon die door een internationale rechterlijke instantie of een door een internationale organisatie opgericht orgaan is erkend als bevoegd om in een bij haar aanhangige procedure op te treden waarbij deze persoon advies geeft over of optreedt in een dergelijke procedure.
+   - (i) government and administration at the national, regional and local levels;
 
-4. De bepalingen van de [artikelen 6, derde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=6&z=2025-05-13&g=2025-05-13), en [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=9&z=2025-05-13&g=2025-05-13), van dit Verdrag zijn ook van toepassing op personen die door advocaten in dienst zijn genomen of ingeschakeld om hen bij te staan, voor zover zij rechtstreeks bijdragen tot de uitoefening van de beroepswerkzaamheden van die advocaten.
+   - (ii) legislative bodies and judicial authorities insofar as they perform administrative functions according to national law;
 
-5. De bepalingen van [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=9&z=2025-05-13&g=2025-05-13), van dit Verdrag zijn ook van toepassing op personen die in dienst zijn genomen of ingeschakeld om beroepsverenigingen bij te staan, voor zover het de uitoefening door hen van de beroepswerkzaamheden van deze verenigingen betreft.
+   - (iii) natural or legal persons insofar as they exercise administrative authority;
 
-##### Artikel 3. Begripsomschrijvingen
+- h) “prescribed by law” and “necessary in a democratic society” shall be understood within the meaning of the [Convention for the Protection of Human Rights and Fundamental Freedoms](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) as interpreted by the European Court of Human Rights.
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+### CHAPTER II. SUBSTANTIVE PROVISIONS
 
-- a. „advocaat’: iedere natuurlijke persoon die volgens het nationale recht gekwalificeerd en bevoegd is om het beroep van advocaat uit te oefenen;
+##### Article 4. Professional associations
 
-- b. „cliënt“: een natuurlijke persoon of rechtspersoon die wordt geadviseerd, bijgestaan of vertegenwoordigd door een advocaat;
+1. Parties shall ensure that the national legal and regulatory framework guarantees that professional associations are independent, self-governing bodies. Any election of their executive bodies shall take place in accordance with the applicable rules and without external interference.
 
-- c. „potentiële cliënt’: iedere natuurlijke persoon of rechtspersoon die direct of indirect verzoekt om zich door de betrokken advocaat te laten adviseren, bijstaan of vertegenwoordigen;
+2. Parties shall ensure that professional associations can:
 
-- d. „beroepsvereniging”: een vertegenwoordigend orgaan waarvan sommige of alle advocaten direct of indirect lid zijn of waarin zij zijn ingeschreven en dat krachtens het nationale recht een zekere verantwoordelijkheid heeft voor de organisatie of reglementering van hun beroep;
+- a) promote and represent the interests of lawyers and of their profession;
 
-- e. „beroepsactiviteiten van advocaten”: elke handeling ter voorbereiding of verstrekking van advies, bijstand of vertegenwoordiging ten behoeve van een cliënt of potentiële cliënt in verband met de uitlegging of toepassing van het nationale, buitenlandse of internationale recht, zowel in de partijen waar zij zijn gevestigd als elders, onder meer in verband met de procedures en werkzaamheden van een internationale rechterlijke instantie of een door een internationale organisatie opgericht orgaan;
+- b) promote and defend the independence of lawyers and their role in society;
 
-- f. „beroepsactiviteiten van beroepsverenigingen“: elke actie als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=4&z=2025-05-13&g=2025-05-13), van dit Verdrag;
+- c) elaborate professional standards of conduct and promote their observance, in accordance with this Convention;
 
-- g. „overheidsorganen”:
+- d) promote access to the profession and the continuing education and training of lawyers;
 
-- i. regering en bestuursorganen op nationaal, regionaal en lokaal niveau;
+- e) co-operate with lawyers, other professional associations and international, intergovernmental or non-governmental organisations on matters of law and the practice of law, including the promotion and protection of the role of lawyers; and
 
-- ii. wetgevende instanties en gerechtelijke autoriteiten voor zover zij bestuurlijke taken verrichten overeenkomstig het nationale recht;
+- f) promote the welfare of lawyers and assist them and their families where necessary.
 
-- iii. natuurlijke personen of rechtspersonen voor zover zij enig openbaar gezag uitoefenen;
+3. Parties shall ensure that professional associations are consulted in a timely and effective manner on proposals by government for any change in legislation, procedural and administrative rules directly affecting the professional activities of lawyers and the regulation of the profession.
 
-- h. en worden „bij wet voorgeschreven” en „noodzakelijk in een democratische samenleving” begrepen in de zin van het [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), zoals uitgelegd door het Europees Hof voor de Rechten van de Mens.
+4. Parties shall ensure that any requirement to belong to a professional association does not preclude lawyers from forming and taking part in other associations to promote their professional interests and activities.
 
-### HOOFDSTUK II. MATERIËLE BEPALINGEN
+##### Article 5. Entitlement to practise
 
-##### Artikel 4. Beroepsverenigingen
+1. Parties shall ensure that admission, continued authorisation and readmission to practise as a lawyer are prescribed by law and are:
 
-1. De partijen waarborgen dat het nationale wet- en regelgevingskader waarborgt dat beroepsverenigingen onafhankelijke, zelfbesturende organen zijn. De verkiezing van hun uitvoerende organen geschiedt in overeenstemming met de toepasselijke regels en zonder inmenging van buitenaf.
+- a) based on objective, relevant and transparent criteria that are applied through a fair process; and
 
-2. De partijen waarborgen dat beroepsverenigingen:
+- b) not subject to discrimination on any ground prohibited by the case law of the European Court of Human Rights.
 
-- a. de belangen van advocaten en hun beroep bevorderen en behartigen;
+2. Parties shall ensure that decisions concerning admission, continued authorisation and readmission to practise as a lawyer are taken by a professional association or other independent body and are subject to challenge before an independent and impartial court or tribunal established by law.
 
-- b. de onafhankelijkheid van advocaten en hun rol in de samenleving bevorderen en verdedigen;
+##### Article 6. Professional rights of lawyers
 
-- c. professionele gedragsnormen opstellen en de naleving daarvan bevorderen, in overeenstemming met dit Verdrag;
+1. Parties shall ensure that lawyers can:
 
-- d. de toegang tot het beroep en de voortdurende bij- en nascholing van advocaten bevorderen;
+- a) offer and provide legal advice, assistance and representation, including for the purpose of defending human rights and fundamental freedoms;
 
-- e. samenwerken met advocaten, andere beroepsverenigingen en internationale, intergouvernementele of niet-gouvernementele organisaties op het gebied van het recht en de rechtspraktijk, met inbegrip van de bevordering en bescherming van de rol van advocaten; en
+- b) agree or refuse to accept any natural or legal persons as their clients and terminate the lawyer-client relationship;
 
-- f. het welzijn van advocaten bevorderen en hen en hun gezinnen waar nodig bijstaan.
+- c) have prompt and effective access to their clients and prospective clients, even when they are deprived of liberty;
 
-3. De partijen waarborgen dat beroepsverenigingen tijdig en doeltreffend worden geraadpleegd over voorstellen van de overheid voor wijzigingen in wetgeving, procedurele en administratieve voorschriften die rechtstreeks van invloed zijn op de beroepsactiviteiten van advocaten en de reglementering van het beroep.
+- d) be recognised as persons who are authorised to advise, assist or represent their clients;
 
-4. De partijen waarborgen dat de verplichting om lid te zijn van een beroepsvereniging advocaten niet belet andere verenigingen op te richten en daaraan deel te nemen om hun beroepsbelangen en -activiteiten te behartigen.
+- e) have effective access to any relevant materials in the possession or control of the competent public authorities, courts and tribunals when acting on behalf of their clients without undue delay and restrictions;
 
-##### Artikel 5. Recht op uitoefening van het beroep
+- f) have effective access to, and communication with, a court, tribunal or other similar body before which they are qualified to appear;
 
-1. De partijen waarborgen dat de toelating tot, de voortgezette inschrijving van en de herintreding tot het beroep van advocaat bij wet worden voorgeschreven en:
+- g) submit applications or motions on behalf of their clients, including with regard to the recusal of a judge, prosecutor or member of a body called upon to rule in a particular case and to the conduct of proceedings;
 
-- a. op basis van objectieve, relevante en transparante criteria geschieden die volgens een eerlijk proces worden toegepast; en
+- h) effectively participate in all proceedings in which they are acting on behalf of their clients;
 
-- b. niet onderworpen zijn aan discriminatie op een grond die verboden is door de jurisprudentie van het Europees Hof voor de Rechten van de Mens.
+- i) inform the public about their services.
 
-2. De partijen waarborgen dat besluiten betreffende toelating, voortgezette inschrijving en herintreding tot het beroep van advocaat worden genomen door een beroepsvereniging of een ander onafhankelijk orgaan en kunnen worden aangevochten voor een onafhankelijk en onpartijdig gerecht dat bij wet is ingesteld.
+2. Parties shall ensure that lawyers shall not incur civil or criminal liability for oral and written statements made in good faith and diligently in the conduct of all proceedings on behalf of their clients.
 
-##### Artikel 6. Beroepsrechten van advocaten
+3. Parties shall ensure that lawyers:
 
-1. De partijen dragen er zorg voor dat advocaten:
+- a) can provide their clients or prospective clients with legal advice in private when meeting them in person;
 
-- a. juridisch advies, bijstand en vertegenwoordiging kunnen aanbieden en verlenen, onder meer met het oog op de verdediging van de mensenrechten en de fundamentele vrijheden;
+- b) can communicate confidentially with their clients or prospective clients, by whatever means and in whatever form such communication may take place;
 
-- b. natuurlijke personen of rechtspersonen als cliënt kunnen aannemen of weigeren en de relatie tussen advocaat en cliënt kunnen beëindigen;
+- c) are not required to disclose, surrender or give evidence regarding any information or material received, whether directly or indirectly, from clients or prospective clients, as well as any exchanges with them, and any material prepared in connection with either those exchanges or the conduct of legal proceedings on their behalf.
 
-- c. snelle en daadwerkelijke toegang kunnen hebben tot hun cliënten en potentiële cliënten, zelfs wanneer deze de vrijheid is ontnomen;
+4. No restrictions shall be placed on the exercise of the rights established under paragraphs 1, 2 and 3 of this article, other than those prescribed by law and which are necessary in a democratic society. Such restrictions can include, but are not limited to, requirements to ensure the availability of legal advice, assistance and representation to all.
 
-- d. kunnen worden erkend als personen die gemachtigd zijn om hun cliënten te adviseren, bij te staan of te vertegenwoordigen;
+5. Parties shall ensure that lawyers do not suffer adverse consequences as a result of being identified with their clients or their clients’ cause. This article shall be applied without prejudice to freedom of expression as protected by the [Convention for the Protection of Human Rights and Fundamental Freedoms](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) and domestic law.
 
-- e. effectieve toegang kunnen hebben tot alle relevante materialen die in het bezit zijn van of onder controle staan van de bevoegde overheidsorganen en rechterlijke instanties zonder onnodige vertraging en beperkingen wanneer zij optreden namens hun cliënten;
+##### Article 7. Freedom of expression
 
-- f. daadwerkelijk toegang kunnen hebben tot en communiceren met een gerecht of een ander soortgelijk orgaan waarvoor zij bevoegd zijn te verschijnen;
+1. Parties shall ensure the right of lawyers to inform the public about matters relating to the cases of their clients, subject only to restrictions prescribed by law and that arise from professional responsibilities, the requirements of the administration of justice and respect for private life, and that are necessary in a democratic society.
 
-- g. namens hun cliënten verzoeken of moties kunnen indienen, onder meer met betrekking tot de wraking van een rechter, officier van justitie of lid van een orgaan dat in een bepaalde zaak uitspraak moet doen en met betrekking tot het verloop van de procedure;
+2. Parties shall ensure the right of lawyers, individually and collectively, and of professional associations to promote the rule of law and adherence to it, to take part in public discussion on the substance, interpretation and application of existing and proposed legal provisions, judicial decisions, the administration of and access to justice and the promotion and protection of human rights, as well as to make proposals for reforms concerning these matters.
 
-- h. daadwerkelijk kunnen deelnemen aan alle procedures waarin zij namens hun cliënten optreden;
+##### Article 8. Discipline
 
-- i. het publiek kunnen informeren over hun diensten.
+1. Parties shall ensure that the grounds for disciplinary action against lawyers are based exclusively on professional standards of conduct which are prescribed by law and are themselves consistent with the rights and freedoms in the [Convention for the Protection of Human Rights and Fundamental Freedoms](https://wetten.overheid.nl/jci1.3:c:BWBV0001000).
 
-2. De partijen waarborgen dat advocaten niet civiel- of strafrechtelijk aansprakelijk zijn voor mondelinge en schriftelijke verklaringen die te goeder trouw en zorgvuldig zijn afgelegd bij het voeren van alle procedures namens hun cliënten.
+2. Parties shall ensure that disciplinary proceedings against lawyers are:
 
-3. De partijen waarborgen dat advocaten:
+- a) brought before:
 
-- a. hun cliënten of potentiële cliënten kunnen voorzien van juridisch advies in privé wanneer zij hen persoonlijk ontmoeten;
+   - (i) an independent and impartial disciplinary committee established by a professional association,
 
-- b. vertrouwelijk kunnen communiceren met hun cliënten of potentiële cliënten, op welke wijze en in welke vorm dan ook;
+   - (ii) an independent and impartial authority, or
 
-- c. niet verplicht zijn informatie of materiaal dat direct of indirect van cliënten of potentiële cliënten is ontvangen, alsmede eventuele uitwisselingen met hen, en materiaal dat is opgesteld in verband met die uitwisselingen of het voeren van gerechtelijke procedures namens hen, openbaar te maken, over te dragen of te bewijzen.
+   - (iii) an independent and impartial court or tribunal established by law;
 
-4. Aan de uitoefening van de in het eerste, tweede en derde lid van dit artikel vastgestelde rechten mogen geen andere beperkingen worden gesteld dan die welke bij wet zijn voorgeschreven en die in een democratische samenleving noodzakelijk zijn. Dergelijke beperkingen omvatten, maar zijn niet beperkt tot, vereisten om de beschikbaarheid van juridisch advies, bijstand en vertegenwoordiging voor iedereen te waarborgen.
+- b) processed expeditiously;
 
-5. De partijen waarborgen dat advocaten geen nadelige gevolgen ondervinden als gevolg van identificatie met hun cliënten of de zaak van hun cliënten. Dit artikel wordt toegepast onverminderd de vrijheid van meningsuiting zoals beschermd door het [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) en het nationale recht.
+- c) conducted consistently with the requirements for a fair trial under [Article 6 of the Convention for the Protection of Human Rights and Fundamental Freedoms](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=6) and with the right to be advised, assisted or represented by a lawyer of their choice; and
 
-##### Artikel 7. Vrijheid van meningsuiting
+- d) subject to challenge by the lawyer concerned before an independent and impartial court or tribunal established by law.
 
-1. De partijen waarborgen het recht van advocaten om het publiek te informeren over aangelegenheden die verband houden met de zaken van hun cliënten, behoudens beperkingen die bij wet zijn voorgeschreven en die voortvloeien uit professionele verantwoordelijkheden, de vereisten van de rechtsbedeling en de eerbiediging van het privéleven, en die in een democratische samenleving noodzakelijk zijn.
+3. Parties shall ensure that any disciplinary sanctions imposed on lawyers respect the principles of legality, non-discrimination and proportionality. Any prohibition on the right to practise should only be imposed for the most serious breaches of professional standards.
 
-2. De partijen waarborgen het recht van advocaten, individueel en collectief, en van beroepsverenigingen om de rechtsstaat en de naleving ervan te bevorderen, deel te nemen aan openbare discussies over de inhoud, interpretatie en toepassing van bestaande en voorgestelde wettelijke bepalingen, rechterlijke beslissingen, de rechtsbedeling en toegang tot de rechter en de bevordering en bescherming van de mensenrechten, en om voorstellen voor hervormingen op dit gebied in te dienen.
+##### Article 9. Protective measures
 
-##### Artikel 8. Discipline
+1. Parties shall ensure, subject to restrictions that are prescribed by law and are necessary in a democratic society for preventing, investigating or prosecuting crime or for protecting the rights of others, that lawyers:
 
-1. De partijen waarborgen dat de gronden voor disciplinaire maatregelen tegen advocaten uitsluitend gebaseerd zijn op bij wet voorgeschreven professionele gedragsnormen die zelf in overeenstemming zijn met de rechten en vrijheden in het [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000).
+- a) have access to a lawyer of their choice in the event of being deprived of their liberty;
 
-2. De partijen waarborgen dat tuchtprocedures tegen advocaten:
+- b) can inform a representative of their professional association, without undue delay, about their deprivation of liberty, the legal basis for it and the place where they are held;
 
-- a. worden voorgelegd aan:
+- c) have an independent lawyer or a representative of their professional association present during: except where there will be no examination of the documents or data by those conducting the search or seizure;
 
-- i. een onafhankelijke en onpartijdige tuchtcommissie, ingesteld door een beroepsvereniging;
+   - (i) any search conducted as part of a civil, criminal or administrative investigation or process of either themselves or any premises, vehicles or devices used by them for their professional activities; or
 
-- ii. een onafhankelijke en onpartijdige autoriteit, of
+   - (ii) the seizure or copying of documents, any other data and any kind of equipment used by them for their professional activities;
 
-- iii. een onafhankelijk en onpartijdig gerecht of tribunaal dat bij wet is ingesteld;
+- d) are informed about their rights in sub-paragraphs a, b, and c of this paragraph when being deprived of liberty, and before being subject to searches or the seizure or copying of documents.
 
-- b. met spoed worden behandeld;
+2. Parties shall ensure that appropriate safeguards are in place and observed when inspections or other measures are taken pursuant to the supervision of the profession.
 
-- c. worden uitgevoerd in overeenstemming met de vereisten voor een eerlijk proces uit hoofde van [artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=6) en met het recht om te worden geadviseerd, bijgestaan of vertegenwoordigd door een advocaat van hun keuze; en
+3. Parties shall ensure that professional associations are able, subject to restrictions that are prescribed by law and are necessary in a democratic society for preventing, investigating and prosecuting crime or for protecting the rights of others, to safeguard the rights set forth in this Convention, including by:
 
-- d. door de betrokken advocaat kunnen worden aangevochten bij een onafhankelijk en onpartijdig gerecht of tribunaal dat bij wet is ingesteld.
+- a) having, through their representatives, effective access to lawyers deprived of their liberty, if the lawyers concerned so request;
 
-3. Partijen waarborgen dat alle disciplinaire sancties die aan advocaten worden opgelegd in overeenstemming zijn met de beginselen van legaliteit, non-discriminatie en evenredigheid. Een verbod op het recht op uitoefening van het beroep mag alleen worden opgelegd voor de ernstigste inbreuken op de beroepsnormen.
+- b) being informed without undue delay about instances, of which law-enforcement authorities are aware, of lawyers being assaulted or killed where there are reasons to believe that this is on account of their professional activities and these instances have not otherwise been made public and where lawyers are not in a position to inform them themselves;
 
-##### Artikel 9. Beschermingsmaatregelen
+- c) having the possibility of attending hearings in any proceedings brought against lawyers where there is reason to believe that this is on account of their professional activities.
 
-1. De partijen waarborgen, behoudens de beperkingen die bij wet zijn voorgeschreven en in een democratische samenleving noodzakelijk zijn voor het voorkomen, onderzoeken of vervolgen van misdrijven of voor de bescherming van de rechten van anderen, dat advocaten:
+4. Parties:
 
-- a. toegang hebben tot een advocaat van hun keuze in het geval van vrijheidsontneming;
+- a) shall ensure that lawyers and their professional associations are able to carry out their professional activities and to exercise their rights under [Article 7](https://wetten.overheid.nl/BWBV0007100) of this Convention without being the target of:
 
-- b. een vertegenwoordiger van hun beroepsvereniging zonder onnodige vertraging in kennis kunnen stellen van hun vrijheidsontneming, de rechtsgrondslag daarvoor en de plaats waar zij worden vastgehouden;
+   - (i) any form of physical attack, threat, harassment or intimidation; or
 
-- c. een onafhankelijke advocaat of een vertegenwoordiger van hun beroepsvereniging aanwezig moeten hebben tijdens: behalve wanneer de documenten of gegevens niet worden onderzocht door degenen die de huiszoeking of inbeslagneming uitvoeren;
+   - (ii) any improper hindrance or interference;
 
-- i. elke huiszoeking die wordt uitgevoerd in het kader van een civiel, strafrechtelijk of bestuursrechtelijk onderzoek of procedure, van henzelf of van gebouwen, voertuigen of inrichtingen die door hen voor hun beroepsactiviteiten worden gebruikt; of
+- b) shall refrain from engaging in the conduct specified in sub-paragraph a of this paragraph; and
 
-- ii. het in beslag nemen of kopiëren van documenten, alle andere gegevens en alle soorten apparatuur die door hen worden gebruikt voor hun beroepsactiviteiten;
+- c) shall conduct an effective investigation into the occurrence of conduct specified by sub- paragraph a of this paragraph where there is reason to believe this may amount to a criminal offence.
 
-- d. worden geïnformeerd over hun rechten in de onderdelen a, b en c van dit lid wanneer hun vrijheid wordt ontnomen en voordat zij worden onderworpen aan huiszoekingen of inbeslagneming of kopiëren van documenten.
+5. Parties shall refrain from adopting any measures or endorsing any practices that would undermine the independence and self-governing nature of professional associations.
 
-2. De partijen waarborgen dat passende garanties aanwezig zijn en in acht worden genomen wanneer inspecties worden uitgevoerd of andere maatregelen worden genomen in het kader van het toezicht op het beroep.
+### CHAPTER III. MONITORING MECHANISM
 
-3. De partijen waarborgen dat beroepsverenigingen in staat zijn, behoudens beperkingen die bij wet zijn voorgeschreven en in een democratische samenleving noodzakelijk zijn voor het voorkomen, onderzoeken en vervolgen van criminaliteit of voor het beschermen van de rechten van anderen, de in dit Verdrag neergelegde rechten te waarborgen, onder meer door:
+##### Article 10. Group of Experts on the Protection of the Profession of Lawyer
 
-- a. via hun vertegenwoordigers daadwerkelijk toegang te hebben tot advocaten die van hun vrijheid zijn beroofd, indien de betrokken advocaten daarom verzoeken;
+1. The Group of Experts on the Protection of the Profession of Lawyer (hereinafter referred to as GRAVO) shall monitor the implementation of this Convention by the Parties.
 
-- b. zonder onnodige vertraging in kennis te worden gesteld van gevallen, waarvan de wetshandhavingsautoriteiten op de hoogte zijn, waarin advocaten worden aangevallen of gedood wanneer er redenen zijn om aan te nemen dat dit het gevolg is van hun beroepsactiviteiten en deze gevallen niet anderszins openbaar zijn gemaakt en wanneer advocaten niet in staat zijn hen zelf te informeren;
+2. GRAVO shall be composed of a minimum of eight members and a maximum of 12 members. Its members shall be elected by the Committee of the Parties, established by [Article 11](https://wetten.overheid.nl/BWBV0007100) of this Convention, from among candidates nominated by the Parties for a term of office of four years, renewable once, and chosen from among nationals of the Parties.
 
-- c. de mogelijkheid te hebben hoorzittingen bij te wonen in procedures tegen advocaten wanneer er redenen zijn om aan te nemen dat dit het gevolg is van hun beroepsactiviteiten.
+3. The initial election of eight members shall be held within a period of one year following the entry into force of this Convention. The election of four additional members shall be held following the 25th ratification or accession.
 
-4. De partijen
+4. The election of the members of GRAVO shall be based on the following principles:
 
-- a. waarborgen dat advocaten en hun beroepsverenigingen in staat zijn hun beroepsactiviteiten uit te oefenen en hun rechten uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=7&z=2025-05-13&g=2025-05-13) van dit Verdrag uit te oefenen zonder het doel te zijn van:
+- a) the members shall be chosen according to a transparent procedure from among persons of high moral character, having demonstrated professional experience in the areas covered by this Convention;
 
-- i. elke vorm van fysieke aanval, bedreiging, pesterijen of intimidatie; of
+- b) no two members of GRAVO may be nationals of the same State;
 
-- ii. elke ongepaste belemmering of inmenging;
+- c) the members should represent different legal systems;
 
-- b. onthouden zich van het verrichten van de in onderdeel a van dit lid omschreven gedragingen; en
+- d) the composition of GRAVO shall ensure a gender and geographical balance;
 
-- c. voeren een doeltreffend onderzoek uit naar het zich voordoen van gedragingen als bedoeld in onderdeel a van dit lid, indien er redenen zijn om aan te nemen dat dit een strafbaar feit kan vormen.
+- e) the members shall sit in their individual capacity and shall be independent and impartial in the exercise of their functions, and shall be available to carry out their duties in an effective manner.
 
-5. De partijen onthouden zich van het nemen van maatregelen of het onderschrijven van praktijken die de onafhankelijkheid en het zelfbestuur van beroepsverenigingen zouden ondermijnen.
+5. The election procedure of the members of GRAVO shall be determined by the Committee of Ministers of the Council of Europe, after consulting with and obtaining the unanimous consent of the Parties, within a period of six months following the entry into force of this Convention.
 
-### HOOFDSTUK III. TOEZICHTSMECHANISME
+6. GRAVO shall adopt its own rules of procedure.
 
-##### Artikel 10. Groep van deskundigen inzake de bescherming van het advocatenberoep
+7. Members of GRAVO, and other members of delegations carrying out the country visits as set forth in [Article 12](https://wetten.overheid.nl/BWBV0007100) of this Convention, shall enjoy the privileges and immunities established in the [appendix](https://wetten.overheid.nl/BWBV0007100) to this Convention.
 
-1. De Groep van deskundigen inzake de bescherming van het advocatenberoep (hierna te noemen GRAVO) houdt toezicht op de uitvoering van dit Verdrag door de partijen.
+##### Article 11. Committee of the Parties
 
-2. GRAVO bestaat uit ten minste acht leden en ten hoogste twaalf leden. Haar leden worden, voor een termijn van vier jaar die eenmaal kan worden verlengd, gekozen door het Comité van de Partijen, opgericht ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=III&artikel=11&z=2025-05-13&g=2025-05-13) van dit Verdrag, uit door de partijen voorgestelde kandidaten die zijn gekozen uit onderdanen van de partijen.
+1. The Committee of the Parties shall be composed of the representatives of the Parties to this Convention and the Parties shall endeavour to reach gender balance in its composition.
 
-3. De eerste verkiezing van acht leden geschiedt binnen een jaar na de inwerkingtreding van dit Verdrag. De verkiezing van vier aanvullende leden geschiedt na de 25e bekrachtiging of toetreding.
+2. The Committee of the Parties shall be convened by the Secretary General of the Council of Europe. Its first meeting shall be held within a period of one year following the entry into force of this Convention. It shall subsequently meet whenever one third of the Parties, the President of the Committee of the Parties or the Secretary General so requests.
 
-4. De keuze van de leden van GRAVO is op de volgende beginselen gebaseerd:
+3. The Committee of the Parties shall adopt its own rules of procedure.
 
-- a. de leden worden volgens een transparante procedure gekozen uit personen van onbesproken gedrag, die blijk hebben gegeven van beroepservaring op de door dit Verdrag bestreken gebieden;
+##### Article 12. Procedure
 
-- b. in GRAVO mogen geen twee onderdanen van dezelfde staat zitting nemen;
+1. Evaluation procedures shall be divided into rounds. GRAVO shall define the scope and the appropriate means to carry out this procedure, such as questionnaires which may serve as a basis for the evaluation procedure of the implementation by the Parties.
 
-- c. de leden moeten verschillende rechtsstelsels vertegenwoordigen;
+2. GRAVO shall receive information on the implementation of the Convention from the Party concerned. In addition, it may receive information on the implementation of the Convention from non-governmental organisations and civil society, professional associations, as well as from national institutions for the protection of human rights. GRAVO shall also take due consideration of information available from other Council of Europe instruments and bodies, as well as from other regional and international organisations, in areas falling within the scope of this Convention.
 
-- d. bij de samenstelling van GRAVO wordt gender- en geografisch evenwicht bewerkstelligd;
+3. GRAVO may organise country visits, in co-operation with the national authorities and, where necessary, with the assistance of independent national experts, if the information gained is insufficient and there are no other feasible ways of reliably gaining the information or in cases provided for in [Article 13, paragraph 2](https://wetten.overheid.nl/BWBV0007100), of this Convention. Visits shall be subsidiary and restricted to the areas where GRAVO decides the information is insufficient and to cases provided for in Article 13, paragraph 2, of this Convention.
 
-- e. de leden nemen op persoonlijke titel zitting, zijn onafhankelijk en onpartijdig bij de uitvoering van hun taken en zijn beschikbaar om hun taken op doeltreffende wijze uit te voeren.
+4. Visits shall be conducted by a delegation of GRAVO. During visits, the delegation may be assisted by specialists in specific fields. During visits, the delegation should:
 
-5. De procedure voor de verkiezing van leden van GRAVO wordt vastgesteld door het Comité van Ministers van de Raad van Europa na raadpleging en verkrijging van unanieme instemming van de partijen binnen zes maanden na de inwerkingtreding van dit Verdrag.
+- i) enjoy freedom of movement in the relevant jurisdiction;
 
-6. GRAVO stelt haar eigen reglement van orde vast.
+- ii) be able to have contact with State authorities;
 
-7. De leden van GRAVO en andere leden van delegaties die de bezoeken aan landen omschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=III&artikel=12&z=2025-05-13&g=2025-05-13) van dit Verdrag afleggen, genieten de voorrechten en immuniteiten vastgelegd in het aanhangsel bij dit Verdrag.
+- iii) not be prevented from meeting the persons they want to interview in private;
 
-##### Artikel 11. Comité van de Partijen
+- iv) have access to the material relevant to the country visit.
 
-1. Het Comité van de Partijen bestaat uit vertegenwoordigers van de partijen bij dit Verdrag en de partijen streven naar genderevenwicht in de samenstelling ervan.
+5. GRAVO shall prepare a draft report containing its analysis concerning the implementation of the provisions on which the evaluation is based, as well as its suggestions and proposals concerning the way in which the Party concerned may deal with the problems which have been identified. The draft report shall be transmitted for comments to the Party undergoing the evaluation. Its comments shall be taken into account by GRAVO when adopting its report.
 
-2. Het Comité van de Partijen wordt bijeengeroepen door de Secretaris-Generaal van de Raad van Europa. Het komt voor de eerste keer bijeen binnen een jaar na de inwerkingtreding van dit Verdrag. Daarna komt het bijeen telkens wanneer een derde van de partijen, de Voorzitter van het Comité van de Partijen of de Secretaris-Generaal daarom verzoeken.
+6. On the basis of all the information received and the comments from the Party concerned, GRAVO shall adopt its report and conclusions regarding the measures taken by the Party to implement the provisions of this Convention. This report and the conclusions shall be sent to the Party concerned and to the Committee of the Parties. The report and conclusions of GRAVO shall be made public as from their adoption, together with any comments by the Party concerned.
 
-3. Het Comité van de Partijen stelt zijn eigen reglement van orde vast.
+7. Without prejudice to the procedure of paragraphs 1 to 6 of this article, the Committee of the Parties may adopt, on the basis of the report and conclusions of GRAVO, recommendations addressed to the Party concerned:
 
-##### Artikel 12. Procedure
+- a) regarding the measures to be taken to implement the conclusions of GRAVO, if necessary setting a date for submitting information on their implementation; and
 
-1. De evaluatieprocedure wordt verdeeld in ronden. GRAVO bepaalt de reikwijdte en de passende middelen voor de uitvoering van deze procedure, zoals vragenlijsten die als basis kunnen dienen voor de evaluatieprocedure van de uitvoering door de partijen.
+- b) aiming at promoting co-operation with this Party for the proper implementation of this Convention.
 
-2. GRAVO ontvangt van de betrokken partij informatie over de uitvoering van het Verdrag. Bovendien kan het informatie over de uitvoering van het Verdrag ontvangen van non-gouvernementele organisaties en uit het maatschappelijk middenveld, beroepsverenigingen, alsmede van nationale instellingen voor de bescherming van de mensenrechten. GRAVO houdt ook terdege rekening met informatie die beschikbaar is uit andere instrumenten en organen van de Raad van Europa, alsmede uit andere regionale en internationale organisaties, op gebieden die binnen het toepassingsgebied van dit Verdrag vallen.
+##### Article 13. Urgent procedure
 
-3. GRAVO kan landenbezoeken organiseren, in samenwerking met de nationale autoriteiten en, indien nodig, met de hulp van onafhankelijke nationale deskundigen, indien de verkregen informatie ontoereikend is en er geen andere haalbare manieren zijn om de informatie op betrouwbare wijze te verkrijgen of in de gevallen bedoeld in het [tweede lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=III&artikel=13&z=2025-05-13&g=2025-05-13), van dit Verdrag. Bezoeken zijn subsidiair en beperkt tot de gebieden waar GRAVO besluit dat de informatie ontoereikend is en tot de gevallen bedoeld in het tweede lid van artikel 13 van dit Verdrag.
+1. If GRAVO receives reliable information indicating a situation where problems require immediate attention to prevent or limit the scale or number of serious violations of the Convention, it may request from the Party concerned the urgent submission of a special report concerning measures taken to prevent such violations.
 
-4. Bezoeken worden uitgevoerd door een delegatie van GRAVO. Tijdens deze bezoeken kan de delegatie worden bijgestaan door specialisten op specifieke gebieden. Tijdens bezoeken moet de delegatie:
+2. Taking into account the information submitted by the Party concerned, as well as any other reliable information available to it, GRAVO may designate one or more of its members to conduct an inquiry and to report urgently to GRAVO. Where warranted and with the consent of the Party concerned, the inquiry may include a visit to its territory.
 
-- i. in het desbetreffende rechtsgebied vrijheid om te reizen genieten;
+3. After examining the findings of the inquiry referred to in paragraph 2 of this article, GRAVO shall transmit these findings to the Party concerned and, where appropriate, to the Committee of the Parties, the Committee of Ministers and the Parliamentary Assembly of the Council of Europe, together with any comments and recommendations. The report and conclusions of GRAVO shall be made public as from their adoption, together with comments by the Party concerned.
 
-- ii. in staat zijn contact te hebben met overheidsinstanties;
+##### Article 14. Opinions
 
-- iii. niet worden verhinderd de personen te ontmoeten die zij vertrouwelijk willen ondervragen;
+GRAVO may adopt, where appropriate, opinions on the implementation of this Convention.
 
-- iv. toegang hebben tot het materiaal dat relevant is voor het bezoek aan het land.
+##### Article 15. Relationship with other bodies
 
-5. GRAVO stelt een conceptrapport op met haar analyse van de uitvoering van de bepalingen waarop de evaluatie is gebaseerd, alsmede haar suggesties en voorstellen voor de wijze waarop de desbetreffende partij de vastgestelde problemen kan aanpakken. Het conceptrapport wordt voor commentaar verzonden naar de partij die het voorwerp is van de evaluatie. GRAVO neemt haar commentaar in aanmerking bij de vaststelling van haar rapport.
+The Committee of Ministers and the Parliamentary Assembly of the Council of Europe shall be kept periodically informed of the implementation of this Convention.
 
-6. Op grond van alle ontvangen informatie en het commentaar van de partijen neemt GRAVO haar rapport en conclusies aan betreffende de door de partij genoemde maatregelen tot uitvoering van de bepalingen van dit Verdrag. Dit rapport en de conclusies worden naar de desbetreffende partij en het Comité van de Partijen gezonden. Het rapport en de conclusies van GRAVO worden vanaf de aanneming ervan openbaar gemaakt, tezamen met het eventuele commentaar van de desbetreffende partij.
+### CHAPTER IV. RELATIONSHIP WITH OTHER INTERNATIONAL INSTRUMENTS
 
-7. Onverminderd de procedure van de leden 1 tot en met 6 van dit artikel kan het Comité van de Partijen, op basis van het verslag en de conclusies van GRAVO, tot de betrokken partij gerichte aanbevelingen aannemen:
+##### Article 16. Relationship with other international instruments
 
-- a. met betrekking tot de maatregelen die moeten worden genomen om uitvoering te geven aan de conclusies van GRAVO, waarbij zo nodig een datum wordt vastgesteld voor het indienen van informatie over de uitvoering ervan; en
+1. This Convention shall not affect the rights and obligations arising from other international instruments to which Parties to this Convention are Parties or shall become Parties and which contain provisions on matters governed by this Convention and which ensure greater protection for the right of lawyers to practise their profession freely.
 
-- b. gericht op het bevorderen van de samenwerking met deze partij met het oog op de juiste uitvoering van dit Verdrag.
+2. The Parties to this Convention may conclude bilateral or multilateral agreements with one another on the matters dealt with in this Convention, for the purpose of supplementing or strengthening its provisions or facilitating the application of the principles embodied in it.
 
-##### Artikel 13. Spoedprocedure
+### CHAPTER V. FINAL CLAUSES
 
-1. Indien GRAVO betrouwbare informatie ontvangt die duidt op problemen die de onmiddellijke aandacht vergen teneinde ernstige schendingen van het Verdrag te voorkomen of de schaal of de frequentie ervan te beperken kan zij de betrokken partij verzoeken om met spoed een speciaal rapport te overleggen over de maatregelen die zijn getroffen om dergelijke schendingen te voorkomen.
+##### Article 17. Signature and entry into force
 
-2. Rekening houdend met de informatie overgelegd door de desbetreffende partij, alsmede andere betrouwbare informatie waarover zij beschikt, kan GRAVO een of meer van haar leden aanwijzen om een onderzoek uit te voeren en spoedig verslag uit te brengen aan GRAVO. Indien daar aanleiding toe is kan het onderzoek met de instemming van de desbetreffende partij een bezoek aan haar grondgebied omvatten.
+1. This Convention shall be open for signature by the member States of the Council of Europe, the non-member States that have participated in its elaboration and the European Union.
 
-3. Na bestudering van de uitkomsten van het onderzoek bedoeld in het tweede lid van dit artikel doet GRAVO deze, tezamen met eventuele commentaren en aanbevelingen, toekomen aan de desbetreffende partij en, indien relevant, aan het Comité van de Partijen en het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa. Het rapport en de conclusies van GRAVO worden vanaf de aanneming ervan openbaar gemaakt, tezamen met het commentaar van de desbetreffende partij.
+2. This Convention is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-##### Artikel 14. Aanbevelingen
+3. This Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date on which eight signatories, including at least six member States of the Council of Europe, have expressed their consent to be bound by the Convention in accordance with the provisions of the preceding paragraph.
 
-GRAVO kan indien passend aanbevelingen aannemen voor de uitvoering van dit Verdrag.
+4. In respect of any signatory which subsequently expresses its consent to be bound by it, this Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of its instrument of ratification, acceptance or approval.
 
-##### Artikel 15. Verhouding tot andere organen
+##### Article 18. Accession to the Convention
 
-Het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa worden regelmatig op de hoogte gesteld van de uitvoering van dit Verdrag.
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may, after consultation of the Parties to this Convention and obtaining their unanimous consent, invite any non-member State of the Council of Europe, which has not participated in the elaboration of the Convention, to accede to this Convention by a decision taken by the majority provided for in [Article 20.d of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) and by a unanimous vote of the representatives of the Contracting States entitled to sit on the Committee of Ministers.
 
-### HOOFDSTUK IV. VERHOUDING TOT ANDERE INTERNATIONALE INSTRUMENTEN
+2. In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.
 
-##### Artikel 16. Verhouding tot andere internationale instrumenten
+3. Any Party which is not a member of the Council of Europe shall contribute to the funding of the activities of GRAVO and the Committee of the Parties according to the modalities established by the Committee of Ministers.
 
-1. Dit Verdrag laat de rechten en verplichtingen onverlet die voortvloeien uit andere internationale instrumenten waarbij de partijen bij dit Verdrag partij zijn of zullen worden en die bepalingen bevatten inzake door dit Verdrag geregelde aangelegenheden en die een grotere bescherming waarborgen van de rechten van advocaten voor de vrije uitoefening van hun beroep.
+##### Article 19. Territorial application
 
-2. De partijen bij dit Verdrag kunnen met elkaar bilaterale of multilaterale verdragen sluiten inzake de aangelegenheden die in dit Verdrag worden behandeld teneinde de bepalingen ervan aan te vullen of aan te scherpen of de toepassing van de erin vervatte beginselen te faciliteren.
+1. Any State or the European Union may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
 
-### HOOFDSTUK V. SLOTBEPALINGEN
+2. Any Party may, at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings. In respect of such territory, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of such declaration by the Secretary General.
 
-##### Artikel 17. Ondertekening en inwerkingtreding
+3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in this declaration, be withdrawn by a notification addressed to the Secretary General of the Council of Europe. This withdrawal shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.
 
-1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa, door staten die geen lid van de Raad zijn en die hebben deelgenomen aan de opstelling hiervan en door de Europese Unie.
+##### Article 20. Declarations
 
-2. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+1. Each Contracting Party to this Convention shall, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by means of a declaration addressed to the Secretary General of the Council of Europe, indicate the professional titles falling under the scope of this Convention for the purposes of [Article 3, sub-paragraph a](https://wetten.overheid.nl/BWBV0007100). This declaration may be modified at any later date and in the same manner. This declaration and any modification thereof shall not undermine the purpose of this Convention and the protection provided by it.
 
-3. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop acht ondertekenaars, waaronder ten minste zes lidstaten van de Raad van Europa, hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht overeenkomstig het bepaalde in het voorgaande lid.
+2. Each Contracting Party to this Convention may at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by means of a declaration addressed to the Secretary General of the Council of Europe, declare that the definition of “public authorities” includes one or more of the following bodies:
 
-4. Met betrekking tot iedere ondertekenaar die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
+- (i) legislative bodies as regards their other activities;
 
-##### Artikel 18. Toetreding tot het Verdrag
+- (ii) judicial authorities as regards their other activities;
 
-1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na raadpleging en verkrijging van unanieme instemming van de partijen bij dit Verdrag, elke staat die geen lid is van de Raad van Europa en die niet heeft deelgenomen aan de opstelling van het Verdrag, uitnodigen tot dit Verdrag toe te treden, door een door de meerderheid als voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) genomen besluit en door de unanieme stemming door de vertegenwoordigers van de verdragsluitende staten die recht hebben op een zetel in het Comité van Ministers.
+- (iii) natural or legal persons insofar as they perform public functions or operate with public funds, according to domestic law.
 
-2. Ten aanzien van elke toetredende staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+This declaration may be modified at any later date and in the same manner.
 
-3. Een partij die geen lidstaat van de Raad van Europa is draagt bij aan de financiering van de activiteiten van GRAVO en het Comité van de Partijen, op een door het Comité van Ministers vastgestelde wijze.
+##### Article 21. Reservations
 
-##### Artikel 19. Territoriale toepassing
+1. Any State or the European Union may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by a declaration addressed to the Secretary General of the Council of Europe, declare that it reserves the right not to apply or to apply only in specific cases or conditions the provisions laid down in [Article 6](https://wetten.overheid.nl/BWBV0007100) in respect of [Article 2, paragraph 3, sub-paragraph b](https://wetten.overheid.nl/BWBV0007100) of this Convention. No other reservation may be made in respect of the provisions of this Convention.
 
-1. Elke staat of de Europese Unie kan, op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden waarop dit Verdrag van toepassing is nader aanduiden.
+2. Any Party may wholly or partly withdraw a reservation by means of a declaration addressed to the Secretary General of the Council of Europe. This declaration shall become effective as from its date of receipt by the Secretary General.
 
-2. Elke partij kan op een later tijdstip door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa de toepassing van dit Verdrag uitbreiden tot elk ander grondgebied dat in de verklaring wordt genoemd en voor de internationale betrekkingen van welk grondgebied zij verantwoordelijk is of namens welk grondgebied zij bevoegd is verbintenissen aan te gaan. Ten aanzien van een dergelijk grondgebied treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van die verklaring door de Secretaris-Generaal.
+##### Article 22. Amendments to the Convention
 
-3. Elke krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring genoemd grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+1. Any proposal for an amendment to this Convention presented by a Party shall be communicated to the Secretary General of the Council of Europe and forwarded by him or her to the member States of the Council of Europe, the non-member States which have participated in its elaboration, any signatory State, any State Party, the European Union and any State invited to accede to this Convention in accordance with the provisions of [Article 18, paragraph 1](https://wetten.overheid.nl/BWBV0007100).
 
-##### Artikel 20. Verklaringen
+2. Any amendment proposed by a Party shall be communicated to the Committee of the Parties, which shall submit to the Committee of Ministers its opinion on that proposed amendment.
 
-1. Elke verdragsluitende partij bij het Verdrag geeft op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de beroepstitels aan die vallen onder de reikwijdte van dit Verdrag ten behoeve van de uitvoering van [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=I&artikel=3&z=2025-05-13&g=2025-05-13). Deze verklaring kan nadien te allen tijde op dezelfde wijze worden gewijzigd. Deze verklaring en eventuele wijzigingen daarvan doen geen afbreuk aan het doel van dit Verdrag en de door dit Verdrag geboden bescherming.
+3. The Committee of Ministers shall consider the proposed amendment and the opinion submitted by the Committee of the Parties and may, following consultation with the non-member States Parties to this Convention, adopt this amendment.
 
-2. Elke verdragsluitende partij kan, op het tijdstip van ondertekening of bij het nederleggen van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, bij een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa verklaren dat de begripsomschrijving „overheidsorganen” tevens op een of meer van de volgende entiteiten van toepassing is:
+4. The text of any amendment adopted by the Committee of Ministers in accordance with paragraph 3 of this article shall be forwarded to the Parties for acceptance.
 
-- i. wetgevende instanties wat betreft hun overige werkzaamheden;
+5. Any amendment adopted in accordance with paragraph 3 of this article shall enter into force on the first day of the month following the expiration of a period of one month after the date on which all Parties have informed the Secretary General that they have accepted it.
 
-- ii. gerechtelijke autoriteiten wat betreft hun overige werkzaamheden;
+##### Article 23. Denunciation
 
-- iii. natuurlijke personen of rechtspersonen voor zover zij een publieke taak vervullen of uit de publieke middelen worden gefinancierd, overeenkomstig het nationale recht.
+1. Any Party may, at any time, denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
 
-Deze verklaring kan nadien te allen tijde op dezelfde wijze worden gewijzigd.
+2. Such denunciation shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of the notification by the Secretary General.
 
-##### Artikel 21. Voorbehouden
+##### Article 24. Notifications
 
-1. Elke staat of de Europese Unie kan, op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa verklaren dat hij of zij zich het recht voorbehoudt de bepalingen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=6&z=2025-05-13&g=2025-05-13) met betrekking tot [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=I&artikel=2&z=2025-05-13&g=2025-05-13) van dit Verdrag niet toe te passen of slechts in specifieke gevallen of omstandigheden toe te passen. Ten aanzien van de bepalingen van dit Verdrag kunnen geen andere voorbehouden worden gemaakt.
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, the non-member States which have participated in its elaboration, any signatory State, any State Party, the European Union and any State invited to accede to this Convention in accordance with the provisions of [Article 18](https://wetten.overheid.nl/BWBV0007100) of:
 
-2. Elke partij kan een voorbehoud geheel of gedeeltelijk intrekken door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa. Een dergelijke verklaring wordt van kracht met ingang van de datum van ontvangst door de Secretaris-Generaal.
+- a) any signature;
 
-##### Artikel 22. Wijzigingen van het Verdrag
+- b) the deposit of any instrument of ratification, acceptance, approval or accession;
 
-1. Elk voorstel tot wijziging van dit Verdrag dat door een partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem of haar toegezonden aan de lidstaten van de Raad van Europa, de niet-lidstaten die hebben deelgenomen aan de opstelling, elke ondertekenende staat, elke staat die partij is, de Europese Unie en elke staat die overeenkomstig de bepalingen van het eerste lid van artikel 18, is uitgenodigd dit Verdrag te ondertekenen.
+- c) any date of entry into force of this Convention in accordance with [Articles 17](https://wetten.overheid.nl/BWBV0007100) and [18](https://wetten.overheid.nl/BWBV0007100);
 
-2. Elke door een partij voorgestelde wijziging wordt doorgegeven aan het Comité van de Partijen die zijn oordeel over die voorgestelde wijziging voorlegt aan het Comité van Ministers.
+- d) any amendment adopted in accordance with [Article 22](https://wetten.overheid.nl/BWBV0007100) and the date on which such an amendment enters into force;
 
-3. Het Comité van Ministers onderzoekt de voorgestelde wijziging en het oordeel ingediend door het Comité van de Partijen en kan, na raadpleging van de staten die geen partij zijn bij dit Verdrag, de wijziging aannemen.
+- e) any declaration made in pursuance of [Article 20](https://wetten.overheid.nl/BWBV0007100);
 
-4. De tekst van elke wijziging aangenomen door het Comité van Ministers overeenkomstig het derde lid van dit artikel, wordt toegezonden aan de partijen voor aanvaarding.
+- f) any reservation and withdrawal of reservation made in pursuance of [Article 21](https://wetten.overheid.nl/BWBV0007100);
 
-5. Iedere overeenkomstig het derde lid van dit artikel aangenomen wijziging treedt in werking op de eerste dag van de maand na het verstrijken van een tijdvak van een maand na de datum waarop alle partijen de Secretaris-Generaal hebben medegedeeld dat zij haar hebben aanvaard.
+- g) any denunciation made in pursuance of [Article 23](https://wetten.overheid.nl/BWBV0007100);
 
-##### Artikel 23. Opzegging
-
-1. Elke partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
-
-2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
-
-##### Artikel 24. Kennisgevingen
-
-De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de niet-lidstaten die hebben deelgenomen aan de opstelling van dit Verdrag alsmede elke ondertekenende staat, elke staat die partij is, de Europese Unie en elke staat die is uitgenodigd tot dit Verdrag toe te treden, overeenkomstig de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=V&artikel=18&z=2025-05-13&g=2025-05-13), in kennis van:
-
-- a. elke ondertekening;
-
-- b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- c. elke datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=V&artikel=17&z=2025-05-13&g=2025-05-13) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=V&artikel=18&z=2025-05-13&g=2025-05-13);
-
-- d. elke wijziging die overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=V&artikel=22&z=2025-05-13&g=2025-05-13) is aangenomen en de datum waarop een dergelijke wijziging in werking treedt;
-
-- e. elke uit hoofde van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=V&artikel=20&z=2025-05-13&g=2025-05-13) gedane verklaring;
-
-- f. elk voorbehoud en elke intrekking van voorbehouden gemaakt ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=V&artikel=21&z=2025-05-13&g=2025-05-13);
-
-- g. elke opzegging uit hoofde van de bepalingen van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=V&artikel=23&z=2025-05-13&g=2025-05-13);
-
-- h. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.
+- h) any other act, notification or communication relating to this Convention.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

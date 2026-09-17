@@ -9,7 +9,7 @@ laatste_update: 1913-01-01
 status: geldig
 toestand: 1913-01-01
 bron: "https://wetten.overheid.nl/BWBR0001887"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 30 december 1912, tot het verleenen van vrijdom van grondbelasting en van personeele belasting voor het Vredespaleis te 's-Gravenhage

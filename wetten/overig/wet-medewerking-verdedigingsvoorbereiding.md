@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0001995"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 24 juni 1939, houdende regelen met betrekking tot de medewerking van alle personen en lichamen aan de voorbereiding van de voorziening in geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden in de behoeften van volkshuishouding en landsverdediging, zoomede aan de voorbereiding van de financiering dier voorziening

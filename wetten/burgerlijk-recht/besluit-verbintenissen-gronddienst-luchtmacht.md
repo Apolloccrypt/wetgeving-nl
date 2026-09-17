@@ -9,7 +9,7 @@ laatste_update: 1960-01-01
 status: geldig
 toestand: 1960-01-01
 bron: "https://wetten.overheid.nl/BWBR0002158"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 10 november 1954, houdende regelen met betrekking tot verbintenissen van reserve-personeel bij de gronddienst van de Koninklijke Luchtmacht

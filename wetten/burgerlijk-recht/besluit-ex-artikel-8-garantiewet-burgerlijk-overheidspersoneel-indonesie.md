@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0002110"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 26 mei 1953, tot vaststelling van een nieuwe algemene maatregel van bestuur als bedoeld in artikel 8 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. K 178)

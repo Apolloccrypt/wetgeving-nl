@@ -9,7 +9,7 @@ laatste_update: 1952-11-01
 status: geldig
 toestand: 1952-11-01
 bron: "https://wetten.overheid.nl/BWBR0002100"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 14 oktober 1952, houdende wijziging van de taak van de Departementen van Economische Zaken en van Buitenlandse Zaken

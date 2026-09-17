@@ -9,7 +9,7 @@ laatste_update: 1945-11-17
 status: geldig
 toestand: 1945-11-17
 bron: "https://wetten.overheid.nl/BWBR0002016"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 14 november 1945, houdende machtiging tot het vestigen van schuldverplichtingen ten laste van het Rijk

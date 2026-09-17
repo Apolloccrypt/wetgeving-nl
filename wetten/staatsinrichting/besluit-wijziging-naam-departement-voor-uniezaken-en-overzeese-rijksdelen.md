@@ -9,7 +9,7 @@ laatste_update: 1953-01-01
 status: geldig
 toestand: 1953-01-01
 bron: "https://wetten.overheid.nl/BWBR0002102"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 7 november 1952, houdende wijziging van de naam van het Departement voor Uniezaken en Overzeese Rijksdelen in die van Departement van Overzeese Rijksdelen en overdracht van een gedeelte van de taak van dit Departement aan andere Departementen

@@ -8,7 +8,7 @@ laatste_update: 1963-06-05
 status: geldig
 toestand: 1963-06-05
 bron: "https://wetten.overheid.nl/BWBR0002411"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Beschikking pensioenvervangende uitkeringen Ambonezen

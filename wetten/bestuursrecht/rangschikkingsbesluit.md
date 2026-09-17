@@ -9,7 +9,7 @@ laatste_update: 1960-09-01
 status: geldig
 toestand: 1960-09-01
 bron: "https://wetten.overheid.nl/BWBR0002345"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 5 augustus 1960, houdende regelen inzake het opnieuw rangschikken en opnieuw vaststellen van de ouderdom in rang van beroepsmilitairen beneden de rang van tweede-luitenant, die behoren tot de Koninklijke Luchtmacht

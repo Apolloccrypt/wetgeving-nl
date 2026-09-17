@@ -9,7 +9,7 @@ laatste_update: 1953-08-19
 status: geldig
 toestand: 1953-08-19
 bron: "https://wetten.overheid.nl/BWBR0002116"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 30 juli 1953, houdende een regeling met betrekking tot de toekenning van vergoedingen aan publiekrechtelijke en met een publiekrechtelijk lichaam gelijkgestelde lichamen terzake van schaden tengevolge van de op 31 januari/1 februari 1953 plaats gehad hebbende stormvloed

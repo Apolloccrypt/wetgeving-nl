@@ -9,7 +9,7 @@ laatste_update: 1960-07-01
 status: geldig
 toestand: 1960-07-01
 bron: "https://wetten.overheid.nl/BWBR0002337"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 26 februari 1960, houdende uitvoering van artikel 27, lid 2, Wet administratieve rechtspraak bedrijfsorganisatie

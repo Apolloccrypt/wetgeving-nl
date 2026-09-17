@@ -9,7 +9,7 @@ laatste_update: 1955-04-08
 status: geldig
 toestand: 1955-04-08
 bron: "https://wetten.overheid.nl/BWBR0002174"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 18 maart 1955, houdende regeling voor het voortbestaan van het Pensioenfonds voor de vaste onderwijzers van het Koninklijk Conservatorium voor Muziek

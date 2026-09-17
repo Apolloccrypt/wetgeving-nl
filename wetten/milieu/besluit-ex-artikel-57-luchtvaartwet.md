@@ -9,7 +9,7 @@ laatste_update: 1959-10-01
 status: geldig
 toestand: 1959-10-01
 bron: "https://wetten.overheid.nl/BWBR0002330"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 2 oktober 1959, houdende bepaling, dat de Luchtvaartwet (Stb. 1958, 47), ondanks het bestaande oorlogsgevaar, geldt ten aanzien van militaire luchtvaartuigen en de leden hunner bemanning, alsmede ten aanzien van militaire luchtvaartterreinen

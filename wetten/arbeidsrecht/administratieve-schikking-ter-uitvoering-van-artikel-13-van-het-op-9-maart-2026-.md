@@ -2,23 +2,17 @@
 title: "Administratieve Schikking ter uitvoering van artikel 13 van het op 9 maart 2026 te Brussel gesloten Benelux-Verdrag ter verbetering en versterking van de grensoverschrijdende samenwerking op het gebied van de bestrijding van sociale fraude en onjuistheden in de sociale zekerheid, de bescherming van de gezondheid en de veiligheid op het werk en van fatsoenlijke arbeidsvoorwaarden"
 identifier: "BWBV0007153"
 categorie: "Arbeidsrecht"
-publicatiedatum: 2026-03-09
-laatste_update: 2026-06-02
+soort: "verdrag"
+laatste_update: 2026-03-09
 status: geldig
+toestand: 2026-03-09
 bron: "https://wetten.overheid.nl/BWBV0007153"
+opgehaald: 2026-09-17
 ---
 
 # Administratieve Schikking ter uitvoering van artikel 13 van het op 9 maart 2026 te Brussel gesloten Benelux-Verdrag ter verbetering en versterking van de grensoverschrijdende samenwerking op het gebied van de bestrijding van sociale fraude en onjuistheden in de sociale zekerheid, de bescherming van de gezondheid en de veiligheid op het werk en van fatsoenlijke arbeidsvoorwaarden
 
-Het Koninkrijk België en het Koninkrijk der Nederlanden,
-
-hierna genoemd „de Verdragsluitende Partijen”,
-
-Gelet op artikel 13, lid 4, en artikel 17 van het Benelux-Verdrag van 9 maart 2026 ter verbetering en versterking van de grensoverschrijdende samenwerking op het gebied van de bestrijding van sociale fraude en onjuistheden in de sociale zekerheid, de bescherming van de gezondheid en de veiligheid op het werk en van fatsoenlijke arbeidsvoorwaarden (hierna genoemd: „het Verdrag”),
-
-Overwegende dat het Koninkrijk België en het Koninkrijk der Nederlanden uitvoering wensen te geven aan artikel 13 van het Verdrag, teneinde ervoor te zorgen dat het orgaan dat bevoegd is voor de toekenning of voortzetting van een uitkering of socialezekerheidsrecht administratieve controles kan verrichten door het afnemen van interviews met de aanvrager of rechthebbende in het woon- of verblijfland,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België en het Koninkrijk der Nederlanden, hierna genoemd „de Verdragsluitende Partijen”, Gelet op artikel 13, lid 4, en artikel 17 van het Benelux-Verdrag van 9 maart 2026 ter verbetering en versterking van de grensoverschrijdende samenwerking op het gebied van de bestrijding van sociale fraude en onjuistheden in de sociale zekerheid, de bescherming van de gezondheid en de veiligheid op het werk en van fatsoenlijke arbeidsvoorwaarden (hierna genoemd: „het Verdrag”), Overwegende dat het Koninkrijk België en het Koninkrijk der Nederlanden uitvoering wensen te geven aan artikel 13 van het Verdrag, teneinde ervoor te zorgen dat het orgaan dat bevoegd is voor de toekenning of voortzetting van een uitkering of socialezekerheidsrecht administratieve controles kan verrichten door het afnemen van interviews met de aanvrager of rechthebbende in het woon- of verblijfland, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Definities
 
@@ -38,19 +32,19 @@ De voor de uitvoering van deze Administratieve Schikking bevoegde organen zijn:
 
 - 1. Voor het Koninkrijk België:
 
-  - a. Voor ziekte- en invaliditeitsuitkeringen: het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering (RIZIV) of zijn rechtsopvolger;
+   - a. Voor ziekte- en invaliditeitsuitkeringen: het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering (RIZIV) of zijn rechtsopvolger;
 
-  - b. Voor de rustpensioenen en de overlevingspensioenen van de stelsels voor werknemers en voor de openbare sector: de Federale Pensioendienst (FPD) of zijn rechtsopvolger;
+   - b. Voor de rustpensioenen en de overlevingspensioenen van de stelsels voor werknemers en voor de openbare sector: de Federale Pensioendienst (FPD) of zijn rechtsopvolger;
 
-  - c. Voor de rustpensioenen en de overlevingspensioenen van het stelsel voor zelfstandigen: het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen (RSVZ) of zijn rechtsopvolger;
+   - c. Voor de rustpensioenen en de overlevingspensioenen van het stelsel voor zelfstandigen: het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen (RSVZ) of zijn rechtsopvolger;
 
-  - d. Voor werkloosheidsuitkeringen: de Rijksdienst voor Arbeidsvoorziening (RVA) of zijn rechtsopvolger.
+   - d. Voor werkloosheidsuitkeringen: de Rijksdienst voor Arbeidsvoorziening (RVA) of zijn rechtsopvolger.
 
 - 2. Voor het Koninkrijk der Nederlanden:
 
-  - a. Voor ziekte-, invaliditeits- en werkloosheidsuitkeringen: het Uitvoeringsinstituut werknemersverzekeringen (UWV) of zijn rechtsopvolger;
+   - a. Voor ziekte-, invaliditeits- en werkloosheidsuitkeringen: het Uitvoeringsinstituut werknemersverzekeringen (UWV) of zijn rechtsopvolger;
 
-  - b. Voor ouderdomspensioenen en uitkeringen aan nagelaten betrekkingen: de Sociale verzekeringsbank (SVB) of haar rechtsopvolger.
+   - b. Voor ouderdomspensioenen en uitkeringen aan nagelaten betrekkingen: de Sociale verzekeringsbank (SVB) of haar rechtsopvolger.
 
 ##### Artikel 3. Interviews met aanvragers van en rechthebbenden op een socialezekerheidsuitkering in het woon- of verblijfland van de aanvrager of rechthebbende
 
@@ -88,12 +82,12 @@ De voor de uitvoering van deze Administratieve Schikking bevoegde organen zijn:
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze Administratieve Schikking hebben ondertekend.
 
-GEDAAN te Brussel, op 9 maart 2026, in twee exemplaren, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
+GEDAAN te Brussel, op 9 maart 2026, in twee exemplaren, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk België**
+*Voor het Koninkrijk België*
 
 F. VANDENBROUCKE
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 J.A. VIJLBRIEF

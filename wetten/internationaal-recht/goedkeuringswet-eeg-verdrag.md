@@ -9,7 +9,7 @@ laatste_update: 1957-12-14
 status: geldig
 toestand: 1957-12-14
 bron: "https://wetten.overheid.nl/BWBR0002257"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 5 december 1957, houdende goedkeuring van het Verdrag tot oprichting van de Europese Economische Gemeenschap, met Bijlagen, Protocollen en Overeenkomst

@@ -1,50 +1,19 @@
 ---
 title: "Gastlandverdrag tussen het Koninkrijk der Nederlanden en het Ontwikkelingsprogramma van de Verenigde Naties betreffende het kantoor van het Ontwikkelingsprogramma van de Verenigde Naties in ‘s-Gravenhage"
 identifier: "BWBV0007090"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-02-05"
-last_updated: "2025-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007090"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005700913"
-version_id: "10006296642"
-internal_id: "C10010180271"
-label_id: "10005682624"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007090/2025-02-05/0"
-intitule_bron: "Trb.2025-11"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-02-14"
-intitule_in_force: "2025-02-14"
-intitule_status: "goed"
-original_publication: "Trb.2025-11"
-original_published_date: "2025-02-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2025-11"
-entry_into_force_date: "2025-02-05"
-jci_1_3: "jci1.3:c:BWBV0007090&z=2025-02-05&g=2025-02-05"
-jci_1_0: "1.0:c:BWBV0007090&g=2025-02-05"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-02-05"
+publicatiedatum: 2025-02-05
+laatste_update: 2025-02-05
+status: geldig
+toestand: 2025-02-05
+bron: "https://wetten.overheid.nl/BWBV0007090"
+opgehaald: 2026-09-17
 ---
+
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en het Ontwikkelingsprogramma van de Verenigde Naties betreffende het kantoor van het Ontwikkelingsprogramma van de Verenigde Naties in ‘s-Gravenhage
 
-The Kingdom of the Netherlands
-
-and
-
-The United Nations Development Programme,
-
-Whereas the United Nations Development Programme (UNDP) wishes to establish an Office in The Hague to facilitate the implementation of its mandate;
-
-Whereas the Kingdom of the Netherlands wishes to facilitate the work of UNDP in this regard;
-
-Desiring to lay down conditions concerning the privileges, immunities, facilities and services of and related to the UNDP Office in The Hague, as are necessary for the fulfilment of the purposes of the Office;
-
-The Kingdom of the Netherlands and UNDP have agreed as follows:
+*The Kingdom of the Netherlands and The United Nations Development Programme, Whereas the United Nations Development Programme (UNDP) wishes to establish an Office in The Hague to facilitate the implementation of its mandate; Whereas the Kingdom of the Netherlands wishes to facilitate the work of UNDP in this regard; Desiring to lay down conditions concerning the privileges, immunities, facilities and services of and related to the UNDP Office in The Hague, as are necessary for the fulfilment of the purposes of the Office; The Kingdom of the Netherlands and UNDP have agreed as follows:*
 
 ## PART I. GENERAL PROVISIONS
 
@@ -52,45 +21,45 @@ The Kingdom of the Netherlands and UNDP have agreed as follows:
 
 For the purpose of this Agreement:
 
-- a). “Agreement” means this Host State Agreement between the Kingdom of the Netherlands and UNDP;
+- a) “Agreement” means this Host State Agreement between the Kingdom of the Netherlands and UNDP;
 
-- b). “host State” means the Kingdom of the Netherlands;
+- b) “host State” means the Kingdom of the Netherlands;
 
-- c). “Office” means UNDP’s office in The Hague;
+- c) “Office” means UNDP’s office in The Hague;
 
-- d). “Parties” means UNDP and the host State;
+- d) “Parties” means UNDP and the host State;
 
-- e). “General Convention” means the [Convention on the Privileges and Immunities of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) adopted by the General Assembly of the United Nations on 13 February 1946, to which the Kingdom of the Netherlands acceded on 19 April 1948;
+- e) “General Convention” means the [Convention on the Privileges and Immunities of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0005561) adopted by the General Assembly of the United Nations on 13 February 1946, to which the Kingdom of the Netherlands acceded on 19 April 1948;
 
-- f). “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961, to which the Kingdom of the Netherlands acceded on 7 September 1984;
+- f) “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961, to which the Kingdom of the Netherlands acceded on 7 September 1984;
 
-- g). “Head of the Office” means the person appointed by UNDP to head the Office;
+- g) “Head of the Office” means the person appointed by UNDP to head the Office;
 
-- h). “officials of the Office” means the Head of the Office and staff who are assigned by UNDP to serve as part of the Office;
+- h) “officials of the Office” means the Head of the Office and staff who are assigned by UNDP to serve as part of the Office;
 
-- i). “experts on mission” means persons, other than officials of the Office, who, on a temporary basis, perform missions for UNDP;
+- i) “experts on mission” means persons, other than officials of the Office, who, on a temporary basis, perform missions for UNDP;
 
-- j). “interns” means students and recent graduates (degree obtained within the last twelve (12) months) who have been accepted by UNDP into its internship programme for the purpose of performing certain tasks for the Office without receiving a salary from UNDP. An intern shall in no case fall under the definition of an official of the Office;
+- j) “interns” means students and recent graduates (degree obtained within the last twelve (12) months) who have been accepted by UNDP into its internship programme for the purpose of performing certain tasks for the Office without receiving a salary from UNDP. An intern shall in no case fall under the definition of an official of the Office;
 
-- k). “family members forming part of the household” means:
+- k) “family members forming part of the household” means:
 
-- •. spouses and registered partners of a staff member of the Office who is continuously living with the staff member;
+   - • spouses and registered partners of a staff member of the Office who is continuously living with the staff member;
 
-- •. children of the staff member under the age of 18;
+   - • children of the staff member under the age of 18;
 
-- •. children of the staff member up to and including the age of 24, provided that they are unmarried, financially dependent on the staff member and living continuously with the staff member during their posting in the host State; and
+   - • children of the staff member up to and including the age of 24, provided that they are unmarried, financially dependent on the staff member and living continuously with the staff member during their posting in the host State; and
 
-- •. any other member of the immediate family of the staff member of the Office as may be agreed upon between the host State and UNDP.
+   - • any other member of the immediate family of the staff member of the Office as may be agreed upon between the host State and UNDP.
 
-- l). “premises” means buildings, parts of buildings and areas, including installations and facilities made available to, maintained, occupied or used by the Office in the territory of the host State in consultation with the host State, in connection with its functions and purposes;
+- l) “premises” means buildings, parts of buildings and areas, including installations and facilities made available to, maintained, occupied or used by the Office in the territory of the host State in consultation with the host State, in connection with its functions and purposes;
 
-- m). “property” means, without prejudice to the [General Convention](onbekend), all property (be it material, real, or intellectual), assets, and funds belonging to the Office or held or administered by the Office in the territory of the host State in furtherance of its functions;
+- m) “property” means, without prejudice to the [General Convention](https://wetten.overheid.nl/BWBV0005561), all property (be it material, real, or intellectual), assets, and funds belonging to the Office or held or administered by the Office in the territory of the host State in furtherance of its functions;
 
-- n). “Ministry of Foreign Affairs” means the Ministry of Foreign Affairs of the host State;
+- n) “Ministry of Foreign Affairs” means the Ministry of Foreign Affairs of the host State;
 
-- o). “competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the host State;
+- o) “competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the host State;
 
-- p). “Secretary-General” means the Secretary-General of the United Nations.
+- p) “Secretary-General” means the Secretary-General of the United Nations.
 
 ##### Article 2. Establishment of the Office
 
@@ -100,7 +69,7 @@ For the purpose of this Agreement:
 
 ##### Article 3. Purpose and scope of this Agreement
 
-1. This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the Office in the host State. It shall, **inter alia**, create conditions conducive to the stability and independence of the Office and facilitate its smooth and efficient functioning.
+1. This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the Office in the host State. It shall, *inter alia*, create conditions conducive to the stability and independence of the Office and facilitate its smooth and efficient functioning.
 
 2. This Agreement does not set out the relations and modalities of assistance rendered by the United Nations or the Office to the host State as part of its mandate.
 
@@ -112,11 +81,11 @@ For the purpose of this Agreement:
 
 1. The Office shall possess full juridical personality in the host State. This shall, in particular, include the capacity:
 
-- a). to contract;
+- a) to contract;
 
-- b). to acquire and dispose of movable and immovable property; and
+- b) to acquire and dispose of movable and immovable property; and
 
-- c). to institute legal proceedings.
+- c) to institute legal proceedings.
 
 2. For the purpose of this Agreement, the Office shall be represented by the Head of the Office.
 
@@ -124,9 +93,9 @@ For the purpose of this Agreement:
 
 1. The Office shall enjoy, in the territory of the host State, such privileges, immunities and facilities as are necessary for the fulfilment of its purposes.
 
-2. The [General Convention](onbekend) shall apply to the Office and the property and archives of the Office. Furthermore, the Office shall enjoy the privileges, immunities and facilities set out in this Agreement.
+2. The [General Convention](https://wetten.overheid.nl/BWBV0005561) shall apply to the Office and the property and archives of the Office. Furthermore, the Office shall enjoy the privileges, immunities and facilities set out in this Agreement.
 
-3. The [General Convention](onbekend) apply to officials of the Office and experts on mission in the host State.
+3. The [General Convention](https://wetten.overheid.nl/BWBV0005561) apply to officials of the Office and experts on mission in the host State.
 
 ##### Article 6. Inviolability of the premises
 
@@ -154,7 +123,7 @@ For the purpose of this Agreement:
 
 1. The premises of the Office shall be under the control and authority of the Office, as provided for in this Agreement.
 
-2. Except as otherwise provided in this Agreement or the [General Convention](onbekend), the laws and regulations of the host State shall apply on the premises.
+2. Except as otherwise provided in this Agreement or the [General Convention](https://wetten.overheid.nl/BWBV0005561), the laws and regulations of the host State shall apply on the premises.
 
 3. The Office shall apply UNDP regulations, rules, policies and procedures as are necessary for the carrying out of its functions. No laws or regulations of the host State which are inconsistent with the rules and regulations of the United Nations under this paragraph shall, to the extent of such inconsistency, be applicable on the premises.
 
@@ -202,37 +171,37 @@ The archives of the Office, and all papers and documents in whatever form, and m
 
 Without being restricted by financial controls, regulations, notification requirements in respect of financial transactions, or moratoria of any kind, the Office:
 
-- a). may hold and use funds, gold or negotiable instruments of any kind and maintain and operate accounts in any currency and convert any currency held by it into any other currency;
+- a) may hold and use funds, gold or negotiable instruments of any kind and maintain and operate accounts in any currency and convert any currency held by it into any other currency;
 
-- b). shall be free to transfer its funds, gold or currency from one country to another or within the host State.; and
+- b) shall be free to transfer its funds, gold or currency from one country to another or within the host State.; and
 
-- c). may raise funds in any manner which it deems desirable.
+- c) may raise funds in any manner which it deems desirable.
 
 ##### Article 15. Exemption from taxes and duties for the Office and its property
 
 1. Within the scope of its official activities, the Office, its assets, income, and other property shall be exempt from:
 
-- a). all direct taxes, whether levied by national, provincial or local authorities, which includes, **inter alia**, corporation tax;
+- a) all direct taxes, whether levied by national, provincial or local authorities, which includes, *inter alia*, corporation tax;
 
-- b). import and export taxes and duties (belastingen bij invoer en uitvoer);
+- b) import and export taxes and duties (belastingen bij invoer en uitvoer);
 
-- c). motor vehicle tax (motorrijtuigenbelasting);
+- c) motor vehicle tax (motorrijtuigenbelasting);
 
-- d). tax on passenger motor vehicles and motorcycles (belasting van personenauto’s en motorrijwielen);
+- d) tax on passenger motor vehicles and motorcycles (belasting van personenauto’s en motorrijwielen);
 
-- e). value added tax (omzetbelasting) paid on goods and services supplied on a recurring basis or involving considerable expenditure;
+- e) value added tax (omzetbelasting) paid on goods and services supplied on a recurring basis or involving considerable expenditure;
 
-- f). excise duties (accijnzen) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels, as well as chemical supplies;
+- f) excise duties (accijnzen) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels, as well as chemical supplies;
 
-- g). real property transfer tax (overdrachtsbelasting);
+- g) real property transfer tax (overdrachtsbelasting);
 
-- h). insurance tax (assurantiebelasting);
+- h) insurance tax (assurantiebelasting);
 
-- i). energy tax (energiebelasting);
+- i) energy tax (energiebelasting);
 
-- j). tax on mains water (belasting op leidingwater); and
+- j) tax on mains water (belasting op leidingwater); and
 
-- k). any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, levied in the host State subsequent to the date of entry into force of this Agreement.
+- k) any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, levied in the host State subsequent to the date of entry into force of this Agreement.
 
 2. The exemptions provided for in paragraph 1, subparagraphs e) through k) of this Article may be granted by way of a refund. These exemptions shall be applied in accordance with the formal requirements of the host State. These requirements, however, shall not affect the general principles laid down in paragraph 1 of this Article.
 
@@ -248,29 +217,29 @@ The Office shall be exempt from all restrictions on imports and exports in respe
 
 ##### Article 17. Privileges, immunities and facilities of the Head of the Office
 
-1. The Head of the Office, together with family members forming part of their household who are not nationals or permanent residents of the host State, shall enjoy the privileges, immunities, exemptions and facilities accorded to heads of diplomatic missions in accordance with international law and in particular under the [General Convention](onbekend) and the provisions of the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345). The Head of Office shall, **inter alia**, enjoy:
+1. The Head of the Office, together with family members forming part of their household who are not nationals or permanent residents of the host State, shall enjoy the privileges, immunities, exemptions and facilities accorded to heads of diplomatic missions in accordance with international law and in particular under the [General Convention](https://wetten.overheid.nl/BWBV0005561) and the provisions of the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345). The Head of Office shall, *inter alia*, enjoy:
 
-- a). personal inviolability, including immunity from arrest or detention or any other restriction of their liberty and from seizure of their personal baggage;
+- a) personal inviolability, including immunity from arrest or detention or any other restriction of their liberty and from seizure of their personal baggage;
 
-- b). immunity from criminal, civil and administrative jurisdiction;
+- b) immunity from criminal, civil and administrative jurisdiction;
 
-- c). inviolability of all papers and documents in whatever form and materials;
+- c) inviolability of all papers and documents in whatever form and materials;
 
-- d). immunity from national service obligations;
+- d) immunity from national service obligations;
 
-- e). exemption from immigration restrictions and alien registration;
+- e) exemption from immigration restrictions and alien registration;
 
-- f). exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNDP;
+- f) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNDP;
 
-- g). the same privileges in respect of currency and exchange facilities as are accorded to diplomatic agents;
+- g) the same privileges in respect of currency and exchange facilities as are accorded to diplomatic agents;
 
-- h). the same immunities and facilities in respect of their personal baggage as are accorded to diplomatic agents;
+- h) the same immunities and facilities in respect of their personal baggage as are accorded to diplomatic agents;
 
-- i). the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State, and to re-export their furniture and effects free of duties and taxes to their country of destination upon separation from UNDP;
+- i) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State, and to re-export their furniture and effects free of duties and taxes to their country of destination upon separation from UNDP;
 
-- j). for the purpose of their communications with the Office, the right to receive and send papers in whatever form; and
+- j) for the purpose of their communications with the Office, the right to receive and send papers in whatever form; and
 
-- k). the same repatriation facilities in times of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+- k) the same repatriation facilities in times of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. The Head of the Office shall continue to be accorded immunity from legal process of every kind in respect of words which were spoken or written and all acts which were performed in their official capacity even after the Head of the Office ceased to perform their functions for the Office
 
@@ -280,15 +249,15 @@ The Office shall be exempt from all restrictions on imports and exports in respe
 
 5. Persons referred to in this Article who are nationals or permanent residents of the host State shall enjoy within the host State only the privileges, immunities and facilities under [Article V, Section 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=V) and [Article VII of the General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=VII), together with the following modifications and supplementary provisions:
 
-- a). immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Office;
+- a) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Office;
 
-- b). inviolability of all official papers and documents in whatever form and materials;
+- b) inviolability of all official papers and documents in whatever form and materials;
 
-- c). exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNDP;
+- c) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNDP;
 
-- d). for the purpose of their communications with the Office, the right to receive and send papers in whatever form; and
+- d) for the purpose of their communications with the Office, the right to receive and send papers in whatever form; and
 
-- e). the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.
+- e) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.
 
 6. Persons referred to in paragraph 5 of this Article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions for the Office.
 
@@ -296,25 +265,25 @@ The Office shall be exempt from all restrictions on imports and exports in respe
 
 1. Officials of the Office shall enjoy such privileges, immunities and facilities as are necessary for the independent performance of their functions. They shall enjoy privileges and immunities accorded to officials of the United Nations under [Articles V](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=V) and [VII of the General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=VII), including as modified and supplemented below:
 
-- a). immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Office;
+- a) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Office;
 
-- b). immunity from seizure and inspection of official baggage;
+- b) immunity from seizure and inspection of official baggage;
 
-- c). inviolability of all official papers and documents in whatever form and materials;
+- c) inviolability of all official papers and documents in whatever form and materials;
 
-- d). immunity from national service obligations;
+- d) immunity from national service obligations;
 
-- e). together with members of their family forming part of the household, exemption from immigration restrictions and alien registration;
+- e) together with members of their family forming part of the household, exemption from immigration restrictions and alien registration;
 
-- f). exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNDP;
+- f) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNDP;
 
-- g). the same privileges in respect of currency and exchange facilities as are accorded to the officials of comparable rank of diplomatic missions established in the host State;
+- g) the same privileges in respect of currency and exchange facilities as are accorded to the officials of comparable rank of diplomatic missions established in the host State;
 
-- h). exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the host State; an inspection in such a case shall be conducted in the presence of the official concerned;
+- h) exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the host State; an inspection in such a case shall be conducted in the presence of the official concerned;
 
-- i). together with members of their family forming part of the household, the same repatriation facilities in times of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345); and
+- i) together with members of their family forming part of the household, the same repatriation facilities in times of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345); and
 
-- j). the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State, and to re-export their furniture and effects free of duties and taxes to their country of destination upon separation from the Office.
+- j) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State, and to re-export their furniture and effects free of duties and taxes to their country of destination upon separation from the Office.
 
 2. In addition to the privileges, immunities and facilities listed in paragraph 1 of this Article, officials of the Office of P-5 level and above, together with members of their family forming part of the household who are not nationals or permanent residents of the host State, shall be accorded the same privileges, immunities and facilities as the host State accords to diplomatic agents of comparable rank of the diplomatic missions established in the host State in conformity with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
@@ -326,13 +295,13 @@ The Office shall be exempt from all restrictions on imports and exports in respe
 
 6. Persons referred to in this Article who are nationals or permanent residents of the host State shall enjoy only the privileges, immunities and facilities under [Article V, Section 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=V), and [Article VII of the General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=VII), including as modified and supplemented below:
 
-- a). immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Office;
+- a) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity, which immunity shall continue to be accorded even after they have ceased to perform their functions for the Office;
 
-- b). inviolability of all official papers and documents in whatever form and materials;
+- b) inviolability of all official papers and documents in whatever form and materials;
 
-- c). exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNDP; and
+- c) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with UNDP; and
 
-- d). the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.
+- d) the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.
 
 7. Persons referred to in paragraph 6 under this Article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions for the Office.
 
@@ -358,15 +327,15 @@ The Office shall be exempt from all restrictions on imports and exports in respe
 
 2. Without prejudice to the applicable rules of the European Union with regard to the rights of citizens of a member state of the European Union, the European Economic Area, or Switzerland or their family members, the Ministry of Foreign Affairs shall register interns for a maximum period of six (6) months, provided that the Office supplies the Ministry of Foreign Affairs with a declaration signed by them, accompanied by adequate proof, to the effect that:
 
-- a). the intern entered the host State in accordance with the applicable immigration procedures;
+- a) the intern entered the host State in accordance with the applicable immigration procedures;
 
-- b). the intern has sufficient financial means for living expenses and for repatriation, as well as sufficient medical insurance (including coverage of costs of hospitalization for at least the duration of the internship plus one (1) month) and third-party liability insurance, and shall not be a charge on the public purse in the host State;
+- b) the intern has sufficient financial means for living expenses and for repatriation, as well as sufficient medical insurance (including coverage of costs of hospitalization for at least the duration of the internship plus one (1) month) and third-party liability insurance, and shall not be a charge on the public purse in the host State;
 
-- c). the intern shall not engage in gainful employment in the host State during his or her internship other than as an intern for the Office;
+- c) the intern shall not engage in gainful employment in the host State during his or her internship other than as an intern for the Office;
 
-- d). the intern shall not bring any family members to reside with them in the host State other than in accordance with the applicable immigration procedures; and
+- d) the intern shall not bring any family members to reside with them in the host State other than in accordance with the applicable immigration procedures; and
 
-- e). the intern shall leave the host State within fourteen (14) days after the end of the internship, unless they are otherwise authorized to stay in the host State in accordance with the applicable immigration legislation.
+- e) the intern shall leave the host State within fourteen (14) days after the end of the internship, unless they are otherwise authorized to stay in the host State in accordance with the applicable immigration legislation.
 
 3. In exceptional circumstances, the maximum period of six (6) months mentioned in paragraph 2 of this Article may be extended once by a maximum period of six (6) months. However, the total period of the internship shall not exceed a period of one (1) year.
 
@@ -380,7 +349,7 @@ Personnel recruited locally and assigned to hourly rates by UNDP and not otherwi
 
 ##### Article 23. Participants in United Nations Meetings
 
-1. The host State, in accordance with relevant United Nations principles and practices and the present Agreement, shall respect the complete freedom of expression of all participants of meetings, seminars, training courses, symposiums, workshops and similar activities organized by the Office, to which the [General Convention](onbekend) shall be applicable.
+1. The host State, in accordance with relevant United Nations principles and practices and the present Agreement, shall respect the complete freedom of expression of all participants of meetings, seminars, training courses, symposiums, workshops and similar activities organized by the Office, to which the [General Convention](https://wetten.overheid.nl/BWBV0005561) shall be applicable.
 
 2. Representatives of Members of the United Nations invited to meetings, seminars, training courses, symposiums, workshops and similar activities organized by or on behalf of the Office shall, while exercising their functions, enjoy the privileges and immunities as set out in [Article IV of the General Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005561&artikel=IV).
 
@@ -400,7 +369,7 @@ Personnel recruited locally and assigned to hourly rates by UNDP and not otherwi
 
 ## PART V. COOPERATION BETWEEN THE OFFICE AND THE HOST STATE
 
-## SECTION 1. GENERAL
+### SECTION 1. GENERAL
 
 ##### Article 25. General cooperation between the Office and the host State
 
@@ -430,15 +399,15 @@ Personnel recruited locally and assigned to hourly rates by UNDP and not otherwi
 
 3. In order to facilitate the entry and stay of the persons mentioned below, the Office will promptly, and preferably no later than eight (8) days after the date of their first arrival in the host State, inform the host State of:
 
-- a). the presence of officials of the Office;
+- a) the presence of officials of the Office;
 
-- b). the presence of members of the family forming part of the household of officials of the Office;
+- b) the presence of members of the family forming part of the household of officials of the Office;
 
-- c). the presence of experts on mission;
+- c) the presence of experts on mission;
 
-- d). the presence of interns;
+- d) the presence of interns;
 
-- e). the date of the arrival of the persons referred to in subparagraphs (a), (b), (c) and (d) of this paragraph.
+- e) the date of the arrival of the persons referred to in subparagraphs (a), (b), (c) and (d) of this paragraph.
 
 4. With respect to the persons referred to in paragraphs 2 and 3 of this Article, the Office shall promptly, but within eight (8) days, notify the host State of their final departure or the termination of their functions or their involvement with UNDP.
 
@@ -446,13 +415,13 @@ Personnel recruited locally and assigned to hourly rates by UNDP and not otherwi
 
 6. The host State shall issue an identity card which shall serve to identify the holder in relation to the competent authorities, to:
 
-- a). officials of the Office who are assigned to serve in the host State;
+- a) officials of the Office who are assigned to serve in the host State;
 
-- b). members of the family forming part of the household of the persons referred to in paragraph 3(a) of this Article;
+- b) members of the family forming part of the household of the persons referred to in paragraph 3(a) of this Article;
 
-- c). interns, provided that they have been registered in accordance with [Article 21(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0007090&deel=III&artikel=21&z=2025-02-05&g=2025-02-05) of this Agreement;
+- c) interns, provided that they have been registered in accordance with [Article 21(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0007090&deel=III&artikel=21&z=2025-02-05&g=2025-02-05) of this Agreement;
 
-- d). experts on mission, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 19(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0007090&deel=III&artikel=19&z=2025-02-05&g=2025-02-05) of this Agreement;
+- d) experts on mission, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 19(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0007090&deel=III&artikel=19&z=2025-02-05&g=2025-02-05) of this Agreement;
 
 7. Upon request, the host State shall issue an identity card which shall serve to identify the holder in relation to the competent authorities to personnel recruited locally in accordance with [Article 22](https://wetten.overheid.nl/jci1.3:c:BWBV0007090&deel=III&artikel=22&z=2025-02-05&g=2025-02-05) of this Agreement.
 
@@ -462,25 +431,25 @@ Personnel recruited locally and assigned to hourly rates by UNDP and not otherwi
 
 Provided UNDP establishes its own social security scheme or adheres to a social security scheme, UNDP and the members of its personnel to whom the aforementioned scheme applies shall be exempt from all compulsory contributions to the Netherlands social security organisations. Consequently, such personnel shall not be covered against the risks described in the Netherlands social security regulations.
 
-## SECTION 2. VISAS, PERMITS AND OTHER DOCUMENTS
+### SECTION 2. VISAS, PERMITS AND OTHER DOCUMENTS
 
 ##### Article 29. Entry, stay and departure
 
 1. For purposes of official business of the persons listed below, the host State shall facilitate their entry into its territory, their departure from its territory and their transit to or from the premises of the Office:
 
-- a). the Head of the Office and the family members forming part of the household of the Head of Office;
+- a) the Head of the Office and the family members forming part of the household of the Head of Office;
 
-- b). other officials of the Office and the family members forming part of their household;
+- b) other officials of the Office and the family members forming part of their household;
 
-- c). Representatives of States;
+- c) Representatives of States;
 
-- d). Representatives of specialized agencies;
+- d) Representatives of specialized agencies;
 
-- e). experts on mission;
+- e) experts on mission;
 
-- f). interns; and
+- f) interns; and
 
-- g). participants in meetings, seminars, training courses, symposiums, workshops, and similar activities organized by the Office.
+- g) participants in meetings, seminars, training courses, symposiums, workshops, and similar activities organized by the Office.
 
 2. This Article shall not prevent the requirement of reasonable evidence to be provided by the Office to establish that persons claiming the treatment provided for in this Article fall under one of the categories in paragraph 1 above.
 
@@ -488,7 +457,7 @@ Provided UNDP establishes its own social security scheme or adheres to a social 
 
 4. In regard of the persons mentioned in subparagraph (g), visas and entry permits, where required, shall be granted without charge and as promptly as possible, provided that the general procedures governing the entry and the granting of visas are fulfilled. The Office will communicate the expected presence of these participants at the relevant event to the host State as soon as practical. If a visa request by a person mentioned in subparagraph (g) is submitted later than fifteen (15) days before the relevant event or the intended date of arrival, the host State cannot guarantee that this request will be processed prior to the start of that event or the intended date of arrival.
 
-5. Without prejudice to the provisions of the [General Convention](onbekend), all the aforementioned persons who are entitled to the privileges and immunities under this Agreement shall enjoy these privileges and immunities from the moment they enter the territory of the host State to take up their posts or to undertake official Office-related duties and shall come to an end within a reasonable period after the expiry or termination of their contracts of employment or completion of their Office-related duties.
+5. Without prejudice to the provisions of the [General Convention](https://wetten.overheid.nl/BWBV0005561), all the aforementioned persons who are entitled to the privileges and immunities under this Agreement shall enjoy these privileges and immunities from the moment they enter the territory of the host State to take up their posts or to undertake official Office-related duties and shall come to an end within a reasonable period after the expiry or termination of their contracts of employment or completion of their Office-related duties.
 
 ##### Article 30. Laissez-passer and United Nations Certificate
 
@@ -504,7 +473,7 @@ Provided UNDP establishes its own social security scheme or adheres to a social 
 
 2. During the period of their assignment, any person issued an identity card by the host State shall be allowed to continue to drive using their own valid foreign driving license.
 
-## SECTION 3. SECURITY, SAFETY AND PROTECTION OF PERSONS REFERRED TO IN THIS AGREEMENT
+### SECTION 3. SECURITY, SAFETY AND PROTECTION OF PERSONS REFERRED TO IN THIS AGREEMENT
 
 ##### Article 32. Security, safety and protection of persons referred to in this Agreement
 
@@ -524,9 +493,9 @@ The Office and the host State may, for the purpose of implementing this Agreemen
 
 UNDP shall make provisions for appropriate modes of settlement of:
 
-- a). disputes arising out of contracts and other disputes of a private law character to which the Office is a party; and
+- a) disputes arising out of contracts and other disputes of a private law character to which the Office is a party; and
 
-- b). disputes involving any person referred to in this Agreement who, by reason of their official position or function in connection with the Office, enjoys immunity, if such immunity has not been waived by the Secretary-General.
+- b) disputes involving any person referred to in this Agreement who, by reason of their official position or function in connection with the Office, enjoys immunity, if such immunity has not been waived by the Secretary-General.
 
 ##### Article 35. Settlement of differences on the interpretation or application of this Agreement or supplementary arrangements or agreements
 
@@ -544,11 +513,11 @@ This Agreement shall apply to the part of the Kingdom of the Netherlands in Euro
 
 2. This Agreement shall be reviewed at the request of either Party.
 
-##### Article 38. Interpretation of the Agreement, the [General Convention](onbekend) and the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)
+##### Article 38. Interpretation of the Agreement, the General Convention and the Vienna Convention
 
 1. This Agreement shall be interpreted in light of its primary purpose of enabling UNDP through opening and maintaining its Office in the host State to fully and efficiently discharge its responsibilities and fulfil its purposes.
 
-2. The provisions of this Agreement shall be complementary to the provisions of the [General Convention](onbekend) and the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), the latter Convention only insofar as it is relevant for the diplomatic privileges, immunities and facilities accorded to the appropriate categories of persons referred to in this Agreement. Insofar as any provision of this Agreement and any provisions of the General Convention and the Vienna Convention relate to the same subject matter, each of these provisions shall be applicable, and neither shall narrow the effect of the other.
+2. The provisions of this Agreement shall be complementary to the provisions of the [General Convention](https://wetten.overheid.nl/BWBV0005561) and the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), the latter Convention only insofar as it is relevant for the diplomatic privileges, immunities and facilities accorded to the appropriate categories of persons referred to in this Agreement. Insofar as any provision of this Agreement and any provisions of the General Convention and the Vienna Convention relate to the same subject matter, each of these provisions shall be applicable, and neither shall narrow the effect of the other.
 
 ##### Article 39. Entry into force and termination
 
@@ -558,12 +527,12 @@ This Agreement shall apply to the part of the Kingdom of the Netherlands in Euro
 
 IN WITNESS WHEREOF, the undersigned, duly authorized thereto, have signed this Agreement.
 
-DONE in New York, on 5 February 2025, in duplicate, in the English language.
+DONE in New York, on 5 February 2025, in duplicate, in the English language.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 LISE GREGOIRE-VAN HAAREN
 
-**For the United Nations Development Programme,**
+*For the United Nations Development Programme,*
 
 KATY THOMPSON

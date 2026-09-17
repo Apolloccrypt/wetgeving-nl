@@ -2,181 +2,161 @@
 title: "Overeenkomst betreffende de afgifte van meertalige en gecodeerde uittreksels en certificaten uit akten van de burgerlijke stand"
 identifier: "BWBV0007165"
 categorie: "Burgerlijk recht"
-publicatiedatum: 2014-03-14
-laatste_update: 2026-07-21
+soort: "verdrag"
+laatste_update: 2014-03-14
 status: geldig
+toestand: 2014-03-14
 bron: "https://wetten.overheid.nl/BWBV0007165"
+opgehaald: 2026-09-17
 ---
 
 # Overeenkomst betreffende de afgifte van meertalige en gecodeerde uittreksels en certificaten uit akten van de burgerlijke stand
 
-De Staten die deze Overeenkomst hebben ondertekend, leden van de Internationale Commissie voor de Burgerlijke Stand („de ICBS”),
+*Les États signataires de la présente Convention, membres de la Commission Internationale de l’État Civil (« la CIEC »), Vu la Convention de la CIEC relative à la délivrance de certains extraits d’actes de l’état civil destinés à l’étranger, signée à Paris le 27 septembre 1956, Vu la Convention de la CIEC relative à la délivrance d’extraits plurilingues d’actes de l’état civil, signée à Vienne le 8 septembre 1976, Vu le Protocole additionnel à la Convention concernant l’échange international d’informations en matière d’état civil signée à Istanbul le 4 septembre 1958, signé à Patras le 6 septembre 1989, Vu la Convention de la CIEC relative au codage des énonciations figurant dans les documents d’état civil, signée à Bruxelles le 6 septembre 1995, Vu la Convention de la CIEC sur l’utilisation de la Plateforme de la Commission Internationale de l’État Civil de communication internationale de données d’état civil par voie électronique, signée à Rome le 19 septembre 2012, Désireux d’étendre à d’autres événements de l’état civil la portée de la Convention de 1976 précitée et d’adapter les modèles des documents d’état civil à l’évolution du droit de la famille, Désireux d’améliorer les règles relatives à la délivrance de documents d’état civil plurilingues et codés, notamment lorsqu’ils sont destinés à servir à l’étranger, Déterminés à faciliter la circulation internationale de documents d’état civil pour les personnes tenues de justifier de leur état civil dans un pays autre que l’État d’enregistrement, Soucieux d’éviter toute exigence de traduction et de légalisation entre les États contractants, Conscients du fait que la facilitation de la circulation internationale de documents d’état civil repose sur la confiance mutuelle des États contractants dans la fiabilité du système d’enregistrement et de la délivrance des extraits dans chacun des États contractants, Sont convenus de ce qui suit :*
 
-Gelet op de Overeenkomst van de ICBS betreffende de afgifte van bepaalde uittreksels uit akten van de Burgerlijke Stand bestemd voor het buitenland, ondertekend te Parijs op 27 september 1956,
+##### Article 1er. Champ d’application
 
-Gelet op de Overeenkomst van de ICBS betreffende de afgifte van meertalige uittreksels uit akten van de burgerlijke stand, ondertekend te Wenen op 8 september 1976,
+1. La présente Convention s’applique à la délivrance d’extraits plurilingues et codés des actes de l’état civil constatant la naissance, la reconnaissance d’un enfant, le mariage, le partenariat enregistré ou le décès.
 
-Gelet op het Aanvullend Protocol bij de op 4 september 1958 te Istanbul ondertekende Overeenkomst inzake internationale uitwisseling van gegevens op het gebied van de burgerlijke stand, ondertekend te Patras op 6 september 1989,
+2. Elle s’applique également à la délivrance d’un certificat plurilingue et codé attestant l’enregistrement d’un partenariat par une autorité publique autre qu’un officier d’état civil.
 
-Gelet op de Overeenkomst van de ICBS inzake de codering van de vermeldingen in documenten van de burgerlijke stand, ondertekend te Brussel op 6 september 1995,
+##### Article 2. Délivrance des extraits et certificats
 
-Gelet op de Overeenkomst van de ICBS inzake het gebruik van het Platform van de Internationale Commissie voor de Burgerlijke Stand voor de internationale uitwisseling langs elektronische weg van gegevens van de burgerlijke stand, ondertekend te Rome op 19 september 2012,
+1. Les extraits des actes de l’état civil et certificats visés à l’article 1er sont, lorsqu’une personne intéressée ou une autorité compétente le demande, notamment lorsque leur utilisation aurait nécessité une traduction ou une légalisation, établis conformément à l’article 3 de la présente Convention.
 
-Ernaar strevend om de draagwijdte van voornoemde Overeenkomst van 1976 uit te breiden naar andere wijzigingen in de burgerlijke staat en de modellen van de documenten van de burgerlijke stand aan te passen aan de ontwikkelingen in het familierecht,
+2. Lesdits extraits et certificats ne sont délivrés qu’aux personnes ou autorités compétentes qui ont qualité pour obtenir des copies littérales conformément aux règles de droit interne de l’État de délivrance.
 
-Ernaar strevend om de voorschriften te verbeteren betreffende de afgifte van meertalige en gecodeerde documenten van de burgerlijke stand, in het bijzonder wanneer zij bestemd zijn om in het buitenland te worden gebruikt,
+##### Article 3. Établissement des extraits et certificats
 
-Vastberaden om het internationale verkeer van documenten van de burgerlijke stand te vergemakkelijken voor personen die hun burgerlijke staat moeten bewijzen in een ander land dan de Staat waar het document is opgemaakt,
+1. Les extraits des actes de l’état civil et certificats visés à l’article 1er sont établis sur la base des énonciations originaires et des mentions ultérieures.
 
-Ernaar strevend om elk vereiste van vertaling en legalisatie tussen de Overeenkomstsluitende Staten te voorkomen,
+2. Lesdits extraits et certificats sont établis conformément aux modèles CIEC figurant à l’annexe 1 de la présente Convention. Les énonciations invariables qui y figurent sont pourvues des codes numériques figurant à l’annexe 2.
 
-Zich ervan bewust zijnde dat het vergemakkelijken van het internationale verkeer van documenten van de burgerlijke stand steunt op het onderlinge vertrouwen van de Overeenkomstsluitende Staten in de betrouwbaarheid van het stelsel voor de opmaak en de afgifte van uittreksels in elk van de Overeenkomstsluitende Staten,
+3. Les règles applicables aux modèles CIEC figurent à l’annexe 3.
 
-Zijn als volgt overeengekomen:
+##### Article 4. Dépôt des traductions et liste des symboles
 
-##### Artikel 1. Toepassingsgebied
+1. Avant de ratifier, d’accepter ou d’approuver la présente Convention, d’y adhérer ou de faire la déclaration d’application provisoire prévue à l’article 13, tout État devra déposer auprès du Secrétaire Général de la CIEC la traduction dans sa ou ses langues officielles des énonciations invariables qui doivent figurer sur les extraits et certificats conformément à l’annexe 2 de la présente Convention ainsi que la traduction des règles applicables figurant à l’annexe 3. Toute modification apportée à ces traductions devra être déposée auprès du Secrétaire Général de la CIEC. Ces traductions ainsi que leurs modifications ultérieures devront être adoptées par le Bureau de la CIEC.
 
-1. Deze Overeenkomst is van toepassing op de afgifte van meertalige en gecodeerde uittreksels uit de akten van de burgerlijke stand inzake de geboorte, de erkenning van een kind, het huwelijk, het geregistreerd partnerschap of het overlijden.
+2. Avant de ratifier, d’accepter ou d’approuver la présente Convention, d’y adhérer ou de faire la déclaration d’application provisoire prévue à l’article 13, tout État devra déposer auprès du Secrétaire Général de la CIEC la liste des symboles qu’il utilise pour les mentions ultérieures pouvant figurer dans la case « 1-4-4 Autres énonciations » des modèles CIEC 1, 3 et 4. Toute modification apportée à cette liste devra être déposée auprès du Secrétaire Général de la CIEC. Ces informations seront reprises par le Secrétaire Général dans le tableau qui figure à l’annexe 4.
 
-2. Deze Overeenkomst is eveneens van toepassing op de afgifte van een meertalige en gecodeerde verklaring waaruit de registratie van een partnerschap blijkt door een andere met openbaar gezag beklede autoriteit dan een ambtenaar van de burgerlijke stand.
+3. L’accomplissement des formalités figurant aux paragraphes 1 et 2 fera l’objet d’une attestation du Secrétaire Général.
 
-##### Artikel 2. Afgifte van uittreksels en verklaringen
+##### Article 5. Force probante des extraits et certificats
 
-1. Wanneer een belanghebbende of een bevoegde autoriteit daarom verzoekt, worden de uittreksels uit de akten van de burgerlijke stand en de verklaringen bedoeld in artikel 1 opgemaakt overeenkomstig artikel 3 van deze Overeenkomst, met name in het geval dat voor het gebruik ervan een vertaling of een legalisatie noodzakelijk zou zijn geweest.
+1. Les extraits et certificats délivrés en application de la présente Convention ont la même force probante que les extraits d’actes et certificats délivrés conformément aux règles de droit interne de l’État de délivrance.
 
-2. De voornoemde uittreksels en verklaringen worden uitsluitend afgegeven aan personen of autoriteiten die overeenkomstig het interne recht van de Staat van afgifte bevoegd zijn om letterlijke afschriften te verkrijgen.
+2. Lesdits extraits et certificats sont acceptés sans légalisation ou formalité équivalente dans chacun des États contractants.
 
-##### Artikel 3. Het opmaken van uittreksels en verklaringen
+3. En cas de doute grave sur l’authenticité ou le contenu d’un extrait ou certificat délivré en application de la présente Convention, les autorités de l’État où ce document est utilisé peuvent demander à l’autorité de délivrance de procéder à une vérification de son authenticité ou son contenu ou, en cas d’erreur, de leur expédier un nouvel extrait ou certificat. Les échanges entre ces autorités ont lieu directement.
 
-1. De uittreksels uit de akten van de burgerlijke stand en verklaringen bedoeld in artikel 1 worden opgemaakt op grond van de oorspronkelijk vermelde gegevens en de latere vermeldingen.
+##### Article 6. Perception de redevances
 
-2. De voornoemde uittreksels en verklaringen worden opgemaakt overeenkomstig de ICBS-modellen die zijn opgenomen in bijlage 1 van deze Overeenkomst. De vaste vermeldingen die erin voorkomen, worden voorzien van de numerieke codes zoals vermeld in bijlage 2.
+Sous réserve des accords internationaux prévoyant la gratuité, les extraits ou certificats délivrés en application de la présente Convention ne peuvent donner lieu à la perception d’une redevance plus élevée que celle perçue pour des extraits ou certificats établis conformément aux règles de droit interne de l’État de délivrance.
 
-3. De regels die van toepassing zijn op de ICBS-modellen zijn vermeld in bijlage 3.
+##### Article 7. Obtention de copies littérales
 
-##### Artikel 4. Nederlegging van de vertalingen en de lijst van de symbolen
+La présente Convention ne fait pas obstacle à l’obtention de copies littérales d’actes établies conformément aux règles de droit interne de l’État où ces actes ont été dressés ou transcrits. Elle ne fait pas obstacle à la délivrance d’autres documents d’état civil.
 
-1. Alvorens deze Overeenkomst te bekrachtigen, te aanvaarden, goed te keuren, ertoe toe te treden of de verklaring inzake voorlopige toepassing zoals voorzien in artikel 13 af te leggen, legt iedere Staat de vertaling in zijn officiële taal of talen van de vaste vermeldingen die moeten voorkomen op de uittreksels en verklaringen overeenkomstig bijlage 2 bij deze Overeenkomst, alsmede de vertaling van de toepasselijke regels vermeld in bijlage 3 neder bij de Secretaris-Generaal van de ICBS. Elke wijziging in die vertalingen moet bij de Secretaris-Generaal van de ICBS worden nedergelegd. Die vertalingen en de latere wijzigingen ervan moeten door het Bureau van de ICBS worden goedgekeurd.
+##### Article 8. Signature, ratification, acceptation et approbation
 
-2. Alvorens deze Overeenkomst te bekrachtigen, te aanvaarden, goed te keuren, ertoe toe te treden of de verklaring inzake voorlopige toepassing zoals voorzien in artikel 13 af te leggen, moet iedere Staat de lijst van de symbolen die hij gebruikt voor de latere vermeldingen die in het vakje „1-4-4 Andere vermeldingen” van de ICBS-modellen 1, 3 en 4 kunnen voorkomen, bij de Secretaris-Generaal van de ICBS nederleggen. Elke wijziging in die lijst moet eveneens bij de Secretaris-Generaal van de ICBS worden nedergelegd. Die gegevens worden vervolgens door de Secretaris-Generaal opgenomen in de tabel in bijlage 4.
+1. La présente Convention est ouverte à la signature des États membres de la CIEC.
 
-3. De vervulling van de formaliteiten bedoeld in het eerste en tweede lid zal worden bevestigd door middel van een verklaring van de Secretaris-Generaal.
+2. La Convention sera ratifiée, acceptée ou approuvée. Les instruments de ratification, d’acceptation ou d’approbation, accompagnés de l’attestation prévue à l’article 4, paragraphe 3, seront déposés auprès du Conseil fédéral suisse.
 
-##### Artikel 5. Bewijskracht van de uittreksels en verklaringen
+##### Article 9. Adhésion
 
-1. De uittreksels en verklaringen afgegeven op basis van deze Overeenkomst hebben dezelfde bewijskracht als de uittreksels uit akten en verklaringen afgegeven overeenkomstig het interne recht van de Staat van afgifte.
+1. Tout État membre de la CIEC pourra adhérer à la présente Convention.
 
-2. De voornoemde uittreksels en verklaringen worden zonder legalisatie of vergelijkbare formaliteit aanvaard in elk van de Overeenkomstsluitende Staten.
+2. Tout autre État pourra adhérer à la présente Convention après l’entrée en vigueur de celle-ci.
 
-3. In geval van ernstige twijfel over de echtheid of de inhoud van een op grond van deze Overeenkomst afgegeven uittreksel of verklaring kunnen de autoriteiten van de Staat waar dat document wordt gebruikt de afgevende autoriteit verzoeken om verificatie van de echtheid of de inhoud ervan of, in geval van vergissing, om het toesturen van een nieuw uittreksel of verklaring. De uitwisselingen tussen die autoriteiten vinden rechtstreeks plaats.
+3. L’instrument d’adhésion, accompagné de l’attestation prévue à l’article 4, paragraphe 3, sera déposé auprès du Conseil fédéral suisse.
 
-##### Artikel 6. Heffing van rechten
+##### Article 10. Objection à une adhésion
 
-Behoudens de internationale overeenkomsten die voorzien in kosteloosheid, mogen voor de uittreksels of verklaringen afgegeven op basis van deze Overeenkomst geen hogere rechten worden geheven dan worden geheven voor uittreksels of verklaringen die worden opgemaakt overeenkomstig het interne recht van de Staat van afgifte.
+L’adhésion par un État non membre de la CIEC n’aura d’effet que dans les rapports entre l’État adhérant et l’État contractant qui n’aura pas élevé d’objection à son encontre dans les cinq mois suivant la notification prévue à l’article 19, paragraphe 1 a). Une telle objection pourra également être élevée par tout État au moment où il ratifie, accepte ou approuve la Convention ou y adhère ultérieurement à l’adhésion. Toute objection sera notifiée au Conseil fédéral suisse.
 
-##### Artikel 7. Verkrijgen van letterlijke afschriften
+##### Article 11. Réserves
 
-Deze Overeenkomst vormt geen beletsel voor het verkrijgen van letterlijke afschriften van akten opgemaakt overeenkomstig het interne recht van de Staat waar die akten zijn opgemaakt of ingeschreven. Zij vormt evenmin een beletsel voor de afgifte van andere documenten van de burgerlijke stand.
+1. Lors de la signature, de la ratification, de l’acceptation, de l’approbation ou de l’adhésion, tout État pourra se réserver le droit de ne pas appliquer la présente Convention aux extraits ou certificats concernant :
 
-##### Artikel 8. Ondertekening, bekrachtiging, aanvaarding en goedkeuring
+- a) le mariage de personnes de même sexe ;
 
-1. Deze Overeenkomst staat open voor ondertekening door de Lidstaten van de ICBS.
+- b) le partenariat enregistré ou l’une ou plusieurs de ses formes.
 
-2. De Overeenkomst wordt bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden samen met de verklaring voorzien in artikel 4, derde lid, bij de Zwitserse Bondsraad nedergelegd.
+2. Aucune autre réserve n’est admise.
 
-##### Artikel 9. Toetreding
+3. Tout État pourra à tout moment retirer une réserve faite en application du paragraphe 1. Le retrait sera notifié au Conseil fédéral suisse et prendra effet le premier jour du quatrième mois qui suit celui de la réception de la notification.
 
-1. Iedere Lidstaat van de ICBS kan tot deze Overeenkomst toetreden.
+##### Article 12. Entrée en vigueur
 
-2. Iedere andere Staat kan tot deze Overeenkomst toetreden nadat zij in werking is getreden.
+1. La présente Convention entrera en vigueur le premier jour du quatrième mois qui suit celui du dépôt du deuxième instrument de ratification, d’acceptation, d’approbation ou d’adhésion par deux États membres de la CIEC.
 
-3. De akte van toetreding wordt samen met de verklaring voorzien in artikel 4, derde lid, bij de Zwitserse Bondsraad neergelegd.
+2. À l’égard de l’État membre de la CIEC qui ratifiera, acceptera, approuvera ou adhèrera après son entrée en vigueur, la Convention entrera en vigueur le premier jour du quatrième mois qui suit celui du dépôt par cet État de l’instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-##### Artikel 10. Bezwaar tegen een toetreding
+3. À l’égard de l’État non membre de la CIEC, la Convention entrera en vigueur, entre l’État adhérant et les États n’ayant pas élevé d’objection contre l’adhésion, le premier jour du troisième mois suivant l’expiration du délai de cinq mois prévu à l’article 10.
 
-De toetreding door een Staat die geen lid is van de ICBS heeft slechts gevolgen voor de betrekkingen tussen de toetredende Staat en de Overeenkomstsluitende Staat die niet binnen vijf maanden na de in artikel 19, eerste lid, onder a), bedoelde kennisgeving bezwaar heeft gemaakt tegen de toetreding van die Staat. Een dergelijk bezwaar kan ook worden gemaakt door elke Staat op het tijdstip waarop hij de Overeenkomst bekrachtigt, aanvaardt of goedkeurt of ertoe toetreedt na de toetreding van de Staat in kwestie. De Zwitserse Bondsraad wordt in kennis gesteld van elk bezwaar.
+##### Article 13. Application provisoire
 
-##### Artikel 11. Voorbehouden
+1. En attendant l’entrée en vigueur de la présente Convention à son égard dans les conditions prévues à l’article 12, un État membre de la CIEC ayant signé la Convention pourra à tout moment déclarer que les dispositions de la présente Convention lui seront applicables à titre provisoire. La période de l’application provisoire ne pourra pas dépasser cinq ans.
 
-1. Op het tijdstip van de ondertekening, de bekrachtiging, de aanvaarding, de goedkeuring of de toetreding kan iedere Staat zich het recht voorbehouden om deze Overeenkomst niet toe te passen op uittreksels of verklaringen met betrekking tot:
+2. Toute déclaration faite en application du paragraphe 1, accompagnée de l’attestation prévue à l’article 4, paragraphe 3, sera notifiée au Conseil fédéral suisse. Elle prendra effet le premier jour du quatrième mois qui suit celui de la réception de la notification.
 
-- a). het huwelijk tussen personen van gelijk geslacht;
+##### Article 14. Application territoriale
 
-- b). het geregistreerd partnerschap of een of meerdere vormen ervan.
+1. Lors de la signature, de la ratification, de l’acceptation, de l’approbation ou de l’adhésion ou à tout autre moment par la suite, tout État qui comprend plusieurs unités territoriales pourra déclarer que la Convention s’appliquera seulement à l’une ou à plusieurs d’entre elles.
 
-2. Geen enkel ander voorbehoud is toegestaan.
+2. Si un État ne fait pas de déclaration en vertu du paragraphe 1, la Convention s’appliquera à l’ensemble du territoire de cet État.
 
-3. Iedere Staat kan een overeenkomstig het eerste lid gemaakt voorbehoud te allen tijde intrekken. De Zwitserse Bondsraad wordt in kennis gesteld van de intrekking, die van kracht wordt op de eerste dag van de vierde maand die volgt op de ontvangst van de kennisgeving.
+3. Une déclaration faite en application du paragraphe 1 peut être modifiée ou retirée par une nouvelle déclaration.
 
-##### Artikel 12. Inwerkingtreding
+4. Toute déclaration faite en application des paragraphes 1 ou 3 sera notifiée au Conseil fédéral suisse. Elle prendra effet au moment de l’entrée en vigueur de la Convention pour ledit État ou, ultérieurement, le premier jour du quatrième mois qui suit celui de la réception de la notification.
 
-1. Deze Overeenkomst treedt in werking op de eerste dag van de vierde maand die volgt op de nederlegging van de tweede akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door twee Lidstaten van de ICBS.
+##### Article 15. Révision des annexes
 
-2. Ten aanzien van de Lidstaat van de ICBS die de Overeenkomst bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de inwerkingtreding ervan, treedt de Overeenkomst in werking op de eerste dag van de vierde maand die volgt op de nederlegging door die Staat van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+1. Les annexes 1 à 3 de la présente Convention peuvent être modifiées par une résolution votée à la majorité simple des États membres de la CIEC et à la majorité simple des États contractants réunis en Assemblée Générale ad hoc. Les modifications adoptées lient tous les États contractants.
 
-3. Ten aanzien van de Staat die geen lid is van de ICBS treedt de Overeenkomst in werking, tussen de toetredende Staat en de Staten die geen bezwaar hebben gemaakt tegen de toetreding, op de eerste dag van de derde maand die volgt op het verstrijken van de termijn van vijf maanden voorzien in artikel 10.
+2. Toute résolution prise en application du paragraphe 1 sera déposée auprès du Conseil fédéral suisse. Elle prendra effet à la date qu’elle fixe.
 
-##### Artikel 13. Voorlopige toepassing
+##### Article 16. Durée et dénonciation
 
-1. Een Lidstaat van de ICBS die de Overeenkomst heeft ondertekend, kan, in afwachting van de inwerkingtreding van deze Overeenkomst voor hem onder de in artikel 12 bepaalde voorwaarden, te allen tijde verklaren dat de bepalingen van deze Overeenkomst voorlopig voor hem van toepassing zijn. De periode van de voorlopige toepassing mag niet meer dan vijf jaar duren.
+1. La présente Convention demeurera en vigueur sans limitation de durée.
 
-2. De Zwitserse Bondsraad wordt in kennis gesteld van elke overeenkomstig het eerste lid afgelegde verklaring, onder bijvoeging van de in artikel 4, derde lid, bedoelde verklaring. De verklaring wordt van kracht op de eerste dag van de vierde maand die volgt op de ontvangst van de kennisgeving.
+2. Tout État partie à la présente Convention aura toutefois la faculté de la dénoncer à tout moment après l’expiration d’un délai d’un an à partir de la date de l’entrée en vigueur de la Convention à son égard. La dénonciation sera notifiée au Conseil fédéral suisse et prendra effet le premier jour du septième mois qui suit celui de la réception de la notification. La Convention restera en vigueur entre les autres États.
 
-##### Artikel 14. Territoriale toepassing
+##### Article 17. Rapport avec la Convention du 8 septembre 1976
 
-1. Op het tijdstip van de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op elk later tijdstip kan iedere Staat die verschillende territoriale eenheden omvat verklaren dat de Overeenkomst slechts op één of op meerdere van die eenheden van toepassing is.
+1. La présente Convention remplace dès son entrée en vigueur la Convention relative à la délivrance d’extraits plurilingues d’actes de l’état civil, signée à Vienne le 8 septembre 1976. Toutefois, cette dernière Convention reste en vigueur entre les États qui y sont parties tant que l’un d’eux demeure lié uniquement par celle-ci.
 
-2. Indien een Staat geen verklaring overeenkomstig het eerste lid aflegt, is de Overeenkomst van toepassing op het gehele grondgebied van die Staat.
+2. Dès l’entrée en vigueur de la présente Convention, toute nouvelle ratification, acceptation ou approbation de la Convention du 8 septembre 1976, et toute nouvelle adhésion à celle-ci, est exclue.
 
-3. Een overeenkomstig het eerste lid afgelegde verklaring kan worden gewijzigd of ingetrokken door een nieuwe verklaring.
+##### Article 18. Rapport avec le Protocole de Patras du 6 septembre 1989
 
-4. De Zwitserse Bondsraad wordt in kennis gesteld van elke verklaring afgelegd overeenkomstig het eerste of derde lid. Die verklaring wordt van kracht bij de inwerkingtreding van de Overeenkomst voor de voormelde Staat of, daarna, op de eerste dag van de vierde maand die volgt op de ontvangst van de kennisgeving.
+Les modèles CIEC 3 et 5 de l’annexe 1 de la présente Convention sont considérés comme modèles visés à l’article 1er du Protocole additionnel signé à Patras le 6 septembre 1989 à la Convention concernant l’échange international d’informations en matière d’état civil signée à Istanbul le 4 septembre 1958 dans les rapports entre les États parties à la présente Convention et au Protocole additionnel précité.
 
-##### Artikel 15. Herziening van de bijlagen
+##### Article 19. Obligations du dépositaire
 
-1. De bijlagen 1 tot en met 3 bij deze Overeenkomst kunnen worden gewijzigd door een besluit dat wordt goedgekeurd bij een gewone meerderheid van de Lidstaten van de ICBS en bij een gewone meerderheid van de Overeenkomstsluitende Staten in een ad hoc Algemene Vergadering. De goedgekeurde wijzigingen binden alle Overeenkomstsluitende Staten.
+1. Le Conseil fédéral suisse notifiera aux États membres de la CIEC et à tout autre État ayant adhéré à la présente Convention :
 
-2. Elk besluit dat overeenkomstig het eerste lid wordt genomen, wordt bij de Zwitserse Bondsraad neergelegd. Het wordt van kracht op de in het besluit bepaalde datum.
+- a) le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion ;
 
-##### Artikel 16. Duur en opzegging
+- b) toute date d’entrée en vigueur de la Convention ;
 
-1. Deze Overeenkomst blijft voor onbepaalde tijd van kracht.
+- c) toute objection élevée en application de l’article 10 ;
 
-2. Iedere Staat die partij is bij deze Overeenkomst zal evenwel de mogelijkheid hebben om de Overeenkomst te allen tijde op te zeggen, na het verstrijken van een termijn van één jaar vanaf de datum van de inwerkingtreding van de Overeenkomst ten aanzien van die Staat. De Zwitserse Bondsraad wordt in kennis gesteld van de opzegging die van kracht wordt op de eerste dag van de zevende maand die volgt op de ontvangst van de kennisgeving. De Overeenkomst blijft van kracht tussen de overige Staten.
+- d) toute réserve faite en application de l’article 11, paragraphe 1, ou son retrait, avec la date à laquelle le retrait prendra effet ;
 
-##### Artikel 17. Verhouding tot de Overeenkomst van 8 september 1976
+- e) toute déclaration faite en application de l’article 13, paragraphe 1 ;
 
-1. Deze Overeenkomst vervangt vanaf haar inwerkingtreding de op 8 september 1976 te Wenen tot stand gekomen Overeenkomst betreffende de afgifte van meertalige uittreksels uit akten van de burgerlijke stand. De Overeenkomst van 8 september 1976 blijft evenwel van kracht tussen de Staten die er partij bij zijn zolang één van hen uitsluitend door die Overeenkomst gebonden is.
+- f) toute déclaration faite en application de l’article 14, paragraphe 1, sa modification ou son retrait, avec la date à laquelle la déclaration, la modification ou le retrait prendra effet ;
 
-2. Vanaf de inwerkingtreding van deze Overeenkomst is elke nieuwe bekrachtiging, aanvaarding of goedkeuring van de Overeenkomst van 8 september 1976 en elke nieuwe toetreding ertoe uitgesloten.
+- g) toute résolution prise en application de l’article 15, paragraphe 1, avec la date à laquelle elle prendra effet ;
 
-##### Artikel 18. Verhouding tot het Protocol van Patras van 6 september 1989
+- h) toute dénonciation de la Convention faite en application de l’article 16, paragraphe 2, et la date à laquelle elle prendra effet.
 
-De ICBS-modellen 3 en 5 van bijlage 1 bij deze Overeenkomst worden beschouwd als modellen bedoeld in artikel 1 van het op 6 september 1989 te Patras tot stand gekomen Aanvullend Protocol behorend bij de op 4 september 1958 te Istanbul tot stand gekomen Overeenkomst inzake de internationale uitwisseling van gegevens op het gebied van de burgerlijke stand, in de betrekkingen tussen de Staten die partij zijn bij de onderhavige Overeenkomst en bij voornoemd aanvullend Protocol.
+2. Le Conseil fédéral suisse avisera le Secrétaire Général de la CIEC de toute notification faite en application du paragraphe 1.
 
-##### Artikel 19. Verplichtingen van de depositaris
-
-1. De Zwitserse Bondsraad stelt de Lidstaten van de ICBS en elke andere Staat die tot deze Overeenkomst is toegetreden in kennis van:
-
-- a). de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- b). elke datum van inwerkingtreding van de Overeenkomst;
-
-- c). elk bezwaar gemaakt op grond van artikel 10;
-
-- d). elk voorbehoud gemaakt op grond van artikel 11, eerste lid, of de intrekking ervan, met de datum waarop de intrekking van kracht wordt;
-
-- e). elke verklaring afgelegd overeenkomstig artikel 13, eerste lid;
-
-- f). elke verklaring afgelegd overeenkomstig artikel 14, eerste lid, of de wijziging of de intrekking ervan, met de datum waarop de verklaring, de wijziging, of de intrekking van kracht wordt;
-
-- g). elk besluit genomen op grond van artikel 15, eerste lid, met de datum waarop het van kracht wordt;
-
-- h). elke opzegging van de Overeenkomst overeenkomstig artikel 16, tweede lid, en de datum waarop deze van kracht wordt.
-
-2. De Zwitserse Bondsraad stelt de Secretaris-Generaal van de ICBS op de hoogte van elke kennisgeving gedaan op grond van het eerste lid.
-
-3. Zodra deze Overeenkomst in werking is getreden, zendt de Zwitserse Bondsraad een voor eensluidend verklaard afschrift aan de Secretaris-Generaal van de Verenigde Naties, met het oog op registratie en bekendmaking overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.
+3. Dès l’entrée en vigueur de la présente Convention, une copie certifiée conforme sera transmise par le Conseil fédéral suisse au Secrétaire Général des Nations Unies aux fins d’enregistrement et de publication, conformément à l’article 102 de la Charte des Nations Unies.
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention.
 

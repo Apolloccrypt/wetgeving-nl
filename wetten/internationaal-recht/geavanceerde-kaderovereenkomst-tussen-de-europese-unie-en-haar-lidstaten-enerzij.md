@@ -1,139 +1,18 @@
 ---
 title: "Geavanceerde Kaderovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek Chili, anderzijds"
 identifier: "BWBV0007087"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-12-13"
-last_updated: "2023-12-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007087"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005691253"
-version_id: "10006293362"
-internal_id: "C10010168191"
-label_id: "10005679744"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007087/2023-12-13/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0007087&z=2023-12-13&g=2023-12-13"
-jci_1_0: "1.0:c:BWBV0007087&g=2023-12-13"
-citeertitel_status: "redactioneel"
+laatste_update: 2023-12-13
+status: geldig
+toestand: 2023-12-13
+bron: "https://wetten.overheid.nl/BWBV0007087"
+opgehaald: 2026-09-17
 ---
+
 # Geavanceerde Kaderovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek Chili, anderzijds
 
-Preambule
-
-Het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna „de lidstaten” genoemd,
-
-en
-
-de Europese Unie,
-
-enerzijds,
-
-en
-
-De Republiek Chili, hierna „Chili” genoemd,
-
-anderzijds,
-
-hierna gezamenlijk „de Partijen” genoemd,
-
-Gezien de sterke culturele, politieke, economische op samenwerking gebaseerde banden die hen binden,
-
-Opnieuw bevestigende dat zij de democratische beginselen, mensenrechten en fundamentele vrijheden, de rechtsstaat en goed bestuur aanhangen, en zich inzetten voor de verwezenlijking van duurzame ontwikkeling en het aanpakken van klimaatverandering, wat het uitgangspunt vormt voor hun partnerschap en samenwerking,
-
-Delende de mening dat de verspreiding van massavernietigingswapens en overbrengingsmiddelen daarvoor, onder zowel statelijke als niet-statelijke actoren, een van de ernstigste bedreigingen voor de internationale vrede en veiligheid vormt,
-
-Indachtig de belangrijke bijdrage voor de versterking van die banden die is geleverd door de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds, ondertekend te Brussel op 18 november 2002 („Associatieovereenkomst”),
-
-Benadrukkende dat hun betrekkingen van alomvattende aard zijn en dat het belangrijk is een samenhangend kader voor de voortgang ervan te scheppen,
-
-Gezien hun toezegging om de bestaande Associatieovereenkomst te moderniseren om rekening te houden met de nieuwe politieke en economische realiteit en de voortgang van hun partnerschap,
-
-Erkennende dat een sterk en doeltreffend multilateraal systeem, op basis van internationaal recht, van belang is om de vrede in stand te houden, conflicten te voorkomen, de internationale veiligheid te versterken en gezamenlijke uitdagingen aan te pakken,
-
-Bevestigende hun toezegging om de samenwerking op het gebied van bilaterale, regionale en mondiale kwesties van gemeenschappelijk belang te versterken en alle beschikbare instrumenten in te zetten om activiteiten te bevorderen die zijn opgezet om een actieve en wederzijdse internationale samenwerking tot stand te brengen,
-
-Ingenomen met de vaststelling van en het verzoek om uitvoering van het kader van Sendai voor rampenrisicovermindering 2015–2030, aangenomen tijdens de derde Wereldconferentie van de VN in Sendai op 18 maart 2015, de actieagenda van Addis Abeba van de derde internationale conferentie over ontwikkelingsfinanciering, aangenomen in Addis Abeba op 13 tot en met16 juli 2015, Resolutie 70/1, aangenomen door de Algemene Vergadering van de Verenigde Naties („Algemene Vergadering van de VN”) op 25 september 2015, houdende het slotdocument „Transforming our world: the 2030 Agenda for Sustainable Development and the 17 Sustainable Development Goals” (Naar een nieuwe wereld: de agenda inzake duurzame ontwikkeling voor 2030 en de 17 daarin vervatte duurzameontwikkelingsdoelstellingen) („Agenda 2030”), de Overeenkomst van Parijs in het kader van het Raamverdrag van de Verenigde Naties inzake klimaatverandering, gedaan te Parijs op 12 december 2015 („Overeenkomst van Parijs”), de Nieuwe Stedenagenda, goedgekeurd tijdens de VN-conferentie over huisvesting en duurzame stadsontwikkeling (Habitat III) op 20 oktober 2016 in Quito, Ecuador („Nieuwe Stedenagenda”) en de verbintenissen van de wereldtop over humanitaire hulp, aangenomen tijdens de wereldtop over humanitaire hulp in Istanbul op 23 en 24 mei 2016,
-
-Opnieuw bevestigende dat zij zich verbinden tot het bevorderen van duurzame ontwikkeling in economisch, sociaal en ecologisch opzicht, dat zij zich erop toeleggen de internationale handel zodanig te ontwikkelen dat die bijdraagt tot duurzame ontwikkeling in die drie dimensies, die onderling nauw zijn verbonden en elkaar wederzijds versterken, en dat zij zich verbinden tot het bevorderen van de verwezenlijking van de doelstellingen van de Agenda 2030,
-
-Opnieuw bevestigende dat zij vastbesloten zijn hun handelsbetrekkingen uit te breiden en te diversifiëren overeenkomstig de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (**World Trade Organization**, WTO), gedaan te Marrakesh op 15 april 1994, en de specifieke doelstellingen en bepalingen van deel III van deze overeenkomst,
-
-Geleid door de wens hun economische betrekkingen te versterken, in het bijzonder hun handels- en investeringsbetrekkingen, door de toegang tot de markt te versterken en te verbeteren, en bij te dragen tot economische groei, waarbij zij zich bewust zijn van de noodzaak het bewustzijn te vergroten rond de economische en sociale gevolgen van milieuschade, niet-duurzame productie- en consumptiepatronen en het bijbehorende effect op het menselijk welzijn,
-
-Ervan overtuigd dat deze overeenkomst een klimaat zal scheppen dat hun onderlinge duurzame economische betrekkingen zal doen groeien, met name op het gebied van handel en investeringen, die noodzakelijk zijn voor de economische en sociale ontwikkeling, de technologische innovatie, en modernisering,
-
-Erkennende dat de bepalingen van deze overeenkomst investeringen en investeerders beschermen en tot doel hebben tot wederzijds voordeel strekkende zakelijke activiteiten te stimuleren, zonder afbreuk te doen aan het recht van de Partijen op hun grondgebied regels te stellen in het openbaar belang,
-
-Erkennende het nauwe verband tussen innovatie en handel, alsook het belang van innovatie voor economische groei en sociale ontwikkeling, en ook bevestigende hun belang bij het bevorderen van een grotere mate van samenwerking op het gebied van innovatie, onderzoek, wetenschap, technologie, vervoer en andere daaraan gerelateerde gebieden, en bij het bevorderen van de deelname van de publieke en de particuliere sector,
-
-Bevestigende hun toezegging om intensiever samen te werken op het gebied van justitie, vrijheid en veiligheid,
-
-Erkennende dat de versterkte samenwerking op het gebied van onderwijs, milieuaangelegenheden, cultuur, onderzoek en innovatie, werkgelegenheid en sociale zaken, gezondheid en andere gebieden van gemeenschappelijk belang, wederzijdse voordelen oplevert,
-
-Uiting gevende aan hun vastberadenheid om hun betrekkingen te blijven versterken door middel van nieuwe samenwerkingsovereenkomsten, alsook hun wens dat die samenwerking wordt uitgevoerd in het voordeel van derde landen, zoals vastgelegd in het in 2015 door de Partijen ondertekende Memorandum van overeenstemming over internationale samenwerking, en door de voortdurende deelneming van Chili aan de regionale programma’s van de Europese Unie,
-
-Herinnerende aan het belang van de verschillende overeenkomsten tussen de Europese Unie en Chili, die de politieke dialoog en samenwerking in de sectorale gebieden van de betrekkingen tussen de Partijen alsook handel en investeringen hebben bevorderd,
-
-Wijzende op het feit dat, als de Partijen in het kader van deze overeenkomst specifieke overeenkomsten sluiten op het gebied van vrijheid, veiligheid en recht, die door de Europese Unie zouden worden gesloten op grond van titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie („VWEU”), de bepalingen van dergelijke toekomstige overeenkomsten niet bindend zijn voor Ierland, tenzij de Europese Unie, samen met Ierland wat betreft hun respectieve eerdere bilaterale betrekkingen, Chili ervan in kennis stelt dat Ierland gebonden is door dergelijke toekomstige specifieke overeenkomsten als deel van de Europese Unie, overeenkomstig Protocol nr. 21 betreffende de positie van Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht, dat aan het Verdrag betreffende de Europese Unie („VEU”) en het VWEU is gehecht. Evenzo zijn latere interne maatregelen van de Europese Unie die met het oog op de uitvoering van deze overeenkomst op grond van titel V van het derde deel van het VWEU worden genomen, niet bindend voor Ierland, tenzij Ierland zijn wens te kennen heeft gegeven deel te nemen aan die maatregelen of die te aanvaarden overeenkomstig Protocol nr. 21. Voorts wijzende op het feit dat dergelijke toekomstige specifieke overeenkomsten of dergelijke latere interne maatregelen van de Europese Unie zouden komen te vallen onder de werkingssfeer Protocol nr. 22 betreffende de positie van Denemarken dat aan het VEU en het VWEU is gehecht,
-
-Zijn als volgt overeengekomen:
+*Preambule Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna „de lidstaten” genoemd, en de Europese Unie, enerzijds, en De Republiek Chili, hierna „Chili” genoemd, anderzijds, hierna gezamenlijk „de Partijen” genoemd, Gezien de sterke culturele, politieke, economische op samenwerking gebaseerde banden die hen binden, Opnieuw bevestigende dat zij de democratische beginselen, mensenrechten en fundamentele vrijheden, de rechtsstaat en goed bestuur aanhangen, en zich inzetten voor de verwezenlijking van duurzame ontwikkeling en het aanpakken van klimaatverandering, wat het uitgangspunt vormt voor hun partnerschap en samenwerking, Delende de mening dat de verspreiding van massavernietigingswapens en overbrengingsmiddelen daarvoor, onder zowel statelijke als niet-statelijke actoren, een van de ernstigste bedreigingen voor de internationale vrede en veiligheid vormt, Indachtig de belangrijke bijdrage voor de versterking van die banden die is geleverd door de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds, ondertekend te Brussel op 18 november 2002 („Associatieovereenkomst”), Benadrukkende dat hun betrekkingen van alomvattende aard zijn en dat het belangrijk is een samenhangend kader voor de voortgang ervan te scheppen, Gezien hun toezegging om de bestaande Associatieovereenkomst te moderniseren om rekening te houden met de nieuwe politieke en economische realiteit en de voortgang van hun partnerschap, Erkennende dat een sterk en doeltreffend multilateraal systeem, op basis van internationaal recht, van belang is om de vrede in stand te houden, conflicten te voorkomen, de internationale veiligheid te versterken en gezamenlijke uitdagingen aan te pakken, Bevestigende hun toezegging om de samenwerking op het gebied van bilaterale, regionale en mondiale kwesties van gemeenschappelijk belang te versterken en alle beschikbare instrumenten in te zetten om activiteiten te bevorderen die zijn opgezet om een actieve en wederzijdse internationale samenwerking tot stand te brengen, Ingenomen met de vaststelling van en het verzoek om uitvoering van het kader van Sendai voor rampenrisicovermindering 2015–2030, aangenomen tijdens de derde Wereldconferentie van de VN in Sendai op 18 maart 2015, de actieagenda van Addis Abeba van de derde internationale conferentie over ontwikkelingsfinanciering, aangenomen in Addis Abeba op 13 tot en met16 juli 2015, Resolutie 70/1, aangenomen door de Algemene Vergadering van de Verenigde Naties („Algemene Vergadering van de VN”) op 25 september 2015, houdende het slotdocument „Transforming our world: the 2030 Agenda for Sustainable Development and the 17 Sustainable Development Goals” (Naar een nieuwe wereld: de agenda inzake duurzame ontwikkeling voor 2030 en de 17 daarin vervatte duurzameontwikkelingsdoelstellingen) („Agenda 2030”), de Overeenkomst van Parijs in het kader van het Raamverdrag van de Verenigde Naties inzake klimaatverandering, gedaan te Parijs op 12 december 2015 („Overeenkomst van Parijs”), de Nieuwe Stedenagenda, goedgekeurd tijdens de VN-conferentie over huisvesting en duurzame stadsontwikkeling (Habitat III) op 20 oktober 2016 in Quito, Ecuador („Nieuwe Stedenagenda”) en de verbintenissen van de wereldtop over humanitaire hulp, aangenomen tijdens de wereldtop over humanitaire hulp in Istanbul op 23 en 24 mei 2016, Opnieuw bevestigende dat zij zich verbinden tot het bevorderen van duurzame ontwikkeling in economisch, sociaal en ecologisch opzicht, dat zij zich erop toeleggen de internationale handel zodanig te ontwikkelen dat die bijdraagt tot duurzame ontwikkeling in die drie dimensies, die onderling nauw zijn verbonden en elkaar wederzijds versterken, en dat zij zich verbinden tot het bevorderen van de verwezenlijking van de doelstellingen van de Agenda 2030, Opnieuw bevestigende dat zij vastbesloten zijn hun handelsbetrekkingen uit te breiden en te diversifiëren overeenkomstig de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (World Trade Organization, WTO), gedaan te Marrakesh op 15 april 1994, en de specifieke doelstellingen en bepalingen van deel III van deze overeenkomst, Geleid door de wens hun economische betrekkingen te versterken, in het bijzonder hun handels- en investeringsbetrekkingen, door de toegang tot de markt te versterken en te verbeteren, en bij te dragen tot economische groei, waarbij zij zich bewust zijn van de noodzaak het bewustzijn te vergroten rond de economische en sociale gevolgen van milieuschade, niet-duurzame productie- en consumptiepatronen en het bijbehorende effect op het menselijk welzijn, Ervan overtuigd dat deze overeenkomst een klimaat zal scheppen dat hun onderlinge duurzame economische betrekkingen zal doen groeien, met name op het gebied van handel en investeringen, die noodzakelijk zijn voor de economische en sociale ontwikkeling, de technologische innovatie, en modernisering, Erkennende dat de bepalingen van deze overeenkomst investeringen en investeerders beschermen en tot doel hebben tot wederzijds voordeel strekkende zakelijke activiteiten te stimuleren, zonder afbreuk te doen aan het recht van de Partijen op hun grondgebied regels te stellen in het openbaar belang, Erkennende het nauwe verband tussen innovatie en handel, alsook het belang van innovatie voor economische groei en sociale ontwikkeling, en ook bevestigende hun belang bij het bevorderen van een grotere mate van samenwerking op het gebied van innovatie, onderzoek, wetenschap, technologie, vervoer en andere daaraan gerelateerde gebieden, en bij het bevorderen van de deelname van de publieke en de particuliere sector, Bevestigende hun toezegging om intensiever samen te werken op het gebied van justitie, vrijheid en veiligheid, Erkennende dat de versterkte samenwerking op het gebied van onderwijs, milieuaangelegenheden, cultuur, onderzoek en innovatie, werkgelegenheid en sociale zaken, gezondheid en andere gebieden van gemeenschappelijk belang, wederzijdse voordelen oplevert, Uiting gevende aan hun vastberadenheid om hun betrekkingen te blijven versterken door middel van nieuwe samenwerkingsovereenkomsten, alsook hun wens dat die samenwerking wordt uitgevoerd in het voordeel van derde landen, zoals vastgelegd in het in 2015 door de Partijen ondertekende Memorandum van overeenstemming over internationale samenwerking, en door de voortdurende deelneming van Chili aan de regionale programma’s van de Europese Unie, Herinnerende aan het belang van de verschillende overeenkomsten tussen de Europese Unie en Chili, die de politieke dialoog en samenwerking in de sectorale gebieden van de betrekkingen tussen de Partijen alsook handel en investeringen hebben bevorderd, Wijzende op het feit dat, als de Partijen in het kader van deze overeenkomst specifieke overeenkomsten sluiten op het gebied van vrijheid, veiligheid en recht, die door de Europese Unie zouden worden gesloten op grond van titel V van het derde deel van het Verdrag betreffende de werking van de Europese Unie („VWEU”), de bepalingen van dergelijke toekomstige overeenkomsten niet bindend zijn voor Ierland, tenzij de Europese Unie, samen met Ierland wat betreft hun respectieve eerdere bilaterale betrekkingen, Chili ervan in kennis stelt dat Ierland gebonden is door dergelijke toekomstige specifieke overeenkomsten als deel van de Europese Unie, overeenkomstig Protocol nr. 21 betreffende de positie van Ierland ten aanzien van de ruimte van vrijheid, veiligheid en recht, dat aan het Verdrag betreffende de Europese Unie („VEU”) en het VWEU is gehecht. Evenzo zijn latere interne maatregelen van de Europese Unie die met het oog op de uitvoering van deze overeenkomst op grond van titel V van het derde deel van het VWEU worden genomen, niet bindend voor Ierland, tenzij Ierland zijn wens te kennen heeft gegeven deel te nemen aan die maatregelen of die te aanvaarden overeenkomstig Protocol nr. 21. Voorts wijzende op het feit dat dergelijke toekomstige specifieke overeenkomsten of dergelijke latere interne maatregelen van de Europese Unie zouden komen te vallen onder de werkingssfeer Protocol nr. 22 betreffende de positie van Denemarken dat aan het VEU en het VWEU is gehecht, Zijn als volgt overeengekomen:*
 
 ## DEEL I. ALGEMENE BEGINSELEN EN DOELSTELLINGEN
 
@@ -457,29 +336,29 @@ De Partijen werken samen om het gebruik van hun financiële instellingen en aang
 
 - b. het bevorderen van de uitwisseling van informatie, technische expertise en beste praktijken op gebieden als:
 
-- i. de groene en circulaire economie en de beste beschikbare technologieën;
+   - i. de groene en circulaire economie en de beste beschikbare technologieën;
 
-- ii. doelstellingen inzake het behoud en het duurzame gebruik van de biodiversiteit, met inbegrip van het in kaart brengen en beoordelen van ecosystemen en ecosysteemdiensten, de waardering ervan, en het opnemen van die doelstellingen in andere relevante beleidsdomeinen;
+   - ii. doelstellingen inzake het behoud en het duurzame gebruik van de biodiversiteit, met inbegrip van het in kaart brengen en beoordelen van ecosystemen en ecosysteemdiensten, de waardering ervan, en het opnemen van die doelstellingen in andere relevante beleidsdomeinen;
 
-- iii. de bescherming en het duurzame beheer van bossen;
+   - iii. de bescherming en het duurzame beheer van bossen;
 
-- iv. de bestrijding van de illegale handel in wilde dieren en planten, daarbij inbegrepen hout en andere biologische hulpbronnen;
+   - iv. de bestrijding van de illegale handel in wilde dieren en planten, daarbij inbegrepen hout en andere biologische hulpbronnen;
 
-- v. het deugdelijke beheer van chemische stoffen en afval;
+   - v. het deugdelijke beheer van chemische stoffen en afval;
 
-- vi. watervoorraden, bodem en het beleid inzake landgebruik;
+   - vi. watervoorraden, bodem en het beleid inzake landgebruik;
 
-- vii. luchtverontreiniging en beperking van kortlevende verontreinigende stoffen;
+   - vii. luchtverontreiniging en beperking van kortlevende verontreinigende stoffen;
 
-- viii. het behoud en het beheer van het kust- en mariene milieu;
+   - viii. het behoud en het beheer van het kust- en mariene milieu;
 
-- ix. de sociale en economische gevolgen van de achteruitgang van het milieu;
+   - ix. de sociale en economische gevolgen van de achteruitgang van het milieu;
 
-- x. de gevolgen voor het milieu van economische activiteiten en de kansen die de vergroening van bedrijven biedt;
+   - x. de gevolgen voor het milieu van economische activiteiten en de kansen die de vergroening van bedrijven biedt;
 
-- xi. toegang tot informatie, deelname en toegang tot de rechter inzake milieuaangelegenheden;
+   - xi. toegang tot informatie, deelname en toegang tot de rechter inzake milieuaangelegenheden;
 
-- xii. gezamenlijke academische onderzoek op het gebied van milieuaangelegenheden.
+   - xii. gezamenlijke academische onderzoek op het gebied van milieuaangelegenheden.
 
 ##### Artikel 4.4. Klimaatverandering
 
@@ -581,7 +460,7 @@ De Partijen werken samen om het gebruik van hun financiële instellingen en aang
 
 3. De Partijen ontwikkelen waar mogelijk concrete mogelijkheden voor samenwerking tussen steden inzake duurzame oplossingen voor stedelijke uitdagingen, om de capaciteitsopbouw te verbeteren door uitwisseling van ervaringen en praktijken en door van elkaar te leren.
 
-##### Artikel 4.9. Samenwerking op het gebied van landbouw en plattelandsontwikkeling2)Voor zover de aangelegenheden die onder dit artikel vallen ook in hoofdstuk 14 aan bod komen, wordt de in dit artikel bedoelde samenwerking volgens dat hoofdstuk behandeld.
+##### Artikel 4.9. Samenwerking op het gebied van landbouw en plattelandsontwikkeling2) Voor zover de aangelegenheden die onder dit artikel vallen ook in hoofdstuk 14 aan bod komen, wordt de in dit artikel bedoelde samenwerking volgens dat hoofdstuk behandeld.
 
 1. De Partijen werken samen op het gebied van landbouw en plattelandsontwikkeling met de gemeenschappelijke doelstelling om de veerkracht en duurzaamheid van de voedselproductie, duurzame landbouw en het beheer van natuurlijke hulpbronnen zoals water, en klimaatactie en circulaire voedselsystemen te verbeteren, onder meer door voedselverlies en -verspilling te voorkomen en te verminderen, en producentenorganisaties, geografische aanduidingen, onderzoek en innovatie, beleid inzake plattelandsontwikkeling en de vooruitzichten voor de landbouwmarkt te bevorderen.
 
@@ -893,7 +772,7 @@ De Partijen zullen in de context van hun politieke dialoog en samenwerking werke
 
 ### HOOFDSTUK 8. ALGEMENE EN INSTITUTIONELE BEPALINGEN
 
-### AFDELING A. ALGEMENE BEPALINGEN
+#### AFDELING A. ALGEMENE BEPALINGEN
 
 ##### Artikel 8.1. Instelling van een vrijhandelszone
 
@@ -935,11 +814,11 @@ Voor de toepassing van dit deel van deze overeenkomst wordt in de bijlagen 9, 10
 
 - c. „douanerechten”: alle soorten rechten of heffingen die worden opgelegd ter zake van of in verband met de invoer van goederen, met uitzondering van:
 
-- i. heffingen gelijkwaardig aan interne belastingen die overeenkomstig artikel 9.4 van deze overeenkomst worden opgelegd;
+   - i. heffingen gelijkwaardig aan interne belastingen die overeenkomstig artikel 9.4 van deze overeenkomst worden opgelegd;
 
-- ii. antidumping-, bijzondere vrijwarings-, compenserende of vrijwaringsrechten die worden toegepast in overeenstemming met de GATT 1994, de Antidumpingovereenkomst, de Overeenkomst inzake de landbouw, de Overeenkomst inzake subsidies en compenserende maatregelen of de Overeenkomst inzake vrijwaringsmaatregelen, indien van toepassing; en
+   - ii. antidumping-, bijzondere vrijwarings-, compenserende of vrijwaringsrechten die worden toegepast in overeenstemming met de GATT 1994, de Antidumpingovereenkomst, de Overeenkomst inzake de landbouw, de Overeenkomst inzake subsidies en compenserende maatregelen of de Overeenkomst inzake vrijwaringsmaatregelen, indien van toepassing; en
 
-- iii. alle vergoedingen of andere heffingen die worden opgelegd ter zake van of in verband met de invoer en waarvan de hoogte beperkt is tot, bij benadering, de kosten van verleende diensten;
+   - iii. alle vergoedingen of andere heffingen die worden opgelegd ter zake van of in verband met de invoer en waarvan de hoogte beperkt is tot, bij benadering, de kosten van verleende diensten;
 
 - d. „CPC”: de Provisional Central Product Classification (de voorlopige centrale productenclassificatie) (Statistical Papers Series M No. 77, Department of International Economic and Social Affairs, Statistical Office of the United Nations, New York, 1991);
 
@@ -961,19 +840,20 @@ Voor de toepassing van dit deel van deze overeenkomst wordt in de bijlagen 9, 10
 
 - m. „maatregel”: elke maatregel in de vorm van een wet, regeling, voorschrift, procedure, besluit, administratieve actie, eis, praktijk of in enige andere vorm;
 
-- n. „maatregel van een Partij”: alle maatregelen die worden vastgesteld of gehandhaafd door 3) Voor alle duidelijkheid valt onder „maatregel” ook het nalaten van een Partij acties te ondernemen die nodig zijn om haar verplichtingen krachtens deze overeenkomst na te komen.:
+- n. „maatregel van een Partij”: alle maatregelen die worden vastgesteld of gehandhaafd door 3)
+ Voor alle duidelijkheid valt onder „maatregel” ook het nalaten van een Partij acties te ondernemen die nodig zijn om haar verplichtingen krachtens deze overeenkomst na te komen.:
 
-- i. overheden en autoriteiten op alle niveaus;
+   - i. overheden en autoriteiten op alle niveaus;
 
-- ii. niet-gouvernementele organen bij de uitoefening van door overheden of autoriteiten op alle niveaus gedelegeerde bevoegdheden4)Voor alle duidelijkheid: de verplichtingen van een Partij uit hoofde van deze overeenkomst zijn van toepassing op een overheidsbedrijf of een andere persoon wanneer die als regelgevende of administratieve autoriteit optreedt of aan haar door een Partij een andere overheidsautoriteit is gedelegeerd, zoals de bevoegdheid tot onteigening, de afgifte van vergunningen, de goedkeuring van handelstransacties of het opleggen van quota, vergoedingen of andere heffingen.; of
+   - ii. niet-gouvernementele organen bij de uitoefening van door overheden of autoriteiten op alle niveaus gedelegeerde bevoegdheden4)Voor alle duidelijkheid: de verplichtingen van een Partij uit hoofde van deze overeenkomst zijn van toepassing op een overheidsbedrijf of een andere persoon wanneer die als regelgevende of administratieve autoriteit optreedt of aan haar door een Partij een andere overheidsautoriteit is gedelegeerd, zoals de bevoegdheid tot onteigening, de afgifte van vergunningen, de goedkeuring van handelstransacties of het opleggen van quota, vergoedingen of andere heffingen.; of
 
-- iii. entiteiten die met betrekking tot de maatregel in werkelijkheid handelen in opdracht van of onder het gezag of toezicht van een Partij5)Voor alle duidelijkheid: indien een Partij beweert dat een entiteit optreedt als bedoeld in punt iii), ligt de bewijslast bij die Partij en moet zij ten minste concrete aanwijzingen aandragen.;
+   - iii. entiteiten die met betrekking tot de maatregel in werkelijkheid handelen in opdracht van of onder het gezag of toezicht van een Partij5)Voor alle duidelijkheid: indien een Partij beweert dat een entiteit optreedt als bedoeld in punt iii), ligt de bewijslast bij die Partij en moet zij ten minste concrete aanwijzingen aandragen.;
 
 - o. „natuurlijke persoon”:
 
-- i. voor de EU-Partij, een onderdaan van een lidstaat overeenkomstig het recht van die lidstaat6)Voor de toepassing van de hoofdstukken 17 tot en met 27 omvat de definitie van „natuurlijke persoon” tevens natuurlijke personen die permanent ingezetene van de Republiek Letland zijn en die geen staatsburger van de Republiek Letland of van enige andere staat zijn, maar die uit hoofde van de wet- en regelgeving van de Republiek Letland recht hebben op een paspoort voor niet-staatsburgers.; en
+   - i. voor de EU-Partij, een onderdaan van een lidstaat overeenkomstig het recht van die lidstaat6)Voor de toepassing van de hoofdstukken 17 tot en met 27 omvat de definitie van „natuurlijke persoon” tevens natuurlijke personen die permanent ingezetene van de Republiek Letland zijn en die geen staatsburger van de Republiek Letland of van enige andere staat zijn, maar die uit hoofde van de wet- en regelgeving van de Republiek Letland recht hebben op een paspoort voor niet-staatsburgers.; en
 
-- ii. voor Chili, een onderdaan van Chili overeenkomstig het recht van Chili;
+   - ii. voor Chili, een onderdaan van Chili overeenkomstig het recht van Chili;
 
 - p. „goed van oorsprong”: een goed dat geldt als goed van oorsprong uit hoofde van de oorsprongsregels in hoofdstuk 10;
 
@@ -1003,7 +883,7 @@ Voor de toepassing van dit deel van deze overeenkomst wordt in de bijlagen 9, 10
 
 3. In geval van strijdigheid tussen deze overeenkomst en een andere bestaande overeenkomst dan de WTO-Overeenkomst waarbij beide Partijen partij zijn en die binnen het toepassingsgebied van dit deel van deze overeenkomst valt, plegen de Partijen onmiddellijk overleg met elkaar om tot een voor beide Partijen aanvaardbare oplossing te komen.
 
-### AFDELING B. INSTITUTIONELE BEPALINGEN
+#### AFDELING B. INSTITUTIONELE BEPALINGEN
 
 ##### Artikel 8.5. Specifieke taken van de Gezamenlijke Raad in zijn samenstelling voor handelsvraagstukken
 
@@ -1011,29 +891,29 @@ Voor de toepassing van dit deel van deze overeenkomst wordt in de bijlagen 9, 10
 
 - a. besluiten vaststellen tot wijziging van:
 
-- i. de tarieflijsten in de aanhangsels 9-1 en 9-2 om de tariefafbraak te versnellen;
+   - i. de tarieflijsten in de aanhangsels 9-1 en 9-2 om de tariefafbraak te versnellen;
 
-- ii. hoofdstuk 10 en de bijlagen 10-A tot en met 10-E;
+   - ii. hoofdstuk 10 en de bijlagen 10-A tot en met 10-E;
 
-- iii. de bijlagen 13-F en 13-G, en aanhangsel 13-E-1;
+   - iii. de bijlagen 13-F en 13-G, en aanhangsel 13-E-1;
 
-- iv. de bijlagen 16-A, 16-D, 16-E, en punt 1 van bijlage 16-B;
+   - iv. de bijlagen 16-A, 16-D, 16-E, en punt 1 van bijlage 16-B;
 
-- v. bijlage 21-B;
+   - v. bijlage 21-B;
 
-- vi. bijlage 29;
+   - vi. bijlage 29;
 
-- vii. de definitie van „subsidie” in artikel 31.2, lid 1, voor zover die betrekking heeft op ondernemingen die diensten verlenen, met het oog op de opname van het resultaat van toekomstige besprekingen in de WTO of aanverwante plurilaterale fora over dat onderwerp;
+   - vii. de definitie van „subsidie” in artikel 31.2, lid 1, voor zover die betrekking heeft op ondernemingen die diensten verlenen, met het oog op de opname van het resultaat van toekomstige besprekingen in de WTO of aanverwante plurilaterale fora over dat onderwerp;
 
-- viii. bijlage 32-A wat betreft de verwijzingen naar het in de Partijen toepasselijke recht;
+   - viii. bijlage 32-A wat betreft de verwijzingen naar het in de Partijen toepasselijke recht;
 
-- ix. bijlage 32-B met betrekking tot de criteria die in de bezwaarprocedure moeten worden opgenomen;
+   - ix. bijlage 32-B met betrekking tot de criteria die in de bezwaarprocedure moeten worden opgenomen;
 
-- x. bijlage 32-C wat betreft de geografische aanduidingen;
+   - x. bijlage 32-C wat betreft de geografische aanduidingen;
 
-- xi. de bijlagen 38-A en 38-B; en
+   - xi. de bijlagen 38-A en 38-B; en
 
-- xii. alle andere bepalingen, bijlagen, aanhangsels of protocollen waarvan de wijziging in dit deel van deze overeenkomst is voorzien;
+   - xii. alle andere bepalingen, bijlagen, aanhangsels of protocollen waarvan de wijziging in dit deel van deze overeenkomst is voorzien;
 
 - b. besluiten vaststellen om uitleggingen van de bepalingen van dit deel van deze overeenkomst te geven, die bindend zijn voor de Partijen en alle uit hoofde van dit deel van deze overeenkomst opgerichte organen en voor de in de hoofdstukken 33 en 38 bedoelde panels;
 
@@ -1129,25 +1009,25 @@ Voor de toepassing van dit hoofdstuk en bijlage 9 wordt verstaan onder:
 
 - f. „gereviseerd goed”: een goed dat is ingedeeld onder de hoofdstukken 84 tot en met 90 of onder post 94.02, met uitzondering van goederen die zijn ingedeeld onder de posten 84.18, 85.09, 85.10, 85.16 en 87.03 of onderverdelingen 8414.51, 8450.11, 8450.12, 8508.1 en 8517.11 van het GS en dat:
 
-- i. geheel of gedeeltelijk bestaat uit onderdelen die zijn verkregen uit gebruikte goederen;
+   - i. geheel of gedeeltelijk bestaat uit onderdelen die zijn verkregen uit gebruikte goederen;
 
-- ii. met een origineel nieuw goed vergelijkbare prestaties en werkingsvoorwaarden vertoont; en
+   - ii. met een origineel nieuw goed vergelijkbare prestaties en werkingsvoorwaarden vertoont; en
 
-- iii. waarvoor dezelfde garantie als voor een origineel nieuw goed wordt gegeven;
+   - iii. waarvoor dezelfde garantie als voor een origineel nieuw goed wordt gegeven;
 
 - g. „reparatie”: elke bewerkingshandeling ten aanzien van goederen die ten doel heeft een gebrekkige werking of materiële schade te herstellen zodat de oorspronkelijke functie ervan wordt hersteld, of ervoor te zorgen dat de goederen aan de technische voorschriften voor gebruik ervan voldoen, zonder welke handeling de goederen niet meer op de normale wijze kunnen worden gebruikt voor het doel waarvoor zij zijn bestemd. De reparatie van goederen omvat het herstel en onderhoud, maar omvat geen bewerkingen of processen waardoor:
 
-- i. de wezenlijke kenmerken van een goed teniet worden gedaan, of een nieuw of commercieel verschillend goed ontstaat;
+   - i. de wezenlijke kenmerken van een goed teniet worden gedaan, of een nieuw of commercieel verschillend goed ontstaat;
 
-- ii. een onafgewerkt goed in een afgewerkt goed wordt getransformeerd; of
+   - ii. een onafgewerkt goed in een afgewerkt goed wordt getransformeerd; of
 
-- iii. de technische prestaties van een goed worden verbeterd of vergroot;
+   - iii. de technische prestaties van een goed worden verbeterd of vergroot;
 
 - h. „afbouwcategorie”: de termijn voor de afschaffing van douanerechten, variërend van nul tot zeven jaar, waarna een goed vrij van douanerechten is, tenzij anders bepaald in de lijsten in bijlage 9.
 
 ##### Artikel 9.4. Nationale behandeling op gebied van interne belastingen en regelgeving
 
-Elke Partij behandelt goederen van de andere Partij als nationale goederen, in overeenstemming met artikel III van de GATT 1994 en de aantekeningen en aanvullende bepalingen daarbij. Daartoe worden artikel III van de GATT 1994 en de aantekeningen en aanvullende bepalingen daarbij **mutatis mutandis** in deze overeenkomst opgenomen en maken zij daar integrerend deel van uit.
+Elke Partij behandelt goederen van de andere Partij als nationale goederen, in overeenstemming met artikel III van de GATT 1994 en de aantekeningen en aanvullende bepalingen daarbij. Daartoe worden artikel III van de GATT 1994 en de aantekeningen en aanvullende bepalingen daarbij *mutatis mutandis* in deze overeenkomst opgenomen en maken zij daar integrerend deel van uit.
 
 ##### Artikel 9.5. Verlaging of afschaffing van douanerechten
 
@@ -1197,7 +1077,7 @@ Elke Partij behandelt goederen van de andere Partij als nationale goederen, in o
 
 2. Lid 1 is niet van toepassing op goederen die in een douane-entrepot, in vrijhandelszones of met een soortgelijke status zijn ingevoerd, vervolgens worden uitgevoerd ter reparatie en niet opnieuw worden ingevoerd in een douane-entrepot, in vrijhandelszones of met een soortgelijke status.
 
-3. Een Partij past geen douanerechten toe op goederen, ongeacht de oorsprong ervan, die ter reparatie tijdelijk uit het douanegebied van de andere Partij worden ingevoerd9)In de EU-partij wordt voor de toepassing van dit lid de regeling actieve veredeling als bedoeld in [Verordening (EU) nr. 952/2013](32013R0952) van het Europees Parlement en de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PB EU L 269 van 10.10.2013, blz. 1) gebruikt..
+3. Een Partij past geen douanerechten toe op goederen, ongeacht de oorsprong ervan, die ter reparatie tijdelijk uit het douanegebied van de andere Partij worden ingevoerd9)In de EU-partij wordt voor de toepassing van dit lid de regeling actieve veredeling als bedoeld in Verordening (EU) nr. 952/2013 van het Europees Parlement en de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PB EU L 269 van 10.10.2013, blz. 1) gebruikt..
 
 ##### Artikel 9.10. Gereviseerde goederen
 
@@ -1209,7 +1089,7 @@ Elke Partij behandelt goederen van de andere Partij als nationale goederen, in o
 
 ##### Artikel 9.11. In- en uitvoerbeperkingen
 
-Daartoe worden artikel XI van de GATT 1994 en de aantekeningen en aanvullende bepalingen daarbij **mutatis mutandis** in dit deel van deze overeenkomst opgenomen en maken zij daarvan integrerend deel van uit. Een Partij voert dienovereenkomstig geen verboden of beperkingen in en handhaaft die evenmin ter zake van de invoer van een goed van de andere Partij of van de uitvoer of verkoop ten uitvoer van een goed dat voor het grondgebied van de andere Partij is bestemd, tenzij dat in overeenstemming is met artikel XI van de GATT 1994 en de aantekeningen en aanvullende bepalingen daarbij.
+Daartoe worden artikel XI van de GATT 1994 en de aantekeningen en aanvullende bepalingen daarbij *mutatis mutandis* in dit deel van deze overeenkomst opgenomen en maken zij daarvan integrerend deel van uit. Een Partij voert dienovereenkomstig geen verboden of beperkingen in en handhaaft die evenmin ter zake van de invoer van een goed van de andere Partij of van de uitvoer of verkoop ten uitvoer van een goed dat voor het grondgebied van de andere Partij is bestemd, tenzij dat in overeenstemming is met artikel XI van de GATT 1994 en de aantekeningen en aanvullende bepalingen daarbij.
 
 ##### Artikel 9.12. Oorsprongsaanduiding
 
@@ -1309,7 +1189,7 @@ Het op grond van artikel 8.8, lid 1, ingestelde Subcomité voor de handel in goe
 
 ### HOOFDSTUK 10. OORSPRONGSREGELS EN OORSPRONGSPROCEDURES
 
-### AFDELING A. OORSPRONGSREGELS
+#### AFDELING A. OORSPRONGSREGELS
 
 ##### Artikel 10.1. Definities
 
@@ -1321,9 +1201,9 @@ Voor de toepassing van dit hoofdstuk en bijlagen 10-A tot en met 10-E:
 
 - c. „douaneautoriteit”:
 
-- i. voor Chili, de Nationale Douanedienst; en
+   - i. voor Chili, de Nationale Douanedienst; en
 
-- ii. voor de EU-Partij, de voor douanezaken bevoegde diensten van de Europese Commissie en de douanediensten alsook alle andere autoriteiten in de lidstaten die belast zijn met de toepassing en de handhaving van de douanewetgeving;
+   - ii. voor de EU-Partij, de voor douanezaken bevoegde diensten van de Europese Commissie en de douanediensten alsook alle andere autoriteiten in de lidstaten die belast zijn met de toepassing en de handhaving van de douanewetgeving;
 
 - d. „exporteur”: een in een Partij gevestigde persoon die overeenkomstig de wet- en regelgeving van die Partij het product van oorsprong uitvoert of produceert en een attest van oorsprong opstelt;
 
@@ -1363,9 +1243,9 @@ Voor de toepassing van dit hoofdstuk en bijlagen 10-A tot en met 10-E:
 
 - b. de oorsprong van de in dit lid bedoelde materialen wordt bepaald in overeenstemming met de oorsprongsregels die van toepassing zijn in het kader van:
 
-- i. de handelsovereenkomst van de EU-Partij waarbij een vrijhandelsruimte met dat derde land is ingesteld, indien het betrokken materiaal wordt gebruikt voor de productie van een product in Chili; en
+   - i. de handelsovereenkomst van de EU-Partij waarbij een vrijhandelsruimte met dat derde land is ingesteld, indien het betrokken materiaal wordt gebruikt voor de productie van een product in Chili; en
 
-- ii. de handelsovereenkomst van Chili waarbij een vrijhandelsruimte met dat derde land is ingesteld, indien het betrokken materiaal wordt gebruikt voor de productie van een product in de EU-Partij;
+   - ii. de handelsovereenkomst van Chili waarbij een vrijhandelsruimte met dat derde land is ingesteld, indien het betrokken materiaal wordt gebruikt voor de productie van een product in de EU-Partij;
 
 - c. tussen die Partij en dat derde land een regeling inzake adequate administratieve douanesamenwerking van kracht is die de volledige uitvoering van dit hoofdstuk waarborgt, met inbegrip van de bepalingen inzake het gebruik van passende documenten betreffende de oorsprong van materialen, en die Partij de andere Partij in kennis stelt van die regeling;
 
@@ -1415,13 +1295,13 @@ Voor de toepassing van dit hoofdstuk en bijlagen 10-A tot en met 10-E:
 
 - c. aan een van de volgende voorwaarden voldoet:
 
-- i. het is voor meer dan 50 % eigendom van natuurlijke personen van een lidstaat of van Chili; of
+   - i. het is voor meer dan 50 % eigendom van natuurlijke personen van een lidstaat of van Chili; of
 
-- ii. het is eigendom van rechtspersonen die:
+   - ii. het is eigendom van rechtspersonen die:
 
-- A. hun hoofdkantoor en hun belangrijkste economische activiteit in een lidstaat of in Chili hebben; en
+      - A. hun hoofdkantoor en hun belangrijkste economische activiteit in een lidstaat of in Chili hebben; en
 
-- B. voor meer dan 50 % eigendom zijn van personen van een van die Partijen.
+      - B. voor meer dan 50 % eigendom zijn van personen van een van die Partijen.
 
 ##### Artikel 10.5. Toleranties
 
@@ -1557,7 +1437,7 @@ Wanneer een uit een Partij naar een derde land uitgevoerd product van oorsprong 
 
 4. De douaneautoriteiten van de invoerende Partij kunnen een bewijs verlangen waaruit blijkt dat de producten in het land van de tentoonstelling onder douanecontrole zijn gebleven, alsook aanvullende bewijsstukken met betrekking tot de voorwaarden waaronder zij zijn tentoongesteld.
 
-### AFDELING B. OORSPRONGSPROCEDURES
+#### AFDELING B. OORSPRONGSPROCEDURES
 
 ##### Artikel 10.16. Verzoek om preferentiële tariefbehandeling
 
@@ -1631,15 +1511,15 @@ De douaneautoriteit van de invoerende Partij mag een verzoek om preferentiële t
 
 - b. informatie over het voldoen aan de oorsprongscriteria, te weten:
 
-- i. als het oorsprongscriterium „volledig verkregen” is, de toepasselijke categorie (zoals oogst, ontginning, bevissing) en plaats van productie;
+   - i. als het oorsprongscriterium „volledig verkregen” is, de toepasselijke categorie (zoals oogst, ontginning, bevissing) en plaats van productie;
 
-- ii. als het oorsprongscriterium is gebaseerd op een wijziging in tariefindeling, een lijst van alle niet van oorsprong zijnde materialen, met inbegrip van het tariefindelingsnummer ervan (in 2, 4 of 6 cijfers, afhankelijk van het oorsprongscriterium);
+   - ii. als het oorsprongscriterium is gebaseerd op een wijziging in tariefindeling, een lijst van alle niet van oorsprong zijnde materialen, met inbegrip van het tariefindelingsnummer ervan (in 2, 4 of 6 cijfers, afhankelijk van het oorsprongscriterium);
 
-- iii. als het oorsprongscriterium is gebaseerd op een waardemethode, de waarde van het eindproduct evenals de waarde van alle bij de productie gebruikte niet van oorsprong zijnde materialen;
+   - iii. als het oorsprongscriterium is gebaseerd op een waardemethode, de waarde van het eindproduct evenals de waarde van alle bij de productie gebruikte niet van oorsprong zijnde materialen;
 
-- iv. als het oorsprongscriterium is gebaseerd op gewicht, het gewicht van het eindproduct alsook het gewicht van de desbetreffende in het eindproduct gebruikte niet van oorsprong zijnde materialen; en
+   - iv. als het oorsprongscriterium is gebaseerd op gewicht, het gewicht van het eindproduct alsook het gewicht van de desbetreffende in het eindproduct gebruikte niet van oorsprong zijnde materialen; en
 
-- v. als het oorsprongscriterium is gebaseerd op een specifiek productieprocedé, een beschrijving van dat specifieke procedé.
+   - v. als het oorsprongscriterium is gebaseerd op een specifiek productieprocedé, een beschrijving van dat specifieke procedé.
 
 3. Wanneer de importeur de gevraagde informatie verstrekt, kan hij daaraan alle andere informatie toevoegen die hij met het oog op de verificatie nuttig acht.
 
@@ -1699,23 +1579,23 @@ Bij een vermoede inbreuk op dit hoofdstuk verlenen de Partijen elkaar wederzijds
 
 - a. binnen een termijn van drie maanden na het verzoek om informatie op grond van artikel 10.22, lid 1:
 
-- i. de importeur geen antwoord heeft verstrekt;
+   - i. de importeur geen antwoord heeft verstrekt;
 
-- ii. in gevallen waarin het verzoek om preferentiële tariefbehandeling is gebaseerd op een attest van oorsprong overeenkomstig artikel 10.16, lid 2, punt a), het attest van oorsprong niet werd verstrekt; of
+   - ii. in gevallen waarin het verzoek om preferentiële tariefbehandeling is gebaseerd op een attest van oorsprong overeenkomstig artikel 10.16, lid 2, punt a), het attest van oorsprong niet werd verstrekt; of
 
-- iii. in gevallen waarin het verzoek om preferentiële tariefbehandeling op de aan de importeur bekende informatie als bedoeld in artikel 10.16, lid 2, punt b), is gebaseerd, de door de importeur verstrekte informatie niet volstaat om de oorsprongsstatus van het product te bevestigen;
+   - iii. in gevallen waarin het verzoek om preferentiële tariefbehandeling op de aan de importeur bekende informatie als bedoeld in artikel 10.16, lid 2, punt b), is gebaseerd, de door de importeur verstrekte informatie niet volstaat om de oorsprongsstatus van het product te bevestigen;
 
 - b. binnen een termijn van drie maanden na het verzoek om aanvullende informatie op grond van artikel 10.22, lid 5:
 
-- i. de importeur geen antwoord heeft verstrekt; of
+   - i. de importeur geen antwoord heeft verstrekt; of
 
-- ii. de door de importeur verstrekte informatie niet volstaat om te bevestigen dat het product van oorsprong is;
+   - ii. de door de importeur verstrekte informatie niet volstaat om te bevestigen dat het product van oorsprong is;
 
 - c. binnen een termijn van tien maanden na het verzoek om informatie op grond van artikel 10.23, lid 2:
 
-- i. de douaneautoriteit van de uitvoerende Partij geen antwoord heeft verstrekt; of
+   - i. de douaneautoriteit van de uitvoerende Partij geen antwoord heeft verstrekt; of
 
-- ii. de door de douaneautoriteit van de uitvoerende Partij verstrekte informatie ontoereikend is om de oorsprongsstatus van het product te kunnen bevestigen.
+   - ii. de door de douaneautoriteit van de uitvoerende Partij verstrekte informatie ontoereikend is om de oorsprongsstatus van het product te kunnen bevestigen.
 
 2. De douaneautoriteit van de invoerende Partij kan een verzoek om preferentiële tariefbehandeling weigeren indien de importeur die om preferentiële tariefbehandeling verzoekt niet aan andere vereisten van dit hoofdstuk dan die welke betrekking hebben op de oorsprongsstatus van de producten voldoet.
 
@@ -1765,7 +1645,7 @@ Bij een vermoede inbreuk op dit hoofdstuk verlenen de Partijen elkaar wederzijds
 
 2. De Partij houdt rekening met artikel 6, lid 3.6, van de Overeenkomst inzake handelsfacilitatie in bijlage 1A bij de WTO-overeenkomst in gevallen waarin een importeur vrijwillig een correctie van een verzoek om preferentiële behandeling bekendmaakt vóórdat hij een verzoek om verificatie ontvangt, overeenkomstig de wet- en regelgeving van die Partij.
 
-### AFDELING C. SLOTBEPALINGEN
+#### AFDELING C. SLOTBEPALINGEN
 
 ##### Artikel 10.29. Ceuta en Melilla
 
@@ -1773,7 +1653,7 @@ Bij een vermoede inbreuk op dit hoofdstuk verlenen de Partijen elkaar wederzijds
 
 2. Producten van oorsprong uit Chili die in Ceuta of Melilla worden ingevoerd, krijgen in elk opzicht krachtens dit deel van deze overeenkomst dezelfde douanebehandeling als die welke uit hoofde van Protocol nr. 2 bij de Akte van Toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Unie aan producten van oorsprong uit het douanegebied van de Europese Unie wordt verleend. Chili past op de invoer van onder dit deel van deze overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde douanebehandeling toe als op de invoer van producten van oorsprong uit de EU-Partij.
 
-3. De oorsprongsregels en oorsprongsprocedures uit hoofde van dit hoofdstuk zijn **mutatis mutandis** van toepassing op producten die vanuit Chili naar Ceuta en Melilla worden uitgevoerd en op producten die vanuit Ceuta en Melilla naar Chili worden uitgevoerd.
+3. De oorsprongsregels en oorsprongsprocedures uit hoofde van dit hoofdstuk zijn *mutatis mutandis* van toepassing op producten die vanuit Chili naar Ceuta en Melilla worden uitgevoerd en op producten die vanuit Ceuta en Melilla naar Chili worden uitgevoerd.
 
 4. Ceuta en Melilla worden als één grondgebied beschouwd.
 
@@ -1797,9 +1677,9 @@ De Gezamenlijke Raad kan besluiten vaststellen tot wijziging van dit hoofdstuk e
 
 - a. aan het Gemengd Comité zo nodig passende aanbevelingen doen over:
 
-- i. de toepassing en werking van dit hoofdstuk; en
+   - i. de toepassing en werking van dit hoofdstuk; en
 
-- ii. eventuele door een Partij voorgestelde wijzigingen van dit hoofdstuk en van bijlagen 10-A tot en met 10-E;
+   - ii. eventuele door een Partij voorgestelde wijzigingen van dit hoofdstuk en van bijlagen 10-A tot en met 10-E;
 
 - b. het doen van suggesties aan het Gemengd Comité over de vaststelling van toelichtingen om de toepassing van dit hoofdstuk te vergemakkelijken; en
 
@@ -1829,7 +1709,7 @@ Bijlage 10-E (Toelichting) bevat een toelichting op de uitlegging, de toepassing
 
 Voor de toepassing van dit hoofdstuk wordt onder „douaneautoriteit” verstaan:
 
-- a. voor Chili, de **Servicio Nacional de Aduanas** (Nationale Douanedienst), of de opvolger daarvan; en
+- a. voor Chili, de *Servicio Nacional de Aduanas* (Nationale Douanedienst), of de opvolger daarvan; en
 
 - b. voor de EU-Partij, de voor douanezaken bevoegde diensten van de Europese Commissie en de douanediensten alsook alle andere autoriteiten in de lidstaten die belast zijn met de toepassing en de handhaving van de douanewet- en -regelgeving.
 
@@ -1841,17 +1721,17 @@ Voor de toepassing van dit hoofdstuk wordt onder „douaneautoriteit” verstaan
 
 - a. uitwisseling van informatie betreffende de douanewet- en regelgeving, de uitvoering ervan en de douaneprocedures, in het bijzonder op de volgende gebieden:
 
-- i. vereenvoudiging en modernisering van de douaneprocedures;
+   - i. vereenvoudiging en modernisering van de douaneprocedures;
 
-- ii. handhaving van intellectuele-eigendomsrechten door de douaneautoriteiten;
+   - ii. handhaving van intellectuele-eigendomsrechten door de douaneautoriteiten;
 
-- iii. vergemakkelijking van doorvoer en overlading;
+   - iii. vergemakkelijking van doorvoer en overlading;
 
-- iv. betrekkingen met het bedrijfsleven; en
+   - iv. betrekkingen met het bedrijfsleven; en
 
-- v. veiligheid van de toeleveringsketen en risicobeheer;
+   - v. veiligheid van de toeleveringsketen en risicobeheer;
 
-- b. samen te werken inzake de douanegerelateerde aspecten van de beveiliging en vergemakkelijking van internationale handelstoeleveringsketen overeenkomstig het in juni 2005 aangenomen **SAFE Framework of Standards to Secure and Facilitate Global Trade** van de Werelddouaneorganisatie („WDO”);
+- b. samen te werken inzake de douanegerelateerde aspecten van de beveiliging en vergemakkelijking van internationale handelstoeleveringsketen overeenkomstig het in juni 2005 aangenomen *SAFE Framework of Standards to Secure and Facilitate Global Trade* van de Werelddouaneorganisatie („WDO”);
 
 - c. de ontwikkeling van gezamenlijke initiatieven te overwegen op het gebied van invoer-, uitvoer- en andere douaneprocedures, met inbegrip van de uitwisseling van beste praktijken en technische bijstand, en het bedrijfsleven een doeltreffende dienstverlening aan te bieden; een dergelijke samenwerking kan uitwisselingen omvatten over douanelaboratoria, de opleiding van douanebeambten en nieuwe technologieën voor douanecontroles en -procedures;
 
@@ -1861,7 +1741,7 @@ Voor de toepassing van dit hoofdstuk wordt onder „douaneautoriteit” verstaan
 
 - f. uitwisselingen te houden over risicobeheertechnieken, risiconormen en veiligheidscontroles om, voor zover praktisch mogelijk, minimumnormen voor risicobeheertechnieken en daarmee samenhangende vereisten en programma’s vast te stellen;
 
-- g. te streven naar harmonisering van hun gegevensvereisten met betrekking tot invoer-, uitvoer- en andere douaneprocedures, door gemeenschappelijke normen en gegevenselementen toe te passen overeenkomstig het **Data Model** van de WDO;
+- g. te streven naar harmonisering van hun gegevensvereisten met betrekking tot invoer-, uitvoer- en andere douaneprocedures, door gemeenschappelijke normen en gegevenselementen toe te passen overeenkomstig het *Data Model* van de WDO;
 
 - h. hun respectieve ervaringen bij de ontwikkeling en uitrol van hun éénloketsystemen te delen en, waar passend, gemeenschappelijke reeksen van gegevenselementen te ontwikkelen voor die systemen;
 
@@ -1879,7 +1759,7 @@ De Partijen verlenen elkaar wederzijdse administratieve bijstand in douaneaangel
 
 1. Elke Partij ziet erop toe dat haar douanewet, -regelgeving en -procedures:
 
-- a. gebaseerd zijn op internationale instrumenten en normen op het gebied van douane en handel, zoals het Internationaal Verdrag betreffende het geharmoniseerde systeem inzake de omschrijving en de codering van goederen, gedaan te Brussel op 14 juni 1983, alsook het **SAFE Framework of Standards to Secure and Facilitate Global Trade** van de WDO en het **Data Model** van de WDO en, indien van toepassing, de inhoudelijke elementen van de Herziene Overeenkomst van Kyoto inzake de vereenvoudiging en harmonisatie van douaneprocedures, gedaan te Kyoto op 18 mei 1973 en aangenomen door de Raad van de Werelddouaneorganisatie in juni 1999;
+- a. gebaseerd zijn op internationale instrumenten en normen op het gebied van douane en handel, zoals het Internationaal Verdrag betreffende het geharmoniseerde systeem inzake de omschrijving en de codering van goederen, gedaan te Brussel op 14 juni 1983, alsook het *SAFE Framework of Standards to Secure and Facilitate Global Trade* van de WDO en het *Data Model* van de WDO en, indien van toepassing, de inhoudelijke elementen van de Herziene Overeenkomst van Kyoto inzake de vereenvoudiging en harmonisatie van douaneprocedures, gedaan te Kyoto op 18 mei 1973 en aangenomen door de Raad van de Werelddouaneorganisatie in juni 1999;
 
 - b. gebaseerd zijn op de bescherming en bevordering van de legitieme handel door de doeltreffende handhaving en naleving van de wettelijke voorschriften; en
 
@@ -2137,7 +2017,7 @@ De Partijen eisen noch uitvoering van inspecties vóór verzending zoals gedefin
 
 1. Voor de toepassing van dit artikel wordt onder „tijdelijke invoer” verstaan de douaneregeling waaronder bepaalde goederen, met inbegrip van vervoermiddelen, in een douanegebied kunnen worden binnengebracht met voorwaardelijke vrijstelling van de betaling van rechten en heffingen bij invoer en zonder de toepassing van invoerverboden of -beperkingen van economische aard. De goederen moeten worden ingevoerd voor een bepaald doel en bestemd zijn om binnen een bepaalde termijn te worden wederuitgevoerd zonder dat zij een wijziging hebben ondergaan, met uitzondering van een normale waardevermindering als gevolg van het gebruik dat van die goederen is gemaakt.
 
-2. Elke Partij staat tijdelijke invoer toe, met volledige voorwaardelijke vrijstelling van rechten en heffingen bij invoer en zonder toepassing van invoerbeperkingen of -verboden van economische aard13)Voor alle duidelijkheid: de tijdelijke invoer van goederen zoals bedoeld in de leden 1 en 2 van dit artikel in Chili vanuit de Europese Unie is vrijgesteld van de retributie die is vastgesteld in artikel 107 van de Chileense Douaneverordening (**Ordenanza de Aduanas**), vervat in decreet nr. 30 van het Ministerie van Financiën, Staatsblad, 4 juni 2005 (**Decreto con Fuerza de Ley 30 del Ministerio de Hacienda, Diario Oficial, 04 de junio de 2005**)., zoals bepaald in haar wet- en regelgeving, voor de volgende goederen:
+2. Elke Partij staat tijdelijke invoer toe, met volledige voorwaardelijke vrijstelling van rechten en heffingen bij invoer en zonder toepassing van invoerbeperkingen of -verboden van economische aard13)Voor alle duidelijkheid: de tijdelijke invoer van goederen zoals bedoeld in de leden 1 en 2 van dit artikel in Chili vanuit de Europese Unie is vrijgesteld van de retributie die is vastgesteld in artikel 107 van de Chileense Douaneverordening (*Ordenanza de Aduanas*), vervat in decreet nr. 30 van het Ministerie van Financiën, Staatsblad, 4 juni 2005 (*Decreto con Fuerza de Ley 30 del Ministerio de Hacienda, Diario Oficial, 04 de junio de 2005*)., zoals bepaald in haar wet- en regelgeving, voor de volgende goederen:
 
 - a. goederen die bestemd zijn om op tentoonstellingen, beurzen, bijeenkomsten of soortgelijke evenementen te worden tentoongesteld of gebruikt, goederen bestemd voor uitstalling of demonstratie tijdens een evenement; goederen die bestemd zijn om te worden gebruikt in verband met het tonen van buitenlandse producten tijdens een evenement; apparatuur, met inbegrip van vertolkingsapparatuur, toestellen voor geluids- en beeldopname en films van educatieve, wetenschappelijke of culturele aard, bestemd voor gebruik op internationale bijeenkomsten, conferenties of congressen, en goederen die tijdens dergelijke evenementen worden verkregen uit goederen die onder de regeling tijdelijke invoer zijn geplaatst; elke Partij mag een goedkeuring van de regering of een waarborg of borgsom verlangen voordat het evenement plaatsvindt;
 
@@ -2195,7 +2075,7 @@ De Partijen eisen noch uitvoering van inspecties vóór verzending zoals gedefin
 
 ### HOOFDSTUK 12. HANDELSMAATREGELEN
 
-### AFDELING A. ANTIDUMPINGRECHTEN EN COMPENSERENDE RECHTEN
+#### AFDELING A. ANTIDUMPINGRECHTEN EN COMPENSERENDE RECHTEN
 
 ##### Artikel 12.1. Algemene bepalingen
 
@@ -2223,7 +2103,7 @@ Wanneer een Partij een antidumpingrecht op de goederen van de andere Partij inst
 
 Hoofdstuk 38 is niet van toepassing op deze afdeling.
 
-### AFDELING B. ALGEMENE VRIJWARINGSMAATREGELEN
+#### AFDELING B. ALGEMENE VRIJWARINGSMAATREGELEN
 
 ##### Artikel 12.6. Algemene bepalingen
 
@@ -2243,7 +2123,7 @@ De Partijen bevestigen hun rechten en verplichtingen op grond van artikel XIX va
 
 Hoofdstuk 38 is niet van toepassing op deze afdeling.
 
-### AFDELING C. BILATERALE VRIJWARINGSMAATREGELEN
+#### AFDELING C. BILATERALE VRIJWARINGSMAATREGELEN
 
 #### ONDERAFDELING 1. ALGEMENE BEPALINGEN
 
@@ -2255,9 +2135,9 @@ In deze afdeling wordt verstaan onder:
 
 - b. „overgangsperiode”:
 
-- i. een periode van zeven jaar vanaf de datum van inwerkingtreding van deze overeenkomst; of
+   - i. een periode van zeven jaar vanaf de datum van inwerkingtreding van deze overeenkomst; of
 
-- ii. voor goederen waarvoor de lijst in bijlage 9 van de Partij die een bilaterale vrijwaringsmaatregel toepast, voorziet in een termijn voor de afschaffing van de tarieven van zeven jaar, de termijn voor de afschaffing van de tarieven voor het betrokken goed plus twee jaar.
+   - ii. voor goederen waarvoor de lijst in bijlage 9 van de Partij die een bilaterale vrijwaringsmaatregel toepast, voorziet in een termijn voor de afschaffing van de tarieven van zeven jaar, de termijn voor de afschaffing van de tarieven voor het betrokken goed plus twee jaar.
 
 ##### Artikel 12.10. Toepassing van bilaterale vrijwaringsmaatregelen
 
@@ -2269,9 +2149,9 @@ In deze afdeling wordt verstaan onder:
 
 - b. de verhoging van het douanerecht op het betrokken goed tot een niveau dat niet hoger ligt dan het laagste van de volgende rechten:
 
-- i. het op het goed toegepaste meestbegunstigingsdouanerecht dat geldt op het tijdstip waarop de maatregel wordt genomen; of
+   - i. het op het goed toegepaste meestbegunstigingsdouanerecht dat geldt op het tijdstip waarop de maatregel wordt genomen; of
 
-- ii. het op het goed toegepaste meestbegunstigingsdouanerecht dat van toepassing was op de dag onmiddellijk voorafgaand aan de datum van inwerkingtreding van deze overeenkomst.
+   - ii. het op het goed toegepaste meestbegunstigingsdouanerecht dat van toepassing was op de dag onmiddellijk voorafgaand aan de datum van inwerkingtreding van deze overeenkomst.
 
 ##### Artikel 12.11. Normen voor bilaterale vrijwaringsmaatregelen
 
@@ -2319,7 +2199,7 @@ In deze afdeling wordt verstaan onder:
 
 - b. een algemene vrijwaringsmaatregel op grond van artikel XIX van de GATT 1994 en de Overeenkomst inzake vrijwaringsmaatregelen toepassen.
 
-##### Artikel 12.15. Ultraperifere gebieden15)Op de datum van inwerkingtreding van deze overeenkomst zijn de ultraperifere gebieden van de Europese Unie: Guadeloupe, Frans-Guyana, Martinique, Réunion, Mayotte, Saint-Martin, de Azoren, Madeira en de Canarische Eilanden. Dit artikel is eveneens van toepassing op een land of een overzees gebied waarvan de status overeenkomstig de procedure van artikel 355, lid 6, van het Verdrag betreffende de werking van de Europese Unie bij besluit van de Europese Raad vanaf de datum van vaststelling van dat besluit wordt gewijzigd in die van ultraperifeer gebied. Indien een ultraperifeer gebied van de Europese Unie volgens die procedure ophoudt een ultraperifeer gebied te zijn, houdt dit artikel vanaf de datum van het besluit van de Europese Raad daaromtrent op van toepassing te zijn op dat land of overzees gebied. De EU-Partij stelt Chili in kennis van elke wijziging met betrekking tot de gebieden die als ultraperifeer gebied van de Europese Unie worden beschouwd. van de Europese Unie
+##### Artikel 12.15. Ultraperifere gebieden15) Op de datum van inwerkingtreding van deze overeenkomst zijn de ultraperifere gebieden van de Europese Unie: Guadeloupe, Frans-Guyana, Martinique, Réunion, Mayotte, Saint-Martin, de Azoren, Madeira en de Canarische Eilanden. Dit artikel is eveneens van toepassing op een land of een overzees gebied waarvan de status overeenkomstig de procedure van artikel 355, lid 6, van het Verdrag betreffende de werking van de Europese Unie bij besluit van de Europese Raad vanaf de datum van vaststelling van dat besluit wordt gewijzigd in die van ultraperifeer gebied. Indien een ultraperifeer gebied van de Europese Unie volgens die procedure ophoudt een ultraperifeer gebied te zijn, houdt dit artikel vanaf de datum van het besluit van de Europese Raad daaromtrent op van toepassing te zijn op dat land of overzees gebied. De EU-Partij stelt Chili in kennis van elke wijziging met betrekking tot de gebieden die als ultraperifeer gebied van de Europese Unie worden beschouwd. van de Europese Unie
 
 1. Indien goederen van oorsprong uit Chili op het grondgebied van een of meer ultraperifere gebieden van de Europese Unie in dermate toegenomen hoeveelheden en onder zodanige voorwaarden worden ingevoerd dat de economische situatie van het betrokken ultraperifere gebied ernstig verslechtert of dreigt te verslechteren, kan de EU-Partij, na alternatieve oplossingen te hebben onderzocht, bij wijze van uitzondering bilaterale vrijwaringsmaatregelen toepassen die beperkt zijn tot het grondgebied van het betrokken gebied.
 
@@ -2419,11 +2299,11 @@ Dit hoofdstuk heeft tot doel:
 
 - a. de gezondheid van mensen, dieren en planten op het grondgebied van de Partijen te beschermen en tegelijkertijd het handelsverkeer tussen de Partijen in dieren en dierlijke producten, planten en plantaardige producten en andere producten die onder sanitaire en fytosanitaire maatregelen („SPS-maatregelen”) vallen, te bevorderen, door:
 
-- i. de transparantie, communicatie en samenwerking tussen de Partijen op het gebied van SPS-maatregelen te verbeteren;
+   - i. de transparantie, communicatie en samenwerking tussen de Partijen op het gebied van SPS-maatregelen te verbeteren;
 
-- ii. mechanismen en procedures voor handelsbevordering in te voeren; en
+   - ii. mechanismen en procedures voor handelsbevordering in te voeren; en
 
-- iii. verdere uitvoering aan de beginselen van de SPS-Overeenkomst te geven;
+   - iii. verdere uitvoering aan de beginselen van de SPS-Overeenkomst te geven;
 
 - b. samen te werken in multilaterale fora en op het gebied van de wetenschap betreffende voedselveiligheid, diergezondheid en gewasbescherming;
 
@@ -2489,7 +2369,7 @@ Voor de toepassing van dit hoofdstuk en bijlagen 13-A tot en met 13-H:
 
 5. Het in lid 4 van dit artikel bedoelde overleg vindt plaats in overeenstemming met het bepaalde in artikel 13.14, lid 2. De invoerende Partij beoordeelt de bijkomende gegevens binnen 15 werkdagen na ontvangst ervan. De in lid 4 van dit artikel bedoelde verificatie geschiedt in overeenstemming met het bepaalde in artikel 13.11 binnen 25 werkdagen na ontvangst van het verzoek daartoe.
 
-6. Wat plaagorganismen betreft, draagt elke Partij er zorg voor dat bij de handel in planten, plantaardige producten en andere producten rekening wordt gehouden met de door de andere Partij erkende plantgezondheidsstatus. De uitvoerende Partij die de andere Partij om erkenning van een regionalisatiebesluit verzoekt, stelt de andere Partij in kennis van haar maatregelen en besluiten, volgens de relevante internationale normen voor fytosanitaire maatregelen van de Voedsel- en Landbouworganisatie van de Verenigde Naties („FAO”), waaronder nr. 4 „**Requirements for the establishment of pest free areas**”, nr. 8 „**Determination of pest status in an area**” en andere internationale normen voor fytosanitaire maatregelen die de Partijen passend achten. Onverminderd artikel 13.15, en tenzij de invoerende Partij binnen drie maanden na ontvangst van het regionalisatiebesluit uitdrukkelijk bezwaar maakt en om bijkomende gegevens, overleg of verificatie verzoekt overeenkomstig de artikelen 13.11 en 13.14, beschouwen de Partijen dat besluit als aanvaard.
+6. Wat plaagorganismen betreft, draagt elke Partij er zorg voor dat bij de handel in planten, plantaardige producten en andere producten rekening wordt gehouden met de door de andere Partij erkende plantgezondheidsstatus. De uitvoerende Partij die de andere Partij om erkenning van een regionalisatiebesluit verzoekt, stelt de andere Partij in kennis van haar maatregelen en besluiten, volgens de relevante internationale normen voor fytosanitaire maatregelen van de Voedsel- en Landbouworganisatie van de Verenigde Naties („FAO”), waaronder nr. 4 „*Requirements for the establishment of pest free areas*”, nr. 8 „*Determination of pest status in an area*” en andere internationale normen voor fytosanitaire maatregelen die de Partijen passend achten. Onverminderd artikel 13.15, en tenzij de invoerende Partij binnen drie maanden na ontvangst van het regionalisatiebesluit uitdrukkelijk bezwaar maakt en om bijkomende gegevens, overleg of verificatie verzoekt overeenkomstig de artikelen 13.11 en 13.14, beschouwen de Partijen dat besluit als aanvaard.
 
 7. Het in lid 4 van dit artikel bedoelde overleg vindt plaats in overeenstemming met het bepaalde in artikel 13.14, lid 2. De invoerende Partij beoordeelt de bijkomende gegevens binnen drie maanden na ontvangst van dergelijke bijkomende gegevens. Elke Partij verricht de in lid 4 van dit artikel bedoelde verificatie in overeenstemming met het bepaalde in artikel 13.11 binnen twaalf maanden na ontvangst van het verzoek daartoe, rekening houdende met het biologische karakter van het plaagorganisme en het gewas in kwestie.
 
@@ -2515,7 +2395,7 @@ Voor de toepassing van dit hoofdstuk en bijlagen 13-A tot en met 13-H:
 
 7. Onverminderd artikel 13.15 trekt de invoerende Partij een erkenning van gelijkwaardigheid niet in en schorst zij die niet voordat de voorgestelde wijziging van een van beide Partijen van kracht wordt.
 
-8. Het besluit over de erkenning van gelijkwaardigheid dan wel de intrekking of schorsing ervan kan uitsluitend worden genomen door de invoerende Partij, in overeenstemming met haar wettelijk en bestuursrechtelijk kader, inclusief — wat planten, plantaardige producten en andere goederen betreft — de toepasselijke mededelingen in overeenstemming met internationale norm voor fytosanitaire maatregelen nr. 13 van de FAO „**Guidelines for the notification of non-compliances and emergency action**” en, waar passend, andere internationale normen voor fytosanitaire maatregelen. De invoerende Partij verstrekt de uitvoerende Partij een omstandige schriftelijke toelichting bij en ondersteunende gegevens voor de vaststellingen en besluiten op grond van dit artikel. In geval niet-erkenning van gelijkwaardigheid of intrekking of schorsing van een erkenning van gelijkwaardigheid, stelt de invoerende Partij de uitvoerende Partij in kennis van de voorwaarden waaronder de in lid 3 bedoelde procedure opnieuw kan worden ingeleid.
+8. Het besluit over de erkenning van gelijkwaardigheid dan wel de intrekking of schorsing ervan kan uitsluitend worden genomen door de invoerende Partij, in overeenstemming met haar wettelijk en bestuursrechtelijk kader, inclusief — wat planten, plantaardige producten en andere goederen betreft — de toepasselijke mededelingen in overeenstemming met internationale norm voor fytosanitaire maatregelen nr. 13 van de FAO „*Guidelines for the notification of non-compliances and emergency action*” en, waar passend, andere internationale normen voor fytosanitaire maatregelen. De invoerende Partij verstrekt de uitvoerende Partij een omstandige schriftelijke toelichting bij en ondersteunende gegevens voor de vaststellingen en besluiten op grond van dit artikel. In geval niet-erkenning van gelijkwaardigheid of intrekking of schorsing van een erkenning van gelijkwaardigheid, stelt de invoerende Partij de uitvoerende Partij in kennis van de voorwaarden waaronder de in lid 3 bedoelde procedure opnieuw kan worden ingeleid.
 
 ##### Artikel 13.9. Transparantie en voorwaarden voor het handelsverkeer
 
@@ -2601,7 +2481,7 @@ Voor de toepassing van dit hoofdstuk en bijlagen 13-A tot en met 13-H:
 
 4. Wanneer de in dit artikel bedoelde informatie door een kennisgeving aan de WTO overeenkomstig artikel 7 van en bijlage B bij de SPS-Overeenkomst of op haar officiële, algemeen toegankelijke en gratis website ter beschikking is gesteld door een Partij, wordt de in dit artikel verstrekte informatie als uitgewisseld beschouwd.
 
-5. Voor plaagorganismen die een bekend en onmiddellijk gevaar vormen voor een Partij wordt per post of e-mail een rechtstreekse mededeling aan die Partij gezonden. De Partijen volgen de richtsnoeren van de internationale norm voor fytosanitaire maatregelen nr. 17 van de FAO „**Pest reporting**”.
+5. Voor plaagorganismen die een bekend en onmiddellijk gevaar vormen voor een Partij wordt per post of e-mail een rechtstreekse mededeling aan die Partij gezonden. De Partijen volgen de richtsnoeren van de internationale norm voor fytosanitaire maatregelen nr. 17 van de FAO „*Pest reporting*”.
 
 6. De Partijen wisselen de in dit artikel bedoelde informatie uit per e-mail, fax of post.
 
@@ -2671,7 +2551,7 @@ Voor de toepassing van dit hoofdstuk en bijlagen 13-A tot en met 13-H:
 
 ##### Artikel 13.19. Territoriale toepassing voor de EU-Partij
 
-1. In afwijking van artikel 41.2 is dit hoofdstuk voor de EU-Partij van toepassing op het grondgebied van de lidstaten zoals bepaald in bijlage I bij [Verordening (EU) 2017/625](32017R0625) van het Europees Parlement en de Raad17)[Verordening (EU) 2017/625](32017R0625) van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), [(EU) nr. 1151/2012](32012R1151), [(EU) nr. 652/2014](32014R0652), [(EU) 2016/429](32016R0429) en [(EU) 2016/2031](32016R2031) van het Europees Parlement en de Raad, de [Verordeningen (EG) nr. 1/2005](32005R0001) en [(EG) nr. 1099/2009](32009R1099) van de Raad en de [Richtlijnen 98/58/EG](31998L0058), [1999/74/EG](31999L0074), [2007/43/EG](32007L0043), [2008/119/EG](32008L0119) en [2008/120/EG](32008L0120) van de Raad, en tot intrekking van de [Verordeningen (EG) nr. 854/2004](32004R0854) en [(EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad, de [Richtlijnen 89/608/EEG](31989L0608), [89/662/EEG](31989L0662), [90/425/EEG](31990L0425), [91/496/EEG](31991L0496), [96/23/EG](31996L0023), [96/93/EG](31996L0093) en [97/78/EG](31997L0078) van de Raad en Besluit [92/438/EEG](31992L0438) van de Raad (verordening officiële controles) (PB EU L 95 van 7.4.2017, blz. 1)., en wat planten, plantaardige producten en andere goederen betreft zoals bepaald in artikel 1, lid 3, van [Verordening (EU) 2016/2031](32016R2031) van het Europees Parlement en de Raad18)[Verordening (EU) 2016/2031](32016R2031) van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de [Verordeningen (EU) nr. 228/2013](32013R0228), [(EU) nr. 652/2014](32014R0652) en [(EU) nr. 1143/2014](32014R1143) van het Europees Parlement en de Raad en tot intrekking van de [Richtlijnen 69/464/EEG](31969L0464), [74/647/EEG](31974L0647), [93/85/EEG](31993L0085), [98/57/EG](31998L0057), [2000/29/EG](32000L0029), [2006/91/EG](32006L0091) en [2007/33/EG](32007L0033) van de Raad (PB EU L 317 van 23.11.2016, blz. 4)..
+1. In afwijking van artikel 41.2 is dit hoofdstuk voor de EU-Partij van toepassing op het grondgebied van de lidstaten zoals bepaald in bijlage I bij Verordening (EU) 2017/625 van het Europees Parlement en de Raad17)Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de Richtlijnen 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG en 2008/120/EG van de Raad, en tot intrekking van de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004 van het Europees Parlement en de Raad, de Richtlijnen 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG en 97/78/EG van de Raad en Besluit 92/438/EEG van de Raad (verordening officiële controles) (PB EU L 95 van 7.4.2017, blz. 1)., en wat planten, plantaardige producten en andere goederen betreft zoals bepaald in artikel 1, lid 3, van Verordening (EU) 2016/2031 van het Europees Parlement en de Raad18)Verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/2013, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad en tot intrekking van de Richtlijnen 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad (PB EU L 317 van 23.11.2016, blz. 4)..
 
 2. De Partijen zijn het erover eens dat met betrekking tot het grondgebied van de Europese Unie rekening wordt gehouden met het specifieke karakter ervan en de Europese Unie als één enkele entiteit wordt beschouwd.
 
@@ -2711,11 +2591,11 @@ Dit hoofdstuk heeft tot doel een nauwe samenwerking tussen de Partijen tot stand
 
 - c. „duurzaam voedselsysteem”: een voedselsysteem dat voorziet in veilig, voedzaam en toereikend voedsel voor iedereen zonder dat de economische, sociale en ecologische grondslagen die vereist zijn om voedselzekerheid en voeding voor de toekomstige generaties te kunnen bieden, in het gedrang komen; een dergelijk duurzaam voedselsysteem:
 
-- i. is winstgevend (economische duurzaamheid);
+   - i. is winstgevend (economische duurzaamheid);
 
-- ii. heeft uitgebreide voordelen voor de maatschappij (sociale duurzaamheid); en
+   - ii. heeft uitgebreide voordelen voor de maatschappij (sociale duurzaamheid); en
 
-- iii. heeft positieve of neutrale gevolgen voor de natuurlijke omgeving, waaronder op de klimaatverandering (ecologische duurzaamheid).
+   - iii. heeft positieve of neutrale gevolgen voor de natuurlijke omgeving, waaronder op de klimaatverandering (ecologische duurzaamheid).
 
 ##### Artikel 14.4. Duurzaamheid van de voedselketen en vermindering van voedselverlies en -verspilling
 
@@ -2853,9 +2733,9 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 15-A en 15-B wordt verstaan 
 
 - i. „systeembeheerder”:
 
-- i. voor de EU-Partij: een persoon die verantwoordelijk is voor de werking van, en voor het waarborgen van het onderhoud en de ontwikkeling van, het elektriciteitsdistributie- of transmissiesysteem in een bepaald gebied en voor het waarborgen van het vermogen van dergelijke systemen op de lange termijn; en
+   - i. voor de EU-Partij: een persoon die verantwoordelijk is voor de werking van, en voor het waarborgen van het onderhoud en de ontwikkeling van, het elektriciteitsdistributie- of transmissiesysteem in een bepaald gebied en voor het waarborgen van het vermogen van dergelijke systemen op de lange termijn; en
 
-- ii. voor Chili: een onafhankelijk orgaan dat verantwoordelijk is voor de coördinatie van de werking van onderling verbonden elektrische systemen, dat de doeltreffende economische prestaties en veiligheid en betrouwbaarheid van het elektrische systeem waarborgt en open toegang tot het transmissiesysteem verleent; en
+   - ii. voor Chili: een onafhankelijk orgaan dat verantwoordelijk is voor de coördinatie van de werking van onderling verbonden elektrische systemen, dat de doeltreffende economische prestaties en veiligheid en betrouwbaarheid van het elektrische systeem waarborgt en open toegang tot het transmissiesysteem verleent; en
 
 - j. „technische voorschriften”: technische voorschriften in de zin van hoofdstuk 16.
 
@@ -2863,7 +2743,7 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 15-A en 15-B wordt verstaan 
 
 Een Partij wijst noch invoer- of uitvoermonopolies aan, noch handhaaft zij die. Voor de toepassing van dit artikel wordt onder het begrip „invoer- of uitvoermonopolie” verstaan het exclusieve recht of de exclusieve verlening van een machtiging door een Partij aan een entiteit om energiegoederen of grondstoffen uit de andere Partij in te voeren of energiegoederen of grondstoffen naar de andere Partij uit te voeren19)Voor alle duidelijkheid: dit artikel laat de toepassing van de hoofdstukken 17, 18 en 29 en de lijsten in de bijlagen 17-A tot en met 17-C en 29 onverlet en het is niet van toepassing op een recht dat voortvloeit uit de verlening van een intellectueel-eigendomsrecht..
 
-##### Artikel 15.5. Uitvoerprijzen20)Voor de duidelijkheid zij opgemerkt dat dit artikel de bepalingen van bijlage 29 onverlet laat.
+##### Artikel 15.5. Uitvoerprijzen20) Voor de duidelijkheid zij opgemerkt dat dit artikel de bepalingen van bijlage 29 onverlet laat.
 
 1. De Partijen stellen door middel van maatregelen, met inbegrip van licenties of eisen inzake minimumprijzen, geen hogere prijs vast voor de uitvoer van energiegoederen of grondstoffen naar de andere Partij dan de prijs die voor dergelijke goederen in rekening wordt gebracht wanneer zij bestemd zijn voor de binnenlandse markt.
 
@@ -2977,6 +2857,8 @@ De Partijen erkennen dat onderzoek, ontwikkeling en innovatie essentiële elemen
 
 - c. de bevordering van verantwoord ondernemerschap in overeenstemming met internationale normen die bekrachtigd zijn of worden gesteund door de Partijen, zoals de OESO-richtsnoeren voor multinationale ondernemingen en hoofdstuk IX daarvan inzake wetenschap en technologie in het bijzonder.
 
+Thematische samenwerking op het gebied van energie
+
 2. De Partijen erkennen dat het noodzakelijk is de uitrol van hernieuwbare en koolstofarme energiebronnen te versnellen, de energie-efficiëntie te verhogen en innovatie te bevorderen, en om toegang te garanderen tot veilige, duurzame en betaalbare energie. De Partijen werken samen aan relevante vraagstukken van gemeenschappelijk belang, zoals:
 
 - a. hernieuwbare energie, met name met betrekking tot technologieën, de integratie in en toegang tot het elektriciteitssysteem, opslag en flexibiliteit, en de gehele toeleveringsketen voor hernieuwbare waterstof;
@@ -2986,6 +2868,8 @@ De Partijen erkennen dat onderzoek, ontwikkeling en innovatie essentiële elemen
 - c. elektromobiliteit en de uitrol van laadinfrastructuur; en
 
 - d. open en concurrerende energiemarkten.
+
+Thematische samenwerking op het gebied van grondstoffen
 
 3. De Partijen erkennen hun gezamenlijke inzet voor verantwoorde inkoop en duurzame productie van grondstoffen en hun wederzijds belang bij het bevorderen van de integratie van de waardeketens van grondstoffen. De Partijen werken samen aan relevante vraagstukken van gemeenschappelijk belang, zoals:
 
@@ -3051,7 +2935,7 @@ Dit hoofdstuk heeft tot doel de handel in goederen tussen de Partijen te verster
 
 ##### Artikel 16.3. Opneming van enkele bepalingen van TBT-Overeenkomst
 
-De artikelen 2 tot en met 9 en de bijlagen 1 en 3 bij de TBT-Overeenkomst worden **mutatis mutandis** in deze overeenkomst opgenomen.
+De artikelen 2 tot en met 9 en de bijlagen 1 en 3 bij de TBT-Overeenkomst worden *mutatis mutandis* in deze overeenkomst opgenomen.
 
 ##### Artikel 16.4. Internationale normen
 
@@ -3129,7 +3013,7 @@ De artikelen 2 tot en met 9 en de bijlagen 1 en 3 bij de TBT-Overeenkomst worden
 
 - g. uitwisseling van ambtenaren.
 
-5. De EU-Partij kan Chili geselecteerde informatie uit haar systeem voor snelle uitwisseling van informatie over consumentenproducten verstrekken als bedoeld in [Richtlijn 2001/95/EG](32001L0095) van het Europees Parlement en de Raad24)[Richtlijn 2001/95/EG](32001L0095) van het Europees Parlement en de Raad van 3 december 2001 inzake algemene productveiligheid (PB EU L 11 van 15.1.2002, blz. 4). of de opvolger daarvan, en Chili kan de EU-Partij geselecteerde informatie verstrekken over de veiligheid van consumentenproducten en over preventieve, beperkende en corrigerende maatregelen die het heeft genomen met betrekking tot consumentenproducten. De uitwisseling van informatie kan als volgt plaatsvinden:
+5. De EU-Partij kan Chili geselecteerde informatie uit haar systeem voor snelle uitwisseling van informatie over consumentenproducten verstrekken als bedoeld in Richtlijn 2001/95/EG van het Europees Parlement en de Raad24)Richtlijn 2001/95/EG van het Europees Parlement en de Raad van 3 december 2001 inzake algemene productveiligheid (PB EU L 11 van 15.1.2002, blz. 4). of de opvolger daarvan, en Chili kan de EU-Partij geselecteerde informatie verstrekken over de veiligheid van consumentenproducten en over preventieve, beperkende en corrigerende maatregelen die het heeft genomen met betrekking tot consumentenproducten. De uitwisseling van informatie kan als volgt plaatsvinden:
 
 - a. niet stelselmatig, in naar behoren gemotiveerde specifieke gevallen, met uitzondering van persoonsgegevens; en
 
@@ -3171,7 +3055,7 @@ De artikelen 2 tot en met 9 en de bijlagen 1 en 3 bij de TBT-Overeenkomst worden
 
 ##### Artikel 16.9. Overeenstemmingsbeoordeling
 
-1. De bepalingen van artikel 16.5 betreffende de opstelling, aanneming en toepassing van technische voorschriften zijn **mutatis mutandis** ook op conformiteitsbeoordelingsprocedures van toepassing.
+1. De bepalingen van artikel 16.5 betreffende de opstelling, aanneming en toepassing van technische voorschriften zijn *mutatis mutandis* ook op conformiteitsbeoordelingsprocedures van toepassing.
 
 2. Indien een Partij een conformiteitsbeoordeling verlangt als een positieve garantie dat een product in overeenstemming met een technisch voorschrift is:
 
@@ -3251,11 +3135,11 @@ De artikelen 2 tot en met 9 en de bijlagen 1 en 3 bij de TBT-Overeenkomst worden
 
 - d. het volgende toestaan, tenzij dat misleidend, tegenstrijdig of verwarrend is ten opzichte van de informatie die in de invoerende Partij van de goederen moet worden verstrekt:
 
-- i. informatie in meer talen dan alleen de taal die in de invoerende Partij van de goederen is voorgeschreven, wordt verstrekt;
+   - i. informatie in meer talen dan alleen de taal die in de invoerende Partij van de goederen is voorgeschreven, wordt verstrekt;
 
-- ii. internationaal aanvaarde nomenclaturen, pictogrammen, symbolen of afbeeldingen worden gebruikt; en
+   - ii. internationaal aanvaarde nomenclaturen, pictogrammen, symbolen of afbeeldingen worden gebruikt; en
 
-- iii. meer informatie dan die welke in de invoerende Partij van de goederen is voorgeschreven, wordt verstrekt;
+   - iii. meer informatie dan die welke in de invoerende Partij van de goederen is voorgeschreven, wordt verstrekt;
 
 - e. aanvaarden dat etikettering, met inbegrip van aanvullende etikettering en/of correcties op de etikettering, plaatsvindt in douane-entrepots of andere aangewezen zones in het land van invoer, als alternatief voor etikettering in het land van herkomst, tenzij die etikettering om redenen van openbare gezondheid of veiligheid moet worden aangebracht door daartoe gemachtigde personen; en
 
@@ -3313,7 +3197,7 @@ Het Subcomité Technische handelsbelemmeringen (het „subcomité”) dat op gro
 
 ### HOOFDSTUK 17. INVESTERINGEN
 
-### AFDELING A. ALGEMENE BEPALINGEN
+#### AFDELING A. ALGEMENE BEPALINGEN
 
 ##### Artikel 17.1. Toepassingsgebied
 
@@ -3333,15 +3217,16 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 17-A, 17-B en 17-C wordt ver
 
 - e. „grensoverschrijdende dienstverlening”: de verlening van een dienst:
 
-- i. vanaf het grondgebied van een Partij naar het grondgebied van de andere Partij; of
+   - i. vanaf het grondgebied van een Partij naar het grondgebied van de andere Partij; of
 
-- ii. op het grondgebied van een Partij ten behoeve van de gebruiker van een dienst uit de andere Partij;
+   - ii. op het grondgebied van een Partij ten behoeve van de gebruiker van een dienst uit de andere Partij;
 
 - f. „economische activiteiten”: de activiteiten van industriële, commerciële of professionele aard en de activiteiten van ambachtslieden, met inbegrip van de verlening van diensten, met uitzondering van activiteiten verricht in het kader van de uitoefening van overheidsgezag;
 
 - g. „onderneming”: een rechtspersoon, filiaal of vertegenwoordigingskantoor, opgericht of opgezet door middel van vestiging;
 
-- h. „vestiging”: het oprichten of opzetten, met inbegrip van de verwerving, van een onderneming door een investeerder uit een Partij op het grondgebied van de andere Partij; 25) Het begrip „verwerving” omvat deelneming in het kapitaal van een rechtspersoon met het oog op de totstandbrenging of handhaving van duurzame economische banden.
+- h. „vestiging”: het oprichten of opzetten, met inbegrip van de verwerving, van een onderneming door een investeerder uit een Partij op het grondgebied van de andere Partij; 25)
+ Het begrip „verwerving” omvat deelneming in het kapitaal van een rechtspersoon met het oog op de totstandbrenging of handhaving van duurzame economische banden.
 
 - i. „vrij converteerbare valuta”: een valuta die vrij kan worden geruild tegen valuta’s die op grote schaal op internationale valutamarkten worden verhandeld en op grote schaal bij internationale transacties worden gebruikt;
 
@@ -3349,41 +3234,41 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 17-A, 17-B en 17-C wordt ver
 
 - k. „investering”: elk actief onder rechtstreekse of onrechtstreekse eigendom of zeggenschap van een investeerder, dat de kenmerken van een investering heeft, waaronder een zekere duur, de vastlegging van kapitaal of andere middelen, de verwachting van voordelen of winst, of risico-overname; investeringen kunnen onder meer de volgende vormen aannemen: voor alle duidelijkheid:
 
-- i. een onderneming;
+   - i. een onderneming;
 
-- ii. aandelen en andere vormen van deelneming in het aandelenkapitaal van een onderneming;
+   - ii. aandelen en andere vormen van deelneming in het aandelenkapitaal van een onderneming;
 
-- iii. obligaties, niet-gegarandeerde schuldbekentenissen en andere schuldinstrumenten van een onderneming;
+   - iii. obligaties, niet-gegarandeerde schuldbekentenissen en andere schuldinstrumenten van een onderneming;
 
-- iv. futures, opties en andere derivaten;
+   - iv. futures, opties en andere derivaten;
 
-- v. op grond van intern recht toegekende concessies, vergunningen, machtigingen, toestemmingen en soortgelijke rechten26)Voor alle duidelijkheid: of een concessie, licentie, vergunning of soortgelijk instrument de kenmerken van een investering heeft, hangt onder meer af van factoren als de aard en de omvang van de rechten die de houder uit hoofde van het recht van die Partij heeft.;
+   - v. op grond van intern recht toegekende concessies, vergunningen, machtigingen, toestemmingen en soortgelijke rechten26)Voor alle duidelijkheid: of een concessie, licentie, vergunning of soortgelijk instrument de kenmerken van een investering heeft, hangt onder meer af van factoren als de aard en de omvang van de rechten die de houder uit hoofde van het recht van die Partij heeft.;
 
-- vi. kant-en-klare contracten, bouw-, beheers-, productie-, concessie-, inkomstendelingscontracten en andere soortgelijke contracten, met inbegrip van contracten die betrekking hebben op de aanwezigheid van eigendom van een investeerder op het grondgebied van een Partij;
+   - vi. kant-en-klare contracten, bouw-, beheers-, productie-, concessie-, inkomstendelingscontracten en andere soortgelijke contracten, met inbegrip van contracten die betrekking hebben op de aanwezigheid van eigendom van een investeerder op het grondgebied van een Partij;
 
-- vii. intellectuele-eigendomsrechten;
+   - vii. intellectuele-eigendomsrechten;
 
-- viii. alle overige roerende of onroerende, materiële of immateriële goederen en aanverwante eigendomsrechten, zoals huur-, hypotheek-, retentie- en pandrechten.
+   - viii. alle overige roerende of onroerende, materiële of immateriële goederen en aanverwante eigendomsrechten, zoals huur-, hypotheek-, retentie- en pandrechten.
 
-- i. alle rendement dat wordt geïnvesteerd, wordt als investering beschouwd en elke wijziging van de vorm waarin activa worden geïnvesteerd of geherinvesteerd laat de kwalificatie daarvan als investering onverlet, mits de vorm van een investering of herinvestering in overeenstemming blijft met de definitie van „investering”;
+   - i. alle rendement dat wordt geïnvesteerd, wordt als investering beschouwd en elke wijziging van de vorm waarin activa worden geïnvesteerd of geherinvesteerd laat de kwalificatie daarvan als investering onverlet, mits de vorm van een investering of herinvestering in overeenstemming blijft met de definitie van „investering”;
 
-- ii. onder „investering” wordt niet verstaan een beschikking of uitspraak in het kader van een gerechtelijke of administratieve procedure.
+   - ii. onder „investering” wordt niet verstaan een beschikking of uitspraak in het kader van een gerechtelijke of administratieve procedure.
 
 - l. „investeerder uit een Partij”: een natuurlijke of rechtspersoon uit een Partij die een onderneming wil vestigen, vestigt of heeft gevestigd overeenkomstig punt h);
 
 - m. „rechtspersoon uit een Partij” 27)Voor alle duidelijkheid: de in deze definitie bedoelde scheepvaartmaatschappijen worden alleen beschouwd als rechtspersonen uit een Partij voor wat betreft hun activiteiten in verband met het verlenen van zeevervoerdiensten.:
 
-- i. voor de EU-Partij:
+   - i. voor de EU-Partij:
 
-- A). een rechtspersoon die is opgericht of georganiseerd naar het recht van de Europese Unie of van ten minste één van haar lidstaten en die daadwerkelijke zakelijke transacties28)Overeenkomstig haar aanmelding van het Verdrag tot oprichting van de Europese Gemeenschap bij de WTO (WT/REG39/1) is volgens de EU-Partij het begrip „daadwerkelijke en voortdurende band” met de economie van een lidstaat, dat is neergelegd in artikel 54 VWEU, gelijkwaardig aan het begrip „daadwerkelijke zakelijke transacties”. op het grondgebied van de Europese Unie verricht; en
+      - A) een rechtspersoon die is opgericht of georganiseerd naar het recht van de Europese Unie of van ten minste één van haar lidstaten en die daadwerkelijke zakelijke transacties28)Overeenkomstig haar aanmelding van het Verdrag tot oprichting van de Europese Gemeenschap bij de WTO (WT/REG39/1) is volgens de EU-Partij het begrip „daadwerkelijke en voortdurende band” met de economie van een lidstaat, dat is neergelegd in artikel 54 VWEU, gelijkwaardig aan het begrip „daadwerkelijke zakelijke transacties”. op het grondgebied van de Europese Unie verricht; en
 
-- B). buiten de Europese Unie gevestigde scheepvaartmaatschappijen die onder zeggenschap staan van natuurlijke personen van een lidstaat, waarvan de schepen in een lidstaat zijn geregistreerd en de vlag van die lidstaat voeren;
+      - B) buiten de Europese Unie gevestigde scheepvaartmaatschappijen die onder zeggenschap staan van natuurlijke personen van een lidstaat, waarvan de schepen in een lidstaat zijn geregistreerd en de vlag van die lidstaat voeren;
 
-- ii. voor Chili:
+   - ii. voor Chili:
 
-- A. een rechtspersoon die is opgericht of georganiseerd naar het recht van Chili en die daadwerkelijke zakelijke transacties op het grondgebied van Chili verricht; en
+      - A. een rechtspersoon die is opgericht of georganiseerd naar het recht van Chili en die daadwerkelijke zakelijke transacties op het grondgebied van Chili verricht; en
 
-- B. buiten Chili gevestigde scheepvaartmaatschappijen die onder zeggenschap staan van natuurlijke personen van Chili, waarvan de schepen in Chili zijn geregistreerd en de vlag van Chili voeren;
+      - B. buiten Chili gevestigde scheepvaartmaatschappijen die onder zeggenschap staan van natuurlijke personen van Chili, waarvan de schepen in Chili zijn geregistreerd en de vlag van Chili voeren;
 
 - n. „exploitatie”: de uitbating, het beheer, het aanhouden, het gebruik, het genot en het verkopen of een andere vorm van beschikken over een onderneming door een investeerder uit een Partij, op het grondgebied van de andere Partij;
 
@@ -3417,7 +3302,7 @@ Een Partij kan de voordelen van dit hoofdstuk weigeren aan een investeerder uit 
 
 Het Subcomité Diensten en investeringen (het „subcomité”) wordt opgericht op grond van artikel 8.8, lid 1. Bij de behandeling van aangelegenheden in verband met investeringen ziet het subcomité toe op en zorgt het voor de correcte toepassing van dit hoofdstuk en van de bijlagen 17-A, 17-B en 17-C.
 
-### AFDELING B. LIBERALISERING VAN INVESTERINGEN EN NON-DISCRIMINATIE
+#### AFDELING B. LIBERALISERING VAN INVESTERINGEN EN NON-DISCRIMINATIE
 
 ##### Artikel 17.7. Toepassingsgebied
 
@@ -3431,13 +3316,13 @@ Het Subcomité Diensten en investeringen (het „subcomité”) wordt opgericht 
 
 - c. binnenlandse en internationale luchtdiensten of aanverwante diensten ter ondersteuning van luchtdiensten30)Voor alle duidelijkheid: luchtdiensten of aanverwante diensten ter ondersteuning van luchtdiensten omvatten de volgende diensten: luchtvervoer; diensten waarbij gebruik wordt gemaakt van luchtvaartuigen die niet in de eerste plaats bedoeld zijn voor het vervoer van goederen of passagiers, zoals brandbestrijding vanuit de lucht, vliegtraining, waarneming, besproeiing, landmeting, kartering, fotografie, parachutesprongen, slepen van zweefvliegtuigen, helikopterlift voor houtkap en bouw, en andere landbouw-, industrie- en inspectiediensten in de lucht; verhuur van luchtvaartuigen met bemanning; en exploitatie van luchthavens., ongeacht of het gaat om lijndiensten, en diensten die rechtstreeks verband houden met de uitoefening van verkeersrechten, andere dan:
 
-- i. reparatie en onderhoud van luchtvaartuigen waarbij het luchtvaartuig buiten dienst wordt gesteld;
+   - i. reparatie en onderhoud van luchtvaartuigen waarbij het luchtvaartuig buiten dienst wordt gesteld;
 
-- ii. verkoop en marketing van luchtvervoerdiensten;
+   - ii. verkoop en marketing van luchtvervoerdiensten;
 
-- iii. geautomatiseerde boekingssystemen (CRS); en
+   - iii. geautomatiseerde boekingssystemen (CRS); en
 
-- iv. grondafhandelingsdiensten.
+   - iv. grondafhandelingsdiensten.
 
 3. De artikelen 17.8, 17.9, 17.11, 17.12 en 17.13 zijn niet van toepassing op overheidsopdrachten.
 
@@ -3511,9 +3396,9 @@ In de sectoren of subsectoren waar verbintenissen betreffende markttoegang zijn 
 
 - k. met betrekking tot een licentieovereenkomst die bestaat op het tijdstip waarop de eis wordt gesteld of gehandhaafd of eender welke verbintenis of toezegging wordt opgelegd, of met betrekking tot een toekomstige licentieovereenkomst37)Onder een „licentieovereenkomst” als bedoeld in dit punt wordt verstaan elke overeenkomst over het in licentie geven van technologie, een productieproces of andere bedrijfsspecifieke knowhow. die vrijelijk is gesloten tussen de investeerder en een natuurlijke of rechtspersoon of een andere entiteit op haar grondgebied, op voorwaarde dat de eis wordt gesteld of gehandhaafd of de verbintenis of toezegging wordt opgelegd, op een wijze die een rechtstreekse aantasting van die licentieovereenkomst vormt door uitoefening van niet-rechtsprekend overheidsgezag van een Partij, dat het volgende wordt vastgesteld:
 
-- i. een bepaald percentage of bedrag aan royalty’s onder een bepaalde drempel in het kader van een licentieovereenkomst; of
+   - i. een bepaald percentage of bedrag aan royalty’s onder een bepaalde drempel in het kader van een licentieovereenkomst; of
 
-- ii. een bepaalde duur van de looptijd van een licentieovereenkomst.
+   - ii. een bepaalde duur van de looptijd van een licentieovereenkomst.
 
 2. Voor alle duidelijkheid: het in lid 1, punt k) bepaalde is niet van toepassing wanneer de licentieovereenkomst wordt gesloten tussen de investeerder en een Partij.
 
@@ -3555,23 +3440,23 @@ Een Partij eist niet dat een onderneming uit die Partij die een onder deze overe
 
 - a. elke bestaande niet-conforme maatregel die wordt gehandhaafd door:
 
-- i. voor de EU-Partij:
+   - i. voor de EU-Partij:
 
-- A. de Europese Unie, zoals uiteengezet in aanhangsel 17-A-1;
+      - A. de Europese Unie, zoals uiteengezet in aanhangsel 17-A-1;
 
-- B. de centrale overheid van een lidstaat, zoals uiteengezet in aanhangsel 17-A-1;
+      - B. de centrale overheid van een lidstaat, zoals uiteengezet in aanhangsel 17-A-1;
 
-- C. een regionale overheid van een lidstaat, zoals uiteengezet in aanhangsel 17-A-1; of
+      - C. een regionale overheid van een lidstaat, zoals uiteengezet in aanhangsel 17-A-1; of
 
-- D. een lokale overheid; en
+      - D. een lokale overheid; en
 
-- ii. voor Chili:
+   - ii. voor Chili:
 
-- A. de centrale overheid, zoals uiteengezet in aanhangsel 17-A-2;
+      - A. de centrale overheid, zoals uiteengezet in aanhangsel 17-A-2;
 
-- B. een regionale overheid, zoals uiteengezet in aanhangsel 17-A-2; of
+      - B. een regionale overheid, zoals uiteengezet in aanhangsel 17-A-2; of
 
-- C. een lokale overheid;
+      - C. een lokale overheid;
 
 - b. de handhaving of onverwijlde verlenging van niet-conforme maatregelen als bedoeld in punt a) van dit lid; of
 
@@ -3587,7 +3472,7 @@ Een Partij eist niet dat een onderneming uit die Partij die een onder deze overe
 
 6. Voor alle duidelijkheid: de artikelen 17.9 en 17.11 mogen niet zodanig worden uitgelegd dat zij een Partij beletten informatievereisten voor te schrijven, ook voor statistische doeleinden, in verband met de oprichting of exploitatie van investeerders uit de andere Partij of van een onder deze overeenkomst vallende investering, mits dat geen middel is om de verplichtingen van die Partij uit hoofde van die artikelen te omzeilen.
 
-### AFDELING C. BESCHERMING VAN INVESTERINGEN
+#### AFDELING C. BESCHERMING VAN INVESTERINGEN
 
 ##### Artikel 17.15. Toepassingsgebied
 
@@ -3647,7 +3532,7 @@ Deze afdeling is van toepassing op door een Partij vastgestelde of gehandhaafde 
 
 3. Het bedrag van de in lid 2 van dit artikel bedoelde vergoeding wordt bepaald overeenkomstig artikel 17.19, lid 2, vanaf de datum van vordering of vernietiging tot de datum van daadwerkelijke betaling.
 
-##### Artikel 17.19. Onteigening43)Voor alle duidelijkheid: dit artikel moet worden uitgelegd overeenkomstig bijlage 17-D.
+##### Artikel 17.19. Onteigening43) Voor alle duidelijkheid: dit artikel moet worden uitgelegd overeenkomstig bijlage 17-D.
 
 1. Een Partij mag rechtstreeks noch onrechtstreeks een onder deze overeenkomst vallende investering nationaliseren of onteigenen door middel van maatregelen met een soortgelijk effect als nationalisatie of onteigening („onteigening”), behalve wanneer de onteigening:
 
@@ -3673,7 +3558,7 @@ Deze afdeling is van toepassing op door een Partij vastgestelde of gehandhaafde 
 
 4. Dit artikel is niet van toepassing op de verlening van dwanglicenties met betrekking tot intellectuele-eigendomsrechten, noch op de intrekking, beperking of instelling van intellectuele-eigendomsrechten, voor zover die verlening, intrekking, beperking of instelling verenigbaar is met de Trips-overeenkomst44)Voor alle duidelijkheid: de in dit lid bedoelde intrekking van intellectuele-eigendomsrechten omvat ook de annulering of nietigverklaring van dergelijke rechten, en de beperking van intellectuele-eigendomsrechten omvat uitzonderingen op dergelijke rechten..
 
-##### Artikel 17.20. Overmakingen45)Voor alle duidelijkheid: op dit artikel is bijlage 17-E van toepassing.
+##### Artikel 17.20. Overmakingen45) Voor alle duidelijkheid: op dit artikel is bijlage 17-E van toepassing.
 
 1. Elke Partij staat toe dat alle overmakingen met betrekking tot onder deze overeenkomst vallende investeringen zonder beperking en onverwijld worden verricht in vrij converteerbare valuta en tegen de op de datum van overmaking geldende marktwisselkoers. Die overmakingen omvatten:
 
@@ -3731,7 +3616,7 @@ Indien een Partij of een door die Partij aangewezen instantie een betaling doet 
 
 2. De Partijen herbevestigen hoe belangrijk het is dat investeerders een zorgvuldigheidsprocedure volgen om de risico’s en effecten van hun investeringen op sociaal en milieugebied te identificeren, te voorkomen, te beperken en er verantwoording over af te leggen.
 
-### AFDELING D. BESLECHTING VAN INVESTERINGSGESCHILLEN EN STELSEL VAN INVESTERINGSGERECHTEN
+#### AFDELING D. BESLECHTING VAN INVESTERINGSGESCHILLEN EN STELSEL VAN INVESTERINGSGERECHTEN
 
 #### ONDERAFDELING 1. TOEPASSINGSGEBIED EN DEFINITIES
 
@@ -3747,9 +3632,9 @@ Indien een Partij of een door die Partij aangewezen instantie een betaling doet 
 
 - a. „eiser”: een investeerder uit een Partij die partij is bij een investeringsgeschil met de andere Partij en die op grond van deze afdeling een vordering wenst in te dienen of heeft ingediend, hetzij:
 
-- i. namens zichzelf; of
+   - i. namens zichzelf; of
 
-- ii. namens een plaatselijk gevestigde onderneming waarvan hij eigenaar is of waarover hij zeggenschap uitoefent; de plaatselijk gevestigde onderneming wordt behandeld als onderdaan van een andere verdragsluitende staat voor de toepassing van artikel 25, lid 2, punt b), van het Icsid-Verdrag;
+   - ii. namens een plaatselijk gevestigde onderneming waarvan hij eigenaar is of waarover hij zeggenschap uitoefent; de plaatselijk gevestigde onderneming wordt behandeld als onderdaan van een andere verdragsluitende staat voor de toepassing van artikel 25, lid 2, punt b), van het Icsid-Verdrag;
 
 - b. „partijen bij het geschil”: de eiser en de verweerder;
 
@@ -3843,7 +3728,7 @@ Indien een Partij of een door die Partij aangewezen instantie een betaling doet 
 
 2. In de mededeling wordt aangegeven met betrekking tot welke maatregelen de eiser een procedure aanhangig wil maken. Indien een maatregel van een lidstaat van de Europese Unie wordt aangegeven, wordt de mededeling ook aan de betrokken lidstaat toegezonden.
 
-3. De EU-Partij deelt de eiser, nadat zij tot een bepaling is gekomen, zo spoedig mogelijk doch uiterlijk binnen 60 dagen na de datum van ontvangst van de in lid 1 genoemde mededeling mee of de Europese Unie dan wel een lidstaat van de Europese Unie als verweerder optreedt49)Voor alle duidelijkheid: de EU-Partij verricht een dergelijke bepaling enkel op basis van de toepassing van [Verordening (EU) nr. 912/2014](32014R0912) van het Europees Parlement en de Raad van 23 juli 2014 tot vaststelling van een kader voor het regelen van de financiële verantwoordelijkheid in verband met scheidsgerechten voor de beslechting van geschillen tussen investeerders en staten die zijn ingesteld bij internationale overeenkomsten waarbij de Europese Unie partij is (PB EU L 257 van 28.8.2014, blz. 121)..
+3. De EU-Partij deelt de eiser, nadat zij tot een bepaling is gekomen, zo spoedig mogelijk doch uiterlijk binnen 60 dagen na de datum van ontvangst van de in lid 1 genoemde mededeling mee of de Europese Unie dan wel een lidstaat van de Europese Unie als verweerder optreedt49)Voor alle duidelijkheid: de EU-Partij verricht een dergelijke bepaling enkel op basis van de toepassing van Verordening (EU) nr. 912/2014 van het Europees Parlement en de Raad van 23 juli 2014 tot vaststelling van een kader voor het regelen van de financiële verantwoordelijkheid in verband met scheidsgerechten voor de beslechting van geschillen tussen investeerders en staten die zijn ingesteld bij internationale overeenkomsten waarbij de Europese Unie partij is (PB EU L 257 van 28.8.2014, blz. 121)..
 
 4. Indien de eiser niet binnen 60 dagen na indiening van de in lid 3 genoemde mededeling in kennis is gesteld van de bepaling, is de verweerder:
 
@@ -4101,13 +3986,13 @@ Wanneer de eiser, na de instelling van een vordering krachtens deze afdeling, ge
 
 - b. op verzoek van de niet bij het geschil betrokken Partij:
 
-- i. de procedurestukken, dossierstukken, verzoekschriften en andere door een partij bij het geschil bij het Gerecht ingediende stukken;
+   - i. de procedurestukken, dossierstukken, verzoekschriften en andere door een partij bij het geschil bij het Gerecht ingediende stukken;
 
-- ii. door een derde bij het Gerecht ingediende schriftelijke opmerkingen;
+   - ii. door een derde bij het Gerecht ingediende schriftelijke opmerkingen;
 
-- iii. de processen-verbaal of verslagen van de zittingen van het Gerecht, indien beschikbaar; en
+   - iii. de processen-verbaal of verslagen van de zittingen van het Gerecht, indien beschikbaar; en
 
-- iv. de beschikkingen, uitspraken en beslissingen van het Gerecht; en
+   - iv. de beschikkingen, uitspraken en beslissingen van het Gerecht; en
 
 - c. op verzoek en voor rekening van de niet bij het geschil betrokken Partij, alle of een deel van de aan het Gerecht overgelegde bewijsstukken.
 
@@ -4125,7 +4010,7 @@ Wanneer de eiser, na de instelling van een vordering krachtens deze afdeling, ge
 
 4. In geval van hoger beroep is de interveniënt gerechtigd te interveniëren voor de Beroepsinstantie. Lid 3 is van overeenkomstige toepassing.
 
-5. Het bij dit artikel verleende recht om in te grijpen doet geen afbreuk aan de mogelijkheid voor het Gerecht om stellingnamen als **amicus curiae** van derden toe te laten die een aanzienlijk belang bij de procedure hebben, overeenkomstig artikel 4 van de Uncitral-transparantievoorschriften.
+5. Het bij dit artikel verleende recht om in te grijpen doet geen afbreuk aan de mogelijkheid voor het Gerecht om stellingnamen als *amicus curiae* van derden toe te laten die een aanzienlijk belang bij de procedure hebben, overeenkomstig artikel 4 van de Uncitral-transparantievoorschriften.
 
 6. Voor alle duidelijkheid: het feit dat een persoon schuldeiser van de eiser is, wordt op zich niet voldoende geacht om aan te tonen dat die persoon een rechtstreeks en actueel belang heeft in de specifieke omstandigheden van het geschil.
 
@@ -4275,13 +4160,13 @@ Voor alle duidelijkheid: het Gerecht kan geen andere dan de in het eerste punt v
 
 - d. binnenlandse en internationale luchtdiensten of aanverwante diensten ter ondersteuning van luchtdiensten60)Voor alle duidelijkheid: luchtdiensten of aanverwante diensten ter ondersteuning van luchtdiensten omvatten de volgende diensten: luchtvervoer; diensten waarbij gebruik wordt gemaakt van luchtvaartuigen die niet in de eerste plaats bedoeld zijn voor het vervoer van goederen of passagiers, zoals brandbestrijding vanuit de lucht, vliegtraining, waarneming, besproeiing, landmeting, kartering, fotografie, parachutesprongen, slepen van zweefvliegtuigen, helikopterlift voor houtkap en bouw, en andere landbouw-, industrie- en inspectiediensten in de lucht; verhuur van luchtvaartuigen met bemanning; en exploitatie van luchthavens., ongeacht of het gaat om lijndiensten, en diensten die rechtstreeks verband houden met de uitoefening van verkeersrechten, andere dan:
 
-- i. reparatie en onderhoud van luchtvaartuigen waarbij het luchtvaartuig buiten dienst wordt gesteld;
+   - i. reparatie en onderhoud van luchtvaartuigen waarbij het luchtvaartuig buiten dienst wordt gesteld;
 
-- ii. verkoop en marketing van luchtvervoerdiensten;
+   - ii. verkoop en marketing van luchtvervoerdiensten;
 
-- iii. geautomatiseerde boekingssystemen (CRS); en
+   - iii. geautomatiseerde boekingssystemen (CRS); en
 
-- iv. grondafhandelingsdiensten;
+   - iv. grondafhandelingsdiensten;
 
 - e. overheidsopdrachten; en
 
@@ -4297,9 +4182,9 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 17-A, 17-B en 17-C wordt ver
 
 - c. „grensoverschrijdende handel in diensten” of „grensoverschrijdende dienstverlening”: het verlenen van een dienst:
 
-- i. vanaf het grondgebied van een Partij naar het grondgebied van de andere Partij; of
+   - i. vanaf het grondgebied van een Partij naar het grondgebied van de andere Partij; of
 
-- ii. op het grondgebied van een Partij ten behoeve van een gebruiker van de dienst uit de andere Partij.
+   - ii. op het grondgebied van een Partij ten behoeve van een gebruiker van de dienst uit de andere Partij.
 
 - d. „onderneming”: een rechtspersoon, filiaal of vertegenwoordigingskantoor, opgericht of opgezet door middel van vestiging;
 
@@ -4307,17 +4192,17 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 17-A, 17-B en 17-C wordt ver
 
 - f. „rechtspersoon uit een Partij” 61)Voor alle duidelijkheid: de in deze definitie bedoelde scheepvaartmaatschappijen worden alleen beschouwd als rechtspersonen uit een Partij voor wat betreft hun activiteiten in verband met het verlenen van zeevervoerdiensten.:
 
-- i. voor de EU-Partij:
+   - i. voor de EU-Partij:
 
-- A. een rechtspersoon die is opgericht of georganiseerd naar het recht van de Europese Unie of van ten minste één van haar lidstaten en die daadwerkelijke zakelijke transacties62)Overeenkomstig haar aanmelding van het Verdrag tot oprichting van de Europese Gemeenschap bij de WTO (WT/REG39/1) is volgens de EU-Partij het begrip „daadwerkelijke en voortdurende band” met de economie van een lidstaat, dat is neergelegd in artikel 54 van het Verdrag betreffende de werking van de Europese Unie, gelijkwaardig aan het begrip „daadwerkelijke zakelijke transacties”. op het grondgebied van de Europese Unie verricht; en
+      - A. een rechtspersoon die is opgericht of georganiseerd naar het recht van de Europese Unie of van ten minste één van haar lidstaten en die daadwerkelijke zakelijke transacties62)Overeenkomstig haar aanmelding van het Verdrag tot oprichting van de Europese Gemeenschap bij de WTO (WT/REG39/1) is volgens de EU-Partij het begrip „daadwerkelijke en voortdurende band” met de economie van een lidstaat, dat is neergelegd in artikel 54 van het Verdrag betreffende de werking van de Europese Unie, gelijkwaardig aan het begrip „daadwerkelijke zakelijke transacties”. op het grondgebied van de Europese Unie verricht; en
 
-- B. buiten de Europese Unie gevestigde scheepvaartmaatschappijen die onder zeggenschap staan van natuurlijke personen van een lidstaat, waarvan de schepen in een lidstaat zijn geregistreerd en de vlag van die lidstaat voeren;
+      - B. buiten de Europese Unie gevestigde scheepvaartmaatschappijen die onder zeggenschap staan van natuurlijke personen van een lidstaat, waarvan de schepen in een lidstaat zijn geregistreerd en de vlag van die lidstaat voeren;
 
-- ii. voor Chili:
+   - ii. voor Chili:
 
-- A. een rechtspersoon die is opgericht of georganiseerd naar het recht van Chili en die daadwerkelijke zakelijke transacties op het grondgebied van Chili verricht; en
+      - A. een rechtspersoon die is opgericht of georganiseerd naar het recht van Chili en die daadwerkelijke zakelijke transacties op het grondgebied van Chili verricht; en
 
-- B. buiten Chili gevestigde scheepvaartmaatschappijen die onder zeggenschap staan van natuurlijke personen van Chili, waarvan de schepen in Chili zijn geregistreerd en de vlag van Chili voeren;
+      - B. buiten Chili gevestigde scheepvaartmaatschappijen die onder zeggenschap staan van natuurlijke personen van Chili, waarvan de schepen in Chili zijn geregistreerd en de vlag van Chili voeren;
 
 - g. „verkoop en marketing van luchtvervoerdiensten”: de mogelijkheid voor de betrokken luchtvaartmaatschappij haar luchtvervoerdiensten vrij te verkopen en op de markt te brengen, met inbegrip van alle marketingaspecten zoals marktonderzoek, reclame en distributie. De tarifering van luchtvervoerdiensten en de daarop van toepassing zijnde voorwaarden vallen niet onder die activiteiten;
 
@@ -4365,13 +4250,13 @@ Een Partij mag in de sectoren of subsectoren waar verbintenissen betreffende mar
 
 - a. beperkingen opleggen ten aanzien van:
 
-- i. het aantal dienstverleners, ongeacht of dat geschiedt in de vorm van numerieke quota, monopolies, exclusieve dienstverleners of de eis van een onderzoek naar de economische behoefte;
+   - i. het aantal dienstverleners, ongeacht of dat geschiedt in de vorm van numerieke quota, monopolies, exclusieve dienstverleners of de eis van een onderzoek naar de economische behoefte;
 
-- ii. de totale waarde van dienstentransacties of activa, in de vorm van numerieke quota of de eis van een onderzoek naar de economische behoefte;
+   - ii. de totale waarde van dienstentransacties of activa, in de vorm van numerieke quota of de eis van een onderzoek naar de economische behoefte;
 
-- iii. het totale aantal dienstentransacties of het totale volume van de output aan diensten uitgedrukt in bepaalde numerieke eenheden in de vorm van quota of de eis van een onderzoek naar de economische behoefte63)Dit punt geldt niet voor maatregelen van een Partij die de input voor de verlening van diensten beperken.; of
+   - iii. het totale aantal dienstentransacties of het totale volume van de output aan diensten uitgedrukt in bepaalde numerieke eenheden in de vorm van quota of de eis van een onderzoek naar de economische behoefte63)Dit punt geldt niet voor maatregelen van een Partij die de input voor de verlening van diensten beperken.; of
 
-- iv. het totale aantal natuurlijke personen dat in een bepaalde sector mag werken of dat een dienstverlener in dienst mag hebben en die nodig zijn voor en zich rechtstreeks bezighouden met de verlening van een specifieke dienst, in de vorm van numerieke quota of de eis van een onderzoek naar de economische behoefte; of
+   - iv. het totale aantal natuurlijke personen dat in een bepaalde sector mag werken of dat een dienstverlener in dienst mag hebben en die nodig zijn voor en zich rechtstreeks bezighouden met de verlening van een specifieke dienst, in de vorm van numerieke quota of de eis van een onderzoek naar de economische behoefte; of
 
 - b. specifieke soorten juridische entiteiten of joint ventures via welke dienstverlener een dienst kan verlenen, vereisen of in dat verband beperkingen opleggen.
 
@@ -4381,23 +4266,23 @@ Een Partij mag in de sectoren of subsectoren waar verbintenissen betreffende mar
 
 - a. elke bestaande niet-conforme maatregel die wordt gehandhaafd door:
 
-- i. voor de EU-Partij:
+   - i. voor de EU-Partij:
 
-- A. de Europese Unie, zoals uiteengezet in aanhangsel 17-A-1;
+      - A. de Europese Unie, zoals uiteengezet in aanhangsel 17-A-1;
 
-- B. de centrale overheid van een lidstaat, zoals uiteengezet in aanhangsel 17-A-1;
+      - B. de centrale overheid van een lidstaat, zoals uiteengezet in aanhangsel 17-A-1;
 
-- C. een regionale overheid van een lidstaat, zoals uiteengezet in aanhangsel 17-A-1; of
+      - C. een regionale overheid van een lidstaat, zoals uiteengezet in aanhangsel 17-A-1; of
 
-- D. een lokale overheid; en
+      - D. een lokale overheid; en
 
-- ii. voor Chili:
+   - ii. voor Chili:
 
-- A. de centrale overheid, zoals uiteengezet in aanhangsel 17-A-2;
+      - A. de centrale overheid, zoals uiteengezet in aanhangsel 17-A-2;
 
-- B. een regionale overheid, zoals uiteengezet in aanhangsel 17-A-2; of
+      - B. een regionale overheid, zoals uiteengezet in aanhangsel 17-A-2; of
 
-- C. een lokale overheid;
+      - C. een lokale overheid;
 
 - b. de handhaving of onverwijlde verlenging van niet-conforme maatregelen als bedoeld in punt a) van dit lid; of
 
@@ -4447,11 +4332,11 @@ Het Subcomité Diensten en investeringen (het „subcomité”) wordt opgericht 
 
 - a. „handelsvertegenwoordigers”: zakelijke bezoekers voor een kort verblijf die:
 
-- i. vertegenwoordigers zijn van een leverancier van diensten of goederen uit een Partij die over de verkoop van goederen of diensten onderhandelen of voor die leverancier overeenkomsten voor de verkoop van diensten of goederen sluiten, met inbegrip van: het bijwonen van vergaderingen of conferenties; het plegen van overleg met zakenpartners; en het opnemen van bestellingen of het voeren van onderhandelingen over contracten met een op het grondgebied van de andere Partij gevestigde onderneming;
+   - i. vertegenwoordigers zijn van een leverancier van diensten of goederen uit een Partij die over de verkoop van goederen of diensten onderhandelen of voor die leverancier overeenkomsten voor de verkoop van diensten of goederen sluiten, met inbegrip van: het bijwonen van vergaderingen of conferenties; het plegen van overleg met zakenpartners; en het opnemen van bestellingen of het voeren van onderhandelingen over contracten met een op het grondgebied van de andere Partij gevestigde onderneming;
 
-- ii. zich niet bezighouden met dienstverlening in het kader van een contract dat is gesloten tussen enerzijds een onderneming zonder commerciële aanwezigheid op het grondgebied van de Partij waarin de zakelijke bezoekers voor een kort verblijf zich tijdelijk bevinden, en anderzijds een consument op dat grondgebied; en
+   - ii. zich niet bezighouden met dienstverlening in het kader van een contract dat is gesloten tussen enerzijds een onderneming zonder commerciële aanwezigheid op het grondgebied van de Partij waarin de zakelijke bezoekers voor een kort verblijf zich tijdelijk bevinden, en anderzijds een consument op dat grondgebied; en
 
-- iii. geen commissionairs zijn;
+   - iii. geen commissionairs zijn;
 
 - b. „zakelijke bezoekers voor vestigingsdoeleinden”: natuurlijke personen met een staffunctie bij een rechtspersoon uit een Partij die verantwoordelijk zijn voor het opzetten van een onderneming van een dergelijke rechtspersoon op het grondgebied van de andere Partij, mits zij geen diensten aanbieden of verlenen en evenmin enige andere economische activiteit verrichten dan die welke vereist is voor het opzetten van een vestiging, en die geen beloning ontvangen uit een in de andere Partij gevestigde bron;
 
@@ -4463,27 +4348,27 @@ Het Subcomité Diensten en investeringen (het „subcomité”) wordt opgericht 
 
 - f. „binnen de onderneming overgeplaatste personen”: natuurlijke personen die gedurende ten minste één jaar in dienst zijn geweest van of partners zijn in een rechtspersoon uit een Partij, die tijdelijk zijn overgeplaatst naar een onderneming van die rechtspersoon op het grondgebied van de andere Partij en die tot een van de volgende categorieën behoren:
 
-- i. leidinggevenden;
+   - i. leidinggevenden;
 
-- ii. specialisten;
+   - ii. specialisten;
 
-- iii. stagiair-werknemers;
+   - iii. stagiair-werknemers;
 
 - g. „investeerder”: een natuurlijke persoon die op het grondgebied van de andere Partij een onderneming opzet waaraan die natuurlijke persoon of de rechtspersoon die die natuurlijke persoon in dienst heeft een aanzienlijk bedrag aan kapitaal heeft uitgetrokken of uittrekt, en die de exploitatie van die onderneming ontwikkelt of beheert in een toezichthoudende of uitvoerende rol;
 
 - h. „leidinggevenden”: natuurlijke personen met een staffunctie bij een rechtspersoon uit een Partij die in de eerste plaats verantwoordelijk zijn voor het management van de onderneming op het grondgebied van de andere Partij66)Voor alle duidelijkheid: van deze definitie zijn niet uitgesloten leidinggevenden die, ofschoon zij niet rechtstreeks taken verrichten die verband houden met de eigenlijke verlening van de diensten, bij de uitoefening van hun functie als omschreven in deze definitie taken verrichten die nodig zijn voor het verlenen van de diensten., die onder het algemene toezicht of de leiding van het leidinggevend kader, de raad van bestuur of de aandeelhouders van de onderneming of daarmee gelijkgestelde personen staan, en wier verantwoordelijkheden het volgende omvatten:
 
-- i. leiding geven aan een onderneming of een afdeling of onderafdeling daarvan;
+   - i. leiding geven aan een onderneming of een afdeling of onderafdeling daarvan;
 
-- ii. toezicht houden op de werkzaamheden van andere toezichthoudende, gespecialiseerde of leidinggevende werknemers en die werkzaamheden controleren; en
+   - ii. toezicht houden op de werkzaamheden van andere toezichthoudende, gespecialiseerde of leidinggevende werknemers en die werkzaamheden controleren; en
 
-- iii. persoonlijk bevoegd zijn werknemers in dienst te nemen en te ontslaan of de indienstneming of het ontslag van werknemers of andere acties in het kader van het personeelsbeleid aan te bevelen;
+   - iii. persoonlijk bevoegd zijn werknemers in dienst te nemen en te ontslaan of de indienstneming of het ontslag van werknemers of andere acties in het kader van het personeelsbeleid aan te bevelen;
 
 - i. „zakelijke bezoekers voor een kort verblijf”: natuurlijke personen die toegang willen krijgen tot het grondgebied van de andere Partij en er tijdelijk willen verblijven, die geen directe transacties verrichten met het publiek, die geen beloning ontvangen uit een in de andere Partij gevestigde bron, en die tot een van de volgende categorieën behoren:
 
-- i. handelsvertegenwoordigers;
+   - i. handelsvertegenwoordigers;
 
-- ii. installateurs en onderhoudspersoneel;
+   - ii. installateurs en onderhoudspersoneel;
 
 - j. „specialisten”: binnen een rechtspersoon uit een Partij werkende natuurlijke personen die beschikken over gespecialiseerde kennis die van wezenlijk belang is voor de activiteiten, de technieken of het management van de onderneming; bij de beoordeling van die kennis wordt niet alleen rekening gehouden met voor de onderneming specifieke kennis, maar ook met de vraag of de betrokkene hooggekwalificeerd is, met inbegrip van toereikende beroepservaring, voor bepaalde werkzaamheden of activiteiten waarvoor specifieke technische kennis inclusief eventueel het lidmaatschap van een erkende beroepsgroep vereist zijn; en
 
@@ -4525,9 +4410,9 @@ Het Subcomité Diensten en investeringen (het „subcomité”) wordt opgericht 
 
 - c. de natuurlijke personen die het grondgebied van de andere Partij binnenkomen, in het bezit zijn van:
 
-- i. een universitaire graad of een kwalificatie waaruit kennis op een gelijkwaardig niveau blijkt68)Indien de graad of kwalificatie niet is verkregen in de Partij waar de dienst wordt verleend, kan die Partij beoordelen of die gelijkwaardig is aan een op haar grondgebied vereiste universitaire graad.; en
+   - i. een universitaire graad of een kwalificatie waaruit kennis op een gelijkwaardig niveau blijkt68)Indien de graad of kwalificatie niet is verkregen in de Partij waar de dienst wordt verleend, kan die Partij beoordelen of die gelijkwaardig is aan een op haar grondgebied vereiste universitaire graad.; en
 
-- ii. de beroepskwalificaties die op grond van de wet- of regelgeving van de Partij waar de dienst wordt verleend, worden voorgeschreven voor het uitoefenen van een activiteit;
+   - ii. de beroepskwalificaties die op grond van de wet- of regelgeving van de Partij waar de dienst wordt verleend, worden voorgeschreven voor het uitoefenen van een activiteit;
 
 - d. de natuurlijke persoon op het grondgebied van de andere Partij voor de dienstverlening geen andere beloning ontvangt dan de beloning die wordt betaald door de rechtspersoon waarbij de natuurlijke persoon in dienst is; en
 
@@ -4541,9 +4426,9 @@ Het Subcomité Diensten en investeringen (het „subcomité”) wordt opgericht 
 
 - c. de natuurlijke personen die het grondgebied van de andere Partij binnenkomen, in het bezit zijn van:
 
-- i. een universitaire graad of een kwalificatie waaruit kennis op een gelijkwaardig niveau blijkt69)Indien de graad of kwalificatie niet is verkregen in de Partij waar de dienst wordt verleend, kan die Partij beoordelen of die gelijkwaardig is aan een op haar grondgebied vereiste universitaire graad.; en
+   - i. een universitaire graad of een kwalificatie waaruit kennis op een gelijkwaardig niveau blijkt69)Indien de graad of kwalificatie niet is verkregen in de Partij waar de dienst wordt verleend, kan die Partij beoordelen of die gelijkwaardig is aan een op haar grondgebied vereiste universitaire graad.; en
 
-- ii. de beroepskwalificaties die op grond van de wet- of regelgeving van de Partij waar de dienst wordt verleend, worden voorgeschreven voor het uitoefenen van een activiteit;
+   - ii. de beroepskwalificaties die op grond van de wet- of regelgeving van de Partij waar de dienst wordt verleend, worden voorgeschreven voor het uitoefenen van een activiteit;
 
 - d. de op grond van dit artikel verleende toegang uitsluitend de dienstenactiviteit betreft waarop het contract betrekking heeft; zij geeft geen recht op het voeren van de beroepstitel van de Partij waar de dienst wordt verleend.
 
@@ -4563,23 +4448,23 @@ Voor zover de desbetreffende maatregel van invloed is op de toegang of het tijde
 
 - a. enige bestaande niet-conforme maatregel van een Partij op het niveau van:
 
-- i. voor de EU-Partij:
+   - i. voor de EU-Partij:
 
-- A. de Europese Unie, zoals vermeld in aanhangsel 17-A-1;
+      - A. de Europese Unie, zoals vermeld in aanhangsel 17-A-1;
 
-- B. de centrale overheid van een lidstaat, zoals vermeld in aanhangsel 17-A-1;
+      - B. de centrale overheid van een lidstaat, zoals vermeld in aanhangsel 17-A-1;
 
-- C. een regionale overheid van een lidstaat, zoals vermeld in aanhangsel 17-A-1; of
+      - C. een regionale overheid van een lidstaat, zoals vermeld in aanhangsel 17-A-1; of
 
-- D. een lokale overheid, anders dan bedoeld in punt C); en
+      - D. een lokale overheid, anders dan bedoeld in punt C); en
 
-- ii. voor Chili:
+   - ii. voor Chili:
 
-- A. de centrale overheid, zoals vermeld in aanhangsel 17-A-2;
+      - A. de centrale overheid, zoals vermeld in aanhangsel 17-A-2;
 
-- B. een regionale regering, zoals vermeld in aanhangsel 17-A-2; of
+      - B. een regionale regering, zoals vermeld in aanhangsel 17-A-2; of
 
-- C. een lokale overheid;
+      - C. een lokale overheid;
 
 - b. de handhaving of onverwijlde verlenging van niet-conforme maatregelen als bedoeld in punt a) van dit lid;
 
@@ -4823,9 +4708,9 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - b. „essentiële faciliteiten”: faciliteiten van een openbaar telecommunicatienetwerk of openbare telecommunicatiedienst die:
 
-- i. uitsluitend of voornamelijk ter beschikking worden gesteld door een enkele of een beperkt aantal leveranciers; en
+   - i. uitsluitend of voornamelijk ter beschikking worden gesteld door een enkele of een beperkt aantal leveranciers; en
 
-- ii. niet op haalbare wijze economisch of technisch kunnen worden vervangen met het oog op het verlenen van een dienst;
+   - ii. niet op haalbare wijze economisch of technisch kunnen worden vervangen met het oog op het verlenen van een dienst;
 
 - c. „interconnectie”: de koppeling van openbare telecommunicatienetwerken die door dezelfde of verschillende aanbieders van telecommunicatienetwerken of -diensten worden gebruikt om de gebruikers van een aanbieder in staat te stellen te communiceren met gebruikers van dezelfde of een andere aanbieder of toegang te krijgen tot diensten die door een andere aanbieder worden aangeboden, ongeacht of die diensten worden verleend door de betrokken aanbieders of door een andere aanbieder die toegang heeft tot het netwerk;
 
@@ -4839,9 +4724,9 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - h. „nummerportabiliteit”:
 
-- i. voor de EU-Partij, de mogelijkheid voor een abonnee die daarom verzoekt om het bestaande telefoonnummer te behouden, op dezelfde locatie in het geval van abonnees met een vaste lijn, bij een overstap binnen dezelfde categorie aanbieders van openbare telecommunicatiediensten, zonder dat dat ten koste gaat van de kwaliteit, betrouwbaarheid of het gebruiksgemak, en
+   - i. voor de EU-Partij, de mogelijkheid voor een abonnee die daarom verzoekt om het bestaande telefoonnummer te behouden, op dezelfde locatie in het geval van abonnees met een vaste lijn, bij een overstap binnen dezelfde categorie aanbieders van openbare telecommunicatiediensten, zonder dat dat ten koste gaat van de kwaliteit, betrouwbaarheid of het gebruiksgemak, en
 
-- ii. voor Chili, de mogelijkheid voor een eindgebruiker die daarom verzoekt om het bestaande telefoonnummer te behouden bij een overstap tussen aanbieders van openbare telecommunicatiediensten, zonder dat dat ten koste gaat van de kwaliteit, betrouwbaarheid of het gebruiksgemak;
+   - ii. voor Chili, de mogelijkheid voor een eindgebruiker die daarom verzoekt om het bestaande telefoonnummer te behouden bij een overstap tussen aanbieders van openbare telecommunicatiediensten, zonder dat dat ten koste gaat van de kwaliteit, betrouwbaarheid of het gebruiksgemak;
 
 - i. „openbaar telecommunicatienetwerk”: elk telecommunicatienetwerk dat geheel of hoofdzakelijk wordt gebruikt voor het aanbieden van openbare telecommunicatiediensten tussen netwerkaansluitpunten;
 
@@ -5025,19 +4910,19 @@ Met betrekking tot het aanbieden van telecommunicatienetwerken of -diensten, and
 
 - h. „diensten van scheepsagenten”: activiteiten waarbij de zakelijke belangen van een of meer scheepvaartlijnen of scheepvaartmaatschappijen binnen een bepaald geografisch gebied door een agent worden behartigd voor de volgende doeleinden:
 
-- i. marketing en verkoop van zeevervoer- en aanverwante diensten, van de prijsopgave tot de facturering, alsook het afgeven van vrachtbrieven namens de maatschappijen, het kopen en weer verkopen van de nodige aanverwante diensten, het opstellen van documenten en het verschaffen van bedrijfsinformatie; of
+   - i. marketing en verkoop van zeevervoer- en aanverwante diensten, van de prijsopgave tot de facturering, alsook het afgeven van vrachtbrieven namens de maatschappijen, het kopen en weer verkopen van de nodige aanverwante diensten, het opstellen van documenten en het verschaffen van bedrijfsinformatie; of
 
-- ii. het optreden namens de maatschappijen, het organiseren van het aanlopen van schepen of, indien nodig, het overnemen van vracht.
+   - ii. het optreden namens de maatschappijen, het organiseren van het aanlopen van schepen of, indien nodig, het overnemen van vracht.
 
 - i. „ondersteunende diensten voor zeevervoer”: behandeling van zeevracht, in- en uitklaring, diensten in verband met de opslag van containers, diensten van scheepsagenten en maritieme expediteursdiensten; en
 
 - j. „behandeling van zeevracht”: activiteiten van stuwadoorsbedrijven en terminalexploitanten, maar zonder de directe activiteiten van dokwerkers, wanneer die niet door de stuwadoorsbedrijven of terminalexploitanten zelf in dienst zijn genomen; de hier bedoelde activiteiten omvatten de organisatie van en het toezicht op:
 
-- i. het laden of lossen van schepen;
+   - i. het laden of lossen van schepen;
 
-- ii. het vastsjorren of losmaken van vracht; en
+   - ii. het vastsjorren of losmaken van vracht; en
 
-- iii. het in ontvangst nemen of afleveren en bewaken van vracht vóór verscheping of na lossing.
+   - iii. het in ontvangst nemen of afleveren en bewaken van vracht vóór verscheping of na lossing.
 
 3. Gezien het huidige niveau van de liberalisering tussen de Partijen op het gebied van het internationale zeevervoer zijn de volgende beginselen van toepassing:
 
@@ -5103,89 +4988,89 @@ Voor de toepassing van dit hoofdstuk en bijlage 25 wordt verstaan onder:
 
 - b. „grensoverschrijdende verlening van financiële diensten” of „grensoverschrijdende handel in financiële diensten”: het verlenen van een financiële dienst:
 
-- i. vanaf het grondgebied van een Partij naar het grondgebied van de andere Partij; of
+   - i. vanaf het grondgebied van een Partij naar het grondgebied van de andere Partij; of
 
-- ii. op het grondgebied van een Partij door een persoon uit die Partij ten behoeve van een gebruiker van de dienst uit de andere Partij;
+   - ii. op het grondgebied van een Partij door een persoon uit die Partij ten behoeve van een gebruiker van de dienst uit de andere Partij;
 
 - c. „financiële instelling”: een verlener van een of meer financiële diensten die, wat de verlening van die diensten betreft, naar het interne recht van de Partij op het grondgebied waarvan hij is gevestigd, als financiële instelling onder regelgeving of toezicht valt, met inbegrip van filialen op het grondgebied van de Partij van die verlener van financiële diensten waarvan het hoofdkantoor zich op het grondgebied van de andere Partij bevindt;
 
 - d. „financiële dienst”: een dienst van financiële aard, met inbegrip van verzekeringen en aanverwante diensten, bankdiensten en andere financiële diensten (met uitzondering van verzekeringen). Financiële diensten omvatten de volgende activiteiten:
 
-- i. verzekeringen en aanverwante diensten:
+   - i. verzekeringen en aanverwante diensten:
 
-- A. directe verzekering (met inbegrip van medeverzekering):
+      - A. directe verzekering (met inbegrip van medeverzekering):
 
-- 1. levensverzekering; en
+         - 1. levensverzekering; en
 
-- 2. schadeverzekering;
+         - 2. schadeverzekering;
 
-- B. herverzekering en retrocessie;
+      - B. herverzekering en retrocessie;
 
-- C. verzekeringsbemiddeling, zoals diensten van makelaars en agenten; en
+      - C. verzekeringsbemiddeling, zoals diensten van makelaars en agenten; en
 
-- D. ondersteunende diensten in de verzekeringssector, zoals diensten van adviseurs en actuarissen en diensten in verband met risicobeoordeling en de afwikkeling van claims; en
+      - D. ondersteunende diensten in de verzekeringssector, zoals diensten van adviseurs en actuarissen en diensten in verband met risicobeoordeling en de afwikkeling van claims; en
 
-- ii. bankdiensten en andere financiële diensten (behalve verzekeringen):
+   - ii. bankdiensten en andere financiële diensten (behalve verzekeringen):
 
-- A. aanvaarding van deposito’s en andere terugbetaalbare fondsen van het publiek;
+      - A. aanvaarding van deposito’s en andere terugbetaalbare fondsen van het publiek;
 
-- B. alle soorten leningen, waaronder consumentenkrediet en hypotheken, factoring en financiering van commerciële transacties;
+      - B. alle soorten leningen, waaronder consumentenkrediet en hypotheken, factoring en financiering van commerciële transacties;
 
-- C. financiële leasing;
+      - C. financiële leasing;
 
-- D. alle diensten in verband met het betalingsverkeer en de overmaking van geld, waaronder creditcards, betaalkaarten, debetkaarten, reischeques en bankwissels;
+      - D. alle diensten in verband met het betalingsverkeer en de overmaking van geld, waaronder creditcards, betaalkaarten, debetkaarten, reischeques en bankwissels;
 
-- E. verlenen van garanties en stellen van borgtochten;
+      - E. verlenen van garanties en stellen van borgtochten;
 
-- F. transacties voor eigen rekening of voor rekening van cliënten, op de beurs, op de onderhandse markt of anderszins, ten aanzien van:
+      - F. transacties voor eigen rekening of voor rekening van cliënten, op de beurs, op de onderhandse markt of anderszins, ten aanzien van:
 
-- 1. geldmarktinstrumenten (met inbegrip van cheques, effecten en depositocertificaten);
+         - 1. geldmarktinstrumenten (met inbegrip van cheques, effecten en depositocertificaten);
 
-- 2. deviezen;
+         - 2. deviezen;
 
-- 3. derivaten, met inbegrip van futures en opties;
+         - 3. derivaten, met inbegrip van futures en opties;
 
-- 4. wisselkoers- en rentetariefinstrumenten, waaronder producten als swaps en rentetermijncontracten;
+         - 4. wisselkoers- en rentetariefinstrumenten, waaronder producten als swaps en rentetermijncontracten;
 
-- 5. verhandelbare effecten; of
+         - 5. verhandelbare effecten; of
 
-- 6. andere verhandelbare instrumenten en financiële activa, met inbegrip van ongemunt goud en zilver;
+         - 6. andere verhandelbare instrumenten en financiële activa, met inbegrip van ongemunt goud en zilver;
 
-- G. deelneming in de uitgifte van alle soorten effecten, met inbegrip van garantieverlening en plaatsing in de hoedanigheid van agent (openbaar dan wel particulier) en verlening van diensten in verband met die uitgiften;
+      - G. deelneming in de uitgifte van alle soorten effecten, met inbegrip van garantieverlening en plaatsing in de hoedanigheid van agent (openbaar dan wel particulier) en verlening van diensten in verband met die uitgiften;
 
-- H. geldmakelaarsdiensten;
+      - H. geldmakelaarsdiensten;
 
-- I. beheer van activa, zoals beheer van contanten of portefeuillebeheer, alle vormen van beheer van collectieve investeringen, beheer van pensioenfondsen, diensten aangaande bewaarneming, depositodiensten en vertrouwensdiensten;
+      - I. beheer van activa, zoals beheer van contanten of portefeuillebeheer, alle vormen van beheer van collectieve investeringen, beheer van pensioenfondsen, diensten aangaande bewaarneming, depositodiensten en vertrouwensdiensten;
 
-- J. betalings- en compensatiediensten in verband met financiële activa, met inbegrip van effecten, derivaten en andere verhandelbare instrumenten;
+      - J. betalings- en compensatiediensten in verband met financiële activa, met inbegrip van effecten, derivaten en andere verhandelbare instrumenten;
 
-- K. verstrekking en doorgifte van financiële informatie en verwerking van financiële gegevens en daarop betrekking hebbende software; en
+      - K. verstrekking en doorgifte van financiële informatie en verwerking van financiële gegevens en daarop betrekking hebbende software; en
 
-- L. advies- en bemiddelingsdiensten en andere ondersteunende financiële diensten voor alle onder de bovenstaande punten A) tot en met K) vermelde activiteiten, met inbegrip van kredietonderzoek en -analyse, onderzoek en advies aangaande investeringen en beleggingen, en advies over overnames, bedrijfsreorganisaties en -strategieën;
+      - L. advies- en bemiddelingsdiensten en andere ondersteunende financiële diensten voor alle onder de bovenstaande punten A) tot en met K) vermelde activiteiten, met inbegrip van kredietonderzoek en -analyse, onderzoek en advies aangaande investeringen en beleggingen, en advies over overnames, bedrijfsreorganisaties en -strategieën;
 
 - e. „verlener van financiële diensten uit een Partij”: een natuurlijke of rechtspersoon uit een Partij die financiële diensten aanbiedt of verleent, met uitzondering van openbare entiteiten;
 
 - f. „investering”: een investering zoals gedefinieerd in artikel 17.2, punt k), met dien verstande dat voor de toepassing van dit hoofdstuk en van bijlage 25 met betrekking tot „leningen” en „schuldbewijzen” het volgende geldt:
 
-- i. een lening aan of een schuldbewijs uitgegeven door een financiële instelling is alleen dan een investering indien die lening of dat schuldbewijs door de Partij op het grondgebied waarvan de financiële instelling gevestigd is, als eigen vermogen wordt behandeld, en
+   - i. een lening aan of een schuldbewijs uitgegeven door een financiële instelling is alleen dan een investering indien die lening of dat schuldbewijs door de Partij op het grondgebied waarvan de financiële instelling gevestigd is, als eigen vermogen wordt behandeld, en
 
-- ii. een lening verstrekt door of een schuldbewijs in eigendom van een financiële instelling, anders dan een lening verstrekt aan of een schuldbewijs uitgegeven door een financiële instelling zoals bedoeld onder i), is geen investering; voor alle duidelijkheid: een lening verstrekt door of een schuldbewijs in eigendom van een verlener van grensoverschrijdende financiële diensten, anders dan een lening aan of een schuldbewijs uitgegeven door een financiële instelling, is een investering wat de toepassing van hoofdstuk 17 betreft, indien die lening of dat schuldinstrument voldoet aan de definitie van „investering” in artikel 17.2, punt k);
+   - ii. een lening verstrekt door of een schuldbewijs in eigendom van een financiële instelling, anders dan een lening verstrekt aan of een schuldbewijs uitgegeven door een financiële instelling zoals bedoeld onder i), is geen investering; voor alle duidelijkheid: een lening verstrekt door of een schuldbewijs in eigendom van een verlener van grensoverschrijdende financiële diensten, anders dan een lening aan of een schuldbewijs uitgegeven door een financiële instelling, is een investering wat de toepassing van hoofdstuk 17 betreft, indien die lening of dat schuldinstrument voldoet aan de definitie van „investering” in artikel 17.2, punt k);
 
 - g. „investeerder uit een Partij”: een natuurlijke of rechtspersoon uit een Partij die een investering in financiële instellingen op het grondgebied van de andere Partij wil doen, doet of heeft gedaan;
 
 - h. „rechtspersoon uit een Partij”:
 
-- i. voor de EU-Partij: een rechtspersoon die is opgericht of georganiseerd naar het recht van de Europese Unie of van ten minste één van haar lidstaten en die daadwerkelijke zakelijke transacties80)Overeenkomstig haar aanmelding van het Verdrag tot oprichting van de Europese Gemeenschap bij de WTO (WT/REG39/1) is volgens de EU-Partij het begrip „daadwerkelijke en voortdurende band” met de economie van een lidstaat, dat is neergelegd in artikel 54 VWEU, gelijkwaardig aan het begrip „daadwerkelijke zakelijke transacties”. op het grondgebied van de Europese Unie verricht; en
+   - i. voor de EU-Partij: een rechtspersoon die is opgericht of georganiseerd naar het recht van de Europese Unie of van ten minste één van haar lidstaten en die daadwerkelijke zakelijke transacties80)Overeenkomstig haar aanmelding van het Verdrag tot oprichting van de Europese Gemeenschap bij de WTO (WT/REG39/1) is volgens de EU-Partij het begrip „daadwerkelijke en voortdurende band” met de economie van een lidstaat, dat is neergelegd in artikel 54 VWEU, gelijkwaardig aan het begrip „daadwerkelijke zakelijke transacties”. op het grondgebied van de Europese Unie verricht; en
 
-- ii. voor Chili: een rechtspersoon die is opgericht of georganiseerd naar het recht van Chili en die daadwerkelijke zakelijke transacties op het grondgebied van Chili verricht;
+   - ii. voor Chili: een rechtspersoon die is opgericht of georganiseerd naar het recht van Chili en die daadwerkelijke zakelijke transacties op het grondgebied van Chili verricht;
 
 - i. „nieuwe financiële dienst”: een dienst van financiële aard, met inbegrip van diensten in verband met bestaande of nieuwe producten of de wijze waarop een product wordt geleverd, die niet wordt verleend door verleners van financiële diensten op het grondgebied van de ene Partij, maar die wel wordt verleend op het grondgebied van de andere Partij;
 
 - j. „openbare entiteit”:
 
-- i. een overheid, centrale bank of monetaire autoriteit uit een Partij, of een instantie die eigendom is van een Partij of onder zeggenschap staat van een Partij en die zich in hoofdzaak bezighoudt met de uitvoering van overheidstaken of activiteiten voor overheidsdoeleinden, met uitzondering van instanties die zich in hoofdzaak bezighouden met het verlenen van financiële diensten op commerciële basis; of
+   - i. een overheid, centrale bank of monetaire autoriteit uit een Partij, of een instantie die eigendom is van een Partij of onder zeggenschap staat van een Partij en die zich in hoofdzaak bezighoudt met de uitvoering van overheidstaken of activiteiten voor overheidsdoeleinden, met uitzondering van instanties die zich in hoofdzaak bezighouden met het verlenen van financiële diensten op commerciële basis; of
 
-- ii. een particuliere instantie die taken vervult die normalerwijze door een centrale bank of monetaire autoriteit worden vervuld; en
+   - ii. een particuliere instantie die taken vervult die normalerwijze door een centrale bank of monetaire autoriteit worden vervuld; en
 
 - k. „zelfregulerende organisatie”: een niet-gouvernementeel orgaan, met inbegrip van effecten- of termijnbeurzen of effecten- of termijnmarkten, verrekenkantoren, andere organisaties of verenigingen, dat op grond van de wetgeving of een delegatie van de centrale, regionale of lokale overheden of autoriteiten een regulerende of toezichthoudende bevoegdheid uitoefent ten aanzien van verleners van financiële diensten, voor zover van toepassing.
 
@@ -5303,23 +5188,23 @@ Een Partij eist niet dat een financiële instellingen uit de andere Partij die o
 
 - a. elke bestaande niet-conforme maatregel die wordt gehandhaafd door:
 
-- i. voor de EU-Partij:
+   - i. voor de EU-Partij:
 
-- A. de Europese Unie, zoals uiteengezet in afdeling C van aanhangsel 25-1;
+      - A. de Europese Unie, zoals uiteengezet in afdeling C van aanhangsel 25-1;
 
-- B. de centrale overheid van een lidstaat, zoals uiteengezet in afdeling C van aanhangsel 25-1;
+      - B. de centrale overheid van een lidstaat, zoals uiteengezet in afdeling C van aanhangsel 25-1;
 
-- C. een regionale overheid van een lidstaat, zoals uiteengezet in afdeling C van aanhangsel 25-1; of
+      - C. een regionale overheid van een lidstaat, zoals uiteengezet in afdeling C van aanhangsel 25-1; of
 
-- D. een lokale overheid; en
+      - D. een lokale overheid; en
 
-- ii. voor Chili:
+   - ii. voor Chili:
 
-- A. de centrale overheid, zoals uiteengezet in afdeling C van aanhangsel 25-2;
+      - A. de centrale overheid, zoals uiteengezet in afdeling C van aanhangsel 25-2;
 
-- B. een regionale overheid, zoals uiteengezet in afdeling C van aanhangsel 25-2; of
+      - B. een regionale overheid, zoals uiteengezet in afdeling C van aanhangsel 25-2; of
 
-- C. een lokale overheid;
+      - C. een lokale overheid;
 
 - b. de handhaving of onverwijlde verlenging van niet-conforme maatregelen als bedoeld in punt a) van dit lid; of
 
@@ -5355,9 +5240,9 @@ Geen van de bepalingen van dit deel van deze overeenkomst mag zo worden uitgeleg
 
 - a. het volgende vooraf bekendmaakt:
 
-- i. de wet- en regelgeving van algemene strekking die zij voornemens is vast te stellen met betrekking tot aangelegenheden die binnen het toepassingsgebied van dit hoofdstuk vallen; of
+   - i. de wet- en regelgeving van algemene strekking die zij voornemens is vast te stellen met betrekking tot aangelegenheden die binnen het toepassingsgebied van dit hoofdstuk vallen; of
 
-- ii. documenten die voldoende details verschaffen over dergelijke mogelijke nieuwe wet- of regelgeving om belangstellenden en de andere Partij in staat te stellen te beoordelen of en hoe hun belangen aanzienlijk kunnen worden beïnvloed;
+   - ii. documenten die voldoende details verschaffen over dergelijke mogelijke nieuwe wet- of regelgeving om belangstellenden en de andere Partij in staat te stellen te beoordelen of en hoe hun belangen aanzienlijk kunnen worden beïnvloed;
 
 - b. belanghebbenden en de andere Partij een redelijke gelegenheid biedt om opmerkingen te maken over de op grond van punt a) bekendgemaakte voorgestelde wet- en regelgeving of documenten;
 
@@ -5511,7 +5396,7 @@ Onder voorwaarden van nationale behandeling verschaft elke Partij aan op haar gr
 
 ### HOOFDSTUK 26. DIGITALE HANDEL
 
-### AFDELING A. ALGEMENE BEPALINGEN
+#### AFDELING A. ALGEMENE BEPALINGEN
 
 ##### Artikel 26.1. Toepassingsgebied
 
@@ -5531,17 +5416,17 @@ Onder voorwaarden van nationale behandeling verschaft elke Partij aan op haar gr
 
 - c. „elektronische authenticatie”: een proces dat het mogelijk maakt het volgende te bevestigen:
 
-- i. de elektronische identificatie van een natuurlijke of rechtspersoon; of
+   - i. de elektronische identificatie van een natuurlijke of rechtspersoon; of
 
-- ii. de herkomst en integriteit van gegevens in elektronische vorm;
+   - ii. de herkomst en integriteit van gegevens in elektronische vorm;
 
 - d. „elektronisch zegel”: door een rechtspersoon gebruikte gegevens in elektronische vorm die gehecht zijn aan of logisch verbonden zijn met andere gegevens in elektronische vorm en die worden gebruikt om de oorsprong en integriteit van die andere gegevens te waarborgen;
 
 - e. „elektronische handtekening”: gegevens in elektronische vorm die gehecht zijn aan of logisch verbonden zijn met andere elektronische gegevens en die aan de volgende eisen voldoen:
 
-- i. zij worden door een natuurlijke persoon gebruikt om zich akkoord te verklaren met de gegevens in elektronische vorm waarop zij betrekking hebben; en
+   - i. zij worden door een natuurlijke persoon gebruikt om zich akkoord te verklaren met de gegevens in elektronische vorm waarop zij betrekking hebben; en
 
-- ii. zij zijn op zodanige wijze gekoppeld aan de gegevens in elektronische vorm waarop zij betrekking hebben, dat eventuele latere wijzigingen in de elektronische gegevens kunnen worden opgespoord;
+   - ii. zij zijn op zodanige wijze gekoppeld aan de gegevens in elektronische vorm waarop zij betrekking hebben, dat eventuele latere wijzigingen in de elektronische gegevens kunnen worden opgespoord;
 
 - f. „elektronische vertrouwensdienst”: een elektronische dienst bestaande uit het aanmaken, verifiëren en valideren van elektronische handtekeningen, elektronische zegels, elektronische tijdstempels, elektronisch aangetekende bezorging, authenticatie van websites en op die dienst betrekking hebbende certificaten;
 
@@ -5559,7 +5444,7 @@ De Partijen herbevestigen hun recht om voor hun respectieve grondgebied regelgev
 
 Niets in dit hoofdstuk belet de Partijen maatregelen overeenkomstig de artikelen 25.11, 39.1 en 39.2 vast te stellen of te handhaven om de daarin vermelde redenen van openbaar belang.
 
-### AFDELING B. GEGEVENSSTROMEN EN BESCHERMING VAN PERSOONSGEGEVENS
+#### AFDELING B. GEGEVENSSTROMEN EN BESCHERMING VAN PERSOONSGEGEVENS
 
 ##### Artikel 26.5. Grensoverschrijdende gegevensstromen
 
@@ -5579,7 +5464,7 @@ De Partijen verbinden zich ertoe grensoverschrijdende gegevensstromen te waarbor
 
 2. Elke Partij kan maatregelen vaststellen en handhaven die zij passend acht om de bescherming van persoonsgegevens en de persoonlijke levenssfeer te waarborgen, onder meer door de vaststelling en toepassing van regels inzake de grensoverschrijdende doorgifte van persoonsgegevens. Niets in dit deel van deze overeenkomst doet afbreuk aan de bescherming van persoonsgegevens en de persoonlijke levenssfeer die door de maatregelen van een Partij wordt geboden.
 
-### AFDELING C. SPECIFIEKE BEPALINGEN
+#### AFDELING C. SPECIFIEKE BEPALINGEN
 
 ##### Artikel 26.7. Douanerechten op elektronische transmissies
 
@@ -5787,13 +5672,13 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 
 - q. „technische specificatie”: een vereiste in een aanbestedingsprocedure waarin:
 
-- i. de kenmerken worden omschreven van:
+   - i. de kenmerken worden omschreven van:
 
-- A. de aan te schaffen goederen, zoals kwaliteit, prestaties, veiligheid en afmetingen, of de processen of methoden voor de productie ervan; of
+      - A. de aan te schaffen goederen, zoals kwaliteit, prestaties, veiligheid en afmetingen, of de processen of methoden voor de productie ervan; of
 
-- B. de aan te schaffen diensten, zoals kwaliteit, prestaties en veiligheid, of de processen of methoden voor de verlening ervan; of
+      - B. de aan te schaffen diensten, zoals kwaliteit, prestaties en veiligheid, of de processen of methoden voor de verlening ervan; of
 
-- ii. terminologische elementen, symbolen en voorschriften betreffende verpakking, markering of etikettering die van toepassing zijn op een product of dienst, worden omschreven.
+   - ii. terminologische elementen, symbolen en voorschriften betreffende verpakking, markering of etikettering die van toepassing zijn op een product of dienst, worden omschreven.
 
 ##### Artikel 28.2. Toepassingsgebied en dekking
 
@@ -5803,9 +5688,9 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 
 - a. van goederen, diensten of een combinatie daarvan:
 
-- i. zoals gespecificeerd in bijlage 28-A of 28-B; en
+   - i. zoals gespecificeerd in bijlage 28-A of 28-B; en
 
-- ii. die niet worden aangeschaft met het oog op commerciële verkoop of wederverkoop of voor gebruik bij de productie of levering van goederen of diensten voor commerciële verkoop of wederverkoop;
+   - ii. die niet worden aangeschaft met het oog op commerciële verkoop of wederverkoop of voor gebruik bij de productie of levering van goederen of diensten voor commerciële verkoop of wederverkoop;
 
 - b. met welke contractuele middelen dan ook, waaronder: koop; lease; huur of huurkoop, met of zonder koopoptie;
 
@@ -5827,11 +5712,11 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 
 - e. opdrachten die worden aanbesteed:
 
-- i. met het specifieke doel internationale bijstand, met inbegrip van ontwikkelingshulp, te verlenen;
+   - i. met het specifieke doel internationale bijstand, met inbegrip van ontwikkelingshulp, te verlenen;
 
-- ii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale overeenkomst betreffende de legering van strijdkrachten of betreffende de gezamenlijke uitvoering van een project door de ondertekenende landen; of
+   - ii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale overeenkomst betreffende de legering van strijdkrachten of betreffende de gezamenlijke uitvoering van een project door de ondertekenende landen; of
 
-- iii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale organisatie, of gefinancierd door een internationale subsidie, lening of andere vorm van steun, wanneer die procedure of voorwaarde niet in overeenstemming is met dit hoofdstuk; of
+   - iii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale organisatie, of gefinancierd door een internationale subsidie, lening of andere vorm van steun, wanneer die procedure of voorwaarde niet in overeenstemming is met dit hoofdstuk; of
 
 - f. financiële diensten.
 
@@ -5865,9 +5750,9 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 
 - b. moet een aanbestedende dienst uitgaan van de geraamde maximale totale waarde van de opdracht over de gehele looptijd daarvan, ongeacht of de opdracht aan een of meer leveranciers is gegund, waarbij rekening wordt gehouden met alle vormen van vergoeding, met inbegrip van:
 
-- i. premies, honoraria, provisies, commissielonen en rente; en
+   - i. premies, honoraria, provisies, commissielonen en rente; en
 
-- ii. indien de aanbesteding de mogelijkheid van opties biedt, de totale waarde van die opties.
+   - ii. indien de aanbesteding de mogelijkheid van opties biedt, de totale waarde van die opties.
 
 7. Indien een bepaald vereiste met betrekking tot een aanbesteding aanleiding geeft tot het plaatsen van meer dan één opdracht of tot het plaatsen van de opdracht in afzonderlijke percelen („herhalingsopdrachten”), moet de berekening van de geschatte maximale totale waarde gebaseerd zijn op:
 
@@ -5879,9 +5764,9 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 
 - a. bij opdrachten met een vastgestelde looptijd:
 
-- i. indien de looptijd ten hoogste twaalf maanden bedraagt, de totale geraamde maximale waarde voor de looptijd van de opdracht;
+   - i. indien de looptijd ten hoogste twaalf maanden bedraagt, de totale geraamde maximale waarde voor de looptijd van de opdracht;
 
-- ii. indien de looptijd meer dan twaalf maanden bedraagt, de totale geraamde maximale waarde, met inbegrip van de geraamde restwaarde;
+   - ii. indien de looptijd meer dan twaalf maanden bedraagt, de totale geraamde maximale waarde, met inbegrip van de geraamde restwaarde;
 
 - b. bij opdrachten voor onbepaalde duur, het geraamde maandelijks te betalen bedrag vermenigvuldigd met 48;
 
@@ -5905,6 +5790,8 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 
 ##### Artikel 28.4. Algemene beginselen
 
+Non-discriminatie
+
 1. Ten aanzien van alle maatregelen betreffende de onder dit hoofdstuk vallende opdrachten behandelt elke Partij, met inbegrip van haar aanbestedende diensten, goederen en diensten uit de andere Partij en de leveranciers uit de andere Partij die de goederen of diensten van beide Partijen aanbieden, onmiddellijk en onvoorwaardelijk niet ongunstiger dan zij, of haar aanbestedende diensten, haar eigen goederen, diensten en leveranciers behandelt.
 
 2. Ten aanzien van alle maatregelen betreffende de onder dit hoofdstuk vallende opdrachten zien een Partij en haar aanbestedende diensten erop toe:
@@ -5912,6 +5799,8 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 - a. dat een plaatselijk gevestigde leverancier niet minder gunstig wordt behandeld dan een andere plaatselijk gevestigde leverancier op grond van de mate waarin het kapitaal ervan of de zeggenschap erover in buitenlandse handen is; of
 
 - b. dat een plaatselijk gevestigde leverancier niet wordt gediscrimineerd op grond dat de goederen of diensten die door die leverancier voor een bepaalde opdracht worden aangeboden, afkomstig zijn uit de andere Partij.
+
+Gebruik van elektronische middelen
 
 3. De Partijen zien erop toe dat alle communicatie en informatie-uitwisseling voor de onder dit hoofdstuk vallende opdrachten langs elektronische weg plaatsvindt, waaronder voor de publicatie van informatie over aanbestedingen, berichten van aanbesteding en aanbestedingsdossiers, en voor de ontvangst van inschrijvingen. Wanneer een onder dit hoofdstuk vallende opdracht wordt aanbesteed met elektronische middelen:
 
@@ -5921,17 +5810,27 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 
 - c. gebruikt de aanbestedende dienst elektronische informatie- en communicatiemiddelen voor de bekendmaking van berichten van aanbesteding en aanbestedingsdossiers in aanbestedingsprocedures en, voor zover mogelijk, voor de indiening van inschrijvingen.
 
+Verloop van de aanbesteding
+
 4. Een aanbestedende dienst ziet erop toe dat onder dit hoofdstuk vallende opdrachten worden aanbesteed op een transparante en onpartijdige wijze:
 
 - a. die in overeenstemming is met dit hoofdstuk, waarbij gebruik wordt gemaakt van methoden als openbare aanbesteding, aanbesteding met voorafgaande selectie en onderhandse aanbesteding, en
 
 - b. waarbij belangenconflicten en corruptie worden voorkomen overeenkomstig het toepasselijke recht.
 
+Oorsprongsregels
+
 5. Voor de onder dit hoofdstuk vallende overheidsopdrachten past een Partij op uit de andere Partij ingevoerde goederen geen andere oorsprongsregels toe dan de oorsprongsregels die zij in het normale handelsverkeer toepast op de invoer van dezelfde goederen.
+
+Compensatie
 
 6. Voor onder dit hoofdstuk vallende opdrachten mogen de Partijen en hun aanbestedende diensten geen compensatie vragen, in aanmerking nemen, opleggen of afdwingen.
 
+Maatregelen die niet specifiek betrekking hebben op aanbesteding
+
 7. De leden 1 en 2 zijn niet van toepassing op douanerechten en heffingen van welke aard dan ook die bij invoer of in verband met invoer worden geïnd, op de wijze van inning van die rechten en heffingen, en op andere invoerregelingen en -formaliteiten, noch op maatregelen die gevolgen hebben voor de handel in diensten, andere dan maatregelen betreffende onder dit hoofdstuk vallende opdrachten.
+
+Maatregelen ter bestrijding van corruptie
 
 8. Elke Partij ziet erop toe dat zij over passende maatregelen beschikt om corruptie bij haar overheidsopdrachten aan te pakken en te voorkomen. Die maatregelen kunnen procedures omvatten om leveranciers waarvan door de rechterlijke instanties van de Partij in laatste aanleg werd vastgesteld dat zij betrokken waren bij omkoping, fraude of andere onwettige acties met betrekking tot overheidsopdrachten op het grondgebied van die Partij, voor onbepaalde tijd of voor een bepaalde periode niet in aanmerking te laten komen voor deelneming aan aanbestedingen van die Partij. Elke Partij zorgt er ook voor dat zij beschikt over beleid en procedures om mogelijke belangenconflicten namens personen die betrokken zijn bij of invloed hebben op aanbestedingen, zoveel mogelijk uit te sluiten of te beheersen.
 
@@ -5951,13 +5850,15 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 
 - c. het internetadres of de internetadressen waarop de betrokken Partij de volgende informatie publiceert:
 
-- i. haar statistieken met betrekking tot overheidsopdrachten op grond van artikel 28.17, lid 4, of
+   - i. haar statistieken met betrekking tot overheidsopdrachten op grond van artikel 28.17, lid 4, of
 
-- ii. haar berichten betreffende gegunde opdrachten op grond van artikel 28.17, lid 5.
+   - ii. haar berichten betreffende gegunde opdrachten op grond van artikel 28.17, lid 5.
 
 3. Elke Partij stelt het in artikel 28.21 bedoelde subcomité onverwijld in kennis van elke wijziging van de in afdeling I van respectievelijk bijlage 28-A en bijlage 28-B vermelde informatie van de Partij.
 
 ##### Artikel 28.6. Berichten
+
+Bericht van aanbesteding
 
 1. Voor elke onder dit hoofdstuk vallende opdracht maakt de aanbestedende dienst, behalve in de omstandigheden vermeld in artikel 28.14, een bericht van aanbesteding bekend.
 
@@ -5987,6 +5888,8 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 
 - l. een vermelding dat de opdracht onder dit hoofdstuk valt.
 
+Samenvattend bericht van aanbesteding
+
 3. Voor iedere voorgenomen aanbesteding publiceert de aanbestedende dienst in een van de officiële talen van de WTO95)Voor alle duidelijkheid: de officiële talen van de WTO zijn Engels, Spaans en Frans., op hetzelfde tijdstip als het bericht van aanbesteding, een gemakkelijk toegankelijk samenvattend bericht van aanbesteding. Die samenvatting bevat ten minste de volgende informatie:
 
 - a. de inhoud van de opdracht;
@@ -5995,9 +5898,13 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 28-A en 28-B wordt verstaan 
 
 - c. het adres waar documenten met betrekking tot de aanbesteding kunnen worden opgevraagd.
 
+Bericht van geplande aanbesteding
+
 4. Aanbestedende diensten worden aangemoedigd hun aanbestedingsplannen zo vroeg mogelijk in elk begrotingsjaar aan te kondigen („bericht van geplande aanbesteding”). Het bericht van geplande aanbesteding moet de inhoud van de opdracht en de geplande datum van publicatie van het bericht van aanbesteding bevatten.
 
 5. Aanbestedende diensten die vermeld zijn in afdeling B of C van bijlage 28-A of 28-B, kunnen het bericht van geplande aanbesteding als bericht van aanbesteding gebruiken, mits het bericht van geplande aanbesteding zoveel mogelijk van de in lid 2 van dit artikel bedoelde informatie bevat waarover de aanbestedende dienst beschikt, alsook een verklaring dat leveranciers hun belangstelling voor de opdracht bij de aanbestedende dienst bekend kunnen maken.
+
+Gemeenschappelijke regels voor berichten
 
 6. Het bericht van aanbesteding, het samenvattende bericht en het bericht van geplande aanbesteding zijn kosteloos rechtstreeks en langs elektronische weg toegankelijk via één enkel online toegangspunt. Voorts kunnen de berichten ook worden gepubliceerd in een geschikte gedrukte vorm die op ruime schaal wordt verspreid en gemakkelijk toegankelijk blijft voor het publiek, ten minste totdat de in het bericht aangegeven termijn is verstreken.
 
@@ -6005,13 +5912,13 @@ Elke Partij heeft het geëigende gedrukte of elektronische medium vermeld in afd
 
 7. Niettegenstaande de vereisten van lid 6 inzake de kosteloze elektronische toegankelijkheid van de berichten van aanbesteding, samenvattingen en berichten van geplande aanbesteding via een enkel toegangspunt, zet Chili vanaf de datum van inwerkingtreding van deze overeenkomst en gedurende een driejarige overgangsperiode totdat het enkele toegangspunt volledig operationeel is, als tijdelijk alternatief voor dat toegangspunt een portaalsite op, die kosteloos toegankelijk moet zijn en links moet bevatten naar de platforms of websites waarop de berichten en samenvattingen worden bekendgemaakt. De portaalsite moet links bevatten naar maximaal vier websites, te weten:
 
-- a. **Mercado público**;
+- a. *Mercado público*;
 
-- b. **Ministerio de Obras Públicas**;
+- b. *Ministerio de Obras Públicas*;
 
-- c. **Dirección General de Concesiones**, en
+- c. *Dirección General de Concesiones*, en
 
-- d. **Diario Oficial**.
+- d. *Diario Oficial*.
 
 8. De Partijen voorzien in een periodieke herziening van lid 7 van dit artikel, met inbegrip van een bespreking in het in artikel 28.21 bedoelde subcomité, met name over de stand van zaken inzake de inrichting van het enkele toegangspunt.
 
@@ -6049,6 +5956,8 @@ Elke Partij heeft het geëigende gedrukte of elektronische medium vermeld in afd
 
 ##### Artikel 28.8. Erkenning van leveranciers
 
+Registratiesystemen en kwalificatieprocedures
+
 1. Een Partij en haar aanbestedende diensten kunnen een systeem aanhouden voor de registratie van leveranciers in het kader waarvan belangstellende leveranciers zich moeten laten registreren en bepaalde informatie moeten verstrekken. In dat geval ziet de Partij erop toe dat belangstellende leveranciers langs elektronische weg toegang hebben tot informatie over het registratiesysteem en dat zij te allen tijde om registratie kunnen verzoeken. De bevoegde autoriteit stelt hen binnen een redelijke termijn in kennis van het besluit om het verzoek in te willigen of af te wijzen. Indien het verzoek wordt afgewezen, wordt het besluit naar behoren met redenen omkleed.
 
 2. Elke Partij ziet erop toe dat:
@@ -6059,6 +5968,8 @@ Elke Partij heeft het geëigende gedrukte of elektronische medium vermeld in afd
 
 3. Een Partij en haar aanbestedende diensten mogen geen registratiesysteem of erkenningsprocedure vaststellen of toepassen met als doel of gevolg dat onnodige belemmeringen voor de deelname van leveranciers uit de andere Partij aan de aanbesteding ontstaan.
 
+Aanbesteding met voorafgaande selectie
+
 4. Indien een aanbestedende dienst een opdracht wil aanbesteden met voorafgaande selectie:
 
 - a. neemt hij in het bericht van aanbesteding ten minste de in artikel 28.6, lid 2, punten a), b), f), g), j), k), en l), vermelde informatie op en nodigt hij leveranciers uit een verzoek om deelname in te dienen, en
@@ -6068,6 +5979,8 @@ Elke Partij heeft het geëigende gedrukte of elektronische medium vermeld in afd
 5. De aanbestedende dienst staat alle erkende leveranciers toe om aan een bepaalde aanbesteding deel te nemen, tenzij de aanbestedende dienst in het bericht van aanbesteding vermeldt dat het aantal leveranciers dat tot de aanbesteding wordt toegelaten, beperkt is en daarbij de criteria of gronden voor de selectie van dat beperkte aantal leveranciers opgeeft. Een uitnodiging tot het indienen van inschrijvingen wordt gericht tot een aantal leveranciers dat nodig is om mededinging te waarborgen.
 
 6. Indien het aanbestedingsdossier niet vanaf de datum van publicatie van het in lid 4 bedoelde bericht openbaar toegankelijk is, ziet de aanbestedende dienst erop toe dat het dossier voor alle overeenkomstig lid 5 geselecteerde erkende leveranciers op hetzelfde tijdstip beschikbaar komt.
+
+Lijst voor veelvuldig gebruik
 
 7. Een aanbestedende dienst mag een lijst voor veelvuldig gebruik van leveranciers aanhouden op voorwaarde dat een bericht waarbij belangstellende leveranciers worden uitgenodigd een aanvraag tot plaatsing op de lijst in te dienen:
 
@@ -6097,6 +6010,8 @@ Elke Partij heeft het geëigende gedrukte of elektronische medium vermeld in afd
 
 11. Wanneer een leverancier die niet is opgenomen op een lijst voor veelvuldig gebruik, een verzoek indient tot deelname aan een aanbestedingsprocedure waarbij een dergelijke lijst wordt gehanteerd en alle vereiste documenten binnen de in artikel 28.12, lid 2, bedoelde termijn indient, wordt dat verzoek door de aanbestedende dienst onderzocht. De aanbestedende dienst sluit de leverancier niet uit van beoordeling in het kader van de aanbestedingsprocedure op grond van het argument dat hij onvoldoende tijd heeft om het verzoek te onderzoeken, tenzij hij, in uitzonderlijke gevallen, als gevolg van de complexiteit van de aanbesteding, niet in staat is het onderzoek van het verzoek te voltooien binnen de termijn die voor de indiening van inschrijvingen is toegestaan.
 
+Entiteiten in de afdelingen B en C van bijlage 28-A of 28-B
+
 12. Aanbestedende diensten die onder afdeling B of C van bijlage 28-A of 28-B vallen, kunnen een bericht waarbij leveranciers worden uitgenodigd een verzoek tot opname op de lijst voor veelvuldig gebruik in te dienen, gebruiken als bericht van aanbesteding, mits:
 
 - a. het bericht wordt gepubliceerd overeenkomstig lid 7 van dit artikel en de uit hoofde van lid 8 van dit artikel vereiste informatie en de uit hoofde van artikel 28.6, lid 2, vereiste informatie die beschikbaar is, bevat, alsook een verklaring dat het bericht als bericht van aanbesteding geldt of dat alleen de leveranciers op de lijst voor veelvuldig gebruik verdere berichten van aanbesteding waarop de lijst voor veelvuldig gebruik betrekking heeft, zullen ontvangen, en
@@ -6104,6 +6019,8 @@ Elke Partij heeft het geëigende gedrukte of elektronische medium vermeld in afd
 - b. de aanbestedende dienst aan leveranciers die bij hem belangstelling hebben geuit voor een bepaalde opdracht, onverwijld voldoende informatie verstrekt aan de hand waarvan de leverancier kan beoordelen in hoeverre de opdracht voor hem relevant is, met inbegrip van alle overige uit hoofde van artikel 28.6, lid 2, voorgeschreven informatie, voor zover beschikbaar.
 
 13. Aanbestedende diensten die onder afdeling B of C van bijlage 28-A of 28-B vallen, mogen leveranciers die overeenkomstig lid 10 van dit artikel een verzoek tot opname op de lijst voor veelvuldig gebruik hebben ingediend, toestaan in te schrijven op een bepaalde opdracht, indien de aanbestedende dienst voldoende tijd heeft om te onderzoeken of de leverancier aan de voorwaarden voor deelname voldoet.
+
+Informatie inzake besluiten van aanbestedende diensten
 
 14. Aanbestedende diensten stellen leveranciers die een verzoek tot deelname aan een aanbesteding, of een aanvraag tot plaatsing op een lijst voor veelvuldig gebruik hebben ingediend, onverwijld in kennis van hun besluit inzake dat verzoek of die aanvraag.
 
@@ -6195,15 +6112,15 @@ Dergelijke termijnen en eventuele verlengingen ervan moeten voor alle belangstel
 
 - a. de aanbestedende dienst ten minste 40 dagen, maar niet meer dan 12 maanden vóór de publicatie van het bericht van aanbesteding, een in artikel 28.6, lid 4, vermeld bericht van geplande aanbesteding heeft gepubliceerd, waarin de volgende gegevens zijn opgenomen:
 
-- i. een omschrijving van de opdracht;
+   - i. een omschrijving van de opdracht;
 
-- ii. bij benadering de uiterste datums voor de indiening van inschrijvingen of verzoeken om deelname;
+   - ii. bij benadering de uiterste datums voor de indiening van inschrijvingen of verzoeken om deelname;
 
-- iii. een verklaring dat de belangstellende leveranciers hun belangstelling voor de opdracht aan de aanbestedende dienst kenbaar moeten maken;
+   - iii. een verklaring dat de belangstellende leveranciers hun belangstelling voor de opdracht aan de aanbestedende dienst kenbaar moeten maken;
 
-- iv. het adres waar documenten met betrekking tot de opdracht kunnen worden opgevraagd; en
+   - iv. het adres waar documenten met betrekking tot de opdracht kunnen worden opgevraagd; en
 
-- v. zoveel mogelijk van de uit hoofde van artikel 28.6, lid 2, gespecificeerde informatie die vereist is voor het bericht van geplande aanbesteding, voor zover beschikbaar;
+   - v. zoveel mogelijk van de uit hoofde van artikel 28.6, lid 2, gespecificeerde informatie die vereist is voor het bericht van geplande aanbesteding, voor zover beschikbaar;
 
 - b. de aanbestedende dienst, in het geval van herhalingsopdrachten, in een eerste bericht van aanbesteding aangeeft dat in volgende berichten termijnen voor inschrijving zullen worden gegeven op basis van dit lid; of
 
@@ -6243,27 +6160,27 @@ Dergelijke termijnen en eventuele verlengingen ervan moeten voor alle belangstel
 
 - a. indien:
 
-- i. geen inschrijvingen zijn ingediend of leveranciers niet om deelname hebben verzocht;
+   - i. geen inschrijvingen zijn ingediend of leveranciers niet om deelname hebben verzocht;
 
-- ii. geen van de ingediende inschrijvingen aan de essentiële eisen van het aanbestedingsdossier voldoet;
+   - ii. geen van de ingediende inschrijvingen aan de essentiële eisen van het aanbestedingsdossier voldoet;
 
-- iii. geen van de leveranciers aan de voorwaarden voor deelname voldoet; of
+   - iii. geen van de leveranciers aan de voorwaarden voor deelname voldoet; of
 
-- iv. de bevoegde autoriteit heeft geconstateerd dat de ingediende inschrijvingen onderling zijn afgestemd, op voorwaarde dat de vereisten van het aanbestedingsdossier niet wezenlijk worden gewijzigd;
+   - iv. de bevoegde autoriteit heeft geconstateerd dat de ingediende inschrijvingen onderling zijn afgestemd, op voorwaarde dat de vereisten van het aanbestedingsdossier niet wezenlijk worden gewijzigd;
 
 - b. indien de goederen of diensten slechts door een bepaalde leverancier kunnen worden geleverd en er geen redelijk alternatief of substituut bestaat om een van de volgende redenen:
 
-- i. de opdracht betreft een kunstwerk;
+   - i. de opdracht betreft een kunstwerk;
 
-- ii. de bescherming van octrooien, auteursrechten of andere exclusieve rechten; of
+   - ii. de bescherming van octrooien, auteursrechten of andere exclusieve rechten; of
 
-- iii. concurrentie ontbreekt om technische redenen;
+   - iii. concurrentie ontbreekt om technische redenen;
 
 - c. in het geval van opdrachten van aanvullende leveringen, door de oorspronkelijke aanbieder, van goederen of diensten die niet in de oorspronkelijke opdracht waren opgenomen, indien verandering van aanbieder voor de aanvullende goederen of diensten:
 
-- i. niet mogelijk is om economische of technische redenen, zoals wanneer de aanvullende goederen of diensten uitwisselbaar of interoperabel moeten zijn met bestaande uitrusting, software, diensten of installaties die in het kader van de oorspronkelijke opdracht zijn geleverd; en
+   - i. niet mogelijk is om economische of technische redenen, zoals wanneer de aanvullende goederen of diensten uitwisselbaar of interoperabel moeten zijn met bestaande uitrusting, software, diensten of installaties die in het kader van de oorspronkelijke opdracht zijn geleverd; en
 
-- ii. tot aanzienlijk ongemak of aanzienlijke kostenstijgingen zou leiden voor de aanbestedende dienst;
+   - ii. tot aanzienlijk ongemak of aanzienlijke kostenstijgingen zou leiden voor de aanbestedende dienst;
 
 - d. wanneer, en in strikt noodzakelijke gevallen om uiterst dringende redenen wegens gebeurtenissen die door de aanbestedende dienst niet konden worden voorzien, de goederen of diensten niet tijdig kunnen worden verkregen door middel van openbare aanbesteding of aanbesteding met voorafgaande selectie;
 
@@ -6275,9 +6192,9 @@ Dergelijke termijnen en eventuele verlengingen ervan moeten voor alle belangstel
 
 - h. in het geval van opdrachten die worden gegund aan de winnaar van een ontwerpwedstrijd, mits:
 
-- i. de wedstrijd is georganiseerd op een wijze die verenigbaar is met de beginselen van dit hoofdstuk, met name met betrekking tot de bekendmaking van een bericht van aanbesteding; en
+   - i. de wedstrijd is georganiseerd op een wijze die verenigbaar is met de beginselen van dit hoofdstuk, met name met betrekking tot de bekendmaking van een bericht van aanbesteding; en
 
-- ii. de deelnemers worden beoordeeld door een onafhankelijke jury met het oog op de gunning van een ontwerpopdracht aan de winnaar.
+   - ii. de deelnemers worden beoordeeld door een onafhankelijke jury met het oog op de gunning van een ontwerpopdracht aan de winnaar.
 
 2. De aanbestedende dienst stelt een schriftelijk verslag op over elke opdracht die in het kader van lid 1 wordt gegund. Dat verslag vermeldt de naam van de aanbestedende dienst, de waarde en de aard van de aangeschafte goederen of diensten, en bevat een verklaring met daarin een vermelding van de in lid 1 beschreven omstandigheden en voorwaarden die de onderhandse aanbestedingsprocedure rechtvaardigden.
 
@@ -6293,11 +6210,15 @@ Wanneer een aanbestedende dienst een onder dit hoofdstuk vallende opdracht wil a
 
 ##### Artikel 28.16. Behandeling van inschrijvingen en gunning van opdrachten
 
+Behandeling van inschrijvingen
+
 1. De aanbestedende dienst neemt bij het ontvangen, openen en behandelen van inschrijvingen procedures in acht die garanderen dat de aanbestedingsprocedure eerlijk en onpartijdig verloopt en de inschrijvingen vertrouwelijk worden behandeld.
 
 2. Indien een inschrijving door de aanbestedende dienst pas na het verstrijken van de vastgestelde termijn wordt ontvangen, mag de betrokken leverancier daarvan geen nadelige gevolgen ondervinden indien de vertraging uitsluitend te wijten is aan onjuiste afhandeling door de aanbestedende dienst.
 
 3. Indien de aanbestedende dienst een leverancier de gelegenheid biedt om tussen de opening van de inschrijvingen en de gunning van de opdracht onbedoelde vormfouten te corrigeren, biedt de aanbestedende dienst alle deelnemende leveranciers daartoe de gelegenheid.
+
+Gunning van opdrachten
 
 4. Om voor gunning in aanmerking te komen, moet een inschrijving schriftelijk worden ingediend, bij de opening voldoen aan de essentiële vereisten die in de berichten van aanbesteding en aanbestedingsdossiers in aanbestedingsprocedures zijn opgenomen, en afkomstig zijn van een leverancier die aan de voorwaarden voor deelname voldoet.
 
@@ -6315,7 +6236,11 @@ Wanneer een aanbestedende dienst een onder dit hoofdstuk vallende opdracht wil a
 
 ##### Artikel 28.17. Transparantie van informatie over aanbestedingen
 
+Aan leveranciers verstrekte informatie
+
 1. Aanbestedende diensten stellen de deelnemende leveranciers onverwijld in kennis van hun besluiten aangaande de gunning van een opdracht en doen dat op verzoek van een leverancier schriftelijk. Met inachtneming van artikel 28.18, leden 2 en 3, stelt de aanbestedende dienst een afgewezen leverancier op diens verzoek in kennis van de redenen voor de afwijzing van zijn inschrijving en van de relatieve voordelen van de inschrijving van de gekozen leverancier.
+
+Publicatie van informatie over de gunning van opdrachten
 
 2. Uiterlijk 72 dagen na de gunning van elke onder dit hoofdstuk vallende opdracht publiceert de aanbestedende dienst een bericht in het geëigende gedrukte of elektronische medium als vermeld in afdeling I van bijlage 28-A en 28-B. Indien de aanbestedende dienst het bericht alleen elektronisch publiceert, moet de informatie gedurende een redelijke termijn gemakkelijk toegankelijk blijven. Het bericht bevat ten minste de volgende gegevens:
 
@@ -6343,7 +6268,11 @@ Wanneer een aanbestedende dienst een onder dit hoofdstuk vallende opdracht wil a
 
 ##### Artikel 28.18. Openbaarmaking van informatie
 
+Verstrekking van informatie aan Partijen
+
 1. Indien de andere Partij daarom verzoekt, verstrekt een Partij onverwijld alle informatie die nodig is om te bepalen of de aanbesteding eerlijk, onpartijdig en overeenkomstig dit hoofdstuk is verlopen, met inbegrip van informatie over de kenmerken en relatieve voordelen van de inschrijving van de gekozen leverancier. Wanneer het bekendmaken van de informatie de mededinging bij latere aanbestedingen zou verstoren, wordt die informatie door de Partij die haar ontvangt pas aan een leverancier vrijgegeven na overleg met en instemming van de Partij die de informatie heeft verstrekt.
+
+Niet-openbaarmaking van informatie
 
 2. Niettegenstaande de overige bepalingen van dit hoofdstuk verstrekt een Partij, met inbegrip van haar aanbestedende diensten, behalve voor zover wettelijk vereist of met schriftelijke toestemming van de leverancier die de informatie heeft verstrekt, geen informatie die de legitieme commerciële belangen van een bepaalde leverancier zou schaden of die de eerlijke mededinging tussen leveranciers kan verstoren.
 
@@ -6421,6 +6350,8 @@ De procedurele regels voor alle bezwaar- en beroepsprocedures worden op schrift 
 
 1. De EU-Partij kan bijlage 28-A wijzigen of rectificeren en Chili kan bijlage 28-B wijzigen of rectificeren.
 
+Wijzigingen
+
 2. Een Partij die voornemens is haar bijlage te wijzigen als bedoeld in lid 1:
 
 - a. stelt de andere Partij daarvan schriftelijk in kennis; en
@@ -6435,6 +6366,8 @@ De procedurele regels voor alle bezwaar- en beroepsprocedures worden op schrift 
 
 - b. de wijziging betrekking heeft op een entiteit ten aanzien waarvan de Partij haar zeggenschap of invloed daadwerkelijk heeft beëindigd overeenkomstig lid 3. De andere Partij maakt binnen 45 dagen na de datum van ontvangst van de in lid 2, punt a), van dit artikel bedoelde kennisgeving schriftelijk bezwaar uit hoofde van dit lid. Indien die Partij binnen die termijn geen schriftelijk bezwaar indient, wordt zij geacht de aanpassing of wijziging te hebben aanvaard, ook voor de toepassing van hoofdstuk 38.
 
+Rectificaties
+
 5. De Partijen beschouwen de volgende wijzigingen van bijlage 28-A of bijlage 28-B als zuiver formele rectificaties, mits zij geen afbreuk doen aan het wederzijds overeengekomen toepassingsgebied waarin dit hoofdstuk voorziet:
 
 - a. een wijziging van de naam van een entiteit;
@@ -6446,6 +6379,8 @@ De procedurele regels voor alle bezwaar- en beroepsprocedures worden op schrift 
 6. Indien een Partij een rectificatie van bijlage 28-A of bijlage 28-B voorstelt, stelt zij de andere Partij daarvan om de twee jaar na de datum van inwerkingtreding van deze overeenkomst in kennis.
 
 7. Een Partij kan de andere Partij binnen 45 dagen na ontvangst van de kennisgeving in kennis stellen van een bezwaar tegen een voorgestelde rectificatie. Indien een Partij bezwaar indient, zet zij de redenen uiteen waarom zij van mening is dat de voorgestelde rectificatie geen in lid 5 van dit artikel bedoelde wijziging is, en beschrijft zij het effect van de voorgenomen rectificatie op het wederzijds overeengekomen toepassingsgebied waarin dit hoofdstuk voorziet. Indien een dergelijk bezwaar niet binnen 45 dagen na ontvangst van de kennisgeving schriftelijk, is ingediend, wordt de Partij geacht met de voorgestelde rectificatie in te stemmen.
+
+Overleg en geschillenbeslechting
 
 8. Indien de andere Partij binnen 45 dagen bezwaar maakt tegen de voorgestelde wijziging of rectificatie, trachten de Partijen na ontvangst van de kennisgeving de kwestie door overleg op te lossen. Indien de Partijen niet binnen 60 dagen na ontvangst van het bezwaar tot overeenstemming komen, kan de Partij die haar bijlage wil wijzigen of rectificeren, verzoeken de geschillenbeslechtingsprocedure uit hoofde van dit deel van deze overeenkomst toe te passen op het geschil. De voorgestelde wijziging of rectificatie wordt pas van kracht wanneer beide Partijen daarover overeenstemming hebben bereikt of op basis van een definitief besluit op grond van de procedure van hoofdstuk 38.
 
@@ -6509,7 +6444,8 @@ Het in artikel 28.21 bedoelde Subcomité Overheidsopdrachten evalueert de werkin
 
 Voor de toepassing van dit hoofdstuk en bijlage 29 wordt verstaan onder:
 
-- a. „commerciële activiteiten”: activiteiten die door een onderneming worden uitgevoerd en die resulteren in de productie van een goed of de verlening van een dienst die op de relevante markt zal worden verkocht in hoeveelheden en tegen prijzen die door de onderneming worden bepaald, en die worden verricht met een winstoogmerk; 98) Voor alle duidelijkheid: activiteiten van een onderneming die actief is zonder winstoogmerk dan wel op basis van het principe van kostendekking, zijn van de „commerciële activiteiten” uitgesloten.
+- a. „commerciële activiteiten”: activiteiten die door een onderneming worden uitgevoerd en die resulteren in de productie van een goed of de verlening van een dienst die op de relevante markt zal worden verkocht in hoeveelheden en tegen prijzen die door de onderneming worden bepaald, en die worden verricht met een winstoogmerk; 98)
+ Voor alle duidelijkheid: activiteiten van een onderneming die actief is zonder winstoogmerk dan wel op basis van het principe van kostendekking, zijn van de „commerciële activiteiten” uitgesloten.
 
 - b. „commerciële overwegingen”: overwegingen inzake prijs, kwaliteit, beschikbaarheid, verhandelbaarheid, vervoer en andere voorwaarden van aankoop of verkoop, of andere factoren waarmee normaal rekening zou worden gehouden bij de commerciële beslissingen van een particuliere onderneming die in de desbetreffende sector of industrie handelt volgens de beginselen van de markteconomie;
 
@@ -6535,15 +6471,15 @@ Zonder afbreuk te doen aan de rechten en plichten van een Partij in het kader va
 
 - b. bij het aankopen van goederen of diensten:
 
-- i. aan goederen of diensten die door een onderneming van de andere Partij worden aangeboden, een niet minder gunstige behandeling toekennen dan aan soortgelijke goederen of diensten die door ondernemingen van de betrokken Partij worden aangeboden; en
+   - i. aan goederen of diensten die door een onderneming van de andere Partij worden aangeboden, een niet minder gunstige behandeling toekennen dan aan soortgelijke goederen of diensten die door ondernemingen van de betrokken Partij worden aangeboden; en
 
-- ii. aan goederen of diensten die door een onderneming die een onder deze overeenkomst vallende investering is zoals gedefinieerd in artikel 17.2, lid 1, punt d), op het grondgebied van die Partij worden aangeboden, een niet minder gunstige behandeling toekennen dan zij toekennen aan soortgelijke goederen of diensten die worden geleverd door ondernemingen op de desbetreffende markt op het grondgebied van die Partij die investeringen van investeerders van die Partij zijn; en
+   - ii. aan goederen of diensten die door een onderneming die een onder deze overeenkomst vallende investering is zoals gedefinieerd in artikel 17.2, lid 1, punt d), op het grondgebied van die Partij worden aangeboden, een niet minder gunstige behandeling toekennen dan zij toekennen aan soortgelijke goederen of diensten die worden geleverd door ondernemingen op de desbetreffende markt op het grondgebied van die Partij die investeringen van investeerders van die Partij zijn; en
 
 - c. bij het verkopen van goederen of diensten:
 
-- i. aan een onderneming van de andere Partij een niet minder gunstige behandeling toekennen dan aan ondernemingen van de betrokken Partij; en
+   - i. aan een onderneming van de andere Partij een niet minder gunstige behandeling toekennen dan aan ondernemingen van de betrokken Partij; en
 
-- ii. aan een onderneming die een onder deze overeenkomst vallende investering is zoals gedefinieerd in artikel 17.2, lid 1, punt d), op het grondgebied van die Partij een niet minder gunstige behandeling toekennen dan zij toekennen aan ondernemingen op de desbetreffende markt op het grondgebied van die Partij die investeringen van investeerders van die Partij zijn.
+   - ii. aan een onderneming die een onder deze overeenkomst vallende investering is zoals gedefinieerd in artikel 17.2, lid 1, punt d), op het grondgebied van die Partij een niet minder gunstige behandeling toekennen dan zij toekennen aan ondernemingen op de desbetreffende markt op het grondgebied van die Partij die investeringen van investeerders van die Partij zijn.
 
 2. Lid 1 belet een overheidsonderneming, een onderneming waaraan bijzondere rechten of privileges zijn toegekend of een aangewezen monopolie niet om:
 
@@ -6603,7 +6539,7 @@ De Partijen erkennen het belang van een vrije en onvervalste mededinging voor hu
 
 ##### Artikel 30.2. Regelgevingskader
 
-1. Elke Partij handhaaft haar mededingingsrecht of stelt dat vast met betrekking tot alle sectoren van de economie103)Voor alle duidelijkheid: het mededingingsrecht in de Europese Unie is van toepassing op de landbouwsector overeenkomstig [Verordening (EU) nr. 1308/2013](32013R1308) van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de [Verordeningen (EEG) nr. 922/72](31972R0922), [(EEG) nr. 234/79](31979R0234), [(EG) nr. 1037/2001](32001R1037) en [(EG) nr. 1234/2007](32007R1234) van de Raad (PB EU L 347 van 20.12.2013, blz. 671). en pakt de volgende praktijken op een doeltreffende manier aan:
+1. Elke Partij handhaaft haar mededingingsrecht of stelt dat vast met betrekking tot alle sectoren van de economie103)Voor alle duidelijkheid: het mededingingsrecht in de Europese Unie is van toepassing op de landbouwsector overeenkomstig Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PB EU L 347 van 20.12.2013, blz. 671). en pakt de volgende praktijken op een doeltreffende manier aan:
 
 - a. overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen die ertoe strekken of die ten gevolge hebben dat de mededinging wordt verhinderd, beperkt of vervalst;
 
@@ -6751,7 +6687,7 @@ Hoofdstuk 38 is niet van toepassing op artikel 31.5, lid 5.
 
 ### HOOFDSTUK 32. INTELLECTUELE EIGENDOM
 
-### AFDELING A. ALGEMENE BEPALINGEN
+#### AFDELING A. ALGEMENE BEPALINGEN
 
 ##### Artikel 32.1. Doelstellingen
 
@@ -6799,7 +6735,7 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 32-A, 32-B en 32-C wordt ver
 
 ##### Artikel 32.5. Nationale behandeling
 
-1. Met inachtneming van de uitzonderingen waarin reeds wordt voorzien door respectievelijk het Verdrag van Parijs, de Berner Conventie, het Verdrag van Rome of het Verdrag inzake de intellectuele eigendom met betrekking tot geïntegreerde schakelingen, aangenomen te Washington op 26 mei 1989, en het WIPO-verdrag inzake uitvoeringen en fonogrammen (**WIPO Performances and Phonograms Treaty** of „WPPT”), aangenomen te Genève op 20 december 1996, behandelt elke Partij voor alle onder dit hoofdstuk vallende categorieën intellectuele-eigendomsrechten onderdanen van de andere Partij niet minder gunstig dan haar eigen onderdanen wat de bescherming109)Voor de toepassing van dit lid omvat „bescherming” alle aangelegenheden die van invloed zijn op het bestaan, de verwerving, de reikwijdte, de instandhouding en de handhaving van intellectuele-eigendomsrechten, alsook de specifiek in dit hoofdstuk behandelde aangelegenheden die van invloed zijn op het gebruik van die rechten. Voorts omvat „bescherming” voor de toepassing van dit lid ook maatregelen om de omzeiling van doeltreffende technische voorzieningen en maatregelen betreffende informatie over het beheer van rechten te vermijden. van intellectuele-eigendomsrechten betreft. Ten aanzien van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties geldt die verplichting alleen voor de rechten waarin dit hoofdstuk voorziet.
+1. Met inachtneming van de uitzonderingen waarin reeds wordt voorzien door respectievelijk het Verdrag van Parijs, de Berner Conventie, het Verdrag van Rome of het Verdrag inzake de intellectuele eigendom met betrekking tot geïntegreerde schakelingen, aangenomen te Washington op 26 mei 1989, en het WIPO-verdrag inzake uitvoeringen en fonogrammen (*WIPO Performances and Phonograms Treaty* of „WPPT”), aangenomen te Genève op 20 december 1996, behandelt elke Partij voor alle onder dit hoofdstuk vallende categorieën intellectuele-eigendomsrechten onderdanen van de andere Partij niet minder gunstig dan haar eigen onderdanen wat de bescherming109)Voor de toepassing van dit lid omvat „bescherming” alle aangelegenheden die van invloed zijn op het bestaan, de verwerving, de reikwijdte, de instandhouding en de handhaving van intellectuele-eigendomsrechten, alsook de specifiek in dit hoofdstuk behandelde aangelegenheden die van invloed zijn op het gebruik van die rechten. Voorts omvat „bescherming” voor de toepassing van dit lid ook maatregelen om de omzeiling van doeltreffende technische voorzieningen en maatregelen betreffende informatie over het beheer van rechten te vermijden. van intellectuele-eigendomsrechten betreft. Ten aanzien van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties geldt die verplichting alleen voor de rechten waarin dit hoofdstuk voorziet.
 
 2. Een Partij kan gebruikmaken van de uit hoofde van lid 1 toegestane uitzonderingen met betrekking tot haar gerechtelijke en administratieve procedures, waaronder de verplichting voor een onderdaan van de andere Partij om op haar grondgebied domicilie te kiezen of daar een gemachtigde aan te wijzen, indien die uitzonderingen:
 
@@ -6819,7 +6755,7 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 32-A, 32-B en 32-C wordt ver
 
 Niets in dit deel van deze overeenkomst belet een Partij te bepalen of en onder welke voorwaarden de uitputting van intellectuele-eigendomsrechten krachtens haar rechtsstelsel van toepassing is.
 
-### AFDELING B. NORMEN BETREFFENDE INTELLECTUELE-EIGENDOMSRECHTEN
+#### AFDELING B. NORMEN BETREFFENDE INTELLECTUELE-EIGENDOMSRECHTEN
 
 #### ONDERAFDELING 1. AUTEURSRECHT EN NABURIGE RECHTEN
 
@@ -6887,7 +6823,7 @@ Elke Partij verleent omroeporganisaties het exclusieve recht het volgende toe te
 
 - c. de draadloze heruitzending van hun uitzendingen, alsook de mededeling aan het publiek111)Voor alle duidelijkheid: niets in dit lid belet een Partij de voorwaarden vast te stellen waaronder dat recht kan worden uitgeoefend, in overeenstemming met artikel 13, punt d), van het Verdrag van Rome. van hun uitzendingen indien die mededeling geschiedt op plaatsen die tegen betaling van een entreeprijs voor het publiek toegankelijk zijn.
 
-##### Artikel 32.13. Uitzending en mededeling aan het publiek van voor commerciële doeleinden gepubliceerde fonogrammen112)Elke Partij kan uitvoerend kunstenaars en producenten van fonogrammen uitgebreidere rechten verlenen met betrekking tot de uitzending en mededeling aan het publiek van voor commerciële doeleinden gepubliceerde fonogrammen.
+##### Artikel 32.13. Uitzending en mededeling aan het publiek van voor commerciële doeleinden gepubliceerde fonogrammen112) Elke Partij kan uitvoerend kunstenaars en producenten van fonogrammen uitgebreidere rechten verlenen met betrekking tot de uitzending en mededeling aan het publiek van voor commerciële doeleinden gepubliceerde fonogrammen.
 
 1. Elke Partij voorziet in een recht op grond waarvan door de gebruiker een enkele billijke vergoeding wordt uitgekeerd aan de uitvoerend kunstenaars en producenten van fonogrammen, wanneer een voor commerciële doeleinden uitgegeven fonogram of reproductie daarvan wordt gebruikt voor uitzending of mededeling aan het publiek113)Voor de toepassing van dit artikel omvat „mededeling aan het publiek” niet het op zodanige wijze per draad of langs draadloze weg beschikbaar stellen voor het publiek van fonogrammen dat het fonogram voor leden van het publiek toegankelijk zijn vanaf een door hen gekozen plaats en op een door hen gekozen tijdstip..
 
@@ -7021,13 +6957,13 @@ Om uitvoering te geven aan de bescherming van algemeen bekende merken als bedoel
 
 Een merk kan nietig worden verklaard wanneer de aanvraag om inschrijving van het merk te kwader trouw is ingediend. Elke Partij kan ook bepalen dat een dergelijk merk niet wordt ingeschreven.
 
-#### ONDERAFDELING 3. MODELLEN119)Wanneer in dit hoofdstuk naar tekeningen of modellen wordt verwezen, worden zij beschouwd als verwijzingen naar ingeschreven tekeningen of modellen van nijverheid.
+#### ONDERAFDELING 3. MODELLEN119) Wanneer in dit hoofdstuk naar tekeningen of modellen wordt verwezen, worden zij beschouwd als verwijzingen naar ingeschreven tekeningen of modellen van nijverheid.
 
 ##### Artikel 32.27. Internationale overeenkomsten
 
 Elke Partij stelt alles in het werk wat redelijkerwijs in haar vermogen ligt om toe te treden tot de Akte van Genève bij de Overeenkomst van ’s-Gravenhage betreffende de internationale inschrijving van tekeningen of modellen van nijverheid, aangenomen te Genève op 2 juli 1999.
 
-##### Artikel 32.28. Bescherming van ingeschreven modellen120)De Unie verleent ook bescherming aan het niet-ingeschreven model wanneer dat voldoet aan de vereisten van [Verordening (EG) nr. 6/2002](32002R0006) van de Raad van 12 december 2001 betreffende Gemeenschapsmodellen (PB EU L 3 van 5.1.2002, blz. 1).
+##### Artikel 32.28. Bescherming van ingeschreven modellen120) De Unie verleent ook bescherming aan het niet-ingeschreven model wanneer dat voldoet aan de vereisten van Verordening (EG) nr. 6/2002 van de Raad van 12 december 2001 betreffende Gemeenschapsmodellen (PB EU L 3 van 5.1.2002, blz. 1).
 
 1. Elke Partij voorziet in de bescherming van onafhankelijk gecreëerde modellen die nieuw of oorspronkelijk zijn121)Een Partij kan in haar wetgeving ook vereisen dat modellen een individueel karakter moeten hebben. Een model heeft volgens de EU-Partij een eigen karakter als de algemene indruk die het bij de geïnformeerde gebruiker wekt, verschilt van de algemene indruk die bij die gebruiker wordt gewekt door modellen die voor het publiek beschikbaar zijn gesteld.. In die bescherming wordt voorzien door inschrijving, die overeenkomstig het bepaalde in dit artikel de houder van het recht een exclusief recht verleent.
 
@@ -7089,9 +7025,9 @@ Na zowel de in bijlage 32-A bedoelde wetgeving van de andere Partij als de in bi
 
 - a. elk commercieel gebruik van de geografische aanduiding voor een product dat van hetzelfde type is en dat:
 
-- i. niet van oorsprong is uit de in bijlage 32-C voor die geografische aanduiding vermelde plaats van oorsprong; of
+   - i. niet van oorsprong is uit de in bijlage 32-C voor die geografische aanduiding vermelde plaats van oorsprong; of
 
-- ii. weliswaar van oorsprong is uit de plaats van oorsprong die in bijlage 32-C voor die geografische aanduiding is vermeld, maar dat niet is geproduceerd of vervaardigd overeenkomstig het bij de beschermde benaming horende productdossier, zelfs wanneer die benaming vergezeld gaat van vermeldingen als „genre”, „type”, „stijl”, „imitatie”, „smaak” of soortgelijke vermeldingen;
+   - ii. weliswaar van oorsprong is uit de plaats van oorsprong die in bijlage 32-C voor die geografische aanduiding is vermeld, maar dat niet is geproduceerd of vervaardigd overeenkomstig het bij de beschermde benaming horende productdossier, zelfs wanneer die benaming vergezeld gaat van vermeldingen als „genre”, „type”, „stijl”, „imitatie”, „smaak” of soortgelijke vermeldingen;
 
 - b. het gebruik van middelen in de benaming of voorstelling van een product waarmee wordt aangeduid of gesuggereerd dat het product in kwestie zijn oorsprong heeft in een ander geografisch gebied dan de werkelijke plaats van oorsprong op een wijze die het risico inhoudt van misleiding van het publiek ten aanzien van de geografische oorsprong van het product;
 
@@ -7217,11 +7153,11 @@ Elke Partij125)Voor de EU-Partij wordt aan de verplichting uit hoofde van dit ar
 
 - a. „bedrijfsgeheim”: informatie die:
 
-- i. geheim is in de zin dat zij, in haar geheel dan wel in de juiste samenstelling en ordening van de bestanddelen, niet algemeen bekend is bij of gemakkelijk toegankelijk voor personen binnen de kringen die zich gewoonlijk bezighouden met de desbetreffende soort informatie;
+   - i. geheim is in de zin dat zij, in haar geheel dan wel in de juiste samenstelling en ordening van de bestanddelen, niet algemeen bekend is bij of gemakkelijk toegankelijk voor personen binnen de kringen die zich gewoonlijk bezighouden met de desbetreffende soort informatie;
 
-- ii. handelswaarde bezit omdat zij geheim is; en
+   - ii. handelswaarde bezit omdat zij geheim is; en
 
-- iii. door de persoon die rechtmatig over de informatie beschikt, is onderworpen aan, gezien de omstandigheden, redelijke maatregelen om die geheim te houden;
+   - iii. door de persoon die rechtmatig over de informatie beschikt, is onderworpen aan, gezien de omstandigheden, redelijke maatregelen om die geheim te houden;
 
 - b. „houder van het bedrijfsgeheim”: iedere natuurlijke persoon of rechtspersoon die rechtmatig over een bedrijfsgeheim beschikt.
 
@@ -7231,11 +7167,11 @@ Elke Partij125)Voor de EU-Partij wordt aan de verplichting uit hoofde van dit ar
 
 - b. het gebruiken of openbaar maken van een bedrijfsgeheim, wanneer dat geschiedt, zonder de instemming van de houder van het bedrijfsgeheim, door een persoon die blijkt te voldoen aan een van de volgende voorwaarden:
 
-- i. het bedrijfsgeheim te hebben verworven op een manier als bedoeld in punt a);
+   - i. het bedrijfsgeheim te hebben verworven op een manier als bedoeld in punt a);
 
-- ii. inbreuk te plegen op een geheimhoudingsovereenkomst of een andere verplichting tot het niet openbaar maken van het bedrijfsgeheim; of
+   - ii. inbreuk te plegen op een geheimhoudingsovereenkomst of een andere verplichting tot het niet openbaar maken van het bedrijfsgeheim; of
 
-- iii. inbreuk te plegen op een contractuele of andere verplichting tot beperking van het gebruik van het bedrijfsgeheim;
+   - iii. inbreuk te plegen op een contractuele of andere verplichting tot beperking van het gebruik van het bedrijfsgeheim;
 
 - c. het verkrijgen, gebruiken of openbaar maken van een bedrijfsgeheim door een persoon die op het tijdstip van het verkrijgen, gebruiken of openbaar maken wist of, gezien de omstandigheden, had moeten weten dat het bedrijfsgeheim direct of indirect werd verkregen van een andere persoon die het bedrijfsgeheim op een onrechtmatige manier gebruikte of openbaar maakte in de zin van punt b).
 
@@ -7265,11 +7201,11 @@ Elke Partij125)Voor de EU-Partij wordt aan de verplichting uit hoofde van dit ar
 
 - d. specifieke maatregelen te treffen om de vertrouwelijkheid te garanderen van elk bedrijfsgeheim of vermeend bedrijfsgeheim dat in een civielrechtelijke procedure in verband met het vermeende verkrijgen, gebruiken of openbaar maken van een bedrijfsgeheim op een manier die in strijd is met eerlijke handelsgebruiken, wordt overgelegd; dergelijke specifieke maatregelen kunnen overeenkomstig de wetgeving van de betrokken Partij, de mogelijkheid omvatten om:
 
-- i. de toegang tot bepaalde documenten geheel of gedeeltelijk te beperken;
+   - i. de toegang tot bepaalde documenten geheel of gedeeltelijk te beperken;
 
-- ii. de toegang tot hoorzittingen en hun respectieve opnamen of transcripties te beperken;
+   - ii. de toegang tot hoorzittingen en hun respectieve opnamen of transcripties te beperken;
 
-- iii. een niet-vertrouwelijke versie ter beschikking te stellen van de gerechtelijke uitspraak waarin de passages die bedrijfsgeheimen bevatten, zijn verwijderd of aangepast;
+   - iii. een niet-vertrouwelijke versie ter beschikking te stellen van de gerechtelijke uitspraak waarin de passages die bedrijfsgeheimen bevatten, zijn verwijderd of aangepast;
 
 - e. sancties op te leggen aan eenieder die deelneemt aan de gerechtelijke procedure en die nalaat of weigert gevolg te geven aan bevelen van de bevoegde rechterlijke instanties betreffende de bescherming van het bedrijfsgeheim of het vermeende bedrijfsgeheim.
 
@@ -7305,7 +7241,7 @@ Elke Partij125)Voor de EU-Partij wordt aan de verplichting uit hoofde van dit ar
 
 De Partijen beschermen kwekersrechten overeenkomstig het Internationaal Verdrag tot bescherming van kweekproducten van 2 december 1961, laatstelijk gewijzigd te Genève op 19 maart 1991 (hierna het „UPOV-Verdrag” genoemd), met inbegrip van de uitzonderingen op het kwekersrecht als bedoeld in artikel 15 van het UPOV-Verdrag, en werken samen om die rechten te bevorderen en te handhaven.
 
-### AFDELING C. HANDHAVING VAN INTELLECTUELE-EIGENDOMSRECHTEN
+#### AFDELING C. HANDHAVING VAN INTELLECTUELE-EIGENDOMSRECHTEN
 
 #### ONDERAFDELING 1. CIVIELRECHTELIJKE EN ADMINISTRATIEVE HANDHAVING
 
@@ -7465,7 +7401,7 @@ Voor zover een civiele corrigerende maatregel kan worden gelast als gevolg van e
 
 Bij de uitvoering van maatregelen aan de grens ter handhaving van intellectuele-eigendomsrechten door haar douaneautoriteiten, ongeacht of zij onder deze onderafdeling vallen, zorgt elke Partij voor overeenstemming met haar verplichtingen uit hoofde van de GATT 1994 en de Trips-overeenkomst, met name met artikel V van de GATT 1994 en artikel 41 en deel III, afdeling 4, van de Trips-overeenkomst.
 
-### AFDELING D. SLOTBEPALINGEN
+#### AFDELING D. SLOTBEPALINGEN
 
 ##### Artikel 32.64. Samenwerking
 
@@ -7515,7 +7451,7 @@ Het op grond van artikel 8.8, lid 1, opgerichte Subcomité Intellectuele eigendo
 
 ### HOOFDSTUK 33. HANDEL EN DUURZAME ONTWIKKELING
 
-### AFDELING A. GEMEENSCHAPPELIJKE BEPALINGEN
+#### AFDELING A. GEMEENSCHAPPELIJKE BEPALINGEN
 
 ##### Artikel 33.1. Doelstellingen
 
@@ -7611,15 +7547,15 @@ De Partijen erkennen het belang van de toepassing van de regels inzake transpara
 
 - d. handelsgerelateerde aspecten van:
 
-- i. initiatieven op het gebied van duurzame consumptie en productie, met inbegrip van initiatieven ter bevordering van een circulaire economie, groene groei en milieuvervuilingsbestrĳding; en
+   - i. initiatieven op het gebied van duurzame consumptie en productie, met inbegrip van initiatieven ter bevordering van een circulaire economie, groene groei en milieuvervuilingsbestrĳding; en
 
-- ii. initiatieven ter bevordering van milieugoederen en -diensten, onder meer door de daarmee verband houdende niet-tarifaire belemmeringen aan te pakken.
+   - ii. initiatieven ter bevordering van milieugoederen en -diensten, onder meer door de daarmee verband houdende niet-tarifaire belemmeringen aan te pakken.
 
 5. De prioriteiten voor samenwerkingsactiviteiten worden door de Partijen gezamenlijk vastgesteld op basis van gebieden van wederzijds belang en beschikbare middelen.
 
 6. De Partijen kunnen activiteiten op de in dit hoofdstuk beschreven samenwerkingsgebieden persoonlijk uitvoeren of met behulp van technologische middelen waarover zij beschikken.
 
-### AFDELING B. MILIEU EN HANDEL
+#### AFDELING B. MILIEU EN HANDEL
 
 ##### Artikel 33.8. Doelstellingen
 
@@ -7721,27 +7657,27 @@ De Partijen erkennen het belang van de toepassing van de regels inzake transpara
 
 - c. streeft elke Partij naar een visserijbeheerssysteem dat gebaseerd is op de beste beschikbare wetenschappelijke gegevens en op internationaal erkende beste praktijken voor visserijbeheer en instandhouding, zoals weergegeven in de desbetreffende bepalingen van internationale instrumenten gericht op het duurzame gebruik en de instandhouding van mariene soorten135)Die instrumenten omvatten onder andere, en voor zover van toepassing, het VN-verdrag inzake het recht van de zee, de VN-overeenkomst over de toepassing van de bepalingen van het Verdrag van de Verenigde Naties inzake het recht van de zee van december 1982 die betrekking hebben op de instandhouding en het beheer van grensoverschrijdende en over grote afstanden trekkende visbestanden, de FAO-gedragscode voor een verantwoorde visserij, de FAO-overeenkomst ter bevordering van de naleving van de internationale instandhoudings- en beheersmaatregelen door vissersvaartuigen op de volle zee, het IOO-visserijactieplan van 2001 en de FAO-overeenkomst inzake havenstaatmaatregelen om illegale, ongemelde en ongereglementeerde visserij te voorkomen, tegen te gaan en te beëindigen., en dat onder andere is ontworpen om:
 
-- i. overbevissing en overcapaciteit te voorkomen;
+   - i. overbevissing en overcapaciteit te voorkomen;
 
-- ii. bijvangst van niet-doelsoorten te beperken;
+   - ii. bijvangst van niet-doelsoorten te beperken;
 
-- iii. het herstel van overbeviste bestanden voor alle zeevisserijen te bevorderen; en
+   - iii. het herstel van overbeviste bestanden voor alle zeevisserijen te bevorderen; en
 
-- iv. visserijbeheer met een ecosysteembenadering te bevorderen, onder meer door samenwerking tussen de Partijen;
+   - iv. visserijbeheer met een ecosysteembenadering te bevorderen, onder meer door samenwerking tussen de Partijen;
 
 - d. neemt elke Partij ter ondersteuning van de inspanningen om IOO-visserijpraktijken te bestrijden en de handel in producten van met die praktijken gevangen soorten te ontmoedigen:
 
-- i. doeltreffende maatregelen om IOO-visserij te bestrijden;
+   - i. doeltreffende maatregelen om IOO-visserij te bestrijden;
 
-- ii. systemen voor monitoring, controle, bewaking, naleving en handhaving in gebruik om:
+   - ii. systemen voor monitoring, controle, bewaking, naleving en handhaving in gebruik om:
 
-- A. vaartuigen die haar vlag voeren en haar natuurlijke personen, overeenkomstig haar internationale verplichtingen en haar wetgeving te weerhouden van IOO-visserijactiviteiten; en
+      - A. vaartuigen die haar vlag voeren en haar natuurlijke personen, overeenkomstig haar internationale verplichtingen en haar wetgeving te weerhouden van IOO-visserijactiviteiten; en
 
-- B. het op zee overladen van vis of visproducten aan te pakken teneinde IOO-visserij tegen te gaan en te voorkomen;
+      - B. het op zee overladen van vis of visproducten aan te pakken teneinde IOO-visserij tegen te gaan en te voorkomen;
 
-- iii. havenstaatmaatregelen; en
+   - iii. havenstaatmaatregelen; en
 
-- iv. maatregelen om te voorkomen dat er IOO-visserij- en -visproducten in de bevoorradingsketens van elke Partij terechtkomen en werkt zij daartoe samen, onder meer door de uitwisseling van informatie te vergemakkelijken;
+   - iv. maatregelen om te voorkomen dat er IOO-visserij- en -visproducten in de bevoorradingsketens van elke Partij terechtkomen en werkt zij daartoe samen, onder meer door de uitwisseling van informatie te vergemakkelijken;
 
 - e. neemt elke Partij actief deel aan de werkzaamheden van de regionale organisaties voor visserijbeheer ( „ROVB’s”) waarvan zij lid, waarnemer of samenwerkende niet-verdragsluitende Partij is, met het oog op goed visserijbeheer en duurzame visserij, bijvoorbeeld door de bevordering van wetenschappelijk onderzoek en de vaststelling van instandhoudingsmaatregelen op basis van de beste wetenschappelijke bewijzen, de versterking van nalevingsmechanismen, de uitvoering van periodieke prestatiebeoordelingen en de vaststelling van doeltreffende controle, monitoring en handhaving van het beheer van de beheersmaatregelen van ROVB’s en, indien van toepassing, de goedkeuring en uitvoering van vangstdocumentatie- of certificeringsregelingen en havenstaatmaatregelen;
 
@@ -7751,7 +7687,7 @@ De Partijen erkennen het belang van de toepassing van de regels inzake transpara
 
 5. De Partijen werken, waar passend en overeenkomstig artikel 33.7, bilateraal en in het kader van ROVB’s samen teneinde duurzame visserijpraktijken en de handel in visproducten van duurzaam beheerde visserijen te bevorderen. Daarnaast kunnen de Partijen samenwerken om kennis en goede praktijken uit te wisselen ter ondersteuning van de uitvoering van dit artikel.
 
-### AFDELING C. ARBEID EN HANDEL
+#### AFDELING C. ARBEID EN HANDEL
 
 ##### Artikel 33.15. Doelstellingen
 
@@ -7823,9 +7759,9 @@ Overeenkomstig artikel 33.7 plegen de Partijen overleg en werken zij, waar passe
 
 - h. aanpak van de uitdagingen en kansen van een divers, multigenerationeel personeelsbestand, onder andere door middel van:
 
-- i. bevordering van gelijkheid en uitbanning van discriminatie met betrekking tot werk en beroep; en
+   - i. bevordering van gelijkheid en uitbanning van discriminatie met betrekking tot werk en beroep; en
 
-- ii. bescherming van kwetsbare arbeidskrachten;
+   - ii. bescherming van kwetsbare arbeidskrachten;
 
 - i. verbetering van de arbeidsverhoudingen, bijvoorbeeld door de uitwisseling van beste praktijken op het gebied van alternatieve geschillenbeslechting en tripartiet overleg;
 
@@ -8029,7 +7965,7 @@ Een dergelijk verzoek wordt schriftelijk ingediend bij het contactpunt van de an
 
 - b. de bevordering van vrouwelijk leiderschap en de ontwikkeling van vrouwennetwerken;
 
-- c. de bevordering van de volledige participatie van vrouwen in de economie door aanmoediging van hun participatie, leiderschap en onderwijs, met name op gebieden waar zij ondervertegenwoordigd zijn, zoals wetenschap, technologie, techniek, wiskunde (STEM - **science, technology, engineering, mathematics**), evenals innovatie en bedrijfsleven;
+- c. de bevordering van de volledige participatie van vrouwen in de economie door aanmoediging van hun participatie, leiderschap en onderwijs, met name op gebieden waar zij ondervertegenwoordigd zijn, zoals wetenschap, technologie, techniek, wiskunde (STEM - *science, technology, engineering, mathematics*), evenals innovatie en bedrijfsleven;
 
 - d. de bevordering van gendergelijkheid in ondernemingen;
 
@@ -8093,9 +8029,9 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - b. „administratief besluit van algemene strekking”: een administratief besluit of administratieve interpretatie die van toepassing is op alle personen en feitelijke situaties die in het algemeen binnen het gebied van dat administratieve besluit of van die administratieve interpretatie vallen en waarbij een gedragsnorm wordt vastgesteld, met uitzondering van:
 
-- i. een vaststelling of beslissing in het kader van een administratieve of semi-rechterlijke procedure die in een concreet geval van toepassing is op een bepaalde persoon, een bepaald goed of een bepaalde dienst van de andere Partij; of
+   - i. een vaststelling of beslissing in het kader van een administratieve of semi-rechterlijke procedure die in een concreet geval van toepassing is op een bepaalde persoon, een bepaald goed of een bepaalde dienst van de andere Partij; of
 
-- ii. een beslissing waarbij uitspraak wordt gedaan met betrekking tot een bepaalde handeling of een bepaalde praktijk.
+   - ii. een beslissing waarbij uitspraak wordt gedaan met betrekking tot een bepaalde handeling of een bepaalde praktijk.
 
 ##### Artikel 35.3. Publicatie
 
@@ -8171,19 +8107,19 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - a. „regelgevende instantie”:
 
-- i. voor de EU-Partij: de Europese Commissie; en
+   - i. voor de EU-Partij: de Europese Commissie; en
 
-- ii. voor Chili: elke regelgevende instantie van de uitvoerende macht; en
+   - ii. voor Chili: elke regelgevende instantie van de uitvoerende macht; en
 
 - b. „regelgevingsmaatregelen”:
 
-- i. voor de EU-Partij:
+   - i. voor de EU-Partij:
 
-- A. verordeningen en richtlijnen als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie; en
+      - A. verordeningen en richtlijnen als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie; en
 
-- B. uitvoeringshandelingen en gedelegeerde handelingen, zoals bepaald in respectievelijk artikel 290 en artikel 291 van het Verdrag betreffende de werking van de Europese Unie; en
+      - B. uitvoeringshandelingen en gedelegeerde handelingen, zoals bepaald in respectievelijk artikel 290 en artikel 291 van het Verdrag betreffende de werking van de Europese Unie; en
 
-- ii. voor Chili: wetten en besluiten van algemene strekking die zijn aangenomen door de regelgevende instanties en waarvan naleving verplicht is139)Volgens paragraaf II.1 van presidentiële instructie nr. 3 van 2019 en de wijzigingen daarvan..
+   - ii. voor Chili: wetten en besluiten van algemene strekking die zijn aangenomen door de regelgevende instanties en waarvan naleving verplicht is139)Volgens paragraaf II.1 van presidentiële instructie nr. 3 van 2019 en de wijzigingen daarvan..
 
 ##### Artikel 36.4. Interne coördinatie van de ontwikkeling van de regelgeving
 
@@ -8275,9 +8211,9 @@ De Partijen erkennen het belang van kleine en middelgrote ondernemingen in hun b
 
 - b. op kleine en middelgrote ondernemingen toegesneden informatie met:
 
-- i. een beschrijving van de bepalingen van dit deel van deze overeenkomst die elke Partij van belang acht voor kleine en middelgrote ondernemingen van beide Partijen; en
+   - i. een beschrijving van de bepalingen van dit deel van deze overeenkomst die elke Partij van belang acht voor kleine en middelgrote ondernemingen van beide Partijen; en
 
-- ii. eventuele extra informatie die de Partij nuttig acht voor kleine en middelgrote ondernemingen die de door dit deel van deze overeenkomst geboden kansen willen aangrijpen.
+   - ii. eventuele extra informatie die de Partij nuttig acht voor kleine en middelgrote ondernemingen die de door dit deel van deze overeenkomst geboden kansen willen aangrijpen.
 
 2. Elke Partij neemt op de in lid 1 bedoelde website een internetlink op naar:
 
@@ -8343,9 +8279,9 @@ De Partijen erkennen het belang van kleine en middelgrote ondernemingen in hun b
 
 - c. onderzoeken alle aangelegenheden die relevant zijn voor kleine en middelgrote ondernemingen in verband met de uitvoering van dit deel van deze overeenkomst, met inbegrip van:
 
-- i. de uitwisseling van informatie om het Gemengd Comité bij te staan in zijn taken om toezicht te houden op de met kleine en middelgrote ondernemingen verband houdende aspecten van dit deel van deze overeenkomst en die uit te voeren;
+   - i. de uitwisseling van informatie om het Gemengd Comité bij te staan in zijn taken om toezicht te houden op de met kleine en middelgrote ondernemingen verband houdende aspecten van dit deel van deze overeenkomst en die uit te voeren;
 
-- ii. het bijstaan van subcomités en bij dit deel van deze overeenkomst ingestelde contactpunten bij het bestuderen van aangelegenheden die van belang zijn voor kleine en middelgrote ondernemingen;
+   - ii. het bijstaan van subcomités en bij dit deel van deze overeenkomst ingestelde contactpunten bij het bestuderen van aangelegenheden die van belang zijn voor kleine en middelgrote ondernemingen;
 
 - d. brengen op gezette tijden gezamenlijk of individueel, ter overweging door het Gemengd Comité, verslag uit over hun activiteiten; en
 
@@ -8361,7 +8297,7 @@ Hoofdstuk 38 is niet van toepassing op dit hoofdstuk.
 
 ### HOOFDSTUK 38. GESCHILLENBESLECHTING
 
-### AFDELING A. DOEL EN TOEPASSINGSGEBIED
+#### AFDELING A. DOEL EN TOEPASSINGSGEBIED
 
 ##### Artikel 38.1. Doelstelling
 
@@ -8385,7 +8321,7 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 38-A en 38-B wordt verstaan 
 
 - e. „Partij waartegen de klacht gericht is”: de Partij ten aanzien waarvan wordt gesteld dat zij een bestreken bepaling heeft geschonden.
 
-### AFDELING B. OVERLEG
+#### AFDELING B. OVERLEG
 
 ##### Artikel 38.4. Overleg
 
@@ -8403,7 +8339,7 @@ Voor de toepassing van dit hoofdstuk en de bijlagen 38-A en 38-B wordt verstaan 
 
 7. Indien de Partij waaraan het verzoek om overleg is gericht, niet binnen 10 dagen na de datum van indiening van het verzoek daarop reageert, indien het overleg niet binnen de in lid 3 of lid 4 genoemde termijn wordt gehouden, indien de Partijen overeenkomen geen overleg te voeren of indien het overleg is afgesloten zonder dat een onderling overeengekomen oplossing is bereikt, kan de Partij die om overleg heeft verzocht, een beroep doen op artikel 38.5.
 
-### AFDELING C. PANELPROCEDURES
+#### AFDELING C. PANELPROCEDURES
 
 ##### Artikel 38.5. Inleiding van panelprocedures
 
@@ -8605,7 +8541,7 @@ Indien een panellid tijdens panelprocedures uit hoofde van deze afdeling niet ka
 
 2. Op verzoek van een Partij of op eigen initiatief kan het panel informatie uit eender welke bron inwinnen die het noodzakelijk en passend acht. Het panel heeft ook het recht om het advies, met inbegrip van informatie en technisch advies, van deskundigen in te winnen wanneer het dat passend acht, in voorkomend geval met inachtneming van door de Partijen overeengekomen voorwaarden.
 
-3. Het panel behandelt bijdragen als **amicus curiae** afkomstig van natuurlijke personen van een Partij of in een Partij gevestigde rechtspersonen overeenkomstig bijlage 38-A.
+3. Het panel behandelt bijdragen als *amicus curiae* afkomstig van natuurlijke personen van een Partij of in een Partij gevestigde rechtspersonen overeenkomstig bijlage 38-A.
 
 4. Alle informatie die het panel op grond van dit artikel verkrijgt, wordt aan de Partijen bekendgemaakt, en de Partijen kunnen opmerkingen over die informatie indienen.
 
@@ -8627,7 +8563,7 @@ Indien een panellid tijdens panelprocedures uit hoofde van deze afdeling niet ka
 
 4. Het panel en de Partijen behandelen informatie die door een Partij aan het panel is verstrekt overeenkomstig bijlage 38-A als vertrouwelijk.
 
-### AFDELING D. BEMIDDELINGSMECHANISME
+#### AFDELING D. BEMIDDELINGSMECHANISME
 
 ##### Artikel 38.25. Doelstelling
 
@@ -8711,7 +8647,7 @@ Tenzij de Partijen anders overeenkomen, zijn alle stappen van de bemiddelingspro
 
 3. Tenzij de Partijen anders overeenkomen, mogen bemiddelaars niet dienst doen als een panellid in het kader van geschillenbeslechtingsprocedures uit hoofde van deze overeenkomst of enige andere overeenkomst met betrekking tot dezelfde aangelegenheid waarin zij hebben bemiddeld.
 
-### AFDELING E. GEMEENSCHAPPELIJKE BEPALINGEN
+#### AFDELING E. GEMEENSCHAPPELIJKE BEPALINGEN
 
 ##### Artikel 38.31. Verzoek om informatie
 
@@ -8763,11 +8699,11 @@ De Gezamenlijke Raad kan op grond van artikel 8.5, lid 1, punt a), een besluit t
 
 - c. noodzakelijk zijn om de naleving te waarborgen van wetten of voorschriften die niet strijdig zijn met dit deel van deze overeenkomst, met inbegrip van wetten of voorschriften die betrekking hebben op:
 
-- i. het voorkomen van misleidende en frauduleuze praktijken, of op middelen om de gevolgen van de niet-nakoming van contracten te compenseren;
+   - i. het voorkomen van misleidende en frauduleuze praktijken, of op middelen om de gevolgen van de niet-nakoming van contracten te compenseren;
 
-- ii. het beschermen van de privacy met betrekking tot de verwerking en verspreiding van persoonsgegevens, en het beschermen van de vertrouwelijkheid van individuele dossiers en rekeningen; of
+   - ii. het beschermen van de privacy met betrekking tot de verwerking en verspreiding van persoonsgegevens, en het beschermen van de vertrouwelijkheid van individuele dossiers en rekeningen; of
 
-- iii. veiligheid.
+   - iii. veiligheid.
 
 3. Voor alle duidelijkheid: de Partijen zijn het erover eens dat, voor zover dergelijke maatregelen onverenigbaar zijn met de bepalingen van de in de leden 1 en 2 van dit artikel bedoelde hoofdstukken van dit deel van deze overeenkomst:
 
@@ -8917,9 +8853,9 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 - a. „Partij”:
 
-- i. de Europese Unie of haar lidstaten of de Europese Unie en haar lidstaten, overeenkomstig hun respectieve bevoegdheden (de „EU-Partij”), of
+   - i. de Europese Unie of haar lidstaten of de Europese Unie en haar lidstaten, overeenkomstig hun respectieve bevoegdheden (de „EU-Partij”), of
 
-- ii. Chili; en
+   - ii. Chili; en
 
 - b. „Partijen”: de EU-Partij en Chili.
 
@@ -8933,7 +8869,7 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 Verwijzingen naar „grondgebied” in deze overeenkomst worden overeenkomstig dit lid begrepen, tenzij uitdrukkelijk anders is bepaald in deze overeenkomst.
 
-2. Wat betreft de bepalingen inzake de tariefbehandeling van goederen, met inbegrip van oorsprongsregels en de tijdelijke schorsing van een dergelijke behandeling, is deze overeenkomst ook van toepassing op die delen van het douanegebied van de Europese Unie in de zin van artikel 4 van [Verordening (EU) nr. 952/2013](32013R0952) van het Europees Parlement en van de Raad148)[Verordening (EU) nr. 952/2013](32013R0952) van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PB EU L 269 van 10.10.2013, blz. 1)., die niet onder lid 1, punt a), van dit artikel vallen.
+2. Wat betreft de bepalingen inzake de tariefbehandeling van goederen, met inbegrip van oorsprongsregels en de tijdelijke schorsing van een dergelijke behandeling, is deze overeenkomst ook van toepassing op die delen van het douanegebied van de Europese Unie in de zin van artikel 4 van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad148)Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PB EU L 269 van 10.10.2013, blz. 1)., die niet onder lid 1, punt a), van dit artikel vallen.
 
 ##### Artikel 41.3. Nakoming van verplichtingen
 
@@ -8955,11 +8891,11 @@ Verwijzingen naar „grondgebied” in deze overeenkomst worden overeenkomstig d
 
 - b. een Partij belet wordt acties te ondernemen die die Partij nodig acht ter bescherming van haar wezenlijke veiligheidsbelangen en die:
 
-- i. verband houden met de productie van of de handel in wapens, munitie en oorlogstuig dan wel met dergelijke handel en transacties in andere goederen en materialen, diensten en technologie en met economische activiteiten die direct of indirect de bevoorrading van een militaire inrichting ten doel hebben;
+   - i. verband houden met de productie van of de handel in wapens, munitie en oorlogstuig dan wel met dergelijke handel en transacties in andere goederen en materialen, diensten en technologie en met economische activiteiten die direct of indirect de bevoorrading van een militaire inrichting ten doel hebben;
 
-- ii. betrekking hebben op splijt- of fusiestoffen of op stoffen waaruit die kunnen worden vervaardigd; of
+   - ii. betrekking hebben op splijt- of fusiestoffen of op stoffen waaruit die kunnen worden vervaardigd; of
 
-- iii. in tijden van oorlog of een andere crisissituatie in de internationale betrekkingen worden genomen; of
+   - iii. in tijden van oorlog of een andere crisissituatie in de internationale betrekkingen worden genomen; of
 
 - c. een Partij belet wordt acties te ondernemen tot handhaving van de internationale vrede en veiligheid op grond van haar verplichtingen uit hoofde van het Handvest van de Verenigde Naties.
 
@@ -9019,7 +8955,7 @@ Verwijzingen naar „grondgebied” in deze overeenkomst worden overeenkomstig d
 
 11. Procedurele termijnen die reeds geheel of gedeeltelijk zijn verstreken uit hoofde van de Interimhandelsovereenkomst worden in aanmerking genomen bij het bepalen van procedurele termijnen uit hoofde van gelijkwaardige bepalingen van deze overeenkomst.
 
-12. De Overeenkomst over de handel in wijn in bijlage V bij de Associatieovereenkomst („Wijnovereenkomst”) en de Overeenkomst over de handel in gedistilleerde dranken en gearomatiseerde dranken in bijlage VI bij de Associatieovereenkomst („Overeenkomst gedistilleerde dranken”)149)Voor alle duidelijkheid: de datum van ondertekening en de datum van inwerkingtreding van de Wijnovereenkomst en de Overeenkomst gedistilleerde dranken zijn dezelfde als de datum van ondertekening en de datum van inwerkingtreding van de Associatieovereenkomst., met inbegrip van alle aanhangsels, worden **mutatis mutandis** in deze overeenkomst opgenomen en maken daarvan integrerend deel uit, en wel als volgt:
+12. De Overeenkomst over de handel in wijn in bijlage V bij de Associatieovereenkomst („Wijnovereenkomst”) en de Overeenkomst over de handel in gedistilleerde dranken en gearomatiseerde dranken in bijlage VI bij de Associatieovereenkomst („Overeenkomst gedistilleerde dranken”)149)Voor alle duidelijkheid: de datum van ondertekening en de datum van inwerkingtreding van de Wijnovereenkomst en de Overeenkomst gedistilleerde dranken zijn dezelfde als de datum van ondertekening en de datum van inwerkingtreding van de Associatieovereenkomst., met inbegrip van alle aanhangsels, worden *mutatis mutandis* in deze overeenkomst opgenomen en maken daarvan integrerend deel uit, en wel als volgt:
 
 - a. verwijzingen in de Wijnovereenkomst en de Overeenkomst gedistilleerde dranken naar het mechanisme voor geschillenbeslechting als bedoeld in deel IV van de Associatieovereenkomst, alsook naar de in bijlage XVI bij de Associatieovereenkomst bedoelde gedragscode, moeten worden gelezen als verwijzingen naar het geschillenbeslechtingsmechanisme van hoofdstuk 38 en naar de gedragscode als bedoeld in bijlage 38-B bij deze overeenkomst;
 
@@ -9080,425 +9016,5 @@ Niettegenstaande artikel 41.12 kan een Partij de andere Partij in kennis stellen
 ##### Artikel 41.14. Authentieke teksten
 
 Deze overeenkomst is in tweevoud opgesteld in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, waarbij alle teksten gelijkelijk authentiek zijn.
-
-### AFDELING I. ALGEMENE BEPALINGEN
-
-##### Artikel 1. Doelstellingen
-
-1. De Partijen verzekeren dat zij zich zullen inzetten om corruptie in de internationale handel en investeringen te voorkomen en te bestrijden en herinneren eraan dat corruptie goed bestuur en economische ontwikkeling ondermijnt en de internationale concurrerende omstandigheden verstoort.
-
-2. De Partijen erkennen dat corruptie de handel ongunstig kan beïnvloeden, doordat corruptie de mogelijkheden voor markttoegang in het gedrang kan brengen en verbintenissen gericht op het creëren van een gelijk speelveld kan uithollen. Corruptie treft ook investeerders en ondernemingen die willen deelnemen aan handel en investeringen.
-
-3. De Partijen erkennen dat corruptie een transnationale kwestie is en samenhangt met andere vormen van transnationale en economische criminaliteit, waaronder het witwassen van geld, en die moet worden aangepakt met een multidisciplinaire benadering en nauwe samenwerking op internationaal niveau.
-
-4. De Partijen erkennen de noodzaak om integriteit op te bouwen en de transparantie in zowel de publieke als de particuliere sector te vergroten, en erkennen dat elke sector complementaire verantwoordelijkheden heeft met betrekking tot corruptiebestrijding.
-
-5. De Partijen erkennen het belang van de werkzaamheden van internationale en regionale organisaties, waaronder de VN, de WTO, de OESO, de Financiële-actiegroep (FATF), de Raad van Europa en de Organisatie van Amerikaanse Staten (OAS), ter voorkoming en bestrijding van corruptie in aangelegenheden die van invloed zijn op de internationale handel en investeringen, en verbinden zich er derhalve toe samen te werken om passende initiatieven aan te moedigen en te ondersteunen.
-
-6. De Partijen herhalen hun gezamenlijke toezegging in het kader van duurzameontwikkelingsdoelstelling 16 om corruptie en omkoping in al hun vormen aanzienlijk terug te dringen.
-
-7. De Partijen erkennen het belangrijke werk van de Werkgroep corruptiebestrijding van de G20.
-
-8. Het doel van dit protocol is een bilateraal kader vast te stellen van verbintenissen ter bestrijding en voorkoming van corruptie in relatie tot handel en investeringen in de betrekkingen tussen de Partijen.
-
-9. De Partijen erkennen dat de beschrijving van strafbare feiten die overeenkomstig dit protocol zijn vastgesteld of gehandhaafd, en van de toepasselijke juridische verweermiddelen of rechtsbeginselen die de rechtmatigheid van gedragingen bepalen, voorbehouden is aan het recht van elke Partij, en dat die strafbare feiten moeten worden vervolgd en bestraft overeenkomstig het recht van elke Partij.
-
-##### Artikel 2. Toepassingsgebied:
-
-Dit protocol is van toepassing op corruptie met betrekking tot aangelegenheden die onder deel III van deze overeenkomst vallen.
-
-##### Artikel 3. Verhouding tot andere overeenkomsten
-
-Niets in dit protocol doet afbreuk aan de rechten of verplichtingen van de Partijen uit hoofde van andere verdragen, zoals het Verdrag van de Verenigde Naties tegen corruptie (UNCAC), het OESO-Verdrag inzake de bestrijding van omkoping van buitenlandse ambtenaren bij internationale zakelijke transacties, vastgesteld te Parijs op 21 november 1997, het Inter-Amerikaans Verdrag tegen corruptie, vastgesteld te Caracas op 29 maart 1996, en de desbetreffende door de Raad van Europa vastgestelde rechtsinstrumenten.
-
-### AFDELING II. MAATREGELEN TER BESTRIJDING VAN CORRUPTIE
-
-##### Artikel 4. Actieve en passieve omkoping van ambtenaren
-
-De Partijen erkennen het belang van de bestrijding van actieve en passieve omkoping van ambtenaren met betrekking tot handel en investeringen. Daartoe bevestigen de Partijen met name nogmaals hun verbintenissen uit hoofde van de Artikelen 15 en 16 van het UNCAC om de wetgevende en andere maatregelen vast te stellen of te handhaven die nodig kunnen zijn om de actieve en passieve omkoping van ambtenaren en de actieve omkoping van buitenlandse ambtenaren en functionarissen van internationale publiekrechtelijke organisaties, indien opzettelijk gepleegd, als strafbare feiten aan te merken. De Partijen bevestigen ook nogmaals hun verbintenis om te overwegen de wetgevings- en andere maatregelen vast te stellen die nodig kunnen zijn om de passieve omkoping van buitenlandse ambtenaren en functionarissen van internationale publiekrechtelijke organisaties, indien opzettelijk gepleegd, als strafbare feiten aan te merken.
-
-##### Artikel 5. Actieve en passieve omkoping in de particuliere sector
-
-1. De Partijen erkennen het belang van de bestrijding van actieve en passieve omkoping van ambtenaren met betrekking tot handel en investeringen in de particuliere sector. Daartoe bevestigen de Partijen nogmaals hun toezegging uit hoofde van Artikel 21 van het UNCAC om te overwegen de wetgevende en andere maatregelen vast te stellen die nodig kunnen zijn om actieve en passieve omkoping in de particuliere sector strafbaar te stellen wanneer die vormen van omkoping opzettelijk zijn gepleegd in het kader van economische, financiële of commerciële activiteiten.
-
-2. De Partijen erkennen de schadelijke gevolgen van faciliterende betalingen aan ambtenaren, aangezien daardoor de inspanningen ter bestrijding van corruptie worden ondermijnd en omkoping in de hand wordt gewerkt. Daarom bevestigen de Partijen nogmaals hun verbintenissen uit hoofde van Artikel 12, lid 4, van het UNCAC om niet toe te staan dat uitgaven in de vorm van steekpenningen fiscaal aftrekbaar zijn, net als, waar passend, andere uitgaven die corrupt gedrag stimuleren.
-
-##### Artikel 6. Corruptie en witwassen van geld
-
-De Partijen erkennen het onderlinge verband tussen corruptie en het witwassen van geld en bevestigen opnieuw hun verbintenissen uit hoofde van Artikel 23 van het UNCAC.
-
-##### Artikel 7. Aansprakelijkheid van rechtspersonen
-
-De Partijen erkennen dat het vestigen van de aansprakelijkheid van rechtspersonen en het beschikbaar maken van doeltreffende, evenredige en afschrikkende strafrechtelijke of niet-strafrechtelijke sancties noodzakelijk zijn om de wereldwijde bestrijding van corruptie in de internationale handel en investeringen vooruit te helpen. Daartoe bevestigen de Partijen nogmaals hun verbintenissen uit hoofde van Artikel 26 van het UNCAC.
-
-### AFDELING III. MAATREGELEN TER VOORKOMING VAN CORRUPTIE IN DE PARTICULIERE SECTOR
-
-##### Artikel 8. Verantwoord ondernemerschap
-
-1. De Partijen erkennen het belang van preventieve maatregelen en verantwoord ondernemerschap bij het voorkomen van corruptie, met inbegrip van verplichtingen in verband met de rapportage van financiële en niet-financiële informatie en het toepassen van maatschappelijk verantwoorde bedrijfspraktijken.
-
-2. De Partijen erkennen dat bij het overwegen van maatregelen uit hoofde van lid 1 rekening moet worden gehouden met de behoeften en beperkingen van kleine en middelgrote ondernemingen.
-
-3. De Partijen spreken opnieuw hun steun uit voor de OESO-richtsnoeren voor multinationale ondernemingen met betrekking tot de bestrijding van corruptie.
-
-##### Artikel 9. Financiële verslaglegging
-
-1. In overeenstemming met hun verbintenissen uit hoofde van het UNCAC erkennen de Partijen het belang van het verbeteren van de boekhoud- en auditnormen in de particuliere sector als een manier om corruptie te voorkomen.
-
-2. Elke Partij overweegt met name de volgende maatregelen om dat doel te bereiken:
-
-- a. particuliere ondernemingen aanmoedigen tot het nemen van maatregelen om corruptie te voorkomen en op te sporen, rekening houdend met hun structuur en omvang, en met name de specifieke behoeften van kleine en middelgrote ondernemingen; dergelijke maatregelen kunnen de naleving van een code voor corporate governance, een interne auditfunctie of toereikende interne controles omvatten; en
-
-- b. verplicht stellen dat de boekhouding en financiële overzichten van die particuliere ondernemingen aan passende audit- en certificeringsprocedures worden onderworpen.
-
-3. Elke Partij neemt overeenkomstig haar wet- en regelgeving alle maatregelen die nodig kunnen zijn met betrekking tot de openbaarmaking van financiële overzichten en de handhaving van de normen voor financiële verslaglegging en accountantscontrole.
-
-4. Elke Partij moet overwegen maatregelen vast te stellen of te handhaven om externe accountants aan te moedigen aan de bevoegde autoriteiten verslag uit te brengen van alle handelingen die naar hun oordeel een strafbaar feit als bedoeld in de Artikelen 4, 5 en 6 zouden kunnen vormen. Indien een dergelijke melding op grond van haar wetgeving vereist is, zorgt de Partij ervoor dat de externe accountants die die meldingen redelijkerwijs en te goeder trouw doen, worden beschermd tegen gerechtelijke stappen wegens schending van contractuele of wettelijke beperkingen op de openbaarmaking van informatie.
-
-##### Artikel 10. Transparantie in de particuliere sector
-
-1. De Partijen erkennen dat transparantie kan bijdragen tot het ontmoedigen van corruptie met betrekking tot handel en investeringen, en herinneren daartoe aan hun verbintenissen uit hoofde van Artikel 12, lid 2, van het UNCAC, met name met betrekking tot de volgende maatregelen ter verwezenlijking van de doelstelling om te zorgen voor meer transparantie in de particuliere sector die betrokken is bij commerciële activiteiten met betrekking tot handel en investeringen uit hoofde van deel III van deze overeenkomst:
-
-- a. het bevorderen van de ontwikkeling van normen en procedures gericht op het waarborgen van de integriteit van relevante particuliere instellingen, met inbegrip van gedragscodes voor de correcte, eerzame en adequate uitoefening van de zakelijke en overige activiteiten van alle relevante beroepsgroepen en het voorkomen van belangenconflicten, en voor het bevorderen van goede commerciële praktijken door de bedrijven onderling en in hun contractuele zakelijke relaties met de staat;
-
-- b. het voorkomen van misbruik van regelgeving voor particuliere instellingen, met inbegrip van procedures inzake subsidies en vergunningen die door overheidsinstanties worden verleend voor commerciële activiteiten; en
-
-- c. het bevorderen van maatregelen ter voorkoming van belangenconflicten door, waar passend en gedurende een redelijke termijn, beperkingen te stellen aan de professionele activiteiten van voormalig ambtenaren of aan het door de particuliere sector in dienst nemen van ambtenaren na hun vrijwillig ontslag of pensionering, indien dergelijke activiteiten of dienstbetrekkingen direct verband houden met de functies die door dergelijke ambtenaren werden bekleed of waarop zij toezicht hielden tijdens hun ambt.
-
-2. Elke Partij moedigt beursgenoteerde ondernemingen, banken en verzekeringsmaatschappijen aan om verslag uit te brengen over de maatregelen die zij hebben genomen ter voorkoming en bestrijding van corruptie. Elke Partij neemt de nodige maatregelen met betrekking tot de openbaarmaking van dergelijke verslagen.
-
-##### Artikel 11. Maatregelen ter voorkoming van het witwassen van geld
-
-1. De Partijen erkennen het belang van het voorkomen van het witwassen van geld en de mogelijke gevolgen daarvan voor handel en investeringen, en bevestigen dat zij zich ertoe verbinden een alomvattende interne regelgevings- en toezichtregeling voor financiële instellingen en aangewezen niet-financiële ondernemingen en beroepen vast te stellen of te handhaven, in overeenstemming met de bestaande verbintenissen uit hoofde van het UNCAC en de aanbevelingen van de FATF. De Partijen bevorderen de uitvoering van FATF-aanbeveling 24 inzake de transparantie en de uiteindelijk begunstigden van rechtspersonen, en aanbeveling 25 inzake de transparantie en de uiteindelijk begunstigden van juridische constructies.
-
-2. Overeenkomstig de in lid 1 bedoelde verbintenissen, aanbevelingen en beginselen handhaaft of neemt een partij maatregelen die:
-
-- a. ervoor zorgen dat haar wet- en regelgeving een definitie van „uiteindelijk begunstigde” kent die natuurlijke personen omvat die uiteindelijk eigenaar zijn van of zeggenschap hebben over een afnemer en natuurlijke personen namens wie een transactie wordt uitgevoerd; daaronder moeten ook de personen vallen die de uiteindelijke feitelijke zeggenschap over een rechtspersoon of juridische constructie uitoefenen;
-
-- b. ervoor zorgen dat binnen hun grondgebied opgerichte vennootschappen of andere juridische entiteiten toereikende, accurate en actuele informatie over wie hun uiteindelijk begunstigden zijn, inwinnen en bijhouden, waaronder gedetailleerde gegevens over de door de uiteindelijk begunstigden gehouden economische belangen;
-
-- c. ervoor zorgen dat trustees van express trusts toereikende, nauwkeurige en actuele informatie over hun uiteindelijk begunstigden bijhouden, met inbegrip van informatie over de instellers, de eventuele protector, de trustees, de begunstigden of klassen van begunstigden, en elke andere natuurlijke persoon die de uiteindelijke feitelijke zeggenschap over de trust uitoefent; die maatregelen moeten ook gelden voor andere juridische constructies met een soortgelijke structuur of functie als express trusts;
-
-- d. financiële instellingen en aangewezen niet-financiële ondernemingen en beroepen verplichten de klant te identificeren en de identiteit van die klant te verifiëren, alsook de uiteindelijk begunstigde te identificeren en redelijke maatregelen te nemen om de identiteit van de uiteindelijk begunstigde te verifiëren, zodat de financiële instelling of de aangewezen niet-financiële onderneming of beroepsbeoefenaar ervan overtuigd is te weten wie de uiteindelijk begunstigde is; voor de „aangewezen niet-financiële ondernemingen en beroepen” wordt de definitie in de FATF-aanbevelingen gevolgd;
-
-- e. mechanismen invoeren om te waarborgen dat de relevante autoriteiten als omschreven in hun wet- en regelgeving tijdig toegang hebben tot informatie over uiteindelijk begunstigden;
-
-- f. ervoor zorgen dat haar bevoegde autoriteiten tijdig en doeltreffend deelnemen aan de uitwisseling van informatie over uiteindelijk begunstigden met hun internationale tegenhangers,
-
-- g. financiële instellingen en aangewezen niet-financiële ondernemingen en beroepen ertoe verplichten verscherpte zorgvuldigheidsonderzoeken uit te voeren, met name ten aanzien van politiek prominente personen, waaronder personen worden verstaan die op het grondgebied van een van de Partijen of op internationaal niveau prominente publieke posities bekleden of hebben bekleed, alsook hun familieleden en nauwe zakenrelaties; en
-
-- h. zorgen voor een doeltreffend toezicht op de naleving van de bovengenoemde verplichtingen, met inbegrip van de vaststelling en handhaving van doeltreffende, evenredige en afschrikkende sancties voor niet-naleving.
-
-### AFDELING IV. MAATREGELEN TER VOORKOMING VAN CORRUPTIE IN DE PUBLIEKE SECTOR
-
-##### Artikel 12. Gedrag van ambtenaren
-
-1. De Partijen erkennen het belang van de beginselen inzake gedrag voor overheidsfunctionarissen van de economische samenwerking Azië-Stille Oceaan (APEC), aangenomen op 3 juli 2007, voor Chili, en Aanbeveling nr. R (2000) 10 van de Raad van Europa inzake gedragscodes voor ambtenaren, aangenomen op 11 mei 2000, voor de EU-Partij.
-
-2. De Partijen bevestigen nogmaals hun verbintenissen uit hoofde van Artikel 8 van het UNCAC, waaronder de toepassing van gedragscodes of -normen voor ambtenaren, het voor ambtenaren gemakkelijker maken om corrupte handelingen bij de bevoegde autoriteiten te melden, het verplichten van ambtenaren om bij de bevoegde autoriteiten verklaringen af te leggen over mogelijke belangenconflicten, en het nemen van maatregelen die voorzien in disciplinaire of andere maatregelen tegen ambtenaren die dergelijke codes of normen schenden.
-
-##### Artikel 13. Transparantie in het openbaar bestuur
-
-1. De Partijen benadrukken het belang van transparantie in het openbaar bestuur om corruptie met betrekking tot handel en investeringen te voorkomen en komen overeen transparantie te bevorderen in overeenstemming met de specifieke en horizontale bepalingen, zoals bedoeld in deel III van deze overeenkomst, met inbegrip van met name bepalingen inzake handelsbevordering, overheidsopdrachten, interne regelgeving en algemene transparantie.
-
-2. De Partijen bevestigen nogmaals hun verbintenissen uit hoofde van Artikel 13, lid 2, van het UNCAC om passende maatregelen te nemen teneinde te waarborgen dat hun instanties voor corruptiebestrijding bekend zijn bij het publiek en om de toegang tot die instanties voor het melden van voorvallen mogelijk te maken.
-
-##### Artikel 14. Participatie van het maatschappelijk middenveld
-
-1. De Partijen erkennen het belang van de participatie van het maatschappelijk middenveld bij het voorkomen en bestrijden van corruptie in de internationale handel en investeringen, alsook de noodzaak om het publiek bewuster te maken van het bestaan, de oorzaken, de ernst en het gevaar van corruptie. Daartoe bevestigen zij nogmaals hun toezeggingen uit hoofde van Artikel 13, lid 1, van het UNCAC, met name de toezegging om passende maatregelen te nemen ter bevordering van de actieve deelname van personen en groepen buiten de publieke sector, zoals het maatschappelijk middenveld, niet-gouvernementele organisaties en gemeenschapsorganisaties.
-
-2. De partijen nemen daarbij in het bijzonder de volgende maatregelen in overweging:
-
-- a. het opzetten van openbare voorlichtingsactiviteiten en openbare onderwijsprogramma’s die ertoe bijdragen dat corruptie niet wordt getolereerd, en
-
-- b. het vaststellen of handhaven van maatregelen die de vrijheid om informatie over corruptie te zoeken, te ontvangen, te publiceren en te verspreiden, eerbiedigen, bevorderen en beschermen.
-
-##### Artikel 15. Bescherming van melders
-
-De Partijen bevestigen nogmaals hun verbintenis uit hoofde van Artikel 33 van het UNCAC inzake de bescherming van melders tegen elke vorm van ongerechtvaardigde behandeling.
-
-### AFDELING V. MECHANISME VOOR GESCHILLENBESLECHTING
-
-##### Artikel 16. Geschillenbeslechting
-
-1. De Partijen doen door middel van dialoog, overleg, uitwisseling van informatie en samenwerking al het mogelijke om eventuele meningsverschillen tussen de Partijen over de interpretatie of de toepassing van dit protocol aan te pakken.
-
-2. In geval van onenigheid tussen de Partijen over de interpretatie of de toepassing van dit protocol maken de Partijen uitsluitend gebruik van de geschillenbeslechtingsprocedures zoals die uit hoofde van de Artikelen 17 en 18 zijn vastgelegd.
-
-##### Artikel 17. Overleg
-
-1. Een Partij (de „verzoekende Partij”) kan op elk moment vragen om overleg met de andere Partij (de „antwoordende Partij”) over aangelegenheden betreffende de interpretatie of de toepassing van dit protocol door een schriftelijk verzoek in te dienen bij het overeenkomstig Artikel 19, lid 3, aangewezen contactpunt van de antwoordende Partij. In het verzoek worden de redenen voor het verzoek om overleg vermeld, met inbegrip van een voldoende specifieke beschrijving van de aangelegenheid in kwestie en het verband ervan met de bepalingen van dit protocol.
-
-2. Tenzij met de verzoekende Partij anders is overeengekomen, komt de antwoordende Partij uiterlijk tien dagen na de datum van indiening van het in lid 1 bedoelde verzoek met een schriftelijk antwoord.
-
-3. Tenzij zij anders overeenkomen, beginnen de Partijen uiterlijk 30 dagen na de datum van indiening van het verzoek met overleg.
-
-4. Het overleg kan plaatsvinden op een fysieke locatie of met behulp van alle technologische middelen waarover de Partijen beschikken. Indien het overleg op een fysieke locatie plaatsvindt, is die locatie op het grondgebied van de antwoordende Partij, tenzij de Partijen anders overeenkomen.
-
-5. Tijdens het overleg:
-
-- a. verstrekken de Partijen voldoende informatie om een volledig onderzoek van de aangelegenheid mogelijk te maken, en
-
-- b. behandelen de Partijen alle in de loop van het overleg uitgewisselde informatie vertrouwelijk.
-
-6. De Partijen treden in overleg om tot een wederzijds bevredigende oplossing van de aangelegenheid te komen, rekening houdend met de mogelijkheden tot samenwerking dienaangaande.
-
-7. Indien de Partijen niet in staat zijn de kwestie binnen 60 dagen nadat het verzoek om overleg op grond van lid 1 is ingediend, op te lossen overeenkomstig de leden 3 tot en met 6, kan elke Partij, door een schriftelijk verzoek in te dienen bij het overeenkomstig Artikel 19, lid 3, aangewezen contactpunt van de andere Partij, verzoeken het in Artikel 19 bedoelde Subcomité voor Corruptiebestrijding op het gebied van handel en investeringen bijeen te roepen om de kwestie te onderzoeken. Het Subcomité voor Corruptiebestrijding op het gebied van handel en investeringen komt onverwijld bijeen en streeft ernaar overeenstemming te bereiken over een oplossing van de kwestie.
-
-8. Elke Partij of het op grond van lid 7 ingeschakelde Subcomité voor Corruptiebestrijding op het gebied van handel en investeringen kan, waar passend, het advies van de in Artikel 40.6 van deze overeenkomst bedoelde interne adviesgroepen of ander deskundig advies inwinnen.
-
-9. Indien de Partijen de kwestie oplossen, documenteren zij alle resultaten, met inbegrip van, waar passend, specifieke stappen en termijnen waarover overeenstemming is bereikt. De Partijen maken die resultaten toegankelijk voor het publiek, tenzij zij anders overeenkomen.
-
-##### Artikel 18. Deskundigenpanel
-
-1. Indien binnen 60 dagen na de indiening van een schriftelijk verzoek om behandeling van de aangelegenheid door het Subcomité voor Corruptiebestrijding op het gebied van handel en investeringen op grond van Artikel 17, lid 7, of, in afwezigheid van een desbetreffend verzoek, binnen 120 dagen na de indiening van een schriftelijk verzoek om overleg op grond van Artikel 17, lid 1, geen wederzijds bevredigende oplossing is bereikt, kan een Partij, door een schriftelijk verzoek in te dienen bij het overeenkomstig Artikel 19, lid 3, aangewezen contactpunt van de andere Partij, verzoeken om de instelling een deskundigenpanel dat de aangelegenheid moet onderzoeken. In het verzoek moet zij de redenen voor het verzoek om instelling van een deskundigenpanel vermelden, met inbegrip van een beschrijving van de aangelegenheid in kwestie, en uitleggen in welke zin die aangelegenheid een inbreuk vormt op de bepalingen van dit protocol die zij van toepassing acht.
-
-2. Tenzij in dit Artikel anders is bepaald, zijn de Artikelen 38.6 en 38.10, Artikel 38.13, lid 6, Artikel 38.14, lid 1, de Artikelen 38.15 en 38.19, Artikel 38.20, lid 2, de Artikelen 38.21, 38.22, 38.24, 38.32, 38.33, 38.34 en 38.35 van deze overeenkomst, alsook de bijlagen 38-A en 38-B bij deze overeenkomst, van overeenkomstige toepassing op dit protocol.
-
-3. Tijdens zijn eerste vergadering beveelt het Subcomité voor Corruptiebestrijding op het gebied van Handel en Investeringen het Gemengd Comité aan een lijst op te stellen van ten minste 15 personen die bereid en in staat zijn om zitting te nemen in het deskundigenpanel. De lijst bestaat uit drie deellijsten:
-
-- a. een deellijst van personen die op basis van voorstellen van de EU-Partij is opgesteld;
-
-- b. een deellijst van personen die op basis van voorstellen van Chili is opgesteld, en
-
-- c. een deellijst van personen die geen onderdaan van een van de Partijen zijn en die bereid zijn om als voorzitter van het deskundigenpanel te fungeren. Elke Partij draagt ten minste vijf personen voor haar eigen deellijst voor. De Partijen kiezen ook ten minste vijf personen voor de deellijst van voorzitters. Het Gemengd Comité ziet erop toe dat elke deellijst actueel wordt gehouden en dat die ten minste vijf personen bevat.
-
-4. De in lid 3 bedoelde personen beschikken over gespecialiseerde kennis of deskundigheid op gebieden die onder dit protocol vallen of over de beslechting van geschillen die voortvloeien uit internationale overeenkomsten. Zij zijn onafhankelijk, treden op persoonlijke titel op, nemen van geen enkele organisatie of overheid instructies met betrekking tot het onderwerp van het geschil aan, zijn niet verbonden aan de overheid van een van de Partijen en nemen bijlage 38-B in acht.
-
-5. Indien het deskundigenpanel is samengesteld volgens de procedures van Artikel 38.6, leden 3 en 4, van deze overeenkomst, worden de deskundigen geselecteerd uit de relevante personen op de in lid 3 van dit Artikel bedoelde deellijsten.
-
-6. Tenzij de Partijen binnen vijf dagen na de datum van instelling van het deskundigenpanel, zoals gedefineerd in Artikel 38.6, lid 5 van deze overeenkomst, anders overeenkomen, luidt het mandaat als volgt:
-
-„het onderzoeken, in het licht van de relevante bepalingen van het Protocol inzake de voorkoming en bestrijding van corruptie van de geavanceerde kaderovereenkomst, van de aangelegenheid waarnaar wordt verwezen in het verzoek om instelling van het deskundigenpanel op grond van Artikel 17 van dat protocol, en het uitbrengen van een verslag, overeenkomstig dat Artikel, met zijn bevindingen en aanbevelingen voor de oplossing van de aangelegenheid”.
-
-7. Met betrekking tot aangelegenheden die verband houden met de bestaande internationale overeenkomsten, aanbevelingen of beginselen als bedoeld in dit protocol, moet het deskundigenpanel indien relevant informatie inwinnen bij de relevante organisaties of organen. Dergelijke informatie wordt aan de Partijen verstrekt, zodat zij daarover opmerkingen kunnen maken.
-
-8. Het deskundigenpanel legt de bepalingen van dit protocol uit volgens de gebruikelijke regels voor de interpretatie van het internationaal publiekrecht, met inbegrip van die welke in het Verdrag van Wenen inzake het verdragenrecht zijn neergelegd.
-
-9. Het deskundigenpanel legt de Partijen een tussentijds verslag en een eindverslag voor met daarin de bevindingen van de feiten, de toepasselijkheid van de desbetreffende bepalingen en de motivering van die bevindingen, alsook de conclusies en de aanbevelingen van het panel.
-
-10. Het deskundigenpanel legt binnen 100 dagen na de datum waarop het is ingesteld zijn tussentijds verslag aan de Partijen voor. Indien het deskundigenpanel van oordeel is dat die termijn niet kan worden gehaald, stelt de voorzitter van het deskundigenpanel de Partijen daarvan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het deskundigenpanel voornemens is zijn tussentijds verslag voor te leggen. De in dit lid genoemde termijnen kunnen in onderlinge overeenstemming tussen de Partijen worden verlengd.
-
-11. Elke Partij kan binnen 25 dagen na de datum waarop het deskundigenpanel het tussentijds verslag heeft voorgelegd, bij het panel een met redenen omkleed verzoek om herziening van bepaalde aspecten van het tussentijds verslag indienen. Een Partij kan binnen 15 dagen na de datum van indiening van dat verzoek van de andere Partij haar opmerkingen over het verzoek kenbaar maken.
-
-12. Na die opmerkingen in overweging te hebben genomen, stelt het deskundigenpanel het eindverslag op. Indien binnen de in lid 11 van dit Artikel bedoelde termijn geen verzoek als bedoeld in dat lid wordt ingediend, wordt het tussentijds verslag het eindverslag van het deskundigenpanel.
-
-13. Het deskundigenpanel legt binnen 175 dagen na de datum waarop het is ingesteld zijn eindverslag aan de Partijen voor. Indien het deskundigenpanel van oordeel is dat die termijn niet kan worden gehaald, stelt de voorzitter van het panel de Partijen daarvan schriftelijk in kennis, met opgave van de redenen voor de vertraging en de datum waarop het deskundigenpanel voornemens is zijn eindverslag voor te leggen. De in dit lid genoemde termijnen kunnen in onderlinge overeenstemming tussen de Partijen worden verlengd.
-
-14. In het eindverslag wordt elk schriftelijk verzoek van de Partijen met betrekking tot het tussentijds verslag besproken en wordt duidelijk ingegaan op de opmerkingen van de Partijen.
-
-15. De Partijen maken het eindverslag openbaar binnen 15 dagen na de datum waarop het door het deskundigenpanel is voorgelegd.
-
-16. Indien het deskundigenpanel in het eindverslag vaststelt dat de antwoordende Partij haar verplichtingen uit hoofde van dit protocol niet is nagekomen, bespreken de Partijen passende maatregelen die moeten worden genomen, rekening houdend met het verslag en de aanbevelingen van het deskundigenpanel. De antwoordende Partij stelt haar interne adviesgroep zoals bedoeld in Artikel 40.6 van deze overeenkomst, en de andere Partij uiterlijk drie maanden nadat het eindverslag op grond van lid 15 van dit Artikel openbaar is gemaakt in kennis van haar besluiten over de te nemen maatregelen.
-
-17. Het Subcomité voor Corruptiebestrijding op het gebied van Handel en Investeringen houdt toezicht op de opvolging van het verslag van het deskundigenpanel en de aanbevelingen daarvan. De in Artikel 40.6 van deze overeenkomst bedoelde interne adviesgroepen kunnen in dat verband opmerkingen indienen bij het Subcomité voor Corruptiebestrijding op het gebied van Handel en Investeringen.
-
-##### Artikel 19. Subcommissie voor Corruptiebestrijding op het gebied van Handel en Investeringen
-
-1. Het op grond van Artikel 8.8, lid 1 van deze overeenkomst opgerichte Subcomité voor Corruptiebestrijding op het gebied van Handel en Investeringen (het „subcomité”) bestaat uit vertegenwoordigers van elke Partij, waarbij rekening wordt gehouden met de specifieke kwesties die tijdens een bepaalde zitting moeten worden behandeld. De vertegenwoordigers van Chili zijn ambtenaren van het Ondersecretariaat voor Internationale Economische Betrekkingen van het Ministerie van Buitenlandse Zaken of zijn opvolger.
-
-2. Het subcomité:
-
-- a. faciliteert en houdt toezicht op de doeltreffende uitvoering van dit protocol en bespreekt eventuele problemen bij de uitvoering ervan;
-
-- b. bevordert de samenwerking tussen de Partijen met betrekking tot aangelegenheden die onder dit protocol vallen, en de uitwisseling van informatie over ontwikkelingen in niet-gouvernementele, regionale en multilaterale fora over aangelegenheden die onder dit protocol vallen;
-
-- c. doet aanbevelingen aan het Gemengd Comité;
-
-- d. behandelt alle andere, door de Partijen overeengekomen aangelegenheden met betrekking tot dit protocol.
-
-3. Elke Partij wijst binnen haar administratie een contactpunt aan om de communicatie en coördinatie tussen de Partijen over alle aangelegenheden in verband met de uitvoering van dit protocol te vergemakkelijken en stelt de andere Partij in kennis van de contactgegevens van dat contactpunt. De Partijen stellen elkaar onverwijld in kennis van wijzigingen van die contactgegevens.
-
-##### Artikel 1. Definities
-
-Voor de toepassing van dit protocol wordt verstaan onder:
-
-- a). „verzoekende autoriteit”: een daartoe door een Partij aangewezen bevoegde overheidsinstantie die op grond van dit protocol een verzoek om bijstand indient;
-
-- b). „douanewetgeving”: de wettelijke en bestuursrechtelijke bepalingen die op het grondgebied van een partij van toepassing zijn op de invoer, de uitvoer en de doorvoer van goederen en de plaatsing daarvan onder andere douaneregelingen of procedures, met inbegrip van verbods-, beperkings- en controlemaatregelen;
-
-- c). „informatie”: alle gegevens, documenten, afbeeldingen, verslagen, mededelingen of gewaarmerkte kopieën, in ongeacht welk formaat, ook in elektronisch formaat, al dan niet verwerkt of geanalyseerd;
-
-- d). „met de douanewetgeving strijdige handeling”: elke schending van de douanewetgeving of poging daartoe, en
-
-- e). „aangezochte autoriteit”: een daartoe door een Partij aangewezen bevoegde overheidsinstantie die op grond van dit protocol een verzoek om bijstand ontvangt.
-
-##### Artikel 2. Toepassingsgebied
-
-1. De Partijen verlenen elkaar bijstand om op de onder hun bevoegdheid vallende gebieden, en op de wijze en voorwaarden die bij dit protocol zijn vastgesteld, een correcte toepassing van de douanewetgeving te waarborgen, in het bijzonder door met die wetgeving strijdige handelingen te voorkomen, op te sporen en te bestrijden.
-
-2. De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke overheidsinstantie van een Partij die bevoegd is voor de toepassing van dit protocol. Die bijstand laat de bepalingen inzake wederzijdse bijstand in strafzaken onverlet en geldt niet voor inlichtingen die zijn verkregen uit hoofde van bevoegdheden die op verzoek van een rechterlijke autoriteit worden uitgeoefend, tenzij die ermee instemt dat die inlichtingen worden verstrekt.
-
-3. Bijstand bij de invordering van rechten, heffingen en boetes valt niet onder dit protocol.
-
-##### Artikel 3. Bijstand op verzoek
-
-1. Op verzoek van de verzoekende autoriteit verstrekt de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die die nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende voorgenomen of vastgestelde handelingen die met die wetgeving in strijd zijn of zouden kunnen zijn.
-
-2. Op verzoek van de verzoekende autoriteit deelt de aangezochte autoriteit haar mee:
-
-- a. of goederen die uit het grondgebied van de ene Partij zijn uitgevoerd, op regelmatige wijze op het grondgebied van de andere Partij zijn ingevoerd, waar passend onder vermelding van de douaneregeling waaronder de goederen zijn geplaatst;
-
-- b. of goederen die op het grondgebied van de ene Partij zijn ingevoerd, op regelmatige wijze uit het grondgebied van de andere Partij zijn uitgevoerd, waar passend onder vermelding van de douaneregeling waaronder de goederen zijn geplaatst.
-
-3. Op verzoek van de verzoekende Partij zorgt de aangezochte autoriteit ervoor, binnen het kader van haar wettelijke en bestuursrechtelijke bepalingen, dat toezicht wordt uitgeoefend op:
-
-- a. natuurlijke personen of rechtspersonen van wie redelijkerwijs kan worden vermoed dat zij bij met de douanewetgeving strijdige handelingen betrokken zijn of waren;
-
-- b. goederen die op zodanige wijze worden of kunnen worden vervoerd dat redelijkerwijze kan worden vermoed dat zij bedoeld zijn om te worden gebruikt bij handelingen die in strijd zijn met de douanewetgeving;
-
-- c. plaatsen waar op zodanige wijze voorraden goederen zijn of kunnen worden aangelegd dat redelijkerwijs kan worden vermoed dat die goederen bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen; en
-
-- d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat redelijkerwijs kan worden vermoed dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen.
-
-##### Artikel 4. Ongevraagde bijstand
-
-De Partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursrechtelijke bepalingen, op eigen initiatief bijstand indien zij dat noodzakelijk achten voor de correcte toepassing van de douanewetgeving, door het verstrekken van informatie die zij hebben verkregen over voltooide, geplande of lopende activiteiten die met de douanewetgeving strijdige handelingen vormen of lijken te vormen en die voor de andere Partij van belang kunnen zijn. Die inlichtingen betreffen met name het volgende:
-
-- a. personen, goederen en vervoermiddelen; en
-
-- b. nieuwe middelen of methoden die worden gebruikt bij met de douanewetgeving strijdige handelingen.
-
-##### Artikel 5. Vorm en inhoud van verzoeken om bijstand
-
-1. Verzoeken op grond van dit protocol worden schriftelijk in gedrukte of elektronische vorm gedaan. Zij gaan vergezeld van de documenten die voor de behandeling ervan noodzakelijk zijn. In spoedeisende gevallen kan de aangezochte autoriteit ook mondelinge verzoeken aanvaarden, mits die door de verzoekende autoriteit onmiddellijk schriftelijk worden bevestigd.
-
-2. De in lid 1 bedoelde verzoeken bevatten de volgende gegevens:
-
-- a. de naam van de verzoekende autoriteit en van de verzoekende ambtenaar;
-
-- b. de gevraagde inlichtingen of het soort bijstand;
-
-- c. het doel en de reden van het verzoek;
-
-- d. de toepasselijke wet- en regelgeving en andere juridische elementen;
-
-- e. zo nauwkeurig en volledig mogelijke gegevens over de natuurlijke personen op wie of de rechtspersonen waarop het onderzoek betrekking heeft;
-
-- f. een overzicht van de relevante feiten en het reeds verrichte onderzoek; en
-
-- g. aanvullende beschikbare gegevens op basis waarvan de aangezochte autoriteit gevolg kan geven aan het verzoek.
-
-3. Verzoeken worden ingediend in een officiële taal van de aangezochte autoriteit of in een voor die autoriteit aanvaardbare taal, waarbij het Engels altijd een aanvaardbare taal is. Die eis geldt niet voor de documenten waarvan het verzoek vergezeld gaat uit hoofde van lid 1.
-
-4. Indien een verzoek niet voldoet aan de in de leden 1, 2 en 3 vermelde vormvereisten, kan de aangezochte autoriteit verzoeken om correctie of aanvulling van het verzoek; in de tussentijd kunnen voorlopige maatregelen worden gelast.
-
-##### Artikel 6. Uitvoering van verzoeken
-
-1. Binnen de grenzen van haar bevoegdheden en de haar beschikbare middelen behandelt de aangezochte autoriteit een verzoek om bijstand alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde Partij handelt, verstrekt zij de al beschikbare informatie en verricht zij het nodige onderzoek of laat zij dat verrichten. Indien de aangezochte autoriteit het verzoek aan een andere autoriteit richt omdat zij niet alleen kan handelen, is dit lid eveneens van toepassing op die andere autoriteit.
-
-2. Aan verzoeken om bijstand wordt voldaan overeenkomstig de wet- en regelgeving van de aangezochte Partij.
-
-3. De aangezochte autoriteit verstuurt binnen twee maanden na ontvangst van het verzoek om bijstand een antwoord op het verzoek om bijstand. Indien de aangezochte autoriteit niet in staat is om binnen die termijn aan het verzoek om bijstand te voldoen, stelt zij de verzoekende autoriteit daarvan in kennis en geeft zij aan wanneer zij verwacht aan het verzoek te kunnen voldoen.
-
-##### Artikel 7. Vorm waarin de inlichtingen worden verstrekt
-
-1. De aangezochte autoriteit deelt de uitslag van het ingestelde onderzoek schriftelijk mee aan de verzoekende autoriteit en voegt daarbij de relevante documenten gewaarmerkte kopieën of andere stukken. Die inlichtingen kunnen ook langs elektronische weg worden verstrekt.
-
-2. Originele documenten worden uitsluitend op verzoek van de verzoekende autoriteit met inachtneming van de wettelijke voorschriften van elke Partij toegezonden indien gewaarmerkte afschriften ontoereikend zijn. De verzoekende autoriteit stuurt die originelen zo spoedig mogelijk terug.
-
-3. Wanneer lid 2 van toepassing is, verstrekt de aangezochte autoriteit de verzoekende autoriteit de gegevens betreffende de echtheid van de documenten die door op haar grondgebied gevestigde officiële instanties zijn afgegeven of gecertificeerd ter staving van een goederenaangifte.
-
-##### Artikel 8. Aanwezigheid van ambtenaren van een Partij op het grondgebied van de andere Partij
-
-1. Daartoe gemachtigde ambtenaren van een Partij kunnen, met instemming van de andere Partij en op de door laatstgenoemde gestelde voorwaarden, aanwezig zijn in de kantoren van de aangezochte autoriteit of van een andere betrokken instantie als bedoeld in Artikel 6, lid 1, om informatie te verzamelen over handelingen die met de douanewetgeving in strijd zijn of kunnen zijn, en die de verzoekende autoriteit nodig heeft voor de toepassing van dit protocol.
-
-2. Daartoe gemachtigd ambtenaren van een Partij kunnen, met instemming van de andere Partij en op de door laatstgenoemde gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht.
-
-3. Daartoe gemachtigde ambtenaren van een Partij zijn in een louter raadgevende hoedanigheid aanwezig op het grondgebied van de andere Partij, gedurende welke tijd die daartoe gemachtigde ambtenaren:
-
-- a. te allen tijde hun officiële hoedanigheid kunnen aantonen;
-
-- b. geen uniform en geen wapens dragen; en
-
-- c. dezelfde bescherming genieten als ambtenaren van de andere Partij, overeenkomstig de wettelijke en bestuursrechtelijke bepalingen die op het grondgebied van de andere Partij van toepassing zijn.
-
-##### Artikel 9. Levering en kennisgeving
-
-1. Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in overeenstemming met haar wet- en regelgeving, alle maatregelen die nodig zijn voor de verstrekking van documenten of de kennisgeving van besluiten van de verzoekende autoriteit in verband met de toepassing van dit protocol aan adressaten die op het grondgebied van de aangezochte autoriteit verblijven of gevestigd zijn.
-
-2. Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten worden schriftelijk tot de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbare taal.
-
-##### Artikel 10. Automatische uitwisseling van inlichtingen
-
-1. De Partijen kunnen in onderlinge overeenstemming, overeenkomstig Artikel 15:
-
-- a. onder dit protocol vallende inlichtingen automatisch uitwisselen; en
-
-- b. specifieke inlichtingen uitwisselen voordat zendingen op het grondgebied van de andere Partij aankomen.
-
-2. De Partijen stellen regelingen vast met betrekking tot het soort inlichtingen dat zij beogen uit te wisselen en met betrekking tot het formaat en de frequentie van de toezending, met het oog op de uitvoering van de uitwisselingen uit hoofde van lid 1, punten a) en b).
-
-##### Artikel 11. Uitzonderingen op de verplichting tot het verlenen van bijstand
-
-1. Bijstand kan worden geweigerd of van bepaalde voorwaarden of eisen afhankelijk worden gesteld wanneer een Partij van oordeel is dat bijstand uit hoofde van dit protocol:
-
-- a. de soevereiniteit van Chili of van de lidstaat die is verzocht om bijstand uit hoofde van dit protocol waarschijnlijk zou kunnen aantasten;
-
-- b. de openbare orde, de veiligheid of andere wezenlijke belangen, met name in de in Artikel 12, lid 5, genoemde gevallen, waarschijnlijk zou kunnen schaden; of
-
-- c. tot schending van een industrieel geheim, een handelsgeheim of een beroepsgeheim leidt.
-
-2. De aangezochte autoriteit kan de bijstand uitstellen indien die bijstand lopende onderzoeken, vervolgingen of procedures zou verstoren. In dat geval pleegt de aangezochte autoriteit overleg met de verzoekende autoriteit om te bepalen of de bijstand kan worden verleend op door de aangezochte autoriteit te stellen voorwaarden.
-
-3. Wanneer de verzoekende autoriteit om een vorm van bijstand verzoekt die zij desgevraagd zelf niet zou kunnen verlenen, vermeldt zij dat in haar verzoek. De aangezochte autoriteit is vrij om te bepalen hoe zij op een dergelijk verzoek reageert.
-
-4. Indien de in de leden 1 en 2 bedoelde bijstand wordt geweigerd, dienen dat besluit en de redenen ervan onverwijld aan de verzoekende autoriteit te worden medegedeeld.
-
-##### Artikel 12. Uitwisseling van informatie en vertrouwelijkheid
-
-1. De uit hoofde van dit protocol ontvangen informatie wordt uitsluitend overeenkomstig de doelen van dit protocol gebruikt.
-
-2. Het gebruik van uit hoofde van dit protocol verkregen informatie in gerechtelijke of bestuursrechtelijke procedures betreffende met de douanewetgeving strijdige handelingen wordt beschouwd als gebruik overeenkomstig de doelen van dit protocol. De Partijen kunnen derhalve in het kader van de bewijsvoering, in rapporten en getuigenissen en bij procedures die bij rechtbanken aanhangig worden gemaakt, gebruikmaken van de informatie die zij op grond van deze bijlage hebben verkregen en van de documenten waarin zij op grond van deze bijlage inzage hebben gekregen. De aangezochte autoriteit die de informatie heeft verstrekt of die inzage heeft gegeven in de documenten, kan als voorwaarde stellen dat zij van zulk gebruik in kennis wordt gesteld.
-
-3. Indien een van de Partijen de informatie voor andere doeleinden wenst te gebruiken, vraagt zij de autoriteit die de informatie heeft verstrekt vooraf om schriftelijke toestemming. Voor dat gebruik gelden dan de door die autoriteit opgelegde voorwaarden.
-
-4. Alle informatie, ongeacht de vorm ervan, die uit hoofde van dit protocol wordt verstrekt, is vertrouwelijk of is alleen bestemd voor beperkte verspreiding, in overeenstemming met de toepasselijke wet- en regelgeving van elke Partij. Die informatie valt onder de geheimhoudingsplicht en wordt beschermd uit hoofde van de wet- en regelgeving inzake dergelijke informatie op het grondgebied van de ontvangende Partij. De Partijen informeren elkaar over hun toepasselijke wet- en regelgeving.
-
-5. Persoonsgegevens mogen alleen worden doorgegeven in overeenstemming met de gegevensbeschermingsregels van de Partij die de gegevens verstrekt. Elke Partij stelt de andere Partij in kennis van de toepasselijke regels voor gegevensbescherming en stelt, indien nodig, alles in het werk om overeenstemming te bereiken over aanvullende bescherming.
-
-##### Artikel 13. Deskundigen en getuigen
-
-De aangezochte autoriteit kan een ambtenaar machtigen om, binnen de grenzen van de hem verleende machtiging, als deskundige of getuige te verschijnen in gerechtelijke of bestuursrechtelijke procedures betreffende onder dit protocol vallende aangelegenheden en om de voor de procedure noodzakelijke voorwerpen, documenten of gewaarmerkte afschriften over te leggen. In de oproeping dient uitdrukkelijk te worden vermeld voor welke rechterlijke of bestuurlijke instantie de ambtenaar moet verschijnen en over welke aangelegenheid en in welke functie of hoedanigheid hij of zij zal worden ondervraagd.
-
-##### Artikel 14. Kosten van de bijstand
-
-1. De Partijen zien af van wederzijdse vorderingen voor de vergoeding van kosten voor de uitvoering van dit protocol.
-
-2. De kosten en de vergoedingen die worden betaald aan deskundigen, getuigen, tolken en vertalers, met uitzondering van ambtenaren, worden waar passend gedragen door de verzoekende Partij.
-
-3. Indien de uitvoering van het verzoek buitengewone uitgaven met zich meebrengt, stellen de Partijen de voorwaarden vast waaronder het verzoek moet worden uitgevoerd, evenals de wijze waarop die kosten moeten worden gedragen.
-
-##### Artikel 15. Uitvoering
-
-1. Met de uitvoering van dit protocol zijn enerzijds de douaneautoriteiten van Chili en anderzijds de bevoegde diensten van de Europese Commissie en, waar passend, de douaneautoriteiten van de lidstaten belast. Die autoriteiten en diensten stellen alle voor de toepassing van dit protocol noodzakelijke praktische maatregelen en regelingen vast, rekening houdend met de wederzijdse toepasselijke wet- en regelgeving, met name op het gebied van de gegevensbescherming.
-
-2. De Partijen houden elkaar geïnformeerd over de nadere uitvoeringsmaatregelen die elk van de Partijen overeenkomstig dit protocol vaststelt, met name ten aanzien van de bevoegde diensten en de als bevoegd voor het verzenden en ontvangen van de in dit protocol bedoelde mededelingen aangewezen ambtenaren.
-
-3. In de EU-Partij laat dit protocol de doorgifte van gegevens die uit hoofde van dit protocol zijn verkregen tussen de bevoegde diensten van de Europese Commissie en de douaneautoriteiten van de lidstaten onverlet.
-
-##### Artikel 16. Andere overeenkomsten
-
-De bepalingen van dit protocol hebben voorrang boven de bepalingen van bilaterale overeenkomsten inzake wederzijdse administratieve bijstand in douanezaken die tussen afzonderlijke lidstaten van de Unie en Chili zijn of kunnen worden gesloten, voor zover die bilaterale overeenkomsten van dergelijke overeenkomsten onverenigbaar zijn met dit protocol.
-
-##### Artikel 17. Overleg
-
-Met betrekking tot de interpretatie en uitvoering van dit protocol plegen de Partijen overleg om eventuele kwesties in dat verband op te lossen in het kader van het op grond van Artikel 8.8, lid 1 van deze overeenkomst ingestelde Subcomité Douane, Handelsbevordering en Oorsprongsregels.
-
-De Partijen,
-
-Herinnerend aan hun gedeelde waarden en de sterke culturele, politieke, economische en samenwerkingsbanden die hen verenigen,
-
-Herinnerend aan hun verbintenis om de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds, ondertekend te Brussel op 18 november 2002, te moderniseren en te vervangen om de nieuwe politieke en economische realiteit in aanmerking te nemen,
-
-Nogmaals bevestigend dat zij vastbesloten zijn hun samenwerking met betrekking tot bilaterale, regionale en internationale vraagstukken van gemeenschappelijk belang te versterken,
-
-Ervan overtuigd dat de Geavanceerde Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds („de geavanceerde kaderovereenkomst”) en de Interimovereenkomst inzake Handel tussen de Europese Unie en de Republiek Chili („de Interim-handelsovereenkomst”), beide partijen ten goede zullen komen bij het aanwakkeren van het economisch herstel na de COVID-19-crisis, het genereren van groei in een geopolitieke context die wordt gekenmerkt door toegenomen instabiliteit, en het verder versterken van hun banden,
-
-Vastbesloten ervoor te zorgen dat de geavanceerde kaderovereenkomst duurzaamheid bevordert, zodat economische groei gepaard gaat met de bescherming van fatsoenlijk werk, klimaat en milieu, met volledige inachtneming van de gedeelde waarden en prioriteiten van de Partijen, waaronder steun voor de groene transitie en de bevordering van verantwoorde en duurzame waardeketens, en
-
-Erkennend dat een inclusieve betrokkenheid van het maatschappelijk middenveld bij de uitvoering van de geavanceerde kaderovereenkomst van essentieel belang is voor het tijdig identificeren van uitdagingen, kansen en prioriteiten, en voor het toezicht op de respectieve overeengekomen acties,
-
-geven uiting aan hun gezamenlijke voornemen om de geavanceerde kaderovereenkomst snel te sluiten en vervolgens samen te werken bij de uitvoering van de duurzaamheidsaspecten ervan, geleid door de volgende overwegingen:
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze overeenkomst hebben ondertekend.

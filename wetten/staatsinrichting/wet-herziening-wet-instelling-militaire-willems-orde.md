@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0002001"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 30 april 1940, tot herziening van de wet van 30 april 1815, no. 5, Stb. 33, houdende instelling van de Militaire Willems-Orde

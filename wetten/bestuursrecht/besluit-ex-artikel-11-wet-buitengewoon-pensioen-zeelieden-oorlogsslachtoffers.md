@@ -9,7 +9,7 @@ laatste_update: 2016-10-06
 status: geldig
 toestand: 2016-10-06
 bron: "https://wetten.overheid.nl/BWBR0002049"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 6 september 1949, tot uitvoering van artikel 11 der Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. 1947, H 420)

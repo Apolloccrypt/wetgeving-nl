@@ -1,49 +1,18 @@
 ---
 title: "Verdrag tussen de regering van het Koninkrijk der Nederlanden ten behoeve van Aruba en de regering van de Verenigde Staten van Amerika inzake douane-voorinspectie"
 identifier: "BWBV0007118"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-10-28"
-last_updated: "2025-10-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007118"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10005716493"
-version_id: "10006315572"
-internal_id: "C10010221401"
-label_id: "10005697754"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007118/2025-10-28/0"
-intitule_bron: "Trb.2025-84"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-11-04"
-intitule_status: "nogniet"
-original_publication: "Trb.2025-84"
-original_published_date: "2025-11-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2025-84"
-jci_1_3: "jci1.3:c:BWBV0007118&z=2025-10-28&g=2025-10-28"
-jci_1_0: "1.0:c:BWBV0007118&g=2025-10-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-11-04"
+laatste_update: 2025-10-28
+status: geldig
+toestand: 2025-10-28
+bron: "https://wetten.overheid.nl/BWBV0007118"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag tussen de regering van het Koninkrijk der Nederlanden ten behoeve van Aruba en de regering van de Verenigde Staten van Amerika inzake douane-voorinspectie
 
-The Government of the Kingdom of the Netherlands, in respect of Aruba
-
-and
-
-the Government of the United States of America, (hereinafter referred to as the “Parties”),
-
-considering that air transport Preclearance by officials of U.S. Customs and Border Protection (CBP) of the Department of Homeland Security (DHS) of the Government of the United States of America, which is the procedure of conducting in Aruba, inspection of Travelers, Goods, Aircraft Stores, and aircraft, on Eligible Flights destined nonstop from a designated airport in Aruba to the United States, facilitates travel between Aruba and the United States while enhancing the security of both Parties;
-
-desiring to replace the [Agreement Between the Government of the United States of America and the Government of the Kingdom of the Netherlands in respect of Aruba on Preclearance](https://wetten.overheid.nl/jci1.3:c:BWBV0001956), signed at Washington DC on December 2, 1994 as amended, as well as the Agreement on Preinspection between the Government of the United States of America and the Government of the Kingdom of the Netherlands in respect of Aruba, signed at Oranjestad on June 16, 1987, the former Agreement having suspended the operation of the latter Agreement for the period in which the former has been in force;
-
-acknowledging that Air Carriers and Private Aircraft operating at a designated airport in Aruba, including United States carriers, would continue to be eligible to request preclearance at that location; and
-
-recognizing that Preclearance being conducted in Aruba provides a homeland and national security benefit, as well as benefits the Parties by facilitating travel to the United States,
-
-Agree as follows:
+*The Government of the Kingdom of the Netherlands, in respect of Aruba and the Government of the United States of America, (hereinafter referred to as the “Parties”), considering that air transport Preclearance by officials of U.S. Customs and Border Protection (CBP) of the Department of Homeland Security (DHS) of the Government of the United States of America, which is the procedure of conducting in Aruba, inspection of Travelers, Goods, Aircraft Stores, and aircraft, on Eligible Flights destined nonstop from a designated airport in Aruba to the United States, facilitates travel between Aruba and the United States while enhancing the security of both Parties; desiring to replace the Agreement Between the Government of the United States of America and the Government of the Kingdom of the Netherlands in respect of Aruba on Preclearance, signed at Washington DC on December 2, 1994 as amended, as well as the Agreement on Preinspection between the Government of the United States of America and the Government of the Kingdom of the Netherlands in respect of Aruba, signed at Oranjestad on June 16, 1987, the former Agreement having suspended the operation of the latter Agreement for the period in which the former has been in force; acknowledging that Air Carriers and Private Aircraft operating at a designated airport in Aruba, including United States carriers, would continue to be eligible to request preclearance at that location; and recognizing that Preclearance being conducted in Aruba provides a homeland and national security benefit, as well as benefits the Parties by facilitating travel to the United States, Agree as follows:*
 
 ##### Article I. Definitions
 
@@ -83,21 +52,21 @@ For the purposes of this Agreement:
 
 - 17. „Preclearance Area” means a designated area by Aruban authorities following consultation with the United States within which Preclearance officers exercise the powers and authorities outlined in this Agreement including:
 
-- a). the aircraft that is destined nonstop for the United States, including the immediate perimeter of the aircraft;
+   - a) the aircraft that is destined nonstop for the United States, including the immediate perimeter of the aircraft;
 
-- b). the queuing area used exclusively for Preclearance purposes clearly demarcated in front of the primary inspection area;
+   - b) the queuing area used exclusively for Preclearance purposes clearly demarcated in front of the primary inspection area;
 
-- c). the baggage make up area or other area where travelers’ baggage or other Goods are delivered to Preclearance Officers for inspection and any areas in which such inspection may occur;
+   - c) the baggage make up area or other area where travelers’ baggage or other Goods are delivered to Preclearance Officers for inspection and any areas in which such inspection may occur;
 
-- d). primary and secondary examination areas, including any areas used for radiation detection;
+   - d) primary and secondary examination areas, including any areas used for radiation detection;
 
-- e). administrative areas used by the United States in or on the airport or general aviation premises
+   - e) administrative areas used by the United States in or on the airport or general aviation premises
 
-- f). connecting corridors and all designated conveyances for precleared Travelers and Goods used for transportation from the terminal to the departing mode of transportation as reflected in an understanding to be entered into between the United States and the Airport Operator. When travelers cannot board a departing mode of transportation by means of a connecting corridor or designated conveyance, the Preclearance Area shall also include a clearly demarcated area leading to that mode of transportation for the period of time during which boarding takes place.
+   - f) connecting corridors and all designated conveyances for precleared Travelers and Goods used for transportation from the terminal to the departing mode of transportation as reflected in an understanding to be entered into between the United States and the Airport Operator. When travelers cannot board a departing mode of transportation by means of a connecting corridor or designated conveyance, the Preclearance Area shall also include a clearly demarcated area leading to that mode of transportation for the period of time during which boarding takes place.
 
-- g). the departure lounges for transportation bound for the United States; and
+   - g) the departure lounges for transportation bound for the United States; and
 
-- h). connecting corridors and all designated conveyances for precleared Travelers and Goods used for transportation between sterile areas of terminals;
+   - h) connecting corridors and all designated conveyances for precleared Travelers and Goods used for transportation between sterile areas of terminals;
 
 - 18. „Preclearance Facility” means the physical inspection and administration infrastructure, including any offices and examination areas as well as any equipment used to conduct Preclearance;
 
@@ -129,43 +98,43 @@ For the purposes of this Agreement:
 
 1. In order to preserve the integrity of Preclearance, Aruba shall:
 
-- a). Designate the boundaries of the Preclearance Area subject to mutual concurrence with the United States in writing and supported through the use of drawings or maps.
+- a) Designate the boundaries of the Preclearance Area subject to mutual concurrence with the United States in writing and supported through the use of drawings or maps.
 
-- b). Permit Preclearance Officers to wear official uniforms of the United States for the performance of their duties in the Preclearance Area and while transiting to or from the Preclearance Area or other locations pursuant to their official duties; and
+- b) Permit Preclearance Officers to wear official uniforms of the United States for the performance of their duties in the Preclearance Area and while transiting to or from the Preclearance Area or other locations pursuant to their official duties; and
 
-- c). Provide a continuous presence, during all hours of operation of the Preclearance Facility, of armed Aruba law enforcement officers in the Preclearance Area for safety, security, and force protection.
+- c) Provide a continuous presence, during all hours of operation of the Preclearance Facility, of armed Aruba law enforcement officers in the Preclearance Area for safety, security, and force protection.
 
-- d). Provide the United States with biographic and other identifying information of any person who requires access to the Preclearance Area for purposes other than to travel to the United States, such as access required in the performance of that person’s official duties, to conduct U.S. background screening of such persons in order to provide a notification to Aruba whether such person satisfies the United States’ criteria for access to the Preclearance Area for such persons in the performance of their duties. The process for such communication and consultations shall be reflected in a separate understanding between the United States and Aruba to be concluded prior to the implementation of any activities under this Agreement.
+- d) Provide the United States with biographic and other identifying information of any person who requires access to the Preclearance Area for purposes other than to travel to the United States, such as access required in the performance of that person’s official duties, to conduct U.S. background screening of such persons in order to provide a notification to Aruba whether such person satisfies the United States’ criteria for access to the Preclearance Area for such persons in the performance of their duties. The process for such communication and consultations shall be reflected in a separate understanding between the United States and Aruba to be concluded prior to the implementation of any activities under this Agreement.
 
 2. In order to facilitate the effective operation of Preclearance, Aruba shall:
 
-- a). Permit Preclearance Officers:
+- a) Permit Preclearance Officers:
 
-- (i). To carry out Preclearance of persons, Goods, aircraft, and Aircraft Stores on Eligible Flights;
+   - (i) To carry out Preclearance of persons, Goods, aircraft, and Aircraft Stores on Eligible Flights;
 
-- (ii). To determine procedures for carrying out inspections;
+   - (ii) To determine procedures for carrying out inspections;
 
-- (iii). To determine utilization of resources, including staffing levels and availability of staff to conduct Preclearance for a particular flight; and
+   - (iii) To determine utilization of resources, including staffing levels and availability of staff to conduct Preclearance for a particular flight; and
 
-- (iv). To, in the scope of their official duties, carry and use intermediate force devices and restraint devices solely in the Preclearance Area, except with prior written authorization that allows carriage in other areas, in accordance with Aruban laws, regulations, and use of force instructions. Prior to the implementation of any activities under this Agreement, a separate understanding between the United States and Aruba on the carry and use of intermediate force devices and restraint devices shall be concluded.
+   - (iv) To, in the scope of their official duties, carry and use intermediate force devices and restraint devices solely in the Preclearance Area, except with prior written authorization that allows carriage in other areas, in accordance with Aruban laws, regulations, and use of force instructions. Prior to the implementation of any activities under this Agreement, a separate understanding between the United States and Aruba on the carry and use of intermediate force devices and restraint devices shall be concluded.
 
-- b). Require persons who enter the Preclearance Area to report to a Preclearance Officer without delay and present Goods in that person’s possession, including Goods that form part of that person’s baggage, and, with respect to Travelers, undergo Preclearance;
+- b) Require persons who enter the Preclearance Area to report to a Preclearance Officer without delay and present Goods in that person’s possession, including Goods that form part of that person’s baggage, and, with respect to Travelers, undergo Preclearance;
 
-- c). Authorize the installation and operation of such communication and inspection aids and equipment in the Preclearance Area as the United States determines it requires, including canine, radiological and nuclear detection devices, and baggage image and x-ray devices;
+- c) Authorize the installation and operation of such communication and inspection aids and equipment in the Preclearance Area as the United States determines it requires, including canine, radiological and nuclear detection devices, and baggage image and x-ray devices;
 
-- d). Establish with the United States mutually acceptable written procedures regarding the operation of Preclearance, including written procedures that address resolution in the event of a positive alarm from an inspection aid used for biological, radiological, or nuclear preclearance screening of aircraft, Travelers, or Goods; and that address the continued physical security of Preclearance;
+- d) Establish with the United States mutually acceptable written procedures regarding the operation of Preclearance, including written procedures that address resolution in the event of a positive alarm from an inspection aid used for biological, radiological, or nuclear preclearance screening of aircraft, Travelers, or Goods; and that address the continued physical security of Preclearance;
 
-- e). Secure and dispose of any illicit or illicitly trafficked biological, radiological, or nuclear materials detected during Preclearance in accordance with written procedures developed in consultation with the United States;
+- e) Secure and dispose of any illicit or illicitly trafficked biological, radiological, or nuclear materials detected during Preclearance in accordance with written procedures developed in consultation with the United States;
 
-- f). Upon request of Preclearance Officers, provide medical assistance to and access to medical isolation facilities for Travelers subject to Preclearance who are suspected of having a communicable disease proscribed under United States public health laws and regulations or who otherwise present a threat to public health;
+- f) Upon request of Preclearance Officers, provide medical assistance to and access to medical isolation facilities for Travelers subject to Preclearance who are suspected of having a communicable disease proscribed under United States public health laws and regulations or who otherwise present a threat to public health;
 
-- g). Provide training for Preclearance Officers on the laws, regulations and use of force instructions of Aruba pertaining to the authorities conferred in this Agreement;
+- g) Provide training for Preclearance Officers on the laws, regulations and use of force instructions of Aruba pertaining to the authorities conferred in this Agreement;
 
-- h). In the event of an outage or malfunction of crucial equipment or other aid used to conduct Preclearance or other circumstance that the United States determines prevents the provision of Preclearance services in the existing Preclearance Area, and as mutually determined by the Parties in writing, permit Preclearance Officers to operate with the same authorities as they have in the Preclearance Area within another designated area at an airport at which Preclearance is authorized pursuant to this Agreement;
+- h) In the event of an outage or malfunction of crucial equipment or other aid used to conduct Preclearance or other circumstance that the United States determines prevents the provision of Preclearance services in the existing Preclearance Area, and as mutually determined by the Parties in writing, permit Preclearance Officers to operate with the same authorities as they have in the Preclearance Area within another designated area at an airport at which Preclearance is authorized pursuant to this Agreement;
 
-- i). Permit Preclearance Officers and Preclearance Operational Support Personnel to enter the airport through staff and employee entrances, and if any screening of Preclearance Officers and Preclearance Operational Support Personnel is required, it shall occur in a separate and private area; and
+- i) Permit Preclearance Officers and Preclearance Operational Support Personnel to enter the airport through staff and employee entrances, and if any screening of Preclearance Officers and Preclearance Operational Support Personnel is required, it shall occur in a separate and private area; and
 
-- j). Permit DHS employees or contractors who are not assigned to the Preclearance Area and other official U.S. Government personnel visitors to obtain proper ID badges and enter and undergo screening at the employee entry and screening points to gain access to security sterile areas.
+- j) Permit DHS employees or contractors who are not assigned to the Preclearance Area and other official U.S. Government personnel visitors to obtain proper ID badges and enter and undergo screening at the employee entry and screening points to gain access to security sterile areas.
 
 3. The Parties affirm that they have entered into a separate agreement regarding the implementation and maintenance of aviation security screening standards and protocols that are comparable to those in the United States. If the United States determines that the aviation security screening standards and protocols delineated in that separate agreement are not adequately implemented and maintained, travelers and their goods that are precleared by the United States in Aruba shall be subject to aviation security re-screening, consistent with [Article IV(2)(m)](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IV&z=2025-10-28&g=2025-10-28), before they shall be permitted to enter the sterile area of a United States airport to transfer to a connecting flight.
 
@@ -173,113 +142,113 @@ For the purposes of this Agreement:
 
 5. In order to facilitate the implementation of a separate arrangement between the Parties that permits enrollment in a United States trusted traveler program, Aruba shall permit Preclearance Officers the right to operate an Enrollment Center at Queen Beatrix International Airport, or other facility as mutually decided by the Parties in writing. With respect to such Enrollment Center, Aruba shall:
 
-- a). Provide a continuous presence, during all hours of operation of the Enrollment Center, of armed Aruban law enforcement officers in the Enrollment Center for safety, security, and force protection.
+- a) Provide a continuous presence, during all hours of operation of the Enrollment Center, of armed Aruban law enforcement officers in the Enrollment Center for safety, security, and force protection.
 
-- b). Permit the United States to:
+- b) Permit the United States to:
 
-- (i). interview applicants seeking to participate in a United States trusted traveler program;
+   - (i) interview applicants seeking to participate in a United States trusted traveler program;
 
-- (ii). collect information (including biometric information) from applicants as needed by the United States to evaluate membership in such program.
+   - (ii) collect information (including biometric information) from applicants as needed by the United States to evaluate membership in such program.
 
 ##### Article IV. United States Obligations and Authorities
 
 1. In order to preserve the integrity of Preclearance, the United States, acting through its Preclearance Officers, shall have the right:
 
-- a). Upon a determination by the United States that there has been a compromise to the security or sterility of the Preclearance Area or any aspect of Preclearance, that there is no United States carrier operating at an airport at which Preclearance is authorized pursuant to this Agreement, or that there is non-compliance with the terms of this Agreement, to suspend Preclearance until such time as the issue has been resolved to the satisfaction of the United States;
+- a) Upon a determination by the United States that there has been a compromise to the security or sterility of the Preclearance Area or any aspect of Preclearance, that there is no United States carrier operating at an airport at which Preclearance is authorized pursuant to this Agreement, or that there is non-compliance with the terms of this Agreement, to suspend Preclearance until such time as the issue has been resolved to the satisfaction of the United States;
 
-- b). In the event of an outage or malfunction of crucial equipment or other aid used to conduct Preclearance or other circumstance that the United States determines prevents the provision of Preclearance services in the existing Preclearance Area, and as mutually determined by the Parties in writing, to operate with the same authorities as it has in the Preclearance Area within another designated area at an airport at which Preclearance is authorized pursuant to this Agreement;
+- b) In the event of an outage or malfunction of crucial equipment or other aid used to conduct Preclearance or other circumstance that the United States determines prevents the provision of Preclearance services in the existing Preclearance Area, and as mutually determined by the Parties in writing, to operate with the same authorities as it has in the Preclearance Area within another designated area at an airport at which Preclearance is authorized pursuant to this Agreement;
 
-- c). To obtain information, including biometric and biographic information of a Traveler, as needed by the United States to implement this Agreement or as in accordance with United States laws, regulations, and policies;
+- c) To obtain information, including biometric and biographic information of a Traveler, as needed by the United States to implement this Agreement or as in accordance with United States laws, regulations, and policies;
 
-- d). To order any person found in a Preclearance Area to report to a Preclearance Officer, identify him- or herself and answer any questions about his or her purpose in the Preclearance Area;
+- d) To order any person found in a Preclearance Area to report to a Preclearance Officer, identify him- or herself and answer any questions about his or her purpose in the Preclearance Area;
 
-- e). To be provided by Aruba with biographic and other identifying information of any person who requires access to the Preclearance Area for purposes other than to travel to the United States, such as access required in the performance of that person’s official duties, to conduct U.S. background screening of such persons, and to provide a notification to Aruba whether such person satisfies the United States’ criteria for access to the Preclearance Area for such persons in the performance of their duties. The process, communication and consultations shall be reflected in a separate understanding between the United States and Aruba, to be concluded prior to the implementation of any activities under this Agreement; and
+- e) To be provided by Aruba with biographic and other identifying information of any person who requires access to the Preclearance Area for purposes other than to travel to the United States, such as access required in the performance of that person’s official duties, to conduct U.S. background screening of such persons, and to provide a notification to Aruba whether such person satisfies the United States’ criteria for access to the Preclearance Area for such persons in the performance of their duties. The process, communication and consultations shall be reflected in a separate understanding between the United States and Aruba, to be concluded prior to the implementation of any activities under this Agreement; and
 
-- f). To order an unauthorized person found in a Preclearance Area to leave the area.
+- f) To order an unauthorized person found in a Preclearance Area to leave the area.
 
 2. In order to facilitate the effective operation of Preclearance, and to the extent consistent with United States laws, regulations, and policies, and subject to the availability of funds as well as sufficient budgetary and personnel resources, the United States shall:
 
-- a). Respect Aruban laws, regulations, and use of force instructions regarding the use of force for carriage and use of intermediate force devices and restraint devices per a separate understanding between the United States and Aruba;
+- a) Respect Aruban laws, regulations, and use of force instructions regarding the use of force for carriage and use of intermediate force devices and restraint devices per a separate understanding between the United States and Aruba;
 
-- b). Give due consideration to using flexible practices or operating procedures that may improve the efficiency of the Preclearance Facility or address temporary disruption of preclearance, while maintaining authority over the conduct, availability, and operations of Preclearance Officers;
+- b) Give due consideration to using flexible practices or operating procedures that may improve the efficiency of the Preclearance Facility or address temporary disruption of preclearance, while maintaining authority over the conduct, availability, and operations of Preclearance Officers;
 
-- c). Provide a Baseline number of Preclearance Officers, consistent with the terms of an understanding between the United States and the Airport Operator, and, to the extent deemed necessary by the United States, support personnel, to carry out preclearance of Travelers, Goods, aircraft, and Aircraft Stores on Eligible Flights with reasonable speed and efficiency as determined by the United States;
+- c) Provide a Baseline number of Preclearance Officers, consistent with the terms of an understanding between the United States and the Airport Operator, and, to the extent deemed necessary by the United States, support personnel, to carry out preclearance of Travelers, Goods, aircraft, and Aircraft Stores on Eligible Flights with reasonable speed and efficiency as determined by the United States;
 
-- d). Require training for Preclearance Officers on the laws, regulations and use of force instructions of Aruba pertaining to the authorities conferred in this Agreement;
+- d) Require training for Preclearance Officers on the laws, regulations and use of force instructions of Aruba pertaining to the authorities conferred in this Agreement;
 
-- e). Consult with Aruba, the Airport Operator, and with the Air Carriers concerned on matters relating to the implementation of this Agreement as necessary;
+- e) Consult with Aruba, the Airport Operator, and with the Air Carriers concerned on matters relating to the implementation of this Agreement as necessary;
 
-- f). Continue Preclearance at Queen Beatrix International Airport, subject to the existence of a sufficient volume of Travelers to make feasible and practical the operation of Preclearance at that location as determined by the United States.
+- f) Continue Preclearance at Queen Beatrix International Airport, subject to the existence of a sufficient volume of Travelers to make feasible and practical the operation of Preclearance at that location as determined by the United States.
 
-- g). Consider requests from Air Carriers for Preclearance when such requests are consistent with the terms of this Agreement and any other applicable conditions that may be imposed by the United States;
+- g) Consider requests from Air Carriers for Preclearance when such requests are consistent with the terms of this Agreement and any other applicable conditions that may be imposed by the United States;
 
-- h). Establish a schedule of Preclearance that best promotes the mutual security of the Parties and recognizes the availability of resources, to include airport infrastructure and associated staffing, to effectively conduct operations, while maintaining sole discretion to set the hours of operation of the Preclearance Facility, the number of Preclearance staff, and to approve flights eligible for Preclearance;
+- h) Establish a schedule of Preclearance that best promotes the mutual security of the Parties and recognizes the availability of resources, to include airport infrastructure and associated staffing, to effectively conduct operations, while maintaining sole discretion to set the hours of operation of the Preclearance Facility, the number of Preclearance staff, and to approve flights eligible for Preclearance;
 
-- i). Provide notification to the appropriate Aruban authorities as to the decision to refuse passage onward to the United States for a Traveler, and where appropriate, turn over custody of Travelers and Goods to Aruban authorities;
+- i) Provide notification to the appropriate Aruban authorities as to the decision to refuse passage onward to the United States for a Traveler, and where appropriate, turn over custody of Travelers and Goods to Aruban authorities;
 
-- j). Have the right to preclear Eligible Flights;
+- j) Have the right to preclear Eligible Flights;
 
-- k). Have the right to deny Preclearance:
+- k) Have the right to deny Preclearance:
 
-- (i). if the Travelers, Goods, aircraft, or Aircraft Stores are not routed through the Preclearance Area;
+   - (i) if the Travelers, Goods, aircraft, or Aircraft Stores are not routed through the Preclearance Area;
 
-- (ii). to any flights outside of the established hours of operation of the Preclearance Area;
+   - (ii) to any flights outside of the established hours of operation of the Preclearance Area;
 
-- (iii). to any irregular or ad hoc flights during the established hours of operation of the Preclearance Area;
+   - (iii) to any irregular or ad hoc flights during the established hours of operation of the Preclearance Area;
 
-- (iv). to any person or Air Carrier in its discretion, including situations where the Airport Operator fails to pay the United States for the Preclearance service the United States provides pursuant to this Agreement; and
+   - (iv) to any person or Air Carrier in its discretion, including situations where the Airport Operator fails to pay the United States for the Preclearance service the United States provides pursuant to this Agreement; and
 
-- (v). Pursuant to subsection (h) of this paragraph, if CBP determines that adequate resources are not available or additional passengers will overtax the facility; and in any such instance, coordinate and notify the Airport Operator, as appropriate, of any denial of Preclearance which would impact the established hours of operation.
+   - (v) Pursuant to subsection (h) of this paragraph, if CBP determines that adequate resources are not available or additional passengers will overtax the facility; and in any such instance, coordinate and notify the Airport Operator, as appropriate, of any denial of Preclearance which would impact the established hours of operation.
 
-- l). Have the right to refuse admission, or otherwise prevent boarding on an aircraft, of Travelers and deny entry of Goods destined to or transiting through its territory, consistent with the laws, regulations, and policies of the United States;
+- l) Have the right to refuse admission, or otherwise prevent boarding on an aircraft, of Travelers and deny entry of Goods destined to or transiting through its territory, consistent with the laws, regulations, and policies of the United States;
 
-- m). Have the right to require re-inspection or Post-clearance in the United States as it deems necessary of Travelers, Goods, aircraft, or Aircraft Stores that have been precleared, including to meet law enforcement concerns;
+- m) Have the right to require re-inspection or Post-clearance in the United States as it deems necessary of Travelers, Goods, aircraft, or Aircraft Stores that have been precleared, including to meet law enforcement concerns;
 
-- n). Have the right to collect any applicable duties, taxes and fees. The duties, taxes and fees may be assessed in United States currency;
+- n) Have the right to collect any applicable duties, taxes and fees. The duties, taxes and fees may be assessed in United States currency;
 
-- o). Have the right to assess any applicable civil fines and penalties on Travelers and Air Carriers with respect to violations identified by Preclearance Officers in the course of conducting Preclearance operations, except when Aruba institutes criminal proceedings with respect to the same act or omission. The civil fines and penalties may be assessed in United States currency;
+- o) Have the right to assess any applicable civil fines and penalties on Travelers and Air Carriers with respect to violations identified by Preclearance Officers in the course of conducting Preclearance operations, except when Aruba institutes criminal proceedings with respect to the same act or omission. The civil fines and penalties may be assessed in United States currency;
 
-- p). Not be subject to any fines or other sanctions associated with service level standards or any other mandates that arise from Aruban laws regarding the performance of Preclearance operations;
+- p) Not be subject to any fines or other sanctions associated with service level standards or any other mandates that arise from Aruban laws regarding the performance of Preclearance operations;
 
-- q). Have the authority to authorize access to the Preclearance Area for temporary visitors and employees of the United States in support of Preclearance operations; and
+- q) Have the authority to authorize access to the Preclearance Area for temporary visitors and employees of the United States in support of Preclearance operations; and
 
-- r). Ensure that DHS personnel who are not assigned to the Preclearance Area or other official U.S. government visitors obtain proper ID badges and seek access to the security sterile areas only after undergoing screening at the employee entry and screening points to gain access to security sterile areas.
+- r) Ensure that DHS personnel who are not assigned to the Preclearance Area or other official U.S. government visitors obtain proper ID badges and seek access to the security sterile areas only after undergoing screening at the employee entry and screening points to gain access to security sterile areas.
 
 3. In order to facilitate the implementation of a separate agreement between the Parties that permits enrollment in a United States trusted traveler program, the United States shall have the right to operate an Enrollment Center at Queen Beatrix International Airport, or other facility as mutually decided by the Parties in writing. Pursuant to this authority, the United States shall have the right at such Enrollment Center to:
 
-- a). Interview applicants seeking to participate in a United States trusted traveler program;
+- a) Interview applicants seeking to participate in a United States trusted traveler program;
 
-- b). Collect information (including biometric information) from applicants as needed by the United States to evaluate membership in such program.
+- b) Collect information (including biometric information) from applicants as needed by the United States to evaluate membership in such program.
 
 ##### Article V. Role of the Airport Operator
 
 1. Aruba shall ensure that the Airport Operator or other responsible entity:
 
-- a). Permits United States Air Carriers, other Air Carriers, and Private Aircraft to operate at an airport at which Preclearance is authorized pursuant to this Agreement during the operation of a Preclearance Facility at that location and to request preclearance pursuant to this Agreement;
+- a) Permits United States Air Carriers, other Air Carriers, and Private Aircraft to operate at an airport at which Preclearance is authorized pursuant to this Agreement during the operation of a Preclearance Facility at that location and to request preclearance pursuant to this Agreement;
 
-- b). Provides a high standard of security for the Preclearance Area that incorporates views offered by the United States on the development or implementation of this standard;
+- b) Provides a high standard of security for the Preclearance Area that incorporates views offered by the United States on the development or implementation of this standard;
 
-- c). Takes all appropriate general security steps to protect the Preclearance Area and Preclearance Facility and the contents therein, including archives and documents maintained and used by the United States, against any intrusion or damage and to prevent any disturbance of the peace in the Preclearance Area;
+- c) Takes all appropriate general security steps to protect the Preclearance Area and Preclearance Facility and the contents therein, including archives and documents maintained and used by the United States, against any intrusion or damage and to prevent any disturbance of the peace in the Preclearance Area;
 
-- d). Ensures that it has a security program that maintains International Civil Aviation Organization (ICAO) standards and recommended practices;
+- d) Ensures that it has a security program that maintains International Civil Aviation Organization (ICAO) standards and recommended practices;
 
-- e). Clearly demarcates the Preclearance Area established pursuant to the understanding between the United States and the Airport Operator;
+- e) Clearly demarcates the Preclearance Area established pursuant to the understanding between the United States and the Airport Operator;
 
-- f). Excludes access to or observation of any portion of the Preclearance Area (not otherwise regularly accessed or viewed by Travelers subject to the Preclearance process) by any person without permission from the United States, except in cases of emergency when access may be provided to emergency workers with simultaneous notification to Preclearance Officers and Aruba’s Department of Civil Aviation;
+- f) Excludes access to or observation of any portion of the Preclearance Area (not otherwise regularly accessed or viewed by Travelers subject to the Preclearance process) by any person without permission from the United States, except in cases of emergency when access may be provided to emergency workers with simultaneous notification to Preclearance Officers and Aruba’s Department of Civil Aviation;
 
-- g). Ensures that the Preclearance Area is only accessible to Travelers, authorized personnel, and Goods that have undergone security screening at an airport at which Preclearance is authorized pursuant to this Agreement and that all Travelers and Goods have undergone security screening in accordance with screening standards and protocols that are comparable to those of the United States, as determined by the U.S. Transportation Security Administration, prior to boarding;
+- g) Ensures that the Preclearance Area is only accessible to Travelers, authorized personnel, and Goods that have undergone security screening at an airport at which Preclearance is authorized pursuant to this Agreement and that all Travelers and Goods have undergone security screening in accordance with screening standards and protocols that are comparable to those of the United States, as determined by the U.S. Transportation Security Administration, prior to boarding;
 
-- h). Further ensures that the Preclearance Area is only accessible to those persons authorized to access the Preclearance Area pursuant to [Article IV (1)(e)](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IV&z=2025-10-28&g=2025-10-28);
+- h) Further ensures that the Preclearance Area is only accessible to those persons authorized to access the Preclearance Area pursuant to [Article IV (1)(e)](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IV&z=2025-10-28&g=2025-10-28);
 
-- i). Permits the United States to review and approve the Goods and merchandise made available to Travelers, including for purchase, in the Preclearance Area or on board precleared aircraft;
+- i) Permits the United States to review and approve the Goods and merchandise made available to Travelers, including for purchase, in the Preclearance Area or on board precleared aircraft;
 
-- j). Provides a Preclearance Area (including the Preclearance Facility and all operational, security, communication, information technology, radiation detection equipment and infrastructure therein) that meets the technical design standards of the United States, including any amendments or updates to those standards;
+- j) Provides a Preclearance Area (including the Preclearance Facility and all operational, security, communication, information technology, radiation detection equipment and infrastructure therein) that meets the technical design standards of the United States, including any amendments or updates to those standards;
 
-- k). Permits the installation and operation by the United States of such equipment and aids, including those proprietary items described in [Article IX(2)(c)](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IX&z=2025-10-28&g=2025-10-28) as is deemed necessary by the United States for the effective operation of Preclearance;
+- k) Permits the installation and operation by the United States of such equipment and aids, including those proprietary items described in [Article IX(2)(c)](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IX&z=2025-10-28&g=2025-10-28) as is deemed necessary by the United States for the effective operation of Preclearance;
 
-- l). Pays the United States for all costs associated with the provisions of Preclearance services in excess of the Baseline as reflected in an understanding between the United States and the Airport Operator, to the extent permitted by United States laws, regulations, and policies. Such costs may include salaries, expenses, relocation costs of Preclearance Officers and other United States government personnel, Preclearance operations costs, and the purchase, installation, maintenance, the operation by the United States of equipment and aids not provided pursuant to subparagraph (k) of this paragraph (including those proprietary items described in [Article IX (2)(c))](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IX&z=2025-10-28&g=2025-10-28), as is deemed necessary by the United States to provide Preclearance service, and the administrative costs of provision of Preclearance service; and
+- l) Pays the United States for all costs associated with the provisions of Preclearance services in excess of the Baseline as reflected in an understanding between the United States and the Airport Operator, to the extent permitted by United States laws, regulations, and policies. Such costs may include salaries, expenses, relocation costs of Preclearance Officers and other United States government personnel, Preclearance operations costs, and the purchase, installation, maintenance, the operation by the United States of equipment and aids not provided pursuant to subparagraph (k) of this paragraph (including those proprietary items described in [Article IX (2)(c))](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=IX&z=2025-10-28&g=2025-10-28), as is deemed necessary by the United States to provide Preclearance service, and the administrative costs of provision of Preclearance service; and
 
-- m). Acknowledges that the United States has the right to enter into Compliance Agreements (containing penalties for noncompliance) regarding the sale of merchandise in the Preclearance Area or on-board precleared flights.
+- m) Acknowledges that the United States has the right to enter into Compliance Agreements (containing penalties for noncompliance) regarding the sale of merchandise in the Preclearance Area or on-board precleared flights.
 
 2. The Parties agree that Preclearance is contingent on the continued satisfaction of the conditions provided in paragraph 1 of this Article. Upon a determination by the United States that the conditions provided in paragraph 1 of this Article are not being satisfied, the United States may suspend Preclearance services until such time as the conditions have been satisfied, as determined by the United States. No later than the entry into force of this Agreement, the United States intends to reach an understanding with the Airport Operator concerning the conditions provided in subparagraphs (j), (k), and (l) of paragraph 1 of this Article.
 
@@ -331,47 +300,47 @@ For the purposes of this Agreement:
 
 1. The Parties agree that any Air Carrier or Aircraft Commander shall have the option to request either Preclearance or Post-Clearance, with Preclearance being subject to approval by the United States and the following conditions:
 
-- a). Requests for Preclearance should be made as far in advance as possible, but not less than 60 days prior to the anticipated initiation of service. The United States may require a reasonable period before extending Preclearance to such Air Carrier in order to obtain personnel or facilities required by the anticipated changes in service;
+- a) Requests for Preclearance should be made as far in advance as possible, but not less than 60 days prior to the anticipated initiation of service. The United States may require a reasonable period before extending Preclearance to such Air Carrier in order to obtain personnel or facilities required by the anticipated changes in service;
 
-- b). An Air Carrier desiring to withdraw entirely from Preclearance shall be required to give twelve months’ notice to both Parties, but, upon written consent from the Parties, it may withdraw sooner. An Air Carrier desiring to withdraw from Preclearance only in respect of certain eligible flights shall be required to give three months’ notice, but, upon written consent from the Parties, it may be permitted to withdraw sooner; and
+- b) An Air Carrier desiring to withdraw entirely from Preclearance shall be required to give twelve months’ notice to both Parties, but, upon written consent from the Parties, it may withdraw sooner. An Air Carrier desiring to withdraw from Preclearance only in respect of certain eligible flights shall be required to give three months’ notice, but, upon written consent from the Parties, it may be permitted to withdraw sooner; and
 
-- c). Preclearance Officers may decline to conduct Preclearance in respect of any Air Carrier until the carrier:
+- c) Preclearance Officers may decline to conduct Preclearance in respect of any Air Carrier until the carrier:
 
-- (i). Has taken the necessary steps to enable it to deny carriage onwards to the United States to anyone found ineligible to travel on a precleared flight;
+   - (i) Has taken the necessary steps to enable it to deny carriage onwards to the United States to anyone found ineligible to travel on a precleared flight;
 
-- (ii). Has ensured that only Goods and merchandise approved by the United States are made available, including for purchase, on board precleared aircraft; and
+   - (ii) Has ensured that only Goods and merchandise approved by the United States are made available, including for purchase, on board precleared aircraft; and
 
-- (iii). Has taken the necessary steps to comply with any lawful conditions imposed by the United States.
+   - (iii) Has taken the necessary steps to comply with any lawful conditions imposed by the United States.
 
-- d). With respect to Private Aircraft:
+- d) With respect to Private Aircraft:
 
-- (i). Preclearance Officers may decline to conduct Preclearance on a Private Aircraft until the Aircraft Commander has taken the necessary steps to deny carriage onward to the United States to anyone found ineligible to travel on a precleared flight; and
+   - (i) Preclearance Officers may decline to conduct Preclearance on a Private Aircraft until the Aircraft Commander has taken the necessary steps to deny carriage onward to the United States to anyone found ineligible to travel on a precleared flight; and
 
-- (ii). Aircraft Commanders shall be required to comply with laws governing landing, entry, and clearance in the United States. The Airport Operator shall ensure that all Aircraft Commanders seeking Preclearance provide advance notice of their departure from the territory of Aruba to the territory of the United States in order to schedule Preclearance services. The Parties shall develop mutually accepted procedures to ensure adequate advance notice of requests for the Preclearance of Private Aircraft.
+   - (ii) Aircraft Commanders shall be required to comply with laws governing landing, entry, and clearance in the United States. The Airport Operator shall ensure that all Aircraft Commanders seeking Preclearance provide advance notice of their departure from the territory of Aruba to the territory of the United States in order to schedule Preclearance services. The Parties shall develop mutually accepted procedures to ensure adequate advance notice of requests for the Preclearance of Private Aircraft.
 
 ##### Article IX. Costs
 
 1. The Parties agree that the following conditions shall apply to the payment of the costs referred to in [subparagraph 1(l) of Article V](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=V&z=2025-10-28&g=2025-10-28):
 
-- a). The United States shall ensure that CBP make its best efforts, including by working with Congress, to obtain necessary resources and funds to support Preclearance operations in Aruba;
+- a) The United States shall ensure that CBP make its best efforts, including by working with Congress, to obtain necessary resources and funds to support Preclearance operations in Aruba;
 
-- b). Aruba shall ensure that the Airport Operator pays the United States for expenses arising from the provision of Preclearance services that have been requested of and approved by the United States above the Baseline established pursuant to the understanding between the United States and the Airport Operator;
+- b) Aruba shall ensure that the Airport Operator pays the United States for expenses arising from the provision of Preclearance services that have been requested of and approved by the United States above the Baseline established pursuant to the understanding between the United States and the Airport Operator;
 
-- c). Costs of such Preclearance services performed by the United States shall be determined by the United States in accordance with this paragraph on a periodic basis, no more frequently than quarterly, and submitted via a Preclearance bill to the Airport Operator, according to procedures to be established by the United States and as notified to the Airport Operator;
+- c) Costs of such Preclearance services performed by the United States shall be determined by the United States in accordance with this paragraph on a periodic basis, no more frequently than quarterly, and submitted via a Preclearance bill to the Airport Operator, according to procedures to be established by the United States and as notified to the Airport Operator;
 
-- d). Notwithstanding subparagraph (b) of this paragraph, the United States reserves the right to issue subsequent Preclearance bills to the Airport Operator for unforeseen circumstances related to subparagraph (b) above not captured within the billing process described in subparagraph (c) of this paragraph;
+- d) Notwithstanding subparagraph (b) of this paragraph, the United States reserves the right to issue subsequent Preclearance bills to the Airport Operator for unforeseen circumstances related to subparagraph (b) above not captured within the billing process described in subparagraph (c) of this paragraph;
 
-- e). Aruba shall ensure that the Airport Operator pays the United States in advance, in a timely fashion, for such costs when the Airport Operator is in receipt of the Preclearance bill, consistent with the terms of the understanding between the United States and the Airport Operator; and
+- e) Aruba shall ensure that the Airport Operator pays the United States in advance, in a timely fashion, for such costs when the Airport Operator is in receipt of the Preclearance bill, consistent with the terms of the understanding between the United States and the Airport Operator; and
 
-- f). The United States shall not be responsible for any costs, including accommodation and maintenance costs, for any Traveler on a carrier who is refused passage onward by the United States and must be removed to the Traveler’s point of embarkation; or to the country of which that Traveler is a citizen or national, if that Traveler is traveling In-Transit through the territory of Aruba.
+- f) The United States shall not be responsible for any costs, including accommodation and maintenance costs, for any Traveler on a carrier who is refused passage onward by the United States and must be removed to the Traveler’s point of embarkation; or to the country of which that Traveler is a citizen or national, if that Traveler is traveling In-Transit through the territory of Aruba.
 
 2. The following conditions shall apply to the payment of the costs for the activities described in [subparagraph 1(j) of Article V of this Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=V&z=2025-10-28&g=2025-10-28):
 
-- a). Aruba shall ensure that the provision of the necessary Preclearance Facilities (including construction, furniture, equipment, and ongoing maintenance) shall be the responsibility of the Airport Operator;
+- a) Aruba shall ensure that the provision of the necessary Preclearance Facilities (including construction, furniture, equipment, and ongoing maintenance) shall be the responsibility of the Airport Operator;
 
-- b). Such Preclearance Facilities (including furniture and equipment) shall not become the property of the United States but may be retained by the Airport Operator; and
+- b) Such Preclearance Facilities (including furniture and equipment) shall not become the property of the United States but may be retained by the Airport Operator; and
 
-- c). The furniture and equipment purchased by the Airport Operator shall not include proprietary items (including data storage devices, software, services, and information reflected in [paragraph 2 of Article VI](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=VI&z=2025-10-28&g=2025-10-28)) specified by the United States.
+- c) The furniture and equipment purchased by the Airport Operator shall not include proprietary items (including data storage devices, software, services, and information reflected in [paragraph 2 of Article VI](https://wetten.overheid.nl/jci1.3:c:BWBV0007118&artikel=VI&z=2025-10-28&g=2025-10-28)) specified by the United States.
 
 3. Neither Party shall be responsible for costs associated with persons obtaining advice from legal counsel during Preclearance, if permitted.
 
@@ -403,10 +372,10 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized by their respective G
 
 DONE at Oranjestad, in duplicate, in the English language on this 24th day of October 2025.
 
-**For the Government of the Kingdom of the Netherlands, in respect of Aruba,**
+*For the Government of the Kingdom of the Netherlands, in respect of Aruba,*
 
 MICHIEL GODFRIED EMAN
 
-**For the Government of the United States of America,**
+*For the Government of the United States of America,*
 
 DIANE SABATINO

@@ -9,7 +9,7 @@ laatste_update: 2000-03-01
 status: geldig
 toestand: 2000-03-01
 bron: "https://wetten.overheid.nl/BWBR0001957"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 17 december 1932, tot uitvoering van artikel 22, artikel 23, 8ste en 9de lid en van artikel 43, der Schepenwet

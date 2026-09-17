@@ -9,7 +9,7 @@ laatste_update: 1963-06-01
 status: geldig
 toestand: 1963-06-01
 bron: "https://wetten.overheid.nl/BWBR0002240"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 20 december 1956, houdende verhoging van militaire pensioenen met een algemene toeslag

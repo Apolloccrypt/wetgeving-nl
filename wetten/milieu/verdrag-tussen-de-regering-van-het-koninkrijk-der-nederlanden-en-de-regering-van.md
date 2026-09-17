@@ -1,63 +1,18 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland betreffende de exploitatie van grensoverschrijdende koolwaterstoffenvelden in de Noordzee (met Bijlagen)"
 identifier: "BWBV0007104"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-08-27"
-last_updated: "2025-08-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007104"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10005707713"
-version_id: "10006307062"
-internal_id: "C10010208971"
-label_id: "10005689644"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007104/2025-08-27/0"
-intitule_bron: "Trb.2025-68"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-08-28"
-intitule_status: "nogniet"
-original_publication: "Trb.2025-68"
-original_published_date: "2025-08-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2025-68"
-jci_1_3: "jci1.3:c:BWBV0007104&z=2025-08-27&g=2025-08-27"
-jci_1_0: "1.0:c:BWBV0007104&g=2025-08-27"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-08-28"
+laatste_update: 2025-08-27
+status: geldig
+toestand: 2025-08-27
+bron: "https://wetten.overheid.nl/BWBV0007104"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland betreffende de exploitatie van grensoverschrijdende koolwaterstoffenvelden in de Noordzee (met Bijlagen)
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Bondsrepubliek Duitsland,
-
-Opnieuw bevestigend dat de vriendschappelijke betrekkingen tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gebaseerd zijn op de beginselen van goed nabuurschap en bilaterale samenwerking;
-
-Verwijzend naar het [Verdrag van 24 oktober 2014 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende het gebruik en beheer van de territoriale zee van 3 tot 12 zeemijlen](https://wetten.overheid.nl/jci1.3:c:BWBV0006411) en de bijbehorende briefwisseling van dezelfde datum;
-
-Gelet op het [Verdrag van 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag)](https://wetten.overheid.nl/jci1.3:c:BWBV0005343), zoals gewijzigd op 17 november 1975, de [Aanvullende Overeenkomst daarbij van 14 mei 1962](https://wetten.overheid.nl/jci1.3:c:BWBV0004413) en het [Aanvullend Protocol daarbij van 22 augustus 1996](https://wetten.overheid.nl/jci1.3:c:BWBV0005276);
-
-Gelet op het [Verdrag van 1 december 1964 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust](https://wetten.overheid.nl/jci1.3:c:BWBV0004468);
-
-Gelet op het [Verdrag van 28 januari 1971 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de begrenzing van het continentaal plat onder de Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBV0003545);
-
-Herinnerend aan het [Verdrag van 25 februari 1991 inzake milieueffectrapportage in grensoverschrijdend verband](https://wetten.overheid.nl/jci1.3:c:BWBV0002731), waarbij zowel het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland verdragsluitende partij zijn;
-
-Herinnerend aan het [Verdrag van 25 juni 1998 betreffende toegang tot informatie, inspraak bij besluitvorming en toegang tot de rechter inzake milieuaangelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001700), waarbij zowel het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland verdragsluitende partij zijn;
-
-Herinnerend aan het [Verdrag van de Verenigde Naties van 10 december 1982 inzake het recht van de zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003172), waarbij zowel het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland verdragsluitende partij zijn en dat heeft geleid tot een zeewaartse verbreding van de territoriale zee;
-
-Geleid door de wens hun samenwerking met betrekking tot de exploitatie van het N05-A-veld en andere grensoverschrijdende velden te verdiepen met het oog op een optimale exploitatie van de voorraden koolwaterstoffen in deze velden;
-
-Nota nemend van de gezamenlijke verklaring van de deelstaat Nedersaksen en de vergunninghouders (zoals hieronder omschreven) van 4 juli 2022 (Drucksache Landtag Niedersachsen 18/11367) die de mogelijkheid van gaswinning in de Duitse kustwateren koppelt aan de vraag naar aardgas in Duitsland;
-
-Nota nemend van artikel 5.10 van het Akkoord voor de Noordzee (Tweede Kamer der Staten-Generaal, Kamerstuk 33450, nr. 68, bijlage blg-941241) waarin is vastgelegd dat de Nederlandse gaswinning op de Noordzee in ieder geval te allen tijde onder het niveau van de binnenlandse aardgasvraag blijft en derhalve slechts dient om import van nog meer buitenlands gas zoveel mogelijk te beperken;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland, Opnieuw bevestigend dat de vriendschappelijke betrekkingen tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gebaseerd zijn op de beginselen van goed nabuurschap en bilaterale samenwerking; Verwijzend naar het Verdrag van 24 oktober 2014 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende het gebruik en beheer van de territoriale zee van 3 tot 12 zeemijlen en de bijbehorende briefwisseling van dezelfde datum; Gelet op het Verdrag van 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag), zoals gewijzigd op 17 november 1975, de Aanvullende Overeenkomst daarbij van 14 mei 1962 en het Aanvullend Protocol daarbij van 22 augustus 1996; Gelet op het Verdrag van 1 december 1964 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust; Gelet op het Verdrag van 28 januari 1971 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de begrenzing van het continentaal plat onder de Noordzee; Herinnerend aan het Verdrag van 25 februari 1991 inzake milieueffectrapportage in grensoverschrijdend verband, waarbij zowel het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland verdragsluitende partij zijn; Herinnerend aan het Verdrag van 25 juni 1998 betreffende toegang tot informatie, inspraak bij besluitvorming en toegang tot de rechter inzake milieuaangelegenheden, waarbij zowel het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland verdragsluitende partij zijn; Herinnerend aan het Verdrag van de Verenigde Naties van 10 december 1982 inzake het recht van de zee, waarbij zowel het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland verdragsluitende partij zijn en dat heeft geleid tot een zeewaartse verbreding van de territoriale zee; Geleid door de wens hun samenwerking met betrekking tot de exploitatie van het N05-A-veld en andere grensoverschrijdende velden te verdiepen met het oog op een optimale exploitatie van de voorraden koolwaterstoffen in deze velden; Nota nemend van de gezamenlijke verklaring van de deelstaat Nedersaksen en de vergunninghouders (zoals hieronder omschreven) van 4 juli 2022 (Drucksache Landtag Niedersachsen 18/11367) die de mogelijkheid van gaswinning in de Duitse kustwateren koppelt aan de vraag naar aardgas in Duitsland; Nota nemend van artikel 5.10 van het Akkoord voor de Noordzee (Tweede Kamer der Staten-Generaal, Kamerstuk 33450, nr. 68, bijlage blg-941241) waarin is vastgelegd dat de Nederlandse gaswinning op de Noordzee in ieder geval te allen tijde onder het niveau van de binnenlandse aardgasvraag blijft en derhalve slechts dient om import van nog meer buitenlands gas zoveel mogelijk te beperken; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK 1. ALGEMENE BEGINSELEN
 
@@ -81,9 +36,9 @@ Voor de toepassing van dit Verdrag:
 
 - 8. betekent „inspecteur” elke persoon die door de bevoegde autoriteit van een van de verdragsluitende partijen gemachtigd is om een inspectie uit te voeren met betrekking tot:
 
-- a. de constructie en het gebruik van elke installatie die betrekking heeft op een grensoverschrijdend project; of
+   - a. de constructie en het gebruik van elke installatie die betrekking heeft op een grensoverschrijdend project; of
 
-- b. elk meetsysteem dat betrekking heeft op een grensoverschrijdend project;
+   - b. elk meetsysteem dat betrekking heeft op een grensoverschrijdend project;
 
 - 9. betekent „installatie” elk(e) kunstmatig eiland, structuur of andere faciliteit voor de exploitatie, met inbegrip van platforms, boorinstallaties, drijvende productie-eenheden, opslageenheden, hotelschepen, boorgaten en putten, boorgatafsluiters, pijpleidingen en kabels in velden, maar uitgezonderd bevoorradings- en ondersteuningsvaartuigen, schepen die koolwaterstoffen in bulk vervoeren, overige pijpleidingen of kabels;
 
@@ -91,7 +46,7 @@ Voor de toepassing van dit Verdrag:
 
 - 11. betekent „vergunninghoudersovereenkomst” de overeenkomst die de vergunninghouders zijn aangegaan of zullen aangaan voor de exploitatie van een grensoverschrijdend veld;
 
-- 12. betekent „lijn” de lijnen als omschreven in [artikel 6 van het Verdrag van 24 oktober 2014 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden betreffende het gebruik en beheer van de territoriale zee van 3 tot 12 zeemijlen](https://wetten.overheid.nl/jci1.3:c:BWBV0006411&artikel=6) en [artikel 1 van het Verdrag van 1 december 1964 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust](https://wetten.overheid.nl/jci1.3:c:BWBV0004468&artikel=1);
+- 12. betekent „lijn” de lijnen als omschreven in [artikel 6 van het Verdrag van 24 oktober 2014 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden betreffende het gebruik en beheer van de territoriale zee van 3 tot 12 zeemijlen](https://wetten.overheid.nl/jci1.3:c:BWBV0006411&artikel=6) en [artikel 1 van het Verdrag van 1 december 1964 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust](https://wetten.overheid.nl/jci1.3:c:BWBV0004468&artikel=1);
 
 - 13. betekent „verdragsluitende partij” de Regering van de Bondsrepubliek Duitsland, met inbegrip van elke deelstaat („Duitse verdragsluitende partij”) of de Regering van het Koninkrijk der Nederlanden („Nederlandse verdragsluitende partij”), gezamenlijk aangeduid als „verdragsluitende partijen”;
 
@@ -99,9 +54,9 @@ Voor de toepassing van dit Verdrag:
 
 - 15. betekent „grensoverschrijdend project” een van de volgende projecten:
 
-- a. de constructie en het gebruik van een grensoverschrijdende put;
+   - a. de constructie en het gebruik van een grensoverschrijdende put;
 
-- b. de exploitatie van een grensoverschrijdend veld, met inbegrip van de constructie en het gebruik van een hostfaciliteit voor dat doel;
+   - b. de exploitatie van een grensoverschrijdend veld, met inbegrip van de constructie en het gebruik van een hostfaciliteit voor dat doel;
 
 - 16. betekent „grensoverschrijdend(e) veld(en)” het N05-A-veld en elke andere geologische structuur met koolwaterstoffen, geheel of gedeeltelijk gelegen in de territoriale zee van de verdragsluitende partijen tussen 3 en 12 zeemijlen, die zich aan beide zijden van de lijn uitstrekt, met inbegrip van elke andere geologische structuur met koolwaterstoffen die in druk- en faseverbinding staat met een grensoverschrijdend veld, zelfs als deze de lijn niet overschrijdt;
 
@@ -115,7 +70,7 @@ Voor de toepassing van dit Verdrag:
 
 1. Dit Verdrag is van toepassing op de exploitatie van koolwaterstoffen in grensoverschrijdende velden, met als doel de optimale exploitatie van grensoverschrijdende velden te bewerkstelligen.
 
-2. De bepalingen van dit Verdrag laten de posities van de verdragsluitende partijen ten aanzien van de juridische betekenis van het [Verdrag van 1 december 1964 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust](https://wetten.overheid.nl/jci1.3:c:BWBV0004468) en het [Verdrag van 28 januari 1971 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden inzake de begrenzing van het continentaal plat onder de Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBV0003545), onverlet.
+2. De bepalingen van dit Verdrag laten de posities van de verdragsluitende partijen ten aanzien van de juridische betekenis van het [Verdrag van 1 december 1964 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust](https://wetten.overheid.nl/jci1.3:c:BWBV0004468) en het [Verdrag van 28 januari 1971 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden inzake de begrenzing van het continentaal plat onder de Noordzee](https://wetten.overheid.nl/jci1.3:c:BWBV0003545), onverlet.
 
 3. De bepalingen van dit Verdrag zijn niet van invloed op het vraagstuk van het verloop van de staatsgrens in de territoriale zee tussen 3 en 12 zeemijlen uit de kust. De bepalingen van dit Verdrag zijn evenmin van invloed op het vraagstuk van het verloop van de staatsgrens in de Eemsmonding. Elke verdragsluitende partij behoudt zich in dit opzicht haar rechtsstandpunt voor.
 
@@ -179,7 +134,7 @@ Met inachtneming van de wettelijke beperkingen inzake openbaarmaking en gebruik 
 
 ##### Artikel 10. Belastingheffing
 
-Winsten en kapitaalopbrengsten die voortvloeien uit de grensoverschrijdende velden, worden belast in overeenstemming met de wet- en regelgeving van respectievelijk de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden, met inbegrip van het [Verdrag van 12 april 2012 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen](https://wetten.overheid.nl/jci1.3:c:BWBV0005862), zoals gewijzigd bij het Protocol van 11 januari 2016, het Protocol van 24 maart 2021 en het Protocol van 14 april 2025, of enig verdrag dat in de toekomst zal worden overeengekomen, tot vervanging of wijziging van dat Verdrag.
+Winsten en kapitaalopbrengsten die voortvloeien uit de grensoverschrijdende velden, worden belast in overeenstemming met de wet- en regelgeving van respectievelijk de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden, met inbegrip van het [Verdrag van 12 april 2012 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen](https://wetten.overheid.nl/jci1.3:c:BWBV0005862), zoals gewijzigd bij het Protocol van 11 januari 2016, het Protocol van 24 maart 2021 en het Protocol van 14 april 2025, of enig verdrag dat in de toekomst zal worden overeengekomen, tot vervanging of wijziging van dat Verdrag.
 
 ##### Artikel 11. Voortzetting van het gebruik en beëindiging
 
@@ -235,7 +190,7 @@ Plannen voor ontmanteling van installaties die betrekking hebben op een grensove
 
 2. De verdragsluitende partijen stellen, gelet op de wens om tot een snelle oplossing te komen, alles in het werk om het betreffende onderwerp te regelen. De uitvoerder van het eenheidsgebied kan daartoe alternatieve voorstellen indienen.
 
-3. Indien, binnen het in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007104&hoofdstuk=2&artikel=14&z=2025-08-27&g=2025-08-27), genoemde tijdvak, of een ander tijdvak dat de verdragsluitende partijen overeenkomen, de verdragsluitende partijen niet in staat zijn het betreffende onderwerp te regelen, wordt er een gemeenschappelijke deskundige benoemd om een tijdige en onafhankelijke beslissing over deze aangelegenheid tot stand te brengen. De deskundige wordt benoemd en treedt op in overeenstemming met de bepalingen van Bijlage 1 en Bijlage 2.
+3. Indien, binnen het in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007104&hoofdstuk=2&artikel=14&z=2025-08-27&g=2025-08-27), genoemde tijdvak, of een ander tijdvak dat de verdragsluitende partijen overeenkomen, de verdragsluitende partijen niet in staat zijn het betreffende onderwerp te regelen, wordt er een gemeenschappelijke deskundige benoemd om een tijdige en onafhankelijke beslissing over deze aangelegenheid tot stand te brengen. De deskundige wordt benoemd en treedt op in overeenstemming met de bepalingen van [Bijlage 1](https://wetten.overheid.nl/BWBV0007104) en [Bijlage 2](https://wetten.overheid.nl/BWBV0007104).
 
 ##### Artikel 17. Integratie van gebieden met vergunning
 
@@ -331,12 +286,12 @@ Geschillen tussen de verdragsluitende partijen betreffende de uitleg of toepassi
 
 2. In afwachting van de inwerkingtreding in overeenstemming met het eerste lid kan elke verdragsluitende partij bij de ondertekening van dit Verdrag of te allen tijde daarna de andere verdragsluitende partij door toezending van een nota langs diplomatieke weg ervan in kennis stellen de bepalingen van dit Verdrag, binnen de grenzen van haar interne grondwettelijke vereisten, voorlopig toe te passen.
 
-GEDAAN te ’s-Gravenhage op 27 augustus 2025, in tweevoud, in de Nederlandse en Duitse taal, waarbij beide teksten gelijkelijk authentiek zijn.
+GEDAAN te ’s-Gravenhage op 27 augustus 2025, in tweevoud, in de Nederlandse en Duitse taal, waarbij beide teksten gelijkelijk authentiek zijn.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 ESTHER PIJS
 
-**Voor de Regering van de Bondsrepubliek Duitsland**
+*Voor de Regering van de Bondsrepubliek Duitsland*
 
 NIKOLAUS MEYER-LANDRUT

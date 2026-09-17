@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0001855"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 15 april 1886, houdende bepalingen, regelende het in werking treden van het bij de wet van 3 maart 1881 (Staatsblad n°. 35) vastgestelde Wetboek van Strafrecht en den overgang van de oude tot de nieuwe strafwetgeving, alsmede om overeenstemming te brengen tusschen de bestaande wetten en het nieuwe wetboek

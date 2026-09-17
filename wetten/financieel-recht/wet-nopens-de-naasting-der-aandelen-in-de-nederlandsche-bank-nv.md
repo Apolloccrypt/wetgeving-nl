@@ -9,7 +9,7 @@ laatste_update: 1948-08-01
 status: geldig
 toestand: 1948-08-01
 bron: "https://wetten.overheid.nl/BWBR0002039"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 23 April 1948, houdende verklaring van het algemeen nut van de naasting van de aandelen in het maatschappelijk kapitaal van De Nederlandsche Bank N.V. door de Staat en regeling dier naasting

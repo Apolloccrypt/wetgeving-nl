@@ -9,7 +9,7 @@ laatste_update: 1896-07-17
 status: geldig
 toestand: 1896-07-17
 bron: "https://wetten.overheid.nl/BWBR0001864"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 17 juni 1896, houdende voorschriften ter uitvoering van artikel 19 der Faillissementswet

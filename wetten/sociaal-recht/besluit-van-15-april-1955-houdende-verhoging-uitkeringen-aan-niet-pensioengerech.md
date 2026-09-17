@@ -9,7 +9,7 @@ laatste_update: 1955-05-15
 status: geldig
 toestand: 1955-05-15
 bron: "https://wetten.overheid.nl/BWBR0002179"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 15 april 1955, houdende verhoging uitkeringen aan niet-pensioengerechtigden van land- en zeemacht met een aanpassingstoeslag

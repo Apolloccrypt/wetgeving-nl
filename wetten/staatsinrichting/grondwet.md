@@ -9,7 +9,7 @@ laatste_update: 2023-02-22
 status: geldig
 toestand: 2023-02-22
 bron: "https://wetten.overheid.nl/BWBR0001840"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815

@@ -9,7 +9,7 @@ laatste_update: 1953-10-21
 status: geldig
 toestand: 1953-10-21
 bron: "https://wetten.overheid.nl/BWBR0002119"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 15 oktober 1953, houdende de derde verlenging van de in artikel 7, eerste lid, van de Wet Overheidsaansprakelijkheid Bezettingshandelingen (Stb. K 451) eerstbedoelde termijn

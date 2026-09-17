@@ -9,7 +9,7 @@ laatste_update: 2026-09-12
 status: geldig
 toestand: 2026-09-12
 bron: "https://wetten.overheid.nl/BWBR0013707"
-opgehaald: 2026-09-16
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 24 mei 2002, houdende implementatie van richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269) (Besluit beheer autowrakken)

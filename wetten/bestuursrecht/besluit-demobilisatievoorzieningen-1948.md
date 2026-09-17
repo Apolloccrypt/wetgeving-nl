@@ -9,7 +9,7 @@ laatste_update: 1965-01-01
 status: geldig
 toestand: 1965-01-01
 bron: "https://wetten.overheid.nl/BWBR0002038"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 14 februari 1948, houdende vaststelling van het Besluit Demobilisatievoorzieningen 1948

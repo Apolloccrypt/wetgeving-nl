@@ -9,7 +9,7 @@ laatste_update: 1926-01-01
 status: geldig
 toestand: 1926-01-01
 bron: "https://wetten.overheid.nl/BWBR0001931"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 24 december 1925, tot bepaling van den duur der gevangenisstraf als bedoeld in artikel 487, tweede lid en artikel 501, eerste lid, in verband met artikel 376, eerste lid, van het nieuwe Wetboek van Strafvordering

@@ -9,7 +9,7 @@ laatste_update: 1956-10-15
 status: geldig
 toestand: 1956-10-15
 bron: "https://wetten.overheid.nl/BWBR0002233"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 15 september 1956, tot handhaving van de besluiten en beschikkingen betreffende het technisch hoger onderwijs

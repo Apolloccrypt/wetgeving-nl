@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0002172"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 24 februari 1955, houdende regeling van gedwongen tenuitvoerlegging van uitspraken en beschikkingen van Europese Gemeenschappen

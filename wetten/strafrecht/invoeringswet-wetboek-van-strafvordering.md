@@ -9,7 +9,7 @@ laatste_update: 2002-03-01
 status: geldig
 toestand: 2002-03-01
 bron: "https://wetten.overheid.nl/BWBR0001926"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 29 juni 1925, tot invoering van het nieuwe Wetboek van Strafvordering

@@ -9,7 +9,7 @@ laatste_update: 1986-01-01
 status: geldig
 toestand: 1986-01-01
 bron: "https://wetten.overheid.nl/BWBR0002346"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 16 augustus 1960, houdende vaststelling van een nieuw reglement op het geneeskundige onderzoek omtrent de geschiktheid voor de militaire dienst

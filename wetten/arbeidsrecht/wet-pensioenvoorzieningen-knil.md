@@ -9,7 +9,7 @@ laatste_update: 1952-07-14
 status: geldig
 toestand: 1952-07-14
 bron: "https://wetten.overheid.nl/BWBR0002090"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 29 mei 1952, houdende nadere regelen met betrekking tot de pensioenaanspraken van bepaalde groepen van gewezen militairen van het Koninklijk Nederlands Indonesisch Leger, alsmede van hun nagelaten betrekkingen

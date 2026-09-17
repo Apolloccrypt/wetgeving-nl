@@ -9,7 +9,7 @@ laatste_update: 1949-12-22
 status: geldig
 toestand: 1949-12-22
 bron: "https://wetten.overheid.nl/BWBR0002055"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 21 December 1949, houdende een voorziening in de zin van artikel 211 der Grondwet

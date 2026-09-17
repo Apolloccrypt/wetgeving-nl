@@ -9,7 +9,7 @@ laatste_update: 2016-10-06
 status: geldig
 toestand: 2016-10-06
 bron: "https://wetten.overheid.nl/BWBR0002042"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 9 augustus 1948, tot uitvoering van artikel 12 der Wet buitengewoon pensioen 1940-1945

@@ -9,7 +9,7 @@ laatste_update: 1974-01-01
 status: geldig
 toestand: 1974-01-01
 bron: "https://wetten.overheid.nl/BWBR0002234"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Beschikking van de Minister van Justitie van 22 september 1956, houdende vaststelling van bepalingen nopens het genot van een vacatiegeld van de door de Kroon benoemde leden van het Hof van Discipline bedoeld in de Advocatenwet

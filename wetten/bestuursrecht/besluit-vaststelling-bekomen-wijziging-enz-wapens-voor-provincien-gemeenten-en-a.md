@@ -9,7 +9,7 @@ laatste_update: 1977-11-10
 status: geldig
 toestand: 1977-11-10
 bron: "https://wetten.overheid.nl/BWBR0001895"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 23 april 1919, tot intrekking van de Koninklijke besluiten van 20 februari 1816, n°. 69, en 3 januari 1818, n°. 91, en tot vaststelling van nieuwe bepalingen nopens het bekomen, wijziging, enz. van wapens voor provinciën, gemeenten en andere publiekrechtelijke lichamen of instellingen

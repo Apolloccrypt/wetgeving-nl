@@ -9,7 +9,7 @@ laatste_update: 1957-01-01
 status: geldig
 toestand: 1957-01-01
 bron: "https://wetten.overheid.nl/BWBR0001966"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 17 augustus 1935, tot vaststelling van een wachtgeldregeling voor officieren behoorende tot de Koninklijke Landmacht

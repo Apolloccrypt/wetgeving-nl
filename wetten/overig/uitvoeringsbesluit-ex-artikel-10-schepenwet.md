@@ -9,7 +9,7 @@ laatste_update: 1936-10-13
 status: geldig
 toestand: 1936-10-13
 bron: "https://wetten.overheid.nl/BWBR0001979"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 10 september 1936, tot uitvoering van artikel 10, tweede lid, van de "Schepenwet"

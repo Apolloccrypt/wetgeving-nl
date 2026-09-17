@@ -9,7 +9,7 @@ laatste_update: 1956-09-20
 status: geldig
 toestand: 1956-09-20
 bron: "https://wetten.overheid.nl/BWBR0002106"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 2 maart 1953, houdende vaststelling van een premieregeling voor sergeanten en korporaals die een verbintenis van een jaar bij het reserve-personeel der Koninklijke Landmacht hebben gesloten

@@ -9,7 +9,7 @@ laatste_update: 1959-01-17
 status: geldig
 toestand: 1959-01-17
 bron: "https://wetten.overheid.nl/BWBR0002305"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Rijkswet van 24 december 1958, houdende goedkeuring van het op 1 maart 1954 te 's-Gravenhage ondertekende verdrag betreffende de burgerlijke rechtsvordering

@@ -9,7 +9,7 @@ laatste_update: 1939-01-11
 status: geldig
 toestand: 1939-01-11
 bron: "https://wetten.overheid.nl/BWBR0001993"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 22 december 1938, tot regeling van de pensioenen voor reserve-officieren der Koninklijke landmacht, die zich - ter aanvulling van een bestaand tekort aan beroeps-officieren - krachtens een daartoe gesloten verbintenis in actieven dienst bevinden met bestemming om naar het korps beroeps-officieren bij het leger hier te lande over te gaan, alsmede voor hunne weduwen en weezen

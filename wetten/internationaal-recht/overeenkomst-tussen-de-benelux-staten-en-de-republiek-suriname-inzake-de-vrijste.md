@@ -1,41 +1,18 @@
 ---
 title: "Overeenkomst tussen de Benelux-Staten en de Republiek Suriname inzake de vrijstelling van de visumplicht voor houders van een geldig diplomatiek of dienstpaspoort"
 identifier: "BWBV0007091"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-02-14"
-last_updated: "2025-02-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007091"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005701473"
-version_id: "10006296882"
-internal_id: "C10010188921"
-label_id: "10005682844"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007091/2025-02-14/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0007091&z=2025-02-14&g=2025-02-14"
-jci_1_0: "1.0:c:BWBV0007091&g=2025-02-14"
-citeertitel_status: "redactioneel"
+laatste_update: 2025-02-14
+status: geldig
+toestand: 2025-02-14
+bron: "https://wetten.overheid.nl/BWBV0007091"
+opgehaald: 2026-09-17
 ---
+
 # Overeenkomst tussen de Benelux-Staten en de Republiek Suriname inzake de vrijstelling van de visumplicht voor houders van een geldig diplomatiek of dienstpaspoort
 
-PREAMBULE
-
-De Republiek Suriname en de Benelux-Staten (die hierna gezamenlijk worden aangeduid als de „Partijen” en afzonderlijk als een „Partij”),
-
-Erkennende dat de Benelux-Staten gezamenlijk handelen op basis van de [Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied](onbekend), die op 11 april 1960 in Brussel werd ondertekend;
-
-Onder verwijzing naar de [Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Republiek Suriname betreffende de terug- en overname van personen die onregelmatig op het grondgebied verblijven](https://wetten.overheid.nl/jci1.3:c:BWBV0007093);
-
-Overwegende het belang van de Partijen om hun vriendschappelijke betrekkingen te versterken;
-
-Verlangende de onderdanen van de Republiek Suriname en de onderdanen van de Benelux-Staten die houder zijn van een geldig diplomatiek of dienstpaspoort makkelijker toegang te geven tot hun onderscheiden landen;
-
-Bereid zijnde een Overeenkomst te sluiten inzake de vrijstelling van de visumplicht voor houders van een geldig diplomatieke of dienstpaspoort;
-
-Komen hierbij het volgende overeen:
+*PREAMBULE De Republiek Suriname en de Benelux-Staten (die hierna gezamenlijk worden aangeduid als de „Partijen” en afzonderlijk als een „Partij”), Erkennende dat de Benelux-Staten gezamenlijk handelen op basis van de Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied, die op 11 april 1960 in Brussel werd ondertekend; Onder verwijzing naar de Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Republiek Suriname betreffende de terug- en overname van personen die onregelmatig op het grondgebied verblijven; Overwegende het belang van de Partijen om hun vriendschappelijke betrekkingen te versterken; Verlangende de onderdanen van de Republiek Suriname en de onderdanen van de Benelux-Staten die houder zijn van een geldig diplomatiek of dienstpaspoort makkelijker toegang te geven tot hun onderscheiden landen; Bereid zijnde een Overeenkomst te sluiten inzake de vrijstelling van de visumplicht voor houders van een geldig diplomatieke of dienstpaspoort; Komen hierbij het volgende overeen:*
 
 ##### Artikel 1. Definities
 
@@ -49,9 +26,9 @@ Tenzij uit de context anders blijkt, wordt in deze Overeenkomst verstaan onder:
 
 - 4. „Grondgebied”:
 
-- –. Voor de Republiek Suriname: het grondgebied van de Republiek Suriname;
+   - – Voor de Republiek Suriname: het grondgebied van de Republiek Suriname;
 
-- –. Voor de Benelux-Staten: de grondgebieden in Europa van de Benelux-Staten.
+   - – Voor de Benelux-Staten: de grondgebieden in Europa van de Benelux-Staten.
 
 ##### Artikel 2. Bevoegde autoriteiten
 
@@ -137,20 +114,20 @@ Deze Overeenkomst kan door elke Partij worden opgeschort. Van de opschorting wor
 
 TEN BLIJKE WAARVAN, de ondergetekenden, die daartoe naar behoren zijn gemachtigd door hun respectievelijke Regeringen, deze Overeenkomst hebben ondertekend.
 
-GEDAAN te Brussel op 14 februari 2025, in één oorspronkelijk exemplaar, in de Nederlandse, Franse en Engelse taal. In geval van verschil in uitlegging is de Nederlandse tekst doorslaggevend.
+GEDAAN te Brussel op 14 februari 2025, in één oorspronkelijk exemplaar, in de Nederlandse, Franse en Engelse taal. In geval van verschil in uitlegging is de Nederlandse tekst doorslaggevend.
 
-**Voor de Republiek Suriname**
+*Voor de Republiek Suriname*
 
 A. RAMDIN
 
-**Voor het Koninkrijk België**
+*Voor het Koninkrijk België*
 
 A. VAN BOSSUYT
 
-**Voor het Groothertogdom Luxemburg**
+*Voor het Groothertogdom Luxemburg*
 
 A. BIEVER
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 B. SCHWACHÖFER

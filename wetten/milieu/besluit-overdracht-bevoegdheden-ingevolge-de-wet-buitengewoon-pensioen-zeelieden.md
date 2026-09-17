@@ -9,7 +9,7 @@ laatste_update: 1960-10-01
 status: geldig
 toestand: 1960-10-01
 bron: "https://wetten.overheid.nl/BWBR0002348"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 30 september 1960, houdende overdracht van de bevoegdheden ingevolge de Wet buitengewoon pensioen zeeliedenoorlogsslachtoffers (Stb. 1947, H 420) van de Minister van Verkeer en Waterstaat aan de Minister van Maatschappelijk Werk

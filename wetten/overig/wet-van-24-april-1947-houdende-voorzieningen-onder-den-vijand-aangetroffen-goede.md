@@ -8,7 +8,7 @@ laatste_update: 1947-06-01
 status: geldig
 toestand: 1947-06-01
 bron: "https://wetten.overheid.nl/BWBR0002030"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 24 april 1947, houdende voorzieningen onder den vijand aangetroffen goederen

@@ -9,7 +9,7 @@ laatste_update: 1933-09-16
 status: geldig
 toestand: 1933-09-16
 bron: "https://wetten.overheid.nl/BWBR0001857"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 21 juli 1890, tot regeling van het Militair Onderwijs bij de Landmacht, voor zoover daarbij de opleiding voor den officiersrang en de hoogere vorming van den officier zijn betrokken

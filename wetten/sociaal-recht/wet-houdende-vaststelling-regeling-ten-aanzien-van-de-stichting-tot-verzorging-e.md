@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0002180"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 21 April 1955, houdende vaststelling van een regeling, als bedoeld in artikel 89a van de Comptabiliteitswet (Stb. 1927, No. 259), ten aanzien van de "Stichting tot verzorging en afwikkeling van pensioensaangelegenheden betreffende gewezen overheidspersoneel van Indonesië en hun nagelaten betrekkingen"

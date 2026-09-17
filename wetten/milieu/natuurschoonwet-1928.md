@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0001939"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 15 maart 1928, houdende regeling van sommige van landgoederen geheven belastingen tot bevordering van behoud van natuurschoon

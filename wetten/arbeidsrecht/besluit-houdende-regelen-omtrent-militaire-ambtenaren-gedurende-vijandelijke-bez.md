@@ -9,7 +9,7 @@ laatste_update: 1945-10-18
 status: geldig
 toestand: 1945-10-18
 bron: "https://wetten.overheid.nl/BWBR0002012"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 30 juli 1945, houdende regelen omtrent de verbindende kracht en de rechtsgevolgen van benoeming, aanstelling, bevordering en ontslag van militaire ambtenaren in dienst bij de zeemacht gedurende de vijandelijke bezetting van Nederlandsch grondgebied door of vanwege den vijand verleend

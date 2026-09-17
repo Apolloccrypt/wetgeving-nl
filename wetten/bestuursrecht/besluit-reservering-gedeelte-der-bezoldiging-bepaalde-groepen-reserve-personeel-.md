@@ -9,7 +9,7 @@ laatste_update: 1958-10-01
 status: geldig
 toestand: 1958-10-01
 bron: "https://wetten.overheid.nl/BWBR0002289"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 19 juli 1958, houdende reservering van een gedeelte der bezoldiging van bepaalde groepen reserve-personeel der krijgsmacht tijdens de periode gedurende welke zij nog geen rechten kunnen ontlenen aan de pensioenwetten voor de zee- en landmacht 1922

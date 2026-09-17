@@ -9,7 +9,7 @@ laatste_update: 1997-01-29
 status: geldig
 toestand: 1997-01-29
 bron: "https://wetten.overheid.nl/BWBR0002085"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 1 februari 1952, houdende vaststelling van een algemene maatregel van bestuur inzake het instellen van een commissie, alsmede van de mogelijkheid van beroep tegen beslissingen van de commissie, als bedoeld in artikel 7 van de Garantiewet Militairen K.N.I.L.

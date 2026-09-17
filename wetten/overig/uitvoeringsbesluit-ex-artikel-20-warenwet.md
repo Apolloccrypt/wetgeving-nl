@@ -9,7 +9,7 @@ laatste_update: 1936-03-19
 status: geldig
 toestand: 1936-03-19
 bron: "https://wetten.overheid.nl/BWBR0001971"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 2 maart 1936, tot uitvoering van artikel 20, tweede lid, der Warenwet (Staatsblad 1935, n°. 793)

@@ -9,7 +9,7 @@ laatste_update: 2000-03-01
 status: geldig
 toestand: 2000-03-01
 bron: "https://wetten.overheid.nl/BWBR0002011"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 4 oktober 1944, houdende regeling van de gevolgen in bepaalde gevallen van het zich begeven in vreemden krijgs- of staatsdienst

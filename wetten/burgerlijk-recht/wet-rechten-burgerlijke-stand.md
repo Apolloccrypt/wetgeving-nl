@@ -9,7 +9,7 @@ laatste_update: 2019-02-16
 status: geldig
 toestand: 2019-02-16
 bron: "https://wetten.overheid.nl/BWBR0001851"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 23 april 1879, tot regeling der heffing van regten wegens de verrigtingen van den ambtenaar van den burgerlijken stand

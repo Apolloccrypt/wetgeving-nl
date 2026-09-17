@@ -9,7 +9,7 @@ laatste_update: 2023-04-20
 status: geldig
 toestand: 2023-04-20
 bron: "https://wetten.overheid.nl/BWBR0002097"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 10 juli 1952, houdende voorzieningen aangaande de verplaatsing van bevolking voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden

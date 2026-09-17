@@ -9,7 +9,7 @@ laatste_update: 2020-07-17
 status: geldig
 toestand: 2020-07-17
 bron: "https://wetten.overheid.nl/BWBR0002389"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 29 november 1962, houdende een regeling tot het tegengaan van het hamsteren van goederen in buitengewone omstandigheden

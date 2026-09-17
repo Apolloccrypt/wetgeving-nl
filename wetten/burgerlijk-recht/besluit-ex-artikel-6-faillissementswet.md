@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0001932"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 27 januari 1926, houdende voorschriften ter uitvoering van artikel 6 der Faillissementswet, zooals dit artikel luidt na de laatstelijk daarin aangebrachte wijziging

@@ -9,7 +9,7 @@ laatste_update: 1999-02-17
 status: geldig
 toestand: 1999-02-17
 bron: "https://wetten.overheid.nl/BWBR0002261"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 18 december 1957, houdende een nieuwe regeling van de samenstelling der burgerlijke gerechten en van de bezoldiging van de rechterlijke ambtenaren

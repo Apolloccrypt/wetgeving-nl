@@ -9,7 +9,7 @@ laatste_update: 1977-03-24
 status: geldig
 toestand: 1977-03-24
 bron: "https://wetten.overheid.nl/BWBR0002288"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 16 juli 1958, tot nadere regeling van de wettelijke tijd

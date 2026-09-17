@@ -9,7 +9,7 @@ laatste_update: 2023-05-01
 status: geldig
 toestand: 2023-05-01
 bron: "https://wetten.overheid.nl/BWBR0001959"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 6 april 1933, houdende voorzieningen tot uitvoering van het op 31 mei 1932 te Londen tusschen Nederland en Groot-Brittannië gesloten verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen

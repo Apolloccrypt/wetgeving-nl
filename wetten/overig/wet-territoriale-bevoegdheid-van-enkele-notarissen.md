@@ -9,7 +9,7 @@ laatste_update: 1946-01-15
 status: geldig
 toestand: 1946-01-15
 bron: "https://wetten.overheid.nl/BWBR0002020"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 8 augustus 1946, houdende voorziening met betrekking tot de territoriale bevoegdheid van enkele notarissen

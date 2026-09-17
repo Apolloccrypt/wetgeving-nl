@@ -8,7 +8,7 @@ laatste_update: 1933-04-13
 status: geldig
 toestand: 1933-04-13
 bron: "https://wetten.overheid.nl/BWBR0001958"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Muziekauteursrecht

@@ -2,230 +2,214 @@
 title: "Verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van de Franse Republiek inzake de grensafbakening tussen het Koninkrijk der Nederlanden (Sint Maarten) en de Franse Republiek (Saint-Martin)"
 identifier: "BWBV0006996"
 categorie: "Internationaal recht"
-publicatiedatum: 2023-05-26
-laatste_update: 2026-07-21
+soort: "verdrag"
+laatste_update: 2023-05-26
 status: geldig
+toestand: 2023-05-26
 bron: "https://wetten.overheid.nl/BWBV0006996"
+opgehaald: 2026-09-17
 ---
 
 # Verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van de Franse Republiek inzake de grensafbakening tussen het Koninkrijk der Nederlanden (Sint Maarten) en de Franse Republiek (Saint-Martin)
 
-De regering van het Koninkrijk der Nederlanden,
+*The government of the Kingdom of the Netherlands, and the government of the French Republic, hereafter “the Parties”, Reaffirming their commitment to the traditional relations of friendship and good neighbourliness between the Kingdom of the Netherlands and the French Republic in the Caribbean region; Considering that it is necessary to delimit their shared boundary; Having regard to the Treaty of Concordia (Sint Maarten) concluded on 23 March 1648; Having regard to the United Nations Convention on the Law of the Sea, concluded at Montego Bay on 10 December 1982, to which the Kingdom of the Netherlands and the French Republic are Parties; Considering the Agreement between the government of the Kingdom of the Netherlands and the government of the French Republic on Maritime Delimitations in the Caribbean region, signed at Philipsburg on 6 April 2016, in particular articles 3 and 4 thereof; Have agreed as follows:*
 
-en
+### TITLE 1. GENERAL PROVISIONS
 
-de regering van de Franse Republiek,
+##### Article 1. Definitions
 
-hierna te noemen de „partijen”,
+For the purposes of this Agreement, the terms below are defined as follows:
 
-Opnieuw het belang bevestigend dat zij hechten aan de van oudsher bestaande vriendschapsbanden en het goed nabuurschap tussen het Koninkrijk der Nederlanden en de Franse Republiek in het Caribisch gebied;
+- a) “Internal waters”: waters on the landward side of the baseline of the territorial sea.
 
-Zich bewust van de noodzaak hun gezamenlijke grens af te bakenen;
+- b) “Werbata map”: the map published in 1915 by J. Smulders & Co., based on the topographic surveys and work carried out by engineers Werbata and Jonckheer.
 
-Onder verwijzing naar het Verdrag van Concordia (Sint Maarten) tot stand gekomen op 23 maart 1648;
+- c) “[Maritime delimitation agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0006591)”: the Agreement of 6 April 2016 between the government of the Kingdom of the Netherlands and the government of the French Republic on Maritime Delimitations in the Caribbean region.
 
-Onder verwijzing naar het [Verdrag van de Verenigde Naties inzake het recht van de zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003172), ondertekend te Montego Bay op 10 december 1982, waarbij het Koninkrijk der Nederlanden en de Franse Republiek partij zijn;
+##### Article 2. Object
 
-Gelet op het [Verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van de Franse Republiek inzake de maritieme afbakening in het Caribisch gebied](https://wetten.overheid.nl/jci1.3:c:BWBV0006591), ondertekend te Philipsburg op 6 april 2016, en met name de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006591&artikel=3) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006591&artikel=4) daarvan;
+The object of this Agreement is to delimit the boundary line between the Kingdom of the Netherlands (Sint Maarten) and the French Republic (Saint-Martin), from the end of the eastern part (point D) to the end of the western part (point C) of the delimitation established in the [maritime delimitation agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0006591).
 
-Zijn het volgende overeengekomen:
+### TITLE 2. BOUNDARY LINE
 
-## TITEL 1. ALGEMENE BEPALINGEN
+##### Article 3. Determination of the boundary line
 
-##### Artikel 1. Begripsomschrijvingen
+3.1. The boundary line is determined by the numerical geographical coordinates indicated in [Annex A](https://wetten.overheid.nl/BWBV0006996) to this Agreement. It runs in a straight (geodesic) line between two successive points.
 
-In dit Verdrag wordt verstaan onder:
+3.2. Points C and D laid down in the [maritime delimitation agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0006591) are set out in [Annex A](https://wetten.overheid.nl/BWBV0006996) and are linked to the ends of the boundary line defined in the first paragraph of this Article.
 
-- a. „binnenwateren”: wateren gelegen aan de landzijde van de basislijn van de territoriale zee.
+3.3. For the maritime boundary, the geographical coordinates of the points established in this Agreement are expressed in the geodetic reference system WGS 84 (World Geodetic System 1984), which in turn is aligned with the ITRS (International Terrestrial Reference System).
 
-- b. „Werbata-kaart”: de kaart die in 1915 is gepubliceerd door J. Smulders & Co op basis van de topografische metingen en werkzaamheden van de ingenieurs Werbata en Jonckheer.
+3.4. For the land boundary, the geographic coordinates of the points established in this Agreement are expressed in the ITRS (International Terrestrial Reference System).
 
-- c. „[Verdrag inzake maritieme afbakening](https://wetten.overheid.nl/jci1.3:c:BWBV0006591)”: het Verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van de Franse Republiek, inzake de maritieme afbakening in het Caribisch gebied van 6 april 2016.
+3.5. The Committee established pursuant to [Article 9](https://wetten.overheid.nl/BWBV0006996), taking account of the Werbata map or, in relation to Oyster Pond, the principle of equidistance, may propose modifications to the numerical geographical coordinates set out in [Annex A](https://wetten.overheid.nl/BWBV0006996) to the Parties. The Parties can, by mutual agreement, approve these proposals in accordance with the procedure laid down in [Article 16](https://wetten.overheid.nl/BWBV0006996).
 
-##### Artikel 2. Doelstelling
+### TITLE 3. SPECIFIC PROVISIONS FOR OYSTER POND AND SIMPSON BAY LAGOON
 
-Het doel van dit Verdrag is de afbakening van de loop van de grens tussen het Koninkrijk der Nederlanden (Sint Maarten) en de Franse Republiek (Saint-Martin), vanaf het einde van het oostelijke deel (punt D) tot en met het einde van het westelijke deel (punt C) van de afbakening die is overeengekomen in het [Verdrag inzake maritieme afbakening](https://wetten.overheid.nl/jci1.3:c:BWBV0006591).
+##### Article 4. Status of the waters of Oyster Pond
 
-## TITEL 2. LOOP VAN DE GRENS
+4.1. The waters of Oyster Pond are designated internal waters.
 
-##### Artikel 3. Vaststelling van de loop van de grens
+4.2. The right of innocent passage is recognised and guaranteed to all ships, irrespective of nationality.
 
-3.1. De loop van de grens wordt vastgesteld door de numerieke geografische coördinaten zoals vermeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=A&z=2023-05-26&g=2023-05-26) bij dit Verdrag. De grens loopt in een rechte (geodetische) lijn tussen twee opeenvolgende punten.
+4.3. The Oyster Pond closing line is defined by a straight (geodesic) line linking the points designated by the geographical coordinates set out in [Annex B](https://wetten.overheid.nl/BWBV0006996).
 
-3.2. De punten C en D van het [Verdrag inzake maritieme afbakening](https://wetten.overheid.nl/jci1.3:c:BWBV0006591) zijn opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=A&z=2023-05-26&g=2023-05-26) en zijn gekoppeld aan de uiteinden van de loop van de grens zoals omschreven in het eerste lid van dit artikel.
+##### Article 5. Common provisions for Oyster Pond and Simpson Bay Lagoon
 
-3.3. Wat betreft de zeegrens worden de geografische coördinaten van de in dit Verdrag overeengekomen punten uitgedrukt volgens het geodetisch referentiesysteem WGS 84 (World Geodetic System 1984) dat zelf is afgestemd op het ITRS-systeem (International Terrestrial Reference System).
+5.1. In compliance with the legal and regulatory provisions in force on the territory of the parties concerned, the Parties shall mutually recognise and guarantee to vessels flying their flags in Oyster Pond and Simpson Bay Lagoon:
 
-3.4. Wat betreft de landgrens worden de geografische coördinaten van de in dit Verdrag overeengekomen punten uitgedrukt volgens het ITRS-systeem (International Terrestrial Reference System).
+- a) access
 
-3.5. De op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=4&artikel=9&z=2023-05-26&g=2023-05-26) opgerichte commissie kan, rekening houdend met de Werbata-kaart of, aangaande Oyster Bay, met het beginsel van equidistantie, aan de partijen voorstellen doen voor aanpassingen van de numeriek weergegeven geografische coördinaten zoals vervat in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=A&z=2023-05-26&g=2023-05-26). De partijen kunnen, in onderlinge overeenstemming, deze voorstellen goedkeuren volgens de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=7&artikel=16&z=2023-05-26&g=2023-05-26) voorziene procedure.
+- b) freedom of navigation
 
-## TITEL 3. BIJZONDERE BEPALINGEN BETREFFENDE OYSTER POND EN DE SIMPSON BAY-LAGUNE
+- c) mooring
 
-##### Artikel 4. Status van de wateren van Oyster Pond
+- d) freedom to conduct artisanal fishing
 
-4.1. De wateren van Oyster Pond zijn aangewezen als binnenwateren.
+5.2. Without prejudice to the provisions set out in [Article 4](https://wetten.overheid.nl/BWBV0006996), paragraph 2, the provisions established in [Article 5](https://wetten.overheid.nl/BWBV0006996), paragraph 1 do not apply to warships of the Parties and other government ships operated by one of the Parties for non-commercial purposes, for which cooperation is governed by separate arrangements or agreements.
 
-4.2. Het recht van onschuldige doorvaart wordt erkend en gewaarborgd voor alle vaartuigen, ongeacht de nationaliteit ervan.
+### TITLE 4. DEMARCATION OF, ACCESS TO AND MAINTENANCE OF THE BOUNDARY
 
-4.3. De afsluitingslijn van Oyster Pond wordt omschreven door een rechte (geodetische) lijn die de punten verbindt die worden aangeduid met de geografische coördinaten zoals vervat in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=B&z=2023-05-26&g=2023-05-26).
+##### Article 6. Provisions on the demarcation and maintenance of the boundary
 
-##### Artikel 5. Gemeenschappelijke bepalingen voor Oyster Pond en de Simpson Bay-lagune
+6.1. The demarcation of the boundary established in this Agreement must be specified and maintained in such a manner that the boundary line is clearly determined and can be easily identified along its entire length.
 
-5.1. Met in achtneming van de wet- en regelgeving die op het grondgebied van de betrokken partijen van kracht is, erkennen en waarborgen de partijen wederzijds, in Oyster Pond en in de Simpson Bay-lagune, met betrekking tot vaartuigen die hun vlag voeren het volgende:
+6.2. The demarcation of the land boundary is established by way of physical features (walls or low walls, monuments, rivers, roads, ridge lines, etc.) that exist on the date this Agreement enters into force, described and listed at a later date by the Committee established pursuant to [Article 9](https://wetten.overheid.nl/BWBV0006996). This Committee has the power to establish new demarcation features or modify or remove existing ones, if it deems this to be necessary.
 
-- a. toegang
+6.3. Each of the Parties, within the framework of its statutory, regulatory and administrative provisions, in particular for the part of the demarcation situated on its territory, shall take the necessary measures to ensure the monitoring and maintenance of the boundary demarcation and to prevent and, if necessary, suppress the destruction, deterioration and inappropriate use of physical demarcation features.
 
-- b. vrijheid van scheepvaart
+6.4. If the Committee established pursuant to [Article 9](https://wetten.overheid.nl/BWBV0006996) deems it necessary, a strip of land not exceeding 4 metres in width (2 metres on each side of the boundary) can be kept permanently cleared in order to ensure the boundary can be accessed, monitored and maintained.
 
-- c. voor anker gaan
+6.5. The costs resulting from the demarcation and the maintenance of the boundary shall be shared equally between the Parties. However, when demarcation work is made necessary due to works that are the subject of a concession, the costs related to this work shall be borne by the concession holder.
 
-- d. vrijheid van traditionele visserij
+6.6. The Parties accept that the equipment and materials needed to maintain the boundary shall freely enter into the territory of the other Party, on the understanding that, upon completion of the work, equipment, unused materials and means of transportation shall be returned to the territory of the Party where they originated.
 
-5.2. Onverminderd de bepalingen van het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=3&artikel=4&z=2023-05-26&g=2023-05-26), zijn de bepalingen van het eerste lid van dit artikel niet van toepassing op oorlogsschepen van de partijen en andere staatsschepen die door een van de partijen voor andere dan commerciële doeleinden worden gebruikt, waarvoor de samenwerking onder andere regelingen of overeenkomsten valt.
+6.7. The maintenance of immovable property belonging to public or private entities other than the Parties (such as monuments, walls, low walls and other artificial structures) retained as territorial demarcation features by the Parties remains the responsibility of the current owners of the immovable property. The owners are required to restore the aforementioned property to or keep it in a good state of repair, respect any technical requirements laid down by the Committee established pursuant to [Article 9](https://wetten.overheid.nl/BWBV0006996), grant competent agents of the Parties continued access to the demarcation features and the routes to access them, including by way of clearing them when the Committee established pursuant to Article 9 deems this necessary, and participate in or be represented during visits to the aforementioned features when required to do so by the competent agents. In the event of failure to comply, each Party can act on behalf of the owners in question and recover from them the costs incurred in so doing.
 
-## TITEL 4. AFBAKENING VAN, TOEGANG TOT EN ONDERHOUD VAN DE GRENS
+6.8. The provisions set out in paragraph 7 do not extend to new demarcation features that the Committee established pursuant to [Article 9](https://wetten.overheid.nl/BWBV0006996) may determine after this Agreement enters into force.
 
-##### Artikel 6. Bepalingen inzake afbakening en onderhoud van de grens
+6.9. New physical demarcation features placed along the axis of the boundary are the joint property of both Parties. Other new physical demarcation features remain the property of the Party on whose territory they are located.
 
-6.1. De afbakening van de grens zoals die in dit Verdrag is vastgesteld dient zodanig te worden aangeduid en onderhouden dat de loop van de grens duidelijk vastligt en over de gehele lengte gemakkelijk kan worden gevolgd.
+##### Article 7. Access to the boundary
 
-6.2. De afbakening van de landgrens op het land wordt verwezenlijkt door fysieke kenmerken (muren of muurtjes, monumenten, rivieren, wegen, kamlijnen, etc.) die reeds aanwezig zijn op de datum waarop dit Verdrag in werking treedt, en waarvan de beschrijving en de opsomming naderhand worden vastgelegd door de bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=4&artikel=9&z=2023-05-26&g=2023-05-26) ingestelde commissie. Deze commissie heeft de bevoegdheid nieuwe grensmarkeringen vast te stellen of bestaande markeringen aan te passen of weg te halen, indien zij dit nodig acht.
+7.1. The Parties shall guarantee free access to thoroughfares, roads and paths that run along the boundary line.
 
-6.3. Elke partij neemt, in het kader van haar wetgevende, regelgevende of administratieve bepalingen, met name wat betreft het deel van de afbakening op haar grondgebied, de noodzakelijke maatregelen om de bewaking en het onderhoud van de grensmarkeringen te waarborgen alsmede om de vernieling, het verval of het onjuiste gebruik van fysieke markeringen te voorkomen en, indien nodig, hier tegen op te treden.
+7.2. Without prejudice to paragraph 1 of this Article, agents carrying out a service of general interest shall have right of access if access to the boundary requires the use of a private thoroughfare.
 
-6.4. Indien de bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=4&artikel=9&z=2023-05-26&g=2023-05-26) ingestelde commissie zulks nodig acht kan een strook land van maximaal 4 meter breedte (2 meter aan weerszijde van de grens) permanent vrij van begroeiing worden gehouden om de toegang, bewaking en het onderhoud van de grens mogelijk te maken.
+##### Article 8. Structures near the boundary
 
-6.5. De partijen nemen elk de helft van de kosten die voortvloeien uit de afbakening en het onderhoud van de grens voor hun rekening. Wanneer er echter afbakeningswerkzaamheden noodzakelijk worden door het uitvoeren van werken die onder een concessie vallen, dan zijn de kosten die met deze werken verband houden voor rekening van de concessiehouder.
+8.1. No new structures can be erected within 2 metres of either side of the boundary. Along watercourses and paths forming the boundary, this distance is measured from the banks and edges thereof.
 
-6.6. De partijen aanvaarden dat de uitrusting en het materiaal dat nodig is voor het onderhoud van de grens het grondgebied van de andere partij vrij kunnen binnenkomen op voorwaarde dat de uitrusting en ongebruikte materialen alsmede de vervoersmiddelen na afloop van de werkzaamheden weer terugkeren naar het grondgebied van de partij waar ze vandaan kwamen.
+8.2. The Parties can, by mutual agreement in the framework of the Committee established pursuant to [Article 9](https://wetten.overheid.nl/BWBV0006996), consent to derogations from the provisions set out in paragraph 1 of this Article in order to take account of special circumstances at the boundary, on condition that the authorised structures do not prevent access to or the maintenance or monitoring of the boundary.
 
-6.7. Het onderhoud van onroerende zaken die toebehoren aan natuurlijke of rechtspersonen anders dan de partijen (zoals monumenten, muren en muurtjes en andere kunstmatige bouwwerken) die in stand worden gehouden als markering van hun grondgebied door de partijen blijft voor rekening van de huidige eigenaren van die zaken. De eigenaren zijn gehouden deze zaken in goede staat te houden of terug te brengen, de technische voorschriften van de bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=4&artikel=9&z=2023-05-26&g=2023-05-26) opgerichte commissie na te leven, de verantwoordelijke functionarissen van de partijen blijvend toegang te verlenen tot de grensmarkeringen en de wegen daarnaartoe, waaronder begrepen het vrij maken van het terrein wanneer de bij artikel 9 opgerichte commissie dit nodig acht, en deel te nemen aan of zich te laten vertegenwoordigen bij bezoeken aan genoemde markeringen wanneer dit door de verantwoordelijke functionarissen wordt vereist. Elke partij kan in de plaats treden van in gebreke blijvende eigenaren in geval van niet-naleving en vervolgens de namens hen gemaakte kosten bij hen terugvorderen.
+8.3. The provisions set out in paragraph 1 of this Article do not apply to structures dedicated to official services of one of the Parties or public works that it has authorised.
 
-6.8. De bepalingen van het zevende lid hebben geen betrekking op nieuwe markeringen die de bij artikel 9 opgerichte commissie kan vaststellen na de inwerkingtreding van dit Verdrag.
+8.4. Existing structures built in accordance with the conditions provided by the applicable regulations in the territory of each of the Parties shall be tolerated in accordance with acquired rights. If these structures are demolished or modified, their reconstruction or modification shall be authorised only if it is in conformity with the provisions set out in this Article, in accordance with the legislation and regulations of the Party concerned. The same applies to structures in a state of ruin.
 
-6.9. Nieuwe fysieke markeringen die worden geplaatst op de as van de grens zijn onverdeeld eigendom van de partijen. De overige nieuwe fysieke markeringen blijven eigendom van de partij op het grondgebied waarvan deze zijn neergezet.
+##### Article 9. Joint boundary monitoring and maintenance committee
 
-##### Artikel 7. Toegang tot de grens
+9.1. In order to enable the implementation of this Agreement, a joint boundary monitoring and maintenance committee (“the Committee”) shall be established upon entry into force of this Agreement.
 
-7.1. De partijen waarborgen vrije toegang tot de verkeerswegen, straten en paden die langs de grens lopen.
+9.2. The Committee shall comprise three representatives of the Parties.
 
-7.2. Onverminderd het eerste lid wordt een recht van toegang verleend aan functionarissen die belast zijn met een dienst van algemeen belang, indien de toegang tot de grens via een particuliere weg noodzakelijk is.
+9.3. Each delegation can appoint the experts it deems necessary.
 
-##### Artikel 8. Bouwwerken in de nabijheid van de grens
+9.4. Each Party shall be responsible for covering the costs of its delegation to the Committee.
 
-8.1. Er mag geen enkel nieuw bouwwerk verrijzen binnen twee meter aan weerszijde van de grens. Langs de waterlopen en wegen die de grens vormen, wordt deze afstand gemeten vanaf de bermen en de oevers.
+9.5. The Committee shall meet alternately in the Kingdom of the Netherlands and the French Republic, with the host Party acting as chair. The Committee shall meet at the request of either delegation, at least once a year.
 
-8.2. De partijen kunnen, met wederzijdse instemming in het kader van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=4&artikel=9&z=2023-05-26&g=2023-05-26) voorziene commissie, instemmen met afwijkingen van de bepalingen voorzien in het eerste lid van dit artikel om rekening te houden met bijzondere bestaande situaties aan de grens, op voorwaarde dat de goedgekeurde bouwwerken de toegang tot en het onderhoud en de bewaking van de grens niet verhinderen.
+9.6. The Committee shall take decisions unanimously. Issues on which no agreement can be reached within the Committee shall be submitted for consideration to the respective foreign ministries of the Parties, in order for them to endeavour to resolve these issues by mutual agreement.
 
-8.3. De bepalingen van het eerste lid van dit artikel hebben geen betrekking op bouwwerken van de officiële diensten van een van de partijen, noch op publieke werken die zij heeft goedgekeurd.
+9.7. The Committee may adopt its own rules of procedure.
 
-8.4. Bestaande bouwwerken die zijn gebouwd onder de voorwaarden die zijn vastgelegd in de regelgeving die van toepassing is op het grondgebied van elk van de partijen, worden gedoogd in overeenstemming met verworven rechten. In geval van sloop of aanpassing, wordt de reconstructie of aanpassing uitsluitend toegestaan indien dit voldoet aan de regels van dit artikel, met inachtneming van de wet- en regelgeving van de betrokken partij. Dit is eveneens van toepassing op vervallen gebouwen.
+9.8. The Committee shall be tasked with the following:
 
-##### Artikel 9. Gemengde commissie voor toezicht en onderhoud van de grens
+- a) Proposing modifications to [Annex A](https://wetten.overheid.nl/BWBV0006996) in accordance with [Article 3](https://wetten.overheid.nl/BWBV0006996), paragraph 5.
 
-9.1. Met het oog op de tenuitvoerlegging van dit Verdrag wordt er een gemengde commissie voor toezicht en onderhoud van de grens ingesteld (de commissie) bij de inwerkingtreding van dit Verdrag.
+- b) Establishing and updating a distribution plan for boundary maintenance and demarcation work, and ensuring the implementation thereof.
 
-9.2. De commissie bestaat uit drie vertegenwoordigers van de partijen.
+- c) Adopting all the measures necessary to ensure that documentation relating to the position of physical demarcation features and the description and realisation of the boundary line is drawn up without delay, in particular in the zones where this is lacking, and ensuring this documentation is kept up to date.
 
-9.3. Elke delegatie kan door haar nodig geachte deskundigen benoemen.
+- d) Reviewing the reports provided for by [Article 10](https://wetten.overheid.nl/BWBV0006996), paragraph 7 and taking the appropriate measures in accordance with its remit.
 
-9.4. Elke partij neemt de kosten van haar delegatie in de commissie voor haar rekening.
+- e) Addressing any difficulties which could result from the application of the provisions of this Agreement and proposing measures to the Parties in order to resolve these difficulties.
 
-9.5. De commissie houdt haar bijeenkomsten beurtelings in het Koninkrijk der Nederlanden en de Franse Republiek, waarbij de ontvangende partij voorzitter is. De commissie komt ten minste eenmaal per jaar bijeen op verzoek van een van de delegaties.
+9.9. The meetings of the Committee shall be the subject of official reports, done in two originals, one in French and one in English, intended for the Parties.
 
-9.6. De commissie neemt haar besluiten met eenparigheid van stemmen. Kwesties waarover in de commissie geen overeenstemming kan worden bereikt, worden ter overweging voorgelegd aan de ministeries van Buitenlandse Zaken van de partijen, die zich zullen inspannen om deze kwesties in onderling overleg op te lossen.
+##### Article 10. Competent agents for the maintenance of demarcation features
 
-9.7. De commissie kan een reglement van orde vaststellen.
+10.1. The maintenance, manufacture, installation, monitoring and replacement of physical demarcation features created by each of the Parties under this Agreement are assigned to a competent agent appointed by the respective Party.
 
-9.8. De commissie is belast met de volgende taken:
+10.2. The Parties shall share the names of their competent agents with one another.
 
-- a. Voorstellen van wijzigingen van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=A&z=2023-05-26&g=2023-05-26), in overeenstemming met [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=2&artikel=3&z=2023-05-26&g=2023-05-26).
+10.3. The competent agents can, with a view to the implementation of this Agreement, freely cross the boundary, provided they carry an identity document recognised by both States.
 
-- b. Vaststellen en actualiseren van een plan voor het verdelen van onderhouds- en markeringswerkzaamheden bij de grens en waarborgen van de uitvoering daarvan.
+10.4. The competent agents shall, during a joint inspection, draw up a summary of the work to be carried out in order to maintain or replace physical demarcation features; this summary must include an estimate of the costs relating to this work.
 
-- c. Aannemen van alle maatregelen die nodig zijn om ervoor te zorgen dat de documentatie betreffende de positie van de fysieke grensmarkeringen, de beschrijving en de realisatie van de grenslijn onverwijld wordt opgesteld, met name in gebieden waar deze ontbreekt, en dat deze wordt bijgehouden.
+10.5. The competent agents shall, following agreement from the Committee referred to in [Article 9](https://wetten.overheid.nl/BWBV0006996), arrange for the execution of the works that are the responsibility of the Party under whose authority they fall or that that Party must carry out on behalf of the other Party. However, in exceptional circumstances, for work of a clearly urgent nature, the competent agents can, on their own initiative, take the necessary precautionary measures, provided that they inform the Committee of this as soon as possible.
 
-- d. Beoordelen van de in [artikel 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=4&artikel=10&z=2023-05-26&g=2023-05-26), voorziene rapporten en nemen van passende maatregelen in overeenstemming met haar mandaat.
+10.6. The competent agents shall draw up an annual report on the work carried out to maintain or replace physical demarcation features; this report must set out the costs that relate to the work done.
 
-- e. Behandelen van problemen die kunnen resulteren uit de toepassing van de bepalingen van dit Verdrag en voorstellen van maatregelen aan de partijen om deze op te lossen.
+10.7. Activities provided for in this Article shall be the subject of a report, done in two originals, one in French and one in English, signed by the competent agents of the Parties. This report shall be addressed to the Committee established pursuant to [Article 9](https://wetten.overheid.nl/BWBV0006996) and to the Parties.
 
-9.9. Van de bijeenkomsten van de partijen wordt een officieel verslag gemaakt, opgesteld in twee originele exemplaren, een in het Frans en een in het Engels, die voor de partijen zijn bestemd.
+### TITLE 5. EFFECTS OF THE DELIMITATION ON SITUATIONS CREATED PRIOR TO THIS AGREEMENT
 
-##### Artikel 10. Functionarissen die verantwoordelijk zijn voor het onderhoud van de grensmarkeringen
+##### Article 11. Situation of natural and legal persons
 
-10.1. Het onderhoud, de vervaardiging, de installatie, de bewaking en de vervanging van fysieke grensmarkeringen die door elke partij in het kader van dit Verdrag zijn aangebracht, wordt toevertrouwd aan een verantwoordelijk functionaris die door de respectieve partij wordt benoemd.
+11.1. The Parties shall guarantee to uphold rights acquired by natural and legal persons directly affected by the boundary delimitation, in accordance with the legal and regulatory provisions in force in the territory of the Parties concerned.
 
-10.2. De partijen stellen elkaar op de hoogte van de namen van hun verantwoordelijke functionarissen.
+11.2. Properties, temporary occupancies or other particulars that are to be recorded in one or the other of the Parties' mortgage registers, land registers or other registers must, pursuant to the provisions of this Agreement, be registered with the competent authority within a period of two years following the entry into force of this Agreement.
 
-10.3. De verantwoordelijke functionarissen kunnen, voor de uitvoering van dit Verdrag, de grens vrij oversteken mits zij een door beide Staten erkend identiteitsbewijs bij zich dragen.
+11.3. Where appropriate, property shall be recorded in mortgage registers, land registers or other registers of the competent authority and removed from registers of the other Party.
 
-10.4. De verantwoordelijke functionarissen stellen tijdens een gezamenlijke inspectie een overzicht van uit te voeren werkzaamheden op ten behoeve van het onderhoud of de vervanging van fysieke grensmarkeringen; dit overzicht dient ook een schatting van de kosten van de werkzaamheden te bevatten.
+11.4. The activities of natural and legal persons directly affected by the boundary delimitation can be continued in accordance with the legal and regulatory provisions in force in the territory of the Parties concerned.
 
-10.5. De verantwoordelijke functionarissen laten, na instemming van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=4&artikel=9&z=2023-05-26&g=2023-05-26) bedoelde commissie, de werkzaamheden uitvoeren die de verantwoordelijkheid zijn van de partij onder wier gezag zij vallen of die deze partij dient uit te voeren voor rekening van de andere partij. In uitzonderlijke omstandigheden echter, wanneer de werkzaamheden duidelijk urgent zijn, kunnen de verantwoordelijke functionarissen op eigen initiatief de noodzakelijke voorzorgsmaatregelen treffen, mits zij de commissie hiervan zo spoedig mogelijk in kennis stellen.
+##### Article 12. Rules on administrative issues and the situation of natural and legal persons
 
-10.6. De verantwoordelijke functionarissen stellen een jaarverslag op over de werkzaamheden die zijn uitgevoerd om de fysieke grensmarkeringen te onderhouden of te vervangen; dit rapport dient de kosten van de uitgevoerde werkzaamheden te vermelden.
+12.1. In the twelve months following the entry into force of this Agreement, each of the Parties shall regularise, in so far as possible, the situations of natural and legal persons affected by this Agreement, and the administrative issues connected to the delimitation implemented under [Article 3](https://wetten.overheid.nl/BWBV0006996) of this Agreement.
 
-10.7. Van de in dit artikel voorziene werkzaamheden wordt een officieel verslag gemaakt, opgesteld in twee originele exemplaren, een in het Frans en een in het Engels, ondertekend door de verantwoordelijke functionarissen van de partijen. Dit verslag wordt verzonden gericht aan de bij [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=4&artikel=9&z=2023-05-26&g=2023-05-26) ingestelde commissie en naar de partijen.
+12.2. Each of the Parties can refer any issue or situation under this article to the Committee established pursuant to [Article 9](https://wetten.overheid.nl/BWBV0006996).
 
-## TITEL 5. GEVOLGEN VAN DE AFBAKENING VOOR EERDER ONTSTANE SITUATIES
+### TITLE 6. CROSS-BORDER COOPERATION
 
-##### Artikel 11. Situatie van natuurlijke en rechtspersonen
+##### Article 13. Cross-border cooperation
 
-11.1. De partijen waarborgen dat zij de verworven rechten van natuurlijke en rechtspersonen die direct geraakt worden door de afbakening van de grens handhaven, in overeenstemming met de wet- en regelgeving die van kracht is op het grondgebied van de betrokken partijen.
+13.1. The Parties recognise the need to conclude, in a cross-border framework agreement, cross-border cooperation arrangements in areas of common interest.
 
-11.2. De eigendommen, onderkomens die tijdelijk worden bewoond en overige zaken die in een van de hypotheek-, kadastrale of andere registers van de partijen dienen te worden ingeschreven, dienen krachtens de bepalingen van dit Verdrag binnen twee jaar na de inwerkingtreding van dit Verdrag bij de bevoegde autoriteit te worden geregistreerd.
+13.2. The Parties shall promote mechanisms that facilitate cross-border cooperation, in particular at local level.
 
-11.3. In voorkomend geval worden de eigendommen in de hypotheek-, kadastrale of andere registers van de bevoegde autoriteit opgenomen en uit de registers van de andere partij geschrapt.
+### TITLE 7. FINAL PROVISIONS
 
-11.4. De activiteiten van natuurlijke en rechtspersonen die rechtstreeks door de afbakening van de grens worden getroffen, kunnen worden voortgezet in overeenstemming met de wet- en regelgeving die van kracht is op het grondgebied van de betrokken partijen.
+##### Article 14. Dispute resolution
 
-##### Artikel 12. Afwikkeling van administratieve kwesties en situaties van natuurlijke en rechtspersonen
+Any dispute between the Parties concerning the interpretation or application of this Agreement shall be settled peacefully by consultation and negotiation, in accordance with international law.
 
-12.1. Binnen twaalf maanden na de inwerkingtreding van dit Verdrag regelt elke partij, voor zover mogelijk, de situaties van natuurlijke en rechtspersonen waarop deze overeenkomst van toepassing is, en de administratieve kwesties die verband houden met de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=2&artikel=3&z=2023-05-26&g=2023-05-26) van dit Verdrag vastgestelde afbakening.
+##### Article 15. Amendment
 
-12.2. Elke partij kan elke situatie of kwestie uit hoofde van dit artikel voorleggen aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=4&artikel=9&z=2023-05-26&g=2023-05-26) bedoelde commissie.
+This Agreement can be amended at any time by mutual written agreement between the Parties. Without prejudice to [Article 16](https://wetten.overheid.nl/BWBV0006996), any amendment shall enter into force in accordance with the provisions laid down in [Article 17](https://wetten.overheid.nl/BWBV0006996).
 
-## TITEL 6. GRENSOVERSCHRIJDENDE SAMENWERKING
+##### Article 16. Annexes
 
-##### Artikel 13. Grensoverschrijdende samenwerking
+16.1. [Annexes A](https://wetten.overheid.nl/BWBV0006996) and [B](https://wetten.overheid.nl/BWBV0006996) form an integral part of this Agreement.
 
-13.1. De partijen zijn het erover eens dat het nodig is om, in een grens-kaderovereenkomst, regelingen voor grensoverschrijdende samenwerking op gebieden van gemeenschappelijk belang te sluiten.
+16.2. [Annexes A](https://wetten.overheid.nl/BWBV0006996) and [B](https://wetten.overheid.nl/BWBV0006996) to this Agreement can be modified by mutual agreement between the Parties through an exchange of diplomatic notes.
 
-13.2. De partijen bevorderen mechanismen voor grensoverschrijdende samenwerking, met name op lokaal niveau.
+16.3. The boundary line determined in accordance with this Agreement is drawn by way of illustration on the map in [Annex C](https://wetten.overheid.nl/BWBV0006996) of this Agreement.
 
-## TITEL 7. SLOTBEPALINGEN
+16.4. For the purposes of the application of [Article 3, paragraph 5](https://wetten.overheid.nl/BWBV0006996), a certified copy of the Werbata map is appended to this Agreement as [Annex D](https://wetten.overheid.nl/BWBV0006996).
 
-##### Artikel 14. Regeling van geschillen
+##### Article 17. Entry into force
 
-Elk geschil dat tussen de partijen kan ontstaan met betrekking tot de interpretatie of toepassing van dit Verdrag, wordt vreedzaam opgelost door middel van overleg en onderhandelingen, in overeenstemming met het internationaal recht.
-
-##### Artikel 15. Wijziging
-
-Dit Verdrag kan te allen tijde door middel van schriftelijke onderlinge overeenstemming tussen de partijen worden gewijzigd. Onverminderd [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=7&artikel=16&z=2023-05-26&g=2023-05-26) treedt elke wijziging in werking in overeenstemming met de bepalingen van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=7&artikel=17&z=2023-05-26&g=2023-05-26).
-
-##### Artikel 16. Bijlagen
-
-16.1. De [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=A&z=2023-05-26&g=2023-05-26) en [B](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=B&z=2023-05-26&g=2023-05-26) bij dit Verdrag maken integraal deel uit van het Verdrag.
-
-16.2. De [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=A&z=2023-05-26&g=2023-05-26) en [B](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=B&z=2023-05-26&g=2023-05-26) van dit Verdrag kunnen in onderlinge overeenstemming tussen de partijen worden gewijzigd door middel van een diplomatieke notawisseling.
-
-16.3. De loop van de grens die overeenkomstig dit Verdrag is vastgesteld wordt ter illustratie weergegeven in de kaart vervat in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=C&z=2023-05-26&g=2023-05-26) bij dit Verdrag.
-
-16.4. Ten behoeve van de toepassing van [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&titeldeel=2&artikel=3&z=2023-05-26&g=2023-05-26), wordt een gewaarmerkte kopie van de Werbata-kaart als [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006996&bijlage=D&z=2023-05-26&g=2023-05-26) toegevoegd aan dit Verdrag.
-
-##### Artikel 17. Inwerkingtreding
-
-Elke partij stelt de andere partij in kennis van de voltooiing van de voor de inwerkingtreding van dit Verdrag vereiste interne procedures. Dit Verdrag wordt van kracht op de eerste dag van de tweede maand na de datum van ontvangst van de laatste kennisgeving.
+Each Party shall notify the other of the completion of its domestic procedures necessary for this Agreement to enter into force. This Agreement shall enter into force on the first day of the second month following the date of receipt of the last notification.
 
 IN WITNESS WHEREOF, the undersigned, duly authorised by their respective governments, have signed this Agreement.
 
 DONE at Belle Plaine / Belvédère, on May 26th 2023, in two originals, in the English and French language, both texts being equally authentic.
 
-**For the government of the Kingdom of the Netherlands,**
+*For the government of the Kingdom of the Netherlands,*
 
 SILVERIA ELFRIEDA JACOBS
 
-**For the government of the French Republic,**
+*For the government of the French Republic,*
 
 GÉRALD DARMANIN

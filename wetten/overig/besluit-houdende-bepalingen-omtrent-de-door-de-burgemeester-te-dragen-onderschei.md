@@ -9,7 +9,7 @@ laatste_update: 1994-03-02
 status: geldig
 toestand: 1994-03-02
 bron: "https://wetten.overheid.nl/BWBR0001843"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 16 november 1852, houdende bepalingen omtrent de door den Burgemeester te dragen onderscheidingsteekenen

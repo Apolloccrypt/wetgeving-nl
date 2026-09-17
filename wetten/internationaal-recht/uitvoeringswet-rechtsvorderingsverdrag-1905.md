@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0001875"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 12 juni 1909, tot uitvoering van het op 17 juli 1905 te 's-Gravenhage gesloten verdrag betreffende de burgerlijke rechtsvordering

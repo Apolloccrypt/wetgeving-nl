@@ -9,7 +9,7 @@ laatste_update: 1947-10-13
 status: geldig
 toestand: 1947-10-13
 bron: "https://wetten.overheid.nl/BWBR0002033"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 11 oktober 1947, tot instelling van een Departement van Algemeen Bestuur, dat de naam zal dragen van Ministerie van Algemene Zaken

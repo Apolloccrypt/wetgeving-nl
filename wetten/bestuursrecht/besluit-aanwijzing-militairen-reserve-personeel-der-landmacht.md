@@ -9,7 +9,7 @@ laatste_update: 1961-11-13
 status: geldig
 toestand: 1961-11-13
 bron: "https://wetten.overheid.nl/BWBR0002275"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 26 februari 1958, houdende aanwijzing van militairen, behorende tot het reserve-personeel der landmacht, die na een doorlopende werkelijke dienst van vijf jaren de hoedanigheid van reservist in de zin van de Pensioenwet bijzondere groepen reserve-personeel 1956 verkrijgen

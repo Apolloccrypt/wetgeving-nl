@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0002306"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 24 december 1958, houdende uitvoering van het op 1 maart 1954 te 's-Gravenhage ondertekende verdrag betreffende de burgerlijke rechtsvordering

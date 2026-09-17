@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0002052"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 22 oktober 1949, tot vaststelling van een algemene maatregel van bestuur, als bedoeld in artikel 3, derde lid, en in artikel 39 der Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers

@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052775"
-opgehaald: 2026-09-16
+opgehaald: 2026-09-17
 ---
 
 # Inschrijvingsvoorwaarden advocatuur 2026-II

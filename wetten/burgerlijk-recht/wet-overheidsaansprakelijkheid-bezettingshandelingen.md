@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0002065"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 13 oktober 1950, houdende regelen met betrekking tot de aansprakelijkheid van de Overheid voor handelingen, verricht tijdens of ten gevolge van de bezetting

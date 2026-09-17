@@ -9,7 +9,7 @@ laatste_update: 2002-07-10
 status: geldig
 toestand: 2002-07-10
 bron: "https://wetten.overheid.nl/BWBR0001962"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 18 december 1933, tot vaststelling van een algemene maatregel van bestuur, ter uitvoering van de wet op de strandvonderij van 27 juli 1931, Stb. 321

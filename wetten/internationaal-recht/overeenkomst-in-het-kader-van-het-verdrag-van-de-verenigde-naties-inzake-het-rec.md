@@ -1,1260 +1,1215 @@
 ---
 title: "Overeenkomst in het kader van het Verdrag van de Verenigde Naties inzake het recht van de zee, inzake het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht"
 identifier: "BWBV0007029"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-06-19"
-last_updated: "2023-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007029"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005646073"
-version_id: "10006221492"
-internal_id: "C10010061111"
-label_id: "10005629644"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007029/2023-06-19/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0007029&z=2023-06-19&g=2023-06-19"
-jci_1_0: "1.0:c:BWBV0007029&g=2023-06-19"
-citeertitel_status: "redactioneel"
+laatste_update: 2023-06-19
+status: geldig
+toestand: 2023-06-19
+bron: "https://wetten.overheid.nl/BWBV0007029"
+opgehaald: 2026-09-17
 ---
+
 # Overeenkomst in het kader van het Verdrag van de Verenigde Naties inzake het recht van de zee, inzake het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht
 
-Preambule
+*Preamble The Parties to this Agreement, Recalling the relevant provisions of the United Nations Convention on the Law of the Sea of 10 December 1982, including the obligation to protect and preserve the marine environment, Stressing the need to respect the balance of rights, obligations and interests set out in the Convention, Recognizing the need to address, in a coherent and cooperative manner, biological diversity loss and degradation of ecosystems of the ocean, due, in particular, to climate change impacts on marine ecosystems, such as warming and ocean deoxygenation, as well as ocean acidification, pollution, including plastic pollution, and unsustainable use, Conscious of the need for the comprehensive global regime under the Convention to better address the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction, Recognizing the importance of contributing to the realization of a just and equitable international economic order which takes into account the interests and needs of humankind as a whole and, in particular, the special interests and needs of developing States, whether coastal or landlocked, Recognizing also that support for developing States Parties through capacity-building and the development and transfer of marine technology are essential elements for the attainment of the objectives of the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction, Recalling the United Nations Declaration on the Rights of Indigenous Peoples, Affirming that nothing in this Agreement shall be construed as diminishing or extinguishing the existing rights of Indigenous Peoples, including as set out in the United Nations Declaration on the Rights of Indigenous Peoples, or of, as appropriate, local communities, Recognizing the obligation set out in the Convention to assess, as far as practicable, the potential effects on the marine environment of activities under a State’s jurisdiction or control when the State has reasonable grounds for believing that such activities may cause substantial pollution of or significant and harmful changes to the marine environment, Mindful of the obligation set out in the Convention to take all measures necessary to ensure that pollution arising from incidents or activities does not spread beyond the areas where sovereign rights are exercised in accordance with the Convention, Desiring to act as stewards of the ocean in areas beyond national jurisdiction on behalf of present and future generations by protecting, caring for and ensuring responsible use of the marine environment, maintaining the integrity of ocean ecosystems and conserving the inherent value of biological diversity of areas beyond national jurisdiction, Acknowledging that the generation of, access to and utilization of digital sequence information on marine genetic resources of areas beyond national jurisdiction, together with the fair and equitable sharing of benefits arising from its utilization, contribute to research and innovation and to the general objective of this Agreement, Respecting the sovereignty, territorial integrity and political independence of all States, Recalling that the legal status of non-parties to the Convention or any other related agreements is governed by the rules of the law of treaties, Recalling also that, as set out in the Convention, States are responsible for the fulfilment of their international obligations concerning the protection and preservation of the marine environment and may be liable in accordance with international law, Committed to achieving sustainable development, Aspiring to achieve universal participation, Have agreed as follows:*
 
-De Partijen bij deze Overeenkomst,
+### PART I. GENERAL PROVISIONS
 
-Herinnerende aan de relevante bepalingen van het [Verdrag van de Verenigde Naties inzake het recht van de zee](onbekend) van 10 december 1982, waaronder de verplichting om het mariene milieu te beschermen en te behouden,
+##### Article 1. Use of terms
 
-Beklemtonende dat het in het [Verdrag](onbekend) vastgelegde evenwicht tussen rechten, verplichtingen en belangen in acht moet worden genomen,
+For the purposes of this Agreement:
 
-De noodzaak erkennende van een coherente en coöperatieve aanpak van het verlies aan biologische diversiteit en de aantasting van ecosystemen van de oceanen, met name als gevolg van de effecten van de klimaatverandering op mariene ecosystemen, zoals opwarming en zuurstofverlies van de oceanen, alsook oceaanverzuring, vervuiling, met inbegrip van plasticvervuiling, en niet-duurzaam gebruik,
+- 1. “Area-based management tool” means a tool, including a marine protected area, for a geographically defined area through which one or several sectors or activities are managed with the aim of achieving particular conservation and sustainable use objectives in accordance with this Agreement.
 
-Zich bewust van de noodzaak van de alomvattende mondiale regeling in het kader van het [Verdrag](onbekend) om het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht beter aan te pakken,
+- 2. “Areas beyond national jurisdiction” means the high seas and the Area.
 
-Erkennende dat het belangrijk is bij te dragen tot de verwezenlijking van een rechtvaardige en billijke economische orde waarin rekening wordt gehouden met de belangen en behoeften van de mensheid als geheel en, in het bijzonder, met de bijzondere belangen en behoeften van ontwikkelingslanden, ongeacht of deze kuststaten of niet aan zee grenzende staten zijn,
+- 3. “Biotechnology” means any technological application that uses biological systems, living organisms, or derivatives thereof, to make or modify products or processes for specific use.
 
-Tevens erkennende dat steun aan ontwikkelingslanden die Partij zijn door middel van capaciteitsopbouw en de ontwikkeling en overdracht van mariene technologie essentiële elementen zijn voor de verwezenlijking van de doelstellingen inzake het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht,
+- 4. “Collection in situ”, in relation to marine genetic resources, means the collection or sampling of marine genetic resources in areas beyond national jurisdiction.
 
-Herinnerende aan de Verklaring van de Verenigde Naties over de rechten van inheemse volken,
+- 5. “Convention” means the [United Nations Convention on the Law of the Sea](https://wetten.overheid.nl/BWBV0003172) of 10 December 1982.
 
-Bevestigende dat niets in deze Overeenkomst mag worden uitgelegd als een aantasting of verval van de bestaande rechten van inheemse volken, met inbegrip van de rechten die zijn neergelegd in de Verklaring van de Verenigde Naties over de rechten van inheemse volken, of, in voorkomend geval, van lokale gemeenschappen,
+- 6. “Cumulative impacts” means the combined and incremental impacts resulting from different activities, including known past and present and reasonably foreseeable activities, or from the repetition of similar activities over time, and the consequences of climate change, ocean acidification and related impacts.
 
-Erkennende de in het [Verdrag](onbekend) neergelegde verplichting om, voor zover praktisch uitvoerbaar, de mogelijke gevolgen voor het mariene milieu te beoordelen van activiteiten die onder de rechtsmacht of controle van een staat vallen, wanneer de staat redelijke gronden heeft om aan te nemen dat dergelijke activiteiten aanzienlijke verontreiniging van of aanmerkelijke en schadelijke veranderingen in het mariene milieu teweeg kunnen brengen,
+- 7. “Environmental impact assessment” means a process to identify and evaluate the potential impacts of an activity to inform decision-making.
 
-Indachtig het feit dat de in het [Verdrag](onbekend) neergelegde verplichting om alle nodige maatregelen te nemen om ervoor te zorgen dat verontreiniging ten gevolge van incidenten of activiteiten zich niet verspreidt buiten de gebieden waar overeenkomstig het Verdrag soevereine rechten worden uitgeoefend,
+- 8. “Marine genetic resources” means any material of marine plant, animal, microbial or other origin containing functional units of heredity of actual or potential value.
 
-Wensende om namens de huidige en toekomstige generaties op te treden als rentmeesters van de oceaan in gebieden voorbij de grenzen van de nationale rechtsmacht door het mariene milieu te beschermen, te verzorgen en een verantwoord gebruik ervan te waarborgen, de integriteit van oceaanecosystemen in stand te houden en de inherente waarde van de biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht in stand te houden,
+- 9. “Marine protected area” means a geographically defined marine area that is designated and managed to achieve specific long-term biological diversity conservation objectives and may allow, where appropriate, sustainable use provided it is consistent with the conservation objectives.
 
-Beseffende dat het genereren van, de toegang tot en het gebruik van digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht, samen met de eerlijke en billijke verdeling van de voordelen die voortvloeien uit het gebruik ervan, bijdragen tot onderzoek en innovatie en tot de algemene doelstelling van deze Overeenkomst,
+- 10. “Marine technology” includes, inter alia, information and data, provided in a user-friendly format, on marine sciences and related marine operations and services; manuals, guidelines, criteria, standards and reference materials; sampling and methodology equipment; observation facilities and equipment for in situ and laboratory observations, analysis and experimentation; computer and computer software, including models and modelling techniques; related biotechnology; and expertise, knowledge, skills, technical, scientific and legal know-how and analytical methods related to the conservation and sustainable use of marine biological diversity.
 
-Respecterende de soevereiniteit, territoriale integriteit en politieke onafhankelijkheid van alle staten,
+- 11. “Party” means a State or regional economic integration organization that has consented to be bound by this Agreement and for which this Agreement is in force.
 
-Eraan herinnerende dat de rechtspositie van niet-Partijen bij het [Verdrag](onbekend) of andere daarmee verband houdende Overeenkomsten wordt beheerst door de regels van het Verdragenrecht,
+- 12. “Regional economic integration organization” means an organization constituted by sovereign States of a given region to which its member States have transferred competence in respect of matters governed by this Agreement and which has been duly authorized, in accordance with its internal procedures, to sign, ratify, approve, accept or accede to this Agreement.
 
-Tevens eraan herinnerende dat, zoals bepaald in het [Verdrag](onbekend), de staten verantwoordelijk zijn voor het nakomen van hun internationale verplichtingen met betrekking tot de bescherming en het behoud van het mariene milieu en aansprakelijk kunnen zijn overeenkomstig het internationaal recht,
+- 13. “Sustainable use” means the use of components of biological diversity in a way and at a rate that does not lead to a long-term decline of biological diversity, thereby maintaining its potential to meet the needs and aspirations of present and future generations.
 
-Vastbesloten tot duurzame ontwikkeling te komen,
+- 14. “Utilization of marine genetic resources” means to conduct research and development on the genetic and/or biochemical composition of marine genetic resources, including through the application of biotechnology, as defined in paragraph 3 above.
 
-Strevende naar universele participatie,
+##### Article 2. General objective
 
-Zijn het volgende overeengekomen:
+The objective of this Agreement is to ensure the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction, for the present and in the long term, through effective implementation of the relevant provisions of the [Convention](https://wetten.overheid.nl/BWBV0003172) and further international cooperation and coordination.
 
-## DEEL I. ALGEMENE BEPALINGEN
+##### Article 3. Scope of application
 
-##### Artikel 1. Gebruikte termen
+This Agreement applies to areas beyond national jurisdiction.
 
-Voor de toepassing van deze Overeenkomst wordt verstaan onder:
+##### Article 4. Exceptions
 
-- 1. „gebiedsgericht beheersinstrument”: een instrument, met inbegrip van een beschermd marien gebied, voor een geografisch afgebakend gebied waarmee een of meer sectoren of activiteiten worden beheerd met het oog op de verwezenlijking van bepaalde doelstellingen op het gebied van instandhouding en duurzaam gebruik in overeenstemming met deze Overeenkomst;
+This Agreement does not apply to any warship, military aircraft or naval auxiliary. Except for [Part II](https://wetten.overheid.nl/BWBV0007029), this Agreement does not apply to other vessels or aircraft owned or operated by a Party and used, for the time being, only on government non-commercial service. However, each Party shall ensure, by the adoption of appropriate measures not impairing the operations or operational capabilities of such vessels or aircraft owned or operated by it, that such vessels or aircraft act in a manner consistent, so far as is reasonable and practicable, with this Agreement.
 
-- 2. „gebieden voorbij de grenzen van de nationale rechtsmacht”: de volle zee en het „gebied” ;
+##### Article 5. Relationship between this Agreement and the Convention and relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies
 
-- 3. „biotechnologie”: elke technologische toepassing waarbij biologische systemen, levende organismen of afleidingen daarvan worden gebruikt om producten of processen tot stand te brengen of te veranderen voor specifieke doeleinden;
+1. This Agreement shall be interpreted and applied in the context of and in a manner consistent with the [Convention](https://wetten.overheid.nl/BWBV0003172). Nothing in this Agreement shall prejudice the rights, jurisdiction and duties of States under the Convention, including in respect of the exclusive economic zone and the continental shelf within and beyond 200 nautical miles.
 
-- 4. „verzameling **in situ**”: met betrekking tot mariene genetische bronnen, de verzameling of bemonstering van mariene genetische bronnen in gebieden voorbij de grenzen van de nationale rechtsmacht;
+2. This Agreement shall be interpreted and applied in a manner that does not undermine relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies and that promotes coherence and coordination with those instruments, frameworks and bodies.
 
-- 5. „Verdrag”: het [Verdrag van de Verenigde Naties inzake het recht van de zee](onbekend) van 10 december 1982;
+3. The legal status of non-parties to the [Convention](https://wetten.overheid.nl/BWBV0003172) or any other related agreements with regard to those instruments is not affected by this Agreement.
 
-- 6. „cumulatieve effecten”: de gecombineerde en incrementele effecten die voortvloeien uit verschillende activiteiten, met inbegrip van bekende vroegere en huidige en redelijkerwijs te voorziene activiteiten, of uit de herhaling van soortgelijke activiteiten in de loop van de tijd, en de gevolgen van klimaatverandering, oceaanverzuring en daarmee samenhangende effecten;
+##### Article 6. Without prejudice
 
-- 7. „milieueffectbeoordeling”: een proces om de potentiële effecten van een activiteit vast te stellen en te evalueren ter onderbouwing van de besluitvorming;
+This Agreement, including any decision or recommendation of the Conference of the Parties or any of its subsidiary bodies, and any acts, measures or activities undertaken on the basis thereof, shall be without prejudice to, and shall not be relied upon as a basis for asserting or denying any claims to, sovereignty, sovereign rights or jurisdiction, including in respect of any disputes relating thereto.
 
-- 8. „mariene genetische bronnen”: elk materiaal van mariene plantaardige, dierlijke, microbiële of andere oorsprong dat functionele eenheden van erfelijkheid van feitelijke of potentiële waarde bevat;
+##### Article 7. General principles and approaches
 
-- 9. „beschermd marien gebied”: een geografisch afgebakend marien gebied dat is aangeduid en beheerd om specifieke langetermijninstandhoudingsdoelstellingen inzake biologische diversiteit te bereiken en dat, in voorkomend geval, duurzaam gebruik kan toestaan, mits dit strookt met de instandhoudingsdoelstellingen;
+In order to achieve the objectives of this Agreement, Parties shall be guided by the following principles and approaches:
 
-- 10. „mariene technologie”: onder meer informatie en gegevens, in een gebruikersvriendelijk formaat, over mariene wetenschappen en daarmee verband houdende mariene activiteiten en diensten; handleidingen, richtsnoeren, criteria, normen en referentiematerialen; apparatuur voor bemonstering en methodologie; observatiefaciliteiten en -apparatuur voor observaties, analyse en experimenten in laboratoria en **in situ**; computer- en computerprogrammatuur, met inbegrip van modellen en modelleringstechnieken; aanverwante biotechnologie; en deskundigheid, kennis, vaardigheden, technische, wetenschappelijke en juridische knowhow en analysemethoden met betrekking tot het behoud en het duurzame gebruik van mariene biologische diversiteit;
+- a) The polluter-pays principle;
 
-- 11. „Partij”: een staat of regionale organisatie voor economische integratie die ermee heeft ingestemd door deze Overeenkomst gebonden te zijn en waarvoor deze Overeenkomst van kracht is;
+- b) The principle of the common heritage of humankind which is set out in the [Convention](https://wetten.overheid.nl/BWBV0003172);
 
-- 12. „regionale organisatie voor economische integratie”: een organisatie bestaande uit soevereine staten van een gegeven regio waaraan haar lidstaten bevoegdheden hebben overgedragen met betrekking tot aangelegenheden die onder deze Overeenkomst vallen, en die Overeenkomstig haar interne procedures naar behoren gemachtigd is om deze Overeenkomst te ondertekenen, te bekrachtigen, goed te keuren, te aanvaarden of ertoe toe te treden;
+- c) The freedom of marine scientific research, together with other freedoms of the high seas;
 
-- 13. „duurzaam gebruik”: het gebruik van componenten van biologische diversiteit op een wijze en in een tempo die (dat) op lange termijn niet leidt tot een afname van de biologische diversiteit, waardoor het potentieel ervan behouden blijft om te voldoen aan de behoeften en aspiraties van de huidige en toekomstige generaties;
+- d) The principle of equity and the fair and equitable sharing of benefits;
 
-- 14. „gebruik van mariene genetische bronnen”: het verrichten van onderzoek en ontwikkeling van de genetische en/of biochemische samenstelling van mariene genetische bronnen, ook middels de toepassing van biotechnologie, zoals gedefinieerd in bovenvermeld lid 3.
+- e) The precautionary principle or precautionary approach, as appropriate;
 
-##### Artikel 2. Algemene doelstelling
+- f) An ecosystem approach;
 
-Het doel van deze Overeenkomst is te zorgen voor het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht, voor het heden en op lange termijn, door middel van een doeltreffende uitvoering van de desbetreffende bepalingen van het [Verdrag](onbekend) en verdere internationale samenwerking en coördinatie.
+- g) An integrated approach to ocean management;
 
-##### Artikel 3. Toepassingsgebied
+- h) An approach that builds ecosystem resilience, including to adverse effects of climate change and ocean acidification, and also maintains and restores ecosystem integrity, including the carbon cycling services that underpin the role of the ocean in climate;
 
-Deze Overeenkomst is van toepassing op gebieden voorbij de grenzen van de nationale rechtsmacht.
+- i) The use of the best available science and scientific information;
 
-##### Artikel 4. Uitzonderingen
+- j) The use of relevant traditional knowledge of Indigenous Peoples and local communities, where available;
 
-Deze Overeenkomst is niet van toepassing op oorlogsschepen, militaire vliegtuigen of marinehulpschepen. Met uitzondering van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&z=2023-06-19&g=2023-06-19) is deze Overeenkomst niet van toepassing op andere schepen of luchtvaartuigen die eigendom zijn van of geëxploiteerd worden door een Partij en die voorlopig uitsluitend worden gebruikt voor niet-commerciële overheidsdiensten. Elke Partij ziet er evenwel op toe dat deze vaartuigen of luchtvaartuigen, door passende maatregelen vast te stellen die geen afbreuk doen aan de activiteiten of de operationele capaciteiten van dergelijke vaartuigen of luchtvaartuigen die haar eigendom zijn of door haar worden geëxploiteerd, handelen op een wijze die, voor zover redelijk en uitvoerbaar, in overeenstemming is met deze Overeenkomst.
+- k) The respect, promotion and consideration of their respective obligations, as applicable, relating to the rights of Indigenous Peoples or of, as appropriate, local communities when taking action to address the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction;
 
-##### Artikel 5. Verhouding tussen deze Overeenkomst en het [Verdrag](onbekend) en relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties
+- l) The non-transfer, directly or indirectly, of damage or hazards from one area to another and the non-transformation of one type of pollution into another in taking measures to prevent, reduce and control pollution of the marine environment;
 
-1. Deze Overeenkomst wordt uitgelegd en toegepast in de context van en in overeenstemming met het [Verdrag](onbekend). Niets in deze Overeenkomst doet afbreuk aan de rechten, rechtsmacht en plichten van staten uit hoofde van het Verdrag, ook met betrekking tot de exclusieve economische zone en het continentaal plat binnen en buiten 200 zeemijl.
+- m) Full recognition of the special circumstances of small island developing States and of least developed countries;
 
-2. Deze Overeenkomst wordt zodanig uitgelegd en toegepast dat de relevante rechtsinstrumenten en -kaders en de relevante mondiale, regionale, subregionale en sectorale organisaties niet worden ondermijnd en dat de samenhang en coördinatie met die instrumenten, kaders en organisaties wordt bevorderd.
+- n) Acknowledgement of the special interests and needs of landlocked developing countries.
 
-3. Deze Overeenkomst laat de rechtspositie van niet-Partijen bij het [Verdrag](onbekend) of andere daarmee verband houdende Overeenkomsten met betrekking tot die instrumenten onverlet.
+##### Article 8. International cooperation
 
-##### Artikel 6. Zonder prejudicie
+1. Parties shall cooperate under this Agreement for the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction, including through strengthening and enhancing cooperation with and promoting cooperation among relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies in the achievement of the objectives of this Agreement.
 
-Deze Overeenkomst, met inbegrip van besluiten of aanbevelingen van de Conferentie van de Partijen of een van haar hulporganen, en alle op basis daarvan ondernomen handelingen, maatregelen of activiteiten, doet geen afbreuk aan en kan niet worden gebruikt als grondslag voor het geldend maken of ontkennen van aanspraken op, soevereiniteit, soevereine rechten of rechtsmacht, ook met betrekking tot geschillen die daarmee verband houden.
+2. Parties shall endeavour to promote, as appropriate, the objectives of this Agreement when participating in decision-making under other relevant legal instruments, frameworks, or global, regional, subregional or sectoral bodies.
 
-##### Artikel 7. Algemene beginselen en benaderingen
+3. Parties shall promote international cooperation in marine scientific research and in the development and transfer of marine technology consistent with the [Convention](https://wetten.overheid.nl/BWBV0003172) in support of the objectives of this Agreement.
 
-Om de doelstellingen van deze Overeenkomst te verwezenlijken, laten de Partijen zich leiden door de volgende beginselen en benaderingen:
+### PART II. MARINE GENETIC RESOURCES, INCLUDING THE FAIR AND EQUITABLE SHARING OF BENEFITS
 
-- a. het beginsel dat de vervuiler betaalt;
+##### Article 9. Objectives
 
-- b. het beginsel van het gemeenschappelijk erfdeel van de mensheid, dat in het [Verdrag](onbekend) is vastgelegd;
+The objectives of this Part are:
 
-- c. de vrijheid van marien wetenschappelijk onderzoek, samen met andere vrijheden van de volle zee;
+- a) The fair and equitable sharing of benefits arising from activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction for the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction;
 
-- d. het beginsel van billijkheid en een eerlijke en billijke verdeling van de voordelen;
+- b) The building and development of the capacity of Parties, particularly developing States Parties, in particular the least developed countries, landlocked developing countries, geographically disadvantaged States, small island developing States, coastal African States, archipelagic States and developing middle-income countries, to carry out activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction;
 
-- e. het voorzorgsbeginsel of de voorzorgsbenadering, naargelang het geval;
+- c) The generation of knowledge, scientific understanding and technological innovation, including through the development and conduct of marine scientific research, as fundamental contributions to the implementation of this Agreement;
 
-- f. een ecosysteemgerichte benadering;
+- d) The development and transfer of marine technology in accordance with this Agreement.
 
-- g. een geïntegreerde aanpak van oceaanbeheer;
+##### Article 10. Application
 
-- h. een aanpak die de veerkracht van ecosystemen vergroot, met name wat de negatieve gevolgen van klimaatverandering en oceaanverzuring betreft, en die ook de integriteit van ecosystemen in stand houdt en herstelt, met inbegrip van de koolstofcyclus die de basis vormt van de rol die de oceaan in het klimaat speelt;
+1. The provisions of this Agreement shall apply to activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction collected and generated after the entry into force of this Agreement for the respective Party. The application of the provisions of this Agreement shall extend to the utilization of marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction collected or generated before entry into force, unless a Party makes an exception in writing under [article 70](https://wetten.overheid.nl/BWBV0007029) when signing, ratifying, approving, accepting or acceding to this Agreement.
 
-- i. het gebruik van de best beschikbare wetenschappelijke kennis en informatie;
+2. The provisions of this Part shall not apply to:
 
-- j. het gebruik van relevante traditionele kennis, indien beschikbaar, van inheemse volken en lokale gemeenschappen;
+- a) Fishing regulated under relevant international law and fishing-related activities; or
 
-- k. de eerbiediging, bevordering en inachtneming van hun respectieve verplichtingen, voor zover van toepassing, met betrekking tot de rechten van inheemse volken of, in voorkomend geval, van lokale gemeenschappen wanneer zij maatregelen nemen om het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht aan te pakken;
+- b) Fish or other living marine resources known to have been taken in fishing and fishing-related activities from areas beyond national jurisdiction, except where such fish or other living marine resources are regulated as utilization under this Part.
 
-- l. het niet, direct of indirect, overbrengen van schade of gevaren van het ene gebied naar het andere en het niet omzetten van het ene type verontreiniging in het andere, bij het nemen van maatregelen om verontreiniging van het mariene milieu te voorkomen, te verminderen en te beheersen;
+3. The obligations in this Part shall not apply to a Party’s military activities, including military activities by government vessels and aircraft engaged in non-commercial service. The obligations in this Part with respect to the utilization of marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction shall apply to a Party’s non-military activities.
 
-- m. het volledig in aanmerking nemen van de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen;
+##### Article 11. Activities with respect to marine genetic resources of areas beyond national jurisdiction
 
-- n. erkenning van de bijzondere belangen en behoeften van niet aan zee grenzende ontwikkelingslanden.
+1. Activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction may be carried out by all Parties, irrespective of their geographical location, and by natural or juridical persons under the jurisdiction of the Parties. Such activities shall be carried out in accordance with this Agreement.
 
-##### Artikel 8. Internationale samenwerking
+2. Parties shall promote cooperation in all activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction.
 
-1. De Partijen werken in het kader van deze Overeenkomst samen voor het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht, onder meer door versterking en intensivering van de samenwerking met en bevordering van de samenwerking tussen relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties bij de verwezenlijking van de doelstellingen van deze Overeenkomst.
+3. Collection in situ of marine genetic resources of areas beyond national jurisdiction shall be carried out with due regard for the rights and legitimate interests of coastal States in areas within their national jurisdiction and with due regard for the interests of other States in areas beyond national jurisdiction, in accordance with the [Convention](https://wetten.overheid.nl/BWBV0003172). To this end, Parties shall endeavour to cooperate, as appropriate, including through specific modalities for the operation of the Clearing-House Mechanism determined under [article 51](https://wetten.overheid.nl/BWBV0007029), with a view to implementing this Agreement.
 
-2. De Partijen streven ernaar om, in voorkomend geval, de doelstellingen van deze Overeenkomst te bevorderen wanneer zij deelnemen aan de besluitvorming in het kader van andere relevante rechtsinstrumenten en -kaders of mondiale, regionale, subregionale of sectorale organisaties.
+4. No State shall claim or exercise sovereignty or sovereign rights over marine genetic resources of areas beyond national jurisdiction. No such claim or exercise of sovereignty or sovereign rights shall be recognized.
 
-3. De Partijen bevorderen de internationale samenwerking op het gebied van marien wetenschappelijk onderzoek en de ontwikkeling en overdracht van mariene technologie in overeenstemming met het [Verdrag](onbekend) ter ondersteuning van de doelstellingen van deze Overeenkomst.
+5. Collection in situ of marine genetic resources of areas beyond national jurisdiction shall not constitute the legal basis for any claim to any part of the marine environment or its resources.
 
-## DEEL II. MARIENE GENETISCHE BRONNEN, MET INBEGRIP VAN EEN EERLIJKE EN BILLIJKE VERDELING VAN DE VOORDELEN
+6. Activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction are in the interests of all States and for the benefit of all humanity, particularly for the benefit of advancing the scientific knowledge of humanity and promoting the conservation and sustainable use of marine biological diversity, taking into particular consideration the interests and needs of developing States.
 
-##### Artikel 9. Doelstellingen
+7. Activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction shall be carried out exclusively for peaceful purposes.
 
-De doelstellingen van dit Deel zijn:
+##### Article 12. Notification on activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction
 
-- a. de eerlijke en billijke verdeling van de voordelen die voortvloeien uit activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht, met het oog op het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht;
+1. Parties shall take the necessary legislative, administrative or policy measures to ensure that information is notified to the Clearing-House Mechanism in accordance with this Part.
 
-- b. de opbouw en ontwikkeling van de capaciteit van de Partijen, in het bijzonder de ontwikkelingslanden die Partij zijn, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden, staten met een ongunstige geografische ligging, kleine eilandstaten in ontwikkeling, Afrikaanse kuststaten, archipelstaten en middeninkomenslanden in ontwikkeling, om activiteiten te verrichten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht;
+2. The following information shall be notified to the Clearing-House Mechanism six months or as early as possible prior to the collection in situ of marine genetic resources of areas beyond national jurisdiction:
 
-- c. de opbouw van kennis, wetenschappelijk inzicht en technologische innovatie, onder meer door de ontwikkeling en uitvoering van marien wetenschappelijk onderzoek, als fundamentele bijdragen tot de uitvoering van deze Overeenkomst;
+- a) The nature and objectives under which the collection is carried out, including, as appropriate, any programme(s) of which it forms part;
 
-- d. de ontwikkeling en overdracht van mariene technologie overeenkomstig deze Overeenkomst.
+- b) The subject matter of the research or, if known, the marine genetic resources to be targeted or collected, and the purposes for which such resources will be collected;
 
-##### Artikel 10. Toepassing
+- c) The geographical areas in which the collection is to be undertaken;
 
-1. De bepalingen van deze Overeenkomst zijn van toepassing op activiteiten met betrekking tot mariene genetische bronnen van en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht die zijn verzameld en gegenereerd na de inwerkingtreding van deze Overeenkomst voor de respectieve Partij. De toepassing van de bepalingen van deze Overeenkomst strekt zich uit tot het gebruik van mariene genetische bronnen van en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht die vóór de inwerkingtreding van deze Overeenkomst zijn verzameld of gegenereerd, tenzij een Partij op grond van [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=XII&artikel=70&z=2023-06-19&g=2023-06-19) schriftelijk een uitzondering maakt bij de ondertekening, bekrachtiging, goedkeuring, aanvaarding van of toetreding tot deze Overeenkomst.
+- d) A summary of the method and means to be used for collection, including the name, tonnage, type and class of vessels, scientific equipment and/or study methods employed;
 
-2. De bepalingen van dit Deel zijn niet van toepassing op:
+- e) Information concerning any other contributions to proposed major programmes;
 
-- a. de visserij die onder het toepasselijke internationale recht valt en visserijgerelateerde activiteiten; of
+- f) The expected date of first appearance and final departure of the research vessels, or deployment of the equipment and its removal, as appropriate;
 
-- b. vis of andere levende rijkdommen van de zee waarvan bekend is dat zij in het kader van de visserij en met de visserij verband houdende activiteiten zijn gevangen in gebieden voorbij de grenzen van de nationale rechtsmacht, tenzij die vis of andere levende rijkdommen van de zee als gebruik in het kader van dit Deel zijn gereguleerd.
+- g) The name(s) of the sponsoring institution(s) and the person in charge of the project;
 
-3. De verplichtingen in dit Deel zijn niet van toepassing op de militaire activiteiten van een Partij, met inbegrip van militaire activiteiten van overheidsschepen en -luchtvaartuigen die geen commerciële dienst verrichten. De verplichtingen in dit Deel met betrekking tot het gebruik van mariene genetische bronnen van en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht zijn van toepassing op de niet-militaire activiteiten van een Partij.
+- h) Opportunities for scientists of all States, in particular scientists from developing States, to be involved in or associated with the project;
 
-##### Artikel 11. Activiteiten met betrekking tot mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht
+- i) The extent to which it is considered that States that may need and request technical assistance, in particular developing States, should be able to participate or to be represented in the project;
 
-1. Activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht kunnen worden uitgevoerd door alle Partijen, ongeacht hun geografische locatie, en door natuurlijke of rechtspersonen die onder de rechtsmacht van de Partijen vallen. Deze activiteiten worden uitgevoerd in overeenstemming met deze Overeenkomst.
+- j) A data management plan prepared according to open and responsible data governance, taking into account current international practice.
 
-2. De Partijen bevorderen de samenwerking bij alle activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht.
+3. Upon notification referred to in paragraph 2 above, the Clearing-House Mechanism shall automatically generate a “BBNJ” standardized batch identifier.
 
-3. De verzameling **in situ**van mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht wordt uitgevoerd met inachtneming van de rechten en legitieme belangen van kuststaten in gebieden die onder hun nationale rechtsmacht vallen en met inachtneming van de belangen van andere staten in gebieden voorbij de grenzen van de nationale rechtsmacht, in overeenstemming met het [Verdrag](onbekend). Met het oog op de uitvoering van deze Overeenkomst streven de Partijen ernaar samen te werken, in voorkomend geval, onder meer door middel van specifieke uitvoeringsbepalingen voor de werking van het krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=VI&artikel=51&z=2023-06-19&g=2023-06-19) vastgestelde uitwisselingsmechanisme.
+4. Where there is a material change to the information provided to the Clearing-House Mechanism prior to the planned collection, updated information shall be notified to the Clearing-House Mechanism within a reasonable period of time and no later than the start of collection in situ, when practicable.
 
-4. Geen enkele staat mag aanspraak maken op soevereiniteit of soevereine rechten uitoefenen ten aanzien van mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht. Een dergelijke aanspraak op of uitoefening van soevereiniteit of soevereine rechten wordt niet erkend.
+5. Parties shall ensure that the following information, along with the “BBNJ” standardized batch identifier, is notified to the Clearing-House Mechanism as soon as it becomes available, but no later than one year from the collection in situ of marine genetic resources of areas beyond national jurisdiction:
 
-5. De verzameling **in situ** van mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht vormt geen rechtsgrondslag voor een aanspraak op enig deel van het mariene milieu of zijn rijkdommen.
+- a) The repository or database where digital sequence information on marine genetic resources is or will be deposited;
 
-6. Activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht zijn in het belang van alle staten en in het belang van de gehele mensheid, met name ten behoeve van de bevordering van de wetenschappelijke kennis van de mensheid en de bevordering van het behoud en het duurzame gebruik van de mariene biologische diversiteit, waarbij in het bijzonder rekening wordt gehouden met de belangen en behoeften van ontwikkelingslanden.
+- b) Where all marine genetic resources collected in situ are or will be deposited or held;
 
-7. Activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht worden uitsluitend voor vreedzame doeleinden uitgevoerd.
+- c) A report detailing the geographical area from which marine genetic resources were collected, including information on the latitude, longitude and depth of collection, and, to the extent available, the findings from the activity undertaken;
 
-##### Artikel 12. Kennisgeving van activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht
+- d) Any necessary updates to the data management plan provided under paragraph (2) (j) above.
 
-1. De Partijen nemen de wetgevende, administratieve of beleidsmaatregelen die nodig zijn om ervoor te zorgen dat informatie wordt meegedeeld aan het uitwisselingsmechanisme overeenkomstig dit Deel.
+6. Parties shall ensure that samples of marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction that are in repositories or databases under their jurisdiction can be identified as originating from areas beyond national jurisdiction, in accordance with current international practice and to the extent practicable.
 
-2. De volgende informatie wordt zes maanden of zo vroeg mogelijk voorafgaand aan de verzameling **in situ** van mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht aan het uitwisselingsmechanisme meegedeeld:
+7. Parties shall ensure that repositories, to the extent practicable, and databases under their jurisdiction prepare, on a biennial basis, an aggregate report on access to marine genetic resources and digital sequence information linked to their “BBNJ” standardized batch identifier, and make the report available to the access and benefit-sharing committee established under [article 15](https://wetten.overheid.nl/BWBV0007029).
 
-- a. de aard en de doelstellingen van de verzameling, met inbegrip van, in voorkomend geval, het (de) programma(‘s) waaronder de verzameling valt;
+8. Where marine genetic resources of areas beyond national jurisdiction, and where practicable, the digital sequence information on such resources are subject to utilization, including commercialization, by natural or juridical persons under their jurisdiction, Parties shall ensure that the following information, including the “BBNJ” standardized batch identifier, if available, be notified to the Clearing-House Mechanism as soon as such information becomes available:
 
-- b. het onderwerp van het onderzoek of, indien bekend, de mariene genetische bronnen waarop het onderzoek is gericht of die zullen worden verzameld, en de doeleinden waarvoor die rijkdommen zullen worden verzameld;
+- a) Where the results of the utilization, such as publications, patents granted, if available and to the extent possible, and products developed, can be found;
 
-- c. de geografische gebieden waar de verzameling zal plaatsvinden;
+- b) Where available, details of the post-collection notification to the Clearing-House Mechanism related to the marine genetic resources that were the subject of utilization;
 
-- d. een overzicht van de voor de verzameling te gebruiken methode en middelen, met inbegrip van de naam, de tonnage, het type en de klasse van de vaartuigen, de gebruikte wetenschappelijke uitrusting en/of onderzoeksmethoden;
+- c) Where the original sample that is the subject of utilization is held;
 
-- e. informatie over eventuele andere bijdragen aan grote geplande programma’s;
+- d) The modalities envisaged for access to marine genetic resources and digital sequence information on marine genetic resources being utilized, and a data management plan for the same;
 
-- f. de verwachte eerste aankomstdatum en definitieve vertrekdatum van de onderzoeksvaartuigen, of van de installatie en de verwijdering van de onderzoeksapparatuur, naargelang het geval;
+- e) Once marketed, information, if available, on sales of relevant products and any further development.
 
-- g. de naam (namen) van de instelling(en) die het project sponsort (sponsoren) en de verantwoordelijke natuurlijke persoon van het project;
+##### Article 13. Traditional knowledge of Indigenous Peoples and local communities associated with marine genetic resources in areas beyond national jurisdiction
 
-- h. de mogelijkheden voor wetenschappers uit alle landen, met name uit ontwikkelingslanden, om deel te nemen aan of betrokken te worden bij het project;
+Parties shall take legislative, administrative or policy measures, where relevant and as appropriate, with the aim of ensuring that traditional knowledge associated with marine genetic resources in areas beyond national jurisdiction that is held by Indigenous Peoples and local communities shall only be accessed with the free, prior and informed consent or approval and involvement of these Indigenous Peoples and local communities. Access to such traditional knowledge may be facilitated by the Clearing-House Mechanism. Access to and use of such traditional knowledge shall be on mutually agreed terms.
 
-- i. de mate waarin wordt geoordeeld dat landen die technische bijstand nodig kunnen hebben en die om technische bijstand kunnen verzoeken, met name ontwikkelingslanden, aan het project moeten kunnen deelnemen of vertegenwoordigd moeten kunnen worden;
+##### Article 14. Fair and equitable sharing of benefits
 
-- j. een plan voor gegevensbeheer gebaseerd op open en verantwoordelijk gegevensbeheer dat rekening houdt met de huidige internationale praktijk.
+1. The benefits arising from activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction shall be shared in a fair and equitable manner in accordance with this Part and contribute to the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction.
 
-3. Na de in paragraaf 2 bedoelde kennisgeving genereert het uitwisselingsmechanisme automatisch een gestandaardiseerde „BBNJ”-identificatiecode.
+2. Non-monetary benefits shall be shared in accordance with this Agreement in the form of, inter alia:
 
-4. Indien de aan het uitwisselingsmechanisme verstrekte gegevens wezenlijk zijn gewijzigd vóór de geplande verzameling, wordt de bijgewerkte informatie binnen een redelijke termijn en, indien mogelijk, uiterlijk bij het begin van de verzameling **in situ** aan het uitwisselingsmechanisme meegedeeld.
+- a) Access to samples and sample collections in accordance with current international practice;
 
-5. De Partijen zorgen ervoor dat de onderstaande gegevens, samen met de gestandaardiseerde „BBNJ”-identificatiecode, aan het uitwisselingsmechanisme worden meegedeeld zodra deze beschikbaar zijn, maar uiterlijk één jaar na de verzameling **in situ** van mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht:
+- b) Access to digital sequence information in accordance with current international practice;
 
-- a. het repositorium of de databank waar digitale sequentie-informatie over mariene genetische bronnen zijn of worden opgeslagen;
+- c) Open access to findable, accessible, interoperable and reusable (FAIR) scientific data in accordance with current international practice and open and responsible data governance;
 
-- b. de plaats waar alle **in situ** verzamelde mariene genetische bronnen zijn of worden opgeslagen of bewaard;
+- d) Information contained in the notifications, along with “BBNJ” standardized batch identifiers, provided in accordance with [article 12](https://wetten.overheid.nl/BWBV0007029), in publicly searchable and accessible forms;
 
-- c. een verslag met een gedetailleerde beschrijving van het geografische gebied waar mariene genetische bronnen zijn verzameld, met inbegrip van informatie over de breedtegraad, de lengtegraad en de diepte van de verzameling, en, voor zover beschikbaar, de bevindingen van de verrichte activiteit;
+- e) Transfer of marine technology in line with relevant modalities provided under [Part V](https://wetten.overheid.nl/BWBV0007029) of this Agreement;
 
-- d. eventuele noodzakelijke actualiseringen van het gegevensbeheerplan als bedoeld in bovenstaande lid 2, sub j).
+- f) Capacity-building, including by financing research programmes, and partnership opportunities, particularly directly relevant and substantial ones, for scientists and researchers in research projects, as well as dedicated initiatives, in particular for developing States, taking into account the special circumstances of small island developing States and of least developed countries;
 
-6. De Partijen zorgen ervoor dat monsters van mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht die zich in repositoria of databanken onder hun rechtsmacht bevinden, kunnen worden geïdentificeerd als afkomstig uit gebieden voorbij de grenzen van de nationale rechtsmacht, in overeenstemming met de huidige internationale praktijk en voor zover uitvoerbaar.
+- g) Increased technical and scientific cooperation, in particular with scientists from and scientific institutions in developing States;
 
-7. De Partijen zorgen ervoor dat opslagplaatsen, voor zover praktisch haalbaar, en databanken onder hun rechtsmacht om de twee jaar een geaggregeerd verslag opstellen over de toegang tot mariene genetische bronnen en digitale sequentie-informatie die gekoppeld is aan hun gestandaardiseerde „BBNJ”-identificatiecode, en het verslag van het bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=15&z=2023-06-19&g=2023-06-19) ingestelde comité voor toegang en verdeling van voordelen ter beschikking stellen.
+- h) Other forms of benefits as determined by the Conference of the Parties, taking into account recommendations of the access and benefit-sharing committee established under [article 15](https://wetten.overheid.nl/BWBV0007029).
 
-8. Wanneer mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht en, waar mogelijk, de digitale sequentie-informatie over die bronnen worden gebruikt, met inbegrip van commercialisering, door natuurlijke of rechtspersonen die onder hun rechtsmacht vallen, zorgen de Partijen ervoor dat de volgende informatie, met inbegrip van de gestandaardiseerde „BBNJ”-identificatiecode, indien beschikbaar, aan het uitwisselingsmechanisme wordt meegedeeld zodra die informatie beschikbaar is:
+3. Parties shall take the necessary legislative, administrative or policy measures to ensure that marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction, together with their “BBNJ” standardized batch identifiers, subject to utilization by natural or juridical persons under their jurisdiction are deposited in publicly accessible repositories and databases, maintained either nationally or internationally, no later than three years from the start of such utilization, or as soon as they become available, taking into account current international practice.
 
-- a. de plaats waar de resultaten van het gebruik, zoals publicaties, verleende octrooien, indien beschikbaar en voor zover mogelijk, en ontwikkelde producten, te vinden zijn;
+4. Access to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction in the repositories and databases under a Party’s jurisdiction may be subject to reasonable conditions, as follows:
 
-- b. indien beschikbaar, nadere gegevens over de kennisgeving na de verzameling aan het uitwisselingsmechanisme met betrekking tot de mariene genetische bronnen die het voorwerp van gebruik waren;
+- a) The need to preserve the physical integrity of marine genetic resources;
 
-- c. de plaats waar het oorspronkelijke monster waarop het gebruik betrekking heeft, wordt bewaard;
+- b) The reasonable costs associated with maintaining the relevant gene bank, biorepository or database in which the sample, data or information is held;
 
-- d. de beoogde uitvoeringsbepalingen voor toegang tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen die worden gebruikt, en een gegevensbeheerplan daarvoor;
+- c) The reasonable costs associated with providing access to the marine genetic resource, data or information;
 
-- e. na het in de handel brengen, informatie, indien beschikbaar, over de verkoop van relevante producten en eventuele verdere ontwikkelingen.
+- d) Other reasonable conditions in line with the objectives of this Agreement;
 
-##### Artikel 13. Traditionele kennis van inheemse volken en lokale gemeenschappen in verband met mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht
+and opportunities for such access on fair and most favourable terms, including on concessional and preferential terms, may be provided to researchers and research institutions from developing States.
 
-De Partijen nemen, in voorkomend geval en waar relevant, wetgevende, administratieve of beleidsmaatregelen om ervoor te zorgen dat traditionele kennis met betrekking tot mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht waarover inheemse volken en lokale gemeenschappen beschikken, alleen toegankelijk is met vrijwillig, voorafgaande en geïnformeerde toestemming of goedkeuring en betrokkenheid van deze inheemse volken en lokale gemeenschappen. De toegang tot dergelijke traditionele kennis kan worden gefaciliteerd door het uitwisselingsmechanisme. Toegang tot en gebruik van deze traditionele kennis wordt overeengekomen met wederzijdse instemming.
+5. Monetary benefits from the utilization of marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction, including commercialization, shall be shared fairly and equitably, through the financial mechanism established under [article 52](https://wetten.overheid.nl/BWBV0007029), for the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction.
 
-##### Artikel 14. Eerlijke en billijke verdeling van de voordelen
+6. After the entry into force of this Agreement, developed Parties shall make annual contributions to the special fund referred to in [article 52](https://wetten.overheid.nl/BWBV0007029). A Party’s rate of contribution shall be 50 per cent of that Party’s assessed contribution to the budget adopted by the Conference of the Parties under [article 47, paragraph 6 (e)](https://wetten.overheid.nl/BWBV0007029). Such payment shall continue until a decision is taken by the Conference of the Parties under paragraph 7 below.
 
-1. De voordelen die voortvloeien uit activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht worden op eerlijke en billijke wijze verdeeld overeenkomstig dit Deel en dragen bij tot het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht.
+7. The Conference of the Parties shall decide on the modalities for the sharing of monetary benefits from the utilization of marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction, taking into account the recommendations of the access and benefit-sharing committee established under [article 15](https://wetten.overheid.nl/BWBV0007029). If all efforts to reach consensus have been exhausted, a decision shall be adopted by a three-fourths majority of the Parties present and voting. The payments shall be made through the special fund established under [article 52](https://wetten.overheid.nl/BWBV0007029). The modalities may include the following:
 
-2. Niet-geldelijke voordelen worden conform deze Overeenkomst verdeeld in de vorm van onder meer:
+- a) Milestone payments;
 
-- a. toegang tot monsters en monsterverzamelingen overeenkomstig de huidige internationale praktijk;
+- b) Payments or contributions related to the commercialization of products, including payment of a percentage of the revenue from sales of products;
 
-- b. toegang tot digitale sequentie-informatie overeenkomstig de huidige internationale praktijk;
+- c) A tiered fee, paid on a periodic basis, based on a diversified set of indicators measuring the aggregate level of activities by a Party;
 
-- c. vrije toegang tot vindbare, toegankelijke, uitwisselbare en herbruikbare (**findable, accessible, interoperable and reusable**, FAIR) wetenschappelijke gegevens in overeenstemming met de huidige internationale praktijk en open en verantwoordelijk gegevensbeheer;
+- d) Other forms as decided by the Conference of the Parties, taking into account recommendations of the access and benefit-sharing committee.
 
-- d. informatie in de kennisgevingen, samen met gestandaardiseerde „BBNJ”-identificatiecodes, verstrekt overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=12&z=2023-06-19&g=2023-06-19), in een formaat dat toegankelijk en raadpleegbaar is voor het publiek;
+8. A Party may make a declaration at the time the Conference of the Parties adopts the modalities stating that those modalities shall not take effect for that Party for a period of up to four years, in order to allow time for necessary implementation. A Party that makes such a declaration shall continue to make the payment set out in paragraph 6 above until the new modalities take effect.
 
-- e. overdracht van mariene technologie overeenkomstig de desbetreffende bepalingen van [Deel V](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=V&z=2023-06-19&g=2023-06-19) van deze Overeenkomst;
+9. In deciding on the modalities for the sharing of monetary benefits from the use of digital sequence information on marine genetic resources of areas beyond national jurisdiction under paragraph 7 above, the Conference of the Parties shall take into account the recommendations of the access and benefit-sharing committee, recognizing that such modalities should be mutually supportive of and adaptable to other access and benefit-sharing instruments.
 
-- f. capaciteitsopbouw, onder meer door de financiering van onderzoeksprogramma’s, en partnerschapsmogelijkheden, met name die welke van direct en substantieel belang zijn voor wetenschappers en onderzoekers die bij onderzoeksprojecten betrokken zijn, alsmede specifieke initiatieven, met name voor ontwikkelingslanden, rekening houdend met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen;
+10. The Conference of the Parties, taking into account recommendations of the access and benefit-sharing committee established under [article 15](https://wetten.overheid.nl/BWBV0007029), shall review and assess, on a biennial basis, the monetary benefits from the utilization of marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction. The first review shall take place no later than five years after the entry into force of this Agreement. The review shall include consideration of the annual contributions referred to in paragraph 6 above.
 
-- g. meer technische en wetenschappelijke samenwerking, met name met wetenschappers en wetenschappelijke instellingen van ontwikkelingslanden;
+11. Parties shall take the necessary legislative, administrative or policy measures, as appropriate, with the aim of ensuring that benefits arising from activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction by natural or juridical persons under their jurisdiction are shared in accordance with this Agreement.
 
-- h. andere vormen van voordelen, zoals vastgesteld door de Conferentie van de Partijen, rekening houdend met de aanbevelingen van het bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=15&z=2023-06-19&g=2023-06-19) ingestelde comité voor toegang en verdeling van voordelen.
+##### Article 15. Access and benefit-sharing committee
 
-3. De Partijen nemen de nodige wetgevende, administratieve of beleidsmaatregelen om ervoor te zorgen dat mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht, samen met hun gestandaardiseerde „BBNJ”-identificatiecodes, die gebruikt kunnen worden door onder hun rechtsmacht vallende natuurlijke of rechtspersonen, uiterlijk drie jaar na het begin van dat gebruik of zodra deze beschikbaar zijn, worden opgeslagen in openbaar toegankelijke opslagplaatsen en databanken die op nationaal of internationaal niveau worden bijgehouden, rekening houdend met de huidige internationale praktijk.
+1. An access and benefit-sharing committee is hereby established. It shall serve, inter alia, as a means for establishing guidelines for benefit-sharing, in accordance with [article 14](https://wetten.overheid.nl/BWBV0007029), providing transparency and ensuring a fair and equitable sharing of both monetary and non-monetary benefits.
 
-4. Toegang tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht in de opslagplaatsen en databanken onder de rechtsmacht van een Partij kan aan redelijke voorwaarden worden onderworpen, en wel als volgt:
+2. The access and benefit-sharing committee shall be composed of 15 members possessing appropriate qualifications in related fields, so as to ensure the effective exercise of the functions of the committee. The members shall be nominated by Parties and elected by the Conference of the Parties, taking into account gender balance and equitable geographical distribution and providing for representation on the committee from developing States, including from the least developed countries, from small island developing States and from landlocked developing countries. The terms of reference and modalities for the operation of the committee shall be determined by the Conference of the Parties.
 
-- a. de noodzaak om de fysieke integriteit van mariene genetische bronnen te behouden;
+3. The committee may make recommendations to the Conference of the Parties on matters relating to this Part, including on the following matters:
 
-- b. de redelijke kosten in verband met het onderhoud van de relevante genenbank, biorepositorium of databank waarin het monster, de gegevens of de informatie worden bewaard;
+- a) Guidelines or a code of conduct for activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction in accordance with this Part;
 
-- c. de redelijke kosten in verband met het verlenen van toegang tot de mariene genetische hulpbron, gegevens of informatie;
+- b) Measures to implement decisions taken in accordance with this Part;
 
-- d. andere redelijke voorwaarden in overeenstemming met de doelstellingen van deze Overeenkomst; en aan onderzoekers en onderzoeksinstellingen uit ontwikkelingslanden kan de mogelijkheid worden geboden om onder eerlijke en meest gunstige voorwaarden, ook in het kader van bevoorrechte en preferentiële regelingen, toegang hiertoe te krijgen.
+- c) Rates or mechanisms for the sharing of monetary benefits in accordance with [article 14](https://wetten.overheid.nl/BWBV0007029);
 
-5. De geldelijke voordelen van het gebruik van mariene genetische bronnen en digitale sequentie-informatie over mariene genetische rijkdommen van gebieden voorbij de grenzen van de nationale rechtsmacht, met inbegrip van commercialisering, worden eerlijk en billijk verdeeld, via het bij [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=VII&artikel=52&z=2023-06-19&g=2023-06-19) ingestelde financiële mechanisme, met het oog op het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht.
+- d) Matters relating to this Part in relation to the Clearing-House Mechanism;
 
-6. Na de inwerkingtreding van deze Overeenkomst leveren de Partijen die ontwikkelde landen zijn jaarlijkse bijdragen aan het in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=VII&artikel=52&z=2023-06-19&g=2023-06-19) bedoelde speciale fonds. Het bijdragepercentage van een Partij bedraagt 50 % van de bijdrage van die Partij aan de begroting die overeenkomstig [artikel 47, lid 6, sub e](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=VI&artikel=47&z=2023-06-19&g=2023-06-19)), door de Conferentie van de Partijen is vastgesteld. Deze betaling wordt voortgezet totdat de Conferentie van de Partijen overeenkomstig lid 7 een besluit heeft genomen.
+- e) Matters relating to this Part in relation to the financial mechanism established under [article 52](https://wetten.overheid.nl/BWBV0007029);
 
-7. De Conferentie van de Partijen neemt een besluit over de uitvoeringsbepalingen voor het verdelen van geldelijke voordelen die voortvloeien uit het gebruik van mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht, rekening houdend met de aanbevelingen van het bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=15&z=2023-06-19&g=2023-06-19) ingestelde comité voor toegang en verdeling van voordelen. Indien alle pogingen om een consensus te bereiken, zijn uitgeput, wordt er een besluit genomen met een meerderheid van drie vierde van de aanwezige en stemmende Partijen. De betalingen worden verricht via het bij [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=VII&artikel=52&z=2023-06-19&g=2023-06-19) ingestelde speciale fonds. De uitvoeringsbepalingen kunnen het volgende omvatten:
+- f) Any other matters relating to this Part that the Conference of the Parties may request the access and benefit-sharing committee to address.
 
-- a. mijlpaalbetalingen;
+4. Each Party shall make available to the access and benefit-sharing committee, through the Clearing-House Mechanism, the information required under this Agreement, which shall include:
 
-- b. betalingen of bijdragen in verband met de commercialisering van producten, met inbegrip van de betaling van een percentage van de inkomsten uit de verkoop van producten;
+- a) Legislative, administrative and policy measures on access and benefit-sharing;
 
-- c. periodiek betaalde gedifferentieerde vergoeding, waarvan de hoogte afhangt van een reeks indicatoren die het geaggregeerde niveau van de activiteiten van een Partij meten;
+- b) Contact details and other relevant information on national focal points;
 
-- d. andere uitvoeringsbepalingen zoals vastgesteld door de Conferentie van de Partijen, rekening houdend met de aanbevelingen van het comité voor toegang en verdeling van de voordelen.
+- c) Other information required pursuant to the decisions taken by the Conference of the Parties.
 
-8. Een Partij kan op het tijdstip waarop de Conferentie van de Partijen de uitvoeringsbepalingen aanneemt, een verklaring afleggen waarin staat dat deze uitvoeringsbepalingen voor die Partij niet van kracht worden voor een periode van maximaal vier jaar, zodat er tijd is voor de noodzakelijke uitvoering. Een Partij die een dergelijke verklaring aflegt, blijft de in lid 6 bedoelde betaling verrichten totdat de nieuwe regeling van kracht wordt.
+5. The access and benefit-sharing committee may consult and facilitate the exchange of information with relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies on activities under its mandate, including benefit-sharing, the use of digital sequence information on marine genetic resources, best practices, tools and methodologies, data governance and lessons learned.
 
-9. Bij het nemen van een besluit over de uitvoeringsbepalingen voor het delen van geldelijke voordelen die voortvloeien uit het gebruik van digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht overeenkomstig lid 7, houdt de Conferentie van de Partijen rekening met de aanbevelingen van het comité voor toegang en verdeling van de voordelen, waarbij zij erkent dat dergelijke regelingen elkaar wederzijds moeten ondersteunen en aangepast moeten kunnen worden aan andere instrumenten voor toegang en verdeling van de voordelen.
+6. The access and benefit-sharing committee may make recommendations to the Conference of the Parties in relation to information obtained under paragraph 5 above.
 
-10. Rekening houdend met de aanbevelingen van het bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=15&z=2023-06-19&g=2023-06-19) ingestelde comité voor toegang en verdeling van de voordelen evalueert en beoordeelt de Conferentie van de Partijen om de twee jaar de geldelijke voordelen van het gebruik van mariene genetische bronnen en van digitale sequentie-informatie over mariene genetische bronnen voorbij de grenzen van de nationale rechtsmacht. De eerste evaluatie vindt uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst plaats. Bij de evaluatie worden de in lid 6 bedoelde jaarlijkse bijdragen in aanmerking genomen.
+##### Article 16. Monitoring and transparency
 
-11. De Partijen nemen de nodige wetgevende, administratieve of beleidsmaatregelen, naargelang het geval, om ervoor te zorgen dat de voordelen die voortvloeien uit activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht, die worden uitgevoerd door natuurlijke of rechtspersonen die onder hun rechtsmacht vallen, in overeenstemming met deze Overeenkomst worden gedeeld.
+1. Monitoring and transparency of activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction shall be achieved through notification to the Clearing-House Mechanism, through the use of “BBNJ” standardized batch identifiers in accordance with this Part and according to procedures adopted by the Conference of the Parties as recommended by the access and benefit-sharing committee.
 
-##### Artikel 15. Comité voor toegang en verdeling van voordelen
+2. Parties shall periodically submit reports to the access and benefit-sharing committee on their implementation of the provisions in this Part on activities with respect to marine genetic resources and digital sequence information on marine genetic resources of areas beyond national jurisdiction and the sharing of benefits therefrom, in accordance with this Part.
 
-1. Hierbij wordt een comité voor toegang en verdeling van voordelen ingesteld. Het dient onder meer als middel om richtsnoeren vast te stellen voor de verdeling van voordelen, overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=14&z=2023-06-19&g=2023-06-19), waarbij transparantie wordt geboden en wordt gezorgd voor een eerlijke en billijke verdeling van zowel geldelijke als niet-geldelijke voordelen.
+3. The access and benefit-sharing committee shall prepare a report based on the information received through the Clearing-House Mechanism and make it available to Parties, which may submit comments. The access and benefit-sharing committee shall submit the report, including comments received, for the consideration of the Conference of the Parties. The Conference of the Parties, taking into account the recommendation of the access and benefit-sharing committee, may determine appropriate guidelines for the implementation of this article, which shall take into account the national capabilities and circumstances of Parties.
 
-2. Het comité voor toegang en verdeling van voordelen bestaat uit 15 leden die beschikken over de nodige kwalificaties op verwante gebieden, opdat het comité zijn taken doeltreffend kan uitoefenen. De leden worden benoemd door de Partijen en gekozen door de Conferentie van de Partijen, waarbij rekening wordt gehouden met genderevenwicht en een billijke geografische spreiding en waarbij wordt gewaarborgd dat ontwikkelingslanden vertegenwoordigd zijn in het comité, met inbegrip van de minst ontwikkelde landen, kleine eilandstaten in ontwikkeling, en niet aan zee grenzende ontwikkelingslanden. Het mandaat en de werkwijze van het comité worden vastgesteld door de Conferentie van de Partijen.
+### PART III. MEASURES SUCH AS AREA-BASED MANAGEMENT TOOLS, INCLUDING MARINE PROTECTED AREAS
 
-3. Het comité kan aanbevelingen doen aan de Conferentie van de Partijen over aangelegenheden die onder dit Deel vallen, met inbegrip van de volgende aangelegenheden:
+##### Article 17. Objectives
 
-- a. richtsnoeren of een gedragscode voor activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht overeenkomstig dit Deel;
+The objectives of this Part are to:
 
-- b. maatregelen ter uitvoering van overeenkomstig dit Deel genomen besluiten;
+- a) Conserve and sustainably use areas requiring protection, including through the establishment of a comprehensive system of area-based management tools, with ecologically representative and well-connected networks of marine protected areas;
 
-- c. tarieven of mechanismen voor het delen van geldelijke voordelen overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=14&z=2023-06-19&g=2023-06-19);
+- b) Strengthen cooperation and coordination in the use of area-based management tools, including marine protected areas, among States, relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies;
 
-- d. aangelegenheden in verband met dit Deel en die relevant zijn voor het uitwisselingsmechanisme;
+- c) Protect, preserve, restore and maintain biological diversity and ecosystems, including with a view to enhancing their productivity and health, and strengthen resilience to stressors, including those related to climate change, ocean acidification and marine pollution;
 
-- e. aangelegenheden in verband met dit Deel en die relevant zijn voor het bij [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=VII&artikel=52&z=2023-06-19&g=2023-06-19) ingestelde financiële mechanisme;
+- d) Support food security and other socioeconomic objectives, including the protection of cultural values;
 
-- f. alle andere aangelegenheden in verband met dit Deel die de Conferentie van de Partijen kan voorleggen aan het comité voor toegang en verdeling van voordelen.
+- e) Support developing States Parties, in particular the least developed countries, landlocked developing countries, geographically disadvantaged States, small island developing States, coastal African States, archipelagic States and developing middle-income countries, taking into account the special circumstances of small island developing States, through capacity-building and the development and transfer of marine technology in developing, implementing, monitoring, managing and enforcing area-based management tools, including marine protected areas.
 
-4. Elke Partij stelt het comité voor toegang en verdeling van voordelen via het uitwisselingsmechanisme de krachtens deze Overeenkomst vereiste informatie ter beschikking, waaronder:
+##### Article 18. Area of application
 
-- a. wetgevende, administratieve en beleidsmaatregelen inzake toegang en verdeling van voordelen;
+The establishment of area-based management tools, including marine protected areas, shall not include any areas within national jurisdiction and shall not be relied upon as a basis for asserting or denying any claims to sovereignty, sovereign rights or jurisdiction, including in respect of any disputes relating thereto. The Conference of the Parties shall not consider for decision proposals for the establishment of such area-based management tools, including marine protected areas, and in no case shall such proposals be interpreted as recognition or non-recognition of any claims to sovereignty, sovereign rights or jurisdiction.
 
-- b. contactgegevens en andere relevante informatie over de nationale knooppunten;
+##### Article 19. Proposals
 
-- c. andere informatie die vereist is op grond van de besluiten van de Conferentie van de Partijen.
+1. Proposals regarding the establishment of area-based management tools, including marine protected areas, under this Part shall be submitted by Parties, individually or collectively, to the secretariat.
 
-5. Het comité voor toegang en verdeling van voordelen kan de relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties raadplegen en de uitwisseling van informatie hiermee faciliteren over activiteiten die onder zijn mandaat vallen, met inbegrip van de verdeling van voordelen, het gebruik van digitale sequentie-informatie over mariene genetische bronnen, best practices, instrumenten en methodologieën, gegevensbeheer en geleerde lessen.
+2. Parties shall collaborate and consult, as appropriate, with relevant stakeholders, including States and global, regional, subregional and sectoral bodies, as well as civil society, the scientific community, the private sector, Indigenous Peoples and local communities, for the development of proposals, as set out in this Part.
 
-6**.** Het comité voor toegang en verdeling van voordelen kan aanbevelingen doen aan de Conferentie van de Partijen met betrekking tot de in het kader van het bovenvermelde lid 5 verkregen informatie.
+3. Proposals shall be formulated on the basis of the best available science and scientific information and, where available, relevant traditional knowledge of Indigenous Peoples and local communities, taking into account the precautionary approach and an ecosystem approach.
 
-##### Artikel 16. Monitoring en transparantie
+4. Proposals with regard to identified areas shall include the following key elements:
 
-1. De monitoring en transparantie van activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht worden verzekerd door kennisgeving aan het uitwisselingsmechanisme, door het gebruik van gestandaardiseerde „BBNJ”-identificatiecodes overeenkomstig dit Deel en volgens de door de Conferentie van de Partijen vastgestelde procedures, zoals aanbevolen door het comité voor toegang en verdeling van voordelen.
+- a) A geographic or spatial description of the area that is the subject of the proposal by reference to the indicative criteria specified in [Annex I](https://wetten.overheid.nl/BWBV0007029);
 
-2. De Partijen dienen periodiek verslagen in bij het comité voor toegang en verdeling van voordelen over hun uitvoering van de bepalingen van dit Deel inzake activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht en de verdeling van de voordelen daarvan, in overeenstemming met dit Deel.
+- b) Information on any of the criteria specified in [Annex I](https://wetten.overheid.nl/BWBV0007029), as well as any criteria that may be further developed and revised in accordance with paragraph 5 below applied in identifying the area;
 
-3. Het comité voor toegang en verdeling van voordelen stelt een verslag op op basis van de via het uitwisselingsmechanisme ontvangen informatie en stelt dit ter beschikking van de Partijen, die opmerkingen kunnen indienen. Het comité voor toegang en verdeling van voordelen legt het verslag, met inbegrip van de ontvangen opmerkingen, voor aan de Conferentie van de Partijen. De Conferentie van de Partijen kan, rekening houdend met de aanbeveling van het comité voor toegang en verdeling van voordelen, passende richtsnoeren vaststellen voor de uitvoering van dit artikel, waarbij rekening wordt gehouden met de nationale capaciteiten en omstandigheden van de Partijen.
+- c) Human activities in the area, including uses by Indigenous Peoples and local communities, and their possible impact, if any;
 
-## DEEL III. MAATREGELEN ZOALS GEBIEDSGERICHTE BEHEERSINSTRUMENTEN, WAARONDER BESCHERMDE MARIENE GEBIEDEN
+- d) A description of the state of the marine environment and biological diversity in the identified area;
 
-##### Artikel 17. Doelstellingen
+- e) A description of the conservation and, where appropriate, sustainable use objectives that are to be applied to the area;
 
-De doelstellingen van dit Deel zijn:
+- f) A draft management plan encompassing the proposed measures and outlining proposed monitoring, research and review activities to achieve the specified objectives;
 
-- a. instandhouding en duurzaam gebruik van gebieden die beschermd moeten worden, onder meer door de invoering van een alomvattend systeem van gebiedsgerichte beheersinstrumenten, met ecologisch representatieve en goed verbonden netwerken van beschermde mariene gebieden;
+- g) The duration of the proposed area and measures, if any;
 
-- b. versterken van de samenwerking en coördinatie bij het gebruik van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, tussen landen, relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties;
+- h) Information on any consultations undertaken with States, including adjacent coastal States and/or relevant global, regional, subregional and sectoral bodies, if any;
 
-- c. beschermen, behouden, herstellen en in stand houden van de biologische diversiteit en ecosystemen, onder meer met het oog op het verbeteren van hun productiviteit en gezondheid, en de weerbaarheid tegen stressfactoren te versterken, met inbegrip van stressfactoren die verband houden met klimaatverandering, oceaanverzuring en mariene verontreiniging;
+- i) Information on area-based management tools, including marine protected areas, implemented under relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies;
 
-- d. ondersteunen van voedselzekerheid en andere sociaal-economische doelstellingen, waaronder de bescherming van culturele waarden;
+- j) Relevant scientific input and, where available, traditional knowledge of Indigenous Peoples and local communities.
 
-- e. steun verlenen aan ontwikkelingslanden die Partij zijn, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden, staten met een ongunstige geografische ligging, kleine eilandstaten in ontwikkeling, Afrikaanse kuststaten, archipelstaten en ontwikkelingslanden met een middeninkomen, rekening houdend met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling, door middel van capaciteitsopbouw en de ontwikkeling en overdracht van mariene technologie bij de ontwikkeling, uitvoering, monitoring, beheer en handhaving van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden.
+5. Indicative criteria for the identification of such areas shall include, as relevant, those specified in [Annex I](https://wetten.overheid.nl/BWBV0007029) and may be further developed and revised as necessary by the Scientific and Technical Body for consideration and adoption by the Conference of the Parties.
 
-##### Artikel 18. Toepassingsgebied
+6. Further requirements regarding the contents of proposals, including the modalities for the application of indicative criteria as specified in paragraph 5 above, and guidance on proposals specified in paragraph 4 (b) above shall be elaborated by the Scientific and Technical Body, as necessary, for consideration and adoption by the Conference of the Parties.
 
-De vaststelling van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, omvat geen gebieden binnen de nationale rechtsmacht en wordt niet gebruikt als grondslag voor het geldend maken of verwerpen van aanspraken op soevereiniteit, soevereine rechten of rechtsmacht, met inbegrip van eventuele geschillen die daarmee verband houden. De Conferentie van de Partijen neemt geen voorstellen in overweging van dergelijke gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, en dergelijke voorstellen mogen in geen geval worden geïnterpreteerd als erkenning of niet-erkenning van aanspraken op soevereiniteit, soevereine rechten of rechtsmacht.
+##### Article 20. Publicity and preliminary review of proposals
 
-##### Artikel 19. Voorstellen
+Upon receipt of a proposal in writing, the secretariat shall make the proposal publicly available and transmit it to the Scientific and Technical Body for a preliminary review. The purpose of the review is to ascertain that the proposal contains the information required under [article 19](https://wetten.overheid.nl/BWBV0007029), including indicative criteria described in this Part and in [Annex I](https://wetten.overheid.nl/BWBV0007029). The outcome of that review shall be made publicly available and shall be conveyed to the proponent by the secretariat. The proponent shall retransmit the proposal to the secretariat, having taken into account the preliminary review by the Scientific and Technical Body. The secretariat shall notify the Parties and make that retransmitted proposal publicly available and facilitate consultations pursuant to [article 21](https://wetten.overheid.nl/BWBV0007029).
 
-1. Voorstellen voor de vaststelling van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, in het kader van dit Deel worden door de Partijen afzonderlijk of gezamenlijk bij het Secretariaat ingediend.
+##### Article 21. Consultations on and assessment of proposals
 
-2. De Partijen werken in voorkomend geval samen en plegen overleg met relevante belanghebbenden, waaronder staten en mondiale, regionale, subregionale en sectorale organisaties, alsmede met het maatschappelijk middenveld, de wetenschappelijke gemeenschap, de particuliere sector, inheemse volken en lokale gemeenschappen, met het oog op de ontwikkeling van voorstellen, zoals uiteengezet in dit Deel.
+1. Consultations on proposals submitted under [article 19](https://wetten.overheid.nl/BWBV0007029) shall be inclusive, transparent and open to all relevant stakeholders, including States and global, regional, subregional and sectoral bodies, as well as civil society, the scientific community, Indigenous Peoples and local communities.
 
-3. De voorstellen worden geformuleerd op basis van de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, relevante traditionele kennis van inheemse volken en lokale gemeenschappen, waarbij rekening wordt gehouden met de voorzorgsbenadering en een ecosysteemgerichte benadering.
+2. The secretariat shall facilitate consultations and gather input as follows:
 
-4. De voorstellen met betrekking tot de aangewezen gebieden omvatten de volgende essentiële elementen:
+- a) States, in particular adjacent coastal States, shall be notified and invited to submit, inter alia:
 
-- a. een geografische of ruimtelijke beschrijving van het gebied waarop het voorstel betrekking heeft, onder verwijzing naar de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&bijlage=I&z=2023-06-19&g=2023-06-19) gespecificeerde indicatieve criteria;
+   - (i) Views on the merits and geographic scope of the proposal;
 
-- b. informatie over de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&bijlage=I&z=2023-06-19&g=2023-06-19) gespecificeerde criteria, alsmede eventuele criteria die verder kunnen worden ontwikkeld en herzien overeenkomstig lid 5 hieronder, die worden toegepast om het gebied te identificeren;
+   - (ii) Any other relevant scientific input;
 
-- c. menselijke activiteiten in het gebied, met inbegrip van het gebruik door inheemse volken en lokale gemeenschappen, en de mogelijke gevolgen daarvan, indien van toepassing;
+   - (iii) Information regarding any existing measures or activities in adjacent or related areas within national jurisdiction and beyond national jurisdiction;
 
-- d. een beschrijving van de toestand van het mariene milieu en de biologische diversiteit in het afgebakende gebied;
+   - (iv) Views on the potential implications of the proposal for areas within national jurisdiction;
 
-- e. een beschrijving van de op het gebied toe te passen doelstellingen inzake instandhouding en, in voorkomend geval, inzake duurzaam gebruik;
+   - (v) Any other relevant information;
 
-- f. een ontwerpbeheersplan met de voorgestelde maatregelen en een beschrijving van de voorgestelde monitoring-, onderzoeks- en evaluatieactiviteiten om de gespecificeerde doelstellingen te bereiken;
+- b) Bodies of relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies shall be notified and invited to submit, inter alia:
 
-- g. de duur van het voorgestelde gebied en, in voorkomend geval, de voorgestelde maatregelen;
+   - (i) Views on the merits of the proposal;
 
-- h. informatie over eventueel overleg met staten, met inbegrip van aangrenzende kuststaten en/of relevante mondiale, regionale, subregionale en sectorale organisaties, indien van toepassing;
+   - (ii) Any other relevant scientific input;
 
-- i. informatie over gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, die worden uitgevoerd in het kader van relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties;
+   - (iii) Information regarding any existing measures adopted by that instrument, framework or body for the relevant area or for adjacent areas;
 
-- j. relevante wetenschappelijke inbreng en, indien beschikbaar, traditionele kennis van inheemse volken en lokale gemeenschappen.
+   - (iv) Views regarding any aspects of the measures and other elements for a draft management plan identified in the proposal that fall within the competence of that body;
 
-5. Indicatieve criteria voor de vaststelling van deze gebieden omvatten, voor zover relevant, de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&bijlage=I&z=2023-06-19&g=2023-06-19) vermelde criteria en kunnen, indien nodig, verder worden ontwikkeld en herzien door het wetenschappelijk en technisch orgaan met het oog op bespreking en goedkeuring ervan door de Conferentie van de Partijen.
+   - (v) Views regarding any relevant additional measures that fall within the competence of that instrument, framework or body;
 
-6. Verdere eisen met betrekking tot de inhoud van voorstellen, met inbegrip van de uitvoeringsbepalingen voor de toepassing van indicatieve criteria als bedoeld in het voorgaande lid 5, en richtsnoeren voor voorstellen als bedoeld in het voorgaande lid 4, punt b), worden zo nodig door het wetenschappelijk en technisch orgaan opgesteld met het oog op bespreking en goedkeuring door de Conferentie van de Partijen.
+   - (vi) Any other relevant information;
 
-##### Artikel 20. Publicatie en voorlopige beoordeling van voorstellen
+- c) Indigenous Peoples and local communities with relevant traditional knowledge, the scientific community, civil society and other relevant stakeholders shall be invited to submit, inter alia:
 
-Na ontvangst van een schriftelijk voorstel maakt het Secretariaat het voorstel openbaar en zendt het het voor een voorlopige beoordeling toe aan het wetenschappelijk en technisch orgaan. Het doel van de beoordeling is na te gaan of het voorstel de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=III&artikel=19&z=2023-06-19&g=2023-06-19) vereiste informatie bevat, met inbegrip van de in dit Deel en in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&bijlage=I&z=2023-06-19&g=2023-06-19) beschreven indicatieve criteria. Het resultaat van die evaluatie wordt openbaar gemaakt en door het Secretariaat aan de indiener meegedeeld. De indiener stuurt het voorstel opnieuw naar het Secretariaat, rekening houdend met de voorlopige beoordeling door het wetenschappelijk en technisch orgaan. Het Secretariaat stelt de Partijen daarvan in kennis en maakt dat opnieuw toegezonden voorstel openbaar en faciliteert het overleg overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=III&artikel=21&z=2023-06-19&g=2023-06-19).
+   - (i) Views on the merits of the proposal;
 
-##### Artikel 21. Overleg over en beoordeling van voorstellen
+   - (ii) Any other relevant scientific input;
 
-1. Het overleg over overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=III&artikel=19&z=2023-06-19&g=2023-06-19) ingediende voorstellen is inclusief en transparant en staat open voor alle relevante belanghebbenden, met inbegrip van staten en mondiale, regionale, subregionale en sectorale organisaties, alsmede het maatschappelijk middenveld, de wetenschappelijke gemeenschap, inheemse volken en lokale gemeenschappen.
+   - (iii) Any relevant traditional knowledge of Indigenous Peoples and local communities;
 
-2. Het Secretariaat faciliteert het overleg en verzamelt als volgt inbreng:
+   - (iv) Any other relevant information.
 
-- a. staten, met name aangrenzende kuststaten, worden in kennis gesteld en verzocht onder meer het volgende in te dienen:
+3. Contributions received pursuant to paragraph 2 above shall be made publicly available by the secretariat.
 
-- i. hun opmerkingen over de gegrondheid en de geografische reikwijdte van het voorstel;
+4. In cases where the proposed measure affects areas that are entirely surrounded by the exclusive economic zones of States, proponents shall:
 
-- ii. alle andere relevante wetenschappelijke inbreng;
+- a) Undertake targeted and proactive consultations, including prior notification, with such States;
 
-- iii. informatie over bestaande maatregelen of activiteiten in aangrenzende of verwante gebieden binnen de nationale rechtsmacht en buiten de nationale rechtsmacht;
+- b) Consider the views and comments of such States on the proposed measure and provide written responses specifically addressing such views and comments and, where appropriate, revise the proposed measure accordingly.
 
-- iv. standpunten over de mogelijke gevolgen van het voorstel voor gebieden binnen de nationale rechtsmacht;
+5. The proponent shall consider the contributions received during the consultation period, as well as the views of and information from the Scientific and Technical Body, and, as appropriate, revise the proposal accordingly or respond to substantive contributions not reflected in the proposal.
 
-- v. andere relevante informatie;
+6. The consultation period shall be time-bound.
 
-- b. organen van relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties worden in kennis gesteld en worden uitgenodigd om onder meer het volgende in te dienen:
+7. The revised proposal shall be submitted to the Scientific and Technical Body, which shall assess the proposal and make recommendations to the Conference of the Parties.
 
-- i. standpunten over de merites van het voorstel;
+8. The modalities for the consultation and assessment process, including duration, shall be further elaborated by the Scientific and Technical Body, as necessary, at its first meeting, for consideration and adoption by the Conference of the Parties, taking into account the special circumstances of small island developing States.
 
-- ii. alle andere relevante wetenschappelijke inbreng;
+##### Article 22. Establishment of area-based management tools, including marine protected areas
 
-- iii. informatie over bestaande maatregelen die bij dat instrument, dat kader of dat orgaan zijn vastgesteld voor het betrokken gebied of voor aangrenzende gebieden;
+1. The Conference of the Parties, on the basis of the final proposal and the draft management plan, taking into account the contributions and scientific input received during the consultation process established under this Part, and the scientific advice and recommendations of the Scientific and Technical Body:
 
-- iv. standpunten met betrekking tot alle aspecten van de maatregelen en andere elementen voor een ontwerpbeheersplan die in het voorstel worden genoemd en die onder de bevoegdheid van dat orgaan vallen;
+- a) Shall take decisions on the establishment of area-based management tools, including marine protected areas, and related measures;
 
-- v. standpunten met betrekking tot relevante aanvullende maatregelen die onder de bevoegdheid van dat instrument, dat kader of dat orgaan vallen;
+- b) May take decisions on measures compatible with those adopted by relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies, in cooperation and coordination with those instruments, frameworks and bodies;
 
-- vi. andere relevante informatie;
+- c) May, where proposed measures are within the competences of other global, regional, subregional or sectoral bodies, make recommendations to Parties to this Agreement and to global, regional, subregional and sectoral bodies to promote the adoption of relevant measures through such instruments, frameworks and bodies, in accordance with their respective mandates.
 
-- c. inheemse volken en lokale gemeenschappen met relevante traditionele kennis, de wetenschappelijke gemeenschap, het maatschappelijk middenveld en andere relevante belanghebbenden worden uitgenodigd om onder meer het volgende in te dienen:
+2. In taking decisions under this article, the Conference of the Parties shall respect the competences of, and not undermine, relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies.
 
-- i. standpunten over de gegrondheid van het voorstel;
+3. The Conference of the Parties shall make arrangements for regular consultations to enhance cooperation and coordination with and among relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies with regard to area-based management tools, including marine protected areas, as well as coordination with regard to related measures adopted under such instruments and frameworks and by such bodies.
 
-- ii. alle andere relevante wetenschappelijke inbreng;
+4. Where the achievement of the objectives and the implementation of this Part so requires, to further international cooperation and coordination with respect to the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction, the Conference of the Parties may consider and, subject to paragraphs 1 and 2 above, may decide, as appropriate, to develop a mechanism regarding existing area-based management tools, including marine protected areas, adopted by relevant legal instruments and frameworks or relevant global, regional, subregional or sectoral bodies.
 
-- iii. alle relevante traditionele kennis van inheemse volken en lokale gemeenschappen;
+5. Decisions and recommendations adopted by the Conference of the Parties in accordance with this Part shall not undermine the effectiveness of measures adopted in respect of areas within national jurisdiction and shall be made with due regard for the rights and duties of all States, in accordance with the [Convention](https://wetten.overheid.nl/BWBV0003172). In cases where measures proposed under this Part would affect or could reasonably be expected to affect the superjacent water above the seabed and subsoil of submarine areas over which a coastal State exercises sovereign rights in accordance with the Convention, such measures shall have due regard to the sovereign rights of such coastal States. Consultations shall be undertaken to that end, in accordance with the provisions of this Part.
 
-- iv. andere relevante informatie.
+6. In cases where an area-based management tool, including a marine protected area, established under this Part subsequently falls, either wholly or in part, within the national jurisdiction of a coastal State, the part within national jurisdiction shall immediately cease to be in force. The part remaining in areas beyond national jurisdiction shall remain in force until the Conference of the Parties, at its following meeting, reviews and decides whether to amend or revoke the area-based management tool, including a marine protected area, as necessary.
 
-3. De overeenkomstig het voorgaande lid 2 ontvangen bijdragen worden door het Secretariaat openbaar gemaakt.
+7. Upon the establishment of, or amendment to the competence of, a relevant legal instrument or framework or a relevant global, regional, subregional or sectoral body, any area-based management tool, including a marine protected area, or related measures adopted by the Conference of the Parties under this Part that subsequently falls within the competence of such instrument, framework or body, either wholly or in part, shall remain in force until the Conference of the Parties reviews and decides, in close cooperation and coordination with that instrument, framework or body, to maintain, amend or revoke the area-based management tool, including a marine protected area, and related measures, as appropriate.
 
-4. In gevallen waarin de voorgestelde maatregel gevolgen heeft voor gebieden die volledig omgeven zijn door de exclusieve economische zones van Staten, moeten de indieners:
+##### Article 23. Decision-making
 
-- a. met deze staten gericht en proactief overleg plegen, met inbegrip van voorafgaande kennisgeving;
+1. As a general rule, the decisions and recommendations under this Part shall be taken by consensus.
 
-- b. de standpunten en opmerkingen van die staten over de voorgestelde maatregel in overweging nemen en schriftelijke antwoorden verstrekken waarin specifiek wordt ingegaan op die standpunten en opmerkingen, en, in voorkomend geval, de voorgestelde maatregel dienovereenkomstig aanpassen.
+2. If no consensus is reached, decisions and recommendations under this Part shall be taken by a three-fourths majority of the Parties present and voting, before which the Conference of the Parties shall decide, by a two-thirds majority of the Parties present and voting that all efforts to reach consensus have been exhausted.
 
-5. De indiener houdt rekening met de tijdens de raadplegingsperiode ontvangen bijdragen, alsook met de standpunten en informatie van het wetenschappelijk en technisch orgaan, en herziet het voorstel in voorkomend geval dienovereenkomstig of reageert op inhoudelijke bijdragen die niet in het voorstel zijn opgenomen.
+3. Decisions taken under this Part shall enter into force 120 days after the meeting of the Conference of the Parties at which they were taken and shall be binding on all Parties.
 
-6. De raadplegingsperiode is tijdgebonden.
+4. During the period of 120 days provided for in paragraph 3 above, any Party may, by notification in writing to the secretariat, make an objection with respect to a decision adopted under this Part, and that decision shall not be binding on that Party. An objection to a decision may be withdrawn at any time by written notification to the secretariat and, thereupon, the decision shall be binding for that Party 90 days following the date of the notification stating that the objection is withdrawn.
 
-7. Het herziene voorstel wordt voorgelegd aan het wetenschappelijk en technisch orgaan, dat het voorstel beoordeelt en aanbevelingen doet aan de Conferentie van de Partijen.
+5. A Party making an objection under paragraph 4 above shall provide to the secretariat, in writing, at the time of making its objection, the explanation of the grounds for its objection, which shall be based on one or more of the following grounds:
 
-8. De uitvoeringsbepalingen voor het overleg- en beoordelingsproces, met inbegrip van de duur ervan, worden zo nodig verder uitgewerkt door het wetenschappelijk en technisch orgaan tijdens zijn eerste vergadering, met het oog op bespreking en goedkeuring door de Conferentie van de Partijen, waarbij rekening wordt gehouden met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling.
+- a) The decision is inconsistent with this Agreement or the rights and duties of the objecting Party in accordance with the [Convention](https://wetten.overheid.nl/BWBV0003172);
 
-##### Artikel 22. Vaststelling van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden
+- b) The decision unjustifiably discriminates in form or in fact against the objecting Party;
 
-1. Op basis van het definitieve voorstel en het ontwerpbeheersplan, rekening houdend met de bijdragen en de wetenschappelijke inbreng die tijdens het in het kader van dit Deel ingestelde overlegproces zijn ontvangen, en met het wetenschappelijk advies en de aanbevelingen van het wetenschappelijk en technisch orgaan, zal de Conferentie van de Partijen:
+- c) The Party cannot practicably comply with the decision at the time of the objection after making all reasonable efforts to do so.
 
-- a. besluiten nemen over de vaststelling van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, en daarmee samenhangende maatregelen;
+6. A Party making an objection under paragraph 4 above shall, to the extent practicable, adopt alternative measures or approaches that are equivalent in effect to the decision to which it has objected and shall not adopt measures nor take actions that would undermine the effectiveness of the decision to which it has objected unless such measures or actions are essential for the exercise of rights and duties of the objecting Party in accordance with the [Convention](https://wetten.overheid.nl/BWBV0003172).
 
-- b. besluiten kunnen nemen over maatregelen die verenigbaar zijn met de maatregelen die zijn vastgesteld door relevante rechtsinstrumenten en -kaders en door relevante mondiale, regionale, subregionale en sectorale organisaties, in samenwerking en coördinatie met die instrumenten, kaders en organisaties;
+7. The objecting Party shall report to the next ordinary meeting of the Conference of the Parties following its notification under paragraph 4 above, and periodically thereafter, on its implementation of paragraph 6 above, to inform the monitoring and review under [article 26](https://wetten.overheid.nl/BWBV0007029).
 
-- c. indien de voorgestelde maatregelen onder de bevoegdheid van andere mondiale, regionale, subregionale of sectorale organisaties vallen, aanbevelingen doen aan de Partijen bij deze Overeenkomst en aan mondiale, regionale, subregionale en sectorale organisaties om de vaststelling van relevante maatregelen via dergelijke instrumenten, kaders en organisaties te bevorderen, overeenkomstig hun respectieve mandaten.
+8. An objection to a decision made in accordance with paragraph 4 above may only be renewed if the objecting Party considers it still necessary, every three years after the entry into force of the decision, by written notification to the secretariat. Such written notification shall include an explanation of the grounds of its initial objection.
 
-2. Bij het nemen van besluiten op grond van dit artikel eerbiedigt de Conferentie van de Partijen de bevoegdheden van de relevante rechtsinstrumenten en -kaders en van de relevante mondiale, regionale, subregionale en sectorale organisaties, en ondermijnt zij deze niet.
+9. If no notification of renewal pursuant to paragraph 8 above is received, the objection shall be considered automatically withdrawn and, thereupon, the decision shall be binding for that Party 120 days after that objection is automatically withdrawn. The secretariat shall notify the Party 60 days prior to the date on which the objection will be automatically withdrawn.
 
-3. De Conferentie van de Partijen treft regelingen voor regelmatig overleg ter verbetering van de samenwerking en coördinatie met en tussen de relevante rechtsinstrumenten en -kaders en de relevante mondiale, regionale, subregionale en sectorale organisaties met betrekking tot gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, alsmede voor de coördinatie met betrekking tot gerelateerde maatregelen die in het kader van dergelijke instrumenten en kaders en door dergelijke organisaties zijn vastgesteld.
+10. Decisions of the Conference of the Parties adopted under this Part, and objections to those decisions, shall be made publicly available by the secretariat and shall be transmitted to all States and relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies.
 
-4. Wanneer de verwezenlijking van de doelstellingen en de uitvoering van dit Deel dit vereist, kan de Conferentie van de Partijen, om de internationale samenwerking en coördinatie met betrekking tot het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht te bevorderen, overwegen en, met inachtneming van de voorgaande leden 1 en 2, besluiten een mechanisme te ontwikkelen met betrekking tot bestaande gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, die zijn vastgesteld door relevante rechtsinstrumenten en -kaders of relevante mondiale, regionale, subregionale of sectorale organisaties.
+##### Article 24. Emergency measures
 
-5. Besluiten en aanbevelingen die door de Conferentie van de Partijen overeenkomstig dit Deel worden aangenomen, mogen geen afbreuk doen aan de doeltreffendheid van maatregelen die zijn vastgesteld voor gebieden die binnen de nationale rechtsmacht vallen, en worden genomen met inachtneming van de rechten en plichten van alle staten, in overeenstemming met het [Verdrag](onbekend). In gevallen waarin de in het kader van dit Deel voorgestelde maatregelen van invloed zouden zijn of waarvan redelijkerwijs verwacht wordt dat zij gevolgen zullen hebben voor de wateren boven de zeebodem en de ondergrond van de onder water gelegen gebieden waarover een kuststaat soevereine rechten uitoefent overeenkomstig het Verdrag, worden bij die maatregelen de soevereine rechten van die kuststaten naar behoren in acht genomen. Daartoe wordt overleg gepleegd overeenkomstig de bepalingen van dit Deel.
+1. The Conference of the Parties shall take decisions to adopt measures in areas beyond national jurisdiction, to be applied on an emergency basis, if necessary, when a natural phenomenon or human-caused disaster has caused, or is likely to cause, serious or irreversible harm to marine biological diversity of areas beyond national jurisdiction, to ensure that the serious or irreversible harm is not exacerbated.
 
-6. Indien een op grond van dit Deel ingesteld gebiedsgerichte beheersinstrument, met inbegrip van een beschermd marien gebied, vervolgens geheel of gedeeltelijk onder de nationale rechtsmacht van een kuststaat valt, is dit onmiddellijk niet langer van kracht voor het deel dat onder de nationale rechtsmacht valt. Het deel dat overblijft voor gebieden voorbij de grenzen van de nationale rechtsmacht, blijft van kracht totdat de Conferentie van de Partijen tijdens haar volgende vergadering het gebiedsgericht beheersinstrument, met inbegrip van een beschermd marien gebied, indien nodig herziet en besluit of het wordt gewijzigd of ingetrokken.
+2. Measures adopted under this article shall be considered necessary only if, following consultation with relevant legal instruments or frameworks or relevant global, regional, subregional or sectoral bodies, the serious or irreversible harm cannot be managed in a timely manner through the application of the other articles of this Agreement or by a relevant legal instrument or framework or a relevant global, regional, subregional or sectoral body.
 
-7. Bij de vaststelling of wijziging van de bevoegdheid van een relevant rechtsinstrument of -kader of een relevante mondiale, regionale, subregionale of sectorale organisatie blijft een gebiedsgericht beheersinstrument, met inbegrip van een beschermd marien gebied, of daarmee verband houdende maatregelen die door de Conferentie van de Partijen uit hoofde van dit Deel zijn vastgesteld en die vervolgens geheel of gedeeltelijk onder de bevoegdheid van dat instrument, kader of orgaan vallen, van kracht totdat de Conferentie van de Partijen, in nauwe samenwerking en coördinatie met dat instrument, kader of orgaan, het gebiedsgericht beheersinstrument, met inbegrip van een beschermd marien gebied, en daarmee verband houdende maatregelen, naargelang het geval, evalueert en besluit tot handhaving, wijziging of intrekking.
+3. Measures adopted on an emergency basis shall be based on the best available science and scientific information and, where available, relevant traditional knowledge of Indigenous Peoples and local communities and shall take into account the precautionary approach. Such measures may be proposed by Parties or recommended by the Scientific and Technical Body and may be adopted intersessionally. The measures shall be temporary and must be reconsidered for decision at the next meeting of the Conference of the Parties following their adoption.
 
-##### Artikel 23. Besluitvorming
+4. The measures shall terminate two years following their entry into force or shall be terminated earlier by the Conference of the Parties upon being replaced by area-based management tools, including marine protected areas, and related measures established in accordance with this Part, or by measures adopted by a relevant legal instrument or framework or relevant global, regional, subregional or sectoral body, or by a decision of the Conference of the Parties when the circumstances that necessitated the measure cease to exist.
 
-1. In de regel worden de in dit Deel bedoelde besluiten en aanbevelingen bij consensus genomen.
+5. Procedures and guidance for the establishment of emergency measures, including consultation procedures, shall be elaborated by the Scientific and Technical Body, as necessary, for consideration and adoption by the Conference of the Parties at its earliest opportunity. Such procedures shall be inclusive and transparent.
 
-2. Indien alle pogingen om een consensus te bereiken, zijn uitgeput, worden besluiten en aanbevelingen uit hoofde van dit Deel genomen met een meerderheid van drie vierde van de aanwezige en stemmende Partijen, nadat de Conferentie van de Partijen bij een meerderheid van twee derde van de aanwezige en stemmende Partijen heeft besloten dat alle pogingen om een consensus te bereiken, zijn uitgeput.
+##### Article 25. Implementation
 
-3. Krachtens dit Deel genomen besluiten treden 120 dagen na de vergadering van de Conferentie van de Partijen waarop zij zijn genomen, in werking en zijn bindend voor alle Partijen.
+1. Parties shall ensure that activities under their jurisdiction or control that take place in areas beyond national jurisdiction are conducted consistently with the decisions adopted under this Part.
 
-4. Gedurende de in het voorgaande lid 3 bedoelde periode van 120 dagen kan elke Partij, door middel van een schriftelijke kennisgeving aan het Secretariaat, bezwaar maken tegen een op grond van dit Deel vastgesteld besluit, in welk geval dat besluit niet bindend is voor de Partij in kwestie. Een bezwaar tegen een besluit kan te allen tijde worden ingetrokken door middel van een schriftelijke kennisgeving aan het Secretariaat, waarna het besluit 90 dagen na de datum van kennisgeving waarin wordt verklaard dat het bezwaar wordt ingetrokken, voor die Partij bindend is.
+2. Nothing in this Agreement shall prevent a Party from adopting more stringent measures with respect to its nationals and vessels or with regard to activities under its jurisdiction or control in addition to those adopted under this Part, in accordance with international law and in support of the objectives of the Agreement.
 
-5. Een Partij die overeenkomstig het voorgaande lid 4 bezwaar maakt, verstrekt het Secretariaat op het moment dat zij bezwaar maakt een schriftelijke verklaring van de redenen voor haar bezwaar, dat gebaseerd is op een of meer van de volgende gronden:
+3. The implementation of the measures adopted under this Part should not impose a disproportionate burden on Parties that are small island developing States or least developed countries, directly or indirectly.
 
-- a. het besluit is onverenigbaar met deze Overeenkomst of met de rechten en plichten van de bezwaarmakende Partij in overeenstemming met het [Verdrag](onbekend);
+4. Parties shall promote, as appropriate, the adoption of measures within relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies of which they are members, to support the implementation of the decisions and recommendations made by the Conference of the Parties under this Part.
 
-- b. het besluit vormt een ongerechtvaardigde formele of feitelijke discriminatie van de bezwaarmakende Partij;
+5. Parties shall encourage those States that are entitled to become Parties to this Agreement, in particular those whose activities, vessels or nationals operate in an area that is the subject of an established area-based management tool, including a marine protected area, to adopt measures supporting the decisions and recommendations of the Conference of the Parties on area-based management tools, including marine protected areas, established under this Part.
 
-- c. de Partij kan zich op het ogenblik van het bezwaar niet aan het besluit houden, nadat zij daartoe alle redelijke inspanningen heeft geleverd.
+6. A Party that is not a party to or a participant in a relevant legal instrument or framework, or a member of a relevant global, regional, subregional or sectoral body, and that does not otherwise agree to apply the measures established under such instruments and frameworks and by such bodies shall not be discharged from the obligation to cooperate, in accordance with the [Convention](https://wetten.overheid.nl/BWBV0003172) and this Agreement, in the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction.
 
-6. Een Partij die overeenkomstig het voorgaande lid 4 bezwaar maakt, stelt, voor zover mogelijk, alternatieve maatregelen of benaderingen vast die een gelijkwaardig effect hebben als het besluit waartegen zij bezwaar heeft gemaakt, en neemt geen maatregelen of onderneemt geen acties die de doeltreffendheid zouden ondermijnen van het besluit waartegen zij bezwaar heeft gemaakt, tenzij dergelijke maatregelen of acties essentieel zijn voor de uitoefening van de rechten en plichten van de bezwaarmakende Partij in overeenstemming met het [Verdrag](onbekend).
+##### Article 26. Monitoring and review
 
-7. De bezwaarmakende Partij brengt verslag uit aan de Conferentie van de Partijen op de gewone vergadering na de in het voorgaande lid 4 bedoelde kennisgeving, en vervolgens periodiek over de uitvoering van lid 6, om informatie te verstrekken over het toezicht en de evaluatie uit hoofde van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=III&artikel=26&z=2023-06-19&g=2023-06-19).
+1. Parties shall, individually or collectively, report to the Conference of the Parties on the implementation of area-based management tools, including marine protected areas, established under this Part and related measures. Such reports, as well as the information and the review referred to in paragraphs 2 and 3 below, respectively, shall be made publicly available by the secretariat.
 
-8. Een bezwaar tegen een overeenkomstig het voorgaande lid 4 genomen besluit kan alleen worden verlengd indien de bezwaarmakende Partij dit nog steeds nodig acht, en wel om de drie jaar na de inwerkingtreding van het besluit en door middel van een schriftelijke kennisgeving aan het Secretariaat. Deze schriftelijke kennisgeving bevat een toelichting van de redenen voor het oorspronkelijke bezwaar.
+2. The relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies shall be invited to provide information to the Conference of the Parties on the implementation of measures that they have adopted to achieve the objectives of area-based management tools, including marine protected areas, established under this Part.
 
-9. Indien er geen kennisgeving van verlenging overeenkomstig het voorgaande lid 8 wordt ontvangen, wordt het bezwaar geacht automatisch te zijn ingetrokken en is het besluit bijgevolg bindend voor die Partij 120 dagen nadat dat bezwaar automatisch is ingetrokken. Het Secretariaat stelt de Partij 60 dagen vóór de datum waarop het bezwaar automatisch wordt ingetrokken daarvan in kennis.
+3. Area-based management tools, including marine protected areas, established under this Part, including related measures, shall be monitored and periodically reviewed by the Scientific and Technical Body, taking into account the reports and information referred to in paragraphs 1 and 2 above, respectively.
 
-10. Op grond van dit Deel aangenomen besluiten van de Conferentie van de Partijen en bezwaren tegen deze besluiten worden door het Secretariaat openbaar gemaakt en worden toegezonden aan alle staten en aan alle relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties.
+4. In the review referred to in paragraph 3 above, the Scientific and Technical Body shall assess the effectiveness of area-based management tools, including marine protected areas, established under this Part, including related measures and the progress made in achieving their objectives, and provide advice and recommendations to the Conference of the Parties.
 
-##### Artikel 24. Noodmaatregelen
+5. Following the review, the Conference of the Parties shall, as necessary, take decisions or recommendations on the amendment, extension or revocation of area-based management tools, including marine protected areas, and any related measures adopted by the Conference of the Parties, on the basis of the best available science and scientific information and, where available, relevant traditional knowledge of Indigenous Peoples and local communities, taking into account the precautionary approach and an ecosystem approach.
 
-1. De Conferentie van de Partijen neemt besluiten om in gebieden voorbij de grenzen van de nationale rechtsmacht maatregelen vast te stellen die zo nodig in noodgevallen moeten worden toegepast wanneer een natuurverschijnsel of een door de mens veroorzaakte ramp ernstige of onomkeerbare schade heeft toegebracht of dreigt te veroorzaken aan de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht, om ervoor te zorgen dat de ernstige of onomkeerbare schade niet wordt verergerd.
+### PART IV. ENVIRONMENTAL IMPACT ASSESSMENTS
 
-2. Op grond van dit artikel vastgestelde maatregelen worden alleen noodzakelijk geacht indien de ernstige of onomkeerbare schade, na raadpleging van relevante rechtsinstrumenten of -kaders of relevante mondiale, regionale, subregionale of sectorale organisaties, niet tijdig kan worden beheerst door de toepassing van de andere artikelen van deze Overeenkomst of door een relevant rechtsinstrument of -kader of door een relevante mondiale, regionale, subregionale of sectorale organisatie.
+##### Article 27. Objectives
 
-3. Vastgestelde noodmaatregelen zijn gebaseerd op de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, op relevante traditionele kennis van inheemse volken en lokale gemeenschappen, en houden rekening met de voorzorgsbenadering. Dergelijke maatregelen kunnen door de Partijen worden voorgesteld of door het wetenschappelijk en technisch orgaan worden aanbevolen en kunnen tussen twee vergaderingen in worden vastgesteld. De maatregelen zijn tijdelijk en moeten op de eerstvolgende vergadering van de Conferentie van de Partijen opnieuw worden voorgelegd met het oog op besluitname.
+The objectives of this Part are to:
 
-4. De maatregelen worden twee jaar na hun inwerkingtreding beëindigd of worden eerder door de Conferentie van de Partijen beëindigd wanneer zij worden vervangen door gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, en daarmee verband houdende maatregelen die overeenkomstig dit Deel zijn vastgesteld, of door maatregelen die zijn vastgesteld bij een relevant rechtsinstrument of -kader of door een relevante mondiale, regionale, subregionale of sectorale organisatie, of door een besluit van de Conferentie van de Partijen wanneer de omstandigheden die de maatregel noodzakelijk maakten, ophouden te bestaan.
+- a) Operationalize the provisions of the [Convention](https://wetten.overheid.nl/BWBV0003172) on environmental impact assessment for areas beyond national jurisdiction by establishing processes, thresholds and other requirements for conducting and reporting assessments by Parties;
 
-5. Procedures en richtsnoeren voor de vaststelling van noodmaatregelen, met inbegrip van overlegprocedures, worden zo nodig opgesteld door het wetenschappelijk en technisch orgaan, met het oog op de zo spoedig mogelijke bespreking en goedkeuring door de Conferentie van de Partijen. Deze procedures zijn inclusief en transparant.
+- b) Ensure that activities covered by this Part are assessed and conducted to prevent, mitigate and manage significant adverse impacts for the purpose of protecting and preserving the marine environment;
 
-##### Artikel 25. Uitvoering
+- c) Support the consideration of cumulative impacts and impacts in areas within national jurisdiction;
 
-1. De Partijen zorgen ervoor dat activiteiten onder hun rechtsmacht of controle die plaatsvinden in gebieden voorbij de grenzen van de nationale rechtsmacht, worden uitgevoerd in overeenstemming met de uit hoofde van dit Deel genomen besluiten.
+- d) Provide for strategic environmental assessments;
 
-2. Niets in deze Overeenkomst belet een Partij strengere maatregelen vast te stellen ten aanzien van haar onderdanen en vaartuigen of met betrekking tot activiteiten die onder haar rechtsmacht of controle vallen, in aanvulling op die welke in het kader van dit Deel zijn vastgesteld, in overeenstemming met het internationaal recht en ter ondersteuning van de doelstellingen van de Overeenkomst.
+- e) Achieve a coherent environmental impact assessment framework for activities in areas beyond national jurisdiction;
 
-3. De uitvoering van de krachtens dit Deel vastgestelde maatregelen mag, rechtstreeks of onrechtstreeks, geen onevenredige last vormen voor Partijen die kleine eilandstaten in ontwikkeling of minst ontwikkelde landen zijn.
+- f) Build and strengthen the capacity of Parties, particularly developing States Parties, in particular the least developed countries, landlocked developing countries, geographically disadvantaged States, small island developing States, coastal African States, archipelagic States and developing middle-income countries, to prepare, conduct and evaluate environmental impact assessments and strategic environmental assessments in support of the objectives of this Agreement.
 
-4. De Partijen bevorderen, in voorkomend geval, de vaststelling van maatregelen binnen de relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties waarvan zij lid zijn, ter ondersteuning van de uitvoering van de besluiten en aanbevelingen van de Conferentie van de Partijen uit hoofde van dit Deel.
+##### Article 28. Obligation to conduct environmental impact assessments
 
-5. De Partijen moedigen de staten die het recht hebben Partij bij deze Overeenkomst te worden, met name staten waarvan de activiteiten, vaartuigen of onderdanen actief zijn in een gebied dat onder een vastgesteld gebiedsgericht beheersinstrument valt, met inbegrip van een beschermd marien gebied, aan om maatregelen te nemen ter ondersteuning van de besluiten en aanbevelingen van de Conferentie van de Partijen inzake gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, die krachtens dit Deel zijn ingesteld.
+1. Parties shall ensure that the potential impacts on the marine environment of planned activities under their jurisdiction or control that take place in areas beyond national jurisdiction are assessed as set out in this Part before they are authorized.
 
-6. Een Partij die geen Partij is bij of deelnemer is aan een relevant rechtsinstrument of rechtskader, of lid is van een relevante mondiale, regionale, subregionale of sectorale organisatie, en die niet anderszins instemt met de toepassing van de maatregelen die in het kader van dergelijke instrumenten en kaders zijn vastgesteld en die door dergelijke organisaties is ingesteld, wordt niet ontheven van de verplichting om overeenkomstig het [Verdrag](onbekend) en deze Overeenkomst samen te werken bij het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht.
+2. When a Party with jurisdiction or control over a planned activity that is to be conducted in marine areas within national jurisdiction determines that the activity may cause substantial pollution of or significant and harmful changes to the marine environment in areas beyond national jurisdiction, that Party shall ensure that an environmental impact assessment of such activity is conducted in accordance with this Part or that an environmental impact assessment is conducted under the Party’s national process. A Party conducting such an assessment under its national process shall:
 
-##### Artikel 26. Toezicht en evaluatie
+- a) Make relevant information available through the Clearing-House Mechanism, in a timely manner, during the national process;
 
-1. De Partijen brengen individueel of collectief verslag uit aan de Conferentie van de Partijen over de toepassing van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, die in het kader van dit Deel zijn ingesteld, en van de daarmee verband houdende maatregelen. Deze verslagen, alsmede de in de hiernavolgende leden 2 en 3 bedoelde informatie en evaluatie, worden door het Secretariaat openbaar gemaakt.
+- b) Ensure that the activity is monitored in a manner consistent with the requirements of its national process;
 
-2. De relevante rechtsinstrumenten en -kaders en de relevante mondiale, regionale, subregionale en sectorale organisaties worden uitgenodigd om de Conferentie van de Partijen informatie te verstrekken over de uitvoering van de maatregelen die zij hebben genomen ter verwezenlijking van de doelstellingen van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, die in het kader van dit Deel zijn vastgesteld.
+- c) Ensure that environmental impact assessment reports and any relevant monitoring reports are made available through the Clearing-House Mechanism as set out in this Agreement.
 
-3. De krachtens dit Deel vastgestelde gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, met inbegrip van daarmee verband houdende maatregelen, worden gemonitord en periodiek geëvalueerd door het wetenschappelijk en technisch orgaan, rekening houdend met de in de voorgaande leden 1 en 2 bedoelde verslagen en informatie.
+3. Upon receiving the information referred to in paragraph 2 (a) above, the Scientific and Technical Body may provide comments to the Party with jurisdiction or control over the planned activity.
 
-4. Bij de in het voorgaande lid 3 bedoelde evaluatie beoordeelt het wetenschappelijk en technisch orgaan de doeltreffendheid van de op grond van dit Deel ingestelde gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, met inbegrip van daarmee verband houdende maatregelen en de vooruitgang die is geboekt bij de verwezenlijking van de doelstellingen ervan, en verstrekt dit orgaan advies en aanbevelingen aan de Conferentie van de Partijen.
+##### Article 29. Relationship between this Agreement and environmental impact assessment processes under relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies
 
-5. Na de evaluatie neemt de Conferentie van de Partijen besluiten of formuleert aanbevelingen, waar nodig, over de wijziging, uitbreiding of intrekking van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, en alle daarmee verband houdende maatregelen die door de Conferentie van de Partijen zijn vastgesteld, op basis van de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, relevante traditionele kennis van inheemse volken en lokale gemeenschappen, rekening houdend met de voorzorgsbenadering en een ecosysteemgerichte benadering.
+1. Parties shall promote the use of environmental impact assessments and the adoption and implementation of the standards and/or guidelines developed under [article 38](https://wetten.overheid.nl/BWBV0007029) in relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies of which they are members.
 
-## DEEL IV. MILIEUEFFECTBEOORDELINGEN
+2. The Conference of the Parties shall develop mechanisms under this Part for the Scientific and Technical Body to collaborate with relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies that regulate activities in areas beyond national jurisdiction or protect the marine environment.
 
-##### Artikel 27. Doelstellingen
+3. When developing or updating standards or guidelines for the conduct of environmental impact assessments of activities in areas beyond national jurisdiction by Parties to this Agreement under [article 38](https://wetten.overheid.nl/BWBV0007029), the Scientific and Technical Body shall, as appropriate, collaborate with relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies.
 
-De doelstellingen van dit Deel zijn:
+4. It is not necessary to conduct a screening or an environmental impact assessment of a planned activity in areas beyond national jurisdiction, provided that the Party with jurisdiction or control over the planned activity determines:
 
-- a. de bepalingen van het [Verdrag](onbekend) inzake milieueffectbeoordeling voor gebieden voorbij de grenzen van de nationale rechtsmacht operationeel maken door processen, drempelwaarden en andere vereisten vast te stellen voor het uitvoeren en rapporteren van beoordelingen door de Partijen;
+- a) That the potential impacts of the planned activity or category of activity have been assessed in accordance with the requirements of other relevant legal instruments or frameworks or by relevant global, regional, subregional or sectoral bodies;
 
-- b. ervoor zorgen dat de onder dit Deel vallende activiteiten worden beoordeeld en uitgevoerd om aanmerkelijke negatieve effecten te voorkomen, te beperken en te beheren met als doel de bescherming en het behoud van het mariene milieu;
+- b) That:
 
-- c. ondersteunen van het in aanmerking nemen van cumulatieve effecten en effecten op gebieden binnen de nationale rechtsmacht;
+   - (i) the assessment already undertaken for the planned activity is equivalent to the one required under this Part, and the results of the assessment are taken into account; or
 
-- d. voorzien in strategische milieubeoordelingen;
+   - (ii) the regulations or standards of the relevant legal instruments or frameworks or relevant global, regional, subregional or sectoral bodies arising from the assessment were designed to prevent, mitigate or manage potential impacts below the threshold for environmental impact assessments under this Part, and they have been complied with.
 
-- e. tot stand brengen van een samenhangend milieueffectbeoordelingskader voor activiteiten in gebieden voorbij de grenzen van de nationale rechtsmacht;
+5. When an environmental impact assessment for a planned activity in areas beyond national jurisdiction has been conducted under a relevant legal instrument or framework or a relevant global, regional, subregional or sectoral body, the Party concerned shall ensure that the environmental impact assessment report is published through the Clearing-House Mechanism.
 
-- f. opbouwen en versterken van de capaciteit van de Partijen, met name de ontwikkelingslanden die Partij zijn, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden, staten met een ongunstige geografische ligging, kleine eilandstaten in ontwikkeling, Afrikaanse kuststaten, archipelstaten en ontwikkelingslanden met een middeninkomen, om ter ondersteuning van de doelstellingen van deze Overeenkomst milieueffectbeoordelingen en strategische milieubeoordelingen voor te bereiden, uit te voeren en te evalueren.
+6. Unless the planned activities that meet the criteria set out in paragraph 4 (b) (i) above are subject to monitoring and review under a relevant legal instrument or framework or relevant global, regional, subregional or sectoral body, Parties shall monitor and review the activities and ensure that the monitoring and review reports are published through the Clearing-House Mechanism.
 
-##### Artikel 28. Verplichting om milieueffectbeoordelingen uit te voeren
+##### Article 30. Thresholds and factors for conducting environmental impact assessments
 
-1. De Partijen zorgen ervoor dat de potentiële effecten op het mariene milieu van geplande activiteiten die onder hun rechtsmacht of controle vallen en die plaatsvinden voorbij de grenzen van de nationale rechtsmacht, worden beoordeeld overeenkomstig dit Deel voordat toestemming wordt verleend.
+1. When a planned activity may have more than a minor or transitory effect on the marine environment, or the effects of the activity are unknown or poorly understood, the Party with jurisdiction or control of the activity shall conduct a screening of the activity under [article 31](https://wetten.overheid.nl/BWBV0007029), using the factors set out in paragraph 2 below, and:
 
-2. Wanneer een Partij met rechtsmacht of controle over een geplande activiteit die moet worden uitgevoerd in mariene gebieden binnen nationale rechtsmacht vaststelt dat de activiteit aanzienlijke verontreiniging van of aanmerkelijke en schadelijke veranderingen in het mariene milieu kan teweegbrengen in gebieden voorbij de grenzen van de nationale rechtsmacht, ziet die Partij erop toe dat een milieueffectbeoordeling van die activiteit wordt uitgevoerd overeenkomstig dit Deel of dat een milieueffectbeoordeling wordt uitgevoerd in het kader van de nationale procedure van de Partij. Een Partij die een dergelijke beoordeling uitvoert in het kader van haar nationale procedure:
+- a) The screening shall be sufficiently detailed for the Party to assess whether it has reasonable grounds for believing that the planned activity may cause substantial pollution of or significant and harmful changes to the marine environment and shall include:
 
-- a. stelt tijdig relevante informatie beschikbaar via het uitwisselingsmechanisme tijdens de nationale procedure;
+   - (i) A description of the planned activity, including its purpose, location, duration and intensity; and
 
-- b. zorgt ervoor dat de activiteit wordt gemonitord op een wijze die strookt met de vereisten van haar nationale procedure;
+   - (ii) An initial analysis of the potential impacts, including consideration of cumulative impacts and, as appropriate, alternatives to the planned activity;
 
-- c. zorgt ervoor dat de milieueffectbeoordelingsrapport en alle relevante monitoringsrapportages in overeenstemming met deze Overeenkomst beschikbaar worden gesteld via het uitwisselingsmechanisme.
+- b) If it is determined on the basis of the screening that the Party has reasonable grounds for believing that the activity may cause substantial pollution of or significant and harmful changes to the marine environment, an environmental impact assessment shall be conducted in accordance with the provisions of this Part.
 
-3. Na ontvangst van de in het voorgaande lid 2, sub a), bedoelde informatie kan het wetenschappelijk en technisch orgaan opmerkingen indienen bij de Partij die rechtsmacht of controle heeft over de geplande activiteit.
+2. When determining whether planned activities under their jurisdiction or control meet the threshold set out in paragraph 1 above, Parties shall consider the following non-exhaustive factors:
 
-##### Artikel 29. Verband tussen deze Overeenkomst en milieueffectbeoordelingsprocessen in het kader van relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties
+- a) The type of and technology used for the activity and the manner in which it is to be conducted;
 
-1. De Partijen bevorderen het gebruik van milieueffectbeoordelingen en de vaststelling en uitvoering van de krachtens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=38&z=2023-06-19&g=2023-06-19) ontwikkelde normen en/of richtsnoeren in relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties waarvan zij lid zijn.
+- b) The duration of the activity;
 
-2. De Conferentie van de Partijen ontwikkelt in het kader van dit Deel mechanismen voor het wetenschappelijk en technisch orgaan om samen te werken met relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties die activiteiten in gebieden voorbij de grenzen van de nationale rechtsmacht reguleren of het mariene milieu beschermen.
+- c) The location of the activity;
 
-3. Bij het ontwikkelen of actualiseren van normen of richtsnoeren voor de uitvoering van milieueffectbeoordelingen van activiteiten in gebieden voorbij de grenzen van de nationale rechtsmacht door de Partijen bij deze Overeenkomst uit hoofde van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=38&z=2023-06-19&g=2023-06-19), werkt het wetenschappelijk en technisch orgaan in voorkomend geval samen met relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties.
+- d) The characteristics and ecosystem of the location (including areas of particular ecological or biological significance or vulnerability);
 
-4. Het is niet nodig een screening of een milieueffectbeoordeling uit te voeren van een geplande activiteit in gebieden voorbij de grenzen van de nationale rechtsmacht, als de Partij die rechtsmacht of controle heeft over de geplande activiteit, bepaalt:
+- e) The potential impacts of the activity, including the potential cumulative impacts and the potential impacts in areas within national jurisdiction;
 
-- a. dat de potentiële effecten van de geplande activiteit of categorie activiteiten zijn beoordeeld in overeenstemming met de vereisten van andere relevante rechtsinstrumenten of -kaders of door relevante mondiale, regionale, subregionale of sectorale organisaties;
+- f) The extent to which the effects of the activity are unknown or poorly understood;
 
-- b. dat:
+- g) Other relevant ecological or biological criteria.
 
-- i. de reeds voor de geplande activiteit uitgevoerde beoordeling gelijkwaardig is aan die welke op grond van dit Deel vereist is, en de resultaten van de beoordeling in aanmerking worden genomen; of
+##### Article 31. Process for environmental impact assessments
 
-- ii. de voorschriften of normen die vastgesteld zijn in de relevante rechtsinstrumenten of -kaders of door de relevante mondiale, regionale, subregionale of sectorale organisaties die uit de beoordeling voortvloeien, zijn ontworpen om potentiële effecten te voorkomen, af te zwakken of te beheren zodat zij onder de in dit Deel vastgelegde drempel voor milieueffectbeoordelingen blijven en dat deze voorschriften en normen zijn nageleefd.
+1. Parties shall ensure that the process for conducting an environmental impact assessment pursuant to this Part includes the following steps:
 
-5. Wanneer een milieueffectbeoordeling voor een geplande activiteit in gebieden voorbij de grenzen van de nationale rechtsmacht is uitgevoerd op grond van een relevant rechtsinstrument of rechtskader of een relevante mondiale, regionale, subregionale of sectorale organisatie, ziet de betrokken Partij erop toe dat het milieueffectbeoordelingsrapport via het uitwisselingsmechanisme wordt gepubliceerd.
+- a) *Screening.*Parties shall undertake screening, in a timely manner, to determine whether an environmental impact assessment is required in respect of a planned activity under its jurisdiction or control, in accordance with [article 30](https://wetten.overheid.nl/BWBV0007029), and make its determination publicly available:
 
-6. Tenzij de geplande activiteiten die voldoen aan de criteria van het voorgaande lid 4, punt b), i), worden gemonitord en geëvalueerd in het kader van een relevant rechtsinstrument of rechtskader of een relevante mondiale, regionale, subregionale of sectorale organisatie, monitoren en evalueren de Partijen de activiteiten en zorgen zij ervoor dat de monitoring- en evaluatierapportages via het uitwisselingsmechanisme worden gepubliceerd.
+   - (i) If a Party determines that an environmental impact assessment is not required for a planned activity under its jurisdiction or control, it shall make relevant information, including under [article 30, paragraph 1 (a)](https://wetten.overheid.nl/BWBV0007029), publicly available through the Clearing-House Mechanism under this Agreement;
 
-##### Artikel 30. Drempelwaarden en factoren voor het uitvoeren van milieueffectbeoordelingen
+   - (ii) On the basis of the best available science and scientific information and, where available, relevant traditional knowledge of Indigenous Peoples and local communities, a Party may register its views on the potential impacts of a planned activity on which a determination has been made in accordance with subparagraph (a) (i) above with the Party that made the determination and the Scientific and Technical Body, within 40 days of the publication thereof;
 
-1. Wanneer een geplande activiteit meer dan een gering of tijdelijk effect op het mariene milieu kan hebben, of wanneer de effecten van de activiteit onbekend of slecht begrepen zijn, voert de Partij met rechtsmacht of controle over de activiteit een screening uit van de activiteit overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=31&z=2023-06-19&g=2023-06-19), aan de hand van de in lid 2 hieronder genoemde factoren, met dien verstande dat:
+   - (iii) If the Party that registered its views expressed concerns on the potential impacts of a planned activity on which the determination was made, the Party that made that determination shall give consideration to such concerns and may review its determination;
 
-- a. de screening voldoende gedetailleerd is om de Partij in staat te stellen te beoordelen of zij redelijke gronden heeft om aan te nemen dat de geplande activiteit aanzienlijke verontreiniging van of aanmerkelijke en schadelijke veranderingen in het mariene milieu kan teweegbrengen, en het volgende omvat:
+   - (iv) Upon consideration of the concerns registered by a Party under subparagraph (a) (ii) above, the Scientific and Technical Body shall consider and may evaluate the potential impacts of the planned activity on the basis of the best available science and scientific information and, where available, relevant traditional knowledge of Indigenous Peoples and local communities and, as appropriate, may make recommendations to the Party that made the determination after giving that Party an opportunity to respond to the concerns registered and taking into account such response;
 
-- i. een beschrijving van de geplande activiteit, met inbegrip van het doel, de locatie, de duur en de intensiteit ervan; en
+   - (v) The Party that made the determination under subparagraph (a) (i) above shall give consideration to any recommendations of the Scientific and Technical Body;
 
-- ii. een eerste analyse van de potentiële effecten, met aandacht voor cumulatieve effecten en, in voorkomend geval, alternatieven voor de geplande activiteit;
+   - (vi) The registration of views and the recommendations of the Scientific and Technical Body shall be made publicly available, including through the Clearing-House Mechanism;
 
-- b. indien op basis van de screening wordt vastgesteld dat de Partij redelijke gronden heeft om aan te nemen dat de activiteit aanzienlijke verontreiniging van of aanmerkelijke en schadelijke veranderingen in het mariene milieu teweeg kan brengen, wordt een milieueffectbeoordeling uitgevoerd overeenkomstig de bepalingen van dit Deel.
+- b) *Scoping*. Parties shall ensure that key environmental and any associated impacts, such as economic, social, cultural and human health impacts, including potential cumulative impacts and impacts in areas within national jurisdiction, as well as alternatives to the planned activity, if any, to be included in the environmental impact assessments that shall be conducted under this Part, are identified. The scope shall be defined by using the best available science and scientific information and, where available, relevant traditional knowledge of Indigenous Peoples and local communities;
 
-2. Bij het bepalen of geplande activiteiten onder hun rechtsmacht of controle voldoen aan de in het voorgaande lid 1 vastgestelde drempelwaarde, nemen de Partijen de volgende niet-limitatieve lijst van factoren in overweging:
+- c) *Impact assessment and evaluation*. Parties shall ensure that the impacts of planned activities, including cumulative impacts and impacts in areas within national jurisdiction, are assessed and evaluated using the best available science and scientific information and, where available, relevant traditional knowledge of Indigenous Peoples and local communities;
 
-- a. het soort activiteit en de technologie die voor de activiteit wordt gebruikt en de wijze waarop deze moet worden uitgevoerd;
+- d) *Prevention, mitigation and management of potential adverse effects*. Parties shall ensure that:
 
-- b. de duur van de activiteit;
+   - (i) Measures to prevent, mitigate and manage potential adverse effects of the planned activities under their jurisdiction or control are identified and analysed to avoid significant adverse impacts. Such measures may include the consideration of alternatives to the planned activity under their jurisdiction or control;
 
-- c. de locatie van de activiteit;
+   - (ii) Where appropriate, these measures are incorporated into an environmental management plan;
 
-- d. de kenmerken en het ecosysteem van de locatie (met inbegrip van gebieden met een bijzondere ecologische of biologische significantie of kwetsbaarheid);
+- e) Parties shall ensure public notification and consultation in accordance with [article 32](https://wetten.overheid.nl/BWBV0007029);
 
-- e. de potentiële effecten van de activiteit, met inbegrip van de potentiële cumulatieve effecten en de potentiële effecten in gebieden binnen de nationale rechtsmacht;
+- f) Parties shall ensure the preparation and publication of an environmental impact assessment report in accordance with [article 33](https://wetten.overheid.nl/BWBV0007029).
 
-- f. de mate waarin de effecten van de activiteit onbekend of slecht begrepen zijn;
+2. Parties may conduct joint environmental impact assessments, in particular for planned activities under the jurisdiction or control of small island developing States.
 
-- g. andere relevante ecologische of biologische criteria.
+3. A roster of experts shall be created under the Scientific and Technical Body. Parties with capacity constraints may request advice and assistance from those experts to conduct and evaluate screenings and environmental impact assessments for a planned activity under their jurisdiction or control. The experts cannot be appointed to another part of the environmental impact assessment process of the same activity. The Party that requested the advice and assistance shall ensure that such environmental impact assessments are submitted to it for review and decision-making.
 
-##### Artikel 31. Procedure voor milieueffectbeoordelingen
+##### Article 32. Public notification and consultation
 
-1. De Partijen zorgen ervoor dat de procedure voor het uitvoeren van een milieueffectbeoordeling overeenkomstig dit Deel de volgende stappen omvat:
+1. Parties shall ensure timely public notification of a planned activity, including by publication through the Clearing-House Mechanism and through the secretariat, and planned and effective time-bound opportunities, as far as practicable, for participation by all States, in particular adjacent coastal States and any other States adjacent to the activity when they are potentially most affected States, and stakeholders in the environmental impact assessment process. Notification and opportunities for participation, including through the submission of comments, shall take place throughout the environmental impact assessment process, as appropriate, including when identifying the scope of an environmental impact assessment under [article 31, paragraph 1 (b)](https://wetten.overheid.nl/BWBV0007029), and when a draft environmental impact assessment report has been prepared under [article 33](https://wetten.overheid.nl/BWBV0007029), before a decision is made as to whether to authorize the activity.
 
-- a. **Screening.**De Partijen voeren tijdig een screening uit om vast te stellen of een milieueffectbeoordeling vereist is voor een geplande activiteit die onder hun rechtsmacht of controle valt, overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=30&z=2023-06-19&g=2023-06-19), en maken hun conclusie openbaar:
+2. Potentially most affected States shall be determined by taking into account the nature and potential effects on the marine environment of the planned activity and shall include:
 
-- i. indien een Partij vaststelt dat een milieueffectbeoordeling niet vereist is voor een geplande activiteit die onder haar rechtsmacht of controle valt, maakt zij relevante informatie, onder meer uit hoofde van [artikel 30, lid 1, sub a)](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=30&z=2023-06-19&g=2023-06-19), openbaar via het uitwisselingsmechanisme dat in het kader van deze Overeenkomst is ingesteld;
+- a) Coastal States whose exercise of sovereign rights for the purpose of exploring, exploiting, conserving or managing natural resources may reasonably be believed to be affected by the activity;
 
-- ii. op basis van de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, relevante traditionele kennis van inheemse volken en lokale gemeenschappen, kan elke Partij haar standpunten over de mogelijke gevolgen van een geplande activiteit ten aanzien waarvan overeenkomstig bovenvermeld sub a), onder i), een conclusie is opgesteld, binnen 40 dagen na de bekendmaking ervan circuleren aan de Partij die de conclusie heeft opgesteld en aan het wetenschappelijk en technisch orgaan;
+- b) States that carry out, in the area of the planned activity, human activities, including economic activities, that may reasonably be believed to be affected.
 
-- iii. indien de Partij die haar standpunten heeft overgemaakt, haar bezorgdheid heeft geuit over de mogelijke gevolgen van een geplande activiteit waarop de conclusie betrekking heeft, houdt de Partij die tot die conclusie heeft besloten, rekening met deze bezwaren en kan zij haar conclusie herzien;
+3. Stakeholders in this process include Indigenous Peoples and local communities with relevant traditional knowledge, relevant global, regional, subregional and sectoral bodies, civil society, the scientific community and the public.
 
-- iv. na afweging van de door een Partij als bedoeld in sub a), onder ii), ingediende bezwaren onderzoekt en kan het wetenschappelijk en technisch orgaan de potentiële effecten van de geplande activiteit beoordelen op basis van de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, relevante traditionele kennis van inheemse volken en lokale gemeenschappen, en kan het, in voorkomend geval, aanbevelingen doen aan de Partij die de conclusie heeft opgesteld, nadat die Partij in de gelegenheid is gesteld te reageren op de geconstateerde bezwaren en rekening houdend met dit antwoord;
+4. Public notification and consultation shall, in accordance with [article 48, paragraph 3](https://wetten.overheid.nl/BWBV0007029), be inclusive and transparent, be conducted in a timely manner and be targeted and proactive when involving small island developing States.
 
-- v. de Partij die de in sub a), onder i), bedoelde conclusie heeft getrokken, onderzoekt alle aanbevelingen van het wetenschappelijk en technisch orgaan;
+5. Substantive comments received during the consultation process, including from adjacent coastal States and any other States adjacent to the planned activity when they are potentially most affected States, shall be considered and responded to or addressed by Parties. Parties shall give particular regard to comments concerning potential impacts in areas within national jurisdiction and provide written responses, as appropriate, specifically addressing such comments, including regarding any additional measures meant to address those potential impacts. Parties shall make public the comments received and the responses or descriptions of the manner in which they were addressed.
 
-- vi. de optekening van de standpunten en de aanbevelingen van het wetenschappelijk en technisch orgaan wordt openbaar gemaakt, onder meer via het uitwisselingsmechanisme.
+6. Where a planned activity affects areas of the high seas that are entirely surrounded by the exclusive economic zones of States, Parties shall:
 
-- b. **Scoping**. De Partijen zorgen ervoor dat de belangrijkste milieueffecten en alle daarmee samenhangende effecten, zoals economische, sociale en culturele effecten en effecten voor de menselijke gezondheid, met inbegrip van potentiële cumulatieve effecten en effecten in gebieden binnen de nationale rechtsmacht, alsook eventuele alternatieven voor de geplande activiteit die moeten worden opgenomen in de milieueffectbeoordelingen die uit hoofde van dit Deel worden uitgevoerd, worden geïdentificeerd. De reikwijdte en het detailleringsniveau worden bepaald aan de hand van de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, relevante traditionele kennis van inheemse volken en lokale gemeenschappen.
+- a) Undertake targeted and proactive consultations, including prior notification, with such surrounding States;
 
-- c. **Effectbeoordeling** **en evaluatie**. De Partijen zorgen ervoor dat de effecten van geplande activiteiten, met inbegrip van cumulatieve effecten en effecten in gebieden binnen de nationale rechtsmacht, worden beoordeeld en geëvalueerd aan de hand van de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, relevante traditionele kennis van inheemse volken en lokale gemeenschappen.
+- b) Consider the views and comments of those surrounding States on the planned activity and provide written responses specifically addressing such views and comments and, as appropriate, revise the planned activity accordingly.
 
-- d. **Preventie, mitigatie en beheer van mogelijke negatieve effecten**. De Partijen zorgen ervoor dat:
+7. Parties shall ensure access to information related to the environmental impact assessment process under this Agreement. Notwithstanding this, Parties shall not be required to disclose confidential or proprietary information. The fact that confidential or proprietary information has been redacted shall be indicated in public documents.
 
-- i. maatregelen om mogelijke negatieve effecten van de geplande activiteiten onder hun rechtsmacht of controle te voorkomen, te beperken en te beheren, worden vastgesteld en geanalyseerd om aanmerkelijke negatieve effecten te voorkomen. Dergelijke maatregelen kunnen onder meer inhouden dat alternatieven worden overwogen voor de geplande activiteit die onder hun rechtsmacht of controle valt;
+##### Article 33. Environmental impact assessment reports
 
-- ii. in voorkomend geval worden deze maatregelen opgenomen in een milieubeheerplan.
+1. Parties shall ensure the preparation of an environmental impact assessment report for any such assessment undertaken pursuant to this Part.
 
-- e. De Partijen zorgen voor openbare kennisgeving en raadpleging overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=32&z=2023-06-19&g=2023-06-19) van deze Overeenkomst.
+2. The environmental impact assessment report shall include, at a minimum, the following information: a description of the planned activity, including its location; a description of the results of the scoping exercise; a baseline assessment of the marine environment likely to be affected; a description of potential impacts, including potential cumulative impacts and any impacts in areas within national jurisdiction; a description of potential prevention, mitigation and management measures; a description of uncertainties and gaps in knowledge; information on the public consultation process; a description of the consideration of reasonable alternatives to the planned activity; a description of follow-up actions, including an environmental management plan; and a non-technical summary.
 
-- f. De Partijen zorgen voor de opstelling en publicatie van een milieueffectrapport overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=33&z=2023-06-19&g=2023-06-19) van deze Overeenkomst.
+3. The Party shall make the draft environmental impact assessment report available through the Clearing-House Mechanism during the public consultation process, to provide an opportunity for the Scientific and Technical Body to consider and evaluate the report.
 
-2. De Partijen kunnen gezamenlijke milieueffectbeoordelingen uitvoeren, met name voor geplande activiteiten die onder de rechtsmacht of controle van kleine eilandstaten in ontwikkeling vallen.
+4. The Scientific and Technical Body, as appropriate and in a timely manner, may make comments to the Party on the draft environmental impact assessment report. The Party shall give consideration to any comments made by the Scientific and Technical Body.
 
-3. Onder toezicht van het wetenschappelijk en technisch orgaan wordt een lijst van deskundigen opgesteld. Partijen met capaciteitsbeperkingen kunnen deze deskundigen om advies en bijstand verzoeken bij het uitvoeren en evalueren van screenings en milieueffectbeoordelingen voor een geplande activiteit die onder hun rechtsmacht of controle valt. De deskundigen kunnen niet worden aangesteld voor een ander onderdeel van het milieueffectbeoordelingsproces van dezelfde activiteit. De Partij die om advies en bijstand heeft verzocht, zorgt ervoor dat deze milieueffectbeoordelingen haar ter toetsing en besluitvorming worden voorgelegd.
+5. Parties shall publish the reports of the environmental impact assessments, including through the Clearing-House Mechanism. The secretariat shall ensure that all Parties are notified in a timely manner when reports are published through the Clearing-House Mechanism.
 
-##### Artikel 32. Openbare kennisgeving en raadpleging
+6. Final environmental impact assessment reports shall be considered by the Scientific and Technical Body, on the basis of relevant practices, procedures and knowledge under this Agreement, for the purpose of developing guidelines, including the identification of best practices.
 
-1. De Partijen zorgen voor tijdige openbare kennisgeving van een geplande activiteit, onder meer door publicatie via het uitwisselingsmechanisme en via het Secretariaat, en voor geplande en effectieve tijdsgebonden mogelijkheden, voor zover praktisch haalbaar, voor deelname aan de milieueffectbeoordeling voor alle staten, met name aangrenzende kuststaten en andere staten die grenzen aan de activiteit en mogelijk de meeste gevolgen hiervan ondervinden, en voor alle belanghebbenden. Kennisgeving en mogelijkheden voor deelname, onder meer door het indienen van opmerkingen, vinden plaats tijdens het gehele milieueffectbeoordelingsproces, in voorkomend geval ook wanneer de reikwijdte en het detailleringsniveau van een milieueffectbeoordeling overeenkomstig [artikel 31, lid 1, sub b)](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=31&z=2023-06-19&g=2023-06-19), worden vastgesteld en wanneer een ontwerp-milieueffectrapport is opgesteld overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=33&z=2023-06-19&g=2023-06-19), voordat een besluit wordt genomen over het al dan niet verlenen van toestemming voor de activiteit.
+7. A selection of the published information used in the screening process to make decisions on whether to conduct an environmental impact assessment, in accordance with [articles 30](https://wetten.overheid.nl/BWBV0007029) and [31](https://wetten.overheid.nl/BWBV0007029), shall be considered and reviewed by the Scientific and Technical Body, on the basis of relevant practices, procedures and knowledge under this Agreement, for the purpose of developing guidelines, including the identification of best practices.
 
-2. De potentieel meest getroffen staten worden bepaald door rekening te houden met de aard en de potentiële gevolgen van de geplande activiteit op het mariene milieu en omvatten:
+##### Article 34. Decision-making
 
-- a. kuststaten waarvan redelijkerwijs kan worden aangenomen dat de uitoefening van soevereine rechten met het oog op de exploratie, de exploitatie, het behoud of het beheer van natuurlijke bronnen door de activiteit wordt beïnvloed;
+1. A Party under whose jurisdiction or control a planned activity falls shall be responsible for determining if it may proceed.
 
-- b. staten die op het gebied van de geplande activiteit menselijke activiteiten verrichten, met inbegrip van economische activiteiten, waarvan redelijkerwijs mag worden aangenomen dat zij worden getroffen.
+2. When determining whether the planned activity may proceed under this Part, full account shall be taken of an environmental impact assessment conducted in accordance with this Part. A decision to authorize the planned activity under the jurisdiction or control of a Party shall only be made when, taking into account mitigation or management measures, the Party has determined that it has made all reasonable efforts to ensure that the activity can be conducted in a manner consistent with the prevention of significant adverse impacts on the marine environment.
 
-3. Belanghebbenden bij dit proces zijn onder meer inheemse volken en lokale gemeenschappen met relevante traditionele kennis, relevante mondiale, regionale, subregionale en sectorale organisaties, het maatschappelijk middenveld, de wetenschappelijke gemeenschap en het publiek.
+3. Decision documents shall clearly outline any conditions of approval related to mitigation measures and follow-up requirements. Decision documents shall be made public, including through the Clearing-House Mechanism.
 
-4. Wanneer het kleine eilandstaten in ontwikkeling betreft, moeten de openbare kennisgeving en raadpleging overeenkomstig [artikel 48, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=VI&artikel=48&z=2023-06-19&g=2023-06-19), inclusief en transparant zijn, tijdig uitgevoerd worden en gericht en proactief zijn.
+4. At the request of a Party, the Conference of the Parties may provide advice and assistance to that Party when determining whether a planned activity under its jurisdiction or control may proceed.
 
-5. Inhoudelijke opmerkingen die tijdens het raadplegingsproces worden ontvangen, ook van aangrenzende kuststaten en andere staten die grenzen aan de geplande activiteit wanneer zij potentieel meest getroffen staten zijn, worden in overweging genomen en door de Partijen behandeld. De Partijen houden in het bijzonder rekening met opmerkingen over mogelijke gevolgen in gebieden binnen de nationale rechtsmacht en dienen zo nodig schriftelijke antwoorden in, waarin specifiek wordt ingegaan op dergelijke opmerkingen, onder meer met betrekking tot eventuele aanvullende maatregelen om die potentiële effecten aan te pakken. De Partijen maken de ontvangen opmerkingen en de antwoorden of beschrijvingen van de wijze waarop deze zijn behandeld openbaar.
+##### Article 35. Monitoring of impacts of authorized activities
 
-6. Wanneer een geplande activiteit gevolgen heeft voor gebieden op volle zee die volledig omgeven zijn door de exclusieve economische zones van staten, doen de Partijen het volgende:
+Parties shall, by using the best available science and scientific information and, where available, the relevant traditional knowledge of Indigenous Peoples and local communities, keep under surveillance the impacts of any activities in areas beyond national jurisdiction that they permit or in which they engage in order to determine whether these activities are likely to pollute or have adverse impacts on the marine environment. In particular, each Party shall monitor the environmental and any associated impacts, such as economic, social, cultural and human health impacts, of an authorized activity under their jurisdiction or control in accordance with the conditions set out in the approval of the activity.
 
-- a. zij plegen met deze omringende staten gericht en proactief overleg, met inbegrip van voorafgaande kennisgeving;
+##### Article 36. Reporting on impacts of authorized activities
 
-- b. zij houden rekening met de standpunten en opmerkingen van de omringende staten over de geplande activiteit en verstrekken schriftelijke antwoorden waarin specifiek wordt ingegaan op die standpunten en opmerkingen, en, in voorkomend geval, passen zij de geplande activiteit dienovereenkomstig aan.
+1. Parties, whether acting individually or collectively, shall periodically report on the impacts of the authorized activity and the results of the monitoring required under [article 35](https://wetten.overheid.nl/BWBV0007029).
 
-7. De Partijen zorgen voor toegang tot informatie met betrekking tot het milieueffectbeoordelingsproces in het kader van deze Overeenkomst. Desondanks zijn de Partijen niet verplicht vertrouwelijke of gepatenteerde informatie openbaar te maken. Het feit dat vertrouwelijke of bedrijfseigen informatie is bewerkt, wordt vermeld in openbare documenten.
+2. Monitoring reports shall be made public, including through the Clearing-House Mechanism, and the Scientific and Technical Body may consider and evaluate the monitoring reports.
 
-##### Artikel 33. Rapporten over milieueffectbeoordelingen
+3. Monitoring reports shall be considered by the Scientific and Technical Body, on the basis of relevant practices, procedures and knowledge under this Agreement, for the purpose of developing guidelines on the monitoring of impacts of authorized activities, including the identification of best practices.
 
-1. De Partijen zorgen voor de opstelling van een milieueffectrapport voor een dergelijke overeenkomstig dit Deel uitgevoerde beoordeling.
+##### Article 37. Review of authorized activities and their impacts
 
-2. Het milieueffectbeoordelingsrapport bevat ten minste de volgende informatie: een beschrijving van de geplande activiteit, met inbegrip van de locatie ervan; een beschrijving van de resultaten van het verkennend onderzoek; een beoordeling van het referentieniveau van het mariene milieu dat waarschijnlijk zal worden aangetast; een beschrijving van de potentiële effecten, met inbegrip van potentiële cumulatieve effecten en eventuele effecten in gebieden binnen de nationale rechtsmacht; een beschrijving van mogelijke preventie-, mitigatie- en beheersmaatregelen; een beschrijving van onzekerheden en kennishiaten; informatie over de openbare raadpleging; een beschrijving van de overweging van redelijke alternatieven voor de geplande activiteit; een beschrijving van de vervolgacties, met inbegrip van een milieubeheerplan; en een niet-technische samenvatting.
+1. Parties shall ensure that the impacts of the authorized activity monitored pursuant to [article 35](https://wetten.overheid.nl/BWBV0007029) are reviewed.
 
-3. De Partij stelt het ontwerp van het milieueffectrapport tijdens de openbare raadpleging via het uitwisselingsmechanisme beschikbaar om het wetenschappelijk en technisch orgaan de gelegenheid te bieden het verslag te bestuderen en te evalueren.
+2. Should the Party with jurisdiction or control over the activity identify significant adverse impacts that either were not foreseen in the environmental impact assessment, in nature or severity, or that arise from a breach of any of the conditions set out in the approval of the activity, the Party shall review its decision authorizing the activity, notify the Conference of the Parties, other Parties and the public, including through the Clearing-House Mechanism, and:
 
-4. Het wetenschappelijk en technisch orgaan kan, in voorkomend geval en tijdig, aan de Partij opmerkingen doen toekomen over het ontwerp van het milieueffectbeoordelingsrapport. De Partij houdt rekening met eventuele opmerkingen van het wetenschappelijk en technisch orgaan.
+- a) Require that measures be proposed and implemented to prevent, mitigate and/or manage those impacts or take any other necessary action and/or halt the activity, as appropriate; and
 
-5. De Partijen publiceren de verslagen van de milieueffectbeoordelingen, onder meer via het uitwisselingsmechanisme. Het Secretariaat zorgt ervoor dat alle Partijen tijdig in kennis worden gesteld van de publicatie van verslagen via het uitwisselingsmechanisme.
+- b) Evaluate, in a timely manner, any measures implemented or actions taken under subparagraph (a) above.
 
-6. De definitieve milieueffectrapporten worden door het wetenschappelijk en technisch orgaan op basis van de relevante praktijken, procedures en kennis in het kader van deze Overeenkomst in overweging genomen met het oog op de ontwikkeling van richtsnoeren, met inbegrip van de vaststelling van best practices.
+3. On the basis of the reports received under [article 36](https://wetten.overheid.nl/BWBV0007029), the Scientific and Technical Body may notify the Party that authorized the activity if it considers that the activity may have significant adverse impacts that were either not foreseen in the environmental impact assessment or that arise from a breach of any conditions of approval of the authorized activity and, as appropriate, may make recommendations to the Party.
 
-7. Een selectie van de gepubliceerde informatie die in het screeningproces wordt gebruikt om besluiten te nemen over het al dan niet uitvoeren van een milieueffectbeoordeling overeenkomstig de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=30&z=2023-06-19&g=2023-06-19) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=31&z=2023-06-19&g=2023-06-19), wordt door het wetenschappelijk en technisch orgaan in overweging genomen en beoordeeld op basis van relevante praktijken, procedures en kennis in het kader van deze Overeenkomst, met het oog op het ontwikkelen van richtsnoeren, met inbegrip van de vaststelling van best practices.
+4. - a) On the basis of the best available science and scientific information and, where available, relevant traditional knowledge of Indigenous Peoples and local communities, a Party may register its concerns, with the Party that authorized the activity and with the Scientific and Technical Body, that the authorized activity may have significant adverse impacts that were either not foreseen in the environmental impact assessment, in nature or severity, or that arise from a breach of any conditions of approval of the authorized activity;
 
-##### Artikel 34. Besluitvorming
+- b) The Party that authorized the activity shall give consideration to such concerns;
 
-1. Het is de taak van de Partij die de rechtsmacht of controle over een geplande activiteit heeft, om te bepalen of de activiteit mag doorgaan.
+- c) Upon consideration of the concerns registered by a Party, the Scientific and Technical Body shall consider and may evaluate the matter based on the best available science and scientific information and, where available, relevant traditional knowledge of Indigenous Peoples and local communities and may notify the Party that authorized the activity, if it considers that such activity may have significant adverse impacts that were either not foreseen in the environmental impact assessment or that arise from a breach of any conditions of approval of the authorized activity and, after giving that Party an opportunity to respond to the concerns registered and taking into account such response and as appropriate, may make recommendations to the Party that authorized the activity;
 
-2. Bij het bepalen of de geplande activiteit op grond van dit Deel mag plaatsvinden, wordt ten volle rekening gehouden met een overeenkomstig dit Deel uitgevoerde milieueffectbeoordeling. Een besluit om toestemming te verlenen voor de geplande activiteit onder de rechtsmacht of de controle van een Partij wordt alleen genomen wanneer de Partij, rekening houdende met mitigatie- of beheersmaatregelen, heeft vastgesteld dat zij alle redelijke inspanningen heeft geleverd om ervoor te zorgen dat de activiteit kan worden uitgevoerd op een wijze die strookt met het voorkomen van aanmerkelijke negatieve effecten op het mariene milieu.
+- d) The registration of concerns, any notifications issued and any recommendations made by the Scientific and Technical Body shall be made publicly available, including through the Clearing-House Mechanism;
 
-3. In de beslisdocumenten worden alle goedkeuringsvoorwaarden met betrekking tot risicobeperkende maatregelen en follow-upvoorschriften duidelijk vermeld. Beslisdocumenten worden openbaar gemaakt, onder meer via het uitwisselingsmechanisme.
+- e) The Party that authorized the activity shall give consideration to any notifications issued and any recommendations made by the Scientific and Technical Body.
 
-4. Op verzoek van een Partij kan de Conferentie van de Partijen aan die Partij advies en bijstand verlenen bij het bepalen of een geplande activiteit onder haar rechtsmacht of controle mag worden voortgezet.
+5. All States, in particular adjacent coastal States and any other States adjacent to the activity when they are potentially most affected States, and stakeholders shall be kept informed through the Clearing-House Mechanism and may be consulted in the monitoring, reporting and review processes in respect of an activity authorized under this Agreement.
 
-##### Artikel 35. Monitoring van de effecten van toegestane activiteiten
+6. Parties shall publish, including through the Clearing-House Mechanism:
 
-De Partijen houden, door gebruik te maken van de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, de relevante traditionele kennis van inheemse volken en lokale gemeenschappen, toezicht op de effecten van activiteiten in gebieden voorbij de grenzen van de nationale rechtsmacht die zij toestaan of waarin zij actief zijn, om te bepalen of deze activiteiten het mariene milieu zouden kunnen vervuilen of nadelig zouden kunnen beïnvloeden. Elke Partij houdt met name toezicht op de milieueffecten en alle daarmee samenhangende effecten, zoals economische, sociale en culturele effecten en gevolgen voor de menselijke gezondheid, van een onder haar bevoegdheid of controle vallende activiteit waarvoor toestemming is verleend, overeenkomstig de voorwaarden die zijn vastgesteld in de goedkeuring van de activiteit.
+- a) Reports on the review of the impacts of the authorized activity;
 
-##### Artikel 36. Rapportage over de effecten van toegestane activiteiten
+- b) Decision documents, including a record of the reasons for the decision by the Party, when a Party has changed its decision authorizing the activity.
 
-1. Partijen die individueel of collectief optreden, brengen periodiek verslag uit over de effecten van de toegestane activiteit en de resultaten van de krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=35&z=2023-06-19&g=2023-06-19) vereiste monitoring.
+##### Article 38. Standards and/or guidelines to be developed by the Scientific and Technical Body related to environmental impact assessments
 
-2. Monitoringsrapportages worden openbaar gemaakt, onder meer via het uitwisselingsmechanisme, en het wetenschappelijk en technisch orgaan kan de monitoringsrapportages in overweging nemen en evalueren.
+1. The Scientific and Technical Body shall develop standards or guidelines for consideration and adoption by the Conference of the Parties on:
 
-3. Monitoringsrapportages worden door het wetenschappelijk en technisch orgaan op basis van relevante praktijken, procedures en kennis in het kader van deze Overeenkomst in overweging genomen met het oog op de ontwikkeling van richtsnoeren voor de monitoring van de effecten van toegestane activiteiten, met inbegrip van de vaststelling van best practices.
+- a) The determination of whether the thresholds for the conduct of a screening or an environmental impact assessment under [article 30](https://wetten.overheid.nl/BWBV0007029) have been met or exceeded for planned activities, including on the basis of the non-exhaustive factors set out in paragraph 2 of that article;
 
-##### Artikel 37. Evaluatie van toegestane activiteiten en de effecten daarvan
+- b) The assessment of cumulative impacts in areas beyond national jurisdiction and how those impacts should be taken into account in the environmental impact assessment process;
 
-1. De Partijen zorgen ervoor dat de effecten van de overeenkomstig [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=35&z=2023-06-19&g=2023-06-19) gemonitorde activiteit waarvoor toestemming is verleend, worden geëvalueerd.
+- c) The assessment of impacts, in areas within national jurisdiction, of planned activities in areas beyond national jurisdiction and how those impacts should be taken into account in the environmental impact assessment process;
 
-2. Indien de Partij die rechtsmacht of controle heeft over de activiteit, aanmerkelijke nadelige effecten vaststelt die niet in de milieueffectbeoordeling waren voorzien, in aard of ernst, of die voortvloeien uit een inbreuk op een van de voorwaarden die zijn vastgesteld in de goedkeuring van de activiteit, herziet de Partij haar besluit waarbij toestemming wordt verleend voor de activiteit, en stelt zij de Conferentie van de Partijen, de andere Partijen en het publiek daarvan in kennis, onder meer via het uitwisselingsmechanisme, en:
+- d) The public notification and consultation process under [article 32](https://wetten.overheid.nl/BWBV0007029), including the determination of what constitutes confidential or proprietary information;
 
-- a. eist zij dat maatregelen worden voorgesteld en uitgevoerd om die effecten te voorkomen, te beperken en/of te beheren, of om andere noodzakelijke maatregelen te nemen en/of de activiteit stop te zetten, naargelang het geval; en
+- e) The required content of environmental impact assessment reports and published information used in the screening process pursuant to [article 33](https://wetten.overheid.nl/BWBV0007029), including best practices;
 
-- b. evalueert zij tijdig welke maatregelen zijn uitgevoerd of welke acties in het kader van sub a) hierboven zijn ondernomen.
+- f) The monitoring of and reporting on the impacts of authorized activities as set out in [articles 35](https://wetten.overheid.nl/BWBV0007029) and [36](https://wetten.overheid.nl/BWBV0007029), including the identification of best practices;
 
-3. Op basis van de uit hoofde van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=36&z=2023-06-19&g=2023-06-19) ontvangen verslagen kan het wetenschappelijk en technisch orgaan de Partij die toestemming voor de activiteit heeft verleend, ervan in kennis stellen dat het van oordeel is dat de activiteit aanmerkelijke nadelige effecten kan hebben die niet in de milieueffectbeoordeling waren voorzien of die voortvloeien uit een schending van de voorwaarden voor de goedkeuring van de toegestane activiteit, en kan het, in voorkomend geval, aanbevelingen doen aan de Partij.
+- g) The conduct of strategic environmental assessments.
 
-- a. Op basis van de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, relevante traditionele kennis van inheemse volken en lokale gemeenschappen, kan een Partij haar bedenkingen indienen bij de Partij die de activiteit heeft goedgekeurd en bij het wetenschappelijk en technisch orgaan, dat de toegestane activiteit aanmerkelijke nadelige effecten kan hebben die in de milieueffectbeoordeling niet waren voorzien, in aard of ernst, of die het gevolg zijn van een schending van de voorwaarden voor de goedkeuring van de toegelaten activiteit.
+2. The Scientific and Technical Body may also develop standards and guidelines for consideration and adoption by the Conference of the Parties, including on:
 
-- b. De Partij die toestemming voor de activiteit heeft verleend, houdt rekening met dergelijke bedenkingen.
+- a) An indicative non-exhaustive list of activities that require or do not require an environmental impact assessment, as well as any criteria related to those activities, which shall be periodically updated;
 
-- c. Na bestudering van de door een Partij ingediende bedenkingen onderzoekt en kan het wetenschappelijk en technisch orgaan de aangelegenheid beoordelen op basis van de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, relevante traditionele kennis van inheemse volken en lokale gemeenschappen, en indien het van oordeel is dat een dergelijke activiteit aanmerkelijke nadelige effecten kan hebben die niet in de milieueffectbeoordeling waren voorzien of die voortvloeien uit een schending van de voorwaarden voor de goedkeuring van de toegestane activiteit, kan het de Partij die de activiteit heeft toegestaan hiervan in kennis stellen, en na die Partij in de gelegenheid te hebben gesteld om op de ingediende bedenkingen te reageren en rekening houdend met dit antwoord, kan het orgaan in voorkomend geval aanbevelingen doen aan deze Partij die toestemming heeft verleend voor de activiteit.
+- b) The conduct of environmental impact assessments by Parties to this Agreement in areas identified as requiring protection or special attention.
 
-- d. De vastlegging van bedenkingen, eventuele kennisgevingen en aanbevelingen van het wetenschappelijk en technisch orgaan worden openbaar gemaakt, onder meer via het uitwisselingsmechanisme.
+3. Any standard shall be set out in an annex to this Agreement, in accordance with [article 74](https://wetten.overheid.nl/BWBV0007029).
 
-- e. De Partij die toestemming heeft verleend voor de activiteit, houdt rekening met alle kennisgevingen en aanbevelingen van het wetenschappelijk en technisch orgaan.
+##### Article 39. Strategic environmental assessments
 
-5. Alle staten, met name aangrenzende kuststaten en alle andere staten die grenzen aan de activiteit en die behoren tot de staten die naar alle waarschijnlijkheid het meest worden getroffen, en belanghebbenden worden via het uitwisselingsmechanisme op de hoogte gehouden en kunnen worden geraadpleegd bij het toezicht op, de rapportage over en de evaluatie van een krachtens deze Overeenkomst toegestane activiteit.
+1. Parties shall, individually or in cooperation with other Parties, consider conducting strategic environmental assessments for plans and programmes relating to activities under their jurisdiction or control, to be conducted in areas beyond national jurisdiction, in order to assess the potential effects of such plans or programmes, as well as of alternatives, on the marine environment.
 
-6. De Partijen publiceren, onder meer via het uitwisselingsmechanisme:
+2. The Conference of the Parties may conduct a strategic environmental assessment of an area or region to collate and synthesize the best available information about the area or region, assess current and potential future impacts and identify data gaps and research priorities.
 
-- a. rapporten over de evaluatie van de effecten van de toegestane activiteit;
+3. When undertaking environmental impact assessments pursuant to this Part, Parties shall take into account the results of relevant strategic environmental assessments carried out under paragraphs 1 and 2 above, where available.
 
-- b. beslisdocumenten, met inbegrip van een lijst van redenen voor het besluit van de Partij, wanneer een Partij haar besluit tot goedkeuring van de activiteit heeft gewijzigd.
+4. The Conference of the Parties shall develop guidance on the conduct of each category of strategic environmental assessment described in this article.
 
-##### Artikel 38. Door het wetenschappelijk en technisch orgaan te ontwikkelen normen en/of richtsnoeren met betrekking tot milieueffectbeoordelingen
+### PART V. CAPACITY-BUILDING AND THE TRANSFER OF MARINE TECHNOLOGY
 
-1. Het Wetenschappelijk en Technisch Orgaan ontwikkelt normen of richtsnoeren die door de Conferentie van de Partijen worden bestudeerd en aangenomen met betrekking tot:
+##### Article 40. Objectives
 
-- a. de vaststelling of de drempelwaarden voor de uitvoering van een screening of een milieueffectbeoordeling uit hoofde van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=30&z=2023-06-19&g=2023-06-19) voor geplande activiteiten zijn gehaald of overschreden, onder meer op basis van de in lid 2 van dat artikel genoemde niet-uitputtende factoren;
+The objectives of this Part are to:
 
-- b. de beoordeling van cumulatieve effecten in gebieden voorbij de grenzen van de nationale rechtsmacht en de wijze waarop met die effecten rekening moet worden gehouden in de milieueffectbeoordelingsprocedure;
+- a) Assist Parties, in particular developing States Parties, in implementing the provisions of this Agreement, to achieve its objectives;
 
-- c. de beoordeling van de effecten, in gebieden binnen de nationale rechtsmacht, van geplande activiteiten in gebieden voorbij de grenzen van de nationale rechtsmacht en de wijze waarop met die effecten rekening moet worden gehouden in de milieueffectbeoordelingsprocedure;
+- b) Enable inclusive, equitable and effective cooperation and participation in the activities undertaken under this Agreement;
 
-- d. de procedure inzake de openbare kennisgeving en raadpleging uit hoofde van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=32&z=2023-06-19&g=2023-06-19), met inbegrip van de vaststelling van wat vertrouwelijke of bedrijfseigen informatie is;
+- c) Develop the marine scientific and technological capacity, including with respect to research, of Parties, in particular developing States Parties, with regard to the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction, including through access to marine technology by, and the transfer of marine technology to, developing States Parties;
 
-- e. de vereiste inhoud van milieueffectbeoordelingsrapporten en van de gepubliceerde informatie die is gebruikt in het screeningproces overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=33&z=2023-06-19&g=2023-06-19), met inbegrip van best practices;
+- d) Increase, disseminate and share knowledge on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction;
 
-- f. de monitoring van en verslaglegging over de effecten van toegestane activiteiten als bedoeld in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=35&z=2023-06-19&g=2023-06-19) en [36](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=36&z=2023-06-19&g=2023-06-19), met inbegrip van de vaststelling van best practices;
+- e) More specifically, support developing States Parties, in particular the least developed countries, landlocked developing countries, geographically disadvantaged States, small island developing States, coastal African States, archipelagic States and developing middle-income countries, through capacity-building and the development and transfer of marine technology under this Agreement, in achieving the objectives relating to:
 
-- g. het uitvoeren van strategische milieubeoordelingen.
+   - (i) Marine genetic resources, including the sharing of benefits, as reflected in [article 9](https://wetten.overheid.nl/BWBV0007029);
 
-2. Het wetenschappelijk en technisch orgaan kan ook normen en richtsnoeren ontwikkelen met het oog op bespreking en goedkeuring door de Conferentie van de Partijen, onder meer met betrekking tot:
+   - (ii) Measures such as area-based management tools, including marine protected areas, as reflected in [article 17](https://wetten.overheid.nl/BWBV0007029);
 
-- a. een indicatieve, niet-uitputtende lijst van activiteiten waarvoor al dan niet een milieueffectbeoordeling vereist is, alsmede alle criteria in verband met die activiteiten, die periodiek wordt bijgewerkt;
+   - (iii) Environmental impact assessments, as reflected in [article 27](https://wetten.overheid.nl/BWBV0007029).
 
-- b. de uitvoering van milieueffectbeoordelingen door de Partijen bij deze Overeenkomst in gebieden waarvan is vastgesteld dat zij bescherming of bijzondere aandacht behoeven.
+##### Article 41. Cooperation in capacity-building and the transfer of marine technology
 
-3. Elke norm wordt overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=XII&artikel=74&z=2023-06-19&g=2023-06-19) opgenomen in een bijlage bij deze Overeenkomst.
+1. Parties shall cooperate, directly or through relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies, to assist Parties, in particular developing States Parties, in achieving the objectives of this Agreement through capacity-building and the development and transfer of marine science and marine technology.
 
-##### Artikel 39. Strategische milieubeoordelingen
+2. In providing capacity-building and the transfer of marine technology under this Agreement, Parties shall cooperate at all levels and in all forms, including through partnerships with and involving all relevant stakeholders, such as, where appropriate, the private sector, civil society, and Indigenous Peoples and local communities as holders of traditional knowledge, as well as through strengthening cooperation and coordination between relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies.
 
-1. De Partijen overwegen, afzonderlijk of in samenwerking met andere Partijen, strategische milieubeoordelingen uit te voeren voor plannen en programma’s met betrekking tot activiteiten die onder hun rechtsmacht of controle vallen, die moeten worden uitgevoerd in gebieden voorbij de grenzen van de nationale rechtsmacht, teneinde de mogelijke gevolgen van dergelijke plannen of programma’s en van alternatieven voor het mariene milieu te beoordelen.
+3. In giving effect to this Part, Parties shall give full recognition to the special requirements of developing States Parties, in particular the least developed countries, landlocked developing countries, geographically disadvantaged States, small island developing States, coastal African States, archipelagic States and developing middle-income countries. Parties shall ensure that the provision of capacity-building and the transfer of marine technology is not conditional on onerous reporting requirements.
 
-2. De Conferentie van de Partijen kan een strategische milieubeoordeling van een gebied of regio uitvoeren om de beste beschikbare informatie over het gebied of de regio te verzamelen en samen te vatten, actuele en potentiële toekomstige effecten te beoordelen en lacunes in de gegevens en onderzoeksprioriteiten vast te stellen.
+##### Article 42. Modalities for capacity-building and for the transfer of marine technology
 
-3. Bij het uitvoeren van milieueffectbeoordelingen overeenkomstig dit Deel houden de Partijen rekening met de resultaten van relevante strategische milieubeoordelingen die zijn uitgevoerd overeenkomstig de leden 1 en 2, voor zover beschikbaar.
+1. Parties, within their capabilities, shall ensure capacity-building for developing States Parties and shall cooperate to achieve the transfer of marine technology, in particular to developing States Parties that need and request it, taking into account the special circumstances of small island developing States and of least developed countries, in accordance with the provisions of this Agreement.
 
-4. De Conferentie van de Partijen ontwikkelt richtsnoeren voor de uitvoering van elke in dit artikel beschreven categorie van strategische milieueffectbeoordeling.
+2. Parties shall provide, within their capabilities, resources to support such capacity-building and the development and transfer of marine technology and to facilitate access to other sources of support, taking into account their national policies, priorities, plans and programmes.
 
-## DEEL V. CAPACITEITSOPBOUW EN OVERDRACHT VAN MARIENE TECHNOLOGIE
+3. Capacity-building and the transfer of marine technology should be a country-driven, transparent, effective and iterative process that is participatory, cross-cutting and gender-responsive. It shall build upon, as appropriate, and not duplicate existing programmes and be guided by lessons learned, including those from capacity-building and transfer of marine technology activities under relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies. Insofar as possible, it shall take into account these activities with a view to maximizing efficiency and results.
 
-##### Artikel 40. Doelstellingen
+4. Capacity-building and the transfer of marine technology shall be based on and be responsive to the needs and priorities of developing States Parties, taking into account the special circumstances of small island developing States and of least developed countries, identified through needs assessments on an individual case-by-case, subregional or regional basis. Such needs and priorities may be self-assessed or facilitated through the capacity-building and transfer of marine technology committee and the Clearing-House Mechanism.
 
-De doelstellingen van dit Deel zijn:
+##### Article 43. Additional modalities for the transfer of marine technology
 
-- a. de Partijen, met name de ontwikkelingslanden die Partij zijn, bijstaan bij de uitvoering van de bepalingen van deze Overeenkomst, teneinde de doelstellingen ervan te verwezenlijken;
+1. Parties share a long-term vision of the importance of fully realizing technology development and transfer for inclusive, equitable and effective cooperation and participation in the activities undertaken under this Agreement and in order to fully achieve its objectives.
 
-- b. inclusieve, billijke en doeltreffende samenwerking en deelname aan de in het kader van deze Overeenkomst ondernomen activiteiten mogelijk maken;
+2. The transfer of marine technology undertaken under this Agreement shall take place on fair and most favourable terms, including on concessional and preferential terms, and in accordance with mutually agreed terms and conditions as well as the objectives of this Agreement.
 
-- c. de mariene wetenschappelijke en technologische capaciteit ontwikkelen, ook met betrekking tot onderzoek, door de Partijen, met name de ontwikkelingslanden die Partij zijn, met betrekking tot het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht, onder meer door toegang tot mariene technologie door en de overdracht van mariene technologie aan ontwikkelingslanden die Partij zijn;
+3. Parties shall promote and encourage economic and legal conditions for the transfer of marine technology to developing States Parties, taking into account the special circumstances of small island developing States and of least developed countries, which may include providing incentives to enterprises and institutions.
 
-- d. kennis over het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht vergroten, verspreiden en delen;
+4. The transfer of marine technology shall take into account all rights over such technologies and be carried out with due regard for all legitimate interests, including, inter alia, the rights and duties of holders, suppliers and recipients of marine technology and taking into particular consideration the interests and needs of developing States for the attainment of the objectives of this Agreement.
 
-- e. in het bijzonder steun verlenen aan ontwikkelingslanden die Partij zijn, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden, staten met een ongunstige geografische ligging, kleine eilandstaten in ontwikkeling, Afrikaanse kuststaten, archipelstaten en ontwikkelingslanden met een middeninkomen, door middel van capaciteitsopbouw en de ontwikkeling en overdracht van mariene technologie in het kader van deze Overeenkomst, bij de verwezenlijking van de doelstellingen met betrekking tot:
+5. Marine technology transferred pursuant to this Part shall be appropriate, relevant and, to the extent possible, reliable, affordable, up to date, environmentally sound and available in an accessible form for developing States Parties, taking into account the special circumstances of small island developing States and of least developed countries.
 
-- i. mariene genetische bronnen, met inbegrip van het delen van voordelen, zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=9&z=2023-06-19&g=2023-06-19);
+##### Article 44. Types of capacity-building and of the transfer of marine technology
 
-- ii. maatregelen zoals gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, zoals bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=III&artikel=17&z=2023-06-19&g=2023-06-19);
+1. In support of the objectives set out in [article 40](https://wetten.overheid.nl/BWBV0007029), the types of capacity-building and of the transfer of marine technology may include, but are not limited to, support for the creation or enhancement of the human, financial management, scientific, technological, organizational, institutional and other resource capabilities of Parties, such as:
 
-- iii. milieueffectbeoordelingen, zoals bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=27&z=2023-06-19&g=2023-06-19).
+- a) The sharing and use of relevant data, information, knowledge and research results;
 
-##### Artikel 41. Samenwerking op het gebied van capaciteitsopbouw en de overdracht van mariene technologie
+- b) Information dissemination and awareness-raising, including with respect to relevant traditional knowledge of Indigenous Peoples and local communities, in line with the free, prior and informed consent of these Indigenous Peoples and, as appropriate, local communities;
 
-1. De Partijen werken rechtstreeks of via relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties samen om de Partijen, met name ontwikkelingslanden die Partij zijn, bij te staan bij de verwezenlijking van de doelstellingen van deze Overeenkomst door middel van capaciteitsopbouw en de ontwikkeling en overdracht van mariene wetenschap en mariene technologie.
+- c) The development and strengthening of relevant infrastructure, including equipment and capacity of personnel for its use and maintenance;
 
-2. Bij het bieden van capaciteitsopbouw en de overdracht van mariene technologie in het kader van deze Overeenkomst werken de Partijen op alle niveaus en in alle vormen samen, onder meer door partnerschappen met en betrokkenheid van alle relevante belanghebbenden, zoals, in voorkomend geval, de particuliere sector, het maatschappelijk middenveld en inheemse volken en lokale gemeenschappen als houders van traditionele kennis, alsmede door versterking van de samenwerking en coördinatie tussen de relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties.
+- d) The development and strengthening of institutional capacity and national regulatory frameworks or mechanisms;
 
-3. Bij de uitvoering van dit Deel erkennen de Partijen ten volle de bijzondere behoeften van de ontwikkelingslanden die Partij zijn, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden, staten met een ongunstige geografische ligging, kleine eilandstaten in ontwikkeling, Afrikaanse kuststaten, archipelstaten en ontwikkelingslanden met een middeninkomen. De Partijen zorgen ervoor dat de capaciteitsopbouw en de overdracht van mariene technologie niet afhankelijk worden gesteld van strenge rapportagevereisten.
+- e) The development and strengthening of human and financial management resource capabilities and of technical expertise through exchanges, research collaboration, technical support, education and training and the transfer of marine technology;
 
-##### Artikel 42. Uitvoeringsbepalingen voor capaciteitsopbouw en voor de overdracht van mariene technologie
+- f) The development and sharing of manuals, guidelines and standards;
 
-1. De Partijen zorgen, binnen hun mogelijkheden, voor capaciteitsopbouw voor ontwikkelingslanden die Partij zijn en werken samen om de overdracht van mariene technologie te bewerkstelligen, met name aan ontwikkelingslanden die Partij zijn en daarom verzoeken, waarbij rekening wordt gehouden met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen, overeenkomstig de bepalingen van deze Overeenkomst.
+- g) The development of technical, scientific and research and development programmes;
 
-2. De Partijen verstrekken, binnen hun mogelijkheden, middelen om dergelijke capaciteitsopbouw en de ontwikkeling en overdracht van mariene technologie te ondersteunen en de toegang tot andere steunbronnen te vergemakkelijken, rekening houdend met hun nationale beleid, prioriteiten, plannen en programma’s.
+- h) The development and strengthening of capacities and technological tools for effective monitoring, control and surveillance of activities within the scope of this Agreement.
 
-3. Capaciteitsopbouw en de overdracht van mariene technologie moeten een door het land aangestuurd, transparant, doeltreffend en iteratief proces zijn dat participatief, sectoroverschrijdend en genderresponsief is. In voorkomend geval bouwt het voort op bestaande programma’s en vormt het geen overlapping met bestaande programma’s en wordt het geïnspireerd door lessen die zijn getrokken uit onder meer capaciteitsopbouw en overdracht van activiteiten op het gebied van mariene technologie in het kader van relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties. Voor zover mogelijk houdt het proces met deze activiteiten rekening teneinde de efficiëntie en de resultaten te maximaliseren.
+2. Further details concerning the types of capacity-building and of the transfer of marine technology identified in this article are elaborated in [Annex II](https://wetten.overheid.nl/BWBV0007029).
 
-4. Capaciteitsopbouw en de overdracht van mariene technologie zijn gebaseerd en afgestemd op de behoeften en prioriteiten van de ontwikkelingslanden die Partij zijn, rekening houdend met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen, die aan de hand van behoeftenanalysen per geval, of op subregionale of regionale basis worden vastgesteld. Dergelijke behoeften en prioriteiten kunnen zelf worden beoordeeld of gefaciliteerd door het comité voor capaciteitsopbouw en overdracht van mariene technologie en het uitwisselingsmechanisme.
+3. The Conference of the Parties, taking account of the recommendations of the capacity-building and transfer of marine technology committee, shall periodically, as necessary, review, assess and further develop and provide guidance on the indicative and non-exhaustive list of types of capacity-building and of transfer of marine technology elaborated in [Annex II](https://wetten.overheid.nl/BWBV0007029), to reflect technological progress and innovation and to respond and adapt to the evolving needs of States, subregions and regions.
 
-##### Artikel 43. Aanvullende uitvoeringsbepalingen voor de overdracht van mariene technologie
+##### Article 45. Monitoring and review
 
-1. De Partijen delen een langetermijnvisie op het belang van de volledige verwezenlijking van de ontwikkeling en overdracht van technologie voor inclusieve, billijke en doeltreffende samenwerking en deelname aan de in het kader van deze Overeenkomst ondernomen activiteiten, teneinde de doelstellingen ervan volledig te verwezenlijken.
+1. Capacity-building and the transfer of marine technology undertaken in accordance with the provisions of this Part shall be monitored and reviewed periodically.
 
-2. De overdracht van mariene technologie in het kader van deze Overeenkomst vindt plaats onder eerlijke en meest gunstige voorwaarden, met inbegrip van bevoorrechte en preferentiële regelingen, en in overeenstemming met onderling overeengekomen voorwaarden en met de doelstellingen van deze Overeenkomst.
+2. The monitoring and review referred to in paragraph 1 above shall be carried out by the capacity-building and transfer of marine technology committee under the authority of the Conference of the Parties and shall be aimed at:
 
-3. De Partijen bevorderen en stimuleren de economische en juridische voorwaarden voor de overdracht van mariene technologie aan ontwikkelingslanden die Partij zijn, rekening houdend met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen, met inbegrip van het eventueel verstrekken van stimulansen aan ondernemingen en instellingen.
+- a) Assessing and reviewing the needs and priorities of developing States Parties in terms of capacity-building and the transfer of marine technology, paying particular attention to the special requirements of developing States Parties and to the special circumstances of small island developing States and of least developed countries, in accordance with [article 42, paragraph 4](https://wetten.overheid.nl/BWBV0007029);
 
-4. Bij de overdracht van mariene technologie wordt rekening gehouden met alle rechten op deze technologieën en worden alle legitieme belangen in acht genomen, met inbegrip van onder meer de rechten en plichten van houders, leveranciers en ontvangers van mariene technologie, en met name rekening houdend met de belangen en behoeften van de ontwikkelingslanden met het oog op de verwezenlijking van de doelstellingen van deze Overeenkomst.
+- b) Reviewing the support required, provided and mobilized, as well as gaps in meeting the assessed needs of developing States Parties in relation to this Agreement;
 
-5. Mariene technologie die op grond van dit Deel wordt overgedragen, is passend, relevant en, voor zover mogelijk, betrouwbaar, betaalbaar, actueel, milieuvriendelijk en beschikbaar in een toegankelijke vorm voor de ontwikkelingslanden die Partij zijn, waarbij rekening wordt gehouden met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen.
+- c) Identifying and mobilizing funds under the financial mechanism established under [article 52](https://wetten.overheid.nl/BWBV0007029) to develop and implement capacity-building and the transfer of marine technology, including for the conduct of needs assessments;
 
-##### Artikel 44. Soorten capaciteitsopbouw en overdracht van mariene technologie
+- d) Measuring performance on the basis of agreed indicators and reviewing results-based analyses, including on the output, outcomes, progress and effectiveness of capacity-building and transfer of marine technology under this Agreement, as well as successes and challenges;
 
-1. Ter ondersteuning van de in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=V&artikel=40&z=2023-06-19&g=2023-06-19) genoemde doelstellingen kunnen de vormen van capaciteitsopbouw en de overdracht van mariene technologie verschillend zijn, met inbegrip van, maar niet beperkt tot, steun voor de totstandbrenging of verbetering van de capaciteiten van de Partijen op het vlak van menselijke bronnen, financieel beheer, en wetenschappelijke, technologische, organisatorische, institutionele middelen, zoals:
+- e) Making recommendations for follow-up activities, including on how capacity-building and the transfer of marine technology could be further enhanced to allow developing States Parties, taking into account the special circumstances of small island developing States and of least developed countries, to strengthen their implementation of the Agreement in order to achieve its objectives.
 
-- a. de verspreiding en het gebruik van relevante gegevens, informatie, kennis en onderzoeksresultaten;
+3. In supporting the monitoring and review of capacity-building and the transfer of marine technology, Parties shall submit reports to the capacity-building and transfer of marine technology committee. Those reports should be in a format and at intervals to be determined by the Conference of the Parties, taking into account the recommendations of the capacity-building and transfer of marine technology committee. In submitting their reports, Parties shall take into account, where applicable, input from regional and subregional bodies on capacity-building and the transfer of marine technology. The reports submitted by Parties, as well as any input from regional and subregional bodies on capacity-building and the transfer of marine technology, should be made publicly available. The Conference of the Parties shall ensure that reporting requirements should be streamlined and not onerous, in particular for developing States Parties, including in terms of costs and time requirements.
 
-- b. informatieverspreiding en bewustmaking, onder meer met betrekking tot relevante traditionele kennis van inheemse volken en lokale gemeenschappen, in overeenstemming met de vrij gegeven, voorafgaande en geïnformeerde toestemming van deze inheemse volken en, in voorkomend geval, lokale gemeenschappen;
+##### Article 46. Capacity-building and transfer of marine technology committee
 
-- c. de ontwikkeling en versterking van relevante infrastructuur, met inbegrip van de uitrusting en de capaciteit van het personeel voor het gebruik en het onderhoud ervan;
+1. A capacity-building and transfer of marine technology committee is hereby established.
 
-- d. de ontwikkeling en versterking van institutionele capaciteit en nationale regelgevingskaders of -mechanismen;
+2. The committee shall consist of members possessing appropriate qualifications and expertise, to serve objectively in the best interest of the Agreement, nominated by Parties and elected by the Conference of the Parties, taking into account gender balance and equitable geographical distribution and providing for representation on the committee from the least developed countries, from the small island developing States and from the landlocked developing countries. The terms of reference and modalities for the operation of the committee shall be decided by the Conference of the Parties at its first meeting.
 
-- e. de ontwikkeling en versterking van de capaciteiten op het gebied van menselijke bronnen en middelen voor financieel beheer en technische deskundigheid door middel van uitwisselingen, samenwerking op onderzoeksgebied, technische ondersteuning, onderwijs en opleiding en de overdracht van mariene technologie;
+3. The committee shall submit reports and recommendations that the Conference of the Parties shall consider and take action on as appropriate.
 
-- f. de ontwikkeling en uitwisseling van handleidingen, richtsnoeren en normen;
+### PART VI. INSTITUTIONAL ARRANGEMENTS
 
-- g. de ontwikkeling van technische, wetenschappelijke en onderzoeks- en ontwikkelingsprogramma’s;
+##### Article 47. Conference of the Parties
 
-- h. de ontwikkeling en versterking van capaciteiten en technologische instrumenten voor doeltreffende monitoring, controle en bewaking van activiteiten die binnen het toepassingsgebied van deze Overeenkomst vallen.
+1. A Conference of the Parties is hereby established.
 
-2. Nadere bijzonderheden over de in dit artikel genoemde soorten capaciteitsopbouw en overdracht van mariene technologie zijn opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&bijlage=II&z=2023-06-19&g=2023-06-19).
+2. The first meeting of the Conference of the Parties shall be convened by the Secretary-General of the United Nations no later than one year after the entry into force of this Agreement. Thereafter, ordinary meetings of the Conference of the Parties shall be held at regular intervals to be determined by the Conference of the Parties. Extraordinary meetings of the Conference of the Parties may be held at other times, in accordance with the rules of procedure.
 
-3. De Conferentie van de Partijen, rekening houdend met de aanbevelingen van het comité voor capaciteitsopbouw en overdracht van mariene technologie, zal periodiek, naargelang de noodzaak, de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&bijlage=II&z=2023-06-19&g=2023-06-19) opgenomen indicatieve en niet-uitputtende lijst van soorten capaciteitsopbouw en overdracht van mariene technologie onderzoeken, beoordelen, verder ontwikkelen en hierover richtsnoeren verstrekken om rekening te houden met de technologische vooruitgang en innovatie en om in te spelen op en zich aan te passen aan de veranderende behoeften van staten, subregio’s en regio’s.
+3. The Conference of the Parties shall ordinarily meet at the seat of the secretariat or at United Nations Headquarters.
 
-##### Artikel 45. Toezicht en evaluatie
+4. The Conference of the Parties shall by consensus adopt, at its first meeting, rules of procedure for itself and its subsidiary bodies, financial rules governing its funding and the funding of the secretariat and any subsidiary bodies and, thereafter, rules of procedure and financial rules for any further subsidiary body that it may establish. Until such time as the rules of procedure have been adopted, the rules of procedure of the intergovernmental conference on an international legally binding instrument under the [United Nations Convention on the Law of the Sea](https://wetten.overheid.nl/BWBV0003172) on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction shall apply.
 
-1. Capaciteitsopbouw en de overdracht van mariene technologie overeenkomstig de bepalingen van dit Deel worden op gezette tijden gemonitord en geëvalueerd.
+5. The Conference of the Parties shall make every effort to adopt decisions and recommendations by consensus. Except as otherwise provided in this Agreement, if all efforts to reach consensus have been exhausted, decisions and recommendations of the Conference of the Parties on questions of substance shall be adopted by a two-thirds majority of the Parties present and voting, and decisions on questions of procedure shall be adopted by a majority of the Parties present and voting.
 
-2. De (het) in het voorgaande lid 1 bedoelde toezicht en evaluatie worden uitgevoerd door het comité voor capaciteitsopbouw en overdracht van mariene technologie, onder het gezag van de Conferentie van de Partijen, en zijn gericht op:
+6. The Conference of the Parties shall keep under review and evaluation the implementation of this Agreement and, for this purpose, shall:
 
-- a. het beoordelen en evalueren van de behoeften en prioriteiten van de ontwikkelingslanden die Partij zijn op het gebied van capaciteitsopbouw en de overdracht van mariene technologie, met bijzondere aandacht voor de bijzondere behoeften van de ontwikkelingslanden die Partij zijn en de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen, overeenkomstig [artikel 42, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=V&artikel=42&z=2023-06-19&g=2023-06-19);
+- a) Adopt decisions and recommendations related to the implementation of this Agreement;
 
-- b. het evalueren van de vereiste, verstrekte en gemobiliseerde steun, alsook van lacunes in het voldoen aan de geëvalueerde behoeften van de ontwikkelingslanden die Partij zijn met betrekking tot deze Overeenkomst;
+- b) Review and facilitate the exchange of information among Parties relevant to the implementation of this Agreement;
 
-- c. het in kaart brengen en mobiliseren van middelen in het kader van het bij [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=VII&artikel=52&z=2023-06-19&g=2023-06-19) ingestelde financiële mechanisme voor de ontwikkeling en uitvoering van capaciteitsopbouw en de overdracht van mariene technologie, onder meer voor het uitvoeren van behoeftenanalysen;
+- c) Promote, including by establishing appropriate processes, cooperation and coordination with and among relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies, with a view to promoting coherence among efforts towards the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction;
 
-- d. het meten van de prestaties op basis van overeengekomen indicatoren en het evalueren van op resultaten gebaseerde analysen, onder meer met betrekking tot de output, resultaten, vooruitgang en doeltreffendheid van capaciteitsopbouw en overdracht van mariene technologie in het kader van deze Overeenkomst, alsook van successen en uitdagingen;
+- d) Establish such subsidiary bodies as deemed necessary to support the implementation of this Agreement;
 
-- e. het doen van aanbevelingen voor vervolgactiviteiten, onder meer over de wijze waarop capaciteitsopbouw en de overdracht van mariene technologie verder kunnen worden verbeterd, zodat ontwikkelingslanden die Partij zijn, rekening houdende met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen, hun uitvoering van de Overeenkomst kunnen versterken teneinde de doelstellingen ervan te verwezenlijken.
+- e) Adopt a budget by a three-fourths majority of the Parties present and voting if all efforts to reach consensus have been exhausted, at such frequency and for such a financial period as it may determine;
 
-3. Ter ondersteuning van de monitoring en evaluatie van capaciteitsopbouw en de overdracht van mariene technologie dienen de Partijen verslagen in bij het comité voor capaciteitsopbouw en overdracht van mariene technologie. Deze verslagen moeten worden opgesteld in een vorm en met een regelmaat die door de Conferentie van de Partijen worden vastgesteld, rekening houdend met de aanbevelingen van het comité voor capaciteitsopbouw en overdracht van mariene technologie. Bij de indiening van hun verslagen houden de Partijen in voorkomend geval rekening met de inbreng van regionale en subregionale organisaties op het gebied van capaciteitsopbouw en de overdracht van mariene technologie. De door de Partijen ingediende verslagen en alle bijdragen van regionale en subregionale organisaties over capaciteitsopbouw en de overdracht van mariene technologie moeten openbaar worden gemaakt. De Conferentie van de Partijen ziet erop toe dat de rapportagevereisten gestroomlijnd en niet belastend zijn, met name voor ontwikkelingslanden die Partij zijn, ook wat betreft kosten en tijd.
+- f) Undertake other functions identified in this Agreement or as may be required for its implementation.
 
-##### Artikel 46. Comité voor capaciteitsopbouw en overdracht van mariene technologie
+7. The Conference of the Parties may decide to request the International Tribunal for the Law of the Sea to give an advisory opinion on a legal question on the conformity with this Agreement of a proposal before the Conference of the Parties on any matter within its competence. A request for an advisory opinion shall not be sought on a matter within the competences of other global, regional, subregional or sectoral bodies, or on a matter that necessarily involves the concurrent consideration of any dispute concerning sovereignty or other rights over continental or insular land territory or a claim thereto, or the legal status of an area as within national jurisdiction. The request shall indicate the scope of the legal question on which the advisory opinion is sought. The Conference of the Parties may request that such opinion be given as a matter of urgency.
 
-1. Hierbij wordt een comité voor capaciteitsopbouw en overdracht van mariene technologie opgericht.
+8. The Conference of the Parties shall, within five years of the entry into force of this Agreement and thereafter at intervals to be determined by it, assess and review the adequacy and effectiveness of the provisions of this Agreement and, if necessary, propose means of strengthening the implementation of those provisions in order to better address the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction.
 
-2. Het comité bestaat uit leden die over de nodige kwalificaties en deskundigheid beschikken om objectief in het belang van de Overeenkomst te dienen, en die door de Partijen worden voorgedragen en door de Conferentie van de Partijen worden gekozen, rekening houdend met genderevenwicht en een billijke geografische spreiding, en waarin onder meer de minst ontwikkelde landen, de kleine eilandstaten in ontwikkeling en de niet aan zee grenzende ontwikkelingslanden vertegenwoordigd zijn. Het mandaat en de werkwijze van het comité worden door de Conferentie van de Partijen tijdens haar eerste vergadering vastgesteld.
+##### Article 48. Transparency
 
-3. Het comité dient verslagen en aanbevelingen in die de Conferentie van de Partijen overweegt en waaraan zij in voorkomend geval gevolg geeft.
+1. The Conference of the Parties shall promote transparency in decision-making processes and other activities carried out under this Agreement.
 
-## DEEL VI. INSTITUTIONELE REGELINGEN
+2. All meetings of the Conference of the Parties and its subsidiary bodies shall be open to observers participating in accordance with the rules of procedure unless otherwise decided by the Conference of the Parties. The Conference of the Parties shall publish and maintain a public record of its decisions.
 
-##### Artikel 47. Conferentie van de Partijen
+3. The Conference of the Parties shall promote transparency in the implementation of this Agreement, including through the public dissemination of information and the facilitation of the participation of, and consultation with, relevant global, regional, subregional and sectoral bodies, Indigenous Peoples and local communities with relevant traditional knowledge, the scientific community, civil society and other relevant stakeholders, as appropriate and in accordance with the provisions of this Agreement.
 
-1. Hierbij wordt een Conferentie van de Partijen ingesteld.
+4. Representatives of States not party to this Agreement, relevant global, regional, subregional and sectoral bodies, Indigenous Peoples and local communities with relevant traditional knowledge, the scientific community, civil society and other relevant stakeholders with an interest in matters pertaining to the Conference of the Parties may request to participate as observers in the meetings of the Conference of the Parties and of its subsidiary bodies. The rules of procedure of the Conference of the Parties shall provide for modalities for such participation and shall not be unduly restrictive in this respect. The rules of procedure shall also provide for such representatives to have timely access to all relevant information.
 
-2. De eerste vergadering van de Conferentie van de Partijen wordt door de Secretaris-Generaal van de Verenigde Naties bijeengeroepen uiterlijk één jaar na de inwerkingtreding van deze Overeenkomst. Daarna houdt de Conferentie van de Partijen gewone vergaderingen met een door haar te bepalen regelmaat. Buitengewone vergaderingen van de Conferentie van de Partijen kunnen overeenkomstig het reglement van orde op andere tijdstippen worden gehouden.
+##### Article 49. Scientific and Technical Body
 
-3. De Conferentie van de Partijen komt gewoonlijk bijeen op de zetel van het Secretariaat of op de zetel van de Verenigde Naties.
+1. A Scientific and Technical Body is hereby established.
 
-4. De Conferentie van de Partijen stelt op haar eerste vergadering bij consensus een reglement van orde voor haarzelf en haar hulporganen vast, alsmede de financiële regels voor de financiering van het Secretariaat en van eventuele hulporganen, en daarna het reglement van orde en de financiële regels voor elk ander hulporgaan dat zij eventueel vaststelt. Totdat het reglement van orde is vastgesteld, is het reglement van orde van de intergouvernementele conferentie betreffende een juridisch bindend internationaal instrument in het kader van het [Verdrag van de Verenigde Naties inzake het recht van de zee](onbekend) inzake het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht van toepassing.
+2. The Scientific and Technical Body shall be composed of members serving in their expert capacity and in the best interest of the Agreement, nominated by Parties and elected by the Conference of the Parties, with suitable qualifications, taking into account the need for multidisciplinary expertise, including relevant scientific and technical expertise and expertise in relevant traditional knowledge of Indigenous Peoples and local communities, gender balance and equitable geographical representation. The terms of reference and modalities for the operation of the Scientific and Technical Body, including its selection process and the terms of members’ mandates, shall be determined by the Conference of the Parties at its first meeting.
 
-5. De Conferentie van de Partijen stelt alles in het werk om besluiten en aanbevelingen bij consensus aan te nemen. Tenzij in deze Overeenkomst anders is bepaald, worden, indien alle pogingen om een consensus te bereiken, zijn uitgeput, besluiten en aanbevelingen van de Conferentie van de Partijen met betrekking tot inhoudelijke aangelegenheden aangenomen met een meerderheid van twee derde van de aanwezige en stemmende Partijen, en worden besluiten over procedurekwesties aangenomen met een meerderheid van de aanwezige en stemmende Partijen.
+3. The Scientific and Technical Body may draw on appropriate advice emanating from relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies, as well as from other scientists and experts, as may be required.
 
-6. De Conferentie van de Partijen houdt toezicht op en evalueert de uitvoering van deze Overeenkomst en zal daartoe:
+4. Under the authority and guidance of the Conference of the Parties, and taking into account the multidisciplinary expertise referenced in paragraph 2 above, the Scientific and Technical Body shall provide scientific and technical advice to the Conference of the Parties, perform the functions assigned to it under this Agreement and such other functions as may be determined by the Conference of the Parties and provide reports to the Conference of the Parties on its work.
 
-- a. besluiten en aanbevelingen vaststellen met betrekking tot de uitvoering van deze Overeenkomst;
+##### Article 50. Secretariat
 
-- b. de uitwisseling van informatie tussen de Partijen die relevant is voor de uitvoering van deze Overeenkomst evalueren en faciliteren;
+1. A secretariat is hereby established. The Conference of the Parties, at its first meeting, shall make arrangements for the functioning of the secretariat, including deciding on its seat.
 
-- c. samenwerking en coördinatie met en tussen de relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties bevorderen, onder meer door het tot stand brengen van passende processen, met het oog op een betere samenhang van de inspanningen voor het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht;
+2. Until such time as the secretariat commences its functions, the Secretary-General of the United Nations, through the Division for Ocean Affairs and the Law of the Sea of the Office of Legal Affairs of the United Nations Secretariat, shall perform the secretariat functions under this Agreement.
 
-- d. de hulporganen instellen die nodig worden geacht om de uitvoering van deze Overeenkomst te ondersteunen;
+3. The secretariat and the host State may conclude a headquarters agreement. The secretariat shall enjoy legal capacity in the territory of the host State and be granted such privileges and immunities by the host State as are necessary for the exercise of its functions.
 
-- e. een begroting vaststellen met een meerderheid van drie vierde van de aanwezige en stemmende Partijen, indien alle pogingen om tot een consensus te komen zijn uitgeput, met een zodanige frequentie en voor een door haar vast te stellen financiële periode;
+4. The secretariat shall:
 
-- f. andere in deze Overeenkomst genoemde of voor de uitvoering ervan vereiste taken verrichten.
+- a) Provide administrative and logistical support to the Conference of the Parties and its subsidiary bodies for the purposes of the implementation of this Agreement;
 
-7. De Conferentie van de Partijen kan besluiten het Internationaal Hof voor het recht van de zee te verzoeken advies uit te brengen over een rechtsvraag betreffende de overeenstemming van een voorstel met deze Overeenkomst dat aan de Conferentie van de Partijen is voorgelegd over een onder haar bevoegdheid vallende aangelegenheid. Een verzoek om advies wordt niet ingewonnen over een aangelegenheid die onder de bevoegdheid van andere mondiale, regionale, subregionale of sectorale organisaties valt, noch over een aangelegenheid die noodzakelijkerwijs gepaard gaat met de gelijktijdige behandeling van geschillen over soevereiniteit of andere rechten over vastelands- of eilandgebied of een aanspraak daarop, of over de juridische status van een gebied binnen de nationale rechtsmacht. In het verzoek wordt aangegeven wat de reikwijdte van de juridische kwestie is waarover het advies wordt gevraagd. De Conferentie van de Partijen kan verzoeken dat dit advies met spoed wordt uitgebracht.
+- b) Arrange and service the meetings of the Conference of the Parties and of any other bodies as may be established under this Agreement or by the Conference of the Parties;
 
-8. Binnen vijf jaar na de inwerkingtreding van deze Overeenkomst en daarna met door haar vast te stellen tussenpozen beoordeelt en evalueert de Conferentie van de Partijen de deugdelijkheid en doeltreffendheid van de bepalingen van deze Overeenkomst en stelt zij, indien nodig, middelen voor om de uitvoering van deze bepalingen te versterken teneinde het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht beter aan te pakken.
+- c) Circulate information relating to the implementation of this Agreement in a timely manner, including making decisions of the Conference of the Parties publicly available and transmitting them to all Parties, as well as to relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies;
 
-##### Artikel 48. Transparantie
+- d) Facilitate cooperation and coordination, as appropriate, with the secretariats of other relevant international bodies and, in particular, enter into such administrative and contractual arrangements as may be required for that purpose and for the effective discharge of its functions, subject to approval by the Conference of the Parties;
 
-1. De Conferentie van de Partijen bevordert de transparantie van besluitvormingsprocessen en andere activiteiten die in het kader van deze Overeenkomst worden uitgevoerd.
+- e) Prepare reports on the execution of its functions under this Agreement and submit them to the Conference of the Parties;
 
-2. Alle vergaderingen van de Conferentie van de Partijen en haar hulporganen staan open voor waarnemers die deelnemen overeenkomstig het reglement van orde, tenzij de Conferentie van de Partijen anders besluit. De Conferentie van de Partijen publiceert en houdt een openbaar register bij van haar besluiten.
+- f) Provide assistance with the implementation of this Agreement and perform such other functions as may be determined by the Conference of the Parties or assigned to it under this Agreement.
 
-3. De Conferentie van de Partijen bevordert de transparantie bij de uitvoering van deze Overeenkomst, onder meer door de publieke verspreiding van informatie en de facilitering van de deelname van en het overleg met relevante mondiale, regionale, subregionale en sectorale organisaties, inheemse volken en lokale gemeenschappen met relevante traditionele kennis, de wetenschappelijke gemeenschap, het maatschappelijk middenveld en andere relevante belanghebbenden, naargelang het geval en in overeenstemming met de bepalingen van deze Overeenkomst.
+##### Article 51. Clearing-House Mechanism
 
-4. Vertegenwoordigers van staten die geen Partij zijn bij deze Overeenkomst, relevante mondiale, regionale, subregionale en sectorale organisaties, inheemse volken en lokale gemeenschappen met relevante traditionele kennis, de wetenschappelijke gemeenschap, het maatschappelijk middenveld en andere relevante belanghebbenden die belang hebben bij aangelegenheden die verband houden met de Conferentie van de Partijen, kunnen verzoeken om als waarnemer deel te nemen aan de vergaderingen van de Conferentie van de Partijen en haar hulporganen. Het reglement van orde van de Conferentie van de Partijen voorziet in uitvoeringsbepalingen voor een dergelijke deelname en is in dit opzicht niet onnodig beperkend. Voorts is in het reglement van orde ook bepaald dat die vertegenwoordigers tijdig toegang tot alle relevante gegevens hebben.
+1. A Clearing-House Mechanism is hereby established.
 
-##### Artikel 49. Wetenschappelijk en technisch orgaan
+2. The Clearing-House Mechanism shall consist primarily of an open-access platform. The specific modalities for the operation of the Clearing-House Mechanism shall be determined by the Conference of the Parties.
 
-1. Hierbij wordt een wetenschappelijk en technisch orgaan opgericht.
+3. The Clearing-House Mechanism shall:
 
-2. Het wetenschappelijk en technisch orgaan is samengesteld uit leden met passende kwalificaties die in hun hoedanigheid van deskundige en in het belang van de Overeenkomst dienst doen, en die door de Partijen worden voorgedragen en door de Conferentie van de Partijen worden gekozen, rekening houdend met de behoefte aan multidisciplinaire expertise, met inbegrip van relevante wetenschappelijke en technische deskundigheid en deskundigheid op het gebied van relevante traditionele kennis van inheemse volken en lokale gemeenschappen, genderevenwicht en billijke geografische vertegenwoordiging. Het mandaat en de uitvoeringsbepalingen voor de werking van het wetenschappelijk en technisch orgaan, met inbegrip van de selectieprocedure en de mandaten van de leden, worden door de Conferentie van de Partijen tijdens haar eerste vergadering vastgesteld.
+- a) Serve as a centralized platform to enable Parties to access, provide and disseminate information with respect to activities taking place pursuant to the provisions of this Agreement, including information relating to:
 
-3. Het wetenschappelijk en technisch orgaan kan, indien nodig, een beroep doen op passend advies dat afkomstig is van relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties, alsmede van andere wetenschappers en deskundigen.
+   - (i) Marine genetic resources of areas beyond national jurisdiction, as set out in [Part II](https://wetten.overheid.nl/BWBV0007029) of this Agreement;
 
-4. Onder het gezag en de leiding van de Conferentie van de Partijen, en rekening houdend met de multidisciplinaire expertise waarnaar in lid 2 wordt verwezen, verstrekt het wetenschappelijk en technisch orgaan wetenschappelijk en technisch advies aan de Conferentie van de Partijen, voert het de taken uit die het krachtens deze Overeenkomst en andere door de Conferentie van de Partijen vastgestelde taken vervult, en brengt het verslag uit aan de Conferentie van de Partijen over zijn werkzaamheden.
+   - (ii) The establishment and implementation of area-based management tools, including marine protected areas;
 
-##### Artikel 50. Secretariaat
+   - (iii) Environmental impact assessments;
 
-1. Hierbij wordt een Secretariaat ingesteld. De Conferentie van de Partijen treft tijdens haar eerste vergadering regelingen voor de werking van het Secretariaat, onder meer door een besluit te nemen over de zetel van het Secretariaat.
+   - (iv) Requests for capacity-building and the transfer of marine technology and opportunities with respect thereto, including research collaboration and training opportunities, information on sources and availability of technological information and data for the transfer of marine technology, opportunities for facilitated access to marine technology and the availability of funding;
 
-2. Totdat het Secretariaat zijn taken aanvangt, vervult de Secretaris-Generaal van de Verenigde Naties, via DOALOS (Afdeling Mariene Zaken en Zeerecht) van het OLA (Bureau Juridische Zaken) van het Secretariaat van de Verenigde Naties, de secretariaatstaken in het kader van deze Overeenkomst.
+- b) Facilitate the matching of capacity-building needs with the support available and with providers for the transfer of marine technology, including governmental, nongovernmental or private entities interested in participating as donors in the transfer of marine technology, and facilitate access to related know-how and expertise;
 
-3. Het Secretariaat en het gastland kunnen een zetelovereenkomst sluiten. Het Secretariaat heeft rechtsbevoegdheid op het grondgebied van het gastland en geniet van het gastland de voorrechten en immuniteiten die nodig zijn voor de uitoefening van zijn taken.
+- c) Provide links to relevant global, regional, subregional, national and sectoral clearing-house mechanisms and other gene banks, repositories and databases, including those pertaining to relevant traditional knowledge of Indigenous Peoples and local communities, and promote, where possible, links with publicly available private and nongovernmental platforms for the exchange of information;
 
-4. Het Secretariaat:
+- d) Build on global, regional and subregional clearing-house institutions, where applicable, when establishing regional and subregional mechanisms under the global mechanism;
 
-- a. verleent administratieve en logistieke steun aan de Conferentie van de Partijen en haar hulporganen met het oog op de uitvoering van deze Overeenkomst;
+- e) Foster enhanced transparency, including by facilitating the sharing of environmental baseline data and information relating to the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction between Parties and other relevant stakeholders;
 
-- b. organiseert en verzorgt de vergaderingen van de Conferentie van de Partijen en van alle andere organisaties die krachtens deze Overeenkomst of door de Conferentie van de Partijen worden opgericht;
+- f) Facilitate international cooperation and collaboration, including scientific and technical cooperation and collaboration;
 
-- c. verspreidt tijdig informatie met betrekking tot de uitvoering van deze Overeenkomst, onder meer door besluiten van de Conferentie van de Partijen openbaar te maken en te circuleren aan alle Partijen, alsmede aan relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties;
+- g) Perform such other functions as may be determined by the Conference of the Parties or assigned to it under this Agreement.
 
-- d. faciliteert samenwerking en coördinatie, in voorkomend geval, met de secretariaten van andere relevante internationale organisaties, en treft met name de administratieve en contractuele regelingen die nodig zijn voor dat doel en voor de effectieve uitvoering van zijn taken, onder voorbehoud van goedkeuring door de Conferentie van de Partijen;
+4. The Clearing-House Mechanism shall be managed by the secretariat, without prejudice to possible cooperation with other relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies as determined by the Conference of the Parties, including the Intergovernmental Oceanographic Commission of the United Nations Educational, Scientific and Cultural Organization, the International Seabed Authority, the International Maritime Organization and the Food and Agriculture Organization of the United Nations.
 
-- e. stelt verslagen op over de uitvoering van zijn taken in het kader van deze Overeenkomst en legt deze voor aan de Conferentie van de Partijen;
+5. In the management of the Clearing-House Mechanism, full recognition shall be given to the special requirements of developing States Parties, as well as the special circumstances of small island developing States Parties, and their access to the mechanism shall be facilitated to enable those States to utilize it without undue obstacles or administrative burdens. Information shall be included on activities to promote information-sharing, awareness-raising and dissemination in and with those States, as well as to provide specific programmes for those States.
 
-- f. verleent bijstand bij de uitvoering van deze Overeenkomst en verricht andere taken die door de Conferentie van de Partijen worden bepaald of die het Secretariaat krachtens deze Overeenkomst zijn toegewezen.
+6. The confidentiality of information provided under this Agreement and rights thereto shall be respected. Nothing under this Agreement shall be interpreted as requiring the sharing of information that is protected from disclosure under the domestic law of a Party or other applicable law.
 
-##### Artikel 51. Uitwisselingsmechanisme
+### PART VII. FINANCIAL RESOURCES AND MECHANISM
 
-1. Hierbij wordt een uitwisselingsmechanisme ingesteld.
+##### Article 52. Funding
 
-2. Het uitwisselingsmechanisme bestaat voornamelijk uit een open access platform. De specifieke uitvoeringsbepalingen voor de werking van het uitwisselingsmechanisme worden vastgesteld door de Conferentie van de Partijen.
+1. Each Party shall provide, within its capabilities, resources in respect of those activities that are intended to achieve the objectives of this Agreement, taking into account its national policies, priorities, plans and programmes.
 
-3. Het uitwisselingsmechanisme:
+2. The institutions established under this Agreement shall be funded through assessed contributions of the Parties.
 
-- a. fungeert als een gecentraliseerd platform om de Partijen in staat te stellen informatie te raadplegen, te verstrekken en te verspreiden met betrekking tot activiteiten die plaatsvinden in het kader van de bepalingen van deze Overeenkomst, met inbegrip van informatie over:
+3. A mechanism for the provision of adequate, accessible, new and additional and predictable financial resources under this Agreement is hereby established. The mechanism shall assist developing States Parties in implementing this Agreement, including through funding in support of capacity-building and the transfer of marine technology, and perform other functions as set out in this article for the conservation and sustainable use of marine biological diversity.
 
-- i. mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht, als bedoeld in [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&z=2023-06-19&g=2023-06-19) van deze Overeenkomst;
+4. The mechanism shall include:
 
-- ii. de vaststelling en toepassing van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden;
+- a) A voluntary trust fund established by the Conference of the Parties to facilitate the participation of representatives of developing States Parties, in particular least developed countries, landlocked developing countries and small island developing States, in the meetings of the bodies established under this Agreement;
 
-- iii. milieueffectbeoordelingen;
+- b) A special fund that shall be funded through the following sources:
 
-- iv. verzoeken om capaciteitsopbouw en de overdracht van mariene technologie en de daarmee verband houdende mogelijkheden, met inbegrip van samenwerking op onderzoeksgebied en opleidingsmogelijkheden, informatie over bronnen en beschikbaarheid van technologische informatie en gegevens voor de overdracht van mariene technologie, mogelijkheden om de toegang tot mariene technologie te vergemakkelijken en de beschikbaarheid van financiering;
+   - (i) Annual contributions in accordance with [article 14, paragraph 6](https://wetten.overheid.nl/BWBV0007029);
 
-- b. faciliteert de afstemming van behoeften op het gebied van capaciteitsopbouw met de beschikbare steun en met aanbieders voor de overdracht van mariene technologie, met inbegrip van gouvernementele, niet-gouvernementele of private entiteiten die belangstelling hebben om als donoren deel te nemen aan de overdracht van mariene technologie, en de toegang tot daarmee verband houdende kennis en expertise te vergemakkelijken;
+   - (ii) Payments in accordance with [article 14, paragraph 7](https://wetten.overheid.nl/BWBV0007029);
 
-- c. zorgt voor koppelingen met relevante mondiale, regionale, subregionale, nationale en sectorale uitwisselingsmechanismen en andere genenbanken, gegevensarchieven en databanken, met inbegrip van die welke betrekking hebben op relevante traditionele kennis van inheemse volken en lokale gemeenschappen, en bevordert waar mogelijk koppelingen met openbaar beschikbare particuliere en niet-gouvernementele platformen voor de uitwisseling van informatie;
+   - (iii) Additional contributions from Parties and private entities wishing to provide financial resources to support the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction;
 
-- d. bouwt voort op mondiale, regionale en subregionale uitwisselingsinstellingen, indien van toepassing, bij het opzetten van regionale en subregionale mechanismen in het kader van het mondiale mechanisme;
+- c) The Global Environment Facility trust fund.
 
-- e. bevordert meer transparantie, onder meer door het faciliteren van de uitwisseling tussen de Partijen en andere relevante belanghebbenden van basisgegevens en informatie over het behoud en het duurzame gebruik van mariene biologische diversiteit in gebieden voorbij de grenzen van de nationale rechtsmacht;
+5. The Conference of the Parties may consider the possibility of establishing additional funds, as part of the financial mechanism, to support the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction, to finance rehabilitation and ecological restoration of marine biological diversity of areas beyond national jurisdiction.
 
-- f. faciliteert internationale samenwerking, met inbegrip van wetenschappelijke en technische samenwerking;
+6. The special fund and the Global Environment Facility trust fund shall be utilized in order to:
 
-- g. voert andere door de Conferentie van de Partijen vastgestelde of krachtens deze Overeenkomst toegewezen taken uit.
+- a) Fund capacity-building projects under this Agreement, including effective projects on the conservation and sustainable use of marine biological diversity and activities and programmes, including training related to the transfer of marine technology;
 
-4. Het uitwisselingsmechanisme wordt beheerd door het Secretariaat, onverminderd eventuele samenwerking met andere relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties, zoals bepaald door de Conferentie van de Partijen, met inbegrip van de Intergouvernementele Oceanografische Commissie van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, de Internationale Zeebodemautoriteit, de Internationale Maritieme Organisatie en de Voedsel- en Landbouworganisatie van de Verenigde Naties.
+- b) Assist developing States Parties in implementing this Agreement;
 
-5. Bij het beheer van het uitwisselingsmechanisme wordt volledige erkenning gegeven aan de bijzondere behoeften van de ontwikkelingslanden die Partij zijn, alsmede aan de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling die Partij zijn, en wordt hun toegang tot het mechanisme vergemakkelijkt om deze staten in staat te stellen er gebruik van te maken zonder onnodige belemmeringen of administratieve lasten. Er wordt informatie verstrekt over activiteiten ter bevordering van informatie-uitwisseling, bewustmaking en verspreiding in en met die staten, alsmede over specifieke programma’s voor die staten.
+- c) Support conservation and sustainable use programmes by Indigenous Peoples and local communities as holders of traditional knowledge;
 
-6. De vertrouwelijkheid van de in het kader van deze Overeenkomst verstrekte informatie en de desbetreffende rechten wordt geëerbiedigd. Niets in deze Overeenkomst mag zodanig worden uitgelegd dat het nodig is informatie uit te wisselen die krachtens het nationale recht van een Partij of een ander toepasselijk recht beschermd is tegen openbaarmaking.
+- d) Support public consultations at the national, subregional and regional levels;
 
-## DEEL VII. FINANCIËLE MIDDELEN EN FINANCIERINGSMECHANISME
+- e) Fund the undertaking of any other activities as decided by the Conference of the Parties.
 
-##### Artikel 52. Financiering
+7. The financial mechanism should seek to ensure that duplication is avoided, and complementarity and coherence promoted, among the utilization of the funds within the mechanism.
 
-1. Elke Partij stelt, binnen de grenzen van haar mogelijkheden, middelen ter beschikking met betrekking tot de activiteiten die bedoeld zijn om de doelstellingen van deze Overeenkomst te verwezenlijken, rekening houdend met haar nationale beleid, prioriteiten, plannen en programma’s.
+8. Financial resources mobilized in support of the implementation of this Agreement may include funding provided through public and private sources, both national and international, including, but not limited to, contributions from States, international financial institutions, existing funding mechanisms under global and regional instruments, donor agencies, intergovernmental organizations, non-governmental organizations and natural and juridical persons, and through public-private partnerships.
 
-2. De uit hoofde van deze Overeenkomst opgerichte instellingen worden gefinancierd door middel van vastgestelde bijdragen van de Partijen.
+9. For the purposes of this Agreement, the mechanism shall function under the authority, where appropriate, and guidance of the Conference of the Parties and shall be accountable thereto. The Conference of the Parties shall provide guidance on overall strategies, policies, programme priorities and eligibility for access to and utilization of financial resources.
 
-3. Er wordt een mechanisme ingesteld voor de verstrekking van adequate, toegankelijke, nieuwe en aanvullende en voorspelbare financiële middelen in het kader van deze Overeenkomst. Het mechanisme ondersteunt ontwikkelingslanden die Partij zijn bij de uitvoering van deze Overeenkomst, onder meer door financiering ter ondersteuning van capaciteitsopbouw en de overdracht van mariene technologie, en vervult andere in dit artikel beschreven functies voor het behoud en het duurzame gebruik van mariene biologische diversiteit.
+10. The Conference of the Parties and the Global Environment Facility shall agree upon arrangements to give effect to the above paragraphs at the first meeting of the Conference of the Parties.
 
-4. Het mechanisme omvat:
+11. In recognition of the urgency to address the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction, the Conference of the Parties shall determine an initial resource mobilization goal through 2030 for the special fund from all sources, taking into account, inter alia, the institutional modalities of the special fund and the information provided through the capacity-building and transfer of marine technology committee.
 
-- a. een door de Conferentie van de Partijen opgericht vrijwillig trustfonds om de deelname van vertegenwoordigers van de ontwikkelingslanden die Partij zijn, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden en kleine eilandstaten in ontwikkeling, aan de vergaderingen van de krachtens deze Overeenkomst opgerichte organisaties te vergemakkelijken;
+12. Eligibility for access to funding under this Agreement shall be open to developing States Parties on the basis of need. Funding under the special fund shall be distributed according to equitable sharing criteria, taking into account the needs for assistance of Parties with special requirements, in particular the least developed countries, landlocked developing countries, geographically disadvantaged States, small island developing States and coastal African States, archipelagic States and developing middle-income countries, and taking into account the special circumstances of small island developing States and of least developed countries. The special fund shall be aimed at ensuring efficient access to funding through simplified application and approval procedures and enhanced readiness of support for such developing States Parties.
 
-- b. een speciaal fonds dat wordt gefinancierd uit de volgende bronnen:
+13. In the light of capacity constraints, Parties shall encourage international organizations to grant preferential treatment to, and consider the specific needs and special requirements of developing States Parties, in particular the least developed countries, landlocked developing countries and small island developing States, and taking into account the special circumstances of small island developing States and of least developed countries, in the allocation of appropriate funds and technical assistance and the utilization of their specialized services for the purposes of the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction.
 
-- i. jaarlijkse bijdragen overeenkomstig [artikel 14, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=14&z=2023-06-19&g=2023-06-19);
+14. The Conference of the Parties shall establish a finance committee on financial resources. It shall be composed of members possessing appropriate qualifications and expertise, taking into account gender balance and equitable geographical distribution. The terms of reference and modalities for the operation of the committee shall be decided by the Conference of the Parties. The committee shall periodically report and make recommendations on the identification and mobilization of funds under the mechanism. It shall also collect information and report on funding under other mechanisms and instruments contributing directly or indirectly to the achievement of the objectives of this Agreement. In addition to the considerations provided in this article, the committee shall consider, inter alia:
 
-- ii. betalingen overeenkomstig [artikel 14, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=14&z=2023-06-19&g=2023-06-19);
+- a) The assessment of the needs of the Parties, in particular developing States Parties;
 
-- iii. aanvullende bijdragen van Partijen en particuliere entiteiten die financiële middelen willen verstrekken ter ondersteuning van het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht;
+- b) The availability and timely disbursement of funds;
 
-- c. het **Global Environment Facility Trust Fund**.
+- c) The transparency of decision-making and management processes concerning fundraising and allocations;
 
-5. De Conferentie van de Partijen kan de mogelijkheid overwegen om, als onderdeel van het financiële mechanisme, aanvullende middelen in te stellen ter ondersteuning van het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht, ter financiering van de rehabilitatie en het ecologisch herstel van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht.
+- d) The accountability of the recipient developing States Parties with respect to the agreed use of funds.
 
-6. Het speciale fonds en het **Global Environment Facility Trust Fund** worden gebruikt om:
+15. The Conference of the Parties shall consider the reports and recommendations of the finance committee and take appropriate action.
 
-- a. projecten voor capaciteitsopbouw in het kader van deze Overeenkomst te financieren, met inbegrip van doeltreffende projecten voor het behoud en het duurzame gebruik van mariene biologische diversiteit en activiteiten en programma’s, met inbegrip van opleiding in verband met de overdracht van mariene technologie;
+16. The Conference of the Parties shall, in addition, undertake a periodic review of the financial mechanism to assess the adequacy, effectiveness and accessibility of financial resources, including for the delivery of capacity-building and the transfer of marine technology, in particular for developing States Parties.
 
-- b. ontwikkelingslanden die Partij zijn bij te staan bij de uitvoering van deze Overeenkomst;
+### PART VIII. IMPLEMENTATION AND COMPLIANCE
 
-- c. steun te verlenen aan programma’s voor instandhouding en duurzaam gebruik door inheemse volken en lokale gemeenschappen als houders van traditionele kennis;
+##### Article 53. Implementation
 
-- d. openbare raadplegingen op nationaal, subregionaal en regionaal niveau te ondersteunen;
+Parties shall take the necessary legislative, administrative or policy measures, as appropriate, to ensure the implementation of this Agreement.
 
-- e. alle andere activiteiten waartoe de Conferentie van de Partijen heeft besloten, te financieren.
+##### Article 54. Monitoring of implementation
 
-7. Het financiële mechanisme moet ervoor zorgen dat dubbel werk bij het gebruik van de middelen binnen het mechanisme wordt vermeden en complementariteit en samenhang worden bevorderd.
+Each Party shall monitor the implementation of its obligations under this Agreement and shall, in a format and at intervals to be determined by the Conference of the Parties, report to the Conference on measures that it has taken to implement this Agreement.
 
-8. Financiële middelen die worden gemobiliseerd ter ondersteuning van de uitvoering van deze Overeenkomst kunnen financiering omvatten uit publieke en private bronnen, zowel nationale als internationale, met inbegrip van, maar niet beperkt tot, bijdragen van staten, internationale financiële instellingen, bestaande financieringsmechanismen in het kader van mondiale en regionale instrumenten, donoragentschappen, intergouvernementele organisaties, niet-gouvernementele organisaties en natuurlijke en rechtspersonen, en via publiek-private partnerschappen.
+##### Article 55. Implementation and Compliance Committee
 
-9. Voor de toepassing van deze Overeenkomst functioneert het mechanisme onder het gezag, in voorkomend geval, en onder leiding van de Conferentie van de Partijen, en legt het daaraan verantwoording af. De Conferentie van de Partijen verstrekt richtlijnen voor de algemene strategieën, beleidsvoornemens, programmaprioriteiten en voorwaarden voor de toegang tot en gebruik van financiële middelen.
+1. An Implementation and Compliance Committee to facilitate and consider the implementation of and promote compliance with the provisions of this Agreement is hereby established. The Implementation and Compliance Committee shall be facilitative in nature and function in a manner that is transparent, non-adversarial and non-punitive.
 
-10. De Conferentie van de Partijen en de **Global Environment Facility** komen op de eerste vergadering van de Conferentie van de Partijen regelingen overeen om uitvoering te geven aan bovenstaande leden.
+2. The Implementation and Compliance Committee shall consist of members possessing appropriate qualifications and experience nominated by Parties and elected by the Conference of the Parties, with due consideration given to gender balance and equitable geographical representation.
 
-11. Gezien de urgentie om het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht te addresseren, stelt de Conferentie van de Partijen een initiële doelstelling vast voor het mobiliseren van middelen tot 2030 voor het speciale fonds uit alle bronnen, waarbij onder meer rekening wordt gehouden met de institutionele uitvoeringsbepalingen van het speciaal fonds en met de informatie die wordt verstrekt via het comité voor capaciteitsopbouw en overdracht van mariene technologie.
+3. The Implementation and Compliance Committee shall operate under the modalities and rules of procedure adopted by the Conference of the Parties at its first meeting. The Implementation and Compliance Committee shall consider issues of implementation and compliance at the individual and systemic levels, inter alia, and report periodically and make recommendations, as appropriate while cognizant of respective national circumstances, to the Conference of the Parties.
 
-12. Ontwikkelingslanden die Partij zijn, komen in aanmerking voor financiering uit hoofde van deze Overeenkomst op basis van de behoefte. De financiering in het kader van het speciaal fonds wordt verdeeld volgens billijke verdelingscriteria, waarbij rekening wordt gehouden met de behoeften aan bijstand van Partijen met bijzondere behoeften, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden, staten met een ongunstige geografische ligging, kleine eilandstaten in ontwikkeling en Afrikaanse kuststaten, archipelstaten en ontwikkelingslanden met een middeninkomen, en rekening houdend met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen. Het speciaal fonds heeft tot doel een efficiënte toegang tot financiering te waarborgen door middel van vereenvoudigde aanvraag- en goedkeuringsprocedures en een grotere bereidheid tot steun voor dergelijke ontwikkelingslanden die Partij zijn.
+4. In the course of its work, the Implementation and Compliance Committee may draw on appropriate information from bodies established under this Agreement, as well as relevant legal instruments and frameworks and relevant global, regional, subregional and sectoral bodies, as may be required.
 
-13. Rekening houdend met capaciteitsbeperkingen moedigen de Partijen internationale organisaties aan een preferentiële behandeling toe te kennen aan, en rekening te houden met de specifieke behoeften en bijzondere verzoeken van de ontwikkelingslanden die Partij zijn, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden en kleine eilandstaten in ontwikkeling, en rekening houdend met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen, bij de toewijzing van passende middelen en technische bijstand en het gebruik van hun gespecialiseerde diensten met het oog op het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht.
+### PART IX. SETTLEMENT OF DISPUTES
 
-14. De Conferentie van de Partijen richt een financieel comité voor financiële middelen op. Het bestaat uit leden die over passende kwalificaties en deskundigheid beschikken, rekening houdend met genderevenwicht en een billijke geografische spreiding. Het mandaat en de werkwijze van het comité worden vastgesteld door de Conferentie van de Partijen. Het comité brengt op gezette tijden verslag uit en doet aanbevelingen over de identificatie en de beschikbaarstelling van middelen in het kader van het mechanisme. Het verzamelt ook informatie en brengt verslag uit over financiering in het kader van andere mechanismen en instrumenten die direct of indirect bijdragen aan de verwezenlijking van de doelstellingen van deze Overeenkomst. Naast de in dit artikel genoemde overwegingen onderzoekt het comité onder meer:
+##### Article 56. Prevention of disputes
 
-- a. de beoordeling van de behoeften van de Partijen, met name van de ontwikkelingslanden die Partij zijn;
+Parties shall cooperate in order to prevent disputes.
 
-- b. de beschikbaarheid en tijdige betaling van financiële middelen;
+##### Article 57. Obligation to settle disputes by peaceful means
 
-- c. de transparantie van de besluitvormings- en beheersprocessen met betrekking tot fondsenwerving en toewijzingen;
+Parties have the obligation to settle their disputes concerning the interpretation or application of this Agreement by negotiation, inquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements, or other peaceful means of their own choice.
 
-- d. de verantwoordingsplicht van de ontvangende ontwikkelingslanden die Partij zijn met betrekking tot het overeengekomen gebruik van de middelen.
+##### Article 58. Settlement of disputes by any peaceful means chosen by the Parties
 
-15. De Conferentie van de Partijen bestudeert de verslagen en aanbevelingen van het financieel comité en neemt passende maatregelen.
+Nothing in this Part impairs the right of any Party to this Agreement to agree at any time to settle a dispute between them concerning the interpretation or application of this Agreement by any peaceful means of their own choice.
 
-16. Daarnaast verricht de Conferentie van de Partijen een periodieke evaluatie van het financiële mechanisme om de toereikendheid, doeltreffendheid en toegankelijkheid van de financiële middelen te beoordelen, onder meer voor capaciteitsopbouw en de overdracht van mariene technologie, met name voor ontwikkelingslanden die Partij zijn.
+##### Article 59. Disputes of a technical nature
 
-## DEEL VIII. UITVOERING EN NALEVING
+Where a dispute concerns a matter of a technical nature, the Parties concerned may refer the dispute to an ad hoc expert panel established by them. The panel shall confer with the Parties concerned and shall endeavour to resolve the dispute expeditiously without recourse to binding procedures for the settlement of disputes under [article 60](https://wetten.overheid.nl/BWBV0007029) of this Agreement.
 
-##### Artikel 53. Uitvoering
+##### Article 60. Procedures for the settlement of disputes
 
-De Partijen nemen de wetgevende, administratieve of beleidsmaatregelen die nodig zijn om de uitvoering van deze Overeenkomst te waarborgen.
+1. Disputes concerning the interpretation or application of this Agreement shall be settled in accordance with the provisions for the settlement of disputes provided for in [Part XV of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XV).
 
-##### Artikel 54. Toezicht op de uitvoering
+2. The provisions of [Part XV](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XV) of and [Annexes V](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=V), [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VI), [VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VII) and [VIII to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VIII) shall be deemed to be replicated for the purpose of the settlement of disputes involving a Party to this Agreement that is not a Party to the [Convention](https://wetten.overheid.nl/BWBV0003172).
 
-Elke Partij houdt toezicht op de uitvoering van haar verplichtingen uit hoofde van deze Overeenkomst en brengt, in een format en met een regelmaat die door de Conferentie van de Partijen wordt vastgesteld, aan de Conferentie verslag uit over de maatregelen die zij heeft genomen om deze Overeenkomst uit te voeren.
+3. Any procedure accepted by a Party to this Agreement that is also a Party to the [Convention](https://wetten.overheid.nl/BWBV0003172) pursuant to [article 287 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287) shall apply to the settlement of disputes under this Part, unless that Party, when signing, ratifying, approving, accepting or acceding to this Agreement, or at any time thereafter, has accepted another procedure pursuant to article 287 of the Convention for the settlement of disputes under this Part.
 
-##### Artikel 55. Uitvoerings- en nalevingscomité
+4. Any declaration made by a Party to this Agreement that is also a Party to the [Convention](https://wetten.overheid.nl/BWBV0003172) pursuant to [article 298 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=298) shall apply to the settlement of disputes under this Part, unless that Party, when signing, ratifying, approving, accepting or acceding to this Agreement, or at any time thereafter, has made a different declaration pursuant to article 298 of the Convention for the settlement of disputes under this Part.
 
-1. Er wordt een uitvoerings- en nalevingscomité opgericht dat belast is met het faciliteren van, en toezicht op, de uitvoering van deze Overeenkomst en op de naleving van de bepalingen van deze Overeenkomst. Het uitvoerings- en nalevingscomité is faciliterend van aard en functioneert op een transparante, niet-conflictueuze en niet-bestraffende wijze.
+5. Pursuant to paragraph 2 above, a Party to this Agreement that is not a Party to the [Convention](https://wetten.overheid.nl/BWBV0003172), when signing, ratifying, approving, accepting or acceding to this Agreement, or at any time thereafter, shall be free to choose, by means of a written declaration, submitted to the depositary, one or more of the following means for the settlement of disputes concerning the interpretation or application of this Agreement:
 
-2. Het uitvoerings- en nalevingscomité bestaat uit leden met passende kwalificaties en ervaring die door de Partijen zijn voorgedragen en door de Conferentie van de Partijen worden gekozen, met inachtneming van genderevenwicht en een billijke geografische vertegenwoordiging.
+- a) The International Tribunal for the Law of the Sea;
 
-3. Het uitvoerings- en nalevingscomité werkt volgens de uitvoeringsbepalingen en het reglement van orde die de Conferentie van de Partijen tijdens haar eerste vergadering heeft vastgesteld. Het uitvoerings- en nalevingscomité onderzoekt onder meer uitvoerings- en nalevingskwesties op individueel en systemisch niveau, brengt op gezette tijden verslag uit aan de Conferentie van de Partijen en doet, in voorkomend geval met inachtneming van de respectieve nationale omstandigheden, aanbevelingen aan de Conferentie van de Partijen.
+- b) The International Court of Justice;
 
-4. In de loop van zijn werkzaamheden kan het uitvoerings- en nalevingscomité gebruikmaken van passende informatie van organisaties die krachtens deze Overeenkomst zijn opgericht, alsmede van relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties, voor zover nodig.
+- c) An [Annex VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VII) arbitral tribunal;
 
-## DEEL IX. REGELING VAN GESCHILLEN
+- d) An [Annex VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VIII) special arbitral tribunal for one or more of the categories of disputes specified in said Annex.
 
-##### Artikel 56. Voorkoming van geschillen
+6. A Party to this Agreement that is not a Party to the [Convention](https://wetten.overheid.nl/BWBV0003172) that has not issued a declaration shall be deemed to have accepted the option in paragraph 5 (c) above. If the parties to a dispute have accepted the same procedure for the settlement of the dispute, it may be submitted only to that procedure, unless the parties otherwise agree. If the parties to a dispute have not accepted the same procedure for the settlement of the dispute, it may be submitted only to arbitration under [Annex VII to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VII), unless the parties otherwise agree. [Article 287, paragraphs 6 to 8, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287) shall apply to declarations made under paragraph 5 above.
 
-De Partijen werken samen om geschillen te voorkomen.
+7. A Party to this Agreement that is not a Party to the [Convention](https://wetten.overheid.nl/BWBV0003172) may, when signing, ratifying, approving, accepting or acceding to this Agreement, or at any time thereafter, without prejudice to the obligations arising under this Part, declare in writing that it does not accept any or more of the procedures provided for in [Part XV, section 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=2) with respect to one or more of the categories of disputes set out in [article 298 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=298) for the settlement of disputes under this Part. Article 298 of the Convention shall apply to such a declaration.
 
-##### Artikel 57. Verplichting om geschillen op vreedzame wijze te beslechten
+8. The provisions of this article shall be without prejudice to the procedures on the settlement of disputes to which Parties have agreed as participants in a relevant legal instrument or framework, or as members of a relevant global, regional, subregional or sectoral body concerning the interpretation or application of such instruments and frameworks.
 
-De Partijen zijn verplicht hun geschillen over de uitlegging of toepassing van deze Overeenkomst te beslechten door middel van onderhandeling, onderzoek, bemiddeling, verzoening, arbitrage, gerechtelijke regeling, een beroep op regionale instanties of regelingen of andere vreedzame middelen naar hun keuze.
+9. Nothing in this Agreement shall be interpreted as conferring jurisdiction upon a court or tribunal over any dispute that concerns or necessarily involves the concurrent consideration of the legal status of an area as within national jurisdiction, nor over any dispute concerning sovereignty or other rights over continental or insular land territory or a claim thereto of a Party to this Agreement, provided that nothing in this paragraph shall be interpreted as limiting the jurisdiction of a court or tribunal under [Part XV, section 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=2).
 
-##### Artikel 58. Geschillenbeslechting op vreedzame wijze die door de Partijen is gekozen
+10. For the avoidance of doubt, nothing in this Agreement shall be relied upon as a basis for asserting or denying any claims to sovereignty, sovereign rights or jurisdiction over land or maritime areas, including in respect to any disputes relating thereto.
 
-Niets in dit Deel doet afbreuk aan het recht van een Partij bij deze Overeenkomst om te allen tijde overeen te komen een onderling geschil over de uitlegging of toepassing van deze Overeenkomst met vreedzame middelen naar eigen keuze te beslechten.
+##### Article 61. Provisional arrangements
 
-##### Artikel 59. Geschillen van technische aard
+Pending the settlement of a dispute in accordance with this Part, the parties to the dispute shall make every effort to enter into provisional arrangements of a practical nature.
 
-Wanneer een geschil betrekking heeft op een aangelegenheid van technische aard, kunnen de betrokken Partijen het geschil voorleggen aan een door hen ingesteld ad-hocpanel van deskundigen. Het panel werkt samen met de betrokken Partijen en streeft ernaar het geschil snel op te lossen zonder gebruikmaking van bindende procedures voor geschillenbeslechting uit hoofde van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IX&artikel=60&z=2023-06-19&g=2023-06-19) van deze Overeenkomst.
+### PART X. NON-PARTIES TO THIS AGREEMENT
 
-##### Artikel 60. Procedures voor geschillenbeslechting
+##### Article 62. Non-parties to this Agreement
 
-1. Geschillen betreffende de uitlegging of de toepassing van deze Overeenkomst worden beslecht overeenkomstig de bepalingen voor geschillenbeslechting waarin [deel XV van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XV) voorziet.
+Parties shall encourage non-parties to this Agreement to become Parties thereto and to adopt laws and regulations consistent with its provisions.
 
-2. De bepalingen van [deel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XV) van en de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=V), [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VI), [VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VII) en [VIII bij het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VIII) worden geacht te zijn gerepliceerd voor de beslechting van geschillen waarbij een Partij bij deze Overeenkomst betrokken is die geen Partij is bij het [Verdrag](onbekend).
+### PART XI. GOOD FAITH AND ABUSE OF RIGHTS
 
-3. Elke procedure die door een Partij bij deze Overeenkomst is aanvaard en die tevens Partij is bij het [Verdrag](onbekend) overeenkomstig [artikel 287 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287), is van toepassing op de beslechting van geschillen uit hoofde van dit Deel, tenzij die Partij bij de ondertekening, bekrachtiging, goedkeuring, aanvaarding of toetreding tot deze Overeenkomst, of op enig tijdstip daarna, een andere procedure overeenkomstig artikel 287 van het Verdrag voor de beslechting van geschillen uit hoofde van dit Deel heeft aanvaard.
+##### Article 63. Good faith and abuse of rights
 
-4. Elke verklaring van een Partij bij deze Overeenkomst die tevens Partij is bij het [Verdrag](onbekend) overeenkomstig [artikel 298 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=298), is van toepassing op de beslechting van geschillen uit hoofde van dit Deel, tenzij die Partij bij de ondertekening, bekrachtiging, goedkeuring, aanvaarding of toetreding tot deze Overeenkomst, of op enig tijdstip daarna, een andere verklaring heeft afgelegd overeenkomstig artikel 298 van het Verdrag voor de beslechting van geschillen uit hoofde van dit Deel.
+Parties shall fulfil in good faith the obligations assumed under this Agreement and exercise the rights recognized therein in a manner that would not constitute an abuse of right.
 
-5. Overeenkomstig het voorgaande lid 2 kan een Partij bij deze Overeenkomst die geen Partij is bij het [Verdrag](onbekend), bij de ondertekening, bekrachtiging, goedkeuring, aanvaarding of toetreding tot deze Overeenkomst, of op enig tijdstip daarna, door middel van een schriftelijke verklaring die bij de depositaris wordt ingediend, een of meer van de volgende middelen vrij te kiezen voor de beslechting van geschillen betreffende de uitlegging of de toepassing van deze Overeenkomst:
+### PART XII. FINAL PROVISIONS
 
-- a. het Internationaal Hof voor het recht van de zee;
+##### Article 64. Right to vote
 
-- b. het Internationaal Gerechtshof;
+1. Each Party to this Agreement shall have one vote, except as provided for in paragraph 2 below.
 
-- c. een scheidsgerecht van [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VII);
+2. A regional economic integration organization Party to this Agreement, on matters within its competence, shall exercise its right to vote with a number of votes equal to the number of its member States that are Parties to this Agreement. Such an organization shall not exercise its right to vote if any of its member States exercises its right to vote, and vice versa.
 
-- d. een bijzonder scheidsgerecht van [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VIII) voor een of meer van de in die bijlage genoemde categorieën geschillen.
+##### Article 65. Signature
 
-6. Een Partij bij deze Overeenkomst die geen Partij is bij het [Verdrag](onbekend) en die geen verklaring heeft afgegeven, wordt geacht de in het voorgaande lid 5, sub c), bedoelde mogelijkheid te hebben aanvaard. Indien de Partijen bij een geschil dezelfde procedure voor de beslechting van het geschil hebben aanvaard, kan deze uitsluitend aan die procedure worden onderworpen, tenzij de Partijen anders overeenkomen. Indien de Partijen bij een geschil niet dezelfde procedure voor de beslechting van het geschil hebben aanvaard, kan deze uitsluitend worden onderworpen aan arbitrage overeenkomstig [bijlage VII bij het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VII), tenzij de Partijen anders overeenkomen. [Artikel 287, leden 6 tot en met 8, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287) is van toepassing op verklaringen uit hoofde van het voorgaande lid 5.
+This Agreement shall be open for signature by all States and regional economic integration organizations from 20 September 2023 and shall remain open for signature at United Nations Headquarters in New York until 20 September 2025.
 
-7. Een Partij bij deze Overeenkomst die geen Partij is bij het [Verdrag](onbekend), kan bij de ondertekening, bekrachtiging, goedkeuring, aanvaarding of toetreding tot deze Overeenkomst, of op enig tijdstip daarna, onverminderd de uit dit Deel voortvloeiende verplichtingen, schriftelijk verklaren dat zij geen van de procedures van [Deel XV, afdeling 2, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&afdeling=2) aanvaardt met betrekking tot een of meer van de in [artikel 298 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=298) voor de beslechting van geschillen uit hoofde van dit Deel genoemde categorieën geschillen. Artikel 298 van het Verdrag is van toepassing op een dergelijke verklaring.
+##### Article 66. Ratification, approval, acceptance and accession
 
-8. De bepalingen van dit artikel doen geen afbreuk aan de procedures voor de beslechting van geschillen die de Partijen zijn overeengekomen als deelnemers aan een relevant rechtsinstrument of rechtskader, of als leden van een relevante mondiale, regionale, subregionale of sectorale organisatie met betrekking tot de uitlegging of toepassing van dergelijke instrumenten en kaders.
+This Agreement shall be subject to ratification, approval or acceptance by States and regional economic integration organizations. It shall be open for accession by States and regional economic integration organizations from the day after the date on which the Agreement is closed for signature. Instruments of ratification, approval, acceptance and accession shall be deposited with the Secretary-General of the United Nations.
 
-9. Niets in deze Overeenkomst mag aldus worden uitgelegd dat het een gerecht bevoegdheid verleent om kennis te nemen van geschillen die betrekking hebben op of noodzakelijkerwijs gepaard gaan met de gelijktijdige overweging van de juridische status van een gebied binnen de nationale rechtsmacht, noch van geschillen betreffende de soevereiniteit of andere rechten over vastelands- of eilandgebied of een aanspraak daarop van een Partij bij deze Overeenkomst, aangenomen dat niets in dit lid wordt uitgelegd als een beperking van de bevoegdheid van een gerecht uit hoofde van [deel XV, afdeling 2, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&afdeling=2).
+##### Article 67. Division of the competence of regional economic integration organizations and their member States in respect of the matters governed by this Agreement
 
-10. Om twijfel te voorkomen, kan geen enkele bepaling van deze Overeenkomst worden ingeroepen als grondslag voor het geldend maken of verwerpen van aanspraken op soevereiniteit, soevereine rechten of rechtsmacht over land- of zeegebieden, met inbegrip van geschillen die daarmee verband houden.
+1. Any regional economic integration organization that becomes a Party to this Agreement without any of its member States being a Party shall be bound by all the obligations under this Agreement. In the case of such organizations, one or more of whose member States is a Party to this Agreement, the organization and its member States shall decide on their respective responsibilities for the performance of their obligations under this Agreement. In such cases, the organization and the member States shall not be entitled to exercise rights under this Agreement concurrently.
 
-##### Artikel 61. Voorlopige regeling
+2. In its instrument of ratification, approval, acceptance or accession, a regional economic integration organization shall declare the extent of its competence in respect of the matters governed by this Agreement. Any such organization shall also inform the depositary, who shall in turn inform the Parties, of any relevant modification of the extent of its competence.
 
-In afwachting van de beslechting van een geschil overeenkomstig dit Deel stellen de Partijen bij het geschil alles in het werk om voorlopige praktische regelingen te treffen.
+##### Article 68. Entry into force
 
-## DEEL X. NIET BIJ DEZE OVEREENKOMST AANGESLOTEN PARTIJEN
+1. This Agreement shall enter into force 120 days after the date of deposit of the sixtieth instrument of ratification, approval, acceptance or accession.
 
-##### Artikel 62. Niet bij deze Overeenkomst aangesloten Partijen
+2. For each State or regional economic integration organization that ratifies, approves or accepts this Agreement or accedes thereto after the deposit of the sixtieth instrument of ratification, approval, acceptance or accession, this Agreement shall enter into force on the thirtieth day following the deposit of its instrument of ratification, approval, acceptance or accession, subject to paragraph 1 above.
 
-De Partijen moedigen niet-Partijen bij deze Overeenkomst aan Partij te worden bij deze Overeenkomst en wet- en regelgeving vast te stellen die in overeenstemming is met de bepalingen ervan.
+3. For the purposes of paragraphs 1 and 2 above, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by the member States of that organization.
 
-## DEEL XI. GOEDE TROUW EN MISBRUIK VAN RECHT
+##### Article 69. Provisional application
 
-##### Artikel 63. Goede trouw en misbruik van recht
+1. This Agreement may be applied provisionally by a State or regional economic integration organization that consents to its provisional application by so notifying the depositary in writing at the time of signature or deposit of its instrument of ratification, approval, acceptance or accession. Such provisional application shall become effective from the date of receipt of the notification by the depositary.
 
-De Partijen komen te goeder trouw de uit hoofde van deze Overeenkomst aangegane verplichtingen na en oefenen de daarin erkende rechten uit op een wijze die geen misbruik van recht vormt.
+2. Provisional application by a State or regional economic integration organization shall terminate upon the entry into force of this Agreement for that State or regional economic integration organization or upon notification by that State or regional economic integration organization to the depositary in writing of its intention to terminate its provisional application.
 
-## DEEL XII. SLOTBEPALINGEN
+##### Article 70. Reservations and exceptions
 
-##### Artikel 64. Stemrecht
+No reservations or exceptions may be made to this Agreement, unless expressly permitted by other articles of this Agreement.
 
-1. Behoudens het bepaalde in het tweede lid, heeft elke Partij bij deze Overeenkomst één stem.
+##### Article 71. Declarations and statements
 
-2. Een regionale organisatie voor economische integratie die Partij is bij deze Overeenkomst, oefent haar stemrecht uit met een aantal stemmen dat gelijk is aan het aantal van haar lidstaten die Partij zijn bij deze Overeenkomst. Dergelijke organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
+[Article 70](https://wetten.overheid.nl/BWBV0007029) does not preclude a State or regional economic integration organization, when signing, ratifying, approving, accepting or acceding to this Agreement, from making declarations or statements, however phrased or named, with a view, inter alia, to the harmonization of its laws and regulations with the provisions of this Agreement, provided that such declarations or statements do not purport to exclude or to modify the legal effect of the provisions of this Agreement in their application to that State or regional economic integration organization.
 
-##### Artikel 65. Ondertekening
+##### Article 72. Amendment
 
-Deze Overeenkomst staat vanaf 20 september 2023 open voor ondertekening door alle staten en regionale organisaties voor economische integratie en blijft openstaan voor ondertekening tot en met 20 september 2025 op de zetel van de Verenigde Naties in New York.
+1. A Party may, by written communication addressed to the secretariat, propose amendments to this Agreement. The secretariat shall circulate such a communication to all Parties. If, within six months from the date of the circulation of the communication, not less than one half of the Parties reply favourably to the request, the proposed amendment shall be considered at the following meeting of the Conference of the Parties.
 
-##### Artikel 66. Bekrachtiging, goedkeuring, aanvaarding en toetreding
+2. An amendment to this Agreement adopted in accordance with [article 47](https://wetten.overheid.nl/BWBV0007029) shall be communicated by the depositary to all Parties for ratification, approval or acceptance.
 
-Deze Overeenkomst dient te worden bekrachtigd, goedgekeurd of aanvaard door staten en regionale organisaties voor economische integratie. Het staat open voor toetreding door staten en regionale organisaties voor economische integratie vanaf de dag na de datum waarop de Overeenkomst voor ondertekening is gesloten. De akten van bekrachtiging, goedkeuring, aanvaarding en toetreding worden neergelegd bij de secretaris-generaal van de Verenigde Naties.
+3. Amendments to this Agreement shall enter into force for the Parties ratifying, approving or accepting them on the thirtieth day following the deposit of instruments of ratification, approval or acceptance by two thirds of the number of Parties to this Agreement as at the time of adoption of the amendment. Thereafter, for each Party depositing its instrument of ratification, approval or acceptance of an amendment after the deposit of the required number of such instruments, the amendment shall enter into force on the thirtieth day following the deposit of its instrument of ratification, approval or acceptance.
 
-##### Artikel 67. Verdeling van de bevoegdheden van regionale organisaties voor economische integratie en hun lidstaten met betrekking tot de onder deze Overeenkomst vallende aangelegenheden
+4. An amendment may provide, at the time of its adoption, that a smaller or larger number of ratifications, approvals or acceptances shall be required for its entry into force than required under this article.
 
-1. Een regionale organisatie voor economische integratie die Partij wordt bij deze Overeenkomst zonder dat één van haar lidstaten Partij is, is gebonden aan alle verplichtingen ingevolge deze Overeenkomst. In het geval van dergelijke organisaties waarvan een of meer lidstaten Partij zijn bij deze Overeenkomst, beslissen de organisatie en haar lidstaten over hun respectieve verantwoordelijkheden voor de nakoming van hun verplichtingen uit hoofde van deze Overeenkomst. In dergelijke gevallen zijn de organisatie en haar lidstaten niet gerechtigd de uit de Overeenkomst voortvloeiende rechten gelijktijdig uit te oefenen.
+5. For the purposes of paragraphs 3 and 4 above, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by the member States of that organization.
 
-2. Een regionale organisatie voor economische integratie vermeldt in haar akte van bekrachtiging, goedkeuring, aanvaarding of toetreding de omvang van haar bevoegdheid met betrekking tot de door deze Overeenkomst geregelde aangelegenheden. Een dergelijke organisatie brengt ook de depositaris, die op zijn beurt de Partijen in kennis stelt, op de hoogte van elke relevante wijziging van de omvang van haar bevoegdheid.
+6. A State or regional economic integration organization that becomes a Party to this Agreement after the entry into force of amendments in accordance with paragraph 3 above shall, failing an expression of a different intention by that State or regional economic integration organization:
 
-##### Artikel 68. Inwerkingtreding
+- a) Be considered as a Party to this Agreement as so amended;
 
-1. Deze Overeenkomst treedt in werking 120 dagen na de datum van nederlegging van de zestigste akte van bekrachtiging, goedkeuring, aanvaarding of toetreding.
+- b) Be considered as a Party to the unamended Agreement in relation to any Party not bound by the amendment.
 
-2. Voor elke staat of regionale organisatie voor economische integratie die deze Overeenkomst bekrachtigt, goedkeurt, aanvaardt of ertoe toetreedt na de nederlegging van de zestigste akte van bekrachtiging, goedkeuring, aanvaarding of toetreding, treedt deze Overeenkomst in werking op de dertigste dag volgend op de nederlegging van zijn akte van bekrachtiging, goedkeuring, aanvaarding of toetreding, onder voorbehoud van het voorgaande lid 1.
+##### Article 73. Denunciation
 
-3. Voor de toepassing van het eerste en tweede lid wordt de nederlegging van een akte door een regionale organisatie voor economische integratie niet meegeteld bij de door de lidstaten van deze organisatie nedergelegde akten.
+1. A Party may, by written notification addressed to the Secretary-General of the United Nations, denounce this Agreement and may indicate its reasons. Failure to indicate reasons shall not affect the validity of the denunciation. The denunciation shall take effect one year after the date of receipt of the notification, unless the notification specifies a later date.
 
-##### Artikel 69. Voorlopige toepassing
+2. The denunciation shall not in any way affect the duty of any Party to fulfil any obligation embodied in this Agreement to which it would be subject under international law independently of this Agreement.
 
-1. Deze Overeenkomst kan voorlopig worden toegepast door een staat of regionale organisatie voor economische integratie die instemt met de voorlopige toepassing ervan door de depositaris daarvan schriftelijk in kennis te stellen op het tijdstip van ondertekening of nederlegging van zijn akte van bekrachtiging, goedkeuring, aanvaarding of toetreding. Deze voorlopige toepassing wordt van kracht op de datum van ontvangst van de kennisgeving door de depositaris.
+##### Article 74. Annexes
 
-2. De voorlopige toepassing door een staat of regionale organisatie voor economische integratie eindigt bij de inwerkingtreding van deze Overeenkomst voor die staat of regionale organisatie voor economische integratie of nadat die staat of regionale organisatie voor economische integratie de depositaris schriftelijk in kennis heeft gesteld van zijn voornemen om de voorlopige toepassing ervan te beëindigen.
+1. The annexes form an integral part of this Agreement and, unless expressly provided otherwise, a reference to this Agreement or to one of its parts includes a reference to the annexes relating thereto.
 
-##### Artikel 70. Voorbehouden en excepties
+2. The provisions of [article 72](https://wetten.overheid.nl/BWBV0007029) relating to the amendment of this Agreement shall also apply to the proposal, adoption and entry into force of a new annex to the Agreement.
 
-Voorbehouden of excepties ten aanzien van deze Overeenkomst kunnen niet worden gemaakt, tenzij deze uitdrukkelijk zijn toegestaan op grond van andere artikelen van deze Overeenkomst.
+3. Any Party may propose an amendment to any annex to this Agreement for consideration at the next meeting of the Conference of the Parties. The annexes may be amended by the Conference of the Parties. Notwithstanding the provisions of [article 72](https://wetten.overheid.nl/BWBV0007029), the following provisions shall apply in relation to amendments to annexes to this Agreement:
 
-##### Artikel 71. Verklaringen
+- a) The text of the proposed amendment shall be communicated to the secretariat at least 150 days before the meeting. The secretariat shall, upon receiving the text of the proposed amendment, communicate it to the Parties. The secretariat shall consult relevant subsidiary bodies, as required, and shall communicate any response to all Parties not later than 30 days before the meeting;
 
-[Artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=XII&artikel=70&z=2023-06-19&g=2023-06-19) verhindert een staat of regionale organisatie voor economische integratie niet bij de ondertekening, bekrachtiging, goedkeuring, aanvaarding of toetreding tot deze Overeenkomst verklaringen af te leggen, in welke bewoordingen of onder welke naam ook, onder andere met het oog op de harmonisatie van zijn wet- en regelgeving met de bepalingen van deze Overeenkomst, mits dergelijke verklaringen niet strekken tot uitsluiting of wijziging van de juridische werking van de bepalingen van deze Overeenkomst in de toepassing ervan op die staat of regionale organisatie voor economische integratie.
+- b) Amendments adopted at a meeting shall enter into force 180 days after the close of that meeting for all Parties, except those that make an objection in accordance with paragraph 4 below.
 
-##### Artikel 72. Wijziging
+4. During the period of 180 days provided for in paragraph 3 (b) above, any Party may, by notification in writing to the depositary, make an objection with respect to the amendment. Such objection may be withdrawn at any time by written notification to the depositary and, thereupon, the amendment to the annex shall enter into force for that Party on the thirtieth day after the date of withdrawal of the objection.
 
-1. Een Partij kan, door middel van een schriftelijke kennisgeving aan het Secretariaat, wijzigingen op deze Overeenkomst voorstellen. Het Secretariaat stuurt een dergelijke kennisgeving door naar alle Partijen. Indien binnen zes maanden na de datum van verzending van de kennisgeving ten minste de helft van de Partijen positief op het verzoek antwoordt, wordt de voorgestelde wijziging besproken op de volgende vergadering van de Conferentie van de Partijen.
+##### Article 75. Depositary
 
-2. Een overeenkomstig [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=VI&artikel=47&z=2023-06-19&g=2023-06-19) aangenomen wijziging van deze Overeenkomst wordt door de depositaris ter bekrachtiging, goedkeuring of aanvaarding aan alle Partijen meegedeeld.
+The Secretary-General of the United Nations shall be the depositary of this Agreement and any amendments or revisions thereto.
 
-3. Wijzigingen van deze Overeenkomst treden voor de Partijen die deze bekrachtigen, goedkeuren of aanvaarden in werking op de dertigste dag volgend op de nederlegging van de akten van bekrachtiging, goedkeuring of aanvaarding door twee derde van het aantal Partijen bij deze Overeenkomst op het tijdstip van aanneming van de wijziging. Daarna treedt de wijziging voor elke Partij die haar akte van bekrachtiging, goedkeuring of aanvaarding van een wijziging na de nederlegging van het vereiste aantal van dergelijke akten neerlegt, in werking op de dertigste dag volgend op de nederlegging van haar akte van bekrachtiging, goedkeuring of aanvaarding.
+##### Article 76. Authentic texts
 
-4. In een wijziging kan worden bepaald dat voor de inwerkingtreding van de wijziging een kleiner of groter aantal bekrachtigingen, goedkeuringen of aanvaardingen vereist is dan door dit artikel wordt vereist.
-
-5. Voor de toepassing van de leden 3 en 4 wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld als aanvulling op de akten die door de lidstaten van die organisatie zijn nedergelegd.
-
-6. Een staat of regionale organisatie voor economische integratie die Partij wordt bij deze Overeenkomst na de inwerkingtreding van wijzigingen overeenkomstig lid 3, moet, tenzij die staat of regionale organisatie voor economische integratie een andere bedoeling tot uitdrukking heeft gebracht,
-
-- a). worden beschouwd als een Partij bij deze Overeenkomst, zoals gewijzigd;
-
-- b). worden beschouwd als Partij bij de ongewijzigde Overeenkomst met betrekking tot een Partij die niet door de wijziging gebonden is.
-
-##### Artikel 73. Opzegging
-
-1. Een Partij kan door middel van een schriftelijke kennisgeving, gericht aan de Secretaris-Generaal van de Verenigde Naties, deze Overeenkomst opzeggen en daarbij de redenen aangeven. Het niet aangeven van redenen tast de geldigheid van de opzegging niet aan. De opzegging wordt van kracht een jaar na de datum van ontvangst van de kennisgeving, tenzij hierin een latere datum wordt aangegeven.
-
-2. De opzegging ontheft de Partij op generlei wijze van de in deze Overeenkomst vervatte verplichtingen waaraan zij krachtens het internationale recht onafhankelijk van deze Overeenkomst onderworpen zou zijn.
-
-##### Artikel 74. Bijlagen
-
-1. De bijlagen maken een integrerend onderdeel uit van deze Overeenkomst en een verwijzing naar deze Overeenkomst of naar een van de Delen ervan houdt een verwijzing in naar de desbetreffende bijlagen, tenzij uitdrukkelijk anders is bepaald.
-
-2. De bepalingen van [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=XII&artikel=72&z=2023-06-19&g=2023-06-19) betreffende de wijziging van deze Overeenkomst zijn ook van toepassing op het voorstellen, aannemen en in werking treden van een nieuwe bijlage bij de Overeenkomst.
-
-3. Elke Partij kan een wijziging van een bijlage bij deze Overeenkomst voorstellen ter bespreking op de volgende vergadering van de Conferentie van de Partijen. De bijlagen kunnen door de Conferentie van de Partijen worden gewijzigd. Onverminderd het bepaalde in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=XII&artikel=72&z=2023-06-19&g=2023-06-19) zijn de volgende bepalingen van toepassing op wijzigingen van de bijlagen bij deze Overeenkomst:
-
-- a. de tekst van de voorgestelde wijziging wordt ten minste 150 dagen vóór de vergadering aan het Secretariaat meegedeeld. Na ontvangst van de tekst van de voorgestelde wijziging deelt het Secretariaat deze aan de Partijen mee. Het Secretariaat raadpleegt de bevoegde hulporganen, indien nodig, en deelt alle antwoorden uiterlijk 30 dagen vóór de vergadering mee aan alle Partijen;
-
-- b. wijzigingen die op een vergadering worden aangenomen, treden 180 dagen na de sluiting van die vergadering in werking voor alle Partijen, met uitzondering van die welke overeenkomstig lid 4 hieronder bezwaar maken.
-
-4. Gedurende de in lid 3, sub b), bedoelde periode van 180 dagen kan elke Partij, door middel van een schriftelijke kennisgeving aan de depositaris, bezwaar maken tegen de wijziging. Dit bezwaar kan te allen tijde worden ingetrokken door middel van een schriftelijke kennisgeving aan de depositaris, waarna de wijziging van de bijlage voor die Partij in werking treedt op de dertigste dag na de datum van intrekking van het bezwaar.
-
-##### Artikel 75. Depositaris
-
-De secretaris-generaal van de Verenigde Naties is de depositaris van deze Overeenkomst en van alle wijzigingen of herzieningen ervan.
-
-##### Artikel 76. Authentieke teksten
-
-De Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst van deze Overeenkomst zijn gelijkelijk authentiek.
+The Arabic, Chinese, English, French, Russian and Spanish texts of this Agreement are equally authentic.

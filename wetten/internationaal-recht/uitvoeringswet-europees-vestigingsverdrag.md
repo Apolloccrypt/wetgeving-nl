@@ -9,7 +9,7 @@ laatste_update: 1970-04-10
 status: geldig
 toestand: 1970-04-10
 bron: "https://wetten.overheid.nl/BWBR0002332"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 28 oktober 1959, houdende uitvoering van het op 13 december 1955 te Parijs ondertekende Europese Vestigingsverdrag

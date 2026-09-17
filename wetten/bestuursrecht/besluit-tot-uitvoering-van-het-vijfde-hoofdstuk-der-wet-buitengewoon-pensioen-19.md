@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0002071"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 16 maart 1951, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in de artikelen 24, eerste lid, en 46 van de Wet buitengewoon pensioen 1940-1945

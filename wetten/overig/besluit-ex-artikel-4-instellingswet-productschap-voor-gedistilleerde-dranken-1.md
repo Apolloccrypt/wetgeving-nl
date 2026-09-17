@@ -9,7 +9,7 @@ laatste_update: 1959-07-01
 status: geldig
 toestand: 1959-07-01
 bron: "https://wetten.overheid.nl/BWBR0002319"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 23 juni 1959, houdende uitvoering van artikel 4, eerste lid, onder a, van de Instellingswet Productschap voor Gedistilleerde Dranken

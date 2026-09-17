@@ -9,7 +9,7 @@ laatste_update: 2002-10-09
 status: geldig
 toestand: 2002-10-09
 bron: "https://wetten.overheid.nl/BWBR0002078"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 23 Juli 1951, houdende instelling "Kruis voor Recht en Vrijheid"

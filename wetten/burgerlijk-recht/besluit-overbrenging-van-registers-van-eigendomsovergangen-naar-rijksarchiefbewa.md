@@ -9,7 +9,7 @@ laatste_update: 1933-01-02
 status: geldig
 toestand: 1933-01-02
 bron: "https://wetten.overheid.nl/BWBR0001956"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 24 november 1932, betreffende de overbrenging van de registers van eigendomsovergangen, welke in de jaren 1812-1832 door de maires en gemeentebesturen zijn aangelegd en bijgehouden met de daarbij behoorende bescheiden naar de Rijksarchiefbewaarplaatsen

@@ -9,7 +9,7 @@ laatste_update: 1921-01-01
 status: geldig
 toestand: 1921-01-01
 bron: "https://wetten.overheid.nl/BWBR0001899"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 23 maart 1920, tot organisatie van het personeel voor de dienst der justitiegebouwen

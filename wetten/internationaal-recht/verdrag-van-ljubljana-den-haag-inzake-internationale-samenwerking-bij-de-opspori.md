@@ -1,1403 +1,1362 @@
 ---
 title: "Verdrag van Ljubljana-Den Haag inzake internationale samenwerking bij de opsporing en vervolging van genocide, misdrijven tegen de menselijkheid, oorlogsmisdrijven en andere internationale misdrijven"
 identifier: "BWBV0007040"
-country: "nl"
-rank: "verdrag"
-publication_date: "2024-02-15"
-last_updated: "2024-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007040"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005653693"
-version_id: "10006229352"
-internal_id: "C10010136191"
-label_id: "10005636214"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007040/2024-02-15/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0007040&z=2024-02-15&g=2024-02-15"
-jci_1_0: "1.0:c:BWBV0007040&g=2024-02-15"
-citeertitel_status: "redactioneel"
+laatste_update: 2024-02-15
+status: geldig
+toestand: 2024-02-15
+bron: "https://wetten.overheid.nl/BWBV0007040"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag van Ljubljana-Den Haag inzake internationale samenwerking bij de opsporing en vervolging van genocide, misdrijven tegen de menselijkheid, oorlogsmisdrijven en andere internationale misdrijven
 
-Preambule
+*Preamble The States Parties to this Convention Recalling that the international crimes to which this Convention applies are among the most serious crimes of concern to the international community as a whole, Emphasizing that fighting impunity for these crimes is essential for peace, stability, justice and the rule of law, Stressing that States have the primary responsibility to investigate the international crimes to which this Convention applies and to prosecute the alleged offenders of the crimes in question and that they must take all necessary legislative and executive measures to that effect, affirming their willingness to foster conditions allowing States to assume fully that primary responsibility, Striving to pursue the development of international law to fight against impunity for the crime of genocide, crimes against humanity, war crimes and other international crimes, Reaffirming the rights, obligations and responsibilities of States under international law, including international humanitarian law, international human rights law and international refugee law and the principle of non-refoulement as contained therein, Recognizing the rights of victims, witnesses and other persons in relation to the international crimes to which this Convention applies, the vital part they play in the judicial process and the need to protect their physical and psychological well-being and to adopt a survivor-centered approach as well as to provide access to justice and adequate redress, including through reparative justice where appropriate, Recognizing also the right of alleged offenders to fair treatment at all stages of proceedings, Observing that investigating and prosecuting these international crimes often involves suspects, witnesses, evidence or assets located outside the territory of the State that is conducting the investigation or prosecution, Acknowledging that the effective investigation and prosecution of these international crimes at the national level must be ensured by enhancing international cooperation, Recognizing that international cooperation in criminal matters in accordance with international obligations and domestic law is a cornerstone of continued efforts by States in their fight against impunity, and encouraging the continuation and reinforcement of such efforts at all levels, Recalling the principles of sovereign equality and territorial integrity of States and the principle of non-intervention in the internal affairs of other States, Taking note with appreciation of existing customary international law and provisions under multilateral instruments that seek to fight against impunity for the crime of genocide, crimes against humanity and war crimes, including, inter alia, the Convention on the Prevention and Punishment of the Crime of Genocide, the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field, the Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea, the Geneva Convention relative to the Treatment of Prisoners of War, the Geneva Convention relative to the Protection of Civilian Persons in Time of War, and the additional protocols thereto, the Convention for the Protection of Cultural Property in the Event of Armed Conflict and the additional protocols thereto, and the Rome Statute of the International Criminal Court, Mindful that during the 20th and 21st centuries millions of people have been victims of unimaginable atrocities that deeply shock the conscience of humanity, Determined to investigate and prosecute in a more effective manner the international crimes to which this Convention applies and recognizing the need to strengthen the international legal framework for cooperation to this end, Have agreed as follows:*
 
-De staten die partij zijn bij dit Verdrag,
+### PART I. GENERAL PROVISIONS
 
-In herinnering brengend dat de internationale misdrijven waarop dit Verdrag van toepassing is, behoren tot de ernstigste misdrijven die de gehele internationale gemeenschap met zorg vervullen,
+##### Article 1. Objective of this Convention
 
-Benadrukkend dat de strijd tegen straffeloosheid van deze misdrijven essentieel is voor vrede, stabiliteit, rechtvaardigheid en de rechtstaat,
+The objective of this Convention is to facilitate international cooperation in criminal matters between States Parties with a view to strengthening the fight against impunity for the crime of genocide, crimes against humanity, war crimes, and, where applicable, other international crimes.
 
-Onderstrepend dat staten primair verantwoordelijk zijn voor het onderzoeken van de internationale misdrijven waarop dit Verdrag van toepassing is en het vervolgen van de verdachten van de misdrijven in kwestie en dat zij daartoe alle noodzakelijke wetgevende en uitvoerende maatregelen dienen te treffen, hun bereidheid bevestigend de omstandigheden te bevorderen die staten in staat stellen deze primaire verantwoordelijkheid volledig op zich te nemen,
+##### Article 2. Scope of this Convention
 
-Strevend naar de ontwikkeling van het internationaal recht ter bestrijding van straffeloosheid van genocide, misdrijven tegen de menselijkheid, oorlogsmisdrijven en andere internationale misdrijven,
+1. States Parties shall apply this Convention to the crimes referred to in [article 5](https://wetten.overheid.nl/BWBV0007040).
 
-Opnieuw bevestigend de rechten, verplichtingen en verantwoordelijkheden van staten op grond van het internationaal recht, met inbegrip van het internationaal humanitair recht, het internationaal mensenrechtenrecht en het internationaal vluchtelingenrecht en het daarin vervatte beginsel van non-refoulement,
+2. Each State may, at the time of signature, or when depositing its instrument of ratification, acceptance or approval of or accession to this Convention, or at any later time, by written notification to the Depositary, declare that it shall also apply this Convention to the crime or crimes listed in any of the annexes to this Convention in relation to any other State Party that has notified the Depositary that it shall apply this Convention to the same crime as listed in the relevant annex, which shall constitute an integral part of this Convention.
 
-Erkennend de rechten van slachtoffers, getuigen en andere personen in relatie tot de internationale misdrijven waarop dit Verdrag van toepassing is, de cruciale rol die zij vervullen in de rechtspleging en de noodzaak hun fysiek en geestelijk welzijn te beschermen en een op overlevenden gerichte aanpak te hanteren alsmede toegang tot rechtsbescherming en genoegdoening, waaronder door middel van herstelrecht waar nodig,
+##### Article 3. General principle of interpretation
 
-Tevens erkennend het recht van verdachten op een eerlijke behandeling in alle fasen van het proces,
+Nothing in this Convention shall be interpreted as limiting or prejudicing in any way existing or developing rules of international law, including the definitions of the crimes to which this Convention applies.
 
-Opmerkend dat de opsporing en vervolging van deze internationale misdrijven vaak betrekking heeft op verdachten, getuigen, bewijsmateriaal of goederen zijn die zich buiten het grondgebied bevinden van de staat die uitvoering geeft aan de opsporing of vervolging,
+##### Article 4. Relation with other agreements
 
-Onderkennend dat de effectieve opsporing en vervolging van deze internationale misdrijven op het nationale niveau gewaarborgd dient te worden door internationale samenwerking te verbeteren,
+Nothing in this Convention shall prevent States Parties that have concluded other agreements, or have in any other manner established relations between themselves, in respect of a subject-matter within the scope of this Convention from applying such agreements or from conducting their relations accordingly, in place of this Convention, if that facilitates their cooperation.
 
-Erkennend dat internationale strafrechtelijke samenwerking in overeenstemming met internationale verplichtingen en nationaal recht een hoeksteen vormt van de voortdurende inspanningen van staten in hun strijd tegen straffeloosheid, en de voortzetting en versterking aanmoedigend van dergelijke inspanningen op alle niveaus,
+##### Article 5. Definitions of international crimes
 
-In herinnering brengend de beginselen van soevereine gelijkheid en territoriale integriteit van staten en het beginsel van non-interventie in de interne aangelegenheden van andere staten,
+1. For the purposes of this Convention, “crime of genocide” means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such:
 
-Met waardering kennis nemend van bestaand internationaal gewoonterecht en bepalingen ingevolge multilaterale instrumenten die gericht zijn op de strijd tegen straffeloosheid van genocide, misdrijven tegen de menselijkheid en oorlogsmisdrijven, waaronder, inter alia, het [Verdrag inzake de voorkoming en de bestraffing van genocide](onbekend), het [Verdrag van Genève voor de verbetering van het lot der gewonden en zieken, zich bevindende bij de strijdkrachten te velde](onbekend), het [Verdrag van Genève voor de verbetering van het lot der gewonden, zieken en schipbreukelingen van de strijdkrachten ter zee](onbekend), het [Verdrag van Genève betreffende de behandeling van krijgsgevangenen](onbekend), het [Verdrag van Genève betreffende de bescherming van burgers in oorlogstijd](onbekend), en de aanvullende protocollen daarbij, het [Verdrag inzake de bescherming van culturele goederen in geval van een gewapend conflict](onbekend) en de aanvullende protocollen daarbij, en het [Statuut van Rome inzake het Internationaal Strafhof](onbekend),
+- a) Killing members of the group;
 
-Indachtig het feit dat gedurende de 20e en 21e eeuw miljoenen mensen het slachtoffer zijn geweest van onvoorstelbare wreedheden die het geweten van de mensheid hevig schokken,
+- b) Causing serious bodily or mental harm to members of the group;
 
-Vastbesloten op doeltreffender wijze de internationale misdrijven waarop dit Verdrag van toepassing is op te sporen en te vervolgen en erkennend de noodzaak het internationale juridische kader voor samenwerking daartoe te versterken,
+- c) Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part;
 
-Zijn het volgende overeengekomen:
+- d) Imposing measures intended to prevent births within the group;
 
-### DEEL I. ALGEMENE BEPALINGEN
+- e) Forcibly transferring children of the group to another group.
 
-##### Artikel 1. Doel van het Verdrag
+2. For the purposes of this Convention, “crime against humanity” means any of the following acts when committed as part of a widespread or systematic attack directed against any civilian population, with knowledge of the attack:
 
-Het doel van dit Verdrag is het vergemakkelijken van de internationale strafrechtelijke samenwerking tussen staten die partij zijn met het oog op het versterken van de strijd tegen straffeloosheid voor genocide, misdrijven tegen de menselijkheid, oorlogsmisdrijven en, waar van toepassing, andere internationale misdrijven.
+- a) Murder;
 
-##### Artikel 2. Reikwijdte van dit Verdrag
+- b) Extermination;
 
-1. De staten die partij zijn passen dit Verdrag toe op de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=5&z=2024-02-15&g=2024-02-15) vermelde misdrijven.
+- c) Enslavement;
 
-2. Elke staat mag, op het tijdstip van ondertekening, of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Verdrag, of op een later tijdstip, door middel van een schriftelijke kennisgeving aan de depositaris, verklaren dat hij dit Verdrag tevens zal toepassen op een of meer van de misdrijven die in een van de bijlagen bij dit Verdrag zijn opgesomd in relatie tot een andere staat die partij is die de depositaris ervan in kennis heeft gesteld dat hij dit Verdrag zal toepassen op hetzelfde misdrijf, zoals opgesomd in de relevante bijlage, die een integrerend onderdeel van dit Verdrag uitmaakt.
+- d) Deportation or forcible transfer of population;
 
-##### Artikel 3. Algemeen beginsel van interpretatie
+- e) Imprisonment or other severe deprivation of physical liberty in violation of fundamental rules of international law;
 
-Niets in dit Verdrag wordt zodanig uitgelegd dat daarmee, op welke wijze dan ook, een beperking zou worden aangebracht in of inbreuk zou worden gemaakt op bestaande of ontwikkelende regels van internationaal recht, met inbegrip van de definities van de misdrijven waarop dit Verdrag van toepassing is.
+- f) Torture;
 
-##### Artikel 4. Relatie met andere overeenkomsten
+- g) Rape, sexual slavery, enforced prostitution, forced pregnancy, enforced sterilization, or any other form of sexual violence of comparable gravity;
 
-Niets in dit Verdrag belet staten die partij zijn die andere overeenkomsten hebben gesloten, of op enige andere wijze onderling betrekkingen tot stand hebben gebracht, ten aanzien van een onderwerp dat binnen de reikwijdte van dit Verdrag valt, dergelijke overeenkomsten toe te passen of hun betrekkingen dienovereenkomstig te onderhouden in plaats van middels dit Verdrag, indien dat hun samenwerking bevordert.
+- h) Persecution against any identifiable group or collectivity on political, racial, national, ethnic, cultural, religious, gender or other grounds that are universally recognized as impermissible under international law, in connection with any act referred to in this paragraph or any crime to which this Convention applies;
 
-##### Artikel 5. Definities van internationale misdrijven
+- i) Enforced disappearance of persons;
 
-1. Voor de toepassing van dit Verdrag wordt verstaan onder „genocide” elk van de volgende handelingen gepleegd met de bedoeling een nationale, etnische of godsdienstige groep, dan wel een groep behorend tot een bepaald ras, als zodanig geheel of gedeeltelijk te vernietigen:
+- j) The crime of apartheid;
 
-- a. het doden van leden van de groep;
+- k) Other inhumane acts of a similar character intentionally causing great suffering, or serious injury to body or to mental or physical health.
 
-- b. het toebrengen van ernstig lichamelijk of geestelijk letsel aan leden van de groep;
+3. For the purposes of paragraph 2:
 
-- c. het opzettelijk aan de groep opleggen van levensvoorwaarden gericht op haar gehele of gedeeltelijke lichamelijke vernietiging;
+- a) “Attack directed against any civilian population” means a course of conduct involving the multiple commission of acts referred to in paragraph 2 against any civilian population, pursuant to or in furtherance of a State or organizational policy to commit such attack;
 
-- d. het opleggen van maatregelen bedoeld om geboorten binnen de groep te voorkomen;
+- b) “Extermination” includes the intentional infliction of conditions of life, inter alia the deprivation of access to food and medicine, calculated to bring about the destruction of part of a population;
 
-- e. het onder dwang overbrengen van kinderen van de groep naar een andere groep.
+- c) “Enslavement” means the exercise of any or all of the powers attaching to the right of ownership over a person and includes the exercise of such power in the course of trafficking in persons, in particular women and children;
 
-2. Voor de toepassing van dit Verdrag wordt verstaan onder „misdrijf tegen de menselijkheid” elk van de volgende handelingen, indien gepleegd als onderdeel van een wijdverbreide of stelselmatige aanval gericht tegen een burgerbevolking, met kennis van de aanval:
+- d) “Deportation or forcible transfer of population” means forced displacement of the persons concerned by expulsion or other coercive acts from the area in which they are lawfully present, without grounds permitted under international law;
 
-- a. moord;
+- e) “Torture” means the intentional infliction of severe pain or suffering, whether physical or mental, upon a person in the custody or under the control of the accused; except that torture shall not include pain or suffering arising only from, inherent in or incidental to, lawful sanctions;
 
-- b. uitroeiing;
+- f) “Forced pregnancy” means the unlawful confinement of a woman forcibly made pregnant, with the intent of affecting the ethnic composition of any population or carrying out other grave violations of international law. This definition shall not in any way be interpreted as affecting domestic laws relating to pregnancy;
 
-- c. slavernij;
+- g) “Persecution” means the intentional and severe deprivation of fundamental rights contrary to international law by reason of the identity of the group or collectivity;
 
-- d. deportatie of onder dwang overbrengen van bevolking;
+- h) “The crime of apartheid” means inhumane acts of a character similar to those referred to in paragraph 2, committed in the context of an institutionalized regime of systematic oppression and domination by one racial group over any other racial group or groups and committed with the intention of maintaining that regime;
 
-- e. gevangenneming of andere ernstige beroving van de lichamelijke vrijheid in strijd met fundamentele regels van internationaal recht;
+- i) “Enforced disappearance of persons” means the arrest, detention or abduction of persons by, or with the authorization, support or acquiescence of, a State or a political organization, followed by a refusal to acknowledge that deprivation of freedom or to give information on the fate or whereabouts of those persons, with the intention of removing them from the protection of the law for a prolonged period of time.
 
-- f. marteling;
+4. For the purposes of this Convention, “war crimes” means:
 
-- g. verkrachting, seksuele slavernij, gedwongen prostitutie, gedwongen zwangerschap, gedwongen sterilisatie, of enige andere vorm van seksueel geweld van vergelijkbare ernst;
+- a) Grave breaches of the Geneva Conventions of 12 August 1949, namely, any of the following acts against persons or property protected under the provisions of the relevant Geneva Convention:
 
-- h. vervolging van een identificeerbare groep of collectiviteit op politieke gronden, omdat deze tot een bepaald ras of een bepaalde nationaliteit behoort, op etnische, culturele of godsdienstige gronden, op grond van geslacht of op andere gronden die universeel zijn erkend als ontoelaatbaar krachtens internationaal recht, in verband met een in dit lid bedoelde handeling of enig ander misdrijf waarop dit Verdrag van toepassing is;
+   - (i) Willful killing;
 
-- i. gedwongen verdwijning van personen;
+   - (ii) Torture or inhuman treatment, including biological experiments;
 
-- j. apartheid;
+   - (iii) Willfully causing great suffering, or serious injury to body or health;
 
-- k. andere onmenselijke handelingen van vergelijkbare aard waardoor opzettelijk ernstig lijden of ernstig lichamelijk letsel of schade aan de geestelijke of lichamelijke gezondheid wordt veroorzaakt.
+   - (iv) Extensive destruction and appropriation of property, not justified by military necessity and carried out unlawfully and wantonly;
 
-3. Voor de toepassing van het tweede lid:
+   - (v) Compelling a prisoner of war or other protected person to serve in the forces of a hostile Power;
 
-- a. betekent „aanval gericht tegen een burgerbevolking” een wijze van optreden die met zich brengt het meermalen plegen van in het tweede lid bedoelde handelingen tegen een burgerbevolking ter uitvoering of voortzetting van het beleid van een staat of organisatie, dat het plegen van een dergelijke aanval tot doel heeft;
+   - (vi) Willfully depriving a prisoner of war or other protected person of the rights of fair and regular trial;
 
-- b. omvat „uitroeiing” het opzettelijk opleggen van levensvoorwaarden, onder andere de onthouding van toegang tot voedsel en geneesmiddelen, gericht op de vernietiging van een deel van een bevolking;
+   - (vii) Unlawful deportation or transfer or unlawful confinement;
 
-- c. betekent „slavernij” de uitoefening op een persoon van een of alle bevoegdheden verbonden aan het recht van eigendom, met inbegrip van de uitoefening van dergelijke bevoegdheid bij mensenhandel, in het bijzonder handel in vrouwen en kinderen;
+   - (viii) Taking of hostages;
 
-- d. betekent „deportatie of onder dwang overbrengen van bevolking” het onder dwang verplaatsen van personen door verdrijving of andere dwangmaatregelen uit het gebied waarin zij zich rechtmatig bevinden zonder dat daartoe krachtens internationaal recht gronden zijn;
+- b) Other serious violations of the laws and customs applicable in international armed conflict, within the established framework of international law, namely, any of the following acts:
 
-- e. betekent „marteling” het opzettelijk veroorzaken van ernstige pijn of ernstig lijden, hetzij lichamelijk, hetzij geestelijk, bij een persoon die zich in gevangenschap of in de macht bevindt van degene die beschuldigd wordt, met dien verstande dat onder marteling niet wordt verstaan pijn of lijden dat louter het gevolg is van, inherent is aan of samenhangt met rechtmatige sancties;
+   - (i) Intentionally directing attacks against the civilian population as such or against individual civilians not taking direct part in hostilities;
 
-- f. betekent „gedwongen zwangerschap” de onrechtmatige gevangenschap van een vrouw die onder dwang zwanger is gemaakt, met de opzet de etnische samenstelling van een bevolking te beïnvloeden of andere ernstige schendingen van internationaal recht te plegen. Deze definitie mag in geen geval worden uitgelegd als een aantasting van nationale wetgeving met betrekking tot zwangerschap;
+   - (ii) Intentionally directing attacks against civilian objects, that is, objects which are not military objectives;
 
-- g. betekent „vervolging” het opzettelijk en in ernstige mate ontnemen van fundamentele rechten in strijd met het internationaal recht op grond van de identiteit van de groep of collectiviteit;
+   - (iii) Intentionally directing attacks against personnel, installations, material, units or vehicles involved in a humanitarian assistance or peacekeeping mission in accordance with the [Charter of the United Nations](https://wetten.overheid.nl/BWBV0004143), as long as they are entitled to the protection given to civilians or civilian objects under the international law of armed conflict;
 
-- h. betekent „apartheid” onmenselijke handelingen van een vergelijkbare aard als de in het tweede lid bedoelde handelingen, gepleegd in het kader van een geïnstitutionaliseerd regime van systematische onderdrukking en overheersing door een groep van een bepaald ras van een of meer groepen van een ander ras en begaan met de opzet dat regime in stand te houden;
+   - (iv) Intentionally launching an attack in the knowledge that such attack will cause incidental loss of life or injury to civilians or damage to civilian objects or widespread, long-term and severe damage to the natural environment which would be clearly excessive in relation to the concrete and direct overall military advantage anticipated;
 
-- i. betekent „gedwongen verdwijning van personen” het arresteren, gevangen houden of afvoeren van personen door of met de machtiging, ondersteuning of bewilliging van een staat of politieke organisatie, gevolgd door een weigering een dergelijke vrijheidsontneming te erkennen of informatie te verstrekken over het lot of de verblijfplaats van die personen, met de opzet hen langdurig buiten de bescherming van de wet te plaatsen.
+   - (v) Attacking or bombarding, by whatever means, towns, villages, dwellings or buildings which are undefended and which are not military objectives;
 
-4. Voor de toepassing van dit Verdrag wordt verstaan onder „oorlogsmisdrijven”:
+   - (vi) Killing or wounding a combatant who, having laid down his or her arms or having no longer means of defense, has surrendered at discretion;
 
-- a. ernstige inbreuken op de Verdragen van Genève van 12 augustus 1949, namelijk een van de volgende handelingen tegen personen of goederen die ingevolge de bepalingen van het desbetreffende Verdrag van Genève zijn beschermd:
+   - (vii) Making improper use of a flag of truce, of the flag or of the military insignia and uniform of the enemy or of the United Nations, as well as of the distinctive emblems of the Geneva Conventions, resulting in death or serious personal injury;
 
-- i. opzettelijk doden;
+   - (viii) The transfer, directly or indirectly, by the Occupying Power of parts of its own civilian population into the territory it occupies, or the deportation or transfer of all or parts of the population of the occupied territory within or outside this territory;
 
-- ii. marteling of onmenselijke behandeling, met inbegrip van biologische experimenten;
+   - (ix) Intentionally directing attacks against buildings dedicated to religion, education, art, science or charitable purposes, historic monuments, hospitals and places where the sick and wounded are collected, provided they are not military objectives;
 
-- iii. opzettelijk veroorzaken van ernstig lijden, zwaar lichamelijk letsel of ernstige schade aan de gezondheid;
+   - (x) Subjecting persons who are in the power of an adverse party to physical mutilation or to medical or scientific experiments of any kind which are neither justified by the medical, dental or hospital treatment of the person concerned nor carried out in his or her interest, and which cause death to or seriously endanger the health of such person or persons;
 
-- iv. grootschalige wederrechtelijke en moedwillige vernietiging en toe-eigening van goederen zonder militaire noodzaak;
+   - (xi) Killing or wounding treacherously individuals belonging to the hostile nation or army;
 
-- v. een krijgsgevangene of andere beschermde persoon dwingen dienst te nemen bij de strijdkrachten van een vijandige mogendheid;
+   - (xii) Declaring that no quarter will be given;
 
-- vi. een krijgsgevangene of andere beschermde persoon opzettelijk het recht op een eerlijke en rechtmatige berechting onthouden;
+   - (xiii) Destroying or seizing the enemy’s property unless such destruction or seizure be imperatively demanded by the necessities of war;
 
-- vii. onrechtmatige deportatie of verplaatsing of onrechtmatige opsluiting;
+   - (xiv) Declaring abolished, suspended or inadmissible in a court of law the rights and actions of the nationals of the hostile party;
 
-- viii. gijzelneming;
+   - (xv) Compelling the nationals of the hostile party to take part in the operations of war directed against their own country, even if they were in the belligerent’s service before the commencement of the war;
 
-- b. andere ernstige schendingen van de wetten en gebruiken die toepasselijk zijn in een internationaal gewapend conflict binnen het gevestigde kader van het internationaal recht, namelijk een van de volgende handelingen:
+   - (xvi) Pillaging a town or place, even when taken by assault;
 
-- i. opzettelijk aanvallen richten op de burgerbevolking als zodanig of op individuele burgers die niet rechtstreeks aan vijandelijkheden deelnemen;
+   - (xvii) Employing poison or poisoned weapons;
 
-- ii. opzettelijk aanvallen richten op burgerobjecten, dat wil zeggen objecten die geen militair doel zijn;
+   - (xviii) Employing asphyxiating, poisonous or other gases, and all analogous liquids, materials or devices;
 
-- iii. opzettelijk aanvallen richten op personeel, installaties, materieel, eenheden of voertuigen betrokken bij humanitaire hulpverlening of vredesmissies overeenkomstig het [Handvest van de Verenigde Naties](onbekend), zolang deze recht hebben op de bescherming die aan burgers of burgerobjecten wordt verleend krachtens het internationaal recht inzake gewapende conflicten;
+   - (xix) Employing bullets which expand or flatten easily in the human body, such as bullets with a hard envelope which does not entirely cover the core or is pierced with incisions;
 
-- iv. opzettelijk een aanval inzetten in de wetenschap dat een dergelijke aanval bijkomstige verliezen aan levens of letsel onder burgers zal veroorzaken of schade aan burgerobjecten of omvangrijke, langdurige en ernstige schade aan het milieu zal aanrichten, die duidelijk buitensporig zou zijn in verhouding tot het te verwachten concrete en directe algehele militaire voordeel;
+   - (xx) Committing outrages upon personal dignity, in particular humiliating and degrading treatment;
 
-- v. aanvallen of bombarderen met wat voor middelen ook van steden, dorpen, woningen of gebouwen, die niet worden verdedigd en geen militair doelwit zijn;
+   - (xxi) Committing rape, sexual slavery, enforced prostitution, forced pregnancy, as defined in paragraph 3, subparagraph (f), enforced sterilization, or any other form of sexual violence also constituting a grave breach of the Geneva Conventions;
 
-- vi. een combattant doden of verwonden die zijn of haar wapens heeft neergelegd of zich niet meer kan verdedigen, en zich onvoorwaardelijk heeft overgegeven;
+   - (xxii) Utilizing the presence of a civilian or other protected person to render certain points, areas or military forces immune from military operations;
 
-- vii. op ongepaste wijze gebruik maken van een witte vlag, van de vlag of militaire onderscheidingstekens en uniform van de vijand of van de Verenigde Naties, alsmede van emblemen van de Verdragen van Genève, de dood of ernstig lichamelijk letsel ten gevolge hebbende;
+   - (xxiii) Intentionally directing attacks against buildings, material, medical units and transport, and personnel using the distinctive emblems of the Geneva Conventions in conformity with international law;
 
-- viii. rechtstreekse of indirecte verplaatsing door de bezettende mogendheid van delen van haar eigen burgerbevolking naar het bezette grondgebied, of de deportatie of het verplaatsen van de gehele of een deel van de bevolking van het bezette grondgebied binnen dat grondgebied of daarbuiten;
+   - (xxiv) Intentionally using starvation of civilians as a method of warfare by depriving them of objects indispensable to their survival, including willfully impeding relief supplies as provided for under the Geneva Conventions;
 
-- ix. opzettelijk aanvallen richten op gebouwen bestemd voor godsdienst, onderwijs, kunst, wetenschap of charitatieve doeleinden, historische monumenten, ziekenhuizen en plaatsen waar zieken en gewonden worden samengebracht, mits deze geen militair doelwit zijn;
+   - (xxv) Conscripting or enlisting children under the age of fifteen years into the national armed forces or using them to participate actively in hostilities;
 
-- x. personen die zich in de macht van een tegenpartij bevinden, onderwerpen aan lichamelijke verminking of medische of wetenschappelijke experimenten van welke aard ook, die niet worden gerechtvaardigd door de geneeskundige of tandheelkundige behandeling van de betrokken persoon of door diens behandeling in het ziekenhuis noch in zijn of haar belang worden uitgevoerd, en die de dood ten gevolge hebben of de gezondheid van die persoon of personen ernstig in gevaar brengen;
+- c) In the case of an armed conflict not of an international character, serious violations of article 3 common to the four Geneva Conventions of 12 August 1949, namely, any of the following acts committed against persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed hors de combat by sickness, wounds, detention or any other cause:
 
-- xi. op verraderlijke wijze doden of verwonden van personen die behoren tot de vijandige natie of het vijandige leger;
+   - (i) Violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;
 
-- xii. verklaren dat geen kwartier zal worden verleend;
+   - (ii) Committing outrages upon personal dignity, in particular humiliating and degrading treatment;
 
-- xiii. vernietiging of inbeslagneming van goederen van de vijand tenzij deze vernietiging of inbeslagneming dringend vereist is als gevolg van dwingende oorlogsomstandigheden;
+   - (iii) Taking of hostages;
 
-- xiv. verklaren dat de rechten en handelingen van onderdanen van de vijandelijke partij vervallen, geschorst of in rechte niet-ontvankelijk zijn;
+   - (iv) The passing of sentences and the carrying out of executions without previous judgment pronounced by a regularly constituted court, affording all judicial guarantees which are generally recognized as indispensable;
 
-- xv. onderdanen van de vijandige partij dwingen deel te nemen aan oorlogshandelingen gericht tegen hun eigen land, ook als zij voor de aanvang van de oorlog in dienst van de oorlogvoerende partij waren;
+- d) Paragraph 4, subparagraph (c), applies to armed conflicts not of an international character and thus does not apply to situations of internal disturbances and tensions, such as riots, isolated and sporadic acts of violence or other acts of a similar nature;
 
-- xvi. een stad of plaats plunderen, ook wanneer deze bij een aanval wordt ingenomen;
+- e) Other serious violations of the laws and customs applicable in armed conflicts not of an international character, within the established framework of international law, namely, any of the following acts:
 
-- xvii. gebruik van gif of giftige wapens;
+   - (i) Intentionally directing attacks against the civilian population as such or against individual civilians not taking direct part in hostilities;
 
-- xviii. gebruik van verstikkende, giftige of andere gassen en overige soortgelijke vloeistoffen, materialen of apparaten;
+   - (ii) Intentionally directing attacks against buildings, material, medical units and transport, and personnel using the distinctive emblems of the Geneva Conventions in conformity with international law;
 
-- xix. gebruik van kogels die in het menselijk lichaam gemakkelijk in omvang toenemen of platter en breder worden, zoals kogels met een harde mantel die de kern gedeeltelijk onbedekt laat of voorzien is van inkepingen;
+   - (iii) Intentionally directing attacks against personnel, installations, material, units or vehicles involved in a humanitarian assistance or peacekeeping mission in accordance with the [Charter of the United Nations](https://wetten.overheid.nl/BWBV0004143), as long as they are entitled to the protection given to civilians or civilian objects under the international law of armed conflict;
 
-- xx. wandaden begaan tegen de persoonlijke waardigheid, in het bijzonder vernederende en onterende behandeling;
+   - (iv) Intentionally directing attacks against buildings dedicated to religion, education, art, science or charitable purposes, historic monuments, hospitals and places where the sick and wounded are collected, provided they are not military objectives;
 
-- xxi. verkrachting, seksuele slavernij, gedwongen prostitutie, gedwongen zwangerschap zoals gedefinieerd in het derde lid, onderdeel f, gedwongen sterilisatie of elke andere vorm van seksueel geweld die eveneens een ernstige inbreuk op de Verdragen van Genève oplevert;
+   - (v) Pillaging a town or place, even when taken by assault;
 
-- xxii. gebruikmaken van de aanwezigheid van een burger of een andere beschermde persoon teneinde bepaalde punten, gebieden of strijdkrachten te vrijwaren van militaire operaties;
+   - (vi) Committing rape, sexual slavery, enforced prostitution, forced pregnancy, as defined in paragraph 3, subparagraph (f), enforced sterilization, and any other form of sexual violence also constituting a serious violation of article 3 common to the four Geneva Conventions;
 
-- xxiii. opzettelijk aanvallen richten op gebouwen, materieel, medische eenheden en transport, alsmede personeel dat gebruik maakt van de emblemen van de Verdragen van Genève overeenkomstig internationaal recht;
+   - (vii) Conscripting or enlisting children under the age of fifteen years into armed forces or groups or using them to participate actively in hostilities;
 
-- xxiv. opzettelijk gebruikmaken van uithongering van burgers als methode van oorlogvoering door hun voorwerpen te onthouden die onontbeerlijk zijn voor hun overleving, waaronder het opzettelijk belemmeren van de aanvoer van hulpgoederen zoals voorzien in de Verdragen van Genève;
+   - (viii) Ordering the displacement of the civilian population for reasons related to the conflict, unless the security of the civilians involved or imperative military reasons so demand;
 
-- xxv. kinderen beneden de leeftijd van vijftien jaar bij de nationale strijdkrachten onder de wapenen roepen of in militaire dienst nemen dan wel hen gebruiken voor actieve deelname aan vijandelijkheden;
+   - (ix) Killing or wounding treacherously a combatant adversary;
 
-- c. In geval van een gewapend conflict dat niet internationaal van aard is, ernstige schendingen van gemeenschappelijk artikel 3 van de vier Verdragen van Genève van 12 augustus 1949, namelijk een van de volgende handelingen begaan tegen personen die niet actief deelnemen aan de vijandelijkheden, waaronder leden van strijdkrachten die hun wapens hebben neergelegd en degenen die buiten gevecht zijn gesteld door ziekte, verwondingen, gevangenschap of andere oorzaken:
+   - (x) Declaring that no quarter will be given;
 
-- i. geweld tegen het leven en de persoon, in het bijzonder alle misdrijven tegen het leven gericht, verminking, wrede behandeling en marteling;
+   - (xi) Subjecting persons who are in the power of another party to the conflict to physical mutilation or to medical or scientific experiments of any kind which are neither justified by the medical, dental or hospital treatment of the person concerned nor carried out in his or her interest, and which cause death to or seriously endanger the health of such person or persons;
 
-- ii. wandaden begaan tegen de persoonlijke waardigheid, in het bijzonder vernederende en onterende behandeling;
+   - (xii) Destroying or seizing the property of an adversary unless such destruction or seizure be imperatively demanded by the necessities of the conflict;
 
-- iii. gijzelneming;
+- f) Paragraph 4, subparagraph (e), applies to armed conflicts not of an international character and thus does not apply to situations of internal disturbances and tensions, such as riots, isolated and sporadic acts of violence or other acts of a similar nature. It applies to armed conflicts that take place in the territory of a State when there is protracted armed conflict between governmental authorities and organized armed groups or between such groups.
 
-- iv. het uitspreken van veroordelingen en tenuitvoerleggen van executies zonder voorafgaand vonnis uitgesproken door een rechtmatig samengesteld gerecht dat alle gerechtelijke waarborgen biedt die algemeen als onmisbaar worden erkend;
+5. Nothing in paragraph 4, subparagraphs (c) and (e), shall affect the responsibility of a Government to maintain or reestablish law and order in the State or to defend the unity and territorial integrity of the State, by all legitimate means.
 
-- d. Het vierde lid, onderdeel c, geldt voor gewapende conflicten die niet internationaal van aard zijn en geldt derhalve niet voor gevallen van interne onlusten en spanningen, zoals oproer, geïsoleerde en sporadische gewelddadigheden of andere handelingen van vergelijkbare aard;
+6. For the purposes of this Convention, the crimes to which this Convention applies shall not be considered as political crimes, as crimes connected with a political crime or as crimes inspired by political motives.
 
-- e. Andere ernstige schendingen van de wetten en gebruiken die gelden ingeval van gewapende conflicten die niet internationaal van aard zijn, binnen het gevestigde kader van internationaal recht, namelijk een van de volgende handelingen:
+##### Article 6. Optional application of this Convention
 
-- i. opzettelijk aanvallen richten op de burgerbevolking als zodanig of op individuele burgers die niet rechtstreeks aan vijandelijkheden deelnemen;
+Without prejudice to [article 2](https://wetten.overheid.nl/BWBV0007040), States Parties may agree to apply this Convention to any request that refers to conduct to which all of the following conditions apply:
 
-- ii. opzettelijk aanvallen richten op gebouwen, materieel, medische eenheden en transport, en personeel dat gebruik maakt van de emblemen van de Verdragen van Genève overeenkomstig internationaal recht;
+- a) The conduct is a crime of genocide, crime against humanity, war crime, crime of aggression, torture or enforced disappearance under international law;
 
-- iii. opzettelijk aanvallen richten op personeel, installaties, materieel, eenheden of voertuigen betrokken bij humanitaire hulpverlening of vredesmissies overeenkomstig het [Handvest van de Verenigde Naties](onbekend), zolang deze recht hebben op de bescherming die aan burgers of burgerdoelen wordt verleend krachtens het internationaal recht inzake gewapende conflicten;
+- b) The conduct is a crime of genocide, crime against humanity, war crime, crime of aggression, torture or enforced disappearance under the domestic law of the requesting State Party;
 
-- iv. opzettelijk aanvallen richten op gebouwen bestemd voor godsdienst, onderwijs, kunst, wetenschap of charitatieve doeleinden, historische monumenten, ziekenhuizen en plaatsen waar zieken en gewonden worden samengebracht, mits deze geen militair doelwit zijn;
+- c) The conduct is an extraditable offence under the domestic law of the requested State Party.
 
-- v. een stad of plaats plunderen, ook wanneer deze bij een aanval wordt ingenomen;
+##### Article 7. Criminalization
 
-- vi. verkrachting, seksuele slavernij, gedwongen prostitutie, gedwongen zwangerschap zoals gedefinieerd in het derde lid, onderdeel f, gedwongen sterilisatie of elke andere vorm van seksueel geweld die eveneens een ernstige schending zijn van gemeenschappelijk artikel 3 van de vier Verdragen van Genève;
+1. Each State Party shall take the necessary measures to ensure that the crimes to which the State Party applies this Convention in accordance with [article 2](https://wetten.overheid.nl/BWBV0007040) constitute crimes under its domestic law.
 
-- vii. kinderen beneden de leeftijd van vijftien jaar bij strijdkrachten of groepen onder de wapenen roepen of in militaire dienst nemen dan wel hen gebruiken voor actieve deelname aan vijandelijkheden;
+2. Each State Party shall make the crimes referred to in paragraph 1 punishable by appropriate penalties which take into account their gravity.
 
-- viii. verplaatsing bevelen van de burgerbevolking om redenen die verband houden met het conflict, tenzij de veiligheid van de betrokken burgers of dwingende militaire redenen dit vereisen;
+##### Article 8. Jurisdiction
 
-- ix. op verraderlijke wijze doden of verwonden van een strijdende tegenstander;
+1. Each State Party shall take such measures as may be necessary to establish its jurisdiction over the crimes to which this Convention applies in accordance with [article 2, paragraph 1](https://wetten.overheid.nl/BWBV0007040), as well as any crime it has notified as applicable under article 2, paragraph 2, in the following cases:
 
-- x. verklaren dat geen kwartier zal worden verleend;
+- a) When the crimes are committed in any territory under its jurisdiction or on board a vessel or aircraft registered in that State;
 
-- xi. personen die zich in de macht van een andere partij bij het conflict bevinden onderwerpen aan lichamelijke verminking of aan geneeskundige of wetenschappelijke experimenten van welke aard ook, die niet gerechtvaardigd worden door de geneeskundige of tandheelkundige behandeling van de betrokken persoon of door diens behandeling in het ziekenhuis, noch in zijn of haar belang worden uitgevoerd, en die de dood ten gevolge hebben of de gezondheid van die persoon of personen ernstig in gevaar brengen;
+- b) When the alleged offender is a national of that State.
 
-- xii. vernietiging of inbeslagneming van goederen van een tegenstander tenzij deze vernietiging of inbeslagneming dringend vereist is als gevolg van de dwingende omstandigheden van het conflict;
+2. Each State Party may take such measures as may be necessary to establish its jurisdiction over the crimes to which this Convention applies in accordance with [article 2, paragraph 1](https://wetten.overheid.nl/BWBV0007040), as well as any crime it has notified as applicable under article 2, paragraph 2, in the following cases:
 
-- f. Het vierde lid, onderdeel e, geldt voor gewapende conflicten die niet internationaal van aard zijn en geldt derhalve niet voor gevallen van interne onlusten en spanningen zoals oproer, geïsoleerde en sporadische gewelddadigheden of andere handelingen van vergelijkbare aard. Het geldt voor gewapende conflicten die plaatsvinden op het grondgebied van een staat in het geval van een langdurig gewapend conflict tussen overheidsautoriteiten en georganiseerde gewapende groepen of tussen deze groepen onderling.
+- a) When the alleged offender is a stateless person who is habitually resident in that State’s territory;
 
-5. Het vierde lid, onderdelen c en e, laat onverlet de verantwoordelijkheid van een regering om de openbare orde in de staat te handhaven of te herstellen of om de eenheid en territoriale integriteit van de staat met alle legitieme middelen te verdedigen.
+- b) When the victim is a national of that State.
 
-6. Voor de toepassing van dit Verdrag worden de misdrijven waarop dit Verdrag van toepassing is niet beschouwd als politieke misdrijven, als misdrijven samenhangend met een politiek misdrijf of als misdrijven ingegeven door politieke motieven.
+3. Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over such crimes in cases where the alleged offender is present in any territory under its jurisdiction and it does not extradite the alleged offender to any of the States referred to in paragraphs 1 or 2, or surrender the alleged offender to a competent international criminal court or tribunal.
 
-##### Artikel 6. Optionele toepassing van dit Verdrag
+4. This Convention does not exclude any criminal jurisdiction exercised in accordance with domestic law.
 
-Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15) kunnen de staten die partij zijn overeenkomen dit Verdrag toe te passen op ieder verzoek dat betrekking heeft op gedragingen waarop alle van de volgende voorwaarden van toepassing zijn:
+##### Article 9. Nationals
 
-- a. de gedraging bestaat uit genocide, een misdrijf tegen de menselijkheid, een oorlogsmisdrijf, het misdrijf agressie, foltering of gedwongen verdwijning krachtens het internationaal recht;
+For the purposes of this Convention, each State Party may, at any time, by written notification to the Depositary, define the term “nationals” according to its domestic law.
 
-- b. de gedraging bestaat uit genocide, een misdrijf tegen de menselijkheid, een oorlogsmisdrijf, het misdrijf agressie, foltering of gedwongen verdwijning krachtens het nationale recht van de verzoekende staat die partij is;
+##### Article 10. General principle of cooperation
 
-- c. de gedraging is een delict waarvoor uitlevering kan worden toegestaan krachtens het nationale recht van de aangezochte staat die partij is.
+States Parties shall execute requests for cooperation made pursuant to this Convention in accordance with their domestic law.
 
-##### Artikel 7. Strafbaarstelling
+##### Article 11. Statute of limitations
 
-1. Elke staat die partij is neemt de benodigde maatregelen om te waarborgen dat de misdrijven waarop de staat die partij is dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15) misdrijven vormen krachtens zijn nationale recht.
+For the purposes of this Convention, the crimes to which this Convention applies in accordance with [article 2](https://wetten.overheid.nl/BWBV0007040) shall not be subject to any statute of limitations contrary to international law.
 
-2. Elke staat die partij is stelt de in het eerste lid bedoelde misdrijven strafbaar met passende straffen, waarbij rekening wordt gehouden met de ernstige aard ervan.
+##### Article 12. Right to complain
 
-##### Artikel 8. Rechtsmacht
+1. Each State Party shall take the necessary measures to ensure that any person who alleges that crimes to which that State Party applies this Convention in accordance with [article 2](https://wetten.overheid.nl/BWBV0007040) have been or are being committed has the right to complain to its competent authorities.
 
-1. Iedere staat die partij is, neemt de eventueel noodzakelijke maatregelen tot vestiging van zijn rechtsmacht ten aanzien van de misdrijven waarop dit Verdrag van toepassing is in overeenstemming met [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), alsmede elk ander misdrijf waarvan hij kennis heeft gegeven als zijnde van toepassing krachtens artikel 2, tweede lid, in de volgende gevallen:
+2. States Parties shall undertake to examine any received complaints, promptly and impartially, in accordance with their domestic law and, where appropriate, relevant domestic policies.
 
-- a. wanneer de misdrijven worden gepleegd binnen een grondgebied onder zijn rechtsmacht of aan boord van een schip of luchtvaartuig dat in die staat is geregistreerd;
+##### Article 13. Preliminary measures
 
-- b. wanneer de verdachte onderdaan van die staat is.
+1. Upon being satisfied, after an examination of information available to it, that the circumstances so warrant, any State Party in whose territory a person alleged to have committed a crime to which it applies this Convention in accordance with [article 2](https://wetten.overheid.nl/BWBV0007040) is present shall take the person into custody or take other legal measures to ensure the person's presence, in accordance with its domestic law. The custody and other legal measures may be continued only for such time as is necessary to enable any criminal, extradition or surrender proceedings to be instituted.
 
-2. Iedere staat die partij is, kan de eventueel noodzakelijke maatregelen nemen tot vestiging van zijn rechtsmacht ten aanzien van de misdrijven waarop dit Verdrag van toepassing is in overeenstemming met [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), alsmede elk ander misdrijf waarvan hij kennis heeft gegeven als zijnde van toepassing krachtens artikel 2, tweede lid, in de volgende gevallen:
+2. Such State Party shall immediately make a preliminary inquiry into the facts.
 
-- a. wanneer de verdachte staatloos is en zijn gewone verblijfplaats op het grondgebied van die staat heeft;
+3. Any person in custody pursuant to paragraph 1 shall be assisted in communicating immediately with the nearest appropriate representative of the State of which the person is a national, or, if the person is stateless, with the representative of the State where the person habitually resides.
 
-- b. wanneer het slachtofferonderdaan van die staat is.
+4. When a State Party, pursuant to the provisions of this article, has taken a person into custody, it shall immediately notify the States Parties referred to in [article 8, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0007040), of the fact that such a person is in custody and of the circumstances which warrant the person's detention. The State Party which makes the preliminary inquiry contemplated in paragraph 2 shall, as appropriate, promptly report its findings to said States Parties and shall indicate whether it intends to exercise jurisdiction.
 
-3. Iedere staat die partij is, neemt tevens de eventueel noodzakelijke maatregelen tot vestiging van zijn rechtsmacht ten aanzien van zodanige misdrijven in de gevallen waarin de verdachte zich bevindt binnen een onder zijn rechtsmacht vallend grondgebied en deze staat de verdachte niet uitlevert aan een van de in het eerste of tweede lid genoemde staten of de verdachte niet overlevert aan een bevoegd internationaal strafhof of tribunaal.
+##### Article 14. Aut dedere, aut iudicare
 
-4. Dit Verdrag sluit geen enkele strafrechtelijke rechtsmacht uit die wordt uitgeoefend overeenkomstig het nationale recht.
+1. The State Party in the territory under whose jurisdiction a person alleged to have committed any crimes to which this Convention applies in accordance with [article 2](https://wetten.overheid.nl/BWBV0007040) is found, shall in the cases contemplated in [article 8](https://wetten.overheid.nl/BWBV0007040), if it does not extradite or surrender the person to another State or a competent international criminal court or tribunal, submit the case to its competent authorities for the purposes of prosecution.
 
-##### Artikel 9. Onderdanen
+2. These authorities shall take their decision in the same manner as in the case of any other crime of a grave nature under the domestic law of that State Party. In the cases referred to in [article 8, paragraph 3](https://wetten.overheid.nl/BWBV0007040), the standards of evidence required for prosecution and conviction shall in no way be less stringent than those which apply in the cases referred to in article 8, paragraphs 1 and 2.
 
-Voor de toepassing van dit Verdrag kan elke staat die partij is, te allen tijde, door middel van een schriftelijke kennisgeving aan de depositaris, het begrip „onderdanen” omschrijven volgens zijn nationale recht.
+3. Any person against whom proceedings are brought in connection with any of the crimes to which this Convention applies shall be guaranteed fair treatment at all stages of the proceedings.
 
-##### Artikel 10. Algemeen beginsel van samenwerking
+##### Article 15. Liability of legal persons
 
-De staten die partij zijn voeren verzoeken om samenwerking gedaan ingevolge dit Verdrag uit in overeenstemming met hun nationale recht.
+1. Each State Party shall adopt such measures as may be necessary, consistent with its legal principles, to establish the liability of legal persons for their participation in the crimes to which that State Party applies this Convention in accordance with [article 2](https://wetten.overheid.nl/BWBV0007040).
 
-##### Artikel 11. Verjaringstermijn
+2. Subject to the legal principles of the State Party, the liability of legal persons may be criminal, civil or administrative.
 
-Voor de toepassing van dit Verdrag geldt voor de misdrijven waarop dit Verdrag in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15) van toepassing is, geen verjaringstermijn die indruist tegen het internationaal recht.
+3. Such liability shall be without prejudice to the criminal liability of the natural persons who have committed the crimes.
 
-##### Artikel 12. Recht om een melding te doen
+4. Each State Party shall, in particular, ensure that legal persons held liable in accordance with this article are subject to effective, proportionate and dissuasive criminal or non-criminal sanctions, including monetary sanctions.
 
-1. Iedere staat die partij is neemt de eventueel noodzakelijke maatregelen om te waarborgen dat een persoon die beweert dat de misdrijven waarop die staat die partij is dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), zijn of worden gepleegd het recht heeft tot het doen van een melding bij zijn bevoegde autoriteiten.
+##### Article 16. Use and protection of personal data
 
-2. De staten die partij zijn verbinden zich ertoe alle ontvangen meldingen onverwijld en onpartijdig te bestuderen, in overeenstemming met hun nationale recht en, indien van toepassing, relevant nationaal beleid.
+1. States Parties shall ensure that personal data transferred from one State Party to another shall be used only for the purpose for which it was transferred. Personal data shall not be used for any incompatible purpose. Personal data shall not be transferred to any third State or international organization without prior approval of the State Party which initially transferred the personal data. The State Party which initially transferred the personal data may specify terms that the requesting State Party must respect in connection with any onward transfer.
 
-##### Artikel 13. Voorlopige maatregelen
+2. Where the requested State Party has imposed special conditions on the use of personal data it has provided, the requesting State Party shall upon request from the requested State Party provide information on the use that has been made of the personal data.
 
-1. Iedere staat die partij is, binnen wiens grondgebied zich een persoon bevindt die ervan wordt verdacht een misdrijf waarop die staat dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15) te hebben gepleegd, neemt deze in hechtenis of treft andere wettelijke maatregelen ten einde de aanwezigheid van die persoon te waarborgen, nadat deze staat zich ervan heeft overtuigd, na een onderzoek van de deze ter beschikking staande gegevens, dat de omstandigheden zulks rechtvaardigen, in overeenstemming met zijn nationale wetgeving. De hechtenis en andere wettelijke maatregelen mogen slechts zolang worden voortgezet als nodig is om een strafvervolging of een uitleverings- of overleveringsprocedure in te stellen.
+3. Where, following disclosure to the requesting State Party, the requested State Party becomes aware of circumstances that may cause it to seek an additional condition in a particular case, a central authority of the requested State Party may consult with a central authority of the requesting State Party to determine the extent to which the personal data can be protected.
 
-2. Een zodanige staat die partij is stelt onmiddellijk een voorlopig onderzoek naar de feiten in.
+4. States Parties shall transfer accurate personal data to each other. If it appears that incorrect personal data has been transferred or if it appears that personal data should not have been transferred by the requested or requesting State Party, the State Party concerned shall immediately be notified to this effect. The State Party concerned shall correct or delete the personal data without delay, unless it is needed for the purposes of paragraphs 8 and 9.
 
-3. Aan ieder die zich ingevolge het eerst lid in hechtenis bevindt, dient hulp te worden geboden om zich onmiddellijk in verbinding te stellen met de dichtstbijzijnde bevoegde vertegenwoordiger van de staat waarvan de persoon onderdaan is, of, indien de persoon staatloos is, met de vertegenwoordiger van de staat waar de persoon gewoonlijk verblijft.
+5. Upon request, the person concerned shall be informed about any transferred personal data relating to that person and about the purpose of its intended use. However, this information may be withheld in order to avoid prejudicing the prevention, detection, investigation or prosecution of crimes.
 
-4. Wanneer een staat die partij is, ingevolge de bepalingen van dit artikel, een persoon in hechtenis heeft genomen, stelt hij onmiddellijk de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2024-02-15&g=2024-02-15), bedoelde staten die partij zijn in kennis van het feit dat deze persoon zich in hechtenis bevindt en van de omstandigheden die zijn gevangenhouding rechtvaardigen. De staat die partij is die het in het tweede lid bedoelde voorlopige onderzoek verricht, brengt, in voorkomend geval, onverwijld verslag uit van zijn bevindingen aan de genoemde staten die partij zijn en deelt mede, of hij voornemens is rechtsmacht uit te oefenen.
+6. The transferred personal data shall be erased or anonymized by the requesting State Party as soon as it is no longer required for the purpose for which it has been transferred, except where retaining the personal data is required to exercise the rights referred to in paragraphs 8 and 9.
 
-##### Artikel 14. Aut dedere, aut iudicare
+7. The receiving State Party shall ensure appropriate protection of the personal data received from accidental loss, accidental or unlawful destruction or alteration and unauthorized disclosure, unauthorized access and any other unauthorized processing.
 
-1. De staat die partij is, binnen het grondgebied onder wiens rechtsmacht een verdachte van een misdrijf waarop dit Verdrag van toepassing is in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), wordt aangetroffen, draagt in de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2024-02-15&g=2024-02-15) bedoelde gevallen, indien hij de betrokkene niet uitlevert of overlevert aan een andere staat of aan een bevoegd internationaal strafhof of tribunaal, de zaak voor vervolging over aan zijn bevoegde autoriteiten.
+8. For the purposes of this Convention, States Parties shall ensure that any person concerned by a transfer of data is entitled to obtain access to, rectification of or erasure of their personal data from the State Party which transmitted the data or the State Party which received the data. The exercise of this right may be limited if it would compromise one of the purposes mentioned in paragraph 1 or the exercise of the rights and freedoms of other persons.
 
-2. Deze autoriteiten nemen hun beslissing op dezelfde wijze als in geval van elk ander misdrijf van ernstige aard krachtens de nationale wetgeving van die staat die partij is. In de gevallen bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2024-02-15&g=2024-02-15), dienen de maatstaven voor de bewijsvoering, vereist voor vervolging en veroordeling, in geen enkel opzicht minder strikt te worden aangelegd dan die welke gelden in de gevallen bedoeld in artikel 8, eerste lid en tweede lid.
+9. States Parties shall ensure that the persons concerned are entitled to seek an effective remedy for the violation of any obligation contained in this article.
 
-3. Aan ieder tegen wie een vervolging aanhangig wordt gemaakt in verband met een van misdrijven waarop dit Verdrag van toepassing is, dient in alle fasen van de procedure een billijke behandeling te worden gewaarborgd.
+10. The requested State Party shall not be obliged to transfer personal data if the domestic law applicable to it prohibits transfer or if it has reason to assume that the legitimate interests of the person concerned would be adversely affected by such transfer.
 
-##### Artikel 15. Aansprakelijkheid van rechtspersonen
+##### Article 17. Spontaneous exchange of information
 
-1. Iedere staat die partij is neemt de eventueel noodzakelijke maatregelen die verenigbaar zijn met zijn rechtsbeginselen om de aansprakelijkheid te vestigen van rechtspersonen voor deelneming aan misdrijven waarop die staat die partij is dit Verdrag toepast in overeenstemming met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15).
+1. Without prejudice to its domestic law, a State Party may, without prior request, transmit information relating to the crimes to which it applies this Convention to another State Party where the former State Party believes that such information could assist the latter State Party in undertaking or successfully concluding inquiries and criminal proceedings, or could result in a request formulated by the latter State Party in accordance with this Convention. Without prejudice to more favorable conditions in other legal instruments, the spontaneous exchange of information shall take place through the competent authorities of the States Parties concerned.
 
-2. Met inachtneming van de rechtsbeginselen van de staat die partij is, kan deze aansprakelijkheid van rechtspersonen strafrechtelijk, civielrechtelijk of bestuursrechtelijk zijn.
+2. The transmission of information pursuant to paragraph 1 shall be without prejudice to inquiries and criminal proceedings in the providing State Party.
 
-3. Deze aansprakelijkheid geldt onverminderd de strafrechtelijke aansprakelijkheid van de natuurlijke personen die de misdrijven hebben gepleegd.
+3. The competent authorities receiving the information shall comply with a request of the providing State Party that the information remain confidential, even temporarily, or with restrictions on its use.
 
-4. Iedere staat die partij is verzekert in het bijzonder dat rechtspersonen die aansprakelijk worden gesteld overeenkomstig dit artikel, onderworpen worden aan doeltreffende, proportionele en ontmoedigende strafrechtelijke of niet-strafrechtelijke sancties, met inbegrip van geldelijke sancties.
+4. Notwithstanding paragraph 3, the receiving State Party may disclose in its proceedings information that is exculpatory to an accused person. In such case, the receiving State Party shall notify the providing State Party prior to the disclosure and, if so requested, consult with the providing State Party. If, in an exceptional case, advance notice is not possible, the receiving State Party shall inform the providing State Party of the disclosure without delay.
 
-##### Artikel 16. Gebruik en bescherming van persoonsgegevens
+5. Upon the request of the providing State Party the information transmitted shall not be used as evidence in criminal proceedings before a request for mutual legal assistance has been granted.
 
-1. De staten die partij zijn waarborgen dat persoonsgegevens die van de ene staat die partij is naar de andere worden doorgegeven uitsluitend gebruikt worden voor de doeleinden waarvoor zij zijn doorgegeven. Persoonsgegevens worden niet gebruikt voor onverenigbare doeleinden. Persoonsgegevens worden niet aan een derde staat of internationale organisatie doorgegeven zonder de voorafgaande toestemming van de staat die partij is die de persoonsgegevens aanvankelijk had doorgegeven. De staat die partij is die de persoonsgegevens aanvankelijk had doorgegeven, kan voorwaarden stellen die de verzoekende staat die partij is in acht dient te nemen bij een mogelijke verdere doorgifte.
+##### Article 18. Costs
 
-2. Wanneer de aangezochte staat die partij is bijzondere voorwaarden heeft verbonden aan het gebruik van de door hem verstrekte persoonsgegevens, verstrekt de verzoekende staat die partij is op verzoek van de aangezochte staat die partij is informatie over het gebruik van de persoonsgegevens.
+1. The ordinary costs of executing a request pursuant to this Convention shall be borne by the requested State Party, unless otherwise determined in this Convention or otherwise agreed by the States Parties concerned. If expenses of a substantial or extraordinary nature are or will be required to fulfil the request, the States Parties concerned shall consult to determine the terms and conditions under which the request shall be executed, as well as the manner in which the costs shall be borne.
 
-3. Indien de aangezochte staat die partij is, nadat hij de gegevens aan de verzoekende staat heeft verstrekt, op de hoogte raakt van omstandigheden die aanleiding zouden geven aanvullende voorwaarden te stellen in een concreet geval, kan een centrale autoriteit van de aangezochte staat die partij is met een centrale autoriteit van de verzoekende staat die partij is overleggen om te bepalen in hoeverre de persoonsgegevens kunnen worden beschermd.
+2. The following costs shall be borne or reimbursed by the requesting State Party, unless the requested State Party waives the reimbursement of all or some of these expenses:
 
-4. Staten die partij zijn geven juiste persoonsgegevens aan elkaar door. Indien blijkt dat er onjuiste persoonsgegevens zijn doorgegeven of indien blijkt dat de persoonsgegevens niet door de aangezochte of verzoekende staat die partij is had mogen zijn doorgegeven, dan wordt de betrokken staat die partij is onmiddellijk daarvan op de hoogte gesteld. De betrokken staat die partij is corrigeert of verwijdert onverwijld de persoonsgegevens, tenzij deze nodig zijn ten behoeve van het achtste en negende lid.
+- a) The costs incurred by the attendance of experts in the territory of the requested State Party;
 
-5. Op verzoek wordt de betrokken persoon ingelicht over de doorgegeven persoonsgegevens die op die persoon betrekking hebben en over het beoogde gebruik ervan. Deze informatie kan echter worden achtergehouden om te voorkomen dat er afbreuk wordt gedaan aan het voorkomen, opsporen, onderzoeken of vervolgen van misdrijven.
+- b) The costs of establishing and servicing video or telephone links;
 
-6. De doorgegeven persoonsgegevens worden door de verzoekende staat die partij is gewist of geanonimiseerd zodra de gegevens niet langer nodig zijn voor het doeleinde waarvoor zij zijn doorgegeven, behalve wanneer het bewaren van de persoonsgegevens vereist is om de in het achtste en negende lid bedoelde rechten uit te oefenen.
+- c) The remuneration of interpreters provided by the requested State Party;
 
-7. De ontvangende staat die partij is waarborgt dat de ontvangen persoonsgegevens op passende wijze worden beschermd tegen onbedoeld verloren gaan, onbedoelde of ongeoorloofde vernietiging of wijziging en ongeoorloofde verstrekking, ongeoorloofde toegang en elke andere ongeoorloofde verwerking.
+- d) Allowances to witnesses as well as their travelling and subsistence expenses in the territory of the requested State Party.
 
-8. Voor de toepassing van dit Verdrag waarborgen de staten die partij zijn dat personen die betrokken zijn bij een doorgifte van gegevens recht hebben op toegang tot, rectificatie of wissen van hun persoonsgegevens door de staat die partij is die de gegevens heeft doorgegeven of de staat die partij is die de gegevens heeft ontvangen. De uitoefening van dit recht kan worden beperkt indien dit een van de in het eerste lid genoemde doeleinden of het uitoefenen van de rechten en vrijheden van andere personen zou compromitteren.
+3. The costs for the transportation to the requesting State Party of a person in custody carried out under [article 36](https://wetten.overheid.nl/BWBV0007040) shall be borne by the requesting State Party.
 
-9. Staten die partij zijn waarborgen dat de betrokken personen het recht hebben een doeltreffende voorziening in rechte in te stellen tegen de schending van enige verplichting vervat in dit artikel.
+4. The costs for the transportation to the requesting State Party of a person whose extradition is sought shall be borne by the requesting State Party.
 
-10. De aangezochte staat die partij is, is niet verplicht persoonsgegevens door te geven indien het op hem toepasselijke nationale recht de doorgifte verbiedt of indien hij redenen heeft om aan te nemen dat de rechtmatige belangen van de betrokkene door deze doorgifte zouden worden geschaad.
+5. The costs for the transportation of a sentenced person to the State Party administering the execution of the sentence shall be borne by that State Party.
 
-##### Artikel 17. Spontane uitwisseling van informatie
+##### Article 19. Definitions related to mutual legal assistance and extradition
 
-1. Onverminderd zijn nationale recht kan een staat die partij is, zonder voorafgaand verzoek, informatie met betrekking tot misdrijven ingevolge dit Verdrag overbrengen aan een andere staat die partij is, indien de eerstgenoemde staat die partij is aanneemt dat deze informatie de laatstgenoemde staat die partij is zou kunnen helpen bij het instellen of succesvol afsluiten van onderzoeken en strafrechtelijke procedures of zou kunnen leiden tot het formuleren van een verzoek door de laatstgenoemde staat die partij is in overeenstemming met dit Verdrag. Onverminderd gunstiger voorwaarden in andere rechtsinstrumenten vindt de spontane uitwisseling van informatie plaats via de bevoegde autoriteiten van de betrokken staten die partij zijn.
+For the purposes of this Convention:
 
-2. Het overbrengen van informatie ingevolge het eerste lid laat onderzoeken en strafrechtelijke procedures in de verstrekkende staat die partij is onverlet.
+- a) “Confiscation”, which includes forfeiture where applicable, shall mean the permanent deprivation of property by order of a court or other competent authority;
 
-3. De bevoegde autoriteiten die de informatie ontvangen, willigen een verzoek van de verstrekkende staat die partij is in om de genoemde informatie geheim te houden, ook tijdelijk, of beperkingen te stellen aan het gebruik ervan.
+- b) “Freezing” or “seizure” shall mean temporarily prohibiting the transfer, conversion, disposition or movement of property or temporarily assuming custody or control of property on the basis of an order issued by a court or other competent authority;
 
-4. Niettegenstaande het derde lid, kan de ontvangende staat die partij is tijdens zijn procedures informatie verstrekken die ontlastend is voor een verdachte. In een dergelijk geval stelt de ontvangende staat die partij is de verstrekkende staat die partij is voorafgaand aan de verstrekking daarvan in kennis, en overlegt, indien daarom is verzocht, met de verstrekkende staat die partij is. Indien in een uitzonderlijk geval voorafgaande kennisgeving niet mogelijk is, stelt de ontvangende staat die partij is de verstrekkende staat die partij is onverwijld op de hoogte van de verstrekking.
+- c) “Proceeds of crime” shall mean any property derived from or obtained, directly or indirectly, through the commission of a crime to which this Convention applies;
 
-5. Op verzoek van de verstrekkende staat die partij is, wordt de overgebrachte informatie niet gebruikt als bewijs in strafprocedures voordat een verzoek om wederzijdse rechtshulp is ingewilligd.
+- d) “Property” shall mean assets of every kind, whether corporeal or incorporeal, movable or immovable, tangible or intangible, and legal documents or instruments evidencing title to, or interest in, such assets.
 
-##### Artikel 18. Kosten
+### PART II. CENTRAL AUTHORITIES AND COMMUNICATION
 
-1. De gewone kosten voor de uitvoering van een verzoek ingevolge dit Verdrag worden gedragen door de aangezochte staat die partij is, tenzij anders is bepaald in dit Verdrag of anders is overeengekomen door de betrokken staten die partij zijn. Indien met de uitvoering van het verzoek aanzienlijke kosten of kosten van buitengewone aard zijn of zullen zijn gemoeid, plegen de betrokken staten die partij zijn overleg om de voorwaarden en omstandigheden te bepalen waaronder het verzoek wordt uitgevoerd, alsmede de wijze waarop de kosten worden gedragen.
+##### Article 20. Central authorities
 
-2. De volgende kosten worden gedragen of vergoed door de verzoekende staat die partij is, tenzij de aangezochte staat die partij is afziet van de terugbetaling van alle of een deel van deze kosten:
+1. Each State Party shall designate one or more central authorities. The central authorities shall be responsible for sending and receiving requests for and information on cooperation in accordance with the provisions of this Convention and shall encourage the speedy and proper execution of requests by the competent authorities.
 
-- a. de kosten gemaakt door de aanwezigheid van deskundigen op het grondgebied van aangezochte staat die partij is;
+2. Where a State Party has a special region or territory with a separate system for cooperation under this Convention, it may designate a distinct central authority that shall have the functions referred to in paragraph 1 for that region or territory.
 
-- b. de kosten van het opzetten en onderhouden van video- of telefoonverbindingen;
+3. Where a State Party has a distinct central authority responsible for sending and receiving requests and information in accordance with specific provisions of this Convention, it may designate a distinct central authority that shall have the functions referred to in paragraph 1 for the relevant provisions of this Convention.
 
-- c. de vergoeding voor tolken verstrekt door de aangezochte staat die partij is;
+4. At the request of one or more States Parties, consultations may be held among central authorities on matters related to the application of this Convention.
 
-- d. vergoedingen aan getuigen, alsmede hun reis- en verblijfkosten op het grondgebied van de aangezochte staat die partij is.
+5. Each State shall notify its designation of one or more central authorities under paragraph 1, at the time of signature or when depositing its instrument of ratification, acceptance or approval of or accession to this Convention, by means of a declaration addressed to the Depositary. Each State subsequently may, at any time and in the same manner, change the terms of its declaration.
 
-3. De kosten voor het vervoer naar de verzoekende staat die partij is van een persoon in hechtenis krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=36&z=2024-02-15&g=2024-02-15) worden gedragen door de verzoekende staat die partij is.
+##### Article 21. Channel of communication and single points of contact
 
-4. De kosten voor het vervoer naar de verzoekende staat die partij is van een persoon om wiens uitlevering is verzocht worden gedragen door de verzoekende staat die partij is.
+1. Requests made in accordance with this Convention and any communication related thereto shall be transmitted to the central authorities designated by the States Parties.
 
-5. De kosten voor het vervoer van een gevonniste persoon naar de staat die partij is die de straf ten uitvoer legt, komen ten laste van die staat die partij is.
+2. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance or approval of or accession to this Convention or at any time thereafter, notify, by means of a declaration addressed to the Depositary, that requests be addressed to it through diplomatic channels, and/or, if possible, through the International Criminal Police Organization.
 
-##### Artikel 19. Definities met betrekking tot wederzijdse rechtshulp en uitlevering
+3. In order to facilitate the efficient communication regarding the execution of an individual request made in accordance with this Convention, each State Party may, without prejudice to [article 20, paragraphs 1 to 4](https://wetten.overheid.nl/BWBV0007040), designate single points of contact within its competent authorities. These points of contact may liaise with each other on practical matters regarding the execution of such a request.
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+4. Each State shall indicate its designated single points of contact in accordance with [article 85, paragraph 1](https://wetten.overheid.nl/BWBV0007040).
 
-- a. „confiscatie” met inbegrip van, indien van toepassing, verbeurdverklaring: permanente inbeslagneming van goederen door een bevel van een rechter of andere bevoegde autoriteit;
+5. The transmission of any request, information or communication based on this Convention may, where the States Parties concerned agree, be done by secure electronic means while taking into account the need to protect confidentiality and to ensure authenticity. In any case, upon request and at any time, the State Party concerned shall submit the originals or authenticated copies of the documents.
 
-- b. „bevriezing” of „inbeslagneming”: het tijdelijk verbieden van de overdracht, omzetting, vervreemding of verplaatsing van goederen of het tijdelijk aanvaarden van het beheer van of zeggenschap over goederen op basis van een door de rechter of andere bevoegde autoriteit afgegeven bevel;
+##### Article 22. Acceptable languages
 
-- c. „opbrengsten van misdrijven”: alle goederen afkomstig van of verkregen door, direct of indirect, het plegen van een misdrijf waarop dit Verdrag van toepassing is;
+1. Requests shall be made in a language acceptable to the requested State Party.
 
-- d. „goederen”: alle soorten activa, stoffelijk of onstoffelijk, roerend of onroerend, tastbaar of ontastbaar, en rechtsbescheiden waaruit rechten op, of andere belangen bij deze activa blijken.
+2. Each State Party shall indicate the language or languages acceptable to that State by informing the central authorities of the States Parties, or, if the conditions in [article 85, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0007040), are met, the State designated to provide additional interim support.
 
-### DEEL II. CENTRALE AUTORITEITEN EN COMMUNICATIE
+### PART III. MUTUAL LEGAL ASSISTANCE
 
-##### Artikel 20. Centrale autoriteiten
+##### Article 23. Scope of Part III
 
-1. Elke staat die partij is wijst een of meer centrale autoriteiten aan. De centrale autoriteiten zijn verantwoordelijk voor het verzenden en ontvangen van verzoeken om en informatie over samenwerking in overeenstemming met de bepalingen van dit Verdrag en moedigen de snelle en juiste uitvoering door de bevoegde autoriteiten aan.
+1. States Parties shall afford one another the widest measure of mutual legal assistance in investigations, prosecutions and judicial proceedings in relation to the crimes to which they apply this Convention.
 
-2. Indien een staat die partij is een speciale regio of speciaal grondgebied heeft met een afzonderlijk stelsel voor samenwerking ingevolge dit Verdrag, kan hij een aparte centrale autoriteit aanwijzen die de in het eerste lid bedoelde functies vervult voor die regio of dat grondgebied.
+2. Mutual legal assistance shall be afforded to the fullest extent possible under relevant laws, treaties, agreements and arrangements of the requested State Party in respect of investigations, prosecutions and judicial proceedings in relation to the crimes for which a legal person may be held liable in accordance with [article 15, paragraph 1](https://wetten.overheid.nl/BWBV0007040), in the requesting State Party.
 
-3. Indien een staat die partij is een afzonderlijke centrale autoriteit heeft die verantwoordelijk is voor het verzenden en ontvangen van verzoeken en informatie overeenkomstig specifieke bepalingen van dit Verdrag, kan hij een afzonderlijke centrale autoriteit aanwijzen die de in het eerste lid bedoelde functies heeft voor de relevante bepalingen van dit Verdrag.
+##### Article 24. Purpose of the request
 
-4. Op verzoek van een of meer staten die partij zijn, kan er overleg gevoerd worden tussen de centrale autoriteiten over kwesties die verband houden met de toepassing van dit Verdrag.
+Mutual legal assistance to be afforded in accordance with the provisions of this Convention may include:
 
-5. Elke staat geeft op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, kennis van zijn aanwijzing van een of meer centrale autoriteiten uit hoofde van het eerste lid, door middel van een aan de depositaris gerichte verklaring. Elke staat kan daarna, op elk tijdstip en op dezelfde wijze, de voorwaarden van zijn verklaring veranderen.
+- a) Taking evidence or statements from persons, including, as far as consistent with the domestic law of the requested State Party, by video conference;
 
-##### Artikel 21. Communicatiekanalen en centrale contactpunten
+- b) Examining objects and sites;
 
-1. Verzoeken gedaan in overeenstemming met dit Verdrag en mededelingen die daarmee verband houden worden gezonden aan de door de staten die partij zijn aangewezen centrale autoriteiten.
+- c) Providing information, evidentiary items and expert evaluations;
 
-2. Elke staat kan, op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, of op enig tijdstip daarna, door middel van een verklaring gericht aan de depositaris, laten weten dat verzoeken aan hem gericht dienen te worden langs diplomatieke weg en/of, zo mogelijk door tussenkomst van de Internationale Criminele Politieorganisatie.
+- d) Executing searches, seizures and confiscations;
 
-3. Om de efficiënte communicatie over de uitvoering van een in overeenstemming met dit Verdrag gedaan individueel verzoek te vergemakkelijken, kan elke staat die partij is, onverminderd [artikel 20, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=20&z=2024-02-15&g=2024-02-15), centrale contactpunten aanwijzen bij zijn bevoegde autoriteiten. Deze contactpunten kunnen met elkaar contact onderhouden over praktische zaken met betrekking tot de uitvoering van een dergelijk verzoek.
+- e) Effecting service of judicial documents;
 
-4. Elke staat wijst zijn aangewezen contactpunten aan in overeenstemming met [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15).
+- f) Providing originals or copies, if need be certified, of relevant documents, records and computer data, including official, bank, financial, corporate or business records;
 
-5. De overbrenging van een verzoek, informatie of mededeling op grond van dit Verdrag kan, wanneer de betrokken staten die partij zijn hiermee instemmen, geschieden door middel van veilige elektronische middelen, daarbij rekening houdend met de noodzaak de vertrouwelijkheid te beschermen en de authenticiteit te waarborgen. In elk geval dient de betrokken staat die partij is op verzoek en te allen tijde de originelen of gewaarmerkte afschriften van de stukken in.
+- g) Facilitating the voluntary appearance of persons and the temporary transfer of detained persons, in the requesting State Party;
 
-##### Artikel 22. Aanvaardbare talen
+- h) Using special investigative techniques;
 
-1. De verzoeken worden opgesteld in een voor de aangezochte staat die partij is aanvaardbare taal.
+- i) Conducting cross-border observations;
 
-2. Elke staat die partij is vermeldt de taal of talen die voor die staat aanvaardbaar zijn door de centrale autoriteiten van de staten die partij zijn in kennis te stellen, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen.
+- j) Setting up joint investigation teams;
 
-### DEEL III. WEDERZIJDSE RECHTSHULP
+- k) Taking measures that allow for the adequate protection of victims and witnesses and their rights;
 
-##### Artikel 23. Reikwijdte van [Deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&z=2024-02-15&g=2024-02-15)
+- l) Providing any other type of assistance that is not contrary to the domestic law of the requested State Party.
 
-1. De staten die partij zijn verlenen elkaar de ruimst mogelijke wederzijdse rechtshulp bij de opsporing, vervolging en de gerechtelijke procedures met betrekking tot de misdrijven waarop zij dit Verdrag toepassen.
+##### Article 25. Request and supporting documents
 
-2. Wederzijdse rechtshulp wordt verleend in de ruimst mogelijke mate krachtens de relevante wetten, verdragen, overeenkomsten en regelingen van de aangezochte staat die partij is met betrekking tot opsporing, vervolging en gerechtelijke procedures ten aanzien van de misdrijven waarvoor een rechtspersoon aansprakelijk kan worden gesteld in de verzoekende staat die partij is overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=15&z=2024-02-15&g=2024-02-15).
+1. A request for mutual legal assistance shall be made in writing under conditions allowing the requested State Party to establish authenticity.
 
-##### Artikel 24. Doel van het verzoek
+2. A request for mutual legal assistance shall contain or be accompanied by the following:
 
-De wederzijdse rechtshulp die wordt verleend overeenkomstig de bepalingen van dit Verdrag kan bestaan uit:
+- a) The identity of the authority making the request;
 
-- a. het opnemen van getuigenissen en verklaringen van personen, met inbegrip van, voor zover in overeenstemming met de nationale wetgeving van de aangezochte staat die partij is, door middel van videoconferentie;
+- b) The subject matter and nature of the investigation, prosecution or judicial proceeding to which the request relates and the name and functions of the authority conducting the investigation, prosecution or judicial proceeding;
 
-- b. het onderzoeken van voorwerpen en plaatsen;
+- c) A summary of the relevant facts, except in relation to requests for the purposes of service of judicial documents;
 
-- c. het verschaffen van informatie, stukken van overtuiging en beoordelingen door deskundigen;
+- d) A statement of the relevant domestic law, accompanied by the reference texts, and a statement of the penalty that has been or can be imposed for the crimes;
 
-- d. het uitvoeren van huiszoekingen, inbeslagnemingen en confiscaties;
+- e) A description of the assistance sought and details of any particular procedure that the requesting State Party wishes to be followed;
 
-- e. het betekenen van gerechtelijke documenten;
+- f) Where possible, the identity, location and nationality of any person concerned;
 
-- f. het verstrekken van originelen of, zo nodig gewaarmerkte, afschriften van relevante documenten, dossiers en computergegevens, met inbegrip van officiële, bancaire, financiële, bedrijfs- of zakelijke dossiers;
+- g) The purposes for which the evidence, information or action is sought, and when needed, their relevance to the underlying investigation, prosecution or judicial proceedings;
 
-- g. het vergemakkelijken van de vrijwillige verschijning van personen en de tijdelijke overbrenging van personen in hechtenis in de verzoekende staat die partij is;
+- h) Where appropriate, the time limit within which the assistance should be provided and the reasons therefor;
 
-- h. het toepassen van bijzondere opsporingsmethoden;
+- i) Where applicable, a statement of the relevant domestic law allowing a witness to refuse to make a deposition.
 
-- i. het uitvoeren van grensoverschrijdende observaties;
+3. In urgent circumstances, where agreed by both the requesting State Party and the requested State Party, requests may be made orally or by any means leaving a written record but shall be confirmed in accordance with paragraphs 1 and 2 as soon as reasonably possible.
 
-- j. het opzetten van gezamenlijke onderzoeksteams;
+##### Article 26. Confidentiality of requests for mutual legal assistance
 
-- k. het nemen van maatregelen die de adequate bescherming van slachtoffers en getuigen en hun rechten mogelijk maken;
+The requested State Party shall keep confidential the fact, substance and outcome of the request, except to the extent necessary to execute the request. If the requested State Party cannot comply with the requirement of confidentiality, it shall promptly inform the requesting State Party. The requesting State Party shall determine whether the request should nevertheless be executed.
 
-- l. het bieden van elke andere vorm van hulp die niet in strijd is met het nationale recht van de aangezochte staat die partij is.
+##### Article 27. Provisional measures
 
-##### Artikel 25. Verzoek en stukken ter ondersteuning
+1. At the request of the requesting State Party, the requested State Party, in accordance with its domestic law, may take provisional measures for the purposes of preserving evidence, maintaining an existing situation or protecting endangered legal interests.
 
-1. Een verzoek om wederzijdse rechtshulp wordt schriftelijk gedaan onder voorwaarden die het die staat die partij is mogelijk maken de authenticiteit vast te stellen.
+2. The requested State Party may execute the request for provisional measures partially or subject to conditions, including by limiting the duration of the requested measures.
 
-2. Een verzoek om wederzijdse rechtshulp bevat of gaat vergezeld van het volgende:
+##### Article 28. Additional information
 
-- a. de identiteit van de autoriteit die het verzoek doet;
+If the requested State Party considers that the information provided in support of a request for mutual legal assistance is not sufficient to make a decision on or to enable the execution of the request, it may request that additional information be provided within such reasonable time as it specifies.
 
-- b. het onderwerp en de aard van de opsporing, de vervolging of gerechtelijke procedure waarop het verzoek betrekking heeft en de naam en functies van de autoriteit die de opsporing, de vervolging of de gerechtelijke procedure uitvoert;
+##### Article 29. Legal basis of mutual legal assistance
 
-- c. een samenvatting van de relevante feiten, behalve in geval van verzoeken ten behoeve van de betekening van gerechtelijke documenten;
+If a State Party that makes mutual legal assistance conditional on the existence of a treaty receives a request for mutual legal assistance from another State Party with which it has no mutual legal assistance treaty, it shall consider this Convention as the legal basis for mutual legal assistance in respect of any crime to which this Convention applies.
 
-- d. een uiteenzetting van het relevante nationale recht, vergezeld van de relevante wetteksten, en een vermelding van de straf die voor de misdrijven is of kan worden opgelegd;
+##### Article 30. Grounds for refusal of mutual legal assistance
 
-- e. een beschrijving van de gewenste rechtshulp en de details van de specifieke procedure waarvan de verzoekende staat die partij is wenst dat die gevolgd wordt;
+1. Mutual legal assistance may, with due consideration to the principles stipulated under paragraph 2, be refused if:
 
-- f. waar mogelijk de identiteit, de verblijfplaats en nationaliteit van de betrokken personen;
+- a) The requested State Party has substantial grounds for believing that the request has been made for the purpose of prosecuting or punishing a person on account of that person’s race, gender, color, mental or physical disability, sexual orientation, religion, nationality, ethnic origin, political opinions or belonging to a particular social group, or that compliance with the request would cause prejudice to that person’s position for any of these reasons;
 
-- g. het doel waarvoor om het bewijsmateriaal, de informatie of de maatregelen wordt verzocht, en, indien nodig, hun relevantie voor het onderliggende onderzoek, de vervolging of de gerechtelijke procedure;
+- b) The request concerns a crime punishable by the death penalty under the domestic law of the requesting State Party, unless, in accordance with the domestic law of the requested State Party:
 
-- h. indien gewenst, de termijn waarbinnen de hulp dient te worden verleend en de redenen daarvoor;
+   - (i) The requesting State Party gives credible, sufficient and effective guarantees, or, if requested by the requested State Party, agrees to a condition that fulfills the requirements of the requested State Party that the death penalty will not be imposed; or
 
-- i. waar van toepassing, een uiteenzetting van het relevante nationale recht op grond waarvan een getuige kan weigeren een verklaring in rechte af te leggen.
+   - (ii) Where possible under the domestic law of the requested State Party, if the death penalty has already been imposed, the requesting State Party gives credible, sufficient and effective guarantees, or, if requested by the requested State Party, agrees to a condition that fulfills the requirements of the requested State Party that the death penalty shall not be enforced;
 
-3. In spoedeisende gevallen, indien zowel de verzoekende staat die partij is als de aangezochte staat die partij is daarmee instemmen, kunnen verzoeken mondeling worden gedaan of met een middel waarmee een schriftelijk document wordt aangemaakt, maar dit verzoek dient zo spoedig als redelijkerwijs mogelijk is te worden bevestigd in overeenstemming met het eerste en tweede lid.
+- c) The request concerns facts on the basis of which the prosecuted person has been finally judged in the requested State Party for a crime based on the same criminal conduct;
 
-##### Artikel 26. Vertrouwelijkheid van verzoeken om wederzijdse rechtshulp
+- d) There are substantial grounds to believe that the person concerned by the request would be subjected to torture or other cruel, inhuman or degrading treatment or punishment, a flagrant violation of the right to a fair trial or other flagrant violations of fundamental human rights in the requesting State Party in accordance with the domestic law of the requested State Party;
 
-De aangezochte staat die partij is houdt het bestaan, de inhoud en de resultaten van het verzoek geheim, behalve voor zover bekendmaking nodig is voor de uitvoering van het verzoek. Indien de aangezochte staat die partij is niet kan voldoen aan het vereiste van geheimhouding, stelt hij de verzoekende staat die partij is daarvan onverwijld op de hoogte. De verzoekende staat die partij is bepaalt of het verzoek niettemin dient te worden uitgevoerd.
+- e) The authorities of the requested State Party would be prohibited by its domestic law from carrying out the action requested with regard to a crime based on the same criminal conduct, had it been subject to investigation, prosecution or judicial proceedings under its own jurisdiction;
 
-##### Artikel 27. Voorlopige maatregelen
+- f) The request is not made in conformity with the provisions of this Convention;
 
-1. Op verzoek van de verzoekende staat die partij is, kan de aangezochte staat die partij is, in overeenstemming met zijn nationale recht, voorlopige maatregelen treffen om bewijs veilig te stellen, een bestaande situatie in stand te houden of bedreigde rechtmatige belangen te beschermen.
+- g) The requested State Party considers that execution of the request is likely to prejudice its sovereignty, security, ordre public or other essential interests;
 
-2. De aangezochte staat die partij is kan het verzoek om voorlopige maatregelen deels uitvoeren of hieraan voorwaarden verbinden, onder andere door de duur van de gevraagde maatregelen te beperken.
+- h) The request has been issued on behalf of an extraordinary or ad hoc court or tribunal of the requesting State Party, unless the competent authorities of the requesting State Party give assurances considered sufficient that the judgment will be rendered by a court which is generally empowered under the rules of judicial administration to pronounce on criminal matters;
 
-##### Artikel 28. Aanvullende informatie
+- i) Granting the request would be contrary to the domestic law of the requested State Party relating to mutual legal assistance;
 
-Indien de aangezochte staat die partij is van mening is dat de informatie die is verstrekt ter ondersteuning van een verzoek om wederzijdse rechtshulp onvoldoende is om een beslissing te nemen over de uitvoering van het verzoek of om het verzoek uit te kunnen voeren, kan hij verzoeken dat aanvullende informatie wordt verstrekt binnen een door hem te specificeren redelijke tijd.
+- j) There are substantial grounds to believe that the person concerned by the request would face a real risk of a sentence of life imprisonment without parole or indefinite sentence.
 
-##### Artikel 29. Rechtsgrondslag voor wederzijdse rechtshulp
+2. When exercising their discretion under paragraph 1, States Parties shall take into consideration international and domestic principles of human rights and fundamental freedoms, including the rights to life, liberty and security of the person.
 
-Indien een staat die partij is die wederzijdse rechtshulp afhankelijk stelt van het bestaan van een verdrag, een verzoek om wederzijdse rechtshulp ontvangt van een andere staat die partij is waarmee hij geen verdrag inzake wederzijdse rechtshulp heeft gesloten, beschouwt hij dit Verdrag als rechtsgrondslag voor wederzijdse rechtshulp wat betreft de misdrijven waarop dit Verdrag van toepassing is.
+3. States Parties may not refuse a request for mutual legal assistance on the sole ground that the crime is also considered to involve fiscal matters, nor on the ground of bank secrecy.
 
-##### Artikel 30. Gronden voor het weigeren van wederzijdse rechtshulp
+4. Reasons shall be given for any full or partial refusal of mutual legal assistance.
 
-1. Wederzijdse rechtshulp mag worden geweigerd, voldoende rekening houdend met de beginselen vervat in het tweede lid, indien:
+5. Before refusing a request pursuant to this article or postponing its execution pursuant to [article 32, paragraph 4](https://wetten.overheid.nl/BWBV0007040), the requested State Party shall consult, where appropriate, with the requesting State Party to consider whether assistance may be granted subject to such terms and conditions as it deems necessary. If the requesting State Party accepts assistance subject to those conditions, it shall comply with the conditions.
 
-- a. de aangezochte staat die partij is ernstige redenen heeft om aan te nemen dat het verzoek is gedaan met de bedoeling een persoon te vervolgen of te straffen op grond van zijn ras, geslacht, kleur, geestelijke of fysieke handicap, seksuele oriëntatie, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of vanwege het feit dat hij behoort tot een bepaalde sociale groep of dat inwilliging van het verzoek de positie van die persoon om een van deze redenen zou kunnen benadelen;
+##### Article 31. Limitations on transmissions and use of information and evidence
 
-- b. het verzoek een misdrijf betreft waarop ingevolge het nationale recht van de verzoekende staat die partij is de doodstraf is gesteld, tenzij, in overeenstemming met het nationale recht van de aangezochte staat die partij is;
+1. The requesting State Party shall not transmit or use information or evidence provided by the requested State Party for investigations, prosecutions or judicial proceedings other than those stated in the request without the prior consent of the requested State Party.
 
-- i. de verzoekende staat die partij is geloofwaardige, afdoende en effectieve waarborgen biedt, of, indien de aangezochte staat die partij is daarom verzoekt, instemt met een voorwaarde die voldoet aan de eisen van de aangezochte staat die partij is dat de doodstraf niet zal worden opgelegd; of
+2. Nothing in this article shall prevent the requesting State Party from disclosing in its proceedings information or evidence that is exculpatory to an accused person. In such case, the requesting State Party shall notify the requested State Party prior to the disclosure and, if so requested, consult with the requested State Party. If, in an exceptional case, advance notice is not possible, the requesting State Party shall inform the requested State Party of the disclosure without delay.
 
-- ii. wanneer het nationale recht van de aangezochte staat die partij is dit mogelijk maakt, indien eenmaal de doodstraf is opgelegd, de verzoekende staat die partij is geloofwaardige, afdoende en effectieve waarborgen biedt, of, indien de aangezochte staat die partij is daarom verzoekt, instemt met een voorwaarde die voldoet aan de eisen van de aangezochte staat die partij is dat de doodstraf niet zal worden tenuitvoergelegd;
+3. Where the requested State Party has imposed special conditions on the use of information or evidence it has provided, the requesting State Party shall upon request from the requested State Party provide information on the use it has made of the information or evidence.
 
-- c. het verzoek betrekking heeft op feiten op grond waarvan de vervolgde persoon in de aangezochte staat die partij is, onherroepelijk is berecht voor een misdrijf op basis van dezelfde strafbare gedraging;
+4. Where, following disclosure to the requesting State Party, the requested State Party becomes aware of circumstances that may cause it to seek an additional condition in a particular case, the central authority of the requested State Party may consult with the central authority of the requesting State Party to determine the extent to which the evidence and information can be protected.
 
-- d. er gegronde redenen zijn om aan te nemen dat de persoon op wie het verzoek betrekking heeft zou worden blootgesteld aan foltering of andere vormen van wrede, onmenselijke of vernederende behandeling of bestraffing, een flagrante schending van het recht op een eerlijk proces of andere flagrante schendingen van de fundamentele mensenrechten in de verzoekende staat die partij is in overeenstemming met het nationale recht van de aangezochte staat die partij is;
+##### Article 32. Execution of the request
 
-- e. het de autoriteiten van de aangezochte staat die partij is krachtens zijn nationale recht verboden zou zijn de verzochte actie uit te voeren ten behoeve van misdrijf op basis van dezelfde criminele gedraging, indien het onder zijn eigen rechtsmacht zou worden onderworpen aan opsporing, vervolging of een gerechtelijke procedure;
+1. A request shall be executed in accordance with the domestic law of the requested State Party and, to the extent not contrary to the domestic law of the requested State Party and where possible, in accordance with the procedures specified in the request.
 
-- f. het verzoek niet is gedaan in overeenstemming met de bepalingen van dit Verdrag;
+2. The requested State Party shall execute the request as soon as possible and shall take as full account as possible of any deadlines suggested by the requesting State Party and for which reasons are given, preferably in the request. It shall respond to reasonable requests by the requesting State Party on progress of its handling of the request. The requesting State Party shall promptly inform the requested State Party when the assistance sought is no longer required.
 
-- g. de aangezochte staat die partij is uitvoering van het verzoek schadelijk acht voor zijn soevereiniteit, veiligheid, openbare orde of andere wezenlijke belangen;
+3. On the express request of the requesting State Party, the requested State Party shall, as far as possible, state the date and place of execution of the request for mutual legal assistance. Officials and interested persons may be present if the requested State Party consents.
 
-- h. het verzoek is gedaan namens een buitengewoon of ad-hocgerecht of -tribunaal van de verzoekende staat die partij is, tenzij de bevoegde autoriteiten van de verzoekende staat die partij is voldoende waarborgen geven dat de berechting zal plaatsvinden door een rechter die volgens de regels van de rechtspraak in het algemeen bevoegd is om uitspraak te doen in strafzaken.
+4. The execution of the request may be postponed by the requested State Party on the ground that it interferes with an ongoing investigation, prosecution or judicial proceeding. Where appropriate, reasons shall be given for any postponement, including, when possible, the conditions under and the timeframe in which execution could take place.
 
-- i. het honoreren van het verzoek in strijd zou zijn met het nationale recht van de aangezochte staat die partij is met betrekking tot wederzijdse rechtshulp;
+##### Article 33. Depositions of persons in the requested State Party
 
-- j. er gegronde redenen zijn om aan te nemen dat de persoon op wie het verzoek betrekking heeft een reëel risico loopt te worden veroordeeld tot een levenslange vrijheidsstraf zonder de mogelijkheid van vervroegde invrijheidstelling of tot een straf met een onbepaalde duur.
+1. Witnesses and experts shall be heard in accordance with the domestic law of the requested State Party. Witnesses and experts may refuse to make depositions if the domestic law of the requested or requesting State Party allows them to do so.
 
-2. Bij het uitoefenen van hun beoordelingsvrijheid ingevolge het eerste lid, houden de staten die partij zijn rekening met de internationale en nationale beginselen van mensenrechten en fundamentele vrijheden, met inbegrip van het recht op leven, vrijheid en veiligheid van zijn persoon.
+2. If their refusal to make depositions is based on the domestic law of the requesting State Party, the requested State Party shall consult the requesting State Party.
 
-3. De staten die partij zijn, mogen een verzoek om wederzijdse rechtshulp niet afwijzen uitsluitend op grond van het feit dat het misdrijf feit geacht wordt tevens fiscale aangelegenheden te omvatten of op grond van het bankgeheim.
+3. A witness or expert invoking the right to refuse to make a deposition, as provided for in paragraph 1, cannot be subjected to any penalty in the requesting or requested State Party for that reason.
 
-4. Elke gehele of gedeeltelijke weigering van wederzijdse rechtshulp wordt met redenen omkleed.
+4. Without prejudice to any measures agreed for the protection of persons, the requested State Party shall, on the conclusion of the hearing, draw up minutes indicating the date and place of the hearing, the identity of the person heard, the identities and functions of any other person in the requested State Party participating in the hearing, any oaths taken and the technical conditions under which the hearing took place. The document shall be forwarded by the requested State Party to the requesting State Party.
 
-5. Alvorens een verzoek ingevolge dit artikel te weigeren of de uitvoering ervan uit te stellen op grond van [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=32&z=2024-02-15&g=2024-02-15), overlegt de aangezochte staat die partij is, indien aangewezen, met de verzoekende staat die partij is teneinde te overwegen of rechtshulp kan worden verleend onder de door hem nodig geachte voorwaarden en bepalingen. Indien de verzoekende staat die partij is rechtshulp aanvaardt onder die voorwaarden, dient hij daaraan te voldoen.
+5. When witnesses or experts are being heard within its territory in accordance with this article and refuse to make a deposition when under an obligation to do so or do not depose according to the truth, each State Party shall take the necessary measures to ensure that its domestic law applies in the same way as if the hearing took place in a domestic proceeding.
 
-##### Artikel 31. Beperkingen aan doorzending en gebruik van informatie en bewijsmateriaal
+##### Article 34. Hearing by video conference
 
-1. Informatie of bewijsmateriaal verstrekt door de aangezochte staat die partij is wordt door de verzoekende staat die partij is niet gebruikt of doorgezonden voor opsporing, vervolging of gerechtelijke procedures anders dan vermeld in het verzoek zonder voorafgaande toestemming van de aangezochte staat die partij is.
+1. If a person is in the territory of a State Party and has to be heard as a witness or expert by the judicial authorities of another State Party, the latter may request that the hearing takes place by video conference, as provided for in paragraphs 2 to 7. This paragraph may also be applied to the use of video conference for other purposes, such as the identification of objects, persons or places, if agreed by the requested State Party.
 
-2. Niets in dit lid belet de verzoekende staat die partij is tijdens zijn procedures informatie of bewijsmateriaal bekend te maken die respectievelijk dat ontlastend is voor een verdachte. In dat geval stelt de verzoekende staat die partij is de aangezochte staat die partij is voorafgaand aan de bekendmaking daarvan in kennis, en overlegt, indien daarom is verzocht, met de aangezochte staat die partij is. Indien in een uitzonderlijk geval voorafgaande kennisgeving niet mogelijk is, stelt de verzoekende staat die partij is de aangezochte staat die partij is onverwijld op de hoogte van de bekendmaking.
+2. The requested State Party shall agree to the hearing by video conference provided that the use of the video conference is not contrary to basic principles of its domestic law and on the condition that it has the technical means to carry out the hearing by video conference. If the requested State Party has no access to the technical means to carry out the hearing by video conference, such means may be made available to it by the requesting State Party by mutual agreement.
 
-3. Wanneer de aangezochte staat die partij is bijzondere voorwaarden heeft verbonden aan het gebruik van de door hem verstrekte informatie of bewijsmateriaal, verstrekt de verzoekende staat die partij is op verzoek van de aangezochte staat die partij is informatie over het gebruik van de informatie of het bewijsmateriaal.
+3. Requests for a hearing by video conference shall contain, in addition to the information referred to in [article 25](https://wetten.overheid.nl/BWBV0007040), the name of the judicial authority conducting the hearing or, if agreed by the requested State Party, another competent authority conducting the hearing.
 
-4. Indien de aangezochte staat die partij is, nadat hij de gegevens aan de verzoekende staat die partij is heeft verstrekt, op de hoogte raakt van omstandigheden die in een concreet geval aanleiding geven aanvullende voorwaarden te stellen, kan een centrale autoriteit van de aangezochte staat die partij is met een centrale autoriteit van de verzoekende staat die partij is overleggen om te bepalen in welke mate de informatie en het bewijsmateriaal kunnen worden beschermd.
+4. The judicial authority of the requested State Party may summon the person concerned to appear in accordance with the forms laid down by its domestic law.
 
-##### Artikel 32. Uitvoering van het verzoek
+5. With reference to a hearing by video conference, the following rules shall apply:
 
-1. Een verzoek wordt uitgevoerd overeenkomstig het nationale recht van de aangezochte staat die partij is en, voor zover niet in strijd met het nationale recht van de aangezochte staat die partij is, en waar mogelijk, overeenkomstig de in het verzoek omschreven procedures.
+- a) A judicial authority of the requested State Party shall be present during the hearing, where necessary assisted by an interpreter, and may also be responsible for ensuring both the identification of the person to be heard and respect for the basic principles of the domestic law of the requested State Party; if the judicial authority of the requested State Party is of the view that during the hearing the basic principles of the domestic law of the requested State Party are being infringed, it shall immediately take the necessary measures to ensure that the hearing continues in accordance with those principles;
 
-2. De aangezochte staat die partij is, voert het verzoek zo spoedig mogelijk uit en houdt zoveel mogelijk rekening met eventuele uiterste termijnen die door de verzoekende staat die partij is zijn vermeld en die met redenen zijn omkleed, bij voorkeur in het verzoek. De aangezochte staat die partij is, antwoordt op redelijke verzoeken van de verzoekende staat die partij is om informatie over de voortgang van de behandeling van het verzoek. De verzoekende staat die partij is, stelt de aangezochte staat die partij is onverwijld in kennis indien de verzochte hulp niet langer nodig is.
+- b) Measures for the protection of the person to be heard shall be agreed, where necessary, between the competent authorities of the requesting and the requested States Parties;
 
-3. Op uitdrukkelijk verzoek van de verzoekende staat die partij is, informeert de aangezochte staat die partij is de verzoekende staat die partij is, voor zover mogelijk, over de datum en plaats van tenuitvoerlegging van het verzoek om wederzijdse rechtshulp. Functionarissen en belanghebbenden kunnen aanwezig zijn indien de aangezochte staat die partij is hiermee instemt.
+- c) The hearing shall be conducted directly by, or under the direction of, the judicial authority of the requesting State Party in accordance with its domestic law;
 
-4. De uitvoering van een verzoek om wederzijdse rechtshulp kan door de aangezochte staat die partij is worden uitgesteld op grond van het feit dat een lopende opsporing, vervolging of gerechtelijke procedure hierdoor wordt doorkruist. Waar aangewezen worden redenen voor enig uitstel gegeven, met inbegrip van, indien mogelijk, de voorwaarden waaronder en de termijn waarbinnen de uitvoering zou kunnen plaatsvinden.
+- d) At the request of the requesting State Party or the person to be heard, the requested State Party shall ensure that the person to be heard is assisted by an interpreter and/or a legal counsel, if necessary;
 
-##### Artikel 33. Horen van personen in de aangezochte staat die partij is
+- e) The person to be heard may claim the right not to make a deposition which would accrue to that person under the domestic law of either the requested or the requesting State Party.
 
-1. Getuigen en deskundigen worden gehoord in overeenstemming met het nationale recht van de aangezochte staat die partij is. Getuigen en deskundigen kunnen weigeren een verklaring af te leggen indien het nationale recht van de aangezochte of verzoekende staat die partij is dit toelaat.
+6. States Parties may at their discretion also apply the provisions of this article to hearings by video conference involving the accused person or the suspect on the basis of the person's consent. In this case, the decision to hold the video conference, and the manner in which the video conference shall be carried out, shall be subject to consent of both States Parties concerned, and in accordance with their domestic laws and relevant international instruments.
 
-2. Indien hun weigering een verklaring af te leggen gebaseerd is op het nationale recht van de verzoekende staat die partij is, dan raadpleegt de aangezochte staat die partij is de verzoekende staat die partij is.
+7. This article is without prejudice to any agreement or arrangement allowing hearing by video conference to be undertaken by other means.
 
-3. Een getuige of deskundige die zich beroept op het in het eerste lid bedoelde recht om te weigeren een verklaring af te leggen, kan niet om die reden in de verzoekende of aangezochte staat die partij is aan een sanctie worden onderworpen.
+##### Article 35. Appearances of persons in the requesting State Party
 
-4. Onverminderd eventuele maatregelen die ter bescherming van personen zijn overeengekomen, stelt de aangezochte staat die partij is, na afloop van het verhoor een proces-verbaal op waarin het volgende wordt vermeld: de datum en de plaats van het verhoor, de identiteit van de verhoorde persoon, de identiteit en hoedanigheden van alle andere personen die in de aangezochte staat die partij is aan het verhoor hebben deelgenomen, eventuele beëdigingen en de technische omstandigheden waaronder het verhoor heeft plaatsgevonden. Het document wordt door de aangezochte staat die partij is verzonden naar de verzoekende staat die partij is.
+1. If the requesting State Party considers the personal appearance of a witness or expert before its judicial authorities necessary, it shall mention this in its request for the service of a summons to appear. The requested State Party shall invite the witness or expert to appear in the territory of the requesting State Party and shall inform, without delay, the requesting State Party of the reply, if any, of the witness or expert.
 
-5. Elke staat die partij is neemt de nodige maatregelen om ervoor te zorgen dat ten aanzien van getuigen of deskundigen die overeenkomstig dit artikel op zijn grondgebied worden gehoord en die weigeren een verklaring af te leggen wanneer zij daartoe verplicht zijn of niet naar waarheid verklaren, zijn nationale recht op dezelfde wijze van toepassing is als wanneer het verhoor in een nationale procedure zou hebben plaatsgevonden.
+2. In the circumstances provided for under paragraph 1, the request or the summons to appear shall indicate the approximate allowances payable as well as the travelling and subsistence expenses reimbursable.
 
-##### Artikel 34. Verhoor per videoconferentie
+3. If a specific request is made, the requested State Party may grant the witness or expert an advance. The advance shall be reimbursed by the requesting State Party.
 
-1. Indien een persoon zich op het grondgebied van een staat die partij is bevindt en als getuige of deskundige gehoord moet worden door de rechterlijke autoriteiten van een andere staat die partij is, kan de laatstgenoemde verzoeken dat het verhoor plaatsvindt door middel van videoconferentie, zoals voorzien in het tweede tot en met zevende lid. Dit lid kan ook worden toegepast op het gebruik van videoconferentie voor andere doeleinden, zoals het identificeren van voorwerpen, personen of plaatsen, indien de aangezochte staat die partij is daarmee instemt.
+4. A witness or expert who has failed to comply with a summons to appear, service of which was requested, shall not, even if this summons contains obligations, be subject to any punishment or measure of constraint, unless the witness or expert later voluntarily enters the territory of the requesting State Party and is there again duly summoned.
 
-2. De aangezochte staat die partij is stemt in met het verhoor per videoconferentie, mits het gebruik van videoconferentie niet in strijd is met de grondbeginselen van zijn nationale recht en mits die staat over de technische middelen beschikt om het verhoor door middel van videoconferentie uit te voeren. Indien de aangezochte staat die partij is niet over de technische middelen beschikt om het verhoor door middel van videoconferentie uit te voeren, kunnen dergelijke middelen in onderlinge overeenstemming aan hem ter beschikking worden gesteld door de verzoekende staat die partij is.
+##### Article 36. Temporary transfer of detainees
 
-3. Verzoeken om een verhoor per videoconferentie bevatten, naast de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=25&z=2024-02-15&g=2024-02-15) bedoelde informatie, de naam van de rechterlijke autoriteit die het verhoor leidt of, indien de aangezochte staat die partij is daarmee instemt, een andere bevoegde autoriteit die het verhoor leidt.
+1. A person who is being detained or is serving a sentence in the territory of one State Party whose presence in another State Party is requested for the purposes of identification, deposition or otherwise providing assistance in obtaining evidence for investigations, prosecutions or judicial proceedings in relation to the crimes to which the States Parties concerned apply this Convention, may be transferred if the following conditions are met:
 
-4. De rechterlijke autoriteit van de aangezochte staat die partij is, kan de betrokkene oproepen te verschijnen op de in zijn nationale recht voorgeschreven wijze.
+- a) The person freely gives informed consent; and
 
-5. Met betrekking tot een verhoor per videoconferentie gelden de volgende regels:
+- b) The competent authorities of the States Parties concerned agree, subject to such conditions as those States Parties may deem appropriate.
 
-- a. een rechterlijke autoriteit van de aangezochte staat die partij is, is aanwezig tijdens het verhoor, indien nodig bijgestaan door een tolk, en kan ook verantwoordelijk zijn voor zowel de identificatie van de te horen persoon als de eerbiediging van de grondbeginselen van het nationale recht van de aangezochte staat die partij is; indien de rechterlijke autoriteit van de aangezochte staat die partij is van oordeel is dat tijdens het verhoor de grondbeginselen van het nationale recht van de aangezochte staat die partij is, worden geschonden, neemt zij onmiddellijk de nodige maatregelen om ervoor te zorgen dat het verhoor met inachtneming van deze beginselen wordt voortgezet;
+2. For the purposes of paragraph 1:
 
-- b. de bevoegde autoriteiten van de verzoekende en aangezochte staten die partij zijn komen waar nodig maatregelen voor de bescherming van de te verhoren persoon overeen;
+- a) The State Party to which the person is transferred shall have the authority and obligation to keep the person transferred in custody, unless otherwise requested or authorized by the State Party from which the person was transferred;
 
-- c. het verhoor wordt rechtstreeks door of onder leiding van de rechterlijke autoriteit van de verzoekende staat die partij is afgenomen overeenkomstig zijn nationale recht;
+- b) The State Party to which the person is transferred shall without delay implement its obligation to return the person to the custody of the State Party from which the person was transferred as agreed beforehand, or as otherwise agreed, by the competent authorities of both States Parties;
 
-- d. op verzoek van de verzoekende staat die partij is of de te horen persoon draagt de aangezochte staat die partij er zorg voor dat de te horen persoon zo nodig wordt bijgestaan door een tolk en/of een raadsman;
+- c) The State Party to which the person is transferred shall not require the State Party from which the person was transferred to initiate extradition proceedings for the return of the person;
 
-- e. de te verhoren persoon kan zich beroepen op het recht geen verklaring af te leggen dat hem zou toekomen krachtens het nationale recht van de aangezochte of de verzoekende staat die partij is.
+- d) The person transferred shall receive credit for service of the sentence being served in the State Party from which the person was transferred for time spent in the custody of the State Party to which the person was transferred.
 
-6. Staten die partij zijn kunnen naar eigen oordeel de bepalingen van dit artikel ook toepassen op verhoren per videoconferentie van de beschuldigde persoon of de verdachte, op basis van toestemming van de persoon. In dat geval zijn de beslissing om de videoconferentie te houden en de wijze waarop de videoconferentie zal worden uitgevoerd, afhankelijk van de instemming van beide betrokken staten die partij zijn, en in overeenstemming met hun nationale wetgeving en relevante internationale instrumenten.
+##### Article 37. Safe conduct
 
-7. Dit artikel laat overeenkomsten of regelingen op grond waarvan het verhoor per videoconferentie op andere wijze kan plaatsvinden onverlet.
+1. A witness, expert or other person who, at the request of the requesting State Party, consents to give evidence in a proceeding or to assist in an investigation, prosecution or judicial proceeding in the territory of the requesting State Party shall not be prosecuted, detained, punished or subjected to any other restriction of personal liberty in that territory in respect of acts, omissions or convictions prior to departure from the territory of the requested State Party.
 
-##### Artikel 35. Verschijning van personen in de verzoekende staat die partij is
+2. The safe conduct provided for in paragraph 1 shall cease when the witness, expert or other person:
 
-1. Indien de verzoekende staat die partij is het van belang acht dat een getuige of een deskundige in persoon voor haar rechterlijke autoriteiten verschijnt, vermeldt zij dit bij zijn verzoek tot uitreiking van de oproeping. De aangezochte staat die partij is nodigt de getuige of deskundige uit om op het grondgebied van de verzoekende staat die partij is te verschijnen en stelt de verzoekende staat die partij is onverwijld in kennis van het eventuele antwoord van de getuige of deskundige.
+- a) Having had, for a period of 15 consecutive days or for any period agreed upon by the States Parties concerned from the date on which the person has been officially informed that the person's presence is no longer required by the judicial authorities of the requesting State Party, an opportunity of leaving, has nevertheless remained voluntarily in the territory of the requesting State Party; or
 
-2. In het geval voorzien in het eerste lid dient het verzoek of de oproeping bij benadering het bedrag van de te betalen schadeloosstelling en van de te vergoeden reis- en verblijfkosten aan te geven.
+- b) Having left the territory of the requesting State Party, has returned of the person's own free will.
 
-3. De aangezochte staat die partij is kan, indien dit aan hem wordt verzocht, aan de getuige of de deskundige een voorschot toekennen. Het bedrag van het voorschot wordt terugbetaald door de verzoekende staat die partij is.
+##### Article 38. Transmission of objects, documents, records or other evidence
 
-4. De getuige of deskundige die geen gevolg heeft gegeven aan een oproeping waarvan toezending was verzocht, kan aan geen enkele sanctie of dwangmaatregel worden onderworpen, zelfs niet indien in de oproeping verplichtingen zijn vermeld, tenzij de getuige of deskundige zich daarna uit vrije wil op het grondgebied van de verzoekende staat die partij is begeeft en hij daar op wettige wijze opnieuw opgeroepen wordt.
+1. Upon request, the requested State Party may transmit objects, documents, records or any other evidence requested to the requesting State Party. If the requesting State Party expressly requests the transmission of the originals of documents, records or other evidence, the requested State Party shall make every effort to comply with the request.
 
-##### Artikel 36. Tijdelijke overbrenging van personen in hechtenis
+2. The requesting State Party shall return what was transmitted as soon as possible or at the latest after the end of the proceedings, unless the requested State Party expressly waives the return thereof.
 
-1. Een persoon die in hechtenis zit of een straf ondergaat op het grondgebied van een staat die partij is, wiens aanwezigheid op het grondgebied van een andere staat die partij is wordt verzocht voor identificatie, het afleggen van een verklaring of een andere wijze van medewerking bij de verkrijging van bewijs voor opsporing, vervolging of gerechtelijke procedures met betrekking tot misdrijven waarop de betrokken staten die partij zijn dit Verdrag toepassen, mag worden overgebracht, indien wordt voldaan aan de volgende voorwaarden:
+##### Article 39. Special investigative techniques
 
-- a. de persoon geeft vrijwillig zijn toestemming op basis van volledige informatie; en
+1. If permitted by the basic principles of its domestic legal system, each State Party shall, within its possibilities and under the conditions prescribed by its domestic law, take the necessary measures to allow for the appropriate use of controlled delivery and, where it deems appropriate, for the use of other special investigative techniques, such as electronic or other forms of surveillance and undercover operations, by its competent authorities in its territory for the purposes of effectively investigating and prosecuting crimes to which it applies this Convention.
 
-- b. de bevoegde autoriteiten van de betrokken staten die partij zijn, stemmen ermee in, overeenkomstig de voorwaarden die die staten die partij zijn eventueel gepast achten.
+2. For the purposes of investigating the crimes to which they apply this Convention, States Parties are encouraged to conclude, when necessary, appropriate bilateral or multilateral agreements or arrangements for using special investigative techniques in the context of cooperation at the international level. Such agreements or arrangements shall be concluded and implemented in full compliance with the principle of sovereign equality of States and shall be carried out strictly in accordance with the terms of those agreements or arrangements.
 
-2. Voor de toepassing van het eerste lid:
+3. In the absence of an agreement or arrangement referred to in paragraph 2, decisions to use special investigative techniques at the international level shall be made on a case-by-case basis and may, when necessary, take into consideration financial arrangements and understandings with respect to the exercise of jurisdiction by the States Parties concerned.
 
-- a. is de staat die partij is waarnaar de persoon wordt overgebracht bevoegd en verplicht de overgebrachte persoon in hechtenis te houden, tenzij hij anderszins verzocht of gemachtigd wordt door de staat die partij is van waaruit de persoon is overgebracht;
+##### Article 40. Covert investigations
 
-- b. komt de staat die partij is waarnaar de persoon wordt overgebracht onverwijld zijn verplichting na tot terugzending van de persoon voor inhechtenisneming door de staat die partij is van waaruit deze persoon is overgebracht zoals vooraf overeengekomen, of op andere wijze overeengekomen door de bevoegde autoriteiten van beide staten die partij zijn;
+1. The requesting State Party and the requested State Party may agree to assist one another in the conduct of investigations by officers acting under covert or false identity into crimes to which the States Parties concerned apply this Convention.
 
-- c. verlangt de staat die partij is waarnaar de persoon wordt overgebracht niet van de staat die partij is van waaruit de persoon is overgebracht dat deze een uitleveringsprocedure begint ten behoeve van de terugkeer van de persoon;
+2. The decision on the request is taken in each individual case by the competent authorities of the requested State Party with due regard to its domestic law and procedures. The duration of the covert investigation, the detailed conditions, and the legal status of the officers concerned during covert investigations shall be agreed between the competent authorities of the requesting and the requested State Party with due regard to their domestic law and procedures.
 
-- d. krijgt de overgebrachte persoon vermindering van de straf die de persoon in de staat die partij is vanwaar de persoon is overgebracht moet uitzitten met de periode die de persoon in hechtenis heeft doorgebracht in de staat die partij is waarnaar de persoon is overgebracht.
+3. Covert investigations shall take place in accordance with the domestic law and procedures of the State Party on the territory of which the covert investigation is carried out. The competent authorities of the States Parties involved shall cooperate to ensure that the covert investigation is prepared and supervised and to make arrangements for the security of the officers acting under covert or false identity.
 
-##### Artikel 37. Vrijgeleide
+4. For the purposes of paragraph 2, each State Party shall indicate the competent authorities by informing the central authorities of the States Parties, or, if the conditions in [article 85, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0007040), are met, the State designated to provide additional interim support.
 
-1. Een getuige, deskundige of andere persoon die op verzoek van de verzoekende staat die partij is ermee instemt te getuigen in een procedure of mee te werken aan een onderzoek, vervolging of gerechtelijke procedure op het grondgebied van de verzoekende staat die partij is, wordt niet vervolgd, in hechtenis genomen, gestraft of onderworpen aan een andere beperking van de persoonlijke vrijheid op dat grondgebied ten aanzien van handelen, nalaten te handelen of veroordelingen voorafgaand aan het vertrek uit het grondgebied van de aangezochte staat die partij is.
+##### Article 41. Joint investigation teams
 
-2. De in het eerste lid bedoelde vrijgeleide houdt op wanneer de getuige, deskundige of andere persoon:
+1. By mutual agreement, the competent authorities of two or more States Parties may take the necessary measures, in accordance with their domestic law and international law, to establish a joint investigation team for a specific purpose and a limited period, which may be extended by mutual consent, to carry out criminal investigations in one or more of the States Parties involved.
 
-- a. gedurende vijftien achtereenvolgende dagen of gedurende een door de staten die partij zijn overeengekomen tijdvak vanaf de datum waarop de persoon officieel ervan in kennis is gesteld dat de aanwezigheid van de persoon niet langer verlangd wordt door de gerechtelijke autoriteiten van de verzoekende staat die partij is, de mogelijkheid heeft gekregen te vertrekken, niettemin vrijwillig gebleven is op het grondgebied van de verzoekende staat die partij is of,
+2. The composition of the team shall be set out in the agreement. A joint investigation team may, in particular, be established where:
 
-- b. na het grondgebied van de verzoekende staat die partij is te hebben verlaten, vrijwillig is teruggekeerd.
+- a) The investigations of a State Party into crimes to which it applies this Convention require difficult and demanding investigations having links with other States Parties;
 
-##### Artikel 38. Overdracht van voorwerpen, documenten, dossiers of overig bewijsmateriaal
+- b) A number of States Parties are conducting investigations into crimes to which they apply this Convention where the circumstances of the case necessitate coordinated, concerted action in the States Parties involved.
 
-1. Op verzoek kan de aangezochte staat die partij is voorwerpen, documenten, dossiers of overig bewijsmateriaal overdragen aan de verzoekende staat. Indien de verzoekende staat die partij is uitdrukkelijk verzoekt om de overdracht van de originele exemplaren van de documenten, dossiers en overig bewijsmateriaal, zal de aangezochte staat die partij is iedere poging doen om te voldoen aan het verzoek.
+3. A request for the setting up of a joint investigation team may be made by any of the States Parties concerned. The team shall be set up in one of the States Parties in which the investigations are expected to be carried out.
 
-2. De verzoekende staat die partij is, zendt zo spoedig mogelijk of uiterlijk na afloop van de procedure het overgedragene terug, tenzij de aangezochte staat die partij is uitdrukkelijk afstand daarvan doet.
+4. In addition to the information referred to in the relevant provisions of [article 25](https://wetten.overheid.nl/BWBV0007040), requests for setting up of a joint investigation team shall include proposals for the composition of the team, the purpose of, and the duration for which the joint investigation team would be constituted.
 
-##### Artikel 39. Speciale opsporingstechnieken
+5. A joint investigation team shall operate in the territory of the States Parties setting up the team under the following general conditions:
 
-1. Indien toegestaan volgens de grondbeginselen van zijn nationale rechtsstelsel, neemt elke staat die partij is, binnen zijn mogelijkheden en onder de door zijn nationale recht voorgeschreven voorwaarden, de nodige maatregelen ten behoeve van het passend gebruik van gecontroleerde aflevering en, wanneer hij dat passend acht, voor het gebruik van andere speciale opsporingstechnieken, zoals elektronisch of andere vormen van toezicht en infiltratie-operaties, door zijn bevoegde autoriteiten op zijn grondgebied ten behoeve van het doeltreffend bestrijden en vervolgen van de misdrijven waarop hij dit Verdrag toepast.
+- a) The leader or leaders of the team shall be representatives of the competent authorities participating in criminal investigations from the State Party in which the team operates;
 
-2. Ten behoeve van de opsporing van de misdrijven waarop zij dit Verdrag toepassen, worden de staten die partij zijn aangemoedigd, indien noodzakelijk, passende bilaterale of multilaterale overeenkomsten of regelingen te sluiten voor het gebruik van speciale opsporingstechnieken in het kader van samenwerking op internationaal niveau. Deze overeenkomsten of regelingen worden gesloten en uitgevoerd onder volledige eerbiediging van het grondbeginsel van de soevereine gelijkheid van staten en worden onder strikte naleving van de bepalingen van die overeenkomsten of regelingen uitgevoerd.
+- b) The leader or leaders of the team shall act within the limits of their competence under their respective domestic laws;
 
-3. Bij het ontbreken van een overeenkomst of regeling als bedoeld in het tweede lid, worden de beslissingen om speciale opsporingstechnieken te gebruiken op internationaal niveau op ad-hoc basis genomen, waarbij zo nodig rekening wordt gehouden met financiële regelingen en akkoorden ten aanzien van de uitoefening van de rechtsmacht door de betrokken staten die partij zijn.
+- c) The team shall carry out its operations in accordance with the domestic law of the State Party in which the team operates;
 
-##### Artikel 40. Infiltratie-operaties
+- d) The members and seconded members of the team shall carry out their tasks under the leadership of the persons referred to in subparagraph (a), taking into account the conditions set by their own authorities in the agreement on establishing the team;
 
-1. De verzoekende staat die partij is en de aangezochte staat die partij is, kunnen overeenkomen elkaar rechtshulp te verlenen bij het verrichten van onderzoeken door functionarissen die infiltreren of met een fictieve identiteit werken naar misdrijven waarop de staten die partij zijn dit Verdrag toepassen.
+- e) The State Party in which the team operates shall make the necessary organizational arrangements for it to carry out its operations.
 
-2. De beslissing omtrent het verzoek wordt in elk afzonderlijk geval genomen door de bevoegde autoriteiten van de aangezochte staat die partij is met inachtneming van zijn nationale recht en procedures. De duur van de infiltratie-operaties, de nadere voorwaarden en de rechtspositie van de betrokken functionarissen tijdens infiltratie-operaties worden door de bevoegde autoriteiten van de verzoekende en de aangezochte staten die partij zijn overeengekomen, met inachtneming van hun nationale recht en procedures.
+6. In this article, members of the joint investigation team from the State Party in which the team operates are referred to as “members”, while members from States Parties other than the State Party in which the team operates are referred to as “seconded members”.
 
-3. Infiltratie-operaties vinden plaats volgens het nationale recht en de nationale procedures van de staat die partij is op het grondgebied waarvan zij worden uitgevoerd. De bevoegde autoriteiten van de betrokken staten die partij zijn werken samen bij de voorbereiding van en het toezicht op de infiltratie, alsook bij het treffen van regelingen voor de veiligheid van de functionarissen die onder een valse of fictieve identiteit optreden.
+7. Seconded members of the joint investigation team shall be entitled to be present when investigative measures are taken in the State Party in which the team operates. However, the leader of the team may, for particular reasons, in accordance with the domestic law of the State Party in which the team operates, decide otherwise.
 
-4. Voor de toepassing van het tweede lid vermeldt elke staat die partij is wie de bevoegde autoriteiten zijn aan de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, aan de staat die is aangewezen om bijkomende tussentijdse steun te verlenen.
+8. Seconded members of the joint investigation team may, in accordance with the domestic law of the State Party in which the team operates, be entrusted by the leader of the team with the task of taking certain investigative measures where this has been approved by the competent authorities of the State Party in which the team operates and the seconding State Party.
 
-##### Artikel 41. Gemeenschappelijke onderzoeksteams
+9. Where the joint investigation team needs investigative measures to be taken in one of the States Parties establishing the team, members seconded to the team by that State Party may request their own competent authorities to take those measures. Those measures shall be considered in that State Party under the conditions which would apply if they were requested in a domestic investigation.
 
-1. De bevoegde autoriteiten van twee of meer staten die partij zijn kunnen bij onderlinge overeenkomst de nodige maatregelen treffen om, in overeenstemming met hun nationale recht en het internationaal recht een gemeenschappelijk onderzoeksteam in te stellen voor een bepaald doel en voor een beperkte periode, die in onderlinge overeenstemming kan worden verlengd, om strafrechtelijk onderzoek uit te voeren bij een of meer van de betrokken staten die partij zijn.
+10. Where the joint investigation team needs assistance from a State Party other than those which have established the team, or from a third State, the request for assistance may be made by the competent authorities of the State Party in which the team operates to the competent authorities of the other State concerned in accordance with the relevant instruments or arrangements.
 
-2. De samenstelling van het team wordt in de overeenkomst vermeld. Een gemeenschappelijk onderzoeksteam kan in het bijzonder worden ingesteld wanneer:
+11. Seconded members of the joint investigation team may, in accordance with their domestic law and within the limits of their competence, provide the team with information available in the State Party which has seconded them for the purpose of the criminal investigations conducted by the team.
 
-- a. het onderzoek van een staat die partij is naar misdrijven waarop hij dit Verdrag toepast moeilijke en veeleisende opsporingen vergt die ook andere staten die partij zijn betreffen;
+12. Information lawfully obtained by a member or seconded member while part of a joint investigation team which is not otherwise available to the competent authorities of the States Parties involved may be used for the following purposes:
 
-- b. verscheidene staten die partij zijn misdrijven waarop zij dit Verdrag toepassen onderzoeken die wegens de omstandigheden van de zaak een gecoördineerd en gezamenlijk optreden bij de betrokken staten die partij zijn vergen.
+- a) For the purposes for which the team has been established;
 
-3. Een verzoek om instelling van een gemeenschappelijk onderzoeksteam kan van elk van de betrokken staten die partij zijn uitgaan. Het team wordt ingesteld bij een van de staten die partij zijn waar het onderzoek naar verwachting zal worden uitgevoerd.
+- b) For detecting, investigating and prosecuting other crimes, subject to the prior consent of the competent authority of the State Party where the information became available, which may be withheld only in cases where such use would endanger criminal investigations in that State Party or in respect of which that State Party could refuse mutual legal assistance;
 
-4. Naast de in de desbetreffende bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=25&z=2024-02-15&g=2024-02-15) bedoelde informatie omvatten de verzoeken tot oprichting van een gemeenschappelijk onderzoeksteam voorstellen voor de samenstelling van het team, het doel van het gemeenschappelijk onderzoeksteam en de duur ervan.
+- c) For preventing an immediate and serious threat to public security and without prejudice to subparagraph (b) if subsequently a criminal investigation is opened;
 
-5. Een gemeenschappelijk onderzoeksteam is onder de volgende algemene voorwaarden actief op het grondgebied van de staten die partij zijn die het team hebben opgericht:
+- d) For other purposes to the extent that this is agreed between the States Parties which have established the team.
 
-- a. de leider of leiders van het team zijn vertegenwoordigers van de aan strafrechtelijke onderzoeken deelnemende bevoegde autoriteiten van de staat die partij is waar het team actief is;
+13. This article shall be without prejudice to any other existing provisions or arrangements on the establishment or operation of joint investigation teams.
 
-- b. de leider of leiders van het team handelen binnen de grenzen van hun bevoegdheid krachtens hun respectieve nationale wetgeving;
+14. To the extent that the domestic laws of the States Parties concerned or the provisions of any legal instrument applicable between them permit, arrangements may be agreed for persons other than representatives of the competent authorities of the States Parties which have established the joint investigation team to take part in the activities of the team. The rights conferred upon the members or seconded members of the team by virtue of this article shall not apply to these persons, unless the agreement expressly states otherwise.
 
-- c. het team treedt op in overeenstemming met het nationale recht van de staat die partij is waar het team actief is;
+##### Article 42. Cross-border observations
 
-- d. de leden en gedetacheerde leden van het team voeren hun taken uit onder leiding van de in onderdeel a bedoelde personen, rekening houdend met de voorwaarden die door hun eigen autoriteiten zijn vastgesteld in de overeenkomst tot oprichting van het team;
+1. Law enforcement officers of States Parties who, within the framework of a criminal investigation, are keeping under observation in their country a person who is presumed to have taken part in a crime to which the State Parties concerned apply this Convention, or a person who it is strongly believed will lead to the identification or location of the former person, may be authorized to continue their observation in the territory of another State Party where the latter has authorized the cross-border observation in response to a request for assistance which has previously been submitted. Conditions may be attached to the authorization.
 
-- e. de staat die partij is waar het team actief is, treft de voor het functioneren van het team noodzakelijke organisatorische voorzieningen.
+2. On request, the cross-border observation may be entrusted to officers of the State Party in whose territory it is carried out.
 
-6. In dit artikel worden leden van het gemeenschappelijk onderzoeksteam van de staat die partij is waar het team actief is, „leden” genoemd, terwijl leden van andere staten die partij zijn dan de staat die partij is waar het team actief is, worden aangeduid als „gedetacheerde leden”.
+3. The request for assistance referred to in paragraph 1 shall be sent to an authority designated by each State Party and having jurisdiction to grant or to forward the requested authorization.
 
-7. Gedetacheerde leden van het gemeenschappelijk onderzoeksteam hebben het recht aanwezig te zijn wanneer bij de partij waar wordt opgetreden onderzoekshandelingen plaatsvinden. De leider van het team kan evenwel om bijzondere redenen en in overeenstemming met het recht van de partij op het grondgebied waarvan het team optreedt, anders besluiten.
+4. The cross-border observation, if carried out by one or more officers referred to in paragraph 1, shall be carried out only under the following general conditions:
 
-8. Gedetacheerde leden van het gemeenschappelijk onderzoeksteam kunnen, in overeenstemming met het nationale recht van de partij waar het team optreedt, door de leider van het team worden belast met de uitvoering van bepaalde onderzoekshandelingen, voor zover de bevoegde autoriteiten van de partij waar wordt opgetreden en van de detacherende partij dit hebben goedgekeurd.
+- a) The officers conducting the observation shall comply with the provisions of this article and with the domestic law of the State Party in whose territory they are operating; they shall follow the instructions of the competent authorities of that State Party;
 
-9. Wanneer het gemeenschappelijk onderzoeksteam het noodzakelijk acht dat bij een van de partijen die het team hebben ingesteld, onderzoekshandelingen plaatsvinden, kunnen de door die partij bij het team gedetacheerde leden hun eigen bevoegde autoriteiten verzoeken die handelingen te verrichten. Die handelingen worden bij die staat die partij is in overweging genomen onder de voorwaarden die van toepassing zouden zijn indien daarom in het kader van een nationaal onderzoek zou zijn verzocht.
+- b) The officers conducting the observation shall, during the observation, carry a document certifying that authorization has been granted;
 
-10. Wanneer het gemeenschappelijk onderzoeksteam rechtshulp nodig heeft van een andere staat die partij is dan de staten die partij zijn die het team hebben ingesteld, of van een derde staat, kan het verzoek om rechtshulp door de bevoegde autoriteiten van de staat die partij is op het grondgebied waarvan het team optreedt, worden gericht aan de bevoegde autoriteiten van de andere betrokken staat, overeenkomstig de toepasselijke instrumenten of regelingen.
+- c) The officers conducting the observation shall be able at all times to provide proof that they are acting in an official capacity;
 
-11. Gedetacheerde leden van het gemeenschappelijk onderzoeksteam kunnen, in overeenstemming met hun nationale recht en binnen de grenzen van hun bevoegdheid, het team gegevens verstrekken die beschikbaar zijn bij de staten die partij zijn die hen heeft gedetacheerd ten behoeve van het strafrechtelijk onderzoek dat door het team wordt uitgevoerd.
+- d) The officers conducting the observation may carry their service weapons during the observation, unless specifically otherwise decided by the requested State Party; their use shall be prohibited save in cases of legitimate self-defense in accordance with the domestic law of the requested State Party;
 
-12. Gegevens die een lid of gedetacheerd lid rechtmatig verkrijgt terwijl het lid deel uitmaakt van een gemeenschappelijk onderzoeksteam en die niet op een andere wijze voor de bevoegde autoriteiten van de betrokken staten die partijen zijn beschikbaar zijn, kunnen voor de volgende doeleinden worden gebruikt:
+- e) Entry into private homes and places not accessible to the public shall be prohibited;
 
-- a. voor het doel waarvoor het team is ingesteld;
+- f) The officers conducting the observation may neither stop and question, nor arrest, the person under observation;
 
-- b. voor het opsporen, onderzoeken en vervolgen van andere misdrijven, met voorafgaande toestemming van de bevoegde autoriteit van de staat die partij is waar de informatie vandaan is gekomen, die alleen mag worden onthouden in gevallen waarin een dergelijk gebruik het strafrechtelijk onderzoek in die staat die partij is in gevaar zou brengen of ten aanzien waarvan die staat die partij is wederzijdse rechtshulp zou kunnen weigeren;
+- g) All operations shall be the subject of a report to the authorities of the State Party in whose territory they took place; the officers conducting the observation may be required to appear in person;
 
-- c. ter voorkoming van een onmiddellijke en ernstige bedreiging van de openbare veiligheid, onverminderd het bepaalde in onderdeel b, indien vervolgens een strafrechtelijk onderzoek wordt geopend;
+- h) The authorities of the State Party from which the observing officers have come shall, when requested by the authorities of the State Party in whose territory the observation took place, assist the enquiry subsequent to the operation in which they took part, including any legal proceedings.
 
-- d. voor andere doeleinden, voor zover dat tussen de partijen die het team instellen wordt overeengekomen.
+5. For the purposes of paragraph 3, each State Party shall indicate the competent authorities by informing the central authorities of the States Parties, or, if the conditions in [article 85, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0007040), are met, the State designated to provide additional interim support.
 
-13. De bepalingen van dit artikel laten andere bestaande bepalingen of regelingen inzake de instelling of het functioneren van gemeenschappelijke onderzoeksteams onverlet.
+##### Article 43. Criminal liability of officials
 
-14. Voor zover toegestaan krachtens het recht van de betrokken staten die partij zijn of de bepalingen van een tussen hen geldend rechtsinstrument, kan worden overeengekomen dat andere personen dan vertegenwoordigers van de bevoegde autoriteiten van de staten die partij zijn die het gemeenschappelijk onderzoeksteam instellen, deelnemen aan de activiteiten van het team. De rechten die uit hoofde van dit artikel aan de leden en de gedetacheerde leden van het team worden verleend, strekken zich niet uit tot die personen, tenzij uitdrukkelijk anders wordt vermeld in de overeenkomst.
+During the operations referred to in [articles 39](https://wetten.overheid.nl/BWBV0007040), [40](https://wetten.overheid.nl/BWBV0007040), [41](https://wetten.overheid.nl/BWBV0007040) or [42](https://wetten.overheid.nl/BWBV0007040), unless otherwise agreed upon by the States Parties concerned, officials from a State Party other than the State Party where the operation is taking place shall be regarded as officials of the latter State Party with respect to crimes committed against them or by them.
 
-##### Artikel 42. Grensoverschrijdende observaties
+##### Article 44. Civil liability of officials
 
-1. Rechtshandhavers van de staten die partij zijn die, in het kader van een strafrechtelijk onderzoek, in eigen land een persoon observeren die vermoedelijk heeft deelgenomen aan een misdrijf waarop de betrokken staten die partij zijn dit Verdrag toepassen, of een persoon ten aanzien van wie ernstige vermoedens bestaan dat deze kan leiden tot de identificatie of lokalisering van de voornoemde persoon, zijn bevoegd hun observatie op het grondgebied van een andere staat die partij is voort te zetten, wanneer laatstgenoemde staat die partij is toestemming heeft gegeven voor de grensoverschrijdende observatie op basis van een van tevoren ingediend verzoek om rechtshulp. Aan de toestemming kunnen voorwaarden verbonden zijn.
+1. Where, in accordance with [articles 39](https://wetten.overheid.nl/BWBV0007040), [40](https://wetten.overheid.nl/BWBV0007040), [41](https://wetten.overheid.nl/BWBV0007040) or [42](https://wetten.overheid.nl/BWBV0007040), officials of a State Party are operating in another State Party, the former State Party shall be liable for any damage caused by them during their operations, in accordance with the domestic law of the State Party where the operation is taking place.
 
-2. Desgevraagd kan de grensoverschrijdende observatie worden overgedragen aan rechtshandhavers van de staat die partij is op het grondgebied waarvan de observatie plaatsvindt.
+2. The State Party where the damage referred to in paragraph 1 was caused shall provide compensation for such damage under the conditions applicable to any damage caused by its own officials.
 
-3. Het verzoek om rechtshulp als bedoeld in het eerste lid dient te worden gezonden aan de door elk van de staten die partij is aangewezen autoriteit, die bevoegd is het verzoek om toestemming in te willigen of het door te zenden.
+3. The State Party whose officials have caused damage to any person in the territory of another State Party shall fully reimburse the latter State Party for any compensation provided to any such person.
 
-4. De grensoverschrijdende observatie, indien uitgevoerd door een of meer van de in het eerste lid bedoelde rechtshandhavers, mag slechts onder de volgende algemene voorwaarden worden uitgevoerd:
+4. Without prejudice to the exercise of its rights vis-à-vis third parties and with the exception of paragraph 3, each State Party shall refrain in the case provided for in paragraph 1 from requesting reimbursement of damages caused by another State Party.
 
-- a. de observerende rechtshandhavers zijn gebonden aan het bepaalde in dit artikel en aan het recht van de staat die partij is op het grondgebied waarvan zij optreden; zij dienen de aanwijzingen van de bevoegde autoriteiten van die staat die partij is op te volgen;
+5. The provisions of this article shall apply, unless otherwise agreed upon by the States Parties concerned.
 
-- b. de observerende rechtshandhavers dienen tijdens observatie een document bij zich te dragen waaruit blijkt dat de toestemming is verleend;
+##### Article 45. International cooperation for purposes of confiscation
 
-- c. de observerende rechtshandhavers dienen te allen tijde in staat te zijn aan te tonen dat zij optreden in een officiële hoedanigheid;
+1. A State Party that, in relation to a crime to which it applies this Convention, has received a request for confiscation of the proceeds of crime or property, the value of which corresponds to that of such proceeds, including laundered property, or of property, equipment or other instrumentalities used or destined for use in such crimes, or other property for the purposes of providing reparations to victims in accordance with [article 83, paragraph 3](https://wetten.overheid.nl/BWBV0007040), situated in its territory, shall, to the greatest extent possible and in accordance with its domestic law, either:
 
-- d. de observerende rechtshandhavers mogen tijdens de observatie hun dienstwapen dragen tenzij de aangezochte staat die partij is anders heeft besloten; het gebruik ervan is uitsluitend toegestaan in geval van noodweer overeenkomstig het nationale recht van de aangezochte staat die partij is;
+- a) Submit the request to its competent authorities for the purpose of obtaining an order of confiscation and, if such an order is granted, give effect to it; or
 
-- e. het binnentreden van woningen en het betreden van niet voor het publiek toegankelijke plaatsen is niet toegestaan;
+- b) Submit to its competent authorities, with a view to giving effect to it to the extent requested, an order of confiscation issued by a court in the territory of the requesting State Party, insofar as it relates to the proceeds of crime, property, equipment or other instrumentalities used or destined for use in the crimes to which it applies this Convention, or other property for the purposes of providing reparations to victims in accordance with [article 83, paragraph 3](https://wetten.overheid.nl/BWBV0007040), situated in the territory of the requested State Party.
 
-- f. de observerende rechtshandhavers zijn niet bevoegd de geobserveerde persoon staande te houden en te ondervragen of aan te houden;
+2. Following a request made by another State Party having jurisdiction over a crime to which it applies this Convention, the requested State Party shall, to the greatest extent possible in accordance with its domestic law, take measures to identify, trace and freeze or seize the proceeds of crime, property, equipment or other instrumentalities used or destined for use in the crimes to which it applies this Convention, for the purposes of eventual confiscation to be ordered either by the requesting State Party or, pursuant to a request under paragraph 1, by the requested State Party.
 
-- g. van elk optreden wordt verslag gedaan aan de autoriteiten van de staat die partij is op het grondgebied waarvan de observatie plaatsvindt; de persoonlijke verschijning van de observerende rechtshandhavers kan worden verlangd;
+3. If the proceeds of crime have been transformed or converted, in part or in full, into other property, such property shall be subject to the measures referred to in this article instead of the proceeds of crime.
 
-- h. de autoriteiten van de staat die partij is waarvan de observerende rechtshandhavers afkomstig zijn, verlenen op verzoek van de autoriteiten van de staat die partij is op het grondgebied waarvan de observatie plaatsvindt medewerking aan onderzoek na afloop van het optreden waaraan zij hebben deelgenomen, met inbegrip van gerechtelijke procedures.
+4. If the proceeds of crime have been intermingled with property acquired from legitimate sources, such property shall, without prejudice to any powers relating to freezing or seizure, be liable to confiscation up to the assessed value of the intermingled proceeds of crime.
 
-5. Voor de toepassing van het derde lid vermeldt elke staat die partij is de bevoegde autoriteiten door de centrale autoriteiten van de staten die partij zijn daarvan in kennis te stellen, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen.
+5. Income or other benefits derived from the proceeds of crime, from property into which the proceeds of crime have been transformed or converted, or from property with which the proceeds of crime have been intermingled shall also be subject to the measures referred to in this article, in the same manner and to the same extent as the proceeds of crime.
 
-##### Artikel 43. Strafrechtelijke aansprakelijkheid van functionarissen
+6. For the purposes of this article, each State Party shall empower its courts or other competent authorities to order that bank, financial or commercial records be made available or be seized. States Parties shall not decline to act under the provisions of this paragraph on the ground of bank secrecy.
 
-Tijdens een optreden, bedoeld in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=39&z=2024-02-15&g=2024-02-15), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2024-02-15&g=2024-02-15), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=41&z=2024-02-15&g=2024-02-15) of [42](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2024-02-15&g=2024-02-15), worden functionarissen uit een andere staat die partij is dan de staat die partij is waar het optreden plaatsvindt, met functionarissen van laatstbedoelde staat die partij is gelijkgesteld, voor wat betreft de strafbare feiten die tegen of door hen mochten worden begaan, tenzij door de betrokken staten die partij zijn anders wordt overeengekomen.
+7. The provisions of paragraph 1 may also apply to confiscation consisting in a requirement to pay a sum of money corresponding to the value of the proceeds of crime, if property on which the confiscation can be enforced is located in the requested State Party. In such cases, when enforcing confiscation pursuant to paragraph 1, the requested State Party may, if payment is not obtained, effectuate the claim on any property available for that purpose.
 
-##### Artikel 44. Burgerrechtelijke aansprakelijkheid van functionarissen
+8. States Parties may co-operate insofar as their respective domestic law allows with those States Parties which request the execution of measures that are equivalent to confiscation leading to the deprivation of property and are not criminal sanctions, insofar as such measures are ordered by a judicial authority of the requesting State Party in relation to crimes to which it applies this Convention, provided that it has been established that the property constitutes proceeds of crime, or other property as referred to in paragraphs 3 to 5.
 
-1. Wanneer functionarissen van een staat die partij is overeenkomstig de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=39&z=2024-02-15&g=2024-02-15), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2024-02-15&g=2024-02-15), [41](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=41&z=2024-02-15&g=2024-02-15) of [42](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2024-02-15&g=2024-02-15) in een andere staat die partij is optreden, is de eerstgenoemde staat die partij is overeenkomstig het nationale recht van de staat die partij is op het grondgebied waarvan het optreden plaatsvindt aansprakelijk voor de schade die zij aldaar tijdens hun optreden veroorzaken.
+9. In addition to the information specified in [article 25](https://wetten.overheid.nl/BWBV0007040), requests made in accordance with this article shall contain:
 
-2. De staat die partij is waar de in het eerste lid bedoelde schade is veroorzaakt, neemt op zich deze schade te vergoeden op de wijze waarop hij daartoe gehouden zou zijn indien de schade zou zijn veroorzaakt door zijn eigen functionarissen.
+- a) In the case of a request pertaining to paragraph 1, subparagraph (a), a description of the property or assets to be confiscated, and a statement of the facts relied upon by the requesting State Party sufficient to enable the requested State Party to seek the order under its domestic law;
 
-3. De staat die partij is waarvan de functionarissen schade hebben veroorzaakt jegens een persoon op het grondgebied van een andere staat die partij is, betaalt de laatstgenoemde staat die partij is het volledige bedrag terug van de aan een dergelijke persoon uitgekeerde schadevergoeding.
+- b) In the case of a request pertaining to paragraph 1, subparagraph (b), a legally admissible copy of an order of confiscation upon which the request is based issued by the requesting State Party, a statement of the facts and information as to the extent to which execution of the order is requested;
 
-4. Onder voorbehoud van de uitoefening van zijn rechten tegenover derden en met uitzondering van het bepaalde in het derde lid, ziet elke staat die partij is, in het geval bedoeld in het eerste lid, ervan af het bedrag van de door een andere staat die partij is veroorzaakte schade te verhalen.
+- c) In the case of a request pertaining to paragraph 2, a statement of the facts relied upon by the requesting State Party and a description of the actions requested.
 
-5. De bepalingen van dit artikel zijn van toepassing, tenzij anders overeengekomen door de betrokken staten die partij zijn.
+10. The decisions or actions provided for in paragraphs 1 and 2 shall be taken by the requested State Party in accordance with and subject to the provisions of its domestic law and procedural rules or any existing bilateral or multilateral convention, agreement or arrangement with the requesting State Party.
 
-##### Artikel 45. Internationale samenwerking ten behoeve van confiscatie
+11. The provisions of this article shall not be construed to prejudice the rights of third parties acting in good faith.
 
-1. Een staat die partij is die met betrekking tot een misdrijf waarop hij dit Verdrag toepast, een verzoek heeft ontvangen tot confiscatie van de opbrengsten van misdrijven of goederen waarvan de waarde overeenkomt met die van deze opbrengsten, met inbegrip van witgewassen goederen, of van goederen, benodigdheden of andere hulpmiddelen die worden gebruikt of bestemd zijn voor gebruik bij dergelijke misdrijven, of andere goederen met het oog op het verlenen van schadeloosstelling aan slachtoffers overeenkomstig [artikel 83, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VI&artikel=83&z=2024-02-15&g=2024-02-15), op zijn grondgebied, stuurt, voor zover dat mogelijk is en in overeenstemming met zijn nationale recht:
+##### Article 46. Restitution
 
-- a. aan zijn bevoegde autoriteiten het verzoek ten behoeve van het verkrijgen van een bevel tot confiscatie en voert het uit indien een dergelijke bevel wordt toegekend; of
+1. At the request of the requesting State Party and without prejudice to the rights of third parties acting in good faith, the requested State Party, insofar as its domestic law permits, may place seized or confiscated property obtained by a crime to which the States Parties concerned apply this Convention at the disposal of the requesting State Party. The requesting State Party may decide to return the property to its rightful owners.
 
-- b. aan zijn bevoegde autoriteiten, met de bedoeling dit naar de mate waarin verzocht is ten uitvoer te brengen, een bevel tot confiscatie, dat is uitgevaardigd door een rechter op het grondgebied van de verzoekende staat die partij is, voor zover dit betrekking heeft op opbrengsten van misdrijven, goederen, benodigdheden of andere hulpmiddelen die worden gebruikt of bestemd zijn voor misdrijven waarop deze staat dit Verdrag toepast, of andere goederen met het oog op het verlenen van schadeloosstelling aan slachtoffers in overeenstemming met [artikel 83, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VI&artikel=83&z=2024-02-15&g=2024-02-15), die zich bevinden op het grondgebied van de aangezochte staat die partij is.
+2. When transmitting objects, documents, records or evidence, the requested State Party may waive the return thereof, either before or after the transmission to the requesting State Party, if the restitution of these objects, documents, records or evidence to the rightful owner might be facilitated thereby.
 
-2. Naar aanleiding van een verzoek van een andere staat die partij is met rechtsmacht over een misdrijf waarop hij dit Verdrag toepast, neemt de aangezochte staat die partij is voor zover dat mogelijk is en in overeenstemming met zijn nationale recht, maatregelen voor het identificeren, opsporen en bevriezen of in beslag nemen van opbrengsten van misdrijven, goederen, benodigdheden of andere hulpmiddelen die gebruikt of bestemd zijn voor misdrijven waarop hij dit Verdrag toepast, ten behoeve van de mogelijke confiscatie hetzij krachtens een bevel van de verzoekende staat die partij is, hetzij naar aanleiding van een verzoek overeenkomstig het eerste lid van dit artikel door de aangezochte staat die partij is.
+##### Article 47. Disposal of confiscated assets
 
-3. Indien de opbrengsten van misdrijven geheel of gedeeltelijk zijn veranderd of omgezet in andere goederen, zijn de in dit artikel bedoelde maatregelen van toepassing op dergelijke goederen in plaats van op de opbrengsten van misdrijven.
+1. The proceeds of crime or property confiscated by a State Party pursuant to [article 45](https://wetten.overheid.nl/BWBV0007040) shall be disposed of by that State Party in accordance with its domestic law and administrative procedures.
 
-4. Indien de opbrengsten van misdrijven zijn vermengd met rechtmatig verkregen goederen, zijn deze goederen, onverminderd de bevoegdheden met betrekking tot bevriezing of inbeslagneming, onderhevig aan confiscatie tot de geschatte waarde van de vermengde opbrengsten.
+2. When acting on the request made by another State Party in accordance with [article 45](https://wetten.overheid.nl/BWBV0007040), States Parties shall, to the extent permitted by domestic law and if so requested, give priority consideration to returning the confiscated proceeds of crime or property or the value of which corresponds to such proceeds or property to the requesting State Party so that it can provide compensation to the victims of the crimes to which the States Parties apply this Convention or return such proceeds of crime or property to their legitimate owners.
 
-5. Op inkomsten of andere voordelen verkregen uit de opbrengsten van misdrijven, uit goederen waarin de opbrengsten van misdrijven zijn veranderd of omgezet of uit goederen waarmee de opbrengsten van misdrijven zijn vermengd, zijn de in dit artikel bedoelde maatregelen op dezelfde wijze en in dezelfde mate van toepassing als op de opbrengsten van misdrijven.
+3. When acting on the request made by another State Party in accordance with [article 45](https://wetten.overheid.nl/BWBV0007040), a State Party may give special consideration to concluding agreements or arrangements on sharing with other States Parties, on a regular or case-by-case basis, such proceeds of crime or property, or funds derived from the sale of such proceeds of crime or property, in accordance with its domestic law or administrative procedures.
 
-6. Voor de toepassing van dit artikel machtigt elke staat die partij is zijn rechters en andere bevoegde autoriteiten te bevelen dat bancaire, financiële of zakelijke dossiers ter beschikking worden gesteld of in beslag worden genomen. Staten die partij zijn beroepen zich niet op het bankgeheim teneinde te weigeren op te treden overeenkomstig de bepalingen van dit lid.
+##### Article 48. Transfer of proceedings
 
-7. De bepalingen van het eerste lid zijn eveneens van toepassing op confiscatie bestaande uit een verplichting tot het betalen van een geldbedrag dat overeenkomt met de waarde van de opbrengsten van misdrijven, indien goederen ten aanzien waarvan de confiscatie ten uitvoer kan worden gelegd zich bevinden in de aangezochte staat die partij is. In dergelijke gevallen kan de aangezochte staat die partij is bij de tenuitvoerlegging van confiscatie overeenkomstig het eerste lid, indien geen betaling wordt verkregen, de vordering verhalen op goederen die voor dat doel beschikbaar zijn.
+States Parties may consider the possibility of transferring proceedings to one another for the prosecution of a crime to which they apply this Convention in cases where such transfer is considered to be in the interests of the proper administration of justice, in particular in cases where several jurisdictions are involved.
 
-8. De staten die partij zijn kunnen in de mate die hun respectieve nationale recht toestaat samenwerken met staten die partij zijn die verzoeken om de tenuitvoerlegging van maatregelen die vergelijkbaar zijn met confiscatie en resulteren in de ontneming van goederen doch geen strafrechtelijke sancties zijn, voor zover dergelijke maatregelen worden bevolen door een rechterlijke autoriteit van de verzoekende staat die partij is in verband met misdrijven waarop hij dit Verdrag toepast, op voorwaarde dat vastgesteld is dat de goederen opbrengsten van misdrijven zijn of andere goederen in de zin van het derde tot en met het vijfde lid.
+### PART IV. EXTRADITION
 
-9. In aanvulling op de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=25&z=2024-02-15&g=2024-02-15) omschreven informatie, bevatten verzoeken die worden gedaan in overeenstemming met dit artikel:
+##### Article 49. Scope of Part IV
 
-- a. in het geval van een verzoek dat betrekking heeft op het eerste lid, onderdeel a, een beschrijving van de te confisqueren goederen of activa en een uiteenzetting van de feiten waarop de verzoekende staat die partij is zich baseert en die de aangezochte staat die partij is voldoende in staat stellen om het bevel overeenkomstig zijn nationale recht aan te vragen;
+1. The provisions of this Part shall apply to the crimes to which this Convention applies where the person who is the subject of a State Party’s request for extradition is present in the territory of the requested State Party.
 
-- b. in het geval van een verzoek dat betrekking heeft op het eerste lid, onderdeel b, een wettig toelaatbaar afschrift van een bevel tot confiscatie waarop het verzoek is gebaseerd, afgegeven door de verzoekende staat die partij is, een uiteenzetting van de feiten en informatie over de mate waarin om uitvoering van de beslissing wordt verzocht;
+2. Without prejudice to [article 51](https://wetten.overheid.nl/BWBV0007040), extradition shall be granted if the crime is punishable by deprivation of liberty for a maximum period of at least one year both under the domestic laws of the requested State Party and the requesting State Party. Where a person has been convicted and sentenced to prison in the requesting State Party, the duration of the remaining sentence to be served shall be for a period of at least six months.
 
-- c. in het geval van een verzoek dat betrekking heeft op het tweede lid, een uiteenzetting van de feiten waarop de verzoekende staat die partij is zich baseert en een beschrijving van de verzochte maatregelen.
+3. If the request for extradition includes several separate crimes, at least one of which is extraditable under this Convention and some of which are not covered by this Convention, the requested State Party may apply the provisions of this article also in respect of the latter crimes.
 
-10. Het bevel of de maatregelen zoals bedoeld in het eerste en tweede lid worden genomen door de aangezochte staat die partij is overeenkomstig en met inachtneming van de bepalingen van zijn nationale recht en zijn procedureregels of een bilateraal of multilateraal verdrag, overeenkomst of regeling met de verzoekende staat die partij is.
+4. Each of the crimes to which States Parties apply this Convention shall be deemed to be included as an extraditable crime in any extradition treaty applicable between them. States Parties undertake to include such crimes as extraditable crimes in every extradition treaty to be concluded between them.
 
-11. De bepalingen van dit artikel mogen niet zodanig worden uitgelegd dat zij afbreuk doen aan de rechten van derden die te goeder trouw handelen.
+##### Article 50. Legal basis for extradition
 
-##### Artikel 46. Teruggave
+If a State Party that makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, it shall consider this Convention as the legal basis for extradition in respect of any crime to which this Convention applies.
 
-1. Op verzoek van de verzoekende staat die partij is en onverminderd de rechten van derden te goeder trouw, kan de aangezochte staat die partij is, voor zover toegestaan door zijn nationale recht, in beslag genomen of geconfisqueerde goederen die zijn verkregen door een misdrijf waarop de betrokken staten die partij zijn dit Verdrag toepassen ter beschikking van de verzoekende staat die partij is stellen. De verzoekende staat die partij is kan besluiten de goederen aan de rechtmatige eigenaars terug te geven.
+##### Article 51. Grounds for refusal of extradition
 
-2. Bij het overdragen van voorwerpen, documenten, dossiers of bewijsmateriaal, kan de aangezochte staat die partij is afstand doen van de teruggave daarvan, hetzij voor, hetzij na de overdracht door de verzoekende staat die partij is, indien de teruggave van deze voorwerpen, documenten, dossiers of dit bewijsmateriaal aan de rechtmatige eigenaar daardoor kan worden bevorderd.
+1. Extradition shall be refused if:
 
-##### Artikel 47. Afhandeling van geconfisqueerde goederen
+- a) The requested State Party has substantial grounds for believing that the request has been made for the purpose of prosecuting or punishing a person on account of that person’s race, gender, color, mental or physical disability, sexual orientation, religion, nationality, ethnic origin, political opinions or belonging to a particular social group, or that compliance with the request would cause prejudice to that person’s position for any of these reasons;
 
-1. De opbrengsten van misdrijven of goederen die zijn geconfisqueerd door een staat die partij is ingevolge [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=45&z=2024-02-15&g=2024-02-15), worden afgehandeld door die staat die partij is, in overeenstemming met zijn nationale recht en administratieve procedures.
+- b) The request concerns a crime punishable by the death penalty under the domestic law of the requesting State Party, unless, in accordance with the domestic law of the requested State Party:
 
-2. Indien handelend naar aanleiding van het verzoek van een andere staat die partij is in overeenstemming met [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=45&z=2024-02-15&g=2024-02-15), nemen de staten die partij zijn, voor zover dit is toegestaan door hun nationale recht en indien daarom is verzocht, met voorrang de teruggave van de geconfisqueerde opbrengsten van misdrijven of goederen waarvan de waarde overeenkomt met die van deze opbrengsten aan de verzoekende staat die partij is in overweging, opdat deze de slachtoffers van de misdrijven waarop de staten die partij zijn dit Verdrag toepassen schadeloos kan stellen of deze opbrengsten van misdrijven of goederen kan teruggeven aan hun rechtmatige eigenaren.
+   - (i) The requesting State Party gives credible, sufficient and effective guarantees, or, if requested by the requested State Party, agrees to a condition that fulfills the requirements of the requested State Party that the death penalty will not be imposed; or
 
-3. Indien handelend op verzoek van een andere staat die partij is in overeenstemming met [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=45&z=2024-02-15&g=2024-02-15), kan een staat die partij is bijzondere aandacht schenken aan het sluiten van overeenkomsten of regelingen inzake het op regelmatige basis dan wel van geval tot geval met andere staten die partij zijn delen van opbrengsten van misdrijven of goederen, of fondsen afkomstig van de verkoop van dergelijke opbrengsten van misdrijven of goederen, in overeenstemming met zijn nationale recht of administratieve procedures.
+   - (ii) Where possible under the domestic law of the requested State Party, if the death penalty has already been imposed, the requesting State Party gives credible, sufficient and effective guarantees, or, if requested by the requested State Party, agrees to a condition that fulfills the requirements of the requested State Party that the death penalty shall not be enforced;
 
-##### Artikel 48. Overdracht van vervolging
+- c) The requested State Party has already made a final judgment against the person whose extradition is sought for a crime based on the same criminal conduct;
 
-De staten die partij zijn, overwegen de mogelijkheid strafvervolging aan elkaar over te dragen van een misdrijf waarop zij dit Verdrag toepassen in de gevallen waarin een dergelijke overdracht geacht wordt in het belang te zijn van een goede rechtsbedeling, in het bijzonder in gevallen waarbij diverse jurisdicties betrokken zijn.
+- d) There are substantial grounds to believe that the person whose extradition is sought would be subjected to torture or other cruel, inhuman or degrading treatment or punishment, a flagrant violation of the right to a fair trial or other flagrant violations of fundamental human rights in the requesting State Party in accordance with the domestic law of the requested State Party.
 
-### DEEL IV. UITLEVERING
+2. Extradition may be refused if:
 
-##### Artikel 49. Reikwijdte van [Deel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&z=2024-02-15&g=2024-02-15)
+- a) The person sought would face a real risk of a sentence of life imprisonment without parole or indefinite sentence;
 
-1. De bepalingen van dit Deel zijn van toepassing op de misdrijven waarop dit Verdrag van toepassing is indien de persoon die het voorwerp is van het verzoek om uitlevering van een staat die partij is zich bevindt op het grondgebied van de aangezochte staat die partij is.
+- b) The person sought is to be tried before a competent international court or tribunal, recognized by the requested State Party;
 
-2. Onverminderd [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=51&z=2024-02-15&g=2024-02-15) wordt uitlevering toegestaan indien op het misdrijf een vrijheidsstraf met een maximum van ten minste een jaar is gesteld, zowel ingevolge de nationale wetgeving van de aangezochte staat die partij is als die van de verzoekende staat die partij is. Wanneer een persoon is veroordeeld tot een gevangenisstraf in de verzoekende staat die partij is, dan dient de nog resterende duur van de gevangenisstraf ten minste zes maanden te bedragen.
+- c) The person sought has been finally judged by a competent international court or tribunal of which the jurisdiction is recognized by the requested State Party or by another State, for a crime based on the same criminal conduct;
 
-3. Indien het verzoek om uitlevering diverse afzonderlijke misdrijven omvat, waarvan er ten minste één een delict betreft waarvoor op grond van dit Verdrag uitlevering is toegestaan terwijl andere niet onder dit Verdrag vallen, kan de aangezochte staat die partij is de bepalingen van dit artikel ook toepassen ten aanzien van de laatstgenoemde strafbare feiten.
+- d) The competent authorities of the requested State Party are proceeding against the person whose extradition is sought in respect of an alleged crime based on the same criminal conduct for which extradition is requested;
 
-4. Elk van de misdrijven waarop de staten die partij zijn dit Verdrag toepassen, wordt geacht te zijn opgenomen als een delict op grond waarvan uitlevering kan worden toegestaan in elk tussen die staten bestaand uitleveringsverdrag. De staten die partij zijn verplichten zich ertoe deze misdrijven op te nemen als uitleveringsdelicten in elk uitleveringsverdrag dat tussen hen wordt gesloten.
+- e) The request has been issued on behalf of an extraordinary or ad hoc court or tribunal of the requesting State Party, unless the competent authorities of the requesting State Party give assurances considered sufficient that the judgment will be rendered by a court which is generally empowered under the rules of judicial administration to pronounce on criminal matters;
 
-##### Artikel 50. Rechtsgrondslag voor uitlevering
+- f) The requested State Party has received concurrent requests from more than one State or competent international criminal court or tribunal, and has granted one of these requests;
 
-Indien een staat die partij is die uitlevering afhankelijk stelt van het bestaan van een verdrag, een verzoek om uitlevering ontvangt van een andere staat die partij is waarmee hij geen uitleveringsverdrag heeft gesloten, beschouwt hij dit Verdrag als rechtsgrondslag voor uitlevering wat betreft de misdrijven waarop dit Verdrag van toepassing is.
+- g) The request is not made in conformity with the provisions of this Convention;
 
-##### Artikel 51. Gronden voor het weigeren van uitlevering
+- h) The surrender of the person sought is likely to have exceptionally serious consequences for that person, in particular because of the age or the state of health of the person;
 
-1. Uitlevering wordt geweigerd indien:
+- i) Without prejudice to [article 11](https://wetten.overheid.nl/BWBV0007040), the crime has become time-barred by the domestic law of the requested State Party, unless this would be contrary to international law;
 
-- a. de aangezochte staat die partij is ernstige redenen heeft om aan te nemen dat het verzoek om uitlevering is gedaan met de bedoeling een persoon te vervolgen of te straffen op grond van zijn ras, geslacht, kleur, geestelijke of fysieke handicap, seksuele oriëntatie, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of vanwege het feit dat hij behoort tot een bepaalde sociale groep of dat inwilliging van het verzoek de positie van die persoon om een van deze redenen zou kunnen benadelen;
+- j) The requested State Party considers that execution of the request is likely to prejudice its sovereignty, security, ordre public or any other essential interests.
 
-- b. het verzoek een misdrijf betreft waarop ingevolge het nationale recht van de verzoekende staat die partij is de doodstraf is gesteld, tenzij, in overeenstemming is met het nationale recht van de aangezochte staat die partij is;
+3. Before refusing a request pursuant to this article, or postponing its execution pursuant to [article 55, paragraph 2](https://wetten.overheid.nl/BWBV0007040), the requested State Party shall consult where appropriate with the requesting State Party to consider whether extradition may be permitted subject to such terms and conditions as it deems necessary. If the requesting State Party accepts extradition subject to those conditions, it shall comply with these conditions.
 
-- i. de verzoekende staat die partij is geloofwaardige, afdoende en effectieve waarborgen biedt, of, indien de aangezochte staat die partij is daarom verzoekt, instemt met een voorwaarde die voldoet aan de eisen van de aangezochte staat die partij is dat de doodstraf niet zal worden opgelegd; of
+##### Article 52. Rule of specialty
 
-- ii. wanneer de het nationale recht van de aangezochte staat die partij is dit mogelijk maakt, indien de doodstraf reeds is opgelegd, de verzoekende staat die partij is geloofwaardige, afdoende en effectieve waarborgen verstrekt, of, indien de aangezochte staat die partij is daarom verzoekt, instemt met een voorwaarde die voldoet aan de eisen van de aangezochte staat die partij is dat de doodstraf niet zal worden tenuitvoergelegd;
+1. A person who has been extradited shall not be proceeded against, sentenced or detained with a view to the carrying out of a sentence or detention order for any crime committed prior to extradition other than that for which the person was extradited, nor shall the person be for any other reason restricted in the person's personal freedom, except in the following cases:
 
-- c. de aangezochte staat die partij is de persoon om wiens uitlevering wordt verzocht al onherroepelijk heeft berecht wegens een misdrijf op basis van dezelfde strafbare gedraging.
+- a) When the State Party which extradited the person consents. A request for consent shall be submitted, accompanied by the documents mentioned in [article 56](https://wetten.overheid.nl/BWBV0007040) and any additional information required by the State Party which extradited the person. A waiver of specialty may be granted for crimes that would be subject to extradition in accordance with the provisions of this Convention, or in accordance with any other treaty applicable to the States Parties concerned, or in accordance with the principles of international law or its domestic law, when acceptable to the requested State Party;
 
-- d. er gegronde redenen zijn om aan te nemen dat de persoon om wiens uitlevering wordt verzocht zou worden blootgesteld aan foltering of andere vormen van wrede, onmenselijke of vernederende behandeling of bestraffing, een flagrante schending van het recht op een eerlijk proces of andere flagrante schendingen van de fundamentele mensenrechten in de verzoekende staat die partij is overeenkomstig het nationale recht van de aangezochte staat die partij is.
+- b) When the person, having had an opportunity to leave the territory of the State Party to which that person has been extradited, has not done so within 45 days of the person's final discharge, or if the person has returned to that territory after leaving it.
 
-2. Uitlevering kan worden geweigerd indien:
+2. Notwithstanding paragraph 1, the requesting State Party may take any measures as necessary to remove the person from its territory, or any measures as necessary under its domestic law, including proceedings *in absentia*, to prevent any legal effects resulting from the lapse of time.
 
-- a. de opgeëiste persoon daadwerkelijk het gevaar loopt te worden veroordeeld tot een levenslange gevangenisstraf zonder de mogelijkheid van vervroegde invrijheidstelling of een straf voor onbepaalde duur;
+3. When the description of the crime charged is altered in the course of proceedings, the extradited person shall only be prosecuted or sentenced insofar as the crime under its new description is shown by the alleged criminal conduct of the extradited person to be a crime which would allow extradition.
 
-- b. de opgeëiste persoon wordt berecht voor een bevoegd internationaal strafhof of tribunaal, erkend door de aangezochte staat die partij is;
+##### Article 53. Re-extradition to a third State
 
-- c. de opgeëiste persoon definitief is berecht door een bevoegd internationaal strafhof of tribunaal waarvan de rechtsmacht door de aangezochte staat die partij is of door een andere staat is erkend, voor een misdrijf dat is gebaseerd op dezelfde criminele gedraging;
+Except as provided for in [article 52, paragraph 1, subparagraph (b)](https://wetten.overheid.nl/BWBV0007040), the requesting State Party shall not, without the consent of the requested State Party, surrender to another State Party or to a third State a person extradited to the requesting State Party and sought by that other State Party or third State in respect of crimes committed before the extradition of that person. The requested State Party may request the production of the documents referred to in [article 56, paragraph 2](https://wetten.overheid.nl/BWBV0007040).
 
-- d. de bevoegde autoriteiten van de aangezochte staat die partij is, een vervolging hebben ingesteld tegen de persoon wiens uitlevering wordt verzocht met betrekking tot een vermeend misdrijf dat is gebaseerd op dezelfde strafbare feiten waarvoor om uitlevering wordt verzocht;
+##### Article 54. Extradition of nationals
 
-- e. het verzoek is gedaan namens een buitengewoon of ad-hocgerecht of -tribunaal van de verzoekende staat die partij is, tenzij de bevoegde autoriteiten van de verzoekende staat die partij is voldoende waarborgen geven dat de berechting zal plaatsvinden door een rechter die volgens de regels van de rechtspraak in het algemeen bevoegd is om uitspraak te doen in strafzaken;
+1. Extradition may be refused on the ground of nationality. When the extradition request is refused on this ground, [article 14](https://wetten.overheid.nl/BWBV0007040) shall apply.
 
-- f. de aangezochte staat die partij is gelijktijdige verzoeken heeft ontvangen van meer dan één staat of bevoegd internationaal strafhof of tribunaal, en een van deze verzoeken heeft ingewilligd;
+2. Whenever a State Party is permitted under its domestic law to extradite or otherwise surrender one of its nationals only upon the condition that the person will be returned to that State Party to serve the sentence imposed as a result of the trial or proceedings for which the extradition or surrender of the person was sought, and the requesting State Party agrees with this and any other terms which the States Parties concerned may deem appropriate, such conditional extradition or surrender shall be sufficient to comply with the obligation contained in [article 14](https://wetten.overheid.nl/BWBV0007040).
 
-- g. het verzoek niet is gedaan in overeenstemming met de bepalingen van dit Verdrag;
+3. If extradition, sought for purposes of enforcing a sentence, is refused because the person sought is a national of the requested State Party, the requested State Party shall, if its domestic law so permits, upon request of the requesting State Party, enforce the sentence that has been imposed under the domestic law of the requesting State Party or the remainder thereof in accordance with articles 75 to 79.
 
-- h. de overdracht van de opgeëiste persoon hoogstwaarschijnlijk uitzonderlijk ernstige gevolgen voor die persoon heeft, in het bijzonder vanwege de leeftijd of gezondheidstoestand van die persoon;
+##### Article 55. Execution of the request
 
-- i. onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=11&z=2024-02-15&g=2024-02-15), het misdrijf is verjaard ingevolge het nationale recht van de aangezochte staat die partij is, tenzij dit zou indruisen tegen het internationaal recht;
+1. The execution of a request for extradition shall be subject to the conditions provided for by the domestic law of the requested State Party.
 
-- j. de aangezochte staat die partij is uitvoering van het verzoek schadelijk acht voor zijn soevereiniteit, veiligheid, openbare orde of enig andere wezenlijke belangen.
+2. If the requested State Party refuses the whole or any part of the request for extradition or if it postpones the execution of the request, the reasons for refusal or postponement shall, where appropriate, be notified to the requesting State Party.
 
-3. Alvorens een verzoek ingevolge dit artikel te weigeren of de uitvoering ervan uit te stellen op grond van [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=55&z=2024-02-15&g=2024-02-15), overlegt de aangezochte staat die partij is, indien aangewezen, met de verzoekende staat die partij is teneinde te overwegen of uitlevering kan worden toegestaan onder de door hem nodig geachte voorwaarden en bepalingen. Indien de verzoekende staat die partij is uitlevering aanvaardt onder die voorwaarden, dient hij daaraan te voldoen.
+##### Article 56. Request and supporting documents
 
-##### Artikel 52. Specialiteitsbeginsel
+1. A request for extradition shall be made in writing under conditions allowing the requested State Party to establish authenticity.
 
-1. Een persoon die is uitgeleverd, wordt noch vervolgd, noch veroordeeld, noch in hechtenis gesteld met het oog op de tenuitvoerlegging van een straf of maatregel, noch aan enige andere beperking van zijn persoonlijke vrijheid onderworpen voor enig ander voor de uitlevering gepleegd misdrijf dan dat waarvoor de persoon werd uitgeleverd, behalve in de volgende gevallen:
+2. A request for extradition shall contain or be accompanied by the following:
 
-- a. wanneer de staat die partij is die de persoon heeft uitgeleverd hierin toestemt. Een verzoek om toestemming dient te worden overgelegd, vergezeld van de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2024-02-15&g=2024-02-15) genoemde documenten alsmede alle aanvullende informatie vereist door de staat die partij is die de persoon heeft uitgeleverd. Er kan afstand van het specialiteitsbeginsel worden gedaan voor misdrijven die in aanmerking zouden komen voor uitlevering in overeenstemming met de bepalingen van dit Verdrag, of in overeenstemming met enig ander verdrag dat van toepassing is op de betrokken staten die partij zijn, of in overeenstemming met de beginselen van het internationaal recht of zijn nationale recht, indien dit aanvaardbaar is voor de aangezochte staat die partij is;
+- a) A description of the person sought, together with any other information that may help to establish that person’s identity, nationality and location;
 
-- b. wanneer de persoon, hoewel hij daartoe de mogelijkheid had, niet binnen de 45 dagen die op zijn definitieve invrijheidsstelling volgden, het grondgebied van de staat die partij is waaraan die persoon was uitgeleverd, heeft verlaten of indien hij na dit gebied te hebben verlaten daarin is teruggekeerd.
+- b) The text of the relevant provision of the law defining the crime or, where necessary, a statement of the law relevant to the crime and a statement of the penalty that can be imposed for the crime;
 
-2. Onverminderd het eerste lid kan de verzoekende staat die partij is alle maatregelen nemen die nodig zijn om de persoon van zijn grondgebied te verwijderen of alle maatregelen nemen die krachtens zijn nationale recht nodig zijn om de verjaring te stuiten, met inbegrip van verstekprocedures.
+- c) If the person is accused of a crime, a warrant issued by a court or other competent judicial authority for the arrest of the person or a certified copy of that warrant, a statement of the crime for which extradition is requested and a description of the acts or omissions constituting the alleged crime, including an indication of the time and place of its commission;
 
-3. Wanneer de omschrijving van het ten laste gelegde misdrijf in de loop van de procedure wordt gewijzigd, wordt de uitgeleverde persoon slechts vervolgd of veroordeeld voor zover de ten laste gelegde gedraging, overeenkomstig de nieuwe omschrijving, een misdrijf vormt waarvoor uitlevering is toegestaan.
+- d) If the person has been convicted of a crime, a statement of the crime for which extradition is requested and a description of the acts or omissions constituting the crime, including an indication of the time and place of its commission, and the judgment or any other document setting out the conviction and the sentence imposed, the fact that the sentence is enforceable and the duration of the remaining sentence to be served;
 
-##### Artikel 53. Verderlevering aan een derde staat
+- e) If the person has been convicted of a crime *in absentia*, in addition to the documents referred to in subparagraph (d), a statement on any procedural requirements, guarantees or other legal means available for the defense of that person, including any right to a retrial or an appeal in the presence of that person;
 
-Behoudens het bepaalde in [artikel 52, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=52&z=2024-02-15&g=2024-02-15), zal de verzoekende staat die partij is, zonder toestemming van de aangezochte staat die partij is, een persoon die aan de verzoekende staat die partij is, is uitgeleverd en door die andere staat die partij is of een derde staat wordt gezocht met betrekking tot misdrijven begaan vóór de uitlevering van die persoon, niet uitleveren aan die andere staat die partij is of aan die derde staat,. De aangezochte staat die partij is kan verzoeken om overlegging van de in [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2024-02-15&g=2024-02-15), bedoelde documenten.
+- f) If the person has been convicted of a crime but no sentence has been imposed, a statement of the crime for which extradition is requested, a description of the acts or omissions constituting the crime, a document setting out the conviction, and a statement affirming that there is an intention to impose a sentence;
 
-##### Artikel 54. Uitlevering van onderdanen
+- g) Any other information and/or evidence, as provided for by the domestic law of the requested State Party.
 
-1. Uitlevering kan worden geweigerd op grond van nationaliteit. Wanneer het uitleveringsverzoek op deze grond wordt afgewezen is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=14&z=2024-02-15&g=2024-02-15) van toepassing.
+3. If the requested State Party considers that the information provided in support of a request for extradition is not sufficient to make a decision on or enable the execution of the request, it may request that additional information be provided within such reasonable time as it specifies.
 
-2. Wanneer het een staat die partij is op grond van zijn nationale wetgeving alleen is toegestaan een onderdaan uit te leveren of op andere wijze over te geven op voorwaarde dat deze wordt teruggezonden naar die staat die partij is om de straf te ondergaan die is opgelegd als gevolg van het proces of de procedure waarvoor de uitlevering of overgave van de persoon werd verzocht, en de staat die partij is hiermee instemt alsook met andere voorwaarden die de betrokken staten die partij zijn gepast achten, is een dergelijke voorwaardelijke uitlevering of overgave voldoende om te voldoen aan de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=14&z=2024-02-15&g=2024-02-15) omschreven verplichting.
+##### Article 57. Confidentiality of requests for extradition
 
-3. Indien uitlevering, verzocht met het oog op de tenuitvoerlegging van een straf, wordt geweigerd omdat de opgeëiste persoon onderdaan is van de aangezochte staat die partij is, voert de aangezochte staat die partij is, op verzoek van de verzoekende staat die partij is, de krachtens het nationale recht van de verzoekende staat die partij is opgelegde straf of de rest daarvan uit overeenkomstig de artikelen 75 tot en met 79.
+The requested State Party shall keep confidential the fact and substance of the request, except to the extent necessary to execute the request. If the requested State Party cannot comply with the requirement of confidentiality, it shall promptly inform the requesting State Party. The requesting State Party shall determine whether the request should nevertheless be executed.
 
-##### Artikel 55. Uitvoering van het verzoek
+##### Article 58. Conflicting requests
 
-1. De uitvoering van een verzoek om uitlevering is onderworpen aan de voorwaarden voorzien in het nationale recht van de aangezochte staat die partij is.
+1. If extradition or surrender is requested concurrently by more than one State Party or competent international criminal court or tribunal, either for the same crime or for different crimes, the requested State Party shall make its decision having regard to any obligation regarding the primacy of jurisdiction according to an international legal instrument by which the requested State Party is bound.
 
-2. Indien de aangezochte staat die partij is het verzoek om uitlevering geheel of gedeeltelijk weigert of indien hij de uitvoering van het verzoek uitstelt, worden de redenen voor weigering of uitstel, waar aangewezen, meegedeeld aan de verzoekende staat die partij is.
+2. In the absence of such obligation, the requested State Party shall make its decision taking into account any relevant circumstances such as the relative gravity and place of commission of the crimes, the respective dates of the requests, the nationality of the person sought, the nationality of the victim or victims, and the possibility of subsequent extradition to another State Party.
 
-##### Artikel 56. Verzoek en stukken ter ondersteuning
+##### Article 59. Provisional arrest
 
-1. Een verzoek om uitlevering wordt schriftelijk gedaan op een wijze die het de aangezochte staat die partij is mogelijk maakt de authenticiteit vast te stellen.
+1. The requested State Party may, upon being satisfied that the circumstances so warrant and are urgent, at the request of the requesting State Party, take into custody a person whose extradition is sought and who is present in its territory or take any other appropriate measures to ensure the presence of that person at extradition proceedings.
 
-2. Een verzoek om uitlevering bevat of gaat vergezeld van het volgende:
+2. The request for provisional arrest shall contain:
 
-- a. een beschrijving van de opgeëiste persoon, samen met alle andere informatie die kan helpen om de identiteit, nationaliteit en locatie van die persoon vast te stellen;
+- a) The information referred to in [article 56, paragraph 2, subparagraphs (a) to (c)](https://wetten.overheid.nl/BWBV0007040), if required according to the domestic law of the requested State Party;
 
-- b. de tekst van de relevante bepaling van de wet waarin het misdrijf wordt omschreven of, indien nodig, vermelding van de voor het misdrijf relevante wetgeving en vermelding van de straf die voor het misdrijf kan worden opgelegd;
+- b) A description of the crime giving rise to the request and underlying facts;
 
-- c. indien de persoon wordt verdacht van een misdrijf, een door een rechter of een andere bevoegde rechterlijke autoriteit uitgevaardigd bevel tot aanhouding van de persoon of een voor eensluidend gewaarmerkt afschrift van dat bevel, vermelding van het misdrijf waarvoor om uitlevering wordt verzocht en een beschrijving van het handelen of nalaten waaruit het vermeende misdrijf bestaat, met inbegrip van een aanduiding van het tijdstip en de plaats van het plegen ervan;
+- c) A statement of the existence of the documents referred to in [article 56](https://wetten.overheid.nl/BWBV0007040);
 
-- d. indien de persoon is veroordeeld voor een misdrijf, vermelding van het misdrijf waarvoor om uitlevering wordt verzocht en een omschrijving van het handelen of nalaten dat het misdrijf vormt, met inbegrip van een aanduiding van het tijdstip en de plaats van het plegen ervan, en het vonnis of enig ander document waarin de veroordeling en de opgelegde straf zijn vermeld, het feit dat de straf uitvoerbaar is en de duur van de resterende straf die moet worden ondergaan;
+- d) A statement that a formal request for extradition of the person sought will follow.
 
-- e. indien de persoon bij verstek is veroordeeld voor een misdrijf, in aanvulling op de in onderdeel d. bedoelde documenten, vermelding van eventuele procedurele vereisten, waarborgen of andere juridische middelen die beschikbaar zijn voor de verdediging van die persoon, met inbegrip van enig recht op een nieuw proces of een hoger beroep in aanwezigheid van die persoon;
+3. The requested State Party shall, without undue delay, inform the requesting State Party of the result of its handling of the request for provisional arrest.
 
-- f. indien de persoon voor een misdrijf is veroordeeld, maar geen straf is opgelegd, vermelding van het misdrijf waarvoor om uitlevering wordt verzocht, een beschrijving van het handelen of nalaten dat het misdrijf vormt, een document met de veroordeling en een verklaring waarin wordt bevestigd dat er een voornemen bestaat om een straf op te leggen;
+4. The provisional arrest shall be terminated if, within a period of 60 days after the arrest of the person sought, the requested State Party has not received the formal request for extradition. The person may be provisionally released at any time, in which case the requested State Party shall take any measures it considers necessary to prevent the escape of the person sought.
 
-- g. andere informatie en/of bewijsstukken, zoals bepaald in het nationale recht van de aangezochte staat die partij is.
+5. The termination of the provisional arrest pursuant to paragraph 4 shall not prejudice the re-arrest and subsequent extradition of the person concerned if the requested State Party subsequently receives the formal request for extradition.
 
-3. Indien de aangezochte staat die partij is van oordeel is dat de bij een verzoek om uitlevering verstrekte informatie niet volstaat om een beslissing te nemen over of de uitvoering van het verzoek mogelijk te maken, kan hij verzoeken dat aanvullende informatie wordt verstrekt binnen de door hem gespecificeerde redelijke termijn.
+##### Article 60. Consideration of detention periods
 
-##### Artikel 57. Vertrouwelijkheid van verzoeken om uitlevering
+The requesting State Party is encouraged, to the greatest extent possible under its domestic law, to take into account all periods of detention arising from the execution of an extradition request in the requested State Party when determining the total period of detention to be served in the requesting State Party as a result of a custodial sentence or detention order being imposed.
 
-De aangezochte staat die partij is houdt het bestaan en de inhoud van het verzoek geheim, behalve voor zover bekendmaking nodig is voor de uitvoering van het verzoek. Indien de aangezochte staat die partij is niet kan voldoen aan het vereiste van geheimhouding, stelt hij de verzoekende staat die partij is daarvan onverwijld op de hoogte. De verzoekende staat die partij is bepaalt of het verzoek niettemin dient te worden uitgevoerd.
+##### Article 61. Surrender of the person to be extradited
 
-##### Artikel 58. Conflicterende verzoeken
+1. If the request is agreed to, the requesting State Party and the requested State Party shall consult and agree on the place and date of surrender. The requesting State Party shall be informed of the length of time the person sought was detained with a view to the surrender.
 
-1. Indien gelijktijdig om uitlevering of overlevering wordt verzocht door meer dan één staat die partij is of een bevoegd internationaal strafhof of tribunaal, hetzij voor hetzelfde misdrijf, hetzij voor verschillende misdrijven, neemt de aangezochte staat die partij is zijn beslissing met inachtneming van enige verplichting met betrekking tot de voorrang van rechtsmacht volgend uit een internationaal rechtsinstrument waardoor de aangezochte staat die partij is gebonden is.
+2. Subject to paragraph 3, if the person sought has not been taken over on the appointed date, the person may be released after the expiry of 30 days and shall in any case be released after the expiry of 45 days, unless otherwise specified by the requested State Party. The requested State Party may refuse to extradite the person for the same crime.
 
-2. Bij het ontbreken van een dergelijke verplichting houdt de aangezochte staat die partij is bij zijn beslissing rekening met alle relevante omstandigheden, zoals de relatieve ernst en plaats waar de misdrijven zijn begaan, de dagtekening van de verscheidene verzoeken, de nationaliteit van de opgeëiste persoon, de nationaliteit van het slachtoffer of de slachtoffers, en de mogelijkheid van latere uitlevering aan een andere staat die partij is.
+3. If circumstances beyond its control prevent a State Party from surrendering or taking over the person to be extradited, it shall notify the other State Party. The States Parties concerned shall consult and may agree on a new date for surrender and the provisions of paragraph 2 shall apply.
 
-##### Artikel 59. Voorlopige aanhouding
+##### Article 62. Postponed or temporary surrender
 
-1. De aangezochte staat die partij is, kan nadat hij ervan overtuigd is dat de omstandigheden dit rechtvaardigen en dringend zijn, op verzoek van de verzoekende staat die partij is, een persoon om wiens uitlevering wordt verzocht en die zich op zijn grondgebied bevindt in hechtenis nemen of andere passende maatregelen nemen om zijn of haar aanwezigheid bij de uitleveringsprocedure te verzekeren.
+1. The requested State Party may, after making its decision on the request for extradition, postpone the surrender of the person sought in order that the person may be proceeded against by that State Party or, if the person has already been convicted, in order that the person may serve the sentence imposed in the territory of the requested State Party for a crime other than that for which extradition is requested.
 
-2. Het verzoek om voorlopige aanhouding bevat:
+2. The requested State Party may, instead of postponing surrender, temporarily surrender the person sought to the requesting State Party in accordance with conditions to be determined by mutual agreement between the States Parties concerned.
 
-- a. de in [artikel 56, tweede lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2024-02-15&g=2024-02-15), bedoelde informatie, indien vereist ingevolge het nationale recht van de aangezochte staat die partij is;
+##### Article 63. Simplified extradition procedure
 
-- b. een beschrijving van het misdrijf dat aanleiding gaf tot het verzoek en de onderliggende feiten;
+If the extradition of a person sought is not manifestly precluded by the domestic law of the requested State Party and provided the person sought consents to extradition, in accordance with the procedure under the domestic law of the requested State Party, the requested State Party may grant extradition through a simplified procedure.
 
-- c. een verklaring omtrent het bestaan van de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=56&z=2024-02-15&g=2024-02-15) bedoelde documenten;
+##### Article 64. Handing over of property
 
-- d. een verklaring dat een formeel verzoek om uitlevering van de gezochte persoon volgt.
+1. The requested State Party shall, insofar as its domestic law permits and at the request of the requesting State Party, seize and hand over property:
 
-3. De aangezochte staat die partij is, stelt de verzoekende staat die partij is onverwijld in kennis van het resultaat van de behandeling van het verzoek om voorlopige aanhouding.
+- a) Which may be required as evidence; or
 
-4. De voorlopige aanhouding wordt beëindigd indien de aangezochte staat die partij is niet binnen 60 dagen na de inhechtenisneming van de gezochte persoon het officiële verzoek tot uitlevering heeft ontvangen. De persoon kan te allen tijde voorlopig in vrijheid worden gesteld, in welk geval de aangezochte staat die partij is alle maatregelen neemt die hij nodig acht om te voorkomen dat de gezochte persoon ontvlucht.
+- b) Which being the results of the crime and which, at the time of the arrest, is found in the possession of the person sought or is discovered subsequently.
 
-5. De beëindiging van de voorlopige aanhouding overeenkomstig het vierde lid vormt geen beletsel voor een nieuwe aanhouding en daaropvolgende uitlevering van de persoon indien de aangezochte staat die partij is nadien het formele verzoek om uitlevering ontvangt.
+2. The property referred to in paragraph 1 may be handed over to the requesting State Party even if extradition, having been granted, cannot be carried out owing to the death, disappearance or escape of the person sought.
 
-##### Artikel 60. In aanmerking nemen van detentieperiode
+3. When the property referred to in paragraph 1 is subject to seizure or confiscation in the territory of the requested State Party, that State Party may, in connection with pending criminal proceedings, temporarily retain it or hand it over to the requesting State Party on the condition that it is returned.
 
-De verzoekende staat die partij is wordt aangemoedigd, in de ruimst mogelijke mate binnen zijn nationale recht, om bij het vaststellen van de totale duur van de te ondergane detentie in de verzoekende staat die partij is als gevolg van het opleggen van een vrijheidsstraf of een tot vrijheidsbeneming strekkende maatregel rekening te houden met alle tijd doorgebracht in detentie als gevolg van de uitvoering van een verzoek om uitlevering in de aangezochte staat die partij is.
+4. Any rights which the requested State Party or third parties acting in good faith may have acquired in the property referred to in paragraph 1 shall be preserved, in accordance with the procedures provided for by its domestic law. Where these rights exist, the requesting State Party shall return such property to the requested State Party as soon as possible and without charge at the end of the proceedings.
 
-##### Artikel 61. Overdracht van de uit te leveren persoon
+##### Article 65. Transit of the person to be extradited
 
-1. In geval van inwilliging van het verzoek plegen de verzoekende staat die partij is en de aangezochte staat die partij is overleg en spreken de plaats en datum van overdracht af. De verzoekende staat wordt geïnformeerd over de duur die de opgeëiste persoon in hechtenis heeft doorgebracht met het oog op de overdracht.
+1. Where a person is to be extradited to a State Party through the territory of another State Party, the State Party to which the person is to be extradited shall request in writing from the other State Party permission for the transit of that person through its territory. This does not apply where air transport is used and no landing in the territory of the other State Party is scheduled.
 
-2. Onverminderd het derde lid kan de opgeëiste persoon, indien hij of zij niet op de genoemde datum is overgenomen, worden vrijgelaten na het verstrijken van 30 dagen en wordt hij of zij in ieder geval vrijgelaten na het verstrijken van 45 dagen, tenzij anders gespecificeerd door de aangezochte staat die partij is. De aangezochte staat die partij is kan weigeren de persoon uit te leveren voor hetzelfde misdrijf.
+2. Upon receipt of such a request, the requested State Party shall deal with this request in accordance with procedures provided for under its domestic law. The requested State Party shall grant the request expeditiously, unless its essential interests would be prejudiced thereby.
 
-3. Indien overmacht een staat die partij is verhindert de uit te leveren persoon over te dragen of over te nemen, dan stelt hij de andere staat die partij is daarvan in kennis. De staten die partij zijn plegen overleg en kunnen een nieuwe datum voor overdracht afspreken, en de bepalingen van het tweede lid zijn van toepassing.
+3. The State Party through which a person is being transited shall ensure that legal provisions exist that would enable detaining the person in custody during the transit.
 
-##### Artikel 62. Uitgestelde of tijdelijke overdracht
+4. In the event of an unscheduled landing in a State Party, that State Party may, at the request of the escorting officer, hold the person in custody for a time period in accordance with its domestic law, pending receipt of the transit request in accordance with paragraph 1.
 
-1. De aangezochte staat die partij is kan, nadat hij een beslissing over het verzoek tot uitlevering genomen heeft, de overdracht van de opgeëiste persoon uitstellen opdat hij door hem vervolgd kan worden of, indien hij reeds veroordeeld is, op zijn grondgebied een straf kan ondergaan wegens een ander misdrijf dan dat waarvoor de uitlevering is verzocht.
+5. The transit of the extradited person shall not be carried out through any territory where there is a reason to believe that the person's life may be threatened or if there is a high risk of the person's rights being violated by reasons of race, gender, color, mental or physical disability, sexual orientation, religion, nationality, ethnic origin, political opinions or belonging to a particular social group.
 
-2. In plaats van de overdracht uit te stellen kan de aangezochte staat die partij is de opgeëiste persoon tijdelijk aan de verzoekende staat die partij is overdragen op door de beide staten die partij zijn in onderling overleg vast te stellen voorwaarden.
+6. A State Party may refuse a request for permission for the transit of one of its nationals through its territory.
 
-##### Artikel 63. Verkorte uitleveringsprocedure
+### PART V. TRANSFER OF SENTENCED PERSONS
 
-Indien de uitlevering van een opgeëiste persoon niet kennelijk wordt uitgesloten door het nationale recht van de aangezochte staat die partij is en mits de opgeëiste persoon instemt met uitlevering, overeenkomstig de procedure volgens het nationale recht van de aangezochte staat die partij is, kan de aangezochte staat die partij is, via een verkorte procedure uitlevering verlenen.
+##### Article 66. Scope of Part V and definitions related to transfer of sentenced persons
 
-##### Artikel 64. Overdracht van goederen
+1. Wherever possible and consistent with the basic principles of domestic law, a person sentenced in a State Party for a crime to which it applies this Convention may be transferred to another State Party in order to serve the sentence imposed on that person. A transfer is also possible when the sentence was imposed for a crime to which this Convention applies in combination with other crimes.
 
-1. De aangezochte staat die partij is dient, voor zover zijn nationale recht zulks toestaat en op verzoek van de verzoekende staat die partij is, goederen in beslag te nemen en over te dragen:
+2. For the purposes of this Part of the Convention:
 
-- a. die als bewijsstuk kunnen dienen; of
+- a) “Administering State Party” means the State Party to which the sentenced person may be or has been transferred in order to serve the sentence;
 
-- b. die het resultaat van het misdrijf zijn en die op het tijdstip van de aanhouding in het bezit van de opgeëiste persoon wordt aangetroffen of later wordt ontdekt.
+- b) “Judgment” means a judicial decision or order by a court imposing a sentence in respect of which an ordinary legal remedy is no longer available and therefore final;
 
-2. De in het eerste lid bedoelde goederen kunnen aan de verzoekende staat die partij is, worden overgedragen, zelfs indien de uitlevering niet kan worden verricht wegens het overlijden, de verdwijning of de ontvluchting van de opgeëiste persoon.
+- c) “Sentence” means any punishment or measure involving deprivation of liberty ordered by a court for the commission of a crime to which this Convention applies;
 
-3. Wanneer de in het eerste lid bedoelde goederen vatbaar zijn voor inbeslagneming of confiscatie op het grondgebied van de aangezochte staat die partij, kan die staat die partij is deze goederen met het oog op een lopende strafprocedure tijdelijk behouden of overdragen aan de verzoekende staat die partij is, op voorwaarde dat ze worden teruggegeven.
+- d) “Sentencing State Party” means the State Party in which the sentence was imposed.
 
-4. Eventuele rechten die de aangezochte staat die partij is of derden te goeder trouw op de in het eerste lid bedoelde goederen hebben verworven, blijven onverlet overeenkomstig de procedures waarin zijn nationale recht voorziet. Indien dergelijke rechten bestaan, zendt de verzoekende staat die partij is deze goederen na beëindiging van het rechtsgeding zo spoedig mogelijk en kosteloos naar terug naar de aangezochte staat die partij is.
+##### Article 67. Conditions for transfer
 
-##### Artikel 65. Doortocht van de uit te leveren persoon
+1. A transfer may be requested by the sentencing State Party or the administering State Party.
 
-1. Indien een persoon moet worden uitgeleverd aan een staat die partij is via het grondgebied van een andere staat die partij is, verzoekt de staat die partij is waaraan de persoon zal worden uitgeleverd, schriftelijk toestemming van de andere staat die partij is, voor de doortocht van die persoon over diens grondgebied. Dit geldt niet wanneer gebruik wordt gemaakt van luchtvervoer en er geen landing is gepland op het grondgebied van de andere staat die partij is.
+2. A sentenced person may express an interest to either the sentencing State Party or the administering State Party in being transferred under this Convention.
 
-2. Na ontvangst van een dergelijk verzoek behandelt de aangezochte staat die partij is dit verzoek overeenkomstig de procedures waarin zijn nationale recht voorziet. De aangezochte staat die partij is willigt het verzoek met spoed in, tenzij zijn wezenlijke belangen hierdoor zouden worden geschaad.
+3. A sentenced person may be transferred under this Convention only if the following conditions are met:
 
-3. De staat die partij is via welke de doortocht van een persoon plaatsvindt, draagt er zorg voor dat er wettelijke bepalingen bestaan die het mogelijk maken de persoon in hechtenis tijdens de doortocht vast te houden.
+- a) The person is a national of the administering State Party, including where applicable in accordance with [article 9](https://wetten.overheid.nl/BWBV0007040);
 
-4. In geval van een ongeplande landing in een staat die partij is, kan die staat die partij is, op verzoek van de begeleidende functionaris, de persoon in hechtenis houden gedurende een termijn die in overeenstemming is met zijn nationale recht, in afwachting van de ontvangst van het verzoek om doortocht overeenkomstig het eerste lid.
+- b) The judgment is final;
 
-5. De doortocht van de uitgeleverde persoon vindt niet plaats via een grondgebied indien er reden is om aan te nemen dat het leven van de persoon bedreigd kan worden of indien er een hoog risico bestaat dat de rechten van de persoon worden geschonden op grond van ras, geslacht, kleur, mentale of fysieke handicap, seksuele geaardheid, godsdienst, nationaliteit, etnische afkomst, politieke opvattingen of behoren tot een bepaalde sociale groep.
+- c) At the time of receipt of the request for transfer, the sentenced person still has at least six months of the sentence to serve or the sentence is indeterminate;
 
-6. Een staat die partij is kan een verzoek om toestemming voor de doortocht van een van zijn onderdanen over zijn grondgebied weigeren.
+- d) Without prejudice to [article 71](https://wetten.overheid.nl/BWBV0007040) and [article 72](https://wetten.overheid.nl/BWBV0007040), the transfer is consented to by the sentenced person, or by the person’s legal representative where either the sentencing State Party or the administering State Party considers it necessary in view of the age or physical or mental condition of the sentenced person;
 
-### DEEL V. OVERBRENGING VAN GEVONNISTE PERSONEN
+- e) The sentencing and administering States Parties agree to the transfer.
 
-##### Artikel 66. Reikwijdte van [Deel V](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&z=2024-02-15&g=2024-02-15) en definities met betrekking tot de overbrenging van gevonniste personen
+4. In exceptional cases, the States Parties concerned may agree to a transfer even if the time to be served by the sentenced person is shorter than that specified in paragraph 3, subparagraph (c).
 
-1. Indien mogelijk en in overeenstemming met de grondbeginselen van het nationale recht, kan een persoon die in een staat die partij is veroordeeld is voor een misdrijf waarop die staat dit Verdrag toepast, worden overgedragen aan een andere staat die partij is teneinde de tegen deze persoon uitgesproken veroordeling te ondergaan. Een overbrenging is tevens mogelijk wanneer de veroordeling is opgelegd wegens een misdrijf waarop dit Verdrag van toepassing is in combinatie met andere misdrijven.
+5. If a State Party which makes the transfer of sentenced persons conditional on the existence of a treaty receives a request for the transfer of a sentenced person from another State Party with which it has no treaty on the transfer of sentenced persons, it shall consider this Convention as the legal basis for the transfer of sentenced persons in respect of any crime to which this Convention applies.
 
-2. Voor de toepassing van dit deel van het Verdrag wordt verstaan onder:
+##### Article 68. Obligation to provide information
 
-- a. „de tenuitvoerleggende staat die partij is”: de staat die partij is waarnaar de gevonniste persoon kan worden of reeds is overgebracht, teneinde zijn veroordeling te ondergaan;
+1. Any sentenced person to whom this Convention may apply shall be informed by the sentencing State Party of the substance of this Part of the Convention.
 
-- b. „vonnis”: een rechterlijke beslissing of bevel waarbij een veroordeling wordt uitgesproken waartegen geen gewoon rechtsmiddel meer openstaat en die of dat derhalve onherroepelijk is geworden;
+2. If the sentenced person has expressed an interest to the sentencing State Party in being transferred under this Convention, that State Party shall so inform the administering State Party as soon as practicable after the judgment becomes final.
 
-- c. „veroordeling”: elke tot vrijheidsbeneming strekkende straf of maatregel die door een rechter wordt opgelegd voor het plegen van een misdrijf waarop dit Verdrag van toepassing is;
+3. The information shall include:
 
-- d. „de veroordelende staat die partij is”: de staat die partij is waarin de veroordeling werd uitgesproken.
+- a) The name, date and place of birth and, including where applicable in accordance with [article 9](https://wetten.overheid.nl/BWBV0007040), the nationality of the sentenced person;
 
-##### Artikel 67. Voorwaarden voor overbrenging
+- b) The address of the sentenced person, if any, in the administering State Party;
 
-1. De overbrenging kan door de veroordelende staat die partij is of door de tenuitvoerleggende staat die partij is worden verzocht.
+- c) A statement of the facts upon which the sentence was based;
 
-2. Een gevonniste persoon kan de veroordelende staat die partij is of de tenuitvoerleggende staat die partij is de wens te kennen geven overeenkomstig dit Verdrag te worden overgebracht.
+- d) The nature, duration and date of commencement of the sentence;
 
-3. Een gevonniste persoon kan overeenkomstig de bepalingen van dit Verdrag, slechts onder de navolgende voorwaarden worden overgebracht:
+- e) The time of the sentence already served and any other deductions from the sentence according to the domestic law of the sentencing State Party;
 
-- a. de persoon is een onderdaan van de tenuitvoerleggende staat die partij is, ook wanneer van toepassing in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2024-02-15&g=2024-02-15);
+- f) If necessary, a statement that the request for transfer is made under this Convention.
 
-- b. het vonnis is onherroepelijk;
+4. If the sentenced person has expressed an interest to the administering State Party in being transferred under this Convention, the sentencing State Party shall, upon request of the administering State Party, provide that State Party with the information referred to in paragraph 3.
 
-- c. de gevonniste persoon moet, op het tijdstip van ontvangst van het verzoek om overbrenging, nog ten minste zes maanden van de veroordeling ondergaan of de veroordeling is voor onbepaalde duur;
+5. The sentenced person shall be informed in writing of any action taken by the sentencing State Party or by the administering State Party under the provisions of this article, as well as of any decision taken by either State Party on a request for transfer.
 
-- d. de gevonniste persoon, of de wettelijke vertegenwoordiger van de gevonniste persoon wanneer gelet op de leeftijd of lichamelijke of geestelijke toestand van de gevonniste persoon een van beide staten dit nodig acht, stemt in met de overbrenging, onverminderd de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=71&z=2024-02-15&g=2024-02-15) en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=72&z=2024-02-15&g=2024-02-15);
+##### Article 69. Requests, replies and supporting documents
 
-- e. de veroordelende staat die partij is en de tenuitvoerleggende staat die partij is zijn het eens over de overbrenging.
+1. Requests for transfer and replies thereto shall be made in writing.
 
-4. In uitzonderingsgevallen kunnen de betrokken staten die partij zich akkoord verklaren met overbrenging zelfs wanneer de duur van het alsnog door de gevonniste persoon te ondergane gedeelte van de veroordeling korter is dan die omschreven in het derde lid, onderdeel c.
+2. The requested State Party shall promptly inform the requesting State Party of its decision whether or not to agree to the requested transfer and, upon request, the reasons for refusal whenever possible and appropriate.
 
-5. Indien een staat die partij is de overbrenging van gevonniste personen afhankelijk stelt van het bestaan van een verdrag, een verzoek om overbrenging van een gevonniste persoon ontvangt van een andere staat die partij is waarmee hij geen verdrag inzake de overbrenging van gevonniste personen heeft gesloten, beschouwt hij dit Verdrag als rechtsgrondslag voor de overbrenging van gevonniste personen wat betreft de misdrijven waarop dit artikel van toepassing is.
+3. If requested by the sentencing State Party, the administering State Party shall provide:
 
-##### Artikel 68. Verplichting tot het verstrekken van informatie
+- a) A document or statement indicating that the sentenced person is a national of the administering State Party, including where applicable in accordance with [article 9](https://wetten.overheid.nl/BWBV0007040);
 
-1. Een gevonniste persoon op wie dit Verdrag van toepassing kan zijn, dient door de veroordelende staat die partij is in kennis te worden gesteld van de strekking van dit deel van het Verdrag.
+- b) A copy of the relevant domestic law of the administering State Party which provides that the acts or omissions on account of which the sentence was imposed in the sentencing State Party constitute a crime according to the domestic law of the administering State Party, or would constitute a crime if committed on its territory;
 
-2. Indien de gevonniste persoon zijn wens tot overbrenging ingevolge dit Verdrag aan de veroordelende staat die partij is kenbaar heeft gemaakt, dient die staat die partij is de tenuitvoerleggende staat die partij is zo spoedig mogelijk daarvan in kennis te stellen, zodra het vonnis onherroepelijk is geworden.
+- c) Information on how the sentence will be enforced in the event of a transfer and, where applicable, copies of relevant provisions of its domestic law on continuation or conversion of sentences;
 
-3. De informatie omvat:
+- d) Information on conditional or early release and the relevant provisions of its domestic law.
 
-- a. de naam, datum en plaats van geboorte en, in voorkomend geval wanneer van toepassing overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2024-02-15&g=2024-02-15), de nationaliteit van de gevonniste persoon;
+4. If a transfer is requested, the sentencing State Party shall provide the following documents to the administering State Party, unless the requested State Party has already indicated that it will not agree to the transfer:
 
-- b. het eventuele adres van de gevonniste persoon in de tenuitvoerleggende staat die partij is;
+- a) A certified copy of the judgment and a copy of the relevant provisions of the domestic law on which it is based;
 
-- c. een opgave van de feiten die aan de veroordeling ten grondslag liggen;
+- b) A statement indicating the time of the sentence already served, including information on any pre-trial detention, remission, and any other factor relevant to the enforcement of the sentence;
 
-- d. de aard, duur en aanvangsdatum van de veroordeling;
+- c) Without prejudice to [article 71](https://wetten.overheid.nl/BWBV0007040) and [article 72](https://wetten.overheid.nl/BWBV0007040), a written declaration containing the consent to the transfer as referred to in [article 67, paragraph 3, subparagraph (d)](https://wetten.overheid.nl/BWBV0007040);
 
-- e. de tijd van de veroordeling die reeds is uitgezeten en andere strafverminderingen overeenkomstig het nationale recht van de veroordelende staat die partij is;
+- d) Where appropriate, any medical or social reports on the sentenced person, information about the treatment in the sentencing State Party, and any recommendation for further treatment in the administering State Party.
 
-- f. indien nodig een verklaring dat het verzoek om overbrenging is gedaan ingevolge dit Verdrag.
+5. Either State Party may request any of the documents or statements referred to in paragraph 3 or 4 before making a request for transfer or taking a decision on whether or not to agree to the transfer.
 
-4. Indien de gevonniste persoon een wens tot overbrenging ingevolge dit Verdrag aan de tenuitvoerleggende staat die partij is kenbaar heeft gemaakt, doet de veroordelende staat die partij is op verzoek van de tenuitvoerleggende staat die partij is, die staat die partij is de in het derde lid bedoelde informatie toekomen.
+##### Article 70. Consent and its verification
 
-5. De gevonniste persoon wordt schriftelijk in kennis gesteld van elke actie die wordt ondernomen door de veroordelende staat die partij is of de tenuitvoerleggende staat die partij is ingevolge de bepalingen van dit artikel, alsmede van elke door een van de beide staten op een verzoek tot overbrenging genomen beslissing.
+1. The sentencing State Party shall ensure that the person required to give consent to the transfer in accordance with [article 67, paragraph 3, subparagraph (d)](https://wetten.overheid.nl/BWBV0007040), does so voluntarily and with full knowledge of the legal consequences thereof. The procedure for giving such consent shall be governed by the domestic law of the sentencing State Party.
 
-##### Artikel 69. Verzoeken, antwoorden en stukken ter ondersteuning
+2. The sentencing State Party shall afford an opportunity to the administering State Party to verify, through a consular officer or other official agreed upon with the administering State Party, that the consent is given in accordance with the conditions referred to in paragraph 1.
 
-1. De verzoeken tot overbrenging en de antwoorden daarop geschieden schriftelijk.
+##### Article 71. Persons who have left the sentencing State Party
 
-2. De aangezochte staat die partij is stelt de verzoekende staat die partij is onverwijld in kennis van zijn beslissing of al dan niet met de verzochte overbrenging wordt ingestemd en, op verzoek, wanneer mogelijk en aangewezen van de redenen voor de weigering.
+1. Where a national of a State Party is the subject of a sentence, the sentencing State Party may request the State of nationality to take over the execution of the sentence under the following circumstances:
 
-3. Op verzoek van de veroordelende staat die partij is verstrekt de tenuitvoerleggende staat die partij is:
+- a) When the person concerned has fled to or otherwise returned to the State of nationality being aware of the criminal proceedings pending against the person in the sentencing State Party;
 
-- a. een document of verklaring dat de persoon een onderdaan is van de tenuitvoerleggende staat die partij is, ook wanneer van toepassing in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2024-02-15&g=2024-02-15);
+- b) When the person concerned has fled to or otherwise returned to the State of nationality being aware that a judgment has been issued against the person in the sentencing State Party.
 
-- b. een afschrift van het toepasselijke nationale recht van de tenuitvoerleggende staat die partij is waaruit blijkt dat het handelen of het nalaten op grond waarvan de veroordeling in de veroordelende staat die partij is werd uitgesproken, naar het nationale recht van de tenuitvoerleggende staat die partij is een misdrijf oplevert of een misdrijf zou opleveren indien gepleegd op zijn grondgebied;
+2. At the request of the sentencing State Party, the administering State Party may, prior to receiving the documents supporting the request, or prior to the decision on that request, arrest the sentenced person or take any other measures such as to ensure that the sentenced person remains in its territory pending a decision on the request. Requests for provisional measures shall be accompanied by the information mentioned in [article 68, paragraph 3](https://wetten.overheid.nl/BWBV0007040). The arrest of the sentenced person under this paragraph shall not lead to an aggravation of the person’s penal position.
 
-- c. informatie over de wijze waarop de veroordeling ten uitvoer zal worden gelegd in geval van overbrenging en, in voorkomend geval, afschriften van relevante bepalingen van het nationale recht inzake voortzetting of omzetting van veroordelingen;
+3. In relation to this article, the transfer of the administration of the sentence shall not require the consent of the sentenced person.
 
-- d. informatie over voorwaardelijke of vervroegde invrijheidstelling en de relevante bepalingen van het nationale recht.
+4. Nothing in this article shall oblige the State of nationality to take over the execution of sentences under the circumstances described in this article.
 
-4. Indien om overbrenging wordt verzocht, verstrekt de veroordelende staat die partij is de volgende documenten aan de tenuitvoerleggende staat die partij is tenzij de aangezochte staat die partij is reeds heeft aangegeven niet met de overbrenging te zullen instemmen;
+##### Article 72. Sentenced persons subject to an expulsion or deportation order
 
-- a. een gewaarmerkt afschrift van het vonnis en een afschrift van de relevante bepalingen van het nationale recht die daaraan ten grondslag liggen;
+1. At the request of the sentencing State Party, the administering State Party may, subject to the provisions of this article, agree to the transfer of a sentenced person without the consent of that person, where the sentence imposed on the latter, or an administrative decision consequential to that sentence, includes a final expulsion or deportation order, or any other measure as a result of which that person will no longer be permitted to remain in the territory of the sentencing State Party once the person is released from prison.
 
-- b. een opgave van het reeds ondergane gedeelte van een veroordeling, daaronder begrepen informatie over eventuele voorlopige hechtenis, strafvermindering en elke andere voor de tenuitvoerlegging van de veroordeling ter zake dienende omstandigheid;
+2. The administering State Party shall not agree to the transfer for the purposes of paragraph 1 before having duly taken into consideration the opinion of the sentenced person.
 
-- c. onverminderd de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=71&z=2024-02-15&g=2024-02-15) en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=72&z=2024-02-15&g=2024-02-15), een schriftelijke verklaring met de instemming met de overbrenging als bedoeld in [artikel 67, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=67&z=2024-02-15&g=2024-02-15);
+3. For the purposes of this article, the sentencing State Party shall provide the administering State Party with:
 
-- d. waar nodig, een medisch of sociaal rapport omtrent de gevonniste persoon, inlichtingen betreffende de behandeling in de veroordelende staat die partij is en elke aanbeveling ten aanzien van zijn verdere behandeling in de tenuitvoerleggende staat die partij is.
+- a) A declaration containing the opinion of the sentenced person as to the proposed transfer;
 
-5. Elk van beide staten die partij zijn kan verzoeken om de in het derde of vierde lid bedoelde documenten of verklaringen alvorens een verzoek tot overbrenging te doen of een beslissing te nemen of hij al dan niet met de overbrenging zal instemmen.
+- b) A copy of the final expulsion or deportation order or any other order having the effect that the sentenced person will no longer be permitted to remain in the territory of the sentencing State Party once the person is released from prison.
 
-##### Artikel 70. Instemming en verificatie daarvan
+4. Any person transferred under the provisions of this article shall not be proceeded against, sentenced or detained with a view to the carrying out of a sentence or detention order, for any crime committed prior to the person’s transfer other than that for which the sentence to be enforced was imposed, nor shall the person’s personal freedom for any other reason be restricted, except in the following cases:
 
-1. De veroordelende staat die partij is waarborgt dat de persoon die overeenkomstig [artikel 67, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=67&z=2024-02-15&g=2024-02-15), met de overbrenging moet instemmen, dit vrijwillig doet en zich volledig bewust is van de daaruit voortvloeiende rechtsgevolgen. De ten aanzien van een dergelijke instemming te volgen procedure wordt beheerst door het nationale recht van de veroordelende staat die partij is.
+- a) When the sentencing State Party so authorizes:
 
-2. De veroordelende staat die partij is stelt de tenuitvoerleggende staat die partij is in de gelegenheid om te onderzoeken via een consul of een andere in overeenstemming met de tenuitvoerleggende staat die partij is aangewezen functionaris, dat de instemming in overeenstemming met de in het eerste lid bedoelde voorwaarden wordt gegeven.
+   - (i) A request for authorization shall be submitted accompanied by all relevant documents and a legal record of any statement made by the sentenced person;
 
-##### Artikel 71. Personen die de veroordelende staat hebben verlaten
+   - (ii) The authorization shall be given when the crime for which it is requested would itself be subject to extradition under the domestic law of the sentencing State Party or when extradition would be excluded only by reason of the duration of punishment;
 
-1. Wanneer een onderdaan van een staat die partij is, is veroordeeld, kan de veroordelende staat die partij is de staat van nationaliteit verzoeken de tenuitvoerlegging van de veroordeling over te nemen onder de volgende voorwaarden:
+- b) When the sentenced person, having had an opportunity to leave the territory of the administering State Party, has not done so within 45 days of final discharge, or if the person has returned to that territory after leaving it.
 
-- a. wanneer de betrokken persoon is gevlucht of op andere wijze is teruggekeerd naar de staat van nationaliteit in de wetenschap dat er tegen de persoon strafvervolging is ingesteld in de veroordelende staat die partij is;
+5. Notwithstanding the provisions of paragraph 4, the administering State Party may take any measures as necessary under its domestic law, including proceedings *in absentia*, to prevent any legal effects resulting from the lapse of time.
 
-- b. wanneer de betrokken persoon is gevlucht of op andere wijze is teruggekeerd naar de staat van nationaliteit in de wetenschap dat er tegen de persoon een vonnis is uitgesproken in de veroordelende staat die partij is.
+6. Nothing in this article shall oblige a State Party to take over the execution of sentences under the circumstances described in this article.
 
-2. Op verzoek van de veroordelende staat die partij is, kan de tenuitvoerleggende staat die partij is, voorafgaand aan de ontvangst van de stukken ter ondersteuning van het verzoek, of voorafgaand aan de beslissing op dat verzoek, de gevonniste persoon aanhouden of andere maatregelen nemen teneinde te verzekeren dat de gevonniste persoon op zijn grondgebied blijft in afwachting van de beslissing op het verzoek. Verzoeken tot voorlopige maatregelen moeten vergezeld gaan van de in [artikel 68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=68&z=2024-02-15&g=2024-02-15), genoemde informatie. De arrestatie van de gevonniste persoon ingevolge dit lid, leidt niet tot een verzwaring van de strafrechtelijke positie van de persoon.
+##### Article 73. Effect of transfer for the sentencing State Party
 
-3. Met betrekking tot dit artikel is niet vereist dat de gevonniste persoon instemt met de overdracht van de tenuitvoeringlegging van de veroordeling.
+1. The taking into charge of the sentenced person by the authorities of the administering State Party shall have the effect of suspending the enforcement of the sentence in the sentencing State Party.
 
-4. Niets in dit artikel verplicht de staat van nationaliteit de tenuitvoerlegging van veroordelingen over te nemen onder de voorwaarden die in dit artikel beschreven zijn.
+2. The sentencing State Party may no longer enforce the sentence if the administering State Party considers the enforcement of the sentence to have been completed.
 
-##### Artikel 72. Gevonniste personen voor wie een bevel tot uitzetting of uitwijzing geldt
+##### Article 74. Effect of transfer for the administering State Party
 
-1. Op verzoek van de veroordelende staat die partij is kan de tenuitvoerleggende staat die partij is, met inachtneming van de bepalingen van dit artikel, ermee instemmen een gevonniste persoon zonder de instemming van die persoon over te brengen, wanneer de tegen hem uitgesproken veroordeling, of een daaruit voortvloeiende administratieve beslissing, een bevel tot uitzetting of uitwijzing inhoudt of enige andere maatregel krachtens welke het aan die persoon na zijn invrijheidsstelling niet langer is toegestaan op het grondgebied van de veroordelende staat die partij is te verblijven.
+1. The competent authorities of the administering State Party shall either:
 
-2. De tenuitvoerleggende staat die partij is stemt niet in met de overbrenging voor de toepassing van het eerste lid voordat hij de mening van de gevonniste persoon in zijn overwegingen heeft betrokken.
+- a) Continue the enforcement of the sentence immediately or through a court or administrative order, in accordance with [article 75](https://wetten.overheid.nl/BWBV0007040); or
 
-3. Voor de toepassing van dit artikel verstrekt de veroordelende staat die partij is aan de tenuitvoerleggende staat die partij is:
+- b) Convert the sentence, through a judicial or administrative procedure, into a decision of that State Party, thereby substituting for the sanction imposed in the sentencing State Party a sanction prescribed by the domestic law of the administering State Party for the same crime, in accordance with [article 76](https://wetten.overheid.nl/BWBV0007040).
 
-- a. een verklaring waarin de mening van de gevonniste persoon over de beoogde overbrenging is weergegeven;
+2. Each State Party may exclude the application of one of the procedures referred to in paragraph 1 with respect to other States Parties by informing the central authorities of the States Parties, or, if the conditions in [article 85, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0007040), are met, the State designated to provide additional interim support.
 
-- b. een afschrift van het bevel tot uitzetting of uitwijzing of enig ander bevel ten gevolge waarvan het aan gevonniste persoon na zijn invrijheidsstelling niet langer is toegestaan op het grondgebied van de veroordelende staat die partij is te verblijven.
+3. The administering State Party, if requested, shall inform the sentencing State Party before the transfer of the sentenced person of which of the procedures referred to in paragraph 1 it shall follow.
 
-4. Een krachtens de bepalingen van dit artikel overgebrachte persoon wordt noch vervolgd, noch veroordeeld, noch in hechtenis gesteld met het oog op de tenuitvoerlegging van een veroordeling of een bevel tot aanhouding noch aan enige andere beperking van zijn vrijheid onderworpen voor enig ander voor de overbrenging gepleegd misdrijf dan dat waarvoor de ten uitvoer te leggen veroordeling werd uitgesproken, behalve in de volgende gevallen:
+4. The enforcement of the sentence shall be governed by the domestic law of the administering State Party and only that State Party shall be competent to take decisions related thereto.
 
-- a. Wanneer de veroordelende staat die partij is hierin toestemt:
+5. Any State Party which, according to its domestic law, cannot avail itself of one of the procedures referred to in paragraph 1 to enforce measures imposed in the territory of another State Party on persons who for reasons of their mental condition have been held not criminally responsible for the commission of the crime, and which is prepared to receive such persons for further treatment, may indicate the procedures it shall follow in such circumstances by informing the central authorities of the States Parties, or, if the conditions in [article 85, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0007040), are met, the State designated to provide additional interim support.
 
-- i. dient een verzoek om toestemming te worden overgelegd, vergezeld van alle relevante documenten en een rechterlijk proces-verbaal van de door de gevonniste persoon afgelegde verklaringen;
+##### Article 75. Continued enforcement
 
-- ii. wordt de toestemming gegeven indien het misdrijf waarvoor deze wordt gevraagd op zichzelf een grond voor uitlevering zou zijn krachtens de wetgeving van de veroordelende staat die partij is of wanneer uitlevering uitsluitend vanwege de duur van de straf zou worden uitgesloten;
+1. In the case of continued enforcement, the administering State Party shall be bound by the legal nature and duration of the sentence as determined by the sentencing State Party.
 
-- b. Wanneer de gevonniste persoon, hoewel daartoe de mogelijkheid bestond, niet binnen de 45 dagen die op de definitieve invrijheidsstelling volgden, het grondgebied van de tenuitvoerleggende staat die partij is heeft verlaten of indien de persoon na dit gebied te hebben verlaten daarin is teruggekeerd.
+2. If the sentence referred to in paragraph 1 is by its nature or duration incompatible with the domestic law of the administering State Party, or if its domestic law so requires, the administering State Party may, by a court or administrative order, adjust the sanction imposed by the sentence to be enforced to the punishment or measure prescribed by its domestic law for a similar crime. As to its nature, the punishment or measure shall, as far as possible, correspond with the sanction imposed by the sentence to be enforced. It shall not aggravate, by its nature or duration, the sanction imposed by the sentence to be enforced, nor exceed the maximum prescribed by the domestic law of the administering State Party.
 
-5. Niettegenstaande de bepalingen van het vierde lid kan de tenuitvoerleggende staat die partij is alle maatregelen nemen die nodig zijn krachtens zijn nationale recht om de verjaring te stuiten, met inbegrip van verstekprocedures.
+##### Article 76. Conversion of sentence
 
-6. Niets in dit artikel verplicht een staat die partij is de tenuitvoerlegging van veroordelingen over te nemen onder de voorwaarden die in dit artikel beschreven zijn.
+1. In the case of conversion of a sentence, the procedures provided for by the domestic law of the administering State Party shall apply. When converting the sentence, the competent authorities:
 
-##### Artikel 73. Gevolgen van de overbrenging voor de veroordelende staat die partij is
+- a) Shall be bound by the findings as to the facts insofar as they appear explicitly or implicitly from the judgment rendered in the sentencing State Party;
 
-1. Met de daadwerkelijke overname van de gevonniste persoon door de autoriteiten van de uitvoerende staat die partij is wordt de tenuitvoerlegging van de veroordeling in de veroordelende staat die partij is geschorst.
+- b) May not convert a sanction involving deprivation of liberty to a pecuniary sanction;
 
-2. De veroordelende staat die partij is kan de veroordeling niet langer ten uitvoer leggen, indien de tenuitvoerleggende staat die partij is de veroordeling beschouwt als geheel ten uitvoer gelegd.
+- c) Shall deduct the full period of deprivation of liberty served by the sentenced person;
 
-##### Artikel 74. Gevolgen van de overbrenging voor de tenuitvoerleggende staat die partij is
+- d) Shall not aggravate the penal position of the sentenced person;
 
-1. De bevoegde autoriteiten van de tenuitvoerleggende staat die partij is dienen:
+- e) Shall not be bound by any minimum which the domestic law of the administering State Party may provide for the crime or crimes committed.
 
-- a. de tenuitvoerlegging van de veroordeling, hetzij rechtstreeks, hetzij op grond van een administratieve of rechterlijke beschikking, in overeenstemming met [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=75&z=2024-02-15&g=2024-02-15) voort te zetten; of
+2. If the conversion procedure takes place after the transfer of the sentenced person, the administering State Party shall keep that person in custody or otherwise ensure the presence of the sentenced person in the administering State Party pending the outcome of that procedure.
 
-- b. de veroordeling door middel van een rechterlijke of administratieve procedure om te zetten in een beslissing van die staat, waarbij voor de sanctie opgelegd in de veroordelende staat die partij is een sanctie in de plaats wordt gesteld zoals voor hetzelfde misdrijf door de wet van de tenuitvoerleggende staat die partij is wordt voorgeschreven, in overeenstemming met [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=76&z=2024-02-15&g=2024-02-15).
+##### Article 77. Review of judgment
 
-2. Elke staat die partij is kan de toepassing van een van de in het eerste lid bedoelde procedures uitsluiten met betrekking tot andere staten die partij zijn door de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen, in kennis te stellen
+Only the sentencing State Party shall have the right to decide on any application for review of a judgment rendered in the sentencing State Party.
 
-3. De tenuitvoerleggende staat die partij is stelt desgevraagd voor de overbrenging van de gevonniste persoon de veroordelende staat die partij is in kennis welke van de in het eerste lid bedoelde procedures zal worden gevolgd.
+##### Article 78. Termination of enforcement
 
-4. De tenuitvoerlegging van de veroordeling wordt beheerst door het nationale recht van de tenuitvoerleggende staat die partij is en alleen die staat is bevoegd ter zake dienende beslissingen te nemen.
+The administering State Party shall terminate the enforcement of the sentence as soon as it is informed by the sentencing State Party of any decision or measure as a result of which the sentence ceases to be enforceable.
 
-5. Een staat die partij is die, ingevolge zijn nationale recht, geen gebruik kan maken van een van de in het eerste lid genoemde procedures voor de tenuitvoerlegging van maatregelen op het grondgebied van een andere staat die partij is, opgelegd aan personen aan wie wegens hun geestelijke toestand het begaan van een misdrijf niet is toegerekend en die bereid is die personen voor verdere behandeling over te nemen, kan de procedures aangeven die door hem in dergelijke gevallen worden gevolgd door de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen, in kennis stellen.
+##### Article 79. Information on enforcement
 
-##### Artikel 75. Voortgezette tenuitvoerlegging
+The administering State Party shall provide information to the sentencing State Party concerning the enforcement of the sentence:
 
-1. Bij voortzetting van de tenuitvoerlegging is de tenuitvoerleggende staat die partij is gebonden aan het rechtskarakter en de duur van de veroordeling, zoals die zijn vastgesteld door de veroordelende staat die partij is.
+- a) When it considers the enforcement of the sentence to have been completed;
 
-2. Indien de in het eerste lid bedoelde veroordeling evenwel naar aard en duur onverenigbaar is met het nationale recht van de tenuitvoerleggende staat die partij is, of indien het nationale recht van die staat zulks vereist, kan die tenuitvoerleggende staat die partij is door middel van een rechterlijke of administratieve beschikking de sanctie aanpassen aan de straf of maatregel die door zijn eigen nationale recht voor een soortgelijk misdrijf wordt voorgeschreven. Wat de aard betreft, zal de straf of maatregel voor zover mogelijk overeenstemmen met de sanctie die bij de ten uitvoer te leggen veroordeling is opgelegd. De bij de veroordeling opgelegde sanctie zal hierdoor naar aard of duur niet worden verzwaard en evenmin zal het door het nationale recht van de tenuitvoerleggende staat die partij is voorgeschreven maximum hierdoor worden overschreden.
+- b) If the sentenced person has escaped from custody before the enforcement of the sentence has been completed; or
 
-##### Artikel 76. Omzetting van de veroordeling
+- c) If the sentencing State Party requests a special report.
 
-1. Bij omzetting van een veroordeling zijn de in het nationale recht van de tenuitvoerleggende staat die partij is voorziene procedures van toepassing. Bij omzetting van de veroordeling:
+##### Article 80. Transit of sentenced persons
 
-- a. zijn de bevoegde autoriteiten gebonden aan de vaststelling van de feiten voor zover deze uitdrukkelijk of impliciet blijken uit het door de staat van veroordeling uitgesproken vonnis;
+1. A State Party shall, in accordance with its domestic law, grant a request for transit of a sentenced person through its territory if such a request is made by another State Party and the latter has agreed with another State Party or with a third State to the transfer of that person to or from its territory.
 
-- b. kunnen de bevoegde autoriteiten een sanctie die vrijheidsbeneming met zich meebrengt niet in een geldstraf omzetten;
+2. A State Party may refuse transit if the sentenced person is one of its nationals.
 
-- c. brengen de bevoegde autoriteiten de volledige periode van de door de gevonniste persoon reeds ondergane vrijheidsbeneming in mindering;
+3. Requests for transit and replies shall be communicated through a channel of communication referred to in [article 21, paragraph 1 or 2](https://wetten.overheid.nl/BWBV0007040).
 
-- d. verzwaren de bevoegde autoriteiten de strafrechtelijke positie van de gevonniste persoon niet;
+4. A State Party may grant a request for transit of a sentenced person through its territory made by a third State if that State has agreed with another State Party to the transfer to or from its territory.
 
-- e. zijn de bevoegde autoriteiten niet gebonden door enig minimum waarin het nationale recht van de tenuitvoerleggende staat die partij is kan voorzien voor het gepleegde misdrijf of de gepleegde misdrijven.
+5. The State Party requested to grant transit may hold the sentenced person in custody only for such time as transit through its territory requires.
 
-2. Indien de omzettingsprocedure plaatsvindt na de overbrenging van de gevonniste persoon, houdt de tenuitvoerleggende staat die partij is de gevonniste persoon in hechtenis of neemt andere maatregelen teneinde diens aanwezigheid in de tenuitvoerleggende staat die partij is te verzekeren, in afwachting van de afloop van die procedure.
+6. The State Party requested to grant transit may be asked to give an assurance that the sentenced person will not be prosecuted, or, except as provided in paragraph 5, detained, or otherwise subjected to any restriction on the person’s liberty in the territory of the State Party of transit for any crime committed or sentence imposed prior to the person’s departure from the territory of the sentencing State.
 
-##### Artikel 77. Herziening van het vonnis
+7. No request for transit shall be required if transport is by air over the territory of a State Party and no landing there is scheduled. A State Party may require that it be notified of any such transit over its territory by informing the central authorities of the States Parties, or, if the conditions in [article 85, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0007040), are met, the State designated to provide additional interim support.
 
-Uitsluitend de veroordelende staat die partij is heeft het recht te beslissen op een verzoek tot herziening van een vonnis dat is uitgesproken in de veroordelende staat die partij is.
+8. In the event of an unscheduled landing, [article 65, paragraph 4](https://wetten.overheid.nl/BWBV0007040), shall apply mutatis mutandis.
 
-##### Artikel 78. Beëindiging van de tenuitvoerlegging
+### PART VI. VICTIMS, WITNESSES, EXPERTS AND OTHER PERSONS
 
-De tenuitvoerleggende staat die partij is beëindigt de tenuitvoerlegging van de veroordeling zodra hij door de veroordelende staat in kennis is gesteld van enige beslissing of maatregel ten gevolge waarvan de veroordeling niet meer voor tenuitvoerlegging vatbaar is.
+##### Article 81. Definition of “victims”
 
-##### Artikel 79. Bericht inzake tenuitvoerlegging
+1. Without prejudice to broader definitions under domestic law and for the purposes of this Part of the Convention:
 
-De tenuitvoerleggende staat die partij is bericht de veroordelende staat die partij is ten aanzien van de tenuitvoerlegging van de veroordeling:
+- a) “Victims” means natural persons who have suffered harm as a result of the commission of any crime to which this Convention applies;
 
-- a. wanneer hij de veroordeling beschouwt als geheel tenuitvoergelegd;
+- b) “Victims” may include organizations or institutions that have sustained direct harm to any of their property which is dedicated to religion, education, art, science or charitable purposes, or to their historic monuments, hospitals and other places and objects for humanitarian purposes.
 
-- b. indien de gevonniste persoon uit de detentie ontsnapt is vóór de beëindiging van de tenuitvoerlegging van de veroordeling; of
+2. This article shall be applied in accordance with domestic law.
 
-- c. indien de veroordelende staat die partij is om een bijzonder rapport verzoekt.
+##### Article 82. Protection of victims, witnesses, experts and other persons
 
-##### Artikel 80. Doortocht van gevonniste personen
+1. Each State Party shall take appropriate measures within its means to provide effective protection from potential retaliation or intimidation, including ill-treatment, to victims and witnesses and, as appropriate, their relatives or representatives, experts as well as any other persons participating in or cooperating with any investigation, prosecution or other proceedings within the scope of this Convention.
 
-1. Een staat die partij is geeft, in overeenstemming met zijn nationale recht, gehoor aan een verzoek om doortocht van een gevonniste persoon over haar grondgebied indien een daartoe strekkend verzoek door een andere staat die partij is gedaan en die staat met een andere staat die partij is of een derde staat is overeengekomen deze persoon van of naar zijn grondgebied over te brengen.
+2. Without prejudice to the rights of the defendant, including the right to due process, the measures referred to in paragraph 1 may include:
 
-2. Een staat die partij is kan doortocht weigeren indien de gevonniste persoon een van zijn onderdanen is.
+- a) Establishing procedures for the physical protection of the persons referred to in paragraph 1, such as, to the extent necessary and feasible, relocating them and permitting, where appropriate, non-disclosure or limitations on the disclosure of information concerning their identity and location;
 
-3. Verzoeken om doortocht en antwoorden daarop worden gecommuniceerd via een in [artikel 21, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=21&z=2024-02-15&g=2024-02-15), bedoeld communicatiekanaal.
+- b) Establishing procedures to allow victims, witnesses and experts to make a deposition in a manner that ensures their safety and, as appropriate, their physical and psychological well-being and privacy such as allowing the use of communication technologies.
 
-4. Een staat die partij is kan een verzoek om doortocht van een gevonniste persoon over haar grondgebied ingediend door een derde staat inwilligen indien die staat met een andere staat die partij is, is overeengekomen deze persoon van of naar haar grondgebied over te brengen.
+3. States Parties shall consider entering into agreements or arrangements with other States for the relocation of persons referred to in paragraph 1.
 
-5. De staat die partij is die verzocht wordt doortocht te verlenen mag de gevonniste persoon uitsluitend in hechtenis nemen gedurende de tijd die benodigd is voor de doortocht over zijn grondgebied.
+##### Article 83. Rights of victims
 
-6. De staat die partij is die verzocht wordt doortocht te verlenen kan gevraagd worden de verzekering te geven dat de gevonniste persoon niet zal worden vervolgd of, behoudens het bepaalde in het vijfde lid, in hechtenis zal worden gehouden of aan enige andere beperking van zijn persoonlijke vrijheid zal worden onderworpen op het grondgebied van de doortocht verlenende staat die partij is wegens een misdrijf begaan of veroordeling uitgesproken voorafgaand aan het vertrek van die persoon uit het grondgebied van de veroordelende staat die partij is.
+1. Each State Party shall, subject to its domestic law, ensure that the victims of a crime to which the State Party applies this Convention, have the right to reparation for harm consisting of but not limited to, as appropriate, restitution, compensation or rehabilitation insofar as either:
 
-7. Er is geen verzoek om doortocht vereist wanneer gebruik wordt gemaakt van luchtvervoer over het grondgebied van een staat die partij is en er geen landing is voorzien. Een staat die partij is kan vereisen in kennis te worden gesteld van een dergelijke doortocht over zijn grondgebied door de centrale autoriteiten van de staten die partij zijn, of, indien aan de voorwaarden van [artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15), is voldaan, de staat die is aangewezen om bijkomende tussentijdse steun te verlenen, in te lichten.
+- a) The crime has been committed in any territory under the jurisdiction of that State Party; or
 
-8. In geval van een ongeplande landing is [artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=IV&artikel=65&z=2024-02-15&g=2024-02-15), van overeenkomstige toepassing.
+- b) That State Party is exercising its jurisdiction over the crime.
 
-### DEEL VI. SLACHTOFFERS, GETUIGEN, DESKUNDIGEN EN ANDERE PERSONEN
+2. Each State Party shall, subject to its domestic law, establish procedures, as appropriate, to permit victims to participate in and enable views and concerns of victims to be presented and considered at appropriate stages of criminal proceedings against alleged offenders in a manner not prejudicial to the rights of the defendant.
 
-##### Artikel 81. Definitie van „slachtoffers”
+3. Each State Party shall, to the extent provided for in its domestic law and if so requested, give effect to a judgment or order in criminal proceedings, issued in accordance with the domestic law of the requesting State Party, to provide restitution, compensation or rehabilitation to victims of crimes to which it applies this Convention.
 
-1. Onverminderd ruimere definities in het nationale recht en voor de toepassing van dit Deel van het Verdrag:
+### PART VII. INSTITUTIONAL ARRANGEMENTS
 
-- a. wordt verstaan onder „slachtoffers” natuurlijke personen die schade hebben geleden als gevolg van enig gepleegd misdrijf waarop dit Verdrag van toepassing is;
+##### Article 84. Meeting of States Parties
 
-- b. kunnen onder „slachtoffers” mede worden begrepen organisaties of instellingen die rechtstreeks schade hebben geleden aan een van hun eigendommen die bestemd zijn voor godsdienst, onderwijs, kunst, wetenschap of charitatieve doeleinden, of aan hun historische monumenten, ziekenhuizen en andere plaatsen en objecten bestemd voor humanitaire doeleinden.
+1. A first Meeting of States Parties shall be convened, at the proposal of at least one third of the States Parties, after the expiration of five years from the date of entry into force of this Convention or two years after the date of deposit of the fifteenth instrument of ratification, acceptance or approval of or accession to this Convention, whichever is the later. Thereafter, Meetings of States Parties may be held at the proposal of at least one third of the States Parties or as decided by the Meeting of States Parties.
 
-2. Dit artikel wordt toegepast in overeenstemming met het nationale recht.
+2. At the Meeting of States Parties referred to in paragraph 1, the States Parties may:
 
-##### Artikel 82. Bescherming van slachtoffers, getuigen, deskundigen en andere personen
+- a) Consider any amendment to this Convention proposed in accordance with [article 87](https://wetten.overheid.nl/BWBV0007040) and any additional annexes proposed in accordance with [article 88](https://wetten.overheid.nl/BWBV0007040);
 
-1. Elke staat die partij is neemt passende maatregelen, binnen zijn mogelijkheden, om te zorgen voor doeltreffende bescherming tegen represailles of intimidatie, met inbegrip van wrede behandeling van slachtoffers en getuigen en, in voorkomend geval, hun familieleden of vertegenwoordigers, deskundigen, alsmede alle andere personen die deelnemen aan of meewerken aan onderzoek, vervolging of andere procedures die binnen het toepassingsgebied van dit Verdrag vallen.
+- b) Consider any other authentic texts of this Convention in an official language of the United Nations;
 
-2. Onverminderd de rechten van de verdachte, met inbegrip van het recht op een eerlijke rechtsgang, kunnen de in het eerste lid bedoelde maatregelen het volgende omvatten:
+- c) Consider the establishment of lean and cost-efficient institutional arrangements that are necessary to implement this Convention, including the activities provided for in [article 85](https://wetten.overheid.nl/BWBV0007040).
 
-- a. het voorzien in procedures voor de fysieke bescherming van de in het eerste lid bedoelde personen, waaronder, voor zover nodig en uitvoerbaar, het overbrengen naar een andere plaats van hen en waar passend, het verbieden van de bekendmaking of het toestaan van beperkingen ten aanzien van de verstrekking van informatie omtrent hun identiteit en verblijfplaats;
+3. Notwithstanding and without prejudice to in-person meetings of the Meeting of States Parties, in order to promote and encourage the widest possible participation and relevant communication and consultation between States Parties, any available means of electronic communication and video conferencing shall be used to the greatest extent possible, as appropriate.
 
-- b. het vaststellen van procedures om slachtoffers, getuigen en deskundigen in staat te stellen een verklaring af te leggen op een wijze die hun veiligheid en, in voorkomend geval, hun fysieke en psychologische welzijn en privacy waarborgt, zoals het toestaan van het gebruik van communicatietechnologieën.
+##### Article 85. Interim Support
 
-3. De staten die partij zijn, overwegen overeenkomsten of andere regelingen met andere staten aan te gaan ten behoeve van de overbrenging naar een andere plaats van de in het eerste lid bedoelde personen.
+1. The Kingdom of the Netherlands shall compile and make available the information for operational purposes, referred to in [article 21, paragraph 4](https://wetten.overheid.nl/BWBV0007040), as soon as practicable until two years after the date of deposit of the fifteenth instrument of ratification, acceptance or approval of or accession to this Convention.
 
-##### Artikel 83. Rechten van slachtoffers
+2. The Kingdom of the Netherlands may provide for additional interim support, including:
 
-1. Elke staat die partij is, draagt er zorg voor dat het slachtoffer van een misdrijf waarop de staat die partij is dit Verdrag toepast, in overeenstemming met zijn nationale recht, recht heeft op herstel dat bestaat uit maar niet beperkt is tot, naar gelang van het geval, restitutie, schadeloosstelling of rehabilitatie, voor zover:
+- a) Compiling and making available the information for operational purposes, referred to in [article 22, paragraph 2](https://wetten.overheid.nl/BWBV0007040); [article 40, paragraph 4](https://wetten.overheid.nl/BWBV0007040); [article 42, paragraph 5](https://wetten.overheid.nl/BWBV0007040); [article 74, paragraphs 2 and 5](https://wetten.overheid.nl/BWBV0007040), and [article 80, paragraph 7](https://wetten.overheid.nl/BWBV0007040);
 
-- a. het misdrijf is gepleegd op een grondgebied waarover de staat die partij is rechtsmacht heeft; of
+- b) Making arrangements for the first Meeting of States Parties, referred to in [article 84, paragraph 1](https://wetten.overheid.nl/BWBV0007040).
 
-- b. de staat die partij is zijn rechtsmacht uitoefent over het misdrijf.
+3. The additional interim support referred to in paragraph 2 may be provided depending on the availability of voluntary financial contributions from States Parties to cover related costs.
 
-2. Elke staat die partij is, stelt, in overeenstemming met zijn nationale recht, procedures vast, waar passend, om ervoor te zorgen dat de meningen en zorgen van slachtoffers naar voren worden gebracht en worden meegenomen in op passende momenten van de strafrechtelijke procedure tegen de verdachten, op een wijze die de rechten van de verdachte niet schaadt.
+### PART VIII. FINAL PROVISIONS
 
-3. Elke staat die partij is, geeft, voor zover op grond van zijn nationale recht mogelijk en indien daarom wordt verzocht, uitvoering aan een vonnis of bevel in strafprocedures, uitgevaardigd in overeenstemming met het nationale recht van de verzoekende staat die partij is, om slachtoffers van misdrijven waarop hij dit Verdrag toepast, teruggave, schadeloosstelling of rehabilitatie te verlenen.
+##### Article 86. Settlement of disputes
 
-### DEEL VII. INSTITUTIONELE REGELINGEN
+1. States Parties shall endeavor to settle disputes concerning the interpretation or application of this Convention through negotiation.
 
-##### Artikel 84. Vergadering van de staten die partij zijn
+2. Any dispute between two or more States Parties concerning the interpretation or application of this Convention that cannot be settled through negotiation within six months from the date of request for such settlement shall, at the request of one of those States Parties, be submitted to arbitration. If, six months after the date of the request for arbitration, those States Parties are unable to agree on the organization of the arbitration, any one of those States Parties may refer the dispute to the International Court of Justice by request in accordance with the Statute of the Court.
 
-1. Een eerste Vergadering van de staten die partij zijn wordt bijeengeroepen, op voorstel van ten minste een derde van de staten die partij zijn, na het verstrijken van vijf jaar na de datum van inwerkingtreding van dit Verdrag of twee jaar na de datum van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, naargelang van wat het laatst is. Daarna kunnen Vergaderingen van staten die partij zijn worden gehouden op voorstel van ten minste een derde van de staten die partij zijn of zoals besloten door de Vergadering van staten die partij zijn.
+3. Each State may, at the time of signature, ratification, acceptance or approval of or accession to this Convention, declare that it does not consider itself bound by paragraph 2. The other States Parties shall not be bound by paragraph 2 with respect to any State Party that has made such a reservation.
 
-2. Op de in het eerste lid bedoelde Vergadering van de staten die partij zijn, kunnen de staten die partij zijn:
+##### Article 87. Amendments to this Convention
 
-- a. elke overeenkomstig [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=87&z=2024-02-15&g=2024-02-15) voorgestelde wijziging van dit Verdrag en eventuele aanvullende bijlagen die in overeenstemming met [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=88&z=2024-02-15&g=2024-02-15) worden voorgesteld, overwegen;
+1. After the expiration of five years from the date of entry into force of this Convention or after the date of deposit of the fifteenth instrument of ratification, acceptance or approval of or accession to this Convention, whichever is the later, a State Party may propose an amendment to this Convention.
 
-- b. andere authentieke teksten van dit Verdrag in een officiële taal van de Verenigde Naties overwegen;
+2. Any proposal for an amendment shall be communicated to the Depositary, which shall circulate the proposal forthwith to all States Parties for the purpose of considering and deciding on the proposal at the next Meeting of States Parties. The Depositary shall also communicate the proposed amendment to acceding States and Signatories to this Convention.
 
-- c. het instellen van sobere en kostenefficiënte institutionele regelingen die nodig zijn voor de uitvoering van dit Verdrag, met inbegrip van de in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=85&z=2024-02-15&g=2024-02-15) bedoelde activiteiten overwegen.
+3. States Parties shall make every effort to reach agreement on any proposed amendment to this Convention by consensus. If all efforts at consensus have been exhausted, and no agreement has been reached, the amendment shall, as a last resort, require for its adoption a three-fourths majority vote of the States Parties present and voting at the Meeting of States Parties referred to in paragraph 2. For the purposes of this article, States Parties present and voting means States Parties present and casting an affirmative or negative vote.
 
-3. Niettegenstaande en onverminderd fysieke bijeenkomsten van de Vergadering van de staten die partij zijn, wordt, ter bevordering en aanmoediging van een zo breed mogelijke deelname en relevante communicatie en overleg tussen de staten die partij zijn, zoveel mogelijk gebruik gemaakt van alle beschikbare elektronische communicatiemiddelen en videoconferenties, naargelang van het geval.
+4. The Depositary shall communicate any adopted amendment to this Convention to States Parties, acceding States and Signatories to this Convention for ratification, acceptance, or approval.
 
-##### Artikel 85. Tussentijdse steun
+5. When amendments enter into force, they shall be binding on those States Parties which have consented to be bound by them. Other States Parties remain bound by the provisions of this Convention and any earlier amendment to which they have consented to be bound.
 
-1. Het Koninkrijk der Nederlanden zal de in [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=21&z=2024-02-15&g=2024-02-15), bedoelde informatie voor operationele doeleinden verzamelen en ter beschikking stellen, zo spoedig als redelijkerwijs mogelijk is tot twee jaar na de datum van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag.
+6. Any amendment shall enter into force on the first day of the month following the expiration of three months after the date of deposit of the third instrument of ratification, acceptance or approval. For each State Party ratifying, accepting, or approving the amendment after the deposit of the third instrument of ratification, acceptance or approval the amendment shall enter into force on the first day of the month following the expiration of three months after the date of deposit by such State of its instrument of ratification, acceptance or approval.
 
-2. Het Koninkrijk der Nederlanden kan voorzien in bijkomende tussentijdse steun, waaronder:
+##### Article 88. Adoption of additional annexes
 
-- a. het verzamelen en beschikbaar stellen van de informatie voor operationele doeleinden als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=22&z=2024-02-15&g=2024-02-15); [artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2024-02-15&g=2024-02-15); [artikel 42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2024-02-15&g=2024-02-15); [artikel 74, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=74&z=2024-02-15&g=2024-02-15), en [artikel 80, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=V&artikel=80&z=2024-02-15&g=2024-02-15);
+1. At any time after the expiration of five years from the date of entry into force of this Convention or after the date of deposit of the fifteenth instrument of ratification, acceptance or approval or accession, whichever is the later, any State Party may propose additional annexes to this Convention containing one or more crimes not listed in any other annex.
 
-- b. het treffen van regelingen voor de eerste Vergadering van de staten die partij, zoals bedoeld in [artikel 84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2024-02-15&g=2024-02-15).
+2. Additional annexes shall be proposed and adopted and shall enter into force according to the procedure under [article 87, paragraphs 2 to 6](https://wetten.overheid.nl/BWBV0007040).
 
-3. De in het tweede lid bedoelde bijkomende tussentijdse steun kan worden verleend afhankelijk van de beschikbaarheid van vrijwillige financiële bijdragen van de staten die partij zijn ter dekking van de daarmee verband houdende kosten.
+##### Article 89. Signature, ratification, acceptance, approval and accession
 
-### DEEL VIII. SLOTBEPALINGEN
+1. This Convention shall be open for signature by all States on 14 and 15 February 2024 at the Peace Palace in the Hague. Thereafter, it shall remain open for signature from 19 February 2024 until 14 February 2025 at the Federal Public Service Foreign Affairs, Foreign Trade and Development Cooperation of the Kingdom of Belgium in Brussels.
 
-##### Artikel 86. Beslechting van geschillen
+2. This Convention shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Depositary.
 
-1. De staten die partij zijn, spannen zich in geschillen betreffende de interpretatie of toepassing van dit Verdrag te beslechten door middel van onderhandeling.
+3. This Convention shall be open for accession by any State. Instruments of accession shall be deposited with the Depositary.
 
-2. Elk geschil tussen twee of meer staten die partij zijn betreffende de interpretatie of toepassing van dit Verdrag dat niet binnen zes maanden na een verzoek daartoe door onderhandelingen kan worden beslecht , wordt op verzoek van een van deze staten die partij zijn onderworpen aan arbitrage. Indien deze staten die partij zijn binnen zes maanden na de datum van het verzoek om arbitrage er niet in zijn geslaagd overeenstemming te bereiken over de organisatie van de arbitrage, kan ieder van deze staten die partij zijn het geschil voorleggen aan het Internationaal Gerechtshof door middel van een verzoek overeenkomstig het [Statuut van het Hof](onbekend).
+##### Article 90. Entry into force
 
-3. Elke staat kan, bij de ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, verklaren zich niet gebonden te achten door het tweede lid van dit artikel. De overige staten die partij zijn, zijn tegenover een staat die partij is die dit voorbehoud heeft gemaakt niet gebonden door het tweede lid.
+1. This Convention shall enter into force on the first day of the month following the expiration of three months after the date of deposit of the third instrument of ratification, acceptance, approval or accession.
 
-##### Artikel 87. Wijzigingen van dit Verdrag
+2. For each State ratifying, accepting, approving or acceding to this Convention after the deposit of the third instrument of ratification, acceptance, approval or accession, this Convention shall enter into force on the first day of the month following the expiration of three months after the date of deposit by such State of its instrument of ratification, acceptance, approval or accession.
 
-1. Na het verstrijken van vijf jaar na de datum van inwerkingtreding van dit Verdrag of na de datum van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, naargelang van wat het laatst is, kan een staat die partij is een voorstel tot wijziging van dit Verdrag doen.
+3. Any declaration referred to in [article 2, paragraph 2](https://wetten.overheid.nl/BWBV0007040), made at the time of ratification, acceptance or approval of or accession to this Convention shall take effect on the date of entry into force of this Convention for the State concerned, in accordance with paragraph 1 or 2.
 
-2. Elk voorstel tot wijziging wordt medegedeeld aan de depositaris, die het voorstel onverwijld aan alle staten die partij zijn toezendt met het oog op de bestudering van en een besluit over het voorstel tijdens de eerstvolgende Vergadering van de staten die partij zijn. De depositaris deelt ook de voorgestelde wijziging mee aan de toetredende staten en de ondertekenaars van dit Verdrag.
+4. Any declaration referred to in [article 2, paragraph 2](https://wetten.overheid.nl/BWBV0007040), made after ratification, acceptance or approval or accession, but before the entry into force of this Convention, shall take effect on the date of entry into force of this Convention for the State concerned, in accordance with paragraph 1 or 2 or, if this Convention has already entered into force with regard to this State, on the first day of the month following the expiration of three months after the date of receipt of the declaration by the Depositary.
 
-3. De staten die partij zijn stellen alles in het werk om over elke voorgestelde wijziging van dit Verdrag consensus te bereiken. Indien alle pogingen om consensus te bereiken zijn mislukt en er geen overeenstemming wordt bereikt, wordt de wijziging in laatste instantie aangenomen met een drie vierde meerderheid van de staten die partij zijn die aanwezig zijn en hun stem uitbrengen tijdens de in het tweede lid bedoelde Vergadering van de staten die partij zijn. Voor de toepassing van dit artikel wordt onder staten die partij zijn die aanwezig zijn en die hun stem uitbrengen verstaan staten die partij zijn die aanwezig zijn en een voor- of tegenstem uitbrengen.
+5. This Convention shall apply to any request presented after the date of entry into force of this Convention or, where later, the relevant annex, for the States Parties concerned, including where the relevant acts or omissions occurred before that date. Any State may, at the time of signature, ratification, acceptance or approval of or accession to this Convention or, where applicable, at the time of notification to the Depositary that it shall also apply one or more annexes to this Convention, deposit a declaration with the Depositary reserving its right not to apply this Convention to requests relating to acts or omissions that occurred before the date indicated by that State Party, provided that this date is no later than the entry into force of this Convention or the relevant annex for that State Party.
 
-4. De depositaris deelt alle aangenomen wijzigingen van dit Verdrag mee aan de staten die partij zijn, toetredende staten en ondertekenaars van dit Verdrag ten behoeve van de bekrachtiging, aanvaarding of goedkeuring.
+##### Article 91. Provisional application
 
-5. Wanneer wijzigingen van kracht worden, zijn zij bindend voor de staten die partij zijn en die het feit dat zij ermee instemmen erdoor gebonden te worden tot uitdrukking hebben gebracht. De andere staten die partij zijn, blijven gebonden door de bepalingen van dit Verdrag en door alle eerdere wijzigingen waarmee zij hebben ingestemd er door te worden gebonden.
+1. Any State may, at the time of signature, declare that it shall provisionally apply this Convention or any Part thereof, pending the entry into force of this Convention for that State.
 
-6. Een wijziging treedt in werking op de eerste dag van de maand die volgt op het verstrijken van drie maanden na de nederlegging van de derde akte van bekrachtiging, aanvaarding of goedkeuring. Ten aanzien van iedere staat die partij is die de wijziging bekrachtigt, aanvaardt of goedkeurt na de nederlegging van de derde akte van bekrachtiging aanvaarding of goedkeuring, treedt de wijziging in werking op de eerste dag van de maand die volgt op het verstrijken van drie maanden na de datum van de nederlegging door de betreffende staat van zijn akte van bekrachtiging, aanvaarding, of goedkeuring.
+2. Requests for cooperation from States that are provisionally applying this Convention may be refused by States Parties that have not made a declaration under paragraph 1 prior to becoming a State Party to this Convention.
 
-##### Artikel 88. Aanneming van aanvullende bijlagen
+3. Any signatory State may terminate its provisional application of this Convention by written notification to the Depositary. Termination of the provisional application of this Convention shall take effect on the first day of the month following the date of receipt of the notification by the Depositary. The termination shall not affect the obligations of that State under this Convention regarding requests pursuant to this Convention made prior to the termination of the provisional application.
 
-1. Te allen tijde na het verstrijken van vijf jaar na de datum van inwerkingtreding van dit Verdrag of na de datum van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding of goedkeuring of toetreding, naargelang van wat het laatst is, kan een staat die partij is aanvullende bijlagen bij dit Verdrag voorstellen die een of meer misdrijven bevatten die niet in een andere bijlage zijn vermeld.
+##### Article 92. Reservations
 
-2. Aanvullende bijlagen worden voorgesteld en aangenomen en treden in werking volgens de procedure van [artikel 87, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=87&z=2024-02-15&g=2024-02-15).
+1. No reservations may be made to this Convention other than those provided for in this article.
 
-##### Artikel 89. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+2. A State may, at the time of signature, ratification, acceptance or approval of or accession to this Convention, formulate a reservation to [article 39](https://wetten.overheid.nl/BWBV0007040), [article 40](https://wetten.overheid.nl/BWBV0007040) or [article 42](https://wetten.overheid.nl/BWBV0007040), as well as a reservation as expressly provided for in [article 86, paragraph 3](https://wetten.overheid.nl/BWBV0007040), or [article 90, paragraph 5](https://wetten.overheid.nl/BWBV0007040).
 
-1. Dit Verdrag staat op 14 en 15 februari 2024 open voor ondertekening door alle staten in het Vredespaleis in Den Haag. Daarna blijft het van 19 februari 2024 tot en met 14 februari 2025 openstaan voor ondertekening bij de Federale Overheidsdienst Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking van het Koninkrijk België in Brussel.
+3. A State may, at the time of signature, ratification, acceptance or approval of or accession to this Convention, formulate a reservation, for renewable periods of three years, based on grounds existing in its domestic law and in accordance with its obligations under international law, limiting the establishment of its jurisdiction under [article 8, paragraph 3](https://wetten.overheid.nl/BWBV0007040).
 
-2. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. Akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de depositaris.
+4. Any State that has formulated a reservation in accordance with paragraph 2 or 3 may, at any time, withdraw that reservation by notification to the Depositary.
 
-3. Dit Verdrag staat open voor toetreding door alle staten. Akten van toetreding dienen te worden nedergelegd bij de depositaris.
+##### Article 93. Withdrawal
 
-##### Artikel 90. Inwerkingtreding
+1. A State Party may withdraw from this Convention by notifying the Depositary.
 
-1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van drie maanden na de nederlegging van de derde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+2. A withdrawal shall become effective one year after the date of receipt of the notification by the Depositary, or on such later date as may be specified in the notification of withdrawal.
 
-2. Ten aanzien van iedere staat die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de derde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van drie maanden na de datum van de nederlegging door de betreffende staat van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+3. A withdrawal shall not affect the obligations of that State under this Convention regarding requests pursuant to this Convention made prior to the date on which the withdrawal becomes effective in accordance with paragraph 2.
 
-3. Elke verklaring bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), die wordt afgelegd op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, wordt van kracht op de datum van inwerkingtreding van dit Verdrag voor de betrokken staat, in overeenstemming met het eerste of tweede lid.
+4. A State Party may withdraw a declaration referred to in [article 2, paragraph 2](https://wetten.overheid.nl/BWBV0007040), by notifying the Depositary. Such withdrawal shall become effective in accordance with the procedure referred to in paragraphs 2 and 3.
 
-4. Elke verklaring bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), die is afgelegd na bekrachtiging, aanvaarding of goedkeuring of toetreding, maar vóór de inwerkingtreding van dit Verdrag, wordt van kracht op de datum van inwerkingtreding van dit Verdrag voor de betrokken staat, overeenkomstig het eerste of tweede lid of, indien dit Verdrag ten aanzien van deze staat reeds in werking is getreden, op de eerste dag van de maand die volgt op het verstrijken van drie maanden na de datum van ontvangst van de verklaring door de depositaris.
+##### Article 94. Depositary and languages
 
-5. Dit Verdrag is van toepassing op elk verzoek dat wordt ingediend na de datum van inwerkingtreding van dit Verdrag of, indien later, de desbetreffende bijlage voor de betrokken staten die partij zijn, ook indien het desbetreffende handelen of nalaten te handelen zich vóór die datum hebben voorgedaan. Elke staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag of, in voorkomend geval, op het tijdstip van kennisgeving aan de depositaris dat hij ook een of meer bijlagen bij dit Verdrag toepast, bij de depositaris een verklaring neerleggen waarin hij zich het recht voorbehoudt dit Verdrag niet toe te passen op verzoeken in verband met handelen of nalaten te handelen dat zich heeft voorgedaan vóór de door die staat die partij is aangegeven datum, mits deze datum niet later is dan de inwerkingtreding van dit Verdrag of de desbetreffende bijlage voor die staat die partij is.
+1. The Kingdom of Belgium shall act as Depositary of this Convention and any amendments thereto.
 
-##### Artikel 91. Voorlopige toepassing
+2. The original version of this Convention, of which the English, French and Spanish texts are equally authentic, as well as any other authentic texts of this Convention referred to in [article 84, paragraph 2, subparagraph (b)](https://wetten.overheid.nl/BWBV0007040), shall be deposited with the Depositary.
 
-1. Elke staat kan op het tijdstip van ondertekening verklaren dat hij dit Verdrag of een deel daarvan voorlopig zal toepassen, in afwachting van de inwerkingtreding van dit Verdrag voor die staat.
+3. The Depositary shall:
 
-2. Verzoeken om samenwerking van staten die dit Verdrag voorlopig toepassen kunnen worden geweigerd door staten die partij zijn die geen verklaring ingevolge het eerste lid hebben afgelegd alvorens een staat die partij is bij dit Verdrag te zijn geworden.
+- a) Keep custody of the original texts and any other authentic texts of this Convention referred to in [article 84, paragraph 2, subparagraph (b)](https://wetten.overheid.nl/BWBV0007040);
 
-3. Elke ondertekenende staat kan de voorlopige toepassing van dit Verdrag beëindigen door middel van een schriftelijke kennisgeving aan de depositaris. De beëindiging van de voorlopige toepassing van dit Verdrag wordt van kracht op de eerste dag van de maand volgende op de datum van ontvangst van de kennisgeving door de depositaris. De beëindiging doet geen afbreuk aan de verplichtingen van die staat uit hoofde van dit Verdrag met betrekking tot verzoeken uit hoofde van dit Verdrag die zijn gedaan vóór de beëindiging van de voorlopige toepassing.
+- b) Prepare certified true copies of the original texts and any other authentic texts of this Convention referred to in [article 84, paragraph 2, subparagraph (b)](https://wetten.overheid.nl/BWBV0007040), and transmit these to the States Parties, and, upon request, to the States entitled to become parties to this Convention;
 
-##### Artikel 92. Voorbehouden
+- c) Register this Convention with the Secretariat of the United Nations in accordance with [article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-1. Bij dit Verdrag mogen geen andere voorbehouden worden gemaakt dan die waarin dit artikel voorziet.
+4. The Depositary shall notify the States Parties, acceding States and Signatories of:
 
-2. Een staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag een voorbehoud maken bij [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=39&z=2024-02-15&g=2024-02-15), [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=40&z=2024-02-15&g=2024-02-15) of [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=III&artikel=42&z=2024-02-15&g=2024-02-15), alsmede een voorbehoud als uitdrukkelijk bepaald in [artikel 86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=86&z=2024-02-15&g=2024-02-15), of [artikel 90, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=90&z=2024-02-15&g=2024-02-15).
+- a) Any declaration extending the scope of this Convention to the crime or crimes listed in any annex to this Convention, in accordance with [article 2, paragraph 2](https://wetten.overheid.nl/BWBV0007040);
 
-3. Een staat kan, op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag, voor verlengbare termijnen van drie jaar een voorbehoud maken op grond van zijn nationale recht en in overeenstemming met zijn verplichtingen uit hoofde van het internationaal recht, waardoor de vestiging van zijn rechtsmacht uit hoofde van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=8&z=2024-02-15&g=2024-02-15), wordt beperkt.
+- b) Any notifications defining the term “nationals” made in accordance with [article 9](https://wetten.overheid.nl/BWBV0007040);
 
-4. Een staat die een voorbehoud heeft gemaakt in overeenstemming met het tweede of derde lid, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de depositaris.
+- c) Any notification concerning the designation of a central authority, in accordance with [article 20, paragraph 5](https://wetten.overheid.nl/BWBV0007040);
 
-##### Artikel 93. Opzegging
+- d) Any notification concerning the channel of communication, in accordance with [article 21, paragraph 2](https://wetten.overheid.nl/BWBV0007040);
 
-1. Een staat die partij is kan dit Verdrag opzeggen door de depositaris daarvan in kennis te stellen.
+- e) Any notification concerning the settlement of disputes, in accordance with [article 86, paragraph 3](https://wetten.overheid.nl/BWBV0007040);
 
-2. Een opzegging wordt van kracht een jaar na de datum van ontvangst door de depositaris van de kennisgeving of op een latere datum te vermelden in de kennisgeving van de opzegging.
+- f) The deposit of any instruments of ratification, acceptance or approval of or accession to an amendment to this Convention and the dates of entry into force of that amendment for the States Parties concerned, in accordance with [article 87, paragraph 6](https://wetten.overheid.nl/BWBV0007040);
 
-3. Een opzegging doet geen afbreuk aan de verplichtingen van die staat uit hoofde van dit Verdrag met betrekking tot verzoeken die overeenkomstig dit Verdrag zijn gedaan vóór de datum waarop de opzegging van kracht wordt overeenkomstig het tweede lid.
+- g) The deposit of any instruments of ratification, acceptance, approval or accession, in accordance with [article 89](https://wetten.overheid.nl/BWBV0007040);
 
-4. Een staat die partij is kan een in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15), bedoelde verklaring intrekken door de depositaris daarvan in kennis te stellen. Deze terugtrekking wordt van kracht in overeenstemming met de in het tweede en derde lid bedoelde procedure.
+- h) The date of entry into force of this Convention, in accordance with [article 90, paragraph 1](https://wetten.overheid.nl/BWBV0007040);
 
-##### Artikel 94. Depositaris en talen
+- i) After the entry into force of this Convention, the date of entry into force of this Convention for the States Parties concerned, in accordance with [article 90, paragraph 2](https://wetten.overheid.nl/BWBV0007040);
 
-1. Het Koninkrijk België treedt op als depositaris van dit Verdrag en de wijzigingen daarvan.
+- j) Any declarations stating the provisional application of this Convention, in accordance with [article 91, paragraph 1](https://wetten.overheid.nl/BWBV0007040);
 
-2. Het origineel van dit Verdrag, waarvan de Engelse, de Franse en de Spaanse tekst gelijkelijk authentiek zijn, alsmede eventuele andere authentieke teksten van dit Verdrag bedoeld in [artikel 84, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2024-02-15&g=2024-02-15), wordt nedergelegd bij de depositaris.
+- k) Any notifications regarding the termination of the provisional application of this Convention, in accordance with [article 91, paragraph 3](https://wetten.overheid.nl/BWBV0007040);
 
-3. De depositaris:
+- l) Any reservations in accordance with [article 92](https://wetten.overheid.nl/BWBV0007040);
 
-- a. bewaart de originele teksten en andere authentieke teksten van dit Verdrag bedoeld in [artikel 84, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2024-02-15&g=2024-02-15);
-
-- b. bereidt voor eensluidend gewaarmerkte afschriften van de oorspronkelijke teksten en van andere authentieke teksten van dit Verdrag, bedoeld in [artikel 84, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VII&artikel=84&z=2024-02-15&g=2024-02-15), voor en zendt deze toe aan de staten die partij zijn bij dit Verdrag en, op verzoek, aan de staten die gerechtigd zijn partij te worden bij dit Verdrag;
-
-- c. registreert dit Verdrag bij de Verenigde Naties overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-4. De depositaris stelt de staten die partij zijn, toetredende staten en ondertekenaars in kennis van:
-
-- a. elke verklaring die de reikwijdte van dit Verdrag uitbreidt tot het misdrijf of de misdrijven genoemd in een bijlage bij dit Verdrag, in overeenstemming met [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=2&z=2024-02-15&g=2024-02-15);
-
-- b. elke kennisgeving waarin het begrip „onderdanen” wordt omschreven, gedaan in overeenstemming met [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=I&artikel=9&z=2024-02-15&g=2024-02-15);
-
-- c. elke kennisgeving betreffende de aanwijzing van een centrale autoriteit, in overeenstemming met [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=20&z=2024-02-15&g=2024-02-15);
-
-- d. elke kennisgeving betreffende het communicatiekanaal, in overeenstemming met [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=II&artikel=21&z=2024-02-15&g=2024-02-15);
-
-- e. elke kennisgeving betreffende de beslechting van geschillen, in overeenstemming met [artikel 86, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=86&z=2024-02-15&g=2024-02-15);
-
-- f. de nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring van of toetreding tot een wijziging van dit Verdrag en de data van inwerkingtreding van die wijziging voor de betrokken staten die partij zijn, overeenkomstig [artikel 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=87&z=2024-02-15&g=2024-02-15);
-
-- g. de nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, in overeenstemming met [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=89&z=2024-02-15&g=2024-02-15);
-
-- h. de datum van inwerkingtreding van dit Verdrag , in overeenstemming met [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=90&z=2024-02-15&g=2024-02-15);
-
-- i. na de inwerkingtreding van dit Verdrag, de datum van inwerkingtreding van dit Verdrag voor de betrokken staten die partij zijn, in overeenstemming met [artikel 90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=90&z=2024-02-15&g=2024-02-15);
-
-- j. elke verklaring betreffende de voorlopige toepassing van dit Verdrag, in overeenstemming met [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=91&z=2024-02-15&g=2024-02-15);
-
-- k. elke kennisgeving betreffende de beëindiging van de voorlopige toepassing van dit Verdrag, in overeenstemming met [artikel 91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=91&z=2024-02-15&g=2024-02-15);
-
-- l. elk voorbehoud in overeenstemming met [artikel 92](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=92&z=2024-02-15&g=2024-02-15);
-
-- m. elke verklaring van opzegging in overeenstemming met [artikel 93, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007040&deel=VIII&artikel=93&z=2024-02-15&g=2024-02-15).
+- m) Any notifications of withdrawal in accordance with [article 93, paragraphs 1 and 4](https://wetten.overheid.nl/BWBV0007040).
 
 IN WITNESS WHEREOF, the undersigned plenipotentiaries, being duly authorized thereto by their respective Governments, have signed this Convention.
 

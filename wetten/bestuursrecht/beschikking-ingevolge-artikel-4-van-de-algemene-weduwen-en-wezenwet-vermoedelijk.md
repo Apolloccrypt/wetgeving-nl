@@ -8,7 +8,7 @@ laatste_update: 1996-11-28
 status: geldig
 toestand: 1996-11-28
 bron: "https://wetten.overheid.nl/BWBR0002321"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Beschikking ingevolge artikel 4 van de Algemene Weduwen- en Wezenwet (vermoedelijk overlijden)

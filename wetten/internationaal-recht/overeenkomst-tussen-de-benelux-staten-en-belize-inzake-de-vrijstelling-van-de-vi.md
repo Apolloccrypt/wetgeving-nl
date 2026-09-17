@@ -1,39 +1,18 @@
 ---
 title: "Overeenkomst tussen de Benelux-Staten en Belize inzake de vrijstelling van de visumplicht voor houders van geldige diplomatieke paspoorten"
 identifier: "BWBV0007099"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-05-06"
-last_updated: "2025-05-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007099"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10005705913"
-version_id: "10006303802"
-internal_id: "C10010195721"
-label_id: "10005687364"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007099/2025-05-06/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0007099&z=2025-05-06&g=2025-05-06"
-jci_1_0: "1.0:c:BWBV0007099&g=2025-05-06"
-citeertitel_status: "redactioneel"
+laatste_update: 2025-05-06
+status: geldig
+toestand: 2025-05-06
+bron: "https://wetten.overheid.nl/BWBV0007099"
+opgehaald: 2026-09-17
 ---
+
 # Overeenkomst tussen de Benelux-Staten en Belize inzake de vrijstelling van de visumplicht voor houders van geldige diplomatieke paspoorten
 
-**Preambule**
-
-Belize en de Benelux-Staten (die hierna gezamenlijk worden aangeduid als de „Partijen” en afzonderlijk als een „Partij”),
-
-In het besef dat de Benelux-Staten gezamenlijk optreden op basis van de [Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied](https://wetten.overheid.nl/jci1.3:c:BWBV0005246), die op 11 april 1960 in Brussel werd ondertekend;
-
-Overwegend het belang van de Partijen om hun vriendschappelijke betrekkingen te versterken;
-
-Verlangende de onderdanen van Belize en de onderdanen van de Benelux-Staten die houder zijn van geldige diplomatieke paspoorten makkelijker toegang te geven tot hun onderscheiden landen;
-
-Bereid een Overeenkomst te sluiten inzake de vrijstelling van de visumplicht voor houders van geldige diplomatieke paspoorten;
-
-Komen hierbij het volgende overeen:
+*Preambule Belize en de Benelux-Staten (die hierna gezamenlijk worden aangeduid als de „Partijen” en afzonderlijk als een „Partij”), In het besef dat de Benelux-Staten gezamenlijk optreden op basis van de Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied, die op 11 april 1960 in Brussel werd ondertekend; Overwegend het belang van de Partijen om hun vriendschappelijke betrekkingen te versterken; Verlangende de onderdanen van Belize en de onderdanen van de Benelux-Staten die houder zijn van geldige diplomatieke paspoorten makkelijker toegang te geven tot hun onderscheiden landen; Bereid een Overeenkomst te sluiten inzake de vrijstelling van de visumplicht voor houders van geldige diplomatieke paspoorten; Komen hierbij het volgende overeen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -47,9 +26,9 @@ Tenzij uit de context anders blijkt, wordt in deze Overeenkomst verstaan onder:
 
 - 4. „Grondgebied”:
 
-- –. voor Belize: het grondgebied van Belize;
+   - – voor Belize: het grondgebied van Belize;
 
-- –. voor de Benelux-Staten: de grondgebieden in Europa van de Benelux-Staten.
+   - – voor de Benelux-Staten: de grondgebieden in Europa van de Benelux-Staten.
 
 ##### Artikel 2. Bevoegde autoriteiten
 
@@ -137,20 +116,20 @@ Deze Overeenkomst kan door elke Partij worden opgeschort. Van de opschorting wor
 
 TEN BLIJKE WAARVAN de ondergetekenden, die daartoe naar behoren zijn gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend.
 
-GEDAAN te Brussel, op 6 mei 2025, in één oorspronkelijk exemplaar, in de Engelse, Nederlandse en Franse taal. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
+GEDAAN te Brussel, op 6 mei 2025, in één oorspronkelijk exemplaar, in de Engelse, Nederlandse en Franse taal. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor Belize,**
+*Voor Belize,*
 
 G. AVILA
 
-**Voor het Koninkrijk België,**
+*Voor het Koninkrijk België,*
 
 J. SALDEN
 
-**Voor het Groothertogdom Luxemburg,**
+*Voor het Groothertogdom Luxemburg,*
 
 J.-L. THILL
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 B. SCHWACHÖFER

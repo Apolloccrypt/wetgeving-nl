@@ -1,441 +1,412 @@
 ---
 title: "Verdrag tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Regering van de Franse Republiek, de Regering van de Bondsrepubliek Duitsland en de Regering van de Italiaanse Republiek tot oprichting van een Gezamenlijke Organisatie voor Samenwerking op Defensie-materieelgebied (Organisation Conjointe de Coopération en matière d'Armement) OCCAR"
 identifier: "BWBV0007054"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-09-09"
-last_updated: "1998-09-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007054"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005661813"
-version_id: "10006241582"
-internal_id: "C10010092991"
-label_id: "10005646614"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007054/1998-09-09/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0007054&z=1998-09-09&g=1998-09-09"
-jci_1_0: "1.0:c:BWBV0007054&g=1998-09-09"
-citeertitel_status: "redactioneel"
+laatste_update: 1998-09-09
+status: geldig
+toestand: 1998-09-09
+bron: "https://wetten.overheid.nl/BWBV0007054"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Regering van de Franse Republiek, de Regering van de Bondsrepubliek Duitsland en de Regering van de Italiaanse Republiek tot oprichting van een Gezamenlijke Organisatie voor Samenwerking op Defensie-materieelgebied (Organisation Conjointe de Coopération en matière d'Armement) OCCAR
 
-De Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
+*The Government of the United Kingdom of Great Britain and Northern Ireland, The Government of the French Republic, The Government of the Federal Republic of Germany and The Government of the Italian Republic – Wishing to increase their armaments cooperation in order to improve efficiency and reduce costs, – Considering that the attainment of the best ratio between cost (understood as life cycle cost) and efficiency for current and future co-operative programmes is an absolute necessity; and that to this end, new programme management methods must be developed and optimised, procedures for the granting of contracts made more effective, and the creation of transnational and truly integrated industrial prime contractors encouraged, – Wishing to achieve co-ordination of their long term requirements, wherever military imperatives allow this, as well as a common technology investment programme, based on the principles of complementarity, reciprocity and balance, – Deeming it necessary, in cooperative programmes, in order to improve the competitiveness of the European defence technological and industrial base, to take advantage of their industrial poles of excellence, to promote links between companies, and for competition to be organised in accordance with uniform rules adopted in accordance with the provisions of this Convention, – Convinced that a strengthening of their co-operation in defence equipment will contribute to the establishment of a European security and defence identity and is a practical step towards the creation of a European Armaments Agency, – Wishing to associate other European states which accept all the provisions of this Convention, Have agreed as follows:*
 
-de Regering van de Franse Republiek,
+### CHAPTER I. GENERAL PROVISIONS
 
-de Regering van de Bondsrepubliek Duitsland,
+##### Article 1
 
-en de Regering van de Italiaanse Republiek,
+A European organisation, the ‘‘Organisation for Joint Armament Cooperation’’ (Organisation Conjointe de Coopération en matière d’Armement (OCCAR)) is hereby established.
 
-Geleid door de wens de samenwerking op defensiematerieelgebied te versterken teneinde de doelmatigheid te verhogen en de kosten te verlagen,
+##### Article 2
 
-Overwegende dat het dringend noodzakelijk is te komen tot een zo gunstig mogelijke verhouding tussen de kosten (te verstaan als levensduurkosten) en de doelmatigheid bij de huidige en toekomstige samenwerkingsprojecten; dat hiertoe nieuwe projectmanagementmethoden moeten worden ontwikkeld en geoptimaliseerd, dat de doeltreffendheid van de procedures voor de gunning van contracten moet worden vergroot, en dat de totstandkoming van daadwerkelijk geïntegreerde multinationale groepen van industriële hoofdcontractanten moet worden gestimuleerd;
+The members of OCCAR, hereinafter referred to as the ‘‘Member States’’, are those States which become parties to this Convention in accordance with the provisions of Chapter XV.
 
-Verlangende te komen tot een coördinatie van hun behoeftestellingen op lange termijn, wanneer de militaire behoeften dat toelaten, alsmede tot een gemeenschappelijk technologie-investeringsbeleid, waarbij de beginselen van complementariteit, wederkerigheid en evenwicht in acht worden genomen;
+##### Article 3
 
-Overtuigd van de noodzaak bij gezamenlijke projecten de concurrentie te verbeteren overeenkomstig de in overeenstemming met dit Verdrag aangenomen uniforme regels, teneinde de concurrentiepositie van de Europese defensie-technologische en industriële basis te verbeteren, optimaal gebruik te maken van hun leidende industrieën en een nauwere relatie tussen hun ondernemingen te bevorderen;
+The headquarters of OCCAR shall be in Bonn, Federal Republic of Germany.
 
-Ervan overtuigd dat een nauwere samenwerking op defensiematerieelgebied bijdraagt tot de ontwikkeling van een Europese veiligheids- en defensie-identiteit en een nuttige stap is op weg naar de oprichting van een Europees defensiematerieelagentschap;
+##### Article 4
 
-Verlangende dit Verdrag open te stellen voor toetreding door andere Europese staten, mits deze staten de hierin genoemde bepalingen aanvaarden,
+The official languages of OCCAR shall be English, French, German and Italian.
 
-zijn het volgende overeengekomen:
+### CHAPTER II. OBJECTIVES OF COOPERATION AND THE ROLE OF OCCAR
 
-### HOOFDSTUK I. ALGEMENE BEPALINGEN
+##### Article 5
 
-##### Artikel 1
+To enable a strengthening of the competitiveness of the European defence technological and industrial base, the Member States renounce, in their cooperation, the analytical calculation of industrial juste retour on a programme-by-programme basis, and replace it by the pursuit of an overall multi-programme/multi-year balance. Transparency shall be ensured by annual progress reports for each programme. During an initial period, the transitional provisions in Annex III shall apply.
 
-Opgericht wordt een Europese organisatie genaamd ,,Gezamenlijke Organisatie voor Samenwerking op Defensiematerieelgebied’’ (Organisation Conjointe de Coopération en matière d’Armement (OCCAR)).
+This cooperation will enhance the creation, between Member States, of genuine industrial and technological complementarity in the relevant fields, thereby guaranteeing support for their armed forces under all circumstances, in both the short and medium term.
 
-##### Artikel 2
+##### Article 6
 
-De leden van de OCCAR, hierna genoemd de ,,lidstaten’’, zijn Partij bij dit Verdrag in overeenstemming met de bepalingen van hoofdstuk XV.
+When meeting the requirements of its armed forces, each Member State shall give preference to equipment in whose development it has participated within OCCAR.
 
-##### Artikel 3
+##### Article 7
 
-Het hoofdkwartier van de OCCAR is gevestigd te Bonn, Bondsrepubliek Duitsland.
+OCCAR shall coordinate, control and implement those armament programmes that are assigned to it by Member States, and coordinate and promote joint activities for the future, thereby improving the effectiveness of project management in collaborative projects, in terms of cost, schedule and performance.
 
-##### Artikel 4
+##### Article 8
 
-De officiële talen van de OCCAR zijn het Frans, het Duits, het Engels en het Italiaans.
+OCCAR shall fulfil the following tasks, and such other functions as the Member States may assign to it:
 
-### HOOFDSTUK II. DOELSTELLINGEN VOOR SAMENWERKING EN TAKEN VAN DE OCCAR
+- a) management of current and future cooperative programmes, which may include configuration control and in-service support, as well as research activities;
 
-##### Artikel 5
+- b) management of those national programmes of Member States that are assigned to it;
 
-Teneinde de concurrentiepositie van de Europese defensietechnologische en -industriële basis te versterken, zien de lidstaten – op de samenwerkingsgebieden – af van het principe van analytische berekening van evenredige deelneming per project en wordt dit vervangen door het streven naar een globaal evenwicht over meerdere jaren en tussen verschillende projecten. De doorzichtigheid wordt gewaarborgd door de jaarlijkse opstelling van voortgangsrapporten voor elk van de lopende projecten. In een eerste fase zijn de in Bijlage III opgenomen overgangsbepalingen van toepassing.
+- c) preparation of common technical specifications for the development and procurement of jointly defined equipment;
 
-Met deze samenwerking wordt de totstandkoming van een daadwerkelijke onderlinge industriële en technologische complementariteit op de desbetreffende gebieden beoogd, die zowel op korte als middellange termijn, ongeacht de omstandigheden, borg staat voor de ondersteuning van de krijgsmacht.
+- d) coordination and planning of joint research activities as well as, in cooperation with appropriate military staffs, studies of technical solutions to meet future operational requirements;
 
-##### Artikel 6
+- e) coordination of national decisions concerning the common industrial base and common technologies;
 
-Bij de vervulling van de materieelbehoefte van zijn strijdkrachten zal elk van de lidstaten de voorkeur geven aan het materieel aan de ontwikkeling waarvan hij in OCCAR-verband heeft bijgedragen.
+- f) coordination of both capital investments and the use of test facilities.
 
-##### Artikel 7
+### CHAPTER III. GENERAL ORGANISATION
 
-Het is de taak van de OCCAR de door de lidstaten aan haar toegewezen materieelprojecten te coördineren, te leiden en te doen uitvoeren, alsmede gezamenlijke op de toekomst gerichte activiteiten te coördineren en te bevorderen, waardoor de doelmatigheid van het projectmanagement van de samenwerkingsprojecten uit oogpunt van kosten, tijdsduur en resultaat wordt verbeterd.
+##### Article 9
 
-##### Artikel 8
+OCCAR consists of the Board of Supervisors (BoS), and the Executive Administration (EA).
 
-De OCCAR verricht de volgende taken, alsook alle andere functies die haar kunnen worden opgedragen door de lidstaten:
+### CHAPTER IV. THE BOARD OF SUPERVISORS
 
-- a. management van de lopende en toekomstige samenwerkingsprojecten, met inbegrip van het beheer van de ingebruikneming en de ondersteuning tijdens de gebruiksfase, alsook onderzoeksactiviteiten;
+##### Article 10
 
-- b. projectmanagement van de aan haar opgedragen nationale projecten van de lidstaten;
+The BoS shall be the highest decision-making level within OCCAR.
 
-- c. opstelling van gemeenschappelijke technische specificaties voor de ontwikkeling en verwerving van gezamenlijk gedefinieerde materieel;
+##### Article 11
 
-- d. afstemming en planning van gezamenlijke onderzoeksactiviteiten en, in samenwerking met de betrokken militaire staven, bestudering van technische oplossingen die tegemoet komen aan de toekomstige operationele behoefte;
+The BoS shall direct and supervise the EA and all committees.
 
-- e. afstemming van de nationale besluiten met betrekking tot de gemeenschappelijke industriële basis en gemeenschappelijke technologie;
+##### Article 12
 
-- f. coördinatie van investeringen en van het gebruik van beproevingscentra.
+The BoS shall decide all matters concerning the implementation of this Convention including:
 
-### HOOFDSTUK III. ALGEMENE ORGANISATIE
+- a) recommendations for the admission of new Member States;
 
-##### Artikel 9
+- b) assignment of a programme to OCCAR;
 
-De OCCAR bestaat uit een Raad van Toezicht (de Raad) en het OCCAR-agentschap.
+- c) establishement or dissolution of committees referred to in [Article 17](https://wetten.overheid.nl/BWBV0007054);
 
-### HOOFDSTUK IV. DE RAAD VAN TOEZICHT
+- d) preparations for future tasks and programmes, where these cannot be prepared by the committees;
 
-##### Artikel 10
+- e) decisions concerning any financial questions affecting OCCAR, in particular approval of the administrative and operational budgets and the annual financial reports, as well as decisions connected with the financial and accounting regulations and the management of the organisation;
 
-Binnen de OCCAR is de Raad het hoogste besluitvormingsorgaan.
+- f) procedures and rules for the awarding of contracts, as well as the standard contract clauses and conditions. The BoS is responsible for decisions concerning the awarding of contracts and approves them when such decisions have not been delegated to a competent committee created for this purpose;
 
-##### Artikel 11
+- g) security procedures;
 
-De Raad heeft de leiding over en oefent toezicht uit op het OCCAR-agentschap en alle comités.
+- h) principles and operating rules for OCCAR, including the staff and financial regulations for the EA;
 
-##### Artikel 12
+- i) monitoring the application of OCCAR regulations, including regulations on open competition and respect for the reciprocity principle in [Article 24](https://wetten.overheid.nl/BWBV0007054) (3); and
 
-De Raad neemt alle besluiten met betrekking tot de uitvoering van dit Verdrag, en in het bijzonder:
+- j) appointment of auditors under [Article 36](https://wetten.overheid.nl/BWBV0007054).
 
-- a. aanbevelingen ten aanzien van de toelating van nieuwe lidstaten;
+##### Article 13
 
-- b. toewijzing van een project aan de OCCAR;
+The BoS shall adopt such regulations consistent with the provisions of this Convention as are necessary for the fulfilment of its responsibilities.
 
-- c. oprichting of ontbinding van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=IV&artikel=17&z=1998-09-09&g=1998-09-09) bedoelde comités;
+##### Article 14
 
-- d. voorbereiding van toekomstige taken en projecten, indien deze niet door de comités kunnen worden voorbereid;
+1. The BoS shall meet twice a year, and otherwise as required at the request of one or more Member States. It shall elect from amongst its members a chairperson who shall serve for a term of one year renewable only once. It shall adopt its own rules of procedures.
 
-- e. besluiten omtrent alle financiële aangelegenheden die op de OCCAR betrekking hebben, met name de goedkeuring van administratieve en operationele begrotingen en financiële jaarverslagen, alsook besluiten ten aanzien van de financiële en boekhoudkundige voorschriften en het management van de organisatie;
+2. The BoS secretariat functions shall be performed by the EA.
 
-- f. procedures en regels voor de gunning van contracten, alsook standaard clausules en voorwaarden voor deze contracten. De Raad is verantwoordelijk voor besluiten met betrekking tot de gunning van contracten, en draagt zorg voor de goedkeuring van deze besluiten wanneer deze niet zijn gedelegeerd aan het daartoe opgerichte bevoegde comité;
+##### Article 15
 
-- g. veiligheidsprocedures en -regels;
+1. Each Member State shall have a representative on the BoS with the right to vote. The representatives of the Member States shall be the ministers of defence or their delegates, who shall be entitled to be accompanied by staff, including representatives from their Armed Forces staffs. The Director of the EA and the Deputy Director of the EA shall be entitled to attend BoS meetings, but not vote. The BoS may, if necessary, invite specialists from Member States, from the EA or other organisations involved in multilateral defence cooperation in which the Member States are participating.
 
-- h. de grondslagen en regels voor het functioneren van de OCCAR, met name die welke betrekking hebben op het personeel en de financiële regels van het OCCAR-agentschap;
+2. When the BoS has to take decisions concerning a programme in which not all OCCAR Member States are participating, the decisions shall be taken by the representatives of those Member States which are participating in the programme.
 
-- i. toezicht op de juiste toepassing van de OCCAR-regels, met name de toepassing van de regels inzake de vrije concurrentie en de naleving van het in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=VI&artikel=24&z=1998-09-09&g=1998-09-09), bedoelde beginsel van wederkerigheid;
+##### Article 16
 
-- j. benoeming van de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=IX&artikel=36&z=1998-09-09&g=1998-09-09) bedoelde accountants.
+The BoS shall appoint the Director of the EA and his/her Deputy as well as other senior EA personnel. It shall approve the staff list of the EA. The Director shall be appointed for three years, renewable once for up to three years.
 
-##### Artikel 13
+##### Article 17
 
-De Raad neemt, in overeenstemming met de bepalingen van dit Verdrag, de voorschriften aan die nodig zijn voor de uitvoering van zijn taken.
+1. The BoS may delegate certain functions to the appropriate committees, except those referred to in [Article 12 a), b), c) and j)](https://wetten.overheid.nl/BWBV0007054). The committees include, in particular, a future task committee and the programme committees. Decisions concerning the execution of each individual programme shall be taken only by the representatives of those Member States that participate in the programme.
 
-##### Artikel 14
+2. The programme committees shall supervise for the Member State participants in a programme, the running of one or several programmes.
 
-1. De Raad komt tweemaal per jaar bijeen, en daarnaast op verzoek daartoe van een of meerdere lidstaten. De Raad kiest uit zijn leden een voorzitter die zijn functie gedurende een jaar vervult; deze termijn kan éénmaal worden verlengd. De Raad neemt zijn eigen reglement van orde aan.
+##### Article 18
 
-2. Het secretariaat van de Raad wordt verzorgd door het OCCAR-agentschap.
+1. Subject to paragraph 2 below, all decisions referred to in this Convention shall be taken by the Member States unanimously, including questions for which no decision-making procedure has been or may be agreed.
 
-##### Artikel 15
+2. The specific provisions in [Annex IV](https://wetten.overheid.nl/BWBV0007054) shall apply.
 
-1. Elke lidstaat wordt in de Raad vertegenwoordigd door een vertegenwoordiger met stemrecht. De vertegenwoordigers van de lidstaten zijn de ministers van defensie of hun afgevaardigden, die gerechtigd zijn te worden vergezeld door delegatieleden, waaronder vertegenwoordigers van de staven van de strijdkrachten. De Directeur en de plaatsvervangend Directeur van het OCCAR-agentschap zijn gerechtigd de Raadsvergaderingen bij te wonen, maar hebben geen stemrecht. Indien nodig kan de Raad deskundigen uitnodigen afkomstig van de lidstaten, van het OCCAR-agentschap of van andere organisaties die betrokken zijn bij multilaterale samenwerkingsprojecten op materieelgebied waaraan de lidstaten deelnemen.
+### CHAPTER V. EXECUTIVE ADMINISTRATION
 
-2. Wanneer de Raad besluiten moet nemen met betrekking tot een project waaraan niet alle OCCAR-lidstaten deelnemen, worden de besluiten genomen door de vertegenwoordigers van de lidstaten die aan het desbetreffende project deelnemen.
+##### Article 19
 
-##### Artikel 16
+The EA is the standing executive body responsible for the implementation of the decisions of the BoS. It shall be headed by a Director appointed by the BoS.
 
-De Raad benoemt de Directeur van het OCCAR- agentschap en diens plaatsvervanger alsook het overige directiepersoneel. De Raad hecht zijn goedkeuring aan het personeelsbestand van het OCCAR-agentschap. De Directeur wordt benoemd voor een periode van drie jaar, die maximaal met drie jaar kan worden verlengd.
+##### Article 20
 
-##### Artikel 17
+The EA shall comprise:
 
-1. De Raad kan bepaalde taken aan de daarvoor in aanmerking komende comités delegeren, uitgezonderd de in [artikel 12, onder a, b, c en j](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=IV&artikel=12&z=1998-09-09&g=1998-09-09), genoemde taken. Tot de comités behoren met name een planningscomité en projectcomités. De besluiten over de uitvoering van elk afzonderlijk project worden uitsluitend genomen door de vertegenwoordigers van de lidstaten die aan het desbetreffende project deelnemen.
+- a) the Central Office, located in the headquarters of OCCAR, which consists of:
 
-2. De projectcomités houden ten behoeve van de aan een project deelnemende lidstaten toezicht op het verloop van een of meer projecten.
+   - – the Directorate, which includes the Director, his/her Deputy and appropriate support staff,
 
-##### Artikel 18
+   - – divisions with responsibility for:
 
-1. Onverminderd het bepaalde in het tweede lid worden besluiten in het kader van dit Verdrag door de lidstaten bij unanimiteit genomen, met inbegrip van kwesties waarvoor geen specifieke besluitvormingsprocedure is of wordt overeengekomen.
+      - future tasks,
 
-2. De in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&bijlage=IV&z=1998-09-09&g=1998-09-09) opgenomen specifieke bepalingen zijn van toepassing.
+      - acquisitions, contracts and finance matters,
 
-### HOOFDSTUK V. HET OCCAR-AGENTSCHAP
+      - administration;
 
-##### Artikel 19
+- b) the programme divisions, to each of which shall be assigned one or more programmes.
 
-Het OCCAR-agentschap is het permanente uitvoerende orgaan dat belast is met de uitvoering van de Raadsbesluiten. Aan het hoofd van het Agentschap staat een door de Raad benoemde Directeur.
+The programme divisions, in which there shall be no dual manning of posts, shall have the powers needed to undertake day-to-day management with the greatest possible degree of autonomy, top priority being given to performance and risk management, value engineering and cost containment, in accordance with regulations adopted by the BoS.
 
-##### Artikel 20
+To facilitate the operation of the programme divisions not co-located with the Central Office, staff from the Central Office may be deployed to the programme divisions.
 
-Het OCCAR-agentschap bestaat uit:
+##### Article 21
 
-- a. Het centraal kantoor, gevestigd in het Hoofdkwartier van de OCCAR, dat is samengesteld uit:
+The Director of the EA shall be directly responsible to the BoS for the operation of the EA. His/her detailed responsibilities shall be specified in a document approved by the BoS.
 
-- –. de directie, bestaande uit de Directeur, diens plaatsvervanger en het ondersteunende personeel;
+##### Article 22
 
-- –. divisies die belast zijn met:
+1. The staff of OCCAR shall be accorded the privileges and immunities set out in [Annex I](https://wetten.overheid.nl/BWBV0007054) to this Convention. The BoS shall ensure that the number of posts established is limited to those whose functions require the concomitant privileges and immunities. ‘‘Staff’’ do not include seconded personnel not under contract to OCCAR who shall, for the purposes of Annex I, have the status of experts.
 
-- toekomstplanning;
+2. The staff regulations, and the pay and pension schemes of OCCAR, shall be based on the rules of the Coordinated Organisations (eg NATO, WEU).
 
-- verwerving, contracten en financiële aangelegenheden;
+3. Posts within the EA shall be filled by personnel who have the competence needed to enable the Organisation to fulfil its mission as efficiently as possible, taking due account of the participation of the Member States in current or future programmes.
 
-- administratieve taken.
+4. No member of EA staff shall hold paid government employment or have other activities incompatible with their status as employees of OCCAR.
 
-- b. Projectdivisies die elk een of meer projecten krijgen opgedragen.
+5. Members of EA shall each make a written declaration confirming their intention to conscientiously fulfil the tasks for which they are responsible as well as their willingness neither to seek nor to accept instructions associated with their functions from any government nor from any authority outside of OCCAR, and to refrain from any act that is incompatible with their status as employees of OCCAR. The Director and the Deputy Director of the EA shall make this declaration in front of the BoS.
 
-De projectdivisies, waarin dubbele bezetting van posten niet geoorloofd is, beschikken over de nodige bevoegdheden om zo zelfstandig mogelijk het dagelijks beheer uit te voeren, waarbij de hoogste voorrang wordt gegeven aan resultaatgerichtheid en risicobeheersing, optimalisatie en kostenbeheersing, in overeenstemming met de door de Raad aangenomen voorschriften.
+6. Each Member State undertakes to respect the exclusively international character of the functions of Director and of the other staff of the EA.
 
-Teneinde de functionering van de projectdivisies die niet bij het centrale kantoor worden ondergebracht te vergemakkelijken, kunnen personeelsleden van het centrale kantoor bij deze projectdivisies worden ingezet.
+### CHAPTER VI. PROCUREMENT PRINCIPLES
 
-##### Artikel 21
+##### Article 23
 
-De Directeur is voor het functioneren van het OCCAR-agentschap rechtstreeks verantwoording verschuldigd aan de Raad. Zijn verantwoordelijkheden worden uiteengezet in een door de Raad goedgekeurd document.
+1. The detailed OCCAR rules and procedures for procurement shall be the subject of a regulation adopted by the BoS following proposals by the Director of the EA or by Member States. They shall apply to all contracts awarded by OCCAR.
 
-##### Artikel 22
+2. For the conduct of programmes that OCCAR manages, and particularly in relation to the armament-related activities (research, development, industrialisation, production, acceptance into service and inservice support), the rules contained in contracts and procedures shall comply with the procurement principles laid down in [Articles 24 to 30](https://wetten.overheid.nl/BWBR0009950).
 
-1. De personeelsleden van de OCCAR genieten de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&bijlage=I&z=1998-09-09&g=1998-09-09) bij dit Verdrag genoemde voorrechten en immuniteiten. De Raad ziet erop toe dat het aantal gecreëerde arbeidsplaatsen beperkt blijft tot degenen van wie de functie toekenning van de overeenkomstige voorrechten en immuniteiten vereist. Onder deze personeelsleden vallen niet de ter beschikking gestelde personeelsleden die geen OCCAR-contract bezitten; deze personeelsleden worden voor de toepassing van Bijlage I aangemerkt als deskundigen.
+##### Article 24
 
-2. Het personeelsreglement, de salaris- en de pensioenregeling, zijn gebaseerd op de regels van de Gecoördineerde Organisaties (bijvoorbeeld de NAVO of de WEU).
+1. Subject to the provisions of this article, contracts and sub-contracts shall generally be awarded after competitive tendering.
 
-3. De arbeidsplaatsen binnen het OCCAR-agentschap worden toegekend aan personen die zodanig gekwalificeerd zijn dat de organisatie haar taken zo doeltreffend mogelijk kan uitvoeren, rekening houdend met de deelname van de lidstaten aan lopende of toekomstige projecten.
+2. Competitive tendering shall be conducted in accordance with the objectives and principles set out in [Chapter II](https://wetten.overheid.nl/BWBV0007054) of this Convention.
 
-4. Geen enkel personeelslid van het OCCAR-agentschap kan een betaalde functie vervullen voor een regering of andere activiteiten ontplooien die niet verenigbaar zijn met zijn positie als OCCAR-werknemer.
+3. With the unanimous agreement of the participants in a programme, competitive tendering may be extended outside the Western European Armament Group States provided the principle of reciprocity applies.
 
-5. Alle OCCAR-personeelsleden moeten schriftelijk verklaren dat zij voornemens zijn hun taken gewetensvol te vervullen, niet om instructies bij de vervulling van hun taken te vragen of deze te ontvangen van een regering of enige andere autoriteit buiten de OCCAR, en zich te onthouden van elke handeling die onverenigbaar is met hun positie als OCCAR-werknemer. De Directeur en de plaatsvervangend Directeur leggen deze verklaring af ten overstaan van de Raad.
+4. To comply wit defence and security requirements, or to improve the competitiveness of the European defence technological and industrial base, competitive tendering and the award of contracts, and especially contracts for armament-related research and technology activities, may be limited to companies, institutes, agencies or appropriate institutions under the jurisdiction of a Member State participating in the programme concerned.
 
-6. Elke lidstaat verplicht zich ertoe de uitsluitend internationale aard van de functies van de Directeur en van het personeel van het OCCAR-agentschap te eerbiedigen.
+5. OCCAR shall aim to adopt best practices for procurement and shall work with Member States to benchmark procurement practices against the highest standards.
 
-### HOOFDSTUK VI. VERWERVINGSBEGINSELEN
+6. The BoS shall monitor the application of the competitive tendering regulations, and decide if the reciprocity principle is being respected in practice by states that are not members of the Western European Armament Group.
 
-##### Artikel 23
+##### Article 25
 
-1. De gedetailleerde verwervingsregels en -procedures van de OCCAR worden neergelegd in een op voorstel van de Directeur of van de lidstaten door de Raad aangenomen voorschrift. De verwervingsregels en -procedures zijn van toepassing op alle door de OCCAR gegunde contracten.
+When open to competitive tendering, contracts shall be awarded generally on the basis of the competitiveness of the offers received rather than on the financial contributions made by the participants. However, in the initial phase, the transitional arrangements in Annex III shall apply.
 
-2. Met betrekking tot de uitvoering van de door de OCCAR beheerde projecten, in het bijzonder die welke betrekking hebben op de activiteiten op materieelgebied (zijnde onderzoek, ontwikkeling, industrialisatie, productie, ingebruikneming en ondersteuning tijdens de gebruiksfase), moeten de in de contracten en procedures genoemde regels in overeenstemming zijn met de in de artikelen 24 tot en met 30 vastgelegde verwervingsbeginselen.
+##### Article 26
 
-##### Artikel 24
+Any potential orders liable to be awarded on the basis of competitive tendering shall be notified by publication via appropriate channels.
 
-1. Onverminderd het bepaalde in dit artikel, worden de contracten aan leveranciers en onderleveranciers in het algemeen gegund op basis van concurrentiestelling.
+##### Article 27
 
-2. De concurrentiestelling verloopt overeenkomstig de in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=II&z=1998-09-09&g=1998-09-09) van dit Verdrag uiteengezette doelen en beginselen.
+The criteria for qualification and selection of bidders and for evaluation of bids shall be defined in precise terms before the bidding process is initiated and published.
 
-3. Met unanieme instemming van de deelnemers aan een project kan de aanbesteding worden uitgebreid tot Staten die niet behoren tot de West-Europese Defensiematerieelgroep (Western European Armament Group), mits hierbij het beginsel van wederkerigheid wordt toegepast.
+##### Article 28
 
-4. Teneinde te voldoen aan de defensie- en veiligheidseisen, of ter versterking van de concurrentiepositie van de Europese defensietechnologische en -industriële basis, kunnen de concurrentiestelling en de gunning van contracten, in het bijzonder waar het contracten betreft die betrekking hebben op defensiematerieel gerelateerde onderzoeks- en technologie-activiteiten, worden beperkt tot bedrijven, instituten, agentschappen of daarvoor in aanmerking komende instellingen die onder de rechtsmacht vallen van een lidstaat die aan het desbetreffende project deelneemt.
+Firm or fixed prices shall be sought wherever possible.
 
-5. De OCCAR streeft ernaar zo goed mogelijke verwervingsprocedures in te stellen en werkt in dit verband samen met de lidstaten teneinde haar verwervingssysteem internationaal gezien op een zo hoog mogelijk niveau te brengen.
+##### Article 29
 
-6. De Raad ziet toe op de toepassing van de aanbestedingsregels en beslist of het wederkerigheidsbeginsel naar behoren wordt nageleefd door de Staten die geen lid zijn van deWest-Europese Defensiematerieelgroep (Western European Armament Group States).
+When required, OCCAR may request the competent authorities of the Member States to carry out price or cost and quality assurance audits for those contracts which it places in execution of its role as defined in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=II&artikel=7&z=1998-09-09&g=1998-09-09). Member States shall, in particular, make every effort to harmonise pricing structure methods.
 
-##### Artikel 25
+##### Article 30
 
-Indien sprake is van concurrentiestelling, worden de contracten in het algemeen toegekend op basis van de concurrerende aard van de ontvangen offertes en niet op basis van de financiële bijdragen van de deelnemers. In een eerste fase zijn evenwel de in Bijlage III bedoelde overgangsbepalingen van toepassing.
+Companies not invited to bid, and companies whose bid was not successful shall, at their request, be given the reasons for their exclusion or for the rejection of their bid.
 
-##### Artikel 26
+### CHAPTER VII. PROGRAMMES
 
-Alle eventuele opdrachten die op grond van concurrentiestelling worden gegund, worden langs de daartoe gebruikelijke weg gepubliceerd.
+##### Article 31
 
-##### Artikel 27
+Where appropriate, existing collaborative programmes between Member States shall be incorporated into OCCAR. The detailed arrangements for such an incorporation, including transitional arrangements, shall be subject to agreement between the Member States concerned and OCCAR, and the act of incorporation shall be subject to the approval of the BoS.
 
-De criteria voor de kwalificatie en selectie van inschrijvers en voor de beoordeling van de offertes worden nauwkeurig vastgelegd voordat de inschrijving wordt geopend en openbaar wordt gemaakt.
+### CHAPTER VIII. OWNERSHIP AND DISPOSAL OF PROPERTY
 
-##### Artikel 28
+##### Article 32
 
-Steeds waar mogelijk wordt gestreefd naar prijzen (met of zonder prijsaanpassingsclausule).
+1. All assets acquired by OCCAR under the administrative sub-head of the budget or, after special decision by the BoS, by a Member State on behalf of OCCAR or using joint funding, shall be the property of OCCAR.
 
-##### Artikel 29
+2. The allocation of any proceeds derived from the exploitation or sale of assets acquired by OCCAR under the administrative budget of the Organisation, shall be decided by the BoS. In the event of dissolution of OCCAR, the difference between the proceeds derived from the sale of such assets and any liabilities incurred by OCCAR shall be shared or borne by the Member States in accordance with a formula to be established in advance by the BoS.
 
-Indien nodig kan de OCCAR de bevoegde diensten van de lidstaten verzoeken onderzoek te doen naar prijzen of kosten dan wel naar de kwaliteitszorg ten aanzien van de contracten die door de OCCAR worden gegund in uitvoering van haar in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=II&artikel=7&z=1998-09-09&g=1998-09-09) bedoelde taak. De lidstaten zetten zich met name in voor harmonisatie van de methoden en wijzen van prijsstelling.
+##### Article 33
 
-##### Artikel 30
+1. Whenever assets are acquired under the operational sub-head of the budget on behalf of one or several Member States, special financial arrangements shall be agreed by the Member States concerned; and the arrangements shall specify the methods of funding, management, sale and disposal.
 
-Bedrijven die geen uitnodiging tot inschrijving hebben ontvangen of waarvan de inschrijving niet is gehonoreerd, worden, op hun verzoek, op de hoogte gebracht van de reden van hun uitsluiting of van de afwijzing van hun offerte.
+2. Assets acquired (material assets) or created (mock-ups, prototypes, tooling, test beds) under the operational budget of OCCAR shall remain the property of the Member States which funded them, but shall be for common use between them.
 
-### HOOFDSTUK VII. PROJECTEN
+### CHAPTER IX. FINANCIAL ADMINISTRATION
 
-##### Artikel 31
+##### Article 34
 
-Tussen de lidstaten bestaande samenwerkingsprojecten kunnen in de OCCAR worden geïntegreerd. De gedetailleerde regelingen voor een dergelijke integratie, met inbegrip van de overgangsbepalingen, worden vastgelegd in een overeenkomst tussen de betrokken lidstaten en de OCCAR, en de integratie moet worden goedgekeurd door de Raad.
+The BoS shall adopt detailed financial rules which shall be the subject of specific regulations in accordance with the following provisions:
 
-### HOOFDSTUK VIII. EIGENDOM EN VERVREEMDING VAN GOEDEREN
+- a) The cost of OCCAR activities, covering both its administrative and operating functions, shall be borne by the Member States.
 
-##### Artikel 32
+- b) All OCCAR funds, namely: shall be itemized, by sub-head, in the administrative or operational budget of OCCAR.
 
-1. Alle goederen verworven door de OCCAR onder een administratieve begrotingspost of, op grond van een bijzonder besluit van de Raad, door een lidstaat namens de OCCAR of in het kader van een gemeenschappelijke financiering, worden het eigendom van de OCCAR.
+   - – those arising from the routine contributions of Member States;
 
-2. De aanwending van inkomsten uit het gebruik of de verkoop van goederen door de OCCAR verworven in het kader van de administratieve begroting van de Organisatie, wordt vastgesteld bij Raadsbesluit. In geval van ontbinding van de OCCAR wordt het verschil tussen de inkomsten uit de verkoop van deze activa en de passiva van de OCCAR volgens een vooraf door de Raad vastgestelde verdeelsleutel onder de lidstaten verdeeld of door hen gedragen.
+   - – those generated by authorised OCCAR activities; and
 
-##### Artikel 33
+   - – other funds available to OCCAR, or those administrated by it on behalf of the Member States;
 
-1. Telkens wanneer goederen worden verworven onder een operationele begrotingspost namens een of meer lidstaten, moeten door de betrokken lidstaten bijzondere financiële bepalingen worden vastgesteld; in deze bepalingen moeten de wijze van financiering en de regelingen voor beheer, verkoop en vervreemding worden vermeld.
+- c) The competent authorities of OCCAR shall operate within the authorisations agreed annually by the BoS.
 
-2. De in het kader van de operationele begroting van de OCCAR verworven goederen (materiële goederen) of vervaardigde goederen (maquettes, prototypen, gereedschappen, testbanken) blijven eigendom van de Staten die deze hebben medegefinancierd en blijven bestemd voor onderling gemeenschappelijk gebruik.
+- d) The form, frequency and treatment of the Member State contributions shall be set out in appropriate detailed rules and agreements.
 
-### HOOFDSTUK IX. FINANCIEEL BEHEER
+##### Article 35
 
-##### Artikel 34
+1. The funds required for OCCAR programes and operational plans shall be the subject of an annual budget, prepared in Euros containing:
 
-De Raad stelt gedetailleerde financiële regels vast die worden neergelegd in specifieke voorschriften overeenkomstig de volgende bepalingen:
+- – an administrative section, covering all expenditure incurred for the internal functioning of OCCAR;
 
-- a. De kosten voortvloeiend uit de activiteiten van de OCCAR, zowel ten aanzien van de administratieve als de operationele taken, worden gedragen door de lidstaten.
+- – an operational section containing financial plans in respect of programmes and operations carried out by OCCAR in the pursuit of its objectives.
 
-- b. Alle financiële middelen van de OCCAR, te weten:
+2. The budget shall specify section by section, the planned expenditure and the sources of funding.
 
-- –. middelen uit reguliere bijdragen van de lidstaten;
+3. The draft annual budget shall be prepared by the EA and submitted to the BoS for approval in accordance with the OCCAR financial rules and regulations.
 
-- –. middelen uit de officiële activiteiten van de OCCAR;
+##### Article 36
 
-- –. middelen die op andere wijze aan de OCCAR ter beschikking worden gesteld of namens de lidstaten door haar worden beheerd, worden, per post, in de administratieve of operationele begroting van de OCCAR opgenomen.
+The annual accounts shall be submitted to the audit authorities appointed by the BoS. The audit report, accompanied by detailed financial statements using the nomenclature defined in the accounting and financial regulations, shall be submitted to the BoS for approval by the Director at the latest 6 months after the end of the financial year.
 
-- c. De bevoegde OCCAR-autoriteiten handelen binnen de jaarlijks door de Raad aan hen toegekende bevoegdheden.
+### CHAPTER X. COOPERATION WITH NON-MEMBER STATES AND INTERNATIONAL ORGANISATIONS
 
-- d. De vorm, frequentie en behandeling van de bijdragen van de lidstaten worden vastgelegd in passende gedetailleerde regels en overeenkomsten.
+##### Article 37
 
-##### Artikel 35
+OCCAR may cooperate with other international organisations and institutions, and with the governments, organisations and institutions of non-Member states, and conclude agreements with them.
 
-1. De voor de OCCAR-projecten en operationele plannen benodigde middelen worden neergelegd in een jaarlijkse begroting, luidende in euro’s, bestaande uit twee secties:
+##### Article 38
 
-- –. een administratieve sectie, die betrekking heeft op alle uitgaven benodigd voor het intern functioneren van de OCCAR;
+Such cooperation may take the form of participation by non-Member States or international organisations in one or more programmes. Such arrangements may make provision for matters associated exclusively with the programme in which a non-Member State or international organisation is participating to be the subject of decisions taken by the BoS with the agreement of the said non-Member State or organisation concerned.
 
-- –. een operationele sectie, waarin de financiële plannen zijn opgenomen die betrekking hebben op de door de OCCAR in het kader van haar doelstelling uitgevoerde projecten en operaties.
+### CHAPTER XI. LEGAL STATUS, PRIVILEGES AND IMMUNITIES
 
-2. In de OCCAR-begroting worden per sectie de voorziene uitgaven en de financieringsbronnen vermeld.
+##### Article 39
 
-3. De jaarlijkse ontwerp-begroting wordt door het OCCARagentschap opgesteld en ter goedkeuring aan de Raad voorgelegd, overeenkomstig de financiële regels en procedures van de OCCAR.
+OCCAR shall have full legal personality and, in particular, the capacity to:
 
-##### Artikel 36
+- a) contract;
 
-De jaarrekeningen moeten worden voorgelegd aan de door de Raad aangewezen accountants. Het accountantsrapport, vergezeld van gedetailleerde financiële staten, opgesteld conform de in de boekhoudkundige en financiële voorschriften vastgelegde nomenclatuur, wordt uiterlijk zes maanden na afsluiting van het begrotingsjaar door de Directeur ter goedkeuring voorgelegd aan de Raad.
+- b) acquire and dispose of immovable and movable property, and
 
-### HOOFDSTUK X. SAMENWERKING MET NIET-LIDSTATEN EN INTERNATIONALE ORGANISATIES
+- c) institute legal proceedings.
 
-##### Artikel 37
+##### Article 40
 
-De OCCAR kan met andere internationale organisaties en instellingen alsook met de regeringen, organisaties en instellingen van niet-lidstaten samenwerken en hiertoe met dezen overeenkomsten sluiten.
+1. OCCAR, its staff and experts, as well as the representatives of its Member States, shall enjoy the privileges and immunities set out in [Annex I](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&bijlage=I&z=1998-09-09&g=1998-09-09).
 
-##### Artikel 38
+2. Agreements concerning the headquarters of OCCAR, its programme divisions and its facilities set up in accordance with the provisions of this Convention, shall be concluded between OCCAR and the Member States on whose territories the headquarters, its programme divisions and its facilities are situated.
 
-Een dergelijke samenwerking kan gestalte krijgen in deelneming van niet-lidstaten of internationale organisaties aan een of meer projecten. Zulke regelingen kunnen erin voorzien dat besluiten ten aanzien van vraagstukken die uitsluitend betrekking hebben op een project waaraan een niet-lidstaat of een internationale organisatie deelneemt, door de Raad worden genomen met de instemming van de betrokken niet-lidstaat of organisatie.
+##### Article 41
 
-### HOOFDSTUK XI. JURIDISCHE STATUS, VOORRECHTEN EN IMMUNITEITEN
+1. The powers defined in [Articles 39](https://wetten.overheid.nl/BWBV0007054) and [40](https://wetten.overheid.nl/BWBV0007054) shall be exercised by the BoS, which may delegate them to the Director. When the BoS has not delegated a power to the Director, that shall not prevent the BoS authorising the Director, or any staff members designated by the BoS, to sign a contract or adopt or sign an international agreement.
 
-##### Artikel 39
+2. Programe contracts shall be negotiated and concluded by OCCAR in accordance with the detailed contractual procedures and regulations referred to in [articles 23](https://wetten.overheid.nl/BWBV0007054) and [24](https://wetten.overheid.nl/BWBV0007054) of this Convention, the law of the contract being then determined by the parties.
 
-De OCCAR bezit volledige rechtspersoonlijkheid en is met name bevoegd:
+### CHAPTER XII. SECURITY
 
-- a. contracten te sluiten;
+##### Article 42
 
-- b. roerende of onroerende zaken te verwerven en te vervreemden, en
+The BoS shall adopt OCCAR security regulations. The regulations shall avoid any unnecessary restrictions on the movement of staff, information and material, in particular concerning the release of information to third parties and the involvement of the security authorities in visiting procedures.
 
-- c. in rechte op te treden.
+### CHAPTER XIII. REPORTS AND AUDITS
 
-##### Artikel 40
+##### Article 43
 
-1. De OCCAR, haar personeel en deskundigen alsmede de vertegenwoordigers van de OCCAR-lidstaten, genieten de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&bijlage=I&z=1998-09-09&g=1998-09-09) genoemde voorrechten en immuniteiten.
+Each year, the Director shall submit to the BoS a report on activities performed in the preceding year and a forecast of activities for the coming year.
 
-2. Overeenkomsten inzake het hoofdkwartier van de OCCAR, haar projectdivisies en kantoren, worden in overeenstemming met de bepalingen van dit Verdrag gesloten tussen de OCCAR en de lidstaten op het grondgebied waarvan het hoofdkwartier, de projectdivisies en de kantoren zijn gelegen.
+##### Article 44
 
-##### Artikel 41
+To enable them to discharge their audit functions as regards their national administrations, and to report to their parliaments as provided in their statutes, national auditors may obtain all information and examine all documents held by the EA which relate to the programmes in which their Member States are participating, and to the operation of the Central Office.
 
-1. De in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=XI&artikel=39&z=1998-09-09&g=1998-09-09) en [40](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=XI&artikel=40&z=1998-09-09&g=1998-09-09) genoemde bevoegdheden worden uitgeoefend door de Raad, die deze kan delegeren aan de Directeur. Indien de Raad deze bevoegdheden niet aan de Directeur heeft gedelegeerd, beletten deze bepalingen de Raad niet de Directeur, of elk ander door de Raad aangewezen OCCAR-personeelslid, de bevoegdheid te verlenen een contract te ondertekenen of een internationale overeenkomst goed te keuren of te ondertekenen.
+##### Article 45
 
-2. Over de projectcontracten wordt door de OCCAR onderhandeld en deze worden door de OCCAR gesloten overeenkomstig de in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=VI&artikel=23&z=1998-09-09&g=1998-09-09) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0007054&hoofdstuk=VI&artikel=24&z=1998-09-09&g=1998-09-09) van dit Verdrag bedoelde gedetailleerde verwervingsregels en -procedures; de partijen bij het contract maken een keuze ten aanzien van het toepasselijke recht.
+The national auditors shall, except in exceptional circumstances, consult together and with the Director of the EA, before exercising their rights of access to the EA with the objectives of avoiding the unnecessary interruption of activities within OCCAR and protecting information relating to other Member States.
 
-### HOOFDSTUK XII. BEVEILIGING
+##### Article 46
 
-##### Artikel 42
+Member States shall coordinate their actions aimed at protecting the financial interests of OCCAR against fraud. To this end, with the aid of the EA, they shall organise regular collaboration between the competent services within their administrations.
 
-De Raad neemt de OCCAR-veiligheidsvoorschriften aan. In deze voorschriften zullen geen onnodige beperkingen worden opgenomen met betrekking tot het vrije verkeer van personeelsleden, informatie en materieel, met name wat betreft de informatieverstrekking aan derden en de inzet van beveiligingsautoriteiten ten behoeve van procedures bij bezoeken.
+##### Article 47
 
-### HOOFDSTUK XIII. VERSLAGEN EN ACCOUNTANTSCONTROLES
+The BoS may order any inspection or audit of OCCAR which it considers necessary to improve the functioning of the Organisation and the conduct of programmes.
 
-##### Artikel 43
+### CHAPTER XIV. SETTLEMENT OF DISPUTES
 
-Jaarlijks doet de Directeur aan de Raad een verslag toekomen betreffende de activiteiten van het afgelopen jaar en de vooruitzichten met betrekking tot de activiteiten van het komende jaar.
+##### Article 48
 
-##### Artikel 44
+1. Any dispute between the Member States, concerning the interpretation or application of this Convention should, if possible, be settled by consultation.
 
-Teneinde aan hun accountantstaken inzake controle ten behoeve van hun nationale overheden te kunnen voldoen en hun parlementen overeenkomstig hun statuut te kunnen inlichten, zijn de nationale accountants bevoegd alle informatie op te vragen en alle documenten te onderzoeken die zich bij het OCCAR-agentschap bevinden, mits deze informatie of documenten betrekking hebben op projecten waaraan hun lidstaat deelneemt en op het functioneren van het centrale kantoor.
+2. If a dispute cannot be settled by consultation, at the request of any party to the dispute, it shall be submitted to arbitration under the conditions laid down in Annex II.
 
-##### Artikel 45
+##### Article 49
 
-Teneinde elke onnodige onderbreking van OCCAR-activiteiten te voorkomen en de informatie betreffende andere lidstaten te beveiligen, moeten de nationale accountants, behalve in uitzonderlijke omstandigheden, voordat zij hun toegangsrecht tot het OCCAR-agentschap uitoefenen, onderling alsmede met de Directeur overleg plegen.
+1. Any disputes arising from contracts concluded by OCCAR for the implementation of the programmes which have been assigned to it may be submitted, by agreement, to a conciliation committee within the BoS, which shall devise appropriate procedures.
 
-##### Artikel 46
+2. Each contract to be concluded by OCCAR for the implementation of programmes assigned to it, other than employment contracts, should provide for conciliation and include an arbitration clause.
 
-De lidstaten coördineren hun activiteiten gericht op de bescherming van de financiële belangen van de OCCAR tegen fraude. Hiertoe dragen zij, met behulp van het OCCAR-agentschap, zorg voor geregelde samenwerking tussen de bevoegde diensten binnen hun overheden.
+3. Any dispute between OCCAR and a member of its staff concerning an employment contract or working conditions shall be settled in accordance with the staff rules and regulations.
 
-##### Artikel 47
+##### Article 50
 
-De Raad kan opdracht geven tot het uitvoeren van alle controles of accountantsonderzoeken die hij nodig acht ter verbetering van het functioneren van de organisatie en van de uitvoering van de projecten.
+If it is claimed by a third party that damage or injury has been caused by OCCAR, its staff members or experts, and OCCAR does noet waive immunity, the BoS shall take all appropriate steps to deal with the claim and, if the claim is justified, to settle it.
 
-### HOOFDSTUK XIV. REGELING VAN GESCHILLEN
+### CHAPTER XV. FINAL PROVISIONS
 
-##### Artikel 48
+##### Article 51
 
-1. Elk geschil tussen de lidstaten betreffende de interpretatie of de toepassing van dit Verdrag wordt, indien mogelijk, in overleg geregeld.
+1. The BoS may recommend to Member States amendments to this Convention and to its Annexes. Any Member State that wishes to propose an amendment shall notify the Director of EA thereof. The Director shall inform the Member States of any amendment proposal so notified at least three months before it is discussed by the BoS.
 
-2. Indien een geschil niet in overleg kan worden geregeld, kan een van de betrokken Partijen verzoeken dat dit geschil aan arbitrage wordt onderworpen, onder de in Bijlage II bedoelde voorwaarden.
+2. Any amendment recommended by the BoS shall enter into force thirty days after the depositary has received notification of acceptance from all Member States. The depositary shall notify all Member States of the date of entry into force of any amendment.
 
-##### Artikel 49
+##### Article 52
 
-1. Alle geschillen voortvloeiend uit door de OCCAR gesloten contracten ter uitvoering van de projecten die aan haar zijn toegewezen, kunnen bij overeenstemming worden voorgelegd aan een bij de Raad ondergebracht comité voor minnelijke schikking, dat passende procedures bepaalt.
+This Convention, including the Annexes to it and which form an integral part of it, shall be subject to ratification or acceptance by the four founding States and shall enter into force 30 days after deposit of the fourth instrument of ratification or acceptance.
 
-2. Elk door de OCCAR te sluiten contract ter uitvoering van de projecten die aan haar zijn toegewezen, anders dan die welke betrekking hebben op arbeidscontracten, moet een bepaling bevatten voor een regeling op basis van minnelijke schikking alsmede een arbitrageclausule.
+##### Article 53
 
-3. Elk geschil tussen de OCCAR en een personeelslid van de OCCAR betreffende een arbeidscontract of arbeidsvoorwaarden wordt geregeld in overeenstemming met de voor het personeel geldende regels en procedures.
+Once this Convention has entered into force, a European State which wishes to become a Member State may be invited by the BoS to accede to this Convention. This Convention shall enter into force for such a new Member State 30 days after the deposit of its instrument of accession.
 
-##### Artikel 50
+##### Article 54
 
-Indien een derde partij vergoeding eist van door de OCCAR, haar personeelsleden of deskundigen veroorzaakte schade of letsel, en indien de OCCAR geen afstand doet van haar immuniteit, treft de Raad alle nodige maatregelen om de eis in behandeling te nemen en, indien deze gerechtvaardigd is, in te willigen.
+The Government of the French Republic shall be the depositary of this Convention.
 
-### HOOFDSTUK XV. SLOTBEPALINGEN
+##### Article 55
 
-##### Artikel 51
+1. If the Member States decide to dissolve OCCAR, they shall discuss with OCCAR and agree amongst themselves the provisions required to satisfactorily manage the consequences of the dissolution, notably in respect of third parties and contractual partners of OCCAR. The agreement shall also cover, whenever it is necessary, the conditions under which the rights and responsibilities of OCCAR shall be transferred to Member States following dissolution.
 
-1. De Raad kan de lidstaten aanbevelen wijzigingen in dit Verdrag en in de Bijlagen hierbij aan te brengen. Elke lidstaat die een wijziging van dit Verdrag wenst voor te stellen, doet hiervan mededeling aan de Directeur. De Directeur brengt de lidstaten uiterlijk drie maanden voor de behandeling van het voorstel door de Raad op de hoogte van elk ingediend wijzigingsvoorstel.
+2. The dissolution of OCCAR shall be effective once the arrangements decided between the Member States referred to above have come into force.
 
-2. De door de Raad aanbevolen wijzigingen worden van kracht dertig dagen nadat de depositaris kennisgeving van aanvaarding heeft ontvangen van alle lidstaten. De depositaris doet alle lidstaten kennisgeving van de datum waarop deze wijzigingen van kracht worden.
+##### Article 56
 
-##### Artikel 52
+1. If one of the Member States wishes to withdraw from the Convention, it shall examine the consequences of such withdrawal with the other Member States. If on completion of these consultations the Member State concerned still wishes to withdraw, it shall notify its withdrawal in writing to the depositary, who shall forward this notification to the other Member States and to the Director. The withdrawal shall take effect six months following the date the notification was received by the depositary.
 
-Dit Verdrag en de Bijlagen daarbij, die hiervan een integrerend deel vormen, dienen te worden bekrachtigd of aanvaard door de vier Staten die de OCCAR hebben opgericht en treedt in werking dertig dagen na de nederlegging van de vierde akte van bekrachtiging of goedkeuring.
+2. The withdrawing Member State shall fulfil all its commitments up to the effective date of withdrawal. The commitments shall be assessed by the Member States.
 
-##### Artikel 53
+3. The rights and responsibilities of the withdrawing Member State concerning security, the settlement of damages, the resolution of disputes and other outstanding commitments shall remain in force after its withdrawal.
 
-Op de datum van inwerkingtreding van dit Verdrag kan elke Europese Staat die lid wenst te worden, door de Raad worden uitgenodigd tot dit Verdrag toe te treden. Het Verdrag treedt voor het nieuwe lid in werking dertig dagen na de nederlegging van de akte van toetreding.
+##### Article 57
 
-##### Artikel 54
+Any Member State which fails to fulfil its obligations under this Convention shall cease to be a member of OCCAR on a unanimous decision by the BoS. The Member State concerned shall not participate in the vote.
 
-De Regering van de Franse Republiek is de depositaris van dit Verdrag.
+##### Article 58
 
-##### Artikel 55
-
-1. Indien de lidstaten de OCCAR besluiten te ontbinden, plegen zij overleg met de OCCAR en komen zij met elkaar – in de vorm van een overeenkomst – de nodige bepalingen overeen voor de bevredigende regeling van de gevolgen van de ontbinding van de organisatie, met name ten aanzien van derde partijen en medecontractanten van de OCCAR. In deze overeenkomst wordt, voor zover nodig, mede bepaald onder welke voorwaarden de rechten en verantwoordelijkheden van de OCCAR na de ontbinding worden overgedragen aan de lidstaten.
-
-2. De ontbinding van de OCCAR wordt van kracht zodra de hierboven bedoelde tussen de lidstaten overeengekomen bepalingen in werking zijn getreden.
-
-##### Artikel 56
-
-1. Indien een van de lidstaten van de OCCAR het Verdrag wenst op te zeggen, beziet deze Staat in overleg met de andere lidstaten welke gevolgen deze opzegging heeft. Indien de lidstaat na dit overleg nog steeds wenst op te zeggen, doet hij van zijn opzegging schriftelijk kennisgeving aan de depositaris, die deze kennisgeving doet toekomen aan de overige lidstaten en aan de Directeur. De opzegging wordt van kracht zes maanden na de datum waarop de kennisgeving door de depositaris is ontvangen.
-
-2. De opzeggende lidstaat vervult al zijn verplichtingen tot aan de datum waarop de opzegging van kracht wordt. De lidstaten stellen in onderling overleg vast welke deze verplichtingen zijn.
-
-3. De rechten en verantwoordelijkheden van de opzeggende lidstaat met betrekking tot beveiliging, schadevergoeding, de regeling van geschillen en andere lopende verplichtingen blijven, ondanks de opzegging, onverlet.
-
-##### Artikel 57
-
-Elke lidstaat die de ingevolge dit Verdrag op hem rustende verplichtingen niet nakomt, kan op basis van een unaniem besluit door de Raad van dit Verdrag worden uitgesloten. De betrokken lidstaat neemt niet deel aan de stemming.
-
-##### Artikel 58
-
-Dit Verdrag wordt nedergelegd in het archief van de Regering van de Franse Republiek, die voor eensluidend gewaarmerkte afschriften hiervan doet toekomen aan de Regeringen van de ondertekenende of toetredende Staten.
+This Convention shall be deposited in the archives of the Government of the French Republic which shall forward certified
 
 IN WITNESS WHEREOF, the undersigned Representatives, having been duly authorised, have signed this Convention.
 

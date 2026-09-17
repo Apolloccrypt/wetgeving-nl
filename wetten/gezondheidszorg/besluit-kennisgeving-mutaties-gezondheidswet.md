@@ -9,7 +9,7 @@ laatste_update: 1959-09-12
 status: geldig
 toestand: 1959-09-12
 bron: "https://wetten.overheid.nl/BWBR0002322"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 14 juli 1959, tot uitvoering van artikel 42 van de Gezondheidswet

@@ -9,7 +9,7 @@ laatste_update: 1971-05-12
 status: geldig
 toestand: 1971-05-12
 bron: "https://wetten.overheid.nl/BWBR0001891"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 28 april 1916, tot nadere voorziening betreffende het eedsvraagstuk

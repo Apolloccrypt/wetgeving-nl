@@ -9,7 +9,7 @@ laatste_update: 1838-05-04
 status: geldig
 toestand: 1838-05-04
 bron: "https://wetten.overheid.nl/BWBR0001837"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 10 April 1838, houdende bepaling van het tijdstip waarop de invoering der nieuwe Nederlandsche Wetgeving en de instelling van den Hoogen Raad zal plaats hebben

@@ -9,7 +9,7 @@ laatste_update: 1918-09-27
 status: geldig
 toestand: 1918-09-27
 bron: "https://wetten.overheid.nl/BWBR0001894"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 25 september 1918, tot instelling van Departementen van Algemeen Bestuur die de naam zullen dragen van Ministerie van Onderwijs, Kunsten en Wetenschappen en van Ministerie van Arbeid

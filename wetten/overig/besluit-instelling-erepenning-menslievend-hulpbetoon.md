@@ -9,7 +9,7 @@ laatste_update: 2013-11-30
 status: geldig
 toestand: 2013-11-30
 bron: "https://wetten.overheid.nl/BWBR0002019"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 2 augustus 1946, houdende nieuwe regelen betreffende de instelling van een Eerepenning voor menschlievend hulpbetoon

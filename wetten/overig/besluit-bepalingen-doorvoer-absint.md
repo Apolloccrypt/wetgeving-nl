@@ -9,7 +9,7 @@ laatste_update: 1910-07-21
 status: geldig
 toestand: 1910-07-21
 bron: "https://wetten.overheid.nl/BWBR0001878"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 7 juni 1910, houdende bepalingen omtrent den doorvoer van absint

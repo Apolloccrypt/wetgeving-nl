@@ -1,54 +1,19 @@
 ---
 title: "Overeenkomst ter uitvoering van artikel 13 van het tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden op 23 juli 2018 te Brussel gesloten Verdrag inzake politiesamenwerking"
 identifier: "BWBV0007058"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-12-12"
-last_updated: "2025-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007058"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005665913"
-version_id: "10006242922"
-internal_id: "C10010227581"
-label_id: "10005647804"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007058/2025-12-12/0"
-intitule_bron: "Trb.2024-65"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-06-13"
-intitule_in_force: "2025-12-18"
-intitule_status: "goed"
-original_publication: "Trb.2024-65"
-original_published_date: "2024-06-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2024-65"
-entry_into_force_date: "2025-12-12"
-jci_1_3: "jci1.3:c:BWBV0007058&z=2025-12-12&g=2025-12-12"
-jci_1_0: "1.0:c:BWBV0007058&g=2025-12-12"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-12-12"
+publicatiedatum: 2025-12-12
+laatste_update: 2025-12-12
+status: geldig
+toestand: 2025-12-12
+bron: "https://wetten.overheid.nl/BWBV0007058"
+opgehaald: 2026-09-17
 ---
+
 # Overeenkomst ter uitvoering van artikel 13 van het tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden op 23 juli 2018 te Brussel gesloten Verdrag inzake politiesamenwerking
 
-Het Koninkrijk België en het Koninkrijk der Nederlanden,
-
-hierna genoemd „de Partijen”,
-
-Gelet op [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13), en [artikel 62, tweede lid, van het Verdrag van 23 juli 2018 tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake politiesamenwerking](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=62) (hierna genoemd: „het Politieverdrag”),
-
-Gelet op de wens van het Koninkrijk België en het Koninkrijk der Nederlanden om uitvoering te geven aan [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13), teneinde een vlotte uitwisseling van referentiegegevens inzake geautomatiseerde vergelijking van kentekengegevens evenals de door deze vergelijking gegenereerde hits tussen de bevoegde diensten van beide Verdragsluitende Partijen mogelijk te maken,
-
-Gelet op het groeiende gebruik in deze twee Benelux-landen van camerasystemen die op geautomatiseerde wijze kentekengegevens van voertuigen vastleggen op of aan de openbare weg (ANPR-camerasystemen),
-
-Overwegende dat een dergelijke vlotte uitwisseling van referentiegegevens en hits de veiligheid op het grondgebied van deze beide Benelux-landen zal bevorderen,
-
-Overwegende dat een dergelijke uitwisseling van referentiegegevens en hits dient omkleed te worden met voldoende waarborgen ter bescherming van natuurlijke personen met betrekking tot de verwerking van hun persoonsgegevens,
-
-Overwegende dat het Groothertogdom Luxemburg op dit moment niet wenst deel te nemen aan de voorziene uitwisseling van referentiegegevens, doch dat het de mogelijkheid wenst te voorzien om op een later moment eveneens van de mogelijkheden geboden door [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13) gebruik te maken,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België en het Koninkrijk der Nederlanden, hierna genoemd „de Partijen”, Gelet op artikel 13, zesde lid, en artikel 62, tweede lid, van het Verdrag van 23 juli 2018 tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake politiesamenwerking (hierna genoemd: „het Politieverdrag”), Gelet op de wens van het Koninkrijk België en het Koninkrijk der Nederlanden om uitvoering te geven aan artikel 13 van het Politieverdrag, teneinde een vlotte uitwisseling van referentiegegevens inzake geautomatiseerde vergelijking van kentekengegevens evenals de door deze vergelijking gegenereerde hits tussen de bevoegde diensten van beide Verdragsluitende Partijen mogelijk te maken, Gelet op het groeiende gebruik in deze twee Benelux-landen van camerasystemen die op geautomatiseerde wijze kentekengegevens van voertuigen vastleggen op of aan de openbare weg (ANPR-camerasystemen), Overwegende dat een dergelijke vlotte uitwisseling van referentiegegevens en hits de veiligheid op het grondgebied van deze beide Benelux-landen zal bevorderen, Overwegende dat een dergelijke uitwisseling van referentiegegevens en hits dient omkleed te worden met voldoende waarborgen ter bescherming van natuurlijke personen met betrekking tot de verwerking van hun persoonsgegevens, Overwegende dat het Groothertogdom Luxemburg op dit moment niet wenst deel te nemen aan de voorziene uitwisseling van referentiegegevens, doch dat het de mogelijkheid wenst te voorzien om op een later moment eveneens van de mogelijkheden geboden door artikel 13 van het Politieverdrag gebruik te maken, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -68,7 +33,7 @@ De mogelijkheden voorzien in [artikel 13 van het Politieverdrag](https://wetten.
 
 - e. gevalideerde hit: een hit waarbij de bevoegde dienst die de referentiegegevens ontvangen en ingezet heeft, visueel heeft vastgesteld dat de kentekengegevens op de foto van het voertuig daadwerkelijk overeenkomen met de alfanumerieke referentiegegevens van het kenteken waar de hit op plaatsgevonden heeft;
 
-- f. SIS: het Schengen Informatiesysteem, zoals bedoeld in de [verordeningen (EU) 2018/1860](32018R1860), [(EU) 2018/1861](32018R1861) en [(EU) 2018/1862](32018R1862) van het Europees Parlement en de Raad van de Europese Unie;
+- f. SIS: het Schengen Informatiesysteem, zoals bedoeld in de verordeningen (EU) 2018/1860, (EU) 2018/1861 en (EU) 2018/1862 van het Europees Parlement en de Raad van de Europese Unie;
 
 - g. opvolgingshandeling: een vorm van fysieke tussenkomst die de bevoegde dienst die de ontvangen referentiegegevens inzet, wordt verzocht uit te voeren in geval van een hit.
 
@@ -134,7 +99,7 @@ De bevoegde dienst die referentiegegevens ontvangt, kan weigeren deze in te zett
 
 1. De ontvangen referentiegegevens mogen enkel ingezet worden op ANPR-camera’s die verbonden zijn met het centrale systeem dat door de bevoegde dienst of diensten van de ontvangende Partij gebruikt wordt voor het beheer van de gegevens die worden gekoppeld aan ANPR-camera’s of met een lokaal systeem dat voor bijwerkingen verbonden is met dat centrale systeem. Onverminderd het tweede lid van dit artikel mogen ze niet worden opgeslagen of vervoerd op verwijderbare gegevensdragers.
 
-2. De bevoegde diensten van het Koninkrijk België die op het ogenblik van de inwerkingtreding van het [Politieverdrag](onbekend) gebruik maken van verwijderbare gegevensdragers om referentiegegevens aan de door hen gebruikte ANPR-camera’s te koppelen, mogen tot uiterlijk 2 jaar na de inwerkingtreding van het [Politieverdrag](onbekend) gebruik maken van deze verwijderbare gegevensdragers om de van de bevoegde diensten van het Koninkrijk Nederland ontvangen referentiegegevens aan de door hen gebruikte ANPR-camera’s te koppelen.
+2. De bevoegde diensten van het Koninkrijk België die op het ogenblik van de inwerkingtreding van het [Politieverdrag](https://wetten.overheid.nl/BWBV0006758) gebruik maken van verwijderbare gegevensdragers om referentiegegevens aan de door hen gebruikte ANPR-camera’s te koppelen, mogen tot uiterlijk 2 jaar na de inwerkingtreding van het [Politieverdrag](https://wetten.overheid.nl/BWBV0006758) gebruik maken van deze verwijderbare gegevensdragers om de van de bevoegde diensten van het Koninkrijk Nederland ontvangen referentiegegevens aan de door hen gebruikte ANPR-camera’s te koppelen.
 
 ##### Artikel 14
 
@@ -192,61 +157,61 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 - a. Verplicht:
 
-- i. nummerplaat;
+   - i. nummerplaat;
 
-- ii. landcode;
+   - ii. landcode;
 
-- iii. referentienummer (indien vermeld in de referentiegegevens);
+   - iii. referentienummer (indien vermeld in de referentiegegevens);
 
-- iv. categorie voertuig;
+   - iv. categorie voertuig;
 
-- v. merk van het voertuig;
+   - v. merk van het voertuig;
 
-- vi. plaats, datum en uur van de hit;
+   - vi. plaats, datum en uur van de hit;
 
-- vii. omstandigheden bij aantreffen;
+   - vii. omstandigheden bij aantreffen;
 
-- viii. de identiteit van de bestuurder van het voertuig;
+   - viii. de identiteit van de bestuurder van het voertuig;
 
-- ix. contactgegevens van de eenheid die de gevraagde opvolgingshandeling uitvoerde;
+   - ix. contactgegevens van de eenheid die de gevraagde opvolgingshandeling uitvoerde;
 
-- x. resultaat van de uitvoering van de gevraagde opvolgingshandeling.
+   - x. resultaat van de uitvoering van de gevraagde opvolgingshandeling.
 
 - b. Optioneel:
 
-- i. serienummer van het voertuig;
+   - i. serienummer van het voertuig;
 
-- ii. kleur van het voertuig;
+   - ii. kleur van het voertuig;
 
-- iii. foto van het kenteken waarop de hit gebaseerd is;
+   - iii. foto van het kenteken waarop de hit gebaseerd is;
 
-- iv. de identiteit van de andere inzittenden van het voertuig, voor zover deze als onderdeel van de gevraagde opvolgingshandeling kon worden vastgesteld in overeenstemming met het nationale recht van het land waar de opvolgingshandeling werd uitgevoerd.
+   - iv. de identiteit van de andere inzittenden van het voertuig, voor zover deze als onderdeel van de gevraagde opvolgingshandeling kon worden vastgesteld in overeenstemming met het nationale recht van het land waar de opvolgingshandeling werd uitgevoerd.
 
 2. Indien een hit plaatsvindt op een voertuig dat niet het voorwerp uitmaakt van een internationale signalering en de gevraagde opvolgingshandeling niet kon worden uitgevoerd, worden de volgende categorieën gegevens meegedeeld aan de bevoegde dienst die de referentiegegevens heeft verstrekt:
 
 - a. Verplicht:
 
-- i. nummerplaat;
+   - i. nummerplaat;
 
-- ii. landcode;
+   - ii. landcode;
 
-- iii. referentienummer (indien vermeld in de referentiegegevens);
+   - iii. referentienummer (indien vermeld in de referentiegegevens);
 
-- iv. categorie voertuig;
+   - iv. categorie voertuig;
 
-- v. merk van het voertuig;
+   - v. merk van het voertuig;
 
-- vi. plaats, datum en uur van de hit;
+   - vi. plaats, datum en uur van de hit;
 
-- vii. reden voor het niet uitvoeren van de gevraagde opvolgingshandeling.
+   - vii. reden voor het niet uitvoeren van de gevraagde opvolgingshandeling.
 
 - b. Optioneel:
 
-- i. kleur van het voertuig;
+   - i. kleur van het voertuig;
 
-- ii. foto van het kenteken waarop de hit gebaseerd is;
+   - ii. foto van het kenteken waarop de hit gebaseerd is;
 
-- iii. foto van het voertuig waarop de hit gebaseerd is zonder dat de inzittenden van het voertuig herkenbaar zijn.
+   - iii. foto van het voertuig waarop de hit gebaseerd is zonder dat de inzittenden van het voertuig herkenbaar zijn.
 
 ##### Artikel 19
 
@@ -266,7 +231,7 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 1. Om te bepalen welke referentiegegevens de bevoegde diensten van de Partijen aan elkaar verstrekken op basis van [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13), is het leidende principe steeds dat er een opvolgingshandeling wordt gevraagd die kan worden uitgevoerd door de ontvangende bevoegde dienst op basis van diens nationale wetgeving of een internationale signalering.
 
-2. Door middel van het formulier opgenomen in de Bijlage bij deze Uitvoeringsovereenkomst maken de betrokken bevoegde diensten concrete afspraken over de verstrekking van specifieke referentiegegevens, daarbij inbegrepen de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=11&z=2025-12-12&g=2025-12-12) van deze Uitvoeringsovereenkomst bedoelde criteria inzake plaats, tijd en frequentie van de inzet van de referentiegegevens.
+2. Door middel van het formulier opgenomen in de [Bijlage](https://wetten.overheid.nl/BWBV0007058) bij deze Uitvoeringsovereenkomst maken de betrokken bevoegde diensten concrete afspraken over de verstrekking van specifieke referentiegegevens, daarbij inbegrepen de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=11&z=2025-12-12&g=2025-12-12) van deze Uitvoeringsovereenkomst bedoelde criteria inzake plaats, tijd en frequentie van de inzet van de referentiegegevens.
 
 3. De in het tweede lid van dit artikel bedoelde afspraken worden gemaakt in onderling overleg tussen de betrokken bevoegde diensten, rekening houdend met de capaciteit die bij de bevoegde diensten die de referentiegegevens ontvangen beschikbaar is voor de uitvoering van de gevraagde opvolgingshandelingen en voor de verwerking van de te verwachten hits.
 
@@ -274,7 +239,7 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 ##### Artikel 21
 
-1. De bepalingen in het nationale recht van de Partijen die gelden ter omzetting van [richtlijn (EU) 2016/680](32016L0680) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van kaderbesluit 2008/977/JBZ van de Raad zijn van toepassing op de uitwisseling van gegevens als bedoeld in [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13).
+1. De bepalingen in het nationale recht van de Partijen die gelden ter omzetting van richtlijn (EU) 2016/680 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van kaderbesluit 2008/977/JBZ van de Raad zijn van toepassing op de uitwisseling van gegevens als bedoeld in [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13).
 
 2. De bevoegde diensten die referentiegegevens verstrekken, gaan voorafgaand aan de verstrekking na of de verwerking van de betrokken gegevens in overeenstemming is met de van toepassing zijnde nationale wet- en regelgeving. Ze zorgen er tevens voor dat deze referentiegegevens correct zijn op het ogenblik dat ze worden verstrekt aan een bevoegde dienst van een andere Partij. Indien een van de betrokken bevoegde diensten echter vaststelt dat bepaalde gegevens toch niet correct zijn, meldt hij dit onverwijld aan de andere betrokken bevoegde dienst of diensten, via de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=16&z=2025-12-12&g=2025-12-12), van deze Uitvoeringsovereenkomst bedoelde nationale contactpunten. De bevoegde dienst die de foutieve gegevens had verstrekt, zal vervolgens zo snel mogelijk een gecorrigeerde versie van de referentiegegevens verstrekken aan de ontvangende bevoegde dienst of diensten.
 
@@ -292,11 +257,11 @@ Elke Partij draagt haar eigen kosten voor de uitvoering van deze Uitvoeringsover
 
 3. De Partijen stellen de depositaris in kennis wanneer hun interne procedures vereist voor de inwerkingtreding van deze Uitvoeringsovereenkomst werden voltooid en zij technisch en organisatorisch klaar zijn voor de toepassing ervan.
 
-4. Deze Uitvoeringsovereenkomst treedt in werking op de dag waarop de depositaris vanwege de laatste van de twee Partijen de kennisgeving als bedoeld in het derde lid van dit artikel ontvangt, of op de dag waarop het [Politieverdrag](onbekend) in werking treedt indien dit op een later moment gebeurt. De depositaris stelt de Partijen op de hoogte van de datum van inwerkingtreding van deze Uitvoeringsovereenkomst.
+4. Deze Uitvoeringsovereenkomst treedt in werking op de dag waarop de depositaris vanwege de laatste van de twee Partijen de kennisgeving als bedoeld in het derde lid van dit artikel ontvangt, of op de dag waarop het [Politieverdrag](https://wetten.overheid.nl/BWBV0006758) in werking treedt indien dit op een later moment gebeurt. De depositaris stelt de Partijen op de hoogte van de datum van inwerkingtreding van deze Uitvoeringsovereenkomst.
 
 5. Het Groothertogdom Luxemburg kan toetreden tot deze Uitvoeringsovereenkomst door een akte van toetreding neer te leggen bij de depositaris, waarin het bevestigt dat zijn interne procedures vereist voor de inwerkingtreding van deze Uitvoeringsovereenkomst werden voltooid en het technisch en organisatorisch klaar is voor de toepassing van deze Uitvoeringsovereenkomst. Deze Uitvoeringsovereenkomst treedt in werking voor het Groothertogdom Luxemburg op de eerste dag van de tweede maand volgend op de dag waarop het Groothertogdom Luxemburg zijn akte van toetreding heeft neergelegd bij de depositaris. De depositaris brengt de andere Partijen op de hoogte van de neerlegging van de akte van toetreding van het Groothertogdom Luxemburg en de datum van inwerkingtreding van deze Uitvoeringsovereenkomst voor het Groothertogdom Luxemburg.
 
-6. Onverminderd een eventuele eerdere opzegging overeenkomstig het zevende lid van dit artikel, blijft deze Uitvoeringsovereenkomst gelijke tijd van kracht als het [Politieverdrag](onbekend).
+6. Onverminderd een eventuele eerdere opzegging overeenkomstig het zevende lid van dit artikel, blijft deze Uitvoeringsovereenkomst gelijke tijd van kracht als het [Politieverdrag](https://wetten.overheid.nl/BWBV0006758).
 
 7. Elke Partij kan deze Uitvoeringsovereenkomst opzeggen door een schriftelijke kennisgeving daartoe aan de depositaris. De depositaris notificeert deze kennisgeving aan de andere Partijen. De opzegging wordt van kracht zes maanden na laatstgenoemde kennisgeving. Indien het Groothertogdom Luxemburg overeenkomstig het vijfde lid van dit artikel intussen Partij bij deze Uitvoeringsovereenkomst geworden is, blijft de Uitvoeringsovereenkomst in werking tussen de Partijen die geen kennisgeving tot opzegging hebben gedaan.
 
@@ -308,9 +273,9 @@ Elke Partij draagt haar eigen kosten voor de uitvoering van deze Uitvoeringsover
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze Uitvoeringsovereenkomst hebben ondertekend.
 
-GEDAAN te Brussel, op 28 september 2023, in één exemplaar, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
+GEDAAN te Brussel, op 28 september 2023, in één exemplaar, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk België:**
+*Voor het Koninkrijk België:*
 
 VINCENT VAN QUICKENBORNE
 
@@ -320,7 +285,7 @@ ANNELIES VERLINDEN
 
 Minister van Binnenlandse Zaken
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 DILAN YEŞILGÖZ-ZEGERIUS
 

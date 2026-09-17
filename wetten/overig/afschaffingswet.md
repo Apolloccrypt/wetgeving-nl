@@ -9,7 +9,7 @@ laatste_update: 1829-06-16
 status: geldig
 toestand: 1829-06-16
 bron: "https://wetten.overheid.nl/BWBR0001835"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 16 Mei 1829, omtrent de afschaffing der nog in werking zijnde wetboeken, op het tijdstip der invoering van de nationale wetboeken

@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0002251"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 23 juli 1957, houdende egalisatie en aanpassing van Indonesische pensioenen en daarmede in aard overeenkomende uitkeringen

@@ -9,7 +9,7 @@ laatste_update: 2018-07-18
 status: geldig
 toestand: 2018-07-18
 bron: "https://wetten.overheid.nl/BWBR0002070"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 25 januari 1951, houdende bepalingen voor toekenning van onderscheidingen voor langdurige trouwe dienst aan beroepsmilitairen beneden de rang van tweede-luitenant, behorende tot de Koninklijke landmacht

@@ -1,233 +1,206 @@
 ---
 title: "Verdrag inzake het Bureau van de Europese Burgerluchtvaart Conferentie (ECAC)"
 identifier: "BWBV0007108"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-05-22"
-last_updated: "2025-05-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007108"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10005710133"
-version_id: "10006309602"
-internal_id: "C10010213631"
-label_id: "10005691944"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007108/2025-05-22/0"
-intitule_bron: "Trb.2025-70"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-09-05"
-intitule_status: "nogniet"
-original_publication: "Trb.2025-70"
-original_published_date: "2025-09-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2025-70"
-jci_1_3: "jci1.3:c:BWBV0007108&z=2025-05-22&g=2025-05-22"
-jci_1_0: "1.0:c:BWBV0007108&g=2025-05-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-09-05"
+laatste_update: 2025-05-22
+status: geldig
+toestand: 2025-05-22
+bron: "https://wetten.overheid.nl/BWBV0007108"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag inzake het Bureau van de Europese Burgerluchtvaart Conferentie (ECAC)
 
-De staten die partij zijn bij dit Verdrag, hierna te noemen de “partijen”;
+*The States Parties to this Convention, hereinafter referred to as the “Parties”; Acknowledging the role, mandate and strategic objectives of the European Civil Aviation Conference as defined in its Constitution and Rules of Procedure; Recognising the role of the Secretariat of the European Civil Aviation Conference in supporting the activities of the Conference and ensuring the implementation of the decisions adopted by Directors General of Civil Aviation of Member States of the European Civil Aviation Conference; Recognising the need for the Secretariat of the European Civil Aviation Conference to have a legal personality to efficiently fulfil its role with respect to the European Civil Aviation Conference; Determined to establish a Bureau having legal personality to assume the role of the existing Secretariat of the European Civil Aviation Conference; Have agreed as follows:*
 
-Erkennende de rol, het mandaat en de strategische doelstellingen van de Europese Burgerluchtvaart Conferentie zoals omschreven in haar Statuut en Reglement van orde;
+##### Article 1. Definitions
 
-Erkennende de rol van het Secretariaat van de Europese Burgerluchtvaart Conferentie bij het ondersteunen van de activiteiten van de Conferentie en het waarborgen van de uitvoering van de besluiten van de directeuren-generaal van de burgerluchtvaart van de lidstaten van de Europese Burgerluchtvaart Conferentie;
+For the purpose of this Convention the following definitions apply:
 
-Erkennend dat het Secretariaat van de Europese Burgerluchtvaart Conferentie rechtspersoonlijkheid moet hebben om zijn rol met betrekking tot de Europese Burgerluchtvaart Conferentie efficiënt te kunnen vervullen;
+- a) “Bodies of the Conference” means the Plenary Conference in the form of Triennial Sessions and Special Plenary Sessions; the meetings of Directors General of Civil Aviation; and groups established from time to time by Directors General of Civil Aviation to carry out specific tasks under the work programme.
 
-Vastbesloten een Bureau met rechtspersoonlijkheid op te richten om de rol van het bestaande Secretariaat van de Europese Burgerluchtvaart Conferentie op zich te nemen;
+- b) “The Conference” means the European Civil Aviation Conference composed of the ECAC Member States.
 
-Zijn het volgende overeengekomen:
+- c) “The Constitution” means the Constitution and Rules of Procedure of the European Civil Aviation Conference first adopted in 1975 (first edition of ECAC.CEAC Doc No. 20) as amended by ECAC Member States from time to time, in accordance with the Constitution.
 
-##### Artikel 1. Begripsomschrijvingen
+- d) “Coordinating Committee” means the committee of the Conference which comprises the President, the Vice-Presidents and the other members and which assumes the functions set forth in the Constitution.
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+- e) “ECAC Member States” means the States which founded the Conference in 1954 under the auspices of the International Civil Aviation Organization and of the Council of Europe, together with such other European States as the Conference has unanimously admitted.
 
-- a. „Organen van de Conferentie”, de plenaire conferentie in de vorm van driejaarlijkse zittingen en bijzondere plenaire zittingen; de vergaderingen van de directeuren-generaal van de burgerluchtvaart; en groepen die van tijd tot tijd door directeuren-generaal van de burgerluchtvaart zijn opgericht om specifieke taken in het kader van het werkprogramma uit te voeren.
+- f) “Focal Points” means the members of the Coordinating Committee who exercise their functions in their specific field of activity under authority delegated by the Coordinating Committee, in accordance with the Constitution.
 
-- b. „De Conferentie”, de Europese Burgerluchtvaart Conferentie, bestaande uit de ECAC-lidstaten.
+- g) “Headquarters Agreement” means the agreement between the Bureau and the Government of the French Republic regarding the establishment in France of the permanent headquarters of the Bureau and defining the privileges and immunities of the Bureau in France.
 
-- c. „Het Statuut”, het Statuut en het Reglement van orde van de Europese Burgerluchtvaart Conferentie, voor het eerst aangenomen in 1975 (eerste versie van ECAC.CEAC Doc Nr. 20), zoals van tijd tot tijd gewijzigd door de ECAC-lidstaten, overeenkomstig het Statuut.
+##### Article 2. The Bureau
 
-- d. „Coördinerend comité”, het comité van de Conferentie dat bestaat uit de voorzitter, de vicevoorzitters en de andere leden en dat de in het Statuut omschreven functies op zich neemt.
+1. The Bureau of the Conference, hereinafter referred to as “the Bureau”, is hereby established.
 
-- e. „ECAC-lidstaten”, de staten die de Conferentie in 1954 hebben opgericht onder auspiciën van de Internationale Burgerluchtvaartorganisatie en de Raad van Europa, samen met andere Europese staten die de Conferentie met eenparigheid van stemmen heeft toegelaten.
+2. The Bureau shall consist of a Committee of the Parties, an Executive Secretary, a Deputy Executive Secretary and other staff.
 
-- f. „Contactpunten”, de leden van het Coördinerend comité die hun functies uitoefenen binnen hun specifieke werkgebied onder het gezag dat door het Coördinerend comité is gedelegeerd, in overeenstemming met het Statuut.
+3. The costs and liabilities associated with the functioning of the Bureau shall be covered by the funds received from the budget of the Conference.
 
-- g. „Zetelovereenkomst”: de overeenkomst tussen het Bureau en de regering van de Franse Republiek betreffende de vestiging in Frankrijk van de permanente zetel van het Bureau en de vaststelling van de voorrechten en immuniteiten van het Bureau in Frankrijk.
+4. The headquarters of the Bureau shall be in France.
 
-##### Artikel 2. Het Bureau
+##### Article 3. Legal status of the Bureau
 
-1. Het Bureau van de Conferentie, hierna „het Bureau” genoemd, wordt bij dit Verdrag opgericht.
+The Bureau shall have international legal personality. The Bureau shall enjoy full capacity necessary to exercise its mandate as defined in [Article 4](https://wetten.overheid.nl/BWBV0007108).
 
-2. Het Bureau bestaat uit een Comité van de partijen, een uitvoerend secretaris, een plaatsvervangend uitvoerend secretaris en andere medewerkers.
+##### Article 4. Mandate of the Bureau
 
-3. De kosten en aansprakelijkheden in verband met de werking van het Bureau worden gedekt door de middelen die uit de begroting van de Conferentie worden ontvangen.
+The mandate of the Bureau shall be to support the activities of the Conference and ensure the implementation of the decisions adopted by the Directors General of Civil Aviation of ECAC Member States.
 
-4. De zetel van het Bureau wordt in Frankrijk gevestigd.
+##### Article 5. Immunities and privileges of the Bureau
 
-##### Artikel 3. Rechtspositie van het Bureau
+1. The privileges and immunities of the Bureau in France shall be defined in the Headquarters Agreement.
 
-Het Bureau bezit internationale rechtspersoonlijkheid. Het Bureau bezit volledige handelingsbekwaamheid, noodzakelijk voor de uitoefening van zijn mandaat als omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=4&z=2025-05-22&g=2025-05-22).
+2. Other Parties may grant privileges and immunities in support of the Bureau's activities in their countries, in particular with regard to immunity from legal process in respect of words spoken and written and all acts performed by the Executive Secretary and the staff of the Bureau in their official capacity.
 
-##### Artikel 4. Mandaat van het Bureau
+##### Article 6. The Committee of the Parties
 
-Het mandaat van het Bureau bestaat uit het ondersteunen van de activiteiten van de Conferentie en het waarborgen van de uitvoering van de door de directeuren-generaal van de burgerluchtvaart van de ECAC-lidstaten aangenomen besluiten.
+1. The Committee of the Parties shall consist of one representative from each Party.
 
-##### Artikel 5. Voorrechten en immuniteiten van het Bureau
+2. The Committee of the Parties shall elect its chair and vice-chair. The term of office shall be three years, renewable once. The chair shall have authority to convene the Committee of the Parties and act on its behalf.
 
-1. De voorrechten en immuniteiten van het Bureau in Frankrijk worden vastgesteld in de zetelovereenkomst.
+3. The President of the Conference and the European Commission may participate in the Committee of the Parties as observers.
 
-2. Andere partijen kunnen voorrechten en immuniteiten verlenen ter ondersteuning van de activiteiten van het Bureau in hun landen, in het bijzonder voor wat betreft immuniteit van rechtsvervolging met betrekking tot het gesproken en geschreven woord en alle door de uitvoerend secretaris en medewerkers van het Bureau in hun officiële functies verrichte handelingen.
+4. The Committee of the Parties shall adopt its own rules of procedure.
 
-##### Artikel 6. Het Comité van de partijen
+##### Article 7. Functions of the Committee of the Parties
 
-1. Het Comité van de partijen bestaat uit één vertegenwoordiger van elke partij.
+1. The Committee of the Parties shall:
 
-2. Het Comité van de partijen kiest zijn voorzitter en vicevoorzitter. De ambtstermijn bedraagt drie jaar en kan eenmaal worden verlengd. De voorzitter is bevoegd het Comité van de partijen bijeen te roepen en namens het Comité op te treden.
+- a) Oversee the Bureau's operations and functions in accordance with its mandate;
 
-3. De president van de Conferentie en de Europese Commissie kunnen als waarnemers aan het Comité van de partijen deelnemen.
+- b) Adopt staff regulations after consultation with the Conference, and determine the number of staff and the terms of their employment;
 
-4. Het Comité van de partijen stelt zijn eigen reglement van orde vast.
+- c) Propose a list of candidates in order of preference for the appointment of the Executive Secretary in accordance with [Article 10](https://wetten.overheid.nl/BWBV0007108); and
 
-##### Artikel 7. Functies van het Comité van de partijen
+- d) Administer the budget for the functioning of the Bureau based on the funds received in accordance with [Article 2(3)](https://wetten.overheid.nl/BWBV0007108).
 
-1. Het Comité van de partijen:
+2. The Committee of the Parties shall not carry out any of the activities or exercise any of the functions of the Conference.
 
-- a. houdt toezicht op de werkzaamheden en functies van het Bureau overeenkomstig zijn mandaat;
+##### Article 8. Committee of the Parties Voting Rules
 
-- b. stelt het personeelsreglement vast na overleg met de Conferentie, en bepaalt het aantal medewerkers en de voorwaarden van hun dienstverband;
+1. Decisions of the Committee of the Parties shall be reached by consensus as far as possible. If consensus cannot be reached a decision shall be taken by a two-thirds majority of the votes cast.
 
-- c. stelt een kandidatenlijst voor in volgorde van voorkeur voor de benoeming van de uitvoerend secretaris overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=10&z=2025-05-22&g=2025-05-22); en
+2. Each Party has one vote.
 
-- d. beheert de begroting voor de werking van het Bureau op basis van de overeenkomstig [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=2&z=2025-05-22&g=2025-05-22), ontvangen middelen.
+3. Observers to the Committee of the Parties may participate in the discussions but shall not have the right to vote.
 
-2. Het Comité van de partijen verricht geen van de activiteiten of oefent geen van de functies van de Conferentie uit.
+##### Article 9. Staff of the Bureau
 
-##### Artikel 8. Stemregels van het Comité van de partijen
+1. All staff of the Bureau shall hold the nationality of an ECAC Member State.
 
-1. Besluiten van het Comité van de partijen worden voor zover mogelijk bij consensus genomen. Indien geen consensus kan worden bereikt, wordt een besluit genomen met een tweederdemeerderheid van de uitgebrachte stemmen.
+2. No member of staff may seek or accept from any Government or other authority external to the Conference any instructions in regard to the discharge of his or her official duties.
 
-2. Elke partij heeft een stem.
+##### Article 10. Appointment of the Executive Secretary
 
-3. Waarnemers bij het Comité van de partijen kunnen aan de besprekingen deelnemen, maar zij hebben geen stemrecht.
+The Conference, based upon a list of proposed candidates in order of preference established by the Committee of the Parties, shall appoint the Executive Secretary for a mandate of a maximum duration of five years, renewable once, on the basis of the procedure agreed by the Directors General of Civil Aviation of ECAC Member States.
 
-##### Artikel 9. Medewerkers van het Bureau
+##### Article 11. Role and tasks of the Executive Secretary
 
-1. Alle medewerkers van het Bureau hebben de nationaliteit van een ECAC-lidstaat.
+1. The Executive Secretary shall act as the legal representative of the Bureau in the exercise of its mandate laid down in [Article 4](https://wetten.overheid.nl/BWBV0007108), and shall, *inter alia*, perform the following tasks on behalf of the Bureau:
 
-2. Geen enkele medewerker van het Bureau mag van enige regering of andere autoriteit buiten de Conferentie instructies vragen of aannemen met betrekking tot de vervulling van zijn of haar officiële taken.
+- a) Ensure the implementation of the decisions taken by Directors General of Civil Aviation within the framework of the Conference;
 
-##### Artikel 10. Benoeming van de uitvoerend secretaris
+- b) Support the implementation of the Constitution;
 
-De Conferentie benoemt, op basis van een door het Comité van de partijen opgestelde lijst van voorgedragen kandidaten in volgorde van voorkeur, de uitvoerend secretaris voor een mandaat van ten hoogste vijf jaar, dat eenmaal kan worden verlengd, op basis van de door de directeuren-generaal van de burgerluchtvaart van de ECAC-lidstaten overeengekomen procedure.
+- c) Execute all internal and external activities of the Bureau;
 
-##### Artikel 11. Rol en taken van de uitvoerend secretaris
+- d) Implement the Headquarters Agreement on behalf of the Bureau;
 
-1. De uitvoerend secretaris treedt op als wettelijke vertegenwoordiger van het Bureau in de uitoefening van zijn in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=4&z=2025-05-22&g=2025-05-22) vastgestelde mandaat en voert namens het Bureau onder meer de volgende taken uit:
+- e) Carry out tasks consistent with the objectives and functions of the Conference;
 
-- a. zorgen voor de uitvoering van de besluiten die de directeuren-generaal van de burgerluchtvaart in het kader van de Conferentie hebben genomen;
+- f) Assist the bodies of the Conference;
 
-- b. ondersteunen van de tenuitvoerlegging van het Statuut;
+- g) Support Focal Points in representing the Conference’s interests and priorities in international meetings and events;
 
-- c. uitvoeren van alle interne en externe activiteiten van het Bureau;
+- h) Support the Conference in the coordination of European positions for the International Civil Aviation Organization Assemblies, conferences and meetings, and other international conferences and meetings;
 
-- d. uitvoeren van de zetelovereenkomst namens het Bureau;
+- i) Support the Conference in its cooperation with the European Union and other European, regional and international organisations on matters relating to the objectives and functions of the Conference;
 
-- e. uitvoeren van taken die in overeenstemming zijn met de doelstellingen en functies van de Conferentie;
+- j) Ensure the implementation of the triennial work programme of the Conference and execute the related budget reporting to the Directors General of Civil Aviation on a regular basis;
 
-- f. bijstaan van de organen van de Conferentie;
+- k) Enter into contracts;
 
-- g. ondersteunen van contactpunten bij het vertegenwoordigen van de belangen en prioriteiten van de Conferentie op internationale bijeenkomsten en evenementen;
+- l) Acquire, lease, hold and dispose of movable property according to the financial procedures of the Conference;
 
-- h. ondersteunen van de Conferentie bij de coördinatie van Europese standpunten voor de vergaderingen, conferenties en bijeenkomsten van de Internationale Burgerluchtvaartorganisatie en andere internationale conferenties en bijeenkomsten;
+- m) Open and manage bank accounts;
 
-- i. ondersteunen van de Conferentie bij haar samenwerking met de Europese Unie en andere Europese, regionale en internationale organisaties inzake aangelegenheden die verband houden met de doelstellingen en functies van de Conferentie;
+- n) Acquire, lease, hold and dispose of immovable property on the basis of a formal mandate given to the Bureau by the Conference;
 
-- j. zorgen voor de uitvoering van het driejaarlijkse werkprogramma van de Conferentie en regelmatig uitvoeren van de gerelateerde begrotingsrapportage aan de directeuren-generaal van de burgerluchtvaart;
+- o) Represent the Bureau in legal proceedings;
 
-- k. aangaan van contracten;
+- p) Enter into agreements or other arrangements with States or international organisations on the basis of a formal mandate given to the Bureau by the Conference;
 
-- l. verwerven, huren, bezitten en vervreemden van roerende goederen volgens de financiële procedures van de Conferentie;
+- q) Implement the staff regulations as adopted by the Committee of the Parties in accordance with [Article 7 (1b)](https://wetten.overheid.nl/BWBV0007108); and
 
-- m. openen en beheren van bankrekeningen;
+- r) Manage the staff of the Bureau.
 
-- n. verwerven, huren, bezitten en vervreemden van onroerende goederen volgens een formeel mandaat dat door de Conferentie aan het Bureau is verleend;
+2. The Executive Secretary shall report to the President of the Conference, the Coordinating Committee, and the Directors General of Civil Aviation for the proper execution of the Bureau’s mandate and the tasks set out in paragraph (1) of this Article.
 
-- o. vertegenwoordigen van het Bureau in gerechtelijke procedures;
+3. The Executive Secretary shall report to the meetings of Directors General of Civil Aviation for the handling of the Conference’s funds.
 
-- p. sluiten van verdragen of andere regelingen met staten of internationale organisaties op basis van een formeel mandaat dat door de Conferentie aan het Bureau is verleend;
+4. The Executive Secretary shall report to the Committee of the Parties in relation to the functions set out in [Article 7(1)](https://wetten.overheid.nl/BWBV0007108).
 
-- q. uitvoeren van het door het Comité van de partijen overeenkomstig [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=7&z=2025-05-22&g=2025-05-22), vastgestelde personeelsreglement; en
+5. The Executive Secretary shall be responsible for developing and maintaining up-to-date procedures for the implementation of the aforementioned tasks.
 
-- r. leidinggeven aan de medewerkers van het Bureau.
+6. The Executive Secretary may delegate the implementation of the aforementioned tasks, in whole or in part, to the Deputy Executive Secretary.
 
-2. De uitvoerend secretaris brengt verslag uit aan de president van de Conferentie, het coördinerend comité en de directeuren-generaal van de burgerluchtvaart over de correcte uitvoering van het mandaat van het Bureau en de in het eerste lid van dit artikel genoemde taken.
+##### Article 12. Parties
 
-3. De uitvoerend secretaris brengt verslag uit aan de vergaderingen van de directeuren-generaal van de burgerluchtvaart over de omgang met de middelen van de Conferentie.
+ECAC Member States may become a Party to this Convention either by the procedure of [Article 13](https://wetten.overheid.nl/BWBV0007108) or by the procedure of [Article 14](https://wetten.overheid.nl/BWBV0007108).
 
-4. De uitvoerend secretaris brengt verslag uit aan het Comité van de partijen met betrekking tot de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=7&z=2025-05-22&g=2025-05-22), genoemde functies.
+##### Article 13. Signature
 
-5. De uitvoerend secretaris is verantwoordelijk voor het ontwikkelen en actueel houden van procedures voor de uitvoering van de bovengenoemde taken.
+1. ECAC Member States may become a Party by:
 
-6. De uitvoerend secretaris kan de uitvoering van bovengenoemde taken geheel of gedeeltelijk delegeren aan de plaatsvervangend uitvoerend secretaris.
+- a) signature without reservation as to ratification, acceptance or approval, or
 
-##### Artikel 12. Partijen
+- b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval.
 
-ECAC-lidstaten kunnen partij bij dit Verdrag worden, hetzij volgens de procedure van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=13&z=2025-05-22&g=2025-05-22), hetzij volgens de procedure van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007108&artikel=14&z=2025-05-22&g=2025-05-22).
+2. This Convention shall remain open for signature until it enters into force.
 
-##### Artikel 13. Ondertekening
+##### Article 14. Accession
 
-1. ECAC-lidstaten kunnen partij worden door:
+After its entry into force, this Convention shall be open for accession by any State which is an ECAC Member State.
 
-- a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of
+##### Article 15. Entry into Force
 
-- b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring.
+1. This Convention shall enter into force on the first day of the third month following the date on which the Government of the French Republic has received signatures and, if required, instruments of ratification, acceptance or approval from twenty-two ECAC Member States.
 
-2. Dit Verdrag blijft openstaan voor ondertekening tot aan de datum van inwerkingtreding van het Verdrag.
+2. For each State ratifying, accepting, approving or acceding to this Convention after its entry into force, this Convention shall enter into force for that State on the first day of the third month after the deposit of its instrument of ratification, acceptance, approval or accession to the Government of the French Republic.
 
-##### Artikel 14. Toetreding
+##### Article 16. Withdrawal
 
-Na de inwerkingtreding blijft dit Verdrag openstaan voor toetreding door elke staat die een ECAC-lidstaat is.
+1. Any Party may withdraw from this Convention by giving notice in writing to the Government of the French Republic, which shall notify this withdrawal to the Parties, the Executive Secretary and the President of the Conference.
 
-##### Artikel 15. Inwerkingtreding
+2. The withdrawal shall take effect 12 months following the date of receipt of the notice of withdrawal by the Government of the French Republic.
 
-1. Dit Verdrag treedt in werking op de eerste dag van de derde maand volgend op de datum waarop de regering van de Franse Republiek ondertekeningen en, indien vereist, akten van bekrachtiging, aanvaarding of goedkeuring van tweeëntwintig ECAC-lidstaten heeft ontvangen.
+##### Article 17. Settlement of disputes
 
-2. Ten aanzien van iedere staat die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of tot het Verdrag toetreedt na de datum van inwerkingtreding van dit Verdrag, treedt dit Verdrag voor die staat in werking op de eerste dag van de derde maand na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de regering van de Franse Republiek.
+Any dispute between the Parties concerning the implementation or interpretation of this Convention shall be settled by negotiation between the Parties concerned. Any such dispute which is not settled by negotiation between the Parties concerned, shall be submitted at the request of any of these Parties to conciliation/third party good offices.
 
-##### Artikel 16. Opzegging
+##### Article 18. Effect of the Convention
 
-1. Elke partij kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de regering van de Franse Republiek, die de partijen, de uitvoerend secretaris en de president van de Conferentie van deze opzegging in kennis stelt.
+Nothing in this Convention shall interfere with the sovereign right of each Party to regulate its civil aviation sector.
 
-2. De opzegging wordt van kracht twaalf maanden na de datum van ontvangst van de kennisgeving van opzegging door de regering van de Franse Republiek.
+##### Article 19. Amendments to the Convention
 
-##### Artikel 17. Beslechting van geschillen
+1. The Parties may amend this Convention. A decision to adopt an amendment and submit it for signature, ratification, acceptance or approval by the Parties shall require the unanimous agreement of all Parties.
 
-Elk geschil tussen de partijen over de uitvoering of interpretatie van dit Verdrag wordt beslecht door middel van onderhandelingen tussen de betrokken partijen. Een dergelijk geschil dat niet door middel van onderhandelingen tussen de betrokken partijen wordt beslecht, wordt op verzoek van een van deze partijen voorgelegd ter bemiddeling door een derde of goede diensten van een derde.
+2. An amendment so adopted shall enter into force for all Parties on the first day of the third month after the Government of the French Republic has notified the Parties of the receipt of notifications of ratification, acceptance or approval from all Parties.
 
-##### Artikel 18. Gevolgen van het Verdrag
+##### Article 20. Depositary
 
-Dit Verdrag laat het soevereine recht van elke partij om haar eigen burgerluchtvaartsector te reguleren onverlet.
+1. The Government of the French Republic shall serve as the Depositary for this Convention.
 
-##### Artikel 19. Wijzigingen van het Verdrag
+2. This Convention, with subsequent amendments, and instruments of ratification, acceptance, approval or accession shall be deposited in the archives of the Government of the French Republic.
 
-1. De partijen kunnen dit Verdrag wijzigen. Een besluit om een wijziging aan te nemen en ter ondertekening, bekrachtiging, aanvaarding of goedkeuring aan de partijen voor te leggen, vereist de unanieme instemming van alle partijen.
+3. The Government of the French Republic shall provide a certified copy of this Convention and the text of any amendment as adopted by the Parties, to all States that have signed or acceded to this Convention. Copies shall further be sent for information to the Executive Secretary.
 
-2. Een aldus aangenomen wijziging treedt voor alle partijen in werking op de eerste dag van de derde maand nadat de regering van de Franse Republiek de partijen in kennis heeft gesteld van de ontvangst van kennisgevingen van bekrachtiging, aanvaarding of goedkeuring van alle partijen.
-
-##### Artikel 20. Depositaris
-
-1. De regering van de Franse Republiek treedt op als depositaris voor dit Verdrag.
-
-2. Dit Verdrag, alsmede latere wijzigingen daarvan, en de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd in het archief van de regering van de Franse Republiek.
-
-3. De regering van de Franse Republiek doet een gewaarmerkt afschrift van dit Verdrag en van de tekst van eventuele door de partijen aangenomen wijzigingen toekomen aan alle staten die het Verdrag hebben ondertekend of hiertoe zijn toegetreden. Voorts worden ter informatie afschriften toegezonden aan de uitvoerend secretaris.
-
-4. De regering van de Franse Republiek stelt alle staten die dit Verdrag hebben ondertekend of tot dit Verdrag zijn toegetreden en de president van de Conferentie in kennis van alle ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen, toetredingen en opzeggingen, alsmede van de inwerkingtreding van dit Verdrag en van elke wijziging. De regering van de Franse Republiek stelt alle staten die dit Verdrag hebben ondertekend of hiertoe zijn toegetreden en de president van de Conferentie voorts in kennis van de inwerkingtreding van elke bekrachtiging, aanvaarding, goedkeuring of toetreding.
+4. The Government of the French Republic shall notify all States that have signed or acceded to this Convention and the President of the Conference, of all signatures, ratifications, acceptances, approvals, accessions and withdrawals, as well as of the entry into force of this Convention and of each amendment. The Government of the French Republic shall further notify all States that have signed or acceded to this Convention and the President of the Conference of the entry into force of each ratification, acceptance, approval or accession.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised by their respective Governments, have signed this Convention.
 

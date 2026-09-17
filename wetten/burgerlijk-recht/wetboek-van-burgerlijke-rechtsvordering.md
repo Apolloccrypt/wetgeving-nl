@@ -8,7 +8,7 @@ laatste_update: 2026-07-14
 status: geldig
 toestand: 2026-07-14
 bron: "https://wetten.overheid.nl/BWBR0001827"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wetboek van Burgerlijke Rechtsvordering

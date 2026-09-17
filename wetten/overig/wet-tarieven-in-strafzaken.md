@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0002406"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 28 maart 1963, houdende vaststelling van de tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt

@@ -1,331 +1,288 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Ecuador inzake wederzijdse administratieve bijstand in douanezaken (met Bijlage)"
 identifier: "BWBV0007014"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-05-01"
-last_updated: "2025-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007014"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10005636173"
-version_id: "10006208562"
-internal_id: "C10010190671"
-label_id: "10005618844"
-dtd_version: "2.0"
-original_entry_into_force: "2025-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007014/2025-05-01/0"
-intitule_bron: "Trb.2023-125"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-10-20"
-intitule_in_force: "2025-04-30"
-intitule_status: "goed"
-original_publication: "Trb.2023-125"
-original_published_date: "2023-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2023-125"
-entry_into_force_date: "2025-05-01"
-jci_1_3: "jci1.3:c:BWBV0007014&z=2025-05-01&g=2025-05-01"
-jci_1_0: "1.0:c:BWBV0007014&g=2025-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-05-01"
+publicatiedatum: 2025-05-01
+laatste_update: 2025-05-01
+status: geldig
+toestand: 2025-05-01
+bron: "https://wetten.overheid.nl/BWBV0007014"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Ecuador inzake wederzijdse administratieve bijstand in douanezaken (met Bijlage)
 
-Het Koninkrijk der Nederlanden
+*The Kingdom of the Netherlands and the Republic of Ecuador, hereafter referred to as the Contracting Parties, Considering the importance of accurate assessment of customs duties and of ensuring proper enforcement by their customs administrations of prohibitions, restrictions and measures of control in respect of specific goods; Considering that offences against customs law are prejudicial to the economic, commercial, fiscal, social, public health, public security and cultural interests of the Contracting Parties; Considering that illegal cross-border trafficking in weapons, explosives, chemical, biological and nuclear substances, endangered species, hazardous goods as well as in narcotic drugs, psychotropic substances and precursors constitutes a danger to society; Recognizing the need for international co-operation in matters related to the application and enforcement of their customs laws; Convinced that action against customs offences can be made more effective by close co-operation between their customs administrations based on mutually agreed legal provisions; Having regard to the Recommendation on Mutual Administrative Assistance, the Declaration on the Improvement of Customs Co-operation and Mutual Administrative Assistance (the Cyprus Declaration) and the Resolution on Security and Facilitation of the International Trade Supply Chain, adopted in December 1953, July 2000 and June 2002, respectively, by the Customs Co-operation Council, now known as the World Customs Organization; Having regard to international conventions containing prohibitions, restrictions and special measures of control in respect of specific goods; Having regard also to the United Nations Universal Declaration of Human Rights of 1948; Have agreed as follows:*
 
-en
+### CHAPTER I. DEFINITIONS
 
-de Republiek Ecuador,
+##### Article 1. Definitions
 
-hierna te noemen de verdragsluitende partijen,
+For the purposes of this Agreement:
 
-Overwegend het belang van een juiste vaststelling van de douanerechten en van het waarborgen van een juiste handhaving door hun douaneadministraties van verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen;
+- a) “customs administration” shall mean:
 
-Overwegend dat inbreuken op de douanewetgeving schadelijk zijn voor de economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid, openbare orde en handel van de verdragsluitende partijen;
+   - – for the Kingdom of the Netherlands: the central administration responsible for the implementation of customs law;
 
-Overwegend dat de illegale grensoverschrijdende handel in wapens, explosieven, chemische, biologische en nucleaire stoffen, bedreigde dier- en plantensoorten, gevaarlijke stoffen alsmede in verdovende middelen, psychotrope stoffen en precursoren een gevaar voor de samenleving vormt;
+   - – for the Republic of Ecuador: the National Customs Service of Ecuador;
 
-Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving;
+- b) “customs duties” shall mean all duties, taxes, fees or any other charges which are levied, as well as any reimbursement of refunds or export subsidies which is demanded, in the territories of the Contracting Parties in application of customs law, but not including fees or other charges for services rendered;
 
-Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van wederzijds overeengekomen wettelijke bepalingen;
+- c) “customs law” shall mean any legal and administrative provisions applicable or enforceable by either customs administration in connection with the importation, exportation, transshipment, transit, storage and movement of goods, including legal and administrative provisions relating to measures of prohibition, restriction and control in respect of specific goods;
 
-Gelet op de Aanbeveling inzake wederzijdse administratieve bijstand, de Verklaring inzake verbetering van douanesamenwerking en wederzijdse administratieve bijstand (Verklaring van Cyprus) en de Resolutie inzake veiligheid en facilitatie van de internationale logistieke keten, aangenomen door de Internationale Douaneraad, tegenwoordig bekend als de Werelddouaneorganisatie, in respectievelijk december 1953, juli 2000 en juni 2002;
+- d) “customs offence” shall mean any violation or attempted violation of customs law;
 
-Gelet op internationale overeenkomsten die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten;
+- e) “information” shall mean any data, whether or not processed or analysed, and documents, reports, and other communications in any format, including electronic, or certified, or authenticated copies thereof;
 
-Tevens gelet op de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) van de Verenigde Naties van 1948;
+- f) “international trade supply chain” shall mean all processes involved in the cross-border movement of goods from the place of origin to the place of final destination;
 
-Zijn het volgende overeengekomen:
+- g) “official” shall mean any customs officer or other government agent designated by either customs administration;
 
-### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
+- h) “person” shall mean any natural or legal person;
 
-##### Artikel 1. Begripsomschrijvingen
+- i) “personal data” shall mean any data concerning an identified or identifiable natural person;
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+- j) “requested administration” shall mean the customs administration from which assistance is requested;
 
-- a. „douaneadministratie”:
+- k) “requesting administration” shall mean the customs administration which requests assistance;
 
-- –. wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving;
+- l) “requested Party” shall mean the Contracting Party whose customs administration is requested to provide assistance;
 
-- –. wat de Republiek Ecuador betreft: de Nationale Douanedienst van Ecuador;
+- m) “requesting Party” shall mean the Contracting Party whose customs administration requests assistance.
 
-- b. „douanerechten”: alle rechten, belastingen of heffingen die geheven worden alsmede elke restitutie van vergoedingen of exportsubsidies die gevorderd wordt op de grondgebieden van de verdragsluitende partijen bij toepassing van de douanewetgeving, maar met uitzondering van heffingen voor verleende diensten;
+### CHAPTER II. SCOPE OF THE AGREEMENT
 
-- c. „douanewetgeving”: alle wettelijke en administratieve bepalingen die door een van de douaneadministraties worden toegepast of gehandhaafd in verband met de invoer, uitvoer, overslag, doorvoer, opslag en het vervoer van goederen, met inbegrip van wettelijke en administratieve bepalingen met betrekking tot verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen;
+##### Article 2. Scope of the Agreement
 
-- d. „inbreuk op de douanewetgeving”: elke schending of poging tot schending van de douanewetgeving;
+1. The Contracting Parties shall through their customs administrations provide each other with administrative assistance under the terms set out in this Agreement, for the proper application of customs law, for the prevention, investigation and combating of customs offences and to ensure the security of the international trade supply chain.
 
-- e. „informatie”: alle gegevens, al dan niet bewerkt of geanalyseerd, en documenten, rapporten en andere mededelingen ongeacht in welke vorm, met inbegrip van de elektronische vorm, of gewaarmerkte of gelegaliseerde afschriften daarvan;
+2. AII assistance under this Agreement by either Contracting Party shall be provided in accordance with its legal and administrative provisions and within the limits of its customs administration's competence and available resources.
 
-- f. „internationale logistieke keten”: alle processen die van toepassing zijn bij het grensoverschrijdend verkeer van goederen van de plaats van herkomst naar de uiteindelijke plaats van bestemming;
+3. This Agreement is without prejudice to the obligations of the Kingdom of the Netherlands under the legislation of the European Union concerning its present and future obligations as a Member State of the European Union and any legislation enacted to implement those obligations, as well as its present and future obligations resulting from international agreements between the Member States of the European Union.
 
-- g. „functionaris”: elke douaneambtenaar of andere regeringsambtenaar aangewezen door een van de douaneadministraties;
+4. This Agreement covers mutual administrative assistance between the Contracting Parties and is not intended to have an impact on mutual legal assistance agreements between them. If mutual assistance is to be provided by other authorities of the requested Party, the requested administration shall indicate those authorities and where known the relevant agreement or arrangement applicable.
 
-- h. „persoon”: elke natuurlijke persoon of rechtspersoon;
+5. The provisions of this Agreement shall not give rise to a right on the part of any person to impede the execution of a request for assistance.
 
-- i. „persoonsgegevens”: alle gegevens betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
+### CHAPTER III. INFORMATION
 
-- j. „aangezochte administratie”: de douaneadministratie die om bijstand in douanezaken wordt verzocht;
+##### Article 3. Information for the application and enforcement of customs law
 
-- k. „verzoekende administratie”: de douaneadministratie die om bijstand in douanezaken verzoekt;
+1. The customs administrations shall provide each other, either on request or on their own initiative, with information which helps to ensure the proper application of customs law, the prevention, investigation and combating of customs offences and the security of the international trade supply chain. Such information may relate to:
 
-- l. „aangezochte partij”: de verdragsluitende partij wier douaneadministratie om bijstand in douanezaken wordt verzocht;
+- a) new law enforcement techniques which have proved their effectiveness;
 
-- m. „verzoekende partij”: de verdragsluitende partij wier douaneadministratie om bijstand in douanezaken verzoekt.
+- b) new trends, means or methods of committing customs offences;
 
-### HOOFDSTUK II. REIKWIJDTE VAN HET VERDRAG
+- c) goods known to be the subject of customs offences, as well as transport and storage methods used in respect of those goods;
 
-##### Artikel 2. Reikwijdte van het Verdrag
+- d) persons known to have committed a customs offence or suspected of being about to commit a customs offence;
 
-1. De verdragsluitende partijen verlenen elkaar door tussenkomst van hun douaneadministraties administratieve bijstand onder de in dit Verdrag genoemde voorwaarden ten behoeve van de juiste toepassing van de douanewetgeving, met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving, alsmede om de veiligheid van de internationale logistieke keten te waarborgen.
+- e) any other data that can assist customs administrations with risk assessment for control and facilitation purposes.
 
-2. Alle bijstand uit hoofde van dit Verdrag door een verdragsluitende partij wordt verleend in overeenstemming met haar wettelijke en administratieve bepalingen en binnen de grenzen van de bevoegdheden en beschikbare middelen van haar douaneadministratie.
+2. On request, the requested administration shall provide the requesting administration with information relative to instances where the latter has reason to doubt the information supplied to it by the person concerned in a matter related to the application of customs law.
 
-3. Dit Verdrag laat onverlet de verplichtingen van het Koninkrijk der Nederlanden ingevolge de wetgeving van de Europese Unie inzake zijn huidige en toekomstige verplichtingen als lidstaat van de Europese Unie en alle wetgeving die is vastgesteld om die verplichtingen na te komen, alsmede zijn huidige en toekomstige verplichtingen die voortvloeien uit internationale overeenkomsten tussen de lidstaten van de Europese Unie.
+##### Article 4. Information relating to customs offences
 
-4. Dit Verdrag heeft betrekking op de wederzijdse administratieve bijstand tussen de verdragsluitende partijen en is niet bedoeld van invloed te zijn op wederzijdse rechtshulpverdragen tussen hen. Indien wederzijdse bijstand moet worden verleend door andere autoriteiten van de aangezochte partij zal de aangezochte administratie deze autoriteiten en waar bekend het desbetreffende verdrag dat of de desbetreffende regeling die van toepassing is vermelden.
+1. Either customs administration shall, on request or on its own initiative, provide the customs administration of the other Contracting Party with information on activities, planned, ongoing, or completed, which appear to constitute a customs offence in the territory of the other Contracting Party.
 
-5. Personen kunnen aan de bepalingen van dit Verdrag niet het recht ontlenen de uitvoering van een verzoek om bijstand te doen beletten.
+2. In cases that could involve substantial damage to the economy, public health, public security, including the security of the international trade supply chain, or any other vital interest of either Contracting Party, the customs administration of the other Contracting Party shall, wherever possible, supply such information on its own initiative without delay.
 
-### HOOFDSTUK III. INFORMATIE
+##### Article 5. Information relating to the lawfulness of the importation or exportation of goods
 
-##### Artikel 3. Informatie voor de toepassing en handhaving van de douanewetgeving
+On request, the requested administration shall provide the requesting administration with information on:
 
-1. De douaneadministraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie ten behoeve van de juiste toepassing van de douanewetgeving met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving, alsmede om de veiligheid van de internationale logistieke keten te waarborgen. Deze informatie kan betrekking hebben op:
+- a) whether goods exported from the territory of the requesting Party have been lawfully imported into the territory of the requested Party, and the customs procedure, if any, under which the goods have been placed;
 
-- a. nieuwe wetshandhavingstechnieken die hun doeltreffendheid hebben bewezen;
+- b) whether goods imported into the territory of the requesting Party have been lawfully exported from the territory of the requested Party.
 
-- b. nieuwe trends, middelen of werkwijzen bij het maken van inbreuken op de douanewetgeving;
+##### Article 6. Automatic transmission of information
 
-- c. goederen waarvan bekend is dat zij het voorwerp vormen van inbreuken op de douanewetgeving, alsmede de voor deze goederen toegepaste vervoer- en opslagmethoden;
+The customs administrations may, by mutual arrangement in accordance with [Article 20](https://wetten.overheid.nl/BWBV0007014) of this Agreement, transmit to one another any information covered by this Agreement on an automatic basis.
 
-- d. personen van wie bekend is dat zij een inbreuk op de douanewetgeving hebben gemaakt of van wie wordt vermoed dat zij een inbreuk op de douanewetgeving gaan maken;
+##### Article 7. Advanced transmission of information
 
-- e. alle andere gegevens die de douaneadministraties van nut kunnen zijn bij de risicobeoordeling voor controle- en facilitatiedoeleinden.
+The customs administrations may, by mutual arrangement in accordance with [Article 20](https://wetten.overheid.nl/BWBV0007014) of this Agreement, transmit specific information to one another in advance of the arrival of goods in the territory of the other Contracting Party.
 
-2. Op verzoek verstrekt de aangezochte administratie de verzoekende administratie informatie die betrekking heeft op gevallen waarin de laatste reden heeft te twijfelen aan door de betreffende persoon verstrekte informatie in een zaak die verband houdt met de toepassing van de douanewetgeving.
+### CHAPTER IV. SPECIAL TYPES OF ASSISTANCE
 
-##### Artikel 4. Informatie met betrekking tot inbreuken op de douanewetgeving
+##### Article 8. Technical co-operation
 
-1. De douaneadministratie van een verdragsluitende partij verstrekt, op verzoek of uit eigen beweging, informatie aan de douaneadministratie van de andere verdragsluitende partij over voorgenomen, lopende of voltooide activiteiten die een inbreuk op de douanewetgeving op het grondgebied van de andere verdragsluitende partij lijken te vormen.
+The customs administrations may assist each other by benchmarking, exchanging knowledge, experience and best practices on matters such as:
 
-2. In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare orde, met inbegrip van de veiligheid van de internationale logistieke keten, of voor andere vitale belangen van een verdragsluitende partij met zich kunnen meebrengen, verstrekt de douaneadministratie van de andere verdragsluitende partij, waar mogelijk, uit eigen beweging en onverwijld zulke informatie.
+- a) training of staff;
 
-##### Artikel 5. Informatie over de rechtmatigheid van de invoer of uitvoer van goederen
+- b) customs procedures;
 
-Op verzoek stelt de aangezochte administratie de verzoekende administratie op de hoogte van:
+- c) risk management;
 
-- a. het feit of goederen die werden uitgevoerd uit het grondgebied van de verzoekende partij op rechtmatige wijze zijn ingevoerd in het grondgebied van de aangezochte partij en onder welke douaneregeling de goederen eventueel zijn geplaatst;
+- d) use of technical equipment for control;
 
-- b. het feit of goederen die zijn ingevoerd in het grondgebied van de verzoekende partij op rechtmatige wijze werden uitgevoerd uit het grondgebied van de aangezochte partij.
+- e) managerial and administrative organization.
 
-##### Artikel 6. Automatisch verstrekken van informatie
+##### Article 9. Surveillance and information
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0007014&hoofdstuk=X&artikel=20&z=2025-05-01&g=2025-05-01) van dit Verdrag, automatisch informatie die onder dit Verdrag valt verstrekken.
+1. On request, the requested administration shall maintain surveillance over and provide information on:
 
-##### Artikel 7. Vooraf verstrekken van informatie
+- a) goods, either in transport or in storage, known to have been used or suspected of being used to commit a customs offence in the territory of the requesting Party;
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0007014&hoofdstuk=X&artikel=20&z=2025-05-01&g=2025-05-01) van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van goederen op het grondgebied van de andere verdragsluitende partij.
+- b) means of transport known to have been used or suspected of being used to commit a customs offence in the territory of the requesting Party;
 
-### HOOFDSTUK IV. BIJZONDERE VORMEN VAN BIJSTAND
+- c) premises in the territory of the requested Party known to have been used or suspected of being used in connection with the commission of a customs offence in the territory of the requesting Party;
 
-##### Artikel 8. Technische samenwerking
+- d) persons known to have committed a customs offence or suspected of being about to commit a customs offence in the territory of the requesting Party, particularly those moving into and out of the territory of the requested Party.
 
-De douaneadministraties kunnen elkaar bijstand verlenen door het uitvoeren van benchmarks, uitwisselen van kennis, ervaring en beste praktijken met betrekking tot zaken als:
+2. Either customs administration may maintain such surveillance and provide such information on its own initiative if it has reason to believe that activities planned, ongoing or completed appear to constitute a customs offence in the territory of the other Contracting Party.
 
-- a. training van personeel;
+##### Article 10. Experts and witnesses
 
-- b. douaneprocedures;
+On request, the requested administration may authorize officials to appear before a court or tribunal in the territory of the requesting Party as experts or witnesses in a matter related to the application of customs law.
 
-- c. risicobeheersing;
+### CHAPTER V. COMMUNICATION OF REQUESTS
 
-- d. gebruik van technische apparatuur bij controles;
+##### Article 11. Communication of requests
 
-- e. management en administratieve organisatie.
+1. Requests for assistance under this Agreement shall be addressed directly to the customs administration of the other Contracting Party. Requests shall be made in writing or electronically and shall be accompanied by any information deemed useful for compliance with the request. The requested administration may require written confirmation of electronic requests. Where the circumstances so require, requests may be made verbally. Such requests shall be confirmed as soon as possible either in writing, or, if acceptable to both customs administrations, electronically.
 
-##### Artikel 9. Toezicht en informatie
+2. Requests made pursuant to paragraph 1 of this Article shall include the following details:
 
-1. Op verzoek houdt de aangezochte administratie toezicht op en verstrekt zij informatie over:
+- a) the name of the requesting administration;
 
-- a. goederen in vervoer of in opslag waarvan bekend is dat zij gebruikt zijn of waarvan het vermoeden bestaat dat zij gebruikt worden voor het maken van een inbreuk op de douanewetgeving op het grondgebied van de verzoekende partij;
+- b) the matter at issue, type of assistance requested, and reasons for the request;
 
-- b. vervoermiddelen waarvan bekend is dat ze gebruikt zijn of waarvan het vermoeden bestaat dat ze gebruikt worden voor het maken van een inbreuk op de douanewetgeving op het grondgebied van de verzoekende partij;
+- c) a brief description of the case under review and the legal and administrative provisions that apply;
 
-- c. panden op het grondgebied van de aangezochte partij waarvan bekend is dat zij gebruikt zijn of waarvan het vermoeden bestaat dat zij gebruikt worden in verband met het maken van een inbreuk op de douanewetgeving op het grondgebied van de verzoekende partij;
+- d) the names and addresses of the persons to whom the request relates, if known.
 
-- d. personen van wie bekend is dat zij een inbreuk op de douanewetgeving hebben gemaakt of van wie het vermoeden bestaat dat zij op het punt staan een inbreuk te maken op de douanewetgeving op het grondgebied van de verzoekende partij, in het bijzonder diegenen die het grondgebied van de aangezochte partij betreden en verlaten.
+3. Where the requesting administration requests that a certain procedure or methodology be followed, the requested administration shall comply with such a request subject to its national legal and administrative provisions.
 
-2. De douaneadministratie van een verdragsluitende partij kan dergelijk toezicht houden en uit eigen beweging dergelijke informatie aan de douaneadministratie van de andere verdragsluitende partij verstrekken indien zij redenen heeft om aan te nemen dat voorgenomen, lopende of voltooide activiteiten een inbreuk op de douanewetgeving op het grondgebied van de andere verdragsluitende partij lijken te vormen.
+4. Original information shall only be requested in cases where copies would be insufficient and shall be returned at the earliest opportunity. The rights of the requested administration or of third parties relating thereto shall remain unaffected.
 
-##### Artikel 10. Deskundigen en getuigen
+### CHAPTER VI. EXECUTION OF REQUESTS
 
-De aangezochte administratie kan, op verzoek, functionarissen machtigen ter zake van de uitvoering van de douanewetgeving als deskundige of getuige te verschijnen voor een rechtscollege op het grondgebied van de verzoekende partij.
+##### Article 12. Means of obtaining information
 
-### HOOFDSTUK V. TOEZENDING VAN VERZOEKEN
+1. lf the requested administration does not have the information requested, it shall initiate inquiries to obtain that information.
 
-##### Artikel 11. Toezending van verzoeken
+2. If the requested administration is not the appropriate authority to initiate inquiries to obtain the information requested, it may, in addition to indicating the appropriate authority, transmit the request to that authority.
 
-1. Verzoeken om bijstand uit hoofde van dit Verdrag worden rechtstreeks aan de douaneadministratie van de andere verdragsluitende partij gericht. Verzoeken worden schriftelijk of elektronisch gedaan en gaan vergezeld van alle informatie die voor de inwilliging van het verzoek nuttig wordt geacht. De aangezochte administratie kan schriftelijke bevestiging van elektronische verzoeken verlangen. Wanneer de omstandigheden dit vereisen, kunnen verzoeken mondeling worden gedaan. Dergelijke verzoeken worden zo spoedig mogelijk hetzij schriftelijk, hetzij, indien beide douaneadministraties daarmee instemmen, elektronisch bevestigd.
+##### Article 13. Presence of officials in the territory of the other Contracting Party
 
-2. Verzoeken ingevolge het eerste lid van dit artikel bevatten de volgende gegevens:
+On request, officials designated by the requesting administration may, with the authorization of the requested administration and subject to conditions the latter may impose, for the purpose of investigating a customs offence:
 
-- a. de naam van de verzoekende administratie;
+- a) examine, in the offices of the requested administration, documents and any other information in respect of that customs offence, and be supplied with copies thereof;
 
-- b. het onderwerp van en de reden voor het verzoek, alsmede de aard van de verzochte bijstand;
+- b) be present during an inquiry conducted by the requested administration in the territory of the requested Party, which is relevant to the requesting administration; these officials shall only have an advisory role.
 
-- c. een korte beschrijving van de desbetreffende zaak en van de wettelijke en administratieve bepalingen die erop van toepassing zijn;
+##### Article 14. Presence of officials of the requesting Contracting Party at the invitation of the requested administration
 
-- d. de namen en adressen van de personen op wie het verzoek betrekking heeft, indien bekend.
+Where the requested administration considers it appropriate for officials of the requesting Party to be present when measures of assistance are carried out pursuant to a request, the requested administration may invite the participation of officials of the requesting Party subject to any terms and conditions it may specify.
 
-3. Wanneer de verzoekende administratie verlangt dat een bepaalde procedure of methode gevolgd wordt, zal de aangezochte administratie aan een dergelijk verzoek voldoen met inachtneming van haar nationale wettelijke en administratieve bepalingen.
+##### Article 15. Visiting officials
 
-4. Om originele informatie wordt slechts verzocht in gevallen waarin niet met afschriften kan worden volstaan en deze wordt zo spoedig mogelijk teruggezonden. De rechten van de aangezochte administratie of van derden ter zake blijven onverlet.
+1. When officials of either Contracting Party are present in the territory of the other Contracting Party under the terms of this Agreement, they must at all times be able to furnish proof of their identity and official capacity.
 
-### HOOFDSTUK VI. UITVOERING VAN VERZOEKEN
+2. Officials of either Contracting Party shall, while in the territory of the other Contracting Party under the terms of this Agreement, enjoy the protection accorded to customs officers of the other Contracting Party to the extent provided by its legal and administrative provisions, and be responsible for any offence they might commit.
 
-##### Artikel 12. Vergaren van informatie
+### CHAPTER VII. USE, CONFIDENTIALITY AND PROTECTION OF INFORMATION
 
-1. Indien de aangezochte administratie niet over de gevraagde informatie beschikt, stelt zij een onderzoek in om die informatie te vergaren.
+##### Article 16. Use of information
 
-2. Indien de aangezochte administratie niet de bevoegde autoriteit is om een onderzoek in te stellen om de verzochte informatie te vergaren, kan zij, naast het aanwijzen van de bevoegde autoriteit, het verzoek aan die autoriteit doorzenden.
+1. Any information received under this Agreement shall be used only by the customs administrations of the Contracting Parties and solely for the purpose of administrative assistance under the terms set out in this Agreement.
 
-##### Artikel 13. Aanwezigheid van functionarissen op het grondgebied van de andere verdragsluitende partij
+2. On request, the Contracting Party that supplied the information may, notwithstanding paragraph 1, authorize its use by other authorities or for other purposes, subject to any terms and conditions it may specify. Such use shall be in accordance with the legal and administrative provisions of the Contracting Party which seeks to use the information. The use of information for other purposes includes its use in criminal investigations, prosecutions or proceedings.
 
-Door de verzoekende administratie aangewezen functionarissen kunnen, met instemming van de aangezochte administratie en onder voorwaarden die laatstgenoemde hieraan kan verbinden, ten behoeve van onderzoek naar een inbreuk op de douanewetgeving, op verzoek:
+##### Article 17. Confidentiality and Protection of Information
 
-- a. ten kantore van de aangezochte administratie documenten en alle andere informatie met betrekking tot die inbreuk op de douanewetgeving onderzoeken en daarvan afschriften verkrijgen;
+1. Any information received under this Agreement shall be treated as confidential and shall, at least, be subject to the same confidentiality and protection as the same kind of information is subject to under the legal and administrative provisions of the Contracting Party where it is received.
 
-- b. aanwezig zijn bij een door de aangezochte administratie geleid onderzoek op het grondgebied van de aangezochte partij dat van belang is voor de verzoekende administratie; deze functionarissen zullen uitsluitend een adviserende rol hebben.
+2. Any personal data exchanged under this Agreement shall, at least, be subject to the level of protection afforded to personal data in the national legal or administrative provisions of the Contracting Party whose customs administration provided these personal data.
 
-##### Artikel 14. Aanwezigheid van functionarissen van de verzoekende verdragsluitende partij op uitnodiging van de aangezochte administratie
+3. Contracting Parties shall provide each other with all legislation relevant to this Article. Personal data exchange will not begin before this legislation has been received. In case the legislation is amended both Parties will inform each other about the amendments immediately.
 
-Indien de aangezochte administratie het wenselijk acht dat functionarissen van de verzoekende partij aanwezig zijn wanneer, overeenkomstig een verzoek, bijstandsmaatregelen worden uitgevoerd, kan zij de verzoekende partij uitnodigen daartoe functionarissen ter beschikking te stellen, met inachtneming van alle door haar daaraan verbonden voorwaarden.
+4. The exchange of personal data under this Agreement shall take place in accordance with the legal and administrative provisions of either Contracting Party and shall be subject to the provisions in the [Annex](https://wetten.overheid.nl/BWBV0007014) to this Agreement, which is an integral part of this Agreement.
 
-##### Artikel 15. Bezoekende functionarissen
+### CHAPTER VIII. EXEMPTIONS
 
-1. Indien functionarissen van de ene verdragsluitende partij aanwezig zijn op het grondgebied van de andere verdragsluitende partij uit hoofde van dit Verdrag, dienen zij te allen tijde in staat te zijn hun identiteit en officiële hoedanigheid aan te tonen.
+##### Article 18. Exemptions
 
-2. Functionarissen van de ene verdragsluitende partij genieten, gedurende hun verblijf uit hoofde van dit Verdrag op het grondgebied van de andere verdragsluitende partij, de bescherming die wordt toegekend aan douaneambtenaren van de andere verdragsluitende partij voor zover dit uit hoofde van de wettelijke en administratieve bepalingen van die verdragsluitende partij mogelijk is en zij zijn verantwoordelijk voor de strafbare feiten die zij eventueel begaan.
+1. Where any assistance requested under this Agreement may infringe the sovereignty, security, public policy or any other substantive national interest of the requested Party, or prejudice any legitimate commercial or professional interest, such assistance may be declined by the requested Party or provided subject to any terms and conditions it may require.
 
-### HOOFDSTUK VII. GEBRUIK, VERTROUWELIJKHEID EN BESCHERMING VAN INFORMATIE
+2. Where the requesting administration would be unable to comply if a similar request were made by the requested administration, it shall draw attention to that fact in its request. Compliance with such a request shall be at the discretion of the requested administration.
 
-##### Artikel 16. Gebruik van informatie
+3. Assistance may be postponed if there are grounds to believe that it will interfere with an ongoing investigation, prosecution or proceeding. In such a case the requested administration shall consult with the requesting administration to determine if assistance can be provided subject to any terms and conditions the requested administration may require.
 
-1. Uit hoofde van dit Verdrag ontvangen informatie mag slechts worden gebruikt door de douaneadministraties van de verdragsluitende partijen en uitsluitend ten behoeve van administratieve bijstand die wordt verleend onder de in dit Verdrag vervatte voorwaarden.
+4. If the requested administration considers that the effort required to fulfil a request is clearly disproportionate to the perceived benefit to the requesting administration, it may decline to provide the requested assistance.
 
-2. Niettegenstaande het eerste lid van dit artikel kan de verdragsluitende partij die de informatie heeft verstrekt, op verzoek, haar goedkeuring hechten aan het gebruik ervan door andere autoriteiten of voor andere doeleinden, met inachtneming van alle door haar daaraan verbonden voorwaarden. Dergelijk gebruik dient in overeenstemming te zijn met de wettelijke en administratieve bepalingen van de verdragsluitende partij die de informatie wil gebruiken. Het gebruik van informatie voor andere doeleinden omvat het gebruik bij strafrechtelijk onderzoek, strafrechtelijke vervolging of strafrechtelijke procedures.
+5. The requested administration declining or postponing assistance shall inform the requesting administration hereof without delay. The reasons for declining or postponement shall be given.
 
-##### Artikel 17. Vertrouwelijkheid en bescherming van informatie
+### CHAPTER IX. COSTS
 
-1. Uit hoofde van dit Verdrag ontvangen informatie wordt vertrouwelijk behandeld en daarvoor gelden ten minste dezelfde vertrouwelijkheid en bescherming als die welke voor soortgelijke informatie gelden krachtens de wettelijke en administratieve bepalingen van de verdragsluitende partij waar zij wordt ontvangen.
+##### Article 19. Costs
 
-2. Op uit hoofde van dit Verdrag uitgewisselde persoonsgegevens is een beschermingsniveau van toepassing dat ten minste gelijk is aan het beschermingsniveau voor persoonsgegevens dat gehanteerd wordt in de nationale wettelijke en administratieve bepalingen van de verdragsluitende partij wier douaneadministratie deze persoonsgegevens heeft verstrekt.
+1. Subject to paragraphs 2 and 3 of this Article, the Parties shall waive all claims for reimbursement of costs incurred in the application of this Agreement.
 
-3. De verdragsluitende partijen verschaffen elkaar alle wetgeving welke van belang is voor dit artikel. Persoonsgegevens worden pas uitgewisseld nadat de wetgeving is ontvangen. Wanneer de wetgeving wordt gewijzigd stellen beide partijen elkaar onverwijld in kennis van de wijzigingen.
+2. Expenses and allowances paid to experts and witnesses, as well as costs of translators and interpreters other than Government employees, shall be borne by the requesting Party.
 
-4. Uitwisseling van persoonsgegevens uit hoofde van dit Verdrag geschiedt in overeenstemming met de wettelijke en administratieve bepalingen van de desbetreffende verdragsluitende partij en is onderworpen aan de bepalingen in de Bijlage bij dit Verdrag, die een integrerend onderdeel uitmaakt van dit Verdrag.
+3. If the execution of a request requires expenses of a substantial or extraordinary nature, the Parties shall consult to determine the terms and conditions under which the request will be executed as well as the manner in which the costs shall be borne.
 
-### HOOFDSTUK VIII. WEIGERINGSGRONDEN
+### CHAPTER X. IMPLEMENTATION AND APPLICATION OF THE AGREEMENT
 
-##### Artikel 18. Weigeringsgronden
+##### Article 20. Implementation and application of the Agreement
 
-1. Indien de bijstand waar uit hoofde van dit Verdrag om wordt verzocht een inbreuk zou kunnen vormen op de soevereiniteit, de veiligheid, de openbare orde of een ander wezenlijk nationaal belang van de aangezochte partij, of rechtmatige handels- of beroepsbelangen zou kunnen schaden, kan deze bijstand door die verdragsluitende partij worden geweigerd of worden verstrekt onder de voorwaarden die zij kan stellen.
+The customs administrations shall jointly decide on a Memorandum of Understanding, within the framework of this Agreement, to facilitate the implementation and application of this Agreement.
 
-2. Indien de verzoekende administratie niet in staat zou zijn een soortgelijk verzoek van de aangezochte administratie in te willigen, wijst zij daarop in haar verzoek. Inwilliging van een dergelijk verzoek wordt overgelaten aan het oordeel van de aangezochte administratie.
+### CHAPTER XI. TERRITORIAL APPLICATION
 
-3. De bijstand kan worden uitgesteld indien er gronden zijn om aan te nemen dat een lopend onderzoek of een lopende vervolging of procedure hiermee wordt doorkruist. In een dergelijk geval pleegt de aangezochte administratie overleg met de verzoekende administratie om te bepalen of de bijstand kan worden verleend onder de voorwaarden die de aangezochte administratie verlangt.
+##### Article 21. Territorial Application
 
-4. Indien de aangezochte administratie van mening is dat de inspanningen die moeten worden verricht om aan een verzoek te voldoen duidelijk niet in verhouding staan tot het beoogde nut voor de verzoekende administratie, kan zij de gevraagde bijstand weigeren.
+1. As far as the Republic of Ecuador is concerned, this Agreement shall be applicable in its territory.
 
-5. De aangezochte administratie die de bijstand weigert of uitstelt, stelt de verzoekende administratie daarvan onverwijld in kennis. De weigering of het uitstel wordt met redenen omkleed.
+2. As far as the Kingdom of the Netherlands is concerned, this Agreement shall be applicable in:
 
-### HOOFDSTUK IX. KOSTEN
+- a) its territory in Europe and the Caribbean part of the Netherlands (the islands of Bonaire, Sint Eustatius and Saba);
 
-##### Artikel 19. Kosten
+- b) Aruba;
 
-1. Behoudens het bepaalde in het tweede en derde lid van dit artikel zien de partijen af van alle vorderingen tot vergoeding van ter uitvoering van dit Verdrag gemaakte kosten.
+- c) Curacao;
 
-2. Bedragen en vergoedingen betaald aan deskundigen en getuigen, alsook de kosten van vertalers en tolken die niet in dienst zijn van de regering, worden gedragen door de verzoekende partij.
+- d) Sint Maarten.
 
-3. Indien met de uitvoering van een verzoek aanmerkelijke kosten of kosten van buitengewone aard zullen zijn gemoeid, plegen de partijen overleg om de voorwaarden te bepalen waaronder het verzoek zal worden uitgevoerd, alsmede de wijze waarop de kosten worden gedragen.
+3. Notwithstanding paragraph 2, as far as the Kingdom of the Netherlands is concerned, [paragraph 3 of Article 2](https://wetten.overheid.nl/BWBV0007014) is only applicable in its territory in Europe.
 
-### HOOFDSTUK X. UITVOERING EN TOEPASSING VAN HET VERDRAG
+### CHAPTER XII. SETTLEMENT OF DISPUTES
 
-##### Artikel 20. Uitvoering en toepassing van het Verdrag
+##### Article 22. Settlement of disputes
 
-De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag, over een Memorandum van Overeenstemming ter vergemakkelijking van de uitvoering en toepassing van dit Verdrag.
+1. The customs administrations shall endeavour to resolve disputes or other difficulties concerning the interpretation or application of this Agreement by mutual accord.
 
-### HOOFDSTUK XI. TERRITORIALE TOEPASSING
+2. Unresolved disputes or difficulties shall be settled through diplomatic channels.
 
-##### Artikel 21. Territoriale toepassing
+### CHAPTER XIII. FINAL PROVISIONS
 
-1. Wat de Republiek Ecuador betreft, is dit Verdrag van toepassing op haar grondgebied.
+##### Article 23. Entry into force
 
-2. Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op:
+This Agreement shall enter into force on the first day of the second month after the Parties have notified each other in writing through diplomatic channels that the constitutional or internal requirements for the entry into force of this Agreement have been met.
 
-- a. zijn grondgebied in Europa en het Caribisch deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba);
+##### Article 24. Review
 
-- b. Aruba;
+On request, the Contracting Parties shall meet in order to review this Agreement.
 
-- c. Curaçao;
+##### Article 25. Duration and termination
 
-- d. Sint Maarten.
+1. This Agreement is intended to be of unlimited duration but either Contracting Party may terminate it in respect of the entire Kingdom or in respect of each separate part of the Kingdom of the Netherlands at any time by notification through diplomatic channels.
 
-3. Niettegenstaande het tweede lid is, wat het Koninkrijk der Nederlanden betreft, het [derde lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007014&hoofdstuk=II&artikel=2&z=2025-05-01&g=2025-05-01) uitsluitend van toepassing op zijn grondgebied in Europa.
-
-### HOOFDSTUK XII. REGELING VAN GESCHILLEN
-
-##### Artikel 22. Regeling van geschillen
-
-1. De douaneadministraties streven ernaar geschillen of andere problemen betreffende de interpretatie of toepassing van dit Verdrag in onderlinge overeenstemming op te lossen.
-
-2. Geschillen of problemen waarvoor geen oplossing wordt gevonden, worden langs diplomatieke weg geregeld.
-
-### HOOFDSTUK XIII. SLOTBEPALINGEN
-
-##### Artikel 23. Inwerkingtreding
-
-Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan de grondwettelijke of nationale vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
-
-##### Artikel 24. Herziening
-
-Op verzoek komen de verdragsluitende partijen bijeen om het Verdrag te herzien.
-
-##### Artikel 25. Duur en beëindiging
-
-1. Dit Verdrag wordt in beginsel voor onbepaalde tijd gesloten, maar elk van beide verdragsluitende partijen kan het ten aanzien van het gehele Koninkrijk of ten aanzien van elk afzonderlijk deel van het Koninkrijk der Nederlanden te allen tijde bij kennisgeving langs diplomatieke weg beëindigen.
-
-2. De beëindiging wordt van kracht drie maanden na de datum van de kennisgeving aan de andere verdragsluitende partij. Lopende procedures op het tijdstip van beëindiging worden niettemin voltooid in overeenstemming met de bepalingen van dit Verdrag.
+2. The termination shall take effect three months from the date of the notification of such to the other Contracting Party. Ongoing proceedings at the time of termination shall nonetheless be completed in accordance with the provisions of this Agreement.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement.
 
 DONE at Quito on the 19th day of October, 2023, in duplicate, in the English, Dutch and Spanish languages, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 AUKJE DE VRIES
 
-**For the Republic of Ecuador,**
+*For the Republic of Ecuador,*
 
 CARLOS HUMBERTO LARREA DÁVILA

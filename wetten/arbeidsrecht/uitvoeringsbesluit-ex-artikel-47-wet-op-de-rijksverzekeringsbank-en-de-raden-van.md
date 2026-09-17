@@ -9,7 +9,7 @@ laatste_update: 1949-07-01
 status: geldig
 toestand: 1949-07-01
 bron: "https://wetten.overheid.nl/BWBR0002047"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 30 mei 1949, tot intrekking van het Koninklijk besluit van 13 Juli 1934, Staatsblad No. 368 (Arbeidsovereenkomstenbesluit Raden van Arbeid) en vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 47 der Wet op de Rijksverzekeringsbank en de Raden van Arbeid, Staatsblad 1933, No. 598, ter vervanging van het Koninklijk besluit van 2 Januari 1925, Staatsblad No. 1, tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 50, eerste lid, der Radenwet

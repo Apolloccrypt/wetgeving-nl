@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0001847"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 25 juli 1871, houdende regeling van de bevoegdheid der consulaire ambtenaren tot het opmaken van burgerlijke akten, en van de consulaire regtsmagt

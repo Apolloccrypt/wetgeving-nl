@@ -1,35 +1,18 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Ivoorkust betreffende de status van het personeel van het Ministerie van Defensie van het Koninkrijk der Nederlanden dat zich op het Ivoriaanse grondgebied bevindt in het kader van militaire activiteiten"
 identifier: "BWBV0007034"
-country: "nl"
-rank: "verdrag"
-publication_date: "2024-01-08"
-last_updated: "2024-01-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0007034"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005650053"
-version_id: "10006224052"
-internal_id: "C10010067251"
-label_id: "10005631934"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0007034/2024-01-08/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0007034&z=2024-01-08&g=2024-01-08"
-jci_1_0: "1.0:c:BWBV0007034&g=2024-01-08"
-citeertitel_status: "redactioneel"
+laatste_update: 2024-01-08
+status: geldig
+toestand: 2024-01-08
+bron: "https://wetten.overheid.nl/BWBV0007034"
+opgehaald: 2026-09-17
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Ivoorkust betreffende de status van het personeel van het Ministerie van Defensie van het Koninkrijk der Nederlanden dat zich op het Ivoriaanse grondgebied bevindt in het kader van militaire activiteiten
 
-Het Koninkrijk der Nederlanden, enerzijds,
-
-en
-
-de Republiek Ivoorkust, anderzijds,
-
-hierna te noemen „de Partijen”,
-
-Komen het volgende overeen:
+*Het Koninkrijk der Nederlanden, enerzijds, en de Republiek Ivoorkust, anderzijds, hierna te noemen „de Partijen”, Komen het volgende overeen:*
 
 ##### Artikel I. Doel
 
@@ -67,7 +50,7 @@ Voor de toepassing van dit Verdrag wordt onder de navolgende begrippen het volge
 
 4. De bevoegde autoriteiten van de Ontvangende staat kunnen de bevoegde autoriteiten van de Zendstaat verzoeken om afstand te doen van haar exclusieve rechtsmacht over een lid van het Personeel van de Zendstaat in gevallen die van bijzonder belang zijn voor de Ontvangende staat. In dergelijke gevallen treden de bevoegde autoriteiten van de Partijen met elkaar in overleg teneinde elkaars legitieme belangen te beschermen.
 
-- a. Indien de autoriteiten van de Ontvangende staat een lid van het Personeel van de Zendstaat arresteren, dragen zij hem onmiddellijk over aan de officier die verantwoordelijk is voor het Personeel van de Zendstaat en doen deze verantwoordelijke officier onverwijld een rapport met vermelding van de redenen van de arrestatie toekomen.
+5. - a. Indien de autoriteiten van de Ontvangende staat een lid van het Personeel van de Zendstaat arresteren, dragen zij hem onmiddellijk over aan de officier die verantwoordelijk is voor het Personeel van de Zendstaat en doen deze verantwoordelijke officier onverwijld een rapport met vermelding van de redenen van de arrestatie toekomen.
 
 - b. De autoriteiten van de Ontvangende staat verlenen bijstand bij het uitvoeren van onderzoek en de bewijsvergaring.
 
@@ -91,11 +74,11 @@ In de uitoefening van militaire activiteiten in het kader van dit Verdrag:
 
 - 2. Het militair personeel zal wapens en munitie mogen bezitten, dragen en/of gebruiken onder de volgende cumulatieve voorwaarden:
 
-- a. Ze zijn hiervoor geautoriseerd middels hun dienstopdracht;
+   - a. Ze zijn hiervoor geautoriseerd middels hun dienstopdracht;
 
-- b. het is in overeenstemming met de geldende wetgeving van de Ontvangende Staat;
+   - b. het is in overeenstemming met de geldende wetgeving van de Ontvangende Staat;
 
-- c. de bevoegde autoriteiten van de Partijen beslissen op voorhand of het noodzakelijk is om hierover nadere regelingen te stellen, zoals beschreven in [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0007034&artikel=IX&z=2024-01-08&g=2024-01-08).
+   - c. de bevoegde autoriteiten van de Partijen beslissen op voorhand of het noodzakelijk is om hierover nadere regelingen te stellen, zoals beschreven in [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0007034&artikel=IX&z=2024-01-08&g=2024-01-08).
 
 - 3. De wapens en de munitie worden opgeslagen en bewaakt in overeenstemming met de geldende wetgeving van de Ontvangende Staat.
 
@@ -163,12 +146,12 @@ De Partijen kunnen dit Verdrag te allen tijde beëindigen door middel van een sc
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
-GEDAAN te Abidjan, op 8 januari 2024, in tweevoud, in de Nederlandse en Franse taal, zijnde beide gelijkelijk authentiek.
+GEDAAN te Abidjan, op 8 januari 2024, in tweevoud, in de Nederlandse en Franse taal, zijnde beide gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 K.H. OLLONGREN
 
-**Voor de Republiek Ivoorkust,**
+*Voor de Republiek Ivoorkust,*
 
 T.B. OUATTARA

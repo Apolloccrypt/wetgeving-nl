@@ -9,7 +9,7 @@ laatste_update: 1956-01-01
 status: geldig
 toestand: 1956-01-01
 bron: "https://wetten.overheid.nl/BWBR0002189"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 18 juni 1955, houdende uitvoering van artikel 32 van de Instellingswet Productschappen en Hoofdproductschap voor Akkerbouwproducten

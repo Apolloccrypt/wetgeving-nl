@@ -9,7 +9,7 @@ laatste_update: 1958-03-01
 status: geldig
 toestand: 1958-03-01
 bron: "https://wetten.overheid.nl/BWBR0002272"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 11 februari 1958, tot regeling van de aanwijzing van afgevaardigden van Nederland in de Vergadering van de Europese Gemeenschap voor Kolen en Staal, de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie

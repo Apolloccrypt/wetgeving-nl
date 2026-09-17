@@ -9,7 +9,7 @@ laatste_update: 2002-12-25
 status: geldig
 toestand: 2002-12-25
 bron: "https://wetten.overheid.nl/BWBR0001927"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 4 december 1925, tot uitvoering van de artikelen 62 en 76 van het nieuwe Wetboek van Strafvordering

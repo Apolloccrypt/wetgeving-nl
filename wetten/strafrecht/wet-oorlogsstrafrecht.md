@@ -9,7 +9,7 @@ laatste_update: 2013-10-01
 status: geldig
 toestand: 2013-10-01
 bron: "https://wetten.overheid.nl/BWBR0002099"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 10 Juli 1952, houdende vaststelling van de Wet Oorlogsstrafrecht alsmede van enige daarmede verband houdende wijzigingen in het Wetboek van Strafrecht, het Wetboek van Militair Strafrecht en de Invoeringswet Militair Straf- en Tuchtrecht

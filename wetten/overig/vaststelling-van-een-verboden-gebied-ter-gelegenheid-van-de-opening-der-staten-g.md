@@ -8,7 +8,7 @@ laatste_update: 1959-10-01
 status: geldig
 toestand: 1959-10-01
 bron: "https://wetten.overheid.nl/BWBR0002325"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Vaststelling van een verboden gebied ter gelegenheid van de opening der Staten-Generaal

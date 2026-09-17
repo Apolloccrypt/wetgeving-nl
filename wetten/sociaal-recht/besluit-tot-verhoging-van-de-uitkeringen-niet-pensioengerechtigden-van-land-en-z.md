@@ -9,7 +9,7 @@ laatste_update: 1952-04-24
 status: geldig
 toestand: 1952-04-24
 bron: "https://wetten.overheid.nl/BWBR0002073"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 24 maart 1951, tot verhoging van de uitkeringen niet-pensioengerechtigden van land- en zeemacht met een toeslag

@@ -9,7 +9,7 @@ laatste_update: 1971-01-01
 status: geldig
 toestand: 1971-01-01
 bron: "https://wetten.overheid.nl/BWBR0002128"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 24 december 1953, houdende regeling omtrent het verlenen van bijdragen door de Staat in materiële schade, geleden als gevolg van de op 1 februari 1953 ingetreden watersnood

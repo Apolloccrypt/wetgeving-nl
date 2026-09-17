@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0001830"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van den 18den April 1827, op de zamenstelling der Regterlijke magt en het beleid der Justitie

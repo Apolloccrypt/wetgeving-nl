@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0001845"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 16 juli 1869, tot uitvoering der bepalingen van de artikelen 33, 36, 37 en 38 der herziene akte omtrent de Rijnvaart

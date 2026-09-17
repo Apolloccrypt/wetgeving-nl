@@ -9,7 +9,7 @@ laatste_update: 1959-12-31
 status: geldig
 toestand: 1959-12-31
 bron: "https://wetten.overheid.nl/BWBR0002335"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 4 december 1959, houdende regeling van de overdracht van de zorg voor de zaken, betreffende het reiswezen hier te lande in de rijksdienst, van het departement van Financiën aan het departement van Binnenlandse Zaken

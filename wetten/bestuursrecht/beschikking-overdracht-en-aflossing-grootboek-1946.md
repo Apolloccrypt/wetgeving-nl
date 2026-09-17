@@ -9,7 +9,7 @@ laatste_update: 1950-11-01
 status: geldig
 toestand: 1950-11-01
 bron: "https://wetten.overheid.nl/BWBR0002046"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Beschikking Overdracht en Aflossing Grootboek 1946

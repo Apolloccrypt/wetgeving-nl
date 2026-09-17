@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0002040"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 13 mei 1948, tot opheffing van de bijzondere gerechtshoven, de Bijzondere Raad van Cassatie en de tribunalen

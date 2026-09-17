@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0002032"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Wet van 22 augustus 1947, tot invoering van een buitengewoon pensioen voor deelnemers aan het verzet, alsmede voor hun nagelaten betrekkingen

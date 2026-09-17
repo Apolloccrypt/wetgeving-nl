@@ -9,7 +9,7 @@ laatste_update: 1956-01-01
 status: geldig
 toestand: 1956-01-01
 bron: "https://wetten.overheid.nl/BWBR0002199"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-17
 ---
 
 # Besluit van 25 november 1955, betreffende de taak van het Departement van Verkeer en Waterstaat met betrekking tot het vervoer, de in-, uit- en doorvoer, verkoop en opslag van buskruit en andere licht ontvlambare of ontplofbare stoffen
