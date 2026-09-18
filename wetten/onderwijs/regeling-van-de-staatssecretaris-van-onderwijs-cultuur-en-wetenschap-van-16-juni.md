@@ -5,11 +5,11 @@ identifier: "BWBR0052727"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-06-26
-laatste_update: 2026-06-26
+laatste_update: 2026-09-17
 status: geldig
-toestand: 2026-06-26
+toestand: 2026-09-17
 bron: "https://wetten.overheid.nl/BWBR0052727"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 16 juni 2026, nr. PO/FenV/63904526, houdende vaststelling van de definitieve bedragen voor bekostiging primair onderwijs voor het kalenderjaar 2026 en voor ondersteuning van leerlingen in het primair en voortgezet onderwijs kalenderjaar 2026 (Definitieve regeling bekostiging WPO en WEC 2026)
@@ -278,7 +278,7 @@ De bedragen, bedoeld in [artikel 119, tweede lid, van de WEC](https://wetten.ove
 
 1. Het bevoegd gezag ontvangt, tenzij anders bepaald, uiterlijk 16 weken na ontvangst van een aanvraag voor aanvullende bekostiging als bedoeld in dit hoofdstuk een beschikking.
 
-2. Indien een peildatum, als bedoeld in de [artikelen 34 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-06-26&g=2026-06-26), of de datum, waarop de aanvraag op grond van de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=31&z=2026-06-26&g=2026-06-26), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=37&z=2026-06-26&g=2026-06-26) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=39&z=2026-06-26&g=2026-06-26) uiterlijk kan worden ingediend, valt op een zaterdag, zondag of algemeen erkende feestdag wordt als peildatum of uiterlijke datum de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is, aangehouden.
+2. Indien een peildatum, als bedoeld in de [artikelen 34 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-09-17&g=2026-09-17), of de datum, waarop de aanvraag op grond van de [artikelen 31 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=31&z=2026-09-17&g=2026-09-17), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=37&z=2026-09-17&g=2026-09-17) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=39&z=2026-09-17&g=2026-09-17) uiterlijk kan worden ingediend, valt op een zaterdag, zondag of algemeen erkende feestdag wordt als peildatum of uiterlijke datum de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is, aangehouden.
 
 ##### Artikel 31. Aanwezigheid schipperskinderen
 
@@ -487,9 +487,9 @@ waarin steeds:
 
 2. Het bevoegd gezag van een basisschool waar onderwijs wordt verzorgd voor asielzoekers ontvangt op aanvraag aanvullende bekostiging.
 
-3. De aanvullende bekostiging vangt aan aansluitend op de twaalf maanden bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-06-26&g=2026-06-26), en bedraagt per leerling maximaal twaalf maanden.
+3. De aanvullende bekostiging vangt aan aansluitend op de twaalf maanden bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-09-17&g=2026-09-17), en bedraagt per leerling maximaal twaalf maanden.
 
-4. In afwijking van het derde lid wordt, indien het aantal maanden van de periode tussen de datum van vestiging in Nederland en het bereiken van de leeftijd van vier jaar als bedoeld in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-06-26&g=2026-06-26), de twaalf maanden overschrijdt, het restant van dit aantal maanden boven de twaalf als bedoeld in artikel 34, derde lid, in mindering gebracht op het recht op deze bekostiging. De datum van vestiging is de oudste datum van vestiging in Nederland als bedoeld in [bijlage 1 van de Regeling register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=1).
+4. In afwijking van het derde lid wordt, indien het aantal maanden van de periode tussen de datum van vestiging in Nederland en het bereiken van de leeftijd van vier jaar als bedoeld in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-09-17&g=2026-09-17), de twaalf maanden overschrijdt, het restant van dit aantal maanden boven de twaalf als bedoeld in artikel 34, derde lid, in mindering gebracht op het recht op deze bekostiging. De datum van vestiging is de oudste datum van vestiging in Nederland als bedoeld in [bijlage 1 van de Regeling register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0043632&bijlage=1).
 
 5. De aanvullende bekostiging heeft betrekking op een periode van drie maanden, met als peildata:
 
@@ -511,13 +511,13 @@ waarin steeds:
 
 8. De bekostiging, bedoeld in het tweede lid, bedraagt € 2.281,08 per asielzoeker vermenigvuldigd met 25,00%.
 
-9. Het bedrag per leerling wordt vastgesteld overeenkomstig de code van de verblijfsrechtelijke status van de leerling waaruit volgt of de leerling als een asielzoeker wordt beschouwd. Wanneer een leerling een asielzoeker is, wordt weergegeven in [artikel 34, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-06-26&g=2026-06-26).
+9. Het bedrag per leerling wordt vastgesteld overeenkomstig de code van de verblijfsrechtelijke status van de leerling waaruit volgt of de leerling als een asielzoeker wordt beschouwd. Wanneer een leerling een asielzoeker is, wordt weergegeven in [artikel 34, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-09-17&g=2026-09-17).
 
 10. Het bevoegd gezag bepaalt of een leerling een asielzoeker is in het geval dat de leerling:
 
 - a. is ingeschreven op basis van het onderwijsnummer bedoeld in [artikel 40b, vierde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40b) en waarvan het evident is dat hij nieuwkomer is; of
 
-- b. een verblijfstitel 21, 33, 34 of 98 heeft als bedoeld in de tabel in [artikel 34, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-06-26&g=2026-06-26).
+- b. een verblijfstitel 21, 33, 34 of 98 heeft als bedoeld in de tabel in [artikel 34, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-09-17&g=2026-09-17).
 
 11. De aanvullende bekostiging, bedoeld in het tweede lid, kan niet worden aangevraagd voor leerlingen die geboren zijn in Nederland en die de verblijfsrechtelijke status krijgen van één van de ouders of voogden.
 
@@ -583,11 +583,11 @@ waarin steeds:
 
 11. Voor de toepassing van dit artikel wordt als vreemdeling tevens aangemerkt de leerling:
 
-- a. met een verblijfsrechtelijke status als bedoeld in [artikel 34, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-06-26&g=2026-06-26);
+- a. met een verblijfsrechtelijke status als bedoeld in [artikel 34, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-09-17&g=2026-09-17);
 
 - b. met een onderwijsnummer bedoeld in [artikel 40b, vierde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40b) en waarvan het evident is dat hij vreemdeling is; of
 
-- c. met een verblijfstitel 98 heeft als bedoeld in de tabel in [artikel 34, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-06-26&g=2026-06-26).
+- c. met een verblijfstitel 98 heeft als bedoeld in de tabel in [artikel 34, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-09-17&g=2026-09-17).
 
 12. De aanvullende bekostiging, bedoeld in het derde lid, kan niet worden aangevraagd voor leerlingen die geboren zijn in Nederland en die de verblijfsrechtelijke status krijgen van één van de ouders of voogden.
 
@@ -691,9 +691,9 @@ De [Regeling bijzondere bekostiging bij fusie en opheffing van scholen in het pr
 
 ##### Artikel 43. Aanvullende bekostiging voor kleine basisscholen vanwege de eerste opvang van asielzoekers en overige vreemdelingen
 
-1. Het bevoegd gezag van een basisschool dat door de eerste opvang van asielzoekers en overige vreemdelingen als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-06-26&g=2026-06-26), geen of minder extra bekostiging kleine basisscholen ontvangt als bedoeld in [artikel 14, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), ontvangt aanvullende bekostiging.
+1. Het bevoegd gezag van een basisschool dat door de eerste opvang van asielzoekers en overige vreemdelingen als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-09-17&g=2026-09-17), geen of minder extra bekostiging kleine basisscholen ontvangt als bedoeld in [artikel 14, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), ontvangt aanvullende bekostiging.
 
-2. Voor de berekening van de aanvullende bekostiging, bedoeld in het eerste lid, wordt de extra bekostiging kleine bassischolen herrekend, door voor de herrekening uit te gaan van het aantal leerlingen op de basisschool op 1 februari 2025 minus het aantal eerstejaarsasielzoekers en overige vreemdelingen op de basisschool op 1 januari 2025 voor wie bekostiging is toegekend op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-06-26&g=2026-06-26) van Definitieve regeling bekostiging WPO en WEC 2025.
+2. Voor de berekening van de aanvullende bekostiging, bedoeld in het eerste lid, wordt de extra bekostiging kleine bassischolen herrekend, door voor de herrekening uit te gaan van het aantal leerlingen op de basisschool op 1 februari 2025 minus het aantal eerstejaarsasielzoekers en overige vreemdelingen op de basisschool op 1 januari 2025 voor wie bekostiging is toegekend op grond van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-09-17&g=2026-09-17) van Definitieve regeling bekostiging WPO en WEC 2025.
 
 3. De aanvullende bekostiging, bedoeld in het eerste lid, bedraagt het verschil tussen de herrekende extra bekostiging kleine basisscholen, bedoeld in het tweede lid, en de extra bekostiging kleine basisscholen, bedoeld in [artikel 14 tweede lid van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14).
 
@@ -703,15 +703,19 @@ De [Regeling bijzondere bekostiging bij fusie en opheffing van scholen in het pr
 
 1. Onverminderd het tweede tot en met derde lid worden de bekostigingsbedragen, genoemd in deze regeling, uitbetaald in maandelijkse termijnen van gelijke omvang.
 
-2. De bekostigingsbedragen, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=2&paragraaf=1&artikel=4&z=2026-06-26&g=2026-06-26), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=2&paragraaf=2&artikel=13&z=2026-06-26&g=2026-06-26) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=2&paragraaf=3&artikel=18&z=2026-06-26&g=2026-06-26) worden in één termijn in juni uitbetaald.
+2. De bekostigingsbedragen, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=2&paragraaf=1&artikel=4&z=2026-09-17&g=2026-09-17), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=2&paragraaf=2&artikel=13&z=2026-09-17&g=2026-09-17) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=2&paragraaf=3&artikel=18&z=2026-09-17&g=2026-09-17) worden in één termijn in juni uitbetaald.
 
-3. De bekostigingsbedragen, genoemd in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=2&paragraaf=1&artikel=7&z=2026-06-26&g=2026-06-26), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-06-26&g=2026-06-26), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=35&z=2026-06-26&g=2026-06-26) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=36&z=2026-06-26&g=2026-06-26), worden in één termijn uitbetaald.
+3. De bekostigingsbedragen, genoemd in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=2&paragraaf=1&artikel=7&z=2026-09-17&g=2026-09-17), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=34&z=2026-09-17&g=2026-09-17), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=35&z=2026-09-17&g=2026-09-17) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=5&artikel=36&z=2026-09-17&g=2026-09-17), worden in één termijn uitbetaald.
 
 ### Hoofdstuk 7. Slotbepalingen
 
 ##### Artikel 45. Intrekken andere regeling
 
 De [Regeling bekostiging WPO en WEC 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0051627) wordt ingetrokken.
+
+##### Artikel 45a. Overgangsbepaling extra bekostiging onderwijsachterstandenbestrijding
+
+In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052727&hoofdstuk=2&paragraaf=1&artikel=9&z=2026-09-17&g=2026-09-17), van deze regeling bedraagt het bedrag per eenheid achterstandsscore, bedoeld in [artikel 18, eerste lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), voor basisscholen die gestart zijn per 1 augustus 2025, € 6.134,56.
 
 ##### Artikel 46. Inwerkingtreding
 

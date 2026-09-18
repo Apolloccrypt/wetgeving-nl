@@ -9,7 +9,7 @@ laatste_update: 1964-11-25
 status: geldig
 toestand: 1964-11-25
 bron: "https://wetten.overheid.nl/BWBR0002461"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 16 oktober 1964, houdende vaststelling van een lijst van wetten en algemene maatregelen van bestuur, waarin termijnen zijn gesteld, voor welke de Algemene termijnenwet vervroegd in werking treedt

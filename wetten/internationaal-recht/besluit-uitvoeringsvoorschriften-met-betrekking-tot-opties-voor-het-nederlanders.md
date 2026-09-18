@@ -9,7 +9,7 @@ laatste_update: 1963-09-12
 status: geldig
 toestand: 1963-09-12
 bron: "https://wetten.overheid.nl/BWBR0002424"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 31 augustus 1963, houdende uitvoeringsvoorschriften met betrekking tot opties voor het Nederlanderschap als bedoeld in artikel 11 van het Nederlands-Duits Grensverdrag

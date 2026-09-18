@@ -9,7 +9,7 @@ laatste_update: 1965-10-08
 status: geldig
 toestand: 1965-10-08
 bron: "https://wetten.overheid.nl/BWBR0002482"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 10 maart 1965, houdende uitvoering van het op 5 oktober 1961 te 's-Gravenhage tot stand gekomen Verdrag tot afschaffing van het vereiste van legalisatie van buitenlandse openbare akten

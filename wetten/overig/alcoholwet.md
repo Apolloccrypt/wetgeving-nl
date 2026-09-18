@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0002458"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 7 oktober 1964, tot regeling van de uitoefening van de bedrijven en de werkzaamheid, waarin of in het kader waarvan alcoholhoudende drank wordt verstrekt

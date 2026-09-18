@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0002414"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 29 mei 1963, houdende nadere maatregelen ten aanzien van een Indonesisch pensioen in verband met de samenloop met pensioen krachtens de Algemene Ouderdomswet of pensioen of uitkering krachtens de Algemene Weduwen- en Wezenwet

@@ -9,7 +9,7 @@ laatste_update: 2001-03-01
 status: geldig
 toestand: 2001-03-01
 bron: "https://wetten.overheid.nl/BWBR0012217"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 2 februari 2001, houdende wijziging van het Besluit donorregister

@@ -8,7 +8,7 @@ laatste_update: 1995-02-05
 status: geldig
 toestand: 1995-02-05
 bron: "https://wetten.overheid.nl/BWBR0007110"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1995 voor de fysiotherapeuten

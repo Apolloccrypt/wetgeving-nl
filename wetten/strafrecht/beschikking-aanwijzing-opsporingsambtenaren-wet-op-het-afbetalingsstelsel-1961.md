@@ -8,7 +8,7 @@ laatste_update: 1964-02-08
 status: geldig
 toestand: 1964-02-08
 bron: "https://wetten.overheid.nl/BWBR0002434"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Beschikking aanwijzing opsporingsambtenaren Wet op het afbetalingsstelsel 1961

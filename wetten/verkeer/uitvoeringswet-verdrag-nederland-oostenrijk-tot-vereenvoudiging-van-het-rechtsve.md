@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0002476"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 23 december 1964, houdende uitvoering van het op 23 juli 1964 te Wenen ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot vereenvoudiging van het rechtsverkeer, zoals dit is geregeld bij het Haagse Verdrag van 1 maart 1954

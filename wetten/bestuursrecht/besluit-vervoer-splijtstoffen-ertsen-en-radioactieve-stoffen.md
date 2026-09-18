@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0002668"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 4 september 1969, tot uitvoering van de artikelen 16, 19, eerste lid, 21, 29, 30, tweede lid, 31 en 32 van de Kernenergiewet

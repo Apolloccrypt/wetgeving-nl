@@ -9,7 +9,7 @@ laatste_update: 1964-04-11
 status: geldig
 toestand: 1964-04-11
 bron: "https://wetten.overheid.nl/BWBR0002435"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 23 januari 1964, houdende nadere maatregelen ten aanzien van een uitkering krachtens de Regeling uitkeringen niet-pensioengerechtigden van land- en zeemacht in verband met samenloop met pensioen krachtens de Algemene Ouderdomswet of pensioen dan wel uitkering krachtens de Algemene Weduwen- en Wezenwet en in verband met de huurverhogingen per 1 augustus 1957, per 1 april 1960 en per 1 september 1962

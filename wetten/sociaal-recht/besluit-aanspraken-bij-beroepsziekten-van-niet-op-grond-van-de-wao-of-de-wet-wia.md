@@ -9,7 +9,7 @@ laatste_update: 2005-12-29
 status: geldig
 toestand: 2005-12-29
 bron: "https://wetten.overheid.nl/BWBR0002596"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 7 juli 1967, houdende vaststelling van een Algemene Maatregel van Bestuur als bedoeld in artikel 17, vierde lid, en artikel 66, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering

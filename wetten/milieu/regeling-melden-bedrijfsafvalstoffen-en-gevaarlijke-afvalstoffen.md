@@ -9,7 +9,7 @@ laatste_update: 2026-09-12
 status: geldig
 toestand: 2026-09-12
 bron: "https://wetten.overheid.nl/BWBR0017313"
-opgehaald: 2026-09-17
+opgehaald: 2026-09-18
 ---
 
 # Regeling van 13 oktober 2004, nr. SAS2004098785, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)

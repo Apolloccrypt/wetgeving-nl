@@ -8,7 +8,7 @@ laatste_update: 2005-06-15
 status: geldig
 toestand: 2005-06-15
 bron: "https://wetten.overheid.nl/BWBR0018323"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen Minister van Financiën beleidsterrein Staatsschuld periode 1945–2003

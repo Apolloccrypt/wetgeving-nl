@@ -8,7 +8,7 @@ laatste_update: 2005-06-02
 status: geldig
 toestand: 2005-06-02
 bron: "https://wetten.overheid.nl/BWBR0018079"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst beleidsterrein Belastingheffing over de periode 1945-2001: neerslag handelingen Minister van Binnenlandse Zaken en Koninkrijksrelaties

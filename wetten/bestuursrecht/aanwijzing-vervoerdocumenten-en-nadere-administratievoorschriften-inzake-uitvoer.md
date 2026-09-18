@@ -8,7 +8,7 @@ laatste_update: 1964-03-01
 status: geldig
 toestand: 1964-03-01
 bron: "https://wetten.overheid.nl/BWBR0002437"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Aanwijzing Vervoerdocumenten en Nadere Administratievoorschriften inzake Uitvoering Verordening nr. 11 van de raad van de E.E.G.

@@ -8,7 +8,7 @@ laatste_update: 1968-06-01
 status: geldig
 toestand: 1968-06-01
 bron: "https://wetten.overheid.nl/BWBR0002627"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Gezamenlijke beschikking omtrent Indische pensioenen

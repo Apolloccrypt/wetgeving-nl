@@ -9,7 +9,7 @@ laatste_update: 2003-10-17
 status: geldig
 toestand: 2003-10-17
 bron: "https://wetten.overheid.nl/BWBR0014546"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit mandaat, volmacht en machtiging directeur-generaal Luchtvaart, 2003 inzake ondertekening Verklaring van Overeenstemming tussen Nederland en Frankrijk inzake onderlinge coördinatie en wederzijdse bijstand met betrekking tot de nieuwe Gecombineerde Groep die door Air France (AF) en Koninklijke Luchtvaartmaatschappij (KLM) wordt opgericht

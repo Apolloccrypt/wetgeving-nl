@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0002531"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 23 juni 1966, houdende regelen betreffende de omzetting van de tak van Rijksdienst, omvattende de Staatsmijnen in Limburg, in een naamloze vennootschap

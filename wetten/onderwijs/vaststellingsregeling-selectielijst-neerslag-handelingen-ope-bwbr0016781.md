@@ -8,7 +8,7 @@ laatste_update: 2005-06-15
 status: geldig
 toestand: 2005-06-15
 bron: "https://wetten.overheid.nl/BWBR0016781"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsregeling Selectielijst neerslag handelingen openbare en bijzondere universiteiten op het beleidsterrein Studiefinanciering over de periode 1945-1994, Erasmus Universiteit Rotterdam

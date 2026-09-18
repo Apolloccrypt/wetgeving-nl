@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0002638"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 27 november 1968, houdende regelen inzake een minimumloon en een minimumvakantiebijslag

@@ -8,7 +8,7 @@ laatste_update: 2003-07-21
 status: geldig
 toestand: 2003-07-21
 bron: "https://wetten.overheid.nl/BWBR0015398"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Rechten bij invoer, economische douaneregeling actieve veredeling terugbetalingssysteem; grondslagen terugbetaling

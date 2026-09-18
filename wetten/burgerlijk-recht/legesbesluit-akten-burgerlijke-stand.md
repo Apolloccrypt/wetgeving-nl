@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0002644"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 18 januari 1969, houdende uitvoering van artikel 2, eerste lid van de Wet van 23 april 1879, Stb. 72, tot regeling der heffing van regten wegens de verrigtingen van den ambtenaar van den burgerlijken stand

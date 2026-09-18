@@ -8,7 +8,7 @@ laatste_update: 1998-12-16
 status: geldig
 toestand: 1998-12-16
 bron: "https://wetten.overheid.nl/BWBR0010072"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Gedifferentieerde afsluiting en doubleren in de tweede fase vwo/havo

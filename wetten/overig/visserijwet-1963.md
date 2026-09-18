@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0002416"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 30 mei 1963, houdende nieuwe regelen omtrent de visserij

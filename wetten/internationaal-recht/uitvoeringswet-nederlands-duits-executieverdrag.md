@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0002481"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 3 maart 1965, houdende uitvoering van het op 30 augustus 1962 te 's-Gravenhage gesloten Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken

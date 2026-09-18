@@ -8,7 +8,7 @@ laatste_update: 2004-08-15
 status: geldig
 toestand: 2004-08-15
 bron: "https://wetten.overheid.nl/BWBR0016887"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen op het beleidsterrein Deviezenbeleid over de periode 1945–1981 (Minister van Buitenlandse Zaken)

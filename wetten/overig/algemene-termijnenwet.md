@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0002448"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 25 juli 1964, houdende berekening van termijnen in verband met de zaterdag, de zondag en algemeen erkende feestdagen

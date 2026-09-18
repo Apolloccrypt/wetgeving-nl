@@ -8,7 +8,7 @@ laatste_update: 1972-05-04
 status: geldig
 toestand: 1972-05-04
 bron: "https://wetten.overheid.nl/BWBR0002662"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Uitvoering Wet Werkloosheidsvoorziening (gelijkstelling vreemdelingen met Nederlanders)

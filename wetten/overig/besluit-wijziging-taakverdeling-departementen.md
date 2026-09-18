@@ -9,7 +9,7 @@ laatste_update: 1963-07-24
 status: geldig
 toestand: 1963-07-24
 bron: "https://wetten.overheid.nl/BWBR0002423"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 1 augustus 1963, houdende wijziging van de taakverdeling van departementen

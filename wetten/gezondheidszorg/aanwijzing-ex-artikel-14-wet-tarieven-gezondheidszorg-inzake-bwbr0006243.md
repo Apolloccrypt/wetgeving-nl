@@ -8,7 +8,7 @@ laatste_update: 1993-11-21
 status: geldig
 toestand: 1993-11-21
 bron: "https://wetten.overheid.nl/BWBR0006243"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid voor de orthodontie

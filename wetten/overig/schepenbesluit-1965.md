@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0002501"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 5 augustus 1965, tot uitvoering van de artikelen 3, 4bis, 5, 9, 17, 66 en 73 van de Schepenwet

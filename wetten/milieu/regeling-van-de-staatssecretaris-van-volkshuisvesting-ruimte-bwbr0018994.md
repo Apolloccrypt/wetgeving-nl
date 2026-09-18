@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0018994"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 7 november 2005, nr. LMV 2005 196133, houdende wijziging van de Subsidieregeling milieugerichte technologie (wijziging Subsidieprogramma Piek)

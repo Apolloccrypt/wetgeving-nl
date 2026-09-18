@@ -9,7 +9,7 @@ laatste_update: 2005-10-15
 status: geldig
 toestand: 2005-10-15
 bron: "https://wetten.overheid.nl/BWBR0018800"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van de minister van Financiën van 25 september 2005, nr. BenC 2005-979M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Commissie Rechtsherstel Buitenlandse Effecten (CRBE) (1946) 1949–1956 (1987)

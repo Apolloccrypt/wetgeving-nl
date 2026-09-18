@@ -9,7 +9,7 @@ laatste_update: 1965-05-13
 status: geldig
 toestand: 1965-05-13
 bron: "https://wetten.overheid.nl/BWBR0002486"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 14 april 1965, houdende instelling van een departement van Cultuur, Recreatie en Maatschappelijk Werk, opheffing van het departement van Maatschappelijk Werk en naamsverandering van departementen

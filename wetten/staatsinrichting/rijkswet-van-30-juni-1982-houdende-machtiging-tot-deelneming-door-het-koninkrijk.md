@@ -9,7 +9,7 @@ laatste_update: 1982-07-23
 status: geldig
 toestand: 1982-07-23
 bron: "https://wetten.overheid.nl/BWBR0003504"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Rijkswet van 30 juni 1982, houdende machtiging tot deelneming door het Koninkrijk in de verhoging van het aandelenkapitaal van de Internationale Bank voor Herstel en Ontwikkeling (Wereldbank)

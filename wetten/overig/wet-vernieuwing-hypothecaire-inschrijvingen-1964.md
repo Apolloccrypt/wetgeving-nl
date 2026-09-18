@@ -9,7 +9,7 @@ laatste_update: 1965-08-01
 status: geldig
 toestand: 1965-08-01
 bron: "https://wetten.overheid.nl/BWBR0002490"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 2 juni 1965, houdende vernieuwing van hypothecaire inschrijvingen en van overschrijvingen van processen-verbaal van beslag

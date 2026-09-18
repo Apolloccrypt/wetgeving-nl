@@ -9,7 +9,7 @@ laatste_update: 2000-02-18
 status: geldig
 toestand: 2000-02-18
 bron: "https://wetten.overheid.nl/BWBR0011122"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 25 januari 2000 tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode van 1 juni 1999 tot en met 31 juli 2000

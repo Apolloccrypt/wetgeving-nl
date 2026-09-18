@@ -9,7 +9,7 @@ laatste_update: 2022-05-10
 status: geldig
 toestand: 2022-05-10
 bron: "https://wetten.overheid.nl/BWBR0007428"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Regeling van 6 juni 1995

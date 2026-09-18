@@ -8,7 +8,7 @@ laatste_update: 1965-08-16
 status: geldig
 toestand: 1965-08-16
 bron: "https://wetten.overheid.nl/BWBR0002499"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Beschikking aanwijzing voedselcommissarissen

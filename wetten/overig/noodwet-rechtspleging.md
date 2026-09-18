@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0002457"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 23 september 1964, houdende voorzieningen ter waarborging van de voortzetting van de rechtspleging in geval van oorlog, oorlogsgevaar of daaraan verwante of daarmede verband houdende buitengewone omstandigheden

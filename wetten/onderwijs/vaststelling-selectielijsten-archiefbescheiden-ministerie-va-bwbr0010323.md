@@ -8,7 +8,7 @@ laatste_update: 1999-04-09
 status: geldig
 toestand: 1999-04-09
 bron: "https://wetten.overheid.nl/BWBR0010323"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststelling selectielijsten archiefbescheiden Ministerie van Onderwijs en Wetenschappen (beroepsonderwijs en volwasseneneducatie)

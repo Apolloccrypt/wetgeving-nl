@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0002562"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Rijkswet van 9 maart 1967 houdende bijzondere maatregelen van overheidswege aangaande de plaats van vestiging van rechtspersonen en instellingen

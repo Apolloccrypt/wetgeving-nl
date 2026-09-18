@@ -9,7 +9,7 @@ laatste_update: 2005-10-15
 status: geldig
 toestand: 2005-10-15
 bron: "https://wetten.overheid.nl/BWBR0018801"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van de Minister van Financiën van 25 september 2005, nr. BenC 2005-980M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Commissie voor de Duplicaten Effecten 1954–1976

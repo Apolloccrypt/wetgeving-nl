@@ -8,7 +8,7 @@ laatste_update: 1995-06-28
 status: geldig
 toestand: 1995-06-28
 bron: "https://wetten.overheid.nl/BWBR0007459"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel (1995)

@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0002593"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 26 juni 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 28, eerste en tweede lid, van de Liquidatiewet ongevallenwetten

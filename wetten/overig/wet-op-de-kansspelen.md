@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0002469"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 10 december 1964, houdende nadere regelen met betrekking tot kansspelen

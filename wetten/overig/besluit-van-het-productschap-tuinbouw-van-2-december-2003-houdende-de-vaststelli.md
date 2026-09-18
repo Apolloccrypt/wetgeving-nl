@@ -9,7 +9,7 @@ laatste_update: 2004-08-14
 status: geldig
 toestand: 2004-08-14
 bron: "https://wetten.overheid.nl/BWBR0015985"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van het Productschap Tuinbouw van 2 december 2003, houdende de vaststelling van de bedragen van de bestemmingsheffing ten behoeve van de teelt van fruit en champignons voor het jaar 2004 (Besluit 2004 PT bijzondere heffing fruit en champignons 2004)

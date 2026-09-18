@@ -9,7 +9,7 @@ laatste_update: 1993-07-30
 status: geldig
 toestand: 1993-07-30
 bron: "https://wetten.overheid.nl/BWBR0006071"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 7 juli 1993, houdende wijziging van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs in verband met het vervallen van de opslagpercentages bij de leerlingentelling

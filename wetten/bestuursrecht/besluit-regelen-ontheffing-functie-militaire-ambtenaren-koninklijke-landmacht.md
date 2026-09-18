@@ -9,7 +9,7 @@ laatste_update: 1969-06-07
 status: geldig
 toestand: 1969-06-07
 bron: "https://wetten.overheid.nl/BWBR0002657"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 2 juni 1969, houdende regelen inzake ontheffing uit de functie en huiswaarts zenden van militaire ambtenaren der Koninklijke landmacht

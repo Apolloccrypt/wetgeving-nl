@@ -9,7 +9,7 @@ laatste_update: 2017-03-01
 status: geldig
 toestand: 2017-03-01
 bron: "https://wetten.overheid.nl/BWBR0002478"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 25 januari 1965, houdende vaststelling van enige termijnen als bedoeld in de Cassatieregeling voor de Nederlandse Antillen

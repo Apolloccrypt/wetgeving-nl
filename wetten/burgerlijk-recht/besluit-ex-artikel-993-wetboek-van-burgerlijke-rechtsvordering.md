@@ -9,7 +9,7 @@ laatste_update: 1966-02-26
 status: geldig
 toestand: 1966-02-26
 bron: "https://wetten.overheid.nl/BWBR0002523"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 11 februari 1966, houdende vaststelling van een algemene maatregel van bestuur, als bedoeld in artikel 993, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering

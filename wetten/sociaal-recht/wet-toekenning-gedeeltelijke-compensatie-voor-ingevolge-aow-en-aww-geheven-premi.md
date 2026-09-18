@@ -9,7 +9,7 @@ laatste_update: 1966-09-19
 status: geldig
 toestand: 1966-09-19
 bron: "https://wetten.overheid.nl/BWBR0002533"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 14 juli 1966, tot toekenning van gedeeltelijke compensatie voor de ingevolge de Algemene Ouderdomswet (Stb. 1956, 281) en de Algemene Weduwen- en Wezenwet (Stb. 1959, 139) geheven premie over een buitengewoon pensioen krachtens de Wet buitengewoon pensioen 1940-1945 (Stb. 1947, H 313) en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. 1947, H 420)

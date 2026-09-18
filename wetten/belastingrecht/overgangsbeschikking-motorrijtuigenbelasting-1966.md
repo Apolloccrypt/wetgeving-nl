@@ -8,7 +8,7 @@ laatste_update: 1966-10-01
 status: geldig
 toestand: 1966-10-01
 bron: "https://wetten.overheid.nl/BWBR0002539"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Overgangsbeschikking motorrijtuigenbelasting 1966

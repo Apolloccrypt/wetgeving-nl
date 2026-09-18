@@ -8,7 +8,7 @@ laatste_update: 1968-01-01
 status: geldig
 toestand: 1968-01-01
 bron: "https://wetten.overheid.nl/BWBR0002623"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Aanwijzing bewijs van bekwaamheid voor toelating examens akte handenarbeid l.o.

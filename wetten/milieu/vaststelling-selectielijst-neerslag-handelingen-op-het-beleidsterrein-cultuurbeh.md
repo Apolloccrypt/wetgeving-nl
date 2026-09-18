@@ -9,7 +9,7 @@ laatste_update: 2004-10-30
 status: geldig
 toestand: 2004-10-30
 bron: "https://wetten.overheid.nl/BWBR0016813"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststelling selectielijst neerslag handelingen op het beleidsterrein Cultuurbeheer over de periode 1945–2000: Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer

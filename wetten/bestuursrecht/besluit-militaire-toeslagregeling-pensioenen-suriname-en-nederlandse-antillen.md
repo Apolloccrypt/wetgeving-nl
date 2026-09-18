@@ -9,7 +9,7 @@ laatste_update: 2003-05-23
 status: geldig
 toestand: 2003-05-23
 bron: "https://wetten.overheid.nl/BWBR0002545"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 31 oktober 1966, houdende regelen naar welke een toeslag kan worden verleend op pensioenen van in Suriname en de Nederlandse Antillen gevestigde gewezen militairen en van hun nabestaanden

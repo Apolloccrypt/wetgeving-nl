@@ -8,7 +8,7 @@ laatste_update: 2005-07-01
 status: geldig
 toestand: 2005-07-01
 bron: "https://wetten.overheid.nl/BWBR0018510"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Circulaire Aanpassing voorschriften Besluit betaling emolumenten burgerlijk rijkspersoneel (2005)

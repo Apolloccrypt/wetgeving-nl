@@ -9,7 +9,7 @@ laatste_update: 2023-12-23
 status: geldig
 toestand: 2023-12-23
 bron: "https://wetten.overheid.nl/BWBR0002463"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 27 oktober 1964, houdende vaststelling van het "Besluit bedragen aansprakelijkheidsverzekering motorrijtuigen"

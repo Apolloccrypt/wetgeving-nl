@@ -8,7 +8,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0002517"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Uitvoeringsbeschikking dividendbelasting 1965

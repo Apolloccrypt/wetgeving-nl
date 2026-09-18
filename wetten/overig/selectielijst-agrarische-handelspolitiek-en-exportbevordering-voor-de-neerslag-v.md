@@ -8,7 +8,7 @@ laatste_update: 2000-11-19
 status: geldig
 toestand: 2000-11-19
 bron: "https://wetten.overheid.nl/BWBR0011664"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Selectielijst Agrarische handelspolitiek en exportbevordering voor de neerslag van handelingen van het Hoofdproductschap Akkerbouw en taakvoorgangers

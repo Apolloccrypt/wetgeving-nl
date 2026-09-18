@@ -8,7 +8,7 @@ laatste_update: 2004-08-18
 status: geldig
 toestand: 2004-08-18
 bron: "https://wetten.overheid.nl/BWBR0016558"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen op het beleidsterrein Waterstaat over de periode (1911–) 1945–2001 (Minister van Financiën)

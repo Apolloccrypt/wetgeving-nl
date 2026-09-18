@@ -8,7 +8,7 @@ laatste_update: 2000-07-15
 status: geldig
 toestand: 2000-07-15
 bron: "https://wetten.overheid.nl/BWBR0011428"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Selectielijst voor de neerslag van de handelingen van de Minister van Onderwijs, Cultuur en Wetenschappen op het beleidsterrein basisonderwijs over de periode 1945-1998

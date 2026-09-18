@@ -9,7 +9,7 @@ laatste_update: 1969-03-21
 status: geldig
 toestand: 1969-03-21
 bron: "https://wetten.overheid.nl/BWBR0002650"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Toepassing van de wet op de omzetbelasting 1968 ten aanzien van de termijnhandel

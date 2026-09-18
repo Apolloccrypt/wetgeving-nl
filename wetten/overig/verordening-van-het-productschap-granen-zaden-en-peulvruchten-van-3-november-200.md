@@ -9,7 +9,7 @@ laatste_update: 2006-02-26
 status: geldig
 toestand: 2006-02-26
 bron: "https://wetten.overheid.nl/BWBR0018973"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 3 november 2005, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van granen, peulvruchten en andere gewassen in Nederland voor het jaar 2006 (Heffingsverordening GZP fonds zaaizaad van granen, peulvruchten en andere gewassen jaar 2006)

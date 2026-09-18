@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0002515"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 23 december 1965, houdende vervanging van het Besluit op de Dividendbelasting 1941 door een nieuwe wettelijke regeling

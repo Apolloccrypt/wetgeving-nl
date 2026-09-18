@@ -8,7 +8,7 @@ laatste_update: 1964-08-27
 status: geldig
 toestand: 1964-08-27
 bron: "https://wetten.overheid.nl/BWBR0002445"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Regeling doctorstitel godgeleerdheid of wijsbegeerte

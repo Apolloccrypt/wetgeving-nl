@@ -9,7 +9,7 @@ laatste_update: 2006-02-01
 status: geldig
 toestand: 2006-02-01
 bron: "https://wetten.overheid.nl/BWBR0019416"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 3 januari 2006, houdende wijziging van het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen (uitbreiding medisch-wetenschappelijk onderzoek dat centrale beoordeling behoeft)

@@ -8,7 +8,7 @@ laatste_update: 2005-04-02
 status: geldig
 toestand: 2005-04-02
 bron: "https://wetten.overheid.nl/BWBR0017946"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit Selectielijst neerslag handelingen op het beleidsterrein Rijksbegroting over de periode 1945–2000 (Minister van Algemene Zaken)

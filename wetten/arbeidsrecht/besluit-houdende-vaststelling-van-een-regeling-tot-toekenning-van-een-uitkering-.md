@@ -9,7 +9,7 @@ laatste_update: 1969-07-17
 status: geldig
 toestand: 1969-07-17
 bron: "https://wetten.overheid.nl/BWBR0002661"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 4 juli 1969, houdende vaststelling van een regeling tot toekenning van een uitkering wegens ontslag op grond van artikel 99a van het Reglement van de Buitenlandse Dienst 1951 (Stb. 449)

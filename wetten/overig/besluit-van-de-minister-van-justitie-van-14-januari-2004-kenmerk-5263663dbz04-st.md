@@ -9,7 +9,7 @@ laatste_update: 2004-01-24
 status: geldig
 toestand: 2004-01-24
 bron: "https://wetten.overheid.nl/BWBR0016280"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van de Minister van Justitie van 14 januari 2004, kenmerk 5263663/DBZ/04, strekkende tot wijziging van het besluit buitengewoon opsporingsambtenaren parkeercontroleurs Dienst Stadstoezicht Amsterdam 2000.

@@ -8,7 +8,7 @@ laatste_update: 2005-09-01
 status: geldig
 toestand: 2005-09-01
 bron: "https://wetten.overheid.nl/BWBR0018292"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Heffing van Rijksbelastingen vanaf 1945 (Minister van Financiën)

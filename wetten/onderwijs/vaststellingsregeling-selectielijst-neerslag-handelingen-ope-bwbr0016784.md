@@ -8,7 +8,7 @@ laatste_update: 2004-06-17
 status: geldig
 toestand: 2004-06-17
 bron: "https://wetten.overheid.nl/BWBR0016784"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsregeling Selectielijst neerslag handelingen openbare en bijzondere universiteiten op het beleidsterrein Studiefinanciering over de periode 1945-1994, Universiteit Twente

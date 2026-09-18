@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0002616"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 15 december 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 539n, derde lid, van het Wetboek van Strafvordering

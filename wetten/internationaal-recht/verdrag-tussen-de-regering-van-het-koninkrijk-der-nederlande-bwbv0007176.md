@@ -7,7 +7,7 @@ laatste_update: 2026-09-04
 status: geldig
 toestand: 2026-09-04
 bron: "https://wetten.overheid.nl/BWBV0007176"
-opgehaald: 2026-09-17
+opgehaald: 2026-09-18
 ---
 
 # Verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van het Hasjemitisch Koninkrijk Jordanië inzake de status van personeel van hun Ministeries van Defensie aanwezig op elkaars grondgebied in het kader van defensiesamenwerking

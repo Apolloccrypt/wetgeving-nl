@@ -9,7 +9,7 @@ laatste_update: 2003-03-02
 status: geldig
 toestand: 2003-03-02
 bron: "https://wetten.overheid.nl/BWBR0014191"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 7 november 2002, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van granen, peulvruchten en andere gewassen in Nederland voor het jaar 2003 (Heffingsverordening GZP fonds zaaizaad van granen, peulvruchten en andere gewassen jaar 2003)

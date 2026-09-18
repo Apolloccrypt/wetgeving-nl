@@ -9,7 +9,7 @@ laatste_update: 2014-01-06
 status: geldig
 toestand: 2014-01-06
 bron: "https://wetten.overheid.nl/BWBR0002465"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 29 oktober 1964, houdende maatregelen ter uitvoering van de Wet gewetensbezwaren militaire dienst

@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0002574"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 19 april 1967, houdende verlening van toeslag op de pensioenen van bepaalde Surinaamse en Nederlands Antilliaanse ambtenaren en leerkrachten van het bijzonder onderwijs en hun nagelaten betrekkingen

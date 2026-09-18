@@ -9,7 +9,7 @@ laatste_update: 1965-12-21
 status: geldig
 toestand: 1965-12-21
 bron: "https://wetten.overheid.nl/BWBR0002513"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 13 december 1965, houdende regeling van de berichtgeving betreffende het Koninklijk Huis

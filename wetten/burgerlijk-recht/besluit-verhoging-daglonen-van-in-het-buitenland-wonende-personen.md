@@ -9,7 +9,7 @@ laatste_update: 1967-07-01
 status: geldig
 toestand: 1967-07-01
 bron: "https://wetten.overheid.nl/BWBR0002592"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 26 juni 1967, houdende vaststelling van een algemene maatregel van bestuur, als bedoeld in artikel 20, tweede lid, van de Wet overgangsregeling arbeidsongeschiktheidsverzekering

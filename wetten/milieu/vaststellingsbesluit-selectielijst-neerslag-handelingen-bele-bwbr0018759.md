@@ -8,7 +8,7 @@ laatste_update: 2005-11-26
 status: geldig
 toestand: 2005-11-26
 bron: "https://wetten.overheid.nl/BWBR0018759"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Wapens en Munitie periode 1945-1997 (Minister van Landbouw, Natuur en Voedselkwaliteit)

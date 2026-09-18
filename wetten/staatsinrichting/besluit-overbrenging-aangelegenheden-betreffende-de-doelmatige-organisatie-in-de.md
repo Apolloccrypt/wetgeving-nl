@@ -9,7 +9,7 @@ laatste_update: 1965-09-01
 status: geldig
 toestand: 1965-09-01
 bron: "https://wetten.overheid.nl/BWBR0002498"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 22 juli 1965, houdende overbrenging van de aangelegenheden betreffende de doelmatige organisatie in de rijksdienst van het departement van Financiën naar het departement van Binnenlandse Zaken

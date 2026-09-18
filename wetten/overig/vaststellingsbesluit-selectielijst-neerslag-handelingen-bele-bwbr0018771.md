@@ -8,7 +8,7 @@ laatste_update: 2005-12-01
 status: geldig
 toestand: 2005-12-01
 bron: "https://wetten.overheid.nl/BWBR0018771"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Auteursrecht periode (1912) 1945-2000 (Minister van Buitenlandse Zaken)

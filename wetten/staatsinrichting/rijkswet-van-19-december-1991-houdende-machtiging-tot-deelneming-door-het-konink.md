@@ -9,7 +9,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBR0005348"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Rijkswet van 19 december 1991, houdende machtiging tot deelneming door het Koninkrijk der Nederlanden in de negende aanvulling van middelen van de Internationale Ontwikkelings Associatie (IDA)

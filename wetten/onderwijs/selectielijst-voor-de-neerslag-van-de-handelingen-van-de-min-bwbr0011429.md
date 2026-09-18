@@ -8,7 +8,7 @@ laatste_update: 2000-07-26
 status: geldig
 toestand: 2000-07-26
 bron: "https://wetten.overheid.nl/BWBR0011429"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Selectielijst voor de neerslag van de handelingen van de Minister van Onderwijs, Cultuur en Wetenschappen op het beleidsterrein hoger beroepsonderwijs over de periode 1968-1998

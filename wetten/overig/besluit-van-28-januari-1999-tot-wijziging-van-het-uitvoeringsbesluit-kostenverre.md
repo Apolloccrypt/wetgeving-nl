@@ -9,7 +9,7 @@ laatste_update: 1999-02-10
 status: geldig
 toestand: 1999-02-10
 bron: "https://wetten.overheid.nl/BWBR0010245"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 28 januari 1999 tot wijziging van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken in verband met de aanpassing van het standaarduitwisselingsformaat

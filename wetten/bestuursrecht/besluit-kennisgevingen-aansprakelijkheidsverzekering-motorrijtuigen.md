@@ -9,7 +9,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0002459"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 13 oktober 1964, houdende vaststelling van het Besluit kennisgevingen aansprakelijkheidsverzekering motorrijtuigen

@@ -9,7 +9,7 @@ laatste_update: 1992-08-16
 status: geldig
 toestand: 1992-08-16
 bron: "https://wetten.overheid.nl/BWBR0005585"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 3 juli 1992, houdende wijziging van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen en van het Hinderbesluit

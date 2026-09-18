@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0002431"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 13 december 1963, houdende uitvoering van het op 30 augustus 1962 te 's-Gravenhage ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ter verdere vereenvoudiging van het rechtsverkeer, zoals geregeld bij het op 1 maart 1954 te 's-Gravenhage gesloten Verdrag betreffende de burgerlijke rechtsvordering

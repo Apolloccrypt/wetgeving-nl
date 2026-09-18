@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0002534"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 21 juli 1966, houdende vervanging van de Motorrijtuigenbelastingwet (Stb. 1926, 464) door een nieuwe wettelijke regeling

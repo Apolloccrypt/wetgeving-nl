@@ -9,7 +9,7 @@ laatste_update: 2026-09-11
 status: geldig
 toestand: 2026-09-11
 bron: "https://wetten.overheid.nl/BWBR0052931"
-opgehaald: 2026-09-17
+opgehaald: 2026-09-18
 ---
 
 # Wet van 8 juli 2026, houdende herindeling van de gemeenten Hilversum en Wijdemeren [KetenID WGK28029]

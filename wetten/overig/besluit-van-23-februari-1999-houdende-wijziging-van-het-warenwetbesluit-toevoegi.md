@@ -9,7 +9,7 @@ laatste_update: 1999-03-17
 status: geldig
 toestand: 1999-03-17
 bron: "https://wetten.overheid.nl/BWBR0010286"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 23 februari 1999, houdende wijziging van het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen

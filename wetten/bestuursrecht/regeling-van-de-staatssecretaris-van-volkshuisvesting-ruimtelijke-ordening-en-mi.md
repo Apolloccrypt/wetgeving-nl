@@ -9,7 +9,7 @@ laatste_update: 2005-03-23
 status: geldig
 toestand: 2005-03-23
 bron: "https://wetten.overheid.nl/BWBR0018106"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 14 maart 2005, nr. DGM/SB2005022945, Directoraat-Generaal Milieubeheer, Directie Strategie en Bestuur, houdende wijziging van de Subsidieregeling milieugerichte technologie (wijziging Subsidieprogramma milieu & technologie)

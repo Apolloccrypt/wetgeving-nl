@@ -9,7 +9,7 @@ laatste_update: 1974-08-01
 status: geldig
 toestand: 1974-08-01
 bron: "https://wetten.overheid.nl/BWBR0002557"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 20 februari 1967, houdende regelen tot uitvoering van de Wet op het schadeverzekeringsbedrijf en van artikel 28 van de Wet aansprakelijkheidsverzekering motorrijtuigen

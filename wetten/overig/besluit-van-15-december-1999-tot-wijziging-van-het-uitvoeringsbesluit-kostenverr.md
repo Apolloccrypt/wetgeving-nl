@@ -9,7 +9,7 @@ laatste_update: 1999-12-29
 status: geldig
 toestand: 1999-12-29
 bron: "https://wetten.overheid.nl/BWBR0010979"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 15 december 1999 tot wijziging van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken in verband met de invoering van een nieuwe systematiek van verrekening van de waarderingskosten

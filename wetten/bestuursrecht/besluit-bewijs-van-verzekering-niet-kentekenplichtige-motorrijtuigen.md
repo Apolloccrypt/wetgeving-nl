@@ -9,7 +9,7 @@ laatste_update: 2023-12-23
 status: geldig
 toestand: 2023-12-23
 bron: "https://wetten.overheid.nl/BWBR0002503"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 16 september 1965, houdende vaststelling van het bewijs van verzekering voor de niet-kentekenplichtige motorrijtuigen en enkele regelen met betrekking tot het bewijs van vrijstelling

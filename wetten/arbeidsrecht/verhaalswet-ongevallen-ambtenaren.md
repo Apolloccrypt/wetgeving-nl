@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0002500"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 31 juli 1965, houdende verhaal van uitkeringen of verstrekkingen, bij ongeval krachtens zijn rechtspositieregeling verleend aan personeel, waarvan de bezoldiging of de beloning ten laste komt van de openbare geldmiddelen, en aan de nagelaten betrekkingen van dat personeel

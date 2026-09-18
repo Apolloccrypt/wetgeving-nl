@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0002464"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Rijkswet van 28 oktober 1964, houdende Belastingregeling voor het Koninkrijk

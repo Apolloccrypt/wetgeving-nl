@@ -9,7 +9,7 @@ laatste_update: 2004-11-24
 status: geldig
 toestand: 2004-11-24
 bron: "https://wetten.overheid.nl/BWBR0017464"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van de Minister van Buitenlandse zaken van 10 november 2004, nr. DDI/ST/reg-012/2004, houdende beperking van de openbaarheid van het archief van de Nederlandse vertegenwoordiging te Montauban 1930–1944, de Nederlandse vertegenwoordiging te Nice (Frankrijk) (1896) 1919–1952, het vice consulaat Noumea 1934–1952, het gezantschap te Frankrijk (Parijs) 1866-1940, het consulaat, vice consulaat en Office Neerlandais Toulouse (1940–1946), en het consulaat-generaal Vichy (1940–1945)

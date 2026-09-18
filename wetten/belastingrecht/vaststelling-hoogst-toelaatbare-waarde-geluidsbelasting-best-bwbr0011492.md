@@ -8,7 +8,7 @@ laatste_update: 2000-07-20
 status: geldig
 toestand: 2000-07-20
 bron: "https://wetten.overheid.nl/BWBR0011492"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Ermelo

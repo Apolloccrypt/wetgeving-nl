@@ -8,7 +8,7 @@ laatste_update: 2006-05-24
 status: geldig
 toestand: 2006-05-24
 bron: "https://wetten.overheid.nl/BWBR0019696"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Internationale Rechtshulp in strafzaken vanaf 1945 (Minister van BuitenlandseZaken)

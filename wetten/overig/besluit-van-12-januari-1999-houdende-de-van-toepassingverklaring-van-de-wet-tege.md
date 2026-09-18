@@ -9,7 +9,7 @@ laatste_update: 1999-02-03
 status: geldig
 toestand: 1999-02-03
 bron: "https://wetten.overheid.nl/BWBR0010205"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 12 januari 1999, houdende de van toepassingverklaring van de Wet tegemoetkoming schade bij rampen en zware ongevallen en de inwerkingtreding van het Besluit tegemoetkoming schade bij rampen en zware ongevallen

@@ -5,11 +5,11 @@ identifier: "BWBR0037269"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2015-12-03
-laatste_update: 2026-08-13
+laatste_update: 2026-09-17
 status: geldig
-toestand: 2026-08-13
+toestand: 2026-09-17
 bron: "https://wetten.overheid.nl/BWBR0037269"
-opgehaald: 2026-08-16
+opgehaald: 2026-09-18
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 1 december 2015, nr. IENM/BSK-2015/179390, houdende verlening mandaat, volmacht en machtiging aan de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken voor de uitvoering van diverse subsidieregelingen en -programma’s en enige andere regelingen op het terrein van het Ministerie van Infrastructuur en Milieu 2015 (Besluit mandaat, volmacht en machtiging algemeen directeur Rijksdienst voor Ondernemend Nederland op het terrein van het Ministerie van Infrastructuur en Milieu 2015)
@@ -26,13 +26,13 @@ Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministe
 
 Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken wordt machtiging verleend tot:
 
-- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-08-13&g=2026-08-13) bedoelde besluiten en overeenkomsten; en
+- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-09-17&g=2026-09-17) bedoelde besluiten en overeenkomsten; en
 
-- b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-08-13&g=2026-08-13) bedoelde besluiten en overeenkomsten.
+- b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-09-17&g=2026-09-17) bedoelde besluiten en overeenkomsten.
 
 ##### Artikel 3
 
-1. De directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-08-13&g=2026-08-13) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2026-08-13&g=2026-08-13), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
+1. De directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-09-17&g=2026-09-17) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2026-09-17&g=2026-09-17), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
 2. De directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan aan de algemeen directeur van het Centraal Justitieel Incassobureau ondermandaat, volmacht en machtiging verlenen voor het uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen, en voor het treffen van betalingsregelingen. De directeur-generaal kan de algemeen directeur toestaan ondermandaat, volmacht en machtiging te verlenen aan één of meer onder hem ressorterende functionarissen.
 
@@ -40,7 +40,7 @@ Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministe
 
 ##### Artikel 4
 
-1. Een document waarin een besluit of overeenkomst als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-08-13&g=2026-08-13), of handeling als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2026-08-13&g=2026-08-13), wordt vastgelegd of bevestigd, bevat in ieder geval een verwijzing naar het subsidieprogramma, de subsidieregeling of de andere regeling waarop het besluit, de overeenkomst of de handeling betrekking heeft.
+1. Een document waarin een besluit of overeenkomst als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2026-09-17&g=2026-09-17), of handeling als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2026-09-17&g=2026-09-17), wordt vastgelegd of bevestigd, bevat in ieder geval een verwijzing naar het subsidieprogramma, de subsidieregeling of de andere regeling waarop het besluit, de overeenkomst of de handeling betrekking heeft.
 
 2. Een document als bedoeld in het eerste lid vermeldt, indien het subsidieprogramma, de subsidieregeling of de andere regeling tot de verantwoordelijkheid van de Minister van Infrastructuur en Waterstaat behoort, aan het slot:
 

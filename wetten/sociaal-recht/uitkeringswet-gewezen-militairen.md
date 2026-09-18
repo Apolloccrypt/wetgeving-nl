@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0002540"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 6 oktober 1966, houdende vaststelling van een regeling tot toekenning van een uitkering aan gewezen militairen, die zijn ontslagen wegens het bereiken van bepaalde leeftijdsgrenzen

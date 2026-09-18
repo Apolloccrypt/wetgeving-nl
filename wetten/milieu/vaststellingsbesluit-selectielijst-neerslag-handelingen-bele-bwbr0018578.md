@@ -8,7 +8,7 @@ laatste_update: 2006-01-12
 status: geldig
 toestand: 2006-01-12
 bron: "https://wetten.overheid.nl/BWBR0018578"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Landinrichting periode 1945-1993 (Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer)

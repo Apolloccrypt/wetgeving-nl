@@ -8,7 +8,7 @@ laatste_update: 2006-06-08
 status: geldig
 toestand: 2006-06-08
 bron: "https://wetten.overheid.nl/BWBR0019528"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst beleidsterrein Adelsbeleid, adelsrecht en decoratiestelsel vanaf 1945 (Minister van Binnenlandse Zaken en Koninkrijksrelaties)

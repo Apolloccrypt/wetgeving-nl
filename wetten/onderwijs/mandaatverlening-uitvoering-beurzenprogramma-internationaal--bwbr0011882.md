@@ -8,7 +8,7 @@ laatste_update: 2000-12-10
 status: geldig
 toestand: 2000-12-10
 bron: "https://wetten.overheid.nl/BWBR0011882"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Mandaatverlening uitvoering Beurzenprogramma Internationaal Onderwijsinstituten (BIO)

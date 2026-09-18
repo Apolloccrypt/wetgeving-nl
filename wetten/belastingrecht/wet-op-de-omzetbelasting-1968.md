@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0002629"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 28 juni 1968, houdende vervanging van de bestaande omzetbelasting door een omzetbelasting volgens het stelsel van heffing over de toegevoegde waarde

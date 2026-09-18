@@ -8,7 +8,7 @@ laatste_update: 2004-04-10
 status: geldig
 toestand: 2004-04-10
 bron: "https://wetten.overheid.nl/BWBR0015753"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsregeling selectielijst handelingen beleidsterrein Coördinatie Integratiebeleid Minderheden over de periode 1978-1999, Sociale Verzekeringsbank

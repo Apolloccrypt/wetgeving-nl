@@ -9,7 +9,7 @@ laatste_update: 2004-11-24
 status: geldig
 toestand: 2004-11-24
 bron: "https://wetten.overheid.nl/BWBR0017465"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van de Minister van Buitenlandse zaken van 10 november 2004, nr. DDI/ST/reg-014/2004, houdende beperking van de openbaarheid van het archief van het gezantschap/consulaat/ consulaat-generaal Turkije (Constantinopel/Istanbul) (1817) 1872–1954 (1955) en het gezantschap te Turkije en Irak (1858) 1945–1954

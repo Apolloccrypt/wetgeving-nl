@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0007176"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 23 december 1994, tot wijziging van onder meer de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de Wet op het basisonderwijs en de Wet medezeggenschap onderwijs 1992 ten behoeve van een betere toerusting van het basisonderwijs met capaciteiten en faciliteiten van (delen van) het speciaal onderwijs (Weer samen naar school)

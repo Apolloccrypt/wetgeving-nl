@@ -9,7 +9,7 @@ laatste_update: 1999-06-01
 status: geldig
 toestand: 1999-06-01
 bron: "https://wetten.overheid.nl/BWBR0002480"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 23 februari 1965, houdende uitvoering van artikel 18 van de Noodwet rechtspleging

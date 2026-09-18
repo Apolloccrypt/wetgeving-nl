@@ -9,7 +9,7 @@ laatste_update: 2025-07-24
 status: geldig
 toestand: 2025-07-24
 bron: "https://wetten.overheid.nl/BWBR0002415"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 30 mei 1963, betreffende verplichte verzekering tegen wettelijke aansprakelijkheid inzake motorrijtuigen

@@ -8,7 +8,7 @@ laatste_update: 2000-04-12
 status: geldig
 toestand: 2000-04-12
 bron: "https://wetten.overheid.nl/BWBR0011287"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Middelburg

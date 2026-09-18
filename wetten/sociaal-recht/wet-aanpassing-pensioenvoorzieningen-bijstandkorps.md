@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0002507"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 25 november 1965, houdende maatregelen ten aanzien van pensioenen, toegekend krachtens de wet van 25 mei 1962, Stb. 196

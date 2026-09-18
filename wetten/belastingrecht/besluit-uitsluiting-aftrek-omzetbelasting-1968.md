@@ -9,7 +9,7 @@ laatste_update: 2019-02-23
 status: geldig
 toestand: 2019-02-23
 bron: "https://wetten.overheid.nl/BWBR0002636"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 23 september 1968, tot vaststelling van het Besluit uitsluiting aftrek omzetbelasting 1968

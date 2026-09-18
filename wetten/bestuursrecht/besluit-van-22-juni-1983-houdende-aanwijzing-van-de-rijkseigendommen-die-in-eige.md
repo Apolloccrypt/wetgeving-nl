@@ -9,7 +9,7 @@ laatste_update: 1983-08-10
 status: geldig
 toestand: 1983-08-10
 bron: "https://wetten.overheid.nl/BWBR0003595"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 22 juni 1983, houdende aanwijzing van de rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Lelystad en bepaling van de voorwaarden en tijdstippen van overgang

@@ -8,7 +8,7 @@ laatste_update: 1980-01-01
 status: geldig
 toestand: 1980-01-01
 bron: "https://wetten.overheid.nl/BWBR0002624"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Bewijs van bekwaamheid voor toelating examens l.o.-akten

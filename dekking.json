@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-09-17",
+ "gegenereerd": "2026-09-18",
  "geverifieerd": true,
- "bwb_regelingen": 46909,
- "bwb_geldend": 22241,
- "site_totaal": 22447,
- "site_geldend": 22239,
+ "bwb_regelingen": 46919,
+ "bwb_geldend": 22242,
+ "site_totaal": 22449,
+ "site_geldend": 22240,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 2,
- "aantal_ten_onrechte_geldig": 208,
+ "aantal_ten_onrechte_geldig": 209,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -161,6 +161,10 @@
   {
    "id": "BWBR0037966",
    "titel": "Beleidsregels wegingsfactoren kosten bestuurlijke voorprocedure"
+  },
+  {
+   "id": "BWBR0038198",
+   "titel": "Klachtenregeling Defensie"
   },
   {
    "id": "BWBR0038720",

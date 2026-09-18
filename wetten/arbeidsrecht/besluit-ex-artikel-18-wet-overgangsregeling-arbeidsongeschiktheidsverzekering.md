@@ -9,7 +9,7 @@ laatste_update: 1967-07-01
 status: geldig
 toestand: 1967-07-01
 bron: "https://wetten.overheid.nl/BWBR0002590"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 22 juni 1967, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 18 van de Wet overgangsregeling arbeidsongeschiktheidsverzekering

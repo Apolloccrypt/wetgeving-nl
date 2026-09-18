@@ -8,7 +8,7 @@ laatste_update: 2000-08-28
 status: geldig
 toestand: 2000-08-28
 bron: "https://wetten.overheid.nl/BWBR0011580"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Den Haag

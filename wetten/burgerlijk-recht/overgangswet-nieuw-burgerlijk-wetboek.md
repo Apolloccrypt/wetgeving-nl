@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0002565"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 3 april 1969, houdende vervanging van het eerste boek van het Burgerlijk Wetboek door Boek 1 van het nieuwe Burgerlijk Wetboek en, in verband daarmede, wijziging van dit boek en de overige boeken van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Strafrecht, het Wetboek van Strafvordering en andere wetten, alsmede van overgangsbepalingen (Invoeringswet Boek 1 nieuw B.W.)

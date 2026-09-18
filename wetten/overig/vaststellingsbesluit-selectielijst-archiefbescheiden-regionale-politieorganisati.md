@@ -8,7 +8,7 @@ laatste_update: 2006-04-05
 status: geldig
 toestand: 2006-04-05
 bron: "https://wetten.overheid.nl/BWBR0019521"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit Selectielijst archiefbescheiden regionale politieorganisaties vanaf 1 april 1994 voor neerslag handelingen Korps Landelijke Politiediensten

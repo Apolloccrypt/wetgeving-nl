@@ -9,7 +9,7 @@ laatste_update: 1965-02-18
 status: geldig
 toestand: 1965-02-18
 bron: "https://wetten.overheid.nl/BWBR0002479"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 29 januari 1965, houdende vaststelling van een uitkeringsregeling ten behoeve van officieren der krijgsmacht die voortijdig de militaire dienst verlaten

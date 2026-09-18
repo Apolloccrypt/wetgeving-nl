@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0002532"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 14 juli 1966, tot verhoging met een tijdelijke toeslag van de pensioenen krachtens de Wet buitengewoon pensioen 1940-1945 (Stb. 1947, H 313) en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. 1947, H 420)

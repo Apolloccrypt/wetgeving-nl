@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0002412"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 22 mei 1963, houdende vaststelling van de Uitvoeringswet Nederlands-Duits Grensverdrag

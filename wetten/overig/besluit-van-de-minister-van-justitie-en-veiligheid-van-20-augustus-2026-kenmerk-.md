@@ -9,7 +9,7 @@ laatste_update: 2026-09-15
 status: geldig
 toestand: 2026-09-15
 bron: "https://wetten.overheid.nl/BWBR0053098"
-opgehaald: 2026-09-17
+opgehaald: 2026-09-18
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 20 augustus 2026, kenmerk 7844344, houdende bekendmaking van de taak waarmee de Staatssecretaris van Justitie en Veiligheid in het bijzonder is belast

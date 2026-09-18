@@ -9,7 +9,7 @@ laatste_update: 1967-01-01
 status: geldig
 toestand: 1967-01-01
 bron: "https://wetten.overheid.nl/BWBR0002542"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 14 oktober 1966, houdende overbrenging van de aangelegenheden betreffende de Indonesische pensioenen e.a. van het departement van Buitenlandse Zaken naar het departement van Binnenlandse Zaken

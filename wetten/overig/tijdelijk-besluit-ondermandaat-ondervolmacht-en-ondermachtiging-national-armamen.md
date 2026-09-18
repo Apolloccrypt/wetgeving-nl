@@ -8,7 +8,7 @@ laatste_update: 2026-09-15
 status: geldig
 toestand: 2026-09-15
 bron: "https://wetten.overheid.nl/BWBR0053104"
-opgehaald: 2026-09-17
+opgehaald: 2026-09-18
 ---
 
 # Tijdelijk besluit ondermandaat, ondervolmacht en ondermachtiging, National Armaments Director

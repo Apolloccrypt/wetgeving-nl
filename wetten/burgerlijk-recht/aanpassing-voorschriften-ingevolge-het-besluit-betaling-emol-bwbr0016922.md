@@ -8,7 +8,7 @@ laatste_update: 2004-07-01
 status: geldig
 toestand: 2004-07-01
 bron: "https://wetten.overheid.nl/BWBR0016922"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel (2004)

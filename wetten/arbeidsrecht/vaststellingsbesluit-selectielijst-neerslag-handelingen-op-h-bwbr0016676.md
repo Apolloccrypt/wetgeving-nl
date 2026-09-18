@@ -8,7 +8,7 @@ laatste_update: 2004-07-09
 status: geldig
 toestand: 2004-07-09
 bron: "https://wetten.overheid.nl/BWBR0016676"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen op het beleidsterrein Arbeidsvoorwaarden en beroepskwaliteit, sector Onderwijs en Wetenschappen over de periode 1945–2000 (Minister van Financiën)

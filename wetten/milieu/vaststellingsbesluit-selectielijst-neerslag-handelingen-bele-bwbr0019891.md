@@ -8,7 +8,7 @@ laatste_update: 2006-08-05
 status: geldig
 toestand: 2006-08-05
 bron: "https://wetten.overheid.nl/BWBR0019891"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Algemeen Wetenschappelijke voorbereiding van het regeringsbeleid vanaf 1945 (Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer)

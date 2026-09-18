@@ -9,7 +9,7 @@ laatste_update: 1965-06-15
 status: geldig
 toestand: 1965-06-15
 bron: "https://wetten.overheid.nl/BWBR0002492"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 15 juni 1965, houdende wijziging van de taak van de departementen van Cultuur, Recreatie en Maatschappelijk Werk en van Volkshuisvesting en Ruimtelijke Ordening

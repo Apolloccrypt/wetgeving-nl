@@ -9,7 +9,7 @@ laatste_update: 2026-02-21
 status: geldig
 toestand: 2026-02-21
 bron: "https://wetten.overheid.nl/BWBR0002471"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 16 december 1964, houdende vervanging van het Besluit op de Loonbelasting 1940 door een nieuwe wettelijke regeling

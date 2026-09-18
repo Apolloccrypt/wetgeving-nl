@@ -9,7 +9,7 @@ laatste_update: 1967-03-15
 status: geldig
 toestand: 1967-03-15
 bron: "https://wetten.overheid.nl/BWBR0002549"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 12 januari 1967, houdende overbrenging van de aangelegenheden betreffende enige instellingen van het Departement van Cultuur, Recreatie en Maatschappelijk Werk naar het Departement van Onderwijs en Wetenschappen

@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-09-03
+laatste_update: 2026-09-16
 status: geldig
-toestand: 2026-09-03
+toestand: 2026-09-16
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-09-07
+opgehaald: 2026-09-18
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -143,6 +143,7 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- e
 | Paragraaf 3.4: Innovatieve projecten in de aquacultuur | 3.4.1 | – | Innovatie in de aquacultuur | 31-07-2026 t/m 29-10-2026 | € 3.300.000 |
 | Paragraaf 3.6: Vernieuwingen in de keten van visserij en aquacultuur | 3.6.1 |  | Bevordering van de afzet, de kwaliteit en de toegevoegde waarde van visserij- en aquacultuurproducten en de verwerking van die producten | 20-10-2025 t/m 22-01-2026 | € 1.800.000 |
 | Paragraaf 3.8: Steun voor hogere bedrijfskosten visserij | 3.8.2 |  | Steun voor hogere bedrijfskosten visserij als gevolg van de situatie in het Midden-Oosten | 20-08-2026 t/m 03-09-2026 | € 13.500.000 |
+|  | 3.8.2 |  | Steun voor hogere bedrijfskosten visserij als gevolg van de situatie in het Midden-Oosten | 16-10-2026 t/m 30-10-2026 | € 6.020.000 |
 | Titel 5.5: Brede weersverzekering | 5.5.2 |  |  | 01-03-2026 t/m 18-05-2026 | € 17.500.000 |
 | Titel 5.6: Samenwerken aan innovatie door operationele groepen in het kader van EIP | 5.6.2, eerste lid en zesde lid, onderdeel e |  | e. Het op orde brengen van digitale randvoorwaarden om digitale innovaties in de agrarische bedrijfsvoering en landbouwrobots te kunnen ontwikkelen of implementeren, om bij te dragen aan het versterken en versnellen van de groene transitie en het reduceren van arbeidsmarkttekorten door middel van een grotere inzet van digitalisering en landbouwrobots voor een toekomstbestendig landbouw- en voedselsysteem en een robuuste natuur. | 11-11-2025 t/m 07-01-2026 | € 18.270.000 |
 |  | 5.6.2, eerste en zesde lid, onderdeel f, subonderdeel 1 |  | Het experimenteren met het vermarkten van dierlijke producten die zijn geproduceerd op een veehouderij waar maatregelen worden toegepast, gericht op het bereiken van een dierwaardige veehouderij binnen de sectoren legkippen, opfoklegkippen, vleeskuikens, of ouderdieren | 02-04-2026 t/m 02-06-2026 | € 1.500.000 |

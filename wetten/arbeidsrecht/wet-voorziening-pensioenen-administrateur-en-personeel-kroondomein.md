@@ -9,7 +9,7 @@ laatste_update: 1969-01-08
 status: geldig
 toestand: 1969-01-08
 bron: "https://wetten.overheid.nl/BWBR0002639"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 27 november 1968, houdende voorziening met betrekking tot de pensioenen van de Administrateur en het personeel van het Kroondomein

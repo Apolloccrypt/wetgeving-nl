@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0002553"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wet van 2 februari 1967, houdende liquidatie wettelijke ongevallenverzekering in verband met de invoering van de Wet op de arbeidsongeschiktheidsverzekering

@@ -9,7 +9,7 @@ laatste_update: 1964-07-01
 status: geldig
 toestand: 1964-07-01
 bron: "https://wetten.overheid.nl/BWBR0002446"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 25 juni 1964, houdende wijziging van de taak van de departementen van Volkshuisvesting en Bouwnijverheid en van Verkeer en Waterstaat

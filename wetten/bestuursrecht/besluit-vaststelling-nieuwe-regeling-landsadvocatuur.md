@@ -9,7 +9,7 @@ laatste_update: 1965-04-10
 status: geldig
 toestand: 1965-04-10
 bron: "https://wetten.overheid.nl/BWBR0002484"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 2 april 1965, houdende intrekking van het KB van 1 augustus 1879, nr. 26, alsmede de vaststelling van een nieuwe regeling inzake de landsadvocatuur

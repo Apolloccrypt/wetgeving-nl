@@ -8,7 +8,7 @@ laatste_update: 1994-10-16
 status: geldig
 toestand: 1994-10-16
 bron: "https://wetten.overheid.nl/BWBR0006969"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Wijziging Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen

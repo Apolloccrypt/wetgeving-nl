@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0018845"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 8 oktober 2005 tot wijziging van de bijlage, bedoeld in artikel 2, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften

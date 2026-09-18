@@ -9,7 +9,7 @@ laatste_update: 1986-12-24
 status: geldig
 toestand: 1986-12-24
 bron: "https://wetten.overheid.nl/BWBR0003911"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-18
 ---
 
 # Besluit van 28 december 1985, houdende aanwijzing van rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Dronten
