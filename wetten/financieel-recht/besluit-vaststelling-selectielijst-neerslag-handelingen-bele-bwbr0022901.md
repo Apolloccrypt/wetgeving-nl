@@ -8,7 +8,7 @@ laatste_update: 2007-11-28
 status: geldig
 toestand: 2007-11-28
 bron: "https://wetten.overheid.nl/BWBR0022901"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein regulering en toezicht bank- en kredietwezen vanaf 1940 (Minister van Economische Zaken)

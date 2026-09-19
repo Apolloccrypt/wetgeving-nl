@@ -8,7 +8,7 @@ laatste_update: 2008-10-24
 status: geldig
 toestand: 2008-10-24
 bron: "https://wetten.overheid.nl/BWBR0024624"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Coördinatie, handhaving en crisisbeheersing vanaf 1945 (Minister van Landbouw, Natuur en Voedselkwaliteit)

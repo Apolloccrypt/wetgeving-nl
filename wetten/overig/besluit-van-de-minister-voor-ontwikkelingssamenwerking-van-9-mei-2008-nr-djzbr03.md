@@ -9,7 +9,7 @@ laatste_update: 2008-05-23
 status: geldig
 toestand: 2008-05-23
 bron: "https://wetten.overheid.nl/BWBR0023875"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 9 mei 2008, nr. DJZ/BR/0380-08, tot vaststelling van beleidsregels alsmede een plafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Beleidsregels en subsidieplafond Jonge en Vernieuwende Organisaties)

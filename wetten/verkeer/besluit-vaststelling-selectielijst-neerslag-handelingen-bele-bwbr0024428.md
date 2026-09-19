@@ -8,7 +8,7 @@ laatste_update: 2008-09-04
 status: geldig
 toestand: 2008-09-04
 bron: "https://wetten.overheid.nl/BWBR0024428"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Burgerluchtvaart vanaf 1945 (Minister van Defensie)

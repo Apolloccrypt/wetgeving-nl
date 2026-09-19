@@ -8,7 +8,7 @@ laatste_update: 2009-08-28
 status: geldig
 toestand: 2009-08-28
 bron: "https://wetten.overheid.nl/BWBR0026289"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Wetenschappelijk onderwijs vanaf 1985 (Universiteit Leiden)

@@ -9,7 +9,7 @@ laatste_update: 2008-04-01
 status: geldig
 toestand: 2008-04-01
 bron: "https://wetten.overheid.nl/BWBR0023481"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van 9 februari 2008 tot wijziging van de bijlage, bedoeld in artikel 2, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften in verband met de tweejaarlijkse actualisering van de tarieven

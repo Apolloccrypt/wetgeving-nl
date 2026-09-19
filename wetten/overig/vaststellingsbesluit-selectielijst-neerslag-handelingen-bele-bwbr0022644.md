@@ -8,7 +8,7 @@ laatste_update: 2007-10-20
 status: geldig
 toestand: 2007-10-20
 bron: "https://wetten.overheid.nl/BWBR0022644"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Beroepenkwaliteit vanaf 1945 (Nederlandse Orde Accountant-administratieconsulenten)

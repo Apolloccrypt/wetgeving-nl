@@ -8,7 +8,7 @@ laatste_update: 2007-11-08
 status: geldig
 toestand: 2007-11-08
 bron: "https://wetten.overheid.nl/BWBR0022771"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Politie 1945–1993 (Minister van Buitenlandse Zaken)

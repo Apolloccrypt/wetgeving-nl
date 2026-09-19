@@ -8,7 +8,7 @@ laatste_update: 2006-10-05
 status: geldig
 toestand: 2006-10-05
 bron: "https://wetten.overheid.nl/BWBR0020236"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Geneesmiddelen en medische hulpmiddelen vanaf 1945 (minister van Buitenlandse Zaken)

@@ -9,7 +9,7 @@ laatste_update: 2009-07-18
 status: geldig
 toestand: 2009-07-18
 bron: "https://wetten.overheid.nl/BWBR0026113"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 juli 2009, nr. DDI/ST/reg. 022/2009, houdende beperking van de openbaarheid van het archief van het Ministerie van Buitenlandse Zaken 1965−1974

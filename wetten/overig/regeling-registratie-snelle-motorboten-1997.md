@@ -8,7 +8,7 @@ laatste_update: 2011-03-30
 status: geldig
 toestand: 2011-03-30
 bron: "https://wetten.overheid.nl/BWBR0008666"
-opgehaald: 2026-09-18
+opgehaald: 2026-09-19
 ---
 
 # Regeling registratie snelle motorboten 1997

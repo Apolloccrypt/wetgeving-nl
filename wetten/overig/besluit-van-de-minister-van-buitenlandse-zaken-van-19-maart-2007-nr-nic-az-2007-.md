@@ -9,7 +9,7 @@ laatste_update: 2007-05-01
 status: geldig
 toestand: 2007-05-01
 bron: "https://wetten.overheid.nl/BWBR0021614"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 19 maart 2007, nr. NIC-AZ 2007-04, tot vaststelling van beleidsregels alsmede een plafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Beleidsregels en subsidieplafond PKP Nicosia 2007)

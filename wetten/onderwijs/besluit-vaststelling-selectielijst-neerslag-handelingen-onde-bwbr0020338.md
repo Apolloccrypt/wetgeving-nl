@@ -8,7 +8,7 @@ laatste_update: 2006-10-21
 status: geldig
 toestand: 2006-10-21
 bron: "https://wetten.overheid.nl/BWBR0020338"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Onderwijsraad beleidsterrein Advisering Onderwijsraad 1980–2003

@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026612"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Minister van Ecomische Zaken van 30 oktober 2009, nr. WJZ/9190878, houdende vaststelling van de correcties ten behoeve van de voorschotverlening voor de stimulering van duurzame energieproductie in het jaar 2010 (Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2010)

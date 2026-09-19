@@ -9,7 +9,7 @@ laatste_update: 2008-07-24
 status: geldig
 toestand: 2008-07-24
 bron: "https://wetten.overheid.nl/BWBR0024221"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 10 juli 2008, nr. DDI/ST/reg. 026/2008, houdende beperking van de openbaarheid van het archief van het Nederlands Gezantschap, later de Ambassade in Oostenrijk van het Ministerie van Buitenlandse Zaken, 1955–1974

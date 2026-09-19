@@ -8,7 +8,7 @@ laatste_update: 2008-02-15
 status: geldig
 toestand: 2008-02-15
 bron: "https://wetten.overheid.nl/BWBR0023461"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Natuurlijke Personen vanaf 1945 (Minister van Onderwijs, Cultuur en Wetenschap)

@@ -8,7 +8,7 @@ laatste_update: 2009-03-20
 status: geldig
 toestand: 2009-03-20
 bron: "https://wetten.overheid.nl/BWBR0025482"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein ‘Coördinatie algemeen regeringsbeleid vanaf 1945’ (Minister van Verkeer en Waterstaat)

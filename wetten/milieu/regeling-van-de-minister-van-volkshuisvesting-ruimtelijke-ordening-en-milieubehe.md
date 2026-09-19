@@ -9,7 +9,7 @@ laatste_update: 2009-03-14
 status: geldig
 toestand: 2009-03-14
 bron: "https://wetten.overheid.nl/BWBR0025412"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 25 februari 2009, nr. DGM/K&L2009016588, houdende wijziging van de Subsidieregeling emissieverminderende voorzieningen voor voertuigen (wijziging percentage emissie van deeltjes zware voertuigen)

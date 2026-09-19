@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0025825"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 26 november 2008, nr. OHW-U-2895380, houdende de vaststelling van het vrijstellingsbedrag inkomsten uit vermogen ingevolge de wetten voor oorlogsgetroffenen per 1 januari 2009

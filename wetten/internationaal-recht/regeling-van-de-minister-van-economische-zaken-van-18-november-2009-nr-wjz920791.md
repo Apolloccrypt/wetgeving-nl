@@ -9,7 +9,7 @@ laatste_update: 2009-12-11
 status: geldig
 toestand: 2009-12-11
 bron: "https://wetten.overheid.nl/BWBR0026677"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 18 november 2009, nr. WJZ/9207917, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen en van de Regeling openstelling en subsidieplafonds EZ 2009

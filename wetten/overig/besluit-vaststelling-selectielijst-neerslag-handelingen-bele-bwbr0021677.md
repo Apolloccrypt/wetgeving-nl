@@ -8,7 +8,7 @@ laatste_update: 2007-04-14
 status: geldig
 toestand: 2007-04-14
 bron: "https://wetten.overheid.nl/BWBR0021677"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Friese taal vanaf 1945 (Minister van Buitenlandse Zaken)

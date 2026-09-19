@@ -8,7 +8,7 @@ laatste_update: 2007-11-07
 status: geldig
 toestand: 2007-11-07
 bron: "https://wetten.overheid.nl/BWBR0022763"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit Vaststelling selectielijst neerslag handelingen beleidsterrein Internationale Volksgezondheid vanaf 1945 (Minister van Buitenlandse Zaken)

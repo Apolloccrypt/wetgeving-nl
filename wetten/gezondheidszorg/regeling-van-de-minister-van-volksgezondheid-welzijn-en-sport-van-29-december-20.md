@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0025064"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 december 2008, nr. Z/F-2899922, houdende wijziging van de Regeling zorgverzekering ter zake van de vereveningsbijdrage voor zorgverzekeraars in jaar 2009

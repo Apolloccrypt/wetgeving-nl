@@ -8,7 +8,7 @@ laatste_update: 2009-01-15
 status: geldig
 toestand: 2009-01-15
 bron: "https://wetten.overheid.nl/BWBR0025164"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gezondheid en Welzijn van dieren 1981–2008 (Stichting Examens Vakbekwaamheid Honden- en Kattenbesluit)

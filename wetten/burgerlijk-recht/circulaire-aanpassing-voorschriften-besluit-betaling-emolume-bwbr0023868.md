@@ -8,7 +8,7 @@ laatste_update: 2008-07-01
 status: geldig
 toestand: 2008-07-01
 bron: "https://wetten.overheid.nl/BWBR0023868"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Circulaire aanpassing voorschriften Besluit betaling emolumenten burgerlijk rijkspersoneel (2008)

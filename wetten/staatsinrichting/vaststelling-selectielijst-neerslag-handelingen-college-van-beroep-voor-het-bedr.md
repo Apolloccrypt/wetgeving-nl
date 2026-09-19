@@ -9,7 +9,7 @@ laatste_update: 2008-01-10
 status: geldig
 toestand: 2008-01-10
 bron: "https://wetten.overheid.nl/BWBR0023250"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Vaststelling selectielijst neerslag handelingen College van Beroep voor het Bedrijfsleven beleidsterrein bedrijfsvoering rechterlijke macht vanaf 2002

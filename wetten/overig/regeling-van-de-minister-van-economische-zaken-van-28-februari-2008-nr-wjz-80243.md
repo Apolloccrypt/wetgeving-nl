@@ -9,7 +9,7 @@ laatste_update: 2008-07-23
 status: geldig
 toestand: 2008-07-23
 bron: "https://wetten.overheid.nl/BWBR0023565"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 28 februari 2008, nr. WJZ 8024304, houdende vaststelling van correcties ten behoeve van de voorschotverlening voor de stimulering van duurzame energieproductie in het jaar 2008 (Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2008)

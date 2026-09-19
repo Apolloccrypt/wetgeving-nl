@@ -8,7 +8,7 @@ laatste_update: 2008-03-30
 status: geldig
 toestand: 2008-03-30
 bron: "https://wetten.overheid.nl/BWBR0023681"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Media, Letteren en Bibliotheken vanaf 1945 (College van Toezicht collectieve beheersorganisatie auteurs- en naburige rechten en voorganger)

@@ -8,7 +8,7 @@ laatste_update: 2007-02-21
 status: geldig
 toestand: 2007-02-21
 bron: "https://wetten.overheid.nl/BWBR0021264"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Openbare en bijzondere academische ziekenhuizen vanaf 1985 (Academisch Medisch Centrum Universiteit van Amsterdam (AMC))

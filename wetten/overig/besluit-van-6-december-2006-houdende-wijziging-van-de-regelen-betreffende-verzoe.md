@@ -9,7 +9,7 @@ laatste_update: 2007-01-03
 status: geldig
 toestand: 2007-01-03
 bron: "https://wetten.overheid.nl/BWBR0020900"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van 6 december 2006, houdende wijziging van de Regelen betreffende verzoeken tot naamswijziging en tot naamsvaststelling

@@ -8,7 +8,7 @@ laatste_update: 2008-06-07
 status: geldig
 toestand: 2008-06-07
 bron: "https://wetten.overheid.nl/BWBR0023940"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Wetenschapsbeleid vanaf 1991 (Minister van Onderwijs, Cultuur en Wetenschap)

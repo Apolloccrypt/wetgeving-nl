@@ -8,7 +8,7 @@ laatste_update: 2007-02-16
 status: geldig
 toestand: 2007-02-16
 bron: "https://wetten.overheid.nl/BWBR0021215"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Vaststelling selectielijst neerslag handelingen beleidsterrein Kwaliteit van de Nederlandse wetgeving vanaf 1945 (Minister van Algemene Zaken)

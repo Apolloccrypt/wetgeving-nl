@@ -9,7 +9,7 @@ laatste_update: 2009-02-28
 status: geldig
 toestand: 2009-02-28
 bron: "https://wetten.overheid.nl/BWBR0025335"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 februari 2009, nr. DDI/ST/reg. 006/2009, houdende beperking van de openbaarheid van het archief van de Nederlands permanente vertegenwoordiging bij de Europese Gemeenschappen (EG) te Brussel van het Ministerie van Buitenlandse Zaken, 1957–1984

@@ -8,7 +8,7 @@ laatste_update: 2007-06-13
 status: geldig
 toestand: 2007-06-13
 bron: "https://wetten.overheid.nl/BWBR0022019"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Monumentenzorg vanaf 1965 (Minister van Volksgezondheid, Welzijn en Sport)

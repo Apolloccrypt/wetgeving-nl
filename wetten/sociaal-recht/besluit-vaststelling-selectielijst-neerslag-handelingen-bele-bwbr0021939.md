@@ -8,7 +8,7 @@ laatste_update: 2007-05-31
 status: geldig
 toestand: 2007-05-31
 bron: "https://wetten.overheid.nl/BWBR0021939"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Planning Voorzieningen gezondheidszorg vanaf 1945 (Minister van Sociale Zaken en Werkgelegenheid)

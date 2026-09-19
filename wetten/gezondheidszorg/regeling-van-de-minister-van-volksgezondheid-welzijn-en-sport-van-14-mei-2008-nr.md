@@ -9,7 +9,7 @@ laatste_update: 2008-05-01
 status: geldig
 toestand: 2008-05-01
 bron: "https://wetten.overheid.nl/BWBR0023877"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 mei 2008, nr. VGP/PSL 2847501, houdende een wijziging van de Regeling Verpakkingen- en gebruiksartikelen (Warenwet) in verband met richtlijn nr. 2007/19/EG

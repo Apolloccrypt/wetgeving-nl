@@ -8,7 +8,7 @@ laatste_update: 2008-04-03
 status: geldig
 toestand: 2008-04-03
 bron: "https://wetten.overheid.nl/BWBR0023710"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Toezicht Verzekeringsbedrijf vanaf 1940 (Minister van Economische Zaken)

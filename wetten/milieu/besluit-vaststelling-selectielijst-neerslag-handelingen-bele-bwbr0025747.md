@@ -8,7 +8,7 @@ laatste_update: 2009-04-26
 status: geldig
 toestand: 2009-04-26
 bron: "https://wetten.overheid.nl/BWBR0025747"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Milieubeheer vanaf 1945 (Minister van Binnenlandse Zaken en Koninkrijksrelaties)

@@ -9,7 +9,7 @@ laatste_update: 2008-12-03
 status: geldig
 toestand: 2008-12-03
 bron: "https://wetten.overheid.nl/BWBR0024763"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 18 november 2008, nr. DDI/ST/reg. 061/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Gezantschap, later de Ambassade in Mexico te Mexico-stad, 1954–1974, en de Caribische Commissie Mexico te Mexico-stad, 1944–1960, van het Ministerie van Buitenlandse Zaken

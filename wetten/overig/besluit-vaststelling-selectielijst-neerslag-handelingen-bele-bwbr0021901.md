@@ -8,7 +8,7 @@ laatste_update: 2007-05-26
 status: geldig
 toestand: 2007-05-26
 bron: "https://wetten.overheid.nl/BWBR0021901"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Oorlogsgetroffenen vanaf 1945 (Stichting Het Gebaar)

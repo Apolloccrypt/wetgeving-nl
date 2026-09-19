@@ -9,7 +9,7 @@ laatste_update: 2010-03-12
 status: geldig
 toestand: 2010-03-12
 bron: "https://wetten.overheid.nl/BWBR0026460"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 september 2009, nr. R&P/RA/2009/17345, tot vaststelling van de vergoedingen van de voorzitter en de leden van het Comité van experts subsidieregeling ESF 2007–2013/Actie E

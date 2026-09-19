@@ -9,7 +9,7 @@ laatste_update: 2008-10-19
 status: geldig
 toestand: 2008-10-19
 bron: "https://wetten.overheid.nl/BWBR0024613"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 oktober 2008, nr. DDI/ST/reg. 042/2008, houdende beperking van de openbaarheid van het archief van het Nederlands Gezantschap, later de Ambassade in Polen van het Ministerie van Buitenlandse Zaken, 1955–1974

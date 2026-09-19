@@ -8,7 +8,7 @@ laatste_update: 2007-11-15
 status: geldig
 toestand: 2007-11-15
 bron: "https://wetten.overheid.nl/BWBR0022805"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Notarissen vanaf 1945 (Minister van Economische Zaken)

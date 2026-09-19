@@ -9,7 +9,7 @@ laatste_update: 2008-11-12
 status: geldig
 toestand: 2008-11-12
 bron: "https://wetten.overheid.nl/BWBR0024664"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van 20 oktober 2008, houdende de vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2008 worden uitgegeven met het thema «Nederland en Architectuur»

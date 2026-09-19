@@ -8,7 +8,7 @@ laatste_update: 2006-10-11
 status: geldig
 toestand: 2006-10-11
 bron: "https://wetten.overheid.nl/BWBR0020156"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Exportbevordering, internationaal ondernemen en samenwerking vanaf 1945 (Minister van Verkeer en Waterstaat)

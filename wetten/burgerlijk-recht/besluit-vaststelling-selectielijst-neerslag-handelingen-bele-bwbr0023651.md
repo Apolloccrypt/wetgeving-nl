@@ -8,7 +8,7 @@ laatste_update: 2008-03-27
 status: geldig
 toestand: 2008-03-27
 bron: "https://wetten.overheid.nl/BWBR0023651"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Vermogensrecht vanaf 1945 (Minister van Verkeer en Waterstaat)

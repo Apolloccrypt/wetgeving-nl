@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0025820"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 december 2003, nr. DVVB/MB-U-2434246, houdende de vaststelling van het bedrag vrijstelling uit vermogen ingevolge de wetten voor oorlogsgetroffenen per 1 januari 2004

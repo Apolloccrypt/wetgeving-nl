@@ -8,7 +8,7 @@ laatste_update: 2006-10-12
 status: geldig
 toestand: 2006-10-12
 bron: "https://wetten.overheid.nl/BWBR0020209"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Buitenlandse Economische Betrekkingen vanaf 1945 (Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer)

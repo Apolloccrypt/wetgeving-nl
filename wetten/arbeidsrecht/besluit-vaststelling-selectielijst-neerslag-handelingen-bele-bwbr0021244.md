@@ -8,7 +8,7 @@ laatste_update: 2007-02-18
 status: geldig
 toestand: 2007-02-18
 bron: "https://wetten.overheid.nl/BWBR0021244"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Inkomens- en arbeidsvoorwaardenbeleid vanaf 1945 (Minister van Economische Zaken)

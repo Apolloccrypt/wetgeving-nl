@@ -8,7 +8,7 @@ laatste_update: 2006-11-30
 status: geldig
 toestand: 2006-11-30
 bron: "https://wetten.overheid.nl/BWBR0020092"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Bekostiging en verzekering gezondheidszorg vanaf 1941 (Minister van Onderwijs, Cultuur en Wetenschap)

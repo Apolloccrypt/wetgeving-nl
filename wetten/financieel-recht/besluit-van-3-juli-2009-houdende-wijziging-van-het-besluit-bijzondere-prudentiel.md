@@ -9,7 +9,7 @@ laatste_update: 2009-07-22
 status: geldig
 toestand: 2009-07-22
 bron: "https://wetten.overheid.nl/BWBR0026142"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van 3 juli 2009, houdende wijziging van het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft

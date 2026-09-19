@@ -8,7 +8,7 @@ laatste_update: 2007-10-24
 status: geldig
 toestand: 2007-10-24
 bron: "https://wetten.overheid.nl/BWBR0022629"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Nationale ombudsman (1964) 1982– (Minister van Landbouw, Natuur en Voedselkwaliteit)

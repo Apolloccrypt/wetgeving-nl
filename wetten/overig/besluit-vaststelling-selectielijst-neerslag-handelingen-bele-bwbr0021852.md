@@ -8,7 +8,7 @@ laatste_update: 2007-05-23
 status: geldig
 toestand: 2007-05-23
 bron: "https://wetten.overheid.nl/BWBR0021852"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Landbouwkwaliteit en voedselveiligheid vanaf 1945 (Productschappen Vee, Vlees en Eieren (PVE))

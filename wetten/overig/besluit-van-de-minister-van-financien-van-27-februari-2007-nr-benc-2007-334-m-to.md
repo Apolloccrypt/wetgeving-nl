@@ -9,7 +9,7 @@ laatste_update: 2007-04-22
 status: geldig
 toestand: 2007-04-22
 bron: "https://wetten.overheid.nl/BWBR0021735"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de minister van Financiën van 27 februari 2007, nr. BenC 2007-334 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Algemene Index Financiën over de periode 1936–1975 van het ministerie van Financiën

@@ -8,7 +8,7 @@ laatste_update: 2007-11-17
 status: geldig
 toestand: 2007-11-17
 bron: "https://wetten.overheid.nl/BWBR0022820"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Vaststelling tarieven gezondheidszorg vanaf 1945 (Nederlandse Zorgautoriteit)

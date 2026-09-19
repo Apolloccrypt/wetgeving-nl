@@ -8,7 +8,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0026647"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Klachtenregeling college sanering zorginstellingen

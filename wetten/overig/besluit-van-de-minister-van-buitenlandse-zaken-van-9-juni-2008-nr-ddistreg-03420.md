@@ -9,7 +9,7 @@ laatste_update: 2008-06-19
 status: geldig
 toestand: 2008-06-19
 bron: "https://wetten.overheid.nl/BWBR0023998"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 9 juni 2008, nr. DDI/ST/reg. 034/2008, houdende beperking van de openbaarheid van het archief van het Ministerie van Buitenlandse Zaken 1945–1954

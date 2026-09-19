@@ -9,7 +9,7 @@ laatste_update: 2009-07-28
 status: geldig
 toestand: 2009-07-28
 bron: "https://wetten.overheid.nl/BWBR0026159"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van 3 juli 2009, houdende de vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2009 worden uitgegeven ter gelegenheid van 400 jaar handelsbetrekkingen Nederland–Japan

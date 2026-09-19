@@ -8,7 +8,7 @@ laatste_update: 2006-10-21
 status: geldig
 toestand: 2006-10-21
 bron: "https://wetten.overheid.nl/BWBR0020344"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Onderwijsraad beleidsterrein Wetenschappelijk onderwijs (1945) 1960–1997

@@ -8,7 +8,7 @@ laatste_update: 2026-09-12
 status: geldig
 toestand: 2026-09-12
 bron: "https://wetten.overheid.nl/BWBR0053096"
-opgehaald: 2026-09-18
+opgehaald: 2026-09-19
 ---
 
 # Regeling Open oproep Cultuureducatie en digitale technologie

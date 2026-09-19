@@ -8,7 +8,7 @@ laatste_update: 2007-08-04
 status: geldig
 toestand: 2007-08-04
 bron: "https://wetten.overheid.nl/BWBR0022345"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Consumentenbeleid vanaf 1945 (Minister van Binnenlandse Zaken en Koninkrijksrelaties)

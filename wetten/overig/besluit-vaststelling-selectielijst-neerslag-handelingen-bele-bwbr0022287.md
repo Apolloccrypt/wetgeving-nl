@@ -8,7 +8,7 @@ laatste_update: 2007-07-28
 status: geldig
 toestand: 2007-07-28
 bron: "https://wetten.overheid.nl/BWBR0022287"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein rijkshuisvesting vanaf 1945 (Minister van Economische Zaken)

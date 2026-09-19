@@ -9,7 +9,7 @@ laatste_update: 2007-11-22
 status: geldig
 toestand: 2007-11-22
 bron: "https://wetten.overheid.nl/BWBR0022846"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van 21 juli 2007, nr. 07.002324, houdende vaststelling van een selectielijst van de Raad van State op het deelbeleidsterrein van personeelszaken, t.w. personeelsdossiers

@@ -9,7 +9,7 @@ laatste_update: 2008-10-25
 status: geldig
 toestand: 2008-10-25
 bron: "https://wetten.overheid.nl/BWBR0024631"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 13 oktober 2008, nr. DDI/ST/reg. 045/2008, houdende beperking van de openbaarheid van het archief van het Nederlands Gezantschap, later de Ambassade in Iran van het ministerie van Buitenlandse Zaken, 1955–1980

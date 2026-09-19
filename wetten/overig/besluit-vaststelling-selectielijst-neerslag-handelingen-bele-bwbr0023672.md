@@ -8,7 +8,7 @@ laatste_update: 2008-03-30
 status: geldig
 toestand: 2008-03-30
 bron: "https://wetten.overheid.nl/BWBR0023672"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Media, Letteren en Bibliotheken vanaf 1945 (Nederlands Literair Productie- en Vertalingenfonds)

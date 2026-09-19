@@ -6,10 +6,11 @@ categorie: "Staatsinrichting en bestuur"
 soort: "beleidsregel"
 publicatiedatum: 2019-07-06
 laatste_update: 2019-07-06
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-17
 toestand: 2019-07-06
 bron: "https://wetten.overheid.nl/BWBR0042380"
-opgehaald: 2026-08-28
+opgehaald: 2026-09-19
 ---
 
 # Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 juli 2019, houdende beleidsregels voor de beoordeling van aanmeldingen in het kader van de Regeling uitvoering Crisis- en herstelwet (Beleidsregel aanmeldingen Regeling uitvoering Crisis- en herstelwet)

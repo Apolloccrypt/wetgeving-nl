@@ -8,7 +8,7 @@ laatste_update: 2007-10-07
 status: geldig
 toestand: 2007-10-07
 bron: "https://wetten.overheid.nl/BWBR0022565"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Regionaal en Ruimtelijk Economisch Beleid 1945- (Minister van Binnenlandse Zaken en Koninkrijksrelaties)

@@ -9,7 +9,7 @@ laatste_update: 2007-12-13
 status: geldig
 toestand: 2007-12-13
 bron: "https://wetten.overheid.nl/BWBR0023008"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 19 december 2007, DLZ-U-2817082, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake Contracteerruimte AWBZ 2008

@@ -8,7 +8,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0023245"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Economische Mededinging en Industrieel Eigendom vanaf 1946 (Minister van Volksgezondheid, Welzijn en Sport)

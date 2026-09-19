@@ -9,7 +9,7 @@ laatste_update: 2009-07-18
 status: geldig
 toestand: 2009-07-18
 bron: "https://wetten.overheid.nl/BWBR0026130"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Minister van Justitie van 10 juli 2009, nr. 5610455, houdende wijziging van de Regeling modellen en formulieren ten behoeve van de handhaving Justitie

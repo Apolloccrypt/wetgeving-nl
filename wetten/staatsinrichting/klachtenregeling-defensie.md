@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-16
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0038198"
-opgehaald: 2026-09-18
+opgehaald: 2026-09-19
 ---
 
 # Klachtenregeling Defensie

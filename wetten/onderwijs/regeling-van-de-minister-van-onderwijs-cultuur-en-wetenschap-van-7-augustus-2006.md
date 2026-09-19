@@ -9,7 +9,7 @@ laatste_update: 2006-08-13
 status: geldig
 toestand: 2006-08-13
 bron: "https://wetten.overheid.nl/BWBR0020137"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 augustus 2006, nr. PO/KO/06/28669, houdende aanwijzing van het aanvullend getuigschrift vereist voor het onderwijs in de zintuiglijke en lichamelijke oefening in het derde tot en met achtste leerjaar van het basisonderwijs en in groepen bestemd voor leerlingen vanaf 7 jaar in het speciaal onderwijs (Regeling aanvullend getuigschrift zintuiglijke en lichamelijke oefening primair onderwijs)

@@ -9,7 +9,7 @@ laatste_update: 2008-12-10
 status: geldig
 toestand: 2008-12-10
 bron: "https://wetten.overheid.nl/BWBR0024776"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 18 november 2008, nr. DDI/ST/reg. 058/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Gezantschap, later de Ambassade in Colombia te Bogotá en het Consulaat in Colombia te Barranquilla van het Ministerie van Buitenlandse Zaken, 1948–1974

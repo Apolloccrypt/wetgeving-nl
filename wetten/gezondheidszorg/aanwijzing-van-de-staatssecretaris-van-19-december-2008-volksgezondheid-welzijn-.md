@@ -9,7 +9,7 @@ laatste_update: 2009-01-08
 status: geldig
 toestand: 2009-01-08
 bron: "https://wetten.overheid.nl/BWBR0025143"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Aanwijzing van de Staatssecretaris van 19 december 2008, Volksgezondheid, Welzijn en Sport, nr. CZ/EKZ-2901559, houdende op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake invoering vrije prijsvorming dieetadvisering

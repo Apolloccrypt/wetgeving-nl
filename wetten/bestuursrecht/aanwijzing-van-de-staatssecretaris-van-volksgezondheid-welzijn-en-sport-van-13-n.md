@@ -9,7 +9,7 @@ laatste_update: 2008-11-26
 status: geldig
 toestand: 2008-11-26
 bron: "https://wetten.overheid.nl/BWBR0024742"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid. Welzijn en Sport van 13 november 2008, nr. DLZ/SFI-U-2893681, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake Contracteerruimte AWBZ 2009 en enkele andere aangelegenheden

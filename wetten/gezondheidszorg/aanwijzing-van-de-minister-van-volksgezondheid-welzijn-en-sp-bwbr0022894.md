@@ -9,7 +9,7 @@ laatste_update: 2008-01-16
 status: geldig
 toestand: 2008-01-16
 bron: "https://wetten.overheid.nl/BWBR0022894"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 12 november 2007, nr. MC-U 2805004, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake invoering vrije prijsvorming fysiotherapie

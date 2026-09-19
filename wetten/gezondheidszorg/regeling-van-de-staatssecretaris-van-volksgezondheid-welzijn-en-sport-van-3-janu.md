@@ -9,7 +9,7 @@ laatste_update: 2005-01-07
 status: geldig
 toestand: 2005-01-07
 bron: "https://wetten.overheid.nl/BWBR0025821"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 januari 2005, nr. OHW-U-2544684, houdende de vaststelling van het vrijstellingsbedrag inkomsten uit vermogen ingevolge de wetten voor oorlogsgetroffenen per 1 januari 2005

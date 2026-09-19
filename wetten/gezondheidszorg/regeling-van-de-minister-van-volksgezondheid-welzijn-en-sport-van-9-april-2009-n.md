@@ -9,7 +9,7 @@ laatste_update: 2009-04-24
 status: geldig
 toestand: 2009-04-24
 bron: "https://wetten.overheid.nl/BWBR0025714"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 april 2009, nr. MEVA/BO-2911171, houdende aanwijzing van apparatuur, geneesmiddelen en middelen behorende tot het deskundigheidsgebied van de verloskundige (Regeling nadere uitwerking deskundigheidsgebied verloskundige 2008)

@@ -8,7 +8,7 @@ laatste_update: 2007-10-27
 status: geldig
 toestand: 2007-10-27
 bron: "https://wetten.overheid.nl/BWBR0022701"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Geldzuivering, over de periode 1942–1986 (Minister van Financiën)

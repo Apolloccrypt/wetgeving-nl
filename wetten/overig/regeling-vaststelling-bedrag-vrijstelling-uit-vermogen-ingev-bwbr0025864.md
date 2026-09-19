@@ -8,7 +8,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0025864"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-19
 ---
 
 # Regeling vaststelling bedrag vrijstelling uit vermogen ingevolge de wetten voor oorlogsgetroffenen per 1 januari 2001

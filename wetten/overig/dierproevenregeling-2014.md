@@ -5,11 +5,11 @@ identifier: "BWBR0035873"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2020-12-01
-laatste_update: 2024-01-01
+laatste_update: 2026-09-19
 status: geldig
-toestand: 2024-01-01
+toestand: 2026-09-19
 bron: "https://wetten.overheid.nl/BWBR0035873"
-opgehaald: 2026-08-21
+opgehaald: 2026-09-19
 ---
 
 # Regeling van de Minister van Economische Zaken van 3 december 2014, nr. WJZ / 13149501, tot uitvoering van de Wet op de Dierproeven en het Dierproevenbesluit 2014 (Dierproevenregeling 2014)
@@ -40,7 +40,7 @@ opgehaald: 2026-08-21
 
 ##### Artikel 2
 
-1. Een aanvraag om een instellingsvergunning wordt ingediend met gebruikmaking van het formulier in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling.
+1. Een aanvraag om een instellingsvergunning wordt ingediend met gebruikmaking van het formulier in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=1&z=2026-09-19&g=2026-09-19) bij deze regeling.
 
 2. *Vervallen.*
 
@@ -60,9 +60,9 @@ opgehaald: 2026-08-21
 
 - b. het projectvoorstel, en
 
-- c. de niet-technische samenvatting van het project overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=4&z=2024-01-01&g=2024-01-01).
+- c. de niet-technische samenvatting van het project overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=4&z=2026-09-19&g=2026-09-19).
 
-2. Een aanvraag om een projectvergunning wordt ingediend met gebruikmaking van het formulier in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling en het format voor het projectvoorstel in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=3&z=2024-01-01&g=2024-01-01) bij deze regeling.
+2. Een aanvraag om een projectvergunning wordt ingediend met gebruikmaking van het formulier in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=2&z=2026-09-19&g=2026-09-19) bij deze regeling en het format voor het projectvoorstel in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=3&z=2026-09-19&g=2026-09-19) bij deze regeling.
 
 3. Bij de aanvraag verstrekt de aanvrager die informatie die nodig is om, voor zover relevant, aan te tonen dat wordt voldaan aan de regels gesteld bij of krachtens de [artikelen 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10), [10a2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a2), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10b) en [13f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=13f). De aanvraag bevat in ieder geval de volgende gegevens:
 
@@ -80,13 +80,13 @@ opgehaald: 2026-08-21
 
 - g. indien van toepassing, de motivering bedoeld in [artikel 10a2, tweede lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a2);
 
-- h. de gegevens opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=4&z=2024-01-01&g=2024-01-01) bij deze regeling.
+- h. de gegevens opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=4&z=2026-09-19&g=2026-09-19) bij deze regeling.
 
 4. Bij de indiening van de aanvraag om een projectvergunning wordt een door de centrale commissie dierproeven vastgesteld en door de Minister goedgekeurd bedrag voldaan. Het bedrag is een vast bedrag dat de gemiddelde kosten die samenhangen met het behandelen van een aanvraag om een projectvergunning dekt. Van het in de eerste volzin bedoelde goedkeuringsbesluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 4
 
-1. Voor de niet-technische samenvatting van het project en eventuele aanvullingen hierop als gevolg van wijzigingen als bedoeld in [artikel 10a5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a5), of een beoordeling van het project achteraf als bedoeld in [artikel 10a1, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a1), maakt de aanvrager respectievelijk vergunninghouder gebruik van het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=5&z=2024-01-01&g=2024-01-01) bij deze regeling opgenomen model.
+1. Voor de niet-technische samenvatting van het project en eventuele aanvullingen hierop als gevolg van wijzigingen als bedoeld in [artikel 10a5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a5), of een beoordeling van het project achteraf als bedoeld in [artikel 10a1, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a1), maakt de aanvrager respectievelijk vergunninghouder gebruik van het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=5&z=2026-09-19&g=2026-09-19) bij deze regeling opgenomen model.
 
 2. Onverminderd de bescherming van de intellectuele eigendom en vertrouwelijke informatie bevat de niet-technische samenvatting de volgende gegevens:
 
@@ -104,7 +104,7 @@ opgehaald: 2026-08-21
 
 1. De wetenschappelijke opleiding, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=2), bestaat uit een master in een relevante studierichting.
 
-2. De cursus proefdierkunde, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=2), voldoet aan de eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=6&z=2024-01-01&g=2024-01-01) bij deze regeling.
+2. De cursus proefdierkunde, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=2), voldoet aan de eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=6&z=2026-09-19&g=2026-09-19) bij deze regeling.
 
 3. De Minister kan op verzoek een ontheffing verlenen van het vereiste in het eerste lid, indien op andere wijze wordt aangetoond dat de persoon, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), beschikt over een vergelijkbaar deskundigheids- en bekwaamheidsniveau.
 
@@ -112,9 +112,9 @@ opgehaald: 2026-08-21
 
 1. De opleidingen, bedoeld in [artikel 8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=8), voldoen aan de volgende minimumeisen:
 
-- a. ten aanzien van de persoon die proefdieren verzorgt en een of meer biotechnische handelingen als bedoeld in het derde lid, onderdeel a, verricht of in dat onderdeel bedoelde dieren doodt: de eisen voor de kwalificatie Proefdierverzorger, Crebonummer 25578, beschreven in het kwalificatiedossier Dierverzorging, bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1) en [5 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5), dan wel de eisen opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=8&z=2024-01-01&g=2024-01-01) bij deze regeling;
+- a. ten aanzien van de persoon die proefdieren verzorgt en een of meer biotechnische handelingen als bedoeld in het derde lid, onderdeel a, verricht of in dat onderdeel bedoelde dieren doodt: de eisen voor de kwalificatie Proefdierverzorger, Crebonummer 25578, beschreven in het kwalificatiedossier Dierverzorging, bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1) en [5 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5), dan wel de eisen opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=8&z=2026-09-19&g=2026-09-19) bij deze regeling;
 
-- b. ten aanzien van de persoon die dierproeven uitvoert, waarbij een of meer biotechnische handelingen als bedoeld in het derde lid, onderdeel b, worden verricht of in dat onderdeel bedoelde dieren worden gedood: de eisen voor de kwalificatie Specialist proefdierverzorging, Crebonummer 25466, beschreven in het kwalificatiedossier Gespecialiseerde proefdierverzorging, bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1) en [5 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5), dan wel de eisen opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=9&z=2024-01-01&g=2024-01-01) bij deze regeling;
+- b. ten aanzien van de persoon die dierproeven uitvoert, waarbij een of meer biotechnische handelingen als bedoeld in het derde lid, onderdeel b, worden verricht of in dat onderdeel bedoelde dieren worden gedood: de eisen voor de kwalificatie Specialist proefdierverzorging, Crebonummer 25466, beschreven in het kwalificatiedossier Gespecialiseerde proefdierverzorging, bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1) en [5 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5), dan wel de eisen opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=9&z=2026-09-19&g=2026-09-19) bij deze regeling;
 
 - c. ten aanzien van de persoon die kleine proefdieren doodt: de eisen voor het onderdeel ‘Euthanaseren van kleine proefdieren (C0002)’ van de kwalificatie Proefdierverzorger, Crebonummer 25578, zoals beschreven in het kwalificatiedossier Dierverzorging, bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1) en [5 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5).
 
@@ -174,11 +174,11 @@ In afwijking van [artikel 14a, eerste lid, van de wet](https://wetten.overheid.n
 
 2. De in het eerste lid bedoelde gegevens worden bewaard tot vijf jaren na afloop van het kalenderjaar waarop de gegevens betrekking hebben.
 
-3. De fokker, de leverancier en de gebruiker verstrekken de Minister jaarlijks uiterlijk op 15 maart de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=7&z=2024-01-01&g=2024-01-01) bij deze regeling genoemde gegevens over het voorafgaande kalenderjaar.
+3. De fokker, de leverancier en de gebruiker verstrekken de Minister jaarlijks uiterlijk op 15 maart de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=7&z=2026-09-19&g=2026-09-19) bij deze regeling genoemde gegevens over het voorafgaande kalenderjaar.
 
 ##### Artikel 9
 
-1. In aanvulling op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=6&artikel=8&z=2024-01-01&g=2024-01-01) houden de fokker, de leverancier en de gebruiker over elke hond, kat en niet-menselijke primaat die zij houden aantekening van de volgende gegevens:
+1. In aanvulling op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=6&artikel=8&z=2026-09-19&g=2026-09-19) houden de fokker, de leverancier en de gebruiker over elke hond, kat en niet-menselijke primaat die zij houden aantekening van de volgende gegevens:
 
 - a. identiteit;
 
@@ -210,9 +210,9 @@ In aanvulling op de taken, genoemd in [artikel 19, tweede lid, onderdelen a tot 
 
 ##### Artikel 11
 
-1. Met een ontheffing op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=5&z=2024-01-01&g=2024-01-01), wordt gelijkgesteld een vóór de inwerkingtreding van de [wet tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU](https://wetten.overheid.nl/jci1.3:c:BWBR0035875) op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) verleende ontheffing, voor zover deze betrekking heeft op het vereiste dat de persoon bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9) beschikt over een master in een relevante studierichting.
+1. Met een ontheffing op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=5&z=2026-09-19&g=2026-09-19), wordt gelijkgesteld een vóór de inwerkingtreding van de [wet tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU](https://wetten.overheid.nl/jci1.3:c:BWBR0035875) op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) verleende ontheffing, voor zover deze betrekking heeft op het vereiste dat de persoon bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9) beschikt over een master in een relevante studierichting.
 
-2. Met een ontheffing op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=6&z=2024-01-01&g=2024-01-01), wordt gelijkgesteld een vóór de inwerkingtreding van de wet tot [wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU](https://wetten.overheid.nl/jci1.3:c:BWBR0035875) op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) verleende ontheffing, voor zover deze ontheffing betrekking heeft op de opleidingsvereisten ten aanzien van personen die proefdieren verzorgen, biotechnische werkzaamheden uitvoeren of proefdieren doden.
+2. Met een ontheffing op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=6&z=2026-09-19&g=2026-09-19), wordt gelijkgesteld een vóór de inwerkingtreding van de wet tot [wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU](https://wetten.overheid.nl/jci1.3:c:BWBR0035875) op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) verleende ontheffing, voor zover deze ontheffing betrekking heeft op de opleidingsvereisten ten aanzien van personen die proefdieren verzorgen, biotechnische werkzaamheden uitvoeren of proefdieren doden.
 
 ##### Artikel 12
 
