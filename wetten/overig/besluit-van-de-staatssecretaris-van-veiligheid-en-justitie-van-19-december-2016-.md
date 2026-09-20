@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0039096"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 19 december 2016 nr. BOACAT2016/070, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Landelijke Inspectiedienst Dierenbescherming

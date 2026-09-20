@@ -8,7 +8,7 @@ laatste_update: 2016-03-04
 status: geldig
 toestand: 2016-03-04
 bron: "https://wetten.overheid.nl/BWBR0037690"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit vaststelling percentage duurzame elektriciteit opgewekt door middel van niet-zuivere biomassa in afvalverbrandingsinstallatie

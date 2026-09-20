@@ -9,7 +9,7 @@ laatste_update: 2010-11-13
 status: geldig
 toestand: 2010-11-13
 bron: "https://wetten.overheid.nl/BWBR0028927"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de hoofdofficieren van justitie Maastricht en Roermond houdende het verlenen van mandaat, volmacht en machtiging aan de regionaal directeur bedrijfsvoering.

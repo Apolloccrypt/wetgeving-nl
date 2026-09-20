@@ -9,7 +9,7 @@ laatste_update: 2011-09-25
 status: geldig
 toestand: 2011-09-25
 bron: "https://wetten.overheid.nl/BWBR0030457"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Vaststellingsbeschikking voor de selectielijst Rechterlijke Macht over de periode vanaf 1950 – actualisatie

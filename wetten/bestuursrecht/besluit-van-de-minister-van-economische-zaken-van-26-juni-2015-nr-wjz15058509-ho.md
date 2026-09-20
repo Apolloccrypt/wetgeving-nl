@@ -9,7 +9,7 @@ laatste_update: 2015-07-09
 status: geldig
 toestand: 2015-07-09
 bron: "https://wetten.overheid.nl/BWBR0036802"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Economische Zaken van 26 juni 2015, nr. WJZ/15058509, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan het college van Burgemeester en Wethouders van de gemeente Rotterdam betreffende het verstrekken van subsidies ten laste van de Rijkscofinanciering op grond van de Regeling Europese EZ-subsidies (Besluit mandaat, volmacht en machtiging college van Burgemeester en Wethouders van de gemeente Rotterdam inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZ-subsidies)

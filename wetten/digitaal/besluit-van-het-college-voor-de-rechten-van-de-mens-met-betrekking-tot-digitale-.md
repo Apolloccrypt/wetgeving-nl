@@ -9,7 +9,7 @@ laatste_update: 2017-01-14
 status: geldig
 toestand: 2017-01-14
 bron: "https://wetten.overheid.nl/BWBR0039097"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van het College voor de Rechten van de Mens met betrekking tot digitale vervanging van personele archiefbescheiden

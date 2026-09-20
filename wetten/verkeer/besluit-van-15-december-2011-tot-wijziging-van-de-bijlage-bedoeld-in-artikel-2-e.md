@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030898"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 15 december 2011 tot wijziging van de bijlage, bedoeld in artikel 2, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften alsmede de bijlage bij het Besluit OM-afdoening onderscheidenlijk het Transactiebesluit 1994 in verband met onder meer een verhoging van de tarieven

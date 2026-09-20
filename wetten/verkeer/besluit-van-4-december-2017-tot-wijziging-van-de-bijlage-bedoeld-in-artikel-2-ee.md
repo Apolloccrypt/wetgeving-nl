@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040406"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 4 december 2017 tot wijziging van de bijlage, bedoeld in artikel 2, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften, het Besluit administratiefrechtelijke handhaving verkeersvoorschriften, het Besluit buitengebruikstelling voertuigen, het Besluit OM-afdoening en het Besluit justitiële en strafvorderlijke gegevens in verband met onder meer de jaarlijkse indexering van de tarieven

@@ -9,7 +9,7 @@ laatste_update: 2014-04-04
 status: geldig
 toestand: 2014-04-04
 bron: "https://wetten.overheid.nl/BWBR0035032"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 14 maart 2014, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die worden uitgegeven ter gelegenheid van 200 jaar De Nederlandsche Bank N.V.

@@ -8,7 +8,7 @@ laatste_update: 2014-04-17
 status: geldig
 toestand: 2014-04-17
 bron: "https://wetten.overheid.nl/BWBR0035008"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2013-2014

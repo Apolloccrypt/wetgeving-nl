@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0027774"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 9 juni 2010, nr. OHW-U-3006099, houdende aanpassing van de factoren, grondslagen en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2010

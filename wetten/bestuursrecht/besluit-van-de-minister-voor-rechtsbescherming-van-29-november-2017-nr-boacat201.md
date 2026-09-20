@@ -9,7 +9,7 @@ laatste_update: 2018-03-12
 status: geldig
 toestand: 2018-03-12
 bron: "https://wetten.overheid.nl/BWBR0040347"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 29 november 2017 nr. BOACAT2017/078, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Omgevingsdienst Noordzeekanaalgebied

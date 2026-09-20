@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034272"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 november 2013 , 2013-0000164393, tot vaststelling van de premiepercentages en het maximumpremieloon werknemers- en volksverzekeringen en de opslag kinderopvangtoeslag voor 2014

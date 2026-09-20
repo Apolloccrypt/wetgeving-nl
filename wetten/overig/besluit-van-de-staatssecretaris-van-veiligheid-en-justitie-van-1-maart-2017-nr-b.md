@@ -9,7 +9,7 @@ laatste_update: 2017-03-11
 status: geldig
 toestand: 2017-03-11
 bron: "https://wetten.overheid.nl/BWBR0039308"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 1 maart 2017 nr. BOACAT2017/015, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Koninklijke Marechaussee in de functie van arrestantenbewaker/-verzorger

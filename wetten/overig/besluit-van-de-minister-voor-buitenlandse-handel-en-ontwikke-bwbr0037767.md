@@ -9,7 +9,7 @@ laatste_update: 2016-03-31
 status: geldig
 toestand: 2016-03-31
 bron: "https://wetten.overheid.nl/BWBR0037767"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 22 maart 2016, nr. MINBUZA-2016.171478, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Mine Action en Clustermunitie 2016–2020)

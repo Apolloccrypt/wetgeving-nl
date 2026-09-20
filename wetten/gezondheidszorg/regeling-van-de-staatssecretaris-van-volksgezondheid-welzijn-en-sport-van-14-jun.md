@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038086"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 14 juni 2016, kenmerk 970954-150590-WJZ, houdende aanpassing van de factoren, grondslagen en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2016

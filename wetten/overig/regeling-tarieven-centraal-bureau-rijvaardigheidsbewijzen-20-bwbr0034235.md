@@ -8,7 +8,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034235"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling tarieven Centraal Bureau Rijvaardigheidsbewijzen 2014

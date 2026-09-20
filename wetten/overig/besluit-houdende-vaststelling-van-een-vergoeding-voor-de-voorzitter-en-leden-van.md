@@ -9,7 +9,7 @@ laatste_update: 2017-07-15
 status: geldig
 toestand: 2017-07-15
 bron: "https://wetten.overheid.nl/BWBR0039992"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie duurzame scheepsbouw

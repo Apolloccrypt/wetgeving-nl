@@ -9,7 +9,7 @@ laatste_update: 2015-12-11
 status: geldig
 toestand: 2015-12-11
 bron: "https://wetten.overheid.nl/BWBR0037309"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van het Stimuleringsfonds voor de Journalistiek van 1 december 2015, nr. 25544, tot vaststelling van een tijdelijke subsidieregeling voor vernieuwende journalistiek 2016 (The Challenge: Reinventing Journalism)

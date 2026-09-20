@@ -9,7 +9,7 @@ laatste_update: 2012-07-24
 status: geldig
 toestand: 2012-07-24
 bron: "https://wetten.overheid.nl/BWBR0031824"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van het Stimuleringsfonds voor de pers van 17 juli 2012, nr. 22288, tot vaststelling van een tijdelijke subsidieregeling regionale journalistieke samenwerking 2012

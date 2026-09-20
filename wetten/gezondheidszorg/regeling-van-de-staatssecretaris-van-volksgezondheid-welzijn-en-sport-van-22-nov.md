@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0034251"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 november 2013, kenmerk DMO-169614-113200, houdende aanpassing van de factoren, grondslagen en bedragen voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2014

@@ -9,7 +9,7 @@ laatste_update: 2019-11-02
 status: geldig
 toestand: 2019-11-02
 bron: "https://wetten.overheid.nl/BWBR0042716"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 31 oktober 2019, nr. IENW/BSK-2019/222451, houdende vaststelling van het aandeel eigen vermogen in het totale vermogen, bedoeld in artikel 10, tweede lid, van de Drinkwaterwet en van de gewogen gemiddelde vermogenskostenvoet, bedoeld in het derde lid van het genoemde artikel, voor 2020 en 2021

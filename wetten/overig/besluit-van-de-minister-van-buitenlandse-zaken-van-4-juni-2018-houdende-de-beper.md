@@ -9,7 +9,7 @@ laatste_update: 2018-06-28
 status: geldig
 toestand: 2018-06-28
 bron: "https://wetten.overheid.nl/BWBR0041081"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 4 juni 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van de Nederlandse diplomatieke vertegenwoordiging in Oostenrijk te Wenen, (1975) 1975–2013 (2014) (Besluit beperking openbaarheid archief diplomatieke vertegenwoordigingen Wenen)

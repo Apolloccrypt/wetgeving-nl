@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0039356"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 9 maart 2017 nr. BOACAT2017/007, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Nederlandse Voedsel- en Warenautoriteit

@@ -8,7 +8,7 @@ laatste_update: 2017-06-17
 status: geldig
 toestand: 2017-06-17
 bron: "https://wetten.overheid.nl/BWBR0039636"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit mandaatverlening, machtiging en tekenbevoegdheid Wet bescherming persoonsgegevens BES 2017

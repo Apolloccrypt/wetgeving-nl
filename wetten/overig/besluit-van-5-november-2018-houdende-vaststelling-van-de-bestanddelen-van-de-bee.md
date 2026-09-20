@@ -9,7 +9,7 @@ laatste_update: 2018-11-24
 status: geldig
 toestand: 2018-11-24
 bron: "https://wetten.overheid.nl/BWBR0041577"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 5 november 2018, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2018 worden uitgegeven ter gelegenheid van 100 jaar Wageningen University & Research

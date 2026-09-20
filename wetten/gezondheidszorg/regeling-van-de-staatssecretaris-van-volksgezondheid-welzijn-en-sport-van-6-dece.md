@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032414"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 6 december 2012, kenmerk DMO/OHW- 3144410, houdende vaststelling van het vrijstellingsbedrag inkomsten uit vermogen ingevolge de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2013

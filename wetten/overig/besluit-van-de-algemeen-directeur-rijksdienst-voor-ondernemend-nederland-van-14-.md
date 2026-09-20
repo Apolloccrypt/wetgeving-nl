@@ -9,7 +9,7 @@ laatste_update: 2017-06-03
 status: geldig
 toestand: 2017-06-03
 bron: "https://wetten.overheid.nl/BWBR0039598"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de algemeen directeur Rijksdienst voor Ondernemend Nederland van 14 april 2017, nr. MD201712INSTHH, houdende verlening van ondermandaat, volmacht en machtiging voor aangelegenheden met betrekking tot de aanwijzing van Future Food Fund Coöperatief U.A. en Nordian Fund IIA Coöperatief U.A. als financier (Besluit ondermandaat, volmacht en machtiging voor de Rijksdienst voor Ondernemend Nederland aanwijzing financier)

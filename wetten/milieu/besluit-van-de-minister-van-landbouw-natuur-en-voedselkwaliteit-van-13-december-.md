@@ -9,7 +9,7 @@ laatste_update: 2019-12-14
 status: geldig
 toestand: 2019-12-14
 bron: "https://wetten.overheid.nl/BWBR0042954"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 december 2019, nr. DGA-DAD/19299676, tot aanwijzing van nationale referentielaboratoria als bedoeld in artikel 100, eerste lid, Verordening (EU) 2017/625

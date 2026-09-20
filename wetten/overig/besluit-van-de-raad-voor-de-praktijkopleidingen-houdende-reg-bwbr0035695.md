@@ -9,7 +9,7 @@ laatste_update: 2014-10-25
 status: geldig
 toestand: 2014-10-25
 bron: "https://wetten.overheid.nl/BWBR0035695"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Raad voor de Praktijkopleidingen houdende regels inzake ondermandaat en machtiging aan Stagebureau RSM (Besluit ondermandaat en machtiging Raad voor de Praktijkopleidingen aan Stagebureau RSM)

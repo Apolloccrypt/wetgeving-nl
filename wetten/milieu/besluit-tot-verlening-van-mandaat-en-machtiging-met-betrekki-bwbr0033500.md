@@ -8,7 +8,7 @@ laatste_update: 2013-06-12
 status: geldig
 toestand: 2013-06-12
 bron: "https://wetten.overheid.nl/BWBR0033500"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit tot verlening van mandaat en machtiging met betrekking tot het Binnenvaartpolitiereglement Rijkswaterstaat Oost-Nederland 2013

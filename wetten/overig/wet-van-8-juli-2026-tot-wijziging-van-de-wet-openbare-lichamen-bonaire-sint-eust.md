@@ -9,7 +9,7 @@ laatste_update: 2026-09-15
 status: geldig
 toestand: 2026-09-15
 bron: "https://wetten.overheid.nl/BWBR0052936"
-opgehaald: 2026-09-19
+opgehaald: 2026-09-20
 ---
 
 # Wet van 8 juli 2026 tot wijziging van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba in verband met de verhoging van het aantal eilandsraadsleden en eilandgedeputeerden (Wet verhoging aantal eilandsraadsleden en eilandgedeputeerden)

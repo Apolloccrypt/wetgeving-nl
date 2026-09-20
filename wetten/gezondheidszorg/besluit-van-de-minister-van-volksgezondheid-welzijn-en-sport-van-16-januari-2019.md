@@ -9,7 +9,7 @@ laatste_update: 2022-07-14
 status: geldig
 toestand: 2022-07-14
 bron: "https://wetten.overheid.nl/BWBR0041841"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 16 januari 2019, kenmerk 1468880-186082-DMO, houdende verlening van mandaat en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de stimulering van e-health thuis (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Stimuleringsregeling E-health Thuis)

@@ -9,7 +9,7 @@ laatste_update: 2012-02-08
 status: geldig
 toestand: 2012-02-08
 bron: "https://wetten.overheid.nl/BWBR0031230"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Buitenlandse Zaken 18 januari 2012, nr. DJZ/BR/1273-2011, tot het verlenen van mandaat en machtiging aan de algemeen directeur van de Dienst Terugkeer en Vertrek van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties met betrekking tot subsidieverlening voor projecten voor de vrijwillige, duurzame terugkeer en herintegratie van ex-asielzoekers

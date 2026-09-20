@@ -9,7 +9,7 @@ laatste_update: 2013-04-26
 status: geldig
 toestand: 2013-04-26
 bron: "https://wetten.overheid.nl/BWBR0033325"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 april 2013, tot geheimverklaring van de overheidsopdracht tot beheer, onderhoud en ondersteuning van aanvraagstations

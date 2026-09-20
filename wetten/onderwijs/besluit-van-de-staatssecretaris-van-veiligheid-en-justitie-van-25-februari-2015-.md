@@ -9,7 +9,7 @@ laatste_update: 2015-03-26
 status: geldig
 toestand: 2015-03-26
 bron: "https://wetten.overheid.nl/BWBR0036373"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 februari 2015 nr. BOACAT2015/009, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Regionaal Bureau Leerplicht Brabant Noordoost

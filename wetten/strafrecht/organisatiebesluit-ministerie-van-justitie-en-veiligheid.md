@@ -9,7 +9,7 @@ laatste_update: 2026-09-17
 status: geldig
 toestand: 2026-09-17
 bron: "https://wetten.overheid.nl/BWBR0040293"
-opgehaald: 2026-09-19
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 28 november 2017, kenmerk DP&O/17/2150354, houdende vaststelling van de organisatie van het Ministerie van Justitie en Veiligheid (Organisatiebesluit Ministerie van Justitie en Veiligheid)

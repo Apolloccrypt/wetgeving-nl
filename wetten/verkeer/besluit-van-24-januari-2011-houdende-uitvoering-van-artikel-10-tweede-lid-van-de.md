@@ -9,7 +9,7 @@ laatste_update: 2011-02-03
 status: geldig
 toestand: 2011-02-03
 bron: "https://wetten.overheid.nl/BWBR0029517"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 24 januari 2011 houdende uitvoering van artikel 10, tweede lid, van de Schepenwet (Besluit terbeschikkingstelling scheepvaartinspecteurs Rijksdienst Caribisch Nederland aan de Scheepvaartinspectie)

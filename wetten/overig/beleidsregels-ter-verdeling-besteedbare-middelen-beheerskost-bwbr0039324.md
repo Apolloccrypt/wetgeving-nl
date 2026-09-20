@@ -8,7 +8,7 @@ laatste_update: 2018-05-18
 status: geldig
 toestand: 2018-05-18
 bron: "https://wetten.overheid.nl/BWBR0039324"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoerders Wlz 2017

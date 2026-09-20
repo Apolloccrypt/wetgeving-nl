@@ -9,7 +9,7 @@ laatste_update: 2018-06-20
 status: geldig
 toestand: 2018-06-20
 bron: "https://wetten.overheid.nl/BWBR0041033"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit tot vaststelling van de bedragen per eenheid voor de algemene uitkering uit het provinciefonds over het uitkeringsjaar 2016

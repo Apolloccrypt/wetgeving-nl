@@ -9,7 +9,7 @@ laatste_update: 2010-12-29
 status: geldig
 toestand: 2010-12-29
 bron: "https://wetten.overheid.nl/BWBR0027432"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 19 maart 2010, nr. WJZ/10047532, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen (Tijdelijke uitbreiding BMKB)

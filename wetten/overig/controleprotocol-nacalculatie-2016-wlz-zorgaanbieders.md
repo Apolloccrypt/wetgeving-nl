@@ -8,7 +8,7 @@ laatste_update: 2016-12-28
 status: geldig
 toestand: 2016-12-28
 bron: "https://wetten.overheid.nl/BWBR0038942"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Controleprotocol Nacalculatie 2016 Wlz-zorgaanbieders

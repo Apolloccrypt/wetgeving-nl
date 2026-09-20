@@ -9,7 +9,7 @@ laatste_update: 2026-09-19
 status: geldig
 toestand: 2026-09-19
 bron: "https://wetten.overheid.nl/BWBR0035248"
-opgehaald: 2026-09-19
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 23 juni 2014, nr. WJZ/14101260, houdende regels met betrekking tot het houden van dieren

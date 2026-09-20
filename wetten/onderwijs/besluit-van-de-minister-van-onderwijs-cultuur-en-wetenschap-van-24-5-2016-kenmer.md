@@ -9,7 +9,7 @@ laatste_update: 2016-11-25
 status: geldig
 toestand: 2016-11-25
 bron: "https://wetten.overheid.nl/BWBR0038183"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 24-5-2016, kenmerk 926951, houdende deelneming in de gemeenschappelijke regeling Regionaal Historisch Centrum ‘Gelders Archief’

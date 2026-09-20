@@ -8,7 +8,7 @@ laatste_update: 2020-01-23
 status: geldig
 toestand: 2020-01-23
 bron: "https://wetten.overheid.nl/BWBR0043094"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Bevoegdhedenregeling NWO

@@ -9,7 +9,7 @@ laatste_update: 2016-12-29
 status: geldig
 toestand: 2016-12-29
 bron: "https://wetten.overheid.nl/BWBR0038932"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Justitiële Informatiedienst met betrekking tot digitale vervanging van personele archiefbescheiden (Vervangingsbesluit personele archiefbescheiden Veiligheid en Justitie)

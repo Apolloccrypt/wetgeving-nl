@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0033728"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 juli 2013, kenmerk 129230-106270-CZ, houdende regels ten aanzien van het verlenen van vergunningen voor het toepassen van protonentherapie (Regeling protonentherapie)

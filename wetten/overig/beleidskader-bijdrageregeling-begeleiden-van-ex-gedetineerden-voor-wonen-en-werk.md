@@ -8,7 +8,7 @@ laatste_update: 2017-10-06
 status: geldig
 toestand: 2017-10-06
 bron: "https://wetten.overheid.nl/BWBR0040047"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Beleidskader bijdrageregeling begeleiden van ex-gedetineerden voor wonen en werken 2018

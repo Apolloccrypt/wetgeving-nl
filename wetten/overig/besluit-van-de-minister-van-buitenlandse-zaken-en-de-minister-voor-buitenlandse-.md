@@ -9,7 +9,7 @@ laatste_update: 2018-08-09
 status: geldig
 toestand: 2018-08-09
 bron: "https://wetten.overheid.nl/BWBR0039118"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 22 december 2016, Minbuza-2016.773162, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Mensenrechtenfonds 2017–2020)

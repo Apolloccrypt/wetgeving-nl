@@ -8,7 +8,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0037499"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Deelregeling Digitale Cultuur

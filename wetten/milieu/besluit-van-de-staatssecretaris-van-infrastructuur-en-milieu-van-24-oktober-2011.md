@@ -9,7 +9,7 @@ laatste_update: 2011-11-01
 status: geldig
 toestand: 2011-11-01
 bron: "https://wetten.overheid.nl/BWBR0030574"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu van 24 oktober 2011, nr. DP2011055738, ter vaststelling van het maximaal toegestane aandeel eigen vermogen, bedoeld in artikel 10, tweede lid, van de Drinkwaterwet, voor 2012 en 2013

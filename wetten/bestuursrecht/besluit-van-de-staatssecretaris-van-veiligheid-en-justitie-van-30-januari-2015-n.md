@@ -9,7 +9,7 @@ laatste_update: 2018-04-20
 status: geldig
 toestand: 2018-04-20
 bron: "https://wetten.overheid.nl/BWBR0036259"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 30 januari 2015, nr. BOACAT2015/004, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Schouwen-Duiveland, domein II

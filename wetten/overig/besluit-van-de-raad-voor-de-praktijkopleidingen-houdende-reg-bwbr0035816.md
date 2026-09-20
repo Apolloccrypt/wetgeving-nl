@@ -9,7 +9,7 @@ laatste_update: 2014-11-29
 status: geldig
 toestand: 2014-11-29
 bron: "https://wetten.overheid.nl/BWBR0035816"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Raad voor de Praktijkopleidingen houdende regels inzake ondermandaat en machtiging aan Stagebureau Joanknecht & Van Zelst (Besluit ondermandaat en machtiging Raad voor de Praktijkopleidingen aan Stagebureau Joanknecht & Van Zelst)

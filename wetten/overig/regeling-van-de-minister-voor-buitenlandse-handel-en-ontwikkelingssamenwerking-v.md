@@ -9,7 +9,7 @@ laatste_update: 2014-05-15
 status: geldig
 toestand: 2014-05-15
 bron: "https://wetten.overheid.nl/BWBR0035104"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 mei 2014, nr. DSO/MO-112/2014 tot wijziging van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 met betrekking tot subsidiëring van maatschappelijke organisaties op het terrein van pleiten en beïnvloeden

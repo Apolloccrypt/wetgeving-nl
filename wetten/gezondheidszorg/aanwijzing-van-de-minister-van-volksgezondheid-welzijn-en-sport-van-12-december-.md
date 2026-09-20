@@ -9,7 +9,7 @@ laatste_update: 2012-12-24
 status: geldig
 toestand: 2012-12-24
 bron: "https://wetten.overheid.nl/BWBR0032584"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 12 december 2012, MC-U-3147126, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage curatieve somatische zorg

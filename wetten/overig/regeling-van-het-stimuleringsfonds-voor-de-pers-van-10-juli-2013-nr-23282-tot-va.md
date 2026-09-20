@@ -9,7 +9,7 @@ laatste_update: 2013-07-26
 status: geldig
 toestand: 2013-07-26
 bron: "https://wetten.overheid.nl/BWBR0033706"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van het Stimuleringsfonds voor de pers van 10 juli 2013, nr. 23282, tot vaststelling van een tijdelijke subsidieregeling voor vernieuwende journalistiek 2013 (The Challenge: Reinventing Journalism)

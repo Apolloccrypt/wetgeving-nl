@@ -9,7 +9,7 @@ laatste_update: 2016-09-24
 status: geldig
 toestand: 2016-09-24
 bron: "https://wetten.overheid.nl/BWBR0038531"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 7 september 2016, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2016 worden uitgegeven ter gelegenheid van 500 jaar Jheronimus Bosch

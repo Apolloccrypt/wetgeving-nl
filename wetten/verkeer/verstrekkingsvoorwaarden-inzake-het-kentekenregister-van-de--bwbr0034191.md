@@ -8,7 +8,7 @@ laatste_update: 2013-11-21
 status: geldig
 toestand: 2013-11-21
 bron: "https://wetten.overheid.nl/BWBR0034191"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Verstrekkingsvoorwaarden inzake het Kentekenregister van de Dienst Wegverkeer 2014

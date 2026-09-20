@@ -9,7 +9,7 @@ laatste_update: 2011-05-25
 status: geldig
 toestand: 2011-05-25
 bron: "https://wetten.overheid.nl/BWBR0029979"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 10 mei 2011, houdende vaststelling van de bestanddelen van de munten van vijf en de tien euro die in jaar 2011 worden uitgegeven met het thema «Nederland en schilderkunst»

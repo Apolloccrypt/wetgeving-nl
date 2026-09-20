@@ -9,7 +9,7 @@ laatste_update: 2026-09-17
 status: geldig
 toestand: 2026-09-17
 bron: "https://wetten.overheid.nl/BWBR0053110"
-opgehaald: 2026-09-19
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 15 september 2026, nr. IENW/BSK-2026/160909, houdende tijdelijke regels voor de subsidiëring van voorbereidings- en realisatieprojecten voor de commerciële productie in Nederland van geavanceerde bioSAF en van e-SAF voor de luchtvaart (Tijdelijke subsidieregeling Stimulering Duurzame Luchtvaartbrandstoffen) (KetenID WGK0028789)

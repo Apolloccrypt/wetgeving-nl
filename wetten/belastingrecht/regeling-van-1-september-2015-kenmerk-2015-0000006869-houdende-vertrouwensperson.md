@@ -9,7 +9,7 @@ laatste_update: 2015-09-02
 status: geldig
 toestand: 2015-09-02
 bron: "https://wetten.overheid.nl/BWBR0036962"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van 1 september 2015 (kenmerk 2015-0000006869) houdende vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen Financiën exclusief Belastingdienst

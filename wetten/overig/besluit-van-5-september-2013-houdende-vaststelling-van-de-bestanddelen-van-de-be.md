@@ -9,7 +9,7 @@ laatste_update: 2013-09-25
 status: geldig
 toestand: 2013-09-25
 bron: "https://wetten.overheid.nl/BWBR0033903"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 5 september 2013, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf- en tien-euro die worden uitgegeven ter gelegenheid van 100 jaar Vredespaleis

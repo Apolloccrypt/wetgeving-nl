@@ -9,7 +9,7 @@ laatste_update: 2019-06-25
 status: geldig
 toestand: 2019-06-25
 bron: "https://wetten.overheid.nl/BWBR0041018"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 11 juni 2018, nummer Min-BuZa.2018.1211-42, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma SDG Partnerschapfaciliteit)

@@ -9,7 +9,7 @@ laatste_update: 2015-11-07
 status: geldig
 toestand: 2015-11-07
 bron: "https://wetten.overheid.nl/BWBR0037158"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 oktober 2015, tot geheimverklaring van de overheidsopdracht tot beheer, onderhoud en ondersteuning van aanvraagstations en Reisdocumenten Aanvraag- en Archiefstations

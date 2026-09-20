@@ -9,7 +9,7 @@ laatste_update: 2017-06-15
 status: geldig
 toestand: 2017-06-15
 bron: "https://wetten.overheid.nl/BWBR0039624"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 6 juni 2017, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2017 worden uitgegeven ter gelegenheid van 150 jaar Nederlandse Rode Kruis

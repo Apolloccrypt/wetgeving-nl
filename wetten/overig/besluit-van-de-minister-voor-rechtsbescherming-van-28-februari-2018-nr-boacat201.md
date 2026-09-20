@@ -9,7 +9,7 @@ laatste_update: 2018-03-06
 status: geldig
 toestand: 2018-03-06
 bron: "https://wetten.overheid.nl/BWBR0040690"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 28 februari 2018 nr. BOACAT2018/013, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Ministerie van Defensie, CLAS terreinen

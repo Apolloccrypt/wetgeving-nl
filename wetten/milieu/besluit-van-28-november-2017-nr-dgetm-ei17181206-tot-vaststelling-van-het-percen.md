@@ -9,7 +9,7 @@ laatste_update: 2017-12-07
 status: geldig
 toestand: 2017-12-07
 bron: "https://wetten.overheid.nl/BWBR0040313"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 28 november 2017, nr. DGETM-EI/17181206, tot vaststelling van het percentage duurzame elektriciteit van de totale hoeveelheid elektriciteit die wordt opgewekt door middel van niet-zuivere biomassa in een afvalverbrandingsinstallatie

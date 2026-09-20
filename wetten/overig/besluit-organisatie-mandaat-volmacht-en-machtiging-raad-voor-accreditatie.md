@@ -9,7 +9,7 @@ laatste_update: 2014-01-03
 status: geldig
 toestand: 2014-01-03
 bron: "https://wetten.overheid.nl/BWBR0034656"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit organisatie, mandaat, volmacht en machtiging Raad voor Accreditatie

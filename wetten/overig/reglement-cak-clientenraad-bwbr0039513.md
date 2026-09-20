@@ -8,7 +8,7 @@ laatste_update: 2017-04-30
 status: geldig
 toestand: 2017-04-30
 bron: "https://wetten.overheid.nl/BWBR0039513"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Reglement CAK Cliëntenraad

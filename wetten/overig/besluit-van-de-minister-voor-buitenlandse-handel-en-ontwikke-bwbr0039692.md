@@ -9,7 +9,7 @@ laatste_update: 2018-08-15
 status: geldig
 toestand: 2018-08-15
 bron: "https://wetten.overheid.nl/BWBR0039692"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 16 juni 2017, nr. Minbuza-2017.763435, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Fonds European Partnership for Responsible Minerals)

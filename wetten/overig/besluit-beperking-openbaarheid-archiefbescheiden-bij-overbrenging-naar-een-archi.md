@@ -9,7 +9,7 @@ laatste_update: 2010-12-18
 status: geldig
 toestand: 2010-12-18
 bron: "https://wetten.overheid.nl/BWBR0029096"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit beperking openbaarheid archiefbescheiden bij overbrenging naar een archiefbewaarplaats

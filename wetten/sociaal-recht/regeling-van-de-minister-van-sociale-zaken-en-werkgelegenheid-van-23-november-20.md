@@ -9,7 +9,7 @@ laatste_update: 2016-12-31
 status: geldig
 toestand: 2016-12-31
 bron: "https://wetten.overheid.nl/BWBR0038961"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 november 2016, 2016-0000183171, tot Besluit digitale vervanging personele archiefbescheiden SZW door P-Direkt

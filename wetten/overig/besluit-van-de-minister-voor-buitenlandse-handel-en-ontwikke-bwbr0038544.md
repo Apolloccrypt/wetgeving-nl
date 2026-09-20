@@ -9,7 +9,7 @@ laatste_update: 2016-09-23
 status: geldig
 toestand: 2016-09-23
 bron: "https://wetten.overheid.nl/BWBR0038544"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 14 september 2016, nr. MINBUZA-2016 615674, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Vrouwen, vrede en veiligheid 2016–2019 Syrië)

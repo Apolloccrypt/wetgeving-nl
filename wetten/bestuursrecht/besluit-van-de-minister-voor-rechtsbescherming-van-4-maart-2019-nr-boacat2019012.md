@@ -9,7 +9,7 @@ laatste_update: 2019-03-26
 status: geldig
 toestand: 2019-03-26
 bron: "https://wetten.overheid.nl/BWBR0041997"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 4 maart 2019 nr. BOACAT2019/012, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de afdeling Stadstoezicht van de gemeente ’s-Hertogenbosch

@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0038760"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 15 november 2016 tot wijziging van het Besluit rechtspositie rechterlijke ambtenaren en enige andere besluiten in verband met onder meer de formalisering van de Arbeidsvoorwaardenovereenkomst sector Rechterlijke Macht 2015–2016

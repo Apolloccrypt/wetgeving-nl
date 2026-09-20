@@ -9,7 +9,7 @@ laatste_update: 2017-03-08
 status: geldig
 toestand: 2017-03-08
 bron: "https://wetten.overheid.nl/BWBR0037093"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Wijziging Reglement Participatiefonds 2015–2016, Stichting Participatiefonds voor het Onderwijs

@@ -9,7 +9,7 @@ laatste_update: 2012-12-19
 status: geldig
 toestand: 2012-12-19
 bron: "https://wetten.overheid.nl/BWBR0043155"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 29 november 2012, nr. HO&S/461703, tot aanwijzing van personen belast met het toezicht op de naleving van artikel 1.5 van de Wet studiefinanciering 2000

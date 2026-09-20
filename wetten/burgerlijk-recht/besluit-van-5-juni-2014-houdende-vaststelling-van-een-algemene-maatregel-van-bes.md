@@ -9,7 +9,7 @@ laatste_update: 2014-07-23
 status: geldig
 toestand: 2014-07-23
 bron: "https://wetten.overheid.nl/BWBR0035196"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 5 juni 2014, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 110 van Boek 6 van het Burgerlijk Wetboek (Tijdelijk besluit limitering aansprakelijkheid voor terrorismeschade luchtvaart)

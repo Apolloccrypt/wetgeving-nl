@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0030118"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 15 juni 2011, nr. 5700090/11, houdende wijziging van de Regeling modellen en formulieren ten behoeve van de handhaving Justitie

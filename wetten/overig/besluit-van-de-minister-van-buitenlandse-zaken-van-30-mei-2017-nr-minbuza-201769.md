@@ -9,7 +9,7 @@ laatste_update: 2017-06-10
 status: geldig
 toestand: 2017-06-10
 bron: "https://wetten.overheid.nl/BWBR0039617"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 30 mei 2017, nr. MINBUZA-2017.692284 tot vaststelling van beleidsregels alsmede een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Model United Nations 2017–2020)

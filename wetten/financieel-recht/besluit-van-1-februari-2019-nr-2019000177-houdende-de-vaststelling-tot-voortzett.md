@@ -9,7 +9,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBR0041900"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 1 februari 2019, nr. 2019000177, houdende de vaststelling tot voortzetting van het financieel toezicht op Curaçao en Sint Maarten

@@ -9,7 +9,7 @@ laatste_update: 2015-08-01
 status: geldig
 toestand: 2015-08-01
 bron: "https://wetten.overheid.nl/BWBR0035510"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 augustus 2014, nr. MBO/642399, houdende de wijziging van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012 in verband met de aanpassing van enkele prijsfactoren

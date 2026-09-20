@@ -9,7 +9,7 @@ laatste_update: 2015-02-27
 status: geldig
 toestand: 2015-02-27
 bron: "https://wetten.overheid.nl/BWBR0036343"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 12 februari 2015, nr. BOACAT2015/005, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de afdeling Stadstoezicht van de gemeente ‘s-Hertogenbosch

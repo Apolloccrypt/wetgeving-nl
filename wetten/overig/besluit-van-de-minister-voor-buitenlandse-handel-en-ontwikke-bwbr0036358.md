@@ -9,7 +9,7 @@ laatste_update: 2015-09-16
 status: geldig
 toestand: 2015-09-16
 bron: "https://wetten.overheid.nl/BWBR0036358"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 20 februari 2015, nr. MinBuZa-2015.70005, tot vaststelling van een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieplafond Strategische partnerschappen pleiten en beïnvloeden 2016–2020)

@@ -9,7 +9,7 @@ laatste_update: 2017-05-23
 status: geldig
 toestand: 2017-05-23
 bron: "https://wetten.overheid.nl/BWBR0039571"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 11 mei 2017, nr. MBO/1178982, houdende wijziging van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016 onder meer inzake aanpassing van wettelijke beroepsvereisten

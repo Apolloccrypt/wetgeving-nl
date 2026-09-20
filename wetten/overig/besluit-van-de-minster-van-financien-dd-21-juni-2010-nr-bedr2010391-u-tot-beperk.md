@@ -9,7 +9,7 @@ laatste_update: 2010-07-09
 status: geldig
 toestand: 2010-07-09
 bron: "https://wetten.overheid.nl/BWBR0027886"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minster van Financiën d.d. 21 juni 2010, nr. BEDR/2010/391 U, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archief van de Hoofdadministratie van het Kroondomein, over de periode (1822) 1823–1972 (1974)

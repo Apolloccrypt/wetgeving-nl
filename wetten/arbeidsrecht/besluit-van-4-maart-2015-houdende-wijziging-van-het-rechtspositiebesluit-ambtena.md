@@ -9,7 +9,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0036467"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 4 maart 2015, houdende wijziging van het Rechtspositiebesluit ambtenaren BES, het Bezoldigingsbesluit 1998 BES, het Besluit rechtspositie korps politie BES, het Besluit vakantie en vrijstelling van dienst ambtenaren BES, het Rechtspositiebesluit politieke gezagdragers BES en het Pensioenbesluit politieke gezagdragers BES (formalisering arbeidsvoorwaardenovereenkomst CN 2013–2014)

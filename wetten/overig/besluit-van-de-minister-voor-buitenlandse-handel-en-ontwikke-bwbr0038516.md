@@ -9,7 +9,7 @@ laatste_update: 2019-11-29
 status: geldig
 toestand: 2019-11-29
 bron: "https://wetten.overheid.nl/BWBR0038516"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 september 2016, nr. MinBuZa-2016.56930, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Voice 2016–2020 Fonds)

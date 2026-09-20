@@ -8,7 +8,7 @@ laatste_update: 2010-02-11
 status: geldig
 toestand: 2010-02-11
 bron: "https://wetten.overheid.nl/BWBR0027158"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Wonen vanaf 2009 (Minister van Volkshuisvesting, Ruimtelijk Ordening en Milieubeheer)

@@ -9,7 +9,7 @@ laatste_update: 2013-09-10
 status: geldig
 toestand: 2013-09-10
 bron: "https://wetten.overheid.nl/BWBR0043154"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 augustus 2013, nr. HO&S/538567, tot aanwijzing van personen belast met het toezicht op de naleving van artikel 1.5 van de Wet studiefinanciering 2000

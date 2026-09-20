@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032304"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 november 2012, CZ-3137181, houdende aanwijzing van Regionale Ambulancevoorziening Brabant Midden-West-Noord voor de regio Brabant Midden-West als de Regionale Ambulancevoorziening, bedoeld in artikel 4 van de Tijdelijke wet ambulancezorg

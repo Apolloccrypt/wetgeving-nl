@@ -8,7 +8,7 @@ laatste_update: 2017-07-03
 status: geldig
 toestand: 2017-07-03
 bron: "https://wetten.overheid.nl/BWBR0039707"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Raamwerk Nascholingscursussen Code 95 en ADR

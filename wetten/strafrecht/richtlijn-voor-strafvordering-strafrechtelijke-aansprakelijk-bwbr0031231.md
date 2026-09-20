@@ -8,7 +8,7 @@ laatste_update: 2012-03-15
 status: geldig
 toestand: 2012-03-15
 bron: "https://wetten.overheid.nl/BWBR0031231"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor het verstrekken van passagiersgegevens door luchtvaartmaatschappijen

@@ -9,7 +9,7 @@ laatste_update: 2016-05-25
 status: geldig
 toestand: 2016-05-25
 bron: "https://wetten.overheid.nl/BWBR0037711"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 2 maart 2016 nr. BOACAT2016/015, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Roermond

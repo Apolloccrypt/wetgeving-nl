@@ -9,7 +9,7 @@ laatste_update: 2014-03-01
 status: geldig
 toestand: 2014-03-01
 bron: "https://wetten.overheid.nl/BWBR0034834"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 10 februari 2014 houdende wijziging van de Regeling selectie, plaatsing en overplaatsing van gedetineerden in verband met de invoering van promoveren en degraderen van gedetineerden

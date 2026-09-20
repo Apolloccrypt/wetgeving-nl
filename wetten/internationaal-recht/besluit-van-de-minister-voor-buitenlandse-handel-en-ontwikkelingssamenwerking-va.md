@@ -9,7 +9,7 @@ laatste_update: 2017-01-28
 status: geldig
 toestand: 2017-01-28
 bron: "https://wetten.overheid.nl/BWBR0039143"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 9 januari 2017, nr. BZ-2016.901544, tot wijziging van beleidsregels en vaststelling van een subsidieplafond voor subsidieverstrekking voor activiteiten van MKB-ondernemingen gericht op de bevordering van duurzaam internationaal ondernemen (Vouchers internationaal ondernemen)

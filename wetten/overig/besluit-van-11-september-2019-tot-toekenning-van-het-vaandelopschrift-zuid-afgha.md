@@ -9,7 +9,7 @@ laatste_update: 2019-12-01
 status: geldig
 toestand: 2019-12-01
 bron: "https://wetten.overheid.nl/BWBR0042659"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 11 september 2019, tot toekenning van het vaandelopschrift «Zuid-Afghanistan 2006-2010» aan het Regiment Genietroepen

@@ -9,7 +9,7 @@ laatste_update: 2012-01-03
 status: geldig
 toestand: 2012-01-03
 bron: "https://wetten.overheid.nl/BWBR0031049"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 15 augustus 2011, nr. 3589139, houdende aansluiting bij bezwarenadviescommissie personele aangelegenheden BZK

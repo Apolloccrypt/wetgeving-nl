@@ -9,7 +9,7 @@ laatste_update: 2015-11-25
 status: geldig
 toestand: 2015-11-25
 bron: "https://wetten.overheid.nl/BWBR0036670"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 3 juni 2015, nr. TFVG 122-15, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Funding Leadership Opportunities for Women 2016–2020)

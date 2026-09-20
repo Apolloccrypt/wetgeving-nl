@@ -9,7 +9,7 @@ laatste_update: 2019-12-28
 status: geldig
 toestand: 2019-12-28
 bron: "https://wetten.overheid.nl/BWBR0042924"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 3 december 2019 tot wijziging van het Besluit van 6 april 2011, houdende vaststelling van de bedragen waartoe de aansprakelijkheid van de vervoerder bij vervoer door de lucht is beperkt ter uitvoering van de artikelen 1359, 1399 en 1400 van Boek 8 van het Burgerlijk Wetboek

@@ -8,7 +8,7 @@ laatste_update: 2017-03-01
 status: geldig
 toestand: 2017-03-01
 bron: "https://wetten.overheid.nl/BWBR0039225"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit vaststelling bedragen per eenheid uitkering provinciefonds uitkeringsjaar 2015

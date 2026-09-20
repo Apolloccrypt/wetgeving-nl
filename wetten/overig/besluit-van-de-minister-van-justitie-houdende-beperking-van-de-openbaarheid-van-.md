@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026698"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van archiefbescheiden van het Ministerie van Justitie betreffende Slobodan Mitric, 1974–1986 (als bedoeld in artikel 10 van het Archiefbesluit 1995)

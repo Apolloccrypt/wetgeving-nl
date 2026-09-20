@@ -9,7 +9,7 @@ laatste_update: 2017-03-03
 status: geldig
 toestand: 2017-03-03
 bron: "https://wetten.overheid.nl/BWBR0039269"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen VWS van 22 februari 2017, kenmerk 1092517-161010-OBP

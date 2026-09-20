@@ -9,7 +9,7 @@ laatste_update: 2026-09-17
 status: geldig
 toestand: 2026-09-17
 bron: "https://wetten.overheid.nl/BWBR0053112"
-opgehaald: 2026-09-19
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 9 september 2026, houdende de vaststelling van regels in verband met de uitvoering van Verordening (EU) 2023/1230 betreffende machines en keuringen van arbeidsmiddelen (Warenwetbesluit machines 2026) [Keten ID WGK027758]

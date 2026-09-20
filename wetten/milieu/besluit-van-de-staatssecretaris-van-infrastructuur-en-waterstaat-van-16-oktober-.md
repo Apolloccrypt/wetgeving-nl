@@ -9,7 +9,7 @@ laatste_update: 2019-10-23
 status: geldig
 toestand: 2019-10-23
 bron: "https://wetten.overheid.nl/BWBR0042700"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 16 oktober 2019, nr. IENW/BSK-2019/213233, houdende vaststelling van het subsidieplafond op grond van de Subsidieregeling VeiligheidNL voor het jaar 2019

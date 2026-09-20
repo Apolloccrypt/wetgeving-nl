@@ -8,7 +8,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0031059"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Bijstellingsregeling accijns, belasting van personenauto’s en motorrijwielen, motorrijtuigenbelasting en belastingen op milieugrondslag 2012

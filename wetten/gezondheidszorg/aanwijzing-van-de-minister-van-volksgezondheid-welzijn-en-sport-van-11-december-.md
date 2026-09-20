@@ -9,7 +9,7 @@ laatste_update: 2013-02-01
 status: geldig
 toestand: 2013-02-01
 bron: "https://wetten.overheid.nl/BWBR0032506"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2012, MC-U-3146776, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage academische zorg

@@ -9,7 +9,7 @@ laatste_update: 2011-04-01
 status: geldig
 toestand: 2011-04-01
 bron: "https://wetten.overheid.nl/BWBR0029786"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de minister voor Immigratie en Asiel van 29 maart 2011, nr. 5688966/11, houdende wijziging van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005

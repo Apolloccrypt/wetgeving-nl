@@ -9,7 +9,7 @@ laatste_update: 2016-06-02
 status: geldig
 toestand: 2016-06-02
 bron: "https://wetten.overheid.nl/BWBR0038001"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Economische zaken van 20 mei 2016 met kenmerk 16066051, tot wijziging van de beperking in toegankelijkheid van enkele gebieden ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen het Natura 2000-gebied ‘Waddenzee’

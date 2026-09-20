@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040255"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 november 2017, kenmerk 1260305-170472-WJZ, houdende vaststelling van het vrijstellingsbedrag inkomsten uit vermogen ingevolge de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2018

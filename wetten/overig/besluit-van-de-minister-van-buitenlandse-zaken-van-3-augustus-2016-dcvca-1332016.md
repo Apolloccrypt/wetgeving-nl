@@ -9,7 +9,7 @@ laatste_update: 2019-01-04
 status: geldig
 toestand: 2019-01-04
 bron: "https://wetten.overheid.nl/BWBR0038401"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de minister van Buitenlandse Zaken van 3 augustus 2016, DCV/CA-133/2016, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Gedetineerdenbegeleiding buitenland 2017–2019)

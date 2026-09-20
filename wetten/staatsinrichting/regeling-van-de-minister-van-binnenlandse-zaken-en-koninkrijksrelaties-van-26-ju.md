@@ -9,7 +9,7 @@ laatste_update: 2013-08-08
 status: geldig
 toestand: 2013-08-08
 bron: "https://wetten.overheid.nl/BWBR0033737"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 26 juni 2013, nr. 2013-0000349785, houdende regels vertrouwenspersonen integriteit en ongewenste omgangsvormen en de Klachtencommissie ongewenste omgangsvormen BZK

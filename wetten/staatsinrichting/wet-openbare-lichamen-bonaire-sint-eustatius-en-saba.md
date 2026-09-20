@@ -9,7 +9,7 @@ laatste_update: 2026-09-15
 status: geldig
 toestand: 2026-09-15
 bron: "https://wetten.overheid.nl/BWBR0028142"
-opgehaald: 2026-09-19
+opgehaald: 2026-09-20
 ---
 
 # Wet van 17 mei 2010, houdende regels met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet openbare lichamen Bonaire, Sint Eustatius en Saba)

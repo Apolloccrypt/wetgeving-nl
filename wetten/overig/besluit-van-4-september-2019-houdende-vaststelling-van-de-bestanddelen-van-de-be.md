@@ -9,7 +9,7 @@ laatste_update: 2019-09-21
 status: geldig
 toestand: 2019-09-21
 bron: "https://wetten.overheid.nl/BWBR0042558"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 4 september 2019, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2019 worden uitgegeven ter gelegenheid van 75 jaar Operatie Market Garden

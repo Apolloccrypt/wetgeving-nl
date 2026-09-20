@@ -9,7 +9,7 @@ laatste_update: 2016-11-19
 status: geldig
 toestand: 2016-11-19
 bron: "https://wetten.overheid.nl/BWBR0038733"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van dd 11 november 2016, kenmerk: 16170126, tot beperking van de toegankelijkheid van gebieden ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen het Natura 2000-gebied ‘Oosterschelde’

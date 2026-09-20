@@ -9,7 +9,7 @@ laatste_update: 2012-10-20
 status: geldig
 toestand: 2012-10-20
 bron: "https://wetten.overheid.nl/BWBR0032099"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2011

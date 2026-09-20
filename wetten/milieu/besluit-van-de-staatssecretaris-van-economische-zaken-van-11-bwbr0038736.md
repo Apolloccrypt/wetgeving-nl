@@ -9,7 +9,7 @@ laatste_update: 2016-11-19
 status: geldig
 toestand: 2016-11-19
 bron: "https://wetten.overheid.nl/BWBR0038736"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 11 november 2016, kenmerk: 16170049, tot beperking van de toegankelijkheid van gebieden ex artikel 20 Natuurbeschermingswet 1998, gelegen binnen het Natura 2000-gebied ‘Grevelingen’

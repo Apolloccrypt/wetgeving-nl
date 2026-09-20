@@ -9,7 +9,7 @@ laatste_update: 2015-06-15
 status: geldig
 toestand: 2015-06-15
 bron: "https://wetten.overheid.nl/BWBR0036651"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 21 mei 2015, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die worden uitgegeven ter gelegenheid van 200 jaar Slag bij Waterloo

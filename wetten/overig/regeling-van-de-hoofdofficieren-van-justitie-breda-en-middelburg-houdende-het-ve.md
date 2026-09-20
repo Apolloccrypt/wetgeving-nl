@@ -9,7 +9,7 @@ laatste_update: 2010-07-29
 status: geldig
 toestand: 2010-07-29
 bron: "https://wetten.overheid.nl/BWBR0027972"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de hoofdofficieren van justitie Breda en Middelburg houdende het verlenen van mandaat, volmacht en machtiging aan de regionaal directeur bedrijfsvoering

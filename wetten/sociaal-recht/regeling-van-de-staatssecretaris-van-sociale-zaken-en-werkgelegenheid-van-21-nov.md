@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041598"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 21 november 2018, nr. 2018-0000157985, houdende wijziging van bedragen en vaststelling van percentages en bedragen voor Caribisch Nederland ten gevolge van de consumentenprijsindexcijfers voor 2019

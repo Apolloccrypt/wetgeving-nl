@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026974"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 8 december 2009, nr. K&L2009065561, houdende wijziging van de Subsidieregeling emissieverminderende voorzieningen voor voertuigen, de Subsidieregeling dieselmotoren voor binnenvaartschepen en de Subsidieregeling motorrijtuigen met een emissiearme dieselmotor en recht op teruggaaf BPM

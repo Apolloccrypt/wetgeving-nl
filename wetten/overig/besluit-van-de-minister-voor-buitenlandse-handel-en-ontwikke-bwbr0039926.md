@@ -9,7 +9,7 @@ laatste_update: 2017-11-30
 status: geldig
 toestand: 2017-11-30
 bron: "https://wetten.overheid.nl/BWBR0039926"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 14 augustus 2017, nr. MINBUZA-2017 4000000581, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Peace and Security 4 All)

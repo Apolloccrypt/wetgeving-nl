@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026934"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 december 2009, nr. K&L2009064896, houdende wijziging van de Subsidieregeling milieugerichte technologie (wijziging Subsidieprogramma milieu & technologie 2010)

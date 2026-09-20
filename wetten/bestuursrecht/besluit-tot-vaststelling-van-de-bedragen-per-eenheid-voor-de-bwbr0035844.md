@@ -9,7 +9,7 @@ laatste_update: 2014-12-05
 status: geldig
 toestand: 2014-12-05
 bron: "https://wetten.overheid.nl/BWBR0035844"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2013

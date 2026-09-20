@@ -9,7 +9,7 @@ laatste_update: 2016-10-08
 status: geldig
 toestand: 2016-10-08
 bron: "https://wetten.overheid.nl/BWBR0038592"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 6 oktober 2016, nr. IENM/BSK-2016/213825, tot wijziging van de Subsidieregeling innovaties duurzame binnenvaart in verband met een aanpassing van het subsidieplafond

@@ -9,7 +9,7 @@ laatste_update: 2019-03-13
 status: geldig
 toestand: 2019-03-13
 bron: "https://wetten.overheid.nl/BWBR0041811"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Medische Zorg van 21 december 2018, kenmerk 184981-1462920-Z, houdende verlening van mandaat, volmacht en machtiging aan Zorginstituut Nederland inzake de subsidieverstrekking voor veelbelovende zorg (Besluit mandaat, volmacht en machtiging Zorginstituut Nederland subsidieverstrekking veelbelovende zorg)

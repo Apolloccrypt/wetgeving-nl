@@ -9,7 +9,7 @@ laatste_update: 2018-10-26
 status: geldig
 toestand: 2018-10-26
 bron: "https://wetten.overheid.nl/BWBR0041460"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 16 oktober 2018, nr. 2376892, tot aanwijzing van een elektronische voorziening in de zin van het Besluit digitale stukken Strafvordering

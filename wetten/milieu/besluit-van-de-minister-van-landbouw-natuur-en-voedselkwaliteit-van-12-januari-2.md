@@ -9,7 +9,7 @@ laatste_update: 2019-02-08
 status: geldig
 toestand: 2019-02-08
 bron: "https://wetten.overheid.nl/BWBR0041879"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 januari 2019, nr. DGA-ELV 1831829, houdende openbaarmaking van de subsidiegegevens Gemeenschappelijk landbouwbeleid over het EU-boekjaar 2018 en Gemeenschappelijk Visserijbeleid over het EU-boekjaar 2019

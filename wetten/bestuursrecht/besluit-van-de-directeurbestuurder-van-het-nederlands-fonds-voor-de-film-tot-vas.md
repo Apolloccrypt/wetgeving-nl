@@ -9,7 +9,7 @@ laatste_update: 2015-01-17
 status: geldig
 toestand: 2015-01-17
 bron: "https://wetten.overheid.nl/BWBR0036175"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Directeur/bestuurder van het Nederlands Fonds voor de Film tot vaststelling van de subsidieplafonds voor subsidiëring op grond van het Reglement Stimuleringsmaatregel Filmproductie in Nederland, het Deelreglement Suppletie, het Deelreglement Distributie en het Deelreglement Filmactiviteiten

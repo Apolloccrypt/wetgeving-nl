@@ -9,7 +9,7 @@ laatste_update: 2017-05-03
 status: geldig
 toestand: 2017-05-03
 bron: "https://wetten.overheid.nl/BWBR0039523"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Dienst Justis van 5 april 2017 met betrekking tot digitale vervanging van personele archiefbescheiden

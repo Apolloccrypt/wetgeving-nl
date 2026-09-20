@@ -9,7 +9,7 @@ laatste_update: 2020-02-27
 status: geldig
 toestand: 2020-02-27
 bron: "https://wetten.overheid.nl/BWBR0042796"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 14 november 2019, nr. MINBUZA-2019.731514, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Drylands Sahel Program)

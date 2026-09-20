@@ -9,7 +9,7 @@ laatste_update: 2010-08-22
 status: geldig
 toestand: 2010-08-22
 bron: "https://wetten.overheid.nl/BWBR0030363"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling bekendmaking constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto’s 2012 en 2013

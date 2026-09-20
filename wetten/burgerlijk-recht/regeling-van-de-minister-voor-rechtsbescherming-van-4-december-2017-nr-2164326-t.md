@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040355"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 4 december 2017, nr. 2164326 tot indexering van bedragen in de Algemene wet bestuursrecht, het Besluit proceskosten bestuursrecht en de Wet griffierechten burgerlijke zaken

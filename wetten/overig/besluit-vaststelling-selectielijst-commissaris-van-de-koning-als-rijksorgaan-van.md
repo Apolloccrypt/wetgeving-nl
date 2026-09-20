@@ -8,7 +8,7 @@ laatste_update: 2014-01-19
 status: geldig
 toestand: 2014-01-19
 bron: "https://wetten.overheid.nl/BWBR0034674"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit vaststelling selectielijst Commissaris van de Koning als rijksorgaan vanaf 2014

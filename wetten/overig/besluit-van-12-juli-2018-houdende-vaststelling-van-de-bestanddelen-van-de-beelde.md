@@ -9,7 +9,7 @@ laatste_update: 2018-09-07
 status: geldig
 toestand: 2018-09-07
 bron: "https://wetten.overheid.nl/BWBR0041325"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 12 juli 2018, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro met als thema Schokland die in 2018 worden uitgegeven in de serie Nederlands Werelderfgoed

@@ -9,7 +9,7 @@ laatste_update: 2010-11-05
 status: geldig
 toestand: 2010-11-05
 bron: "https://wetten.overheid.nl/BWBR0028911"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 27 oktober 2010, nr. WJZ / 10154263, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen en van de Regeling openstelling en subsidieplafonds EZ 2010

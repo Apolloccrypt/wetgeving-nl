@@ -9,7 +9,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBR0039407"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 29 maart 2017 nr. BOACAT2017/026, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het Ministerie van Economische Zaken, DG Agro en Natuur/beleidsdirectie Natuur en Biodiversiteit/Waddenunit

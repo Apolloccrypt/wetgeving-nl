@@ -9,7 +9,7 @@ laatste_update: 2010-10-01
 status: geldig
 toestand: 2010-10-01
 bron: "https://wetten.overheid.nl/BWBR0027377"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 8 maart 2010, nr. WJZ / 10036960, houdende wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen (wijziging subsidie voor veiligheid kleine bedrijven)

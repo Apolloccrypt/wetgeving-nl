@@ -9,7 +9,7 @@ laatste_update: 2012-09-29
 status: geldig
 toestand: 2012-09-29
 bron: "https://wetten.overheid.nl/BWBR0032032"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van het Stimuleringsfonds voor de pers van 24 september 2012, nr. 22572, tot vaststelling van een Tijdelijke subsidieregeling Vernieuwende Journalistiek 2012

@@ -9,7 +9,7 @@ laatste_update: 2014-11-01
 status: geldig
 toestand: 2014-11-01
 bron: "https://wetten.overheid.nl/BWBR0035574"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 september 2014, kenmerk 2014-0000478982, houdende de benoeming van de leden van de Transitiecommissie Sociaal Domein

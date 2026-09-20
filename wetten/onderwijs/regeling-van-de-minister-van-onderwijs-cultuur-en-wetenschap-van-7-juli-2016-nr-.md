@@ -9,7 +9,7 @@ laatste_update: 2016-07-19
 status: geldig
 toestand: 2016-07-19
 bron: "https://wetten.overheid.nl/BWBR0038315"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 juli 2016, nr. MBO/1013657, houdende wijziging van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016

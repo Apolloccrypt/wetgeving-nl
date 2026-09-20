@@ -9,7 +9,7 @@ laatste_update: 2014-10-01
 status: geldig
 toestand: 2014-10-01
 bron: "https://wetten.overheid.nl/BWBR0035127"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Infrastructuur en Milieu, van 19 mei 2014, nr. IENM/BSK-2013/259431 houdende wijziging van de Regeling maatregelen rijvaardigheid en geschiktheid 2011 in verband met de aanpassing van de beginnersregeling

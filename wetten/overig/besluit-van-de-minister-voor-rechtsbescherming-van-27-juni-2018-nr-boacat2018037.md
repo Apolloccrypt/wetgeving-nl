@@ -9,7 +9,7 @@ laatste_update: 2018-08-21
 status: geldig
 toestand: 2018-08-21
 bron: "https://wetten.overheid.nl/BWBR0041120"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 27 juni 2018, nr. BOACAT2018/037, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de regionale eenheid Zeeland – West-Brabant

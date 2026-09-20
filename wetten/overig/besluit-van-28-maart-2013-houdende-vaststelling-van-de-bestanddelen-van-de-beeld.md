@@ -9,7 +9,7 @@ laatste_update: 2013-04-12
 status: geldig
 toestand: 2013-04-12
 bron: "https://wetten.overheid.nl/BWBR0033172"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 28 maart 2013 houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2013 worden uitgegeven ter gelegenheid van 300 jaar Vrede van Utrecht

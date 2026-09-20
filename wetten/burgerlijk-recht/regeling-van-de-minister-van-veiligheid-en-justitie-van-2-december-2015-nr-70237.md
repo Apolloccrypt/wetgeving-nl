@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0037305"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 2 december 2015, nr. 702372, tot indexering van bedragen in de Algemene wet bestuursrecht, het Besluit proceskosten bestuursrecht, de Wet griffierechten burgerlijke zaken en de Wet op het hoger onderwijs en wetenschappelijk onderzoek

@@ -9,7 +9,7 @@ laatste_update: 2011-02-11
 status: geldig
 toestand: 2011-02-11
 bron: "https://wetten.overheid.nl/BWBR0029561"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 31 januari 2011 tot wijziging van het Besluit rechtspositie rechterlijke ambtenaren en enige andere besluiten in verband met onder meer de formalisering van de Arbeidsvoorwaardenovereenkomst Rechterlijke Macht 1/1/2005–31/7/2007 en de Arbeidsvoorwaardenovereenkomst sector Rechterlijke macht 1/8/2007 tot 31/12/2010

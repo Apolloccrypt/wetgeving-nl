@@ -9,7 +9,7 @@ laatste_update: 2012-07-01
 status: geldig
 toestand: 2012-07-01
 bron: "https://wetten.overheid.nl/BWBR0031709"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 18 juni 2012, houdende wijziging van het Rechtspositiebesluit ambtenaren BES, het Besluit vakantie en vrijstelling van dienst ambtenaren BES, het Besluit rechtspositie korps politie BES, het Bezoldigingsbesluit 1998 BES en het Dienst en werktijdenbesluit brandweerkorps BES in verband met de formalisering arbeidsvoorwaardenovereenkomst CN 2012

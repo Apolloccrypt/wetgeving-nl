@@ -9,7 +9,7 @@ laatste_update: 2017-11-14
 status: geldig
 toestand: 2017-11-14
 bron: "https://wetten.overheid.nl/BWBR0040189"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 3 november 2017, nr. Minbuza-2017.1163767, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Twinningfaciliteit Nederland-Suriname 2017–2021)

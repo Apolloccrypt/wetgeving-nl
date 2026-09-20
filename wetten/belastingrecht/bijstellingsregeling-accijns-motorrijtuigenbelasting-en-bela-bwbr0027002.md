@@ -8,7 +8,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0027002"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Bijstellingsregeling accijns, motorrijtuigenbelasting en belastingen op milieugrondslag 2010

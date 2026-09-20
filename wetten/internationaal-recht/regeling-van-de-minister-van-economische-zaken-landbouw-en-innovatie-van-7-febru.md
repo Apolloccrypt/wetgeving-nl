@@ -9,7 +9,7 @@ laatste_update: 2012-03-01
 status: geldig
 toestand: 2012-03-01
 bron: "https://wetten.overheid.nl/BWBR0031269"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 7 februari 2012, nr. WJZ / 12013645, houdende wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen (veiligheid kleine bedrijven), wijziging van de Regeling openstelling en subsidieplafonds EZ 2012 (veiligheid kleine bedrijven en tijdelijke garantie ondernemingsfinanciering curatieve zorg) alsmede wijziging van enige andere regelingen in verband met vervanging van formulieren

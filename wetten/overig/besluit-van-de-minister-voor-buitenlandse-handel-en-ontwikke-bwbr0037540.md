@@ -9,7 +9,7 @@ laatste_update: 2017-02-15
 status: geldig
 toestand: 2017-02-15
 bron: "https://wetten.overheid.nl/BWBR0037540"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 januari 2016, nr. DHS_2016.18114, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Addressing Root Causes Fund 2016–2021)

@@ -9,7 +9,7 @@ laatste_update: 2019-06-26
 status: geldig
 toestand: 2019-06-26
 bron: "https://wetten.overheid.nl/BWBR0042325"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 16 april 2019, nr. 2019-0000181627, tot vaststelling van de bedragen per eenheid voor de algemene uitkering uit het provinciefonds voor het uitkeringsjaar 2017

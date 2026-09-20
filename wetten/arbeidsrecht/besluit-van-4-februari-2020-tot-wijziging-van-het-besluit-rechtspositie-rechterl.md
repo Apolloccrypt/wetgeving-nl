@@ -9,7 +9,7 @@ laatste_update: 2020-02-15
 status: geldig
 toestand: 2020-02-15
 bron: "https://wetten.overheid.nl/BWBR0043167"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 4 februari 2020 tot wijziging van het Besluit rechtspositie rechterlijke ambtenaren en enige andere besluiten ter formalisering van de Arbeidsvoorwaardenovereenkomst sector Rechterlijke Macht 2017 en enige andere aanpassingen

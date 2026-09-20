@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0038771"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 november 2016, 2016-0000248239, tot vaststelling van de premiepercentages werknemers- en volksverzekeringen, maximumpremieloon werknemersverzekeringen en de opslag kinderopvangtoeslag voor 2017

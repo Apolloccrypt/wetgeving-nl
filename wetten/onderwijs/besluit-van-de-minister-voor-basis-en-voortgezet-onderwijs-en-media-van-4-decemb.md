@@ -9,7 +9,7 @@ laatste_update: 2019-12-13
 status: geldig
 toestand: 2019-12-13
 bron: "https://wetten.overheid.nl/BWBR0042877"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 4 december 2019,nr 17841806 houdende vaststelling van de peildatum voor de telling van het aantal leden van de omroeporganisaties voor de erkenningperiode 2022–2026

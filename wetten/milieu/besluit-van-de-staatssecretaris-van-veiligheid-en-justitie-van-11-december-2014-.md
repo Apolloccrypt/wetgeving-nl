@@ -9,7 +9,7 @@ laatste_update: 2019-07-24
 status: geldig
 toestand: 2019-07-24
 bron: "https://wetten.overheid.nl/BWBR0035932"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 11 december 2014, nr. BOACAT2014/052, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Rijkswaterstaat Verkeer en Watermanagement

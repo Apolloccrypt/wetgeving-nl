@@ -9,7 +9,7 @@ laatste_update: 2015-02-27
 status: geldig
 toestand: 2015-02-27
 bron: "https://wetten.overheid.nl/BWBR0036347"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Raad voor de Praktijkopleidingen houdende regels inzake ondermandaat en machtiging aan Stagebureau Accon AVM (Besluit ondermandaat en machtiging Raad voor de Praktijkopleidingen aan Stagebureau Accon AVM)

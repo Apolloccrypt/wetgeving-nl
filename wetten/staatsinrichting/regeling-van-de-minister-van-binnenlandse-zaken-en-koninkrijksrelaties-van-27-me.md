@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0038019"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 mei 2016, nr. 2016-00000304546, houdende regels voor de subsidiëring van de Stichting COELO (Subsidieregeling COELO)

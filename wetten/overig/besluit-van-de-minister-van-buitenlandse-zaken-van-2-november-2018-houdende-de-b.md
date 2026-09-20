@@ -9,7 +9,7 @@ laatste_update: 2018-11-23
 status: geldig
 toestand: 2018-11-23
 bron: "https://wetten.overheid.nl/BWBR0041566"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 2 november 2018, houdende de beperking van de openbaarheid van een aantal inventarisnummers van het archief van de Nederlandse diplomatieke vertegenwoordiging in Beiroet, Libanon, (1960) 1975–2013

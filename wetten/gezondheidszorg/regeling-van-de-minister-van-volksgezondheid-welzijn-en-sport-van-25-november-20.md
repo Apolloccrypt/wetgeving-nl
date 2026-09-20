@@ -9,7 +9,7 @@ laatste_update: 2009-12-19
 status: geldig
 toestand: 2009-12-19
 bron: "https://wetten.overheid.nl/BWBR0026874"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2009, nr. DBV/IenA/I 2971692, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het Regionaal Medisch Tuchtcollege Amsterdam, over de periode 1930–1980

@@ -9,7 +9,7 @@ laatste_update: 2016-01-21
 status: geldig
 toestand: 2016-01-21
 bron: "https://wetten.overheid.nl/BWBR0037555"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 11 januari 2016, nr. BOACAT2016/003, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst Flevoland & Gooi en Vechtstreek

@@ -9,7 +9,7 @@ laatste_update: 2015-11-08
 status: geldig
 toestand: 2015-11-08
 bron: "https://wetten.overheid.nl/BWBR0037010"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 10 september 2015 nr. BOACAT2015/041, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Directoraat-Generaal Rijkswaterstaat

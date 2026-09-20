@@ -9,7 +9,7 @@ laatste_update: 2019-02-23
 status: geldig
 toestand: 2019-02-23
 bron: "https://wetten.overheid.nl/BWBR0041935"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 februari 2019, nr. 2019-0000006011, houdende aanpassing van de subsidiebedragen van de Wet financiering politieke partijen voor het jaar 2018

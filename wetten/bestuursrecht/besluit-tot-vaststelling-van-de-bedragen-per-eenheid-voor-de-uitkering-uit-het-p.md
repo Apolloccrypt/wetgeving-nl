@@ -9,7 +9,7 @@ laatste_update: 2010-06-09
 status: geldig
 toestand: 2010-06-09
 bron: "https://wetten.overheid.nl/BWBR0027701"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit tot vaststelling van de bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2009

@@ -9,7 +9,7 @@ laatste_update: 2015-07-09
 status: geldig
 toestand: 2015-07-09
 bron: "https://wetten.overheid.nl/BWBR0036782"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 juni 2015 nr. BOACAT2015/023, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Gemeente Rotterdam, cluster Stadsbeheer, afdeling Toezicht & Handhaving Domein II 2015

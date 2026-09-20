@@ -9,7 +9,7 @@ laatste_update: 2019-12-20
 status: geldig
 toestand: 2019-12-20
 bron: "https://wetten.overheid.nl/BWBR0042914"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Circulaire Specifieke aandachtspunten Rechtspositiebesluit decentrale politieke ambtsdragers voor provincies, d.d. 10 december 2019, kenmerk 2019-0000643664

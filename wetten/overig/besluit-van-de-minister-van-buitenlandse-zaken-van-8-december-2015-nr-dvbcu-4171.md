@@ -9,7 +9,7 @@ laatste_update: 2015-12-17
 status: geldig
 toestand: 2015-12-17
 bron: "https://wetten.overheid.nl/BWBR0037340"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 december 2015, nr. DVB/CU-417/15, tot wijziging van het Besluit van de Minister van Buitenlandse Zaken van 22 september 2015, nr. DVB/CU-BPZ-329/15, tot vaststelling van beleidsregels alsmede een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Verlenging indieningstermijn Liberation Scholarship Program)

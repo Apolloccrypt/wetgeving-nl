@@ -9,7 +9,7 @@ laatste_update: 2016-12-01
 status: geldig
 toestand: 2016-12-01
 bron: "https://wetten.overheid.nl/BWBR0038623"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 11 oktober 2016, kenmerk 1025212-155823-MC, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de beschikbaarheidsbijdrage curatieve geestelijke gezondheidszorg – auditief beperkten

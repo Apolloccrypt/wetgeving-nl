@@ -9,7 +9,7 @@ laatste_update: 2017-04-24
 status: geldig
 toestand: 2017-04-24
 bron: "https://wetten.overheid.nl/BWBR0039487"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 11 april 2017, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van tien, twintig en vijftig euro die in 2017 worden uitgegeven ter gelegenheid van de vijftigste verjaardag van Koning Willem-Alexander

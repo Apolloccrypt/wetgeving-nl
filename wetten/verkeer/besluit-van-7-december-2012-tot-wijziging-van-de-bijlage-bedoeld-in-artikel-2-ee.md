@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032481"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 7 december 2012 tot wijziging van de bijlage, bedoeld in artikel 2, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften, alsmede van de bijlagen bij het Besluit OM-afdoening onderscheidenlijk de bijlage uit het Transactiebesluit 1994 en van enige andere besluiten in verband met onder meer de jaarlijkse indexering van de tarieven

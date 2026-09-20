@@ -9,7 +9,7 @@ laatste_update: 2017-03-10
 status: geldig
 toestand: 2017-03-10
 bron: "https://wetten.overheid.nl/BWBR0039305"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 7 maart 2017, nr. IENM/BSK-2017/19692, houdende toekenning van de bevoegdheid genoemd in artikel 20, vierde lid, Wet personenvervoer 2000 aan gedeputeerde staten van de provincie Groningen

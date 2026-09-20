@@ -9,7 +9,7 @@ laatste_update: 2015-12-22
 status: geldig
 toestand: 2015-12-22
 bron: "https://wetten.overheid.nl/BWBR0037380"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Financiën van 9 december 2015, FIN 2015/1498 M, directie Financieringen, betreffende het verlenen van een machtiging aan de stichting administratiekantoor beheer financiële instellingen (Besluit machtiging NLFI in verband met het uitvoeren van de verkoopstrategie van Propertize B.V.)

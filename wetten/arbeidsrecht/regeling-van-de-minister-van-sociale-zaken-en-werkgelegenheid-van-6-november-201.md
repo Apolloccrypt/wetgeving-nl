@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0035740"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 november 2014, 2014-0000156608, tot vaststelling van de premiepercentages en het maximumpremieloon werknemers- en volksverzekeringen en de opslag kinderopvangtoeslag voor 2015

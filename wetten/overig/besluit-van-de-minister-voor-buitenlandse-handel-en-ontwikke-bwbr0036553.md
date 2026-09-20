@@ -9,7 +9,7 @@ laatste_update: 2015-04-25
 status: geldig
 toestand: 2015-04-25
 bron: "https://wetten.overheid.nl/BWBR0036553"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 20 april 2015 nr. MinBuza-2015.198527, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Fonds Product Development Partnerships III)

@@ -9,7 +9,7 @@ laatste_update: 2017-10-14
 status: geldig
 toestand: 2017-10-14
 bron: "https://wetten.overheid.nl/BWBR0040066"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 18 september 2017, nr. 2017001558 houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro ter herdenking van Johan Cruijff die in 2017 worden uitgegeven in de serie Nederlandse Sporticonen

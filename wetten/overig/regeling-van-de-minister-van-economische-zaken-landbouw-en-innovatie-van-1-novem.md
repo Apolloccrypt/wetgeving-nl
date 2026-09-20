@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0028919"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 1 november 2010, nr. WJZ/10152962, houdende vaststelling van de correcties ten behoeve van de voorschotverlening voor de stimulering van duurzame energieproductie in het jaar 2011 (Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2011)

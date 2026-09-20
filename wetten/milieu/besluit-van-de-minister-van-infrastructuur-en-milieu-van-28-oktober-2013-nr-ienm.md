@@ -9,7 +9,7 @@ laatste_update: 2013-10-30
 status: geldig
 toestand: 2013-10-30
 bron: "https://wetten.overheid.nl/BWBR0034100"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 28 oktober 2013, nr. IENM/BSK-2013/239469, ter vaststelling van het maximaal toegestane aandeel eigen vermogen, bedoeld in artikel 10, tweede lid, van de Drinkwaterwet, voor 2014 en 2015

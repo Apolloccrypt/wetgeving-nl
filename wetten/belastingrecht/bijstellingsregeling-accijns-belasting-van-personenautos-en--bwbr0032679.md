@@ -8,7 +8,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0032679"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Bijstellingsregeling accijns, belasting van personenauto’s en motorrijwielen, motorrijtuigenbelasting, belastingen op milieugrondslag, Provinciewet en Wet uitwerking autobrief 2013

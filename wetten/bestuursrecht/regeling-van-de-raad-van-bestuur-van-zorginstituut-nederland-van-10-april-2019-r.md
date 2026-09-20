@@ -9,7 +9,7 @@ laatste_update: 2019-04-26
 status: geldig
 toestand: 2019-04-26
 bron: "https://wetten.overheid.nl/BWBR0042145"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Raad van Bestuur van Zorginstituut Nederland van 10 april 2019, referentie 2018051782, houdende regels met betrekking tot de structurele aanlevering van gegevens Zorgverzekeringswet 2019 en gegevens Wet langdurige zorg 2019 (Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2019)

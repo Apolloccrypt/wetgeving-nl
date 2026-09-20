@@ -9,7 +9,7 @@ laatste_update: 2020-01-22
 status: geldig
 toestand: 2020-01-22
 bron: "https://wetten.overheid.nl/BWBR0043090"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 januari 2020, DGA/20006884, houdende openbaarmaking van de subsidiegegevens Gemeenschappelijk landbouwbeleid over het EU-boekjaar 2019 en Gemeenschappelijk Visserijbeleid over het kalenderjaar 2020

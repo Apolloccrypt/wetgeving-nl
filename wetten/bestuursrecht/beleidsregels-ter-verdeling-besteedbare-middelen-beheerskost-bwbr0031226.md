@@ -8,7 +8,7 @@ laatste_update: 2013-02-13
 status: geldig
 toestand: 2013-02-13
 bron: "https://wetten.overheid.nl/BWBR0031226"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2012

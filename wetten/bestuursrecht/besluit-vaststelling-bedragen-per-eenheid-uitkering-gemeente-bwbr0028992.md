@@ -8,7 +8,7 @@ laatste_update: 2010-11-28
 status: geldig
 toestand: 2010-11-28
 bron: "https://wetten.overheid.nl/BWBR0028992"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit vaststelling bedragen per eenheid uitkering gemeentefonds uitkeringsjaar 2009

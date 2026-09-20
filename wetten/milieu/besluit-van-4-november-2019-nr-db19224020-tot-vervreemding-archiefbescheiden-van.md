@@ -9,7 +9,7 @@ laatste_update: 2020-02-01
 status: geldig
 toestand: 2020-02-01
 bron: "https://wetten.overheid.nl/BWBR0043054"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 4 november 2019, nr. DB/19224020, tot vervreemding archiefbescheiden van het Ministerie van Landbouw, Natuur en Voedselkwaliteit aan de Rijksdienst voor het Cultureel Erfgoed

@@ -9,7 +9,7 @@ laatste_update: 2010-04-28
 status: geldig
 toestand: 2010-04-28
 bron: "https://wetten.overheid.nl/BWBR0027555"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 10 april 2010, nr. 10.000954 houdende de vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2010 worden uitgegeven ter gelegenheid van 150 jaar Max Havelaar

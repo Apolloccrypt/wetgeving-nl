@@ -8,7 +8,7 @@ laatste_update: 2018-06-12
 status: geldig
 toestand: 2018-06-12
 bron: "https://wetten.overheid.nl/BWBR0041004"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit mandaatverlening, machtiging en tekenbevoegdheid Algemene verordening gegevensbescherming 2018

@@ -9,7 +9,7 @@ laatste_update: 2010-05-22
 status: geldig
 toestand: 2010-05-22
 bron: "https://wetten.overheid.nl/BWBR0027662"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Regeling van de Minister van Economische Zaken van 11 mei 2010, nr. WJZ/10069658, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen ter invoering van het Valorisatieprogramma

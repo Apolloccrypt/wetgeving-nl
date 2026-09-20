@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0041580"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit van 20 november 2018, houdende verlening van een concessie als bedoeld in artikel 2.60k van de Mediawet 2008 aan de Stichting Regionale Publieke Omroep voor de periode 2019–2025

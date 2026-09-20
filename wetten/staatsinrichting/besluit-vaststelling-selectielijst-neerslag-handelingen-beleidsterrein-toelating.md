@@ -8,7 +8,7 @@ laatste_update: 2010-02-11
 status: geldig
 toestand: 2010-02-11
 bron: "https://wetten.overheid.nl/BWBR0027156"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-20
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Toelating Vreemdelingen vanaf 1945 (Minister van van Binnenlandse Zaken en Koninkrijksrelaties)
