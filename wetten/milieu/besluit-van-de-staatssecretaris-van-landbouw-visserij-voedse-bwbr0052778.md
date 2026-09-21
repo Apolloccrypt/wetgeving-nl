@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0052778"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 02 juli 2026, nr. ZK-0000148409, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van melige koolluis en koolwittevlieg in de onbedekte teelt van spruitkool (Tijdelijke vrijstelling voor de beheersing van melige koolluis en koolwittevlieg in de onbedekte teelt van spruitkool, 2026)

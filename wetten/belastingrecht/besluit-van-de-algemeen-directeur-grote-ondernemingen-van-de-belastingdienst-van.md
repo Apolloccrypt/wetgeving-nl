@@ -9,7 +9,7 @@ laatste_update: 2023-12-14
 status: geldig
 toestand: 2023-12-14
 bron: "https://wetten.overheid.nl/BWBR0049039"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de algemeen directeur Grote ondernemingen van de Belastingdienst van 7 juli 2023, nr. 2023-0000146137 houdende verlening van ondermandaat, ondervolmacht en ondermachtiging betreffende de uitvoering van de Wet open overheid (Besluit ondermandaat, ondervolmacht en ondermachtiging betreffende de uitvoering van de Wet open overheid van de algemeen directeur Grote ondernemingen 2023)

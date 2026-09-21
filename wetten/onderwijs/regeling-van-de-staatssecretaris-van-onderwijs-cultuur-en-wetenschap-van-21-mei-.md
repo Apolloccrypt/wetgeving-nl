@@ -9,7 +9,7 @@ laatste_update: 2026-06-06
 status: geldig
 toestand: 2026-06-06
 bron: "https://wetten.overheid.nl/BWBR0052673"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 21 mei 2026, nr. VO/F/63097003 tot wijziging van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo, de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden, de Regeling aanvullende bekostiging eerste opvang nieuwkomers vo en de Regeling onderwijskansen voortgezet onderwijs in verband met het vaststellen van de bedragen voor de kalenderjaren 2026 en 2027

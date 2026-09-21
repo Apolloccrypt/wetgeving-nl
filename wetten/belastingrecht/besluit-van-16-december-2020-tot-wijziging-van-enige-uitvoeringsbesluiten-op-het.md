@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0044585"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 16 december 2020 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten

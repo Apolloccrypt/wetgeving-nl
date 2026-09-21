@@ -8,7 +8,7 @@ laatste_update: 1992-02-21
 status: geldig
 toestand: 1992-02-21
 bron: "https://wetten.overheid.nl/BWBV0001048"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Gemenebest van Dominica inzake de toepassing van het op 31 mei 1932 te Londen tussen Nederland en Groot-Brittannië gesloten Verdrag houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken, zoals aangevuld te 's-Gravenhage op 17 november 1967

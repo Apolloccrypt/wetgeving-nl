@@ -9,7 +9,7 @@ laatste_update: 2026-06-27
 status: geldig
 toestand: 2026-06-27
 bron: "https://wetten.overheid.nl/BWBR0052738"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 19 juni 2026, nr. 2026-10052 over Belastingen op milieugrondslag

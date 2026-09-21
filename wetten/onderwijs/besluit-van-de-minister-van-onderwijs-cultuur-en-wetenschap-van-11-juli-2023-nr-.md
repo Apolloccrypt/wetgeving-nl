@@ -9,7 +9,7 @@ laatste_update: 2023-07-19
 status: geldig
 toestand: 2023-07-19
 bron: "https://wetten.overheid.nl/BWBR0048467"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 11 juli 2023, nr. OWB/39728693, houdende ophoging van het subsidieplafond van de Subsidieregeling matching Horizon Europe

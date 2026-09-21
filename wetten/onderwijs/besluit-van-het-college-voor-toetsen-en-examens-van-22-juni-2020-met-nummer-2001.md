@@ -9,7 +9,7 @@ laatste_update: 2022-03-23
 status: geldig
 toestand: 2022-03-23
 bron: "https://wetten.overheid.nl/BWBR0043863"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van het College voor Toetsen en Examens van 22 juni 2020, met nummer 20.01234, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2022 (Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2022)

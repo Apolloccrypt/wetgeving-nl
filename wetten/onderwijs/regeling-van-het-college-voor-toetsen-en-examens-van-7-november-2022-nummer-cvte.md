@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0047445"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van het College voor toetsen en examens van 7 november 2022, nummer CvTE-22.00963, houdende vaststelling van het beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen in het primair onderwijs (Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO)

@@ -8,7 +8,7 @@ laatste_update: 1993-09-01
 status: geldig
 toestand: 1993-09-01
 bron: "https://wetten.overheid.nl/BWBV0001073"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Verdrag inzake de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, ter ondertekening opengesteld te Rome op 19 juni 1980

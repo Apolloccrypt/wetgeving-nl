@@ -9,7 +9,7 @@ laatste_update: 2026-06-23
 status: geldig
 toestand: 2026-06-23
 bron: "https://wetten.overheid.nl/BWBR0052720"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de directeur-generaal Realisatie Groene Groei van het Ministerie van Economische Zaken en Klimaat van 29 mei 2026, nr. ZK-0000141808, tot verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Realisatie Groene Groei van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Realisatie Groene Groei van het Ministerie van Economische Zaken en Klimaat 2026)

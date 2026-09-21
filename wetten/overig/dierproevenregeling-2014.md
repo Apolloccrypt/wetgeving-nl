@@ -9,7 +9,7 @@ laatste_update: 2026-09-19
 status: geldig
 toestand: 2026-09-19
 bron: "https://wetten.overheid.nl/BWBR0035873"
-opgehaald: 2026-09-20
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Economische Zaken van 3 december 2014, nr. WJZ / 13149501, tot uitvoering van de Wet op de Dierproeven en het Dierproevenbesluit 2014 (Dierproevenregeling 2014)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-23
 status: geldig
 toestand: 2026-04-23
 bron: "https://wetten.overheid.nl/BWBR0052562"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van het hoofd van de Afdeling Analyse Nationale Veiligheid van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 2 april 2026, nr. 7306491, houdende verlening van ondermandaat aan het plaatsvervangend hoofd van de Afdeling Analyse Nationale Veiligheid (Mandaatbesluit Analyse Nationale Veiligheid NCTV 2026)

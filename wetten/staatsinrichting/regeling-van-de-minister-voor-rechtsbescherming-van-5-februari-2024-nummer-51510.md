@@ -9,7 +9,7 @@ laatste_update: 2024-03-01
 status: geldig
 toestand: 2024-03-01
 bron: "https://wetten.overheid.nl/BWBR0049387"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 5 februari 2024, nummer 5151002, houdende de tijdelijke aanwijzing van de (overige) zittingsplaatsen van een rechtbank als (overige) zittingsplaatsen van een andere rechtbank als bedoeld in artikel 46a van de Wet op de rechterlijke organisatie, ten behoeve van strafzaken in eerste aanleg (Tijdelijke aanwijzing rechtbank Zeeland-West-Brabant voor enkelvoudige strafzaken in eerste aanleg van de rechtbank Rotterdam)

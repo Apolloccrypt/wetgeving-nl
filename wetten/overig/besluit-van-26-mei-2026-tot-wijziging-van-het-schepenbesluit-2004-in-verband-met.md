@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052660"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 26 mei 2026 tot wijziging van het Schepenbesluit 2004 in verband met het aanpassen van bepalingen betreffende het nationaal veiligheidscertificaat en enige andere wijzigingen [KetenID WGK005819]

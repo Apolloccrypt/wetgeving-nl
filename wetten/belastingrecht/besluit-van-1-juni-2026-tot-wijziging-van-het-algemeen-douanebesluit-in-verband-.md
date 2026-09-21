@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052674"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 1 juni 2026 tot wijziging van het Algemeen douanebesluit in verband met de invoering van de Wet gegevensverstrekking douane voor de uitvoering van politie- of toezichtstaken (Besluit gegevensverstrekking douane voor uitvoering van politie- en toezichtstaken)

@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047570"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 november 2022, nr. 2022-0000231651, tot vaststelling van de premiepercentages werknemers- en volksverzekeringen, het maximumpremieloon werknemersverzekeringen en de opslag kinderopvangtoeslag voor 2023 (Regeling tot vaststelling premiepercentages werknemers- en volksverzekeringen, maximumpremieloon werknemersverzekeringen en opslag kinderopvangtoeslag 2023)

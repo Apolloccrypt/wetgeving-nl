@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052686"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 26 mei 2026, 2026-0000217318, houdende vaststelling van het Controleprotocol Wet normering topinkomens 2026 (Regeling Controleprotocol WNT 2026) [KetenID WGK028649]

@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0052773"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat, de Minister van Infrastructuur en Waterstaat, de Minister van Onderwijs, Cultuur en Wetenschap van 12 juni 2026 houdende regels inzake mandaat, volmacht en machtiging aan de directeur NLSA inzake aangelegenheden van de Netherlands Space Agency (NLSA) (Besluit mandaat, volmacht en machtiging directeur NLSA)

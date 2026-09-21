@@ -9,7 +9,7 @@ laatste_update: 2025-05-24
 status: geldig
 toestand: 2025-05-24
 bron: "https://wetten.overheid.nl/BWBR0051051"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 24 april 2025 (kenmerk 6341535/25/DP&O), houdende verlening mandaat, volmacht en machtiging aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs ten aanzien van de aangelegenheden die inburgering betreffen

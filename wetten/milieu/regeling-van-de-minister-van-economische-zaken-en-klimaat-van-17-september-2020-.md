@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0044108"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 17 september 2020, nr. WJZ/ 20210006, houdende aanwijzing van categorieën van productie-installaties voor de productie van duurzame energie en klimaattransitie in 2020

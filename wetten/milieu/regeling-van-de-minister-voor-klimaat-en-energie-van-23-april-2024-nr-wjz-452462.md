@@ -9,7 +9,7 @@ laatste_update: 2024-05-02
 status: geldig
 toestand: 2024-05-02
 bron: "https://wetten.overheid.nl/BWBR0049647"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 23 april 2024, nr. WJZ/ 45246257, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie en klimaattransitie in het jaar 2023 (Regeling vaststelling definitieve correcties duurzame energieproductie en klimaattransitie 2023)

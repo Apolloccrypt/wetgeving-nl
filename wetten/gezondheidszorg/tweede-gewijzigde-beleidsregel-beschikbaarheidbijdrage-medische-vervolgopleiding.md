@@ -8,7 +8,7 @@ laatste_update: 2026-07-09
 status: geldig
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0052811"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Tweede Gewijzigde Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2024

@@ -9,7 +9,7 @@ laatste_update: 2026-01-10
 status: geldig
 toestand: 2026-01-10
 bron: "https://wetten.overheid.nl/BWBR0052147"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Financiën van 2 januari 2026, kenmerk 2025-0000594485, tot verlening van de bevoegdheid tot aanwijzing van de kasbeheerder van het Financieel Diensten Centrum

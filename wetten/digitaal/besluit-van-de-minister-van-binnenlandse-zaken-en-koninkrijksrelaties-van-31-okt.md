@@ -9,7 +9,7 @@ laatste_update: 2025-12-10
 status: geldig
 toestand: 2025-12-10
 bron: "https://wetten.overheid.nl/BWBR0051929"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 31 oktober 2025, nr. 2025-0000034677, houdende de aanwijzing van de Functionaris voor gegevensbescherming voor de AVG en van de plaatsvervangend Functionaris voor gegevensbescherming voor de AVG bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties

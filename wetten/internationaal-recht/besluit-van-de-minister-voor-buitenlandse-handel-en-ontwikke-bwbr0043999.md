@@ -9,7 +9,7 @@ laatste_update: 2020-08-14
 status: geldig
 toestand: 2020-08-14
 bron: "https://wetten.overheid.nl/BWBR0043999"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 5 augustus 2020, Min-BuZa.2020.5612-12 tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 september 2016, tot vaststelling van beleidsregels en een subsidieplafond voor subsidieverstrekking voor activiteiten van MKB-ondernemingen gericht op de bevordering van duurzaam internationaal ondernemen (Vouchers internationaal ondernemen) en tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 18 november 2019, tot vaststelling van een subsidieplafond voor subsidieverstrekking voor activiteiten van MKB-ondernemingen gericht op de bevordering van duurzaam internationaal ondernemen (Vouchers internationaal ondernemen)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-29
 status: geldig
 toestand: 2026-04-29
 bron: "https://wetten.overheid.nl/BWBR0052572"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Langdurige Zorg, Jeugd en Sport van 17 april 2026, kenmerk 4370342-1096886-MEVA houdende regels voor de verstrekking van subsidie ter ondersteuning van zorgaanbieders in de wijkverpleging bij het opleiden en begeleiden van leerling-werknemers (Subsidieregeling Werkgeverskosten Opleiden Wijkverpleging)

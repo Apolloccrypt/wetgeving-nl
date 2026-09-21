@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052729"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 16 juni 2026, nr. 7489165, tot wijziging van de Geweldsinstructie penitentiaire inrichtingen in verband met het regelen van het gebruik van een interventiemiddel ten behoeve van het bestrijden van onbemande mobiele objecten

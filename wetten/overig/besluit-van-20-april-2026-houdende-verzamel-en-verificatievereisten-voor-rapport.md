@@ -9,7 +9,7 @@ laatste_update: 2026-04-24
 status: geldig
 toestand: 2026-04-24
 bron: "https://wetten.overheid.nl/BWBR0052571"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 20 april 2026, houdende verzamel- en verificatievereisten voor rapporterende aanbieders van cryptoactivadiensten met het oog op de automatische uitwisseling van gegevens en inlichtingen ten aanzien van inkomsten uit transacties met cryptoactiva (Uitvoeringsbesluit verzamel- en verificatievereisten voor rapporterende aanbieders van cryptoactivadiensten)

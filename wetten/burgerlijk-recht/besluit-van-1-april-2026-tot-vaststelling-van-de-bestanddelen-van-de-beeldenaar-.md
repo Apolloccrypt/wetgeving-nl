@@ -9,7 +9,7 @@ laatste_update: 2026-06-17
 status: geldig
 toestand: 2026-06-17
 bron: "https://wetten.overheid.nl/BWBR0052700"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 1 april 2026 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2026 worden uitgegeven ter gelegenheid van 25 jaar openstelling van het huwelijk

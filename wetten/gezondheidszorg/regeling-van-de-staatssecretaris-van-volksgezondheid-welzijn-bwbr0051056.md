@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0051056"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 19 mei 2025, kenmerk 4114373-1082303-WJZ, houdende aanpassing van de factoren, grondslagen en bedragen in de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2025 [KetenID WGK027861]

@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0052675"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wet van 22 april 2026 tot wijziging van de Vreemdelingenwet 2000 in verband met de introductie van een tweestatusstelsel en het aanscherpen van de vereisten bij nareis (Wet invoering tweestatusstelsel)

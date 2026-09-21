@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045389"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 7 juli 2021, nr. WJZ/ 21133744, houdende de aanwijzing van categorieën van productie-installaties voor de productie van duurzame energie en klimaattransitie in 2021 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2021)

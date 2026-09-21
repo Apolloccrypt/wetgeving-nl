@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052751"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 26 juni 2026, houdende regels inzake het mandaat ten behoeve van de uitoefening van bevoegdheden op grond van de Regeling tijdelijke bekostiging opvang en huisvesting gemeenten (Mandaat Regeling tijdelijke bekostiging opvang en huisvesting gemeenten)

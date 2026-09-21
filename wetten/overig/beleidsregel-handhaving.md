@@ -8,7 +8,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045957"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Beleidsregel Handhaving

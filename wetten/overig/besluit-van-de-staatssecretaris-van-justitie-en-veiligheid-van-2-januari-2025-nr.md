@@ -9,7 +9,7 @@ laatste_update: 2025-02-06
 status: geldig
 toestand: 2025-02-06
 bron: "https://wetten.overheid.nl/BWBR0050671"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 2 januari 2025 nr. BOACAT2024/125, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Eenheid Landelijke Expertise en Operaties of Opsporing en Interventies (Intake & Service)

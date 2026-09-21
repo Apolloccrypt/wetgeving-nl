@@ -9,7 +9,7 @@ laatste_update: 2021-07-11
 status: geldig
 toestand: 2021-07-11
 bron: "https://wetten.overheid.nl/BWBR0045383"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 28 juni 2021, nr. 3379041, houdende een specifieke uitkering voor gemeenten in verband met de versterking van de lokale integrale aanpak van radicalisering, (gewelddadig) extremisme en terrorisme in 2022

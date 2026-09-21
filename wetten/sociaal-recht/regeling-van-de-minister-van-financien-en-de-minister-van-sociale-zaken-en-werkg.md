@@ -9,7 +9,7 @@ laatste_update: 2026-06-16
 status: geldig
 toestand: 2026-06-16
 bron: "https://wetten.overheid.nl/BWBR0052701"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid, van 31 mei 2026, kenmerk 2026-0000226567, directie Financiële Markten, tot vaststelling van de bandbreedtes en tarieven, bedoeld in artikel 9, eerste lid, van het Besluit bekostiging financieel toezicht 2019, voor het jaar 2026 en tot indexatie van de tarieven voor eenmalige handelingen bij De Nederlandsche Bank (Regeling bekostiging financieel toezicht 2026)

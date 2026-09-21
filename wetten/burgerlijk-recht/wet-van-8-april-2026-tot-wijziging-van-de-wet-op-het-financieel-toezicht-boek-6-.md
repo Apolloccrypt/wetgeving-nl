@@ -9,7 +9,7 @@ laatste_update: 2026-06-25
 status: geldig
 toestand: 2026-06-25
 bron: "https://wetten.overheid.nl/BWBR0052728"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wet van 8 april 2026 tot wijziging van de Wet op het financieel toezicht, Boek 6 van het Burgerlijk Wetboek en de Wet handhaving consumentenbescherming ter implementatie van Richtlijn (EU) 2023/2673 tot wijziging van Richtlijn 2011/83/EU wat betreft op afstand gesloten overeenkomsten inzake financiële diensten, en tot intrekking van Richtlijn 2002/65/EG (Implementatiewet richtlijn op afstand gesloten overeenkomsten inzake financiële diensten)

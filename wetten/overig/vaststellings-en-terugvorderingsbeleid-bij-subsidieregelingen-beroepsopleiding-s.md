@@ -8,7 +8,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0052767"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Vaststellings- en terugvorderingsbeleid bij Subsidieregelingen beroepsopleiding sociaal advocaten

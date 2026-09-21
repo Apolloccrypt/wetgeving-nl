@@ -9,7 +9,7 @@ laatste_update: 2026-05-30
 status: geldig
 toestand: 2026-05-30
 bron: "https://wetten.overheid.nl/BWBR0052653"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Beleidsregel van de Minister van Klimaat en Groene Groei van 25 mei 2026, nr. IENW/BSK-2026/87781, tot vaststelling van de kostenaandelen zwerfafval per kunststofproductsoort, de bijdragen per eenheid kunststofproduct, de wegingsfactoren per overheidsorganisatie en de kosten per gebiedskenmerk als bedoeld in de artikelen 3.1 en 3.2 van de Regeling kunststofproducten voor eenmalig gebruik over 2025 (Beleidsregel artikelen 3.1 en 3.2 Regeling kunststofproducten voor eenmalig gebruik 2025)

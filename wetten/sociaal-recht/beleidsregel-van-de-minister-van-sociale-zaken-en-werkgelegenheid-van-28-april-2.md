@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052603"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 28 april 2026, nr. 2026-0000126313 inhoudende de aanwijzing van inspectie-instellingen (Beleidsregel aanwijzing inspectie-instellingen Wtta)

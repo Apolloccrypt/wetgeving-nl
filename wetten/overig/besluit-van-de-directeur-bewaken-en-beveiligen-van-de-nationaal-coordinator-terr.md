@@ -9,7 +9,7 @@ laatste_update: 2026-04-22
 status: geldig
 toestand: 2026-04-22
 bron: "https://wetten.overheid.nl/BWBR0052558"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de directeur Bewaken en Beveiligen van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 2 april 2026, nr. 7306488, houdende verlening van ondermandaat aan de onder de directeur ressorterende ambtenaren (Mandaatbesluit Bewaken en Beveiligen NCTV 2026)

@@ -9,7 +9,7 @@ laatste_update: 2021-03-01
 status: geldig
 toestand: 2021-03-01
 bron: "https://wetten.overheid.nl/BWBR0044829"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 februari 2021, nr. PAV/ 21034166, tot aanwijzing van nationale referentielaboratoria als bedoeld in artikel 100, eerste lid, Verordening (EU) 2017/625

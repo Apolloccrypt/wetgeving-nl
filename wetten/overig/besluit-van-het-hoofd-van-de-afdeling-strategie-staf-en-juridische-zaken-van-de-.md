@@ -9,7 +9,7 @@ laatste_update: 2026-04-23
 status: geldig
 toestand: 2026-04-23
 bron: "https://wetten.overheid.nl/BWBR0052560"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van het hoofd van de Afdeling Strategie, Staf en Juridische Zaken van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 2 april 2026, nr. 7306454, houdende verlening van ondermandaat aan het plaatsvervangend hoofd van de Afdeling Strategie, Staf en Juridische Zaken (Mandaatbesluit Strategie, Staf en Juridische Zaken NCTV 2026)

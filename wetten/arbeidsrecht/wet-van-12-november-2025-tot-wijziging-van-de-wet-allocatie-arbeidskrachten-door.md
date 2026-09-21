@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0051817"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wet van 12 november 2025 tot wijziging van de Wet allocatie arbeidskrachten door intermediairs en enige andere wetten in verband met de invoering van regels voor het verlenen van toelating voor het ter beschikking stellen van arbeidskrachten (Wet toelating terbeschikkingstelling van arbeidskrachten)

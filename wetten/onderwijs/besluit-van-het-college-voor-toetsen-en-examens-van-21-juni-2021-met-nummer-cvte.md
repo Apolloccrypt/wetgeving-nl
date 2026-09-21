@@ -9,7 +9,7 @@ laatste_update: 2023-01-26
 status: geldig
 toestand: 2023-01-26
 bron: "https://wetten.overheid.nl/BWBR0045344"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van het College voor Toetsen en Examens van 21 juni 2021, met nummer CvTE-21.00867, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2023 (Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2023)

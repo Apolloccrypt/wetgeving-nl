@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0052697"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 5 juni 2026 tot wijziging van het Vreemdelingenbesluit 2000, het Uitvoeringsbesluit EU-verordeningen grenzen en veiligheid en enkele andere besluiten in verband met de uitvoering en implementatie van het EU-Asiel- en migratiepact 2026 (Uitvoerings- en implementatiebesluit Asiel- en migratiepact 2026) [KetenID WGK027630]

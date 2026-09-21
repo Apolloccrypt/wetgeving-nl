@@ -9,7 +9,7 @@ laatste_update: 2023-07-13
 status: geldig
 toestand: 2023-07-13
 bron: "https://wetten.overheid.nl/BWBR0048386"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 9 juni 2023, nr. 2023-0000233662, tot vaststelling van de bedragen per eenheid voor de algemene uitkering uit het provinciefonds voor het uitkeringsjaar 2020

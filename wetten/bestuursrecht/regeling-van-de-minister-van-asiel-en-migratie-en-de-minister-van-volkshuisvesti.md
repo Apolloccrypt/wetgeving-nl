@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052748"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Asiel en Migratie en de Minister van Volkshuisvesting en Ruimtelijke Ordening van 25 juni 2026, nummer 7217396, houdende de verstrekking van een specifieke uitkering voor gemeenten in verband met de tijdelijke bekostiging van opvang van asielzoekers en ontheemden en huisvesting van vergunninghouders, inclusief waar van toepassing verstrekkingen aan deze groepen (Regeling tijdelijke bekostiging opvang en huisvesting gemeenten)

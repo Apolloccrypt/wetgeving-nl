@@ -9,7 +9,7 @@ laatste_update: 2023-10-19
 status: geldig
 toestand: 2023-10-19
 bron: "https://wetten.overheid.nl/BWBR0045376"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van het Stimuleringsfonds voor de journalistiek van 1 januari 2021, nr. Wb2021, tot vaststelling van een tijdelijke subsidieregeling voor vergroting van weerbaarheid van journalisten

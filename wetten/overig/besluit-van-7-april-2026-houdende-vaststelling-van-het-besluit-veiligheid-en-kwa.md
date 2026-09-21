@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052544"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 7 april 2026, houdende vaststelling van het Besluit veiligheid en kwaliteit lichaamsmateriaal en wijziging van enkele andere regelingen in verband met onduidelijkheden in de wet- en regelgeving rondom transplantatie van lichaamsmaterialen (Besluit veiligheid en kwaliteit lichaamsmateriaal) [KetenID WGK027378]

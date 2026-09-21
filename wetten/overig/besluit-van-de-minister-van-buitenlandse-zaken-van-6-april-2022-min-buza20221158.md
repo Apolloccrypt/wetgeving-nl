@@ -9,7 +9,7 @@ laatste_update: 2022-04-27
 status: geldig
 toestand: 2022-04-27
 bron: "https://wetten.overheid.nl/BWBR0046594"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 6 april 2022, Min-BuZa.2022.11583-35, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Safety for Voices)

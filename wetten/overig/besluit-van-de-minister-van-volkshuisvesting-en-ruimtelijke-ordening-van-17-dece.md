@@ -9,7 +9,7 @@ laatste_update: 2026-02-04
 status: geldig
 toestand: 2026-02-04
 bron: "https://wetten.overheid.nl/BWBR0052248"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 17 december 2025, kenmerk 2025-0000697224 tot verlening van de bevoegdheid tot aanwijzing van de kasbeheerder van het Financieel Diensten Centrum

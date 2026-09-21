@@ -9,7 +9,7 @@ laatste_update: 2026-07-03
 status: geldig
 toestand: 2026-07-03
 bron: "https://wetten.overheid.nl/BWBR0052762"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Aanwijzing van de Minister van Langdurige Zorg, Jeugd en Sport van 30 juni 2026, kenmerk 4393759-1099406-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg, inzake het terugdraaien van de verwerking van de tariefmaatregel meerjarige contracten met budgetafspraken sectoren gehandicaptenzorg en langdurige ggz (2027)

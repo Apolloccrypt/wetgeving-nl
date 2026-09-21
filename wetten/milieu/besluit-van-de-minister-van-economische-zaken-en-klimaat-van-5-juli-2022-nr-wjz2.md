@@ -9,7 +9,7 @@ laatste_update: 2022-12-21
 status: geldig
 toestand: 2022-12-21
 bron: "https://wetten.overheid.nl/BWBR0046923"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 5 juli 2022, nr. WJZ/22232552, houdende aanwijzing van de beheerautoriteit en de auditautoriteit voor het Programma EFRO 2021-2027 Noord-Nederland

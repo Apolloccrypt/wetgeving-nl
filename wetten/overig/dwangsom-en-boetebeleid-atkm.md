@@ -8,7 +8,7 @@ laatste_update: 2026-06-18
 status: geldig
 toestand: 2026-06-18
 bron: "https://wetten.overheid.nl/BWBR0052702"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Dwangsom- en boetebeleid ATKM

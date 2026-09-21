@@ -9,7 +9,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0052766"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, van 25 juni 2026, kenmerk DGNV/106047837, houdende vaststelling van een vergoeding voor de leden van de Adviescommissie Nationale Parken

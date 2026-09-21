@@ -9,7 +9,7 @@ laatste_update: 2026-04-23
 status: geldig
 toestand: 2026-04-23
 bron: "https://wetten.overheid.nl/BWBR0052561"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van het hoofd van de Afdeling Weerbaarheid Statelijke Dreigingen van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 2 april 2026, nr. 7306489, houdende verlening van ondermandaat aan het plaatsvervangend hoofd van de Afdeling Weerbaarheid Statelijke Dreigingen (Mandaatbesluit Weerbaarheid Statelijke Dreigingen NCTV 2026)

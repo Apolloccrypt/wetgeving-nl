@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051786"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit inwilliging AVV-verzoek Programma Onderzoek en Innovatie Kennis in je kas 2026–2027 brancheorganisatie Sierteeltproducten

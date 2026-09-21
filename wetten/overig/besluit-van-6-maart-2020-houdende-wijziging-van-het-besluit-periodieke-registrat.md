@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043329"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 6 maart 2020, houdende wijziging van het Besluit periodieke registratie Wet BIG in verband met de periodieke registratie van physician assistants

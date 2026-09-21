@@ -8,7 +8,7 @@ laatste_update: 1996-10-15
 status: geldig
 toestand: 1996-10-15
 bron: "https://wetten.overheid.nl/BWBV0001083"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Overeenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië

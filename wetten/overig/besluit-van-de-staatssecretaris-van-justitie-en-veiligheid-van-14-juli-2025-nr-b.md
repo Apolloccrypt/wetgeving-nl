@@ -9,7 +9,7 @@ laatste_update: 2025-09-26
 status: geldig
 toestand: 2025-09-26
 bron: "https://wetten.overheid.nl/BWBR0051299"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 14 juli 2025 nr. BOACAT2025/134, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij RET N.V., afdeling Veiligheid

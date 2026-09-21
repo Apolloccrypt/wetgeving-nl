@@ -9,7 +9,7 @@ laatste_update: 2026-06-02
 status: geldig
 toestand: 2026-06-02
 bron: "https://wetten.overheid.nl/BWBR0052661"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 16 mei 2026, nr. HO&S/51519537, houdende regels voor de bepaling van de hoogte van bestuurlijke boetes (Beleidsregel bestuurlijke boetes WHW, WEB en Wet NLQF)

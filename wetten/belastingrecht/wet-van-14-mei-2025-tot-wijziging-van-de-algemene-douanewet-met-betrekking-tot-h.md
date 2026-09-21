@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0051066"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wet van 14 mei 2025 tot wijziging van de Algemene douanewet met betrekking tot het creëren van een wettelijke grondslag voor het verstrekken van gegevens door de inspecteur aan de politie, de Koninklijke Marechaussee, de Financiële inlichtingen eenheid en de Belastingdienst/Fiscale inlichtingen- en opsporingsdienst, ten behoeve van de uitvoering van politie- of toezichtstaken (Wet gegevensverstrekking douane voor uitvoering politie- of toezichtstaken)

@@ -9,7 +9,7 @@ laatste_update: 2026-04-22
 status: geldig
 toestand: 2026-04-22
 bron: "https://wetten.overheid.nl/BWBR0052555"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de directeur Nationale Crisisbeheersing van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 2 april 2026, nr. 7306494, houdende verlening van ondermandaat aan de onder de directeur Contraterrorisme, Beveiliging Burgerluchtvaart en Bedrijfsvoering ressorterende ambtenaren (Mandaatbesluit Contraterrorisme, Beveiliging Burgerluchtvaart en Bedrijfsvoering NCTV 2026)

@@ -8,7 +8,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0050046"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit wijziging subsidieplafonds categorieën I en III ex Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2025–2028 (verdeling flexibele budget en volledige honorering van enkele dossiers)

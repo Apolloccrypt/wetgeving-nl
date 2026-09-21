@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0052798"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Kiesraad van 29 juni 2026 houdende de aanwijzing van elektronische kanalen voor het verzenden van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen Kiesraad 2026)

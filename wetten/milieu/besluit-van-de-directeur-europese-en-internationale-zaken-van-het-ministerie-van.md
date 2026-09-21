@@ -9,7 +9,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0052770"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de directeur Europese en Internationale Zaken van het Ministerie van Economische Zaken en Klimaat tot verlening van ondermandaat, volmacht en machtiging voor de directie Europese en Internationale Zaken van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Europese en Internationale Zaken van het Ministerie van Economische Zaken en Klimaat 2026)

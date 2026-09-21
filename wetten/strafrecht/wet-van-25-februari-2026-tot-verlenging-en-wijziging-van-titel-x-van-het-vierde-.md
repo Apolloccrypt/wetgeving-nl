@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052405"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wet van 25 februari 2026 tot verlenging en wijziging van Titel X van het Vierde Boek van het Wetboek van Strafvordering (Verlengingswet Innovatiewet Strafvordering)

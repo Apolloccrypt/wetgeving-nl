@@ -9,7 +9,7 @@ laatste_update: 2024-07-06
 status: geldig
 toestand: 2024-07-06
 bron: "https://wetten.overheid.nl/BWBR0049192"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 15 december 2023, nr. PO/43180580, houdende regels voor het verstrekken van aanvullende bekostiging voor onbedoelde effecten van het overgangsrecht van de vereenvoudiging van de bekostiging voor het primair onderwijs (Regeling aanvullende bekostiging bij overgangsrecht vereenvoudiging bekostiging po)

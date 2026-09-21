@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-17
 toestand: 2019-07-06
 bron: "https://wetten.overheid.nl/BWBR0042380"
-opgehaald: 2026-09-20
+opgehaald: 2026-09-21
 ---
 
 # Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 juli 2019, houdende beleidsregels voor de beoordeling van aanmeldingen in het kader van de Regeling uitvoering Crisis- en herstelwet (Beleidsregel aanmeldingen Regeling uitvoering Crisis- en herstelwet)

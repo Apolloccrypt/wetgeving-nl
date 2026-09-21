@@ -9,7 +9,7 @@ laatste_update: 2022-08-03
 status: geldig
 toestand: 2022-08-03
 bron: "https://wetten.overheid.nl/BWBR0047022"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 25 mei 2022 houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Zweden, Ambassade Stockholm (1949) 1975-2012, Besluit Beperking Openbaarheid, Stockholm (1975-2012)

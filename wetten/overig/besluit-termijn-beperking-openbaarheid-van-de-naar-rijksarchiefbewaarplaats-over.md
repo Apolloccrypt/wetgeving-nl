@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052760"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit termijn beperking openbaarheid van de naar rijksarchiefbewaarplaats over te brengen dossiers archief Samen Veilig Midden-Nederland, 1995-2005 (nummer toegang 2.09.178)

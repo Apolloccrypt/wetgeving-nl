@@ -9,7 +9,7 @@ laatste_update: 2023-11-25
 status: geldig
 toestand: 2023-11-25
 bron: "https://wetten.overheid.nl/BWBR0048352"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 23 juni 2023, nr. Min-BuZa.2023.15586-32, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Migration and Displacement 2023–2028)

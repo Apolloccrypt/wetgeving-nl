@@ -9,7 +9,7 @@ laatste_update: 2026-06-23
 status: geldig
 toestand: 2026-06-23
 bron: "https://wetten.overheid.nl/BWBR0052722"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 18 mei 2026, houdende aanvulling van opschriften in vaandel Regiment Genietroepen met «Dordrecht 1940»

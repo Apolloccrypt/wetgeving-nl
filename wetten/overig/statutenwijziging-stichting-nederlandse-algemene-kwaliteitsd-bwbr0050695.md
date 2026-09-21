@@ -8,7 +8,7 @@ laatste_update: 2025-01-23
 status: geldig
 toestand: 2025-01-23
 bron: "https://wetten.overheid.nl/BWBR0050695"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Statutenwijziging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw

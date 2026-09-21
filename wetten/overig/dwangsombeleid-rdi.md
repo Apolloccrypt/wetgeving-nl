@@ -8,7 +8,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0052801"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Dwangsombeleid RDI

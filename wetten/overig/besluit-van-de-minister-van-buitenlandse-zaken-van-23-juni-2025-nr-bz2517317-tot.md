@@ -9,7 +9,7 @@ laatste_update: 2025-07-04
 status: geldig
 toestand: 2025-07-04
 bron: "https://wetten.overheid.nl/BWBR0051183"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 23 juni 2025, nr. BZ2517317, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Optopping Versterking van de Humanitaire Sector 2024–2027)

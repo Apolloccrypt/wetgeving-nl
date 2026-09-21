@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044430"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 23 november 2020, nr. 3094038, tot indexering van bedragen in de Algemene wet bestuursrecht, het Besluit proceskosten bestuursrecht, de Wet griffierechten burgerlijke zaken en de Wet op het hoger onderwijs en wetenschappelijk onderzoek

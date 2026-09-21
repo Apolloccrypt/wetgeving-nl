@@ -9,7 +9,7 @@ laatste_update: 2026-06-19
 status: geldig
 toestand: 2026-06-19
 bron: "https://wetten.overheid.nl/BWBR0052704"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 11 juni 2026, nr. PO/FenV/63772240, tot het verstrekken van aanvullende bekostiging naar aanleiding van de gedeeltelijke onverbindendverklaring van de Regeling bekostiging personeel PO 2022–2023 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2022–2023 (Regeling nabetaling bekostiging schooljaar 2022–2023)

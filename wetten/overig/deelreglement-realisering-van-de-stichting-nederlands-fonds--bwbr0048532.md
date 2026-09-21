@@ -8,7 +8,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0048532"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film

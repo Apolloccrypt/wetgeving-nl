@@ -9,7 +9,7 @@ laatste_update: 2021-06-29
 status: geldig
 toestand: 2021-06-29
 bron: "https://wetten.overheid.nl/BWBR0045288"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit beperking openbaarheid met betrekking op het archief van de hoofdingenieur-directeur Landinrichting, Grond- en Bosbeheer in Drenthe van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, (1958) 1972–1983 (1995) Inventaris 0927

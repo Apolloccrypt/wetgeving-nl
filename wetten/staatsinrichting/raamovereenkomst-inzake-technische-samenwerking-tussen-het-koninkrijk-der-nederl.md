@@ -8,7 +8,7 @@ laatste_update: 1994-02-21
 status: geldig
 toestand: 1994-02-21
 bron: "https://wetten.overheid.nl/BWBV0001050"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Raamovereenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Honduras

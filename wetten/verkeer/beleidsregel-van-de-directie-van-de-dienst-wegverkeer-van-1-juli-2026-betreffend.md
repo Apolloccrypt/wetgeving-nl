@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052758"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Beleidsregel van de directie van de Dienst Wegverkeer van 1 juli 2026 betreffende de verlening van nationale typegoedkeuring en individuele goedkeuring van mobiele machines (Beleidsregel nationale goedkeuring mobiele machines 2026)

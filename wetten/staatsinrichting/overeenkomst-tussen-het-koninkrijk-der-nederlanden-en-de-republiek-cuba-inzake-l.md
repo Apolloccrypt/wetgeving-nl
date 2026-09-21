@@ -8,7 +8,7 @@ laatste_update: 1996-11-24
 status: geldig
 toestand: 1996-11-24
 bron: "https://wetten.overheid.nl/BWBV0001072"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Cuba inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

@@ -9,7 +9,7 @@ laatste_update: 2022-08-08
 status: geldig
 toestand: 2022-08-08
 bron: "https://wetten.overheid.nl/BWBR0047040"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 26 juli 2022 nr. 4000005646, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Fonds Product Development Partnerships IV)

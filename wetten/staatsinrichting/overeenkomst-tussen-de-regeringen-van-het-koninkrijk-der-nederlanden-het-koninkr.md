@@ -7,7 +7,7 @@ laatste_update: 1992-11-16
 status: geldig
 toestand: 1992-11-16
 bron: "https://wetten.overheid.nl/BWBV0001062"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Overeenkomst tussen de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de Regering van de Republiek Slovenië, anderzijds, betreffende de overname van onregelmatig binnengekomen of verblijvende personen

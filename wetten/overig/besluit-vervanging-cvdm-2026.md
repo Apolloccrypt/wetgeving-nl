@@ -8,7 +8,7 @@ laatste_update: 2026-06-27
 status: geldig
 toestand: 2026-06-27
 bron: "https://wetten.overheid.nl/BWBR0052730"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit vervanging CvdM 2026

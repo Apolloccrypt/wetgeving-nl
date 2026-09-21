@@ -9,7 +9,7 @@ laatste_update: 2026-06-17
 status: geldig
 toestand: 2026-06-17
 bron: "https://wetten.overheid.nl/BWBR0052699"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en Volkshuisvesting en Ruimtelijke Ordening van 8 juni 2026, houdende regels inzake het mandaat ten behoeve van de behandeling en afhandeling van het Woo-verzoek uitvoeringsdata aardgaswinningsgerelateerde regelingen (Mandaatbesluit Woo-verzoek uitvoeringsdata aardgaswinningsgerelateerde regelingen)

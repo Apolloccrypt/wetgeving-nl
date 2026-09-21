@@ -8,7 +8,7 @@ laatste_update: 2024-07-05
 status: geldig
 toestand: 2024-07-05
 bron: "https://wetten.overheid.nl/BWBR0049924"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit projectsubsidies ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem in het kader van de Bibliotheek op school’, Koninklijke Bibliotheek 2025

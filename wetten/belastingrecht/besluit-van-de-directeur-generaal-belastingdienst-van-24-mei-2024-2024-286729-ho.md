@@ -9,7 +9,7 @@ laatste_update: 2024-06-14
 status: geldig
 toestand: 2024-06-14
 bron: "https://wetten.overheid.nl/BWBR0049804"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de directeur-generaal Belastingdienst van 24 mei 2024 (2024-286729) houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de algemeen directeur FIOD (Besluit van de directeur-generaal Belastingdienst houdende de verlening van mandaat, volmacht en machtiging op grond van de Wet politiegegevens aan de algemeen directeur FIOD)

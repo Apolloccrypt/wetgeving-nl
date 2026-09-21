@@ -9,7 +9,7 @@ laatste_update: 2022-04-08
 status: geldig
 toestand: 2022-04-08
 bron: "https://wetten.overheid.nl/BWBR0046528"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 5 april 2022, nr. WJZ/ 22098870, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie en klimaattransitie in het jaar 2021 (Regeling vaststelling definitieve correcties duurzame energieproductie en klimaattransitie 2021)

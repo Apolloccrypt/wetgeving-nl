@@ -9,7 +9,7 @@ laatste_update: 2026-04-25
 status: geldig
 toestand: 2026-04-25
 bron: "https://wetten.overheid.nl/BWBR0052568"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de programmadirecteur Klaar voor de Toekomst van het Ministerie van Economische Zaken en Klimaat van 21 april 2026, nr. EZ/KvdT 105842089, tot verlening van ondermandaat, volmacht en machtiging voor de programmadirectie Klaar voor de Toekomst van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de programmadirectie Klaar voor de Toekomst van het Ministerie van Economische Zaken en Klimaat 2026)

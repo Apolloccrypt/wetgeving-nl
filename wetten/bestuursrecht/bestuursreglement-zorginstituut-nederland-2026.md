@@ -8,7 +8,7 @@ laatste_update: 2026-07-02
 status: geldig
 toestand: 2026-07-02
 bron: "https://wetten.overheid.nl/BWBR0052761"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Bestuursreglement Zorginstituut Nederland 2026

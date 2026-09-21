@@ -8,7 +8,7 @@ laatste_update: 2006-05-01
 status: geldig
 toestand: 2006-05-01
 bron: "https://wetten.overheid.nl/BWBV0001041"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

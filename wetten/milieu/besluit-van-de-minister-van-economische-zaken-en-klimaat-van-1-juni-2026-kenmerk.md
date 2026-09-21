@@ -9,7 +9,7 @@ laatste_update: 2026-06-09
 status: geldig
 toestand: 2026-06-09
 bron: "https://wetten.overheid.nl/BWBR0052678"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 1 juni 2026, kenmerk WJZ / 106390187, houdende benoeming en vergoeding van Speciaal Vertegenwoordiger Grondstoffenstrategie

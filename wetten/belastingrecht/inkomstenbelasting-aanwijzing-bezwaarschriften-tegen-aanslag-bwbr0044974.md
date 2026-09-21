@@ -8,7 +8,7 @@ laatste_update: 2021-03-26
 status: geldig
 toestand: 2021-03-26
 bron: "https://wetten.overheid.nl/BWBR0044974"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Inkomstenbelasting, aanwijzing bezwaarschriften tegen aanslagen inkomstenbelasting 2020 als massaal bezwaar

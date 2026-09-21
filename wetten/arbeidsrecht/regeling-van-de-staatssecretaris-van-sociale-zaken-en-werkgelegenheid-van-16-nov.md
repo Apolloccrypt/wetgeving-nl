@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0046020"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 16 november 2021, 2021-169224, tot wijziging van bedragen en vaststelling van percentages en bedragen ten gevolge van de consumentenprijsindexcijfers voor 2022 voor Caribisch Nederland en tot vaststelling van de premiepercentages voor de werknemersverzekeringen en volksverzekeringen BES

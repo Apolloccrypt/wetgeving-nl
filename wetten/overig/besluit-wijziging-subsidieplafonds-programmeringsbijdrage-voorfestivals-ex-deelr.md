@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0050064"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit wijziging subsidieplafonds programmeringsbijdrage voorfestivals ex Deelregeling meerjarige festivalsubsidies Fonds Podiumkunsten 2025–2028 herverdeling resterend budget

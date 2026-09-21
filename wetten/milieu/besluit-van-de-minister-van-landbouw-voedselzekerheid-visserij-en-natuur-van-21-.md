@@ -9,7 +9,7 @@ laatste_update: 2024-09-07
 status: geldig
 toestand: 2024-09-07
 bron: "https://wetten.overheid.nl/BWBR0050192"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Landbouw, Voedselzekerheid, Visserij en Natuur van 21 augustus 2024, nr. DGA / 86375273 ter bevestiging van het tekort biologische eiwithoudende diervoeders voor pluimvee en varkens in 2022 en 2023

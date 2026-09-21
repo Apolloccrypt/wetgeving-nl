@@ -9,7 +9,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0051671"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 16 oktober 2025, houdende regels voor erkenningen voor specifieke handelingen als bedoeld in artikel 4aud, eerste lid, van de Wegenverkeerswet 1994 (Besluit erkenningen wegverkeer) [KetenID WGK 026562]

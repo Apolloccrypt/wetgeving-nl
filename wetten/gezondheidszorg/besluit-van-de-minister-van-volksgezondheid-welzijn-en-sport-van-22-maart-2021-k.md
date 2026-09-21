@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0044996"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 maart 2021, kenmerk 1837727-219185-CZ, houdende verlening van mandaat en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de ondersteuning van de wijkverpleging 2021–2022 (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Subsidieregeling)

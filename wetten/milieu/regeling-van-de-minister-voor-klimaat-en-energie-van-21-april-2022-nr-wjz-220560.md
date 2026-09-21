@@ -9,7 +9,7 @@ laatste_update: 2022-06-28
 status: geldig
 toestand: 2022-06-28
 bron: "https://wetten.overheid.nl/BWBR0046631"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 21 april 2022, nr. WJZ/ 22056038, houdende aanwijzing categorieën van productie-installaties voor de productie van duurzame energieproductie en klimaattransitie in 2022 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2022)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0052681"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Asiel en Migratie van 1 juni 2026, nummer 7556849, tot wijziging van het Voorschrift Vreemdelingen 2000 in verband met het Asiel- en migratiepact 2026 (tweehonderdeneerste wijziging)

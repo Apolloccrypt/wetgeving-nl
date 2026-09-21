@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0050220"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 19 september 2024, nr. 2024-0000114196, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het opstellen en uitvoeren van woondeals derde tranche (Regeling specifieke uitkering ten behoeve van het opstellen en uitvoeren van woondeals derde tranche)

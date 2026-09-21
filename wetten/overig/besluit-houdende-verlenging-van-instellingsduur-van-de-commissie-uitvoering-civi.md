@@ -9,7 +9,7 @@ laatste_update: 2022-01-18
 status: geldig
 toestand: 2022-01-18
 bron: "https://wetten.overheid.nl/BWBR0046212"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit houdende verlenging van instellingsduur van de Commissie Uitvoering civielrechtelijke regeling Srebrenica

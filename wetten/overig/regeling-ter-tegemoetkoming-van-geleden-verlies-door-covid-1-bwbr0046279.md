@@ -8,7 +8,7 @@ laatste_update: 2022-02-07
 status: geldig
 toestand: 2022-02-07
 bron: "https://wetten.overheid.nl/BWBR0046279"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling ter tegemoetkoming van geleden verlies door COVID-19-maatregelen bij concerten en voorstellingen in de periode van 28 november 2021 tot en met januari 2022

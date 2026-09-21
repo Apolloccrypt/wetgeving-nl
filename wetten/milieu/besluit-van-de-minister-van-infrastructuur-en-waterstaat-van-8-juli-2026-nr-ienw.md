@@ -9,7 +9,7 @@ laatste_update: 2026-07-09
 status: geldig
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0052810"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 8 juli 2026, nr. IENW/BSK-2026/120516, houdende vaststelling tot geheimverklaring van de opdracht voor de operatie en het onderhoud van het nieuwe regeringsvliegtuig, inclusief de initiële levering, inbouw en afbouw van de ‘outfitting’

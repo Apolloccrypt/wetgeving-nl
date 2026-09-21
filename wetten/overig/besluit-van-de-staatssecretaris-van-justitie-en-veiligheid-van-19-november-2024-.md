@@ -9,7 +9,7 @@ laatste_update: 2024-12-31
 status: geldig
 toestand: 2024-12-31
 bron: "https://wetten.overheid.nl/BWBR0050470"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 19 november 2024, kenmerk 5915620, inzake het openstellen van de tijdelijke maatregelen in verband met het verlichten van capaciteitsproblemen binnen het gevangeniswezen

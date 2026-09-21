@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052715"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 15 juni 2026, kenmerk 4390421-1099194 GMT, houdende vaststelling van als gelijkwaardig erkende opleidingen voor het werken als verantwoordelijk persoon in een weefselinstelling (Regeling gelijkwaardig erkende opleidingen Besluit veiligheid en kwaliteit lichaamsmateriaal) [KetenID WGK029213]

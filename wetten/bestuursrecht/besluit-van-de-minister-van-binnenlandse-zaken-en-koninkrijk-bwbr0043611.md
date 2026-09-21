@@ -9,7 +9,7 @@ laatste_update: 2020-06-09
 status: geldig
 toestand: 2020-06-09
 bron: "https://wetten.overheid.nl/BWBR0043611"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën van 6 april 2020, nr. 2020-0000165029, tot vaststelling van de bedragen per eenheid voor de algemene uitkering uit het gemeentefonds voor het uitkeringsjaar 2018

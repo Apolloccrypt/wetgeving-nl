@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052752"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 29 juni 2026, houdende wijziging van het Besluit kwaliteit leefomgeving en Besluit activiteiten leefomgeving in verband met actualisatie van de Beleidslijn grote rivieren (Besluit actualisatie Beleidslijn grote rivieren) [KetenID WGK026689]

@@ -7,7 +7,7 @@ laatste_update: 2012-09-20
 status: geldig
 toestand: 2012-09-20
 bron: "https://wetten.overheid.nl/BWBV0007125"
-opgehaald: 2026-09-20
+opgehaald: 2026-09-21
 ---
 
 # Vierde Aanvullend Protocol bij het Europees Verdrag betreffende uitlevering

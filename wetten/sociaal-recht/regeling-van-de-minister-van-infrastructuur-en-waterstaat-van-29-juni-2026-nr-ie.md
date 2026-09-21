@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052750"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 29 juni 2026, nr. IENW/BSK-2026/97126, houdende tijdelijke regels voor verstrekking van specifieke uitkeringen voor bovenplanse infrastructurele voorzieningen om woningbouw te realiseren (Tijdelijke regeling specifieke uitkering woningbouw en mobiliteit) [KetenID WGK 028435]

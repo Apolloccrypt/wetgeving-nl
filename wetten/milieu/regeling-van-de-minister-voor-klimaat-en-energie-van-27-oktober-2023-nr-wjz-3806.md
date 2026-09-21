@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0048830"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 27 oktober 2023, nr. WJZ/ 38060424, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie en klimaattransitie 2024 (Regeling vaststelling voorschotverlening duurzame energieproductie en klimaattransitie 2024)

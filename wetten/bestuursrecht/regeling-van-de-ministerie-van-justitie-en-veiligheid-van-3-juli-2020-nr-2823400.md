@@ -9,7 +9,7 @@ laatste_update: 2020-08-01
 status: geldig
 toestand: 2020-08-01
 bron: "https://wetten.overheid.nl/BWBR0043974"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Ministerie van Justitie en Veiligheid van 3 juli 2020, nr. 2823400, houdende een specifieke uitkering voor gemeenten in verband met de versterking van de lokale integrale aanpak van radicalisering, (gewelddadig) extremisme en terrorisme in 2021

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050449"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 8 november 2024, nr. 5868220, tot indexering van bedragen in de Algemene wet bestuursrecht, het Besluit proceskosten bestuursrecht en de Wet griffierechten burgerlijke zaken

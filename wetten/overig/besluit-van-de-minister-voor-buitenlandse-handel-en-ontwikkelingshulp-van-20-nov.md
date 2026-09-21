@@ -9,7 +9,7 @@ laatste_update: 2024-12-03
 status: geldig
 toestand: 2024-12-03
 bron: "https://wetten.overheid.nl/BWBR0050490"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 20 november 2024, BZ.22408105, tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 en tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 19 juli 2024, nr.BZ2403369, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Tweede openstelling, subsidieplafond en wijziging beleidsregels Subsidieprogramma Verantwoord Ondernemen)

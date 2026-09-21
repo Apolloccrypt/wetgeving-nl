@@ -8,7 +8,7 @@ laatste_update: 2016-05-21
 status: geldig
 toestand: 2016-05-21
 bron: "https://wetten.overheid.nl/BWBV0001084"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Hong Kong inzake de overlevering van voortvluchtige delinkwenten

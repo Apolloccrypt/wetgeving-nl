@@ -9,7 +9,7 @@ laatste_update: 2023-06-07
 status: geldig
 toestand: 2023-06-07
 bron: "https://wetten.overheid.nl/BWBR0048237"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 15 mei 2023, nr. 2023-0000236209, houdende aanpassing van de subsidiebedragen in de Wet financiering politieke partijen voor het jaar 2022

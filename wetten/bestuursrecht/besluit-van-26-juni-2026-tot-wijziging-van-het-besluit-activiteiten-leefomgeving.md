@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052756"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 26 juni 2026 tot wijziging van het Besluit activiteiten leefomgeving, het Besluit kwaliteit leefomgeving, het Omgevingsbesluit, het Invoeringsbesluit Omgevingswet, het Besluit bodemkwaliteit en het Drinkwaterbesluit (Verzamelbesluit Omgevingswet IENW bodem en water 2026)

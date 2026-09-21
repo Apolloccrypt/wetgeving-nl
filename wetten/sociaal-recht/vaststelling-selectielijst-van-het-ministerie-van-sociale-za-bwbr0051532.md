@@ -8,7 +8,7 @@ laatste_update: 2025-09-27
 status: geldig
 toestand: 2025-09-27
 bron: "https://wetten.overheid.nl/BWBR0051532"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Vaststelling selectielijst van het Ministerie van Sociale Zaken en Werkgelegenheid

@@ -8,7 +8,7 @@ laatste_update: 2026-06-01
 status: geldig
 toestand: 2026-06-01
 bron: "https://wetten.overheid.nl/BWBR0052658"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit openstelling Deelregeling Internationale Werkreis voor Individuen Fonds Podiumkunsten en vaststelling subsidieplafond

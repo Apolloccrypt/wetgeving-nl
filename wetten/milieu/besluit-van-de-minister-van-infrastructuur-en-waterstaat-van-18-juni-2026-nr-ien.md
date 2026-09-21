@@ -9,7 +9,7 @@ laatste_update: 2026-07-09
 status: geldig
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0052806"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 18 juni 2026, nr. IENW/BSK-2026/102888, tot aanwijzing van de Klachtencommissie Ongewenste Omgangsvormen Rijk als klachtadviescommissie

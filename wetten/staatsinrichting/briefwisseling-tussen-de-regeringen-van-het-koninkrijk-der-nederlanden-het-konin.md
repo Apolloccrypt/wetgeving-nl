@@ -8,7 +8,7 @@ laatste_update: 1992-11-24
 status: geldig
 toestand: 1992-11-24
 bron: "https://wetten.overheid.nl/BWBV0001063"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Briefwisseling tussen de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de Regering van de Sloveense Republiek, anderzijds, houdende een overeenkomst inzake de afschaffing van de visumplicht

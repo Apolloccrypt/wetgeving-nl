@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0052684"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 4 juni 2026, nr. WJZ/106614907, houdende wijziging van de Uitvoeringsregeling Meststoffenwet in verband met het onder voorwaarden toestaan van Renure boven de gebruiksnorm voor dierlijke mest [KetenID WGK28344]

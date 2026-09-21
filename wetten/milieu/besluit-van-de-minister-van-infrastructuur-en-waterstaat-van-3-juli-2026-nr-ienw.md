@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0052788"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 3 juli 2026, nr. IENW/BSK-2026/97980, houdende de aanwijzing van toezichthoudende medewerkers van de Divisies Havenmeester van Amsterdam en Rotterdam in verband met het toezicht op het Scheepsafvalstoffenbesluit Rijn- en binnenvaart (Besluit aanwijzing toezichthouders Scheepsafvalstoffenbesluit Rijn- en binnenvaart)

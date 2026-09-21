@@ -9,7 +9,7 @@ laatste_update: 2024-07-05
 status: geldig
 toestand: 2024-07-05
 bron: "https://wetten.overheid.nl/BWBR0049923"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Subsidieplafondbesluit Projectsubsidies voor doorontwikkeling Aangepast Lezen ter zake ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem, in het kader van de Bibliotheek op school’, Koninklijke Bibliotheek 2025

@@ -9,7 +9,7 @@ laatste_update: 2026-06-14
 status: geldig
 toestand: 2026-06-14
 bron: "https://wetten.overheid.nl/BWBR0051844"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 november 2025, kenmerk 4231590-1089411-WJZ, houdende de vaststelling van regels ter implementatie van Richtlijn (EU) 2001/114/EG inzake gedehydrateerde melk (Warenwetregeling gedehydrateerde melk) [KetenID WGK027940]

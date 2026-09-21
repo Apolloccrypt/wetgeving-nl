@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0052566"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 15 april 2026 nr. BOACAT2026/028, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Dunea

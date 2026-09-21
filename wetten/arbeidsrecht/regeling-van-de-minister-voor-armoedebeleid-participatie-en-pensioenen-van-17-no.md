@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047537"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 17 november 2022, nr. 2022-0000231955, tot wijziging van bedragen en vaststelling van percentages en bedragen ten gevolge van de consumentenprijsindexcijfers voor 2022 voor Caribisch Nederland en tot vaststelling van de premiepercentages voor de werknemersverzekeringen en volksverzekeringen BES

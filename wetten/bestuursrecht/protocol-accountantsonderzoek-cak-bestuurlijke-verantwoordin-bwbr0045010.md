@@ -8,7 +8,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0045010"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Protocol accountantsonderzoek CAK bestuurlijke verantwoording burgerregelingen 2020

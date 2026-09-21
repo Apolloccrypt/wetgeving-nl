@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052169"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wet van 16 december 2025, houdende Voorstel van wet van de leden De Hoop en Olger van Dijk tot wijziging van de Wet personenvervoer 2000 in verband met het mogelijk maken van provinciale inbesteding van openbaar vervoerconcessies (Wet provinciale inbesteding vervoerconcessies)

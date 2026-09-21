@@ -9,7 +9,7 @@ laatste_update: 2026-07-09
 status: geldig
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0052804"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 16 juni 2026, nr. IENW/BSK-2026/97745, houdende regels voor de bepaling van de energie-efficiëntieklasse en voor de vaststelling van de constanten en waarde bij de berekening van de relatieve energiezuinigheid van personenauto’s (Regeling relatieve energiezuinigheid personenauto’s 2027) [Keten-ID WGK026753]

@@ -9,7 +9,7 @@ laatste_update: 2025-08-21
 status: geldig
 toestand: 2025-08-21
 bron: "https://wetten.overheid.nl/BWBR0050652"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 20 december 2024, nr. BZ2411067, tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 en tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 23 maart 2022, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Vierde openstelling, subsidieplafond en wijziging beleidsregels Subsidieprogramma Support International Business 2022–2026)

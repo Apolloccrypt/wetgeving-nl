@@ -8,7 +8,7 @@ laatste_update: 2026-06-20
 status: geldig
 toestand: 2026-06-20
 bron: "https://wetten.overheid.nl/BWBR0052708"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling voorwaarden deelname examen keurmeester lichte en zware (bedrijfs)voertuigen en landbouwvoertuigen

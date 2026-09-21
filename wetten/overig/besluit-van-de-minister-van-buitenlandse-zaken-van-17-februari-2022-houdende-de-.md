@@ -9,7 +9,7 @@ laatste_update: 2022-05-05
 status: geldig
 toestand: 2022-05-05
 bron: "https://wetten.overheid.nl/BWBR0046630"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 17 februari 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Peru, Ambassade Lima 1930 (1975-2012), (Besluit Beperking Openbaarheid Lima (1975-2012)

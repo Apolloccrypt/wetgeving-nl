@@ -9,7 +9,7 @@ laatste_update: 2026-07-02
 status: geldig
 toestand: 2026-07-02
 bron: "https://wetten.overheid.nl/BWBR0052754"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de directeur Communicatie van het Ministerie van Economische Zaken en Klimaat van 14 april 2026, nr. /104229806, tot verlening van ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2026)

@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0045783"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 2 november 2021, nr. WJZ/ 21258565, tot vaststelling van de correcties voor de voorschotverlening coöperatieve energieopwekking 2022 (Besluit vaststelling voorlopige correctiebedragen Subsidieregeling coöperatieve energieopwekking 2022)

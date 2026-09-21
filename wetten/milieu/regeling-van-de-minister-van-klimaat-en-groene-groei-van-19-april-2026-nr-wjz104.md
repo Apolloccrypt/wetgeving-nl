@@ -9,7 +9,7 @@ laatste_update: 2026-04-25
 status: geldig
 toestand: 2026-04-25
 bron: "https://wetten.overheid.nl/BWBR0052574"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 19 april 2026, nr. WJZ/104503063, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie en klimaattransitie in het jaar 2025 (Regeling vaststelling definitieve correcties duurzame energieproductie en klimaattransitie 2025) [KetenID WGK28863]

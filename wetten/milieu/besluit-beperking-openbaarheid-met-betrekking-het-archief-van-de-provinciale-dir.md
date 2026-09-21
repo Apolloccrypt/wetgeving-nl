@@ -9,7 +9,7 @@ laatste_update: 2021-06-29
 status: geldig
 toestand: 2021-06-29
 bron: "https://wetten.overheid.nl/BWBR0045286"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit beperking openbaarheid met betrekking het archief van de Provinciale Directie voor de Bedrijfsontwikkeling in Friesland van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, 1963–1983 (1985) Inventaris 56.10

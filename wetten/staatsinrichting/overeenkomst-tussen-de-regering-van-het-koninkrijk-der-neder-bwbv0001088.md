@@ -8,7 +8,7 @@ laatste_update: 1996-02-01
 status: geldig
 toestand: 1996-02-01
 bron: "https://wetten.overheid.nl/BWBV0001088"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Roemenië inzake de binnenvaart

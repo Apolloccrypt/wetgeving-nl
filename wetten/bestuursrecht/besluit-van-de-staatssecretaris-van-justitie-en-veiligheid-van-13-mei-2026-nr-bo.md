@@ -9,7 +9,7 @@ laatste_update: 2026-06-03
 status: geldig
 toestand: 2026-06-03
 bron: "https://wetten.overheid.nl/BWBR0052633"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 13 mei 2026 nr. BOACAT2026/038, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Schagen

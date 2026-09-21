@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0052667"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Asiel en Migratie van 2 juni 2026, nummer 7465194, tot het instellen van een besluitmoratorium en vertrekmoratorium voor vreemdelingen afkomstig uit Libanon

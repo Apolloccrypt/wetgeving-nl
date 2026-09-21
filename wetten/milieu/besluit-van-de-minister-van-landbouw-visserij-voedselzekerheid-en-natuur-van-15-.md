@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052522"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 15 april 2026, nr. DAD/104654146, houdende mandaat en machtiging voor de afgifte en bezorging van identificatiedocumenten en de registratie van paardachtigen 2026 (Besluit mandaat en machtiging LVVN voor afgifte en bezorging identificatiedocumenten paardachtigen 2026)

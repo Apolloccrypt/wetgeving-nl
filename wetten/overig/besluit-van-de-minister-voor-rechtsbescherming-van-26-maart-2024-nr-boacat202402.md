@@ -9,7 +9,7 @@ laatste_update: 2024-09-01
 status: geldig
 toestand: 2024-09-01
 bron: "https://wetten.overheid.nl/BWBR0049522"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 26 maart 2024 nr. BOACAT2024/026, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Eenheid Landelijke Expertise en Operaties of Eenheid Landelijke Opsporing en Interventies

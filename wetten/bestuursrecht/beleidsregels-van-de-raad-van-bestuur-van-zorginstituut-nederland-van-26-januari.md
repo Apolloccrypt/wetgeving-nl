@@ -9,7 +9,7 @@ laatste_update: 2021-02-09
 status: geldig
 toestand: 2021-02-09
 bron: "https://wetten.overheid.nl/BWBR0044785"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 26 januari 2021, kenmerk 2020032052, met het oog op de rechtmatige en doelmatige uitvoering van de Wet langdurige zorg door de zorgkantoren en het CAK

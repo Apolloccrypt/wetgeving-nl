@@ -9,7 +9,7 @@ laatste_update: 2021-03-27
 status: geldig
 toestand: 2021-03-27
 bron: "https://wetten.overheid.nl/BWBR0044969"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 19 maart 2021, nr. PO/27323799, houdende wijziging van de Subsidieregeling inhaal- en ondersteuningsprogramma aanvullend op voorschoolse educatie 2020–2021 in verband met de openstelling van een nieuw subsidietijdvak

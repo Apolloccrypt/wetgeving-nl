@@ -9,7 +9,7 @@ laatste_update: 2022-03-01
 status: geldig
 toestand: 2022-03-01
 bron: "https://wetten.overheid.nl/BWBR0046237"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 22 december 2021 tot wijziging van de bijlage bij de Wet administratiefrechtelijke handhaving verkeersvoorschriften en de bijlagen bij het Besluit OM-afdoening in verband met onder meer de jaarlijkse indexering van de tarieven

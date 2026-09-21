@@ -9,7 +9,7 @@ laatste_update: 2026-09-16
 status: geldig
 toestand: 2026-09-16
 bron: "https://wetten.overheid.nl/BWBR0045685"
-opgehaald: 2026-09-20
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat en de Minister van Landbouw, Natuur en Voedselkwaliteit van 8 oktober 2021, nr. WJZ/20222966, houdende vaststelling van subsidie-instrumenten in het kader van de Europese structuur- en investeringsfondsen op het terrein van de Ministeries van Economische Zaken en Klimaat en Landbouw, Natuur en Voedselkwaliteit (Regeling Europese EZK- en LNV-subsidies 2021)

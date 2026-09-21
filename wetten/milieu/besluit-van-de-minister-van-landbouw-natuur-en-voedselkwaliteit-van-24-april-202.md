@@ -9,7 +9,7 @@ laatste_update: 2020-05-13
 status: geldig
 toestand: 2020-05-13
 bron: "https://wetten.overheid.nl/BWBR0043519"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 april 2020, nr. WJZ/20101632, houdende vaststelling van de rekening en verantwoording van de vereffening van het vermogen van het voormalig Hoofdbedrijfschap voor de Agrarische Groothandel

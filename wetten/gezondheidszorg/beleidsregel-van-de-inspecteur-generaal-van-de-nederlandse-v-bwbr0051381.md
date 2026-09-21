@@ -9,7 +9,7 @@ laatste_update: 2025-08-13
 status: geldig
 toestand: 2025-08-13
 bron: "https://wetten.overheid.nl/BWBR0051381"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Beleidsregel van de Inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 5 augustus 2025, NVWA/2025-010054266, houdende vaststelling van de bemonsteringsplannen voor de productiegebieden en verwatergebieden van levende tweekleppige weekdieren (Beleidsregel bemonsteringsplannen sanitaire monitoring 2025)

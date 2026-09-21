@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044423"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 november 2020, 2020-0000127560, houdende wijziging van bedragen en vaststelling van percentages en bedragen voor Caribisch Nederland ten gevolg van de consumentenprijsindexcijfers voor 2021

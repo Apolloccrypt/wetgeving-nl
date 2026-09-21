@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052723"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 22 juni 2026, nr. IENW/BSK-2026/104748, houdende tijdelijke aanwijzing van het Team Bijzondere Bijstand van de FIOD als hulpverleningsdienst als bedoeld in artikel 29 van het Reglement verkeersregels en verkeerstekens 1990

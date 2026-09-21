@@ -9,7 +9,7 @@ laatste_update: 2024-06-06
 status: geldig
 toestand: 2024-06-06
 bron: "https://wetten.overheid.nl/BWBR0049783"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 27 mei 2024, nr. OWB/46068418, houdende ophoging van het subsidieplafond van de Subsidieregeling matching Horizon Europe

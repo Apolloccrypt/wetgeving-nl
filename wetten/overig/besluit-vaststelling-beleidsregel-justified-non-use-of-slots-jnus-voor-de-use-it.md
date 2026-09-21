@@ -8,7 +8,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0052785"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit vaststelling Beleidsregel Justified Non-Use of Slots (JNUS) voor de ‘use it or lose it’-regel

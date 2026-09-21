@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0045017"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 29 maart 2021, nr. WJZ/ 21067978, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie en klimaattransitie in het jaar 2020 (Regeling vaststelling definitieve correcties duurzame energieproductie en klimaattransitie 2020)

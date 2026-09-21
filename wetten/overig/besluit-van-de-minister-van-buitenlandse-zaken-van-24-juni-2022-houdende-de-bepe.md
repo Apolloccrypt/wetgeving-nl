@@ -9,7 +9,7 @@ laatste_update: 2024-01-19
 status: geldig
 toestand: 2024-01-19
 bron: "https://wetten.overheid.nl/BWBR0047043"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 24 juni 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Israël, Ambassade Tel Aviv (1967) 1984–2012 (2013), Besluit Beperking Openbaarheid Ambassade Tel Aviv 1984–2012 (2013)

@@ -9,7 +9,7 @@ laatste_update: 2025-02-19
 status: geldig
 toestand: 2025-02-19
 bron: "https://wetten.overheid.nl/BWBR0049324"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 26 januari 2024 nr. BOACAT2024/008, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Landelijk Intelligence-en expertisecentrum Voertuigcriminaliteit

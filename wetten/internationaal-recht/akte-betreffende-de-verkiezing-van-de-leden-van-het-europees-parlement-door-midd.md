@@ -8,7 +8,7 @@ laatste_update: 2004-04-01
 status: geldig
 toestand: 2004-04-01
 bron: "https://wetten.overheid.nl/BWBV0005252"
-opgehaald: 2026-09-20
+opgehaald: 2026-09-21
 ---
 
 # Akte betreffende de verkiezing van de leden van het Europees Parlement door middel van rechtstreekse algemene verkiezingen

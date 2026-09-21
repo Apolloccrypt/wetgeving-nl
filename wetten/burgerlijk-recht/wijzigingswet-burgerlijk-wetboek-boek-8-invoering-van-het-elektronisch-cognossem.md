@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052567"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wijzigingswet Burgerlijk Wetboek Boek 8 (invoering van het elektronisch cognossement)

@@ -9,7 +9,7 @@ laatste_update: 2023-02-08
 status: geldig
 toestand: 2023-02-08
 bron: "https://wetten.overheid.nl/BWBR0047853"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 25 januari 2023, houdende de vaststelling van de gelijkwaardige inspanning van de decentrale overheden inzake het EMU-saldo

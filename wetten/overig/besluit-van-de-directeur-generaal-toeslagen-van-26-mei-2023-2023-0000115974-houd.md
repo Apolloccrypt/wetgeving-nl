@@ -9,7 +9,7 @@ laatste_update: 2023-07-20
 status: geldig
 toestand: 2023-07-20
 bron: "https://wetten.overheid.nl/BWBR0048416"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de directeur-generaal Toeslagen van 26 mei 2023 (2023-0000115974), houdende verlening van ondermandaat, volmacht en machtiging betreffende de uitvoering van de Wet open overheid (Besluit ondermandaat, volmacht en machtiging betreffende de uitvoering van de Wet open overheid op het terrein van het directoraat-generaal Toeslagen)

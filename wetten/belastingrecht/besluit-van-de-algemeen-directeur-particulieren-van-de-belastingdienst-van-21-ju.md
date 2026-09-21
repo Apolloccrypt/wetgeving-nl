@@ -9,7 +9,7 @@ laatste_update: 2023-12-14
 status: geldig
 toestand: 2023-12-14
 bron: "https://wetten.overheid.nl/BWBR0049040"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de algemeen directeur Particulieren van de Belastingdienst van 21 juli 2023, nr. 2023-0000146307 houdende verlening van ondermandaat, ondervolmacht en ondermachtiging betreffende de uitvoering van de Wet open overheid (Besluit ondermandaat, ondervolmacht en ondermachtiging betreffende de uitvoering van de Wet open overheid van de algemeen directeur Particulieren 2023)

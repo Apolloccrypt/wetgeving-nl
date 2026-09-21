@@ -9,7 +9,7 @@ laatste_update: 2025-09-03
 status: geldig
 toestand: 2025-09-03
 bron: "https://wetten.overheid.nl/BWBR0050106"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2024 nr. 45887439, houdende vaststelling van de subsidieplafonds voor het studiejaar 2023–2024 op grond van de Subsidieregeling praktijkleren (Besluit vaststelling subsidieplafonds Subsidieregeling praktijkleren studiejaar 2023–2024)

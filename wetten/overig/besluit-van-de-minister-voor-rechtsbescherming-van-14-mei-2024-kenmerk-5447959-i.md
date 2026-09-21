@@ -9,7 +9,7 @@ laatste_update: 2024-05-31
 status: geldig
 toestand: 2024-05-31
 bron: "https://wetten.overheid.nl/BWBR0049749"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 mei 2024, kenmerk 5447959, inzake het openstellen van de tijdelijke maatregelen in verband met het verlichten van capaciteitsproblemen binnen het gevangeniswezen

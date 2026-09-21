@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0052781"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 3 juli 2026, nr. IENW/BSK-2026/91197, tot wijziging van de Regeling gevelisolatie Schiphol 2023 in verband met de uitbreiding van het toepassingsgebied en enige andere wijzigingen [KetenID WGK028804]

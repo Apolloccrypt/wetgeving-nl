@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0052787"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 3 juli 2026, nr. IENW/BSK-2026/103913, houdende tijdelijke regels voor het verlenen van subsidie voor het versneld onderwerken van graanresten in 2026 (Tijdelijke subsidieregeling versneld onderwerken graanresten 2026) [KetenID WGK028980]

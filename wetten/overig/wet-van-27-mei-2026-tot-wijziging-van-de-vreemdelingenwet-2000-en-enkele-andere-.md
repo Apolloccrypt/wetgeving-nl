@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0052687"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wet van 27 mei 2026 tot wijziging van de Vreemdelingenwet 2000 en enkele andere wetten in verband met de uitvoering en implementatie van het EU-Asiel- en migratiepact 2026 (Uitvoerings- en implementatiewet Asiel- en migratiepact 2026)

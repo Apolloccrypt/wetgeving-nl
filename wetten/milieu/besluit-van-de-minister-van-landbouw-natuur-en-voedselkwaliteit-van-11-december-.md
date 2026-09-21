@@ -9,7 +9,7 @@ laatste_update: 2020-12-24
 status: geldig
 toestand: 2020-12-24
 bron: "https://wetten.overheid.nl/BWBR0044542"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 december 2020, BHM 20300728, inhoudende openbaarmaking van de subsidiegegevens Gemeenschappelijk landbouwbeleid over het EU-boekjaar 2020 en Gemeenschappelijk visserijbeleid over het kalenderjaar 2021

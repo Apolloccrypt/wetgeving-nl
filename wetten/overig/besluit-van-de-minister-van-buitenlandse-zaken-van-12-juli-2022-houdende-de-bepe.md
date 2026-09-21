@@ -9,7 +9,7 @@ laatste_update: 2022-08-03
 status: geldig
 toestand: 2022-08-03
 bron: "https://wetten.overheid.nl/BWBR0047024"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 12 juli 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Kameroen, Ambassade Yaounde, Besluit Beperking Openbaarheid Ambassade Yaounde (Kameroen) (1965) 1980-2011

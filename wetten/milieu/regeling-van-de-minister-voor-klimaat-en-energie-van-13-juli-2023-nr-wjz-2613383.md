@@ -9,7 +9,7 @@ laatste_update: 2023-09-05
 status: geldig
 toestand: 2023-09-05
 bron: "https://wetten.overheid.nl/BWBR0048477"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 13 juli 2023, nr. WJZ/ 26133830, houdende aanwijzing categorieën van productie-installaties voor de productie van duurzame energieproductie en klimaattransitie in 2023 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2023)

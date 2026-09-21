@@ -9,7 +9,7 @@ laatste_update: 2023-02-10
 status: geldig
 toestand: 2023-02-10
 bron: "https://wetten.overheid.nl/BWBR0047863"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 3 februari 2023, nr. IENW/BSK-2023/20040, houdende vaststelling van het subsidieplafond en de aanvraagperiode subsidies in het kader van de Tijdelijke subsidieregeling onderzoek Topsector Logistiek 2022–2026 voor het jaar 2023

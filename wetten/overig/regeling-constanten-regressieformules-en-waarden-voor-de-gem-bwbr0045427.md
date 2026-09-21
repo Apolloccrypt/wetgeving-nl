@@ -8,7 +8,7 @@ laatste_update: 2021-07-19
 status: geldig
 toestand: 2021-07-19
 bron: "https://wetten.overheid.nl/BWBR0045427"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto's 2022 en 2023

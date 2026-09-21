@@ -9,7 +9,7 @@ laatste_update: 2023-10-10
 status: geldig
 toestand: 2023-10-10
 bron: "https://wetten.overheid.nl/BWBR0048713"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 28 september 2023, nr. Min-BuZa.2023.19913-19, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Versterking van de Humanitaire Sector 2024–2027)

@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0047218"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Ruimtelijke Ordening en Volkshuisvesting van 30 september 2022, nr. 2022-0000036275, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het opstellen en uitvoeren van woondeals (Regeling specifieke uitkering ten behoeve van het opstellen en uitvoeren van woondeals)

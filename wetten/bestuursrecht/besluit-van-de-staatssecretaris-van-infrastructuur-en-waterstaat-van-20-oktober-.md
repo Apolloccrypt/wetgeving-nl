@@ -9,7 +9,7 @@ laatste_update: 2025-10-30
 status: geldig
 toestand: 2025-10-30
 bron: "https://wetten.overheid.nl/BWBR0051675"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 20 oktober 2025, nr. IENW/BSK-2025/258346, houdende toekenning van de bevoegdheid genoemd in artikel 20, vierde lid, Wet personenvervoer 2000 aan Gedeputeerde Staten van de provincie Gelderland en Gedeputeerde Staten van de provincie Limburg

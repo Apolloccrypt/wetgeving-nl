@@ -9,7 +9,7 @@ laatste_update: 2026-05-28
 status: geldig
 toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052647"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van het bestuur van de Autoriteit Persoonsgegevens (AP) van 11 mei 2026 betreffende archiefbeheersregels (Archiefbeheersregeling AP 2026)

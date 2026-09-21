@@ -8,7 +8,7 @@ laatste_update: 1995-04-11
 status: geldig
 toestand: 1995-04-11
 bron: "https://wetten.overheid.nl/BWBV0001071"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Verdrag inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Zimbabwe

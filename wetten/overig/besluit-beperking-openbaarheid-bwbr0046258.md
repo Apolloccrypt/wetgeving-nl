@@ -8,7 +8,7 @@ laatste_update: 2022-02-02
 status: geldig
 toestand: 2022-02-02
 bron: "https://wetten.overheid.nl/BWBR0046258"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit Beperking Openbaarheid

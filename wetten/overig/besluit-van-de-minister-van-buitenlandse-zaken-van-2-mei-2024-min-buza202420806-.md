@@ -9,7 +9,7 @@ laatste_update: 2024-05-15
 status: geldig
 toestand: 2024-05-15
 bron: "https://wetten.overheid.nl/BWBR0049696"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 2 mei 2024, Min-BuZa.2024.20806-20, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Matra ‘overheid tot overheid’ 2025–2029)

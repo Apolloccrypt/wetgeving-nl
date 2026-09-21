@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052277"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wet van 21 januari 2026, houdende wijziging van het Wetboek van Strafrecht in verband met de herziening van de regeling inzake de meerdaadse samenloop in strafzaken (herziening regeling meerdaadse samenloop in strafzaken)

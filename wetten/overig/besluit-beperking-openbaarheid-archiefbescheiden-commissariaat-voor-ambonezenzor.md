@@ -8,7 +8,7 @@ laatste_update: 2022-01-28
 status: geldig
 toestand: 2022-01-28
 bron: "https://wetten.overheid.nl/BWBR0046240"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit beperking openbaarheid archiefbescheiden Commissariaat voor Ambonezenzorg (CAZ) (1949) 1952–1970 (1985)

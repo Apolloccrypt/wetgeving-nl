@@ -9,7 +9,7 @@ laatste_update: 2026-04-22
 status: geldig
 toestand: 2026-04-22
 bron: "https://wetten.overheid.nl/BWBR0052423"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 6 maart 2026 nr. BOACAT2026/017, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Heerlen

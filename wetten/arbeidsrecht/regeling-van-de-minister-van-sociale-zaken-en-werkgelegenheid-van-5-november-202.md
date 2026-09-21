@@ -9,7 +9,7 @@ laatste_update: 2021-07-03
 status: geldig
 toestand: 2021-07-03
 bron: "https://wetten.overheid.nl/BWBR0044336"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 november 2020, nr. 2020-0000120656, tot vaststelling van de premiepercentages werknemers- en volksverzekeringen, het maximumpremieloon werknemersverzekeringen en de opslag kinderopvangtoeslag voor 2020 (Regeling tot vaststelling premiepercentages werknemers- en volksverzekeringen, maximumpremieloon werknemersverzekeringen en opslag kinderopvangtoeslag 2021)

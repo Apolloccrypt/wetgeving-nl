@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052757"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wijzigingsregeling Regeling vaststelling invaliditeit met dienstverband

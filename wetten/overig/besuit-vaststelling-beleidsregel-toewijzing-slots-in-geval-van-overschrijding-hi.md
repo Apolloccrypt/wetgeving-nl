@@ -8,7 +8,7 @@ laatste_update: 2026-03-29
 status: geldig
 toestand: 2026-03-29
 bron: "https://wetten.overheid.nl/BWBR0052563"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besuit vaststelling Beleidsregel toewijzing slots in geval van overschrijding historische aanspraak

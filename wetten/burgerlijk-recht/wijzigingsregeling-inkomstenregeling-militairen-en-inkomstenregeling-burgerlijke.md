@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052161"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wijzigingsregeling Inkomstenregeling militairen en Inkomstenregeling burgerlijke ambtenaren defensie

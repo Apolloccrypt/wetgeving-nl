@@ -8,7 +8,7 @@ laatste_update: 2026-06-20
 status: geldig
 toestand: 2026-06-20
 bron: "https://wetten.overheid.nl/BWBR0052707"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling voorwaarden deelname examen LPG-technicus

@@ -9,7 +9,7 @@ laatste_update: 2020-07-17
 status: geldig
 toestand: 2020-07-17
 bron: "https://wetten.overheid.nl/BWBR0043885"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Commandant van de Koninklijke marechaussee van 20 april 2020, houdende verlening van mandaat voor het beëdigen van buitengewoon opsporingsambtenaren

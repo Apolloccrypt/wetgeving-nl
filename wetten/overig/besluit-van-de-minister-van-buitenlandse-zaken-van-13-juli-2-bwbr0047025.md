@@ -9,7 +9,7 @@ laatste_update: 2022-08-03
 status: geldig
 toestand: 2022-08-03
 bron: "https://wetten.overheid.nl/BWBR0047025"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 13 juli 2022, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Guatemala, Ambassade Guatemala, Besluit Beperking Openbaarheid Guatemala (1990) 2000-2009 (2013)

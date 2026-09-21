@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0051385"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wet van 14 juli 2025 tot wijziging van de Wet veiligheid en kwaliteit lichaamsmateriaal, de Wet op de orgaandonatie en enkele andere wetten in verband met ontwikkelingen in de lichaamsmateriaaldonatiepraktijk (Wet actualisering lichaamsmateriaalwetgeving)

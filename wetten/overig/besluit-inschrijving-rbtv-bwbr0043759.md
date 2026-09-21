@@ -8,7 +8,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043759"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit inschrijving Rbtv

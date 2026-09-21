@@ -8,7 +8,7 @@ laatste_update: 2026-07-06
 status: geldig
 toestand: 2026-07-06
 bron: "https://wetten.overheid.nl/BWBR0052783"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Beleidsregel Exameninstituut IBKI certificering bijscholingen en bijlessen (2026)

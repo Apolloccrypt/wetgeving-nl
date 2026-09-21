@@ -9,7 +9,7 @@ laatste_update: 2026-09-17
 status: geldig
 toestand: 2026-09-17
 bron: "https://wetten.overheid.nl/BWBR0052727"
-opgehaald: 2026-09-20
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 16 juni 2026, nr. PO/FenV/63904526, houdende vaststelling van de definitieve bedragen voor bekostiging primair onderwijs voor het kalenderjaar 2026 en voor ondersteuning van leerlingen in het primair en voortgezet onderwijs kalenderjaar 2026 (Definitieve regeling bekostiging WPO en WEC 2026)

@@ -9,7 +9,7 @@ laatste_update: 2023-12-14
 status: geldig
 toestand: 2023-12-14
 bron: "https://wetten.overheid.nl/BWBR0049043"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de algemeen directeur Midden- en kleinbedrijf van de Belastingdienst van 27 juni 2023, nr. 2023-0000146319 houdende verlening van ondermandaat, ondervolmacht en ondermachtiging betreffende de uitvoering van de Wet open overheid (Besluit ondermandaat, ondervolmacht en ondermachtiging betreffende de uitvoering van de Wet open overheid van de algemeen directeur Midden- en kleinbedrijf 2023)

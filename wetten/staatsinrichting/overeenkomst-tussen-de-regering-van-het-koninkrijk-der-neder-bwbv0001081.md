@@ -8,7 +8,7 @@ laatste_update: 1994-01-17
 status: geldig
 toestand: 1994-01-17
 bron: "https://wetten.overheid.nl/BWBV0001081"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Litouwen inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

@@ -9,7 +9,7 @@ laatste_update: 2026-04-22
 status: geldig
 toestand: 2026-04-22
 bron: "https://wetten.overheid.nl/BWBR0052556"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de directeur Cybersecurity, Weerbaarheid Statelijke Dreigingen en Analyse Nationale Veiligheid van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 2 april 2026, nr. 7306492, houdende verlening van ondermandaat aan de onder de directeur ressorterende ambtenaren (Mandaatbesluit Cybersecurity, Weerbaarheid Statelijke Dreigingen en Analyse Nationale Veiligheid NCTV 2026)

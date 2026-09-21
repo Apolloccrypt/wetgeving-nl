@@ -9,7 +9,7 @@ laatste_update: 2024-09-04
 status: geldig
 toestand: 2024-09-04
 bron: "https://wetten.overheid.nl/BWBR0049998"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 27 juni 2024, nr. WJZ/ 62925896, houdende aanwijzing categorieën van productie-installaties voor de productie van duurzame energieproductie en klimaattransitie in 2024 (Regeling aanwijzing categorieën duurzame energieproductie en klimaattransitie 2024)

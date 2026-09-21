@@ -9,7 +9,7 @@ laatste_update: 2024-03-15
 status: geldig
 toestand: 2024-03-15
 bron: "https://wetten.overheid.nl/BWBR0049459"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 6 maart 2024, MINBUZA-2024.20531, tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 en tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 7 april 2023, Min-BuZa.2023.15230, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Derde openstelling en wijziging beleidsregels Subsidieprogramma Orange Corners)

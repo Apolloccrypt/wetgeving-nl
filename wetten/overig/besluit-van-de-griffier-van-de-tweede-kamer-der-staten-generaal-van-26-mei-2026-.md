@@ -9,7 +9,7 @@ laatste_update: 2026-05-27
 status: geldig
 toestand: 2026-05-27
 bron: "https://wetten.overheid.nl/BWBR0052669"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Griffier van de Tweede Kamer der Staten-Generaal van 26 mei 2026, inzake toestemming tot inzage in archiefbescheiden met betrekking tot de staatsgreep in Suriname in 1980, zoals bij het Nationaal Archief geborgen in het archief van de Tweede Kamer der Staten-Generaal (1849) 1945–2010, nummer toegang 2.02.28 (Besluit toestemming inzage archiefbescheiden Staatsgreep Suriname 1980)

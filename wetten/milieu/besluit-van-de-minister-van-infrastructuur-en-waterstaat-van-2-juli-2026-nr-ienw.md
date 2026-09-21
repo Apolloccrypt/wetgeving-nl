@@ -9,7 +9,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0052769"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 2 juli 2026, nr. IENW/BSK-2026/88665, tot aanwijzing van Spoedzorgdata voor verkeersveiligheid als Dienst van Algemeen Economisch Belang

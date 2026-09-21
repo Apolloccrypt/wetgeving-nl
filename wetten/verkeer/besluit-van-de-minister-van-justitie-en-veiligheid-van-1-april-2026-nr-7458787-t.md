@@ -9,7 +9,7 @@ laatste_update: 2026-04-22
 status: geldig
 toestand: 2026-04-22
 bron: "https://wetten.overheid.nl/BWBR0052557"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 1 april 2026, nr. 7458787, tot aanwijzing van Cito als onafhankelijke certificeringsinstelling, bedoeld in punt 11.3.7 van de bijlage bij Uitvoeringsverordening (EU) 2015/1998 tot vaststelling van gedetailleerde maatregelen voor de tenuitvoerlegging van de gemeenschappelijke basisnormen op het gebied van de beveiliging van de luchtvaart

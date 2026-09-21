@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052616"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 22 april 2026, nr. 2026-0000177312, tot vaststelling van het aanvraagtijdvak van de derde tranche van de Regeling specifieke uitkering woningbouwversnelling Metropoolregio Eindhoven

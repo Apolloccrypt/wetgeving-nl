@@ -8,7 +8,7 @@ laatste_update: 2024-09-10
 status: geldig
 toestand: 2024-09-10
 bron: "https://wetten.overheid.nl/BWBR0050196"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Handhavingskader KB-stelsel

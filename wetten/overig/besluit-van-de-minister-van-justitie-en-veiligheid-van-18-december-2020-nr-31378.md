@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044634"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 18 december 2020, nr. 3137828, houdende verlenging van de geldigheidsduur van de toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden, de toets schietvaardigheid en de toets specialistische geweldsvaardigheid in verband met maatregelen rondom bestrijding van COVID-19

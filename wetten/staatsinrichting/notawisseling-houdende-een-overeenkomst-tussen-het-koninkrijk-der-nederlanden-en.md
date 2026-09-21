@@ -8,7 +8,7 @@ laatste_update: 1991-07-11
 status: geldig
 toestand: 1991-07-11
 bron: "https://wetten.overheid.nl/BWBV0001046"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Notawisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake de overdracht en de tenuitvoerlegging van vrijheidsstraffen

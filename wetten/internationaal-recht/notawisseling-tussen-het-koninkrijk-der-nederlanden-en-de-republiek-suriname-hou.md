@@ -8,12 +8,14 @@ laatste_update: 1993-02-17
 status: geldig
 toestand: 1993-02-17
 bron: "https://wetten.overheid.nl/BWBV0001077"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Republiek Suriname houdende een verdrag betreffende de samenwerking inzake diplomatieke en consulaire faciliteiten
 
 CdP/93/013
+
+### Nota
 
 De Ambassade van het Koninkrijk der Nederlanden biedt het Ministerie van Buitenlandse Zaken van de Republiek Suriname haar complimenten aan en heeft de eer het Ministerie onder verwijzing naar de gevoerde besprekingen het volgende voor te leggen.
 

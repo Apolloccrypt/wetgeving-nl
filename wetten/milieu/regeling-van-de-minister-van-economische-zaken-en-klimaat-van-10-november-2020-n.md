@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044347"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 10 november 2020, nr. WJZ/ 20250136, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie en klimaattransitie 2021 (Regeling vaststelling voorschotverlening duurzame energieproductie en klimaattransitie 2021)

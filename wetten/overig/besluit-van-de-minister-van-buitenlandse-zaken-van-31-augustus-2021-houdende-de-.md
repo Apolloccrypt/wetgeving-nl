@@ -9,7 +9,7 @@ laatste_update: 2021-09-09
 status: geldig
 toestand: 2021-09-09
 bron: "https://wetten.overheid.nl/BWBR0045595"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 31 augustus 2021, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Koeweit, Ambassade Koeweit, Besluit Beperking Openbaarheid Koeweit (1975) 1972–2013

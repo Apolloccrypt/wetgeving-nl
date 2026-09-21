@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052668"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 20 mei 2026, nr. IENW/BSK-2026/51515, tot wijziging van de Regeling veiligheid Arubaanse, Curaçaose en Sint Maartense zeeschepen in verband met het aanpassen van bepalingen betreffende het nationaal veiligheidscertificaat en enkele andere wijzigingen [KetenID WGK028098]

@@ -9,7 +9,7 @@ laatste_update: 2026-04-08
 status: geldig
 toestand: 2026-04-08
 bron: "https://wetten.overheid.nl/BWBR0052500"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de directeur Financieel-Economische Zaken van het Ministerie van Economische Zaken tot verlening van ondermandaat, volmacht en machtiging voor de directie Financieel-Economische Zaken van het Ministerie van Economische Zaken (Besluit ondermandaat, volmacht en machtiging voor de directie Financieel-Economische Zaken van het Ministerie van Economische Zaken 2025)

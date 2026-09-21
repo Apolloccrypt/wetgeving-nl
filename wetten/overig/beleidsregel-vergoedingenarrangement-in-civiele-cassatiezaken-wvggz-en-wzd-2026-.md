@@ -8,7 +8,7 @@ laatste_update: 2026-04-22
 status: geldig
 toestand: 2026-04-22
 bron: "https://wetten.overheid.nl/BWBR0052553"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Beleidsregel Vergoedingenarrangement in civiele cassatiezaken Wvggz en Wzd 2026-2028

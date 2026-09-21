@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0049062"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 21 november 2023, 2023-0000561536, tot wijziging van bedragen en vaststelling van percentages en bedragen ten gevolge van de consumentenprijsindexcijfers voor 2023 voor Caribisch Nederland en tot vaststelling van de premiepercentages voor de werknemersverzekeringen en volksverzekeringen BES

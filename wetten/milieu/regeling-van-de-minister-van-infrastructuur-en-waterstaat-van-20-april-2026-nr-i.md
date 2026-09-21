@@ -9,7 +9,7 @@ laatste_update: 2026-04-22
 status: geldig
 toestand: 2026-04-22
 bron: "https://wetten.overheid.nl/BWBR0052559"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 20 april 2026, nr. IENW/BSK-2026/67802, houdende vaststelling van tijdelijke regels voor het verlenen van subsidie voor de aanschaf en installatie van batterijpakketten voor zeeschepen en de noodzakelijke laadinfrastructuur daarvoor (Tijdelijke subsidieregeling batterij-elektrisch varen zeehavens 2026–2029) [KetenID WGK028108]

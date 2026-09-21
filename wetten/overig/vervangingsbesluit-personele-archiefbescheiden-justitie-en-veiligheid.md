@@ -8,7 +8,7 @@ laatste_update: 2023-02-04
 status: geldig
 toestand: 2023-02-04
 bron: "https://wetten.overheid.nl/BWBR0047841"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Vervangingsbesluit personele archiefbescheiden Justitie en Veiligheid
@@ -32,4 +32,3 @@ De digitale reproductie wordt uitgevoerd door P-Direkt.
 ##### Artikel 5
 
 Deze regeling kan worden aangehaald als Vervangingsbesluit personele archiefbescheiden Justitie en Veiligheid.
-ustitie en Veiligheid.

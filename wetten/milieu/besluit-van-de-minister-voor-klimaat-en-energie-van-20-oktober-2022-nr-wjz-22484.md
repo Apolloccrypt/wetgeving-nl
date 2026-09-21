@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0047393"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister voor Klimaat en Energie van 20 oktober 2022, nr. WJZ/ 22484572, tot vaststelling van de correcties voor de voorschotverlening coöperatieve energieopwekking 2023 (Besluit vaststelling voorlopige correctiebedragen Subsidieregeling coöperatieve energieopwekking 2023)

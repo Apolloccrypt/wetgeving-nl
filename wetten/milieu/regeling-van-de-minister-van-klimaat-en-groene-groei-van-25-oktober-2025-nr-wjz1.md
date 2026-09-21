@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0051685"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 25 oktober 2025, nr. WJZ/101444701, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie en klimaattransitie 2026 (Regeling vaststelling voorschotverlening duurzame energieproductie en klimaattransitie 2026) [KetenID 28330]

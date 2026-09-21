@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0052685"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 4 juni 2026, nr. MBO/63603808, houdende vaststelling van de subsidieplafonds voor het studiejaar 2025–2026 op grond van de Subsidieregeling praktijkleren en vaststelling van het maximale subsidiebedrag per gerealiseerde praktijk- of werkleerplaats voor het studiejaar 2025–2026

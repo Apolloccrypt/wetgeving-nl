@@ -9,7 +9,7 @@ laatste_update: 2024-04-24
 status: geldig
 toestand: 2024-04-24
 bron: "https://wetten.overheid.nl/BWBR0049600"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 17 april 2024, nr. IENW/BSK-2024/116536, houdende vaststelling van het plafond voor bijzondere uitkeringen 2024 op grond van de Regeling bijzondere uitkering water-, haven-, en luchtvaartinfrastructuur BES

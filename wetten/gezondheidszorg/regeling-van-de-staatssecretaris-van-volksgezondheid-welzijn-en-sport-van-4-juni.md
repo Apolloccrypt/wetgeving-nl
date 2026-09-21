@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043638"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 juni 2020, kenmerk 1695289-205611-WJZ, houdende aanpassing van de factoren, grondslagen en bedragen van de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2020

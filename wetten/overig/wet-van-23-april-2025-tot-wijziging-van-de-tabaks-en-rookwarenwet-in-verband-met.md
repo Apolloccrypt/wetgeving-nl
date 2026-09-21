@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0051008"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Wet van 23 april 2025 tot wijziging van de Tabaks- en rookwarenwet in verband met de invoering van een registratieplicht voor verkooppunten van tabaksproducten en aanverwante producten

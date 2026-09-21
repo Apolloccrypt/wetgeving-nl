@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0043754"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 19 mei 2020, tot aanwijzing van een elektronische voorziening in de zin van het Besluit digitale stukken Strafvordering

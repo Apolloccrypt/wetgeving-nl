@@ -9,7 +9,7 @@ laatste_update: 2021-05-18
 status: geldig
 toestand: 2021-05-18
 bron: "https://wetten.overheid.nl/BWBR0045132"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 23 april 2021, nr. 3301921, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2021 en 2022

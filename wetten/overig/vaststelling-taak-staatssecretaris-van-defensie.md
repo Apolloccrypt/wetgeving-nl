@@ -8,7 +8,7 @@ laatste_update: 2023-12-01
 status: geldig
 toestand: 2023-12-01
 bron: "https://wetten.overheid.nl/BWBR0048975"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Vaststelling taak Staatssecretaris van Defensie

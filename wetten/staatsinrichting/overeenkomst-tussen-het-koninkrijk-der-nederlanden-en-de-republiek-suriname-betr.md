@@ -8,7 +8,7 @@ laatste_update: 1981-06-19
 status: geldig
 toestand: 1981-06-19
 bron: "https://wetten.overheid.nl/BWBV0001024"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de uitlevering en rechtshulp in strafzaken

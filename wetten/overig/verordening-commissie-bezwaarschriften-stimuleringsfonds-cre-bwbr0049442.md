@@ -8,7 +8,7 @@ laatste_update: 2024-03-08
 status: geldig
 toestand: 2024-03-08
 bron: "https://wetten.overheid.nl/BWBR0049442"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Verordening commissie bezwaarschriften Stimuleringsfonds Creatieve Industrie

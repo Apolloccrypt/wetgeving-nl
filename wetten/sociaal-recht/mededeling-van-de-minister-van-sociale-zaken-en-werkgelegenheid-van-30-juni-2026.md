@@ -9,7 +9,7 @@ laatste_update: 2026-07-08
 status: geldig
 toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0052800"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Mededeling van de Minister van Sociale Zaken en Werkgelegenheid van 30 juni 2026, nr. 2026-0000210038, tot vaststelling van het subsidieplafond voor subsidies aan het mkb voor aanvragen op grond van hoofdstuk 2 van de SLIM-regeling

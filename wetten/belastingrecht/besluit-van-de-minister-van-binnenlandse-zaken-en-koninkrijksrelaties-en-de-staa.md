@@ -9,7 +9,7 @@ laatste_update: 2022-08-03
 status: geldig
 toestand: 2022-08-03
 bron: "https://wetten.overheid.nl/BWBR0047011"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst van 7 juli 2022, nr. 2022-0000354370, tot vaststelling van de bedragen per eenheid voor de algemene uitkering uit het provinciefonds voor het uitkeringsjaar 2019

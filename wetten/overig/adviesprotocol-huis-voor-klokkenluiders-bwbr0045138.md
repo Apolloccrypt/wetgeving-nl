@@ -8,7 +8,7 @@ laatste_update: 2021-05-18
 status: geldig
 toestand: 2021-05-18
 bron: "https://wetten.overheid.nl/BWBR0045138"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Adviesprotocol Huis voor klokkenluiders

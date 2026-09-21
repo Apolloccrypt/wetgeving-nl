@@ -9,7 +9,7 @@ laatste_update: 2023-11-24
 status: geldig
 toestand: 2023-11-24
 bron: "https://wetten.overheid.nl/BWBR0048943"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 november 2023, nr. 2023-0000037178, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het opstellen en uitvoeren van woondeals tweede tranche (Regeling specifieke uitkering ten behoeve van het opstellen en uitvoeren van woondeals tweede tranche)

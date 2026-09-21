@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052615"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 mei 2026, kenmerk 4369398-1096262-Z, houdende wijziging van de Regeling zorgverzekering en de Subsidieregeling medisch noodzakelijke zorg aan onverzekerden in verband met het opvragen van aanvullende informatie bij zorgaanbieders teneinde misbruik en oneigenlijk gebruik tegen te gaan [KetenID WGK027657]

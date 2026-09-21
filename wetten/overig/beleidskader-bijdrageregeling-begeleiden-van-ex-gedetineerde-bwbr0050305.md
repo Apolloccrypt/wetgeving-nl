@@ -8,7 +8,7 @@ laatste_update: 2024-10-21
 status: geldig
 toestand: 2024-10-21
 bron: "https://wetten.overheid.nl/BWBR0050305"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Beleidskader bijdrageregeling begeleiden van ex-gedetineerden voor wonen en werken 2025, Dienst Justitiële Inrichtingen

@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0044544"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Besluit van 8 december 2020 tot wijziging van het Besluit tarieven in strafzaken 2003 in verband met de jaarlijkse indexering van de vergoedingen voor psychiaters en psychologen

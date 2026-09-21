@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050601"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-21
 ---
 
 # Regeling van 5 december 2024, nr. 5810710 van de Staatssecretaris van Justitie en Veiligheid houdende de wijziging van de inkomens- en vermogensgrenzen, in de Wet op de rechtsbijstand en het Besluit eigen bijdrage rechtsbijstand, eigen bijdragen en basisbedragen, bedoeld in het Besluit eigen bijdrage rechtsbijstand, het Besluit vergoedingen rechtsbijstand en het Besluit toevoeging mediation, en vaststelling van het normbedrag en het bedrag van het voorschot voor advocaten als bedoeld in het Besluit vergoedingen rechtsbijstand 2000
