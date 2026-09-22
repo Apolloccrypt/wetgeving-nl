@@ -7,7 +7,7 @@ laatste_update: 1988-04-20
 status: geldig
 toestand: 1988-04-20
 bron: "https://wetten.overheid.nl/BWBV0002406"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije in verband met de toetreding van de Helleense Republiek tot de Gemeenschap

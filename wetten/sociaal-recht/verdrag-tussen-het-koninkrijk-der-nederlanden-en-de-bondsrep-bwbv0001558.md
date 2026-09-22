@@ -8,7 +8,7 @@ laatste_update: 2010-10-28
 status: geldig
 toestand: 2010-10-28
 bron: "https://wetten.overheid.nl/BWBV0001558"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale zekerheid ter aanvulling van communautaire regelingen

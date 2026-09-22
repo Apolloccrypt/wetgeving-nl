@@ -8,7 +8,7 @@ laatste_update: 2002-05-03
 status: geldig
 toestand: 2002-05-03
 bron: "https://wetten.overheid.nl/BWBV0001212"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Besluit van de Vertegenwoordigers van de Regeringen van de Lid-Staten, in het kader van de Raad bijeen, van 19 december 1995 betreffende bescherming van de burgers van de Europese Unie door de diplomatieke en consulaire vertegenwoordigingen (95/553/EG)

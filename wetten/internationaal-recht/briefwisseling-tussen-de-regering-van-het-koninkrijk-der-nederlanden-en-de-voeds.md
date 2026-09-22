@@ -8,7 +8,7 @@ laatste_update: 2005-10-15
 status: geldig
 toestand: 2005-10-15
 bron: "https://wetten.overheid.nl/BWBV0001690"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de regering van het Koninkrijk der Nederlanden en de Voedsel- en Landbouworganisatie van de Verenigde Naties (FAO) houdende een verdrag betreffende de 37ste zitting van het Codex Comité voedseladditieven en -verontreinigers te Den Haag van 25 tot 29 april 2005

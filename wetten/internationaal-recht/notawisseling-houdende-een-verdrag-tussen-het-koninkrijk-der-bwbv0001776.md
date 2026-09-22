@@ -8,7 +8,7 @@ laatste_update: 2006-06-27
 status: geldig
 toestand: 2006-06-27
 bron: "https://wetten.overheid.nl/BWBV0001776"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende privileges en immuniteiten van het personeel van de Europese Octrooiorganisatie en hun gezinsleden

@@ -8,7 +8,7 @@ laatste_update: 2006-05-05
 status: geldig
 toestand: 2006-05-05
 bron: "https://wetten.overheid.nl/BWBV0001794"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Ierland inzake het wederzijds aanhouden van voorraden ruwe aardolie en/of aardolieprodukten

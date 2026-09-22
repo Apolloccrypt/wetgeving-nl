@@ -8,7 +8,7 @@ laatste_update: 1999-07-01
 status: geldig
 toestand: 1999-07-01
 bron: "https://wetten.overheid.nl/BWBV0001348"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Armenië, anderzijds

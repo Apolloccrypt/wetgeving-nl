@@ -8,7 +8,7 @@ laatste_update: 2004-04-01
 status: geldig
 toestand: 2004-04-01
 bron: "https://wetten.overheid.nl/BWBV0001612"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag inzake sociale zekerheid tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada

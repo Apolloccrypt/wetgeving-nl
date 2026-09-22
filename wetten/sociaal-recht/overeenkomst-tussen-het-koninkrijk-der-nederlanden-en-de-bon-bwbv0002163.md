@@ -8,7 +8,7 @@ laatste_update: 2012-06-22
 status: geldig
 toestand: 2012-06-22
 bron: "https://wetten.overheid.nl/BWBV0002163"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake wederzijdse bijstandsverlening bij het bestrijden van rampen, zware ongevallen daaronder begrepen

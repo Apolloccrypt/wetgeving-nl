@@ -8,7 +8,7 @@ laatste_update: 2007-10-01
 status: geldig
 toestand: 2007-10-01
 bron: "https://wetten.overheid.nl/BWBV0001666"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Cyprus inzake privileges en immuniteiten voor verbindingsofficieren die door Cyprus bij Europol te 's-Gravenhage gedetacheerd worden

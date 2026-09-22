@@ -8,7 +8,7 @@ laatste_update: 2007-05-12
 status: geldig
 toestand: 2007-05-12
 bron: "https://wetten.overheid.nl/BWBV0001959"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot Brittannië en Noord-Ierland betreffende de status van militair en burgerpersoneel van de Britse strijdkrachten in de Nederlandse Antillen en Aruba voor de oefening "Caribbean Lion 2006"

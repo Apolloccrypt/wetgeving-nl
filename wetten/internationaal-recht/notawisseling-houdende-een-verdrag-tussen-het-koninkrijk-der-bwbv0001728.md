@@ -8,7 +8,7 @@ laatste_update: 2006-06-27
 status: geldig
 toestand: 2006-06-27
 bron: "https://wetten.overheid.nl/BWBV0001728"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie inzake de tewerkstelling van gezinsleden

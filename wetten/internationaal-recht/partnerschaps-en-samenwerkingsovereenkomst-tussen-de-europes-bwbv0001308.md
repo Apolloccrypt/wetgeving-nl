@@ -8,7 +8,7 @@ laatste_update: 2013-06-01
 status: geldig
 toestand: 2013-06-01
 bron: "https://wetten.overheid.nl/BWBV0001308"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Kazachstan, anderzijds

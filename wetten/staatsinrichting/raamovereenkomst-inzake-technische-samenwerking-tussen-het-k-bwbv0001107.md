@@ -8,7 +8,7 @@ laatste_update: 1995-12-06
 status: geldig
 toestand: 1995-12-06
 bron: "https://wetten.overheid.nl/BWBV0001107"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Raamovereenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica

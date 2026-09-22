@@ -8,7 +8,7 @@ laatste_update: 2002-10-17
 status: geldig
 toestand: 2002-10-17
 bron: "https://wetten.overheid.nl/BWBV0001474"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de prejudiciële uitlegging, door het Hof van Justitie van de Europese Gemeenschappen, van de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen

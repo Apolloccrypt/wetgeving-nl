@@ -8,7 +8,7 @@ laatste_update: 2006-05-01
 status: geldig
 toestand: 2006-05-01
 bron: "https://wetten.overheid.nl/BWBV0001681"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Malta inzake privileges en immuniteiten voor verbindingsofficieren die door Malta bij Europol te 's-Gravenhage gedetacheerd worden

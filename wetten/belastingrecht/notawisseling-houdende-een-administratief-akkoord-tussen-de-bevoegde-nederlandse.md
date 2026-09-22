@@ -8,7 +8,7 @@ laatste_update: 1982-05-28
 status: geldig
 toestand: 1982-05-28
 bron: "https://wetten.overheid.nl/BWBV0002403"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een administratief akkoord tussen de bevoegde Nederlandse en Hongaarse autoriteiten inzake de wederzijdse vrijstelling van motorrijtuigbelasting

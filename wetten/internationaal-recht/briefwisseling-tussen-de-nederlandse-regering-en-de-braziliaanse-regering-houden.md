@@ -8,7 +8,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBV0001287"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Nederlandse Regering en de Braziliaanse Regering houdende een verdrag inzake de tewerkstelling van gezinsleden van diplomaten

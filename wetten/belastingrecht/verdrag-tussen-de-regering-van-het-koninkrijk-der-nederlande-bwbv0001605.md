@@ -8,7 +8,7 @@ laatste_update: 2003-09-30
 status: geldig
 toestand: 2003-09-30
 bron: "https://wetten.overheid.nl/BWBV0001605"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Azerbeidzjan inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving

@@ -8,7 +8,7 @@ laatste_update: 2005-07-01
 status: geldig
 toestand: 2005-07-01
 bron: "https://wetten.overheid.nl/BWBV0001735"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Federale Democratische Republiek Ethiopië

@@ -8,7 +8,7 @@ laatste_update: 2002-07-01
 status: geldig
 toestand: 2002-07-01
 bron: "https://wetten.overheid.nl/BWBV0001494"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de regering van het Koninkrijk der Nederlanden en de regering van Zwitserland, houdende een verdrag inzake de status van de verbindingsofficieren die door Zwitserland in het kader van het Partnerschap voor de Vrede ter beschikking worden gesteld aan het regionale NAVO-hoofdkwartier van de Allied Forces North (AFNORTH) te Brunssum

@@ -8,7 +8,7 @@ laatste_update: 1995-02-01
 status: geldig
 toestand: 1995-02-01
 bron: "https://wetten.overheid.nl/BWBV0001887"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Spanje inzake de uitbreiding van het Europees Verdrag betreffende uitlevering tot de Nederlandse Antillen en Aruba

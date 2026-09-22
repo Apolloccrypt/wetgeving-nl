@@ -8,7 +8,7 @@ laatste_update: 1987-08-07
 status: geldig
 toestand: 1987-08-07
 bron: "https://wetten.overheid.nl/BWBV0002206"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen het waterschap Regge en Dinkel, het Unterhaltungsverband 114 Vecht en het Wasser- und Bodenverband Puntbecke over het onderhoud van de Puntbecke, de Haarmanngraben, de Ravenshorster Bach, de Stollwerkgraben, de Aarninkgraben en de Ohmanngraben

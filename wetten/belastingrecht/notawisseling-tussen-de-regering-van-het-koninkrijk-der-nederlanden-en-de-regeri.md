@@ -8,7 +8,7 @@ laatste_update: 2002-12-13
 status: geldig
 toestand: 2002-12-13
 bron: "https://wetten.overheid.nl/BWBV0001949"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika inzake de uitbreiding tot de Nederlandse Antillen en Aruba van het Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving

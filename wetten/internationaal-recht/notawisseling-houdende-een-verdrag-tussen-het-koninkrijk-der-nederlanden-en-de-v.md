@@ -8,7 +8,7 @@ laatste_update: 2013-05-03
 status: geldig
 toestand: 2013-05-03
 bron: "https://wetten.overheid.nl/BWBV0001731"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake de status van militair- en burgerpersoneel van de Amerikaanse Strijdkrachten tijdens militaire training en oefeningen op de Nederlandse Antillen en Aruba

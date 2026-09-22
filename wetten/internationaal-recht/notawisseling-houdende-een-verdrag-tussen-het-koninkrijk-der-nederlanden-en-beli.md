@@ -8,7 +8,7 @@ laatste_update: 2005-08-29
 status: geldig
 toestand: 2005-08-29
 bron: "https://wetten.overheid.nl/BWBV0001705"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en Belize betreffende de status van Nederlands militair- en burgerpersoneel ten behoeve van training

@@ -8,7 +8,7 @@ laatste_update: 2007-03-01
 status: geldig
 toestand: 2007-03-01
 bron: "https://wetten.overheid.nl/BWBV0001703"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Zwitserse Bondsstaat betreffende de overname van onregelmatig binnengekomen en verblijvende personen

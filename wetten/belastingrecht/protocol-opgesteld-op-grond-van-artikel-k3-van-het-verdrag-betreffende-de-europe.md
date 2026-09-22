@@ -8,7 +8,7 @@ laatste_update: 2011-05-27
 status: geldig
 toestand: 2011-05-27
 bron: "https://wetten.overheid.nl/BWBV0001457"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende het toepassingsgebied van het witwassen van opbrengsten in de Overeenkomst inzake het gebruik van informatica op douanegebied, alsmede betreffende de opneming van het registratienummer van het vervoermiddel in de Overeenkomst

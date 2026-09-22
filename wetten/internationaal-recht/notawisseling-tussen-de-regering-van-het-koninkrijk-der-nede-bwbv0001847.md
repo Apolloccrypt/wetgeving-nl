@@ -8,7 +8,7 @@ laatste_update: 1997-07-01
 status: geldig
 toestand: 1997-07-01
 bron: "https://wetten.overheid.nl/BWBV0001847"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Litouwen inzake de uitbreiding van het Europees Verdrag betreffende uitlevering tot de Nederlandse Antillen en Aruba

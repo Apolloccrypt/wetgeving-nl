@@ -8,7 +8,7 @@ laatste_update: 2000-11-01
 status: geldig
 toestand: 2000-11-01
 bron: "https://wetten.overheid.nl/BWBV0001428"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie inzake samenwerking op het gebied van de veilige ontmanteling van de kernwapens die in de Russische Federatie worden afgestoten en van de atoomonderzeeboten van de Russische marine die in de noordelijke regio uit bedrijf worden genomen

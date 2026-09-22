@@ -8,7 +8,7 @@ laatste_update: 1997-06-03
 status: geldig
 toestand: 1997-06-03
 bron: "https://wetten.overheid.nl/BWBV0001290"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Japan inzake samenwerking op het gebied van wetenschap en technologie

@@ -8,7 +8,7 @@ laatste_update: 2001-02-01
 status: geldig
 toestand: 2001-02-01
 bron: "https://wetten.overheid.nl/BWBV0001462"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de stationering van strijdkrachten van de Bondsrepubliek Duitsland in het Koninkrijk der Nederlanden

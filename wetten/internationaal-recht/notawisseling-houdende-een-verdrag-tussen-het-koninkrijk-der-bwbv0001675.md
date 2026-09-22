@@ -8,7 +8,7 @@ laatste_update: 2005-03-15
 status: geldig
 toestand: 2005-03-15
 bron: "https://wetten.overheid.nl/BWBV0001675"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Europees Ruimte-Agentschap (ESA) inzake de positie van ESA-ESTEC-stagiairs in Nederland

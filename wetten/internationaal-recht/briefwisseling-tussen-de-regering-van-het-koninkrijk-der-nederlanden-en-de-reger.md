@@ -8,7 +8,7 @@ laatste_update: 1996-09-03
 status: geldig
 toestand: 1996-09-03
 bron: "https://wetten.overheid.nl/BWBV0001165"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada houdende een verdrag inzake het gebruik door Canadese inspectieteams van Nederlandse militaire faciliteiten

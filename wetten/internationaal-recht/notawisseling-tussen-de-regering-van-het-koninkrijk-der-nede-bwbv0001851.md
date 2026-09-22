@@ -8,7 +8,7 @@ laatste_update: 1996-10-01
 status: geldig
 toestand: 1996-10-01
 bron: "https://wetten.overheid.nl/BWBV0001851"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Finland inzake uitbreiding van het Europees Verdrag betreffende uitlevering tot de Nederlandse Antillen en Aruba

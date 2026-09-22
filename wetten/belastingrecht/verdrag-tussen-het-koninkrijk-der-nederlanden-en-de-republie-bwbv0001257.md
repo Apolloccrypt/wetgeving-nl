@@ -8,7 +8,7 @@ laatste_update: 1997-12-20
 status: geldig
 toestand: 1997-12-20
 bron: "https://wetten.overheid.nl/BWBV0001257"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Finland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

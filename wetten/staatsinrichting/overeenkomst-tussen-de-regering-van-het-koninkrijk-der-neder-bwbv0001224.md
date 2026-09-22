@@ -8,7 +8,7 @@ laatste_update: 1997-06-05
 status: geldig
 toestand: 1997-06-05
 bron: "https://wetten.overheid.nl/BWBV0001224"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Marokko houdende de regeling van de financiële gevolgen voortvloeiend uit de overdracht aan de Marokkaanse Staat van landbouwgronden of gronden die voor de landbouw waren bestemd en die hebben toebehoord aan Nederlandse staatsburgers

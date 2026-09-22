@@ -8,7 +8,7 @@ laatste_update: 1991-01-01
 status: geldig
 toestand: 1991-01-01
 bron: "https://wetten.overheid.nl/BWBV0002165"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Nederlandse, de Belgische en de Luxemburgse Regeringen, enerzijds, en de Regering van de Tsjechische en Slowaakse Federale Republiek, anderzijds, houdende een overeenkomst inzake de afschaffing van de visumplicht

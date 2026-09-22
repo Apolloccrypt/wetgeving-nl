@@ -8,7 +8,7 @@ laatste_update: 1983-07-19
 status: geldig
 toestand: 1983-07-19
 bron: "https://wetten.overheid.nl/BWBV0002049"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika houdende een overeenkomst inzake de installatie van een militair televisiestation te Soesterberg

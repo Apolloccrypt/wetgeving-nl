@@ -8,7 +8,7 @@ laatste_update: 2007-06-05
 status: geldig
 toestand: 2007-06-05
 bron: "https://wetten.overheid.nl/BWBV0002088"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Noord Atlantische Verdragsorganisatie inzake de mogelijkheid voor gezinsleden van functionarissen van het NATO Airborne Early Warning and Control Programme Management Agency (NAPMA) om in Nederland betaald werk te verrichten

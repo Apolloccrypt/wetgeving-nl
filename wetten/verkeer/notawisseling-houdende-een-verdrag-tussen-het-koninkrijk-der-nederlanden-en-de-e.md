@@ -8,7 +8,7 @@ laatste_update: 2006-07-28
 status: geldig
 toestand: 2006-07-28
 bron: "https://wetten.overheid.nl/BWBV0001814"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Europese Organisatie voor de veiligheid van de luchtvaart (EUROCONTROL) betreffende de privileges en immuniteiten van het personeel van EUROCONTROL en hun gezinsleden

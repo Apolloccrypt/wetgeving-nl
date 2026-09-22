@@ -8,7 +8,7 @@ laatste_update: 2004-05-01
 status: geldig
 toestand: 2004-05-01
 bron: "https://wetten.overheid.nl/BWBV0001584"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de Regering van de Slowaakse Republiek, anderzijds, betreffende de overname van onregelmatig binnengekomen of verblijvende personen

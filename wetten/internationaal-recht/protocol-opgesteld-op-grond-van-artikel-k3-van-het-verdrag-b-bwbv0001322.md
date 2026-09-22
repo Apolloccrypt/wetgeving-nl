@@ -8,7 +8,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBV0001322"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de prejudiciële uitlegging, door het Hof van Justitie van de Europese Gemeenschappen, van de Overeenkomst tot oprichting van een Europese Politiedienst

@@ -8,7 +8,7 @@ laatste_update: 1995-10-25
 status: geldig
 toestand: 1995-10-25
 bron: "https://wetten.overheid.nl/BWBV0001195"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Vietnam tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

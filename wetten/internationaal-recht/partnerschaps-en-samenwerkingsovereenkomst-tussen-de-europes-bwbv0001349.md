@@ -8,7 +8,7 @@ laatste_update: 2016-08-01
 status: geldig
 toestand: 2016-08-01
 bron: "https://wetten.overheid.nl/BWBV0001349"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Azerbeidzjan, anderzijds

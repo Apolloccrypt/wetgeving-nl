@@ -8,7 +8,7 @@ laatste_update: 2003-04-01
 status: geldig
 toestand: 2003-04-01
 bron: "https://wetten.overheid.nl/BWBV0001565"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, betreffende de financiering en het beheer van de steun van de Gemeenschap in het kader van het financieel protocol bij de Partnerschapsovereenkomst tussen de staten in Afrika, het Caribisch gebied en de Stille Oceaan en de Europese Gemeenschap en haar lidstaten, ondertekend te Cotonou (Benin) op 23 juni 2000, en de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van het vierde deel van het EG-Verdrag van toepassing zijn

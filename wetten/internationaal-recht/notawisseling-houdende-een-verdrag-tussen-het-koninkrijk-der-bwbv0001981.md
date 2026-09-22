@@ -8,7 +8,7 @@ laatste_update: 2006-01-05
 status: geldig
 toestand: 2006-01-05
 bron: "https://wetten.overheid.nl/BWBV0001981"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk betreffende de status van defensiepersoneel van het Verenigd Koninkrijk dat luchtverkenningsassistentie verleent aan de marine en de kustwacht ten behoeve van de Nederlandse Antillen en Aruba

@@ -8,7 +8,7 @@ laatste_update: 2006-03-30
 status: geldig
 toestand: 2006-03-30
 bron: "https://wetten.overheid.nl/BWBV0001781"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake het transport van aardgas door een pijpleiding tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland

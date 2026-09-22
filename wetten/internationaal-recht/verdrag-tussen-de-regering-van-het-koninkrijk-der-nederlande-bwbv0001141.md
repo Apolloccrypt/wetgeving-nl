@@ -8,7 +8,7 @@ laatste_update: 1995-05-01
 status: geldig
 toestand: 1995-05-01
 bron: "https://wetten.overheid.nl/BWBV0001141"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Albanië inzake internationaal vervoer over de weg

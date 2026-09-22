@@ -8,7 +8,7 @@ laatste_update: 2006-06-22
 status: geldig
 toestand: 2006-06-22
 bron: "https://wetten.overheid.nl/BWBV0001757"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru houdende een verdrag inzake betaalde arbeid ten behoeve van afhankelijke gezinsleden van het diplomatiek, consulair, administratief, technisch en ondersteunend personeel van de diplomatieke en consulaire missies

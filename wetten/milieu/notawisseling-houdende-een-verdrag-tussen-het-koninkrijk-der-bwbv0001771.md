@@ -8,7 +8,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBV0001771"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Milieuprogramma van de Verenigde Naties (UNEP) betreffende privileges en immuniteiten van het personeel van UNEP en hun gezinsleden

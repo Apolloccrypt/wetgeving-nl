@@ -8,7 +8,7 @@ laatste_update: 2003-02-21
 status: geldig
 toestand: 2003-02-21
 bron: "https://wetten.overheid.nl/BWBV0001571"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Georgië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

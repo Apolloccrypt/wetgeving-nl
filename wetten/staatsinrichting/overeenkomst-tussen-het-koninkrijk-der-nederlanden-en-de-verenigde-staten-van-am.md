@@ -8,7 +8,7 @@ laatste_update: 1994-07-31
 status: geldig
 toestand: 1994-07-31
 bron: "https://wetten.overheid.nl/BWBV0001127"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake wederzijdse samenwerking bij de opsporing, inbeslagneming en confiscatie van opbrengsten van en hulpmiddelen bij het plegen van misdrijven en de verdeling van geconfisqueerde voorwerpen

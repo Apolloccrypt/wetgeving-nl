@@ -8,7 +8,7 @@ laatste_update: 1995-07-01
 status: geldig
 toestand: 1995-07-01
 bron: "https://wetten.overheid.nl/BWBV0001187"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake wederzijdse bijstand en de uitwisseling van informatie op het gebied van effecten, termijncontracten en opties

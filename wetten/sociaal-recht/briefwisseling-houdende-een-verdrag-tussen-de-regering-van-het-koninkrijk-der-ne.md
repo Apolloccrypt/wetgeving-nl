@@ -8,7 +8,7 @@ laatste_update: 2007-05-17
 status: geldig
 toestand: 2007-05-17
 bron: "https://wetten.overheid.nl/BWBV0001803"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Verenigde Naties, Directie Economische en Sociale Zaken (UNDESA) betreffende de „User-Producer Conference’’ te Voorburg van 22 t/m 24 mei 2006

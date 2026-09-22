@@ -8,7 +8,7 @@ laatste_update: 1996-03-04
 status: geldig
 toestand: 1996-03-04
 bron: "https://wetten.overheid.nl/BWBV0001899"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de uitbreiding van het Europees Verdrag betreffende uitlevering tot de Nederlandse Antillen en Aruba

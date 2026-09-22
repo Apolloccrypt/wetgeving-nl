@@ -8,7 +8,7 @@ laatste_update: 2011-05-27
 status: geldig
 toestand: 2011-05-27
 bron: "https://wetten.overheid.nl/BWBV0001458"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie inzake het gebruik van informatica op douanegebied

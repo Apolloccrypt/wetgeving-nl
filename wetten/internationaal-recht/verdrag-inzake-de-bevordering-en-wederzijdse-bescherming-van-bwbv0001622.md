@@ -8,7 +8,7 @@ laatste_update: 2004-03-01
 status: geldig
 toestand: 2004-03-01
 bron: "https://wetten.overheid.nl/BWBV0001622"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Federale Republiek Joegoslavië

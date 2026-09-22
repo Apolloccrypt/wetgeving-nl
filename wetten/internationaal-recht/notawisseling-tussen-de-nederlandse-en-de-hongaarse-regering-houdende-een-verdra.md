@@ -8,7 +8,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBV0001200"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Nederlandse en de Hongaarse Regering houdende een verdrag inzake de tewerkstelling van gezinsleden van het diplomatieke en consulaire personeel

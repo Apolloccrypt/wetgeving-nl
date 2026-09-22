@@ -8,7 +8,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBV0001170"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Bijkomende bepalingen tot uitlegging van de Uniforme Regelen betreffende de overeenkomst van internationaal spoorwegvervoer van goederen (CIM), Bijlage B bij het COTIF, in het geval van scheiding van het beheer van de spoorweginfrastructuur en de exploitatie van de vervoersdiensten van de spoorwegondernemingen

@@ -8,7 +8,7 @@ laatste_update: 2021-11-25
 status: geldig
 toestand: 2021-11-25
 bron: "https://wetten.overheid.nl/BWBV0001673"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een Verdrag ter (verdere) uitvoering van artikel 71, vierde lid, van de op 3 augustus 1959 te Bonn tot stand gekomen Aanvullende Overeenkomst bij het NAVO Status Verdrag

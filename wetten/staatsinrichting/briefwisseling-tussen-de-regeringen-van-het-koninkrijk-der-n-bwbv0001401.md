@@ -7,7 +7,7 @@ laatste_update: 1999-07-01
 status: geldig
 toestand: 1999-07-01
 bron: "https://wetten.overheid.nl/BWBV0001401"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de regering van Estland, anderzijds, houdende een overeenkomst inzake de afschaffing van de visumplicht

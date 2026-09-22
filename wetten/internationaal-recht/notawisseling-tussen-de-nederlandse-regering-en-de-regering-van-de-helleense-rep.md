@@ -8,7 +8,7 @@ laatste_update: 1995-02-10
 status: geldig
 toestand: 1995-02-10
 bron: "https://wetten.overheid.nl/BWBV0001162"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Regering van de Helleense Republiek houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsambtenaren en andere personeelsleden die vanwege de Regering van de Helleense Republiek bij de Europol Drugs Eenheid te 's-Gravenhage worden tewerkgesteld

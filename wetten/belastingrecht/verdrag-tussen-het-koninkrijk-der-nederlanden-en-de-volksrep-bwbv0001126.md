@@ -8,7 +8,7 @@ laatste_update: 1994-06-08
 status: geldig
 toestand: 1994-06-08
 bron: "https://wetten.overheid.nl/BWBV0001126"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

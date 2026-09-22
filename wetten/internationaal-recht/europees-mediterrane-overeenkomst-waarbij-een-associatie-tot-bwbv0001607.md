@@ -8,7 +8,7 @@ laatste_update: 2015-09-21
 status: geldig
 toestand: 2015-09-21
 bron: "https://wetten.overheid.nl/BWBV0001607"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Europees-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Arabische Republiek Egypte, anderzijds

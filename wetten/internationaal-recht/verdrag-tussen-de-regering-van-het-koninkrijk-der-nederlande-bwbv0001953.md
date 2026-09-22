@@ -8,7 +8,7 @@ laatste_update: 1998-09-01
 status: geldig
 toestand: 1998-09-01
 bron: "https://wetten.overheid.nl/BWBV0001953"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Trinidad en Tobago inzake luchtdiensten tussen en via de Nederlandse Antillen en Trinidad en Tobago

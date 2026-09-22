@@ -8,7 +8,7 @@ laatste_update: 2010-08-26
 status: geldig
 toestand: 2010-08-26
 bron: "https://wetten.overheid.nl/BWBV0001682"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de status van Nederlandse militairen en Nederlands burgerpersoneel, aanwezig in Suriname in verband met training en opleiding

@@ -8,7 +8,7 @@ laatste_update: 2001-03-01
 status: geldig
 toestand: 2001-03-01
 bron: "https://wetten.overheid.nl/BWBV0001470"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek El Salvador inzake de bevordering en de wederzijdse bescherming van investeringen

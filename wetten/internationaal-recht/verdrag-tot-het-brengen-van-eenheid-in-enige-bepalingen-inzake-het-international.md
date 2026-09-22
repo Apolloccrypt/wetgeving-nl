@@ -8,7 +8,7 @@ laatste_update: 2009-12-30
 status: geldig
 toestand: 2009-12-30
 bron: "https://wetten.overheid.nl/BWBV0001644"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer

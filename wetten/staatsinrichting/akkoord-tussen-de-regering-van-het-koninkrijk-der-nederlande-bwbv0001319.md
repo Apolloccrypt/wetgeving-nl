@@ -8,7 +8,7 @@ laatste_update: 2000-09-01
 status: geldig
 toestand: 2000-09-01
 bron: "https://wetten.overheid.nl/BWBV0001319"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Akkoord tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de organisatie en de activiteiten van het 1 (Duits/Nederlandse) Legerkorps en het Air Operations Coordination Center

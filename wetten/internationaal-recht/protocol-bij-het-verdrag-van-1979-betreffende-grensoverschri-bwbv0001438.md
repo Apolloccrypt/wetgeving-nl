@@ -8,7 +8,7 @@ laatste_update: 2023-02-26
 status: geldig
 toestand: 2023-02-26
 bron: "https://wetten.overheid.nl/BWBV0001438"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake persistente organische verontreinigende stoffen

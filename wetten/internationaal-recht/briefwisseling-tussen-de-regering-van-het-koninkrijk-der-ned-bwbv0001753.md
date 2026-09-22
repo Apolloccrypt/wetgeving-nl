@@ -8,7 +8,7 @@ laatste_update: 2006-08-25
 status: geldig
 toestand: 2006-08-25
 bron: "https://wetten.overheid.nl/BWBV0001753"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de regering van het Koninkrijk der Nederlanden en de Voedsel- en Landbouworganisatie van de Verenigde Naties (FAO) houdende een verdrag betreffende de 72ste zitting van het Uitvoerend Comité van de Europese Commissie voor de beheersing van mond- en klauwzeer te 's-Gravenhage op 29 en 30 november 2005

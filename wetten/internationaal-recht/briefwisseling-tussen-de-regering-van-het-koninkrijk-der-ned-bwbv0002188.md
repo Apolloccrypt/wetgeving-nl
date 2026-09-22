@@ -8,7 +8,7 @@ laatste_update: 1991-07-01
 status: geldig
 toestand: 1991-07-01
 bron: "https://wetten.overheid.nl/BWBV0002188"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Frankrijk houdende een Overeenkomst inzake de uitbreiding van de toepasselijkheid van het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken tot de Franse overzeese gebieden Frans Polynesië, Nieuw Caledonië, Wallis en Futuma alsmede Mayotte en St.Pierre en Miquelon

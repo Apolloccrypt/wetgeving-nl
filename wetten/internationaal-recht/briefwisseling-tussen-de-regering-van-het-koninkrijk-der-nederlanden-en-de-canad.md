@@ -8,7 +8,7 @@ laatste_update: 1998-05-07
 status: geldig
 toestand: 1998-05-07
 bron: "https://wetten.overheid.nl/BWBV0001267"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Canadese Regering houdende een verdrag inzake de opleiding van eenheden van de Nederlandse strijdkrachten in Canada

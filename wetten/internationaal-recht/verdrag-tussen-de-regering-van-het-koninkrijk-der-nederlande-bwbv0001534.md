@@ -8,7 +8,7 @@ laatste_update: 2002-05-31
 status: geldig
 toestand: 2002-05-31
 bron: "https://wetten.overheid.nl/BWBV0001534"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Staat Koeweit inzake de bevordering en de wederzijdse bescherming van investeringen

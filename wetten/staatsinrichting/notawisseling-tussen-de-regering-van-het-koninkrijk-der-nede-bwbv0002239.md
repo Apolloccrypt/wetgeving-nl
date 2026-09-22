@@ -8,7 +8,7 @@ laatste_update: 1992-11-09
 status: geldig
 toestand: 1992-11-09
 bron: "https://wetten.overheid.nl/BWBV0002239"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika inzake procedures te volgen bij CSE-inspecties

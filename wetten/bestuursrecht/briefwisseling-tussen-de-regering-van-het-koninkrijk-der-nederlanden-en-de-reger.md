@@ -8,7 +8,7 @@ laatste_update: 1990-07-10
 status: geldig
 toestand: 1990-07-10
 bron: "https://wetten.overheid.nl/BWBV0002185"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Spanje houdende een overeenkomst inzake de deelneming van wederzijdse onderdanen aan de gemeenteraadsverkiezingen in beide landen

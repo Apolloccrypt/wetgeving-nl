@@ -8,7 +8,7 @@ laatste_update: 2005-04-01
 status: geldig
 toestand: 2005-04-01
 bron: "https://wetten.overheid.nl/BWBV0001671"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en Bulgarije inzake privileges en immuniteiten voor verbindingsofficieren die door Bulgarije bij Europol te 's-Gravenhage gedetacheerd worden

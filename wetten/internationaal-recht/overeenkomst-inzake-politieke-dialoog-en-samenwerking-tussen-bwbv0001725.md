@@ -7,7 +7,7 @@ laatste_update: 2003-12-15
 status: geldig
 toestand: 2003-12-15
 bron: "https://wetten.overheid.nl/BWBV0001725"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Andesgemeenschap en haar lidstaten (Bolivia, Colombia, Ecuador, Peru en Venezuela), anderzijds

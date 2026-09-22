@@ -8,7 +8,7 @@ laatste_update: 2004-12-21
 status: geldig
 toestand: 2004-12-21
 bron: "https://wetten.overheid.nl/BWBV0001696"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China betreffende de wederkerige vrijstelling van belasting van inkomsten uit internationaal vervoer door luchtvaartondernemingen

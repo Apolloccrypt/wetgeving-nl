@@ -8,7 +8,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBV0001300"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Tunesië, anderzijds

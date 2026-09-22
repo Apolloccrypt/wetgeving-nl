@@ -8,7 +8,7 @@ laatste_update: 1996-06-01
 status: geldig
 toestand: 1996-06-01
 bron: "https://wetten.overheid.nl/BWBV0001181"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Mongolië inzake luchtdiensten

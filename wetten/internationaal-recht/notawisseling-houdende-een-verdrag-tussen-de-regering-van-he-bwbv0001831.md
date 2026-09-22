@@ -8,7 +8,7 @@ laatste_update: 2007-02-01
 status: geldig
 toestand: 2007-02-01
 bron: "https://wetten.overheid.nl/BWBV0001831"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Roemenië inzake privileges en immuniteiten voor verbindingsofficieren die door Roemenië bij Europol te ’s-Gravenhage gedetacheerd worden

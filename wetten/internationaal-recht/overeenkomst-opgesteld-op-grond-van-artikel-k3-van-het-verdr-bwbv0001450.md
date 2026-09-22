@@ -7,7 +7,7 @@ laatste_update: 2000-09-27
 status: geldig
 toestand: 2000-09-27
 bron: "https://wetten.overheid.nl/BWBV0001450"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie aangaande de verkorte procedure tot uitlevering tussen de Lid-Staten van de Europese Unie

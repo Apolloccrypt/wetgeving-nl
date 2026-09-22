@@ -8,7 +8,7 @@ laatste_update: 2004-04-01
 status: geldig
 toestand: 2004-04-01
 bron: "https://wetten.overheid.nl/BWBV0001637"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag inzake de bevordering en de wederzijdse bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Tadzjikistan

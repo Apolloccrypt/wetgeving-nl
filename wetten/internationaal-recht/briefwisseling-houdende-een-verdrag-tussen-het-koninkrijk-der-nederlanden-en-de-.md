@@ -8,7 +8,7 @@ laatste_update: 2002-03-05
 status: geldig
 toestand: 2002-03-05
 bron: "https://wetten.overheid.nl/BWBV0001523"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Haagse Conferentie voor Internationaal Privaatrecht inzake het verlenen van nadere voorrechten en immuniteiten

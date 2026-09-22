@@ -9,7 +9,7 @@ laatste_update: 2005-11-01
 status: geldig
 toestand: 2005-11-01
 bron: "https://wetten.overheid.nl/BWBV0001613"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Aanvullend Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie

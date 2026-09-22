@@ -8,7 +8,7 @@ laatste_update: 1999-03-10
 status: geldig
 toestand: 1999-03-10
 bron: "https://wetten.overheid.nl/BWBV0001376"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Regering van de Bondsrepubliek Duitsland houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsofficieren die vanwege de Regering van de Bondsrepubliek Duitsland bij Europol te 's-Gravenhage worden tewerkgesteld

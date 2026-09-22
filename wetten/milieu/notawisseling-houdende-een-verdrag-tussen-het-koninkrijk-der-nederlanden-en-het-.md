@@ -8,7 +8,7 @@ laatste_update: 2018-03-02
 status: geldig
 toestand: 2018-03-02
 bron: "https://wetten.overheid.nl/BWBV0001765"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het UNESCO-instituut voor wateropleiding betreffende privileges en immuniteiten van het personeel van het UNESCO-IHE en hun gezinsleden

@@ -8,7 +8,7 @@ laatste_update: 2000-09-01
 status: geldig
 toestand: 2000-09-01
 bron: "https://wetten.overheid.nl/BWBV0001318"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de algemene voorwaarden voor het 1 (Duits/Nederlandse) legerkorps en de aan het korps verbonden eenheden en instellingen

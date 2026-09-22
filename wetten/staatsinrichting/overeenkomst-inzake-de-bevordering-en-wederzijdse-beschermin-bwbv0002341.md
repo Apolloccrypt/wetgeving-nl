@@ -8,7 +8,7 @@ laatste_update: 1992-11-25
 status: geldig
 toestand: 1992-11-25
 bron: "https://wetten.overheid.nl/BWBV0002341"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië

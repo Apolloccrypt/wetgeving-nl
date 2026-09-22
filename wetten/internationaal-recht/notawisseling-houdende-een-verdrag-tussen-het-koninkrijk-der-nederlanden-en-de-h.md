@@ -8,7 +8,7 @@ laatste_update: 2006-05-09
 status: geldig
 toestand: 2006-05-09
 bron: "https://wetten.overheid.nl/BWBV0001802"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Haagse Conferentie voor Internationaal Privaatrecht betreffende privileges en immuniteiten van het personeel van de Haagse Conferentie en hun gezinsleden

@@ -8,7 +8,7 @@ laatste_update: 2014-10-03
 status: geldig
 toestand: 2014-10-03
 bron: "https://wetten.overheid.nl/BWBV0001337"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds

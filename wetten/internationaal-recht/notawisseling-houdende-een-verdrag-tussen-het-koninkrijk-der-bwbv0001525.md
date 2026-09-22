@@ -8,7 +8,7 @@ laatste_update: 2002-04-30
 status: geldig
 toestand: 2002-04-30
 bron: "https://wetten.overheid.nl/BWBV0001525"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kyrgyzstan inzake de status van het in Kyrgyzstan gestationeerde Nederlandse defensie-personeel

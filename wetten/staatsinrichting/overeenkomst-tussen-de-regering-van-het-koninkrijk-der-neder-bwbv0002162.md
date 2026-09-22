@@ -8,7 +8,7 @@ laatste_update: 1992-06-01
 status: geldig
 toestand: 1992-06-01
 bron: "https://wetten.overheid.nl/BWBV0002162"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechische en Slowaakse Federatieve Republiek inzake de binnenvaart

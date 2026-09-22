@@ -8,7 +8,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBV0001266"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de aanleg van een spoorverbinding voor hogesnelheidstreinen tussen Rotterdam en Antwerpen

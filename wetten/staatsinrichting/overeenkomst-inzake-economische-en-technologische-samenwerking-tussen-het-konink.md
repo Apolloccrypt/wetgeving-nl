@@ -8,7 +8,7 @@ laatste_update: 1984-09-01
 status: geldig
 toestand: 1984-09-01
 bron: "https://wetten.overheid.nl/BWBV0002171"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst inzake economische en technologische samenwerking tussen het Koninkrijk der Nederlanden en de Staat Koeweit

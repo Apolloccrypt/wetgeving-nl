@@ -8,7 +8,7 @@ laatste_update: 2005-02-01
 status: geldig
 toestand: 2005-02-01
 bron: "https://wetten.overheid.nl/BWBV0001701"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Speciale Administratieve Regio Hong Kong van de Volksrepubliek China inzake de export van socialezekerheidsuitkeringen

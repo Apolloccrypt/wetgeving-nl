@@ -8,7 +8,7 @@ laatste_update: 1998-04-01
 status: geldig
 toestand: 1998-04-01
 bron: "https://wetten.overheid.nl/BWBV0001958"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling inzake uitbreiding tot Aruba van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Korea inzake scheepvaart van 3 februari 1995

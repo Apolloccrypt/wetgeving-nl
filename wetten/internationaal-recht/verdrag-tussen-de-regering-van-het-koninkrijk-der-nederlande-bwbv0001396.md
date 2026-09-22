@@ -8,7 +8,7 @@ laatste_update: 1999-08-01
 status: geldig
 toestand: 1999-08-01
 bron: "https://wetten.overheid.nl/BWBV0001396"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Hongarije betreffende samenwerking tussen opsporingsdiensten op het gebied van de bestrijding van internationale misdaad

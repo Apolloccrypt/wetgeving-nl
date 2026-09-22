@@ -8,7 +8,7 @@ laatste_update: 1993-12-30
 status: geldig
 toestand: 1993-12-30
 bron: "https://wetten.overheid.nl/BWBV0001895"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Italië inzake uitbreiding van het Europees Verdrag betreffende uitlevering tot de Nederlandse Antillen en Aruba

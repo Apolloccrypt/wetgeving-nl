@@ -8,7 +8,7 @@ laatste_update: 2008-06-08
 status: geldig
 toestand: 2008-06-08
 bron: "https://wetten.overheid.nl/BWBV0002090"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een verdrag tussen de Regering van het Koninkrijk der Nederlanden en het Internationaal Agentschap voor Atoomenergie (IAEA) inzake een regionale workshop over „Operational Events, Transients and Precursor Analyses’’, 27–31 augustus 2007 te Petten

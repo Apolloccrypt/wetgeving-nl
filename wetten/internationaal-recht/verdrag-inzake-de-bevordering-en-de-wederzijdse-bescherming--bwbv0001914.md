@@ -8,7 +8,7 @@ laatste_update: 2007-11-01
 status: geldig
 toestand: 2007-11-01
 bron: "https://wetten.overheid.nl/BWBV0001914"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag inzake de bevordering en de wederzijdse bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Malawi

@@ -8,7 +8,7 @@ laatste_update: 2005-10-01
 status: geldig
 toestand: 2005-10-01
 bron: "https://wetten.overheid.nl/BWBV0001663"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol bij de Euro-mediterrane Overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Arabische Republiek Egypte, anderzijds, teneinde rekening te houden met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie

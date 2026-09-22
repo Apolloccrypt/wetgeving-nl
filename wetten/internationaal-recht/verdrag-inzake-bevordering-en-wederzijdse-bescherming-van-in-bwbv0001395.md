@@ -7,7 +7,7 @@ laatste_update: 1998-11-25
 status: geldig
 toestand: 1998-11-25
 bron: "https://wetten.overheid.nl/BWBV0001395"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag inzake bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Federale Republiek Brazilië

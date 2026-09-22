@@ -8,7 +8,7 @@ laatste_update: 1987-09-25
 status: geldig
 toestand: 1987-09-25
 bron: "https://wetten.overheid.nl/BWBV0002405"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Hongaarse Volksrepubliek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

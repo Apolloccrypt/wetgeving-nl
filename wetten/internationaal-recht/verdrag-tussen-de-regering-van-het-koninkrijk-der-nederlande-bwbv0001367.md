@@ -8,7 +8,7 @@ laatste_update: 2003-03-18
 status: geldig
 toestand: 2003-03-18
 bron: "https://wetten.overheid.nl/BWBV0001367"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie inzake de Nederlandse assistentie bij de vernietiging van voorraden chemische wapens in de Russische Federatie

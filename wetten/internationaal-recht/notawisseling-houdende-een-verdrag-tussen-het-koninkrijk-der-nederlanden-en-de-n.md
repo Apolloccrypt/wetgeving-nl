@@ -8,7 +8,7 @@ laatste_update: 2006-09-29
 status: geldig
 toestand: 2006-09-29
 bron: "https://wetten.overheid.nl/BWBV0001818"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Noord Atlantische Verdragsorganisatie (NAVO) betreffende de privileges en immuniteiten van het personeel van het NATO Airborne Early Warning and Contol Programme Manegement Agency (NAPMA) en hun gezinsleden

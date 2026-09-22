@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBV0001879"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Republiek Hongarije betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling

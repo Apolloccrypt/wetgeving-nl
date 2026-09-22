@@ -8,7 +8,7 @@ laatste_update: 2022-02-08
 status: geldig
 toestand: 2022-02-08
 bron: "https://wetten.overheid.nl/BWBV0001437"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake zware metalen

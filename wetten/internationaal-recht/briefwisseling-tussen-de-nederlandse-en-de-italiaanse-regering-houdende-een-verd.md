@@ -8,7 +8,7 @@ laatste_update: 1999-07-01
 status: geldig
 toestand: 1999-07-01
 bron: "https://wetten.overheid.nl/BWBV0001398"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Nederlandse en de Italiaanse Regering houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsofficieren die vanwege de Italiaanse Regering bij Europol te 's-Gravenhage worden tewerkgesteld

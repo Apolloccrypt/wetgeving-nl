@@ -8,7 +8,7 @@ laatste_update: 2006-10-26
 status: geldig
 toestand: 2006-10-26
 bron: "https://wetten.overheid.nl/BWBV0001758"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Senegal betreffende de status van Nederlands militair en burgerpersoneel in verband met multilaterale militaire oefeningen

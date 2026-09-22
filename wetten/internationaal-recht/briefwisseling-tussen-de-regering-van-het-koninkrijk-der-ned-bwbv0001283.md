@@ -8,7 +8,7 @@ laatste_update: 1997-06-01
 status: geldig
 toestand: 1997-06-01
 bron: "https://wetten.overheid.nl/BWBV0001283"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Argentinië houdende een verdrag inzake de tewerkstelling van gezinsleden van diplomaten

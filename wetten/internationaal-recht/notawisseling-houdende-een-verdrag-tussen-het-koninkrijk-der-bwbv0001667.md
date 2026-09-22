@@ -8,7 +8,7 @@ laatste_update: 2005-05-11
 status: geldig
 toestand: 2005-05-11
 bron: "https://wetten.overheid.nl/BWBV0001667"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Rwanda Tribunaal ten behoeve van een in Nederland verblijvende getuige voor het Speciale Gerechtshof voor Rwanda

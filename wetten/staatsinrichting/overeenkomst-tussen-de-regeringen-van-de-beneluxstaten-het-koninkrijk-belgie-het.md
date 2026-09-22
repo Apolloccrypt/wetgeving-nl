@@ -8,7 +8,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBV0001402"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen de Regeringen van de Beneluxstaten (het Koninkrijk België, het Koninkrijk der Nederlanden, het Groothertogdom Luxemburg) en de Regering van de Republiek Letland betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst)

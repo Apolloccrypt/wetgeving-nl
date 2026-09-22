@@ -8,7 +8,7 @@ laatste_update: 2014-11-04
 status: geldig
 toestand: 2014-11-04
 bron: "https://wetten.overheid.nl/BWBV0001961"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van de Verenigde Staten van Amerika inzake de uitwisseling van gegevens met betrekking tot belastingen

@@ -8,7 +8,7 @@ laatste_update: 2005-11-07
 status: geldig
 toestand: 2005-11-07
 bron: "https://wetten.overheid.nl/BWBV0001699"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van Zijne Majesteit de Sultan en Yang Dipertuan van Brunei Darussalam betreffende de status van Nederlands militair personeel ten behoeve van training

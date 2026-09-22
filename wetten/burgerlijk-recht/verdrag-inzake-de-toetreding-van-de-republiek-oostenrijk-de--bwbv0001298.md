@@ -8,7 +8,7 @@ laatste_update: 1998-12-01
 status: geldig
 toestand: 1998-12-01
 bron: "https://wetten.overheid.nl/BWBV0001298"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag inzake de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, alsmede tot het Protocol betreffende de uitlegging daarvan door het Hof van Justitie, zoals deze zijn gewijzigd bij het Verdrag inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, alsmede bij het Verdrag inzake de toetreding van de Helleense Republiek en bij het Verdrag inzake de toetreding van het Koninkrijk Spanje en de Portugese Republiek

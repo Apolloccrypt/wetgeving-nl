@@ -8,7 +8,7 @@ laatste_update: 2010-04-27
 status: geldig
 toestand: 2010-04-27
 bron: "https://wetten.overheid.nl/BWBV0001139"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Albanië inzake samenwerking tussen de Nederlandse Organisatie voor Ontwikkelingssamenwerking SNV en de Republiek Albanië

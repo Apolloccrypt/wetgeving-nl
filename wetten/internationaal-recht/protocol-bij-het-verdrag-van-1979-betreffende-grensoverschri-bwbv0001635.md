@@ -8,7 +8,7 @@ laatste_update: 2021-07-15
 status: geldig
 toestand: 2021-07-15
 bron: "https://wetten.overheid.nl/BWBV0001635"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand inzake vermindering van verzuring, eutrofiëring en ozon op leefniveau

@@ -8,7 +8,7 @@ laatste_update: 2002-08-01
 status: geldig
 toestand: 2002-08-01
 bron: "https://wetten.overheid.nl/BWBV0001377"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake voorrechten en immuniteiten te verlenen aan verbindingsofficieren die vanwege de Belgische Regering bij Europol te 's-Gravenhage worden tewerkgesteld

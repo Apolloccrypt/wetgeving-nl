@@ -8,7 +8,7 @@ laatste_update: 2004-02-02
 status: geldig
 toestand: 2004-02-02
 bron: "https://wetten.overheid.nl/BWBV0001627"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Noordatlantische Verdragsorganisatie betreffende de voorrechten en immuniteiten van de NATO Consultation, Command and Control Agency (NC3A)

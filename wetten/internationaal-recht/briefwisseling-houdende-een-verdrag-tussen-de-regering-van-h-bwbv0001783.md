@@ -9,7 +9,7 @@ laatste_update: 2007-01-24
 status: geldig
 toestand: 2007-01-24
 bron: "https://wetten.overheid.nl/BWBV0001783"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een verdrag tussen de Regering van het Koninkrijk der Nederlanden en het Ontwikkelingsprogramma van de Verenigde Naties (UNDP) betreffende de Global Resident Representatives Meeting 2006 te ’s-Gravenhage van 30 januari tot en met 4 februari 2006

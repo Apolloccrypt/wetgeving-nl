@@ -8,7 +8,7 @@ laatste_update: 2003-04-15
 status: geldig
 toestand: 2003-04-15
 bron: "https://wetten.overheid.nl/BWBV0001521"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Hongarije inzake privileges en immuniteiten voor verbindingsofficieren die door de Republiek Hongarije bij Europol te 's-Gravenhage gedetacheerd worden

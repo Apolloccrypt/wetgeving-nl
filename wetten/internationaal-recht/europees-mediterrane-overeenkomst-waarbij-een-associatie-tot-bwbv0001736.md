@@ -8,7 +8,7 @@ laatste_update: 2017-02-01
 status: geldig
 toestand: 2017-02-01
 bron: "https://wetten.overheid.nl/BWBV0001736"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Europees-mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Democratische Republiek Algerije, anderzijds

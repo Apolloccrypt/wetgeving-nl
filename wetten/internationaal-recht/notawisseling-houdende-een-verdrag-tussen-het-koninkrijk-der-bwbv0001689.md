@@ -8,7 +8,7 @@ laatste_update: 2005-04-19
 status: geldig
 toestand: 2005-04-19
 bron: "https://wetten.overheid.nl/BWBV0001689"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Internationaal Gerechtshof (IGH) inzake de positie van IGH-stagiairs in Nederland

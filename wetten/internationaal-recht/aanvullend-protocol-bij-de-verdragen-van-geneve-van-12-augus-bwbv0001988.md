@@ -8,7 +8,7 @@ laatste_update: 2007-06-13
 status: geldig
 toestand: 2007-06-13
 bron: "https://wetten.overheid.nl/BWBV0001988"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Aanvullend Protocol bij de Verdragen van Genève van 12 augustus 1949, betreffende de aanvaarding van een aanvullend onderscheidend embleem (Protocol III)

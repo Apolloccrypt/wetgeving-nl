@@ -8,7 +8,7 @@ laatste_update: 1987-09-02
 status: geldig
 toestand: 1987-09-02
 bron: "https://wetten.overheid.nl/BWBV0002356"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand inzake de vermindering van zwavelemissies of van de grensoverschrijdende stromen van deze zwavelverbindingen met tenminste 30 procent

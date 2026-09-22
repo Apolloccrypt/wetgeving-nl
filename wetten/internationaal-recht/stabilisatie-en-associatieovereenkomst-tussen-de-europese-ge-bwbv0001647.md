@@ -8,7 +8,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBV0001647"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Kroatië, anderzijds

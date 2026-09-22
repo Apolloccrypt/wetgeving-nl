@@ -8,7 +8,7 @@ laatste_update: 2007-10-01
 status: geldig
 toestand: 2007-10-01
 bron: "https://wetten.overheid.nl/BWBV0001760"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een overeenkomst tussen de Regeringen van de Benelux-Staten en de Regering van de Republiek Albanië inzake de afschaffing van de visumplicht voor houders van diplomatieke paspoorten

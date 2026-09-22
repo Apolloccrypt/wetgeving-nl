@@ -8,7 +8,7 @@ laatste_update: 1989-05-10
 status: geldig
 toestand: 1989-05-10
 bron: "https://wetten.overheid.nl/BWBV0002244"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrecht inzake de verlening van belastingvrijstelling

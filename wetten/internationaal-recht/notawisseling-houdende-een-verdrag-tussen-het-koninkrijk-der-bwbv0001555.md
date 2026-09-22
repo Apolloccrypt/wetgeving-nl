@@ -8,7 +8,7 @@ laatste_update: 2003-10-01
 status: geldig
 toestand: 2003-10-01
 bron: "https://wetten.overheid.nl/BWBV0001555"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Estland inzake privileges en immuniteiten voor verbindingsofficieren die door de Republiek Estland bij Europol te 's-Gravenhage gedetacheerd worden

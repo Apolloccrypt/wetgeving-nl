@@ -8,7 +8,7 @@ laatste_update: 2009-02-01
 status: geldig
 toestand: 2009-02-01
 bron: "https://wetten.overheid.nl/BWBV0002091"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek IJsland inzake privileges en immuniteiten voor verbindingsofficieren die door IJsland bij EUROPOL te ’s-Gravenhage gedetacheerd worden

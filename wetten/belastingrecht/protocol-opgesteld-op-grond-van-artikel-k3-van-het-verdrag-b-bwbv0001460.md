@@ -8,7 +8,7 @@ laatste_update: 2011-05-27
 status: geldig
 toestand: 2011-05-27
 bron: "https://wetten.overheid.nl/BWBV0001460"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de prejudiciële uitlegging, door het Hof van Justitie van de Europese Gemeenschappen, van de Overeenkomst inzake het gebruik van informatica op douanegebied

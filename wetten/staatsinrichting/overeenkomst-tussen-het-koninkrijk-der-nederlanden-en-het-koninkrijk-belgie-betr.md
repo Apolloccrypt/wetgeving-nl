@@ -8,7 +8,7 @@ laatste_update: 2000-04-01
 status: geldig
 toestand: 2000-04-01
 bron: "https://wetten.overheid.nl/BWBV0001105"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende het verdedigen van de oevers langs de Westerschelde tegen inscharing

@@ -8,7 +8,7 @@ laatste_update: 1995-01-24
 status: geldig
 toestand: 1995-01-24
 bron: "https://wetten.overheid.nl/BWBV0001161"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Nederlandse en de Deense Regering houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsambtenaren en andere personeelsleden die vanwege de Deense Regering bij de Europol Drugs Eenheid te 's-Gravenhage worden tewerkgesteld

@@ -8,7 +8,7 @@ laatste_update: 2002-10-17
 status: geldig
 toestand: 2002-10-17
 bron: "https://wetten.overheid.nl/BWBV0001552"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tadzjikistan inzake de status van het in Tadzjikistan gestationeerde Nederlandse defensie-personeel

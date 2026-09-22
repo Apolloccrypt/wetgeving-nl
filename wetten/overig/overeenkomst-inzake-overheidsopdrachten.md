@@ -8,7 +8,7 @@ laatste_update: 2014-07-04
 status: geldig
 toestand: 2014-07-04
 bron: "https://wetten.overheid.nl/BWBV0001159"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst inzake overheidsopdrachten

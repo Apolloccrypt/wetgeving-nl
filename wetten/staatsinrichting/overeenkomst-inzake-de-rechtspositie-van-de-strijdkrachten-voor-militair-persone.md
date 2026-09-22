@@ -8,7 +8,7 @@ laatste_update: 2007-03-08
 status: geldig
 toestand: 2007-03-08
 bron: "https://wetten.overheid.nl/BWBV0001524"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst inzake de rechtspositie van de strijdkrachten voor militair personeel en troepenuitrusting tussen het Koninkrijk der Nederlanden en de Staat Qatar

@@ -8,7 +8,7 @@ laatste_update: 1999-06-23
 status: geldig
 toestand: 1999-06-23
 bron: "https://wetten.overheid.nl/BWBV0001122"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot wijziging van de grens in het Kanaal van Terneuzen naar Gent

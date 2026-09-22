@@ -8,7 +8,7 @@ laatste_update: 1997-09-25
 status: geldig
 toestand: 1997-09-25
 bron: "https://wetten.overheid.nl/BWBV0001255"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Zijne Majesteit de Sultan en Yang Di-Pertuan van Brunei Darussalam inzake luchtdiensten tussen en via de grondgebieden van hun onderscheiden staten

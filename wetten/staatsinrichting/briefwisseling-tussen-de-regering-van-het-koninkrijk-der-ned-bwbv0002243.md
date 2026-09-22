@@ -8,7 +8,7 @@ laatste_update: 1985-07-05
 status: geldig
 toestand: 1985-07-05
 bron: "https://wetten.overheid.nl/BWBV0002243"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake aanpassing van de Overeenkomst inzake de bescherming van de Rijn tegen verontreiniging door chloriden

@@ -8,7 +8,7 @@ laatste_update: 2007-02-22
 status: geldig
 toestand: 2007-02-22
 bron: "https://wetten.overheid.nl/BWBV0001694"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Protocol inzake de voorrechten en immuniteiten van de Europese Organisatie voor Kernfysisch Onderzoek 2004

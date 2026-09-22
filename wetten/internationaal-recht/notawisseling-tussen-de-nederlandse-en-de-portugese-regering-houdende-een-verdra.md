@@ -8,7 +8,7 @@ laatste_update: 1995-02-24
 status: geldig
 toestand: 1995-02-24
 bron: "https://wetten.overheid.nl/BWBV0001166"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Nederlandse en de Portugese Regering houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsambtenaren en andere personeelsleden die vanwege de Portugese Regering bij de Europol Drugs Eenheid te 's-Gravenhage worden tewerkgesteld

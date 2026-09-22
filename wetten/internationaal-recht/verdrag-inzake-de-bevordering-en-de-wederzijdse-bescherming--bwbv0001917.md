@@ -7,7 +7,7 @@ laatste_update: 2003-12-02
 status: geldig
 toestand: 2003-12-02
 bron: "https://wetten.overheid.nl/BWBV0001917"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag inzake de bevordering en de wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Staat Eritrea

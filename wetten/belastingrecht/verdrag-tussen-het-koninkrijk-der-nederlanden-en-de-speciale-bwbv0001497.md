@@ -8,7 +8,7 @@ laatste_update: 2011-10-24
 status: geldig
 toestand: 2011-10-24
 bron: "https://wetten.overheid.nl/BWBV0001497"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Speciale Administratieve Regio van de Volksrepubliek China Hong Kong tot het vermijden van dubbele belasting van inkomsten, winsten, vermogenswinsten of vermogen van een onderneming die schepen exploiteert in het internationale verkeer

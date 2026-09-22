@@ -8,7 +8,7 @@ laatste_update: 2016-11-01
 status: geldig
 toestand: 2016-11-01
 bron: "https://wetten.overheid.nl/BWBV0001774"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur betreffende de privileges en immuniteiten van het personeel van het ITC-UNESCO-Centrum voor geïntegreerde kartering en hun gezinsleden

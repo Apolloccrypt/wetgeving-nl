@@ -8,7 +8,7 @@ laatste_update: 1994-05-01
 status: geldig
 toestand: 1994-05-01
 bron: "https://wetten.overheid.nl/BWBV0001890"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Turkije inzake de uitbreiding van het Europees Verdrag betreffende uitlevering tot de Nederlandse Antillen en Aruba

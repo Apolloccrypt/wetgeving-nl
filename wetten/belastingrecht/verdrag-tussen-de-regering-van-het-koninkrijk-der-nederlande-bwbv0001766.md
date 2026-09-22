@@ -8,7 +8,7 @@ laatste_update: 2005-12-31
 status: geldig
 toestand: 2005-12-31
 bron: "https://wetten.overheid.nl/BWBV0001766"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Slovenië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

@@ -8,7 +8,7 @@ laatste_update: 2015-02-26
 status: geldig
 toestand: 2015-02-26
 bron: "https://wetten.overheid.nl/BWBV0002224"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake wederzijdse bijstandsverlening bij het bestrijden van rampen en ongevallen

@@ -8,7 +8,7 @@ laatste_update: 2005-07-23
 status: geldig
 toestand: 2005-07-23
 bron: "https://wetten.overheid.nl/BWBV0001743"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Briefwisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden en de Britse Maagdeneilanden betreffende belastingheffing op inkomsten uit spaargelden

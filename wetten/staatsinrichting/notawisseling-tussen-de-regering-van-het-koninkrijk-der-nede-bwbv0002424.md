@@ -8,7 +8,7 @@ laatste_update: 1988-10-19
 status: geldig
 toestand: 1988-10-19
 bron: "https://wetten.overheid.nl/BWBV0002424"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-22
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland houdende een overeenkomst betreffende de op 14 augustus 1987 te New York tot stand gekomen Overeenkomst inzake de oplossing van praktische problemen met betrekking tot diepzeemijnbouwgebieden
