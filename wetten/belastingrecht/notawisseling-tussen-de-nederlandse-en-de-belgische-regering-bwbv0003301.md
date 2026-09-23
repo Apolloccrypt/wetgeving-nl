@@ -8,7 +8,7 @@ laatste_update: 1973-12-06
 status: geldig
 toestand: 1973-12-06
 bron: "https://wetten.overheid.nl/BWBV0003301"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Nederlandse grenskantoor te Sas van Gent tot internationaal douanekantoor voor het wegverkeer

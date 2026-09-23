@@ -8,7 +8,7 @@ laatste_update: 2004-08-22
 status: geldig
 toestand: 2004-08-22
 bron: "https://wetten.overheid.nl/BWBV0003761"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Nieuw-Zeeland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

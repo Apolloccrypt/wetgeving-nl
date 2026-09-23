@@ -8,7 +8,7 @@ laatste_update: 2010-06-15
 status: geldig
 toestand: 2010-06-15
 bron: "https://wetten.overheid.nl/BWBV0004024"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Europese Gemeenschap voor Atoomenergie (EURATOM) inzake de registratie van stagiairs

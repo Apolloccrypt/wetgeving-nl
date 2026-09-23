@@ -8,7 +8,7 @@ laatste_update: 2008-10-02
 status: geldig
 toestand: 2008-10-02
 bron: "https://wetten.overheid.nl/BWBV0003101"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen en de Regering van Nieuw-Zeeland inzake de uitwisseling van inlichtingen met betrekking tot belastingen

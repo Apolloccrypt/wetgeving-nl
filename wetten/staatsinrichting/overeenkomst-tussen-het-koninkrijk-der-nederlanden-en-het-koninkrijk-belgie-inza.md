@@ -8,7 +8,7 @@ laatste_update: 1983-11-28
 status: geldig
 toestand: 1983-11-28
 bron: "https://wetten.overheid.nl/BWBV0002592"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Belgie inzake het wederzijds meerekenen van voorraden ruwe aardolie, halffabrikaten van aardolie en aardolieprodukten

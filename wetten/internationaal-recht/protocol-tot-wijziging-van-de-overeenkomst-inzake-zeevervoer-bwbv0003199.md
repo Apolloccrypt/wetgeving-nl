@@ -8,7 +8,7 @@ laatste_update: 2009-10-27
 status: geldig
 toestand: 2009-10-27
 bron: "https://wetten.overheid.nl/BWBV0003199"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Protocol tot wijziging van de Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Regering van de Volksrepubliek China, anderzijds

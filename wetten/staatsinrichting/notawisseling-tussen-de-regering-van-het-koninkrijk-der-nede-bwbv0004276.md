@@ -8,7 +8,7 @@ laatste_update: 1966-12-19
 status: geldig
 toestand: 1966-12-19
 bron: "https://wetten.overheid.nl/BWBV0004276"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de grenscontrole (Straelen-Arcen; Halle-Laagse Paal; Wielen-Veenebrugge; Esschebrügge-Coevorden; Rühlertwist- Nieuw-Schoonebeek)

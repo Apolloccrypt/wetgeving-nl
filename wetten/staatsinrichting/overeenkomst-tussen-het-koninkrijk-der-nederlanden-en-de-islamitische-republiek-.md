@@ -8,7 +8,7 @@ laatste_update: 1989-02-12
 status: geldig
 toestand: 1989-02-12
 bron: "https://wetten.overheid.nl/BWBV0002616"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Islamitische Republiek Pakistan inzake technische samenwerking

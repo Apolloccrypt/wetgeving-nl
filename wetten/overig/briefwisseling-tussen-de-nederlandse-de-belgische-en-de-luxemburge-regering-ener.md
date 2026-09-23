@@ -8,7 +8,7 @@ laatste_update: 1963-07-19
 status: geldig
 toestand: 1963-07-19
 bron: "https://wetten.overheid.nl/BWBV0004246"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Nederlandse, de Belgische en de Luxemburge Regering enerzijds, en de Spaanse Regering anderzijds, inzake de erkenning van het zeemansboekje als reisdocument

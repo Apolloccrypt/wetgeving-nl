@@ -8,7 +8,7 @@ laatste_update: 1979-03-01
 status: geldig
 toestand: 1979-03-01
 bron: "https://wetten.overheid.nl/BWBV0003958"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Japan houdende een overeenkomst inzake de schadeloosstelling door Japan voor het tot zinken brengen van het s.s. “Op ten Noort”

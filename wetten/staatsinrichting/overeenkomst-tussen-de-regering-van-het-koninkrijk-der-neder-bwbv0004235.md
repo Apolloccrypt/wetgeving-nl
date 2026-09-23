@@ -8,7 +8,7 @@ laatste_update: 1966-12-23
 status: geldig
 toestand: 1966-12-23
 bron: "https://wetten.overheid.nl/BWBV0004235"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van op zichzelf staande geologische structuren die zich over de grenslijn op het continentale plat onder de Noordzee uitstrekken

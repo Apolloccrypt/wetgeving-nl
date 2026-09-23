@@ -8,7 +8,7 @@ laatste_update: 1968-12-27
 status: geldig
 toestand: 1968-12-27
 bron: "https://wetten.overheid.nl/BWBV0004179"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Supreme Allied Commander Europe betreffende het verlenen van immuniteit aan de Commandant en de plaatsvervangend Commandant van Allied Forces Central Europe (AFCENT)

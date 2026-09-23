@@ -8,7 +8,7 @@ laatste_update: 1985-09-20
 status: geldig
 toestand: 1985-09-20
 bron: "https://wetten.overheid.nl/BWBV0002615"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Volksrepubliek Mozambique

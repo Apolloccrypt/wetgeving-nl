@@ -8,7 +8,7 @@ laatste_update: 1978-05-08
 status: geldig
 toestand: 1978-05-08
 bron: "https://wetten.overheid.nl/BWBV0003859"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Canadese Regering houdende een overeenkomst inzake het gebruik van formulieren overeenkomstig artikel XI, vierde lid, van het Verdrag tussen de Staten die partij zijn bij het Noordatlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten

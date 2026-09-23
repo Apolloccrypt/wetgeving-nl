@@ -8,7 +8,7 @@ laatste_update: 1988-11-14
 status: geldig
 toestand: 1988-11-14
 bron: "https://wetten.overheid.nl/BWBV0002950"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Land Nedersaksen over het beheer en het onderhoud van de Dinkel, het Dinkelkanaal en het Holländischer Umleitungskanal in het grensgebied bij Denekamp en Lage

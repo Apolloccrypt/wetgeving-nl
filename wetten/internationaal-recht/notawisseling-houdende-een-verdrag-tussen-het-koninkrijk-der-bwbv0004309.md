@@ -8,7 +8,7 @@ laatste_update: 2012-02-29
 status: geldig
 toestand: 2012-02-29
 bron: "https://wetten.overheid.nl/BWBV0004309"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Haagse Conferentie voor Internationaal Privaatrecht inzake de registratie van stagiairs

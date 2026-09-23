@@ -8,7 +8,7 @@ laatste_update: 1981-09-14
 status: geldig
 toestand: 1981-09-14
 bron: "https://wetten.overheid.nl/BWBV0002617"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika houdende een overeenkomst inzake het installeren en doen functioneren van een radio-zend- en ontvangststation op de Ambassade van het Koninkrijk der Nederlanden te Washington

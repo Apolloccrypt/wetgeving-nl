@@ -8,7 +8,7 @@ laatste_update: 2012-05-01
 status: geldig
 toestand: 2012-05-01
 bron: "https://wetten.overheid.nl/BWBV0003501"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van Groenland inzake de uitwisseling van informatie betreffende belastingen

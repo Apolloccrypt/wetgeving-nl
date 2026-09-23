@@ -8,7 +8,7 @@ laatste_update: 1981-08-17
 status: geldig
 toestand: 1981-08-17
 bron: "https://wetten.overheid.nl/BWBV0003914"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek houdende een overeenkomst inzake de eventuele terugzending van het na opwerking van bestraalde reactorbrandstof resterend radioactief afval

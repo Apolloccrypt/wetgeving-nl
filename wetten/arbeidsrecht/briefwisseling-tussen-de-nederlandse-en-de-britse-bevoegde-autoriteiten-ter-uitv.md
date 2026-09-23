@@ -8,7 +8,7 @@ laatste_update: 1992-01-06
 status: geldig
 toestand: 1992-01-06
 bron: "https://wetten.overheid.nl/BWBV0002523"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Nederlandse en de Britse bevoegde autoriteiten ter uitvoering van artikel 36, derde lid, van Verordening nr. 1408/71 van de Raad van de Europese Gemeenschappen inzake de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen

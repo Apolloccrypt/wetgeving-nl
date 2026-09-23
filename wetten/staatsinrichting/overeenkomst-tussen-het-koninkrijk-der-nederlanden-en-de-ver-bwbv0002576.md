@@ -8,7 +8,7 @@ laatste_update: 1992-03-20
 status: geldig
 toestand: 1992-03-20
 bron: "https://wetten.overheid.nl/BWBV0002576"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake wederzijdse (militaire) logistieke steunverlening

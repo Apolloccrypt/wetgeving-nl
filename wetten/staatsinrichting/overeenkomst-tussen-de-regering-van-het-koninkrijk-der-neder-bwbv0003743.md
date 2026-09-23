@@ -8,7 +8,7 @@ laatste_update: 1985-08-06
 status: geldig
 toestand: 1985-08-06
 bron: "https://wetten.overheid.nl/BWBV0003743"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Denemarken inzake het internationale personen- en goederenvervoer over de weg

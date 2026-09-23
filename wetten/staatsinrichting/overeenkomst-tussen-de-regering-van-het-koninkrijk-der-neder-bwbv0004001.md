@@ -8,7 +8,7 @@ laatste_update: 1978-10-17
 status: geldig
 toestand: 1978-10-17
 bron: "https://wetten.overheid.nl/BWBV0004001"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Turkije inzake steun aan werkgelegenheidsprojecten

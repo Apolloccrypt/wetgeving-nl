@@ -8,7 +8,7 @@ laatste_update: 2009-04-30
 status: geldig
 toestand: 2009-04-30
 bron: "https://wetten.overheid.nl/BWBV0003035"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en Egypte inzake het project "Preparatory Activities Component - Integrated Irrigation Improvement and Management Project (PAC-IIIMP) or WaterBoards-IIIMP"

@@ -8,7 +8,7 @@ laatste_update: 1965-10-01
 status: geldig
 toestand: 1965-10-01
 bron: "https://wetten.overheid.nl/BWBV0004243"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse, de Belgische en de Luxemburgse Regering enerzijds, en de Italiaanse Regering anderzijds, betreffende het gebruik van het zeemansboekje als reisdocument

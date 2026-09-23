@@ -8,7 +8,7 @@ laatste_update: 1992-10-23
 status: geldig
 toestand: 1992-10-23
 bron: "https://wetten.overheid.nl/BWBV0002734"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Regionaal Akkoord voor het gebruik van de band 1605-1705 kHz in Regio 2 (Akkoord van Rio 88)

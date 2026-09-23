@@ -8,7 +8,7 @@ laatste_update: 1976-02-18
 status: geldig
 toestand: 1976-02-18
 bron: "https://wetten.overheid.nl/BWBV0003818"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China inzake het zeevervoer

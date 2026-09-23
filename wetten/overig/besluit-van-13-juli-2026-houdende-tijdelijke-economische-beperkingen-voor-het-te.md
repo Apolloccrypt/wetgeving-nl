@@ -4,12 +4,12 @@ citeertitel: "Tijdelijk sanctiebesluit onrechtmatige nederzettingen in de door I
 identifier: "BWBR0052870"
 categorie: "Overig"
 soort: "AMvB"
-publicatiedatum: 2026-09-21
-laatste_update: 2026-09-21
+publicatiedatum: 2026-09-22
+laatste_update: 2026-09-22
 status: geldig
-toestand: 2026-09-21
+toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0052870"
-opgehaald: 2026-09-22
+opgehaald: 2026-09-23
 ---
 
 # Besluit van 13 juli 2026, houdende tijdelijke economische beperkingen voor het tegengaan van het in stand houden van de onrechtmatige nederzettingen in de door Israël bezette gebieden (Tijdelijk sanctiebesluit onrechtmatige nederzettingen in de door Israël bezette gebieden) [KetenID WGK028298]
@@ -33,13 +33,13 @@ opgehaald: 2026-09-22
 
 - – *goederen:* zaken als bedoeld in [artikel 2 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=2);
 
-- – *goederen afkomstig uit een onrechtmatige nederzetting in de door Israël bezette gebieden:* goederen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052870&hoofdstuk=1&artikel=2&z=2026-09-21&g=2026-09-21);
+- – *goederen afkomstig uit een onrechtmatige nederzetting in de door Israël bezette gebieden:* goederen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052870&hoofdstuk=1&artikel=2&z=2026-09-22&g=2026-09-22);
 
 - – *in de handel brengen:* goederen voor het eerst op de markt van de Europese Unie aanbieden;
 
 - – *koop:* koop als bedoeld in [artikel 1 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=1);
 
-- – *onrechtmatige nederzetting in de door Israël bezette gebieden:* een onrechtmatige nederzetting in de door Israël bezette gebieden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052870&hoofdstuk=1&artikel=2&z=2026-09-21&g=2026-09-21);
+- – *onrechtmatige nederzetting in de door Israël bezette gebieden:* een onrechtmatige nederzetting in de door Israël bezette gebieden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052870&hoofdstuk=1&artikel=2&z=2026-09-22&g=2026-09-22);
 
 - – *op de markt aanbieden:* het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van een goed met het oog op distributie, consumptie of gebruik op de markt van de Europese Unie, met inbegrip van deze activiteiten in het kader van verkoop op afstand;
 
@@ -80,7 +80,7 @@ Het is verboden activiteiten te verrichten die tot doel of tot gevolg hebben dat
 
 ##### Artikel 8. Voorrangsregel
 
-De artikelen in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052870&hoofdstuk=2&z=2026-09-21&g=2026-09-21) zijn bepalingen van bijzonder dwingend recht als bedoeld in artikel 9 van Verordening (EG) nr. 593/2008 van het Europees Parlement en de Raad van 17 juni 2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (PbEU 2008, L 177).
+De artikelen in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052870&hoofdstuk=2&z=2026-09-22&g=2026-09-22) zijn bepalingen van bijzonder dwingend recht als bedoeld in artikel 9 van Verordening (EG) nr. 593/2008 van het Europees Parlement en de Raad van 17 juni 2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (PbEU 2008, L 177).
 
 ### Hoofdstuk 4. Slotbepalingen
 

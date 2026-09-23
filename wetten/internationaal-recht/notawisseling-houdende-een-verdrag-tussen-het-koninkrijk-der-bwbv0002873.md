@@ -8,7 +8,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBV0002873"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de African Management Services Company inzake de tewerkstelling van gezinsleden die deel uitmaken van het huishouden van de functionarissen van de African Management Services Company

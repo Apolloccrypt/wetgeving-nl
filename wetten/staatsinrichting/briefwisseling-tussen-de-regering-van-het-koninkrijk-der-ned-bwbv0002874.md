@@ -8,7 +8,7 @@ laatste_update: 1991-12-18
 status: geldig
 toestand: 1991-12-18
 bron: "https://wetten.overheid.nl/BWBV0002874"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada houdende een overeenkomst inzake de tewerkstelling van gezinsleden van diplomaten

@@ -8,7 +8,7 @@ laatste_update: 1976-07-01
 status: geldig
 toestand: 1976-07-01
 bron: "https://wetten.overheid.nl/BWBV0003980"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Nederlandse Regering en de Regering van Tonga inzake de toepassing van het op 31 mei 1932 te Londen tussen Nederland en Groot-Brittannië gesloten Verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken

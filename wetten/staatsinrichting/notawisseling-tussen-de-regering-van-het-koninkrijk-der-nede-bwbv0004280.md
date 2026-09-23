@@ -8,7 +8,7 @@ laatste_update: 1963-12-24
 status: geldig
 toestand: 1963-12-24
 bron: "https://wetten.overheid.nl/BWBV0004280"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de grenscontrole op de weg Vaalserquartier naar Vaals, Horbach naar Locht, Barlo naar Woold en Gronau naar Overdinkel

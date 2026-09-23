@@ -8,7 +8,7 @@ laatste_update: 2010-10-19
 status: geldig
 toestand: 2010-10-19
 bron: "https://wetten.overheid.nl/BWBV0002801"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Maleisië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

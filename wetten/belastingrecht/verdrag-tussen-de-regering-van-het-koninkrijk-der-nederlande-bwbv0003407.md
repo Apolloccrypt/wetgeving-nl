@@ -8,7 +8,7 @@ laatste_update: 2011-05-01
 status: geldig
 toestand: 2011-05-01
 bron: "https://wetten.overheid.nl/BWBV0003407"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Anguilla inzake de uitwisseling van informatie betreffende belastingen

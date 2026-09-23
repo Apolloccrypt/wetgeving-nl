@@ -8,7 +8,7 @@ laatste_update: 2008-04-04
 status: geldig
 toestand: 2008-04-04
 bron: "https://wetten.overheid.nl/BWBV0003025"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen en de Regering van Australië inzake de uitwisseling van inlichtingen met betrekking tot belastingen

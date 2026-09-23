@@ -8,7 +8,7 @@ laatste_update: 2010-12-03
 status: geldig
 toestand: 2010-12-03
 bron: "https://wetten.overheid.nl/BWBV0004064"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie inzake internationaal vervoer over de weg

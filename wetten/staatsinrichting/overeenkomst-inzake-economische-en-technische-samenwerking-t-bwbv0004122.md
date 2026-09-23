@@ -8,7 +8,7 @@ laatste_update: 1972-10-05
 status: geldig
 toestand: 1972-10-05
 bron: "https://wetten.overheid.nl/BWBV0004122"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst inzake economische en technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Senegal

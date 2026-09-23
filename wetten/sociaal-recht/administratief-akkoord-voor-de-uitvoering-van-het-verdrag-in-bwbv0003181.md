@@ -8,7 +8,7 @@ laatste_update: 2004-09-24
 status: geldig
 toestand: 2004-09-24
 bron: "https://wetten.overheid.nl/BWBV0003181"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Administratief Akkoord voor de uitvoering van het Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Republiek Cyprus ondertekend te Den Haag op 9 juli 2002

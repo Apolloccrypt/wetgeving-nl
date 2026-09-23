@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0020368"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-23
 ---
 
 # Wet van 28 september 2006, houdende regels met betrekking tot de financiële markten en het toezicht daarop (Wet op het financieel toezicht)
@@ -329,7 +329,7 @@ waarbij een dochteronderneming van een dochteronderneming eveneens wordt aangeme
 
 - j. optie, future, swap, termijncontract of ander derivatencontract met betrekking tot klimaatvariabelen, vrachttarieven, inflatiepercentages of andere officiële economische statistieken, en dat contant moet, of, op verzoek van één der partijen, kan worden afgewikkeld, anderszins dan op grond van een verzuim of een ander ontbindend element of ander derivatencontract met betrekking tot activa, rechten, verbintenissen, indices of maatregelen dan hiervoor vermeld en dat de kenmerken van andere afgeleide financiële instrumenten bezit, waarbij onder meer in aanmerking wordt genomen of deze financiële instrumenten op een georganiseerde handelsfaciliteit, gereglementeerde markt of multilaterale handelsfaciliteit worden afgewikkeld;
 
-- k. emissierecht bestaande uit een eenheid waarvan is vastgesteld dat deze in overeenstemming is met de vereisten van Richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 20013 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU 2003, L 275);
+- k. emissierecht bestaande uit een eenheid waarvan is vastgesteld dat deze in overeenstemming is met de vereisten van Richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2013 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU 2003, L 275);
 
 *financieel product:*
 
@@ -5678,7 +5678,7 @@ Bij ministeriële regeling kan geheel of gedeeltelijk vrijstelling worden gerege
 
 ##### Artikel 2:62a
 
-Artikel 2:60, eerste lid, is niet van toepassing op een klasse 1-bijkantoor en klasse 2-bijkantoor, indien de vergunning met betrekking tot dat bijkantoor bepaalt dat het bijkantoor de werkzaamheden, bedoeld in bijlage I, onder 2, van de richtlijn kapitaalvereisten, mag verlenen.
+[Artikel 2:60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=2&hoofdstuk=2.2&afdeling=2.2.6&paragraaf=2.2.6.1&artikel=2:60&z=2026-09-01&g=2026-09-01), is niet van toepassing op een klasse 1-bijkantoor en klasse 2-bijkantoor, indien de vergunning met betrekking tot dat bijkantoor bepaalt dat het bijkantoor de werkzaamheden, bedoeld in bijlage I, onder 2, van de richtlijn kapitaalvereisten, mag verlenen.
 
 ##### Artikel 2:63
 
@@ -7632,7 +7632,7 @@ kan bij de Nederlandsche Bank een vergunning aanvragen voor het uitoefenen van d
 
 1. Een bank draagt, met inachtneming van artikel 91 bis, eerste tot en met vierde lid, er zorg voor dat de bij de bank werkzame medewerkers met een sleutelfunctie geschikt zijn en hun betrouwbaarheid buiten twijfel staat.
 
-2. De betrouwbaarheid van de hoofden van de internecontrolefuncties en de financieel directeur werkzaam bij een onderneming als bedoeld in artikel 91 bis, vijfde lid, van de richtlijn kapitaalvereisten staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van deze wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling. Artikel 3:9, derde lid, is van overeenkomstige toepassing.
+2. De betrouwbaarheid van de hoofden van de internecontrolefuncties en de financieel directeur werkzaam bij een onderneming als bedoeld in artikel 91 bis, vijfde lid, van de richtlijn kapitaalvereisten staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van deze wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling. [Artikel 3:9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.1&artikel=3:9&z=2026-09-01&g=2026-09-01), is van overeenkomstige toepassing.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende de geschiktheid van een persoon als bedoeld in het eerste lid.
 
@@ -7838,7 +7838,7 @@ De [artikelen 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&h
 
 ##### Artikel 3:18a.1
 
-Banken, beleggingsondernemingen onder de verordening kapitaalvereisten, en andere partijen die in het kader van een stresstest als bedoeld in artikel 3:18a, vijfde lid, optreden in een raadgevende functie bij banken of beleggingsondernemingen onder de verordening kapitaalvereisten, onthouden zich van activiteiten die een stresstest kunnen belemmeren.
+Banken, beleggingsondernemingen onder de verordening kapitaalvereisten, en andere partijen die in het kader van een stresstest als bedoeld in [artikel 3:18a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.3&paragraaf=3.3.3.1&artikel=3:18a&z=2026-09-01&g=2026-09-01), optreden in een raadgevende functie bij banken of beleggingsondernemingen onder de verordening kapitaalvereisten, onthouden zich van activiteiten die een stresstest kunnen belemmeren.
 
 ##### Artikel 3:18aa
 
@@ -7870,7 +7870,7 @@ Banken, beleggingsondernemingen onder de verordening kapitaalvereisten, en ander
 
 ##### Artikel 3:18ab
 
-1. De Nederlandsche Bank evalueert periodiek de wijze waarop een klasse 1-bijkantoor en klasse 2-bijkantoor voldoet aan de vereisten, bedoeld in artikel 2:21, eerste lid.
+1. De Nederlandsche Bank evalueert periodiek de wijze waarop een klasse 1-bijkantoor en klasse 2-bijkantoor voldoet aan de vereisten, bedoeld in [artikel 2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.3&artikel=2:21&z=2026-09-01&g=2026-09-01).
 
 2. Op grond van de evaluatie, bedoeld in het eerste lid, beoordeelt de Nederlandsche Bank of de wijze waarop de bedrijfsvoering is ingericht en de aangehouden liquiditeit en solvabiliteit, een degelijk beheer, solide dekking en levensvatbaarheid van het bijkantoor waarborgen.
 
@@ -7950,7 +7950,7 @@ De [artikelen 3:17, tweede lid, aanhef en onderdeel c, derde lid](https://wetten
 
 ##### Artikel 3:23a
 
-1. De artikelen 3:17 tot en met 3:18 zijn van overeenkomstige toepassing op een in Nederland gelegen klasse 1-bijkantoor en klasse 2-bijkantoor.
+1. De [artikelen 3:17 tot en met 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.3&paragraaf=3.3.3.1&artikel=3:17&z=2026-09-01&g=2026-09-01) zijn van overeenkomstige toepassing op een in Nederland gelegen klasse 1-bijkantoor en klasse 2-bijkantoor.
 
 2. De Nederlandsche Bank kan nadere eisen als bedoeld in artikel 48 octies, tweede lid, tweede zin, en derde lid, tweede zin, van de richtlijn kapitaalvereisten stellen met betrekking tot de governance van het bijkantoor.
 
@@ -8290,7 +8290,7 @@ Een levensverzekeraar of schadeverzekeraar, niet zijnde een verzekeraar met bepe
 
 ##### Artikel 3:43a
 
-1. Een klasse 1-bijkantoor en klasse 2-bijkantoor geeft kennis van wijzigingen met betrekking tot onderwerpen waarover krachtens artikel 2:21, eerste lid, verstrekking van gegevens is voorgeschreven, aan de Nederlandsche Bank. Bij of krachtens algemene maatregel van bestuur wordt, onder vermelding van de te volgen procedures, bepaald welke gegevens daarbij worden verstrekt en, indien van toepassing, onder welke voorwaarden de wijzigingen ten uitvoer mogen worden gelegd.
+1. Een klasse 1-bijkantoor en klasse 2-bijkantoor geeft kennis van wijzigingen met betrekking tot onderwerpen waarover krachtens [artikel 2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.3&artikel=2:21&z=2026-09-01&g=2026-09-01), verstrekking van gegevens is voorgeschreven, aan de Nederlandsche Bank. Bij of krachtens algemene maatregel van bestuur wordt, onder vermelding van de te volgen procedures, bepaald welke gegevens daarbij worden verstrekt en, indien van toepassing, onder welke voorwaarden de wijzigingen ten uitvoer mogen worden gelegd.
 
 2. Een bijkantoor als bedoeld in het eerste lid, geeft onverwijld kennis aan de Nederlandsche Bank indien de moederonderneming in een staat die geen lidstaat is niet aan de daar geldende prudentiële vereisten voldoet, er redelijke gronden zijn om te vermoeden dat de moederonderneming niet aan die vereisten voldoet, of dat de moederonderneming binnen een jaar inbreuk zal maken op die vereisten.
 
@@ -8388,7 +8388,7 @@ Een verzekeraar met beperkte risico-omvang met zetel in een niet-aangewezen lids
 
 ##### Artikel 3:54a
 
-Artikel 3:53, eerste en derde lid, is van overeenkomstige toepassing op een klasse 1-bijkantoor en klasse 2-bijkantoor.
+[Artikel 3:53, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.5&paragraaf=3.3.5.1&artikel=3:53&z=2026-09-01&g=2026-09-01), is van overeenkomstige toepassing op een klasse 1-bijkantoor en klasse 2-bijkantoor.
 
 #### § 3.3.5.3. Financiële ondernemingen met zetel in een niet-aangewezen staat
 
@@ -8474,7 +8474,7 @@ De Nederlandsche Bank stelt bij de intrekking van de vergunning van een verzeker
 
 ##### Artikel 3:58a
 
-Artikel 3:57 is van overeenkomstige toepassing op een klasse 1-bijkantoor en klasse 2-bijkantoor.
+[Artikel 3:57](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.6&paragraaf=3.3.6.1&artikel=3:57&z=2026-09-01&g=2026-09-01) is van overeenkomstige toepassing op een klasse 1-bijkantoor en klasse 2-bijkantoor.
 
 ##### Artikel 3:59
 
@@ -8632,7 +8632,7 @@ Artikel 3:57 is van overeenkomstige toepassing op een klasse 1-bijkantoor en kla
 
 ##### Artikel 3:65a
 
-Artikel 3:63 is van overeenkomstige toepassing op een klasse 1-bijkantoor en klasse 2-bijkantoor.
+[Artikel 3:63](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.7&paragraaf=3.3.7.1&artikel=3:63&z=2026-09-01&g=2026-09-01) is van overeenkomstige toepassing op een klasse 1-bijkantoor en klasse 2-bijkantoor.
 
 #### § 3.3.7.4. Financiële ondernemingen met zetel in een niet-aangewezen staat
 
@@ -8880,7 +8880,7 @@ De [artikelen 3:69a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3
 
 ##### Artikel 3:82b
 
-1. Artikel 3:72, eerste en vijfde tot en met zevende lid, is van overeenkomstige toepassing op een klasse 1-bijkantoor en klasse 2-bijkantoor.
+1. [Artikel 3:72, eerste en vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.9&paragraaf=3.3.9.1&artikel=3:72&z=2026-09-01&g=2026-09-01), is van overeenkomstige toepassing op een klasse 1-bijkantoor en klasse 2-bijkantoor.
 
 2. De Nederlandsche Bank kan aanvullende rapportagevereisten stellen aan een bijkantoor als bedoeld in het eerste lid, indien zij van oordeel is dat aanvullende informatie noodzakelijk is om een volledig beeld te krijgen van de bedrijfsactiviteiten, de solvabiliteit of liquiditeit, van het bijkantoor of de moederonderneming, om na te gaan of het bijkantoor of de moederonderneming de op hen van toepassing zijnde wetgeving naleeft en om ervoor te zorgen dat de bijkantoren dat ook daadwerkelijk doen.
 
@@ -9072,7 +9072,7 @@ De [artikelen 3:71](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&
 
 1. Een bank met zetel in Nederland stelt de Nederlandsche Bank in kennis alvorens:
 
-- a. een deelneming als bedoeld in artikel 3:96a, eerste lid, onderdeel a, rechtstreeks of middellijk af te stoten;
+- a. een deelneming als bedoeld in [artikel 3:96a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96a&z=2026-09-01&g=2026-09-01), rechtstreeks of middellijk af te stoten;
 
 - b. een overname of overdracht van activa of passiva uit te voeren indien deze overdracht van materieel belang is als bedoeld in artikel 27 septies, tweede lid, van de richtlijn kapitaalvereisten.
 
@@ -9080,7 +9080,7 @@ De [artikelen 3:71](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&
 
 ##### Artikel 3:96c
 
-1. Het is een financiële holding of gemengde financiële holding als bedoeld in artikel 3:280a verboden, anders dan na verkregen verklaring van geen bezwaar van de Europese Centrale Bank, indien deze bevoegd is toezicht uit te oefenen op de holding op grond van de artikelen 4 en 6 van de verordening bankentoezicht, van de Nederlandsche Bank, indien deze de in artikel 4, eerste lid, onderdeel 41, van de verordening kapitaalvereisten bedoelde consoliderende toezichthouder van de holding is, of van de toezichthoudende instantie van een andere lidstaat en de Nederlandsche Bank gezamenlijk, indien de toezichthoudende instantie van een andere lidstaat de consoliderende toezichthouder is:
+1. Het is een financiële holding of gemengde financiële holding als bedoeld in [artikel 3:280a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.6&afdeling=3.6.2&artikel=3:280a&z=2026-09-01&g=2026-09-01) verboden, anders dan na verkregen verklaring van geen bezwaar van de Europese Centrale Bank, indien deze bevoegd is toezicht uit te oefenen op de holding op grond van de artikelen 4 en 6 van de verordening bankentoezicht, van de Nederlandsche Bank, indien deze de in artikel 4, eerste lid, onderdeel 41, van de verordening kapitaalvereisten bedoelde consoliderende toezichthouder van de holding is, of van de toezichthoudende instantie van een andere lidstaat en de Nederlandsche Bank gezamenlijk, indien de toezichthoudende instantie van een andere lidstaat de consoliderende toezichthouder is:
 
 - a. een deelneming van betekenis te verwerven van ten minste 15% van haar in aanmerking komend kapitaal op geconsolideerde basis;
 
@@ -9088,7 +9088,7 @@ De [artikelen 3:71](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&
 
 - c. een splitsing als bedoeld in artikel 27 nonies van de richtlijn kapitaalvereisten uit te voeren.
 
-2. Een holding als bedoeld in het eerste lid met zetel in Nederland vraagt een verklaring van geen bezwaar als bedoeld in het eerste lid aan onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens bij de Nederlandsche Bank, de Europese Centrale Bank, of bij de Nederlandsche Bank onder verzending van een kennisgeving van de aanvraag aan de consoliderende toezichthouder, al naar gelang de bevoegdheidsverdeling in artikel 3:280a.
+2. Een holding als bedoeld in het eerste lid met zetel in Nederland vraagt een verklaring van geen bezwaar als bedoeld in het eerste lid aan onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens bij de Nederlandsche Bank, de Europese Centrale Bank, of bij de Nederlandsche Bank onder verzending van een kennisgeving van de aanvraag aan de consoliderende toezichthouder, al naar gelang de bevoegdheidsverdeling in [artikel 3:280a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.6&afdeling=3.6.2&artikel=3:280a&z=2026-09-01&g=2026-09-01).
 
 3. De Nederlandsche Bank neemt een besluit over de aanvraag bedoeld in het tweede lid in overeenstemming met de consoliderende toezichthouder van de holding als zij dat niet is en neemt hierbij artikel 27 quater, tweede en derde lid, van de richtlijn kapitaalvereisten in acht.
 
@@ -9096,9 +9096,9 @@ De [artikelen 3:71](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&
 
 ##### Artikel 3:96d
 
-1. Een financiële holding of gemengde financiële holding als bedoeld in artikel 3:280a stelt de Europese Centrale Bank, indien deze bevoegd is toezicht uit te oefenen op de holding op grond van de artikelen 4 en 6 van de verordening bankentoezicht, de Nederlandsche Bank, indien deze de in artikel 4, eerste lid, onderdeel 41, van de verordening kapitaalvereisten bedoelde consoliderende toezichthouder van de holding is, of de toezichthoudende instantie van een andere lidstaat indien de toezichthoudende instantie van een andere lidstaat de consoliderende toezichthouder van de holding is, in kennis alvorens:
+1. Een financiële holding of gemengde financiële holding als bedoeld in [artikel 3:280a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.6&afdeling=3.6.2&artikel=3:280a&z=2026-09-01&g=2026-09-01) stelt de Europese Centrale Bank, indien deze bevoegd is toezicht uit te oefenen op de holding op grond van de artikelen 4 en 6 van de verordening bankentoezicht, de Nederlandsche Bank, indien deze de in artikel 4, eerste lid, onderdeel 41, van de verordening kapitaalvereisten bedoelde consoliderende toezichthouder van de holding is, of de toezichthoudende instantie van een andere lidstaat indien de toezichthoudende instantie van een andere lidstaat de consoliderende toezichthouder van de holding is, in kennis alvorens:
 
-- a. een deelneming als bedoeld in artikel 3:96c, eerste lid, onderdeel a, rechtstreeks of middellijk af te stoten;
+- a. een deelneming als bedoeld in [artikel 3:96c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96c&z=2026-09-01&g=2026-09-01), rechtstreeks of middellijk af te stoten;
 
 - b. een overname of overdracht van activa of passiva uit te voeren indien deze overdracht van materieel belang is als bedoeld in artikel 27 septies, tweede lid, van de richtlijn kapitaalvereisten.
 
@@ -9174,13 +9174,13 @@ De Nederlandsche Bank verleent een verklaring van geen bezwaar voor een handelin
 
 ##### Artikel 3:101a
 
-1. De Nederlandsche Bank of de Europese Centrale Bank verleent een verklaring van geen bezwaar als bedoeld in artikel 3:96a, eerste lid, onderdeel a, of artikel 3:96c, eerste lid, onderdeel a, tenzij:
+1. De Nederlandsche Bank of de Europese Centrale Bank verleent een verklaring van geen bezwaar als bedoeld in [artikel 3:96a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96a&z=2026-09-01&g=2026-09-01), of [artikel 3:96c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96c&z=2026-09-01&g=2026-09-01), tenzij:
 
 - a. de aanvrager als gevolg van de deelneming niet zal kunnen blijven voldoen aan de prudentiële regels die ingevolge deze wet zijn gesteld; of
 
 - b. er goede redenen zijn om te vermoeden dat in verband met de voorgenomen deelneming geld wordt of werd witgewassen of terrorisme wordt of werd gefinancierd of dat gepoogd wordt of werd geld wit te wassen of terrorisme te financieren in de zin van de Wet voorkoming van witwassen en financieren van terrorisme of dat de voorgenomen deelneming het risico daarop zou kunnen vergroten.
 
-2. De Nederlandsche Bank verleent een verklaring van geen bezwaar als bedoeld in artikel 3:96a, eerste lid, onderdelen b of c, of artikel 3:96c, eerste lid, onderdelen b en c, tenzij:
+2. De Nederlandsche Bank verleent een verklaring van geen bezwaar als bedoeld in [artikel 3:96a, eerste lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96a&z=2026-09-01&g=2026-09-01), of [artikel 3:96c, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96c&z=2026-09-01&g=2026-09-01), tenzij:
 
 - a. de betrouwbaarheid van de aanvrager van de verklaring van geen bezwaar of van de personen die op grond van de voorgenomen fusie of splitsing het beleid van de financiële onderneming zullen bepalen of mede bepalen of zullen kunnen bepalen of mede bepalen niet buiten twijfel staat;
 
@@ -9194,13 +9194,13 @@ De Nederlandsche Bank verleent een verklaring van geen bezwaar voor een handelin
 
 - f. er goede redenen zijn om te vermoeden dat in verband met de voorgenomen fusie of splitsing geld wordt of werd witgewassen of terrorisme wordt of werd gefinancierd of dat gepoogd wordt of werd geld wit te wassen of terrorisme te financieren in de zin van de Wet voorkoming van witwassen en financieren van terrorisme of dat de voorgenomen verwerving of vergroting het risico daarop zou kunnen vergroten.
 
-3. Indien een aanvrager onvolledige of onjuiste informatie verstrekt, ondanks een verzoek overeenkomstig artikel 1:106c, eerste lid, wordt de verklaring van geen bezwaar niet verleend.
+3. Indien een aanvrager onvolledige of onjuiste informatie verstrekt, ondanks een verzoek overeenkomstig [artikel 1:106c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=1&hoofdstuk=1.6&afdeling=1.6.1a&artikel=1:106c&z=2026-09-01&g=2026-09-01), eerste lid, wordt de verklaring van geen bezwaar niet verleend.
 
-4. In afwijking van het eerste en tweede lid kan de Nederlandsche Bank, en, waar van toepassing overeenkomstig artikel 3:96a, derde lid, of 3:96c, derde lid, in overeenstemming met de toezichthoudende instantie van een andere lidstaat, de verklaring van geen bezwaar verlenen, indien:
+4. In afwijking van het eerste en tweede lid kan de Nederlandsche Bank, en, waar van toepassing overeenkomstig [artikel 3:96a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96a&z=2026-09-01&g=2026-09-01), of [3:96c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96c&z=2026-09-01&g=2026-09-01), in overeenstemming met de toezichthoudende instantie van een andere lidstaat, de verklaring van geen bezwaar verlenen, indien:
 
-- a. een deelneming als bedoeld in artikel 3:96a, eerste lid, onderdeel a, of artikel 3:96c, eerste lid, onderdeel a, ziet op een situatie als bedoeld in artikel 27 bis, zevende lid, van de richtlijn kapitaalvereisten;
+- a. een deelneming als bedoeld in [artikel 3:96a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96a&z=2026-09-01&g=2026-09-01), of [artikel 3:96c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96c&z=2026-09-01&g=2026-09-01), ziet op een situatie als bedoeld in artikel 27 bis, zevende lid, van de richtlijn kapitaalvereisten;
 
-- b. een fusie als bedoeld in artikel 3:96a, eerste lid, onderdeel b, of artikel 3:96c, eerste lid, onderdeel b, ziet op een situatie als bedoeld in artikel 27 decies, tweede lid, van de richtlijn kapitaalvereisten.
+- b. een fusie als bedoeld in [artikel 3:96a, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96a&z=2026-09-01&g=2026-09-01), of [artikel 3:96c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.11&paragraaf=3.3.11.1&artikel=3:96c&z=2026-09-01&g=2026-09-01), ziet op een situatie als bedoeld in artikel 27 decies, tweede lid, van de richtlijn kapitaalvereisten.
 
 ##### Artikel 3:102
 
@@ -9542,15 +9542,15 @@ De [artikelen 3:96](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&
 
 2. De maatregelen, bedoeld in het eerste lid, zijn de volgende:
 
-- a. voorschrijven dat zij over een hogere solvabiliteit of liquiditeit beschikt dan ingevolge de artikelen 3:57 en 3:63 van deze wet is vereist;
+- a. voorschrijven dat zij over een hogere solvabiliteit of liquiditeit beschikt dan ingevolge de [artikelen 3:57](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.6&paragraaf=3.3.6.1&artikel=3:57&z=2026-09-01&g=2026-09-01) en [3:63](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.7&paragraaf=3.3.7.1&artikel=3:63&z=2026-09-01&g=2026-09-01) van deze wet is vereist;
 
-- b. voorschrijven dat ingevolge artikel 3:17 ingevoerde strategieën, maatregelen, procedures en ingevolge artikel 3:80a vereiste boekingsvereisten worden aangescherpt;
+- b. voorschrijven dat ingevolge [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.3&paragraaf=3.3.3.1&artikel=3:17&z=2026-09-01&g=2026-09-01) ingevoerde strategieën, maatregelen, procedures en ingevolge [artikel 3:80a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.9&paragraaf=3.3.9.3&artikel=3:80a&z=2026-09-01&g=2026-09-01) vereiste boekingsvereisten worden aangescherpt;
 
 - c. beperkingen opleggen aan de reikwijdte van de bedrijfsactiviteiten, aan de activiteiten die zij verrichten, of aan de tegenpartijen bij die activiteiten;
 
 - d. voorschrijven dat activiteiten, producten en systemen, waaronder de uitbestede activiteiten, die een inherent risico met zich meebrengen worden beperkt of beëindigd;
 
-- e. voorschrijven dat het bijkantoor voldoet aan aanvullende rapportagevereisten overeenkomstig artikel 3:72 of de frequentie van de periodieke rapportage verhoogd; of
+- e. voorschrijven dat het bijkantoor voldoet aan aanvullende rapportagevereisten overeenkomstig [artikel 3:72](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.9&paragraaf=3.3.9.1&artikel=3:72&z=2026-09-01&g=2026-09-01) of de frequentie van de periodieke rapportage verhoogd; of
 
 - f. voorschrijven dat het bijkantoor aanvullende informatie openbaar maakt.
 
@@ -9616,17 +9616,17 @@ De Nederlandsche Bank of de Europese Centrale Bank neemt een maatregel met betre
 
 ##### Artikel 3:111bb. Verplichting aanvragen bankvergunning door bijkantoren
 
-1. De Nederlandsche Bank kan voorschrijven dat een klasse 1-bijkantoor of klasse 2-bijkantoor een vergunning als bedoeld in artikel 2:11, eerste lid, aanvraagt indien:
+1. De Nederlandsche Bank kan voorschrijven dat een klasse 1-bijkantoor of klasse 2-bijkantoor een vergunning als bedoeld in [artikel 2:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.1&artikel=2:11&z=2026-09-01&g=2026-09-01), aanvraagt indien:
 
-- a. het bijkantoor de activiteiten bedoeld in artikel 2:20, eerste lid, verricht met cliënten of tegenpartijen in andere lidstaten die niet vallen onder de vrijstellingen uit artikel 48 quater, vierde lid, onderdeel d, van de richtlijn kapitaalvereisten;
+- a. het bijkantoor de activiteiten bedoeld in [artikel 2:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=2&hoofdstuk=2.2&afdeling=2.2.2&paragraaf=2.2.2.3&artikel=2:20&z=2026-09-01&g=2026-09-01), verricht met cliënten of tegenpartijen in andere lidstaten die niet vallen onder de vrijstellingen uit artikel 48 quater, vierde lid, onderdeel d, van de richtlijn kapitaalvereisten;
 
-- b. het bijkantoor systeemrelevant wordt geacht op grond van artikel 3:111ba;
+- b. het bijkantoor systeemrelevant wordt geacht op grond van [artikel 3:111ba](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.5&afdeling=3.5.1.0&artikel=3:111ba&z=2026-09-01&g=2026-09-01);
 
 - c. het totaalbedrag van de activa van alle bijkantoren in de lidstaten die tot dezelfde groep als een bank uit een staat die geen lidstaat is behoren, ten minste € 40 miljard bedraagt, of het bedrag van de activa op de balans van het bijkantoor in Nederland in zijn boeken ten minste € 10 miljard bedraagt;
 
 2. De Nederlandsche Bank kan voorschrijven dat een bijkantoor een vergunning als bedoeld in het eerste lid behoeft indien de Nederlandsche Bank:
 
-- a. eerder de maatregelen bedoeld in artikel 3:111a.1, tweede lid, of 3:111ba, tweede lid, heeft genomen; of
+- a. eerder de maatregelen bedoeld in [artikel 3:111a.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.5&afdeling=3.5.1&artikel=3:111a.1&z=2026-09-01&g=2026-09-01), of [3:111ba, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.5&afdeling=3.5.1.0&artikel=3:111ba&z=2026-09-01&g=2026-09-01), heeft genomen; of
 
 - b. op andere dan de in het eerste lid, onderdelen a tot en met c, bedoelde gronden van oordeel is dat de maatregelen bedoeld in dit lid, onderdeel a, ontoereikend zouden zijn om de wezenlijke toezichtproblemen weg te nemen.
 
@@ -11246,7 +11246,7 @@ De Nederlandsche Bank kan, indien zij groepstoezichthouder is, besluiten een ond
 
 ##### Artikel 3:272a
 
-Artikel 3:9b is van overeenkomstige toepassing op een financiële holding en een gemengde financiële holding als bedoeld in artikel 3:280a.
+[Artikel 3:9b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.3&afdeling=3.3.2&paragraaf=3.3.2.1&artikel=3:9b&z=2026-09-01&g=2026-09-01) is van overeenkomstige toepassing op een financiële holding en een gemengde financiële holding als bedoeld in [artikel 3:280a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3&hoofdstuk=3.6&afdeling=3.6.2&artikel=3:280a&z=2026-09-01&g=2026-09-01).
 
 ##### Artikel 3:273
 
@@ -14130,7 +14130,7 @@ De Autoriteit Financiële Markten kan aan een beleggingsonderneming met systemat
 
 1. Een beleggingsonderneming onder de verordening kapitaalvereisten draagt, met inachtneming van artikel 91 bis, eerste tot en met vierde lid, van de richtlijn kapitaalvereisten er zorg voor dat de bij de beleggingsonderneming onder de verordening kapitaalvereisten werkzame medewerkers met een sleutelfunctie geschikt zijn en hun betrouwbaarheid buiten twijfel staat.
 
-2. De betrouwbaarheid van de hoofden van de internecontrolefuncties en de financieel directeur staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van deze wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling. Artikel 4:10, derde lid, is van overeenkomstige toepassing.
+2. De betrouwbaarheid van de hoofden van de internecontrolefuncties en de financieel directeur staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van deze wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling. [Artikel 4:10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4&hoofdstuk=4.2&afdeling=4.2.1&artikel=4:10&z=2026-09-01&g=2026-09-01), is van overeenkomstige toepassing.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de geschiktheid van een persoon als bedoeld in het eerste lid.
 

@@ -8,7 +8,7 @@ laatste_update: 1981-09-16
 status: geldig
 toestand: 1981-09-16
 bron: "https://wetten.overheid.nl/BWBV0003904"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de instandhouding van de afbakening van de gemeenschappelijke grens

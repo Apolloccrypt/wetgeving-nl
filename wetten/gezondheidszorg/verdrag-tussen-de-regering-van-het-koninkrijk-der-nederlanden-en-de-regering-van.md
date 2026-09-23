@@ -8,7 +8,7 @@ laatste_update: 2010-09-04
 status: geldig
 toestand: 2010-09-04
 bron: "https://wetten.overheid.nl/BWBV0002450"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Australië inzake de verlening van medische zorg

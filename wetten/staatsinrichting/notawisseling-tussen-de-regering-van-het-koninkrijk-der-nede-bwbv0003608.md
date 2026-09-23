@@ -8,7 +8,7 @@ laatste_update: 1972-07-01
 status: geldig
 toestand: 1972-07-01
 bron: "https://wetten.overheid.nl/BWBV0003608"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging van de grenscontrole bij de grensovergang Neurhede-Boertange
@@ -21,7 +21,11 @@ V3-81.SA 47
 
 Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenlegung der Grenzabfertigung und über die Einrichtung von Gemeinschafts- oder Betriebswechselbahnhöfen an der deutsch-niederländischen Grenze mitzuteilen, dass die Regierung der Bundesrepublik Deutschland das Schreiben des Bundesministers für Wirtschaft und Finanzen vom 8. Dezember 1971 - F/III B 2 - Z 1108 (Nie) - 71/71 - und das Schreiben des Niederländischen Staatssekretärs der Finanzen vom 17. Februar 1972 - B 71/23887 - zur Kenntnis genommen hat, durch welche gemäss Artikel 1 Absatz 4 Buchstabe a) des Abkommens folgende Vereinbarung getroffen wird:
 
+### I
+
 Am Grenzübergang Neurhede - Boertange werden die deutsche und die niederländische Grenzabfertigung zusammengelegt.
+
+### II
 
 Die Zonen im Sinne des Artikels 3 des Abkommens umfassen
 
@@ -35,7 +39,11 @@ Die Zonen im Sinne des Artikels 3 des Abkommens umfassen
 
 - 3. den Vorplatz vor dem bisherigen Dienstgebäude des Zollamts Neurhede.
 
+### III
+
 Diese Vereinbarung wird gemäss Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in den diplomatischen Noten festgelegt.
+
+### IV
 
 Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt sechs Monate nach ihrer Kündigung ausser Kraft.
 

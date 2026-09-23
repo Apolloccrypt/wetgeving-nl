@@ -8,7 +8,7 @@ laatste_update: 1988-01-16
 status: geldig
 toestand: 1988-01-16
 bron: "https://wetten.overheid.nl/BWBV0002682"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst inzake economische en technologische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Venezuela

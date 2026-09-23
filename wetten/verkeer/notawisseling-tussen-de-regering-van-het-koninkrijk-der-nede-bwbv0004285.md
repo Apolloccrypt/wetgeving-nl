@@ -8,7 +8,7 @@ laatste_update: 1963-05-20
 status: geldig
 toestand: 1963-05-20
 bron: "https://wetten.overheid.nl/BWBV0004285"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging van de grenscontrole op het spoorwegstation Bentheim

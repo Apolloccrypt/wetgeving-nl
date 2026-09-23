@@ -8,7 +8,7 @@ laatste_update: 1962-01-01
 status: geldig
 toestand: 1962-01-01
 bron: "https://wetten.overheid.nl/BWBV0004303"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Belgische kantoor te Klein-Ternaaien (kanaal) tot internationaal douanekantoor voor de scheepvaart en nopens de aanwijzing van het Belgische kantoor te Klein-Ternaaien (weg) tot internationaal douanekantoor voor het wegverkeer

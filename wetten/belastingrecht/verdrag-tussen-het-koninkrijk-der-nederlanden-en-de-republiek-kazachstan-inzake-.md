@@ -9,7 +9,7 @@ laatste_update: 2005-08-01
 status: geldig
 toestand: 2005-08-01
 bron: "https://wetten.overheid.nl/BWBV0002644"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kazachstan inzake samenwerking en wederzijdse administratieve bijstand in douanezaken

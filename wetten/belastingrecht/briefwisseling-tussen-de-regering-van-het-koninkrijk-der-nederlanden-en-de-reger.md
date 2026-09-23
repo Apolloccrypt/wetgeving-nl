@@ -8,7 +8,7 @@ laatste_update: 2008-06-01
 status: geldig
 toestand: 2008-06-01
 bron: "https://wetten.overheid.nl/BWBV0003034"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Chili betreffende de uitbreiding tot de Nederlandse Antillen van het Verdrag tussen het Koninkrijk der Nederlanden en Chili inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving

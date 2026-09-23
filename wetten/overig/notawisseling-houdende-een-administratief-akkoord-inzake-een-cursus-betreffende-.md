@@ -8,7 +8,7 @@ laatste_update: 1978-09-24
 status: geldig
 toestand: 1978-09-24
 bron: "https://wetten.overheid.nl/BWBV0003311"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een administratief akkoord inzake een cursus betreffende radio-uitzendingen te Juba

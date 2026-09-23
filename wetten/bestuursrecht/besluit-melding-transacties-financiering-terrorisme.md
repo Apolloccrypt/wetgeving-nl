@@ -4,12 +4,12 @@ citeertitel: "Besluit melding transacties financiering terrorisme"
 identifier: "BWBR0014119"
 categorie: "Overig"
 soort: "AMvB"
-publicatiedatum: 2003-01-19
+publicatiedatum: 2003-01-20
 laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0014119"
-opgehaald: 2026-08-06
+opgehaald: 2026-09-23
 ---
 
 # Besluit van 11 oktober 2002 op grond van de Sanctiewet 1977, inzake het melden van transacties die zouden kunnen duiden op de financiering van terrorisme

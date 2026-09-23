@@ -4,11 +4,11 @@ identifier: "BWBR0039095"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2017-02-01
-laatste_update: 2026-01-31
+laatste_update: 2026-07-17
 status: geldig
-toestand: 2026-01-31
+toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0039095"
-opgehaald: 2026-09-14
+opgehaald: 2026-09-23
 ---
 
 # Kavelbesluit I windenergiegebied Hollandse Kust (zuid)

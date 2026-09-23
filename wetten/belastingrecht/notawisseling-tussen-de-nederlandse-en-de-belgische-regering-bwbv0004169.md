@@ -8,7 +8,7 @@ laatste_update: 1963-07-01
 status: geldig
 toestand: 1963-07-01
 bron: "https://wetten.overheid.nl/BWBV0004169"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Belgische grenskantoor bij Maaseik tot internationaal douanekantoor voor het wegverkeer

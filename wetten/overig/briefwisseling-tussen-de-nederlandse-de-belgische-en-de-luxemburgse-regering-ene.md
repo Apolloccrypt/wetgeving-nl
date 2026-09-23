@@ -8,7 +8,7 @@ laatste_update: 1964-06-15
 status: geldig
 toestand: 1964-06-15
 bron: "https://wetten.overheid.nl/BWBV0004233"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Nederlandse, de Belgische en de Luxemburgse Regering, enerzijds, en de Zwitserse Bondsraad, anderszijds, inzake het gebruik van het zeemansboekje als reisdocument

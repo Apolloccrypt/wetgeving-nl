@@ -8,7 +8,7 @@ laatste_update: 2002-03-15
 status: geldig
 toestand: 2002-03-15
 bron: "https://wetten.overheid.nl/BWBV0003546"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Europese Organisatie voor de veiligheid van de luchtvaart “EUROCONTROL” inzake de vestiging van “EUROCONTROL” te Beek (Limburg)

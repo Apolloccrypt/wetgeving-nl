@@ -5,11 +5,11 @@ identifier: "BWBR0031617"
 categorie: "Overig"
 soort: "ministeriele-regeling-BES"
 publicatiedatum: 2012-07-01
-laatste_update: 2026-04-01
+laatste_update: 2026-09-22
 status: geldig
-toestand: 2026-04-01
+toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0031617"
-opgehaald: 2026-08-18
+opgehaald: 2026-09-23
 ---
 
 # Regeling houdende nadere regels ter uitvoering van de Wet financiële markten BES en het Besluit financiële markten BES (Regeling financiële markten BES 2012)
@@ -22,7 +22,7 @@ In deze regeling wordt, tenzij anders bepaald, verstaan onder*besluit* : [Beslui
 
 ##### Artikel 1:2. (tarieven eenmalige toezichthandelingen)
 
-1. Voor het in behandeling nemen van een aanvraag van een beschikking op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is het ingevolge [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=1&z=2026-04-01&g=2026-04-01) toepasselijke tarief verschuldigd.
+1. Voor het in behandeling nemen van een aanvraag van een beschikking op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) is het ingevolge [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=1&z=2026-09-22&g=2026-09-22) toepasselijke tarief verschuldigd.
 
 2. De toezichtautoriteit brengt het tarief, bedoeld in het eerste lid, voor zover mogelijk, direct na ontvangst van de aanvraag in rekening.
 
@@ -30,11 +30,11 @@ In deze regeling wordt, tenzij anders bepaald, verstaan onder*besluit* : [Beslui
 
 ##### Artikel 1:3. (tarieven doorlopende toezichtkosten)
 
-Ter zake van de kosten, bedoeld in [artikel 1:10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=1:10), is jaarlijks het ingevolge [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=2&z=2026-04-01&g=2026-04-01) toepasselijke tarief verschuldigd.
+Ter zake van de kosten, bedoeld in [artikel 1:10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=1:10), is jaarlijks het ingevolge [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=2&z=2026-09-22&g=2026-09-22) toepasselijke tarief verschuldigd.
 
 ##### Artikel 1:4. (vrijstelling assurantiebemiddelaars)
 
-Bemiddelaars in verzekeringen zijn vrijgesteld van [artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:3&z=2026-04-01&g=2026-04-01), voor zover:
+Bemiddelaars in verzekeringen zijn vrijgesteld van [artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:3&z=2026-09-22&g=2026-09-22), voor zover:
 
 - a. hun werkzaamheden slechts betrekking hebben op schadebehandeling of de incasso van premies;
 
@@ -52,7 +52,7 @@ Voor de volgende grote posities geldt een vrijstelling van de verplichting in [a
 
 - d. actiefposten die vorderingen vertegenwoordigen die uitdrukkelijk zijn gegarandeerd door de in de onderdelen a en b bedoelde rechtspersonen;
 
-- e. actiefposten en andere blootstellingen die volledig zijn gedekt met zekerheden in de vorm van deposito's in contanten of van effecten genoteerd aan een erkende effectenbeurs als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:7&z=2026-04-01&g=2026-04-01), met dien verstande dat de blootstelling ten hoogste 70 procent van de gemiddelde marktwaarde van die effecten gedurende de laatste twaalf maanden bedraagt;
+- e. actiefposten en andere blootstellingen die volledig zijn gedekt met zekerheden in de vorm van deposito's in contanten of van effecten genoteerd aan een erkende effectenbeurs als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=2&artikel=2:7&z=2026-09-22&g=2026-09-22), met dien verstande dat de blootstelling ten hoogste 70 procent van de gemiddelde marktwaarde van die effecten gedurende de laatste twaalf maanden bedraagt;
 
 - f. interbancaire blootstellingen met een resterende looptijd van ten hoogste zes maanden;
 
@@ -86,17 +86,17 @@ De toezichtautoriteit kan bij het verkrijgen van inzicht als bedoeld in [artikel
 
 ##### Artikel 2:2. (erkende assurantiediploma’s)
 
-1. Erkende diploma’s als bedoeld in [artikel 3:4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:4) ter zake van bemiddeling in levensverzekeringen onderscheidenlijk het optreden als gevolmachtigd agent met betrekking tot levensverzekeringen zijn:
+1. Erkende diploma’s als bedoeld in [artikel 3:29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:29) ter zake van bemiddeling in levensverzekeringen onderscheidenlijk het optreden als gevolmachtigd agent met betrekking tot levensverzekeringen zijn:
 
 - a. een diploma dat in Curaçao of Sint Maarten toegang geeft tot de bemiddeling in levensverzekeringen of het optreden als gevolmachtigd agent met betrekking tot levensverzekeringen;
 
-- b. een diploma als bedoeld in [artikel 4:9, derde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), voor zover dit diploma in Europees Nederland toegang geeft, of op het tijdstip van uitgifte toegang gaf, tot de bemiddeling in levensverzekeringen.
+- b. een diploma als bedoeld in [artikel 4:9, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), voor zover dit diploma in Europees Nederland toegang geeft, of op het tijdstip van uitgifte toegang gaf, tot de bemiddeling in levensverzekeringen.
 
-2. Erkende diploma’s als bedoeld in [artikel 3:4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:4) ter zake van bemiddeling in schadeverzekeringen onderscheidenlijk het optreden als gevolmachtigd agent met betrekking tot schadeverzekeringen zijn:
+2. Erkende diploma’s als bedoeld in [artikel 3:29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=3:29) ter zake van bemiddeling in schadeverzekeringen onderscheidenlijk het optreden als gevolmachtigd agent met betrekking tot schadeverzekeringen zijn:
 
 - a. een diploma dat in Curaçao of Sint Maarten toegang geeft tot de bemiddeling in schadeverzekeringen of het optreden als gevolmachtigd agent met betrekking tot schadeverzekeringen;
 
-- b. een diploma als bedoeld in [artikel 4:9, derde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), voor zover dit diploma in Europees Nederland toegang geeft, of op het tijdstip van uitgifte toegang gaf, tot de bemiddeling in schadeverzekeringen.
+- b. een diploma als bedoeld in [artikel 4:9, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), voor zover dit diploma in Europees Nederland toegang geeft, of op het tijdstip van uitgifte toegang gaf, tot de bemiddeling in schadeverzekeringen.
 
 3. Een diploma als bedoeld in het eerste of tweede lid dat meer dan tien jaar geleden is behaald, is slechts geldig indien de houder van het diploma in de laatste vijf jaar ten minste twee jaar relevante werkervaring heeft opgedaan.
 
@@ -134,7 +134,7 @@ De door een trustkantoor voor de toezichtautoriteit beschikbaar te houden besche
 
 ##### Artikel 2:4. (prospectus beleggingsinstellingen)
 
-Het prospectus, bedoeld in [artikel 6:3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=6:3), bevat ten minste de gegevens die zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=3&z=2026-04-01&g=2026-04-01).
+Het prospectus, bedoeld in [artikel 6:3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=6:3), bevat ten minste de gegevens die zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=3&z=2026-09-22&g=2026-09-22).
 
 ##### Artikel 2:5. (normbedragen kredietwaardigheidstoets)
 
@@ -179,7 +179,7 @@ q: het aantal dagen van de maand waarvan dag d deel uitmaakt.
 
 ##### Artikel 2:6. (prospectus bij aanbieden effecten)
 
-Het prospectus, bedoeld in [artikel 8:1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=8:1), bevat ten minste de gegevens die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=4&z=2026-04-01&g=2026-04-01).
+Het prospectus, bedoeld in [artikel 8:1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031636&artikel=8:1), bevat ten minste de gegevens die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&bijlage=4&z=2026-09-22&g=2026-09-22).
 
 ##### Artikel 2:7. (erkende effectenbeurzen)
 
@@ -261,7 +261,7 @@ De bepalingen van deze paragraaf zijn niet van toepassing op:
 
 ##### Artikel 3:7. (geldovermakingen naar het buitenland)
 
-Indien de betalingsdienstaanbieders van de begunstigden buiten de openbare lichamen zijn gevestigd, is bij blokovermakingen die afkomstig zijn van één betaler [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:6&z=2026-04-01&g=2026-04-01), niet van toepassing op de gebundelde afzonderlijke geldovermakingen, mits het batchbestand de in dat lid bedoelde informatie bevat en bij de afzonderlijke geldovermakingen het rekeningnummer van de betaler of een unieke identificatiecode is gevoegd.
+Indien de betalingsdienstaanbieders van de begunstigden buiten de openbare lichamen zijn gevestigd, is bij blokovermakingen die afkomstig zijn van één betaler [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:6&z=2026-09-22&g=2026-09-22), niet van toepassing op de gebundelde afzonderlijke geldovermakingen, mits het batchbestand de in dat lid bedoelde informatie bevat en bij de afzonderlijke geldovermakingen het rekeningnummer van de betaler of een unieke identificatiecode is gevoegd.
 
 ##### Artikel 3:8. (ontbrekende informatie over de betaler)
 
@@ -271,11 +271,11 @@ Een betalingsdienstaanbieder beschikt over procedures en maatregelen die ertoe s
 
 1. De betalingsdienstaanbieder van de begunstigde controleert of de velden voor informatie over de betaler in het berichtensysteem of het betalings- en afwikkelingssysteem dat voor de geldovermaking gebruikt wordt, zijn ingevuld met karakters of invoer die toegelaten zijn volgens de procedures van het berichten- of het betalings- en afwikkelingssysteem. Deze betalingsdienstaanbieder beschikt over effectieve procedures om het ontbreken van de volgende informatie over de betaler op te merken:
 
-- a. bij geldovermakingen waarbij de betalingsdienstaanbieder van de betaler in een openbaar lichaam is gevestigd, de uit hoofde van [artikel 3:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:6&z=2026-04-01&g=2026-04-01), vereiste informatie;
+- a. bij geldovermakingen waarbij de betalingsdienstaanbieder van de betaler in een openbaar lichaam is gevestigd, de uit hoofde van [artikel 3:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:6&z=2026-09-22&g=2026-09-22), vereiste informatie;
 
-- b. bij geldovermakingen waarbij de betalingsdienstaanbieder van de betaler buiten de openbare lichamen is gevestigd, de in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:5&z=2026-04-01&g=2026-04-01), bedoelde volledige informatie over de betaler, of, in voorkomend geval, de uit hoofde van [artikel 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:13&z=2026-04-01&g=2026-04-01) vereiste informatie.
+- b. bij geldovermakingen waarbij de betalingsdienstaanbieder van de betaler buiten de openbare lichamen is gevestigd, de in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:5&z=2026-09-22&g=2026-09-22), bedoelde volledige informatie over de betaler, of, in voorkomend geval, de uit hoofde van [artikel 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:13&z=2026-09-22&g=2026-09-22) vereiste informatie.
 
-2. Bij blokovermakingen waarbij de betalingsdienstaanbieder van de betaler buiten de openbare lichamen is gevestigd, dient de in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:5&z=2026-04-01&g=2026-04-01), bedoelde volledige informatie over de betaler alleen in de blokovermaking te staan, en niet bij de daarin gebundelde afzonderlijke geldovermakingen.
+2. Bij blokovermakingen waarbij de betalingsdienstaanbieder van de betaler buiten de openbare lichamen is gevestigd, dient de in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=3&artikel=3:5&z=2026-09-22&g=2026-09-22), bedoelde volledige informatie over de betaler alleen in de blokovermaking te staan, en niet bij de daarin gebundelde afzonderlijke geldovermakingen.
 
 ##### Artikel 3:10. (onvolledige informatie)
 
@@ -315,7 +315,7 @@ Een instelling beschikt over procedures en maatregelen die waarborgen dat zij op
 
 ##### Artikel 4:2. (inwerkingtreding)
 
-Deze regeling treedt in werking met ingang van 1 juli 2012, met uitzondering van [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=1&artikel=1:3&z=2026-04-01&g=2026-04-01), dat in werking treedt met ingang van 1 januari 2013.
+Deze regeling treedt in werking met ingang van 1 juli 2012, met uitzondering van [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0031617&paragraaf=1&artikel=1:3&z=2026-09-22&g=2026-09-22), dat in werking treedt met ingang van 1 januari 2013.
 
 ##### Artikel 4:3. (citeertitel)
 

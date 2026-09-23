@@ -8,7 +8,7 @@ laatste_update: 1997-12-24
 status: geldig
 toestand: 1997-12-24
 bron: "https://wetten.overheid.nl/BWBV0002739"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Sultanaat Oman inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

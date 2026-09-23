@@ -8,7 +8,7 @@ laatste_update: 2007-10-01
 status: geldig
 toestand: 2007-10-01
 bron: "https://wetten.overheid.nl/BWBV0002811"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de aansluiting van de Nederlandse regionale weg N 297n en de Duitse rijksweg B 56n op de gemeenschappelijke landsgrens door de bouw van een grensbrug

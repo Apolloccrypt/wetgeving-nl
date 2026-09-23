@@ -8,7 +8,7 @@ laatste_update: 1972-02-24
 status: geldig
 toestand: 1972-02-24
 bron: "https://wetten.overheid.nl/BWBV0003553"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Polen inzake de handelsscheepvaart, met Protocol

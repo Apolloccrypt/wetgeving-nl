@@ -8,7 +8,7 @@ laatste_update: 2014-05-01
 status: geldig
 toestand: 2014-05-01
 bron: "https://wetten.overheid.nl/BWBV0004075"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Indonesië, anderzijds

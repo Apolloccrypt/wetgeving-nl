@@ -8,7 +8,7 @@ laatste_update: 2013-12-05
 status: geldig
 toestand: 2013-12-05
 bron: "https://wetten.overheid.nl/BWBV0003792"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en Antigua en Barbuda inzake de uitwisseling van informatie betreffende belastingzaken

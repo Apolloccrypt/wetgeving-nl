@@ -8,7 +8,7 @@ laatste_update: 2009-12-24
 status: geldig
 toestand: 2009-12-24
 bron: "https://wetten.overheid.nl/BWBV0003165"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Bahrein tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

@@ -8,7 +8,7 @@ laatste_update: 1971-10-08
 status: geldig
 toestand: 1971-10-08
 bron: "https://wetten.overheid.nl/BWBV0004252"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland ter aanvulling van de op 21 september 1960 te Parijs ondertekende NAVO-overeenkomst inzake de wederzijdse geheimhouding van uitvindingen die voor de verdediging van belang zijn en onderwerp van octrooiaanvragen vormen (Nederlands-Duitse overeenkomst ter aanvulling van de NAVO-overeenkomst van 21 september 1960)

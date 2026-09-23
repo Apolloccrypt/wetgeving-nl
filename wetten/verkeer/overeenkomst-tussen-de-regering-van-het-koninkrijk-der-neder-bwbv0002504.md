@@ -8,7 +8,7 @@ laatste_update: 2002-12-11
 status: geldig
 toestand: 2002-12-11
 bron: "https://wetten.overheid.nl/BWBV0002504"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake een scheepvaartreglement voor de Eemsmonding

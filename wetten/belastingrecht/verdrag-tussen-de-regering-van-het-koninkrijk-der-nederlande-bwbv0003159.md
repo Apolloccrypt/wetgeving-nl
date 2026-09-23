@@ -8,7 +8,7 @@ laatste_update: 2011-07-06
 status: geldig
 toestand: 2011-07-06
 bron: "https://wetten.overheid.nl/BWBV0003159"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Bahrein tot wederzijdse vrijstelling met betrekking tot belastingen naar inkomsten en winsten verkregen uit het internationale luchtvervoer

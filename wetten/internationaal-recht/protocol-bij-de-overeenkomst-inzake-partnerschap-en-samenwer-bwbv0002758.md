@@ -8,7 +8,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBV0002758"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Protocol bij de overeenkomst inzake partnerschap en samenwerking tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Armenië, anderzijds, om rekening te houden met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie

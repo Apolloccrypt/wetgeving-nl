@@ -8,7 +8,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBV0002866"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciaal Tribunaal voor Libanon

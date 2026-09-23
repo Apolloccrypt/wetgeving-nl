@@ -8,7 +8,7 @@ laatste_update: 2001-05-09
 status: geldig
 toestand: 2001-05-09
 bron: "https://wetten.overheid.nl/BWBV0002730"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake het verblijf van Nederlandse strijdkrachten in Frankrijk

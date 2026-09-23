@@ -8,7 +8,7 @@ laatste_update: 1977-01-22
 status: geldig
 toestand: 1977-01-22
 bron: "https://wetten.overheid.nl/BWBV0003320"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de Regering van de Volksrepubliek China, anderzijds, inzake de wederzijdse bescherming van warenmerken

@@ -8,7 +8,7 @@ laatste_update: 1999-08-13
 status: geldig
 toestand: 1999-08-13
 bron: "https://wetten.overheid.nl/BWBV0002736"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zimbabwe inzake luchtdiensten tussen en via hun onderscheiden grondgebieden

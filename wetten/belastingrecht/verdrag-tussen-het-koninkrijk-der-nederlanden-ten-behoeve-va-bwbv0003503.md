@@ -8,7 +8,7 @@ laatste_update: 2011-08-01
 status: geldig
 toestand: 2011-08-01
 bron: "https://wetten.overheid.nl/BWBV0003503"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en het Koninkrijk Noorwegen inzake de uitwisseling van informatie betreffende belastingen

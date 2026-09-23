@@ -8,7 +8,7 @@ laatste_update: 1988-10-19
 status: geldig
 toestand: 1988-10-19
 bron: "https://wetten.overheid.nl/BWBV0002473"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Belgische kantoor Boorsem tot internationaal douanekantoor voor het wegverkeer

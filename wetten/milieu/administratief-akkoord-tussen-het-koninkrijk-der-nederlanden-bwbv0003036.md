@@ -8,7 +8,7 @@ laatste_update: 2011-12-31
 status: geldig
 toestand: 2011-12-31
 bron: "https://wetten.overheid.nl/BWBV0003036"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en Egypte inzake het project "Fayoum Water Users Organisation Project"

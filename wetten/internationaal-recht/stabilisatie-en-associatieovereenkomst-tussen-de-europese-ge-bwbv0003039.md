@@ -8,7 +8,7 @@ laatste_update: 2015-05-11
 status: geldig
 toestand: 2015-05-11
 bron: "https://wetten.overheid.nl/BWBV0003039"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Albanië, anderzijds

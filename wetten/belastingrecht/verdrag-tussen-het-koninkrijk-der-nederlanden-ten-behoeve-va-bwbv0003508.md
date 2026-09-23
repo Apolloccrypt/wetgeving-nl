@@ -8,7 +8,7 @@ laatste_update: 2011-06-01
 status: geldig
 toestand: 2011-06-01
 bron: "https://wetten.overheid.nl/BWBV0003508"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Republiek Finland inzake de uitwisseling van informatie betreffende belastingen

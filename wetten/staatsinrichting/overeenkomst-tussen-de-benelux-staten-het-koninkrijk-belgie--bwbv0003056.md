@@ -8,7 +8,7 @@ laatste_update: 2008-05-01
 status: geldig
 toestand: 2008-05-01
 bron: "https://wetten.overheid.nl/BWBV0003056"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en Bosnië-Herzegovina betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen

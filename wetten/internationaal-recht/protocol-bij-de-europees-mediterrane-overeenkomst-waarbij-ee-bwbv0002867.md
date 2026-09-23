@@ -8,7 +8,7 @@ laatste_update: 2009-06-01
 status: geldig
 toestand: 2009-06-01
 bron: "https://wetten.overheid.nl/BWBV0002867"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Protocol bij de Europees-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Democratische Volksrepubliek Algerije, anderzijds, teneinde rekening te houden met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie

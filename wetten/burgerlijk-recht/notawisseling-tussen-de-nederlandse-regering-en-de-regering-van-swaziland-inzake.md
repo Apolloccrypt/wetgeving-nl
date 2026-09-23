@@ -8,7 +8,7 @@ laatste_update: 1976-06-16
 status: geldig
 toestand: 1976-06-16
 bron: "https://wetten.overheid.nl/BWBV0003963"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Regering van Swaziland inzake de toepassing van het op 31 mei 1932 te Londen tussen Nederland en Groot-Brittannië gesloten Verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken

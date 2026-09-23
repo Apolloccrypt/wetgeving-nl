@@ -8,7 +8,7 @@ laatste_update: 2018-03-01
 status: geldig
 toestand: 2018-03-01
 bron: "https://wetten.overheid.nl/BWBV0003812"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Republiek India

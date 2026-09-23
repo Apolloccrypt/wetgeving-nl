@@ -8,7 +8,7 @@ laatste_update: 1981-07-10
 status: geldig
 toestand: 1981-07-10
 bron: "https://wetten.overheid.nl/BWBV0002941"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika houdende een overeenkomst betreffende een garantiefonds in verband met de beslechting van bepaalde geschillen tussen de Verenigde Staten van Amerika en Iran

@@ -8,7 +8,7 @@ laatste_update: 1972-09-20
 status: geldig
 toestand: 1972-09-20
 bron: "https://wetten.overheid.nl/BWBV0003462"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Spaanse Staat tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het vermogen

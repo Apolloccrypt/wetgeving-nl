@@ -8,7 +8,7 @@ laatste_update: 1980-05-03
 status: geldig
 toestand: 1980-05-03
 bron: "https://wetten.overheid.nl/BWBV0003313"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Administratief akkoord tussen de wederzijdse bevoegde autoriteiten inzake samenwerking tussen de Landbouwhogeschool in Wageningen en de Brawijaya Universiteit te Malang

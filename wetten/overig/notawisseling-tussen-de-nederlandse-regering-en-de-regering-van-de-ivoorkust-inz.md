@@ -8,7 +8,7 @@ laatste_update: 1962-03-14
 status: geldig
 toestand: 1962-03-14
 bron: "https://wetten.overheid.nl/BWBV0004299"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Regering van de Ivoorkust inzake de afschaffing van diplomatieke en dienstvisa

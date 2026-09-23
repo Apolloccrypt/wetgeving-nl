@@ -4,12 +4,12 @@ citeertitel: "Regeling taakuitoefening toezichthouders Wft"
 identifier: "BWBR0051495"
 categorie: "Financieel recht"
 soort: "ministeriele-regeling"
-publicatiedatum: 2025-10-01
-laatste_update: 2026-06-03
+publicatiedatum: 2026-08-18
+laatste_update: 2026-09-22
 status: geldig
-toestand: 2026-06-03
+toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0051495"
-opgehaald: 2026-09-09
+opgehaald: 2026-09-23
 ---
 
 # Regeling van de Minister van Financiën van 2025-0000248607, directie Financiële Markten, houdende regels met betrekking tot de taakuitoefening en samenwerking van financiële toezichthouders
@@ -18,9 +18,13 @@ opgehaald: 2026-09-09
 
 In deze regeling wordt verstaan onder *wet*: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 1:79, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:79).
+
 ##### Artikel 2. Toezichthouders
 
-De toezichthouders nemen bij de uitoefening van hun taken op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) en bij de samenwerking met buitenlandse of Europese instanties de in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0051495&bijlage=1&z=2026-06-03&g=2026-06-03) bij deze regeling genoemde richtlijnbepalingen in acht.
+De toezichthouders nemen bij de uitoefening van hun taken op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) en bij de samenwerking met buitenlandse of Europese instanties de in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0051495&bijlage=1&z=2026-09-22&g=2026-09-22) bij deze regeling genoemde richtlijnbepalingen in acht.
 
 ##### Artikel 3. Intrekking
 

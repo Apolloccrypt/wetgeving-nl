@@ -8,7 +8,7 @@ laatste_update: 1979-06-12
 status: geldig
 toestand: 1979-06-12
 bron: "https://wetten.overheid.nl/BWBV0003685"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada houdende een overeenkomst inzake het wederzijds kosteloos verlenen van visa voor stagiares

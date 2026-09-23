@@ -8,7 +8,7 @@ laatste_update: 2010-03-01
 status: geldig
 toestand: 2010-03-01
 bron: "https://wetten.overheid.nl/BWBV0003168"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Japan inzake wederzijdse administratieve bijstand en samenwerking in douanezaken

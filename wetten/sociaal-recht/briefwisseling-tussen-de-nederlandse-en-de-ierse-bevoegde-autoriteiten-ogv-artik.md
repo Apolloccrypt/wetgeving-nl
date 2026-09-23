@@ -8,7 +8,7 @@ laatste_update: 1987-07-27
 status: geldig
 toestand: 1987-07-27
 bron: "https://wetten.overheid.nl/BWBV0002666"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Nederlandse en de Ierse bevoegde autoriteiten o.g.v. artikel 70, derde lid, van Verordening 1408/71 en artikel 105, tweede lid, van Verordening 574/72 van de Raad van de Europese Gemeenschappen inzake het afzien van de vergoeding van werkloosheidsuitkeringen en de vergoeding van de kosten die voortvloeien uit administratieve controle, geneeskundig onderzoek, enz. nodig voor de toekenning en verlening van prestaties of voor de herziening ervan

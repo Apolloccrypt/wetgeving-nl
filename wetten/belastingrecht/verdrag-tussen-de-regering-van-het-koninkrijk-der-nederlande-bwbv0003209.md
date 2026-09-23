@@ -8,7 +8,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBV0003209"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada inzake wederzijdse administratieve bijstand in douanezaken

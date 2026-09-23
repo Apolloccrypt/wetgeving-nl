@@ -8,7 +8,7 @@ laatste_update: 2015-12-01
 status: geldig
 toestand: 2015-12-01
 bron: "https://wetten.overheid.nl/BWBV0003845"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Mauritius inzake luchtdiensten

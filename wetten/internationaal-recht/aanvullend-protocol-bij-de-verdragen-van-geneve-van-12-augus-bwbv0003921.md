@@ -8,7 +8,7 @@ laatste_update: 1987-12-26
 status: geldig
 toestand: 1987-12-26
 bron: "https://wetten.overheid.nl/BWBV0003921"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Aanvullend Protocol bij de Verdragen van Genève van 12 augustus 1949, betreffende de bescherming van slachtoffers van niet-internationale gewapende conflicten (Protocol II)

@@ -8,7 +8,7 @@ laatste_update: 1989-12-01
 status: geldig
 toestand: 1989-12-01
 bron: "https://wetten.overheid.nl/BWBV0002678"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst inzake economische en technologische samenwerking tussen het Koninkrijk der Nederlanden en het Sultanaat Oman

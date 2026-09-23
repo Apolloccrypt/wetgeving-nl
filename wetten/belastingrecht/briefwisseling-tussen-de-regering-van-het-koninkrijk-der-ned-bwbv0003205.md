@@ -7,7 +7,7 @@ laatste_update: 2009-04-28
 status: geldig
 toestand: 2009-04-28
 bron: "https://wetten.overheid.nl/BWBV0003205"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada inzake de uitbreiding tot de Nederlandse Antillen en Aruba van het Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada inzake wederzijdse administratieve bijstand in douanezaken

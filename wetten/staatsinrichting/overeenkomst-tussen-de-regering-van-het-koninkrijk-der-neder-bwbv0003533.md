@@ -8,7 +8,7 @@ laatste_update: 1982-10-20
 status: geldig
 toestand: 1982-10-20
 bron: "https://wetten.overheid.nl/BWBV0003533"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk België betrekking hebbende op brug E-39 over de Maas en het Julianakanaal

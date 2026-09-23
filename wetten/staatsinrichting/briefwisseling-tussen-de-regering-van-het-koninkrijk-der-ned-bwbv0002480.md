@@ -8,7 +8,7 @@ laatste_update: 1981-08-20
 status: geldig
 toestand: 1981-08-20
 bron: "https://wetten.overheid.nl/BWBV0002480"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika houdende een overeenkomst inzake de vestiging van opslagplaatsen en het onderhoud van Amerikaans legermaterieel in Nederland

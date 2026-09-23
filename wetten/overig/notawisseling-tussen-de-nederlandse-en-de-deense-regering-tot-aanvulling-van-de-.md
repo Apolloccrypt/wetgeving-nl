@@ -8,7 +8,7 @@ laatste_update: 1962-12-01
 status: geldig
 toestand: 1962-12-01
 bron: "https://wetten.overheid.nl/BWBV0004261"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Deense Regering tot aanvulling van de Handelsovereenkomst tussen de Benelux-Staten en Denemarken van 28 december 1956

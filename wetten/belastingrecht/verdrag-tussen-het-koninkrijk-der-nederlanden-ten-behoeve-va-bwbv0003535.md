@@ -8,7 +8,7 @@ laatste_update: 2014-11-06
 status: geldig
 toestand: 2014-11-06
 bron: "https://wetten.overheid.nl/BWBV0003535"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en Saint Christopher (Saint Kitts) en Nevis inzake de uitwisseling van informatie betreffende belastingzaken

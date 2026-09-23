@@ -8,7 +8,7 @@ laatste_update: 2009-12-22
 status: geldig
 toestand: 2009-12-22
 bron: "https://wetten.overheid.nl/BWBV0003715"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Zwitserse Bondsstaat

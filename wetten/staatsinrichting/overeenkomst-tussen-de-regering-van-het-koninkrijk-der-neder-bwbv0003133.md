@@ -8,7 +8,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBV0003133"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek houdende wijziging van de Overeenkomst van 29 mei 1979 inzake de verwerking in Frankrijk van bestraalde splijtstofelementen

@@ -7,7 +7,7 @@ laatste_update: 1987-07-23
 status: geldig
 toestand: 1987-07-23
 bron: "https://wetten.overheid.nl/BWBV0002845"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije in verband met de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Gemeenschap

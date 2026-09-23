@@ -8,7 +8,7 @@ laatste_update: 1969-11-20
 status: geldig
 toestand: 1969-11-20
 bron: "https://wetten.overheid.nl/BWBV0004176"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en SHAPE betreffende het verlenen van immuniteit aan de Commandant en de plaatsvervangend Commandant van Allied Forces Central Europe (AFCENT)

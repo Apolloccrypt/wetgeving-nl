@@ -8,7 +8,7 @@ laatste_update: 1976-09-09
 status: geldig
 toestand: 1976-09-09
 bron: "https://wetten.overheid.nl/BWBV0003882"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland nopens verbindingen tussen het aan de linkerzijde van de Eems gelegen Duitse gebied en het aangrenzende Nederlandse gebied

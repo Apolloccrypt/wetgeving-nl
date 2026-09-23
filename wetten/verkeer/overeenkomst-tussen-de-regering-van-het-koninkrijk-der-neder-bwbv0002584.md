@@ -8,7 +8,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBV0002584"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Hongarije inzake luchtvaartdiensten tussen en via hun onderscheiden grondgebieden

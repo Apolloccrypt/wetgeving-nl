@@ -8,7 +8,7 @@ laatste_update: 1967-07-20
 status: geldig
 toestand: 1967-07-20
 bron: "https://wetten.overheid.nl/BWBV0004214"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Republiek Roemenië

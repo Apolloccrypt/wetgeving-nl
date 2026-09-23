@@ -8,7 +8,7 @@ laatste_update: 1985-12-01
 status: geldig
 toestand: 1985-12-01
 bron: "https://wetten.overheid.nl/BWBV0003525"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake het aanleggen van een walradarketen langs de Westerschelde en haar mondingen

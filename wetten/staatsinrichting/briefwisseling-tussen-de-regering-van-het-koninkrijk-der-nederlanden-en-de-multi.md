@@ -8,7 +8,7 @@ laatste_update: 1983-08-04
 status: geldig
 toestand: 1983-08-04
 bron: "https://wetten.overheid.nl/BWBV0002594"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Multinationale Vredesmacht (MFO) houdende een overeenkomst inzake een financiële regeling voor postverzending

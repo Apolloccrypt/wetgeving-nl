@@ -8,7 +8,7 @@ laatste_update: 1981-06-30
 status: geldig
 toestand: 1981-06-30
 bron: "https://wetten.overheid.nl/BWBV0003994"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de eventuele terugzending van het na opwerking van bestraalde reactorbrandstof resterende radioactief afval

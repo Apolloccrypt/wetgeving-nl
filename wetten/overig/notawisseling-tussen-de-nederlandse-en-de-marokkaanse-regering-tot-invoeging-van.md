@@ -8,7 +8,7 @@ laatste_update: 1961-11-02
 status: geldig
 toestand: 1961-11-02
 bron: "https://wetten.overheid.nl/BWBV0004260"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Marokkaanse Regering tot invoeging van een clausule over Suriname en de Nederlandse Antillen in het Handelsprotocol van 22 september 1961

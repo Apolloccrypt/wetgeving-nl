@@ -8,7 +8,7 @@ laatste_update: 1961-05-26
 status: geldig
 toestand: 1961-05-26
 bron: "https://wetten.overheid.nl/BWBV0004277"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Duitse Regering inzake samenvoeging douanebehandeling (Station Venlo)

@@ -8,7 +8,7 @@ laatste_update: 1969-06-17
 status: geldig
 toestand: 1969-06-17
 bron: "https://wetten.overheid.nl/BWBV0004187"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa (SHAPE) betreffende het functioneren in Nederland van het Hoofdkwartier van de Geallieerde strijdkrachten in Centraal-Europa (AFCENT)

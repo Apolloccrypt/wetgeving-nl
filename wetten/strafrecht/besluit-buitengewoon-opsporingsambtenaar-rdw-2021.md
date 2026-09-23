@@ -6,10 +6,11 @@ categorie: "Verkeer"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-09-23
 laatste_update: 2021-09-23
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-22
 toestand: 2021-09-23
 bron: "https://wetten.overheid.nl/BWBR0045402"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-23
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 18 juni 2021 nr. BOACAT2021/027, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Rijksdienst voor het Wegverkeer

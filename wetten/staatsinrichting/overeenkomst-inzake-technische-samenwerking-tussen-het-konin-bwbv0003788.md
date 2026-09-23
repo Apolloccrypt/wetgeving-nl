@@ -8,7 +8,7 @@ laatste_update: 1977-08-09
 status: geldig
 toestand: 1977-08-09
 bron: "https://wetten.overheid.nl/BWBV0003788"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Democratische Republiek Soedan

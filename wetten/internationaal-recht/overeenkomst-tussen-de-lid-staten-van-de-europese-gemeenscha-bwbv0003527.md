@@ -8,7 +8,7 @@ laatste_update: 1974-01-01
 status: geldig
 toestand: 1974-01-01
 bron: "https://wetten.overheid.nl/BWBV0003527"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Republiek IJsland

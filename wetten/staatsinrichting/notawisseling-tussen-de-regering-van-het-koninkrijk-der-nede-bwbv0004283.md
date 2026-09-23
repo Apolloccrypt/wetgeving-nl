@@ -8,7 +8,7 @@ laatste_update: 1963-04-20
 status: geldig
 toestand: 1963-04-20
 bron: "https://wetten.overheid.nl/BWBV0004283"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging van de grenscontrole bij Bleyerheide, Haanrade, Waubach, Rimburg, Tegelen en Schoonebeek

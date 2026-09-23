@@ -8,7 +8,7 @@ laatste_update: 2007-04-01
 status: geldig
 toestand: 2007-04-01
 bron: "https://wetten.overheid.nl/BWBV0003060"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een verdrag tot wijziging van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de binnenvaart

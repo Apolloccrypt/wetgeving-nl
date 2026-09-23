@@ -8,7 +8,7 @@ laatste_update: 2014-06-01
 status: geldig
 toestand: 2014-06-01
 bron: "https://wetten.overheid.nl/BWBV0003077"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Aanvullend Protocol bij het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof inzake de rechtsbescherming van personen in dienst van de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen)

@@ -4,11 +4,11 @@ identifier: "BWBR0040556"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2018-03-01
-laatste_update: 2026-01-31
+laatste_update: 2026-07-17
 status: geldig
-toestand: 2026-01-31
+toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0040556"
-opgehaald: 2026-09-14
+opgehaald: 2026-09-23
 ---
 
 # Kavelbesluit III windenergiegebied Hollandse Kust (zuid)

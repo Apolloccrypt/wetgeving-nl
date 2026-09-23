@@ -8,7 +8,7 @@ laatste_update: 1964-05-30
 status: geldig
 toestand: 1964-05-30
 bron: "https://wetten.overheid.nl/BWBV0004281"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging grenscontrole (Hemden-Aalten; Zwillbrock-Groenlo; Nordhorn-Denekamp)

@@ -8,7 +8,7 @@ laatste_update: 2010-12-01
 status: geldig
 toestand: 2010-12-01
 bron: "https://wetten.overheid.nl/BWBV0003071"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Saudi-Arabië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

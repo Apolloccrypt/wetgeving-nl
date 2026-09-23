@@ -8,7 +8,7 @@ laatste_update: 2008-08-08
 status: geldig
 toestand: 2008-08-08
 bron: "https://wetten.overheid.nl/BWBV0003053"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer (herzien)

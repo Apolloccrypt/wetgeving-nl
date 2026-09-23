@@ -8,7 +8,7 @@ laatste_update: 1988-01-28
 status: geldig
 toestand: 1988-01-28
 bron: "https://wetten.overheid.nl/BWBV0002931"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand aangaande de langlopende financiering van het programma voor samenwerking inzake de bewaking en evaluatie van het transport van luchtverontreinigende stoffen over lange afstand in Europa (EMEP)

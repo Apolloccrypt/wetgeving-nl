@@ -8,7 +8,7 @@ laatste_update: 2019-05-16
 status: geldig
 toestand: 2019-05-16
 bron: "https://wetten.overheid.nl/BWBV0002581"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Canadese Regering houdende een overeenkomst inzake de exploitatie van chartervluchten

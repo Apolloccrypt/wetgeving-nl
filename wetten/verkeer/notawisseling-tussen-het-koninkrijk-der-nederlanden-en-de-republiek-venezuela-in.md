@@ -8,7 +8,7 @@ laatste_update: 1988-05-16
 status: geldig
 toestand: 1988-05-16
 bron: "https://wetten.overheid.nl/BWBV0002846"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Republiek Venezuela inzake commerciële luchtvaartbetrekkingen tussen Aruba en Venezuela

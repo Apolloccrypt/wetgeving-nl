@@ -8,7 +8,7 @@ laatste_update: 1976-09-08
 status: geldig
 toestand: 1976-09-08
 bron: "https://wetten.overheid.nl/BWBV0003887"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Zwitserse Regering inzake nucleaire leveranties aan Zwitserland

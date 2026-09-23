@@ -8,7 +8,7 @@ laatste_update: 1972-07-27
 status: geldig
 toestand: 1972-07-27
 bron: "https://wetten.overheid.nl/BWBV0003944"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Nederlandse, de Belgische en de Luxemburgse Regering, enerzijds, en de Spaanse Regering, anderzijds, inzake de vereenvoudiging van het reisverkeer van hun onderscheiden onderdanen

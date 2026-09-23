@@ -8,7 +8,7 @@ laatste_update: 2010-02-01
 status: geldig
 toestand: 2010-02-01
 bron: "https://wetten.overheid.nl/BWBV0003221"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Bermuda (zoals gemachtigd door de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) inzake de uitwisseling van informatie betreffende belastingen

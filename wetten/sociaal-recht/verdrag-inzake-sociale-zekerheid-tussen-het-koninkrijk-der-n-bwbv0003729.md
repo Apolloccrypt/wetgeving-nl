@@ -8,7 +8,7 @@ laatste_update: 1979-04-01
 status: geldig
 toestand: 1979-04-01
 bron: "https://wetten.overheid.nl/BWBV0003729"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië

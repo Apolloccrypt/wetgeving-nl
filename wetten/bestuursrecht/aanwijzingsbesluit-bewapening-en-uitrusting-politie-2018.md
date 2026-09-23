@@ -5,11 +5,11 @@ identifier: "BWBR0040810"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2018-04-11
-laatste_update: 2025-12-03
+laatste_update: 2026-09-19
 status: geldig
-toestand: 2025-12-03
+toestand: 2026-09-19
 bron: "https://wetten.overheid.nl/BWBR0040810"
-opgehaald: 2026-08-27
+opgehaald: 2026-09-23
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 26 maart 2018, nr. 2214982 houdende de aanwijzing van merk en type van wapens, munitie, draagmiddelen en uitrusting van de politie (Aanwijzingsbesluit bewapening en uitrusting politie 2018)
@@ -36,7 +36,7 @@ In dit besluit wordt verstaan onder Besluit: het [Besluit bewapening en uitrusti
 
 ##### Artikel 3
 
-Het pistool, het semi-automatisch schoudervuurwapen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=2&z=2025-12-03&g=2025-12-03), en het automatisch schoudervuurwapen bedoeld in artikel 2, derde lid, worden geladen met:
+Het pistool, het semi-automatisch schoudervuurwapen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=2&z=2026-09-19&g=2026-09-19), en het automatisch schoudervuurwapen bedoeld in artikel 2, derde lid, worden geladen met:
 
 - a. munitie van het merk RUAG Ammotec GmbH, type Action, model NP, kaliber 9 millimeter maal 19 millimeter, of
 
@@ -44,7 +44,11 @@ Het pistool, het semi-automatisch schoudervuurwapen, bedoeld in [artikel 2, twee
 
 ##### Artikel 4
 
-1. Als granaatwerper, bedoeld in [artikel 1, onder e, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=1), wordt goedgekeurd de traangasgranaatwerper, merk Heckler & Koch, type MZP1 – A1, kaliber 40mm.
+1. Als granaatwerper, bedoeld in [artikel 1, eerste lid, onder e, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=1), wordt goedgekeurd:
+
+- a. de enkelschots traangasgranaatwerper, merk Heckler & Koch, type MZP1 – A1, kaliber 40 millimeter;
+
+- b. de meerschots granaatwerper, merk Milkor, type M32A1, kaliber 40 millimeter.
 
 2. Als CS-traangasgranaten, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=12) en [13 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=13), worden goedgekeurd de CS traangasgranaten van het merk:
 
@@ -86,7 +90,7 @@ Als pepperspray, bedoeld in [artikel 1, onder g, van het Besluit](https://wetten
 
 ##### Artikel 7
 
-Als draagmiddel, bedoeld in [artikel 15, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=15), voor het zichtbaar dragen van de pepperspray, bedoeld in [artikel 6 onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=6&z=2025-12-03&g=2025-12-03) wordt goedgekeurd het draagmiddel van het merk Peter Jones, type P175-38.
+Als draagmiddel, bedoeld in [artikel 15, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=15), voor het zichtbaar dragen van de pepperspray, bedoeld in [artikel 6 onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040810&artikel=6&z=2026-09-19&g=2026-09-19) wordt goedgekeurd het draagmiddel van het merk Peter Jones, type P175-38.
 
 ##### Artikel 8
 

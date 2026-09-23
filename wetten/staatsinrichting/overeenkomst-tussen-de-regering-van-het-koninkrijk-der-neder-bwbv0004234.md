@@ -8,7 +8,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBV0004234"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de begrenzing van het tussen deze landen gelegen continentale plat onder de Noordzee

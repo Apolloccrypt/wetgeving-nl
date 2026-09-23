@@ -5,11 +5,11 @@ identifier: "BWBR0046360"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2022-04-01
-laatste_update: 2026-01-31
+laatste_update: 2026-07-17
 status: geldig
-toestand: 2026-01-31
+toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0046360"
-opgehaald: 2026-09-14
+opgehaald: 2026-09-23
 ---
 
 # Kavelbesluit VI windenergiegebied Hollandse Kust (west), Ministerie van Economische Zaken en Klimaat
@@ -1976,7 +1976,7 @@ In dit besluit wordt verstaan onder:
 
 - 4. Maatregelen voor het voorkomen van aanvaringsslachtoffers van vleermuizen op rotorhoogte.
 
-   - a) In nachten (tussen zonsondergang en zonsopkomst) gedurende de periode 25 augustus tot 10 oktober, is de cut-in-windspeed op ashoogte van de turbines (ook) aangepast aan de temperatuur en windrichting, en bedraagt deze zoals weergegeven in onderstaande tabel. *Aangepaste cut-in windspeed [m/s] bij verschillende windrichtingen en temperaturen* Windrichting
+   - a) In de periode tussen zonsondergang en zonsopkomst gedurende de periode 25 augustus tot 10 oktober, is de cut-in-windspeed op ashoogte van de turbines (ook) aangepast aan de temperatuur en windrichting, en bedraagt deze zoals weergegeven in onderstaande tabel. *Aangepaste cut-in windspeed [m/s] bij verschillende windrichtingen en temperaturen* Windrichting
  Temperatuur (graden Celsius)
  N
  NNO
@@ -2030,7 +2030,7 @@ In dit besluit wordt verstaan onder:
  3
  3
 
-   - b) Bij een windsnelheid lager dan de cut-in-windspeed, bedoeld in onderdeel a, brengt de vergunninghouder in de nachten, bedoeld in onderdeel a, het aantal rotaties per minuut per windturbine omlaag tot minder dan twee.
+   - b) Bij een windsnelheid lager dan de cut-in-windspeed, bedoeld in onderdeel a, brengt de vergunninghouder in de periode tussen zonsondergang en zonsopkomst, bedoeld in onderdeel a, het aantal rotaties per minuut per windturbine omlaag tot minder dan twee.
 
    - c) Metingen van windsnelheid, windrichting en temperatuur en berekeningen van zonsondergang en zonsopkomst worden per turbine uitgevoerd, met (voor metingen) tijdsintervallen van ten hoogste twintig minuten, waarbij telkens de laatste tijdsinterval-meting bepalend is voor de toepassing van de maatregelen als bedoeld in onderdelen a en b.
 

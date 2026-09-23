@@ -8,7 +8,7 @@ laatste_update: 2010-12-01
 status: geldig
 toestand: 2010-12-01
 bron: "https://wetten.overheid.nl/BWBV0004023"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Vorstendom Liechtenstein inzake de uitwisseling van informatie betreffende belastingen

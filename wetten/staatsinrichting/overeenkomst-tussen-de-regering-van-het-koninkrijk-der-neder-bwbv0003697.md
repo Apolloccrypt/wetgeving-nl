@@ -8,7 +8,7 @@ laatste_update: 1972-05-19
 status: geldig
 toestand: 1972-05-19
 bron: "https://wetten.overheid.nl/BWBV0003697"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende het internationale personenvervoer over de weg

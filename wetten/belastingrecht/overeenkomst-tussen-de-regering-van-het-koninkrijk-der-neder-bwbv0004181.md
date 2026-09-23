@@ -8,7 +8,7 @@ laatste_update: 1970-02-05
 status: geldig
 toestand: 1970-02-05
 bron: "https://wetten.overheid.nl/BWBV0004181"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de regeling van de heffing van belasting op wegvoertuigen gebruikt voor het internationale vervoer van goederen

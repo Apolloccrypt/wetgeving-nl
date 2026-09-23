@@ -8,7 +8,7 @@ laatste_update: 1980-03-01
 status: geldig
 toestand: 1980-03-01
 bron: "https://wetten.overheid.nl/BWBV0003632"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering inzake samenvoeging van de grenscontrole Posterholt/Karken
@@ -20,6 +20,8 @@ AUSWÄRTIGES AMT
 Verbalnote
 
 Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenlegung der Grenzabfertigung und über die Einrichtung von Gemeinschafts- oder Betriebswechselbahnhöfen an der deutsch-niederländischen Grenze mitzuteilen, dass die Regierung der Bundesrepublik Deutschland das Schreiben des Bundesministers der Finanzen vom 13. September 1979-111 B 8-Z 1108-26/79 - und das Schreiben des niederländischen Ministers der Finanzen vom 5. Oktober 1979 - 279-16249 - zur Kenntnis genommen hat, durch welche gemäss Artikel 1 Absatz 4 Buchstabe a) des Abkommens folgende Vereinbarung getroffen wird:
+
+### I
 
 Die deutsch-niederländische Vereinbarung vom 22. Februar/15. Juni 1966 über die Zusammenlegung der Grenzabfertigung im Strassenverkehr wird wie folgt geändert:
 
@@ -37,7 +39,11 @@ Die deutsch-niederländische Vereinbarung vom 22. Februar/15. Juni 1966 über di
 
    - 2.2. einen Abschnitt der Strasse von Karken nach St. Odilienberg von der gemeinsamen Grenze bis zu einer Entfernung von jeweils 130 Metern, gemessen in beiden Richtungen, vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse;«
 
+### II
+
 Diese Vereinbarung wird gemäss Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in diplomatischen Noten festgelegt.
+
+### III
 
 Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt 6 Monate nach ihrer Kündigung ausser Kraft.
 

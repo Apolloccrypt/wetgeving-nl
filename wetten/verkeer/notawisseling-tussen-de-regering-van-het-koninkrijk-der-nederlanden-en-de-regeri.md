@@ -8,7 +8,7 @@ laatste_update: 2008-04-28
 status: geldig
 toestand: 2008-04-28
 bron: "https://wetten.overheid.nl/BWBV0003014"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika houdende een verdrag tot wijziging van het Luchtvaartverdrag tussen het Koninkrijk der Nederlanden voor de Nederlandse Antillen en de Verenigde Staten van Amerika inzake het luchtvervoer tussen de Nederlandse Antillen en de Verenigde Staten van Amerika

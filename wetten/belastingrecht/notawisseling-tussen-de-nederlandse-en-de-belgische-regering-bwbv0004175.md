@@ -8,7 +8,7 @@ laatste_update: 1968-11-18
 status: geldig
 toestand: 1968-11-18
 bron: "https://wetten.overheid.nl/BWBV0004175"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Belgische grenskantoor te Zelzate tot internationaal douanekantoor

@@ -8,7 +8,7 @@ laatste_update: 1979-05-18
 status: geldig
 toestand: 1979-05-18
 bron: "https://wetten.overheid.nl/BWBV0004012"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Italiaanse Republiek inzake de definitieve regeling van vorderingen tot schadeloosstelling wegens oorlogsschade

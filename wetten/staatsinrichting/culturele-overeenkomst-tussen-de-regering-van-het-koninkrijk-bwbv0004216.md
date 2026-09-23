@@ -8,7 +8,7 @@ laatste_update: 1970-01-27
 status: geldig
 toestand: 1970-01-27
 bron: "https://wetten.overheid.nl/BWBV0004216"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Culturele Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Hongaarse Volksrepubliek

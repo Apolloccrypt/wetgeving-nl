@@ -8,7 +8,7 @@ laatste_update: 1981-11-18
 status: geldig
 toestand: 1981-11-18
 bron: "https://wetten.overheid.nl/BWBV0003950"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Gemenebest van de Bahamas inzake de toepassing van het op 31 mei 1932 te Londen tussen Nederland en Groot-Brittanie gesloten Verdrag houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken, zoals aangevuld te 's-Gravenhage op 17 november 1967

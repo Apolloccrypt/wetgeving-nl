@@ -8,7 +8,7 @@ laatste_update: 2006-04-01
 status: geldig
 toestand: 2006-04-01
 bron: "https://wetten.overheid.nl/BWBV0003041"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Protocol bij de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen, met het oog op de deelname, als overeenkomstsluitende partijen, van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek, op grond van hun toetreding tot de Europese Unie

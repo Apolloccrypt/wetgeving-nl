@@ -8,7 +8,7 @@ laatste_update: 1974-05-30
 status: geldig
 toestand: 1974-05-30
 bron: "https://wetten.overheid.nl/BWBV0003610"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de grenscontrole aan de grensovergang Hebelermeer-Zwartemeer
@@ -21,7 +21,11 @@ Verbalnote
 
 Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenlegung der Grenzabfertigung und über die Errichtung von Gemeinschafts- und Betriebswechselbahnhöfen an der deutsch-niederländischen Grenze mitzuteilen, dass die Regierung der Bundesrepublik Deutschland das Schreiben des Bundesministers der Finanzen vom 18. März 1974 - III B 8 - Z 1108 (Nie) - 31/74 - und das Schreiben des Niederländischen Ministers der Finanzen vom 5. April 1974 - B 74/6913 - zur Kenntnis genommen hat, durch welche gemäss Artikel 1 Absatz 4 Buchstabe a) des Abkommens folgende Vereinbarung getroffen wird:
 
+### I
+
 Am Grenzübergang Hebelermeer-Zwartemeer werden die deutsche und die niederländische Grenzabfertigung auf deutschem Gebiet zusammengelegt.
+
+### II
 
 Die Zone im Sinne des Artikels 3 der Abkommens umfasst
 
@@ -31,7 +35,11 @@ Die Zone im Sinne des Artikels 3 der Abkommens umfasst
 
 - 3. den an der Südseite des Zollamts vorbeiführenden Strassenabschnitt von der gemeinsamen Grenze bis zur Einmündung in die Strasse von Emmen nach Meppen.
 
+### III
+
 Diese Vereinbarung wird gemäss Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in den diplomatischen Noten festgelegt.
+
+### IV
 
 Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt sechs Monate nach ihrer Kündigung ausser Kraft.
 

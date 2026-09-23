@@ -8,7 +8,7 @@ laatste_update: 1983-05-04
 status: geldig
 toestand: 1983-05-04
 bron: "https://wetten.overheid.nl/BWBV0002452"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Spanje houdende een overeenkomst inzake het verlenen van vergunningen aan zendamateurs

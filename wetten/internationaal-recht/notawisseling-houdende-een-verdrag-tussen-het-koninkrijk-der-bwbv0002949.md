@@ -8,7 +8,7 @@ laatste_update: 2007-10-25
 status: geldig
 toestand: 2007-10-25
 bron: "https://wetten.overheid.nl/BWBV0002949"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en Europol betreffende privileges en immuniteiten van het personeel van Europol en hun gezinsleden

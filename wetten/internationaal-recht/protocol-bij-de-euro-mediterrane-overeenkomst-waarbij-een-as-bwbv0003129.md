@@ -7,7 +7,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBV0003129"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Protocol bij de Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Bulgarije en van Roemenië tot de Europese Unie

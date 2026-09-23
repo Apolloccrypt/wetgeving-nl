@@ -7,7 +7,7 @@ laatste_update: 2009-01-17
 status: geldig
 toestand: 2009-01-17
 bron: "https://wetten.overheid.nl/BWBV0003115"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Sultanaat Oman inzake de bevordering en de wederzijdse bescherming van investeringen

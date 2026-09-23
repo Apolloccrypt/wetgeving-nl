@@ -8,7 +8,7 @@ laatste_update: 1967-03-01
 status: geldig
 toestand: 1967-03-01
 bron: "https://wetten.overheid.nl/BWBV0004173"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Belgische grenskantoor te Wachtebeke tot internationaal douanekantoor voor het wegverkeer

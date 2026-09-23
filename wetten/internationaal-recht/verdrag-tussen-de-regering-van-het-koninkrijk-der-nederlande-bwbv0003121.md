@@ -8,7 +8,7 @@ laatste_update: 2009-02-01
 status: geldig
 toestand: 2009-02-01
 bron: "https://wetten.overheid.nl/BWBV0003121"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zuid-Afrika betreffende de status van militair en burgerpersoneel van hun Ministerie van Defensie, aanwezig op elkaars grondgebied voor activiteiten die verband houden met militaire samenwerking

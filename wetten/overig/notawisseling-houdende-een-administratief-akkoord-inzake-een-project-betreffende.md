@@ -8,7 +8,7 @@ laatste_update: 1977-12-31
 status: geldig
 toestand: 1977-12-31
 bron: "https://wetten.overheid.nl/BWBV0003299"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een administratief akkoord inzake een project betreffende het Jongleikanaal

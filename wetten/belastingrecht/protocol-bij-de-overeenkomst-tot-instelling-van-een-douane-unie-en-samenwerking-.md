@@ -8,7 +8,7 @@ laatste_update: 2005-08-01
 status: geldig
 toestand: 2005-08-01
 bron: "https://wetten.overheid.nl/BWBV0002975"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Protocol bij de Overeenkomst tot instelling van een douane-unie en samenwerking tussen de Europese Economische Gemeenschap en de Republiek San Marino, inzake de deelname, als overeenkomstsluitende partijen, van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek, op grond van hun toetreding tot de Europese Unie

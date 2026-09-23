@@ -8,7 +8,7 @@ laatste_update: 1977-06-14
 status: geldig
 toestand: 1977-06-14
 bron: "https://wetten.overheid.nl/BWBV0003674"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte inzake technische samenwerking

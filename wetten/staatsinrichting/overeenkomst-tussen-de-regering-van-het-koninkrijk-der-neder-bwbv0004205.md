@@ -8,7 +8,7 @@ laatste_update: 1969-05-21
 status: geldig
 toestand: 1969-05-21
 bron: "https://wetten.overheid.nl/BWBV0004205"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Indonesië inzake de tussen de beide landen nog bestaande financiële vraagstukken

@@ -8,7 +8,7 @@ laatste_update: 1977-06-16
 status: geldig
 toestand: 1977-06-16
 bron: "https://wetten.overheid.nl/BWBV0003408"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een overeenkomst tussen de Nederlandse Regering en de Griekse Regering inzake de wederzijdse erkenning van nationale rijbewijzen

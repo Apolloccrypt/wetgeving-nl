@@ -8,7 +8,7 @@ laatste_update: 2010-04-27
 status: geldig
 toestand: 2010-04-27
 bron: "https://wetten.overheid.nl/BWBV0004017"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een verdrag tusssen het Koninkrijk der Nederlanden en de Europese Organisatie voor de veiligheid van de luchtvaart inzake de registratie van stagiairs

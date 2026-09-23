@@ -8,7 +8,7 @@ laatste_update: 1974-04-01
 status: geldig
 toestand: 1974-04-01
 bron: "https://wetten.overheid.nl/BWBV0003782"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Nederlandse en de Luxemburgse Regering inzake de overmaking van gerechtelijke en buitengerechtelijke stukken in burgerlijke en handelszaken

@@ -8,7 +8,7 @@ laatste_update: 2008-10-01
 status: geldig
 toestand: 2008-10-01
 bron: "https://wetten.overheid.nl/BWBV0003234"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling houdende een overeenkomst tussen de Regeringen van de Benelux-Staten en de Regering van Montenegro inzake de afschaffing van de visumplicht voor houders van diplomatieke of dienstpaspoorten

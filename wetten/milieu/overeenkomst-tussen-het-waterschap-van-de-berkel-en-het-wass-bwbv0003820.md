@@ -8,7 +8,7 @@ laatste_update: 1980-09-22
 status: geldig
 toestand: 1980-09-22
 bron: "https://wetten.overheid.nl/BWBV0003820"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen het Waterschap van de Berkel en het Wasser- und Bodenverband Wellingbachgebiet over het onderhoud van de Willinkbeek in het grensgebied

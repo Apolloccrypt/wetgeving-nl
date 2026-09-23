@@ -8,7 +8,7 @@ laatste_update: 2013-06-15
 status: geldig
 toestand: 2013-06-15
 bron: "https://wetten.overheid.nl/BWBV0002607"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Ghana inzake de terbeschikkingstelling van ontwikkelingswerkers

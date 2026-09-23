@@ -4,11 +4,11 @@ identifier: "BWBR0037802"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2016-04-09
-laatste_update: 2026-01-31
+laatste_update: 2026-07-17
 status: geldig
-toestand: 2026-01-31
+toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0037802"
-opgehaald: 2026-09-14
+opgehaald: 2026-09-23
 ---
 
 # Kavelbesluit V (innovatiekavel) windenergiegebied Borssele

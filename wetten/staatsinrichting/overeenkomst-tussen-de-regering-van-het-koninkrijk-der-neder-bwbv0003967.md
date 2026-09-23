@@ -8,7 +8,7 @@ laatste_update: 1972-03-21
 status: geldig
 toestand: 1972-03-21
 bron: "https://wetten.overheid.nl/BWBV0003967"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Arabische Republiek inzake schadeloosstelling van Nederlandse belangen

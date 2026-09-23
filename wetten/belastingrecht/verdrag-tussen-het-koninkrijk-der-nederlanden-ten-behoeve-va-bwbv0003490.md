@@ -8,7 +8,7 @@ laatste_update: 2011-02-04
 status: geldig
 toestand: 2011-02-04
 bron: "https://wetten.overheid.nl/BWBV0003490"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Verenigde Mexicaanse Staten inzake de uitwisseling van inlichtingen met betrekking tot belastingen

@@ -8,7 +8,7 @@ laatste_update: 1979-02-06
 status: geldig
 toestand: 1979-02-06
 bron: "https://wetten.overheid.nl/BWBV0003414"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen bepaalde Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van een programma voor een maritieme satelliet

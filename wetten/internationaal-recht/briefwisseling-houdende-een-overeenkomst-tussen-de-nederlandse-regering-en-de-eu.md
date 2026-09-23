@@ -8,7 +8,7 @@ laatste_update: 1974-07-11
 status: geldig
 toestand: 1974-07-11
 bron: "https://wetten.overheid.nl/BWBV0003302"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling houdende een overeenkomst tussen de Nederlandse Regering en de Europese Organisatie voor Ruimteonderzoek inzake dienstverlening door deze Organisatie ten behoeve van de Astronomische Nederlandse Satelliet (ANS)

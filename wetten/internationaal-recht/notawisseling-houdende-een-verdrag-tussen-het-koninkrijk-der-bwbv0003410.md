@@ -8,7 +8,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBV0003410"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake privileges en immuniteiten voor verbindingsofficieren die door de Republiek Albanië bij Europol te ’s-Gravenhage gedetacheerd worden

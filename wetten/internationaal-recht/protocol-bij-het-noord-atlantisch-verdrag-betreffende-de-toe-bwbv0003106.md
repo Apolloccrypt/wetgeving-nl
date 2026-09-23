@@ -8,7 +8,7 @@ laatste_update: 2009-03-27
 status: geldig
 toestand: 2009-03-27
 bron: "https://wetten.overheid.nl/BWBV0003106"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Albanië

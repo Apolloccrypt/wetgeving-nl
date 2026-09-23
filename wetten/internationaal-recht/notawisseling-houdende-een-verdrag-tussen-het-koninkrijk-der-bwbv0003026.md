@@ -8,7 +8,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBV0003026"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kroatië inzake privileges en immuniteiten voor verbindingsofficieren die door de Republiek Kroatië bij EUROPOL te ’s-Gravenhage gedetacheerd worden

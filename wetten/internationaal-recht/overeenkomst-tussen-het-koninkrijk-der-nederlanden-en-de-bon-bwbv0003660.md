@@ -8,7 +8,7 @@ laatste_update: 2002-04-01
 status: geldig
 toestand: 2002-04-01
 bron: "https://wetten.overheid.nl/BWBV0003660"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de aanvulling en het vergemakkelijken van de toepassing van het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken van 20 april 1959

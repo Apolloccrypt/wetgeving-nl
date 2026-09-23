@@ -8,7 +8,7 @@ laatste_update: 1979-07-01
 status: geldig
 toestand: 1979-07-01
 bron: "https://wetten.overheid.nl/BWBV0003885"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Noord-Atlantische Verdragsorganisatie houdende een overeenkomst inzake het functioneren in Nederland van het NATO Airborne Early Warning and Control Programme Management Agency (NAPMA)

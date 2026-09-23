@@ -8,7 +8,7 @@ laatste_update: 1966-04-29
 status: geldig
 toestand: 1966-04-29
 bron: "https://wetten.overheid.nl/BWBV0004224"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Koreaanse Regering inzake de wederzijdse bescherming van octrooien en fabrieks- en handelsmerken

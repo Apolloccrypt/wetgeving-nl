@@ -7,7 +7,7 @@ laatste_update: 2009-06-03
 status: geldig
 toestand: 2009-06-03
 bron: "https://wetten.overheid.nl/BWBV0003398"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Republiek Armenië betreffende de overname van onregelmatig verblijvende personen

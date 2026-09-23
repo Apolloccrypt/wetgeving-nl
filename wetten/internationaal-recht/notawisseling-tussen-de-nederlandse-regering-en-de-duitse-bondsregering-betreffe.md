@@ -8,7 +8,7 @@ laatste_update: 1962-01-15
 status: geldig
 toestand: 1962-01-15
 bron: "https://wetten.overheid.nl/BWBV0004203"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering betreffende de gelding van verdragen

@@ -8,7 +8,7 @@ laatste_update: 1970-12-15
 status: geldig
 toestand: 1970-12-15
 bron: "https://wetten.overheid.nl/BWBV0004202"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de grenscontrole op de autoweg Aken-Heerlen

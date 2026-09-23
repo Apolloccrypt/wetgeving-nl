@@ -8,7 +8,7 @@ laatste_update: 1977-02-01
 status: geldig
 toestand: 1977-02-01
 bron: "https://wetten.overheid.nl/BWBV0003959"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenwerking op het gebied van de ruimtelijke ordening

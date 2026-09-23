@@ -8,7 +8,7 @@ laatste_update: 1974-10-31
 status: geldig
 toestand: 1974-10-31
 bron: "https://wetten.overheid.nl/BWBV0003373"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst inzake culturele samenwerking tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bulgarije

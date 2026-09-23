@@ -8,7 +8,7 @@ laatste_update: 1972-09-13
 status: geldig
 toestand: 1972-09-13
 bron: "https://wetten.overheid.nl/BWBV0003390"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst inzake economische samenwerking tussen het Koninkrijk der Nederlanden en Maleisië

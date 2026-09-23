@@ -8,7 +8,7 @@ laatste_update: 2008-06-01
 status: geldig
 toestand: 2008-06-01
 bron: "https://wetten.overheid.nl/BWBV0003019"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake het wederzijds aanhouden van voorraden ruwe aardolie en/of aardolieproducten

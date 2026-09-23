@@ -8,7 +8,7 @@ laatste_update: 2007-10-01
 status: geldig
 toestand: 2007-10-01
 bron: "https://wetten.overheid.nl/BWBV0002812"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de aansluiting tussen de Nederlandse regionale weg N 280 en de Duitse autosnelweg A 52

@@ -8,7 +8,7 @@ laatste_update: 1977-12-19
 status: geldig
 toestand: 1977-12-19
 bron: "https://wetten.overheid.nl/BWBV0003793"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Boven-Volta

@@ -8,7 +8,7 @@ laatste_update: 2018-11-25
 status: geldig
 toestand: 2018-11-25
 bron: "https://wetten.overheid.nl/BWBV0003164"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Staat Qatar tot het vermijden van dubbele belasting van inkomsten en winsten verkregen uit het internationale luchtverkeer

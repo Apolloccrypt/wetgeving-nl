@@ -8,7 +8,7 @@ laatste_update: 1979-03-06
 status: geldig
 toestand: 1979-03-06
 bron: "https://wetten.overheid.nl/BWBV0003297"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de bevoegde Nederlandse en Indonesische autoriteiten houdende een administratief akkoord inzake een programma van samenwerking tussen de Landbouwhogeschool te Wageningen, de Rijksuniversiteit te Utrecht en de Vrije Universiteit te Amsterdam, enerzijds, en de Gadjah Mada Universiteit te Jokjakarta, anderzijds, binnen het kader van de “Netherlands University Foundation for International Cooperation” (NUFFIC)

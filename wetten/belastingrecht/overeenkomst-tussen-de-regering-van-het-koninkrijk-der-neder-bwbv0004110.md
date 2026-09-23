@@ -8,7 +8,7 @@ laatste_update: 2005-07-24
 status: geldig
 toestand: 2005-07-24
 bron: "https://wetten.overheid.nl/BWBV0004110"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

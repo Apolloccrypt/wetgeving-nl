@@ -8,7 +8,7 @@ laatste_update: 2008-12-01
 status: geldig
 toestand: 2008-12-01
 bron: "https://wetten.overheid.nl/BWBV0003064"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Protocol bij de Euro-Mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de staat Israël, anderzijds, in verband met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie

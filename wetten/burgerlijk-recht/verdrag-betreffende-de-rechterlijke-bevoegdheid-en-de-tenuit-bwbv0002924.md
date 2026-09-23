@@ -8,7 +8,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBV0002924"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, gedaan te Lugano op 16 september 1988

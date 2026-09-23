@@ -8,7 +8,7 @@ laatste_update: 1985-05-01
 status: geldig
 toestand: 1985-05-01
 bron: "https://wetten.overheid.nl/BWBV0002520"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Democratische Socialistische Republiek Sri Lanka ter bevordering en bescherming van investeringen

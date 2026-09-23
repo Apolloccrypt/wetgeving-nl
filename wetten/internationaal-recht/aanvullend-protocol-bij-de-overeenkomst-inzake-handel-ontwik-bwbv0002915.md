@@ -8,7 +8,7 @@ laatste_update: 2009-05-01
 status: geldig
 toestand: 2009-05-01
 bron: "https://wetten.overheid.nl/BWBV0002915"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Aanvullend Protocol bij de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, in verband met de toetreding van de Republiek Bulgarije en van Roemenië tot de Europese Unie

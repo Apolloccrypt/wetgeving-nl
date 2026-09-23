@@ -8,7 +8,7 @@ laatste_update: 2021-10-01
 status: geldig
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBV0002529"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de President van het "Iran-United States Claims Tribunal" inzake het toekennen van voorrechten en immuniteiten aan het Tribunaal

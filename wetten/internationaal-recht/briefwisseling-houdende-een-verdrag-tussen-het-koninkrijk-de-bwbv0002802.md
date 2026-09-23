@@ -8,7 +8,7 @@ laatste_update: 2007-11-01
 status: geldig
 toestand: 2007-11-01
 bron: "https://wetten.overheid.nl/BWBV0002802"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de aanwijzing van het bedrijventerrein "Avantis" als grensoverschrijdend bedrijventerrein

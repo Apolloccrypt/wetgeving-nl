@@ -8,7 +8,7 @@ laatste_update: 2012-06-01
 status: geldig
 toestand: 2012-06-01
 bron: "https://wetten.overheid.nl/BWBV0002918"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Migratie betreffende de juridische status, de voorrechten en immuniteiten van de Organisatie in Nederland

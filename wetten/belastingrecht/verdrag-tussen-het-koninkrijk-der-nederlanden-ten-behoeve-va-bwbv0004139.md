@@ -8,7 +8,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBV0004139"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Caymaneilanden zoals gemachtigd krachtens de volmacht van 1 september 2009 van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de uitwisseling van informatie betreffende belastingen

@@ -8,7 +8,7 @@ laatste_update: 1964-06-05
 status: geldig
 toestand: 1964-06-05
 bron: "https://wetten.overheid.nl/BWBV0004189"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Notawisseling tussen de Nederlandse en de Ecuadoriaanse Regering inzake de afschaffing van visa

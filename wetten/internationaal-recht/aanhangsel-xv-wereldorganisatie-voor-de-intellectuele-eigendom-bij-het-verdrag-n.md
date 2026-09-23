@@ -8,7 +8,7 @@ laatste_update: 2022-01-07
 status: geldig
 toestand: 2022-01-07
 bron: "https://wetten.overheid.nl/BWBV0004036"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Aanhangsel XV: Wereldorganisatie voor de Intellectuele Eigendom bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties

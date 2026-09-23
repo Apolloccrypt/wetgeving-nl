@@ -8,7 +8,7 @@ laatste_update: 1997-05-26
 status: geldig
 toestand: 1997-05-26
 bron: "https://wetten.overheid.nl/BWBV0002782"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Hong Kong inzake luchtdiensten

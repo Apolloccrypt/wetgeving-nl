@@ -8,7 +8,7 @@ laatste_update: 1980-06-01
 status: geldig
 toestand: 1980-06-01
 bron: "https://wetten.overheid.nl/BWBV0003869"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst inzake economische en technische samenwerking tussen het Koninkrijk der Nederlanden en het Hasjemitische Koninkrijk Jordanië

@@ -8,7 +8,7 @@ laatste_update: 2011-08-17
 status: geldig
 toestand: 2011-08-17
 bron: "https://wetten.overheid.nl/BWBV0004056"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Regering van Australië inzake de uitwisseling van informatie betreffende belastingen

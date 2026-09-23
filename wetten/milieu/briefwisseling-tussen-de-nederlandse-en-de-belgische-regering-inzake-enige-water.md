@@ -8,7 +8,7 @@ laatste_update: 1962-12-14
 status: geldig
 toestand: 1962-12-14
 bron: "https://wetten.overheid.nl/BWBV0004266"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Briefwisseling tussen de Nederlandse en de Belgische Regering inzake enige waterstaatkundige aangelegenheden, mede verband houdende met het Tractaat van 1863 tot regeling der wateraftappingen uit de Maas

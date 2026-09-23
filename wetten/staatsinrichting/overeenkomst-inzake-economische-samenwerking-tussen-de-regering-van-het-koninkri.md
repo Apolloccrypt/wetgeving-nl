@@ -8,7 +8,7 @@ laatste_update: 1973-09-07
 status: geldig
 toestand: 1973-09-07
 bron: "https://wetten.overheid.nl/BWBV0003393"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-23
 ---
 
 # Overeenkomst inzake economische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Singapore
