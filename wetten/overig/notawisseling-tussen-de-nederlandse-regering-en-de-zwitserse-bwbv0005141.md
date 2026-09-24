@@ -8,7 +8,7 @@ laatste_update: 1952-11-20
 status: geldig
 toestand: 1952-11-20
 bron: "https://wetten.overheid.nl/BWBV0005141"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Zwitserse Bondsraad houdende een overeenkomst betreffende de uitwisseling van stagiaires

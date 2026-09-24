@@ -8,7 +8,7 @@ laatste_update: 2021-08-01
 status: geldig
 toestand: 2021-08-01
 bron: "https://wetten.overheid.nl/BWBV0005874"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Protocol tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Macedonische Regering ter uitvoering van de Overeenkomst tussen de Europese Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië betreffende de overname van personen die zonder vergunning op het grondgebied verblijven

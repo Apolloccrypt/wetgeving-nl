@@ -8,7 +8,7 @@ laatste_update: 2011-07-13
 status: geldig
 toestand: 2011-07-13
 bron: "https://wetten.overheid.nl/BWBV0004428"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek der Filipijnen nopens het vervoer door de lucht

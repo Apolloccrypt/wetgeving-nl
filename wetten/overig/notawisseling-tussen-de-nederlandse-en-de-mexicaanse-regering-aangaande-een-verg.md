@@ -8,7 +8,7 @@ laatste_update: 1946-02-07
 status: geldig
 toestand: 1946-02-07
 bron: "https://wetten.overheid.nl/BWBV0005732"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Mexicaanse Regering aangaande een vergoeding met betrekking tot de onteigende petroleum industriële eigendommen

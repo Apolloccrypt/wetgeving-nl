@@ -8,7 +8,7 @@ laatste_update: 1961-11-21
 status: geldig
 toestand: 1961-11-21
 bron: "https://wetten.overheid.nl/BWBV0004580"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Federale Volksrepubliek Zuidslavië inzake de regeling van bepaalde Nederlandse financiële vorderingen

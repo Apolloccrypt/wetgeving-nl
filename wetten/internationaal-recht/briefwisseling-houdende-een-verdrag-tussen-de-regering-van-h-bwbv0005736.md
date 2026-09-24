@@ -8,7 +8,7 @@ laatste_update: 2013-04-18
 status: geldig
 toestand: 2013-04-18
 bron: "https://wetten.overheid.nl/BWBV0005736"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling houdende een verdrag tussen de Regering van het Koninkrijk der Nederlanden en het Internationaal Agentschap voor Atoomenergie (IAEA) inzake de regionale workshop betreffende „Intercomparison Feedback of Neutron Activation Analysis Proficiency Tests Performed in 2011-2012”, 21-25 mei 2012 te Delft, Nederland

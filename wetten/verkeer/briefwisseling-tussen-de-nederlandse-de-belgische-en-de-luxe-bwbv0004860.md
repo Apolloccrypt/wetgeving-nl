@@ -8,7 +8,7 @@ laatste_update: 1969-06-12
 status: geldig
 toestand: 1969-06-12
 bron: "https://wetten.overheid.nl/BWBV0004860"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse, de Belgische en de Luxemburgse Regering, enerzijds, en de Regering van San Marino, anderzijds, inzake de vergemakkelijking van het personenverkeer

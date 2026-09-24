@@ -8,7 +8,7 @@ laatste_update: 1958-07-01
 status: geldig
 toestand: 1958-07-01
 bron: "https://wetten.overheid.nl/BWBV0005089"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Australische Regering betreffende resterende intercustodiale geschillen

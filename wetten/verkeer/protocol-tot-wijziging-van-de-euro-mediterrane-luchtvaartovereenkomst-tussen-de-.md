@@ -7,7 +7,7 @@ laatste_update: 2012-06-18
 status: geldig
 toestand: 2012-06-18
 bron: "https://wetten.overheid.nl/BWBV0005888"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Protocol tot wijziging van de Euro-mediterrane Luchtvaartovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie

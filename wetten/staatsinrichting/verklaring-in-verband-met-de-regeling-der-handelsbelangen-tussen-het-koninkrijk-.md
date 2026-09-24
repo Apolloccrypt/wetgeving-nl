@@ -8,7 +8,7 @@ laatste_update: 1858-10-13
 status: geldig
 toestand: 1858-10-13
 bron: "https://wetten.overheid.nl/BWBV0005890"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verklaring in verband met de regeling der handelsbelangen tussen het Koninkrijk der Nederlanden en het Sultanaat Marokko

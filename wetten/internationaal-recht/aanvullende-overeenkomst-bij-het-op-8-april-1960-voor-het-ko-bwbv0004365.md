@@ -8,7 +8,7 @@ laatste_update: 1963-08-01
 status: geldig
 toestand: 1963-08-01
 bron: "https://wetten.overheid.nl/BWBV0004365"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Aanvullende overeenkomst bij het op 8 april 1960 voor het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ondertekende Financiële Verdrag

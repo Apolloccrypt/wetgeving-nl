@@ -8,7 +8,7 @@ laatste_update: 1963-08-01
 status: geldig
 toestand: 1963-08-01
 bron: "https://wetten.overheid.nl/BWBV0004773"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot aanvaarding van de verplichte rechtsmacht van het Internationale Gerechtshof voor geschillen inzake de uitlegging of toepassing van de Herziene Rijnvaartakte van 1868 (Akte van Mannheim)

@@ -8,7 +8,7 @@ laatste_update: 1969-02-01
 status: geldig
 toestand: 1969-02-01
 bron: "https://wetten.overheid.nl/BWBV0005247"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering inzake de Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake het kleine grensverkeer

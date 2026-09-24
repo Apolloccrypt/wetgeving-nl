@@ -8,7 +8,7 @@ laatste_update: 1963-05-25
 status: geldig
 toestand: 1963-05-25
 bron: "https://wetten.overheid.nl/BWBV0005017"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Irak voor de instelling en het onderhouden van luchtdiensten

@@ -8,7 +8,7 @@ laatste_update: 1960-10-31
 status: geldig
 toestand: 1960-10-31
 bron: "https://wetten.overheid.nl/BWBV0004870"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Regering van het Vorstendom Monaco houdende een overeenkomst betreffende de erkenning van reisdocumenten

@@ -8,7 +8,7 @@ laatste_update: 1949-01-15
 status: geldig
 toestand: 1949-01-15
 bron: "https://wetten.overheid.nl/BWBV0005665"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Argentijnse Argentijnse Republiek betreffende zowel het voorkomen van heffing van dubbele belasting op opbrengsten voortkomend uit de uitoefening van zee- en luchtvaart, als het bevorderen van het handelsverkeer tussen beide landen

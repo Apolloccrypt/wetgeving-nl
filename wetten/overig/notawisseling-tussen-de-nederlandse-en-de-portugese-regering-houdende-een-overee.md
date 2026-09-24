@@ -8,7 +8,7 @@ laatste_update: 1955-04-07
 status: geldig
 toestand: 1955-04-07
 bron: "https://wetten.overheid.nl/BWBV0004768"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Portugese Regering houdende een overeenkomst inzake de wederzijdse afschaffing van visa

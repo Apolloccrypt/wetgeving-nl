@@ -8,7 +8,7 @@ laatste_update: 1949-04-01
 status: geldig
 toestand: 1949-04-01
 bron: "https://wetten.overheid.nl/BWBV0005865"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling houdende een overeenkomst tussen de Nederlandse en de Nieuw-Zeelandse Regering betreffende de wederzijdse afschaffing van visa

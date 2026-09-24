@@ -8,7 +8,7 @@ laatste_update: 2010-10-28
 status: geldig
 toestand: 2010-10-28
 bron: "https://wetten.overheid.nl/BWBV0005637"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling houdende een overeenkomst tussen de regering van het Koninkrijk der Nederlanden en de regering van de Bondsrepubliek Duitsland tot beëindiging van het op 18 april 2001 te Berlijn totstandgekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale zekerheid ter aanvulling van communautaire regelingen, en de op 21 januari 1969 te 's-Gravenhage totstandgekomen Overeenkomst inzake de invordering van premies voor de sociale zekerheid

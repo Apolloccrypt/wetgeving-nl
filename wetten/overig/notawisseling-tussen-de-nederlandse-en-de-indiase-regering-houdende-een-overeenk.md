@@ -8,7 +8,7 @@ laatste_update: 1955-04-12
 status: geldig
 toestand: 1955-04-12
 bron: "https://wetten.overheid.nl/BWBV0004822"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Indiase Regering houdende een overeenkomst inzake de deblokkering van Nederlandse activa in India

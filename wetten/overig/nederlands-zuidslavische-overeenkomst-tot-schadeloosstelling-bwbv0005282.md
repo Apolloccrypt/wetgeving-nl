@@ -8,7 +8,7 @@ laatste_update: 1959-08-25
 status: geldig
 toestand: 1959-08-25
 bron: "https://wetten.overheid.nl/BWBV0005282"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Nederlands-Zuidslavische Overeenkomst tot schadeloosstelling voor Nederlandse belangen in Zuidslavië welke zijn getroffen door Zuidslavische nationalisatiemaatregelen

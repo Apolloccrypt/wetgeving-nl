@@ -8,7 +8,7 @@ laatste_update: 1960-11-22
 status: geldig
 toestand: 1960-11-22
 bron: "https://wetten.overheid.nl/BWBV0004760"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Paraguese Regering houdende een overeenkomst tot afschaffing van de visumplicht

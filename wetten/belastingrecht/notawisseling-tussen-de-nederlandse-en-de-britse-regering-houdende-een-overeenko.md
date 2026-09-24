@@ -8,7 +8,7 @@ laatste_update: 1953-12-15
 status: geldig
 toestand: 1953-12-15
 bron: "https://wetten.overheid.nl/BWBV0004853"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Britse Regering houdende een overeenkomst betreffende douane-faciliteiten voor consulaire ambtenaren en lager diplomatiek personeel

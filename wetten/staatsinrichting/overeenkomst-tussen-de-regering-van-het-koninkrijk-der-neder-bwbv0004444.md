@@ -8,7 +8,7 @@ laatste_update: 1989-10-25
 status: geldig
 toestand: 1989-10-25
 bron: "https://wetten.overheid.nl/BWBV0004444"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Finland betreffende het internationale wegvervoer

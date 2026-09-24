@@ -8,7 +8,7 @@ laatste_update: 1999-08-01
 status: geldig
 toestand: 1999-08-01
 bron: "https://wetten.overheid.nl/BWBV0006007"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Spaanse Regering houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsofficieren die vanwege de Spaanse Regering bij Europol te 's-Gravenhage worden tewerkgesteld

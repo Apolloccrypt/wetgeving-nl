@@ -8,7 +8,7 @@ laatste_update: 1963-08-01
 status: geldig
 toestand: 1963-08-01
 bron: "https://wetten.overheid.nl/BWBV0004664"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging van de grenscontrole op de weg van Mindertgangelt naar Schinbeek enz.
@@ -24,6 +24,8 @@ V3 (502)-SA. 47
 Verbalnote
 
 Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf Artikel 1 Abs. 5 des Abkommens vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenlegung der Grenzabfertigung und über die Einrichtung von Gemeinschafts- oder Betriebswechselbahnhöfen an der deutsch-niederländischen Grenze mitzuteilen, dass die Regierung der Bundesrepublik Deutschland das Schreiben des Bundesministers der Finanzen vom 18. Juni 1963 — III B/3-Z 1108 (Nie)-84/63 — und das Schreiben des niederländischen Staatssekretärs der Finanzen vom 25. Juni 1963 — D3/5183 zur Kenntnis genommen hat, mit denen durch Vereinbarung gemäss Artikel 1 Abs. 4 Buchstabe *a* ) des Abkommens folgende Regelung getroffen wird:
+
+### A
 
 Im Strassenverkehr werden die deutsche und die niederländische Grenzabfertigung wie folgt zusammengelegt:
 
@@ -58,6 +60,8 @@ Im Strassenverkehr werden die deutsche und die niederländische Grenzabfertigung
 - 15. an der Strasse von Elten nach Beek auf deutschem und niederländischem Gebiet,
 
 - 16. an der Strasse von Bocholt nach Dinxperlo auf deutschem und niederländischem Gebiet.
+
+### B
 
 Die Zonen im Sinne des Artikels 3 des Abkommens umfassen die zur Durchführung der Grenzabfertigung erforderlichen Diensträume und Anlagen einschliesslich der Rampen sowie
 
@@ -112,6 +116,8 @@ Die Zonen im Sinne des Artikels 3 des Abkommens umfassen die zur Durchführung d
 - 15. einen Abschnitt der Strasse von Elten nach Beek von der gemeinsamen Grenze bis zu einer Entfernung von jeweils 50 Metern, gemessen in beiden Richtungen, vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse,
 
 - 16. einen Abschnitt der Strasse von Bocholt nach Dinxperlo von der gemeinsamen Grenze bis zu einer Entfernung von jeweils 275 Metern, gemessen in beiden Richtungen, vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse.
+
+### C
 
 Mit dem Inkrafttreten dieser Vereinbarung tritt die Vereinbarung vom 18. Januar/22. Februar 1962 über die Zusammenlegung der deutschen und niederländischen Grenzabfertigung an der Autobahn vom Emmerich nach Arnhem ausser Kraft.
 

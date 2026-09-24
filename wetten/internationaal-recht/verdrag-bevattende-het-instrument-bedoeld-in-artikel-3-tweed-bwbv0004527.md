@@ -8,7 +8,7 @@ laatste_update: 2010-02-01
 status: geldig
 toestand: 2010-02-01
 bron: "https://wetten.overheid.nl/BWBV0004527"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag bevattende het instrument bedoeld in artikel 3, tweede lid, van de overeenkomst betreffende wederzijdse rechtshulp in strafzaken tussen de Verenigde Staten van Amerika en de Europese Unie, ondertekend te Washington op 25 juni 2003, inzake de toepassing van het Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika aangaande wederzijdse rechtshulp in strafzaken, ondertekend te 's-Gravenhage op 12 juni 1981

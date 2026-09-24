@@ -8,7 +8,7 @@ laatste_update: 2018-08-19
 status: geldig
 toestand: 2018-08-19
 bron: "https://wetten.overheid.nl/BWBV0004463"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst inzake luchtvervoer tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Korea

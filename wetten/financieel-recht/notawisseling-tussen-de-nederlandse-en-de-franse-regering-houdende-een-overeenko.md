@@ -8,7 +8,7 @@ laatste_update: 1954-11-04
 status: geldig
 toestand: 1954-11-04
 bron: "https://wetten.overheid.nl/BWBV0004865"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Franse Regering houdende een overeenkomst inzake de afgifte van duplicaten van geroofde Franse effecten

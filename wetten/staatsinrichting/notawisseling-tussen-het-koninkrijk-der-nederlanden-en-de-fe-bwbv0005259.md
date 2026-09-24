@@ -8,7 +8,7 @@ laatste_update: 1954-06-08
 status: geldig
 toestand: 1954-06-08
 bron: "https://wetten.overheid.nl/BWBV0005259"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Federatieve Volksrepubliek Joegoslavië inzake de wederzijdse mededelingen van strafvonnissen

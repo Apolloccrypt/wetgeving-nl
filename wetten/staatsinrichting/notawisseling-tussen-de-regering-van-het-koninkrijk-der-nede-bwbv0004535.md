@@ -8,7 +8,7 @@ laatste_update: 1973-07-17
 status: geldig
 toestand: 1973-07-17
 bron: "https://wetten.overheid.nl/BWBV0004535"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging van de grenscontrole op de autowegen Herzogenrath-Kerkrade
@@ -21,7 +21,11 @@ Verbalnote
 
 Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenlegung der Grenzabfertigung und über die Einrichtung von Gemeinschafts- oder Betriebswechselbahnhöfen an der deutsch-niederländischen Grenze mitzuteilen, dass die Regierung der Bundesrepublik Deutschland das Schreiben des Bundesministers der Finanzen vom 5. April 1973 III B 2 – Z 1108 (Nie) – 11/73 - und das Schreiben des Niederländischen Ministers der Finanzen vom 26. April 1973 – B 73/8708 – zur Kenntnis genommen hat, durch welche gemäss Artikel 1 Absatz 4 Buchstabe a) des Abkommens folgende Vereinbarung getroffen wird:
 
+### I
+
 An den Strassen Herzogenrath–Kerkrade wird die deutsche und die niederländische Grenzabfertigung auf deutschem und niederländischem Gebiet zusammengelegt.
+
+### II
 
 Die Zonen im Sinne des Artikels 3 des Abkommens umfassen die zur Durchführung der Grenzabfertigung erforderlichen Diensträume und Anlagen einschliesslich der Rampen und angrenzenden Parkräume sowie Abschnitte der Strassen Herzogenrath–Kerkrade von der gemeinsamen Grenze bis zu einer Entfernung
 
@@ -29,9 +33,15 @@ Die Zonen im Sinne des Artikels 3 des Abkommens umfassen die zur Durchführung d
 
 - b) von 90 Metern diesseits und jenseits der Leicon-Strassenabgrenzung, gemessen in Richtung Kerkrade/Herzogenrath-Strasse, jeweils vom Schnittpunkt der gemeinsamen Grenze mit der Leicon-Strassenabgrenzung bei dem Grenzstein in Höhe des Breiten Weges.
 
+### III
+
 Diese Vereinbarung wird gemäss Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in den diplomatischen Noten festgelegt.
 
+### IV
+
 Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt 6 Monate nach ihrer Kündigung ausser Kraft.
+
+### V
 
 Mit dem Inkrafttreten dieser Vereinbarung tritt die Nummer 1 der Abschnitte I. und II. der Vereinbarung vom 22. Februar/15. Juni 1966 über die Zusammenlegung der deutschen und der niederländischen Grenzabfertigung im Strassenverkehr ausser Kraft.
 

@@ -8,7 +8,7 @@ laatste_update: 1954-07-30
 status: geldig
 toestand: 1954-07-30
 bron: "https://wetten.overheid.nl/BWBV0005245"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Memorandum van Overeenkomst tussen de Regering van de Verenigde Staten en de Regering van Nederland betreffende Offshore Procurement

@@ -8,7 +8,7 @@ laatste_update: 1952-01-31
 status: geldig
 toestand: 1952-01-31
 bron: "https://wetten.overheid.nl/BWBV0004891"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Regering betreffende de gelding van verdragen

@@ -8,7 +8,7 @@ laatste_update: 1968-01-25
 status: geldig
 toestand: 1968-01-25
 bron: "https://wetten.overheid.nl/BWBV0004523"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Keniase Regering inzake de toepassing van het op 31 mei 1932 te Londen tussen Nederland en Groot-Brittannië gesloten Verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken

@@ -8,7 +8,7 @@ laatste_update: 1956-03-06
 status: geldig
 toestand: 1956-03-06
 bron: "https://wetten.overheid.nl/BWBV0004750"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Griekse Regering houdende een overeenkomst inzake de afschaffing van visa voor diplomatieke en dienstpaspoorten

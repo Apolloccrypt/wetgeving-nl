@@ -9,7 +9,7 @@ laatste_update: 2026-09-23
 status: geldig
 toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0052711"
-opgehaald: 2026-09-23
+opgehaald: 2026-09-24
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 9 juni 2026 nr. BOACAT2026/029, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Dienst Wegverkeer (RDW)

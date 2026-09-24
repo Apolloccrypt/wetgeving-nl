@@ -8,7 +8,7 @@ laatste_update: 1979-08-01
 status: geldig
 toestand: 1979-08-01
 bron: "https://wetten.overheid.nl/BWBV0004721"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Polen inzake uitbreiding van de economische samenwerking

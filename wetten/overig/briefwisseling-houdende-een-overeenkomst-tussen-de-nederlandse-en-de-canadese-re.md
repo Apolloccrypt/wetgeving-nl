@@ -8,7 +8,7 @@ laatste_update: 1950-01-01
 status: geldig
 toestand: 1950-01-01
 bron: "https://wetten.overheid.nl/BWBV0005876"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling houdende een overeenkomst tussen de Nederlandse en de Canadese Regering inzake de visavereisten voor non-immigrant-reizigers van de beide landen

@@ -8,7 +8,7 @@ laatste_update: 1953-07-01
 status: geldig
 toestand: 1953-07-01
 bron: "https://wetten.overheid.nl/BWBV0005819"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het op 13 april 1948 gesloten verdrag nopens de aanwijzing van het Nederlandse kantoor te Retranchement tot internationaal douanekantoor

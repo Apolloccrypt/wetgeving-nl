@@ -8,7 +8,7 @@ laatste_update: 1961-02-28
 status: geldig
 toestand: 1961-02-28
 bron: "https://wetten.overheid.nl/BWBV0005036"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Polen betreffende het burgerluchtvervoer

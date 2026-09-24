@@ -8,7 +8,7 @@ laatste_update: 1988-03-01
 status: geldig
 toestand: 1988-03-01
 bron: "https://wetten.overheid.nl/BWBV0004797"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Aanvullend Protocol bij de Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Republiek IJsland in verband met de toetreding van de Helleense Republiek tot de Gemeenschap

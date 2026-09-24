@@ -8,7 +8,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBV0005871"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds

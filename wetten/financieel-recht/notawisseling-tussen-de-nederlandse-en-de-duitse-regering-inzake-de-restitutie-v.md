@@ -8,7 +8,7 @@ laatste_update: 1952-05-19
 status: geldig
 toestand: 1952-05-19
 bron: "https://wetten.overheid.nl/BWBV0005007"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Duitse Regering inzake de restitutie van Duitse, in rijksmarken luidende effecten

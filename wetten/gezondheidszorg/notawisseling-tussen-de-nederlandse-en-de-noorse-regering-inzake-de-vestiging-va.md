@@ -8,7 +8,7 @@ laatste_update: 1966-06-01
 status: geldig
 toestand: 1966-06-01
 bron: "https://wetten.overheid.nl/BWBV0004518"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Noorse Regering inzake de vestiging van een gezondheidscentrum voor zeelieden in Rotterdam

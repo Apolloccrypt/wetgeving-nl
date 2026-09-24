@@ -8,7 +8,7 @@ laatste_update: 2016-06-01
 status: geldig
 toestand: 2016-06-01
 bron: "https://wetten.overheid.nl/BWBV0005884"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Panama inzake luchtdiensten tussen en via hun respectieve grondgebieden

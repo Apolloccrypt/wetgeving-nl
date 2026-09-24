@@ -8,7 +8,7 @@ laatste_update: 1954-07-01
 status: geldig
 toestand: 1954-07-01
 bron: "https://wetten.overheid.nl/BWBV0004996"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Groothertogdom Luxemburg houdende een overeenkomst inzake het kosteloos verstrekken van afschriften van akten van de Burgerlijke Stand

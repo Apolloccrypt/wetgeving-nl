@@ -8,7 +8,7 @@ laatste_update: 1910-08-26
 status: geldig
 toestand: 1910-08-26
 bron: "https://wetten.overheid.nl/BWBV0005986"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Algemeen Arbitrageverdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Italië

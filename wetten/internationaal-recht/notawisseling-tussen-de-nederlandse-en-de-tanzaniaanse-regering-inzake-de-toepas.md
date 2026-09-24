@@ -8,7 +8,7 @@ laatste_update: 1968-12-27
 status: geldig
 toestand: 1968-12-27
 bron: "https://wetten.overheid.nl/BWBV0004503"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Tanzaniaanse Regering inzake de toepassing van het op 26 september 1898 te Londen tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Ierland gesloten Verdrag tot uitlevering van misdadigers

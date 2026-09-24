@@ -8,7 +8,7 @@ laatste_update: 2026-02-01
 status: geldig
 toestand: 2026-02-01
 bron: "https://wetten.overheid.nl/BWBV0004759"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika inzake verbetering van de samenwerking bij het voorkomen en bestrijden van ernstige criminaliteit

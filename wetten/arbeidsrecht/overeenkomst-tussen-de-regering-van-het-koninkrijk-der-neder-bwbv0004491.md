@@ -8,7 +8,7 @@ laatste_update: 2011-01-27
 status: geldig
 toestand: 2011-01-27
 bron: "https://wetten.overheid.nl/BWBV0004491"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Columbia inzake het ter beschikking stellen van Nederlandse Vrijwilligers voor arbeid in Columbia

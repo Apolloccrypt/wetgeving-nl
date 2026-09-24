@@ -8,7 +8,7 @@ laatste_update: 1951-04-01
 status: geldig
 toestand: 1951-04-01
 bron: "https://wetten.overheid.nl/BWBV0005356"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Australische Regering houdende een overeenkomst inzake paspoorten en paspoortvisa

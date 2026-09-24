@@ -8,7 +8,7 @@ laatste_update: 1972-07-14
 status: geldig
 toestand: 1972-07-14
 bron: "https://wetten.overheid.nl/BWBV0004514"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk België betreffende de verbetering van de vaarweg door de Westerschelde nabij Walsoorden

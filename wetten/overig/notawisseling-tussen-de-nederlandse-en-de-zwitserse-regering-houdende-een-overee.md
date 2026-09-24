@@ -8,7 +8,7 @@ laatste_update: 1956-12-01
 status: geldig
 toestand: 1956-12-01
 bron: "https://wetten.overheid.nl/BWBV0005090"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Zwitserse Regering houdende een overeenkomst betreffende rogatoire commissies

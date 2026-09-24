@@ -8,7 +8,7 @@ laatste_update: 1963-04-09
 status: geldig
 toestand: 1963-04-09
 bron: "https://wetten.overheid.nl/BWBV0004633"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Britse Regering tot uitbreiding van het Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland ter vermijding van dubbele belasting met betrekking tot belastingen van inkomsten

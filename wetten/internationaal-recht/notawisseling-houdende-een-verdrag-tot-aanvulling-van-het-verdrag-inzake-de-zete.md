@@ -8,7 +8,7 @@ laatste_update: 2012-06-06
 status: geldig
 toestand: 2012-06-06
 bron: "https://wetten.overheid.nl/BWBV0005848"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling houdende een verdrag tot aanvulling van het Verdrag inzake de zetel van het Permanente Hof van Arbitrage

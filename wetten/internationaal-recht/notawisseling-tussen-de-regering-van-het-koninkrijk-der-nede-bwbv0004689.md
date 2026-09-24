@@ -8,7 +8,7 @@ laatste_update: 1995-01-07
 status: geldig
 toestand: 1995-01-07
 bron: "https://wetten.overheid.nl/BWBV0004689"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsambtenaren en andere personeelsleden die vanwege de Regering van de Bondsrepubliek Duitsland bij de Europol Drugs Eenheid te 's-Gravenhage worden tewerkgesteld

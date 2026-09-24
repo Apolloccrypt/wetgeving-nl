@@ -8,7 +8,7 @@ laatste_update: 1956-06-01
 status: geldig
 toestand: 1956-06-01
 bron: "https://wetten.overheid.nl/BWBV0005087"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Luxemburgse Regering houdende een overeenkomst betreffende het reizigersverkeer van Nederlandse en Luxemburgse onderdanen die in België woonachtig zijn

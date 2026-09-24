@@ -8,7 +8,7 @@ laatste_update: 1961-05-05
 status: geldig
 toestand: 1961-05-05
 bron: "https://wetten.overheid.nl/BWBV0004906"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg enerzijds en de Zwitserse Bondsstaat anderzijds

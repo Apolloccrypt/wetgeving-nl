@@ -8,7 +8,7 @@ laatste_update: 1968-11-25
 status: geldig
 toestand: 1968-11-25
 bron: "https://wetten.overheid.nl/BWBV0004704"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Tanzaniaanse Regering inzake belastingvrijstelling van Nederlandse experts

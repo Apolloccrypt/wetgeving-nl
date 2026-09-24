@@ -8,7 +8,7 @@ laatste_update: 1971-03-18
 status: geldig
 toestand: 1971-03-18
 bron: "https://wetten.overheid.nl/BWBV0004542"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland over het gebruik van Nederlandse territoriale wateren en havens door het n(ucleaire) s(chip) „Otto Hahn”

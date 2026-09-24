@@ -8,7 +8,7 @@ laatste_update: 1953-06-19
 status: geldig
 toestand: 1953-06-19
 bron: "https://wetten.overheid.nl/BWBV0005049"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering nopens de aan een Staat toekomende immuniteit met betrekking tot luchtvaartmaatschappijen

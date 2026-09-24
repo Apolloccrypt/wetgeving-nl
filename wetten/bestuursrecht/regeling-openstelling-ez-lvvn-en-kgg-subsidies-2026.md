@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-09-16
+laatste_update: 2026-09-23
 status: geldig
-toestand: 2026-09-16
+toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-09-21
+opgehaald: 2026-09-24
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -118,6 +118,7 @@ opgehaald: 2026-09-21
 |  | 4.12.2, eerste lid, onderdeel b |  | Haalbaarheidsstudie voor flexibiliteitsmaatregelen | 06-05-2026 t/m 15-10-2026 | € 8.829.000 |
 |  | 4.12.2, eerste lid, onderdeel c |  | Flexibiliteitsmaatregelen < 100 kW | 06-05-2026 t/m 15-10-2026 | € 6.460.229 |
 |  | 4.12.2, eerste lid, onderdeel d |  | Flexibiliteitsmaatregelen ≥ 100 kW | 06-05-2026 t/m 15-10-2026 | € 9.690.344 |
+| Titel 4.15: Subsidieregeling omschakeling naar verwerking circulaire plastics. | 4.15.2, eerste lid |  |  | 6-10-2026 t/m 15-12-2026 | € 2.2 mln. |
 | Titel 4a.3: Cyberbeveiligingsinnovatieprojecten | 4a.3.2, eerste lid, onderdeel a |  | Het deelgebied ‘het bevorderen van crypto-agility’. | 09-12-2025 t/m 10-02-2026 | € 1.250.000 |
 |  | 4a.3.2, eerste lid, onderdeel b |  | Het deelgebied ‘het vereenvoudigen en meer kostenefficiënt maken van cyberbeveiligingsoplossingen’. | 09-12-2025 t/m 10-02-2026 | € 1.250.000 |
 

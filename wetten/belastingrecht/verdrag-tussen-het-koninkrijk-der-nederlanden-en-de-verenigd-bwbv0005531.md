@@ -8,7 +8,7 @@ laatste_update: 1996-12-30
 status: geldig
 toestand: 1996-12-30
 bron: "https://wetten.overheid.nl/BWBV0005531"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika met betrekking tot belastingen van inkomsten en bepaalde andere belastingen

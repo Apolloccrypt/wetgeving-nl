@@ -8,7 +8,7 @@ laatste_update: 1961-04-08
 status: geldig
 toestand: 1961-04-08
 bron: "https://wetten.overheid.nl/BWBV0004623"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Chileense Regering inzake de afschaffing van visa

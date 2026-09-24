@@ -8,7 +8,7 @@ laatste_update: 1960-03-09
 status: geldig
 toestand: 1960-03-09
 bron: "https://wetten.overheid.nl/BWBV0004905"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Economische Unie, enerzijds, en het Koninkrijk Griekenland, anderzijds

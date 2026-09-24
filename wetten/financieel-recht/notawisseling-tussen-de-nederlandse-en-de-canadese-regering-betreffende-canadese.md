@@ -8,7 +8,7 @@ laatste_update: 1952-04-10
 status: geldig
 toestand: 1952-04-10
 bron: "https://wetten.overheid.nl/BWBV0004863"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Canadese Regering betreffende Canadese effecten

@@ -8,7 +8,7 @@ laatste_update: 1961-10-01
 status: geldig
 toestand: 1961-10-01
 bron: "https://wetten.overheid.nl/BWBV0004622"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Boliviaanse Regering houdende een overeenkomst tot afschaffing van de visumplicht

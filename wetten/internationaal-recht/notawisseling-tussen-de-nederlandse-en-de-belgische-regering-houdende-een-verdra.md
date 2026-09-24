@@ -8,7 +8,7 @@ laatste_update: 1997-07-09
 status: geldig
 toestand: 1997-07-09
 bron: "https://wetten.overheid.nl/BWBV0006003"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering houdende een verdrag inzake voorrechten en immuniteiten te verlenen aan verbindingsambtenaren en andere personeelsleden die vanwege de Belgische Regering bij de Europol Drugs Eenheid te 's-Gravenhage worden tewerkgesteld

@@ -8,7 +8,7 @@ laatste_update: 1958-03-17
 status: geldig
 toestand: 1958-03-17
 bron: "https://wetten.overheid.nl/BWBV0005085"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Franse Regering houdende een overeenkomst tot vergemakkelijking van het reizigersverkeer tussen beide landen

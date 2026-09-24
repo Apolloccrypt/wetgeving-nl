@@ -8,7 +8,7 @@ laatste_update: 1951-03-27
 status: geldig
 toestand: 1951-03-27
 bron: "https://wetten.overheid.nl/BWBV0005765"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake onderling strijdige aanspraken op buiten Duitsland gelegen Duitse bezittingen

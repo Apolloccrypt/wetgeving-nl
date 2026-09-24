@@ -8,7 +8,7 @@ laatste_update: 1962-01-02
 status: geldig
 toestand: 1962-01-02
 bron: "https://wetten.overheid.nl/BWBV0005257"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering nopens de samenwerking bij produktie, onderhoud, reparatie en revisie van militair materieel

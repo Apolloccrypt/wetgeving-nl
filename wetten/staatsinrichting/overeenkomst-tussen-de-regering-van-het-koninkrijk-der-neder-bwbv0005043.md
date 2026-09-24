@@ -8,7 +8,7 @@ laatste_update: 1990-05-31
 status: geldig
 toestand: 1990-05-31
 bron: "https://wetten.overheid.nl/BWBV0005043"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sovjet Republieken betreffende luchtdiensten

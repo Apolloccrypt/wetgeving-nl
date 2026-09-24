@@ -8,7 +8,7 @@ laatste_update: 1932-04-17
 status: geldig
 toestand: 1932-04-17
 bron: "https://wetten.overheid.nl/BWBV0005988"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Handels- en scheepvaartverdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Zuidslavië

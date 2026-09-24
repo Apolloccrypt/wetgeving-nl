@@ -8,7 +8,7 @@ laatste_update: 1968-05-30
 status: geldig
 toestand: 1968-05-30
 bron: "https://wetten.overheid.nl/BWBV0004530"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en Deense Regering houdende een overeenkomst inzake Nederlandse visrechten in de Deense visserijzone

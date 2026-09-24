@@ -8,7 +8,7 @@ laatste_update: 1964-06-01
 status: geldig
 toestand: 1964-06-01
 bron: "https://wetten.overheid.nl/BWBV0004475"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering houdende een overeenkomst inzake het gebruik van formulieren overeenkomstig artikel XI, vierde lid, van het Verdrag tussen de Staten die partij zijn bij het Noordatlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten

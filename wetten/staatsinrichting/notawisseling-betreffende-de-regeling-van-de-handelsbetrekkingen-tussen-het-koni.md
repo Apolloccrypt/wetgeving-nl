@@ -8,7 +8,7 @@ laatste_update: 1922-03-09
 status: geldig
 toestand: 1922-03-09
 bron: "https://wetten.overheid.nl/BWBV0005900"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling betreffende de regeling van de handelsbetrekkingen tussen het Koninkrijk der Nederlanden en het Koninkrijk Bulgarije

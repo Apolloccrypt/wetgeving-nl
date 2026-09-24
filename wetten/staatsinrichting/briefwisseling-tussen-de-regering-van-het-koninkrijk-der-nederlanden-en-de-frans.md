@@ -8,7 +8,7 @@ laatste_update: 1976-12-03
 status: geldig
 toestand: 1976-12-03
 bron: "https://wetten.overheid.nl/BWBV0004922"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Franse Regering inzake de financiering van een project voor zoutopslag

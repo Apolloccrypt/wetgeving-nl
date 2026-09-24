@@ -8,7 +8,7 @@ laatste_update: 1959-05-28
 status: geldig
 toestand: 1959-05-28
 bron: "https://wetten.overheid.nl/BWBV0005137"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Ierland betreffende de uitwisseling van stagiaires tussen Nederland en Ierland

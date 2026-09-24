@@ -9,7 +9,7 @@ laatste_update: 2026-09-22
 status: geldig
 toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0052870"
-opgehaald: 2026-09-23
+opgehaald: 2026-09-24
 ---
 
 # Besluit van 13 juli 2026, houdende tijdelijke economische beperkingen voor het tegengaan van het in stand houden van de onrechtmatige nederzettingen in de door Israël bezette gebieden (Tijdelijk sanctiebesluit onrechtmatige nederzettingen in de door Israël bezette gebieden) [KetenID WGK028298]

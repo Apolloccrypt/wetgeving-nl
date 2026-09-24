@@ -8,7 +8,7 @@ laatste_update: 1976-10-07
 status: geldig
 toestand: 1976-10-07
 bron: "https://wetten.overheid.nl/BWBV0005428"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering houdende een administratieve overeenkomst als bedoeld in artikel 71, vierde lid, van de Aanvullende Overeenkomst bij het NAVO-status verdrag

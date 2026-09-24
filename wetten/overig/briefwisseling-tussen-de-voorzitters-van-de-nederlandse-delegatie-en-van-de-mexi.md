@@ -8,7 +8,7 @@ laatste_update: 1970-07-07
 status: geldig
 toestand: 1970-07-07
 bron: "https://wetten.overheid.nl/BWBV0004366"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de voorzitters van de Nederlandse delegatie en van de Mexicaanse delegatie inzake de instelling van een Gemengde Nederlands-Mexicaanse Commissie voor Economische Samenwerking

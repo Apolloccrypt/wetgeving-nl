@@ -8,7 +8,7 @@ laatste_update: 1960-10-02
 status: geldig
 toestand: 1960-10-02
 bron: "https://wetten.overheid.nl/BWBV0005286"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Duitse Regering inzake samenvoeging van de douanebehandeling (Station Emmerik)

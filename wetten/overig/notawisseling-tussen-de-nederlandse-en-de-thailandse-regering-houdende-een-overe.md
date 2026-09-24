@@ -8,7 +8,7 @@ laatste_update: 1958-07-16
 status: geldig
 toestand: 1958-07-16
 bron: "https://wetten.overheid.nl/BWBV0004748"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Thailandse Regering houdende een overeenkomst inzake de afschaffing visa voor diplomatieke en dienstpaspoorten

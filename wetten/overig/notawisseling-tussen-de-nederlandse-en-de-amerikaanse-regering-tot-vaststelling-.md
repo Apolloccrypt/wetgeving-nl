@@ -8,7 +8,7 @@ laatste_update: 1959-10-08
 status: geldig
 toestand: 1959-10-08
 bron: "https://wetten.overheid.nl/BWBV0005280"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering tot vaststelling van regels voor het wederzijds indienen van gerubriceerde octrooi-aanvragen

@@ -8,7 +8,7 @@ laatste_update: 1951-02-13
 status: geldig
 toestand: 1951-02-13
 bron: "https://wetten.overheid.nl/BWBV0004983"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Vluchtelingenorganisatie inzake bijstand aan vluchtelingen

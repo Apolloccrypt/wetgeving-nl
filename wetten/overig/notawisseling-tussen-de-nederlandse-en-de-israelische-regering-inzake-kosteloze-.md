@@ -8,7 +8,7 @@ laatste_update: 1955-09-21
 status: geldig
 toestand: 1955-09-21
 bron: "https://wetten.overheid.nl/BWBV0004994"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Israëlische Regering inzake kosteloze verlening van visa

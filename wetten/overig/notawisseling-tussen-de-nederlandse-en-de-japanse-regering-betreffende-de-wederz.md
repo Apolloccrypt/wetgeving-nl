@@ -8,7 +8,7 @@ laatste_update: 1912-07-01
 status: geldig
 toestand: 1912-07-01
 bron: "https://wetten.overheid.nl/BWBV0005894"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Japanse Regering betreffende de wederzijdse erkenning van scheepmeetbrieven

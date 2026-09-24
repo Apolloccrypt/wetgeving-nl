@@ -8,7 +8,7 @@ laatste_update: 2014-03-01
 status: geldig
 toestand: 2014-03-01
 bron: "https://wetten.overheid.nl/BWBV0005347"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag inzake de overbrenging van gevonniste personen tussen het Koninkrijk der Nederlanden en de Republiek Peru

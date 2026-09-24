@@ -8,7 +8,7 @@ laatste_update: 1951-11-30
 status: geldig
 toestand: 1951-11-30
 bron: "https://wetten.overheid.nl/BWBV0004861"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Britse Regering betreffende de verzending van diplomatieke post

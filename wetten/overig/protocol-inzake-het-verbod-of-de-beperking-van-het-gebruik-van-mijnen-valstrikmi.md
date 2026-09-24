@@ -8,7 +8,7 @@ laatste_update: 1987-12-18
 status: geldig
 toestand: 1987-12-18
 bron: "https://wetten.overheid.nl/BWBV0004794"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Protocol inzake het verbod of de beperking van het gebruik van mijnen, valstrikmijnen en andere mechanismen (Protocol II)

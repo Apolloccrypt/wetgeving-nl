@@ -8,7 +8,7 @@ laatste_update: 1968-08-08
 status: geldig
 toestand: 1968-08-08
 bron: "https://wetten.overheid.nl/BWBV0004739"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering inzake de opheffing van de paspoort- en visumplicht

@@ -8,7 +8,7 @@ laatste_update: 1953-12-01
 status: geldig
 toestand: 1953-12-01
 bron: "https://wetten.overheid.nl/BWBV0004828"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering, enerzijds, en de Belgische en de Luxemburgse Regering, anderzijds, betreffende het niet teruggeven van omzet- en invoerbelasting

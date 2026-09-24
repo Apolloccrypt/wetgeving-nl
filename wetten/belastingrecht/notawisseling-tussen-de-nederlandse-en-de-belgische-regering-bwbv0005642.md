@@ -8,7 +8,7 @@ laatste_update: 1956-04-09
 status: geldig
 toestand: 1956-04-09
 bron: "https://wetten.overheid.nl/BWBV0005642"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Nederlandse kantoor te Sluis tot internationaal douanekantoor voor het wegverkeer

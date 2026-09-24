@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "beleidsregel"
 publicatiedatum: 2025-07-30
 laatste_update: 2025-07-30
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-22
 toestand: 2025-07-30
 bron: "https://wetten.overheid.nl/BWBR0051336"
-opgehaald: 2026-09-08
+opgehaald: 2026-09-24
 ---
 
 # Besluit Earningsstrippingmaatregel 2025

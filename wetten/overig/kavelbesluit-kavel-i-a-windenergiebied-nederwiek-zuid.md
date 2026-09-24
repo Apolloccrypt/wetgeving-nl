@@ -8,7 +8,7 @@ laatste_update: 2026-07-17
 status: geldig
 toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0051044"
-opgehaald: 2026-09-23
+opgehaald: 2026-09-24
 ---
 
 # Kavelbesluit kavel I-A windenergiebied Nederwiek (zuid)

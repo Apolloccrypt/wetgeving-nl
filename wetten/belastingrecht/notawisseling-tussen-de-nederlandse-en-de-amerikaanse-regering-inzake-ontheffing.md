@@ -8,7 +8,7 @@ laatste_update: 1952-03-07
 status: geldig
 toestand: 1952-03-07
 bron: "https://wetten.overheid.nl/BWBV0004809"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering inzake ontheffing van belastingen met betrekking tot Amerikaanse uitgaven in Nederland voor de gemeenschappelijke defensie

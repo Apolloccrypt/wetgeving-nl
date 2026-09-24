@@ -8,7 +8,7 @@ laatste_update: 2013-04-02
 status: geldig
 toestand: 2013-04-02
 bron: "https://wetten.overheid.nl/BWBV0005690"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) betreffende de zevende zitting van de intergouvernementele coördinatiegroep van de Intergouvernementele Oceanografische Commissie (IOC) voor het waarschuwingssysteem voor tsunami's en andere kustbedreigingen voor de Caribische en aangrenzende regio's (ICG/CARIBE EWS-VII), Willemstad, Curaçao, van 2 tot 4 april 2012

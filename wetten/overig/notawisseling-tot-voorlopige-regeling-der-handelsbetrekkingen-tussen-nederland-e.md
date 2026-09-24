@@ -8,7 +8,7 @@ laatste_update: 1930-03-17
 status: geldig
 toestand: 1930-03-17
 bron: "https://wetten.overheid.nl/BWBV0005905"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tot voorlopige regeling der handelsbetrekkingen tussen Nederland en Egypte

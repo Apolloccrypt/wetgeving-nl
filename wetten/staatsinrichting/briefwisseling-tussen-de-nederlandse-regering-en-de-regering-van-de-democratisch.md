@@ -8,7 +8,7 @@ laatste_update: 1973-02-07
 status: geldig
 toestand: 1973-02-07
 bron: "https://wetten.overheid.nl/BWBV0004705"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse Regering en de Regering van de Democratische Republiek Kongo inzake de uitbreiding van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Democratische Republiek Kongo inzake het luchtvervoer tot de Nederlandse Antillen

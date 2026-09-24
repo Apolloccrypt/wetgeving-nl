@@ -8,7 +8,7 @@ laatste_update: 1983-04-01
 status: geldig
 toestand: 1983-04-01
 bron: "https://wetten.overheid.nl/BWBV0006026"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de grensscheiding, met Reglement voor het plaatsen van grenspalen

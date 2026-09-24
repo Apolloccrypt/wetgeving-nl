@@ -8,7 +8,7 @@ laatste_update: 1952-11-28
 status: geldig
 toestand: 1952-11-28
 bron: "https://wetten.overheid.nl/BWBV0005707"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse en de Amerikaanse Regering houdende wijziging van de Overeenkomst tot economische samenwerking tussen de Regeringen van het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika

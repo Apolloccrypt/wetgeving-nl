@@ -8,7 +8,7 @@ laatste_update: 1966-12-21
 status: geldig
 toestand: 1966-12-21
 bron: "https://wetten.overheid.nl/BWBV0004517"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Regering van de Verenigde Staten van Amerika inzake het verlenen van vergunningen aan radioamateurs

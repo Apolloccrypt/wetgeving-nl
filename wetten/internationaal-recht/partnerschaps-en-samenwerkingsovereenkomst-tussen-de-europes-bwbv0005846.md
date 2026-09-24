@@ -8,7 +8,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBV0005846"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Irak, anderzijds

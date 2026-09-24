@@ -8,7 +8,7 @@ laatste_update: 1970-12-11
 status: geldig
 toestand: 1970-12-11
 bron: "https://wetten.overheid.nl/BWBV0004440"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse en de Amerikaanse Regering inzake de voortzetting van de samenwerking tussen de meteorologische diensten van de Nederlandse Antillen en de Verenigde Staten van Amerika

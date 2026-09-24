@@ -8,7 +8,7 @@ laatste_update: 1949-05-09
 status: geldig
 toestand: 1949-05-09
 bron: "https://wetten.overheid.nl/BWBV0005734"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en Canada inzake surplus guldens en civil affairs goederen

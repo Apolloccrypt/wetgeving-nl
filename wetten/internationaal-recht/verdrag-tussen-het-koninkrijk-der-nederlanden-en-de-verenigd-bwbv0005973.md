@@ -8,7 +8,7 @@ laatste_update: 1933-12-19
 status: geldig
 toestand: 1933-12-19
 bron: "https://wetten.overheid.nl/BWBV0005973"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Venezuela tot beslechting van geschillen door arbitrage, rechtspraak en verzoening

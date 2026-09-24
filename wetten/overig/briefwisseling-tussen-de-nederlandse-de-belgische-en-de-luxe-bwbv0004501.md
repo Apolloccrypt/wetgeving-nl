@@ -8,7 +8,7 @@ laatste_update: 1964-12-08
 status: geldig
 toestand: 1964-12-08
 bron: "https://wetten.overheid.nl/BWBV0004501"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse, de Belgische en de Luxemburgse Regering enerzijds, en de Israëlische Regering anderzijds, inzake de afschaffing van de visumplicht

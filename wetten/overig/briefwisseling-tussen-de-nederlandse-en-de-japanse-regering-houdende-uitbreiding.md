@@ -8,7 +8,7 @@ laatste_update: 1974-05-27
 status: geldig
 toestand: 1974-05-27
 bron: "https://wetten.overheid.nl/BWBV0005248"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse en de Japanse Regering houdende uitbreiding van de Notawisseling tussen de Nederlandse en de Japanse Regering inzake de afschaffing van visa tot Suriname en de Nederlandse Antillen

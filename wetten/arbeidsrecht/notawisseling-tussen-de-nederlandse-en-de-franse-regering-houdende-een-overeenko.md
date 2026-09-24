@@ -8,7 +8,7 @@ laatste_update: 1949-07-20
 status: geldig
 toestand: 1949-07-20
 bron: "https://wetten.overheid.nl/BWBV0005701"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Franse Regering houdende een overeenkomst nopens meestbegunstiging van boeren en landarbeiders op het stuk van vestiging

@@ -8,7 +8,7 @@ laatste_update: 1953-06-01
 status: geldig
 toestand: 1953-06-01
 bron: "https://wetten.overheid.nl/BWBV0005070"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling houdende een verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Pakistan betreffende paspoortvisa

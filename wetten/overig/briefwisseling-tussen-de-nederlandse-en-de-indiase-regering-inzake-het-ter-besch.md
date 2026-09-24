@@ -8,7 +8,7 @@ laatste_update: 1967-02-17
 status: geldig
 toestand: 1967-02-17
 bron: "https://wetten.overheid.nl/BWBV0004346"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse en de Indiase Regering inzake het ter beschikking stellen van kunstmest voor de Staat Maharashtra

@@ -8,7 +8,7 @@ laatste_update: 1960-05-27
 status: geldig
 toestand: 1960-05-27
 bron: "https://wetten.overheid.nl/BWBV0004895"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Oostenrijkse Bondsregering betreffende de gelding van verdragen

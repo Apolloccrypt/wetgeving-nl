@@ -8,7 +8,7 @@ laatste_update: 2026-07-17
 status: geldig
 toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0046414"
-opgehaald: 2026-09-23
+opgehaald: 2026-09-24
 ---
 
 # Kavelbesluit VII windenergiegebied Hollandse Kust (west)

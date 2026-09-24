@@ -8,7 +8,7 @@ laatste_update: 1948-06-23
 status: geldig
 toestand: 1948-06-23
 bron: "https://wetten.overheid.nl/BWBV0005731"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Luxemburgse Regering houdende een overeenkomst betreffende de vrijheden van de lucht met betrekking tot hun geregelde luchtdiensten

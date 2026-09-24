@@ -8,7 +8,7 @@ laatste_update: 1927-11-05
 status: geldig
 toestand: 1927-11-05
 bron: "https://wetten.overheid.nl/BWBV0005889"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen het Koninkrijk der Nederlanden en de Spaanse Staat inzake de wederzijdse mededeling van strafvonnissen

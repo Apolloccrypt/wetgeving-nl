@@ -8,7 +8,7 @@ laatste_update: 1954-03-24
 status: geldig
 toestand: 1954-03-24
 bron: "https://wetten.overheid.nl/BWBV0004837"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Zwitserse Bondsraad inzake betalingen op het gebied van verzekeringen

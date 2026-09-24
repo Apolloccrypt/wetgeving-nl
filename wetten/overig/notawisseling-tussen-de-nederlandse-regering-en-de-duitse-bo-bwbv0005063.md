@@ -8,7 +8,7 @@ laatste_update: 1955-06-18
 status: geldig
 toestand: 1955-06-18
 bron: "https://wetten.overheid.nl/BWBV0005063"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering, houdende een overeenkomst betreffende de overbrenging naar Duitsland van stoffelijke resten van in Nederland gesneuvelde Duitse militairen

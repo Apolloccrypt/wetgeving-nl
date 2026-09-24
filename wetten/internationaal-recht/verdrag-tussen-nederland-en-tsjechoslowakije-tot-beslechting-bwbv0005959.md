@@ -8,7 +8,7 @@ laatste_update: 1930-08-20
 status: geldig
 toestand: 1930-08-20
 bron: "https://wetten.overheid.nl/BWBV0005959"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag tussen Nederland en Tsjechoslowakije tot beslechting van geschillen door rechtspraak, arbitrage en verzoening

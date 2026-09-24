@@ -8,7 +8,7 @@ laatste_update: 1961-05-24
 status: geldig
 toestand: 1961-05-24
 bron: "https://wetten.overheid.nl/BWBV0004483"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Portugese Republiek, anderzijds

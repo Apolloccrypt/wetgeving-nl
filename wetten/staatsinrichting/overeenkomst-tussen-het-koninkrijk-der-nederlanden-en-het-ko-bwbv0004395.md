@@ -8,7 +8,7 @@ laatste_update: 1965-03-03
 status: geldig
 toestand: 1965-03-03
 bron: "https://wetten.overheid.nl/BWBV0004395"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot regeling van de Nederlands-Belgische financiële geschillen die voortvloeien uit wederzijdse vorderingen uit de Tweede Wereldoorlog en de Duitse bezetting

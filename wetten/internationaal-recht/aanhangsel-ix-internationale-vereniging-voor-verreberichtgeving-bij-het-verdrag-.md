@@ -8,7 +8,7 @@ laatste_update: 1951-06-15
 status: geldig
 toestand: 1951-06-15
 bron: "https://wetten.overheid.nl/BWBV0005598"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Aanhangsel IX: Internationale Vereniging voor Verreberichtgeving bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties

@@ -8,7 +8,7 @@ laatste_update: 1980-11-05
 status: geldig
 toestand: 1980-11-05
 bron: "https://wetten.overheid.nl/BWBV0005272"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling ter vervanging van de briefwisseling bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden betreffende het wegvervoer

@@ -8,7 +8,7 @@ laatste_update: 1949-07-06
 status: geldig
 toestand: 1949-07-06
 bron: "https://wetten.overheid.nl/BWBV0005688"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse en de Zweedse Regering inzake de uitwisseling van stagiaires

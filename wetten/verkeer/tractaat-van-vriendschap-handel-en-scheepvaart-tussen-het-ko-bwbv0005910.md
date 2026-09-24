@@ -8,7 +8,7 @@ laatste_update: 1864-06-03
 status: geldig
 toestand: 1864-06-03
 bron: "https://wetten.overheid.nl/BWBV0005910"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Tractaat van vriendschap, handel en scheepvaart tussen het Koninkrijk der Nederlanden en de Republiek Liberia

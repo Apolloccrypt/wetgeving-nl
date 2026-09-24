@@ -8,7 +8,7 @@ laatste_update: 1986-01-01
 status: geldig
 toestand: 1986-01-01
 bron: "https://wetten.overheid.nl/BWBV0005371"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse en de Braziliaanse Regering tot uitbreiding tot Suriname en de Nederlandse Antillen van het Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Brazilië betreffende kosteloze rechtsbijstand

@@ -8,7 +8,7 @@ laatste_update: 1959-05-12
 status: geldig
 toestand: 1959-05-12
 bron: "https://wetten.overheid.nl/BWBV0004965"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering inzake een Duitse bijdrage in de kosten van het onderhoud van de in de Bondsrepubliek Duitsland gestationeerde Nederlandse militaire eenheden

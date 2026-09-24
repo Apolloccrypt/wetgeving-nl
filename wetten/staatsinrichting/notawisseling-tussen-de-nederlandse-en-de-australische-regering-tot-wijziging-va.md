@@ -8,7 +8,7 @@ laatste_update: 1958-07-01
 status: geldig
 toestand: 1958-07-01
 bron: "https://wetten.overheid.nl/BWBV0005406"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Australische Regering tot wijziging van de Notawisseling van 10 februari 1956 betreffende de resterende intercustodiale geschillen tussen het Koninkrijk der Nederlanden en Australië

@@ -8,7 +8,7 @@ laatste_update: 1877-08-27
 status: geldig
 toestand: 1877-08-27
 bron: "https://wetten.overheid.nl/BWBV0005893"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verklaring tot bevordering der handelsbetrekkingen tussen het Koninkrijk der Nederlanden en het Sultanaat Muscate

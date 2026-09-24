@@ -8,7 +8,7 @@ laatste_update: 1963-12-23
 status: geldig
 toestand: 1963-12-23
 bron: "https://wetten.overheid.nl/BWBV0004635"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Britse Regering inzake de handhaving van de uitbreiding van het belastingverdrag met het Verenigd Koninkrijk na de ontbinding van de Federatie van Rhodesië en Nyasaland

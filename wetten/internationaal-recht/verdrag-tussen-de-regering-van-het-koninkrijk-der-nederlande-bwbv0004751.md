@@ -8,7 +8,7 @@ laatste_update: 2011-10-01
 status: geldig
 toestand: 2011-10-01
 bron: "https://wetten.overheid.nl/BWBV0004751"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Senegal betreffende de status van strijdkrachten

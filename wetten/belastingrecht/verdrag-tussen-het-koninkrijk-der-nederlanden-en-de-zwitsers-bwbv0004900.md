@@ -8,7 +8,7 @@ laatste_update: 2011-11-09
 status: geldig
 toestand: 2011-11-09
 bron: "https://wetten.overheid.nl/BWBV0004900"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat ter voorkoming van dubbele belasting op het gebied van belastingen van het inkomen en van het vermogen

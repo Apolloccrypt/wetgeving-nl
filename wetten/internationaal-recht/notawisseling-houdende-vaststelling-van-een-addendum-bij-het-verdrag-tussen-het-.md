@@ -8,7 +8,7 @@ laatste_update: 1958-05-21
 status: geldig
 toestand: 1958-05-21
 bron: "https://wetten.overheid.nl/BWBV0005425"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling houdende vaststelling van een addendum bij het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de culturele en intellectuele betrekkingen

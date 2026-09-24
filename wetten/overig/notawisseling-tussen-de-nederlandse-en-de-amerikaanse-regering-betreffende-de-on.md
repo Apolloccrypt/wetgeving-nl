@@ -8,7 +8,7 @@ laatste_update: 1954-06-04
 status: geldig
 toestand: 1954-06-04
 bron: "https://wetten.overheid.nl/BWBV0005059"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering betreffende de ontwikkeling van speciale wapens

@@ -8,7 +8,7 @@ laatste_update: 1948-03-15
 status: geldig
 toestand: 1948-03-15
 bron: "https://wetten.overheid.nl/BWBV0005680"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Protocol inzake de toelating van Pakistan tot de Overeenkomst van Parijs van 14 januari 1946 betreffende herstelbetalingen

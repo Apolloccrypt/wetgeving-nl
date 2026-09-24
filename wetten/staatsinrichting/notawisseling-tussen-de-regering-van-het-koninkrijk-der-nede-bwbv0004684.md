@@ -8,7 +8,7 @@ laatste_update: 1981-09-01
 status: geldig
 toestand: 1981-09-01
 bron: "https://wetten.overheid.nl/BWBV0004684"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland betreffende de samenvoeging van de grenscontrole bij de grensovergang Klein Netterden/Netterden aan de weg van Emmerich naar Netterden

@@ -8,7 +8,7 @@ laatste_update: 2004-05-01
 status: geldig
 toestand: 2004-05-01
 bron: "https://wetten.overheid.nl/BWBV0004316"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije

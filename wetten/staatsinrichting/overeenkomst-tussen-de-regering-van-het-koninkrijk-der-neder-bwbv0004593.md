@@ -8,7 +8,7 @@ laatste_update: 1964-12-10
 status: geldig
 toestand: 1964-12-10
 bron: "https://wetten.overheid.nl/BWBV0004593"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechoslowaakse Socialistische Republiek inzake de regeling van financiële aangelegenheden

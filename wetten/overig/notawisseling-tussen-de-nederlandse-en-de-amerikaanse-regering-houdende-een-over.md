@@ -8,7 +8,7 @@ laatste_update: 1954-11-16
 status: geldig
 toestand: 1954-11-16
 bron: "https://wetten.overheid.nl/BWBV0005000"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering houdende een overeenkomst inzake legering van Amerikaanse troepen in Nederland

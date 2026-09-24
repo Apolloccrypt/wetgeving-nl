@@ -8,7 +8,7 @@ laatste_update: 1992-12-16
 status: geldig
 toestand: 1992-12-16
 bron: "https://wetten.overheid.nl/BWBV0004313"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Japan tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen

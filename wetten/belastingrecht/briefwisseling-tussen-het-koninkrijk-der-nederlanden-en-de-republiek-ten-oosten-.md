@@ -8,7 +8,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBV0004619"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen het Koninkrijk der Nederlanden en de Republiek ten Oosten van de Uruguay inzake de uitbreiding tot de Nederlandse Antillen en Aruba van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek ten Oosten van de Uruguay inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en het voorkomen, onderzoeken en bestrijden van inbreuken op de douanewetgeving

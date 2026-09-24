@@ -8,7 +8,7 @@ laatste_update: 1956-03-21
 status: geldig
 toestand: 1956-03-21
 bron: "https://wetten.overheid.nl/BWBV0005304"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Britse Regering tot uitbreiding van de Overeenkomst van 30 april 1951 betreffende registratie- en zegelrechten

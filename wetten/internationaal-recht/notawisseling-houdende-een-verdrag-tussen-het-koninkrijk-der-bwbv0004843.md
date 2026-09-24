@@ -8,7 +8,7 @@ laatste_update: 2010-12-14
 status: geldig
 toestand: 2010-12-14
 bron: "https://wetten.overheid.nl/BWBV0004843"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Sierra Leone Tribunaal inzake het transport en de opslag van de archieven van het Tribunaal

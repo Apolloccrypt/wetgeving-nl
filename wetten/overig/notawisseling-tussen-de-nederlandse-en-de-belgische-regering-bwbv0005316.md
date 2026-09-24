@@ -8,7 +8,7 @@ laatste_update: 1964-07-31
 status: geldig
 toestand: 1964-07-31
 bron: "https://wetten.overheid.nl/BWBV0005316"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering houdende een overeenkomst tot regeling van de dienstplicht voor jongelieden die zowel de Belgische als de Nederlandse nationaliteit bezitten

@@ -8,7 +8,7 @@ laatste_update: 1954-06-28
 status: geldig
 toestand: 1954-06-28
 bron: "https://wetten.overheid.nl/BWBV0005700"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Zwitserse Bondsraad nopens rechten en heffingen op brandstoffen en smeermiddelen in het internationaal luchtverkeer

@@ -8,7 +8,7 @@ laatste_update: 1956-01-12
 status: geldig
 toestand: 1956-01-12
 bron: "https://wetten.overheid.nl/BWBV0004886"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Vietnamese Regering inzake de bescherming van fabrieks- en handelsmerken

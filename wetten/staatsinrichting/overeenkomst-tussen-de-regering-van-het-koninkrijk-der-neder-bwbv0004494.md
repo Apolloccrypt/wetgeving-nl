@@ -8,7 +8,7 @@ laatste_update: 2013-01-27
 status: geldig
 toestand: 2013-01-27
 bron: "https://wetten.overheid.nl/BWBV0004494"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Ivoorkust inzake het ter beschikking stellen van Nederlandse vrijwilligers in Ivoorkust

@@ -8,7 +8,7 @@ laatste_update: 1961-04-01
 status: geldig
 toestand: 1961-04-01
 bron: "https://wetten.overheid.nl/BWBV0005806"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Franse Regering inzake de sociale zekerheid van Poolse onderdanen die in Nederland en in Frankrijk werkzaam zijn geweest

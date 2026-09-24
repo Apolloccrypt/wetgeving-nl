@@ -8,7 +8,7 @@ laatste_update: 1955-12-10
 status: geldig
 toestand: 1955-12-10
 bron: "https://wetten.overheid.nl/BWBV0005167"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering houdende een Overeenkomst inzake vergoeding van oorlogsschade

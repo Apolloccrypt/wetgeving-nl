@@ -8,7 +8,7 @@ laatste_update: 1955-03-21
 status: geldig
 toestand: 1955-03-21
 bron: "https://wetten.overheid.nl/BWBV0005076"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering houdende een overeenkomst betreffende Amerikaanse radioapparatuur op Nederlandse weerschepen

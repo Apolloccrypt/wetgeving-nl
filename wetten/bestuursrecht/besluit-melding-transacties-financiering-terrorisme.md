@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0014119"
-opgehaald: 2026-09-23
+opgehaald: 2026-09-24
 ---
 
 # Besluit van 11 oktober 2002 op grond van de Sanctiewet 1977, inzake het melden van transacties die zouden kunnen duiden op de financiering van terrorisme

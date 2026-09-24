@@ -8,7 +8,7 @@ laatste_update: 2002-02-19
 status: geldig
 toestand: 2002-02-19
 bron: "https://wetten.overheid.nl/BWBV0005520"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Internationale Gerechtshof inzake de aanvulling van de notawisseling nopens voorrechten en immuniteiten van het Internationale Gerechtshof, met betrekking tot de mogelijkheid voor gezinsleden van functionarissen van het Internationale Gerechtshof om in Nederland betaald werk te verrichten

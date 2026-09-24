@@ -8,7 +8,7 @@ laatste_update: 1989-11-17
 status: geldig
 toestand: 1989-11-17
 bron: "https://wetten.overheid.nl/BWBV0004924"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst inzake gezamenlijke financiering van bepaalde diensten voor de luchtvaartnavigatie in Groenland en de Faeröer

@@ -8,7 +8,7 @@ laatste_update: 1927-06-14
 status: geldig
 toestand: 1927-06-14
 bron: "https://wetten.overheid.nl/BWBV0005887"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen het Koninkrijk der Nederlanden en de Republiek Portugal inzake de wederzijdse mededeling van strafvonnissen

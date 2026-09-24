@@ -8,7 +8,7 @@ laatste_update: 1974-07-11
 status: geldig
 toestand: 1974-07-11
 bron: "https://wetten.overheid.nl/BWBV0004380"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Indonesië inzake Nederlandse Oorlogsgraven (Erevelden) op Indonesisch grondgebied

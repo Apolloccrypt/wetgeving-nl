@@ -8,7 +8,7 @@ laatste_update: 1990-09-25
 status: geldig
 toestand: 1990-09-25
 bron: "https://wetten.overheid.nl/BWBV0004687"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse, de Belgische, de Canadese, de Amerikaanse en de Britse Regering, enerzijds, en de Duitse Bondsregering, anderzijds, houdende verlenging van de Overeenkomst inzake de aanwezigheid van buitenlandse strijdkrachten in de Bondsrepubliek Duitsland

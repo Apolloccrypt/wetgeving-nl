@@ -8,7 +8,7 @@ laatste_update: 1953-05-30
 status: geldig
 toestand: 1953-05-30
 bron: "https://wetten.overheid.nl/BWBV0005169"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Thailandse Regering inzake oorlogsschade

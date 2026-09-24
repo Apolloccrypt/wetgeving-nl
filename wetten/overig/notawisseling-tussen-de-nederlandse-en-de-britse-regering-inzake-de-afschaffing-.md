@@ -8,7 +8,7 @@ laatste_update: 1960-04-10
 status: geldig
 toestand: 1960-04-10
 bron: "https://wetten.overheid.nl/BWBV0005355"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Britse Regering inzake de afschaffing van de visumplicht en de erkenning van reisdocumenten

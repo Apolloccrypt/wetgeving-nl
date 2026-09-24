@@ -8,7 +8,7 @@ laatste_update: 1986-10-22
 status: geldig
 toestand: 1986-10-22
 bron: "https://wetten.overheid.nl/BWBV0004683"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de grenscontrole bij de grensovergang Goch-Autobahn/Gennep-autoweg

@@ -8,7 +8,7 @@ laatste_update: 1951-10-01
 status: geldig
 toestand: 1951-10-01
 bron: "https://wetten.overheid.nl/BWBV0005706"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het op 13 april 1948 gesloten verdrag nopens de aanwijzing van het Nederlandse kantoor te Bilzerbaan tot internationaal douanekantoor

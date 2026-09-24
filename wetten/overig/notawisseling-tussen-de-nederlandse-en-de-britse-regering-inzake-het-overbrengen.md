@@ -8,7 +8,7 @@ laatste_update: 1963-11-19
 status: geldig
 toestand: 1963-11-19
 bron: "https://wetten.overheid.nl/BWBV0004396"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Britse Regering inzake het overbrengen van Nederlandse oorlogsgraven naar het ereveld te Paddington (Londen)

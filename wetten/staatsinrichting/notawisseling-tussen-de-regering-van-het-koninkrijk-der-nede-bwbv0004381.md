@@ -8,7 +8,7 @@ laatste_update: 1964-10-21
 status: geldig
 toestand: 1964-10-21
 bron: "https://wetten.overheid.nl/BWBV0004381"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de Nederlandse scholen welke in de Bondsrepubliek Duitsland ten behoeve van de aldaar gelegerde Nederlandse strijdmachten zijn opgericht

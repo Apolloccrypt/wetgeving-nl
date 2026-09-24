@@ -8,7 +8,7 @@ laatste_update: 1957-01-29
 status: geldig
 toestand: 1957-01-29
 bron: "https://wetten.overheid.nl/BWBV0005010"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering houdende een regeling voor de behandeling van eisen tot schadevergoeding in verband met verlies of schade veroorzaakt door in de Bondsrepubliek Duitsland gestationeerde Nederlandse militaire eenheden

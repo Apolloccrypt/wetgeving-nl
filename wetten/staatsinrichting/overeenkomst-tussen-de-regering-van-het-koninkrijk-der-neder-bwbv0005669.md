@@ -8,7 +8,7 @@ laatste_update: 1947-05-28
 status: geldig
 toestand: 1947-05-28
 bron: "https://wetten.overheid.nl/BWBV0005669"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika tot regeling der wederzijdse vorderingen en schulden uit hoofde van de uitvoering der Leen- en Pachtovereenkomst (Lend-Lease), de uitvoering der Overeenkomst tot wederkerige hulpverlening (reciprocal aid), de verkoop van overtollige legergoederen (surplus property), de uitvoering van het militaire hulpprogramma voor de civiele bevolking (military relief)

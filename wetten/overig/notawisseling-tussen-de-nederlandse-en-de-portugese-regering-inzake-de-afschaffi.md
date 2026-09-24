@@ -8,7 +8,7 @@ laatste_update: 1952-03-31
 status: geldig
 toestand: 1952-03-31
 bron: "https://wetten.overheid.nl/BWBV0004761"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Portugese Regering inzake de afschaffing der visa-verplichtingen voor bepaalde categorieën van personen

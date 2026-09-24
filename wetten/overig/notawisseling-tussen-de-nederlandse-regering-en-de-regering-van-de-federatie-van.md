@@ -8,7 +8,7 @@ laatste_update: 1960-03-05
 status: geldig
 toestand: 1960-03-05
 bron: "https://wetten.overheid.nl/BWBV0004753"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Regering van de Federatie van Malaya betreffende de wederzijdse afschaffing van paspoortvisa

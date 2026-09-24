@@ -8,7 +8,7 @@ laatste_update: 1952-10-07
 status: geldig
 toestand: 1952-10-07
 bron: "https://wetten.overheid.nl/BWBV0005805"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse en de Amerikaanse Regering houdende uitvoering van artikel III van de Overeenkomst tot economische samenwerking tussen de Regeringen van het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika

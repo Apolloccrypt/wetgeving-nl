@@ -8,7 +8,7 @@ laatste_update: 1956-05-23
 status: geldig
 toestand: 1956-05-23
 bron: "https://wetten.overheid.nl/BWBV0005643"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Belgische kantoor te Lommel en het Belgische kantoor te Molenbeersel tot internationale douanekantoren voor het wegverkeer

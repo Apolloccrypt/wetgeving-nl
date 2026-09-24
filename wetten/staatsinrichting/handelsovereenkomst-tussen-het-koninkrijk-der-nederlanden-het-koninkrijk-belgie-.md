@@ -8,7 +8,7 @@ laatste_update: 1956-12-28
 status: geldig
 toestand: 1956-12-28
 bron: "https://wetten.overheid.nl/BWBV0004898"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg enerzijds en het Koninkrijk Denemarken anderzijds

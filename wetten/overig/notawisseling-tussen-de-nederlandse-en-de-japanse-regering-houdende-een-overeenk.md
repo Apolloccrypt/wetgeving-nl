@@ -8,7 +8,7 @@ laatste_update: 1958-03-08
 status: geldig
 toestand: 1958-03-08
 bron: "https://wetten.overheid.nl/BWBV0004749"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Japanse Regering houdende een overeenkomst inzake de afschaffing van visa voor diplomatieke en dienstpaspoorten

@@ -8,7 +8,7 @@ laatste_update: 1949-07-21
 status: geldig
 toestand: 1949-07-21
 bron: "https://wetten.overheid.nl/BWBV0005589"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Aanhangsel IV: Organisatie der Verenigde Naties voor Onderwijs, Wetenschappen en Cultuur bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties

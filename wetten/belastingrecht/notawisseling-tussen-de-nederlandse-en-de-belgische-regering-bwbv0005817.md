@@ -8,7 +8,7 @@ laatste_update: 1954-08-14
 status: geldig
 toestand: 1954-08-14
 bron: "https://wetten.overheid.nl/BWBV0005817"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Nederlandse en het Belgische kantoor te Putte tot internationaal douanekantoor voor het wegverkeer

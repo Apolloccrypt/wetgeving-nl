@@ -8,7 +8,7 @@ laatste_update: 2026-09-22
 status: geldig
 toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0010256"
-opgehaald: 2026-09-23
+opgehaald: 2026-09-24
 ---
 
 # Regeling particuliere beveiligingsorganisaties en recherchebureaus

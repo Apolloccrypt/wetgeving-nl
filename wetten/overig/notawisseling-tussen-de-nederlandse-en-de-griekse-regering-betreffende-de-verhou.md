@@ -8,7 +8,7 @@ laatste_update: 1961-11-28
 status: geldig
 toestand: 1961-11-28
 bron: "https://wetten.overheid.nl/BWBV0004341"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Griekse Regering betreffende de verhouding van de Handelsovereenkomst tussen de Benelux-Staten en Griekenland van 9 maart 1960 en de Associatieovereenkomst EEG-Griekenland

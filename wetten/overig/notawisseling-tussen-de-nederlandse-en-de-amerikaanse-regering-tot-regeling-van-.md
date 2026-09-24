@@ -8,7 +8,7 @@ laatste_update: 1953-03-12
 status: geldig
 toestand: 1953-03-12
 bron: "https://wetten.overheid.nl/BWBV0005120"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering tot regeling van een aantal nog niet afgewikkelde vorderingen en schulden

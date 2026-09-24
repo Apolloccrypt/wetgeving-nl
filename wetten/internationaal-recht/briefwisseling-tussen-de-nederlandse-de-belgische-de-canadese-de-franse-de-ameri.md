@@ -8,7 +8,7 @@ laatste_update: 1996-09-18
 status: geldig
 toestand: 1996-09-18
 bron: "https://wetten.overheid.nl/BWBV0004688"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de Nederlandse, de Belgische, de Canadese, de Franse, de Amerikaanse en de Britse Regering, enerzijds, en de Duitse Bondsregering, anderzijds, houdende verlenging van het Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten en de Aanvullende Overeenkomst betreffende de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten

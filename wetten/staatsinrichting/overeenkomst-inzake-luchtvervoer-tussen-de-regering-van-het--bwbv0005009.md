@@ -8,7 +8,7 @@ laatste_update: 2002-04-26
 status: geldig
 toestand: 2002-04-26
 bron: "https://wetten.overheid.nl/BWBV0005009"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst inzake luchtvervoer tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Ecuador

@@ -8,7 +8,7 @@ laatste_update: 1964-08-31
 status: geldig
 toestand: 1964-08-31
 bron: "https://wetten.overheid.nl/BWBV0004613"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België, houdende verdere vaststelling van een ontginningsgrens voor de aan beide zijden van de grens langs de Maas gelegen steenkolenmijnen

@@ -8,7 +8,7 @@ laatste_update: 1900-09-04
 status: geldig
 toestand: 1900-09-04
 bron: "https://wetten.overheid.nl/BWBV0005494"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag voor de vreedzame beslechting van internationale geschillen

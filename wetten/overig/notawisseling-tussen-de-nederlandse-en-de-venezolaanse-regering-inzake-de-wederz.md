@@ -8,7 +8,7 @@ laatste_update: 1958-02-12
 status: geldig
 toestand: 1958-02-12
 bron: "https://wetten.overheid.nl/BWBV0004867"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Venezolaanse Regering inzake de wederzijdse erkenning van scheepsmeetbrieven

@@ -8,7 +8,7 @@ laatste_update: 2015-09-22
 status: geldig
 toestand: 2015-09-22
 bron: "https://wetten.overheid.nl/BWBV0004495"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Kameroen inzake het ter beschikking stellen van Nederlandse vrijwilligers in Kameroen

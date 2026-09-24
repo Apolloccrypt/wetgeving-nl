@@ -8,7 +8,7 @@ laatste_update: 1951-02-06
 status: geldig
 toestand: 1951-02-06
 bron: "https://wetten.overheid.nl/BWBV0005164"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering inhoudende een overeenkomst inzake de vereffening van wederzijdse militaire vorderingen

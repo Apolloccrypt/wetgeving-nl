@@ -8,7 +8,7 @@ laatste_update: 1970-03-17
 status: geldig
 toestand: 1970-03-17
 bron: "https://wetten.overheid.nl/BWBV0004513"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst inzake de culturele samenwerking tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-republieken

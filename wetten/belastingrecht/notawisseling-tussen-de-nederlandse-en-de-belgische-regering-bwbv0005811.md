@@ -8,7 +8,7 @@ laatste_update: 1953-09-16
 status: geldig
 toestand: 1953-09-16
 bron: "https://wetten.overheid.nl/BWBV0005811"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Belgische kantoor te Smeermaas tot internationaal douanekantoor voor de scheepvaart

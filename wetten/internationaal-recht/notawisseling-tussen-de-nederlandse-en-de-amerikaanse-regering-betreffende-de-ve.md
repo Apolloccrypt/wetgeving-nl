@@ -8,7 +8,7 @@ laatste_update: 1950-10-07
 status: geldig
 toestand: 1950-10-07
 bron: "https://wetten.overheid.nl/BWBV0005702"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering betreffende de verplichtingen, welke voortvloeien uit het gebruik van credit-saldo toegewezen aan Nederland binnen de voorwaarden van artikel 10 van de Overeenkomst tot instelling van een Europese Betalings Unie van 19 september 1950

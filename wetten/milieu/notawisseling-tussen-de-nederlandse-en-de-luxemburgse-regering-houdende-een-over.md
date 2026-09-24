@@ -8,7 +8,7 @@ laatste_update: 1956-10-31
 status: geldig
 toestand: 1956-10-31
 bron: "https://wetten.overheid.nl/BWBV0005382"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Luxemburgse Regering houdende een overeenkomst betreffende de vergoeding van oorlogs- en watersnoodschaden

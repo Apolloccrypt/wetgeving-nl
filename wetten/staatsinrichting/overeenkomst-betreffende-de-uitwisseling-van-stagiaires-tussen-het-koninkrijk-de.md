@@ -8,7 +8,7 @@ laatste_update: 1954-06-04
 status: geldig
 toestand: 1954-06-04
 bron: "https://wetten.overheid.nl/BWBV0005138"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst betreffende de uitwisseling van stagiaires tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek

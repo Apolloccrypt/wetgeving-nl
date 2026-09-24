@@ -8,7 +8,7 @@ laatste_update: 1961-07-20
 status: geldig
 toestand: 1961-07-20
 bron: "https://wetten.overheid.nl/BWBV0004504"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering inzake de uitwisseling van gegevens betreffende geestelijk gestoorden

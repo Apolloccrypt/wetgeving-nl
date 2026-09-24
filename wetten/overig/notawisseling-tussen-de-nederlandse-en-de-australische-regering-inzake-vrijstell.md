@@ -8,7 +8,7 @@ laatste_update: 1958-04-14
 status: geldig
 toestand: 1958-04-14
 bron: "https://wetten.overheid.nl/BWBV0005209"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Australische Regering inzake vrijstelling van rechten op voorraden motorbrandstof e.d. van vliegtuigen

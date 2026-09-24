@@ -8,7 +8,7 @@ laatste_update: 1957-04-12
 status: geldig
 toestand: 1957-04-12
 bron: "https://wetten.overheid.nl/BWBV0004931"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Portugese Regering betreffende identiteitspapieren voor vliegtuigbemanningen

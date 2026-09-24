@@ -8,7 +8,7 @@ laatste_update: 1960-11-01
 status: geldig
 toestand: 1960-11-01
 bron: "https://wetten.overheid.nl/BWBV0005654"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering tot uitvoering van het Verdrag van 13 april 1948 nopens de aanwijzing van het Nederlandse kantoor te De Kempen tot internationaal douanekantoor voor de scheepvaart en het wegverkeer en nopens de aanwijzing van de Nederlandse kantoren te Borkel en Schaft en te Baarle-Nassau tot internationale douanekantoren voor het wegverkeer

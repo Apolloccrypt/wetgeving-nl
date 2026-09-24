@@ -8,7 +8,7 @@ laatste_update: 2001-09-14
 status: geldig
 toestand: 2001-09-14
 bron: "https://wetten.overheid.nl/BWBV0005850"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling tussen de regering van het Koninkrijk der Nederlanden en de regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland houdende een overeenkomst inzake de uitbreiding van de toepasselijkheid van het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken tot Man

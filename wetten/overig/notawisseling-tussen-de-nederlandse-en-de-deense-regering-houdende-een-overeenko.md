@@ -8,7 +8,7 @@ laatste_update: 1952-05-08
 status: geldig
 toestand: 1952-05-08
 bron: "https://wetten.overheid.nl/BWBV0005168"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Deense Regering, houdende een overeenkomst betreffende vergoeding van tengevolge van de tweede wereldoorlog geleden oorlogsschade

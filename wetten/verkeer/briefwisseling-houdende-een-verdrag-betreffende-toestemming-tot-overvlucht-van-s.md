@@ -8,7 +8,7 @@ laatste_update: 2016-01-18
 status: geldig
 toestand: 2016-01-18
 bron: "https://wetten.overheid.nl/BWBV0005870"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling houdende een verdrag betreffende toestemming tot overvlucht van staatsluchtvaartuigen tussen het Koninkrijk der Nederlanden en de Bolivariaanse Republiek Venezuela

@@ -8,7 +8,7 @@ laatste_update: 1960-12-31
 status: geldig
 toestand: 1960-12-31
 bron: "https://wetten.overheid.nl/BWBV0005034"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Pakistan betreffende luchtdiensten

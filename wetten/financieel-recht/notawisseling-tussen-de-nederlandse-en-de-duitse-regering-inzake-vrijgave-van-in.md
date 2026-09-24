@@ -8,7 +8,7 @@ laatste_update: 1952-06-20
 status: geldig
 toestand: 1952-06-20
 bron: "https://wetten.overheid.nl/BWBV0004894"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Duitse Regering inzake vrijgave van - in Nederland als buitenlands vermogen behandelde - Duitse, in rijksmarken luidende effecten

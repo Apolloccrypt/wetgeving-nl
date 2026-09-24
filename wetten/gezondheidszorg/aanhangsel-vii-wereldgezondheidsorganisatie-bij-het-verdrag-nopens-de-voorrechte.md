@@ -8,7 +8,7 @@ laatste_update: 1948-12-02
 status: geldig
 toestand: 1948-12-02
 bron: "https://wetten.overheid.nl/BWBV0005614"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Aanhangsel VII: Wereldgezondheidsorganisatie bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties

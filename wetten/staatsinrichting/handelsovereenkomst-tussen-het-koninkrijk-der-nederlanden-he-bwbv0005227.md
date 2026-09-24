@@ -8,7 +8,7 @@ laatste_update: 1972-03-07
 status: geldig
 toestand: 1972-03-07
 bron: "https://wetten.overheid.nl/BWBV0005227"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de Spaanse Staat, anderzijds

@@ -8,7 +8,7 @@ laatste_update: 1955-05-07
 status: geldig
 toestand: 1955-05-07
 bron: "https://wetten.overheid.nl/BWBV0004988"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering inzake klein grensverkeer

@@ -8,7 +8,7 @@ laatste_update: 1974-01-01
 status: geldig
 toestand: 1974-01-01
 bron: "https://wetten.overheid.nl/BWBV0005246"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied

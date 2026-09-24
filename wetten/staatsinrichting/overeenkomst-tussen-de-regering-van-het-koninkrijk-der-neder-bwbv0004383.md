@@ -8,7 +8,7 @@ laatste_update: 1970-11-18
 status: geldig
 toestand: 1970-11-18
 bron: "https://wetten.overheid.nl/BWBV0004383"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika inzake Amerikaanse Militaire Begraafplaatsen

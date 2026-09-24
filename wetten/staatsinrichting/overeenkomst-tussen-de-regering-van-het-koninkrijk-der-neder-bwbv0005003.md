@@ -8,7 +8,7 @@ laatste_update: 1973-10-24
 status: geldig
 toestand: 1973-10-24
 bron: "https://wetten.overheid.nl/BWBV0005003"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Gemenebest van Australië voor de instelling van luchtdiensten

@@ -8,7 +8,7 @@ laatste_update: 1951-01-24
 status: geldig
 toestand: 1951-01-24
 bron: "https://wetten.overheid.nl/BWBV0005834"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Derde Aanvullend Protocol bij de op 5 december 1947 te Brussel gesloten Overeenkomst betreffende onderling strijdige aanspraken op buiten Duitsland gelegen Duitse bezittingen, en bij het op 3 februari 1949 te Brussel gesloten Eerste Aanvullend Protocol, en bij het op 10 mei 1950 te Brussel gesloten Tweede Aanvullend Protocol, ondertekend te Brussel op 24 januari 1951

@@ -8,7 +8,7 @@ laatste_update: 1960-04-01
 status: geldig
 toestand: 1960-04-01
 bron: "https://wetten.overheid.nl/BWBV0004835"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Volksrepubliek Bulgarije, anderzijds

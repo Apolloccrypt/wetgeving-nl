@@ -8,7 +8,7 @@ laatste_update: 1959-11-01
 status: geldig
 toestand: 1959-11-01
 bron: "https://wetten.overheid.nl/BWBV0004820"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering houdende een overeenkomst betreffende de bestrijding van veeziekten in de grensgebieden

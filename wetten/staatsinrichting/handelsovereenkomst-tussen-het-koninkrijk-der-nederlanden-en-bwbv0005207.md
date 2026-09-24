@@ -8,7 +8,7 @@ laatste_update: 1960-05-28
 status: geldig
 toestand: 1960-05-28
 bron: "https://wetten.overheid.nl/BWBV0005207"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Unie, enerzijds, en de Republiek Honduras, anderzijds

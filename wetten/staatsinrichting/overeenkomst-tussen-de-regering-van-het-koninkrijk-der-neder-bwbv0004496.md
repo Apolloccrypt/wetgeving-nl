@@ -8,7 +8,7 @@ laatste_update: 2012-09-30
 status: geldig
 toestand: 2012-09-30
 bron: "https://wetten.overheid.nl/BWBV0004496"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Kenya inzake tewerkstelling van Nederlandse vrijwilligers in Kenya

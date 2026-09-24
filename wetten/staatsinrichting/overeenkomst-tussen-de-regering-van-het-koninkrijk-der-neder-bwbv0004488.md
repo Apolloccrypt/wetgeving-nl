@@ -8,7 +8,7 @@ laatste_update: 1970-06-01
 status: geldig
 toestand: 1970-06-01
 bron: "https://wetten.overheid.nl/BWBV0004488"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Gabon inzake het luchtvervoer

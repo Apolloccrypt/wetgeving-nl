@@ -8,7 +8,7 @@ laatste_update: 1959-04-18
 status: geldig
 toestand: 1959-04-18
 bron: "https://wetten.overheid.nl/BWBV0004893"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Oostenrijkse Bondsregering inzake wederzijdse erkenning van rijbewijzen

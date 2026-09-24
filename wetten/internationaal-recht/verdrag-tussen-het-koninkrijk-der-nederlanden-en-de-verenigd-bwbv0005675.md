@@ -8,7 +8,7 @@ laatste_update: 1950-01-27
 status: geldig
 toestand: 1950-01-27
 bron: "https://wetten.overheid.nl/BWBV0005675"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot wederzijdse hulpverlening inzake verdediging

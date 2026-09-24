@@ -9,7 +9,7 @@ laatste_update: 2026-09-19
 status: geldig
 toestand: 2026-09-19
 bron: "https://wetten.overheid.nl/BWBR0040810"
-opgehaald: 2026-09-23
+opgehaald: 2026-09-24
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 26 maart 2018, nr. 2214982 houdende de aanwijzing van merk en type van wapens, munitie, draagmiddelen en uitrusting van de politie (Aanwijzingsbesluit bewapening en uitrusting politie 2018)

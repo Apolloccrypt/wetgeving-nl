@@ -8,7 +8,7 @@ laatste_update: 1966-06-25
 status: geldig
 toestand: 1966-06-25
 bron: "https://wetten.overheid.nl/BWBV0004390"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Arabische Republiek inzake de instelling van geregelde luchtdiensten tussen en via hun onderscheiden grondgebieden

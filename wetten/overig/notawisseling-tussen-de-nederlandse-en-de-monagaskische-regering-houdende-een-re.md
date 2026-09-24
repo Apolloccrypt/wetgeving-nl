@@ -8,7 +8,7 @@ laatste_update: 1955-02-23
 status: geldig
 toestand: 1955-02-23
 bron: "https://wetten.overheid.nl/BWBV0005338"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Monagaskische Regering houdende een regeling inzake de wederzijdse vestiging van tandartsen

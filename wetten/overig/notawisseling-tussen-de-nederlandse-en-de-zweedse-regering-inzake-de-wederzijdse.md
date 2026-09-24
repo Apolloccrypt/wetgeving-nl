@@ -8,7 +8,7 @@ laatste_update: 1957-06-01
 status: geldig
 toestand: 1957-06-01
 bron: "https://wetten.overheid.nl/BWBV0004872"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Zweedse Regering inzake de wederzijdse erkenning van nationale rijbewijzen

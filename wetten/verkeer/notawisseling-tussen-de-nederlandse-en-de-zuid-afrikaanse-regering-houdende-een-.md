@@ -8,7 +8,7 @@ laatste_update: 1935-04-01
 status: geldig
 toestand: 1935-04-01
 bron: "https://wetten.overheid.nl/BWBV0005957"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Zuid-Afrikaanse Regering houdende een overeenkomst ter voorlopige regeling van handels- en scheepvaartbetrekkingen tussen het Koninkrijk der Nederlanden en de Unie van Zuid-Afrika

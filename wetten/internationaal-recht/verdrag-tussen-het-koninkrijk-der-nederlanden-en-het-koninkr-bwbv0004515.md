@@ -8,7 +8,7 @@ laatste_update: 1996-07-01
 status: geldig
 toestand: 1996-07-01
 bron: "https://wetten.overheid.nl/BWBV0004515"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de verbinding tussen de Schelde en de Rijn

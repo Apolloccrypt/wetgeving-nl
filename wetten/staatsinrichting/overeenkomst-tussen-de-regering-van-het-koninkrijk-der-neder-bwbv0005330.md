@@ -8,7 +8,7 @@ laatste_update: 1963-06-12
 status: geldig
 toestand: 1963-06-12
 bron: "https://wetten.overheid.nl/BWBV0005330"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tunesische Republiek inzake luchtvervoer

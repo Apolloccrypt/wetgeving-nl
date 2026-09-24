@@ -8,7 +8,7 @@ laatste_update: 1953-04-29
 status: geldig
 toestand: 1953-04-29
 bron: "https://wetten.overheid.nl/BWBV0004995"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk België houdende een overeenkomst inzake het kosteloos verstrekken van afschriften van akten van de Burgerlijke Stand

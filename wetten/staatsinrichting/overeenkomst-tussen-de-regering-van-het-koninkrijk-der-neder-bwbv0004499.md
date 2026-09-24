@@ -8,7 +8,7 @@ laatste_update: 2012-10-19
 status: geldig
 toestand: 2012-10-19
 bron: "https://wetten.overheid.nl/BWBV0004499"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zambia, inzake het ter beschikking stellen van Nederlandse vrijwilligers in Zambia

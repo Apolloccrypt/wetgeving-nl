@@ -8,7 +8,7 @@ laatste_update: 1929-11-30
 status: geldig
 toestand: 1929-11-30
 bron: "https://wetten.overheid.nl/BWBV0005943"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Turkse regering tot voorlopige regeling der handelsbetrekkingen tussen Nederland en Turkije

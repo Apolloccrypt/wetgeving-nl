@@ -8,7 +8,7 @@ laatste_update: 1951-02-12
 status: geldig
 toestand: 1951-02-12
 bron: "https://wetten.overheid.nl/BWBV0004985"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Internationale Vluchtelingenorganisatie houdende een aanvullende overeenkomst op de Overeenkomst van 20 juni 1950 inzake bijstand aan vluchtelingen

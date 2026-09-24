@@ -8,7 +8,7 @@ laatste_update: 1961-10-25
 status: geldig
 toestand: 1961-10-25
 bron: "https://wetten.overheid.nl/BWBV0004344"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging van grenscontrole in het spoorwegverkeer
@@ -23,13 +23,21 @@ AUSWÄRTIGES AMT
 
 Das Auswärtige Amt beehrt sich, der Botschaft des Königreichs der Niederlande unter Bezugnahme auf Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenlegung der Grenzabfertigung und über die Einrichtung von Gemeinschafts- oder Betriesbswechselbahnhöfen an der deutsch-niederländischen Grenze mitzuteilen, dass die Regierung der Bundesrepublik Deutschland das Schreiben des Bundesministers der Finanzen vom 15. August 1961 — III A/5 — Z 2106 (Nie) — 40/61 — und das Schreiben des niederländischen Staatssekretärs der Finanzen vom 14. September 1961 — B 1/15161 — zur Kenntnis genommen hat, mit denen durch Vereinbarung, gemäss Artikel 1 Absatz 4 Buchstaben *a* und *b* des Abkommens folgende Regelung getroffen wird:
 
+### I
+
 In den Bahnhöfen Simpelveld, Venlo, Nijmegen und Enschede wird die Grenzabfertigung im Eisenbahnverkehr zusammengelegt.
+
+### II
 
 - 1. In Reisezügen kann die Grenzabfertigung während der Fahrt zwischen den Bahnhöfen Aachen-Hbf.—Aachen-West—Simpelveld—Maastricht, Mönchen-Gladbach—Kaldenkirchen—Venlo—Eindhoven, Kleve—Kranenburg—Nijmegen, Oberhausen—Wesel—Emmerich—Zevenaar—Arnhem, Gronau—Enschede, Rheine—Bentheim—Oldenzaal—Hengelo, Leer—Weener—Nieuwe Schans durchgeführt werden.
 
 - 2. Die zuständige Oberfinanzdirektion und das zuständige Grenzschutzamt einerseits und der zuständige Directeur van 's Rijks belastingen andererseits bestimmen im Namen der zuständigen Minister im Einvernehmen mit der Deutschen Bundesbahn und den zuständigen niederländischen Behörden bei Bedarf für jeden Zug besonders die Strecken, auf denen die Grenzabfertigung stattfindet. Die strekken können in jedem der in Absatz 1 genannten Bahnhöfe beginnen oder enden.
 
+### III
+
 Die Regelungen nach I. und II. beschränken sich auf den Eisenbahnpersonenverkehr einschliesslich des Reisegepäckverkehrs und des Expressgutverkehrs in Reisezügen.
+
+### IV
 
 - 1. Die Zonen im Sinne des Artikels 3 des Abkommens umfassen
 

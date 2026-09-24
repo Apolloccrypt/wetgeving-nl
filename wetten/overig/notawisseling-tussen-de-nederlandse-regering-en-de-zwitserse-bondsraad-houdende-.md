@@ -8,7 +8,7 @@ laatste_update: 1958-03-01
 status: geldig
 toestand: 1958-03-01
 bron: "https://wetten.overheid.nl/BWBV0004745"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Zwitserse Bondsraad houdende een overeenkomst inzake de afschaffing van paspoort- en visumplicht

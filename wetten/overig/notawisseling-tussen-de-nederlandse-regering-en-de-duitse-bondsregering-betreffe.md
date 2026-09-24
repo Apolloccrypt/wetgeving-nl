@@ -8,7 +8,7 @@ laatste_update: 1957-08-24
 status: geldig
 toestand: 1957-08-24
 bron: "https://wetten.overheid.nl/BWBV0005359"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering betreffende kustlichten

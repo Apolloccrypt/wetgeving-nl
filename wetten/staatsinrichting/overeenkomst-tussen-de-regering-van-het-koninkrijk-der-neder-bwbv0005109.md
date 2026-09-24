@@ -8,7 +8,7 @@ laatste_update: 1959-07-27
 status: geldig
 toestand: 1959-07-27
 bron: "https://wetten.overheid.nl/BWBV0005109"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika tot samenwerking op het gebied van het gebruik van atoomenergie voor de wederzijdse verdediging

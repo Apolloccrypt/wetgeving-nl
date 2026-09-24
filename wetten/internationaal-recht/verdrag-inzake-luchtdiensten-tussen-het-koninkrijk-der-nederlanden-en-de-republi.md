@@ -8,7 +8,7 @@ laatste_update: 2015-05-01
 status: geldig
 toestand: 2015-05-01
 bron: "https://wetten.overheid.nl/BWBV0005857"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Republiek Zambia

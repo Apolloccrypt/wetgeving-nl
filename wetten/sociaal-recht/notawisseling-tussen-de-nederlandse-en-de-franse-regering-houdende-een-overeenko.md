@@ -8,7 +8,7 @@ laatste_update: 1951-11-01
 status: geldig
 toestand: 1951-11-01
 bron: "https://wetten.overheid.nl/BWBV0005689"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Franse Regering houdende een Overeenkomst inzake de uitlegging van artikel 18, eerste lid, van de Algemene Overeenkomst inzake sociale zekerheid van 7 januari 1950

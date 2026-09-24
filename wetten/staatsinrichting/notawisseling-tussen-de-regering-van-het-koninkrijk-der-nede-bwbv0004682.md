@@ -8,7 +8,7 @@ laatste_update: 1985-06-10
 status: geldig
 toestand: 1985-06-10
 bron: "https://wetten.overheid.nl/BWBV0004682"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenwerking van de grenscontrole aan de grensovergang Oldenzaal-autoweg/Bad Bentheim-Autobahn

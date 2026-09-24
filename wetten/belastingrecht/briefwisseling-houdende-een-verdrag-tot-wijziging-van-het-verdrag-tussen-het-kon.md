@@ -8,7 +8,7 @@ laatste_update: 2012-08-06
 status: geldig
 toestand: 2012-08-06
 bron: "https://wetten.overheid.nl/BWBV0005866"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Briefwisseling houdende een Verdrag tot wijziging van het Verdrag tussen het Koninkrijk der Nederlanden en Japan tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen

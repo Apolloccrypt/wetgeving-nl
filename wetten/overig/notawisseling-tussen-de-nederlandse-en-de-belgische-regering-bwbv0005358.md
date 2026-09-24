@@ -8,7 +8,7 @@ laatste_update: 1959-03-16
 status: geldig
 toestand: 1959-03-16
 bron: "https://wetten.overheid.nl/BWBV0005358"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering houdende een overeenkomst inzake de verwijdering van ongewenste personen
@@ -22,6 +22,8 @@ Brussel, 14 januari 1958
 Mijnheer de Minister,
 
 Ik heb de eer ter kennis van Uwe Excellentie te brengen dat de Nederlandse Regering bereid is met de Belgische Regering de volgende overeenkomst te sluiten betreffende de verwijdering van ongewenste personen uit België naar Nederland en uit Nederland naar België.
+
+### Afdeling A. Verwijdering (uitwijzing, terugwijzing of terugdrijving) van personen uit België naar Nederland
 
 ##### Artikel 1
 
@@ -59,6 +61,8 @@ die de Belgische Regering voornemens is van haar grondgebied te verwijderen. Het
 
 5. De Belgische Regering zal de personen, ten aanzien van wie na onderzoek door de Nederlandse autoriteiten werd vastgesteld dat de in lid 1 van dit artikel opgenomen bepalingen op hen niet van toepassing zijn, terugnemen. Deze terugneming zal geschieden, mits daarvan twee weken tevoren door de Nederlandse autoriteiten aan het Belgische Ministerie van Justitie (Bestuur van de Openbare Veiligheid) kennis wordt gegeven. Een afschrift van vorengenoemde kennisgeving zal gelijktijdig aan de betrokken doorlaatpost worden gezonden.
 
+### Afdeling B. Verwijdering van personen uit Nederland naar België
+
 ##### Artikel 4
 
 1. De Belgische Regering zal, zonder dat daartoe enige formaliteit is vereist, de Belgische onderdanen, die de Nederlandse Regering voornemens is van haar grondgebied te verwijderen, terugnemen, zelfs indien deze personen geen houder zijn van één van de in lid 2 van dit artikel genoemde documenten, doch alleen in geval er alle aanleiding is te veronderstellen dat deze personen de Belgische nationaliteit bezitten
@@ -93,6 +97,8 @@ De personen die op onregelmatige wijze, via de Belgisch-Nederlandse grens, in Ne
 
 5. De Nederlandse Regering zal de personen, ten aanzien van wie na onderzoek door de Belgische autoriteiten werd vastgesteld dat de in lid 1 van dit artikel opgenomen bepalingen op hen niet van toepassing zijn, terugnemen. Deze terugneming zal geschieden, mits daarvan twee weken tevoren door de Belgische autoriteiten aan het Nederlandse Ministerie van Justitie (Afdeling Vreemdelingenzaken en Grensbewaking) kennis wordt gegeven. Een afschrift van vorengenoemde kennisgeving zal gelijktijdig aan de betrokken doorlaatpost worden gezonden.
 
+### Afdeling C. Algemene bepalingen
+
 ##### Artikel 7
 
 De onderhavige overeenkomst maakt geen inbreuk op het bepaalde in de Belgisch-Nederlandse overeenkomst van 16 februari 1955 betreffende de afschaffing van visa voor houders van Belgische en Nederlandse vluchtelingenpaspoorten.
@@ -108,6 +114,8 @@ De doorlaatposten, waar de terbeschikkingstelling plaats heeft van personen ten 
 ##### Artikel 10
 
 De bevoegde autoriteiten van beide landen zullen elkaar zoveel mogelijk medewerking verlenen bij de verwijdering van ongewenste personen naar derde landen.
+
+### Afdeling D. Slotbepalingen
 
 ##### Artikel 11
 

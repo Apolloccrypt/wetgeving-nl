@@ -8,7 +8,7 @@ laatste_update: 1957-05-15
 status: geldig
 toestand: 1957-05-15
 bron: "https://wetten.overheid.nl/BWBV0004808"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Egyptische Regering inzake belastingvrijstelling van luchtvaartondernemingen

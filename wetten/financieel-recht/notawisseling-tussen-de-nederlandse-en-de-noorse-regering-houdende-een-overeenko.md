@@ -8,7 +8,7 @@ laatste_update: 1959-08-20
 status: geldig
 toestand: 1959-08-20
 bron: "https://wetten.overheid.nl/BWBV0004859"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Noorse Regering houdende een overeenkomst betreffende de uitgifte van effecten aan het andere land, die volgens de wetgeving van beide landen, als Duits vijandelijk vermogen worden beschouwd

@@ -8,7 +8,7 @@ laatste_update: 1951-07-10
 status: geldig
 toestand: 1951-07-10
 bron: "https://wetten.overheid.nl/BWBV0005062"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regeringen van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Canada, Australië, Nieuw-Zeeland, de Unie van Zuid-Afrika, India en Pakistan nopens de graven van leden van de Strijdkrachten van het Britse Gemenebest op Nederlands grondgebied

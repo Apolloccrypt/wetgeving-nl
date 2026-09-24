@@ -8,7 +8,7 @@ laatste_update: 1965-03-18
 status: geldig
 toestand: 1965-03-18
 bron: "https://wetten.overheid.nl/BWBV0005234"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Aanhangsel VII (derde herziening): Wereldgezondheidsorganisatie bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties

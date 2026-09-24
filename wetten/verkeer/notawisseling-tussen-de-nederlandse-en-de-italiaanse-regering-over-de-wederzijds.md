@@ -8,7 +8,7 @@ laatste_update: 1927-06-28
 status: geldig
 toestand: 1927-06-28
 bron: "https://wetten.overheid.nl/BWBV0006000"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Notawisseling tussen de Nederlandse en de Italiaanse Regering over de wederzijdse erkenning van scheepvaartwetten en scheepspapieren

@@ -8,7 +8,7 @@ laatste_update: 1976-06-01
 status: geldig
 toestand: 1976-06-01
 bron: "https://wetten.overheid.nl/BWBV0004771"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-24
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland nopens de samenvoeging van de grenscontrole en de instelling van gemeenschappelijke spoorwegstations of van grensaflosstations aan de Nederlands-Duitse grens
