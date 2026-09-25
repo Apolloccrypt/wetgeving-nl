@@ -8,7 +8,7 @@ laatste_update: 2013-12-01
 status: geldig
 toestand: 2013-12-01
 bron: "https://wetten.overheid.nl/BWBV0006326"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (GNSS) tussen de Europese Gemeenschap en haar Lidstaten en Oekraïne

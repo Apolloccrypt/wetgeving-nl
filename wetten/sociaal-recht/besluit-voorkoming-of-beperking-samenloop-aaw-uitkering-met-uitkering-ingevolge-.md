@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0003064"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 19 oktober 1976, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 43, van de Algemene Arbeidsongeschiktheidswet

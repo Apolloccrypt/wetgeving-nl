@@ -9,7 +9,7 @@ laatste_update: 1971-10-01
 status: geldig
 toestand: 1971-10-01
 bron: "https://wetten.overheid.nl/BWBR0002742"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 7 januari 1971, houdende regelen inzake de opheffing van de afdeling effectenregistratie van de Raad voor het Rechtsherstel

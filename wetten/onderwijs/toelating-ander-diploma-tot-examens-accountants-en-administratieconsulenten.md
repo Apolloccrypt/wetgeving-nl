@@ -8,7 +8,7 @@ laatste_update: 1980-03-28
 status: geldig
 toestand: 1980-03-28
 bron: "https://wetten.overheid.nl/BWBR0003304"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Toelating ander diploma tot examens accountants- en administratieconsulenten

@@ -8,7 +8,7 @@ laatste_update: 2016-05-01
 status: geldig
 toestand: 2016-05-01
 bron: "https://wetten.overheid.nl/BWBV0006336"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling houdende een Verdrag tussen het Koninkrijk der Nederlanden en het Restmechanisme voor het Speciaal Hof voor Sierra Leone betreffende de zetel van het Restmechanisme voor het Speciaal Hof voor Sierra Leone

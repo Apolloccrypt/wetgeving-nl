@@ -9,7 +9,7 @@ laatste_update: 2008-09-01
 status: geldig
 toestand: 2008-09-01
 bron: "https://wetten.overheid.nl/BWBR0002773"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 29 juni 1971, houdende regelen betreffende de wijze van kennisgeving en oproeping in zaken van echtscheiding, scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed

@@ -7,7 +7,7 @@ laatste_update: 2026-06-24
 status: geldig
 toestand: 2026-06-24
 bron: "https://wetten.overheid.nl/BWBV0007160"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontduiken en ontwijken van belasting

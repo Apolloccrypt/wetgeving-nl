@@ -9,7 +9,7 @@ laatste_update: 1979-06-01
 status: geldig
 toestand: 1979-06-01
 bron: "https://wetten.overheid.nl/BWBR0003218"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Gelijkstelling keuringscertificaten inzake aan bederf onderhevige levensmiddelen

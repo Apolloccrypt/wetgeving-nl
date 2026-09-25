@@ -8,7 +8,7 @@ laatste_update: 1988-11-08
 status: geldig
 toestand: 1988-11-08
 bron: "https://wetten.overheid.nl/BWBV0006857"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen de Nederlandse en de Amerikaanse Regering ter aanvulling van de briefwisseling van 7 oktober 1952 houdende uitvoering van artikel III van de Overeenkomst tot economische samenwerking tussen de Regeringen van het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika

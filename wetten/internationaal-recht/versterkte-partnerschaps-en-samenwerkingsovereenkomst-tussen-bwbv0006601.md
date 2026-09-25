@@ -8,7 +8,7 @@ laatste_update: 2020-03-01
 status: geldig
 toestand: 2020-03-01
 bron: "https://wetten.overheid.nl/BWBV0006601"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Versterkte Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Kazachstan, anderzijds

@@ -8,7 +8,7 @@ laatste_update: 1980-10-28
 status: geldig
 toestand: 1980-10-28
 bron: "https://wetten.overheid.nl/BWBR0003309"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Regeling ter uitvoering van de Wet openbaarheid van bestuur (justitie)

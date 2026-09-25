@@ -8,7 +8,7 @@ laatste_update: 2013-11-27
 status: geldig
 toestand: 2013-11-27
 bron: "https://wetten.overheid.nl/BWBV0006300"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van het ORCA-veld

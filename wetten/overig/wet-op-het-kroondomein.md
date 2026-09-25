@@ -9,7 +9,7 @@ laatste_update: 1997-04-25
 status: geldig
 toestand: 1997-04-25
 bron: "https://wetten.overheid.nl/BWBR0002752"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 16 maart 1971, houdende nadere voorzieningen inzake de door wijlen Hare Koninklijke Hoogheid Prinses Wilhelmina der Nederlanden in 1959 aan de staat gedane schenking (Wet op het Kroondomein 1959)

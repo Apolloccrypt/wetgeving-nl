@@ -8,7 +8,7 @@ laatste_update: 2014-09-01
 status: geldig
 toestand: 2014-09-01
 bron: "https://wetten.overheid.nl/BWBV0006222"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Verenigde Mexicaanse Staten inzake de uitwisseling van informatie betreffende belastingen

@@ -9,7 +9,7 @@ laatste_update: 1971-11-01
 status: geldig
 toestand: 1971-11-01
 bron: "https://wetten.overheid.nl/BWBR0002790"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 1 november 1971, houdende wijziging van de regeling betreffende de coördinatie van de civiele verdediging en van de taakverdeling van departementen

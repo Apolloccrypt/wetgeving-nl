@@ -8,7 +8,7 @@ laatste_update: 2023-05-01
 status: geldig
 toestand: 2023-05-01
 bron: "https://wetten.overheid.nl/BWBV0006974"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Staat Koeweit

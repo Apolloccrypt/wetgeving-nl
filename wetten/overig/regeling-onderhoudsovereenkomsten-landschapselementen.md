@@ -8,7 +8,7 @@ laatste_update: 1995-05-19
 status: geldig
 toestand: 1995-05-19
 bron: "https://wetten.overheid.nl/BWBR0003126"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Regeling onderhoudsovereenkomsten landschapselementen

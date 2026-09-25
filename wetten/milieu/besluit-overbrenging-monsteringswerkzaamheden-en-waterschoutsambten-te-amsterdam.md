@@ -9,7 +9,7 @@ laatste_update: 1978-01-01
 status: geldig
 toestand: 1978-01-01
 bron: "https://wetten.overheid.nl/BWBR0003123"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 23 augustus 1977, houdende overbrenging van de monsteringswerkzaamheden alsmede van de Waterschoutsambten te Amsterdam en Rotterdam van het Departement van Justitie naar het Departement van Verkeer en Waterstaat

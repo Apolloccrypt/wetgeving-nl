@@ -8,7 +8,7 @@ laatste_update: 1970-11-01
 status: geldig
 toestand: 1970-11-01
 bron: "https://wetten.overheid.nl/BWBR0002720"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Curatele- en huwelijksgoederenregister

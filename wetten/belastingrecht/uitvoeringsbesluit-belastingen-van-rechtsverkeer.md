@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0002770"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 22 juni 1971 tot vaststelling van het Uitvoeringsbesluit belastingen van rechtsverkeer

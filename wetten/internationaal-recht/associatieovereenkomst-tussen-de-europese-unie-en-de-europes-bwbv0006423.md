@@ -8,7 +8,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBV0006423"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Moldavië, anderzijds

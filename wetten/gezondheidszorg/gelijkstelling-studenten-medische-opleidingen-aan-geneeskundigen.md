@@ -8,7 +8,7 @@ laatste_update: 1981-09-24
 status: geldig
 toestand: 1981-09-24
 bron: "https://wetten.overheid.nl/BWBR0003436"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Gelijkstelling studenten medische opleidingen aan geneeskundigen

@@ -7,7 +7,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBV0006361"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake de uitbreiding tot Aruba, Curaçao en Sint Maarten van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en het voorkomen, onderzoeken en bestrijden van inbreuken op de douanewetgeving

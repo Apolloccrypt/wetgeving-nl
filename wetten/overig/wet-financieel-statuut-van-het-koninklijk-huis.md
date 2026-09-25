@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0002845"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 22 november 1972, houdende regeling van het financieel statuut van het Koninklijk Huis

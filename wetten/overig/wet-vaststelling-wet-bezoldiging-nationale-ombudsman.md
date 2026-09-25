@@ -9,7 +9,7 @@ laatste_update: 1993-04-01
 status: geldig
 toestand: 1993-04-01
 bron: "https://wetten.overheid.nl/BWBR0003430"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 26 augustus 1981, houdende regeling van de bezoldiging van de Nationale ombudsman en van de substituut-ombudsmannen, en wijziging van een aantal wetten

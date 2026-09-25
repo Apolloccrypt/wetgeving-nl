@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0003351"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 1 november 1980, houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten (Trb. 1966, 152)

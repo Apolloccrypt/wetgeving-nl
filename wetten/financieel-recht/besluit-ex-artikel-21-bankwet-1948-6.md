@@ -9,7 +9,7 @@ laatste_update: 1981-08-05
 status: geldig
 toestand: 1981-08-05
 bron: "https://wetten.overheid.nl/BWBR0003421"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 9 juli 1981, houdende goedkeuring van uitbreiding van de werkzaamheden van De Nederlandsche Bank N.V.

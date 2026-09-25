@@ -8,7 +8,7 @@ laatste_update: 2022-12-19
 status: geldig
 toestand: 2022-12-19
 bron: "https://wetten.overheid.nl/BWBV0006943"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) inzake de hernieuwing van het International Groundwater Resources Assessment Centre (IGRAC) in Nederland als een categorie 2 centrum onder auspiciën van UNESCO

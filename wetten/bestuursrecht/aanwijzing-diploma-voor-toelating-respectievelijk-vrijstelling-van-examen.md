@@ -9,7 +9,7 @@ laatste_update: 1978-01-31
 status: geldig
 toestand: 1978-01-31
 bron: "https://wetten.overheid.nl/BWBR0003152"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Examenbesluit accountants-administratieconsulenten: Aanwijzing diploma voor ‘toelating’ respectievelijk vrijstelling van examen

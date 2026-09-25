@@ -8,7 +8,7 @@ laatste_update: 2004-04-01
 status: geldig
 toestand: 2004-04-01
 bron: "https://wetten.overheid.nl/BWBR0003256"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit afgifte bewijzen van betrouwbaarheid ex artikel 37 Eerste richtlijn van de Raad voor de Europese Gemeenschappen van 5 maart 1979

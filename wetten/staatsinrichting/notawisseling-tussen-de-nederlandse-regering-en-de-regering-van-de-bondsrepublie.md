@@ -8,7 +8,7 @@ laatste_update: 1975-08-04
 status: geldig
 toestand: 1975-08-04
 bron: "https://wetten.overheid.nl/BWBV0006096"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Regering van de Bondsrepubliek Duitsland met betrekking tot het op 2 juli 1824 te Meppen ondertekende Grenstractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk Hannover

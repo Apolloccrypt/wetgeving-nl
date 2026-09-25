@@ -8,7 +8,7 @@ laatste_update: 1981-04-06
 status: geldig
 toestand: 1981-04-06
 bron: "https://wetten.overheid.nl/BWBV0006706"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Briefwisseling houdende een verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika inzake de beveiliging van gerubriceerde gegevens

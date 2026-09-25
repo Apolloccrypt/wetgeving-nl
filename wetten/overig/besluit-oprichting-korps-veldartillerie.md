@@ -9,7 +9,7 @@ laatste_update: 1974-11-20
 status: geldig
 toestand: 1974-11-20
 bron: "https://wetten.overheid.nl/BWBR0002936"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 2 september 1974, houdende oprichting van het Korps veldartillerie

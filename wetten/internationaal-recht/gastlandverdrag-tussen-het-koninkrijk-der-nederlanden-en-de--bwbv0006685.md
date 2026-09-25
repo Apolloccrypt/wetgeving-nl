@@ -8,7 +8,7 @@ laatste_update: 2020-02-19
 status: geldig
 toestand: 2020-02-19
 bron: "https://wetten.overheid.nl/BWBV0006685"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende het United Nations Office for the Coordination of Humanitarian Affairs in Den Haag

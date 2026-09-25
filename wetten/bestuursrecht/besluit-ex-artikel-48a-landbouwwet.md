@@ -9,7 +9,7 @@ laatste_update: 1979-10-04
 status: geldig
 toestand: 1979-10-04
 bron: "https://wetten.overheid.nl/BWBR0003261"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 22 augustus 1979, houdende regelen ter uitvoering van artikel 48a, eerste lid, van de Landbouwwet

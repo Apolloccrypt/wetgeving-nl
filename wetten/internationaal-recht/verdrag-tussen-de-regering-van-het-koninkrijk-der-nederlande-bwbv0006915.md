@@ -8,7 +8,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBV0006915"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake samenwerking op defensiegebied en de status van hun strijdkrachten op de grondgebieden in de Caraïben en Zuid-Amerika van de Franse Republiek en het Koninkrijk der Nederlanden

@@ -8,7 +8,7 @@ laatste_update: 2019-01-30
 status: geldig
 toestand: 2019-01-30
 bron: "https://wetten.overheid.nl/BWBV0006715"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling houdende een verdrag tussen de regering van het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de regering van de Franse Republiek inzake de rechtspositie van Franse militairen en andere onderdelen van de Franse overheid in het kader van de nasleep van orkaan Irma

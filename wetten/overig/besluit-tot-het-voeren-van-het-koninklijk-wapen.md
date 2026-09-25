@@ -9,7 +9,7 @@ laatste_update: 1980-05-19
 status: geldig
 toestand: 1980-05-19
 bron: "https://wetten.overheid.nl/BWBR0003312"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 23 april 1980, tot het voeren van het Koninklijk wapen

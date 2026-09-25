@@ -8,7 +8,7 @@ laatste_update: 2017-08-23
 status: geldig
 toestand: 2017-08-23
 bron: "https://wetten.overheid.nl/BWBV0006651"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) inzake het International Groundwater Resources Assessment Centre in Nederland als een centrum onder auspiciën van UNESCO (categorie 2)

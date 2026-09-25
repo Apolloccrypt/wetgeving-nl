@@ -9,7 +9,7 @@ laatste_update: 2023-02-18
 status: geldig
 toestand: 2023-02-18
 bron: "https://wetten.overheid.nl/BWBR0002747"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 28 januari 1971, houdende nieuwe regelen omtrent de medezeggenschap van de werknemers in de onderneming door middel van ondernemingsraden

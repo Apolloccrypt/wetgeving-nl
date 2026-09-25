@@ -8,7 +8,7 @@ laatste_update: 2017-06-13
 status: geldig
 toestand: 2017-06-13
 bron: "https://wetten.overheid.nl/BWBV0006599"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de VN Wereld Toerisme Organisatie (UNWTO) ten behoeve van het houden van een UNWTO-conferentie inzake religieus erfgoed en toerisme: “How to increase religious heritage tourism in a changing society”

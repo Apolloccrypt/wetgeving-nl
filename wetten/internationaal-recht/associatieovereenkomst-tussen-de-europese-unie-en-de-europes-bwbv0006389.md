@@ -8,7 +8,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBV0006389"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en Oekraïne, anderzijds

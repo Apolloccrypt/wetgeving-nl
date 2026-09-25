@@ -8,7 +8,7 @@ laatste_update: 1980-05-09
 status: geldig
 toestand: 1980-05-09
 bron: "https://wetten.overheid.nl/BWBR0003313"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Vervallen en afzonderlijk verzoek om teruggaaf o.g.v. art. 29, lid 1, letter b, Wet OB’68

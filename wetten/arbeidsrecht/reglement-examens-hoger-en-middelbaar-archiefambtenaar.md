@@ -8,7 +8,7 @@ laatste_update: 1971-08-04
 status: geldig
 toestand: 1971-08-04
 bron: "https://wetten.overheid.nl/BWBR0002765"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Reglement examens hoger en middelbaar archiefambtenaar

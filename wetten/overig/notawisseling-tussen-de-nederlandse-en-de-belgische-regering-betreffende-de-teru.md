@@ -8,7 +8,7 @@ laatste_update: 1933-03-17
 status: geldig
 toestand: 1933-03-17
 bron: "https://wetten.overheid.nl/BWBV0006137"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering betreffende de terugleiding van minderjarigen

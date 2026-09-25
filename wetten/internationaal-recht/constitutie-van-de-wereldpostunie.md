@@ -8,7 +8,7 @@ laatste_update: 2023-06-06
 status: geldig
 toestand: 2023-06-06
 bron: "https://wetten.overheid.nl/BWBV0004459"
-opgehaald: 2026-09-24
+opgehaald: 2026-09-25
 ---
 
 # Constitutie van de Wereldpostunie

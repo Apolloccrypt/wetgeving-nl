@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0002948"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 19 december 1974, houdende regelen met betrekking tot de prijzen en de tarieven voor het leveren van aardgas

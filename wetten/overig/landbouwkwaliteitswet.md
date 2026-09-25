@@ -9,7 +9,7 @@ laatste_update: 2021-03-01
 status: geldig
 toestand: 2021-03-01
 bron: "https://wetten.overheid.nl/BWBR0002755"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 8 april 1971, houdende een algemene regeling betreffende de kwaliteit van voortbrengselen van de landbouw en de visserij

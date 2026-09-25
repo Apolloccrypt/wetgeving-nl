@@ -8,7 +8,7 @@ laatste_update: 2018-04-01
 status: geldig
 toestand: 2018-04-01
 bron: "https://wetten.overheid.nl/BWBV0006691"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Verenigde Staten van Amerika inzake het luchtvervoer tussen Sint Maarten en de Verenigde Staten van Amerika

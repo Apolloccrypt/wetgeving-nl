@@ -8,7 +8,7 @@ laatste_update: 2021-09-01
 status: geldig
 toestand: 2021-09-01
 bron: "https://wetten.overheid.nl/BWBV0006841"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Republiek Moldavië houdende een verdrag tot uitbreiding van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Moldavië inzake wederzijdse administrative bijstand in douanezaken tot Aruba, Curaçao en Sint Maarten

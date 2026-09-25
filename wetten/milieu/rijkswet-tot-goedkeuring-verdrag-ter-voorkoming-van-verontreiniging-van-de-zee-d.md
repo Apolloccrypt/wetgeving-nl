@@ -9,7 +9,7 @@ laatste_update: 1977-07-20
 status: geldig
 toestand: 1977-07-20
 bron: "https://wetten.overheid.nl/BWBR0003112"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Rijkswet van 23 juni 1977, tot goedkeuring van het op 29 december 1972 te Londen tot stand gekomen Verdrag ter voorkoming van de verontreiniging van de zee door het storten van afval en vuil, met Bijlagen (Trb. 1973, 172)

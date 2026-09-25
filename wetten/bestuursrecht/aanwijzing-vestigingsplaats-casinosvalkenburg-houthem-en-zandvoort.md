@@ -9,7 +9,7 @@ laatste_update: 1976-03-10
 status: geldig
 toestand: 1976-03-10
 bron: "https://wetten.overheid.nl/BWBR0003020"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Vestigingsplaatsen speelcasino's/Aanwijzing gemeenten Valkenburg-Houthem

@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0002979"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 26 juni 1975, houdende voorlopige regeling schadefonds geweldsmisdrijven

@@ -8,7 +8,7 @@ laatste_update: 1981-07-14
 status: geldig
 toestand: 1981-07-14
 bron: "https://wetten.overheid.nl/BWBR0002953"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Aanwijzing autoriteiten met betrekking tot disciplinaire straffen en beklag

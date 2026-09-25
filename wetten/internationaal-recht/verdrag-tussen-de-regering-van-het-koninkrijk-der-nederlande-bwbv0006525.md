@@ -8,7 +8,7 @@ laatste_update: 2015-06-09
 status: geldig
 toestand: 2015-06-09
 bron: "https://wetten.overheid.nl/BWBV0006525"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Burkina Faso inzake de status van civiel en militair personeel van het Ministerie van Defensie van het Koninkrijk der Nederlanden op het grondgebied van Burkina Faso

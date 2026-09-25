@@ -9,7 +9,7 @@ laatste_update: 2020-09-01
 status: geldig
 toestand: 2020-09-01
 bron: "https://wetten.overheid.nl/BWBR0002849"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 23 november 1972, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 24 van de wet van 15 juni 1972, Stb. 449, tot gemeentelijke herindeling van Noordwest-Overijssel

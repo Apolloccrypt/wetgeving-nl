@@ -7,7 +7,7 @@ laatste_update: 2018-03-29
 status: geldig
 toestand: 2018-03-29
 bron: "https://wetten.overheid.nl/BWBV0006729"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Republiek Sudan

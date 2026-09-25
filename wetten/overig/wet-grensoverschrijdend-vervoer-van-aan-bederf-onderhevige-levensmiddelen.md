@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0003186"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 29 juni 1978, houdende goedkeuring en uitvoering van de op 1 september 1970 te Genève tot stand gekomen Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP), met Bijlagen

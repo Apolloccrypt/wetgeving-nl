@@ -9,7 +9,7 @@ laatste_update: 1980-05-01
 status: geldig
 toestand: 1980-05-01
 bron: "https://wetten.overheid.nl/BWBR0003330"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 15 juli 1980, houdende aanwijzing van paleizen als bedoeld in artikel 4 van de Wet financieel statuut van het Koninklijk Huis

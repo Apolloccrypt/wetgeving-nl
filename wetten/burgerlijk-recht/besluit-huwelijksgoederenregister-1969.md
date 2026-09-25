@@ -9,7 +9,7 @@ laatste_update: 2013-09-01
 status: geldig
 toestand: 2013-09-01
 bron: "https://wetten.overheid.nl/BWBR0002684"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 26 november 1969, houdende regelen betreffende de wijze van inrichting en raadpleging van het huwelijksgoederenregister, bedoeld in artikel 116 van Boek 1 van het Burgerlijk Wetboek

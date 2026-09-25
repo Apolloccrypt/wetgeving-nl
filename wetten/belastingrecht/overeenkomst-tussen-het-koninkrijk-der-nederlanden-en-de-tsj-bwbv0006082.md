@@ -8,7 +8,7 @@ laatste_update: 2010-12-01
 status: geldig
 toestand: 2010-12-01
 bron: "https://wetten.overheid.nl/BWBV0006082"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Tsjechoslowaakse Socialistische Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen

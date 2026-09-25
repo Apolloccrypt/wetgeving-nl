@@ -9,7 +9,7 @@ laatste_update: 1981-01-01
 status: geldig
 toestand: 1981-01-01
 bron: "https://wetten.overheid.nl/BWBR0003354"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 8 november 1980, tot provinciale indeling van de Waddenzee

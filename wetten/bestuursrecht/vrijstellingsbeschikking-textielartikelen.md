@@ -8,7 +8,7 @@ laatste_update: 1986-12-31
 status: geldig
 toestand: 1986-12-31
 bron: "https://wetten.overheid.nl/BWBR0002940"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Vrijstellingsbeschikking textielartikelen

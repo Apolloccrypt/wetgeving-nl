@@ -8,7 +8,7 @@ laatste_update: 2016-08-11
 status: geldig
 toestand: 2016-08-11
 bron: "https://wetten.overheid.nl/BWBV0006573"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh inzake het project “Bangladesh Deltaplan 2100”

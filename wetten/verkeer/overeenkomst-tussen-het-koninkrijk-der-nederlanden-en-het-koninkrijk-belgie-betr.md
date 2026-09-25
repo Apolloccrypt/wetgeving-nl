@@ -8,7 +8,7 @@ laatste_update: 1880-04-28
 status: geldig
 toestand: 1880-04-28
 bron: "https://wetten.overheid.nl/BWBV0006035"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België betrekkelijk de verbetering van het Kanaal van Gent naar Terneuzen en het naasten van de spoorweg van Antwerpen naar het Hollandsch Diep, met de zijtak van Roosendaal naar Breda

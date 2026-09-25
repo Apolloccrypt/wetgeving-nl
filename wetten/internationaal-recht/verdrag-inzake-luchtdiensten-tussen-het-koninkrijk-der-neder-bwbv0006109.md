@@ -8,7 +8,7 @@ laatste_update: 2015-12-01
 status: geldig
 toestand: 2015-12-01
 bron: "https://wetten.overheid.nl/BWBV0006109"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Republiek Rwanda

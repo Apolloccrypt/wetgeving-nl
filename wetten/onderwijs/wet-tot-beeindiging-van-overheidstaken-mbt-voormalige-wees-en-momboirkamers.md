@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0002944"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 30 oktober 1974, tot beëindiging van de overheidstaken met betrekking tot de zaken van de voormalige wees- en momboirkamers en het beheer van vicarieën, alsmede afkoop van onveranderlijke lasten

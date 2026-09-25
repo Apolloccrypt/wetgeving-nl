@@ -9,7 +9,7 @@ laatste_update: 2021-07-10
 status: geldig
 toestand: 2021-07-10
 bron: "https://wetten.overheid.nl/BWBR0003251"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 5 juli 1979, inzake de schadeloosstelling en de toekenning van uitkering en pensioen aan de leden en de gewezen leden van het Europees Parlement, alsmede van pensioen aan hun weduwen en wezen

@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0003195"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 5 september 1978, houdende vaststelling van een algemene maatregel van bestuur, bedoeld in artikel 8, vierde lid, van de Wet buitengewoon pensioen 1940-1945

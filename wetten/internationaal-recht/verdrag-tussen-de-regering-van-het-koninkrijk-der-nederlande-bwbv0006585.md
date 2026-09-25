@@ -7,7 +7,7 @@ laatste_update: 2016-02-25
 status: geldig
 toestand: 2016-02-25
 bron: "https://wetten.overheid.nl/BWBV0006585"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Gemeenschap van België betreffende de coproductie van films

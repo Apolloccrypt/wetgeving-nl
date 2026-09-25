@@ -9,7 +9,7 @@ laatste_update: 1977-05-01
 status: geldig
 toestand: 1977-05-01
 bron: "https://wetten.overheid.nl/BWBR0003049"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 17 augustus 1976, houdende uitvoering van artikel IV, tweede lid, van de wet van 26 juni 1975 (Stb. 384), tot wijziging van de Woningwet en de Overgangswet ruimtelijke ordening en volkshuisvesting

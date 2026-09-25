@@ -8,7 +8,7 @@ laatste_update: 1977-01-01
 status: geldig
 toestand: 1977-01-01
 bron: "https://wetten.overheid.nl/BWBR0003069"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Beschikking wijziging-percentage levensonderhoud 1977

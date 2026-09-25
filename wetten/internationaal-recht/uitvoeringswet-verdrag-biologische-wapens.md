@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0003385"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 25 maart 1981, tot uitvoering van artikel IV van het op 10 april 1972 te Londen, Moskou en Washington tot stand gekomen Verdrag tot verbod van de ontwikkeling, de produktie en de aanleg van voorraden van bacteriologische (biologische) en toxinewapens en inzake de vernietiging van deze wapens (Trb. 1972, 142)

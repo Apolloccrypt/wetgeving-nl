@@ -8,7 +8,7 @@ laatste_update: 1970-05-06
 status: geldig
 toestand: 1970-05-06
 bron: "https://wetten.overheid.nl/BWBR0002701"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Beschikking Aanwijzing Voedselcommissaris 's-Gravenhage

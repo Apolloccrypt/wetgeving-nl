@@ -8,7 +8,7 @@ laatste_update: 2001-03-01
 status: geldig
 toestand: 2001-03-01
 bron: "https://wetten.overheid.nl/BWBV0006505"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Albanië inzake de uitbreiding van het Europees Verdrag betreffende uitlevering tot de Nederlandse Antillen en Aruba

@@ -9,7 +9,7 @@ laatste_update: 2008-09-01
 status: geldig
 toestand: 2008-09-01
 bron: "https://wetten.overheid.nl/BWBR0002815"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 4 mei 1972, houdende uitvoering van het op 27 september 1968 te Brussel tussen de Lid-Staten van de Europese Economische Gemeenschap tot stand gekomen Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocol

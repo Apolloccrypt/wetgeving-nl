@@ -7,7 +7,7 @@ laatste_update: 2026-03-26
 status: geldig
 toestand: 2026-03-26
 bron: "https://wetten.overheid.nl/BWBV0007154"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag van de Raad van Europa inzake de coproductie van audiovisuele werken in de vorm van series

@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0003250"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 5 juli 1979, tot instelling van een gemeente Lelystad en nadere vaststelling van de grens van de gemeente Dronten

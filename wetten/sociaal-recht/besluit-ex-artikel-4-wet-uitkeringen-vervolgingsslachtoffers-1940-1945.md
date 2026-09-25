@@ -9,7 +9,7 @@ laatste_update: 1992-05-09
 status: geldig
 toestand: 1992-05-09
 bron: "https://wetten.overheid.nl/BWBR0003188"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 7 juli 1978, houdende vaststelling van een algemene maatregel van bestuur, als bedoeld in artikel 4, eerste lid, van de Wet uitkeringen vervolgingsslachtoffers

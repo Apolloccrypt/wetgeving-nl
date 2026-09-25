@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0003338"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 27 augustus 1980, houdende regelen betreffende de consignatie van gelden

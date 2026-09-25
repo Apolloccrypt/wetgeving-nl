@@ -8,7 +8,7 @@ laatste_update: 1964-03-01
 status: geldig
 toestand: 1964-03-01
 bron: "https://wetten.overheid.nl/BWBV0006080"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen de Nederlandse en de Griekse Regering inzake de afschaffing van visa

@@ -8,7 +8,7 @@ laatste_update: 2016-04-01
 status: geldig
 toestand: 2016-04-01
 bron: "https://wetten.overheid.nl/BWBV0006073"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van de Verenigde Staten van Amerika inzake wetenschappelijke en technologische samenwerking betreffende nationale en civiele veiligheid

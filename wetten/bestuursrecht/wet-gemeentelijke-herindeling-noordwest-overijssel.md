@@ -9,7 +9,7 @@ laatste_update: 1972-09-06
 status: geldig
 toestand: 1972-09-06
 bron: "https://wetten.overheid.nl/BWBR0002826"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 15 juni 1972, tot gemeentelijke herindeling van Noordwest-Overijssel

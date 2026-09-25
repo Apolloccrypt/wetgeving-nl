@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0002976"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 11 juni 1975, tot uitvoering van het op 29 november 1969 te Brussel tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, met Bijlage (Trb. 1970, 196) alsmede regeling van die aansprakelijkheid in overeenstemming met dat Verdrag

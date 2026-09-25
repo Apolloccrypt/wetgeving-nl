@@ -9,7 +9,7 @@ laatste_update: 1996-07-01
 status: geldig
 toestand: 1996-07-01
 bron: "https://wetten.overheid.nl/BWBR0003233"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 17 maart 1979, houdende regeling van de vergoeding van de kosten van registratie van motorboten

@@ -8,7 +8,7 @@ laatste_update: 2019-05-16
 status: geldig
 toestand: 2019-05-16
 bron: "https://wetten.overheid.nl/BWBV0006520"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Briefwisseling bij de Overeenkomst tussen het Koninkrijk der Nederlanden en Canada inzake luchtvervoer tussen het Koninkrijk der Nederlanden en Canada

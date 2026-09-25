@@ -8,7 +8,7 @@ laatste_update: 2018-07-26
 status: geldig
 toestand: 2018-07-26
 bron: "https://wetten.overheid.nl/BWBV0006713"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) inzake het IHE Delft Institute for Water Education in Nederland als een instituut onder auspiciën van UNESCO (categorie 2)

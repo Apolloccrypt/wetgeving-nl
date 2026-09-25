@@ -8,7 +8,7 @@ laatste_update: 2019-12-01
 status: geldig
 toestand: 2019-12-01
 bron: "https://wetten.overheid.nl/BWBV0006815"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van de Socialistische Republiek Vietnam inzake betaalde werkzaamheden door gezinsleden van personeel van diplomatieke vertegenwoordigingen en consulaire posten

@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0002935"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 17 augustus 1974, tot vaststelling van het bedrag, bedoeld in artikel 7b, zevende lid, van de Wet op de kansspelen

@@ -8,7 +8,7 @@ laatste_update: 1980-11-29
 status: geldig
 toestand: 1980-11-29
 bron: "https://wetten.overheid.nl/BWBR0003357"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Toelating diploma Moderne Bedrijfsadministratie tot examen accountants-administratieconsulenten

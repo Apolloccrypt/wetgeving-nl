@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0003023"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 28 februari 1976, ter uitvoering van artikel 29 van de Wet aansprakelijkheid olietankschepen (Stb. 1975, 321)

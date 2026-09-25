@@ -7,7 +7,7 @@ laatste_update: 2001-02-01
 status: geldig
 toestand: 2001-02-01
 bron: "https://wetten.overheid.nl/BWBV0006548"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Briefwisseling tussen de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de Regering van Bulgarije, anderzijds, houdende een overeenkomst inzake de afschaffing van de visumplicht met betrekking tot diplomatieke paspoorten

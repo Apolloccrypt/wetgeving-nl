@@ -8,7 +8,7 @@ laatste_update: 1938-04-08
 status: geldig
 toestand: 1938-04-08
 bron: "https://wetten.overheid.nl/BWBV0006031"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen de Nederlandse en de Belgische Regering houdende een voorlopige overeenkomst inzake betaald personen- en goederenverkeer per auto tussen de beide landen

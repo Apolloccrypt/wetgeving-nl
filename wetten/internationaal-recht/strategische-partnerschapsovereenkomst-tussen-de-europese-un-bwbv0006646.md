@@ -7,7 +7,7 @@ laatste_update: 2016-10-30
 status: geldig
 toestand: 2016-10-30
 bron: "https://wetten.overheid.nl/BWBV0006646"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Strategische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Canada, anderzijds

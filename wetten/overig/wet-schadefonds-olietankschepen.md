@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0003400"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 14 mei 1981, houdende uitvoering van het op 18 december 1971 te Brussel tot stand gekomen Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (Trb. 1973, 101)

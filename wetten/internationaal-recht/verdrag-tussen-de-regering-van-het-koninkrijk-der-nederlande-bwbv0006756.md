@@ -8,7 +8,7 @@ laatste_update: 2020-11-01
 status: geldig
 toestand: 2020-11-01
 bron: "https://wetten.overheid.nl/BWBV0006756"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika inzake de totstandkoming van een raamwerk voor samenwerking op het gebied van defensieaangelegenheden

@@ -8,7 +8,7 @@ laatste_update: 1971-08-05
 status: geldig
 toestand: 1971-08-05
 bron: "https://wetten.overheid.nl/BWBR0002775"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Leerplichtwet 1969 (art. 3 en 7)

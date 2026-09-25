@@ -8,7 +8,7 @@ laatste_update: 1987-06-01
 status: geldig
 toestand: 1987-06-01
 bron: "https://wetten.overheid.nl/BWBV0006046"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de verbetering van het kanaal van Terneuzen naar Gent en de regeling van enige daarmede verband houdende aangelegenheden

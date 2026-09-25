@@ -9,7 +9,7 @@ laatste_update: 1968-07-01
 status: geldig
 toestand: 1968-07-01
 bron: "https://wetten.overheid.nl/BWBR0002717"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 29 juni 1970, houdende nadere bepalingen voor de toepassing van de Premiespaarregeling Rijksambtenaren 1968 ten aanzien van belanghebbenden, die werkzaam zijn gesteld bij de Binnenlandse Veiligheidsdienst

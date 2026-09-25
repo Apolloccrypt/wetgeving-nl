@@ -8,7 +8,7 @@ laatste_update: 1980-02-06
 status: geldig
 toestand: 1980-02-06
 bron: "https://wetten.overheid.nl/BWBR0003294"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Heffing van omzetbelasting ten aanzien van opneming van zwervende en of noodlijdende dieren

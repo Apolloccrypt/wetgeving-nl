@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0002739"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 24 december 1970, houdende regeling van de formaliteit van registratie van akten

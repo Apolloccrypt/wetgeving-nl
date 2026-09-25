@@ -7,7 +7,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBV0007067"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Republiek Suriname tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het voorkomen van het ontduiken en ontwijken van belasting

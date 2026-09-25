@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0003134"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 6 oktober 1977, houdende vaststelling van regelen betreffende de gedwongen tenuitvoerlegging van uitspraken van het Benelux-Gerechtshof die executoriale titel vormen

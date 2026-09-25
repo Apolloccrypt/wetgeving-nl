@@ -9,7 +9,7 @@ laatste_update: 1973-06-21
 status: geldig
 toestand: 1973-06-21
 bron: "https://wetten.overheid.nl/BWBR0002885"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 4 juni 1973, houdende de overgang van de dienst van het Kadaster en de Openbare Registers van het Ministerie van Financiën naar het Ministerie van Volkshuisvesting en Ruimtelijke Ordening

@@ -8,7 +8,7 @@ laatste_update: 2017-04-06
 status: geldig
 toestand: 2017-04-06
 bron: "https://wetten.overheid.nl/BWBV0006234"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag inzake de overbrenging van gevonniste personen tussen het Koninkrijk der Nederlanden en de Republiek Cuba

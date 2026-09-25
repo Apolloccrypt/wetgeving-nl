@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0002690"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 9 december 1969, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van artikel 7, lid 5 van Boek 1 van het Burgerlijk Wetboek

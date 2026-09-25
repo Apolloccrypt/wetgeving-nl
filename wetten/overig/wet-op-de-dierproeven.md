@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0003081"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 12 januari 1977, houdende regelen met betrekking tot het verrichten van proeven op dieren

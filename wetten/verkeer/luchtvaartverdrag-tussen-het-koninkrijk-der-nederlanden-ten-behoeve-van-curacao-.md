@@ -8,7 +8,7 @@ laatste_update: 2018-11-26
 status: geldig
 toestand: 2018-11-26
 bron: "https://wetten.overheid.nl/BWBV0006311"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Federale Republiek Brazilië inzake luchtvervoer tussen Curaçao en Brazilië

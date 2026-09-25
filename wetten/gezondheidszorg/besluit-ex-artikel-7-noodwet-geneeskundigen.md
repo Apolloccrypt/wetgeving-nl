@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0003398"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 5 mei 1981, houdende uitvoering van artikel 7 van de Noodwet Geneeskundigen

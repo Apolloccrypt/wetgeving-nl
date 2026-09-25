@@ -7,7 +7,7 @@ laatste_update: 2026-02-18
 status: geldig
 toestand: 2026-02-18
 bron: "https://wetten.overheid.nl/BWBV0007143"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Overeenkomst betreffende de uitlegging en toepassing van het Verdrag inzake het Energiehandvest

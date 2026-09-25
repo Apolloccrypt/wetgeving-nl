@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0003109"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 8 juni 1977, houdende bepalingen betreffende het giraal effectenverkeer

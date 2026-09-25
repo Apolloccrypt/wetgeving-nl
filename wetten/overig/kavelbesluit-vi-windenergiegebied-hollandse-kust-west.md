@@ -9,7 +9,7 @@ laatste_update: 2026-07-17
 status: geldig
 toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0046360"
-opgehaald: 2026-09-24
+opgehaald: 2026-09-25
 ---
 
 # Kavelbesluit VI windenergiegebied Hollandse Kust (west), Ministerie van Economische Zaken en Klimaat

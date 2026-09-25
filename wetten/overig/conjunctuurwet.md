@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0002738"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 24 december 1970, tot tijdelijke verhoging of verlaging van belasting op grond van conjuncturele overwegingen

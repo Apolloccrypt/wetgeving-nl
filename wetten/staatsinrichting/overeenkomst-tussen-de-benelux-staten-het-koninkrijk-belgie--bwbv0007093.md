@@ -7,7 +7,7 @@ laatste_update: 2025-02-14
 status: geldig
 toestand: 2025-02-14
 bron: "https://wetten.overheid.nl/BWBV0007093"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Republiek Suriname betreffende de terug- en overname van personen die onregelmatig op het grondgebied verblijven (terug- en overnameovereenkomst) (met Uitvoeringsprotocol met bijlagen)

@@ -8,7 +8,7 @@ laatste_update: 1980-04-21
 status: geldig
 toestand: 1980-04-21
 bron: "https://wetten.overheid.nl/BWBR0003305"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Nadere regelen Wet en Besluit openbaarheid van bestuur

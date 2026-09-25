@@ -9,7 +9,7 @@ laatste_update: 1977-05-01
 status: geldig
 toestand: 1977-05-01
 bron: "https://wetten.overheid.nl/BWBR0003092"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 5 maart 1977 strekkend tot vaststelling en tevens tot bepaling van het tijdstip van inwerkingtreding van een algemene maatregel van bestuur ter uitvoering van artikel 222a van de Faillissementwet zoals ingevoegd bij de Wet van 6 mei 1976 (Stb. 1976, 280) houdende wijzigingen van enige bepalingen van de Faillissementwet en tevens strekkend tot bepaling van het tijdstip van inwerkingtreding van voornoemde Wet van 6 mei 1976

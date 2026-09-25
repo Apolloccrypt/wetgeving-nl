@@ -9,7 +9,7 @@ laatste_update: 2010-12-31
 status: geldig
 toestand: 2010-12-31
 bron: "https://wetten.overheid.nl/BWBR0003417"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 24 juni 1981, houdende bepalingen voor de meting van schepen

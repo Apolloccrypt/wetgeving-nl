@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0002740"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 24 december 1970, houdende vervanging van de wetgeving betreffende de registratie- en de zegelbelasting door een nieuwe wettelijke regeling

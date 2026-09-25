@@ -8,7 +8,7 @@ laatste_update: 1997-05-23
 status: geldig
 toestand: 1997-05-23
 bron: "https://wetten.overheid.nl/BWBR0003242"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Keuringsbeschikking ATP

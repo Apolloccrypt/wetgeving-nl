@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0002698"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 12 februari 1970, houdende regelen met betrekking tot de loonvorming

@@ -8,7 +8,7 @@ laatste_update: 1913-05-01
 status: geldig
 toestand: 1913-05-01
 bron: "https://wetten.overheid.nl/BWBV0006167"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Schikking van Madrid van 14 april 1891, betreffende de Internationale inschrijving van fabrieks- of handelsmerken, herzien te Brussel op 14 december 1900 en te Washington op 2 juni 1911

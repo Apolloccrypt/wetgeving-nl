@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0003189"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 8 juli 1978, ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende de omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn

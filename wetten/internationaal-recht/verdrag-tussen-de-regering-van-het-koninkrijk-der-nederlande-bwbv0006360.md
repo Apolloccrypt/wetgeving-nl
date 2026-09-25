@@ -8,7 +8,7 @@ laatste_update: 2020-02-01
 status: geldig
 toestand: 2020-02-01
 bron: "https://wetten.overheid.nl/BWBV0006360"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Congo inzake luchtdiensten

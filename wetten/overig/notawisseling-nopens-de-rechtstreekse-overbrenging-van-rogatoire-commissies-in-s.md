@@ -8,7 +8,7 @@ laatste_update: 1915-08-01
 status: geldig
 toestand: 1915-08-01
 bron: "https://wetten.overheid.nl/BWBV0006113"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling nopens de rechtstreekse overbrenging van rogatoire commissies in strafzaken

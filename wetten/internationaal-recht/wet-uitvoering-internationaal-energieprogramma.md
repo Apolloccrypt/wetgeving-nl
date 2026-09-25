@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0003235"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 4 april 1979, houdende uitvoering van de op 18 november 1974 te Parijs tot stand gekomen Overeenkomst inzake een Internationaal Energieprogramma

@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0003372"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 4 februari 1981, houdende instelling van het ambt van Nationale ombudsman en wijziging van een aantal wetten

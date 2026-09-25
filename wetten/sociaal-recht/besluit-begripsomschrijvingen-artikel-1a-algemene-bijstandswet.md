@@ -9,7 +9,7 @@ laatste_update: 1979-01-01
 status: geldig
 toestand: 1979-01-01
 bron: "https://wetten.overheid.nl/BWBR0003223"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 22 januari 1979, houdende vaststelling van nadere regelen omtrent omschrijvingen van begrippen gebezigd in de Algemene Bijstandswet

@@ -8,7 +8,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBV0006927"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten inzake uitlevering

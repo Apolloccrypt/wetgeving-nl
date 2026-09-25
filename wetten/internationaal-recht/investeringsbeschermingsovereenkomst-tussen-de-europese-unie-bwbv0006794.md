@@ -7,7 +7,7 @@ laatste_update: 2018-10-19
 status: geldig
 toestand: 2018-10-19
 bron: "https://wetten.overheid.nl/BWBV0006794"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Investeringsbeschermingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek van Singapore, anderzijds

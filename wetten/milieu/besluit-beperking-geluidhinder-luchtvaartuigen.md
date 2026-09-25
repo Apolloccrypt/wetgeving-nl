@@ -9,7 +9,7 @@ laatste_update: 2010-01-20
 status: geldig
 toestand: 2010-01-20
 bron: "https://wetten.overheid.nl/BWBR0003404"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 21 mei 1981, houdende vaststelling van enige regels ter beperking van de geluidhinder door luchtvaartuigen

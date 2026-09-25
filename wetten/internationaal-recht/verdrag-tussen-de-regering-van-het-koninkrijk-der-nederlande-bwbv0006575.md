@@ -8,7 +8,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBV0006575"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek betreffende de gezamenlijke tentoonstelling en het gezamenlijk beheer van de portretten van Maerten Soolmans en van Oopjen Coppit door Rembrandt van Rijn

@@ -9,7 +9,7 @@ laatste_update: 2026-09-22
 status: geldig
 toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0031617"
-opgehaald: 2026-09-24
+opgehaald: 2026-09-25
 ---
 
 # Regeling houdende nadere regels ter uitvoering van de Wet financiële markten BES en het Besluit financiële markten BES (Regeling financiële markten BES 2012)

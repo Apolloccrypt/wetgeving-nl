@@ -8,7 +8,7 @@ laatste_update: 1974-07-17
 status: geldig
 toestand: 1974-07-17
 bron: "https://wetten.overheid.nl/BWBR0002927"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Beschikking vaststelling examenprogramma

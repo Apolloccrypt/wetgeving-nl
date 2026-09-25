@@ -8,7 +8,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0002814"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Uitvoeringsbeschikking artikel 11a der Wet buitengewoon pensioen 1940–1945

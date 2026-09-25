@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0003026"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 24 maart 1976, houdende regelen inzake melding van collectief ontslag

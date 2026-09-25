@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0003252"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 12 juli 1979, houdende regelen krachtens artikel 13, derde lid, Landbouwkwaliteitswet

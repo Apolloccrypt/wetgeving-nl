@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0002705"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 29 april 1970, houdende vaststelling van het Besluit beleggingsinstellingen

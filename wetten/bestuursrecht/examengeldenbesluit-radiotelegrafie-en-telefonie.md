@@ -9,7 +9,7 @@ laatste_update: 1976-01-01
 status: geldig
 toestand: 1976-01-01
 bron: "https://wetten.overheid.nl/BWBR0003014"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 24 december 1975, houdende regeling van examengeld, verschuldigd voor toelating tot een der examens ter verkrijging van certificaten als bedoeld in artikel 23 van het Reglement betreffende de Radioberichtgeving, behorende bij het Internationale Verdrag betreffende de Verreberichtgeving (Montreux 1965; Trb. 201 - 1966)

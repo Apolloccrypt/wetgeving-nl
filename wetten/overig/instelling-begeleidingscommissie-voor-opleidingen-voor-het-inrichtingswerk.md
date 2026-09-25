@@ -8,7 +8,7 @@ laatste_update: 1976-05-10
 status: geldig
 toestand: 1976-05-10
 bron: "https://wetten.overheid.nl/BWBR0003024"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Instelling Begeleidingscommissie voor opleidingen voor het inrichtingswerk

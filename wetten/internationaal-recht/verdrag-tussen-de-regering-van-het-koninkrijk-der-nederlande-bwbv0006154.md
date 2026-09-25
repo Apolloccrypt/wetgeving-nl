@@ -8,7 +8,7 @@ laatste_update: 2013-03-18
 status: geldig
 toestand: 2013-03-18
 bron: "https://wetten.overheid.nl/BWBV0006154"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Speciale Administratieve Regio Hongkong van de Volksrepubliek China inzake wederzijdse rechtshulp in strafzaken

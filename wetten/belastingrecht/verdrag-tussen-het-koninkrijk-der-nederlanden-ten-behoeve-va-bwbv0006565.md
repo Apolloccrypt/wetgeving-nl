@@ -8,7 +8,7 @@ laatste_update: 2024-09-01
 status: geldig
 toestand: 2024-09-01
 bron: "https://wetten.overheid.nl/BWBV0006565"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Republiek Malta tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belastingen met betrekking tot belastingen naar het inkomen

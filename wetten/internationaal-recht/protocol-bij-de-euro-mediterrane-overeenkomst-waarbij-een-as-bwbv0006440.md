@@ -8,7 +8,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBV0006440"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Protocol bij de Euro-mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Tunesië, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie

@@ -9,7 +9,7 @@ laatste_update: 1976-12-01
 status: geldig
 toestand: 1976-12-01
 bron: "https://wetten.overheid.nl/BWBR0003068"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # De staatssecretarissen van Justitie en van Economische Zaken hebben met de navolgende beschikking (Publikatie overeenkomstig artikel, 7v, vierde lid, van de Wet op de kansspelen (Stb.1964, 483 zoals laatstelijk gewijzigd bij Stb. 1974, 441)) de ambtenaren van de Dienst van het IJkwezen aangewezen als controle-ambtenaren in de speelcasino's van de Nationale Stichting tot Exploitatie van Casinospelen in Nederland en hebben hun goedkeuring gehecht aan de door de Raad voor de Casinospelen vastgestelde Regelen betreffende de taakvervulling van bedoelde ambtenaren

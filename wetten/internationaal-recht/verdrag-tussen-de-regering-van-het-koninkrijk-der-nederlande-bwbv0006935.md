@@ -7,7 +7,7 @@ laatste_update: 2021-10-13
 status: geldig
 toestand: 2021-10-13
 bron: "https://wetten.overheid.nl/BWBV0006935"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Staat Israël inzake de status van hun strijdkrachten

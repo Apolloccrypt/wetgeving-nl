@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0003301"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 8 maart 1980, houdende uitvoering van artikel 19, zevende lid van het op 18 oktober 1961 te Turijn gesloten Europees Sociaal Handvest

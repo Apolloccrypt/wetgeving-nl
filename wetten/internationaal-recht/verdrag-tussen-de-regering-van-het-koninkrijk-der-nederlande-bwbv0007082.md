@@ -8,7 +8,7 @@ laatste_update: 2026-02-04
 status: geldig
 toestand: 2026-02-04
 bron: "https://wetten.overheid.nl/BWBV0007082"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Indonesië inzake audiovisuele coproductie

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0002685"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 26 november 1969, tot vaststelling van een algemene maatregel van bestuur, bedoeld in artikel 244 van Boek 1 van het Burgerlijk Wetboek

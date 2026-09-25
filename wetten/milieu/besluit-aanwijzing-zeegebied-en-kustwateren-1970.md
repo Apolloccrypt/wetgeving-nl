@@ -9,7 +9,7 @@ laatste_update: 2023-07-20
 status: geldig
 toestand: 2023-07-20
 bron: "https://wetten.overheid.nl/BWBR0002703"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 21 april 1970, houdende uitvoering van artikel 1, vierde lid, onder b en c, van de Visserijwet 1963

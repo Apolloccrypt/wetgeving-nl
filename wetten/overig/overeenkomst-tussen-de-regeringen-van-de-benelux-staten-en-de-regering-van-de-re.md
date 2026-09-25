@@ -8,7 +8,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBV0006128"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Overeenkomst tussen de Regeringen van de Benelux-Staten en de Regering van de Republiek Zuid-Afrika inzake de afschaffing van de visumplicht voor houders van diplomatieke, officiële en/of dienstpaspoorten

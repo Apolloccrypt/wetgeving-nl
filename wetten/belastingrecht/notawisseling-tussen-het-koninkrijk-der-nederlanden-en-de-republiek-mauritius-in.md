@@ -8,7 +8,7 @@ laatste_update: 2018-06-01
 status: geldig
 toestand: 2018-06-01
 bron: "https://wetten.overheid.nl/BWBV0006695"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Republiek Mauritius inzake een uitbreiding tot Aruba, Curaçao, Sint Maarten en het Caribische deel van Nederland (Bonaire, Sint Eustatius en Saba) van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Mauritius inzake wederzijdse administratieve bijstand in douanezaken

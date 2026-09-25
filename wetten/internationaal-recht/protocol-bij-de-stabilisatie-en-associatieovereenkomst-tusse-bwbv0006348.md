@@ -8,7 +8,7 @@ laatste_update: 2014-12-01
 status: geldig
 toestand: 2014-12-01
 bron: "https://wetten.overheid.nl/BWBV0006348"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Protocol bij de Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

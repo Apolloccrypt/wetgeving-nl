@@ -9,7 +9,7 @@ laatste_update: 1981-06-01
 status: geldig
 toestand: 1981-06-01
 bron: "https://wetten.overheid.nl/BWBR0003397"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 1 mei 1981, tot uitvoering van het bepaalde in artikel 30 van de Wet toezicht kredietwezen met betrekking tot andere kapitaalmarktinstellingen dan hypotheekbanken

@@ -8,7 +8,7 @@ laatste_update: 1975-06-13
 status: geldig
 toestand: 1975-06-13
 bron: "https://wetten.overheid.nl/BWBR0002972"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Vaststelling grondslagen voor uitkeringen aan vervolgden

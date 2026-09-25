@@ -9,7 +9,7 @@ laatste_update: 1971-01-01
 status: geldig
 toestand: 1971-01-01
 bron: "https://wetten.overheid.nl/BWBR0002730"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 18 november 1970, houdende wijziging in de taakverdeling door overgang van de Buitenlandse Inlichtingendienst van het departement van Algemene Zaken naar dat van Defensie

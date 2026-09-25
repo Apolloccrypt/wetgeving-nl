@@ -8,7 +8,7 @@ laatste_update: 2025-02-01
 status: geldig
 toestand: 2025-02-01
 bron: "https://wetten.overheid.nl/BWBV0007036"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en Mongolië betreffende de terug- en overname van onregelmatig verblijvende personen (met Uitvoeringsprotocol met Bijlagen)

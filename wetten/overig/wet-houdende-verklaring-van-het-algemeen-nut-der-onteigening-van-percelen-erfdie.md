@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0002805"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 11 maart 1972, houdende verklaring van het algemeen nut der onteigening van percelen, erfdienstbaarheden en andere zakelijke rechten ten behoeve van de inrichting van een buisleidingenstraat vanaf Pernis langs Klundert naar de Schelde nabij de Nederlands-Belgische grens

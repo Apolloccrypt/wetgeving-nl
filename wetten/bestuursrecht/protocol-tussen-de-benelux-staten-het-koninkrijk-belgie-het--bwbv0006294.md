@@ -8,7 +8,7 @@ laatste_update: 2018-06-01
 status: geldig
 toestand: 2018-06-01
 bron: "https://wetten.overheid.nl/BWBV0006294"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Protocol tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en Georgië ter uitvoering van de Overeenkomst tussen de Europese Unie en Georgië inzake de overname van personen die zonder vergunning op het grondgebied verblijven

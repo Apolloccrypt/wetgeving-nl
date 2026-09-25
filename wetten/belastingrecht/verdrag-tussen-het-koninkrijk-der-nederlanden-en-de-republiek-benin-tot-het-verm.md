@@ -7,7 +7,7 @@ laatste_update: 2026-05-21
 status: geldig
 toestand: 2026-05-21
 bron: "https://wetten.overheid.nl/BWBV0007156"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Benin tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontduiken en ontwijken van belasting

@@ -9,7 +9,7 @@ laatste_update: 2025-05-27
 status: geldig
 toestand: 2025-05-27
 bron: "https://wetten.overheid.nl/BWBR0002732"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 2 december 1970, houdende uitvoering van artikel 72 van de Wet op de Rechterlijke Organisatie en het Beleid der Justitie

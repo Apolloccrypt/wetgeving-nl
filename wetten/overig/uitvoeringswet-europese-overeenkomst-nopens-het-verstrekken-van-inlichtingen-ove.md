@@ -9,7 +9,7 @@ laatste_update: 1977-03-02
 status: geldig
 toestand: 1977-03-02
 bron: "https://wetten.overheid.nl/BWBR0003041"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 30 juni 1976, tot uitvoering van de op 7 juni 1968 te Londen tot stand gekomen Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht (Trb. 1968, 142)

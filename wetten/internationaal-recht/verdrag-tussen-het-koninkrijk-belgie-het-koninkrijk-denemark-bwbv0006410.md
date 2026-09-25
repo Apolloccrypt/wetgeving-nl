@@ -8,7 +8,7 @@ laatste_update: 1981-01-01
 status: geldig
 toestand: 1981-01-01
 bron: "https://wetten.overheid.nl/BWBV0006410"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (Lid-Staten der Europese Gemeenschappen) en de Helleense Republiek betreffende de toetreding van de Helleense Republiek tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie

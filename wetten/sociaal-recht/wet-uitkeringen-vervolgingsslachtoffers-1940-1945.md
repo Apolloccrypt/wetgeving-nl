@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0002844"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 22 november 1972, houdende regelen betreffende de verlening van uitkeringen aan de slachtoffers van vervolging

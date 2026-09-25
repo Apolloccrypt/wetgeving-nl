@@ -9,7 +9,7 @@ laatste_update: 2019-03-01
 status: geldig
 toestand: 2019-03-01
 bron: "https://wetten.overheid.nl/BWBR0003043"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 30 juni 1976, tot instelling van een Wetenschappelijke Raad voor het Regeringsbeleid

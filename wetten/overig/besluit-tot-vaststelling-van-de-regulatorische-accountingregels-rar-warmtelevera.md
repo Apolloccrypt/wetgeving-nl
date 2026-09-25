@@ -8,7 +8,7 @@ laatste_update: 2025-06-27
 status: geldig
 toestand: 2025-06-27
 bron: "https://wetten.overheid.nl/BWBR0051941"
-opgehaald: 2026-09-09
+opgehaald: 2026-09-25
 ---
 
 # Besluit tot vaststelling van de Regulatorische accountingregels (RAR) warmteleveranciers 2024
@@ -19,7 +19,7 @@ opgehaald: 2026-09-09
 
    - – *Aansluitcapaciteit:* ook aansluitwaarde genoemd, het overeengekomen maximaal te leveren vermogen (in kilowatt);1Deze definitie is van toepassing voor grootverbruikers, om benodigde netcapaciteit te berekenen.
 
-   - – *Aansluiting:* centrale aansluiting of individuele aansluiting, zoals gedefinieerd in artikel 1 lid 1 van de Warmtewet;
+   - – *Aansluiting:* centrale aansluiting of individuele aansluiting, zoals gedefinieerd in [artikel 1 lid 1 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1);
 
    - – *Activa:* materiële vaste activa en immateriële vaste activa;
 
@@ -41,7 +41,7 @@ opgehaald: 2026-09-09
 
    - – *Bijdrage aansluitkosten (BAK):* de bijdrage aansluitkosten is de som van de (gereguleerde) eenmalige aansluitbijdrage (EAB) en de (ongereguleerde) kostendekkingsbijdrage (KDB);
 
-   - – *Binneninstallatie:* een binneninstallatie, zoals gedefinieerd in artikel 1 lid 1 van de Warmtewet;
+   - – *Binneninstallatie:* een binneninstallatie, zoals gedefinieerd in [artikel 1 lid 1 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1);
 
    - – *Boekjaar:* kalenderjaar waarover de Autoriteit Consument & Markt (hierna: ACM) informatie uitvraagt op basis van de RAR;
 
@@ -53,27 +53,27 @@ opgehaald: 2026-09-09
 
    - – *Distributieleiding:* een leiding die het transport van warmte tot aan de aansluitleiding verzorgt. Het distributienet is gericht op het distribueren van warmte naar de afnemers. Sommige warmtenetten kennen onderscheid in temperatuurniveau’s (hoge temperatuur voor primaire distributie, midden temperatuur voor secundaire distributie, lage temperatuur);
 
-   - – *Eenmalige aansluitbijdrage (EAB):* een tariefgereguleerde eenmalige bijdrage voor het realiseren van een aansluiting, zoals bedoeld in artikel 6, eerste lid van de Warmtewet;
+   - – *Eenmalige aansluitbijdrage (EAB):* een tariefgereguleerde eenmalige bijdrage voor het realiseren van een aansluiting, zoals bedoeld in [artikel 6, eerste lid van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=6);
 
    - – *Gelijktijdigheid:* verhouding tussen piekvraag die afnemers gezamenlijk veroorzaken op het warmtenet en de som van de individuele piekvraag;
 
-   - – *Gereguleerd/ongereguleerd:* afbakening van afnemers conform artikel 1 lid 1 van de Warmtewet in verbruikers (gereguleerd) en ongereguleerde afnemers. Verbruikers (gereguleerd) zijn kleinverbruikers en de volgende grootverbruikers:
+   - – *Gereguleerd/ongereguleerd:* afbakening van afnemers conform [artikel 1 lid 1 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1) in verbruikers (gereguleerd) en ongereguleerde afnemers. Verbruikers (gereguleerd) zijn kleinverbruikers en de volgende grootverbruikers:
 
       - • verhuurders (zoals woningcorporaties) die warmte doorleveren aan huurders met elk een individuele leveringsaansluiting van maximaal 100 kilowatt;
 
       - • vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm die warmte doorleveren aan leden van de vereniging van eigenaars of een daarmee vergelijkbare rechtsvorm, met elk een individuele leveringsaansluiting van maximaal 100 kilowatt;
 
-   - – *Groepsmaatschappij:* op basis van artikel 2:24b van het Burgerlijk Wetboek is een groep een economische eenheid waarin rechtspersonen en vennootschappen organisatorisch zijn verbonden en zijn groepsmaatschappijen rechtspersonen en vennootschappen die met elkaar in een groep zijn verbonden;
+   - – *Groepsmaatschappij:* op basis van [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) is een groep een economische eenheid waarin rechtspersonen en vennootschappen organisatorisch zijn verbonden en zijn groepsmaatschappijen rechtspersonen en vennootschappen die met elkaar in een groep zijn verbonden;
 
-   - – *Grootverbruiker:* natuurlijk persoon of rechtspersoon die warmte afneemt van een collectieve warmtevoorziening of een klein collectief warmtesysteem en een individuele leveringsaansluiting als gedefinieerd in artikel 1 lid 1 van de Warmtewet heeft van meer dan 100 kilowatt of een centrale leveringsaansluiting als gedefinieerd in artikel 1 lid 1 van de Warmtewet heeft;
+   - – *Grootverbruiker:* natuurlijk persoon of rechtspersoon die warmte afneemt van een collectieve warmtevoorziening of een klein collectief warmtesysteem en een individuele leveringsaansluiting als gedefinieerd in [artikel 1 lid 1 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1) heeft van meer dan 100 kilowatt of een centrale leveringsaansluiting als gedefinieerd in artikel 1 lid 1 van de Warmtewet heeft;
 
    - – *Immaterieel vast actief:* een identificeerbaar niet-monetair vast actief zonder fysieke gedaante;
 
-   - – *Indirecte kosten:* kosten die niet rechtstreeks toerekenbaar zijn aan een activiteit, zoals benoemd in hoofdstuk 5 van de RAR of kosten die binnen een activiteit niet rechtstreeks toerekenbaar zijn aan gereguleerde en ongereguleerde verbruikers. Voor deze indirecte kosten wordt een verdeelsleutel gebruikt zoals benoemd in paragraaf 5.3 van de RAR. Een voorbeeld van indirecte kosten zijn algemene kosten zoals kantoorruimte, managementkosten, marketingkosten en IT-infrastructuur die niet direct gekoppeld zijn aan de levering van warmte. Een ander voorbeeld is kosten voor onderhoud aan het warmtenet, dat wel direct is toe te rekenen aan de activiteit transport en distributie en vervolgens indirect toegerekend wordt naar gereguleerde en ongereguleerde verbruikers;
+   - – *Indirecte kosten:* kosten die niet rechtstreeks toerekenbaar zijn aan een activiteit, zoals benoemd in [hoofdstuk 5](https://wetten.overheid.nl/BWBR0051941) van de RAR of kosten die binnen een activiteit niet rechtstreeks toerekenbaar zijn aan gereguleerde en ongereguleerde verbruikers. Voor deze indirecte kosten wordt een verdeelsleutel gebruikt zoals benoemd in [paragraaf 5.3](https://wetten.overheid.nl/BWBR0051941) van de RAR. Een voorbeeld van indirecte kosten zijn algemene kosten zoals kantoorruimte, managementkosten, marketingkosten en IT-infrastructuur die niet direct gekoppeld zijn aan de levering van warmte. Een ander voorbeeld is kosten voor onderhoud aan het warmtenet, dat wel direct is toe te rekenen aan de activiteit transport en distributie en vervolgens indirect toegerekend wordt naar gereguleerde en ongereguleerde verbruikers;
 
    - – *Inkoopkosten energie:* inkoopkosten energie zijn kosten die verband houden met de inkoop van warmte of de inkoopkosten van energie (bijvoorbeeld gas of elektriciteit) om warmte mee te genereren (inclusief bijstook/buffering) of om warmte mee te transporteren/distribueren. Deze kosten kunnen zowel verbruiksafhankelijk als verbruiksonafhankelijk zijn;
 
-   - – *Inpandig leidingstelsel:* één of meer van een gebouw deel uitmakende leidingen en daarmee verbonden hulpmiddelen ten behoeve van transport van warmte tussen een centrale aansluiting van een gebouw op een warmtenet of een productie-installatie en de individuele aansluiting van een onroerende zaak als bedoeld in artikel 16, onderdeel c, van de Wet waardering onroerende zaken;
+   - – *Inpandig leidingstelsel:* één of meer van een gebouw deel uitmakende leidingen en daarmee verbonden hulpmiddelen ten behoeve van transport van warmte tussen een centrale aansluiting van een gebouw op een warmtenet of een productie-installatie en de individuele aansluiting van een onroerende zaak als bedoeld in [artikel 16, onderdeel c, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16);
 
    - – *Kleinverbruiker:* natuurlijk persoon of rechtspersoon die warmte afneemt van een collectieve warmtevoorziening of klein collectief warmtesysteem en een individuele leveringsaansluiting heeft van maximaal 100 kilowatt met uitzondering van een persoon die warmte afneemt van:
 
@@ -109,7 +109,7 @@ opgehaald: 2026-09-09
 
    - – *Piek:* warmteproductie door productie-installaties op die momenten dat de productie-installaties voor de basislast al volledig bijdragen aan de warmteproductie;
 
-   - – *Productie en inkoop van thermische energie:* deze definitie is uitgewerkt in paragraaf 5.2.1 van de RAR;
+   - – *Productie en inkoop van thermische energie:* deze definitie is uitgewerkt in [paragraaf 5.2.1](https://wetten.overheid.nl/BWBR0051941) van de RAR;
 
    - – *Profit center:* organisatieonderdeel, zoals een groepsmaatschappij, met winstdoelstelling;
 
@@ -117,13 +117,13 @@ opgehaald: 2026-09-09
 
    - – *Thermische energie:* warmte die ten behoeve van ruimteverwarming of verwarming van tapwater wordt geleverd door middel van het transport van water of een andere vloeistof en koude die ten behoeve van ruimtekoeling wordt geleverd door middel van het transport van water of een andere vloeistof;
 
-   - – *Transport en distributie van thermische energie:* deze definitie is uitgewerkt in paragraaf 5.2.2 van de RAR;
+   - – *Transport en distributie van thermische energie:* deze definitie is uitgewerkt in [paragraaf 5.2.2](https://wetten.overheid.nl/BWBR0051941) van de RAR;
 
    - – *Transportleiding:* een leiding geschikt voor het transporteren van grote hoeveelheden warmte over grotere afstanden. Op een transportleiding zijn veelal geen afnemers aangesloten maar enkel warmteproducenten en warmteoverdrachtstations die achterliggende wijken of gebieden van warmte voorzien. Een transportleiding kenmerkt zich door hoge drukken (veelal 16 – 25 bar) en hoge temperaturen;
 
    - – *Vast actief:* een uit gebeurtenissen in het verleden voortgekomen middel waarover de warmteleverancier de beschikkingsmacht heeft, dat hij in gebruik heeft genomen en waaruit in de toekomst naar verwachting economische voordelen naar de warmteleverancier zullen vloeien. Tevens moet voldaan zijn aan de voorwaarde dat de kostprijs van een vast actief betrouwbaar kan worden vastgesteld;
 
-   - – *Verkoop en klantcontact:* deze definitie is uitgewerkt in paragraaf 5.2.3 van de RAR;
+   - – *Verkoop en klantcontact:* deze definitie is uitgewerkt in [paragraaf 5.2.3](https://wetten.overheid.nl/BWBR0051941) van de RAR;
 
    - – *Warmtebron:* installatie waar thermische energie vrijkomt of thermische energie geconverteerd wordt (bijvoorbeeld warmtepompen, e-boilers, back-up ketels);
 
@@ -135,13 +135,13 @@ opgehaald: 2026-09-09
 
 ### 2.1. Achtergrond
 
-- 2. Ingevolge artikel 7, eerste lid van de Warmtewet, verzamelt, analyseert en bewerkt de ACM inlichtingen en gegevens met betrekking tot onder meer de ontwikkeling van de rendementen behaald door warmteleveranciers (hierna: rendementsdata). Ingevolge artikel 7, tweede lid van de Warmtewet, toetst de ACM of het rendement van een warmteleverancier op al zijn netten gezamenlijk hoger is dan een door de ACM vast te stellen redelijk rendement. De ACM gebruikt de rendementsdata voor de rendementsmonitor en de rendementstoets.
+- 2. Ingevolge [artikel 7, eerste lid van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=7), verzamelt, analyseert en bewerkt de ACM inlichtingen en gegevens met betrekking tot onder meer de ontwikkeling van de rendementen behaald door warmteleveranciers (hierna: rendementsdata). Ingevolge artikel 7, tweede lid van de Warmtewet, toetst de ACM of het rendement van een warmteleverancier op al zijn netten gezamenlijk hoger is dan een door de ACM vast te stellen redelijk rendement. De ACM gebruikt de rendementsdata voor de rendementsmonitor en de rendementstoets.
 
 ### 2.2. Juridisch kader
 
-- 3. Ingevolge artikel 14, eerste lid van de Warmtewet, stelt de ACM regulatorische accountingregels (hierna: RAR) vast, gericht op de van een warmteleverancier of de groep waartoe deze behoort te verkrijgen noodzakelijke gegevens voor de uitvoering van de bij of krachtens artikel 7 van de Warmtewet gegeven bevoegdheden en de regulering van tarieven op basis van kosten. Ingevolge artikel 14, tweede lid van de Warmtewet, kan de ACM een leverancier of de groep waartoe hij behoort, verzoeken informatie op grond van de RAR te verstrekken.
+- 3. Ingevolge [artikel 14, eerste lid van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=14), stelt de ACM regulatorische accountingregels (hierna: RAR) vast, gericht op de van een warmteleverancier of de groep waartoe deze behoort te verkrijgen noodzakelijke gegevens voor de uitvoering van de bij of krachtens [artikel 7 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=7) gegeven bevoegdheden en de regulering van tarieven op basis van kosten. Ingevolge artikel 14, tweede lid van de Warmtewet, kan de ACM een leverancier of de groep waartoe hij behoort, verzoeken informatie op grond van de RAR te verstrekken.
 
-- 4. De RAR zijn algemeen verbindende voorschriften en hebben betrekking op de bevoegdheid voor de ACM om de noodzakelijke gegevens voor de uitvoering van artikel 7 van de Warmtewet over enig jaar bij warmteleveranciers op te vragen.
+- 4. De RAR zijn algemeen verbindende voorschriften en hebben betrekking op de bevoegdheid voor de ACM om de noodzakelijke gegevens voor de uitvoering van [artikel 7 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=7) over enig jaar bij warmteleveranciers op te vragen.
 
 ### 2.3. Doelstellingen
 
@@ -151,7 +151,7 @@ opgehaald: 2026-09-09
 
 ### 2.4. Reikwijdte RAR
 
-- 7. De in de RAR vastgelegde set van financiële verslaggevingsregels en definities hebben betrekking op alle financiële gegevens die benodigd zijn voor de uitvoering van de bij of krachtens artikel 7 van de Warmtewet gegeven bevoegdheden en de regulering van tarieven op basis van kosten. De RAR dienen primair voor gegevens en inlichtingen ten behoeve van de rendementsdata die de ACM uitvraagt.
+- 7. De in de RAR vastgelegde set van financiële verslaggevingsregels en definities hebben betrekking op alle financiële gegevens die benodigd zijn voor de uitvoering van de bij of krachtens [artikel 7 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=7) gegeven bevoegdheden en de regulering van tarieven op basis van kosten. De RAR dienen primair voor gegevens en inlichtingen ten behoeve van de rendementsdata die de ACM uitvraagt.
 
 - 8. De RAR zijn een standaard voor financiële verslaggevingsregels. Dientengevolge hebben de RAR slechts betrekking op financiële gegevens en bepaalde niet-financiële gegevens voor zover relevant voor de rendementsdata.
 
@@ -163,7 +163,7 @@ opgehaald: 2026-09-09
 
 ### 2.6. Kwaliteit rendementsdata
 
-- 11. In de aanloop naar de vorige RAR (Beleidsregel RAR 20232Zie wetten.nl - Regeling - Beleidsregel Regulatorische accountingregels warmte - BWBR0048577) was aanvankelijk (in 2022) een controleverklaring gevraagd. Na input van de sector is dat in de definitieve Beleidsregel RAR 2023 gewijzigd in een ingroeimodel met eerst een directieverklaring, te volgen door een beoordelingsverklaring en daarna een controleverklaring. Artikel 14 lid 3 van de Warmtewet, via amendement aangenomen bij de Wet gemeentelijke instrumenten warmtetransitie en in werking getreden per 1 januari 2025, geeft de ACM de mogelijkheid de informatie die een warmteleverancier verstrekt op grond van de RAR te laten controleren door een registeraccountant.
+- 11. In de aanloop naar de vorige RAR ([Beleidsregel RAR 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048577)2Zie wetten.nl - Regeling - Beleidsregel Regulatorische accountingregels warmte - BWBR0048577) was aanvankelijk (in 2022) een controleverklaring gevraagd. Na input van de sector is dat in de definitieve [Beleidsregel RAR 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048577) gewijzigd in een ingroeimodel met eerst een directieverklaring, te volgen door een beoordelingsverklaring en daarna een controleverklaring. [Artikel 14 lid 3 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=14), via amendement aangenomen bij de [Wet gemeentelijke instrumenten warmtetransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0050586) en in werking getreden per 1 januari 2025, geeft de ACM de mogelijkheid de informatie die een warmteleverancier verstrekt op grond van de RAR te laten controleren door een registeraccountant.
 
 - 12. De ACM vindt een hoge kwaliteit van de door warmteleveranciers te verstrekken data belangrijk en gaat gebruik maken van het eerder met de sector afgestemde ingroeimodel en de wettelijke mogelijkheid. Tegelijk is gebleken dat het voor de sector ingewikkeld is om in 2025 een controleverklaring op te leveren over de rendementsdata 2024. Daarom hanteert de ACM een aangepast ingroeimodel:
 
@@ -507,7 +507,7 @@ Warmtemeter
 
 ### 5.1. Inleiding en algemene uitgangspunten
 
-- 75. De systematiek voor kostentoerekening uit de RAR 2023 is naar aanleiding van de rendementsmonitor en rendementstoets 2023 aangescherpt in het document ‘Kostentoerekening warmte versie 1.0 d.d. 11 april 2025’ (hierna: KTR 1.0). Royal Haskoning DHV heeft op KTR 1.0 een toets uitgevoerd die op 18 april 2025 door de ACM is gepubliceerd10Zie kostentoerekening in de RAR warmte, [publicatie](https://www.acm.nl/nl/publicaties/kostentoerekening-de-rar-warmte) van 18 april 2025. De in deze RAR opgenomen verdeelsystematiek is een doorontwikkeling van KTR 1.0. De doorontwikkeling betreft een verfijning in de toerekening van:
+- 75. De systematiek voor kostentoerekening uit de [RAR 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048577) is naar aanleiding van de rendementsmonitor en rendementstoets 2023 aangescherpt in het document ‘Kostentoerekening warmte versie 1.0 d.d. 11 april 2025’ (hierna: KTR 1.0). Royal Haskoning DHV heeft op KTR 1.0 een toets uitgevoerd die op 18 april 2025 door de ACM is gepubliceerd10Zie kostentoerekening in de RAR warmte, [publicatie](https://www.acm.nl/nl/publicaties/kostentoerekening-de-rar-warmte) van 18 april 2025. De in deze RAR opgenomen verdeelsystematiek is een doorontwikkeling van KTR 1.0. De doorontwikkeling betreft een verfijning in de toerekening van:
 
    - • productie en inkoop als een warmteleverancier non-firm contracten heeft;
 
@@ -517,7 +517,7 @@ Warmtemeter
 
 - 76. Onder het begrip kostentoerekening valt de toerekening van kosten, opbrengsten, activa en passiva.
 
-- 77. De kostentoerekening bevat twee stappen: Bijlage 1 bevat een schematische weergave van de kostentoerekening.
+- 77. De kostentoerekening bevat twee stappen: [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051941&bijlage=1&z=2025-06-27&g=2025-06-27) bevat een schematische weergave van de kostentoerekening.
 
    - • Stap 1: toerekening aan activiteiten;
 
@@ -655,7 +655,7 @@ Warmtemeter
 
 - 94. Een desinvestering als gevolg van de beëindiging van de ontwikkeling van een nieuw net valt niet onder verkoop en klantcontact.
 
-- 95. Niet alle operationele kosten die niet direct samenhangen met productie en inkoop of transport en distributie zijn onderdeel van verkoop en klantcontact. Zie paragraaf 5.2.6. voor verdere uitleg.
+- 95. Niet alle operationele kosten die niet direct samenhangen met productie en inkoop of transport en distributie zijn onderdeel van verkoop en klantcontact. Zie [paragraaf 5.2.6.](https://wetten.overheid.nl/BWBR0051941) voor verdere uitleg.
 
 ### 5.2.4. Ontwikkeling nieuwe warmtenetten
 
@@ -681,19 +681,19 @@ Warmtemeter
 
 ### 5.2.5. Overig: Werk voor derden en diversen
 
-- 99. Met Werk voor derden en diversen bedoelt de ACM activiteiten die een warmteleverancier verricht, maar los staan van de activiteiten zoals gedefinieerd in paragrafen 5.2.1 tot en met 5.2.4, zoals:
+- 99. Met Werk voor derden en diversen bedoelt de ACM activiteiten die een warmteleverancier verricht, maar los staan van de activiteiten zoals gedefinieerd in [paragrafen 5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/BWBR0051941), zoals:
 
    - • Dienstverlening aan een andere warmteleverancier;
 
-   - • Deelnemingen in vennootschappen die geen activiteiten verrichten zoals gedefinieerd in paragrafen 5.2.1 tot en met 5.2.4.
+   - • Deelnemingen in vennootschappen die geen activiteiten verrichten zoals gedefinieerd in [paragrafen 5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/BWBR0051941).
 
-- 100. Een activiteit valt alleen onder werk voor derden en diversen als zowel de kosten als de opbrengsten die ermee verband houden direct identificeerbaar zijn. Als de kosten van overige werkzaamheden onlosmakelijk verbonden zijn met een van de activiteiten gedefinieerd onder paragrafen 5.2.1 tot en met 5.2.4, dan behoren zowel de kosten als de opbrengsten uit deze werkzaamheden tot die activiteit.
+- 100. Een activiteit valt alleen onder werk voor derden en diversen als zowel de kosten als de opbrengsten die ermee verband houden direct identificeerbaar zijn. Als de kosten van overige werkzaamheden onlosmakelijk verbonden zijn met een van de activiteiten gedefinieerd onder [paragrafen 5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/BWBR0051941), dan behoren zowel de kosten als de opbrengsten uit deze werkzaamheden tot die activiteit.
 
-- 101. Een activiteit valt niet onder werk voor derden en diversen als deze wel ten dienste is van de activiteiten gedefinieerd onder paragrafen 5.2.1 tot en met 5.2.4, maar niet direct toerekenbaar is aan een van deze activiteiten. Deze ondersteunende activiteiten zijn indirecte posten, zoals bedoeld in paragraaf 5.2.6.
+- 101. Een activiteit valt niet onder werk voor derden en diversen als deze wel ten dienste is van de activiteiten gedefinieerd onder [paragrafen 5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/BWBR0051941), maar niet direct toerekenbaar is aan een van deze activiteiten. Deze ondersteunende activiteiten zijn indirecte posten, zoals bedoeld in [paragraaf 5.2.6](https://wetten.overheid.nl/BWBR0051941).
 
 ### 5.2.6. Toerekening indirecte posten aan activiteiten
 
-- 102. Warmtebedrijven moeten zoveel als mogelijk hun kosten direct toerekenen aan één van de vijf activiteiten zoals gedefinieerd in paragrafen 5.2.1 tot en met 5.2.5. Dat betekent dus ook dat personeel op basis van de door hen uitgevoerde werkzaamheden ingedeeld moet worden naar één van de vijf activiteiten, zo nodig (bijvoorbeeld bij ontbreken urenregistratie) op basis van een onderbouwde schatting door het betreffende personeel of de leidinggevenden. Voor een relatief klein deel van de kosten zal een toerekening naar één van de vijf activiteiten onhaalbaar zijn, zoals: Toerekening indirecte kosten aan gereguleerd/ongereguleerd per activiteit
+- 102. Warmtebedrijven moeten zoveel als mogelijk hun kosten direct toerekenen aan één van de vijf activiteiten zoals gedefinieerd in [paragrafen 5.2.1 tot en met 5.2.5](https://wetten.overheid.nl/BWBR0051941). Dat betekent dus ook dat personeel op basis van de door hen uitgevoerde werkzaamheden ingedeeld moet worden naar één van de vijf activiteiten, zo nodig (bijvoorbeeld bij ontbreken urenregistratie) op basis van een onderbouwde schatting door het betreffende personeel of de leidinggevenden. Voor een relatief klein deel van de kosten zal een toerekening naar één van de vijf activiteiten onhaalbaar zijn, zoals: Toerekening indirecte kosten aan gereguleerd/ongereguleerd per activiteit
 
    - • ondersteunende functies (PIOFACH14Ondersteunend personeel (bv. HRM/bedrijfsvoering), Informatievoorziening, Organisatie, Financiën, Administratieve organisatie, Communicatie, Huisvesting en facilitaire zaken.-functies, waaronder huur kantoorpand en accountantskosten);
 
@@ -761,7 +761,7 @@ Indirecte toerekening: Onder voorwaarden op basis van benodigde netcapaciteit
 
    - • de warmteleverancier kan identificeren welke aansluitingen zijn gerealiseerd als onderdeel van het project waarvoor deze KDB is overeengekomen.
 
-- 114. Toerekening op basis van benodigde netcapaciteit van KDB die aan deze voorwaarden voldoet gebeurt op basis van de benodigde netcapaciteit van afnemers wiens aansluitingen behoren tot het project waarvoor deze KDB is overeengekomen. Benodigde netcapaciteit van een afnemer wordt berekend conform de voorschriften als vermeld in paragraaf 5.3.2.1.
+- 114. Toerekening op basis van benodigde netcapaciteit van KDB die aan deze voorwaarden voldoet gebeurt op basis van de benodigde netcapaciteit van afnemers wiens aansluitingen behoren tot het project waarvoor deze KDB is overeengekomen. Benodigde netcapaciteit van een afnemer wordt berekend conform de voorschriften als vermeld in [paragraaf 5.3.2.1](https://wetten.overheid.nl/BWBR0051941).
 
 ### 5.3.3. Verkoop en klantcontact
 
@@ -775,7 +775,7 @@ Verdeling op basis van het aantal aansluitingen met een correctiefactor voor gro
 
 Verdeling op basis van de eerste drie activiteiten en anders te ontwikkelen gebied
 
-- 117. Indirecte kosten en opbrengsten dienen verdeeld te worden op basis van de ratio van de gereguleerde en ongereguleerde kosten in de eerste drie activiteiten als vermeld in de paragrafen 5.2.1 tot en met 5.2.3 (‘productie en inkoop’; ‘transport en distributie’; en ‘verkoop en klantcontact’). Indien sprake is van een gevalideerde businesscase voor het te ontwikkelen gebied waaruit een beter onderbouwde schatting volgt, hanteert de warmteleverancier die businesscase met de verdeelsleutels die gelden voor de eerste drie activiteiten als vermeld in de paragrafen 5.2.1 tot en met 5.2.3 (‘productie en inkoop’, ‘transport en distributie’ en ‘verkoop en klantcontact’).
+- 117. Indirecte kosten en opbrengsten dienen verdeeld te worden op basis van de ratio van de gereguleerde en ongereguleerde kosten in de eerste drie activiteiten als vermeld in de [paragrafen 5.2.1 tot en met 5.2.3](https://wetten.overheid.nl/BWBR0051941) (‘productie en inkoop’; ‘transport en distributie’; en ‘verkoop en klantcontact’). Indien sprake is van een gevalideerde businesscase voor het te ontwikkelen gebied waaruit een beter onderbouwde schatting volgt, hanteert de warmteleverancier die businesscase met de verdeelsleutels die gelden voor de eerste drie activiteiten als vermeld in de paragrafen 5.2.1 tot en met 5.2.3 (‘productie en inkoop’, ‘transport en distributie’ en ‘verkoop en klantcontact’).
 
 - 118. Kosten als gevolg van desinvestering nieuwe netten hebben geen impact op gereguleerde rendementen omdat deze kosten onder het ondernemersrisico vallen.
 
@@ -785,9 +785,9 @@ Verdeling op basis van de eerste drie activiteiten en anders te ontwikkelen gebi
 
 - 120. Alle activa/passiva en kosten/opbrengsten met betrekking tot productie en inkoop van thermische energie die niet direct toerekenbaar zijn aan een warmtenet dienen toegerekend te worden aan warmtenetten op basis van de ratio afzet.
 
-- 121. Alle activa/passiva en kosten/opbrengsten met betrekking tot transport en distributie van thermische energie die niet direct toerekenbaar zijn aan een warmtenet dienen toegerekend te worden aan warmtenetten op basis van de ratio benodigde netcapaciteit, berekend conform de methode als vermeld in paragraaf 5.3.2.1.
+- 121. Alle activa/passiva en kosten/opbrengsten met betrekking tot transport en distributie van thermische energie die niet direct toerekenbaar zijn aan een warmtenet dienen toegerekend te worden aan warmtenetten op basis van de ratio benodigde netcapaciteit, berekend conform de methode als vermeld in [paragraaf 5.3.2.1](https://wetten.overheid.nl/BWBR0051941).
 
-- 122. Alle activa/passiva en kosten/opbrengsten met betrekking verkoop en klantcontact die niet direct toerekenbaar zijn aan een warmtenet dienen toegerekend te worden aan warmtenetten op basis van de ratio aansluitingen met een correctiefactor voor grootverbruikers als bedoeld in paragraaf 5.3.3.
+- 122. Alle activa/passiva en kosten/opbrengsten met betrekking verkoop en klantcontact die niet direct toerekenbaar zijn aan een warmtenet dienen toegerekend te worden aan warmtenetten op basis van de ratio aansluitingen met een correctiefactor voor grootverbruikers als bedoeld in [paragraaf 5.3.3](https://wetten.overheid.nl/BWBR0051941).
 
 - 123. Activa/passiva en kosten/opbrengsten met betrekking tot ontwikkeling nieuwe netten en werk voor derden en diversen dienen in geen geval toegerekend te worden aan bestaande warmtenetten.
 

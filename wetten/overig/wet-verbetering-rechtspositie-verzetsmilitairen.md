@@ -9,7 +9,7 @@ laatste_update: 1990-07-01
 status: geldig
 toestand: 1990-07-01
 bron: "https://wetten.overheid.nl/BWBR0003015"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 20 januari 1976, tot verbetering van de rechtspositie van militairen die zich gedurende de vijandelijke bezetting van Nederland aan krijgsgevangenschap hebben onttrokken en van die van hun nagelaten betrekkingen

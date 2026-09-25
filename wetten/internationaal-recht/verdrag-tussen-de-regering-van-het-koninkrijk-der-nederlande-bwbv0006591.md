@@ -8,7 +8,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBV0006591"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van de Franse Republiek inzake maritieme afbakening in het Caribisch gebied

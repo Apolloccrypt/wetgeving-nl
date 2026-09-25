@@ -9,7 +9,7 @@ laatste_update: 2005-12-29
 status: geldig
 toestand: 2005-12-29
 bron: "https://wetten.overheid.nl/BWBR0002861"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 22 december 1972, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 52 van de Wet op de arbeidsongeschiktheidsverzekering

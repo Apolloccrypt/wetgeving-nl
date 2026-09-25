@@ -9,7 +9,7 @@ laatste_update: 1970-01-01
 status: geldig
 toestand: 1970-01-01
 bron: "https://wetten.overheid.nl/BWBR0002689"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Uitvoering van artikel 10 van het Besluit registratie splijtstoffen en ertsen

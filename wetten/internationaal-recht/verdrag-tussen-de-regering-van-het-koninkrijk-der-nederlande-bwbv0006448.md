@@ -8,7 +8,7 @@ laatste_update: 2015-05-26
 status: geldig
 toestand: 2015-05-26
 bron: "https://wetten.overheid.nl/BWBV0006448"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland betreffende de coproductie van films

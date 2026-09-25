@@ -8,7 +8,7 @@ laatste_update: 1926-06-05
 status: geldig
 toestand: 1926-06-05
 bron: "https://wetten.overheid.nl/BWBV0006076"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Protocol betreffende de toetreding tot het op 17 juli 1905 te 's-Gravenhage gesloten Verdrag betreffende de burgerlijke rechtsvordering

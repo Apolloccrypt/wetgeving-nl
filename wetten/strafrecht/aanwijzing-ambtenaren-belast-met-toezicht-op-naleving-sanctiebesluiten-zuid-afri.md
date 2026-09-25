@@ -8,7 +8,7 @@ laatste_update: 1981-09-22
 status: geldig
 toestand: 1981-09-22
 bron: "https://wetten.overheid.nl/BWBR0003434"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Aanwijzing ambtenaren belast met toezicht op naleving Sanctiebesluiten Zuid-Afrika 1981

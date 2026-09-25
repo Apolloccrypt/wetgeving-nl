@@ -9,7 +9,7 @@ laatste_update: 1979-01-27
 status: geldig
 toestand: 1979-01-27
 bron: "https://wetten.overheid.nl/BWBR0003213"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Aanwijzing 's-Gravenhage als vestigingsplaats voor een casino

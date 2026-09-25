@@ -9,7 +9,7 @@ laatste_update: 1986-03-19
 status: geldig
 toestand: 1986-03-19
 bron: "https://wetten.overheid.nl/BWBR0002929"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Examens accountants-administratieconsulenten

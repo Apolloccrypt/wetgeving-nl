@@ -9,7 +9,7 @@ laatste_update: 1971-08-18
 status: geldig
 toestand: 1971-08-18
 bron: "https://wetten.overheid.nl/BWBR0002774"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 6 juli 1971, houdende instelling van een departement van Volksgezondheid en Milieuhygiëne en naamsverandering van het departement van Sociale Zaken en Volksgezondheid

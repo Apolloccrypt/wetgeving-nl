@@ -8,7 +8,7 @@ laatste_update: 1956-10-31
 status: geldig
 toestand: 1956-10-31
 bron: "https://wetten.overheid.nl/BWBV0006461"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen de Nederlandse Regering en de Duitse Bondsregering betreffende de wedertoepassing van het op 11 mei 1920 te 's-Gravenhage tussen de Nederlandse en de Duitse Regering gesloten Verdrag nopens krediet en steenkolen

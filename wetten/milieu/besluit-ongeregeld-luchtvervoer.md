@@ -9,7 +9,7 @@ laatste_update: 2010-06-12
 status: geldig
 toestand: 2010-06-12
 bron: "https://wetten.overheid.nl/BWBR0002965"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 2 mei 1975, houdende regels inzake het ongeregeld luchtvervoer

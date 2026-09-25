@@ -8,7 +8,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBV0006411"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende het gebruik en beheer van de territoriale zee van 3 tot 12 zeemijlen

@@ -9,7 +9,7 @@ laatste_update: 2025-05-27
 status: geldig
 toestand: 2025-05-27
 bron: "https://wetten.overheid.nl/BWBR0003030"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 22 april 1976, tot uitvoering van artikel 73 van de Wet op de rechterlijke organisatie

@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0003017"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 4 februari 1976, tot opheffing van het bedrijfschap voor de Steenkolenmijnindustrie

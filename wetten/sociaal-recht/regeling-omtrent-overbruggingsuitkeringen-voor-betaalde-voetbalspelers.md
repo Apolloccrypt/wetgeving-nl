@@ -8,7 +8,7 @@ laatste_update: 1972-11-30
 status: geldig
 toestand: 1972-11-30
 bron: "https://wetten.overheid.nl/BWBR0002850"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Regeling omtrent overbruggingsuitkeringen voor betaalde voetbalspelers

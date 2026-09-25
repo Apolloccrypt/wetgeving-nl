@@ -8,7 +8,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBV0006198"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Briefwisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden, ten behoeve van het Caribische deel van Nederland, en de Republiek Kroatië betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling

@@ -9,7 +9,7 @@ laatste_update: 2017-09-23
 status: geldig
 toestand: 2017-09-23
 bron: "https://wetten.overheid.nl/BWBR0002868"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 23 januari 1973, ter uitvoering van artikel 1637s, tweede lid, onder c en d, Burgerlijk Wetboek

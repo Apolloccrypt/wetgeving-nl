@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0002897"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 7 september 1973, houdende uitvoering van het op 1 juni 1967 te Londen tot stand gekomen Verdrag inzake de uitoefening van de visserij op de Noordatlantische Oceaan, met Bijlagen en Aanhangsel (Trb. 1968, 54) (Verbeterblad)

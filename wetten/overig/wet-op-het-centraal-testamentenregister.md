@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0003080"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 12 januari 1977, tot vaststelling van de Wet op het centraal testamentenregister

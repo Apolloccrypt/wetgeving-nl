@@ -8,7 +8,7 @@ laatste_update: 2024-08-05
 status: geldig
 toestand: 2024-08-05
 bron: "https://wetten.overheid.nl/BWBV0007070"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Republiek Cyprus inzake noodevacuatieoperaties als gevolg van een crisissituatie

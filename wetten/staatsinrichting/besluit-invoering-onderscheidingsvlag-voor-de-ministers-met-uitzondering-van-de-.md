@@ -9,7 +9,7 @@ laatste_update: 1972-12-04
 status: geldig
 toestand: 1972-12-04
 bron: "https://wetten.overheid.nl/BWBR0002837"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 28 september 1972, houdende invoering van een onderscheidingsvlag voor de ministers, met uitzondering van de minister van Defensie

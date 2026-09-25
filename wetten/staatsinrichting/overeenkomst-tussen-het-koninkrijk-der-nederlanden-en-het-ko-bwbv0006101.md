@@ -8,7 +8,7 @@ laatste_update: 1903-07-28
 status: geldig
 toestand: 1903-07-28
 bron: "https://wetten.overheid.nl/BWBV0006101"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot wijziging der Overeenkomst van 29 juni 1895 betreffende de verbetering van het Kanaal van Gent naar Terneuzen

@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0002810"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Rijkswet van 23 juni 1972, houdende voorzieningen op het gebied van de zeescheepvaart in buitengewone omstandigheden

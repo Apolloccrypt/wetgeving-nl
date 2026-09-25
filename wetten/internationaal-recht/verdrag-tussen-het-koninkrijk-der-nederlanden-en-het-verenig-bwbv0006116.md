@@ -8,7 +8,7 @@ laatste_update: 1899-03-14
 status: geldig
 toestand: 1899-03-14
 bron: "https://wetten.overheid.nl/BWBV0006116"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Ierland tot uitlevering van misdadigers

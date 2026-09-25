@@ -8,7 +8,7 @@ laatste_update: 2016-01-08
 status: geldig
 toestand: 2016-01-08
 bron: "https://wetten.overheid.nl/BWBV0006363"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Republiek Argentinië voor de uitwisseling van informatie betreffende belastingen

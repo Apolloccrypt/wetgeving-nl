@@ -7,7 +7,7 @@ laatste_update: 2013-05-23
 status: geldig
 toestand: 2013-05-23
 bron: "https://wetten.overheid.nl/BWBV0006200"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië

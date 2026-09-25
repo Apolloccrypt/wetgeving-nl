@@ -8,7 +8,7 @@ laatste_update: 2019-02-01
 status: geldig
 toestand: 2019-02-01
 bron: "https://wetten.overheid.nl/BWBV0006417"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Federale Republiek Brazilië

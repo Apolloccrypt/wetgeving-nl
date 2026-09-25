@@ -8,7 +8,7 @@ laatste_update: 2020-03-19
 status: geldig
 toestand: 2020-03-19
 bron: "https://wetten.overheid.nl/BWBV0006791"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Noord-Macedonië

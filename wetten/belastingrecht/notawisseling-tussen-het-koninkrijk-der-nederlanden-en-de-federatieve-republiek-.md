@@ -8,7 +8,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBV0006436"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Federatieve Republiek Brazilië inzake de uitbreiding tot Aruba, Curaçao en Sint Maarten van het Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek Brazilië inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving

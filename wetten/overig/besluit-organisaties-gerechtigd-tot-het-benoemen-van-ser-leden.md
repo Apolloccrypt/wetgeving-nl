@@ -9,7 +9,7 @@ laatste_update: 2023-09-16
 status: geldig
 toestand: 2023-09-16
 bron: "https://wetten.overheid.nl/BWBR0003298"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Organisaties gerechtigd tot het benoemen van SER-leden

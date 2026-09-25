@@ -9,7 +9,7 @@ laatste_update: 2026-09-22
 status: geldig
 toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0041647"
-opgehaald: 2026-09-24
+opgehaald: 2026-09-25
 ---
 
 # Regeling van de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid van 6 december 2018, kenmerk 2018-0000208130, directie Financiële Markten, tot vaststelling van de tarieven voor het verrichten van eenmalige handelingen door de Autoriteit Financiële Markten en De Nederlandsche Bank (Regeling bekostiging financieel toezicht eenmalige handelingen)

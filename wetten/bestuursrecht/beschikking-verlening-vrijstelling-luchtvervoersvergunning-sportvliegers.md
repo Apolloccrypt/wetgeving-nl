@@ -8,7 +8,7 @@ laatste_update: 1981-09-07
 status: geldig
 toestand: 1981-09-07
 bron: "https://wetten.overheid.nl/BWBR0003426"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Beschikking verlening vrijstelling luchtvervoersvergunning sportvliegers

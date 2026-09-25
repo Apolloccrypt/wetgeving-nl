@@ -8,7 +8,7 @@ laatste_update: 1987-06-01
 status: geldig
 toestand: 1987-06-01
 bron: "https://wetten.overheid.nl/BWBV0006085"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot wijziging van het op 20 juni 1960 te Brussel gesloten Verdrag betreffende de verbetering van het Kanaal van Terneuzen naar Gent en de regeling van enige daarmede verband houdende aangelegenheden en tot regeling van de terbeschikkingstelling van zoetwater door België aan Nederland naar aanleiding van deze wijziging

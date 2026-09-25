@@ -8,7 +8,7 @@ laatste_update: 1992-11-09
 status: geldig
 toestand: 1992-11-09
 bron: "https://wetten.overheid.nl/BWBV0006337"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Overeenkomst inzake de conventionele wapensystemen van de Unie van Socialistische Sovjetrepublieken in Estland, Letland en Litouwen tussen de Staten die Partij zijn bij het Verdrag inzake conventionele strijdkrachten in Europa

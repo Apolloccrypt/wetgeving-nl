@@ -9,7 +9,7 @@ laatste_update: 2026-09-22
 status: geldig
 toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0051495"
-opgehaald: 2026-09-24
+opgehaald: 2026-09-25
 ---
 
 # Regeling van de Minister van Financiën van 2025-0000248607, directie Financiële Markten, houdende regels met betrekking tot de taakuitoefening en samenwerking van financiële toezichthouders

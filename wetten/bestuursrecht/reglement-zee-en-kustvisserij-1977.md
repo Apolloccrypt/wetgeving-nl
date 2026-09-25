@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0003144"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 25 november 1977, houdende bepalingen omtrent de uitoefening van de zee- en kustvisserij

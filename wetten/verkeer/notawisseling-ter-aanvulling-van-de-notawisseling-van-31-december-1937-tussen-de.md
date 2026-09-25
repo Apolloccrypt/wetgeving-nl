@@ -8,7 +8,7 @@ laatste_update: 1938-02-04
 status: geldig
 toestand: 1938-02-04
 bron: "https://wetten.overheid.nl/BWBV0006032"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling ter aanvulling van de Notawisseling van 31 december 1937 tussen de Nederlandse en de Belgische Regering nopens betaald personen- en goederenverkeer per auto

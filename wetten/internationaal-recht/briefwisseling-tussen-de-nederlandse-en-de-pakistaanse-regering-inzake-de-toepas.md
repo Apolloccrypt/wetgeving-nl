@@ -8,7 +8,7 @@ laatste_update: 1952-06-24
 status: geldig
 toestand: 1952-06-24
 bron: "https://wetten.overheid.nl/BWBV0006134"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Briefwisseling tussen de Nederlandse en de Pakistaanse Regering inzake de toepassing van het Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Ierland tot uitlevering van misdadigers

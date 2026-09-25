@@ -9,7 +9,7 @@ laatste_update: 1982-03-15
 status: geldig
 toestand: 1982-03-15
 bron: "https://wetten.overheid.nl/BWBR0003401"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 15 mei 1981, houdende regeling van de omrekening in Nederlands geld van in goud uitgedrukte rekeneenheden

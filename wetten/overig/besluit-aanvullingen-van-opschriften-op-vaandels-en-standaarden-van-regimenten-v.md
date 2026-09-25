@@ -9,7 +9,7 @@ laatste_update: 1980-12-29
 status: geldig
 toestand: 1980-12-29
 bron: "https://wetten.overheid.nl/BWBR0003148"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 16 december 1977, houdende aanvullingen van opschriften op vaandels en standaarden van regimenten van de Koninklijke landmacht voor krijgsverrichtingen in het voormalige Nederlands-Indië gedurende de jaren 1945-1949

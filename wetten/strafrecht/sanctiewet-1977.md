@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0003296"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 15 februari 1980, tot het treffen van sancties tegen bepaalde staten of gebieden

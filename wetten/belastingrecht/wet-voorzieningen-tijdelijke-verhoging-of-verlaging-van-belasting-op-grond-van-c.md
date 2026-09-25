@@ -9,7 +9,7 @@ laatste_update: 1971-12-19
 status: geldig
 toestand: 1971-12-19
 bron: "https://wetten.overheid.nl/BWBR0002797"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 15 december 1971, houdende voorzieningen met betrekking tot de tijdelijke verhoging of verlaging van belasting op grond van conjuncturele overwegingen

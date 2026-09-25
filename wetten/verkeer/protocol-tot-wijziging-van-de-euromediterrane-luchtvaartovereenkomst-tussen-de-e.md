@@ -8,7 +8,7 @@ laatste_update: 2020-08-02
 status: geldig
 toestand: 2020-08-02
 bron: "https://wetten.overheid.nl/BWBV0006486"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Protocol tot wijziging van de Euromediterrane luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de regering van de Staat Israël, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie

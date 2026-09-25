@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0002822"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 7 juni 1972, houdende regelen met betrekking tot voorzieningen ten behoeve van dienstplichtige militairen en daarmede gelijkgestelden tegen geldelijke gevolgen van arbeidsongeschiktheid

@@ -9,7 +9,7 @@ laatste_update: 1979-01-13
 status: geldig
 toestand: 1979-01-13
 bron: "https://wetten.overheid.nl/BWBR0003210"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 9 december 1978, houdende heroprichting van het 2de Regiment Huzaren onder de naam Regiment Huzaren Prins van Oranje

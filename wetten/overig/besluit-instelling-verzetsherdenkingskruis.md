@@ -9,7 +9,7 @@ laatste_update: 1980-12-31
 status: geldig
 toestand: 1980-12-31
 bron: "https://wetten.overheid.nl/BWBR0003365"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 29 december 1980, houdende instelling van het Verzetsherdenkingskruis

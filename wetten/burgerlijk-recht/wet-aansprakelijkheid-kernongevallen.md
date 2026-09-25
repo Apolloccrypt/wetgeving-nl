@@ -9,7 +9,7 @@ laatste_update: 2024-09-06
 status: geldig
 toestand: 2024-09-06
 bron: "https://wetten.overheid.nl/BWBR0003234"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 17 maart 1979, houdende regelen inzake aansprakelijkheid voor schade door kernongevallen

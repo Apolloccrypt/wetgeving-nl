@@ -8,7 +8,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBV0006979"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Supreme Headquarters Allied Powers Europe (SHAPE) inzake de mogelijkheid voor gezinsleden van functionarissen van het Headquarters Allied Joint Force Command Brunssum (JFC HQ Brunssum) om in Nederland betaald werk te verrichten

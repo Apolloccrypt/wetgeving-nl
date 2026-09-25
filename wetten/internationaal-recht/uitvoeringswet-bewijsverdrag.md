@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0003362"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 11 december 1980, houdende uitvoering van het op 18 maart 1970 te 's-Gravenhage tot stand gekomen Verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken

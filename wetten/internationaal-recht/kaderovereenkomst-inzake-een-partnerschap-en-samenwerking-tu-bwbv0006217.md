@@ -8,7 +8,7 @@ laatste_update: 2017-11-01
 status: geldig
 toestand: 2017-11-01
 bron: "https://wetten.overheid.nl/BWBV0006217"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Kaderovereenkomst inzake een partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en Mongolië, anderzijds

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0002718"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 9 juli 1970, houdende vaststelling van de Experimentenwet onderwijs

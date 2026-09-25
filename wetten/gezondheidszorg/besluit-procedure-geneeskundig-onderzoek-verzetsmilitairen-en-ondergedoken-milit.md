@@ -9,7 +9,7 @@ laatste_update: 2005-05-11
 status: geldig
 toestand: 2005-05-11
 bron: "https://wetten.overheid.nl/BWBR0003262"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 25 augustus 1979, houdende vaststelling van de procedure voor het geneeskundig onderzoek ten aanzien van verzetsmilitairen en ondergedoken militairen

@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0048679"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-25
 ---
 
 # Beleidsregel prestaties en tarieven medisch-specialistische zorg
@@ -621,7 +621,7 @@ Voor de volgende overige zorgproducten wordt aangesloten bij de tarieven voor de
 
 - b deze kostprijs is opgebouwd uit de kostencomponenten zoals opgenomen in het format 'kostprijsonderbouwing dure apotheekbereiding'. Dit format en bijbehorende bestuursverklaring maken deel uit van het 'formulier aanvraag add-on geneesmiddelen/ozp-stollingsfactoren';
 
-- c de tarieven na vaststelling periodiek worden herijkt op basis van de jaarlijkse kostprijsaanlevering zoals beschreven in 'Totstandkoming Tarieven' (bijlage bij deze beleidsregel);
+- c de tarieven na vaststelling periodiek worden herijkt op basis van de jaarlijkse kostprijsaanlevering zoals beschreven in 'Totstandkoming Tarieven' ([bijlage](https://wetten.overheid.nl/BWBR0048679) bij deze beleidsregel);
 
 - d gedurende de periode waarin volgens de geldende regelgeving nog geen kostprijs voor een add-ongeneesmiddel of ozp-stollingsfactor aangeleverd hoeft te worden, de tarieven worden geïndexeerd
 

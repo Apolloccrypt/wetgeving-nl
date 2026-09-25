@@ -9,7 +9,7 @@ laatste_update: 1981-07-21
 status: geldig
 toestand: 1981-07-21
 bron: "https://wetten.overheid.nl/BWBR0003380"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 26 februari 1981, houdende overdracht van de aangelegenheden betreffende de centrale organisatie voor toegepast natuurwetenschappelijk onderzoek

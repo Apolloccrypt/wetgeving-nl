@@ -8,7 +8,7 @@ laatste_update: 2017-04-01
 status: geldig
 toestand: 2017-04-01
 bron: "https://wetten.overheid.nl/BWBV0006633"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Verenigde Staten van Amerika inzake het luchtvervoer tussen Curaçao en de Verenigde Staten van Amerika

@@ -8,7 +8,7 @@ laatste_update: 1978-04-24
 status: geldig
 toestand: 1978-04-24
 bron: "https://wetten.overheid.nl/BWBR0003159"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Regeling ex artikel 10 Richtlijn van de Raad van de EG

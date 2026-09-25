@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0002996"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 3 september 1975, tot uitvoering van enige artikelen van de Wet voorlopige regeling schadefonds geweldsmisdrijven

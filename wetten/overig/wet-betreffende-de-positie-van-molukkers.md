@@ -9,7 +9,7 @@ laatste_update: 2017-03-01
 status: geldig
 toestand: 2017-03-01
 bron: "https://wetten.overheid.nl/BWBR0003052"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 9 september 1976, houdende regelen omtrent de positie van in Nederland wonende Molukkers die niet het Nederlanderschap bezitten

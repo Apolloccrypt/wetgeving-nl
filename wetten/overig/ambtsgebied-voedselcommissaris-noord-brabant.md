@@ -8,7 +8,7 @@ laatste_update: 1970-06-11
 status: geldig
 toestand: 1970-06-11
 bron: "https://wetten.overheid.nl/BWBR0002709"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Ambtsgebied voedselcommissaris Noord-Brabant

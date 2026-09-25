@@ -8,7 +8,7 @@ laatste_update: 2015-02-01
 status: geldig
 toestand: 2015-02-01
 bron: "https://wetten.overheid.nl/BWBV0006399"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen het Koninkrijk der Nederlanden en de Republiek Estland inzake een uitbreiding tot Aruba, Curaçao en Sint Maarten van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Estland inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving

@@ -9,7 +9,7 @@ laatste_update: 1981-11-14
 status: geldig
 toestand: 1981-11-14
 bron: "https://wetten.overheid.nl/BWBR0003422"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 13 juli 1981, houdende een verbod aan de deurwaarders om exploiten te doen ter zake van beslagen op of vorderingen verband houdende met de aanwezigheid in Nederland van de fondsen bedoeld in de overeenkomst met de Verenigde Staten van 10 juli 1981 betreffende een garantiefonds

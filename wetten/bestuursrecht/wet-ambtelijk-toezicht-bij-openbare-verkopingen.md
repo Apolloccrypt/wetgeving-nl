@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0002798"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 15 december 1971, houdende een nieuwe regeling betreffende het ambtelijk toezicht bij openbare verkopingen

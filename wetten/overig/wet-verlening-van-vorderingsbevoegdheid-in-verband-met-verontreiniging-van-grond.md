@@ -9,7 +9,7 @@ laatste_update: 1980-06-05
 status: geldig
 toestand: 1980-06-05
 bron: "https://wetten.overheid.nl/BWBR0003321"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 4 juni 1980, houdende verlening van vorderingsbevoegdheid in verband met verontreiniging van gronden in Lekkerkerk

@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0002762"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 6 mei 1971, tot aanpassing van de daglonen, welke aan de arbeidsongeschiktheidsuitkeringen krachtens de Wet overgangsregeling arbeidsongeschiktheidsverzekering ten grondslag liggen

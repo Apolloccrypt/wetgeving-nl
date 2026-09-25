@@ -9,7 +9,7 @@ laatste_update: 1972-04-05
 status: geldig
 toestand: 1972-04-05
 bron: "https://wetten.overheid.nl/BWBR0002802"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Aanwijzing opsporingsambtenaren

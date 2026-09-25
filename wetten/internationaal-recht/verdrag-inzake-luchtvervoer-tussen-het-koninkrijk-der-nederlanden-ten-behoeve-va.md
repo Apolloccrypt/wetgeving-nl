@@ -8,7 +8,7 @@ laatste_update: 2016-10-01
 status: geldig
 toestand: 2016-10-01
 bron: "https://wetten.overheid.nl/BWBV0006508"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag inzake luchtvervoer tussen het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Republiek Panama

@@ -9,7 +9,7 @@ laatste_update: 2007-11-01
 status: geldig
 toestand: 2007-11-01
 bron: "https://wetten.overheid.nl/BWBR0003173"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 25 mei 1978, houdende regelen inzake voorzieningen op het gebied van het financiële verkeer in buitengewone omstandigheden

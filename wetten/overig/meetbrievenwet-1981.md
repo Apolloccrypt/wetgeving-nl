@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0003378"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 12 februari 1981, houdende bepalingen betreffende de meting van schepen

@@ -9,7 +9,7 @@ laatste_update: 2014-01-06
 status: geldig
 toestand: 2014-01-06
 bron: "https://wetten.overheid.nl/BWBR0002759"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 23 april 1971, houdende regeling met betrekking tot de arbeid ten behoeve van de volkshuishouding, de landsverdediging en de overheidsdienst voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden

@@ -8,7 +8,7 @@ laatste_update: 1976-01-01
 status: geldig
 toestand: 1976-01-01
 bron: "https://wetten.overheid.nl/BWBR0003005"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Beschikking wijziging-percentage levensonderhoud 1976

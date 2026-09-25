@@ -8,7 +8,7 @@ laatste_update: 2016-09-01
 status: geldig
 toestand: 2016-09-01
 bron: "https://wetten.overheid.nl/BWBV0006484"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de zetel van het Internationaal Restmechanisme voor Straftribunalen

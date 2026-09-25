@@ -8,7 +8,7 @@ laatste_update: 1971-12-08
 status: geldig
 toestand: 1971-12-08
 bron: "https://wetten.overheid.nl/BWBR0002791"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Verontreinigingsheffing rijkswateren

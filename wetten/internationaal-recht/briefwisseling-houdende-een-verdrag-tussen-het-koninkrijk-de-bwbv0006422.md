@@ -8,7 +8,7 @@ laatste_update: 2006-12-24
 status: geldig
 toestand: 2006-12-24
 bron: "https://wetten.overheid.nl/BWBV0006422"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Staat Koeweit inzake de status van het in Koeweit gestationeerde Nederlandse defensie-personeel

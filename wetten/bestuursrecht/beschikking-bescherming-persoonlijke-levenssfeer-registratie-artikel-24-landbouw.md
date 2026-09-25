@@ -8,7 +8,7 @@ laatste_update: 1983-09-03
 status: geldig
 toestand: 1983-09-03
 bron: "https://wetten.overheid.nl/BWBR0003333"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Beschikking bescherming persoonlijke levenssfeer (Registratie artikel 24 Landbouwwet)

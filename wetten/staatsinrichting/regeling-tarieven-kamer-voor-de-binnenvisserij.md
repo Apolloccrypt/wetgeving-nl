@@ -8,7 +8,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0003302"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Regeling tarieven Kamer voor de Binnenvisserij

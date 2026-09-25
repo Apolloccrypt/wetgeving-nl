@@ -8,7 +8,7 @@ laatste_update: 1967-12-04
 status: geldig
 toestand: 1967-12-04
 bron: "https://wetten.overheid.nl/BWBV0006338"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling tussen de Nederlandse en de Italiaanse Regering betreffende het van kracht blijven van een aantal bepalingen van het Tractaat van vriendschap, handel en scheepvaart tussen het Koninkrijk der Nederlanden en het Koninkrijk Italië

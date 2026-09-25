@@ -9,7 +9,7 @@ laatste_update: 2010-12-31
 status: geldig
 toestand: 2010-12-31
 bron: "https://wetten.overheid.nl/BWBR0002741"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 30 december 1970, tot vaststelling van de algemene maatregel van bestuur als bedoeld in artikel 349, laatste lid, van het Wetboek van Koophandel

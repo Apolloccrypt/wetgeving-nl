@@ -9,7 +9,7 @@ laatste_update: 1972-09-01
 status: geldig
 toestand: 1972-09-01
 bron: "https://wetten.overheid.nl/BWBR0002834"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 5 augustus 1972, houdende wijziging in de taakverdeling tussen het departement van Defensie en dat van Algemene Zaken

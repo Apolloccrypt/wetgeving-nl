@@ -8,7 +8,7 @@ laatste_update: 1981-07-01
 status: geldig
 toestand: 1981-07-01
 bron: "https://wetten.overheid.nl/BWBR0003415"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Administratiebesluit II Wedervergeldingswet zeescheepvaart

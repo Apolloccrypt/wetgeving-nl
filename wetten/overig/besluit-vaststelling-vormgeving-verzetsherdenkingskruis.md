@@ -9,7 +9,7 @@ laatste_update: 1981-07-15
 status: geldig
 toestand: 1981-07-15
 bron: "https://wetten.overheid.nl/BWBR0003393"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 24 april 1981, houdende vaststelling van de vormgeving van het Verzetsherdenkingskruis

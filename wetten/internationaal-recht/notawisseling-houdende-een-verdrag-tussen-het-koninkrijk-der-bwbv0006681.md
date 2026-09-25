@@ -8,7 +8,7 @@ laatste_update: 2017-11-08
 status: geldig
 toestand: 2017-11-08
 bron: "https://wetten.overheid.nl/BWBV0006681"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Noord-Atlantische Verdragsorganisatie inzake de registratie van stagiairs

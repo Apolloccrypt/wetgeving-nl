@@ -8,7 +8,7 @@ laatste_update: 1980-07-04
 status: geldig
 toestand: 1980-07-04
 bron: "https://wetten.overheid.nl/BWBR0003332"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Aanwijzing ambtenaren ex artikel 6 Wet grensoverschrijdend vervoer van aan bederf onderhevige levensmiddelen

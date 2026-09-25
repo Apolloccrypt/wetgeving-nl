@@ -8,7 +8,7 @@ laatste_update: 2016-08-03
 status: geldig
 toestand: 2016-08-03
 bron: "https://wetten.overheid.nl/BWBV0006551"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Notawisseling houdende een Aanvullend Verdrag bij het Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA

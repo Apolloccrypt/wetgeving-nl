@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0003396"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 1 mei 1981, houdende regelen met betrekking tot het afbreken van zwangerschap

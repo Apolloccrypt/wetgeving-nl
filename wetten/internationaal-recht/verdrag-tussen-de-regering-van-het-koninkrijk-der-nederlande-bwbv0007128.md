@@ -7,7 +7,7 @@ laatste_update: 2025-12-18
 status: geldig
 toestand: 2025-12-18
 bron: "https://wetten.overheid.nl/BWBV0007128"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Japan betreffende wederzijdse levering van goederen en diensten tussen de krijgsmacht van het Koninkrijk der Nederlanden en de zelfverdedigingsmacht van Japan

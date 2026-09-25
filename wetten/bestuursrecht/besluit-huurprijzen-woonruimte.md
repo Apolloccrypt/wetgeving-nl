@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0003237"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 18 april 1979 tot uitvoering van de artikelen 7, eerste lid, 9, eerste lid, 10, vierde lid, 15, eerste en tweede lid, en 18, vierde lid, van de Huurprijzenwet woonruimte

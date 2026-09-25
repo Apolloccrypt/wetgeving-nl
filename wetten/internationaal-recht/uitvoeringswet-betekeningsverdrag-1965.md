@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0002951"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 8 januari 1975, tot uitvoering van het op 15 november 1965 te 's-Gravenhage tot stand gekomen Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken

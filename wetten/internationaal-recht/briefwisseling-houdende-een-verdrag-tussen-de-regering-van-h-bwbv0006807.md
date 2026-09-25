@@ -9,7 +9,7 @@ laatste_update: 2019-03-15
 status: geldig
 toestand: 2019-03-15
 bron: "https://wetten.overheid.nl/BWBV0006807"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Briefwisseling houdende een verdrag tussen de Regering van het Koninkrijk der Nederlanden en het Internationaal Agentschap voor Atoomenergie (IAEA) inzake de workshop over de ''Advanced Probabilistic Safety Assessment Approaches and Applications'', te Petten, Nederland, 9 - 13 september 2019

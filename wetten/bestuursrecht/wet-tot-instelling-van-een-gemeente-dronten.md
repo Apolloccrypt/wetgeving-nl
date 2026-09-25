@@ -9,7 +9,7 @@ laatste_update: 1985-07-05
 status: geldig
 toestand: 1985-07-05
 bron: "https://wetten.overheid.nl/BWBR0002754"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 25 maart 1971, tot instelling van een gemeente Dronten

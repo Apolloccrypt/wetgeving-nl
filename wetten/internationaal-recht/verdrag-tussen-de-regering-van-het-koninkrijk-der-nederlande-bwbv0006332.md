@@ -7,7 +7,7 @@ laatste_update: 2002-11-27
 status: geldig
 toestand: 2002-11-27
 bron: "https://wetten.overheid.nl/BWBV0006332"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Kazachstan inzake luchtdiensten

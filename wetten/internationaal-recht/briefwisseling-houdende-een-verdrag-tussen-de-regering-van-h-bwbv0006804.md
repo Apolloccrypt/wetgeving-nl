@@ -8,7 +8,7 @@ laatste_update: 2019-02-27
 status: geldig
 toestand: 2019-02-27
 bron: "https://wetten.overheid.nl/BWBV0006804"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-25
 ---
 
 # Briefwisseling houdende een verdrag tussen de Regering van het Koninkrijk der Nederlanden en het Internationaal Agentschap voor Atoomenergie (IAEA) inzake de internationale conferentie over de “Effective Nuclear and Radiation Regulatory Systems”, te Den Haag, Nederland, 4 – 7 november 2019

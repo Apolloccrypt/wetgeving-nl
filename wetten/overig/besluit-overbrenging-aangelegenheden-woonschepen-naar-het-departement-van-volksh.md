@@ -9,7 +9,7 @@ laatste_update: 1971-01-01
 status: geldig
 toestand: 1971-01-01
 bron: "https://wetten.overheid.nl/BWBR0002736"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Besluit van 10 december 1970, houdende overbrenging van de aangelegenheden betreffende woonschepen naar het departement van Volkshuisvesting en Ruimtelijke Ordening

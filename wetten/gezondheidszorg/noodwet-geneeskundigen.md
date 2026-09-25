@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0002758"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-25
 ---
 
 # Wet van 23 april 1971, houdende regeling met betrekking tot de geneeskundige, tandheelkundige, verloskundige en farmaceutische voorziening ten behoeve van de bevolking voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden
