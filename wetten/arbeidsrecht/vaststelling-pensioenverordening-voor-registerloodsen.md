@@ -8,7 +8,7 @@ laatste_update: 2017-02-22
 status: geldig
 toestand: 2017-02-22
 bron: "https://wetten.overheid.nl/BWBR0004384"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Vaststelling pensioenverordening voor registerloodsen

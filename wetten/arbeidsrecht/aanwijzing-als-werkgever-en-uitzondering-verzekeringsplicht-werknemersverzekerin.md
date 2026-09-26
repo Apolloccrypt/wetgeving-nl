@@ -8,7 +8,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0004084"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Aanwijzing als werkgever en uitzondering verzekeringsplicht werknemersverzekeringen

@@ -9,7 +9,7 @@ laatste_update: 1988-10-01
 status: geldig
 toestand: 1988-10-01
 bron: "https://wetten.overheid.nl/BWBR0004412"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 4 oktober 1988, tot verlaging van het tarief en het op nihil stellen van de vermogensaftrek in de Wet op de vennootschapsbelasting 1969

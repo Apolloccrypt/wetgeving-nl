@@ -8,7 +8,7 @@ laatste_update: 1983-04-15
 status: geldig
 toestand: 1983-04-15
 bron: "https://wetten.overheid.nl/BWBR0003586"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Opschorting overbrenging archiefbescheiden Defensie

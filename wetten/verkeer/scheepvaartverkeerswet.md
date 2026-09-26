@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0004364"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 7 juli 1988, houdende algemene regeling met betrekking tot het scheepvaartverkeer op de binnenwateren en op zee

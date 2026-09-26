@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0004788"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Rijkswet van 14 juni 1990, tot herziening van het militair tuchtrecht

@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0003859"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 10 oktober 1985, tot instelling van de Joke Smit-prijs

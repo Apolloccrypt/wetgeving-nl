@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0004446"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 8 december 1988, houdende intrekking van de Beleggingswet

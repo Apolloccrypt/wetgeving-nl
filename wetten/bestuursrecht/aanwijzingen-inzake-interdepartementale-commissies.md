@@ -8,7 +8,7 @@ laatste_update: 1987-04-26
 status: geldig
 toestand: 1987-04-26
 bron: "https://wetten.overheid.nl/BWBR0004127"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Aanwijzingen inzake interdepartementale commissies

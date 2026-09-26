@@ -9,7 +9,7 @@ laatste_update: 1987-02-27
 status: geldig
 toestand: 1987-02-27
 bron: "https://wetten.overheid.nl/BWBR0004119"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet inzake spaarbewijzen: Aanwijzing representatieve organisaties

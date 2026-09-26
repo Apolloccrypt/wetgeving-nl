@@ -8,7 +8,7 @@ laatste_update: 1988-06-01
 status: geldig
 toestand: 1988-06-01
 bron: "https://wetten.overheid.nl/BWBR0004337"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling vervoermachtigingen grensoverschrijdend eigen vervoer

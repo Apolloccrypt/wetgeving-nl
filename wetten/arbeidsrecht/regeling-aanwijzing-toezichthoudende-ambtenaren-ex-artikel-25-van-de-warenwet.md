@@ -8,7 +8,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0004480"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling aanwijzing toezichthoudende ambtenaren ex artikel 25 van de Warenwet

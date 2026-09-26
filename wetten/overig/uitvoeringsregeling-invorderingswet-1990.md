@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0004766"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Uitvoeringsregeling Invorderingswet 1990

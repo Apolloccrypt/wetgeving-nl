@@ -9,7 +9,7 @@ laatste_update: 2002-10-02
 status: geldig
 toestand: 2002-10-02
 bron: "https://wetten.overheid.nl/BWBR0003830"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 2 augustus 1985, houdende vrijstelling van leerplicht ten aanzien van kinderen van wie de ouders een trekkend bestaan leiden

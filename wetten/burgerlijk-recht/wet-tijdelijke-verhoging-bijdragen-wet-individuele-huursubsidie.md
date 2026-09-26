@@ -9,7 +9,7 @@ laatste_update: 1991-07-01
 status: geldig
 toestand: 1991-07-01
 bron: "https://wetten.overheid.nl/BWBR0004807"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 27 juni 1990, tot tijdelijke verhoging van op grond van de Wet individuele huursubsidie toe te kennen bijdragen

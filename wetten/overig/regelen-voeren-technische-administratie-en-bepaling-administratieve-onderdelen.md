@@ -8,7 +8,7 @@ laatste_update: 1998-04-01
 status: geldig
 toestand: 1998-04-01
 bron: "https://wetten.overheid.nl/BWBR0004769"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regelen voeren technische administratie en bepaling administratieve onderdelen

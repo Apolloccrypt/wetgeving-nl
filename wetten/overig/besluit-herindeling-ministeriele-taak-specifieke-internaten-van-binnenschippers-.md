@@ -9,7 +9,7 @@ laatste_update: 1987-01-01
 status: geldig
 toestand: 1987-01-01
 bron: "https://wetten.overheid.nl/BWBR0004145"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 9 april 1987, houdende herindeling van de ministeriële taak met betrekking tot de specifieke internaten van binnenschippers en kermisexploitanten en de door het ministerie van Onderwijs en Wetenschappen erkende gemengde internaten

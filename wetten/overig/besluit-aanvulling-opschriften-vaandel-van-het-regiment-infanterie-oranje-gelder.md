@@ -9,7 +9,7 @@ laatste_update: 1982-05-05
 status: geldig
 toestand: 1982-05-05
 bron: "https://wetten.overheid.nl/BWBR0003488"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 11 maart 1982, houdende aanvulling van opschriften op het vaandel van het Regiment infanterie Oranje-Gelderland voor krijgsverrichtingen in het voormalige Nederlands Nieuw-Guinea in het jaar 1962

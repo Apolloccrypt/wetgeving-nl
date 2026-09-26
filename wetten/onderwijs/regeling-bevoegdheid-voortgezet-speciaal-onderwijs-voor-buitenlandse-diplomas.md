@@ -8,7 +8,7 @@ laatste_update: 1992-04-04
 status: geldig
 toestand: 1992-04-04
 bron: "https://wetten.overheid.nl/BWBR0004230"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling bevoegdheid (voortgezet) speciaal onderwijs voor buitenlandse diploma's

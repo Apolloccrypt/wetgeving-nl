@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0005212"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Rijkswet van 26 september 1991, houdende het stellen van regelen betreffende de verstrekking van reisdocumenten
@@ -162,7 +162,35 @@ ingevolge [artikel 47, eerste lid, onder a, b, c, e, f, h, i of j](https://wette
 
 ##### Artikel 4b
 
-*Dit onderdeel is nog niet inwerking getreden*
+1. De reisdocumentenadministratie heeft tot doel het verstrekken van gegevens als bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=2&artikel=4a&z=2024-01-01&g=2024-01-01), aan daartoe ingevolge deze wet bevoegde autoriteiten, instellingen en personen die belast zijn met de uitvoering van deze wet voor zover zij de gegevens nodig hebben voor die uitvoering.
+
+2. Onverminderd het in het eerste lid genoemde doel kunnen gegevens als bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I&paragraaf=2&artikel=4a&z=2024-01-01&g=2024-01-01), beschikbaar worden gesteld met het oog op:
+
+- a. het voorkomen en bestrijden van fraude met en misbruik van reisdocumenten,
+
+- b. de identificatie van slachtoffers van rampen en ongevallen,
+
+- c. de opsporing en vervolging van strafbare feiten, en
+
+- d. het verrichten van onderzoek naar handelingen, die een bedreiging vormen voor de veiligheid van de staat en andere gewichtige belangen van een of meerdere landen van het Koninkrijk dan wel de veiligheid van met het Koninkrijk bevriende mogendheden.
+
+3. De verstrekking van gegevens uit de reisdocumentenadministratie ingevolge het tweede lid, kan worden toegestaan aan bij algemene maatregel van rijksbestuur aangewezen:
+
+- a. organen van rechtspersonen die krachtens publiekrecht zijn ingesteld en andere personen of colleges, met enig openbaar gezag bekleed, voor zover verstrekking van die gegevens noodzakelijk is voor de vervulling van hun taak;
+
+- b. instellingen en personen die met het oog op de uitvoering van een wettelijke identificatieplicht een gerechtvaardigd belang hebben bij verstrekking van gegevens uit de reisdocumentenadministratie.
+
+4. De verstrekking van gegevens uit de reisdocumentenadministratie beperkt zich in de gevallen als bedoeld in het derde lid, onder b, uitsluitend tot de mededeling of een door de instelling of persoon opgegeven documentnummer van een reisdocument in de reisdocumentenadministratie voorkomt en, bij een bevestigend antwoord, of het desbetreffende reisdocument in het maatschappelijk verkeer mag voorkomen.
+
+5. Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gesteld met betrekking tot:
+
+- a. het indienen van een verzoek tot verstrekking van gegevens;
+
+- b. de gegevens die verstrekt kunnen worden aan de in het eerste en derde lid, onder a bedoelde autoriteiten, instellingen en personen, alsmede onder welke voorwaarden die verstrekking dient plaats te vinden;
+
+- c. de wijze waarop de verstrekking van de gegevens, bedoeld in het eerste en derde lid, kan plaatsvinden.
+
+6. Uit de reisdocumentenadministratie worden uitsluitend in overeenstemming met deze wet gegevens verstrekt.
 
 #### § 3. Het basisregister reisdocumenten
 
@@ -588,7 +616,15 @@ Aan de handelingsonbekwame die zich buiten het Koninkrijk bevindt en bij wiens a
 
 ##### Artikel 41a
 
-*Dit onderdeel is nog niet inwerking getreden*
+1. Alvorens een reisdocument wordt uitgereikt, doet Onze Minister onderzoeken of een aanvrager
+
+- a. meer reisdocumenten dan ingevolge deze wet is toegestaan, heeft aangevraagd met gebruikmaking van zijn eigen persoonsgegevens, dan wel
+
+- b. bij de aanvraag gebruik heeft gemaakt van persoonsgegevens van een ander of van een niet-bestaande persoon.
+
+2. Onze Minister deelt op basis van het onderzoek, bedoeld in het eerste lid, aan de tot uitreiking bevoegde autoriteit mede of tot uitreiking van het reisdocument kan worden overgegaan.
+
+3. Bij algemene maatregel van rijksbestuur kunnen reisdocumenten worden aangewezen die niet worden onderworpen aan een onderzoek als bedoeld in het eerste lid.
 
 ##### Artikel 42
 

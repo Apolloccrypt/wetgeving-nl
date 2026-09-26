@@ -9,7 +9,7 @@ laatste_update: 1991-12-13
 status: geldig
 toestand: 1991-12-13
 bron: "https://wetten.overheid.nl/BWBR0004796"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 20 juni 1990, tot goedkeuring van het op 28 januari 1981 te Straatsburg tot stand gekomen Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens (Trb. 1988, 7)

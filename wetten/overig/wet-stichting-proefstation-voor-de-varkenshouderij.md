@@ -9,7 +9,7 @@ laatste_update: 1984-07-25
 status: geldig
 toestand: 1984-07-25
 bron: "https://wetten.overheid.nl/BWBR0003686"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 27 juni 1984, houdende machtiging tot oprichting van de Stichting Proefstation voor de Varkenshouderij

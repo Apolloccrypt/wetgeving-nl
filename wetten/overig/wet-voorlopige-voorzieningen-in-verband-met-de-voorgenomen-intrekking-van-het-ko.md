@@ -9,7 +9,7 @@ laatste_update: 1989-05-31
 status: geldig
 toestand: 1989-05-31
 bron: "https://wetten.overheid.nl/BWBR0003547"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 2 december 1982, houdende voorlopige voorzieningen in verband met de voorgenomen intrekking van het Koninklijk besluit van 10 april 1939 (Stb. 181)

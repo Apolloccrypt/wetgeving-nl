@@ -8,7 +8,7 @@ laatste_update: 1990-01-01
 status: geldig
 toestand: 1990-01-01
 bron: "https://wetten.overheid.nl/BWBR0004655"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Vaststelling bijdrage gemoedsbezwaarden als bedoeld in art. 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen 1990

@@ -9,7 +9,7 @@ laatste_update: 1986-08-01
 status: geldig
 toestand: 1986-08-01
 bron: "https://wetten.overheid.nl/BWBR0003692"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 6 juli 1984, houdende vaststelling van een algemene maatregel van bestuur inzake samenloop wettelijke regelingen als bedoeld in artikel 4 van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 (Stb. 1984, 94)

@@ -8,7 +8,7 @@ laatste_update: 1989-04-03
 status: geldig
 toestand: 1989-04-03
 bron: "https://wetten.overheid.nl/BWBR0004520"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Actualisering taken Commissie Ontwikkeling Defensie Materieel (CODEMA)

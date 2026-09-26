@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0003725"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 1 november 1984, ingevolge artikel 13, vierde lid, van het Statuut voor het Koninkrijk, houdende voorschriften ten opzichte van de staatsraad, benoemd op grond van het bepaalde in het tweede lid van dit artikel

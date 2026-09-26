@@ -9,7 +9,7 @@ laatste_update: 1994-01-26
 status: geldig
 toestand: 1994-01-26
 bron: "https://wetten.overheid.nl/BWBR0004563"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 2 juni 1989, houdende uitvoering van artikel 7, tweede lid, onderdeel c, van de Visserijwet 1963

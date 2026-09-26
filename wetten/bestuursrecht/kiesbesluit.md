@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0004632"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 19 oktober 1989, houdende vaststelling van nieuwe voorschriften ter uitvoering van de Kieswet

@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0003869"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 oktober 1985, houdende uitvoering van artikel 1 van de Rijkswet uitbreiding van de territoriale zee van het Koninkrijk in de Nederlandse Antillen

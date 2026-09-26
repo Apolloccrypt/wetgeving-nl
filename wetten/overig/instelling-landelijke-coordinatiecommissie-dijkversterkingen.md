@@ -8,7 +8,7 @@ laatste_update: 1989-10-17
 status: geldig
 toestand: 1989-10-17
 bron: "https://wetten.overheid.nl/BWBR0004623"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Instelling Landelijke Coördinatiecommissie Dijkversterkingen

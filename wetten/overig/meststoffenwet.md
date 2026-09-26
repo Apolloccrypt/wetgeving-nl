@@ -9,7 +9,7 @@ laatste_update: 2025-12-09
 status: geldig
 toestand: 2025-12-09
 bron: "https://wetten.overheid.nl/BWBR0004054"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 27 november 1986, houdende regelen inzake het verhandelen van meststoffen en de afvoer van mestoverschotten

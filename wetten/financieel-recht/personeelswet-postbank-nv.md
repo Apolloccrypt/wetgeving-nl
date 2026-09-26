@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0003843"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 11 september 1985, houdende regelen betreffende de overgang van personeel van het Staatsbedrijf der PTT en de Rijkspostspaarbank naar de Postbank N.V.

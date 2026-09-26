@@ -8,7 +8,7 @@ laatste_update: 1990-10-01
 status: geldig
 toestand: 1990-10-01
 bron: "https://wetten.overheid.nl/BWBR0004706"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling reserve-overdracht door ABP en Spoorwegpensioenfonds

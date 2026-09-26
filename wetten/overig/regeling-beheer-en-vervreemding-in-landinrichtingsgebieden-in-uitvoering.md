@@ -8,7 +8,7 @@ laatste_update: 1987-06-24
 status: geldig
 toestand: 1987-06-24
 bron: "https://wetten.overheid.nl/BWBR0004170"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling beheer en vervreemding in landinrichtingsgebieden in uitvoering

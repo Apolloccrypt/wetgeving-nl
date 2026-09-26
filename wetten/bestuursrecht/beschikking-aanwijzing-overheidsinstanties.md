@@ -8,7 +8,7 @@ laatste_update: 1985-09-16
 status: geldig
 toestand: 1985-09-16
 bron: "https://wetten.overheid.nl/BWBR0003836"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Beschikking aanwijzing overheidsinstanties

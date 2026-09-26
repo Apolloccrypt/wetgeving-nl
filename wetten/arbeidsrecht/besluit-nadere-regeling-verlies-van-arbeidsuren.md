@@ -9,7 +9,7 @@ laatste_update: 2013-06-01
 status: geldig
 toestand: 2013-06-01
 bron: "https://wetten.overheid.nl/BWBR0004096"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 29 december 1986, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 16, derde lid, van de Werkloosheidswet

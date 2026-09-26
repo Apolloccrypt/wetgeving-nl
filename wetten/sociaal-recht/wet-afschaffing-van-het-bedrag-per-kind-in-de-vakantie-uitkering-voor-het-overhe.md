@@ -9,7 +9,7 @@ laatste_update: 1983-01-01
 status: geldig
 toestand: 1983-01-01
 bron: "https://wetten.overheid.nl/BWBR0003554"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 22 december 1982, tot afschaffing van het bedrag per kind in de vakantie-uitkering voor het overheidspersoneel

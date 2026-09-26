@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0004199"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 juli 1987, tot uitvoering van de wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten

@@ -8,7 +8,7 @@ laatste_update: 1983-03-23
 status: geldig
 toestand: 1983-03-23
 bron: "https://wetten.overheid.nl/BWBR0003583"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Heffing van omzetbelasting ten aanzien van creditcards

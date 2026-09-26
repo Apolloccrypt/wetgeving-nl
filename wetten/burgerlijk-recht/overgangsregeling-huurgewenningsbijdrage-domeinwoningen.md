@@ -8,7 +8,7 @@ laatste_update: 1992-04-11
 status: geldig
 toestand: 1992-04-11
 bron: "https://wetten.overheid.nl/BWBR0004464"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Overgangsregeling huurgewenningsbijdrage domeinwoningen

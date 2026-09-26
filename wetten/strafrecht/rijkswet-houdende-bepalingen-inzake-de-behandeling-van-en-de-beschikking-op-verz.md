@@ -9,7 +9,7 @@ laatste_update: 1988-01-01
 status: geldig
 toestand: 1988-01-01
 bron: "https://wetten.overheid.nl/BWBR0004247"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Rijkswet van 17 december 1987, houdende bepalingen inzake de behandeling van en de beschikking op verzoekschriften om gratie van straffen of maatregelen, opgelegd door instanties belast met de militaire strafrechtspraak

@@ -8,7 +8,7 @@ laatste_update: 1990-05-18
 status: geldig
 toestand: 1990-05-18
 bron: "https://wetten.overheid.nl/BWBR0004751"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling tot vaststelling provinciale opcenten motorrijtuigenbelasting 1991

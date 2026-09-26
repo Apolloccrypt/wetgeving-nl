@@ -9,7 +9,7 @@ laatste_update: 1984-01-01
 status: geldig
 toestand: 1984-01-01
 bron: "https://wetten.overheid.nl/BWBR0003653"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 30 december 1983, houdende achterwegelating van de wijziging van rechtswege door indexering van de bedragen van levensonderhoud per 1 januari 1984

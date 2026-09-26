@@ -9,7 +9,7 @@ laatste_update: 1982-12-02
 status: geldig
 toestand: 1982-12-02
 bron: "https://wetten.overheid.nl/BWBR0003536"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 15 november 1982, houdende regelen ter uitvoering van de artikelen 153 lid 4 en 263 lid 4 van boek 2 van het Burgerlijk Wetboek

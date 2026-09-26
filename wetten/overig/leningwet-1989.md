@@ -9,7 +9,7 @@ laatste_update: 1989-01-01
 status: geldig
 toestand: 1989-01-01
 bron: "https://wetten.overheid.nl/BWBR0004443"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 1 december 1988, tot het uitgeven en belenen van schatkistpapier en het aangaan van geldleningen ten laste van de Staat der Nederlanden in 1989

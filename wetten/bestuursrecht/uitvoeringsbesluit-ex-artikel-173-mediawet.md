@@ -9,7 +9,7 @@ laatste_update: 1988-07-28
 status: geldig
 toestand: 1988-07-28
 bron: "https://wetten.overheid.nl/BWBR0004354"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 juni 1988, houdende regelen ter uitvoering van artikel 173 van de Mediawet

@@ -8,7 +8,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0004456"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling vrijstelling machtiging zendinrichtingen niet-ingezetenen

@@ -8,7 +8,7 @@ laatste_update: 1990-08-01
 status: geldig
 toestand: 1990-08-01
 bron: "https://wetten.overheid.nl/BWBR0004765"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Vaststelling model van bewijs van luchtwaardigheid

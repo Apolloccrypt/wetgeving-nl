@@ -9,7 +9,7 @@ laatste_update: 2024-10-29
 status: geldig
 toestand: 2024-10-29
 bron: "https://wetten.overheid.nl/BWBR0004191"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 7 juli 1987, houdende herziene regeling van de Nederlandse organisatie voor zuiver-wetenschappelijk onderzoek

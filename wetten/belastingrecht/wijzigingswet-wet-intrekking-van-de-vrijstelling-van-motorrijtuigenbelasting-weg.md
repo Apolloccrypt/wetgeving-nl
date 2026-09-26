@@ -9,7 +9,7 @@ laatste_update: 2000-01-01
 status: geldig
 toestand: 2000-01-01
 bron: "https://wetten.overheid.nl/BWBR0003576"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 23 februari 1983, houdende intrekking van de vrijstelling van motorrijtuigenbelasting wegens invaliditeit

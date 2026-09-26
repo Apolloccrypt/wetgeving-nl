@@ -8,7 +8,7 @@ laatste_update: 1990-03-22
 status: geldig
 toestand: 1990-03-22
 bron: "https://wetten.overheid.nl/BWBR0004728"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling tot instelling van de Centrale Overleggroep huisvesting gehandicapten

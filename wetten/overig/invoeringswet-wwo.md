@@ -9,7 +9,7 @@ laatste_update: 1993-08-31
 status: geldig
 toestand: 1993-08-31
 bron: "https://wetten.overheid.nl/BWBR0003991"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 26 juni 1986, houdende vaststelling van het invoerings- en overgangsrecht voor de Wet op het wetenschappelijk onderwijs en van het tijdstip van inwerkingtreding van die wet alsmede wijziging van die wet en van enige andere wetten

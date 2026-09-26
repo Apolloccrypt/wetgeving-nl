@@ -9,7 +9,7 @@ laatste_update: 2026-06-17
 status: geldig
 toestand: 2026-06-17
 bron: "https://wetten.overheid.nl/BWBR0003628"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 26 oktober 1983, tot vaststelling van een reglement houdende bepalingen ter voorkoming van aanvaring of aandrijving op de openbare wateren in het Rijk, die voor de scheepvaart openstaan

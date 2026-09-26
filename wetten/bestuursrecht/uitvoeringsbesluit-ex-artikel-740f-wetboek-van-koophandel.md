@@ -9,7 +9,7 @@ laatste_update: 1990-09-01
 status: geldig
 toestand: 1990-09-01
 bron: "https://wetten.overheid.nl/BWBR0004717"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 19 februari 1990, ter uitvoering van artikel 740f, tweede lid, van het Wetboek van Koophandel

@@ -9,7 +9,7 @@ laatste_update: 1990-02-01
 status: geldig
 toestand: 1990-02-01
 bron: "https://wetten.overheid.nl/BWBR0004698"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 18 januari 1990, houdende wijziging van de tarieven van de bestemmingsheffingen Wet algemene bepalingen milieuhygiëne en van de tijdelijke toeslag op de accijns van gelode lichte olie

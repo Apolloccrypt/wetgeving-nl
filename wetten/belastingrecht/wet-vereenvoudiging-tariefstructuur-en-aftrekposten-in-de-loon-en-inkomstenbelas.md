@@ -9,7 +9,7 @@ laatste_update: 1990-12-31
 status: geldig
 toestand: 1990-12-31
 bron: "https://wetten.overheid.nl/BWBR0004536"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 27 april 1989, tot herziening van de belastingheffing naar aanleiding van de voorstellen van de commissie tot vereenvoudiging van de loonbelasting en de inkomstenbelasting

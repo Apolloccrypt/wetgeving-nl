@@ -9,7 +9,7 @@ laatste_update: 1982-08-01
 status: geldig
 toestand: 1982-08-01
 bron: "https://wetten.overheid.nl/BWBR0003487"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 10 maart 1982, tot uitvoering van het op 5 oktober 1961 te 's-Gravenhage tot stand gekomen Verdrag inzake de wetsconflicten betreffende de vorm van testamentaire beschikkingen (Trb. 1980, 54)

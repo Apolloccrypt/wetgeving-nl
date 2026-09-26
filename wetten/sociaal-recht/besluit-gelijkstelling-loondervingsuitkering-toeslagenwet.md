@@ -9,7 +9,7 @@ laatste_update: 2016-12-28
 status: geldig
 toestand: 2016-12-28
 bron: "https://wetten.overheid.nl/BWBR0004092"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 24 december 1986, tot vaststelling van regels als bedoeld in artikel 6, tweede lid, van de Toeslagenwet

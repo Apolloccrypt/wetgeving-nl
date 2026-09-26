@@ -9,7 +9,7 @@ laatste_update: 1989-01-01
 status: geldig
 toestand: 1989-01-01
 bron: "https://wetten.overheid.nl/BWBR0004434"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 17 november 1988, strekkende tot voltooiing van de provinciale indeling van het IJsselmeer

@@ -8,7 +8,7 @@ laatste_update: 1983-04-01
 status: geldig
 toestand: 1983-04-01
 bron: "https://wetten.overheid.nl/BWBR0003573"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Beschikking wijziging-percentage levensonderhoud 1983

@@ -9,7 +9,7 @@ laatste_update: 1994-09-01
 status: geldig
 toestand: 1994-09-01
 bron: "https://wetten.overheid.nl/BWBR0003694"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 7 juli 1994, tot wijziging van de Auteurswet 1912 in verband met de rechtsbescherming van computerprogramma"s

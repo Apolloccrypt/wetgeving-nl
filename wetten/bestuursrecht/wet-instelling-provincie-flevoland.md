@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0003816"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 27 juni 1985, tot instelling van een provincie Flevoland, indeling bij die provincie van de gemeenten Almere, Dronten, Lelystad en Zeewolde en overgang naar die provincie van de gemeenten Noordoostpolder en Urk; tevens houdende wijziging van de Provinciewet en enkele andere wetten

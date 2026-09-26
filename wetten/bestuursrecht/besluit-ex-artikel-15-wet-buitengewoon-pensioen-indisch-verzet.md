@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0004038"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 oktober 1986, houdende regels betreffende de vergoeding van ziektekosten, bedoeld in artikel 15 van de Wet buitengewoon pensioen Indisch verzet

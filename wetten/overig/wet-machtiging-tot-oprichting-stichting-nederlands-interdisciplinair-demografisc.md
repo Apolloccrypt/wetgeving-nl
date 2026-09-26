@@ -9,7 +9,7 @@ laatste_update: 1987-04-08
 status: geldig
 toestand: 1987-04-08
 bron: "https://wetten.overheid.nl/BWBR0004129"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 18 maart 1987, houdende machtiging tot oprichting van de Stichting Nederlands Interdisciplinair Demografisch Instituut

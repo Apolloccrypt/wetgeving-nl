@@ -9,7 +9,7 @@ laatste_update: 1995-02-01
 status: geldig
 toestand: 1995-02-01
 bron: "https://wetten.overheid.nl/BWBR0004716"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 19 februari 1990, ter uitvoering van artikel 951f van het Wetboek van Koophandel

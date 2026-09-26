@@ -8,7 +8,7 @@ laatste_update: 1987-06-01
 status: geldig
 toestand: 1987-06-01
 bron: "https://wetten.overheid.nl/BWBR0004179"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Ontheffing van voorwaarden gericht op arbeidsinschakeling

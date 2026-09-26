@@ -9,7 +9,7 @@ laatste_update: 1987-01-17
 status: geldig
 toestand: 1987-01-17
 bron: "https://wetten.overheid.nl/BWBR0004057"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 1 december 1986, houdende regels betreffende de vergoeding voor het verstrekken van fotocopieën, bedoeld in artikel 29, tweede lid, van de Wet buitengewoon pensioen Indisch verzet (Stb. 1986, 360)

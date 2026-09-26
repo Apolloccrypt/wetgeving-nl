@@ -9,7 +9,7 @@ laatste_update: 1985-06-01
 status: geldig
 toestand: 1985-06-01
 bron: "https://wetten.overheid.nl/BWBR0004034"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 september 1986, houdende a. bepalingen met betrekking tot de betaling van de vakantie-uitkering in 1985 en b. vaststelling van een drietal overgangsregelingen per 1 juni 1985 in verband met de Wet afschaffing overneming premie A.O.W./A.W.W.

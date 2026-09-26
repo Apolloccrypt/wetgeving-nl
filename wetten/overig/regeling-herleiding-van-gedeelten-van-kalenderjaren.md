@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0003815"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Herleiding gedeelten van kalenderjaren en van jaarpremies

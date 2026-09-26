@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0004163"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 11 juni 1987, houdende het treffen van een inkomensvoorziening voor oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen van wie het inkomen duurzaam minder bedraagt dan het sociaal minimum en die als gevolg daarvan het bedrijf of beroep hebben beëindigd

@@ -9,7 +9,7 @@ laatste_update: 1987-05-09
 status: geldig
 toestand: 1987-05-09
 bron: "https://wetten.overheid.nl/BWBR0004121"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 27 februari 1987, houdende omschrijving van de categorieën van personen als bedoeld in artikel 2, tweede lid, van de Wet buitengewoon pensioen Indisch verzet (Stb. 1986, 360) op wie deze wet van overeenkomstige toepassing zal zijn

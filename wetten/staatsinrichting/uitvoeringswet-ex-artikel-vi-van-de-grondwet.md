@@ -9,7 +9,7 @@ laatste_update: 1992-07-01
 status: geldig
 toestand: 1992-07-01
 bron: "https://wetten.overheid.nl/BWBR0004712"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 1 februari 1990, tot verlenging van de termijn waarna artikel 10, eerste lid, van de Grondwet in werking treedt, tot 17 februari 1991 voor wat betreft verzamelingen van persoonsgegevens aangelegd ten dienste van de uitvoering van de politietaak

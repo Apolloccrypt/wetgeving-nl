@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0003749"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Rijkswet van 9 januari 1985, houdende uitbreiding van de territoriale zee van het Koninkrijk in de Nederlandse Antillen

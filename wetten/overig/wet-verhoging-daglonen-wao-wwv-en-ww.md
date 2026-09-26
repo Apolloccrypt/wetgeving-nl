@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0004157"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 1 mei 1987, houdende verhoging van een aantal daglonen ingevolge de Wet op de arbeidsongeschiktheidsverzekering, de Wet Werkloosheidsvoorziening en de Werkloosheidswet voor bepaalde categorieën werknemers

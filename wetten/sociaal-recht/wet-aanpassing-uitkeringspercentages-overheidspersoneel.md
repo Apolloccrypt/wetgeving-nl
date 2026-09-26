@@ -9,7 +9,7 @@ laatste_update: 1997-04-25
 status: geldig
 toestand: 1997-04-25
 bron: "https://wetten.overheid.nl/BWBR0003739"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 20 december 1984, houdende aanpassing van uitkeringspercentages van ontslaguitkerings- en arbeidsongeschiktheidsuitkeringen voor overheidspersoneel, onderwijspersoneel en daarmee gelijk te stellen personeel

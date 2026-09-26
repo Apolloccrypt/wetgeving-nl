@@ -8,7 +8,7 @@ laatste_update: 1989-12-22
 status: geldig
 toestand: 1989-12-22
 bron: "https://wetten.overheid.nl/BWBR0004648"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Deelneming Rijk gemeenschappelijke regeling Midden-Delfland

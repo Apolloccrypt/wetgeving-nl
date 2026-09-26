@@ -8,7 +8,7 @@ laatste_update: 1999-04-03
 status: geldig
 toestand: 1999-04-03
 bron: "https://wetten.overheid.nl/BWBR0004166"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Aanpassing wetgeving inzake gemeenschappelijke bepalingen voor hef- en verladingsapparatuur SZW – Uitvoering EEG-richtlijnen

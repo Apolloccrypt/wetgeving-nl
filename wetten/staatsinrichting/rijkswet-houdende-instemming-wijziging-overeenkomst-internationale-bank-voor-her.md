@@ -9,7 +9,7 @@ laatste_update: 1989-06-23
 status: geldig
 toestand: 1989-06-23
 bron: "https://wetten.overheid.nl/BWBR0004557"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Rijkswet van 24 mei 1989, houdende instemming van het Koninkrijk der Nederlanden met wijziging van de Overeenkomst betreffende de Internationale Bank voor Herstel en Ontwikkeling, 30 juni 1987 (Trb. 171)

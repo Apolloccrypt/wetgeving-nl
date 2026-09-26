@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0004140"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 31 maart 1987, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van artikel 162, vierde lid, van het Wetboek van Strafvordering

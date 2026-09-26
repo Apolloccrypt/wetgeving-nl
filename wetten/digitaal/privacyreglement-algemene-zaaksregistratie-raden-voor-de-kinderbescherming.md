@@ -8,7 +8,7 @@ laatste_update: 1990-07-01
 status: geldig
 toestand: 1990-07-01
 bron: "https://wetten.overheid.nl/BWBR0004801"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Privacyreglement Algemene zaaksregistratie raden voor de kinderbescherming

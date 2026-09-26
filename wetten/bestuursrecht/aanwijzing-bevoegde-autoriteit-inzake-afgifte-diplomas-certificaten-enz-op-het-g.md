@@ -8,7 +8,7 @@ laatste_update: 1989-06-01
 status: geldig
 toestand: 1989-06-01
 bron: "https://wetten.overheid.nl/BWBR0004506"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Aanwijzing bevoegde autoriteit inzake afgifte diploma's, certificaten enz. op het gebied van de architectuur

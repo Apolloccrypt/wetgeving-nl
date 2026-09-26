@@ -9,7 +9,7 @@ laatste_update: 1983-07-01
 status: geldig
 toestand: 1983-07-01
 bron: "https://wetten.overheid.nl/BWBR0003600"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 29 juni 1983, houdende tijdelijke maatregelen inzake de aftrekbaarheid van de kosten van groot onderhoud en van schilderwerk en in verband daarmee tijdelijke verhoging van het huurwaardeforfait in de inkomstenbelasting

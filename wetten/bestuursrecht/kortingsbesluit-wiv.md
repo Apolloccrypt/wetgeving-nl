@@ -9,7 +9,7 @@ laatste_update: 2015-02-01
 status: geldig
 toestand: 2015-02-01
 bron: "https://wetten.overheid.nl/BWBR0004490"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 januari 1989, houdende regels betreffende de met het buitengewoon pensioen te verrekenen inkomsten, bedoeld in artikel 16, eerste lid, van de Wet buitengewoon pensioen Indisch verzet

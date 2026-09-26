@@ -9,7 +9,7 @@ laatste_update: 2006-03-08
 status: geldig
 toestand: 2006-03-08
 bron: "https://wetten.overheid.nl/BWBR0004190"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 7 juli 1987, houdende regels inzake de vergoeding voor en de buitengebruikstelling van oude eigendoms- en huurscholen

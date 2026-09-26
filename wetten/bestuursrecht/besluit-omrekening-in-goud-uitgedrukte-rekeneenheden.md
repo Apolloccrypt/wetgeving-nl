@@ -9,7 +9,7 @@ laatste_update: 1982-03-15
 status: geldig
 toestand: 1982-03-15
 bron: "https://wetten.overheid.nl/BWBR0003477"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 19 januari 1982, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 1 van de Wet omrekening in goud uitgedrukte rekeneenheden

@@ -8,7 +8,7 @@ laatste_update: 1989-03-16
 status: geldig
 toestand: 1989-03-16
 bron: "https://wetten.overheid.nl/BWBR0004502"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Toepassing Geheimhoudingsbesluit Kernenergiewet

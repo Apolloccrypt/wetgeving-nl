@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0004421"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 26 oktober 1988, houdende regels betreffende de overgang van personeel van het Staatsbedrijf der Posterijen, Telegrafie en Telefonie naar de naamloze vennootschap PTT Nederland NV

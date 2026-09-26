@@ -9,7 +9,7 @@ laatste_update: 1986-12-25
 status: geldig
 toestand: 1986-12-25
 bron: "https://wetten.overheid.nl/BWBR0004075"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling aangiftebiljet heffing industrielawaai 1986

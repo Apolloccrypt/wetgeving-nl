@@ -9,7 +9,7 @@ laatste_update: 1985-01-01
 status: geldig
 toestand: 1985-01-01
 bron: "https://wetten.overheid.nl/BWBR0004344"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 27 mei 1988, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 5 van de wet van 1 mei 1987, Stb. 242 tot verhoging van een aantal daglonen ingevolge de WAO, de WWV en de WW voor bepaalde categorieën werknemers

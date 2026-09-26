@@ -8,7 +8,7 @@ laatste_update: 1989-07-15
 status: geldig
 toestand: 1989-07-15
 bron: "https://wetten.overheid.nl/BWBR0004589"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Aanwijzing Bureau Voorlichting Interlandelijke Adoptie als rechtspersoon

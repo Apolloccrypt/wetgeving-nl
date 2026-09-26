@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0003773"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 7 maart 1985, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 31a, vijfde lid, van de Wet op de ondernemingsraden 1985

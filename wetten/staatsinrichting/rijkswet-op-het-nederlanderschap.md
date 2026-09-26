@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0003738"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Rijkswet van 19 december 1984, houdende vaststelling van nieuwe, algemene bepalingen omtrent het Nederlanderschap ter vervanging van de Wet van 12 december 1892, Stb. 268 op het Nederlanderschap en het ingezetenschap

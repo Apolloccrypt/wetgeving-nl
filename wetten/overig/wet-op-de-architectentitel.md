@@ -9,7 +9,7 @@ laatste_update: 2021-08-26
 status: geldig
 toestand: 2021-08-26
 bron: "https://wetten.overheid.nl/BWBR0004189"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 7 juli 1987, houdende regelen omtrent de bescherming van de titels architect, stedebouwkundige, tuin- en landschapsarchitect en interieurarchitect

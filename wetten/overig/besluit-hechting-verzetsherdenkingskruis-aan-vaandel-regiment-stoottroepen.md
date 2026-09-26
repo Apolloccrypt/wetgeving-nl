@@ -9,7 +9,7 @@ laatste_update: 1982-08-31
 status: geldig
 toestand: 1982-08-31
 bron: "https://wetten.overheid.nl/BWBR0003515"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 augustus 1982, houdende hechting van het Verzetsherdenkingskruis aan het vaandel van het Regiment Stoottroepen

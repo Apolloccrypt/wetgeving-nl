@@ -9,7 +9,7 @@ laatste_update: 1988-12-15
 status: geldig
 toestand: 1988-12-15
 bron: "https://wetten.overheid.nl/BWBR0004427"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 9 november 1988, houdende voorschriften met betrekking tot de overgang van archiefbescheiden in geval van organisatieverandering bij de rijksadministratie

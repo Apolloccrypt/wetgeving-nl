@@ -9,7 +9,7 @@ laatste_update: 1985-01-01
 status: geldig
 toestand: 1985-01-01
 bron: "https://wetten.overheid.nl/BWBR0003714"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 3 oktober 1984, houdende regelen omtrent de opheffing van het recht van de Dertiende Penning

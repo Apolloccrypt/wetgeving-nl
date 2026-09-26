@@ -8,7 +8,7 @@ laatste_update: 1984-08-24
 status: geldig
 toestand: 1984-08-24
 bron: "https://wetten.overheid.nl/BWBR0003699"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wijziging bepalingen Wet uitkeringen burger-oorlogsslachtoffers 1940–1945

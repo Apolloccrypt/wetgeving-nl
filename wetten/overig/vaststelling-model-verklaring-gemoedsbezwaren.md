@@ -8,7 +8,7 @@ laatste_update: 1990-02-28
 status: geldig
 toestand: 1990-02-28
 bron: "https://wetten.overheid.nl/BWBR0004721"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Vaststelling model verklaring gemoedsbezwaren

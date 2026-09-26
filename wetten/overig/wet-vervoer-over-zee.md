@@ -9,7 +9,7 @@ laatste_update: 2016-05-01
 status: geldig
 toestand: 2016-05-01
 bron: "https://wetten.overheid.nl/BWBR0003528"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 27 oktober 1982, houdende regelen inzake de zeevervoermarkt

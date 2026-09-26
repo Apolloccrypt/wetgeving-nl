@@ -8,7 +8,7 @@ laatste_update: 2007-07-06
 status: geldig
 toestand: 2007-07-06
 bron: "https://wetten.overheid.nl/BWBR0004529"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Warenwetregeling Monsterneming

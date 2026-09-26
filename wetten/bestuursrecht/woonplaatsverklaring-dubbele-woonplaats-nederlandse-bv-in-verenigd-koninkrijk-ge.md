@@ -8,7 +8,7 @@ laatste_update: 1989-06-12
 status: geldig
 toestand: 1989-06-12
 bron: "https://wetten.overheid.nl/BWBR0004574"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Woonplaatsverklaring, dubbele woonplaats, Nederlandse BV in Verenigd Koninkrijk gevestigd

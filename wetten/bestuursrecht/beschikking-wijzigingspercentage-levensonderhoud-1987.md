@@ -8,7 +8,7 @@ laatste_update: 1987-01-01
 status: geldig
 toestand: 1987-01-01
 bron: "https://wetten.overheid.nl/BWBR0004048"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Beschikking wijzigingspercentage levensonderhoud 1987

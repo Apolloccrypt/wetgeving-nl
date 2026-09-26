@@ -9,7 +9,7 @@ laatste_update: 1982-11-11
 status: geldig
 toestand: 1982-11-11
 bron: "https://wetten.overheid.nl/BWBR0003530"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 4 november 1982, houdende herindeling van een aantal departementale taken

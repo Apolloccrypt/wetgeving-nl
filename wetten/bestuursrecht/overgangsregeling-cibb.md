@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0004686"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 2 januari 1990, houdende wijziging van het Rechtspositiebesluit onderwijspersoneel (Stb. 1985, 110) en vaststelling van overgangsmaatregelen bij de totstandkoming van de instelling "het Centrum voor de Innovatie van Beroepsonderwijs Bedrijfsleven"

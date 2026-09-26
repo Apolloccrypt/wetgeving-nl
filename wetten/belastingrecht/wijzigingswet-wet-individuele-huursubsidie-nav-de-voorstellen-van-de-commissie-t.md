@@ -9,7 +9,7 @@ laatste_update: 1995-06-23
 status: geldig
 toestand: 1995-06-23
 bron: "https://wetten.overheid.nl/BWBR0004577"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 21 juni 1989, tot aanpassing van de Wet individuele huursubsidie naar aanleiding van de voorstellen van de commissie tot vereenvoudiging van de loonbelasting en de inkomstenbelasting

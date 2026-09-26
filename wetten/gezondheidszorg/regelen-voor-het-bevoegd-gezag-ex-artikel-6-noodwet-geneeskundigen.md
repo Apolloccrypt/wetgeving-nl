@@ -8,7 +8,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0003479"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Regelen voor het bevoegd gezag ex artikel 6 Noodwet Geneeskundigen

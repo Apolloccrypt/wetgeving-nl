@@ -9,7 +9,7 @@ laatste_update: 2005-07-01
 status: geldig
 toestand: 2005-07-01
 bron: "https://wetten.overheid.nl/BWBR0004665"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 13 december 1989, houdende regelen omtrent de wijze van samenstelling en de werkwijze van de commissies, bedoeld in artikel 214 van Boek 6 van het nieuwe Burgerlijk Wetboek

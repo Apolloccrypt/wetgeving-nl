@@ -8,7 +8,7 @@ laatste_update: 1989-07-04
 status: geldig
 toestand: 1989-07-04
 bron: "https://wetten.overheid.nl/BWBR0004578"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Toelatingseisen accountantsexamens

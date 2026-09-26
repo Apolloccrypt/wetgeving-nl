@@ -9,7 +9,7 @@ laatste_update: 1987-07-08
 status: geldig
 toestand: 1987-07-08
 bron: "https://wetten.overheid.nl/BWBR0004160"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 25 mei 1987, houdende overdracht van de departementale taak met betrekking tot het beheer van de staatswateren

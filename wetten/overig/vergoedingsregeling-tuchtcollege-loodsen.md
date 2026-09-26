@@ -8,7 +8,7 @@ laatste_update: 2022-07-06
 status: geldig
 toestand: 2022-07-06
 bron: "https://wetten.overheid.nl/BWBR0004379"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Vergoedingsregeling tuchtcollege loodsen

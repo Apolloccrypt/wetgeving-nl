@@ -9,7 +9,7 @@ laatste_update: 1985-06-10
 status: geldig
 toestand: 1985-06-10
 bron: "https://wetten.overheid.nl/BWBR0003786"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 26 april 1985, houdende de vaststelling van een onderscheidingsvlag voor Zijne Koninklijke Hoogheid Willem-Alexander en zijn broeders

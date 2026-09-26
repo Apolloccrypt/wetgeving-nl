@@ -8,7 +8,7 @@ laatste_update: 1987-01-06
 status: geldig
 toestand: 1987-01-06
 bron: "https://wetten.overheid.nl/BWBR0004097"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Aanwijzing ambtenaren toezicht naleving voorschriften Wet op de kansspelen

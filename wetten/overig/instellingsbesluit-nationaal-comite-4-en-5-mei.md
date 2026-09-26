@@ -9,7 +9,7 @@ laatste_update: 2019-12-10
 status: geldig
 toestand: 2019-12-10
 bron: "https://wetten.overheid.nl/BWBR0004241"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Instellingsbesluit Nationaal Comité 4 en 5 mei voor nationale herdenking en viering bevrijding

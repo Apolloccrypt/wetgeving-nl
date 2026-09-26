@@ -9,7 +9,7 @@ laatste_update: 1986-04-01
 status: geldig
 toestand: 1986-04-01
 bron: "https://wetten.overheid.nl/BWBR0003932"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 26 maart 1986, houdende voorwaarden schone en beperkt schone personenauto's

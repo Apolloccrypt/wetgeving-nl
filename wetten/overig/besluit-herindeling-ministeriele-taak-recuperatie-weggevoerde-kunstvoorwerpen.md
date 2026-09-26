@@ -9,7 +9,7 @@ laatste_update: 1988-05-01
 status: geldig
 toestand: 1988-05-01
 bron: "https://wetten.overheid.nl/BWBR0004319"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 20 april 1988, houdende herindeling van de ministeriële taak met betrekking tot de recuperatie van tijdens de Tweede Wereldoorlog uit Nederland weggevoerde kunstvoorwerpen

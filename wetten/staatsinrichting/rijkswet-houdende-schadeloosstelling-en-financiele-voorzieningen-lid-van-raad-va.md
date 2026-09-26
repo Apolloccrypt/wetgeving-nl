@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0003896"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Rijkswet van 12 december 1985, houdende bepalingen omtrent de Regeling van de schadeloosstelling van en andere financiële voorzieningen voor het lid van de Raad van State van het Koninkrijk, benoemd ingevolge artikel 13, tweede lid, van het Statuut voor het Koninkrijk

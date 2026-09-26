@@ -9,7 +9,7 @@ laatste_update: 2026-09-23
 status: geldig
 toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0041109"
-opgehaald: 2026-09-25
+opgehaald: 2026-09-26
 ---
 
 # Besluit van de Minister van Economische Zaken en Klimaat van 2 juli 2018, nr. WJZ/18126679, houdende de aanwijzing van toezichthouders van de Nederlandse emissieautoriteit (Besluit toezichthouders NEa)

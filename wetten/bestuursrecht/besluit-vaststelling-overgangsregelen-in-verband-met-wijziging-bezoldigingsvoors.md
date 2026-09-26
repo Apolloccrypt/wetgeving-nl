@@ -9,7 +9,7 @@ laatste_update: 1985-06-01
 status: geldig
 toestand: 1985-06-01
 bron: "https://wetten.overheid.nl/BWBR0003701"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 augustus 1984, houdende vaststelling van een tweetal overgangsregelingen, ingaande 1 oktober 1984, in verband met de wijziging van de bezoldigingsvoorschriften voor militairen naar aanleiding van de structurele herziening van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1948 per 1 januari 1984

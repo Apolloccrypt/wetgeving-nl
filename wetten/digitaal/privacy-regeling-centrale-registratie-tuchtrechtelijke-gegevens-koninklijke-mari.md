@@ -8,7 +8,7 @@ laatste_update: 1986-09-19
 status: geldig
 toestand: 1986-09-19
 bron: "https://wetten.overheid.nl/BWBR0003866"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Marine 1985

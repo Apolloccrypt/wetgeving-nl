@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0004039"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 oktober 1986, houdende regels betreffende het geneeskundig onderzoek, bedoeld in artikel 18 van de Wet buitengewoon pensioen Indisch verzet

@@ -9,7 +9,7 @@ laatste_update: 2005-11-01
 status: geldig
 toestand: 2005-11-01
 bron: "https://wetten.overheid.nl/BWBR0004551"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 19 mei 1989, houdende vaststelling van een algemene maatregel van bestuur inzake beroepsactiviteiten waarvoor het geslacht bepalend kan zijn

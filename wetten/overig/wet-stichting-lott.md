@@ -9,7 +9,7 @@ laatste_update: 1987-06-15
 status: geldig
 toestand: 1987-06-15
 bron: "https://wetten.overheid.nl/BWBR0004130"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 18 maart 1987, houdende machtiging tot mede-oprichting van de Stichting Landelijke Organisatie Trauma Teams

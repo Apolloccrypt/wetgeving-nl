@@ -8,7 +8,7 @@ laatste_update: 1989-02-21
 status: geldig
 toestand: 1989-02-21
 bron: "https://wetten.overheid.nl/BWBR0004496"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Ondernemingskosten en overdracht pensioenkapitaal, waarde-overdracht pensioenrechten bij verandering dienstbetrekking, PGGM naar SDS-circuit

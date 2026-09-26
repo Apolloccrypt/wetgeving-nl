@@ -9,7 +9,7 @@ laatste_update: 1984-08-30
 status: geldig
 toestand: 1984-08-30
 bron: "https://wetten.overheid.nl/BWBR0003691"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 6 juli 1984, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 39, vierde lid van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 (Stb. 1984, 94)

@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0003578"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Uitvoeringsbeschikking vrijstelling van motorrijtuigenbelasting wegens invaliditeit

@@ -8,7 +8,7 @@ laatste_update: 2000-12-15
 status: geldig
 toestand: 2000-12-15
 bron: "https://wetten.overheid.nl/BWBR0003761"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Regeling gegevens aardolieprodukten 1985

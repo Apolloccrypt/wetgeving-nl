@@ -9,7 +9,7 @@ laatste_update: 1982-09-15
 status: geldig
 toestand: 1982-09-15
 bron: "https://wetten.overheid.nl/BWBR0003512"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 18 augustus 1982, houdende nadere regels betreffende de opgave van de hoeveelheid bijdragende olie als bedoeld in artikel 5 van de Wet schadefonds olietankschepen

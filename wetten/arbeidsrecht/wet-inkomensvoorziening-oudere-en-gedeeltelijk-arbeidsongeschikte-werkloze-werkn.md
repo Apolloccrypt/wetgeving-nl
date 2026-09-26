@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0004044"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 6 november 1986, houdende het treffen van een inkomensvoorziening voor oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers van wie het recht op een uitkering op grond van de Werkloosheidswet is geëindigd

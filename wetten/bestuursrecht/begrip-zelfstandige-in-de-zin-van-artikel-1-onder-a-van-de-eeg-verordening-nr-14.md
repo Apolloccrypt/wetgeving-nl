@@ -8,7 +8,7 @@ laatste_update: 1989-07-12
 status: geldig
 toestand: 1989-07-12
 bron: "https://wetten.overheid.nl/BWBR0004596"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Begrip zelfstandige in de zin van artikel 1, onder a van de EEG-verordening nr. 1408/71

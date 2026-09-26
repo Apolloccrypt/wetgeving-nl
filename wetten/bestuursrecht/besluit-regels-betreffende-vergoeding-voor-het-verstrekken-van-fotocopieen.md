@@ -9,7 +9,7 @@ laatste_update: 1992-05-09
 status: geldig
 toestand: 1992-05-09
 bron: "https://wetten.overheid.nl/BWBR0004183"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 2 juli 1987, houdende regels betreffende de vergoeding voor het verstrekken van fotocopieën, bedoeld in artikel 25a, vierde lid, van de Wet buitengewoon pensioen 1940-1945, artikel 22a, vierde lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers en artikel 32a, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945

@@ -9,7 +9,7 @@ laatste_update: 1986-06-06
 status: geldig
 toestand: 1986-06-06
 bron: "https://wetten.overheid.nl/BWBR0003967"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Rijkswet van 16 mei 1986, houdende machtiging tot verhoging van de inschrijving van het Koninkrijk der Nederlanden op aandelen van de Internationale Bank voor Herstel en Ontwikkeling (Wereldbank)

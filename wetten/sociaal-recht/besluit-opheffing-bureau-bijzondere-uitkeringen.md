@@ -9,7 +9,7 @@ laatste_update: 1983-02-01
 status: geldig
 toestand: 1983-02-01
 bron: "https://wetten.overheid.nl/BWBR0003655"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 30 december 1983, houdende opheffing van het Bureau Bijzondere Uitkeringen van het Ministerie van Financiën en overdracht van de taak van dit bureau met betrekking tot de uitkeringen ten behoeve van het lager onderwijs en het buitengewoon onderwijs naar het Ministerie van Onderwijs en Wetenschappen

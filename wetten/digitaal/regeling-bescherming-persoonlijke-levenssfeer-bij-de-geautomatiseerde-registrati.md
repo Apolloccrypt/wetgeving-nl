@@ -8,7 +8,7 @@ laatste_update: 1986-05-01
 status: geldig
 toestand: 1986-05-01
 bron: "https://wetten.overheid.nl/BWBR0003952"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Regeling Bescherming persoonlijke levenssfeer bij de geautomatiseerde registratie van persoonsgegevens in het kader van de Wet effectenhandel

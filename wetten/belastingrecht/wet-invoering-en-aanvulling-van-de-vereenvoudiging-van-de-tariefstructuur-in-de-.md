@@ -9,7 +9,7 @@ laatste_update: 1991-01-01
 status: geldig
 toestand: 1991-01-01
 bron: "https://wetten.overheid.nl/BWBR0004537"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 27 april 1989, houdende inwerkingtreding van de Wet vereenvoudiging tariefstructuur en aftrekposten in de loon- en inkomstenbelasting en in aanvulling op die wet wijzigingen van de loonbelasting en de inkomstenbelasting inzake vaststelling van het tarief en beperking van de aftrekbaarheid van gemengde kosten

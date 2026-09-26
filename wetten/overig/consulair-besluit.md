@@ -9,7 +9,7 @@ laatste_update: 2019-09-14
 status: geldig
 toestand: 2019-09-14
 bron: "https://wetten.overheid.nl/BWBR0003460"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 november 1981, tot vaststelling van een nieuw Consulair besluit

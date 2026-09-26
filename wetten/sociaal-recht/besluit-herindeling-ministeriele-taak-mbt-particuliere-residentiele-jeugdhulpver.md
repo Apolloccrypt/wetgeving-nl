@@ -9,7 +9,7 @@ laatste_update: 1987-01-01
 status: geldig
 toestand: 1987-01-01
 bron: "https://wetten.overheid.nl/BWBR0004087"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 december 1986, houdende herindeling van de ministeriële taak met betrekking tot particuliere residentiële jeugdhulpverlening

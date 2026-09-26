@@ -9,7 +9,7 @@ laatste_update: 2025-09-17
 status: geldig
 toestand: 2025-09-17
 bron: "https://wetten.overheid.nl/BWBR0003642"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 14 december 1983, houdende regelen ter voorkoming van verontreiniging door schepen

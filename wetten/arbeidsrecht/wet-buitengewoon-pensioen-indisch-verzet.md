@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0003968"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 16 mei 1986, houdende regelen inzake de toekenning van een buitengewoon pensioen aan de deelnemers aan het verzet in het voormalige Nederlands-Indië en aan hun nagelaten betrekkingen

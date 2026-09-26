@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0004300"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 24 februari 1988, houdende de wijze van vaststelling van de wiskundige reserve bedoeld in artikel N 6 en van de tijd bedoeld in artikel N 9 van de Spoorwegpensioenwet

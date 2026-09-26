@@ -9,7 +9,7 @@ laatste_update: 2026-09-23
 status: geldig
 toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0053116"
-opgehaald: 2026-09-25
+opgehaald: 2026-09-26
 ---
 
 # Beleidsbesluit van de Staatssecretaris van Financiën van 10 september 2026, nr. 2026-17016 over de earningsstrippingmaatregel (Beleidsbesluit earningsstrippingmaatregel 2026)

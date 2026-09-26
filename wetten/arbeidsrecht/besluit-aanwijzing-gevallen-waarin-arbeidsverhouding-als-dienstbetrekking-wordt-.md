@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0004090"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 24 december 1986, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 5 van de Wet op de arbeidsongeschiktheidsverzekering, artikel 5 van de Ziektewet en artikel 5 van de Werkloosheidswet

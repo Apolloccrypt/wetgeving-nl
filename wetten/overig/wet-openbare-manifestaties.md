@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0004318"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 20 april 1988, houdende bepalingen betreffende de uitoefening van de vrijheid van godsdienst en levensovertuiging en van het recht tot vergadering en betoging

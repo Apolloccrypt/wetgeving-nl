@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0004739"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 6 april 1990, houdende regelen inzake bijdragen aan de provincies, gemeenten en andere openbare lichamen in de kosten van door hen getroffen maatregelen in het belang van het voorkomen, beperken of ongedaan maken van verontreiniging of aantasting van het milieu

@@ -9,7 +9,7 @@ laatste_update: 1982-05-29
 status: geldig
 toestand: 1982-05-29
 bron: "https://wetten.overheid.nl/BWBR0003494"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Regeling bescherming persoonsgegevens Indische geïnterneerden

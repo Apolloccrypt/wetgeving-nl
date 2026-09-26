@@ -9,7 +9,7 @@ laatste_update: 2014-12-13
 status: geldig
 toestand: 2014-12-13
 bron: "https://wetten.overheid.nl/BWBR0004041"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Vrijstellingsregeling Portieverpakkingen dik-vloeibare melkprodukten (Warenwet)

@@ -8,7 +8,7 @@ laatste_update: 1982-01-01
 status: geldig
 toestand: 1982-01-01
 bron: "https://wetten.overheid.nl/BWBR0003456"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Beschikking wijziging percentage levensonderhoud 1982

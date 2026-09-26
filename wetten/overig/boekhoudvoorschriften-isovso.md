@@ -8,7 +8,7 @@ laatste_update: 1985-10-09
 status: geldig
 toestand: 1985-10-09
 bron: "https://wetten.overheid.nl/BWBR0003850"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Boekhoudvoorschriften ISOVSO

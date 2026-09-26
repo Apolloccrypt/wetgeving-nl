@@ -8,7 +8,7 @@ laatste_update: 1988-10-01
 status: geldig
 toestand: 1988-10-01
 bron: "https://wetten.overheid.nl/BWBR0004406"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling eenmalige uitkering zelfstandigen 1987

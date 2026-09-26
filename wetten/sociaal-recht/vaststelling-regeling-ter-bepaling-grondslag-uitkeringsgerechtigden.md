@@ -8,7 +8,7 @@ laatste_update: 1986-10-22
 status: geldig
 toestand: 1986-10-22
 bron: "https://wetten.overheid.nl/BWBR0004036"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Vaststelling Regeling ter bepaling grondslag uitkeringsgerechtigden

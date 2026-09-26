@@ -8,7 +8,7 @@ laatste_update: 1981-02-24
 status: geldig
 toestand: 1981-02-24
 bron: "https://wetten.overheid.nl/BWBR0003470"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Verplichting voor uitkeringsgerechtigden inkomsten/vermogen op te geven

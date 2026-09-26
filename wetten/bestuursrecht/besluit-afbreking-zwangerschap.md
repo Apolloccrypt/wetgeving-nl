@@ -9,7 +9,7 @@ laatste_update: 2025-10-25
 status: geldig
 toestand: 2025-10-25
 bron: "https://wetten.overheid.nl/BWBR0003677"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 17 mei 1984, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet afbreking zwangerschap

@@ -8,7 +8,7 @@ laatste_update: 1982-07-01
 status: geldig
 toestand: 1982-07-01
 bron: "https://wetten.overheid.nl/BWBR0003502"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Toepassing Wet toezicht kredietwezen t.a.v. Ned. Waterschapsbank en Bank Ned. Gemeenten

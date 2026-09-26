@@ -6,10 +6,11 @@ categorie: "Internationaal recht"
 soort: "AMvB"
 publicatiedatum: 2011-01-31
 laatste_update: 2011-02-16
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-21
 toestand: 2011-02-16
 bron: "https://wetten.overheid.nl/BWBR0020750"
-opgehaald: 2026-08-10
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 11 december 2006, houdende wijziging van het Besluit prudentiële regels Wft ter implementatie van richtlijn nr. 2006/48/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU L 177) en richtlijn nr. 2006/49/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 inzake de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen (herschikking) (PbEU L 177) (Besluit implementatie kapitaalakkoord Bazel 2)

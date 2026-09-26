@@ -9,7 +9,7 @@ laatste_update: 2026-09-22
 status: geldig
 toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0020420"
-opgehaald: 2026-09-25
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 12 oktober 2006, houdende prudentiële regels voor financiële ondernemingen die werkzaam zijn op de financiële markten (Besluit prudentiële regels Wft)

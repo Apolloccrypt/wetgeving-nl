@@ -9,7 +9,7 @@ laatste_update: 1989-05-03
 status: geldig
 toestand: 1989-05-03
 bron: "https://wetten.overheid.nl/BWBR0004528"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 20 april 1989, houdende machtiging als bedoeld in artikel 40 van de Comptabiliteitswet 1976 tot deelneming door de Staat in de naamloze vennootschap waarin de Nederlandsche Middenstandsbank N.V. en de Postbank N.V. samenwerken

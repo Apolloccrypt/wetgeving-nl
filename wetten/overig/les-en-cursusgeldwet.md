@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0004188"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 7 juli 1987, tot uitbreiding van de lesgeldregeling tot de groep 16- tot 18-jarigen, vervanging van en intrekking van de Lesgeldwet voor boven 17-jarigen alsmede intrekking van de School- en cursusgeldwet 1972

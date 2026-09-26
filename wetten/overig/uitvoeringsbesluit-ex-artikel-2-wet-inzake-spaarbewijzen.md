@@ -9,7 +9,7 @@ laatste_update: 1987-04-08
 status: geldig
 toestand: 1987-04-08
 bron: "https://wetten.overheid.nl/BWBR0004125"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 11 maart 1987, tot algemeen verbindendverklaring van de regeling omtrent de uitgifte, de verhandeling en de uitbetaling tegen inlevering van spaarbewijzen als bedoeld in artikel 2 van de Wet inzake spaarbewijzen

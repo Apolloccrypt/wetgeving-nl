@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0004043"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 6 november 1986, houdende verlening van toeslagen tot het relevante sociaal minimum aan uitkeringsgerechtigden op grond van de Werkloosheidswet, de Ziektewet, de Algemene Arbeidsongeschiktheidswet, de Wet op de arbeidsongeschiktheidsverzekering en de Wet arbeidsongeschiktheidsvoorziening militairen

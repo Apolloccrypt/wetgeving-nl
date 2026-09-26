@@ -8,7 +8,7 @@ laatste_update: 2004-01-24
 status: geldig
 toestand: 2004-01-24
 bron: "https://wetten.overheid.nl/BWBR0004382"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Beroepsuitoefeningsverordening registerloodsen

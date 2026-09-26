@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0004501"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 1 maart 1989, tot vaststelling van het ten hoogste toelaatbaar organisch-halogeengehalte van brandstoffen of grondstoffen van brandstoffen

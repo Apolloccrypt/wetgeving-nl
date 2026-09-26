@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0003589"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 26 april 1983, tot vaststelling van een algemene maatregel van bestuur als bedoeld in, alsmede tot bepaling van het tijdstip van de inwerkingtreding van, artikel 2 van de Wet van 2 december 1982, Stb. 679, houdende bepalingen ter uitvoering van het Europees Verdrag inzake de rechtspositie van migrerende werknemers, alsmede met betrekking tot de arbeidsvoorwaarden van buitenlandse werknemers

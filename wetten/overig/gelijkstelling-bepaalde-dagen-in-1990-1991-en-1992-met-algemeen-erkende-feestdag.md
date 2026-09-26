@@ -8,7 +8,7 @@ laatste_update: 1990-03-15
 status: geldig
 toestand: 1990-03-15
 bron: "https://wetten.overheid.nl/BWBR0004691"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Gelijkstelling bepaalde dagen in 1990, 1991 en 1992 met algemeen erkende feestdagen

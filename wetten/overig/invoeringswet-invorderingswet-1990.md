@@ -9,7 +9,7 @@ laatste_update: 1990-06-01
 status: geldig
 toestand: 1990-06-01
 bron: "https://wetten.overheid.nl/BWBR0004771"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 30 mei 1990, houdende inwerkingtreding van en aanpassing van wetgeving aan de Invorderingswet 1990 (Invoeringswet Invorderingswet 1990)

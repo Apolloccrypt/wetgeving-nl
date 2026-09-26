@@ -9,7 +9,7 @@ laatste_update: 1989-01-01
 status: geldig
 toestand: 1989-01-01
 bron: "https://wetten.overheid.nl/BWBR0004419"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal

@@ -9,7 +9,7 @@ laatste_update: 1988-11-01
 status: geldig
 toestand: 1988-11-01
 bron: "https://wetten.overheid.nl/BWBR0004413"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 11 oktober 1988, houdende een regeling betreffende coördinatie met betrekking tot civiele zeegaande vaartuigen van de rijksoverheid danwel door deze gesubsidieerde stichtingen

@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0003986"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 11 juni 1986, houdende regels inzake de opheffing van de organisatie bescherming bevolking en het treffen van enige daarmee verband houdende voorzieningen

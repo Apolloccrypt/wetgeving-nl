@@ -8,7 +8,7 @@ laatste_update: 1988-09-01
 status: geldig
 toestand: 1988-09-01
 bron: "https://wetten.overheid.nl/BWBR0004381"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Aanwijzing loodsplichtige scheepvaartwegen

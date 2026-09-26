@@ -9,7 +9,7 @@ laatste_update: 2020-01-31
 status: geldig
 toestand: 2020-01-31
 bron: "https://wetten.overheid.nl/BWBR0003956"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Regeling nadere eisen draagbaar klimmaterieel (Warenwet)

@@ -9,7 +9,7 @@ laatste_update: 2002-06-26
 status: geldig
 toestand: 2002-06-26
 bron: "https://wetten.overheid.nl/BWBR0004552"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 19 mei 1989, tot vaststelling van een scheepvaartreglement voor de Eemsmonding

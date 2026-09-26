@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0003664"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 10 maart 1984, houdende regelen inzake de verlening van uitkeringen en bijzondere voorzieningen aan burger-oorlogsslachtoffers

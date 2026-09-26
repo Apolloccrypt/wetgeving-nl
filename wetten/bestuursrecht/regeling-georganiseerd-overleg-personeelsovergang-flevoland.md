@@ -9,7 +9,7 @@ laatste_update: 1985-12-12
 status: geldig
 toestand: 1985-12-12
 bron: "https://wetten.overheid.nl/BWBR0003882"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 18 november 1985, houdende regeling van het georganiseerd overleg over aangelegenheden van algemeen belang voor de rechtstoestand van ambtenaren die overgaan in dienst van de provincie Flevoland

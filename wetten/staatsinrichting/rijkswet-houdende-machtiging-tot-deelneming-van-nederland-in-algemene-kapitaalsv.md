@@ -9,7 +9,7 @@ laatste_update: 1989-06-23
 status: geldig
 toestand: 1989-06-23
 bron: "https://wetten.overheid.nl/BWBR0004558"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Rijkswet van 24 mei 1989, houdende machtiging tot deelneming door het Koninkrijk der Nederlanden in de algemene kapitaalsverhoging van de Internationale Bank voor Herstel en Ontwikkeling 1988

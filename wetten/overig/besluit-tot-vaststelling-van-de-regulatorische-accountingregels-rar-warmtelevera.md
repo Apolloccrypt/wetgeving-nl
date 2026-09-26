@@ -8,7 +8,7 @@ laatste_update: 2025-06-27
 status: geldig
 toestand: 2025-06-27
 bron: "https://wetten.overheid.nl/BWBR0051941"
-opgehaald: 2026-09-25
+opgehaald: 2026-09-26
 ---
 
 # Besluit tot vaststelling van de Regulatorische accountingregels (RAR) warmteleveranciers 2024

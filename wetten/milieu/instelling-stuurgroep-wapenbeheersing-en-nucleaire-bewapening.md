@@ -8,7 +8,7 @@ laatste_update: 1981-10-02
 status: geldig
 toestand: 1981-10-02
 bron: "https://wetten.overheid.nl/BWBR0003441"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Instelling Stuurgroep wapenbeheersing en nucleaire bewapening

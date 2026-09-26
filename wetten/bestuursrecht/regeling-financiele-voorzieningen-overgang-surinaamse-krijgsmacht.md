@@ -9,7 +9,7 @@ laatste_update: 1982-12-08
 status: geldig
 toestand: 1982-12-08
 bron: "https://wetten.overheid.nl/BWBR0004120"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 27 februari 1987, houdende intrekking en vervanging van de Regeling financiële voorzieningen overgang Surinaamse krijgsmacht

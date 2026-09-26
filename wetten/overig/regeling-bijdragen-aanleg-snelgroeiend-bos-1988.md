@@ -8,7 +8,7 @@ laatste_update: 2016-01-22
 status: geldig
 toestand: 2016-01-22
 bron: "https://wetten.overheid.nl/BWBR0004416"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling bijdragen aanleg snelgroeiend bos 1988

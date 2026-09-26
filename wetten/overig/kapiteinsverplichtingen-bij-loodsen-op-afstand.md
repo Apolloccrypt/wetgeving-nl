@@ -8,7 +8,7 @@ laatste_update: 2006-02-02
 status: geldig
 toestand: 2006-02-02
 bron: "https://wetten.overheid.nl/BWBR0004380"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Kapiteinsverplichtingen bij loodsen op afstand

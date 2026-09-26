@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0004028"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 10 september 1986, houdende regelen betreffende de overname van de tenuitvoerlegging van buitenlandse strafrechtelijke beslissingen en de overdracht van de tenuitvoerlegging van Nederlandse strafrechtelijke beslissingen naar het buitenland

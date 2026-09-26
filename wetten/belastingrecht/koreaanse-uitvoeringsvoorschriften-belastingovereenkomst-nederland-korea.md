@@ -9,7 +9,7 @@ laatste_update: 1997-06-19
 status: geldig
 toestand: 1997-06-19
 bron: "https://wetten.overheid.nl/BWBR0004702"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling inzake vermindering van Koreaanse belasting op dividenden, interest en royalty's uit Koreaanse bron, genoten door inwoners van Nederland

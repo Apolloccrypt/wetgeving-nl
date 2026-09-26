@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0004302"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 10 maart 1988, houdende maatregelen ter beperking van het tabaksgebruik, in het bijzonder ter bescherming van de niet-roker

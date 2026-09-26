@@ -9,7 +9,7 @@ laatste_update: 1989-01-01
 status: geldig
 toestand: 1989-01-01
 bron: "https://wetten.overheid.nl/BWBR0004420"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling betreffende de inwerkingtreding van de Richtlijn van de Commissie van 18 november 1987 houdende negende aanpassing aan de vooruitgang van de Richtlijn 67/548/EEG van de Raad betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen

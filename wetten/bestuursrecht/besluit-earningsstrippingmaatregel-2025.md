@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-22
 toestand: 2025-07-30
 bron: "https://wetten.overheid.nl/BWBR0051336"
-opgehaald: 2026-09-25
+opgehaald: 2026-09-26
 ---
 
 # Besluit Earningsstrippingmaatregel 2025

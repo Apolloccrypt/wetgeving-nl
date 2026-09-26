@@ -8,7 +8,7 @@ laatste_update: 1989-03-29
 status: geldig
 toestand: 1989-03-29
 bron: "https://wetten.overheid.nl/BWBR0004517"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Uitvoering van de voorrangsregeling voor de vennootschapsbelasting

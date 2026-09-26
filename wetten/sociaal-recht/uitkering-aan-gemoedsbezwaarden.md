@@ -8,7 +8,7 @@ laatste_update: 2002-02-23
 status: geldig
 toestand: 2002-02-23
 bron: "https://wetten.overheid.nl/BWBR0003795"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Uitkering aan gemoedsbezwaarden

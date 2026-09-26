@@ -9,7 +9,7 @@ laatste_update: 2012-12-07
 status: geldig
 toestand: 2012-12-07
 bron: "https://wetten.overheid.nl/BWBR0003953"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 24 april 1986 ter uitvoering van de artikelen 1, 15, 17, 18, 21, 37 en 45, tweede lid, van de TNO-wet

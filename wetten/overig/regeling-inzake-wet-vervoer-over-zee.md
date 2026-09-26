@@ -9,7 +9,7 @@ laatste_update: 1984-09-19
 status: geldig
 toestand: 1984-09-19
 bron: "https://wetten.overheid.nl/BWBR0003708"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wijziging besluit tot vaststelling van termijnen ex art. 3-1

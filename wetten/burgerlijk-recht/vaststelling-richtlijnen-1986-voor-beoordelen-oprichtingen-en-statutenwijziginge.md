@@ -8,7 +8,7 @@ laatste_update: 1998-10-15
 status: geldig
 toestand: 1998-10-15
 bron: "https://wetten.overheid.nl/BWBR0003881"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Vaststelling Richtlijnen 1986 voor beoordelen oprichtingen en statutenwijzigingen van n.v.'s en b.v.'s met beperkte aansprakelijkheid

@@ -9,7 +9,7 @@ laatste_update: 1989-11-01
 status: geldig
 toestand: 1989-11-01
 bron: "https://wetten.overheid.nl/BWBR0004602"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 20 juli 1989, houdende herindeling van de ministeriële taak met betrekking tot de zorg voor de veiligheid van apparatuur, bij het gebruik waarvan elektriciteit of gas wordt gebezigd

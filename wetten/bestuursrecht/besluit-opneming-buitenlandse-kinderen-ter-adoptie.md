@@ -9,7 +9,7 @@ laatste_update: 2020-02-13
 status: geldig
 toestand: 2020-02-13
 bron: "https://wetten.overheid.nl/BWBR0004582"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 4 juli 1989, houdende vaststelling van het Besluit opneming buitenlandse pleegkinderen en wijziging van het Uitvoeringsbesluit Kinderbescherming

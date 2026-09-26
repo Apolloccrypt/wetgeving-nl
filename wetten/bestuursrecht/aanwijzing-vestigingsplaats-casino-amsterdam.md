@@ -9,7 +9,7 @@ laatste_update: 1986-04-30
 status: geldig
 toestand: 1986-04-30
 bron: "https://wetten.overheid.nl/BWBR0003946"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Verlening vergunning aan Amsterdam tot organiseren van een speelcasino Wet kansspelen

@@ -9,7 +9,7 @@ laatste_update: 2022-05-01
 status: geldig
 toestand: 2022-05-01
 bron: "https://wetten.overheid.nl/BWBR0003906"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 19 december 1985, houdende regeling van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO

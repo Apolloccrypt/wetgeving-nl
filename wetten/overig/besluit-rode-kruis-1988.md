@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0004470"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 22 december 1988, houdende vaststelling van een algemene maatregel van rijksbestuur tot regeling van de vrijwillige hulpverlening aan gewonden, zieken, krijgsgevangenen, geïnterneerden en anderszins hulpbehoevenden door erkende en toegelaten verenigingen

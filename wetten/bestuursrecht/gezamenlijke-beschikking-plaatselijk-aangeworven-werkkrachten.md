@@ -9,7 +9,7 @@ laatste_update: 1990-06-29
 status: geldig
 toestand: 1990-06-29
 bron: "https://wetten.overheid.nl/BWBR0004810"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Gezamenlijke beschikking plaatselijk aangeworven werkkrachten

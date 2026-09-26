@@ -8,7 +8,7 @@ laatste_update: 1987-12-01
 status: geldig
 toestand: 1987-12-01
 bron: "https://wetten.overheid.nl/BWBR0004245"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Rangenbesluit rijksbrandweerpersoneel

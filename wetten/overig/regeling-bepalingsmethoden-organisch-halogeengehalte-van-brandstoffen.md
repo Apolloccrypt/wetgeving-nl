@@ -8,7 +8,7 @@ laatste_update: 2009-12-02
 status: geldig
 toestand: 2009-12-02
 bron: "https://wetten.overheid.nl/BWBR0004524"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling bepalingsmethoden organisch-halogeengehalte van brandstoffen

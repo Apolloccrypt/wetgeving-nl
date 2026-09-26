@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0003823"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Intrekking en herziening ouderdomspensioen

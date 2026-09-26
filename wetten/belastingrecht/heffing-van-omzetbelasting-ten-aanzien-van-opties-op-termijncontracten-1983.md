@@ -9,7 +9,7 @@ laatste_update: 1983-07-18
 status: geldig
 toestand: 1983-07-18
 bron: "https://wetten.overheid.nl/BWBR0003607"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Heffing van omzetbelasting ten aanzien van opties op termijncontracten

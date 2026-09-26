@@ -8,7 +8,7 @@ laatste_update: 1989-09-21
 status: geldig
 toestand: 1989-09-21
 bron: "https://wetten.overheid.nl/BWBR0004647"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit Korps Mobiele Colonnes 1989

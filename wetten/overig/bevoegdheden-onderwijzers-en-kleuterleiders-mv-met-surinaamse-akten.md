@@ -8,7 +8,7 @@ laatste_update: 1986-08-12
 status: geldig
 toestand: 1986-08-12
 bron: "https://wetten.overheid.nl/BWBR0004013"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Bevoegdheden onderwijzers en kleuterleiders (m/v) met Surinaamse akten

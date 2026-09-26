@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0004447"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 8 december 1988, houdende regelen inzake de opneming in Nederland van buitenlandse pleegkinderen met het oog op adoptie

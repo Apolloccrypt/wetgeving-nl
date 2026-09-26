@@ -8,7 +8,7 @@ laatste_update: 2008-10-01
 status: geldig
 toestand: 2008-10-01
 bron: "https://wetten.overheid.nl/BWBR0003613"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Voorschriften m.b.t. verzoeken om ontheffing bepalingen in de Wet verontreiniging zeewater

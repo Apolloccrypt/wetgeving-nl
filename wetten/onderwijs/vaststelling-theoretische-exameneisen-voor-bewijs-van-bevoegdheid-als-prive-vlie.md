@@ -8,7 +8,7 @@ laatste_update: 1990-01-01
 status: geldig
 toestand: 1990-01-01
 bron: "https://wetten.overheid.nl/BWBR0004572"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Vaststelling theoretische exameneisen voor bewijs van bevoegdheid als privé-vlieger

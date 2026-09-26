@@ -8,7 +8,7 @@ laatste_update: 1996-07-01
 status: geldig
 toestand: 1996-07-01
 bron: "https://wetten.overheid.nl/BWBR0003759"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Vaststelling wijze van verstrekking gegevens als bedoeld in artikel 13 Wet aansprakelijkheidsverzekering motorrijtuigen

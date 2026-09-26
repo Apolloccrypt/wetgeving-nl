@@ -8,7 +8,7 @@ laatste_update: 2008-03-06
 status: geldig
 toestand: 2008-03-06
 bron: "https://wetten.overheid.nl/BWBR0004389"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Vergaderverordening Nederlandse loodsencorporatie

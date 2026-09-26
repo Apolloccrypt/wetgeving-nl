@@ -9,7 +9,7 @@ laatste_update: 1982-12-22
 status: geldig
 toestand: 1982-12-22
 bron: "https://wetten.overheid.nl/BWBR0003537"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 15 november 1982, houdende nadere uitwerking herindeling van een aantal departementale taken

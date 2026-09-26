@@ -8,7 +8,7 @@ laatste_update: 2007-10-21
 status: geldig
 toestand: 2007-10-21
 bron: "https://wetten.overheid.nl/BWBR0003559"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Beschikking grondbankstelsel

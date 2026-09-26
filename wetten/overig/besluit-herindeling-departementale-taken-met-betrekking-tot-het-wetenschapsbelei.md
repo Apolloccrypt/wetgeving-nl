@@ -9,7 +9,7 @@ laatste_update: 1983-09-06
 status: geldig
 toestand: 1983-09-06
 bron: "https://wetten.overheid.nl/BWBR0003690"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 4 juli 1984, houdende herindeling van departementale taken met betrekking tot het wetenschapsbeleid en het technologiebeleid

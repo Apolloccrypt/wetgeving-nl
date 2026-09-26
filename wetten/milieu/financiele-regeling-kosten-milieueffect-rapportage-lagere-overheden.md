@@ -8,7 +8,7 @@ laatste_update: 1985-01-01
 status: geldig
 toestand: 1985-01-01
 bron: "https://wetten.overheid.nl/BWBR0003745"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Financiële regeling kosten milieueffect-rapportage lagere overheden

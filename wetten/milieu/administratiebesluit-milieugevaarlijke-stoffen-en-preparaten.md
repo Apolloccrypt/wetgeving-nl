@@ -9,7 +9,7 @@ laatste_update: 2010-12-01
 status: geldig
 toestand: 2010-12-01
 bron: "https://wetten.overheid.nl/BWBR0004321"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 28 april 1988, houdende uitvoering van artikel 32, tweede en derde lid, van de Wet milieugevaarlijke stoffen

@@ -8,7 +8,7 @@ laatste_update: 1986-06-26
 status: geldig
 toestand: 1986-06-26
 bron: "https://wetten.overheid.nl/BWBR0003990"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Naamswijziging permanente krijgsraad Nederlandse Antillen voor de zeemacht

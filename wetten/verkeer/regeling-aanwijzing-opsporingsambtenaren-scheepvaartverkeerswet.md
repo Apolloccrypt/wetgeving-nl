@@ -8,7 +8,7 @@ laatste_update: 2004-11-26
 status: geldig
 toestand: 2004-11-26
 bron: "https://wetten.overheid.nl/BWBR0004666"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Regeling aanwijzing opsporingsambtenaren Scheepvaartverkeerswet

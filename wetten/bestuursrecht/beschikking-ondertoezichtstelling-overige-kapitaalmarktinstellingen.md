@@ -9,7 +9,7 @@ laatste_update: 1982-05-22
 status: geldig
 toestand: 1982-05-22
 bron: "https://wetten.overheid.nl/BWBR0003496"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit ondertoezichtstelling overige kapitaalmarktinstellingen

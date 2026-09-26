@@ -9,7 +9,7 @@ laatste_update: 1983-01-01
 status: geldig
 toestand: 1983-01-01
 bron: "https://wetten.overheid.nl/BWBR0003588"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 18 april 1983, houdende regeling van de zorg voor het archief van het voormalig ministerie van Volksgezondheid en Milieuhygiëne

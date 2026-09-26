@@ -9,7 +9,7 @@ laatste_update: 2008-12-17
 status: geldig
 toestand: 2008-12-17
 bron: "https://wetten.overheid.nl/BWBR0003501"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 9 juni 1982, omtrent het regiem voor militairen die in het huis van bewaring en de gevangenis het Militair Penitentiair Centrum "Nieuwersluis" voorlopig arrest, respectievelijk gevangenisstraf, hechtenis of militaire detentie ondergaan

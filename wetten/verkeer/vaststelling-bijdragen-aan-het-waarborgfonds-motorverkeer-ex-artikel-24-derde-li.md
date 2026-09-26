@@ -8,7 +8,7 @@ laatste_update: 1989-07-01
 status: geldig
 toestand: 1989-07-01
 bron: "https://wetten.overheid.nl/BWBR0004549"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Vaststelling bijdragen aan het Waarborgfonds Motorverkeer (ex artikel 24 derde lid, WAM)

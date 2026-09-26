@@ -8,7 +8,7 @@ laatste_update: 1987-10-17
 status: geldig
 toestand: 1987-10-17
 bron: "https://wetten.overheid.nl/BWBR0004219"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Nachtvluchtenregeling Schiphol

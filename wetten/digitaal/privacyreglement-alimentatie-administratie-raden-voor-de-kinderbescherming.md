@@ -8,7 +8,7 @@ laatste_update: 1990-07-01
 status: geldig
 toestand: 1990-07-01
 bron: "https://wetten.overheid.nl/BWBR0004802"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Privacyreglement alimentatie-administratie raden voor de kinderbescherming

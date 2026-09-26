@@ -9,7 +9,7 @@ laatste_update: 1982-11-18
 status: geldig
 toestand: 1982-11-18
 bron: "https://wetten.overheid.nl/BWBR0003535"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 10 november 1982, houdende herindeling van de departementale taak met betrekking tot openluchtrecreatie

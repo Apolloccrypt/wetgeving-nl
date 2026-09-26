@@ -9,7 +9,7 @@ laatste_update: 1981-09-11
 status: geldig
 toestand: 1981-09-11
 bron: "https://wetten.overheid.nl/BWBR0003466"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 2 december 1981, houdende de overdracht van de coördinatie van het emancipatiebeleid van het Ministerie van Cultuur, Recreatie en Maatschappelijk Werk aan het Ministerie van Sociale Zaken en Werkgelegenheid

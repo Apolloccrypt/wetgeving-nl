@@ -9,7 +9,7 @@ laatste_update: 1988-09-01
 status: geldig
 toestand: 1988-09-01
 bron: "https://wetten.overheid.nl/BWBR0004392"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 18 augustus 1988, houdende vaststelling van de regiogrenzen

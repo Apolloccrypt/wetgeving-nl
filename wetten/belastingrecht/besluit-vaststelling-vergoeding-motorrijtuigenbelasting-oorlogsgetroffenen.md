@@ -9,7 +9,7 @@ laatste_update: 1995-11-24
 status: geldig
 toestand: 1995-11-24
 bron: "https://wetten.overheid.nl/BWBR0003681"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 20 juni 1984, houdende vaststelling van een algemene maatregel van bestuur regelende de vergoeding motorrijtuigenbelasting voor oorlogsgetroffenen

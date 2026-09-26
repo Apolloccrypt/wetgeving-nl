@@ -9,7 +9,7 @@ laatste_update: 1990-08-01
 status: geldig
 toestand: 1990-08-01
 bron: "https://wetten.overheid.nl/BWBR0004741"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 17 april 1990, houdende overbrenging in beheer en onderhoud bij de gemeente Dordrecht van de Krabbegeul en het afgedamde gedeelte van het Mallegat met bijbehorende werken te Dordrecht

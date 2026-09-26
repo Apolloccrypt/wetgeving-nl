@@ -9,7 +9,7 @@ laatste_update: 2006-03-08
 status: geldig
 toestand: 2006-03-08
 bron: "https://wetten.overheid.nl/BWBR0003449"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 16 oktober 1981, houdende nadere voorschriften met betrekking tot de omschrijving en aanduiding van het gebied als bedoeld in artikel 3 van de Wet agrarisch grondverkeer (Stb. 1981, 248)

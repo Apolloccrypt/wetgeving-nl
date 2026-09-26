@@ -9,7 +9,7 @@ laatste_update: 1986-05-06
 status: geldig
 toestand: 1986-05-06
 bron: "https://wetten.overheid.nl/BWBR0003961"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Collectieve Schadecompensatieregeling marktkooplieden Centrummarkt Rotterdam

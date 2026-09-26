@@ -8,7 +8,7 @@ laatste_update: 1985-10-06
 status: geldig
 toestand: 1985-10-06
 bron: "https://wetten.overheid.nl/BWBR0003853"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Beschikking vaststelling provinciale opcenten motorrijtuigenbelasting 1986

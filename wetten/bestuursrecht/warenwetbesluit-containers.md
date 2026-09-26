@@ -9,7 +9,7 @@ laatste_update: 2006-04-01
 status: geldig
 toestand: 2006-04-01
 bron: "https://wetten.overheid.nl/BWBR0003584"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 25 maart 1983, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet op de gevaarlijke werktuigen (Stb. 1952, 104)

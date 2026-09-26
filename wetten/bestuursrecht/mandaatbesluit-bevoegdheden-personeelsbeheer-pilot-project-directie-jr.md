@@ -8,7 +8,7 @@ laatste_update: 1989-09-01
 status: geldig
 toestand: 1989-09-01
 bron: "https://wetten.overheid.nl/BWBR0004617"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Mandaatbesluit bevoegdheden personeelsbeheer pilot-project Directie J&R

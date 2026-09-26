@@ -9,7 +9,7 @@ laatste_update: 2025-12-12
 status: geldig
 toestand: 2025-12-12
 bron: "https://wetten.overheid.nl/BWBR0004772"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 30 mei 1990, houdende het uitvoeringsbesluit Invorderingswet 1990

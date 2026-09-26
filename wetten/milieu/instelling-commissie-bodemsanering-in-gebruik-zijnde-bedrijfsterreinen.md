@@ -8,7 +8,7 @@ laatste_update: 1990-05-01
 status: geldig
 toestand: 1990-05-01
 bron: "https://wetten.overheid.nl/BWBR0004505"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Instelling Commissie Bodemsanering in gebruik zijnde bedrijfsterreinen

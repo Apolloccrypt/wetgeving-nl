@@ -9,7 +9,7 @@ laatste_update: 1995-12-31
 status: geldig
 toestand: 1995-12-31
 bron: "https://wetten.overheid.nl/BWBR0004353"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 juni 1988, houdende vaststelling van het Academisch Statuut

@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0004613"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 23 augustus 1989, tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 3, derde en vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, artikel 3, derde en vierde lid, van de Ziektewet en artikel 3, derde en vierde lid, van de Werkloosheidswet

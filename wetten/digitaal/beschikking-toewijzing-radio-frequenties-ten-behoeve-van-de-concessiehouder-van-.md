@@ -8,7 +8,7 @@ laatste_update: 1998-12-15
 status: geldig
 toestand: 1998-12-15
 bron: "https://wetten.overheid.nl/BWBR0004786"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Beschikking toewijzing radio-frequenties ten behoeve van de concessiehouder van de telecommunicatie-infrastructuur

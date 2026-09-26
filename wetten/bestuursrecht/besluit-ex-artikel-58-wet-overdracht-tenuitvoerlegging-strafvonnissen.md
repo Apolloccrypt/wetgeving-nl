@@ -9,7 +9,7 @@ laatste_update: 1988-01-01
 status: geldig
 toestand: 1988-01-01
 bron: "https://wetten.overheid.nl/BWBR0004072"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 18 december 1986, tot uitvoering van artikel 58 van de Wet overdracht tenuitvoerlegging strafvonnissen

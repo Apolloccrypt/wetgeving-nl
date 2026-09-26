@@ -9,7 +9,7 @@ laatste_update: 1982-01-15
 status: geldig
 toestand: 1982-01-15
 bron: "https://wetten.overheid.nl/BWBR0003458"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 17 november 1981, houdende vaststelling van de lijn bedoeld in artikel 1, eerste lid, onder a, van de Schepenwet

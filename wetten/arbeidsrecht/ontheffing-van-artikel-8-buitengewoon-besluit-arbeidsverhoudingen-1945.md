@@ -8,7 +8,7 @@ laatste_update: 1985-06-22
 status: geldig
 toestand: 1985-06-22
 bron: "https://wetten.overheid.nl/BWBR0003809"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Ontheffing van artikel 8 Buitengewoon Besluit Arbeidsverhoudingen 1945

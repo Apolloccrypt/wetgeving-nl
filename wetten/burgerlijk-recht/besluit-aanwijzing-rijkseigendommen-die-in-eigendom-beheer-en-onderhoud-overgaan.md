@@ -9,7 +9,7 @@ laatste_update: 1993-01-01
 status: geldig
 toestand: 1993-01-01
 bron: "https://wetten.overheid.nl/BWBR0003912"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 28 december 1985, houdende aanwijzing van rijkseigendommen die in eigendom, beheer en onderhoud overgaan op de gemeente Noordoostpolder

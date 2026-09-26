@@ -9,7 +9,7 @@ laatste_update: 1990-01-12
 status: geldig
 toestand: 1990-01-12
 bron: "https://wetten.overheid.nl/BWBR0004660"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 8 december 1989, houdende regels inzake vrijstelling gemoedsbezwaarden aansprakelijkheidsverzekering motorrijtuigen

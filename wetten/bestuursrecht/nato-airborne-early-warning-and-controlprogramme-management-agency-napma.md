@@ -8,7 +8,7 @@ laatste_update: 1987-03-09
 status: geldig
 toestand: 1987-03-09
 bron: "https://wetten.overheid.nl/BWBR0004123"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Nato airborne early warning and controlprogramme management agency (NAPMA)

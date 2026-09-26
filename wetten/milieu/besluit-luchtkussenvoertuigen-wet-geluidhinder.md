@@ -9,7 +9,7 @@ laatste_update: 2010-12-31
 status: geldig
 toestand: 2010-12-31
 bron: "https://wetten.overheid.nl/BWBR0004624"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 19 september 1989, tot uitvoering van artikel 2, en andere van de Wet geluidhinder met betrekking tot luchtkussenvoertuigen

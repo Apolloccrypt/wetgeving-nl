@@ -9,7 +9,7 @@ laatste_update: 1985-05-15
 status: geldig
 toestand: 1985-05-15
 bron: "https://wetten.overheid.nl/BWBR0003796"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 17 mei 1985, houdende overbrenging van de zorg voor de uitvoering van de artikelen 38 tot en met 44 van de Woonwagenwet (Commissie van advies) van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer naar het Ministerie van Binnenlandse Zaken

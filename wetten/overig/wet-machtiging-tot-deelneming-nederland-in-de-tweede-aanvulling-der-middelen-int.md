@@ -9,7 +9,7 @@ laatste_update: 1988-01-22
 status: geldig
 toestand: 1988-01-22
 bron: "https://wetten.overheid.nl/BWBR0004260"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 23 december 1987, houdende machtiging tot deelneming door Nederland in de Tweede Aanvulling der Middelen van het Internationale Fonds voor Agrarische Ontwikkeling (IFAD)

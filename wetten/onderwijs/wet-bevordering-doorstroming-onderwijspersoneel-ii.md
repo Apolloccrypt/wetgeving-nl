@@ -9,7 +9,7 @@ laatste_update: 1990-01-02
 status: geldig
 toestand: 1990-01-02
 bron: "https://wetten.overheid.nl/BWBR0004586"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Wet van 5 juli 1989, houdende regels met betrekking tot de doorstroming en verlaging van de uittredingsleeftijd van onderwijspersoneel

@@ -8,7 +8,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0003689"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Aanwijzing onderwijsinstituten

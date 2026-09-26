@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0003785"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Spaarregeling gemoedsbezwaarden

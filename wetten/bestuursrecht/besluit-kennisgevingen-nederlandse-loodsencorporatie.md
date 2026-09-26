@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0004390"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 18 augustus 1988, betreffende bekendmaking van openbare ledenvergaderingen en ontwerpen van verordeningen van de corporatie

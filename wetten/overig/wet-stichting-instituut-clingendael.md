@@ -9,7 +9,7 @@ laatste_update: 1983-01-01
 status: geldig
 toestand: 1983-01-01
 bron: "https://wetten.overheid.nl/BWBR0003562"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 29 december 1982, houdende machtiging tot mede-oprichting van de Stichting Nederlands Instituut voor Internationale Betrekkingen "Clingendael"

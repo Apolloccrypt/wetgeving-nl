@@ -8,7 +8,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0003812"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Betaalbaarstelling uitkeringen ingevolge de sociale verzekeringswetten door andere organen dan de Sociale Verzekeringsbank en bedrijfsverenigingen

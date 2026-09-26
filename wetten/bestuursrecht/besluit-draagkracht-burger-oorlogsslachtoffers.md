@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0003693"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 6 juli 1984, houdende vaststelling van een algemene maatregel van bestuur betreffende de bepaling van de financiële draagkracht ingevolge de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945, Stb. 1984, 94

@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0003546"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Wet van 2 december 1982, houdende bepalingen ter uitvoering van het Europees Verdrag inzake de rechtspositie van migrerende werknemers, alsmede met betrekking tot de arbeidsvoorwaarden van buitenlandse werknemers

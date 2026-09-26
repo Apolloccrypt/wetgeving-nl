@@ -9,7 +9,7 @@ laatste_update: 1985-07-09
 status: geldig
 toestand: 1985-07-09
 bron: "https://wetten.overheid.nl/BWBR0003813"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Rijkswet van 20 juni 1985, houdende vaststelling van enige overgangsbepalingen in verband met het verkrijgen van de hoedanigheid van land in het Koninkrijk door Aruba

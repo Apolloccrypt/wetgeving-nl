@@ -8,7 +8,7 @@ laatste_update: 1985-01-01
 status: geldig
 toestand: 1985-01-01
 bron: "https://wetten.overheid.nl/BWBR0003742"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Overgangsregeling loonbelasting 1984–1985

@@ -9,7 +9,7 @@ laatste_update: 2007-10-31
 status: geldig
 toestand: 2007-10-31
 bron: "https://wetten.overheid.nl/BWBR0003548"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 13 december 1982, houdende aanwijzing van de gevallen waarin het bureau beheer landbouwgronden kan overgaan tot de uitgifte in erfpacht van landbouwgrond

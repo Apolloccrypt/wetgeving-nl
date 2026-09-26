@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0004756"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-26
 ---
 
 # Besluit van 15 mei 1990, houdende regels met betrekking tot aanstelling, schorsing en ontslag van de tot het bureau van de Nationale ombudsman behorende personen
