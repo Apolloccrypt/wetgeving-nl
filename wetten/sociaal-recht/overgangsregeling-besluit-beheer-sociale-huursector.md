@@ -8,7 +8,7 @@ laatste_update: 1992-11-19
 status: geldig
 toestand: 1992-11-19
 bron: "https://wetten.overheid.nl/BWBR0005715"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Overgangsregeling Besluit beheer sociale-huursector

@@ -9,7 +9,7 @@ laatste_update: 1990-12-19
 status: geldig
 toestand: 1990-12-19
 bron: "https://wetten.overheid.nl/BWBR0004891"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 2 november 1990, houdende regeling provincie- en gemeentegrenzen langs de Noordzeekust van de gemeente Den Helder tot en met de gemeente Sluis en wijziging van de Financiële-Verhoudingswet 1984

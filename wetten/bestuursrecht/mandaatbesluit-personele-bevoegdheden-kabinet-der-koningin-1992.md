@@ -8,7 +8,7 @@ laatste_update: 1992-02-15
 status: geldig
 toestand: 1992-02-15
 bron: "https://wetten.overheid.nl/BWBR0005411"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Mandaatbesluit personele bevoegdheden Kabinet der Koningin 1992

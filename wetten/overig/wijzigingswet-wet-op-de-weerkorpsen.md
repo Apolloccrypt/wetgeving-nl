@@ -9,7 +9,7 @@ laatste_update: 1992-12-01
 status: geldig
 toestand: 1992-12-01
 bron: "https://wetten.overheid.nl/BWBR0005262"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 7 november 1991, tot wijziging van de Wet op de weerkorpsen ter zake van de particuliere beveiligingsorganisaties

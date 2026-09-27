@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0004910"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 21 november 1990, houdende machtiging tot deelneming van de Staat aan het geïntegreerd EEG-mechanisme voor financiële ondersteuning op middellange termijn van de betalingsbalansen van de Lid-Staten

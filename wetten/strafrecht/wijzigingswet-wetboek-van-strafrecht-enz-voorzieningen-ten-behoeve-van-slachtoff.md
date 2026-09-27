@@ -9,7 +9,7 @@ laatste_update: 1993-04-01
 status: geldig
 toestand: 1993-04-01
 bron: "https://wetten.overheid.nl/BWBR0005789"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 23 december 1992, tot aanvulling van het Wetboek van Strafrecht, het Wetboek van Strafvordering, de Wet voorlopige regeling schadefonds geweldsmisdrijven en andere wetten met voorzieningen ten behoeve van slachtoffers van strafbare feiten

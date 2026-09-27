@@ -9,7 +9,7 @@ laatste_update: 1997-06-19
 status: geldig
 toestand: 1997-06-19
 bron: "https://wetten.overheid.nl/BWBR0004899"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Regeling inzake vermindering van Spaanse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland

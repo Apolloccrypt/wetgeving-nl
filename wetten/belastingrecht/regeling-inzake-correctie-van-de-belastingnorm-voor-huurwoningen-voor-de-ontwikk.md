@@ -8,7 +8,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0005551"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling inzake correctie van de belastingnorm voor huurwoningen voor de ontwikkeling van de kosten van milieumaatregelen

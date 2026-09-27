@@ -9,7 +9,7 @@ laatste_update: 2012-09-26
 status: geldig
 toestand: 2012-09-26
 bron: "https://wetten.overheid.nl/BWBR0005315"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 11 december 1991, houdende een reglement voor de scheepvaart op het Kanaal van Gent naar Terneuzen

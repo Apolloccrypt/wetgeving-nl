@@ -9,7 +9,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBR0005347"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 19 december 1991, tot wijziging van de Algemene wet inzake de douane en de accijnzen en enkele andere wetten (aanpassing in verband met communautaire regelgeving alsmede enkele andere wijzigingen)

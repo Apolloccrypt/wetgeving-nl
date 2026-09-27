@@ -8,7 +8,7 @@ laatste_update: 1991-12-23
 status: geldig
 toestand: 1991-12-23
 bron: "https://wetten.overheid.nl/BWBR0005364"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # In andere landen geheven belastingen naar de winst

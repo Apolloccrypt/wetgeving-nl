@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0005564"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 24 juni 1992, tot wijziging van het hoofdstuk Financiële bepalingen van de Wet algemene bepalingen milieuhygiëne en van enige andere wetten, onder meer ter omzetting van de bestemmingsheffingen op brandstoffen in verbruiksbelastingen van brandstoffen, geheven naar het koolstofgehalte en de energie-inhoud van de brandstoffen

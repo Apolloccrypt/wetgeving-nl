@@ -9,7 +9,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBR0005177"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 23 augustus 1991, tot wijziging van de Pensioen- en spaarfondsenwet (gelijke behandeling van slapers en gepensioneerden)

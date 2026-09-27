@@ -9,7 +9,7 @@ laatste_update: 1990-11-16
 status: geldig
 toestand: 1990-11-16
 bron: "https://wetten.overheid.nl/BWBR0004881"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 10 oktober 1990, houdende goedkeuring van het op 15 oktober 1985 te Straatsburg tot stand gekomen Europees Handvest inzake lokale autonomie

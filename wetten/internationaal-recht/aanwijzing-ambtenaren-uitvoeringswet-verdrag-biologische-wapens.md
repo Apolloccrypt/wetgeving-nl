@@ -8,7 +8,7 @@ laatste_update: 1990-10-26
 status: geldig
 toestand: 1990-10-26
 bron: "https://wetten.overheid.nl/BWBR0004885"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Aanwijzing ambtenaren Uitvoeringswet verdrag biologische wapens

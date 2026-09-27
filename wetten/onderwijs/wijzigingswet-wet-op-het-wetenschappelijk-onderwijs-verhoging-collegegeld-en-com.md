@@ -9,7 +9,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBR0005095"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 29 mei 1991, houdende wijziging van de Wet op het wetenschappelijk onderwijs, de Wet op het hoger beroepsonderwijs en de Wet op de studiefinanciering, in verband met verhoging van het collegegeld en compensatie van de verhoging in het studiefinancieringsbudget

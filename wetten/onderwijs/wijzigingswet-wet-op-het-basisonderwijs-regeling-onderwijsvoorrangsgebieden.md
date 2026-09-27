@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0005960"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 21 april 1993, houdende wijziging van de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en de Wet op het voortgezet onderwijs, ten behoeve van de opheffing of vermindering van onderwijsachterstanden (regeling onderwijsvoorrangsgebieden)

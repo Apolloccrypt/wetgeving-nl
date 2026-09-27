@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0005739"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 26 november 1992, houdende regelen met betrekking tot de oprichting van de Stichting ROI

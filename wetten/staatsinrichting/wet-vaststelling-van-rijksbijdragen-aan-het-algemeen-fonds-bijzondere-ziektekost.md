@@ -9,7 +9,7 @@ laatste_update: 1992-06-27
 status: geldig
 toestand: 1992-06-27
 bron: "https://wetten.overheid.nl/BWBR0005511"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 14 mei 1992, houdende vaststelling van rijksbijdragen aan het Algemeen Fonds Bijzondere Ziektekosten voor de jaren 1981 tot en met 1989

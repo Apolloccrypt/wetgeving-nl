@@ -8,7 +8,7 @@ laatste_update: 1991-11-13
 status: geldig
 toestand: 1991-11-13
 bron: "https://wetten.overheid.nl/BWBR0005263"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Aanwijzing speciale beschermingszone Waddenzee

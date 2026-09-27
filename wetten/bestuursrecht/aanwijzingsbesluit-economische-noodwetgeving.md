@@ -9,7 +9,7 @@ laatste_update: 2015-06-20
 status: geldig
 toestand: 2015-06-20
 bron: "https://wetten.overheid.nl/BWBR0005170"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 21 augustus 1991, houdende aanwijzing van de autoriteiten, bedoeld in artikel 16 van de Prijzennoodwet

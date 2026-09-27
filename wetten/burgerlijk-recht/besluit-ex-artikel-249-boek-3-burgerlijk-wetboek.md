@@ -9,7 +9,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBR0005171"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 22 augustus 1991, tot uitvoering van de artikelen 249 lid 1 en 252 van Boek 3 van het Burgerlijk Wetboek

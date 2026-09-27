@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0005173"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 22 augustus 1991, tot uitvoering van artikel 448 lid 1 van het Wetboek van Burgerlijke Rechtsvordering

@@ -9,7 +9,7 @@ laatste_update: 1993-01-01
 status: geldig
 toestand: 1993-01-01
 bron: "https://wetten.overheid.nl/BWBR0005332"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 18 december 1991, houdende wijziging van bepalingen van de Mediawet met het oog op de invoering van landelijke commerciële omroep

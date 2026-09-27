@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0004844"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 29 augustus 1990, houdende regels met betrekking tot de tenuitvoerlegging van de gijzeling als bedoeld in artikel 28, eerste lid, onder c, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften

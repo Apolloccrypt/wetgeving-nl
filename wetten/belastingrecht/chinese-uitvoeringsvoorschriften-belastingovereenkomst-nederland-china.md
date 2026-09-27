@@ -9,7 +9,7 @@ laatste_update: 1997-06-19
 status: geldig
 toestand: 1997-06-19
 bron: "https://wetten.overheid.nl/BWBR0004931"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Chinese voorschriften tot uitvoering van de op 13 mei 1987 tussen Nederland en China gesloten Overeenkomst tot het vermijden van dubbele belasting.

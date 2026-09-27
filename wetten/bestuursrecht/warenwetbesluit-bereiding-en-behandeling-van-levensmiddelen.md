@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0005758"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 10 december 1992, houdende vaststelling van het warenwetbesluit Bereiding en behandeling van levensmiddelen

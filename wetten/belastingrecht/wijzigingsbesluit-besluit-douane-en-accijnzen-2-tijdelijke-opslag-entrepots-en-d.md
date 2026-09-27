@@ -9,7 +9,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBR0005368"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 23 december 1991, houdende wijziging van het Besluit douane en accijnzen en andere algemene maatregelen van bestuur (tijdelijke opslag, entrepots en de invoering van de Wet op de accijns)

@@ -9,7 +9,7 @@ laatste_update: 1994-07-01
 status: geldig
 toestand: 1994-07-01
 bron: "https://wetten.overheid.nl/BWBR0005563"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 24 juni 1992, tot wijziging van de Wet individuele huursubsidie ter beperking en herschikking van de uitgaven voor individuele huursubsidie

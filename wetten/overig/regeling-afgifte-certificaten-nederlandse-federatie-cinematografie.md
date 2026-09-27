@@ -8,7 +8,7 @@ laatste_update: 1993-02-28
 status: geldig
 toestand: 1993-02-28
 bron: "https://wetten.overheid.nl/BWBR0005882"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling afgifte certificaten Nederlandse Federatie Cinematografie

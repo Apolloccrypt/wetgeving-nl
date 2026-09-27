@@ -9,7 +9,7 @@ laatste_update: 2001-04-01
 status: geldig
 toestand: 2001-04-01
 bron: "https://wetten.overheid.nl/BWBR0005848"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 14 januari 1993, houdende vaststelling van een reglement voor het regime in een grenslogies ingevolge artikel 7a, vierde lid, Vreemdelingenwet

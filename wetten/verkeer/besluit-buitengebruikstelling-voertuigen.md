@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0004845"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 29 augustus 1990, houdende nadere regels ter uitvoering van artikel 29, vierde lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften

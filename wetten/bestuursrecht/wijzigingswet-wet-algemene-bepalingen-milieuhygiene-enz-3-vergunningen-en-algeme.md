@@ -9,7 +9,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBR0005583"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 2 juli 1992, tot uitbreiding en wijziging van de Wet algemene bepalingen milieuhygiëne en daarmee samenhangende wijzigingen van andere wetten (vergunningen en algemene regels voor inrichtingen; procedures voor vergunningen en ontheffingen; handhaving)

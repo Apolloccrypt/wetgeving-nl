@@ -8,7 +8,7 @@ laatste_update: 1993-04-24
 status: geldig
 toestand: 1993-04-24
 bron: "https://wetten.overheid.nl/BWBR0005934"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling verwijdering justitiële gegevens

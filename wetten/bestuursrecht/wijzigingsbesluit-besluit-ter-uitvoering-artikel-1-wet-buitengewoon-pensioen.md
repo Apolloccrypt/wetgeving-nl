@@ -9,7 +9,7 @@ laatste_update: 1993-06-02
 status: geldig
 toestand: 1993-06-02
 bron: "https://wetten.overheid.nl/BWBR0005932"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 26 maart 1993, houdende wijziging van het koninklijk besluit van 8 juli 1978 (Stb. 422) ter uitvoering van het bepaalde in artikel 1, tweede lid, van de Wet buitengewoon pensioen 1940-1945, houdende de omschrijving van de categorieën van personen op wie deze wet van overeenkomstige toepassing zal zijn

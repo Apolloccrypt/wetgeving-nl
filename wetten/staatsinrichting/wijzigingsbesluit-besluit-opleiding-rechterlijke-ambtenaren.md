@@ -9,7 +9,7 @@ laatste_update: 1993-01-15
 status: geldig
 toestand: 1993-01-15
 bron: "https://wetten.overheid.nl/BWBR0005779"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 22 december 1992, houdende wijziging van het Besluit opleiding rechterlijke ambtenaren (Stb. 1985, 555)

@@ -9,7 +9,7 @@ laatste_update: 1991-01-01
 status: geldig
 toestand: 1991-01-01
 bron: "https://wetten.overheid.nl/BWBR0005184"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 29 augustus 1991, houdende wijziging van de Militaire Ambtenarenwet 1931 (Stb. 519) en van de Wet rechtstoestand dienstplichtigen (Stb. 1971, 231) in verband met Herziening van het militair tuchtrecht (Wet militair tuchtrecht)

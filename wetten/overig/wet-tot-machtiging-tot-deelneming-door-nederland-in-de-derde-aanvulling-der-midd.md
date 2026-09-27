@@ -9,7 +9,7 @@ laatste_update: 1991-06-21
 status: geldig
 toestand: 1991-06-21
 bron: "https://wetten.overheid.nl/BWBR0005053"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 10 april 1991, tot machtiging tot deelneming door Nederland in de Derde Aanvulling der Middelen van het Internationale Fonds voor Landbouw Ontwikkeling (IFAD)

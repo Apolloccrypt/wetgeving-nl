@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0005538"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 4 juni 1992, houdende aanpassing van een aantal wetten aan de eerste tranche van de Algemene wet bestuursrecht

@@ -8,7 +8,7 @@ laatste_update: 1992-12-01
 status: geldig
 toestand: 1992-12-01
 bron: "https://wetten.overheid.nl/BWBR0005679"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Instelling Adviescommissie milieutoets en milieuparagraaf beleidsvoornemens Rijksoverheid

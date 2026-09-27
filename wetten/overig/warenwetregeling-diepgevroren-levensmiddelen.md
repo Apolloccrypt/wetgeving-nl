@@ -8,7 +8,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0005825"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Warenwetregeling Diepgevroren levensmiddelen

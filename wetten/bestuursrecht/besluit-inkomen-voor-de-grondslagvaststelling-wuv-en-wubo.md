@@ -9,7 +9,7 @@ laatste_update: 1985-06-01
 status: geldig
 toestand: 1985-06-01
 bron: "https://wetten.overheid.nl/BWBR0005267"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 13 november 1991, houdende regelen tot uitvoering van de artikelen 8, negende lid, van de Wet uitkeringen vervolgingsslachtoffers 1940-1945 (Stb. 1986, 386) en 10, vijfde lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 (Stb. 1984, 94)

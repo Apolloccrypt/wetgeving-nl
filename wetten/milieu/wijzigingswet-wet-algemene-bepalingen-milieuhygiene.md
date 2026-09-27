@@ -9,7 +9,7 @@ laatste_update: 1992-07-01
 status: geldig
 toestand: 1992-07-01
 bron: "https://wetten.overheid.nl/BWBR0005531"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 27 mei 1992, houdende wijziging van het hoofdstuk Financiële bepalingen van de Wet algemene bepalingen milieuhygiëne (Verbeterblad)

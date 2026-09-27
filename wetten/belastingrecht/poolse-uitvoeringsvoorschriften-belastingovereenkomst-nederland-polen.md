@@ -9,7 +9,7 @@ laatste_update: 1991-01-01
 status: geldig
 toestand: 1991-01-01
 bron: "https://wetten.overheid.nl/BWBR0004934"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Regeling inzake vermindering van Poolse belasting op dividenden, interest en royalty's uit Poolse bron, genoten door Inwoners van Nederland

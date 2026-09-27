@@ -8,7 +8,7 @@ laatste_update: 1993-02-01
 status: geldig
 toestand: 1993-02-01
 bron: "https://wetten.overheid.nl/BWBR0005830"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Vervanging openbare registers door microfoto's (Kadaster Amsterdam en Breda)

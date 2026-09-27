@@ -9,7 +9,7 @@ laatste_update: 1992-06-05
 status: geldig
 toestand: 1992-06-05
 bron: "https://wetten.overheid.nl/BWBR0005488"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 15 april 1992, tot wijziging van de Pensioenwet voor de zeemacht 1922 en van de Pensioenwet voor de landmacht 1922

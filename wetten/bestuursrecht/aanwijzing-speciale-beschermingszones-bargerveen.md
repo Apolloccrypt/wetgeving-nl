@@ -8,7 +8,7 @@ laatste_update: 1992-05-19
 status: geldig
 toestand: 1992-05-19
 bron: "https://wetten.overheid.nl/BWBR0005505"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Aanwijzing speciale beschermingszones; Bargerveen

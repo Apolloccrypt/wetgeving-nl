@@ -9,7 +9,7 @@ laatste_update: 1993-07-01
 status: geldig
 toestand: 1993-07-01
 bron: "https://wetten.overheid.nl/BWBR0005967"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wijziging uitvoeringsregeling Invorderingswet 1990

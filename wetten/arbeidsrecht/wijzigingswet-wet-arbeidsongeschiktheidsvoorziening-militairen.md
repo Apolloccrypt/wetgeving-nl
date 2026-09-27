@@ -9,7 +9,7 @@ laatste_update: 1991-09-21
 status: geldig
 toestand: 1991-09-21
 bron: "https://wetten.overheid.nl/BWBR0005183"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 29 augustus 1991, tot wijziging van de Wet arbeidsongeschiktheidsvoorziening militairen

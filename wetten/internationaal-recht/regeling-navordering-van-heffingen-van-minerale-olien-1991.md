@@ -8,7 +8,7 @@ laatste_update: 1991-03-01
 status: geldig
 toestand: 1991-03-01
 bron: "https://wetten.overheid.nl/BWBR0005001"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Regeling navordering van heffingen van minerale oliën 1991

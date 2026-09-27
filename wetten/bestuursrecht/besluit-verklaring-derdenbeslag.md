@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0005174"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 22 augustus 1991, tot uitvoering van de artikelen 475 lid 2 en 476b van het Wetboek van Burgerlijke Rechtsvordering

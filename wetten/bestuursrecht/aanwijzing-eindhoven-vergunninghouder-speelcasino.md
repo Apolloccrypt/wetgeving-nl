@@ -8,7 +8,7 @@ laatste_update: 1992-03-26
 status: geldig
 toestand: 1992-03-26
 bron: "https://wetten.overheid.nl/BWBR0005450"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Aanwijzing Eindhoven vergunninghouder speelcasino

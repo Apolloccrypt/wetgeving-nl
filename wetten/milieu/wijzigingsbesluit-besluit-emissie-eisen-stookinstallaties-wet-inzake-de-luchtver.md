@@ -9,7 +9,7 @@ laatste_update: 1991-08-17
 status: geldig
 toestand: 1991-08-17
 bron: "https://wetten.overheid.nl/BWBR0005135"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 5 juli 1991, houdende wijziging van het Besluit emissie-eisen stookinstallaties Wet inzake de luchtverontreiniging, het Inrichtingenbesluit artikel 19, eerste lid, Wet inzake de luchtverontreiniging en het Besluit zwavelgehalte brandstoffen

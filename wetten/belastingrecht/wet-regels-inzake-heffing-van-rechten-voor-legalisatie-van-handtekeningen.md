@@ -9,7 +9,7 @@ laatste_update: 2005-08-01
 status: geldig
 toestand: 2005-08-01
 bron: "https://wetten.overheid.nl/BWBR0005125"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 26 juni 1991, houdende regels inzake de heffing van rechten voor de legalisatie van handtekeningen

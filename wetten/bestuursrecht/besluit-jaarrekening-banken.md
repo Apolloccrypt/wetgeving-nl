@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0005980"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 10 mei 1993, houdende bepalingen voor de balans, de winst- en verliesrekening en de toelichtingen daarop van banken

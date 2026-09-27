@@ -8,7 +8,7 @@ laatste_update: 1992-04-18
 status: geldig
 toestand: 1992-04-18
 bron: "https://wetten.overheid.nl/BWBR0005435"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Categoriale beschikking onbezoldigd ambtenaar Korps Rijkspolitie AID

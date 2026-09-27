@@ -8,7 +8,7 @@ laatste_update: 2019-07-23
 status: geldig
 toestand: 2019-07-23
 bron: "https://wetten.overheid.nl/BWBR0005923"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling gelijke bepalingen bij hippische wedstrijden

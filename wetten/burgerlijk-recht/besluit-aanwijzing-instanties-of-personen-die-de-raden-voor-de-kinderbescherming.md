@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0005774"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 18 december 1992, houdende aanwijzing van de instanties of personen die de raden voor de kinderbescherming kosteloos inlichtingen verschaffen

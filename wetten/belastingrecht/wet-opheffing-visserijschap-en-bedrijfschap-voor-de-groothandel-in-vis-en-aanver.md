@@ -9,7 +9,7 @@ laatste_update: 1999-02-17
 status: geldig
 toestand: 1999-02-17
 bron: "https://wetten.overheid.nl/BWBR0005098"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 29 mei 1991, tot opheffing van het Visserijschap en het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven, tevens strekkende tot wijziging van de Instellingswet Productschap voor Vis en Visproducten

@@ -9,7 +9,7 @@ laatste_update: 1992-07-01
 status: geldig
 toestand: 1992-07-01
 bron: "https://wetten.overheid.nl/BWBR0005566"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 24 juni 1992, houdende wijziging van enkele algemene maatregelen van bestuur in verband met de integratie van de raden van beroep/Ambtenarengerechten en de arrondissementsrechtbanken, en in verband met de vereenvoudiging van de regelingen voor de vorming en bezetting van de kamers

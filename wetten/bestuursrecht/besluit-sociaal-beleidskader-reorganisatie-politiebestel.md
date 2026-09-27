@@ -9,7 +9,7 @@ laatste_update: 1994-12-21
 status: geldig
 toestand: 1994-12-21
 bron: "https://wetten.overheid.nl/BWBR0005607"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 28 juli 1992, tot de vaststelling van het sociaal beleidskader reorganisatie politiebestel

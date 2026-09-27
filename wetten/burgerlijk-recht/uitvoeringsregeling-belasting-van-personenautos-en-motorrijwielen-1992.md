@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0005813"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992

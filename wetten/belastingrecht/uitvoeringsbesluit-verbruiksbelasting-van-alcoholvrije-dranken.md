@@ -9,7 +9,7 @@ laatste_update: 2023-02-16
 status: geldig
 toestand: 2023-02-16
 bron: "https://wetten.overheid.nl/BWBR0005804"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 24 december 1992, tot vaststelling van het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten

@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0005399"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Rijkswet van 22 januari 1992, houdende regels betreffende de rechtspositie van enige militair-rechterlijke ambtenaren

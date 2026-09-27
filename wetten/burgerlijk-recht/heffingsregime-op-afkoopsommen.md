@@ -8,7 +8,7 @@ laatste_update: 1990-09-29
 status: geldig
 toestand: 1990-09-29
 bron: "https://wetten.overheid.nl/BWBR0004864"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Heffingsregime op afkoopsommen

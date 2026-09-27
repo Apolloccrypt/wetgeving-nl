@@ -9,7 +9,7 @@ laatste_update: 2026-07-24
 status: geldig
 toestand: 2026-07-24
 bron: "https://wetten.overheid.nl/BWBR0052889"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 9 juli 2026 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2026)

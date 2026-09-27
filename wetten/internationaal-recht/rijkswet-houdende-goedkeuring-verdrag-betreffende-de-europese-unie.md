@@ -9,7 +9,7 @@ laatste_update: 2008-07-25
 status: geldig
 toestand: 2008-07-25
 bron: "https://wetten.overheid.nl/BWBR0005772"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Rijkswet van 17 december 1992, houdende goedkeuring van het op 7 februari 1992 te Maastricht tot stand gekomen Verdrag betreffende de Europese Unie, met Protocollen, en een Overeenkomst betreffende de sociale politiek tussen de Lidstaten van de EG, met uitzondering van het Verenigd Koninkrijk

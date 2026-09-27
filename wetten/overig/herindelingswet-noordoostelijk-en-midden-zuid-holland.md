@@ -9,7 +9,7 @@ laatste_update: 1990-07-28
 status: geldig
 toestand: 1990-07-28
 bron: "https://wetten.overheid.nl/BWBR0004813"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 4 juli 1990, tot gemeentelijke herindeling noordoostelijk en midden Zuid-Holland

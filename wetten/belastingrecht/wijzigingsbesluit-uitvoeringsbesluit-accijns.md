@@ -9,7 +9,7 @@ laatste_update: 1993-01-01
 status: geldig
 toestand: 1993-01-01
 bron: "https://wetten.overheid.nl/BWBR0005809"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 24 december 1992, tot wijziging van het Uitvoeringsbesluit accijns in verband met de afschaffing van de fiscale grenzen

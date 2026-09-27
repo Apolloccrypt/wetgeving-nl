@@ -9,7 +9,7 @@ laatste_update: 1992-12-01
 status: geldig
 toestand: 1992-12-01
 bron: "https://wetten.overheid.nl/BWBR0005675"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 1 oktober 1992, houdende hernieuwde vaststelling van het besluit tot instelling van het Mobilisatie-Oorlogskruis

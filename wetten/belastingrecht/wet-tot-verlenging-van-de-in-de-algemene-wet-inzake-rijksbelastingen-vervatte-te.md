@@ -9,7 +9,7 @@ laatste_update: 1991-06-08
 status: geldig
 toestand: 1991-06-08
 bron: "https://wetten.overheid.nl/BWBR0005086"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 22 mei 1991, tot verlenging van de in de Algemene wet inzake rijksbelastingen vervatte termijn van navordering voor vermogens- en inkomensbestanddelen in het buitenland

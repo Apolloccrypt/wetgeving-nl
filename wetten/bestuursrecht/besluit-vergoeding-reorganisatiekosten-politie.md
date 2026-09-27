@@ -9,7 +9,7 @@ laatste_update: 1993-04-23
 status: geldig
 toestand: 1993-04-23
 bron: "https://wetten.overheid.nl/BWBR0005911"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 16 maart 1993, houdende regels inzake het beschikbaar stellen van bijdragen uit 's Rijks kas met het oog op de kosten die in een politieregio worden gemaakt ter uitvoering van de Wet tijdelijke voorzieningen reorganisatie politiebestel (Stb. 1991, nr. 674)

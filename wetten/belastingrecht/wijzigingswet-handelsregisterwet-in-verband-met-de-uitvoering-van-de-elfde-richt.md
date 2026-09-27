@@ -9,7 +9,7 @@ laatste_update: 1993-07-28
 status: geldig
 toestand: 1993-07-28
 bron: "https://wetten.overheid.nl/BWBR0005698"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 29 oktober 1992, tot wijziging van de Handelsregisterwet in verband met de uitvoering van de elfde richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht

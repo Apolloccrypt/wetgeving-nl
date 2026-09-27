@@ -9,7 +9,7 @@ laatste_update: 1991-01-01
 status: geldig
 toestand: 1991-01-01
 bron: "https://wetten.overheid.nl/BWBR0004940"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 19 december 1990, tot wijziging van de Wet op de omzetbelasting 1968 (herziening van de tariefindeling voor rechtskundige diensten)

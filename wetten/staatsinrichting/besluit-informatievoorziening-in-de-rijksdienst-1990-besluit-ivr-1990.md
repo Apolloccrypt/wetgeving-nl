@@ -8,7 +8,7 @@ laatste_update: 1990-12-01
 status: geldig
 toestand: 1990-12-01
 bron: "https://wetten.overheid.nl/BWBR0004976"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit informatievoorziening in de rijksdienst 1990 (Besluit IVR 1990)

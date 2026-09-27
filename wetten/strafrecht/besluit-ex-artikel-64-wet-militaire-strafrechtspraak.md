@@ -9,7 +9,7 @@ laatste_update: 1990-09-01
 status: geldig
 toestand: 1990-09-01
 bron: "https://wetten.overheid.nl/BWBR0004824"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 26 juli 1990, ter uitvoering van artikel 64, tweede lid, van de Wet militaire strafrechtspraak (Stb. 1990, 370)

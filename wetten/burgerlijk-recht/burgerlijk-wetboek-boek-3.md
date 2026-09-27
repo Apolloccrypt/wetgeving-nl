@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0005291"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Burgerlijk Wetboek Boek 3, Vermogensrecht

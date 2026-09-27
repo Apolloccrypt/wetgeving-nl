@@ -8,7 +8,7 @@ laatste_update: 1991-06-08
 status: geldig
 toestand: 1991-06-08
 bron: "https://wetten.overheid.nl/BWBR0005105"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wijziging van de Regeling geldelijke steun huisvesting gehandicapten 1989

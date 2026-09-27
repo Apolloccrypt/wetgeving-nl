@@ -9,7 +9,7 @@ laatste_update: 1993-05-01
 status: geldig
 toestand: 1993-05-01
 bron: "https://wetten.overheid.nl/BWBR0005709"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Aanwijzing ex artikel 14 wtg inzake het tarieven-/budgetbeleid 1993 voor de kruisorganisaties

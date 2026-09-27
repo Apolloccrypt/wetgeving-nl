@@ -9,7 +9,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBR0006008"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 2 juni 1993, houdende nadere regels in het belang van een goede uitvoering van de Wet rechtspositionele voorzieningen rampbestrijders

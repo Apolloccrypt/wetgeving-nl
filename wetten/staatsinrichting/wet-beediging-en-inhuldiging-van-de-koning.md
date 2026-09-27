@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0005431"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Rijkswet van 27 februari 1992, houdende bepalingen inzake de beëdiging en inhuldiging van de Koning

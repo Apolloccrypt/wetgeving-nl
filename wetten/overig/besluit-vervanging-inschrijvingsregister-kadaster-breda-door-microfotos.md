@@ -8,7 +8,7 @@ laatste_update: 1992-03-01
 status: geldig
 toestand: 1992-03-01
 bron: "https://wetten.overheid.nl/BWBR0005421"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit vervanging inschrijvingsregister Kadaster Breda door microfoto's

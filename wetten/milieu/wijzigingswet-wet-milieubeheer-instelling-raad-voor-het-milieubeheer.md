@@ -9,7 +9,7 @@ laatste_update: 1993-05-05
 status: geldig
 toestand: 1993-05-05
 bron: "https://wetten.overheid.nl/BWBR0005959"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 21 april 1993, tot wijziging van de Wet milieubeheer (instelling Raad voor het milieubeheer)

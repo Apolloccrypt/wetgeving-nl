@@ -8,7 +8,7 @@ laatste_update: 1994-08-04
 status: geldig
 toestand: 1994-08-04
 bron: "https://wetten.overheid.nl/BWBR0005680"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Bijdrageregeling milieuvriendelijke vervoertechnieken

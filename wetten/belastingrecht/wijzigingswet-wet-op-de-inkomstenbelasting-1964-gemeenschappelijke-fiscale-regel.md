@@ -9,7 +9,7 @@ laatste_update: 1994-10-28
 status: geldig
 toestand: 1994-10-28
 bron: "https://wetten.overheid.nl/BWBR0005644"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 10 september 1992, houdende wijziging van de Wet op de inkomstenbelasting 1964, de Wet op de vennootschapsbelasting 1969 en de Invorderingswet 1990 (aanpassing aan de Richtlijn van de Raad van de Europese Gemeenschappen van 23 juli 1990 betreffende de gemeenschappelijke fiscale regeling voor fusies, splitsingen, inbreng van activa en aandelenruil met betrekking tot vennootschappen uit verschillende Lid-Staten)

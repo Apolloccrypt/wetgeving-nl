@@ -9,7 +9,7 @@ laatste_update: 1992-12-18
 status: geldig
 toestand: 1992-12-18
 bron: "https://wetten.overheid.nl/BWBR0005734"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 23 november 1992, tot wijziging van de Algemene pensioenwet politieke ambtsdragers in verband met invoering van een weduwnaarspensioen op dezelfde voet en voorwaarden als het weduwenpensioen

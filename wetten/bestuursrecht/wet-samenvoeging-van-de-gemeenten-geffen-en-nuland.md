@@ -9,7 +9,7 @@ laatste_update: 1992-05-28
 status: geldig
 toestand: 1992-05-28
 bron: "https://wetten.overheid.nl/BWBR0005432"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 27 februari 1992, houdende samenvoeging van de gemeenten Geffen en Nuland

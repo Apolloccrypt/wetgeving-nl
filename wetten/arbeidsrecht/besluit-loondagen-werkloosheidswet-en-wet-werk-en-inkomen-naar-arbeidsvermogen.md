@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0005199"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 13 september 1991, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 42, tiende lid, onderdeel a, van de Werkloosheidswet

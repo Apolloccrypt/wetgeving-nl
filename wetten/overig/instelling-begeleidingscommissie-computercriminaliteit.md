@@ -8,7 +8,7 @@ laatste_update: 1991-01-12
 status: geldig
 toestand: 1991-01-12
 bron: "https://wetten.overheid.nl/BWBR0004966"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Instelling begeleidingscommissie computercriminaliteit

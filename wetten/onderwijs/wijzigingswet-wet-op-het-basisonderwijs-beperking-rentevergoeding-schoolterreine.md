@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0005525"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 21 mei 1992, houdende wijziging van de Wet op het basisonderwijs, de Overgangswet WBO, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en de Overgangswet ISOVSO inzake beperking van de rentevergoeding voor schoolterreinen en houdende wijziging van de vergoedingen voor schoolterreinen en gebouwen in het basisonderwijs en het (voortgezet) speciaal onderwijs

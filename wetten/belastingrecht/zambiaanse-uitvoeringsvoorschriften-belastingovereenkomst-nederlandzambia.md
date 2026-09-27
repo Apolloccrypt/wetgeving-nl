@@ -9,7 +9,7 @@ laatste_update: 1997-06-19
 status: geldig
 toestand: 1997-06-19
 bron: "https://wetten.overheid.nl/BWBR0004980"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Regeling inzake vermindering en vrijstelling van Zambiaanse belasting op dividenden, interest en royalty's uit Zambiaanse bron, genoten door inwoners van Nederland

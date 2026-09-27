@@ -8,7 +8,7 @@ laatste_update: 1993-05-13
 status: geldig
 toestand: 1993-05-13
 bron: "https://wetten.overheid.nl/BWBR0005975"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Vaststelling taken Bureau Secretaris-Generaal

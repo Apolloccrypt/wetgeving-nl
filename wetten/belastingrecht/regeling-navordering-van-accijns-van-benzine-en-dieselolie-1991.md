@@ -8,7 +8,7 @@ laatste_update: 1991-07-07
 status: geldig
 toestand: 1991-07-07
 bron: "https://wetten.overheid.nl/BWBR0005132"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Regeling navordering van accijns van benzine en dieselolie 1991

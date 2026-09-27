@@ -9,7 +9,7 @@ laatste_update: 1993-04-23
 status: geldig
 toestand: 1993-04-23
 bron: "https://wetten.overheid.nl/BWBR0005939"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 1 april 1993, houdende toekenning van eenmalige uitkeringen aan de leden van gedeputeerde staten

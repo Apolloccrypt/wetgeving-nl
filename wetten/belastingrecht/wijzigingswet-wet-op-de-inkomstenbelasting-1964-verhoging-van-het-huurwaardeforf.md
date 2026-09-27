@@ -9,7 +9,7 @@ laatste_update: 1993-12-31
 status: geldig
 toestand: 1993-12-31
 bron: "https://wetten.overheid.nl/BWBR0005134"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 4 juli 1991, houdende wijziging van de Wet op de inkomstenbelasting 1964 (verhoging van het huurwaardeforfait)

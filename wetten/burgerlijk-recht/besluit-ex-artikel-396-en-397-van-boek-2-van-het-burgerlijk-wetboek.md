@@ -9,7 +9,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0005193"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 6 september 1991, tot verhoging van de grensbedragen, genoemd in de artikelen 396 lid 1 en 397 lid 1 van boek 2 van het Burgerlijk Wetboek

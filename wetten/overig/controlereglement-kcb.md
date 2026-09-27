@@ -8,7 +8,7 @@ laatste_update: 1993-01-27
 status: geldig
 toestand: 1993-01-27
 bron: "https://wetten.overheid.nl/BWBR0005820"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Controlereglement K.C.B.

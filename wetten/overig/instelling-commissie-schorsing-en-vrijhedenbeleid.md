@@ -8,7 +8,7 @@ laatste_update: 1992-01-31
 status: geldig
 toestand: 1992-01-31
 bron: "https://wetten.overheid.nl/BWBR0005404"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Instelling Commissie schorsing en vrijhedenbeleid

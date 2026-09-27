@@ -8,7 +8,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0006017"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling metingsvoorschriften

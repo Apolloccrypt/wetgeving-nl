@@ -9,7 +9,7 @@ laatste_update: 1997-06-18
 status: geldig
 toestand: 1997-06-18
 bron: "https://wetten.overheid.nl/BWBR0004831"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Regeling inzake vermindering of vrijstelling van Duitse bronbelasting op dividenden, interest uit converteerbare obligaties en winstdelende obligaties, royalty's en soortgelijke vergoedingen, genoten door inwoners van Nederland

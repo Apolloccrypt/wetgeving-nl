@@ -9,7 +9,7 @@ laatste_update: 1993-01-01
 status: geldig
 toestand: 1993-01-01
 bron: "https://wetten.overheid.nl/BWBR0005769"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 16 december 1992, houdende aanwijzing van particuliere terreinbeherende organisaties ter uitvoering van het bepaalde in artikel 70a van de Pachtwet

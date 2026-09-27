@@ -9,7 +9,7 @@ laatste_update: 1993-08-01
 status: geldig
 toestand: 1993-08-01
 bron: "https://wetten.overheid.nl/BWBR0005639"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 3 september 1992, houdende regelen met betrekking tot de oprichting van de Stichting Landbouwvoorlichting

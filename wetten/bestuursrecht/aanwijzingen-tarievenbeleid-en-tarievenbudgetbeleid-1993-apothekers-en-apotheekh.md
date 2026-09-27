@@ -9,7 +9,7 @@ laatste_update: 1993-05-01
 status: geldig
 toestand: 1993-05-01
 bron: "https://wetten.overheid.nl/BWBR0005712"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake tarievenbeleid 1993 voor de personen en instellingen die farmaceutische hulp leveren zoals bedoeld in artikel 7 van het Besluit zorgaanspraken bijzondere ziektekostenverzekering (apothekers en apotheekhoudende huisartsen)

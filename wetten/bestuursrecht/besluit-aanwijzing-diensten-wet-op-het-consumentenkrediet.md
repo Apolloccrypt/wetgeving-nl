@@ -9,7 +9,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBR0005226"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 9 oktober 1991, houdende aanwijzing van diensten als bedoeld in artikel 1, onder a, 2° en 3°, van de Wet op het consumentenkrediet

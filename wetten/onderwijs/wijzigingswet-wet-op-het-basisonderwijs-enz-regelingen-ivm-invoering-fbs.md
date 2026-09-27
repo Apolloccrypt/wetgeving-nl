@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0005745"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 3 december 1992, houdende wijziging van onder meer de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de Wet op het voortgezet onderwijs, de Wet op het leerlingwezen en de Wet op de onderwijsverzorging in verband met onder meer de invoering van de mogelijkheid van bestuursaanstelling, het decentraal georganiseerd overleg, de invoering van de mogelijkheid van centrale diensten en de uitbreiding van de bevoegdheden van de commissies van beroep (regelingen i.v.m. invoering FBS)

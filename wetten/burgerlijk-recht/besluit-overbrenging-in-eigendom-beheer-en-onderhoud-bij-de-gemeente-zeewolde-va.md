@@ -9,7 +9,7 @@ laatste_update: 1991-12-01
 status: geldig
 toestand: 1991-12-01
 bron: "https://wetten.overheid.nl/BWBR0005179"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 27 augustus 1991, houdende overbrenging in eigendom, beheer en onderhoud bij de Gemeente Zeewolde van enige in die gemeente gelegen weggedeelten

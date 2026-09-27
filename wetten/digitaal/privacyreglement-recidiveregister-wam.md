@@ -8,7 +8,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0005854"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Privacyreglement Recidiveregister WAM

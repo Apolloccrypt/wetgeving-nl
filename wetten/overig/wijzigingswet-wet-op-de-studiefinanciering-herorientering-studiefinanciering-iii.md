@@ -9,7 +9,7 @@ laatste_update: 2001-08-01
 status: geldig
 toestand: 2001-08-01
 bron: "https://wetten.overheid.nl/BWBR0005097"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 29 mei 1991, houdende wijziging van de Wet op de studiefinanciering onder meer in verband met verlaging van het maximum van de rentedragende lening in het eerste jaar van studie in het HO, het direct berekenen van marktconforme rente bij opname van studieleningen en wijziging van de bijverdienregeling (heroriëntering studiefinanciering III)

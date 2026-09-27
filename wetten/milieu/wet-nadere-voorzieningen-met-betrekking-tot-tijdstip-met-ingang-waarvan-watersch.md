@@ -9,7 +9,7 @@ laatste_update: 1992-01-17
 status: geldig
 toestand: 1992-01-17
 bron: "https://wetten.overheid.nl/BWBR0005325"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 18 december 1991, houdende nadere voorzieningen met betrekking tot het tijdstip met ingang waarvan waterschapsomslagen kunnen worden geheven

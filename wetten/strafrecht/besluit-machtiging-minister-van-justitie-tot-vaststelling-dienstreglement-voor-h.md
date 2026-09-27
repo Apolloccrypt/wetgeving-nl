@@ -9,7 +9,7 @@ laatste_update: 1991-01-01
 status: geldig
 toestand: 1991-01-01
 bron: "https://wetten.overheid.nl/BWBR0004904"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 19 november 1990, houdende machtiging van de Minister van Justitie tot vaststelling van een dienstreglement voor het personeel bij het dienstvak der gerechten

@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0005350"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 19 december 1991, houdende herziening van de Comptabiliteitswet 1976 met uitzondering van de bepalingen inzake de Algemene Rekenkamer (vierde wijziging van de Comptabiliteitswet 1976)

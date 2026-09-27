@@ -8,7 +8,7 @@ laatste_update: 1993-02-20
 status: geldig
 toestand: 1993-02-20
 bron: "https://wetten.overheid.nl/BWBR0005871"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Aanwijzing werkzaamheden veterinaire hoofdinspecteur

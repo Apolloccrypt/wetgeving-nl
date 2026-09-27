@@ -9,7 +9,7 @@ laatste_update: 1993-07-01
 status: geldig
 toestand: 1993-07-01
 bron: "https://wetten.overheid.nl/BWBR0005748"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 4 december 1992, tot wijziging van het Uitvoeringsbesluit omzetbelasting 1968 (vrijstellingen prestaties van onderwijskundige aard en van sociale of culturele aard)

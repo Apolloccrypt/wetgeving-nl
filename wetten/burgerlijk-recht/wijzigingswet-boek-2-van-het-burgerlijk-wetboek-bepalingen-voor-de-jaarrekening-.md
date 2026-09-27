@@ -9,7 +9,7 @@ laatste_update: 1993-05-28
 status: geldig
 toestand: 1993-05-28
 bron: "https://wetten.overheid.nl/BWBR0005916"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 17 maart 1993, houdende bepalingen voor de jaarrekening van banken

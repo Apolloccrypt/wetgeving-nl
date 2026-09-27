@@ -9,7 +9,7 @@ laatste_update: 1993-01-01
 status: geldig
 toestand: 1993-01-01
 bron: "https://wetten.overheid.nl/BWBR0005794"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 23 december 1992, houdende machtiging tot het uitgeven en belenen van schatkistpapier en het aangaan van geldleningen ten laste van de Staat der Nederlanden in 1993

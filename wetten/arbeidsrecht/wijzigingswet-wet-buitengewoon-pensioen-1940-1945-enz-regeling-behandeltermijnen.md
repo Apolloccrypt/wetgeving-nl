@@ -9,7 +9,7 @@ laatste_update: 1993-07-01
 status: geldig
 toestand: 1993-07-01
 bron: "https://wetten.overheid.nl/BWBR0005993"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 19 mei 1993, houdende wijziging van de Wet buitengewoon pensioen 1940-1945, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet buitengewoon pensioen Indisch verzet, de Wet uitkeringen vervolgingsslachtoffers 1940-1945 en de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 (regeling behandeltermijnen)

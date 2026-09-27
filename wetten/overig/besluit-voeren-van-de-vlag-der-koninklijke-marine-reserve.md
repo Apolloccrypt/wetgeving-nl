@@ -8,7 +8,7 @@ laatste_update: 1991-09-10
 status: geldig
 toestand: 1991-09-10
 bron: "https://wetten.overheid.nl/BWBR0005195"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit voeren van de vlag der Koninklijke marine-reserve

@@ -9,7 +9,7 @@ laatste_update: 1995-12-29
 status: geldig
 toestand: 1995-12-29
 bron: "https://wetten.overheid.nl/BWBR0005427"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 26 februari 1992, houdende wijziging van de Ziektewet, de Wet op de arbeidsongeschiktheidsverzekering, de Algemene Arbeidsongeschiktheidswet, het Burgerlijk Wetboek en enkele andere wetten, alsmede een regeling voor het overheidspersoneel in verband met maatregelen ter vermindering van het ziekteverzuim, beperking van langdurige arbeidsongeschiktheid en bevordering van de arbeidsmarktkansen van arbeidsongeschikten, herschikking van bevoegdheden in de Ziektewet, alsmede enkele technische aanpassingen

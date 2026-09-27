@@ -8,7 +8,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0005494"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Reglement rechtstoestand tewerkgestelden

@@ -9,7 +9,7 @@ laatste_update: 1992-04-01
 status: geldig
 toestand: 1992-04-01
 bron: "https://wetten.overheid.nl/BWBR0005402"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 23 januari 1992, houdende regels ten aanzien van bijdragen in de kosten van beheer en onderhoud van waterstaatswerken

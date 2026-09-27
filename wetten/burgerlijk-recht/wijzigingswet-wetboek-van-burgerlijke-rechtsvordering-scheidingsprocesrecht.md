@@ -9,7 +9,7 @@ laatste_update: 1993-01-13
 status: geldig
 toestand: 1993-01-13
 bron: "https://wetten.overheid.nl/BWBR0005581"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 1 juli 1992, tot herziening van het scheidingsprocesrecht

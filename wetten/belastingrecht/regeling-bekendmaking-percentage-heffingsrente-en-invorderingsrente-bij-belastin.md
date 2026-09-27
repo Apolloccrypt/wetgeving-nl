@@ -8,7 +8,7 @@ laatste_update: 2012-11-16
 status: geldig
 toestand: 2012-11-16
 bron: "https://wetten.overheid.nl/BWBR0005669"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen

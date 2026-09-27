@@ -9,7 +9,7 @@ laatste_update: 1991-09-16
 status: geldig
 toestand: 1991-09-16
 bron: "https://wetten.overheid.nl/BWBR0005133"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 4 juli 1991, tot wijziging van de Wet op de accijns van minerale oliën en van de Wet op de motorrijtuigenbelasting 1966 (lastenverzwaring auto's in verband met tariefstijging openbaar vervoer)

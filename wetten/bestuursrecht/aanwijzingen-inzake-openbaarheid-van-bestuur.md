@@ -9,7 +9,7 @@ laatste_update: 1998-04-01
 status: geldig
 toestand: 1998-04-01
 bron: "https://wetten.overheid.nl/BWBR0005469"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Circulaire van 8 april 1992

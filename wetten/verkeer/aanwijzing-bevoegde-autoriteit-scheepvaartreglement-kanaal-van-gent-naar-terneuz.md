@@ -8,7 +8,7 @@ laatste_update: 2012-05-19
 status: geldig
 toestand: 2012-05-19
 bron: "https://wetten.overheid.nl/BWBR0005954"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Aanwijzing bevoegde autoriteit Scheepvaartreglement Kanaal van Gent naar Terneuzen

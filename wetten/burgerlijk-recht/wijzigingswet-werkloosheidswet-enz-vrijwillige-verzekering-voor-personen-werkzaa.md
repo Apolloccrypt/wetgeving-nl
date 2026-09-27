@@ -9,7 +9,7 @@ laatste_update: 1997-03-01
 status: geldig
 toestand: 1997-03-01
 bron: "https://wetten.overheid.nl/BWBR0005735"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 23 november 1992, tot wijziging van een aantal sociale verzekeringswetten inzake vrijwillige verzekering voor personen werkzaam in het buitenland

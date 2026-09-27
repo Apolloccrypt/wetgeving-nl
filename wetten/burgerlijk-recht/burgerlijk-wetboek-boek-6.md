@@ -9,7 +9,7 @@ laatste_update: 2026-07-16
 status: geldig
 toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0005289"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Burgerlijk Wetboek Boek 6, Verbintenissenrecht

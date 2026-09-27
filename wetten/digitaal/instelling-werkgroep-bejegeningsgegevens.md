@@ -8,7 +8,7 @@ laatste_update: 1992-10-29
 status: geldig
 toestand: 1992-10-29
 bron: "https://wetten.overheid.nl/BWBR0005660"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Instelling werkgroep Bejegeningsgegevens

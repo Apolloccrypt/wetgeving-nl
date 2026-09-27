@@ -9,7 +9,7 @@ laatste_update: 1992-03-25
 status: geldig
 toestand: 1992-03-25
 bron: "https://wetten.overheid.nl/BWBR0005430"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 27 februari 1992, houdende bepalingen inzake de beëdiging van de ministers, de staatssecretarissen en de leden van de Staten-Generaal bij de aanvaarding van hun ambt

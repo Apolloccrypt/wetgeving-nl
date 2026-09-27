@@ -8,7 +8,7 @@ laatste_update: 1993-03-01
 status: geldig
 toestand: 1993-03-01
 bron: "https://wetten.overheid.nl/BWBR0004882"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Instelling Evaluatiecommissie Wet algemene bepalingen milieuhygiëne

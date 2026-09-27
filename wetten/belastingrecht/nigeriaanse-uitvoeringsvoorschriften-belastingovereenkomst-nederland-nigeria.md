@@ -8,7 +8,7 @@ laatste_update: 1993-03-06
 status: geldig
 toestand: 1993-03-06
 bron: "https://wetten.overheid.nl/BWBR0005892"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Nigeriaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Nigeria

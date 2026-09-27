@@ -9,7 +9,7 @@ laatste_update: 2013-03-14
 status: geldig
 toestand: 2013-03-14
 bron: "https://wetten.overheid.nl/BWBR0005016"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 11 maart 1991, ter uitvoering van artikel 1157 van Boek 8 van het Burgerlijk Wetboek

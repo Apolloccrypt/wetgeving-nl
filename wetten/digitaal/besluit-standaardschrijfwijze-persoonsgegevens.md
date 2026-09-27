@@ -9,7 +9,7 @@ laatste_update: 1993-01-01
 status: geldig
 toestand: 1993-01-01
 bron: "https://wetten.overheid.nl/BWBR0005634"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken, houdende voorschriften inzake de toepassing van NEN-normen op de uitwisseling van algemene persoonsgegevens tussen geautomatiseerde systemen in gebruik bij de rijksoverheid en op de presentatie van adresgegevens daaruit

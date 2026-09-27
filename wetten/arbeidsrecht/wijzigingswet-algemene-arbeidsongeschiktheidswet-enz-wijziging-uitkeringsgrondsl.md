@@ -9,7 +9,7 @@ laatste_update: 1992-06-26
 status: geldig
 toestand: 1992-06-26
 bron: "https://wetten.overheid.nl/BWBR0005124"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 26 juni 1991, tot nadere wijziging van een aantal sociale zekerheidswetten (wijziging uitkeringsgrondslag)

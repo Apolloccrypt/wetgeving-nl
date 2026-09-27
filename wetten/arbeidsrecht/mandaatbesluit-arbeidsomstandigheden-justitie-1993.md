@@ -8,7 +8,7 @@ laatste_update: 1993-05-10
 status: geldig
 toestand: 1993-05-10
 bron: "https://wetten.overheid.nl/BWBR0005979"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Mandaatbesluit Arbeidsomstandigheden Justitie 1993

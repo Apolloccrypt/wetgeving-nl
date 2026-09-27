@@ -9,7 +9,7 @@ laatste_update: 1991-01-27
 status: geldig
 toestand: 1991-01-27
 bron: "https://wetten.overheid.nl/BWBR0004981"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Regeling inzake vermindering van Maltese belasting op dividenden, interest en royalty's uit Maltese bron, genoten door inwoners van Nederland

@@ -9,7 +9,7 @@ laatste_update: 1996-03-01
 status: geldig
 toestand: 1996-03-01
 bron: "https://wetten.overheid.nl/BWBR0005986"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 13 mei 1993, tot uitbreiding en wijziging van de Wet milieubeheer (afvalstoffen)

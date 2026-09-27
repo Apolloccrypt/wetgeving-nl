@@ -9,7 +9,7 @@ laatste_update: 1992-12-31
 status: geldig
 toestand: 1992-12-31
 bron: "https://wetten.overheid.nl/BWBR0005771"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 17 december 1992, houdende wijziging van grenzen tussen de gemeenten Leidschendam, Nootdorp en Zoetermeer

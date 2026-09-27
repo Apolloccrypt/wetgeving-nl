@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0005921"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 18 maart 1993, houdende regelen inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen of van eerste vastleggingen van films en omroeporganisaties en wijziging van de Auteurswet 1912

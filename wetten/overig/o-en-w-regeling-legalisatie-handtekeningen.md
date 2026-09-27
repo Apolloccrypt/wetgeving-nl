@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0005229"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # O. en W.-regeling legalisatie handtekeningen

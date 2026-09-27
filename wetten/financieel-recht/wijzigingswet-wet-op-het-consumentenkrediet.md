@@ -9,7 +9,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBR0005274"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 14 november 1991, houdende aanpassing van de Wet op het consumentenkrediet aan de Boeken 3, 5 en 6 van het nieuwe Burgerlijk Wetboek alsmede enige correctie in de Invoeringswet Boeken 3, 5 en 6 van het nieuwe Burgerlijk Wetboek

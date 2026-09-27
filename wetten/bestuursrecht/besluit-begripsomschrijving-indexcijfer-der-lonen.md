@@ -9,7 +9,7 @@ laatste_update: 2003-08-29
 status: geldig
 toestand: 2003-08-29
 bron: "https://wetten.overheid.nl/BWBR0005666"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 28 september 1992, houdende begripsomschrijving van het indexcijfer der lonen

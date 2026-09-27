@@ -9,7 +9,7 @@ laatste_update: 2016-05-24
 status: geldig
 toestand: 2016-05-24
 bron: "https://wetten.overheid.nl/BWBR0005465"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 2 april 1992 houdende Warenwetbesluit Doorstraalde waren

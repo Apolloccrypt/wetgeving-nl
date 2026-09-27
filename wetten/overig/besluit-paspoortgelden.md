@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0005264"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 8 november 1991, houdende regels met betrekking tot de aan het Rijk verschuldigde kosten en rechten terzake van reisdocumenten

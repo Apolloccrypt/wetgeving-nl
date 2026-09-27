@@ -8,7 +8,7 @@ laatste_update: 1990-11-15
 status: geldig
 toestand: 1990-11-15
 bron: "https://wetten.overheid.nl/BWBR0004869"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wijziging instelling, taak en samenstelling Commissie Centraal Overleg Verkeersveiligheid te Water

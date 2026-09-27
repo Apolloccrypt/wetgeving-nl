@@ -8,7 +8,7 @@ laatste_update: 1991-11-20
 status: geldig
 toestand: 1991-11-20
 bron: "https://wetten.overheid.nl/BWBR0005249"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Instellingsbeschikking externe adviescommissie profilering klinische research

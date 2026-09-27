@@ -9,7 +9,7 @@ laatste_update: 2011-02-01
 status: geldig
 toestand: 2011-02-01
 bron: "https://wetten.overheid.nl/BWBR0005943"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 5 april 1993, houdende regelen met betrekking tot de nationaliteit van zeeschepen

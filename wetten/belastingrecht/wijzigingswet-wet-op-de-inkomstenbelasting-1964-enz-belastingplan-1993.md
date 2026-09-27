@@ -9,7 +9,7 @@ laatste_update: 1993-02-16
 status: geldig
 toestand: 1993-02-16
 bron: "https://wetten.overheid.nl/BWBR0005805"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 24 december 1992, tot wijziging van een aantal belastingwetten in het kader van het belastingplan 1993

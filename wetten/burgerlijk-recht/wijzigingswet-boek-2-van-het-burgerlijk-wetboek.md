@@ -9,7 +9,7 @@ laatste_update: 1992-03-16
 status: geldig
 toestand: 1992-03-16
 bron: "https://wetten.overheid.nl/BWBR0005334"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 19 december 1991, houdende aanpassing van de wetgeving aan de twaalfde richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht

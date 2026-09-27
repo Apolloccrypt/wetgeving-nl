@@ -9,7 +9,7 @@ laatste_update: 1991-06-20
 status: geldig
 toestand: 1991-06-20
 bron: "https://wetten.overheid.nl/BWBR0005110"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Ministeriële regeling inzake de aanwijzing van de Stichting Toezicht Effectenverkeer als bedoeld in artikel 21, derde lid, van Richtlijn 89/298/EEG

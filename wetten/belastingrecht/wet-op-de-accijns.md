@@ -9,7 +9,7 @@ laatste_update: 2026-06-20
 status: geldig
 toestand: 2026-06-20
 bron: "https://wetten.overheid.nl/BWBR0005251"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 31 oktober 1991, houdende vereenvoudiging en uniformering van de accijnswetgeving

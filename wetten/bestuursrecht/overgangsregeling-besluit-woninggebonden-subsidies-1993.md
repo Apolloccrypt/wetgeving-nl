@@ -8,7 +8,7 @@ laatste_update: 1995-07-26
 status: geldig
 toestand: 1995-07-26
 bron: "https://wetten.overheid.nl/BWBR0005690"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Overgangsregeling Besluit woninggebonden subsidies 1993

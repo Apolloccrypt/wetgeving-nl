@@ -8,7 +8,7 @@ laatste_update: 1992-04-03
 status: geldig
 toestand: 1992-04-03
 bron: "https://wetten.overheid.nl/BWBR0005455"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Instelling commissie beveiliging gevangeniswezen

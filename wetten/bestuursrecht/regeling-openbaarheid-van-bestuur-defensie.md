@@ -8,7 +8,7 @@ laatste_update: 1992-06-01
 status: geldig
 toestand: 1992-06-01
 bron: "https://wetten.overheid.nl/BWBR0005547"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling openbaarheid van bestuur (Defensie)

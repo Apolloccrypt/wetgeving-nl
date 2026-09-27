@@ -9,7 +9,7 @@ laatste_update: 1992-05-01
 status: geldig
 toestand: 1992-05-01
 bron: "https://wetten.overheid.nl/BWBR0005299"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 27 november 1991, houdende enkele wijzigingen van het Wetboek van Strafvordering en enige andere wetten, in het bijzonder betreffende bepalingen houdende termijnen

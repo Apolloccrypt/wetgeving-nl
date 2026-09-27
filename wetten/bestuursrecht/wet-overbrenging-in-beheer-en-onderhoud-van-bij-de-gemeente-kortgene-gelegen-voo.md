@@ -9,7 +9,7 @@ laatste_update: 1991-12-01
 status: geldig
 toestand: 1991-12-01
 bron: "https://wetten.overheid.nl/BWBR0005185"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 29 augustus 1991, houdende overbrenging in beheer en onderhoud bij de gemeente Kortgene van de in die gemeente gelegen voormalige Vissershaven te Colijnsplaat met bijbehorende werken

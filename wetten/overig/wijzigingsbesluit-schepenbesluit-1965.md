@@ -9,7 +9,7 @@ laatste_update: 1992-02-01
 status: geldig
 toestand: 1992-02-01
 bron: "https://wetten.overheid.nl/BWBR0005390"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 14 januari 1992, houdende wijziging van het Schepenbesluit 1965

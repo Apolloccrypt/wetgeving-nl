@@ -8,7 +8,7 @@ laatste_update: 1993-01-01
 status: geldig
 toestand: 1993-01-01
 bron: "https://wetten.overheid.nl/BWBR0005724"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Beschikking wijzigingpercentage levensonderhoud 1993

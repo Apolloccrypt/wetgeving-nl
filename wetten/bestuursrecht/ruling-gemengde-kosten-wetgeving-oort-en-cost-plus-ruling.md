@@ -8,7 +8,7 @@ laatste_update: 1993-03-05
 status: geldig
 toestand: 1993-03-05
 bron: "https://wetten.overheid.nl/BWBR0005894"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Ruling, gemengde kosten wetgeving Oort en cost-plus ruling

@@ -9,7 +9,7 @@ laatste_update: 1993-04-23
 status: geldig
 toestand: 1993-04-23
 bron: "https://wetten.overheid.nl/BWBR0005938"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 1 april 1993, houdende toekenning van een eenmalige uitkering aan wethouders en wijziging van het besluit van 3 juli 1986 tot uitvoering van artikel 100, derde lid, van de gemeentewet, houdende regels betreffende andere financiële voorzieningen die verband houden met de vervulling van het wethoudersambt

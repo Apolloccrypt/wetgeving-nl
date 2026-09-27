@@ -9,7 +9,7 @@ laatste_update: 1993-03-01
 status: geldig
 toestand: 1993-03-01
 bron: "https://wetten.overheid.nl/BWBR0005750"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 7 december 1992, houdende overbrenging in eigendom, beheer en onderhoud bij de Gemeente Almere van enige in die gemeente gelegen weggedeelten en fietspaden

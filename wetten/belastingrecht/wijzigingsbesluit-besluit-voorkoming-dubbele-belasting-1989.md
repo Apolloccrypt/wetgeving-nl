@@ -9,7 +9,7 @@ laatste_update: 1991-11-28
 status: geldig
 toestand: 1991-11-28
 bron: "https://wetten.overheid.nl/BWBR0005261"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 7 november 1991, houdende wijziging van het Besluit voorkoming dubbele belasting 1989

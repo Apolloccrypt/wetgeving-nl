@@ -9,7 +9,7 @@ laatste_update: 1990-11-22
 status: geldig
 toestand: 1990-11-22
 bron: "https://wetten.overheid.nl/BWBR0004890"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 2 november 1990, tot wijziging van de gemeentewet in verband met de overdracht van taken van de rijksbelastingdienst betreffende de heffing en de invordering van de onroerend-goedbelastingen aan de gemeenten

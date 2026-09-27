@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0005194"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 6 september 1991, houdende wijziging van de Militaire wachtgeldregeling 1961 en de Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht 1982

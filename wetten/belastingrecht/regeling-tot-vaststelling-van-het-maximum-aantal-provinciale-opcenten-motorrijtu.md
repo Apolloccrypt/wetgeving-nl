@@ -8,7 +8,7 @@ laatste_update: 1993-04-01
 status: geldig
 toestand: 1993-04-01
 bron: "https://wetten.overheid.nl/BWBR0005542"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling tot vaststelling van het maximum aantal provinciale opcenten motorrijtuigenbelasting 1993

@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0006000"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Burgerlijk Wetboek Boek 7A, Bijzondere overeenkomsten (vervolg)

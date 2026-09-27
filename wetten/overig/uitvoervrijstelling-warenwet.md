@@ -8,7 +8,7 @@ laatste_update: 1993-07-15
 status: geldig
 toestand: 1993-07-15
 bron: "https://wetten.overheid.nl/BWBR0005637"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Uitvoervrijstelling (Warenwet)

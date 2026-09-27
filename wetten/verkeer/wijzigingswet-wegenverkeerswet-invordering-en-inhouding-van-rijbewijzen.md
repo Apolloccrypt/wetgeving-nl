@@ -9,7 +9,7 @@ laatste_update: 1992-02-01
 status: geldig
 toestand: 1992-02-01
 bron: "https://wetten.overheid.nl/BWBR0005083"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 15 mei 1991, houdende wijziging van de Wegenverkeerswet (invordering en inhouding van rijbewijzen)

@@ -9,7 +9,7 @@ laatste_update: 1992-07-17
 status: geldig
 toestand: 1992-07-17
 bron: "https://wetten.overheid.nl/BWBR0005556"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 18 juni 1992, tot wijziging van een aantal gemeentegrenzen in het zuidelijk deel van Noord-Kennemerland

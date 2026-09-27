@@ -9,7 +9,7 @@ laatste_update: 2004-07-09
 status: geldig
 toestand: 2004-07-09
 bron: "https://wetten.overheid.nl/BWBR0005222"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 7 oktober 1991, houdende uitvoering van artikel 37a, tweede en derde lid Luchtvaartwet

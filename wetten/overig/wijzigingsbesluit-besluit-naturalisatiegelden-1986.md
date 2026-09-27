@@ -9,7 +9,7 @@ laatste_update: 1993-03-01
 status: geldig
 toestand: 1993-03-01
 bron: "https://wetten.overheid.nl/BWBR0005865"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 28 januari 1993, houdende wijziging van de algemene maatregel van rijksbestuur van 27 januari 1986, Stb. 18, tot uitvoering van artikel 13 van de Rijkswet op het Nederlanderschap (Besluit naturalisatiegelden 1986)

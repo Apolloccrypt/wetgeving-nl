@@ -9,7 +9,7 @@ laatste_update: 1999-10-01
 status: geldig
 toestand: 1999-10-01
 bron: "https://wetten.overheid.nl/BWBR0005048"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 2 april 1991, houdende invoering van de Boeken 3, 5 en 6 van het nieuwe Burgerlijk Wetboek houdende het overgangsrecht, tweede stuk

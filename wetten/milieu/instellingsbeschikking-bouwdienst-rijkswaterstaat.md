@@ -8,7 +8,7 @@ laatste_update: 2009-12-22
 status: geldig
 toestand: 2009-12-22
 bron: "https://wetten.overheid.nl/BWBR0004932"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Instellingsbeschikking Bouwdienst Rijkswaterstaat

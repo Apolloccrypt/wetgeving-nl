@@ -8,7 +8,7 @@ laatste_update: 1992-05-01
 status: geldig
 toestand: 1992-05-01
 bron: "https://wetten.overheid.nl/BWBR0005473"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Algemene aanwijzingen aangelegenheden ministerraad en onderraden

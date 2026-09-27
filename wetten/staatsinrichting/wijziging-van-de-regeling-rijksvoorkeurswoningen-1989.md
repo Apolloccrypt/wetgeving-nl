@@ -9,7 +9,7 @@ laatste_update: 1993-06-24
 status: geldig
 toestand: 1993-06-24
 bron: "https://wetten.overheid.nl/BWBR0006015"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # De Regeling tot wijziging van de Regeling Rijksvoorkeurswoningen 1989 behoort bij de circulaire aan het College van Burgemeester en Wethouders van 16 juni 1993, nr. MG93-21, Regeling rijksvoorkeurswoningen 1989

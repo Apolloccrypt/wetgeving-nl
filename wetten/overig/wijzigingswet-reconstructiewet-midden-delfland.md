@@ -9,7 +9,7 @@ laatste_update: 1993-04-21
 status: geldig
 toestand: 1993-04-21
 bron: "https://wetten.overheid.nl/BWBR0005922"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 18 maart 1993, tot wijziging van de Reconstructiewet Midden-Delfland

@@ -9,7 +9,7 @@ laatste_update: 1993-03-25
 status: geldig
 toestand: 1993-03-25
 bron: "https://wetten.overheid.nl/BWBR0005356"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Uitvoeringsregeling overdracht taken onroerend-goedbelastingen

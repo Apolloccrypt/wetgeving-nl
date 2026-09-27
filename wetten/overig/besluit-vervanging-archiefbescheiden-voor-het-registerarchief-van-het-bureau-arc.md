@@ -8,7 +8,7 @@ laatste_update: 2026-07-25
 status: geldig
 toestand: 2026-07-25
 bron: "https://wetten.overheid.nl/BWBR0052905"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit vervanging archiefbescheiden voor het registerarchief van het Bureau Architectenregister, 2026

@@ -9,7 +9,7 @@ laatste_update: 1992-06-01
 status: geldig
 toestand: 1992-06-01
 bron: "https://wetten.overheid.nl/BWBR0005459"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 26 maart 1992, tot uitvoering van het op 16 september 1988 te Lugano tot stand gekomen Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocollen en Verklaringen

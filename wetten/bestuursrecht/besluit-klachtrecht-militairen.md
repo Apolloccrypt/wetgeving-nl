@@ -9,7 +9,7 @@ laatste_update: 2002-09-13
 status: geldig
 toestand: 2002-09-13
 bron: "https://wetten.overheid.nl/BWBR0005120"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 25 juni 1991, houdende regelen inzake het klachtrecht voor militairen

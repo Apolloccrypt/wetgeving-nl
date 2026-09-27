@@ -8,7 +8,7 @@ laatste_update: 1993-08-01
 status: geldig
 toestand: 1993-08-01
 bron: "https://wetten.overheid.nl/BWBR0005981"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Warenwetregeling Vrijstelling doorstralen van verpakkingen en gebruiksartikelen

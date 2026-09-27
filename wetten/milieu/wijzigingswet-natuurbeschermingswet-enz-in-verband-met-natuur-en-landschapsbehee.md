@@ -9,7 +9,7 @@ laatste_update: 1993-01-01
 status: geldig
 toestand: 1993-01-01
 bron: "https://wetten.overheid.nl/BWBR0005539"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 4 juni 1992, tot wijziging van de Natuurbeschermingswet en de Pachtwet in verband met natuur- en landschapsbeheer in landbouwgebieden en reservaten

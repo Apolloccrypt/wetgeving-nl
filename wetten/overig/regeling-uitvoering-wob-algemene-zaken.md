@@ -8,7 +8,7 @@ laatste_update: 1992-06-25
 status: geldig
 toestand: 1992-06-25
 bron: "https://wetten.overheid.nl/BWBR0005550"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling uitvoering WOB Algemene Zaken

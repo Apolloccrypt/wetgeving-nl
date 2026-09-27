@@ -8,7 +8,7 @@ laatste_update: 1991-07-01
 status: geldig
 toestand: 1991-07-01
 bron: "https://wetten.overheid.nl/BWBR0005070"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Vaststelling model-formulieren verlof tot begraving/verbranding en ontleding van een lijk

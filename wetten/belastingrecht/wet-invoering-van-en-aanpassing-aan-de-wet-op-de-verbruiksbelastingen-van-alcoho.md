@@ -9,7 +9,7 @@ laatste_update: 1993-01-01
 status: geldig
 toestand: 1993-01-01
 bron: "https://wetten.overheid.nl/BWBR0005803"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 24 december 1992, houdende invoering van en aanpassing van wetgeving aan de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten

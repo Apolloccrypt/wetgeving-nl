@@ -9,7 +9,7 @@ laatste_update: 1992-06-15
 status: geldig
 toestand: 1992-06-15
 bron: "https://wetten.overheid.nl/BWBR0005485"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 15 april 1992, tot wijziging van de Wet op de Open Universiteit met betrekking tot de bestuursorganisatie

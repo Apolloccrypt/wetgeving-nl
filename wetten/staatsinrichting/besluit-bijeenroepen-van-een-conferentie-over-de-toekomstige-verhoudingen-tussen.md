@@ -9,7 +9,7 @@ laatste_update: 1993-05-01
 status: geldig
 toestand: 1993-05-01
 bron: "https://wetten.overheid.nl/BWBR0005888"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 1 maart 1993, houdende het bijeenroepen van een conferentie over de toekomstige verhoudingen tussen de landen van het Koninkrijk

@@ -9,7 +9,7 @@ laatste_update: 1991-05-01
 status: geldig
 toestand: 1991-05-01
 bron: "https://wetten.overheid.nl/BWBR0005057"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 17 april 1991, houdende het treffen van een regeling als bedoeld in artikel C7, tweede lid, van de Spoorwegpensioenwet

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0005697"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 29 oktober 1992, tot herverdeling van het wegenbeheer over Rijk, provincies, gemeenten en waterschappen en daarmee samenhangende herziening van de financiering van de wegenzorg

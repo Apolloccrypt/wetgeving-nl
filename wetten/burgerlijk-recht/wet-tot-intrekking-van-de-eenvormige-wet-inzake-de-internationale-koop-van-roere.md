@@ -9,7 +9,7 @@ laatste_update: 1992-01-01
 status: geldig
 toestand: 1992-01-01
 bron: "https://wetten.overheid.nl/BWBR0005331"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 18 december 1991, tot intrekking van de Eenvormige wet inzake de internationale koop van roerende lichamelijke zaken en de Eenvormige wet inzake de totstandkoming van internationale koopovereenkomsten betreffende roerende lichamelijke zaken

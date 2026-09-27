@@ -9,7 +9,7 @@ laatste_update: 1991-08-01
 status: geldig
 toestand: 1991-08-01
 bron: "https://wetten.overheid.nl/BWBR0005096"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 29 mei 1991, houdende wijziging van de Wet op de studiefinanciering ertoe strekkend om degenen die, toen zij 27 jaar werden, aanspraak hadden op studiefinanciering, de gelegenheid te geven hun reeds begonnen studie af te maken met studiefinanciering in de vorm van rentedragende lening (heroriëntering studiefinanciering II)

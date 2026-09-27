@@ -9,7 +9,7 @@ laatste_update: 1992-09-01
 status: geldig
 toestand: 1992-09-01
 bron: "https://wetten.overheid.nl/BWBR0005580"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 1 juli 1992, houdende regelen met betrekking tot de verzelfstandiging van de Verzekeringskamer

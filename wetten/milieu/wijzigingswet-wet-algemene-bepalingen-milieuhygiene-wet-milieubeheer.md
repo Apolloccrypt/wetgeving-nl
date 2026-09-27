@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0005584"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 2 juli 1992, tot uitbreiding en wijziging van de Wet algemene bepalingen milieuhygiëne en daarmee samenhangende wijzigingen van andere wetten (milieubeleidsplanning en milieukwaliteitseisen; provinciale milieuverordening; totstandkoming algemene maatregelen van bestuur)

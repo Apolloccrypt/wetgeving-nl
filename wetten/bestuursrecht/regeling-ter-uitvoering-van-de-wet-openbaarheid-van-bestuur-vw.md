@@ -8,7 +8,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0005523"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling ter uitvoering van de Wet Openbaarheid van bestuur (VW)

@@ -9,7 +9,7 @@ laatste_update: 2006-06-30
 status: geldig
 toestand: 2006-06-30
 bron: "https://wetten.overheid.nl/BWBR0005676"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 1 oktober 1992, houdende bijzondere regels met betrekking tot het recht op uitkering als bedoeld in de Uitkeringswet gewezen militairen alsmede wijziging van die wet

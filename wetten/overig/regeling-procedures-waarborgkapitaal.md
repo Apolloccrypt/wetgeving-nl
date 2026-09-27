@@ -8,7 +8,7 @@ laatste_update: 2003-02-01
 status: geldig
 toestand: 2003-02-01
 bron: "https://wetten.overheid.nl/BWBR0005900"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Regeling procedures waarborgkapitaal

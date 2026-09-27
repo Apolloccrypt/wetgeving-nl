@@ -9,7 +9,7 @@ laatste_update: 1991-03-01
 status: geldig
 toestand: 1991-03-01
 bron: "https://wetten.overheid.nl/BWBR0005002"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 26 februari 1991, tot wijziging van de tarieven van de bestemmingsheffingen Wet algemene bepalingen milieuhygiëne en van de tijdelijke toeslag op de accijns van gelode lichte olie

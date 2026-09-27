@@ -9,7 +9,7 @@ laatste_update: 1992-10-01
 status: geldig
 toestand: 1992-10-01
 bron: "https://wetten.overheid.nl/BWBR0005572"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 24 juni 1992, houdende wijziging van de Wet op de Bedrijfsorganisatie

@@ -9,7 +9,7 @@ laatste_update: 1990-04-01
 status: geldig
 toestand: 1990-04-01
 bron: "https://wetten.overheid.nl/BWBR0005003"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 27 februari 1991, houdende vaststelling per 1 april 1990 van het Besluit éénmalige uitkering militairen 1990

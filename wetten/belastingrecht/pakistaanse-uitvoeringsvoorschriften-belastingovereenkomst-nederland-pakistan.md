@@ -9,7 +9,7 @@ laatste_update: 1991-01-27
 status: geldig
 toestand: 1991-01-27
 bron: "https://wetten.overheid.nl/BWBR0004979"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Regeling inzake vermindering en vrijstelling van Pakistaanse belasting op dividenden, interest, royalty's en sommige andere soorten van inkomsten, genoten door inwoners van Nederland

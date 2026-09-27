@@ -9,7 +9,7 @@ laatste_update: 1994-04-01
 status: geldig
 toestand: 1994-04-01
 bron: "https://wetten.overheid.nl/BWBR0005535"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 3 juni 1992, tot wijziging van de Wet op de rechterlijke organisatie, de Ambtenarenwet 1929, de Beroepswet en enkele andere wetten (integratie raden van beroep/Ambtenarengerechten en arrondissementsrechtbanken; vereenvoudiging regelingen vorming en bezetting kamers)

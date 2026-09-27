@@ -8,7 +8,7 @@ laatste_update: 1997-06-19
 status: geldig
 toestand: 1997-06-19
 bron: "https://wetten.overheid.nl/BWBR0005678"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Zweedse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zweden 1991

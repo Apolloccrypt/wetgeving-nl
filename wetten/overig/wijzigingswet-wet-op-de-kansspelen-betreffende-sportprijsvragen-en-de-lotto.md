@@ -9,7 +9,7 @@ laatste_update: 1992-12-12
 status: geldig
 toestand: 1992-12-12
 bron: "https://wetten.overheid.nl/BWBR0005744"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 3 december 1992, tot wijziging van bepalingen van de Wet op de kansspelen betreffende sportprijsvragen en de lotto

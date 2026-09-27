@@ -9,7 +9,7 @@ laatste_update: 1993-03-10
 status: geldig
 toestand: 1993-03-10
 bron: "https://wetten.overheid.nl/BWBR0005881"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 23 februari 1993, tot wijziging van de regels betreffende tenuitvoerlegging van gijzeling

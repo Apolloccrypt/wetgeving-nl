@@ -8,7 +8,7 @@ laatste_update: 1993-01-29
 status: geldig
 toestand: 1993-01-29
 bron: "https://wetten.overheid.nl/BWBR0005821"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Reglement op de Tuchtrechtspraak

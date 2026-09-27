@@ -8,7 +8,7 @@ laatste_update: 1992-06-01
 status: geldig
 toestand: 1992-06-01
 bron: "https://wetten.overheid.nl/BWBR0005437"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Instellingsbeschikking Commissie-Swart

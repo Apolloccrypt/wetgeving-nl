@@ -9,7 +9,7 @@ laatste_update: 1992-10-01
 status: geldig
 toestand: 1992-10-01
 bron: "https://wetten.overheid.nl/BWBR0005671"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 30 september 1992, tot wijziging van de Wet op de omzetbelasting 1968 (verlaging van het algemene tarief)

@@ -9,7 +9,7 @@ laatste_update: 1993-07-01
 status: geldig
 toestand: 1993-07-01
 bron: "https://wetten.overheid.nl/BWBR0005999"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 27 mei 1993, houdende wijziging van het Burgerlijk Wetboek (beëindiging huur en verhuur van onzelfstandige woonruimte)

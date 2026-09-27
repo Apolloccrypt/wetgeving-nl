@@ -8,7 +8,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0005727"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Bijdrageregeling opgeviste explosieven 1992

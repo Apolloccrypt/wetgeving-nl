@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0005766"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Wet van 16 december 1992, tot goedkeuring en uitvoering van de op 26 mei 1992 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markhamveld en de afname van bitumina daaruit, met bijlagen

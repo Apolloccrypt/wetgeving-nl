@@ -9,7 +9,7 @@ laatste_update: 1992-02-28
 status: geldig
 toestand: 1992-02-28
 bron: "https://wetten.overheid.nl/BWBR0005412"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Besluit van 3 februari 1992, houdende aanpassing van de jaarwedden van leden van gedeputeerde staten per 1 januari 1989 en 1 april 1990

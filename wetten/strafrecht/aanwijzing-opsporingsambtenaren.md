@@ -8,7 +8,7 @@ laatste_update: 1992-11-05
 status: geldig
 toestand: 1992-11-05
 bron: "https://wetten.overheid.nl/BWBR0005694"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-27
 ---
 
 # Aanwijzing opsporingsambtenaren

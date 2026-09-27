@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0005247"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 28 oktober 1991, tot uitvoering van het op 25 oktober 1980 te 's-Gravenhage tot stand gekomen Verdrag inzake de toegang tot de rechter in internationale gevallen en de op 27 januari 1977 te Straatsburg tot stand gekomen Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand

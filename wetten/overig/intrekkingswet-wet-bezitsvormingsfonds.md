@@ -9,7 +9,7 @@ laatste_update: 2008-06-13
 status: geldig
 toestand: 2008-06-13
 bron: "https://wetten.overheid.nl/BWBR0005303"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-27
 ---
 
 # Wet van 2 december 1991, houdende intrekking Wet Bezitsvormingsfonds
