@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0007180"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 23 december 1994, tot wijziging van het Besluit voorkoming dubbele belasting 1989; maatregelen met het oog op het fiscale vestigingsklimaat

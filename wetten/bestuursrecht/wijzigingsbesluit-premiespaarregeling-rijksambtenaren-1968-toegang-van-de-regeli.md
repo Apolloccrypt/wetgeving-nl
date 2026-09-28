@@ -9,7 +9,7 @@ laatste_update: 1994-09-30
 status: geldig
 toestand: 1994-09-30
 bron: "https://wetten.overheid.nl/BWBR0006901"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 2 september 1994, houdende wijziging van de Premiespaarregeling Rijksambtenaren 1968 met betrekking tot de toegang van de regeling voor militaire ambtenaren en burgerambtenaren werkzaam bij het Ministerie van Defensie

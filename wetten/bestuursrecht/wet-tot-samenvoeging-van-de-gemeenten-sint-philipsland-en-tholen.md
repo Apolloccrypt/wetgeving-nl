@@ -9,7 +9,7 @@ laatste_update: 1994-08-12
 status: geldig
 toestand: 1994-08-12
 bron: "https://wetten.overheid.nl/BWBR0006800"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 7 juli 1994, tot samenvoeging van de gemeenten Sint Philipsland en Tholen

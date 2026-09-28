@@ -9,7 +9,7 @@ laatste_update: 1994-12-23
 status: geldig
 toestand: 1994-12-23
 bron: "https://wetten.overheid.nl/BWBR0007121"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Rijkswet van 15 december 1994, houdende goedkeuring van het op 24 juni 1994 te Korfoe tot stand gekomen Verdrag betreffende de toetreding van het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, met Toetredingsakte, Bijlagen en Protocollen

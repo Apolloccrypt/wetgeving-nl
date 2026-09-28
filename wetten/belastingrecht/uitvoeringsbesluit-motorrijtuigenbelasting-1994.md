@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0007311"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 30 maart 1995, tot vaststelling van het Uitvoeringsbesluit motorrijtuigenbelasting 1994

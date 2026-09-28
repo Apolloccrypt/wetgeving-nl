@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0007026"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 19 november 1994, houdende nadere regels inzake de samenstelling, de inrichting en de werkwijze van het Kapittel voor de civiele orden, alsmede inwerkingtreding van enkele artikelen van de rijkswet van 15 april 1994, houdende wijziging van de wet van 4 april 1892, houdende instelling van de Orde van Oranje-Nassau, en van de wet van 29 september 1815, houdende instelling van de Orde van de Nederlandse Leeuw, alsmede instelling van het Kapittel voor de civiele orden (Stb. 1994, 350)

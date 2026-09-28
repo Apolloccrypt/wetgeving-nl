@@ -9,7 +9,7 @@ laatste_update: 2015-09-01
 status: geldig
 toestand: 2015-09-01
 bron: "https://wetten.overheid.nl/BWBR0006909"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling betreffende het voor de akten van de burgerlijke stand en de dubbelen of de afschriften te gebruiken papier en de voor het opmaken van deze stukken te hanteren middelen

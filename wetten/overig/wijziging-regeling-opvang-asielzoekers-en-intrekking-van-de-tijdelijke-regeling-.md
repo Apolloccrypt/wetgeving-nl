@@ -8,7 +8,7 @@ laatste_update: 1994-03-09
 status: geldig
 toestand: 1994-03-09
 bron: "https://wetten.overheid.nl/BWBR0006503"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wijziging Regeling opvang asielzoekers en intrekking van de Tijdelijke regeling opvang ontheemden

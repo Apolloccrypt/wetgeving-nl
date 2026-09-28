@@ -9,7 +9,7 @@ laatste_update: 1993-10-29
 status: geldig
 toestand: 1993-10-29
 bron: "https://wetten.overheid.nl/BWBR0006123"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 27 augustus 1993, houdende vaststelling van het Besluit eenmalige uitkering militairen 1992

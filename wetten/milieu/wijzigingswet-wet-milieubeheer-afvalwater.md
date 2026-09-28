@@ -9,7 +9,7 @@ laatste_update: 1996-03-01
 status: geldig
 toestand: 1996-03-01
 bron: "https://wetten.overheid.nl/BWBR0007000"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 2 november 1994, houdende wijziging van de Wet milieubeheer en de Wet verontreiniging oppervlaktewateren (afvalwater)

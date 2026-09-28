@@ -8,7 +8,7 @@ laatste_update: 1994-11-02
 status: geldig
 toestand: 1994-11-02
 bron: "https://wetten.overheid.nl/BWBR0006999"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # regeling afgifte verklaringen door de Koninklijke marechaussee

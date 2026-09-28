@@ -8,7 +8,7 @@ laatste_update: 1993-09-25
 status: geldig
 toestand: 1993-09-25
 bron: "https://wetten.overheid.nl/BWBR0006129"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Aanwijzing ambtenaren belast met het toezicht naleving sancties tegen Servië en Montenegro

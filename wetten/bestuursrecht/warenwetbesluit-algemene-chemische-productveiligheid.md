@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0006447"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 4 februari 1994, tot beperking van het op de markt brengen en van het gebruik van bepaalde gevaarlijke stoffen of preparaten

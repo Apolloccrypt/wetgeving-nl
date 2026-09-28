@@ -8,7 +8,7 @@ laatste_update: 1993-12-01
 status: geldig
 toestand: 1993-12-01
 bron: "https://wetten.overheid.nl/BWBR0006195"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Bekendmaking wijziging methoden van onderzoek kennisgevingen Wet milieugevaarlijke stoffen

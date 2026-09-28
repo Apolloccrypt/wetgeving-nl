@@ -9,7 +9,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBR0006366"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 23 december 1993, tot wijziging van de Vreemdelingenwet en van het Wetboek van Strafrecht

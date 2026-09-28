@@ -8,7 +8,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0006239"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling bezwaarschriftencommissie 1993

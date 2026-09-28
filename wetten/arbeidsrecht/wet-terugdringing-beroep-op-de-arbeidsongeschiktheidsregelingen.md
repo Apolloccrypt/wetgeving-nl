@@ -9,7 +9,7 @@ laatste_update: 2009-10-01
 status: geldig
 toestand: 2009-10-01
 bron: "https://wetten.overheid.nl/BWBR0006072"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 7 juli 1993, tot wijziging van de Wet op de arbeidsongeschiktheidsverzekering, de Algemene Arbeidsongeschiktheidswet, de overheidspensioenwetten en enkele andere wetten strekkende tot herziening van het arbeidsongeschiktheidscriterium, het binden van het uitkeringsrecht aan een termijn, aanpassing van de arbeidsongeschiktheidsuitkering aan de leeftijd alsmede invoering van een stimuleringsmaatregel voor herintreding van arbeidsongeschikten

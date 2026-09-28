@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0007038"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Regeling aanwijzing ambtenaren rijksbelastingdienst invordering kentekenbewijs

@@ -9,7 +9,7 @@ laatste_update: 1993-07-28
 status: geldig
 toestand: 1993-07-28
 bron: "https://wetten.overheid.nl/BWBR0006068"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Rijkswet van 7 juli 1993, houdende machtiging tot deelneming door het Koninkrijk der Nederlanden in de Algemene Kapitaalverhoging van de Internationale Financieringsmaatschappij

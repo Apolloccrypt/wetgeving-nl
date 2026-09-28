@@ -9,7 +9,7 @@ laatste_update: 1994-12-30
 status: geldig
 toestand: 1994-12-30
 bron: "https://wetten.overheid.nl/BWBR0007174"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 23 december 1994, tot wijziging van de Wet op de inkomstenbelasting 1964 en de Wet op de vennootschapsbelasting 1969 (onbeperkte voorwaartse verrekening van ondernemingsverliezen en vaststelling van verliezen bij beschikking)

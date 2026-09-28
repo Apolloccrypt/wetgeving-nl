@@ -8,7 +8,7 @@ laatste_update: 1994-11-26
 status: geldig
 toestand: 1994-11-26
 bron: "https://wetten.overheid.nl/BWBR0006978"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Negatief besluit Noord-Zuidbaan Maastricht

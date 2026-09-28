@@ -9,7 +9,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBR0006230"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Beschikking wijzigingspercentage levensonderhoud 1994

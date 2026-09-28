@@ -8,7 +8,7 @@ laatste_update: 1994-10-16
 status: geldig
 toestand: 1994-10-16
 bron: "https://wetten.overheid.nl/BWBR0006899"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Instelling Buitengewone Bijzondere Commissie USZO

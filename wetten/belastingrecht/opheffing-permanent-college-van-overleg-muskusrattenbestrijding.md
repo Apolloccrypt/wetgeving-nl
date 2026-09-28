@@ -8,7 +8,7 @@ laatste_update: 1994-04-15
 status: geldig
 toestand: 1994-04-15
 bron: "https://wetten.overheid.nl/BWBR0006542"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Opheffing permanent College van Overleg Muskusrattenbestrijding

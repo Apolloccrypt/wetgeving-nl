@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0006042"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 25 juni 1993, houdende regels voor het georganiseerd overleg in de sector Defensie

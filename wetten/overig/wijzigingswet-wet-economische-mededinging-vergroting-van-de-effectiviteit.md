@@ -9,7 +9,7 @@ laatste_update: 1995-09-01
 status: geldig
 toestand: 1995-09-01
 bron: "https://wetten.overheid.nl/BWBR0007001"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 2 november 1994, tot wijziging van de Wet economische mededinging (vergroting van de effectiviteit)

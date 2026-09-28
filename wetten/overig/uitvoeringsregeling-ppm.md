@@ -8,7 +8,7 @@ laatste_update: 1994-05-19
 status: geldig
 toestand: 1994-05-19
 bron: "https://wetten.overheid.nl/BWBR0006674"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Uitvoeringsregeling PPM

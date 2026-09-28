@@ -8,7 +8,7 @@ laatste_update: 1999-07-29
 status: geldig
 toestand: 1999-07-29
 bron: "https://wetten.overheid.nl/BWBR0006893"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling aanwijzing bedrijven voor het verwerken, het opslaan, het drogen of het sorteren van vlees niet bestemd voor menselijke consumptie

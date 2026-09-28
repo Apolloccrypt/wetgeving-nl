@@ -9,7 +9,7 @@ laatste_update: 2005-12-29
 status: geldig
 toestand: 2005-12-29
 bron: "https://wetten.overheid.nl/BWBR0006355"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 22 december 1993, tot wijziging van de Ziektewet, het Burgerlijk Wetboek en enkele andere wetten, alsmede het treffen van een regeling voor het overheidspersoneel, in verband met terugdringing van het ziekteverzuim

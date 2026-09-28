@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0006755"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 20 juni 1994, houdende nadere regels met betrekking tot de informatieverschaffing en de te verstrekken informatie inzake rampen

@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0006528"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling vermelding nummer op akten burgerlijke stand

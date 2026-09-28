@@ -8,7 +8,7 @@ laatste_update: 1994-10-12
 status: geldig
 toestand: 1994-10-12
 bron: "https://wetten.overheid.nl/BWBR0006960"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Splitsing van aandelen ‘Spin off’

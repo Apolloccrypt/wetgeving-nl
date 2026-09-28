@@ -9,7 +9,7 @@ laatste_update: 1994-12-07
 status: geldig
 toestand: 1994-12-07
 bron: "https://wetten.overheid.nl/BWBR0007024"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Beschikking waarbij een tweetal gebieden wordt aangewezen als Speciale beschermingszone in het kader van de EG-Vogelrichtlijn ('Eemmeer, Gooimeer en IJmeer' en 'Kwade Hoek')

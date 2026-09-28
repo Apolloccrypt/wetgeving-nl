@@ -8,7 +8,7 @@ laatste_update: 1994-05-16
 status: geldig
 toestand: 1994-05-16
 bron: "https://wetten.overheid.nl/BWBR0006668"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Aanwijzing Rijkshavenmeester Westerschelde

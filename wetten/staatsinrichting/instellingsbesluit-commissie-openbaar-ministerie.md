@@ -8,7 +8,7 @@ laatste_update: 1999-12-29
 status: geldig
 toestand: 1999-12-29
 bron: "https://wetten.overheid.nl/BWBR0006296"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Instellingsbesluit Commissie Openbaar Ministerie

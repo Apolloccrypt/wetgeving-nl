@@ -9,7 +9,7 @@ laatste_update: 1994-04-14
 status: geldig
 toestand: 1994-04-14
 bron: "https://wetten.overheid.nl/BWBR0006583"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Beschikking van de Minister van Justitie (nr. 432592/594/NE) houdende aanwijzing van de direct toezichthouder van de Spoorwegpolitie

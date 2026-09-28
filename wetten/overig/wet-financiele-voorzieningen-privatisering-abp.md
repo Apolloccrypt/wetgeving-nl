@@ -9,7 +9,7 @@ laatste_update: 2021-07-10
 status: geldig
 toestand: 2021-07-10
 bron: "https://wetten.overheid.nl/BWBR0007211"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 27 april 1994, houdende maatregelen gericht op een goede financiële basis voor de privatisering van het Algemeen burgerlijk pensioenfonds en reparatie van de invaliditeitspensioenen

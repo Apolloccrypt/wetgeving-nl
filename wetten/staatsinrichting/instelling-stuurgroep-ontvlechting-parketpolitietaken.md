@@ -8,7 +8,7 @@ laatste_update: 1994-12-23
 status: geldig
 toestand: 1994-12-23
 bron: "https://wetten.overheid.nl/BWBR0007101"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Instelling Stuurgroep ontvlechting parketpolitietaken

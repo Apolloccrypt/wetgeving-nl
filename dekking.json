@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-09-27",
+ "gegenereerd": "2026-09-28",
  "geverifieerd": true,
  "bwb_regelingen": 46923,
- "bwb_geldend": 22242,
+ "bwb_geldend": 22237,
  "site_totaal": 22453,
- "site_geldend": 22240,
+ "site_geldend": 22235,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 2,
- "aantal_ten_onrechte_geldig": 213,
+ "aantal_ten_onrechte_geldig": 218,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -855,6 +855,10 @@
    "titel": "Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 14 mei 2026, nr. WJZ/106398384, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Biddinghuizen (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Biddinghuizen 2026)"
   },
   {
+   "id": "BWBR0052809",
+   "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 2 juli 2026, nr. ZK-0000145942 houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden als groeiregulator in de onbedekte pot- en containerteelt van de bloemisterijgewassen Viburnum, Chrysanthemum, Azalea, Hortensia en Aster (Tijdelijke vrijstelling als groeiregulator in de onbedekte pot- en containerteelt van de bloemisterijgewassen Viburnum, Chrysanthemum, Azalea, Hortensia en Aster, 2026)"
+  },
+  {
    "id": "BWBR0052880",
    "titel": "Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 17 juli 2026, nr. WJZ/107573896, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Woerdense Verlaat (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Woerdense Verlaat 2026)"
   },
@@ -865,6 +869,22 @@
   {
    "id": "BWBR0052890",
    "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107479116, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van tabakstrips in de teelt van zaaiuien (Tijdelijke vrijstelling voor de beheersing van tabakstrips in de teelt van zaaiuien, 2026)"
+  },
+  {
+   "id": "BWBR0052891",
+   "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 10 juli 2026, nr. 0000150491, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden ter bescherming van de onbedekte teelt van blauwe bes voor de beheersing van suzuki-fruitvlieg (Tijdelijke vrijstelling voor de bescherming van de teelt van blauwe bes tegen suzuki-fruitvlieg (Drosophila suzukii), 2026)"
+  },
+  {
+   "id": "BWBR0052893",
+   "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107543321, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van bladluizen en wortelluis in de onbedekte pennenteelt van witlof (Tijdelijke vrijstelling voor de beheersing van bladluizen en wortelluis in de onbedekte pennenteelt van witlof, 2026)"
+  },
+  {
+   "id": "BWBR0052894",
+   "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107541907, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van koolgalmug en koolwittevlieg in de onbedekte teelt van broccoli (Tijdelijke vrijstelling voor de beheersing van koolwittevlieg en koolgalmug in de onbedekte teelt van broccoli, 2026)"
+  },
+  {
+   "id": "BWBR0052896",
+   "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107537273, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van koolgalmug en koolwittevlieg in de onbedekte teelt van bloemkool (Tijdelijke vrijstelling voor de beheersing van koolwittevlieg en koolgalmug in de onbedekte teelt van bloemkool, 2026)"
   },
   {
    "id": "BWBV0004357",

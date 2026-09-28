@@ -9,7 +9,7 @@ laatste_update: 2017-12-15
 status: geldig
 toestand: 2017-12-15
 bron: "https://wetten.overheid.nl/BWBR0006860"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 5 augustus 1994, in verband met de aanduiding van benoemingen bij koninklijk besluit bij de politie

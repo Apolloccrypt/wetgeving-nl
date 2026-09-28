@@ -9,7 +9,7 @@ laatste_update: 1994-06-10
 status: geldig
 toestand: 1994-06-10
 bron: "https://wetten.overheid.nl/BWBR0006690"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 20 mei 1994, houdende verlaging van de verschuldigde pensioenbijdrage als bedoeld in de Spoorwegpensioenwet geldend tot aan het tijdstip van privatisering

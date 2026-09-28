@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0007286"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 16 maart 1995, houdende regelen met betrekking tot de vervaardiging, het in de handel brengen en de in-, uit- en doorvoer van bepaalde chemicaliën ter voorkoming van misbruik

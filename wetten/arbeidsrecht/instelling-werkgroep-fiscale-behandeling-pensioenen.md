@@ -8,7 +8,7 @@ laatste_update: 1994-12-01
 status: geldig
 toestand: 1994-12-01
 bron: "https://wetten.overheid.nl/BWBR0006966"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Instelling Werkgroep fiscale behandeling pensioenen

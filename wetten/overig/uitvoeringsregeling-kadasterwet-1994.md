@@ -8,7 +8,7 @@ laatste_update: 2017-03-10
 status: geldig
 toestand: 2017-03-10
 bron: "https://wetten.overheid.nl/BWBR0006596"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Uitvoeringsregeling Kadasterwet 1994

@@ -9,7 +9,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0006951"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 6 oktober 1994, houdende uitvoering van de Wegenverkeerswet 1994

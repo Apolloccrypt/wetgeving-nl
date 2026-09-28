@@ -9,7 +9,7 @@ laatste_update: 2025-01-17
 status: geldig
 toestand: 2025-01-17
 bron: "https://wetten.overheid.nl/BWBR0006041"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 25 juni 1993, houdende regeling uitkering wegens functioneel leeftijdsontslag van burgerlijke ambtenaren in dienst bij het Ministerie van Defensie

@@ -9,7 +9,7 @@ laatste_update: 1994-07-01
 status: geldig
 toestand: 1994-07-01
 bron: "https://wetten.overheid.nl/BWBR0006672"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 16 mei 1994, tot wijziging van de Algemene pensioenwet politieke ambtsdragers (uitkeringspercentage vanaf het derde jaar van de uitkeringsduur en een procedure inzake invaliditeit)

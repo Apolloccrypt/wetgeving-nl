@@ -9,7 +9,7 @@ laatste_update: 2006-02-01
 status: geldig
 toestand: 2006-02-01
 bron: "https://wetten.overheid.nl/BWBR0007021"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 17 november 1994 tot wijziging van het Burgerlijk Wetboek en enige andere wetten in verband met de opneming van bepalingen omtrent de overeenkomst tot het verrichten van handelingen op het gebied van de geneeskunst

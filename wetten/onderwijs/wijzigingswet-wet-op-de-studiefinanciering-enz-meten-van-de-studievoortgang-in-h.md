@@ -9,7 +9,7 @@ laatste_update: 1993-08-01
 status: geldig
 toestand: 1993-08-01
 bron: "https://wetten.overheid.nl/BWBR0006059"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 2 juli 1993, houdende wijziging van de Wet op de studiefinanciering en van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, in verband met het meten van de studievoortgang in het hoger onderwijs

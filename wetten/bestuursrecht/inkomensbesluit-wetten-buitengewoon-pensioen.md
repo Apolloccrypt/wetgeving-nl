@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0007007"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 4 november 1994, houdende nadere regels met betrekking tot de vaststelling van het maandinkomen, bedoeld in de artikelen 31e, tweede lid, van de Wet buitengewoon pensioen 1940-1945, 28e, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers en 35a, tweede lid, van de Wet buitengewoon pensioen Indisch verzet (Inkomensbesluit wetten buitengewoon pensioen)

@@ -8,7 +8,7 @@ laatste_update: 1994-11-05
 status: geldig
 toestand: 1994-11-05
 bron: "https://wetten.overheid.nl/BWBR0006985"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wijziging Uitvoeringsregeling accijns

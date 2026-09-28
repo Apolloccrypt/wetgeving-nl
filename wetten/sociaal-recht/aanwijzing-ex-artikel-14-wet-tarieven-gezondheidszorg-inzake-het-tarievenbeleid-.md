@@ -8,7 +8,7 @@ laatste_update: 1995-02-05
 status: geldig
 toestand: 1995-02-05
 bron: "https://wetten.overheid.nl/BWBR0007112"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1995 voor medisch specialisten

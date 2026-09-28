@@ -9,7 +9,7 @@ laatste_update: 1999-02-17
 status: geldig
 toestand: 1999-02-17
 bron: "https://wetten.overheid.nl/BWBR0006777"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 29 juni 1994, houdende wijziging van de Wet op de vennootschapsbelasting 1969 en van de Wet op de inkomstenbelasting 1964 (aanpassing gedifferentieerd tarief en verhoging van de zelfstandigenaftrek)

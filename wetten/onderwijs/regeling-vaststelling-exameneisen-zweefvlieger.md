@@ -8,7 +8,7 @@ laatste_update: 1996-10-01
 status: geldig
 toestand: 1996-10-01
 bron: "https://wetten.overheid.nl/BWBR0006212"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling vaststelling exameneisen zweefvlieger

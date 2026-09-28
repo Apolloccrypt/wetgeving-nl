@@ -9,7 +9,7 @@ laatste_update: 1993-06-01
 status: geldig
 toestand: 1993-06-01
 bron: "https://wetten.overheid.nl/BWBR0006104"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 30 juli 1993, houdende overdracht van de departementale taak met betrekking tot de Spoorwegpensioenwet van de Minsters van Binnenlandse Zaken en van Financiën naar de Ministers van Verkeer en Waterstaat en van Financiën

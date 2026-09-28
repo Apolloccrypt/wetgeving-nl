@@ -9,7 +9,7 @@ laatste_update: 1994-07-15
 status: geldig
 toestand: 1994-07-15
 bron: "https://wetten.overheid.nl/BWBR0006796"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 7 juli 1994, tot wijziging van de Wet uitkeringen vervolgingsslachtoffers 1940-1945 (sluiten Wuv voor de na-oorlogse generatie)

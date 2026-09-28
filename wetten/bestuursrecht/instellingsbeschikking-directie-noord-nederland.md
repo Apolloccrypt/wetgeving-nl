@@ -8,7 +8,7 @@ laatste_update: 2009-12-22
 status: geldig
 toestand: 2009-12-22
 bron: "https://wetten.overheid.nl/BWBR0006316"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Instellingsbeschikking Directie Noord-Nederland

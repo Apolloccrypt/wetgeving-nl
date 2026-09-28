@@ -9,7 +9,7 @@ laatste_update: 1994-04-08
 status: geldig
 toestand: 1994-04-08
 bron: "https://wetten.overheid.nl/BWBR0006523"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Rijkswet van 17 maart 1994, houdende goedkeuring en uitvoering van de op 20 november 1992 te Washington tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake wederzijdse samenwerking bij de opsporing, inbeslagneming en confiscatie van de opbrengsten van en hulpmiddelen voor misdrijven en de verdeling van geconfisqueerde voorwerpen (Trb. 1993, 5)

@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0007088"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Vaststelling vacatiegeld examencommissies zeevaart- en zeevisvaartdiploma's

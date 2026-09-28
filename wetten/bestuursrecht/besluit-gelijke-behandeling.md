@@ -9,7 +9,7 @@ laatste_update: 2012-12-21
 status: geldig
 toestand: 2012-12-21
 bron: "https://wetten.overheid.nl/BWBR0007270"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 18 augustus 1994, houdende nadere omschrijving van gevallen waarin het geslacht bepalend is, van gevallen waarin het de bescherming van de vrouw betreft, van gevallen waarin uiterlijke kenmerken die samenhangen met het ras van een persoon bepalend zijn en van gevallen waarin de nationaliteit bepalend is

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0006043"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 25 juni 1993, houdende regeling betreffende verlening aan burgerlijke ambtenaren in dienst van het Ministerie van Defensie van een aanvulling op arbeidsongeschiktheidsuitkering bij onvrijwillige werkloosheid

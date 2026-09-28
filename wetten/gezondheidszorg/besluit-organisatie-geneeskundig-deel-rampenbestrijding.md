@@ -9,7 +9,7 @@ laatste_update: 1994-01-12
 status: geldig
 toestand: 1994-01-12
 bron: "https://wetten.overheid.nl/BWBR0006311"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 13 december 1993, waarmede de Minister van Binnenlandse Zaken wordt belast met de organisatie van het geneeskundig deel van de rampenbestrijding

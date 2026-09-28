@@ -8,7 +8,7 @@ laatste_update: 1995-03-01
 status: geldig
 toestand: 1995-03-01
 bron: "https://wetten.overheid.nl/BWBR0007198"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Openbaarheid archiefbescheiden ‹Archiefwet 1962›

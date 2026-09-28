@@ -8,7 +8,7 @@ laatste_update: 1994-01-16
 status: geldig
 toestand: 1994-01-16
 bron: "https://wetten.overheid.nl/BWBR0006398"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wijziging Regeling opvang asielzoekers 1994

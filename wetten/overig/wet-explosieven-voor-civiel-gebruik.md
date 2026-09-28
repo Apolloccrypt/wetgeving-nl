@@ -9,7 +9,7 @@ laatste_update: 2023-04-19
 status: geldig
 toestand: 2023-04-19
 bron: "https://wetten.overheid.nl/BWBR0006803"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 7 juli 1994, houdende vaststelling van de Wet explosieven voor civiel gebruik

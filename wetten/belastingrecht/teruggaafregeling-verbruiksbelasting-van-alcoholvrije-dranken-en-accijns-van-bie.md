@@ -8,7 +8,7 @@ laatste_update: 1994-04-01
 status: geldig
 toestand: 1994-04-01
 bron: "https://wetten.overheid.nl/BWBR0006532"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Teruggaafregeling verbruiksbelasting van alcoholvrije dranken en accijns van bier

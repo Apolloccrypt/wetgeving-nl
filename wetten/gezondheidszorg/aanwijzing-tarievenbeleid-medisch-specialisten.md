@@ -9,7 +9,7 @@ laatste_update: 1994-08-27
 status: geldig
 toestand: 1994-08-27
 bron: "https://wetten.overheid.nl/BWBR0006879"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzaken het aanvullend tarievenbeleid 1994 voor de medisch specialisten

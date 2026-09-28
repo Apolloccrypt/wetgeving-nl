@@ -9,7 +9,7 @@ laatste_update: 1994-04-01
 status: geldig
 toestand: 1994-04-01
 bron: "https://wetten.overheid.nl/BWBR0006488"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling van de Minister van Justitie, (nr. 426911/594/NE) houdende vaststelling van het politielegitimatiebewijs ten behoeve van enige ambtenaren van politie werkzaam bij het Korps landelijke politiediensten en de bijzondere ambtenaren van politie

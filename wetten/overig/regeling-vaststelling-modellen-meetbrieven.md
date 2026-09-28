@@ -8,7 +8,7 @@ laatste_update: 1998-12-18
 status: geldig
 toestand: 1998-12-18
 bron: "https://wetten.overheid.nl/BWBR0006018"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling vaststelling modellen meetbrieven

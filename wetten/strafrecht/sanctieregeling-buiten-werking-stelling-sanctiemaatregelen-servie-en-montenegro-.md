@@ -9,7 +9,7 @@ laatste_update: 1994-11-18
 status: geldig
 toestand: 1994-11-18
 bron: "https://wetten.overheid.nl/BWBR0006993"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Regeling houdende bepalingen waarmee een aantal sanciemaatregelen tegen de 'Federale Republiek Joegoslavië' (Servië en Montenegro) buiten werking worden gesteld

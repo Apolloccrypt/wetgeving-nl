@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0006594"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 13 april 1994, houdende regels over de non-activiteitswedde van rijksambtenaren die lid zijn van de Staten-Generaal of het Europees Parlement en wijziging van enkele rechtspositieregelingen, alsmede inwerkingtreding van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement

@@ -8,7 +8,7 @@ laatste_update: 2022-04-07
 status: geldig
 toestand: 2022-04-07
 bron: "https://wetten.overheid.nl/BWBR0006989"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Regeling toezichthoudende ambtenaren Sanctiewet 1977

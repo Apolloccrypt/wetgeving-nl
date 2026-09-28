@@ -9,7 +9,7 @@ laatste_update: 1995-05-17
 status: geldig
 toestand: 1995-05-17
 bron: "https://wetten.overheid.nl/BWBR0006638"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 27 april 1994, houdende invoering en wijziging van de wet tot wijziging van de Gemeentewet met betrekking tot de materiële belastingbepalingen, van de Gemeentewet en van een aantal andere wetten met het oog op de wijziging van de Gemeentewet met betrekking tot de materiële belastingbepalingen

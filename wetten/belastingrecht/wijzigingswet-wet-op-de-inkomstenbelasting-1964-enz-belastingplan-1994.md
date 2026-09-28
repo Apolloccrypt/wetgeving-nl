@@ -9,7 +9,7 @@ laatste_update: 1994-12-16
 status: geldig
 toestand: 1994-12-16
 bron: "https://wetten.overheid.nl/BWBR0006376"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 24 december 1993, tot wijziging van een aantal belastingwetten en van de Wet Infrastructuurfonds in het kader van het belastingplan 1994

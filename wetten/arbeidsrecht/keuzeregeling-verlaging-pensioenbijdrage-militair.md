@@ -8,7 +8,7 @@ laatste_update: 1994-10-05
 status: geldig
 toestand: 1994-10-05
 bron: "https://wetten.overheid.nl/BWBR0006917"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Keuzeregeling verlaging pensioenbijdrage militair

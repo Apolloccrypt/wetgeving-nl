@@ -9,7 +9,7 @@ laatste_update: 1994-07-01
 status: geldig
 toestand: 1994-07-01
 bron: "https://wetten.overheid.nl/BWBR0006640"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 28 april 1994, tot wijziging van bepalingen in het Burgerlijk Wetboek in verband met de regeling van de limitering van alimentatie na scheiding

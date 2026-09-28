@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0007013"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 11 november 1994, houdende regels ter uitvoering van artikel 142, vierde lid, van het Wetboek van Strafvordering betreffende de bekwaamheid en betrouwbaarheid, beëdiging en instructie van, alsmede het toezicht op buitengewoon opsporingsambtenaren, het grondgebied waarvoor de opsporingsbevoegdheid geldt, de beëindiging van de opsporingsbevoegdheid en enige andere onderwerpen

@@ -8,7 +8,7 @@ laatste_update: 1993-11-21
 status: geldig
 toestand: 1993-11-21
 bron: "https://wetten.overheid.nl/BWBR0006245"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Aanwijzingen ex artikel 14 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1994 voor de algemeen psychiatrische ziekenhuizen

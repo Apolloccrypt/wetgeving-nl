@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0006799"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Rijkswet van 7 juli 1994, houdende regeling betreffende de goedkeuring en bekendmaking van verdragen en de bekendmaking van besluiten van volkenrechtelijke organisaties

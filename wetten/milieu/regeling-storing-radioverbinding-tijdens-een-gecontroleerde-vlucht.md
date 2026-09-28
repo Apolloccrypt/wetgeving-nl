@@ -8,7 +8,7 @@ laatste_update: 2014-12-12
 status: geldig
 toestand: 2014-12-12
 bron: "https://wetten.overheid.nl/BWBR0006174"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling storing radioverbinding tijdens een gecontroleerde vlucht

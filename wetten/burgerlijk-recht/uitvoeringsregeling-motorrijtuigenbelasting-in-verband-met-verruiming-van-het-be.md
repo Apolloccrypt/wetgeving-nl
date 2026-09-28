@@ -8,7 +8,7 @@ laatste_update: 1994-07-23
 status: geldig
 toestand: 1994-07-23
 bron: "https://wetten.overheid.nl/BWBR0006826"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Uitvoeringsregeling motorrijtuigenbelasting in verband met verruiming van het begrip personenauto

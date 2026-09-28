@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0006636"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 27 april 1994, houdende regelen met betrekking tot de oprichting van de naamloze vennootschap De Nederlandse Munt N.V. en tot wijziging van de Muntwet 1987

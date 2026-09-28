@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0007014"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Regeling betreffende de formulieren bestemd voor het opmaken van de in verband met de aangifte van de geboorte over te leggen verklaring van een arts of een verloskundige en de daarbij behorende enveloppe

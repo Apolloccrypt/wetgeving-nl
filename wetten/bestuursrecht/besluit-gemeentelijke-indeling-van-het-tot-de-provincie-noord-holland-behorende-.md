@@ -9,7 +9,7 @@ laatste_update: 1994-11-02
 status: geldig
 toestand: 1994-11-02
 bron: "https://wetten.overheid.nl/BWBR0006941"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 29 september 1994, houdende gemeentelijke indeling van het tot de provincie Noord-Holland behorende deel van het IJsselmeer langs de oever van de gemeenten Amsterdam, Diemen en Muiden

@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0006570"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling van de ministers van Justitie, van Binnenlandse Zaken en van Defensie (nrs. 430241/594/GBJD, EA 94/U894 en CWW 85/008), houdende aanwijziging van de overige luchtterrein waarop de Koninklijke marechaussee de politietaak uitvoert

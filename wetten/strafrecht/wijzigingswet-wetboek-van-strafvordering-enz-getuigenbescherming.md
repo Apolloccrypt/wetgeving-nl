@@ -9,7 +9,7 @@ laatste_update: 1994-02-01
 status: geldig
 toestand: 1994-02-01
 bron: "https://wetten.overheid.nl/BWBR0006248"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 11 november 1993, tot wijziging van het Wetboek van Strafvordering, het Wetboek van Strafrecht en enige andere wetten (getuigenbescherming)

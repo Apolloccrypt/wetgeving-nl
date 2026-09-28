@@ -8,7 +8,7 @@ laatste_update: 1994-04-20
 status: geldig
 toestand: 1994-04-20
 bron: "https://wetten.overheid.nl/BWBR0006576"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Instelling dienst Informatievoorziening Overheidspersoneel

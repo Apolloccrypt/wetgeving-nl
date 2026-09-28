@@ -9,7 +9,7 @@ laatste_update: 1995-06-09
 status: geldig
 toestand: 1995-06-09
 bron: "https://wetten.overheid.nl/BWBR0007279"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 9 maart 1995, tot wijziging van de Wet op de omzetbelasting 1968 in verband met de wijziging van en de invoering van vereenvoudigingsmaatregelen in de Zesde Richtlijn

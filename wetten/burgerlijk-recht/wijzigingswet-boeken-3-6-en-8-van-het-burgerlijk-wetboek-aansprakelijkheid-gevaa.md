@@ -9,7 +9,7 @@ laatste_update: 1995-02-01
 status: geldig
 toestand: 1995-02-01
 bron: "https://wetten.overheid.nl/BWBR0007050"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 30 november 1994, tot aanvulling van de Boeken 3, 6 en 8 van het Burgerlijk Wetboek met regels betreffende de aansprakelijkheid voor gevaarlijke stoffen en verontreiniging van lucht, water of bodem

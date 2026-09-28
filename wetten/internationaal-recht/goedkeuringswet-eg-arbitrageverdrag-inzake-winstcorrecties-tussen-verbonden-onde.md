@@ -9,7 +9,7 @@ laatste_update: 1993-11-17
 status: geldig
 toestand: 1993-11-17
 bron: "https://wetten.overheid.nl/BWBR0006208"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 27 oktober 1993, houdende goedkeuring en uitvoering van het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen; Brussel, 23 juli 1990

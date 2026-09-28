@@ -8,7 +8,7 @@ laatste_update: 1994-12-06
 status: geldig
 toestand: 1994-12-06
 bron: "https://wetten.overheid.nl/BWBR0007059"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Integriteit sector Rijk; systematisch ontwikkelen van preventief beleid

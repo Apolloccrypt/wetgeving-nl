@@ -9,7 +9,7 @@ laatste_update: 1995-02-01
 status: geldig
 toestand: 1995-02-01
 bron: "https://wetten.overheid.nl/BWBR0006995"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 31 oktober 1994, houdende toekenning van de eindejaarsuitkering over 1993 aan militairen en burgerlijk defensiepersoneel, toekenning van een eenmalige uitkering in 1993 aan burgerlijk defensiepersoneel en wijziging van enige besluiten in verband met het arbeidsvoorwaardenakkoord sector Defensie voor de periode van 1 april 1993 tot 1 april 1995

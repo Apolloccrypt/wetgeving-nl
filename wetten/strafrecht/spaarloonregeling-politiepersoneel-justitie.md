@@ -9,7 +9,7 @@ laatste_update: 1994-05-01
 status: geldig
 toestand: 1994-05-01
 bron: "https://wetten.overheid.nl/BWBR0006693"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling van de minister van Justitie tot vaststelling van bepalingen met betrekking tot het gebruik van de mogelijkheid van spaarloon als bedoeld in artikel 11, eerste lid, onderdeel h, onder 2°, van de Wet op de loonbelasting ten behoeve van ambtenaren van politie in dienst bij het ministerie van Justitie

@@ -9,7 +9,7 @@ laatste_update: 2017-03-01
 status: geldig
 toestand: 2017-03-01
 bron: "https://wetten.overheid.nl/BWBR0006297"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 9 december 1993, tot aanwijzing van documenten dienende ter vaststelling van de identiteit van personen alsmede aanwijzing van enige gevallen waarin de identiteit van personen aan de hand van deze documenten kan worden vastgesteld

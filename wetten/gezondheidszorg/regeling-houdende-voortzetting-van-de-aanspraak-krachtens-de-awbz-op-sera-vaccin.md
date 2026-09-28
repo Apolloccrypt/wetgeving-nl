@@ -8,7 +8,7 @@ laatste_update: 1993-09-11
 status: geldig
 toestand: 1993-09-11
 bron: "https://wetten.overheid.nl/BWBR0006132"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling houdende voortzetting van de aanspraak krachtens de A.w.b.z. op sera, vaccins en allergenen

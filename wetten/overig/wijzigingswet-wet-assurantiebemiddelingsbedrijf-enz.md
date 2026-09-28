@@ -9,7 +9,7 @@ laatste_update: 1995-07-01
 status: geldig
 toestand: 1995-07-01
 bron: "https://wetten.overheid.nl/BWBR0007263"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 1 maart 1995, tot wijziging van de Wet assurantiebemiddelingsbedrijf

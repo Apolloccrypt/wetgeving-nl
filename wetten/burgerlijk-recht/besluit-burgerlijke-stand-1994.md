@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0006493"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 25 februari 1994, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van het bepaalde in Titel 4 van Boek 1 van het Burgerlijk Wetboek, als vastgesteld bij wet van 14 oktober 1993, Stb. 555

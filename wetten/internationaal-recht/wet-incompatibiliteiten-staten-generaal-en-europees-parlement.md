@@ -9,7 +9,7 @@ laatste_update: 2024-12-11
 status: geldig
 toestand: 2024-12-11
 bron: "https://wetten.overheid.nl/BWBR0006612"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 20 april 1994, houdende bepalingen inzake niet gelijktijdig met het lidmaatschap van de Staten-Generaal of van het Europees Parlement uit te oefenen openbare betrekkingen

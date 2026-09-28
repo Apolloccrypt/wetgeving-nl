@@ -9,7 +9,7 @@ laatste_update: 1995-05-15
 status: geldig
 toestand: 1995-05-15
 bron: "https://wetten.overheid.nl/BWBR0006666"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 10 mei 1994, tot uitbreiding van de Wet bodembescherming met een regeling inzake sanering van de bodem

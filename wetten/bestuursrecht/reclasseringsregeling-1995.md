@@ -9,7 +9,7 @@ laatste_update: 2019-06-26
 status: geldig
 toestand: 2019-06-26
 bron: "https://wetten.overheid.nl/BWBR0007120"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 15 december 1994, houdende nieuwe regels inzake de reclassering

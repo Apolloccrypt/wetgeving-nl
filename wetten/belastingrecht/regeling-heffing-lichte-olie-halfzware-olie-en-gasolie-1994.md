@@ -8,7 +8,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBR0006369"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling heffing lichte olie, halfzware olie en gasolie 1994

@@ -9,7 +9,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBR0006213"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 1 november 1993, tot wijziging van een aantal wetten inzake belastingen, alsmede van een aantal andere wetten met het oog op het bevorderen van werknemersparticipaties en winstdelings- en spaarregelingen voor werknemers

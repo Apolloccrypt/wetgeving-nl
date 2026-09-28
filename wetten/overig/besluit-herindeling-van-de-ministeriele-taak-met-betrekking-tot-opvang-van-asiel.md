@@ -9,7 +9,7 @@ laatste_update: 1994-09-16
 status: geldig
 toestand: 1994-09-16
 bron: "https://wetten.overheid.nl/BWBR0006904"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 5 september 1994, houdende de herindeling van de ministeriële taak met betrekking tot de opvang van asielzoekers

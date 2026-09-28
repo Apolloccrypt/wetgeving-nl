@@ -8,7 +8,7 @@ laatste_update: 2004-10-17
 status: geldig
 toestand: 2004-10-17
 bron: "https://wetten.overheid.nl/BWBR0007023"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Warenwetregeling Vrijstelling gekoeld bewaren in kantines en restaurants

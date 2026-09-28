@@ -9,7 +9,7 @@ laatste_update: 1994-07-01
 status: geldig
 toestand: 1994-07-01
 bron: "https://wetten.overheid.nl/BWBR0006465"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 14 februari 1994, houdende wijziging van de Huurprijzenwet woonruimte, de Wet op de huurcommissies en het Burgerlijk Wetboek in verband met de uitbreiding van de huurprijs- en huurbescherming tot overeenkomsten van huur en verhuur van woonwagens en woonwagenstandplaatsen

@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0006684"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 19 mei 1994, tot wijziging van de Algemene pensioenwet politieke ambtsdragers (onder andere ter zake van inhoudingen op het inkomen en gelijke franchise voor de pensioenberekening)

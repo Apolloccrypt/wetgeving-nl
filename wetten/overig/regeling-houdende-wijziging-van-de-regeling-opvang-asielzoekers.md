@@ -8,7 +8,7 @@ laatste_update: 1993-09-02
 status: geldig
 toestand: 1993-09-02
 bron: "https://wetten.overheid.nl/BWBR0006127"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling houdende wijziging van de Regeling opvang asielzoekers

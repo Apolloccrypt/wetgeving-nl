@@ -9,7 +9,7 @@ laatste_update: 1993-12-10
 status: geldig
 toestand: 1993-12-10
 bron: "https://wetten.overheid.nl/BWBR0006280"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Aanwijzing gemeente Enschede als vestigingsplaats casino

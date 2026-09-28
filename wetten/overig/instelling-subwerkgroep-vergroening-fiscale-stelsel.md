@@ -9,7 +9,7 @@ laatste_update: 1995-05-01
 status: geldig
 toestand: 1995-05-01
 bron: "https://wetten.overheid.nl/BWBR0007297"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Instelling subwerkgroep vergroening van het fiscale stelsel van de Werkgroep fiscaal-technische herziening loon- en inkomstenbelasting

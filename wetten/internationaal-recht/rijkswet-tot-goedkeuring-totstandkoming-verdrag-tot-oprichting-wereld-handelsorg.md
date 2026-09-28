@@ -9,7 +9,7 @@ laatste_update: 1994-12-30
 status: geldig
 toestand: 1994-12-30
 bron: "https://wetten.overheid.nl/BWBR0007147"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Rijkswet van 21 december 1994, tot goedkeuring van het op 15 april 1994 te Marrakech tot stand gekomen verdrag tot oprichting van de Wereld Handelsorganisatie, met bijlagen 1, 2 en 3, en van het eveneens op 15 april 1994 te Marrakech tot stand gekomen verdrag inzake overheidsopdrachten, met bijlage

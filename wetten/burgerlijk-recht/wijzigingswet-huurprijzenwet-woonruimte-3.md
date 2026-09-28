@@ -9,7 +9,7 @@ laatste_update: 1994-08-01
 status: geldig
 toestand: 1994-08-01
 bron: "https://wetten.overheid.nl/BWBR0006748"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 16 juni 1994, houdende wijziging van de Huurprijzenwet woonruimte en van de Wet op de huurcommissies

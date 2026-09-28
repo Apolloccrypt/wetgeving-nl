@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0006249"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 11 november 1993, tot wijziging van een aantal wetten met het oog op de uitvoering van de Overeenkomst tussen de EEG, EGKS en hun Lid-Staten enerzijds en de EVA-Staten met uitzondering van Zwitserland anderzijds betreffende de Europese Economische Ruimte

@@ -9,7 +9,7 @@ laatste_update: 1994-01-15
 status: geldig
 toestand: 1994-01-15
 bron: "https://wetten.overheid.nl/BWBR0006315"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 15 december 1993, houdende enkele wijzigingen van het Wetboek van Strafrecht, het Wetboek van Strafvordering en de Beginselenwet gevangeniswezen omtrent de terbeschikkingstelling en de observatie

@@ -9,7 +9,7 @@ laatste_update: 1994-06-15
 status: geldig
 toestand: 1994-06-15
 bron: "https://wetten.overheid.nl/BWBR0006702"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 2 juni 1994, tot uitvoering van artikel 21 van de Bankwet 1948 in verband met het Besluit particuliere participatiemaatschappijen

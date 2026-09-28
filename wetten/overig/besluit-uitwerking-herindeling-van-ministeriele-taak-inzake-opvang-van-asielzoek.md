@@ -9,7 +9,7 @@ laatste_update: 1994-11-01
 status: geldig
 toestand: 1994-11-01
 bron: "https://wetten.overheid.nl/BWBR0007030"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 23 november 1994, houdende de nadere uitwerking herindeling van de ministeriële taak met betrekking tot de opvang van asielzoekers

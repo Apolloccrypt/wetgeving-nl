@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0006847"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 29 juli 1994, houdende regels ter uitvoering van de artikelen 3, eerste en derde lid, 22, tweede lid, en 35 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften

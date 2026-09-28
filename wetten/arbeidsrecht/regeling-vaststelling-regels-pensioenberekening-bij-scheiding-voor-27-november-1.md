@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0007143"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Regeling van 23 december 1994 houdende vaststelling van regels als bedoeld in artikel 10 van de Wet verevening pensioenrechten bij scheiding, betreffende pensioenberekening bij scheiding voor 27 november 1981

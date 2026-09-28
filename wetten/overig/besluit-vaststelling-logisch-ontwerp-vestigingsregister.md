@@ -8,7 +8,7 @@ laatste_update: 1994-10-01
 status: geldig
 toestand: 1994-10-01
 bron: "https://wetten.overheid.nl/BWBR0006928"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit vaststelling Logisch ontwerp Vestigingsregister

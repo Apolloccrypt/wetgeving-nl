@@ -9,7 +9,7 @@ laatste_update: 1994-07-29
 status: geldig
 toestand: 1994-07-29
 bron: "https://wetten.overheid.nl/BWBR0006812"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 8 juli 1994, houdende vaststelling welke wethoudersfuncties voor toepassing van artikel 1638nn van Boek 7A van het Burgerlijk Wetboek als volledig bezoldigd worden aangemerkt

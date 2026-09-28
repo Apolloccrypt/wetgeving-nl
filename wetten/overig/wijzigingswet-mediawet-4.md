@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0007146"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 21 december 1994, houdende wijziging van bepalingen in de Mediawet in verband met een herstructurering van de beheertaken van het Nederlands Omroepproduktie Bedrijf N.V.

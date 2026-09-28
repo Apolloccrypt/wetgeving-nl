@@ -8,7 +8,7 @@ laatste_update: 2014-12-12
 status: geldig
 toestand: 2014-12-12
 bron: "https://wetten.overheid.nl/BWBR0007097"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Regeling verwijderen van voorwerpen

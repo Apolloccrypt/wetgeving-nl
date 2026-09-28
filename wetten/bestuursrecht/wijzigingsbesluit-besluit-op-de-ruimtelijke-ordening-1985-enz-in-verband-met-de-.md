@@ -9,7 +9,7 @@ laatste_update: 1994-07-01
 status: geldig
 toestand: 1994-07-01
 bron: "https://wetten.overheid.nl/BWBR0006651"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 2 mei 1994, houdende aanpassing van enige algemene maatregelen van bestuur in verband met de Kaderwet bestuur in verandering

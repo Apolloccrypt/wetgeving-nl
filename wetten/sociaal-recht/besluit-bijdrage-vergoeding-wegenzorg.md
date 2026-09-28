@@ -9,7 +9,7 @@ laatste_update: 1994-06-22
 status: geldig
 toestand: 1994-06-22
 bron: "https://wetten.overheid.nl/BWBR0006498"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 28 februari 1994, houdende uitvoering van artikel 22, derde lid, juncto artikel 24 van de Wet herverdeling wegenbeheer

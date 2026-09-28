@@ -9,7 +9,7 @@ laatste_update: 1994-02-18
 status: geldig
 toestand: 1994-02-18
 bron: "https://wetten.overheid.nl/BWBR0006452"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 4 februari 1994, tot aanvulling en wijziging van het Wetboek van Strafrecht in verband met onttrekking aan de tenuitvoerlegging van vrijheidsbeneming

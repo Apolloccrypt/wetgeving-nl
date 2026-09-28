@@ -8,7 +8,7 @@ laatste_update: 1994-06-05
 status: geldig
 toestand: 1994-06-05
 bron: "https://wetten.overheid.nl/BWBR0006687"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling aanwijzing gebieden als speciale beschermingszone in kader van EG-Vogelrichtlijn

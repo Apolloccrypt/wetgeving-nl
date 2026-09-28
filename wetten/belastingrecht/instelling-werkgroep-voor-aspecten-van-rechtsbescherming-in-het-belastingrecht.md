@@ -8,7 +8,7 @@ laatste_update: 1996-05-01
 status: geldig
 toestand: 1996-05-01
 bron: "https://wetten.overheid.nl/BWBR0007099"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Instelling Werkgroep voor aspecten van rechtsbescherming in het belastingrecht

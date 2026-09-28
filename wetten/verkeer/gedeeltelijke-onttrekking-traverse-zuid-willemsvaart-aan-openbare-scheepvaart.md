@@ -9,7 +9,7 @@ laatste_update: 1994-10-01
 status: geldig
 toestand: 1994-10-01
 bron: "https://wetten.overheid.nl/BWBR0006892"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Beschikking houdende onttrekking van het gedeelte van de traverse van de Zuid-Willemsvaart door Helmond, tussen de Houtse Parallelbrug en de Aarle-Rixtelsebrug, aan de bestemming voor het openbare scheepvaartverkeer

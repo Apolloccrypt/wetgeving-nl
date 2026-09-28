@@ -9,7 +9,7 @@ laatste_update: 1994-05-01
 status: geldig
 toestand: 1994-05-01
 bron: "https://wetten.overheid.nl/BWBR0006513"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 14 maart 1994, betreffende ontbinding van de Tweede Kamer der Staten-Generaal

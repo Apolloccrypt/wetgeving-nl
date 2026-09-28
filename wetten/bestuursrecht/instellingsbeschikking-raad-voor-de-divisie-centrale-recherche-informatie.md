@@ -8,7 +8,7 @@ laatste_update: 1994-04-01
 status: geldig
 toestand: 1994-04-01
 bron: "https://wetten.overheid.nl/BWBR0006507"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Instellingsbeschikking Raad voor de divisie Centrale Recherche Informatie

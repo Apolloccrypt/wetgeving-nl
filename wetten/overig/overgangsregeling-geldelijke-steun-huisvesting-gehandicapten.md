@@ -8,7 +8,7 @@ laatste_update: 1994-04-01
 status: geldig
 toestand: 1994-04-01
 bron: "https://wetten.overheid.nl/BWBR0006157"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Overgangsregeling geldelijke steun huisvesting gehandicapten

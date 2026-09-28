@@ -9,7 +9,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBR0006231"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 8 november 1993 tot wijziging van het Wetboek van Strafvordering, de Wegenverkeerswet en de Wet op de economische delicten in verband met herziening van de raadkamerprocedure

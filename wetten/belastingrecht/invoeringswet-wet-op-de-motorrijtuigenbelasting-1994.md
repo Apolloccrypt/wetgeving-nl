@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0007310"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 30 maart 1995, houdende inwerkingtreding van en aanpassing van wetgeving aan de Wet op de motorrijtuigenbelasting 1994

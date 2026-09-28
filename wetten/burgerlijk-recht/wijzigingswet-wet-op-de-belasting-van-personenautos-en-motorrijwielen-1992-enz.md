@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0007166"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 23 december 1994, houdende overgangsregeling voor de heffing van motorrijtuigenbelasting inzake motorrijtuigen met een tenaamstelling van het kentekenbewijs van voor het kalenderjaar 1988, en vervanging van het wisseldisconto van De Nederlandsche Bank N.V. door de voorschotrente van De Nederlandsche Bank N.V. in de Wet op de accijns en de Wet op de belasting van personenauto's en motorrijwielen 1992

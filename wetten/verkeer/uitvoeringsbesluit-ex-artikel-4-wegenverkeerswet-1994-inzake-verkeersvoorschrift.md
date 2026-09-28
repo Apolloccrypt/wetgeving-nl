@@ -9,7 +9,7 @@ laatste_update: 2009-08-01
 status: geldig
 toestand: 2009-08-01
 bron: "https://wetten.overheid.nl/BWBR0007127"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 15 december 1994, houdende uitvoering van artikel 4, eerste lid, van de Wegenverkeerswet 1994 inzake verkeersvoorschriften voor het militaire verkeer in gewone omstandigheden

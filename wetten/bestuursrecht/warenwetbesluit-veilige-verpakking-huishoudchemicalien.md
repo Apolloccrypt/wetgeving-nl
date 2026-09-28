@@ -9,7 +9,7 @@ laatste_update: 2014-11-14
 status: geldig
 toestand: 2014-11-14
 bron: "https://wetten.overheid.nl/BWBR0006448"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 4 februari 1994, houdende een algemene maatregel van bestuur tot regeling inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten

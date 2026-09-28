@@ -8,7 +8,7 @@ laatste_update: 1993-11-05
 status: geldig
 toestand: 1993-11-05
 bron: "https://wetten.overheid.nl/BWBR0006209"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Bevoegdheidsverlening aan besturen I.O.A. en P.O.A.

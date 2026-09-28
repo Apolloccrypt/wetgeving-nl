@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0007144"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Vaststelling van regels als bedoeld in artikel 10 van de Wet verevening pensioenrechten bij scheiding, betreffende pensioenberekening over deelnemingsjaren voor 1 mei 1995

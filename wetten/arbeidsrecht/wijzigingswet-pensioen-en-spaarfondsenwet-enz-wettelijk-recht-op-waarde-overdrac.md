@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0006782"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 30 juni 1994, tot wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten (wettelijk recht op waarde-overdracht en enige andere maatregelen op het aanvullende pensioenterrein)

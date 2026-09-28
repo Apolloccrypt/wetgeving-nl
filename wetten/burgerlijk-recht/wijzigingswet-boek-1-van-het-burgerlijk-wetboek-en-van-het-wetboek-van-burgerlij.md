@@ -9,7 +9,7 @@ laatste_update: 1994-03-01
 status: geldig
 toestand: 1994-03-01
 bron: "https://wetten.overheid.nl/BWBR0006164"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 30 september 1993, tot wijziging van Boek 1 van het Burgerlijk Wetboek en van het Wetboek van Burgerlijke Rechtsvordering in verband met de advisering over en inning van kinderalimentaties

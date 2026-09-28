@@ -8,7 +8,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0007137"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Regeling olie-afgifteboekje Rijnvaart 1995

@@ -9,7 +9,7 @@ laatste_update: 1995-09-01
 status: geldig
 toestand: 1995-09-01
 bron: "https://wetten.overheid.nl/BWBR0006797"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 7 juli 1994, tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en andere wetten in verband met de herziening van het strafrecht voor jeugdigen

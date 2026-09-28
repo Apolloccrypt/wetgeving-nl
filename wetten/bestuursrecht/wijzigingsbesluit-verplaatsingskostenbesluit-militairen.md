@@ -9,7 +9,7 @@ laatste_update: 1994-07-08
 status: geldig
 toestand: 1994-07-08
 bron: "https://wetten.overheid.nl/BWBR0006716"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 7 juni 1994, tot intrekking van enige tegemoetkomingen, wijziging van het vakantieverlof van dienstplichtigen en houdende een ontberingstoelage alsmede een uitbreiding van de tegemoetkoming in reiskosten

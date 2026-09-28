@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0006613"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling diensttijd in verband met ambtsjubilea

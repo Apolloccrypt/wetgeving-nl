@@ -8,7 +8,7 @@ laatste_update: 1994-09-03
 status: geldig
 toestand: 1994-09-03
 bron: "https://wetten.overheid.nl/BWBR0006795"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling tot vaststelling op grond van welke opleidingen van het Instituut voor Sociale Studiën (ISS) toegang tot promotie

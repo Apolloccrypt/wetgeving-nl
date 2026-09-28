@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0006526"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 18 maart 1994, houdende regels inzake de erkenning van en de verstrekking van subsidies aan particuliere participatiemaatschappijen

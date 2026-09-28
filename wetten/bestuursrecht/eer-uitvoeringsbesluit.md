@@ -9,7 +9,7 @@ laatste_update: 1994-01-01
 status: geldig
 toestand: 1994-01-01
 bron: "https://wetten.overheid.nl/BWBR0006377"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 24 december 1993, houdende wijziging van een aantal algemene maatregelen van bestuur met het oog op de uitvoering van de op 2 mei 1992 te Oporto tot stand gekomen Overeenkomst tussen de EEG, de EGKS en hun Lid-Staten enerzijds en de EVA-Staten met uitzondering van Zwitserland anderzijds betreffende de Europese Economische Ruimte (EER-Uitvoeringsbesluit)

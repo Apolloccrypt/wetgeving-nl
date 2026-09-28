@@ -9,7 +9,7 @@ laatste_update: 1995-05-12
 status: geldig
 toestand: 1995-05-12
 bron: "https://wetten.overheid.nl/BWBR0007285"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 16 maart 1995, houdende gemeentelijke indeling van het tot de provincie Flevoland behorende zuidelijke deel van het IJsselmeer en opheffing van het openbaar lichaam Zuidelijke IJsselmeerpolders

@@ -8,7 +8,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0006718"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit houdende algemene voorwaarden voor omwisseling van Staatsobligaties in strips en vice versa

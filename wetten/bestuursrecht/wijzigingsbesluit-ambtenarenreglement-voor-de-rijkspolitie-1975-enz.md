@@ -9,7 +9,7 @@ laatste_update: 1994-07-15
 status: geldig
 toestand: 1994-07-15
 bron: "https://wetten.overheid.nl/BWBR0006768"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 24 juni 1994, houdende 1e. wijziging van het Ambtenarenreglement voor de rijkspolitie 1975, het Ambtenarenreglement voor de gemeentepolitie 1958 en het Bezoldigingsreglement politie 1958 in verband met onder meer de flexibilisering van het ouderschapsverlof en de invoering van een ambtsjubileumgratificatie bij 12½-jarig dienstverband, alsmede de verlenging van de duur van het zwangerschaps- en bevallingsverlof; 2e. wijziging van de Premiespaarregeling Rijksambtenaren 1968; 3e. toekenning van een eenmalige uitkering in 1992 aan politieambtenaren

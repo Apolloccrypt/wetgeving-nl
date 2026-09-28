@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0007292"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 23 maart 1995, houdende regeling van de organisatie belast met de inning van onderhoudsbijdragen voor kinderen en met de vaststelling en inning van ouderbijdragen voor jeugdhulpverlening

@@ -8,7 +8,7 @@ laatste_update: 1994-10-01
 status: geldig
 toestand: 1994-10-01
 bron: "https://wetten.overheid.nl/BWBR0006894"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Verlening bevoegdheid aan SAIP tot toepassing samenloopregelingen

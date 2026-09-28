@@ -8,7 +8,7 @@ laatste_update: 1994-09-01
 status: geldig
 toestand: 1994-09-01
 bron: "https://wetten.overheid.nl/BWBR0006861"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Beschikking standplaatsen en ambtsgebieden van de secretariaten van de huurcommissies

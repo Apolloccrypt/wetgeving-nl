@@ -9,7 +9,7 @@ laatste_update: 1994-05-14
 status: geldig
 toestand: 1994-05-14
 bron: "https://wetten.overheid.nl/BWBR0006546"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Rijkswet van 25 maart 1994, houdende bepalingen inzake de beëdiging van de regent

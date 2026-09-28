@@ -9,7 +9,7 @@ laatste_update: 1994-07-31
 status: geldig
 toestand: 1994-07-31
 bron: "https://wetten.overheid.nl/BWBR0006834"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling van 22 juli 1994/nr. DVMA/OA-9411086 houdende regels hoogte eenmalige uitkering bij vestiging van een opvangcentrum

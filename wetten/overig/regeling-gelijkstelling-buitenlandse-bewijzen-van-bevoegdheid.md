@@ -9,7 +9,7 @@ laatste_update: 2014-03-15
 status: geldig
 toestand: 2014-03-15
 bron: "https://wetten.overheid.nl/BWBR0006099"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling Gelijkstelling buitenlandse bewijzen van bevoegdheid

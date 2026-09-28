@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0007122"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 15 december 1994, tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de artikelen 175, zesde lid, van Boek 6, en 620, onderdeel a, 1030, onderdeel a, 1210, onderdeel a, 1218, 1670, onderdeel a, en 1678 van Boek 8 van het Burgerlijk Wetboek, alsmede tot wijziging van het Besluit van 19 februari 1990 ter uitvoering van artikel 951f van het Wetboek van Koophandel

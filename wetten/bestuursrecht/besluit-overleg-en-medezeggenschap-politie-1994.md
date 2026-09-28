@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0006518"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 16 maart 1994, houdende vaststelling van regels over het overleg over politie-ambtenarenzaken en over de medezeggenschap bij de politie

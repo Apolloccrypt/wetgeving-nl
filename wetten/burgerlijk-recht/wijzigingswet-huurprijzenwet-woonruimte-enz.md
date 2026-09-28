@@ -9,7 +9,7 @@ laatste_update: 1998-12-04
 status: geldig
 toestand: 1998-12-04
 bron: "https://wetten.overheid.nl/BWBR0006464"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 14 februari 1994, houdende wijziging van de Huurprijzenwet woonruimte in verband met de decentralisatie van de subsidiëring van de volkshuisvesting en de liberalisatie van huurprijzen van duurdere woningen

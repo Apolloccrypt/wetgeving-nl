@@ -8,7 +8,7 @@ laatste_update: 1994-04-30
 status: geldig
 toestand: 1994-04-30
 bron: "https://wetten.overheid.nl/BWBR0006649"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Overdracht pensioenkapitaal – waarde-overdracht pensioenrechten bij het 4%-circuit/pensioenbreuk

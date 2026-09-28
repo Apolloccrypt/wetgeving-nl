@@ -8,7 +8,7 @@ laatste_update: 1994-10-20
 status: geldig
 toestand: 1994-10-20
 bron: "https://wetten.overheid.nl/BWBR0006954"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Instelling Commissie Betuweroute

@@ -9,7 +9,7 @@ laatste_update: 1998-12-01
 status: geldig
 toestand: 1998-12-01
 bron: "https://wetten.overheid.nl/BWBR0007218"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 26 januari 1995, tot vaststelling en invoering van titel 15 (Het luchtvaartuig) van Boek 8 van het Burgerlijk Wetboek

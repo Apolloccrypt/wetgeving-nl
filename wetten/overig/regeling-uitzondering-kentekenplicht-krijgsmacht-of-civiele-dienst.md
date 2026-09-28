@@ -8,7 +8,7 @@ laatste_update: 2004-12-30
 status: geldig
 toestand: 2004-12-30
 bron: "https://wetten.overheid.nl/BWBR0007056"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Regeling uitzondering kentekenplicht krijgsmacht of civiele dienst

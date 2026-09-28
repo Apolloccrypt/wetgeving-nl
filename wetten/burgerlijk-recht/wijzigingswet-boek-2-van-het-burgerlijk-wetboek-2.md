@@ -9,7 +9,7 @@ laatste_update: 1993-10-15
 status: geldig
 toestand: 1993-10-15
 bron: "https://wetten.overheid.nl/BWBR0006146"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 16 september 1993, tot vaststelling van bepalingen voor de jaarrekening van verzekeringsmaatschappijen

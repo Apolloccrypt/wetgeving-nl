@@ -9,7 +9,7 @@ laatste_update: 2024-03-30
 status: geldig
 toestand: 2024-03-30
 bron: "https://wetten.overheid.nl/BWBR0006728"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 10 juni 1994, houdende regels inzake de taken die de commissaris van de Koning op grond van artikel 126 Grondwet als rijksorgaan vervult

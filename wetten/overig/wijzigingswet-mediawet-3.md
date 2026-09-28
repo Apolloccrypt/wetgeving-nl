@@ -9,7 +9,7 @@ laatste_update: 1994-12-30
 status: geldig
 toestand: 1994-12-30
 bron: "https://wetten.overheid.nl/BWBR0007177"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 23 december 1994, houdende wijziging van bepalingen van de Mediawet in verband met het beperken van de duur waarvoor concessies voor omroepverenigingen, zendtijdtoewijzingen voor kerkgenootschappen en genootschappen op geestelijke grondslag en toestemmingen voor commerciele omroepinstellingen kunnen worden verleend, tot een periode van vijf jaren

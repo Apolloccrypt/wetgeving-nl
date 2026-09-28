@@ -9,7 +9,7 @@ laatste_update: 2016-10-07
 status: geldig
 toestand: 2016-10-07
 bron: "https://wetten.overheid.nl/BWBR0007246"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 20 februari 1995, houdende regels ter uitvoering van de Rijksoctrooiwet 1995

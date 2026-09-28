@@ -9,7 +9,7 @@ laatste_update: 1994-07-01
 status: geldig
 toestand: 1994-07-01
 bron: "https://wetten.overheid.nl/BWBR0006621"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 21 april 1994, houdende wijziging van de Wet gemeenschappelijke regelingen in verband met aanpassing en uitbreiding van de bepalingen inzake verplichte samenwerking

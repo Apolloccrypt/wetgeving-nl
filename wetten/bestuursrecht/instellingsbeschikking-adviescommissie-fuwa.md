@@ -8,7 +8,7 @@ laatste_update: 2003-11-21
 status: geldig
 toestand: 2003-11-21
 bron: "https://wetten.overheid.nl/BWBR0006856"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Instellingsbeschikking Adviescommissie Fuwa

@@ -9,7 +9,7 @@ laatste_update: 1994-08-31
 status: geldig
 toestand: 1994-08-31
 bron: "https://wetten.overheid.nl/BWBR0006886"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling houdende vasstelling van bepaalde soorten van vervoer welke zijn uitgezonderd van de in artikel 16 Luchtvaartwet vervatte verplichting

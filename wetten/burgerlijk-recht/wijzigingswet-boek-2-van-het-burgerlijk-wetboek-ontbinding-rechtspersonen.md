@@ -9,7 +9,7 @@ laatste_update: 1994-09-01
 status: geldig
 toestand: 1994-09-01
 bron: "https://wetten.overheid.nl/BWBR0006778"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 29 juni 1994, tot invoering van de mogelijkheid van ontbinding van rechtspersonen door de Kamer van Koophandel en Fabrieken, vervanging in een aantal artikelen van Boek 2 Burgerlijk Wetboek van beroep op de Kroon door beroep op het College van Beroep voor het bedrijfsleven, alsmede enige andere wijzigingen van Boek 2 van het Burgerlijk Wetboek

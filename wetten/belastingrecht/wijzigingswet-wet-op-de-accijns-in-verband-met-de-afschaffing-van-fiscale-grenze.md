@@ -9,7 +9,7 @@ laatste_update: 1994-02-23
 status: geldig
 toestand: 1994-02-23
 bron: "https://wetten.overheid.nl/BWBR0006455"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 4 februari 1994, tot wijziging van de Wet op de accijns en van enkele andere wetten in verband met de afschaffing van de fiscale grenzen

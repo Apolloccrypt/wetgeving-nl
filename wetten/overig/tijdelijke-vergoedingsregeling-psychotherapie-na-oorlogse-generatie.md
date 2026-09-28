@@ -8,7 +8,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0006957"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie

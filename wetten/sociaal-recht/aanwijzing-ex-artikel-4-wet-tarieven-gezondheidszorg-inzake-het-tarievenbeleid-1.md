@@ -8,7 +8,7 @@ laatste_update: 1993-11-21
 status: geldig
 toestand: 1993-11-21
 bron: "https://wetten.overheid.nl/BWBR0006246"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Aanwijzing ex artikel 4 Wet tarieven gezondheidszorg inzake het tarievenbeleid 1994 voor de medisch specialisten

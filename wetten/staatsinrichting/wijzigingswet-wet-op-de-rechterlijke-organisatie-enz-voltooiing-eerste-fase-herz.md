@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0006328"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 16 december 1993, tot wijziging van de Wet op de rechterlijke organisatie, de Algemene wet bestuursrecht, de Wet op de Raad van State, de Beroepswet, de Ambtenarenwet 1929 en andere wetten, alsmede intrekking van de Wet administratieve rechtspraak overheidsbeschikkingen

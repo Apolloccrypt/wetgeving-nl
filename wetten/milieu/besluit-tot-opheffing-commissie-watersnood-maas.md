@@ -8,7 +8,7 @@ laatste_update: 1995-01-23
 status: geldig
 toestand: 1995-01-23
 bron: "https://wetten.overheid.nl/BWBR0007203"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Besluit tot opheffing Commissie Watersnood Maas

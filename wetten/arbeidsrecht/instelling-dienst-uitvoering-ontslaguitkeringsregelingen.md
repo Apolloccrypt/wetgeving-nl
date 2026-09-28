@@ -8,7 +8,7 @@ laatste_update: 1995-01-21
 status: geldig
 toestand: 1995-01-21
 bron: "https://wetten.overheid.nl/BWBR0007191"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Instelling Dienst Uitvoering Ontslaguitkeringsregelingen

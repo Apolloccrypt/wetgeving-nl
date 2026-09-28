@@ -8,7 +8,7 @@ laatste_update: 1994-07-01
 status: geldig
 toestand: 1994-07-01
 bron: "https://wetten.overheid.nl/BWBR0006681"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling uniformkleding en onderscheidingstekenen rijksbrandweerpersoneel

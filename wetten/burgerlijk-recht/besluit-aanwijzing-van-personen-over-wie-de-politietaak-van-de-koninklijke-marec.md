@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0006629"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 25 april 1994, houdende aanwijzing van de personen, bedoeld in artikel 6, tweede lid, van de Politiewet 1993, over wie de politietaak van de Koninklijke marechaussee zich mede uitstrekt

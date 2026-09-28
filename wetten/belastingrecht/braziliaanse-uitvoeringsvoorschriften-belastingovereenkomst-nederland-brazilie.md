@@ -9,7 +9,7 @@ laatste_update: 1995-03-16
 status: geldig
 toestand: 1995-03-16
 bron: "https://wetten.overheid.nl/BWBR0007278"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Braziliaanse voorschriften tot uitvoering van de op 8 maart 1990 tussen Nederland en Brazilië gesloten Overeenkomst tot het vermijden van dubbele belasting

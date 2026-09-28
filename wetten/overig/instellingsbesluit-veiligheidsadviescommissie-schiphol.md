@@ -8,7 +8,7 @@ laatste_update: 1995-03-02
 status: geldig
 toestand: 1995-03-02
 bron: "https://wetten.overheid.nl/BWBR0007251"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Instellingsbesluit veiligheidsadviescommissie Schiphol

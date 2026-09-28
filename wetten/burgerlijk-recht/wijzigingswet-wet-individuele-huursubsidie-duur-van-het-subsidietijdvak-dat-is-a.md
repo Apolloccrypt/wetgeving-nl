@@ -9,7 +9,7 @@ laatste_update: 1995-03-01
 status: geldig
 toestand: 1995-03-01
 bron: "https://wetten.overheid.nl/BWBR0007244"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 20 februari 1995, tot wijziging van de Wet individuele huursubsidie voor de duur van het subsidietijdvak dat is aangevangen op 1 juli 1994 en loopt tot en met 30 juni 1995

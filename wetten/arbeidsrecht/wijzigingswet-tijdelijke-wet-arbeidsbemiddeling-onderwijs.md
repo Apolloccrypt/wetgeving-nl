@@ -9,7 +9,7 @@ laatste_update: 1994-11-23
 status: geldig
 toestand: 1994-11-23
 bron: "https://wetten.overheid.nl/BWBR0007002"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 2 november 1994, houdende wijziging van de Tijdelijke wet arbeidsbemiddeling onderwijs in verband met vergroting van het aantal voor benoeming in aanmerking komende wachtgelders, het doorschuiven van vacatures en verruiming van de omstandigheden waaronder een bevoegd gezag zonder toepassing van de wet een vervangende leerkracht kan benoemen

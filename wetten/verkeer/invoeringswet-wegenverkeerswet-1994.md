@@ -9,7 +9,7 @@ laatste_update: 2009-05-01
 status: geldig
 toestand: 2009-05-01
 bron: "https://wetten.overheid.nl/BWBR0007022"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 17 november 1994, houdende regeling van de inwerkingtreding van de Wegenverkeerswet 1994

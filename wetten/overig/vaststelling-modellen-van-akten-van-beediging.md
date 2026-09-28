@@ -8,7 +8,7 @@ laatste_update: 1995-10-06
 status: geldig
 toestand: 1995-10-06
 bron: "https://wetten.overheid.nl/BWBR0007069"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Vaststelling modellen van akten van beëdiging

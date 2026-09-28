@@ -9,7 +9,7 @@ laatste_update: 1994-03-02
 status: geldig
 toestand: 1994-03-02
 bron: "https://wetten.overheid.nl/BWBR0006462"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Rijkswet van 14 februari 1994, houdende goedkeuring van het op 18 juni 1992 te 's-Gravenhage tot stand gekomen Raamverdrag inzake vriendschap en nauwere samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname

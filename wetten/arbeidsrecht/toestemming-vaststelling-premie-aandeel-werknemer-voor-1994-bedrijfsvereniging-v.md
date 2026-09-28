@@ -8,7 +8,7 @@ laatste_update: 1994-04-01
 status: geldig
 toestand: 1994-04-01
 bron: "https://wetten.overheid.nl/BWBR0006436"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Toestemming vaststelling premie-aandeel werknemer voor 1994 (Bedrijfsvereniging voor de Bouwnijverheid)

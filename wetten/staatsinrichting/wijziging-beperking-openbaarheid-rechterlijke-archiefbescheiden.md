@@ -8,7 +8,7 @@ laatste_update: 1995-03-29
 status: geldig
 toestand: 1995-03-29
 bron: "https://wetten.overheid.nl/BWBR0007065"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wijziging beperking openbaarheid rechterlijke archiefbescheiden

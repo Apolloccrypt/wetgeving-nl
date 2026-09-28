@@ -9,7 +9,7 @@ laatste_update: 2005-03-01
 status: geldig
 toestand: 2005-03-01
 bron: "https://wetten.overheid.nl/BWBR0007003"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 2 november 1994, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en enkele andere wetten, houdende verbeteringen en aanvullingen van overwegend technische aard

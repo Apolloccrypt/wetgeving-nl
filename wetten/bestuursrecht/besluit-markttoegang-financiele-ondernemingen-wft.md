@@ -9,7 +9,7 @@ laatste_update: 2026-09-22
 status: geldig
 toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0020413"
-opgehaald: 2026-09-27
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 12 oktober 2006, houdende regels ter uitvoering van de Wet op het financieel toezicht met betrekking tot de reikwijdte en toegang tot de financiële markten (Besluit Markttoegang financiële ondernemingen Wft)

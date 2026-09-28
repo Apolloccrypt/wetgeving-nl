@@ -8,7 +8,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0006486"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling uitzondering toepassingstermijn anticumulatie arbeidsongeschiktheidswetten

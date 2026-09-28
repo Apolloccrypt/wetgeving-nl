@@ -8,7 +8,7 @@ laatste_update: 1994-07-21
 status: geldig
 toestand: 1994-07-21
 bron: "https://wetten.overheid.nl/BWBR0006833"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Kwalificerend aandeel in open commanditaire vennootschap

@@ -9,7 +9,7 @@ laatste_update: 2021-07-10
 status: geldig
 toestand: 2021-07-10
 bron: "https://wetten.overheid.nl/BWBR0006641"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 28 april 1994, tot vaststelling van regels met betrekking tot de verevening van pensioenrechten bij echtscheiding of scheiding van tafel en bed (Wet verevening pensioenrechten bij scheiding) en daarmede verband houdende wijzigingen in andere wetten

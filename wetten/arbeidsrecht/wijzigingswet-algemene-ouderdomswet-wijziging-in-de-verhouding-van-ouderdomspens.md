@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0006200"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 23 oktober 1993, tot wijziging van de Algemene Ouderdomswet (wijziging in de verhouding van ouderdomspensioen en toeslag)

@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0007172"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 23 december 1994, houdende wijziging van de Wet op de loonbelasting 1964, de Wet op de vermogensbelasting 1964, de Successiewet 1956, de Wet op de inkomstenbelasting 1964, de Wet op de vennootschapsbelasting 1969, de Invorderingswet 1990 en de Coördinatiewet Sociale Verzekering naar aanleiding van de herziening van het fiscale regime voor onderhoudsvoorzieningen en bepaalde spaarvormen in de inkomstenbelasting (Aanpassing van de Wet op de loonbelasting 1964 en andere wetten aan Brede Herwaardering)

@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0006967"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 13 oktober 1994, houdende uitbreiding en wijziging van wettelijke regelingen inzake externe advisering op het terrein van volkshuisvesting, ruimtelijke ordening en milieubeheer (Versobering en harmonisatie externe adviesorganen VROM)

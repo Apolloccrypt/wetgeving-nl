@@ -9,7 +9,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0007173"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 23 december 1994, tot wijziging van de Wet op de loonbelasting 1964 en van een aantal andere wetten houdende aanpassing van het regime voor werknemersspaarregelingen

@@ -9,7 +9,7 @@ laatste_update: 1994-01-21
 status: geldig
 toestand: 1994-01-21
 bron: "https://wetten.overheid.nl/BWBR0006411"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 12 januari 1994, houdende wijziging van enkele algemene maatregelen van bestuur in verband met de voltooiing van de eerste fase van de herziening van de rechterlijke organisatie en de wijziging van de rechterlijke indeling

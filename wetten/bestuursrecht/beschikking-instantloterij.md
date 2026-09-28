@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0006381"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Beschikking houdende voorschriften inzake het organiseren van de instantloterij

@@ -8,7 +8,7 @@ laatste_update: 1995-03-01
 status: geldig
 toestand: 1995-03-01
 bron: "https://wetten.overheid.nl/BWBR0007252"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Aanwijzing gemeente Haarlemmermeer als vestigingsplaats casino

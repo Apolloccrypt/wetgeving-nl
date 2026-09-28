@@ -8,7 +8,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0006853"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling maaltijdvergoeding bij overwerk politie

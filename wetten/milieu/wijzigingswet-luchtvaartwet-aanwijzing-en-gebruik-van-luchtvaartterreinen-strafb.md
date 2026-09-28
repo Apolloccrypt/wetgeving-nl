@@ -9,7 +9,7 @@ laatste_update: 1994-08-17
 status: geldig
 toestand: 1994-08-17
 bron: "https://wetten.overheid.nl/BWBR0006809"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 7 juli 1994, houdende wijziging van de Luchtvaartwet (aanwijzing en gebruik van luchtvaartterreinen, strafbepalingen en dwangsomregeling)

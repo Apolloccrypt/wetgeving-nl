@@ -9,7 +9,7 @@ laatste_update: 1994-01-19
 status: geldig
 toestand: 1994-01-19
 bron: "https://wetten.overheid.nl/BWBR0006347"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 22 december 1993 tot wijziging van de Wet op de Ruimtelijke Ordening

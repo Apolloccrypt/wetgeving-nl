@@ -9,7 +9,7 @@ laatste_update: 2002-06-12
 status: geldig
 toestand: 2002-06-12
 bron: "https://wetten.overheid.nl/BWBR0006667"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 10 mei 1994, houdende regeling inzake de adeldom

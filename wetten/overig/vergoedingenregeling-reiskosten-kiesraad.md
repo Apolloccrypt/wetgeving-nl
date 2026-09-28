@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-06-17
 toestand: 1994-10-27
 bron: "https://wetten.overheid.nl/BWBR0006938"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Vergoedingenregeling reiskosten Kiesraad

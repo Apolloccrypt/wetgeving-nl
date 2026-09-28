@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0006968"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-28
 ---
 
 # Wet van 13 oktober 1994, houdende regels omtrent de vrijwillige verplaatsing naar het buitenland van de statutaire zetel van naamloze vennootschappen, besloten vennootschappen, coöperaties, onderlinge waarborgmaatschappijen en stichtingen in tijden van nood

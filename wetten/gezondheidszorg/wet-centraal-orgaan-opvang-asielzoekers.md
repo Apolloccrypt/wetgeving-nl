@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0006685"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 19 mei 1994, houdende regels betreffende de instelling van een zelfstandig bestuursorgaan, belast met de materiële en immateriële opvang van asielzoekers

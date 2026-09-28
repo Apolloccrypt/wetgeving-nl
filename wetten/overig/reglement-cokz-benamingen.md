@@ -9,7 +9,7 @@ laatste_update: 1995-01-23
 status: geldig
 toestand: 1995-01-23
 bron: "https://wetten.overheid.nl/BWBR0006916"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Gelet op artikel 10, derde lid, van de Landbouwkwaliteitswet maakt de Minister van Landbouw, Natuurbeheer en Visserij bekend het hierna opgenomen Reglement COKZ-benamingen van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel, goedgekeurd door de Staatssecretaris van Landbouw, Natuurbeheer en Visserij bij besluit van 15 augustus 1994, Nr. J. 9412308.

@@ -9,7 +9,7 @@ laatste_update: 1994-07-01
 status: geldig
 toestand: 1994-07-01
 bron: "https://wetten.overheid.nl/BWBR0006747"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Wet van 16 juni 1994, tot voortzetting van de tijdelijke verhoging van op grond van de Wet individuele huursubsidie toe te kennen bijdragen

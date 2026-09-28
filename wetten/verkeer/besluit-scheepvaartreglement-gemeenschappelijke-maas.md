@@ -9,7 +9,7 @@ laatste_update: 1994-05-01
 status: geldig
 toestand: 1994-05-01
 bron: "https://wetten.overheid.nl/BWBR0006619"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 21 april 1994, houdende het van kracht verklaren voor de gemeenschappelijke Maas in Nederland van het Scheepvaartreglement Gemeenschappelijke Maas

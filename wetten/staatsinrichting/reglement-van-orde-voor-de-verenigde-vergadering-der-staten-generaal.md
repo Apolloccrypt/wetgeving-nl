@@ -9,7 +9,7 @@ laatste_update: 1994-03-22
 status: geldig
 toestand: 1994-03-22
 bron: "https://wetten.overheid.nl/BWBR0006793"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Regeling van 7 juli 1994

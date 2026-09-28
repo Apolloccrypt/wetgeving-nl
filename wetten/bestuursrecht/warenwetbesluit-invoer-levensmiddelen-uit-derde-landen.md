@@ -9,7 +9,7 @@ laatste_update: 2019-12-14
 status: geldig
 toestand: 2019-12-14
 bron: "https://wetten.overheid.nl/BWBR0006310"
-opgehaald: 2026-08-01
+opgehaald: 2026-09-28
 ---
 
 # Besluit van 13 december 1993, houdende vaststelling van het Warenwetbesluit Invoer levensmiddelen uit derde landen
