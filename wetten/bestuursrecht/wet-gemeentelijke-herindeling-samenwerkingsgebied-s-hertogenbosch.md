@@ -9,7 +9,7 @@ laatste_update: 1995-09-15
 status: geldig
 toestand: 1995-09-15
 bron: "https://wetten.overheid.nl/BWBR0007550"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 13 september 1995, tot gemeentelijke herindeling in het samenwerkingsgebied 's-Hertogenbosch

@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0007499"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 1 augustus 1995, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in de artikelen 3, derde lid, en 4, tweede lid, van de Wet op het bevolkingsonderzoek

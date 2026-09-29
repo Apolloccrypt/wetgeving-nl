@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0007978"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 29 maart 1996 tot wijziging van de Wegenverkeerswet 1994, houdende regeling van de verzelfstandiging van de Rijksdienst voor het Wegverkeer

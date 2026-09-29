@@ -9,7 +9,7 @@ laatste_update: 2008-03-26
 status: geldig
 toestand: 2008-03-26
 bron: "https://wetten.overheid.nl/BWBR0008122"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 20 juni 1996, houdende wijziging van de Auteurswet 1912 en de Wet op de naburige rechten in verband met richtlijn nr. 93/83/EEG van de Raad van de Europese Gemeenschappen van 27 september 1993 tot coördinatie van bepaalde voorschriften betreffende het auteursrecht en naburige rechten op het gebied van de satellietomroep en de doorgifte via de kabel (PbEG L 248)

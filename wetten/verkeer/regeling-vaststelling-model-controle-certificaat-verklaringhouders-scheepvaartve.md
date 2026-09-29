@@ -8,7 +8,7 @@ laatste_update: 1995-10-01
 status: geldig
 toestand: 1995-10-01
 bron: "https://wetten.overheid.nl/BWBR0007553"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling vaststelling model controle-certificaat verklaringhouders Scheepvaartverkeerswet

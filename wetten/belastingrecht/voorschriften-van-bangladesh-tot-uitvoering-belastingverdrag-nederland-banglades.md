@@ -9,7 +9,7 @@ laatste_update: 1995-08-01
 status: geldig
 toestand: 1995-08-01
 bron: "https://wetten.overheid.nl/BWBR0007426"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Voorschriften van Bangladesh tot uitvoering van het op 13 juli 1993 tussen Nederland en Bangladesh gesloten Verdrag tot het vermijden van dubbele belasting

@@ -9,7 +9,7 @@ laatste_update: 1995-07-01
 status: geldig
 toestand: 1995-07-01
 bron: "https://wetten.overheid.nl/BWBR0007418"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 31 mei 1995, houdende wijziging van de Wet individuele huursubsidie en wijziging van de wet van 21 juni 1989 tot aanpassing van de Wet individuele huursubsidie naar aanleiding van de voorstellen van de commissie tot vereenvoudiging van de loonbelasting en de inkomstenbelasting

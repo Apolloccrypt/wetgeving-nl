@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0007792"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 21 december 1995, tot vaststelling van een kader voor regeling van rechten en verplichtingen van overheidspersoneel, onderwijspersoneel en daarmee gelijk te stellen personeel ter zake van vrijwillig vervroegd uittreden

@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0007886"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 31 januari 1996, houdende regels betreffende de financiële verstrekkingen ten laste van de begroting van het Ministerie van Financiën

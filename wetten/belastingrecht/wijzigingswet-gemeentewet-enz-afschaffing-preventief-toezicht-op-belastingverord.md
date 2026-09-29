@@ -9,7 +9,7 @@ laatste_update: 1996-07-01
 status: geldig
 toestand: 1996-07-01
 bron: "https://wetten.overheid.nl/BWBR0007894"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 8 februari 1996 tot afschaffing van het preventieve toezicht op belastingverordeningen van gemeenten, provincies en waterschappen

@@ -8,7 +8,7 @@ laatste_update: 1997-01-01
 status: geldig
 toestand: 1997-01-01
 bron: "https://wetten.overheid.nl/BWBR0008282"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Herziening beloningsbeleid sector Rijk per 1-1-1997

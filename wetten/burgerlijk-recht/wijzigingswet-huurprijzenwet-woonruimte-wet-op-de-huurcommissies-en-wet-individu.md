@@ -9,7 +9,7 @@ laatste_update: 2000-07-01
 status: geldig
 toestand: 2000-07-01
 bron: "https://wetten.overheid.nl/BWBR0008111"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 19 juni 1996 tot wijziging van de Huurprijzenwet woonruimte, de Wet op de huurcommissies en de Wet individuele huursubsidie in verband met de zogenaamde huursombenadering

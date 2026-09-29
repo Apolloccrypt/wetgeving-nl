@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0007823"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 27 december 1995, houdende vaststelling van een algemene maatregel van bestuur tot uitvoering van de artikelen 117, eerste tot en met derde lid, en 118 van het Wetboek van Strafvordering betreffende de bewaring van inbeslaggenomen voorwerpen

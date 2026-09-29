@@ -9,7 +9,7 @@ laatste_update: 1995-07-28
 status: geldig
 toestand: 1995-07-28
 bron: "https://wetten.overheid.nl/BWBR0007435"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 8 juni 1995, houdende samenvoeging van de gemeenten Cothen, Langbroek en Wijk bij Duurstede

@@ -8,7 +8,7 @@ laatste_update: 1995-10-11
 status: geldig
 toestand: 1995-10-11
 bron: "https://wetten.overheid.nl/BWBR0007592"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Saneringsregeling Wet bodembescherming; tarief beoordeling onderzoeken en saneringsplannen

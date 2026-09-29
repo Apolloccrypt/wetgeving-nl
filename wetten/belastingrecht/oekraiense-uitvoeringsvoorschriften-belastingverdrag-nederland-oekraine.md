@@ -9,7 +9,7 @@ laatste_update: 1997-01-15
 status: geldig
 toestand: 1997-01-15
 bron: "https://wetten.overheid.nl/BWBR0008491"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Regeling inzake vermindering en vrijstelling van Oekraïense belasting op dividenden, interest, en royalty's, genoten door inwoners van Nederland

@@ -9,7 +9,7 @@ laatste_update: 1996-10-11
 status: geldig
 toestand: 1996-10-11
 bron: "https://wetten.overheid.nl/BWBR0008243"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 19 september 1996, houdende wijziging van de grens tussen de gemeenten Meppel en Staphorst, tevens provinciegrens tussen Drenthe en Overijssel

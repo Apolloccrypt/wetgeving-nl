@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0007657"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 16 november 1995, houdende het opnieuw vaststellen van de Wet toezicht effectenverkeer in verband met de uitvoering van de richtlijn betreffende het verrichten van diensten op het gebied van beleggingen in effecten en van de richtlijn betreffende de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen

@@ -9,7 +9,7 @@ laatste_update: 1995-05-17
 status: geldig
 toestand: 1995-05-17
 bron: "https://wetten.overheid.nl/BWBR0007395"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling ingangsdatum voorziening Wubo

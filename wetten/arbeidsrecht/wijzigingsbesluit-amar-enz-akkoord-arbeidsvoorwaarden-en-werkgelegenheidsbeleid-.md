@@ -9,7 +9,7 @@ laatste_update: 1996-04-01
 status: geldig
 toestand: 1996-04-01
 bron: "https://wetten.overheid.nl/BWBR0007929"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 8 maart 1996, houdende wijziging van enige besluiten naar aanleiding van het akkoord arbeidsvoorwaarden- en werkgelegenheidsbeleid 1995-1997 sector Defensie

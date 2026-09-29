@@ -8,7 +8,7 @@ laatste_update: 1996-11-01
 status: geldig
 toestand: 1996-11-01
 bron: "https://wetten.overheid.nl/BWBR0008266"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Regeling aantekening mondeling vonnis door politierechter, kinderrechter, economische politierechter, de kantonrechter en de enkelvoudige kamer voor behandeling van strafzaken in hoger beroep

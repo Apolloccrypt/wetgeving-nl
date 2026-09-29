@@ -9,7 +9,7 @@ laatste_update: 1997-06-18
 status: geldig
 toestand: 1997-06-18
 bron: "https://wetten.overheid.nl/BWBR0007353"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Deense voorschriften tot uitvoering van de op 20 februari 1957 tussen Nederland en Denemarken gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzigd bij de Aanvullende Overeenkomst van 20 januari 1966

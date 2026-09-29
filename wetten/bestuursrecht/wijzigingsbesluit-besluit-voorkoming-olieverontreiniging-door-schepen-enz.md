@@ -9,7 +9,7 @@ laatste_update: 1997-03-01
 status: geldig
 toestand: 1997-03-01
 bron: "https://wetten.overheid.nl/BWBR0008389"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 6 december 1996, houdende wijziging van het Besluit voorkoming olieverontreiniging door schepen en het Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen in verband met de invoering van een geharmoniseerd systeem van onderzoek en certificering, alsmede enkele technische aanpassingen

@@ -8,7 +8,7 @@ laatste_update: 1996-06-01
 status: geldig
 toestand: 1996-06-01
 bron: "https://wetten.overheid.nl/BWBR0007826"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling aanwijzing oude modellen rijbewijzen

@@ -9,7 +9,7 @@ laatste_update: 1995-10-25
 status: geldig
 toestand: 1995-10-25
 bron: "https://wetten.overheid.nl/BWBR0007596"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 4 oktober 1995, tot goedkeuring van de Regeling buiten toepassing stellen willekeurige afschrijving milieu-investeringen en van de regeling van 23 december 1994, nr. WDB 94/494M, Stcrt. 250, houdende wijziging van de Regeling buiten toepassing stellen willekeurige afschrijving milieu-investeringen

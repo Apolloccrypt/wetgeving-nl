@@ -8,7 +8,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0008483"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Circulaire Overheidswerknemers onder de werknemersverzekeringen (OOW-operatie)

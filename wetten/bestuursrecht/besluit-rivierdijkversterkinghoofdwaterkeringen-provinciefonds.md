@@ -9,7 +9,7 @@ laatste_update: 2007-08-17
 status: geldig
 toestand: 2007-08-17
 bron: "https://wetten.overheid.nl/BWBR0008162"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 3 juli 1996 tot verdeling van de in het Provinciefonds opgenomen uitkeringen inzake Rivierdijkversterking en Onderhoud hoofdwaterkeringen (Besluit rivierdijkversterking/hoofdwaterkeringen Provinciefonds)

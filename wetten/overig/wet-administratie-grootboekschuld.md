@@ -9,7 +9,7 @@ laatste_update: 1999-02-17
 status: geldig
 toestand: 1999-02-17
 bron: "https://wetten.overheid.nl/BWBR0007597"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 4 oktober 1995, tot regeling van een vereenvoudigde administratie van de Grootboekschuld

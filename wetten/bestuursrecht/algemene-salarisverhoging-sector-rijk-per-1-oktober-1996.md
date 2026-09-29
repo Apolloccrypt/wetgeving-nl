@@ -8,7 +8,7 @@ laatste_update: 1996-10-01
 status: geldig
 toestand: 1996-10-01
 bron: "https://wetten.overheid.nl/BWBR0008229"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Algemene salarisverhoging sector Rijk per 1 oktober 1996

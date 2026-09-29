@@ -8,7 +8,7 @@ laatste_update: 2001-07-13
 status: geldig
 toestand: 2001-07-13
 bron: "https://wetten.overheid.nl/BWBR0008461"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Regeling bijdragen URBAN-programma’s

@@ -8,7 +8,7 @@ laatste_update: 1996-03-14
 status: geldig
 toestand: 1996-03-14
 bron: "https://wetten.overheid.nl/BWBR0007918"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Circulaire uitvoering en handhaving Asbest-verwijderingsbesluit

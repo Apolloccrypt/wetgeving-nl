@@ -9,7 +9,7 @@ laatste_update: 1996-12-24
 status: geldig
 toestand: 1996-12-24
 bron: "https://wetten.overheid.nl/BWBR0008425"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 13 december 1996 tot wijziging van de Wet op de vennootschapsbelasting 1969 met het oog op het tegengaan van uitholling van de belastinggrondslag en het versterken van de fiscale infrastructuur

@@ -8,7 +8,7 @@ laatste_update: 1996-08-01
 status: geldig
 toestand: 1996-08-01
 bron: "https://wetten.overheid.nl/BWBR0008091"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Instellingsbeschikking begeleidingscommissie verkenning ruimtetekort mainport Rotterdam

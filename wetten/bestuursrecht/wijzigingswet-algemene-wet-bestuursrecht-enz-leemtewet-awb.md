@@ -9,7 +9,7 @@ laatste_update: 1995-05-17
 status: geldig
 toestand: 1995-05-17
 bron: "https://wetten.overheid.nl/BWBR0007364"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 april 1995, tot wijziging van de Algemene wet bestuursrecht alsmede nadere aanpassing van een aantal wetten aan de Algemene wet bestuursrecht (Leemtewet Awb)

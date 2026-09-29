@@ -9,7 +9,7 @@ laatste_update: 1996-08-02
 status: geldig
 toestand: 1996-08-02
 bron: "https://wetten.overheid.nl/BWBR0008194"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Machtigingsbesluit van de Pensioencommissie van 29 juli 1996 houdende machtiging aan de Subcommissie Verplichtstelling Bedrijfspensioenfondsen en de Subcommissie Verplichtstelling Beroepspensioenregelingen namens haar van advies te dienen

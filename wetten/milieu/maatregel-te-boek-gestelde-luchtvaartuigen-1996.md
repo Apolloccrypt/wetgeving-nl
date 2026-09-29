@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0008233"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 12 september 1996, houdende vaststelling van de Maatregel te boek gestelde luchtvaartuigen 1996

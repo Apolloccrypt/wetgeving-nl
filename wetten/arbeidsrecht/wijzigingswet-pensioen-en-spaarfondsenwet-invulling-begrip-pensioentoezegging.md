@@ -9,7 +9,7 @@ laatste_update: 1997-02-14
 status: geldig
 toestand: 1997-02-14
 bron: "https://wetten.overheid.nl/BWBR0008524"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 30 januari 1997 tot wijziging van de Pensioen- en spaarfondsenwet (invulling begrip pensioentoezegging)

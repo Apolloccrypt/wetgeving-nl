@@ -8,7 +8,7 @@ laatste_update: 1995-10-13
 status: geldig
 toestand: 1995-10-13
 bron: "https://wetten.overheid.nl/BWBR0007607"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Faillissementskosten

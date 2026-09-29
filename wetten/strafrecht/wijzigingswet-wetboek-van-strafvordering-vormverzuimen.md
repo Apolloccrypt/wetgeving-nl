@@ -9,7 +9,7 @@ laatste_update: 1996-11-02
 status: geldig
 toestand: 1996-11-02
 bron: "https://wetten.overheid.nl/BWBR0007559"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 14 september 1995, tot wijziging van het Wetboek van Strafvordering (vormverzuimen)

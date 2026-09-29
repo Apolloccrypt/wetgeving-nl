@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0007927"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling subsidiëring Extra Impuls natuur- en milieu-educatie

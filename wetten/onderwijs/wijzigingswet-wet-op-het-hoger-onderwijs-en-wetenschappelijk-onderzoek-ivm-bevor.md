@@ -9,7 +9,7 @@ laatste_update: 2005-08-03
 status: geldig
 toestand: 2005-08-03
 bron: "https://wetten.overheid.nl/BWBR0008167"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 4 juli 1996, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de bevordering van de kwaliteit en de studeerbaarheid van het onderwijs

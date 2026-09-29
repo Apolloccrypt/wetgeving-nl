@@ -9,7 +9,7 @@ laatste_update: 1997-01-01
 status: geldig
 toestand: 1997-01-01
 bron: "https://wetten.overheid.nl/BWBR0007658"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 16 november 1995, tot herziening van de Wet wapens en munitie

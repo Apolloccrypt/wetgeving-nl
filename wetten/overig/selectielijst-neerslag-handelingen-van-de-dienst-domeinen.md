@@ -8,7 +8,7 @@ laatste_update: 1997-02-02
 status: geldig
 toestand: 1997-02-02
 bron: "https://wetten.overheid.nl/BWBR0008414"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Selectielijst neerslag handelingen van de Dienst Domeinen

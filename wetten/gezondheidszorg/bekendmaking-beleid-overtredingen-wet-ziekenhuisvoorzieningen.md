@@ -8,7 +8,7 @@ laatste_update: 1995-09-22
 status: geldig
 toestand: 1995-09-22
 bron: "https://wetten.overheid.nl/BWBR0007329"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Bekendmaking beleid overtredingen Wet ziekenhuisvoorzieningen

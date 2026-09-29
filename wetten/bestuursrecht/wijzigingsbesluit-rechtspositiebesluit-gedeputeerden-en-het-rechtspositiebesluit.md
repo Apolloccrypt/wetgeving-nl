@@ -9,7 +9,7 @@ laatste_update: 1997-04-06
 status: geldig
 toestand: 1997-04-06
 bron: "https://wetten.overheid.nl/BWBR0008504"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 21 januari 1997 tot wijziging van het Rechtspositiebesluit gedeputeerden en het Rechtspositiebesluit wethouders

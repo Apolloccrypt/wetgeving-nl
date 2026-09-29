@@ -8,7 +8,7 @@ laatste_update: 1997-02-01
 status: geldig
 toestand: 1997-02-01
 bron: "https://wetten.overheid.nl/BWBR0008416"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Instelling Commissie bestuursrechtelijke en privaatrechtelijke handhaving

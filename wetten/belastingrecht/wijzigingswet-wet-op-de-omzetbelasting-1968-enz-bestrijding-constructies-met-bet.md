@@ -9,7 +9,7 @@ laatste_update: 1995-12-29
 status: geldig
 toestand: 1995-12-29
 bron: "https://wetten.overheid.nl/BWBR0007756"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 18 december 1995, tot wijziging van de Wet op de omzetbelasting 1968, de Wet op belastingen van rechtsverkeer en enkele andere belastingwetten in verband met de bestrijding van constructies met betrekking tot onroerende zaken

@@ -9,7 +9,7 @@ laatste_update: 1996-08-16
 status: geldig
 toestand: 1996-08-16
 bron: "https://wetten.overheid.nl/BWBR0008185"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 18 juli 1996, houdende wijziging van de Regeling ziektekostenvoorziening overheidspersoneel

@@ -8,7 +8,7 @@ laatste_update: 1996-07-07
 status: geldig
 toestand: 1996-07-07
 bron: "https://wetten.overheid.nl/BWBR0008077"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Selectielijst neerslag handelingen minister van Verkeer en Waterstaat

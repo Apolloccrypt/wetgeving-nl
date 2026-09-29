@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0007402"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 18 mei 1995, houdende regeling van de vergoeding voor de werkzaamheden, de secundaire voorzieningen en de kostenvergoedingen van de leden van de Eerste Kamer der Staten-Generaal, alsmede van de toelage en de andere voorzieningen van de voorzitter van de Eerste Kamer der Staten-Generaal

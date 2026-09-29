@@ -9,7 +9,7 @@ laatste_update: 2009-03-18
 status: geldig
 toestand: 2009-03-18
 bron: "https://wetten.overheid.nl/BWBR0007466"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 27 juni 1995, houdende regels inzake de verstrekking van gegevens ten behoeve van gemeentelijke belastingheffing

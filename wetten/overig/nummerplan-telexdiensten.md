@@ -8,7 +8,7 @@ laatste_update: 2004-05-19
 status: geldig
 toestand: 2004-05-19
 bron: "https://wetten.overheid.nl/BWBR0008189"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Nummerplan telexdiensten

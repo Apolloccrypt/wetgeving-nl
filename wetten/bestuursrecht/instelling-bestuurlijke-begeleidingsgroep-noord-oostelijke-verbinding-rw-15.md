@@ -8,7 +8,7 @@ laatste_update: 2005-02-25
 status: geldig
 toestand: 2005-02-25
 bron: "https://wetten.overheid.nl/BWBR0007889"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Instelling bestuurlijke begeleidingsgroep Noord-oostelijke verbinding - RW 15

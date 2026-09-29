@@ -9,7 +9,7 @@ laatste_update: 2007-07-18
 status: geldig
 toestand: 2007-07-18
 bron: "https://wetten.overheid.nl/BWBR0008499"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 16 januari 1997, houdende uitvoering van de Wet waardering onroerende zaken (Uitvoeringsbesluit Wet waardering onroerende zaken)

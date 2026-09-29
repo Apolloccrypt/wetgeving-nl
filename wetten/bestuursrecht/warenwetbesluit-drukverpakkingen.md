@@ -9,7 +9,7 @@ laatste_update: 2014-11-14
 status: geldig
 toestand: 2014-11-14
 bron: "https://wetten.overheid.nl/BWBR0007965"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 26 maart 1996 houdende regels inzake de veiligheid van verpakkingen onder druk (Warenwetbesluit drukverpakkingen)

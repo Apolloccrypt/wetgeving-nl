@@ -9,7 +9,7 @@ laatste_update: 1998-09-01
 status: geldig
 toestand: 1998-09-01
 bron: "https://wetten.overheid.nl/BWBR0007757"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet in 18 december 1995 tot wijziging van de Wet op de vermogensbelasting 1964, de Wet op de omzetbelasting 1968, de Wet op belastingen van rechtsverkeer, de Wet op de vennootschapsbelasting 1969 en de Invorderingswet 1990 (terugsluis opbrengst reparatiewetsvoorstel-btw)

@@ -8,7 +8,7 @@ laatste_update: 1996-10-25
 status: geldig
 toestand: 1996-10-25
 bron: "https://wetten.overheid.nl/BWBR0008236"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Vaststelling selectielijst archieven

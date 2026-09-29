@@ -9,7 +9,7 @@ laatste_update: 2020-03-19
 status: geldig
 toestand: 2020-03-19
 bron: "https://wetten.overheid.nl/BWBR0007867"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 25 januari 1996, houdende regels omtrent de vaststelling van maximumprijzen voor geneesmiddelen

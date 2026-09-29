@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0008161"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 3 juli 1996, houdende wijziging van het Burgerlijk Wetboek en de Ambtenarenwet in verband met het verbod tot het maken van onderscheid tussen werknemers naar arbeidsduur

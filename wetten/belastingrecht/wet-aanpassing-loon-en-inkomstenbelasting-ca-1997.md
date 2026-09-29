@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0008427"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 13 december 1996, houdende aanpassing van de loon- en inkomstenbelasting c.a., met het oog op vereenvoudiging van de wetgeving en vermindering van de administratieve lasten van het bedrijfsleven (Wet aanpassing loon- en inkomstenbelasting c.a. 1997)

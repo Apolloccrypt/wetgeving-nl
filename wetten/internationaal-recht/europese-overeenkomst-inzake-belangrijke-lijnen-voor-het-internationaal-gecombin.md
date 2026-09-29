@@ -8,7 +8,7 @@ laatste_update: 2025-12-11
 status: geldig
 toestand: 2025-12-11
 bron: "https://wetten.overheid.nl/BWBV0003285"
-opgehaald: 2026-09-13
+opgehaald: 2026-09-29
 ---
 
 # Europese Overeenkomst inzake belangrijke lijnen voor het internationaal gecombineerd vervoer en daarmee samenhangende installaties (AGTC)

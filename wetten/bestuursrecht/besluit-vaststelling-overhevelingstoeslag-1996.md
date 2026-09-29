@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0007798"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 21 december 1995, tot vaststelling van de overhevelingstoeslag 1996

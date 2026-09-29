@@ -8,7 +8,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0008295"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit toezicht en opsporing vervoer gevaarlijke stoffen

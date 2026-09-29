@@ -9,7 +9,7 @@ laatste_update: 1997-08-01
 status: geldig
 toestand: 1997-08-01
 bron: "https://wetten.overheid.nl/BWBR0008526"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 30 januari 1997, houdende uitbreiding van de Wet bodembescherming met bijzondere regels inzake sanering van de waterbodem

@@ -8,7 +8,7 @@ laatste_update: 1995-12-18
 status: geldig
 toestand: 1995-12-18
 bron: "https://wetten.overheid.nl/BWBR0007704"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Arrest Hoge Raad inzake belastbaarheid vergoeding parkeer-, tol- en veergelden

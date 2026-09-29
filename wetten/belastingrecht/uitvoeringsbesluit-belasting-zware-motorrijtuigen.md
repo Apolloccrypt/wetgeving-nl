@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0007679"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 29 november 1995, tot vaststelling van het Uitvoeringsbesluit belasting zware motorrijtuigen

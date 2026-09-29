@@ -9,7 +9,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0008120"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 20 juni 1996 tot aanvulling van de Algemene wet bestuursrecht (Derde tranche Algemene wet bestuursrecht)

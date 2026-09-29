@@ -9,7 +9,7 @@ laatste_update: 2004-05-19
 status: geldig
 toestand: 2004-05-19
 bron: "https://wetten.overheid.nl/BWBR0008187"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Nummerplan voor pakket- en circuitgeschakelde datadiensten Wet op de telecommunicatie-voorzieningen

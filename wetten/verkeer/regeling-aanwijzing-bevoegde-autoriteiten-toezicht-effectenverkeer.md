@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0007778"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995

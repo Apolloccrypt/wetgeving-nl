@@ -8,7 +8,7 @@ laatste_update: 1995-12-07
 status: geldig
 toestand: 1995-12-07
 bron: "https://wetten.overheid.nl/BWBR0007665"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Sanering spoorweglawaai bij de uitvoering van Rail-21-projecten

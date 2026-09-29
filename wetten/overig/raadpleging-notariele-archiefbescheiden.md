@@ -8,7 +8,7 @@ laatste_update: 1996-09-15
 status: geldig
 toestand: 1996-09-15
 bron: "https://wetten.overheid.nl/BWBR0008198"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Raadpleging notariële archiefbescheiden

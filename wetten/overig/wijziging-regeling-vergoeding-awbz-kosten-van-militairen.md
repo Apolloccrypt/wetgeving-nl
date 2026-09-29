@@ -8,7 +8,7 @@ laatste_update: 1996-10-02
 status: geldig
 toestand: 1996-10-02
 bron: "https://wetten.overheid.nl/BWBR0008247"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wijziging Regeling vergoeding a.w.b.z.-kosten van militairen

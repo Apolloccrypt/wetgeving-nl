@@ -8,7 +8,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0008041"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling omwisseling niet-Nederlandse rijbewijzen

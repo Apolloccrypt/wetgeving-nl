@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0008410"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 11 december 1996, houdende regels betreffende advies en overleg over het beleid inzake verkeer en waterstaat (Wet advies en overleg verkeer en waterstaat)

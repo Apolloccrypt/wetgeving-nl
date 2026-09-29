@@ -8,7 +8,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0007558"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling bevoegde en regionale autoriteiten Loodsplichtbesluit 1995

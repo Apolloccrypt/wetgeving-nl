@@ -9,7 +9,7 @@ laatste_update: 2005-08-03
 status: geldig
 toestand: 2005-08-03
 bron: "https://wetten.overheid.nl/BWBR0007972"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 28 maart 1996, houdende wijziging van onder meer de Wet op de studiefinanciering en de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de invoering van de prestatiebeurs, de vorm van de toelage en de leeftijd waarop aanspraak op studiefinanciering in het hoger onderwijs ontstaat

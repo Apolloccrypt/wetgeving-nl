@@ -9,7 +9,7 @@ laatste_update: 1997-01-01
 status: geldig
 toestand: 1997-01-01
 bron: "https://wetten.overheid.nl/BWBR0008163"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 3 juli 1996, houdende wijziging van de Wet educatie en beroepsonderwijs in verband met decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein, alsmede wijziging van enkele andere wetten (decentralisatie rechtspositieregeling educatie en beroepsonderwijs)

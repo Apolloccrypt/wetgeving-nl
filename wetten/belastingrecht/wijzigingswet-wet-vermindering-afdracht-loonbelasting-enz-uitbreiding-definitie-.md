@@ -9,7 +9,7 @@ laatste_update: 1997-01-01
 status: geldig
 toestand: 1997-01-01
 bron: "https://wetten.overheid.nl/BWBR0008465"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 20 december 1996, houdende wijziging van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen en van de Wet op de inkomstenbelasting 1964 (uitbreiding definitie speur- en ontwikkelingswerk en verlaging urennorm in de zelfstandigenaftrek in verband met speur- en ontwikkelingswerk)

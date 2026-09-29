@@ -9,7 +9,7 @@ laatste_update: 2017-12-16
 status: geldig
 toestand: 2017-12-16
 bron: "https://wetten.overheid.nl/BWBR0008508"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 23 januari 1997 tot uitvoering van richtlijn nr. 94/45/EG van de Raad van de Europese Unie van 22 september 1994 inzake de instelling van een Europese ondernemingsraad of van een procedure in ondernemingen of concerns met een communautaire dimensie ter informatie en raadpleging van de werknemers (Wet op de Europese ondernemingsraden)

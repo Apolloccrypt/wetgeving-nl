@@ -8,7 +8,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0007780"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Uitvoeringsregeling afdrachtvermindering

@@ -8,7 +8,7 @@ laatste_update: 1995-08-10
 status: geldig
 toestand: 1995-08-10
 bron: "https://wetten.overheid.nl/BWBR0007505"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Kapitaalverzekeringen overeengekomen met de eigen BV

@@ -8,7 +8,7 @@ laatste_update: 1996-11-15
 status: geldig
 toestand: 1996-11-15
 bron: "https://wetten.overheid.nl/BWBR0008332"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Eindtermen vuurwapenopleiding politie

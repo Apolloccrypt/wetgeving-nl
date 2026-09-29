@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0007434"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 8 juni 1995, houdende regels betreffende de uitvoering van het Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens

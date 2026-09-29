@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0008467"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 23 december 1996, houdende regels ter uitvoering van hoofdstuk 2 van de Uitvoeringswet verdrag chemische wapens (Uitvoeringsbesluit verdrag chemische wapens)

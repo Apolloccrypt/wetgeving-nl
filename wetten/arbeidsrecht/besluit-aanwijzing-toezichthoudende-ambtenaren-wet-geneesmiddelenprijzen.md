@@ -8,7 +8,7 @@ laatste_update: 1996-03-29
 status: geldig
 toestand: 1996-03-29
 bron: "https://wetten.overheid.nl/BWBR0007959"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit aanwijzing toezichthoudende ambtenaren Wet geneesmiddelenprijzen

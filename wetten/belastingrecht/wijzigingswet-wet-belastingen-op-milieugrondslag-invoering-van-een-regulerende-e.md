@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0007723"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 13 december 1995 tot wijziging van de Wet belastingen op milieugrondslag in verband met de invoering van een regulerende energiebelasting

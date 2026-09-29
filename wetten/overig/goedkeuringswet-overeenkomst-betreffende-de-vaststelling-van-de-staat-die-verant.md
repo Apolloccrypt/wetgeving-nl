@@ -9,7 +9,7 @@ laatste_update: 1996-11-01
 status: geldig
 toestand: 1996-11-01
 bron: "https://wetten.overheid.nl/BWBR0008255"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 september 1996 tot goedkeuring van de op 15 juni 1990 te Dublin tot stand gekomen Overeenkomst betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij een van de Lid-Staten van de Europese Gemeenschappen wordt ingediend

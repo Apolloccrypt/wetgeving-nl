@@ -8,7 +8,7 @@ laatste_update: 1996-02-01
 status: geldig
 toestand: 1996-02-01
 bron: "https://wetten.overheid.nl/BWBR0007852"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Opheffing commissies toelating architecten, stedebouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten

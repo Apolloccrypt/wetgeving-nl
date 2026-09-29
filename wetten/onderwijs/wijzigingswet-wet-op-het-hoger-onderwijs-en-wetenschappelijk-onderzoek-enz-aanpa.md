@@ -9,7 +9,7 @@ laatste_update: 2005-08-03
 status: geldig
 toestand: 2005-08-03
 bron: "https://wetten.overheid.nl/BWBR0007971"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 28 maart 1996, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering, houdende aanpassing van de collegegeldbepalingen en de afschaffing van verblijfsduurbeperkingen

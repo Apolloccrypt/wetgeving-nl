@@ -9,7 +9,7 @@ laatste_update: 1995-11-17
 status: geldig
 toestand: 1995-11-17
 bron: "https://wetten.overheid.nl/BWBR0007631"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 2 november 1995, houdende afwijking van het aanpassingsmechanisme in de Wet individuele huursubsidie voor de duur van het subsidietijdvak dat is aangevangen op 1 juli 1995 en loopt tot en met 30 juni 1996

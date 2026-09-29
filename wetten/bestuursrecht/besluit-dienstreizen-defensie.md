@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0007956"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 25 maart 1996, houdende regelen met betrekking tot reis- en verblijfkosten bij dienstreizen van defensiepersoneel

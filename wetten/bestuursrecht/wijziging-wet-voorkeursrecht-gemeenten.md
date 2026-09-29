@@ -8,7 +8,7 @@ laatste_update: 1996-09-25
 status: geldig
 toestand: 1996-09-25
 bron: "https://wetten.overheid.nl/BWBR0008242"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wijziging Wet voorkeursrecht gemeenten

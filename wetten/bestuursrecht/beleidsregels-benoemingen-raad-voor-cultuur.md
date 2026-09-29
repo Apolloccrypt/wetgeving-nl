@@ -8,7 +8,7 @@ laatste_update: 2024-06-11
 status: geldig
 toestand: 2024-06-11
 bron: "https://wetten.overheid.nl/BWBR0008446"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Beleidsregels benoemingen Raad voor cultuur

@@ -8,7 +8,7 @@ laatste_update: 2012-07-18
 status: geldig
 toestand: 2012-07-18
 bron: "https://wetten.overheid.nl/BWBR0008393"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Regeling etikettering energiegebruik was-droogcombinaties

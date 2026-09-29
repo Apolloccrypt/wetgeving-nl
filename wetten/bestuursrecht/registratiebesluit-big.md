@@ -9,7 +9,7 @@ laatste_update: 2022-08-27
 status: geldig
 toestand: 2022-08-27
 bron: "https://wetten.overheid.nl/BWBR0007648"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 13 november 1995, houdende regelen inzake de registratie van beoefenaren van beroepen in de individuele gezondheidszorg

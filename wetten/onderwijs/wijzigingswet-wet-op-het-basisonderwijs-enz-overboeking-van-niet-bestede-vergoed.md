@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0008016"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 25 april 1996, houdende wijziging van de Wet op het basisonderwijs inzake onder meer de overboeking van niet bestede vergoedingen, wijziging van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs inzake onder meer de overboeking van niet bestede vergoedingen en het vervallen van de verplichte pauze en wijziging van een aantal andere wetten in verband met het speciaal en voortgezet speciaal onderwijs aan visueel gehandicapte kinderen

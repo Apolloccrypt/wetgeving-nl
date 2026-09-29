@@ -9,7 +9,7 @@ laatste_update: 1998-10-01
 status: geldig
 toestand: 1998-10-01
 bron: "https://wetten.overheid.nl/BWBR0007401"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 18 mei 1995, houdende vaststelling van maatstaven die bij het in artikel 7a, eerste lid, van de Wet opneming buitenlandse pleegkinderen bedoelde onderzoek dienen te worden gehanteerd

@@ -9,7 +9,7 @@ laatste_update: 2003-05-23
 status: geldig
 toestand: 2003-05-23
 bron: "https://wetten.overheid.nl/BWBR0007577"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 26 september 1995, houdende uitvoering van artikel 66 van de Wet financiële voorzieningen privatisering ABP

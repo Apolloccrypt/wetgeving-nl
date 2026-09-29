@@ -8,7 +8,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0008154"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Liquiditeitsregeling Centrale Sociale Verzekeringsfondsen

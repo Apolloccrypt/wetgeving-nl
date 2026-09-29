@@ -8,7 +8,7 @@ laatste_update: 1996-02-04
 status: geldig
 toestand: 1996-02-04
 bron: "https://wetten.overheid.nl/BWBR0007786"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wijzigingsregeling Uitvoeringsregeling inkomstenbelasting 1990, enz.

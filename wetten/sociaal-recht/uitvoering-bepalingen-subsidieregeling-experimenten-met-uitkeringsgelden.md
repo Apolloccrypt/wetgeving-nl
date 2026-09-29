@@ -8,7 +8,7 @@ laatste_update: 1995-11-27
 status: geldig
 toestand: 1995-11-27
 bron: "https://wetten.overheid.nl/BWBR0007661"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Uitvoering bepalingen Subsidieregeling experimenten met uitkeringsgelden

@@ -9,7 +9,7 @@ laatste_update: 2018-04-21
 status: geldig
 toestand: 2018-04-21
 bron: "https://wetten.overheid.nl/BWBR0007500"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 1 augustus 1995, houdende Warenwetbesluit motor- en bromfietshelmen

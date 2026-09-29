@@ -9,7 +9,7 @@ laatste_update: 1997-02-05
 status: geldig
 toestand: 1997-02-05
 bron: "https://wetten.overheid.nl/BWBR0008234"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 12 september 1996 tot wijziging van de Wet op de dierproeven

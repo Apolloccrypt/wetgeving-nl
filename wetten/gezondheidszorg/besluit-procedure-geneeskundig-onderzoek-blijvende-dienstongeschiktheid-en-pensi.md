@@ -9,7 +9,7 @@ laatste_update: 2006-08-02
 status: geldig
 toestand: 2006-08-02
 bron: "https://wetten.overheid.nl/BWBR0008475"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 23 december 1996, houdende een procedure aangaande een geneeskundig onderzoek naar blijvende dienstongeschiktheid en een pensioenkeuring van militairen (Besluit procedure geneeskundig onderzoek blijvende dienstongeschiktheid en pensioenkeuring militairen)

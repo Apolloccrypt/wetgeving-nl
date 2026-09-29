@@ -9,7 +9,7 @@ laatste_update: 2015-07-04
 status: geldig
 toestand: 2015-07-04
 bron: "https://wetten.overheid.nl/BWBR0007953"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 21 maart 1996, houdende verlening van enige vrijstellingen van de verboden van de Winkeltijdenwet

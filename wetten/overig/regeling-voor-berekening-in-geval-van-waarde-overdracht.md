@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0007369"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Vaststelling van regels als bedoeld in artikel 7, vierde lid, van de Wet verevening pensioenrechten bij scheiding voor de berekening in geval van waarde-overdracht

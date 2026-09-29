@@ -8,7 +8,7 @@ laatste_update: 1996-08-29
 status: geldig
 toestand: 1996-08-29
 bron: "https://wetten.overheid.nl/BWBR0008110"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Mandaatsbesluit uitvoering Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren Defensie

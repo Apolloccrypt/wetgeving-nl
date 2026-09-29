@@ -9,7 +9,7 @@ laatste_update: 2005-08-03
 status: geldig
 toestand: 2005-08-03
 bron: "https://wetten.overheid.nl/BWBR0007869"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 januari 1996, houdende wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek (bestuursorganisatie van en medezeggenschap in hogescholen)

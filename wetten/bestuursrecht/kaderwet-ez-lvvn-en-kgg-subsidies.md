@@ -9,7 +9,7 @@ laatste_update: 2025-09-01
 status: geldig
 toestand: 2025-09-01
 bron: "https://wetten.overheid.nl/BWBR0007919"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 29 februari 1996, houdende vaststelling regels inzake de verstrekking van subsidies door de Minister van Economische Zaken

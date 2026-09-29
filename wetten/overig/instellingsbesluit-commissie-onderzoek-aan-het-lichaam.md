@@ -8,7 +8,7 @@ laatste_update: 1995-06-16
 status: geldig
 toestand: 1995-06-16
 bron: "https://wetten.overheid.nl/BWBR0007431"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Instellingsbesluit Commissie onderzoek aan het lichaam

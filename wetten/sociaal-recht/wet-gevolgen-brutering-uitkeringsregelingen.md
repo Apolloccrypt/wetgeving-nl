@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0008064"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 24 mei 1996, houdende bijzondere bepalingen voor de toepassing van de sociale zekerheidswetten in verband met de Wet brutering overhevelingstoeslag lonen (Wet gevolgen brutering uitkeringsregelingen)

@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0007403"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 18 mei 1995, tot wijziging van de Wet op de kansspelen in verband met het instellen van een College van toezicht op de kansspelen

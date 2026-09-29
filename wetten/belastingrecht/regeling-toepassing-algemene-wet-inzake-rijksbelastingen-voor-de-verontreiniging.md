@@ -9,7 +9,7 @@ laatste_update: 2009-12-22
 status: geldig
 toestand: 2009-12-22
 bron: "https://wetten.overheid.nl/BWBR0007818"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat, houdende toepassing van de artikelen 6, eerste lid en 8, eerste lid, onderdeel a, van de Algemene wet inzake rijksbelastingen voor de verontreinigingsheffing rijkswateren

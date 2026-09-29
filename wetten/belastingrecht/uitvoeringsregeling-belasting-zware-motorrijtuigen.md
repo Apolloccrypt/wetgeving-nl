@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0007677"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Uitvoeringsregeling belasting zware motorrijtuigen

@@ -9,7 +9,7 @@ laatste_update: 2000-12-28
 status: geldig
 toestand: 2000-12-28
 bron: "https://wetten.overheid.nl/BWBR0007659"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 16 november 1995, houdende wijziging van de Natuurschoonwet 1928 en de Gemeentewet (verruiming fiscale faciliteiten ten behoeve van de aanleg van bossen)

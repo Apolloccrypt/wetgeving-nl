@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0007914"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 27 februari 1996, houdende vaststelling van aanvullende bepalingen voor de scheepvaart in de territoriale zee (Scheepvaartreglement territoriale zee)

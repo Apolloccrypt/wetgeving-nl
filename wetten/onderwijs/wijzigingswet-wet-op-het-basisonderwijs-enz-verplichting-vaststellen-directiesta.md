@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0007680"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 30 november 1995 tot wijziging van de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de Wet op het voortgezet onderwijs, de Wet op het cursorisch beroepsonderwijs en de Wet medezeggenschap onderwijs 1992 in verband met de invoering van de wettelijke verplichting tot het vaststellen van een directiestatuut omtrent de uitoefening van taken en bevoegdheden door de schoolleiding (verplichting vaststellen directiestatuut)

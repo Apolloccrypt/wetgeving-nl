@@ -9,7 +9,7 @@ laatste_update: 2012-10-19
 status: geldig
 toestand: 2012-10-19
 bron: "https://wetten.overheid.nl/BWBR0008448"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Erkenningsregeling geschillen- commissies consumentenklachten 1997

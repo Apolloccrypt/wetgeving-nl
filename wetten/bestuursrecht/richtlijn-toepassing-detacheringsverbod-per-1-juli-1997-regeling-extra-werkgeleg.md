@@ -8,7 +8,7 @@ laatste_update: 1997-06-30
 status: geldig
 toestand: 1997-06-30
 bron: "https://wetten.overheid.nl/BWBR0008486"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Richtlijn toepassing detacheringsverbod per 1 juli 1997 Regeling extra werkgelegenehid langdurig werklozen

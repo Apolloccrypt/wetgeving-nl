@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0007339"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 13 april 1995, houdende regeling van de medezeggenschap van het overheidspersoneel in de Wet op de ondernemingsraden

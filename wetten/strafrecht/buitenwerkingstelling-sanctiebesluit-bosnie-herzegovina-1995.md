@@ -8,7 +8,7 @@ laatste_update: 1996-04-28
 status: geldig
 toestand: 1996-04-28
 bron: "https://wetten.overheid.nl/BWBR0007969"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Buitenwerkingstelling Sanctiebesluit Bosnië-Herzegovina 1995

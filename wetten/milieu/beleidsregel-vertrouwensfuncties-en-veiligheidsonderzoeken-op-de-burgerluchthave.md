@@ -9,7 +9,7 @@ laatste_update: 1997-02-01
 status: geldig
 toestand: 1997-02-01
 bron: "https://wetten.overheid.nl/BWBR0008521"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Beleidsregel betreffende de uitoefening van de bevoegdheid van de minister van Binnenlandse zaken tot het afgeven van verklaringen van geen bezwaar, als bedoeld in de artikelen 4 en 5 van de Wet veiligheidsonderzoeken, in verband met de vervulling van vertrouwensfuncties op de burgerluchthavens

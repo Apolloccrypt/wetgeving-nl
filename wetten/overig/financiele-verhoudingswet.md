@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0008290"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 21 oktober 1996, houdende regels inzake de financiële verhouding tussen het Rijk en de gemeenten (Financiële-verhoudingswet)

@@ -9,7 +9,7 @@ laatste_update: 2003-12-01
 status: geldig
 toestand: 2003-12-01
 bron: "https://wetten.overheid.nl/BWBR0007709"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 8 december 1995, houdende uitvoering van artikel 40, eerste lid, van de Wet toezicht effectenverkeer 1995

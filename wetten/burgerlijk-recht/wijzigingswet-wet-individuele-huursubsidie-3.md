@@ -9,7 +9,7 @@ laatste_update: 1996-07-01
 status: geldig
 toestand: 1996-07-01
 bron: "https://wetten.overheid.nl/BWBR0008112"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 19 juni 1996, houdende wijziging van de Wet individuele huursubsidie

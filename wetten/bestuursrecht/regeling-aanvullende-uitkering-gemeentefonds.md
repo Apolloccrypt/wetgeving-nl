@@ -8,7 +8,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0008324"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Regeling aanvullende uitkering gemeentefonds

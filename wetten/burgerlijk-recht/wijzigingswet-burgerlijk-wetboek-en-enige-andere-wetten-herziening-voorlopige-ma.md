@@ -9,7 +9,7 @@ laatste_update: 1999-02-17
 status: geldig
 toestand: 1999-02-17
 bron: "https://wetten.overheid.nl/BWBR0008509"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 23 januari 1997 tot wijziging van het Burgerlijk Wetboek en enige andere wetten in verband met de herziening van de voorlopige maatregelen van kinderbescherming

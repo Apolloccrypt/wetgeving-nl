@@ -9,7 +9,7 @@ laatste_update: 1996-03-29
 status: geldig
 toestand: 1996-03-29
 bron: "https://wetten.overheid.nl/BWBR0007670"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 23 november 1995, houdende wijziging van enige besluiten in verband met de aanpassing van salarissen in het kader van de Wet financiële voorzieningen privatisering ABP en de generieke salarisverhoging van 0,5% per 1 januari 1995

@@ -8,7 +8,7 @@ laatste_update: 1996-04-01
 status: geldig
 toestand: 1996-04-01
 bron: "https://wetten.overheid.nl/BWBR0007880"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Raadpleging archief NBS

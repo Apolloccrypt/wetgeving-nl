@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0007391"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 10 mei 1995, houdende nadere regels met betrekking tot de Orde van de Nederlandse Leeuw en de Orde van Oranje-Nassau

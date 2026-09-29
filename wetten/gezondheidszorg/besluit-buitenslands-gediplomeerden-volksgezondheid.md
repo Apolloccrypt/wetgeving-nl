@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0007397"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 12 mei 1995, houdende uitvoering van de artikelen 41, vijfde lid, 42, tweede lid, en 45, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg

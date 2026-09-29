@@ -9,7 +9,7 @@ laatste_update: 1996-09-13
 status: geldig
 toestand: 1996-09-13
 bron: "https://wetten.overheid.nl/BWBR0008226"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 5 september 1996 tot gemeentelijke herindeling van Schouwen-Duiveland en Walcheren

@@ -8,7 +8,7 @@ laatste_update: 1998-05-29
 status: geldig
 toestand: 1998-05-29
 bron: "https://wetten.overheid.nl/BWBR0008246"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Regeling kennis, bedrevenheid en ervaring voor bewijzen van bevoegdheid en bevoegdverklaringen

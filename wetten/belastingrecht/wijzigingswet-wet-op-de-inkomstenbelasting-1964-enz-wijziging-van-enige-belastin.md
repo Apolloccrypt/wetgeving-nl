@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0007794"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 21 december 1995, tot wijziging van de Wet op de inkomstenbelasting 1964, de Wet op de vennootschapsbelasting 1969 en de Wet belasting- en premiefaciliteit voor de zeevaart 1995 (wijziging van enige belastingwetten in het belang van de zeescheepvaart)

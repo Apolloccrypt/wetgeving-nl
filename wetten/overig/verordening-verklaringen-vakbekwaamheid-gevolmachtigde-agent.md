@@ -9,7 +9,7 @@ laatste_update: 1995-12-31
 status: geldig
 toestand: 1995-12-31
 bron: "https://wetten.overheid.nl/BWBR0007751"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Verordening van de Sociaal-Economische Raad van 15 december 1995 houdende regelen krachtens welke de afgifte plaatsvindt van de in artikel 21, zevende lid van de Wet assurantiebemiddelingsbedrijf bedoelde verklaringen

@@ -8,7 +8,7 @@ laatste_update: 1996-10-30
 status: geldig
 toestand: 1996-10-30
 bron: "https://wetten.overheid.nl/BWBR0008263"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Beleidsregel amateurluchtvaartuigen

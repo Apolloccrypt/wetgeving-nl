@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0008426"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 13 december 1996 tot wijziging van enige belastingwetten (herziening regime ter zake van winst uit aanmerkelijk belang, consumptieve rente en vermogensbelasting)

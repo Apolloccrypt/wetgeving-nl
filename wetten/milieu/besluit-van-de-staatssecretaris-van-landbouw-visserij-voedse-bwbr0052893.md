@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-27
 toestand: 2026-07-25
 bron: "https://wetten.overheid.nl/BWBR0052893"
-opgehaald: 2026-09-28
+opgehaald: 2026-09-29
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107543321, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van bladluizen en wortelluis in de onbedekte pennenteelt van witlof (Tijdelijke vrijstelling voor de beheersing van bladluizen en wortelluis in de onbedekte pennenteelt van witlof, 2026)

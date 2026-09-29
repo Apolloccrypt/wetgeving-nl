@@ -9,7 +9,7 @@ laatste_update: 1997-01-01
 status: geldig
 toestand: 1997-01-01
 bron: "https://wetten.overheid.nl/BWBR0008424"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Rijkswet van 13 december 1996, houdende wijziging van de Belastingregeling voor het Koninkrijk in verband met maatregelen met het oog op het tegengaan van misbruik en oneigenlijk gebruik alsmede in verband met enige technische aanpassingen

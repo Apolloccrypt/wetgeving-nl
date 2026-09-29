@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBV0006293"
-opgehaald: 2026-09-16
+opgehaald: 2026-09-29
 ---
 
 # Algemeen Reglement van de Wereldpostunie
@@ -669,7 +669,7 @@ opgehaald: 2026-09-16
 
 ##### Article 146. Fixing of the expenditure of the Union
 
-1. Subject to the provisions of paragraphs 2 to 6, the annual expenditure relating to the activities of bodies of the Union may not exceed 38,890,030 Swiss francs for the years 2022 and 2023, and 39,512,270 Swiss francs for the years 2024 and 2025. In the event that the Congress planned for 2025 is postponed, the latter ceiling shall also apply to the post-2025 period
+1. Subject to the provisions of paragraphs 2 to 6, the annual expenditure relating to the activities of bodies of the Union may not exceed 39,512,270 Swiss francs for the years 2026 to 2029. In the event that the Congress planned for 2029 is postponed, this ceiling shall also apply to the post-2029 period.
 
 2. The expenditure relating to the convening of the next Congress (travelling expenses of the secretariat, transport charges, cost of installing simultaneous interpretation equipment, cost of reproducing documents during the Congress, etc.) shall not exceed the limit of 2,900,000 Swiss francs.
 

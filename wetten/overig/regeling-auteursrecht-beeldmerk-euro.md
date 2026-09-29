@@ -9,7 +9,7 @@ laatste_update: 1996-10-07
 status: geldig
 toestand: 1996-10-07
 bron: "https://wetten.overheid.nl/BWBR0008262"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Regeling van de Minister van Financiën van 30 september 1996, houdende het voorbehouden door de Staat der Nederlanden (Ministerie van Financiën) van het auteursrecht op het beeldmerk en het handboek voor het gebruik van het beeldmerk die zullen worden gebruikt ten behoeve van de voorlichtingscampagne voor de introductie van de euro in Nederland

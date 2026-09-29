@@ -9,7 +9,7 @@ laatste_update: 2021-02-22
 status: geldig
 toestand: 2021-02-22
 bron: "https://wetten.overheid.nl/BWBR0007982"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 3 april 1996, houdende hernieuwde vaststelling van de Wet buitengewone bevoegdheden burgerlijk gezag ter aanpassing aan de Coördinatiewet uitzonderingstoestanden (Wet buitengewone bevoegdheden burgerlijk gezag)

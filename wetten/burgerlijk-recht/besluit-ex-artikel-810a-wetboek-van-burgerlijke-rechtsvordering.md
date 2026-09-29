@@ -9,7 +9,7 @@ laatste_update: 2010-11-01
 status: geldig
 toestand: 2010-11-01
 bron: "https://wetten.overheid.nl/BWBR0007534"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 1 september 1995, tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 810a van het Wetboek van Burgerlijke Rechtsvordering

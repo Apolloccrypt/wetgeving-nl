@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0008277"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 10 oktober 1996, houdende regelen inzake het verrichten van veiligheidsonderzoeken (Wet veiligheidsonderzoeken)

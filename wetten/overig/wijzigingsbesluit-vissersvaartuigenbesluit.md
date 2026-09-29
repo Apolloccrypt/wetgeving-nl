@@ -9,7 +9,7 @@ laatste_update: 1995-11-23
 status: geldig
 toestand: 1995-11-23
 bron: "https://wetten.overheid.nl/BWBR0007539"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 1 september 1995, houdende wijziging van het Vissersvaartuigenbesluit in verband met Richtlijn nr. 93/103/EG van de Raad van de Europese Gemeenschappen van 23 november 1993 betreffende de minimumvoorschriften inzake veiligheid en gezondheid bij het werk aan boord van vissersvaartuigen (PbEG L 307)

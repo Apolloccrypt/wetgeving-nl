@@ -9,7 +9,7 @@ laatste_update: 2005-08-03
 status: geldig
 toestand: 2005-08-03
 bron: "https://wetten.overheid.nl/BWBR0007383"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 4 mei 1995, tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, houdende aanpassing van de bepalingen inzake de arbeidsmarktfixus, alsmede de eenmalige vaststelling bij wet van de arbeidsmarktfixus geneeskunde 1994-1996

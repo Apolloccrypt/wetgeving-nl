@@ -8,7 +8,7 @@ laatste_update: 1995-01-01
 status: geldig
 toestand: 1995-01-01
 bron: "https://wetten.overheid.nl/BWBR0007372"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Mutaties gegarandeerde leningen eigen woningen met toepassing van de rijksdeelneming

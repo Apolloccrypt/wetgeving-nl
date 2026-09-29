@@ -9,7 +9,7 @@ laatste_update: 1996-04-17
 status: geldig
 toestand: 1996-04-17
 bron: "https://wetten.overheid.nl/BWBR0007948"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 20 maart 1996 tot wijziging van de Wet aanpassing pensioenvoorzieningen Bijstandkorps en de Samenloopregeling Indonesische pensioenen 1960 (reparatie samenloopregelingen pensioenen)

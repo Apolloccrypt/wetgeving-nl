@@ -9,7 +9,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0008001"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 16 april 1996, houdende aanwijzing van de zaken, bedoeld in artikel VI, tweede lid, van de Wet van 26 februari 1996 tot wijziging van de Wet op de rechterlijke organisatie en andere wetten in verband met de opheffing van de functie van verkeersschout (Stb. 155), en aanpassing van lagere regelgeving aan die wet

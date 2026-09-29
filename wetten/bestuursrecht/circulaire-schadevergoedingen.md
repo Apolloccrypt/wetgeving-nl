@@ -8,7 +8,7 @@ laatste_update: 1997-12-22
 status: geldig
 toestand: 1997-12-22
 bron: "https://wetten.overheid.nl/BWBR0008488"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Circulaire schadevergoedingen

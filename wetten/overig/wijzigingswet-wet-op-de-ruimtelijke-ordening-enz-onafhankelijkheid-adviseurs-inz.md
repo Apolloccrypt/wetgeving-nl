@@ -9,7 +9,7 @@ laatste_update: 1995-09-29
 status: geldig
 toestand: 1995-09-29
 bron: "https://wetten.overheid.nl/BWBR0007367"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 april 1995, tot wijziging van de Wet op de Ruimtelijke Ordening en de Wet milieubeheer (onafhankelijkheid adviseurs inzake beroepen)

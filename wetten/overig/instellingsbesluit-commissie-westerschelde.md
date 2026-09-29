@@ -8,7 +8,7 @@ laatste_update: 1996-09-16
 status: geldig
 toestand: 1996-09-16
 bron: "https://wetten.overheid.nl/BWBR0008235"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Instellingsbesluit Commissie Westerschelde

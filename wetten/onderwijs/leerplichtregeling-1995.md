@@ -8,7 +8,7 @@ laatste_update: 2014-02-15
 status: geldig
 toestand: 2014-02-15
 bron: "https://wetten.overheid.nl/BWBR0007471"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Leerplichtregeling 1995

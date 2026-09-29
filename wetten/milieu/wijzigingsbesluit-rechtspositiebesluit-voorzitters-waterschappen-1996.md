@@ -9,7 +9,7 @@ laatste_update: 1996-05-22
 status: geldig
 toestand: 1996-05-22
 bron: "https://wetten.overheid.nl/BWBR0008012"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 23 april 1996, houdende wijziging van het Rechtspositiebesluit voorzitters van waterschappen

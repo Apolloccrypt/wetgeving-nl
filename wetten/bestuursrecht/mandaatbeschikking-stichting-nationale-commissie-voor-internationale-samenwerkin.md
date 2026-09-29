@@ -8,7 +8,7 @@ laatste_update: 1996-03-28
 status: geldig
 toestand: 1996-03-28
 bron: "https://wetten.overheid.nl/BWBR0007950"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Mandaatbeschikking Stichting Nationale Commissie voor Internationale Samenwerking en Duurzame Ontwikkeling

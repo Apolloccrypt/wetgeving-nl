@@ -9,7 +9,7 @@ laatste_update: 2012-05-09
 status: geldig
 toestand: 2012-05-09
 bron: "https://wetten.overheid.nl/BWBR0007422"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 31 mei 1995, houdende regels inzake de etikettering van de materialen, gebruikt in voor de verbruiker bestemd schoeisel

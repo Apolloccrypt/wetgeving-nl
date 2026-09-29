@@ -9,7 +9,7 @@ laatste_update: 1995-12-31
 status: geldig
 toestand: 1995-12-31
 bron: "https://wetten.overheid.nl/BWBR0007737"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 14 december 1995, tot wijziging van de Wet toezicht kredietwezen 1992 ter uitvoering van de Richtlijn inzake de depositogarantiestelsels

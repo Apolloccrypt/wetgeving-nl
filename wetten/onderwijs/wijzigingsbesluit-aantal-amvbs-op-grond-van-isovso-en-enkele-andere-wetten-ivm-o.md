@@ -9,7 +9,7 @@ laatste_update: 1996-11-01
 status: geldig
 toestand: 1996-11-01
 bron: "https://wetten.overheid.nl/BWBR0008193"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 26 juli 1996 tot wijziging van een aantal algemene maatregelen van bestuur op grond van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en enkele andere wetten in verband met onder meer het onderwijs aan visueel gehandicapte kinderen

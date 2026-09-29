@@ -9,7 +9,7 @@ laatste_update: 1996-07-17
 status: geldig
 toestand: 1996-07-17
 bron: "https://wetten.overheid.nl/BWBR0008164"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 4 juli 1996, houdende wijziging van de Wet voorkeursrecht gemeenten

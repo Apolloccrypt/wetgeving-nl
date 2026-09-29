@@ -9,7 +9,7 @@ laatste_update: 1996-08-16
 status: geldig
 toestand: 1996-08-16
 bron: "https://wetten.overheid.nl/BWBR0008191"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 23 juli 1996, houdende wijziging van een aantal algemene maatregelen van bestuur in verband met de intrekking van de Algemene Weduwen- en Wezenwet en de inwerkingtreding van de Algemene nabestaandenwet

@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0008421"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Privacyreglement geautomatiseerde administratie invordering onderhoudsgelden LBIO

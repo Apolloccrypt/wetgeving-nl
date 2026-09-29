@@ -8,7 +8,7 @@ laatste_update: 2026-07-15
 status: geldig
 toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0007923"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Mandaatregeling VWS

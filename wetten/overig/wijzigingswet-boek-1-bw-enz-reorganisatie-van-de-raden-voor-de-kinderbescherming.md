@@ -9,7 +9,7 @@ laatste_update: 1996-06-29
 status: geldig
 toestand: 1996-06-29
 bron: "https://wetten.overheid.nl/BWBR0008096"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 13 juni 1996, houdende wijziging van Boek 1 van het Burgerlijk Wetboek en van enige andere wetten in verband met reorganisatie van de raden voor de kinderbescherming

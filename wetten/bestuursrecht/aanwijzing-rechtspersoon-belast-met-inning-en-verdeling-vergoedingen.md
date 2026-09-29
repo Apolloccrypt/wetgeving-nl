@@ -8,7 +8,7 @@ laatste_update: 1996-11-17
 status: geldig
 toestand: 1996-11-17
 bron: "https://wetten.overheid.nl/BWBR0008306"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Aanwijzing rechtspersoon belast met inning en verdeling vergoedingen

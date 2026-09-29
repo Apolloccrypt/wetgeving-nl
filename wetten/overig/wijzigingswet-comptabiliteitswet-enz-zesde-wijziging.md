@@ -9,7 +9,7 @@ laatste_update: 1995-08-18
 status: geldig
 toestand: 1995-08-18
 bron: "https://wetten.overheid.nl/BWBR0007478"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 10 juli 1995, tot wijziging van de Comptabiliteitswet verband houdende met onder andere de introductie van agentschappen, de integratie van de begrotingsartikelen "personeel" en "materieel" en een nadere aanpassing van de financiële verantwoordingsprocedure (zesde wijziging van de Comptabiliteitswet)

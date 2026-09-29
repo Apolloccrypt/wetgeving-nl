@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0007421"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 31 mei 1995, houdende wijziging van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en van enkele andere wetten inzake samenvoeging van de schoolsoorten onderwijs aan blinde kinderen en onderwijs aan slechtziende kinderen tot de schoolsoort onderwijs aan visueel gehandicapte kinderen

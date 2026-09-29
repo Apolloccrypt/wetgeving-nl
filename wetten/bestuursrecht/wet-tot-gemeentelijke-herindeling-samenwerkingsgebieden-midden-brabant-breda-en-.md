@@ -9,7 +9,7 @@ laatste_update: 1998-08-01
 status: geldig
 toestand: 1998-08-01
 bron: "https://wetten.overheid.nl/BWBR0008231"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 11 september 1996 tot gemeentelijke herindeling in de samenwerkingsgebieden Midden-Brabant, Breda en Westelijk Noord-Brabant en in een gedeelte van de samenwerkingsgebieden Zuidoost-Brabant en 's-Hertogenbosch

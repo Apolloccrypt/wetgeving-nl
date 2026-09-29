@@ -9,7 +9,7 @@ laatste_update: 1995-11-02
 status: geldig
 toestand: 1995-11-02
 bron: "https://wetten.overheid.nl/BWBR0007322"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 6 april 1995, tot nadere regeling van het gezag over en van de omgang met minderjarige kinderen

@@ -5,11 +5,11 @@ identifier: "BWBR0020415"
 categorie: "Financieel recht"
 soort: "AMvB"
 publicatiedatum: 2016-01-01
-laatste_update: 2021-02-10
+laatste_update: 2026-09-22
 status: geldig
-toestand: 2021-02-10
+toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0020415"
-opgehaald: 2026-08-10
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 12 oktober 2006, houdende regels met betrekking tot aanvullend prudentieel toezicht op banken, levensverzekeraars, schadeverzekeraars en beleggingsondernemingen die tot een financiële groep behoren (Besluit prudentieel toezicht financiële groepen Wft)
@@ -88,7 +88,7 @@ De in dit besluit bedoelde financiële ondernemingen passen de in dit besluit be
 
 - g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan [artikel 3:100, eerste lid, aanhef en onderdeel a tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100) indien de aanvraag een holding betreft die een gekwalificeerde deelneming in een bank houdt of voornemens is te houden; en
 
-- h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikelen 3:271](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:271) en [3:272 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:272) is bepaald met betrekking tot de geschiktheid en betrouwbaarheid van de personen die het dagelijks beleid van de holding bepalen.
+- h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikelen 3:271](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:271), [3:272](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:272) en [3:272a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:272a) is bepaald met betrekking tot de geschiktheid en betrouwbaarheid van de personen die het dagelijks beleid van de holding bepalen of medewerker met een sleutelfunctie zijn.
 
 2. De gegevens, bedoeld in het eerste lid, onderdeel d, zijn:
 
@@ -120,15 +120,15 @@ De in dit besluit bedoelde financiële ondernemingen passen de in dit besluit be
 
 - d. een opgave van referenten;
 
-- e. voor de beoordeling van de geschiktheid van de personen die het dagelijks beleid van de holding bepalen, een opgave van de relevante diploma’s; en
+- e. voor de beoordeling van de geschiktheid van de personen die het dagelijks beleid van de holding bepalen of medewerker met een sleutelfunctie zijn, een opgave van de relevante diploma’s; en
 
-- f. voor de beoordeling van de betrouwbaarheid van de personen die het dagelijks beleid van de holding bepalen, gegevens met betrekking tot antecedenten, bedoeld in [bijlage A, behorend bij artikel 6 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A).
+- f. voor de beoordeling van de betrouwbaarheid van de personen die het dagelijks beleid van de holding bepalen of medewerker met een sleutelfunctie zijn, gegevens met betrekking tot antecedenten, bedoeld in [bijlage A, behorend bij artikel 6 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&bijlage=A).
 
 6. Het eerste lid, onderdeel g, is niet van toepassing indien de holding reeds beschikt over een of meerdere verklaringen van geen bezwaar voor de gekwalificeerde deelneming in de bank tenzij de Nederlandsche Bank besluit dat een redelijke aanleiding bestaat tot een nieuwe beoordeling van de gegevens als bedoeld in dat onderdeel.
 
-7. Het eerste lid, onderdeel h, met betrekking tot [artikel 3:271 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:271) is niet van toepassing indien de beoordeling een persoon betreft wiens geschiktheid als persoon die het dagelijks beleid van die holding bepaald voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld, tenzij de Nederlandsche Bank besluit dat een redelijke aanleiding bestaat tot een nieuwe beoordeling van de gegevens als bedoeld in dat onderdeel.
+7. Het eerste lid, onderdeel h, met betrekking tot [de artikelen 3:271](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:271) en [3:272a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:272a) is niet van toepassing indien de beoordeling een persoon betreft wiens geschiktheid als persoon die het dagelijks beleid van die holding bepaalt of een medewerker met een sleutelfunctie is voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld, tenzij de Nederlandsche Bank besluit dat een redelijke aanleiding bestaat tot een nieuwe beoordeling van de gegevens als bedoeld in dat onderdeel.
 
-8. Het eerste lid, onderdeel h, met betrekking tot [artikel 3:272 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:272) is niet van toepassing indien de beoordeling een persoon betreft wiens betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld, tenzij de Nederlandsche Bank besluit dat een redelijke aanleiding bestaat tot een nieuwe beoordeling als bedoeld in [artikel 3:9, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9).
+8. Het eerste lid, onderdeel h, met betrekking tot de [artikelen 3:272](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:272) en [3:272a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:272a) is niet van toepassing indien de beoordeling een persoon betreft wiens betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld, tenzij de Nederlandsche Bank besluit dat een redelijke aanleiding bestaat tot een nieuwe beoordeling als bedoeld in [artikel 3:9, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9).
 
 9. De Nederlandsche Bank kan in aanvulling op de gegevens, bedoeld in het eerste lid, andere gegevens van de holding, bedoeld in [artikel 3:280a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280a), verlangen indien die gegevens nodig zijn voor de beoordeling van de aanvraag om goedkeuring, bedoeld in [artikel 3:280b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280b).
 
@@ -212,7 +212,7 @@ De Nederlandsche Bank beoordeelt of sprake is van uitzonderlijke omstandigheden 
 
 ##### Artikel 4f
 
-1. Een verzekeraar of holding als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2a&afdeling=2a.2&artikel=4b&z=2021-02-10&g=2021-02-10) die deel uitmaakt van een verzekeringsrichtlijngroep waarvoor de Nederlandsche Bank als groepstoezichthouder is aangewezen, dient bij de Nederlandsche Bank binnen de ingevolge artikel 373, onderscheidenlijk artikel 375, tweede lid, van de verordening solvabiliteit II voorgeschreven termijnen toezichtrapportages in met de volgende informatie:
+1. Een verzekeraar of holding als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2a&afdeling=2a.2&artikel=4b&z=2026-09-22&g=2026-09-22) die deel uitmaakt van een verzekeringsrichtlijngroep waarvoor de Nederlandsche Bank als groepstoezichthouder is aangewezen, dient bij de Nederlandsche Bank binnen de ingevolge artikel 373, onderscheidenlijk artikel 375, tweede lid, van de verordening solvabiliteit II voorgeschreven termijnen toezichtrapportages in met de volgende informatie:
 
 - a. de toezichtinformatie, bedoeld in artikel 372, eerste lid, van de verordening solvabiliteit II;
 
@@ -242,7 +242,7 @@ De Nederlandsche Bank beoordeelt of sprake is van uitzonderlijke omstandigheden 
 
 2. Onder significante intragroepsovereenkomsten of -posities als bedoeld in [artikel 3:281a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281a) worden verstaan overeenkomsten of posities die een door de Nederlandsche Bank vast te stellen drempel, gerelateerd aan de vereiste solvabiliteit, te boven gaan. Alvorens de drempel vast te stellen, voert de Nederlandsche Bank overleg met de betrokken verzekeraar. De Nederlandsche Bank stelt geen kwalitatieve of andere kwantitatieve drempels vast.
 
-3. De Nederlandsche Bank stelt regels met betrekking tot de categorieën overeenkomsten en posities die in de rapportage worden betrokken en de rapportage. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2021-02-10&g=2021-02-10), is van toepassing.
+3. De Nederlandsche Bank stelt regels met betrekking tot de categorieën overeenkomsten en posities die in de rapportage worden betrokken en de rapportage. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2026-09-22&g=2026-09-22), is van toepassing.
 
 #### Afdeling 3.2. Aangepaste solvabiliteit
 
@@ -252,11 +252,11 @@ De Nederlandsche Bank beoordeelt of sprake is van uitzonderlijke omstandigheden 
 
 2. De verzekeraar rapporteert de aangepaste solvabiliteit eenmaal per jaar, tenzij de Nederlandsche Bank, indien de aangepaste solvabiliteit door ontwikkelingen bij de verzekeraar in het gedrang is of zou kunnen komen, besluit dat er gerapporteerd moet worden met een hogere frequentie.
 
-3. De Nederlandsche Bank stelt regels met betrekking tot de rapportage, bedoeld in het tweede lid. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2021-02-10&g=2021-02-10), is van toepassing.
+3. De Nederlandsche Bank stelt regels met betrekking tot de rapportage, bedoeld in het tweede lid. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2026-09-22&g=2026-09-22), is van toepassing.
 
 ##### Artikel 7
 
-1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.2&artikel=6&z=2021-02-10&g=2021-02-10) past voor de berekening van de aangepaste solvabiliteit een van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=A&z=2021-02-10&g=2021-02-10) bij dit besluit opgenomen berekeningsmethoden toe. Hij betrekt bij die berekening iedere rechtstreeks of middellijk met hem verbonden verzekeraar.
+1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.2&artikel=6&z=2026-09-22&g=2026-09-22) past voor de berekening van de aangepaste solvabiliteit een van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=A&z=2026-09-22&g=2026-09-22) bij dit besluit opgenomen berekeningsmethoden toe. Hij betrekt bij die berekening iedere rechtstreeks of middellijk met hem verbonden verzekeraar.
 
 2. De Nederlandsche Bank kan besluiten dat een verzekeraar geen aangepaste solvabiliteit behoeft te berekenen, indien:
 
@@ -268,7 +268,7 @@ De Nederlandsche Bank beoordeelt of sprake is van uitzonderlijke omstandigheden 
 
 ##### Artikel 8
 
-1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.2&artikel=6&z=2021-02-10&g=2021-02-10) gebruikt de vermogensbestanddelen die in aanmerking worden genomen bij de berekening van het eigen vermogen niet meerdere malen voor de verschillende verzekeraars die bij de berekening betrokken zijn.
+1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.2&artikel=6&z=2026-09-22&g=2026-09-22) gebruikt de vermogensbestanddelen die in aanmerking worden genomen bij de berekening van het eigen vermogen niet meerdere malen voor de verschillende verzekeraars die bij de berekening betrokken zijn.
 
 2. De verzekeraar betrekt bij de berekening van zijn aangepaste solvabiliteit niet de waarde van de activa die dienen ter dekking van het solvabiliteitskapitaalvereiste van andere rechtstreeks of middellijk met hem verbonden verzekeraars.
 
@@ -340,7 +340,7 @@ De Nederlandsche Bank kan nadere regels stellen met betrekking tot de berekening
 
 1. Een onderneming als bedoeld in [artikel 3:296, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) berekent de aanvullende kapitaaltoereikendheid van het financieel conglomeraat in overeenstemming met de ingevolge dit hoofdstuk voorgeschreven regels.
 
-2. De onderneming past voor de berekening van de aanvullende kapitaaltoereikendheid een van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=B&z=2021-02-10&g=2021-02-10) bij dit besluit opgenomen berekeningsmethoden toe.
+2. De onderneming past voor de berekening van de aanvullende kapitaaltoereikendheid een van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=B&z=2026-09-22&g=2026-09-22) bij dit besluit opgenomen berekeningsmethoden toe.
 
 3. De aanvullende kapitaaltoereikendheid is voldoende indien de uitkomst van de berekening, bedoeld in het tweede lid, niet negatief is.
 
@@ -350,17 +350,17 @@ De Nederlandsche Bank kan nadere regels stellen met betrekking tot de berekening
 
 1. Een onderneming als bedoeld in [artikel 3:296, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) verstrekt de in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) bedoelde berekening eenmaal per jaar. De Nederlandsche Bank kan, indien ontwikkelingen in de aanvullende kapitaaltoereikendheid daar aanleiding toe geven, besluiten dat die onderneming de berekening met een hogere frequentie verstrekt.
 
-2. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de aanvullende kapitaaltoereikendheid. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2021-02-10&g=2021-02-10), is van toepassing.
+2. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de aanvullende kapitaaltoereikendheid. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2026-09-22&g=2026-09-22), is van toepassing.
 
-3. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over de aanvullende kapitaaltoereikendheid en die is opgesteld met gebruikmaking van de procedures, bedoeld in [artikel 28, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2021-02-10&g=2021-02-10).
+3. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over de aanvullende kapitaaltoereikendheid en die is opgesteld met gebruikmaking van de procedures, bedoeld in [artikel 28, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2026-09-22&g=2026-09-22).
 
 ##### Artikel 25
 
-1. Ongeacht welke van de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2021-02-10&g=2021-02-10), bedoelde methoden wordt toegepast, betrekt de onderneming, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2021-02-10&g=2021-02-10), het totale solvabiliteitstekort van een dochteronderneming bij de berekening, indien het groepslid een dochteronderneming is en zij een solvabiliteitstekort of, indien het groepslid een niet-gereglementeerde entiteit uit de financiële marktsector is, een theoretisch solvabiliteitstekort heeft.
+1. Ongeacht welke van de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2026-09-22&g=2026-09-22), bedoelde methoden wordt toegepast, betrekt de onderneming, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2026-09-22&g=2026-09-22), het totale solvabiliteitstekort van een dochteronderneming bij de berekening, indien het groepslid een dochteronderneming is en zij een solvabiliteitstekort of, indien het groepslid een niet-gereglementeerde entiteit uit de financiële marktsector is, een theoretisch solvabiliteitstekort heeft.
 
 2. Indien de Nederlandsche Bank coördinator is en zij van oordeel is dat de aansprakelijkheid van de moederonderneming die een gedeelte van het kapitaal van de dochteronderneming in eigendom heeft, strikt en ondubbelzinnig tot dat gedeelte van het kapitaal beperkt is, kan zij besluiten dat de onderneming het solvabiliteitstekort van die dochteronderneming proportioneel in aanmerking neemt. Indien tussen de groepsleden geen kapitaalbanden bestaan, bepaalt de Nederlandsche Bank, indien zij coördinator is, na overleg met de relevante toezichthoudende instanties, het gedeelte van het solvabiliteitstekort dat de onderneming bij de berekening betrekt, rekening houdend met de aansprakelijkheid waartoe de bestaande betrekkingen aanleiding geven.
 
-3. Ongeacht welke van de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2021-02-10&g=2021-02-10), bedoelde methoden wordt toegepast:
+3. Ongeacht welke van de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2026-09-22&g=2026-09-22), bedoelde methoden wordt toegepast:
 
 - a. is het meerdere malen gebruiken van vermogensbestanddelen die voor de berekening van het eigen vermogen in aanmerking komen op het niveau van het financiële conglomeraat of de creatie van eigen vermogen binnen de groep niet toegestaan; met het oog daarop zijn de relevante regels van de desbetreffende sectorale voorschriften van overeenkomstige toepassing;
 
@@ -384,9 +384,9 @@ De Nederlandsche Bank kan nadere regels stellen met betrekking tot de berekening
 
 3. De Nederlandsche Bank bepaalt, na overleg met de andere toezichthoudende instanties, welke categorieën risico’s van de gereglementeerde entiteiten in een bepaald financieel conglomeraat worden gerapporteerd op basis van [artikel 3:297, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:297). Daarbij houdt de Nederlandsche Bank rekening met de specifieke groeps- en risicobeheerstructuur van het financiële conglomeraat.
 
-4. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de risicoconcentraties. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2021-02-10&g=2021-02-10), is van toepassing.
+4. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de risicoconcentraties. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2026-09-22&g=2026-09-22), is van toepassing.
 
-5. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over risicoconcentraties en die is opgesteld met gebruikmaking van de procedures, bedoeld in [artikel 28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2021-02-10&g=2021-02-10).
+5. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over risicoconcentraties en die is opgesteld met gebruikmaking van de procedures, bedoeld in [artikel 28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2026-09-22&g=2026-09-22).
 
 ##### Artikel 27
 
@@ -396,9 +396,9 @@ De Nederlandsche Bank kan nadere regels stellen met betrekking tot de berekening
 
 3. De Nederlandsche Bank bepaalt, na overleg met de andere toezichthoudende instanties, welke categorieën overeenkomsten of posities van de gereglementeerde entiteiten in een bepaald financieel conglomeraat worden gerapporteerd op basis van [artikel 3:298, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:298). Daarbij houdt de Nederlandsche Bank rekening met de specifieke groeps- en risicobeheerstructuur van het financiële conglomeraat.
 
-4. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de intragroepsovereenkomsten en -posities. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2021-02-10&g=2021-02-10), is van toepassing.
+4. De Nederlandsche Bank stelt, met inachtneming van het bepaalde ingevolge het [Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3), alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) en de internationale jaarrekeningstandaarden, nadere regels met betrekking tot de rapportage van de intragroepsovereenkomsten en -posities. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2026-09-22&g=2026-09-22), is van toepassing.
 
-5. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over intragroepsovereenkomsten en -posities en die is opgesteld met gebruikmaking van de procedures bedoeld in [artikel 28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2021-02-10&g=2021-02-10).
+5. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over intragroepsovereenkomsten en -posities en die is opgesteld met gebruikmaking van de procedures bedoeld in [artikel 28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2026-09-22&g=2026-09-22).
 
 ##### Artikel 28
 

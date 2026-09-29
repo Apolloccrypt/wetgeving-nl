@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0008328"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 14 november 1996 regelende de gevolgen van de privatisering van het ABP voor de pensioenen en uitkeringen van het personeel van de Koninklijke Hofhouding (Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding)

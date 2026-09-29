@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-09-28",
+ "gegenereerd": "2026-09-29",
  "geverifieerd": true,
- "bwb_regelingen": 46923,
- "bwb_geldend": 22237,
- "site_totaal": 22453,
- "site_geldend": 22235,
+ "bwb_regelingen": 46926,
+ "bwb_geldend": 22238,
+ "site_totaal": 22456,
+ "site_geldend": 22236,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 2,
- "aantal_ten_onrechte_geldig": 218,
+ "aantal_ten_onrechte_geldig": 220,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -61,6 +61,10 @@
   {
    "id": "BWBR0020750",
    "titel": "Besluit van 11 december 2006, houdende wijziging van het Besluit prudentiële regels Wft ter implementatie van richtlijn nr. 2006/48/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU L 177) en richtlijn nr. 2006/49/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 inzake de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen (herschikking) (PbEU L 177) (Besluit implementatie kapitaalakkoord Bazel 2)"
+  },
+  {
+   "id": "BWBR0020779",
+   "titel": "Beleidsregel van De Nederlandsche Bank N.V. van 12 december 2006, nr. Juza/2006/02475/CLR, houdende regels ingevolge artikel VI, eerste en tweede lid, van het Besluit implementatie kapitaalakkoord Bazel 2 met betrekking tot de wijze van uitoefening van de daarin aan haar gedelegeerde bevoegdheden (Beleidsregel versoepeling ervaringsvereiste voor de toepassing van de IRB)"
   },
   {
    "id": "BWBR0021255",
@@ -117,6 +121,10 @@
   {
    "id": "BWBR0035167",
    "titel": "Besluit van de Staatssecretaris van Infrastructuur en Milieu van 3 juni 2014, nr. IENM/BSK-2014/117255 tot wijziging van de periode waarop het Nationaal Samenwerkingsprogramma Luchtkwaliteit betrekking heeft (besluit verlenging NSL)"
+  },
+  {
+   "id": "BWBR0035308",
+   "titel": "Wet van 25 juni 2014 tot wijziging van de Wet op het financieel toezicht en enige andere wetten ter implementatie van richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176) en ter implementatie van verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van Verordening (EU) nr. 648/2012 (PbEU 2013, L 176) (Implementatiewet richtlijn en verordening kapitaalvereisten)"
   },
   {
    "id": "BWBR0035729",

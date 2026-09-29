@@ -8,7 +8,7 @@ laatste_update: 1995-08-14
 status: geldig
 toestand: 1995-08-14
 bron: "https://wetten.overheid.nl/BWBR0007507"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Herziening besluit inzake overdracht van aandelen in het kader van een kasgeld- c.q. holdingconstructie

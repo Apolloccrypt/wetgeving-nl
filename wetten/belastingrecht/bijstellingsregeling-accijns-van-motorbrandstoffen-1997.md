@@ -8,7 +8,7 @@ laatste_update: 1997-01-01
 status: geldig
 toestand: 1997-01-01
 bron: "https://wetten.overheid.nl/BWBR0008360"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Bijstellingsregeling accijns van motorbrandstoffen 1997

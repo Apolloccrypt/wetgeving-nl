@@ -8,7 +8,7 @@ laatste_update: 1996-10-10
 status: geldig
 toestand: 1996-10-10
 bron: "https://wetten.overheid.nl/BWBR0008264"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Verhaalsregeling pensioenpremies sector Rijk bij buitengewoon verlof van lange duur

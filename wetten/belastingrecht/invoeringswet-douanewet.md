@@ -9,7 +9,7 @@ laatste_update: 1996-06-01
 status: geldig
 toestand: 1996-06-01
 bron: "https://wetten.overheid.nl/BWBR0007633"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 2 november 1995, tot inwerkingtreding van en aanpassing van wetgeving aan de Douanewet

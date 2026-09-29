@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0008166"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 4 juli 1996 tot wijziging van de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en de Tijdelijke wet bekostiging nieuwe basisscholen inzake vereenvoudiging van het bekostigingsstelsel voor het basisonderwijs en het (voortgezet) speciaal onderwijs (vereenvoudiging Londo)

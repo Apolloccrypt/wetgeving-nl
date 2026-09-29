@@ -8,7 +8,7 @@ laatste_update: 1996-07-24
 status: geldig
 toestand: 1996-07-24
 bron: "https://wetten.overheid.nl/BWBR0008179"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Aanwijzing militaire autoriteit

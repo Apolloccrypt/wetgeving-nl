@@ -8,7 +8,7 @@ laatste_update: 1996-06-28
 status: geldig
 toestand: 1996-06-28
 bron: "https://wetten.overheid.nl/BWBR0008109"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Instelling Landelijk overleg- platform groene ruimte

@@ -8,7 +8,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0008484"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Aanwijzingsregeling regelingen ex artikel 7 en 7a WAO

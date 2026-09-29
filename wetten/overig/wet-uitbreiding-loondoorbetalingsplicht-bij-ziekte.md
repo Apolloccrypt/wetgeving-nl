@@ -9,7 +9,7 @@ laatste_update: 1999-02-17
 status: geldig
 toestand: 1999-02-17
 bron: "https://wetten.overheid.nl/BWBR0007892"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 8 februari 1996, tot wijziging van het Burgerlijk Wetboek, de Ziektewet en enkele andere wetten in verband met loondoorbetaling door de werkgever bij ziekte van de werknemer

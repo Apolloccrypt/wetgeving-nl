@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0008340"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Regeling impuls leefbaarheid, veiligheid en stadseconomie G15

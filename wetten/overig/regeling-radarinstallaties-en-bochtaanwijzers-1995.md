@@ -8,7 +8,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0007588"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling radarinstallaties en bochtaanwijzers 1995

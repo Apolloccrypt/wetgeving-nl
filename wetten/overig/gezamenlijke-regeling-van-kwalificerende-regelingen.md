@@ -8,7 +8,7 @@ laatste_update: 1998-02-05
 status: geldig
 toestand: 1998-02-05
 bron: "https://wetten.overheid.nl/BWBR0008492"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Gezamenlijke regeling van kwalificerende regelingen

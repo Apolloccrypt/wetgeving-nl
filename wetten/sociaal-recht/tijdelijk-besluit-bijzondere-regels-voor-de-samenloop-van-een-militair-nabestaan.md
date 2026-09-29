@@ -8,7 +8,7 @@ laatste_update: 1996-07-01
 status: geldig
 toestand: 1996-07-01
 bron: "https://wetten.overheid.nl/BWBR0008244"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Tijdelijk besluit Bijzondere regels voor de samenloop van een militair nabestaandenpensioen en een uitkering ingevolge de Algemene nabestaandenwet

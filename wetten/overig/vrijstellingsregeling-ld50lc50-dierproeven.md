@@ -9,7 +9,7 @@ laatste_update: 1998-04-23
 status: geldig
 toestand: 1998-04-23
 bron: "https://wetten.overheid.nl/BWBR0008370"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Vrijstellingregeling LC50/LD50-dierproeven

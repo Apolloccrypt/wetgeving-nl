@@ -9,7 +9,7 @@ laatste_update: 1996-02-16
 status: geldig
 toestand: 1996-02-16
 bron: "https://wetten.overheid.nl/BWBR0007883"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 30 januari 1996, houdende wijziging van het Besluit aanvulling arbeidsongeschiktheidsuitkering militairen en van het Besluit uitvoering Algemene militaire pensioenwet

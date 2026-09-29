@@ -9,7 +9,7 @@ laatste_update: 1996-04-24
 status: geldig
 toestand: 1996-04-24
 bron: "https://wetten.overheid.nl/BWBR0007980"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 3 april 1996, houdende de herindeling van de ministeriële taak met betrekking tot tolkencentra

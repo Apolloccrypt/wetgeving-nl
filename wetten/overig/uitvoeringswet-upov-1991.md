@@ -9,7 +9,7 @@ laatste_update: 1998-04-24
 status: geldig
 toestand: 1998-04-24
 bron: "https://wetten.overheid.nl/BWBR0008141"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 juni 1996 tot goedkeuring van de op 19 maart 1991 te Genève tot stand gekomen herziening van het Internationaal Verdrag tot bescherming van kweekprodukten (Trb. 1992, 52), alsmede wijziging van de Zaaizaad- en Plantgoedwet (Uitvoeringswet UPOV 1991)

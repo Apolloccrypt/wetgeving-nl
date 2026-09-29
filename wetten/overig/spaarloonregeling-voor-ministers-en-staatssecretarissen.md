@@ -9,7 +9,7 @@ laatste_update: 1996-12-26
 status: geldig
 toestand: 1996-12-26
 bron: "https://wetten.overheid.nl/BWBR0008460"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Regeling houdende vaststelling van een spaarloonregeling als bedoeld in artikel 34a, eerste lid, van de Wet op de loonbelasting 1964 voor ministers en staatssecretarissen

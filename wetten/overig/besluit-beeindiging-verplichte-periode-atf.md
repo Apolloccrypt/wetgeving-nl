@@ -8,7 +8,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0007817"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit beëindiging verplichte periode ATF

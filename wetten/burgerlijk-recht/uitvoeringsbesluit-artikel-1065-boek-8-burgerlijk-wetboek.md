@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0008364"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 29 november 1996 ter uitvoering van artikel 1065 van Boek 8 van het Burgerlijk Wetboek

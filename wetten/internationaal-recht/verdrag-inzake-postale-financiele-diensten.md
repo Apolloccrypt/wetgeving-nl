@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBV0006700"
-opgehaald: 2026-09-16
+opgehaald: 2026-09-29
 ---
 
 # Verdrag inzake postale financiële diensten

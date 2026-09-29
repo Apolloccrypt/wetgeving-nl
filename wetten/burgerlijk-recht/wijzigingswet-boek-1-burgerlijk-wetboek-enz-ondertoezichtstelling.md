@@ -9,7 +9,7 @@ laatste_update: 1995-11-01
 status: geldig
 toestand: 1995-11-01
 bron: "https://wetten.overheid.nl/BWBR0007365"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 april 1995, tot herziening van de maatregel van ondertoezichtstelling van minderjarigen (artikelen 254 en volgende van Boek 1 van het Burgerlijk Wetboek)

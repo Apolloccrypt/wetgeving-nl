@@ -9,7 +9,7 @@ laatste_update: 1996-03-01
 status: geldig
 toestand: 1996-03-01
 bron: "https://wetten.overheid.nl/BWBR0007853"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 19 januari 1996, houdende het opnemen van voorschriften in enkele algemene maatregelen van bestuur gebaseerd op artikel 8.40 Wet milieubeheer met betrekking tot het brengen van bedrijfsafvalwater in een voorziening voor de inzameling en het transport van afvalwater

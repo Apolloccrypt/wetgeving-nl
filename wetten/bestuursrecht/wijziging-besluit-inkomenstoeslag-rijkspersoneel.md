@@ -8,7 +8,7 @@ laatste_update: 1996-04-01
 status: geldig
 toestand: 1996-04-01
 bron: "https://wetten.overheid.nl/BWBR0007951"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wijziging Besluit inkomenstoeslag rijkspersoneel

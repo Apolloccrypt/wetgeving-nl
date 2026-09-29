@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0007678"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 29 november 1995, tot goedkeuring van het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens alsmede invoering van een belasting met betrekking tot zware motorrijtuigen

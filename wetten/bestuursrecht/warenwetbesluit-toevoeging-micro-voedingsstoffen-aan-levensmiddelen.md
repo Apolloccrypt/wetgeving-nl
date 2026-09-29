@@ -9,7 +9,7 @@ laatste_update: 2014-11-14
 status: geldig
 toestand: 2014-11-14
 bron: "https://wetten.overheid.nl/BWBR0008065"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 24 mei 1996, houdende het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen

@@ -9,7 +9,7 @@ laatste_update: 1995-06-23
 status: geldig
 toestand: 1995-06-23
 bron: "https://wetten.overheid.nl/BWBR0007433"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Rijkswet van 8 juni 1995, houdende goedkeuring van het op 13 januari 1993 te Parijs tot stand gekomen Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, met bijlagen

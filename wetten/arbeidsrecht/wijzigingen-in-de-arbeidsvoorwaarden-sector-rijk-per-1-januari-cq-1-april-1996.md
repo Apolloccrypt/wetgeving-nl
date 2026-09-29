@@ -8,7 +8,7 @@ laatste_update: 1995-12-22
 status: geldig
 toestand: 1995-12-22
 bron: "https://wetten.overheid.nl/BWBR0007752"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wijzigingen in de arbeidsvoorwaarden sector Rijk per 1 januari c.q. 1 april 1996

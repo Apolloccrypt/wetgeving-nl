@@ -8,7 +8,7 @@ laatste_update: 2019-12-18
 status: geldig
 toestand: 2019-12-18
 bron: "https://wetten.overheid.nl/BWBR0007958"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling referentieprijslijsten geneesmiddelen

@@ -9,7 +9,7 @@ laatste_update: 1996-04-24
 status: geldig
 toestand: 1996-04-24
 bron: "https://wetten.overheid.nl/BWBR0007986"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 4 april 1996, houdende wijziging van bepalingen van de Mediawet in verband met een herziening van de reclameregeling voor de publieke lokale en regionale omroep, het bevorderen van de samenwerking tussen de publieke regionale en landelijke omroep en het toestaan van commerciële omroep op niet-landelijk niveau

@@ -9,7 +9,7 @@ laatste_update: 2017-07-01
 status: geldig
 toestand: 2017-07-01
 bron: "https://wetten.overheid.nl/BWBR0008419"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 12 december 1996, houdende instelling van een vast college van advies van het Rijk op het terrein van het openbaar bestuur alsmede toekenning van een uitvoeringstechnische adviestaak aan de Kiesraad (Wet op de Raad voor het openbaar bestuur)

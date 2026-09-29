@@ -9,7 +9,7 @@ laatste_update: 1996-03-01
 status: geldig
 toestand: 1996-03-01
 bron: "https://wetten.overheid.nl/BWBR0007913"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 27 februari 1996 tot wijziging van het Uitvoeringsbesluit belastingen van rechtsverkeer

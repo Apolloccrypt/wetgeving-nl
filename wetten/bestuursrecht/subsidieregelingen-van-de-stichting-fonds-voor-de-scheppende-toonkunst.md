@@ -9,7 +9,7 @@ laatste_update: 1996-05-15
 status: geldig
 toestand: 1996-05-15
 bron: "https://wetten.overheid.nl/BWBR0007829"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Subsidieregelingen van de Stichting Fonds voor de Scheppende Toonkunst, zoals laatstelijk gewijzigd bij bestuursbesluit van 29 september 1995 en goedgekeurd door de staatssecretaris op 18 januari 1996

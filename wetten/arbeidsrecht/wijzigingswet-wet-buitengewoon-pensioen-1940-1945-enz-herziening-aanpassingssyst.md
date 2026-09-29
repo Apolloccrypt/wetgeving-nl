@@ -9,7 +9,7 @@ laatste_update: 1995-12-01
 status: geldig
 toestand: 1995-12-01
 bron: "https://wetten.overheid.nl/BWBR0007635"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 2 november 1995, tot wijziging van de Wet buitengewoon pensioen 1940-1945, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet buitengewoon pensioen Indisch verzet, de Wet uitkeringen vervolgingsslachtoffers 1940-1945 en de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 (herziening aanpassingssysteem wetten voor oorlogsgetroffenen)

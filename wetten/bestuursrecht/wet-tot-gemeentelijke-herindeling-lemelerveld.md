@@ -9,7 +9,7 @@ laatste_update: 1998-12-30
 status: geldig
 toestand: 1998-12-30
 bron: "https://wetten.overheid.nl/BWBR0008227"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 5 september 1996 tot gemeentelijke herindeling van Lemelerveld

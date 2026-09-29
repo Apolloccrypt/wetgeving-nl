@@ -9,7 +9,7 @@ laatste_update: 1996-02-01
 status: geldig
 toestand: 1996-02-01
 bron: "https://wetten.overheid.nl/BWBR0007856"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wijziging formulier geneeskundige verklaring Wet B.o.p.z.

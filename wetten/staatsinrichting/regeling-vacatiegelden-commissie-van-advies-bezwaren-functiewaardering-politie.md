@@ -8,7 +8,7 @@ laatste_update: 2002-01-19
 status: geldig
 toestand: 2002-01-19
 bron: "https://wetten.overheid.nl/BWBR0007522"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling vacatiegelden commissie van advies bezwaren functiewaardering politie

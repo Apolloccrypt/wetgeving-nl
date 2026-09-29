@@ -9,7 +9,7 @@ laatste_update: 1995-06-01
 status: geldig
 toestand: 1995-06-01
 bron: "https://wetten.overheid.nl/BWBR0007320"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 6 april 1995, betreffende ontbinding van de Eerste Kamer der Staten-Generaal

@@ -8,7 +8,7 @@ laatste_update: 1995-05-01
 status: geldig
 toestand: 1995-05-01
 bron: "https://wetten.overheid.nl/BWBR0007314"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Gezamenlijke regeling aanwezigheid van ambtenaren bij onderzoek in een ander land van het Koninkrijk

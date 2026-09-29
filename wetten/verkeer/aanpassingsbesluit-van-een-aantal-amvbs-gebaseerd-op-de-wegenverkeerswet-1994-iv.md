@@ -9,7 +9,7 @@ laatste_update: 1996-07-01
 status: geldig
 toestand: 1996-07-01
 bron: "https://wetten.overheid.nl/BWBR0008108"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 18 juni 1996, houdende aanpassing van een aantal algemene maatregelen van bestuur gebaseerd op de Wegenverkeerswet 1994 in verband met de verzelfstandiging van de Rijksdienst voor het Wegverkeer

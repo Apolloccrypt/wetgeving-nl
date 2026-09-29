@@ -9,7 +9,7 @@ laatste_update: 1996-06-09
 status: geldig
 toestand: 1996-06-09
 bron: "https://wetten.overheid.nl/BWBR0008000"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wijziging van de Uitvoeringsbeschikking omzetbelasting 1968 en van de ministeriële regeling van 22 december 1995 in verband met de bestrijding van constructies met betrekking tot onroerende zaken (Stcrt. 250) alsmede intrekking van twee ministeriële regelingen

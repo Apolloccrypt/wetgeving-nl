@@ -8,7 +8,7 @@ laatste_update: 1995-12-14
 status: geldig
 toestand: 1995-12-14
 bron: "https://wetten.overheid.nl/BWBR0007675"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Bekendmaking beleidswijziging rondvluchtvergunningen ex art. 16b van de Luchtvaartwet

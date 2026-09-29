@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0007312"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 9 maart 1995, houdende wijziging van enkele onderwijswetten in verband met de budgettering van ten laste van het Rijk komende werkloosheidsuitkeringen of herplaatsingswachtgelden in het onderwijs, alsmede de instelling van een participatiefonds ten behoeve van de beheersing van de werkloosheidsuitkeringen of herplaatsingswachtgelden (budgettering wachtgelden en instelling participatiefonds)

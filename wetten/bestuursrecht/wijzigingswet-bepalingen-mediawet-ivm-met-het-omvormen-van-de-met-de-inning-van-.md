@@ -9,7 +9,7 @@ laatste_update: 2004-02-13
 status: geldig
 toestand: 2004-02-13
 bron: "https://wetten.overheid.nl/BWBR0008454"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 19 december 1996 tot wijziging van bepalingen van de Mediawet in verband met het omvormen van de met de inning van de omroepbijdragen belaste dienst van Koninklijke PTT Nederland N.V. tot een publiekrechtelijk vormgegeven zelfstandig bestuursorgaan

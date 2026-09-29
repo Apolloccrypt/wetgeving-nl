@@ -9,7 +9,7 @@ laatste_update: 1995-10-16
 status: geldig
 toestand: 1995-10-16
 bron: "https://wetten.overheid.nl/BWBR0007589"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Circulaire van de Minister van Verkeer en Waterstaat aan de hoofdingenieur-directeuren in de regionale directies van de Rijkswaterstaat, met uitzondering van de directie Noordzee, alsmede de hoofdingenieur-directeur van het Rijksinstituut voor Integraal Zoetwaterbeheer en Afvalwaterbehandeling, inzake de gewijzigde procedure ingevolge de Belemmeringenwet Privaatrecht

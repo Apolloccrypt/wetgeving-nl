@@ -9,7 +9,7 @@ laatste_update: 2015-03-06
 status: geldig
 toestand: 2015-03-06
 bron: "https://wetten.overheid.nl/BWBR0008319"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Instelling overlegorgaan voor export-, import-, en investeringsgaranties

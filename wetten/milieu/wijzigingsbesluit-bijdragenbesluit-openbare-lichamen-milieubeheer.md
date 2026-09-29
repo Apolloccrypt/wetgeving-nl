@@ -9,7 +9,7 @@ laatste_update: 1995-07-26
 status: geldig
 toestand: 1995-07-26
 bron: "https://wetten.overheid.nl/BWBR0007438"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 13 juni 1995, houdende wijziging van het Bijdragenbesluit openbare lichamen milieubeheer (bijdrageregeling sanering industrielawaai)

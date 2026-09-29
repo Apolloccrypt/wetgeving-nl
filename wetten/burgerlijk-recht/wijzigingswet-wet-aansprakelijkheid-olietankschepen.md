@@ -9,7 +9,7 @@ laatste_update: 1997-11-15
 status: geldig
 toestand: 1997-11-15
 bron: "https://wetten.overheid.nl/BWBR0008225"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 4 september 1996 tot wijziging van de Wet aansprakelijkheid olietankschepen

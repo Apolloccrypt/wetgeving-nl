@@ -9,7 +9,7 @@ laatste_update: 1996-08-01
 status: geldig
 toestand: 1996-08-01
 bron: "https://wetten.overheid.nl/BWBR0008139"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 juni 1996, houdende wijziging van onder meer de Wet op de onderwijsverzorging in verband met de verlenging van de werkingsduur van die wet

@@ -9,7 +9,7 @@ laatste_update: 1997-07-01
 status: geldig
 toestand: 1997-07-01
 bron: "https://wetten.overheid.nl/BWBR0008464"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 20 december 1996 tot wijziging van enkele belastingwetten c.a. (belastingplan 1997)

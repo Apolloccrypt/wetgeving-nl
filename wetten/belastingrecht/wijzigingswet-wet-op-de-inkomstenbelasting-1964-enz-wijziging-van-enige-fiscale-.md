@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0007745"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 15 december 1995 tot wijziging van de Wet op de inkomstenbelasting 1964, de Wet op de loonbelasting 1964 en de Wet op belastingen van rechtsverkeer (wijziging van enige fiscale wetten in het kader van lastenverlichting voor het midden- en kleinbedrijf)

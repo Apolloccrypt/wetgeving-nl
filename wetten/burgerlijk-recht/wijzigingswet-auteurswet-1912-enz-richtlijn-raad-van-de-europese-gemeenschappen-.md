@@ -9,7 +9,7 @@ laatste_update: 2008-03-26
 status: geldig
 toestand: 2008-03-26
 bron: "https://wetten.overheid.nl/BWBR0007793"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 21 december 1995 tot wijziging van de Auteurswet 1912 en de Wet op de naburige rechten in verband met de richtlijn van de Raad van de Europese Gemeenschappen van 19 november 1992, PbEG 1992, L 346/61 betreffende het verhuurrecht, het uitleenrecht en bepaalde naburige rechten op het gebied van intellectuele eigendom

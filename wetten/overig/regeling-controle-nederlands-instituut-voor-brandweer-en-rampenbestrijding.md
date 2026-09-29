@@ -8,7 +8,7 @@ laatste_update: 1996-04-13
 status: geldig
 toestand: 1996-04-13
 bron: "https://wetten.overheid.nl/BWBR0007968"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling controle Nederlands instituut voor brandweer en rampenbestrijding

@@ -9,7 +9,7 @@ laatste_update: 1996-04-01
 status: geldig
 toestand: 1996-04-01
 bron: "https://wetten.overheid.nl/BWBR0007750"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van de Sociaal-Economische Raad van 15 december 1995 houdende de instelling van de Commissie Vakproeven Wet Assurantiebemiddelingsbedrijf.

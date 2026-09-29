@@ -8,7 +8,7 @@ laatste_update: 1997-12-15
 status: geldig
 toestand: 1997-12-15
 bron: "https://wetten.overheid.nl/BWBR0008482"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Circulaire Aankoop effecten met spaarloon

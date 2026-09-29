@@ -9,7 +9,7 @@ laatste_update: 2007-07-13
 status: geldig
 toestand: 2007-07-13
 bron: "https://wetten.overheid.nl/BWBR0008273"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 9 oktober 1996, houdende aanwijzing van instellingen als bedoeld in de artikelen 22, vierde lid, en 33, vierde lid, van de Kernenergiewet

@@ -9,7 +9,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBR0007512"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 16 augustus 1995, houdende nadere regels met betrekking tot de loodsplicht

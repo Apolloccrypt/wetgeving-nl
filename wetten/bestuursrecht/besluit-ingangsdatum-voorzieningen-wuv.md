@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0007385"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 8 mei 1995, houdende nadere regels met betrekking tot de ingangsdatum van de voorzieningen, bedoeld in de artikelen 20 en 21 van de Wet uitkeringen vervolgingsslachtoffers 1940-1945

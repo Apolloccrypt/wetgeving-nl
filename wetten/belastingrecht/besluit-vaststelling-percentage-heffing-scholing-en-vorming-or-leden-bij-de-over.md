@@ -8,7 +8,7 @@ laatste_update: 1996-04-04
 status: geldig
 toestand: 1996-04-04
 bron: "https://wetten.overheid.nl/BWBR0007943"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit vaststelling percentage heffing scholing en vorming OR-leden bij de overheid 1996

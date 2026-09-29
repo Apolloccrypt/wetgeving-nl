@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0008368"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 29 november 1996 tot invoering van de Arbeidsvoorzieningswet 1996 (Invoeringswet Arbeidsvoorzieningswet 1996)

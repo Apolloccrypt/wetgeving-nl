@@ -9,7 +9,7 @@ laatste_update: 1996-03-01
 status: geldig
 toestand: 1996-03-01
 bron: "https://wetten.overheid.nl/BWBR0007822"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 27 december 1995, houdende het machtigen van Onze Minister van Defensie tot het bevorderen van militairen die een officiersrang bekleden

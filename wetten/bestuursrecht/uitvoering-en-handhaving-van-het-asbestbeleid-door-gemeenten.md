@@ -8,7 +8,7 @@ laatste_update: 1995-06-19
 status: geldig
 toestand: 1995-06-19
 bron: "https://wetten.overheid.nl/BWBR0007417"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Uitvoering en handhaving van het asbestbeleid door gemeenten

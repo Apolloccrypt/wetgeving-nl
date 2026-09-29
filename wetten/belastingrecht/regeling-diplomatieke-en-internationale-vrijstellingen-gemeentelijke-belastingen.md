@@ -8,7 +8,7 @@ laatste_update: 2014-01-18
 status: geldig
 toestand: 2014-01-18
 bron: "https://wetten.overheid.nl/BWBR0008462"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Regeling diplomatieke en internationale vrijstellingen gemeentelijke belastingen 1997

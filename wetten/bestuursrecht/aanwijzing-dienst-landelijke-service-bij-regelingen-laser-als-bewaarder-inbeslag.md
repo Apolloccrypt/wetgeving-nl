@@ -8,7 +8,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0007851"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Aanwijzing Dienst Landelijke service bij regelingen (LASER) als bewaarder inbeslaggenomen voorwerpen

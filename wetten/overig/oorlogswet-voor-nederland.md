@@ -9,7 +9,7 @@ laatste_update: 1999-02-17
 status: geldig
 toestand: 1999-02-17
 bron: "https://wetten.overheid.nl/BWBR0007983"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 3 april 1996, houdende hernieuwde vaststelling van de Oorlogswet voor Nederland ter aanpassing aan de Grondwet en aan de Coördinatiewet uitzonderingstoestanden (Oorlogswet voor Nederland)

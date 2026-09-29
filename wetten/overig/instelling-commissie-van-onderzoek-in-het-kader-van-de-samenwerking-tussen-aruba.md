@@ -8,7 +8,7 @@ laatste_update: 1996-07-01
 status: geldig
 toestand: 1996-07-01
 bron: "https://wetten.overheid.nl/BWBR0008067"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Instelling Commissie van onderzoek in het kader van de samenwerking tussen Aruba en Nederland op het gebied van criminaliteitsbestrijding

@@ -8,7 +8,7 @@ laatste_update: 1995-07-28
 status: geldig
 toestand: 1995-07-28
 bron: "https://wetten.overheid.nl/BWBR0007485"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Circulaire Wet balansverkorting geldelijke steun volkshuisvesting

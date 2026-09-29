@@ -8,7 +8,7 @@ laatste_update: 1996-12-18
 status: geldig
 toestand: 1996-12-18
 bron: "https://wetten.overheid.nl/BWBR0008362"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # MDW-operatie Wet Geluidhinder

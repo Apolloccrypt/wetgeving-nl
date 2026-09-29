@@ -9,7 +9,7 @@ laatste_update: 2017-03-18
 status: geldig
 toestand: 2017-03-18
 bron: "https://wetten.overheid.nl/BWBR0008060"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Regeling Nationaal Noodnet

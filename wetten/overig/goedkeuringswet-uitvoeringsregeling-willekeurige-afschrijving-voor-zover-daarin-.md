@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0008309"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 31 oktober 1996, houdende goedkeuring van de Uitvoeringsregeling willekeurige afschrijving voor zover daarin beperkingen van de mogelijkheid tot willekeurige afschrijving zijn opgenomen

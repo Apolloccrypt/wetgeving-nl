@@ -8,7 +8,7 @@ laatste_update: 1996-02-16
 status: geldig
 toestand: 1996-02-16
 bron: "https://wetten.overheid.nl/BWBR0007888"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Instellingsbesluit Raad voor Europese en Internationale Aangelegenheden

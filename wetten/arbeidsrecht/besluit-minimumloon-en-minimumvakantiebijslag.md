@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0008222"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 2 september 1996, houdende aanwijzing van een aantal arbeidsverhoudingen die als dienstbetrekking als bedoeld in artikel 2 van de Wet minimumloon en minimumvakantiebijslag worden beschouwd

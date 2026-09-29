@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0008405"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 11 december 1996 tot wijziging van de Algemene pensioenwet politieke ambtsdragers (de maatstaf voor de duur van het recht op uitkering en enige andere onderwerpen)

@@ -8,7 +8,7 @@ laatste_update: 2015-06-24
 status: geldig
 toestand: 2015-06-24
 bron: "https://wetten.overheid.nl/BWBR0008406"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers

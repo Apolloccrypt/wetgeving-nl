@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0008159"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 3 juli 1996, houdende algemene regels over de advisering in zaken van algemeen verbindende voorschriften of te voeren beleid van het Rijk (Kaderwet adviescolleges)

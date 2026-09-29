@@ -9,7 +9,7 @@ laatste_update: 1998-05-15
 status: geldig
 toestand: 1998-05-15
 bron: "https://wetten.overheid.nl/BWBR0008254"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 september 1996 tot wijziging van de bepalingen uit het Wetboek van Strafvordering betreffende het proces-verbaal van de terechtzitting en het vonnis

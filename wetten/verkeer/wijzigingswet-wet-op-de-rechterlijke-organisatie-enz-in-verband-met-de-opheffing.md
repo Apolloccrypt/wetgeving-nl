@@ -9,7 +9,7 @@ laatste_update: 1996-08-01
 status: geldig
 toestand: 1996-08-01
 bron: "https://wetten.overheid.nl/BWBR0008195"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 februari 1996, tot wijziging van de Wet op de rechterlijke organisatie en andere wetten in verband met de opheffing van de functie van verkeersschout

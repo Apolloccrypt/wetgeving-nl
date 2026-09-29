@@ -9,7 +9,7 @@ laatste_update: 1995-07-01
 status: geldig
 toestand: 1995-07-01
 bron: "https://wetten.overheid.nl/BWBR0007366"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 april 1995, houdende wijziging van de Grondwaterwet met betrekking tot voor het onttrekken van grondwater te stellen algemene regels en enige andere onderwerpen

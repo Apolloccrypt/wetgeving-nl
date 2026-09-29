@@ -9,7 +9,7 @@ laatste_update: 1996-01-01
 status: geldig
 toestand: 1996-01-01
 bron: "https://wetten.overheid.nl/BWBR0007619"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 26 oktober 1995, houdende wijziging van de Wet op het specifiek cultuurbeleid in verband met de instelling van een adviesorgaan voor het beleid op het terrein van de cultuur (Raad voor cultuur)

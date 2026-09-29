@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0008175"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van 10 juli 1996, houdende regels inzake de verstrekking van gegevens ten behoeve van de waardebepaling en waardevaststelling ingevolge de Wet waardering onroerende zaken (Besluit gegevensverstrekking Wet waardering onroerende zaken)

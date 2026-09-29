@@ -8,7 +8,7 @@ laatste_update: 2024-10-17
 status: geldig
 toestand: 2024-10-17
 bron: "https://wetten.overheid.nl/BWBR0007548"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Financiële verordening Loodswezen

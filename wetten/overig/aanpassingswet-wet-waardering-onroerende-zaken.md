@@ -9,7 +9,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0008463"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-29
 ---
 
 # Wet van 20 december 1996 tot wijziging van de Gemeentewet, de Waterschapswet, de Wet op de inkomstenbelasting 1964, de Wet op de vermogensbelasting 1964, de Algemene wet inzake rijksbelastingen, alsmede de Wet waardering onroerende zaken (Aanpassingswet Wet waardering onroerende zaken)

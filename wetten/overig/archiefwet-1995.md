@@ -9,7 +9,7 @@ laatste_update: 2024-06-19
 status: geldig
 toestand: 2024-06-19
 bron: "https://wetten.overheid.nl/BWBR0007376"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Wet van 28 april 1995, houdende vervanging van de Archiefwet 1962 (Stb. 313) en in verband daarmede wijziging van enige andere wetten

@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0007600"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-29
 ---
 
 # Besluit van de Minister van Justitie, houdende een vrijstelling van de draagplicht van het legitimatiebewijs als bedoeld in artikel 26, eerste lid, van het Besluit buitengewoon opsporingsambtenaar
