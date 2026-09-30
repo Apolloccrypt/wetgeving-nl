@@ -9,7 +9,7 @@ laatste_update: 1997-10-02
 status: geldig
 toestand: 1997-10-02
 bron: "https://wetten.overheid.nl/BWBR0008766"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 25 juni 1997 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering omtrent de terbeschikkingstelling en de sanctietoepassing ten aanzien van geestelijk gestoorde delinquenten

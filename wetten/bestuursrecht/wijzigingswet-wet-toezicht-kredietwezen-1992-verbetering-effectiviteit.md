@@ -9,7 +9,7 @@ laatste_update: 1998-05-15
 status: geldig
 toestand: 1998-05-15
 bron: "https://wetten.overheid.nl/BWBR0009456"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 12 maart 1998 tot wijziging van de Wet toezicht kredietwezen 1992 teneinde de effectiviteit van deze wet op enkele punten te verbeteren

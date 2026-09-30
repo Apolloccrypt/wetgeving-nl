@@ -9,7 +9,7 @@ laatste_update: 2006-12-20
 status: geldig
 toestand: 2006-12-20
 bron: "https://wetten.overheid.nl/BWBR0009612"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 14 mei 1998, houdende wijziging van het Burgerlijk Wetboek, het Buitengewoon Besluit Arbeidsverhoudingen 1945 en van enige andere wetten (Flexibiliteit en zekerheid)

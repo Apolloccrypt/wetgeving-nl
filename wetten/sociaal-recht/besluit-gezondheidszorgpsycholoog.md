@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0009467"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 17 maart 1998, houdende regels inzake de opleiding tot en de deskundigheid van de gezondheidszorgpsycholoog (Besluit gezondheidszorgpsycholoog)

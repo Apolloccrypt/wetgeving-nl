@@ -8,7 +8,7 @@ laatste_update: 1998-06-10
 status: geldig
 toestand: 1998-06-10
 bron: "https://wetten.overheid.nl/BWBR0009629"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Instellingsbesluit Centrale Directie Juridische Zaken Verkeer en Waterstaat

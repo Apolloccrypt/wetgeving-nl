@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0009458"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 12 maart 1998, houdende regels inzake de verstrekking van subsidies door de Minister van Onderwijs, Cultuur en Wetenschappen (Wet overige OCenW-subsidies)

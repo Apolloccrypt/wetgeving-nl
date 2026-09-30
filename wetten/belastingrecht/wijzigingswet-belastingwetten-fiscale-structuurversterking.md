@@ -9,7 +9,7 @@ laatste_update: 1998-02-13
 status: geldig
 toestand: 1998-02-13
 bron: "https://wetten.overheid.nl/BWBR0009218"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 18 december 1997, houdende wijziging van enkele belastingwetten c.a. 1998 (fiscale structuurversterking)

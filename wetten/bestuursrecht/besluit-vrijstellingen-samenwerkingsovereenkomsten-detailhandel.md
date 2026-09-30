@@ -9,7 +9,7 @@ laatste_update: 2014-08-01
 status: geldig
 toestand: 2014-08-01
 bron: "https://wetten.overheid.nl/BWBR0009141"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 12 december 1997, houdende enige vrijstellingen voor samenwerkingsovereenkomsten in de detailhandel van het verbod van mededingingsafspraken (Besluit vrijstellingen samenwerkingsovereenkomsten detailhandel)

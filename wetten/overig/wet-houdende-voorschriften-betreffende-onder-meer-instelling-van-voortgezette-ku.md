@@ -9,7 +9,7 @@ laatste_update: 1998-05-20
 status: geldig
 toestand: 1998-05-20
 bron: "https://wetten.overheid.nl/BWBR0009611"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 14 mei 1998, houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999

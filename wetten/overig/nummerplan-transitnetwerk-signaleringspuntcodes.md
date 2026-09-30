@@ -9,7 +9,7 @@ laatste_update: 2015-05-02
 status: geldig
 toestand: 2015-05-02
 bron: "https://wetten.overheid.nl/BWBR0009521"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Nummerplan voor transitnetwerk signaleringspuntcodes

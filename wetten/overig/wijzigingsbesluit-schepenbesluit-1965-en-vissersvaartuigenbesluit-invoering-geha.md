@@ -9,7 +9,7 @@ laatste_update: 1998-05-01
 status: geldig
 toestand: 1998-05-01
 bron: "https://wetten.overheid.nl/BWBR0009223"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 18 december 1997, tot wijziging van het Schepenbesluit 1965 en van het Vissersvaartuigenbesluit in verband met de rijkswet van 12 april 1995, houdende wijziging van de Schepenwet (Stb. 301) en met de invoering van een geharmoniseerd systeem van onderzoek en certificering

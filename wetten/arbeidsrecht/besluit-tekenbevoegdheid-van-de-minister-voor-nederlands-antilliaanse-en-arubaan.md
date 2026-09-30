@@ -8,7 +8,7 @@ laatste_update: 1998-07-01
 status: geldig
 toestand: 1998-07-01
 bron: "https://wetten.overheid.nl/BWBR0009728"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Besluit tekenbevoegdheid van de minister voor Nederlands-Antilliaanse en Arubaanse Zaken 1998

@@ -9,7 +9,7 @@ laatste_update: 1998-12-01
 status: geldig
 toestand: 1998-12-01
 bron: "https://wetten.overheid.nl/BWBR0009730"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 25 juni 1998 tot wijziging van de Faillissementswet in verband met de sanering van schulden van natuurlijke personen

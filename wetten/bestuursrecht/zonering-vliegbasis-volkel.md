@@ -8,7 +8,7 @@ laatste_update: 1997-06-06
 status: geldig
 toestand: 1997-06-06
 bron: "https://wetten.overheid.nl/BWBR0008708"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Zonering vliegbasis Volkel

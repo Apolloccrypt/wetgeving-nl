@@ -9,7 +9,7 @@ laatste_update: 2005-12-29
 status: geldig
 toestand: 2005-12-29
 bron: "https://wetten.overheid.nl/BWBR0009283"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 24 december 1997, tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 3, derde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen (Besluit uitbreiding en beperking kring verzekerden Waz)

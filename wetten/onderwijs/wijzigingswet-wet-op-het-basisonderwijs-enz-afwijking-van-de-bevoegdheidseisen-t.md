@@ -9,7 +9,7 @@ laatste_update: 2001-07-25
 status: geldig
 toestand: 2001-07-25
 bron: "https://wetten.overheid.nl/BWBR0008791"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 2 juli 1997 tot wijziging van de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en de Wet op het voortgezet onderwijs inzake afwijking van de bevoegdheidseisen ten behoeve van leraren-in-opleiding

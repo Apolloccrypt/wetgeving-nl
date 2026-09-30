@@ -9,7 +9,7 @@ laatste_update: 2026-08-01
 status: geldig
 toestand: 2026-08-01
 bron: "https://wetten.overheid.nl/BWBR0003833"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 13 augustus 1985, houdende voorschriften omtrent de bekostiging van scholen voor kinderen van wie de ouders een trekkend bestaan leiden

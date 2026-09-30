@@ -9,7 +9,7 @@ laatste_update: 1998-04-15
 status: geldig
 toestand: 1998-04-15
 bron: "https://wetten.overheid.nl/BWBR0009474"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 18 maart 1998 tot instelling van een vast college van advies inzake internationale vraagstukken, in het bijzonder met betrekking tot de rechten van de mens, vrede en veiligheid, ontwikkelingssamenwerking en Europese integratie (Wet op de Adviesraad internationale vraagstukken)

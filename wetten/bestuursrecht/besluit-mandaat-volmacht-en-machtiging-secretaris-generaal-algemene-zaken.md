@@ -8,7 +8,7 @@ laatste_update: 1998-03-21
 status: geldig
 toestand: 1998-03-21
 bron: "https://wetten.overheid.nl/BWBR0009405"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit mandaat, volmacht en machtiging secretaris-generaal Algemene Zaken

@@ -8,7 +8,7 @@ laatste_update: 1997-09-25
 status: geldig
 toestand: 1997-09-25
 bron: "https://wetten.overheid.nl/BWBR0008918"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Toepassing Regeling politiespeurhonden 1997 op het Korps landelijke politiediensten

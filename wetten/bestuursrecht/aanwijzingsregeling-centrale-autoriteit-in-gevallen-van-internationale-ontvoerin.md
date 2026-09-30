@@ -8,7 +8,7 @@ laatste_update: 1998-04-01
 status: geldig
 toestand: 1998-04-01
 bron: "https://wetten.overheid.nl/BWBR0009368"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Aanwijzingsregeling centrale autoriteit in gevallen van internationale ontvoeringen van kinderen (3)

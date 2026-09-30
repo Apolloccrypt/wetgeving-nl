@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0009398"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 23 februari 1998, houdende vaststelling van de Penitentiaire maatregel en daarmee verband houdende wijziging van enige andere regelingen (Penitentiaire maatregel)

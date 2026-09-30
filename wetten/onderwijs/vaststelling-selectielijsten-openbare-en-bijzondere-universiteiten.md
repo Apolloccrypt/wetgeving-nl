@@ -8,7 +8,7 @@ laatste_update: 2001-04-29
 status: geldig
 toestand: 2001-04-29
 bron: "https://wetten.overheid.nl/BWBR0009361"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Vaststelling selectielijsten Openbare en Bijzondere Universiteiten

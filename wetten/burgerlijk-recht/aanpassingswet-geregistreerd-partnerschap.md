@@ -9,7 +9,7 @@ laatste_update: 1999-09-01
 status: geldig
 toestand: 1999-09-01
 bron: "https://wetten.overheid.nl/BWBR0009190"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 17 december 1997 tot aanpassing van wetgeving aan de invoering van het geregistreerd partnerschap in Boek 1 van het Burgerlijk Wetboek (Aanpassingswet geregistreerd partnerschap)

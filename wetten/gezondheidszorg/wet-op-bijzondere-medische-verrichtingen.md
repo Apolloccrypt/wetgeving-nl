@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0008974"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 24 oktober 1997, houdende regels betreffende bijzondere verrichtingen op het gebied van de gezondheidszorg (Wet op bijzondere medische verrichtingen)

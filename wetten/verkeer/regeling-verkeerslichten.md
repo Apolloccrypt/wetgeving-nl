@@ -8,7 +8,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0009151"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling verkeerslichten

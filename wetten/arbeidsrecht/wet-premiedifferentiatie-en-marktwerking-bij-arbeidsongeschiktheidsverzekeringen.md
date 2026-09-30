@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0008655"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 24 april 1997 tot wijziging van de Wet op de arbeidsongeschiktheidsverzekering en enkele andere wetten in verband met premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen (Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen)

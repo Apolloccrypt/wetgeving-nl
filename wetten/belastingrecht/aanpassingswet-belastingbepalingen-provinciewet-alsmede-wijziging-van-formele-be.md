@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0008636"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 10 april 1997 tot aanpassing van de belastingbepalingen in de Provinciewet aan bepalingen in de Gemeentewet en de Waterschapswet, alsmede wijziging van de formele belastingbepalingen in de Gemeentewet en de Waterschapswet

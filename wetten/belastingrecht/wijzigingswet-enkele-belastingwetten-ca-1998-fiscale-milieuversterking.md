@@ -9,7 +9,7 @@ laatste_update: 2015-06-12
 status: geldig
 toestand: 2015-06-12
 bron: "https://wetten.overheid.nl/BWBR0009219"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 18 december 1997, houdende wijziging van enkele belastingwetten c.a. 1998 (fiscale milieuversterking)

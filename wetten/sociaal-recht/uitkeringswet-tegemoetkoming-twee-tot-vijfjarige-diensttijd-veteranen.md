@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0009197"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 17 december 1997, houdende eenmalige uitkering aan gewezen militairen die meer dan twee jaar doch minder dan vijf jaar hebben gediend (Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen)

@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0009266"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 24 december 1997, houdende het verschaffen van een wettelijke basis voor uitkeringen en subsidies op de terreinen van maatschappelijke opvang en verslavingsbeleid

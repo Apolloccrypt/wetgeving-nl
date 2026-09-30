@@ -8,7 +8,7 @@ laatste_update: 1999-11-05
 status: geldig
 toestand: 1999-11-05
 bron: "https://wetten.overheid.nl/BWBR0009492"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling aanvraag in- of overschrijving van luchtvaartuigen in het luchtvaartuigregister

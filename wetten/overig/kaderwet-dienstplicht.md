@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0008589"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 13 maart 1997, houdende bepalingen met betrekking tot de militaire dienstplicht alsmede wijziging van enige wetten en overgangsrecht (Kaderwet dienstplicht)

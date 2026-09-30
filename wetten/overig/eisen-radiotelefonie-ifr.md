@@ -9,7 +9,7 @@ laatste_update: 1997-02-15
 status: geldig
 toestand: 1997-02-15
 bron: "https://wetten.overheid.nl/BWBR0008542"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wijziging van de Regeling kennis, bedrevenheid en ervaring voor bewijzen van bevoegdheid en bevoegdverklaringen

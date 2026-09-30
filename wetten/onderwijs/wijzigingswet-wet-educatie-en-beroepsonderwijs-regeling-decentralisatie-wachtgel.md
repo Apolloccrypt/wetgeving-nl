@@ -9,7 +9,7 @@ laatste_update: 1998-08-01
 status: geldig
 toestand: 1998-08-01
 bron: "https://wetten.overheid.nl/BWBR0009749"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 1 juli 1998 tot wijziging van de Wet educatie en beroepsonderwijs en enkele andere onderwijswetten in verband met decentralisatie van de wachtgelduitgaven (Regeling decentralisatie wachtgelduitgaven bve)

@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-21
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020779"
-opgehaald: 2026-09-29
+opgehaald: 2026-09-30
 ---
 
 # Beleidsregel van De Nederlandsche Bank N.V. van 12 december 2006, nr. Juza/2006/02475/CLR, houdende regels ingevolge artikel VI, eerste en tweede lid, van het Besluit implementatie kapitaalakkoord Bazel 2 met betrekking tot de wijze van uitoefening van de daarin aan haar gedelegeerde bevoegdheden (Beleidsregel versoepeling ervaringsvereiste voor de toepassing van de IRB)

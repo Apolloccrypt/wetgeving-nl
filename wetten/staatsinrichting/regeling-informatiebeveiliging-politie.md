@@ -8,7 +8,7 @@ laatste_update: 2017-12-15
 status: geldig
 toestand: 2017-12-15
 bron: "https://wetten.overheid.nl/BWBR0008599"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling informatiebeveiliging politie

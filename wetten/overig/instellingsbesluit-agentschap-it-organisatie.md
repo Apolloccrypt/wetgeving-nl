@@ -8,7 +8,7 @@ laatste_update: 2002-09-01
 status: geldig
 toestand: 2002-09-01
 bron: "https://wetten.overheid.nl/BWBR0009604"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Instellingsbesluit Agentschap IT-organisatie

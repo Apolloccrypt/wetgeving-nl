@@ -8,7 +8,7 @@ laatste_update: 2012-04-01
 status: geldig
 toestand: 2012-04-01
 bron: "https://wetten.overheid.nl/BWBR0009157"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling ingevolge de Wet kaderregeling vut overheidspersoneel

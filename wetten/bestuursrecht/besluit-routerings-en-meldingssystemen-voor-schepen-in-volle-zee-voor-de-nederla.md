@@ -9,7 +9,7 @@ laatste_update: 2005-05-18
 status: geldig
 toestand: 2005-05-18
 bron: "https://wetten.overheid.nl/BWBR0008956"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 6 oktober 1997, houdende vaststelling van routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust (Besluit routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust)

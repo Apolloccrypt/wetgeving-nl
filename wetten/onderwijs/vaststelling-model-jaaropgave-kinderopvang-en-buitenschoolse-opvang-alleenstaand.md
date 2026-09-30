@@ -8,7 +8,7 @@ laatste_update: 1997-04-04
 status: geldig
 toestand: 1997-04-04
 bron: "https://wetten.overheid.nl/BWBR0008623"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Vaststelling model jaaropgave kinderopvang en buitenschoolse opvang alleenstaande ouders

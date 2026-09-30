@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0009704"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 18 juni 1998 tot wijziging van de Wet Nationale ombudsman en de Wet openbaarheid van bestuur

@@ -9,7 +9,7 @@ laatste_update: 2016-02-19
 status: geldig
 toestand: 2016-02-19
 bron: "https://wetten.overheid.nl/BWBR0009540"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 7 april 1998, houdende het Warenwetbesluit Specerijen en kruiden

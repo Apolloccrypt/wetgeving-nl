@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0008929"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 24 september 1997, houdende de toekenning van een vaste beloning aan de voorzitter en leden van de commissie bedoeld in artikel 2 van het Besluit adviescommissie arbeidsvoorwaardenoverleg gesubsidieerde sectoren Cultuur

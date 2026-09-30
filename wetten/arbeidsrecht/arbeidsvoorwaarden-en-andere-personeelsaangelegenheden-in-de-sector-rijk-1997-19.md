@@ -8,7 +8,7 @@ laatste_update: 1997-05-30
 status: geldig
 toestand: 1997-05-30
 bron: "https://wetten.overheid.nl/BWBR0008678"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1997-1999

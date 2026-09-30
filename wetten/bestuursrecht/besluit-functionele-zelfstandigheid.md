@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0008985"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 29 oktober 1997, houdende nadere regels inzake deskundigheid van verpleegkundigen, ambulanceverpleegkundigen en mondhygiënisten op het gebied van voorbehouden handelingen (Besluit functionele zelfstandigheid)

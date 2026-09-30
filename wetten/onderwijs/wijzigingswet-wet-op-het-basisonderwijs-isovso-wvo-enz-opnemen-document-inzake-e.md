@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0008552"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 14 februari 1997, houdende wijziging van enkele onderwijswetten in verband met het opnemen van een document inzake evenredige vertegenwoordiging van vrouwen in leidinggevende functies in het onderwijs

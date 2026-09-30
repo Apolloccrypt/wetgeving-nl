@@ -9,7 +9,7 @@ laatste_update: 1998-04-15
 status: geldig
 toestand: 1998-04-15
 bron: "https://wetten.overheid.nl/BWBR0009388"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 14 februari 1998, houdende regeling van de samenstelling en de werkzaamheden van de Staatscommissie tot voorbereiding van de te nemen maatregelen ter bevordering van de codificatie van het internationaal privaatrecht, ingesteld bij koninklijk besluit van 20 februari 1897, Stcrt. 1897, nr. 46 (Wet op de Staatscommissie voor het internationaal privaatrecht)

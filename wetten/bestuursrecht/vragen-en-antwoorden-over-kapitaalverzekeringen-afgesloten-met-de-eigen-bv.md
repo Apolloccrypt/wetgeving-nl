@@ -8,7 +8,7 @@ laatste_update: 1998-07-09
 status: geldig
 toestand: 1998-07-09
 bron: "https://wetten.overheid.nl/BWBR0009773"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Vragen en antwoorden over kapitaalverzekeringen afgesloten met de eigen BV

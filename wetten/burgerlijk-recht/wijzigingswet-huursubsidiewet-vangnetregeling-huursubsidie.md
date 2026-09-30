@@ -9,7 +9,7 @@ laatste_update: 1998-10-01
 status: geldig
 toestand: 1998-10-01
 bron: "https://wetten.overheid.nl/BWBR0009562"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 22 april 1998 tot wijziging van de Huursubsidiewet in verband met het aan burgemeester en wethouders toedelen van de bevoegdheid een bijzondere bijdrage in de huurlasten toe te kennen (vangnetregeling huursubsidie)

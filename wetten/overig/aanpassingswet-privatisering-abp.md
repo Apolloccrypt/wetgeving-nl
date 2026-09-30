@@ -9,7 +9,7 @@ laatste_update: 1998-08-01
 status: geldig
 toestand: 1998-08-01
 bron: "https://wetten.overheid.nl/BWBR0008633"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 10 april 1997 tot aanpassing van een aantal wetten in verband met de privatisering van het Algemeen burgerlijk pensioenfonds (Aanpassingswet privatisering ABP)

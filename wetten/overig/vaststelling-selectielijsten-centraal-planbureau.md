@@ -8,7 +8,7 @@ laatste_update: 1999-02-04
 status: geldig
 toestand: 1999-02-04
 bron: "https://wetten.overheid.nl/BWBR0009665"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Vaststelling selectielijsten Centraal Planbureau

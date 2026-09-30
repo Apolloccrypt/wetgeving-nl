@@ -8,7 +8,7 @@ laatste_update: 1999-09-01
 status: geldig
 toestand: 1999-09-01
 bron: "https://wetten.overheid.nl/BWBR0008665"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit aanwijzing toezichthoudende ambtenaren Uitvoeringswet verdrag chemische wapens

@@ -9,7 +9,7 @@ laatste_update: 1998-10-01
 status: geldig
 toestand: 1998-10-01
 bron: "https://wetten.overheid.nl/BWBR0009722"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 24 juni 1998 tot wijziging van de Wegenverkeerswet 1994 (verhoging van de maximumstraffen voor ernstige vormen van roekeloos rijgedrag en verbetering van de regelingen inzake de invordering en inhouding van rijbewijzen en inzake de bijkomende straf van ontzegging van de bevoegdheid tot het besturen van motorrijtuigen)

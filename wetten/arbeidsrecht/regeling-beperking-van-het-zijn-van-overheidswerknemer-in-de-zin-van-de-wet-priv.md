@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0008871"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling beperking van het zijn van overheidswerknemer in de zin van de Wet privatisering ABP

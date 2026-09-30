@@ -8,7 +8,7 @@ laatste_update: 1997-02-20
 status: geldig
 toestand: 1997-02-20
 bron: "https://wetten.overheid.nl/BWBR0008544"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Vaststelling modelakte van beëdiging, model-proces-verbaal van beëdiging en modelverklaring voor buitengewoon opsporingsambtenaren

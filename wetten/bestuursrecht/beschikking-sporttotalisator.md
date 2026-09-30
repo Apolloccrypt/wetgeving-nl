@@ -8,7 +8,7 @@ laatste_update: 2002-05-31
 status: geldig
 toestand: 2002-05-31
 bron: "https://wetten.overheid.nl/BWBR0009239"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Beschikking Sporttotalisator

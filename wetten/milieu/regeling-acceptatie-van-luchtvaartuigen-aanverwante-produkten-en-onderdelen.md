@@ -9,7 +9,7 @@ laatste_update: 2000-04-15
 status: geldig
 toestand: 2000-04-15
 bron: "https://wetten.overheid.nl/BWBR0009606"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Regeling acceptatie van luchtvaartuigen, aanverwante producten en onderdelen

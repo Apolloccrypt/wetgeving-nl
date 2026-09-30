@@ -9,7 +9,7 @@ laatste_update: 1998-04-17
 status: geldig
 toestand: 1998-04-17
 bron: "https://wetten.overheid.nl/BWBR0009457"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 12 maart 1998, houdende instelling van een vast college van advies inzake volkenrechtelijke vraagstukken (Wet op de Commissie van advies inzake volkenrechtelijke vraagstukken)

@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0009560"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Regeling tot vaststelling van de aanpassingen van het bedrag per hectare land en binnenwater in verband met de herziening van het wegenbeheer

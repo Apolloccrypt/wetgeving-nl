@@ -8,7 +8,7 @@ laatste_update: 2022-10-20
 status: geldig
 toestand: 2022-10-20
 bron: "https://wetten.overheid.nl/BWBR0008859"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling identiteitsbewijs geprivilegieerden

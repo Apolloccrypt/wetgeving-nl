@@ -9,7 +9,7 @@ laatste_update: 1999-07-01
 status: geldig
 toestand: 1999-07-01
 bron: "https://wetten.overheid.nl/BWBR0009123"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 11 december 1997, houdende wijziging van de Organisatiewet sociale verzekeringen 1997 en enige andere wetten in verband met het integreren van het middelenbeheer van de sociale fondsen (geïntegreerd middelenbeheer)

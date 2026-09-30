@@ -8,7 +8,7 @@ laatste_update: 1997-08-20
 status: geldig
 toestand: 1997-08-20
 bron: "https://wetten.overheid.nl/BWBR0008856"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Vaststelling selectielijst DG Management en Personeelsbeleid

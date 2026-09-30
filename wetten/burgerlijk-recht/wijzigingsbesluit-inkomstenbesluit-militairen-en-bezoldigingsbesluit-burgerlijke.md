@@ -9,7 +9,7 @@ laatste_update: 1997-10-22
 status: geldig
 toestand: 1997-10-22
 bron: "https://wetten.overheid.nl/BWBR0008925"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 22 september 1997, houdende wijziging van het Inkomstenbesluit militairen en het Bezoldigingsbesluit burgerlijke ambtenaren defensie

@@ -9,7 +9,7 @@ laatste_update: 1997-10-01
 status: geldig
 toestand: 1997-10-01
 bron: "https://wetten.overheid.nl/BWBR0008858"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling van de Minister van Justitie van 7 augustus 1997 tot aanwijzing van het identiteitsbewijs geprivilegieerden als document voor de vaststelling van de identiteit van personen

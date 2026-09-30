@@ -9,7 +9,7 @@ laatste_update: 1997-05-01
 status: geldig
 toestand: 1997-05-01
 bron: "https://wetten.overheid.nl/BWBR0008592"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit tot instelling van een Commissie van onderzoek naar advies over de financiële relaties tussen Aruba en Nederland

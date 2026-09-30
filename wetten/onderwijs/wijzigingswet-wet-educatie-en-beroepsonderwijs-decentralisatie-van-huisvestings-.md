@@ -9,7 +9,7 @@ laatste_update: 2004-06-23
 status: geldig
 toestand: 2004-06-23
 bron: "https://wetten.overheid.nl/BWBR0008703"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 29 mei 1997 tot wijziging van de Wet educatie en beroepsonderwijs in verband met decentralisatie van huisvestings- en bestedingsbeslissingen en vervallen van het economisch claimrecht

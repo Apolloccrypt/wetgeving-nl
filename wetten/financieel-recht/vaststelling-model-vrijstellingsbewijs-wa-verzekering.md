@@ -8,7 +8,7 @@ laatste_update: 1998-05-01
 status: geldig
 toestand: 1998-05-01
 bron: "https://wetten.overheid.nl/BWBR0009559"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Vaststelling model vrijstellingsbewijs WA-verzekering

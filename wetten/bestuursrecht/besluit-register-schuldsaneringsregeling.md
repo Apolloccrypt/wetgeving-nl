@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0009787"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 15 juli 1998, houdende nadere regels omtrent vorm en inhoud van het register in de schuldsaneringsregeling natuurlijke personen (Besluit register schuldsaneringsregeling)

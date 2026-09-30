@@ -8,7 +8,7 @@ laatste_update: 1998-05-01
 status: geldig
 toestand: 1998-05-01
 bron: "https://wetten.overheid.nl/BWBR0009498"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Instelling werkgroep Evaluatie en herziening fiscale tegemoetkomingen en faciliteiten voor ondernemers

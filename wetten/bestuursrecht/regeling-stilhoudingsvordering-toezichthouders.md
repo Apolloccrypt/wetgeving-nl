@@ -8,7 +8,7 @@ laatste_update: 1998-07-10
 status: geldig
 toestand: 1998-07-10
 bron: "https://wetten.overheid.nl/BWBR0009206"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling stilhoudingsvordering toezichthouders

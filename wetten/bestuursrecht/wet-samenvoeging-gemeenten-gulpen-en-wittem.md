@@ -9,7 +9,7 @@ laatste_update: 1998-06-19
 status: geldig
 toestand: 1998-06-19
 bron: "https://wetten.overheid.nl/BWBR0009639"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 25 mei 1998 tot samenvoeging van de gemeenten Gulpen en Wittem

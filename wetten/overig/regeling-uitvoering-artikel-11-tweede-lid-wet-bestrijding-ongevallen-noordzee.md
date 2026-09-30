@@ -8,7 +8,7 @@ laatste_update: 2012-04-14
 status: geldig
 toestand: 2012-04-14
 bron: "https://wetten.overheid.nl/BWBR0008669"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling uitvoering artikel 11, tweede lid, Wet bestrijding ongevallen Noordzee

@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0009284"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 24 december 1997 tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 3, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten houdende regels met betrekking tot uitbreiding en beperking van de kring van ingezetenen voor de toepassing van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Besluit uitbreiding en beperking kring ingezetenen Wajong)

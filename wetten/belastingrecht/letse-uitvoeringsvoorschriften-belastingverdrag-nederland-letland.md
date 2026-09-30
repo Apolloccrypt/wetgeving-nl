@@ -9,7 +9,7 @@ laatste_update: 1996-03-19
 status: geldig
 toestand: 1996-03-19
 bron: "https://wetten.overheid.nl/BWBR0008539"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling inzake vermindering en vrijstelling van Letse belasting op dividenden, interest en royalty’s en sommige andere soorten van inkomsten, genoten door inwoner van Nederland

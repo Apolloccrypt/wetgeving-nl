@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0009255"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 22 december 1997 betreffende de titulatuur en het kostuum der rechterlijke ambtenaren alsmede het kostuum van de advocaten en van de procureurs (Reglement II)

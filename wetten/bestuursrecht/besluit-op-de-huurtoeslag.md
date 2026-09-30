@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0008763"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 25 juni 1997 tot uitvoering van de Huursubsidiewet, met uitzondering van de bepalingen van die wet betreffende de beheersing van de huurlasten en de huursubsidieuitgaven (Huursubsidiebesluit)

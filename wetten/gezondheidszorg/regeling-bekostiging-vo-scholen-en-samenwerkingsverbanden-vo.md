@@ -5,11 +5,11 @@ identifier: "BWBR0045605"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-11-15
-laatste_update: 2026-06-06
+laatste_update: 2026-09-23
 status: geldig
-toestand: 2026-06-06
+toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0045605"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-30
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29097500, houdende regels voor de bekostiging van vo-scholen en samenwerkingsverbanden VO in Europees en scholen in Caribisch Nederland (Regeling bekostiging vo-scholen en samenwerkingsverbanden vo)
@@ -95,7 +95,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Betaalritme bekostiging vo-scholen Europees Nederland
 
-De minister stelt de bekostiging, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=1&artikel=2&z=2026-06-06&g=2026-06-06), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang. De eerste termijn wordt betaald in januari van het jaar waarop de bekostiging betrekking heeft.
+De minister stelt de bekostiging, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=1&artikel=2&z=2026-09-23&g=2026-09-23), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang. De eerste termijn wordt betaald in januari van het jaar waarop de bekostiging betrekking heeft.
 
 #### § 2. Bekostiging vo-scholen Caribisch Nederland
 
@@ -149,9 +149,11 @@ In deze paragraaf wordt verstaan onder:
 
 4. De procentuele opslag, bedoeld in [artikel 9.25, eerste lid, onderdeel c, en tweede lid, onderdeel c, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2026 vastgesteld op 40 procent.
 
-5. De procentuele opslag, bedoeld in [artikel 9.25, tweede lid, onderdeel d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2026 vastgesteld op 36 procent.
+5. De procentuele opslag voor Sint-Eustatius, bedoeld in [artikel 9.25, tweede lid, onderdeel d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2026 vastgesteld op 36 procent.
 
-6. Het bedrag per school, bedoeld in [artikel 9.25, tweede lid, onderdeel e, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2026 vastgesteld op:
+6. De procentuele opslag voor Saba, bedoeld in [artikel 9.25, tweede lid, onderdeel d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2026 vastgesteld op 36 procent.
+
+7. Het bedrag per school, bedoeld in [artikel 9.25, tweede lid, onderdeel e, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2026 vastgesteld op:
 
 - a. USD 0 bij een leerlingenaantal van 301 of meer;
 
@@ -177,13 +179,13 @@ In deze paragraaf wordt verstaan onder:
 
 2. De bedragen per leerling, bedoeld in [artikel 11.56, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56), worden per 1 januari 2027 vastgesteld op:
 
-- a. een bedrag van USD 9.302,18:
+- a. een bedrag van USD 9.534,64:
 
    - 1°. wat betreft een school op Bonaire: voor leerlingen in het vwo, havo, mavo of vbo, met uitzondering van leerlingen in het derde of vierde leerjaar van de basisberoepsgerichte en kaderberoepsgerichte leerweg van het vbo, ISK-leerlingen en leerlingen met een specifieke onderwijsbehoefte; en
 
    - 2°. wat betreft een school als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1): voor leerlingen in de lower forms of leerlingen die CSEC en CAPE volgen;
 
-- b. een bedrag van USD 10.944,01:
+- b. een bedrag van USD 11.176,47:
 
    - 1°. wat betreft een school op Bonaire: voor leerlingen in het praktijkonderwijs of in het derde of vierde leerjaar van de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vbo, alsmede ISK-leerlingen en leerlingen met een specifieke onderwijsbehoefte; en
 
@@ -191,15 +193,17 @@ In deze paragraaf wordt verstaan onder:
 
 3. De bedragen per student, bedoeld in [artikel 2.2.1, tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.2.1), worden per 1 januari 2027 vastgesteld op:
 
-- a. USD 10.944,01 voor studenten in de beroepsopleidende leerweg; en
+- a. USD 11.176,47 voor studenten in de beroepsopleidende leerweg; en
 
-- b. USD 6.566,41 voor studenten in de beroepsbegeleidende leerweg.
+- b. USD 6.705,88 voor studenten in de beroepsbegeleidende leerweg.
 
 4. De minister stelt de procentuele opslag, bedoeld in [artikel 9.25, eerste lid, onderdeel c, en tweede lid, onderdeel c, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), per 1 januari 2027 vast op 40 procent.
 
-5. De procentuele opslag, bedoeld in [artikel 9.25, tweede lid, onderdeel d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt per 1 januari 2027 vastgesteld op 36 procent.
+5. De procentuele opslag voor Sint-Eustatius, bedoeld in [artikel 9.25, tweede lid, onderdeel d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2027 vastgesteld op 36 procent.
 
-6. Het bedrag per school, bedoeld in [artikel 9.25, tweede lid, onderdeel e, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt per 1 januari 2027 vastgesteld op:
+6. De procentuele opslag voor Saba, bedoeld in [artikel 9.25, tweede lid, onderdeel d, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt voor het kalenderjaar 2027 vastgesteld op 43 procent.
+
+7. Het bedrag per school, bedoeld in [artikel 9.25, tweede lid, onderdeel e, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=9.25), wordt per 1 januari 2027 vastgesteld op:
 
 - a. USD 0 bij een leerlingenaantal van 301 of meer;
 
@@ -215,7 +219,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 10. Betaalritme bekostiging vo-scholen Caribisch Nederland
 
-De minister stelt de bekostiging, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=8&z=2026-06-06&g=2026-06-06) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=9&z=2026-06-06&g=2026-06-06), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald vanaf januari van het jaar waarop de bekostiging betrekking heeft conform de percentages in tabel 1.
+De minister stelt de bekostiging, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=8&z=2026-09-23&g=2026-09-23) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=9&z=2026-09-23&g=2026-09-23), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald vanaf januari van het jaar waarop de bekostiging betrekking heeft conform de percentages in tabel 1.
 
 | januari | 9,72% | juli | 7,62% |
 | --- | --- | --- | --- |

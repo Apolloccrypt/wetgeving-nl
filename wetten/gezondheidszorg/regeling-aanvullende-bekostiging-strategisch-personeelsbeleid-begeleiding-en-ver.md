@@ -5,11 +5,11 @@ identifier: "BWBR0045041"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-08-25
-laatste_update: 2026-01-01
+laatste_update: 2026-09-23
 status: geldig
-toestand: 2026-01-01
+toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0045041"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-30
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 maart 2021, nr. VO/27288781, houdende regels voor de verstrekking van aanvullende bekostiging voor strategisch personeelsbeleid, de begeleiding van startende leraren en schoolleiders en het aanpakken van verzuim (Regeling aanvullende bekostiging strategisch personeelsbeleid, begeleiding en verzuim vo)
@@ -42,9 +42,9 @@ De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2
 
 In 2026 ontvangt het bevoegd gezag van een school in het kader van deze regeling een bedrag van:
 
-- a. € 0 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-01-01&g=2026-01-01); en
+- a. € 0 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-09-23&g=2026-09-23); en
 
-- b. € 12,73 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-01-01&g=2026-01-01).
+- b. € 12,74 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-09-23&g=2026-09-23).
 
 ##### Artikel 5. Beschikking en betaling
 
@@ -68,9 +68,9 @@ In 2026 ontvangt het bevoegd gezag van een school in het kader van deze regeling
 
 ##### Artikel 7. Monitor en evaluatie
 
-1. De minister monitort de voortgang op het doel, bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-01-01&g=2026-01-01), op landelijk niveau en voert een evaluatie uit.
+1. De minister monitort de voortgang op het doel, bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-09-23&g=2026-09-23), op landelijk niveau en voert een evaluatie uit.
 
-2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van het doel, bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-01-01&g=2026-01-01).
+2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van het doel, bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2026-09-23&g=2026-09-23).
 
 ##### Artikel 7a. Omhangbepaling
 

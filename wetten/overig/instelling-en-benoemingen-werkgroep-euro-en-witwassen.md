@@ -8,7 +8,7 @@ laatste_update: 1997-04-24
 status: geldig
 toestand: 1997-04-24
 bron: "https://wetten.overheid.nl/BWBR0008627"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Instelling en benoemingen Werkgroep euro en witwassen

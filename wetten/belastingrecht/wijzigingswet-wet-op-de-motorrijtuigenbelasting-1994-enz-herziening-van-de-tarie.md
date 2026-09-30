@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0008734"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 12 juni 1997 tot wijziging van de Wet op de motorrijtuigenbelasting 1994 en van enkele andere wetten in verband met herziening van de tariefstructuur voor vrachtauto's

@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0009073"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 3 december 1997, houdende wijziging van enige besluiten in verband met het arbeidsvoorwaardenakkoord sector Defensie voor de periode van 1 april 1997 tot en met 31 mei 1999

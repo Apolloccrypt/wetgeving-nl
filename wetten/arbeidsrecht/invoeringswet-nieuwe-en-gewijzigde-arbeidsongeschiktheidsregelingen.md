@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0008658"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 24 april 1997, houdende overgangs- en invoeringsrecht voor de totstandkoming van de Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen)

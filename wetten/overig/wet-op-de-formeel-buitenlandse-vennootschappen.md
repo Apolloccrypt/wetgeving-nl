@@ -9,7 +9,7 @@ laatste_update: 2020-02-01
 status: geldig
 toestand: 2020-02-01
 bron: "https://wetten.overheid.nl/BWBR0009191"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 17 december 1997, houdende regels met betrekking tot naar buitenlands recht opgerichte, rechtspersoonlijkheid bezittende kapitaalvennootschappen die hun werkzaamheid geheel of nagenoeg geheel in Nederland verrichten en geen werkelijke band hebben met de staat naar welks recht zij zijn opgericht (Wet op de formeel buitenlandse vennootschappen)

@@ -8,7 +8,7 @@ laatste_update: 1998-02-01
 status: geldig
 toestand: 1998-02-01
 bron: "https://wetten.overheid.nl/BWBR0009050"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Instelling en benoeming stuurgroep schuldsanering natuurlijke personen

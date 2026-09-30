@@ -5,11 +5,11 @@ identifier: "BWBR0052080"
 categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
+laatste_update: 2026-09-23
 status: geldig
-toestand: 2026-01-01
+toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0052080"
-opgehaald: 2026-09-10
+opgehaald: 2026-09-30
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 10 december 2025, nr. VO/F/55351459, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor 2026 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2026)
@@ -75,9 +75,9 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verstrekt aanvullende bekostiging voor het kalenderjaar 2026 aan:
 
-- a. het bevoegd gezag van een basisschool met één of meer vestigingen, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling; en
+- a. het bevoegd gezag van een basisschool met één of meer vestigingen, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&bijlage=1&z=2026-09-23&g=2026-09-23) bij deze regeling; en
 
-- b. het bevoegd gezag van een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs met één of meer vestigingen, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&bijlage=1&z=2026-01-01&g=2026-01-01) van deze regeling.
+- b. het bevoegd gezag van een speciale school voor basisonderwijs of een school voor (voortgezet) speciaal onderwijs met één of meer vestigingen, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&bijlage=1&z=2026-09-23&g=2026-09-23) van deze regeling.
 
 2. De aanvullende bekostiging, bedoeld in het eerste lid, bestaat uit een bedrag per leerling.
 
@@ -85,11 +85,11 @@ In deze regeling wordt verstaan onder:
 
 4. Het bedrag per leerling bedraagt:
 
-- a. € 349,13 voor vestigingen van basisscholen, waarbij vestigingen met minder dan 150 leerlingen in aanvulling daarop een vaste voet ontvangen van € 11.510,38 met aftrek van € 76,74 per leerling;
+- a. € 363,44 voor vestigingen van basisscholen, waarbij vestigingen met minder dan 150 leerlingen in aanvulling daarop een vaste voet ontvangen van € 11.982,16 met aftrek van € 79,88 per leerling;
 
-- b. € 700,01 voor vestigingen van speciale scholen voor basisonderwijs; en
+- b. € 728,70 voor vestigingen van speciale scholen voor basisonderwijs; en
 
-- c. € 1.468,08 voor vestigingen van scholen voor (voortgezet) speciaal onderwijs.
+- c. € 1.528,25 voor vestigingen van scholen voor (voortgezet) speciaal onderwijs.
 
 5. De aanvullende bekostiging, bedoeld in het eerste lid, wordt uiterlijk in maart 2026 vastgesteld.
 
@@ -101,17 +101,17 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verstrekt aanvullende bekostiging voor het kalenderjaar 2026 aan het bevoegd gezag van een school:
 
-- a) voor voortgezet onderwijs, met één of meer pro-vestigingen, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&bijlage=2&z=2026-01-01&g=2026-01-01) bij deze regeling; en
+- a) voor voortgezet onderwijs, met één of meer pro-vestigingen, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&bijlage=2&z=2026-09-23&g=2026-09-23) bij deze regeling; en
 
-- b) voor voortgezet onderwijs, met één of meer vestigingen (niet zijnde pro-vestigingen) opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&bijlage=3&z=2026-01-01&g=2026-01-01) bij deze regeling;
+- b) voor voortgezet onderwijs, met één of meer vestigingen (niet zijnde pro-vestigingen) opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&bijlage=3&z=2026-09-23&g=2026-09-23) bij deze regeling;
 
-- c) voor voortgezet onderwijs met één of meer vestigingen (niet zijnde pro-vestigingen) waar meer dan 20% van de leerlingen op teldatum 1 oktober 2023 bestond uit nieuwkomers die korter dan 1 jaar in Nederland verbleven, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&bijlage=4&z=2026-01-01&g=2026-01-01) bij deze regeling.
+- c) voor voortgezet onderwijs met één of meer vestigingen (niet zijnde pro-vestigingen) waar meer dan 20% van de leerlingen op teldatum 1 oktober 2023 bestond uit nieuwkomers die korter dan 1 jaar in Nederland verbleven, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&bijlage=4&z=2026-09-23&g=2026-09-23) bij deze regeling.
 
 2. De aanvullende bekostiging, bedoeld in het eerste lid, bestaat uit een bedrag per leerling.
 
 3. De hoogte van de aanvullende bekostiging, bedoeld in het eerste lid, wordt berekend op grond van het aantal bekostigde leerlingen op 1 oktober 2025.
 
-4. Het bedrag per leerling bedraagt € 1.006,16 voor pro-vestigingen en € 804,49 voor de overige vestigingen van scholen voor voortgezet onderwijs waaronder de vestigingen als bedoeld in lid 1, sub c.
+4. Het bedrag per leerling bedraagt € 1.047,76 voor pro-vestigingen en € 837,75 voor de overige vestigingen van scholen voor voortgezet onderwijs waaronder de vestigingen als bedoeld in lid 1, sub c.
 
 5. De aanvullende bekostiging, bedoeld in het eerste lid, wordt uiterlijk in maart 2026 vastgesteld.
 
@@ -125,11 +125,11 @@ De verantwoording van de besteding van deze aanvullende bekostiging geschiedt in
 
 ##### Artikel 6. Monitoring en evaluatie
 
-Ten behoeve van de monitoring van de implementatie en effecten van deze regeling op landelijk niveau verstrekt het bevoegd gezag desgevraagd een samenhangend overzicht van de gepleegde inspanningen en uitkomsten, waaronder financieel inzicht in de besteding, ter verwezenlijking van het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=2&z=2026-01-01&g=2026-01-01).
+Ten behoeve van de monitoring van de implementatie en effecten van deze regeling op landelijk niveau verstrekt het bevoegd gezag desgevraagd een samenhangend overzicht van de gepleegde inspanningen en uitkomsten, waaronder financieel inzicht in de besteding, ter verwezenlijking van het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=2&z=2026-09-23&g=2026-09-23).
 
 ##### Artikel 7. Hardheidsclausule
 
-De minister kan met betrekking tot de selectie van vestigingen die in aanmerking komen voor de regeling, in bijzondere gevallen afwijken van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=3&z=2026-01-01&g=2026-01-01), of [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=4&z=2026-01-01&g=2026-01-01), voor zover een vestiging van een school voldoet aan de criteria, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=2&z=2026-01-01&g=2026-01-01), maar niet is opgenomen in de betreffende bijlage.
+De minister kan met betrekking tot de selectie van vestigingen die in aanmerking komen voor de regeling, in bijzondere gevallen afwijken van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=3&z=2026-09-23&g=2026-09-23), of [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=4&z=2026-09-23&g=2026-09-23), voor zover een vestiging van een school voldoet aan de criteria, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052080&artikel=2&z=2026-09-23&g=2026-09-23), maar niet is opgenomen in de betreffende bijlage.
 
 ##### Artikel 8. Inwerkingtreding
 

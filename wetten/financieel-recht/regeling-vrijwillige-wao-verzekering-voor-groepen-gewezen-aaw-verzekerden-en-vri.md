@@ -9,7 +9,7 @@ laatste_update: 2002-02-23
 status: geldig
 toestand: 2002-02-23
 bron: "https://wetten.overheid.nl/BWBR0009438"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling houdende regels als bedoeld in artikel V, vijfde lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen en artikel 99 van de Wet op de arbeidsongeschiktheidsverzekering

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0008804"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 5 juli 1997, houdende regels inzake het vervaardigen, verhandelen, vervoeren, voorhanden hebben, dragen enz. van wapens en munitie (Wet wapens en munitie)

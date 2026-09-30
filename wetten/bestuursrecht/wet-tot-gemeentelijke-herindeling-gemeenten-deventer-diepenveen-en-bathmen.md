@@ -9,7 +9,7 @@ laatste_update: 1998-07-29
 status: geldig
 toestand: 1998-07-29
 bron: "https://wetten.overheid.nl/BWBR0009757"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 2 juli 1998 tot gemeentelijke herindeling van de gemeenten Deventer, Diepenveen en Bathmen

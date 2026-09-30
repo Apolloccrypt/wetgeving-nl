@@ -9,7 +9,7 @@ laatste_update: 2017-12-01
 status: geldig
 toestand: 2017-12-01
 bron: "https://wetten.overheid.nl/BWBR0009234"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Beschikking Casinospelen 1996

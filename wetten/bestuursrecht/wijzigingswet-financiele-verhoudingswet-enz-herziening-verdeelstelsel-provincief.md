@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0008995"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 6 november 1997 tot wijziging van de Financiële-verhoudingswet en enkele andere wetten en regels inzake de invoering van deze wijziging in verband met een herziening van het verdeelstelsel voor het Provinciefonds

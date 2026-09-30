@@ -9,7 +9,7 @@ laatste_update: 1997-09-19
 status: geldig
 toestand: 1997-09-19
 bron: "https://wetten.overheid.nl/BWBR0008896"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Rijkswet van 4 september 1997, houdende goedkeuring van het op 27 februari 1995 te Stockholm tot stand gekomen Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning (Trb. 1995, 257)

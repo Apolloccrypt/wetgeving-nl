@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0009408"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 26 februari 1998, houdende regelen inzake medisch-wetenschappelijk onderzoek met mensen (Wet medisch-wetenschappelijk onderzoek met mensen)

@@ -9,7 +9,7 @@ laatste_update: 2026-09-22
 status: geldig
 toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0053029"
-opgehaald: 2026-09-29
+opgehaald: 2026-09-30
 ---
 
 # Wet van 18 juni 2026 tot wijziging van de Wet op het financieel toezicht, de Bankwet 1998 en de Wet op de economische delicten ter implementatie van Richtlijn (EU) 2024/1619 met betrekking tot kapitaalvereisten voor banken en Richtlijn (EU) 2024/2994 met betrekking tot blootstellingen op centrale tegenpartijen (Implementatiewet kapitaalvereisten 2026)

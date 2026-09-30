@@ -8,7 +8,7 @@ laatste_update: 1998-04-01
 status: geldig
 toestand: 1998-04-01
 bron: "https://wetten.overheid.nl/BWBR0009485"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling aanwijzingen ten aanzien van verplichtingen van de eigenaar of houder van een luchtvaartuig met betrekking tot onderhoud, revisie en herstelling

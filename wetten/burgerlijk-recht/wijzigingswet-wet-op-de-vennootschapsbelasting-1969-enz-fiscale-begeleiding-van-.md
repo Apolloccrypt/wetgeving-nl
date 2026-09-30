@@ -9,7 +9,7 @@ laatste_update: 1998-06-24
 status: geldig
 toestand: 1998-06-24
 bron: "https://wetten.overheid.nl/BWBR0009702"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 17 juni 1998 tot wijziging van de Wet op de vennootschapsbelasting 1969 en van enige andere belastingwetten in verband met de fiscale begeleiding van de overgang van vermogen onder algemene titel bij rechtspersonen op de voet van Boek 2 van het Burgerlijk Wetboek

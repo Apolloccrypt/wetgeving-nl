@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0008853"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 23 juli 1997 tot vaststelling van het bedrag waarboven de Onafhankelijke Post en Telecommunicatie Autoriteit goedkeuring van de Minister van Verkeer en Waterstaat behoeft voor het aangaan van overeenkomsten en het doen van investeringen

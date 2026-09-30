@@ -9,7 +9,7 @@ laatste_update: 1997-07-25
 status: geldig
 toestand: 1997-07-25
 bron: "https://wetten.overheid.nl/BWBR0008810"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 5 juli 1997 tot wijziging van het Besluit voorkoming dubbele belasting 1989; aanpassing van de wijze waarop een vermindering ter voorkoming van dubbele belasting wordt verleend voor passieve winst uit buitenlandse onderneming

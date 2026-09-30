@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2014-12-09
 laatste_update: 2014-12-12
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-22
 toestand: 2014-12-12
 bron: "https://wetten.overheid.nl/BWBR0006174"
-opgehaald: 2026-09-28
+opgehaald: 2026-09-30
 ---
 
 # Regeling storing radioverbinding tijdens een gecontroleerde vlucht

@@ -9,7 +9,7 @@ laatste_update: 1998-05-01
 status: geldig
 toestand: 1998-05-01
 bron: "https://wetten.overheid.nl/BWBR0009431"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 27 februari 1998 tot aanvulling van opschriften op vaandels van regimenten van de krijgsmacht

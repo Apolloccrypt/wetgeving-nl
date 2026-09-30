@@ -9,7 +9,7 @@ laatste_update: 1997-07-18
 status: geldig
 toestand: 1997-07-18
 bron: "https://wetten.overheid.nl/BWBR0008789"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 2 juli 1997 tot wijziging van de grens tussen de gemeenten Elst en Nijmegen

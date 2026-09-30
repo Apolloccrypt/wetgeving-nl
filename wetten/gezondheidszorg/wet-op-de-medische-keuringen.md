@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0008819"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 5 juli 1997, houdende regels tot versterking van de rechtspositie van hen die een medische keuring ondergaan (Wet op de medische keuringen)

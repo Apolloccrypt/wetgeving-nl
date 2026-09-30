@@ -9,7 +9,7 @@ laatste_update: 1997-03-26
 status: geldig
 toestand: 1997-03-26
 bron: "https://wetten.overheid.nl/BWBR0008588"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 13 maart 1997 tot wijziging van de Gemeentewet, houdende opneming daarin van de bevoegdheid van de burgemeester om woningen, niet voor het publiek toegankelijke lokalen of bij die woningen of lokalen behorende erven te sluiten bij verstoring van de openbare orde

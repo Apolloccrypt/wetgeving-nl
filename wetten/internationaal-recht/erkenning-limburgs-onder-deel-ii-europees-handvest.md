@@ -8,7 +8,7 @@ laatste_update: 1997-03-23
 status: geldig
 toestand: 1997-03-23
 bron: "https://wetten.overheid.nl/BWBR0008559"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Erkenning Limburgs onder deel II Europees Handvest

@@ -8,7 +8,7 @@ laatste_update: 1998-03-18
 status: geldig
 toestand: 1998-03-18
 bron: "https://wetten.overheid.nl/BWBR0009445"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Vaststelling selectielijst bosbouw

@@ -8,7 +8,7 @@ laatste_update: 1997-05-29
 status: geldig
 toestand: 1997-05-29
 bron: "https://wetten.overheid.nl/BWBR0008702"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Defecte identiteitskaart: informatie en procedure-afhandeling

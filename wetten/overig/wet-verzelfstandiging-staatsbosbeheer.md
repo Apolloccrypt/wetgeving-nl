@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0008904"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 11 september 1997 tot verzelfstandiging van Staatsbosbeheer (Wet verzelfstandiging Staatsbosbeheer)

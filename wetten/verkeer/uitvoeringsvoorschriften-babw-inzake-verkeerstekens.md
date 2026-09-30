@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0009104"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling houdende voorschriften over de toepassing, plaatsing en uitvoering van verkeerstekens, uitgezonderd verkeerslichten

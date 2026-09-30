@@ -9,7 +9,7 @@ laatste_update: 1998-05-01
 status: geldig
 toestand: 1998-05-01
 bron: "https://wetten.overheid.nl/BWBR0009497"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 23 maart 1998, houdende wijziging van het Metingsbesluit Binnenvaartuigen 1978

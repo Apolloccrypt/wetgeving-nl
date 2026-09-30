@@ -8,7 +8,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0009658"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Regeling detachering politie

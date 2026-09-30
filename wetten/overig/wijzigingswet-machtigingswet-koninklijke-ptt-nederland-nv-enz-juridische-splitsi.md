@@ -9,7 +9,7 @@ laatste_update: 1998-06-28
 status: geldig
 toestand: 1998-06-28
 bron: "https://wetten.overheid.nl/BWBR0009618"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 14 mei 1998 tot wijziging van de Machtigingswet Koninklijke PTT Nederland N.V. en enige andere wetten in verband met de juridische splitsing van Koninklijke PTT Nederland N.V.

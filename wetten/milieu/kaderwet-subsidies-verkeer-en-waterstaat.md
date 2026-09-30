@@ -9,7 +9,7 @@ laatste_update: 2009-11-25
 status: geldig
 toestand: 2009-11-25
 bron: "https://wetten.overheid.nl/BWBR0009196"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 17 december 1997, houdende regels inzake de verstrekking van subsidies door de Minister van Verkeer en Waterstaat (Kaderwet subsidies Verkeer en Waterstaat)

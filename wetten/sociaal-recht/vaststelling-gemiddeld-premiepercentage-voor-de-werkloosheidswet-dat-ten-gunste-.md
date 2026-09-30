@@ -8,7 +8,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0008758"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Vaststelling gemiddeld premiepercentage voor de Werkloosheidswet dat ten gunste komt van het wachtgeldfonds per 1 juli 1997

@@ -8,7 +8,7 @@ laatste_update: 1998-04-07
 status: geldig
 toestand: 1998-04-07
 bron: "https://wetten.overheid.nl/BWBR0009536"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Uitsluiting bepaalde categorieën asielzoekers van verstrekking Rva 1997

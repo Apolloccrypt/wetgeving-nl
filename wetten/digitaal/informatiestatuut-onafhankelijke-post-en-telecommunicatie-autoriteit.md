@@ -9,7 +9,7 @@ laatste_update: 2004-05-19
 status: geldig
 toestand: 2004-05-19
 bron: "https://wetten.overheid.nl/BWBR0008852"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat, houdende een Informatiestatuut, alsmede regels inzake inrichting van de begroting en het financieel verslag van de Onafhankelijke Post en Telecommunicatieautoriteit

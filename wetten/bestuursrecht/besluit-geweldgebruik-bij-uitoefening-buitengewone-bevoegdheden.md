@@ -9,7 +9,7 @@ laatste_update: 1997-05-01
 status: geldig
 toestand: 1997-05-01
 bron: "https://wetten.overheid.nl/BWBR0008650"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 23 april 1997, houdende vaststelling nadere regels inzake gebruik geweld bij uitoefening van buitengewone bevoegdheden (Besluit geweldgebruik bij uitoefening buitengewone bevoegdheden)

@@ -8,7 +8,7 @@ laatste_update: 2002-12-13
 status: geldig
 toestand: 2002-12-13
 bron: "https://wetten.overheid.nl/BWBR0009718"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Keuringsreglement COKZ kaas

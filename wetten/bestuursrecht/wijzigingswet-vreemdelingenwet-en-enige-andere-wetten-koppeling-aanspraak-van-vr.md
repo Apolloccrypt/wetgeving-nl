@@ -9,7 +9,7 @@ laatste_update: 1998-08-01
 status: geldig
 toestand: 1998-08-01
 bron: "https://wetten.overheid.nl/BWBR0009511"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 26 maart 1998 tot wijziging van de Vreemdelingenwet en enige andere wetten teneinde de aanspraak van vreemdelingen jegens bestuursorganen op verstrekkingen, voorzieningen, uitkeringen, ontheffingen en vergunningen te koppelen aan het rechtmatig verblijf van de vreemdeling in Nederland

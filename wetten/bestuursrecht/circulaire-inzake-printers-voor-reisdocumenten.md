@@ -8,7 +8,7 @@ laatste_update: 1997-12-08
 status: geldig
 toestand: 1997-12-08
 bron: "https://wetten.overheid.nl/BWBR0009089"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Circulaire inzake printers voor reisdocumenten

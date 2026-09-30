@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0008900"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 11 september 1997, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 19j, tweede lid, van Boek 1 van het Burgerlijk Wetboek (Besluit bijzondere akten van de burgerlijke stand)

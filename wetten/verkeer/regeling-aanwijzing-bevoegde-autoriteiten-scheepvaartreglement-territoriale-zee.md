@@ -8,7 +8,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0008644"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling aanwijzing bevoegde autoriteiten Scheepvaartreglement territoriale zee

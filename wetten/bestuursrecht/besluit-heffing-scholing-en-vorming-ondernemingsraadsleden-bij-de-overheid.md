@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0008790"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 2 juli 1997 tot nadere regeling van de heffing van gelden ter bevordering van scholing en vorming van ondernemingsraadsleden bij de overheid (Besluit heffing scholing en vorming ondernemingsraadsleden bij de overheid)

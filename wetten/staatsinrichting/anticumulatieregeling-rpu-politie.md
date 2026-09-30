@@ -8,7 +8,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0009185"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Anticumulatieregeling RPU Politie

@@ -9,7 +9,7 @@ laatste_update: 1997-06-06
 status: geldig
 toestand: 1997-06-06
 bron: "https://wetten.overheid.nl/BWBR0008637"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 10 april 1997 tot wijziging van de Wet inzake bloedtransfusie

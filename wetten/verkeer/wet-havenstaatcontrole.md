@@ -9,7 +9,7 @@ laatste_update: 2025-09-17
 status: geldig
 toestand: 2025-09-17
 bron: "https://wetten.overheid.nl/BWBR0008999"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 6 november 1997, houdende regels betreffende het toezicht aan boord van schepen onder buitenlandse vlag in Nederlandse havens op de naleving van internationale voorschriften op het gebied van de veiligheid, voorkoming van verontreiniging en leef- en werkomstandigheden (Wet havenstaatcontrole)

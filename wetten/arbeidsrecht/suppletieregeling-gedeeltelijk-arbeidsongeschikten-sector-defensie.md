@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0008977"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 27 oktober 1997, houdende regeling tot toekenning van suppletie bij gedeeltelijke arbeidsongeschiktheid van gewezen defensiepersoneel (Suppletieregeling gedeeltelijk arbeidsongeschikten sector Defensie)

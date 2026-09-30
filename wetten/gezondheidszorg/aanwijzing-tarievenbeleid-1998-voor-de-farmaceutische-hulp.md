@@ -8,7 +8,7 @@ laatste_update: 1998-05-27
 status: geldig
 toestand: 1998-05-27
 bron: "https://wetten.overheid.nl/BWBR0009621"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Aanwijzing tarievenbeleid 1998 voor de farmaceutische hulp

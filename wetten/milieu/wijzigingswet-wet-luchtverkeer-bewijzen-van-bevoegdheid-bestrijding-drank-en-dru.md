@@ -9,7 +9,7 @@ laatste_update: 2000-01-19
 status: geldig
 toestand: 2000-01-19
 bron: "https://wetten.overheid.nl/BWBR0008613"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 26 maart 1997 tot wijziging van de Wet Luchtverkeer (bewijzen van bevoegdheid, bestrijding drank- en drugsgebruik)

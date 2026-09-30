@@ -8,7 +8,7 @@ laatste_update: 1998-05-20
 status: geldig
 toestand: 1998-05-20
 bron: "https://wetten.overheid.nl/BWBR0009599"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Aanwijzing als speciale beschermingszone EG-Vogelrichtlijn

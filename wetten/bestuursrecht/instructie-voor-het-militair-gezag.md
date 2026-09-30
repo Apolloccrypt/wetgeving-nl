@@ -9,7 +9,7 @@ laatste_update: 1998-03-18
 status: geldig
 toestand: 1998-03-18
 bron: "https://wetten.overheid.nl/BWBR0009403"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 24 februari 1998, houdende vaststelling van de Instructie voor het militair gezag (Instructie voor het militair gezag)

@@ -8,7 +8,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0009238"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Instelling Tijdelijke Expertise Commissie Emancipatie in het Nieuwe Adviesstelsel

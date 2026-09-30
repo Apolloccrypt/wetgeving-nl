@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0008924"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 22 september 1997, houdende aanwijzing risicolanden defensiepersoneel

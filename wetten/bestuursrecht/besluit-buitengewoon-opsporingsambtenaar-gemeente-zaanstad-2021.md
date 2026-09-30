@@ -6,10 +6,11 @@ categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-09-30
 laatste_update: 2021-09-30
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-29
 toestand: 2021-09-30
 bron: "https://wetten.overheid.nl/BWBR0045343"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-30
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 18 juni 2021 nr. BOACAT2021/029, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Zaanstad

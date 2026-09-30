@@ -9,7 +9,7 @@ laatste_update: 1998-12-10
 status: geldig
 toestand: 1998-12-10
 bron: "https://wetten.overheid.nl/BWBR0008793"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 2 juli 1997 tot wijziging van Boek 8 van het Burgerlijk Wetboek met betrekking tot hulpverlening en daarmede verband houdende wijziging van enige andere wetten

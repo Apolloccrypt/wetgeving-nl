@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0009449"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 5 maart 1998, houdende regels ter bescherming van het Antarctisch milieu ter uitvoering van het Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica (Wet bescherming Antarctica)

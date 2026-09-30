@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0009142"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 12 december 1997, houdende vaststelling van regels voor het vervoer van ontplofbare stoffen en voorwerpen ten behoeve van de krijgsmacht (Besluit vervoer ontplofbare stoffen krijgsmacht)

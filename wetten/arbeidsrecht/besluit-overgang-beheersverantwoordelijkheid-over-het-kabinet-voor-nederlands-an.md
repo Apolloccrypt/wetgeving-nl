@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0009162"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 15 december 1997, houdende de overgang van de beheersverantwoordelijkheid over het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken van Onze Minister voor Nederlands-Antilliaanse en Arubaanse Zaken naar Onze Minister van Binnenlandse Zaken, alsmede de overgang van het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken naar het ministerie van Binnenlandse Zaken

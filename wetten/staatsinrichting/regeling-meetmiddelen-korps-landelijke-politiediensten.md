@@ -8,7 +8,7 @@ laatste_update: 1997-07-12
 status: geldig
 toestand: 1997-07-12
 bron: "https://wetten.overheid.nl/BWBR0008802"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling meetmiddelen Korps landelijke politiediensten

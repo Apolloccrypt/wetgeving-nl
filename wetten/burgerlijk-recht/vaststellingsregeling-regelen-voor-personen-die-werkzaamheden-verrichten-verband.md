@@ -8,7 +8,7 @@ laatste_update: 1998-08-21
 status: geldig
 toestand: 1998-08-21
 bron: "https://wetten.overheid.nl/BWBR0009490"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Vaststellingsregeling regelen voor personen, die werkzaamheden verrichten, verband houdende met de luchtwaardigheid van vliegtuigen

@@ -9,7 +9,7 @@ laatste_update: 1997-12-01
 status: geldig
 toestand: 1997-12-01
 bron: "https://wetten.overheid.nl/BWBR0008883"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 22 augustus 1997, houdende regels inzake de deskundigheid van de heilgymnast-masseur (Besluit deskundigheidsgebied heilgymnast-masseur)

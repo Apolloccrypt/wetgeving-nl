@@ -8,7 +8,7 @@ laatste_update: 2006-09-13
 status: geldig
 toestand: 2006-09-13
 bron: "https://wetten.overheid.nl/BWBR0009317"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Selectielijst neerslag handelingen Minister van EZ op het beleidsterrein Beheer Rijksbegroting

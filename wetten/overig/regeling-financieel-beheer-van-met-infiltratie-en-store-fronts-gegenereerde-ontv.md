@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0009771"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Regeling financieel beheer infiltratie

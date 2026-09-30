@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0009080"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 4 december 1997, houdende voorschriften ter uitvoering van de Wet op de lijkbezorging (Besluit op de lijkbezorging)

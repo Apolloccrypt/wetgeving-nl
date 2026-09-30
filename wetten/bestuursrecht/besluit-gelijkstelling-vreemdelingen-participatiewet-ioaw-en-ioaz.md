@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0009576"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 27 april 1998, tot het voor de toepassing van de Algemene bijstandswet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen gelijkstellen van vreemdelingen met Nederlanders (Besluit gelijkstelling vreemdelingen Abw, Ioaw en Ioaz)

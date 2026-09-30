@@ -9,7 +9,7 @@ laatste_update: 1998-04-01
 status: geldig
 toestand: 1998-04-01
 bron: "https://wetten.overheid.nl/BWBR0008997"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 6 november 1997 tot aanvulling van de Wet milieubeheer met een regeling ter waarborging dat gesloten stortplaatsen geen of zo min mogelijk nadelige gevolgen voor het milieu hebben, alsmede wijziging van de Wet bodembescherming

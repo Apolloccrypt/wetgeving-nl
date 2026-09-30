@@ -9,7 +9,7 @@ laatste_update: 1997-01-01
 status: geldig
 toestand: 1997-01-01
 bron: "https://wetten.overheid.nl/BWBR0008574"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 27 februari 1997, houdende verlenging van het recht op premievrijstelling van een banenpool op grond van de voormalige Wet ter bevordering van de werkgelegenheid voor werkzoekenden die zeer langdurig werkloos zijn

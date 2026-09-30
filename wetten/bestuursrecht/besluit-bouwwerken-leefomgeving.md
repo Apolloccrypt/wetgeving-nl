@@ -5,11 +5,11 @@ identifier: "BWBR0041297"
 categorie: "Overig"
 soort: "AMvB"
 publicatiedatum: 2024-01-01
-laatste_update: 2026-07-01
+laatste_update: 2026-09-24
 status: geldig
-toestand: 2026-07-01
+toestand: 2026-09-24
 bron: "https://wetten.overheid.nl/BWBR0041297"
-opgehaald: 2026-08-27
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 3 juli 2018, houdende regels over bouwwerken in de fysieke leefomgeving (Besluit bouwwerken leefomgeving)
@@ -20,13 +20,15 @@ opgehaald: 2026-08-27
 
 ##### Artikel 1.1. (begripsbepalingen)
 
-[Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I&z=2026-07-01&g=2026-07-01) bevat begripsbepalingen voor de toepassing van dit besluit.
+[Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I&z=2026-09-24&g=2026-09-24) bevat begripsbepalingen voor de toepassing van dit besluit.
 
 ##### Artikel 1.1a. (grondslag)
 
 1. Dit besluit berust op de [artikelen 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3), [5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), [16.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.1), en [23.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=23.1).
 
 2. Dit besluit berust ook op de [artikelen 119](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=119) en [119a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=119a).
+
+3. Dit besluit berust ook op [artikel 120 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=120).
 
 #### Afdeling 1.2. Internationaalrechtelijke verplichtingen
 
@@ -70,7 +72,7 @@ Een maatwerkregel wordt in het omgevingsplan gesteld.
 
 ##### Artikel 2.5. (instandhouden gelijkwaardige maatregel)
 
-Een gelijkwaardige maatregel die betrekking heeft op een in de [hoofdstukken 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-07-01&g=2026-07-01) gestelde regel wordt bij het gebruik van het bouwwerk in stand gehouden.
+Een gelijkwaardige maatregel die betrekking heeft op een in de [hoofdstukken 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-09-24&g=2026-09-24) gestelde regel wordt bij het gebruik van het bouwwerk in stand gehouden.
 
 ##### Artikel 2.6. (specifieke zorgplicht: bouwwerkinstallatie)
 
@@ -84,15 +86,15 @@ De eigenaar van het bouwwerk of degene die uit anderen hoofde bevoegd is tot het
 
 ##### Artikel 2.7. (gemeenschappelijk en gezamenlijk)
 
-1. Voor de toepassing van een in de [hoofdstukken 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-07-01&g=2026-07-01) gestelde regel is een bouwwerk, een ruimte, een voorziening, of een gedeelte daarvan naar keuze gemeenschappelijk of niet-gemeenschappelijk, tenzij voor een regel anders is aangegeven.
+1. Voor de toepassing van een in de [hoofdstukken 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-09-24&g=2026-09-24) gestelde regel is een bouwwerk, een ruimte, een voorziening, of een gedeelte daarvan naar keuze gemeenschappelijk of niet-gemeenschappelijk, tenzij voor een regel anders is aangegeven.
 
-2. Voor de toepassing van een in de [hoofdstukken 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-07-01&g=2026-07-01) gestelde regel wordt een gedeelte van een bouwwerk, een ruimte of een voorziening die ten dienste staat van meer dan een gebruiksfunctie, aangemerkt als gemeenschappelijk. Dit gedeelte, deze ruimte of deze voorziening maakt, met uitzondering van een nevengebruiksfunctie, voor de toepassing van deze hoofdstukken deel uit van alle daarop aangewezen gebruiksfuncties.
+2. Voor de toepassing van een in de [hoofdstukken 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-09-24&g=2026-09-24) gestelde regel wordt een gedeelte van een bouwwerk, een ruimte of een voorziening die ten dienste staat van meer dan een gebruiksfunctie, aangemerkt als gemeenschappelijk. Dit gedeelte, deze ruimte of deze voorziening maakt, met uitzondering van een nevengebruiksfunctie, voor de toepassing van deze hoofdstukken deel uit van alle daarop aangewezen gebruiksfuncties.
 
-3. Voor de toepassing van een in de [hoofdstukken 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-07-01&g=2026-07-01) gestelde regel wordt een gedeelte van een woonfunctie, een celfunctie of een logiesfunctie of een ruimte of voorziening die ten dienste staat van die gebruiksfunctie, gebruikt door meer dan een wooneenheid, celeenheid of logiesverblijf in die gebruiksfunctie, aangemerkt als gezamenlijk.
+3. Voor de toepassing van een in de [hoofdstukken 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-09-24&g=2026-09-24) gestelde regel wordt een gedeelte van een woonfunctie, een celfunctie of een logiesfunctie of een ruimte of voorziening die ten dienste staat van die gebruiksfunctie, gebruikt door meer dan een wooneenheid, celeenheid of logiesverblijf in die gebruiksfunctie, aangemerkt als gezamenlijk.
 
 ##### Artikel 2.7a. (voorrangsregel omgevingsvergunning bouwactiviteit algemeen)
 
-Voor zover een omgevingsvergunning voor een bouwactiviteit afwijkt van een in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-07-01&g=2026-07-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&z=2026-07-01&g=2026-07-01) gestelde regel, zijn alleen de omgevingsvergunning en de daaraan verbonden voorschriften van toepassing.
+Voor zover een omgevingsvergunning voor een bouwactiviteit afwijkt van een in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-09-24&g=2026-09-24) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&z=2026-09-24&g=2026-09-24) gestelde regel, zijn alleen de omgevingsvergunning en de daaraan verbonden voorschriften van toepassing.
 
 ##### Artikel 2.8. (voorrangsregel omgevingsvergunning activiteit met betrekking tot een monument)
 
@@ -108,11 +110,11 @@ Voor zover een omgevingsvergunning voor:
 
 - c. een rijksmonumentenactiviteit;
 
-afwijkt van een in de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-07-01&g=2026-07-01) gestelde regel, zijn alleen de omgevingsvergunning en de daaraan verbonden voorschriften van toepassing.
+afwijkt van een in de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-09-24&g=2026-09-24) gestelde regel, zijn alleen de omgevingsvergunning en de daaraan verbonden voorschriften van toepassing.
 
 ##### Artikel 2.9. (afwijking wegens implementatie van Europese regelgeving)
 
-Voor zover een in het [Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577), het [Warenwetbesluit liften 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037650) of het [Besluit gastoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0041162), ter implementatie van een in Europese regelgeving gestelde eis, afwijkt van een in de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-07-01&g=2026-07-01) gestelde regel, is alleen de krachtens die besluiten gestelde eis van toepassing.
+Voor zover een in het [Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577), het [Warenwetbesluit liften 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037650) of het [Besluit gastoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0041162), ter implementatie van een in Europese regelgeving gestelde eis, afwijkt van een in de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-09-24&g=2026-09-24) gestelde regel, is alleen de krachtens die besluiten gestelde eis van toepassing.
 
 ##### Artikel 2.10. (drank- en horeca-inrichtingen)
 
@@ -120,7 +122,7 @@ Voor zover een in het [Warenwetbesluit machines](https://wetten.overheid.nl/jci1
 
 ##### Artikel 2.10a. (waterkerende bouwwerken)
 
-De [paragrafen 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&z=2026-07-01&g=2026-07-01), [4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&z=2026-07-01&g=2026-07-01) en [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.9&z=2026-07-01&g=2026-07-01) zijn niet van toepassing voor zover de eisen betrekking hebben op de mate van waterkerendheid van het bouwwerk of een onderdeel daarvan.
+De [paragrafen 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&z=2026-09-24&g=2026-09-24), [4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&z=2026-09-24&g=2026-09-24) en [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.9&z=2026-09-24&g=2026-09-24) zijn niet van toepassing voor zover de eisen betrekking hebben op de mate van waterkerendheid van het bouwwerk of een onderdeel daarvan.
 
 ##### Artikel 2.11. (aantal personen in een bouwwerk)
 
@@ -128,43 +130,41 @@ In een bouwwerk of gedeelte daarvan zijn niet meer personen aanwezig dan het aan
 
 ##### Artikel 2.12. (overgangsrecht: aantal personen in een bouwwerk)
 
-Zolang het aantal personen dat in een bouwwerk of een gedeelte daarvan aanwezig is niet groter is dan het onmiddellijk voorafgaand aan 1 april 2012 voor dat bouwwerk of dat gedeelte toegestane aantal personen, blijft [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.11&z=2026-07-01&g=2026-07-01) buiten toepassing.
+Zolang het aantal personen dat in een bouwwerk of een gedeelte daarvan aanwezig is niet groter is dan het onmiddellijk voorafgaand aan 1 april 2012 voor dat bouwwerk of dat gedeelte toegestane aantal personen, blijft [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.11&z=2026-09-24&g=2026-09-24) buiten toepassing.
 
 #### Afdeling 2.2. CE-markeringen, markttoezicht en kwaliteitsverklaringen bouw
 
-##### Artikel 2.13. (verordening bouwproducten)
+##### Artikel 2.13. (uitvoering verordening bouwproducten en verordening bouwproducten 2024)
 
-1. Handelen in strijd met de plichten die voortvloeien uit de verordening bouwproducten is verboden.
+1. Handelen in strijd met de plichten die voortvloeien uit de verordening bouwproducten of de verordening bouwproducten 2024 is verboden.
 
-2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties wijst een instelling aan die adviezen uitbrengt over de geschiktheid van technische beoordelingsinstanties als bedoeld in artikel 29 van de verordening bouwproducten.
+2. Onze Minister van Volkshuisvesting en Ruimtelijke Ordening is de aanwijzende autoriteit, bedoeld in artikel 38 van de verordening bouwproducten 2024.
 
-3. Een technische beoordelingsinstantie toont aan de instelling aan dat zij voor de productgebieden, bedoeld in bijlage IV, tabel 1, bij de verordening bouwproducten, voldoet aan de eisen die zijn opgenomen in tabel 2 van die bijlage.
+3. Onze Minister van Volkshuisvesting en Ruimtelijke Ordening is de aanmeldende autoriteit, bedoeld in artikel 43 van de verordening bouwproducten 2024.
 
-4. De instelling stelt een procedure op voor de aanmelding en de beoordeling van en het toezicht op technische beoordelingsinstanties en maakt jaarlijks een actueel overzicht van aangemelde technische beoordelingsinstanties openbaar.
+4. Een prestatieverklaring als bedoeld in artikel 4, eerste lid, van de verordening bouwproducten of een prestatie- en conformiteitsverklaring als bedoeld in artikel 16, vierde lid, van de verordening bouwproducten 2024 wordt in de Nederlandse taal verstrekt.
 
-5. De aanmeldende autoriteit, bedoeld in artikel 40 van de verordening bouwproducten, brengt advies uit aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties over de geschiktheid van aangemelde instanties als bedoeld in artikel 39 van die verordening.
+5. Instructies en informatie als bedoeld in de artikelen 11, zesde en achtste lid, 13, vierde en negende lid, en 14, tweede en vijfde lid, van de verordening bouwproducten of de artikelen 22, zesde lid, 24, derde lid, en 25, tweede lid, onder c, van de verordening bouwproducten 2024 zijn in de Nederlandse taal gesteld.
 
-6. De aangemelde instantie toont aan dat zij voldoet aan de eisen, bedoeld in artikel 43 van de verordening bouwproducten.
+6. Onze Minister van Volkshuisvesting en Ruimtelijke Ordening is het centrale contactpunt, bedoeld in artikel 64, tweede lid, van de verordening bouwproducten 2024.
 
-7. De instelling en de aanmeldende autoriteit informeren Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld als zij van oordeel zijn dat een technische beoordelingsinstantie of een aangemelde instantie de aan de aanwijzing verbonden voorschriften niet naleeft of niet meer aan de voorwaarden voor die aanwijzing voldoet.
+7. Onze Minister van Volkshuisvesting en Ruimtelijke Ordening is het productcontactpunt voor de bouw, bedoeld in artikel 72, eerste lid, van de verordening bouwproducten 2024.
 
-8. Een prestatieverklaring als bedoeld in artikel 4, eerste lid, van de verordening bouwproducten wordt in de Nederlandse taal verstrekt.
+##### Artikel 2.14. (toepassing CE-markeringen en kwaliteitsverklaringen bouw)
 
-9. Instructies en informatie als bedoeld in de artikelen 11, zesde en achtste lid, 13, vierde en negende lid, en 14, tweede en vijfde lid, van de verordening bouwproducten zijn in de Nederlandse taal gesteld.
+1. Als een bouwproduct waarop een CE-markering als bedoeld in artikel 8 van de verordening bouwproducten of als bedoeld in artikel 17 van de verordening bouwproducten 2024 is aangebracht, aan bepaalde prestaties moet voldoen zodat het bouwwerk waarin het wordt toegepast voldoet aan een bij dit besluit gestelde regel, is daaraan voldaan als het bouwproduct is toegepast in overeenstemming met een op die regel toegesneden prestatieverklaring als bedoeld in artikel 4, eerste lid, van de verordening bouwproducten respectievelijk een op die regel toegesneden prestatie- en conformiteitsverklaring als bedoeld in artikel 13, eerste lid, van de verordening bouwproducten 2024.
 
-##### Artikel 2.14. (toepassing CE-markering en kwaliteitsverklaringen bouw)
+2. Als een bouwproduct waarvoor op grond van artikel 37 van de verordening bouwproducten 2024 een Europese technische beoordeling zonder CE-markering is afgegeven aan bepaalde prestaties moet voldoen zodat het bouwwerk waarin het bouwproduct wordt toegepast voldoet aan een bij dit besluit gestelde regel, is daaraan voldaan als de prestaties van dat bouwproduct, als aangegeven in de Europese technische beoordeling, zijn toegesneden op die regel.
 
-1. Als een bouwproduct waarop een CE-markering als bedoeld in artikel 8 van de verordening bouwproducten is aangebracht, aan bepaalde prestaties moet voldoen zodat het bouwwerk waarin het wordt toegepast voldoet aan een bij dit besluit gestelde regel is daaraan voldaan als het bouwproduct is toegepast in overeenstemming met een op die eis toegesneden prestatieverklaring als bedoeld in artikel 4, eerste lid, van die verordening.
+3. Als een bouwproduct moet voldoen aan bepaalde prestaties die niet onder een in artikel 2, elfde lid, van de verordening bouwproducten bedoelde geharmoniseerde norm dan wel in artikel 3, onderdeel 42, van de verordening bouwproducten 2024 bedoelde geharmoniseerde technische specificatie vallen, zodat het bouwwerk waarin het bouwproduct wordt toegepast voldoet aan een bij dit besluit gestelde regel, is daaraan voldaan als het bouwproduct is toegepast in overeenstemming met een op die regel toegesneden kwaliteitsverklaring bouw.
 
-2. Als een bouwproduct moet voldoen aan bepaalde prestaties die niet onder een in artikel 2, elfde lid, van de verordening bouwproducten bedoelde geharmoniseerde norm vallen, zodat het bouwwerk waarin het wordt toegepast voldoet aan een bij dit besluit gestelde regel is daaraan voldaan als het bouwproduct is toegepast in overeenstemming met een op die eis toegesneden kwaliteitsverklaring bouw.
-
-3. Als een bouwproces aan bepaalde prestaties moet voldoen zodat het bouwwerk waarin het wordt uitgevoerd voldoet aan een bij dit besluit gestelde regel is daaraan voldaan als het bouwproces is toegepast in overeenstemming met een op die eis toegesneden kwaliteitsverklaring bouw.
+4. Als een bouwproces aan bepaalde prestaties moet voldoen zodat het bouwwerk waarin het wordt uitgevoerd voldoet aan een bij dit besluit gestelde regel, is daaraan voldaan als het bouwproces is toegepast in overeenstemming met een op die eis toegesneden kwaliteitsverklaring bouw.
 
 ##### Artikel 2.15. (erkenning kwaliteitsverklaringen bouw)
 
-1. Kwaliteitsverklaringen bouw als bedoeld in [artikel 2.14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2&artikel=2.14&z=2026-07-01&g=2026-07-01), worden afgegeven op basis van een door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties erkend stelsel van kwaliteitsverklaringen voor de bouw.
+1. Kwaliteitsverklaringen bouw als bedoeld in [artikel 2.14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2&artikel=2.14&z=2026-09-24&g=2026-09-24), worden afgegeven op basis van een door Onze Minister van Volkshuisvesting en Ruimtelijke Ordening erkend stelsel van kwaliteitsverklaringen voor de bouw.
 
-2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt de voorwaarden vast waaronder kwaliteitsverklaringen bouw worden afgegeven.
+2. Onze Minister van Volkshuisvesting en Ruimtelijke Ordening stelt de voorwaarden vast waaronder kwaliteitsverklaringen bouw worden afgegeven.
 
 ##### Artikel 2.15a. (Verordening (EU) 2019/1020)
 
@@ -194,7 +194,7 @@ Aan de regels in deze afdeling wordt voldaan door degene die het bouwwerk bouwt.
 
 - b. de bouwactiviteit alleen ten dienste staat van een gebruiksfunctie als bedoeld in het derde lid;
 
-- c. de bouwactiviteit niet betreft een bouwwerk waar voor het in gebruik nemen of gebruiken van het bouwwerk een gebruiksmelding als bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.7&z=2026-07-01&g=2026-07-01), is vereist;
+- c. de bouwactiviteit niet betreft een bouwwerk waar voor het in gebruik nemen of gebruiken van het bouwwerk een gebruiksmelding als bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.7&z=2026-09-24&g=2026-09-24), is vereist;
 
 - d. bij de bouwactiviteit geen gelijkwaardige maatregel wordt toegepast in verband met een in dit besluit uit het oogpunt van constructieve veiligheid of brandveiligheid gestelde regel;
 
@@ -222,7 +222,7 @@ Aan de regels in deze afdeling wordt voldaan door degene die het bouwwerk bouwt.
 
 ##### Artikel 2.18. (bouwmelding)
 
-1. Onverminderd [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.7&z=2026-07-01&g=2026-07-01) is het verboden een bouwactiviteit als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.17&z=2026-07-01&g=2026-07-01) uit te voeren zonder dit ten minste vier weken voor het begin van de bouwwerkzaamheden te melden.
+1. Onverminderd [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.7&z=2026-09-24&g=2026-09-24) is het verboden een bouwactiviteit als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.17&z=2026-09-24&g=2026-09-24) uit te voeren zonder dit ten minste vier weken voor het begin van de bouwwerkzaamheden te melden.
 
 2. Als de bouwactiviteit niet begint binnen een jaar na de melding, is het verboden de bouwactiviteit te verrichten zonder dit ten minste vier weken voor het begin ervan opnieuw te melden.
 
@@ -230,7 +230,7 @@ Aan de regels in deze afdeling wordt voldaan door degene die het bouwwerk bouwt.
 
 ##### Artikel 2.19. (gegevens en bescheiden bij bouwmelding)
 
-1. Een melding als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-07-01&g=2026-07-01) wordt ondertekend en bevat de volgende gegevens en bescheiden:
+1. Een melding als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-09-24&g=2026-09-24) wordt ondertekend en bevat de volgende gegevens en bescheiden:
 
 - a. de naam, het adres en het telefoonnummer van degene die het bouwwerk bouwt;
 
@@ -246,7 +246,7 @@ Aan de regels in deze afdeling wordt voldaan door degene die het bouwwerk bouwt.
 
 - g. gegevens betreffende de kwaliteitsborger en het te gebruiken instrument voor kwaliteitsborging, bedoeld in [artikel 7ab, derde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ab);
 
-- h. een risicobeoordeling van het bouwproject met het oog op het voorkomen of beperken van risico’s die van invloed kunnen zijn op het voldoen aan de regels voor de bouwactiviteit, bedoeld in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-07-01&g=2026-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&z=2026-07-01&g=2026-07-01); en
+- h. een risicobeoordeling van het bouwproject met het oog op het voorkomen of beperken van risico’s die van invloed kunnen zijn op het voldoen aan de regels voor de bouwactiviteit, bedoeld in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-09-24&g=2026-09-24) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&z=2026-09-24&g=2026-09-24); en
 
 - i. het borgingsplan, bedoeld in [artikel 3.80 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.80).
 
@@ -254,17 +254,17 @@ Aan de regels in deze afdeling wordt voldaan door degene die het bouwwerk bouwt.
 
 ##### Artikel 2.20. (gegevens en bescheiden op verzoek van het bevoegd gezag)
 
-1. Op verzoek van het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-07-01&g=2026-07-01), worden gegevens en bescheiden verstrekt over specifieke bouwwerkzaamheden en de momenten waarop deze worden uitgevoerd als dit bijzonder is aangewezen met het oog op het voorkomen en of beperken van risico’s die van invloed kunnen zijn op het voldoen aan de regels voor de bouwactiviteit, bedoeld in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-07-01&g=2026-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&z=2026-07-01&g=2026-07-01).
+1. Op verzoek van het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-09-24&g=2026-09-24), worden gegevens en bescheiden verstrekt over specifieke bouwwerkzaamheden en de momenten waarop deze worden uitgevoerd als dit bijzonder is aangewezen met het oog op het voorkomen en of beperken van risico’s die van invloed kunnen zijn op het voldoen aan de regels voor de bouwactiviteit, bedoeld in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-09-24&g=2026-09-24) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&z=2026-09-24&g=2026-09-24).
 
 2. Gegevens en bescheiden worden verstrekt voor zover degene die de activiteit verricht er redelijkerwijs de beschikking over kan krijgen.
 
 ##### Artikel 2.21. (gereedmelding bouwactiviteit)
 
-1. Het is verboden het bouwwerk of de bouwwerken die onderdeel uitmaken van een bouwactiviteit als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.17&z=2026-07-01&g=2026-07-01) in gebruik te nemen zonder dit ten minste twee weken voor het feitelijk in gebruik nemen te melden.
+1. Het is verboden het bouwwerk of de bouwwerken die onderdeel uitmaken van een bouwactiviteit als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.17&z=2026-09-24&g=2026-09-24) in gebruik te nemen zonder dit ten minste twee weken voor het feitelijk in gebruik nemen te melden.
 
 2. De melding wordt ondertekend en bevat de volgende gegevens en bescheiden van de gerealiseerde activiteit:
 
-- a. de naam, het adres en het telefoonnummer van degene die de bouwmelding, bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-07-01&g=2026-07-01) heeft gedaan;
+- a. de naam, het adres en het telefoonnummer van degene die de bouwmelding, bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-09-24&g=2026-09-24) heeft gedaan;
 
 - b. de dagtekening;
 
@@ -286,7 +286,7 @@ Aan de regels in deze afdeling wordt voldaan door degene die het bouwwerk bouwt.
 
    - 5°. de milieuprestatie;
 
-- g. gegevens en bescheiden over de brandveiligheid als bedoeld in [artikel 6.8, eerste lid, onder d, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.8&z=2026-07-01&g=2026-07-01); en
+- g. gegevens en bescheiden over de brandveiligheid als bedoeld in [artikel 6.8, eerste lid, onder d, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.8&z=2026-09-24&g=2026-09-24); en
 
 - h. gegevens en bescheiden over toegepaste gelijkwaardige maatregelen.
 
@@ -296,9 +296,9 @@ Aan de regels in deze afdeling wordt voldaan door degene die het bouwwerk bouwt.
 
 ##### Artikel 2.22. (algemene afbakeningseisen)
 
-1. De [artikelen 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.2&artikel=2.27&z=2026-07-01&g=2026-07-01) en [2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-07-01&g=2026-07-01) zijn niet van toepassing op een activiteit die wordt verricht in, aan, op of bij een bouwwerk dat is gebouwd of in stand wordt gehouden of wordt gebruikt zonder de daarvoor vereiste omgevingsvergunning of gereedmelding, bedoeld in [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.21&z=2026-07-01&g=2026-07-01).
+1. De [artikelen 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.2&artikel=2.27&z=2026-09-24&g=2026-09-24) en [2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-09-24&g=2026-09-24) zijn niet van toepassing op een activiteit die wordt verricht in, aan, op of bij een bouwwerk dat is gebouwd of in stand wordt gehouden of wordt gebruikt zonder de daarvoor vereiste omgevingsvergunning of gereedmelding, bedoeld in [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.21&z=2026-09-24&g=2026-09-24).
 
-2. Bij de toepassing van [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-07-01&g=2026-07-01) blijft het aantal woningen gelijk, tenzij het gaat om huisvesting in verband met mantelzorg.
+2. Bij de toepassing van [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-09-24&g=2026-09-24) blijft het aantal woningen gelijk, tenzij het gaat om huisvesting in verband met mantelzorg.
 
 ##### Artikel 2.23. (meetvoorschriften)
 
@@ -372,9 +372,9 @@ Het verbod, bedoeld in [artikel 5.1, tweede lid, van de wet](https://wetten.over
 
 ##### Artikel 2.27. (uitzonderingen aanwijzing vergunningplichtige gevallen bouwactiviteit in de artikelen 2.25 en 2.26)
 
-1. In afwijking van de [artikelen 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.2&artikel=2.25&z=2026-07-01&g=2026-07-01) en [2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.2&artikel=2.26&z=2026-07-01&g=2026-07-01) geldt het verbod, bedoeld in [artikel 5.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), om zonder omgevingsvergunning een bouwactiviteit te verrichten niet voor de in die artikelen aangewezen bouwactiviteiten als die betrekking hebben op:
+1. In afwijking van de [artikelen 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.2&artikel=2.25&z=2026-09-24&g=2026-09-24) en [2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.2&artikel=2.26&z=2026-09-24&g=2026-09-24) geldt het verbod, bedoeld in [artikel 5.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), om zonder omgevingsvergunning een bouwactiviteit te verrichten niet voor de in die artikelen aangewezen bouwactiviteiten als die betrekking hebben op:
 
-- a. een bouwwerk dat valt onder gevolgklasse 1 als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.17&z=2026-07-01&g=2026-07-01); of
+- a. een bouwwerk dat valt onder gevolgklasse 1 als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.17&z=2026-09-24&g=2026-09-24); of
 
 - b. het gedeeltelijk vernieuwen, veranderen of vergroten van een bouwwerk waarbij de volgende onderdelen niet wijzigen:
 
@@ -384,7 +384,7 @@ Het verbod, bedoeld in [artikel 5.1, tweede lid, van de wet](https://wetten.over
 
    - 3°. de isolatie van de gevel, of een gevelpaneel, anders dan isolatie in een bestaande spouw met instandhouding van het bestaande buitengevelblad.
 
-2. In afwijking van de [artikelen 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.2&artikel=2.25&z=2026-07-01&g=2026-07-01) en [2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.2&artikel=2.26&z=2026-07-01&g=2026-07-01) en ongeacht of een uitzondering als bedoeld in het eerste lid van toepassing is, geldt het verbod, bedoeld in [artikel 5.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), om zonder omgevingsvergunning een bouwactiviteit te verrichten ook niet voor een bouwactiviteit die betrekking heeft op een van de volgende bouwwerken:
+2. In afwijking van de [artikelen 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.2&artikel=2.25&z=2026-09-24&g=2026-09-24) en [2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.2&artikel=2.26&z=2026-09-24&g=2026-09-24) en ongeacht of een uitzondering als bedoeld in het eerste lid van toepassing is, geldt het verbod, bedoeld in [artikel 5.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), om zonder omgevingsvergunning een bouwactiviteit te verrichten ook niet voor een bouwactiviteit die betrekking heeft op een van de volgende bouwwerken:
 
 - a. een dakkapel;
 
@@ -624,19 +624,19 @@ Onverminderd regels in het omgevingsplan over het in stand houden van een bouwwe
 
 ##### Artikel 2.30. (inperking vergunningvrije omgevingsplanactiviteiten met betrekking tot bouwwerken vanwege cultureel erfgoed)
 
-1. Op een omgevingsplanactiviteit die wordt verricht in, aan of op een gemeentelijk monument, voorbeschermd gemeentelijk monument, provinciaal monument, voorbeschermd provinciaal monument, rijksmonument of voorbeschermd rijksmonument is alleen [artikel 2.29, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-07-01&g=2026-07-01), van toepassing.
+1. Op een omgevingsplanactiviteit die wordt verricht in, aan of op een gemeentelijk monument, voorbeschermd gemeentelijk monument, provinciaal monument, voorbeschermd provinciaal monument, rijksmonument of voorbeschermd rijksmonument is alleen [artikel 2.29, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-09-24&g=2026-09-24), van toepassing.
 
-2. Op een omgevingsplanactiviteit die wordt verricht bij een gemeentelijk monument, voorbeschermd gemeentelijk monument, provinciaal monument, voorbeschermd provinciaal monument, rijksmonument of voorbeschermd rijksmonument zijn alleen de volgende onderdelen van [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-07-01&g=2026-07-01) van toepassing:
+2. Op een omgevingsplanactiviteit die wordt verricht bij een gemeentelijk monument, voorbeschermd gemeentelijk monument, provinciaal monument, voorbeschermd provinciaal monument, rijksmonument of voorbeschermd rijksmonument zijn alleen de volgende onderdelen van [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-09-24&g=2026-09-24) van toepassing:
 
-- a. [artikel 2.29, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-07-01&g=2026-07-01), voor zover ook kleur en materiaalsoort van het bouwwerk niet wijzigen; en
+- a. [artikel 2.29, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-09-24&g=2026-09-24), voor zover ook kleur en materiaalsoort van het bouwwerk niet wijzigen; en
 
-- b. [artikel 2.29, onder b, c, f, h, i, k, l, p, onder 2° tot en met 8°, q en r](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-07-01&g=2026-07-01).
+- b. [artikel 2.29, onder b, c, f, h, i, k, l, p, onder 2° tot en met 8°, q en r](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-09-24&g=2026-09-24).
 
 3. Op een omgevingsplanactiviteit die wordt verricht op een locatie waaraan in het omgevingsplan de functie-aanduiding rijksbeschermd stads- of dorpsgezicht is gegeven, is van toepassing:
 
-- a. [artikel 2.29, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-07-01&g=2026-07-01), alleen voor zover ook kleur en materiaalsoort van het bouwwerk niet wijzigen; en
+- a. [artikel 2.29, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-09-24&g=2026-09-24), alleen voor zover ook kleur en materiaalsoort van het bouwwerk niet wijzigen; en
 
-- b. [artikel 2.29, onder b tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-07-01&g=2026-07-01), alleen voor zover het gaat om:
+- b. [artikel 2.29, onder b tot en met r](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.29&z=2026-09-24&g=2026-09-24), alleen voor zover het gaat om:
 
    - 1°. inpandige wijzigingen;
 
@@ -650,7 +650,7 @@ Onverminderd regels in het omgevingsplan over het in stand houden van een bouwwe
 
 ##### Artikel 2.31. (drijvende bouwwerken)
 
-Op een drijvend bouwwerk met een woonfunctie dat door functiewijziging van een schip is ontstaan zijn de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-07-01&g=2026-07-01), met uitzondering van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.5&z=2026-07-01&g=2026-07-01), niet van toepassing.
+Op een drijvend bouwwerk met een woonfunctie dat door functiewijziging van een schip is ontstaan zijn de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-09-24&g=2026-09-24), met uitzondering van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.5&z=2026-09-24&g=2026-09-24), niet van toepassing.
 
 ### Hoofdstuk 3. Bestaande bouw
 
@@ -676,7 +676,7 @@ Aan de regels in dit hoofdstuk wordt voldaan door de eigenaar van het bouwwerk o
 
 ##### Artikel 3.4. (toepassingsbereik: aansturingsartikel niet van toepassing)
 
-In dit hoofdstuk is een aansturingsartikel niet van toepassing op een gebruiksfunctie waarvoor geen regel is opgenomen in de tabel van dat aansturingsartikel. Dit geldt niet voor de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.11&z=2026-07-01&g=2026-07-01), [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.30&z=2026-07-01&g=2026-07-01), [3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&artikel=3.36&z=2026-07-01&g=2026-07-01), [3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.9&artikel=3.42&z=2026-07-01&g=2026-07-01) en [3.114](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.114&z=2026-07-01&g=2026-07-01).
+In dit hoofdstuk is een aansturingsartikel niet van toepassing op een gebruiksfunctie waarvoor geen regel is opgenomen in de tabel van dat aansturingsartikel. Dit geldt niet voor de [artikelen 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.11&z=2026-09-24&g=2026-09-24), [3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.30&z=2026-09-24&g=2026-09-24), [3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&artikel=3.36&z=2026-09-24&g=2026-09-24), [3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.9&artikel=3.42&z=2026-09-24&g=2026-09-24) en [3.114](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.114&z=2026-09-24&g=2026-09-24).
 
 ##### Artikel 3.5. (specifieke zorgplicht: bestaande bouwwerken)
 
@@ -692,11 +692,11 @@ De eigenaar van een bouwwerk of degene die uit anderen hoofde bevoegd is tot het
 
 ##### Artikel 3.7. (maatwerkvoorschriften)
 
-1. Een maatwerkvoorschrift kan worden gesteld over [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.5&z=2026-07-01&g=2026-07-01) en de [afdelingen 3.2 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&z=2026-07-01&g=2026-07-01), met uitzondering van bepalingen over meet- of rekenmethoden.
+1. Een maatwerkvoorschrift kan worden gesteld over [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.5&z=2026-09-24&g=2026-09-24) en de [afdelingen 3.2 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&z=2026-09-24&g=2026-09-24), met uitzondering van bepalingen over meet- of rekenmethoden.
 
-2. Een maatwerkvoorschrift over de [afdelingen 3.2 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&z=2026-07-01&g=2026-07-01) kan alleen inhouden het opleggen van een plicht tot het treffen van voorzieningen om de staat van een bouwwerk op een niveau te brengen dat hoger is dan het niveau van de regels in dit hoofdstuk, maar niet hoger dan het niveau van de regels in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-07-01&g=2026-07-01). Het maatwerkvoorschrift wordt alleen gesteld als het treffen van die voorzieningen naar het oordeel van het bevoegd gezag noodzakelijk is.
+2. Een maatwerkvoorschrift over de [afdelingen 3.2 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&z=2026-09-24&g=2026-09-24) kan alleen inhouden het opleggen van een plicht tot het treffen van voorzieningen om de staat van een bouwwerk op een niveau te brengen dat hoger is dan het niveau van de regels in dit hoofdstuk, maar niet hoger dan het niveau van de regels in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-09-24&g=2026-09-24). Het maatwerkvoorschrift wordt alleen gesteld als het treffen van die voorzieningen naar het oordeel van het bevoegd gezag noodzakelijk is.
 
-3. In afwijking van het tweede lid kan een maatwerkvoorschrift als bedoeld in de [artikelen 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.86&z=2026-07-01&g=2026-07-01)[3.87c](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.87c&z=2026-07-01&g=2026-07-01), [3.130](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.8&artikel=3.130&z=2026-07-01&g=2026-07-01) en [3.132](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.8&artikel=3.132&z=2026-07-01&g=2026-07-01) alleen het bepaalde in die artikelen inhouden.
+3. In afwijking van het tweede lid kan een maatwerkvoorschrift als bedoeld in de [artikelen 3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.86&z=2026-09-24&g=2026-09-24)[3.87c](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.87c&z=2026-09-24&g=2026-09-24), [3.130](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.8&artikel=3.130&z=2026-09-24&g=2026-09-24) en [3.132](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.8&artikel=3.132&z=2026-09-24&g=2026-09-24) alleen het bepaalde in die artikelen inhouden.
 
 #### Afdeling 3.2. Veiligheid
 
@@ -727,9 +727,9 @@ Een bouwconstructie bezwijkt niet gedurende de in NEN 8700 bedoelde restlevensdu
 
 ##### Artikel 3.10. (bepalingsmethode niet-bezwijken)
 
-1. Het niet-bezwijken, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.9&z=2026-07-01&g=2026-07-01), wordt bepaald volgens NEN 8700.
+1. Het niet-bezwijken, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.9&z=2026-09-24&g=2026-09-24), wordt bepaald volgens NEN 8700.
 
-2. Bij een niet in een woongebouw of logiesgebouw gelegen woonfunctie of logiesfunctie kan bij het bepalen van het niet-bezwijken, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.9&z=2026-07-01&g=2026-07-01), rekening worden gehouden met de stabiliteitsvoorziening van een op een aangrenzend bouwwerkperceel gelegen gebruiksfunctie van dezelfde soort.
+2. Bij een niet in een woongebouw of logiesgebouw gelegen woonfunctie of logiesfunctie kan bij het bepalen van het niet-bezwijken, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.9&z=2026-09-24&g=2026-09-24), rekening worden gehouden met de stabiliteitsvoorziening van een op een aangrenzend bouwwerkperceel gelegen gebruiksfunctie van dezelfde soort.
 
 #### § 3.2.2. Constructieve veiligheid bij brand
 
@@ -789,9 +789,9 @@ Een bouwconstructie bezwijkt niet gedurende de in NEN 8700 bedoelde restlevensdu
 
 ##### Artikel 3.13. (bepalingsmethode niet-bezwijken)
 
-1. Bij het bepalen van het niet-bezwijken van een bouwconstructie, bedoeld in [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.12&z=2026-07-01&g=2026-07-01), wordt uitgegaan van de buitengewone belastingscombinaties die volgens NEN 8700 kunnen optreden bij brand.
+1. Bij het bepalen van het niet-bezwijken van een bouwconstructie, bedoeld in [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.12&z=2026-09-24&g=2026-09-24), wordt uitgegaan van de buitengewone belastingscombinaties die volgens NEN 8700 kunnen optreden bij brand.
 
-2. De tijdsduur van het niet-bezwijken, bedoeld in [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.12&z=2026-07-01&g=2026-07-01), wordt bepaald volgens:
+2. De tijdsduur van het niet-bezwijken, bedoeld in [artikel 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.12&z=2026-09-24&g=2026-09-24), wordt bepaald volgens:
 
 - a. NEN 8700; of
 
@@ -845,19 +845,19 @@ Een bouwconstructie bezwijkt niet gedurende de in NEN 8700 bedoelde restlevensdu
 
 ##### Artikel 3.16. (hoogte afscheiding)
 
-1. Een vloerafscheiding als bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.15&z=2026-07-01&g=2026-07-01), heeft een hoogte van ten minste 0,9 m, gemeten vanaf de vloer.
+1. Een vloerafscheiding als bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.15&z=2026-09-24&g=2026-09-24), heeft een hoogte van ten minste 0,9 m, gemeten vanaf de vloer.
 
-2. In afwijking van het eerste lid heeft een afscheiding als bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.15&z=2026-07-01&g=2026-07-01), ter plaatse van een al dan niet beweegbaar raam een hoogte van ten minste 0,6 m, gemeten vanaf de vloer.
+2. In afwijking van het eerste lid heeft een afscheiding als bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.15&z=2026-09-24&g=2026-09-24), ter plaatse van een al dan niet beweegbaar raam een hoogte van ten minste 0,6 m, gemeten vanaf de vloer.
 
 3. In afwijking van het eerste lid heeft een vloerafscheiding een vanaf de vloer gemeten hoogte van ten minste 0,6 m, als de som van die hoogte en de breedte van de bovenregel ten minste 1 m is.
 
-4. Een afscheiding als bedoeld in [artikel 3.15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.15&z=2026-07-01&g=2026-07-01), heeft een hoogte van ten minste 0,6 m, gemeten vanaf de voorkant van de tredevlakken of vanaf de vloer van de hellingbaan.
+4. Een afscheiding als bedoeld in [artikel 3.15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.15&z=2026-09-24&g=2026-09-24), heeft een hoogte van ten minste 0,6 m, gemeten vanaf de voorkant van de tredevlakken of vanaf de vloer van de hellingbaan.
 
 ##### Artikel 3.17. (openingen afscheiding)
 
-1. Een afscheiding als bedoeld in [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.15&z=2026-07-01&g=2026-07-01) heeft tot een hoogte van 0,6 m boven de vloer, een tredevlak of een vloer van een hellingbaan, geen openingen waardoor een bol kan passeren met een doorsnede groter dan de in [tabel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.14&z=2026-07-01&g=2026-07-01) aangegeven waarde.
+1. Een afscheiding als bedoeld in [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.15&z=2026-09-24&g=2026-09-24) heeft tot een hoogte van 0,6 m boven de vloer, een tredevlak of een vloer van een hellingbaan, geen openingen waardoor een bol kan passeren met een doorsnede groter dan de in [tabel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.14&z=2026-09-24&g=2026-09-24) aangegeven waarde.
 
-2. De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en een afscheiding als bedoeld in [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.15&z=2026-07-01&g=2026-07-01), is niet groter dan 0,1 m.
+2. De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en een afscheiding als bedoeld in [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.15&z=2026-09-24&g=2026-09-24), is niet groter dan 0,1 m.
 
 #### § 3.2.4. Veilig overbruggen van hoogteverschillen
 
@@ -875,7 +875,7 @@ Een bouwconstructie bezwijkt niet gedurende de in NEN 8700 bedoelde restlevensdu
 
 ##### Artikel 3.20. (afmetingen trap)
 
-Een trap als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.19&z=2026-07-01&g=2026-07-01) voldoet aan de in tabel 3.20 aangegeven afmetingen.
+Een trap als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.19&z=2026-09-24&g=2026-09-24) voldoet aan de in tabel 3.20 aangegeven afmetingen.
 
 | Minimum breedte van de trap | 0,7 m |
 | --- | --- |
@@ -886,19 +886,19 @@ Een trap als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 3.21. (trapbordes)
 
-Een trap als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.19&z=2026-07-01&g=2026-07-01) sluit bij de bovenste trede, over de breedte van de trap, aan op een vloer met een oppervlakte van ten minste 0,7 m x 0,7 m.
+Een trap als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.19&z=2026-09-24&g=2026-09-24) sluit bij de bovenste trede, over de breedte van de trap, aan op een vloer met een oppervlakte van ten minste 0,7 m x 0,7 m.
 
 ##### Artikel 3.22. (leuning)
 
-Een trap als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.19&z=2026-07-01&g=2026-07-01) waarvan de helling ter plaatse van de klimlijn groter is dan 2:3, heeft, voor zover een hoogteverschil is overbrugd van meer dan 1,5 m, aan ten minste een zijkant een leuning. De bovenkant van de leuning ligt, gemeten boven de voorkant van een tredevlak van de trap, op een hoogte van ten minste 0,6 m en ten hoogste 1 m.
+Een trap als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.19&z=2026-09-24&g=2026-09-24) waarvan de helling ter plaatse van de klimlijn groter is dan 2:3, heeft, voor zover een hoogteverschil is overbrugd van meer dan 1,5 m, aan ten minste een zijkant een leuning. De bovenkant van de leuning ligt, gemeten boven de voorkant van een tredevlak van de trap, op een hoogte van ten minste 0,6 m en ten hoogste 1 m.
 
 ##### Artikel 3.23. (afmetingen hellingbaan)
 
-Een hellingbaan als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.19&z=2026-07-01&g=2026-07-01) heeft een breedte van ten minste 0,7 m en een helling van ten hoogste 1:10.
+Een hellingbaan als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.19&z=2026-09-24&g=2026-09-24) heeft een breedte van ten minste 0,7 m en een helling van ten hoogste 1:10.
 
 ##### Artikel 3.24. (hellingbaanbordes)
 
-Een hellingbaan als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.19&z=2026-07-01&g=2026-07-01) sluit aan de bovenzijde, over de breedte van de hellingbaan, aan op een vloer met een oppervlakte van ten minste 0,7 m x 0,7 m.
+Een hellingbaan als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.19&z=2026-09-24&g=2026-09-24) sluit aan de bovenzijde, over de breedte van de hellingbaan, aan op een vloer met een oppervlakte van ten minste 0,7 m x 0,7 m.
 
 #### § 3.2.5. Beweegbare constructieonderdelen
 
@@ -981,7 +981,7 @@ Een hellingbaan als bedoeld in [artikel 3.19](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 3.31. (binnenoppervlak)
 
-1. Een zijde van een constructieonderdeel die grenst aan de binnenlucht heeft een volgens NEN 6065 bepaalde bijdrage tot brandvoortplanting, die voldoet aan de in [tabel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.30&z=2026-07-01&g=2026-07-01) aangegeven brandklasse en een rookproductie met een volgens NEN 6066 bepaalde rookdichtheid van ten hoogste 10 m-1.
+1. Een zijde van een constructieonderdeel die grenst aan de binnenlucht heeft een volgens NEN 6065 bepaalde bijdrage tot brandvoortplanting, die voldoet aan de in [tabel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.30&z=2026-09-24&g=2026-09-24) aangegeven brandklasse en een rookproductie met een volgens NEN 6066 bepaalde rookdichtheid van ten hoogste 10 m-1.
 
 2. In afwijking van het eerste lid heeft een zijde van een constructieonderdeel die grenst aan de binnenlucht in een besloten ruimte waardoor een beschermde route voert een rookproductie met een volgens NEN 6066 bepaalde rookdichtheid van ten hoogste 5,4 m-1.
 
@@ -999,7 +999,7 @@ aan brandklasse 4, bepaald volgens NEN 6065.
 
 ##### Artikel 3.32. (buitenoppervlak)
 
-1. Een zijde van een constructieonderdeel die grenst aan de buitenlucht heeft een volgens NEN 6065 bepaalde bijdrage tot brandvoortplanting, die voldoet aan de in [tabel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.30&z=2026-07-01&g=2026-07-01) aangegeven brandklasse.
+1. Een zijde van een constructieonderdeel die grenst aan de buitenlucht heeft een volgens NEN 6065 bepaalde bijdrage tot brandvoortplanting, die voldoet aan de in [tabel 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.30&z=2026-09-24&g=2026-09-24) aangegeven brandklasse.
 
 2. In afwijking van het eerste lid hebben een deur, een raam, een kozijn of een daaraan gelijk te stellen constructieonderdeel een volgens NEN 6065 bepaalde bijdrage tot brandvoortplanting die voldoet aan brandklasse 4.
 
@@ -1007,21 +1007,21 @@ aan brandklasse 4, bepaald volgens NEN 6065.
 
 ##### Artikel 3.33. (beloopbaar vlak)
 
-1. In afwijking van [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.31&z=2026-07-01&g=2026-07-01) geldt voor de bovenzijde van een vloer, een trap of een hellingbaan die grenst aan de binnenlucht een volgens NEN 1775 bepaalde bijdrage tot brandvoortplanting van klasse T3 en een rookproductie met een volgens NEN 6066 bepaalde rookdichtheid van ten hoogste 10 m-1.
+1. In afwijking van [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.31&z=2026-09-24&g=2026-09-24) geldt voor de bovenzijde van een vloer, een trap of een hellingbaan die grenst aan de binnenlucht een volgens NEN 1775 bepaalde bijdrage tot brandvoortplanting van klasse T3 en een rookproductie met een volgens NEN 6066 bepaalde rookdichtheid van ten hoogste 10 m-1.
 
-2. In afwijking van [artikel 3.32](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.32&z=2026-07-01&g=2026-07-01) geldt voor de bovenzijde van een vloer, een trap of een hellingbaan die grenst aan de buitenlucht een volgens NEN 1775 bepaalde bijdrage tot brandvoortplanting van klasse T3.
+2. In afwijking van [artikel 3.32](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.32&z=2026-09-24&g=2026-09-24) geldt voor de bovenzijde van een vloer, een trap of een hellingbaan die grenst aan de buitenlucht een volgens NEN 1775 bepaalde bijdrage tot brandvoortplanting van klasse T3.
 
 3. In afwijking van het eerste en tweede lid geldt voor de bovenzijde van een vloer, een trap of een hellingbaan waarover een extra beschermde vluchtroute voert een volgens NEN 1775 bepaalde bijdrage tot brandvoortplanting van klasse T1.
 
 ##### Artikel 3.34. (vrijgestelde oppervlakte)
 
-1. Op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke ruimte, waarvoor volgens de [artikelen 3.31 tot en met 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.31&z=2026-07-01&g=2026-07-01) een eis geldt, is die eis niet van toepassing.
+1. Op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke ruimte, waarvoor volgens de [artikelen 3.31 tot en met 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.31&z=2026-09-24&g=2026-09-24) een eis geldt, is die eis niet van toepassing.
 
-2. Voor bouwwerken geen gebouw zijnde is op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen, waarvoor volgens de [artikelen 3.31 tot en met 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.31&z=2026-07-01&g=2026-07-01) een eis geldt, die eis niet van toepassing.
+2. Voor bouwwerken geen gebouw zijnde is op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen, waarvoor volgens de [artikelen 3.31 tot en met 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.31&z=2026-09-24&g=2026-09-24) een eis geldt, die eis niet van toepassing.
 
 ##### Artikel 3.35. (toepassing Euroklassen)
 
-Bij toepassing van de [artikelen 3.31 tot en met 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.31&z=2026-07-01&g=2026-07-01) kan in plaats van:
+Bij toepassing van de [artikelen 3.31 tot en met 3.33](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.31&z=2026-09-24&g=2026-09-24) kan in plaats van:
 
 - a. brandklasse 1, bepaald volgens NEN 6065, worden uitgegaan van brandklasse B, bepaald volgens NEN-EN 13501-1;
 
@@ -1103,7 +1103,7 @@ Bij toepassing van de [artikelen 3.31 tot en met 3.33](https://wetten.overheid.n
 
 ##### Artikel 3.38. (brandcompartiment: omvang)
 
-1. Een brandcompartiment heeft een gebruiksoppervlakte die niet groter is dan de in [tabel 3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&artikel=3.36&z=2026-07-01&g=2026-07-01) aangegeven oppervlakte.
+1. Een brandcompartiment heeft een gebruiksoppervlakte die niet groter is dan de in [tabel 3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&artikel=3.36&z=2026-09-24&g=2026-09-24) aangegeven oppervlakte.
 
 2. In een brandcompartiment liggen ten hoogste vier woonwagens en nevengebruiksfuncties daarvan met een totale gebruiksoppervlakte van niet meer dan 1.000 m2.
 
@@ -1121,7 +1121,7 @@ Bij toepassing van de [artikelen 3.31 tot en met 3.33](https://wetten.overheid.n
 
 ##### Artikel 3.39. (opvangcompartiment)
 
-1. In afwijking van [artikel 3.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&artikel=3.38&z=2026-07-01&g=2026-07-01), is de gebruiksoppervlakte van een brandcompartiment met een of meer celeenheden ten hoogste 1.000 m2 en niet groter dan 77% van de gebruiksoppervlakte van het gebouw.
+1. In afwijking van [artikel 3.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&artikel=3.38&z=2026-09-24&g=2026-09-24), is de gebruiksoppervlakte van een brandcompartiment met een of meer celeenheden ten hoogste 1.000 m2 en niet groter dan 77% van de gebruiksoppervlakte van het gebouw.
 
 2. Een brandcompartiment met bedgebied voor bedgebonden patiënten is niet groter dan 77% van de gebruiksoppervlakte van de bouwlaag waarop dit brandcompartiment ligt.
 
@@ -1133,7 +1133,7 @@ Bij toepassing van de [artikelen 3.31 tot en met 3.33](https://wetten.overheid.n
 
 ##### Artikel 3.41. (weerstand tegen branddoorslag en brandoverslag: bepalingsmethode)
 
-1. De in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&artikel=3.40&z=2026-07-01&g=2026-07-01) bedoelde weerstand tegen branddoorslag en brandoverslag wordt bepaald volgens NEN 6068.
+1. De in [artikel 3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&artikel=3.40&z=2026-09-24&g=2026-09-24) bedoelde weerstand tegen branddoorslag en brandoverslag wordt bepaald volgens NEN 6068.
 
 2. Bij het bepalen van de weerstand tegen branddoorslag en brandoverslag van een brandcompartiment naar een ruimte van een op een aangrenzend bouwwerkperceel gelegen gebouw wordt voor het op het andere bouwwerkperceel gelegen gebouw uitgegaan van een identiek maar spiegelsymmetrisch ten opzichte van de perceelsgrens gelegen gebouw. Als het bouwwerkperceel grenst aan:
 
@@ -1151,7 +1151,7 @@ vindt deze spiegeling plaats ten opzichte van het hart van die weg, dat water, d
 
 ##### Artikel 3.42. (aansturingsartikel)
 
-1. Een bouwwerk is zodanig dat uitbreiding van brand en verspreiding van rook in verdergaande mate wordt beperkt dan bepaald in [paragraaf 3.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&z=2026-07-01&g=2026-07-01) zodat veilig kan worden gevlucht.
+1. Een bouwwerk is zodanig dat uitbreiding van brand en verspreiding van rook in verdergaande mate wordt beperkt dan bepaald in [paragraaf 3.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&z=2026-09-24&g=2026-09-24) zodat veilig kan worden gevlucht.
 
 2. Als voor een gebruiksfunctie in tabel 3.42 regels zijn aangewezen, wordt voor die gebruiksfunctie aan het eerste lid voldaan door naleving van die regels.
 
@@ -1189,9 +1189,9 @@ vindt deze spiegeling plaats ten opzichte van het hart van die weg, dat water, d
 
 3. In afwijking van het eerste lid kan een verblijfsgebied voor bewaking buiten een subbrandcompartiment liggen als:
 
-- a. constructieonderdelen in dat gebied voldoen aan de eisen die [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.31&z=2026-07-01&g=2026-07-01) stelt aan constructieonderdelen die grenzen aan de binnenlucht in een ruimte waardoor een beschermde route voert; en
+- a. constructieonderdelen in dat gebied voldoen aan de eisen die [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&artikel=3.31&z=2026-09-24&g=2026-09-24) stelt aan constructieonderdelen die grenzen aan de binnenlucht in een ruimte waardoor een beschermde route voert; en
 
-- b. aankleding in dat gebied voldoet aan de eisen die [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.14&z=2026-07-01&g=2026-07-01) stelt aan aankleding in een ruimte waardoor een beschermde route voert.
+- b. aankleding in dat gebied voldoet aan de eisen die [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.14&z=2026-09-24&g=2026-09-24) stelt aan aankleding in een ruimte waardoor een beschermde route voert.
 
 ##### Artikel 3.44. (beschermd subbrandcompartiment: ligging)
 
@@ -1205,7 +1205,7 @@ vindt deze spiegeling plaats ten opzichte van het hart van die weg, dat water, d
 
 ##### Artikel 3.45. (beschermd subbrandcompartiment: omvang)
 
-1. Een beschermd subbrandcompartiment heeft een gebruiksoppervlakte van ten hoogste de in [tabel 3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.9&artikel=3.42&z=2026-07-01&g=2026-07-01) aangegeven oppervlakte.
+1. Een beschermd subbrandcompartiment heeft een gebruiksoppervlakte van ten hoogste de in [tabel 3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.9&artikel=3.42&z=2026-09-24&g=2026-09-24) aangegeven oppervlakte.
 
 2. In afwijking van het eerste lid heeft een beschermd subbrandcompartiment met alleen gezamenlijke ruimten een gebruiksoppervlakte van ten hoogste 1.000 m2.
 
@@ -1225,7 +1225,7 @@ De volgens NEN 6075 bepaalde weerstand tegen rookdoorgang van een subbrandcompar
 
 ##### Artikel 3.47. (beschermd subbrandcompartiment: weerstand tegen branddoorslag en brandoverslag)
 
-1. De volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag van een beschermd subbrandcompartiment als bedoeld in [artikel 3.44](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.9&artikel=3.44&z=2026-07-01&g=2026-07-01) naar een andere ruimte in het brandcompartiment is ten minste 20 minuten.
+1. De volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag van een beschermd subbrandcompartiment als bedoeld in [artikel 3.44](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.9&artikel=3.44&z=2026-09-24&g=2026-09-24) naar een andere ruimte in het brandcompartiment is ten minste 20 minuten.
 
 2. Bij het bepalen van de weerstand tegen branddoorslag en brandoverslag, bedoeld in het eerste lid, blijft onder een deur een oppervlak van niet meer dan 0,02 m2 bij een hoogte van niet meer dan 0,05 m, gemeten vanaf de vloer, buiten beschouwing.
 
@@ -1270,7 +1270,7 @@ De volgens NEN 6075 bepaalde weerstand tegen rookdoorgang van een subbrandcompar
 
 ##### Artikel 3.50. (vluchten naar de uitgang van een subbrandcompartiment)
 
-1. De loopafstand tussen een punt in een gebruiksgebied en een uitgang van het subbrandcompartiment waarin dat gebruiksgebied ligt, is niet groter dan de in [tabel 3.48](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.48&z=2026-07-01&g=2026-07-01) aangegeven afstand.
+1. De loopafstand tussen een punt in een gebruiksgebied en een uitgang van het subbrandcompartiment waarin dat gebruiksgebied ligt, is niet groter dan de in [tabel 3.48](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.48&z=2026-09-24&g=2026-09-24) aangegeven afstand.
 
 2. De loopafstand tussen een punt op een rijbaanvloer en een uitgang van het subbrandcompartiment is ten hoogste 150 m. De afstand tussen twee uitgangen is ten hoogste 250 m, gemeten langs de tunnelwand.
 
@@ -1298,7 +1298,7 @@ De volgens NEN 6075 bepaalde weerstand tegen rookdoorgang van een subbrandcompar
 
 ##### Artikel 3.54. (tweede vluchtroute)
 
-1. Als op een vluchtroute een tweede vluchtroute begint, zijn de [artikelen 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.51&z=2026-07-01&g=2026-07-01), [3.52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.52&z=2026-07-01&g=2026-07-01), en [3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.53&z=2026-07-01&g=2026-07-01) niet van toepassing vanaf het punt dat de twee vluchtroutes door verschillende ruimten voeren.
+1. Als op een vluchtroute een tweede vluchtroute begint, zijn de [artikelen 3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.51&z=2026-09-24&g=2026-09-24), [3.52, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.52&z=2026-09-24&g=2026-09-24), en [3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.53&z=2026-09-24&g=2026-09-24) niet van toepassing vanaf het punt dat de twee vluchtroutes door verschillende ruimten voeren.
 
 2. In afwijking van het eerste lid kunnen de twee vluchtroutes vanaf de uitgang van het subbrandcompartiment waarin de eerste vluchtroute begint door dezelfde ruimte voeren als:
 
@@ -1347,7 +1347,7 @@ De volgens NEN 6075 bepaalde weerstand tegen rookdoorgang tussen een besloten ru
 
 ##### Artikel 3.57. (inrichting vluchtroute: weerstand tegen branddoorslag en brandoverslag)
 
-Tussen de verschillende ruimten, bedoeld in [artikel 3.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.54&z=2026-07-01&g=2026-07-01), is een volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag van ten minste 20 minuten.
+Tussen de verschillende ruimten, bedoeld in [artikel 3.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.54&z=2026-09-24&g=2026-09-24), is een volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag van ten minste 20 minuten.
 
 ##### Artikel 3.58. (inrichting vluchtroute: permanente vuurlast)
 
@@ -1355,9 +1355,9 @@ Het product van de volgens NEN 6090 bepaalde permanente vuurlast en de netto-vlo
 
 ##### Artikel 3.59. (inrichting vluchtroute: vrije doorgang)
 
-1. Een ruimte waardoor een vluchtroute voert heeft een vrije doorgang met ten minste de in [tabel 3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.11&artikel=3.55&z=2026-07-01&g=2026-07-01) aangegeven breedte en hoogte.
+1. Een ruimte waardoor een vluchtroute voert heeft een vrije doorgang met ten minste de in [tabel 3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.11&artikel=3.55&z=2026-09-24&g=2026-09-24) aangegeven breedte en hoogte.
 
-2. Een ruimte waardoor een vluchtroute voert vanuit een bedgebied voor bedgebonden patiënten naar een ander brandcompartiment als bedoeld in [artikel 3.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&artikel=3.39&z=2026-07-01&g=2026-07-01), heeft een vrije doorgang waardoor een blok met een lengte van 2,3 m, een hoogte van 1,2 m en een breedte van 1,1 m horizontaal kan worden voortbewogen. Deze vluchtroute voert niet over een trap of door een liftkooi.
+2. Een ruimte waardoor een vluchtroute voert vanuit een bedgebied voor bedgebonden patiënten naar een ander brandcompartiment als bedoeld in [artikel 3.39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.8&artikel=3.39&z=2026-09-24&g=2026-09-24), heeft een vrije doorgang waardoor een blok met een lengte van 2,3 m, een hoogte van 1,2 m en een breedte van 1,1 m horizontaal kan worden voortbewogen. Deze vluchtroute voert niet over een trap of door een liftkooi.
 
 ##### Artikel 3.60. (inrichting vluchtroute: niet-besloten ruimte)
 
@@ -1456,7 +1456,7 @@ Een scheidingsconstructie van een badruimte heeft aan een zijde die grenst aan d
 
 1. Een verblijfsruimte heeft een voorziening voor luchtverversing met een volgens NEN 8087 bepaalde capaciteit van ten minste 0,7 dm3/s per m2 vloeroppervlakte, met een minimum van 7 dm3/s.
 
-2. Een verblijfsruimte heeft een voorziening voor luchtverversing met een volgens NEN 8087 bepaalde capaciteit van ten minste de in [tabel 3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.66&z=2026-07-01&g=2026-07-01) aangegeven capaciteit per persoon.
+2. Een verblijfsruimte heeft een voorziening voor luchtverversing met een volgens NEN 8087 bepaalde capaciteit van ten minste de in [tabel 3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.66&z=2026-09-24&g=2026-09-24) aangegeven capaciteit per persoon.
 
 3. Onverminderd het eerste en tweede lid heeft een verblijfsruimte met een opstelplaats voor een kooktoestel of met een opstelplaats voor een open verbrandingstoestel voor warmwater een voorziening voor luchtverversing met een volgens NEN 8087 bepaalde capaciteit van ten minste 21 dm³/s. Een opstelplaats voor een kooktoestel of een warmwatertoestel met een nominale belasting van meer dan 15 kW, of voor een warmwatertoestel dat geen open verbrandingstoestel is, blijft hierbij buiten beschouwing.
 
@@ -1541,7 +1541,7 @@ Bij een voorziening voor mechanische ventilatie van een stallingruimte voor moto
 
 2. Het eerste lid is niet van toepassing op een gemeenschappelijke verblijfsruimte.
 
-3. De in het eerste lid bedoelde capaciteit kan worden gerealiseerd met de in [artikel 3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.67&z=2026-07-01&g=2026-07-01) bedoelde voorziening voor luchtverversing.
+3. De in het eerste lid bedoelde capaciteit kan worden gerealiseerd met de in [artikel 3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.67&z=2026-09-24&g=2026-09-24) bedoelde voorziening voor luchtverversing.
 
 #### § 3.3.4. Afvoer van rookgas en toevoer van verbrandingslucht
 
@@ -1656,7 +1656,7 @@ Het inwendig oppervlak van een overdrukvoorziening voor de afvoer van rookgas he
 
 ##### Artikel 3.82. (daglichtoppervlakte)
 
-1. Een verblijfsruimte heeft een volgens NEN 2057 bepaalde equivalente daglichtoppervlakte die niet kleiner is dan de in [tabel 3.81](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.81&z=2026-07-01&g=2026-07-01) aangegeven oppervlakte.
+1. Een verblijfsruimte heeft een volgens NEN 2057 bepaalde equivalente daglichtoppervlakte die niet kleiner is dan de in [tabel 3.81](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&artikel=3.81&z=2026-09-24&g=2026-09-24) aangegeven oppervlakte.
 
 2. Bij het bepalen van het equivalente daglichtoppervlakte:
 
@@ -1676,7 +1676,7 @@ Het inwendig oppervlak van een overdrukvoorziening voor de afvoer van rookgas he
 
 7. Het eerste lid geldt niet voor een verblijfsruimte met een vloeroppervlakte van meer dan 150 m2.
 
-8. Als de op grond van het eerste tot en met zevende lid vereiste equivalente daglichtoppervlakte groter is dan de met toepassing van [artikel 4.147](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.10&artikel=4.147&z=2026-07-01&g=2026-07-01) vastgestelde ten minste aan te houden equivalente daglichtoppervlakte, kan in plaats van het eerste tot en met de zevende lid artikel 4.147 worden toegepast.
+8. Als de op grond van het eerste tot en met zevende lid vereiste equivalente daglichtoppervlakte groter is dan de met toepassing van [artikel 4.147](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.10&artikel=4.147&z=2026-09-24&g=2026-09-24) vastgestelde ten minste aan te houden equivalente daglichtoppervlakte, kan in plaats van het eerste tot en met de zevende lid artikel 4.147 worden toegepast.
 
 #### Afdeling 3.4. Duurzaamheid
 
@@ -1716,7 +1716,7 @@ Het inwendig oppervlak van een overdrukvoorziening voor de afvoer van rookgas he
 
 - a. het energiegebruik van de gebruiksfunctie in enig kalenderjaar kleiner is dan 50.000 kWh aan elektriciteit en 25.000 m3 aardgasequivalenten;
 
-- b. [artikel 6.28, aanhef en onder e, f, of h](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.28&z=2026-07-01&g=2026-07-01), van dit besluit van toepassing is; of
+- b. [artikel 6.28, aanhef en onder e, f, of h](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.28&z=2026-09-24&g=2026-09-24), van dit besluit van toepassing is; of
 
 - c. voor de gebruiksfunctie alleen gebruik wordt gemaakt van hernieuwbare energie die wordt opgewekt op of aan de gebruiksfunctie, of deze hernieuwbare energie met overeenkomstige toepassing van NTA 8800 is toe te rekenen aan de gebruiksfunctie.
 
@@ -1734,19 +1734,19 @@ Het inwendig oppervlak van een overdrukvoorziening voor de afvoer van rookgas he
 
 1. Uiterlijk op 1 december 2023 en daarna eenmaal per vier jaar worden aan het bevoegd gezag de volgende gegevens en bescheiden verstrekt:
 
-- a. de adresgegevens van de gebruiksfunctie, bedoeld in [artikel 3.84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-07-01&g=2026-07-01);
+- a. de adresgegevens van de gebruiksfunctie, bedoeld in [artikel 3.84, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-09-24&g=2026-09-24);
 
-- b. de naam en het nummer van inschrijving in het handelsregister van degene die de activiteit, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.1&z=2026-07-01&g=2026-07-01), verricht, als diegene is ingeschreven bij het handelsregister;
+- b. de naam en het nummer van inschrijving in het handelsregister van degene die de activiteit, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.1&z=2026-09-24&g=2026-09-24), verricht, als diegene is ingeschreven bij het handelsregister;
 
-- c. de contactgegevens van degene die de activiteit, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.1&z=2026-07-01&g=2026-07-01), verricht;
+- c. de contactgegevens van degene die de activiteit, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.1&z=2026-09-24&g=2026-09-24), verricht;
 
-- d. een overzicht van de maatregelen ter verduurzaming van het energiegebruik, bedoeld in [artikel 3.84, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-07-01&g=2026-07-01), die zijn getroffen;
+- d. een overzicht van de maatregelen ter verduurzaming van het energiegebruik, bedoeld in [artikel 3.84, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-09-24&g=2026-09-24), die zijn getroffen;
 
-- e. een overzicht van de maatregelen ter verduurzaming van het energiegebruik, bedoeld in [artikel 3.84, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-07-01&g=2026-07-01), die niet van toepassing zijn omdat een of meer van de in de ministeriële regeling aangegeven randvoorwaarden niet van toepassing zijn;
+- e. een overzicht van de maatregelen ter verduurzaming van het energiegebruik, bedoeld in [artikel 3.84, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-09-24&g=2026-09-24), die niet van toepassing zijn omdat een of meer van de in de ministeriële regeling aangegeven randvoorwaarden niet van toepassing zijn;
 
-- f. als niet alle van toepassing zijnde maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 3.84, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-07-01&g=2026-07-01), zijn getroffen: een overzicht van de maatregelen ter verduurzaming van het energiegebruik met een terugverdientijd van ten hoogste vijf jaar die zijn getroffen; en
+- f. als niet alle van toepassing zijnde maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 3.84, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-09-24&g=2026-09-24), zijn getroffen: een overzicht van de maatregelen ter verduurzaming van het energiegebruik met een terugverdientijd van ten hoogste vijf jaar die zijn getroffen; en
 
-- g. het energiegebruik van de gebruiksfunctie, bedoeld in [artikel 3.84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-07-01&g=2026-07-01), uitgedrukt in kilowattuur elektriciteit en kubieke meters aardgasequivalent en gemeten over enig kalenderjaar.
+- g. het energiegebruik van de gebruiksfunctie, bedoeld in [artikel 3.84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-09-24&g=2026-09-24), uitgedrukt in kilowattuur elektriciteit en kubieke meters aardgasequivalent en gemeten over enig kalenderjaar.
 
 2. De gegevens en bescheiden worden verstrekt met gebruikmaking van een elektronische voorziening en een formulier die door Onze Minister voor Klimaat en Energie beschikbaar worden gesteld.
 
@@ -1760,11 +1760,11 @@ Als voor de inwerkingtreding van dit besluit gegevens en bescheiden zijn verstre
 
 ##### Artikel 3.86. (afbakening maatwerkvoorschriften maatregelen ter verduurzaming van het energiegebruik)
 
-Een maatwerkvoorschrift over [artikel 3.84](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-07-01&g=2026-07-01) kan alleen inhouden het toestaan van een gefaseerde uitvoering van de in artikel 3.84, eerste lid, bedoelde maatregelen.
+Een maatwerkvoorschrift over [artikel 3.84](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.84&z=2026-09-24&g=2026-09-24) kan alleen inhouden het toestaan van een gefaseerde uitvoering van de in artikel 3.84, eerste lid, bedoelde maatregelen.
 
 ##### Artikel 3.87. (labelverplichting kantoorgebouw)
 
-1. Het is verboden om een kantoorgebouw in gebruik te nemen of te gebruiken zonder een geldig energielabel als bedoeld in [artikel 6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.29&z=2026-07-01&g=2026-07-01) met een maximumwaarde voor primair fossiel energiegebruik van 225 kWh/m2.jr, bepaald volgens NTA 8800, of met een in een letter of lettercombinatie uitgedrukte weergave van de energieprestatie van C of beter, die daarin op grond van bij ministeriële regeling gestelde regels is omgezet.
+1. Het is verboden om een kantoorgebouw in gebruik te nemen of te gebruiken zonder een geldig energielabel als bedoeld in [artikel 6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.29&z=2026-09-24&g=2026-09-24) met een maximumwaarde voor primair fossiel energiegebruik van 225 kWh/m2.jr, bepaald volgens NTA 8800, of met een in een letter of lettercombinatie uitgedrukte weergave van de energieprestatie van C of beter, die daarin op grond van bij ministeriële regeling gestelde regels is omgezet.
 
 2. Het eerste lid is niet van toepassing op een kantoorgebouw met een gebruiksoppervlakte aan kantoorfuncties kleiner dan 50% van de totale gebruiksoppervlakte aan gebruiksfuncties van het gebouw waarvan het kantoorgebouw deel uitmaakt.
 
@@ -1790,7 +1790,7 @@ Een maatwerkvoorschrift over [artikel 3.84](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 3.87a. (uitzondering labelverplichting kantoorgebouw)
 
-[Artikel 3.87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.87&z=2026-07-01&g=2026-07-01), is niet van toepassing op een kantoorgebouw met een geldig energielabel als bedoeld in [artikel 2.1 van het Besluit energieprestatie gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023734&artikel=2.1) zoals dat gold op 31 december 2020, met een energie-index van 1,3 of beter.
+[Artikel 3.87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.1&artikel=3.87&z=2026-09-24&g=2026-09-24), is niet van toepassing op een kantoorgebouw met een geldig energielabel als bedoeld in [artikel 2.1 van het Besluit energieprestatie gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023734&artikel=2.1) zoals dat gold op 31 december 2020, met een energie-index van 1,3 of beter.
 
 #### § 3.4.2. Laadinfrastructuur voor elektrische voertuigen
 
@@ -1816,7 +1816,7 @@ Een maatwerkvoorschrift over [artikel 3.84](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 3.87c. (afbakening maatwerkvoorschriften laadpunt voor elektrische voertuigen)
 
-Een maatwerkvoorschrift over [artikel 3.87b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.87b&z=2026-07-01&g=2026-07-01) kan alleen inhouden dat een laadpunt geschikt moet zijn voor bi-directioneel laden.
+Een maatwerkvoorschrift over [artikel 3.87b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.4&paragraaf=3.4.2&artikel=3.87b&z=2026-09-24&g=2026-09-24) kan alleen inhouden dat een laadpunt geschikt moet zijn voor bi-directioneel laden.
 
 #### Afdeling 3.5. Bruikbaarheid
 
@@ -1852,7 +1852,7 @@ Een woonfunctie heeft een toiletruimte.
 
 ##### Artikel 3.93. (afmetingen toiletruimte)
 
-Een toiletruimte als bedoeld in [artikel 3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.92&z=2026-07-01&g=2026-07-01) heeft een vloeroppervlakte van ten minste 0,64 m2, met een breedte van ten minste 0,6 m en een hoogte boven de vloer van ten minste 2 m.
+Een toiletruimte als bedoeld in [artikel 3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.2&artikel=3.92&z=2026-09-24&g=2026-09-24) heeft een vloeroppervlakte van ten minste 0,64 m2, met een breedte van ten minste 0,6 m en een hoogte boven de vloer van ten minste 2 m.
 
 #### § 3.5.3. Opstelplaatsen
 
@@ -1878,9 +1878,9 @@ Een woonfunctie heeft een opstelplaats voor een aanrecht en een opstelplaats voo
 
 ##### Artikel 3.96. (afmetingen opstelplaats)
 
-1. Een opstelplaats voor een aanrecht als bedoeld in [artikel 3.95](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=3.95&z=2026-07-01&g=2026-07-01) heeft een vloeroppervlakte van ten minste 0,7 m x 0,4 m.
+1. Een opstelplaats voor een aanrecht als bedoeld in [artikel 3.95](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=3.95&z=2026-09-24&g=2026-09-24) heeft een vloeroppervlakte van ten minste 0,7 m x 0,4 m.
 
-2. Een opstelplaats voor een kooktoestel als bedoeld in [artikel 3.95](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=3.95&z=2026-07-01&g=2026-07-01) heeft een vloeroppervlakte van ten minste 0,4 m x 0,4 m.
+2. Een opstelplaats voor een kooktoestel als bedoeld in [artikel 3.95](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.3&artikel=3.95&z=2026-09-24&g=2026-09-24) heeft een vloeroppervlakte van ten minste 0,4 m x 0,4 m.
 
 #### Afdeling 3.6. Toegankelijkheid, bereikbaarheid vanaf de openbare weg
 
@@ -1966,9 +1966,9 @@ Een verhard pad waarover voor personen met een functiebeperking een route loopt 
 
 1. Een verblijfsruimte voor meer dan 75 personen en een besloten ruimte waardoor een vluchtroute uit die verblijfsruimte voert, hebben noodverlichting.
 
-2. Een onder het meetniveau gelegen functieruimte als bedoeld in [artikel 3.100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.100&z=2026-07-01&g=2026-07-01), heeft noodverlichting.
+2. Een onder het meetniveau gelegen functieruimte als bedoeld in [artikel 3.100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.100&z=2026-09-24&g=2026-09-24), heeft noodverlichting.
 
-3. Een besloten ruimte als bedoeld in [artikel 3.100, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.100&z=2026-07-01&g=2026-07-01), heeft noodverlichting.
+3. Een besloten ruimte als bedoeld in [artikel 3.100, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.100&z=2026-09-24&g=2026-09-24), heeft noodverlichting.
 
 4. Een wegtunnelbuis heeft noodverlichting.
 
@@ -1976,7 +1976,7 @@ Een verhard pad waarover voor personen met een functiebeperking een route loopt 
 
 ##### Artikel 3.102. (aansluiting op voorziening voor elektriciteit)
 
-Een verlichtingsinstallatie als bedoeld in de [artikelen 3.100](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.100&z=2026-07-01&g=2026-07-01) en [3.101](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.101&z=2026-07-01&g=2026-07-01) is aangesloten op een voorziening voor elektriciteit.
+Een verlichtingsinstallatie als bedoeld in de [artikelen 3.100](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.100&z=2026-09-24&g=2026-09-24) en [3.101](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.101&z=2026-09-24&g=2026-09-24) is aangesloten op een voorziening voor elektriciteit.
 
 ##### Artikel 3.103. (verduisterde ruimte)
 
@@ -1984,7 +1984,7 @@ Een ruimte bestemd om te worden verduisterd tijdens het gebruik door meer dan 50
 
 ##### Artikel 3.104. (overgangsrecht: noodverlichting)
 
-Zolang de indeling van een bouwwerk of een gedeelte daarvan niet verandert en het aantal personen in dat bouwwerk of gedeelte niet groter is dan het onmiddellijk voorafgaand aan 1 april 2012 voor dat bouwwerk toegestane aantal personen, blijft op dat bouwwerk of gedeelte [artikel 3.101](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.101&z=2026-07-01&g=2026-07-01) buiten toepassing als dat bouwwerk of dat gedeelte daarvan voldoet aan de [artikelen 2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&artikel=2.66) en [2.67 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&artikel=2.67) zoals dit luidde onmiddellijk voorafgaande aan 1 april 2012.
+Zolang de indeling van een bouwwerk of een gedeelte daarvan niet verandert en het aantal personen in dat bouwwerk of gedeelte niet groter is dan het onmiddellijk voorafgaand aan 1 april 2012 voor dat bouwwerk toegestane aantal personen, blijft op dat bouwwerk of gedeelte [artikel 3.101](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.101&z=2026-09-24&g=2026-09-24) buiten toepassing als dat bouwwerk of dat gedeelte daarvan voldoet aan de [artikelen 2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&artikel=2.66) en [2.67 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&artikel=2.67) zoals dit luidde onmiddellijk voorafgaande aan 1 april 2012.
 
 #### § 3.7.2. Voorziening voor het afnemen en gebruiken van energie
 
@@ -2110,7 +2110,7 @@ Een binnen een bouwwerk gelegen voorziening voor de opvang en afvoer van hemelwa
 
 ##### Artikel 3.115. (brandmeldinstallatie)
 
-1. Een gebruiksfunctie heeft een brandmeldinstallatie als bedoeld in NEN 2535 met een omvang van de bewaking en een doormelding zoals aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-07-01&g=2026-07-01), als:
+1. Een gebruiksfunctie heeft een brandmeldinstallatie als bedoeld in NEN 2535 met een omvang van de bewaking en een doormelding zoals aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-09-24&g=2026-09-24), als:
 
 - a. de gebruiksoppervlakte van de gebruiksfunctie of de totale gebruiksoppervlakte aan gebruiksfuncties van dezelfde soort in het gebouw voor zover die gebruiksfuncties op eenzelfde vluchtroute zijn aangewezen groter is dan de in die bijlage genoemde waarde;
 
@@ -2128,17 +2128,17 @@ Een binnen een bouwwerk gelegen voorziening voor de opvang en afvoer van hemelwa
 
 - c. het aantal op de enkele vluchtroute aangewezen verblijfsruimten meer dan twee is.
 
-4. Het eerste lid, onder b, is niet van toepassing als boven de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-07-01&g=2026-07-01) bedoelde hoogste vloer niet meer dan zes opstelplaatsen voor bedden voor kinderen zijn.
+4. Het eerste lid, onder b, is niet van toepassing als boven de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-09-24&g=2026-09-24) bedoelde hoogste vloer niet meer dan zes opstelplaatsen voor bedden voor kinderen zijn.
 
 ##### Artikel 3.116. (melding en doormelding)
 
-1. Een in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-07-01&g=2026-07-01) bedoelde brandmeldinstallatie meldt rechtstreeks:
+1. Een in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-09-24&g=2026-09-24) bedoelde brandmeldinstallatie meldt rechtstreeks:
 
 - a. naar een zorgcentrale bij zorg op afroep; en
 
 - b. naar een zusterpost bij 24-uurszorg.
 
-2. Een doormelding als bedoeld in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-07-01&g=2026-07-01) vindt rechtstreeks plaats naar de regionale alarmcentrale van de brandweer.
+2. Een doormelding als bedoeld in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-09-24&g=2026-09-24) vindt rechtstreeks plaats naar de regionale alarmcentrale van de brandweer.
 
 ##### Artikel 3.117. (rookmelders)
 
@@ -2150,7 +2150,7 @@ Een binnen een bouwwerk gelegen voorziening voor de opvang en afvoer van hemelwa
 
 4. Een verblijfsruimte en een besloten ruimte waardoor een vluchtroute voert tussen de uitgang van een verblijfsruimte en de uitgang van het gebouw hebben een of meer rookmelders die voldoen aan de primaire inrichtingseisen, bedoeld in NEN 2555.
 
-5. Het eerste, tweede, derde en vierde lid zijn niet van toepassing op een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-07-01&g=2026-07-01).
+5. Het eerste, tweede, derde en vierde lid zijn niet van toepassing op een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-09-24&g=2026-09-24).
 
 6. In aanvulling op het vierde lid is het in de primaire inrichtingseisen bedoelde alarmeringssignaal permanent waarneembaar door de voor de 24-uursbewaking van de logiesfunctie verantwoordelijke functionaris of vindt rechtstreekse doormelding plaats naar die functionaris.
 
@@ -2196,7 +2196,7 @@ Een binnen een bouwwerk gelegen voorziening voor de opvang en afvoer van hemelwa
 
 ##### Artikel 3.119. (ontruimingsalarminstallatie)
 
-1. Een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 3.115, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-07-01&g=2026-07-01), heeft een ontruimingsalarminstallatie als bedoeld in NEN 2575.
+1. Een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 3.115, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-09-24&g=2026-09-24), heeft een ontruimingsalarminstallatie als bedoeld in NEN 2575.
 
 2. Het ontruimingssignaal van een in het eerste lid bedoelde ontruimingsalarminstallatie wordt bij het activeren van de automatische melder of handbrandmelder onmiddellijk en in het gehele gebouw in werking gesteld.
 
@@ -2206,7 +2206,7 @@ Een binnen een bouwwerk gelegen voorziening voor de opvang en afvoer van hemelwa
 
 1. Een ruimte waardoor een verkeersroute voert en een ruimte voor meer dan 50 personen hebben een vluchtrouteaanduiding die voldoet aan NEN 6088 en aan de zichtbaarheidseisen, bedoeld in de artikelen 5.2 tot en met 5.6 van NEN-EN 1838.
 
-2. Een wegtunnel heeft een vluchtrouteaanduiding die voldoet aan NEN 6088 en aan de zichtbaarheidseisen, bedoeld in de artikelen 5.2 tot en met 5.6, van NEN-EN 1838. De vluchtrouteaanduiding is niet hoger dan 1,5 m boven de vloer aangebracht en de afstand tussen twee vluchtrouteaanduidingen is niet meer dan 25 m, gemeten langs de tunnelwand. Bij de vluchtrouteaanduiding is goed zichtbaar aangegeven de loopafstand in twee richtingen tot het einde van de tunnelbuis of, als die loopafstand korter is, de loopafstand tot de meest nabije toegang tot een beschermde route als bedoeld in [artikel 3.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.51&z=2026-07-01&g=2026-07-01).
+2. Een wegtunnel heeft een vluchtrouteaanduiding die voldoet aan NEN 6088 en aan de zichtbaarheidseisen, bedoeld in de artikelen 5.2 tot en met 5.6, van NEN-EN 1838. De vluchtrouteaanduiding is niet hoger dan 1,5 m boven de vloer aangebracht en de afstand tussen twee vluchtrouteaanduidingen is niet meer dan 25 m, gemeten langs de tunnelwand. Bij de vluchtrouteaanduiding is goed zichtbaar aangegeven de loopafstand in twee richtingen tot het einde van de tunnelbuis of, als die loopafstand korter is, de loopafstand tot de meest nabije toegang tot een beschermde route als bedoeld in [artikel 3.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.51&z=2026-09-24&g=2026-09-24).
 
 3. Een vluchtrouteaanduiding als bedoeld in het eerste en tweede lid:
 
@@ -2214,9 +2214,9 @@ Een binnen een bouwwerk gelegen voorziening voor de opvang en afvoer van hemelwa
 
 - b. voldoet binnen 15 seconden na het uitvallen van de voorziening voor elektriciteit, gedurende een periode van ten minste 60 minuten, aan de in het eerste of tweede lid bedoelde zichtbaarheidseisen.
 
-4. Op een vluchtrouteaanduiding als bedoeld in het eerste lid gelegen op een vluchtroute vanuit een ruimte met een verlichtingsinstallatie die geen noodverlichting is als bedoeld in [artikel 3.101](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.101&z=2026-07-01&g=2026-07-01), zijn bij het uitvallen van de voorziening voor elektriciteit de in het eerste lid bedoelde zichtbaarheidseisen niet van toepassing.
+4. Op een vluchtrouteaanduiding als bedoeld in het eerste lid gelegen op een vluchtroute vanuit een ruimte met een verlichtingsinstallatie die geen noodverlichting is als bedoeld in [artikel 3.101](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.101&z=2026-09-24&g=2026-09-24), zijn bij het uitvallen van de voorziening voor elektriciteit de in het eerste lid bedoelde zichtbaarheidseisen niet van toepassing.
 
-5. Een deur in een tunnel die toegang geeft tot een beschermde route als bedoeld in [artikel 3.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.51&z=2026-07-01&g=2026-07-01), is uitgevoerd in de kleur groen, RAL 6024.
+5. Een deur in een tunnel die toegang geeft tot een beschermde route als bedoeld in [artikel 3.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.10&artikel=3.51&z=2026-09-24&g=2026-09-24), is uitgevoerd in de kleur groen, RAL 6024.
 
 ##### Artikel 3.121. (deuren in vluchtroutes: draairichting)
 
@@ -2293,7 +2293,7 @@ Een binnen een bouwwerk gelegen voorziening voor de opvang en afvoer van hemelwa
 
 1. Een gebruiksfunctie met een vloer van een verblijfsgebied hoger gelegen dan 20 m boven het meetniveau heeft een droge blusleiding.
 
-2. Een wegtunnelbuis heeft een op een in [artikel 3.126](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.7&artikel=3.126&z=2026-07-01&g=2026-07-01) bedoelde bluswatervoorziening aangesloten droge blusleiding met in een hulppost als bedoeld in [artikel 3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.12&artikel=3.62&z=2026-07-01&g=2026-07-01) een brandslangaansluiting die bij brand een capaciteit van ten minste 120 m3/h kan leveren.
+2. Een wegtunnelbuis heeft een op een in [artikel 3.126](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.7&artikel=3.126&z=2026-09-24&g=2026-09-24) bedoelde bluswatervoorziening aangesloten droge blusleiding met in een hulppost als bedoeld in [artikel 3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.12&artikel=3.62&z=2026-09-24&g=2026-09-24) een brandslangaansluiting die bij brand een capaciteit van ten minste 120 m3/h kan leveren.
 
 3. De loopafstand tussen een brandslangaansluiting van een in het eerste lid bedoelde droge blusleiding en een punt in een op die aansluiting aangewezen gebruiksgebied is niet groter dan 110 m.
 
@@ -2315,9 +2315,9 @@ Een wegtunnel heeft een bluswatervoorziening die bij brand gedurende ten minste 
 
 ##### Artikel 3.127. (blustoestellen)
 
-1. Een woonfunctie voor kamergewijze verhuur heeft een draagbaar blustoestel in een gezamenlijke keuken en ten minste een per bouwlaag in een ruimte waardoor een gezamenlijke vluchtroute voert. Dit is niet van toepassing op de aanwezigheid van brandslanghaspels als bedoeld in [artikel 6.35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.1&artikel=6.35&z=2026-07-01&g=2026-07-01).
+1. Een woonfunctie voor kamergewijze verhuur heeft een draagbaar blustoestel in een gezamenlijke keuken en ten minste een per bouwlaag in een ruimte waardoor een gezamenlijke vluchtroute voert. Dit is niet van toepassing op de aanwezigheid van brandslanghaspels als bedoeld in [artikel 6.35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.1&artikel=6.35&z=2026-09-24&g=2026-09-24).
 
-2. Een hulppost als bedoeld in [artikel 3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.12&artikel=3.62&z=2026-07-01&g=2026-07-01) heeft een draagbaar brandblusapparaat.
+2. Een hulppost als bedoeld in [artikel 3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.12&artikel=3.62&z=2026-09-24&g=2026-09-24) heeft een draagbaar brandblusapparaat.
 
 3. Een blustoestel als bedoeld in het eerste en tweede lid is duidelijk zichtbaar opgehangen of gemarkeerd met een pictogram als bedoeld in NEN 3011.
 
@@ -2359,7 +2359,7 @@ Een wegtunnel heeft een bluswatervoorziening die bij brand gedurende ten minste 
 
 ##### Artikel 3.130. (afbakening maatwerkvoorschriften brandweeringang)
 
-Een maatwerkvoorschrift over [artikel 3.129](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.8&artikel=3.129&z=2026-07-01&g=2026-07-01) kan alleen inhouden:
+Een maatwerkvoorschrift over [artikel 3.129](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.8&artikel=3.129&z=2026-09-24&g=2026-09-24) kan alleen inhouden:
 
 - a. dat een bouwwerk geen brandweeringang hoeft te hebben als de aard, de ligging of het gebruik van het bouwwerk dat naar het oordeel van het bevoegd gezag niet vereist; of
 
@@ -2373,7 +2373,7 @@ Een maatwerkvoorschrift over [artikel 3.129](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 3.132. (afbakening maatwerkvoorschriften mobiele radiocommunicatie hulpverleningsdiensten)
 
-Met een maatwerkvoorschrift over [artikel 3.131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.8&artikel=3.131&z=2026-07-01&g=2026-07-01), kan alleen nadere invulling worden gegeven aan de maatregelen voor binnenhuisdekking.
+Met een maatwerkvoorschrift over [artikel 3.131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.8&artikel=3.131&z=2026-09-24&g=2026-09-24), kan alleen nadere invulling worden gegeven aan de maatregelen voor binnenhuisdekking.
 
 #### § 3.7.9. Aanvullende regels tunnelveiligheid
 
@@ -2385,7 +2385,7 @@ Met een maatwerkvoorschrift over [artikel 3.131, eerste lid](https://wetten.over
 
 ##### Artikel 3.134. (uitrusting hulppost wegtunnel)
 
-Een hulppost als bedoeld in [artikel 3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.12&artikel=3.62&z=2026-07-01&g=2026-07-01) heeft een noodtelefoon en een wandcontactdoos met een elektrische spanning van 230 volt.
+Een hulppost als bedoeld in [artikel 3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.12&artikel=3.62&z=2026-09-24&g=2026-09-24) heeft een noodtelefoon en een wandcontactdoos met een elektrische spanning van 230 volt.
 
 ##### Artikel 3.135. (bedieningscentrale wegtunnel)
 
@@ -2497,7 +2497,7 @@ De voor een evacuatie noodzakelijke voorzieningen, systemen en installaties in e
 
 ##### Artikel 3.146. (systeem voor gebouwautomatisering en -controle)
 
-Het systeem voor gebouwautomatisering- en controle, bedoeld in [artikel 3.145, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.12&artikel=3.145&z=2026-07-01&g=2026-07-01), is in staat:
+Het systeem voor gebouwautomatisering- en controle, bedoeld in [artikel 3.145, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.12&artikel=3.145&z=2026-09-24&g=2026-09-24), is in staat:
 
 - a. het energieverbruik permanent te controleren, bij te houden, te analyseren en de bijsturing ervan mogelijk te maken;
 
@@ -2509,7 +2509,7 @@ Het systeem voor gebouwautomatisering- en controle, bedoeld in [artikel 3.145, e
 
 ##### Artikel 3.147. (overgangsrecht)
 
-De [artikelen 3.145](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.12&artikel=3.145&z=2026-07-01&g=2026-07-01) en [3.146](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.12&artikel=3.146&z=2026-07-01&g=2026-07-01) zijn niet van toepassing tot en met 31 december 2025.
+De [artikelen 3.145](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.12&artikel=3.145&z=2026-09-24&g=2026-09-24) en [3.146](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.12&artikel=3.146&z=2026-09-24&g=2026-09-24) zijn niet van toepassing tot en met 31 december 2025.
 
 ### Hoofdstuk 4. Nieuwbouw
 
@@ -2537,53 +2537,53 @@ Aan de regels in dit hoofdstuk wordt voldaan door degene die het bouwwerk bouwt.
 
 ##### Artikel 4.4. (toepassingsbereik: aansturingsartikel niet van toepassing)
 
-In dit hoofdstuk is een aansturingsartikel niet van toepassing op een gebruiksfunctie waarvoor geen regel is opgenomen in de tabel van dat aansturingsartikel. Dit geldt niet voor de [artikelen 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.16&z=2026-07-01&g=2026-07-01), [4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.49&z=2026-07-01&g=2026-07-01), [4.56](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.56&z=2026-07-01&g=2026-07-01), [4.83](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.83&z=2026-07-01&g=2026-07-01), [4.171](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.171&z=2026-07-01&g=2026-07-01) en [4.207](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.207&z=2026-07-01&g=2026-07-01).
+In dit hoofdstuk is een aansturingsartikel niet van toepassing op een gebruiksfunctie waarvoor geen regel is opgenomen in de tabel van dat aansturingsartikel. Dit geldt niet voor de [artikelen 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.16&z=2026-09-24&g=2026-09-24), [4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.49&z=2026-09-24&g=2026-09-24), [4.56](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.56&z=2026-09-24&g=2026-09-24), [4.83](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.83&z=2026-09-24&g=2026-09-24), [4.171](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.171&z=2026-09-24&g=2026-09-24) en [4.207](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.207&z=2026-09-24&g=2026-09-24).
 
 ##### Artikel 4.5. (maatwerkvoorschriften)
 
-1. Een maatwerkvoorschrift of vergunningvoorschrift als bedoeld in [artikel 4.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5), kan worden gesteld over de [afdelingen 4.2 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&z=2026-07-01&g=2026-07-01), met uitzondering van [artikel 4.245](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.13&artikel=4.245&z=2026-07-01&g=2026-07-01) anders dan voor de woonfunctie voor zorg en bepalingen over meet- of rekenmethoden.
+1. Een maatwerkvoorschrift of vergunningvoorschrift als bedoeld in [artikel 4.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5), kan worden gesteld over de [afdelingen 4.2 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&z=2026-09-24&g=2026-09-24), met uitzondering van [artikel 4.245](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.13&artikel=4.245&z=2026-09-24&g=2026-09-24) anders dan voor de woonfunctie voor zorg en bepalingen over meet- of rekenmethoden.
 
 2. Met een maatwerkvoorschrift of vergunningvoorschrift kan worden afgeweken van de in het eerste lid bedoelde afdelingen, waarbij afwijken alleen versoepelen kan inhouden.
 
-3. In afwijking van het tweede lid kan een maatwerkvoorschrift als bedoeld in de [artikelen 4.103a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103a&z=2026-07-01&g=2026-07-01), [4.149a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.149a&z=2026-07-01&g=2026-07-01)[4.160ba](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.3&artikel=4.160ba&z=2026-07-01&g=2026-07-01), [4.227](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.227&z=2026-07-01&g=2026-07-01) en [4.230](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.230&z=2026-07-01&g=2026-07-01) of een vergunningvoorschrift op grond van artikel 4.103a alleen het bepaalde in die artikelen inhouden.
+3. In afwijking van het tweede lid kan een maatwerkvoorschrift als bedoeld in de [artikelen 4.103a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103a&z=2026-09-24&g=2026-09-24), [4.149a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.149a&z=2026-09-24&g=2026-09-24)[4.160ba](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.3&artikel=4.160ba&z=2026-09-24&g=2026-09-24), [4.227](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.227&z=2026-09-24&g=2026-09-24) en [4.230](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.230&z=2026-09-24&g=2026-09-24) of een vergunningvoorschrift op grond van artikel 4.103a alleen het bepaalde in die artikelen inhouden.
 
-4. Een maatwerkvoorschrift op initiatief van het bevoegd gezag wordt alleen gesteld over de [artikelen 4.226](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.226&z=2026-07-01&g=2026-07-01) en [4.229](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.229&z=2026-07-01&g=2026-07-01).
+4. Een maatwerkvoorschrift op initiatief van het bevoegd gezag wordt alleen gesteld over de [artikelen 4.226](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.226&z=2026-09-24&g=2026-09-24) en [4.229](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.229&z=2026-09-24&g=2026-09-24).
 
-5. Een maatwerkvoorschrift of vergunningvoorschrift op aanvraag van degene die het bouwwerk bouwt, kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2026-07-01&g=2026-07-01), voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
+5. Een maatwerkvoorschrift of vergunningvoorschrift op aanvraag van degene die het bouwwerk bouwt, kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2026-09-24&g=2026-09-24), voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
 
 ##### Artikel 4.6. (maatwerkvoorschriften herbouw)
 
-1. In afwijking van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.1&artikel=4.5&z=2026-07-01&g=2026-07-01) kan een maatwerkvoorschrift of vergunningvoorschrift, als bedoeld in [artikel 4.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) over het vernieuwen na sloop waarbij alleen de oorspronkelijke fundering resteert, alleen versoepelen inhouden.
+1. In afwijking van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.1&artikel=4.5&z=2026-09-24&g=2026-09-24) kan een maatwerkvoorschrift of vergunningvoorschrift, als bedoeld in [artikel 4.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) over het vernieuwen na sloop waarbij alleen de oorspronkelijke fundering resteert, alleen versoepelen inhouden.
 
-2. Een maatwerkvoorschrift of vergunningvoorschrift op aanvraag van degene die het bouwwerk bouwt, kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2026-07-01&g=2026-07-01), voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
+2. Een maatwerkvoorschrift of vergunningvoorschrift op aanvraag van degene die het bouwwerk bouwt, kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2026-09-24&g=2026-09-24), voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
 
 ##### Artikel 4.7. (maatwerkregels)
 
-Een maatwerkregel kan worden gesteld over [afdeling 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&z=2026-07-01&g=2026-07-01), met uitzondering van bepalingen over meet- of rekenmethoden.
+Een maatwerkregel kan worden gesteld over [afdeling 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&z=2026-09-24&g=2026-09-24), met uitzondering van bepalingen over meet- of rekenmethoden.
 
 ##### Artikel 4.8. (tijdelijk bouwwerk)
 
-1. Op het bouwen van een tijdelijk bouwwerk zijn de regels van de [afdelingen 3.2 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&z=2026-07-01&g=2026-07-01) van toepassing, tenzij in de [afdelingen 4.2 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&z=2026-07-01&g=2026-07-01) anders is bepaald.
+1. Op het bouwen van een tijdelijk bouwwerk zijn de regels van de [afdelingen 3.2 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&z=2026-09-24&g=2026-09-24) van toepassing, tenzij in de [afdelingen 4.2 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&z=2026-09-24&g=2026-09-24) anders is bepaald.
 
-2. Als een als tijdelijk bouwwerk bedoeld bouwwerk na het verstrijken van de instandhoudingstermijn op de locatie aanwezig blijft, wordt dat bouwwerk voor het verstrijken van die termijn in overeenstemming gebracht met de regels van de [afdelingen 4.2 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&z=2026-07-01&g=2026-07-01).
+2. Als een als tijdelijk bouwwerk bedoeld bouwwerk na het verstrijken van de instandhoudingstermijn op de locatie aanwezig blijft, wordt dat bouwwerk voor het verstrijken van die termijn in overeenstemming gebracht met de regels van de [afdelingen 4.2 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&z=2026-09-24&g=2026-09-24).
 
 ##### Artikel 4.9. (uitzonderingen woonfunctie voor particulier eigendom)
 
-Op het bouwen van een woonfunctie voor particulier eigendom zijn [afdeling 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&z=2026-07-01&g=2026-07-01) en de [paragrafen 4.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&z=2026-07-01&g=2026-07-01), [4.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&z=2026-07-01&g=2026-07-01) en [4.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.6&z=2026-07-01&g=2026-07-01) niet van toepassing. Wat betreft de [paragrafen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&z=2026-07-01&g=2026-07-01), [4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&z=2026-07-01&g=2026-07-01), [4.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.10&z=2026-07-01&g=2026-07-01), [4.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&z=2026-07-01&g=2026-07-01), [4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&z=2026-07-01&g=2026-07-01) en [4.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.7&z=2026-07-01&g=2026-07-01) zijn de regels van de [paragrafen 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2026-07-01&g=2026-07-01), [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&z=2026-07-01&g=2026-07-01), [3.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&z=2026-07-01&g=2026-07-01), [3.5.1 tot en met 3.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&z=2026-07-01&g=2026-07-01) voor een bestaand bouwwerk van toepassing. Wat betreft [artikel 4.78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.78&z=2026-07-01&g=2026-07-01), is [artikel 3.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.11&artikel=3.59&z=2026-07-01&g=2026-07-01), voor een bestaand bouwwerk van toepassing.
+Op het bouwen van een woonfunctie voor particulier eigendom zijn [afdeling 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&z=2026-09-24&g=2026-09-24) en de [paragrafen 4.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&z=2026-09-24&g=2026-09-24), [4.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&z=2026-09-24&g=2026-09-24) en [4.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.6&z=2026-09-24&g=2026-09-24) niet van toepassing. Wat betreft de [paragrafen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&z=2026-09-24&g=2026-09-24), [4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&z=2026-09-24&g=2026-09-24), [4.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.10&z=2026-09-24&g=2026-09-24), [4.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&z=2026-09-24&g=2026-09-24), [4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&z=2026-09-24&g=2026-09-24) en [4.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.7&z=2026-09-24&g=2026-09-24) zijn de regels van de [paragrafen 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&z=2026-09-24&g=2026-09-24), [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&z=2026-09-24&g=2026-09-24), [3.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.6&z=2026-09-24&g=2026-09-24), [3.5.1 tot en met 3.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.5&paragraaf=3.5.1&z=2026-09-24&g=2026-09-24) voor een bestaand bouwwerk van toepassing. Wat betreft [artikel 4.78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.78&z=2026-09-24&g=2026-09-24), is [artikel 3.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.11&artikel=3.59&z=2026-09-24&g=2026-09-24), voor een bestaand bouwwerk van toepassing.
 
 ##### Artikel 4.10. (uitzonderingen drijvend bouwwerk)
 
-1. Op een drijvend bouwwerk zijn de [paragrafen 4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&z=2026-07-01&g=2026-07-01) en [4.5.4 tot en met 4.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&z=2026-07-01&g=2026-07-01) niet van toepassing. In plaats van de [paragrafen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&z=2026-07-01&g=2026-07-01), [4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&z=2026-07-01&g=2026-07-01), [4.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.10&z=2026-07-01&g=2026-07-01), [4.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&z=2026-07-01&g=2026-07-01), [4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&z=2026-07-01&g=2026-07-01) en [4.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.7&z=2026-07-01&g=2026-07-01) zijn de regels van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-07-01&g=2026-07-01) van toepassing. Voor [artikel 4.78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.78&z=2026-07-01&g=2026-07-01), wordt [artikel 3.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.11&artikel=3.59&z=2026-07-01&g=2026-07-01), gelezen.
+1. Op een drijvend bouwwerk zijn de [paragrafen 4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&z=2026-09-24&g=2026-09-24) en [4.5.4 tot en met 4.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&z=2026-09-24&g=2026-09-24) niet van toepassing. In plaats van de [paragrafen 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&z=2026-09-24&g=2026-09-24), [4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&z=2026-09-24&g=2026-09-24), [4.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.10&z=2026-09-24&g=2026-09-24), [4.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&z=2026-09-24&g=2026-09-24), [4.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&z=2026-09-24&g=2026-09-24) en [4.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.7&z=2026-09-24&g=2026-09-24) zijn de regels van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-09-24&g=2026-09-24) van toepassing. Voor [artikel 4.78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.78&z=2026-09-24&g=2026-09-24), wordt [artikel 3.59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.11&artikel=3.59&z=2026-09-24&g=2026-09-24), gelezen.
 
-2. In aanvulling op het eerste lid zijn op een drijvend bouwwerk zonder toegankelijkheidssector [paragraaf 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&z=2026-07-01&g=2026-07-01), de [artikelen 4.30 tot en met 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-07-01&g=2026-07-01) en [paragrafen 4.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&z=2026-07-01&g=2026-07-01) en [4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.3&z=2026-07-01&g=2026-07-01) niet van toepassing.
+2. In aanvulling op het eerste lid zijn op een drijvend bouwwerk zonder toegankelijkheidssector [paragraaf 4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&z=2026-09-24&g=2026-09-24), de [artikelen 4.30 tot en met 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-09-24&g=2026-09-24) en [paragrafen 4.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&z=2026-09-24&g=2026-09-24) en [4.6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.3&z=2026-09-24&g=2026-09-24) niet van toepassing.
 
 3. Bij het bepalen van de afstand tot de perceelsgrens van een drijvend bouwwerk mag worden uitgegaan van een horizontaal gemeten afstand van 2,5 m vanuit de uitwendige scheidingsconstructie van het drijvende bouwwerk.
 
-4. Bij toepassing van [paragraaf 4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&z=2026-07-01&g=2026-07-01) mag bij een drijvend bouwwerk voor het aansluitend terrein worden gelezen de steiger tussen het drijvende bouwwerk en de wal.
+4. Bij toepassing van [paragraaf 4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&z=2026-09-24&g=2026-09-24) mag bij een drijvend bouwwerk voor het aansluitend terrein worden gelezen de steiger tussen het drijvende bouwwerk en de wal.
 
 ##### Artikel 4.10a. (geen gelijkwaardige maatregel)
 
-Het treffen van een gelijkwaardige maatregel is uitgesloten voor [artikel 4.245](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.13&artikel=4.245&z=2026-07-01&g=2026-07-01).
+Het treffen van een gelijkwaardige maatregel is uitgesloten voor [artikel 4.245](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.13&artikel=4.245&z=2026-09-24&g=2026-09-24).
 
 #### Afdeling 4.2. Veiligheid
 
@@ -2620,7 +2620,7 @@ Een bouwconstructie bezwijkt gedurende de in NEN-EN 1990 bedoelde ontwerplevensd
 
 ##### Artikel 4.14. (bepalingsmethode niet-bezwijken)
 
-1. Het niet-bezwijken, bedoeld in de [artikelen 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-07-01&g=2026-07-01) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.13&z=2026-07-01&g=2026-07-01), wordt bepaald volgens:
+1. Het niet-bezwijken, bedoeld in de [artikelen 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-09-24&g=2026-09-24) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.13&z=2026-09-24&g=2026-09-24), wordt bepaald volgens:
 
 - a. NEN-EN 1999 of NEN-EN 1993, als de constructie is vervaardigd van metaal als bedoeld in die normen;
 
@@ -2634,15 +2634,15 @@ Een bouwconstructie bezwijkt gedurende de in NEN-EN 1990 bedoelde ontwerplevensd
 
 - f. NEN 6707, als de constructie van de bevestiging van de dakbedekking is vervaardigd van materiaal als bedoeld in die norm.
 
-2. Als een ander materiaal of een andere bepalingsmethode is toegepast dan bedoeld in het eerste lid, wordt het niet-bezwijken, bedoeld in de [artikelen 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-07-01&g=2026-07-01) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.13&z=2026-07-01&g=2026-07-01), bepaald volgens NEN-EN 1990.
+2. Als een ander materiaal of een andere bepalingsmethode is toegepast dan bedoeld in het eerste lid, wordt het niet-bezwijken, bedoeld in de [artikelen 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-09-24&g=2026-09-24) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.13&z=2026-09-24&g=2026-09-24), bepaald volgens NEN-EN 1990.
 
-3. Bij een niet in een woongebouw of logiesgebouw gelegen gebruiksfunctie kan bij het bepalen van het niet-bezwijken, bedoeld in de [artikelen 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-07-01&g=2026-07-01) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.13&z=2026-07-01&g=2026-07-01), rekening worden gehouden met de stabiliteitsvoorziening van een op een aangrenzend perceel gelegen gebruiksfunctie van dezelfde soort.
+3. Bij een niet in een woongebouw of logiesgebouw gelegen gebruiksfunctie kan bij het bepalen van het niet-bezwijken, bedoeld in de [artikelen 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-09-24&g=2026-09-24) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.13&z=2026-09-24&g=2026-09-24), rekening worden gehouden met de stabiliteitsvoorziening van een op een aangrenzend perceel gelegen gebruiksfunctie van dezelfde soort.
 
 ##### Artikel 4.15. (tijdelijk bouwwerk)
 
-1. Op het bouwen van een tijdelijk bouwwerk met een ontwerplevensduur van 5 jaar als bedoeld in NEN-EN 1990 zijn de [artikelen 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-07-01&g=2026-07-01) en [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.14&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+1. Op het bouwen van een tijdelijk bouwwerk met een ontwerplevensduur van 5 jaar als bedoeld in NEN-EN 1990 zijn de [artikelen 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-09-24&g=2026-09-24) en [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.14&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing.
 
-2. Op het bouwen van een tijdelijk bouwwerk met een ontwerplevensduur van 15 jaar als bedoeld in NEN-EN 1990 zijn de [artikelen 4.12 tot en met 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+2. Op het bouwen van een tijdelijk bouwwerk met een ontwerplevensduur van 15 jaar als bedoeld in NEN-EN 1990 zijn de [artikelen 4.12 tot en met 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing.
 
 #### § 4.2.1a. Stabiliteit, drijvend vermogen en sterkte drijvende bouwwerken
 
@@ -2705,7 +2705,7 @@ wordt aan de in het eerste lid gestelde eis voldaan door naleving van de regels 
 
 ##### Artikel 4.15c. (bepaling afstanden)
 
-1. De afstand, bedoeld in [artikel 4.15b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-07-01&g=2026-07-01), wordt bepaald op basis van:
+1. De afstand, bedoeld in [artikel 4.15b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-09-24&g=2026-09-24), wordt bepaald op basis van:
 
 - a. de meest ongunstige belastingcombinatie uitgaande van de grenstoestand EQU volgens NEN-EN 1990;
 
@@ -2723,7 +2723,7 @@ wordt aan de in het eerste lid gestelde eis voldaan door naleving van de regels 
 
    - 2°. op een vloer de extreme waarde van de belasting in rekening is gebracht en op de overige vloeren de reductiefactor ψo in rekening is gebracht.
 
-2. De afstand, bedoeld in [artikel 4.15b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-07-01&g=2026-07-01), wordt bepaald op basis van:
+2. De afstand, bedoeld in [artikel 4.15b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-09-24&g=2026-09-24), wordt bepaald op basis van:
 
 - a. de meest ongunstige belastingscombinatie uitgaande van de grenstoestand EQU volgens NEN-EN 1990;
 
@@ -2741,7 +2741,7 @@ wordt aan de in het eerste lid gestelde eis voldaan door naleving van de regels 
 
    - 2°. de opgelegde belasting, als deze niet overheersend is als bedoeld in NEN-EN 1990, niet op de meest ongunstige plaats op een vloer wordt beschouwd; en
 
-   - 3°. belastingen door golven volgens NEN-EN 1997 uitgaande van golven met een significante golfhoogte die zijn bepaald volgens de [tabellen 4.15b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-07-01&g=2026-07-01) en [4.15b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-07-01&g=2026-07-01) voor zover deze hoger zijn dan 0,5 m.
+   - 3°. belastingen door golven volgens NEN-EN 1997 uitgaande van golven met een significante golfhoogte die zijn bepaald volgens de [tabellen 4.15b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-09-24&g=2026-09-24) en [4.15b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-09-24&g=2026-09-24) voor zover deze hoger zijn dan 0,5 m.
 
 3. De in het eerste en tweede lid bedoelde bepalingsmethoden worden alleen toegepast als:
 
@@ -2755,23 +2755,23 @@ wordt aan de in het eerste lid gestelde eis voldaan door naleving van de regels 
 
 Het niet bezwijken van een drijflichaam van een drijvend bouwwerk wordt bepaald op basis van:
 
-- a. de belastingen die op het drijflichaam worden uitgeoefend als gevolg van de belastingcombinaties, bedoeld in [artikel 4.15c, eerste lid, onder a, en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15c&z=2026-07-01&g=2026-07-01);
+- a. de belastingen die op het drijflichaam worden uitgeoefend als gevolg van de belastingcombinaties, bedoeld in [artikel 4.15c, eerste lid, onder a, en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15c&z=2026-09-24&g=2026-09-24);
 
-- b. de fundamentele belastingscombinaties, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-07-01&g=2026-07-01), waarbij de volgende belastingen, zonder rekening te houden met het gelijktijdig plaatsvinden van die belastingen, zijn meegenomen als veranderlijke belasting:
+- b. de fundamentele belastingscombinaties, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-09-24&g=2026-09-24), waarbij de volgende belastingen, zonder rekening te houden met het gelijktijdig plaatsvinden van die belastingen, zijn meegenomen als veranderlijke belasting:
 
    - 1°. de belasting door ijs volgens NEN-EN 1997;
 
-   - 2°. voor zover het een drijvend bouwwerk in gevolgklasse CC2 betreft de verticale belasting door golven tegen de onderkant van het drijflichaam, uitgaande van golven met een significante golfhoogte die is bepaald volgens [tabel 4.15b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-07-01&g=2026-07-01) of [4.15b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-07-01&g=2026-07-01), voor zover deze golven hoger zijn dan 0,5 m; en
+   - 2°. voor zover het een drijvend bouwwerk in gevolgklasse CC2 betreft de verticale belasting door golven tegen de onderkant van het drijflichaam, uitgaande van golven met een significante golfhoogte die is bepaald volgens [tabel 4.15b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-09-24&g=2026-09-24) of [4.15b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15b&z=2026-09-24&g=2026-09-24), voor zover deze golven hoger zijn dan 0,5 m; en
 
-- c. de buitengewone belastingscombinaties, bedoeld in [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.13&z=2026-07-01&g=2026-07-01), waarbij het drijflichaam niet zodanig mag bezwijken dat het drijvend bouwwerk zinkt. Dit geldt niet voor een drijvend bouwwerk in gevolgklasse CC1 met niet meer dan twee bouwlagen.
+- c. de buitengewone belastingscombinaties, bedoeld in [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.13&z=2026-09-24&g=2026-09-24), waarbij het drijflichaam niet zodanig mag bezwijken dat het drijvend bouwwerk zinkt. Dit geldt niet voor een drijvend bouwwerk in gevolgklasse CC1 met niet meer dan twee bouwlagen.
 
 ##### Artikel 4.15e. (niet bezwijken van een aanmeerconstructie)
 
 Het niet bezwijken van een aanmeerconstructie van een drijvend bouwwerk wordt bepaald op basis van:
 
-- a. de belastingen die op de aanmeerconstructies worden uitgeoefend als gevolg van de belastingscombinaties, bedoeld in [artikel 4.15c, eerste lid, onder a, en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15c&z=2026-07-01&g=2026-07-01); en
+- a. de belastingen die op de aanmeerconstructies worden uitgeoefend als gevolg van de belastingscombinaties, bedoeld in [artikel 4.15c, eerste lid, onder a, en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15c&z=2026-09-24&g=2026-09-24); en
 
-- b. de fundamentele belastingscombinaties, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-07-01&g=2026-07-01), waarbij de belasting door ijs volgens NEN-EN 1997 is meegenomen als veranderlijke belasting.
+- b. de fundamentele belastingscombinaties, bedoeld in [artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-09-24&g=2026-09-24), waarbij de belasting door ijs volgens NEN-EN 1997 is meegenomen als veranderlijke belasting.
 
 #### § 4.2.2. Constructieve veiligheid bij brand
 
@@ -2810,7 +2810,7 @@ Het niet bezwijken van een aanmeerconstructie van een drijvend bouwwerk wordt be
 
 ##### Artikel 4.17. (tijdsduur niet-bezwijken)
 
-1. Een vloer, trap of hellingbaan waarover of waaronder een vluchtroute voert, bezwijkt niet binnen 30 minuten bij brand in een subbrandcompartiment waarin die vluchtroute niet ligt. Dit is niet van toepassing op de vloer van een buitenruimte als bedoeld in [artikel 4.175](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.6&artikel=4.175&z=2026-07-01&g=2026-07-01).
+1. Een vloer, trap of hellingbaan waarover of waaronder een vluchtroute voert, bezwijkt niet binnen 30 minuten bij brand in een subbrandcompartiment waarin die vluchtroute niet ligt. Dit is niet van toepassing op de vloer van een buitenruimte als bedoeld in [artikel 4.175](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.6&artikel=4.175&z=2026-09-24&g=2026-09-24).
 
 2. Een bouwconstructie bezwijkt bij brand in een brandcompartiment waarin die bouwconstructie niet ligt, niet binnen de in tabel 4.17a aangegeven tijdsduur door het bezwijken van een bouwconstructie binnen of grenzend aan dat brandcompartiment. Voor zover dat brandcompartiment een woonfunctie is, geldt dit niet voor een bouwconstructie van een aan dat brandcompartiment grenzend subbrandcompartiment of grenzende buitenruimte.
 
@@ -2840,9 +2840,9 @@ Het niet bezwijken van een aanmeerconstructie van een drijvend bouwwerk wordt be
 
 ##### Artikel 4.18. (bepalingsmethode niet-bezwijken)
 
-1. Bij het bepalen van het niet-bezwijken van een bouwconstructie als bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.17&z=2026-07-01&g=2026-07-01) wordt uitgegaan van de buitengewone belastingscombinaties die volgens NEN-EN 1990 kunnen optreden bij brand.
+1. Bij het bepalen van het niet-bezwijken van een bouwconstructie als bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.17&z=2026-09-24&g=2026-09-24) wordt uitgegaan van de buitengewone belastingscombinaties die volgens NEN-EN 1990 kunnen optreden bij brand.
 
-2. De tijdsduur van het niet-bezwijken, bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.17&z=2026-07-01&g=2026-07-01), wordt afhankelijk van het materiaal van de bouwconstructie bepaald volgens:
+2. De tijdsduur van het niet-bezwijken, bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.17&z=2026-09-24&g=2026-09-24), wordt afhankelijk van het materiaal van de bouwconstructie bepaald volgens:
 
 - a. NEN-EN 1992;
 
@@ -2896,9 +2896,9 @@ Het niet bezwijken van een aanmeerconstructie van een drijvend bouwwerk wordt be
 
 1. Een voor personen bestemde vloer heeft bij een rand een niet-beweegbare afscheiding als die rand meer dan 1 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water.
 
-2. Een trap als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-07-01&g=2026-07-01) heeft, voor zover een zijkant van een tredevlak meer dan 1 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water, aan die zijkant een niet-beweegbare afscheiding.
+2. Een trap als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-09-24&g=2026-09-24) heeft, voor zover een zijkant van een tredevlak meer dan 1 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water, aan die zijkant een niet-beweegbare afscheiding.
 
-3. Een hellingbaan als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-07-01&g=2026-07-01) heeft, voor zover een zijkant van de vloer meer dan 1 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water, aan die zijkant een niet-beweegbare afscheiding.
+3. Een hellingbaan als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-09-24&g=2026-09-24) heeft, voor zover een zijkant van de vloer meer dan 1 m hoger ligt dan een aansluitende vloer, het aansluitende terrein of het aansluitende water, aan die zijkant een niet-beweegbare afscheiding.
 
 4. Het eerste lid geldt niet ter plaatse van de aansluiting van de vloer aan:
 
@@ -2920,33 +2920,33 @@ Het niet bezwijken van een aanmeerconstructie van een drijvend bouwwerk wordt be
 
 ##### Artikel 4.21. (hoogte afscheiding)
 
-1. Een vloerafscheiding als bedoeld in [artikel 4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-07-01&g=2026-07-01), heeft een hoogte van ten minste 1 m, gemeten vanaf de vloer.
+1. Een vloerafscheiding als bedoeld in [artikel 4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-09-24&g=2026-09-24), heeft een hoogte van ten minste 1 m, gemeten vanaf de vloer.
 
 2. In afwijking van het eerste lid heeft een vloer die hoger ligt dan 13 m boven een aangrenzende vloer, het aansluitende terrein of het aansluitende water, een vloerafscheiding met een hoogte van ten minste 1,2 m, gemeten vanaf de vloer.
 
-3. In afwijking van het eerste en tweede lid heeft een afscheiding als bedoeld in [artikel 4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-07-01&g=2026-07-01), ter plaatse van een al dan niet beweegbaar raam een hoogte van ten minste 0,85 m, gemeten vanaf de vloer.
+3. In afwijking van het eerste en tweede lid heeft een afscheiding als bedoeld in [artikel 4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-09-24&g=2026-09-24), ter plaatse van een al dan niet beweegbaar raam een hoogte van ten minste 0,85 m, gemeten vanaf de vloer.
 
 4. In afwijking van het eerste lid heeft een vloerafscheiding een vanaf de vloer gemeten hoogte van ten minste 0,7 m, als de som van die hoogte en de breedte van de bovenregel ten minste 1,1 m is.
 
-5. Een afscheiding als bedoeld in [artikel 4.20, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-07-01&g=2026-07-01), heeft een hoogte van ten minste 0,85 m, gemeten vanaf de voorkant van de tredevlakken of vanaf de vloer van de hellingbaan.
+5. Een afscheiding als bedoeld in [artikel 4.20, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-09-24&g=2026-09-24), heeft een hoogte van ten minste 0,85 m, gemeten vanaf de voorkant van de tredevlakken of vanaf de vloer van de hellingbaan.
 
 6. In afwijking van het eerste en tweede lid heeft een vloer waarvan de vloerafscheiding direct is gelegen naast een pad of strook bedoeld voor langzaam verkeer, een vloerafscheiding met een hoogte van ten minste 1,3 m, gemeten vanaf de vloer.
 
 ##### Artikel 4.22. (openingen afscheiding)
 
-1. Een afscheiding als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-07-01&g=2026-07-01) heeft geen openingen waardoor een bol kan passeren met een doorsnede groter dan de in [tabel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.19&z=2026-07-01&g=2026-07-01) aangegeven diameter.
+1. Een afscheiding als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-09-24&g=2026-09-24) heeft geen openingen waardoor een bol kan passeren met een doorsnede groter dan de in [tabel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.19&z=2026-09-24&g=2026-09-24) aangegeven diameter.
 
-2. In afwijking van het eerste lid heeft een afscheiding als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-07-01&g=2026-07-01) tot een hoogte van 0,7 m boven een vloer of een tredevlak geen openingen waardoor een bol kan passeren met een doorsnede groter dan 0,1 m.
+2. In afwijking van het eerste lid heeft een afscheiding als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-09-24&g=2026-09-24) tot een hoogte van 0,7 m boven een vloer of een tredevlak geen openingen waardoor een bol kan passeren met een doorsnede groter dan 0,1 m.
 
-3. De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en een afscheiding als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-07-01&g=2026-07-01) is niet groter dan 0,05 m.
+3. De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en een afscheiding als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-09-24&g=2026-09-24) is niet groter dan 0,05 m.
 
-4. De bovenregel van een in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-07-01&g=2026-07-01) bedoelde afscheiding heeft geen onderbreking van meer dan 0,1 m.
+4. De bovenregel van een in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-09-24&g=2026-09-24) bedoelde afscheiding heeft geen onderbreking van meer dan 0,1 m.
 
 5. Het tweede lid is niet van toepassing op een vloer of een tredevlak of een gedeelte daarvan, niet bestemd voor kinderen jonger dan 12 jaar.
 
 ##### Artikel 4.23. (voorkomen overklauteren)
 
-1. Een afscheiding als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-07-01&g=2026-07-01) of een constructieonderdeel dat, bouwwerkinstallatie die of onderdeel van een bouwwerkinstallatie dat aan of naast een dergelijke afscheiding is geplaatst heeft, ter voorkoming van het overklauteren, geen opstapmogelijkheden tussen 0,2 m en 0,7 m boven een vloer of een tredevlak.
+1. Een afscheiding als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-09-24&g=2026-09-24) of een constructieonderdeel dat, bouwwerkinstallatie die of onderdeel van een bouwwerkinstallatie dat aan of naast een dergelijke afscheiding is geplaatst heeft, ter voorkoming van het overklauteren, geen opstapmogelijkheden tussen 0,2 m en 0,7 m boven een vloer of een tredevlak.
 
 2. Het eerste lid is niet van toepassing op een vloer of een tredevlak of een gedeelte daarvan, niet bestemd voor kinderen jonger dan 12 jaar.
 
@@ -3004,7 +3004,7 @@ Dit geldt ook voor een hoogteverschil op een route vanaf het aansluitende terrei
 
 ##### Artikel 4.26. (afmetingen trap)
 
-1. Een trap als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-07-01&g=2026-07-01) voldoet aan de in tabel 4.26 aangegeven afmetingen.
+1. Een trap als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-09-24&g=2026-09-24) voldoet aan de in tabel 4.26 aangegeven afmetingen.
 
 2. Een trap overbrugt een hoogteverschil van niet meer dan 4 m.
 
@@ -3021,15 +3021,15 @@ Dit geldt ook voor een hoogteverschil op een route vanaf het aansluitende terrei
 
 ##### Artikel 4.26a. (markering trap)
 
-Een trap als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-07-01&g=2026-07-01), is op de bovenste en onderste trederand over de volle breedte voorzien van een markering van ten minste 50 mm met een hoog contrast. De overige treden zijn aan beide zijkanten voorzien van markeringen van ten minste 50 mm met een hoog contrast.
+Een trap als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-09-24&g=2026-09-24), is op de bovenste en onderste trederand over de volle breedte voorzien van een markering van ten minste 50 mm met een hoog contrast. De overige treden zijn aan beide zijkanten voorzien van markeringen van ten minste 50 mm met een hoog contrast.
 
 ##### Artikel 4.27. (trapbordes)
 
-Een trap als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-07-01&g=2026-07-01) sluit bij de bovenste trede, over de breedte van de trap, aan op een vloer met een oppervlakte van ten minste 0,8 m x 0,8 m.
+Een trap als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-09-24&g=2026-09-24) sluit bij de bovenste trede, over de breedte van de trap, aan op een vloer met een oppervlakte van ten minste 0,8 m x 0,8 m.
 
 ##### Artikel 4.28. (leuning)
 
-1. Een trap als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-07-01&g=2026-07-01) voor het overbruggen van een hoogteverschil van meer dan 1 m en met een helling ter plaatse van de klimlijn groter dan 2:3 heeft aan ten minste een zijkant een leuning. De bovenkant van de leuning ligt, gemeten boven de voorkant van een tredevlak van de trap, op een hoogte van ten minste 0,8 m en ten hoogste 1 m.
+1. Een trap als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-09-24&g=2026-09-24) voor het overbruggen van een hoogteverschil van meer dan 1 m en met een helling ter plaatse van de klimlijn groter dan 2:3 heeft aan ten minste een zijkant een leuning. De bovenkant van de leuning ligt, gemeten boven de voorkant van een tredevlak van de trap, op een hoogte van ten minste 0,8 m en ten hoogste 1 m.
 
 2. Een trap als bedoeld in het eerste lid heeft aan beide zijkanten een leuning die aan het begin en aan het einde van de trap ten minste 30 cm horizontaal doorloopt.
 
@@ -3039,7 +3039,7 @@ Een gemeenschappelijke verkeersruimte met een trap voor het overbruggen van een 
 
 ##### Artikel 4.30. (afmetingen hellingbaan)
 
-Een hellingbaan als bedoeld in de [artikelen 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-07-01&g=2026-07-01), [4.172](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.172&z=2026-07-01&g=2026-07-01), [4.182](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.182&z=2026-07-01&g=2026-07-01), [4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-07-01&g=2026-07-01) en [4.192](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.3&artikel=4.192&z=2026-07-01&g=2026-07-01) heeft een breedte van ten minste 1,1 m, een hoogte van niet meer dan 1 m en een helling van ten hoogste:
+Een hellingbaan als bedoeld in de [artikelen 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-09-24&g=2026-09-24), [4.172](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.172&z=2026-09-24&g=2026-09-24), [4.182](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.182&z=2026-09-24&g=2026-09-24), [4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-09-24&g=2026-09-24) en [4.192](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.3&artikel=4.192&z=2026-09-24&g=2026-09-24) heeft een breedte van ten minste 1,1 m, een hoogte van niet meer dan 1 m en een helling van ten hoogste:
 
 - a. 1 : 6 als het hoogteverschil niet groter is dan 0,05 m;
 
@@ -3053,15 +3053,15 @@ Een hellingbaan als bedoeld in de [artikelen 4.25](https://wetten.overheid.nl/jc
 
 ##### Artikel 4.31. (hellingbaanbordes)
 
-Een hellingbaan als bedoeld in de [artikelen 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-07-01&g=2026-07-01), [4.172](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.172&z=2026-07-01&g=2026-07-01), [4.182](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.182&z=2026-07-01&g=2026-07-01), [4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-07-01&g=2026-07-01) en [4.192](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.3&artikel=4.192&z=2026-07-01&g=2026-07-01) sluit aan de bovenzijde, over de breedte van de hellingbaan, aan op een vloer met een oppervlakte van ten minste 1,4 m x 1,4 m. Dit geldt niet als het hoogteverschil van de hellingbaan kleiner is dan 0,03 m.
+Een hellingbaan als bedoeld in de [artikelen 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-09-24&g=2026-09-24), [4.172](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.172&z=2026-09-24&g=2026-09-24), [4.182](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.182&z=2026-09-24&g=2026-09-24), [4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-09-24&g=2026-09-24) en [4.192](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.3&artikel=4.192&z=2026-09-24&g=2026-09-24) sluit aan de bovenzijde, over de breedte van de hellingbaan, aan op een vloer met een oppervlakte van ten minste 1,4 m x 1,4 m. Dit geldt niet als het hoogteverschil van de hellingbaan kleiner is dan 0,03 m.
 
 ##### Artikel 4.32. (geleiderand)
 
-Een hellingbaan als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-07-01&g=2026-07-01) heeft aan de zijkant een aaneengesloten geleiderand, met een vanaf de vloer van de hellingbaan gemeten hoogte van ten minste 0,04 m.
+Een hellingbaan als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-09-24&g=2026-09-24) heeft aan de zijkant een aaneengesloten geleiderand, met een vanaf de vloer van de hellingbaan gemeten hoogte van ten minste 0,04 m.
 
 ##### Artikel 4.33. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk is [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk is [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.25&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.2.5. Beweegbare constructieonderdelen
 
@@ -3081,7 +3081,7 @@ Op het bouwen van een tijdelijk bouwwerk is [artikel 4.25](https://wetten.overhe
 
 ##### Artikel 4.36. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk is [artikel 4.35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.5&artikel=4.35&z=2026-07-01&g=2026-07-01), van toepassing.
+Op het bouwen van een tijdelijk bouwwerk is [artikel 4.35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.5&artikel=4.35&z=2026-09-24&g=2026-09-24), van toepassing.
 
 #### § 4.2.6. Beperking van het ontstaan van een brandgevaarlijke situatie
 
@@ -3117,7 +3117,7 @@ Een voorziening voor de afvoer van rookgas is brandveilig, bepaald volgens NEN 6
 
 ##### Artikel 4.41. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.38 tot en met 4.40](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.6&artikel=4.38&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.38 tot en met 4.40](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.6&artikel=4.38&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.2.7. Beperking van het ontwikkelen van brand en rook
 
@@ -3161,7 +3161,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.38 tot en met 4.40
 
 ##### Artikel 4.43. (binnenoppervlak)
 
-1. Een zijde van een constructieonderdeel die grenst aan de binnenlucht voldoet aan de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-07-01&g=2026-07-01) aangegeven brandklasse en aan rookklasse s2, beide bepaald volgens NEN-EN 13501-1.
+1. Een zijde van een constructieonderdeel die grenst aan de binnenlucht voldoet aan de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-09-24&g=2026-09-24) aangegeven brandklasse en aan rookklasse s2, beide bepaald volgens NEN-EN 13501-1.
 
 2. In afwijking van het eerste lid geldt de eis aan de rookklasse alleen bij een beschermde vluchtroute.
 
@@ -3175,7 +3175,7 @@ aan brandklasse D, bepaald volgens NEN-EN 13501-1.
 
 ##### Artikel 4.44. (buitenoppervlak)
 
-1. Een zijde van een constructieonderdeel die grenst aan de buitenlucht voldoet aan de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-07-01&g=2026-07-01) aangegeven brandklasse, bepaald volgens NEN-EN 13501-1.
+1. Een zijde van een constructieonderdeel die grenst aan de buitenlucht voldoet aan de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-09-24&g=2026-09-24) aangegeven brandklasse, bepaald volgens NEN-EN 13501-1.
 
 2. Het deel van een zijde van een constructieonderdeel dat grenst aan de buitenlucht en hoger ligt dan 13 m, voldoet aan brandklasse B, bepaald volgens NEN-EN 13501-1.
 
@@ -3187,35 +3187,35 @@ aan brandklasse D, bepaald volgens NEN-EN 13501-1.
 
 ##### Artikel 4.45. (beloopbaar vlak)
 
-1. In afwijking van [artikel 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-07-01&g=2026-07-01) geldt voor de bovenzijde van een vloer, een trap en een hellingbaan die grenst aan de binnenlucht rookklasse s1fl en de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-07-01&g=2026-07-01) aangegeven brandklasse, beide bepaald volgens NEN-EN 13501-1.
+1. In afwijking van [artikel 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-09-24&g=2026-09-24) geldt voor de bovenzijde van een vloer, een trap en een hellingbaan die grenst aan de binnenlucht rookklasse s1fl en de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-09-24&g=2026-09-24) aangegeven brandklasse, beide bepaald volgens NEN-EN 13501-1.
 
-2. In afwijking van de [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.44&z=2026-07-01&g=2026-07-01) geldt voor een bovenzijde van een vloer, een trap en een hellingbaan die grenst aan de buitenlucht de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-07-01&g=2026-07-01) aangegeven brandklasse, bepaald volgens NEN-EN 13501-1.
+2. In afwijking van de [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.44&z=2026-09-24&g=2026-09-24) geldt voor een bovenzijde van een vloer, een trap en een hellingbaan die grenst aan de buitenlucht de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-09-24&g=2026-09-24) aangegeven brandklasse, bepaald volgens NEN-EN 13501-1.
 
 ##### Artikel 4.45a. (elektrische leidingen en pijpisolatie)
 
-1. In afwijking van [artikel 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-07-01&g=2026-07-01) geldt voor een elektrische leiding die grenst aan de binnenlucht:
+1. In afwijking van [artikel 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-09-24&g=2026-09-24) geldt voor een elektrische leiding die grenst aan de binnenlucht:
 
 - a. in extra beschermde vluchtroutes rookklasse s1(ca) en in overige ruimten rookklasse s2(ca), beide bepaald volgens NEN-EN 13501-6; en
 
-- b. de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-07-01&g=2026-07-01) aangegeven brandklasse, bepaald volgens NEN-EN 13501-6.
+- b. de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-09-24&g=2026-09-24) aangegeven brandklasse, bepaald volgens NEN-EN 13501-6.
 
-2. In afwijking van [artikel 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-07-01&g=2026-07-01) geldt voor pijpisolatie die grenst aan de binnenlucht:
+2. In afwijking van [artikel 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-09-24&g=2026-09-24) geldt voor pijpisolatie die grenst aan de binnenlucht:
 
 - a. in extra beschermde vluchtroutes rookklasse s1(L) en in overige ruimten rookklasse s2(L), beide bepaald volgens NEN-EN 13501-1; en
 
-- b. de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-07-01&g=2026-07-01) aangegeven brandklasse, bepaald volgens NEN-EN 13501-1.
+- b. de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-09-24&g=2026-09-24) aangegeven brandklasse, bepaald volgens NEN-EN 13501-1.
 
-3. In afwijking van [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.44&z=2026-07-01&g=2026-07-01) geldt voor een elektrische leiding die grenst aan de buitenlucht de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-07-01&g=2026-07-01) aangegeven brandklasse, bepaald volgens NEN-EN 13501-6.
+3. In afwijking van [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.44&z=2026-09-24&g=2026-09-24) geldt voor een elektrische leiding die grenst aan de buitenlucht de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-09-24&g=2026-09-24) aangegeven brandklasse, bepaald volgens NEN-EN 13501-6.
 
-4. In afwijking van [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.44&z=2026-07-01&g=2026-07-01) geldt voor pijpisolatie die grenst aan de buitenlucht de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-07-01&g=2026-07-01) aangegeven brandklasse, bepaald volgens NEN-EN 13501-1.
+4. In afwijking van [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.44&z=2026-09-24&g=2026-09-24) geldt voor pijpisolatie die grenst aan de buitenlucht de in [tabel 4.42](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.42&z=2026-09-24&g=2026-09-24) aangegeven brandklasse, bepaald volgens NEN-EN 13501-1.
 
 ##### Artikel 4.46. (vrijgestelde oppervlakte)
 
-1. Op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke ruimte waarvoor volgens de [artikelen 4.43 tot en met 4.45a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-07-01&g=2026-07-01) een eis geldt, is die eis niet van toepassing.
+1. Op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke ruimte waarvoor volgens de [artikelen 4.43 tot en met 4.45a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-09-24&g=2026-09-24) een eis geldt, is die eis niet van toepassing.
 
-2. Op ten hoogste 10% van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke ruimte waardoor geen beschermde vluchtroute voert, zijn de in de [artikelen 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-07-01&g=2026-07-01) en [4.45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.45a&z=2026-07-01&g=2026-07-01), bedoelde eisen aan de rookklasse niet van toepassing.
+2. Op ten hoogste 10% van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke ruimte waardoor geen beschermde vluchtroute voert, zijn de in de [artikelen 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-09-24&g=2026-09-24) en [4.45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.45a&z=2026-09-24&g=2026-09-24), bedoelde eisen aan de rookklasse niet van toepassing.
 
-3. Op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen waarvoor volgens de [artikelen 4.43 tot en met 4.45a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-07-01&g=2026-07-01) een eis geldt, is die eis niet van toepassing.
+3. Op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen waarvoor volgens de [artikelen 4.43 tot en met 4.45a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-09-24&g=2026-09-24) een eis geldt, is die eis niet van toepassing.
 
 ##### Artikel 4.47. (dakoppervlak)
 
@@ -3225,7 +3225,7 @@ aan brandklasse D, bepaald volgens NEN-EN 13501-1.
 
 ##### Artikel 4.48. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.44&z=2026-07-01&g=2026-07-01), en [4.47](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.47&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.44&z=2026-09-24&g=2026-09-24), en [4.47](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.47&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.2.8. Beperking van uitbreiding van brand
 
@@ -3296,7 +3296,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.44, derde lid](htt
 
 ##### Artikel 4.51. (brandcompartiment: omvang)
 
-1. Een brandcompartiment heeft een gebruiksoppervlakte die niet groter is dan de in [tabel 4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.49&z=2026-07-01&g=2026-07-01) aangegeven oppervlakte, of een grotere gebruiksoppervlakte als dat niet tot een lager veiligheidsniveau leidt, bepaald volgens NEN 6060 of NEN 6079.
+1. Een brandcompartiment heeft een gebruiksoppervlakte die niet groter is dan de in [tabel 4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.49&z=2026-09-24&g=2026-09-24) aangegeven oppervlakte, of een grotere gebruiksoppervlakte als dat niet tot een lager veiligheidsniveau leidt, bepaald volgens NEN 6060 of NEN 6079.
 
 2. In een brandcompartiment liggen ten hoogste vier woonwagens en nevengebruiksfuncties daarvan met een totale gebruiksoppervlakte van ten hoogste 1.000 m2.
 
@@ -3322,7 +3322,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.44, derde lid](htt
 
 ##### Artikel 4.53. (weerstand tegen branddoorslag en brandoverslag: niveau van eisen)
 
-1. De weerstand tegen branddoorslag en brandoverslag van een brandcompartiment naar een ander brandcompartiment, naar een besloten ruimte waardoor een extra beschermde vluchtroute voert, naar een niet-besloten veiligheidsvluchtroute en naar een liftschacht van een brandweerlift of van een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-07-01&g=2026-07-01) in een woongebouw is ten minste 60 minuten.
+1. De weerstand tegen branddoorslag en brandoverslag van een brandcompartiment naar een ander brandcompartiment, naar een besloten ruimte waardoor een extra beschermde vluchtroute voert, naar een niet-besloten veiligheidsvluchtroute en naar een liftschacht van een brandweerlift of van een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-09-24&g=2026-09-24) in een woongebouw is ten minste 60 minuten.
 
 2. In afwijking van het eerste lid kan tussen een brandcompartiment en een besloten ruimte waardoor een extra beschermde vluchtroute voert worden volstaan met 30 minuten.
 
@@ -3352,7 +3352,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.44, derde lid](htt
 
 ##### Artikel 4.54. (weerstand tegen branddoorslag en brandoverslag: bepalingsmethode)
 
-1. De in [artikel 4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.53&z=2026-07-01&g=2026-07-01) bedoelde weerstand tegen branddoorslag en brandoverslag wordt bepaald volgens NEN 6068.
+1. De in [artikel 4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.53&z=2026-09-24&g=2026-09-24) bedoelde weerstand tegen branddoorslag en brandoverslag wordt bepaald volgens NEN 6068.
 
 2. Bij het bepalen van de weerstand tegen branddoorslag en brandoverslag van een brandcompartiment naar een ruimte van een op een aangrenzend perceel gelegen gebouw wordt voor het op het andere perceel gelegen gebouw uitgegaan van een identiek maar spiegelsymmetrisch ten opzichte van de bouwwerkperceelsgrens gelegen gebouw. Als het bouwwerkperceel grenst aan:
 
@@ -3368,17 +3368,17 @@ vindt deze spiegeling plaats ten opzichte van het hart van die weg, dat water, d
 
 3. In aanvulling op het tweede lid is het aandeel van de uitwendige scheidingsconstructie van het spiegelsymmetrische gebouw in de weerstand tegen branddoorslag en brandoverslag niet groter dan het aandeel van de uitwendige scheidingsconstructie van het brandcompartiment.
 
-4. Bij het bepalen van de in [artikel 4.53, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.53&z=2026-07-01&g=2026-07-01), bedoelde weerstand tegen branddoorslag en brandoverslag wordt uitgegaan van een identieke maar spiegelsymmetrisch op een afstand van 5 m geplaatste woonwagen.
+4. Bij het bepalen van de in [artikel 4.53, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.53&z=2026-09-24&g=2026-09-24), bedoelde weerstand tegen branddoorslag en brandoverslag wordt uitgegaan van een identieke maar spiegelsymmetrisch op een afstand van 5 m geplaatste woonwagen.
 
 ##### Artikel 4.55. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.50](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.50&z=2026-07-01&g=2026-07-01) en [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.51&z=2026-07-01&g=2026-07-01) van toepassing en is [artikel 4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.53&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing waarbij de weerstand tegen branddoorslag en brandoverslag ten minste 30 minuten is.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.50](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.50&z=2026-09-24&g=2026-09-24) en [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.51&z=2026-09-24&g=2026-09-24) van toepassing en is [artikel 4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.53&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing waarbij de weerstand tegen branddoorslag en brandoverslag ten minste 30 minuten is.
 
 #### § 4.2.9. Verdere beperking van uitbreiding van brand en beperking van verspreiding van rook
 
 ##### Artikel 4.56. (aansturingsartikel)
 
-1. Een bouwwerk is zodanig dat uitbreiding van brand en verspreiding van rook in verdergaande mate wordt beperkt dan is beoogd met [paragraaf 4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&z=2026-07-01&g=2026-07-01) zodat veilig kan worden gevlucht.
+1. Een bouwwerk is zodanig dat uitbreiding van brand en verspreiding van rook in verdergaande mate wordt beperkt dan is beoogd met [paragraaf 4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&z=2026-09-24&g=2026-09-24) zodat veilig kan worden gevlucht.
 
 2. Als voor een gebruiksfunctie in tabel 4.56 regels zijn aangewezen, wordt voor die gebruiksfunctie aan het eerste lid voldaan door naleving van die regels.
 
@@ -3417,9 +3417,9 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.50](https://wetten
 
 3. In afwijking van het eerste lid kan een verblijfsgebied voor bewaking buiten een subbrandcompartiment liggen als:
 
-- a. constructieonderdelen in dat gebied voldoen aan de eisen die de [artikelen 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-07-01&g=2026-07-01) en [4.45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.45a&z=2026-07-01&g=2026-07-01), stellen aan constuctieonderdelen die grenzen aan de binnenlucht in een ruimte waardoor een beschermde vluchtroute voert; en
+- a. constructieonderdelen in dat gebied voldoen aan de eisen die de [artikelen 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-09-24&g=2026-09-24) en [4.45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.45a&z=2026-09-24&g=2026-09-24), stellen aan constuctieonderdelen die grenzen aan de binnenlucht in een ruimte waardoor een beschermde vluchtroute voert; en
 
-- b. aankleding in dat gebied voldoet aan de eisen die [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.14&z=2026-07-01&g=2026-07-01) stelt aan aankleding in een ruimte waardoor een beschermde vluchtroute voert.
+- b. aankleding in dat gebied voldoet aan de eisen die [artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.14&z=2026-09-24&g=2026-09-24) stelt aan aankleding in een ruimte waardoor een beschermde vluchtroute voert.
 
 ##### Artikel 4.58. (beschermd subbrandcompartiment: ligging)
 
@@ -3433,7 +3433,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.50](https://wetten
 
 ##### Artikel 4.59. (beschermd subbrandcompartiment: omvang)
 
-1. Een beschermd subbrandcompartiment heeft een gebruiksoppervlakte van ten hoogste de in [tabel 4.56](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.56&z=2026-07-01&g=2026-07-01) aangegeven oppervlakte.
+1. Een beschermd subbrandcompartiment heeft een gebruiksoppervlakte van ten hoogste de in [tabel 4.56](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.56&z=2026-09-24&g=2026-09-24) aangegeven oppervlakte.
 
 2. In afwijking van het eerste lid is een gezamenlijke verblijfsruimte een afzonderlijk beschermd subbrandcompartiment met een gebruiksoppervlakte van ten hoogste 500 m2.
 
@@ -3463,7 +3463,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.50](https://wetten
 
 3. De weerstand tegen rookdoorgang van een subbrandcompartiment naar een beschermd subbrandcompartiment, gelegen in een ander subbrandcompartiment, is R200 bepaald volgens NEN 6075.
 
-4. De weerstand tegen rookdoorgang van een subbrandcompartiment naar een besloten ruimte waardoor een extra beschermde vluchtroute voert en naar een liftschacht als bedoeld in [artikel 4.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.53&z=2026-07-01&g=2026-07-01), is R200 bepaald volgens NEN 6075.
+4. De weerstand tegen rookdoorgang van een subbrandcompartiment naar een besloten ruimte waardoor een extra beschermde vluchtroute voert en naar een liftschacht als bedoeld in [artikel 4.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.53&z=2026-09-24&g=2026-09-24), is R200 bepaald volgens NEN 6075.
 
 ##### Artikel 4.62. (beschermd subbrandcompartiment: weerstand tegen rookdoorgang)
 
@@ -3477,7 +3477,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.50](https://wetten
 
 ##### Artikel 4.63. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.60&z=2026-07-01&g=2026-07-01), [4.61](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.61&z=2026-07-01&g=2026-07-01) en [4.62](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.62&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.60&z=2026-09-24&g=2026-09-24), [4.61](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.61&z=2026-09-24&g=2026-09-24) en [4.62](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.62&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.2.10. Vluchtroutes: verloop
 
@@ -3526,9 +3526,9 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.60, tweede lid](ht
 
 ##### Artikel 4.66. (vluchten naar de uitgang van een subbrandcompartiment)
 
-1. De gecorrigeerde loopafstand tussen een punt in een gebruiksgebied en ten minste een uitgang van het subbrandcompartiment waarin dat gebruiksgebied ligt, is niet groter dan de in [tabel 4.64](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.64&z=2026-07-01&g=2026-07-01) aangegeven afstand.
+1. De gecorrigeerde loopafstand tussen een punt in een gebruiksgebied en ten minste een uitgang van het subbrandcompartiment waarin dat gebruiksgebied ligt, is niet groter dan de in [tabel 4.64](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.64&z=2026-09-24&g=2026-09-24) aangegeven afstand.
 
-2. In afwijking van het eerste lid wordt bij een niet nader in te delen gebruiksgebied en bij een verblijfsruimte in plaats van de gecorrigeerde loopafstand uitgegaan van de loopafstand die niet groter is dan de in [tabel 4.64](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.64&z=2026-07-01&g=2026-07-01) aangegeven afstand.
+2. In afwijking van het eerste lid wordt bij een niet nader in te delen gebruiksgebied en bij een verblijfsruimte in plaats van de gecorrigeerde loopafstand uitgegaan van de loopafstand die niet groter is dan de in [tabel 4.64](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.64&z=2026-09-24&g=2026-09-24) aangegeven afstand.
 
 3. In afwijking van het eerste en tweede lid geldt bij een bezetting van minder dan 1 persoon per 12 m2 gebruiksoppervlakte van het subbrandcompartiment een afstand van ten hoogste 45 m.
 
@@ -3542,7 +3542,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.60, tweede lid](ht
 
 ##### Artikel 4.67. (uitgang van een beschermd subbrandcompartiment)
 
-Ten minste een uitgang van een beschermd subbrandcompartiment als bedoeld in [artikel 4.58, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.58&z=2026-07-01&g=2026-07-01):
+Ten minste een uitgang van een beschermd subbrandcompartiment als bedoeld in [artikel 4.58, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.58&z=2026-09-24&g=2026-09-24):
 
 - a. is de uitgang van het subbrandcompartiment waarin het beschermde subbrandcompartiment ligt; of
 
@@ -3578,7 +3578,7 @@ Ten minste een uitgang van een beschermd subbrandcompartiment als bedoeld in [ar
 
 5. Een vluchtroute waarop meer dan 37 en ten hoogste 150 personen zijn aangewezen, is vanaf de uitgang van het subbrandcompartiment waarin de vluchtroute begint een extra beschermde vluchtroute, tenzij die uitgang rechtstreeks grenst aan het aansluitende terrein.
 
-6. In een besloten ruimte waardoor een extra beschermde vluchtroute voert, is de loopafstand vanaf de uitgang van het subbrandcompartiment waarin de vluchtroute begint tot het punt waar een tweede vluchtroute of een veiligheidsvluchtroute begint, of tot het aansluitende terrein niet groter dan de in [tabel 4.64](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.64&z=2026-07-01&g=2026-07-01) aangegeven afstand.
+6. In een besloten ruimte waardoor een extra beschermde vluchtroute voert, is de loopafstand vanaf de uitgang van het subbrandcompartiment waarin de vluchtroute begint tot het punt waar een tweede vluchtroute of een veiligheidsvluchtroute begint, of tot het aansluitende terrein niet groter dan de in [tabel 4.64](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.64&z=2026-09-24&g=2026-09-24) aangegeven afstand.
 
 7. Een vluchtroute in een trappenhuis waarin een hoogteverschil van meer dan 8 m wordt overbrugd, is een extra beschermde vluchtroute.
 
@@ -3590,7 +3590,7 @@ Ten minste een uitgang van een beschermd subbrandcompartiment als bedoeld in [ar
 
 ##### Artikel 4.71. (tweede vluchtroute)
 
-1. Als op een vluchtroute een tweede vluchtroute begint zijn de [artikelen 4.68](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.68&z=2026-07-01&g=2026-07-01), [4.69, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.69&z=2026-07-01&g=2026-07-01), en [4.70](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.70&z=2026-07-01&g=2026-07-01) niet van toepassing vanaf het punt dat de twee vluchtroutes door verschillende ruimten voeren.
+1. Als op een vluchtroute een tweede vluchtroute begint zijn de [artikelen 4.68](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.68&z=2026-09-24&g=2026-09-24), [4.69, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.69&z=2026-09-24&g=2026-09-24), en [4.70](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.70&z=2026-09-24&g=2026-09-24) niet van toepassing vanaf het punt dat de twee vluchtroutes door verschillende ruimten voeren.
 
 2. Buiten het brandcompartiment waarin de in het eerste lid bedoelde tweede vluchtroute begint, voeren de twee vluchtroutes niet door eenzelfde brandcompartiment.
 
@@ -3610,7 +3610,7 @@ Ten minste een uitgang van een beschermd subbrandcompartiment als bedoeld in [ar
 
 ##### Artikel 4.72. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.65 tot en met 4.71](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.65&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.65 tot en met 4.71](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.65&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.2.11. Vluchtroutes: inrichting en capaciteit
 
@@ -3657,15 +3657,15 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.65 tot en met 4.71
 
 4. De weerstand tegen rookdoorgang van een besloten ruimte waardoor een extra beschermde vluchtroute voert naar een in de vluchtrichting aansluitend besloten trappenhuis waardoor een extra beschermde vluchtroute voert, is R200 bepaald volgens NEN 6075.
 
-5. De weerstand tegen rookdoorgang tussen de twee ruimten, bedoeld in [artikel 4.71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.71&z=2026-07-01&g=2026-07-01), is R200 bepaald volgens NEN 6075.
+5. De weerstand tegen rookdoorgang tussen de twee ruimten, bedoeld in [artikel 4.71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.71&z=2026-09-24&g=2026-09-24), is R200 bepaald volgens NEN 6075.
 
 ##### Artikel 4.75. (inrichting vluchtroute: weerstand tegen branddoorslag en brandoverslag)
 
-Tussen de verschillende ruimten, bedoeld in [artikel 4.71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.71&z=2026-07-01&g=2026-07-01), is een volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag van ten minste 30 minuten.
+Tussen de verschillende ruimten, bedoeld in [artikel 4.71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.71&z=2026-09-24&g=2026-09-24), is een volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag van ten minste 30 minuten.
 
 ##### Artikel 4.76. (inrichting vluchtroute: permanente vuurlast)
 
-1. Per bouwlaag is de permanente vuurlast van een trappenhuis waardoor een beschermde of een extra beschermde vluchtroute voert, met inbegrip van de vanuit dat trappenhuis rechtstreeks bereikbare besloten ruimten, ten hoogste 3.500 MJ. Bij de bepaling van de vuurlast blijft een besloten ruimte buiten beschouwing als de weerstand tegen branddoorslag en brandoverslag tussen die ruimte en het trappenhuis ten minste 30 minuten is, bepaald volgens NEN 6068. Bij de in rekening te brengen vuurlast van de dakconstructie op de bovenste bouwlaag van het trappenhuis waardoor geen veiligheidsvluchtroute voert, wordt een reductie van 50% toegepast. Dit is niet van toepassing op een trappenhuis als bedoeld in [artikel 4.69, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.69&z=2026-07-01&g=2026-07-01).
+1. Per bouwlaag is de permanente vuurlast van een trappenhuis waardoor een beschermde of een extra beschermde vluchtroute voert, met inbegrip van de vanuit dat trappenhuis rechtstreeks bereikbare besloten ruimten, ten hoogste 3.500 MJ. Bij de bepaling van de vuurlast blijft een besloten ruimte buiten beschouwing als de weerstand tegen branddoorslag en brandoverslag tussen die ruimte en het trappenhuis ten minste 30 minuten is, bepaald volgens NEN 6068. Bij de in rekening te brengen vuurlast van de dakconstructie op de bovenste bouwlaag van het trappenhuis waardoor geen veiligheidsvluchtroute voert, wordt een reductie van 50% toegepast. Dit is niet van toepassing op een trappenhuis als bedoeld in [artikel 4.69, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.69&z=2026-09-24&g=2026-09-24).
 
 2. Per bouwlaag is de permanente vuurlast van een besloten ruimte waardoor een veiligheidsvluchtroute voert, met inbegrip van de vanuit die ruimte rechtstreeks bereikbare besloten ruimten, ten hoogste 3.500 MJ. Bij de bepaling van de vuurlast blijft een besloten ruimte buiten beschouwing als de weerstand tegen branddoorslag en brandoverslag tussen die ruimte en de ruimte waardoor de veiligheidsvluchtroute voert ten minste 30 minuten is, bepaald volgens NEN 6068.
 
@@ -3677,7 +3677,7 @@ Tussen de verschillende ruimten, bedoeld in [artikel 4.71, eerste lid](https://w
 
 ##### Artikel 4.77a. (voorportaal lift)
 
-1. Een lifttoegang van een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-07-01&g=2026-07-01) in een woongebouw grenst aan een extra beschermde vluchtroute.
+1. Een lifttoegang van een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-09-24&g=2026-09-24) in een woongebouw grenst aan een extra beschermde vluchtroute.
 
 2. Een uitgang van een woonfunctie grenst niet aan een in het eerste lid bedoelde afzonderlijke vluchtroute.
 
@@ -3689,7 +3689,7 @@ Tussen de verschillende ruimten, bedoeld in [artikel 4.71, eerste lid](https://w
 
 3. Als op een trap in totaal meer dan 600 m2 vloeroppervlakte aan verblijfsgebied is aangewezen, is de breedte van de trap ten minste 1,2 m.
 
-4. Een vluchtroute die voert vanuit een bedgebied voor bedgebonden patiënten naar een ander brandcompartiment als bedoeld in [artikel 4.52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.52&z=2026-07-01&g=2026-07-01), heeft een vrije doorgang waardoor een blok met een lengte van 2,3 m, een hoogte van 1,2 m en een breedte van 1,1 m horizontaal kan worden voortbewogen. Deze route voert niet over een trap of via een liftkooi.
+4. Een vluchtroute die voert vanuit een bedgebied voor bedgebonden patiënten naar een ander brandcompartiment als bedoeld in [artikel 4.52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.52&z=2026-09-24&g=2026-09-24), heeft een vrije doorgang waardoor een blok met een lengte van 2,3 m, een hoogte van 1,2 m en een breedte van 1,1 m horizontaal kan worden voortbewogen. Deze route voert niet over een trap of via een liftkooi.
 
 ##### Artikel 4.79. (inrichting vluchtroute: niet-besloten ruimte)
 
@@ -3713,7 +3713,7 @@ Een niet-besloten ruimte waardoor een vluchtroute voert, heeft een zodanige capa
 
 ##### Artikel 4.81. (doorstroomcapaciteit bij opvangcapaciteit)
 
-1. Op een gedeelte van een vluchtroute, gelegen buiten het subbrandcompartiment waarin de vluchtroute begint, kan van [artikel 4.80](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.80&z=2026-07-01&g=2026-07-01) worden afgeweken als de personen die zijn aangewezen op dat gedeelte en eventueel daarop volgende gedeelten van de vluchtroute het aansluitende terrein kunnen bereiken binnen:
+1. Op een gedeelte van een vluchtroute, gelegen buiten het subbrandcompartiment waarin de vluchtroute begint, kan van [artikel 4.80](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.80&z=2026-09-24&g=2026-09-24) worden afgeweken als de personen die zijn aangewezen op dat gedeelte en eventueel daarop volgende gedeelten van de vluchtroute het aansluitende terrein kunnen bereiken binnen:
 
 - a. 30 minuten als dat gedeelte van de vluchtroute een veiligheidsvluchtroute is;
 
@@ -3761,11 +3761,11 @@ Een niet-besloten ruimte waardoor een vluchtroute voert, heeft een zodanige capa
 
 - j. de opvangcapaciteit van een vloer of hellingbaan is ten hoogste vier personen per m2 vrije vloeroppervlakte;
 
-- k. het gestelde in [artikel 4.80](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.80&z=2026-07-01&g=2026-07-01), waarbij voor «personen» wordt gelezen: personen per minuut;
+- k. het gestelde in [artikel 4.80](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.80&z=2026-09-24&g=2026-09-24), waarbij voor «personen» wordt gelezen: personen per minuut;
 
-- l. het gestelde in [artikel 4.216, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.216&z=2026-07-01&g=2026-07-01), waarbij voor «37 personen» wordt gelezen: 37 personen per minuut;
+- l. het gestelde in [artikel 4.216, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.216&z=2026-09-24&g=2026-09-24), waarbij voor «37 personen» wordt gelezen: 37 personen per minuut;
 
-- m. in afwijking van onderdeel l geldt het gestelde in [artikel 4.216, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.216&z=2026-07-01&g=2026-07-01), onverkort als in de ruimte voor de deur tijdens een tijdstap meer dan 37 personen aanwezig zijn;
+- m. in afwijking van onderdeel l geldt het gestelde in [artikel 4.216, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.216&z=2026-09-24&g=2026-09-24), onverkort als in de ruimte voor de deur tijdens een tijdstap meer dan 37 personen aanwezig zijn;
 
 - n. brand ontstaat niet op twee of meer plaatsen tegelijk;
 
@@ -3777,7 +3777,7 @@ Een niet-besloten ruimte waardoor een vluchtroute voert, heeft een zodanige capa
 
 ##### Artikel 4.82. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.80](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.80&z=2026-07-01&g=2026-07-01) en [4.81](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.81&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.80](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.80&z=2026-09-24&g=2026-09-24) en [4.81](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.81&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.2.12. Hulpverlening bij brand
 
@@ -3825,7 +3825,7 @@ Een wegtunnelbuis met een lengte van meer dan 250 m heeft een zodanig aantal hu
 
 ##### Artikel 4.87. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.84](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.84&z=2026-07-01&g=2026-07-01) en [4.85](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.85&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.84](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.84&z=2026-09-24&g=2026-09-24) en [4.85](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.85&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.2.13. Hoge en ondergrondse gebouwen
 
@@ -3839,11 +3839,11 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.84](https://wetten
 
 1. Een bouwwerk waarin een vloer van een gebruiksgebied hoger dan 70 m boven het meetniveau ligt:
 
-- a. is zo ingericht dat het bouwwerk een zelfde mate van brandveiligheid heeft als beoogd met de [paragrafen 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&z=2026-07-01&g=2026-07-01), [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.6&z=2026-07-01&g=2026-07-01), [4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&z=2026-07-01&g=2026-07-01), [4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&z=2026-07-01&g=2026-07-01), [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&z=2026-07-01&g=2026-07-01), [4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&z=2026-07-01&g=2026-07-01), [4.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&z=2026-07-01&g=2026-07-01) en [4.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&z=2026-07-01&g=2026-07-01); of
+- a. is zo ingericht dat het bouwwerk een zelfde mate van brandveiligheid heeft als beoogd met de [paragrafen 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&z=2026-09-24&g=2026-09-24), [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.6&z=2026-09-24&g=2026-09-24), [4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&z=2026-09-24&g=2026-09-24), [4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&z=2026-09-24&g=2026-09-24), [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&z=2026-09-24&g=2026-09-24), [4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&z=2026-09-24&g=2026-09-24), [4.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&z=2026-09-24&g=2026-09-24) en [4.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&z=2026-09-24&g=2026-09-24); of
 
 - b. voldoet aan de SBRCURnet Handreiking – Brandveiligheid in hoge gebouwen.
 
-2. Een bouwwerk waarin een vloer van een gebruiksgebied lager dan 8 m onder het meetniveau ligt, is zo ingericht dat het bouwwerk een zelfde mate van brandveiligheid heeft als beoogd met de [paragrafen 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&z=2026-07-01&g=2026-07-01), [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.6&z=2026-07-01&g=2026-07-01), [4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&z=2026-07-01&g=2026-07-01), [4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&z=2026-07-01&g=2026-07-01), [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&z=2026-07-01&g=2026-07-01), [4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&z=2026-07-01&g=2026-07-01), [4.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&z=2026-07-01&g=2026-07-01) en [4.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&z=2026-07-01&g=2026-07-01).
+2. Een bouwwerk waarin een vloer van een gebruiksgebied lager dan 8 m onder het meetniveau ligt, is zo ingericht dat het bouwwerk een zelfde mate van brandveiligheid heeft als beoogd met de [paragrafen 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&z=2026-09-24&g=2026-09-24), [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.6&z=2026-09-24&g=2026-09-24), [4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&z=2026-09-24&g=2026-09-24), [4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&z=2026-09-24&g=2026-09-24), [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&z=2026-09-24&g=2026-09-24), [4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&z=2026-09-24&g=2026-09-24), [4.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&z=2026-09-24&g=2026-09-24) en [4.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&z=2026-09-24&g=2026-09-24).
 
 #### § 4.2.14. Brand- en explosievoorschriftengebieden
 
@@ -3903,7 +3903,7 @@ Een uitwendige scheidingsconstructie van een brandcompartiment heeft voor zover 
 
 ##### Artikel 4.95. (sterkte bij brand)
 
-Voor een bouwwerk of een gedeelte daarvan dat is gelegen in een brandvoorschriftengebied, zijn de regels van [paragraaf 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing waarbij een in een brandvoorschriftengebied gelegen buitenruimte een brandcompartiment is en wordt uitgegaan van een buitenbrandkromme volgens NEN-EN 13501-2.
+Voor een bouwwerk of een gedeelte daarvan dat is gelegen in een brandvoorschriftengebied, zijn de regels van [paragraaf 4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing waarbij een in een brandvoorschriftengebied gelegen buitenruimte een brandcompartiment is en wordt uitgegaan van een buitenbrandkromme volgens NEN-EN 13501-2.
 
 ##### Artikel 4.96. (scherfwerking)
 
@@ -3987,11 +3987,11 @@ Een uitwendige scheidingsconstructie van een verblijfsgebied heeft een volgens N
 
 ##### Artikel 4.103a. (afbakening maatwerkvoorschriften geluidwering)
 
-Een maatwerkvoorschrift over [artikel 4.103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103&z=2026-07-01&g=2026-07-01), kan alleen inhouden dat het gezamenlijke geluid opnieuw wordt bepaald.
+Een maatwerkvoorschrift over [artikel 4.103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103&z=2026-09-24&g=2026-09-24), kan alleen inhouden dat het gezamenlijke geluid opnieuw wordt bepaald.
 
 ##### Artikel 4.103b. (niet-geluidgevoelige gevel)
 
-1. Bij een niet-geluidgevoelige gevel als bedoeld in [bijlage I bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=I) wordt bij de toepassing van [artikel 4.103, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103&z=2026-07-01&g=2026-07-01), uitgegaan van het gezamenlijke geluid op die gevel, verhoogd met 3 dB.
+1. Bij een niet-geluidgevoelige gevel als bedoeld in [bijlage I bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=I) wordt bij de toepassing van [artikel 4.103, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103&z=2026-09-24&g=2026-09-24), uitgegaan van het gezamenlijke geluid op die gevel, verhoogd met 3 dB.
 
 2. Bij een niet-geluidgevoelige gevel met bouwkundige maatregelen als bedoeld in [bijlage I bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=I):
 
@@ -4001,9 +4001,9 @@ Een maatwerkvoorschrift over [artikel 4.103, eerste lid](https://wetten.overheid
 
 ##### Artikel 4.103c. (overgangsrecht: Wet geluidhinder)
 
-1. Als de regels voor het bouwwerk deel uitmaken van het tijdelijke deel van het omgevingsplan, bedoeld in [artikel 22.1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1), of voorschriften voor het bouwwerk zijn gesteld in een omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit die is aangevraagd voor de inwerkingtreding van de wet, is [artikel 4.103b, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103b&z=2026-07-01&g=2026-07-01), van overeenkomstige toepassing op een uitwendige scheidingsconstructie die op grond van [artikel 1b, vierde lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=1b) niet als gevel werd beschouwd.
+1. Als de regels voor het bouwwerk deel uitmaken van het tijdelijke deel van het omgevingsplan, bedoeld in [artikel 22.1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1), of voorschriften voor het bouwwerk zijn gesteld in een omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit die is aangevraagd voor de inwerkingtreding van de wet, is [artikel 4.103b, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103b&z=2026-09-24&g=2026-09-24), van overeenkomstige toepassing op een uitwendige scheidingsconstructie die op grond van [artikel 1b, vierde lid, van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=1b) niet als gevel werd beschouwd.
 
-2. Als voor een bouwwerk in het geluidaandachtsgebied, bedoeld in [bijlage I bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=I), van een weg, spoorweg of industrieterrein het gezamenlijke geluid, bedoeld in [artikel 4.103, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103&z=2026-07-01&g=2026-07-01), niet is bepaald in een van de in dat onderdeel genoemde besluiten, wordt het gezamenlijke geluid voor een verblijfsgebied berekend volgens bij ministeriële regeling gestelde regels op basis van:
+2. Als voor een bouwwerk in het geluidaandachtsgebied, bedoeld in [bijlage I bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=I), van een weg, spoorweg of industrieterrein het gezamenlijke geluid, bedoeld in [artikel 4.103, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103&z=2026-09-24&g=2026-09-24), niet is bepaald in een van de in dat onderdeel genoemde besluiten, wordt het gezamenlijke geluid voor een verblijfsgebied berekend volgens bij ministeriële regeling gestelde regels op basis van:
 
 - a. de ten hoogste toelaatbare geluidsbelasting die op grond van [artikel IX van het Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679&artikel=IX) onderdeel is van het tijdelijke deel van het omgevingsplan, bedoeld in [artikel 22.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1), waarbij voor wegen de gehanteerde aftrek op basis van [artikel 110g van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=110g) wordt opgeteld; of
 
@@ -4030,7 +4030,7 @@ Een maatwerkvoorschrift over [artikel 4.103, eerste lid](https://wetten.overheid
 
 ##### Artikel 4.105. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.102 tot en met 4.104](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.102&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing, waarbij bij een tijdelijk bouwwerk met een instandhoudingstermijn van ten hoogste 10 jaar wordt uitgegaan van een niveau van eisen dat 10 dB of dB(A) lager is dan het in die artikelen bedoelde niveau.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.102 tot en met 4.104](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.102&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing, waarbij bij een tijdelijk bouwwerk met een instandhoudingstermijn van ten hoogste 10 jaar wordt uitgegaan van een niveau van eisen dat 10 dB of dB(A) lager is dan het in die artikelen bedoelde niveau.
 
 #### § 4.3.2. Bescherming tegen geluid van bouwwerkinstallaties
 
@@ -4071,13 +4071,13 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.102 tot en met 4.1
 
 1. Een toilet met waterspoeling, een kraan, een mechanische voorziening voor luchtverversing, een installatie voor warmte- of koudeopwekking, een installatie voor het verhogen van waterdruk of een lift veroorzaakt in een niet-gemeenschappelijk verblijfsgebied van een aangrenzende op hetzelfde bouwwerkperceel gelegen woonfunctie een volgens NEN 5077 bepaald karakteristiek installatie-geluidsniveau van ten hoogste 30 dB.
 
-2. Een mechanische voorziening voor luchtverversing of warmterugwinning, of een installatie voor warmte- of koudeopwekking veroorzaakt in een niet-gemeenschappelijk verblijfsgebied van de gebruiksfunctie een volgens NEN 5077 bepaald karakteristiek installatie-geluidsniveau van ten hoogste het in [tabel 4.106](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.106&z=2026-07-01&g=2026-07-01) aangegeven geluidniveau.
+2. Een mechanische voorziening voor luchtverversing of warmterugwinning, of een installatie voor warmte- of koudeopwekking veroorzaakt in een niet-gemeenschappelijk verblijfsgebied van de gebruiksfunctie een volgens NEN 5077 bepaald karakteristiek installatie-geluidsniveau van ten hoogste het in [tabel 4.106](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.106&z=2026-09-24&g=2026-09-24) aangegeven geluidniveau.
 
 3. Een installatie voor warmte- of koudeopwekking, die is opgesteld buiten de uitwendige scheidingsconstructie van een bouwwerk, veroorzaakt ter plaatse van een te openen raam of deur van een niet-gemeenschappelijk verblijfsgebied van een aangrenzende op hetzelfde bouwwerkperceel gelegen woonfunctie een geluidsniveau van ten hoogste 40 dB, berekend volgens de bij ministeriële regeling gestelde regels.
 
 ##### Artikel 4.109. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.107](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.107&z=2026-07-01&g=2026-07-01) en [4.108](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.108&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing, waarbij bij een tijdelijk bouwwerk met een instandhoudingstermijn van ten hoogste 10 jaar wordt uitgegaan van een niveau van eisen dat 10 dB lager is dan het in die artikelen bedoelde niveau.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.107](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.107&z=2026-09-24&g=2026-09-24) en [4.108](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.108&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing, waarbij bij een tijdelijk bouwwerk met een instandhoudingstermijn van ten hoogste 10 jaar wordt uitgegaan van een niveau van eisen dat 10 dB lager is dan het in die artikelen bedoelde niveau.
 
 #### § 4.3.3. Beperking van galm
 
@@ -4129,9 +4129,9 @@ Een besloten gemeenschappelijke verkeersruimte voor het ontsluiten van een woonf
 
 2. Het volgens NEN 5077 bepaalde karakteristieke lucht-geluidniveauverschil voor de geluidsoverdracht van een besloten ruimte naar een niet in een verblijfsgebied gelegen besloten ruimte van een aangrenzende woonfunctie op een ander bouwwerkperceel is niet kleiner dan 47 dB.
 
-3. Het volgens NEN 5077 bepaalde gewogen contact-geluidniveau voor de geluidsoverdracht van een besloten ruimte naar een verblijfsgebied van een aangrenzende gebruiksfunctie op een ander bouwwerkperceel is niet groter dan het in [tabel 4.112](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.4&artikel=4.112&z=2026-07-01&g=2026-07-01) aangegeven geluidniveau.
+3. Het volgens NEN 5077 bepaalde gewogen contact-geluidniveau voor de geluidsoverdracht van een besloten ruimte naar een verblijfsgebied van een aangrenzende gebruiksfunctie op een ander bouwwerkperceel is niet groter dan het in [tabel 4.112](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.4&artikel=4.112&z=2026-09-24&g=2026-09-24) aangegeven geluidniveau.
 
-4. Het volgens NEN 5077 bepaalde gewogen contact-geluidniveau voor de geluidsoverdracht van een besloten ruimte naar een niet in een verblijfsgebied gelegen besloten ruimte van een aangrenzende woonfunctie op een ander bouwwerkperceel is niet groter dan het in [tabel 4.112](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.4&artikel=4.112&z=2026-07-01&g=2026-07-01) aangegeven geluidniveau.
+4. Het volgens NEN 5077 bepaalde gewogen contact-geluidniveau voor de geluidsoverdracht van een besloten ruimte naar een niet in een verblijfsgebied gelegen besloten ruimte van een aangrenzende woonfunctie op een ander bouwwerkperceel is niet groter dan het in [tabel 4.112](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.4&artikel=4.112&z=2026-09-24&g=2026-09-24) aangegeven geluidniveau.
 
 ##### Artikel 4.114. (verschillende gebruiksfuncties op hetzelfde bouwwerkperceel)
 
@@ -4139,9 +4139,9 @@ Een besloten gemeenschappelijke verkeersruimte voor het ontsluiten van een woonf
 
 2. Het volgens NEN 5077 bepaalde karakteristieke lucht-geluidniveauverschil voor de geluidsoverdracht van een besloten ruimte naar een niet in een verblijfsgebied gelegen besloten ruimte van een aangrenzende woonfunctie op hetzelfde bouwwerkperceel is niet kleiner dan 47 dB.
 
-3. Het volgens NEN 5077 bepaalde gewogen contact-geluidniveau voor de geluidsoverdracht van een besloten ruimte naar een verblijfsgebied van een aangrenzende woonfunctie op hetzelfde bouwwerkperceel is niet groter dan het in [tabel 4.112](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.4&artikel=4.112&z=2026-07-01&g=2026-07-01) aangegeven geluidniveau.
+3. Het volgens NEN 5077 bepaalde gewogen contact-geluidniveau voor de geluidsoverdracht van een besloten ruimte naar een verblijfsgebied van een aangrenzende woonfunctie op hetzelfde bouwwerkperceel is niet groter dan het in [tabel 4.112](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.4&artikel=4.112&z=2026-09-24&g=2026-09-24) aangegeven geluidniveau.
 
-4. Het volgens NEN 5077 bepaalde gewogen contact-geluidniveau voor de geluidsoverdracht van een besloten ruimte naar een niet in een verblijfsgebied gelegen besloten ruimte van een aangrenzende woonfunctie op hetzelfde bouwwerkperceel is niet groter dan het in [tabel 4.112](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.4&artikel=4.112&z=2026-07-01&g=2026-07-01) aangegeven geluidniveau.
+4. Het volgens NEN 5077 bepaalde gewogen contact-geluidniveau voor de geluidsoverdracht van een besloten ruimte naar een niet in een verblijfsgebied gelegen besloten ruimte van een aangrenzende woonfunctie op hetzelfde bouwwerkperceel is niet groter dan het in [tabel 4.112](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.4&artikel=4.112&z=2026-09-24&g=2026-09-24) aangegeven geluidniveau.
 
 5. Het eerste tot en met vierde lid zijn niet van toepassing op de geluidsoverdracht van een nevengebruiksfunctie van een woonfunctie naar die woonfunctie.
 
@@ -4161,7 +4161,7 @@ Een besloten gemeenschappelijke verkeersruimte voor het ontsluiten van een woonf
 
 ##### Artikel 4.116. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.113 tot en met 4.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.4&artikel=4.113&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing, waarbij bij een tijdelijk bouwwerk met een instandhoudingstermijn van ten hoogste 10 jaar wordt uitgegaan van een niveau van eisen dat 10 dB lager is dan het in die artikelen bedoelde niveau.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.113 tot en met 4.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.4&artikel=4.113&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing, waarbij bij een tijdelijk bouwwerk met een instandhoudingstermijn van ten hoogste 10 jaar wordt uitgegaan van een niveau van eisen dat 10 dB lager is dan het in die artikelen bedoelde niveau.
 
 #### § 4.3.5. Wering van vocht
 
@@ -4201,7 +4201,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.113 tot en met 4.1
 
 ##### Artikel 4.119. (factor van de temperatuur)
 
-Een scheidingsconstructie waarvoor een warmteweerstand als bedoeld in [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-07-01&g=2026-07-01) geldt, heeft aan de zijde die grenst aan een verblijfsgebied een volgens NEN 2778 bepaalde factor van de temperatuur van de binnenoppervlakte, die niet kleiner is dan de in [tabel 4.117](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.5&artikel=4.117&z=2026-07-01&g=2026-07-01) aangegeven waarde.
+Een scheidingsconstructie waarvoor een warmteweerstand als bedoeld in [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-09-24&g=2026-09-24) geldt, heeft aan de zijde die grenst aan een verblijfsgebied een volgens NEN 2778 bepaalde factor van de temperatuur van de binnenoppervlakte, die niet kleiner is dan de in [tabel 4.117](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.5&artikel=4.117&z=2026-09-24&g=2026-09-24) aangegeven waarde.
 
 ##### Artikel 4.120. (wateropname)
 
@@ -4259,7 +4259,7 @@ Een scheidingsconstructie waarvoor een warmteweerstand als bedoeld in [artikel 4
 
 - b. 0,7 dm3/s per m2 vloeroppervlakte met een minimum van 7 dm3/s bij een verblijfsruimte.
 
-2. Een verblijfsgebied en een verblijfsruimte hebben een voorziening voor luchtverversing met een volgens NEN 1087 bepaalde capaciteit van ten minste de in [tabel 4.121](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.121&z=2026-07-01&g=2026-07-01) aangegeven capaciteit per persoon.
+2. Een verblijfsgebied en een verblijfsruimte hebben een voorziening voor luchtverversing met een volgens NEN 1087 bepaalde capaciteit van ten minste de in [tabel 4.121](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.121&z=2026-09-24&g=2026-09-24) aangegeven capaciteit per persoon.
 
 3. Onverminderd het eerste en tweede lid hebben een verblijfsgebied en een verblijfsruimte met een opstelplaats voor een kooktoestel een voorziening voor luchtverversing met een volgens NEN 1087 bepaalde capaciteit van ten minste 21 dm3/s.
 
@@ -4279,9 +4279,9 @@ De toevoer van verse lucht veroorzaakt in de leefzone van een verblijfsgebied ee
 
 ##### Artikel 4.124. (regelbaarheid en uitschakelbaarheid)
 
-1. Een voorziening voor natuurlijke toevoer van verse lucht is regelbaar in het gebied van 0% tot 30% van de capaciteit, bedoeld in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-07-01&g=2026-07-01), en heeft, bepaald volgens NEN 1087, naast een laagste stand van ten hoogste 10% van die capaciteit en een stand van 100% van die capaciteit, ten minste twee regelstanden in het regelgebied die onderling ten minste 10% in capaciteit verschillen.
+1. Een voorziening voor natuurlijke toevoer van verse lucht is regelbaar in het gebied van 0% tot 30% van de capaciteit, bedoeld in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-09-24&g=2026-09-24), en heeft, bepaald volgens NEN 1087, naast een laagste stand van ten hoogste 10% van die capaciteit en een stand van 100% van die capaciteit, ten minste twee regelstanden in het regelgebied die onderling ten minste 10% in capaciteit verschillen.
 
-2. Een voorziening voor mechanische toevoer van verse lucht heeft een dichtstand, is regelbaar in het gebied van 10% tot 100% van de capaciteit, bedoeld in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-07-01&g=2026-07-01), en heeft naast een laagste stand van ten hoogste 10% van die capaciteit en een stand van 100% van die capaciteit, ten minste een regelstand in het regelgebied.
+2. Een voorziening voor mechanische toevoer van verse lucht heeft een dichtstand, is regelbaar in het gebied van 10% tot 100% van de capaciteit, bedoeld in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-09-24&g=2026-09-24), en heeft naast een laagste stand van ten hoogste 10% van die capaciteit en een stand van 100% van die capaciteit, ten minste een regelstand in het regelgebied.
 
 3. Een voorziening voor toevoer van verse lucht als bedoeld in het eerste en tweede lid mag zelfregelend zijn in het regelgebied.
 
@@ -4303,7 +4303,7 @@ De toevoer van verse lucht veroorzaakt in de leefzone van een verblijfsgebied ee
 
 ##### Artikel 4.126. (luchtkwaliteit: plaats van de instroomopening en uitmonding)
 
-1. De volgens NEN 1087 bepaalde verdunningsfactor van de uitstoot van een afvoervoorziening voor luchtverversing is ter plaatse van een instroomopening van een voorziening voor luchtverversing als bedoeld in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-07-01&g=2026-07-01) niet groter dan 0,01. Bij de bepaling van de verdunningsfactor blijven buiten het bouwwerkperceel gelegen afvoervoorzieningen en belemmeringen buiten beschouwing.
+1. De volgens NEN 1087 bepaalde verdunningsfactor van de uitstoot van een afvoervoorziening voor luchtverversing is ter plaatse van een instroomopening van een voorziening voor luchtverversing als bedoeld in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-09-24&g=2026-09-24) niet groter dan 0,01. Bij de bepaling van de verdunningsfactor blijven buiten het bouwwerkperceel gelegen afvoervoorzieningen en belemmeringen buiten beschouwing.
 
 2. Een instroomopening en een uitmonding van een voorziening voor luchtverversing liggen op een afstand van ten minste 2 m van de bouwwerkperceelsgrens, gemeten loodrecht op de uitwendige scheidingsconstructie van de gebruiksfunctie. Dit is niet van toepassing op een in een dak gelegen instroomopening of uitmonding. Als het bouwwerkperceel grenst aan een openbare weg, openbaar water of openbaar groen, wordt die afstand aangehouden tot het hart van die weg, dat water of dat groen.
 
@@ -4315,9 +4315,9 @@ De toevoer van verse lucht veroorzaakt in de leefzone van een verblijfsgebied ee
 
 ##### Artikel 4.127. (luchtkwaliteit: toevoer van ventilatielucht)
 
-1. De toevoer van de in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-07-01&g=2026-07-01) bedoelde hoeveelheid verse lucht naar een verblijfsgebied vindt rechtstreeks van buiten plaats.
+1. De toevoer van de in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-09-24&g=2026-09-24) bedoelde hoeveelheid verse lucht naar een verblijfsgebied vindt rechtstreeks van buiten plaats.
 
-2. In afwijking van het eerste lid mag, bij de toevoer van verse lucht naar een niet-gemeenschappelijk verblijfsgebied, ten hoogste 50% van de in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-07-01&g=2026-07-01) bedoelde hoeveelheid via een niet-gemeenschappelijk verblijfsgebied of niet-gemeenschappelijke verkeersruimte van dezelfde gebruiksfunctie worden aangevoerd.
+2. In afwijking van het eerste lid mag, bij de toevoer van verse lucht naar een niet-gemeenschappelijk verblijfsgebied, ten hoogste 50% van de in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-09-24&g=2026-09-24) bedoelde hoeveelheid via een niet-gemeenschappelijk verblijfsgebied of niet-gemeenschappelijke verkeersruimte van dezelfde gebruiksfunctie worden aangevoerd.
 
 3. De toevoer van verse lucht naar een gemeenschappelijke verkeersruimte vindt rechtstreeks van buiten plaats.
 
@@ -4343,13 +4343,13 @@ De toevoer van verse lucht veroorzaakt in de leefzone van een verblijfsgebied ee
 
 4. Bij een wegtunnelbuis met een tunnelbuislengte van meer dan 250 m vindt de afvoer van binnenlucht rechtstreeks naar buiten plaats.
 
-5. Ten minste 21 dm3/s van de capaciteit van de afvoer van binnenlucht uit een verblijfsgebied of een verblijfsruimte waarin zich een opstelplaats voor een kooktoestel als bedoeld in [artikel 4.122, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-07-01&g=2026-07-01), bevindt, wordt rechtstreeks naar buiten afgevoerd.
+5. Ten minste 21 dm3/s van de capaciteit van de afvoer van binnenlucht uit een verblijfsgebied of een verblijfsruimte waarin zich een opstelplaats voor een kooktoestel als bedoeld in [artikel 4.122, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-09-24&g=2026-09-24), bevindt, wordt rechtstreeks naar buiten afgevoerd.
 
 6. De afvoer van binnenlucht uit een stallingruimte voor motorvoertuigen vindt rechtstreeks naar buiten plaats.
 
 ##### Artikel 4.129. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.122 tot en met 4.128](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.122 tot en met 4.128](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.3.7. Spuivoorziening
 
@@ -4387,15 +4387,15 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.122 tot en met 4.1
 
 2. Een verblijfsruimte heeft een spuivoorziening met een volgens NEN 1087 bepaalde capaciteit van de spuiventilatie van ten minste 3 dm3/s per m2 vloeroppervlakte van die ruimte. In een uitwendige scheidingsconstructie van die ruimte zijn beweegbare constructieonderdelen die op die capaciteit zijn afgestemd. Ten minste een van die beweegbare constructieonderdelen is een raam, of een deur die grenst aan een tot de woonfunctie behorende buitenruimte.
 
-3. In afwijking van het eerste en tweede lid kan de bedoelde capaciteit worden gerealiseerd met een in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-07-01&g=2026-07-01) bedoelde voorziening voor luchtverversing.
+3. In afwijking van het eerste en tweede lid kan de bedoelde capaciteit worden gerealiseerd met een in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-09-24&g=2026-09-24) bedoelde voorziening voor luchtverversing.
 
 ##### Artikel 4.132. (plaats van de opening)
 
-Een opening van een spuivoorziening als bedoeld in [artikel 4.131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.7&artikel=4.131&z=2026-07-01&g=2026-07-01), ligt op een afstand van ten minste 2 m van de bouwwerkperceelsgrens, gemeten loodrecht op de uitwendige scheidingsconstructie van de gebruiksfunctie. Als het bouwwerkperceel grenst aan een openbare weg, openbaar water of openbaar groen, wordt die afstand aangehouden tot het hart van die weg, dat water of dat groen.
+Een opening van een spuivoorziening als bedoeld in [artikel 4.131, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.7&artikel=4.131&z=2026-09-24&g=2026-09-24), ligt op een afstand van ten minste 2 m van de bouwwerkperceelsgrens, gemeten loodrecht op de uitwendige scheidingsconstructie van de gebruiksfunctie. Als het bouwwerkperceel grenst aan een openbare weg, openbaar water of openbaar groen, wordt die afstand aangehouden tot het hart van die weg, dat water of dat groen.
 
 ##### Artikel 4.133. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.131](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.7&artikel=4.131&z=2026-07-01&g=2026-07-01) en [4.132](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.7&artikel=4.132&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.131](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.7&artikel=4.131&z=2026-09-24&g=2026-09-24) en [4.132](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.7&artikel=4.132&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.3.8. Afvoer van rookgas en toevoer van verbrandingslucht
 
@@ -4445,7 +4445,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.131](https://wette
 
 ##### Artikel 4.138. (plaats van de uitmonding)
 
-1. De volgens NEN 2757 bepaalde verdunningsfactor van de uitstoot van een afvoervoorziening voor rookgas is ter plaatse van een instroomopening van een voorziening voor luchtverversing als bedoeld in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-07-01&g=2026-07-01) niet groter dan aangegeven in tabel 4.138. Bij de bepaling van de verdunningsfactor blijven buiten het bouwwerkperceel gelegen voorzieningen en belemmeringen buiten beschouwing.
+1. De volgens NEN 2757 bepaalde verdunningsfactor van de uitstoot van een afvoervoorziening voor rookgas is ter plaatse van een instroomopening van een voorziening voor luchtverversing als bedoeld in [artikel 4.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.122&z=2026-09-24&g=2026-09-24) niet groter dan aangegeven in tabel 4.138. Bij de bepaling van de verdunningsfactor blijven buiten het bouwwerkperceel gelegen voorzieningen en belemmeringen buiten beschouwing.
 
 | soort afvoer | verdunningsfactor |
 | --- | --- |
@@ -4469,7 +4469,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.131](https://wette
 
 ##### Artikel 4.139. (plaats van de instroomopening)
 
-1. Bij toevoer van verbrandingslucht via een verblijfsgebied is de volgens NEN 1087 bepaalde verdunningsfactor van de uitstoot van een afvoervoorziening voor luchtverversing en van een afvoervoorziening voor rookgas, ter plaatse van een in de uitwendige scheidingsconstructie gelegen instroomopening voor verbrandingslucht, niet groter dan genoemd in [tabel 4.138](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.138&z=2026-07-01&g=2026-07-01). Bij de bepaling van de verdunningsfactor blijven buiten het bouwwerkperceel gelegen afvoervoorzieningen en belemmeringen buiten beschouwing.
+1. Bij toevoer van verbrandingslucht via een verblijfsgebied is de volgens NEN 1087 bepaalde verdunningsfactor van de uitstoot van een afvoervoorziening voor luchtverversing en van een afvoervoorziening voor rookgas, ter plaatse van een in de uitwendige scheidingsconstructie gelegen instroomopening voor verbrandingslucht, niet groter dan genoemd in [tabel 4.138](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.138&z=2026-09-24&g=2026-09-24). Bij de bepaling van de verdunningsfactor blijven buiten het bouwwerkperceel gelegen afvoervoorzieningen en belemmeringen buiten beschouwing.
 
 2. Een instroomopening van een toevoervoorziening voor verbrandingslucht ligt op een afstand van ten minste 2 m van de bouwwerkperceelsgrens, gemeten loodrecht op de uitwendige scheidingsconstructie van de gebruiksfunctie. Dit is niet van toepassing op een in een dak gelegen instroomopening. Als het bouwwerkperceel grenst aan een openbare weg, openbaar water of openbaar groen, wordt die afstand aangehouden tot het hart van die weg, dat water of dat groen.
 
@@ -4490,7 +4490,7 @@ Het inwendig oppervlak van een afvoervoorziening voor rookgas heeft, ter voorkom
 
 ##### Artikel 4.142. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.135 tot en met 4.141](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.135&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.135 tot en met 4.141](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.135&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.3.9. Bescherming tegen ratten en muizen
 
@@ -4575,9 +4575,9 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.135 tot en met 4.1
 
 ##### Artikel 4.147. (daglichtoppervlakte)
 
-1. Een verblijfsgebied heeft een volgens NEN 2057 bepaalde equivalente daglichtoppervlakte in m2 waarvan de getalswaarde niet kleiner is dan de getalswaarde van het in [tabel 4.146](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.10&artikel=4.146&z=2026-07-01&g=2026-07-01) aangegeven deel van de vloeroppervlakte in m2 van dat verblijfsgebied.
+1. Een verblijfsgebied heeft een volgens NEN 2057 bepaalde equivalente daglichtoppervlakte in m2 waarvan de getalswaarde niet kleiner is dan de getalswaarde van het in [tabel 4.146](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.10&artikel=4.146&z=2026-09-24&g=2026-09-24) aangegeven deel van de vloeroppervlakte in m2 van dat verblijfsgebied.
 
-2. Een verblijfsruimte heeft een volgens NEN 2057 bepaalde equivalente daglichtoppervlakte die niet kleiner is dan de in [tabel 4.146](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.10&artikel=4.146&z=2026-07-01&g=2026-07-01) aangegeven oppervlakte.
+2. Een verblijfsruimte heeft een volgens NEN 2057 bepaalde equivalente daglichtoppervlakte die niet kleiner is dan de in [tabel 4.146](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.10&artikel=4.146&z=2026-09-24&g=2026-09-24) aangegeven oppervlakte.
 
 3. Bij het bepalen van de equivalente daglichtoppervlakte:
 
@@ -4688,13 +4688,13 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.135 tot en met 4.1
 
 ##### Artikel 4.149. (bijna energieneutraal)
 
-1. Een gebruiksfunctie heeft, bepaald volgens NTA 8800, een energiebehoefte en een primair fossiel energiegebruik van ten hoogste de in [tabel 4.148A](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.148&z=2026-07-01&g=2026-07-01) aangegeven waarden en een aandeel hernieuwbare energie van tenminste de in die tabel aangegeven waarde.
+1. Een gebruiksfunctie heeft, bepaald volgens NTA 8800, een energiebehoefte en een primair fossiel energiegebruik van ten hoogste de in [tabel 4.148A](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.148&z=2026-09-24&g=2026-09-24) aangegeven waarden en een aandeel hernieuwbare energie van tenminste de in die tabel aangegeven waarde.
 
-2. In afwijking van het eerste lid worden bij een gebouw of een gedeelte daarvan, dat op niet meer dan een perceel ligt, met meerdere gebruiksfuncties niet van dezelfde soort, waarvoor volgens het eerste lid een eis geldt, bepaald volgens NTA 8800, de waarden voor energiebehoefte en primair fossiel energiegebruik en hernieuwbare energie naar gebruiksoppervlak gewogen. Bij het bepalen van die waarden wordt per gebruiksfunctie uitgegaan van de in [tabel 4.148A](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.148&z=2026-07-01&g=2026-07-01) aangegeven waarden.
+2. In afwijking van het eerste lid worden bij een gebouw of een gedeelte daarvan, dat op niet meer dan een perceel ligt, met meerdere gebruiksfuncties niet van dezelfde soort, waarvoor volgens het eerste lid een eis geldt, bepaald volgens NTA 8800, de waarden voor energiebehoefte en primair fossiel energiegebruik en hernieuwbare energie naar gebruiksoppervlak gewogen. Bij het bepalen van die waarden wordt per gebruiksfunctie uitgegaan van de in [tabel 4.148A](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.148&z=2026-09-24&g=2026-09-24) aangegeven waarden.
 
 3. Bij toepassing van dit artikel gelden voor een nevengebruiksfunctie van de woonfunctie de eisen aan de woonfunctie.
 
-4. Bij toepassing van dit artikel op een gebruiksfunctie in een gebouw of een gedeelte daarvan, met een naar gebruiksoppervlak gewogen gemiddelde specifieke interne warmtecapaciteit van 180 kJ/m2K of minder, bepaald volgens NTA 8800, worden de in [tabel 4.148A](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.148&z=2026-07-01&g=2026-07-01) aangegeven maximumwaarden voor energiebehoefte verhoogd met 5 kWh/m2.jr.
+4. Bij toepassing van dit artikel op een gebruiksfunctie in een gebouw of een gedeelte daarvan, met een naar gebruiksoppervlak gewogen gemiddelde specifieke interne warmtecapaciteit van 180 kJ/m2K of minder, bepaald volgens NTA 8800, worden de in [tabel 4.148A](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.148&z=2026-09-24&g=2026-09-24) aangegeven maximumwaarden voor energiebehoefte verhoogd met 5 kWh/m2.jr.
 
 ##### Artikel 4.149a. (afbakening maatwerkvoorschriften minimumwaarde aandeel hernieuwbare energie)
 
@@ -4740,9 +4740,9 @@ Een maatwerkvoorschrift over de minimumwaarde voor het aandeel hernieuwbare ener
 
 ##### Artikel 4.153. (thermische isolatie: warmtedoorgangscoëfficiënt)
 
-1. Ramen, deuren en kozijnen in een in [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-07-01&g=2026-07-01) bedoelde scheidingsconstructie hebben een volgens NTA 8800 bepaalde warmtedoorgangscoëfficiënt van ten hoogste 2,2 W/m2•K. De gemiddelde warmtedoorgangscoëfficiënt van de ramen, deuren en kozijnen in de in artikel 4.152 bedoelde scheidingsconstructies van een bouwwerk is, bepaald volgens de in het derde lid gegeven methode, ten hoogste 1,65 W/m2•K.
+1. Ramen, deuren en kozijnen in een in [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-09-24&g=2026-09-24) bedoelde scheidingsconstructie hebben een volgens NTA 8800 bepaalde warmtedoorgangscoëfficiënt van ten hoogste 2,2 W/m2•K. De gemiddelde warmtedoorgangscoëfficiënt van de ramen, deuren en kozijnen in de in artikel 4.152 bedoelde scheidingsconstructies van een bouwwerk is, bepaald volgens de in het derde lid gegeven methode, ten hoogste 1,65 W/m2•K.
 
-2. Met ramen, deuren en kozijnen gelijk te stellen constructieonderdelen in een in [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-07-01&g=2026-07-01) bedoelde scheidingsconstructie hebben een volgens NTA 8800 bepaalde warmtedoorgangscoëfficiënt van ten hoogste 1,65 W/m2•K.
+2. Met ramen, deuren en kozijnen gelijk te stellen constructieonderdelen in een in [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-09-24&g=2026-09-24) bedoelde scheidingsconstructie hebben een volgens NTA 8800 bepaalde warmtedoorgangscoëfficiënt van ten hoogste 1,65 W/m2•K.
 
 3. De gemiddelde warmtedoorgangscoëfficiënt, bedoeld in het eerste lid, wordt berekend met de formule:
 
@@ -4764,17 +4764,17 @@ At: het totale geprojecteerde oppervlak van alle ramen, deuren en kozijnen van h
 
 ##### Artikel 4.155. (gebruiksfunctie met een lage energievraag)
 
-1. Op een gebruiksfunctie die niet is bestemd om te worden verwarmd of gekoeld voor personen zijn de [artikelen 4.149 tot en met 4.154](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.149&z=2026-07-01&g=2026-07-01) niet van toepassing.
+1. Op een gebruiksfunctie die niet is bestemd om te worden verwarmd of gekoeld voor personen zijn de [artikelen 4.149 tot en met 4.154](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.149&z=2026-09-24&g=2026-09-24) niet van toepassing.
 
-2. Op een gebruiksfunctie waarbij de in [artikel 4.149, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.149&z=2026-07-01&g=2026-07-01), bedoelde waarde ten hoogste 1% bedraagt van de maximum waarde voor primair fossiel energiegebruik zijn de [artikelen 4.149 tot en met 4.154](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.149&z=2026-07-01&g=2026-07-01) niet van toepassing.
+2. Op een gebruiksfunctie waarbij de in [artikel 4.149, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.149&z=2026-09-24&g=2026-09-24), bedoelde waarde ten hoogste 1% bedraagt van de maximum waarde voor primair fossiel energiegebruik zijn de [artikelen 4.149 tot en met 4.154](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.149&z=2026-09-24&g=2026-09-24) niet van toepassing.
 
 ##### Artikel 4.156. (tijdelijk bouwwerk)
 
-1. Op het bouwen van een tijdelijk bouwwerk dat bestemd is om te worden verwarmd is [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing, met uitzondering van het eerste lid, tweede volzin, het derde lid, tweede volzin, het vijfde lid, tweede volzin, het zesde lid, tweede volzin, het zevende lid en het achtste lid, tweede volzin, en met dien verstande dat de warmteweerstand ten minste de in [tabel 4.148B](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.148&z=2026-07-01&g=2026-07-01) aangegeven waarde is.
+1. Op het bouwen van een tijdelijk bouwwerk dat bestemd is om te worden verwarmd is [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing, met uitzondering van het eerste lid, tweede volzin, het derde lid, tweede volzin, het vijfde lid, tweede volzin, het zesde lid, tweede volzin, het zevende lid en het achtste lid, tweede volzin, en met dien verstande dat de warmteweerstand ten minste de in [tabel 4.148B](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.148&z=2026-09-24&g=2026-09-24) aangegeven waarde is.
 
-2. Op het bouwen van een tijdelijk bouwwerk dat bestemd is om te worden verwarmd is [artikel 4.153](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.153&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing, met uitzondering van het eerste lid, tweede volzin, en met dien verstande dat de warmtedoorgangscoëfficiënt ten hoogste de in [tabel 4.148B](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.148&z=2026-07-01&g=2026-07-01) aangegeven waarde is.
+2. Op het bouwen van een tijdelijk bouwwerk dat bestemd is om te worden verwarmd is [artikel 4.153](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.153&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing, met uitzondering van het eerste lid, tweede volzin, en met dien verstande dat de warmtedoorgangscoëfficiënt ten hoogste de in [tabel 4.148B](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.148&z=2026-09-24&g=2026-09-24) aangegeven waarde is.
 
-3. Op het bouwen van een tijdelijk bouwwerk dat bestemd is om te worden verwarmd is [artikel 4.154](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.154&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+3. Op het bouwen van een tijdelijk bouwwerk dat bestemd is om te worden verwarmd is [artikel 4.154](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.154&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing.
 
 #### § 4.4.2. Milieuprestatie
 
@@ -4811,15 +4811,15 @@ Voor de toepassing van deze paragraaf wordt onder woongebouw ook verstaan: gebou
 
 ##### Artikel 4.159. (milieuprestatie)
 
-1. Voor een gebruiksfunctie geldt een milieuprestatie-eis van ten hoogste de in [tabel 4.158](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&artikel=4.158&z=2026-07-01&g=2026-07-01) aangegeven waarde, bepaald volgens de Bepalingsmethode Milieuprestatie Bouwwerken.
+1. Voor een gebruiksfunctie geldt een milieuprestatie-eis van ten hoogste de in [tabel 4.158](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&artikel=4.158&z=2026-09-24&g=2026-09-24) aangegeven waarde, bepaald volgens de Bepalingsmethode Milieuprestatie Bouwwerken.
 
 2. Bij een nevengebruiksfunctie kan in plaats van de milieuprestatie-eis die geldt voor die nevengebruiksfunctie worden volstaan met de milieuprestatie-eis die geldt voor de gebruiksfunctie ten dienste waarvan die nevengebruiksfunctie staat.
 
 3. In plaats van de milieuprestatie-eis, bedoeld in het eerste lid, geldt een soepelere milieuprestatie-eis berekend volgens de bij ministeriële regeling gestelde regels als:
 
-- a. de gebruiksoppervlakte van de gebruiksfunctie kleiner is dan de in de [tabel 4.158](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&artikel=4.158&z=2026-07-01&g=2026-07-01) aangegeven gebruiksoppervlakte; of
+- a. de gebruiksoppervlakte van de gebruiksfunctie kleiner is dan de in de [tabel 4.158](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&artikel=4.158&z=2026-09-24&g=2026-09-24) aangegeven gebruiksoppervlakte; of
 
-- b. de uitkomst van het delen van de verliesoppervlakte van het gebouw door de gebruiksoppervlakte van het gebouw groter is dan de in [tabel 4.158](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&artikel=4.158&z=2026-07-01&g=2026-07-01) aangegeven waarde.
+- b. de uitkomst van het delen van de verliesoppervlakte van het gebouw door de gebruiksoppervlakte van het gebouw groter is dan de in [tabel 4.158](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&artikel=4.158&z=2026-09-24&g=2026-09-24) aangegeven waarde.
 
 4. In afwijking van het eerste lid geldt voor een gebruiksfunctie van een gebouw, dat op niet meer dan een perceel ligt, met meerdere gebruiksfuncties een milieuprestatie-eis van ten hoogste de gewogen milieuprestatie-eis, bepaald volgens de volgende formule
 
@@ -4873,9 +4873,9 @@ g.o.functie: gebruiksoppervlakte van de gebruiksfunctie.
 
 ##### Artikel 4.160ba. (afbakening maatwerkvoorschriften voorbekabeling en leidingdoorvoeren)
 
-1. Een maatwerkvoorschrift over [artikel 4.160b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.3&artikel=4.160b&z=2026-07-01&g=2026-07-01), kan alleen inhouden dat de voorbekabeling en leidingdoorvoeren van een gebouw als bedoeld in het eerste en tweede lid, de installatie van een belasting- of laadbeheersysteem ondersteunen.
+1. Een maatwerkvoorschrift over [artikel 4.160b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.3&artikel=4.160b&z=2026-09-24&g=2026-09-24), kan alleen inhouden dat de voorbekabeling en leidingdoorvoeren van een gebouw als bedoeld in het eerste en tweede lid, de installatie van een belasting- of laadbeheersysteem ondersteunen.
 
-2. Een maatwerkvoorschrift over [artikel 4.160b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.3&artikel=4.160b&z=2026-07-01&g=2026-07-01), kan alleen inhouden dat een laadpunt geschikt moet zijn voor bi-directioneel laden.
+2. Een maatwerkvoorschrift over [artikel 4.160b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.3&artikel=4.160b&z=2026-09-24&g=2026-09-24), kan alleen inhouden dat een laadpunt geschikt moet zijn voor bi-directioneel laden.
 
 #### § 4.4.4. Systeem voor gebouwautomatisering en -controle
 
@@ -4887,7 +4887,7 @@ g.o.functie: gebruiksoppervlakte van de gebruiksfunctie.
 
 ##### Artikel 4.160d. (systeem voor gebouwautomatisering en -controle)
 
-Het systeem voor gebouwautomatisering en -controle, bedoeld in [artikel 4.160c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.4&artikel=4.160c&z=2026-07-01&g=2026-07-01), is in staat:
+Het systeem voor gebouwautomatisering en -controle, bedoeld in [artikel 4.160c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.4&artikel=4.160c&z=2026-09-24&g=2026-09-24), is in staat:
 
 - a. het energieverbruik permanent te controleren, bij te houden, te analyseren en de bijsturing ervan mogelijk te maken;
 
@@ -4899,7 +4899,7 @@ Het systeem voor gebouwautomatisering en -controle, bedoeld in [artikel 4.160c, 
 
 ##### Artikel 4.160e. (overgangsrecht)
 
-De [artikelen 4.160c](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.4&artikel=4.160c&z=2026-07-01&g=2026-07-01) en [4.160d](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.4&artikel=4.160d&z=2026-07-01&g=2026-07-01) zijn niet van toepassing tot en met 31 december 2025.
+De [artikelen 4.160c](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.4&artikel=4.160c&z=2026-09-24&g=2026-09-24) en [4.160d](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.4&artikel=4.160d&z=2026-09-24&g=2026-09-24) zijn niet van toepassing tot en met 31 december 2025.
 
 #### § 4.4.5. Systeem voor ondersteuning energiegebruik technische bouwsystemen
 
@@ -4946,7 +4946,7 @@ Met een maatwerkregel kunnen alleen gebieden of categorieën woonfuncties worden
 
 ##### Artikel 4.163. (aanwezigheid)
 
-1. Een woonfunctie heeft ten minste de in [tabel 4.162](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.162&z=2026-07-01&g=2026-07-01) aangegeven vloeroppervlakte aan niet-gemeenschappelijk verblijfsgebied.
+1. Een woonfunctie heeft ten minste de in [tabel 4.162](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.162&z=2026-09-24&g=2026-09-24) aangegeven vloeroppervlakte aan niet-gemeenschappelijk verblijfsgebied.
 
 2. Ten minste 55% van de gebruiksoppervlakte van een gebruiksfunctie is verblijfsgebied.
 
@@ -4958,7 +4958,7 @@ Met een maatwerkregel kunnen alleen gebieden of categorieën woonfuncties worden
 
 3. In ten minste een verblijfsgebied ligt een verblijfsruimte met een vloeroppervlakte van ten minste 11 m2 en een breedte van ten minste 3 m.
 
-4. Een verblijfsgebied en een verblijfsruimte hebben ten minste de in [tabel 4.162](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.162&z=2026-07-01&g=2026-07-01) aangegeven hoogte boven de vloer.
+4. Een verblijfsgebied en een verblijfsruimte hebben ten minste de in [tabel 4.162](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.162&z=2026-09-24&g=2026-09-24) aangegeven hoogte boven de vloer.
 
 #### § 4.5.3. Toiletruimte
 
@@ -4987,9 +4987,9 @@ Met een maatwerkregel kunnen alleen gebieden of categorieën woonfuncties worden
 
 ##### Artikel 4.167. (afmetingen toiletruimte)
 
-1. Een toiletruimte als bedoeld in [artikel 4.166](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&artikel=4.166&z=2026-07-01&g=2026-07-01) heeft een vloeroppervlakte van ten minste 0,9 m x 1,2 m.
+1. Een toiletruimte als bedoeld in [artikel 4.166](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&artikel=4.166&z=2026-09-24&g=2026-09-24) heeft een vloeroppervlakte van ten minste 0,9 m x 1,2 m.
 
-2. Een vloeroppervlakte als bedoeld in het eerste lid heeft boven die vloer ten minste de in [tabel 4.165](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&artikel=4.165&z=2026-07-01&g=2026-07-01) aangegeven hoogte.
+2. Een vloeroppervlakte als bedoeld in het eerste lid heeft boven die vloer ten minste de in [tabel 4.165](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&artikel=4.165&z=2026-09-24&g=2026-09-24) aangegeven hoogte.
 
 #### § 4.5.4. Badruimte
 
@@ -5014,11 +5014,11 @@ Een woonfunctie heeft een badruimte.
 
 ##### Artikel 4.170. (afmetingen badruimte)
 
-1. Een badruimte als bedoeld in [artikel 4.169](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&artikel=4.169&z=2026-07-01&g=2026-07-01) heeft een vloeroppervlakte van ten minste 1,6 m2 en een breedte van ten minste 0,8 m.
+1. Een badruimte als bedoeld in [artikel 4.169](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&artikel=4.169&z=2026-09-24&g=2026-09-24) heeft een vloeroppervlakte van ten minste 1,6 m2 en een breedte van ten minste 0,8 m.
 
-2. Een badruimte als bedoeld in [artikel 4.169](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&artikel=4.169&z=2026-07-01&g=2026-07-01) die is samengevoegd met een toiletruimte als bedoeld in [artikel 4.166](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&artikel=4.166&z=2026-07-01&g=2026-07-01) heeft een vloeroppervlakte van ten minste 2,2 m2 en een breedte van ten minste 0,9 m.
+2. Een badruimte als bedoeld in [artikel 4.169](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&artikel=4.169&z=2026-09-24&g=2026-09-24) die is samengevoegd met een toiletruimte als bedoeld in [artikel 4.166](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&artikel=4.166&z=2026-09-24&g=2026-09-24) heeft een vloeroppervlakte van ten minste 2,2 m2 en een breedte van ten minste 0,9 m.
 
-3. Een vloeroppervlakte als bedoeld in het eerste en tweede lid heeft boven die vloer ten minste de in [tabel 4.168](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&artikel=4.168&z=2026-07-01&g=2026-07-01) aangegeven hoogte.
+3. Een vloeroppervlakte als bedoeld in het eerste en tweede lid heeft boven die vloer ten minste de in [tabel 4.168](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&artikel=4.168&z=2026-09-24&g=2026-09-24) aangegeven hoogte.
 
 #### § 4.5.5. Buitenberging
 
@@ -5048,7 +5048,7 @@ Een woonfunctie heeft een badruimte.
 
 ##### Artikel 4.173. (regenwerend)
 
-De uitwendige scheidingsconstructie van een bergruimte als bedoeld in [artikel 4.172](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.172&z=2026-07-01&g=2026-07-01) is, bepaald volgens NEN 2778, regenwerend.
+De uitwendige scheidingsconstructie van een bergruimte als bedoeld in [artikel 4.172](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.172&z=2026-09-24&g=2026-09-24) is, bepaald volgens NEN 2778, regenwerend.
 
 #### § 4.5.6. Buitenruimte
 
@@ -5100,9 +5100,9 @@ De uitwendige scheidingsconstructie van een bergruimte als bedoeld in [artikel 4
 
 ##### Artikel 4.178. (afmetingen opstelplaats)
 
-1. Een opstelplaats voor een aanrecht als bedoeld in [artikel 4.177, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.7&artikel=4.177&z=2026-07-01&g=2026-07-01), heeft een vloeroppervlakte van ten minste 1,5 m x 0,6 m.
+1. Een opstelplaats voor een aanrecht als bedoeld in [artikel 4.177, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.7&artikel=4.177&z=2026-09-24&g=2026-09-24), heeft een vloeroppervlakte van ten minste 1,5 m x 0,6 m.
 
-2. Een opstelplaats voor een kooktoestel als bedoeld in [artikel 4.177, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.7&artikel=4.177&z=2026-07-01&g=2026-07-01), heeft een vloeroppervlakte van ten minste 0,6 m x 0,6 m.
+2. Een opstelplaats voor een kooktoestel als bedoeld in [artikel 4.177, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.7&artikel=4.177&z=2026-09-24&g=2026-09-24), heeft een vloeroppervlakte van ten minste 0,6 m x 0,6 m.
 
 #### Afdeling 4.6. Toegankelijkheid
 
@@ -5142,29 +5142,29 @@ De uitwendige scheidingsconstructie van een bergruimte als bedoeld in [artikel 4
 
 ##### Artikel 4.180. (vrije doorgang: doorgang)
 
-1. Een doorgang heeft een vrije breedte van ten minste 0,85 m en ten minste de in [tabel 4.179](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.179&z=2026-07-01&g=2026-07-01) aangegeven vrije hoogte. Dit geldt voor een doorgang naar:
+1. Een doorgang heeft een vrije breedte van ten minste 0,85 m en ten minste de in [tabel 4.179](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.179&z=2026-09-24&g=2026-09-24) aangegeven vrije hoogte. Dit geldt voor een doorgang naar:
 
 - a. een verblijfsgebied;
 
 - b. een verblijfsruimte;
 
-- c. een toiletruimte als bedoeld in de [artikelen 4.166](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&artikel=4.166&z=2026-07-01&g=2026-07-01) en [4.186](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.186&z=2026-07-01&g=2026-07-01);
+- c. een toiletruimte als bedoeld in de [artikelen 4.166](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&artikel=4.166&z=2026-09-24&g=2026-09-24) en [4.186](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.186&z=2026-09-24&g=2026-09-24);
 
-- d. een badruimte als bedoeld in de [artikelen 4.169](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&artikel=4.169&z=2026-07-01&g=2026-07-01) en [4.186](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.186&z=2026-07-01&g=2026-07-01);
+- d. een badruimte als bedoeld in de [artikelen 4.169](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&artikel=4.169&z=2026-09-24&g=2026-09-24) en [4.186](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.186&z=2026-09-24&g=2026-09-24);
 
-- e. een bergruimte als bedoeld in [artikel 4.171](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.171&z=2026-07-01&g=2026-07-01);
+- e. een bergruimte als bedoeld in [artikel 4.171](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.171&z=2026-09-24&g=2026-09-24);
 
-- f. een buitenruimte als bedoeld in [artikel 4.174](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.6&artikel=4.174&z=2026-07-01&g=2026-07-01); en
+- f. een buitenruimte als bedoeld in [artikel 4.174](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.6&artikel=4.174&z=2026-09-24&g=2026-09-24); en
 
-- g. een ruimte voor het bereiken van een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-07-01&g=2026-07-01).
+- g. een ruimte voor het bereiken van een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-09-24&g=2026-09-24).
 
 Dit geldt ook voor een doorgang op een route vanaf het aansluitende terrein naar een in dit lid bedoelde ruimte.
 
-2. Een lifttoegang heeft een vrije breedte van ten minste 0,85 m en een tussen de onderdelen van de bouwconstructie gemeten hoogte van ten minste de in [tabel 4.179](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.179&z=2026-07-01&g=2026-07-01) aangegeven vrije hoogte.
+2. Een lifttoegang heeft een vrije breedte van ten minste 0,85 m en een tussen de onderdelen van de bouwconstructie gemeten hoogte van ten minste de in [tabel 4.179](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.179&z=2026-09-24&g=2026-09-24) aangegeven vrije hoogte.
 
 ##### Artikel 4.181. (vrije doorgang: verkeersroute)
 
-1. Een verkeersroute die begint bij een doorgang als bedoeld in [artikel 4.180](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.180&z=2026-07-01&g=2026-07-01) loopt door een ruimte met een vrije breedte van ten minste 0,85 m en ten minste de in [tabel 4.179](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.179&z=2026-07-01&g=2026-07-01) aangegeven vrije hoogte. Dit geldt niet voor zover de verkeersroute over een trap voert.
+1. Een verkeersroute die begint bij een doorgang als bedoeld in [artikel 4.180](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.180&z=2026-09-24&g=2026-09-24) loopt door een ruimte met een vrije breedte van ten minste 0,85 m en ten minste de in [tabel 4.179](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.179&z=2026-09-24&g=2026-09-24) aangegeven vrije hoogte. Dit geldt niet voor zover de verkeersroute over een trap voert.
 
 2. Als de in het eerste lid bedoelde ruimte een gemeenschappelijke verkeersruimte is, is de vrije breedte ten minste 1,2 m. Dit geldt niet voor zover de verkeersroute over een trap voert.
 
@@ -5186,11 +5186,11 @@ Dit geldt ook voor een doorgang op een route vanaf het aansluitende terrein naar
 
 2. Bij een hoofdtoegang van een woonfunctie is een hoogteverschil op de route tussen een niet-gemeenschappelijke vloer en de aangrenzende vloer van een gemeenschappelijke verkeersruimte of het aansluitende terrein groter dan 0,02 m, gemeten vanaf de vloer met aankleding, overbrugd door een hellingbaan. Het hoogteverschil tussen die toegang en het aansluitende terrein of de gemeenschappelijke verkeersruimte is niet groter dan 1 m.
 
-3. Bij ten minste een toegang van een niet-gemeenschappelijke buitenruimte als bedoeld in [artikel 4.175, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.6&artikel=4.175&z=2026-07-01&g=2026-07-01), is een hoogteverschil op de route tussen ten minste een niet-gemeenschappelijk verblijfsgebied en de aangrenzende vloer van de buitenruimte, groter dan 0,02 m, gemeten vanaf de vloer met aankleding, overbrugd door een hellingbaan.
+3. Bij ten minste een toegang van een niet-gemeenschappelijke buitenruimte als bedoeld in [artikel 4.175, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.6&artikel=4.175&z=2026-09-24&g=2026-09-24), is een hoogteverschil op de route tussen ten minste een niet-gemeenschappelijk verblijfsgebied en de aangrenzende vloer van de buitenruimte, groter dan 0,02 m, gemeten vanaf de vloer met aankleding, overbrugd door een hellingbaan.
 
-4. Bij ten minste een toegang van een buitenberging als bedoeld in [artikel 4.172](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.172&z=2026-07-01&g=2026-07-01) is een hoogteverschil op de route tussen de vloer van de buitenberging en de aangrenzende vloer van een gemeenschappelijke verkeersruimte of het aansluitende terrein, groter dan 0,02 m, overbrugd door een hellingbaan.
+4. Bij ten minste een toegang van een buitenberging als bedoeld in [artikel 4.172](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.172&z=2026-09-24&g=2026-09-24) is een hoogteverschil op de route tussen de vloer van de buitenberging en de aangrenzende vloer van een gemeenschappelijke verkeersruimte of het aansluitende terrein, groter dan 0,02 m, overbrugd door een hellingbaan.
 
-5. Op ten minste een route tussen ten minste een uitgang van een woonfunctie en een gemeenschappelijke buitenruimte als bedoeld in [artikel 4.175, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.6&artikel=4.175&z=2026-07-01&g=2026-07-01), is een hoogteverschil groter dan 0,02 m, gemeten vanaf de vloer met aankleding, overbrugd door een lift of een hellingbaan.
+5. Op ten minste een route tussen ten minste een uitgang van een woonfunctie en een gemeenschappelijke buitenruimte als bedoeld in [artikel 4.175, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.6&artikel=4.175&z=2026-09-24&g=2026-09-24), is een hoogteverschil groter dan 0,02 m, gemeten vanaf de vloer met aankleding, overbrugd door een lift of een hellingbaan.
 
 6. Een woongebouw waarin de vloer ter plaatse van de toegang van een woonfunctie hoger ligt dan 3 m boven het meetniveau, heeft op elke bouwlaag een opstelplaats voor een lift, met een liftkooi met een vloeroppervlakte van ten minste 1,05 m x 2,05 m.
 
@@ -5244,13 +5244,13 @@ Dit geldt ook voor een doorgang op een route vanaf het aansluitende terrein naar
 
 2. Een woonfunctie voor zorg met een gebruiksoppervlakte van meer dan 500 m2 heeft een toegankelijkheidssector.
 
-3. Een gebruiksfunctie heeft een toegankelijkheidssector als de gebruiksoppervlakte van de gebruiksfunctie, samen met de gebruiksoppervlakte van andere in hetzelfde gebouw gelegen gebruiksfuncties waarvoor deze regel geldt, groter is dan de in [tabel 4.183](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.183&z=2026-07-01&g=2026-07-01) aangegeven oppervlakte.
+3. Een gebruiksfunctie heeft een toegankelijkheidssector als de gebruiksoppervlakte van de gebruiksfunctie, samen met de gebruiksoppervlakte van andere in hetzelfde gebouw gelegen gebruiksfuncties waarvoor deze regel geldt, groter is dan de in [tabel 4.183](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.183&z=2026-09-24&g=2026-09-24) aangegeven oppervlakte.
 
 4. Een bijeenkomstfunctie voor alcoholgebruik met een gebruiksoppervlakte van meer dan 150 m2 heeft een toegankelijkheidssector.
 
 ##### Artikel 4.185. (toegankelijkheidssector: vloeroppervlakte algemeen)
 
-1. In een gebouw met een toegankelijkheidssector ligt ten minste het in [tabel 4.183](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.183&z=2026-07-01&g=2026-07-01) aangegeven percentage van de vloeroppervlakte aan verblijfsgebied van de gebruiksfunctie in een toegankelijkheidssector.
+1. In een gebouw met een toegankelijkheidssector ligt ten minste het in [tabel 4.183](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.183&z=2026-09-24&g=2026-09-24) aangegeven percentage van de vloeroppervlakte aan verblijfsgebied van de gebruiksfunctie in een toegankelijkheidssector.
 
 2. Voor zover de in het eerste lid bedoelde gebruiksfunctie een nevengebruiksfunctie van een kantoor- of industriefunctie is, ligt, in afwijking van het eerste lid, ten minste 40% van de vloeroppervlakte aan verblijfsgebied van die gebruiksfunctie in een toegankelijkheidssector.
 
@@ -5262,7 +5262,7 @@ Dit geldt ook voor een doorgang op een route vanaf het aansluitende terrein naar
 
 3. In een toegankelijkheidssector ligt een integraal toegankelijke toiletruimte.
 
-4. Op een in het derde lid bedoelde toiletruimte zijn niet meer personen aangewezen dan het in [tabel 4.183](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.183&z=2026-07-01&g=2026-07-01) aangegeven aantal.
+4. Op een in het derde lid bedoelde toiletruimte zijn niet meer personen aangewezen dan het in [tabel 4.183](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.183&z=2026-09-24&g=2026-09-24) aangegeven aantal.
 
 5. Een gezondheidszorgfunctie met een bedgebied met toegankelijkheidssector heeft ten minste een integraal toegankelijke badruimte per 500 m2 vloeroppervlakte aan bedgebied, op een geheel getal naar boven afgerond.
 
@@ -5270,7 +5270,7 @@ Dit geldt ook voor een doorgang op een route vanaf het aansluitende terrein naar
 
 ##### Artikel 4.187. (toegankelijkheidssector: vloeroppervlakte specifieke ruimten)
 
-1. In een in [artikel 4.186, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.186&z=2026-07-01&g=2026-07-01), bedoeld verblijfsgebied is ten minste een verblijfsruimte met een vloeroppervlakte van ten minste 14 m2 bij een breedte van ten minste 3,2 m.
+1. In een in [artikel 4.186, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.186&z=2026-09-24&g=2026-09-24), bedoeld verblijfsgebied is ten minste een verblijfsruimte met een vloeroppervlakte van ten minste 14 m2 bij een breedte van ten minste 3,2 m.
 
 2. Een integraal toegankelijke toiletruimte heeft een vloeroppervlakte van ten minste 1,65 m x 2,2 m.
 
@@ -5288,7 +5288,7 @@ Dit geldt ook voor een doorgang op een route vanaf het aansluitende terrein naar
 
 4. Een verkeersroute als bedoeld in het eerste lid voert niet door een niet-gemeenschappelijke ruimte van een andere gebruiksfunctie.
 
-5. De toegang van een woonfunctie gelegen in een woongebouw met een gemeenschappelijke toegankelijkheidssector als bedoeld in [artikel 4.184, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.184&z=2026-07-01&g=2026-07-01), grenst aan een gemeenschappelijke toegankelijkheidssector.
+5. De toegang van een woonfunctie gelegen in een woongebouw met een gemeenschappelijke toegankelijkheidssector als bedoeld in [artikel 4.184, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.184&z=2026-09-24&g=2026-09-24), grenst aan een gemeenschappelijke toegankelijkheidssector.
 
 ##### Artikel 4.189. (toegankelijkheidssector: hoogteverschillen)
 
@@ -5296,11 +5296,11 @@ Op ten minste een route tussen een punt in een toegankelijkheidssector en het aa
 
 ##### Artikel 4.190. (lift: afmetingen en loopafstand)
 
-1. De kooi van een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-07-01&g=2026-07-01) heeft een vloeroppervlakte van ten minste 1,05 m x 1,35 m.
+1. De kooi van een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-09-24&g=2026-09-24) heeft een vloeroppervlakte van ten minste 1,05 m x 1,35 m.
 
 2. In afwijking van het eerste lid heeft de kooi van een lift in een woongebouw met meer dan zes woonfuncties een vloeroppervlakte van ten minste 1,05 m x 2,05 m.
 
-3. De loopafstand tussen de toegang van een woonfunctie en de toegang van ten minste een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-07-01&g=2026-07-01) is ten hoogste 90 m. Als het tweede lid van toepassing is, wordt de loopafstand bepaald tussen de toegang van de woonfunctie en de toegang van ten minste een in het tweede lid bedoelde lift.
+3. De loopafstand tussen de toegang van een woonfunctie en de toegang van ten minste een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-09-24&g=2026-09-24) is ten hoogste 90 m. Als het tweede lid van toepassing is, wordt de loopafstand bepaald tussen de toegang van de woonfunctie en de toegang van ten minste een in het tweede lid bedoelde lift.
 
 #### § 4.6.3. Bereikbaarheid van een bouwwerk
 
@@ -5345,33 +5345,33 @@ Op ten minste een route tussen een punt in een toegankelijkheidssector en het aa
 
 - b. bij een te overbruggen hoogteverschil op deze route van meer dan 0,02 m:
 
-   - i. bij een verhard pad: een helling die voldoet aan [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-07-01&g=2026-07-01); en
+   - i. bij een verhard pad: een helling die voldoet aan [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-09-24&g=2026-09-24); en
 
-   - ii. bij een steiger: een hellingbaan als bedoeld in [paragraaf 4.2.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&z=2026-07-01&g=2026-07-01)
+   - ii. bij een steiger: een hellingbaan als bedoeld in [paragraaf 4.2.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&z=2026-09-24&g=2026-09-24)
 
 2. Een hoofdtoegang van een woongebouw zonder toegankelijkheidssector grenst aan de openbare weg of grenst aan een route naar de openbare weg die over een verhard pad voert met:
 
 - a. een breedte van ten minste 1,1 m; en
 
-- b. bij een te overbruggen hoogteverschil op deze route van meer dan 0,02 m: een helling die voldoet aan [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-07-01&g=2026-07-01).
+- b. bij een te overbruggen hoogteverschil op deze route van meer dan 0,02 m: een helling die voldoet aan [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-09-24&g=2026-09-24).
 
-3. Een hoofdtoegang van een woonfunctie als bedoeld in [artikel 4.182, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.182&z=2026-07-01&g=2026-07-01), die niet gelegen is in een woongebouw, grenst aan de openbare weg of grenst aan een route naar de openbare weg die over een verhard pad voert met:
+3. Een hoofdtoegang van een woonfunctie als bedoeld in [artikel 4.182, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.1&artikel=4.182&z=2026-09-24&g=2026-09-24), die niet gelegen is in een woongebouw, grenst aan de openbare weg of grenst aan een route naar de openbare weg die over een verhard pad voert met:
 
 - a. een breedte van ten minste 0,85 m; en
 
-- b. bij een te overbruggen hoogteverschil op deze route van meer dan 0,02 m: een helling die voldoet aan [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-07-01&g=2026-07-01).
+- b. bij een te overbruggen hoogteverschil op deze route van meer dan 0,02 m: een helling die voldoet aan [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-09-24&g=2026-09-24).
 
 4. Een hoofdtoegang van een gebruiksfunctie in een gebouw zonder toegankelijkheidssector, die rechtstreeks bereikbaar is vanaf het aansluitende terrein, grenst aan de openbare weg of grenst aan een route naar de openbare weg die over een verhard pad voert met:
 
 - a. een breedte van ten minste 1,1 m; en
 
-- b. bij een te overbruggen hoogteverschil op deze route van meer dan 0,02 m: een helling die voldoet aan [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-07-01&g=2026-07-01).
+- b. bij een te overbruggen hoogteverschil op deze route van meer dan 0,02 m: een helling die voldoet aan [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-09-24&g=2026-09-24).
 
-5. De toegang van een buitenberging of de toegang van de gemeenschappelijk verkeersruimte naar een buitenberging als bedoeld in [artikel 4.172, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.172&z=2026-07-01&g=2026-07-01), grenst aan de openbare weg of grenst aan een route naar de openbare weg die over een verhard pad voert met:
+5. De toegang van een buitenberging of de toegang van de gemeenschappelijk verkeersruimte naar een buitenberging als bedoeld in [artikel 4.172, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.5&artikel=4.172&z=2026-09-24&g=2026-09-24), grenst aan de openbare weg of grenst aan een route naar de openbare weg die over een verhard pad voert met:
 
 - a. een breedte van ten minste 1,1 m; en
 
-- b. bij een te overbruggen hoogteverschil op deze route van meer dan 0,02 m: een helling die voldoet aan [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-07-01&g=2026-07-01).
+- b. bij een te overbruggen hoogteverschil op deze route van meer dan 0,02 m: een helling die voldoet aan [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.4&artikel=4.30&z=2026-09-24&g=2026-09-24).
 
 6. Een doorgang waardoor een in het eerste tot en met vijfde lid bedoelde route voert, heeft een vrije breedte van ten minste 0,85 m en een vrije hoogte van ten minste 2 m.
 
@@ -5429,7 +5429,7 @@ Op ten minste een route tussen een punt in een toegankelijkheidssector en het aa
 
 1. Een verblijfsruimte voor meer dan 75 personen en een ruimte waardoor een vluchtroute uit die verblijfsruimte voert, hebben noodverlichting.
 
-2. Een onder het meetniveau gelegen functieruimte als bedoeld in [artikel 4.194, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.194&z=2026-07-01&g=2026-07-01), heeft noodverlichting.
+2. Een onder het meetniveau gelegen functieruimte als bedoeld in [artikel 4.194, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.194&z=2026-09-24&g=2026-09-24), heeft noodverlichting.
 
 3. Een ruimte waardoor een beschermde vluchtroute voert, heeft noodverlichting.
 
@@ -5439,7 +5439,7 @@ Op ten minste een route tussen een punt in een toegankelijkheidssector en het aa
 
 ##### Artikel 4.196. (aansluiting op voorziening voor elektriciteit)
 
-Een verlichtingsinstallatie als bedoeld in de [artikelen 4.194](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.194&z=2026-07-01&g=2026-07-01) en [4.195](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.195&z=2026-07-01&g=2026-07-01) is aangesloten op een in [artikel 4.199](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.2&artikel=4.199&z=2026-07-01&g=2026-07-01) bedoelde voorziening voor elektriciteit.
+Een verlichtingsinstallatie als bedoeld in de [artikelen 4.194](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.194&z=2026-09-24&g=2026-09-24) en [4.195](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.195&z=2026-09-24&g=2026-09-24) is aangesloten op een in [artikel 4.199](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.2&artikel=4.199&z=2026-09-24&g=2026-09-24) bedoelde voorziening voor elektriciteit.
 
 ##### Artikel 4.197. (verduisterde ruimte)
 
@@ -5574,7 +5574,7 @@ Een voorziening voor warmwater voldoet aan NEN 1006.
 
 ##### Artikel 4.208. (brandmeldinstallatie)
 
-1. Een gebruiksfunctie heeft een brandmeldinstallatie als bedoeld in NEN 2535 met een omvang van de bewaking en een doormelding zoals aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-07-01&g=2026-07-01), als:
+1. Een gebruiksfunctie heeft een brandmeldinstallatie als bedoeld in NEN 2535 met een omvang van de bewaking en een doormelding zoals aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-09-24&g=2026-09-24), als:
 
 - a. de gebruiksoppervlakte van de gebruiksfunctie of de totale gebruiksoppervlakte aan gebruiksfuncties van dezelfde soort in het gebouw, voor zover die gebruiksfuncties op eenzelfde vluchtroute zijn aangewezen groter is dan de in die bijlage aangegeven waarde;
 
@@ -5592,21 +5592,21 @@ Een voorziening voor warmwater voldoet aan NEN 1006.
 
 - c. het aantal op de enkele vluchtroute aangewezen verblijfsruimten meer dan twee is.
 
-4. Het eerste lid, onder b, is niet van toepassing als boven de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-07-01&g=2026-07-01) bedoelde hoogste vloer niet meer dan zes opstelplaatsen voor bedden voor kinderen zijn.
+4. Het eerste lid, onder b, is niet van toepassing als boven de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-09-24&g=2026-09-24) bedoelde hoogste vloer niet meer dan zes opstelplaatsen voor bedden voor kinderen zijn.
 
 ##### Artikel 4.209. (melding en doormelding)
 
-1. Een in [artikel 4.208](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.208&z=2026-07-01&g=2026-07-01) bedoelde brandmeldinstallatie meldt rechtstreeks:
+1. Een in [artikel 4.208](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.208&z=2026-09-24&g=2026-09-24) bedoelde brandmeldinstallatie meldt rechtstreeks:
 
 - a. naar een zorgcentrale bij zorg op afroep; en
 
 - b. naar een zusterpost bij 24-uurszorg.
 
-2. Een doormelding als bedoeld in [artikel 4.208](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.208&z=2026-07-01&g=2026-07-01) vindt rechtstreeks plaats naar de regionale alarmcentrale van de brandweer.
+2. Een doormelding als bedoeld in [artikel 4.208](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.208&z=2026-09-24&g=2026-09-24) vindt rechtstreeks plaats naar de regionale alarmcentrale van de brandweer.
 
 ##### Artikel 4.210. (inspectiecertificaat brandmeldinstallatie)
 
-In de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-07-01&g=2026-07-01) aangewezen gevallen heeft een in [artikel 4.208](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.208&z=2026-07-01&g=2026-07-01) voorgeschreven brandmeldinstallatie voor ingebruikname van het bouwwerk een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandbeveiliging.
+In de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-09-24&g=2026-09-24) aangewezen gevallen heeft een in [artikel 4.208](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.208&z=2026-09-24&g=2026-09-24) voorgeschreven brandmeldinstallatie voor ingebruikname van het bouwwerk een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandbeveiliging.
 
 ##### Artikel 4.211. (rookmelders)
 
@@ -5616,7 +5616,7 @@ In de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II
 
 3. Een verblijfsruimte en een besloten ruimte waardoor een vluchtroute voert tussen de uitgang van een verblijfsruimte en de uitgang van het gebouw hebben een of meer rookmelders die voldoen aan en zijn geplaatst volgens de primaire inrichtingseisen, bedoeld in NEN 2555.
 
-4. Het eerste tot en met derde lid zijn niet van toepassing op een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 4.208](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.208&z=2026-07-01&g=2026-07-01).
+4. Het eerste tot en met derde lid zijn niet van toepassing op een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 4.208](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.208&z=2026-09-24&g=2026-09-24).
 
 5. In aanvulling op het derde lid is het in de primaire inrichtingseisen bedoelde alarmeringssignaal permanent waarneembaar door de voor de 24-uursbewaking van de logiesfunctie verantwoordelijke functionaris of vindt rechtstreekse doormelding plaats naar die functionaris.
 
@@ -5663,7 +5663,7 @@ In de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II
 
 ##### Artikel 4.213. (ontruimingsalarminstallatie)
 
-1. Een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 4.208](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.208&z=2026-07-01&g=2026-07-01) heeft een ontruimingsalarminstallatie als bedoeld in NEN 2575.
+1. Een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 4.208](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.208&z=2026-09-24&g=2026-09-24) heeft een ontruimingsalarminstallatie als bedoeld in NEN 2575.
 
 2. Het ontruimingssignaal van een in het eerste lid bedoelde ontruimingsalarminstallatie wordt bij het activeren van de automatische melder of handbrandmelder onmiddellijk en in het gehele gebouw in werking gesteld.
 
@@ -5671,13 +5671,13 @@ In de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II
 
 ##### Artikel 4.214. (inspectiecertificaat ontruimingsalarminstallatie)
 
-Een ontruimingsalarminstallatie als bedoeld in [artikel 4.213, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.213&z=2026-07-01&g=2026-07-01), die behoort bij een brandmeldinstallatie waarop [artikel 4.210](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.210&z=2026-07-01&g=2026-07-01) van toepassing is, heeft een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandbeveiliging.
+Een ontruimingsalarminstallatie als bedoeld in [artikel 4.213, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.213&z=2026-09-24&g=2026-09-24), die behoort bij een brandmeldinstallatie waarop [artikel 4.210](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.5&artikel=4.210&z=2026-09-24&g=2026-09-24) van toepassing is, heeft een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandbeveiliging.
 
 ##### Artikel 4.215. (vluchtrouteaanduiding)
 
 1. Een ruimte waardoor een verkeersroute voert en een ruimte voor meer dan 50 personen hebben een vluchtrouteaanduiding die voldoet aan NEN 3011 en aan de zichtbaarheidseisen, bedoeld in artikel 5.4.5 van NEN-EN 1838.
 
-2. Een wegtunnel heeft een vluchtrouteaanduiding die voldoet aan NEN 6088 en aan de zichtbaarheidseisen, bedoeld in de artikelen 5.2 tot en met 5.6 van NEN-EN 1838. De vluchtrouteaanduiding is niet hoger dan 1,5 m boven de vloer aangebracht en de afstand tussen vluchtrouteaanduidingen is niet meer dan 25 m, gemeten langs de tunnelwand. Bij de vluchtrouteaanduiding is goed zichtbaar aangegeven de loopafstand in twee richtingen tot het einde van de tunnelbuis of, als die loopafstand korter is, de loopafstand tot de meest nabije toegang, bedoeld in [artikel 4.68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.68&z=2026-07-01&g=2026-07-01).
+2. Een wegtunnel heeft een vluchtrouteaanduiding die voldoet aan NEN 6088 en aan de zichtbaarheidseisen, bedoeld in de artikelen 5.2 tot en met 5.6 van NEN-EN 1838. De vluchtrouteaanduiding is niet hoger dan 1,5 m boven de vloer aangebracht en de afstand tussen vluchtrouteaanduidingen is niet meer dan 25 m, gemeten langs de tunnelwand. Bij de vluchtrouteaanduiding is goed zichtbaar aangegeven de loopafstand in twee richtingen tot het einde van de tunnelbuis of, als die loopafstand korter is, de loopafstand tot de meest nabije toegang, bedoeld in [artikel 4.68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.68&z=2026-09-24&g=2026-09-24).
 
 3. Een vluchtrouteaanduiding als bedoeld in het eerste of tweede lid:
 
@@ -5685,9 +5685,9 @@ Een ontruimingsalarminstallatie als bedoeld in [artikel 4.213, eerste lid](https
 
 - b. voldoet binnen 15 seconden na het uitvallen van de voorziening voor elektriciteit, gedurende een periode van ten minste 60 minuten, aan de zichtbaarheidseisen die volgen uit het eerste en tweede lid.
 
-4. Op een vluchtrouteaanduiding als bedoeld in het eerste lid gelegen op een vluchtroute vanuit een ruimte met een verlichtingsinstallatie die geen noodverlichting is als bedoeld in [artikel 4.195](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.195&z=2026-07-01&g=2026-07-01), zijn bij het uitvallen van de voorziening voor elektriciteit de in het eerste lid bedoelde zichtbaarheidseisen niet van toepassing.
+4. Op een vluchtrouteaanduiding als bedoeld in het eerste lid gelegen op een vluchtroute vanuit een ruimte met een verlichtingsinstallatie die geen noodverlichting is als bedoeld in [artikel 4.195](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.1&artikel=4.195&z=2026-09-24&g=2026-09-24), zijn bij het uitvallen van de voorziening voor elektriciteit de in het eerste lid bedoelde zichtbaarheidseisen niet van toepassing.
 
-5. Een deur in een tunnel die toegang geeft tot een beschermde vluchtroute als bedoeld in [artikel 4.68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.68&z=2026-07-01&g=2026-07-01), is uitgevoerd in de kleur groen, RAL 6024.
+5. Een deur in een tunnel die toegang geeft tot een beschermde vluchtroute als bedoeld in [artikel 4.68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.68&z=2026-09-24&g=2026-09-24), is uitgevoerd in de kleur groen, RAL 6024.
 
 ##### Artikel 4.216. (deuren in vluchtroutes: draairichting)
 
@@ -5735,7 +5735,7 @@ Een ontruimingsalarminstallatie als bedoeld in [artikel 4.213, eerste lid](https
 
 ##### Artikel 4.218a. (lift)
 
-De voorziening voor elektriciteit van een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-07-01&g=2026-07-01) in een woongebouw voert alleen door een kruipruimte, de liftschacht of een ruimte die alleen wordt gebruikt voor deze voorziening en waarbij de weerstand tegen brandoverslag en branddoorslag van een naastgelegen ruimte naar deze ruimte ten minste 60 minuten is bepaald volgens NEN 6068.
+De voorziening voor elektriciteit van een lift als bedoeld in [artikel 4.189](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.6&paragraaf=4.6.2&artikel=4.189&z=2026-09-24&g=2026-09-24) in een woongebouw voert alleen door een kruipruimte, de liftschacht of een ruimte die alleen wordt gebruikt voor deze voorziening en waarbij de weerstand tegen brandoverslag en branddoorslag van een naastgelegen ruimte naar deze ruimte ten minste 60 minuten is bepaald volgens NEN 6068.
 
 #### § 4.7.7. Bestrijden van brand
 
@@ -5780,7 +5780,7 @@ De voorziening voor elektriciteit van een lift als bedoeld in [artikel 4.189](ht
 
 1. Een gebruiksfunctie heeft ten minste een brandslanghaspel.
 
-2. Een gebruiksfunctie heeft ten minste een brandslanghaspel als de gebruiksoppervlakte van de gebruiksfunctie of de totale gebruiksoppervlakte aan gebruiksfuncties van dezelfde soort in het gebouw groter is dan de waarde, vermeld in [tabel 4.219](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.7&artikel=4.219&z=2026-07-01&g=2026-07-01).
+2. Een gebruiksfunctie heeft ten minste een brandslanghaspel als de gebruiksoppervlakte van de gebruiksfunctie of de totale gebruiksoppervlakte aan gebruiksfuncties van dezelfde soort in het gebouw groter is dan de waarde, vermeld in [tabel 4.219](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.7&artikel=4.219&z=2026-09-24&g=2026-09-24).
 
 3. De gecorrigeerde loopafstand tussen een brandslanghaspel en elk punt van de vloer van een gebruiksfunctie is niet groter dan de lengte van de brandslang, vermeerderd met 5 m. Dit is niet van toepassing op een niet in een gebruiksgebied gelegen vloer die alleen door niet-besloten ruimten kan worden bereikt.
 
@@ -5788,7 +5788,7 @@ De voorziening voor elektriciteit van een lift als bedoeld in [artikel 4.189](ht
 
 - a. heeft een slang met een lengte van niet meer dan 30 m;
 
-- b. is aangesloten op een voorziening voor drinkwater als bedoeld in [artikel 4.202](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.3&artikel=4.202&z=2026-07-01&g=2026-07-01), die bij het mondstuk een statische druk geeft van niet minder dan 100 kPa en een capaciteit heeft van 1,3 m3/h bij gelijktijdig gebruik van twee brandslanghaspels; en
+- b. is aangesloten op een voorziening voor drinkwater als bedoeld in [artikel 4.202](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.3&artikel=4.202&z=2026-09-24&g=2026-09-24), die bij het mondstuk een statische druk geeft van niet minder dan 100 kPa en een capaciteit heeft van 1,3 m3/h bij gelijktijdig gebruik van twee brandslanghaspels; en
 
 - c. ligt niet in een ruimte met een trap waarover een beschermde vluchtroute voert.
 
@@ -5798,15 +5798,15 @@ De voorziening voor elektriciteit van een lift als bedoeld in [artikel 4.189](ht
 
 1. Een gebruiksfunctie met een vloer van een verblijfsgebied hoger gelegen dan 20 m boven het meetniveau heeft een droge blusleiding.
 
-2. Een wegtunnelbuis heeft een op een in [artikel 4.222](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.7&artikel=4.222&z=2026-07-01&g=2026-07-01) bedoelde bluswatervoorziening aangesloten droge blusleiding met in elke hulppost als bedoeld in [artikel 4.86](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.86&z=2026-07-01&g=2026-07-01) een brandslangaansluiting die bij brand een capaciteit van ten minste 120 m3/h kan leveren.
+2. Een wegtunnelbuis heeft een op een in [artikel 4.222](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.7&artikel=4.222&z=2026-09-24&g=2026-09-24) bedoelde bluswatervoorziening aangesloten droge blusleiding met in elke hulppost als bedoeld in [artikel 4.86](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.86&z=2026-09-24&g=2026-09-24) een brandslangaansluiting die bij brand een capaciteit van ten minste 120 m3/h kan leveren.
 
 3. De loopafstand tussen een brandslangaansluiting van een droge blusleiding en een punt in een op die aansluiting aangewezen gebruiksgebied is niet groter dan 60 m.
 
 4. Een droge blusleiding voldoet aan NEN 1594.
 
-5. Als op een verdieping een afzonderlijke beschermde vluchtroute als bedoeld in [artikel 4.77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.77&z=2026-07-01&g=2026-07-01), ligt, heeft een droge blusleiding op elke verdieping een brandslangaansluiting in die vluchtroute en in de eerste ruimte op de route tussen die vluchtroute en een op die verdieping gelegen gebruiksgebied.
+5. Als op een verdieping een afzonderlijke beschermde vluchtroute als bedoeld in [artikel 4.77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.77&z=2026-09-24&g=2026-09-24), ligt, heeft een droge blusleiding op elke verdieping een brandslangaansluiting in die vluchtroute en in de eerste ruimte op de route tussen die vluchtroute en een op die verdieping gelegen gebruiksgebied.
 
-6. Als op een verdieping binnen de in het derde lid bedoelde afstand geen afzonderlijke beschermde vluchtroute als bedoeld in [artikel 4.77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.77&z=2026-07-01&g=2026-07-01), ligt, heeft de verdieping, in afwijking van het vijfde lid, een brandslangaansluiting in het trappenhuis en in de eerste ruimte op de route tussen dat trappenhuis en het gebruiksgebied.
+6. Als op een verdieping binnen de in het derde lid bedoelde afstand geen afzonderlijke beschermde vluchtroute als bedoeld in [artikel 4.77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.77&z=2026-09-24&g=2026-09-24), ligt, heeft de verdieping, in afwijking van het vijfde lid, een brandslangaansluiting in het trappenhuis en in de eerste ruimte op de route tussen dat trappenhuis en het gebruiksgebied.
 
 ##### Artikel 4.222. (bluswatervoorziening wegtunnel)
 
@@ -5814,9 +5814,9 @@ Een wegtunnel heeft een bluswatervoorziening die bij brand gedurende ten minste 
 
 ##### Artikel 4.223. (blustoestellen)
 
-1. Een woonfunctie voor kamergewijze verhuur heeft een draagbaar blustoestel in een gezamenlijke keuken en ten minste een per bouwlaag in een ruimte waardoor een gezamenlijke vluchtroute voert. Dit is niet van toepassing op de aanwezigheid van brandslanghaspels als bedoeld in [artikel 4.220](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.7&artikel=4.220&z=2026-07-01&g=2026-07-01).
+1. Een woonfunctie voor kamergewijze verhuur heeft een draagbaar blustoestel in een gezamenlijke keuken en ten minste een per bouwlaag in een ruimte waardoor een gezamenlijke vluchtroute voert. Dit is niet van toepassing op de aanwezigheid van brandslanghaspels als bedoeld in [artikel 4.220](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.7&artikel=4.220&z=2026-09-24&g=2026-09-24).
 
-2. Elke hulppost als bedoeld in [artikel 4.86](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.86&z=2026-07-01&g=2026-07-01) heeft een draagbaar blustoestel.
+2. Elke hulppost als bedoeld in [artikel 4.86](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.86&z=2026-09-24&g=2026-09-24) heeft een draagbaar blustoestel.
 
 3. Een blustoestel is duidelijk zichtbaar opgehangen of gemarkeerd met een pictogram als bedoeld in NEN 3011.
 
@@ -5828,7 +5828,7 @@ Een wegtunnel heeft een bluswatervoorziening die bij brand gedurende ten minste 
 
 - a. de overige gebruiksfunctie voor het stallen van motorvoertuigen een gebruiksoppervlakte heeft die 1.000 m2 of kleiner is;
 
-- b. de bovengelegen gebruiksfunctie ten minste een vluchtroute als bedoeld in [artikel 4.65](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.65&z=2026-07-01&g=2026-07-01) heeft waarvan de ruimte waardoor deze vluchtroute voert niet bereikbaar is vanuit de overige gebruiksfunctie voor het stallen van motorvoertuigen; en
+- b. de bovengelegen gebruiksfunctie ten minste een vluchtroute als bedoeld in [artikel 4.65](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.65&z=2026-09-24&g=2026-09-24) heeft waarvan de ruimte waardoor deze vluchtroute voert niet bereikbaar is vanuit de overige gebruiksfunctie voor het stallen van motorvoertuigen; en
 
 - c. de overige gebruiksfunctie voor het stallen van motorvoertuigen geen automatisch parkeersysteem heeft.
 
@@ -5836,13 +5836,13 @@ Een wegtunnel heeft een bluswatervoorziening die bij brand gedurende ten minste 
 
 - a. de overige gebruiksfunctie voor het stallen van motorvoertuigen een gebruiksoppervlakte heeft die groter is dan 1.000 m2; en
 
-- b. de bovengelegen gebruiksfunctie slechts één vluchtroute zoals bedoeld in [artikel 4.65](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.65&z=2026-07-01&g=2026-07-01) heeft waarvan de ruimte waardoor deze vluchtroute voert bereikbaar is vanuit de overige gebruiksfunctie voor het stallen van motorvoertuigen.
+- b. de bovengelegen gebruiksfunctie slechts één vluchtroute zoals bedoeld in [artikel 4.65](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.10&artikel=4.65&z=2026-09-24&g=2026-09-24) heeft waarvan de ruimte waardoor deze vluchtroute voert bereikbaar is vanuit de overige gebruiksfunctie voor het stallen van motorvoertuigen.
 
 4. De automatische brandblusinstallatie is voor ingebruikname van het bouwwerk voorzien van een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandbeveiliging.
 
 ##### Artikel 4.224. (tijdelijk bouwwerk)
 
-Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.220](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.7&artikel=4.220&z=2026-07-01&g=2026-07-01) en [4.221](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.7&artikel=4.221&z=2026-07-01&g=2026-07-01) van toepassing.
+Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.220](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.7&artikel=4.220&z=2026-09-24&g=2026-09-24) en [4.221](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.7&artikel=4.221&z=2026-09-24&g=2026-09-24) van toepassing.
 
 #### § 4.7.8. Toegankelijkheid voor hulpverleningsdiensten
 
@@ -5882,7 +5882,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de [artikelen 4.220](https://wette
 
 ##### Artikel 4.227. (afbakening maatwerkvoorschriften brandweeringang)
 
-Een maatwerkvoorschrift over [artikel 4.226](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.226&z=2026-07-01&g=2026-07-01) kan alleen inhouden:
+Een maatwerkvoorschrift over [artikel 4.226](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.226&z=2026-09-24&g=2026-09-24) kan alleen inhouden:
 
 - a. dat een bouwwerk geen brandweeringang hoeft te hebben als de aard, de ligging of het gebruik van het bouwwerk dat naar het oordeel van het bevoegd gezag niet vereist; of
 
@@ -5900,7 +5900,7 @@ Een gebouw waarvan een vloer van een verblijfsgebied hoger ligt dan 20 m boven 
 
 ##### Artikel 4.230. (afbakening maatwerkvoorschriften mobiele radiocommunicatie hulpverleningsdiensten)
 
-Met een maatwerkvoorschrift over [artikel 4.229](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.229&z=2026-07-01&g=2026-07-01) kan alleen nadere invulling worden gegeven aan de maatregelen voor binnenhuisdekking.
+Met een maatwerkvoorschrift over [artikel 4.229](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.229&z=2026-09-24&g=2026-09-24) kan alleen nadere invulling worden gegeven aan de maatregelen voor binnenhuisdekking.
 
 ##### Artikel 4.230a. (laadpunten elektrische voertuigen)
 
@@ -5918,7 +5918,7 @@ Met een maatwerkvoorschrift over [artikel 4.229](https://wetten.overheid.nl/jci1
 
 ##### Artikel 4.232. (uitrusting hulppost)
 
-Een hulppost als bedoeld in [artikel 4.86](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.86&z=2026-07-01&g=2026-07-01) heeft een noodtelefoon en een wandcontactdoos met een elektrische spanning van 230 volt.
+Een hulppost als bedoeld in [artikel 4.86](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.12&artikel=4.86&z=2026-09-24&g=2026-09-24) heeft een noodtelefoon en een wandcontactdoos met een elektrische spanning van 230 volt.
 
 ##### Artikel 4.233. (bedieningscentrale wegtunnel)
 
@@ -6118,7 +6118,7 @@ De energieprestatie van de in deze paragraaf bedoelde technische bouwsystemen wo
 
 ##### Artikel 4.250. (onverwarmde en ongekoelde verblijfsruimte)
 
-Op een verblijfsruimte die niet bestemd is om te worden verwarmd of gekoeld, of waarbij de verwarming of koeling uitsluitend is bestemd voor een ander doel dan het verblijven van personen zijn de eisen aan ruimteverwarming en ruimtekoeling, bedoeld in de [artikelen 4.248, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.14&artikel=4.248&z=2026-07-01&g=2026-07-01), en [4.249](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.14&artikel=4.249&z=2026-07-01&g=2026-07-01) niet van toepassing.
+Op een verblijfsruimte die niet bestemd is om te worden verwarmd of gekoeld, of waarbij de verwarming of koeling uitsluitend is bestemd voor een ander doel dan het verblijven van personen zijn de eisen aan ruimteverwarming en ruimtekoeling, bedoeld in de [artikelen 4.248, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.14&artikel=4.248&z=2026-09-24&g=2026-09-24), en [4.249](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.14&artikel=4.249&z=2026-09-24&g=2026-09-24) niet van toepassing.
 
 ### Hoofdstuk 5. Verbouw en verplaatsing van een bouwwerk en wijziging van een gebruiksfunctie
 
@@ -6144,21 +6144,21 @@ Aan de regels in dit hoofdstuk wordt voldaan door de degene die het bouwwerk ver
 
 ##### Artikel 5.3a. (maatwerkvoorschrift)
 
-1. Een maatwerkvoorschrift of vergunningvoorschrift als bedoeld in [artikel 4.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) kan worden gesteld over de [artikelen 5.21e](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21e&z=2026-07-01&g=2026-07-01) en [5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&artikel=5.23&z=2026-07-01&g=2026-07-01) en kan alleen het bepaalde in de [artikelen 5.21f](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21f&z=2026-07-01&g=2026-07-01) respectievelijk [5.23a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&artikel=5.23a&z=2026-07-01&g=2026-07-01) inhouden.
+1. Een maatwerkvoorschrift of vergunningvoorschrift als bedoeld in [artikel 4.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5) kan worden gesteld over de [artikelen 5.21e](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21e&z=2026-09-24&g=2026-09-24) en [5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&artikel=5.23&z=2026-09-24&g=2026-09-24) en kan alleen het bepaalde in de [artikelen 5.21f](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21f&z=2026-09-24&g=2026-09-24) respectievelijk [5.23a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&artikel=5.23a&z=2026-09-24&g=2026-09-24) inhouden.
 
-2. Een maatwerkvoorschrift of vergunningvoorschrift op aanvraag van degene die het bouwwerk bouwt, kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.1&artikel=5.2&z=2026-07-01&g=2026-07-01), voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
+2. Een maatwerkvoorschrift of vergunningvoorschrift op aanvraag van degene die het bouwwerk bouwt, kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.1&artikel=5.2&z=2026-09-24&g=2026-09-24), voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
 
 #### Afdeling 5.2. Algemene regels bij het verbouwen of verplaatsen van een bouwwerk en bij gebruiksfunctiewijziging
 
 ##### Artikel 5.4. (verbouw)
 
-1. Op het verbouwen van een bouwwerk zijn de regels van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-07-01&g=2026-07-01) van toepassing, waarbij in plaats van het in die regels bedoelde niveau van eisen wordt uitgegaan van het in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.5&z=2026-07-01&g=2026-07-01) bedoelde rechtens verkregen niveau tenzij in [afdeling 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&z=2026-07-01&g=2026-07-01) anders is bepaald.
+1. Op het verbouwen van een bouwwerk zijn de regels van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-09-24&g=2026-09-24) van toepassing, waarbij in plaats van het in die regels bedoelde niveau van eisen wordt uitgegaan van het in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.5&z=2026-09-24&g=2026-09-24) bedoelde rechtens verkregen niveau tenzij in [afdeling 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&z=2026-09-24&g=2026-09-24) anders is bepaald.
 
-2. In afwijking van het eerste lid zijn de regels van [paragraaf 4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&z=2026-07-01&g=2026-07-01) niet van toepassing.
+2. In afwijking van het eerste lid zijn de regels van [paragraaf 4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&z=2026-09-24&g=2026-09-24) niet van toepassing.
 
-3. In aanvulling op het eerste lid zijn op het geheel vernieuwen of geheel nieuw aanbrengen van een bouwwerkinstallatie de regels van [afdeling 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&z=2026-07-01&g=2026-07-01) van toepassing.
+3. In aanvulling op het eerste lid zijn op het geheel vernieuwen of geheel nieuw aanbrengen van een bouwwerkinstallatie de regels van [afdeling 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&z=2026-09-24&g=2026-09-24) van toepassing.
 
-4. Als een bouwwerk wordt verbouwd zijn de regels van het eerste tot en met derde lid alleen van toepassing op de vernieuwing, verandering of vergroting, tenzij in [afdeling 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&z=2026-07-01&g=2026-07-01) anders is bepaald.
+4. Als een bouwwerk wordt verbouwd zijn de regels van het eerste tot en met derde lid alleen van toepassing op de vernieuwing, verandering of vergroting, tenzij in [afdeling 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&z=2026-09-24&g=2026-09-24) anders is bepaald.
 
 ##### Artikel 5.5. (rechtens verkregen niveau)
 
@@ -6170,17 +6170,17 @@ Aan de regels in dit hoofdstuk wordt voldaan door de degene die het bouwwerk ver
 
 ##### Artikel 5.6. (verplaatsing)
 
-1. Op een bestaand bouwwerk dat in ongewijzigde samenstelling wordt verplaatst zijn bij verplaatsing de regels van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-07-01&g=2026-07-01) van toepassing. De voorwaarde van ongewijzigde samenstelling is niet van toepassing op de fundering van het bouwwerk.
+1. Op een bestaand bouwwerk dat in ongewijzigde samenstelling wordt verplaatst zijn bij verplaatsing de regels van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-09-24&g=2026-09-24) van toepassing. De voorwaarde van ongewijzigde samenstelling is niet van toepassing op de fundering van het bouwwerk.
 
 2. Op een tijdelijk bouwwerk is het eerste lid alleen van toepassing als het bouwwerk na verplaatsing een tijdelijk bouwwerk is.
 
 ##### Artikel 5.7. (wijziging van een gebruiksfunctie)
 
-1. Bij wijziging van een gebruiksfunctie van een bouwwerk of een gedeelte daarvan zijn de regels van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-07-01&g=2026-07-01) van toepassing, tenzij in [afdeling 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&z=2026-07-01&g=2026-07-01) anders is aangegeven.
+1. Bij wijziging van een gebruiksfunctie van een bouwwerk of een gedeelte daarvan zijn de regels van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&z=2026-09-24&g=2026-09-24) van toepassing, tenzij in [afdeling 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&z=2026-09-24&g=2026-09-24) anders is aangegeven.
 
-2. Het eerste lid is alleen van toepassing op het gedeelte van het bouwwerk waarop de wijziging betrekking heeft, tenzij in [afdeling 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&z=2026-07-01&g=2026-07-01) anders is aangegeven.
+2. Het eerste lid is alleen van toepassing op het gedeelte van het bouwwerk waarop de wijziging betrekking heeft, tenzij in [afdeling 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&z=2026-09-24&g=2026-09-24) anders is aangegeven.
 
-3. Voor zover een wijziging gepaard gaat met een verbouwing zijn in afwijking van het eerste lid op die verbouwing de regels van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01) van toepassing, tenzij in [afdeling 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&z=2026-07-01&g=2026-07-01) anders is aangegeven.
+3. Voor zover een wijziging gepaard gaat met een verbouwing zijn in afwijking van het eerste lid op die verbouwing de regels van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24) van toepassing, tenzij in [afdeling 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&z=2026-09-24&g=2026-09-24) anders is aangegeven.
 
 #### Afdeling 5.3. Verbouw
 
@@ -6188,7 +6188,7 @@ Aan de regels in dit hoofdstuk wordt voldaan door de degene die het bouwwerk ver
 
 1. De regels in deze afdeling zijn op een gebruiksfunctie van toepassing voor zover deze in tabel 5.8a of 5.8b voor die gebruiksfunctie zijn aangewezen.
 
-2. Als in een regel in deze afdeling een artikel uit [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-07-01&g=2026-07-01) van toepassing is verklaard, dan volgt uit de tabel bij dat artikel welke leden op een gebruiksfunctie van toepassing zijn.
+2. Als in een regel in deze afdeling een artikel uit [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&z=2026-09-24&g=2026-09-24) van toepassing is verklaard, dan volgt uit de tabel bij dat artikel welke leden op een gebruiksfunctie van toepassing zijn.
 
 | gebruiksfunctie | leden van toepassing |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -6252,85 +6252,85 @@ Aan de regels in dit hoofdstuk wordt voldaan door de degene die het bouwwerk ver
 
 ##### Artikel 5.9. (constructieve veiligheid)
 
-1. Op het verbouwen van een bouwwerk zijn de [artikelen 4.12 tot en met 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-07-01&g=2026-07-01) van toepassing, waarbij in plaats van het in die artikelen aangegeven niveau van eisen wordt uitgegaan van het niveau voor verbouw zoals aangegeven in NEN 8700.
+1. Op het verbouwen van een bouwwerk zijn de [artikelen 4.12 tot en met 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1&artikel=4.12&z=2026-09-24&g=2026-09-24) van toepassing, waarbij in plaats van het in die artikelen aangegeven niveau van eisen wordt uitgegaan van het niveau voor verbouw zoals aangegeven in NEN 8700.
 
-2. Op het verbouwen van een drijvend bouwwerk zijn de [artikelen 4.15a tot en met 4.15e](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15a&z=2026-07-01&g=2026-07-01) van toepassing.
+2. Op het verbouwen van een drijvend bouwwerk zijn de [artikelen 4.15a tot en met 4.15e](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.1a&artikel=4.15a&z=2026-09-24&g=2026-09-24) van toepassing.
 
 ##### Artikel 5.10. (constructieve veiligheid bij brand)
 
-Op het verbouwen van een bouwwerk zijn de [artikelen 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.17&z=2026-07-01&g=2026-07-01) en [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.18&z=2026-07-01&g=2026-07-01) van toepassing, waarbij in plaats van het in artikel 4.17 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau en waarbij, in afwijking van artikel 4.17, eerste lid, wordt uitgegaan van de buitengewone belastingscombinaties die volgens NEN 8700 kunnen optreden bij brand.
+Op het verbouwen van een bouwwerk zijn de [artikelen 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.17&z=2026-09-24&g=2026-09-24) en [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.18&z=2026-09-24&g=2026-09-24) van toepassing, waarbij in plaats van het in artikel 4.17 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau en waarbij, in afwijking van artikel 4.17, eerste lid, wordt uitgegaan van de buitengewone belastingscombinaties die volgens NEN 8700 kunnen optreden bij brand.
 
 ##### Artikel 5.10a. (hoogte afscheiding)
 
-1. Bij het geheel vernieuwen van een raam met kozijn zijn op de vloerafscheiding ter plaatse van dit raam de [artikelen 4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-07-01&g=2026-07-01), [4.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.21&z=2026-07-01&g=2026-07-01), en [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.9&z=2026-07-01&g=2026-07-01) van toepassing. Dit geldt niet als de bestaande vloerafscheiding onder het raam met kozijn een hoogte heeft van ten minste 0,85 m, gemeten vanaf de vloer.
+1. Bij het geheel vernieuwen van een raam met kozijn zijn op de vloerafscheiding ter plaatse van dit raam de [artikelen 4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.20&z=2026-09-24&g=2026-09-24), [4.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.21&z=2026-09-24&g=2026-09-24), en [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.9&z=2026-09-24&g=2026-09-24) van toepassing. Dit geldt niet als de bestaande vloerafscheiding onder het raam met kozijn een hoogte heeft van ten minste 0,85 m, gemeten vanaf de vloer.
 
-2. Bij het verbouwen van een bouwwerk geen gebouw zijnde, geldt in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01) het in [artikel 4.21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.21&z=2026-07-01&g=2026-07-01), aangegeven prestatieniveau.
+2. Bij het verbouwen van een bouwwerk geen gebouw zijnde, geldt in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24) het in [artikel 4.21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&artikel=4.21&z=2026-09-24&g=2026-09-24), aangegeven prestatieniveau.
 
 ##### Artikel 5.11. (beperking van het ontstaan van een brandgevaarlijke situatie)
 
-Bij het verbouwen van een bouwwerk geldt het in de [artikelen 4.38 tot en met 4.40](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.6&artikel=4.38&z=2026-07-01&g=2026-07-01) aangegeven prestatieniveau.
+Bij het verbouwen van een bouwwerk geldt het in de [artikelen 4.38 tot en met 4.40](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.6&artikel=4.38&z=2026-09-24&g=2026-09-24) aangegeven prestatieniveau.
 
 ##### Artikel 5.12. (beperking van het ontwikkelen van brand en rook)
 
-1. Bij het verbouwen van een bouwwerk geldt, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), het in [artikel 4.44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.44&z=2026-07-01&g=2026-07-01), aangegeven prestatieniveau.
+1. Bij het verbouwen van een bouwwerk geldt, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), het in [artikel 4.44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.44&z=2026-09-24&g=2026-09-24), aangegeven prestatieniveau.
 
-2. Bij het verbouwen van het bouwwerk gelden, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), het in de [artikelen 4.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-07-01&g=2026-07-01), en [4.45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.45a&z=2026-07-01&g=2026-07-01), aangegeven prestatieniveau.
+2. Bij het verbouwen van het bouwwerk gelden, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), het in de [artikelen 4.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.43&z=2026-09-24&g=2026-09-24), en [4.45a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&artikel=4.45a&z=2026-09-24&g=2026-09-24), aangegeven prestatieniveau.
 
 ##### Artikel 5.13. (beperking van uitbreiding van brand)
 
-Bij het verbouwen van een bouwwerk wordt, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), uitgegaan van de in [paragraaf 4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&z=2026-07-01&g=2026-07-01) bedoelde weerstand tegen branddoorslag en brandoverslag van ten minste 30 minuten, of het rechtens verkregen niveau als dat hoger is.
+Bij het verbouwen van een bouwwerk wordt, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), uitgegaan van de in [paragraaf 4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&z=2026-09-24&g=2026-09-24) bedoelde weerstand tegen branddoorslag en brandoverslag van ten minste 30 minuten, of het rechtens verkregen niveau als dat hoger is.
 
 ##### Artikel 5.13a. (verdere beperking van uitbreiding van brand en beperking van verspreiding van rook)
 
-Bij het verbouwen van een bouwwerk geldt in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01) het in [artikel 4.62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.62&z=2026-07-01&g=2026-07-01), aangegeven prestatieniveau. Dit geldt ook voor een beschermde route.
+Bij het verbouwen van een bouwwerk geldt in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24) het in [artikel 4.62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.62&z=2026-09-24&g=2026-09-24), aangegeven prestatieniveau. Dit geldt ook voor een beschermde route.
 
 ##### Artikel 5.14. (bescherming tegen geluid van bouwwerkinstallaties)
 
-1. Bij het verbouwen van een bouwwerk zijn, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), de [artikelen 4.107, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.107&z=2026-07-01&g=2026-07-01), en [4.108, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.108&z=2026-07-01&g=2026-07-01), van toepassing, waarbij wordt uitgegaan van een niveau van eisen dat 10 dB lager is dan het in de artikelen 4.107, eerste lid, en 4.108, eerste en tweede lid, aangegeven prestatieniveau, of van het rechtens verkregen niveau als dat hoger is.
+1. Bij het verbouwen van een bouwwerk zijn, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), de [artikelen 4.107, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.107&z=2026-09-24&g=2026-09-24), en [4.108, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.108&z=2026-09-24&g=2026-09-24), van toepassing, waarbij wordt uitgegaan van een niveau van eisen dat 10 dB lager is dan het in de artikelen 4.107, eerste lid, en 4.108, eerste en tweede lid, aangegeven prestatieniveau, of van het rechtens verkregen niveau als dat hoger is.
 
-2. Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), het in de [artikelen 4.107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.107&z=2026-07-01&g=2026-07-01), en [4.108, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.108&z=2026-07-01&g=2026-07-01), aangegeven prestatieniveau.
+2. Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), het in de [artikelen 4.107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.107&z=2026-09-24&g=2026-09-24), en [4.108, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.2&artikel=4.108&z=2026-09-24&g=2026-09-24), aangegeven prestatieniveau.
 
 ##### Artikel 5.15. (luchtverversing)
 
-1. Bij het installeren van een voorziening voor luchtverversing gelden, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), de in de [artikelen 4.126](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.126&z=2026-07-01&g=2026-07-01), [4.127](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.127&z=2026-07-01&g=2026-07-01) en [4.138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.138&z=2026-07-01&g=2026-07-01), aangegeven prestatieniveaus.
+1. Bij het installeren van een voorziening voor luchtverversing gelden, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), de in de [artikelen 4.126](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.126&z=2026-09-24&g=2026-09-24), [4.127](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.6&artikel=4.127&z=2026-09-24&g=2026-09-24) en [4.138, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.138&z=2026-09-24&g=2026-09-24), aangegeven prestatieniveaus.
 
 2. Het eerste lid is niet van toepassing op het vervangen van een bestaande voorziening waarbij de plaats van de uitmonding of toevoeropening niet wijzigt.
 
 ##### Artikel 5.16. (afvoer van rookgas en toevoer van verbrandingslucht)
 
-1. Bij het installeren van een afvoervoorziening voor rookgas gelden, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), de in de [artikelen 4.138](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.138&z=2026-07-01&g=2026-07-01) en [4.141](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.141&z=2026-07-01&g=2026-07-01) aangegeven prestatieniveaus.
+1. Bij het installeren van een afvoervoorziening voor rookgas gelden, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), de in de [artikelen 4.138](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.138&z=2026-09-24&g=2026-09-24) en [4.141](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.141&z=2026-09-24&g=2026-09-24) aangegeven prestatieniveaus.
 
-2. Bij het installeren van een toevoervoorziening voor verbrandingslucht gelden, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), de in [artikel 4.139](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.139&z=2026-07-01&g=2026-07-01) aangegeven prestatieniveaus.
+2. Bij het installeren van een toevoervoorziening voor verbrandingslucht gelden, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), de in [artikel 4.139](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.8&artikel=4.139&z=2026-09-24&g=2026-09-24) aangegeven prestatieniveaus.
 
 3. Het eerste en tweede lid zijn niet van toepassing op het vervangen van een bestaande voorziening waarbij de plaats van de uitmonding of toevoeropening niet wijzigt.
 
 ##### Artikel 5.17. (verblijfsgebied en verblijfsruimte)
 
-Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), voor de in het [vierde lid van artikel 4.164](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.164&z=2026-07-01&g=2026-07-01) bedoelde hoogte boven de vloer van een verblijfsgebied en een verblijfsruimte, een hoogte van ten minste 2,1 m.
+Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), voor de in het [vierde lid van artikel 4.164](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.2&artikel=4.164&z=2026-09-24&g=2026-09-24) bedoelde hoogte boven de vloer van een verblijfsgebied en een verblijfsruimte, een hoogte van ten minste 2,1 m.
 
 ##### Artikel 5.18. (toiletruimte)
 
-Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), voor de in [artikel 4.167, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&artikel=4.167&z=2026-07-01&g=2026-07-01), bedoelde hoogte boven de vloer van een toiletruimte, een hoogte van ten minste 2 m.
+Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), voor de in [artikel 4.167, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.3&artikel=4.167&z=2026-09-24&g=2026-09-24), bedoelde hoogte boven de vloer van een toiletruimte, een hoogte van ten minste 2 m.
 
 ##### Artikel 5.19. (badruimte)
 
-Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), voor de in [artikel 4.170, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&artikel=4.170&z=2026-07-01&g=2026-07-01), bedoelde hoogte boven de vloer van een badruimte, een hoogte van ten minste 2 m.
+Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), voor de in [artikel 4.170, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.5&paragraaf=4.5.4&artikel=4.170&z=2026-09-24&g=2026-09-24), bedoelde hoogte boven de vloer van een badruimte, een hoogte van ten minste 2 m.
 
 ##### Artikel 5.20. (energiezuinigheid)
 
-1. Bij het verbouwen van een bouwwerk is [artikel 4.149](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.149&z=2026-07-01&g=2026-07-01) niet van toepassing en is het in [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-07-01&g=2026-07-01) bedoelde niveau voor de warmteweerstand niet lager dan 1,4 m2•K/W of geldt het rechtens verkregen niveau als dat hoger is.
+1. Bij het verbouwen van een bouwwerk is [artikel 4.149](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.149&z=2026-09-24&g=2026-09-24) niet van toepassing en is het in [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-09-24&g=2026-09-24) bedoelde niveau voor de warmteweerstand niet lager dan 1,4 m2•K/W of geldt het rechtens verkregen niveau als dat hoger is.
 
 2. In afwijking van het eerste lid geldt bij het vernieuwen of vervangen van isolatielagen een warmteweerstand van ten minste 2,6 m2.K/W voor een vloer, 1,4 m2.K/W voor een gevel en 2,1 m2.K/W voor een dak, bepaald volgens NTA 8800, en bij het vernieuwen of vervangen van ramen, deuren en kozijnen een warmtedoorgangscoëfficiënt van ten hoogste 2,2W/m2•K, bepaald volgens NTA 8800, of het rechtens verkregen niveau als dat hoger is.
 
-3. Bij het geheel oprichten of geheel vernieuwen van een dakkapel of van een bijbehorend bouwwerk gelden, in afwijking van het eerste lid, de in de [artikelen 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-07-01&g=2026-07-01) en [4.153](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.153&z=2026-07-01&g=2026-07-01) aangegeven prestatieniveaus.
+3. Bij het geheel oprichten of geheel vernieuwen van een dakkapel of van een bijbehorend bouwwerk gelden, in afwijking van het eerste lid, de in de [artikelen 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-09-24&g=2026-09-24) en [4.153](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.153&z=2026-09-24&g=2026-09-24) aangegeven prestatieniveaus.
 
-4. Bij een ingrijpende renovatie geldt, in afwijking van het eerste lid, het in [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-07-01&g=2026-07-01) aangegeven prestatieniveau.
+4. Bij een ingrijpende renovatie geldt, in afwijking van het eerste lid, het in [artikel 4.152](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.152&z=2026-09-24&g=2026-09-24) aangegeven prestatieniveau.
 
 5. Bij een ingrijpende renovatie of wanneer het verwarmingssysteem geheel wordt vernieuwd voldoet een gebruiksfunctie aan een minimumwaarde voor hernieuwbare energie van 30 x (Aroof / Ag;tot) kWh/m2.jr, bepaald volgens NTA 8800, waarbij Aroof / Ag;tot ten hoogste 1,0 is.
 
 6. Het vijfde lid is niet van toepassing op een bouwwerk:
 
-- a. voor zover [artikel 4.155](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.155&z=2026-07-01&g=2026-07-01) van toepassing is;
+- a. voor zover [artikel 4.155](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.1&artikel=4.155&z=2026-09-24&g=2026-09-24) van toepassing is;
 
 - b. dat is aangesloten of aantoonbaar binnen drie jaar na de renovatie wordt aangesloten op een warmtenet als bedoeld in [artikel 1 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1);
 
@@ -6340,7 +6340,7 @@ Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https:/
 
 ##### Artikel 5.20a. (vluchten bij brand)
 
-Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), het in [artikel 4.218, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.218&z=2026-07-01&g=2026-07-01), aangegeven prestatieniveau.
+Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), het in [artikel 4.218, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.218&z=2026-09-24&g=2026-09-24), aangegeven prestatieniveau.
 
 ##### Artikel 5.21. (technische bouwsystemen)
 
@@ -6364,17 +6364,17 @@ Bij het verbouwen van een bouwwerk geldt, in afwijking van [artikel 5.4](https:/
 
 ##### Artikel 5.21a. (verslaglegging)
 
-1. De energieprestatie van de in [artikel 5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21&z=2026-07-01&g=2026-07-01) bedoelde technische bouwsystemen wordt beoordeeld en gedocumenteerd door de installateur en overhandigd aan de gebouweigenaar.
+1. De energieprestatie van de in [artikel 5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21&z=2026-09-24&g=2026-09-24) bedoelde technische bouwsystemen wordt beoordeeld en gedocumenteerd door de installateur en overhandigd aan de gebouweigenaar.
 
 2. In afwijking van het eerste lid mag bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een technisch bouwsysteem worden volstaan met documentatie van de energieprestatie van de gewijzigde onderdelen.
 
 ##### Artikel 5.21b. (onverwarmde en ongekoelde verblijfsruimte)
 
-Op een verblijfsruimte die niet bestemd is om te worden verwarmd of gekoeld, of waarbij de verwarming of koeling uitsluitend is bestemd voor een ander doel dan het verblijven van personen zijn de eisen aan ruimteverwarming en ruimtekoeling, bedoeld in de [artikelen 5.21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21&z=2026-07-01&g=2026-07-01), en [5.21a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21a&z=2026-07-01&g=2026-07-01), niet van toepassing.
+Op een verblijfsruimte die niet bestemd is om te worden verwarmd of gekoeld, of waarbij de verwarming of koeling uitsluitend is bestemd voor een ander doel dan het verblijven van personen zijn de eisen aan ruimteverwarming en ruimtekoeling, bedoeld in de [artikelen 5.21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21&z=2026-09-24&g=2026-09-24), en [5.21a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21a&z=2026-09-24&g=2026-09-24), niet van toepassing.
 
 ##### Artikel 5.21c. (laadpunten en leidingdoorvoeren)
 
-1. Bij een ingrijpende renovatie gelden, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), de voorschriften van [artikel 4.160b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.3&artikel=4.160b&z=2026-07-01&g=2026-07-01), met uitzondering van het derde lid, onder a:
+1. Bij een ingrijpende renovatie gelden, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), de voorschriften van [artikel 4.160b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.3&artikel=4.160b&z=2026-09-24&g=2026-09-24), met uitzondering van het derde lid, onder a:
 
 - a. in geval van een parkeergelegenheid in een gebouw, als de renovatie betrekking heeft op de parkeergelegenheid of de elektrische infrastructuur van het gebouw; of
 
@@ -6384,23 +6384,23 @@ Op een verblijfsruimte die niet bestemd is om te worden verwarmd of gekoeld, of 
 
 ##### Artikel 5.21d. (laadpunten elektrische voertuigen)
 
-Bij het installeren van laadpunten voor elektrische voertuigen in een overige gebruiksfunctie voor het stallen van motorvoertuigen geldt, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), het in de [artikelen 4.199](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.2&artikel=4.199&z=2026-07-01&g=2026-07-01) en [4.230a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.230a&z=2026-07-01&g=2026-07-01) aangegeven prestatieniveau.
+Bij het installeren van laadpunten voor elektrische voertuigen in een overige gebruiksfunctie voor het stallen van motorvoertuigen geldt, in aanvulling op [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), het in de [artikelen 4.199](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.2&artikel=4.199&z=2026-09-24&g=2026-09-24) en [4.230a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.8&artikel=4.230a&z=2026-09-24&g=2026-09-24) aangegeven prestatieniveau.
 
 ##### Artikel 5.21e. (fysieke gigabitinfrastructuur)
 
-Bij een ingrijpende renovatie als bedoeld in artikel 2 van de richtlijn energieprestatie gebouwen gelden, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), de voorschriften van [artikel 4.244](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.13&artikel=4.244&z=2026-07-01&g=2026-07-01) en [4.245](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.13&artikel=4.245&z=2026-07-01&g=2026-07-01).
+Bij een ingrijpende renovatie als bedoeld in artikel 2 van de richtlijn energieprestatie gebouwen gelden, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), de voorschriften van [artikel 4.244](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.13&artikel=4.244&z=2026-09-24&g=2026-09-24) en [4.245](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.13&artikel=4.245&z=2026-09-24&g=2026-09-24).
 
 ##### Artikel 5.21f. (afbakening maatwerkvoorschriften fysieke gigabitinfrastructuur)
 
-In afwijking van [artikel 5.3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.1&artikel=5.3a&z=2026-07-01&g=2026-07-01), kan een maatwerkvoorschrift of vergunningvoorschrift over [artikel 5.21e](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21e&z=2026-07-01&g=2026-07-01) alleen worden gesteld als naleving van dat artikel technisch onhaalbaar is of de kosten onevenredig verhoogt, waarbij afwijken alleen versoepelen kan inhouden.
+In afwijking van [artikel 5.3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.1&artikel=5.3a&z=2026-09-24&g=2026-09-24), kan een maatwerkvoorschrift of vergunningvoorschrift over [artikel 5.21e](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.3&artikel=5.21e&z=2026-09-24&g=2026-09-24) alleen worden gesteld als naleving van dat artikel technisch onhaalbaar is of de kosten onevenredig verhoogt, waarbij afwijken alleen versoepelen kan inhouden.
 
 ##### Artikel 5.21g. (systeem voor gebouwautomatisering en -controle)
 
-Bij een ingrijpende renovatie geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), het in [artikel 4.160d](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.4&artikel=4.160d&z=2026-07-01&g=2026-07-01) aangegeven prestatieniveau.
+Bij een ingrijpende renovatie geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), het in [artikel 4.160d](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.4&artikel=4.160d&z=2026-09-24&g=2026-09-24) aangegeven prestatieniveau.
 
 ##### Artikel 5.21h. (systeem voor ondersteuning energiegebruik technische bouwsystemen)
 
-Bij een ingrijpende renovatie geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-07-01&g=2026-07-01), het in [artikel 4.160g](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.5&artikel=4.160g&z=2026-07-01&g=2026-07-01) aangegeven prestatieniveau.
+Bij een ingrijpende renovatie geldt, in afwijking van [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.4&z=2026-09-24&g=2026-09-24), het in [artikel 4.160g](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.5&artikel=4.160g&z=2026-09-24&g=2026-09-24) aangegeven prestatieniveau.
 
 #### Afdeling 5.4. Wijziging van een gebruiksfunctie
 
@@ -6431,13 +6431,13 @@ De regels in deze afdeling zijn op een gebruiksfunctie van toepassing voor zover
 
 ##### Artikel 5.22a. (verdere beperking van uitbreiding van brand en beperking van verspreiding van rook)
 
-Bij wijziging van de gebruiksfunctie van een bouwwerk of een gedeelte daarvan naar een woonfunctie geldt, in afwijking van [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.7&z=2026-07-01&g=2026-07-01), het in [artikel 4.62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.62&z=2026-07-01&g=2026-07-01), aangegeven prestatieniveau. Dit geldt ook voor een beschermde route.
+Bij wijziging van de gebruiksfunctie van een bouwwerk of een gedeelte daarvan naar een woonfunctie geldt, in afwijking van [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.7&z=2026-09-24&g=2026-09-24), het in [artikel 4.62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.9&artikel=4.62&z=2026-09-24&g=2026-09-24), aangegeven prestatieniveau. Dit geldt ook voor een beschermde route.
 
 ##### Artikel 5.23. (geluidwering bij weg-, spoorweg- of industriegeluid)
 
 1. Bij wijziging van een gebruiksfunctie van een bouwwerk of een gedeelte daarvan is de volgens NEN 5077 bepaalde karakteristieke geluidwering van de uitwendige scheidingsconstructie van een verblijfsruimte niet kleiner dan het verschil tussen het in het omgevingsplan, de omgevingsvergunning voor een omgevingsplanactiviteit of het besluit tot vaststelling van geluidproductieplafonds als omgevingswaarden bepaalde gezamenlijke geluid, bedoeld in [bijlage I bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=I), en 33 dB.
 
-2. In afwijking van het eerste lid zijn de [artikelen 4.102](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.102&z=2026-07-01&g=2026-07-01), [4.103](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103&z=2026-07-01&g=2026-07-01), [4.103a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103a&z=2026-07-01&g=2026-07-01), [4.103b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103b&z=2026-07-01&g=2026-07-01) en [4.103c](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103c&z=2026-07-01&g=2026-07-01) van toepassing:
+2. In afwijking van het eerste lid zijn de [artikelen 4.102](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.102&z=2026-09-24&g=2026-09-24), [4.103](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103&z=2026-09-24&g=2026-09-24), [4.103a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103a&z=2026-09-24&g=2026-09-24), [4.103b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103b&z=2026-09-24&g=2026-09-24) en [4.103c](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.1&artikel=4.103c&z=2026-09-24&g=2026-09-24) van toepassing:
 
 - a. op een niet-geluidgevoelige gevel als bedoeld in [bijlage I bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=I); of
 
@@ -6447,7 +6447,7 @@ Bij wijziging van de gebruiksfunctie van een bouwwerk of een gedeelte daarvan na
 
 ##### Artikel 5.23a. (afbakening maatwerkvoorschriften geluidwering)
 
-Een maatwerkvoorschrift over [artikel 5.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&artikel=5.23&z=2026-07-01&g=2026-07-01), kan alleen inhouden dat:
+Een maatwerkvoorschrift over [artikel 5.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.4&artikel=5.23&z=2026-09-24&g=2026-09-24), kan alleen inhouden dat:
 
 - a. het gezamenlijke geluid opnieuw wordt bepaald; of
 
@@ -6455,11 +6455,11 @@ Een maatwerkvoorschrift over [artikel 5.23, eerste lid](https://wetten.overheid.
 
 ##### Artikel 5.24. (tijdig vaststellen van brand)
 
-Bij wijziging van de gebruiksfunctie van een bouwwerk of een gedeelte daarvan heeft een besloten ruimte waardoor een vluchtroute voert, tussen de uitgang van een verblijfsruimte en de uitgang van de woonfunctie, een of meer rookmelders die voldoen aan en zijn geplaatst volgens de primaire inrichtingseisen, bedoeld in NEN 2555. Dit is niet van toepassing op een woonfunctie met een brandmeldinstallatie als bedoeld in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-07-01&g=2026-07-01).
+Bij wijziging van de gebruiksfunctie van een bouwwerk of een gedeelte daarvan heeft een besloten ruimte waardoor een vluchtroute voert, tussen de uitgang van een verblijfsruimte en de uitgang van de woonfunctie, een of meer rookmelders die voldoen aan en zijn geplaatst volgens de primaire inrichtingseisen, bedoeld in NEN 2555. Dit is niet van toepassing op een woonfunctie met een brandmeldinstallatie als bedoeld in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-09-24&g=2026-09-24).
 
 ##### Artikel 5.24a. (vluchten bij brand)
 
-Bij wijziging van de gebruiksfunctie van een bouwwerk of een gedeelte daarvan naar een woonfunctie geldt, in afwijking van [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.7&z=2026-07-01&g=2026-07-01), het in [artikel 4.218, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.218&z=2026-07-01&g=2026-07-01), aangegeven prestatieniveau.
+Bij wijziging van de gebruiksfunctie van een bouwwerk of een gedeelte daarvan naar een woonfunctie geldt, in afwijking van [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=5&afdeling=5.2&artikel=5.7&z=2026-09-24&g=2026-09-24), het in [artikel 4.218, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.218&z=2026-09-24&g=2026-09-24), aangegeven prestatieniveau.
 
 ### Hoofdstuk 6. Gebruik van bouwwerken
 
@@ -6507,15 +6507,15 @@ Degene die weet of redelijkerwijs kan vermoeden dat als gevolg van het gebruik e
 
 ##### Artikel 6.5. (maatwerkvoorschriften)
 
-1. Een maatwerkvoorschrift kan worden gesteld over [afdeling 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&z=2026-07-01&g=2026-07-01) en [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.4&z=2026-07-01&g=2026-07-01), met uitzondering van bepalingen over meet- of rekenmethoden.
+1. Een maatwerkvoorschrift kan worden gesteld over [afdeling 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&z=2026-09-24&g=2026-09-24) en [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.4&z=2026-09-24&g=2026-09-24), met uitzondering van bepalingen over meet- of rekenmethoden.
 
 2. Een maatwerkvoorschrift op initiatief van het bevoegd gezag wordt alleen gesteld met het oog op het voorkomen, beperken en bestrijden van brand, brandgevaar en ongevallen bij brand.
 
-3. Een maatwerkvoorschrift op aanvraag van degene die het bouwwerk gebruikt kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.2&z=2026-07-01&g=2026-07-01), onder a, voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
+3. Een maatwerkvoorschrift op aanvraag van degene die het bouwwerk gebruikt kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.2&z=2026-09-24&g=2026-09-24), onder a, voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
 
-4. Een maatwerkvoorschrift over [afdeling 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&z=2026-07-01&g=2026-07-01) kan alleen worden gesteld na een gebruiksmelding.
+4. Een maatwerkvoorschrift over [afdeling 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&z=2026-09-24&g=2026-09-24) kan alleen worden gesteld na een gebruiksmelding.
 
-5. Een maatwerkvoorschrift over [afdeling 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&z=2026-07-01&g=2026-07-01) kan alleen worden gewijzigd:
+5. Een maatwerkvoorschrift over [afdeling 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&z=2026-09-24&g=2026-09-24) kan alleen worden gewijzigd:
 
 - a. als een verandering van inzichten of van omstandigheden gelegen buiten het bouwwerk, die bij de beoordeling van de melding een rol hebben gespeeld dit noodzakelijk maken; of
 
@@ -6571,11 +6571,11 @@ De regels in deze paragraaf zijn op een gebruiksfunctie van toepassing voor zove
 
 1. Het is verboden een bouwwerk te gebruiken zonder dit ten minste vier weken voor het begin van het gebruik van het bouwwerk te melden.
 
-2. Het eerste lid is alleen van toepassing, als in het bouwwerk meer personen aanwezig zijn dan in [tabel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.6&z=2026-07-01&g=2026-07-01) is aangegeven.
+2. Het eerste lid is alleen van toepassing, als in het bouwwerk meer personen aanwezig zijn dan in [tabel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.6&z=2026-09-24&g=2026-09-24) is aangegeven.
 
-3. Bij een nevengebruiksfunctie van een kantoor- of industriefunctie geldt in afwijking van [tabel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.6&z=2026-07-01&g=2026-07-01) een waarde van 150 personen.
+3. Bij een nevengebruiksfunctie van een kantoor- of industriefunctie geldt in afwijking van [tabel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.6&z=2026-09-24&g=2026-09-24) een waarde van 150 personen.
 
-4. Bij het bepalen van het in het tweede lid bedoelde aantal personen worden personen in een in [artikel 4.79](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.79&z=2026-07-01&g=2026-07-01) bedoelde niet-besloten ruimte buiten beschouwing gelaten.
+4. Bij het bepalen van het in het tweede lid bedoelde aantal personen worden personen in een in [artikel 4.79](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.11&artikel=4.79&z=2026-09-24&g=2026-09-24) bedoelde niet-besloten ruimte buiten beschouwing gelaten.
 
 5. Voor de toepassing van dit artikel wordt onder bouwwerk ook verstaan een gedeelte daarvan dat is bestemd om afzonderlijk te worden gebruikt.
 
@@ -6583,7 +6583,7 @@ De regels in deze paragraaf zijn op een gebruiksfunctie van toepassing voor zove
 
 1. Een gebruiksmelding wordt ondertekend en bevat de volgende gegevens en bescheiden:
 
-- a. de naam en het adres van degene die de activiteit, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.1&z=2026-07-01&g=2026-07-01), verricht, en, als dat van toepassing is, van degene die is gemachtigd om te melden;
+- a. de naam en het adres van degene die de activiteit, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.1&z=2026-09-24&g=2026-09-24), verricht, en, als dat van toepassing is, van degene die is gemachtigd om te melden;
 
 - b. de dagtekening;
 
@@ -6611,17 +6611,17 @@ De regels in deze paragraaf zijn op een gebruiksfunctie van toepassing voor zove
 
       - ii. vluchtroutes;
 
-      - iii. draairichting van deuren als bedoeld in [artikel 3.121](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.121&z=2026-07-01&g=2026-07-01);
+      - iii. draairichting van deuren als bedoeld in [artikel 3.121](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.121&z=2026-09-24&g=2026-09-24);
 
-      - iv. zelfsluitende deuren als bedoeld in [artikel 3.123](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.123&z=2026-07-01&g=2026-07-01);
+      - iv. zelfsluitende deuren als bedoeld in [artikel 3.123](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.123&z=2026-09-24&g=2026-09-24);
 
-      - v. sluitwerk van deuren als bedoeld in de [artikelen 3.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.122&z=2026-07-01&g=2026-07-01) en [6.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.2&artikel=6.21&z=2026-07-01&g=2026-07-01);
+      - v. sluitwerk van deuren als bedoeld in de [artikelen 3.122](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.122&z=2026-09-24&g=2026-09-24) en [6.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.2&artikel=6.21&z=2026-09-24&g=2026-09-24);
 
       - vi. vluchtroute-aanduidingen;
 
       - vii. noodverlichting;
 
-      - viii. oriëntatieverlichting als bedoeld in [artikel 3.103](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.103&z=2026-07-01&g=2026-07-01);
+      - viii. oriëntatieverlichting als bedoeld in [artikel 3.103](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.1&artikel=3.103&z=2026-09-24&g=2026-09-24);
 
       - ix. brandmeldcentrale en brandmeldpaneel;
 
@@ -6639,9 +6639,9 @@ De regels in deze paragraaf zijn op een gebruiksfunctie van toepassing voor zove
 
    - 5°. de aard en de plaats van de brandveiligheidsinstallaties. De aanduidingen zijn conform NEN 1413 voor zover deze norm daarin voorziet; en
 
-   - 6°. bij toepassing van een gelijkwaardige maatregel bij de regels van [afdeling 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&z=2026-07-01&g=2026-07-01) en [paragraaf 6.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.1&z=2026-07-01&g=2026-07-01): gegevens en bescheiden waarmee de gelijkwaardigheid aannemelijk wordt gemaakt.
+   - 6°. bij toepassing van een gelijkwaardige maatregel bij de regels van [afdeling 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.2&z=2026-09-24&g=2026-09-24) en [paragraaf 6.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.1&z=2026-09-24&g=2026-09-24): gegevens en bescheiden waarmee de gelijkwaardigheid aannemelijk wordt gemaakt.
 
-2. Bij een gebruiksmelding voor tijdelijk of seizoensgebonden gebruik van een bouwwerk wordt door degene die de activiteit, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.1&z=2026-07-01&g=2026-07-01), verricht, aangegeven voor welke periode of voor welke tijdvakken in een kalenderjaar het gebruik is beoogd.
+2. Bij een gebruiksmelding voor tijdelijk of seizoensgebonden gebruik van een bouwwerk wordt door degene die de activiteit, bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.1&z=2026-09-24&g=2026-09-24), verricht, aangegeven voor welke periode of voor welke tijdvakken in een kalenderjaar het gebruik is beoogd.
 
 3. Een gebruiksmelding kan betrekking hebben op meerdere bouwwerken op hetzelfde terrein of op met elkaar samenhangende terreinen.
 
@@ -6651,7 +6651,7 @@ Als door het veranderen van het bouwwerk waarvoor eerder een gebruiksmelding is 
 
 ##### Artikel 6.10. (maatwerkregels gebruiksmelding)
 
-Een maatwerkregel kan worden gesteld over [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.7&z=2026-07-01&g=2026-07-01). Met deze maatwerkregel kan alleen worden afgeweken van het in [tabel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.6&z=2026-07-01&g=2026-07-01) aangegeven aantal personen voor de celfunctie, de gezondheidszorgfunctie en de logiesfunctie gelegen in een logiesgebouw.
+Een maatwerkregel kan worden gesteld over [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.7&z=2026-09-24&g=2026-09-24). Met deze maatwerkregel kan alleen worden afgeweken van het in [tabel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.6&z=2026-09-24&g=2026-09-24) aangegeven aantal personen voor de celfunctie, de gezondheidszorgfunctie en de logiesfunctie gelegen in een logiesgebouw.
 
 #### Afdeling 6.2. Brandveiligheid
 
@@ -6690,7 +6690,7 @@ De regels in deze paragraaf zijn op een gebruiksfunctie van toepassing voor zove
 
 ##### Artikel 6.13. (vastzetten zelfsluitend constructieonderdeel)
 
-Een zelfsluitend constructieonderdeel als bedoeld in de [artikelen 3.123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.123&z=2026-07-01&g=2026-07-01), en [4.218, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.218&z=2026-07-01&g=2026-07-01), mag niet in geopende stand zijn vastgezet tenzij het constructieonderdeel bij brand en bij rook door brand automatisch wordt losgelaten.
+Een zelfsluitend constructieonderdeel als bedoeld in de [artikelen 3.123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.123&z=2026-09-24&g=2026-09-24), en [4.218, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.218&z=2026-09-24&g=2026-09-24), mag niet in geopende stand zijn vastgezet tenzij het constructieonderdeel bij brand en bij rook door brand automatisch wordt losgelaten.
 
 ##### Artikel 6.14. (aankleding)
 
@@ -6702,7 +6702,7 @@ Een zelfsluitend constructieonderdeel als bedoeld in de [artikelen 3.123, eerste
 
 - c. voldoet aan brandklasse A1 bedoeld in NEN-EN 13501-1;
 
-- d. voldoet aan de eisen voor constructieonderdelen, bedoeld in de [paragrafen 3.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&z=2026-07-01&g=2026-07-01) en [4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&z=2026-07-01&g=2026-07-01); of
+- d. voldoet aan de eisen voor constructieonderdelen, bedoeld in de [paragrafen 3.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&z=2026-09-24&g=2026-09-24) en [4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&z=2026-09-24&g=2026-09-24); of
 
 - e. een navlamduur heeft van ten hoogste 15 seconden en een nagloeiduur van ten hoogste 60 seconden.
 
@@ -6722,7 +6722,7 @@ Een zelfsluitend constructieonderdeel als bedoeld in de [artikelen 3.123, eerste
 
 - c. voldoet aan brandklasse A1, bedoeld in NEN-EN 13501-1; of
 
-- d. voldoet aan de eisen voor constructieonderdelen, bedoeld in de [paragrafen 3.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&z=2026-07-01&g=2026-07-01) en [4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&z=2026-07-01&g=2026-07-01).
+- d. voldoet aan de eisen voor constructieonderdelen, bedoeld in de [paragrafen 3.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.7&z=2026-09-24&g=2026-09-24) en [4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.7&z=2026-09-24&g=2026-09-24).
 
 4. Aankleding ter plaatse van of nabij apparatuur en installaties die warmte ontwikkelen voldoet aan brandklasse A1, bedoeld in NEN-EN 13501-1, of is onbrandbaar, bepaald volgens NEN 6064, als:
 
@@ -6780,7 +6780,7 @@ Een zelfsluitend constructieonderdeel als bedoeld in de [artikelen 3.123, eerste
 
 ##### Artikel 6.16. (brandveilig gebruik grote brandcompartimenten)
 
-Als bij de toepassing van [artikel 4.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.51&z=2026-07-01&g=2026-07-01), gebruik is gemaakt van de bepalingsmethoden van NEN 6060 of NEN 6079 wordt bij het gebruik van het bouwwerk rekening gehouden met de gebruiksvoorwaarden in die normbladen.
+Als bij de toepassing van [artikel 4.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.8&artikel=4.51&z=2026-09-24&g=2026-09-24), gebruik is gemaakt van de bepalingsmethoden van NEN 6060 of NEN 6079 wordt bij het gebruik van het bouwwerk rekening gehouden met de gebruiksvoorwaarden in die normbladen.
 
 ##### Artikel 6.17. (behandeling constructieonderdeel)
 
@@ -6826,11 +6826,11 @@ De regels in deze paragraaf zijn op een gebruiksfunctie van toepassing voor zove
 
 ##### Artikel 6.20. (ontruiming bij brand)
 
-1. In een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-07-01&g=2026-07-01) en in een bouwwerk waarvoor een gebruiksmelding als bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.7&z=2026-07-01&g=2026-07-01) is gedaan, zijn voldoende personen aangewezen om de ontruiming bij brand voldoende snel te laten verlopen.
+1. In een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-09-24&g=2026-09-24) en in een bouwwerk waarvoor een gebruiksmelding als bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.7&z=2026-09-24&g=2026-09-24) is gedaan, zijn voldoende personen aangewezen om de ontruiming bij brand voldoende snel te laten verlopen.
 
 2. Het eerste lid is niet van toepassing op een woonfunctie voor zorg met zorg op afspraak of met zorg op afroep.
 
-3. Een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-07-01&g=2026-07-01) heeft een ontruimingsplan.
+3. Een gebruiksfunctie met een brandmeldinstallatie als bedoeld in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-09-24&g=2026-09-24) heeft een ontruimingsplan.
 
 4. In een logiesfunctie met 24-uursbewaking is 24 uur per dag een functionaris aanwezig op het eigen perceel of op een loopafstand van ten hoogste 100 m vanaf een toegang van het logiesgebouw.
 
@@ -6838,7 +6838,7 @@ De regels in deze paragraaf zijn op een gebruiksfunctie van toepassing voor zove
 
 1. Een deur op een vluchtroute is bij aanwezigheid van personen in het bouwwerk alleen gesloten als die deur tijdens het vluchten, zonder gebruik te moeten maken van een sleutel, onmiddellijk over de ten minste vereiste breedte kan worden geopend.
 
-2. In afwijking van het eerste lid kan een deur op een vluchtroute die begint in een ruimte voor het insluiten van personen als bedoeld in de [artikelen 3.122, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.122&z=2026-07-01&g=2026-07-01), en [4.217, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.217&z=2026-07-01&g=2026-07-01), tijdens het vluchten met een sleutel over de ten minste vereiste breedte worden geopend, mits de inrichting, het gebruik en de organisatie zodanig zijn dat het in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.2&z=2026-07-01&g=2026-07-01) beoogde brandveiligheidsniveau is gewaarborgd.
+2. In afwijking van het eerste lid kan een deur op een vluchtroute die begint in een ruimte voor het insluiten van personen als bedoeld in de [artikelen 3.122, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.122&z=2026-09-24&g=2026-09-24), en [4.217, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4&afdeling=4.7&paragraaf=4.7.6&artikel=4.217&z=2026-09-24&g=2026-09-24), tijdens het vluchten met een sleutel over de ten minste vereiste breedte worden geopend, mits de inrichting, het gebruik en de organisatie zodanig zijn dat het in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.2&z=2026-09-24&g=2026-09-24) beoogde brandveiligheidsniveau is gewaarborgd.
 
 3. Het eerste lid geldt niet voor een niet-gemeenschappelijke vluchtroute.
 
@@ -6922,7 +6922,7 @@ De concentratie van formaldehyde in de binnenlucht van een voor personen toegank
 
 ##### Artikel 6.28. (uitzonderingen energielabel)
 
-[Artikel 6.27](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.27&z=2026-07-01&g=2026-07-01) is niet van toepassing op:
+[Artikel 6.27](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.27&z=2026-09-24&g=2026-09-24) is niet van toepassing op:
 
 - a. een gebouw of gedeelte daarvan, dat niet is bestemd om te worden verwarmd of gekoeld voor personen;
 
@@ -6956,7 +6956,7 @@ De concentratie van formaldehyde in de binnenlucht van een voor personen toegank
 
 ##### Artikel 6.30. (kenbaarheid energielabel)
 
-1. Degene die een gebouw of gedeelte daarvan te koop of te huur aanbiedt door middel van advertenties in commerciële media, vermeldt in die advertenties de energieprestatie-indicator en de letter of lettercombinatie van een geldig energielabel, bedoeld in [artikel 6.29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.29&z=2026-07-01&g=2026-07-01), dat is afgegeven voor dat gebouw of het gedeelte daarvan, met uitzondering van gebouwen of gedeeltes daarvan waarop [artikel 6.27](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.27&z=2026-07-01&g=2026-07-01) niet van toepassing is.
+1. Degene die een gebouw of gedeelte daarvan te koop of te huur aanbiedt door middel van advertenties in commerciële media, vermeldt in die advertenties de energieprestatie-indicator en de letter of lettercombinatie van een geldig energielabel, bedoeld in [artikel 6.29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.29&z=2026-09-24&g=2026-09-24), dat is afgegeven voor dat gebouw of het gedeelte daarvan, met uitzondering van gebouwen of gedeeltes daarvan waarop [artikel 6.27](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.27&z=2026-09-24&g=2026-09-24) niet van toepassing is.
 
 2. De eigenaar van een gebouw of gedeelte daarvan brengt het energielabel aan op een voor het publiek duidelijk zichtbare plaats in dat gebouw of gedeelte, als het gebouw of gedeelte daarvan in gebruik is door een overheidsinstantie en dat gebouw of gedeelte veelvuldig door het publiek wordt bezocht.
 
@@ -6972,19 +6972,19 @@ De concentratie van formaldehyde in de binnenlucht van een voor personen toegank
 
 ##### Artikel 6.32. (brandmeldinstallatie)
 
-1. In de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-07-01&g=2026-07-01) bedoelde gevallen heeft een in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-07-01&g=2026-07-01) voorgeschreven brandmeldinstallatie een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandbeveiliging.
+1. In de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-09-24&g=2026-09-24) bedoelde gevallen heeft een in [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-09-24&g=2026-09-24) voorgeschreven brandmeldinstallatie een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandbeveiliging.
 
 2. Een krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) voorgeschreven brandmeldinstallatie wordt op adequate wijze beheerd, gecontroleerd en onderhouden.
 
-3. Een inspectiecertificaat heeft een geldigheidsduur van drie jaar. Als op grond van [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-07-01&g=2026-07-01) doormelding is verplicht, is de geldigheidsduur een jaar.
+3. Een inspectiecertificaat heeft een geldigheidsduur van drie jaar. Als op grond van [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-09-24&g=2026-09-24) doormelding is verplicht, is de geldigheidsduur een jaar.
 
 ##### Artikel 6.33. (ontruimingsalarminstallatie)
 
-1. In de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-07-01&g=2026-07-01) bedoelde gevallen heeft een in [artikel 3.119](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.119&z=2026-07-01&g=2026-07-01) voorgeschreven ontruimingsalarminstallatie een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandbeveiliging.
+1. In de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=II&z=2026-09-24&g=2026-09-24) bedoelde gevallen heeft een in [artikel 3.119](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.6&artikel=3.119&z=2026-09-24&g=2026-09-24) voorgeschreven ontruimingsalarminstallatie een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandbeveiliging.
 
 2. Een krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) voorgeschreven ontruimingsalarminstallatie wordt op adequate wijze beheerd, gecontroleerd en onderhouden.
 
-3. Een inspectiecertificaat heeft een geldigheidsduur van drie jaar. Als op grond van [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-07-01&g=2026-07-01) doormelding is verplicht, is de geldigheidsduur een jaar.
+3. Een inspectiecertificaat heeft een geldigheidsduur van drie jaar. Als op grond van [artikel 3.115](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.7&paragraaf=3.7.5&artikel=3.115&z=2026-09-24&g=2026-09-24) doormelding is verplicht, is de geldigheidsduur een jaar.
 
 ##### Artikel 6.34. (droge blusleiding)
 
@@ -7034,7 +7034,7 @@ Voor de toepassing van deze paragraaf zijn de begripsomschrijvingen, bedoeld in 
 
 ##### Artikel 6.39. (afstellen, onderhoud en rapportage)
 
-1. Een keuring als bedoeld in [artikel 6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.38&z=2026-07-01&g=2026-07-01) omvat:
+1. Een keuring als bedoeld in [artikel 6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.38&z=2026-09-24&g=2026-09-24) omvat:
 
 - a. de afstelling voor de verbranding;
 
@@ -7056,7 +7056,7 @@ Voor de toepassing van deze paragraaf zijn de begripsomschrijvingen, bedoeld in 
 
 ##### Artikel 6.39a. (verslag keuring)
 
-1. Van de keuring, bedoeld in [artikel 6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.38&z=2026-07-01&g=2026-07-01), wordt een verslag gemaakt.
+1. Van de keuring, bedoeld in [artikel 6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.38&z=2026-09-24&g=2026-09-24), wordt een verslag gemaakt.
 
 2. Voor stookinstallaties met een nominaal thermisch ingangsvermogen van ten minste 1 MW omvat het verslag:
 
@@ -7088,17 +7088,17 @@ Voor de toepassing van deze paragraaf zijn de begripsomschrijvingen, bedoeld in 
 
 ##### Artikel 6.40. (certificatie keuringsinstelling)
 
-Een keuring als bedoeld in [artikel 6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.38&z=2026-07-01&g=2026-07-01) wordt verricht door een onderneming met een certificaat voor de Deelregeling voor stookinstallaties, onderdeel van de Certificatieregeling ten behoeve van het uitvoeren van onderhoud en inspectie aan technische installaties, van de stichting SCIOS, afgegeven door een certificatie-instantie met een accreditatie volgens die Deelregeling.
+Een keuring als bedoeld in [artikel 6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.38&z=2026-09-24&g=2026-09-24) wordt verricht door een onderneming met een certificaat voor de Deelregeling voor stookinstallaties, onderdeel van de Certificatieregeling ten behoeve van het uitvoeren van onderhoud en inspectie aan technische installaties, van de stichting SCIOS, afgegeven door een certificatie-instantie met een accreditatie volgens die Deelregeling.
 
 ##### Artikel 6.41. (inzage in bescheiden)
 
 1. De volgende gegevens en documenten worden ten minste zes jaar bij de stookinstallatie bewaard:
 
-- a. het verslag van de keuring bedoeld in [artikel 6.39a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.39a&z=2026-07-01&g=2026-07-01), ondertekend door degene die de keuring heeft verricht;
+- a. het verslag van de keuring bedoeld in [artikel 6.39a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.39a&z=2026-09-24&g=2026-09-24), ondertekend door degene die de keuring heeft verricht;
 
-- b. een bewijs van uitvoering van onderhoud als bedoeld in [artikel 6.39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.39&z=2026-07-01&g=2026-07-01), gedateerd en ondertekend door degene die het onderhoud heeft uitgevoerd;
+- b. een bewijs van uitvoering van onderhoud als bedoeld in [artikel 6.39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.39&z=2026-09-24&g=2026-09-24), gedateerd en ondertekend door degene die het onderhoud heeft uitgevoerd;
 
-- c. de registratie van het aantal draaiuren, bedoeld in [artikel 6.39a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.39a&z=2026-07-01&g=2026-07-01);
+- c. de registratie van het aantal draaiuren, bedoeld in [artikel 6.39a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.39a&z=2026-09-24&g=2026-09-24);
 
 - d. de resultaten van de laatst verrichte metingen en andere gegevens die nodig zijn om te kunnen beoordelen of wordt voldaan aan de emissiegrenswaarden;
 
@@ -7108,9 +7108,9 @@ Een keuring als bedoeld in [artikel 6.38](https://wetten.overheid.nl/jci1.3:c:BW
 
 - g. een overzicht van de gevallen van niet-voldoen aan de emissiegrenswaarden en de getroffen maatregelen.
 
-2. Als een stookinstallatie bij de keuring of na het onderhoud, bedoeld in [artikel 6.39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.39&z=2026-07-01&g=2026-07-01), voldoet aan de eisen voor veilig functioneren, optimale verbranding en energiezuinigheid, wordt deze afgemeld in het afmeldsysteem van de Stichting SCIOS.
+2. Als een stookinstallatie bij de keuring of na het onderhoud, bedoeld in [artikel 6.39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.39&z=2026-09-24&g=2026-09-24), voldoet aan de eisen voor veilig functioneren, optimale verbranding en energiezuinigheid, wordt deze afgemeld in het afmeldsysteem van de Stichting SCIOS.
 
-3. De afmelding bevat de gegevens, genoemd in [artikel 6.39a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.39a&z=2026-07-01&g=2026-07-01).
+3. De afmelding bevat de gegevens, genoemd in [artikel 6.39a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.39a&z=2026-09-24&g=2026-09-24).
 
 #### § 6.5.4. Verwarmingssystemen
 
@@ -7146,7 +7146,7 @@ natuurlijke persoon of rechtspersoon met een certificaat als bedoeld in [artikel
 
 3. Het tweede lid is niet van toepassing op:
 
-- a. stookinstallaties als bedoeld in [artikel 6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.38&z=2026-07-01&g=2026-07-01);
+- a. stookinstallaties als bedoeld in [artikel 6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.3&artikel=6.38&z=2026-09-24&g=2026-09-24);
 
 - b. werkzaamheden die worden verricht voor het verkrijgen van een certificaat als bedoeld in [artikel 3.35, onder a, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.35) of een accreditatie als bedoeld in [artikel 3.36, tweede lid, onder a, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.36).
 
@@ -7164,7 +7164,7 @@ Als een certificaathouder bij het verrichten van zijn werkzaamheden constateert 
 
 ##### Artikel 6.48. (overgangsrecht: werkzaamheden aan verbrandingstoestellen, verbrandingsluchttoevoervoorzieningen en rookgasafvoervoorzieningen)
 
-[Artikel 6.45](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.5&artikel=6.45&z=2026-07-01&g=2026-07-01) is niet van toepassing op werkzaamheden die aangevangen zijn voor het tijdstip waarop artikel II van het Besluit van 14 september 2020 houdende wijziging van het Bouwbesluit 2012, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit in verband met de introductie van een stelsel van certificering voor werkzaamheden aan gasverbrandingsinstallaties in werking is getreden.
+[Artikel 6.45](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.5&paragraaf=6.5.5&artikel=6.45&z=2026-09-24&g=2026-09-24) is niet van toepassing op werkzaamheden die aangevangen zijn voor het tijdstip waarop artikel II van het Besluit van 14 september 2020 houdende wijziging van het Bouwbesluit 2012, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit in verband met de introductie van een stelsel van certificering voor werkzaamheden aan gasverbrandingsinstallaties in werking is getreden.
 
 ### Hoofdstuk 7. Bouw- en sloopwerkzaamheden
 
@@ -7198,31 +7198,31 @@ Aan de regels in deze afdeling wordt voldaan door degene die de bouw- of sloopwe
 
 ##### Artikel 7.5. (maatwerkvoorschriften)
 
-1. Een maatwerkvoorschrift kan worden gesteld over [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.4&z=2026-07-01&g=2026-07-01) en de [paragrafen 7.1.2 tot en met 7.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&z=2026-07-01&g=2026-07-01), met uitzondering van de [artikelen 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-07-01&g=2026-07-01), [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-07-01&g=2026-07-01) en [7.22a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22a&z=2026-07-01&g=2026-07-01) en bepalingen over:
+1. Een maatwerkvoorschrift kan worden gesteld over [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.4&z=2026-09-24&g=2026-09-24) en de [paragrafen 7.1.2 tot en met 7.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&z=2026-09-24&g=2026-09-24), met uitzondering van de [artikelen 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-09-24&g=2026-09-24), [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-09-24&g=2026-09-24) en [7.22a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22a&z=2026-09-24&g=2026-09-24) en bepalingen over:
 
 - a. meldingplichten; en
 
 - b. meet- of rekenmethoden.
 
-2. Met een maatwerkvoorschrift kan worden afgeweken van de regels in de [paragrafen 7.1.2 tot en met 7.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&z=2026-07-01&g=2026-07-01), waarbij afwijken van de [artikelen 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.17&z=2026-07-01&g=2026-07-01) en [7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.18&z=2026-07-01&g=2026-07-01) alleen versoepelen als bedoeld in [artikel 7.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.23&z=2026-07-01&g=2026-07-01), kan inhouden.
+2. Met een maatwerkvoorschrift kan worden afgeweken van de regels in de [paragrafen 7.1.2 tot en met 7.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&z=2026-09-24&g=2026-09-24), waarbij afwijken van de [artikelen 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.17&z=2026-09-24&g=2026-09-24) en [7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.18&z=2026-09-24&g=2026-09-24) alleen versoepelen als bedoeld in [artikel 7.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.23&z=2026-09-24&g=2026-09-24), kan inhouden.
 
-3. Een maatwerkvoorschrift over de [artikelen 7.15 tot en met 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.15&z=2026-07-01&g=2026-07-01) kan in ieder geval inhouden een verplichting tot het aanstellen van een veiligheidscoördinator directe omgeving als bedoeld in [artikel 7.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5b&z=2026-07-01&g=2026-07-01) en het opstellen van een bouw- of sloopveiligheidsplan met maatregelen ter uitvoering van de artikelen 7.15 tot en met 7.19.
+3. Een maatwerkvoorschrift over de [artikelen 7.15 tot en met 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.15&z=2026-09-24&g=2026-09-24) kan in ieder geval inhouden een verplichting tot het aanstellen van een veiligheidscoördinator directe omgeving als bedoeld in [artikel 7.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5b&z=2026-09-24&g=2026-09-24) en het opstellen van een bouw- of sloopveiligheidsplan met maatregelen ter uitvoering van de artikelen 7.15 tot en met 7.19.
 
-4. In afwijking van het tweede lid kan een maatwerkvoorschrift over de [artikelen 7.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.19a&z=2026-07-01&g=2026-07-01) en [7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.21&z=2026-07-01&g=2026-07-01) alleen nadere invulling van het bepaalde in dat artikel inhouden. Met een maatwerkvoorschrift wordt de uitvoering van een vastgesteld projectbesluit niet belemmerd.
+4. In afwijking van het tweede lid kan een maatwerkvoorschrift over de [artikelen 7.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.19a&z=2026-09-24&g=2026-09-24) en [7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.21&z=2026-09-24&g=2026-09-24) alleen nadere invulling van het bepaalde in dat artikel inhouden. Met een maatwerkvoorschrift wordt de uitvoering van een vastgesteld projectbesluit niet belemmerd.
 
-5. Een maatwerkvoorschrift op aanvraag van degene die de bouw- of sloopwerkzaamheden verricht, kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.2&z=2026-07-01&g=2026-07-01), voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
+5. Een maatwerkvoorschrift op aanvraag van degene die de bouw- of sloopwerkzaamheden verricht, kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.2&z=2026-09-24&g=2026-09-24), voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
 
 ##### Artikel 7.5a. (risicomatrix)
 
 1. Er is een risicomatrix met een duiding van de risico’s voor de veiligheid die zijn verbonden aan de beoogde bouw- of sloopwerkzaamheden.
 
-2. Een veiligheidscoördinator directe omgeving als bedoeld in [artikel 7.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5b&z=2026-07-01&g=2026-07-01) wordt aangesteld en een bouw- of sloopveiligheidsplan wordt opgesteld als de ingevulde risicomatrix daartoe noodzaakt.
+2. Een veiligheidscoördinator directe omgeving als bedoeld in [artikel 7.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5b&z=2026-09-24&g=2026-09-24) wordt aangesteld en een bouw- of sloopveiligheidsplan wordt opgesteld als de ingevulde risicomatrix daartoe noodzaakt.
 
 ##### Artikel 7.5b. (veiligheid en gezondheid directe omgeving: veiligheidscoördinator directe omgeving)
 
-Als op grond van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2026-07-01&g=2026-07-01) of [7.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5a&z=2026-07-01&g=2026-07-01) een veiligheidscoördinator directe omgeving moet worden aangesteld, draagt degene die de bouw- of sloopwerkzaamheden verricht er zorg voor dat die coördinator:
+Als op grond van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2026-09-24&g=2026-09-24) of [7.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5a&z=2026-09-24&g=2026-09-24) een veiligheidscoördinator directe omgeving moet worden aangesteld, draagt degene die de bouw- of sloopwerkzaamheden verricht er zorg voor dat die coördinator:
 
-- a. de maatregelen coördineert die bij de bouw- of sloopwerkzaamheden worden getroffen ter uitvoering van de [artikelen 7.15 tot en met 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.15&z=2026-07-01&g=2026-07-01), voor zover het maatregelen betreft om de veiligheid te waarborgen en de gezondheid te beschermen in de directe omgeving van het bouw- of sloopterrein; en
+- a. de maatregelen coördineert die bij de bouw- of sloopwerkzaamheden worden getroffen ter uitvoering van de [artikelen 7.15 tot en met 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.15&z=2026-09-24&g=2026-09-24), voor zover het maatregelen betreft om de veiligheid te waarborgen en de gezondheid te beschermen in de directe omgeving van het bouw- of sloopterrein; en
 
 - b. erop toe ziet dat:
 
@@ -7240,9 +7240,9 @@ Als op grond van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&h
 
 ##### Artikel 7.5c. (gegevens en bescheiden: stikstofemissie en risicomatrix)
 
-1. Gelijktijdig met de aanvraag om een omgevingsvergunning voor een bouwactiviteit of de bouwmelding, bedoeld in [artikel 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-07-01&g=2026-07-01), en de sloopmelding als de hoeveelheid sloopafval naar redelijke inschatting meer dan 10 m3 bedraagt, bedoeld in [artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.10&z=2026-07-01&g=2026-07-01), worden de volgende gegevens en bescheiden verstrekt:
+1. Gelijktijdig met de aanvraag om een omgevingsvergunning voor een bouwactiviteit of de bouwmelding, bedoeld in [artikel 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-09-24&g=2026-09-24), en de sloopmelding als de hoeveelheid sloopafval naar redelijke inschatting meer dan 10 m3 bedraagt, bedoeld in [artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.10&z=2026-09-24&g=2026-09-24), worden de volgende gegevens en bescheiden verstrekt:
 
-- a. een beschrijving van de maatregelen om te voldoen aan [artikel 7.19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.19a&z=2026-07-01&g=2026-07-01); en
+- a. een beschrijving van de maatregelen om te voldoen aan [artikel 7.19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.19a&z=2026-09-24&g=2026-09-24); en
 
 - b. de risicomatrix en, voor zover van toepassing, het bouw- of sloopveiligheidsplan en de naam en contactgegevens van de veiligheidscoördinator directe omgeving, en andere gegevens en bescheiden over de maatregelen om de veiligheid te waarborgen en de gezondheid te beschermen in de directe omgeving van de bouw- of sloopwerkzaamheden.
 
@@ -7250,17 +7250,17 @@ Als op grond van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&h
 
 ##### Artikel 7.6. (geen gelijkwaardige maatregel)
 
-Het treffen van een gelijkwaardige maatregel is uitgesloten voor de [artikelen 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.9&z=2026-07-01&g=2026-07-01), [7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-07-01&g=2026-07-01) en [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-07-01&g=2026-07-01).
+Het treffen van een gelijkwaardige maatregel is uitgesloten voor de [artikelen 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.9&z=2026-09-24&g=2026-09-24), [7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-09-24&g=2026-09-24) en [7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-09-24&g=2026-09-24).
 
 #### § 7.1.2. Procedure bouwwerkzaamheden
 
 ##### Artikel 7.7. (informeren: begin en beëindiging bouwwerkzaamheden)
 
-1. Ten minste twee werkdagen voor het begin van bouwwerkzaamheden, met inbegrip van ontgravingswerkzaamheden, wordt het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-07-01&g=2026-07-01), daarover geïnformeerd.
+1. Ten minste twee werkdagen voor het begin van bouwwerkzaamheden, met inbegrip van ontgravingswerkzaamheden, wordt het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-09-24&g=2026-09-24), daarover geïnformeerd.
 
-2. Het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-07-01&g=2026-07-01), wordt uiterlijk op de eerste werkdag na beëindiging van de bouwwerkzaamheden daarover geïnformeerd. Het bouwwerk wordt niet in gebruik genomen voordat aan deze informatieplicht is voldaan.
+2. Het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-09-24&g=2026-09-24), wordt uiterlijk op de eerste werkdag na beëindiging van de bouwwerkzaamheden daarover geïnformeerd. Het bouwwerk wordt niet in gebruik genomen voordat aan deze informatieplicht is voldaan.
 
-3. Het eerste en tweede lid zijn alleen van toepassing op het bouwen van een bouwwerk waarvoor een omgevingsvergunning voor een bouwactiviteit of een melding als bedoeld in [artikel 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-07-01&g=2026-07-01), nodig is.
+3. Het eerste en tweede lid zijn alleen van toepassing op het bouwen van een bouwwerk waarvoor een omgevingsvergunning voor een bouwactiviteit of een melding als bedoeld in [artikel 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-09-24&g=2026-09-24), nodig is.
 
 ##### Artikel 7.8. (aanwezigheid gegevens en bescheiden bouwwerkzaamheden)
 
@@ -7268,15 +7268,15 @@ Tijdens het verrichten van bouwwerkzaamheden zijn, voor zover deze documenten zi
 
 - a. de omgevingsvergunning voor de bouwactiviteit;
 
-- b. de melding, bedoeld in [artikel 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-07-01&g=2026-07-01);
+- b. de melding, bedoeld in [artikel 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-09-24&g=2026-09-24);
 
 - c. een actuele planning van de data waarop specifieke bouwwerkzaamheden worden uitgevoerd;
 
 - d. de risicomatrix, het bouwveiligheidsplan en andere gegevens en bescheiden over de maatregelen om de veiligheid te waarborgen en de gezondheid te beschermen in de directe omgeving van de bouwwerkzaamheden;
 
-- e. een afschrift van een maatwerkvoorschrift als bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.7&z=2026-07-01&g=2026-07-01) en [7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.23&z=2026-07-01&g=2026-07-01);
+- e. een afschrift van een maatwerkvoorschrift als bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.7&z=2026-09-24&g=2026-09-24) en [7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.23&z=2026-09-24&g=2026-09-24);
 
-- f. als op grond van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2026-07-01&g=2026-07-01) of [7.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5a&z=2026-07-01&g=2026-07-01) een veiligheidscoördinator directe omgeving als bedoeld in [artikel 7.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5b&z=2026-07-01&g=2026-07-01) moet worden aangesteld: de naam en contactgegevens van die coördinator;
+- f. als op grond van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2026-09-24&g=2026-09-24) of [7.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5a&z=2026-09-24&g=2026-09-24) een veiligheidscoördinator directe omgeving als bedoeld in [artikel 7.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5b&z=2026-09-24&g=2026-09-24) moet worden aangesteld: de naam en contactgegevens van die coördinator;
 
 - g. een besluit tot oplegging van een last onder bestuursdwang of last onder dwangsom; en
 
@@ -7334,7 +7334,7 @@ Tijdens het verrichten van bouwwerkzaamheden zijn, voor zover deze documenten zi
 
 - a. slopen van een seizoensgebonden bouwwerk;
 
-- b. slopen op grond van een maatwerkvoorschrift als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.6&z=2026-07-01&g=2026-07-01), of van een besluit tot oplegging van een last onder bestuursdwang of last onder dwangsom; en
+- b. slopen op grond van een maatwerkvoorschrift als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.6&z=2026-09-24&g=2026-09-24), of van een besluit tot oplegging van een last onder bestuursdwang of last onder dwangsom; en
 
 - c. slopen dat alleen bestaat uit het in de uitoefening van een beroep of bedrijf:
 
@@ -7376,19 +7376,19 @@ Tijdens het verrichten van bouwwerkzaamheden zijn, voor zover deze documenten zi
 
 - f. een globale inventarisatie van de aard en de hoeveelheid van de afvalstoffen die naar verwachting zullen vrijkomen bij de sloopwerkzaamheden en een opgave van de voorgenomen afvoerbestemming van die stoffen; en
 
-- g. als op grond van [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.9&z=2026-07-01&g=2026-07-01) een asbestinventarisatierapport is vereist, het asbestinventarisatierapport of een afschrift van de resultaten van de eindbeoordeling, bedoeld in [artikel 7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-07-01&g=2026-07-01).
+- g. als op grond van [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.9&z=2026-09-24&g=2026-09-24) een asbestinventarisatierapport is vereist, het asbestinventarisatierapport of een afschrift van de resultaten van de eindbeoordeling, bedoeld in [artikel 7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-09-24&g=2026-09-24).
 
 2. In afwijking van het eerste lid worden de gegevens, bedoeld in onderdeel b van dat lid, ten minste twee werkdagen voor het begin van de sloopwerkzaamheden verstrekt.
 
-3. Als tijdens het slopen asbest wordt ontdekt dat niet is opgenomen in het asbestinventarisatierapport wordt het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-07-01&g=2026-07-01), daarover onverwijld geïnformeerd.
+3. Als tijdens het slopen asbest wordt ontdekt dat niet is opgenomen in het asbestinventarisatierapport wordt het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-09-24&g=2026-09-24), daarover onverwijld geïnformeerd.
 
 4. Een sloopmelding die betrekking heeft op slopen waarbij asbest wordt verwijderd dat is ingedeeld in risicoklasse 2 of 2A als bedoeld in [artikel 4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.48) of [4.53a van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53a), wordt alleen langs elektronische weg gedaan.
 
 ##### Artikel 7.12. (informeren: begin en beëindiging sloopwerkzaamheden)
 
-1. Ten minste twee werkdagen voor het begin van sloopwerkzaamheden wordt het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-07-01&g=2026-07-01), daarover geïnformeerd.
+1. Ten minste twee werkdagen voor het begin van sloopwerkzaamheden wordt het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-09-24&g=2026-09-24), daarover geïnformeerd.
 
-2. Het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-07-01&g=2026-07-01), wordt uiterlijk op de eerste werkdag na beëindiging van de sloopwerkzaamheden daarover geïnformeerd.
+2. Het bevoegd gezag, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.2&z=2026-09-24&g=2026-09-24), wordt uiterlijk op de eerste werkdag na beëindiging van de sloopwerkzaamheden daarover geïnformeerd.
 
 3. Het eerste en tweede lid zijn alleen van toepassing op het slopen van een bouwwerk waarvoor een sloopmelding nodig is.
 
@@ -7396,13 +7396,13 @@ Tijdens het verrichten van bouwwerkzaamheden zijn, voor zover deze documenten zi
 
 1. Dit artikel is van toepassing als bij de sloopwerkzaamheden asbest is of wordt verwijderd dat is ingedeeld in risicoklasse 2 of 2A als bedoeld in [artikel 4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.48) of [4.53a van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53a).
 
-2. In afwijking van [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.12&z=2026-07-01&g=2026-07-01), wordt ten minste twee werkdagen voor het begin van de sloopwerkzaamheden de datum waarop wordt begonnen met de werkzaamheden in het LAVS ingevoerd.
+2. In afwijking van [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.12&z=2026-09-24&g=2026-09-24), wordt ten minste twee werkdagen voor het begin van de sloopwerkzaamheden de datum waarop wordt begonnen met de werkzaamheden in het LAVS ingevoerd.
 
-3. In afwijking van het [artikel 7.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.12&z=2026-07-01&g=2026-07-01), wordt uiterlijk de eerste werkdag na de beëindiging van de sloopwerkzaamheden de datum van beëindiging in het LAVS ingevoerd.
+3. In afwijking van het [artikel 7.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.12&z=2026-09-24&g=2026-09-24), wordt uiterlijk de eerste werkdag na de beëindiging van de sloopwerkzaamheden de datum van beëindiging in het LAVS ingevoerd.
 
-4. Degene die de eindbeoordeling, bedoeld in [artikel 7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-07-01&g=2026-07-01), of de visuele inspectie, bedoeld artikel 7.22, tweede lid, heeft verricht, voert binnen twee weken nadat de eindbeoordeling of visuele inspectie is verricht, het eindresultaat daarvan in het LAVS in.
+4. Degene die de eindbeoordeling, bedoeld in [artikel 7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-09-24&g=2026-09-24), of de visuele inspectie, bedoeld artikel 7.22, tweede lid, heeft verricht, voert binnen twee weken nadat de eindbeoordeling of visuele inspectie is verricht, het eindresultaat daarvan in het LAVS in.
 
-5. Binnen twee weken nadat de eindbeoordeling, bedoeld in [artikel 7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-07-01&g=2026-07-01), of de visuele inspectie, bedoeld artikel 7.22, tweede lid, is verricht, wordt in het LAVS een bewijs ingevoerd van de afvoer van het asbestafval, onder opgave van het gewicht en van de afvoerbestemming van het asbestafval.
+5. Binnen twee weken nadat de eindbeoordeling, bedoeld in [artikel 7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-09-24&g=2026-09-24), of de visuele inspectie, bedoeld artikel 7.22, tweede lid, is verricht, wordt in het LAVS een bewijs ingevoerd van de afvoer van het asbestafval, onder opgave van het gewicht en van de afvoerbestemming van het asbestafval.
 
 6. Het tweede tot en met vierde lid zijn alleen van toepassing op het slopen van een bouwwerk waarvoor een sloopmelding nodig is.
 
@@ -7414,21 +7414,21 @@ Tijdens het slopen zijn, voor zover deze zijn opgesteld, de volgende gegevens en
 
 - b. de risicomatrix, het sloopveiligheidsplan, en andere gegevens en bescheiden over de maatregelen om de veiligheid te waarborgen en de gezondheid te beschermen in de directe omgeving van de sloopwerkzaamheden;
 
-- c. als op grond van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2026-07-01&g=2026-07-01) of [7.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5a&z=2026-07-01&g=2026-07-01) een veiligheidscoördinator directe omgeving als bedoeld in [artikel 7.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5b&z=2026-07-01&g=2026-07-01) moet worden aangesteld: de naam en contactgegevens van die coördinator;
+- c. als op grond van [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2026-09-24&g=2026-09-24) of [7.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5a&z=2026-09-24&g=2026-09-24) een veiligheidscoördinator directe omgeving als bedoeld in [artikel 7.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5b&z=2026-09-24&g=2026-09-24) moet worden aangesteld: de naam en contactgegevens van die coördinator;
 
-- d. een afschrift van een maatwerkvoorschrift als bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.7&z=2026-07-01&g=2026-07-01), [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2026-07-01&g=2026-07-01) en [7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.23&z=2026-07-01&g=2026-07-01);
+- d. een afschrift van een maatwerkvoorschrift als bedoeld in de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=3&afdeling=3.1&artikel=3.7&z=2026-09-24&g=2026-09-24), [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2026-09-24&g=2026-09-24) en [7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.23&z=2026-09-24&g=2026-09-24);
 
 - e. een besluit tot oplegging van een last onder bestuursdwang of last onder dwangsom;
 
 - f. overige voor het slopen van belang zijnde gegevens en bescheiden; en
 
-- g. als op grond van [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.9&z=2026-07-01&g=2026-07-01) een asbestinventarisatierapport is vereist, het asbestinventarisatierapport, of een afschrift van de resultaten van de eindbeoordeling, bedoeld in [artikel 7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-07-01&g=2026-07-01).
+- g. als op grond van [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.9&z=2026-09-24&g=2026-09-24) een asbestinventarisatierapport is vereist, het asbestinventarisatierapport, of een afschrift van de resultaten van de eindbeoordeling, bedoeld in [artikel 7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2026-09-24&g=2026-09-24).
 
 ##### Artikel 7.14. (afbakening maatwerkvoorschriften procedure sloopwerkzaamheden)
 
 1. Een maatwerkvoorschrift over deze paragraaf kan alleen inhouden dat degene die meldingplichtige sloopwerkzaamheden heeft verricht, wordt verplicht binnen een door het bevoegd gezag te bepalen termijn na beëindiging van de werkzaamheden een opgave te doen van de aard en de hoeveelheid van de bij de sloopwerkzaamheden vrijgekomen afvalstoffen en van de afvoerbestemming van die stoffen.
 
-2. Na een sloopmelding als bedoeld in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.10&z=2026-07-01&g=2026-07-01) kunnen alleen maatwerkvoorschriften worden gesteld als deze noodzakelijk zijn voor het voorkomen of beperken van hinder of van een onveilige situatie tijdens het verrichten van de sloopwerkzaamheden.
+2. Na een sloopmelding als bedoeld in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.10&z=2026-09-24&g=2026-09-24) kunnen alleen maatwerkvoorschriften worden gesteld als deze noodzakelijk zijn voor het voorkomen of beperken van hinder of van een onveilige situatie tijdens het verrichten van de sloopwerkzaamheden.
 
 #### § 7.1.4. Inhoudelijke regels
 
@@ -7458,7 +7458,7 @@ Het bemalen van een bouwput, leidingsleuf of andere tijdelijke ontgraving ten be
 | --- | --- | --- | --- | --- | --- | --- |
 | maximale blootstellingsduur op de gevel van een woonfunctie, bijeenkomstfunctie voor kinderopvang, gezondheidszorgfunctie of onderwijsfunctie, of op de grens van een geluidsgevoelig terrein | onbeperkt | 50 dagen | 30 dagen | 15 dagen | 5 dagen | 0 dagen |
 
-3. Als het bevoegd gezag over het veroorzaken van geluidhinder bij het verrichten van bouw- en sloopwerkzaamheden beleidsregels als bedoeld in [titel 4.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.3), heeft vastgesteld, is in afwijking van [artikel 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.23&z=2026-07-01&g=2026-07-01) geen maatwerkvoorschrift vereist als het verrichten van de werkzaamheden voldoet aan die beleidsregels en het bevoegd gezag ten minste twee werkdagen voor het begin van de werkzaamheden daarover is geïnformeerd.
+3. Als het bevoegd gezag over het veroorzaken van geluidhinder bij het verrichten van bouw- en sloopwerkzaamheden beleidsregels als bedoeld in [titel 4.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.3), heeft vastgesteld, is in afwijking van [artikel 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.23&z=2026-09-24&g=2026-09-24) geen maatwerkvoorschrift vereist als het verrichten van de werkzaamheden voldoet aan die beleidsregels en het bevoegd gezag ten minste twee werkdagen voor het begin van de werkzaamheden daarover is geïnformeerd.
 
 ##### Artikel 7.18. (trillinghinder)
 
@@ -7474,7 +7474,7 @@ Tijdens het verrichten van bouw- en sloopwerkzaamheden worden maatregelen getrof
 
 1. Bij het verrichten van bouw- en sloopwerkzaamheden worden adequate maatregelen getroffen om de emissie van stikstofverbindingen naar de lucht te beperken.
 
-2. Het eerste lid is alleen van toepassing op het bouwen van een bouwwerk waarvoor een omgevingsvergunning voor een bouwactiviteit of een melding als bedoeld in [artikel 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-07-01&g=2026-07-01), nodig is en op het slopen van een bouwwerk waarvoor een melding als bedoeld in [artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.10&z=2026-07-01&g=2026-07-01), is vereist omdat de hoeveelheid sloopafval naar redelijke inschatting meer dan 10 m3 bedraagt.
+2. Het eerste lid is alleen van toepassing op het bouwen van een bouwwerk waarvoor een omgevingsvergunning voor een bouwactiviteit of een melding als bedoeld in [artikel 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-09-24&g=2026-09-24), nodig is en op het slopen van een bouwwerk waarvoor een melding als bedoeld in [artikel 7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.10&z=2026-09-24&g=2026-09-24), is vereist omdat de hoeveelheid sloopafval naar redelijke inschatting meer dan 10 m3 bedraagt.
 
 ##### Artikel 7.20. (verwijderen asbest risicoklasse 2 en 2A)
 
@@ -7484,7 +7484,7 @@ Tijdens het verrichten van bouw- en sloopwerkzaamheden worden maatregelen getrof
 
 - b. het verwijderen van asbest of een asbesthoudend product uit een bouwwerk.
 
-2. De onderdelen b tot en met e van [artikel 7.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.9&z=2026-07-01&g=2026-07-01), zijn van overeenkomstige toepassing.
+2. De onderdelen b tot en met e van [artikel 7.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.9&z=2026-09-24&g=2026-09-24), zijn van overeenkomstige toepassing.
 
 ##### Artikel 7.21. (asbestverwijdering)
 
@@ -7508,13 +7508,13 @@ Degene die bij sloopwerkzaamheden asbest of een asbesthoudend product verwijdert
 
 ##### Artikel 7.22. (eindbeoordeling asbestverwijdering)
 
-1. Degene die in een binnenruimte een handeling laat verrichten als bedoeld in [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-07-01&g=2026-07-01), zorgt er voor dat onmiddellijk na het verrichten van die handeling een eindbeoordeling wordt uitgevoerd in overeenstemming met het bepaalde bij of krachtens de [artikelen 4.51a, eerste, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), en [4.53c van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53c).
+1. Degene die in een binnenruimte een handeling laat verrichten als bedoeld in [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-09-24&g=2026-09-24), zorgt er voor dat onmiddellijk na het verrichten van die handeling een eindbeoordeling wordt uitgevoerd in overeenstemming met het bepaalde bij of krachtens de [artikelen 4.51a, eerste, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), en [4.53c van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53c).
 
-2. Degene die in de buitenlucht een handeling laat verrichten als bedoeld in [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-07-01&g=2026-07-01), zorgt er voor dat onmiddellijk na het verrichten van die handeling een visuele inspectie wordt uitgevoerd in overeenstemming met het bepaalde bij of krachtens [artikel 4.51a, derde, vierde en zesde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a).
+2. Degene die in de buitenlucht een handeling laat verrichten als bedoeld in [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-09-24&g=2026-09-24), zorgt er voor dat onmiddellijk na het verrichten van die handeling een visuele inspectie wordt uitgevoerd in overeenstemming met het bepaalde bij of krachtens [artikel 4.51a, derde, vierde en zesde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a).
 
-3. In een binnenruimte worden geen andere werkzaamheden verricht aan het bouwwerk waarvoor een handeling als bedoeld in [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-07-01&g=2026-07-01), is verricht, zolang niet een eindbeoordeling is uitgevoerd of als uit de eindbeoordeling volgt dat er ter plaatse nog visueel waarneembaar asbest aanwezig is of de concentratie asbestvezels in de lucht, bedoeld in de [artikelen 4.51a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), en [4.53c van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53c), wordt overschreden.
+3. In een binnenruimte worden geen andere werkzaamheden verricht aan het bouwwerk waarvoor een handeling als bedoeld in [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-09-24&g=2026-09-24), is verricht, zolang niet een eindbeoordeling is uitgevoerd of als uit de eindbeoordeling volgt dat er ter plaatse nog visueel waarneembaar asbest aanwezig is of de concentratie asbestvezels in de lucht, bedoeld in de [artikelen 4.51a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.51a), en [4.53c van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53c), wordt overschreden.
 
-4. In de buitenlucht worden geen andere handelingen verricht aan het bouwwerk waarvoor een handeling als bedoeld in [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-07-01&g=2026-07-01), is verricht, zolang de visuele inspectie niet is uitgevoerd of als uit de visuele inspectie volgt dat het te verwijderen asbest op de plaats van de handeling nog visueel waarneembaar is.
+4. In de buitenlucht worden geen andere handelingen verricht aan het bouwwerk waarvoor een handeling als bedoeld in [artikel 7.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.20&z=2026-09-24&g=2026-09-24), is verricht, zolang de visuele inspectie niet is uitgevoerd of als uit de visuele inspectie volgt dat het te verwijderen asbest op de plaats van de handeling nog visueel waarneembaar is.
 
 ##### Artikel 7.22a. (veiligheidsmaatregelen aanbrengen gespoten PUR-schuim)
 
@@ -7526,11 +7526,11 @@ Bij het aanbrengen van gespoten PUR-schuim in de kruipruimte van een woonfunctie
 
 ##### Artikel 7.23. (afbakening maatwerkvoorschriften veiligheid en gezondheid in directe omgeving bouw- en sloopwerkzaamheden)
 
-1. Met een maatwerkvoorschrift over de [artikelen 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.17&z=2026-07-01&g=2026-07-01) en [7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.18&z=2026-07-01&g=2026-07-01) kunnen alleen worden versoepeld:
+1. Met een maatwerkvoorschrift over de [artikelen 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.17&z=2026-09-24&g=2026-09-24) en [7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.18&z=2026-09-24&g=2026-09-24) kunnen alleen worden versoepeld:
 
-- a. de dagwaarden, blootstellingsduur, tijdstippen en perioden, bedoeld in [artikel 7.17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.17&z=2026-07-01&g=2026-07-01); en
+- a. de dagwaarden, blootstellingsduur, tijdstippen en perioden, bedoeld in [artikel 7.17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.17&z=2026-09-24&g=2026-09-24); en
 
-- b. de trillingsterkte, bedoeld in [artikel 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.18&z=2026-07-01&g=2026-07-01).
+- b. de trillingsterkte, bedoeld in [artikel 7.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.18&z=2026-09-24&g=2026-09-24).
 
 2. Onverkort het gestelde in een maatwerkvoorschrift als bedoeld in het eerste lid, wordt bij het verrichten van de bouw- en sloopwerkzaamheden gebruik gemaakt van de beste beschikbare stille technieken.
 
@@ -7624,7 +7624,7 @@ Aan de regels in deze afdeling wordt voldaan door degene die een mobiele puinbre
 
 ##### Artikel 7.31. (specifieke zorgplicht)
 
-1. Degene die weet of redelijkerwijs kan vermoeden dat het in werking hebben van een mobiele puinbreker nadelige gevolgen kan hebben voor de belangen, bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.28&z=2026-07-01&g=2026-07-01), is verplicht:
+1. Degene die weet of redelijkerwijs kan vermoeden dat het in werking hebben van een mobiele puinbreker nadelige gevolgen kan hebben voor de belangen, bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.28&z=2026-09-24&g=2026-09-24), is verplicht:
 
 - a. alle maatregelen te nemen die redelijkerwijs van diegene kunnen worden gevraagd om die gevolgen te voorkomen;
 
@@ -7652,19 +7652,19 @@ Aan de regels in deze afdeling wordt voldaan door degene die een mobiele puinbre
 
 ##### Artikel 7.32. (maatwerkvoorschriften)
 
-1. Een maatwerkvoorschrift kan worden gesteld over de [paragrafen 7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&z=2026-07-01&g=2026-07-01) en [7.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&z=2026-07-01&g=2026-07-01) en [artikel 7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.31&z=2026-07-01&g=2026-07-01), met uitzondering van bepalingen over:
+1. Een maatwerkvoorschrift kan worden gesteld over de [paragrafen 7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&z=2026-09-24&g=2026-09-24) en [7.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&z=2026-09-24&g=2026-09-24) en [artikel 7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.31&z=2026-09-24&g=2026-09-24), met uitzondering van bepalingen over:
 
 - a. meldingplichten; en
 
 - b. meet- of rekenmethoden.
 
-2. Met een maatwerkvoorschrift kan worden afgeweken van de regels in de [paragrafen 7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&z=2026-07-01&g=2026-07-01) en [7.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&z=2026-07-01&g=2026-07-01), waarbij:
+2. Met een maatwerkvoorschrift kan worden afgeweken van de regels in de [paragrafen 7.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&z=2026-09-24&g=2026-09-24) en [7.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&z=2026-09-24&g=2026-09-24), waarbij:
 
-- a. en maatwerkvoorschrift als bedoeld in [artikel 7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&artikel=7.37&z=2026-07-01&g=2026-07-01) alleen het bepaalde in dat artikel kan inhouden; en
+- a. en maatwerkvoorschrift als bedoeld in [artikel 7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.2&artikel=7.37&z=2026-09-24&g=2026-09-24) alleen het bepaalde in dat artikel kan inhouden; en
 
-- b. met een maatwerkvoorschrift over [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&artikel=7.39&z=2026-07-01&g=2026-07-01) alleen de dagwaarden, blootstellingsduur, tijdstippen en perioden kunnen worden versoepeld.
+- b. met een maatwerkvoorschrift over [artikel 7.39](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.3&artikel=7.39&z=2026-09-24&g=2026-09-24) alleen de dagwaarden, blootstellingsduur, tijdstippen en perioden kunnen worden versoepeld.
 
-3. Een maatwerkvoorschrift op aanvraag van degene die de mobiele puinbreker in werking heeft, kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.28&z=2026-07-01&g=2026-07-01), voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
+3. Een maatwerkvoorschrift op aanvraag van degene die de mobiele puinbreker in werking heeft, kan worden gesteld met het oog op andere belangen dan bedoeld in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.28&z=2026-09-24&g=2026-09-24), voor zover de in dat artikel bedoelde belangen zich daartegen niet verzetten.
 
 #### § 7.2.2. Procedurele regels
 
@@ -7690,7 +7690,7 @@ Een melding mobiel puinbreken wordt ondertekend en bevat de volgende gegevens en
 
 ##### Artikel 7.35. (informeren: aanvang mobiel breken)
 
-Ten minste twee werkdagen voor het begin van het in werking hebben van een mobiele puinbreker wordt het bevoegd gezag, bedoeld in [artikel 7.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.30&z=2026-07-01&g=2026-07-01), daarover geïnformeerd.
+Ten minste twee werkdagen voor het begin van het in werking hebben van een mobiele puinbreker wordt het bevoegd gezag, bedoeld in [artikel 7.30](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.2&paragraaf=7.2.1&artikel=7.30&z=2026-09-24&g=2026-09-24), daarover geïnformeerd.
 
 ##### Artikel 7.36. (aanwezigheid bescheiden)
 
@@ -7716,7 +7716,7 @@ Met een maatwerkvoorschrift kan degene die een mobiele puinbreker in werking hee
 
 ##### Artikel 7.38. (overeenkomstige toepassing inhoudelijke regels sloopwerkzaamheden)
 
-Met uitzondering van [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.17&z=2026-07-01&g=2026-07-01) zijn de regels in de [paragrafen 7.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&z=2026-07-01&g=2026-07-01) en [7.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.5&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing op het in werking hebben van een mobiele puinbreker.
+Met uitzondering van [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.17&z=2026-09-24&g=2026-09-24) zijn de regels in de [paragrafen 7.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&z=2026-09-24&g=2026-09-24) en [7.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.5&z=2026-09-24&g=2026-09-24) van overeenkomstige toepassing op het in werking hebben van een mobiele puinbreker.
 
 ##### Artikel 7.39. (geluidhinder)
 
@@ -7747,7 +7747,7 @@ Op de locatie waar de mobiele puinbreker in werking is, wordt een registratie bi
 
 ##### Artikel 8.1. (gemeentelijke monumenten en voorbeschermde gemeentelijke monumenten)
 
-1. Voor de toepassing van de [artikelen 2.8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.8&z=2026-07-01&g=2026-07-01), [2.17, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.17&z=2026-07-01&g=2026-07-01), [2.30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.30&z=2026-07-01&g=2026-07-01), en [6.28, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.28&z=2026-07-01&g=2026-07-01), wordt onder gemeentelijk monument respectievelijk voorbeschermd gemeentelijk monument ook verstaan een monument of archeologisch monument dat op grond van een gemeentelijke verordening is aangewezen respectievelijk waarop, voordat het is aangewezen, die verordening van overeenkomstige toepassing is.
+1. Voor de toepassing van de [artikelen 2.8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.1&artikel=2.8&z=2026-09-24&g=2026-09-24), [2.17, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.17&z=2026-09-24&g=2026-09-24), [2.30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.30&z=2026-09-24&g=2026-09-24), en [6.28, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=6&afdeling=6.4&artikel=6.28&z=2026-09-24&g=2026-09-24), wordt onder gemeentelijk monument respectievelijk voorbeschermd gemeentelijk monument ook verstaan een monument of archeologisch monument dat op grond van een gemeentelijke verordening is aangewezen respectievelijk waarop, voordat het is aangewezen, die verordening van overeenkomstige toepassing is.
 
 2. Het eerste lid is van toepassing:
 
@@ -7757,7 +7757,7 @@ Op de locatie waar de mobiele puinbreker in werking is, wordt een registratie bi
 
 ##### Artikel 8.2. (rijksbeschermde stads- en dorpsgezichten)
 
-[Artikel 2.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.30&z=2026-07-01&g=2026-07-01), is van overeenkomstige toepassing op een omgevingsplanactiviteit als bedoeld in dat lid die wordt verricht op een locatie waarvoor een op grond van [artikel 4.35, eerste lid, van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.35) als instructie geldende aanwijzing als beschermd stads- of dorpsgezicht als bedoeld in [artikel 35, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=35) zoals die wet luidde voor de inwerkingtreding van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) van kracht is, zolang in het omgevingsplan aan die locatie nog niet de functie-aanduiding rijksbeschermd stads- of dorpsgezicht is gegeven.
+[Artikel 2.30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.3&paragraaf=2.3.3&artikel=2.30&z=2026-09-24&g=2026-09-24), is van overeenkomstige toepassing op een omgevingsplanactiviteit als bedoeld in dat lid die wordt verricht op een locatie waarvoor een op grond van [artikel 4.35, eerste lid, van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.35) als instructie geldende aanwijzing als beschermd stads- of dorpsgezicht als bedoeld in [artikel 35, eerste lid, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=35) zoals die wet luidde voor de inwerkingtreding van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) van kracht is, zolang in het omgevingsplan aan die locatie nog niet de functie-aanduiding rijksbeschermd stads- of dorpsgezicht is gegeven.
 
 ##### Artikel 8.3. (algemeen overgangsrecht lopende aanvragen en meldingen)
 
@@ -7765,7 +7765,7 @@ Op de locatie waar de mobiele puinbreker in werking is, wordt een registratie bi
 
 2. Op een melding gedaan voor het tijdstip waarop een wijziging van dit besluit in werking treedt, blijven de regels van dit besluit van toepassing zoals die golden op het tijdstip waarop de melding is gedaan.
 
-3. Op een melding als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-07-01&g=2026-07-01) voor het tijdstip waarop een wijziging van dit besluit in werking treedt, blijven de regels van dit besluit zoals die golden op het tijdstip waarop de melding is gedaan een jaar van toepassing.
+3. Op een melding als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=2&afdeling=2.2a&artikel=2.18&z=2026-09-24&g=2026-09-24) voor het tijdstip waarop een wijziging van dit besluit in werking treedt, blijven de regels van dit besluit zoals die golden op het tijdstip waarop de melding is gedaan een jaar van toepassing.
 
 ### Hoofdstuk 9. Slotbepalingen
 

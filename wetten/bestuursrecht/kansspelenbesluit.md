@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0009067"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 1 december 1997 tot vaststelling van de algemene maatregel van bestuur, bedoeld in artikel 6 van de Wet op de kansspelen (Kansspelenbesluit)

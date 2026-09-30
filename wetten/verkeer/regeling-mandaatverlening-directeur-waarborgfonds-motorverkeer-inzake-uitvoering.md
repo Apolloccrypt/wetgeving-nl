@@ -8,7 +8,7 @@ laatste_update: 1998-09-01
 status: geldig
 toestand: 1998-09-01
 bron: "https://wetten.overheid.nl/BWBR0009783"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Regeling mandaatverlening directeur Waarborgfonds Motorverkeer inzake uitvoering vrijstellingsregeling Wam voor gemoedsbezwaarden

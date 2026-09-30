@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0009545"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 9 april 1998, houdende wijziging van de Algemene bijstandswet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Werkloosheidswet, de Ziektewet, de Wet op de arbeidsongeschiktheidsverzekering, de Algemene Arbeidsongeschiktheidswet, de Toeslagenwet, de Algemene Ouderdomswet, de Algemene Kinderbijslagwet, de Algemene nabestaandenwet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten met betrekking tot terugvordering en verhaal (terugvordering en verhaal in verband met herziening van het debiteurenbeleid)

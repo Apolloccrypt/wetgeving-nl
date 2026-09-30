@@ -8,7 +8,7 @@ laatste_update: 1997-02-19
 status: geldig
 toestand: 1997-02-19
 bron: "https://wetten.overheid.nl/BWBR0008553"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Aanwijzing Nieuwkoopse Plassen als speciale beschermingszone EG-Vogelrichtlijn

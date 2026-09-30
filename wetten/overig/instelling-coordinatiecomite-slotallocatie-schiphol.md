@@ -9,7 +9,7 @@ laatste_update: 1998-01-25
 status: geldig
 toestand: 1998-01-25
 bron: "https://wetten.overheid.nl/BWBR0009325"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit op grond van artikel 4 Besluit slotallocatie

@@ -9,7 +9,7 @@ laatste_update: 1997-06-30
 status: geldig
 toestand: 1997-06-30
 bron: "https://wetten.overheid.nl/BWBR0008682"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 15 mei 1997 tot wijziging van de Wet administratiefrechtelijke handhaving verkeersvoorschriften en van het Wetboek van Strafvordering

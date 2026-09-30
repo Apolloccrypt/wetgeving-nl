@@ -9,7 +9,7 @@ laatste_update: 2025-09-16
 status: geldig
 toestand: 2025-09-16
 bron: "https://wetten.overheid.nl/BWBR0009386"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 14 februari 1998, houdende nadere regels inzake de arbeids- en rusttijden in of op voertuigen, aan boord van vaartuigen en voor loodsen (Arbeidstijdenbesluit vervoer)

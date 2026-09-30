@@ -8,7 +8,7 @@ laatste_update: 1997-12-01
 status: geldig
 toestand: 1997-12-01
 bron: "https://wetten.overheid.nl/BWBR0009041"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit vaststelling bestemming radio-frequenties voor DCS 1800 en GSM

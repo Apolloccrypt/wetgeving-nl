@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0009637"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 25 mei 1998, houdende regels over tegemoetkoming in de schade en de kosten in geval van overstromingen door zoet water, aardbevingen of andere rampen en zware ongevallen (Wet tegemoetkoming schade bij rampen en zware ongevallen)

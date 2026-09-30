@@ -8,7 +8,7 @@ laatste_update: 2020-04-17
 status: geldig
 toestand: 2020-04-17
 bron: "https://wetten.overheid.nl/BWBR0009726"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Regeling verstrekkingen bepaalde categorieën vreemdelingen

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0008540"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat en van de Staatssecretaris van Defensie van 6 februari 1997, DGRLD/VI/L 97.710034, inzake het aanbrengen van geluidwerende voorzieningen binnen geluidszones rond luchtvaartterreinen

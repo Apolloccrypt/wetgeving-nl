@@ -8,7 +8,7 @@ laatste_update: 1998-05-31
 status: geldig
 toestand: 1998-05-31
 bron: "https://wetten.overheid.nl/BWBR0009605"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Beleidsregel goedkeuring wijzigingen van luchtvaartuigen

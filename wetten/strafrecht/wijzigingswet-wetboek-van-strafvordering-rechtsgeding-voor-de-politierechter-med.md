@@ -9,7 +9,7 @@ laatste_update: 1998-02-02
 status: geldig
 toestand: 1998-02-02
 bron: "https://wetten.overheid.nl/BWBR0009330"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 15 januari 1998 tot wijziging van enige bepalingen in het Wetboek van Strafvordering onder andere inzake het rechtsgeding voor de politierechter en de mededeling van vonnissen en arresten met het oog op het instellen van een rechtsmiddel en van de bepalingen in het Wetboek van Strafrecht betreffende het kennisgeven en het ingaan van de proeftijd bij een voorwaardelijke veroordeling

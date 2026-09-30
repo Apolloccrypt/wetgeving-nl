@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0008754"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 19 juni 1997, houdende regels inzake de verstrekking van subsidies door de Minister van Sociale Zaken en Werkgelegenheid (Kaderwet SZW-subsidies)

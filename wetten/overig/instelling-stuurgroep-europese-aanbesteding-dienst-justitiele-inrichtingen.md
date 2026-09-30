@@ -8,7 +8,7 @@ laatste_update: 1997-12-16
 status: geldig
 toestand: 1997-12-16
 bron: "https://wetten.overheid.nl/BWBR0009520"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Instelling stuurgroep Europese Aanbesteding Dienst Justitiële Inrichtingen

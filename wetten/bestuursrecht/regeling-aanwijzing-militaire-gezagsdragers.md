@@ -9,7 +9,7 @@ laatste_update: 2006-07-23
 status: geldig
 toestand: 2006-07-23
 bron: "https://wetten.overheid.nl/BWBR0008873"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling, houdende aanwijzing militaire gezagsdragers en vaststelling hiërarchische verhoudingen met betrekking tot de uitoefening van buitengewone bevoegdheden

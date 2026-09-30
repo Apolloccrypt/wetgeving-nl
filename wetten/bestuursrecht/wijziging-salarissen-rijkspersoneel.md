@@ -8,7 +8,7 @@ laatste_update: 1997-11-17
 status: geldig
 toestand: 1997-11-17
 bron: "https://wetten.overheid.nl/BWBR0008971"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wijziging salarissen rijkspersoneel

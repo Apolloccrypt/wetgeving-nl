@@ -9,7 +9,7 @@ laatste_update: 1998-11-01
 status: geldig
 toestand: 1998-11-01
 bron: "https://wetten.overheid.nl/BWBR0009751"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 1 juli 1998 tot wijziging van de onteigeningswet (herziening administratieve onteigeningsprocedure voor uitvoering van werken en enige andere doeleinden)

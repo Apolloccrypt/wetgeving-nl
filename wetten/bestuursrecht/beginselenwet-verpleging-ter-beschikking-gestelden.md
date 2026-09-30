@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0008765"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 25 juni 1997 tot vaststelling van een Beginselenwet verpleging ter beschikking gestelden en overige verpleegden strafrechtstoepassing en daarmede verband houdende wijzigingen van het Wetboek van Strafrecht en de Beginselenwet gevangeniswezen (Beginselenwet verpleging ter beschikking gestelden)

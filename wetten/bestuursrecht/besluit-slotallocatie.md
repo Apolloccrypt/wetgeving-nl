@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0009035"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 24 november 1997, houdende regelen met betrekking tot de toewijzing van «slots» op communautaire luchtvaartterreinen (Besluit slotallocatie)

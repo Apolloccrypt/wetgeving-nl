@@ -5,11 +5,11 @@ identifier: "BWBR0047854"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2023-02-08
-laatste_update: 2026-01-01
+laatste_update: 2026-09-23
 status: geldig
-toestand: 2026-01-01
+toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0047854"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 26 januari 2023 nr. VO/F/34146542, tot regeling van een aanvullende bekostiging ten behoeve van werkdrukverlichting in het voortgezet onderwijs (Regeling aanvullende bekostiging werkdrukverlichting voortgezet onderwijs)
@@ -46,19 +46,19 @@ De Minister verstrekt aanvullende bekostiging aan het bevoegd gezag voor werkdru
 
 3. De aanvullende bekostiging bedraagt:
 
-- a. € 360,53 per leerling in het algemeen vormend onderwijs;
+- a. € 375,74 per leerling in het algemeen vormend onderwijs;
 
-- b. € 540,80 per leerling in het beroepsgericht onderwijs.
+- b. € 563,62 per leerling in het beroepsgericht onderwijs.
 
 4. De aanvullende bekostiging bedraagt in het openbaar lichaam Bonaire:
 
-- a. USD 488,49 per leerling;
+- a. USD 509,10 per leerling;
 
-- b. USD 488,49 per student in de beroepsopleidende leerweg; en
+- b. USD 509,10 per student in de beroepsopleidende leerweg; en
 
-- c. USD 293,09 per student in de beroepsbegeleidende leerweg.
+- c. USD 305,46 per student in de beroepsbegeleidende leerweg.
 
-5. De aanvullende bekostiging bedraagt in het openbaar lichaam Sint Eustatius of Saba: USD 664,34 per leerling.
+5. De aanvullende bekostiging bedraagt in het openbaar lichaam Sint Eustatius of Saba: USD 692,37 per leerling.
 
 ##### Artikel 4. Vaststelling en betaling
 

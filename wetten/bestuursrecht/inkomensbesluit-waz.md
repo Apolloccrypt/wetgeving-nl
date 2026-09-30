@@ -9,7 +9,7 @@ laatste_update: 2005-05-25
 status: geldig
 toestand: 2005-05-25
 bron: "https://wetten.overheid.nl/BWBR0009200"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 17 december 1997 tot vaststelling van regels als bedoeld in artikel 8, elfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen (Inkomensbesluit Waz)

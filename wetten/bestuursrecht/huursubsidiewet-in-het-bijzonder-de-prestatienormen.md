@@ -8,7 +8,7 @@ laatste_update: 1997-07-01
 status: geldig
 toestand: 1997-07-01
 bron: "https://wetten.overheid.nl/BWBR0008597"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Huursubsidiewet, in het bijzonder de prestatienormen

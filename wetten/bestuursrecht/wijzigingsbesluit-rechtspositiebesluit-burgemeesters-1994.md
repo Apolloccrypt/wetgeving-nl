@@ -9,7 +9,7 @@ laatste_update: 1997-04-09
 status: geldig
 toestand: 1997-04-09
 bron: "https://wetten.overheid.nl/BWBR0008598"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 17 maart 1997 tot wijziging van het Rechtspositiebesluit burgemeesters 1994

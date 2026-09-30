@@ -9,7 +9,7 @@ laatste_update: 2016-09-18
 status: geldig
 toestand: 2016-09-18
 bron: "https://wetten.overheid.nl/BWBR0009334"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 16 januari 1998, houdende regels over de veiligheid en de deugdelijkheid van draagbare blustoestellen (Besluit draagbare blustoestellen 1997)

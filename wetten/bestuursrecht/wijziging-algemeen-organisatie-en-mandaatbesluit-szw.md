@@ -8,7 +8,7 @@ laatste_update: 1997-04-21
 status: geldig
 toestand: 1997-04-21
 bron: "https://wetten.overheid.nl/BWBR0008641"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wijziging algemeen organisatie- en mandaatbesluit SZW

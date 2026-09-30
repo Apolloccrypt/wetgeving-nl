@@ -8,7 +8,7 @@ laatste_update: 1998-03-01
 status: geldig
 toestand: 1998-03-01
 bron: "https://wetten.overheid.nl/BWBR0009293"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Mandaatverlening bevoegde autoriteit inzake internationale uitwisseling van inlichtingen

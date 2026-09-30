@@ -9,7 +9,7 @@ laatste_update: 1997-12-05
 status: geldig
 toestand: 1997-12-05
 bron: "https://wetten.overheid.nl/BWBR0009059"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake de vaststelling van de aanvaardbare kosten 1998 ten behoeve van thuiszorg, ouder- en kindzorg en dieetadvisering AWBZ

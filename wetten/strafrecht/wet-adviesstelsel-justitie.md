@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0008808"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 5 juli 1997 tot instelling van vaste colleges van advies van het Rijk op het terrein van het Ministerie van Justitie (Wet adviesstelsel Justitie)

@@ -9,7 +9,7 @@ laatste_update: 1998-10-01
 status: geldig
 toestand: 1998-10-01
 bron: "https://wetten.overheid.nl/BWBR0009686"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 11 juni 1998 tot wijziging van de Ziektewet, de WAO, de WW en enkele andere wetten in verband met het wegnemen van belemmeringen in sociale verzekeringswetten bij het opnemen van onbetaald verlof

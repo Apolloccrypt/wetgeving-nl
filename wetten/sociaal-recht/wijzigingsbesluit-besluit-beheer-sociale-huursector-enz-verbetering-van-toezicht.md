@@ -9,7 +9,7 @@ laatste_update: 1998-05-18
 status: geldig
 toestand: 1998-05-18
 bron: "https://wetten.overheid.nl/BWBR0009430"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 27 februari 1998, houdende wijziging van het Besluit beheer sociale-huursector en het Besluit Centraal Fonds voor de Volkshuisvesting (verbetering van het toezicht op de sociale-huursector, verbetering van de werkwijze van het Centraal Fonds voor de Volkshuisvesting)

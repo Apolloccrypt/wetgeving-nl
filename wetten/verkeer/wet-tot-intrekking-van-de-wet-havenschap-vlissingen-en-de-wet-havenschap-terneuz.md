@@ -9,7 +9,7 @@ laatste_update: 1998-02-25
 status: geldig
 toestand: 1998-02-25
 bron: "https://wetten.overheid.nl/BWBR0009358"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 29 januari 1998, houdende intrekking van de Wet Havenschap Vlissingen en de Wet Havenschap Terneuzen

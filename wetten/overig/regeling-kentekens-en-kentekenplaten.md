@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0009071"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling kentekens en kentekenplaten

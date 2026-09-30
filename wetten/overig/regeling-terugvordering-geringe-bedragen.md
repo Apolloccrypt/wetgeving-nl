@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0009254"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling houdende vaststelling van het bedrag als bedoeld in artikel 78b van de Algemene bijstandswet en enige andere wetten

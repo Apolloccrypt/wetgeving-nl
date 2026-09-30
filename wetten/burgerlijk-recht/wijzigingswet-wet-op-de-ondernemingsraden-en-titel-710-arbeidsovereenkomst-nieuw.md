@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0009392"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 14 februari 1998 tot wijziging van de Wet op de ondernemingsraden en titel 7.10 (arbeidsovereenkomst) van het nieuw Burgerlijk Wetboek

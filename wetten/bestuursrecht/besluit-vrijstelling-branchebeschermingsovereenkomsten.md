@@ -9,7 +9,7 @@ laatste_update: 2008-12-19
 status: geldig
 toestand: 2008-12-19
 bron: "https://wetten.overheid.nl/BWBR0009039"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 25 november 1997, houdende vrijstelling van branchebeschermingsovereenkomsten in nieuwe winkelcentra van het verbod van mededingingsafspraken (Besluit vrijstelling branchebeschermingsovereenkomsten)

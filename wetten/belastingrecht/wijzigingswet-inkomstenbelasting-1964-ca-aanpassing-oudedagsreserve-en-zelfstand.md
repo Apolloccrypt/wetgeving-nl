@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0009221"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 18 december 1997, houdende wijziging van de Wet op de inkomstenbelasting 1964 c.a. (aanpassing van de oudedagsreserve en de zelfstandigenaftrek alsmede vervallen van de vermogensaftrek)

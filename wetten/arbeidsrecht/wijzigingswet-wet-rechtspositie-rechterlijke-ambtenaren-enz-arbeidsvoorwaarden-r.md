@@ -9,7 +9,7 @@ laatste_update: 2003-12-01
 status: geldig
 toestand: 2003-12-01
 bron: "https://wetten.overheid.nl/BWBR0009399"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 23 februari 1998 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren en enige andere wetten (arbeidsvoorwaarden Rechterlijke Macht 1995/97)

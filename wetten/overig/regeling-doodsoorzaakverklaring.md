@@ -8,7 +8,7 @@ laatste_update: 1997-12-13
 status: geldig
 toestand: 1997-12-13
 bron: "https://wetten.overheid.nl/BWBR0009096"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling doodsoorzaakverklaring

@@ -9,7 +9,7 @@ laatste_update: 1997-07-04
 status: geldig
 toestand: 1997-07-04
 bron: "https://wetten.overheid.nl/BWBR0008735"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 12 juni 1997 tot wijziging van de Wet kaderregeling vut overheidspersoneel in verband met de invoering van de regeling van flexibel pensioen en uittreden voor het personeel bij de overheid en het onderwijs

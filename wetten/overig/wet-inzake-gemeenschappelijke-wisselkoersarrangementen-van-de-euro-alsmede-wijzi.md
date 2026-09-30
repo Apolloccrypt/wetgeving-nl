@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0009509"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 26 maart 1998, houdende regels inzake gemeenschappelijke wisselkoersarrangementen van de euro, alsmede wijziging van enkele andere wetten

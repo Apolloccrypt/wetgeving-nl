@@ -9,7 +9,7 @@ laatste_update: 1997-03-20
 status: geldig
 toestand: 1997-03-20
 bron: "https://wetten.overheid.nl/BWBR0008578"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Indonesische voorschriften tot uitvoering van de op 5 maart 1973 tussen Nederland en Indonesië gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzigd bij het Protocol tot wijziging van 22 juli 1991, welk Protocol is gewijzigd bij het protocol van 23 augustus 1993

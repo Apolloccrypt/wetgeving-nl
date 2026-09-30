@@ -9,7 +9,7 @@ laatste_update: 1998-02-01
 status: geldig
 toestand: 1998-02-01
 bron: "https://wetten.overheid.nl/BWBR0008923"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 19 september 1997 tot uitsluiting van strafbare feiten van het aanhangig maken door oproeping op grond van artikel 385 van het Wetboek van Strafvordering (Besluit uitsluiting oproepingsprocedure)

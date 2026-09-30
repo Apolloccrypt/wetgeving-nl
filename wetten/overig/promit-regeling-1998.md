@@ -9,7 +9,7 @@ laatste_update: 1998-06-21
 status: geldig
 toestand: 1998-06-21
 bron: "https://wetten.overheid.nl/BWBR0009694"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Regeling stimuliering multimodaal en intermodaal transport 1998

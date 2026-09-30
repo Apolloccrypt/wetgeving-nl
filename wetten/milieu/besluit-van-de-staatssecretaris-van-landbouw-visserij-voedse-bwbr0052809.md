@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-27
 toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0052809"
-opgehaald: 2026-09-29
+opgehaald: 2026-09-30
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 2 juli 2026, nr. ZK-0000145942 houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden als groeiregulator in de onbedekte pot- en containerteelt van de bloemisterijgewassen Viburnum, Chrysanthemum, Azalea, Hortensia en Aster (Tijdelijke vrijstelling als groeiregulator in de onbedekte pot- en containerteelt van de bloemisterijgewassen Viburnum, Chrysanthemum, Azalea, Hortensia en Aster, 2026)

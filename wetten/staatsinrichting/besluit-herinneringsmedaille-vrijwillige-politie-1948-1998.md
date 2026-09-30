@@ -8,7 +8,7 @@ laatste_update: 1999-02-28
 status: geldig
 toestand: 1999-02-28
 bron: "https://wetten.overheid.nl/BWBR0009643"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Besluit herinneringsmedaille vrijwillige politie 1948-1998

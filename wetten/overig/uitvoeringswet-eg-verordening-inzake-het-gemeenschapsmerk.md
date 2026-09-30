@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0009510"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 26 maart 1998 tot uitvoering van de verordening van de Raad van de Europese Unie inzake het Gemeenschapsmerk betreffende de aanwijzing van de nationale autoriteit voor het exequatur en de bevoegde rechtbank (Uitvoeringswet E.G.-verordening inzake het Gemeenschapsmerk)

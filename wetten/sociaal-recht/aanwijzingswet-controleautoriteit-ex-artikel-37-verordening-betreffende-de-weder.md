@@ -9,7 +9,7 @@ laatste_update: 2001-09-01
 status: geldig
 toestand: 2001-09-01
 bron: "https://wetten.overheid.nl/BWBR0009584"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 29 april 1998 tot aanwijzing van een controleautoriteit als bedoeld in artikel 37 van verordening (EG) nr. 515/97 van de Raad van de Europese Unie van 13 maart 1997 betreffende de wederzijdse bijstand tussen de administratieve autoriteiten van de lidstaten en de samenwerking tussen deze autoriteiten en de Commissie met het oog op de juiste toepassing van de douane- en landbouwvoorschriften (PbEG L 82)

@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0008901"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 11 september 1997 tot wijziging van de Wet op de inkomstenbelasting 1964 en de Wet op de loonbelasting 1964 in verband met een verhoging van de ouderenaftrek en de aanvullende ouderenaftrek

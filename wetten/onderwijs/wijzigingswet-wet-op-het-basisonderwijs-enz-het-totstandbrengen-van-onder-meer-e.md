@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0009525"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 2 april 1998 tot wijziging van enkele onderwijswetten en technische wijziging van enkele andere wetten in verband met het totstandbrengen van onder meer een Wet op het primair onderwijs en een Wet op de expertisecentra

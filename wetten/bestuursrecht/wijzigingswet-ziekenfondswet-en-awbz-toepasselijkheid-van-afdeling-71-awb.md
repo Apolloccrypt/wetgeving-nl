@@ -9,7 +9,7 @@ laatste_update: 1997-10-31
 status: geldig
 toestand: 1997-10-31
 bron: "https://wetten.overheid.nl/BWBR0008960"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 10 oktober 1997 tot wijziging van de Ziekenfondswet en de Algemene Wet Bijzondere Ziektekosten ten einde enige nadere regels te stellen inzake de toepasselijkheid van Afdeling 7.1 van de Algemene wet bestuursrecht ten aanzien van geschillen op grond van die wetten over aanspraken of daarmee overeenkomende uitkeringen

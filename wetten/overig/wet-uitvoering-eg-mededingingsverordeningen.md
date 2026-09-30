@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0008575"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 27 februari 1997, houdende enige regels ter uitvoering van een aantal EG-verordeningen op het gebied van de mededinging (Wet uitvoering EG-mededingingsverordeningen)

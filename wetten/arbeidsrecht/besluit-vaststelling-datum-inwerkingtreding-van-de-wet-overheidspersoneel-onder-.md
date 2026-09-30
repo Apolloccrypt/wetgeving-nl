@@ -9,7 +9,7 @@ laatste_update: 1998-02-01
 status: geldig
 toestand: 1998-02-01
 bron: "https://wetten.overheid.nl/BWBR0009268"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 24 december 1997 tot vaststelling van de datum van de inwerkingtreding van de Wet overheidspersoneel onder de werknemersverzekeringen alsmede het tijdstip van aanvang van fase 1 van die wet, bedoeld in diverse artikelen van die wet

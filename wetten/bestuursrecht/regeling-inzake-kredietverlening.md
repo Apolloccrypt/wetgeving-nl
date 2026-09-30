@@ -9,7 +9,7 @@ laatste_update: 1997-06-30
 status: geldig
 toestand: 1997-06-30
 bron: "https://wetten.overheid.nl/BWBR0008777"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling inzake kredietverlening als afzonderlijke, vrijgestelde nevenprestatie

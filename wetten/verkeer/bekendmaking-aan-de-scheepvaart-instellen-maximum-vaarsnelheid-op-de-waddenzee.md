@@ -8,7 +8,7 @@ laatste_update: 2005-02-15
 status: geldig
 toestand: 2005-02-15
 bron: "https://wetten.overheid.nl/BWBR0009519"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Bekendmaking aan de scheepvaart; Instellen maximum vaarsnelheid op de Waddenzee

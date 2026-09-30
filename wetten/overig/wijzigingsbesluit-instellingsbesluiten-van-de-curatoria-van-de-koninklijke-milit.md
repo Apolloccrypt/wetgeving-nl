@@ -9,7 +9,7 @@ laatste_update: 1998-04-10
 status: geldig
 toestand: 1998-04-10
 bron: "https://wetten.overheid.nl/BWBR0009432"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 27 februari 1998 tot wijziging van de instellingsbesluiten van de curatoria van de Koninklijke Militaire Academie en van het Koninklijk Instituut voor de Marine

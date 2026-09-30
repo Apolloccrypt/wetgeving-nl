@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0008881"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 22 augustus 1997, houdende vaststelling van een vaste vergoeding aan de leden van de Overleg- en begeleidingscommissie CAS

@@ -8,7 +8,7 @@ laatste_update: 2001-04-04
 status: geldig
 toestand: 2001-04-04
 bron: "https://wetten.overheid.nl/BWBR0009758"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Uitvoeringsregeling Wob EZ

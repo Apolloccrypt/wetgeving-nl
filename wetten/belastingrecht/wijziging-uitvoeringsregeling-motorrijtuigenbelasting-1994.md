@@ -9,7 +9,7 @@ laatste_update: 1997-07-01
 status: geldig
 toestand: 1997-07-01
 bron: "https://wetten.overheid.nl/BWBR0008749"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wijziging van de Uitvoeringsregeling motorrijtuigenbelasting 1994 en bepaling van de voorwaarden waaronder de tegemoetkoming in artikel VI van de Wet van 12 juni 1997 tot wijziging van de Wet op de motorrijtuigenbe-lasting 1994 en van enkele andere wetten in verband met herziening van de tariefstructuur voor vrachtauto’s (Stb. 245) kan worden verkregen

@@ -9,7 +9,7 @@ laatste_update: 2023-10-05
 status: geldig
 toestand: 2023-10-05
 bron: "https://wetten.overheid.nl/BWBR0009079"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 4 december 1997, houdende regelen met betrekking tot de organisatie van de bloedvoorziening (Wet inzake bloedvoorziening)

@@ -9,7 +9,7 @@ laatste_update: 2013-07-04
 status: geldig
 toestand: 2013-07-04
 bron: "https://wetten.overheid.nl/BWBR0008998"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 6 november 1997 tot wijziging van de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de Wet op het voortgezet onderwijs en de Wet medezeggenschap onderwijs 1992 inzake ouderbijdragen, sponsorgelden en stichtings- en opheffingsnormen

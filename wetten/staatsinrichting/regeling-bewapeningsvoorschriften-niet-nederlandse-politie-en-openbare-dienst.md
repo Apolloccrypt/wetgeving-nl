@@ -9,7 +9,7 @@ laatste_update: 1997-06-14
 status: geldig
 toestand: 1997-06-14
 bron: "https://wetten.overheid.nl/BWBR0008726"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling van de Ministers van Justitie en van Binnenlandse Zaken van 9 juni 1997, nr. 633303/97/6, houdende bepalingen tot uitvoering van de Wet wapens en munitie (Stb. 1986, 41), laatstelijk gewijzigd bij Wet van 16 november 1995 (Stb. 1995, 579) met betrekking tot niet-Nederlandse politie en openbare dienst (Regeling bewapeningsvoorschriften niet-Nederlandse politie en openbare dienst) «Wet wapens en munitie»

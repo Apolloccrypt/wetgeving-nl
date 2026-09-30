@@ -8,7 +8,7 @@ laatste_update: 1997-12-30
 status: geldig
 toestand: 1997-12-30
 bron: "https://wetten.overheid.nl/BWBR0009140"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 1998

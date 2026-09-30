@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0008809"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 5 juli 1997 tot wijziging van Boek 1 van het Burgerlijk Wetboek en van het Wetboek van Burgerlijke Rechtsvordering in verband met opneming daarin van bepalingen voor het geregistreerd partnerschap

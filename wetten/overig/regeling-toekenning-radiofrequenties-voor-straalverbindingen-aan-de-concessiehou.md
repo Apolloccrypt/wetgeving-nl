@@ -9,7 +9,7 @@ laatste_update: 1997-02-28
 status: geldig
 toestand: 1997-02-28
 bron: "https://wetten.overheid.nl/BWBR0008557"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling toekenning radiofrequenties straalverbindingen aan de concessiehouder

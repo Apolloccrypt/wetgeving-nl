@@ -9,7 +9,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0008632"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 10 april 1997 tot wijziging van de artikelen 5 en 9 van Boek 1 van het Burgerlijk Wetboek en in verband daarmede van enige andere artikelen van dit Wetboek

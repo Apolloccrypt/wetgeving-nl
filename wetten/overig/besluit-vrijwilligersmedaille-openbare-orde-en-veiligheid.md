@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0009362"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 2 februari 1998, houdende regels met betrekking tot de toekenning van een medaille aan vrijwilligers die in repressieve dienst taken op het terrein van de openbare orde en veiligheid verrichten (Besluit vrijwilligersmedaille openbare orde en veiligheid)

@@ -9,7 +9,7 @@ laatste_update: 1997-05-01
 status: geldig
 toestand: 1997-05-01
 bron: "https://wetten.overheid.nl/BWBR0008634"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 10 april 1997, houdende wijziging van de Wet op de studiefinanciering onder meer in verband met correctie op de berekening van de aanvullende beurs, alsmede van onder meer de Wet tegemoetkoming studiekosten in verband met enkele technische wijzigingen

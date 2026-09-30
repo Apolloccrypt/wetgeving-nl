@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0009723"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 24 juni 1998 tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 66a van de Algemene nabestaandenwet (Besluit ex artikel 66a ANW)

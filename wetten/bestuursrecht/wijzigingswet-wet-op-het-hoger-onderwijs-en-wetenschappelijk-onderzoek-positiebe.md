@@ -9,7 +9,7 @@ laatste_update: 2005-08-03
 status: geldig
 toestand: 2005-08-03
 bron: "https://wetten.overheid.nl/BWBR0008767"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 25 juni 1997 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de positiebepaling van de Open Universiteit binnen het hoger onderwijs en wijziging van de bestuursorganisatie

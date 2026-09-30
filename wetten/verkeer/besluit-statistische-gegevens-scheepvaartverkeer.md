@@ -9,7 +9,7 @@ laatste_update: 2011-05-25
 status: geldig
 toestand: 2011-05-25
 bron: "https://wetten.overheid.nl/BWBR0008812"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 5 juli 1997, houdende vaststelling van bepalingen met betrekking tot de verstrekking van scheepvaartgegevens voor statistische doeleinden (Besluit statistische gegevens scheepvaartverkeer)

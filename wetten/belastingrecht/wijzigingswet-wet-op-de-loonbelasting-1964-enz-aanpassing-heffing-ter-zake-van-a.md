@@ -9,7 +9,7 @@ laatste_update: 1998-06-26
 status: geldig
 toestand: 1998-06-26
 bron: "https://wetten.overheid.nl/BWBR0009719"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 24 juni 1998 tot wijziging van de Wet op de loonbelasting 1964, de Wet op de vennootschapsbelasting 1969 en de Coördinatiewet Sociale Verzekering (aanpassing heffing ter zake van aandelenoptierechten)

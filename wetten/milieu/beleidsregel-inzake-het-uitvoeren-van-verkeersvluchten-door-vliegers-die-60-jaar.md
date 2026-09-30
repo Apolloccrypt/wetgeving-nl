@@ -8,7 +8,7 @@ laatste_update: 1997-11-01
 status: geldig
 toestand: 1997-11-01
 bron: "https://wetten.overheid.nl/BWBR0008959"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Beleidsregel inzake het uitvoeren van verkeersvluchten door vliegers die 60 jaar of ouder zijn

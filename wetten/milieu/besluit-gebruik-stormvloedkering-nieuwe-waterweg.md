@@ -8,7 +8,7 @@ laatste_update: 2009-12-22
 status: geldig
 toestand: 2009-12-22
 bron: "https://wetten.overheid.nl/BWBR0008672"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit gebruik stormvloedkering Nieuwe Waterweg

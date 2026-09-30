@@ -8,7 +8,7 @@ laatste_update: 1998-01-22
 status: geldig
 toestand: 1998-01-22
 bron: "https://wetten.overheid.nl/BWBR0009324"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Geluidhinder veroorzaakt door spooremplacementen; beoordeling in het kader van de vergunningverlening op basis van de Wet milieubeheer

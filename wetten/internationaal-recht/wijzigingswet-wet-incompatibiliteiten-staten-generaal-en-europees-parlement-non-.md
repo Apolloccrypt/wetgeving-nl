@@ -9,7 +9,7 @@ laatste_update: 2006-10-11
 status: geldig
 toestand: 2006-10-11
 bron: "https://wetten.overheid.nl/BWBR0009788"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 15 juli 1998 tot wijziging van de Wet Incompatibiliteiten Staten-Generaal en Europees parlement ter wijziging van de non-activiteitsbepalingen

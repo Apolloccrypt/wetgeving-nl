@@ -8,7 +8,7 @@ laatste_update: 1998-07-29
 status: geldig
 toestand: 1998-07-29
 bron: "https://wetten.overheid.nl/BWBR0009798"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Warenwetregeling Methoden van onderzoek brood

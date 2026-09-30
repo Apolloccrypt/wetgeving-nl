@@ -9,7 +9,7 @@ laatste_update: 2017-03-18
 status: geldig
 toestand: 2017-03-18
 bron: "https://wetten.overheid.nl/BWBR0009137"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling Politielogo

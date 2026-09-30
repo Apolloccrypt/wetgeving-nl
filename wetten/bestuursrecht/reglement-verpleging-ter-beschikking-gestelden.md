@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0008690"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 22 mei 1997, houdende regels omtrent de tenuitvoerlegging van de maatregel van terbeschikkingstelling en de verpleging van ter beschikking gestelden en overige verpleegden strafrechtstoepassing (Reglement verpleging ter beschikking gestelden)

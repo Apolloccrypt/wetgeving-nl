@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0008656"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 24 april 1997, houdende verzekering tegen geldelijke gevolgen van langdurige arbeidsongeschiktheid en een uitkeringsregeling in verband met bevalling voor zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten (Wet arbeidsongeschiktheidsverzekering zelfstandigen)

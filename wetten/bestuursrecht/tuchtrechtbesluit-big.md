@@ -9,7 +9,7 @@ laatste_update: 2022-04-01
 status: geldig
 toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0008688"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 20 mei 1997, houdende regelen inzake tuchtrechtspraak en maatregelen wegens ongeschiktheid (Tuchtrechtbesluit BIG)

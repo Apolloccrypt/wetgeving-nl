@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0008975"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 24 oktober 1997, houdende regels inzake de opleiding tot en de deskundigheid van de diëtist, de ergotherapeut, de logopedist, de mondhygiënist, de oefentherapeut, de orthoptist en de podotherapeut (Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut)

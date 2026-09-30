@@ -9,7 +9,7 @@ laatste_update: 2022-06-23
 status: geldig
 toestand: 2022-06-23
 bron: "https://wetten.overheid.nl/BWBR0008878"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 21 augustus 1997, nr. WDB97/348M, houdende voorwaarden voor het berekenen van het belastbare bedrag in een andere geldeenheid dan de gulden

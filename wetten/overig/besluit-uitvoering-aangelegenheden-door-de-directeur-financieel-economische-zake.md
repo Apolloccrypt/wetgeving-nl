@@ -8,7 +8,7 @@ laatste_update: 1997-08-06
 status: geldig
 toestand: 1997-08-06
 bron: "https://wetten.overheid.nl/BWBR0008832"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit uitvoering aangelegenheden door de directeur Financieel- economische zaken op grond van de Comptabiliteitswet

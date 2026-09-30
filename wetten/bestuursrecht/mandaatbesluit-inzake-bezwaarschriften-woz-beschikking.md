@@ -8,7 +8,7 @@ laatste_update: 1998-06-13
 status: geldig
 toestand: 1998-06-13
 bron: "https://wetten.overheid.nl/BWBR0009677"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Mandaatbesluit inzake bezwaarschriften w.o.z.-beschikking

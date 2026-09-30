@@ -9,7 +9,7 @@ laatste_update: 1997-12-01
 status: geldig
 toestand: 1997-12-01
 bron: "https://wetten.overheid.nl/BWBR0008882"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 22 augustus 1997, houdende regels inzake de opleiding tot en de deskundigheid van de tandprotheticus (Besluit opleidingseisen en deskundigheidsgebied tandprotheticus)

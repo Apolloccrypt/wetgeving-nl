@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0009714"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 22 juni 1998, houdende de toekenning van een vaste beloning aan de voorzitter en de leden van de landelijke geschillencommissie samenwerkingsverbanden WSNS, bedoeld in artikel 13 d van de Wet op het primair onderwijs (Staatsblad 1998, 228)

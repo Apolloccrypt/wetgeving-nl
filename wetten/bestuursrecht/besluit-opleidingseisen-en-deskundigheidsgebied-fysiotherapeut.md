@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0008962"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 13 oktober 1997, houdende regels inzake de opleiding tot en de deskundigheid van de fysiotherapeut (Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut)

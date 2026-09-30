@@ -9,7 +9,7 @@ laatste_update: 1997-09-21
 status: geldig
 toestand: 1997-09-21
 bron: "https://wetten.overheid.nl/BWBR0008885"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Israëlische voorschriften tot uitvoering van de op 2 juli 1973 tussen Nederland en Israël gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzgd bij het protocol van 16 janauri 1996

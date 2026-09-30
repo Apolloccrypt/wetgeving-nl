@@ -8,7 +8,7 @@ laatste_update: 1998-02-09
 status: geldig
 toestand: 1998-02-09
 bron: "https://wetten.overheid.nl/BWBR0009373"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Pensioenlichamen waarvan de bezittingen in enigszins belangrijke mate uit 29a-lichamen bestaan

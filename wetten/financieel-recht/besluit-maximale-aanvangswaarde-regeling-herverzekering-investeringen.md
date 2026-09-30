@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0008939"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit maximale aanvangswaarde Regeling herverzekering investeringen

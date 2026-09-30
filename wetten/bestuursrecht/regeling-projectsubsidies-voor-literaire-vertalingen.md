@@ -8,7 +8,7 @@ laatste_update: 2026-07-30
 status: geldig
 toestand: 2026-07-30
 bron: "https://wetten.overheid.nl/BWBR0051470"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling projectsubsidies voor literair vertalers

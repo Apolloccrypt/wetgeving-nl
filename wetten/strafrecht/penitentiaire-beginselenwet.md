@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0009709"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 18 juni 1998 tot vaststelling van een Penitentiaire beginselenwet en daarmee verband houdende intrekking van de Beginselenwet gevangeniswezen met uitzondering van de artikelen 2 tot en met 5 en wijzigingen van het Wetboek van Strafrecht en het Wetboek van Strafvordering alsmede enige andere wetten (Penitentiaire beginselenwet)

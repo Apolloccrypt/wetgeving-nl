@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0008783"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Subsidieregeling stiller, schoner en zuiniger verkeer en vervoer in het stedelijk gebied

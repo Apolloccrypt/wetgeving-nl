@@ -8,7 +8,7 @@ laatste_update: 2016-09-23
 status: geldig
 toestand: 2016-09-23
 bron: "https://wetten.overheid.nl/BWBR0008836"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Nummerplan internationale signaleringspuntcodes

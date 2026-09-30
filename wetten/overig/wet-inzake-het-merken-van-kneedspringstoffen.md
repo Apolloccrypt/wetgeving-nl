@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0009407"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 26 februari 1998 tot uitvoering van het op 1 maart 1991 te Montreal tot stand gekomen Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan (Wet inzake het merken van kneedspringstoffen)

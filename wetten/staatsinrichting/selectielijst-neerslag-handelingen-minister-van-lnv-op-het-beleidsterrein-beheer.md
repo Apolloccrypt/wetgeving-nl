@@ -8,7 +8,7 @@ laatste_update: 1998-08-01
 status: geldig
 toestand: 1998-08-01
 bron: "https://wetten.overheid.nl/BWBR0009316"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Selectielijst neerslag handelingen Minister van LNV op het beleidsterrein Beheer Rijksbegroting

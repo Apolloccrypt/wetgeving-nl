@@ -9,7 +9,7 @@ laatste_update: 1998-07-15
 status: geldig
 toestand: 1998-07-15
 bron: "https://wetten.overheid.nl/BWBR0009708"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Wet van 18 juni 1998 tot samenvoeging van de gemeenten Buren, Lienden en Maurik

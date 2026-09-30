@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0009014"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Wet van 13 november 1997 tot wijziging van bepalingen van de Mediawet in verband met een herziening van de organisatiestructuur van de landelijke publieke omroep

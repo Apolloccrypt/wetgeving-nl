@@ -8,7 +8,7 @@ laatste_update: 2009-12-31
 status: geldig
 toestand: 2009-12-31
 bron: "https://wetten.overheid.nl/BWBR0009305"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Uitvoeringsreglement inzake aanvragen voor een financiële bijdrage voor de distributie van een film

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0008562"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 21 februari 1997 tot vaststelling van het drempelbedrag, bedoeld in artikel 76c, eerste lid, onder b, ten tweede, van de Wet op het voortgezet onderwijs, alsmede van enige minimum bruto vloeroppervlakten voor het basisonderwijs, het speciaal en het voortgezet speciaal onderwijs en het voortgezet onderwijs (Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO)

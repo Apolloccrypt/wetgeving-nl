@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0009280"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Besluit van 24 december 1997 tot het vaststellen van nadere regels inzake registraties die worden aangemerkt als gezamenlijke huishouding (Besluit aanwijzing registraties gezamenlijke huishouding 1998)

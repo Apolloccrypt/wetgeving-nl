@@ -8,7 +8,7 @@ laatste_update: 2006-07-09
 status: geldig
 toestand: 2006-07-09
 bron: "https://wetten.overheid.nl/BWBR0009488"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Vaststellingsregeling wijze van verlenging geldigheidsduur van vliegbewijzen en bewijzen van bevoegdheid

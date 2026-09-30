@@ -5,11 +5,11 @@ identifier: "BWBR0045607"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-06-26
-laatste_update: 2026-08-01
+laatste_update: 2026-09-23
 status: geldig
-toestand: 2026-08-01
+toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0045607"
-opgehaald: 2026-08-04
+opgehaald: 2026-09-30
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29097410, houdende regels voor de aanvullende bekostiging voor vo-scholen in uitzonderlijke omstandigheden (Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden)
@@ -97,15 +97,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3a. Aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
 
-1. De Minister kan de aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-08-01&g=2026-08-01), op aanvraag van het bevoegd gezag ook verstrekken indien:
+1. De Minister kan de aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-09-23&g=2026-09-23), op aanvraag van het bevoegd gezag ook verstrekken indien:
 
-- a. het in [artikel 3, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-08-01&g=2026-08-01), bedoelde onderwijs binnen een scholengemeenschap is verdeeld over twee vestigingen, die hemelsbreed gemeten maximaal 300 meter van elkaar gelegen zijn; en
+- a. het in [artikel 3, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-09-23&g=2026-09-23), bedoelde onderwijs binnen een scholengemeenschap is verdeeld over twee vestigingen, die hemelsbreed gemeten maximaal 300 meter van elkaar gelegen zijn; en
 
 - b. er door het bevoegd gezag een bijdrage wordt geleverd aan het tegengaan van segregatie doordat de leerlingen van de verschillende schoolsoorten samenkomen op de vestigingen in reguliere onderwijstijd. Het bevoegd gezag voldoet hieraan indien:
 
-   - 1°. de eerste twee leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-08-01&g=2026-08-01), van het vbo tot en met vwo wordt verzorgd op één van de vestigingen; of
+   - 1°. de eerste twee leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-09-23&g=2026-09-23), van het vbo tot en met vwo wordt verzorgd op één van de vestigingen; of
 
-   - 2°. onderwijs in de leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-08-01&g=2026-08-01), van het vbo tot en met het vwo, wordt verzorgd op één van de vestigingen; of
+   - 2°. onderwijs in de leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-09-23&g=2026-09-23), van het vbo tot en met het vwo, wordt verzorgd op één van de vestigingen; of
 
    - 3°. het bevoegd gezag aantoont dat minimaal 50% van de leerlingen minimaal 20% van hun onderwijstijd gedurende het schooljaar onderwijs volgt op beide vestigingen.
 
@@ -117,11 +117,11 @@ In deze regeling wordt verstaan onder:
 
 5. In afwijking van het vierde lid wordt de aanvraag in 2022 uiterlijk op 1 juni bij de Minister ingediend. De aanvraag wordt afgewezen als deze na 1 juni is ontvangen.
 
-6. De Minister besluit voor 1 augustus van het kalenderjaar van aanvraag of de aanvullende bekostiging wordt toegekend. De aanvullende bekostiging wordt jaarlijks in november uitbetaald. De toekenning geldt tot en met het jaar 2026, mits voldaan blijft worden aan de voorwaarden uit het eerste lid.
+6. De Minister besluit voor 1 augustus van het kalenderjaar van aanvraag of de aanvullende bekostiging wordt toegekend. De aanvullende bekostiging wordt jaarlijks in november uitbetaald. De toekenning geldt tot en met het jaar 2028, mits voldaan blijft worden aan de voorwaarden uit het eerste lid.
 
 7. Het bevoegd gezag maakt er bij de Minister schriftelijk melding van indien niet meer wordt voldaan aan het eerste lid. De toekenning zal dan voor het kalenderjaar daaropvolgend stoppen.
 
-8. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-08-01&g=2026-08-01), is van overeenkomstige toepassing op de aanvullende bekostiging bedoeld in het eerste lid.
+8. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-09-23&g=2026-09-23), is van overeenkomstige toepassing op de aanvullende bekostiging bedoeld in het eerste lid.
 
 ##### Artikel 4. Aanvullende bekostiging maritiem vbo
 
@@ -177,13 +177,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7. Beschikking en betaling
 
-1. De minister stelt de aanvullende bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=2&z=2026-08-01&g=2026-08-01), in januari van het jaar waarop de bekostiging betrekking heeft vast. De minister stelt de aanvullende bekostiging, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-08-01&g=2026-08-01) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=4&z=2026-08-01&g=2026-08-01), uiterlijk in de maand maart van het jaar waarop de bekostiging betrekking heeft vast. De aanvullende bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang.
+1. De minister stelt de aanvullende bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=2&z=2026-09-23&g=2026-09-23), in januari van het jaar waarop de bekostiging betrekking heeft vast. De minister stelt de aanvullende bekostiging, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2026-09-23&g=2026-09-23) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=4&z=2026-09-23&g=2026-09-23), uiterlijk in de maand maart van het jaar waarop de bekostiging betrekking heeft vast. De aanvullende bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang.
 
-2. De beschikking en betaling van de aanvullende bekostiging bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2026-08-01&g=2026-08-01) vindt jaarlijks in één termijn plaats in november.
+2. De beschikking en betaling van de aanvullende bekostiging bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2026-09-23&g=2026-09-23) vindt jaarlijks in één termijn plaats in november.
 
-3. De minister stelt de aanvullende bekostiging, bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=6a&z=2026-08-01&g=2026-08-01), uiterlijk in de maand maart van het jaar waarop de bekostiging betrekking heeft vast. De betaling van de aanvullende bekostiging vindt jaarlijks in een termijn plaats in maart.
+3. De minister stelt de aanvullende bekostiging, bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=6a&z=2026-09-23&g=2026-09-23), uiterlijk in de maand maart van het jaar waarop de bekostiging betrekking heeft vast. De betaling van de aanvullende bekostiging vindt jaarlijks in een termijn plaats in maart.
 
-4. De Minister stelt de aanvullende bekostiging, bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=6b&z=2026-08-01&g=2026-08-01), uiterlijk vast in de maand april van het jaar waarop de bekostiging betrekking heeft. De aanvullende bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang.
+4. De Minister stelt de aanvullende bekostiging, bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=6b&z=2026-09-23&g=2026-09-23), uiterlijk vast in de maand april van het jaar waarop de bekostiging betrekking heeft. De aanvullende bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang.
 
 5. De aanvullende bekostiging wordt, uiterlijk in de maand december van het jaar waarop de bekostiging betrekking heeft, herzien en wordt berekend op basis van:
 
@@ -191,7 +191,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de bijdrage voor loon- en prijsontwikkeling.
 
-6. In afwijking van het derde en vierde lid stelt de minister de aanvullende bekostiging, bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=6a&z=2026-08-01&g=2026-08-01), voor 2025 uiterlijk in de maand november 2025 vast, berekend op basis van het door de accountant goedgekeurde aantal leerlingen dat op de teldatum staat ingeschreven bij de school voor praktijkonderwijs. Er vindt geen herziening plaats als bedoeld in het vierde lid. De aanvullende bekostiging voor 2025 wordt uiterlijk in november 2025 in één termijn betaald.
+6. In afwijking van het derde en vierde lid stelt de minister de aanvullende bekostiging, bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=6a&z=2026-09-23&g=2026-09-23), voor 2025 uiterlijk in de maand november 2025 vast, berekend op basis van het door de accountant goedgekeurde aantal leerlingen dat op de teldatum staat ingeschreven bij de school voor praktijkonderwijs. Er vindt geen herziening plaats als bedoeld in het vierde lid. De aanvullende bekostiging voor 2025 wordt uiterlijk in november 2025 in één termijn betaald.
 
 ##### Artikel 8. Inwerkingtreding
 

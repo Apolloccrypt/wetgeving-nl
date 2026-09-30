@@ -8,7 +8,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0009203"
-opgehaald: 2026-08-03
+opgehaald: 2026-09-30
 ---
 
 # Regeling niet-reinigbaar straalgrit
