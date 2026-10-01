@@ -9,7 +9,7 @@ laatste_update: 2002-09-01
 status: geldig
 toestand: 2002-09-01
 bron: "https://wetten.overheid.nl/BWBR0010615"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 17 juli 1999 tot vaststelling van het tijdstip van aanvang van fase 2 en fase 3 van de Wet overheidspersoneel onder de werknemersverzekeringen

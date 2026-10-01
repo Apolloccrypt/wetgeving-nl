@@ -9,7 +9,7 @@ laatste_update: 2018-11-14
 status: geldig
 toestand: 2018-11-14
 bron: "https://wetten.overheid.nl/BWBR0011049"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 23 december 1999, houdende afwijkende regels inzake het recht op een uitkering ten aanzien van personen die niet in Nederland wonen (Besluit afwijkende regels beperking export uitkeringen)

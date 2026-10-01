@@ -9,7 +9,7 @@ laatste_update: 2017-12-09
 status: geldig
 toestand: 2017-12-09
 bron: "https://wetten.overheid.nl/BWBR0010748"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 30 september 1999, houdende nadere regels inzake het verhaal van onroerende-zaakbelasting als bedoeld in artikel 220b, eerste lid, onderdeel b, van de Gemeentewet (Besluit verhaal van onroerende-zaakbelasting)

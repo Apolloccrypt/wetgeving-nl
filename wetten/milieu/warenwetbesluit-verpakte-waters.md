@@ -9,7 +9,7 @@ laatste_update: 2023-01-12
 status: geldig
 toestand: 2023-01-12
 bron: "https://wetten.overheid.nl/BWBR0009828"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 31 juli 1998, houdende regels voor bronwater, natuurlijk mineraalwater en andere verpakte waters (Warenwetbesluit Verpakte waters)

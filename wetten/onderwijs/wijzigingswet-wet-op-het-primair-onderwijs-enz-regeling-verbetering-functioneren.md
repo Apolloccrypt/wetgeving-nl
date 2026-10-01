@@ -9,7 +9,7 @@ laatste_update: 1999-10-29
 status: geldig
 toestand: 1999-10-29
 bron: "https://wetten.overheid.nl/BWBR0010758"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 6 oktober 1999 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet op het voortgezet onderwijs in verband met enkele maatregelen ter verbetering van het functioneren van het vervangingsfonds en het participatiefonds (regeling verbetering functioneren vervangings- en participatiefonds)

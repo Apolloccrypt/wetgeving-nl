@@ -9,7 +9,7 @@ laatste_update: 2008-12-31
 status: geldig
 toestand: 2008-12-31
 bron: "https://wetten.overheid.nl/BWBR0010099"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Warenwetregeling enzymen in brood en meel

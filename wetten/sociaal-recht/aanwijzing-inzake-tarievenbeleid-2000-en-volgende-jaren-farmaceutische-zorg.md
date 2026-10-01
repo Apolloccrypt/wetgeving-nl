@@ -8,7 +8,7 @@ laatste_update: 1999-11-19
 status: geldig
 toestand: 1999-11-19
 bron: "https://wetten.overheid.nl/BWBR0010860"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Aanwijzing inzake tarievenbeleid 2000 en volgende jaren farmaceutische zorg

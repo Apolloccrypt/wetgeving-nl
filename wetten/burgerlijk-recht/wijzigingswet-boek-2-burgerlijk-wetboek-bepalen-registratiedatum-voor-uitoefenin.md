@@ -9,7 +9,7 @@ laatste_update: 1999-12-15
 status: geldig
 toestand: 1999-12-15
 bron: "https://wetten.overheid.nl/BWBR0010923"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 2 december 1999 tot wijziging van boek 2 van het Burgerlijk Wetboek in verband met de mogelijkheid een registratiedatum te bepalen voor de uitoefening van stem- en vergaderrechten in de naamloze vennootschap

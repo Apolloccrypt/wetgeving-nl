@@ -8,7 +8,7 @@ laatste_update: 1999-07-07
 status: geldig
 toestand: 1999-07-07
 bron: "https://wetten.overheid.nl/BWBR0010537"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Invoering open vragen moderne vreemde talen bij de centrale examens vbo, havo en vwo

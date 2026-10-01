@@ -9,7 +9,7 @@ laatste_update: 2000-02-01
 status: geldig
 toestand: 2000-02-01
 bron: "https://wetten.overheid.nl/BWBR0010477"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 27 mei 1999 tot wijziging van de Wet politieregisters, houdende nadere regels voor bijzondere politieregisters ten behoeve van de politie, Koninklijke marechaussee en daartoe aangewezen diensten van publiekrechtelijke lichamen die met de opsporing van strafbare feiten zijn belast (bijzondere politieregisters)

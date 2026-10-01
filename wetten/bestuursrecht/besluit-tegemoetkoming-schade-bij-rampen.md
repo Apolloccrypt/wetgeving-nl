@@ -9,7 +9,7 @@ laatste_update: 2010-10-01
 status: geldig
 toestand: 2010-10-01
 bron: "https://wetten.overheid.nl/BWBR0010000"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 10 november 1998, houdende regels ter uitvoering van de Wet tegemoetkoming schade bij rampen en zware ongevallen (Besluit tegemoetkoming schade bij rampen en zware ongevallen)

@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0010480"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Rijkswet van 27 mei 1999 tot instelling van een exclusieve economische zone van het Koninkrijk (Rijkswet instelling exclusieve economische zone)

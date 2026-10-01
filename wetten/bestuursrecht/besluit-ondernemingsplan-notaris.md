@@ -9,7 +9,7 @@ laatste_update: 2004-08-01
 status: geldig
 toestand: 2004-08-01
 bron: "https://wetten.overheid.nl/BWBR0010398"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 9 april 1999, houdende nadere regels inzake het ondernemingsplan en de samenstelling en de werkwijze van de Commissie van deskundigen in verband met de vestiging van een notaris (Besluit ondernemingsplan notaris)

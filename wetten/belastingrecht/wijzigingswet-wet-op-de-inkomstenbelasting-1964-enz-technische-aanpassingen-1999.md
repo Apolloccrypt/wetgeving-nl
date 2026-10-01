@@ -9,7 +9,7 @@ laatste_update: 2000-07-01
 status: geldig
 toestand: 2000-07-01
 bron: "https://wetten.overheid.nl/BWBR0010984"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 16 december 1999, houdende wijziging van enkele belastingwetten (technische aanpassingen)

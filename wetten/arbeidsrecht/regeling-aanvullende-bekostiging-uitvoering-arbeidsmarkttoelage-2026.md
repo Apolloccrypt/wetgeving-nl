@@ -9,7 +9,7 @@ laatste_update: 2026-09-23
 status: geldig
 toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0052080"
-opgehaald: 2026-09-30
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 10 december 2025, nr. VO/F/55351459, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor 2026 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2026)

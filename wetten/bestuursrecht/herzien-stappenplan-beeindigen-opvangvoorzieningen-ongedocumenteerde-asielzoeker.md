@@ -8,7 +8,7 @@ laatste_update: 1999-03-17
 status: geldig
 toestand: 1999-03-17
 bron: "https://wetten.overheid.nl/BWBR0010197"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Herzien stappenplan beëindigen opvangvoorzieningen ongedocumenteerde asielzoekers

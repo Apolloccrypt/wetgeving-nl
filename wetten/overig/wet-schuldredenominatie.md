@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0010040"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 26 november 1998, houdende bepalingen inzake redenominatie van schuldtitels in verband met de deelname door Nederland aan de Economische en Monetaire Unie (Wet schuldredenominatie)

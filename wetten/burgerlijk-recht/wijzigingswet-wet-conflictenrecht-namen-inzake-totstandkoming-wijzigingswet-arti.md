@@ -9,7 +9,7 @@ laatste_update: 1999-02-15
 status: geldig
 toestand: 1999-02-15
 bron: "https://wetten.overheid.nl/BWBR0010170"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 24 december 1998, houdende wijziging van de Wet conflictenrecht namen in verband met de totstandkoming van de wet van 10 april 1997 tot wijziging van de artikelen 5 en 9 van Boek 1 van het Burgerlijk Wetboek en in verband daarmede van enige andere artikelen van dit Wetboek (Stb. 161)

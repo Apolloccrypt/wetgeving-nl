@@ -9,7 +9,7 @@ laatste_update: 1999-03-24
 status: geldig
 toestand: 1999-03-24
 bron: "https://wetten.overheid.nl/BWBR0010313"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 5 maart 1999, houdende de van toepassingverklaring van de Wet tegemoetkoming schade bij rampen en zware ongevallen op de schade en kosten tengevolge van de extreem zware regenval op 27 en 28 oktober 1998

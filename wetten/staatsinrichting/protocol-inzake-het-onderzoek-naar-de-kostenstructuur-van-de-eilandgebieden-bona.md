@@ -8,7 +8,7 @@ laatste_update: 2000-02-01
 status: geldig
 toestand: 2000-02-01
 bron: "https://wetten.overheid.nl/BWBR0010951"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Protocol inzake het onderzoek naar de kostenstructuur van de eilandgebieden Bonaire, Sint Eustatius en Saba

@@ -9,7 +9,7 @@ laatste_update: 2000-01-01
 status: geldig
 toestand: 2000-01-01
 bron: "https://wetten.overheid.nl/BWBR0010903"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 25 november 1999, houdende wijziging van het Uitvoeringsbesluit omzetbelasting 1968 in verband met de invoering van een verleggingsregeling voor (beleggings)goud

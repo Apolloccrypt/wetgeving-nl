@@ -9,7 +9,7 @@ laatste_update: 1999-08-13
 status: geldig
 toestand: 1999-08-13
 bron: "https://wetten.overheid.nl/BWBR0010643"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # IJslandse voorschriften tot uitvoering van het op 25 september 1997 tussen Nedeland en IJsland gesloten Verdrag tot het vermijden van dubbele belasting

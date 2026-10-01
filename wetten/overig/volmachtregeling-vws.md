@@ -8,7 +8,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0010710"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Volmachtregeling VWS

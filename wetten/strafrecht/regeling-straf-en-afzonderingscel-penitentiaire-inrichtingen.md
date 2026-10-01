@@ -8,7 +8,7 @@ laatste_update: 1999-07-15
 status: geldig
 toestand: 1999-07-15
 bron: "https://wetten.overheid.nl/BWBR0010524"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling straf- en afzonderingscel penitentiaire inrichtingen

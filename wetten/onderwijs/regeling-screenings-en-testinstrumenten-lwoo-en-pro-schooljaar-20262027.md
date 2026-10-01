@@ -1,15 +1,15 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 11 september 2025, nr. 54178956, houdende de vaststelling van de screenings- en testinstrumenten ten behoeve van de indicatiestelling voor leerwegondersteunend onderwijs (lwoo) en praktijkonderwijs (pro) en het gebruik daarvan voor het schooljaar 2026–2027 (Regeling screenings- en testinstrumenten lwoo en pro schooljaar 2026–2027)"
-citeertitel: "Regeling screenings- en testinstrumenten lwoo en pro schooljaar 2026–2027"
+citeertitel: "Regeling screenings- en testinstrumenten lwoo en pro schooljaar 2027–2028"
 identifier: "BWBR0051538"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2025-10-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0051538"
-opgehaald: 2026-09-09
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 11 september 2025, nr. 54178956, houdende de vaststelling van de screenings- en testinstrumenten ten behoeve van de indicatiestelling voor leerwegondersteunend onderwijs (lwoo) en praktijkonderwijs (pro) en het gebruik daarvan voor het schooljaar 2026–2027 (Regeling screenings- en testinstrumenten lwoo en pro schooljaar 2026–2027)
@@ -41,15 +41,15 @@ opgehaald: 2026-09-09
 
 ##### Artikel 2. Vaststelling screenings- en testinstrumenten
 
-1. De instrumenten voor het vaststellen van een leerachterstand zijn vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051538&bijlage=1&z=2025-10-01&g=2025-10-01).
+1. De instrumenten voor het vaststellen van een leerachterstand zijn vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051538&bijlage=1&z=2026-10-01&g=2026-10-01).
 
-2. De instrumenten voor het vaststellen van de intelligentie zijn vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051538&bijlage=2&z=2025-10-01&g=2025-10-01).
+2. De instrumenten voor het vaststellen van de intelligentie zijn vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051538&bijlage=2&z=2026-10-01&g=2026-10-01).
 
-3. De instrumenten voor persoonlijkheidsonderzoek zijn vastgesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051538&bijlage=3&z=2025-10-01&g=2025-10-01).
+3. De instrumenten voor persoonlijkheidsonderzoek zijn vastgesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051538&bijlage=3&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 3. Toepassing instrumenten
 
-Een instrument als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051538&paragraaf=1&artikel=2&z=2025-10-01&g=2025-10-01) wordt gebruikt conform de vastgestelde procedures en instructies, zoals opgenomen in de handleiding van de leverancier.
+Een instrument als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051538&paragraaf=1&artikel=2&z=2026-10-01&g=2026-10-01) wordt gebruikt conform de vastgestelde procedures en instructies, zoals opgenomen in de handleiding van de leverancier.
 
 ##### Artikel 4. Nieuwe versie, herziene versie of tussentijdse herbeoordeling van instrumenten op de lijst
 
@@ -57,7 +57,7 @@ Het bevoegd gezag kan een instrument gebruiken dat op de lijst in de bijlage van
 
 ##### Artikel 5. Vermelding van gegevens bij resultaten
 
-Het bevoegd gezag van de school waar de leerling is aangemeld of van de school waaraan de leerling is ingeschreven, vermeldt bij de resultaten van een instrument als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051538&paragraaf=1&artikel=2&z=2025-10-01&g=2025-10-01):
+Het bevoegd gezag van de school waar de leerling is aangemeld of van de school waaraan de leerling is ingeschreven, vermeldt bij de resultaten van een instrument als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051538&paragraaf=1&artikel=2&z=2026-10-01&g=2026-10-01):
 
 - a. de toetsversie;
 
@@ -73,7 +73,7 @@ Het bevoegd gezag van de school waar de leerling is aangemeld of van de school w
 
 1. De geldigheidsduur van een resultaat van een instrument voor het vaststellen van een leerachterstand bedraagt 26 weken vanaf de datum van afname, waarbij de dagen in de maanden juli en augustus niet worden meegerekend.
 
-2. In afwijking van het eerste lid is een resultaat van een instrument voor het vaststellen van een leerachterstand voor een leerling die na 1 februari 2026 wordt aangemeld met de bedoeling de leerling voor 1 oktober 2026 te plaatsen, geldig indien het instrument is afgenomen na 1 september 2025.
+2. In afwijking van het eerste lid is een resultaat van een instrument voor het vaststellen van een leerachterstand voor een leerling die na 1 februari wordt aangemeld met de bedoeling de leerling vóór 1 oktober van hetzelfde kalenderjaar te plaatsen, geldig indien het instrument is afgenomen na 1 september van het daaraan voorafgaande kalenderjaar.
 
 ##### Artikel 7. Gebruik instrumenten voor het vaststellen van een leerachterstand
 
@@ -129,4 +129,4 @@ Deze regeling treedt in werking met ingang van 1 oktober 2025.
 
 ##### Artikel 16. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling screenings- en testinstrumenten lwoo en pro schooljaar 2026–2027.
+Deze regeling wordt aangehaald als: Regeling screenings- en testinstrumenten lwoo en pro schooljaar 2027–2028.

@@ -8,7 +8,7 @@ laatste_update: 2025-08-14
 status: geldig
 toestand: 2025-08-14
 bron: "https://wetten.overheid.nl/BWBR0010115"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling vervoer over de binnenwateren van gevaarlijke stoffen

@@ -8,7 +8,7 @@ laatste_update: 1999-08-11
 status: geldig
 toestand: 1999-08-11
 bron: "https://wetten.overheid.nl/BWBR0010649"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Toestemming statutenwijziging pensioen BV

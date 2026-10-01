@@ -9,7 +9,7 @@ laatste_update: 2001-10-01
 status: geldig
 toestand: 2001-10-01
 bron: "https://wetten.overheid.nl/BWBR0010595"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 8 juli 1999, houdende wijziging Wet Luchtverkeer (implementatie LVB-evaluatie)

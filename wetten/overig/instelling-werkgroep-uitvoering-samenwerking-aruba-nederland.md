@@ -9,7 +9,7 @@ laatste_update: 2000-03-01
 status: geldig
 toestand: 2000-03-01
 bron: "https://wetten.overheid.nl/BWBR0010881"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit tot instelling van een Werkgroep van advies aan Aruba en Nederland over de inwerkingtreding van een fonds voor de uitvoering van overheidsproject en en de sanering van de Arubaanse overheidsschulden bij Nederland

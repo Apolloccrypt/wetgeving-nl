@@ -8,7 +8,7 @@ laatste_update: 1998-10-30
 status: geldig
 toestand: 1998-10-30
 bron: "https://wetten.overheid.nl/BWBR0009970"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Beleidsregels voor de toekenning van teeltplanschade op grond van de Regeling tegemoetkoming schade bij extreem zware regenval 1998

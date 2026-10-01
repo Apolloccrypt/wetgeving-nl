@@ -9,7 +9,7 @@ laatste_update: 2000-01-01
 status: geldig
 toestand: 2000-01-01
 bron: "https://wetten.overheid.nl/BWBR0010807"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 28 oktober 1999 tot wijziging van de Wet op de rechterlijke organisatie en van de Wet administratiefrechtelijke handhaving verkeersvoorschriften, strekkende tot vervanging van de mogelijkheid van beroep in cassatie door de mogelijkheid van hoger beroep, alsmede het aanbrengen van enige andere wijzigingen (vervanging in Mulder-zaken van beroep in cassatie door hoger beroep bij het gerechtshof Leeuwarden)

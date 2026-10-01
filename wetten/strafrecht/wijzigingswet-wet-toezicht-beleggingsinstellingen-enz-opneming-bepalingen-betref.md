@@ -9,7 +9,7 @@ laatste_update: 2000-01-01
 status: geldig
 toestand: 2000-01-01
 bron: "https://wetten.overheid.nl/BWBR0010808"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 28 oktober 1999, houdende opneming in de Wet toezicht beleggingsinstellingen, de Wet toezicht effectenverkeer 1995, de Wet toezicht kredietwezen 1992, de Wet toezicht natura-uitvaartverzekeringsbedrijf, de Wet toezicht verzekeringsbedrijf 1993, de Wet inzake de wisselkantoren, de Wet melding zeggenschap in ter beurze genoteerde vennootschappen 1996 en de Wet financiële betrekkingen buitenland 1994, van bepalingen betreffende handhaving door middel van een dwangsom of een bestuurlijke boete en van bepalingen betreffende de rechtsgang

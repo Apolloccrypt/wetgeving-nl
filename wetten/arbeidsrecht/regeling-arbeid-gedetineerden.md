@@ -9,7 +9,7 @@ laatste_update: 2025-11-22
 status: geldig
 toestand: 2025-11-22
 bron: "https://wetten.overheid.nl/BWBR0010172"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling arbeidsloon gedetineerde

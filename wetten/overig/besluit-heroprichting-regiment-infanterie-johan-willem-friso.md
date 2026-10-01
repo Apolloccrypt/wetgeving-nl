@@ -9,7 +9,7 @@ laatste_update: 1999-06-25
 status: geldig
 toestand: 1999-06-25
 bron: "https://wetten.overheid.nl/BWBR0010500"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 3 juni 1999, houdende de heroprichting van het Regiment Infanterie Johan Willem Friso

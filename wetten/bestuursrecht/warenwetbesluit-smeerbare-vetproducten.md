@@ -9,7 +9,7 @@ laatste_update: 2016-10-06
 status: geldig
 toestand: 2016-10-06
 bron: "https://wetten.overheid.nl/BWBR0010734"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 22 september 1999, houdende het Warenwetbesluit Smeerbare vetproducten

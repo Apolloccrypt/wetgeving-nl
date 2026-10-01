@@ -9,7 +9,7 @@ laatste_update: 2025-11-22
 status: geldig
 toestand: 2025-11-22
 bron: "https://wetten.overheid.nl/BWBR0009805"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling houdende vaststelling van het model huisregels voor de penitentiaire inrichtingen, met uitzondering van de Extra Beveiligde inrichting te Vught

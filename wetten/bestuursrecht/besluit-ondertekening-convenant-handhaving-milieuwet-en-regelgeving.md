@@ -8,7 +8,7 @@ laatste_update: 1999-02-14
 status: geldig
 toestand: 1999-02-14
 bron: "https://wetten.overheid.nl/BWBR0010232"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit ondertekening convenant handhaving milieuwet- en regelgeving

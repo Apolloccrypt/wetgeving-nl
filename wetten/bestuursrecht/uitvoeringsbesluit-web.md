@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0010646"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 6 augustus 1999, houdende vaststelling van de algemene berekeningswijze van de rijksbijdrage voor het beroepsonderwijs, de educatie en de landelijke organen, alsmede vaststelling van voorschriften over het informatieverkeer, bedoeld in de Wet educatie en beroepsonderwijs (Uitvoeringsbesluit WEB)

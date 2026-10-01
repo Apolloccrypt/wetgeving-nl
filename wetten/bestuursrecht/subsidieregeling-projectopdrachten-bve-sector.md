@@ -8,7 +8,7 @@ laatste_update: 2013-03-12
 status: geldig
 toestand: 2013-03-12
 bron: "https://wetten.overheid.nl/BWBR0010355"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Subsidieregeling projectopdrachten Bve-sector

@@ -8,7 +8,7 @@ laatste_update: 1999-03-15
 status: geldig
 toestand: 1999-03-15
 bron: "https://wetten.overheid.nl/BWBR0010291"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Adoptie en verkrijging Nederlanderschap

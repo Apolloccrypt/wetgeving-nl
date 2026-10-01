@@ -9,7 +9,7 @@ laatste_update: 2024-03-25
 status: geldig
 toestand: 2024-03-25
 bron: "https://wetten.overheid.nl/BWBR0009930"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 1 oktober 1998, houdende voorzieningen betreffende de totstandbrenging en de exploitatie van een vaste oeververbinding onder de Westerschelde door een naamloze vennootschap (Tunnelwet Westerschelde)

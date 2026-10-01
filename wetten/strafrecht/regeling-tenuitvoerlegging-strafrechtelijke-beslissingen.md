@@ -5,11 +5,11 @@ identifier: "BWBR0042978"
 categorie: "Strafrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2020-01-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0042978"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 13 december 2019, nr. 2772910, houdende regels over de tenuitvoerlegging van strafrechtelijke beslissingen (Regeling tenuitvoerlegging strafrechtelijke beslissingen)
@@ -64,7 +64,7 @@ De persoonsgerichte invulling van de tenuitvoerlegging als bedoeld in [artikel 1
 
 - e. gevangenisstraf, hechtenis of jeugddetentie;
 
-- f. voorwaardelijke gevangenisstraf of voorwaardelijke hechtenis, alsmede de voorlopige tenuitvoerlegging daarvan;
+- f. voorwaardelijk niet ten uitvoer gelegde vrijheidsstraf alsmede de voorlopige tenuitvoerlegging daarvan;
 
 - g. militaire detentie, alsmede de voorwaardelijke militaire detentie;
 
@@ -96,9 +96,9 @@ De persoonsgerichte invulling van de tenuitvoerlegging als bedoeld in [artikel 1
 
 2. Vrijheidsbeperkende sancties worden zoveel mogelijk aaneensluitend op vrijheidsbenemende sancties ten uitvoer gelegd.
 
-3. Vrijheidsbeperkende sancties worden opgeschort, indien tijdens de tenuitvoerlegging daarvan een vrijheidsbenemende sanctie vatbaar wordt voor tenuitvoerlegging. De tenuitvoerlegging van de vrijheidsbeperkende sancties wordt voortgezet vanaf het moment dat de vrijheidsbeneming eindigt.
+3. Vrijheidsbeperkende sancties worden geschorst gedurende de tijd dat de veroordeelde rechtens zijn vrijheid is ontnomen.
 
-4. Een of meerdere vrijheidsbeperkende sancties kunnen worden opgeschort, indien de veroordeelde tijdens de tenuitvoerlegging daarvan in een zorginstelling wordt opgenomen of behandeld ter voldoening van een bijzondere voorwaarde. De tenuitvoerlegging van de opgeschorte vrijheidsbeperkende sancties wordt voortgezet vanaf het moment dat de opneming of behandeling eindigt.
+4. Vrijheidsbeperkende sancties kunnen worden geschorst gedurende de tijd dat de veroordeelde in een zorginstelling wordt opgenomen of behandeld ter voldoening van een bijzondere voorwaarde.
 
 ##### Artikel 1:6. Tenuitvoerlegging van geldelijke sancties
 
@@ -138,11 +138,13 @@ Strafrechtelijke beslissingen worden zodanig ten uitvoer gelegd dat gesloten jeu
 
 1. De Minister roept een veroordeelde in ieder geval niet op om zich te melden bij de inrichting voor de tenuitvoerlegging van een vrijheidsbenemende sanctie, indien:
 
-- a. die sanctie is opgelegd bij de veroordeling voor een misdrijf als bedoeld in [artikel 70, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=70), voor zover de veroordeelde geen jeugdige is;
+- a. die sanctie een onvoorwaardelijke gevangenisstraf van vier jaren of meer betreft;
 
-- b. die sanctie de toepassing van gijzeling betreft;
+- b. die sanctie is opgelegd bij de veroordeling voor een misdrijf als bedoeld in [artikel 70, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=70), voor zover de veroordeelde geen jeugdige is;
 
-- c. de veroordeelde voor het ontvangen van de oproep niet beschikt over een betrouwbaar en bruikbaar adres.
+- c. die sanctie de toepassing van gijzeling betreft;
+
+- d. de veroordeelde voor het ontvangen van de oproep niet beschikt over een betrouwbaar en bruikbaar adres.
 
 2. Onverminderd [artikel 6:1:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:3) betrekt de Minister bij de afweging om een veroordeelde op te roepen in ieder geval:
 
@@ -156,7 +158,11 @@ Strafrechtelijke beslissingen worden zodanig ten uitvoer gelegd dat gesloten jeu
 
 - e. de omstandigheid dat de veroordeelde eerder niet heeft meegewerkt aan de tenuitvoerlegging van een vrijheidsbenemende sanctie;
 
-- f. de omstandigheid dat de veroordeelde de vrijheidsbenemende sanctie als jeugdige is opgelegd.
+- f. de omstandigheid dat de veroordeelde de vrijheidsbenemende sanctie als jeugdige is opgelegd;
+
+- g. het risico op verjaring van de vrijheidsbenemende sanctie;
+
+- h. de omstandigheid dat met betrekking tot hetzelfde strafbare feit tevens een bijzondere voorwaarde is gesteld ter bescherming van één of meerdere slachtoffers.
 
 3. Indien de oproep is gericht aan een jeugdige, stelt de Minister de raad voor de kinderbescherming, de gecertificeerde instelling die belast is met de uitvoering van jeugdreclassering ten aanzien van de jeugdige, en de personen die gezag uitoefenen over de jeugdige daarvan op de hoogte. De Minister stelt hen voorts op de hoogte van daarop volgende mededelingen.
 
@@ -168,7 +174,9 @@ Strafrechtelijke beslissingen worden zodanig ten uitvoer gelegd dat gesloten jeu
 
 - b. na de oproep zich zodanig nieuwe of gewijzigde feiten of omstandigheden voordoen dat de Minister overgaat tot het geven van een last tot aanhouding van de veroordeelde;
 
-- c. na de oproep een vonnis of arrest in een andere strafzaak onherroepelijk is geworden waarbij een vrijheidsbenemende sanctie is opgelegd.
+- c. na de oproep een vonnis of arrest in een andere strafzaak onherroepelijk is geworden waarbij een vrijheidsbenemende sanctie is opgelegd;
+
+- d. de vrijheidsbenemende sanctie dreigt te verjaren.
 
 2. De oproep vervalt in ieder geval op het moment dat de veroordeelde rechtens zijn vrijheid is ontnomen.
 

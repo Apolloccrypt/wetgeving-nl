@@ -9,7 +9,7 @@ laatste_update: 1999-12-01
 status: geldig
 toestand: 1999-12-01
 bron: "https://wetten.overheid.nl/BWBR0010739"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 27 september 1999, houdende bepalingen ter uitvoering van artikel 46b, vierde lid, van de Wet toezicht effectenverkeer 1995

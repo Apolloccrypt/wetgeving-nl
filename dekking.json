@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-09-30",
+ "gegenereerd": "2026-10-01",
  "geverifieerd": true,
- "bwb_regelingen": 46931,
- "bwb_geldend": 22241,
- "site_totaal": 22461,
- "site_geldend": 22239,
+ "bwb_regelingen": 46949,
+ "bwb_geldend": 22252,
+ "site_totaal": 22479,
+ "site_geldend": 22250,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 2,
- "aantal_ten_onrechte_geldig": 222,
+ "aantal_ten_onrechte_geldig": 229,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -57,6 +57,10 @@
   {
    "id": "BWBR0015483",
    "titel": "Besluit van 16 augustus 2003, houdende wijziging van het Aanduidingenbesluit tabaksproducten"
+  },
+  {
+   "id": "BWBR0018592",
+   "titel": "Regeling subsidiëring medische haalbaarheidsonderzoeken in letselschadezaken"
   },
   {
    "id": "BWBR0019826",
@@ -315,6 +319,10 @@
    "titel": "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 januari 2020, MBO-17983694 houdende vaststelling van een aantal kwalificaties op grond waarvan een landelijk deel kan worden ontwikkeld (Regeling vaststelling aanvullende kwalificaties experiment ruimte voor de regio)"
   },
   {
+   "id": "BWBR0043210",
+   "titel": "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 februari 2020 nr. HO&S/19526911, houdende regels voor het verstrekken van subsidie aan studenten die een tweede lerarenopleiding willen volgen en die instellingscollegegeld moeten betalen (Subsidieregeling tweede lerarenopleiding)"
+  },
+  {
    "id": "BWBR0043395",
    "titel": "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 april 2020, nr. WJZ/ 20004577 houdende regels inzake het verlenen van mandaat en machtiging voor de uitgifte van identificatiedocumenten van paardachtigen (Besluit mandaat en machtiging inzake de uitgifte van paardachtigen 2020)"
   },
@@ -471,6 +479,10 @@
    "titel": "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 23 september 2021, nr. VO/29518735, houdende regels voor de subsidieverstrekking voor heterogene brugklassen (Subsidieregeling heterogene brugklassen)"
   },
   {
+   "id": "BWBR0045694",
+   "titel": "Regeling van de Minister van Infrastructuur en Waterstaat, van 12 oktober 2021, nr. IENW/BSK-2021/264008, houdende tijdelijke regels voor toekenning van specifieke uitkeringen ter stimulering van het nemen van maatregelen ten behoeve van doelmatiger en duurzamer gebruik van verkeersinfrastructuur 2021 (Tijdelijke stimuleringsregeling doelmatig en duurzaam gebruik verkeersinfrastructuur 2021)"
+  },
+  {
    "id": "BWBR0045807",
    "titel": "Regeling van de Minister van Justitie en Veiligheid van 1 november 2021, nr. 3565428, houdende vaststelling van modellen van akte ten behoeve van de kennisgeving van gerechtelijke mededelingen 2021"
   },
@@ -523,6 +535,10 @@
    "titel": "Beleidsregel van de Inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister voor Natuur en Stikstof en de Minister van Economische Zaken en Klimaat van 14 juli 2022, NVWA/2022/5640, over het prioriteringsbeleid bij de behandeling van handhavingsverzoeken"
   },
   {
+   "id": "BWBR0047244",
+   "titel": "Regeling van het College voor toetsen en examens 26 september 2022 nummer CvTE-22.00944, houdende vaststelling van de aanmeldprocedure voor het Staatsexamen Nt2 2024 (Besluit Aanmeldprocedure Staatsexamen Nt2 2024)"
+  },
+  {
    "id": "BWBR0047413",
    "titel": "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 30 oktober 2022, nr. IENW/BSK-2021/66906, houdende regels voor een specifieke uitkering ten behoeve van gemeentelijke OV-ambassadeurprojecten in de periode van 2023–2025 (Tijdelijke regeling specifieke uitkering OV-ambassadeurprojecten 2023)"
   },
@@ -553,6 +569,10 @@
   {
    "id": "BWBR0048163",
    "titel": "Besluit van de programma directeur-generaal Oekraïense Ontheemden van het Ministerie van Justitie en Veiligheid van 21 april 2023, houdende verlening van ondermandaat, volmacht en machtiging aan functionarissen in het programma directoraat-generaal Oekraïense Ontheemden (Mandaatbesluit pDGOek Ministerie van Justitie en Veiligheid 2022)"
+  },
+  {
+   "id": "BWBR0048263",
+   "titel": "Beleidsregel Vaststelling aandoeningen Neonatale hielprikscreening en Prenatale screening Infectieziekten en Erytrocytenimmunisatie 2023"
   },
   {
    "id": "BWBR0048320",
@@ -653,6 +673,10 @@
   {
    "id": "BWBR0050262",
    "titel": "Ondermandaat- en machtigingsbesluit Directeur Militaire Inlichtingen- en Veiligheidsdienst 2024"
+  },
+  {
+   "id": "BWBR0050272",
+   "titel": "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 4 oktober 2024, nr. 2024-000061989, tot het tijdelijk doen van verstrekkingen aan gerepatrieerden ten gevolge van de crisis in Libanon (Tijdelijke regeling verstrekkingen gerepatrieerden Libanon 2024)"
   },
   {
    "id": "BWBR0050285",
@@ -813,6 +837,10 @@
   {
    "id": "BWBR0052215",
    "titel": "Regeling van de Minister van Asiel en Migratie en de Minister voor Asiel en Migratie van 16 januari 2026, nr. 6944227, houdende tijdelijke regels om de uitstroom van vergunninghouders uit de asielopvang te stimuleren (Tijdelijke regeling stimuleren uitstroom vergunninghouders uit de asielopvang 2026)"
+  },
+  {
+   "id": "BWBR0052266",
+   "titel": "Besluit van de Minister van Justitie en Veiligheid en het College van procureurs-generaal van 28 januari 2026, nr. 6789396, tot instelling van de Commissie ICT-inbreuk openbaar ministerie (Instellingsbesluit Commissie ICT-inbreuk openbaar ministerie)"
   },
   {
    "id": "BWBR0052267",

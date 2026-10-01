@@ -8,7 +8,7 @@ laatste_update: 2014-03-15
 status: geldig
 toestand: 2014-03-15
 bron: "https://wetten.overheid.nl/BWBR0010751"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling logboeken

@@ -5,10 +5,11 @@ categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
 publicatiedatum: 2005-07-24
 laatste_update: 2005-07-24
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-30
 toestand: 2005-07-24
 bron: "https://wetten.overheid.nl/BWBR0018592"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-01
 ---
 
 # Regeling subsidiëring medische haalbaarheidsonderzoeken in letselschadezaken

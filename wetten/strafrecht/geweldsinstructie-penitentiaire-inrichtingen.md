@@ -8,7 +8,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0010095"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Geweldsinstructie penitentiaire inrichtingen

@@ -8,7 +8,7 @@ laatste_update: 2008-08-07
 status: geldig
 toestand: 2008-08-07
 bron: "https://wetten.overheid.nl/BWBR0010050"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regelingen voorbehoud auteursrecht

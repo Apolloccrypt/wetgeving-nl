@@ -9,7 +9,7 @@ laatste_update: 2000-01-01
 status: geldig
 toestand: 2000-01-01
 bron: "https://wetten.overheid.nl/BWBR0010497"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Rijkswet van 2 juni 1999 tot wijziging van de Wet militair tuchtrecht, het Wetboek van Militair Strafrecht en de Wet militaire strafrechtspraak naar aanleiding van het gehouden evaluatie-onderzoek

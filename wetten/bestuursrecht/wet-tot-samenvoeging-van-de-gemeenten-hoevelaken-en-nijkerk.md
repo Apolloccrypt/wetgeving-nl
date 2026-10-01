@@ -9,7 +9,7 @@ laatste_update: 1999-09-01
 status: geldig
 toestand: 1999-09-01
 bron: "https://wetten.overheid.nl/BWBR0010594"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 8 juli 1999 tot samenvoeging van de gemeenten Hoevelaken en Nijkerk

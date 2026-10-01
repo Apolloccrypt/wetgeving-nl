@@ -9,7 +9,7 @@ laatste_update: 1999-02-10
 status: geldig
 toestand: 1999-02-10
 bron: "https://wetten.overheid.nl/BWBR0010247"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Canadese voorschriften tot uitvoering van de op 27 mei 1986 tussen Nederland en Canada gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze laatstelijk is gewijzigd bij het Protocol van 25 augustus 1997

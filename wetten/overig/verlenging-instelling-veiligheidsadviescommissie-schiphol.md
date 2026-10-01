@@ -8,7 +8,7 @@ laatste_update: 1999-02-21
 status: geldig
 toestand: 1999-02-21
 bron: "https://wetten.overheid.nl/BWBR0010106"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Verlenging instelling veiligheidsadviescommissie Schiphol

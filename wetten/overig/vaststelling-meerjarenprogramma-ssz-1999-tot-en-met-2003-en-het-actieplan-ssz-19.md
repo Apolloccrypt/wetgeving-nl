@@ -8,7 +8,7 @@ laatste_update: 1999-08-01
 status: geldig
 toestand: 1999-08-01
 bron: "https://wetten.overheid.nl/BWBR0010522"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Vaststelling meerjarenprogramma SSZ 1999 tot en met 2003 en het actieplan SSZ 1999

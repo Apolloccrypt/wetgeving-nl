@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0010388"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 3 april 1999, houdende wettelijke regeling van het notarisambt, mede ter vervanging van de Wet van 9 juli 1842, Stb. 20, op het Notarisambt en de Wet van 31 maart 1847, Stb. 12, houdende vaststelling van het tarief betreffende het honorarium der notarissen en verschotten (Wet op het notarisambt)

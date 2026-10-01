@@ -9,7 +9,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0010770"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie, nrs. EIB99/N85874 en 791049/599/JvD, houdende aanwijzing en regels over het gebruik van het politie-datacommunicatiesysteem

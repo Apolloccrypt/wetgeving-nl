@@ -9,7 +9,7 @@ laatste_update: 2026-09-23
 status: geldig
 toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0027968"
-opgehaald: 2026-09-30
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat en de Minister van Defensie houdende regels omtrent de deelname van valschermen aan het luchtverkeer (Regeling valschermspringen 2010)

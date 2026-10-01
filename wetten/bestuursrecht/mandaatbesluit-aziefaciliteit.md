@@ -8,7 +8,7 @@ laatste_update: 1999-12-26
 status: geldig
 toestand: 1999-12-26
 bron: "https://wetten.overheid.nl/BWBR0011045"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Mandaatbesluit Aziëfaciliteit

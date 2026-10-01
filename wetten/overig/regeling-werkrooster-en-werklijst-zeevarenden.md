@@ -8,7 +8,7 @@ laatste_update: 2013-08-20
 status: geldig
 toestand: 2013-08-20
 bron: "https://wetten.overheid.nl/BWBR0010024"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling werkrooster en werklijst zeevarenden

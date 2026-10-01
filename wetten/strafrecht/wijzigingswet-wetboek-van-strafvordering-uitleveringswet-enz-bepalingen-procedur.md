@@ -9,7 +9,7 @@ laatste_update: 1999-06-01
 status: geldig
 toestand: 1999-06-01
 bron: "https://wetten.overheid.nl/BWBR0009929"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 1 oktober 1998 tot wijziging van het Wetboek van Strafvordering, de Uitleveringswet, de Wet economische delicten en de Wet overdracht tenuitvoerlegging strafvonnissen betreffende de bepalingen aangaande de procedure in cassatie in strafzaken, herzieningszaken, uitleveringszaken en zaken in het kader van de Wet overdracht tenuitvoerlegging strafvonnissen

@@ -9,7 +9,7 @@ laatste_update: 2001-12-29
 status: geldig
 toestand: 2001-12-29
 bron: "https://wetten.overheid.nl/BWBR0011029"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 22 december 1999, houdende wijziging van belastingwetten c.a. (belastingplan 2000)

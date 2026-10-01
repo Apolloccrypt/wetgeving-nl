@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0010792"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling tot wijziging van de Arbeidsomstandighedenregeling in verband met de vaststelling van de Arbeidsomstandighedenwet 1998

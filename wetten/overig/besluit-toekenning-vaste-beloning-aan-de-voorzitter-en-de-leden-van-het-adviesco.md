@@ -9,7 +9,7 @@ laatste_update: 1999-06-04
 status: geldig
 toestand: 1999-06-04
 bron: "https://wetten.overheid.nl/BWBR0010235"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 22 januari 1999, houdende de toekenning van een vaste beloning aan de voorzitter en de leden van het Adviescollege uitvoering wetten voor oorlogsgetroffenen

@@ -9,7 +9,7 @@ laatste_update: 2026-09-23
 status: geldig
 toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0045041"
-opgehaald: 2026-09-30
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 maart 2021, nr. VO/27288781, houdende regels voor de verstrekking van aanvullende bekostiging voor strategisch personeelsbeleid, de begeleiding van startende leraren en schoolleiders en het aanpakken van verzuim (Regeling aanvullende bekostiging strategisch personeelsbeleid, begeleiding en verzuim vo)

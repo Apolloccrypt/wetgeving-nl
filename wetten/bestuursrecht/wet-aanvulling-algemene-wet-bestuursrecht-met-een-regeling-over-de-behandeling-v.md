@@ -9,7 +9,7 @@ laatste_update: 2005-03-15
 status: geldig
 toestand: 2005-03-15
 bron: "https://wetten.overheid.nl/BWBR0010459"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 12 mei 1999, houdende aanvulling van de Algemene wet bestuursrecht met een regeling over de behandeling van klachten door bestuursorganen

@@ -9,7 +9,7 @@ laatste_update: 1998-11-11
 status: geldig
 toestand: 1998-11-11
 bron: "https://wetten.overheid.nl/BWBR0009917"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 24 september 1998, houdende wijziging van het Subsidiebesluit openbare lichamen milieubeheer

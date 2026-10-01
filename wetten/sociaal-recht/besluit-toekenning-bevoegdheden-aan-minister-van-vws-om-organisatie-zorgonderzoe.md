@@ -9,7 +9,7 @@ laatste_update: 1999-03-19
 status: geldig
 toestand: 1999-03-19
 bron: "https://wetten.overheid.nl/BWBR0010312"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 5 maart 1999, houdende toekenning van bevoegdheden aan de Minister van VWS om de organisatie ZorgOnderzoek Nederland bepaalde werkzaamheden terzake op te dragen

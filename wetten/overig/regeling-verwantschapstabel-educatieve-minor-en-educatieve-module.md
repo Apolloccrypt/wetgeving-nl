@@ -5,11 +5,11 @@ identifier: "BWBR0028148"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-12-07
-laatste_update: 2026-07-31
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-07-31
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0028148"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 13 augustus 2010, nr. DL/B/220470, houdende vaststelling van de verwantschapstabel educatieve minor alsmede wijziging van de Regeling subsidiëring stagebegeleiding educatieve minoren in het voortgezet onderwijs 2009–2012 (Regeling verwantschapstabel educatieve minor)

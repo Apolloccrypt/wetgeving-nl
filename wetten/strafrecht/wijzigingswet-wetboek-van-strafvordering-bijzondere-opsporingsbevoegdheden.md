@@ -9,7 +9,7 @@ laatste_update: 2000-02-01
 status: geldig
 toestand: 2000-02-01
 bron: "https://wetten.overheid.nl/BWBR0010478"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 27 mei 1999 tot wijziging van het Wetboek van Strafvordering in verband met de regeling van enige bijzondere bevoegdheden tot opsporing en wijziging van enige andere bepalingen (bijzondere opsporingsbevoegdheden)

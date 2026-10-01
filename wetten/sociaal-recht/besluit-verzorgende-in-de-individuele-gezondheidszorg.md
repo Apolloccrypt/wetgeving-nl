@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0010757"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 5 oktober 1999, houdende regels inzake de opleiding tot en de deskundigheid van de verzorgende individuele gezondheidszorg (Besluit verzorgende in de individuele gezondheidszorg)

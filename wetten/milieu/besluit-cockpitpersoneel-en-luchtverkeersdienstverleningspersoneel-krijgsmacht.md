@@ -9,7 +9,7 @@ laatste_update: 1999-10-01
 status: geldig
 toestand: 1999-10-01
 bron: "https://wetten.overheid.nl/BWBR0010690"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 31 augustus 1999, houdende vaststelling van regels met betrekking tot cockpitpersoneel en luchtverkeersdienstverleningspersoneel van de krijgsmacht (Besluit cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht)

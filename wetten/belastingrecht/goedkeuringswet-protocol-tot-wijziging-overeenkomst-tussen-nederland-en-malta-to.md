@@ -9,7 +9,7 @@ laatste_update: 1998-12-30
 status: geldig
 toestand: 1998-12-30
 bron: "https://wetten.overheid.nl/BWBR0010139"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 17 december 1998 houdende goedkeuring van het op 18 juli 1995 te 's-Gravenhage tot stand gekomen Protocol tot wijziging van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Malta tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, met Protocol, ondertekend te 's-Gravenhage op 18 mei 1977

@@ -9,7 +9,7 @@ laatste_update: 2021-05-26
 status: geldig
 toestand: 2021-05-26
 bron: "https://wetten.overheid.nl/BWBR0010314"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 5 maart 1999, houdende regels met betrekking tot de centrale beoordeling van medisch wetenschappelijk onderzoek met mensen (Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen)

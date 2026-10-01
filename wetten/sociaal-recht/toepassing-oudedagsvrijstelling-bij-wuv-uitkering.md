@@ -8,7 +8,7 @@ laatste_update: 1999-06-23
 status: geldig
 toestand: 1999-06-23
 bron: "https://wetten.overheid.nl/BWBR0010541"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Toepassing oudedagsvrijstelling bij WUV-uitkering

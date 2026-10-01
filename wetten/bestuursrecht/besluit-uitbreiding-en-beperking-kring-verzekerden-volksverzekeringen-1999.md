@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0010182"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 24 december 1998, tot vaststelling van een maatregel van bestuur als bedoeld in de artikelen 6, derde lid, van de Algemene Ouderdomswet, 13, derde lid, van de Algemene nabestaandenwet, 6, derde lid, van de Algemene Kinderbijslagwet en 5, derde en vierde lid, van de Algemene Wet Bijzondere Ziektekosten (Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999)

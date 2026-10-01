@@ -8,7 +8,7 @@ laatste_update: 2009-09-15
 status: geldig
 toestand: 2009-09-15
 bron: "https://wetten.overheid.nl/BWBR0010426"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling tarieven vissersvaartuigen 1999

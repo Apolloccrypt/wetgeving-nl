@@ -9,7 +9,7 @@ laatste_update: 2019-07-12
 status: geldig
 toestand: 2019-07-12
 bron: "https://wetten.overheid.nl/BWBR0010051"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit aanmelding van collectieve arbeidsovereenkomsten en het aanvragen van algemeen verbindend verklaring

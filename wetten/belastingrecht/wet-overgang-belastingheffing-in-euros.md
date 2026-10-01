@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0010136"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 17 december 1998, houdende regels inzake de heffing en de invordering van rijksbelastingen in euro's (Wet overgang belastingheffing in euro's)

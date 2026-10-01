@@ -9,7 +9,7 @@ laatste_update: 1999-02-10
 status: geldig
 toestand: 1999-02-10
 bron: "https://wetten.overheid.nl/BWBR0010248"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Beleidsregels voor de uitvoering van artikel 7A van de Woningwet

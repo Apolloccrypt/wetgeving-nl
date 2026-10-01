@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0010737"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 23 september 1999, houdende de toekenning van een vaste beloning aan de voorzitter en de leden van de Adviescommissie Jeugdvoorlichting WOII-heden

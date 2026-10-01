@@ -9,7 +9,7 @@ laatste_update: 1998-09-11
 status: geldig
 toestand: 1998-09-11
 bron: "https://wetten.overheid.nl/BWBR0009889"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 9 september 1998 tot gemeentelijke herindeling in de Bommelerwaard

@@ -9,7 +9,7 @@ laatste_update: 2023-04-19
 status: geldig
 toestand: 2023-04-19
 bron: "https://wetten.overheid.nl/BWBR0009890"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 9 september 1998, houdende regels betreffende producten die kwik bevatten (Besluit kwikhoudende producten Wms 1998)

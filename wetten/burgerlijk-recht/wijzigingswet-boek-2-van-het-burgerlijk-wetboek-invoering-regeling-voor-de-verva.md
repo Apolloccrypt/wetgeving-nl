@@ -9,7 +9,7 @@ laatste_update: 1999-11-01
 status: geldig
 toestand: 1999-11-01
 bron: "https://wetten.overheid.nl/BWBR0010723"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 16 september 1999 tot wijziging van boek 2 van het Burgerlijk Wetboek in verband met de invoering van een regeling voor de vervanging van verloren gegane aandeelbewijzen alsmede intrekking van de Effectenvernieuwingswet

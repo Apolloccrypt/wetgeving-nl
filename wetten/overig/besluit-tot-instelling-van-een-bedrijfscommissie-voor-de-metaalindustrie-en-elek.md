@@ -9,7 +9,7 @@ laatste_update: 2000-11-01
 status: geldig
 toestand: 2000-11-01
 bron: "https://wetten.overheid.nl/BWBR0011043"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor de Metaalindustrie en Elektrotechnische Industrie

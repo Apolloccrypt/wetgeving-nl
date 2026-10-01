@@ -9,7 +9,7 @@ laatste_update: 1999-07-01
 status: geldig
 toestand: 1999-07-01
 bron: "https://wetten.overheid.nl/BWBR0010533"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 21 juni 1999, houdende overdracht van de zorg voor de Kernenergiewet

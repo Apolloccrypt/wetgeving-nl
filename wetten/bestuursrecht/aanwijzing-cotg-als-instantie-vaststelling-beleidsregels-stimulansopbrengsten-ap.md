@@ -8,7 +8,7 @@ laatste_update: 1999-09-11
 status: geldig
 toestand: 1999-09-11
 bron: "https://wetten.overheid.nl/BWBR0010679"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Aanwijzing COTG als instantie vaststelling beleidsregels stimulansopbrengsten apotheekhoudenden

@@ -9,7 +9,7 @@ laatste_update: 1999-08-04
 status: geldig
 toestand: 1999-08-04
 bron: "https://wetten.overheid.nl/BWBR0010596"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 8 juli 1999, houdende intrekking van de Wet stimulering zeescheepvaart alsmede, in verband daarmee, het treffen van enkele overgangsmaatregelen

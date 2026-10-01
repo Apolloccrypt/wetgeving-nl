@@ -9,7 +9,7 @@ laatste_update: 1999-10-01
 status: geldig
 toestand: 1999-10-01
 bron: "https://wetten.overheid.nl/BWBR0010722"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 16 september 1999, houdende wijzigingen van technische aard van enige belastingwetten c.a.

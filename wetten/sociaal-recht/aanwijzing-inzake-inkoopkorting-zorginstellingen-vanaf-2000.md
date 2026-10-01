@@ -8,7 +8,7 @@ laatste_update: 1999-12-03
 status: geldig
 toestand: 1999-12-03
 bron: "https://wetten.overheid.nl/BWBR0010906"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Aanwijzing inzake inkoopkorting zorginstellingen vanaf 2000

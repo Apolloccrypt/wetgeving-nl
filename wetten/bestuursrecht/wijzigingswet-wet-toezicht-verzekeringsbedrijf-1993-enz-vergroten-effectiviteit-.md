@@ -9,7 +9,7 @@ laatste_update: 1999-11-17
 status: geldig
 toestand: 1999-11-17
 bron: "https://wetten.overheid.nl/BWBR0010760"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 6 oktober 1999 tot wijziging van de Wet toezicht verzekeringsbedrijf 1993, de Wet toezicht natura-uitvaartverzekeringsbedrijf en in verband daarmee enkele andere wetten, teneinde de effectiviteit van het bedrijfseconomisch toezicht te vergroten

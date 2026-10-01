@@ -8,7 +8,7 @@ laatste_update: 2011-12-01
 status: geldig
 toestand: 2011-12-01
 bron: "https://wetten.overheid.nl/BWBR0010038"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling beperking toekenning nummers

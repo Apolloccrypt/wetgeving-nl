@@ -8,7 +8,7 @@ laatste_update: 2004-06-07
 status: geldig
 toestand: 2004-06-07
 bron: "https://wetten.overheid.nl/BWBR0010187"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Uniform reglement gerechtshoven voor rekestprocedures in familiezaken

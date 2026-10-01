@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0010975"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 15 december 1999, houdende regels ter uitvoering van de artikelen 126aa, tweede lid, en 126cc, vierde lid, van het Wetboek van Strafvordering (Besluit bewaren en vernietigen niet-gevoegde stukken)

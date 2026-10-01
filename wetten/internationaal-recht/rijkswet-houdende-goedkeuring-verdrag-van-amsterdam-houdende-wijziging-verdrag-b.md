@@ -9,7 +9,7 @@ laatste_update: 2008-07-25
 status: geldig
 toestand: 2008-07-25
 bron: "https://wetten.overheid.nl/BWBR0010177"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Rijkswet van 24 december 1998, houdende goedkeuring van het op 2 oktober 1997 te Amsterdam tot stand gekomen Verdrag van Amsterdam houdende wijziging van het Verdrag betreffende de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten, met Protocollen

@@ -8,7 +8,7 @@ laatste_update: 1998-09-13
 status: geldig
 toestand: 1998-09-13
 bron: "https://wetten.overheid.nl/BWBR0009884"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Vergoedingenregeling Tijdelijke adviescommissie algemene ambtsberichten

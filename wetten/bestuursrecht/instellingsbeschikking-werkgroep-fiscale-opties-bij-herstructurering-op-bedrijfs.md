@@ -8,7 +8,7 @@ laatste_update: 1999-05-01
 status: geldig
 toestand: 1999-05-01
 bron: "https://wetten.overheid.nl/BWBR0010279"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Instellingsbeschikking werkgroep ’Fiscale opties bij herstructurering op bedrijfsniveau in de land- en tuinbouw’

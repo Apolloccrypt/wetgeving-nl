@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0009810"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 27 juli 1998, houdende regels ter bevordering van het overleg tussen huurders en verhuurder van woongelegenheden (Wet op het overleg huurders verhuurder)

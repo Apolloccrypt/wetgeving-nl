@@ -3,11 +3,12 @@ title: "Verdrag tussen het Koninkrijk der Nederlanden en de Federatieve Republie
 identifier: "BWBV0007009"
 categorie: "Internationaal recht"
 soort: "verdrag"
-laatste_update: 2023-10-09
+publicatiedatum: 2025-12-01
+laatste_update: 2025-12-01
 status: geldig
-toestand: 2023-10-09
+toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBV0007009"
-opgehaald: 2026-09-17
+opgehaald: 2026-10-01
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Federatieve Republiek Brazilië inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens (met Bijlage)

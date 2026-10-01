@@ -9,7 +9,7 @@ laatste_update: 2004-02-13
 status: geldig
 toestand: 2004-02-13
 bron: "https://wetten.overheid.nl/BWBR0011020"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 22 december 1999, houdende intrekking van de wet van 26 mei 1870 tot regeling van het onderwijs van Rijkswege in de beeldende kunsten (Stb. 78)

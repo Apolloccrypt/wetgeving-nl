@@ -9,7 +9,7 @@ laatste_update: 2003-01-24
 status: geldig
 toestand: 2003-01-24
 bron: "https://wetten.overheid.nl/BWBR0009999"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 10 november 1998, houdende regels met betrekking tot de technische aftapbaarheid van openbare telecommunicatienetwerken en -diensten en de, inzake aftappen, te nemen organisatorische en personele maatregelen en te treffen voorzieningen (Besluit aftappen openbare telecommunicatienetwerken en -diensten)

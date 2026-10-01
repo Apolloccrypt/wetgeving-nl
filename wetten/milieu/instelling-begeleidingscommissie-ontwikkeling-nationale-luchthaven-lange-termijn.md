@@ -8,7 +8,7 @@ laatste_update: 1999-08-01
 status: geldig
 toestand: 1999-08-01
 bron: "https://wetten.overheid.nl/BWBR0010611"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Instelling begeleidingscommissie Ontwikkeling Nationale Luchthaven Lange Termijn

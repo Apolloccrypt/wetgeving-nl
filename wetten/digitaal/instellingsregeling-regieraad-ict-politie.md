@@ -8,7 +8,7 @@ laatste_update: 2005-12-25
 status: geldig
 toestand: 2005-12-25
 bron: "https://wetten.overheid.nl/BWBR0010883"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Instellingsregeling Regieraad ICT Politie

@@ -9,7 +9,7 @@ laatste_update: 2026-01-09
 status: geldig
 toestand: 2026-01-09
 bron: "https://wetten.overheid.nl/BWBR0010629"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 28 juli 1999, houdende regelen omtrent bewijzen van bevoegdheid, bevoegdverklaringen, medische verklaringen, autorisaties, erkenningen, kwalificaties en registraties (Besluit bewijzen van bevoegdheid voor de luchtvaart)

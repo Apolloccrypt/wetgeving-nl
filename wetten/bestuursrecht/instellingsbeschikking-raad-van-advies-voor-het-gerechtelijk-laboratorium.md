@@ -8,7 +8,7 @@ laatste_update: 1999-02-01
 status: geldig
 toestand: 1999-02-01
 bron: "https://wetten.overheid.nl/BWBR0010061"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Instellingsbeschikking Raad van Advies voor het Gerechtelijk Laboratorium

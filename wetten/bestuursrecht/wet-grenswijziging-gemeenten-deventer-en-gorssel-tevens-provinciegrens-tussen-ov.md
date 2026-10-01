@@ -9,7 +9,7 @@ laatste_update: 1999-12-22
 status: geldig
 toestand: 1999-12-22
 bron: "https://wetten.overheid.nl/BWBR0010983"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 16 december 1999 tot wijziging van de grens tussen de gemeenten Deventer en Gorssel, tevens provinciegrens tussen Overijssel en Gelderland

@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "beleidsregel"
 publicatiedatum: 2023-10-01
 laatste_update: 2023-10-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-30
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048263"
-opgehaald: 2026-09-04
+opgehaald: 2026-10-01
 ---
 
 # Beleidsregel Vaststelling aandoeningen Neonatale hielprikscreening en Prenatale screening Infectieziekten en Erytrocytenimmunisatie 2023

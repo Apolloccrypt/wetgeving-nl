@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0009821"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling houdende implementatie van richtlijn 96/59/EG van de Raad van de Europese Unie betreffende de verwijdering van polychloorbifenylen en polychloorterfenylen (PCB's/PCT's) (PbEG L 42)

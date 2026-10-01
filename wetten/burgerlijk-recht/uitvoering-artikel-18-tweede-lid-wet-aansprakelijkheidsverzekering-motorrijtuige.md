@@ -8,7 +8,7 @@ laatste_update: 1999-02-10
 status: geldig
 toestand: 1999-02-10
 bron: "https://wetten.overheid.nl/BWBR0010250"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Uitvoering artikel 18, tweede lid, Wet aansprakelijkheidsverzekering motorrijtuigen

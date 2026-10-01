@@ -8,7 +8,7 @@ laatste_update: 2000-09-13
 status: geldig
 toestand: 2000-09-13
 bron: "https://wetten.overheid.nl/BWBR0010995"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Bouwtijd en loon- en prijsontwikkeling tijdens de bouw in de zorgsector

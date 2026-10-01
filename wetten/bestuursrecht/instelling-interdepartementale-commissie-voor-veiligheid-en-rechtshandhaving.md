@@ -8,7 +8,7 @@ laatste_update: 1999-08-22
 status: geldig
 toestand: 1999-08-22
 bron: "https://wetten.overheid.nl/BWBR0010653"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Instelling Interdepartementale Commissie voor Veiligheid en Rechtshandhaving

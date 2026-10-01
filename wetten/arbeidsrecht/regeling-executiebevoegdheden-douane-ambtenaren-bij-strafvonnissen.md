@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0010697"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling houdende aanwijzing van de ambtenaren van de Rijksbelastingdienst, bevoegd inzake douane, als ambtenaar in de zin van de artikelen 556, eerste lid, en 587, tweede lid, van het Wetboek van Strafvordering

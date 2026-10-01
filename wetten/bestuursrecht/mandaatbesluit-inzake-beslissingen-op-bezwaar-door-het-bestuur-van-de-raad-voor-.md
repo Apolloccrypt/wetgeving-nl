@@ -9,7 +9,7 @@ laatste_update: 2010-07-28
 status: geldig
 toestand: 2010-07-28
 bron: "https://wetten.overheid.nl/BWBR0010732"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Mandaatbesluit inzake beslissingen op bezwaar door de raad voor rechtsbijstand Den Bosch in het kader van verstrekking van subsidies ex artikel 48c Wet Justitie-subsidies

@@ -9,7 +9,7 @@ laatste_update: 2013-03-15
 status: geldig
 toestand: 2013-03-15
 bron: "https://wetten.overheid.nl/BWBR0009992"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 10 november 1998, houdende overgangsrechtelijke bepalingen krachtens hoofdstuk 20 van de Telecommunicatiewet (Besluit overgangsrecht Telecommunicatiewet)

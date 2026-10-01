@@ -9,7 +9,7 @@ laatste_update: 2007-11-03
 status: geldig
 toestand: 2007-11-03
 bron: "https://wetten.overheid.nl/BWBR0010298"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit tot mandatering aan de directeur van het GVB/A van de bevoegdheden, bedoeld in artikel 15 van het Metroreglement en artikel 39 jo 36, 37 en 38 van de Spoorwegwet

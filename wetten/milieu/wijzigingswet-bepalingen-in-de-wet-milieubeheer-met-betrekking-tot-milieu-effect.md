@@ -9,7 +9,7 @@ laatste_update: 1999-05-26
 status: geldig
 toestand: 1999-05-26
 bron: "https://wetten.overheid.nl/BWBR0010442"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 29 april 1999 tot wijziging van bepalingen in de Wet milieubeheer met betrekking tot milieu-effectrapportage

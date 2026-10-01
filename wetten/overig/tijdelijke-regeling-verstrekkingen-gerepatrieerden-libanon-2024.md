@@ -6,10 +6,11 @@ categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-10-10
 laatste_update: 2025-08-22
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-30
 toestand: 2025-08-22
 bron: "https://wetten.overheid.nl/BWBR0050272"
-opgehaald: 2026-09-07
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 4 oktober 2024, nr. 2024-000061989, tot het tijdelijk doen van verstrekkingen aan gerepatrieerden ten gevolge van de crisis in Libanon (Tijdelijke regeling verstrekkingen gerepatrieerden Libanon 2024)

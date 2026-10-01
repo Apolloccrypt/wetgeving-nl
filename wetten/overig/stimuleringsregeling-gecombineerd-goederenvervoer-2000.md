@@ -8,7 +8,7 @@ laatste_update: 1999-12-12
 status: geldig
 toestand: 1999-12-12
 bron: "https://wetten.overheid.nl/BWBR0010927"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Stimuleringsregeling gecombineerd goederenvervoer 2000

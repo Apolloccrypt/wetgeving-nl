@@ -9,7 +9,7 @@ laatste_update: 2002-04-01
 status: geldig
 toestand: 2002-04-01
 bron: "https://wetten.overheid.nl/BWBR0011030"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 22 december 1999 tot wijziging van de Wet assurantiebemiddelingsbedrijf naar aanleiding van het project Marktwerking, Deregulering en Wetgevingskwaliteit, alsmede naar aanleiding van een evaluatie van de doelmatigheid van de wet

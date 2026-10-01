@@ -9,7 +9,7 @@ laatste_update: 2005-08-03
 status: geldig
 toestand: 2005-08-03
 bron: "https://wetten.overheid.nl/BWBR0010384"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 3 april 1999 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, houdende aanpassingen in het systeem van selectie voor opleidingen waarvoor een toelatingsbeperking is vastgesteld

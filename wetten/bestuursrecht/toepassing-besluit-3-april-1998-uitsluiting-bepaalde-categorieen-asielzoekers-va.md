@@ -8,7 +8,7 @@ laatste_update: 1998-12-29
 status: geldig
 toestand: 1998-12-29
 bron: "https://wetten.overheid.nl/BWBR0010161"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Toepassing besluit 3 april 1998 (uitsluiting bepaalde categorieën asielzoekers van verstrekking Rva 1997)

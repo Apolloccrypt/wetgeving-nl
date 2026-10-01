@@ -9,7 +9,7 @@ laatste_update: 1999-11-30
 status: geldig
 toestand: 1999-11-30
 bron: "https://wetten.overheid.nl/BWBR0010464"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 17 mei 1999 tot wijziging van de Huurprijzenwet woonruimte, de Wet op de huurcommissies en enkele andere wetten (introductie van een afzonderlijke huurcommissie-procedure ter bevordering van het opheffen van gebreken aan of tekortkomingen ten aanzien van de woonruimte, wijziging van de regeling met betrekking tot de aan de Staat verschuldigde vergoeding voor een advies of een uitspraak door de huurcommissie en wijziging van het toezicht op de huurcommissies)

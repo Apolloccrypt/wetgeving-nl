@@ -8,7 +8,7 @@ laatste_update: 2000-01-27
 status: geldig
 toestand: 2000-01-27
 bron: "https://wetten.overheid.nl/BWBR0011109"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling toepassing mechanische middelen verpleegden

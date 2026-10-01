@@ -9,7 +9,7 @@ laatste_update: 2025-01-25
 status: geldig
 toestand: 2025-01-25
 bron: "https://wetten.overheid.nl/BWBR0010175"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Minister van Justitie houdende de eisen waaraan een verblijfsruimte voor gedetineerden in een penitentiaire inrichting dient te voldoen

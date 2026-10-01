@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0010132"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 17 december 1998, houdende regels met betrekking tot de vervanging van verwijzingen in overeenkomsten, statuten en testamenten naar de Amsterdam Interbank Offered Rate en andere referentierentes, alsmede tot wijziging van de Wet toezicht effectenverkeer 1995, in verband met de deelname van Nederland aan de Economische en Monetaire Unie (Wet vervanging referentierentes)

@@ -9,7 +9,7 @@ laatste_update: 2000-09-01
 status: geldig
 toestand: 2000-09-01
 bron: "https://wetten.overheid.nl/BWBR0010575"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 1 juli 1999, houdende wijziging van de Wet op de studiefinanciering in verband met het onder de prestatiebeurs brengen van de reisvoorziening

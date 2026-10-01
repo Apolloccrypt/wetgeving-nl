@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0010176"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 24 december 1998 tot uitvoering van verordening (EG) nr. 2271/96 van de Raad van de Europese Unie van 22 november 1996 (Wet uitvoering antiboycotverordening)

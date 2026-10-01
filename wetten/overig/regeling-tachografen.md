@@ -5,11 +5,11 @@ identifier: "BWBR0042137"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2019-06-15
-laatste_update: 2026-01-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-01-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0042137"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 15 april 2019, nr. IENW/BSK-2019/72827, houdende vaststelling van regels voor de goedkeuring en het gebruik van tachografen alsmede de diplomaeisen van tachograaftechnici en de controle en toezichtbevoegdheden van de Dienst Wegverkeer en tot intrekking van de Regeling controleapparaten 2005 (Regeling tachografen)
@@ -24,13 +24,13 @@ opgehaald: 2026-08-28
 
 - *erkenninghouder:* natuurlijk persoon of rechtspersoon die houder is van een erkenning tachografen of een bij deze regeling daaraan gelijkgestelde erkenning;
 
-- *erkenning tachografen:* erkenning als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:1&z=2026-01-01&g=2026-01-01);
+- *erkenning tachografen:* erkenning als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:1&z=2026-10-01&g=2026-10-01);
 
 - *installatieplaatje:* bewijs dat de tachograaf in overeenstemming met de verordening (EU) nr. 165/2014 is geïnstalleerd;
 
 - *tachograaftechnicus:* houder van een geldige bevoegdheidspas;
 
-- *bevoegdheidspas:* pas, bedoeld in [artikel 2:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:6&z=2026-01-01&g=2026-01-01);
+- *bevoegdheidspas:* pas, bedoeld in [artikel 2:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:6&z=2026-10-01&g=2026-10-01);
 
 - *werkplaats:* plaats waar werkzaamheden aan tachografen uitgevoerd worden;
 
@@ -47,13 +47,9 @@ opgehaald: 2026-08-28
 
 ##### Artikel 2:1. Verlening erkenning tachografen
 
-1. De Dienst Wegverkeer verleent een erkenning tachografen voor bepaalde of onbepaalde tijd aan een aanvrager die beschikt over een of meerdere werkplaatsen die voldoen aan de eisen, bedoeld in [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:4&z=2026-01-01&g=2026-01-01).
+1. De Dienst Wegverkeer verleent een erkenning tachografen voor bepaalde of onbepaalde tijd aan een aanvrager die beschikt over een of meerdere werkplaatsen die voldoen aan de eisen, bedoeld in [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:4&z=2026-10-01&g=2026-10-01).
 
-2. Bij een aanvraag voor een erkenning als bedoeld in het eerste lid legt de aanvrager over:
-
-- a. een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) die niet ouder is dan twee maanden;
-
-- b. een KvK-inschrijving die niet ouder is dan twee maanden, waaruit blijkt dat de natuurlijke persoon of rechtspersoon exploitant is van een onderneming waar bedrijfsmatig tachografen worden geïnstalleerd, gecontroleerd, geïnspecteerd of gerepareerd tenzij de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) of het Burgerlijk Wetboek een inschrijving in het handelsregister niet vereist.
+2. Bij een aanvraag voor een erkenning als bedoeld in het eerste lid legt de aanvrager een KvK-inschrijving over die niet ouder is dan twee maanden, waaruit blijkt dat de natuurlijke persoon of rechtspersoon exploitant is van een onderneming waar bedrijfsmatig tachografen worden geïnstalleerd, gecontroleerd, geïnspecteerd of gerepareerd tenzij de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) of het Burgerlijk Wetboek een inschrijving in het handelsregister niet vereist.
 
 ##### Artikel 2:2. Toekenning kenmerkteken werkplaats
 
@@ -89,9 +85,9 @@ opgehaald: 2026-08-28
 
 ##### Artikel 2:4. Eisen aan een werkplaats
 
-1. Een werkplaats voldoet aan de eisen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=I&z=2026-01-01&g=2026-01-01).
+1. Een werkplaats voldoet aan de eisen, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=I&z=2026-10-01&g=2026-10-01).
 
-2. Een fabrikant van motorrijtuigen hoeft, voor werkzaamheden waarbij de parameters van de tachograaf aan de hand van een theoretische berekening worden vastgesteld in motorrijtuigen die voor het eerst in gebruik worden genomen, niet te voldoen aan de volgende eisen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=I&z=2026-01-01&g=2026-01-01):
+2. Een fabrikant van motorrijtuigen hoeft, voor werkzaamheden waarbij de parameters van de tachograaf aan de hand van een theoretische berekening worden vastgesteld in motorrijtuigen die voor het eerst in gebruik worden genomen, niet te voldoen aan de volgende eisen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=I&z=2026-10-01&g=2026-10-01):
 
 - a. de eisen aan de inspectieput of hefinrichting;
 
@@ -105,9 +101,9 @@ opgehaald: 2026-08-28
 
    - iv. bandenprofieldieptemeter met verende stift.
 
-3. De erkenninghouder bewaart het materiaal dat en de apparatuur die nodig is voor het verzegelen van tachografen en de toegangscode, bedoeld in [artikel 2:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:3&z=2026-01-01&g=2026-01-01), in de werkplaats op een wijze die voor onbevoegden niet toegankelijk is.
+3. De erkenninghouder bewaart het materiaal dat en de apparatuur die nodig is voor het verzegelen van tachografen en de toegangscode, bedoeld in [artikel 2:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:3&z=2026-10-01&g=2026-10-01), in de werkplaats op een wijze die voor onbevoegden niet toegankelijk is.
 
-4. De tachograaftechnicus en de erkenninghouder dragen er zorg voor dat de werkplaatskaart en de bevoegdheidspas met bijbehorende pincodes niet toegankelijk zijn voor onbevoegden.
+4. De tachograaftechnicus en de erkenninghouder dragen er zorg voor dat de werkplaatskaart en de bevoegdheidspas met bijbehorende door de Dienst Wegverkeer toegestane authenticatiemiddelen niet toegankelijk zijn voor onbevoegden.
 
 ##### Artikel 2:4.a. Aanwijzing exameninstantie installateur en reparateur tachograaf
 
@@ -135,21 +131,21 @@ Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wette
 
 ##### Artikel 2:6. Verlening bevoegdheid tachograaftechnicus
 
-1. De Dienst Wegverkeer verleent op aanvraag aan een natuurlijk persoon een bevoegdheidspas indien de aanvrager een diploma overlegt als bedoeld in [artikel 2:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:5&z=2026-01-01&g=2026-01-01).
+1. De Dienst Wegverkeer verleent op aanvraag aan een natuurlijk persoon een bevoegdheidspas indien de aanvrager een diploma overlegt als bedoeld in [artikel 2:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:5&z=2026-10-01&g=2026-10-01).
 
 2. Het diploma, bedoeld in het eerste lid, is op het moment dat de bevoegdheidspas wordt aangevraagd, minder dan twee jaar geleden verstrekt aan de aanvrager.
 
 3. Een bevoegdheidspas heeft een geldigheidsduur van vier jaar.
 
-4. De Dienst Wegverkeer verstrekt een pincode tezamen met een bevoegdheidspas.
+4. De Dienst Wegverkeer verstrekt een authenticatiemethode tezamen met een bevoegdheidspas.
 
-5. Een bevoegdheidspas wordt, op het moment dat de geldigheidsduur van de pas afloopt, verlengd met vier jaar indien de aanvrager een bewijs bevoegdheidsverlenging als bedoeld in [artikel 2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:5&z=2026-01-01&g=2026-01-01), overlegt.
+5. Een bevoegdheidspas wordt, op het moment dat de geldigheidsduur van de pas afloopt, verlengd met vier jaar indien de aanvrager een bewijs bevoegdheidsverlenging als bedoeld in [artikel 2:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:5&z=2026-10-01&g=2026-10-01), overlegt.
 
 6. Uitsluitend indien een persoon bij een fabrikant werkzaam is, wordt:
 
 - a. in afwijking van het eerste lid op aanvraag van de fabrikant en de persoon ten behoeve van wie de bevoegdheidspas wordt aangevraagd, een bevoegdheidspas afgegeven na overlegging van een verklaring van de fabrikant dat de betreffende persoon bij hem werkzaam is en voldoende kennis heeft van het bedrijfsproces om de werkzaamheden te kunnen verrichten;
 
-- b. in afwijking van het vierde lid geen pincode verstrekt;
+- b. in afwijking van het vierde lid geen authenticatiemethode verstrekt;
 
 - c. in afwijking van het vijfde lid de bevoegdheidspas verlengd door overlegging van een verklaring van de fabrikant dat de betreffende persoon bij hem werkzaam is en voldoende kennis heeft van het bedrijfsproces om de werkzaamheden te kunnen verrichten.
 
@@ -189,31 +185,37 @@ Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wette
 
 ##### Artikel 3:1a. Voorwaarden uitvoeren werkzaamheden
 
-1. Er worden geen werkzaamheden verricht dan nadat het kentekenregister is geraadpleegd ten aanzien van het voertuigidentificatienummer van het motorrijtuig waarin de tachograaf is geïnstalleerd.
+*Vervallen*
 
-2. In geval de werkzaamheden betrekking hebben op een tachograaf in een niet in Nederland geregistreerd motorrijtuig wordt het voertuigidentificatienummer geraadpleegd via het voor dat motorrijtuig afgegeven kentekenbewijs.
+##### Artikel 3:2
 
-3. Er worden geen werkzaamheden verricht en de tachograaftechnicus wordt naar de Dienst Wegverkeer doorverwezen indien:
+1. Er worden geen werkzaamheden verricht dan nadat het kentekenregister of het kentekenbewijs is geraadpleegd ten aanzien van het voertuigidentificatienummer en de datum eerste toelating van het motorrijtuig waarin de tachograaf is geïnstalleerd.
 
-- a. het raadplegen van het kentekenregister niet mogelijk is door een onjuiste combinatie van het kenteken en de laatste vier posities van het voertuigidentificatienummer of indien de laatste vier posities van het voertuigidentificatienummer niet bekend zijn;
+2. In geval de werkzaamheden betrekking hebben op een tachograaf in een niet in Nederland geregistreerd motorrijtuig wordt:
 
-- b. het voertuigidentificatienummer van het voertuig niet in overeenstemming is met het kentekenregister.
+- a. het voertuigidentificatienummer geraadpleegd via het voor dat motorrijtuig afgegeven kentekenbewijs of het certificaat van overeenstemming;
 
-##### Artikel 3:2. Controle datum eerste toelating
+- b. de datum eerste toelating geraadpleegd via het voor dat motorrijtuig afgegeven kentekenbewijs.
 
-1. Er worden geen werkzaamheden aan een in Nederland geregistreerd voertuig verricht dan nadat het kentekenregister is geraadpleegd om de datum van eerste toelating en het voertuigidentificatienummer van het motorrijtuig waarin de tachograaf is geïnstalleerd, vast te stellen.
+3. Er worden geen werkzaamheden aan een in Nederland geregistreerd motorrijtuig verricht en degene die de werkzaamheden wil laten uitvoeren wordt naar de Dienst Wegverkeer doorverwezen indien:
 
-2. Er worden geen werkzaamheden verricht en degene die de werkzaamheden wil laten uitvoeren wordt naar de Dienst Wegverkeer doorverwezen indien:
+- a. het raadplegen van het kentekenregister niet mogelijk is door een onjuiste combinatie van het kenteken en het voertuigidentificatienummer;
 
-- a. het raadplegen van het kentekenregister niet mogelijk is door een onjuiste combinatie van het kenteken en de laatste vier posities van het voertuigidentificatienummer, of indien de laatste vier posities van het voertuigidentificatienummer niet bekend zijn;
+- b. het voertuigidentificatienummer ontbreekt of onleesbaar is; of
 
-- b. het voertuigidentificatienummer van het voertuig niet in overeenstemming is met het kentekenregister.
+- c. het voertuigidentificatienummer niet in overeenstemming is met het kentekenregister.
 
-3. In een nieuw motorrijtuig worden de werkzaamheden aan de tachograaf uiterlijk uitgevoerd op het tijdstip dat het motorrijtuig voor het eerst in gebruik wordt genomen en wordt ingezet voor wegvervoer waarop Verordening (EG) nr. 561/2006 van toepassing is.
+4. Er worden geen werkzaamheden aan een niet in Nederland geregistreerd motorrijtuig verricht en degene die de werkzaamheden wil laten uitvoeren wordt naar de autoriteit die het kentekenbewijs heeft afgegeven of de fabrikant van het motorrijtuig doorverwezen indien:
 
-4. In geval de werkzaamheden betrekking hebben op een tachograaf in een niet in Nederland geregistreerd motorrijtuig worden de datum van eerste toelating en het voertuigidentificatienummer van het motorrijtuig geraadpleegd via het voor dat motorrijtuig afgegeven kentekenbewijs.
+- a. het raadplegen van het kentekenbewijs niet mogelijk is door een onjuiste combinatie van het kenteken en het voertuigidentificatienummer;
 
-5. In afwijking van het vierde lid mag controle van de datum van eerste toelating achterwege worden gelaten indien de nieuwste generatie en versie van de tachograaf in het motorrijtuig is geïnstalleerd.
+- b. het voertuigidentificatienummer van het voertuig niet in overeenstemming is met het kentekenbewijs of het certificaat van overeenstemming, of;
+
+- c. het voertuigidentificatienummer ontbreekt of onleesbaar is.
+
+5. In een nog niet eerder geregistreerd motorrijtuig worden de werkzaamheden aan de tachograaf uiterlijk uitgevoerd op het tijdstip dat het motorrijtuig voor het eerst in gebruik wordt genomen en wordt ingezet voor wegvervoer waarop Verordening (EG) nr. 561/2006 van toepassing is.
+
+6. In afwijking van het eerste en tweede lid mag de datum van eerste toelating ontbreken in het kentekenregister, op het buitenlands kentekenbewijs, of het certificaat van overeenstemming bij een nog niet eerder geregistreerd voertuig, indien de nieuwste generatie, versie en software updates van de tachograaf in het motorrijtuig is geïnstalleerd. In dat geval mag bij het uitvoeren van de werkzaamheden het land van registratie en het kentekennummer niet in de voertuigunit worden geregistreerd.
 
 ##### Artikel 3:3. Manipulatiecontrole
 
@@ -253,7 +255,7 @@ Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wette
 
 1. Na beëindiging van de werkzaamheden meldt de tachograaftechnicus die de werkzaamheden heeft verricht de volgende gegevens aan de Dienst Wegverkeer:
 
-- a. het pasnummer van de bevoegdheidspas en de daar bijbehorende pincode, bedoeld in [artikel 2:6](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:6&z=2026-01-01&g=2026-01-01);
+- a. het pasnummer van de bevoegdheidspas en de daar bijbehorende authenticatiemethode, bedoeld in [artikel 2:6](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:6&z=2026-10-01&g=2026-10-01);
 
 - b. het kenteken en de meldcode, gevormd door de laatste vier cijfers van het identificatienummer;
 
@@ -275,7 +277,7 @@ Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wette
 
 ##### Artikel 3:7. Aanbrengen installatieplaatje na melding werkzaamheden
 
-1. Na de melding, bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:6&z=2026-01-01&g=2026-01-01), of de werkzaamheden als bedoeld in artikel 3:6, derde lid, wordt een installatieplaatje aangebracht.
+1. Na de melding, bedoeld in [artikel 3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:6&z=2026-10-01&g=2026-10-01), of de werkzaamheden als bedoeld in artikel 3:6, derde lid, wordt een installatieplaatje aangebracht.
 
 2. Het in het eerste lid bedoelde installatieplaatje wordt niet eerder aangebracht dan nadat door de Dienst Wegverkeer is medegedeeld dat:
 
@@ -289,9 +291,9 @@ Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wette
 
 ##### Artikel 4:1. De registers
 
-1. De erkenninghouder houdt een register bij van de manipulatieformulieren en van de certificaten van onmogelijkheid van gegevensoverdracht, bedoeld in [artikel 3:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:3&z=2026-01-01&g=2026-01-01), en [artikel 3:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:4&z=2026-01-01&g=2026-01-01), die in de in zijn erkenning tachografen genoemde werkplaats of werkplaatsen worden opgemaakt.
+1. De erkenninghouder houdt een register bij van de manipulatieformulieren en van de certificaten van onmogelijkheid van gegevensoverdracht, bedoeld in [artikel 3:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:3&z=2026-10-01&g=2026-10-01), en [artikel 3:4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:4&z=2026-10-01&g=2026-10-01), die in de in zijn erkenning tachografen genoemde werkplaats of werkplaatsen worden opgemaakt.
 
-2. De erkenninghouder houdt een register bij van de werkzaamheden die worden verricht in de in zijn erkenning tachografen genoemde werkplaats of werkplaatsen. Het register bevat de gegevens, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=II&z=2026-01-01&g=2026-01-01).
+2. De erkenninghouder houdt een register bij van de werkzaamheden die worden verricht in de in zijn erkenning tachografen genoemde werkplaats of werkplaatsen. Het register bevat de gegevens, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=II&z=2026-10-01&g=2026-10-01).
 
 3. De erkenninghouder houdt een register bij van het gebruik van de werkplaatskaart. Dit register bevat een overzicht per maand van de op de werkplaatskaart vastgelegde gegevens.
 
@@ -325,7 +327,7 @@ Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wette
 
 6. De erkenninghouder ontvangt na de steekproefsgewijze controle slechts een door een medewerker van de Dienst Wegvervoer getekend steekproefcontrolerapport indien:
 
-- a. de tachograaf niet voldoet aan de werkzaamheden zoals verwoord in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&z=2026-01-01&g=2026-01-01);
+- a. de tachograaf niet voldoet aan de werkzaamheden zoals verwoord in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&z=2026-10-01&g=2026-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&z=2026-10-01&g=2026-10-01);
 
 - b. de registerkaart niet, onjuist of onvolledig is ingevuld; of
 
@@ -337,7 +339,7 @@ Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wette
 
 1. De Dienst Wegverkeer trekt op verzoek van een erkenninghouder een erkenning tachografen geheel of gedeeltelijk in.
 
-2. De Dienst Wegverkeer kan een erkenning geheel of gedeeltelijk intrekken of schorsen bij een overtreding van [artikel 6, eerste lid, van de Regeling tachograafkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&artikel=6) en de verplichtingen en voorschriften beschreven in [hoofdstuk 2 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&z=2026-01-01&g=2026-01-01) en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=5&z=2026-01-01&g=2026-01-01) van deze regeling.
+2. De Dienst Wegverkeer kan een erkenning geheel of gedeeltelijk intrekken of schorsen bij een overtreding van [artikel 6, eerste lid, van de Regeling tachograafkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&artikel=6) en de verplichtingen en voorschriften beschreven in [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&z=2026-10-01&g=2026-10-01) van deze regeling.
 
 3. Een schorsing als bedoeld in het tweede lid bedraagt ten hoogste twaalf weken.
 
@@ -347,7 +349,7 @@ Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wette
 
 1. De Dienst Wegverkeer trekt op verzoek van een tachograaftechnicus zijn bevoegdheidspas in.
 
-2. De Dienst Wegverkeer kan de geldigheid van een bevoegdheidspas intrekken of schorsen bij overtreding van de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&artikel=6) en [7, tweede lid, onderdeel a, van de Regeling tachograafkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&artikel=7) en de [artikelen 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:2&z=2026-01-01&g=2026-01-01), [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:3&z=2026-01-01&g=2026-01-01), [3:4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:4&z=2026-01-01&g=2026-01-01), [3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:6&z=2026-01-01&g=2026-01-01), [3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:7&z=2026-01-01&g=2026-01-01) en [5:1, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=5&artikel=5:1&z=2026-01-01&g=2026-01-01).
+2. De Dienst Wegverkeer kan de geldigheid van een bevoegdheidspas intrekken of schorsen bij overtreding van de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&artikel=6) en [7, tweede lid, onderdeel a, van de Regeling tachograafkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0018544&artikel=7) en de [artikelen 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:2&z=2026-10-01&g=2026-10-01), [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:3&z=2026-10-01&g=2026-10-01), [3:4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:4&z=2026-10-01&g=2026-10-01), [3:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:6&z=2026-10-01&g=2026-10-01), [3:7](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=3&artikel=3:7&z=2026-10-01&g=2026-10-01) en [5:1, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=5&artikel=5:1&z=2026-10-01&g=2026-10-01).
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
@@ -359,11 +361,11 @@ Als instantie als bedoeld in [artikel 9:3, eerste lid, van de wet](https://wette
 
 1. Een erkenning als installateur of reparateur verleend op grond van de [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540) wordt gelijkgesteld met een erkenning tachograaf verleend op grond van deze regeling.
 
-2. Een bevoegdheidspas verstrekt op grond van de [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540), wordt voor de resterende looptijd gelijkgesteld met een bevoegdheidspas als bedoeld in [artikel 2:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:6&z=2026-01-01&g=2026-01-01).
+2. Een bevoegdheidspas verstrekt op grond van de [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540), wordt voor de resterende looptijd gelijkgesteld met een bevoegdheidspas als bedoeld in [artikel 2:6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2&artikel=2:6&z=2026-10-01&g=2026-10-01).
 
-3. Aan de eisen ten aanzien van de hefbrug dan wel inspectieput zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=I&z=2026-01-01&g=2026-01-01) van deze Regeling wordt voldaan op 1 juli 2020.
+3. Aan de eisen ten aanzien van de hefbrug dan wel inspectieput zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&bijlage=I&z=2026-10-01&g=2026-10-01) van deze Regeling wordt voldaan op 1 juli 2020.
 
-4. Een erkenning als installateur of reparateur, verleend op grond van de [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540) zoals die luidde onmiddellijk voorafgaand aan het tijdstip waarop deze regeling in werking treedt, voor een mobiele onderzoekseenheid die op grond van [artikel 2a:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2a&artikel=2a:3&z=2026-01-01&g=2026-01-01), geldigheid heeft, vervalt met ingang van 1 juli 2025.
+4. Een erkenning als installateur of reparateur, verleend op grond van de [Regeling controleapparaten 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018540) zoals die luidde onmiddellijk voorafgaand aan het tijdstip waarop deze regeling in werking treedt, voor een mobiele onderzoekseenheid die op grond van [artikel 2a:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&hoofdstuk=2a&artikel=2a:3&z=2026-10-01&g=2026-10-01), geldigheid heeft, vervalt met ingang van 1 juli 2025.
 
 ##### Artikel 6:3. Inwerkingtreding
 

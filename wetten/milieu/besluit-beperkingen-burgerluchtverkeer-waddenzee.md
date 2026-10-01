@@ -9,7 +9,7 @@ laatste_update: 2024-02-20
 status: geldig
 toestand: 2024-02-20
 bron: "https://wetten.overheid.nl/BWBR0010215"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 14 januari 1999, houdende regels voor de uitoefening van het burgerluchtverkeer boven de Waddenzee (Besluit beperkingen burgerluchtverkeer Waddenzee)

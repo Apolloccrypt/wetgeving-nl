@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0010576"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Rijkswet van 1 juli 1999, houdende regels inzake de administratieve bijstand tussen de landen van het Koninkrijk op het gebied van de douane en inzake de heffing en de invordering van accijnzen, omzetbelasting, algemene bestedingsbelasting en belasting op bedrijfsomzetten (Rijkswet administratieve bijstand douane)

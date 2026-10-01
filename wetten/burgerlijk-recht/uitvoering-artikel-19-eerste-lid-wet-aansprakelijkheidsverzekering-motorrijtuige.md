@@ -8,7 +8,7 @@ laatste_update: 2012-07-10
 status: geldig
 toestand: 2012-07-10
 bron: "https://wetten.overheid.nl/BWBR0010251"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Uitvoering artikel 19, eerste lid, Wet aansprakelijkheidsverzekering motorrijtuigen

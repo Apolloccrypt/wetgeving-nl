@@ -9,7 +9,7 @@ laatste_update: 2002-07-05
 status: geldig
 toestand: 2002-07-05
 bron: "https://wetten.overheid.nl/BWBR0009925"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # beleidsregel gemengde leerweg aan aoc's na bestuurlijke samenwerking 1999-2002

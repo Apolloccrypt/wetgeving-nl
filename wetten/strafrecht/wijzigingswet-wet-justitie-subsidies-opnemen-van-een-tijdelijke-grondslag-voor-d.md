@@ -9,7 +9,7 @@ laatste_update: 1999-03-01
 status: geldig
 toestand: 1999-03-01
 bron: "https://wetten.overheid.nl/BWBR0010116"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 16 december 1998 tot wijziging van de Wet Justitie-subsidies in verband met het opnemen van een tijdelijke grondslag voor de subsidiëring van de reclassering

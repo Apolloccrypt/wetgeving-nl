@@ -9,7 +9,7 @@ laatste_update: 1999-05-21
 status: geldig
 toestand: 1999-05-21
 bron: "https://wetten.overheid.nl/BWBR0010366"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 26 maart 1999, houdende machtiging tot medewerking aan de oprichting van een Waarborgfonds voor de zorgsector

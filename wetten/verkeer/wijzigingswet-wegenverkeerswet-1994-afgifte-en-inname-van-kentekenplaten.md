@@ -9,7 +9,7 @@ laatste_update: 2000-02-01
 status: geldig
 toestand: 2000-02-01
 bron: "https://wetten.overheid.nl/BWBR0010759"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 6 oktober 1999, houdende wijziging van de Wegenverkeerswet 1994 met betrekking tot de afgifte en inname van kentekenplaten

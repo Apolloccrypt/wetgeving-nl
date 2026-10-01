@@ -7,7 +7,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBV0007178"
-opgehaald: 2026-09-30
+opgehaald: 2026-10-01
 ---
 
 # Verdrag inzake fatsoenlijk werk in de platformeconomie

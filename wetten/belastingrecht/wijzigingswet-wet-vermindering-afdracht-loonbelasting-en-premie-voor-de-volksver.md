@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0010138"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 17 december 1998, houdende wijziging van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen en de Wet op de inkomstenbelasting 1964

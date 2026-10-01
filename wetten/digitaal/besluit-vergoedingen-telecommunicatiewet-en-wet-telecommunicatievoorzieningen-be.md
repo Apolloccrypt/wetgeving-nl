@@ -9,7 +9,7 @@ laatste_update: 2022-05-13
 status: geldig
 toestand: 2022-05-13
 bron: "https://wetten.overheid.nl/BWBR0010334"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 12 maart 1999, houdende regels inzake de in het kader van de Telecommunicatiewet in rekening te brengen vergoedingen (Besluit vergoedingen Telecommunicatiewet)

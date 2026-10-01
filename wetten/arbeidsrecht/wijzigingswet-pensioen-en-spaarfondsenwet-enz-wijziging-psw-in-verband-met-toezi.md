@@ -9,7 +9,7 @@ laatste_update: 2001-01-17
 status: geldig
 toestand: 2001-01-17
 bron: "https://wetten.overheid.nl/BWBR0011031"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 22 december 1999 tot wijziging van de Pensioen- en spaarfondsenwet en enkele andere wetten onder meer met het oog op verbetering van het toezicht op de uitvoering van aanvullende pensioenregelingen, invoering van een verbod op uitstelfinanciering van pensioenaanspraken en verduidelijking van de regels inzake waardeoverdracht van pensioen en aanspraken op pensioen (wijziging PSW in verband met toezicht, verbod op uitstelfinanciering en waardeoverdracht)

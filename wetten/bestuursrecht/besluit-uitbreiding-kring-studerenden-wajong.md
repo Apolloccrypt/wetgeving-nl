@@ -9,7 +9,7 @@ laatste_update: 2020-09-01
 status: geldig
 toestand: 2020-09-01
 bron: "https://wetten.overheid.nl/BWBR0010120"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 16 december 1998, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 5, derde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten houdende uitbreiding van de kring van studerenden voor de toepassing van die wet

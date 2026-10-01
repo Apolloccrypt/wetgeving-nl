@@ -9,7 +9,7 @@ laatste_update: 2015-03-01
 status: geldig
 toestand: 2015-03-01
 bron: "https://wetten.overheid.nl/BWBR0009867"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 26 augustus 1998, houdende regels met betrekking tot de aanvraag om een vergunning op grond van de Wet bescherming Antarctica (Besluit bescherming Antarctica)

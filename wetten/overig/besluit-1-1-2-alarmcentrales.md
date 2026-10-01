@@ -8,7 +8,7 @@ laatste_update: 2022-09-24
 status: geldig
 toestand: 2022-09-24
 bron: "https://wetten.overheid.nl/BWBR0009991"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit 1-1-2 alarmcentrales

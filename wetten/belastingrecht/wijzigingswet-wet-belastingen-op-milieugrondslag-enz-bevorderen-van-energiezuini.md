@@ -9,7 +9,7 @@ laatste_update: 2000-07-07
 status: geldig
 toestand: 2000-07-07
 bron: "https://wetten.overheid.nl/BWBR0010985"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 16 december 1999 tot wijziging van de regulerende energiebelasting en de inkomstenbelasting met het oog op het bevorderen van energiezuinig en milieuvriendelijk gedrag

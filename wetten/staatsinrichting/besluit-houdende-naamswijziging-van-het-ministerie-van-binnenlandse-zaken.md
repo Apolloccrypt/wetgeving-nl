@@ -9,7 +9,7 @@ laatste_update: 1998-08-06
 status: geldig
 toestand: 1998-08-06
 bron: "https://wetten.overheid.nl/BWBR0009829"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit No. 98.003882 houdende naamswijziging van het Ministerie van Binnenlandse Zaken

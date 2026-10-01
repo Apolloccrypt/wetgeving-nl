@@ -8,7 +8,7 @@ laatste_update: 1999-11-06
 status: geldig
 toestand: 1999-11-06
 bron: "https://wetten.overheid.nl/BWBR0010795"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit Ondermandaat DGVH Regeling milieugerichte technologie 1999 en Subsidieregeling sanering loden drinkwaterleidingen

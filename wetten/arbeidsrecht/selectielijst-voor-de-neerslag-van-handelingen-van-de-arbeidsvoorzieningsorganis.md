@@ -8,7 +8,7 @@ laatste_update: 2000-08-16
 status: geldig
 toestand: 2000-08-16
 bron: "https://wetten.overheid.nl/BWBR0011069"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Selectielijst voor de neerslag van handelingen van de Arbeidsvoorzieningsorganisatie over de periode 1991-1997

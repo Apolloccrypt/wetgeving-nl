@@ -9,7 +9,7 @@ laatste_update: 2000-01-02
 status: geldig
 toestand: 2000-01-02
 bron: "https://wetten.overheid.nl/BWBR0010593"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 8 juli 1999 tot samenvoeging van de gemeenten Bergen, Egmond en Schoorl

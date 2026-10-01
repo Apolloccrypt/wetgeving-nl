@@ -9,7 +9,7 @@ laatste_update: 2009-03-25
 status: geldig
 toestand: 2009-03-25
 bron: "https://wetten.overheid.nl/BWBR0011032"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 22 december 1999 tot wijziging van de Ziektewet en enkele andere wetten in verband met het uitsluiten van het recht op een socialeverzekeringsuitkering bij vrijheidsontneming en het openstellen van socialezekerheidsregelingen in die gevallen waarin de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt (Wet socialezekerheidsrechten gedetineerden)

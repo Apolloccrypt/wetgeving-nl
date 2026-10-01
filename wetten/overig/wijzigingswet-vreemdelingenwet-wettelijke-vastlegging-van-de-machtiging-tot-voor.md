@@ -9,7 +9,7 @@ laatste_update: 1998-12-11
 status: geldig
 toestand: 1998-12-11
 bron: "https://wetten.overheid.nl/BWBR0009964"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 26 oktober 1998 tot wijziging van de Vreemdelingenwet (wettelijke vastlegging van de machtiging tot voorlopig verblijf)

@@ -9,7 +9,7 @@ laatste_update: 1999-07-07
 status: geldig
 toestand: 1999-07-07
 bron: "https://wetten.overheid.nl/BWBR0009880"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 2 september 1998, houdende de toekenning van een vaste beloning aan de voorzitter en de leden van het Adviescollege besteding vierde tranche

@@ -5,11 +5,11 @@ identifier: "BWBR0038553"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-06-30
-laatste_update: 2026-08-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-08-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0038553"
-opgehaald: 2026-09-25
+opgehaald: 2026-10-01
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 september 2016, nr. 884572, houdende vaststelling van beleidsregels inzake subsidiëring landelijke onderwijsondersteunende activiteiten (Besluit vaststelling beleidskader SLOA)
@@ -20,7 +20,7 @@ De beleidsregels inzake subsidieverlening voor de instellingen, bedoeld in de [W
 
 ##### Artikel 2. Subsidieplafond
 
-Jaarlijks wordt in een startbrief het bedrag vastgesteld dat ten hoogste beschikbaar is voor de verlening van subsidies ten behoeve van de taken, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2), [artikel 3, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3), [artikel 3a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3a), en [artikel 3b, eerste lid, van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3b).
+Jaarlijks wordt in een startbrief het bedrag vastgesteld dat ten hoogste beschikbaar is voor de verlening van subsidies ten behoeve van de taken, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2), [artikel 3, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3), [artikel 3a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3a), [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3b) en [artikel 3c, eerste lid, onderdelen a tot en met f en tweede lid, van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3c).
 
 ##### Artikel 3. Wijziging Kaderregeling subsidies OCW, SZW en VWS
 

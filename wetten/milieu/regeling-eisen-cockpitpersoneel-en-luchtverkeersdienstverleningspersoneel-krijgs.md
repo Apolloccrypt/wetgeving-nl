@@ -8,7 +8,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0010740"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling eisen cockpitpersoneel en luchtverkeersdienstverleningspersoneel krijgsmacht

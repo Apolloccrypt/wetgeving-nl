@@ -8,7 +8,7 @@ laatste_update: 1998-08-29
 status: geldig
 toestand: 1998-08-29
 bron: "https://wetten.overheid.nl/BWBR0009846"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling vergunningprocedure bijzondere medische verrichtingen

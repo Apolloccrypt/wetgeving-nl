@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0010346"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 18 maart 1999, houdende bepalingen ter verbetering van de arbeidsomstandigheden (Arbeidsomstandighedenwet 1998)

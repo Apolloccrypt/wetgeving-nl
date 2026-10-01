@@ -9,7 +9,7 @@ laatste_update: 2022-05-01
 status: geldig
 toestand: 2022-05-01
 bron: "https://wetten.overheid.nl/BWBR0009896"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 11 september 1998, houdende uitzondering respectievelijk aanwijzing van bestuursorganen als bedoeld in de Wet Nationale ombudsman en de Wet openbaarheid van bestuur (Besluit bestuursorganen WNo en Wob)

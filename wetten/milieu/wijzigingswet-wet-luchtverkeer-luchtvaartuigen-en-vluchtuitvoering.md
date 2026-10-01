@@ -9,7 +9,7 @@ laatste_update: 2010-07-07
 status: geldig
 toestand: 2010-07-07
 bron: "https://wetten.overheid.nl/BWBR0010445"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 29 april 1999, houdende wijziging van de Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering)

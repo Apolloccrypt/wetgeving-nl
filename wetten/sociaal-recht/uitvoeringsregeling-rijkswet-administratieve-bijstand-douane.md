@@ -8,7 +8,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0010885"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Uitvoeringsregeling Rijkswet administratieve bijstand douane

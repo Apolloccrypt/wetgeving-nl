@@ -9,7 +9,7 @@ laatste_update: 1999-04-21
 status: geldig
 toestand: 1999-04-21
 bron: "https://wetten.overheid.nl/BWBR0010391"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 7 april 1999 tot uitvoering van artikel 9, aanhef en onder c, van de Bankwet 1998

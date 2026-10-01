@@ -8,7 +8,7 @@ laatste_update: 1999-07-14
 status: geldig
 toestand: 1999-07-14
 bron: "https://wetten.overheid.nl/BWBR0010584"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Buitenreguliere telling c.q. eerste schooldagtelling

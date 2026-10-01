@@ -9,7 +9,7 @@ laatste_update: 1998-11-14
 status: geldig
 toestand: 1998-11-14
 bron: "https://wetten.overheid.nl/BWBR0010002"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 11 november 1998, houdende bepalingen verband houdende met de instelling van een in Nederland zetelend Schots Hof voor de strafrechtelijke vervolging van de personen, aangeduid als «the two accused» in Resolutie 1192 (1998), aangenomen door de Veiligheidsraad van de Verenigde Naties tijdens zijn 3920e vergadering op 27 augustus 1998 terzake van de strafbare feiten, bedoeld in de considerans van het zetelverdrag tussen het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en het Koninkrijk der Nederlanden van 18 september 1998 strekkend tot oprichting van een Schots Hof zetelend in Nederland

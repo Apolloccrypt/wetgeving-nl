@@ -8,7 +8,7 @@ laatste_update: 2010-06-10
 status: geldig
 toestand: 2010-06-10
 bron: "https://wetten.overheid.nl/BWBR0010437"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Beleidsregels incident management Rijkswaterstaat

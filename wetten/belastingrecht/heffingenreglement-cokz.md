@@ -9,7 +9,7 @@ laatste_update: 1999-03-17
 status: geldig
 toestand: 1999-03-17
 bron: "https://wetten.overheid.nl/BWBR0010341"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Reglement inzake de heffing van omslagen ter dekking van de kosten van toezicht of keuring

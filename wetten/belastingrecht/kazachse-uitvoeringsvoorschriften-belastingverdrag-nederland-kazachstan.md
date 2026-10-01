@@ -9,7 +9,7 @@ laatste_update: 1999-02-19
 status: geldig
 toestand: 1999-02-19
 bron: "https://wetten.overheid.nl/BWBR0009835"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling inzake vermindering en vrijstelling van Kazachse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland

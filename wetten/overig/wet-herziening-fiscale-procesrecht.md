@@ -9,7 +9,7 @@ laatste_update: 2000-09-20
 status: geldig
 toestand: 2000-09-20
 bron: "https://wetten.overheid.nl/BWBR0009972"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 29 oktober 1998, houdende aanpassing van het fiscale procesrecht aan de Algemene wet bestuursrecht en wijziging van een aantal fiscale en andere wetten (herziening van het fiscale procesrecht)

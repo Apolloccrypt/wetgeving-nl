@@ -8,7 +8,7 @@ laatste_update: 2018-02-27
 status: geldig
 toestand: 2018-02-27
 bron: "https://wetten.overheid.nl/BWBR0011085"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling opnemen vertrouwelijke communicatie politie

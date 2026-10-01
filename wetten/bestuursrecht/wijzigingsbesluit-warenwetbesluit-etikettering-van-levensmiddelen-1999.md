@@ -9,7 +9,7 @@ laatste_update: 2000-02-14
 status: geldig
 toestand: 2000-02-14
 bron: "https://wetten.overheid.nl/BWBR0010768"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 11 oktober 1999, houdende wijziging van het Warenwetbesluit Etikettering van levensmiddelen

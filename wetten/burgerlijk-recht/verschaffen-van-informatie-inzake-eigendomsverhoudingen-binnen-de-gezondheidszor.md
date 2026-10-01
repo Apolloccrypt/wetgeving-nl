@@ -8,7 +8,7 @@ laatste_update: 1999-04-08
 status: geldig
 toestand: 1999-04-08
 bron: "https://wetten.overheid.nl/BWBR0010380"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Verschaffen van informatie inzake eigendomsverhoudingen binnen de gezondheidszorg in Nederland

@@ -9,7 +9,7 @@ laatste_update: 1998-10-01
 status: geldig
 toestand: 1998-10-01
 bron: "https://wetten.overheid.nl/BWBR0009816"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling betreffende de verklaring houdende toestemming tot adoptie, als bedoeld in artikel 4 van het Haags Verdrag van 29 mei 1993 inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie

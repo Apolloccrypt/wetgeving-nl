@@ -5,11 +5,11 @@ identifier: "BWBR0022748"
 categorie: "Financieel recht"
 soort: "AMvB"
 publicatiedatum: 2017-12-20
-laatste_update: 2025-01-17
+laatste_update: 2026-09-26
 status: geldig
-toestand: 2025-01-17
+toestand: 2026-09-26
 bron: "https://wetten.overheid.nl/BWBR0022748"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet op het financieel toezicht met betrekking tot de toegang tot de Nederlandse financiële markten voor marktexploitanten en voor het exploiteren of beheren van een gereglementeerde markt en wijziging van enkele andere besluiten ter implementatie van de richtlijn markten voor financiële instrumenten (Besluit gereglementeerde markten Wft)
@@ -62,7 +62,7 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 3
 
-1. De gegevens, bedoeld in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2025-01-17&g=2025-01-17), zijn:
+1. De gegevens, bedoeld in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2026-09-26&g=2026-09-26), zijn:
 
 - a. een opgave van de naam, de geboortedatum, de geboorteplaats, de nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
 
@@ -74,7 +74,7 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 - e. een opgave van referenten.
 
-2. Het [artikel 2, onderdelen g en l, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2025-01-17&g=2025-01-17), is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+2. Het [artikel 2, onderdelen g en l, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2026-09-26&g=2026-09-26), is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
 ##### Bepaling ter uitvoering van artikel 5:27, vijfde lid, van de wet
 
@@ -100,7 +100,7 @@ De systemen, procedures en regelingen, bedoeld in [artikel 5:30a, tweede lid, va
 
 ##### Artikel 4c
 
-De parameters, bedoeld in [artikel 5:30a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a), houden rekening met de liquiditeit van de verschillende categorieën activa, de aard van het marktmodel en de soorten gebruikers en zijn geschikt om aanzienlijke verstoringen van de ordelijke werking van de gereglementeerde markt te voorkomen.
+De parameters, bedoeld in [artikel 5:30a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:30a), houden rekening met de liquiditeit van de verschillende categorieën en subcategorieën activa, de aard van het marktmodel en de soorten gebruikers en zijn geschikt om aanzienlijke verstoringen van de ordelijke werking van de markt te voorkomen.
 
 ##### Artikel 4d
 

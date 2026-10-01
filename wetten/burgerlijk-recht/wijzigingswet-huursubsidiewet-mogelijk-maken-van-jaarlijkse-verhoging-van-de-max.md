@@ -9,7 +9,7 @@ laatste_update: 1999-07-01
 status: geldig
 toestand: 1999-07-01
 bron: "https://wetten.overheid.nl/BWBR0010444"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 29 april 1999 tot wijziging van de Huursubsidiewet (mogelijk maken van jaarlijkse verhoging van de maximale huurgrens en enkele andere wijzigingen)

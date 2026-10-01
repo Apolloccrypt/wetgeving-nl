@@ -8,7 +8,7 @@ laatste_update: 2000-01-26
 status: geldig
 toestand: 2000-01-26
 bron: "https://wetten.overheid.nl/BWBR0011099"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit Rekencommissie ova voor het VWS-veld

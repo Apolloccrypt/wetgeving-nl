@@ -9,7 +9,7 @@ laatste_update: 2000-01-01
 status: geldig
 toestand: 2000-01-01
 bron: "https://wetten.overheid.nl/BWBR0010939"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 6 december 1999, houdende wijziging van het koninklijk besluit van 9 augustus 1948 tot uitvoering van artikel 12 van de Wet buitengewoon pensioen 1940-1945 (Stb. I 362), alsmede van het koninklijk besluit van 6 september 1949 tot uitvoering van artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. J 418)

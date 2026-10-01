@@ -5,11 +5,11 @@ identifier: "BWBR0044308"
 categorie: "Overig"
 soort: "rijksKB"
 publicatiedatum: 2021-01-01
-laatste_update: 2023-09-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2023-09-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0044308"
-opgehaald: 2026-08-30
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 15 oktober 2020, houdende regels betreffende het verstrekken van reisdocumenten (Paspoortbesluit)
@@ -26,9 +26,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - *basisregister reisdocumenten:* het register, bedoeld in [Hoofdstuk 1, paragraaf 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I);
 
-- *gedetineerde:* gedetineerde als bedoeld in [artikel 1, onderdeel e, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1);
-
-- *penitentiaire inrichting:* penitentiaire inrichting als bedoeld in [artikel 3, eerste lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=3);
+- *register paspoortsignaleringen:* het register, bedoeld in [artikel 25, derde lid, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=25);
 
 - *register vermiste of vervallen reisdocumenten:* het register, bedoeld in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a);
 
@@ -49,29 +47,19 @@ Reisdocumenten van het Koninkrijk der Nederlanden als bedoeld in [artikel 2, eer
 
 ##### Artikel 1.3. Vermelding woonplaats en adres
 
-De woonplaats en het adres van de houder worden niet vermeld in de reisdocumenten, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) en in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=1&paragraaf=1&artikel=1.2&z=2023-09-01&g=2023-09-01) van dit besluit.
+De woonplaats en het adres van de houder worden niet vermeld in de reisdocumenten, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) en in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=1&paragraaf=1&artikel=1.2&z=2026-10-01&g=2026-10-01) van dit besluit.
 
 ##### Artikel 1.4. Reisdocumenten zonder vingerafdrukken, gezichtsopname of handtekening
 
-1. Bij ministeriële regeling kunnen regels worden gesteld over gevallen waarin kan worden afgezien van het opnemen van de gezichtsopname, vingerafdrukken of de handtekening op het aangevraagde reisdocument, indien deze gegevens niet van de houder kunnen worden verkregen.
-
-2. Noodpaspoorten en laissez-passers worden niet voorzien van vingerafdrukken van de houder.
+Noodpaspoorten en laissez-passers worden niet voorzien van vingerafdrukken van de houder.
 
 ##### Artikel 1.5. Vermelding burgerservicenummer
 
-Het burgerservicenummer van de houder wordt vermeld in het nationaal paspoort, het faciliteitenpaspoort, het tweede paspoort, de Nederlandse identiteitskaart en de vervangende Nederlandse identiteitskaart, tenzij aan de houder geen burgerservicenummer is toegekend.
+Het burgerservicenummer van de houder wordt vermeld in het nationaal paspoort, het faciliteitenpaspoort en het tweede paspoort, tenzij aan de houder geen burgerservicenummer is toegekend.
 
 ##### Artikel 1.6. Plaatsing van het publiek identificatiemiddel
 
-1. Het publiek identificatiemiddel wordt geplaatst op de Nederlandse identiteitskaart in de vorm van een applet op de daarop aangebrachte chip.
-
-2. De in het eerste lid bedoelde applet bevat de volgende gegevens:
-
-- a. het burgerservicenummer in versleutelde vorm ten behoeve van authenticatie van de houder van het document in het kader van elektronische dienstverlening als bedoeld in [artikel 1, onderdeel s, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=1) en het burgerservicenummer in afgeleide vorm ten behoeve van authenticatie van de houder van het document in het kader van elektronische dienstverlening anders dan als bedoeld in artikel 1, onderdeel s, van de wet;
-
-- b. de initiële, door Onze Minister verstrekte PIN-code en de CAN-code ten behoeve van beveiligde toegang tot de applet om gebruik van het publieke identificatiemiddel mogelijk te maken;
-
-- c. een PUK-code waarmee de PIN-code kan worden gedeblokkeerd.
+*Vervallen*
 
 #### Paragraaf 3. Overige algemene bepalingen
 
@@ -85,9 +73,9 @@ De werkzaamheden op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 2.1. Vaststelling identiteit en Nederlanderschap
 
-1. Voor het verkrijgen van de nodige zekerheid over de identiteit van de aanvrager, alsmede over zijn Nederlanderschap dan wel zijn behandeling als Nederlander, indien het een persoon betreft op wie de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) van toepassing is, wordt gebruik gemaakt van het door de aanvrager overgelegde Nederlandse reisdocument, de door de aanvrager bij de aanvraag verstrekte gegevens, alsmede van de in de basisadministratie dan wel de in het basisregister reisdocumenten opgenomen gegevens of van overige bij de tot uitreiking bevoegde autoriteit aanwezige documenten.
+1. Voor het verkrijgen van de nodige zekerheid over de identiteit van de aanvrager, alsmede over zijn Nederlanderschap dan wel zijn behandeling als Nederlander, indien het een persoon betreft op wie de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) van toepassing is, wordt gebruik gemaakt van het door de aanvrager overgelegde Nederlandse reisdocument of de door de aanvrager overlegde Nederlandse identiteitskaart, de door de aanvrager bij de aanvraag verstrekte gegevens, alsmede van de in de basisadministratie dan wel de in het basisregister reisdocumenten opgenomen gegevens of van overige bij de tot uitreiking bevoegde autoriteit aanwezige documenten, waaronder in ieder geval worden verstaan documenten in verband met eerdere aanvragen van reisdocumenten of Nederlandse identiteitskaarten.
 
-2. Indien onzekerheid bestaat over de identiteit dan wel over het Nederlanderschap van de aanvrager wordt daarnaar een gericht onderzoek ingesteld. Dit onderzoek omvat zoveel mogelijk verificatie van de identiteit dan wel de nationaliteit met behulp van door de aanvrager over te leggen documenten die zijn afgegeven door een bevoegde autoriteit, waaronder zijn geboorteakte, reisdocumenten die op zijn naam zijn gesteld, dan wel buitenlandse reisdocumenten waarin hij staat vermeld en eventuele andere bewijsstukken.
+2. Indien onzekerheid bestaat over de identiteit dan wel over het Nederlanderschap van de aanvrager wordt daarnaar een gericht onderzoek ingesteld. Dit onderzoek omvat zoveel mogelijk verificatie van de identiteit dan wel de nationaliteit met behulp van door de aanvrager over te leggen documenten die zijn afgegeven door een bevoegde autoriteit, waaronder zijn geboorteakte, reisdocumenten of Nederlandse identiteitskaarten die op zijn naam zijn gesteld, dan wel buitenlandse reisdocumenten waarin hij staat vermeld en eventuele andere bewijsstukken.
 
 ##### Artikel 2.2. Geldigheid nationaal paspoort
 
@@ -177,7 +165,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de vaststelling van
 
 ##### Artikel 2.10. Vaststelling aanspraken op nooddocumenten
 
-1. Het verstrekken van een nooddocument kan uitsluitend geschieden voor een aanvrager ten aanzien van wie voldoende aannemelijk is dat zijn reis geen uitstel gedoogt, en die niet in staat moet worden geacht op tijd een ander geldig reisdocument te verkrijgen.
+1. Het verstrekken van een nooddocument kan uitsluitend geschieden voor een aanvrager ten aanzien van wie voldoende aannemelijk is dat zijn reis geen uitstel gedoogt, en die niet in staat moet worden geacht op tijd een ander geldig reisdocument of Nederlandse identiteitskaart te verkrijgen.
 
 2. Van de aanvrager kan worden verlangd, dat hij reisbescheiden overlegt waaruit de spoedeisendheid van zijn reis kan worden afgeleid, zoals vlieg-, boot-, trein- of bus tickets, hotelreserveringen en reisverzekeringen.
 
@@ -205,7 +193,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de vaststelling van
 
 1. Aan een staatloze persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld, wordt op zijn verzoek een faciliteitenpaspoort verstrekt.
 
-2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2023-09-01&g=2023-09-01) is van overeenkomstige toepassing.
+2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2026-10-01&g=2026-10-01) is van overeenkomstige toepassing.
 
 ##### Artikel 2.13. Geldigheid faciliteitenpaspoort
 
@@ -239,17 +227,11 @@ Bij ministeriële regeling worden nadere regels gesteld over de vaststelling van
 
 ##### Artikel 2.16. Vaststelling Nederlanderschap Nederlandse identiteitskaart
 
-1. Voor het verkrijgen van de nodige zekerheid over het Nederlanderschap, wordt gebruik gemaakt van het door de aanvrager overgelegde Nederlandse reisdocument, de door de aanvrager bij de aanvraag verstrekte gegevens, alsmede van de in de basisadministratie dan wel de in het basisregister reisdocumenten opgenomen gegevens en van overige bij de tot uitreiking bevoegde autoriteit aanwezige documenten.
-
-2. Indien onzekerheid bestaat over het Nederlanderschap van de aanvrager wordt daarnaar een gericht onderzoek ingesteld. Dit onderzoek omvat zoveel mogelijk verificatie van de nationaliteit met behulp van door de aanvrager over te leggen documenten die zijn afgegeven door een bevoegde autoriteit, waaronder zijn geboorteakte, reisdocumenten die op zijn naam zijn gesteld, dan wel buitenlandse reisdocumenten waarin hij staat vermeld en eventuele andere bewijsstukken.
+*Vervallen*
 
 ##### Artikel 2.17. Geldigheid Nederlandse identiteitskaart
 
-1. De Nederlandse identiteitskaart is geldig voor tien jaren. Indien de aanvrager bij de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt, is de Nederlandse identiteitskaart geldig voor vijf jaren.
-
-2. De vervangende Nederlandse identiteitskaart is geldig voor vijf jaren.
-
-3. Indien als gevolg van een tijdelijke verhindering bij de aanvrager geen vingerafdrukken op de nationale identiteitskaart worden opgenomen, bedraagt de geldigheidsduur van de nationale identiteitskaart één jaar.
+*Vervallen*
 
 ### Hoofdstuk 3. Aanvraag van reisdocumenten
 
@@ -271,13 +253,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de vaststelling van
 
 ##### Artikel 3.2. Aanvullende bevoegdheden burgemeesters aangewezen gemeenten
 
-1. In de bij ministeriële regeling aangewezen gemeenten is de burgemeester tevens bevoegd aanvragen in ontvangst te nemen:
-
-- a. voor de in [artikel 2, eerste lid, onderdelen a, d, e of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) bedoelde reisdocumenten of artikel 2, tweede lid, van de wet bedoelde identiteitskaarten voor zover het personen betreft die niet in de basisregistratie personen als ingezetene zijn ingeschreven;
-
-- b. voor de in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) bedoelde identiteitskaarten voor zover het gedetineerden betreft die verblijven in een penitentiaire inrichting in die aangewezen gemeente.
-
-2. De burgemeester van Haarlemmermeer is bevoegd tot het in ontvangst nemen van aanvragen voor Nederlandse identiteitskaarten van personen die in de basisadministratie van Aruba, Curaçao of Sint Maarten zijn ingeschreven.
+In de bij ministeriële regeling aangewezen gemeenten is de burgemeester tevens bevoegd aanvragen in ontvangst te nemen voor de in [artikel 2, eerste lid, onderdelen a, d, e of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) bedoelde reisdocumenten voor zover het personen betreft die niet in de basisregistratie personen als ingezetene zijn ingeschreven.
 
 ##### Artikel 3.3. Aanvullende bevoegdheden Gouverneurs
 
@@ -295,7 +271,17 @@ Aangewezen tot het in ontvangst nemen van aanvragen voor noodpaspoorten zijn de 
 
 #### Paragraaf 2. Voorwaarden ten aanzien van de aanvraag
 
-Gereserveerd
+##### Artikel 3.6. Afzien van opname vingerafdrukken
+
+Van het opnemen van vingerafdrukken overeenkomstig [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), wordt afgezien, indien:
+
+- a. de aanvrager op het moment van het indienen van de aanvraag de leeftijd van twaalf jaar nog niet heeft bereikt, of
+
+- b. de daartoe aangewezen persoon van oordeel is dat het fysiek dan wel als gevolg van een tijdelijke verhindering onmogelijk is om van de aanvrager te verlangen dat bij hem op het moment van het indienen van de aanvraag een of meer vingerafdrukken worden opgenomen.
+
+##### Artikel 3.7. Onbekwaamheid tot het plaatsen van een handtekening
+
+Van het opnemen van een handtekening op het aangevraagde reisdocument wordt afgezien, indien de persoon aan wie het aangevraagde reisdocument moet worden verstrekt door leeftijd of een handicap niet in staat is zijn handtekening te plaatsen.
 
 ### Hoofdstuk 4. Verstrekking, wijziging en uitreiking van reisdocumenten
 
@@ -317,13 +303,7 @@ Gereserveerd
 
 ##### Artikel 4.2. Aanvullende bevoegdheden burgemeesters aangewezen gemeenten
 
-1. In de bij ministeriële regeling aangewezen gemeenten is de burgemeester tevens bevoegd tot verstrekking:
-
-- a. van de in [artikel 2, eerste lid, onderdelen a, d, e of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) bedoelde reisdocumenten of de in artikel 2, tweede lid, van de wet bedoelde identiteitskaarten voor zover het personen betreft die niet in de basisregistratie personen als ingezetene zijn ingeschreven;
-
-- b. van de in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) bedoelde identiteitskaarten voor zover het gedetineerden betreft die verblijven in een penitentiaire inrichting in die aangewezen gemeente.
-
-2. De burgemeester van Haarlemmermeer is bevoegd tot verstrekking van Nederlandse identiteitskaarten aan personen die in de basisadministratie van Aruba, Curaçao of Sint Maarten zijn ingeschreven.
+In de bij ministeriële regeling aangewezen gemeenten is de burgemeester tevens bevoegd tot verstrekking van de in [artikel 2, eerste lid, onderdelen a, d, e of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) bedoelde reisdocumenten voor zover het personen betreft die niet in de basisregistratie personen als ingezetene zijn ingeschreven.
 
 ##### Artikel 4.3. Aanvullende bevoegdheden Gouverneurs
 
@@ -357,7 +337,15 @@ Gereserveerd
 
 ### Hoofdstuk 6. Verval van rechtswege van reisdocumenten
 
-Gereserveerd
+##### Artikel 6.1. Vermelding register paspoortsignaleringen bij verval van rechtswege
+
+1. De burgemeester, de gezaghebber, Onze Minister van Buitenlandse Zaken onderscheidenlijk de aangewezen autoriteit, bedoeld in de [artikelen 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2026-10-01&g=2026-10-01), en [4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2026-10-01&g=2026-10-01), deelt met het oog op een vermelding in het register paspoortsignaleringen op grond van [artikel 47, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47) Onze Minister onderscheidenlijk de Gouverneur de gegevens mede van de houder van een reisdocument dat van rechtswege is vervallen, indien de houder weigert het reisdocument in te leveren dan wel de woon- of verblijfplaats van de houder niet kan worden achterhaald.
+
+2. De aangewezen autoriteit, bedoeld in de [artikelen 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2026-10-01&g=2026-10-01), en [4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2026-10-01&g=2026-10-01), deelt met het oog op een vermelding in het register dat door Onze Minister wordt bijgehouden op grond van [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=25), op grond van [artikel 30, derde lid, van de Wet op de Nederlandse identiteitskaart](https://wetten.overheid.nl/jci1.3:c:BWBR0052951&artikel=30) Onze Minister de gegevens mede van de houder van een Nederlandse identiteitskaart die van rechtswege is vervallen, indien de houder weigert de Nederlandse identiteitskaart in te leveren dan wel de woon- of verblijfplaats van de houder niet kan worden achterhaald.
+
+3. De autoriteit die het in het eerste lid bedoelde reisdocument of de in het tweede lid bedoelde Nederlandse identiteitskaart heeft ingehouden, dan wel bij wie het desbetreffende reisdocument onderscheidenlijk de Nederlandse identiteitskaart is ingeleverd, deelt Onze Minister zulks terstond mede met het oog op de verwijdering van de in het eerste lid bedoelde vermelding uit het register.
+
+4. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de in het eerste en tweede lid bedoelde mededeling wordt gedaan.
 
 ### Hoofdstuk 7. Inhouding, inlevering en definitieve onttrekking aan het verkeer van reisdocumenten
 
@@ -367,7 +355,7 @@ Gereserveerd
 
 1. Een reisdocument wordt, naast het in [artikel 42, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=42) gestelde, ook terstond definitief aan het verkeer onttrokken door de daartoe op grond van [artikel 57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=57) bevoegde autoriteit die het document onder zich heeft, indien:
 
-- a. het daartoe, al dan niet bij de uitreiking van een nieuw reisdocument, is ingeleverd;
+- a. het daartoe, al dan niet bij de uitreiking van een nieuw reisdocument of een vervangende Nederlandse identiteitskaart als bedoeld in [artikel 12 van de Wet op de Nederlandse identiteitskaart](https://wetten.overheid.nl/jci1.3:c:BWBR0052951&artikel=12), is ingeleverd;
 
 - b. het vervallen is verklaard dan wel ingevolge [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=54) is ingehouden, tenzij nog een beroepstermijn open staat, een beroepsprocedure aanhangig is of het reisdocument anderszins in een gerechtelijke procedure nodig is;
 
@@ -377,13 +365,23 @@ Gereserveerd
 
    - 1°. de gezaghebber in de gelegenheid is het terug te geven aan de in de basisadministratie als ingezetene van zijn openbaar lichaam ingeschreven houder die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd; of
 
-   - 2°. de Minister van Buitenlandse Zaken of de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2023-09-01&g=2023-09-01), in de gelegenheid is het terug te geven aan de houder, die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd.
+   - 2°. Onze Minister van Buitenlandse Zaken of de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2026-10-01&g=2026-10-01), in de gelegenheid is het terug te geven aan de houder, die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd.
 
-2. Het eerste lid, aanhef en onderdeel c, is niet van toepassing op onttrekking aan het verkeer van een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer door de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2023-09-01&g=2023-09-01).
+2. Het eerste lid, aanhef en onderdeel c, is niet van toepassing op onttrekking aan het verkeer van een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer door de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2026-10-01&g=2026-10-01).
 
-3. In afwijking van het eerste lid, aanhef en onderdeel d, onttrekt de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2023-09-01&g=2023-09-01), een noodpaspoort of een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer terstond definitief aan het verkeer, indien het als gevonden reisdocument is ontvangen.
+3. In afwijking van het eerste lid, aanhef en onderdeel d, onttrekt de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2026-10-01&g=2026-10-01), een noodpaspoort of een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer terstond definitief aan het verkeer, indien het als gevonden reisdocument is ontvangen.
 
-4. Bij ministeriële regeling worden nadere regels gesteld over de wijze van onttrekking aan het verkeer.
+4. Onverminderd het bepaalde in het eerste lid, onttrekt de Gouverneur een Nederlandse identiteitskaart die hij onder zich heeft, naast het gestelde in [artikel 27, vierde lid, van de Wet op de Nederlandse identiteitskaart](https://wetten.overheid.nl/jci1.3:c:BWBR0052951&artikel=27), ook terstond definitief aan het verkeer, indien:
+
+- a. het daartoe, al dan niet bij de uitreiking van een nieuw reisdocument, is ingeleverd;
+
+- b. het ingevolge [artikel 37, eerste lid, van de Wet op de Nederlandse identiteitskaart](https://wetten.overheid.nl/jci1.3:c:BWBR0052951&artikel=37) is ingehouden, tenzij nog een beroepstermijn open staat, een beroepsprocedure aanhangig is of het reisdocument anderszins in een gerechtelijke procedure nodig is;
+
+- c. het na uitreiking als onbruikbaar is beschouwd ten gevolge van misdruk of verkeerde personalisatie en dientengevolge is ingehouden of ingeleverd;
+
+- d. het als gevonden Nederlandse identiteitskaart is ontvangen.
+
+5. Bij ministeriële regeling worden nadere regels gesteld over de wijze van onttrekking aan het verkeer.
 
 ### Hoofdstuk 8. Verwerking van persoonsgegevens
 
@@ -411,17 +409,7 @@ Gereserveerd
 
 ##### Artikel 8.2. Eisen ten aanzien van vervaardiging publiek identificatiemiddel
 
-1. Bij ministeriële regeling worden voorschriften gesteld over de technische en organisatorische voorzieningen die noodzakelijk zijn voor de vervaardiging van het publiek identificatiemiddel.
-
-2. De in het eerste lid bedoelde voorschriften bevatten tenminste eisen die zien op:
-
-- a. informatieveiligheid;
-
-- b. data-integriteit;
-
-- c. vertrouwelijkheid;
-
-- d. bescherming van persoonsgegevens.
+*Vervallen*
 
 #### Paragraaf 3. Het basisregister reisdocumenten
 
@@ -429,21 +417,21 @@ Gereserveerd
 
 Onverminderd het bepaalde in [artikel 4e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4e) kunnen de gegevens uit het basisregister reisdocumenten ook worden verstrekt aan het Centraal Bureau voor de Statistiek ten behoeve van statistische doeleinden.
 
-##### Artikel 8.4. Verstrekkingen uit het register aan tot uitreiking bevoegde autoriteiten
+##### Artikel 8.4. Verstrekkingen op grond van artikel 4e, eerste lid, onderdelen a en b, van de wet
 
-Aan de autoriteiten bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=40) en [51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=51) kunnen ten behoeve van de taken bedoeld in [artikel 4e, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4e), alle in het basisregister reisdocumenten opgenomen gegevens worden verstrekt.
+Aan de autoriteiten, bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=40), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=42) en [50b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=50b) en de autoriteiten, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0052951&artikel=15), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0052951&artikel=25) en [36 van de Wet op de Nederlandse identiteitskaart](https://wetten.overheid.nl/jci1.3:c:BWBR0052951&artikel=36) kunnen ten behoeve van de taken bedoeld in [artikel 4e, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4e), alle in het basisregister reisdocumenten opgenomen gegevens worden verstrekt.
 
 ##### Artikel 8.5. Verwerking van gegevens, bewaartermijnen en vernietiging van gegevens na afloop bewaartermijnen
 
-1. In het basisregister reisdocumenten worden gegevens bijgehouden met betrekking tot de aanvraag, verstrekking, uitreiking dan wel weigering of vervallenverklaring van reisdocumenten.
+1. In het basisregister reisdocumenten worden gegevens bijgehouden met betrekking tot de aanvraag, verstrekking, uitreiking dan wel weigering of vervallenverklaring van reisdocumenten en Nederlandse identiteitskaarten.
 
-2. De in het basisregister reisdocumenten opgenomen gegevens met betrekking tot verstrekking en uitreiking van reisdocumenten, worden na de datum van verstrekking bewaard gedurende een periode van:
+2. De in het basisregister reisdocumenten opgenomen gegevens met betrekking tot verstrekking en uitreiking van reisdocumenten en Nederlandse identiteitskaarten, worden na de datum van verstrekking bewaard gedurende een periode van:
 
 - a. 11 jaar indien de geldigheidsduur van het verstrekte document 5 jaar of korter is of indien het verstrekte document niet wordt uitgereikt;
 
 - b. 16 jaar indien de geldigheidsduur van het verstrekte document langer dan 5 jaar is.
 
-3. De in het basisregister reisdocumenten opgenomen gegevens die betrekking hebben op een aanvraag waarbij geen reisdocument is verstrekt, worden bewaard gedurende een periode van vijf jaar.
+3. De in het basisregister reisdocumenten opgenomen gegevens die betrekking hebben op een aanvraag waarbij geen reisdocument of een Nederlandse identiteitskaart is verstrekt, worden bewaard gedurende een periode van vijf jaar.
 
 4. Na het verstrijken van de bewaartermijn worden de gegevens zo spoedig mogelijk vernietigd.
 
@@ -459,9 +447,9 @@ Bij ministeriële regeling kunnen:
 
 - a. regels worden gesteld ter uitvoering van [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), [26, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), [40, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=40), en [43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=43);
 
-- b. aanvullende regels worden gesteld ter uitvoering van de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), [4d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4d), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28), [42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=42), en [59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=59); en
+- b. aanvullende regels worden gesteld ter uitvoering van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), [4d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4d), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28), [42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=42), en [59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=59); en
 
-- c. nadere regels worden vastgesteld ter uitwerking van het bepaalde in de [artikelen 2.1 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2023-09-01&g=2023-09-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-09-01&g=2023-09-01), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2023-09-01&g=2023-09-01), [2.10 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-09-01&g=2023-09-01), [3.1 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2023-09-01&g=2023-09-01), [8.4 tot en met 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=8&paragraaf=3&artikel=8.4&z=2023-09-01&g=2023-09-01).
+- c. nadere regels worden vastgesteld ter uitwerking van het bepaalde in de [artikelen 2.1 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2026-10-01&g=2026-10-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2026-10-01&g=2026-10-01), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2026-10-01&g=2026-10-01), [2.10 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2026-10-01&g=2026-10-01), [3.1 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2026-10-01&g=2026-10-01), [8.4 tot en met 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=8&paragraaf=3&artikel=8.4&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 10.2. Citeertitel
 

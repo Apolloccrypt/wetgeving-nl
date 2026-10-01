@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-09-25
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-09-25
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-09-30
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -23,19 +23,20 @@ opgehaald: 2026-09-30
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
 | Instrument | Artikel | Groep | Thema/programma | Openstelling | Plafond |
-| Titel 2.2 | 2.2.2 | onderzoeksorganisaties | Onderzoek Kas als Energiebron | 04-05-2026 t/m 11-05-2026 | € 4.000.000 |
+| Titel 2.2 | 2.2.2 | onderzoeksorganisaties | Onderzoek Kas als Energiebron | 21-10-2026 t/m 2-11-2026 | € 3.500.000 |
 | Titel 2.3: Energie-efficiëntie glastuinbouw | 2.3.2 | Glastuinbouw-onderneming | Energie-efficiëntie glastuinbouw | 08-09-2026 t/m 24-09-2026 | € 30.000.000 |
 | Titel 2.4 Subsidieregeling emissieloos landbouwmaterieel | Artikel 2.4.2, onderdeel a | Landbouwmachines |  | 2-6-2026 t/m 2-10-2026 | € 7.800.000,– |
 |  | Artikel 2.4.2, onderdelen b en c | Landbouwtractoren, al dan niet inclusief DC-laadstations |  | 2-6-2026 t/m 2-10-2026 | € 15.800.000,– |
 | Titel 2.5: Borgstelling MKB-landbouw- en visserijkredieten | 2.5.2 | MKB-landbouw- en visserijonderneming | Borgstellingskredieten | 01-01-2026 t/m 31-12-2026 | € 60.000.000 |
 | Titel 2.6. Praktijkontwikkeling van regeneratieve landbouwmethoden | Artikel 2.6.2 |  |  | 1-7-2026 t/m 31-8-2026 | € 576.000,– |
+| Titel 2.7 | 2.7.2 | Landbouwondernemingen | Sociaal-economische begeleiding | 17 november 09:00 uur tot en met 17 december 2026 17:00 uur | € 35.400.000 |
 | Titel 2.10 Marktintroductie energie-innovaties | 2.10.2 | Glastuinbouwonderneming | Marktintroductie energie-innovaties | 08-09-2026 t/m 24-09-2026 | € 8.500.000 |
 | Titel 2.17: Programma Jong Leren Eten 2027–2028 | 2.17.2 |  |  | 1 september 2026 t/m 25 september 2026 | Ten hoogste € 200.000 tot € 330.000 voor activiteiten die in dezelfde provincie worden uitgevoerd, afhankelijk van de provincie. |
 | Titel 2.18: Hoogwaardige mestverwerking | 2.18.2, eerste lid, onderdeel a | Inrichting van een hoogwaardige mestverwerkingsinstallatie |  | 31-08-2026 t/m 12-10-2026 | € 4.500.000 |
 |  | 2.18.2, eerste lid, onderdeel b | Herinrichting van een hoogwaardige mestverwerkingsinstallatie |  | 31-08-2026 t/m 12-10-2025 | € 4.500.000 |
 | Titel 2.21: Verbetering energie-efficiëntie van vissersvaartuigen 2026 | 2.21.3, tweede lid |  |  | 28-09-2026 t/m 14-12-2026 | € 2.000.000 |
 |  | 2.21.3, derde lid |  |  | 28-09-2026 t/m 14-12-2026 | € 25.000.000 |
-| Titel 2.23: Warmte-infrastructuur glastuinbouw | 2.23.2 | Investeerders in warmte-infrastructuur | Warmte-infrastructuur glastuinbouw | 03-02-2026 t/m 31-03-2026 | € 89.400.000 |
+| Titel 2.23: Warmte-infrastructuur glastuinbouw | 2.23.2 | Investeerders in warmte-infrastructuur | Warmte-infrastructuur glastuinbouw | 02-11-2026 tot 31-03-2027 | € 42.000.000 |
 | Titel 2.24: Agenda Natuurinclusief | 2.24.2 |  | Natuur | 05-01-2026 t/m 13-02-2026 | € 2.420.000 |
 | Titel 2.25: Experimenteerlocaties | 2.25.2 |  | Innovatie | 07-05-2026 t/m 18-06-2026 | € 25.000.000 |
 | Titel 2.26: Sanering garnalenvisserij | 2.26.2, eerste lid | Garnalenvissers |  | 03-11-2025 t/m 02-02-2026 | € 40.000.000 |
@@ -88,8 +89,10 @@ opgehaald: 2026-09-30
 | Titel 3.32: BioBased Circular | Artikel 3.32.2 |  |  | 26 februari 2026 t/m 22 oktober 2026 | € 4.000.000 |
 | Titel 4.2: Energie-innovatie | 4.2.9 | Energie & Klimaat Onderzoek en Ontwikkeling (EKOO) | Onderdeel A. Elektriciteit | 22-04-2026 t/m 28-05-2026 | € 7.000.000 |
 |  |  |  | Onderdeel C: Industrie | 01-04-2026 t/m 13-05-2026 | € 7.000.000 |
+|  |  |  | Onderdeel D: Circulaire economie, 1. Circulaire economie, anders dan circulaire plastics, biobased circulair en kritieke grondstoffen | 22-10-2026 t/m 03-12-2026 | € 2.500.000 |
 |  |  |  | Onderdeel D: Circulaire economie, 3. Biobased circular innovatiethema’s 3.1, 3.4, 3.5 en 3.6 | 01-04-2026 t/m 22-04-2026 | € 3.000.000 |
 |  |  |  | Onderdeel D: Circulaire economie, 3. Biobased circular alle innovatiethema’s | 18-05-2026 t/m 20-08-2026 | € 3.000.000 |
+|  |  |  | Onderdeel D: Circulaire economie, 4. Kritieke grondstoffen | 22-10-2026 t/m 03-12-2026 | € 1.850.000 |
 |  | 4.2.44 | Missiegedreven Onderzoek, Ontwikkeling en Innovatie (MOOI) | 1. MOOI-Missie Elektriciteit: innovatiethema 1, 2, 3, 4 | 02-06-2026 t/m 03-09-2026 | € 20.000.000 |
 |  |  |  | 1. MOOI-Missie Elektriciteit: innovatiethema 5 | 05-01-2026 t/m 12-02-2026 | € 12.600.000 |
 |  |  |  | 2. MOOI-Missie Gebouwde omgeving | 02-06-2026 t/m 03-09-2026 | € 20.000.000 |
@@ -119,7 +122,9 @@ opgehaald: 2026-09-30
 |  | 4.12.2, eerste lid, onderdeel c |  | Flexibiliteitsmaatregelen < 100 kW | 06-05-2026 t/m 15-10-2026 | € 6.460.229 |
 |  | 4.12.2, eerste lid, onderdeel d |  | Flexibiliteitsmaatregelen ≥ 100 kW | 06-05-2026 t/m 15-10-2026 | € 9.690.344 |
 | Titel 4.13: Nationale Investeringsmodule Klimaatprojecten Industrie (NIKI) | 4.13.2 |  |  | 16-11-2026 t/m 16-12-2026 | € 250.000.000 |
+| Titel 4.14: Energiebesparingsleningen voor het midden- en kleinbedrijf | 4.14.2, eerste lid |  |  | 01-10-2026 t/m 15-12-2026 | € 5.000.000 |
 | Titel 4.15: Subsidieregeling omschakeling naar verwerking circulaire plastics. | 4.15.2, eerste lid |  |  | 6-10-2026 t/m 15-12-2026 | € 2.2 mln. |
+| Titel 4.16: Onderzoek Energiehubs (EHUB) | 4.16.2 |  |  | 01-10-2026 t/m 01-05-2027 | € 9.600.000 |
 | Titel 4a.3: Cyberbeveiligingsinnovatieprojecten | 4a.3.2, eerste lid, onderdeel a |  | Het deelgebied ‘het bevorderen van crypto-agility’. | 09-12-2025 t/m 10-02-2026 | € 1.250.000 |
 |  | 4a.3.2, eerste lid, onderdeel b |  | Het deelgebied ‘het vereenvoudigen en meer kostenefficiënt maken van cyberbeveiligingsoplossingen’. | 09-12-2025 t/m 10-02-2026 | € 1.250.000 |
 
@@ -144,6 +149,7 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- e
 | Instrument | Artikel | Groep | Thema/programma | Openstelling | Plafond |
 | Paragraaf 3.4: Innovatieve projecten in de aquacultuur | 3.4.1 | – | Innovatie in de aquacultuur | 31-07-2026 t/m 29-10-2026 | € 3.300.000 |
 | Paragraaf 3.6: Vernieuwingen in de keten van visserij en aquacultuur | 3.6.1 |  | Bevordering van de afzet, de kwaliteit en de toegevoegde waarde van visserij- en aquacultuurproducten en de verwerking van die producten | 20-10-2025 t/m 22-01-2026 | € 1.800.000 |
+|  | 3.6.1 | – | Bevordering van de afzet, de kwaliteit en de toegevoegde waarde van visserij- en aquacultuurproducten en de verwerking van die producten | 23-11-2026 t/m 21-01-2027 | € 3.400.000 |
 | Paragraaf 3.8: Steun voor hogere bedrijfskosten visserij | 3.8.2 |  | Steun voor hogere bedrijfskosten visserij als gevolg van de situatie in het Midden-Oosten | 20-08-2026 t/m 03-09-2026 | € 13.500.000 |
 |  | 3.8.2 |  | Steun voor hogere bedrijfskosten visserij als gevolg van de situatie in het Midden-Oosten | 16-10-2026 t/m 30-10-2026 | € 6.020.000 |
 | Titel 5.5: Brede weersverzekering | 5.5.2 |  |  | 01-03-2026 t/m 18-05-2026 | € 17.500.000 |
@@ -159,6 +165,7 @@ De percentages, bedoeld in [artikel 3.9.9 van de Regeling nationale EZ-, LVVN- e
 |  | 5.8.3 |  | Verhogen grondwaterstand in veenweidegebieden | 22-04-2026 t/m 08-06-2026 | € 39.000.000 |
 |  | 5.8.4 |  | Extensivering in overgangsgebieden N2000 | 22-04-2026 t/m 08-06-2026 | € 78.778.000 |
 | Titel 5.9: Subsidie voor de vestiging van jonge landbouwers | 5.9.2 | Jonge landbouwers | Het stimuleren van jonge landbouwers bij de vestiging van een landbouwbedrijf met als doel generatievernieuwing | 02-03-2026 t/m 01-05-2026 | € 60.455.791 |
+| Paragraaf 5.10: Productieve investeringen dierwaardig omgevingsklimaat | 5.10.2 |  | Het aanschaffen en installeren van een investeringen in een dierwaardig omgevingsklimaat op een veehouderij binnen de volgende sectoren legkippen, opfoklegkippen, vleeskuikens, of ouderdieren, varkens of rundvee. | € 5.443.800,– | 24-11-2026 t/m 19-01-2027 |
 
 ##### Artikel 4. Intrekken Regeling
 

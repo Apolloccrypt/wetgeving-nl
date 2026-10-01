@@ -9,7 +9,7 @@ laatste_update: 2000-06-01
 status: geldig
 toestand: 2000-06-01
 bron: "https://wetten.overheid.nl/BWBR0010183"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 24 december 1998 tot wijziging van de Wet op de kansspelen (speelautomaten)

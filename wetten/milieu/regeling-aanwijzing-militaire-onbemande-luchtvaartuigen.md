@@ -8,7 +8,7 @@ laatste_update: 2000-02-11
 status: geldig
 toestand: 2000-02-11
 bron: "https://wetten.overheid.nl/BWBR0011104"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling aanwijzing militaire onbemande luchtvaartuigen

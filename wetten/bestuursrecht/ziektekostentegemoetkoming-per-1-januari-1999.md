@@ -8,7 +8,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0010337"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Ziektekostentegemoetkoming per 1 januari 1999

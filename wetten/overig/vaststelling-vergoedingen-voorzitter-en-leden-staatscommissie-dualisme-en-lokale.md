@@ -8,7 +8,7 @@ laatste_update: 1998-12-23
 status: geldig
 toestand: 1998-12-23
 bron: "https://wetten.overheid.nl/BWBR0010027"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Vaststelling vergoedingen voorzitter en leden Staatscommissie Dualisme en lokale democratie

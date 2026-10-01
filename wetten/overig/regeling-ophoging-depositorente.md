@@ -9,7 +9,7 @@ laatste_update: 1999-01-30
 status: geldig
 toestand: 1999-01-30
 bron: "https://wetten.overheid.nl/BWBR0010240"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling ophoging depositorente van de Europese Centrale Bank voor de toepassing van een aantal fiscale wetten c.a.

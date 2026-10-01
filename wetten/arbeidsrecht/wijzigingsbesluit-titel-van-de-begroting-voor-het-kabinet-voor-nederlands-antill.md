@@ -9,7 +9,7 @@ laatste_update: 1999-04-23
 status: geldig
 toestand: 1999-04-23
 bron: "https://wetten.overheid.nl/BWBR0010402"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 10 april 1999, houdende wijziging van de titel van de begroting voor het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken

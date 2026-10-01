@@ -9,7 +9,7 @@ laatste_update: 1999-03-25
 status: geldig
 toestand: 1999-03-25
 bron: "https://wetten.overheid.nl/BWBR0010319"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Belarussische voorschriften tot uitvoering van het op 26 maart 1996 tussen Nederland en Belarus gesloten Verdrag tot het vermijden van dubbele belasting

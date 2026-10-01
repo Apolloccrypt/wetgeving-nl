@@ -8,7 +8,7 @@ laatste_update: 1998-12-05
 status: geldig
 toestand: 1998-12-05
 bron: "https://wetten.overheid.nl/BWBR0010049"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regelingen voorbehoud auteursrecht (Europese zijde euromunten)

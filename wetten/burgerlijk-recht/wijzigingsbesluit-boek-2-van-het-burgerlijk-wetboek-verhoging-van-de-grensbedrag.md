@@ -9,7 +9,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0010914"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 1 december 1999 tot verhoging van de grensbedragen, genoemd in de artikelen 396 lid 1 en 397 lid 1 van boek 2 van het Burgerlijk Wetboek

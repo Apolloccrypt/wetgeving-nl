@@ -8,7 +8,7 @@ laatste_update: 2014-03-13
 status: geldig
 toestand: 2014-03-13
 bron: "https://wetten.overheid.nl/BWBR0010199"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers)

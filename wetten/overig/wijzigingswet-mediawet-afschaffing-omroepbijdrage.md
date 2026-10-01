@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0011027"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 22 december 1999 tot wijziging van de Mediawet in verband met nieuwe regels omtrent de financiering van de publieke omroep (afschaffing omroepbijdrage)

@@ -8,7 +8,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0009866"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling beheer archiefbescheiden

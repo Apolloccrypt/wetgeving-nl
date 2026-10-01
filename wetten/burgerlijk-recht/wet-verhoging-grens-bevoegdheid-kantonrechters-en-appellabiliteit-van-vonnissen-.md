@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0009949"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 19 oktober 1998 tot verhoging van de grens van de bevoegdheid van de kantonrechters en van de appellabiliteit van vonnissen van deze rechters in burgerlijke zaken

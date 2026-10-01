@@ -9,7 +9,7 @@ laatste_update: 2005-08-03
 status: geldig
 toestand: 2005-08-03
 bron: "https://wetten.overheid.nl/BWBR0010244"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 28 januari 1999 tot herstel van wetstechnische gebreken en leemten in diverse wetten alsmede intrekking van enkele wetten die geen betekenis meer hebben (Reparatiewet I)

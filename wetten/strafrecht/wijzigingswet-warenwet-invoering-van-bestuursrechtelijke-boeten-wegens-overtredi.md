@@ -9,7 +9,7 @@ laatste_update: 2018-11-17
 status: geldig
 toestand: 2018-11-17
 bron: "https://wetten.overheid.nl/BWBR0010842"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 11 november 1999 tot wijziging van de Warenwet in verband met de invoering van bestuursrechtelijke boeten wegens overtredingen van voorschriften bij of krachtens de Warenwet gesteld

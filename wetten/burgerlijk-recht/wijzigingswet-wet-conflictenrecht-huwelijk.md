@@ -9,7 +9,7 @@ laatste_update: 1999-01-15
 status: geldig
 toestand: 1999-01-15
 bron: "https://wetten.overheid.nl/BWBR0010121"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 17 december 1998 tot wijziging van de Wet conflictenrecht huwelijk

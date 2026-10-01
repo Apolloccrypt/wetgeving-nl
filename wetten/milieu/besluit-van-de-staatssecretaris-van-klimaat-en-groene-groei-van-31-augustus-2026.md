@@ -9,7 +9,7 @@ laatste_update: 2026-09-24
 status: geldig
 toestand: 2026-09-24
 bron: "https://wetten.overheid.nl/BWBR0053118"
-opgehaald: 2026-09-30
+opgehaald: 2026-10-01
 ---
 
 # Besluit van de Staatssecretaris van Klimaat en Groene Groei van 31 augustus 2026, nr. RT-0000155875, houdende volmacht en machtiging voor het Rijksvastgoedbedrijf (Besluit volmacht en machtiging KGG voor het Rijksvastgoedbedrijf inzake aankopen onroerende zaken in voorkeursrechtgebieden Eemshaven en Terneuzen)

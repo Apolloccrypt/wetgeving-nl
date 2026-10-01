@@ -9,7 +9,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0009994"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 10 november 1998, houdende vaststelling regels ter uitvoering van artikel 4.10 van de Telecommunicatiewet betreffende nummerportabiliteit (Besluit nummerportabiliteit)

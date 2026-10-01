@@ -6,10 +6,11 @@ categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-10-15
 laatste_update: 2025-11-19
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-30
 toestand: 2025-11-19
 bron: "https://wetten.overheid.nl/BWBR0045694"
-opgehaald: 2026-09-01
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 12 oktober 2021, nr. IENW/BSK-2021/264008, houdende tijdelijke regels voor toekenning van specifieke uitkeringen ter stimulering van het nemen van maatregelen ten behoeve van doelmatiger en duurzamer gebruik van verkeersinfrastructuur 2021 (Tijdelijke stimuleringsregeling doelmatig en duurzaam gebruik verkeersinfrastructuur 2021)

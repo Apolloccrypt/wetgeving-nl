@@ -8,7 +8,7 @@ laatste_update: 2024-05-08
 status: geldig
 toestand: 2024-05-08
 bron: "https://wetten.overheid.nl/BWBR0010033"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit aanwijzing toezichthouders Telecommunicatiewet

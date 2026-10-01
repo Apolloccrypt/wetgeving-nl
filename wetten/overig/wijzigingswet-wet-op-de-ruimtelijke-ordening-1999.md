@@ -9,7 +9,7 @@ laatste_update: 2003-05-23
 status: geldig
 toestand: 2003-05-23
 bron: "https://wetten.overheid.nl/BWBR0010577"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 1 juli 1999, houdende wijziging van de Wet op de Ruimtelijke Ordening

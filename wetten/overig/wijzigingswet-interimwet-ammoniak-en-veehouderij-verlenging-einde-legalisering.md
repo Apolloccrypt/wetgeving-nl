@@ -9,7 +9,7 @@ laatste_update: 1999-08-26
 status: geldig
 toestand: 1999-08-26
 bron: "https://wetten.overheid.nl/BWBR0010592"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 8 juli 1999 tot wijziging van de Interimwet ammoniak en veehouderij (verlenging; einde legalisering)

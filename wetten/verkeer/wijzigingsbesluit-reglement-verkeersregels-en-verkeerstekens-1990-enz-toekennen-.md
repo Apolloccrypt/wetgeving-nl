@@ -9,7 +9,7 @@ laatste_update: 2000-05-01
 status: geldig
 toestand: 2000-05-01
 bron: "https://wetten.overheid.nl/BWBR0010688"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 30 augustus 1999, houdende wijziging van het Reglement verkeersregels en verkeerstekens 1990 en het Besluit administratieve bepalingen inzake het wegverkeer, in verband met het toekennen van verkeersregelende bevoegdheden aan verkeersregelaars

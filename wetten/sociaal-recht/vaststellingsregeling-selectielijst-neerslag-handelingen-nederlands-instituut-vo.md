@@ -8,7 +8,7 @@ laatste_update: 1999-11-11
 status: geldig
 toestand: 1999-11-11
 bron: "https://wetten.overheid.nl/BWBR0010638"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Vaststellingsregeling selectielijst neerslag handelingen Nederlands Instituut voor Brandweer en Rampenbestrijding (brandweerzorg, rampenbestrijding en crisisbeheersing)

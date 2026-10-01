@@ -9,7 +9,7 @@ laatste_update: 1999-01-01
 status: geldig
 toestand: 1999-01-01
 bron: "https://wetten.overheid.nl/BWBR0010089"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 11 december 1998, houdende wijziging van het Uitvoeringsbesluit omzetbelasting 1968 (wijziging BTW-regime voor bad- en zweminrichtingen)

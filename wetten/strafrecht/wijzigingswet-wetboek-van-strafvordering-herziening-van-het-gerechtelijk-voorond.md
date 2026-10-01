@@ -9,7 +9,7 @@ laatste_update: 2000-02-01
 status: geldig
 toestand: 2000-02-01
 bron: "https://wetten.overheid.nl/BWBR0010476"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 27 mei 1999 tot partiële wijziging van het Wetboek van Strafvordering (herziening van het gerechtelijk vooronderzoek)

@@ -8,7 +8,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0010154"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling burgerluchtvaartinlichtingen

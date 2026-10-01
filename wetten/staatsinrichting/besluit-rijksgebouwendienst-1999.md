@@ -9,7 +9,7 @@ laatste_update: 2008-10-01
 status: geldig
 toestand: 2008-10-01
 bron: "https://wetten.overheid.nl/BWBR0009888"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 8 september 1998, houdende regels betreffende de Rijksgebouwendienst (Besluit Rijksgebouwendienst 1999)

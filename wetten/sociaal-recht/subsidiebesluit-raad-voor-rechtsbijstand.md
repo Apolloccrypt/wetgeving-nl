@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0010393"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 7 april 1999, houdende regels omtrent het verstrekken van subsidie aan de raden voor rechtsbijstand voor de uitvoering van hun wettelijke taak (Subsidiebesluit raden voor rechtsbijstand)

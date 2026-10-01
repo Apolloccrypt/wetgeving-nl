@@ -9,7 +9,7 @@ laatste_update: 2004-02-13
 status: geldig
 toestand: 2004-02-13
 bron: "https://wetten.overheid.nl/BWBR0010309"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 4 maart 1999 tot wijziging van bepalingen van de Mediawet in verband met de privatisering van het Nederlands Omroepproduktie Bedrijf N.V.

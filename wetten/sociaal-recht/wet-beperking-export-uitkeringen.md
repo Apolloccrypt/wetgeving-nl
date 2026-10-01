@@ -9,7 +9,7 @@ laatste_update: 2000-01-01
 status: geldig
 toestand: 2000-01-01
 bron: "https://wetten.overheid.nl/BWBR0010479"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 27 mei 1999, tot wijziging van de Ziektewet, de Wet op de arbeidsongeschiktheidsverzekering en enkele andere wetten in verband met de beperking van het exporteren van uitkeringen (Wet beperking export uitkeringen)

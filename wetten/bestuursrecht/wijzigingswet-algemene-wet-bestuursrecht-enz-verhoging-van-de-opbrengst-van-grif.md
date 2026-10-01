@@ -9,7 +9,7 @@ laatste_update: 1999-09-01
 status: geldig
 toestand: 1999-09-01
 bron: "https://wetten.overheid.nl/BWBR0010181"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 24 december 1998 tot wijziging van de Algemene wet bestuursrecht, de Beroepswet, de Wet administratieve rechtspraak belastingzaken, het Wetboek van Burgerlijke Rechtsvordering, de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de Wet op de Raad van State, de Wet op de studiefinanciering, de Wet tarieven in burgerlijke zaken en andere wetten ter verhoging van de opbrengst van de griffierechten (verhoging van de opbrengst van griffierechten)

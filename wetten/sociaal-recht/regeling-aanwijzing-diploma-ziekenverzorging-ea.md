@@ -8,7 +8,7 @@ laatste_update: 2019-08-21
 status: geldig
 toestand: 2019-08-21
 bron: "https://wetten.overheid.nl/BWBR0011010"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling aanwijzing diploma Ziekenverzorging e.a.

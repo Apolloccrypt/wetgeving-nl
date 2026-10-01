@@ -8,7 +8,7 @@ laatste_update: 1999-04-09
 status: geldig
 toestand: 1999-04-09
 bron: "https://wetten.overheid.nl/BWBR0010321"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Vaststelling selectielijsten archiefbescheiden deelbeleidsterrein speciaal onderwijs

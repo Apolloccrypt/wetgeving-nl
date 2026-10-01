@@ -5,11 +5,11 @@ identifier: "BWBR0035072"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2015-03-01
-laatste_update: 2026-07-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-07-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0035072"
-opgehaald: 2026-08-21
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 april 2014, nr. IenM/BSK-2014/88344, houdende regels met betrekking tot het ingeperkt gebruik en de doelbewuste introductie in het milieu van genetisch gemodificeerde organismen (Regeling genetisch gemodificeerde organismen milieubeheer 2013)
@@ -22,13 +22,13 @@ opgehaald: 2026-08-21
 
 De volgende onderdelen van deze regeling gelden mede voor degene die een milieubelastende activiteit verricht als bedoeld in [artikel 3.246 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.246):
 
-- a. [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=1&afdeling=1.2&artikel=2&z=2026-07-01&g=2026-07-01), voor zover de begripsomschrijvingen van belang zijn voor de toepassing van de inrichtingsvoorschriften die zijn opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-07-01&g=2026-07-01);
+- a. [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=1&afdeling=1.2&artikel=2&z=2026-10-01&g=2026-10-01), voor zover de begripsomschrijvingen van belang zijn voor de toepassing van de inrichtingsvoorschriften die zijn opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-10-01&g=2026-10-01);
 
-- b. [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=15&z=2026-07-01&g=2026-07-01);
+- b. [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=15&z=2026-10-01&g=2026-10-01);
 
-- c. [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.4&artikel=24&z=2026-07-01&g=2026-07-01) en de op dat artikel berustende [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-07-01&g=2026-07-01), voor zover het betreft de in die bijlage opgenomen inrichtingsvoorschriften;
+- c. [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.4&artikel=24&z=2026-10-01&g=2026-10-01) en de op dat artikel berustende [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-10-01&g=2026-10-01), voor zover het betreft de in die bijlage opgenomen inrichtingsvoorschriften;
 
-- d. [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=5&afdeling=5.3&artikel=49&z=2026-07-01&g=2026-07-01), en de op dat artikel berustende [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=12&z=2026-07-01&g=2026-07-01);
+- d. [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=5&afdeling=5.3&artikel=49&z=2026-10-01&g=2026-10-01), en de op dat artikel berustende [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=12&z=2026-10-01&g=2026-10-01);
 
 - e. andere onderdelen van, en bijlagen bij, deze regeling, voor zover zij van belang zijn voor de toepassing van de inrichtingsvoorschriften.
 
@@ -103,7 +103,7 @@ De volgende onderdelen van deze regeling gelden mede voor degene die een milieub
 
 - *ODG:* overig deel ggo-gebied, zijnde het ggo-gebied met uitzondering van de werkruimten waaraan een categorie van fysische inperking is toegekend;
 
-- *onderzoeksleider:* onderzoeksleider, bedoeld in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=8&z=2026-07-01&g=2026-07-01);
+- *onderzoeksleider:* onderzoeksleider, bedoeld in [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=8&z=2026-10-01&g=2026-10-01);
 
 - *ongekarakteriseerde sequentie:* sequentie die geen gekarakteriseerde sequentie is;
 
@@ -133,7 +133,7 @@ De volgende onderdelen van deze regeling gelden mede voor degene die een milieub
 
    - d. de genen voor replicatie en packaging zijn verdeeld over de andere twee plasmiden waarop het packagingsignaal en de LTR’s ontbreken en het pseudotyperingsenvelopeiwit is afkomstig van andere virussen dan lentivirussen;
 
-- *verantwoordelijk medewerker:* verantwoordelijk medewerker, bedoeld in [artikel 8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=8&z=2026-07-01&g=2026-07-01);
+- *verantwoordelijk medewerker:* verantwoordelijk medewerker, bedoeld in [artikel 8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=8&z=2026-10-01&g=2026-10-01);
 
 - *vergunninghouder:* natuurlijke persoon of rechtspersoon aan wie een vergunning als bedoeld in [artikel 3.2, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.2) is verleend;
 
@@ -141,19 +141,21 @@ De volgende onderdelen van deze regeling gelden mede voor degene die een milieub
 
 - *virale sequentie:* iedere sequentie die direct of oorspronkelijk uit een virus afkomstig is of daarvan synthetisch is nagemaakt, of iedere daarvan afgeleide sequentie;
 
-- *virale vector:* vector die nucleïnezuursequenties bevat afkomstig van een voor plantaardige, dierlijke of humane cellen infectieus virus, en die dat genetisch materiaal aan eukaryote cellen kan toevoegen, met dien verstande dat de betrokken virale sequenties kunnen leiden tot replicatie van de vector of delen hiervan, of tot integratie van genetische informatie van de vector of delen hiervan in het genetisch materiaal van de cel.
+- *virale vector:* vector die nucleïnezuursequenties bevat afkomstig van een voor plantaardige, dierlijke of humane cellen infectieus virus, en die dat genetisch materiaal aan eukaryote cellen kan toevoegen, met dien verstande dat de betrokken virale sequenties kunnen leiden tot replicatie van de vector of delen hiervan, of tot integratie van genetische informatie van de vector of delen hiervan in het genetisch materiaal van de cel;
+
+- *zelfstandige afvalverbrandingsinstallatie:* een afvalverbrandingsinstallatie die bestemd is voor het verbranden van afval van derden en die geen onderdeel is van de instelling van een gebruiker die zich van het afval ontdoet.
 
 2. In deze regeling wordt verstaan onder vergunning:
 
-- a. voor de toepassing van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&z=2026-07-01&g=2026-07-01): vergunning als bedoeld in [afdeling 2.2.3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&afdeling=2.2.3);
+- a. voor de toepassing van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&z=2026-10-01&g=2026-10-01): vergunning als bedoeld in [afdeling 2.2.3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&afdeling=2.2.3);
 
-- b. voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&z=2026-07-01&g=2026-07-01): vergunning als bedoeld in [artikel 3.2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.2).
+- b. voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&z=2026-10-01&g=2026-10-01): vergunning als bedoeld in [artikel 3.2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.2).
 
 #### Afdeling 1.3. Overbrenging en vervoer
 
 ##### Artikel 3
 
-1. Overbrenging van genetisch gemodificeerde organismen binnen een instelling geschiedt overeenkomstig de bepalingen, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=1&z=2026-07-01&g=2026-07-01), onder 1.1, indien de overbrenging plaatsvindt:
+1. Overbrenging van genetisch gemodificeerde organismen binnen een instelling geschiedt overeenkomstig de bepalingen, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=1&z=2026-10-01&g=2026-10-01), onder 1.1, indien de overbrenging plaatsvindt:
 
 - a. in het kader van ingeperkt gebruik of doelbewuste introductie voor overige doeleinden,
 
@@ -165,7 +167,7 @@ De volgende onderdelen van deze regeling gelden mede voor degene die een milieub
 
 ##### Artikel 4
 
-Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.6) geschiedt overeenkomstig de bepalingen, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=1&z=2026-07-01&g=2026-07-01), onder 1.2, indien het vervoer plaatsvindt:
+Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.6) geschiedt overeenkomstig de bepalingen, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=1&z=2026-10-01&g=2026-10-01), onder 1.2, indien het vervoer plaatsvindt:
 
 - a. buiten een instelling;
 
@@ -175,7 +177,7 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 ##### Artikel 5
 
-1. Ingeval genetisch gemodificeerde organismen worden opgeslagen naar aanleiding van een bevel dat is gegeven krachtens [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.31), [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.34), [artikel 2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.51) of [artikel 2.54 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.54), geschiedt de opslag overeenkomstig de van toepassing zijnde categorie van fysische inperking en de daarbij behorende voorschriften van [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-07-01&g=2026-07-01).
+1. Ingeval genetisch gemodificeerde organismen worden opgeslagen naar aanleiding van een bevel dat is gegeven krachtens [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.31), [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.34), [artikel 2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.51) of [artikel 2.54 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.54), geschiedt de opslag overeenkomstig de van toepassing zijnde categorie van fysische inperking en de daarbij behorende voorschriften van [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-10-01&g=2026-10-01).
 
 2. Indien genetisch gemodificeerde organismen worden opgeslagen naar aanleiding van een bevel krachtens [artikel 3.28 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.28), dan wel naar aanleiding van een besluit als bedoeld in [artikel 5.3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=5.3), geschiedt de opslag zodanig dat de genetisch gemodificeerde organismen zich niet kunnen verspreiden of vermenigvuldigen en zij niet vermengd kunnen raken met niet genetisch gemodificeerde organismen. De opslag is herkenbaar door een aanduiding met het opschrift ‘opslag genetisch gemodificeerde organismen waarop een schorsings- of stakingsbevel van toepassing is’.
 
@@ -185,7 +187,7 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 ##### Artikel 6
 
-1. De gebruiker stelt één of meer door de Minister overeenkomstig de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.2&artikel=11&z=2026-07-01&g=2026-07-01) toegelaten biologischeveiligheidsfunctionarissen aan.
+1. De gebruiker stelt één of meer door de Minister overeenkomstig de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.2&artikel=11&z=2026-10-01&g=2026-10-01) toegelaten biologischeveiligheidsfunctionarissen aan.
 
 2. Voor elke categorie van fysische inperking waarin activiteiten met genetisch gemodificeerde organismen worden verricht, is voorafgaand aan de activiteiten in de betreffende categorie van fysische inperking een daarvoor toegelaten biologischeveiligheidsfunctionaris aangesteld.
 
@@ -245,6 +247,8 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 5. Indien onder de verantwoordelijkheid van de gebruiker activiteiten met genetisch gemodificeerde organismen worden verricht door personen die niet in dienst zijn van de gebruiker, is de zeggenschap van de gebruiker over deze personen schriftelijk vastgelegd.
 
+6. In het geval van een zelfstandige afvalverbrandingsinstallatie voorziet de gebruiker in afwijking van het eerste lid, in de aanwijzing van een of meer medewerkers, bij naam of bij functie, die worden belast met de verantwoordelijkheden van de onderzoeksleider.
+
 ##### Artikel 9
 
 1. De gebruiker voorziet in het opstellen van procedures voor:
@@ -263,7 +267,7 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 - d. het beoordelen van de vakbekwaamheid van medewerkers met betrekking tot het veilig werken met genetisch gemodificeerde organismen, waarbij, voor zover nodig, nadere instructie of scholing van de medewerkers wordt voorgeschreven;
 
-- e. de beoordeling en goedkeuring door de biologischeveiligheidsfunctionaris van interne procedures en veiligheidsvoorschriften als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=7&z=2026-07-01&g=2026-07-01), en wijzigingen daarvan, die door de onderzoeksleider of de verantwoordelijk medewerker zijn opgesteld.
+- e. de beoordeling en goedkeuring door de biologischeveiligheidsfunctionaris van interne procedures en veiligheidsvoorschriften als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=7&z=2026-10-01&g=2026-10-01), en wijzigingen daarvan, die door de onderzoeksleider of de verantwoordelijk medewerker zijn opgesteld.
 
 3. De gebruiker voorziet in het opstellen van veiligheidsvoorschriften voor:
 
@@ -287,7 +291,7 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 1. De gebruiker voorziet in een op één plaats binnen de instelling gehouden toegankelijke administratie, waarin ten minste zijn opgenomen:
 
-- a. de op schrift gestelde aanstellingen, aanwijzingen, bevoegdheden, instructies, procedures en voorschriften als bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=6&z=2026-07-01&g=2026-07-01);
+- a. de op schrift gestelde aanstellingen, aanwijzingen, bevoegdheden, instructies, procedures en voorschriften als bedoeld in de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=6&z=2026-10-01&g=2026-10-01);
 
 - b. een overzicht van de door de gebruiker gedane kennisgevingen onder vermelding van de verschillende onderzoeksleiders per kennisgeving;
 
@@ -305,13 +309,13 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 - g. de resultaten van een periodieke inventarisatie, uitgevoerd over de gehele instelling, van de organisatie-onderdelen die activiteiten met genetisch gemodificeerde organismen uitvoeren;
 
-- h. de resultaten van de controle op de uitvoering van de procedures voor het uitvoeren van risicobeoordelingen en de uitvoering van de procedures als bedoeld in [artikel 9, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=9&z=2026-07-01&g=2026-07-01);
+- h. de resultaten van de controle op de uitvoering van de procedures voor het uitvoeren van risicobeoordelingen en de uitvoering van de procedures als bedoeld in [artikel 9, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=9&z=2026-10-01&g=2026-10-01);
 
 - i. gegevens, onder vermelding van de datum, betreffende:
 
-   - 1°. de uitvoering van de interne controle, bedoeld in [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=9&z=2026-07-01&g=2026-07-01), en
+   - 1°. de uitvoering van de interne controle, bedoeld in [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=9&z=2026-10-01&g=2026-10-01), en
 
-   - 2°. incidenten, ongevallen en afwijkingen van de geldende regels, bedoeld in [artikel 9, eerste lid en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=9&z=2026-07-01&g=2026-07-01), alsmede de evaluatie en rapportage daarvan aan de gebruiker, de onderzoeksleider en de verantwoordelijk medewerker;
+   - 2°. incidenten, ongevallen en afwijkingen van de geldende regels, bedoeld in [artikel 9, eerste lid en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=9&z=2026-10-01&g=2026-10-01), alsmede de evaluatie en rapportage daarvan aan de gebruiker, de onderzoeksleider en de verantwoordelijk medewerker;
 
 - j. een inzichtelijk overzicht van de in de instelling bijgehouden administratieve gegevens als bedoeld in het tweede lid onder vermelding van de ruimte waar deze gegevens zich bevinden.
 
@@ -345,7 +349,7 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 - d. een lijst met de namen van andere personen dan bedoeld onder c, die activiteiten met genetisch gemodificeerde organismen verrichten, onder vermelding van de onderzoeksleider of de verantwoordelijk medewerker onder wiens dagelijkse leiding zij de activiteiten verrichten, alsmede de periode gedurende welke zij in de instelling werkzaam zijn;
 
-- e. de vastlegging van de data en resultaten van de uitvoering van de voorschriften, bedoeld in [artikel 9, derde lid, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=9&z=2026-07-01&g=2026-07-01);
+- e. de vastlegging van de data en resultaten van de uitvoering van de voorschriften, bedoeld in [artikel 9, derde lid, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=9&z=2026-10-01&g=2026-10-01);
 
 - f. de werkprotocollen die door de onderzoeksleider dan wel de verantwoordelijk medewerker zijn opgesteld;
 
@@ -353,13 +357,13 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 - h. een overzicht per werkruimte van inperkingsniveau III of inperkingsniveau IV van de medewerkers die bevoegd zijn die werkruimte te betreden;
 
-- i. de opslag van afval dat genetisch gemodificeerde organismen bevat of kan bevatten als bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-07-01&g=2026-07-01), onderdeel ODG.
+- i. de opslag van afval dat genetisch gemodificeerde organismen bevat of kan bevatten als bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-10-01&g=2026-10-01), onderdeel ODG.
 
 ##### Artikel 10a
 
-1. In het geval van een zelfstandige afvalverbrandingsinstallatie zijn de [artikelen 9, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=9&z=2026-07-01&g=2026-07-01), en [10, eerste lid, onderdeel g en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=10&z=2026-07-01&g=2026-07-01), niet van toepassing.
+1. In het geval van een zelfstandige afvalverbrandingsinstallatie zijn de [artikelen 9, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=9&z=2026-10-01&g=2026-10-01), en [10, eerste lid, onderdeel g en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=10&z=2026-10-01&g=2026-10-01), niet van toepassing.
 
-2. In afwijking van [artikel 10, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=10&z=2026-07-01&g=2026-07-01), neemt de gebruiker van een zelfstandige afvalverbrandingsinstallatie in zijn administratie een actuele plattegrond van de instelling op, waarop de verschillende functionele delen van de afvalverbrandingsinstallatie zijn aangegeven.
+2. In afwijking van [artikel 10, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=10&z=2026-10-01&g=2026-10-01), neemt de gebruiker van een zelfstandige afvalverbrandingsinstallatie in zijn administratie een actuele plattegrond van de instelling op, waarop de verschillende functionele delen van de afvalverbrandingsinstallatie zijn aangegeven.
 
 #### Afdeling 2.2. Procedure voor toelating van een biologischeveiligheidsfunctionaris
 
@@ -367,7 +371,7 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 1. Een persoon kan op aanvraag door de Minister worden toegelaten als biologischeveiligheidsfunctionaris voor een of meer daarbij aangegeven categorieën van fysische inperking en inperkingsniveaus.
 
-2. Met het oog op een adequate uitvoering van de taken, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=7&z=2026-07-01&g=2026-07-01), beschikt de betrokkene in elk geval over:
+2. Met het oog op een adequate uitvoering van de taken, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=7&z=2026-10-01&g=2026-10-01), beschikt de betrokkene in elk geval over:
 
 - a. algemene kennis op het gebied van genetische modificatie en de toepasselijke regelgeving;
 
@@ -389,7 +393,7 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 - c. de categorie of categorieën van fysische inperking en het inperkingsniveau of de inperkingsniveaus waarvoor de toelating wordt aangevraagd;
 
-- d. informatie waaruit blijkt dat de aanvrager voldoet aan het bepaalde in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.2&artikel=11&z=2026-07-01&g=2026-07-01).
+- d. informatie waaruit blijkt dat de aanvrager voldoet aan het bepaalde in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.2&artikel=11&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 13
 
@@ -415,7 +419,7 @@ Vervoer van organismen als bedoeld in [artikel 1.6 van het Besluit](https://wett
 
 1. De biologischeveiligheidsfunctionaris kan een aanvraag indienen om wijziging van zijn toelating.
 
-2. De [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.2&artikel=11&z=2026-07-01&g=2026-07-01) zijn van overeenkomstige toepassing, met dien verstande dat eerder overgelegde gegevens die nog actueel zijn niet opnieuw behoeven te worden overgelegd.
+2. De [artikelen 11 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.2&artikel=11&z=2026-10-01&g=2026-10-01) zijn van overeenkomstige toepassing, met dien verstande dat eerder overgelegde gegevens die nog actueel zijn niet opnieuw behoeven te worden overgelegd.
 
 3. De Minister kan de toelating ambtshalve wijzigen of intrekken:
 
@@ -439,25 +443,27 @@ Als categorieën van fysische inperking worden, naast de categorieën van fysisc
 
 - a. apparatuurruimten, bedoeld voor handelingen met genetisch gemodificeerde organismen in apparaten op inperkingsniveau I, genaamd AP-I;
 
-- b. laboratoria, uitsluitend bedoeld voor activiteiten met genetisch gemodificeerde organismen die zijn vermeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=11&z=2026-07-01&g=2026-07-01) of die voldoen aan de criteria in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=6&z=2026-07-01&g=2026-07-01) voor S-I op inperkingsniveau I en III, genaamd S-I en S-III;
+- b. laboratoria, uitsluitend bedoeld voor activiteiten met genetisch gemodificeerde organismen die zijn vermeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=11&z=2026-10-01&g=2026-10-01) of die voldoen aan de criteria in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=6&z=2026-10-01&g=2026-10-01) voor S-I op inperkingsniveau I en III, genaamd S-I en S-III;
 
-- c. tentoonstellingsruimten, bedoeld voor het tentoonstellen van genetisch gemodificeerde organismen in een voor het publiek toegankelijke ruimte op inperkingsniveau I en III, genaamd TR-I en TR-III.
+- c. tentoonstellingsruimten, bedoeld voor het tentoonstellen van genetisch gemodificeerde organismen in een voor het publiek toegankelijke ruimte op inperkingsniveau I en III, genaamd TR-I en TR-III;
+
+- d. zelfstandige afvalverbrandingsinstallaties, bedoeld voor het verbranden van afval dat genetisch gemodificeerde organismen kan bevatten op inperkingsniveau I, genaamd AV-I.
 
 ##### Artikel 16
 
-1. De gebruiker voert de risicobeoordeling, bedoeld in [artikel 2.5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.5), uit overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=5&z=2026-07-01&g=2026-07-01).
+1. De gebruiker voert de risicobeoordeling, bedoeld in [artikel 2.5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.5), uit overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=5&z=2026-10-01&g=2026-10-01).
 
 2. Bij de risicobeoordeling geeft de gebruiker tevens toepassing aan:
 
-- a. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-07-01&g=2026-07-01), of onderdelen van die bijlage, voor zover daarnaar wordt verwezen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=5&z=2026-07-01&g=2026-07-01);
+- a. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-10-01&g=2026-10-01), of onderdelen van die bijlage, voor zover daarnaar wordt verwezen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=5&z=2026-10-01&g=2026-10-01);
 
-- b. [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=7&z=2026-07-01&g=2026-07-01), voor wat betreft de inschaling van genetisch gemodificeerde planten, met inbegrip van de daarbij aangegeven beschermingsmaatregelen.
+- b. [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=7&z=2026-10-01&g=2026-10-01), voor wat betreft de inschaling van genetisch gemodificeerde planten, met inbegrip van de daarbij aangegeven beschermingsmaatregelen.
 
-3. Bij de risicobeoordeling hanteert de gebruiker uitsluitend de indeling in klassen van pathogene micro-organismen die is aangegeven in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=4&z=2026-07-01&g=2026-07-01).
+3. Bij de risicobeoordeling hanteert de gebruiker uitsluitend de indeling in klassen van pathogene micro-organismen die is aangegeven in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=4&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 17
 
-De gebruiker kent, op basis van een risicobeoordeling die is uitgevoerd met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=16&z=2026-07-01&g=2026-07-01), toe:
+De gebruiker kent, op basis van een risicobeoordeling die is uitgevoerd met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=16&z=2026-10-01&g=2026-10-01), toe:
 
 - a. als categorie van fysische inperking: de categorie van fysische inperking die volgt uit de risicobeoordeling, met inbegrip van beschermingsmaatregelen, indien deze bij de risicobeoordeling in de beschouwing zijn betrokken;
 
@@ -475,7 +481,7 @@ De gebruiker kent, op basis van een risicobeoordeling die is uitgevoerd met toep
 
 2. *Vervallen.*
 
-3. De uitkomst van de risicobeoordeling omvat in elk geval de toegekende categorie van fysische inperking en het inperkingsniveau onder vermelding van het bijbehorende inschalingsartikel van deel I van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=5&z=2026-07-01&g=2026-07-01), en de eventuele aanvullende voorschriften voor specifieke gevallen onder vermelding van de toepasselijke inschalingsartikelen van deel II van bijlage 5.
+3. De uitkomst van de risicobeoordeling omvat in elk geval de toegekende categorie van fysische inperking en het inperkingsniveau onder vermelding van het bijbehorende inschalingsartikel van deel I van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=5&z=2026-10-01&g=2026-10-01), en de eventuele aanvullende voorschriften voor specifieke gevallen onder vermelding van de toepasselijke inschalingsartikelen van deel II van bijlage 5.
 
 4. Bij de vermelding van een inschalingsartikel, als bedoeld in het derde lid, worden tevens vermeld het lid van dat inschalingsartikel en, indien van toepassing, het onderdeel of de onderdelen van dat lid die hebben geleid tot de toe te passen categorie van fysische inperking en het inperkingsniveau.
 
@@ -497,7 +503,7 @@ De gebruiker kent, op basis van een risicobeoordeling die is uitgevoerd met toep
 
 ##### Artikel 19
 
-1. Als de gebruiker voornemens is een verzoek in te dienen als bedoeld in [artikel 2.8, tweede of derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090), voert hij een risicobeoordeling uit overeenkomstig de beginselen voor een risicobeoordeling, zoals aangegeven in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=8&z=2026-07-01&g=2026-07-01), tenzij het een verzoek als bedoeld in artikel 2.8, tweede lid, betreft, en dit verzoek betrekking heeft op:
+1. Als de gebruiker voornemens is een verzoek in te dienen als bedoeld in [artikel 2.8, tweede of derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090), voert hij een risicobeoordeling uit overeenkomstig de beginselen voor een risicobeoordeling, zoals aangegeven in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=8&z=2026-10-01&g=2026-10-01), tenzij het een verzoek als bedoeld in artikel 2.8, tweede lid, betreft, en dit verzoek betrekking heeft op:
 
 - a. inschaling op MI-I;
 
@@ -507,11 +513,11 @@ De gebruiker kent, op basis van een risicobeoordeling die is uitgevoerd met toep
 
 2. De gebruiker bewaart een verslag van de risicobeoordeling, bedoeld in het eerste lid.
 
-3. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=18&z=2026-07-01&g=2026-07-01) is van overeenkomstige toepassing op het verslag.
+3. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=18&z=2026-10-01&g=2026-10-01) is van overeenkomstige toepassing op het verslag.
 
 4. Het verslag omvat voorts in elk geval per groep van soortgelijke genetisch gemodificeerde organismen beschermingsmaatregelen, indien deze bij de risicobeoordeling in de beschouwing zijn betrokken.
 
-5. In afwijking van [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=18&z=2026-07-01&g=2026-07-01), omvat de uitkomst van de risicobeoordeling als bedoeld in het eerste lid in elk geval de toegekende categorie van fysische inperking en het inperkingsniveau, waarbij een bijlage wordt gevoegd waarin de risicobeoordeling wordt omschreven.
+5. In afwijking van [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=18&z=2026-10-01&g=2026-10-01), omvat de uitkomst van de risicobeoordeling als bedoeld in het eerste lid in elk geval de toegekende categorie van fysische inperking en het inperkingsniveau, waarbij een bijlage wordt gevoegd waarin de risicobeoordeling wordt omschreven.
 
 ##### Artikel 20
 
@@ -523,31 +529,31 @@ De gebruiker kent, op basis van een risicobeoordeling die is uitgevoerd met toep
 
 2. Bij een verzoek als bedoeld in [artikel 2.8, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.8) worden overgelegd:
 
-- a. een toelichting op het verzoek, onderbouwd door middel van het verslag van de risicobeoordeling, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=19&z=2026-07-01&g=2026-07-01);
+- a. een toelichting op het verzoek, onderbouwd door middel van het verslag van de risicobeoordeling, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=19&z=2026-10-01&g=2026-10-01);
 
 - b. de gegevens, aangewezen in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.15) of [artikel 2.36 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.36) en [bijlage 5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&bijlage=5).
 
 3. In afwijking van het tweede lid worden bij een verzoek als bedoeld in [artikel 2.8, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.8) dat betrekking heeft op inschaling op MI-I, overgelegd:
 
-- a. een toelichting op het verzoek, met een onderbouwing aan de hand van de criteria, opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=6&z=2026-07-01&g=2026-07-01), die aangeeft dat inschaling kan plaatsvinden op MI-I;
+- a. een toelichting op het verzoek, met een onderbouwing aan de hand van de criteria, opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=6&z=2026-10-01&g=2026-10-01), die aangeeft dat inschaling kan plaatsvinden op MI-I;
 
 - b. de gegevens, aangewezen in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.15) en [bijlage 5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&bijlage=5).
 
 4. In afwijking van het tweede lid worden bij een verzoek als bedoeld in [artikel 2.8, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.8) dat betrekking heeft op inschaling op S-I, overgelegd:
 
-- a. een toelichting op het verzoek, met een onderbouwing aan de hand van de criteria, opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=6&z=2026-07-01&g=2026-07-01), die aangeeft dat inschaling kan plaatsvinden op S-I;
+- a. een toelichting op het verzoek, met een onderbouwing aan de hand van de criteria, opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=6&z=2026-10-01&g=2026-10-01), die aangeeft dat inschaling kan plaatsvinden op S-I;
 
 - b. de gegevens, aangewezen in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.15) en [bijlage 5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&bijlage=5).
 
 5. In afwijking van het tweede lid worden bij een verzoek als bedoeld in [artikel 2.8, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.8), dat betrekking heeft op inschaling op TR-I, overgelegd:
 
-- a. een toelichting op het verzoek, inhoudende een beschrijving van de wijze waarop de organismen zullen worden tentoongesteld, een onderbouwing waaruit blijkt dat de tentoongestelde organismen niet in aanraking kunnen komen met het publiek en dat wordt voldaan aan de voorschriften voor TR-I in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-07-01&g=2026-07-01);
+- a. een toelichting op het verzoek, inhoudende een beschrijving van de wijze waarop de organismen zullen worden tentoongesteld, een onderbouwing waaruit blijkt dat de tentoongestelde organismen niet in aanraking kunnen komen met het publiek en dat wordt voldaan aan de voorschriften voor TR-I in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-10-01&g=2026-10-01);
 
 - b. de gegevens, bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.15) en [bijlage 5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&bijlage=5).
 
 6. Als over te leggen gegevens bij een verzoek als bedoeld in [artikel 2.8, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.8), worden aangewezen:
 
-- a. het verslag van de risicobeoordeling, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=19&z=2026-07-01&g=2026-07-01);
+- a. het verslag van de risicobeoordeling, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=19&z=2026-10-01&g=2026-10-01);
 
 - b. een toelichting op het verzoek;
 
@@ -555,11 +561,11 @@ De gebruiker kent, op basis van een risicobeoordeling die is uitgevoerd met toep
 
 ##### Artikel 21
 
-De combinaties van lijsten, bedoeld in [artikel 2.10, eerste lid, onder a, b en c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.10), zijn de combinaties van lijsten, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-07-01&g=2026-07-01).
+De combinaties van lijsten, bedoeld in [artikel 2.10, eerste lid, onder a, b en c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.10), zijn de combinaties van lijsten, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 22
 
-1. Als over te leggen gegevens bij een verzoek als bedoeld in [artikel 2.13, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.13), tot vaststelling dat een gastheer in aanmerking komt voor opname op [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-07-01&g=2026-07-01), lijst A1 van bijlage 2, worden aangewezen:
+1. Als over te leggen gegevens bij een verzoek als bedoeld in [artikel 2.13, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.13), tot vaststelling dat een gastheer in aanmerking komt voor opname op [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-10-01&g=2026-10-01), lijst A1 van bijlage 2, worden aangewezen:
 
 - a. gegevens waaruit blijkt dat het micro-organisme niet behoort tot een soort waarvan vertegenwoordigers bekend zijn die ziekteverwekkend zijn voor mens, dier of plant,
 
@@ -569,7 +575,7 @@ De combinaties van lijsten, bedoeld in [artikel 2.10, eerste lid, onder a, b en 
 
 - d. testgegevens die aantonen dat het micro-organisme niet-virulent is.
 
-2. Als over te leggen gegevens bij een verzoek, als bedoeld in [artikel 2.13, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.13), tot vaststelling dat een vector in aanmerking komt voor opname op lijst A2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-07-01&g=2026-07-01), worden aangewezen:
+2. Als over te leggen gegevens bij een verzoek, als bedoeld in [artikel 2.13, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.13), tot vaststelling dat een vector in aanmerking komt voor opname op lijst A2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-10-01&g=2026-10-01), worden aangewezen:
 
 - a. de grootte van de vector,
 
@@ -579,17 +585,17 @@ De combinaties van lijsten, bedoeld in [artikel 2.10, eerste lid, onder a, b en 
 
 - d. de origins of replication (ori’s) die aanwezig zijn in de vector,
 
-- e. gegevens waaruit blijkt dat de samenstellende delen niet behoren tot de groep van inserties zoals bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-07-01&g=2026-07-01), lijst A3, en
+- e. gegevens waaruit blijkt dat de samenstellende delen niet behoren tot de groep van inserties zoals bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-10-01&g=2026-10-01), lijst A3, en
 
 - f. gegevens waaruit blijkt dat de vector geen virale sequenties, afkomstig van virussen die hogere eukaryoten als gastheer hebben, bevat waardoor de vector als virale vector zou kunnen functioneren.
 
-3. Bij een verzoek als bedoeld in [artikel 2.13, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.13) tot vaststelling dat een insertie niet behoort tot de inserties die zijn opgenomen op lijst A3 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-07-01&g=2026-07-01) als aangegeven in bijlage 2, worden gegevens overgelegd waaruit blijkt dat de insertie niet voldoet aan de criteria die zijn opgenomen in bijlage 2, lijst A3.
+3. Bij een verzoek als bedoeld in [artikel 2.13, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.13) tot vaststelling dat een insertie niet behoort tot de inserties die zijn opgenomen op lijst A3 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=2&z=2026-10-01&g=2026-10-01) als aangegeven in bijlage 2, worden gegevens overgelegd waaruit blijkt dat de insertie niet voldoet aan de criteria die zijn opgenomen in bijlage 2, lijst A3.
 
 ##### Artikel 23
 
-1. Een gebruiker kan de Minister verzoeken om een daarbij aangegeven genetisch gemodificeerd organisme op te nemen in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=11&z=2026-07-01&g=2026-07-01).
+1. Een gebruiker kan de Minister verzoeken om een daarbij aangegeven genetisch gemodificeerd organisme op te nemen in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=11&z=2026-10-01&g=2026-10-01).
 
-2. Bij het verzoek worden gegevens overgelegd waaruit blijkt dat het organisme voldoet aan de criteria, opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=6&z=2026-07-01&g=2026-07-01), voor activiteiten onder laboratoriumcondities op S-I dan wel aan de criteria, opgenomen in bijlage II, onderdeel B, van richtlijn 2009/41, zoals aangevuld met daarop betrekking hebbende besluiten of aanbevelingen van de Raad van de Europese Unie of van de Europese Commissie.
+2. Bij het verzoek worden gegevens overgelegd waaruit blijkt dat het organisme voldoet aan de criteria, opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=6&z=2026-10-01&g=2026-10-01), voor activiteiten onder laboratoriumcondities op S-I dan wel aan de criteria, opgenomen in bijlage II, onderdeel B, van richtlijn 2009/41, zoals aangevuld met daarop betrekking hebbende besluiten of aanbevelingen van de Raad van de Europese Unie of van de Europese Commissie.
 
 3. De Minister zendt de verzoeker een bewijs van ontvangst van het verzoek.
 
@@ -597,7 +603,7 @@ De combinaties van lijsten, bedoeld in [artikel 2.10, eerste lid, onder a, b en 
 
 ##### Artikel 24
 
-Aan de categorieën van fysische inperking zoals opgenomen in [bijlage 4 bij het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&bijlage=4), en in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=15&z=2026-07-01&g=2026-07-01), zijn de voorschriften verbonden zoals die zijn aangegeven in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-07-01&g=2026-07-01).
+Aan de categorieën van fysische inperking zoals opgenomen in [bijlage 4 bij het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&bijlage=4), en in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.3&artikel=15&z=2026-10-01&g=2026-10-01), zijn de voorschriften verbonden zoals die zijn aangegeven in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=9&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 25
 
@@ -615,7 +621,7 @@ mits is voldaan aan de vereisten, aangegeven in het tweede lid.
 
 - a. de toevoeging valt binnen het doel van het onderzoek waarvoor de vergunning is afgegeven;
 
-- b. de toevoeging leidt tot toekenning van dezelfde categorie van fysische inperking, hetzelfde inperkingsniveau en hetzelfde onderdeel onderscheidenlijk dezelfde onderdelen van het inschalingsartikel van deel I van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=5&z=2026-07-01&g=2026-07-01) alsmede, indien van toepassing, hetzelfde inschalingsartikel dan wel dezelfde inschalingsartikelen van deel II van bijlage 5;
+- b. de toevoeging leidt tot toekenning van dezelfde categorie van fysische inperking, hetzelfde inperkingsniveau en hetzelfde onderdeel onderscheidenlijk dezelfde onderdelen van het inschalingsartikel van deel I van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=5&z=2026-10-01&g=2026-10-01) alsmede, indien van toepassing, hetzelfde inschalingsartikel dan wel dezelfde inschalingsartikelen van deel II van bijlage 5;
 
 - c. de uitkomst van de risicobeoordeling die ten grondslag ligt aan de reeds verleende vergunning, en de bij de risicobeoordeling in de beschouwing te betrekken beschermingsmaatregelen blijven ongewijzigd.
 
@@ -629,7 +635,7 @@ mits is voldaan aan de vereisten, aangegeven in het tweede lid.
 
 ##### Artikel 26
 
-1. De vergunninghouder stelt één of meer door de Minister overeenkomstig de [artikelen 30 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=30&z=2026-07-01&g=2026-07-01) toegelaten milieuveiligheidsfunctionarissen aan.
+1. De vergunninghouder stelt één of meer door de Minister overeenkomstig de [artikelen 30 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=30&z=2026-10-01&g=2026-10-01) toegelaten milieuveiligheidsfunctionarissen aan.
 
 2. Voor elke categorie van werkzaamheden waarin activiteiten met genetisch gemodificeerde organismen worden verricht, is een daarvoor toegelaten milieuveiligheidsfunctionaris aangesteld.
 
@@ -677,9 +683,9 @@ mits is voldaan aan de vereisten, aangegeven in het tweede lid.
 
 - a. de aan de vergunninghouder afgegeven vergunningen, daaronder begrepen wijzigingen van vergunningen, en de door de vergunninghouder gedane meldingen;
 
-- b. de door de vergunninghouder opgestelde en aan de Minister gestuurde beschrijving van voorgenomen werkzaamheden, zoals opgenomen in de vergunningen of in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-07-01&g=2026-07-01), en het overeenkomstig [artikel 3.27 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.27) en [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.3&artikel=43&z=2026-07-01&g=2026-07-01) opgestelde verslag;
+- b. de door de vergunninghouder opgestelde en aan de Minister gestuurde beschrijving van voorgenomen werkzaamheden, zoals opgenomen in de vergunningen of in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-10-01&g=2026-10-01), en het overeenkomstig [artikel 3.27 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.27) en [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.3&artikel=43&z=2026-10-01&g=2026-10-01) opgestelde verslag;
 
-- c. de instructies, bedoeld in [artikel 27, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=27&z=2026-07-01&g=2026-07-01).
+- c. de instructies, bedoeld in [artikel 27, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=27&z=2026-10-01&g=2026-10-01).
 
 2. Bij medische en veterinaire toepassingen worden voorts in de administratie opgenomen:
 
@@ -787,9 +793,9 @@ mits is voldaan aan de vereisten, aangegeven in het tweede lid.
 
 - t. indien van toepassing, na afronding van de werkzaamheden: de datum of data waarop het proefveld op opslag is gecontroleerd alsmede de datum of data waarop opslag is waargenomen, met de aantallen waargenomen opslagplanten, de wijze waarop deze planten zijn verwijderd en de wijze waarop het afval is verwerkt;
 
-- u. de datum waarop het verslag, als bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.3&artikel=43&z=2026-07-01&g=2026-07-01), is gezonden aan de Minister;
+- u. de datum waarop het verslag, als bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.3&artikel=43&z=2026-10-01&g=2026-10-01), is gezonden aan de Minister;
 
-- v. voor zover het betreft de op grond van [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39&z=2026-07-01&g=2026-07-01), aangewezen categorie van genetisch gemodificeerde organismen waarvoor een vergunning onder vaste voorschriften is verleend: de in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-07-01&g=2026-07-01) aangewezen gegevens.
+- v. voor zover het betreft de op grond van [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39&z=2026-10-01&g=2026-10-01), aangewezen categorie van genetisch gemodificeerde organismen waarvoor een vergunning onder vaste voorschriften is verleend: de in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-10-01&g=2026-10-01) aangewezen gegevens.
 
 ##### Artikel 29
 
@@ -801,7 +807,7 @@ De Minister legt een openbaar register aan waarin de locatie van overeenkomstig 
 
 1. De aanvrager of houder van een vergunning kan bij de Minister een aanvraag indienen om een persoon toe te laten als milieuveiligheidsfunctionaris binnen zijn organisatie. De aanvrager of houder van een vergunning geeft daarbij aan voor welke categorie of categorieën van werkzaamheden de toelating wordt aangevraagd.
 
-2. Met het oog op een adequate uitvoering van de taken, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=27&z=2026-07-01&g=2026-07-01), beschikt de persoon waarvoor toelating wordt gevraagd in elk geval over:
+2. Met het oog op een adequate uitvoering van de taken, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=27&z=2026-10-01&g=2026-10-01), beschikt de persoon waarvoor toelating wordt gevraagd in elk geval over:
 
 - a. algemene kennis op het gebied van genetische modificatie en de toepasselijke regelgeving;
 
@@ -819,7 +825,7 @@ De Minister legt een openbaar register aan waarin de locatie van overeenkomstig 
 
 - b. de categorie of categorieën van werkzaamheden;
 
-- c. informatie waaruit blijkt dat de persoon waarvoor toelating wordt gevraagd voldoet aan [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=30&z=2026-07-01&g=2026-07-01).
+- c. informatie waaruit blijkt dat de persoon waarvoor toelating wordt gevraagd voldoet aan [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=30&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 32
 
@@ -839,7 +845,7 @@ De Minister legt een openbaar register aan waarin de locatie van overeenkomstig 
 
 1. De houder van een vergunning kan een aanvraag indienen om wijziging van een toelating.
 
-2. De [artikelen 30 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=30&z=2026-07-01&g=2026-07-01) zijn van overeenkomstige toepassing, met dien verstande dat eerder overgelegde gegevens die nog actueel zijn niet opnieuw behoeven te worden overgelegd.
+2. De [artikelen 30 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=30&z=2026-10-01&g=2026-10-01) zijn van overeenkomstige toepassing, met dien verstande dat eerder overgelegde gegevens die nog actueel zijn niet opnieuw behoeven te worden overgelegd.
 
 3. De Minister kan de toelating ambtshalve wijzigen of intrekken indien:
 
@@ -921,7 +927,7 @@ De Minister legt een openbaar register aan waarin de locatie van overeenkomstig 
 
    - 3°. het toepassen van een andere vector met een soortgelijk construct waarbij geen ander antibioticum resistentiegen op de vectorbackbone gelegen is.
 
-4. Het tweede en derde lid zijn van overeenkomstige toepassing indien het een vergunning onder vaste voorschriften, als bedoeld in [paragraaf 3.3.2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&paragraaf=3.3.2), betreft, mits de doelbewuste introductie voor overige doeleinden na de beoogde verandering nog steeds voldoet aan het bepaalde in [artikel 39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39&z=2026-07-01&g=2026-07-01).
+4. Het tweede en derde lid zijn van overeenkomstige toepassing indien het een vergunning onder vaste voorschriften, als bedoeld in [paragraaf 3.3.2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&paragraaf=3.3.2), betreft, mits de doelbewuste introductie voor overige doeleinden na de beoogde verandering nog steeds voldoet aan het bepaalde in [artikel 39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 35
 
@@ -1005,7 +1011,7 @@ Als medische of veterinaire categorie van gevallen waarin een verandering in de 
 
 Als over te leggen gegevens, als bedoeld in [artikel 3.16, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.16), bij een melding van een voorgenomen verandering in de doelbewuste introductie voor overige doeleinden, worden aangewezen:
 
-- a. de van toepassing zijnde aangewezen categorie van gevallen als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=34&z=2026-07-01&g=2026-07-01), onderscheidenlijk [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=35&z=2026-07-01&g=2026-07-01);
+- a. de van toepassing zijnde aangewezen categorie van gevallen als bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=34&z=2026-10-01&g=2026-10-01), onderscheidenlijk [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.3&artikel=35&z=2026-10-01&g=2026-10-01);
 
 - b. het nummer van de vergunning waarop de melding plaatsvindt en de naam van de vergunninghouder;
 
@@ -1109,7 +1115,7 @@ Als categorie van genetisch gemodificeerde organismen als bedoeld in [artikel 3.
 
 ##### Artikel 40
 
-Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften, als bedoeld in [artikel 3.25, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25), die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39&z=2026-07-01&g=2026-07-01), worden aangewezen:
+Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften, als bedoeld in [artikel 3.25, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25), die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39&z=2026-10-01&g=2026-10-01), worden aangewezen:
 
 - a. gegevens betreffende de aanvrager, waaronder de naam en het adres van de rechtspersoon;
 
@@ -1131,7 +1137,7 @@ Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voors
 
 ##### Artikel 40a
 
-Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften als bedoeld in [artikel 3.25, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39a&z=2026-07-01&g=2026-07-01), worden aangewezen:
+Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften als bedoeld in [artikel 3.25, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39a&z=2026-10-01&g=2026-10-01), worden aangewezen:
 
 - a. gegevens betreffende de aanvrager, waaronder de naam en het adres van de rechtspersoon;
 
@@ -1141,11 +1147,11 @@ Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voors
 
 - d. het doel van de aanvraag;
 
-- e. een beschrijving van het productiesysteem van de in [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39a&z=2026-07-01&g=2026-07-01) bedoelde virale vectoren;
+- e. een beschrijving van het productiesysteem van de in [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39a&z=2026-10-01&g=2026-10-01) bedoelde virale vectoren;
 
-- f. een beschrijving van de in [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39a&z=2026-07-01&g=2026-07-01) bedoelde virale vectoren en de daarin aangebrachte modificaties;
+- f. een beschrijving van de in [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39a&z=2026-10-01&g=2026-10-01) bedoelde virale vectoren en de daarin aangebrachte modificaties;
 
-- g. gegevens betreffende de moleculaire karakterisering van de in [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39a&z=2026-07-01&g=2026-07-01) bedoelde virale vectoren;
+- g. gegevens betreffende de moleculaire karakterisering van de in [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39a&z=2026-10-01&g=2026-10-01) bedoelde virale vectoren;
 
 - h. gegevens betreffende de mogelijkheid tot vorming van replicatiecompetent Adeno-associated dependoparvovirus;
 
@@ -1155,7 +1161,7 @@ Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voors
 
 ##### Artikel 40b
 
-Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften als bedoeld in [artikel 3.25, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in [artikel 39b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39b&z=2026-07-01&g=2026-07-01), worden aangewezen:
+Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften als bedoeld in [artikel 3.25, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in [artikel 39b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39b&z=2026-10-01&g=2026-10-01), worden aangewezen:
 
 - a. gegevens betreffende de aanvrager, waaronder de naam en het adres van de rechtspersoon;
 
@@ -1165,11 +1171,11 @@ Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voors
 
 - d. het doel van de aanvraag;
 
-- e. een beschrijving van het productiesysteem van de in [artikel 39b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39b&z=2026-07-01&g=2026-07-01) aangewezen retrovirale vectoren dan wel lentivirale vectoren;
+- e. een beschrijving van het productiesysteem van de in [artikel 39b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39b&z=2026-10-01&g=2026-10-01) aangewezen retrovirale vectoren dan wel lentivirale vectoren;
 
-- f. een beschrijving van de in [artikel 39b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39b&z=2026-07-01&g=2026-07-01) aangewezen retrovirale dan wel lentivirale vectoren en de daarin aangebrachte modificaties;
+- f. een beschrijving van de in [artikel 39b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39b&z=2026-10-01&g=2026-10-01) aangewezen retrovirale dan wel lentivirale vectoren en de daarin aangebrachte modificaties;
 
-- g. gegevens betreffende de moleculaire karakterisering van de in [artikel 39b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39b&z=2026-07-01&g=2026-07-01) aangewezen retrovirale dan wel lentivirale vectoren;
+- g. gegevens betreffende de moleculaire karakterisering van de in [artikel 39b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39b&z=2026-10-01&g=2026-10-01) aangewezen retrovirale dan wel lentivirale vectoren;
 
 - h. gegevens betreffende het celproduct dat aan de proefpersoon wordt toegediend;
 
@@ -1181,7 +1187,7 @@ Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voors
 
 ##### Artikel 40c
 
-Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften, als bedoeld in [artikel 3.25, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-07-01&g=2026-07-01) worden aangewezen:
+Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften, als bedoeld in [artikel 3.25, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-10-01&g=2026-10-01) worden aangewezen:
 
 - a. gegevens betreffende de aanvrager, waaronder de naam en het adres van de rechtspersoon;
 
@@ -1191,23 +1197,23 @@ Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voors
 
 - d. het doel van de aanvraag;
 
-- e. een beschrijving van het productiesysteem van de in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-07-01&g=2026-07-01) aangewezen lentivirale vectoren;
+- e. een beschrijving van het productiesysteem van de in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-10-01&g=2026-10-01) aangewezen lentivirale vectoren;
 
-- f. een beschrijving van de in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-07-01&g=2026-07-01) aangewezen lentivirale vectoren en de daarin aangebrachte modificaties;
+- f. een beschrijving van de in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-10-01&g=2026-10-01) aangewezen lentivirale vectoren en de daarin aangebrachte modificaties;
 
-- g. gegevens betreffende de moleculaire karakterisering van de in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-07-01&g=2026-07-01) aangewezen lentivirale vectoren;
+- g. gegevens betreffende de moleculaire karakterisering van de in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-10-01&g=2026-10-01) aangewezen lentivirale vectoren;
 
-- h. gegevens betreffende het medisch product, bedoeld in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-07-01&g=2026-07-01), dat aan de proefpersonen wordt toegediend;
+- h. gegevens betreffende het medisch product, bedoeld in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-10-01&g=2026-10-01), dat aan de proefpersonen wordt toegediend;
 
 - i. gegevens over de afwezigheid van replicatiecompetent lentivirus;
 
-- j. gegevens over de hoeveelheid residuele infectieuze partikels in het medisch product, bedoeld in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-07-01&g=2026-07-01), dat aan de proefpersoon wordt toegediend;
+- j. gegevens over de hoeveelheid residuele infectieuze partikels in het medisch product, bedoeld in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-10-01&g=2026-10-01), dat aan de proefpersoon wordt toegediend;
 
 - k. een ingevuld deel B Summary Notification Information Format.
 
 ##### Artikel 40d
 
-Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften als bedoeld in [artikel 3.25, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-07-01&g=2026-07-01), worden aangewezen:
+Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voorschriften als bedoeld in [artikel 3.25, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) die betrekking heeft op de categorie van genetisch gemodificeerde organismen, aangewezen in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-10-01&g=2026-10-01), worden aangewezen:
 
 - a. gegevens betreffende de aanvrager, waaronder de naam en het adres van de rechtspersoon;
 
@@ -1217,13 +1223,13 @@ Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voors
 
 - d. het doel van de aanvraag;
 
-- e. een beschrijving van het productiesysteem van de in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-07-01&g=2026-07-01) bedoelde virale vectoren;
+- e. een beschrijving van het productiesysteem van de in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-10-01&g=2026-10-01) bedoelde virale vectoren;
 
-- f. een beschrijving van de in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-07-01&g=2026-07-01) bedoelde virale vectoren en de daarin aangebrachte modificaties;
+- f. een beschrijving van de in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-10-01&g=2026-10-01) bedoelde virale vectoren en de daarin aangebrachte modificaties;
 
-- g. gegevens betreffende de moleculaire karakterisering van de in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-07-01&g=2026-07-01) bedoelde virale vectoren;
+- g. gegevens betreffende de moleculaire karakterisering van de in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-10-01&g=2026-10-01) bedoelde virale vectoren;
 
-- h. gegevens betreffende het medisch product, bedoeld in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-07-01&g=2026-07-01), dat aan de proefpersoon wordt toegediend;
+- h. gegevens betreffende het medisch product, bedoeld in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-10-01&g=2026-10-01), dat aan de proefpersoon wordt toegediend;
 
 - i. gegevens betreffende de mogelijkheid tot vorming van replicatiecompetent Adeno-associated dependoparvovirus;
 
@@ -1233,23 +1239,23 @@ Als over te leggen gegevens bij een aanvraag om een vergunning onder vaste voors
 
 ##### Artikel 41
 
-Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39&z=2026-07-01&g=2026-07-01), waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) en [3.26 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.26), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-07-01&g=2026-07-01), deel A.
+Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39&z=2026-10-01&g=2026-10-01), waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) en [3.26 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.26), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-10-01&g=2026-10-01), deel A.
 
 ##### Artikel 41a
 
-Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39a&z=2026-07-01&g=2026-07-01), waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) en [3.26a van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.26a), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-07-01&g=2026-07-01), deel B.
+Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39a](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39a&z=2026-10-01&g=2026-10-01), waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) en [3.26a van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.26a), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-10-01&g=2026-10-01), deel B.
 
 ##### Artikel 41b
 
-Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39b&z=2026-07-01&g=2026-07-01), waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) en [3.26a van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.26a), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-07-01&g=2026-07-01), deel C.
+Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39b](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39b&z=2026-10-01&g=2026-10-01), waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) en [3.26a van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.26a), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-10-01&g=2026-10-01), deel C.
 
 ##### Artikel 41c
 
-Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-07-01&g=2026-07-01), waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) en [3.26a van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.26a), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-07-01&g=2026-07-01), deel D.
+Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39c](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39c&z=2026-10-01&g=2026-10-01), waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) en [3.26a van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.26a), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-10-01&g=2026-10-01), deel D.
 
 ##### Artikel 41d
 
-Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-07-01&g=2026-07-01), waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) en [3.26a van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.26a), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-07-01&g=2026-07-01), deel E.
+Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.2&artikel=39d&z=2026-10-01&g=2026-10-01), waarvoor met toepassing van de procedure, aangegeven in de [artikelen 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.25) en [3.26a van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=3.26a), een vergunning onder vaste voorschriften is verleend, worden, onverminderd het elders in deze regeling bepaalde en het bepaalde in de vergunning, uitgevoerd in overeenstemming met de voorschriften, vermeld in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=10&z=2026-10-01&g=2026-10-01), deel E.
 
 #### Afdeling 3.3. Overige bepalingen
 
@@ -1299,15 +1305,15 @@ Activiteiten met genetisch gemodificeerde organismen aangewezen in [artikel 39d]
 
 ##### Artikel 46
 
-Indien de uitvoerder, bedoeld in verordening 1946/2003, een administratie bijhoudt als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=10&z=2026-07-01&g=2026-07-01), of [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=28&z=2026-07-01&g=2026-07-01), maakt het dossier, bedoeld in artikel 6 van verordening 1946/2003, onderdeel van die administratie uit.
+Indien de uitvoerder, bedoeld in verordening 1946/2003, een administratie bijhoudt als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.1&artikel=10&z=2026-10-01&g=2026-10-01), of [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.1&artikel=28&z=2026-10-01&g=2026-10-01), maakt het dossier, bedoeld in artikel 6 van verordening 1946/2003, onderdeel van die administratie uit.
 
 #### Afdeling 5.3. Overgangsbepalingen
 
 ##### Artikel 47
 
-1. Na de inwerkingtreding van deze regeling berust de toelating van een biologischeveiligheidsfunctionaris, bedoeld in [artikel 4, eerste lid, van de Regeling genetisch gemodificeerde organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0009653&artikel=4), op [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.2&artikel=11&z=2026-07-01&g=2026-07-01), van deze regeling.
+1. Na de inwerkingtreding van deze regeling berust de toelating van een biologischeveiligheidsfunctionaris, bedoeld in [artikel 4, eerste lid, van de Regeling genetisch gemodificeerde organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0009653&artikel=4), op [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=2&afdeling=2.2&artikel=11&z=2026-10-01&g=2026-10-01), van deze regeling.
 
-2. Na de inwerkingtreding van deze regeling berust de toelating van een milieuveiligheidsfunctionaris, als bedoeld in [artikel 11, eerste lid, van de Regeling genetisch gemodificeerde organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0009653&artikel=11), op [artikel 30, eerste lid, van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=30&z=2026-07-01&g=2026-07-01).
+2. Na de inwerkingtreding van deze regeling berust de toelating van een milieuveiligheidsfunctionaris, als bedoeld in [artikel 11, eerste lid, van de Regeling genetisch gemodificeerde organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0009653&artikel=11), op [artikel 30, eerste lid, van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=3&afdeling=3.1&paragraaf=3.1.2&artikel=30&z=2026-10-01&g=2026-10-01).
 
 3. De [Regeling genetisch gemodificeerde organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0009653) zoals deze gold onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze regeling, blijft van toepassing op een besluit op een verzoek om toelating, gedaan aan de Minister op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009653&artikel=4), of [artikel 11, eerste lid, van de Regeling genetisch gemodificeerde organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0009653&artikel=11), totdat dat besluit onherroepelijk is geworden.
 
@@ -1325,9 +1331,9 @@ Elke biologischeveiligheidsfunctionaris die als zodanig is toegelaten op het tij
 
 - c. een toelating van een biologischeveiligheidsfunctionaris krachtens [artikel 4, eerste lid, van de Regeling genetisch gemodificeerde organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0009653&artikel=4).
 
-2. Indien aan een besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat, al dan niet via een ander document, een verwijzing bevat naar een bijlage die is vermeld in de linkerkolom van tabel 1 van [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=12&z=2026-07-01&g=2026-07-01), wordt deze verwijzing gelezen als een verwijzing naar de daarmee corresponderende bijlage, of het genoemde onderdeel daarvan, in de rechterkolom van die tabel.
+2. Indien aan een besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat, al dan niet via een ander document, een verwijzing bevat naar een bijlage die is vermeld in de linkerkolom van tabel 1 van [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=12&z=2026-10-01&g=2026-10-01), wordt deze verwijzing gelezen als een verwijzing naar de daarmee corresponderende bijlage, of het genoemde onderdeel daarvan, in de rechterkolom van die tabel.
 
-3. Indien aan een besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat, al dan niet via een ander document, een verwijzing bevat naar een categorie van fysische inperking die is vermeld in de linkerkolom van tabel 2 van [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=12&z=2026-07-01&g=2026-07-01), wordt deze verwijzing gelezen als een verwijzing naar de daarmee corresponderende categorie van fysische inperking in de rechterkolom van die tabel.
+3. Indien aan een besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat, al dan niet via een ander document, een verwijzing bevat naar een categorie van fysische inperking die is vermeld in de linkerkolom van tabel 2 van [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=12&z=2026-10-01&g=2026-10-01), wordt deze verwijzing gelezen als een verwijzing naar de daarmee corresponderende categorie van fysische inperking in de rechterkolom van die tabel.
 
 4. Indien aan een besluit op het tijdstip van inwerkingtreding van deze regeling een voorschrift is verbonden dat, al dan niet via een ander document, een verwijzing bevat naar ‘bijlage 2.1.2 van de Regeling’, wordt deze verwijzing, in afwijking van het tweede en derde lid, gelezen als een verwijzing naar ‘[bijlage 2.1.2 van de Regeling genetisch gemodificeerde organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0009653&bijlage=2) zoals deze gold onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van de Regeling genetisch gemodificeerde organismen milieubeheer 2013’.
 
@@ -1335,7 +1341,7 @@ Elke biologischeveiligheidsfunctionaris die als zodanig is toegelaten op het tij
 
 ##### Artikel 50
 
-1. In aanvulling op [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=5&afdeling=5.3&artikel=49&z=2026-07-01&g=2026-07-01), tweede en derde lid en [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=12&z=2026-07-01&g=2026-07-01), wordt op ingeperkt gebruik:
+1. In aanvulling op [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=5&afdeling=5.3&artikel=49&z=2026-10-01&g=2026-10-01), tweede en derde lid en [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&bijlage=12&z=2026-10-01&g=2026-10-01), wordt op ingeperkt gebruik:
 
 - a. dat betrekking heeft op de productie van en infectie met genetisch gemodificeerde retrovirale partikels die zijn afgeleid van muizenretrovirussen in animale cellen, of op de transfectie van retrovirale transfervectoren die zijn afgeleid van muizenretrovirussen in animale cellen, en
 
@@ -1343,7 +1349,7 @@ Elke biologischeveiligheidsfunctionaris die als zodanig is toegelaten op het tij
 
 in plaats daarvan categorie van fysische inperking ML-II toegepast.
 
-2. [Artikel 49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=5&afdeling=5.3&artikel=49&z=2026-07-01&g=2026-07-01), is van overeenkomstige toepassing.
+2. [Artikel 49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&hoofdstuk=5&afdeling=5.3&artikel=49&z=2026-10-01&g=2026-10-01), is van overeenkomstige toepassing.
 
 ##### Artikel 51
 

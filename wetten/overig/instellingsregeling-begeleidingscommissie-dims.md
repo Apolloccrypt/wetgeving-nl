@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0009924"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Instellingsregeling Begeleidingscommissie DIMS

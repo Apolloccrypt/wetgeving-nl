@@ -9,7 +9,7 @@ laatste_update: 2000-10-01
 status: geldig
 toestand: 2000-10-01
 bron: "https://wetten.overheid.nl/BWBR0010806"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 28 oktober 1999 tot wijziging van het Wetboek van Strafvordering, de Wet op de rechterlijke organisatie en enkele andere wetten met betrekking tot het beroep in cassatie in strafzaken (uitsluiting beroep in lichte overtredingszaken en invoering verplichte schriftuur van een advocaat)

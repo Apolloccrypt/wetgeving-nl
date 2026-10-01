@@ -9,7 +9,7 @@ laatste_update: 1999-04-23
 status: geldig
 toestand: 1999-04-23
 bron: "https://wetten.overheid.nl/BWBR0010397"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 9 april 1999, houdende wijziging van het Besluit gegevensverstrekking gemeentelijke belastingheffing en van het Besluit gemeentelijke parkeerbelastingen in verband met de aanpassing aan de derde tranche Awb

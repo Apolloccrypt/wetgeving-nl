@@ -8,7 +8,7 @@ laatste_update: 1998-12-05
 status: geldig
 toestand: 1998-12-05
 bron: "https://wetten.overheid.nl/BWBR0010043"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Sanctieregeling arbeidsmarktgedrag als bedoeld in artikel 25a van de Uitkeringsregeling 1966

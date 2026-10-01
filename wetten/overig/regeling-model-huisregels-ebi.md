@@ -8,7 +8,7 @@ laatste_update: 2019-10-04
 status: geldig
 toestand: 2019-10-04
 bron: "https://wetten.overheid.nl/BWBR0009942"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling model huisregels EBI

@@ -9,7 +9,7 @@ laatste_update: 1999-12-11
 status: geldig
 toestand: 1999-12-11
 bron: "https://wetten.overheid.nl/BWBR0010853"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 12 november 1999 tot vaststelling van de selectielijst Nationale ombudsman 1982-1997

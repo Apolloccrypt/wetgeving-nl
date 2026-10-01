@@ -9,7 +9,7 @@ laatste_update: 2000-03-01
 status: geldig
 toestand: 2000-03-01
 bron: "https://wetten.overheid.nl/BWBR0010843"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 11 november 1999, houdende wijziging van de Wegenverkeerswet 1994 met betrekking tot de Algemene Periodieke Keuring

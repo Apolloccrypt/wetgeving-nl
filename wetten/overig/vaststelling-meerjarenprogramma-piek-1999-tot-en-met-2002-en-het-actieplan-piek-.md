@@ -8,7 +8,7 @@ laatste_update: 1999-08-01
 status: geldig
 toestand: 1999-08-01
 bron: "https://wetten.overheid.nl/BWBR0010521"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Vaststelling meerjarenprogramma Piek 1999 tot en met 2002 en het actieplan Piek 1999

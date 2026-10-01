@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0010902"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Rijksbesluit van 25 november 1999, houdende regels met betrekking tot de uitvoeringsbepalingen ingevolge het Wetboek van Militair Strafrecht, de Wet militair tuchtrecht en de Wet militaire strafrechtspraak (Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht)

@@ -9,7 +9,7 @@ laatste_update: 1999-06-01
 status: geldig
 toestand: 1999-06-01
 bron: "https://wetten.overheid.nl/BWBR0010416"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 19 april 1999 tot wijziging van de Wet op de rechterlijke organisatie, het Wetboek van Strafvordering, de Politiewet 1993 en andere wetten (reorganisatie openbaar ministerie en instelling landelijk parket)

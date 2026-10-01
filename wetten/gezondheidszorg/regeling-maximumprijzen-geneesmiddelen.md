@@ -4,11 +4,11 @@ identifier: "BWBR0008023"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
 publicatiedatum: 1996-06-01
-laatste_update: 2026-09-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-09-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0008023"
-opgehaald: 2026-09-06
+opgehaald: 2026-10-01
 ---
 
 # Regeling maximumprijzen geneesmiddelen

@@ -8,7 +8,7 @@ laatste_update: 2022-04-15
 status: geldig
 toestand: 2022-04-15
 bron: "https://wetten.overheid.nl/BWBR0010766"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Regeling overbrenging notariële archiefbescheiden naar de rijksarchiefbewaarplaats

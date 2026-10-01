@@ -9,7 +9,7 @@ laatste_update: 1999-10-06
 status: geldig
 toestand: 1999-10-06
 bron: "https://wetten.overheid.nl/BWBR0010724"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Wet van 16 september 1999 tot wijziging van onder meer de Wet educatie en beroepsonderwijs opdat op grond van die wet bekostigde instellingen en andere instellingen die een niet uit de rijksbijdrage bekostigde opleiding educatie verzorgen, het recht kunnen verkrijgen aan de met goed gevolg afgelegde examens of onderdelen van examens van die opleiding een wettelijk geregeld diploma of certificaat te verbinden (erkenning diploma's niet uit rijksbijdrage gefinancierde educatie)

@@ -8,7 +8,7 @@ laatste_update: 1999-02-17
 status: geldig
 toestand: 1999-02-17
 bron: "https://wetten.overheid.nl/BWBR0010263"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Onderwijsbevoegdheid culturele en kunstzinnige vorming 1 (CKV1)

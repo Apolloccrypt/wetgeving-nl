@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-27
 toestand: 2026-07-24
 bron: "https://wetten.overheid.nl/BWBR0052891"
-opgehaald: 2026-09-30
+opgehaald: 2026-10-01
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 10 juli 2026, nr. 0000150491, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden ter bescherming van de onbedekte teelt van blauwe bes voor de beheersing van suzuki-fruitvlieg (Tijdelijke vrijstelling voor de bescherming van de teelt van blauwe bes tegen suzuki-fruitvlieg (Drosophila suzukii), 2026)

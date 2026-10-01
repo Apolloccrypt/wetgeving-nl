@@ -9,7 +9,7 @@ laatste_update: 1998-11-29
 status: geldig
 toestand: 1998-11-29
 bron: "https://wetten.overheid.nl/BWBR0010013"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Estse voorschriften tot uitvoering van het op 14 maart 1997 tussen Nederland en Estland gesloten Verdrag tot het vermijden van dubbele belasting

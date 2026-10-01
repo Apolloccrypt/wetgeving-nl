@@ -9,7 +9,7 @@ laatste_update: 2000-01-12
 status: geldig
 toestand: 2000-01-12
 bron: "https://wetten.overheid.nl/BWBR0010857"
-opgehaald: 2026-08-04
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 13 november 1999, houdende wijziging van het Besluit bijzondere voorzieningen militair nabestaandenpensioen

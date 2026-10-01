@@ -5,11 +5,11 @@ identifier: "BWBR0041278"
 categorie: "Bestuursrecht"
 soort: "AMvB"
 publicatiedatum: 2024-01-01
-laatste_update: 2026-07-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-07-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0041278"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-01
 ---
 
 # Besluit van 3 juli 2018, houdende procedurele regels en regels over algemene onderwerpen over het beschermen en benutten van de fysieke leefomgeving (Omgevingsbesluit)
@@ -18,7 +18,7 @@ opgehaald: 2026-08-27
 
 ##### Artikel 1.1. (begripsbepalingen)
 
-[Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=I&z=2026-07-01&g=2026-07-01) bevat begripsbepalingen voor de toepassing van dit besluit.
+[Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=I&z=2026-10-01&g=2026-10-01) bevat begripsbepalingen voor de toepassing van dit besluit.
 
 ##### Artikel 1.1a. (grondslag)
 
@@ -68,9 +68,9 @@ Dit besluit is ook van toepassing in de exclusieve economische zone.
 
 Tot het bij koninklijk besluit te bepalen tijdstip, bedoeld in [artikel 22.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.4), worden voor de toepassing van [artikel 22.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.8):
 
-- a. regels in een gemeentelijke verordening die vallen onder [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=2&artikel=2.1&z=2026-07-01&g=2026-07-01), alleen als regels als bedoeld in [artikel 2.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.7) aangemerkt voor zover het gaat om regels over een activiteit als bedoeld in [artikel 2.2 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.2), zoals die tot de inwerkingtreding van dit besluit gold; en
+- a. regels in een gemeentelijke verordening die vallen onder [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=2&artikel=2.1&z=2026-10-01&g=2026-10-01), alleen als regels als bedoeld in [artikel 2.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.7) aangemerkt voor zover het gaat om regels over een activiteit als bedoeld in [artikel 2.2 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.2), zoals die tot de inwerkingtreding van dit besluit gold; en
 
-- b. regels in een gemeentelijke verordening die niet vallen onder [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=2&artikel=2.1&z=2026-07-01&g=2026-07-01), ook als regels als bedoeld in [artikel 2.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.7) aangemerkt voor zover het gaat om regels over een activiteit als bedoeld in [artikel 2.2 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.2), zoals die tot de inwerkingtreding van dit besluit gold.
+- b. regels in een gemeentelijke verordening die niet vallen onder [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=2&artikel=2.1&z=2026-10-01&g=2026-10-01), ook als regels als bedoeld in [artikel 2.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.7) aangemerkt voor zover het gaat om regels over een activiteit als bedoeld in [artikel 2.2 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.2), zoals die tot de inwerkingtreding van dit besluit gold.
 
 ##### Artikel 2.2. (verplichting en verbod opname regels in waterschapsverordening)
 
@@ -100,7 +100,7 @@ Tot het bij koninklijk besluit te bepalen tijdstip, bedoeld in [artikel 22.4 van
 
 ##### Artikel 3.1. (aanwijzing van rijkswateren)
 
-1. Rijkswateren zijn de watersystemen of onderdelen daarvan, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II&z=2026-07-01&g=2026-07-01).
+1. Rijkswateren zijn de watersystemen of onderdelen daarvan, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II&z=2026-10-01&g=2026-10-01).
 
 2. Het beheer van de rijkswateren die op grond van het eerste lid zijn aangewezen, omvat ook het beheer van de daarin gelegen ondersteunende kunstwerken.
 
@@ -108,7 +108,7 @@ Tot het bij koninklijk besluit te bepalen tijdstip, bedoeld in [artikel 22.4 van
 
 ##### Artikel 3.2. (toepassingsbereik)
 
-De [artikelen 3.3 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=3&afdeling=3.2&artikel=3.3&z=2026-07-01&g=2026-07-01) zijn alleen van toepassing zolang een beperkingengebied niet bij ministeriële regeling is aangewezen en geometrisch begrensd.
+De [artikelen 3.3 tot en met 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=3&afdeling=3.2&artikel=3.3&z=2026-10-01&g=2026-10-01) zijn alleen van toepassing zolang een beperkingengebied niet bij ministeriële regeling is aangewezen en geometrisch begrensd.
 
 ##### Artikel 3.3. (beperkingengebied wegen)
 
@@ -164,11 +164,11 @@ Het beperkingengebied met betrekking tot een mijnbouwinstallatie in een oppervla
 
 1. Deze afdeling regelt welk bestuursorgaan, anders dan het college van burgemeester en wethouders op grond van [artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.8) of [5.12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.12), beslist op een enkel- of meervoudige aanvraag om een omgevingsvergunning:
 
-- a. voor wateractiviteiten: in [paragraaf 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&z=2026-07-01&g=2026-07-01); en
+- a. voor wateractiviteiten: in [paragraaf 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&z=2026-10-01&g=2026-10-01); en
 
-- b. voor andere activiteiten: in [paragraaf 4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&z=2026-07-01&g=2026-07-01).
+- b. voor andere activiteiten: in [paragraaf 4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&z=2026-10-01&g=2026-10-01).
 
-2. [Paragraaf 4.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.4&z=2026-07-01&g=2026-07-01) is van toepassing op zowel wateractiviteiten als andere activiteiten.
+2. [Paragraaf 4.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.4&z=2026-10-01&g=2026-10-01) is van toepassing op zowel wateractiviteiten als andere activiteiten.
 
 #### § 4.1.2. Aanvraag om een omgevingsvergunning voor wateractiviteiten
 
@@ -198,7 +198,7 @@ Het beperkingengebied met betrekking tot een mijnbouwinstallatie in een oppervla
 
 1. Onze Minister van Infrastructuur en Waterstaat beslist op een enkel- of meervoudige aanvraag om een omgevingsvergunning als de aanvraag alleen betrekking heeft op een of meer van de volgende wateractiviteiten:
 
-- a. een wateractiviteit die betrekking heeft op een watersysteem of onderdeel daarvan als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=3&afdeling=3.1&artikel=3.1&z=2026-07-01&g=2026-07-01); of
+- a. een wateractiviteit die betrekking heeft op een watersysteem of onderdeel daarvan als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=3&afdeling=3.1&artikel=3.1&z=2026-10-01&g=2026-10-01); of
 
 - b. een stortingsactiviteit op zee vanaf een in Nederland geregistreerd vaartuig of luchtvaartuig dat zich buiten Nederland en de exclusieve economische zone bevindt.
 
@@ -212,21 +212,21 @@ en een of meer andere wateractiviteiten.
 
 ##### Artikel 4.4a. (aanvullende aanwijzing bevoegd gezag meervoudige aanvraag zonder magneetactiviteiten)
 
-1. Dit artikel is alleen van toepassing als op grond van de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.2&z=2026-07-01&g=2026-07-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.3&z=2026-07-01&g=2026-07-01) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-07-01&g=2026-07-01) nog geen bevoegd gezag is aangewezen.
+1. Dit artikel is alleen van toepassing als op grond van de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.2&z=2026-10-01&g=2026-10-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.3&z=2026-10-01&g=2026-10-01) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-10-01&g=2026-10-01) nog geen bevoegd gezag is aangewezen.
 
 2. Onze Minister van Infrastructuur en Waterstaat beslist op een meervoudige aanvraag om een omgevingsvergunning als de aanvraag betrekking heeft op een combinatie van activiteiten die bestaat uit:
 
-- a. een of meer activiteiten als bedoeld in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-07-01&g=2026-07-01); en
+- a. een of meer activiteiten als bedoeld in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-10-01&g=2026-10-01); en
 
-- b. een of meer activiteiten als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.3&z=2026-07-01&g=2026-07-01).
+- b. een of meer activiteiten als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.3&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 4.5. (voorrangsregel bevoegd gezag meervoudige aanvraag bij samenloop aanwijzing bevoegd gezag)
 
-1. Als het dagelijks bestuur van het waterschap op grond van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.2&z=2026-07-01&g=2026-07-01), en gedeputeerde staten op grond van [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.3&z=2026-07-01&g=2026-07-01), als bevoegd gezag zijn aangewezen, beslissen gedeputeerde staten op de aanvraag.
+1. Als het dagelijks bestuur van het waterschap op grond van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.2&z=2026-10-01&g=2026-10-01), en gedeputeerde staten op grond van [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.3&z=2026-10-01&g=2026-10-01), als bevoegd gezag zijn aangewezen, beslissen gedeputeerde staten op de aanvraag.
 
-2. Als het dagelijks bestuur van het waterschap op grond van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.2&z=2026-07-01&g=2026-07-01), en Onze Minister van Infrastructuur en Waterstaat op grond van [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-07-01&g=2026-07-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Infrastructuur en Waterstaat op de aanvraag.
+2. Als het dagelijks bestuur van het waterschap op grond van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.2&z=2026-10-01&g=2026-10-01), en Onze Minister van Infrastructuur en Waterstaat op grond van [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-10-01&g=2026-10-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Infrastructuur en Waterstaat op de aanvraag.
 
-3. Als gedeputeerde staten op grond van [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.3&z=2026-07-01&g=2026-07-01), en Onze Minister van Infrastructuur en Waterstaat op grond van [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-07-01&g=2026-07-01), en in voorkomend geval het dagelijks bestuur van het waterschap op grond van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.2&z=2026-07-01&g=2026-07-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Infrastructuur en Waterstaat op de aanvraag.
+3. Als gedeputeerde staten op grond van [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.3&z=2026-10-01&g=2026-10-01), en Onze Minister van Infrastructuur en Waterstaat op grond van [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.4&z=2026-10-01&g=2026-10-01), en in voorkomend geval het dagelijks bestuur van het waterschap op grond van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.2&z=2026-10-01&g=2026-10-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Infrastructuur en Waterstaat op de aanvraag.
 
 #### § 4.1.3. Aanvraag om een omgevingsvergunning voor activiteiten anders dan wateractiviteiten
 
@@ -242,7 +242,7 @@ en een of meer andere wateractiviteiten.
 
 - d. een beperkingengebiedactiviteit met betrekking tot een burgerluchthaven van regionale betekenis of een lokale spoorweg die niet ligt in een gebied dat is aangewezen op grond van [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20);
 
-- e. een Natura 2000-activiteit of een flora- en fauna-activiteit die niet is aangewezen in [artikel 4.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01); of
+- e. een Natura 2000-activiteit of een flora- en fauna-activiteit die niet is aangewezen in [artikel 4.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01); of
 
 - f. een activiteit waarvoor in de omgevingsverordening is bepaald dat het verrichten daarvan zonder omgevingsvergunning is verboden.
 
@@ -310,7 +310,7 @@ en een of meer andere activiteiten.
 
 - c. een beperkingengebiedactiviteit met betrekking tot een weg in beheer bij het Rijk, de luchthaven Schiphol, een overige burgerluchthaven van nationale betekenis, een buitenlandse burgerluchthaven, een hoofdspoorweg of een bijzondere spoorweg; of
 
-- d. een activiteit anders dan bedoeld onder a tot en met c of in [artikel 4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-07-01&g=2026-07-01), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01) of [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.13&z=2026-07-01&g=2026-07-01), die geheel of in hoofdzaak plaatsvindt in:
+- d. een activiteit anders dan bedoeld onder a tot en met c of in [artikel 4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-10-01&g=2026-10-01), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01) of [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.13&z=2026-10-01&g=2026-10-01), die geheel of in hoofdzaak plaatsvindt in:
 
    - 1°. de territoriale zee voor zover gelegen buiten het provinciaal en gemeentelijk ingedeelde gebied; of
 
@@ -366,7 +366,7 @@ Onze Minister van Landbouw, Natuur en Voedselkwaliteit beslist op een enkel- of 
 
       - ii. aardwarmte als bedoeld in [artikel 1, onder b, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1) die zich bevindt op een diepte van meer dan 500 m beneden de oppervlakte van de aardbodem;
 
-- c. een activiteit van het Rijk die nodig is voor de ontwikkeling, werking en bescherming van de hoofdwateren, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II&z=2026-07-01&g=2026-07-01), onder 1, onder A;
+- c. een activiteit van het Rijk die nodig is voor de ontwikkeling, werking en bescherming van de hoofdwateren, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=II&z=2026-10-01&g=2026-10-01), onder 1, onder A;
 
 - d. een militaire activiteit, verricht door de Nederlandse of een bondgenootschappelijke krijgsmacht, buiten de onder a, onder 3°, bedoelde terreinen, en buiten de onder a, onder 4°, bedoelde militaire luchthavens;
 
@@ -440,63 +440,63 @@ Onze Minister van Onderwijs, Cultuur en Wetenschap beslist op een enkel- of meer
 
 - a. het college van burgemeester en wethouders niet behoort tot de bij de aanvraag betrokken bestuursorganen, bedoeld in [artikel 5.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.12); en
 
-- b. op grond van de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-07-01&g=2026-07-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.9&z=2026-07-01&g=2026-07-01), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-07-01&g=2026-07-01), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-07-01&g=2026-07-01), [4.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11a&z=2026-07-01&g=2026-07-01), [4.12, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.13&z=2026-07-01&g=2026-07-01) nog geen bevoegd gezag is aangewezen.
+- b. op grond van de [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-10-01&g=2026-10-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.9&z=2026-10-01&g=2026-10-01), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-10-01&g=2026-10-01), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-10-01&g=2026-10-01), [4.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11a&z=2026-10-01&g=2026-10-01), [4.12, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01) en [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.13&z=2026-10-01&g=2026-10-01) nog geen bevoegd gezag is aangewezen.
 
 2. Gedeputeerde staten beslissen op een meervoudige aanvraag om een omgevingsvergunning als de aanvraag alleen betrekking heeft op een combinatie van activiteiten die bestaat uit:
 
-- a. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01); en
+- a. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01); en
 
-- b. een of meer activiteiten als bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-07-01&g=2026-07-01).
+- b. een of meer activiteiten als bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-10-01&g=2026-10-01).
 
 3. Onze Minister van Defensie beslist op een meervoudige aanvraag om een omgevingsvergunning als de aanvraag alleen betrekking heeft op een combinatie van activiteiten die bestaat uit:
 
-- a. een of meer activiteiten als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.9&z=2026-07-01&g=2026-07-01); en
+- a. een of meer activiteiten als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.9&z=2026-10-01&g=2026-10-01); en
 
-- b. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-07-01&g=2026-07-01).
+- b. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-10-01&g=2026-10-01).
 
 4. Onze Minister van Economische Zaken en Klimaat beslist op een meervoudige aanvraag om een omgevingsvergunning als de aanvraag alleen betrekking heeft op een combinatie van activiteiten die bestaat uit:
 
-- a. een of meer activiteiten als bedoeld in [artikel 4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-07-01&g=2026-07-01); en
+- a. een of meer activiteiten als bedoeld in [artikel 4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-10-01&g=2026-10-01); en
 
-- b. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-07-01&g=2026-07-01).
+- b. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-10-01&g=2026-10-01).
 
 5. Onze Minister van Infrastructuur en Waterstaat beslist op een meervoudige aanvraag om een omgevingsvergunning als de aanvraag alleen betrekking heeft op een combinatie van activiteiten die bestaat uit:
 
-- a. een of meer activiteiten als bedoeld in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-07-01&g=2026-07-01); en
+- a. een of meer activiteiten als bedoeld in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-10-01&g=2026-10-01); en
 
-- b. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-07-01&g=2026-07-01).
+- b. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-10-01&g=2026-10-01).
 
 6. Onze Minister van Landbouw, Natuur en Voedselkwaliteit beslist op een meervoudige aanvraag om een omgevingsvergunning als de aanvraag alleen betrekking heeft op een combinatie van activiteiten die bestaat uit:
 
-- a. een of meer activiteiten als bedoeld in [artikel 4.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11a&z=2026-07-01&g=2026-07-01); en
+- a. een of meer activiteiten als bedoeld in [artikel 4.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11a&z=2026-10-01&g=2026-10-01); en
 
-- b. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-07-01&g=2026-07-01).
+- b. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-10-01&g=2026-10-01).
 
 7. Onze Minister voor Natuur en Stikstof beslist op een meervoudige aanvraag om een omgevingsvergunning als de aanvraag alleen betrekking heeft op een combinatie van activiteiten die bestaat uit:
 
-- a. een of meer activiteiten als bedoeld in [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01); en
+- a. een of meer activiteiten als bedoeld in [artikel 4.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01); en
 
-- b. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-07-01&g=2026-07-01).
+- b. een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-10-01&g=2026-10-01).
 
 8. Voor zover op grond van het tweede tot en met zevende lid nog geen bevoegd gezag is aangewezen, beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties op een meervoudige aanvraag om een omgevingsvergunning als de aanvraag betrekking heeft op een combinatie van activiteiten die bestaat uit:
 
-- a. een of meer activiteiten als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.9&z=2026-07-01&g=2026-07-01), [4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-07-01&g=2026-07-01), [4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-07-01&g=2026-07-01), [4.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11a&z=2026-07-01&g=2026-07-01), [4.12, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01) of [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.13&z=2026-07-01&g=2026-07-01); en
+- a. een of meer activiteiten als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.9&z=2026-10-01&g=2026-10-01), [4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-10-01&g=2026-10-01), [4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-10-01&g=2026-10-01), [4.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11a&z=2026-10-01&g=2026-10-01), [4.12, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01) of [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.13&z=2026-10-01&g=2026-10-01); en
 
-- b. in voorkomend geval een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-07-01&g=2026-07-01).
+- b. in voorkomend geval een of meer activiteiten als bedoeld in [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), of [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.7&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 4.15. (voorrangsregel bevoegd gezag meervoudige aanvraag bij samenloop aanwijzing bevoegd gezag)
 
-1. Als gedeputeerde staten op grond van [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties op grond van [artikel 4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.8&z=2026-07-01&g=2026-07-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties op de aanvraag.
+1. Als gedeputeerde staten op grond van [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties op grond van [artikel 4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.8&z=2026-10-01&g=2026-10-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties op de aanvraag.
 
-2. Als gedeputeerde staten op grond van [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), en Onze Minister van Economische Zaken en Klimaat op grond van [artikel 4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-07-01&g=2026-07-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Economische Zaken en Klimaat op de aanvraag.
+2. Als gedeputeerde staten op grond van [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), en Onze Minister van Economische Zaken en Klimaat op grond van [artikel 4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-10-01&g=2026-10-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Economische Zaken en Klimaat op de aanvraag.
 
-3. Als gedeputeerde staten op grond van [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), en Onze Minister van Infrastructuur en Waterstaat op grond van [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-07-01&g=2026-07-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Infrastructuur en Waterstaat op de aanvraag.
+3. Als gedeputeerde staten op grond van [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), en Onze Minister van Infrastructuur en Waterstaat op grond van [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-10-01&g=2026-10-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Infrastructuur en Waterstaat op de aanvraag.
 
-4. Als meer dan een van Onze hiervoor genoemde Ministers op grond van [artikel 4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.8&z=2026-07-01&g=2026-07-01), [4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-07-01&g=2026-07-01), of [4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-07-01&g=2026-07-01), en in voorkomend geval ook gedeputeerde staten op grond van [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties op de aanvraag.
+4. Als meer dan een van Onze hiervoor genoemde Ministers op grond van [artikel 4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.8&z=2026-10-01&g=2026-10-01), [4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-10-01&g=2026-10-01), of [4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-10-01&g=2026-10-01), en in voorkomend geval ook gedeputeerde staten op grond van [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), als bevoegd gezag zijn aangewezen, beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties op de aanvraag.
 
 ##### Artikel 4.16. (eens bevoegd gezag, altijd bevoegd gezag)
 
-1. In afwijking van [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01) beslissen gedeputeerde staten op elke enkel- of meervoudige aanvraag om een omgevingsvergunning die betrekking heeft op een of meer activiteiten als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) of [5.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.4) als:
+1. In afwijking van [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01) beslissen gedeputeerde staten op elke enkel- of meervoudige aanvraag om een omgevingsvergunning die betrekking heeft op een of meer activiteiten als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) of [5.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.4) als:
 
 - a. die activiteiten geen wateractiviteiten zijn;
 
@@ -540,9 +540,9 @@ Onze Minister van Onderwijs, Cultuur en Wetenschap beslist op een enkel- of meer
 
 ##### Artikel 4.19. (toepassingsbereik bij grondgebiedoverstijgende aanvraag)
 
-1. Voor zover een aanvraag om een omgevingsvergunning betrekking heeft op een activiteit die op het grondgebied van meer dan een gemeente, waterschap of provincie plaatsvindt, zijn de in de [artikelen 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.20&z=2026-07-01&g=2026-07-01), [4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.24&z=2026-07-01&g=2026-07-01) en [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.25&z=2026-07-01&g=2026-07-01) toegekende bevoegdheden tot advies van toepassing op het college van burgemeester en wethouders, het dagelijks bestuur van het waterschap en gedeputeerde staten van elke gemeente, elk waterschap en elke provincie waar de activiteit gedeeltelijk plaatsvindt.
+1. Voor zover een aanvraag om een omgevingsvergunning betrekking heeft op een activiteit die op het grondgebied van meer dan een gemeente, waterschap of provincie plaatsvindt, zijn de in de [artikelen 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.20&z=2026-10-01&g=2026-10-01), [4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.24&z=2026-10-01&g=2026-10-01) en [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.25&z=2026-10-01&g=2026-10-01) toegekende bevoegdheden tot advies van toepassing op het college van burgemeester en wethouders, het dagelijks bestuur van het waterschap en gedeputeerde staten van elke gemeente, elk waterschap en elke provincie waar de activiteit gedeeltelijk plaatsvindt.
 
-2. In een geval als bedoeld in het eerste lid zijn de in de [artikelen 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.20&z=2026-07-01&g=2026-07-01), [4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.24&z=2026-07-01&g=2026-07-01) en [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.25&z=2026-07-01&g=2026-07-01) toegekende bevoegdheden tot instemming alleen van toepassing op het college, het dagelijks bestuur of gedeputeerde staten van de gemeente, het waterschap of de provincie waar de activiteit in hoofdzaak plaatsvindt.
+2. In een geval als bedoeld in het eerste lid zijn de in de [artikelen 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.20&z=2026-10-01&g=2026-10-01), [4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.24&z=2026-10-01&g=2026-10-01) en [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.25&z=2026-10-01&g=2026-10-01) toegekende bevoegdheden tot instemming alleen van toepassing op het college, het dagelijks bestuur of gedeputeerde staten van de gemeente, het waterschap of de provincie waar de activiteit in hoofdzaak plaatsvindt.
 
 ##### Artikel 4.20. (advies en instemming door college van burgemeester en wethouders)
 
@@ -560,7 +560,7 @@ Onze Minister van Onderwijs, Cultuur en Wetenschap beslist op een enkel- of meer
 
 - a. het eerste lid, aanhef en onder b, voor zover het gaat om een omgevingsplanactiviteit anders dan een omgevingsplanactiviteit van provinciaal of nationaal belang; of
 
-- b. het eerste lid, aanhef en onder d, voor zover het gaat om een milieubelastende activiteit anders dan een milieubelastende activiteit als bedoeld in [artikel 4.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), [4.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-07-01&g=2026-07-01), of [4.11, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-07-01&g=2026-07-01).
+- b. het eerste lid, aanhef en onder d, voor zover het gaat om een milieubelastende activiteit anders dan een milieubelastende activiteit als bedoeld in [artikel 4.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), [4.10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-10-01&g=2026-10-01), of [4.11, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 4.21. (advies door gemeenteraad)
 
@@ -580,11 +580,11 @@ Onze Minister van Onderwijs, Cultuur en Wetenschap beslist op een enkel- of meer
 
 ##### Artikel 4.23. (uitzondering instemming door college van burgemeester en wethouders bij omgevingsplanactiviteit en eens bevoegd gezag, altijd bevoegd gezag)
 
-In afwijking van [artikel 4.20, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.20&z=2026-07-01&g=2026-07-01), behoeft de voorgenomen beslissing op de aanvraag om een omgevingsvergunning voor een omgevingsplanactiviteit geen instemming van het college van burgemeester en wethouders als:
+In afwijking van [artikel 4.20, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.20&z=2026-10-01&g=2026-10-01), behoeft de voorgenomen beslissing op de aanvraag om een omgevingsvergunning voor een omgevingsplanactiviteit geen instemming van het college van burgemeester en wethouders als:
 
-- a. het gaat om een aanvraag waarvoor gedeputeerde staten op grond van [artikel 4.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.16&z=2026-07-01&g=2026-07-01), bevoegd gezag zijn; en
+- a. het gaat om een aanvraag waarvoor gedeputeerde staten op grond van [artikel 4.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.16&z=2026-10-01&g=2026-10-01), bevoegd gezag zijn; en
 
-- b. de omgevingsplanactiviteit verband houdt met een voorschrift dat is of zal worden verbonden aan een omgevingsvergunning voor een milieubelastende activiteit als bedoeld in [artikel 4.16, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.16&z=2026-07-01&g=2026-07-01).
+- b. de omgevingsplanactiviteit verband houdt met een voorschrift dat is of zal worden verbonden aan een omgevingsvergunning voor een milieubelastende activiteit als bedoeld in [artikel 4.16, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.16&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 4.24. (advies en instemming door dagelijks bestuur waterschap)
 
@@ -618,15 +618,15 @@ In afwijking van [artikel 4.20, tweede lid, aanhef en onder a](https://wetten.ov
 
 - d. een beperkingengebiedactiviteit met betrekking tot een burgerluchthaven van regionale betekenis of een lokale spoorweg die niet ligt in een gebied dat is aangewezen op grond van [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20);
 
-- e. een Natura 2000-activiteit of een flora- en fauna-activiteit die niet is aangewezen in [artikel 4.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01);
+- e. een Natura 2000-activiteit of een flora- en fauna-activiteit die niet is aangewezen in [artikel 4.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01);
 
 - f. een wateractiviteit of een andere activiteit waarvoor in de omgevingsverordening is bepaald dat het verrichten daarvan zonder omgevingsvergunning is verboden;
 
 - g. een omgevingsplanactiviteit als bedoeld in [artikel 16.15a, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.15a); of
 
-- h. een rijksmonumentenactiviteit als bedoeld in [artikel 4.32, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.32&z=2026-07-01&g=2026-07-01), als het monument waarop de activiteit betrekking heeft buiten een krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622) vastgestelde bebouwde kom is gelegen.
+- h. een rijksmonumentenactiviteit als bedoeld in [artikel 4.32, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.32&z=2026-10-01&g=2026-10-01), als het monument waarop de activiteit betrekking heeft buiten een krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622) vastgestelde bebouwde kom is gelegen.
 
-2. Gedeputeerde staten zijn ook adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een of meer activiteiten als bedoeld in [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-07-01&g=2026-07-01), maar zij op grond van [artikel 4.15, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.15&z=2026-07-01&g=2026-07-01), niet bevoegd zijn op die aanvraag te beslissen.
+2. Gedeputeerde staten zijn ook adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een of meer activiteiten als bedoeld in [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.6&z=2026-10-01&g=2026-10-01), maar zij op grond van [artikel 4.15, eerste, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.15&z=2026-10-01&g=2026-10-01), niet bevoegd zijn op die aanvraag te beslissen.
 
 3. De voorgenomen beslissing op de aanvraag behoeft ook instemming van gedeputeerde staten als het gaat om een aanvraag als bedoeld in het eerste lid, aanhef en onder a, b, c, onder 1°, d, e, f of g, of tweede lid, met uitzondering van:
 
@@ -668,7 +668,7 @@ In afwijking van [artikel 4.20, tweede lid, aanhef en onder a](https://wetten.ov
 
 1. Onze Minister van Economische Zaken en Klimaat is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een milieubelastende activiteit als bedoeld in [artikel 3.321, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.321), voor zover het gaat om het aanleggen of het exploiteren van een mijnbouwwerk voor het opsporen of winnen van aardwarmte.
 
-2. Onze Minister van Economische Zaken en Klimaat is ook adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een of meer activiteiten als bedoeld in [artikel 4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-07-01&g=2026-07-01), maar hij op grond van [artikel 4.15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.15&z=2026-07-01&g=2026-07-01), niet bevoegd is op die aanvraag te beslissen.
+2. Onze Minister van Economische Zaken en Klimaat is ook adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een of meer activiteiten als bedoeld in [artikel 4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-10-01&g=2026-10-01), maar hij op grond van [artikel 4.15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.15&z=2026-10-01&g=2026-10-01), niet bevoegd is op die aanvraag te beslissen.
 
 3. De voorgenomen beslissing op de aanvraag, bedoeld in het eerste of tweede lid, behoeft ook instemming van Onze Minister van Economische Zaken en Klimaat.
 
@@ -676,7 +676,7 @@ In afwijking van [artikel 4.20, tweede lid, aanhef en onder a](https://wetten.ov
 
 1. Onze Minister van Infrastructuur en Waterstaat is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op:
 
-- a. een wateractiviteit die betrekking heeft op een watersysteem of onderdeel daarvan als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=3&afdeling=3.1&artikel=3.1&z=2026-07-01&g=2026-07-01);
+- a. een wateractiviteit die betrekking heeft op een watersysteem of onderdeel daarvan als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=3&afdeling=3.1&artikel=3.1&z=2026-10-01&g=2026-10-01);
 
 - b. een ontgrondingsactiviteit in:
 
@@ -686,7 +686,7 @@ In afwijking van [artikel 4.20, tweede lid, aanhef en onder a](https://wetten.ov
 
 - c. een beperkingengebiedactiviteit met betrekking tot een weg in beheer bij het Rijk, de luchthaven Schiphol, een overige burgerluchthaven van nationale betekenis, een buitenlandse burgerluchthaven, een burgerluchthaven van regionale betekenis, een hoofdspoorweg of een bijzondere spoorweg;
 
-- d. een activiteit anders dan bedoeld in [artikel 4.11, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-07-01&g=2026-07-01), of in [artikel 4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-07-01&g=2026-07-01), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01) of [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.13&z=2026-07-01&g=2026-07-01), die geheel of in hoofdzaak plaatsvindt in:
+- d. een activiteit anders dan bedoeld in [artikel 4.11, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-10-01&g=2026-10-01), of in [artikel 4.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.10&z=2026-10-01&g=2026-10-01), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01) of [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.13&z=2026-10-01&g=2026-10-01), die geheel of in hoofdzaak plaatsvindt in:
 
    - 1°. de territoriale zee voor zover gelegen buiten het provinciaal en gemeentelijk ingedeelde gebied; of
 
@@ -696,7 +696,7 @@ In afwijking van [artikel 4.20, tweede lid, aanhef en onder a](https://wetten.ov
 
 - f. een omgevingsplanactiviteit in een gebied als bedoeld in [artikel 5.161a, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.161a).
 
-2. Onze Minister van Infrastructuur en Waterstaat is ook adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een of meer activiteiten als bedoeld in [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-07-01&g=2026-07-01), maar hij op grond van [artikel 4.15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.15&z=2026-07-01&g=2026-07-01), niet bevoegd is op die aanvraag te beslissen.
+2. Onze Minister van Infrastructuur en Waterstaat is ook adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een of meer activiteiten als bedoeld in [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.11&z=2026-10-01&g=2026-10-01), maar hij op grond van [artikel 4.15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.15&z=2026-10-01&g=2026-10-01), niet bevoegd is op die aanvraag te beslissen.
 
 3. De voorgenomen beslissing op de aanvraag, bedoeld in het eerste lid, aanhef en onder a, b, c of d, of tweede lid, behoeft ook instemming van Onze Minister van Infrastructuur en Waterstaat, met uitzondering van een aanvraag als bedoeld in het eerste lid, aanhef en onder c, die betrekking heeft op een beperkingengebiedactiviteit met betrekking tot een burgerluchthaven van regionale betekenis, als de voorgenomen beslissing strekt tot het weigeren van de vergunning.
 
@@ -708,7 +708,7 @@ In afwijking van [artikel 4.20, tweede lid, aanhef en onder a](https://wetten.ov
 
 ##### Artikel 4.31. (advies en instemming door Minister voor Natuur en Stikstof)
 
-1. Onze Minister voor Natuur en Stikstof is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een Natura 2000-activiteit van nationaal belang of een flora- en fauna-activiteit van nationaal belang als bedoeld in [artikel 4.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01).
+1. Onze Minister voor Natuur en Stikstof is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een Natura 2000-activiteit van nationaal belang of een flora- en fauna-activiteit van nationaal belang als bedoeld in [artikel 4.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01).
 
 2. De voorgenomen beslissing op de aanvraag behoeft ook instemming van Onze Minister voor Natuur en Stikstof.
 
@@ -734,11 +734,11 @@ In afwijking van [artikel 4.20, tweede lid, aanhef en onder a](https://wetten.ov
 
 ##### Artikel 4.33. (advies door bestuur veiligheidsregio)
 
-Het bestuur van de veiligheidsregio op het grondgebied waarvan een milieubelastende activiteit geheel of in hoofdzaak plaatsvindt, is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een milieubelastende activiteit als bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=III&z=2026-07-01&g=2026-07-01), onder 1.
+Het bestuur van de veiligheidsregio op het grondgebied waarvan een milieubelastende activiteit geheel of in hoofdzaak plaatsvindt, is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een milieubelastende activiteit als bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=III&z=2026-10-01&g=2026-10-01), onder 1.
 
 ##### Artikel 4.34. (advies door inspecteur-generaal leefomgeving en transport)
 
-De inspecteur-generaal leefomgeving en transport is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een milieubelastende activiteit als bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=III&z=2026-07-01&g=2026-07-01), onder 2.
+De inspecteur-generaal leefomgeving en transport is adviseur voor een aanvraag om een omgevingsvergunning voor zover de aanvraag betrekking heeft op een milieubelastende activiteit als bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=III&z=2026-10-01&g=2026-10-01), onder 2.
 
 ##### Artikel 4.35. (advies over indirecte lozingen)
 
@@ -750,17 +750,17 @@ Het bestuursorgaan dat zijn bevoegdheid om op een aanvraag om een omgevingsvergu
 
 ##### Artikel 4.37. (instemming niet vereist)
 
-Het op grond van de [artikelen 4.20 tot en met 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.20&z=2026-07-01&g=2026-07-01) aangewezen bestuursorgaan kan gevallen aanwijzen waarin instemming niet is vereist.
+Het op grond van de [artikelen 4.20 tot en met 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.20&z=2026-10-01&g=2026-10-01) aangewezen bestuursorgaan kan gevallen aanwijzen waarin instemming niet is vereist.
 
 ##### Artikel 4.38. (gronden verlenen of onthouden instemming)
 
 1. Instemming wordt alleen verleend of onthouden op dezelfde gronden als de gronden voor het verlenen of weigeren van de omgevingsvergunning voor de activiteit, tenzij het tweede, derde of vierde lid van toepassing is. Daarbij geldt een ontheffing als bedoeld in [artikel 2.32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.32) die is verleend voor een voorgenomen beslissing tot verlening van een omgevingsvergunning als ontheffing voor het verlenen van instemming.
 
-2. Als de aanvraag om een omgevingsvergunning betrekking heeft op een omgevingsplanactiviteit als bedoeld in [artikel 4.25, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.25&z=2026-07-01&g=2026-07-01), kan instemming alleen worden onthouden als de voorgenomen beslissing op de aanvraag in strijd is met een door een bestuursorgaan van de provincie in een openbaar document aangegeven provinciaal belang en het provinciebestuur dat belang niet met inzet van andere aan hem toekomende bevoegdheden kan beschermen.
+2. Als de aanvraag om een omgevingsvergunning betrekking heeft op een omgevingsplanactiviteit als bedoeld in [artikel 4.25, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.25&z=2026-10-01&g=2026-10-01), kan instemming alleen worden onthouden als de voorgenomen beslissing op de aanvraag in strijd is met een door een bestuursorgaan van de provincie in een openbaar document aangegeven provinciaal belang en het provinciebestuur dat belang niet met inzet van andere aan hem toekomende bevoegdheden kan beschermen.
 
-3. Als de aanvraag om een omgevingsvergunning betrekking heeft op een bouwactiviteit als bedoeld in [artikel 4.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.27&z=2026-07-01&g=2026-07-01), of als het gaat om een aanvraag om een maatwerkvoorschrift als bedoeld in artikel 4.27, derde lid, kan instemming alleen worden onthouden als geen sprake is van een bijzonder geval dat het afwijken van de regel uit [hoofdstuk 4 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4) rechtvaardigt.
+3. Als de aanvraag om een omgevingsvergunning betrekking heeft op een bouwactiviteit als bedoeld in [artikel 4.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.27&z=2026-10-01&g=2026-10-01), of als het gaat om een aanvraag om een maatwerkvoorschrift als bedoeld in artikel 4.27, derde lid, kan instemming alleen worden onthouden als geen sprake is van een bijzonder geval dat het afwijken van de regel uit [hoofdstuk 4 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&hoofdstuk=4) rechtvaardigt.
 
-4. Als de aanvraag om een omgevingsvergunning betrekking heeft op een beperkingengebiedactiviteit met betrekking tot een burgerluchthaven van regionale betekenis als bedoeld in [artikel 4.30, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.30&z=2026-07-01&g=2026-07-01), kan instemming alleen worden onthouden in het belang van het veilig gebruik van het luchtruim.
+4. Als de aanvraag om een omgevingsvergunning betrekking heeft op een beperkingengebiedactiviteit met betrekking tot een burgerluchthaven van regionale betekenis als bedoeld in [artikel 4.30, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.30&z=2026-10-01&g=2026-10-01), kan instemming alleen worden onthouden in het belang van het veilig gebruik van het luchtruim.
 
 ### Hoofdstuk 5. Projectprocedure
 
@@ -862,7 +862,7 @@ Onverminderd [artikel 5.51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 5.7a. (aanwijzing besluit vaststelling geluidproductieplafonds)
 
-Onverminderd [artikel 5.54 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.54) wordt aan [artikel 5.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=5&afdeling=5.3&artikel=5.7&z=2026-07-01&g=2026-07-01), in ieder geval toepassing gegeven als een projectbesluit:
+Onverminderd [artikel 5.54 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.54) wordt aan [artikel 5.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=5&afdeling=5.3&artikel=5.7&z=2026-10-01&g=2026-10-01), in ieder geval toepassing gegeven als een projectbesluit:
 
 - a. een activiteit toelaat op een industrieterrein waarvoor op grond van [artikel 2.12a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.12a) geluidproductieplafonds als omgevingswaarden zijn vastgesteld en door het geluid door die activiteit niet aan die plafonds kan worden voldaan;
 
@@ -872,11 +872,11 @@ Onverminderd [artikel 5.54 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 5.7b. (geen advies voor projectbesluiten voor hoofdinfrastructuur bij Natura 2000-activiteiten)
 
-[Artikel 4.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.31&z=2026-07-01&g=2026-07-01) is niet van overeenkomstige toepassing op een ontwerp van een projectbesluit en een voorgenomen projectbesluit voor een project als bedoeld in [artikel 5.46, eerste lid, aanhef en onder a tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.46), voor zover daarin wordt bepaald dat het geldt als een omgevingsvergunning voor een Natura 2000-activiteit.
+[Artikel 4.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.31&z=2026-10-01&g=2026-10-01) is niet van overeenkomstige toepassing op een ontwerp van een projectbesluit en een voorgenomen projectbesluit voor een project als bedoeld in [artikel 5.46, eerste lid, aanhef en onder a tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.46), voor zover daarin wordt bepaald dat het geldt als een omgevingsvergunning voor een Natura 2000-activiteit.
 
 ##### Artikel 5.8. (advies en instemming andere besluiten)
 
-1. Het bestuursorgaan dat op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622) of de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948) bevoegd zou zijn om de besluiten, bedoeld in [artikel 5.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=5&afdeling=5.3&artikel=5.7&z=2026-07-01&g=2026-07-01), te nemen, is adviseur voor dat onderdeel van het projectbesluit.
+1. Het bestuursorgaan dat op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622) of de [Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948) bevoegd zou zijn om de besluiten, bedoeld in [artikel 5.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=5&afdeling=5.3&artikel=5.7&z=2026-10-01&g=2026-10-01), te nemen, is adviseur voor dat onderdeel van het projectbesluit.
 
 2. Het in het eerste lid bedoelde onderdeel van het projectbesluit behoeft ook instemming van het adviserende bestuursorgaan, waarbij geen instemming is vereist als:
 
@@ -1148,17 +1148,17 @@ De gevallen, bedoeld in [artikel 13.5, eerste lid, van de wet](https://wetten.ov
 
 ##### Artikel 8.6a. (samenloop artikelen 8.5 en 8.6)
 
-Voor zover een geval in zowel [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.5&z=2026-07-01&g=2026-07-01) als [artikel 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-07-01&g=2026-07-01) is aangewezen, is alleen artikel 8.6 van toepassing.
+Voor zover een geval in zowel [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.5&z=2026-10-01&g=2026-10-01) als [artikel 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-10-01&g=2026-10-01) is aangewezen, is alleen artikel 8.6 van toepassing.
 
 ##### Artikel 8.7. (plicht voor openbaar lichaam)
 
-1. Als degene die de activiteit verricht een openbaar lichaam is, wordt alleen in gevallen als bedoeld in [artikel 8.6, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-07-01&g=2026-07-01), een voorschrift aan de omgevingsvergunning verbonden over het stellen van financiële zekerheid.
+1. Als degene die de activiteit verricht een openbaar lichaam is, wordt alleen in gevallen als bedoeld in [artikel 8.6, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-10-01&g=2026-10-01), een voorschrift aan de omgevingsvergunning verbonden over het stellen van financiële zekerheid.
 
-2. In gevallen als bedoeld in [artikel 8.6, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-07-01&g=2026-07-01), is het treffen van een gelijkwaardige maatregel uitgesloten voor een ander dan een openbaar lichaam.
+2. In gevallen als bedoeld in [artikel 8.6, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-10-01&g=2026-10-01), is het treffen van een gelijkwaardige maatregel uitgesloten voor een ander dan een openbaar lichaam.
 
 ##### Artikel 8.8. (afwegingscriteria stellen en wijzigen financiële zekerheid)
 
-Het bevoegd gezag houdt bij het verbinden van een voorschrift aan de omgevingsvergunning over het stellen van financiële zekerheid en het wijzigen van een dergelijk voorschrift in een geval als bedoeld in [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.5&z=2026-07-01&g=2026-07-01) in ieder geval rekening met:
+Het bevoegd gezag houdt bij het verbinden van een voorschrift aan de omgevingsvergunning over het stellen van financiële zekerheid en het wijzigen van een dergelijk voorschrift in een geval als bedoeld in [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.5&z=2026-10-01&g=2026-10-01) in ieder geval rekening met:
 
 - a. de financiële draagkracht van degene die de activiteit verricht;
 
@@ -1190,19 +1190,19 @@ Het bevoegd gezag houdt bij het verbinden van een voorschrift aan de omgevingsve
 
 2. Het bedrag is:
 
-- a. voor een geval als bedoeld in [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.5&z=2026-07-01&g=2026-07-01) niet hoger dan de kosten die noodzakelijk worden geacht voor het nakomen van verplichtingen die op grond van de omgevingsvergunning gelden of voor de dekking van aansprakelijkheid voor schade aan de fysieke leefomgeving als gevolg van die activiteit;
+- a. voor een geval als bedoeld in [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.5&z=2026-10-01&g=2026-10-01) niet hoger dan de kosten die noodzakelijk worden geacht voor het nakomen van verplichtingen die op grond van de omgevingsvergunning gelden of voor de dekking van aansprakelijkheid voor schade aan de fysieke leefomgeving als gevolg van die activiteit;
 
-- b. voor een geval als bedoeld in [artikel 8.6, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-07-01&g=2026-07-01), ten hoogste € 2,27 per ton gestorte afvalstoffen;
+- b. voor een geval als bedoeld in [artikel 8.6, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-10-01&g=2026-10-01), ten hoogste € 2,27 per ton gestorte afvalstoffen;
 
-- c. voor een geval als bedoeld in [artikel 8.6, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-07-01&g=2026-07-01), ten hoogste € 1,– per ton droge stof gestorte afvalstoffen; en
+- c. voor een geval als bedoeld in [artikel 8.6, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-10-01&g=2026-10-01), ten hoogste € 1,– per ton droge stof gestorte afvalstoffen; en
 
-- d. voor een geval als bedoeld in [artikel 8.6, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-07-01&g=2026-07-01), ten minste € 5.000.000,– per vergunningplichtige activiteit.
+- d. voor een geval als bedoeld in [artikel 8.6, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-10-01&g=2026-10-01), ten minste € 5.000.000,– per vergunningplichtige activiteit.
 
-3. Voor een geval als bedoeld in [artikel 8.6, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-07-01&g=2026-07-01), is de berekening gebaseerd op de criteria die zijn opgenomen in Beschikking nr. 2009/335/EG van de Commissie van 20 april 2009 inzake technische richtsnoeren voor het stellen van de financiële zekerheid overeenkomstig Richtlijn 2006/21/EG van het Europees Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEG 2009, L 101).
+3. Voor een geval als bedoeld in [artikel 8.6, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-10-01&g=2026-10-01), is de berekening gebaseerd op de criteria die zijn opgenomen in Beschikking nr. 2009/335/EG van de Commissie van 20 april 2009 inzake technische richtsnoeren voor het stellen van de financiële zekerheid overeenkomstig Richtlijn 2006/21/EG van het Europees Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEG 2009, L 101).
 
 ##### Artikel 8.10a. (aanvullende bepaling vorm en hoogte bedrag financiële zekerheid)
 
-Onverminderd de [artikelen 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.9&z=2026-07-01&g=2026-07-01) en [8.10, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.10&z=2026-07-01&g=2026-07-01), kan voor een geval als bedoeld in [artikel 8.6, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-07-01&g=2026-07-01), als de in dat onderdeel bedoelde milieubelastende activiteit ook omvat het aanleggen en het exploiteren van een mijnbouwwerk, bedoeld in [artikel 3.320 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.320), voor zover het daarbij gaat om een mijnbouwwerk voor het opslaan van stoffen, bij het vaststellen van de vorm, respectievelijk hoogte, van financiële zekerheid rekening worden gehouden met de vorm, respectievelijk hoogte, waarin sprake is van:
+Onverminderd de [artikelen 8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.9&z=2026-10-01&g=2026-10-01) en [8.10, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.10&z=2026-10-01&g=2026-10-01), kan voor een geval als bedoeld in [artikel 8.6, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.3&artikel=8.6&z=2026-10-01&g=2026-10-01), als de in dat onderdeel bedoelde milieubelastende activiteit ook omvat het aanleggen en het exploiteren van een mijnbouwwerk, bedoeld in [artikel 3.320 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.320), voor zover het daarbij gaat om een mijnbouwwerk voor het opslaan van stoffen, bij het vaststellen van de vorm, respectievelijk hoogte, van financiële zekerheid rekening worden gehouden met de vorm, respectievelijk hoogte, waarin sprake is van:
 
 - a. een financiële zekerheid op grond van het recht, bedoeld in [artikel 3, vierde lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=3); of
 
@@ -1250,7 +1250,7 @@ Het bevoegd gezag kan beslissen kosten niet te verhalen als:
 
 - a. het totaal van de verschuldigde geldsommen dat op grond van [artikel 13.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.18) kan worden verhaald, minder bedraagt dan € 10.000,–;
 
-- b. er geen verhaalbare kosten als bedoeld in de onderdelen A5 tot en met A9 van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=IV&z=2026-07-01&g=2026-07-01) zijn; of
+- b. er geen verhaalbare kosten als bedoeld in de onderdelen A5 tot en met A9 van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=IV&z=2026-10-01&g=2026-10-01) zijn; of
 
 - c. de verhaalbare kosten alleen de aansluiting van een locatie op de openbare ruimte of de aansluiting op nutsvoorzieningen betreffen.
 
@@ -1258,9 +1258,9 @@ Het bevoegd gezag kan beslissen kosten niet te verhalen als:
 
 De kostensoorten, bedoeld in [artikel 13.11, eerste lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.11), zijn:
 
-- a. voor kostenverhaalsgebieden waarvoor geen tijdvak als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) is opgenomen: de in tabel A van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=IV&z=2026-07-01&g=2026-07-01) aangegeven kostensoorten; en
+- a. voor kostenverhaalsgebieden waarvoor geen tijdvak als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) is opgenomen: de in tabel A van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=IV&z=2026-10-01&g=2026-10-01) aangegeven kostensoorten; en
 
-- b. voor kostenverhaalsgebieden waarvoor wel een tijdvak als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) is opgenomen: de in de tabellen A en B van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=IV&z=2026-07-01&g=2026-07-01) aangegeven kostensoorten.
+- b. voor kostenverhaalsgebieden waarvoor wel een tijdvak als bedoeld in [artikel 13.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.15) is opgenomen: de in de tabellen A en B van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=IV&z=2026-10-01&g=2026-10-01) aangegeven kostensoorten.
 
 ##### Artikel 8.16. (raming opbrengsten van gronden)
 
@@ -1278,13 +1278,13 @@ Bij de raming van de opbrengsten, bedoeld in [artikel 13.17 van de wet](https:/
 
 - a. de waarde van de grond en de te slopen opstallen in de toestand voorafgaand aan het vaststellen van het omgevingsplan of het projectbesluit of het verlenen van de omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit; en
 
-- b. de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=IV&z=2026-07-01&g=2026-07-01), onder B2, B3 en B4, genoemde kosten, inclusief de kosten die voorafgaand aan het vaststellen van het omgevingsplan of het projectbesluit of het verlenen van de omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit zijn gemaakt en die direct verband houden met de te verrichten bouwactiviteiten.
+- b. de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=IV&z=2026-10-01&g=2026-10-01), onder B2, B3 en B4, genoemde kosten, inclusief de kosten die voorafgaand aan het vaststellen van het omgevingsplan of het projectbesluit of het verlenen van de omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit zijn gemaakt en die direct verband houden met de te verrichten bouwactiviteiten.
 
 ##### Artikel 8.18. (raming waardevermeerdering)
 
 1. De raming van de waardevermeerdering, bedoeld in [artikel 13.17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.17), wordt vastgesteld door de geraamde opbrengst van de locatie waar de activiteit wordt verricht te verminderen met de geraamde inbrengwaarde van die locatie.
 
-2. Op de ramingen van de opbrengst en de inbrengwaarde zijn de [artikelen 8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.4&artikel=8.16&z=2026-07-01&g=2026-07-01) en [8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.4&artikel=8.17&z=2026-07-01&g=2026-07-01) van overeenkomstige toepassing.
+2. Op de ramingen van de opbrengst en de inbrengwaarde zijn de [artikelen 8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.4&artikel=8.16&z=2026-10-01&g=2026-10-01) en [8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.4&artikel=8.17&z=2026-10-01&g=2026-10-01) van overeenkomstige toepassing.
 
 ##### Artikel 8.19. (eindafrekening op verzoek)
 
@@ -1300,7 +1300,7 @@ Een eindafrekening op verzoek als bedoeld in [artikel 13.20, vierde lid, van de
 
 De activiteiten waarover in een overeenkomst bepalingen over financiële bijdragen kunnen worden opgenomen, bedoeld in [artikel 13.22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.22), zijn:
 
-- a. de activiteiten, bedoeld in [artikel 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.4&artikel=8.13&z=2026-07-01&g=2026-07-01);
+- a. de activiteiten, bedoeld in [artikel 8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=8&afdeling=8.4&artikel=8.13&z=2026-10-01&g=2026-10-01);
 
 - b. de bouw van een bouwwerk geen gebouw zijnde als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I) voor:
 
@@ -1644,13 +1644,13 @@ Voor de volgende activiteiten die de natuur betreffen wordt de omgevingsvergunni
 
 - b. een valkeniersactiviteit; en
 
-- c. een flora- en fauna-activiteit van nationaal belang als bedoeld in [artikel 4.12, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01).
+- c. een flora- en fauna-activiteit van nationaal belang als bedoeld in [artikel 4.12, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 10.21b. (nadere regels aanvraag en uitreiking omgevingsvergunning jachtgeweeractiviteit)
 
 1. De aanvraag om een omgevingsvergunning voor een jachtgeweeractiviteit wordt door de aanvrager in persoon ingediend, onder overlegging van een geldig identiteitsbewijs.
 
-2. Het eerste lid en [artikel 16.78a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.78a) zijn niet van toepassing op een aanvrager die een aanvraag indient om een omgevingsvergunning voor een jachtgeweeractiviteit als bedoeld in [artikel 10.23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.6&paragraaf=10.6.1&artikel=10.23&z=2026-07-01&g=2026-07-01).
+2. Het eerste lid en [artikel 16.78a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.78a) zijn niet van toepassing op een aanvrager die een aanvraag indient om een omgevingsvergunning voor een jachtgeweeractiviteit als bedoeld in [artikel 10.23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.6&paragraaf=10.6.1&artikel=10.23&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 10.21c. (nadere regels aanvraag omgevingsvergunning valkeniersactiviteit)
 
@@ -1658,7 +1658,7 @@ Voor het elektronisch indienen van een aanvraag om een omgevingsvergunning voor 
 
 ##### Artikel 10.21d. (nadere regels aanvraag omgevingsvergunning andere activiteiten die de natuur betreffen)
 
-Voor het elektronisch indienen van een aanvraag om een omgevingsvergunning voor een flora- en fauna-activiteit van nationaal belang als bedoeld in [artikel 4.12, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01), wordt gebruikgemaakt van het elektronische formulier dat door Onze Minister voor Natuur en Stikstof beschikbaar is gesteld op mijn.rvo.nl.
+Voor het elektronisch indienen van een aanvraag om een omgevingsvergunning voor een flora- en fauna-activiteit van nationaal belang als bedoeld in [artikel 4.12, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01), wordt gebruikgemaakt van het elektronische formulier dat door Onze Minister voor Natuur en Stikstof beschikbaar is gesteld op mijn.rvo.nl.
 
 ##### Artikel 10.22. (informatie omgevingsvergunning milieubelastende activiteit bij mogelijk aanzienlijke gevolgen voor het milieu voor een andere staat)
 
@@ -1720,7 +1720,7 @@ Het bevoegd gezag dat bij de beslissing op een aanvraag om een omgevingsvergunni
 
 1. [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) is van toepassing op de voorbereiding van een besluit op een aanvraag om, wijziging van of intrekking van een omgevingsvergunning, als de aanvraag, wijziging of intrekking geheel of gedeeltelijk betrekking heeft op de volgende activiteiten:
 
-- a. een rijksmonumentenactiviteit als het gaat om een rijksmonumentenactiviteit als bedoeld in [artikel 4.32, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.32&z=2026-07-01&g=2026-07-01);
+- a. een rijksmonumentenactiviteit als het gaat om een rijksmonumentenactiviteit als bedoeld in [artikel 4.32, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.32&z=2026-10-01&g=2026-10-01);
 
 - b. een milieubelastende activiteit voor zover het gaat om het exploiteren van een ippc-installatie, bedoeld in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3);
 
@@ -1810,6 +1810,36 @@ De toelatingsorganisatie neemt binnen twee werkdagen na de datum waarop een besc
 
    - 3°. de reden voor de intrekking en de datum van de intrekking.
 
+##### Artikel 10.26g. (aanwijzing elektriciteitsprojecten)
+
+1. Als besluiten als bedoeld in [artikel 16.87a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.87) worden aangewezen voor zover het gaat om de aanleg, de uitbreiding, het onderhoud of de aanpassing van een transmissie- of distributiesysteem voor elektriciteit als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) met een spanningsniveau van 21 kV of meer:
+
+- a. de vaststelling of wijziging van een omgevingsplan; en
+
+- b. de beslissing op een aanvraag om een omgevingsvergunning voor:
+
+   - 1°. een omgevingsplanactiviteit bestaande uit:
+
+      - i. een bouwactiviteit en het in stand houden en gebruiken van het te bouwen bouwwerk;
+
+      - ii. het gebruiken van een locatie voor het verrichten van een activiteit als bedoeld onder i; of
+
+      - iii. het gebruiken van een locatie voor het in stand houden en gebruiken van een werk, geen bouwwerk zijnde; of
+
+   - 2°. een bouwactiviteit.
+
+2. Onze Minister van Klimaat en Groene Groei is belast met de uitvoering van de monitoring van de effecten van deze aanwijzing en zendt jaarlijks aan beide kamers der Staten-Generaal een verslag over de resultaten van de monitoring.
+
+3. De monitoring vindt plaats door gegevens te verzamelen over:
+
+- a. het aantal beroepen dat bij de Afdeling bestuursrechtspraak van de Raad van State aanhangig is gemaakt en betrekking heeft op besluiten die zijn aangewezen in het eerste lid;
+
+- b. de gemiddelde doorlooptijd van de beroepen.
+
+4. Onze Minister van Klimaat en Groene Groei zendt ten minste drie maanden voor het einde van de termijn, bedoeld in het vijfde lid, aan beide kamers der Staten-Generaal een verslag over de doeltreffendheid en de effecten van de aanwijzing, en ook een standpunt over de verlenging van de aanwijzing.
+
+5. Dit artikel vervalt op 1 januari 2032.
+
 #### Afdeling 10.8. Verstrekken en beschikbaar stellen van gegevens
 
 #### § 10.8.1. Externe veiligheid
@@ -1838,7 +1868,7 @@ De bestuursorganen, bedoeld in [artikel 11.1 van het Besluit kwaliteit leefomge
 
 ##### Artikel 10.27a. (overgangsrecht gegevensverstrekking externe veiligheidsrisico’s)
 
-Als een activiteit al rechtmatig wordt verricht op het tijdstip van inwerkingtreding van [artikel 10.27](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.1&artikel=10.27&z=2026-07-01&g=2026-07-01), dan geldt de verplichting om gegevens te verstrekken, bedoeld in de aanhef van dat artikel, met ingang van 1 januari 2025. De gegevens worden onverwijld verstrekt.
+Als een activiteit al rechtmatig wordt verricht op het tijdstip van inwerkingtreding van [artikel 10.27](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.1&artikel=10.27&z=2026-10-01&g=2026-10-01), dan geldt de verplichting om gegevens te verstrekken, bedoeld in de aanhef van dat artikel, met ingang van 1 januari 2025. De gegevens worden onverwijld verstrekt.
 
 ##### Artikel 10.28. (gegevensverstrekking domino-effecten Seveso-inrichting)
 
@@ -2058,11 +2088,11 @@ Onze Minister van Infrastructuur en Waterstaat stelt een verslag van de resultat
 
 ##### Artikel 10.39b. (gegevensverstrekking windturbines, windparken, civiele en militaire buitenschietbanen en militaire springterreinen op industrieterreinen)
 
-Als dat nodig is om aan de verplichting van een bestuursorgaan tot gegevensverstrekking, bedoeld in [artikel 10.42a, eerste lid, aanhef en onder f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42a&z=2026-07-01&g=2026-07-01), te voldoen, verstrekt degene die een activiteit als bedoeld in die onderdelen verricht, op verzoek van dat bestuursorgaan gegevens over het geluid door die activiteit.
+Als dat nodig is om aan de verplichting van een bestuursorgaan tot gegevensverstrekking, bedoeld in [artikel 10.42a, eerste lid, aanhef en onder f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42a&z=2026-10-01&g=2026-10-01), te voldoen, verstrekt degene die een activiteit als bedoeld in die onderdelen verricht, op verzoek van dat bestuursorgaan gegevens over het geluid door die activiteit.
 
 ##### Artikel 10.39c. (gegevensverstrekking luchthavens)
 
-Als dat nodig is om aan de verplichting tot gegevensverstrekking, bedoeld in [artikel 10.42a, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42a&z=2026-07-01&g=2026-07-01), te voldoen, verstrekt degene die een luchthaven exploiteert, op verzoek van gedeputeerde staten, Onze Minister van Defensie of Onze Minister van Infrastructuur en Waterstaat gegevens over het geluid door die luchthaven.
+Als dat nodig is om aan de verplichting tot gegevensverstrekking, bedoeld in [artikel 10.42a, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42a&z=2026-10-01&g=2026-10-01), te voldoen, verstrekt degene die een luchthaven exploiteert, op verzoek van gedeputeerde staten, Onze Minister van Defensie of Onze Minister van Infrastructuur en Waterstaat gegevens over het geluid door die luchthaven.
 
 ##### Artikel 10.40. (verstrekking en publicatie gegevens over belangrijke wegen, spoorwegen en luchthavens)
 
@@ -2102,7 +2132,7 @@ Als dat nodig is voor de vaststelling van een geluidbelastingkaart als bedoeld i
 
    - 3°. nadat hun besluit tot aanleg van een weg of spoorweg als bedoeld in [artikel 3.27, eerste lid, onder b, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.27) is genomen;
 
-- e. het college van burgemeester en wethouders en het dagelijks bestuur van het waterschap verstrekken de gegevens, bedoeld in [artikel 11.52, eerste lid, onder b, onder 4° en 5°, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.52), binnen vier weken na het uiterste tijdstip, bedoeld in [artikel 10.42c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42c&z=2026-07-01&g=2026-07-01);
+- e. het college van burgemeester en wethouders en het dagelijks bestuur van het waterschap verstrekken de gegevens, bedoeld in [artikel 11.52, eerste lid, onder b, onder 4° en 5°, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.52), binnen vier weken na het uiterste tijdstip, bedoeld in [artikel 10.42c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42c&z=2026-10-01&g=2026-10-01);
 
 - f. gedeputeerde staten, Onze Minister van Defensie en Onze Minister van Infrastructuur en Waterstaat verstrekken de gegevens, bedoeld in [artikel 11.52, eerste lid, onder c, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.52) binnen vier weken na de bekendmaking van hun luchthavenbesluit;
 
@@ -2204,7 +2234,7 @@ Het bestuursorgaan, bedoeld in [artikel 11.56 van het Besluit kwaliteit leefomg
 
 3. Als de mededeling betrekking heeft op het geheimhouden van de naam van een verontreinigende stof, wordt de naam aangegeven van de groep verontreinigende stoffen, bedoeld in [bijlage VI bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=VI), waartoe de geheimgehouden verontreinigende stof behoort.
 
-4. In afwijking van [artikel 10.44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.6&artikel=10.44&z=2026-07-01&g=2026-07-01), worden gegevens waarvoor een verzoek als bedoeld in [artikel 11.60, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.60) is afgewezen, niet eerder verstrekt dan nadat dat besluit in werking is getreden.
+4. In afwijking van [artikel 10.44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.6&artikel=10.44&z=2026-10-01&g=2026-10-01), worden gegevens waarvoor een verzoek als bedoeld in [artikel 11.60, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.60) is afgewezen, niet eerder verstrekt dan nadat dat besluit in werking is getreden.
 
 ##### Artikel 10.46. (beschikbaar stellen van gegevens en verklaringen PRTR)
 
@@ -2228,7 +2258,7 @@ Een instantie of een bestuursorgaan, aangewezen als siteholder in het management
 
 ##### Artikel 10.49. (gegevensverstrekking activiteiten die werelderfgoed kunnen aantasten)
 
-1. Als een instantie of een bestuursorgaan als bedoeld in [artikel 10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.7&artikel=10.48&z=2026-07-01&g=2026-07-01) op de hoogte is van een voornemen om een activiteit te verrichten die de uitzonderlijke universele waarde van een werelderfgoed kan aantasten, stelt die instantie of dat bestuursorgaan Onze Minister van Onderwijs, Cultuur en Wetenschap daarvan zo spoedig mogelijk, maar in ieder geval voordat zich onomkeerbare gevolgen kunnen voordoen, op de hoogte.
+1. Als een instantie of een bestuursorgaan als bedoeld in [artikel 10.48](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.7&artikel=10.48&z=2026-10-01&g=2026-10-01) op de hoogte is van een voornemen om een activiteit te verrichten die de uitzonderlijke universele waarde van een werelderfgoed kan aantasten, stelt die instantie of dat bestuursorgaan Onze Minister van Onderwijs, Cultuur en Wetenschap daarvan zo spoedig mogelijk, maar in ieder geval voordat zich onomkeerbare gevolgen kunnen voordoen, op de hoogte.
 
 2. Het eerste lid is ook van toepassing op een ander bestuursorgaan dat is belast met de uitoefening van taken en bevoegdheden op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) als het werelderfgoed op zijn grondgebied ligt of als de uitoefening van een taak of bevoegdheid de uitzonderlijke universele waarde van een werelderfgoed kan aantasten.
 
@@ -2360,9 +2390,9 @@ Uiterlijk op het moment van terinzagelegging van het milieueffectrapport stelt h
 
 ##### Artikel 11.6. (aanwijzen mer-(beoordelings)plichtige projecten)
 
-1. [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-07-01&g=2026-07-01), kolom 2 in samenhang met kolom 1, bevat de projecten, bedoeld in [artikel 16.43, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), die aanzienlijke milieueffecten kunnen hebben en waarvoor bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt.
+1. [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-10-01&g=2026-10-01), kolom 2 in samenhang met kolom 1, bevat de projecten, bedoeld in [artikel 16.43, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), die aanzienlijke milieueffecten kunnen hebben en waarvoor bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt.
 
-2. [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-07-01&g=2026-07-01), kolom 3 in samenhang met kolom 1, bevat de projecten, bedoeld in [artikel 16.43, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), waarvoor moet worden beoordeeld of zij aanzienlijke milieueffecten kunnen hebben en, als dat het geval is, waarvoor bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt.
+2. [Bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-10-01&g=2026-10-01), kolom 3 in samenhang met kolom 1, bevat de projecten, bedoeld in [artikel 16.43, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), waarvoor moet worden beoordeeld of zij aanzienlijke milieueffecten kunnen hebben en, als dat het geval is, waarvoor bij de voorbereiding van het besluit een milieueffectrapport moet worden gemaakt.
 
 3. Als benodigde besluiten als bedoeld in [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), die betrekking hebben op de projecten, bedoeld in het eerste en tweede lid, worden aangewezen:
 
@@ -2370,19 +2400,19 @@ Uiterlijk op het moment van terinzagelegging van het milieueffectrapport stelt h
 
 - b. het opnemen van regels in een omgevingsplan die zijn gericht op het uitvoeren van een project van publiek belang als bedoeld in [artikel 5.55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.55);
 
-- c. de besluiten, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-07-01&g=2026-07-01), kolom 4; en
+- c. de besluiten, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-10-01&g=2026-10-01), kolom 4; en
 
-- d. de besluiten, bedoeld in [artikel 11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.8&z=2026-07-01&g=2026-07-01).
+- d. de besluiten, bedoeld in [artikel 11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.8&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 11.7. (bijzonderheden bij aanwijzen mer-(beoordelings)plichtige projecten)
 
-1. Voor gevallen die zowel in kolom 2 als in kolom 3 van [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-07-01&g=2026-07-01) zijn aangegeven, wordt bij de voorbereiding van het besluit een milieueffectrapport gemaakt.
+1. Voor gevallen die zowel in kolom 2 als in kolom 3 van [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-10-01&g=2026-10-01) zijn aangegeven, wordt bij de voorbereiding van het besluit een milieueffectrapport gemaakt.
 
-2. Bij de vaststelling of sprake is van een project als bedoeld in [artikel 11.6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.6&z=2026-07-01&g=2026-07-01), wordt het gehele project in beschouwing genomen, met inbegrip van de grensoverschrijdende onderdelen.
+2. Bij de vaststelling of sprake is van een project als bedoeld in [artikel 11.6, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.6&z=2026-10-01&g=2026-10-01), wordt het gehele project in beschouwing genomen, met inbegrip van de grensoverschrijdende onderdelen.
 
-3. Projecten als bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-07-01&g=2026-07-01), kolom 2, in samenhang met kolom 1, die alleen of hoofdzakelijk dienen voor het ontwikkelen en beproeven van nieuwe methoden of producten en die niet langer dan twee jaar worden gebruikt, worden in afwijking van [artikel 11.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.6&z=2026-07-01&g=2026-07-01), aangemerkt als projecten als bedoeld in artikel 11.6, tweede lid.
+3. Projecten als bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-10-01&g=2026-10-01), kolom 2, in samenhang met kolom 1, die alleen of hoofdzakelijk dienen voor het ontwikkelen en beproeven van nieuwe methoden of producten en die niet langer dan twee jaar worden gebruikt, worden in afwijking van [artikel 11.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.6&z=2026-10-01&g=2026-10-01), aangemerkt als projecten als bedoeld in artikel 11.6, tweede lid.
 
-4. Onder een wijziging of uitbreiding als bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-07-01&g=2026-07-01), kolom 3, wordt ook verstaan:
+4. Onder een wijziging of uitbreiding als bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-10-01&g=2026-10-01), kolom 3, wordt ook verstaan:
 
 - a. een wijziging die betrekking heeft op reconstructie of een andere verandering van aangelegde werken, ingerichte gebieden of bestaande installaties; en
 
@@ -2390,15 +2420,15 @@ Uiterlijk op het moment van terinzagelegging van het milieueffectrapport stelt h
 
 ##### Artikel 11.8. (bijzonderheden bij de besluiten bij mer-(beoordelings)plichtige projecten)
 
-1. Als in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-07-01&g=2026-07-01), kolom 4, de omgevingsvergunning voor een milieubelastende activiteit is aangewezen, wordt ook de omgevingsvergunning voor een lozingsactiviteit van afvalwater op een oppervlaktewaterlichaam of een zuiveringtechnisch werk bedoeld voor zover in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) is bepaald dat het is verboden om:
+1. Als in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-10-01&g=2026-10-01), kolom 4, de omgevingsvergunning voor een milieubelastende activiteit is aangewezen, wordt ook de omgevingsvergunning voor een lozingsactiviteit van afvalwater op een oppervlaktewaterlichaam of een zuiveringtechnisch werk bedoeld voor zover in [hoofdstuk 3 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=3) is bepaald dat het is verboden om:
 
 - a. zonder omgevingsvergunning die milieubelastende activiteit te verrichten; en
 
 - b. zonder omgevingsvergunning afvalwater afkomstig van die activiteit op een oppervlaktewaterlichaam of een zuiveringtechnisch werk te lozen.
 
-2. Als geen sprake is van een besluit als bedoeld in [artikel 11.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.6&z=2026-07-01&g=2026-07-01), kan het bevoegd gezag een ander besluit aanwijzen dat nodig is voor een project waarvoor moet worden beoordeeld of dat aanzienlijke milieueffecten kan hebben en, als dat het geval is, waarvoor bij de voorbereiding van dat besluit een milieueffectrapport moet worden gemaakt.
+2. Als geen sprake is van een besluit als bedoeld in [artikel 11.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.6&z=2026-10-01&g=2026-10-01), kan het bevoegd gezag een ander besluit aanwijzen dat nodig is voor een project waarvoor moet worden beoordeeld of dat aanzienlijke milieueffecten kan hebben en, als dat het geval is, waarvoor bij de voorbereiding van dat besluit een milieueffectrapport moet worden gemaakt.
 
-3. Als voor een project een omgevingsvergunning voor een omgevingsplanactiviteit wordt aangevraagd, wordt die omgevingsvergunning voor een omgevingsplanactiviteit aangemerkt als het besluit, bedoeld in [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), in plaats van het besluit tot vaststelling van een omgevingsplan, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-07-01&g=2026-07-01), kolom 4.
+3. Als voor een project een omgevingsvergunning voor een omgevingsplanactiviteit wordt aangevraagd, wordt die omgevingsvergunning voor een omgevingsplanactiviteit aangemerkt als het besluit, bedoeld in [artikel 16.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), in plaats van het besluit tot vaststelling van een omgevingsplan, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=V&z=2026-10-01&g=2026-10-01), kolom 4.
 
 ##### Artikel 11.9. (regels ontheffing)
 
@@ -2442,7 +2472,7 @@ Uiterlijk op het moment van terinzagelegging van het milieueffectrapport stelt h
 
 ##### Artikel 11.11. (project-mer-beoordeling)
 
-1. Het bevoegd gezag neemt binnen zes weken na ontvangst van de mededeling de beslissing, bedoeld in [artikel 16.43, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), op grond van de informatie, bedoeld in [artikel 11.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.10&z=2026-07-01&g=2026-07-01).
+1. Het bevoegd gezag neemt binnen zes weken na ontvangst van de mededeling de beslissing, bedoeld in [artikel 16.43, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), op grond van de informatie, bedoeld in [artikel 11.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.10&z=2026-10-01&g=2026-10-01).
 
 2. Het bevoegd gezag neemt het resultaat van de beoordeling of sprake is van aanzienlijke milieueffecten, bedoeld in [artikel 16.43, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), met de bijbehorende motivering op in het besluit en, voor zover hier sprake van is, in het ontwerp van het besluit.
 
@@ -2452,7 +2482,7 @@ Uiterlijk op het moment van terinzagelegging van het milieueffectrapport stelt h
 
 - b. als is beslist dat geen milieueffectrapport moet worden gemaakt:
 
-   - 1°. de kenmerken en maatregelen, bedoeld in [artikel 11.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.10&z=2026-07-01&g=2026-07-01), als degene die voornemens is het project uit te voeren deze heeft voorgesteld; en
+   - 1°. de kenmerken en maatregelen, bedoeld in [artikel 11.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.10&z=2026-10-01&g=2026-10-01), als degene die voornemens is het project uit te voeren deze heeft voorgesteld; en
 
    - 2°. het moment waarop die maatregelen moeten zijn uitgevoerd.
 
@@ -2514,7 +2544,7 @@ Als voor een project een milieueffectrapport moet worden gemaakt en voor dat pro
 
 ##### Artikel 11.17. (beschrijving project in MER)
 
-De beschrijving van het project, bedoeld in [artikel 11.16, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.16&z=2026-07-01&g=2026-07-01), bevat in ieder geval:
+De beschrijving van het project, bedoeld in [artikel 11.16, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.16&z=2026-10-01&g=2026-10-01), bevat in ieder geval:
 
 - a. een beschrijving van de locatie van het project;
 
@@ -2526,7 +2556,7 @@ De beschrijving van het project, bedoeld in [artikel 11.16, eerste lid, onder a]
 
 ##### Artikel 11.18. (beschrijving milieueffecten in MER)
 
-1. De beschrijving van de mogelijk aanzienlijke milieueffecten van het project, bedoeld in [artikel 11.16, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.16&z=2026-07-01&g=2026-07-01), op de in artikel 11.16, eerste lid, onder d, bedoelde factoren, bevat in ieder geval een beschrijving van:
+1. De beschrijving van de mogelijk aanzienlijke milieueffecten van het project, bedoeld in [artikel 11.16, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.16&z=2026-10-01&g=2026-10-01), op de in artikel 11.16, eerste lid, onder d, bedoelde factoren, bevat in ieder geval een beschrijving van:
 
 - a. de realisatie en het bestaan van het project, en, als dat van toepassing is, van de sloopactiviteiten;
 
@@ -2568,7 +2598,7 @@ De beschrijving van het project, bedoeld in [artikel 11.16, eerste lid, onder a]
 
 ##### Artikel 11.20. (monitoring project-mer)
 
-1. Als op grond van [artikel 11.19, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.19&z=2026-07-01&g=2026-07-01), monitoring plaatsvindt, verstrekt degene die het project uitvoert de resultaten van de monitoring aan het bevoegd gezag.
+1. Als op grond van [artikel 11.19, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=11&afdeling=11.2&artikel=11.19&z=2026-10-01&g=2026-10-01), monitoring plaatsvindt, verstrekt degene die het project uitvoert de resultaten van de monitoring aan het bevoegd gezag.
 
 2. Het bevoegd gezag stelt de resultaten van de monitoring elektronisch beschikbaar.
 
@@ -2728,7 +2758,7 @@ De Commissie voor de milieueffectrapportage brengt jaarlijks voor 1 april aan O
 
 ##### Artikel 12.5. (advisering door werkgroep)
 
-1. De werkgroep, bedoeld in [artikel 12.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=12&afdeling=12.1&artikel=12.4&z=2026-07-01&g=2026-07-01), adviseert aan het bevoegd gezag.
+1. De werkgroep, bedoeld in [artikel 12.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=12&afdeling=12.1&artikel=12.4&z=2026-10-01&g=2026-10-01), adviseert aan het bevoegd gezag.
 
 2. De adviezen worden uitgebracht in overeenstemming met het gevoelen van de meerderheid van de deskundigen in de werkgroep.
 
@@ -2820,7 +2850,7 @@ De OCW-schadebeoordelingscommissie archeologische rijksmonumenten bestaat uit te
 
 - e. het bevoegd gezag, bedoeld in [afdeling 2.2 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&afdeling=2.2): bij een in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=4) of [5 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=5) gestelde verplichting tot monitoring als bedoeld in [artikel 20.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.1) of gegevensverzameling als bedoeld in [artikel 20.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.6), voor zover niet gericht tot een bestuursorgaan;
 
-- f. het bestuursorgaan waaraan op grond van [afdeling 10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&z=2026-07-01&g=2026-07-01) gegevens worden verstrekt: bij een in die afdeling gestelde verplichting tot gegevensverstrekking als bedoeld in [artikel 20.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.6), voor zover niet gericht tot een bestuursorgaan; en
+- f. het bestuursorgaan waaraan op grond van [afdeling 10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&z=2026-10-01&g=2026-10-01) gegevens worden verstrekt: bij een in die afdeling gestelde verplichting tot gegevensverstrekking als bedoeld in [artikel 20.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.6), voor zover niet gericht tot een bestuursorgaan; en
 
 - g. het bestuursorgaan dat verantwoordelijk is voor de uitvoering van een experiment als bedoeld in [artikel 23.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=23.3): bij een aanwijzing tot het treffen van een maatregel als bedoeld in artikel 23.3, zesde lid, van de wet.
 
@@ -2862,37 +2892,37 @@ De bestuursrechtelijke handhavingstaak, bedoeld in [artikel 18.1 van de wet](htt
 
 ##### Artikel 13.3. (toedeling mede-handhavingstaak in verband met regels over instemming)
 
-1. Voor zover het gaat om de naleving van de voorschriften van een omgevingsvergunning voor een activiteit, berust in de volgende gevallen de bestuursrechtelijke handhavingstaak ook bij het bestuursorgaan dat op grond van [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&z=2026-07-01&g=2026-07-01) heeft beslist over instemming met de voorgenomen beslissing op de aanvraag om een omgevingsvergunning voor die activiteit, of dat op grond van [artikel 4.37](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.37&z=2026-07-01&g=2026-07-01) van dit besluit of [artikel 16.16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.16) heeft bepaald dat instemming niet is vereist:
+1. Voor zover het gaat om de naleving van de voorschriften van een omgevingsvergunning voor een activiteit, berust in de volgende gevallen de bestuursrechtelijke handhavingstaak ook bij het bestuursorgaan dat op grond van [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&z=2026-10-01&g=2026-10-01) heeft beslist over instemming met de voorgenomen beslissing op de aanvraag om een omgevingsvergunning voor die activiteit, of dat op grond van [artikel 4.37](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.37&z=2026-10-01&g=2026-10-01) van dit besluit of [artikel 16.16, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.16) heeft bepaald dat instemming niet is vereist:
 
-- a. het dagelijks bestuur van het waterschap: bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.24, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.24&z=2026-07-01&g=2026-07-01);
+- a. het dagelijks bestuur van het waterschap: bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.24, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.24&z=2026-10-01&g=2026-10-01);
 
 - b. gedeputeerde staten:
 
-   - 1°. bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.25, eerste lid, onder a, b, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.25&z=2026-07-01&g=2026-07-01), voor zover bij dat laatste onderdeel de activiteit betrekking heeft op een watersysteem dat of een weg die in beheer is bij de provincie; en
+   - 1°. bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.25, eerste lid, onder a, b, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.25&z=2026-10-01&g=2026-10-01), voor zover bij dat laatste onderdeel de activiteit betrekking heeft op een watersysteem dat of een weg die in beheer is bij de provincie; en
 
-   - 2°. bij een omgevingsvergunning als bedoeld in [artikel 4.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.25&z=2026-07-01&g=2026-07-01), voor zover die betrekking heeft op een ontgrondingsactiviteit in het winterbed van een tot de rijkswateren behorende rivier of buiten de rijkswateren waarbij 100.000 m3 of meer in situ wordt ontgraven;
+   - 2°. bij een omgevingsvergunning als bedoeld in [artikel 4.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.25&z=2026-10-01&g=2026-10-01), voor zover die betrekking heeft op een ontgrondingsactiviteit in het winterbed van een tot de rijkswateren behorende rivier of buiten de rijkswateren waarbij 100.000 m3 of meer in situ wordt ontgraven;
 
-- c. het dagelijks bestuur van een openbaar lichaam als bedoeld in [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20): bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.26&z=2026-07-01&g=2026-07-01);
+- c. het dagelijks bestuur van een openbaar lichaam als bedoeld in [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20): bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.26&z=2026-10-01&g=2026-10-01);
 
 - d. Onze Minister van Economische Zaken en Klimaat:
 
-   - 1°. bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.29&z=2026-07-01&g=2026-07-01); en
+   - 1°. bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.29&z=2026-10-01&g=2026-10-01); en
 
-   - 2°. bij een omgevingsvergunning als bedoeld in [artikel 4.29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.29&z=2026-07-01&g=2026-07-01);
+   - 2°. bij een omgevingsvergunning als bedoeld in [artikel 4.29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.29&z=2026-10-01&g=2026-10-01);
 
 - e. Onze Minister van Infrastructuur en Waterstaat:
 
-   - 1°. bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.30, eerste lid, onder a, b, c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.30&z=2026-07-01&g=2026-07-01), voor zover het bij dat laatste onderdeel gaat om een beperkingengebiedactiviteit met betrekking tot een weg in beheer bij het Rijk of een hoofdspoorweg, of d; en
+   - 1°. bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.30, eerste lid, onder a, b, c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.30&z=2026-10-01&g=2026-10-01), voor zover het bij dat laatste onderdeel gaat om een beperkingengebiedactiviteit met betrekking tot een weg in beheer bij het Rijk of een hoofdspoorweg, of d; en
 
-   - 2°. bij een omgevingsvergunning als bedoeld in [artikel 4.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.30&z=2026-07-01&g=2026-07-01), voor zover die betrekking heeft op een ontgrondingsactiviteit in een rijkswater, anders dan in het winterbed van een rivier, waarbij 100.000 m3 of meer in situ wordt ontgraven;
+   - 2°. bij een omgevingsvergunning als bedoeld in [artikel 4.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.30&z=2026-10-01&g=2026-10-01), voor zover die betrekking heeft op een ontgrondingsactiviteit in een rijkswater, anders dan in het winterbed van een rivier, waarbij 100.000 m3 of meer in situ wordt ontgraven;
 
-- f. Onze Minister van Landbouw, Natuur en Voedselkwaliteit: bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.30a&z=2026-07-01&g=2026-07-01);
+- f. Onze Minister van Landbouw, Natuur en Voedselkwaliteit: bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.30a&z=2026-10-01&g=2026-10-01);
 
-- g. Onze Minister voor Natuur en Stikstof: bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.31&z=2026-07-01&g=2026-07-01); en
+- g. Onze Minister voor Natuur en Stikstof: bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.31&z=2026-10-01&g=2026-10-01); en
 
-- h. Onze Minister van Onderwijs, Cultuur en Wetenschap: bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.32, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.32&z=2026-07-01&g=2026-07-01).
+- h. Onze Minister van Onderwijs, Cultuur en Wetenschap: bij een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in [artikel 4.32, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.2&artikel=4.32&z=2026-10-01&g=2026-10-01).
 
-2. Het eerste lid is niet van toepassing als gedeputeerde staten op grond van [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.16&z=2026-07-01&g=2026-07-01) bevoegd gezag zijn, tenzij het gaat om een geval als bedoeld in het eerste lid, aanhef en onder d, onder 1°.
+2. Het eerste lid is niet van toepassing als gedeputeerde staten op grond van [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.16&z=2026-10-01&g=2026-10-01) bevoegd gezag zijn, tenzij het gaat om een geval als bedoeld in het eerste lid, aanhef en onder d, onder 1°.
 
 3. Als in een projectbesluit uitdrukkelijk is bepaald dat het besluit geldt als een omgevingsvergunning als bedoeld in [artikel 5.52, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.52) en daarbij op grond van [artikel 16.20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.20) geen instemming is vereist, berust de bestuursrechtelijke handhavingstaak voor de betrokken activiteit, voor zover het gaat om de naleving van de voorschriften van de omgevingsvergunning voor die activiteit, in de in het eerste lid, onder a, b en h, bedoelde gevallen ook bij het dagelijks bestuur van het waterschap, gedeputeerde staten, respectievelijk Onze Minister van Onderwijs, Cultuur en Wetenschap.
 
@@ -2920,7 +2950,7 @@ De bestuursrechtelijke handhavingstaak, bedoeld in [artikel 18.1 van de wet](htt
 
 2. De bestuurlijke boete bedraagt ten hoogste 50% van het bedrag dat is vastgesteld voor de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-3. In afwijking van het tweede lid bedraagt de op grond van [7.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=7&afdeling=7.2&artikel=7.6&z=2026-07-01&g=2026-07-01), vast te stellen bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), als ten tijde van het begaan van de overtreding nog geen vijf jaar zijn verstreken sinds een eerder aan de overtreder opgelegde bestuurlijke boete voor een overtreding, behorende tot eenzelfde categorie van gedragingen als bedoeld in het eerste lid, onherroepelijk is geworden.
+3. In afwijking van het tweede lid bedraagt de op grond van [7.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=7&afdeling=7.2&artikel=7.6&z=2026-10-01&g=2026-10-01), vast te stellen bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de eerste categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), als ten tijde van het begaan van de overtreding nog geen vijf jaar zijn verstreken sinds een eerder aan de overtreder opgelegde bestuurlijke boete voor een overtreding, behorende tot eenzelfde categorie van gedragingen als bedoeld in het eerste lid, onherroepelijk is geworden.
 
 #### Afdeling 13.2. Kwaliteitsbevordering en afstemming uitvoering en handhaving
 
@@ -2936,7 +2966,7 @@ Deze afdeling is van toepassing op het verrichten van werkzaamheden voor de uito
 
 1. De bestuursorganen die zijn belast met de uitvoerings- en handhavingstaak stellen een uitvoerings- en handhavingsstrategie vast in een of meer documenten waarin gemotiveerd wordt aangegeven welke doelen worden gesteld voor de uitvoering en handhaving en welke werkzaamheden met het oog op die doelen zullen worden verricht.
 
-2. De bestuursorganen die deelnemen in een omgevingsdienst stellen gezamenlijk een uniforme uitvoerings- en handhavingsstrategie vast voor de werkzaamheden, bedoeld in [artikel 13.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.3&artikel=13.12&z=2026-07-01&g=2026-07-01).
+2. De bestuursorganen die deelnemen in een omgevingsdienst stellen gezamenlijk een uniforme uitvoerings- en handhavingsstrategie vast voor de werkzaamheden, bedoeld in [artikel 13.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.3&artikel=13.12&z=2026-10-01&g=2026-10-01).
 
 3. De handhavingsstrategie wordt zo nodig afgestemd met de instanties die zijn belast met de strafrechtelijke handhaving.
 
@@ -2946,9 +2976,9 @@ Deze afdeling is van toepassing op het verrichten van werkzaamheden voor de uito
 
 1. De uitvoerings- en handhavingsstrategie biedt in ieder geval inzicht in:
 
-- a. de prioriteitenstelling voor het verrichten van de werkzaamheden, bedoeld in [artikel 13.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-07-01&g=2026-07-01);
+- a. de prioriteitenstelling voor het verrichten van de werkzaamheden, bedoeld in [artikel 13.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-10-01&g=2026-10-01);
 
-- b. de methode die wordt gebruikt om te bepalen of de doelen, bedoeld in [artikel 13.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-07-01&g=2026-07-01), worden bereikt;
+- b. de methode die wordt gebruikt om te bepalen of de doelen, bedoeld in [artikel 13.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-10-01&g=2026-10-01), worden bereikt;
 
 - c. de criteria die worden gebruikt bij het beoordelen van en beslissen op aanvragen om omgevingsvergunningen en het beoordelen van meldingen als bedoeld in [artikel 4.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.4); en
 
@@ -2968,7 +2998,7 @@ Deze afdeling is van toepassing op het verrichten van werkzaamheden voor de uito
 
 ##### Artikel 13.7. (nadere inhoud handhavingsstrategie)
 
-1. Tot de wijze waarop toezicht op de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) wordt gehouden, bedoeld in [artikel 13.6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.6&z=2026-07-01&g=2026-07-01), behoort in ieder geval:
+1. Tot de wijze waarop toezicht op de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) wordt gehouden, bedoeld in [artikel 13.6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.6&z=2026-10-01&g=2026-10-01), behoort in ieder geval:
 
 - a. de wijze waarop toezicht wordt voorbereid, uitgaande van een register waarin in ieder geval ippc-installaties zijn opgenomen;
 
@@ -2984,7 +3014,7 @@ Deze afdeling is van toepassing op het verrichten van werkzaamheden voor de uito
 
    - 2°. na het vaststellen van een ernstige overtreding: in ieder geval binnen zes maanden.
 
-2. Tot de wijze waarop wordt gerapporteerd over bevindingen over de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en eventueel daaraan verbonden consequenties, bedoeld in [artikel 13.6, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.6&z=2026-07-01&g=2026-07-01), behoort in ieder geval:
+2. Tot de wijze waarop wordt gerapporteerd over bevindingen over de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en eventueel daaraan verbonden consequenties, bedoeld in [artikel 13.6, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.6&z=2026-10-01&g=2026-10-01), behoort in ieder geval:
 
 - a. de termijn waarbinnen een rapportage wordt gedeeld met betrokkenen, waarbij die termijn voor rapportage met betrekking tot ippc-installaties twee maanden is; en
 
@@ -2992,13 +3022,13 @@ Deze afdeling is van toepassing op het verrichten van werkzaamheden voor de uito
 
 ##### Artikel 13.8. (uitvoeringsprogramma)
 
-1. De bestuursorganen, bedoeld in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-07-01&g=2026-07-01), werken jaarlijks de uitvoerings- en handhavingsstrategie uit in een uitvoeringsprogramma, waarin wordt aangegeven welke van de werkzaamheden, bedoeld in het eerste lid van dat artikel, het komende jaar zullen worden verricht. Daarbij houden ze rekening met de doelen, bedoeld in dat lid, en de prioriteitenstelling, bedoeld in [artikel 13.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.6&z=2026-07-01&g=2026-07-01).
+1. De bestuursorganen, bedoeld in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-10-01&g=2026-10-01), werken jaarlijks de uitvoerings- en handhavingsstrategie uit in een uitvoeringsprogramma, waarin wordt aangegeven welke van de werkzaamheden, bedoeld in het eerste lid van dat artikel, het komende jaar zullen worden verricht. Daarbij houden ze rekening met de doelen, bedoeld in dat lid, en de prioriteitenstelling, bedoeld in [artikel 13.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.6&z=2026-10-01&g=2026-10-01).
 
 2. Het uitvoeringsprogramma wordt zo nodig afgestemd met de instanties die zijn belast met de strafrechtelijke handhaving.
 
 ##### Artikel 13.9. (uitvoeringsorganisatie)
 
-1. De bestuursorganen, bedoeld in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-07-01&g=2026-07-01), richten hun organisatie zodanig in dat een goede uitvoering van de uitvoerings- en handhavingsstrategie en het uitvoeringsprogramma is gewaarborgd.
+1. De bestuursorganen, bedoeld in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-10-01&g=2026-10-01), richten hun organisatie zodanig in dat een goede uitvoering van de uitvoerings- en handhavingsstrategie en het uitvoeringsprogramma is gewaarborgd.
 
 2. De bestuursorganen dragen er in ieder geval zorg voor dat:
 
@@ -3018,7 +3048,7 @@ Deze afdeling is van toepassing op het verrichten van werkzaamheden voor de uito
 
 ##### Artikel 13.10. (borgen van middelen)
 
-De bestuursorganen, bedoeld in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-07-01&g=2026-07-01), dragen er zorg voor dat:
+De bestuursorganen, bedoeld in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-10-01&g=2026-10-01), dragen er zorg voor dat:
 
 - a. de voor het bereiken van de doelen, bedoeld in het eerste lid van dat artikel, en voor het verrichten van de werkzaamheden, bedoeld in dat lid, benodigde en beschikbare financiële en personele middelen inzichtelijk worden gemaakt en in de begroting worden gewaarborgd; en
 
@@ -3026,7 +3056,7 @@ De bestuursorganen, bedoeld in [artikel 13.5](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 13.11. (evaluatierapportage)
 
-1. De bestuursorganen, bedoeld in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-07-01&g=2026-07-01), rapporteren jaarlijks over de mate waarin uitvoering van het uitvoeringsprogramma heeft plaatsgevonden en de mate waarin deze uitvoering heeft bijgedragen aan het bereiken van de doelen, bedoeld in het eerste lid van dat artikel.
+1. De bestuursorganen, bedoeld in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.2&artikel=13.5&z=2026-10-01&g=2026-10-01), rapporteren jaarlijks over de mate waarin uitvoering van het uitvoeringsprogramma heeft plaatsgevonden en de mate waarin deze uitvoering heeft bijgedragen aan het bereiken van de doelen, bedoeld in het eerste lid van dat artikel.
 
 2. Naar aanleiding van de in het eerste lid bedoelde rapportage wordt de uitvoerings- en handhavingsstrategie bezien en zo nodig aangepast.
 
@@ -3036,33 +3066,33 @@ De bestuursorganen, bedoeld in [artikel 13.5](https://wetten.overheid.nl/jci1.3:
 
 1. Het college van burgemeester en wethouders en gedeputeerde staten dragen er zorg voor dat in ieder geval de volgende werkzaamheden, voor zover tot hun taak behorend, en voor zover deze regels zijn gesteld met het oog op de belangen, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.2), [18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=18.3) of [19.1b van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=19.1b), als het gaat om milieubelastende activiteiten, of [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.2), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=4.2), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=5.2), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=6.2) of [7.2 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=7.2), als het gaat om bouwactiviteiten of sloopactiviteiten, door een omgevingsdienst worden verricht:
 
-- a. het voorbereiden van beslissingen op aanvragen om omgevingsvergunningen en het voorbereiden van het toepassen van [paragraaf 5.1.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=5.1.5), voor activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-07-01&g=2026-07-01), categorie 1 tot en met 4, met uitzondering van omgevingsvergunningen voor buitenplanse omgevingsplanactiviteiten;
+- a. het voorbereiden van beslissingen op aanvragen om omgevingsvergunningen en het voorbereiden van het toepassen van [paragraaf 5.1.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=5.1.5), voor activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-10-01&g=2026-10-01), categorie 1 tot en met 4, met uitzondering van omgevingsvergunningen voor buitenplanse omgevingsplanactiviteiten;
 
-- b. het beoordelen van meldingen als bedoeld in [artikel 4.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.4), en het voorbereiden van beschikkingen op aanvragen om toestemming tot het treffen van een gelijkwaardige maatregel, voor activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-07-01&g=2026-07-01), categorie 1 en 5;
+- b. het beoordelen van meldingen als bedoeld in [artikel 4.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.4), en het voorbereiden van beschikkingen op aanvragen om toestemming tot het treffen van een gelijkwaardige maatregel, voor activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-10-01&g=2026-10-01), categorie 1 en 5;
 
-- c. het voorbereiden van beschikkingen tot het stellen van maatwerkvoorschriften, voor activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-07-01&g=2026-07-01), categorie 1 en 5;
+- c. het voorbereiden van beschikkingen tot het stellen van maatwerkvoorschriften, voor activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-10-01&g=2026-10-01), categorie 1 en 5;
 
 - d. het houden van toezicht op de naleving van:
 
-   - 1°. de verboden, bedoeld in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.4), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.5) en [5.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.6), voor activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-07-01&g=2026-07-01), categorie 1 tot en met 4; en
+   - 1°. de verboden, bedoeld in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.4), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.5) en [5.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.6), voor activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-10-01&g=2026-10-01), categorie 1 tot en met 4; en
 
-   - 2°. de regels gesteld bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), over activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-07-01&g=2026-07-01), categorie 1 tot en met 6 en 8;
+   - 2°. de regels gesteld bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) en de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), over activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-10-01&g=2026-10-01), categorie 1 tot en met 6 en 8;
 
-- e. ketentoezicht op de regels over activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-07-01&g=2026-07-01), categorie 7; en
+- e. ketentoezicht op de regels over activiteiten die zijn aangewezen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VI&z=2026-10-01&g=2026-10-01), categorie 7; en
 
 - f. het voorbereiden van bestuurlijke sancties ter handhaving van de verboden en regels, bedoeld onder d en e.
 
 2. Tot de werkzaamheden, bedoeld in het eerste lid, onder a, behoort niet de toepassing van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798).
 
-3. De werkzaamheden, bedoeld in het eerste lid, worden voor de activiteiten, bedoeld in [artikel 18.22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.22), alleen door de in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VII&z=2026-07-01&g=2026-07-01) aangewezen omgevingsdiensten uitgevoerd.
+3. De werkzaamheden, bedoeld in het eerste lid, worden voor de activiteiten, bedoeld in [artikel 18.22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.22), alleen door de in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VII&z=2026-10-01&g=2026-10-01) aangewezen omgevingsdiensten uitgevoerd.
 
-4. Een naamswijziging van een in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VII&z=2026-07-01&g=2026-07-01) aangewezen omgevingsdienst gaat voor de toepassing van dit besluit gelden nadat een daarover genomen besluit bekend is gemaakt in de Staatscourant.
+4. Een naamswijziging van een in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VII&z=2026-10-01&g=2026-10-01) aangewezen omgevingsdienst gaat voor de toepassing van dit besluit gelden nadat een daarover genomen besluit bekend is gemaakt in de Staatscourant.
 
 #### § 13.2.4. Informatieverstrekking uitvoering en handhaving
 
 ##### Artikel 13.13. (verplichting tot informatieverstrekking)
 
-Aan de verplichting tot informatieverstrekking, bedoeld in [artikel 18.25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.25), is in ieder geval voldaan als Onze Minister van Infrastructuur en Waterstaat, Onze Minister van Justitie en Veiligheid en het algemeen bestuur van de omgevingsdiensten de gegevens die zij beheren in verband met het verrichten van de werkzaamheden, bedoeld in [artikel 13.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.3&artikel=13.12&z=2026-07-01&g=2026-07-01), via het beveiligde digitale systeem voor informatie-uitwisseling, Inspectieview Milieu, raadpleegbaar maken.
+Aan de verplichting tot informatieverstrekking, bedoeld in [artikel 18.25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.25), is in ieder geval voldaan als Onze Minister van Infrastructuur en Waterstaat, Onze Minister van Justitie en Veiligheid en het algemeen bestuur van de omgevingsdiensten de gegevens die zij beheren in verband met het verrichten van de werkzaamheden, bedoeld in [artikel 13.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.3&artikel=13.12&z=2026-10-01&g=2026-10-01), via het beveiligde digitale systeem voor informatie-uitwisseling, Inspectieview Milieu, raadpleegbaar maken.
 
 ##### Artikel 13.14. (andere bestuursorganen)
 
@@ -3082,7 +3112,7 @@ Als andere bestuursorganen als bedoeld in [artikel 18.25, tweede lid, van de wet
 
 ##### Artikel 13.15. (gebruik van het burgerservicenummer)
 
-Ten behoeve van de strafrechtelijke handhaving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) wordt door de bestuursorganen, bedoeld in de [artikelen 13.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.4&artikel=13.13&z=2026-07-01&g=2026-07-01) en [13.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.4&artikel=13.14&z=2026-07-01&g=2026-07-01), bij het verstrekken van persoonsgegevens het burgerservicenummer aangegeven.
+Ten behoeve van de strafrechtelijke handhaving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) wordt door de bestuursorganen, bedoeld in de [artikelen 13.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.4&artikel=13.13&z=2026-10-01&g=2026-10-01) en [13.14](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.4&artikel=13.14&z=2026-10-01&g=2026-10-01), bij het verstrekken van persoonsgegevens het burgerservicenummer aangegeven.
 
 ##### Artikel 13.15a. (verwerkingsverantwoordelijke Inspectieview Milieu)
 
@@ -3112,7 +3142,7 @@ Als andere rechtspersonen of natuurlijke personen als bedoeld in [artikel 18.25a
 
 ##### Artikel 13.15e. (gegevensverstrekking uitvoering en handhaving energiegebruik)
 
-1. Aan de verplichting tot het verstrekken van gegevens, bedoeld in [artikel 18.25a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.25a), is in ieder geval voldaan als een persoon als bedoeld in [artikel 13.15d](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.5&artikel=13.15d&z=2026-07-01&g=2026-07-01) op verzoek per adres de volgende gegevens over het energiegebruik verstrekt:
+1. Aan de verplichting tot het verstrekken van gegevens, bedoeld in [artikel 18.25a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.25a), is in ieder geval voldaan als een persoon als bedoeld in [artikel 13.15d](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.5&artikel=13.15d&z=2026-10-01&g=2026-10-01) op verzoek per adres de volgende gegevens over het energiegebruik verstrekt:
 
 - a. straatnaam, huisnummer, postcode en plaatsnaam waarop de aansluiting is geregistreerd;
 
@@ -3132,7 +3162,7 @@ Als andere rechtspersonen of natuurlijke personen als bedoeld in [artikel 18.25a
 
 - i. in voorkomend geval, de in de Basisregistratie adressen en gebouwen opgenomen identificatienummers.
 
-2. De verplichting tot het verstrekken van gegevens is niet van toepassing als het energiegebruik per adres het voorafgaande of laatst beschikbare kalenderjaar, voor zover de gegevens hierover beschikbaar zijn bij de personen, bedoeld in [artikel 13.15d](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.5&artikel=13.15d&z=2026-07-01&g=2026-07-01), voor:
+2. De verplichting tot het verstrekken van gegevens is niet van toepassing als het energiegebruik per adres het voorafgaande of laatst beschikbare kalenderjaar, voor zover de gegevens hierover beschikbaar zijn bij de personen, bedoeld in [artikel 13.15d](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.5&artikel=13.15d&z=2026-10-01&g=2026-10-01), voor:
 
 - a. elektriciteitsverbruik kleiner is dan 50.000 kWh;
 
@@ -3140,7 +3170,7 @@ Als andere rechtspersonen of natuurlijke personen als bedoeld in [artikel 18.25a
 
 - c. verbruik van aardgasequivalenten kleiner is dan 25.000 m3.
 
-3. De gegevens, bedoeld in het eerste lid, worden ten minste één keer per jaar op verzoek door een in [artikel 13.15d](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.5&artikel=13.15d&z=2026-07-01&g=2026-07-01) aangewezen persoon op elektronische wijze verstrekt.
+3. De gegevens, bedoeld in het eerste lid, worden ten minste één keer per jaar op verzoek door een in [artikel 13.15d](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.2&paragraaf=13.2.5&artikel=13.15d&z=2026-10-01&g=2026-10-01) aangewezen persoon op elektronische wijze verstrekt.
 
 #### Afdeling 13.3. Kwaliteitsbevordering en afstemming uitvoering en handhaving bij Seveso-inrichtingen
 
@@ -3158,13 +3188,13 @@ Deze afdeling is van toepassing op het verrichten van de volgende werkzaamheden 
 
 ##### Artikel 13.17. (coördinatie uitvoering en handhaving)
 
-1. Het bevoegd gezag draagt zorg voor de coördinatie van het onderling afgestemd verrichten van de werkzaamheden, bedoeld in [artikel 13.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.1&artikel=13.16&z=2026-07-01&g=2026-07-01), waartoe in ieder geval behoren:
+1. Het bevoegd gezag draagt zorg voor de coördinatie van het onderling afgestemd verrichten van de werkzaamheden, bedoeld in [artikel 13.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.1&artikel=13.16&z=2026-10-01&g=2026-10-01), waartoe in ieder geval behoren:
 
 - a. het houden van toezicht op de naleving van de [artikelen 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.5), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.6), [4.10 tot en met 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.10), [4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.22), [4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.24) en [4.26 tot en met 4.28 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.26);
 
-- b. het vaststellen van een toezichtplan, bedoeld in [artikel 13.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.20&z=2026-07-01&g=2026-07-01);
+- b. het vaststellen van een toezichtplan, bedoeld in [artikel 13.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.20&z=2026-10-01&g=2026-10-01);
 
-- c. het uitwerken van een toezichtplan in toezichtprogramma’s, bedoeld in [artikel 13.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.21&z=2026-07-01&g=2026-07-01);
+- c. het uitwerken van een toezichtplan in toezichtprogramma’s, bedoeld in [artikel 13.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.21&z=2026-10-01&g=2026-10-01);
 
 - d. het overleg over toezicht, toezichtrapporten, bestuurlijke handhaving en andere vervolgacties;
 
@@ -3174,7 +3204,7 @@ Deze afdeling is van toepassing op het verrichten van de volgende werkzaamheden 
 
 2. Het bevoegd gezag, de toezichthouder, bedoeld in [artikel 1, derde lid, onder d, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), en het bestuur van de veiligheidsregio:
 
-- a. verstrekken elkaar onverwijld langs elektronische weg de gegevens en bescheiden waarover zij beschikken, voor zover die gegevens en bescheiden noodzakelijk zijn voor het goed verrichten van de werkzaamheden, bedoeld in [artikel 13.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.1&artikel=13.16&z=2026-07-01&g=2026-07-01); en
+- a. verstrekken elkaar onverwijld langs elektronische weg de gegevens en bescheiden waarover zij beschikken, voor zover die gegevens en bescheiden noodzakelijk zijn voor het goed verrichten van de werkzaamheden, bedoeld in [artikel 13.16](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.1&artikel=13.16&z=2026-10-01&g=2026-10-01); en
 
 - b. stemmen het verrichten van de werkzaamheden, bedoeld onder a, onderling af.
 
@@ -3188,9 +3218,9 @@ Deze afdeling is van toepassing op het verrichten van de volgende werkzaamheden 
 
 - d. een opgesteld of bijgewerkt veiligheidsrapport of deel daarvan;
 
-- e. de conclusies van het onderzoek van het veiligheidsrapport, bedoeld in [artikel 13.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.19&z=2026-07-01&g=2026-07-01);
+- e. de conclusies van het onderzoek van het veiligheidsrapport, bedoeld in [artikel 13.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.19&z=2026-10-01&g=2026-10-01);
 
-- f. de toezichtrapporten, bedoeld in [artikel 13.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.23&z=2026-07-01&g=2026-07-01);
+- f. de toezichtrapporten, bedoeld in [artikel 13.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.23&z=2026-10-01&g=2026-10-01);
 
 - g. handhavingsacties en beschikkingen tot het opleggen van een bestuurlijke sanctie aan degene die een Seveso-inrichting exploiteert;
 
@@ -3278,7 +3308,7 @@ Deze afdeling is van toepassing op het verrichten van de volgende werkzaamheden 
 
 ##### Artikel 13.23. (bevindingen toezicht)
 
-1. Binnen vier maanden na afronding van een bezoek, controle of onderzoek als bedoeld in [artikel 13.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.22&z=2026-07-01&g=2026-07-01), worden de bevindingen vastgelegd in een toezichtrapport en meegedeeld aan degene die de Seveso-inrichting exploiteert.
+1. Binnen vier maanden na afronding van een bezoek, controle of onderzoek als bedoeld in [artikel 13.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.22&z=2026-10-01&g=2026-10-01), worden de bevindingen vastgelegd in een toezichtrapport en meegedeeld aan degene die de Seveso-inrichting exploiteert.
 
 2. Het bevoegd gezag, de toezichthouder, bedoeld in [artikel 1, derde lid, onder d, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), en het bestuur van de veiligheidsregio zien er, voor zover het gaat om de uitoefening van hun bevoegdheden en het verrichten van hun werkzaamheden, op toe dat degene die de Seveso-inrichting exploiteert binnen een redelijke termijn na de mededeling, bedoeld in het eerste lid, de bevindingen opvolgt door de vereiste maatregelen te treffen.
 
@@ -3292,7 +3322,7 @@ Deze afdeling is van toepassing op het verrichten van de volgende werkzaamheden 
 
 - b. inlichtingen over de wijze waarop op verzoek meer gedetailleerde gegevens over het toezicht en het toezichtplan kunnen worden verkregen.
 
-2. Als gegevens als bedoeld in [artikel 19.3, eerste lid, laatste zin, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.3) worden aangewezen toezichtrapporten als bedoeld in [artikel 13.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.23&z=2026-07-01&g=2026-07-01).
+2. Als gegevens als bedoeld in [artikel 19.3, eerste lid, laatste zin, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.3) worden aangewezen toezichtrapporten als bedoeld in [artikel 13.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.3&paragraaf=13.3.2&artikel=13.23&z=2026-10-01&g=2026-10-01).
 
 3. Als toepassing wordt gegeven aan de bevoegdheid, bedoeld in [artikel 19.3, eerste lid, eerste zin, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.3), wordt een aangepast toezichtrapport beschikbaar gesteld, dat ten minste algemene gegevens bevat over risico’s van zware ongevallen, de mogelijke gevolgen daarvan voor de gezondheid en het milieu en de bevindingen van het toezicht.
 
@@ -3314,11 +3344,11 @@ Een daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen, 
 
 ##### Artikel 13.27. (bestuurlijke boete voor overtredingen Arbeidsomstandighedenwet)
 
-1. Als overtreding waarvoor een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of nalaten door de werkgever, bedoeld in [artikel 1, eerste of tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), of de werkzame zelfstandige of werkgever die de arbeid zelf verricht, in strijd met de in [artikel 13.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.4&paragraaf=13.4.2&artikel=13.26&z=2026-07-01&g=2026-07-01) genoemde artikelen, met uitzondering van [artikel 4.9, derde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.9).
+1. Als overtreding waarvoor een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of nalaten door de werkgever, bedoeld in [artikel 1, eerste of tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), of de werkzame zelfstandige of werkgever die de arbeid zelf verricht, in strijd met de in [artikel 13.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.4&paragraaf=13.4.2&artikel=13.26&z=2026-10-01&g=2026-10-01) genoemde artikelen, met uitzondering van [artikel 4.9, derde lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.9).
 
 2. Als ernstige overtreding als bedoeld in [artikel 34, zesde en negende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34) wordt aangemerkt een overtreding waardoor de werkgever, bedoeld in [artikel 1, eerste of tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=1), of de werkzame zelfstandige of werkgever die de arbeid zelf verricht, weet of redelijkerwijs moet weten dat levensgevaar of ernstige schade aan de gezondheid van een of meer werknemers of van de werkzame zelfstandige of werkgever die de arbeid verricht, ontstaat of is te verwachten.
 
-3. Als soortgelijke verplichtingen en verboden als bedoeld in [artikel 34, vijfde en zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34) worden aangewezen verplichtingen en verboden die voortvloeien uit het in de in [artikel 13.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.4&paragraaf=13.4.2&artikel=13.26&z=2026-07-01&g=2026-07-01) genoemde artikelen bepaalde, voor zover het boetenormbedrag voor de bestuurlijke boete op overtreding van die verplichting of dat verbod op grond van de beleidsregels, bedoeld in artikel 34, tiende lid, van die wet, hoger is dan € 12.500,–.
+3. Als soortgelijke verplichtingen en verboden als bedoeld in [artikel 34, vijfde en zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34) worden aangewezen verplichtingen en verboden die voortvloeien uit het in de in [artikel 13.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.4&paragraaf=13.4.2&artikel=13.26&z=2026-10-01&g=2026-10-01) genoemde artikelen bepaalde, voor zover het boetenormbedrag voor de bestuurlijke boete op overtreding van die verplichting of dat verbod op grond van de beleidsregels, bedoeld in artikel 34, tiende lid, van die wet, hoger is dan € 12.500,–.
 
 4. Een overtreding van [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.9), of [4.11 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.11) wordt aangemerkt als een soortgelijke overtreding als het boetenormbedrag op deze overtreding op grond van de beleidsregels, bedoeld in [artikel 34, tiende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34), is ingedeeld in dezelfde boetecategorie als het boetenormbedrag van de eerdere overtreding.
 
@@ -3328,7 +3358,7 @@ Een daartoe door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen, 
 
 2. Als de aard van de overtreding of de soortgelijke overtreding, de met de overtreding of soortgelijke overtreding samenhangende omstandigheden of de gevolgen van een stillegging van de werkzaamheden daartoe aanleiding geven, kan worden afgezien van het geven van een waarschuwing en het opleggen van een bevel.
 
-3. Van een soortgelijke overtreding als bedoeld in het eerste en tweede lid is sprake als het gaat om een overtreding van de in [artikel 13.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.4&paragraaf=13.4.2&artikel=13.26&z=2026-07-01&g=2026-07-01) genoemde artikelen, voor zover het boetenormbedrag voor de bestuurlijke boete op deze overtreding op grond van de beleidsregels, bedoeld in [artikel 34, tiende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34), hoger is dan € 50.000,–.
+3. Van een soortgelijke overtreding als bedoeld in het eerste en tweede lid is sprake als het gaat om een overtreding van de in [artikel 13.26](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.4&paragraaf=13.4.2&artikel=13.26&z=2026-10-01&g=2026-10-01) genoemde artikelen, voor zover het boetenormbedrag voor de bestuurlijke boete op deze overtreding op grond van de beleidsregels, bedoeld in [artikel 34, tiende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34), hoger is dan € 50.000,–.
 
 4. Een overtreding van [artikel 4.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.9), of [4.11 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.11) wordt aangemerkt als een soortgelijke overtreding als het boetenormbedrag van deze overtreding op grond van de beleidsregels, bedoeld in [artikel 34, tiende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34), is ingedeeld in dezelfde boetecategorie als het boetenormbedrag van de eerdere overtreding.
 
@@ -3370,7 +3400,7 @@ Handelen of nalaten door de werkgever, bedoeld in [artikel 1, eerste of tweede l
 
    - 2°. een valkeniersactiviteit;
 
-   - 3°. een flora- en fauna-activiteit van nationaal belang als bedoeld in [artikel 4.12, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-07-01&g=2026-07-01);
+   - 3°. een flora- en fauna-activiteit van nationaal belang als bedoeld in [artikel 4.12, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.3&artikel=4.12&z=2026-10-01&g=2026-10-01);
 
    - 4°. een activiteit met betrekking tot dieren, planten of producten daarvan als bedoeld in [artikel 11.96 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.96); of
 
@@ -3414,7 +3444,7 @@ Handelen of nalaten door de werkgever, bedoeld in [artikel 1, eerste of tweede l
 
 ##### Artikel 14.5. (verstrekking gegevens over besluiten en andere rechtsfiguren)
 
-Aan de Dienst, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2), worden de in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VIII&z=2026-07-01&g=2026-07-01) genoemde gegevens over de besluiten en andere rechtsfiguren, bedoeld in [artikel 14.4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.2&artikel=14.4&z=2026-07-01&g=2026-07-01), verstrekt door:
+Aan de Dienst, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2), worden de in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&bijlage=VIII&z=2026-10-01&g=2026-10-01) genoemde gegevens over de besluiten en andere rechtsfiguren, bedoeld in [artikel 14.4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.2&artikel=14.4&z=2026-10-01&g=2026-10-01), verstrekt door:
 
 - a. het college van burgemeester en wethouders, voor zover het gaat om een besluit dat of een andere rechtsfiguur die op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is vastgesteld door een bestuursorgaan van de gemeente;
 
@@ -3432,7 +3462,7 @@ De landelijke voorziening voorziet in het elektronisch kunnen uitwisselen van ge
 
 ##### Artikel 14.5b. (doorzendfunctionaliteit)
 
-De landelijke voorziening voorziet in het elektronisch doorzenden van een melding of gegevens en bescheiden om te voldoen aan een andere informatieverplichting dan een melding op grond van de wet naar Onze Minister van Infrastructuur en Waterstaat voor het uitoefenen van de bestuursrechtelijke handhavingstaak, bedoeld in [artikel 13.1, eerste lid, aanhef en onder e, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2026-07-01&g=2026-07-01).
+De landelijke voorziening voorziet in het elektronisch doorzenden van een melding of gegevens en bescheiden om te voldoen aan een andere informatieverplichting dan een melding op grond van de wet naar Onze Minister van Infrastructuur en Waterstaat voor het uitoefenen van de bestuursrechtelijke handhavingstaak, bedoeld in [artikel 13.1, eerste lid, aanhef en onder e, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2026-10-01&g=2026-10-01).
 
 #### Afdeling 14.3. Gegevensbeheer en persoonsgegevens
 
@@ -3442,7 +3472,7 @@ De landelijke voorziening voorziet in het elektronisch doorzenden van een meldin
 
 In deze afdeling wordt verstaan onder:
 
-- *bericht:* elektronisch bericht als bedoeld in [artikel 14.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.1&artikel=14.1&z=2026-07-01&g=2026-07-01);
+- *bericht:* elektronisch bericht als bedoeld in [artikel 14.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.1&artikel=14.1&z=2026-10-01&g=2026-10-01);
 
 - *bezoeker:* degene die de landelijke voorziening bezoekt, maar niet inlogt;
 
@@ -3474,7 +3504,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 14.7b. (doorzenden berichten)
 
-1. Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties brengt een ingediend bericht over een milieubelastende activiteit als bedoeld in [artikel 3.48m](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48m), [3.48o](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48o) of [3.48r van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48r) onverwijld binnen het bereik van Onze Minister van Infrastructuur en Waterstaat voor het uitoefenen van de bestuursrechtelijke handhavingstaak, bedoeld in [artikel 13.1, eerste lid, aanhef en onder e, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2026-07-01&g=2026-07-01).
+1. Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties brengt een ingediend bericht over een milieubelastende activiteit als bedoeld in [artikel 3.48m](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48m), [3.48o](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48o) of [3.48r van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48r) onverwijld binnen het bereik van Onze Minister van Infrastructuur en Waterstaat voor het uitoefenen van de bestuursrechtelijke handhavingstaak, bedoeld in [artikel 13.1, eerste lid, aanhef en onder e, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2026-10-01&g=2026-10-01).
 
 2. Een ingediend bericht wordt ten hoogste een jaar in de landelijke voorziening bewaard.
 
@@ -3486,9 +3516,9 @@ In deze afdeling wordt verstaan onder:
 
 2. Het bevoegd gezag is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in een bericht, vanaf het moment dat het dit heeft opgehaald uit de landelijke voorziening.
 
-3. Onze Minister van Infrastructuur en Waterstaat is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in een bericht als bedoeld in [artikel 14.7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.2&artikel=14.7b&z=2026-07-01&g=2026-07-01), vanaf het moment dat hij dit heeft opgehaald uit de landelijke voorziening.
+3. Onze Minister van Infrastructuur en Waterstaat is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in een bericht als bedoeld in [artikel 14.7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.2&artikel=14.7b&z=2026-10-01&g=2026-10-01), vanaf het moment dat hij dit heeft opgehaald uit de landelijke voorziening.
 
-4. In afwijking van het eerste lid zijn, als sprake is van het uitwisselen van gegevens als bedoeld in [artikel 14.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.2&artikel=14.7a&z=2026-07-01&g=2026-07-01), Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en het bestuursorgaan dat het initiatief heeft genomen tot het uitwisselen van gegevens gezamenlijke verwerkingsverantwoordelijken voor de verwerking van persoonsgegevens.
+4. In afwijking van het eerste lid zijn, als sprake is van het uitwisselen van gegevens als bedoeld in [artikel 14.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.2&artikel=14.7a&z=2026-10-01&g=2026-10-01), Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en het bestuursorgaan dat het initiatief heeft genomen tot het uitwisselen van gegevens gezamenlijke verwerkingsverantwoordelijken voor de verwerking van persoonsgegevens.
 
 ##### Artikel 14.9. (verwerking persoonsgegevens voor toegang tot landelijke voorziening)
 
@@ -3522,7 +3552,7 @@ In deze afdeling wordt verstaan onder:
 
 - b. over derden die direct zijn betrokken bij de activiteit waarop het bericht betrekking heeft: gegevens om het bericht te kunnen beoordelen volgens de daarvoor geldende regels, waaronder de naam, het adres, het telefoonnummer, de functie en een bewijs van vakbekwaamheid.
 
-2. Voor de persoonsgegevens gelden de in [artikel 14.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.2&artikel=14.7&z=2026-07-01&g=2026-07-01), genoemde bewaartermijnen.
+2. Voor de persoonsgegevens gelden de in [artikel 14.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.2&artikel=14.7&z=2026-10-01&g=2026-10-01), genoemde bewaartermijnen.
 
 ##### Artikel 14.10a. (verwerking persoonsgegevens bij samenwerken)
 
@@ -3538,11 +3568,11 @@ In deze afdeling wordt verstaan onder:
 
 - b. over derden die direct zijn betrokken bij de activiteit waarop de aanvraag of melding betrekking heeft of waarop de gegevens en bescheiden betrekking hebben: gegevens om de aanvraag, melding of gegevens en bescheiden te kunnen beoordelen volgens de daarvoor geldende regels, waaronder de naam, het adres, het telefoonnummer, de functie en een bewijs van vakbekwaamheid.
 
-2. Voor de persoonsgegevens gelden de in [artikel 14.7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.2&artikel=14.7a&z=2026-07-01&g=2026-07-01), genoemde bewaartermijnen.
+2. Voor de persoonsgegevens gelden de in [artikel 14.7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.2&artikel=14.7a&z=2026-10-01&g=2026-10-01), genoemde bewaartermijnen.
 
 ##### Artikel 14.10b. (verstrekking van persoonsgegevens bij samenwerken)
 
-Het bestuursorgaan dat het initiatief heeft genomen tot het uitwisselen van gegevens, bedoeld in [artikel 14.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.3&artikel=14.8&z=2026-07-01&g=2026-07-01), kan de persoonsgegevens, bedoeld in [artikel 14.10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.3&artikel=14.10a&z=2026-07-01&g=2026-07-01), verstrekken aan de volgende bestuursorganen of adviseurs voor zover dat noodzakelijk is voor een goede vervulling van een wettelijke taak:
+Het bestuursorgaan dat het initiatief heeft genomen tot het uitwisselen van gegevens, bedoeld in [artikel 14.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.3&artikel=14.8&z=2026-10-01&g=2026-10-01), kan de persoonsgegevens, bedoeld in [artikel 14.10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.3&artikel=14.10a&z=2026-10-01&g=2026-10-01), verstrekken aan de volgende bestuursorganen of adviseurs voor zover dat noodzakelijk is voor een goede vervulling van een wettelijke taak:
 
 - a. een ander bestuursorgaan vanwege de betrokkenheid van dat bestuursorgaan bij de voorbereiding van een besluit als bedoeld in [artikel 16.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.7), waarop [afdeling 3.5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.5) van toepassing is;
 
@@ -3554,7 +3584,7 @@ Het bestuursorgaan dat het initiatief heeft genomen tot het uitwisselen van gege
 
 ##### Artikel 14.10c. (verwerking persoonsgegevens bij doorzenden)
 
-1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verwerkt voor het doorzenden van berichten over meldingen en gegevens en bescheiden als bedoeld in [artikel 14.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.2a&artikel=14.5b&z=2026-07-01&g=2026-07-01) naar Onze Minister van Infrastructuur en Waterstaat de volgende persoonsgegevens:
+1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verwerkt voor het doorzenden van berichten over meldingen en gegevens en bescheiden als bedoeld in [artikel 14.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.2a&artikel=14.5b&z=2026-10-01&g=2026-10-01) naar Onze Minister van Infrastructuur en Waterstaat de volgende persoonsgegevens:
 
 - a. over gebruikers: gegevens om te kunnen communiceren, waaronder de naam, de organisatienaam, het adres, het e-mailadres en het telefoonnummer;
 
@@ -3562,7 +3592,7 @@ Het bestuursorgaan dat het initiatief heeft genomen tot het uitwisselen van gege
 
 - c. over derden: gegevens om de milieuverklaring bodemkwaliteit, bedoeld in [artikel 1, vierde lid, van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1), te kunnen verifiëren, waaronder de organisatienaam.
 
-2. Voor de persoonsgegevens geldt de in [artikel 14.7b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.2&artikel=14.7b&z=2026-07-01&g=2026-07-01), genoemde bewaartermijn.
+2. Voor de persoonsgegevens geldt de in [artikel 14.7b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.2&artikel=14.7b&z=2026-10-01&g=2026-10-01), genoemde bewaartermijn.
 
 ##### Artikel 14.11. (verwerking persoonsgegevens voor operationele werking landelijke voorziening)
 
@@ -3572,7 +3602,7 @@ Het bestuursorgaan dat het initiatief heeft genomen tot het uitwisselen van gege
 
 - b. over gebruikers en medewerkers van bestuursorganen en adviseurs: gegevens in auditlogbestanden voor incidentoplossing, onderzoek naar oneigenlijk gebruik en bewijsvoering in juridische geschillen of procedures, waaronder het DSO-LV-id, de gebeurtenis, de datum en het tijdstip van de gebeurtenis en het IP-adres; en
 
-- c. over gebruikers, initiatiefnemers en derden die direct zijn betrokken bij de activiteit waarop een bericht betrekking heeft: gegevens in auditlogbestanden voor incidentoplossing, onderzoek naar oneigenlijk gebruik en bewijsvoering in juridische geschillen of procedures, bestaande uit de gegevens, bedoeld in de [artikelen 14.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.3&artikel=14.10&z=2026-07-01&g=2026-07-01), en [14.10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.3&artikel=14.10a&z=2026-07-01&g=2026-07-01).
+- c. over gebruikers, initiatiefnemers en derden die direct zijn betrokken bij de activiteit waarop een bericht betrekking heeft: gegevens in auditlogbestanden voor incidentoplossing, onderzoek naar oneigenlijk gebruik en bewijsvoering in juridische geschillen of procedures, bestaande uit de gegevens, bedoeld in de [artikelen 14.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.3&artikel=14.10&z=2026-10-01&g=2026-10-01), en [14.10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=14&afdeling=14.3&paragraaf=14.3.3&artikel=14.10a&z=2026-10-01&g=2026-10-01).
 
 2. De persoonsgegevens en technische logbestanden, bedoeld in het eerste lid, onder a, worden ten hoogste achttien maanden in de landelijke voorziening bewaard, waarbij de sessiegegevens alleen worden bewaard tot het moment waarop de sessie wordt beëindigd. De auditlogbestanden, bedoeld in het eerste lid, onder b en c, worden ten hoogste vijf jaar in de landelijke voorziening bewaard.
 
@@ -3638,21 +3668,21 @@ De Dienst, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.
 
 ##### Artikel 15.3. (opstellen en melding lijst met vanwege het geluid te saneren gebouwen)
 
-1. Voorafgaand aan het opstellen van de lijst, bedoeld in [artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=15&paragraaf=15.1&artikel=15.2&z=2026-07-01&g=2026-07-01), publiceren het college van burgemeester en wethouders, het dagelijks bestuur van een waterschap en gedeputeerde staten een ontwerp van de lijst en stellen zij Onze Minister van Infrastructuur en Waterstaat in de gelegenheid een zienswijze naar voren te brengen.
+1. Voorafgaand aan het opstellen van de lijst, bedoeld in [artikel 15.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=15&paragraaf=15.1&artikel=15.2&z=2026-10-01&g=2026-10-01), publiceren het college van burgemeester en wethouders, het dagelijks bestuur van een waterschap en gedeputeerde staten een ontwerp van de lijst en stellen zij Onze Minister van Infrastructuur en Waterstaat in de gelegenheid een zienswijze naar voren te brengen.
 
 2. Bij de publicatie van het ontwerp van de lijst wordt aangegeven hoe burgers, bedrijven en maatschappelijke organisaties bij de samenstelling van de lijst zijn betrokken.
 
-3. Het college van burgemeester en wethouders, het dagelijks bestuur van een waterschap en gedeputeerde staten zenden een afschrift van de lijst voor het in [artikel 15.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=15&paragraaf=15.1&artikel=15.2&z=2026-07-01&g=2026-07-01), bedoelde tijdstip op elektronische wijze aan Onze Minister van Infrastructuur en Waterstaat.
+3. Het college van burgemeester en wethouders, het dagelijks bestuur van een waterschap en gedeputeerde staten zenden een afschrift van de lijst voor het in [artikel 15.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=15&paragraaf=15.1&artikel=15.2&z=2026-10-01&g=2026-10-01), bedoelde tijdstip op elektronische wijze aan Onze Minister van Infrastructuur en Waterstaat.
 
 #### § 15.2. Geluidregister
 
 ##### Artikel 15.4. (afwijkend tijdstip gegevensverstrekking ten behoeve van het geluidregister)
 
-1. In afwijking van [artikel 10.42a, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42a&z=2026-07-01&g=2026-07-01), verstrekt het bestuursorgaan dat bevoegd is geluidproductieplafonds vast te stellen de in die onderdelen bedoelde gegevens met betrekking tot geluidproductieplafonds langs wegen en spoorwegen die zijn herberekend op grond van [artikel 3.2 van de Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&artikel=3.2), met uitzondering van het gegeven, bedoeld in [artikel 11.52, eerste lid, onder a, onder 8°, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.52), binnen vier weken na die herberekening.
+1. In afwijking van [artikel 10.42a, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42a&z=2026-10-01&g=2026-10-01), verstrekt het bestuursorgaan dat bevoegd is geluidproductieplafonds vast te stellen de in die onderdelen bedoelde gegevens met betrekking tot geluidproductieplafonds langs wegen en spoorwegen die zijn herberekend op grond van [artikel 3.2 van de Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&artikel=3.2), met uitzondering van het gegeven, bedoeld in [artikel 11.52, eerste lid, onder a, onder 8°, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.52), binnen vier weken na die herberekening.
 
-2. In afwijking van [artikel 10.42a, eerste lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42a&z=2026-07-01&g=2026-07-01), verstrekken gedeputeerde staten, Onze Minister van Defensie en Onze Minister van Infrastructuur en Waterstaat de in dat onderdeel bedoelde gegevens met betrekking tot op het tijdstip van inwerkingtreding van het [Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679) geldende besluit over het toegelaten geluid van een luchthaven waarvoor op grond van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) een luchthavenindelingbesluit, een luchthavenbesluit of een besluit beperkingengebied buitenlandse luchthaven is vereist, binnen een bij koninklijk besluit te bepalen termijn.
+2. In afwijking van [artikel 10.42a, eerste lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42a&z=2026-10-01&g=2026-10-01), verstrekken gedeputeerde staten, Onze Minister van Defensie en Onze Minister van Infrastructuur en Waterstaat de in dat onderdeel bedoelde gegevens met betrekking tot op het tijdstip van inwerkingtreding van het [Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679) geldende besluit over het toegelaten geluid van een luchthaven waarvoor op grond van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) een luchthavenindelingbesluit, een luchthavenbesluit of een besluit beperkingengebied buitenlandse luchthaven is vereist, binnen een bij koninklijk besluit te bepalen termijn.
 
-3. In afwijking van [artikel 10.42a, eerste lid, aanhef en onder g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42a&z=2026-07-01&g=2026-07-01), verstrekt het college van burgemeester en wethouders, de gemeenteraad, gedeputeerde staten, Onze Minister voor Infrastructuur en Waterstaat, Onze Minister voor Klimaat en Energie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties binnen een bij koninklijk besluit te bepalen termijn de in die onderdelen bedoelde gegevens met betrekking tot activiteiten die op het tijdstip van inwerkingtreding van het [Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679) rechtmatig worden verricht.
+3. In afwijking van [artikel 10.42a, eerste lid, aanhef en onder g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=10&afdeling=10.8&paragraaf=10.8.5&artikel=10.42a&z=2026-10-01&g=2026-10-01), verstrekt het college van burgemeester en wethouders, de gemeenteraad, gedeputeerde staten, Onze Minister voor Infrastructuur en Waterstaat, Onze Minister voor Klimaat en Energie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties binnen een bij koninklijk besluit te bepalen termijn de in die onderdelen bedoelde gegevens met betrekking tot activiteiten die op het tijdstip van inwerkingtreding van het [Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679) rechtmatig worden verricht.
 
 #### § 15.3. Programma legalisering projecten natuur
 

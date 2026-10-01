@@ -5,18 +5,18 @@ identifier: "BWBR0032987"
 categorie: "Strafrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2020-01-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0032987"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-01
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 28 februari 2013, met nr. 349706 houdende aanwijzing van de vermogenstraceerders werkzaam bij het Openbaar Ministerie, de buitengewone opsporingsambtenaren werkzaam bij de politie en de opsporingsambtenaren van de bijzondere opsporingsdiensten, als ambtenaren in de zin van de artikelen 556, eerste lid, van het Wetboek van Strafvordering
 
 ##### Artikel 1
 
-Als ambtenaren die kunnen worden belast met de tenuitvoerlegging van rechterlijke beslissingen of beslissingen van het openbaar ministerie, als bedoeld in [artikel 556, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=556), worden aangewezen:
+Als ambtenaren die kunnen worden belast met de tenuitvoerlegging van rechterlijke beslissingen of beslissingen van het openbaar ministerie, als bedoeld in [artikel 6:1:5, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5), worden aangewezen:
 
 - a. de vermogenstraceerders, werkzaam bij het Bureau Ontnemingswetgeving Openbaar Ministerie (BOOM), die op grond van [artikel 142, eerste lid, aanhef en onder b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) zijn aangewezen;
 
