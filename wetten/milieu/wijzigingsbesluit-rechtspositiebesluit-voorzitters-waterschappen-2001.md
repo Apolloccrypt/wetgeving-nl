@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0012470"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 9 mei 2001, houdende wijziging van het Rechtspositiebesluit voorzitters waterschappen

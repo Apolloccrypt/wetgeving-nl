@@ -8,7 +8,7 @@ laatste_update: 2004-01-29
 status: geldig
 toestand: 2004-01-29
 bron: "https://wetten.overheid.nl/BWBR0011367"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Instelling Commissie van Externe Deskundigen voor Subsidieprogramma Transportpreventie

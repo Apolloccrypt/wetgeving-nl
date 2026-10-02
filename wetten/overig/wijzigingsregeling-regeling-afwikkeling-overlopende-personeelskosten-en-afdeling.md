@@ -8,7 +8,7 @@ laatste_update: 2001-03-24
 status: geldig
 toestand: 2001-03-24
 bron: "https://wetten.overheid.nl/BWBR0012295"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wijzigingsregeling Regeling afwikkeling overlopende personeelskosten en afdelingen voor svo/lom dan wel svo/mlk, enz. (vervallen overhevelingstoeslag)

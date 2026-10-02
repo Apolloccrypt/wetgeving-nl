@@ -8,7 +8,7 @@ laatste_update: 2001-08-01
 status: geldig
 toestand: 2001-08-01
 bron: "https://wetten.overheid.nl/BWBR0012388"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Schoolbudget voor ontwikkeling en ondersteuning per 1 augustus 2001

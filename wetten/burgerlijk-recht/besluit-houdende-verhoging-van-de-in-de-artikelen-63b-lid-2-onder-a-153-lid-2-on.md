@@ -9,7 +9,7 @@ laatste_update: 2000-09-01
 status: geldig
 toestand: 2000-09-01
 bron: "https://wetten.overheid.nl/BWBR0011460"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 4 juli 2000, houdende verhoging van de in de artikelen 63b lid 2 onder a, 153 lid 2 onder a en 263 lid 2 onder a van boek 2 van het Burgerlijk Wetboek bedoelde grensbedragen alsmede omzetting in euro (financiële benedengrens verplichte structuurregeling)

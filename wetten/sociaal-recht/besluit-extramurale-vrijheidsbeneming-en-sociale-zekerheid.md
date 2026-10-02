@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0011136"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 28 januari 2000 tot openstelling van het recht op een socialezekerheidsuitkering voor personen die deelnemen aan een penitentiair programma en personen die ter beschikking zijn gesteld en proefverlof genieten (Besluit extramurale vrijheidsbeneming en sociale zekerheid)

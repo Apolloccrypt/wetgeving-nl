@@ -9,7 +9,7 @@ laatste_update: 2001-01-31
 status: geldig
 toestand: 2001-01-31
 bron: "https://wetten.overheid.nl/BWBR0011956"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 13 december 2000 tot wijziging van de Algemene militaire pensioenwet (doorvertaling akkoord nabestaandenpensioen overheidspersoneel en enige andere wijzigingen)

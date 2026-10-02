@@ -9,7 +9,7 @@ laatste_update: 2003-07-16
 status: geldig
 toestand: 2003-07-16
 bron: "https://wetten.overheid.nl/BWBR0012459"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 4 mei 2001, houdende regels inzake de verstrekking van subsidies in het kader van niet-fysieke stadseconomie in grote steden (Besluit subsidies niet-fysieke stadseconomie grote steden)

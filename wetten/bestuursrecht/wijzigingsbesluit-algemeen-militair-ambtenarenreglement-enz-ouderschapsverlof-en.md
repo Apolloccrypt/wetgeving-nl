@@ -9,7 +9,7 @@ laatste_update: 2001-07-11
 status: geldig
 toestand: 2001-07-11
 bron: "https://wetten.overheid.nl/BWBR0012583"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 15 juni 2001, houdende wijziging van het Algemeen militair ambtenarenreglement en het Burgerlijk ambtenarenreglement defensie inzake ouderschapsverlof en meerlingen

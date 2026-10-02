@@ -9,7 +9,7 @@ laatste_update: 2000-10-01
 status: geldig
 toestand: 2000-10-01
 bron: "https://wetten.overheid.nl/BWBR0011320"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 25 april 2000 tot wijziging van de Wet milieubeheer (meldingenstelsel)

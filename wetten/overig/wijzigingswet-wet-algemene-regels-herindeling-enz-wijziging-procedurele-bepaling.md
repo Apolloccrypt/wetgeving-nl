@@ -9,7 +9,7 @@ laatste_update: 2001-02-21
 status: geldig
 toestand: 2001-02-21
 bron: "https://wetten.overheid.nl/BWBR0012189"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 25 januari 2001 tot wijziging van de Wet algemene regels herindeling, de Provinciewet en de Gemeentewet (Wijziging procedurele bepalingen)

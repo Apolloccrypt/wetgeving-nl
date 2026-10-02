@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0032987"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 28 februari 2013, met nr. 349706 houdende aanwijzing van de vermogenstraceerders werkzaam bij het Openbaar Ministerie, de buitengewone opsporingsambtenaren werkzaam bij de politie en de opsporingsambtenaren van de bijzondere opsporingsdiensten, als ambtenaren in de zin van de artikelen 556, eerste lid, van het Wetboek van Strafvordering

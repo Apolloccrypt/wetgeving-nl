@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0011721"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Subsidieregeling openbare inland terminals

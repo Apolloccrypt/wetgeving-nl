@@ -8,7 +8,7 @@ laatste_update: 2001-05-29
 status: geldig
 toestand: 2001-05-29
 bron: "https://wetten.overheid.nl/BWBR0012392"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Aanwijzingsbesluit toezichthouders zorgverzekeringen

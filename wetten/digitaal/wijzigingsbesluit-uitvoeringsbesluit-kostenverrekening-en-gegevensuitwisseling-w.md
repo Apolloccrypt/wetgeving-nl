@@ -9,7 +9,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0012489"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 14 mei 2001 tot wijziging van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken met betrekking tot de verrekening van de waarderingskosten

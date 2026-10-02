@@ -8,7 +8,7 @@ laatste_update: 2001-03-10
 status: geldig
 toestand: 2001-03-10
 bron: "https://wetten.overheid.nl/BWBR0012297"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit tijdelijke toekenning van nummers voor mobiele telefonie

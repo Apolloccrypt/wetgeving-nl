@@ -9,7 +9,7 @@ laatste_update: 2023-11-08
 status: geldig
 toestand: 2023-11-08
 bron: "https://wetten.overheid.nl/BWBR0012101"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling ontslaguitkering vliegers KLPD

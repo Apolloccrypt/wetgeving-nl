@@ -9,7 +9,7 @@ laatste_update: 2000-12-29
 status: geldig
 toestand: 2000-12-29
 bron: "https://wetten.overheid.nl/BWBR0012086"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 21 december 2000 tot wijziging van de Huursubsidiewet en de Huurprijzenwet woonruimte (vervallen van het vervolgaanvraagformulier voor bepaalde huurders)

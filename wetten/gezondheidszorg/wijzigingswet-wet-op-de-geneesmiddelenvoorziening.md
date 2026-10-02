@@ -9,7 +9,7 @@ laatste_update: 2000-04-01
 status: geldig
 toestand: 2000-04-01
 bron: "https://wetten.overheid.nl/BWBR0011145"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 1 februari 2000, houdende wijziging van de Wet op de geneesmiddelenvoorziening

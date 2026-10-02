@@ -8,7 +8,7 @@ laatste_update: 2001-03-22
 status: geldig
 toestand: 2001-03-22
 bron: "https://wetten.overheid.nl/BWBR0012331"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Instellingsbesluit Comité van Toezicht Plattelandsontwikkelingsplan Nederland

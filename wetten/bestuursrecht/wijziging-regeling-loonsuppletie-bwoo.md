@@ -8,7 +8,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0012233"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wijziging Regeling loonsuppletie BWOO

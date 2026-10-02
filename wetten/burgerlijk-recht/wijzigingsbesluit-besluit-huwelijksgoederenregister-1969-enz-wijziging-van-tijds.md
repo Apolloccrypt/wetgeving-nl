@@ -9,7 +9,7 @@ laatste_update: 2001-06-01
 status: geldig
 toestand: 2001-06-01
 bron: "https://wetten.overheid.nl/BWBR0012426"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 23 april 2001, houdende wijziging van het Besluit Huwelijksgoederenregister 1969 in verband met wijziging van het tijdstip waarop een scheiding van tafel en bed is geëindigd, en tot vaststelling van het tijdstip van inwerkingtreding van een aantal bepalingen van de Wet van 13 december 2000, houdende wijziging van de regeling in Boek 1 van het Burgerlijk Wetboek met betrekking tot het naamrecht, de voorkoming van schijnhuwelijken en het tijdstip van de totstandkoming van de scheiding van tafel en bed alsmede enige andere wetten (Stb. 2001, 11)

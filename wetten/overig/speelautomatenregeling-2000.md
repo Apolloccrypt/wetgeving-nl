@@ -8,7 +8,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0011382"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Speelautomatenregeling 2000

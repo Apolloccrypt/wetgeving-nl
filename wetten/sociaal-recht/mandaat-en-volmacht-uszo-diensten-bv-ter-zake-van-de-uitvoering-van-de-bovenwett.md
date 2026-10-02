@@ -8,7 +8,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0012210"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Mandaat en volmacht USZO Diensten B.V. ter zake van de uitvoering van de bovenwettelijke werkloosheidsuitkeringen sector Rijk

@@ -8,7 +8,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0011975"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2001

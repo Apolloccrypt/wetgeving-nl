@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0012356"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 23 maart 2001, houdende instelling van de Herinneringsmedaille Vredesoperaties alsmede intrekking van het Besluit Herinneringsmedaille VN-Vredesoperaties en het Besluit Herinneringsmedaille Multinationale Vredesoperaties

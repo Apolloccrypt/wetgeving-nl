@@ -8,7 +8,7 @@ laatste_update: 2002-06-13
 status: geldig
 toestand: 2002-06-13
 bron: "https://wetten.overheid.nl/BWBR0012504"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling co-financiering uitfasering doelstelling 1 Flevoland

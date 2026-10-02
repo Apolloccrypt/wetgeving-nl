@@ -9,7 +9,7 @@ laatste_update: 2004-04-01
 status: geldig
 toestand: 2004-04-01
 bron: "https://wetten.overheid.nl/BWBR0012079"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 21 december 2000 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering, de Wet op de rechterlijke organisatie en de Penitentiaire beginselenwet (strafrechtelijke opvang verslaafden)

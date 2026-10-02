@@ -9,7 +9,7 @@ laatste_update: 2001-04-01
 status: geldig
 toestand: 2001-04-01
 bron: "https://wetten.overheid.nl/BWBR0012099"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 21 december 2000 tot wijziging van Boek 1 van het Burgerlijk Wetboek in verband met de openstelling van het huwelijk voor personen van hetzelfde geslacht (Wet openstelling huwelijk)

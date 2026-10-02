@@ -8,7 +8,7 @@ laatste_update: 2026-02-05
 status: geldig
 toestand: 2026-02-05
 bron: "https://wetten.overheid.nl/BWBR0012110"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Geweldsinstructie inrichtingen voor verpleging van ter beschikking gestelden

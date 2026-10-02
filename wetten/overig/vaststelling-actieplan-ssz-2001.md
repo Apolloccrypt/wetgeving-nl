@@ -8,7 +8,7 @@ laatste_update: 2001-06-03
 status: geldig
 toestand: 2001-06-03
 bron: "https://wetten.overheid.nl/BWBR0012495"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Vaststelling actieplan SSZ 2001

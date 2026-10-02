@@ -9,7 +9,7 @@ laatste_update: 2001-01-07
 status: geldig
 toestand: 2001-01-07
 bron: "https://wetten.overheid.nl/BWBR0011639"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Verordening van de Sociaal-Economische Raad van 15 september 2000 houdende regelen krachtens welke de afgifte plaatsvindt van de in artikel 4, achtste lid, van de Wet assurantiebemiddelingsbedrijf bedoelde verklaringen (Verordening Verklaringen Vakbekwaamheid Assurantiebemiddelingsbedrijf 2000)

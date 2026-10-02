@@ -8,7 +8,7 @@ laatste_update: 2001-02-07
 status: geldig
 toestand: 2001-02-07
 bron: "https://wetten.overheid.nl/BWBR0012185"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # ZKOO-bedragen per 1 januari 2001

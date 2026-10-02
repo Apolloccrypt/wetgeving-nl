@@ -9,7 +9,7 @@ laatste_update: 2026-09-23
 status: geldig
 toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0047854"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 26 januari 2023 nr. VO/F/34146542, tot regeling van een aanvullende bekostiging ten behoeve van werkdrukverlichting in het voortgezet onderwijs (Regeling aanvullende bekostiging werkdrukverlichting voortgezet onderwijs)

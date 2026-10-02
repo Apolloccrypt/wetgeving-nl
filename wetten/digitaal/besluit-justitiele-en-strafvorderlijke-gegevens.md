@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0016544"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 25 maart 2004 tot vaststelling van de justitiële gegevens en tot regeling van de verstrekking van deze gegevens alsmede tot uitvoering van enkele bepalingen van de Wet justitiële gegevens (Besluit justitiële gegevens)

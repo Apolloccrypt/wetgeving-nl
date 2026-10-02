@@ -8,7 +8,7 @@ laatste_update: 2001-01-12
 status: geldig
 toestand: 2001-01-12
 bron: "https://wetten.overheid.nl/BWBR0011912"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling eisen persoonlijke verblijfsruimte justitiële tbs-inrichtingen

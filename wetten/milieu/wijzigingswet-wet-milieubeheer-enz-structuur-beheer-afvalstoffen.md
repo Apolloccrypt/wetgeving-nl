@@ -9,7 +9,7 @@ laatste_update: 2003-05-23
 status: geldig
 toestand: 2003-05-23
 bron: "https://wetten.overheid.nl/BWBR0012606"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 21 juni 2001 tot wijziging van de Wet milieubeheer (structuur beheer afvalstoffen)

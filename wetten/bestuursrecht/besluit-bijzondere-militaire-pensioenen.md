@@ -9,7 +9,7 @@ laatste_update: 2018-11-24
 status: geldig
 toestand: 2018-11-24
 bron: "https://wetten.overheid.nl/BWBR0012222"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 6 februari 2001, houdende vaststelling van de regels rond het recht op een bijzonder militair invaliditeitspensioen vanaf het bereiken van de leeftijd van 65 jaar en op bijzonder militair nabestaandenpensioen (Besluit bijzondere militaire pensioenen)

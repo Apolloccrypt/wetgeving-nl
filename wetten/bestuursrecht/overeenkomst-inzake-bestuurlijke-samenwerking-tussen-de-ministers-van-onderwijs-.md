@@ -8,7 +8,7 @@ laatste_update: 2001-04-04
 status: geldig
 toestand: 2001-04-04
 bron: "https://wetten.overheid.nl/BWBR0011744"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Overeenkomst inzake bestuurlijke samenwerking tussen de ministers van Onderwijs, Cultuur en Wetenschappen en Landbouw, Natuurbeheer en Visserij en de Stichting Waarborgfonds HBO

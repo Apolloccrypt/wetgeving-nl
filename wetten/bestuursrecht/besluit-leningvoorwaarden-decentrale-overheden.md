@@ -9,7 +9,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0011988"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 14 december 2000, houdende regels inzake het aangaan, verstrekken en garanderen van geldleningen door openbare lichamen (Besluit leningvoorwaarden decentrale overheden)

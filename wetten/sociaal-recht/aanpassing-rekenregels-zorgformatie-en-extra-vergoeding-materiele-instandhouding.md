@@ -8,7 +8,7 @@ laatste_update: 2000-04-19
 status: geldig
 toestand: 2000-04-19
 bron: "https://wetten.overheid.nl/BWBR0011246"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Aanpassing rekenregels zorgformatie en extra vergoeding materiële instandhouding speciale scholen voor basisonderwijs

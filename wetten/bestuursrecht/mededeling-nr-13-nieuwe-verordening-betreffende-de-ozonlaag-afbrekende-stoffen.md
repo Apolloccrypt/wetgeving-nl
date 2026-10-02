@@ -8,7 +8,7 @@ laatste_update: 2001-01-08
 status: geldig
 toestand: 2001-01-08
 bron: "https://wetten.overheid.nl/BWBR0012143"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Mededeling nr. 13, nieuwe verordening betreffende de ozonlaag afbrekende stoffen

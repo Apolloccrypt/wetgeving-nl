@@ -8,7 +8,7 @@ laatste_update: 2026-09-24
 status: geldig
 toestand: 2026-09-24
 bron: "https://wetten.overheid.nl/BWBR0053122"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Werkwijze Autoriteit Persoonsgegevens geheimhoudingsprivilege advocaat 2026

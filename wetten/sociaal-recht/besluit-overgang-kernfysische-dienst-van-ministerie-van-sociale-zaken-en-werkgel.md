@@ -9,7 +9,7 @@ laatste_update: 2003-11-21
 status: geldig
 toestand: 2003-11-21
 bron: "https://wetten.overheid.nl/BWBR0011379"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 24 mei 2000, houdende overgang van de kernfysische dienst van het ministerie van Sociale Zaken en Werkgelegenheid naar het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer

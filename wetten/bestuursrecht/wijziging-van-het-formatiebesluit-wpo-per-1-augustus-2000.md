@@ -8,7 +8,7 @@ laatste_update: 2000-03-29
 status: geldig
 toestand: 2000-03-29
 bron: "https://wetten.overheid.nl/BWBR0011216"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wijziging van het Formatiebesluit WPO per 1 augustus 2000

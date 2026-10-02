@@ -9,7 +9,7 @@ laatste_update: 2014-03-20
 status: geldig
 toestand: 2014-03-20
 bron: "https://wetten.overheid.nl/BWBR0011761"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 3 november 2000, houdende regels inzake de etikettering van het energiegebruik van personenauto's (Besluit etikettering energiegebruik personenauto's)

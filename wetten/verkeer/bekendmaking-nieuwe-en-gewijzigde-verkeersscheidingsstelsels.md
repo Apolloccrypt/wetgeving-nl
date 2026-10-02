@@ -8,7 +8,7 @@ laatste_update: 2000-12-01
 status: geldig
 toestand: 2000-12-01
 bron: "https://wetten.overheid.nl/BWBR0011546"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Bekendmaking nieuwe en gewijzigde verkeersscheidingsstelsels

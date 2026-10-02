@@ -9,7 +9,7 @@ laatste_update: 2001-06-01
 status: geldig
 toestand: 2001-06-01
 bron: "https://wetten.overheid.nl/BWBR0011937"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 13 december 2000 tot wijziging van de regeling in Boek 1 van het Burgerlijk Wetboek met betrekking tot het naamrecht, de voorkoming van schijnhuwelijken en het tijdstip van de totstandkoming van de scheiding van tafel en bed alsmede van enige andere wetten

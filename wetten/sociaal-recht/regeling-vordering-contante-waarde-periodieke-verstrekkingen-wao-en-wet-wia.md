@@ -9,7 +9,7 @@ laatste_update: 2017-10-27
 status: geldig
 toestand: 2017-10-27
 bron: "https://wetten.overheid.nl/BWBR0011500"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling vordering contante waarde periodieke verstrekkingen WAO

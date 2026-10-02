@@ -9,7 +9,7 @@ laatste_update: 2000-03-31
 status: geldig
 toestand: 2000-03-31
 bron: "https://wetten.overheid.nl/BWBR0011182"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 25 februari 2000, houdende wijziging van de Regeling ziektekostenvoorziening defensiepersoneel

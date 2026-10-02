@@ -8,7 +8,7 @@ laatste_update: 2000-11-30
 status: geldig
 toestand: 2000-11-30
 bron: "https://wetten.overheid.nl/BWBR0011735"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Breukelen

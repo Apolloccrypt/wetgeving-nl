@@ -8,7 +8,7 @@ laatste_update: 2000-11-12
 status: geldig
 toestand: 2000-11-12
 bron: "https://wetten.overheid.nl/BWBR0011662"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Selectielijst Natuur- en landschapsbeheer voor de neerslag van handelingen van Staatsbosbeheer als ZBO (vanaf 1998)

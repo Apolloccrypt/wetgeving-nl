@@ -9,7 +9,7 @@ laatste_update: 2001-05-18
 status: geldig
 toestand: 2001-05-18
 bron: "https://wetten.overheid.nl/BWBR0012458"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 4 mei 2001, houdende wijziging van het Besluit subsidies bedrijfsgerichte technologische samenwerkingsprojecten

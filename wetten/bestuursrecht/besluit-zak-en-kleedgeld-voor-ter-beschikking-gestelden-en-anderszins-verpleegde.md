@@ -8,7 +8,7 @@ laatste_update: 2000-11-01
 status: geldig
 toestand: 2000-11-01
 bron: "https://wetten.overheid.nl/BWBR0011695"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit zak- en kleedgeld voor ter beschikking gestelden en anderszins verpleegden

@@ -8,7 +8,7 @@ laatste_update: 2000-02-06
 status: geldig
 toestand: 2000-02-06
 bron: "https://wetten.overheid.nl/BWBR0011146"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Vaststelling actieplan Piek 2000

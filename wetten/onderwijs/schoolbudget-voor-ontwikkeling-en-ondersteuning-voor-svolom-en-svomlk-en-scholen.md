@@ -8,7 +8,7 @@ laatste_update: 2001-08-01
 status: geldig
 toestand: 2001-08-01
 bron: "https://wetten.overheid.nl/BWBR0012488"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Schoolbudget voor ontwikkeling en ondersteuning voor svo/lom en svo/mlk en scholen voor praktijkonderwijs met declaratiebekostiging per 1 augustus 2001

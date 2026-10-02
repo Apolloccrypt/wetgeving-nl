@@ -8,7 +8,7 @@ laatste_update: 2014-10-01
 status: geldig
 toestand: 2014-10-01
 bron: "https://wetten.overheid.nl/BWBR0011155"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit Kosovo-medaille

@@ -5,11 +5,11 @@ identifier: "BWBR0046550"
 categorie: "Gezondheidszorg"
 soort: "beleidsregel"
 publicatiedatum: 2022-04-13
-laatste_update: 2022-04-13
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2022-04-13
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0046550"
-opgehaald: 2026-09-02
+opgehaald: 2026-10-02
 ---
 
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 1 april 2022, kenmerk 3345756-1027149-WJZ, houdende de vaststelling van beleidsregels inzake gunstbetoon als bedoeld in artikel 6 van de Wet medische hulpmiddelen (Beleidsregels gunstbetoon Wet medische hulpmiddelen)
@@ -110,21 +110,25 @@ Criterium 3: De vergoeding blijft beperkt tot hetgeen strikt noodzakelijk is.
 
 De vergoeding van deelnamekosten voor bijeenkomsten blijft beperkt tot hetgeen strikt noodzakelijk is wanneer:
 
-- • deze niet meer bedraagt dan strikt noodzakelijk is en waarbij geldt dat de deelnamekosten die door een leverancier of derde partij worden vergoed of niet in rekening worden gebracht per persoon betrokken bij de toepassing van een medisch hulpmiddel of van een medisch hulpmiddel voor in-vitrodiagnostiek in ieder geval niet meer bedragen dan € 500,– per keer en € 1.500,– per jaar; of
+- • deze niet meer bedraagt dan strikt noodzakelijk is en waarbij geldt dat de deelnamekosten die door een leverancier of derde partij worden vergoed of niet in rekening worden gebracht per persoon betrokken bij de toepassing van een medisch hulpmiddel of van een medisch hulpmiddel voor in-vitrodiagnostiek in ieder geval niet meer bedragen dan € 720,– per keer en € 2.160,– per jaar; of
 
 - • de persoon betrokken bij de toepassing van een medisch hulpmiddel of van een medisch hulpmiddel voor in-vitrodiagnostiek draagt zelf ten minste 50% van de deelnamekosten aan de bijeenkomst. Het spreekt voor zich dat een transparante en valide afrekening daaraan ten grondslag dient te liggen en dat de kosten reëel dienen te zijn.
 
-Bij manifestaties blijft de vergoeding van deelnamekosten beperkt tot hetgeen strikt noodzakelijk is indien de deelnamekosten die door een leverancier of derde partij worden vergoed of niet in rekening worden gebracht per persoon betrokken bij de toepassing van een medisch hulpmiddel of van een medisch hulpmiddel voor in-vitrodiagnostiek in ieder geval niet meer bedragen dan € 75,– per keer en € 375,– per jaar.
+Bij manifestaties blijft de vergoeding van deelnamekosten beperkt tot hetgeen strikt noodzakelijk is indien de deelnamekosten die door een leverancier of derde partij worden vergoed of niet in rekening worden gebracht per persoon betrokken bij de toepassing van een medisch hulpmiddel of van een medisch hulpmiddel voor in-vitrodiagnostiek in ieder geval niet meer bedragen dan € 108,– per keer en € 540,– per jaar.
 
 Criterium 4: Sprekers op bijeenkomsten zijn transparant over hun banden met leveranciers van medische hulpmiddelen of van medische hulpmiddelen voor in-vitrodiagnostiek.
 
 Voor bijeenkomsten geldt de eis dat banden tussen sprekers en leveranciers of derde partijen vooraf bekend dienen te worden gemaakt. Leveranciers mogen slechts in die hoedanigheid aanwezig zijn indien zij als zodanig herkenbaar zijn, bijvoorbeeld door het dragen van badges.
 
+Indexering
+
+De bedragen in dit artikel worden elke vijf jaar geïndexeerd.
+
 ### 3.2.2. De vergoeding van dienstverlening
 
 Natuurlijke personen die betrokken zijn bij de toepassing van een medisch hulpmiddel of van een medisch hulpmiddel voor in-vitrodiagnostiek kunnen diensten verrichten tegen in het vooruitzicht gestelde, aangeboden of toegekende gelden of op geld waardeerbare diensten of goederen. Het kan bijvoorbeeld gaan om het geven van lezingen, advisering of om het meewerken aan (hulpmiddelen)onderzoek. Uitgangspunt hoort te zijn dat de beloning voor dergelijke diensten in redelijke verhouding moet staan tot de geleverde tegenprestatie. Dat past ook bij de wettelijke bepalingen omtrent dienstverlening ([artikel 405 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=405)). De natuurlijke persoon die betrokken is bij de toepassing van een medisch hulpmiddel of van een medisch hulpmiddel voor in-vitrodiagnostiek heeft recht op een redelijke beloning en op vergoeding van gemaakte onkosten.
 
-Toetsing zal in essentie plaatsvinden aan de hand van de bestede tijd en een uur- of dagtarief. Rekening moet worden gehouden met de aard en de omvang van geleverde diensten en de positie en kwalificaties van de persoon betrokken bij de toepassing van het medisch hulpmiddel of van het medisch hulpmiddel voor in-vitrodiagnostiek. Voor vaststelling van een redelijk uur- of dagtarief wordt aangesloten bij de (uur)tarieven die voor de personen betrokken bij de toepassing van een medisch hulpmiddel of van een medisch hulpmiddel voor in-vitrodiagnostiek zijn vastgesteld in de toelichting bij de Gedragscode Medische Hulpmiddelen (GMH; www.gmh.nu). Ten aanzien van personen waarvoor in de toelichting bij de Gedragscode geen tarief is vastgesteld, worden dezelfde maximumtarieven gehanteerd als ten aanzien van personen uit vergelijkbare disciplines waarvoor in de toelichting in de Gedragscode wel een tarief is vastgesteld.
+Toetsing zal in essentie plaatsvinden aan de hand van de bestede tijd en een uur- of dagtarief. Rekening moet worden gehouden met de aard en de omvang van geleverde diensten en de positie en kwalificaties van de persoon betrokken bij de toepassing van het medisch hulpmiddel of van het medisch hulpmiddel voor in-vitrodiagnostiek. Voor vaststelling van een redelijk uur- of dagtarief wordt aangesloten bij de (uur)tarieven die voor de personen betrokken bij de toepassing van een medisch hulpmiddel of van een medisch hulpmiddel voor in-vitrodiagnostiek zijn vastgesteld in de toelichting bij de Gedragscode Medische Hulpmiddelen (GMH; [www.gmh.nu](http://www.gmh.nu)). Ten aanzien van personen waarvoor in de toelichting bij de Gedragscode geen tarief is vastgesteld, worden dezelfde maximumtarieven gehanteerd als ten aanzien van personen uit vergelijkbare disciplines waarvoor in de toelichting in de Gedragscode wel een tarief is vastgesteld.
 
 De dienstverleningsovereenkomst moet vooraf in één document schriftelijk zijn vastgelegd. In de overeenkomst dienen in ieder geval te zijn vastgelegd:
 

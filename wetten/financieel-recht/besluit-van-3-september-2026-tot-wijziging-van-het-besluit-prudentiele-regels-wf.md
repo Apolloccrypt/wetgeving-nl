@@ -9,7 +9,7 @@ laatste_update: 2026-09-22
 status: geldig
 toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0053115"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 3 september 2026 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Markttoegang financiële ondernemingen Wft en enkele andere besluiten in verband met de implementatie van Richtlijn (EU) 2024/1619 betreffende kapitaalvereisten voor banken (Implementatiebesluit kapitaalvereisten 2026) [KetenID WGK026837]

@@ -8,7 +8,7 @@ laatste_update: 2017-08-04
 status: geldig
 toestand: 2017-08-04
 bron: "https://wetten.overheid.nl/BWBR0011628"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Verordening opleiding kandidaat-notarissen

@@ -9,7 +9,7 @@ laatste_update: 2000-12-04
 status: geldig
 toestand: 2000-12-04
 bron: "https://wetten.overheid.nl/BWBR0011860"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 29 november 2000 tot wijziging van de regeling van de productenaansprakelijkheid in het Burgerlijk Wetboek in verband met uitbreiding tot landbouwproducten

@@ -8,7 +8,7 @@ laatste_update: 2001-02-19
 status: geldig
 toestand: 2001-02-19
 bron: "https://wetten.overheid.nl/BWBR0012097"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wijziging Besluit beheer sociale huursector en het Huisvestingsbesluit

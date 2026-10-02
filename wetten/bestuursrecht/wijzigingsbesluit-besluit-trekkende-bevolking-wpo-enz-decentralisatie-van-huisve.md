@@ -9,7 +9,7 @@ laatste_update: 2004-12-29
 status: geldig
 toestand: 2004-12-29
 bron: "https://wetten.overheid.nl/BWBR0011380"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 24 mei 2000, houdende wijziging van een aantal algemene maatregelen van bestuur op grond van onder meer de Wet op het primair onderwijs in verband met de decentralisatie van de huisvestingsvoorzieningen

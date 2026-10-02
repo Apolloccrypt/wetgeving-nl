@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0011545"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 5 augustus 2000, houdende intrekking van het Besluit studiefinanciering en vervanging door het Besluit studiefinanciering 2000 ter uitvoering van de Wet studiefinanciering 2000 (Besluit studiefinanciering 2000)

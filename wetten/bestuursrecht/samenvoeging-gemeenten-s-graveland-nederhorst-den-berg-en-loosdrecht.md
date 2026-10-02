@@ -9,7 +9,7 @@ laatste_update: 2001-07-13
 status: geldig
 toestand: 2001-07-13
 bron: "https://wetten.overheid.nl/BWBR0012530"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 31 mei 2001 tot samenvoeging van de gemeenten 's-Graveland, Nederhorst den Berg en Loosdrecht, tevens wijziging van de grens tussen de provincies Noord-Holland en Utrecht

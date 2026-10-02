@@ -8,7 +8,7 @@ laatste_update: 2001-06-08
 status: geldig
 toestand: 2001-06-08
 bron: "https://wetten.overheid.nl/BWBR0012507"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Toepassing artikel 19e, achtste lid, Boek 1 BW

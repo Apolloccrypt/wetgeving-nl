@@ -9,7 +9,7 @@ laatste_update: 2001-01-31
 status: geldig
 toestand: 2001-01-31
 bron: "https://wetten.overheid.nl/BWBR0012176"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 20 januari 2001 tot wijziging van het Rechtspositiebesluit burgemeesters 1994 en het Rechtspositiebesluit commissarissen van de Koning in verband met de invoering van de Werkloosheidswet voor overheidspersoneel

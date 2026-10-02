@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0011406"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 8 juni 2000, houdende goedkeuring van de op 18 december 1997 te Brussel totstandgekomen Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douaneadministraties (Trb. 1998, 174)

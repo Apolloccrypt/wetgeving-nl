@@ -8,7 +8,7 @@ laatste_update: 2004-09-10
 status: geldig
 toestand: 2004-09-10
 bron: "https://wetten.overheid.nl/BWBR0012275"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Aanvullend besluit bij de Organisatieregeling dienstonderdelen OM

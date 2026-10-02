@@ -8,7 +8,7 @@ laatste_update: 2002-08-01
 status: geldig
 toestand: 2002-08-01
 bron: "https://wetten.overheid.nl/BWBR0012590"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Centraal examen beeldende vakken 2 voorbereidend middelbaar beroepsonderwijs (vmbo) ingaande 2003

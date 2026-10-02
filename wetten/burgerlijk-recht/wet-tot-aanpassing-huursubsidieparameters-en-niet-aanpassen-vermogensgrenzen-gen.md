@@ -9,7 +9,7 @@ laatste_update: 2001-06-29
 status: geldig
 toestand: 2001-06-29
 bron: "https://wetten.overheid.nl/BWBR0012569"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 14 juni 2001 tot het aanpassen voor het tijdvak van 1 juli 2001 tot en met 30 juni 2002 van enige huursubsidieparameters, genoemd in de Huursubsidiewet, aan het maximale huurverhogingspercentage en het met ingang van 1 juli 2001 niet aanpassen van de vermogensgrenzen, genoemd in de Huursubsidiewet en de Wet bevordering eigenwoningbezit

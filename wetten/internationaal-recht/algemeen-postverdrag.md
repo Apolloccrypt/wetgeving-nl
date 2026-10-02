@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBV0006699"
-opgehaald: 2026-09-16
+opgehaald: 2026-10-02
 ---
 
 # Algemeen Postverdrag

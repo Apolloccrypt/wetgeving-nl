@@ -8,7 +8,7 @@ laatste_update: 2001-03-14
 status: geldig
 toestand: 2001-03-14
 bron: "https://wetten.overheid.nl/BWBR0012257"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Inzet van middelen over en weer tussen inburgering nieuwkomers en educatie

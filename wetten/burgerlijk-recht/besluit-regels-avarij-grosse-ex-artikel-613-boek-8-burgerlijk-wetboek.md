@@ -9,7 +9,7 @@ laatste_update: 2000-05-01
 status: geldig
 toestand: 2000-05-01
 bron: "https://wetten.overheid.nl/BWBR0011151"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 5 februari 2000, houdende regels inzake avarij-grosse ter uitvoering van artikel 613 van Boek 8 van het Burgerlijk Wetboek

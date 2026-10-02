@@ -8,7 +8,7 @@ laatste_update: 2000-10-01
 status: geldig
 toestand: 2000-10-01
 bron: "https://wetten.overheid.nl/BWBR0011167"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Verordening ringen

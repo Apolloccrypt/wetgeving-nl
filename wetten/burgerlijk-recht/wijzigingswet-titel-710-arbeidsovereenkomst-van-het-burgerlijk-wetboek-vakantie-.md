@@ -9,7 +9,7 @@ laatste_update: 2001-02-01
 status: geldig
 toestand: 2001-02-01
 bron: "https://wetten.overheid.nl/BWBR0011868"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 30 november 2000 tot wijziging van titel 7.10 (arbeidsovereenkomst) van het Burgerlijk Wetboek met betrekking tot vakantie en ouderschapsverlof

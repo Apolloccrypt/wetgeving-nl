@@ -9,7 +9,7 @@ laatste_update: 2000-07-21
 status: geldig
 toestand: 2000-07-21
 bron: "https://wetten.overheid.nl/BWBR0011467"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 6 juli 2000 tot gemeentelijke herindeling in een deel van de provincie Utrecht

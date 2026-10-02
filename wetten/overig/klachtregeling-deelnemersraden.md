@@ -9,7 +9,7 @@ laatste_update: 2000-12-23
 status: geldig
 toestand: 2000-12-23
 bron: "https://wetten.overheid.nl/BWBR0012027"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van de Verzekeringskamer van 19 december 2000, nr. 3.241/2000-5767, tot uitvoering van artikel 6d, eerste lid, van de Pensioen- en spaarfondsenwet, houdende regels voor het indienen van een klacht door de deelnemersraad als bedoeld in het eerste en tweede lid van artikel 6a van de Pensioen- en spaarfondsenwet, of door een gedeelte van ten minste 10% van de leden van die deelnemersraad (Klachtregeling deelnemersraden)

@@ -9,7 +9,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0012449"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 1 mei 2001, houdende aanwijzing van overheidsorganen waarvan de archiefbescheiden dienen te worden bewaard in de rijksarchiefbewaarplaats in de hoofdplaats van de provincie, waarin deze overheidsorganen gevestigd zijn of zijn geweest

@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0012262"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 19 februari 2001, houdende regels met betrekking tot de samenstelling en de werkwijze van de toetsingscommissie uittreding zittende magistratuur (Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur)

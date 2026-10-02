@@ -8,7 +8,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0011673"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving

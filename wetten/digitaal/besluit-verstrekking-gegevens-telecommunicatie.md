@@ -9,7 +9,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0011123"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 26 januari 2000, houdende regels voor de verstrekking van gegevens door aanbieders van openbare telecommunicatienetwerken en -diensten met het oog op het onderzoek van telecommunicatie (Besluit verstrekking gegevens telecommunicatie)

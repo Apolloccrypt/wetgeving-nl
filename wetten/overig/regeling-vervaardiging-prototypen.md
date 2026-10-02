@@ -9,7 +9,7 @@ laatste_update: 2000-11-17
 status: geldig
 toestand: 2000-11-17
 bron: "https://wetten.overheid.nl/BWBR0011767"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat inzake de vervaardiging van prototypen van luchtvaartuigen door niet erkende bedrijven

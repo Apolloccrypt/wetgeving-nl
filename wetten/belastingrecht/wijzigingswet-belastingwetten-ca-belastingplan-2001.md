@@ -9,7 +9,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0011985"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 14 december 2000 tot wijziging van belastingwetten c.a. (Belastingplan 2001)

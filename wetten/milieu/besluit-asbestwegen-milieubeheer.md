@@ -9,7 +9,7 @@ laatste_update: 2008-06-01
 status: geldig
 toestand: 2008-06-01
 bron: "https://wetten.overheid.nl/BWBR0011619"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 8 september 2000, houdende regels voor wegen waarin asbestbevattend materiaal is verwerkt (Besluit asbestwegen Wms)

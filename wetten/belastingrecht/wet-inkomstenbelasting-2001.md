@@ -9,7 +9,7 @@ laatste_update: 2026-02-21
 status: geldig
 toestand: 2026-02-21
 bron: "https://wetten.overheid.nl/BWBR0011353"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 11 mei 2000 tot vaststelling van de Wet inkomstenbelasting 2001 (Belastingherziening 2001)

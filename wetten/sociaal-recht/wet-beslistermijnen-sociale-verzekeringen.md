@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0012091"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 21 december 2000 tot wijziging van een aantal socialeverzekeringswetten ter verkorting van beslistermijnen bij beschikkingen op aanvraag (Wet beslistermijnen sociale verzekeringen)

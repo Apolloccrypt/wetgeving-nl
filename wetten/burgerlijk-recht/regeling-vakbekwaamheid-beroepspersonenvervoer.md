@@ -8,7 +8,7 @@ laatste_update: 2016-01-23
 status: geldig
 toestand: 2016-01-23
 bron: "https://wetten.overheid.nl/BWBR0011901"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling vakbekwaamheid beroepspersonenvervoer

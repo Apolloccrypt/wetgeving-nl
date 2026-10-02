@@ -9,7 +9,7 @@ laatste_update: 2001-06-29
 status: geldig
 toestand: 2001-06-29
 bron: "https://wetten.overheid.nl/BWBR0012350"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 22 maart 2001 tot wijziging van de Wet toezicht effectenverkeer 1995 in verband met de toetsing van gekwalificeerde deelnemingen in effectenbeurzen

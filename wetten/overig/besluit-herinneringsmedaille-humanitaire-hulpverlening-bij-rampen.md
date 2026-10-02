@@ -9,7 +9,7 @@ laatste_update: 2018-07-25
 status: geldig
 toestand: 2018-07-25
 bron: "https://wetten.overheid.nl/BWBR0011144"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 1 februari 2000, houdende hernieuwde vaststelling van het besluit tot instelling van de Herinneringsmedaille voor Humanitaire hulpverlening bij Rampen

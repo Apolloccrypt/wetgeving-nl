@@ -8,7 +8,7 @@ laatste_update: 2000-12-02
 status: geldig
 toestand: 2000-12-02
 bron: "https://wetten.overheid.nl/BWBR0011783"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Beperkende bepalingen openbaarheid archiefbescheiden Bureau invordering

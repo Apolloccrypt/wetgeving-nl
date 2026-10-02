@@ -8,7 +8,7 @@ laatste_update: 2008-10-01
 status: geldig
 toestand: 2008-10-01
 bron: "https://wetten.overheid.nl/BWBR0011635"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten

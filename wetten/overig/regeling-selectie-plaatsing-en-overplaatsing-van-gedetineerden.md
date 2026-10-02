@@ -8,7 +8,7 @@ laatste_update: 2025-11-22
 status: geldig
 toestand: 2025-11-22
 bron: "https://wetten.overheid.nl/BWBR0011558"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling selectie, plaatsing en overplaatsing van gedetineerden

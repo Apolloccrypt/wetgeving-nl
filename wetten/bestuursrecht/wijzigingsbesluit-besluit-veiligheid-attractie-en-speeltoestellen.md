@@ -9,7 +9,7 @@ laatste_update: 2003-09-01
 status: geldig
 toestand: 2003-09-01
 bron: "https://wetten.overheid.nl/BWBR0011259"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 27 maart 2000, houdende wijziging van het Besluit veiligheid attractie- en speeltoestellen

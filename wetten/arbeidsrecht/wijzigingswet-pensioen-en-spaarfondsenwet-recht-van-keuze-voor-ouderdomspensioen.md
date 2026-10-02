@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0012090"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 21 december 2000, houdende wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten (recht van keuze voor ouderdomspensioen in plaats van nabestaandenpensioen en gelijke behandeling van mannen en vrouwen)

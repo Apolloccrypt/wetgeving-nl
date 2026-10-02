@@ -8,7 +8,7 @@ laatste_update: 2000-07-26
 status: geldig
 toestand: 2000-07-26
 bron: "https://wetten.overheid.nl/BWBR0011523"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Instelling Commissie de laatste gulden

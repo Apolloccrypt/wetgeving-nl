@@ -9,7 +9,7 @@ laatste_update: 2005-12-09
 status: geldig
 toestand: 2005-12-09
 bron: "https://wetten.overheid.nl/BWBR0011983"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 14 december 2000 tot wijziging van enkele belastingwetten c.a. in verband met de tweede tranche van het ondernemerspakket 2001 (Wet ondernemerspakket 2001)

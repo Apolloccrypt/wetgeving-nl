@@ -8,7 +8,7 @@ laatste_update: 2001-06-27
 status: geldig
 toestand: 2001-06-27
 bron: "https://wetten.overheid.nl/BWBR0012600"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Stimuleringsregeling Programmatische Handhaving 2001

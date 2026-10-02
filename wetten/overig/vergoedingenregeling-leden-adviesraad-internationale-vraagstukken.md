@@ -8,7 +8,7 @@ laatste_update: 2023-02-11
 status: geldig
 toestand: 2023-02-11
 bron: "https://wetten.overheid.nl/BWBR0012270"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Vergoedingenregeling leden Adviesraad internationale vraagstukken

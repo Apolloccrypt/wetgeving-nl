@@ -9,7 +9,7 @@ laatste_update: 2000-05-17
 status: geldig
 toestand: 2000-05-17
 bron: "https://wetten.overheid.nl/BWBR0011302"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 13 april 2000 tot wijziging van de Sanctiewet 1977 en van de In- en uitvoerwet tot vereenvoudiging van de implementatie van internationale verplichtingen

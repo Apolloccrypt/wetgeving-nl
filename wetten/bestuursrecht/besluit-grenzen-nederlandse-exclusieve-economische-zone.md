@@ -9,7 +9,7 @@ laatste_update: 2000-04-28
 status: geldig
 toestand: 2000-04-28
 bron: "https://wetten.overheid.nl/BWBR0011219"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 13 maart 2000, houdende vaststelling van de grenzen van de exclusieve economische zone van Nederland en tot inwerkingtreding van de Rijkswet instelling exclusieve economische zone (Besluit grenzen Nederlandse exclusieve economische zone)

@@ -8,7 +8,7 @@ laatste_update: 2001-03-06
 status: geldig
 toestand: 2001-03-06
 bron: "https://wetten.overheid.nl/BWBR0012293"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Vergoeding kosten van bezwaar tegen voorlopige aanslagen inkomstenbelasting/premie volksverzekeringen 2001

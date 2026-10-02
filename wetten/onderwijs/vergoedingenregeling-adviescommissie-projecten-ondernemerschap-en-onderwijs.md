@@ -8,7 +8,7 @@ laatste_update: 2001-02-04
 status: geldig
 toestand: 2001-02-04
 bron: "https://wetten.overheid.nl/BWBR0012203"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Vergoedingenregeling Adviescommissie projecten ondernemerschap en onderwijs

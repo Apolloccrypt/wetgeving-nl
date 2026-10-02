@@ -8,7 +8,7 @@ laatste_update: 2000-06-29
 status: geldig
 toestand: 2000-06-29
 bron: "https://wetten.overheid.nl/BWBR0011377"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Vaststelling selectielijsten handelingen beleidsterrein waarborgen van (platina), gouden en zilveren werken, Ministerie van Financiën

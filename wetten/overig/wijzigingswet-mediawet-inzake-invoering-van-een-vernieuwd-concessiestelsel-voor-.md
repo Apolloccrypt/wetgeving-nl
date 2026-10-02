@@ -9,7 +9,7 @@ laatste_update: 2004-07-21
 status: geldig
 toestand: 2004-07-21
 bron: "https://wetten.overheid.nl/BWBR0011250"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 23 maart 2000 tot wijziging van de Mediawet in verband met de invoering van een vernieuwd concessiestelsel voor de landelijke publieke omroep

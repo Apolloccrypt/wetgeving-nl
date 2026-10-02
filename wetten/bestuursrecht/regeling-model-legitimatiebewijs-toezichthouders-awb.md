@@ -8,7 +8,7 @@ laatste_update: 2002-07-06
 status: geldig
 toestand: 2002-07-06
 bron: "https://wetten.overheid.nl/BWBR0011459"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling model legitimatiebewijs toezichthouders Awb

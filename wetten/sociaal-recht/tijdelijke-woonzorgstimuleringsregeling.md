@@ -8,7 +8,7 @@ laatste_update: 2000-09-11
 status: geldig
 toestand: 2000-09-11
 bron: "https://wetten.overheid.nl/BWBR0011625"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Tijdelijke woonzorgstimuleringsregeling

@@ -8,7 +8,7 @@ laatste_update: 2013-09-14
 status: geldig
 toestand: 2013-09-14
 bron: "https://wetten.overheid.nl/BWBR0012102"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling aanwijzing administratief-technische functies

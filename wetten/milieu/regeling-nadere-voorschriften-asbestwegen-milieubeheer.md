@@ -9,7 +9,7 @@ laatste_update: 2018-11-30
 status: geldig
 toestand: 2018-11-30
 bron: "https://wetten.overheid.nl/BWBR0011658"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, houdende nadere voorschriften omtrent de toepassing van NEN 5897 en omtrent het voorhanden hebben van een asbestbevattende weg

@@ -8,7 +8,7 @@ laatste_update: 2000-12-14
 status: geldig
 toestand: 2000-12-14
 bron: "https://wetten.overheid.nl/BWBR0011753"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regels inkomstenderving vrijgevestigde medische beroepsbeoefenaren

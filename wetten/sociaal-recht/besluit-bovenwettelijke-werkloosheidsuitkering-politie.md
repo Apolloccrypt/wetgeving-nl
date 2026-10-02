@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0012022"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 18 december 2000, houdende vaststelling van het Besluit bovenwettelijke werkloosheidsuitkering politie, alsmede houdende wijziging van onder meer het Besluit bezoldiging politie in verband met de invoering van de Ziektewet voor de sector politie (Besluit bovenwettelijke werkloosheidsuitkering politie)

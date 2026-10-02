@@ -8,7 +8,7 @@ laatste_update: 2001-05-20
 status: geldig
 toestand: 2001-05-20
 bron: "https://wetten.overheid.nl/BWBR0012482"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Bijdrageregeling Antillianengemeenten

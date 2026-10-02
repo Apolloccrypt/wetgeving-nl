@@ -8,7 +8,7 @@ laatste_update: 2000-12-15
 status: geldig
 toestand: 2000-12-15
 bron: "https://wetten.overheid.nl/BWBR0012486"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Privacyreglement Project Integriteit Bedrijfsleven Rotterdam Rijnmond

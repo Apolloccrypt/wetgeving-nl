@@ -9,7 +9,7 @@ laatste_update: 2000-06-15
 status: geldig
 toestand: 2000-06-15
 bron: "https://wetten.overheid.nl/BWBR0011403"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 8 juni 2000, houdende wijziging van het Besluit draagkrachtcriteria rechtsbijstand

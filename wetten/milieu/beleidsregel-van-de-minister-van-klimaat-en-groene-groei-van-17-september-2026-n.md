@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0053126"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Beleidsregel van de Minister van Klimaat en Groene Groei van 17 september 2026, nr. WJZ/108219515, houdende voorschriften over ontheffingen van de terugbetalingsverplichting bij energieparingsleningen voor het midden- en kleinbedrijf (Beleidsregel terugbetalingsontheffingen energiebesparingsleningen)

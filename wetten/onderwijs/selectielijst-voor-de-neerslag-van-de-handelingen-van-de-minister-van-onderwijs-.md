@@ -8,7 +8,7 @@ laatste_update: 2000-08-02
 status: geldig
 toestand: 2000-08-02
 bron: "https://wetten.overheid.nl/BWBR0011430"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Selectielijst voor de neerslag van de handelingen van de Minister van Onderwijs, Cultuur en Wetenschappen op het beleidsterrein voortgezet onderwijs over de periode 1968-1998

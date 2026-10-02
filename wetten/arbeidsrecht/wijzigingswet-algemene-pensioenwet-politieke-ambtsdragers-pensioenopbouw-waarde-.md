@@ -9,7 +9,7 @@ laatste_update: 2013-07-27
 status: geldig
 toestand: 2013-07-27
 bron: "https://wetten.overheid.nl/BWBR0012574"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 14 juni 2001 tot wijziging van de Algemene pensioenwet politieke ambtsdragers (pensioenopbouw, waarde-overdracht en waarde-overname alsmede enige andere onderwerpen)

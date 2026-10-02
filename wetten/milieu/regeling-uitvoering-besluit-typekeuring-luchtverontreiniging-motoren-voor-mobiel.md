@@ -9,7 +9,7 @@ laatste_update: 2014-02-18
 status: geldig
 toestand: 2014-02-18
 bron: "https://wetten.overheid.nl/BWBR0012182"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling uitvoering Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines

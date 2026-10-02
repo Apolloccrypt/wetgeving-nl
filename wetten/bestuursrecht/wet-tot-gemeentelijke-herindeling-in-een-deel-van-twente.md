@@ -9,7 +9,7 @@ laatste_update: 2000-09-15
 status: geldig
 toestand: 2000-09-15
 bron: "https://wetten.overheid.nl/BWBR0011633"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 13 september 2000 tot gemeentelijke herindeling in een deel van Twente

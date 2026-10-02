@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0013605"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 15 april 2002 tot uitvoering van de artikelen 21 en 23 van de Rijkswet op het Nederlanderschap (Besluit verkrijging en verlies Nederlanderschap)

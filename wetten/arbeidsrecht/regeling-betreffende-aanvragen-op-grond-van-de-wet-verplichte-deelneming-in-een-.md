@@ -8,7 +8,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0012074"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000

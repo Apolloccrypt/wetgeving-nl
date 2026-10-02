@@ -9,7 +9,7 @@ laatste_update: 2000-08-11
 status: geldig
 toestand: 2000-08-11
 bron: "https://wetten.overheid.nl/BWBR0011431"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Selectielijst voor de neerslag van de handelingen van de Minister van Nederlands-Antilliaanse en Arubaanse Zaken en de onder hem ressorterende actoren op het beleidsterrein staatkundige verhoudingen en samenwerking tussen de landen van het Koninkrijk der Nederlanden over de periode (1993) 1996-1997

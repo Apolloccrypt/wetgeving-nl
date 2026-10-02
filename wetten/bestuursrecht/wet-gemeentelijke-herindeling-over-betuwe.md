@@ -9,7 +9,7 @@ laatste_update: 2000-08-09
 status: geldig
 toestand: 2000-08-09
 bron: "https://wetten.overheid.nl/BWBR0011455"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 29 juni 2000 tot gemeentelijke herindeling in de Over-Betuwe

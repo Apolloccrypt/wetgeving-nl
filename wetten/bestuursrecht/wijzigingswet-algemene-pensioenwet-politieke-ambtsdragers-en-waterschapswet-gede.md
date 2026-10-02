@@ -9,7 +9,7 @@ laatste_update: 2001-08-15
 status: geldig
 toestand: 2001-08-15
 bron: "https://wetten.overheid.nl/BWBR0012575"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 14 juni 2001 tot wijziging van de Algemene pensioenwet politieke ambtsdragers en de Waterschapswet met betrekking tot gedeputeerden, wethouders en waterschapsbestuurders

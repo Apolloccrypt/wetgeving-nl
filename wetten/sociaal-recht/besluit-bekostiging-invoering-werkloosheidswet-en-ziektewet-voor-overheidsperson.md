@@ -9,7 +9,7 @@ laatste_update: 2000-12-22
 status: geldig
 toestand: 2000-12-22
 bron: "https://wetten.overheid.nl/BWBR0011981"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 14 december 2000, houdende aanduiding van de premies die worden gebruikt voor de bekostiging van uitgaven in verband met de invoering van de Werkloosheidswet en Ziektewet voor overheidspersoneel (Besluit bekostiging invoering Werkloosheidswet en Ziektewet voor overheidspersoneel)

@@ -9,7 +9,7 @@ laatste_update: 2007-06-01
 status: geldig
 toestand: 2007-06-01
 bron: "https://wetten.overheid.nl/BWBR0011980"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 14 december 2000 tot wijziging van de Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, de Wet op de vennootschapsbelasting 1969 en de Coördinatiewet Sociale Verzekering

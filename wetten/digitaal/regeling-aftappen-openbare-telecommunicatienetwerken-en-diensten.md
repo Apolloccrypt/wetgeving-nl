@@ -8,7 +8,7 @@ laatste_update: 2016-12-28
 status: geldig
 toestand: 2016-12-28
 bron: "https://wetten.overheid.nl/BWBR0012525"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling aftappen openbare telecommunicatienetwerken en -diensten

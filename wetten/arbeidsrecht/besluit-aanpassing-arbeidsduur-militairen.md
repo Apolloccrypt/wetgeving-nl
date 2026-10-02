@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-15
 toestand: 2000-09-06
 bron: "https://wetten.overheid.nl/BWBR0011531"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 22 juli 2000, houdende regels voor de aanpassing van de arbeidsduur van militairen (Besluit aanpassing arbeidsduur militairen)

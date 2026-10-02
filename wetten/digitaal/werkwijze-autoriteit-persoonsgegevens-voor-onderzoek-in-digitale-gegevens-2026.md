@@ -8,7 +8,7 @@ laatste_update: 2026-09-24
 status: geldig
 toestand: 2026-09-24
 bron: "https://wetten.overheid.nl/BWBR0053139"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Werkwijze Autoriteit Persoonsgegevens voor onderzoek in digitale gegevens 2026

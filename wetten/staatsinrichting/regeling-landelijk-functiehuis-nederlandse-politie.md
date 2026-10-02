@@ -8,7 +8,7 @@ laatste_update: 2000-06-10
 status: geldig
 toestand: 2000-06-10
 bron: "https://wetten.overheid.nl/BWBR0011368"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling Landelijk Functiehuis Nederlandse Politie

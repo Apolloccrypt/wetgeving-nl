@@ -9,7 +9,7 @@ laatste_update: 2000-10-15
 status: geldig
 toestand: 2000-10-15
 bron: "https://wetten.overheid.nl/BWBR0011611"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 6 september 2000, houdende wijziging van de Tracéwet (eerste tranche)

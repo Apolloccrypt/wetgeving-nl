@@ -9,7 +9,7 @@ laatste_update: 2000-09-15
 status: geldig
 toestand: 2000-09-15
 bron: "https://wetten.overheid.nl/BWBR0011630"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 13 september 2000 tot samenvoeging van de gemeenten Sittard, Geleen en Born

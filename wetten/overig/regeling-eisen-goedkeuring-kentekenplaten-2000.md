@@ -8,7 +8,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0012172"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling eisen goedkeuring kentekenplaten 2000

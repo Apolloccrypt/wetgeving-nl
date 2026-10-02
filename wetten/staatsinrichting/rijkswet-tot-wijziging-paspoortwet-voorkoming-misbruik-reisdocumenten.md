@@ -9,7 +9,7 @@ laatste_update: 2001-12-01
 status: geldig
 toestand: 2001-12-01
 bron: "https://wetten.overheid.nl/BWBR0012300"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Rijkswet van 8 maart 2001 tot wijziging van de Paspoortwet, onder andere in verband met het daarin opnemen van enige bepalingen ter voorkoming van misbruik van reisdocumenten

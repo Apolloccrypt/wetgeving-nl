@@ -9,7 +9,7 @@ laatste_update: 2001-04-01
 status: geldig
 toestand: 2001-04-01
 bron: "https://wetten.overheid.nl/BWBR0011824"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 23 november 2000 tot invoering van de Vreemdelingenwet 2000 en daarmee verband houdende wijziging van diverse wetten alsmede intrekking van de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf (Invoeringswet Vreemdelingenwet 2000)

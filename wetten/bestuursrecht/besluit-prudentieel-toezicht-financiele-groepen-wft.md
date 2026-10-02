@@ -9,7 +9,7 @@ laatste_update: 2026-09-22
 status: geldig
 toestand: 2026-09-22
 bron: "https://wetten.overheid.nl/BWBR0020415"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 12 oktober 2006, houdende regels met betrekking tot aanvullend prudentieel toezicht op banken, levensverzekeraars, schadeverzekeraars en beleggingsondernemingen die tot een financiële groep behoren (Besluit prudentieel toezicht financiële groepen Wft)

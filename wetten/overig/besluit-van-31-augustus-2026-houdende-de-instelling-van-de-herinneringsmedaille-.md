@@ -9,7 +9,7 @@ laatste_update: 2026-09-24
 status: geldig
 toestand: 2026-09-24
 bron: "https://wetten.overheid.nl/BWBR0053117"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 31 augustus 2026, houdende de instelling van de Herinneringsmedaille voor Inzet op Afstand 2026

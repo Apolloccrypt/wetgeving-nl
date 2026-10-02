@@ -8,7 +8,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0011643"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling bijstandsverlening aan zelfstandigen in het buitenland

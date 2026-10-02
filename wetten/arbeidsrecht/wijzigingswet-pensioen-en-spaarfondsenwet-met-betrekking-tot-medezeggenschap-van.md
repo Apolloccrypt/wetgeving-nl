@@ -9,7 +9,7 @@ laatste_update: 2000-06-23
 status: geldig
 toestand: 2000-06-23
 bron: "https://wetten.overheid.nl/BWBR0011385"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 25 mei 2000 tot wijziging van de Pensioen- en spaarfondsenwet met betrekking tot de medezeggenschap van gepensioneerden en de gelijkstelling in pensioenregelingen van geregistreerde partners met gehuwden

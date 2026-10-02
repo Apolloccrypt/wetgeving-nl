@@ -9,7 +9,7 @@ laatste_update: 2001-07-01
 status: geldig
 toestand: 2001-07-01
 bron: "https://wetten.overheid.nl/BWBR0012462"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 7 mei 2001 tot wijziging van enige algemene maatregelen van bestuur in verband met onder meer de uitvoering van de Arbeidsvoorwaardenovereenkomst 1999-2000 sector Rechterlijke Macht

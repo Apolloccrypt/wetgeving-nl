@@ -8,7 +8,7 @@ laatste_update: 2001-02-01
 status: geldig
 toestand: 2001-02-01
 bron: "https://wetten.overheid.nl/BWBR0011830"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Machtigingen tot vervanging archiefbescheiden Arrondissement Zutphen

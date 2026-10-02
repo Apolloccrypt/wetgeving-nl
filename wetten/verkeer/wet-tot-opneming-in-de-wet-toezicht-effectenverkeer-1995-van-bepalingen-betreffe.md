@@ -9,7 +9,7 @@ laatste_update: 2001-09-05
 status: geldig
 toestand: 2001-09-05
 bron: "https://wetten.overheid.nl/BWBR0012349"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 22 maart 2001 tot opneming in de Wet toezicht effectenverkeer 1995 van bepalingen betreffende openbare biedingen op effecten

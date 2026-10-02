@@ -8,7 +8,7 @@ laatste_update: 2000-05-01
 status: geldig
 toestand: 2000-05-01
 bron: "https://wetten.overheid.nl/BWBR0011252"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Elfde wijziging bepalingen en voorwaarden deelname CASO-systeem

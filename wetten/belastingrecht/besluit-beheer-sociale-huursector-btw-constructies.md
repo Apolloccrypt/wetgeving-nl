@@ -8,7 +8,7 @@ laatste_update: 2000-03-27
 status: geldig
 toestand: 2000-03-27
 bron: "https://wetten.overheid.nl/BWBR0011256"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit beheer sociale-huursector (BTW-constructies)

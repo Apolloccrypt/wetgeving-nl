@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0011298"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 12 april 2000, houdende de toekenning van een vaste beloning aan de (plaatsvervangend) voorzitter en de niet-ambtelijke leden van de commissie, bedoeld in artikel 2 van het Besluit V.W.S.-commissie bezwaarschriften Awb (Besluit vaste beloning V.W.S.-commissie bezwaarschriften Awb)

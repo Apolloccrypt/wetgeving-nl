@@ -9,7 +9,7 @@ laatste_update: 2002-08-29
 status: geldig
 toestand: 2002-08-29
 bron: "https://wetten.overheid.nl/BWBR0011986"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 14 december 2000, tot wijziging van de Wet inkomstenbelasting 2001, de Invoeringswet Wet inkomstenbelasting 2001 en enige andere belastingwetten c.a. (Veegwet Wet inkomstenbelasting 2001)

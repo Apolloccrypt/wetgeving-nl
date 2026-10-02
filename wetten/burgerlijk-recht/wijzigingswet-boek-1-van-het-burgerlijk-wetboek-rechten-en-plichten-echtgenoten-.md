@@ -9,7 +9,7 @@ laatste_update: 2001-06-22
 status: geldig
 toestand: 2001-06-22
 bron: "https://wetten.overheid.nl/BWBR0012529"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 31 mei 2001 tot wijziging van de titels 6 en 8 van Boek 1 van het Burgerlijk Wetboek (rechten en plichten echtgenoten en geregistreerde partners)

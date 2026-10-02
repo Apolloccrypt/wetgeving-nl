@@ -8,7 +8,7 @@ laatste_update: 2001-03-15
 status: geldig
 toestand: 2001-03-15
 bron: "https://wetten.overheid.nl/BWBR0012313"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Mogelijkheden financiële bijdrage voor kunstprojecten in de zorg

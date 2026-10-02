@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-30
 toestand: 2024-10-05
 bron: "https://wetten.overheid.nl/BWBR0043210"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 februari 2020 nr. HO&S/19526911, houdende regels voor het verstrekken van subsidie aan studenten die een tweede lerarenopleiding willen volgen en die instellingscollegegeld moeten betalen (Subsidieregeling tweede lerarenopleiding)

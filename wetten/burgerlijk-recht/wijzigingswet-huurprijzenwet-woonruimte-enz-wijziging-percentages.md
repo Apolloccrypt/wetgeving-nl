@@ -9,7 +9,7 @@ laatste_update: 2000-07-01
 status: geldig
 toestand: 2000-07-01
 bron: "https://wetten.overheid.nl/BWBR0011396"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 5 juni 2000 tot wijziging van de Huurprijzenwet woonruimte en van de wet van 19 juni 1996 tot wijziging van de Huurprijzenwet woonruimte, de Wet op de huurcommissies en de Wet individuele huursubsidie in verband met de zogenaamde huursombenadering (Stb. 323) (wijziging percentages)

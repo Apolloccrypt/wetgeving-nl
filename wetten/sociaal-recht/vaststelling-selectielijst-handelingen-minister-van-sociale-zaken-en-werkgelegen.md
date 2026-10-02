@@ -8,7 +8,7 @@ laatste_update: 2001-05-11
 status: geldig
 toestand: 2001-05-11
 bron: "https://wetten.overheid.nl/BWBR0012365"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Vaststelling selectielijst handelingen Minister van Sociale Zaken en Werkgelegenheid en onder hem ressorterende actoren op het beleidsterrein bezitsvorming 1945-1994

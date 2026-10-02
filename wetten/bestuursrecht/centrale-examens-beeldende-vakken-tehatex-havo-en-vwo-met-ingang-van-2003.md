@@ -8,7 +8,7 @@ laatste_update: 2001-07-25
 status: geldig
 toestand: 2001-07-25
 bron: "https://wetten.overheid.nl/BWBR0012483"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Centrale examens beeldende vakken (Tehatex) havo en vwo met ingang van 2003

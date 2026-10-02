@@ -8,7 +8,7 @@ laatste_update: 2008-08-07
 status: geldig
 toestand: 2008-08-07
 bron: "https://wetten.overheid.nl/BWBR0011331"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit databank media- en opinieonderzoek

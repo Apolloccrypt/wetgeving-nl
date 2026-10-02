@@ -8,7 +8,7 @@ laatste_update: 2003-10-31
 status: geldig
 toestand: 2003-10-31
 bron: "https://wetten.overheid.nl/BWBR0011857"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit instelling Stuurgroep 'Handhaven op niveau'

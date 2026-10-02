@@ -8,7 +8,7 @@ laatste_update: 2000-07-01
 status: geldig
 toestand: 2000-07-01
 bron: "https://wetten.overheid.nl/BWBR0011345"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wijziging Besluit maaltijdvergoeding bij overwerk

@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0011936"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 12 december 2000, houdende actualisering van het Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO alsmede wijziging van het Besluit informatievoorziening WVO

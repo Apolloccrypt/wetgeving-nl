@@ -8,7 +8,7 @@ laatste_update: 2001-04-01
 status: geldig
 toestand: 2001-04-01
 bron: "https://wetten.overheid.nl/BWBR0011365"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling maximum aantal provinciale opcenten motorrijtuigenbelasting 2001

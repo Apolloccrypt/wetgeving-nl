@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0012538"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende vaststelling van de in luchtvaartuigen aanwezige navigatie- en telecommunicatie-installaties en de voor die installaties geldende eisen en gebruiksregels (Regeling navigatie- en telecommunicatie-installaties)

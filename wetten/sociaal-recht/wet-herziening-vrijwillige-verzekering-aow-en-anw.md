@@ -9,7 +9,7 @@ laatste_update: 2001-05-09
 status: geldig
 toestand: 2001-05-09
 bron: "https://wetten.overheid.nl/BWBR0012436"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 26 april 2001 tot wijziging van de Algemene Ouderdomswet en de Algemene nabestaandenwet inzake de vrijwillige verzekering en wijziging van artikel X van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen (Wet herziening vrijwillige verzekering AOW en ANW)

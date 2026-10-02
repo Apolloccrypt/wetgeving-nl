@@ -8,7 +8,7 @@ laatste_update: 2000-12-03
 status: geldig
 toestand: 2000-12-03
 bron: "https://wetten.overheid.nl/BWBR0011666"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Aanvulling selectielijst arbeidsomstandigheden 1994-1998

@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0011462"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 5 juli 2000 tot wijziging van de Wet inkomensvoorziening kunstenaars teneinde kunstenaars met een eigen woning niet langer van een beroep op de Wet inkomensvoorziening kunstenaars uit te sluiten

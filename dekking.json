@@ -1,23 +1,18 @@
 {
- "gegenereerd": "2026-10-01",
+ "gegenereerd": "2026-10-02",
  "geverifieerd": true,
- "bwb_regelingen": 46949,
- "bwb_geldend": 22252,
- "site_totaal": 22479,
- "site_geldend": 22250,
- "dekkingsgraad": 0.9999,
- "aantal_ontbrekend": 2,
- "aantal_ten_onrechte_geldig": 229,
+ "bwb_regelingen": 46954,
+ "bwb_geldend": 22256,
+ "site_totaal": 22485,
+ "site_geldend": 22255,
+ "dekkingsgraad": 1.0,
+ "aantal_ontbrekend": 1,
+ "aantal_ten_onrechte_geldig": 230,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
    "id": "BWBV0001764",
    "titel": "Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de International Nickel Study Group betreffende privileges en immuniteiten van het personeel van de International Nickel Study Group en hun gezinsleden",
-   "type": "verdrag"
-  },
-  {
-   "id": "BWBV0006403",
-   "titel": "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Hasjemitische Koninkrijk Jordanië betreffende een tijdelijke plaatsing van troepen van het Koninkrijk der Nederlanden in Jordanië",
    "type": "verdrag"
   }
  ],
@@ -765,6 +760,10 @@
   {
    "id": "BWBR0051336",
    "titel": "Besluit Earningsstrippingmaatregel 2025"
+  },
+  {
+   "id": "BWBR0051554",
+   "titel": "Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand project Rotterdam 2025"
   },
   {
    "id": "BWBR0051573",

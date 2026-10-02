@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0011982"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 14 december 2000, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet personenvervoer 2000 (Besluit personenvervoer 2000)

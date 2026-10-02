@@ -8,7 +8,7 @@ laatste_update: 2021-08-28
 status: geldig
 toestand: 2021-08-28
 bron: "https://wetten.overheid.nl/BWBR0011426"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Verzending tekst latere vermeldingen bij dubbelen akten burgerlijke stand

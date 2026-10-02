@@ -9,7 +9,7 @@ laatste_update: 2001-07-01
 status: geldig
 toestand: 2001-07-01
 bron: "https://wetten.overheid.nl/BWBR0012570"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 14 juni 2001, houdende wijziging van het Huursubsidiebesluit en het Besluit vangnetregeling huursubsidie (verklaring huurgegevens, verlaging kostenvergoeding, tolerantiemarge en enkele andere wijzigingen)

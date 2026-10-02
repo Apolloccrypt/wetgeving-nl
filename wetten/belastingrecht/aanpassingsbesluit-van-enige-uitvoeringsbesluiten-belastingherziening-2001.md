@@ -9,7 +9,7 @@ laatste_update: 2007-07-18
 status: geldig
 toestand: 2007-07-18
 bron: "https://wetten.overheid.nl/BWBR0012065"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 20 december 2000 tot aanpassing van enige uitvoeringsbesluiten

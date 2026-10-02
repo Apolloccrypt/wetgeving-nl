@@ -9,7 +9,7 @@ laatste_update: 2000-12-06
 status: geldig
 toestand: 2000-12-06
 bron: "https://wetten.overheid.nl/BWBR0011790"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 15 november 2000, houdende uitbreiding van het toepassingsgebied van de Wet beheer rijkswaterstaatswerken tot de exclusieve economische zone

@@ -8,7 +8,7 @@ laatste_update: 2001-02-21
 status: geldig
 toestand: 2001-02-21
 bron: "https://wetten.overheid.nl/BWBR0012259"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Aanpassing bedragen in Besluit woninggebonden subsidies 1995, Besluit locatiegebonden subsidies en Besluit beheer sociale-huursector

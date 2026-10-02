@@ -8,7 +8,7 @@ laatste_update: 2000-11-12
 status: geldig
 toestand: 2000-11-12
 bron: "https://wetten.overheid.nl/BWBR0011663"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Selectielijst Natuur- en landschapsbeheer voor de neerslag van handelingen van de Minister van LNV en taakvoorgangers (vanaf 1945)

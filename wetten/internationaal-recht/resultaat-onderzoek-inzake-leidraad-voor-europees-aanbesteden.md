@@ -9,7 +9,7 @@ laatste_update: 2000-02-16
 status: geldig
 toestand: 2000-02-16
 bron: "https://wetten.overheid.nl/BWBR0011147"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Controlebevindingen zoeklichtactie Europees aanbesteden

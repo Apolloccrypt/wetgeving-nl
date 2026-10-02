@@ -9,7 +9,7 @@ laatste_update: 2000-12-15
 status: geldig
 toestand: 2000-12-15
 bron: "https://wetten.overheid.nl/BWBR0011866"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 30 november 2000 tot wijziging van het Besluit administratieve verplichtingen waterschapsbelastingen en van het Rijksreglement ontgrondingen

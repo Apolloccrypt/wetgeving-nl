@@ -8,7 +8,7 @@ laatste_update: 2000-12-21
 status: geldig
 toestand: 2000-12-21
 bron: "https://wetten.overheid.nl/BWBR0011948"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Aanwijzing Stichting Denktank in de Autobranche (Stidenda) als organisatie die de belangen van de automobielbranche behartigt

@@ -9,7 +9,7 @@ laatste_update: 2014-10-29
 status: geldig
 toestand: 2014-10-29
 bron: "https://wetten.overheid.nl/BWBR0012067"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 20 december 2000, houdende instelling van de Herinneringsmedaille Buitenlandse Bezoeken (Besluit Herinneringsmedaille Buitenlandse Bezoeken)

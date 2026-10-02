@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0011919"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 11 december 2000, houdende nieuwe regels over het toekennen van bijdragen aan lagere inkomensgroepen ten behoeve van het verkrijgen en kunnen blijven bewonen van een eigen woning (Wet bevordering eigenwoningbezit)

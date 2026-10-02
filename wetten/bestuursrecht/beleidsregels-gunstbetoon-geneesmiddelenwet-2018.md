@@ -5,11 +5,11 @@ identifier: "BWBR0040672"
 categorie: "Gezondheidszorg"
 soort: "beleidsregel"
 publicatiedatum: 2018-04-01
-laatste_update: 2018-04-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2018-04-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0040672"
-opgehaald: 2026-08-26
+opgehaald: 2026-10-02
 ---
 
 # Beleidsregels van de Minister voor Medische Zorg van 19 februari 2018, kenmerk 1296993-173358-GMT, inzake gunstbetoon als bedoeld in artikel 94 van de Geneesmiddelenwet (Beleidsregels gunstbetoon Geneesmiddelenwet 2018)
@@ -128,11 +128,13 @@ Het verlenen en genieten van gastvrijheid, als bedoeld in [artikel 94, onder b, 
 
       - 2. Het programma voorziet in een onafhankelijke informatiebehoefte van beroepsbeoefenaren.
 
-   - 1. deze niet meer bedraagt dan strikt noodzakelijk is en waarbij geldt dat de kosten van gastvrijheid die door een ondernemer of derde partij worden vergoed of niet in rekening worden gebracht per beroepsbeoefenaar in ieder geval niet meer bedragen dan € 500,– per keer en € 1.500,– per jaar.
+   - 1. deze niet meer bedraagt dan strikt noodzakelijk is en waarbij geldt dat de kosten van gastvrijheid die door een ondernemer of derde partij worden vergoed of niet in rekening worden gebracht per beroepsbeoefenaar in ieder geval niet meer bedragen dan € 720,– per keer en € 2.160,– per jaar.
 
    - 2. de beroepsbeoefenaar zelf ten minste 50% van de reis-, de verblijf- en de inschrijfkosten die te maken hebben met zijn bezoek aan de wetenschappelijke bijeenkomst bijdraagt. Het spreekt voor zich dat een transparante en valide afrekening daaraan ten grondslag dient te liggen en dat de kosten reëel dienen te zijn.
 
-- B.3. *Manifestaties* Wanneer een samenkomst niet onder één van de drie onder ‘B.2. Bijeenkomsten’ genoemde categorieën valt, wordt deze gekwalificeerd als een manifestatie. In [artikel 1, eerste lid, onder bbb, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) wordt onder een manifestatie verstaan een georganiseerde samenkomst van beroepsbeoefenaren die tot doel heeft het voorschrijven of ter hand stellen van geneesmiddelen te bevorderen. Als er sprake is van een manifestatie geldt in aanvulling op onder B.2 genoemde drie criteria net als bij bijeenkomsten dat de gastvrijheid binnen redelijke perken dient te blijven. Redelijke perken Bij manifestaties blijft de gastvrijheid binnen redelijke perken wanneer deze niet meer bedraagt dan strikt noodzakelijk is en waarbij geldt dat de kosten van gastvrijheid die door een ondernemer of derde partij worden vergoed of niet in rekening worden gebracht per beroepsbeoefenaar in ieder geval niet meer bedragen dan € 75,– per keer en € 375,– per jaar.
+- B.3. *Manifestaties* Wanneer een samenkomst niet onder één van de drie onder ‘B.2. Bijeenkomsten’ genoemde categorieën valt, wordt deze gekwalificeerd als een manifestatie. In [artikel 1, eerste lid, onder bbb, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) wordt onder een manifestatie verstaan een georganiseerde samenkomst van beroepsbeoefenaren die tot doel heeft het voorschrijven of ter hand stellen van geneesmiddelen te bevorderen. Als er sprake is van een manifestatie geldt in aanvulling op onder B.2 genoemde drie criteria net als bij bijeenkomsten dat de gastvrijheid binnen redelijke perken dient te blijven. Redelijke perken Bij manifestaties blijft de gastvrijheid binnen redelijke perken wanneer deze niet meer bedraagt dan strikt noodzakelijk is en waarbij geldt dat de kosten van gastvrijheid die door een ondernemer of derde partij worden vergoed of niet in rekening worden gebracht per beroepsbeoefenaar in ieder geval niet meer bedragen dan € 108,– per keer en € 540,– per jaar.
+
+- B.4. *Indexering* De bedragen in dit artikel worden elke vijf jaar geïndexeerd.
 
 ### C. Het geven en ontvangen van geschenken
 

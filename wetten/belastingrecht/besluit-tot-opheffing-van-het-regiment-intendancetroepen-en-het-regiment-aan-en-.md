@@ -9,7 +9,7 @@ laatste_update: 2000-10-18
 status: geldig
 toestand: 2000-10-18
 bron: "https://wetten.overheid.nl/BWBR0011692"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 9 oktober 2000, houdende de opheffing van het Regiment Intendancetroepen en het Regiment Aan- en afvoertroepen en de oprichting van het Regiment Bevoorradings- en Transporttroepen

@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0011461"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 4 juli 2000, houdende regels inzake de opleiding tot en de deskundigheid van de optometrist (Besluit opleidingseisen en deskundigheidsgebied optometrist)

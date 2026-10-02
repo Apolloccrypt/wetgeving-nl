@@ -9,7 +9,7 @@ laatste_update: 2001-05-30
 status: geldig
 toestand: 2001-05-30
 bron: "https://wetten.overheid.nl/BWBR0012412"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 12 april 2001, houdende wijziging van enkele artikelen van de Comptabiliteitswet onder andere in verband met de verdere invoering van het baten-lastenstelsel als begrotingsstelsel bij het Rijk en de invoering van een interne begrotingsreserve (Zevende wijziging van de Comptabiliteitswet)

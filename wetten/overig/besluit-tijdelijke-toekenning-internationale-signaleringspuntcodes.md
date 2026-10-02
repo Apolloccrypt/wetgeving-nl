@@ -8,7 +8,7 @@ laatste_update: 2001-02-17
 status: geldig
 toestand: 2001-02-17
 bron: "https://wetten.overheid.nl/BWBR0012248"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit tijdelijke toekenning internationale signaleringspuntcodes

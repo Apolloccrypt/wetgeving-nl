@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0011826"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 23 november 2000, houdende vaststelling van de regeling inzake de bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren (Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren)

@@ -9,7 +9,7 @@ laatste_update: 2000-02-01
 status: geldig
 toestand: 2000-02-01
 bron: "https://wetten.overheid.nl/BWBR0011124"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Houdende regels met betrekking tot het verstrekken van een specifieke uitkering aan provincies in het jaar 2000 ten behoeve van vervoermanagement

@@ -8,7 +8,7 @@ laatste_update: 2001-01-31
 status: geldig
 toestand: 2001-01-31
 bron: "https://wetten.overheid.nl/BWBR0012171"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Publicatie aanpassing vergoeding materiële instandhouding basisscholen als gevolg van groei

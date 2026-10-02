@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0042137"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 15 april 2019, nr. IENW/BSK-2019/72827, houdende vaststelling van regels voor de goedkeuring en het gebruik van tachografen alsmede de diplomaeisen van tachograaftechnici en de controle en toezichtbevoegdheden van de Dienst Wegverkeer en tot intrekking van de Regeling controleapparaten 2005 (Regeling tachografen)

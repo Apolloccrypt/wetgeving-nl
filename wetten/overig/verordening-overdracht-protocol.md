@@ -8,7 +8,7 @@ laatste_update: 2021-05-13
 status: geldig
 toestand: 2021-05-13
 bron: "https://wetten.overheid.nl/BWBR0011436"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Verordening overdracht protocol

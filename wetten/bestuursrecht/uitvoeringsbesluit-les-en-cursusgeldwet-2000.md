@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0011400"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 7 juni 2000, houdende intrekking van het Uitvoeringsbesluit Les- en cursusgeldwet en vervanging door het Uitvoeringsbesluit Les- en cursusgeldwet 2000 (Uitvoeringsbesluit Les- en cursusgeldwet 2000)

@@ -8,7 +8,7 @@ laatste_update: 2001-05-13
 status: geldig
 toestand: 2001-05-13
 bron: "https://wetten.overheid.nl/BWBR0012480"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid

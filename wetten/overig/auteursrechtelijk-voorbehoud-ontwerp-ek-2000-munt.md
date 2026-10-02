@@ -8,7 +8,7 @@ laatste_update: 2008-08-07
 status: geldig
 toestand: 2008-08-07
 bron: "https://wetten.overheid.nl/BWBR0011329"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Auteursrechtelijk voorbehoud ontwerp EK 2000-munt

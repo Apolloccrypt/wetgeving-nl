@@ -9,7 +9,7 @@ laatste_update: 2001-05-01
 status: geldig
 toestand: 2001-05-01
 bron: "https://wetten.overheid.nl/BWBR0012484"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 11 mei 2001, houdende de overdracht van de zorg voor het consumentenkrediet

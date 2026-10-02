@@ -9,7 +9,7 @@ laatste_update: 2008-09-24
 status: geldig
 toestand: 2008-09-24
 bron: "https://wetten.overheid.nl/BWBR0011704"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 12 oktober 2000, houdende wijziging van de Wet luchtvaart (vervoer van gevaarlijke stoffen en van dieren)

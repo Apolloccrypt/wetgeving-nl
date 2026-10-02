@@ -8,7 +8,7 @@ laatste_update: 2005-06-25
 status: geldig
 toestand: 2005-06-25
 bron: "https://wetten.overheid.nl/BWBR0012420"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Instellingsbesluit Bovenregionaal Advies College management development politie

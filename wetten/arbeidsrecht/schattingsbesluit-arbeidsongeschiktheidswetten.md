@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0011478"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 8 juli 2000 tot vaststelling van een algemene maatregel van bestuur houdende nieuwe regels betreffende de vaststelling van de mate van arbeidsongeschiktheid ingevolge de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen en de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Schattingsbesluit arbeidsongeschiktheidswetten)

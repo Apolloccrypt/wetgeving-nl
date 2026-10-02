@@ -8,7 +8,7 @@ laatste_update: 2000-05-24
 status: geldig
 toestand: 2000-05-24
 bron: "https://wetten.overheid.nl/BWBR0011359"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wijzigingen BRIN-mutatieprocedure en BRIN-mutatieformulier (BMF)

@@ -8,7 +8,7 @@ laatste_update: 2014-12-30
 status: geldig
 toestand: 2014-12-30
 bron: "https://wetten.overheid.nl/BWBR0012076"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling uitzettingen en derivaten decentrale overheden

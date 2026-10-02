@@ -8,7 +8,7 @@ laatste_update: 2001-03-07
 status: geldig
 toestand: 2001-03-07
 bron: "https://wetten.overheid.nl/BWBR0012299"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Gedragslijn bij strafbare feiten begaan door ambtenaren van de Belastingdienst in functie

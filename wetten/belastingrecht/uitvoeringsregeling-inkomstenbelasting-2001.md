@@ -8,7 +8,7 @@ laatste_update: 2026-01-17
 status: geldig
 toestand: 2026-01-17
 bron: "https://wetten.overheid.nl/BWBR0012031"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Uitvoeringsregeling inkomstenbelasting 2001

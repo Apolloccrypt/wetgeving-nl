@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0017347"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 21 oktober 2004, houdende bepalingen ter uitvoering van de Wet documentatie vennootschappen (Besluit documentatie vennootschappen)

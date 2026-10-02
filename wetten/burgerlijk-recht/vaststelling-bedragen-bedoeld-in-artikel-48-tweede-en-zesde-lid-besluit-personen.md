@@ -8,7 +8,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0011924"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Vaststelling bedragen, bedoeld in artikel 48, tweede en zesde lid, Besluit personenvervoer 2000

@@ -9,7 +9,7 @@ laatste_update: 2000-05-17
 status: geldig
 toestand: 2000-05-17
 bron: "https://wetten.overheid.nl/BWBR0011321"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 25 april 2000 tot wijziging van de regulerende energiebelasting in verband met het beëindigen van het nihiltarief voor verbruik van aardgas en minerale oliën door de glastuinbouw

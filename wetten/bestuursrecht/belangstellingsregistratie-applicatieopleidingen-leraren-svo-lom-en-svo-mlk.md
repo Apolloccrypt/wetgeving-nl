@@ -8,7 +8,7 @@ laatste_update: 2000-04-05
 status: geldig
 toestand: 2000-04-05
 bron: "https://wetten.overheid.nl/BWBR0011253"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Belangstellingsregistratie applicatieopleidingen leraren svo-lom en svo-mlk

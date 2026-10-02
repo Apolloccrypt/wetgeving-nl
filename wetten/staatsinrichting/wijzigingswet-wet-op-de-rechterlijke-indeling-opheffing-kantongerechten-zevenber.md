@@ -9,7 +9,7 @@ laatste_update: 2001-05-01
 status: geldig
 toestand: 2001-05-01
 bron: "https://wetten.overheid.nl/BWBR0012241"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 12 februari 2001 tot wijziging van de Wet op de rechterlijke indeling in verband met de opheffing van de kantongerechten Zevenbergen en Zuidbroek

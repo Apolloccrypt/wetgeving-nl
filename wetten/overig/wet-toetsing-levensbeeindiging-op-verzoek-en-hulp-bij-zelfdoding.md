@@ -9,7 +9,7 @@ laatste_update: 2021-10-01
 status: geldig
 toestand: 2021-10-01
 bron: "https://wetten.overheid.nl/BWBR0012410"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 12 april 2001, houdende toetsing van levensbeëindiging op verzoek en hulp bij zelfdoding en wijziging van het Wetboek van Strafrecht en van de Wet op de lijkbezorging (Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding)

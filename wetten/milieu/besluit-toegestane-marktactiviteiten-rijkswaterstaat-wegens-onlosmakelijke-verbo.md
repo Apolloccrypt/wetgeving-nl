@@ -8,7 +8,7 @@ laatste_update: 2001-01-25
 status: geldig
 toestand: 2001-01-25
 bron: "https://wetten.overheid.nl/BWBR0012153"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit toegestane marktactiviteiten Rijkswaterstaat wegens onlosmakelijke verbondenheid met publieke taak dan wel ter benutting van noodzakelijke restcapaciteit

@@ -9,7 +9,7 @@ laatste_update: 2004-02-13
 status: geldig
 toestand: 2004-02-13
 bron: "https://wetten.overheid.nl/BWBR0011404"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 8 juni 2000 tot wijziging van de Mediawet en de Tabakswet (implementatie wijziging richtlijn «Televisie zonder grenzen»)

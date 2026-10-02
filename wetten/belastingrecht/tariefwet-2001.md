@@ -9,7 +9,7 @@ laatste_update: 2001-10-31
 status: geldig
 toestand: 2001-10-31
 bron: "https://wetten.overheid.nl/BWBR0011984"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 14 december 2000 tot wijziging van enkele belastingwetten c.a. (Tariefwet 2001)

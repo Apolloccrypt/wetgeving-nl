@@ -9,7 +9,7 @@ laatste_update: 2026-09-23
 status: geldig
 toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0009899"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Regeling tot vaststelling van nieuwe regelen inzake de luchtverkeersdienstverlening

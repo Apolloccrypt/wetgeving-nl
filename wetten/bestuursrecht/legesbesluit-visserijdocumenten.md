@@ -9,7 +9,7 @@ laatste_update: 2006-04-12
 status: geldig
 toestand: 2006-04-12
 bron: "https://wetten.overheid.nl/BWBR0011616"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 7 september 2000, houdende vaststelling leges visserijdocumenten (Legesbesluit visserijdocumenten)

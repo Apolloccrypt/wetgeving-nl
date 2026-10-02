@@ -8,7 +8,7 @@ laatste_update: 2001-05-19
 status: geldig
 toestand: 2001-05-19
 bron: "https://wetten.overheid.nl/BWBR0012498"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit aanwijzing controleurs Belastingdienst/FIOD-ECD voor de opsporing van economische delicten met betrekking tot de Wet voorraadvorming aardolieproducten 2001

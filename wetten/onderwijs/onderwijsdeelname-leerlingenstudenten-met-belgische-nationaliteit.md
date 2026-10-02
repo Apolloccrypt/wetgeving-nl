@@ -8,7 +8,7 @@ laatste_update: 2001-05-16
 status: geldig
 toestand: 2001-05-16
 bron: "https://wetten.overheid.nl/BWBR0012455"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Onderwijsdeelname leerlingen/studenten met Belgische nationaliteit

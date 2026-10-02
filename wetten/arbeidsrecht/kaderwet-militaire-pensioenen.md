@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0011955"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 13 december 2000 tot vaststelling van een kader voor de vereenvoudiging en de vernieuwing van het militaire pensioenstelsel (Kaderwet militaire pensioenen)

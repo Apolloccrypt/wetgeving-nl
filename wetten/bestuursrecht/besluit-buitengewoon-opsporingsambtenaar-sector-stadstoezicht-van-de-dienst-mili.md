@@ -8,7 +8,7 @@ laatste_update: 2005-12-27
 status: geldig
 toestand: 2005-12-27
 bron: "https://wetten.overheid.nl/BWBR0012263"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit buitengewoon opsporingsambtenaar sector Stadstoezicht van de Dienst Milieu en Beheer van de gemeente Leiden 2001

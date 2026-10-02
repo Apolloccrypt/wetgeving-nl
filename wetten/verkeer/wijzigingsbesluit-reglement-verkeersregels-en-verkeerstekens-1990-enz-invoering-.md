@@ -9,7 +9,7 @@ laatste_update: 2001-10-01
 status: geldig
 toestand: 2001-10-01
 bron: "https://wetten.overheid.nl/BWBR0012368"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 27 maart 2001, houdende wijziging van het Reglement verkeersregels en verkeerstekens 1990, het Besluit administratieve bepalingen inzake het wegverkeer en een aantal andere besluiten in verband met de invoering van een gehandicaptenparkeerkaart volgens communautair model

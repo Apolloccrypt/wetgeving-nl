@@ -8,7 +8,7 @@ laatste_update: 2000-11-19
 status: geldig
 toestand: 2000-11-19
 bron: "https://wetten.overheid.nl/BWBR0011665"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Selectielijst Agrarische handelspolitiek en exportbevordering voor de neerslag van handelingen vanaf 1945 van de Minister van LNV en taakvoorgangers

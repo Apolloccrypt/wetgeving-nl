@@ -9,7 +9,7 @@ laatste_update: 2004-11-10
 status: geldig
 toestand: 2004-11-10
 bron: "https://wetten.overheid.nl/BWBR0011757"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 2 november 2000, houdende intrekking van de Radio-Omroep-Zender-Wet 1935 en enige daarmee verband houdende wettelijke voorzieningen

@@ -8,7 +8,7 @@ laatste_update: 2007-02-17
 status: geldig
 toestand: 2007-02-17
 bron: "https://wetten.overheid.nl/BWBR0012454"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Kaderregeling subsidiëring bilaterale wetenschappelijke en technologische onderzoeksamenwerking

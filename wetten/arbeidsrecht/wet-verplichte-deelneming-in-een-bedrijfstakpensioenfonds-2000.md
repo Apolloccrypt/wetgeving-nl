@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0012092"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 21 december 2000, houdende nieuwe regeling voor verplichte deelneming in een bedrijfstakpensioenfonds (Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000)

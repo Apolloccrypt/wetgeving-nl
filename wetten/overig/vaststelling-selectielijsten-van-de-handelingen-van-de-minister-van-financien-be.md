@@ -8,7 +8,7 @@ laatste_update: 2000-10-28
 status: geldig
 toestand: 2000-10-28
 bron: "https://wetten.overheid.nl/BWBR0011653"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Vaststelling selectielijsten van de handelingen van de Minister van Financiën (beleidsterrein staatsdeelnemingen en financiering bedrijfsleven)

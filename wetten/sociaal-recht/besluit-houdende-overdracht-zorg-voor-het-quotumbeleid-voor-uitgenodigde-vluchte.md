@@ -9,7 +9,7 @@ laatste_update: 2000-06-09
 status: geldig
 toestand: 2000-06-09
 bron: "https://wetten.overheid.nl/BWBR0011364"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 19 mei 2000, houdende de overdracht van de zorg voor het quotumbeleid voor uitgenodigde vluchtelingen

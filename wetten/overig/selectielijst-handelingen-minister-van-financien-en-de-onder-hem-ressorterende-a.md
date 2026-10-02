@@ -8,7 +8,7 @@ laatste_update: 2001-02-04
 status: geldig
 toestand: 2001-02-04
 bron: "https://wetten.overheid.nl/BWBR0011897"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Selectielijst handelingen Minister van Financiën en de onder hem ressorterende actoren op het beleidsterrein invoerrechten en accijnzen 1945-1962

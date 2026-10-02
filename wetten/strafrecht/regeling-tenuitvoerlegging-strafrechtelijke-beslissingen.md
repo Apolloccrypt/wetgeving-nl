@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0042978"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Regeling van de Minister voor Rechtsbescherming van 13 december 2019, nr. 2772910, houdende regels over de tenuitvoerlegging van strafrechtelijke beslissingen (Regeling tenuitvoerlegging strafrechtelijke beslissingen)

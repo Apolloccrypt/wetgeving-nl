@@ -8,7 +8,7 @@ laatste_update: 2000-03-26
 status: geldig
 toestand: 2000-03-26
 bron: "https://wetten.overheid.nl/BWBR0011206"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Beleidsregels aanvraag ontheffing als bedoeld in de Wet particuliere beveiligingsorganisaties en recherchebureaus

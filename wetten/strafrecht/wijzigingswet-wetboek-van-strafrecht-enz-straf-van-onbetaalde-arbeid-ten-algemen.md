@@ -9,7 +9,7 @@ laatste_update: 2001-09-01
 status: geldig
 toestand: 2001-09-01
 bron: "https://wetten.overheid.nl/BWBR0011615"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 7 september 2000 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten omtrent de straf van onbetaalde arbeid ten algemenen nutte (taakstraffen)

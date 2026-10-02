@@ -9,7 +9,7 @@ laatste_update: 2000-07-26
 status: geldig
 toestand: 2000-07-26
 bron: "https://wetten.overheid.nl/BWBR0011479"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 8 juli 2000 tot instelling van een commissie auteursrecht als adviescollege van het Ministerie van Justitie ter advisering over het auteursrecht en naburige rechten

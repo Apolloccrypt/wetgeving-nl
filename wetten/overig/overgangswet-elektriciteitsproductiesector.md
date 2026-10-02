@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0012088"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 21 december 2000, houdende regels met betrekking tot het beëindigen van de overeenkomst van samenwerking van de elektriciteitsproductiesector en tot het aandeelhouderschap van de netbeheerder van het landelijk hoogspanningsnet (Overgangswet elektriciteitsproductiesector)

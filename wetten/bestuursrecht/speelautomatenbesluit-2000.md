@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0011373"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 23 mei 2000, houdende regels ter uitvoering van titel VA van de Wet op de kansspelen (Speelautomatenbesluit 2000)

@@ -8,7 +8,7 @@ laatste_update: 2000-10-25
 status: geldig
 toestand: 2000-10-25
 bron: "https://wetten.overheid.nl/BWBR0011696"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Beleidsregels ontheffingen Wet op de Dierproeven

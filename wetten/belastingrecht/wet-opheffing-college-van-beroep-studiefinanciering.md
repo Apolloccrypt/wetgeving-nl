@@ -9,7 +9,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0011439"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 22 juni 2000, tot wijziging van de Wet op de studiefinanciering, de Wet tegemoetkoming studiekosten, de Beroepswet en enige andere wetten, alsmede enige rechtspositionele voorzieningen in verband met de opheffing van het College van beroep studiefinanciering (Wet opheffing College van beroep studiefinanciering)

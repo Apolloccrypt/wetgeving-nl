@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-30
 toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0052266"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid en het College van procureurs-generaal van 28 januari 2026, nr. 6789396, tot instelling van de Commissie ICT-inbreuk openbaar ministerie (Instellingsbesluit Commissie ICT-inbreuk openbaar ministerie)

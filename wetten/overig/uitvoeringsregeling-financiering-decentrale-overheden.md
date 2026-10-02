@@ -8,7 +8,7 @@ laatste_update: 2009-04-05
 status: geldig
 toestand: 2009-04-05
 bron: "https://wetten.overheid.nl/BWBR0012075"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Uitvoeringsregeling Financiering decentrale overheden

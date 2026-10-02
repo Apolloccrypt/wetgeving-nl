@@ -9,7 +9,7 @@ laatste_update: 2018-11-14
 status: geldig
 toestand: 2018-11-14
 bron: "https://wetten.overheid.nl/BWBR0011708"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 14 oktober 2000, houdende regels omtrent de hoogte van op te leggen administratieve boeten op grond van enkele socialezekerheidswetten alsmede het tijdstip van inwerkingtreding van enkele wettelijke bepalingen (Boetebesluit socialezekerheidswetten)

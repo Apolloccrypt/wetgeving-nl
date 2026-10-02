@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0011530"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 22 juli 2000, houdende regels inzake het gebruik van geweld door defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak (Besluit geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak)

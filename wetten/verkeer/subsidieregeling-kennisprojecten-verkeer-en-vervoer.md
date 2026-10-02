@@ -8,7 +8,7 @@ laatste_update: 2004-11-04
 status: geldig
 toestand: 2004-11-04
 bron: "https://wetten.overheid.nl/BWBR0011844"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Subsidieregeling kennisprojecten verkeer en vervoer

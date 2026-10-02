@@ -8,7 +8,7 @@ laatste_update: 2000-11-20
 status: geldig
 toestand: 2000-11-20
 bron: "https://wetten.overheid.nl/BWBR0011800"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Rulingbeleid ten aanzien van BV1/BV2 structuren

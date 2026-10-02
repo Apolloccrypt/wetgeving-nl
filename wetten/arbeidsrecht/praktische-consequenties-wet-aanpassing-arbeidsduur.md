@@ -8,7 +8,7 @@ laatste_update: 2000-06-19
 status: geldig
 toestand: 2000-06-19
 bron: "https://wetten.overheid.nl/BWBR0011369"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Praktische consequenties Wet aanpassing arbeidsduur

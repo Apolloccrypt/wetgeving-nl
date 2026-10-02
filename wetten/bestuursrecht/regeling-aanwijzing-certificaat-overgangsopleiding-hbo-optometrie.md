@@ -8,7 +8,7 @@ laatste_update: 2000-11-18
 status: geldig
 toestand: 2000-11-18
 bron: "https://wetten.overheid.nl/BWBR0011732"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Regeling aanwijzing certificaat Overgangsopleiding HBO-optometrie

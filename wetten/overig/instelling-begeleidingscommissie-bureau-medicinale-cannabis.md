@@ -8,7 +8,7 @@ laatste_update: 2002-05-25
 status: geldig
 toestand: 2002-05-25
 bron: "https://wetten.overheid.nl/BWBR0011597"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Instelling Begeleidingscommissie Bureau Medicinale Cannabis

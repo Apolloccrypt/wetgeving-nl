@@ -9,7 +9,7 @@ laatste_update: 2001-06-22
 status: geldig
 toestand: 2001-06-22
 bron: "https://wetten.overheid.nl/BWBR0012439"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 26 april 2001 tot goedkeuring van de op 17 november 1997 te Rome tot stand gekomen wijziging van het Internationaal Verdrag voor de bescherming van planten (Trb. 2000, 31)

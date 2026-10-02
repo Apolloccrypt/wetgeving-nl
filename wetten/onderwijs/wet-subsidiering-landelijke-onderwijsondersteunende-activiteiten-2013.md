@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0034162"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-02
 ---
 
 # Wet van 11 september 2013 inzake regels voor subsidiëring van landelijke onderwijsondersteunende activiteiten (Wet subsidiëring landelijke onderwijsondersteunende activiteiten (2013))

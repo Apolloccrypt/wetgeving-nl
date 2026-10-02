@@ -8,7 +8,7 @@ laatste_update: 2001-04-01
 status: geldig
 toestand: 2001-04-01
 bron: "https://wetten.overheid.nl/BWBR0012358"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wijziging Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 1997 (Rva1997)

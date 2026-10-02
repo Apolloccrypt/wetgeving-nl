@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0011150"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 5 februari 2000, houdende regels inzake avarij-grosse ter uitvoering van artikel 1022 van Boek 8 van het Burgerlijk Wetboek

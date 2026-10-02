@@ -8,7 +8,7 @@ laatste_update: 2000-05-03
 status: geldig
 toestand: 2000-05-03
 bron: "https://wetten.overheid.nl/BWBR0011342"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Procedure voor indiening en behandeling van verzoeken tot benoeming tot notaris

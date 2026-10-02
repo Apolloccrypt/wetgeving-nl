@@ -9,7 +9,7 @@ laatste_update: 2000-04-12
 status: geldig
 toestand: 2000-04-12
 bron: "https://wetten.overheid.nl/BWBR0011232"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 17 maart 2000, houdende wijziging van het Warenwetbesluit Produkten voor bijzondere voeding en van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen

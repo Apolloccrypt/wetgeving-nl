@@ -8,7 +8,7 @@ laatste_update: 2000-10-04
 status: geldig
 toestand: 2000-10-04
 bron: "https://wetten.overheid.nl/BWBR0011671"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit mandaat Stichting kwaliteitsontwikkeling Gehandicaptenzorg

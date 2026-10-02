@@ -8,7 +8,7 @@ laatste_update: 2017-09-07
 status: geldig
 toestand: 2017-09-07
 bron: "https://wetten.overheid.nl/BWBR0011249"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Niet-van-toepassingverklaring artikel 7 Wet medisch-wetenschappelijk onderzoek met mensen

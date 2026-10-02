@@ -9,7 +9,7 @@ laatste_update: 2013-12-15
 status: geldig
 toestand: 2013-12-15
 bron: "https://wetten.overheid.nl/BWBR0011987"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 14 december 2000, houdende nieuwe bepalingen inzake het financieringsbeleid van openbare lichamen (Wet financiering decentrale overheden)

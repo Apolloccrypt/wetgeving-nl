@@ -8,7 +8,7 @@ laatste_update: 2001-05-17
 status: geldig
 toestand: 2001-05-17
 bron: "https://wetten.overheid.nl/BWBR0012416"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Mandaat ABP inzake uitvoering ontslaguitkeringen

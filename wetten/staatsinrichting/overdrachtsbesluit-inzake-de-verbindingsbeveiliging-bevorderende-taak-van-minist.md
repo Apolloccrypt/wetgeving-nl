@@ -9,7 +9,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0011958"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 13 december 2000, houdende de overdracht van de verbindingsbeveiliging bevorderende taak voor zover deze was opgedragen aan het Nationaal Bureau voor Verbindingsbeveiliging, van het ministerie van Buitenlandse Zaken naar het ministerie van Binnenlandse Zaken en Koninkrijksrelaties

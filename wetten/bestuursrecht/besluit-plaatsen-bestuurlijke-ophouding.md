@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0011332"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Besluit van 28 april 2000, houdende regels omtrent de geschiktheid van plaatsen waar groepen van personen bestuurlijk worden opgehouden (Besluit plaatsen bestuurlijke ophouding)

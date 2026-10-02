@@ -8,7 +8,7 @@ laatste_update: 2001-06-27
 status: geldig
 toestand: 2001-06-27
 bron: "https://wetten.overheid.nl/BWBR0012568"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Opleiding Nederlands als tweede taal in het primair onderwijs

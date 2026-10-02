@@ -8,7 +8,7 @@ laatste_update: 2001-04-09
 status: geldig
 toestand: 2001-04-09
 bron: "https://wetten.overheid.nl/BWBR0012403"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Circulaire EG-betekeningsverordening

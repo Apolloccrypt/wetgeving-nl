@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0011756"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-02
 ---
 
 # Wet van 2 november 2000 tot vaststelling van een Beginselenwet justitiële jeugdinrichtingen en daarmee verband houdende wijzigingen van het Wetboek van Strafrecht, het Wetboek van Strafvordering en de Wet op de jeugdhulpverlening alsmede enige andere wetten (Beginselenwet justitiële jeugdinrichtingen)
