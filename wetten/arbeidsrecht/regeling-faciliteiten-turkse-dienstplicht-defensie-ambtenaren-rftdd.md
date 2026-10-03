@@ -8,7 +8,7 @@ laatste_update: 2002-06-01
 status: geldig
 toestand: 2002-06-01
 bron: "https://wetten.overheid.nl/BWBR0013727"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling faciliteiten Turkse dienstplicht defensie-ambtenaren (RFTDD)

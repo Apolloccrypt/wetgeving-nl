@@ -8,7 +8,7 @@ laatste_update: 2001-11-29
 status: geldig
 toestand: 2001-11-29
 bron: "https://wetten.overheid.nl/BWBR0013022"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit beleidsregels maximale proeftijd VWS

@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013054"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Vaststellingsregeling percentage bedrag ex artikel 7e, eerste lid, Wet op de kansspelen en omzetting bedragen in euro

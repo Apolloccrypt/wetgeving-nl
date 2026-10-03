@@ -9,7 +9,7 @@ laatste_update: 2002-07-01
 status: geldig
 toestand: 2002-07-01
 bron: "https://wetten.overheid.nl/BWBR0013385"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 30 januari 2002, houdende wijziging van enige bepalingen van de Wet verontreiniging oppervlaktewateren in verband met de zuivering van stedelijk afvalwater en toekenning bevoegdheid aan waterschapsbesturen tot vergunningverlening

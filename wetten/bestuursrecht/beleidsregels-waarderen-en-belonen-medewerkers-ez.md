@@ -8,7 +8,7 @@ laatste_update: 2002-06-23
 status: geldig
 toestand: 2002-06-23
 bron: "https://wetten.overheid.nl/BWBR0013793"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Beleidsregels waarderen en belonen medewerkers EZ

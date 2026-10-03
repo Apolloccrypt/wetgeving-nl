@@ -8,7 +8,7 @@ laatste_update: 2002-07-31
 status: geldig
 toestand: 2002-07-31
 bron: "https://wetten.overheid.nl/BWBR0013905"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Verrekening uitkeringen ingevolge ziektewet/wet arbeid en zorg

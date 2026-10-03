@@ -8,7 +8,7 @@ laatste_update: 2002-05-23
 status: geldig
 toestand: 2002-05-23
 bron: "https://wetten.overheid.nl/BWBR0013680"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling uitbetaling pensioenen en uitkeringen aan Gouverneurs Nederlandse Antillen en Aruba

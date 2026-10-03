@@ -9,7 +9,7 @@ laatste_update: 2001-08-24
 status: geldig
 toestand: 2001-08-24
 bron: "https://wetten.overheid.nl/BWBR0012699"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 16 juli 2001 tot wijziging van enkele artikelen van de Wet milieubeheer (hoofdstuk 12) in verband met de herziening van de EMAS-verordening

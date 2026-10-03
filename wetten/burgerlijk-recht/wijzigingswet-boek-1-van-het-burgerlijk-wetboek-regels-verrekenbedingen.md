@@ -9,7 +9,7 @@ laatste_update: 2002-09-01
 status: geldig
 toestand: 2002-09-01
 bron: "https://wetten.overheid.nl/BWBR0013512"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 14 maart 2002 tot wijziging van titel 8 van Boek 1 van het Burgerlijk Wetboek (regels verrekenbedingen)

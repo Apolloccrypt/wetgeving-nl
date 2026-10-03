@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013102"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 6 december 2001, houdende de vaststelling van de bestanddelen van de nationale zijde van de Nederlandse euromunten

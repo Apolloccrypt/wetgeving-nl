@@ -9,7 +9,7 @@ laatste_update: 2026-05-02
 status: geldig
 toestand: 2026-05-02
 bron: "https://wetten.overheid.nl/BWBR0013267"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 20 december 2001 tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet structuur uitvoeringsorganisatie werk en inkomen, en in verband daarmee van enige andere socialezekerheidswetten (Besluit SUWI)

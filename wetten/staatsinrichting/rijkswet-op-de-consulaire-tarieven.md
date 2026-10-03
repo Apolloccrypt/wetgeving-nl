@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0013618"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Rijkswet van 18 april 2002, houdende bepalingen omtrent de tarieven voor consulaire dienstverlening

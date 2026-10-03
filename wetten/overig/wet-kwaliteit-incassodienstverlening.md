@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0046685"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Wet van 11 mei 2022, houdende regels met betrekking tot de private buitengerechtelijke incassodienstverlening en wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de aanpassing van de cumulatieregeling voor buitengerechtelijke incassokosten (Wet kwaliteit incassodienstverlening)

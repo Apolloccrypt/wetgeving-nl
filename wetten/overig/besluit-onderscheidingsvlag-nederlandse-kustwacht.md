@@ -8,7 +8,7 @@ laatste_update: 2002-12-12
 status: geldig
 toestand: 2002-12-12
 bron: "https://wetten.overheid.nl/BWBR0013096"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit Onderscheidingsvlag Nederlandse Kustwacht

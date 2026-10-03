@@ -8,7 +8,7 @@ laatste_update: 2002-07-30
 status: geldig
 toestand: 2002-07-30
 bron: "https://wetten.overheid.nl/BWBR0013937"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Afronding belastbaar bedrag vennootschapsbelasting

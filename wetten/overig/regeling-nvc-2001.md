@@ -8,7 +8,7 @@ laatste_update: 2013-11-30
 status: geldig
 toestand: 2013-11-30
 bron: "https://wetten.overheid.nl/BWBR0012948"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling NVC 2001

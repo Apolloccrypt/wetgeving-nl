@@ -9,7 +9,7 @@ laatste_update: 2003-02-08
 status: geldig
 toestand: 2003-02-08
 bron: "https://wetten.overheid.nl/BWBR0013831"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2003 (Verordening PT bijzondere heffing teelt fruit en champignons 2003/1 (hoog tarief))

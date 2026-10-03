@@ -8,7 +8,7 @@ laatste_update: 2002-04-13
 status: geldig
 toestand: 2002-04-13
 bron: "https://wetten.overheid.nl/BWBR0013585"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit mandaat toepassing bestuursdwang ex artikel 93 Wet personenvervoer 2000 en artikel 169, eerste lid, Wegenverkeerswet 1994 aan het regionaal politiekorps Amsterdam-Amstelland

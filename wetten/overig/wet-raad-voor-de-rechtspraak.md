@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013100"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 6 december 2001 tot wijziging van de Wet op de rechterlijke organisatie, de Wet rechtspositie rechterlijke ambtenaren en enkele andere wetten in verband met de instelling van de Raad voor de rechtspraak (Wet Raad voor de rechtspraak)

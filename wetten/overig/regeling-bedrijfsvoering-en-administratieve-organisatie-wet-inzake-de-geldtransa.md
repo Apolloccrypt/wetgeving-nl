@@ -8,7 +8,7 @@ laatste_update: 2005-10-01
 status: geldig
 toestand: 2005-10-01
 bron: "https://wetten.overheid.nl/BWBR0013313"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling bedrijfsvoering en administratieve organisatie Wet inzake de geldtransactiekantoren

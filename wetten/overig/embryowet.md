@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0013797"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 20 juni 2002, houdende regels inzake handelingen met geslachtscellen en embryo's (Embryowet)

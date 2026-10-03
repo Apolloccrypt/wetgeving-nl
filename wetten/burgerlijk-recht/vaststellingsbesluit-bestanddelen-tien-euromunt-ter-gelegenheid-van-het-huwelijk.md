@@ -9,7 +9,7 @@ laatste_update: 2002-01-25
 status: geldig
 toestand: 2002-01-25
 bron: "https://wetten.overheid.nl/BWBR0013345"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 14 januari 2002, houdende vaststelling van de bestanddelen van de tien-euromunt die in 2002 wordt uitgegeven ter gelegenheid van het huwelijk van de Prins van Oranje en Máxima Zorreguieta

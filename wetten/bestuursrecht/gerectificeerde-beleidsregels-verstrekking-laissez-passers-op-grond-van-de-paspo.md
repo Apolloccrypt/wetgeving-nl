@@ -8,7 +8,7 @@ laatste_update: 2005-02-06
 status: geldig
 toestand: 2005-02-06
 bron: "https://wetten.overheid.nl/BWBR0012929"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Gerectificeerde beleidsregels verstrekking laissez passers op grond van de Paspoortwet

@@ -9,7 +9,7 @@ laatste_update: 2002-07-01
 status: geldig
 toestand: 2002-07-01
 bron: "https://wetten.overheid.nl/BWBR0013619"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 18 april 2002 tot samenvoeging van de gemeenten Heerjansdam en Zwijndrecht

@@ -9,7 +9,7 @@ laatste_update: 2004-02-13
 status: geldig
 toestand: 2004-02-13
 bron: "https://wetten.overheid.nl/BWBR0013747"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 6 juni 2002 tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de invoering van accreditatie in het hoger onderwijs

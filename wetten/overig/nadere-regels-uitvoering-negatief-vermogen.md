@@ -9,7 +9,7 @@ laatste_update: 2002-11-28
 status: geldig
 toestand: 2002-11-28
 bron: "https://wetten.overheid.nl/BWBR0013460"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Nadere regels inzake de wijze waarop het College sanering ziekenhuisvoorzieningen uitvoering geeft aan artikel 7a, eerste lid, van het Besluit sanering instellingen voor gezondheidszorg (Nadere regels uitvoering negatief vermogen)

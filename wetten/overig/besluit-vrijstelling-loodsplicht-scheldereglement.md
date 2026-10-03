@@ -9,7 +9,7 @@ laatste_update: 2008-10-01
 status: geldig
 toestand: 2008-10-01
 bron: "https://wetten.overheid.nl/BWBR0013974"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van de Vlaamse minister van Mobiliteit, Openbare Werken en Energie en de Nederlandse minister van Verkeer en Waterstaat, houdende vaststelling van het 'Besluit vrijstelling loodsplicht Scheldereglement'

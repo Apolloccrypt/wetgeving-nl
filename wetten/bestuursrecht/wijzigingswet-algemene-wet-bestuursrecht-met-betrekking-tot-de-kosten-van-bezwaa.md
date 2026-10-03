@@ -9,7 +9,7 @@ laatste_update: 2002-03-12
 status: geldig
 toestand: 2002-03-12
 bron: "https://wetten.overheid.nl/BWBR0013375"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 24 januari 2002 tot wijziging van de Algemene wet bestuursrecht met betrekking tot de kosten van bezwaar en administratief beroep (kosten bestuurlijke voorprocedures)

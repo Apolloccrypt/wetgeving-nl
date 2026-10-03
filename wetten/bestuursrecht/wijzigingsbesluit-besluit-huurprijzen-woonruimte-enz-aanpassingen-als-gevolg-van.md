@@ -9,7 +9,7 @@ laatste_update: 2002-07-01
 status: geldig
 toestand: 2002-07-01
 bron: "https://wetten.overheid.nl/BWBR0013580"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 9 april 2002 tot wijziging van het Besluit huurprijzen woonruimte, het Besluit beheer sociale-huursector en enkele andere besluiten (aanpassingen als gevolg van het huurbeleid vanaf 1 juli 2002)

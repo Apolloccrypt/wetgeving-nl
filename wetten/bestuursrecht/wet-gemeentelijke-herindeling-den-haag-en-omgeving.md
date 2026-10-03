@@ -9,7 +9,7 @@ laatste_update: 2001-07-25
 status: geldig
 toestand: 2001-07-25
 bron: "https://wetten.overheid.nl/BWBR0012687"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Wet van 12 juli 2001 tot gemeentelijke herindeling van Den Haag en omgeving

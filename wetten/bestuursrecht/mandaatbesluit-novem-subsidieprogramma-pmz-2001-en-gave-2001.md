@@ -8,7 +8,7 @@ laatste_update: 2001-08-26
 status: geldig
 toestand: 2001-08-26
 bron: "https://wetten.overheid.nl/BWBR0012717"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Mandaatbesluit NOVEM Subsidieprogramma PMZ 2001 en GAVE 2001

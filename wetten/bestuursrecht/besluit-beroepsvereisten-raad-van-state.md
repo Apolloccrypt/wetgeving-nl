@@ -9,7 +9,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBR0012973"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 5 november 2001, houdende nadere regels met betrekking tot de beroepsvereisten voor leden van de Afdeling bestuursrechtspraak van de Raad van State (Besluit beroepsvereisten Raad van State)

@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0012905"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 18 oktober 2001, houdende de instelling, de taak, de samenstelling en de werkwijze van een commissie als bedoeld in Artikel 45 van het Algemeen militair ambtenarenreglement

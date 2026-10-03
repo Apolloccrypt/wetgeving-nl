@@ -9,7 +9,7 @@ laatste_update: 2002-09-20
 status: geldig
 toestand: 2002-09-20
 bron: "https://wetten.overheid.nl/BWBR0014000"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 4 september 2002, houdende de toekenning van standaarden aan het Korps Veldartillerie en het Korps Rijdende Artillerie en een vaandel aan het Korps Luchtdoelartillerie

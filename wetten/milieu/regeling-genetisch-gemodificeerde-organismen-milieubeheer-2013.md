@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0035072"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 april 2014, nr. IenM/BSK-2014/88344, houdende regels met betrekking tot het ingeperkt gebruik en de doelbewuste introductie in het milieu van genetisch gemodificeerde organismen (Regeling genetisch gemodificeerde organismen milieubeheer 2013)

@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0013361"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 22 januari 2002, houdende regels omtrent de bemanning van zeeschepen, varende onder de vlag van het Koninkrijk met een Nederlands-Antilliaanse of Arubaanse zeebrief (Bemanningsbesluit Nederlands-Antilliaanse en Arubaanse zeeschepen)

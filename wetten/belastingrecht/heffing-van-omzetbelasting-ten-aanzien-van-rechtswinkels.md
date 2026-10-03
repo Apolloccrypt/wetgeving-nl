@@ -8,7 +8,7 @@ laatste_update: 2001-01-01
 status: geldig
 toestand: 2001-01-01
 bron: "https://wetten.overheid.nl/BWBR0012963"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Heffing van omzetbelasting ten aanzien van rechtswinkels

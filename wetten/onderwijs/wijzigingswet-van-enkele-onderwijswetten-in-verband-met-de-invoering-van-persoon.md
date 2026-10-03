@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0013105"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 6 december 2001 tot wijziging van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs

@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0013642"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 25 april 2002, houdende regels voor de bewaring, het beheer en de verstrekking van gegevens van donoren bij kunstmatige donorbevruchting (Wet donorgegevens kunstmatige bevruchting)

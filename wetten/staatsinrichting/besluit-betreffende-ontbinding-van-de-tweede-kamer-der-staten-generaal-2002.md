@@ -9,7 +9,7 @@ laatste_update: 2002-05-01
 status: geldig
 toestand: 2002-05-01
 bron: "https://wetten.overheid.nl/BWBR0013544"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 27 maart 2002 betreffende de ontbinding van de Tweede Kamer der Staten-Generaal

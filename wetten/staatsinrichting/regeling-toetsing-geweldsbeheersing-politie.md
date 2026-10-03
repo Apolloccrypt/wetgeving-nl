@@ -9,7 +9,7 @@ laatste_update: 2019-08-01
 status: geldig
 toestand: 2019-08-01
 bron: "https://wetten.overheid.nl/BWBR0013200"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling houdende vaststelling van bepalingen inzake toetsing van ambtenaren van politie en buitengewoon opsporingsambtenaren terzake van geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid

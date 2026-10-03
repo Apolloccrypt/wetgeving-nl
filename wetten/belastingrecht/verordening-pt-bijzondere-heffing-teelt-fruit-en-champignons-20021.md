@@ -9,7 +9,7 @@ laatste_update: 2003-01-25
 status: geldig
 toestand: 2003-01-25
 bron: "https://wetten.overheid.nl/BWBR0013048"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Verordening van het Productschap Tuinbouw van 27 november 2001, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van fruit en champignons voor het jaar 2002 (Verordening PT bijzondere heffing teelt fruit en champignons 2002/1)

@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0013342"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 11 januari 2002, houdende veiligheidsvoorschriften voor vissersvaartuigen (Vissersvaartuigenbesluit 2002)

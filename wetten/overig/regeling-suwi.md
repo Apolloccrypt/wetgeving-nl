@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0013280"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regels op grond van de Wet structuur uitvoeringsorganisatie werk en inkomen en de Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen

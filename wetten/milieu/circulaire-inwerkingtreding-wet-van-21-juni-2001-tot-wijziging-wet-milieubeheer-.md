@@ -8,7 +8,7 @@ laatste_update: 2002-04-04
 status: geldig
 toestand: 2002-04-04
 bron: "https://wetten.overheid.nl/BWBR0013551"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Circulaire inwerkingtreding Wet van 21 juni 2001 tot wijziging Wet milieubeheer (structuur beheer afvalstoffen)

@@ -9,7 +9,7 @@ laatste_update: 2002-09-26
 status: geldig
 toestand: 2002-09-26
 bron: "https://wetten.overheid.nl/BWBR0014011"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van de Minister van Verkeer en Waterstaat tot aanwijzing van de ambtenaren, belast met het toezicht op de naleving en de opsporing van overtreding van de Herziene Rijnvaartakte en van de daarop gebaseerde reglementen (Besluit aanwijzing handhavingsambtenaren Herziene Rijnvaartakte)

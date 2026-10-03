@@ -9,7 +9,7 @@ laatste_update: 2002-11-01
 status: geldig
 toestand: 2002-11-01
 bron: "https://wetten.overheid.nl/BWBR0013916"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 22 juli 2002 tot vaststelling van een eenmalige uitkering en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode van 1 oktober 2001 tot en met 31 december 2003

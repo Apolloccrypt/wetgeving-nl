@@ -9,7 +9,7 @@ laatste_update: 2003-01-25
 status: geldig
 toestand: 2003-01-25
 bron: "https://wetten.overheid.nl/BWBR0013840"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een heffing op verduurzaamde producten voor het jaar 2003 (Verordening PT heffing verduurzaamde groenten en fruit 2003)

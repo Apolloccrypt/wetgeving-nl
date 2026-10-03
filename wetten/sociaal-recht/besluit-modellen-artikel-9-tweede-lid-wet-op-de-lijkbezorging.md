@@ -9,7 +9,7 @@ laatste_update: 2016-07-01
 status: geldig
 toestand: 2016-07-01
 bron: "https://wetten.overheid.nl/BWBR0013489"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 6 maart 2002, houdende vaststelling van de formulieren, bedoeld in artikel 9, tweede lid, van de Wet op de lijkbezorging betreffende het overlijden ten gevolge van een niet-natuurlijke oorzaak, niet zijnde levensbeëindiging zonder uitdrukkelijk verzoek

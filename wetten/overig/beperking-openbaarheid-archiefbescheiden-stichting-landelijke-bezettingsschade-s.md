@@ -8,7 +8,7 @@ laatste_update: 2002-04-07
 status: geldig
 toestand: 2002-04-07
 bron: "https://wetten.overheid.nl/BWBR0013567"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Beperking openbaarheid archiefbescheiden Stichting Landelijke Bezettingsschade (SLB) 1942-1945 en de Stichting Beheer Landbouwgronden (SBL) 1946-1982

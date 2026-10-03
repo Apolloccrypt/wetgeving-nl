@@ -8,7 +8,7 @@ laatste_update: 2026-02-05
 status: geldig
 toestand: 2026-02-05
 bron: "https://wetten.overheid.nl/BWBR0012745"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling geweldsinstructie justitiële jeugdinrichtingen

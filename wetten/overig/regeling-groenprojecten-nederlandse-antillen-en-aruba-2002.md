@@ -8,7 +8,7 @@ laatste_update: 2002-10-20
 status: geldig
 toestand: 2002-10-20
 bron: "https://wetten.overheid.nl/BWBR0013273"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling groenprojecten Nederlandse Antillen en Aruba 2002

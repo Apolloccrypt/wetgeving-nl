@@ -9,7 +9,7 @@ laatste_update: 2002-04-20
 status: geldig
 toestand: 2002-04-20
 bron: "https://wetten.overheid.nl/BWBR0012630"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van een bijzondere heffing over de teelt van fruit en champignons voor het jaar 2002

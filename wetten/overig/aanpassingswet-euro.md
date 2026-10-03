@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0012859"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 27 september 2001 tot aanpassing van wetten in verband met de vervanging van de gulden door de euro (Aanpassingswet euro)

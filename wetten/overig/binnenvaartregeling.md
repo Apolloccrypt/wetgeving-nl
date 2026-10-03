@@ -8,7 +8,7 @@ laatste_update: 2026-09-23
 status: geldig
 toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0025958"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Binnenvaartregeling

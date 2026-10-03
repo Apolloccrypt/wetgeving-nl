@@ -8,7 +8,7 @@ laatste_update: 2015-03-24
 status: geldig
 toestand: 2015-03-24
 bron: "https://wetten.overheid.nl/BWBR0012748"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling straf- en afzonderingscel justitiële jeugdinrichtingen

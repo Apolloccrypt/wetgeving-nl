@@ -9,7 +9,7 @@ laatste_update: 2001-08-22
 status: geldig
 toestand: 2001-08-22
 bron: "https://wetten.overheid.nl/BWBR0012697"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Wet van 16 juli 2001 tot samenvoeging van de gemeenten Dodewaard, Echteld en Kesteren

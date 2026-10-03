@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0035474"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Minister van Economische Zaken van 11 juli 2014, nr. WJZ / 13125043, houdende vaststelling van nationale subsidie-instrumenten op het terrein van Economische Zaken (Regeling nationale EZ-subsidies)
@@ -5155,6 +5155,10 @@ De penvoerder is een ondernemer.
 - d. € 700.000, indien het een TechBridge-innovatieproject betreft in het kader van de TechBridge-innovatiecall Photonics Integrated Circuits;
 
 - e. € 1.000.000, indien het een TechBridge-innovatieproject betreft in het kader van de TechBridge-innovatiecall Duitsland, Quantum Technologies in Aerospace;
+
+- f. € 2.000.000, indien het een TechBridge-innovatieproject betreft in het kader van de TechBridge-innovatiecall Duitsland, Next Generation Sustainable Battery Technologies and Battery Manufacturing;
+
+- g. € 300.000, indien het een TechBridge-innovatieproject betreft in het kader van de TechBridge-innovatiecall Verenigd Koninkrijk, Commercialising Quantum Technologies;
 
 wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.
 

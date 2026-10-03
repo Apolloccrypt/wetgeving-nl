@@ -9,7 +9,7 @@ laatste_update: 2014-06-12
 status: geldig
 toestand: 2014-06-12
 bron: "https://wetten.overheid.nl/BWBR0012659"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Staatssecretaris van Justitie houdende regels met betrekking tot de wijze van kennisgeving van ambtshandelingen van gerechtsdeurwaarders die in strijd zijn met de volkenrechtelijke verplichtingen van de Staat

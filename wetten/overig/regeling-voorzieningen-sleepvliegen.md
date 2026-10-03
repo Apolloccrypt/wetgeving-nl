@@ -8,7 +8,7 @@ laatste_update: 2013-10-01
 status: geldig
 toestand: 2013-10-01
 bron: "https://wetten.overheid.nl/BWBR0012875"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling voorzieningen sleepvliegen

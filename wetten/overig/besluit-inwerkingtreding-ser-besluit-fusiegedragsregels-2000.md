@@ -8,7 +8,7 @@ laatste_update: 2001-09-07
 status: geldig
 toestand: 2001-09-07
 bron: "https://wetten.overheid.nl/BWBR0012802"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit inwerkingtreding SER-besluit Fusiegedragsregels 2000

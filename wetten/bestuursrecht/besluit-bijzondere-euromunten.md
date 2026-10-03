@@ -9,7 +9,7 @@ laatste_update: 2008-10-15
 status: geldig
 toestand: 2008-10-15
 bron: "https://wetten.overheid.nl/BWBR0013337"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 7 januari 2002, houdende vaststelling van de materialen waaruit de bijzondere munten met de hoedanigheid van wettig betaalmiddel zijn vervaardigd, de gewichten en afmetingen, alsmede de bedragen tot welke deze munten de hoedanigheid van wettig betaalmiddel hebben (Besluit bijzondere euromunten)

@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0012983"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 8 november 2001, houdende regels betreffende terbeschikkingstelling en gebruik van foetaal weefsel (Wet foetaal weefsel)

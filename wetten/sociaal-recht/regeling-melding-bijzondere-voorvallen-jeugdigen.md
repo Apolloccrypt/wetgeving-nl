@@ -8,7 +8,7 @@ laatste_update: 2015-10-01
 status: geldig
 toestand: 2015-10-01
 bron: "https://wetten.overheid.nl/BWBR0012739"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling melding bijzondere voorvallen jeugdigen

@@ -9,7 +9,7 @@ laatste_update: 2003-03-08
 status: geldig
 toestand: 2003-03-08
 bron: "https://wetten.overheid.nl/BWBR0013835"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van een heffing over de teelt van witlof bestemd voor de promotie van witlof, voor het jaar 2003 (Verordening PT heffing promotie witlof 2003)

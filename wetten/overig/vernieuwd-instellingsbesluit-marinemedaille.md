@@ -8,7 +8,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0014015"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Vernieuwd instellingsbesluit marinemedaille

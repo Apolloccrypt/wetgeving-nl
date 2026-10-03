@@ -8,7 +8,7 @@ laatste_update: 2002-08-01
 status: geldig
 toestand: 2002-08-01
 bron: "https://wetten.overheid.nl/BWBR0013603"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Maatregelen in verband met deregulering en autonomievergroting op korte termijn (schoolbudget met ingang van 1 augustus 2002)

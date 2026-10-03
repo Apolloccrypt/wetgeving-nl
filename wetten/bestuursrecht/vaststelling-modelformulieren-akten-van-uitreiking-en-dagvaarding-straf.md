@@ -8,7 +8,7 @@ laatste_update: 2002-05-01
 status: geldig
 toestand: 2002-05-01
 bron: "https://wetten.overheid.nl/BWBR0013657"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Vaststelling modelformulieren akten van uitreiking en dagvaarding (straf)

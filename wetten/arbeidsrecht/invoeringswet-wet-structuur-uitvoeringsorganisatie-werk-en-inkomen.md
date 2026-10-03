@@ -9,7 +9,7 @@ laatste_update: 2009-08-01
 status: geldig
 toestand: 2009-08-01
 bron: "https://wetten.overheid.nl/BWBR0013061"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 29 november 2001 tot invoering van de Wet structuur uitvoeringsorganisatie werk en inkomen (Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen)

@@ -8,7 +8,7 @@ laatste_update: 2002-03-15
 status: geldig
 toestand: 2002-03-15
 bron: "https://wetten.overheid.nl/BWBR0013446"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Gevolgen wijzigingen taken College sanering ziekenhuisvoorzieningen (CSZ) en College bouw ziekenhuisvoorzieningen (CBZ)

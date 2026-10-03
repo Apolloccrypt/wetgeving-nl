@@ -8,7 +8,7 @@ laatste_update: 2001-12-12
 status: geldig
 toestand: 2001-12-12
 bron: "https://wetten.overheid.nl/BWBR0013072"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Verantwoording en monitoring van het schoolbudget in het primair onderwijs

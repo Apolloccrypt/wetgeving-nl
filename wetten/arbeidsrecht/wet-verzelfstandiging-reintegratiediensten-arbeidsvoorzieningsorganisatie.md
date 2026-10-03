@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013269"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 20 december 2001, houdende regels met betrekking tot de positionering van de reïntegratiediensten van de Arbeidsvoorzieningsorganisatie (Wet verzelfstandiging reïntegratiediensten Arbeidsvoorzieningsorganisatie)

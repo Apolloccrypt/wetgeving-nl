@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0013503"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 11 maart 2002, houdende regels betreffende een communautair energie- efficiëntie-etiketteringsprogramma voor kantoorapparatuur (Besluit Energy Star-etiketteringsprogramma)

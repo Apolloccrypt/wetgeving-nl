@@ -8,7 +8,7 @@ laatste_update: 2001-10-01
 status: geldig
 toestand: 2001-10-01
 bron: "https://wetten.overheid.nl/BWBR0013588"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Aanpassing toelage onregelmatige dienst personenchauffeurs en vergoeding privé-ruimte telewerken

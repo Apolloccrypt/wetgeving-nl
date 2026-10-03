@@ -9,7 +9,7 @@ laatste_update: 2002-03-07
 status: geldig
 toestand: 2002-03-07
 bron: "https://wetten.overheid.nl/BWBR0013463"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 28 februari 2002, houdende vaststelling van het tijdstip van inwerkingtreding van de Wet dualisering gemeentebestuur

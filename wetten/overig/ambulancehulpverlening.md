@@ -8,7 +8,7 @@ laatste_update: 2002-11-28
 status: geldig
 toestand: 2002-11-28
 bron: "https://wetten.overheid.nl/BWBR0013317"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Ambulancehulpverlening

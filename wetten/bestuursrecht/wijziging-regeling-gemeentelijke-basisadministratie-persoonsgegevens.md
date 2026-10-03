@@ -8,7 +8,7 @@ laatste_update: 2001-08-30
 status: geldig
 toestand: 2001-08-30
 bron: "https://wetten.overheid.nl/BWBR0012787"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wijziging Regeling gemeentelijke basisadministratie persoonsgegevens

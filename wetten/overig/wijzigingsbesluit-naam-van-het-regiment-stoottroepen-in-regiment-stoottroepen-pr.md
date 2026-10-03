@@ -9,7 +9,7 @@ laatste_update: 2002-06-28
 status: geldig
 toestand: 2002-06-28
 bron: "https://wetten.overheid.nl/BWBR0013759"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 10 juni 2002, houdende de wijziging van de naam van het Regiment Stoottroepen in Regiment Stoottroepen Prins Bernhard

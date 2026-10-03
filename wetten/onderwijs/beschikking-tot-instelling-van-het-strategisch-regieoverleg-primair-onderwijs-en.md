@@ -8,7 +8,7 @@ laatste_update: 2001-11-24
 status: geldig
 toestand: 2001-11-24
 bron: "https://wetten.overheid.nl/BWBR0012992"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Beschikking tot instelling van het Strategisch Regieoverleg primair onderwijs en Strategisch Regieoverleg voortgezet onderwijs

@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0035236"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 19 juni 2014, nr. 528293, houdende vaststelling van het normenkader met eisen voor het uitvoeren van jeugdbescherming en/of jeugdreclassering (Regeling normenkader jeugdbescherming en jeugdreclassering)

@@ -9,7 +9,7 @@ laatste_update: 2002-12-22
 status: geldig
 toestand: 2002-12-22
 bron: "https://wetten.overheid.nl/BWBR0013850"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2003 houdende vaststelling van de aanvullende financieringsheffing ten behoeve van de vruchtenwijnhandel in Nederland voor het jaar 2003 (Verordening PT aanvullende financieringsheffing vruchtenwijn 2003)

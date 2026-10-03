@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0012698"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Wet van 16 juli 2001 tot het stellen van nadere regels in verband met de introductie van een toeslagregeling ter compensatie van het gemis aan overhevelingstoeslag per 1 januari 2001 ten aanzien van de Toeslagwet Indonesische pensioenen 1956 en enkele andere overzeese pensioenwetten alsmede het actualiseren van die wetten in verband met de inwerkingtreding van de Algemene nabestaandenwet

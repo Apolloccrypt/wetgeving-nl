@@ -9,7 +9,7 @@ laatste_update: 2010-07-14
 status: geldig
 toestand: 2010-07-14
 bron: "https://wetten.overheid.nl/BWBR0013614"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 18 april 2002 tot wijziging van de Tabakswet

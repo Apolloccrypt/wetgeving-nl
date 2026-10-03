@@ -8,7 +8,7 @@ laatste_update: 2001-11-01
 status: geldig
 toestand: 2001-11-01
 bron: "https://wetten.overheid.nl/BWBR0012768"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Instellingsregeling Commissie van Beroep Kwaliteitstoets Tolken en Vertalers

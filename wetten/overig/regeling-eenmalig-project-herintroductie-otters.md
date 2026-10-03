@@ -8,7 +8,7 @@ laatste_update: 2002-07-07
 status: geldig
 toestand: 2002-07-07
 bron: "https://wetten.overheid.nl/BWBR0013851"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling eenmalig project herintroductie otters

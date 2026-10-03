@@ -8,7 +8,7 @@ laatste_update: 2004-12-05
 status: geldig
 toestand: 2004-12-05
 bron: "https://wetten.overheid.nl/BWBR0013026"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Bijdrageregeling preventiebeleid 2001-2004 voor jongeren uit etnische minderheidsgroepen

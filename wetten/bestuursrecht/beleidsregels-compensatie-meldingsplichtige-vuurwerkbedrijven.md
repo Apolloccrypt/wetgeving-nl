@@ -8,7 +8,7 @@ laatste_update: 2002-04-26
 status: geldig
 toestand: 2002-04-26
 bron: "https://wetten.overheid.nl/BWBR0013587"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Beleidsregels compensatie meldingsplichtige vuurwerkbedrijven

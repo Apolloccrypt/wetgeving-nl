@@ -9,7 +9,7 @@ laatste_update: 2003-05-17
 status: geldig
 toestand: 2003-05-17
 bron: "https://wetten.overheid.nl/BWBR0013838"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 3 juli 2002, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in groenten en fruit voor het jaar 2003 (Verordening PT bestemmingsheffing handel groenten en fruit 2003)

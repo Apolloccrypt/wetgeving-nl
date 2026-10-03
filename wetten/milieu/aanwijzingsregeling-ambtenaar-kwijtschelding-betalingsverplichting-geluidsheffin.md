@@ -8,7 +8,7 @@ laatste_update: 2006-07-09
 status: geldig
 toestand: 2006-07-09
 bron: "https://wetten.overheid.nl/BWBR0012844"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Aanwijzingsregeling ambtenaar kwijtschelding betalingsverplichting geluidsheffing burgerluchtvaart

@@ -9,7 +9,7 @@ laatste_update: 2007-05-11
 status: geldig
 toestand: 2007-05-11
 bron: "https://wetten.overheid.nl/BWBR0013751"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Minister van Justitie, houdende regels betrekking hebbende op de geestelijke verzorgers van moslims, hindoes en boeddhisten die, anders dan bij wijze van ambtelijke aanstelling, aan justitiële inrichtingen verbonden zijn

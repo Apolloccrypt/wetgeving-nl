@@ -8,7 +8,7 @@ laatste_update: 2002-03-26
 status: geldig
 toestand: 2002-03-26
 bron: "https://wetten.overheid.nl/BWBR0013316"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Gewenste risicobeheersing ter zake van back-to-backleningen

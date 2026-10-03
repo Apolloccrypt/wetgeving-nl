@@ -9,7 +9,7 @@ laatste_update: 2002-04-06
 status: geldig
 toestand: 2002-04-06
 bron: "https://wetten.overheid.nl/BWBR0012846"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van het Bestuur van het Productschap Tuinbouw, d.d. 25 september 2001 ter uitvoering van de Verordening PT Vakheffing bloemkwekerijproducten 2002 (Besluit 2002/1 PT Bloemkwekerijproducten vakheffing)

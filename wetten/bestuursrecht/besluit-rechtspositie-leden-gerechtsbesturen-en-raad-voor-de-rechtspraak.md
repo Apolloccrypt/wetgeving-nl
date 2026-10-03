@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0013131"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 10 december 2001, houdende nadere regels met betrekking tot de rechtspositie van de leden van de gerechtsbesturen en de leden van de Raad voor de rechtspraak (Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak)

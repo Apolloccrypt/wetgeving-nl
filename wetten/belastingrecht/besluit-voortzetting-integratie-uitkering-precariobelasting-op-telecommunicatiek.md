@@ -9,7 +9,7 @@ laatste_update: 2002-10-25
 status: geldig
 toestand: 2002-10-25
 bron: "https://wetten.overheid.nl/BWBR0013982"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 22 augustus 2002, houdende aanpassing van de verdeling van de middelen uit het gemeentefonds van de integratie-uitkering afschaffing precariobelasting op omroepkabels en andere telecommunicatiekabels (Besluit voortzetting integratie-uitkering precariobelasting op telecommunicatiekabels)

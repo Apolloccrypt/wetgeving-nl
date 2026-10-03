@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0050228"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 13 september 2024, nr. 5738472, houdende tijdelijke aanwijzing van de (overige) zittingsplaatsen van twee gerechtshoven als (overige) zittingsplaatsen van een ander gerechtshof als bedoeld in artikel 62a van de Wet op de rechterlijke organisatie, ten behoeve van hogerberoepszaken strafrecht (Tijdelijke aanwijzing gerechtshoven Amsterdam en ’s-Hertogenbosch voor hogerberoepszaken strafrecht van het gerechtshof Arnhem-Leeuwarden)

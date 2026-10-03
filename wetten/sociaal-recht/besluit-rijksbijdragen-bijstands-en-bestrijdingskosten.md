@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0013371"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 24 januari 2002 inzake rijksbijdragen in de kosten van het verlenen van bijstand en van de bestrijding van een ramp of zwaar ongeval in Nederland, als ook in België of Duitsland (Besluit rijksbijdragen bijstands- en bestrijdingskosten)

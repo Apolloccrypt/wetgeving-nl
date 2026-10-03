@@ -9,7 +9,7 @@ laatste_update: 2003-05-01
 status: geldig
 toestand: 2003-05-01
 bron: "https://wetten.overheid.nl/BWBR0013771"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Rijkswet van 13 juni 2002 tot wijziging van de bepalingen ten aanzien van octrooigemachtigden in de Rijksoctrooiwet en de Rijksoctrooiwet 1995

@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0013506"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 13 maart 2003, nr. 5213867/03/6, ter uitvoering van het Besluit verkrijging en verlies Nederlanderschap, het Besluit optie- en naturalisatiegelden 2002 en het Besluit bewijs omtrent toelating

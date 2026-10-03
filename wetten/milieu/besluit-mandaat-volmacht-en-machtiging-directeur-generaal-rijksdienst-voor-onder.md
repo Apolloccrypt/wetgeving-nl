@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0037269"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Besluit van de Minister van Infrastructuur en Milieu, van 1 december 2015, nr. IENM/BSK-2015/179390, houdende verlening mandaat, volmacht en machtiging aan de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken voor de uitvoering van diverse subsidieregelingen en -programma’s en enige andere regelingen op het terrein van het Ministerie van Infrastructuur en Milieu 2015 (Besluit mandaat, volmacht en machtiging algemeen directeur Rijksdienst voor Ondernemend Nederland op het terrein van het Ministerie van Infrastructuur en Milieu 2015)

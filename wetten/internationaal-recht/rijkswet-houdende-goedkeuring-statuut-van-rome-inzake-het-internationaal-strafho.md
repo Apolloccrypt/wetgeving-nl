@@ -9,7 +9,7 @@ laatste_update: 2001-07-18
 status: geldig
 toestand: 2001-07-18
 bron: "https://wetten.overheid.nl/BWBR0012646"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Rijkswet van 5 juli 2001, houdende goedkeuring van het op 17 juli 1998 totstandgekomen Statuut van Rome inzake het Internationaal Strafhof

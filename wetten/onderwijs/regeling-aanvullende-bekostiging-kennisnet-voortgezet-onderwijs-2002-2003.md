@@ -9,7 +9,7 @@ laatste_update: 2005-07-31
 status: geldig
 toestand: 2005-07-31
 bron: "https://wetten.overheid.nl/BWBR0013775"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling aanvullende bekostiging Kennisnet voortgezet onderwijs 2002 - 2003

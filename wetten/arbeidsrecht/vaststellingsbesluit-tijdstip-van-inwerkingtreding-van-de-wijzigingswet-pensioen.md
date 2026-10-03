@@ -9,7 +9,7 @@ laatste_update: 2001-12-13
 status: geldig
 toestand: 2001-12-13
 bron: "https://wetten.overheid.nl/BWBR0013073"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 3 december 2001 tot vaststelling van het tijdstip van inwerkingtreding van de Wet van 21 december 2000 houdende wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten (recht van keuze voor ouderdomspensioen in plaats van nabestaandenpensioen en gelijke behandeling van mannen en vrouwen)

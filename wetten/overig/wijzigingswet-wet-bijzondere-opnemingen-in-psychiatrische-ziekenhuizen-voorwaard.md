@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0013892"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 13 juli 2002 tot wijziging van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen (voorwaardelijke machtiging en observatiemachtiging)

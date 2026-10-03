@@ -9,7 +9,7 @@ laatste_update: 2002-12-21
 status: geldig
 toestand: 2002-12-21
 bron: "https://wetten.overheid.nl/BWBR0013846"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2002, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het jaar 2003 (Verordening PT heffing export bloembollen naar Japan 2003)

@@ -8,7 +8,7 @@ laatste_update: 2001-12-28
 status: geldig
 toestand: 2001-12-28
 bron: "https://wetten.overheid.nl/BWBR0013286"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Circulaire inwerktreding Eural-regelgeving

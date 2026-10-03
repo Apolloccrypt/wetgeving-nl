@@ -9,7 +9,7 @@ laatste_update: 2026-09-30
 status: geldig
 toestand: 2026-09-30
 bron: "https://wetten.overheid.nl/BWBR0052979"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 5 augustus 2026, nr. BOACAT2026/048, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Zaanstad

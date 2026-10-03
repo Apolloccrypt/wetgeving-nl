@@ -9,7 +9,7 @@ laatste_update: 2002-06-12
 status: geldig
 toestand: 2002-06-12
 bron: "https://wetten.overheid.nl/BWBR0013729"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 30 mei 2002, houdende regeling van het lidmaatschap koninklijk huis alsmede daaraan verbonden titels (Wet lidmaatschap koninklijk huis)

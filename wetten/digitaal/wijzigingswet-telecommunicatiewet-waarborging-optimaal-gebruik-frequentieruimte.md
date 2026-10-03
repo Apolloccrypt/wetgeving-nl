@@ -9,7 +9,7 @@ laatste_update: 2008-07-01
 status: geldig
 toestand: 2008-07-01
 bron: "https://wetten.overheid.nl/BWBR0012694"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Wet van 16 juli 2001 tot wijziging van de Telecommunicatiewet in verband met de invoering van de mogelijkheid door middel van een financieel instrument het optimaal gebruik van frequentieruimte te waarborgen

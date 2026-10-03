@@ -9,7 +9,7 @@ laatste_update: 2023-06-13
 status: geldig
 toestand: 2023-06-13
 bron: "https://wetten.overheid.nl/BWBR0013514"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 14 maart 2002, houdende regels met betrekking tot het vervoer van gevaarlijke stoffen door de lucht (Besluit vervoer gevaarlijke stoffen door de lucht)

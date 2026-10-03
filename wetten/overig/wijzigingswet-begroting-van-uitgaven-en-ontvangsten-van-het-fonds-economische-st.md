@@ -9,7 +9,7 @@ laatste_update: 2001-10-24
 status: geldig
 toestand: 2001-10-24
 bron: "https://wetten.overheid.nl/BWBR0012858"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 27 september 2001 tot wijziging van de begroting van de uitgaven en de ontvangsten van het Fonds economische structuurversterking voor het jaar 2001 (wijziging samenhangende met de Voorjaarsnota)

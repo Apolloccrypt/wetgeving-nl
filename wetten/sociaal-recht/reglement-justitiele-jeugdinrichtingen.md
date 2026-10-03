@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0012647"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 5 juli 2001, houdende vaststelling van het Reglement justitiële jeugdinrichtingen en daarmee verband houdende wijziging van enkele besluiten (Reglement justitiële jeugdinrichtingen)

@@ -9,7 +9,7 @@ laatste_update: 2002-07-01
 status: geldig
 toestand: 2002-07-01
 bron: "https://wetten.overheid.nl/BWBR0013611"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 17 april 2002, houdende de toekenning van een vaste beloning aan de voorzitter van de Commissie innovatie openbaar bestuur

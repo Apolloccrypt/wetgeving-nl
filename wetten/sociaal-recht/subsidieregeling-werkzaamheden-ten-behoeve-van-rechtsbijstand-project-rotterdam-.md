@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-10-01
 toestand: 2025-10-03
 bron: "https://wetten.overheid.nl/BWBR0051554"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand project Rotterdam 2025

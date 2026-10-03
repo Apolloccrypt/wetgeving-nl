@@ -9,7 +9,7 @@ laatste_update: 2001-07-15
 status: geldig
 toestand: 2001-07-15
 bron: "https://wetten.overheid.nl/BWBR0012660"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Staatssecretaris van Justitie houdende voorschriften betreffende de berekening en uitkering van de rente, toegevoegd aan de bijzondere rekeningen van gerechtsdeurwaarders

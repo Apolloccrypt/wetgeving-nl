@@ -9,7 +9,7 @@ laatste_update: 2025-11-19
 status: geldig
 toestand: 2025-11-19
 bron: "https://wetten.overheid.nl/BWBR0012954"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 1 november 2001 tot vaststelling van de Vergoedingenregeling Commissie van deskundigen notariaat

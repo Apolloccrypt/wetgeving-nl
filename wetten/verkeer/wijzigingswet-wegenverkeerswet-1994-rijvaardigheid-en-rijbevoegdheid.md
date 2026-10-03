@@ -9,7 +9,7 @@ laatste_update: 2007-03-14
 status: geldig
 toestand: 2007-03-14
 bron: "https://wetten.overheid.nl/BWBR0013617"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 18 april 2002 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot de rijvaardigheid en rijbevoegdheid

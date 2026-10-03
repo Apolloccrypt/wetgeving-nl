@@ -8,7 +8,7 @@ laatste_update: 2002-02-03
 status: geldig
 toestand: 2002-02-03
 bron: "https://wetten.overheid.nl/BWBR0013388"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Subsidieregeling stiller, schoner en zuiniger 2002

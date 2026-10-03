@@ -8,7 +8,7 @@ laatste_update: 2001-11-15
 status: geldig
 toestand: 2001-11-15
 bron: "https://wetten.overheid.nl/BWBR0013357"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit vacatiegeld Raad van Advies College bescherming persoonsgegevens

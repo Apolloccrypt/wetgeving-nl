@@ -8,7 +8,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0012991"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Beschikking tot instelling van de Leerling- en Ouderkamer

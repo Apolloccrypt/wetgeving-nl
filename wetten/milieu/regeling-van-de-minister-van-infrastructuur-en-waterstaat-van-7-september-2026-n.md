@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0053133"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat van 7 september 2026, nr. IENW/BSK-2026/129840, houdende vaststelling van tijdelijke regels met betrekking tot de verlening van subsidie voor het vergaren van kennis over het inzetten van Nature Based Solutions in living labs (Tijdelijke subsidieregeling NBS living labs) [KetenID WGK 028055]

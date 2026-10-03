@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0012825"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wijzigingsvoorstel op ministeriële beschikking nr. 801, van 14 april 1972

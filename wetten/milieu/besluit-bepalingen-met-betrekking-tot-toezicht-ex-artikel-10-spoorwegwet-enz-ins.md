@@ -9,7 +9,7 @@ laatste_update: 2002-07-01
 status: geldig
 toestand: 2002-07-01
 bron: "https://wetten.overheid.nl/BWBR0012917"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 24 oktober 2001, houdende bepalingen met betrekking tot het toezicht als bedoeld in artikel 10 van de Spoorwegwet, alsmede overige aanpassingen van besluiten samenhangende met de instelling van de Inspectie Verkeer en Waterstaat

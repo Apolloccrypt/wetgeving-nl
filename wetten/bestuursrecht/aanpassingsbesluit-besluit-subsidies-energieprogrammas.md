@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013112"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 7 december 2001, houdende aanpassing van het Besluit subsidies energieprogramma's aan de Communautaire kaderregeling inzake staatssteun ten behoeve van het milieu (PbEG 2001, C 37)

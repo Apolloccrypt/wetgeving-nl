@@ -9,7 +9,7 @@ laatste_update: 2002-08-09
 status: geldig
 toestand: 2002-08-09
 bron: "https://wetten.overheid.nl/BWBR0013913"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 22 juli 2002, houdende de herindeling van de ministeriële taak met betrekking tot het telecommunicatie- en postbeleid alsmede met betrekking tot het beleid ten aanzien van de kabelsector en digitale televisie en radio via de ether

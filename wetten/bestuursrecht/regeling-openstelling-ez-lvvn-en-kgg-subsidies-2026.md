@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -58,6 +58,8 @@ opgehaald: 2026-10-02
 |  |  | TechBridge-innovatieprojecten, onderdeel b, Quantum Technologies als bedoeld in de TechBridge-innovatiecall Duitsland, Quantum Technologies in Aerospace, te raadplegen via www.rvo.nl/techbridge |  | 02-03-2026 t/m 23-06-2026 | € 2.000.000 |
 |  |  | Techbridge-innovatieprojecten, onderdeel c, Process Technology, including Process Intensification als bedoeld in de TechBridge-innovatiecall China, Circular Chemistry and Materials, te raadplegen via www.rvo.nl/techbridge |  | 31-03-2026 t/m 30-06-2026 | € 700.000 |
 |  |  | Techbridge-innovatieprojecten, onderdeel h, Energy Materials als bedoeld in de TechBridge-innovatiecall China, Next-Generation Battery Technologies, te raadplegen via www.rvo.nl/techbridge |  | 31-03-2026 t/m 30-06-2026 | € 500.000 |
+|  |  | Techbridge-innovatieprojecten, onderdeel h, Batterij Technologie als bedoeld in de TechBridge-innovatiecall Duitsland, Next Generation Sustainable Battery Technologies and Battery Manufacturing, te raadplegen via www.rvo.nl/techbridge |  | 01-10-2026 t/m 19-01-2027 | € 2.000.000 |
+|  |  | Techbridge-innovatieprojecten, onderdeel b, Quantum Technologie als bedoeld in de TechBridge-innovatiecall Verenigd Koninkrijk, Commercialising Quantum Technologies, te raadplegen via www.rvo.nl/techbridge |  | 02-11-2026 t/m 09-02-2027 | € 1.200.000 |
 | Titel 3.9: Innovatiekredieten | 3.9.2 | Innovatiekredieten | Klinische ontwikkelingsprojecten en technische projecten | 01-01-2026 t/m 31-12-2026 | € 50.000.000, waarvan minimaal € 10.000.000 voor klinische ontwikkelprojecten en minimaal € 10.000.000 voor technische ontwikkelprojecten |
 | Titel 3.10: Seed capital technostarters | 3.10.2 | Startersfondsen |  | 01-01-2026 t/m 31-03-2026 | € 18.000.000 |
 |  | 3.10.2 | Startersfondsen | Dual-use tender | 01-01-2026 t/m 31-03-2026 | € 24.000.000 |
@@ -77,6 +79,7 @@ opgehaald: 2026-10-02
 | Titel 3.22: Thematische Technology Transfer | 3.22.2b, eerste lid |  | Thematisch technology transferplan gericht op defensie | 16-12-2025 t/m 15-04-2026 | € 13.800.000 |
 | Titel 3.23: Venture Challenge | 3.23.2 | Life Sciences & Health (LSH) |  | 01-01-2026 t/m 03-02-2026 | € 100.000 |
 |  | 3.23.2 | Life Sciences & Health (LSH) |  | 05-05-2026 t/m 02-07-2026 | € 100.000 |
+|  | 3.23.2 | Life Sciences & Health (LSH) |  | 20-10-2026 t/m 10-12-2026 | € 100.000 |
 | Titel 3.26: Regeneratief geneeskundige onderzoeksprojecten | 3.26, eerste lid |  |  | 24-11-2025 t/m 17-02-2026 | € 10.000.000 |
 | Titel 3.27: Important Projects of Common European Interest (IPCEI) | 3.27.2, eerste lid, onderdeel a |  | algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën | 09-06-2026 t/m 09-07-2026 | € 150.000.000 |
 |  | 3.27.2, eerste lid, onderdeel b |  | onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën | 09-06-2026 t/m 09-07-2026 | € 50.000.000 |

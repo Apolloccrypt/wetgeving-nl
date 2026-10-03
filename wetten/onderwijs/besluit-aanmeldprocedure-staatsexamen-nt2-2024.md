@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-30
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0047244"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Regeling van het College voor toetsen en examens 26 september 2022 nummer CvTE-22.00944, houdende vaststelling van de aanmeldprocedure voor het Staatsexamen Nt2 2024 (Besluit Aanmeldprocedure Staatsexamen Nt2 2024)

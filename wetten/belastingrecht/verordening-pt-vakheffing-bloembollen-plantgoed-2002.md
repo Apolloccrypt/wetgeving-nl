@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0012633"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Verordening van het Productschap Tuinbouw van 3 juli 2001, houdende de vaststelling van aan telers van en handelaren in bloembollen op te leggen heffing voor het jaar 2002 (Verordening PT Vakheffing Bloembollen Plantgoed 2002)

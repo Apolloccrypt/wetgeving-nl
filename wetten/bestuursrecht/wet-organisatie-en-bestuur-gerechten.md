@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0013099"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 6 december 2001 tot wijziging van de Wet op de rechterlijke organisatie, de Wet rechtspositie rechterlijke ambtenaren en enkele andere wetten in verband met de modernisering van de organisatie en de instelling van een bestuur bij de gerechten (Wet organisatie en bestuur gerechten)

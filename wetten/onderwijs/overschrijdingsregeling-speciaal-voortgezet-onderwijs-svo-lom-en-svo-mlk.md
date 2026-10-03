@@ -8,7 +8,7 @@ laatste_update: 2001-11-21
 status: geldig
 toestand: 2001-11-21
 bron: "https://wetten.overheid.nl/BWBR0012936"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Overschrijdingsregeling speciaal voortgezet onderwijs (svo)-lom en svo-mlk

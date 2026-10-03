@@ -8,7 +8,7 @@ laatste_update: 2003-04-01
 status: geldig
 toestand: 2003-04-01
 bron: "https://wetten.overheid.nl/BWBR0013752"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling maximum aantal provinciale opcenten motorrijtuigenbelasting 2003

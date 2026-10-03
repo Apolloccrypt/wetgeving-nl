@@ -9,7 +9,7 @@ laatste_update: 2001-12-27
 status: geldig
 toestand: 2001-12-27
 bron: "https://wetten.overheid.nl/BWBR0013178"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 13 december 2001, houdende vaststelling van het tijdstip van inwerkingtreding van de Wet structuur uitvoeringsorganisatie werk en inkomen en van de Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen, van het tijdstip waarop enige artikelen van de Arbeidsvoorzieningswet 1996 vervallen en van het tijdstip waarop het Tijdelijk besluit samenwerking CWI vervalt

@@ -8,7 +8,7 @@ laatste_update: 2002-09-13
 status: geldig
 toestand: 2002-09-13
 bron: "https://wetten.overheid.nl/BWBR0014006"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit toezichthouders Subsidieregeling breedband Kenniswijk

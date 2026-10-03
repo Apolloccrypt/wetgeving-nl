@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0033715"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Wet van 3 juli 2013 houdende nieuwe regels voor een basisregistratie personen (Wet basisregistratie personen)

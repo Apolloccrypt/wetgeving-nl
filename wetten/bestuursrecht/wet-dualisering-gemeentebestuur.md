@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0013462"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 28 februari 2002 tot wijziging van de Gemeentewet en enige andere wetten tot dualisering van de inrichting, de bevoegdheden en de werkwijze van het gemeentebestuur (Wet dualisering gemeentebestuur)

@@ -9,7 +9,7 @@ laatste_update: 2004-11-01
 status: geldig
 toestand: 2004-11-01
 bron: "https://wetten.overheid.nl/BWBR0012949"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 1 november 2001 tot wijziging van de regelingen betreffende de waarborgen rond de vervolging

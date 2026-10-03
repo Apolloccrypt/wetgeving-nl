@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0013064"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 29 november 2001 tot vaststelling van het Nederlandse muntstelsel in verband met de invoering van de chartale euro (Muntwet 2002)

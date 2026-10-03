@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0013540"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling procesgang eerste ziektejaar

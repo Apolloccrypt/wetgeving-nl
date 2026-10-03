@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0013132"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 10 december 2001, houdende regels voor de orde van dienst binnen de gerechten (Besluit orde van dienst gerechten)

@@ -8,7 +8,7 @@ laatste_update: 2002-09-12
 status: geldig
 toestand: 2002-09-12
 bron: "https://wetten.overheid.nl/BWBR0014001"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Mandaatbesluit boeten en dwangsommen toezicht op informatieverstrekking

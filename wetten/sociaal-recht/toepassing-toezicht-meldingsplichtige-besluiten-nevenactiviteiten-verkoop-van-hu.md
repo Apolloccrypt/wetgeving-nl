@@ -8,7 +8,7 @@ laatste_update: 2006-07-20
 status: geldig
 toestand: 2006-07-20
 bron: "https://wetten.overheid.nl/BWBR0012970"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Toepassing toezicht (meldingsplichtige besluiten, nevenactiviteiten), verkoop van huurwoningen en invoering euro (sociale-huursector)

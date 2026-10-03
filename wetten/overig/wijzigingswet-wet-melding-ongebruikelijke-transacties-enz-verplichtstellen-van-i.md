@@ -9,7 +9,7 @@ laatste_update: 2001-12-28
 status: geldig
 toestand: 2001-12-28
 bron: "https://wetten.overheid.nl/BWBR0013177"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 13 december 2001, houdende wijziging van de Wet melding ongebruikelijke transacties en de Wet identificatie bij financiële dienstverlening 1993 met het oog op het verplichtstellen van de identificatieplicht en van de meldingsplicht van ongebruikelijke transacties door handelaren in zaken van grote waarde

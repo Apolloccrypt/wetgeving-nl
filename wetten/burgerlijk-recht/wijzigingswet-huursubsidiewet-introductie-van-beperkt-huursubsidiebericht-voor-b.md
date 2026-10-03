@@ -9,7 +9,7 @@ laatste_update: 2001-11-28
 status: geldig
 toestand: 2001-11-28
 bron: "https://wetten.overheid.nl/BWBR0012982"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 8 november 2001, houdende wijziging van de Huursubsidiewet (introductie van het beperkt huursubsidiebericht voor bepaalde huurders)

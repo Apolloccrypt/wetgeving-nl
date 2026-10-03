@@ -9,7 +9,7 @@ laatste_update: 2002-09-01
 status: geldig
 toestand: 2002-09-01
 bron: "https://wetten.overheid.nl/BWBR0013799"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 20 juni 2002 tot samenvoeging van de gemeenten Echt en Susteren

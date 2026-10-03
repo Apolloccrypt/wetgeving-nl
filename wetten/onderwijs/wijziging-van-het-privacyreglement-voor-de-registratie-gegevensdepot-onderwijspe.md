@@ -8,7 +8,7 @@ laatste_update: 2002-03-02
 status: geldig
 toestand: 2002-03-02
 bron: "https://wetten.overheid.nl/BWBR0013414"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wijziging van het privacyreglement voor de registratie gegevensdepot onderwijspersoneel

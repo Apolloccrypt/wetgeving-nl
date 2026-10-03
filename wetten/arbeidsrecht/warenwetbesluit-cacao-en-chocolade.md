@@ -9,7 +9,7 @@ laatste_update: 2014-12-13
 status: geldig
 toestand: 2014-12-13
 bron: "https://wetten.overheid.nl/BWBR0012958"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 2 november 2001, houdende het Warenwetbesluit Cacao en chocolade

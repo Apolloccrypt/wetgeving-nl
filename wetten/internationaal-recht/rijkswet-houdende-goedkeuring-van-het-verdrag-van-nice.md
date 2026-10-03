@@ -9,7 +9,7 @@ laatste_update: 2008-07-25
 status: geldig
 toestand: 2008-07-25
 bron: "https://wetten.overheid.nl/BWBR0013236"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Rijkswet van 19 december 2001, houdende goedkeuring van het op 26 februari 2001 te Nice totstandgekomen Verdrag van Nice houdende wijziging van het Verdrag betreffende de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten, met Protocollen (Trb. 2001, 47)

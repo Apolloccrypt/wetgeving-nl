@@ -9,7 +9,7 @@ laatste_update: 2002-07-19
 status: geldig
 toestand: 2002-07-19
 bron: "https://wetten.overheid.nl/BWBR0013833"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken, houdende beleidsregels omtrent het verstrekken van informatie over verificatieonderzoeken in India en Pakistan

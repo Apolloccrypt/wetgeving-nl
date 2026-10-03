@@ -9,7 +9,7 @@ laatste_update: 2002-09-01
 status: geldig
 toestand: 2002-09-01
 bron: "https://wetten.overheid.nl/BWBR0013777"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 14 juni 2002 tot wijziging van onder anderen de artikelen 10 en 26 van de Wet voorkeursrecht gemeenten in verband met het tegengaan van de ontwijking van het voorkeursrecht van gemeenten bij de verwerving van onroerende zaken

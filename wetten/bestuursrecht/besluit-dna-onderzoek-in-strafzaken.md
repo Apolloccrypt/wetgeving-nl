@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0012791"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 27 augustus 2001, houdende nadere regels over het DNA-onderzoek in strafzaken (Besluit DNA-onderzoek in strafzaken)

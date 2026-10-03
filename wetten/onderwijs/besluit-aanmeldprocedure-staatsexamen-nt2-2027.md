@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0051172"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Regeling van het College voor toetsen en examens van 23 juni 2025, nr. CvTE-25.00954, houdende vaststelling van de aanmeldprocedure voor het Staatsexamen Nt2 2027 (Besluit Aanmeldprocedure Staatsexamen Nt2 2027)

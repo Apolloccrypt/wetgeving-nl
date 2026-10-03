@@ -9,7 +9,7 @@ laatste_update: 2001-11-09
 status: geldig
 toestand: 2001-11-09
 bron: "https://wetten.overheid.nl/BWBR0012901"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 18 oktober 2001, houdende wijziging van de Wet milieubeheer, de Wet milieugevaarlijke stoffen en de Wet bodembescherming (verbetering handhavingsbevoegdheden)

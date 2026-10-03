@@ -8,7 +8,7 @@ laatste_update: 2002-05-31
 status: geldig
 toestand: 2002-05-31
 bron: "https://wetten.overheid.nl/BWBR0013689"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling vaargebieden vissersvaartuigen

@@ -9,7 +9,7 @@ laatste_update: 2002-04-01
 status: geldig
 toestand: 2002-04-01
 bron: "https://wetten.overheid.nl/BWBR0013373"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 24 januari 2002 tot wijziging van de Algemene wet bestuursrecht en enkele aanverwante wetten naar aanleiding van de evaluatie van de Algemene wet bestuursrecht (Eerste evaluatiewet Awb)

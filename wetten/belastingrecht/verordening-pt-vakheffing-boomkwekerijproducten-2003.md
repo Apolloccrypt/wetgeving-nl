@@ -9,7 +9,7 @@ laatste_update: 2003-01-25
 status: geldig
 toestand: 2003-01-25
 bron: "https://wetten.overheid.nl/BWBR0013839"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 3 juli 2002, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerij-producten op te leggen heffing voor het jaar 2003 (Verordening PT vakheffing boomkwekerij-producten 2003)

@@ -9,7 +9,7 @@ laatste_update: 2005-12-07
 status: geldig
 toestand: 2005-12-07
 bron: "https://wetten.overheid.nl/BWBR0013815"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 27 juni 2002 tot wijziging van de Wet luchtvaart inzake de inrichting en het gebruik van de luchthaven Schiphol

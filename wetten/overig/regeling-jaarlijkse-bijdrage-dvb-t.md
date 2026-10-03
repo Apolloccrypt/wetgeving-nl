@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0012704"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat, houdende bepalingen met betrekking tot het jaarlijks verschuldigd zijn van een bedrag door de houder van de vergunning voor het gebruik van frequentieruimte voor DVB-T

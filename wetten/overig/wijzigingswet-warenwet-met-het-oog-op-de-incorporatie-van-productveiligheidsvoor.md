@@ -9,7 +9,7 @@ laatste_update: 2004-05-01
 status: geldig
 toestand: 2004-05-01
 bron: "https://wetten.overheid.nl/BWBR0012951"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 1 november 2001 tot wijziging van de Warenwet met het oog op de incorporatie van productveiligheidsvoorschriften uit de Wet op de gevaarlijke werktuigen, zulks onder intrekking van deze wet en de Stoomwet

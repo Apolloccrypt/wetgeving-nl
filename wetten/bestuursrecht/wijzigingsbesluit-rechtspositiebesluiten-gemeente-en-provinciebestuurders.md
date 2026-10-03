@@ -9,7 +9,7 @@ laatste_update: 2001-08-17
 status: geldig
 toestand: 2001-08-17
 bron: "https://wetten.overheid.nl/BWBR0012695"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 16 juli 2001 tot wijziging van rechtspositiebesluiten ten aanzien van de gemeente- en provinciebestuurders

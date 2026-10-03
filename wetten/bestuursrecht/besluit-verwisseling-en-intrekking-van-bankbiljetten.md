@@ -9,7 +9,7 @@ laatste_update: 2002-01-28
 status: geldig
 toestand: 2002-01-28
 bron: "https://wetten.overheid.nl/BWBR0013104"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 6 december 2001, houdende vaststelling van regels met betrekking tot verwisseling en intrekking van bankbiljetten door De Nederlandsche Bank N.V. en de aan het publiek te verstrekken informatie hieromtrent (Besluit verwisseling en intrekking van bankbiljetten)

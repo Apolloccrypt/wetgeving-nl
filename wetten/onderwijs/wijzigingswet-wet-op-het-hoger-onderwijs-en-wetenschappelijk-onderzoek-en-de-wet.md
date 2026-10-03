@@ -9,7 +9,7 @@ laatste_update: 2005-03-01
 status: geldig
 toestand: 2005-03-01
 bron: "https://wetten.overheid.nl/BWBR0013748"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 6 juni 2002 tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 in verband met de invoering van de bachelor-masterstructuur in het hoger onderwijs

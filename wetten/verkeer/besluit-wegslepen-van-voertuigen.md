@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0012649"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 5 juli 2001, houdende nadere regels ter uitvoering van de in de Wegenverkeerswet 1994 vervatte wegsleepregeling (Besluit wegslepen van voertuigen)

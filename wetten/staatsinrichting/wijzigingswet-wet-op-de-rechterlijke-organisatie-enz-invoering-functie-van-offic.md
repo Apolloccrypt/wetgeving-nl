@@ -9,7 +9,7 @@ laatste_update: 2001-10-31
 status: geldig
 toestand: 2001-10-31
 bron: "https://wetten.overheid.nl/BWBR0012899"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 18 oktober 2001 tot wijziging van de Wet op de rechterlijke organisatie en de Wet rechtspositie rechterlijke ambtenaren in verband met de invoering van de functie van officier enkelvoudige zittingen

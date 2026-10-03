@@ -8,7 +8,7 @@ laatste_update: 2001-07-01
 status: geldig
 toestand: 2001-07-01
 bron: "https://wetten.overheid.nl/BWBR0013908"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Douane-entrepot type E met procedures van douane-entrepot type D

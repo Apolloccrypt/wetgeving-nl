@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0012950"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 1 november 2001, houdende uitvoering van de Verordening (EG), nr. 718/1999, van de Raad van de Europese Unie van 29 maart 1999 betreffende het beleid ten aanzien van de capaciteit van de communautaire binnenvaartvloot met het oog op de bevordering van het vervoer over de binnenwateren (PbEG L 90) (Wet capaciteitsbeheersing binnenvaartvloot)

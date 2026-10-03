@@ -8,7 +8,7 @@ laatste_update: 2002-03-03
 status: geldig
 toestand: 2002-03-03
 bron: "https://wetten.overheid.nl/BWBR0013461"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Mandaatbesluit 2002 Wet op het consumentenkrediet

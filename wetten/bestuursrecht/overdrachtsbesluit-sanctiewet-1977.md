@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0013887"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit 13 juli 2002 tot uitvoering van artikel 10f van de Sanctiewet 1977 (Overdrachtsbesluit Sanctiewet 1977)

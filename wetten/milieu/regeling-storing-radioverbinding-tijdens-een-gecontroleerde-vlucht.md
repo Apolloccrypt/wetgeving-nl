@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-22
 toestand: 2014-12-12
 bron: "https://wetten.overheid.nl/BWBR0006174"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Regeling storing radioverbinding tijdens een gecontroleerde vlucht

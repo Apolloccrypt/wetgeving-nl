@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0013101"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 6 december 2001 tot aanpassing van diverse wetten aan de modernisering van de rechterlijke organisatie en de instelling van een bestuur bij de gerechten (Aanpassingswet modernisering rechterlijke organisatie)

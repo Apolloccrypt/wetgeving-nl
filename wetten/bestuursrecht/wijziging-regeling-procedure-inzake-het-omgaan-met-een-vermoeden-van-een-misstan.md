@@ -8,7 +8,7 @@ laatste_update: 2001-12-31
 status: geldig
 toestand: 2001-12-31
 bron: "https://wetten.overheid.nl/BWBR0013163"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wijziging Regeling procedure inzake het omgaan met een vermoeden van een misstand

@@ -8,7 +8,7 @@ laatste_update: 2002-04-01
 status: geldig
 toestand: 2002-04-01
 bron: "https://wetten.overheid.nl/BWBR0013380"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Vergoeding werkzaamheden Adviescollege Programma Samenwerking Oost-Europa

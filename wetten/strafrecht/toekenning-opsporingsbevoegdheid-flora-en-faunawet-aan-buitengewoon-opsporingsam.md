@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0013734"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Minister van Justitie houdende toekenning van opsporingsbevoegdheid voor de Flora- en Faunawet aan buitengewoon opsporingsambtenaren

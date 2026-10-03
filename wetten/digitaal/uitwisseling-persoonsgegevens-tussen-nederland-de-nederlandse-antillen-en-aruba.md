@@ -8,7 +8,7 @@ laatste_update: 2001-09-01
 status: geldig
 toestand: 2001-09-01
 bron: "https://wetten.overheid.nl/BWBR0012779"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Uitwisseling persoonsgegevens tussen Nederland, de Nederlandse Antillen en Aruba

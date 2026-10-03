@@ -9,7 +9,7 @@ laatste_update: 2002-02-06
 status: geldig
 toestand: 2002-02-06
 bron: "https://wetten.overheid.nl/BWBR0013335"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Inwerkingtreding EG-Verordening betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken

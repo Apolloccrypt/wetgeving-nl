@@ -8,7 +8,7 @@ laatste_update: 2001-07-11
 status: geldig
 toestand: 2001-07-11
 bron: "https://wetten.overheid.nl/BWBR0012618"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Beperkende bepalingen t.a.v. openbaarheid archiefbescheiden

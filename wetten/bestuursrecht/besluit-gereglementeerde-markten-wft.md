@@ -9,7 +9,7 @@ laatste_update: 2026-09-26
 status: geldig
 toestand: 2026-09-26
 bron: "https://wetten.overheid.nl/BWBR0022748"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet op het financieel toezicht met betrekking tot de toegang tot de Nederlandse financiële markten voor marktexploitanten en voor het exploiteren of beheren van een gereglementeerde markt en wijziging van enkele andere besluiten ter implementatie van de richtlijn markten voor financiële instrumenten (Besluit gereglementeerde markten Wft)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0013128"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 10 december 2001, houdende regels omtrent de samenstelling en inrichting van het College van afgevaardigden en de afvaardiging van de leden (Besluit College van afgevaardigden)

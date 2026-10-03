@@ -9,7 +9,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0013746"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 6 juni 2002, houdende wijziging van het Loodsplichtbesluit 1995 en het Besluit verklaringhouders Scheepvaartverkeerswet (flexibilisering loodsplichtstelsel)

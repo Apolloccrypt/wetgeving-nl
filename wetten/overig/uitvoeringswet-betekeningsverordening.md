@@ -9,7 +9,7 @@ laatste_update: 2023-05-01
 status: geldig
 toestand: 2023-05-01
 bron: "https://wetten.overheid.nl/BWBR0013176"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 13 december 2001 tot uitvoering van de verordening (EG) Nr. 1348/2000 van de Raad van de Europese Unie van 29 mei 2000 inzake de betekening en de kennisgeving in de lidstaten van gerechtelijke en buitengerechtelijke stukken in burgerlijke of in handelszaken (PbEG L 160/37) (Uitvoeringswet EG-betekeningsverordening)

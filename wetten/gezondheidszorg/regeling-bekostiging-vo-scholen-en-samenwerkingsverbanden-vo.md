@@ -9,7 +9,7 @@ laatste_update: 2026-09-23
 status: geldig
 toestand: 2026-09-23
 bron: "https://wetten.overheid.nl/BWBR0045605"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29097500, houdende regels voor de bekostiging van vo-scholen en samenwerkingsverbanden VO in Europees en scholen in Caribisch Nederland (Regeling bekostiging vo-scholen en samenwerkingsverbanden vo)

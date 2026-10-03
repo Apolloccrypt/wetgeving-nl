@@ -9,7 +9,7 @@ laatste_update: 2004-07-23
 status: geldig
 toestand: 2004-07-23
 bron: "https://wetten.overheid.nl/BWBR0013235"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 19 december 2001, houdende wijziging van onder meer het Besluit trekkende bevolking WPO onder meer in verband met fusie van de scholen voor ligplaatsonderwijs

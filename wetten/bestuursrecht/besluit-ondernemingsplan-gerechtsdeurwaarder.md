@@ -9,7 +9,7 @@ laatste_update: 2001-07-15
 status: geldig
 toestand: 2001-07-15
 bron: "https://wetten.overheid.nl/BWBR0012636"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 4 juli 2001, houdende nadere regels inzake het ondernemingsplan in verband met de vestiging van een gerechtsdeurwaarder en de advisering daarover door de Commissie van deskundigen (Besluit ondernemingsplan gerechtsdeurwaarder)

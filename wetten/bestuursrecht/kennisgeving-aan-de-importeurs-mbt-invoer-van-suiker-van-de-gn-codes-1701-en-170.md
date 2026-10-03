@@ -8,7 +8,7 @@ laatste_update: 2002-07-01
 status: geldig
 toestand: 2002-07-01
 bron: "https://wetten.overheid.nl/BWBR0013821"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Kennisgeving aan de importeurs mbt invoer van suiker van de GN-codes 1701 en 1702 vanuit Albanië, Bosnië-Herzegovina, Kroatië, de Federatieve Republiek Joegoslavië, Kosovo, en de Voormalige Joegoslavische Republiek Macedonië (de Westelijke Balkan)

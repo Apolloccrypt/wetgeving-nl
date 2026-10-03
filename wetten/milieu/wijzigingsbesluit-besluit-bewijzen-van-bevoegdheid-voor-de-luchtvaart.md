@@ -9,7 +9,7 @@ laatste_update: 2001-11-01
 status: geldig
 toestand: 2001-11-01
 bron: "https://wetten.overheid.nl/BWBR0012942"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 31 oktober 2001, houdende wijziging van het Besluit bewijzen van bevoegdheid voor de luchtvaart

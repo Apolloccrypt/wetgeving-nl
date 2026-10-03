@@ -8,7 +8,7 @@ laatste_update: 2002-05-28
 status: geldig
 toestand: 2002-05-28
 bron: "https://wetten.overheid.nl/BWBR0013708"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # MG-Circulaire en Regeling Besluit beheer sociale-huursector

@@ -8,7 +8,7 @@ laatste_update: 2002-10-02
 status: geldig
 toestand: 2002-10-02
 bron: "https://wetten.overheid.nl/BWBR0013893"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Programma van eisen gegevenslevering aan IB-Groep in verband met onderwijsnummer voortgezet onderwijs (vo)

@@ -9,7 +9,7 @@ laatste_update: 2005-08-01
 status: geldig
 toestand: 2005-08-01
 bron: "https://wetten.overheid.nl/BWBR0012644"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 5 juli 2001 tot wijziging van het Besluit drukapparatuur houdende regels inzake de samenbouw van druksystemen en de ingebruikneming van drukapparatuur, samenstellen en druksystemen en tot wijziging van enige andere besluiten

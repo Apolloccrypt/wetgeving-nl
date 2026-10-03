@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013245"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk 2002 (Aruba)

@@ -9,7 +9,7 @@ laatste_update: 2002-08-01
 status: geldig
 toestand: 2002-08-01
 bron: "https://wetten.overheid.nl/BWBR0013691"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 16 mei 2002, houdende gemeentelijke herindeling in Zeeuws-Vlaanderen

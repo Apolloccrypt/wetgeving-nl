@@ -9,7 +9,7 @@ laatste_update: 2002-05-17
 status: geldig
 toestand: 2002-05-17
 bron: "https://wetten.overheid.nl/BWBR0013682"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling tot wijziging van de Subsidieregeling Ministerie van Buitenlandse Zaken met betrekking tot subsidiëring van thematische organisaties voor ontwikkelingssamenwerking (Thematische medefinanciering)

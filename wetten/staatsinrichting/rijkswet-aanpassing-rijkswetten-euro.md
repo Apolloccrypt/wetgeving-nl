@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0012860"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Rijkswet van 27 september 2001, houdende aanpassing van rijkswetten in verband met de vervanging van de gulden door de euro (Rijkswet aanpassing rijkswetten euro)

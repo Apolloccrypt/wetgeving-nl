@@ -9,7 +9,7 @@ laatste_update: 2005-03-01
 status: geldig
 toestand: 2005-03-01
 bron: "https://wetten.overheid.nl/BWBR0012898"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 18 oktober 2001 tot wijziging van enkele belastingwetten (herstel van enige onjuistheden)

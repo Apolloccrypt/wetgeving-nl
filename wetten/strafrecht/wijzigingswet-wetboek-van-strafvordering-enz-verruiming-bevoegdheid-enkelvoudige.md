@@ -9,7 +9,7 @@ laatste_update: 2002-07-12
 status: geldig
 toestand: 2002-07-12
 bron: "https://wetten.overheid.nl/BWBR0013853"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 4 juli 2002 tot wijziging van het Wetboek van Strafvordering, het Wetboek van Strafrecht en de Wet overdracht tenuitvoerlegging strafvonnissen strekkende tot het verruimen van de bevoegdheid van de politierechter en de enkelvoudige kamer in hoger beroep (verruiming bevoegdheid enkelvoudige kamers)

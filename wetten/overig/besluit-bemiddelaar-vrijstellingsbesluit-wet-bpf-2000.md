@@ -8,7 +8,7 @@ laatste_update: 2002-02-24
 status: geldig
 toestand: 2002-02-24
 bron: "https://wetten.overheid.nl/BWBR0013422"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000

@@ -8,7 +8,7 @@ laatste_update: 2002-03-27
 status: geldig
 toestand: 2002-03-27
 bron: "https://wetten.overheid.nl/BWBR0013519"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Specifieke aanpak wegwerken wachtlijsten toelating speciaal basisonderwijs

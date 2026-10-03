@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013035"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling tot vaststelling van de normbedragen voor voorschotverlening in 2002 op grond van het Besluit vergoedingen rechtsbijstand 2000

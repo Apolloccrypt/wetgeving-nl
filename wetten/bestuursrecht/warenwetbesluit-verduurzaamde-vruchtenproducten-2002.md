@@ -9,7 +9,7 @@ laatste_update: 2026-06-14
 status: geldig
 toestand: 2026-06-14
 bron: "https://wetten.overheid.nl/BWBR0013972"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 20 augustus 2002, houdende het Warenwetbesluit Verduurzaamde vruchtenproducten 2002

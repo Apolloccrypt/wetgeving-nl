@@ -9,7 +9,7 @@ laatste_update: 2026-04-08
 status: geldig
 toestand: 2026-04-08
 bron: "https://wetten.overheid.nl/BWBR0013736"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling inzake specifieke beperkende maatregelen tegen bepaalde personen en entiteiten met het oog op de strijd tegen het terrorisme

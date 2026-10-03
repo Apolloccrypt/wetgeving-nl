@@ -9,7 +9,7 @@ laatste_update: 2022-05-26
 status: geldig
 toestand: 2022-05-26
 bron: "https://wetten.overheid.nl/BWBR0013604"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 15 april 2002, houdende regels ter uitvoering van artikel 8, eerste lid, aanhef en onder d, van de Rijkswet op het Nederlanderschap (Besluit naturalisatietoets)

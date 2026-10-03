@@ -8,7 +8,7 @@ laatste_update: 2001-12-20
 status: geldig
 toestand: 2001-12-20
 bron: "https://wetten.overheid.nl/BWBR0013143"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit tijdelijke mogelijkheid tot toekenning van een IMSI-nummer voor GSM-R

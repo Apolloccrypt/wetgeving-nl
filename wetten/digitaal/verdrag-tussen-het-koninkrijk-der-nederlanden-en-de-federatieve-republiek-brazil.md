@@ -8,7 +8,7 @@ laatste_update: 2025-12-01
 status: geldig
 toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBV0007009"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en de Federatieve Republiek Brazilië inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens (met Bijlage)

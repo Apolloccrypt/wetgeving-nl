@@ -8,7 +8,7 @@ laatste_update: 2002-04-17
 status: geldig
 toestand: 2002-04-17
 bron: "https://wetten.overheid.nl/BWBR0013552"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Aangepast vervoer gehandicapte leerlingen basisonderwijs (ba), speciaal basisonderwijs (so) en voortgezet onderwijs (vo)

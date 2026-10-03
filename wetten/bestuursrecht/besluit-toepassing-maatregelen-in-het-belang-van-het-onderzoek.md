@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0013362"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 22 januari 2002, houdende vaststelling van regels omtrent de toepassing van enige maatregelen in het belang van het onderzoek (Besluit toepassing maatregelen in het belang van het onderzoek)

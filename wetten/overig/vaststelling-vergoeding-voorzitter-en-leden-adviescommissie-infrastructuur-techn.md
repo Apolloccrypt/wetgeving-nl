@@ -8,7 +8,7 @@ laatste_update: 2002-11-01
 status: geldig
 toestand: 2002-11-01
 bron: "https://wetten.overheid.nl/BWBR0013997"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Vaststelling vergoeding voorzitter en leden Adviescommissie infrastructuur technostarters

@@ -9,7 +9,7 @@ laatste_update: 2001-07-13
 status: geldig
 toestand: 2001-07-13
 bron: "https://wetten.overheid.nl/BWBR0012643"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 5 juli 2001 tot wijziging van het Inrichtingen- en vergunningenbesluit milieubeheer en enige andere besluiten ter uitvoering van richtlijn 1999/31/EG van de Raad van de Europese Unie van 26 april 1999 betreffende het storten van afvalstoffen (PbEG L 182)

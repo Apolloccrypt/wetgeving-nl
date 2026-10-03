@@ -9,7 +9,7 @@ laatste_update: 2002-04-01
 status: geldig
 toestand: 2002-04-01
 bron: "https://wetten.overheid.nl/BWBR0013189"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002 IV – Herziening successie- en schenkingsrecht, BTW-maatregelen, artiesten- en sportersregeling, alsmede overige aanpassingen)

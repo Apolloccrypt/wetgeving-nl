@@ -8,7 +8,7 @@ laatste_update: 2002-07-08
 status: geldig
 toestand: 2002-07-08
 bron: "https://wetten.overheid.nl/BWBR0013868"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Aanvullend (vrijwillig) pensioen voor leden van het Europees Parlement

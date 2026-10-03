@@ -9,7 +9,7 @@ laatste_update: 2002-08-09
 status: geldig
 toestand: 2002-08-09
 bron: "https://wetten.overheid.nl/BWBR0013910"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 22 juli 2002, houdende de herindeling van de ministeriële taak met betrekking tot de zorg voor voorzieningen van gehandicapten

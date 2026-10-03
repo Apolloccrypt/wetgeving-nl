@@ -9,7 +9,7 @@ laatste_update: 2006-07-01
 status: geldig
 toestand: 2006-07-01
 bron: "https://wetten.overheid.nl/BWBR0013374"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 24 januari 2002 tot wijziging van de Algemene wet bestuursrecht, de Provinciewet en de Gemeentewet in verband met de samenvoeging van de afdelingen 3.4 en 3.5 van de Algemene wet bestuursrecht tot één uniforme openbare voorbereidingsprocedure (Wet uniforme openbare voorbereidingsprocedure Awb)

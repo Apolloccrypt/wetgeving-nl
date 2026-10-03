@@ -8,7 +8,7 @@ laatste_update: 2004-12-12
 status: geldig
 toestand: 2004-12-12
 bron: "https://wetten.overheid.nl/BWBR0013504"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Vaststellingsregeling subsidieplafonds 2002 Subsidieregeling arbeidsomstandigheden

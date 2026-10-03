@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0013008"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 16 november 2001 tot vaststelling van regels voor het tot stand brengen van een nieuw evenwicht tussen arbeid en zorg in de ruimste zin (Wet arbeid en zorg)

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0013130"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 10 december 2001, houdende nadere regels met betrekking tot de uitoefening van rechtspositionele bevoegdheden ten aanzien van gerechtsambtenaren en ambtenaren van het bureau van de Raad voor de rechtspraak door het gerechtsbestuur en de Raad voor de rechtspraak (Besluit uitoefening rechtspositionele bevoegdheden gerechtsambtenaren en ambtenaren bureau Raad voor de rechtspraak)

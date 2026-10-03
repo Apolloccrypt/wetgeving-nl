@@ -8,7 +8,7 @@ laatste_update: 2001-10-04
 status: geldig
 toestand: 2001-10-04
 bron: "https://wetten.overheid.nl/BWBR0013376"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Openbaarheid archiefbescheiden Bureau Nationale Veiligheid

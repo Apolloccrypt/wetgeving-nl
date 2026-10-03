@@ -8,7 +8,7 @@ laatste_update: 2026-05-09
 status: geldig
 toestand: 2026-05-09
 bron: "https://wetten.overheid.nl/BWBR0012766"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling geluidemissie buitenmaterieel

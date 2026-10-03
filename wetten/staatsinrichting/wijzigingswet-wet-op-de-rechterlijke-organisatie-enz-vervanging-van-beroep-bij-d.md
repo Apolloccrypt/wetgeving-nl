@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0012822"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 14 september 2001 tot wijziging van de Wet op de rechterlijke organisatie, de Algemene wet inzake rijksbelastingen, de Douanewet en enige andere wetten, alsmede intrekking van de Tariefcommissiewet (vervanging van beroep bij de Tariefcommissie door beroep bij de douanekamer van het gerechtshof te Amsterdam en de instelling van beroep in cassatie in douanezaken)

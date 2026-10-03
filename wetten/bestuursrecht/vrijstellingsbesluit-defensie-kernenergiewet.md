@@ -9,7 +9,7 @@ laatste_update: 2018-02-06
 status: geldig
 toestand: 2018-02-06
 bron: "https://wetten.overheid.nl/BWBR0013888"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 13 juli 2002, houdende vrijstelling van de verboden, bedoeld in de artikelen 15 en 29 van de Kernenergiewet, alsmede afwijking van het Besluit stralingsbescherming (Vrijstellingsbesluit defensie Kernenergiewet)

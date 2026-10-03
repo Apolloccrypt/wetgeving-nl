@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052831"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Beleidsregel van de Dienst Wegverkeer Dienst Wegverkeer (RDW) van 1 oktober 2026 inzake bestuurlijke boete voertuig op de weg zonder handelaarskenteken

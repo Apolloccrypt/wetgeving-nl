@@ -9,7 +9,7 @@ laatste_update: 2008-11-01
 status: geldig
 toestand: 2008-11-01
 bron: "https://wetten.overheid.nl/BWBR0013063"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 29 november 2001 tot verbetering van de procesgang in het eerste ziektejaar en nieuwe regels voor de ziekmelding, de reïntegratie en de wachttijd van werknemers alsmede met betrekking tot de loondoorbetalingsverplichting van de werkgever (Wet verbetering poortwachter)

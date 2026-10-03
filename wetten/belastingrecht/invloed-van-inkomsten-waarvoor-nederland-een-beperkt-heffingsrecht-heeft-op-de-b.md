@@ -8,7 +8,7 @@ laatste_update: 2002-01-16
 status: geldig
 toestand: 2002-01-16
 bron: "https://wetten.overheid.nl/BWBR0013348"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Invloed van inkomsten waarvoor Nederland een beperkt heffingsrecht heeft op de berekening van inkomstenbelasting over andere inkomsten

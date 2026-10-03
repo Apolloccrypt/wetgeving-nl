@@ -8,7 +8,7 @@ laatste_update: 2001-09-19
 status: geldig
 toestand: 2001-09-19
 bron: "https://wetten.overheid.nl/BWBR0012797"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Gewijzigde opzet van de carrièrepatronen voor het onderwijs ondersteunend personeel (OOP) en de aanpassingen in het RPBO in verband met de uniformering van de systematiek van de carrièrepatronen per 1 maart 2001

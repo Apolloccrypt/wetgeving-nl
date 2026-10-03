@@ -8,7 +8,7 @@ laatste_update: 2002-08-26
 status: geldig
 toestand: 2002-08-26
 bron: "https://wetten.overheid.nl/BWBR0013322"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # KunstKoopregeling

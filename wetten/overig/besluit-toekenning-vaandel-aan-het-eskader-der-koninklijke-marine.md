@@ -9,7 +9,7 @@ laatste_update: 2002-04-19
 status: geldig
 toestand: 2002-04-19
 bron: "https://wetten.overheid.nl/BWBR0013441"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 25 februari 2002, houdende de toekenning van een vaandel aan het eskader der Koninklijke marine

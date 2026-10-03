@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013028"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Aanpassing Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs en educatie en beroepsonderwijs (BZA)

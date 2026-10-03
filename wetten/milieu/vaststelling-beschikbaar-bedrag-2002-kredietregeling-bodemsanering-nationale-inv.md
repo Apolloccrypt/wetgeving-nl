@@ -8,7 +8,7 @@ laatste_update: 2002-03-01
 status: geldig
 toestand: 2002-03-01
 bron: "https://wetten.overheid.nl/BWBR0013300"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Vaststelling beschikbaar bedrag 2002 Kredietregeling bodemsanering Nationale Investeringsbank

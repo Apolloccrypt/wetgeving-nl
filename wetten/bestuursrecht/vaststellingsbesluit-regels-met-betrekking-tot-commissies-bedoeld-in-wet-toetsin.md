@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0013490"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 6 maart 2002, houdende vaststelling van regels met betrekking tot de commissies, bedoeld in artikel 19 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding

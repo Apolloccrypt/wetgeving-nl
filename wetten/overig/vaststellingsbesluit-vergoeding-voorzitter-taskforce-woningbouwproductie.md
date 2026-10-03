@@ -9,7 +9,7 @@ laatste_update: 2002-04-05
 status: geldig
 toestand: 2002-04-05
 bron: "https://wetten.overheid.nl/BWBR0013455"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 26 februari 2002, houdende vaststelling van de vergoeding van de voorzitter van de Taskforce Woningbouwproductie

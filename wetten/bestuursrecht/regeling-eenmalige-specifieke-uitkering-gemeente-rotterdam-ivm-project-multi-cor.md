@@ -8,7 +8,7 @@ laatste_update: 2001-12-08
 status: geldig
 toestand: 2001-12-08
 bron: "https://wetten.overheid.nl/BWBR0013074"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling eenmalige specifieke uitkering gemeente Rotterdam i.v.m. Project Multi-core Pijpleidingnetwerk

@@ -8,7 +8,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013476"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Aanpassing bedragen in Besluit woninggebonden subsidies 1995 (BWS 1995), Besluit locatiegebonden subsidies (BLS) en Besluit beheer sociale-huursector (BBSH)

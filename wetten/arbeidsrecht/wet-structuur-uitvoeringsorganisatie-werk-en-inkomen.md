@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0013060"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 29 november 2001, houdende regels tot vaststelling van een structuur voor de uitvoering van taken met betrekking tot de arbeidsvoorziening en socialeverzekeringswetten (Wet structuur uitvoeringsorganisatie werk en inkomen)

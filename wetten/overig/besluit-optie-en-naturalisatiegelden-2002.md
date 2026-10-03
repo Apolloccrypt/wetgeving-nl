@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0013782"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 17 juni 2002 tot uitvoering van artikel 13 van de Rijkswet op het Nederlanderschap, zoals gewijzigd bij Rijkswet van 21 december 2000 (Stb. 2000, 618) (Besluit optie- en naturalisatiegelden 2002)

@@ -8,7 +8,7 @@ laatste_update: 2001-12-14
 status: geldig
 toestand: 2001-12-14
 bron: "https://wetten.overheid.nl/BWBR0013135"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling compensatie schade luchtvaartmaatschappijen 11 tot en met 14 september 2001

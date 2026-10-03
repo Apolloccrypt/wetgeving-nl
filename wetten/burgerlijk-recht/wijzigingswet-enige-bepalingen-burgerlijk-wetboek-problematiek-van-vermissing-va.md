@@ -9,7 +9,7 @@ laatste_update: 2002-08-01
 status: geldig
 toestand: 2002-08-01
 bron: "https://wetten.overheid.nl/BWBR0013533"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 21 maart 2002 tot wijziging van enige bepalingen van het Burgerlijk Wetboek in verband met de problematiek van vermissing van personen

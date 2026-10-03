@@ -8,7 +8,7 @@ laatste_update: 2002-06-27
 status: geldig
 toestand: 2002-06-27
 bron: "https://wetten.overheid.nl/BWBR0013792"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Boekwerk heffingen bij invoer, Deel II

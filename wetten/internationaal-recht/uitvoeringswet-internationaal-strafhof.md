@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0013796"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Rijkswet van 20 juni 2002 tot uitvoering van het Statuut van het Internationaal Strafhof met betrekking tot de samenwerking met en bijstand aan het Internationaal Strafhof en de tenuitvoerlegging van zijn vonnissen (Uitvoeringswet Internationaal Strafhof)

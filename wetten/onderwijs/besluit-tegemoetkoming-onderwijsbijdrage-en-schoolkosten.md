@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0012645"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 5 juli 2001, houdende regels over de tegemoetkoming in onderwijsbijdrage en schoolkosten (Besluit tegemoetkoming onderwijsbijdrage en schoolkosten)

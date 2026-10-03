@@ -8,7 +8,7 @@ laatste_update: 2026-09-25
 status: geldig
 toestand: 2026-09-25
 bron: "https://wetten.overheid.nl/BWBR0053132"
-opgehaald: 2026-10-02
+opgehaald: 2026-10-03
 ---
 
 # Beleid CvTA invulling kan-bepaling bestuurderstoets ex artikel 5 Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten

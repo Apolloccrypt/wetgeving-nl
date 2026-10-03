@@ -8,7 +8,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0013459"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Toepassing Overeenkomst tussen het Koninkrijk der Nederlanden en de Italiaanse Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belasting naar het inkomen en vermogen

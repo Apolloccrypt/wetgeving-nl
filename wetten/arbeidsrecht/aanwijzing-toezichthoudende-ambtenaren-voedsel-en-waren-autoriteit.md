@@ -8,7 +8,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0013864"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Aanwijzing toezichthoudende ambtenaren Voedsel en Waren Autoriteit

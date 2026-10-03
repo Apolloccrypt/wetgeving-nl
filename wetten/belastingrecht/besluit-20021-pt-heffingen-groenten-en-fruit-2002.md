@@ -9,7 +9,7 @@ laatste_update: 2002-05-25
 status: geldig
 toestand: 2002-05-25
 bron: "https://wetten.overheid.nl/BWBR0013665"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van het Productschap Tuinbouw, d.d. 7 mei 2002, houdende de vaststelling van de percentages en bedragen van de heffingen groenten en fruit voor het jaar 2002 (Besluit 2002/1 PT heffingen groenten en fruit 2002)

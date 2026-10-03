@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013098"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 6 december 2001 tot aanpassing van de wetgeving aan de herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg

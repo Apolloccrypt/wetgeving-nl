@@ -9,7 +9,7 @@ laatste_update: 2002-01-01
 status: geldig
 toestand: 2002-01-01
 bron: "https://wetten.overheid.nl/BWBR0013162"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, houdende de wijziging, in verband met de invoering van de euro, van de methodiek ter bepaling van de gebruiksvergoeding, bedoeld in artikel 10, eerste lid, van het Besluit Rijksgebouwendienst 1999 (Regeling methodiek gebruiksvergoeding Rijksgebouwendienst)

@@ -8,7 +8,7 @@ laatste_update: 2011-07-17
 status: geldig
 toestand: 2011-07-17
 bron: "https://wetten.overheid.nl/BWBR0012737"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling tegemoetkoming bijzondere kosten onderwijs en pedagogische activiteiten jeugdigen

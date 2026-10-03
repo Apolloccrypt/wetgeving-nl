@@ -9,7 +9,7 @@ laatste_update: 2018-06-27
 status: geldig
 toestand: 2018-06-27
 bron: "https://wetten.overheid.nl/BWBR0013829"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling van de Minister van Justitie, houdende vaststelling van het model van de aankondiging van de beschikking en eisen van het model van de beschikking inzake administratieve sancties als bedoeld in de Wet administratiefrechtelijke handhaving verkeersvoorschriften en van het formulier van de oproeping van de verdachte om ter terechtzitting te verschijnen en het formulier van de kennisgeving van de voorwaarde ter voorkoming van strafvervolging

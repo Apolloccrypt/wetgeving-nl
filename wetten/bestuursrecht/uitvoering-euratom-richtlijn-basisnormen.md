@@ -9,7 +9,7 @@ laatste_update: 2002-10-01
 status: geldig
 toestand: 2002-10-01
 bron: "https://wetten.overheid.nl/BWBR0013872"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 8 juli 2002 tot wijziging van het Besluit kerninstallaties, splijtstoffen en ertsen (uitvoering Euratom-richtlijn basisnormen)

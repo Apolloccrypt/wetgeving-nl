@@ -8,7 +8,7 @@ laatste_update: 2014-01-06
 status: geldig
 toestand: 2014-01-06
 bron: "https://wetten.overheid.nl/BWBR0013686"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Subsidieregeling breedband Kenniswijk

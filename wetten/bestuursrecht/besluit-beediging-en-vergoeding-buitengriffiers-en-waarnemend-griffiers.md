@@ -9,7 +9,7 @@ laatste_update: 2020-02-15
 status: geldig
 toestand: 2020-02-15
 bron: "https://wetten.overheid.nl/BWBR0013133"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 10 december 2001, houdende bepalingen inzake het afleggen van de eed of belofte door en de vergoeding van buitengriffiers en waarnemend griffiers (Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers)

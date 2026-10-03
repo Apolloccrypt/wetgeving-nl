@@ -9,7 +9,7 @@ laatste_update: 2025-07-16
 status: geldig
 toestand: 2025-07-16
 bron: "https://wetten.overheid.nl/BWBR0013798"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 20 juni 2002, houdende regels inzake de bevordering van integriteitsbeoordelingen door het openbaar bestuur met betrekking tot beschikkingen of overheidsopdrachten (Wet bevordering integriteitsbeoordelingen door het openbaar bestuur)

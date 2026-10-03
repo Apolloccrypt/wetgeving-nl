@@ -9,7 +9,7 @@ laatste_update: 2002-01-28
 status: geldig
 toestand: 2002-01-28
 bron: "https://wetten.overheid.nl/BWBR0013071"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Vaststelling van regels betreffende de buitenomloopstelling en inwisseling van de op grond van de Muntwet 1948 en de Muntwet 1987 uitgegeven munten met de hoedanigheid van wettig betaalmiddel

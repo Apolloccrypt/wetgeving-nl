@@ -9,7 +9,7 @@ laatste_update: 2002-06-26
 status: geldig
 toestand: 2002-06-26
 bron: "https://wetten.overheid.nl/BWBR0013739"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Leerlingentelling voor groeiformatie basisscholen

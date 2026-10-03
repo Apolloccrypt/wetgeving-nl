@@ -9,7 +9,7 @@ laatste_update: 2004-03-01
 status: geldig
 toestand: 2004-03-01
 bron: "https://wetten.overheid.nl/BWBR0013187"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastingplan 2002 II – Economische infrastructuur)

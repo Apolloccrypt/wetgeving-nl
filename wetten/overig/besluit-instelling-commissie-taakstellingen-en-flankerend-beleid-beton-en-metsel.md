@@ -8,7 +8,7 @@ laatste_update: 2002-03-01
 status: geldig
 toestand: 2002-03-01
 bron: "https://wetten.overheid.nl/BWBR0014008"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit instelling commissie Taakstellingen en Flankerend beleid beton- en metselzandvoorziening

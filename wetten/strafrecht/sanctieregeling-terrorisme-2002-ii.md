@@ -9,7 +9,7 @@ laatste_update: 2022-01-28
 status: geldig
 toestand: 2022-01-28
 bron: "https://wetten.overheid.nl/BWBR0013904"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Regeling houdende beperkende maatregelen tegen bepaalde personen en entiteiten met het oog op de strijd tegen het terrorisme

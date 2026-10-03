@@ -9,7 +9,7 @@ laatste_update: 2001-10-01
 status: geldig
 toestand: 2001-10-01
 bron: "https://wetten.overheid.nl/BWBR0012650"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 5 juli 2001, houdende de overdracht van de primaire verantwoordelijkheid voor de zorg voor het destructiebeleid

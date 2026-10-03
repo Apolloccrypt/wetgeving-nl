@@ -8,7 +8,7 @@ laatste_update: 2001-09-01
 status: geldig
 toestand: 2001-09-01
 bron: "https://wetten.overheid.nl/BWBR0012619"
-opgehaald: 2026-08-05
+opgehaald: 2026-10-03
 ---
 
 # Besluit aanpassing zaaksoort en bijbehorende bewindvoerdersubsidies Wsnp

@@ -8,7 +8,7 @@ laatste_update: 2002-06-01
 status: geldig
 toestand: 2002-06-01
 bron: "https://wetten.overheid.nl/BWBR0013695"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Belastingheffing van EU-fellows werkzaam bij Nederlandse universiteiten en woonachtig in/afkomstig uit een van de EU-landen/EER-landen of een aangewezen ander land

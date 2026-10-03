@@ -8,7 +8,7 @@ laatste_update: 2001-10-28
 status: geldig
 toestand: 2001-10-28
 bron: "https://wetten.overheid.nl/BWBR0012921"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Beleidsregels near shore windpark

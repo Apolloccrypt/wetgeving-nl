@@ -9,7 +9,7 @@ laatste_update: 2026-06-19
 status: geldig
 toestand: 2026-06-19
 bron: "https://wetten.overheid.nl/BWBR0013753"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Besluit van 7 juni 2002, houdende bepalingen met betrekking tot voorzieningen voor ministers en staatssecretarissen (Voorzieningenbesluit ministers en staatssecretarissen)

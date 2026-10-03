@@ -8,7 +8,7 @@ laatste_update: 2002-08-27
 status: geldig
 toestand: 2002-08-27
 bron: "https://wetten.overheid.nl/BWBR0013970"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-03
 ---
 
 # Circulaire Inwerkingtreding EG-Insolventieverordening
