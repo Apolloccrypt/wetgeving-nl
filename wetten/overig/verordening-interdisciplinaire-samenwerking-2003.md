@@ -8,7 +8,7 @@ laatste_update: 2003-10-01
 status: geldig
 toestand: 2003-10-01
 bron: "https://wetten.overheid.nl/BWBR0015246"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Verordening interdisciplinaire samenwerking 2003

@@ -9,7 +9,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0015610"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling houdende vaststelling eisen theorie-examen rijbewijscategorie A (Regeling eisen theorie-examen rijbewijscategorie A)

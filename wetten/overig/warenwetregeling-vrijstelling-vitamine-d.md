@@ -8,7 +8,7 @@ laatste_update: 2003-05-04
 status: geldig
 toestand: 2003-05-04
 bron: "https://wetten.overheid.nl/BWBR0015032"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Warenwetregeling Vrijstelling vitamine D

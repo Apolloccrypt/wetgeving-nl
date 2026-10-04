@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052712"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 11 juni 2026, nr. WJZ/106640569, tot aanwijzing windenergie op zee als een subsidiabele categorie in het kader van de stimulering van duurzame energieproductie en klimaattransitie en houdende regels voor de vergunningverlening van kavel Gamma-A in windenergiegebied IJmuiden Ver (Regeling subsidie- en vergunningverlening kavel Gamma-A in windenergiegebied IJmuiden Ver) [KetenID WGK 29160]

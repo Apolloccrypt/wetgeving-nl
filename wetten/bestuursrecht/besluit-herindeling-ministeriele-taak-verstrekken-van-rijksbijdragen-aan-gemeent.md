@@ -9,7 +9,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0014154"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 28 oktober 2002, houdende de herindeling van de ministeriële taak met betrekking tot het verstrekken van rijksbijdragen aan gemeenten ten behoeve van de inburgering van nieuwkomers en oudkomers

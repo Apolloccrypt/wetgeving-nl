@@ -8,7 +8,7 @@ laatste_update: 2017-09-27
 status: geldig
 toestand: 2017-09-27
 bron: "https://wetten.overheid.nl/BWBR0015338"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Selectielijst neerslag handelingen op het beleidsterrein adelsbeleid, adelsrecht en het decoratiestelsel (periode 1945-2000)

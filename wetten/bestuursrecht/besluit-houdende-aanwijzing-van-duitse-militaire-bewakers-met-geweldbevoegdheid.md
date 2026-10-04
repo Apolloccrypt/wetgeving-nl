@@ -8,7 +8,7 @@ laatste_update: 2003-09-01
 status: geldig
 toestand: 2003-09-01
 bron: "https://wetten.overheid.nl/BWBR0014947"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit houdende aanwijzing van Duitse militaire bewakers met geweldbevoegdheid

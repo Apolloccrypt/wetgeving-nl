@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0014483"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 17 december 2002, houdende vaststelling van het Besluit fiscale eenheid 2003

@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0051538"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 11 september 2025, nr. 54178956, houdende de vaststelling van de screenings- en testinstrumenten ten behoeve van de indicatiestelling voor leerwegondersteunend onderwijs (lwoo) en praktijkonderwijs (pro) en het gebruik daarvan voor het schooljaar 2026–2027 (Regeling screenings- en testinstrumenten lwoo en pro schooljaar 2026–2027)

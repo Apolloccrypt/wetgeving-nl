@@ -8,7 +8,7 @@ laatste_update: 2024-06-05
 status: geldig
 toestand: 2024-06-05
 bron: "https://wetten.overheid.nl/BWBR0014594"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Planningsbesluit klinisch genetisch onderzoek en erfelijkheidsadvisering

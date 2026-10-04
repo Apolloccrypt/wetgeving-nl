@@ -8,7 +8,7 @@ laatste_update: 2002-12-28
 status: geldig
 toestand: 2002-12-28
 bron: "https://wetten.overheid.nl/BWBR0014516"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Circulaire melding door de scheepvaart van de voorgenomen afgifte van scheepsafval en ladingsresiduen aan havenontvangstvoorzieningen

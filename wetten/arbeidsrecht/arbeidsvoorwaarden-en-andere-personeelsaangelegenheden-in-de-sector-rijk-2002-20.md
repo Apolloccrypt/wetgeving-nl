@@ -8,7 +8,7 @@ laatste_update: 2002-12-05
 status: geldig
 toestand: 2002-12-05
 bron: "https://wetten.overheid.nl/BWBR0014386"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 2002-2003

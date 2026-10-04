@@ -9,7 +9,7 @@ laatste_update: 2003-08-01
 status: geldig
 toestand: 2003-08-01
 bron: "https://wetten.overheid.nl/BWBR0015309"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 1 juli 2003 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999

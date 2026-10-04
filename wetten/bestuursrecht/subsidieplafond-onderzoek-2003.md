@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2005-12-31
 toestand: 2002-12-22
 bron: "https://wetten.overheid.nl/BWBR0014493"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Staatssecretaris voor Ontwikkelingssamenwerking van 18 december 2002, kenmerk DCO/OC-870/02 tot vaststelling van een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken

@@ -8,7 +8,7 @@ laatste_update: 2003-12-01
 status: geldig
 toestand: 2003-12-01
 bron: "https://wetten.overheid.nl/BWBR0015720"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Vaststelling vergoeding Technische commissie bodembeweging

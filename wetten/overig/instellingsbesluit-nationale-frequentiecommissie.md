@@ -9,7 +9,7 @@ laatste_update: 2003-08-24
 status: geldig
 toestand: 2003-08-24
 bron: "https://wetten.overheid.nl/BWBR0015477"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Minister van Economische Zaken van 15 augustus 2003, nr. WJZ/03/02932, houdende instelling van de Nationale Frequentiecommissie (Instellingsbesluit Nationale Frequentiecommissie)

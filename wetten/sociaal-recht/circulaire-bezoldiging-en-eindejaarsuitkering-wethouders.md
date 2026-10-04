@@ -8,7 +8,7 @@ laatste_update: 2002-12-11
 status: geldig
 toestand: 2002-12-11
 bron: "https://wetten.overheid.nl/BWBR0014365"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Circulaire bezoldiging en eindejaarsuitkering wethouders

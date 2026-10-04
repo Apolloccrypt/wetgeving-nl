@@ -9,7 +9,7 @@ laatste_update: 2003-06-05
 status: geldig
 toestand: 2003-06-05
 bron: "https://wetten.overheid.nl/BWBR0015146"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 2 juni 2003, nr. AZ/B&ADIV/2003/34358 houdende vervanging van archiefbescheiden

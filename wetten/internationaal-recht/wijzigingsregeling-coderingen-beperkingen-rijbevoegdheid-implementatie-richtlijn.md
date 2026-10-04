@@ -9,7 +9,7 @@ laatste_update: 2003-09-30
 status: geldig
 toestand: 2003-09-30
 bron: "https://wetten.overheid.nl/BWBR0015607"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wijziging Regeling coderingen beperkingen rijbevoegdheid ter implementatie van richtlijn nr. 2000/56/EG

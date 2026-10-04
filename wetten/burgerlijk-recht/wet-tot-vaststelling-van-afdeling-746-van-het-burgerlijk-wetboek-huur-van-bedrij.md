@@ -9,7 +9,7 @@ laatste_update: 2003-08-01
 status: geldig
 toestand: 2003-08-01
 bron: "https://wetten.overheid.nl/BWBR0014314"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 21 november 2002 tot vaststelling van afdeling 7.4.6 van het Burgerlijk Wetboek (huur van bedrijfsruimte)

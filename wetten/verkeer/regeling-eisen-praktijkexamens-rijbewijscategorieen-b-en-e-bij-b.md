@@ -9,7 +9,7 @@ laatste_update: 2013-12-31
 status: geldig
 toestand: 2013-12-31
 bron: "https://wetten.overheid.nl/BWBR0015600"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling houdende vaststelling eisen praktijkexamens rijbewijscategorieën B en E bij B (Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B)

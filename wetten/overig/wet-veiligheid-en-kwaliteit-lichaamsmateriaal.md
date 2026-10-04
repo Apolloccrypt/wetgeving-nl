@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0014682"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 6 februari 2003, houdende regels inzake de veiligheid en kwaliteit van lichaamsmateriaal dat kan worden gebruikt bij een geneeskundige behandeling (Wet veiligheid en kwaliteit lichaamsmateriaal)

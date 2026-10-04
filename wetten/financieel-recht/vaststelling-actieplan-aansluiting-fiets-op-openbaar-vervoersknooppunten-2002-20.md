@@ -8,7 +8,7 @@ laatste_update: 2002-12-07
 status: geldig
 toestand: 2002-12-07
 bron: "https://wetten.overheid.nl/BWBR0014381"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Vaststelling actieplan Aansluiting Fiets op Openbaar Vervoersknooppunten 2002-2003

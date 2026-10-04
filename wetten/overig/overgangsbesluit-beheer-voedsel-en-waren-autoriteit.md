@@ -9,7 +9,7 @@ laatste_update: 2003-06-20
 status: geldig
 toestand: 2003-06-20
 bron: "https://wetten.overheid.nl/BWBR0015155"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 2 juni 2003, houdende overgang van het beheer van de Voedsel en Waren Autoriteit (Overgangsbesluit beheer Voedsel en Waren Autoriteit)

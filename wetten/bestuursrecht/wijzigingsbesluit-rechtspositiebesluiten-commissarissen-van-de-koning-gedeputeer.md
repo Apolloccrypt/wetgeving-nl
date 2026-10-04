@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0015679"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 2 oktober 2003 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit burgemeesters 1994 en het Rechtspositiebesluit wethouders

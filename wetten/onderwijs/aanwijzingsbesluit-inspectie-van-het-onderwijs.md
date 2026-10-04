@@ -9,7 +9,7 @@ laatste_update: 2017-11-14
 status: geldig
 toestand: 2017-11-14
 bron: "https://wetten.overheid.nl/BWBR0014123"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de minister van onderwijs, cultuur en wetenschappen van 16 oktober 2002, nr. WJZ/2002/38010, houdende de aanwijzing van ambtenaren van de Inspectie van het onderwijs ten aanzien van wie de artikelen 5:12 tot en met 5:17 en 5:20 van de Algemene wet bestuursrecht van overeenkomstige toepassing zijn

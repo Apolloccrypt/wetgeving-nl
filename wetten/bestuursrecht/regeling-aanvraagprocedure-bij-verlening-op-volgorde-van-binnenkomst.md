@@ -9,7 +9,7 @@ laatste_update: 2025-12-24
 status: geldig
 toestand: 2025-12-24
 bron: "https://wetten.overheid.nl/BWBR0015731"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Economische Zaken van 15 oktober 2003, nr. EZT/5003904.JZ, houdende regels omtrent de aanvraag van een vergunning voor het gebruik van frequentieruimte en de toelatingscriteria voor het verlenen van een vergunning (Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte)

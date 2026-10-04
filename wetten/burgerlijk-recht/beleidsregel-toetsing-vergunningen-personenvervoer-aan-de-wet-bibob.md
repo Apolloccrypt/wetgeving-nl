@@ -9,7 +9,7 @@ laatste_update: 2003-05-29
 status: geldig
 toestand: 2003-05-29
 bron: "https://wetten.overheid.nl/BWBR0015123"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregel van de Minister van Verkeer en Waterstaat inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen personenvervoer (Beleidsregel toetsing vergunningen personenvervoer aan de Wet Bibob)

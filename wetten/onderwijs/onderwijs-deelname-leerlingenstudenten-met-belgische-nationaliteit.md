@@ -8,7 +8,7 @@ laatste_update: 2003-04-23
 status: geldig
 toestand: 2003-04-23
 bron: "https://wetten.overheid.nl/BWBR0014939"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Onderwijs deelname leerlingen/studenten met Belgische nationaliteit

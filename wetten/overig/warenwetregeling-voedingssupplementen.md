@@ -8,7 +8,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0014903"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Warenwetregeling voedingssupplementen

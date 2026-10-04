@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0014329"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 26 november 2002 tot vaststelling van een luchthavenindelingbesluit voor de luchthaven Schiphol (Luchthavenindelingbesluit Schiphol)

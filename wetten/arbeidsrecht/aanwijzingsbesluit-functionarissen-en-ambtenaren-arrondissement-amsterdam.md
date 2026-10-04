@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0015631"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Beschikking van de Minister van Justitie van 25 september 2003, kenmerk 5247167/503, houdende aanwijzing van functionarissen en ambtenaren in het arrondissement Amsterdam voor de uitvoering van de dienst bij de gerechten en het transport van personen die rechtens van hun vrijheid zijn beroofd

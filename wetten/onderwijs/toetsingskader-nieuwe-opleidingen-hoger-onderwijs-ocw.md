@@ -9,7 +9,7 @@ laatste_update: 2003-05-25
 status: geldig
 toestand: 2003-05-25
 bron: "https://wetten.overheid.nl/BWBR0015216"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Toetsingskader nieuwe opleidingen hoger onderwijs

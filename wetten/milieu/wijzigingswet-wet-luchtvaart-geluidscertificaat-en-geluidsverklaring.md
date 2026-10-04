@@ -9,7 +9,7 @@ laatste_update: 2008-07-19
 status: geldig
 toestand: 2008-07-19
 bron: "https://wetten.overheid.nl/BWBR0014504"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 19 december 2002, houdende wijziging van de Wet luchtvaart (geluidscertificaat en geluidsverklaring)

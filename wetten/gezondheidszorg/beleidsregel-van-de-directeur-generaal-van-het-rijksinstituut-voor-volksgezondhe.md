@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0053084"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregel van de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu, houdende de vaststelling van aandoeningen die onderdeel zijn van de neonatale hielprikscreening en de prenatale screening op infectieziekten en erytrocytenimmunisatie

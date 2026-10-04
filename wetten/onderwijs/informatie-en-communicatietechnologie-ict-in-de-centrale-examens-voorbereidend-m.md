@@ -8,7 +8,7 @@ laatste_update: 2003-06-11
 status: geldig
 toestand: 2003-06-11
 bron: "https://wetten.overheid.nl/BWBR0015087"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Informatie- en communicatietechnologie (ict) in de centrale examens voorbereidend middelbaar beroepsonderwijs (vmbo) 2004

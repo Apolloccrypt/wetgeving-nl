@@ -9,7 +9,7 @@ laatste_update: 2003-09-21
 status: geldig
 toestand: 2003-09-21
 bron: "https://wetten.overheid.nl/BWBR0015542"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Financiën van 1 september 2003, nr. IAZ2003/705M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het archief, van het Ministerie van Financiën, Generale Thesaurie, Directie Binnenlands Geldwezen, 1940–1953 (Archiefregeling voor de archieven van de Generale Thesaurie, Directie Binnenlands Geldwezen van het Ministerie van Financiën)

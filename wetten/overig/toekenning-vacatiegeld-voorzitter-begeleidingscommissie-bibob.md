@@ -9,7 +9,7 @@ laatste_update: 2003-08-01
 status: geldig
 toestand: 2003-08-01
 bron: "https://wetten.overheid.nl/BWBR0015240"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Beschikking van 17 juni 2003, nummer 5229347, houdende toekenning vacatiegeld voorzitter Begeleidingscommissie BIBOB

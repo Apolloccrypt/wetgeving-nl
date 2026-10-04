@@ -8,7 +8,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0014016"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Instellingsbesluit Landmachtmedaille

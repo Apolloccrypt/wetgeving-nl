@@ -8,7 +8,7 @@ laatste_update: 2002-10-30
 status: geldig
 toestand: 2002-10-30
 bron: "https://wetten.overheid.nl/BWBR0014114"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Lijst van te gebruiken instrumenten voor de indicatiestelling voor leerwegondersteunend onderwijs (lwoo) en praktijkonderwijs (pro) schooljaar 2003 - 2004

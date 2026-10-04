@@ -8,7 +8,7 @@ laatste_update: 2002-11-13
 status: geldig
 toestand: 2002-11-13
 bron: "https://wetten.overheid.nl/BWBR0014186"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Intrekking beleidsregels voor uitgifte locaties ter vestiging wegrestaurants langs rijkswegen

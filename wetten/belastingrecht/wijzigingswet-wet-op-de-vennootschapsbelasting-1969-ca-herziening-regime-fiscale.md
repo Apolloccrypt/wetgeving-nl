@@ -9,7 +9,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0014441"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 11 december 2002 tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid)

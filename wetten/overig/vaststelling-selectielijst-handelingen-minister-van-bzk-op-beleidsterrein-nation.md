@@ -8,7 +8,7 @@ laatste_update: 2007-10-24
 status: geldig
 toestand: 2007-10-24
 bron: "https://wetten.overheid.nl/BWBR0015362"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Vaststelling selectielijst handelingen minister van BZK op beleidsterrein Nationale Ombudsman (1964) 1982-1997

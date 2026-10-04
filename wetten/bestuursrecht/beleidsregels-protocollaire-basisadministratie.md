@@ -8,7 +8,7 @@ laatste_update: 2019-02-08
 status: geldig
 toestand: 2019-02-08
 bron: "https://wetten.overheid.nl/BWBR0014172"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregels Protocollaire Basisadministratie

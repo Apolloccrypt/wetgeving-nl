@@ -9,7 +9,7 @@ laatste_update: 2003-04-01
 status: geldig
 toestand: 2003-04-01
 bron: "https://wetten.overheid.nl/BWBR0014316"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 21 november 2002 tot wijziging van de Uitkeringswet gewezen militairen

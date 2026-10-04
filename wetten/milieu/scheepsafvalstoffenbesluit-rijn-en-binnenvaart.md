@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0012019"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 18 december 2000, houdende regels ter uitvoering van het op 9 september 1996 te Straatsburg tot stand gekomen Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (Trb. 1996, 293) (Scheepsafvalstoffenbesluit Rijn- en binnenvaart)

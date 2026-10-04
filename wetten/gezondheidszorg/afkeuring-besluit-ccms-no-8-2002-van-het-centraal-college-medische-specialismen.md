@@ -9,7 +9,7 @@ laatste_update: 2003-10-15
 status: geldig
 toestand: 2003-10-15
 bron: "https://wetten.overheid.nl/BWBR0015664"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 oktober 2003, nr. IBE/BO-2414978, houdende de afkeuring van besluit CCMS no. 8-2002 van het Centraal College Medische Specialismen

@@ -9,7 +9,7 @@ laatste_update: 2003-02-15
 status: geldig
 toestand: 2003-02-15
 bron: "https://wetten.overheid.nl/BWBR0014037"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 24 september 2002, houdende de Vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2003 (Verordening PT algemene heffing handel groenten en fruit 2003)

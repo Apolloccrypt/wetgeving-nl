@@ -9,7 +9,7 @@ laatste_update: 2003-10-05
 status: geldig
 toestand: 2003-10-05
 bron: "https://wetten.overheid.nl/BWBR0015593"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 18 september 2003, nr. 03.003838 houdende vaststelling van een selectielijst van de Raad van State in verband met de advisering door de Raad over wet- en regelgeving in hoogste en laatste instantie

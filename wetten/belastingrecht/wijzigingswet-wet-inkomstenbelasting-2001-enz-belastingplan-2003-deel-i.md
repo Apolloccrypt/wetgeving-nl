@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0014448"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 12 december 2002, houdende wijziging van enkele belastingwetten c.a. (Belastingplan 2003 Deel I)

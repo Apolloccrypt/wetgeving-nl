@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0014447"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 12 december 2002 tot goedkeuring van het op 5 juni 2001 te Luxemburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met Protocol I en II en briefwisseling (Trb. 2001, 136)

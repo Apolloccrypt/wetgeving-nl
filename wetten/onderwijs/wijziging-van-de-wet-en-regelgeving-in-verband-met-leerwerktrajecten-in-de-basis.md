@@ -8,7 +8,7 @@ laatste_update: 2003-09-24
 status: geldig
 toestand: 2003-09-24
 bron: "https://wetten.overheid.nl/BWBR0015568"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wijziging van de wet- en regelgeving in verband met leerwerktrajecten in de basisberoepsgerichte leerweg van het voorbereidend middelbaar beroepsonderwijs (vmbo)

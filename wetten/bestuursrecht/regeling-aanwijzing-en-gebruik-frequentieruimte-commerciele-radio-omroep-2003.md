@@ -9,7 +9,7 @@ laatste_update: 2024-11-26
 status: geldig
 toestand: 2024-11-26
 bron: "https://wetten.overheid.nl/BWBR0014740"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van inzake aanwijzing en gebruik frequentieruimte commerciële radio-omroep

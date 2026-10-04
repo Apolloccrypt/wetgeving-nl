@@ -8,7 +8,7 @@ laatste_update: 2003-09-16
 status: geldig
 toestand: 2003-09-16
 bron: "https://wetten.overheid.nl/BWBR0015549"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Eindejaarsuitkering commissarissen en gedeputeerden

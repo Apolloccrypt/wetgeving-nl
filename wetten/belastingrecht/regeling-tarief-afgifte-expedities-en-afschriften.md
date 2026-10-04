@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0014157"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Justitie van 29 oktober, nr. 5191527/802 houdende vaststelling van het tarief voor afgifte van expedities of uittreksels van de tot het register van de gerechtsdeurwaarder behorende stukken

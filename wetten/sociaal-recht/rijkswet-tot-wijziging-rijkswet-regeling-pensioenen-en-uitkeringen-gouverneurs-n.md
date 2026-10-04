@@ -9,7 +9,7 @@ laatste_update: 2003-06-04
 status: geldig
 toestand: 2003-06-04
 bron: "https://wetten.overheid.nl/BWBR0015053"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Rijkswet van 8 mei 2003 tot wijziging van de rijkswet van 20 december 1989, houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba (Stb. 1990, 15)

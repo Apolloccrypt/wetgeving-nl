@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0014350"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 28 november 2002 tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden financiering en de vorming van regionale expertisecentra (regeling leerlinggebonden financiering)

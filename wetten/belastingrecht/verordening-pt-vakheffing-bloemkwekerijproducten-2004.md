@@ -9,7 +9,7 @@ laatste_update: 2005-04-24
 status: geldig
 toestand: 2005-04-24
 bron: "https://wetten.overheid.nl/BWBR0015305"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2004 (Verordening PT vakheffing bloemkwekerijproducten 2004)

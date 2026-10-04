@@ -9,7 +9,7 @@ laatste_update: 2004-09-01
 status: geldig
 toestand: 2004-09-01
 bron: "https://wetten.overheid.nl/BWBR0015551"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 4 september 2003 tot wijziging van de Comptabiliteitswet houdende bepalingen inzake het beheer van liquide middelen van rechtspersonen die collectieve middelen beheren, inzake de financiering van die rechtspersonen en inzake de beheersing van het EMU-saldo voor zover dit saldo door het financieel beheer van deze rechtspersonen wordt beïnvloed (Eerste wijziging van de Comptabiliteitswet 2001)

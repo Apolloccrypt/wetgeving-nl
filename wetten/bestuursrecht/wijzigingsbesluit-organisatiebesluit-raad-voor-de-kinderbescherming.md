@@ -9,7 +9,7 @@ laatste_update: 2003-06-01
 status: geldig
 toestand: 2003-06-01
 bron: "https://wetten.overheid.nl/BWBR0015031"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 1 mei 2003 tot wijziging van het Organisatiebesluit raad voor de kinderbescherming

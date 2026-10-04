@@ -8,7 +8,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0028622"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Besluit basisadministraties persoonsgegevens BES

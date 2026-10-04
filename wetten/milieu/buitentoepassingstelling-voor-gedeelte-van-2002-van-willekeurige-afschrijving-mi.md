@@ -8,7 +8,7 @@ laatste_update: 2002-09-26
 status: geldig
 toestand: 2002-09-26
 bron: "https://wetten.overheid.nl/BWBR0014038"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Buitentoepassingstelling voor gedeelte van 2002 van willekeurige afschrijving milieu-investeringen, energie-investeringsaftrek en milieu-investeringsaftrek

@@ -8,7 +8,7 @@ laatste_update: 2003-07-11
 status: geldig
 toestand: 2003-07-11
 bron: "https://wetten.overheid.nl/BWBR0015327"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Aanwijzingsregeling Stichting Waarborgfonds Motorverkeer als Schadevergoedingsorgaan

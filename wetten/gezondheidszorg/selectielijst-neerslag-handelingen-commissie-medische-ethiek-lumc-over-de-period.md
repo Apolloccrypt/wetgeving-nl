@@ -9,7 +9,7 @@ laatste_update: 2003-10-30
 status: geldig
 toestand: 2003-10-30
 bron: "https://wetten.overheid.nl/BWBR0015690"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Selectielijst neerslag handelingen Commissie Medische Ethiek LUMC op het beleidsterrein openbare en bijzondere academische ziekenhuizen over de periode 1985–2000

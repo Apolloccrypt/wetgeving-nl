@@ -9,7 +9,7 @@ laatste_update: 2003-04-03
 status: geldig
 toestand: 2003-04-03
 bron: "https://wetten.overheid.nl/BWBR0014685"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 7 februari 2003 tot wijziging van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen (locatiewijziging en verkorting vergunningprocedure introductie in het milieu)

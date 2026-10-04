@@ -8,7 +8,7 @@ laatste_update: 2003-01-29
 status: geldig
 toestand: 2003-01-29
 bron: "https://wetten.overheid.nl/BWBR0014566"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Vaststelling factoren L en r voor het boekjaar 2003

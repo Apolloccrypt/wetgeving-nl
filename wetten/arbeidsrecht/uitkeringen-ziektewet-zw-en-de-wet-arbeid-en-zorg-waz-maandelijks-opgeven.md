@@ -8,7 +8,7 @@ laatste_update: 2003-03-12
 status: geldig
 toestand: 2003-03-12
 bron: "https://wetten.overheid.nl/BWBR0014757"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Uitkeringen Ziektewet (ZW) en de Wet arbeid en zorg (WAZ) maandelijks opgeven

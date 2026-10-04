@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0014611"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 21 januari 2003, nr. DGM/SAS/2003000830, houdende vaststelling van regels met betrekking tot de sanering van wegen in de omgeving van de gemeenten Hof van Twente en Harderwijk, waarin asbestbevattend materiaal is verwerkt

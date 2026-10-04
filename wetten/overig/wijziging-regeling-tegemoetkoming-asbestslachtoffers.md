@@ -9,7 +9,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0014478"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte, van 17 december 2002, Directie Arbozorg en Verzuimbeleid, nr. AVB/AIS/02 78871 tot wijziging van de Regeling tegemoetkoming asbestslachtoffers, mede in verband met de verlening van een voorschot ter tegemoetkoming in immateriële schade aan werknemers die ten gevolge van blootstelling aan asbest ernstig ziek zijn geworden

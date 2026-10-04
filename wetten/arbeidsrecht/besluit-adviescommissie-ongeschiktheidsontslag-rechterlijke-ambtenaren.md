@@ -9,7 +9,7 @@ laatste_update: 2003-12-02
 status: geldig
 toestand: 2003-12-02
 bron: "https://wetten.overheid.nl/BWBR0015695"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 6 oktober 2003, houdende regels met betrekking tot de adviescommissie voor ontslag van voor het leven benoemde rechterlijke ambtenaren vanwege ongeschiktheid tot het verrichten van hun taak, anders dan wegens ziekte (Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren)

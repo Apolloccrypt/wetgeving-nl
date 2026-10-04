@@ -8,7 +8,7 @@ laatste_update: 2003-05-28
 status: geldig
 toestand: 2003-05-28
 bron: "https://wetten.overheid.nl/BWBR0015058"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Voorlichting over leerlinggebonden financiering (lgf)

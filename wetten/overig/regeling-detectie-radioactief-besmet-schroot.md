@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0014983"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte van 16 april 2003, nr. MJZ2003014180, houdende regels inzake de wijze van detecteren en registreren met betrekking tot aanwezigheid van ioniserende straling in schroot en de daartoe nodige vaardigheden en bekwaamheden (Regeling detectie radioactief besmet schroot)

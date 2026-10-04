@@ -8,7 +8,7 @@ laatste_update: 2003-04-02
 status: geldig
 toestand: 2003-04-02
 bron: "https://wetten.overheid.nl/BWBR0014589"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling tegemoetkoming schade bij overstroming van de Maas januari 2003

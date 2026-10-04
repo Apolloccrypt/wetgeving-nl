@@ -8,7 +8,7 @@ laatste_update: 2003-04-11
 status: geldig
 toestand: 2003-04-11
 bron: "https://wetten.overheid.nl/BWBR0014813"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Selectielijst beleidsterrein Arbeidsverhoudingen vanaf 1945

@@ -9,7 +9,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0014378"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 3 december 2002 tot wijziging van het Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999 in verband met de overdracht van de verantwoordelijkheid voor de uitvoering van het besluit en een aanpassing van de bijdragesystematiek

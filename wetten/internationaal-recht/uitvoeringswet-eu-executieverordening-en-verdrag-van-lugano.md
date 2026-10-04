@@ -9,7 +9,7 @@ laatste_update: 2017-12-23
 status: geldig
 toestand: 2017-12-23
 bron: "https://wetten.overheid.nl/BWBR0015325"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 2 juli 2003 tot uitvoering van de verordening (EG) Nr. 44/2001 van de Raad van de Europese Unie van 22 december 2000 betreffende de rechterlijke bevoegdheid, de erkenning en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken (PbEG L 12) (Uitvoeringswet EG-executieverordening)

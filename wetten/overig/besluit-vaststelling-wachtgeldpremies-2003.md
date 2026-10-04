@@ -8,7 +8,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0014364"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit vaststelling wachtgeldpremies 2003

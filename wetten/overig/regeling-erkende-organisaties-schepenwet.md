@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0014652"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling met betrekking tot de erkenning en aanwijzing van rechtspersonen, bevoegd tot het verrichten van onderzoeken als bedoeld in hoofdstuk III van het Schepenbesluit 1965

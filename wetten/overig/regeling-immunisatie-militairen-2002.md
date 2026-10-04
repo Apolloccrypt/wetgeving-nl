@@ -8,7 +8,7 @@ laatste_update: 2014-01-08
 status: geldig
 toestand: 2014-01-08
 bron: "https://wetten.overheid.nl/BWBR0014322"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Regeling immunisatie militairen 2002

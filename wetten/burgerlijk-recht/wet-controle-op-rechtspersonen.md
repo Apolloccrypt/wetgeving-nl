@@ -9,7 +9,7 @@ laatste_update: 2018-09-19
 status: geldig
 toestand: 2018-09-19
 bron: "https://wetten.overheid.nl/BWBR0015049"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 8 mei 2003, houdende regels over de documentatie van vennootschappen (Wet documentatie vennootschappen)

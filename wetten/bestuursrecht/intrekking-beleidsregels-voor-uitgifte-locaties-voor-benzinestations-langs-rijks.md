@@ -8,7 +8,7 @@ laatste_update: 2002-11-13
 status: geldig
 toestand: 2002-11-13
 bron: "https://wetten.overheid.nl/BWBR0014185"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Intrekking beleidsregels voor uitgifte locaties voor benzinestations langs rijkswegen

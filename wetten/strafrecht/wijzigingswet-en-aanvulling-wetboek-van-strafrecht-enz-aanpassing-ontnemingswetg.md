@@ -9,7 +9,7 @@ laatste_update: 2003-09-01
 status: geldig
 toestand: 2003-09-01
 bron: "https://wetten.overheid.nl/BWBR0015048"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 8 mei 2003 tot wijziging en aanvulling van een aantal bepalingen in het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten met betrekking tot de ontneming van wederrechtelijk verkregen voordeel (aanpassing ontnemingswetgeving)

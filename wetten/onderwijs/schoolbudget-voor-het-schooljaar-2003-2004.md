@@ -8,7 +8,7 @@ laatste_update: 2003-04-02
 status: geldig
 toestand: 2003-04-02
 bron: "https://wetten.overheid.nl/BWBR0014747"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Schoolbudget voor het schooljaar 2003 - 2004

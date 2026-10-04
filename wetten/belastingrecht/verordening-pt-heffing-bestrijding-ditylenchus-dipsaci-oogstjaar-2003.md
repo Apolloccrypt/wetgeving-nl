@@ -9,7 +9,7 @@ laatste_update: 2005-06-18
 status: geldig
 toestand: 2005-06-18
 bron: "https://wetten.overheid.nl/BWBR0015311"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van het bestuur van het Productschap tuinbouw van 1 juli 2003, houdende de vaststelling van aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2003)

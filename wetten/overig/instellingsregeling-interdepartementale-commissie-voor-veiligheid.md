@@ -8,7 +8,7 @@ laatste_update: 2003-03-08
 status: geldig
 toestand: 2003-03-08
 bron: "https://wetten.overheid.nl/BWBR0014562"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Instellingsregeling Interdepartementale Commissie voor Veiligheid

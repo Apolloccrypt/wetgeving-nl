@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0015386"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 15 juli 2003, nr. MJZ2003071600, Centrale Directie Juridische Zaken Afdeling Wetgeving, houdende aanpassing en samenvoeging van ministeriële regelingen als gevolg van de invoering van de Uitvoeringswet huurprijzen woonruimte (Uitvoeringsregeling huurprijzen woonruimte)

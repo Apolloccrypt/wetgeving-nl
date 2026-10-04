@@ -9,7 +9,7 @@ laatste_update: 2014-12-13
 status: geldig
 toestand: 2014-12-13
 bron: "https://wetten.overheid.nl/BWBR0014930"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 8 april 2003, houdende regels voor bepaalde voor menselijke voeding bestemde suikers (Warenwetbesluit suikers)

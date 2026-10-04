@@ -8,7 +8,7 @@ laatste_update: 2003-03-14
 status: geldig
 toestand: 2003-03-14
 bron: "https://wetten.overheid.nl/BWBR0014597"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Vaststellingsregeling maximum eerste referentietarief NV Westerscheldetunnel

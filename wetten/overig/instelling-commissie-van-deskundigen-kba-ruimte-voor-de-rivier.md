@@ -9,7 +9,7 @@ laatste_update: 2004-10-27
 status: geldig
 toestand: 2004-10-27
 bron: "https://wetten.overheid.nl/BWBR0014727"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit tot instelling commissie van deskundigen Kosten Baten Analyse Ruimte voor de Rivier

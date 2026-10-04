@@ -9,7 +9,7 @@ laatste_update: 2003-04-02
 status: geldig
 toestand: 2003-04-02
 bron: "https://wetten.overheid.nl/BWBR0014324"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 25 november 2002, houdende aanpassing van enkele algemene maatregelen van bestuur op het terrein van OCenW aan de Vreemdelingenwet 2000 en wijziging van het Bekostigingsbesluit WPO in verband met een verlaging van de drempel voor de groeiregeling (Aanpassingsbesluit van enkele amvb's aan de Vreemdelingenwet 2000 en wijziging Bekostigingsbesluit WPO (verlaging drempel groeiregeling))

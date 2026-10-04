@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052951"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Wet van 18 juni 2026, houdende regels in verband met de uitgifte van de Nederlandse identiteitskaart (Wet op de Nederlandse identiteitskaart)

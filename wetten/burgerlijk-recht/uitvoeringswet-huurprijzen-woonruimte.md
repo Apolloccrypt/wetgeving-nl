@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0014315"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 21 november 2002, houdende integratie van de Huurprijzenwet woonruimte en de Wet op de huurcommissies in een uitvoeringswet huurprijzen woonruimte onder gelijktijdige overheveling van een deel van de tekst van de Huurprijzenwet woonruimte naar de nieuwe titel 7.4 van Boek 7 van het Burgerlijk Wetboek (Uitvoeringswet huurprijzen woonruimte)

@@ -9,7 +9,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0014160"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Minister van Justitie van 31 oktober 2002, nr. 5191531 tot bevoegd verklaren ambtenaar ten overstaan van wie in buitengewone omstandigheden een uiterste wil kan worden opgemaakt

@@ -9,7 +9,7 @@ laatste_update: 2003-09-01
 status: geldig
 toestand: 2003-09-01
 bron: "https://wetten.overheid.nl/BWBR0015193"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 juni 2003, kenmerk MIO-2003042498, houdende vervanging archiefbescheiden

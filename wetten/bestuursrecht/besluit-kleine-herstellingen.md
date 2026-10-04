@@ -9,7 +9,7 @@ laatste_update: 2003-08-01
 status: geldig
 toestand: 2003-08-01
 bron: "https://wetten.overheid.nl/BWBR0014931"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 8 april 2003, houdende aanwijzing van herstellingen die moeten worden aangemerkt als kleine herstellingen als bedoeld in artikel 240 van Boek 7 van het Burgerlijk Wetboek (Besluit kleine herstellingen)

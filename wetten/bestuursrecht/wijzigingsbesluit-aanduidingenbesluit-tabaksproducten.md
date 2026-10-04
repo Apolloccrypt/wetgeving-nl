@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2003-09-26
 bron: "https://wetten.overheid.nl/BWBR0015483"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 16 augustus 2003, houdende wijziging van het Aanduidingenbesluit tabaksproducten

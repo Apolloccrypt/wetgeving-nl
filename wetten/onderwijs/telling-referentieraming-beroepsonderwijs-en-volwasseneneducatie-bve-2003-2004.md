@@ -8,7 +8,7 @@ laatste_update: 2003-10-29
 status: geldig
 toestand: 2003-10-29
 bron: "https://wetten.overheid.nl/BWBR0015718"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Telling referentieraming beroepsonderwijs en volwasseneneducatie (bve) 2003 - 2004

@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0014919"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 4 april 2003, houdende de vaststelling van de vergoedingen van de leden van de Raad voor strafrechtstoepassing en jeugdbescherming (Tijdelijk besluit vergoedingen Raad voor strafrechtstoepassing en jeugdbescherming)

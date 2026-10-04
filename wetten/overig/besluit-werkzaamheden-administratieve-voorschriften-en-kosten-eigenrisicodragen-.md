@@ -8,7 +8,7 @@ laatste_update: 2006-12-06
 status: geldig
 toestand: 2006-12-06
 bron: "https://wetten.overheid.nl/BWBR0014926"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW

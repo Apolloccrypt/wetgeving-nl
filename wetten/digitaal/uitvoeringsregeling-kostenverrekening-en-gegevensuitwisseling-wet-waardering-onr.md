@@ -8,7 +8,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0015059"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken

@@ -9,7 +9,7 @@ laatste_update: 2003-01-29
 status: geldig
 toestand: 2003-01-29
 bron: "https://wetten.overheid.nl/BWBR0014591"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 januari 2003, nr. KvI2002106469, tot instelling van een programmaraad voor het nationaal vervolgprogramma klimaatonderzoek (Instellingsbesluit Programmaraad NVKO)

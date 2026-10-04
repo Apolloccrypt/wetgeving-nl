@@ -8,7 +8,7 @@ laatste_update: 2003-04-06
 status: geldig
 toestand: 2003-04-06
 bron: "https://wetten.overheid.nl/BWBR0014895"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling vaststelling rekenfactor 2002 Wet buitengewoon pensioen 1940–1945 en Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers

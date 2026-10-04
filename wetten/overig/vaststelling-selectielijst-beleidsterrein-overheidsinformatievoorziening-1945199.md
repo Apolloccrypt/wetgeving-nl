@@ -9,7 +9,7 @@ laatste_update: 2003-10-22
 status: geldig
 toestand: 2003-10-22
 bron: "https://wetten.overheid.nl/BWBR0015373"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Vaststelling selectielijst beleidsterrein overheidsinformatievoorziening over de periode 1945–1999

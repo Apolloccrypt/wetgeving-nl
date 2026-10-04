@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0014397"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 9 december 2002, houdende voorschriften voor uitvoering van de controle van personen, bagage en vracht door beveiligingspersoneel en luchtvaartmaatschappijen op luchtvaartterreinen (Besluit beveiliging burgerluchtvaart)

@@ -9,7 +9,7 @@ laatste_update: 2003-02-01
 status: geldig
 toestand: 2003-02-01
 bron: "https://wetten.overheid.nl/BWBR0014612"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Mandaatbesluit provincies Gelderland en Overijssel Saneringsregeling asbestwegen tweede faseBesluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 21 januari 2003, nr. DGM/SAS/SN/2003000829 houdende verlening van mandaat voor de uitvoering van de Saneringsregeling asbestwegen tweede fase (Mandaatbesluit provincies Gelderland en Overijssel Saneringsregeling asbestwegen tweede fase)

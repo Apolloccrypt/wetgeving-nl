@@ -8,7 +8,7 @@ laatste_update: 2002-10-04
 status: geldig
 toestand: 2002-10-04
 bron: "https://wetten.overheid.nl/BWBR0014150"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Samenwerking gelijktijdige boekenonderzoeken tussen de Staatsbelastingdienst van Oekraïne en de Belastingdienst van Nederland

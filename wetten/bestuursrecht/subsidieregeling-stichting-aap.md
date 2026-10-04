@@ -9,7 +9,7 @@ laatste_update: 2003-06-28
 status: geldig
 toestand: 2003-06-28
 bron: "https://wetten.overheid.nl/BWBR0015298"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschappen van 1 juli 2003, nr OWB/FO/2002/54873, houdende regels voor het verstrekken van subsidie aan Stichting AAP voor de huisvesting, verzorging en behandeling van door de Stichting Biomedical Primate Research Centre aan de Stichting AAP in eigendom overgedragen chimpansees (Subsidieregeling Stichting AAP)

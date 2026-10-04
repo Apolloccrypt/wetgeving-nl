@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0014124"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 16 oktober 2002, houdende regels betreffende de procedure van veiling en loting inzake de toekenning van nummers (Besluit alternatieve verdeling nummers)

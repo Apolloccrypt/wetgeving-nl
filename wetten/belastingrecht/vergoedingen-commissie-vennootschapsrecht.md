@@ -9,7 +9,7 @@ laatste_update: 2021-10-02
 status: geldig
 toestand: 2021-10-02
 bron: "https://wetten.overheid.nl/BWBR0015062"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Minister van Justitie van 12 mei 2003, nr. 5221470 tot vaststelling van de hoogte van de vergoeding, als bedoeld in artikel 2 van het Vergoedingenbesluit adviescolleges, van de voorzitter en leden van de Commissie vennootschapsrecht

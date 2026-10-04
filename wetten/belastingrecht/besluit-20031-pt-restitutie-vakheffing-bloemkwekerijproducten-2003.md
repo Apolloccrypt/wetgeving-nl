@@ -9,7 +9,7 @@ laatste_update: 2005-05-06
 status: geldig
 toestand: 2005-05-06
 bron: "https://wetten.overheid.nl/BWBR0014334"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van het Bestuur van het Productschap Tuinbouw, d.d. 27 november 2002, houdende vaststelling van criteria voor gedeeltelijke restitutie van de vakheffing bloemkwekerijproducten (Besluit 2003/1 PT restitutie vakheffing bloemkwekerijproducten 2003)

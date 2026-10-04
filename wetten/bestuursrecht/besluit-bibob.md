@@ -9,7 +9,7 @@ laatste_update: 2020-08-01
 status: geldig
 toestand: 2020-08-01
 bron: "https://wetten.overheid.nl/BWBR0014964"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 12 april 2003, houdende uitvoering van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Besluit BIBOB)

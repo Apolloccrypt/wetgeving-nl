@@ -9,7 +9,7 @@ laatste_update: 2003-05-02
 status: geldig
 toestand: 2003-05-02
 bron: "https://wetten.overheid.nl/BWBR0014913"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 3 april 2003, houdende de overdracht van de zorg voor de Wet op de Registeraccountants en de Wet op de Accountants-Administratieconsulenten

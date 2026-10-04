@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-06-13
 toestand: 2014-12-13
 bron: "https://wetten.overheid.nl/BWBR0014856"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Warenwetregeling gedehydrateerde melk 2003

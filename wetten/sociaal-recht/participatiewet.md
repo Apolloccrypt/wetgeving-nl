@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0015703"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 9 oktober 2003, houdende vaststelling van een wet inzake ondersteuning bij arbeidsinschakeling en verlening van bijstand door gemeenten (Wet werk en bijstand)

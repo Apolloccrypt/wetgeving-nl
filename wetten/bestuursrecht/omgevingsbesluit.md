@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0041278"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 3 juli 2018, houdende procedurele regels en regels over algemene onderwerpen over het beschermen en benutten van de fysieke leefomgeving (Omgevingsbesluit)

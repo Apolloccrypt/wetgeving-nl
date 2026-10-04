@@ -9,7 +9,7 @@ laatste_update: 2004-04-01
 status: geldig
 toestand: 2004-04-01
 bron: "https://wetten.overheid.nl/BWBR0015514"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 27 augustus 2003, houdende wijziging van het Reglement rijbewijzen ter implementatie van richtlijn nr. 2000/56/EG van de Commissie van de Europese Gemeenschappen van 14 september 2000 tot wijziging van richtlijn nr. 91/439/EEG van de Raad betreffende het rijbewijs (PbEG L 237)

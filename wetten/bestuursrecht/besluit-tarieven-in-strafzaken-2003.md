@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0015481"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 16 augustus 2003, houdende vaststelling van tarieven voor vergoedingen als bedoeld in de artikelen 3, 4, 6, 7, 17 en 18 van de Wet tarieven in strafzaken (Besluit tarieven in strafzaken 2003)

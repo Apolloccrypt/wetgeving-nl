@@ -8,7 +8,7 @@ laatste_update: 2003-09-01
 status: geldig
 toestand: 2003-09-01
 bron: "https://wetten.overheid.nl/BWBR0015290"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Goedkeuring besluit CHVG 7-2002 (herregistratie van verpleeghuisartsen)

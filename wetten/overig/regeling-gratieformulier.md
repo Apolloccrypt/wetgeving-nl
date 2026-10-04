@@ -9,7 +9,7 @@ laatste_update: 2003-06-01
 status: geldig
 toestand: 2003-06-01
 bron: "https://wetten.overheid.nl/BWBR0015043"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Justitie van 7 mei 2003, nr. 5220137/DBz/03 tot vaststelling van het formulier met behulp waarvan verzoekschriften tot gratie moeten worden ingediend (Regeling gratieformulier)

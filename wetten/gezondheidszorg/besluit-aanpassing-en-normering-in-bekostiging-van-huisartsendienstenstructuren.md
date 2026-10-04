@@ -9,7 +9,7 @@ laatste_update: 2003-10-30
 status: geldig
 toestand: 2003-10-30
 bron: "https://wetten.overheid.nl/BWBR0015746"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 oktober 2003, Z/P-2420993, houdende aanpassing en normering in bekostiging van huisartsendienstenstructuren

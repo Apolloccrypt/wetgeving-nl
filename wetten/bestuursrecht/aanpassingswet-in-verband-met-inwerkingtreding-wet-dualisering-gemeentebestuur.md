@@ -9,7 +9,7 @@ laatste_update: 2003-02-19
 status: geldig
 toestand: 2003-02-19
 bron: "https://wetten.overheid.nl/BWBR0014677"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 6 februari 2003, houdende aanpassing van enkele wetten in verband met de inwerkingtreding van de Wet dualisering gemeentebestuur

@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052417"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Regeling van het College voor toetsen en examens van 2 maart 2026, nr. CvTE- 26.00037, houdende vaststelling van het Programma van Toetsing en Afsluiting staatsexamens vo 2027 (Regeling PTA staatsexamens vo 2027)

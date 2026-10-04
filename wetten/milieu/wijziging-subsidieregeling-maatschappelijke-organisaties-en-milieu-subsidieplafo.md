@@ -9,7 +9,7 @@ laatste_update: 2003-12-25
 status: geldig
 toestand: 2003-12-25
 bron: "https://wetten.overheid.nl/BWBR0014988"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 17 april 2003, nr. SB/BM 2003012186, houdende wijziging van de Subsidieregeling maatschappelijke organisaties en milieu en vaststelling van subsidieplafonds voor het verlenen van subsidies als bedoeld in die regeling (subsidieplafonds 2003 SMOM).

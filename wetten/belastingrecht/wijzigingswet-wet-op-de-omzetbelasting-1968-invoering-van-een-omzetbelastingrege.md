@@ -9,7 +9,7 @@ laatste_update: 2003-10-08
 status: geldig
 toestand: 2003-10-08
 bron: "https://wetten.overheid.nl/BWBR0015675"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 2 oktober 2003 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de – in beginsel tijdelijke – invoering van een omzetbelastingregeling voor elektronische diensten (e-commerce)

@@ -8,7 +8,7 @@ laatste_update: 2003-07-25
 status: geldig
 toestand: 2003-07-25
 bron: "https://wetten.overheid.nl/BWBR0015213"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Selectielijst neerslag handelingen Minister van EZ m.b.t. de SER 1970 - heden

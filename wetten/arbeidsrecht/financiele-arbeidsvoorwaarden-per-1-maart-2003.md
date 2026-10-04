@@ -8,7 +8,7 @@ laatste_update: 2003-06-11
 status: geldig
 toestand: 2003-06-11
 bron: "https://wetten.overheid.nl/BWBR0015072"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Financiële arbeidsvoorwaarden per 1 maart 2003

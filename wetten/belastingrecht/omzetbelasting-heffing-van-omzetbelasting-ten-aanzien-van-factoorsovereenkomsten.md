@@ -8,7 +8,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0015555"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Omzetbelasting, heffing van omzetbelasting ten aanzien van factoorsovereenkomsten

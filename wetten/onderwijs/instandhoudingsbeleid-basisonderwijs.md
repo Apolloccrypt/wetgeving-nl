@@ -8,7 +8,7 @@ laatste_update: 2003-07-30
 status: geldig
 toestand: 2003-07-30
 bron: "https://wetten.overheid.nl/BWBR0015239"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Instandhoudingsbeleid basisonderwijs

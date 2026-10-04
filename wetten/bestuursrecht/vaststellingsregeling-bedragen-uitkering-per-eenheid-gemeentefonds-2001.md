@@ -9,7 +9,7 @@ laatste_update: 2004-12-24
 status: geldig
 toestand: 2004-12-24
 bron: "https://wetten.overheid.nl/BWBR0015530"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van 29 augustus 2003, nr. FO2003/74822, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2001

@@ -9,7 +9,7 @@ laatste_update: 2003-03-02
 status: geldig
 toestand: 2003-03-02
 bron: "https://wetten.overheid.nl/BWBR0014689"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 10 februari 2003, nr. 03M449318, houdende beperkingen van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het ministerie voor Algemeene Oorlogvoering van het Koninkrijk (1942-1946), het Kabinet van de Minister-President (1946-1947) en het ministerie van Algemene Zaken, Kabinet van de Minister-President (1947-heden), over het tijdvak (1924)1942-1979(1989)

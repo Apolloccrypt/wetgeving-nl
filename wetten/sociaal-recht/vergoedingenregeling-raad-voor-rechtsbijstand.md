@@ -9,7 +9,7 @@ laatste_update: 2021-04-22
 status: geldig
 toestand: 2021-04-22
 bron: "https://wetten.overheid.nl/BWBR0014380"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 4 december 2002 tot vaststelling van de Vergoedingenregeling Raad voor Rechtsbijstand (Vergoedingenregeling Raad voor Rechtsbijstand)

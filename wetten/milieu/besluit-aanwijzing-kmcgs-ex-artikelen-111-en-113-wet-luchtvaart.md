@@ -8,7 +8,7 @@ laatste_update: 2003-05-04
 status: geldig
 toestand: 2003-05-04
 bron: "https://wetten.overheid.nl/BWBR0015023"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit aanwijzing KMCGS ex artikelen 11.1 en 11.3 Wet luchtvaart

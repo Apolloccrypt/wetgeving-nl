@@ -8,7 +8,7 @@ laatste_update: 2003-05-21
 status: geldig
 toestand: 2003-05-21
 bron: "https://wetten.overheid.nl/BWBR0014957"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Verspreiding NT2-Profieltoets, NT2-Profieltoets alfabetisering en MO-Profieltoets

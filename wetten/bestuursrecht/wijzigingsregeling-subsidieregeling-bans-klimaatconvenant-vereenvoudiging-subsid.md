@@ -9,7 +9,7 @@ laatste_update: 2003-08-01
 status: geldig
 toestand: 2003-08-01
 bron: "https://wetten.overheid.nl/BWBR0015387"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 15 juli 2003, nr. KvI2003070862, tot wijziging van de Subsidieregeling BANS klimaatconvenant (vereenvoudiging subsidievoorwaarden en vaststelling Prestatiekaart provincies)

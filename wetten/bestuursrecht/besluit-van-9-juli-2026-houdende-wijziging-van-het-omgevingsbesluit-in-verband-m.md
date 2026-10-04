@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052910"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 9 juli 2026, houdende wijziging van het Omgevingsbesluit in verband met de aanwijzing van besluiten van bepaalde elektriciteitsprojecten vanwege zwaarwegende maatschappelijke belangen (Besluit procedurele versnellingen elektriciteitsprojecten) [KetenID WGK026824]

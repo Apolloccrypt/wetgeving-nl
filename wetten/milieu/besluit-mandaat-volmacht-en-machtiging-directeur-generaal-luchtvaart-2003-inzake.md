@@ -8,7 +8,7 @@ laatste_update: 2003-10-16
 status: geldig
 toestand: 2003-10-16
 bron: "https://wetten.overheid.nl/BWBR0015715"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit mandaat, volmacht en machtiging directeur-generaal Luchtvaart, 2003 inzake samengaan KLM/Air France

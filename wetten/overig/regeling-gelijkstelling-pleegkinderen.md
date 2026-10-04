@@ -8,7 +8,7 @@ laatste_update: 2010-04-30
 status: geldig
 toestand: 2010-04-30
 bron: "https://wetten.overheid.nl/BWBR0014374"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling gelijkstelling pleegkinderen

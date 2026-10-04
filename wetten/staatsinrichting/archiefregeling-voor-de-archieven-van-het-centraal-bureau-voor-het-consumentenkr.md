@@ -9,7 +9,7 @@ laatste_update: 2003-09-21
 status: geldig
 toestand: 2003-09-21
 bron: "https://wetten.overheid.nl/BWBR0015537"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Financiën van 1 september 2003, nr. IAZ2003/708M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Centraal bureau voor het Consumentenkrediet 1946–1953, de Centrale Raad voor het Consumentenkrediet 1945–1953, de Commissie uit de Centrale Raad voor het Consumentenkrediet 1946–1949 (Archiefregeling voor de archieven van het Centraal bureau voor het Consumentenkrediet, de Centrale Raad voor het Consumentenkrediet, de Commissie uit de Centrale Raad voor het Consumentenkrediet van het Ministerie van Financiën en zijn rechtsvoorgangers)

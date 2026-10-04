@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0015339"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie, mede namens de Minister-President, Minister van Algemene Zaken, van 4 juli 2003, nr. 2024243/01, houdende de aanwijzing van risicolanden op grond van artikel 10, eerste lid, onder b, van de Wet op de inlichtingen- en veiligheidsdiensten 2002 (Regeling aanwijzing risicolanden)

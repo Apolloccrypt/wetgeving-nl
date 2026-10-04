@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0014722"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende regels omtrent het registreren en verstrekken van milieu-informatie over het luchthavenluchtverkeer van de luchthaven Schiphol

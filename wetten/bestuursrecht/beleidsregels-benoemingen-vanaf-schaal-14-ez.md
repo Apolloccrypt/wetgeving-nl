@@ -8,7 +8,7 @@ laatste_update: 2003-02-20
 status: geldig
 toestand: 2003-02-20
 bron: "https://wetten.overheid.nl/BWBR0014700"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregels benoemingen vanaf schaal 14 EZ

@@ -9,7 +9,7 @@ laatste_update: 2003-09-29
 status: geldig
 toestand: 2003-09-29
 bron: "https://wetten.overheid.nl/BWBR0015580"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 17 september 2003, nr. IBE/BO-2410533, houdende de goedkeuring van besluit CCSM no. 4-2003

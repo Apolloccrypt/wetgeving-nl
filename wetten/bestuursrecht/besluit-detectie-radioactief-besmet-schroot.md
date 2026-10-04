@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0014106"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 3 oktober 2002, houdende regels voor de detectie van radioactief besmet schroot (Besluit detectie radioactief besmet schroot)

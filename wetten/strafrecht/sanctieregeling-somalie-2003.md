@@ -9,7 +9,7 @@ laatste_update: 2024-06-12
 status: geldig
 toestand: 2024-06-12
 bron: "https://wetten.overheid.nl/BWBR0014730"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van 19 februari 2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-30
 toestand: 2005-07-24
 bron: "https://wetten.overheid.nl/BWBR0018592"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Regeling subsidiëring medische haalbaarheidsonderzoeken in letselschadezaken

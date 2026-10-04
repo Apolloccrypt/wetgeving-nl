@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0014779"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 6 maart 2003, houdende bepalingen met betrekking tot het toezicht op collectieve beheersorganisaties voor auteurs- en naburige rechten (Wet toezicht collectieve beheersorganisaties auteurs- en naburige rechten)

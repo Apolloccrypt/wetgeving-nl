@@ -9,7 +9,7 @@ laatste_update: 2004-11-27
 status: geldig
 toestand: 2004-11-27
 bron: "https://wetten.overheid.nl/BWBR0015317"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van het bestuur van het ProductschapTuinbouw van 1 juli 2003, houdende de vaststelling van een heffing over de teelt van witlof bestemd voor de promotie van witlof, voor het jaar 2004 (Verordening PT heffing promotie witlof 2004)

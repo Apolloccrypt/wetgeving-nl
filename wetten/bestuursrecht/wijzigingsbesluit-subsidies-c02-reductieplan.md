@@ -9,7 +9,7 @@ laatste_update: 2003-02-07
 status: geldig
 toestand: 2003-02-07
 bron: "https://wetten.overheid.nl/BWBR0014520"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 19 december 2002, houdende wijziging van het Besluit subsidies C02-reductieplan (uitbreiding reikwijdte besluit tot de Nederlandse exclusieve economische zone)

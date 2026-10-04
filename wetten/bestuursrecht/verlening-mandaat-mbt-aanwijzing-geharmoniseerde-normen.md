@@ -9,7 +9,7 @@ laatste_update: 2003-09-01
 status: geldig
 toestand: 2003-09-01
 bron: "https://wetten.overheid.nl/BWBR0014112"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Regeling houdende verlening van mandaat aan de stichting Nederlands Normalisatie-Instituut en de stichting Nederlands Elektrotechnisch Comité met betrekking tot de aanwijzing van geharmoniseerde normen en de bekendmaking van de referenties daarvan in de Staatscourant

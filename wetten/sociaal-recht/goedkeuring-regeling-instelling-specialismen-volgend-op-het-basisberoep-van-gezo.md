@@ -9,7 +9,7 @@ laatste_update: 2003-11-01
 status: geldig
 toestand: 2003-11-01
 bron: "https://wetten.overheid.nl/BWBR0015404"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 24 juli 2003, IBE/BO-2394100, houdende goedkeuring van de regeling van de Federatie van Gezondheidszorgpsychologen van 15 april 2003 inzake de instelling van specialismen volgend op het basisberoep van gezondheidszorgpsycholoog

@@ -9,7 +9,7 @@ laatste_update: 2005-02-27
 status: geldig
 toestand: 2005-02-27
 bron: "https://wetten.overheid.nl/BWBR0014341"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 27 november 2002, houdende een verlaging van de vakheffing bloembollen leverbaar oogstjaar 2003 (Besluit 2003/1 PT vakheffing bloembollen leverbaar oogstjaar 2003)

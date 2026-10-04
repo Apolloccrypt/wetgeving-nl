@@ -8,7 +8,7 @@ laatste_update: 2003-07-01
 status: geldig
 toestand: 2003-07-01
 bron: "https://wetten.overheid.nl/BWBR0015195"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Publicatie Centraal Register Opleidingen Hoger Onderwijs (CROHO) 2003 - 2004

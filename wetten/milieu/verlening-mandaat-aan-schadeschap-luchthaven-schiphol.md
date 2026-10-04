@@ -9,7 +9,7 @@ laatste_update: 2003-06-06
 status: geldig
 toestand: 2003-06-06
 bron: "https://wetten.overheid.nl/BWBR0015127"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit houdende verlening van mandaat aan het Schadeschap Luchthaven Schiphol van de bevoegdheid op grond van artikel 8.31 van de Wet luchtvaart

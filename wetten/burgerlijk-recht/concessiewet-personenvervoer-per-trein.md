@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0015008"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 23 april 2003 tot aanvulling van de Wet personenvervoer 2000, strekkende tot invoering van een concessiestelsel voor het personenvervoer per trein (Concessiewet personenvervoer per trein)

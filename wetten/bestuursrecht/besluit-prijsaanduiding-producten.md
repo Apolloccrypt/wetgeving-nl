@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0015104"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 21 mei 2003, houdende regels met betrekking tot de prijsaanduiding van producten ter vervanging van het Besluit prijsaanduiding goederen 1980 in verband met de aanpassing aan de systematiek en de terminologie van de EG-richtlijn betreffende de prijsaanduiding van aan de consument aangeboden producten (Besluit prijsaanduiding producten)

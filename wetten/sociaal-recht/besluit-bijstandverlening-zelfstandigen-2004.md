@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0015711"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 10 oktober 2003 tot vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 7 van de Invoeringswet Wet werk en bijstand (Besluit bijstandverlening zelfstandigen 2004)

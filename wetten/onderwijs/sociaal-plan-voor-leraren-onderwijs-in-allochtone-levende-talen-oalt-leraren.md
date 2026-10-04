@@ -9,7 +9,7 @@ laatste_update: 2003-04-02
 status: geldig
 toestand: 2003-04-02
 bron: "https://wetten.overheid.nl/BWBR0014859"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Voorlichtingspublicatie over een sociaal plan voor oalt-leraren in verband met het aanscherpen van de kwalificatievereisten per 1 augustus 2002 voor oaltleraren die taalondersteuning geven

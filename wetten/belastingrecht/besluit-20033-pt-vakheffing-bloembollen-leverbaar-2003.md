@@ -9,7 +9,7 @@ laatste_update: 2003-06-01
 status: geldig
 toestand: 2003-06-01
 bron: "https://wetten.overheid.nl/BWBR0015143"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van het Bestuur van het Productschap Tuinbouw, d.d. 6 mei 2003, houdende de vaststelling van de nadere omschrijving van diverse bepalingen uit de Verordening PT bloembollen leverbaar 2003 (Besluit 2003/3 PT vakheffing bloembollen leverbaar 2003)

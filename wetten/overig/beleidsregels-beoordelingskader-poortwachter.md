@@ -8,7 +8,7 @@ laatste_update: 2006-11-18
 status: geldig
 toestand: 2006-11-18
 bron: "https://wetten.overheid.nl/BWBR0014375"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregels beoordelingskader poortwachter

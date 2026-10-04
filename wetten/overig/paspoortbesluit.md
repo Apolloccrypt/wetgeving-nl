@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0044308"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 15 oktober 2020, houdende regels betreffende het verstrekken van reisdocumenten (Paspoortbesluit)

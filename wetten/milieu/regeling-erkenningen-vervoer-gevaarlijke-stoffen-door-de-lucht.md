@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0014764"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat inzake de erkenning van een natuurlijke persoon of rechtspersoon die zich bezighoudt met het vervoer van gevaarlijke stoffen door de lucht (Regeling erkenningen vervoer gevaarlijke stoffen door de lucht)

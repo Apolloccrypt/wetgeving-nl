@@ -9,7 +9,7 @@ laatste_update: 2003-09-21
 status: geldig
 toestand: 2003-09-21
 bron: "https://wetten.overheid.nl/BWBR0015540"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Financiën van 1 september 2003, nr. IAZ2003/711M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Bureau Herstelbetalings- en Recuperatiegoederen (HERGO) van het Ministerie van Financiën en zijn rechtsvoorgangers (1945) 1946–1953 (1961) (Archiefregeling voor de archieven van het Bureau Herstelbetalings- en Recuperatiegoederen (HERGO) te ’s-Gravenhage van het Ministerie van Financiën en zijn rechtsvoorgangers)

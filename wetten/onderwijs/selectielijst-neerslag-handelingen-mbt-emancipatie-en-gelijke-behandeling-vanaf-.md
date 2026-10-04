@@ -9,7 +9,7 @@ laatste_update: 2003-12-07
 status: geldig
 toestand: 2003-12-07
 bron: "https://wetten.overheid.nl/BWBR0015421"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Selectielijst neerslag handelingen met betrekking tot Emancipatie en gelijke behandeling vanaf 1965-heden, Onderwijs, Cultuur en Wetenschappen

@@ -8,7 +8,7 @@ laatste_update: 2002-10-02
 status: geldig
 toestand: 2002-10-02
 bron: "https://wetten.overheid.nl/BWBR0014074"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Aanwijzingsbesluit politieholster

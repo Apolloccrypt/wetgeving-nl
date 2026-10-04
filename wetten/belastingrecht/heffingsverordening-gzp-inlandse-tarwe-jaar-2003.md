@@ -9,7 +9,7 @@ laatste_update: 2003-02-09
 status: geldig
 toestand: 2003-02-09
 bron: "https://wetten.overheid.nl/BWBR0014190"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 7 november 2002, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlandse tarwe in Nederland voor het jaar 2003 (Heffingsverordening GZP inlandse tarwe jaar 2003)

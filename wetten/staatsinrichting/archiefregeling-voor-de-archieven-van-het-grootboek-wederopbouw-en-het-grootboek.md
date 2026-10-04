@@ -9,7 +9,7 @@ laatste_update: 2003-09-21
 status: geldig
 toestand: 2003-09-21
 bron: "https://wetten.overheid.nl/BWBR0015538"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Financiën van 1 september 2003, nr. IAZ2003/706M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Grootboek Wederopbouw en het Grootboek Rijn- en Binnenvloot 1940–1960 (–1983) (Archiefregeling voor de archieven van het Grootboek Wederopbouw en het Grootboek Rijn- en Binnenvloot ressorterend onder het Ministerie van Financiën)

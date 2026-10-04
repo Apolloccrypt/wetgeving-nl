@@ -9,7 +9,7 @@ laatste_update: 2026-09-26
 status: geldig
 toestand: 2026-09-26
 bron: "https://wetten.overheid.nl/BWBR0052969"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Wet van 8 juli 2026 tot wijziging van de Wet op het financieel toezicht ter implementatie van Richtlijn (EU) 2024/790 (Implementatiewet herziening MiFID II 2026)

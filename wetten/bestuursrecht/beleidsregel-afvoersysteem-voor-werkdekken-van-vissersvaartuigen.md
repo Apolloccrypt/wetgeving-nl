@@ -8,7 +8,7 @@ laatste_update: 2003-07-10
 status: geldig
 toestand: 2003-07-10
 bron: "https://wetten.overheid.nl/BWBR0015292"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregel afvoersysteem voor werkdekken van vissersvaartuigen

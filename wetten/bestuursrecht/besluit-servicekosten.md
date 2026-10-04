@@ -9,7 +9,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0014932"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 8 april 2003, houdende aanwijzing van zaken en diensten waarvoor de vergoeding moet worden aangemerkt als servicekosten (Besluit servicekosten)

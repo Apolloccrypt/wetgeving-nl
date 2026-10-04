@@ -9,7 +9,7 @@ laatste_update: 2003-09-13
 status: geldig
 toestand: 2003-09-13
 bron: "https://wetten.overheid.nl/BWBR0015518"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling examencondities centraal schriftelijk examen en centraal praktisch examen (cspe) 2004

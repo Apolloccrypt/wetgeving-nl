@@ -9,7 +9,7 @@ laatste_update: 2003-06-19
 status: geldig
 toestand: 2003-06-19
 bron: "https://wetten.overheid.nl/BWBR0015228"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Economische Zaken van 13 juni 2003, nr. WJZ/03/02524, houdende wijziging van de Regeling vergoedingen OPTA 2003

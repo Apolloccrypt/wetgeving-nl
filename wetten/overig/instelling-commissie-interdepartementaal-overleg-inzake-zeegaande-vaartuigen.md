@@ -8,7 +8,7 @@ laatste_update: 2004-12-03
 status: geldig
 toestand: 2004-12-03
 bron: "https://wetten.overheid.nl/BWBR0015054"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Instelling Commissie interdepartementaal Overleg inzake Zeegaande Vaartuigen

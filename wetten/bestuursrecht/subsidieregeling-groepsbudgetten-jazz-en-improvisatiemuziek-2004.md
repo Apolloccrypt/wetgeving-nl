@@ -8,7 +8,7 @@ laatste_update: 2003-07-22
 status: geldig
 toestand: 2003-07-22
 bron: "https://wetten.overheid.nl/BWBR0014554"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Subsidieregeling Groepsbudgetten jazz en improvisatiemuziek 2004

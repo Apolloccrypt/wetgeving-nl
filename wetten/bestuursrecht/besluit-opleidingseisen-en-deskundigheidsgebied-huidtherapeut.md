@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0014115"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 10 oktober 2002, houdende regels inzake de opleiding tot en de deskundigheid van de huidtherapeut (Besluit opleidingseisen en deskundigheidsgebied huidtherapeut)

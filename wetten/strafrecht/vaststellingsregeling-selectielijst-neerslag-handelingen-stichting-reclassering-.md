@@ -8,7 +8,7 @@ laatste_update: 2004-07-23
 status: geldig
 toestand: 2004-07-23
 bron: "https://wetten.overheid.nl/BWBR0014815"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Vaststellingsregeling selectielijst neerslag handelingen Stichting Reclassering Nederland op het beleidsterrein Reclassering over de periode 1948–1999

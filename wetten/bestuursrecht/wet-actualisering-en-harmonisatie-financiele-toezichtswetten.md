@@ -9,7 +9,7 @@ laatste_update: 2005-01-15
 status: geldig
 toestand: 2005-01-15
 bron: "https://wetten.overheid.nl/BWBR0014280"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 14 november 2002 tot wijziging van de Wet toezicht beleggingsinstellingen, de Wet toezicht effectenverkeer 1995, de Wet toezicht kredietwezen 1992, de Wet toezicht natura-uitvaartverzekeringsbedrijf en de Wet toezicht verzekeringsbedrijf 1993 met het oog op het opheffen van enige verschillen tussen deze wetten en het in die wetten expliciteren van integriteit als onderwerp van toezicht, alsmede in verband met enige noodzakelijke technische aanpassingen (Wet actualisering en harmonisatie financiële toezichtswetten)

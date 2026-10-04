@@ -9,7 +9,7 @@ laatste_update: 2003-04-25
 status: geldig
 toestand: 2003-04-25
 bron: "https://wetten.overheid.nl/BWBR0014929"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 8 april 2003, houdende wijziging van het koninklijk besluit van 9 augustus 1948 tot uitvoering van artikel 12 van de Wet buitengewoon pensioen 1940–1945 (Stb. I 362) en van het koninklijk besluit van 6 september 1949 tot uitvoering van artikel 11 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers (Stb. J 418) in verband met de inwerkingtreding van de Wet inkomstenbelasting 2001

@@ -8,7 +8,7 @@ laatste_update: 2003-08-25
 status: geldig
 toestand: 2003-08-25
 bron: "https://wetten.overheid.nl/BWBR0015357"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Skal-Reglement Bezwaar

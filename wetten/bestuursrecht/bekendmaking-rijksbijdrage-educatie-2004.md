@@ -8,7 +8,7 @@ laatste_update: 2003-10-08
 status: geldig
 toestand: 2003-10-08
 bron: "https://wetten.overheid.nl/BWBR0015614"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Bekendmaking rijksbijdrage educatie 2004

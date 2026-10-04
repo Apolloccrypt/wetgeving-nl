@@ -9,7 +9,7 @@ laatste_update: 2003-10-01
 status: geldig
 toestand: 2003-10-01
 bron: "https://wetten.overheid.nl/BWBR0015594"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 18 september 2003, houdende de van toepassingverklaring van de Wet tegemoetkoming schade bij rampen en ongevallen op de schade en kosten tengevolge van de dijkdoorbraak op 26 augustus 2003 in Wilnis

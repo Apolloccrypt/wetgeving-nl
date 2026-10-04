@@ -8,7 +8,7 @@ laatste_update: 2003-07-01
 status: geldig
 toestand: 2003-07-01
 bron: "https://wetten.overheid.nl/BWBR0015090"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregel tegemoetkoming schade bij aangewezen besmettelijke dierziekten

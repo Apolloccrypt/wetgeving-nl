@@ -9,7 +9,7 @@ laatste_update: 2003-12-01
 status: geldig
 toestand: 2003-12-01
 bron: "https://wetten.overheid.nl/BWBR0015706"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 9 oktober 2003 tot wijziging van de Wet toezicht verzekeringsbedrijf 1993 in verband met het actualiseren van de solvabiliteitseisen voor het verzekeringsbedrijf

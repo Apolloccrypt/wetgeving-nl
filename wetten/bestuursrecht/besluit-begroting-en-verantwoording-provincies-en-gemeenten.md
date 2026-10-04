@@ -9,7 +9,7 @@ laatste_update: 2025-04-17
 status: geldig
 toestand: 2025-04-17
 bron: "https://wetten.overheid.nl/BWBR0014606"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 17 januari 2003, houdende de voorschriften voor de begrotings- en verantwoordingsdocumenten, uitvoeringsinformatie en informatie voor derden van provincies en gemeenten (Besluit begroting en verantwoording provincies en gemeenten)

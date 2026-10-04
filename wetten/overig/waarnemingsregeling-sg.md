@@ -8,7 +8,7 @@ laatste_update: 2003-04-28
 status: geldig
 toestand: 2003-04-28
 bron: "https://wetten.overheid.nl/BWBR0015002"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Waarnemingsregeling SG

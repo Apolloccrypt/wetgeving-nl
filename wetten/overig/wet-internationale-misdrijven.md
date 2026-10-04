@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0015252"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 19 juni 2003, houdende regels met betrekking tot ernstige schendingen van het internationaal humanitair recht (Wet internationale misdrijven)

@@ -9,7 +9,7 @@ laatste_update: 2007-02-21
 status: geldig
 toestand: 2007-02-21
 bron: "https://wetten.overheid.nl/BWBR0015684"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Selectielijst neerslag handelingen Medisch Ethische Toetsingscommissie AZG en RuG op het beleidsterrein openbare en bijzondere academische ziekenhuizen over de periode 1985–2000

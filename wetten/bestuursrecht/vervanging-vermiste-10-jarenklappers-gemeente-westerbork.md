@@ -8,7 +8,7 @@ laatste_update: 2003-06-13
 status: geldig
 toestand: 2003-06-13
 bron: "https://wetten.overheid.nl/BWBR0015190"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Vervanging vermiste 10-jarenklappers gemeente Westerbork

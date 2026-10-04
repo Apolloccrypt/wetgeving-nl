@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052765"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregel van de Minister van Klimaat en Groene Groei van 20 juni 2026, nr. WJZ/ 107006454, houdende beleidsregels inzake de wijziging en intrekking van de vergunningen windenergie op zee voor de kavels Gamma-A en Gamma-B in windenergiegebied IJmuiden Ver (Beleidsregel wijziging en intrekking van de vergunningen windenergie op zee voor kavels Gamma-A en Gamma-B in windenergiegebied IJmuiden Ver)

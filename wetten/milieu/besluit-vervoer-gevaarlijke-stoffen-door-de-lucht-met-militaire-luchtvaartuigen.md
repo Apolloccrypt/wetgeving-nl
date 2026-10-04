@@ -9,7 +9,7 @@ laatste_update: 2021-08-19
 status: geldig
 toestand: 2021-08-19
 bron: "https://wetten.overheid.nl/BWBR0015156"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 2 juni 2003, houdende regels inzake bepaald vervoer van gevaarlijke stoffen door de lucht met militaire luchtvaartuigen (Besluit vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen)

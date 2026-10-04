@@ -9,7 +9,7 @@ laatste_update: 2003-09-21
 status: geldig
 toestand: 2003-09-21
 bron: "https://wetten.overheid.nl/BWBR0015536"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Financiën van 1 september 2003, nr. IAZ2003/709M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het archief, van het Ministerie van Financiën, Afwikkelingsbureau te Londen, 1940–1948 (Archiefregeling Departement van Financiën te Londen – later: Afwikkelingsbureau van het Agentschap van het Ministerie van Financiën te Londen)

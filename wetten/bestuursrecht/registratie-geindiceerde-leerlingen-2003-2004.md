@@ -9,7 +9,7 @@ laatste_update: 2003-06-25
 status: geldig
 toestand: 2003-06-25
 bron: "https://wetten.overheid.nl/BWBR0015231"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Registratie geïndiceerde leerlingen

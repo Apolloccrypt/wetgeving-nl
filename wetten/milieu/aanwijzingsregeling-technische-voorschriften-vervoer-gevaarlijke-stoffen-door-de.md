@@ -8,7 +8,7 @@ laatste_update: 2021-08-19
 status: geldig
 toestand: 2021-08-19
 bron: "https://wetten.overheid.nl/BWBR0014746"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Aanwijzingsregeling Technische Voorschriften vervoer gevaarlijke stoffen door de lucht met militaire luchtvaartuigen

@@ -8,7 +8,7 @@ laatste_update: 2003-09-09
 status: geldig
 toestand: 2003-09-09
 bron: "https://wetten.overheid.nl/BWBR0015556"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Rechten bij invoer, economische douaneregeling behandeling onder douanetoezicht; douanewaarde invoergoederen vermeerderd met behandelingskosten

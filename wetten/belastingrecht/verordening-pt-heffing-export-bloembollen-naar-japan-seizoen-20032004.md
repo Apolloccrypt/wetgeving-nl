@@ -9,7 +9,7 @@ laatste_update: 2005-01-15
 status: geldig
 toestand: 2005-01-15
 bron: "https://wetten.overheid.nl/BWBR0015306"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het seizoen 2003/2004 (Verordening PT heffing export bloembollen naar Japan seizoen 2003/2004)

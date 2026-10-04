@@ -8,7 +8,7 @@ laatste_update: 2007-11-25
 status: geldig
 toestand: 2007-11-25
 bron: "https://wetten.overheid.nl/BWBR0015740"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Subsidieregeling nieuwe agrarische schadeverzekeringen 2003

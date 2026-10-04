@@ -8,7 +8,7 @@ laatste_update: 2020-11-26
 status: geldig
 toestand: 2020-11-26
 bron: "https://wetten.overheid.nl/BWBR0015516"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Ministeriële regeling tarieven in strafzaken 2003

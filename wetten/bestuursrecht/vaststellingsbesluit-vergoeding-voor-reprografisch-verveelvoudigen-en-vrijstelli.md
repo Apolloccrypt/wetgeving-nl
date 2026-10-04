@@ -9,7 +9,7 @@ laatste_update: 2009-03-10
 status: geldig
 toestand: 2009-03-10
 bron: "https://wetten.overheid.nl/BWBR0014338"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 27 november 2002, houdende vaststelling van de vergoeding voor reprografisch verveelvoudigen en vaststelling van de vrijstelling van de opgaveplicht

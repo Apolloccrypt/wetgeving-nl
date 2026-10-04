@@ -9,7 +9,7 @@ laatste_update: 2003-03-01
 status: geldig
 toestand: 2003-03-01
 bron: "https://wetten.overheid.nl/BWBR0014349"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 28 november 2002 tot wijziging van Boek 8 van het Burgerlijk Wetboek met betrekking tot een hogere preferentie van havengelden en vorderingen inzake maatregelen met betrekking tot een schip die noodzakelijk waren ter waarborging van de veiligheid van de haven of van derden

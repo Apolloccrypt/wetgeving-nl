@@ -8,7 +8,7 @@ laatste_update: 2009-12-22
 status: geldig
 toestand: 2009-12-22
 bron: "https://wetten.overheid.nl/BWBR0014634"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Instellingsbesluit Projectorganisatie Ruimte voor de Rivier

@@ -8,7 +8,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0015696"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Inkomstenbelasting, lijfrenten, pensioenaangroei voor belastingplichtigen die een Belgisch rustpensioen opbouwen

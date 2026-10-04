@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0046550"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 1 april 2022, kenmerk 3345756-1027149-WJZ, houdende de vaststelling van beleidsregels inzake gunstbetoon als bedoeld in artikel 6 van de Wet medische hulpmiddelen (Beleidsregels gunstbetoon Wet medische hulpmiddelen)

@@ -8,7 +8,7 @@ laatste_update: 2003-10-18
 status: geldig
 toestand: 2003-10-18
 bron: "https://wetten.overheid.nl/BWBR0015700"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Instellingsbesluit Commissie Geschillen Aandelenlease

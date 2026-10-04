@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0014738"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Rijkswet van 24 februari 2003, houdende regels met betrekking tot het geweldgebruik bij de bewaking van militaire objecten (Rijkswet geweldgebruik bewakers militaire objecten)

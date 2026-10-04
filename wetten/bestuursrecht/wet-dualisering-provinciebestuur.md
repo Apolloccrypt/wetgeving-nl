@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0014602"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 16 januari 2003 tot wijziging van de Provinciewet en enige andere wetten tot dualisering van de inrichting, de bevoegdheden en de werkwijze van het provinciebestuur (Wet dualisering provinciebestuur)

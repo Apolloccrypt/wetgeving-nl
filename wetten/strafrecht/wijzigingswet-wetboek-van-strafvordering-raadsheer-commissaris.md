@@ -9,7 +9,7 @@ laatste_update: 2003-07-01
 status: geldig
 toestand: 2003-07-01
 bron: "https://wetten.overheid.nl/BWBR0014912"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 3 april 2003 tot wijziging van het Wetboek van Strafvordering in verband met de invoering van de raadsheer-commissaris en enige andere onderwerpen (raadsheer-commissaris)

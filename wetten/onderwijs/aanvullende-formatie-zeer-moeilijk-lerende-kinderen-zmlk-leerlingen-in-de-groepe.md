@@ -8,7 +8,7 @@ laatste_update: 2003-08-01
 status: geldig
 toestand: 2003-08-01
 bron: "https://wetten.overheid.nl/BWBR0015142"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Aanvullende formatie zeer moeilijk lerende kinderen (zmlk-leerlingen) in de groepen drie tot en met acht van de basisschool

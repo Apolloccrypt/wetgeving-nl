@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0014831"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 20 maart 2003 tot uitvoering van artikel 13, tweede lid, van de Rijkswet op het Nederlanderschap (Besluit bericht omtrent toelating)

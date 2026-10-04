@@ -8,7 +8,7 @@ laatste_update: 2003-08-01
 status: geldig
 toestand: 2003-08-01
 bron: "https://wetten.overheid.nl/BWBR0015258"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Vaststelling vergoeding voorzitter en leden programmacommissie van onderzoeksprogramma MVO

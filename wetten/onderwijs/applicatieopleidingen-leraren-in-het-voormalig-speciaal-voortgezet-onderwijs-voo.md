@@ -8,7 +8,7 @@ laatste_update: 2003-06-11
 status: geldig
 toestand: 2003-06-11
 bron: "https://wetten.overheid.nl/BWBR0015102"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Applicatieopleidingen leraren in het voormalig speciaal voortgezet onderwijs voor leer en opvoedingsmoeilijkheden (svo/lom) en moeilijk lerende kinderen (svo/lmk)

@@ -9,7 +9,7 @@ laatste_update: 2004-07-11
 status: geldig
 toestand: 2004-07-11
 bron: "https://wetten.overheid.nl/BWBR0015645"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 september 2003, nr. MJZ2003096265, Centrale Directie Juridische Zaken, Afdeling Wetgeving, houdende intrekking van de Tijdelijke regeling energiepremies 2003 en vaststelling van de daarmee verbonden overgangsbepalingen (Regeling intrekking en overgangsbepalingen Tijdelijke regeling energiepremies 2003)

@@ -9,7 +9,7 @@ laatste_update: 2005-03-01
 status: geldig
 toestand: 2005-03-01
 bron: "https://wetten.overheid.nl/BWBR0014020"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 12 september 2002 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek onder meer ter uitvoering van in de nota «Zicht op kwaliteit» aangekondigde maatregelen

@@ -9,7 +9,7 @@ laatste_update: 2003-03-12
 status: geldig
 toestand: 2003-03-12
 bron: "https://wetten.overheid.nl/BWBR0014785"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat tot het geven van de bestemming van openbare weg aan de wegen door de Westerscheldetunnel en aan de aansluitende wegen

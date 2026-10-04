@@ -9,7 +9,7 @@ laatste_update: 2002-12-01
 status: geldig
 toestand: 2002-12-01
 bron: "https://wetten.overheid.nl/BWBR0014018"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 12 september 2002 tot wijziging van de Invorderingswet 1990 (Herziening procesrecht inzake aansprakelijkstelling)

@@ -9,7 +9,7 @@ laatste_update: 2003-08-27
 status: geldig
 toestand: 2003-08-27
 bron: "https://wetten.overheid.nl/BWBR0015456"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 11 augustus 2003, houdende wijziging van het Besluit draagkracht vervolgden en het Besluit draagkracht burger-oorlogsslachtoffers tot wijziging van de berekening van de financiële draagkracht

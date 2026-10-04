@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0015042"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Ministeriële regeling van 7 mei 2003, afdeling pensioenen en sociale zekerheid, nr. P/2003002682

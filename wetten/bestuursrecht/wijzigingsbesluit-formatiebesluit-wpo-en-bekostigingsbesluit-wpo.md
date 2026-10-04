@@ -9,7 +9,7 @@ laatste_update: 2003-10-24
 status: geldig
 toestand: 2003-10-24
 bron: "https://wetten.overheid.nl/BWBR0015324"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 2 juli 2003, houdende wijziging van het Formatiebesluit WPO en het Bekostigingsbesluit WPO onder meer in verband met afschaffing van de bestedingsverplichting ten aanzien van de formatie ten behoeve van het onderwijs aan leerlingen van 4 tot en met 7 jaar

@@ -9,7 +9,7 @@ laatste_update: 2003-02-26
 status: geldig
 toestand: 2003-02-26
 bron: "https://wetten.overheid.nl/BWBR0014647"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 30 januari 2003 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met versnelde invoering toets nieuwe opleiding

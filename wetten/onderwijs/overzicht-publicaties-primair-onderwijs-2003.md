@@ -8,7 +8,7 @@ laatste_update: 2003-02-19
 status: geldig
 toestand: 2003-02-19
 bron: "https://wetten.overheid.nl/BWBR0014688"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Overzicht publicaties primair onderwijs 2003

@@ -9,7 +9,7 @@ laatste_update: 2024-06-22
 status: geldig
 toestand: 2024-06-22
 bron: "https://wetten.overheid.nl/BWBR0014439"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 11 december 2002, houdende regels inzake beschikbaarstelling van politieambtenaren ten behoeve van de inzet in het kader van vredesmissies

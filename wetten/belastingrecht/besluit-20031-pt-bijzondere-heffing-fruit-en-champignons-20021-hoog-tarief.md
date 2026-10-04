@@ -9,7 +9,7 @@ laatste_update: 2003-03-01
 status: geldig
 toestand: 2003-03-01
 bron: "https://wetten.overheid.nl/BWBR0014724"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 18 februari 2003, houdende de vaststelling van de bedragen van de bestemmingsheffing ten behoeve van de teelt van fruit en champignons voor het jaar 2002 (Besluit 2003/1 PT bijzondere heffing fruit en champignons 2002/1 (hoog tarief))

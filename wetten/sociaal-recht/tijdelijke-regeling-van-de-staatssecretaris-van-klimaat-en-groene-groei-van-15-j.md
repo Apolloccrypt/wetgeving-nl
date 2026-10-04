@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052928"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Tijdelijke regeling van de Staatssecretaris van Klimaat en Groene Groei van 15 juli 2026, nr. WJZ/103913058, houdende regels voor het verstrekken van een eenmalige specifieke uitkering voor gebiedsinvesteringen bij hoogspanningsprojecten op land (Regeling gebiedsinvesteringen hoogspanning op land 220/380 kV) [KetenID WGK28734]

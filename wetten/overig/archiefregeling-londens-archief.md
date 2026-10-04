@@ -9,7 +9,7 @@ laatste_update: 2003-04-18
 status: geldig
 toestand: 2003-04-18
 bron: "https://wetten.overheid.nl/BWBR0014977"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 15 april 2003, nr. DDI/ST/reg1/2003, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het archief, van het Ministerie van Buitenlandse Zaken in ballingschap te Londen, (`Londens Archief'), (1936) 1940-1945 (1958).

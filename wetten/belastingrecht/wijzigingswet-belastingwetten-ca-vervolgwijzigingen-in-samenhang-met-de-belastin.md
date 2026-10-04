@@ -9,7 +9,7 @@ laatste_update: 2006-05-01
 status: geldig
 toestand: 2006-05-01
 bron: "https://wetten.overheid.nl/BWBR0014440"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 11 december 2002, houdende wijziging van belastingwetten c.a. (Vervolgwijzigingen in samenhang met de Belastingherziening 2001)

@@ -9,7 +9,7 @@ laatste_update: 2002-11-13
 status: geldig
 toestand: 2002-11-13
 bron: "https://wetten.overheid.nl/BWBR0014167"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 31 oktober 2002 tot wijziging van de Beroepswet in verband met het openstellen van hoger beroep bij de Centrale Raad van Beroep tegen uitspraken omtrent besluiten van de Stichting Maror-gelden Overheid, de Stichting Joods Humanitair Fonds, de Stichting Rechtsherstel Sinti en Roma en de Stichting Het Gebaar

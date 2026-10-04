@@ -8,7 +8,7 @@ laatste_update: 2003-10-09
 status: geldig
 toestand: 2003-10-09
 bron: "https://wetten.overheid.nl/BWBR0015460"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling tarief rechten voor het legaliseren handtekeningen

@@ -8,7 +8,7 @@ laatste_update: 2003-10-22
 status: geldig
 toestand: 2003-10-22
 bron: "https://wetten.overheid.nl/BWBR0015647"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling tegemoetkoming schade bij dijkdoorbraak te Wilnis 2003

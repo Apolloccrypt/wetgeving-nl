@@ -9,7 +9,7 @@ laatste_update: 2003-03-29
 status: geldig
 toestand: 2003-03-29
 bron: "https://wetten.overheid.nl/BWBR0014832"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 20 maart 2003, houdende vaststelling van de bestanddelen van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2003 worden uitgegeven ter gelegenheid van het 150ste geboortejaar van Vincent van Gogh

@@ -9,7 +9,7 @@ laatste_update: 2004-07-01
 status: geldig
 toestand: 2004-07-01
 bron: "https://wetten.overheid.nl/BWBR0014450"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 12 december 2002 tot wijziging van het Besluit tankstations milieubeheer, het Besluit verplicht bodemonderzoek bedrijfsterreinen en het Besluit opslaan in ondergrondse tanks 1998 (financiële zekerheid, keuringsdocumenten en bevoegdgezagorganen)

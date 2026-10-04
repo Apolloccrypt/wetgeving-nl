@@ -9,7 +9,7 @@ laatste_update: 2023-11-10
 status: geldig
 toestand: 2023-11-10
 bron: "https://wetten.overheid.nl/BWBR0015471"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 14 augustus 2003 tot het stellen van regels betreffende de veiligheid van tatoeagekleurstoffen (Warenwetbesluit tatoeagekleurstoffen)

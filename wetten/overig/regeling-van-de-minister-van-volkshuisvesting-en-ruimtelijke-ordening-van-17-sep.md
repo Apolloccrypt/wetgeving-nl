@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0053131"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 17 september 2026, nr. 2026-0000484589, houdende regels met betrekking tot de stimulering van aardgasvrije huurwoningen (Stimuleringsregeling aardgasvrije huurwoningen 2026) [KetenID WGK 029012]

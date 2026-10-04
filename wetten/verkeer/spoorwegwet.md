@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0015007"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 23 april 2003, houdende nieuwe algemene regels over de aanleg, het beheer, de toegankelijkheid en het gebruik van spoorwegen alsmede over het verkeer over spoorwegen (Spoorwegwet)

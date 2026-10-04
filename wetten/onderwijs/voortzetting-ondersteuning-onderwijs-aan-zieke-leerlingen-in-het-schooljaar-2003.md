@@ -8,7 +8,7 @@ laatste_update: 2003-04-23
 status: geldig
 toestand: 2003-04-23
 bron: "https://wetten.overheid.nl/BWBR0014940"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Voortzetting ondersteuning onderwijs aan zieke leerlingen in het schooljaar 2003-2004

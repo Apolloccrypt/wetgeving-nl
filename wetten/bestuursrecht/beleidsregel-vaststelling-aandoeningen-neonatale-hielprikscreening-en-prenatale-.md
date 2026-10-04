@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-30
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0048263"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregel Vaststelling aandoeningen Neonatale hielprikscreening en Prenatale screening Infectieziekten en Erytrocytenimmunisatie 2023

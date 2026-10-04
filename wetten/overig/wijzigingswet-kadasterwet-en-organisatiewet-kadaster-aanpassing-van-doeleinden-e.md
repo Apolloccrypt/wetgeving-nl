@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0015705"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 9 oktober 2003 tot wijziging van de Kadasterwet en de Organisatiewet Kadaster (aanpassing van doeleinden en taken van de Dienst voor het kadaster en de openbare registers alsmede enkele andere wijzigingen)

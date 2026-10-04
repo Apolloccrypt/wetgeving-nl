@@ -9,7 +9,7 @@ laatste_update: 2003-12-01
 status: geldig
 toestand: 2003-12-01
 bron: "https://wetten.overheid.nl/BWBR0015676"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 2 oktober 2003 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren in verband met onder meer de formalisering van de Arbeidsvoorwaardenovereenkomsten 2000–2001, 2001–2002 en 2002–2003 sector Rechterlijke Macht

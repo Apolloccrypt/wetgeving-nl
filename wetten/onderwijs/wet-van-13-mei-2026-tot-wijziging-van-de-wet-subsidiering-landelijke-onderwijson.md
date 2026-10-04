@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052650"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-04
 ---
 
 # Wet van 13 mei 2026 tot wijziging van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013 en enige andere onderwijswetten in verband met de landelijke borging van de uitvoering van ondersteuning van scholen en instellingen bij het onderwijs aan zieke leerlingen (Wet onderwijsondersteuning zieke leerlingen)

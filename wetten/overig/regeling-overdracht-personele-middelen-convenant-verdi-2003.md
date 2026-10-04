@@ -9,7 +9,7 @@ laatste_update: 2004-01-30
 status: geldig
 toestand: 2004-01-30
 bron: "https://wetten.overheid.nl/BWBR0015093"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat, houdende het verlenen van subsidie aan de samenwerkingsgebieden en aan de Vereniging Nederlandse Gemeenten ten behoeve van de personele en bestuurslasten die voortvloeien uit het convenant VERDI voor het jaar 2003 (Regeling overdracht personele middelen convenant VERDI 2003)

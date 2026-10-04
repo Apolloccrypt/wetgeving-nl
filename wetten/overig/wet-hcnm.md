@@ -9,7 +9,7 @@ laatste_update: 2003-01-01
 status: geldig
 toestand: 2003-01-01
 bron: "https://wetten.overheid.nl/BWBR0014169"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 31 oktober 2002, houdende bepalingen inzake rechtspersoonlijkheid, privileges en immuniteiten van de Hoge Commissaris inzake Nationale Minderheden (Wet HCNM)

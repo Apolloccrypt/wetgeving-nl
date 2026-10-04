@@ -9,7 +9,7 @@ laatste_update: 2003-03-16
 status: geldig
 toestand: 2003-03-16
 bron: "https://wetten.overheid.nl/BWBR0014763"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van 28 februari 2003 houdende regels inzake aan boord van een luchtvaartuig brengen van gevaarlijke stoffen door passagiers of leden van het boordpersoneel

@@ -9,7 +9,7 @@ laatste_update: 2015-08-17
 status: geldig
 toestand: 2015-08-17
 bron: "https://wetten.overheid.nl/BWBR0014438"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 11 december 2002, houdende regelen betreffende de inrichting en raadpleging van het boedelregister, bedoeld in artikel 186 van Boek 4 van het Burgerlijk Wetboek (Besluit boedelregister)

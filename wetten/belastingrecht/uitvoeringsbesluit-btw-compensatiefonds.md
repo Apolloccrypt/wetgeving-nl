@@ -9,7 +9,7 @@ laatste_update: 2010-05-13
 status: geldig
 toestand: 2010-05-13
 bron: "https://wetten.overheid.nl/BWBR0014660"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 5 februari 2003 tot vaststelling van het Uitvoeringsbesluit BTW-compensatiefonds

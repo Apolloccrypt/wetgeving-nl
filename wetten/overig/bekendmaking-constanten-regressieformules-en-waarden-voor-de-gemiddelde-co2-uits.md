@@ -8,7 +8,7 @@ laatste_update: 2003-09-05
 status: geldig
 toestand: 2003-09-05
 bron: "https://wetten.overheid.nl/BWBR0015533"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Bekendmaking constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto's

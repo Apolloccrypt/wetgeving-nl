@@ -9,7 +9,7 @@ laatste_update: 2003-02-27
 status: geldig
 toestand: 2003-02-27
 bron: "https://wetten.overheid.nl/BWBR0014739"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling van 24 februari 2003, betreffende uitvoering van de Kimberleyprocescertificering ten aanzien van ruwe diamant

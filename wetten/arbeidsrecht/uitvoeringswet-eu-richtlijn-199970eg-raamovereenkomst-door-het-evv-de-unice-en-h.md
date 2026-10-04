@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0014195"
-opgehaald: 2026-08-06
+opgehaald: 2026-10-04
 ---
 
 # Wet van 7 november 2002 tot uitvoering van de richtlijn 1999/70/EG van de Raad van de Europese Unie van 28 juni 1999 betreffende de door het EVV, de UNICE en het CEEP gesloten raamovereenkomst inzake arbeidsovereenkomsten voor bepaalde tijd

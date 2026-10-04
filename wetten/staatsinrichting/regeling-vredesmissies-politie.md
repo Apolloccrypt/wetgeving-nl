@@ -8,7 +8,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0014687"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Regeling vredesmissies politie

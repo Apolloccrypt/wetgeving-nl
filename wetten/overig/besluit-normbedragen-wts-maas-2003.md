@@ -8,7 +8,7 @@ laatste_update: 2003-11-06
 status: geldig
 toestand: 2003-11-06
 bron: "https://wetten.overheid.nl/BWBR0015459"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit normbedragen WTS – Maas 2003

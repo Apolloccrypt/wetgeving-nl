@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0015050"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Rijkswet van 8 mei 2003, houdende regeling van cassatie in Antilliaanse en Arubaanse uitleveringszaken (Cassatieregeling in uitleveringszaken voor de Nederlandse Antillen en Aruba)

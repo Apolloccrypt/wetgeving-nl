@@ -8,7 +8,7 @@ laatste_update: 2005-12-21
 status: geldig
 toestand: 2005-12-21
 bron: "https://wetten.overheid.nl/BWBR0015184"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Beleidsregels vorm- en herkenbaarheidsvereisten reïntegratieverslagen

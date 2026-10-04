@@ -9,7 +9,7 @@ laatste_update: 2003-08-20
 status: geldig
 toestand: 2003-08-20
 bron: "https://wetten.overheid.nl/BWBR0015397"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 17 juli 2003, houdende wijziging van het Warenwetbesluit Etikettering van levensmiddelen in verband met toevoeging van de categorie vlees aan bijlage I

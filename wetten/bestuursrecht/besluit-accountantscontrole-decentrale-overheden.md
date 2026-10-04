@@ -9,7 +9,7 @@ laatste_update: 2025-04-17
 status: geldig
 toestand: 2025-04-17
 bron: "https://wetten.overheid.nl/BWBR0015524"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 28 augustus 2003, houdende nadere voorschriften reikwijdte en rapportering accountantscontrole provincies en gemeenten (Besluit accountantscontrole provincies en gemeenten)

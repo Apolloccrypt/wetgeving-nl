@@ -9,7 +9,7 @@ laatste_update: 2004-12-25
 status: geldig
 toestand: 2004-12-25
 bron: "https://wetten.overheid.nl/BWBR0015320"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2003, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan en Taiwan exporteren, op te leggen heffing voor het jaar 2004 (Verordening PT heffing export groenten en fruit Japan en Taiwan 2004)

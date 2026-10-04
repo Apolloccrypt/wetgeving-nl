@@ -9,7 +9,7 @@ laatste_update: 2003-04-18
 status: geldig
 toestand: 2003-04-18
 bron: "https://wetten.overheid.nl/BWBR0014681"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 6 februari 2003 tot aanpassing van de Tabakswet aan richtlijn nr. 2001/37/EG van het Europees Parlement en de Raad van de Europese Unie van 5 juni 2001 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de productie, de presentatie en de verkoop van tabaksproducten (PbEG L 194)

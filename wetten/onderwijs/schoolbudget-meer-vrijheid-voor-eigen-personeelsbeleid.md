@@ -8,7 +8,7 @@ laatste_update: 2003-05-21
 status: geldig
 toestand: 2003-05-21
 bron: "https://wetten.overheid.nl/BWBR0014941"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Schoolbudget, meer vrijheid voor eigen personeelsbeleid

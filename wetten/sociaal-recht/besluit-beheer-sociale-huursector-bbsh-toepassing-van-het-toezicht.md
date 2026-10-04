@@ -8,7 +8,7 @@ laatste_update: 2002-12-24
 status: geldig
 toestand: 2002-12-24
 bron: "https://wetten.overheid.nl/BWBR0014528"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit beheer sociale-huursector (BBSH). Toepassing van het toezicht

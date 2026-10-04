@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0015455"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Besluit van 11 augustus 2003, houdende bepaling van de gegevens en bescheiden als bedoeld in artikel 2, eerste lid, onderscheidenlijk artikel 3, achtste lid, van de Wet donorgegevens kunstmatige bevruchting (Besluit donorgegevens kunstmatige bevruchting)

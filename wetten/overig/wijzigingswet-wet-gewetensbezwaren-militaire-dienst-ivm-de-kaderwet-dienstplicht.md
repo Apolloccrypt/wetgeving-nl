@@ -9,7 +9,7 @@ laatste_update: 2003-09-01
 status: geldig
 toestand: 2003-09-01
 bron: "https://wetten.overheid.nl/BWBR0015111"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-04
 ---
 
 # Wet van 22 mei 2003 tot wijziging van de Wet gewetensbezwaren militaire dienst in verband met de Kaderwet dienstplicht
