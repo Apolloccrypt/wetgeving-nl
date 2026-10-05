@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0015905"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 november 2003, GMT/MT 2425283, houdende aanwijzing douane-ambtenaren belast met het toezicht op de naleving van de Wet inzake bloedvoorziening

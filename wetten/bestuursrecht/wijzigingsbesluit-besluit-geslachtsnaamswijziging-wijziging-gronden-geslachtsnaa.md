@@ -9,7 +9,7 @@ laatste_update: 2004-04-01
 status: geldig
 toestand: 2004-04-01
 bron: "https://wetten.overheid.nl/BWBR0016422"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 21 februari 2004, houdende wijziging van het Besluit geslachtsnaamswijziging in verband met wijziging gronden geslachtsnaamswijziging voor minderjarigen

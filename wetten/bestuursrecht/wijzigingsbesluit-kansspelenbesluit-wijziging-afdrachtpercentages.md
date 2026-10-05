@@ -9,7 +9,7 @@ laatste_update: 2004-09-01
 status: geldig
 toestand: 2004-09-01
 bron: "https://wetten.overheid.nl/BWBR0017064"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 22 juli 2004 tot wijziging van het Kansspelenbesluit in verband met de wijziging van de afdrachtpercentages

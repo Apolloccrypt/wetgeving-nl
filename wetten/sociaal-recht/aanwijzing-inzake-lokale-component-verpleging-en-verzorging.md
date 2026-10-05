@@ -8,7 +8,7 @@ laatste_update: 2004-06-23
 status: geldig
 toestand: 2004-06-23
 bron: "https://wetten.overheid.nl/BWBR0016874"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Aanwijzing inzake lokale component verpleging en verzorging

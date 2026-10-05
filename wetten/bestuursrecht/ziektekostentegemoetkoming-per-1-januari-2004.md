@@ -8,7 +8,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0016257"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Ziektekostentegemoetkoming per 1 januari 2004

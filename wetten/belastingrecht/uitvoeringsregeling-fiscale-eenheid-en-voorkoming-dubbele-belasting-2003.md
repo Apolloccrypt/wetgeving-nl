@@ -8,7 +8,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0016980"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003

@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0017085"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 9 augustus 2004, houdende regels met betrekking tot de toelage op het salaris voor de voorzitter van het College van procureurs-generaal

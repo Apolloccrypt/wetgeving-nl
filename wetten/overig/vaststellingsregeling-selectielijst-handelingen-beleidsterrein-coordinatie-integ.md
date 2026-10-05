@@ -8,7 +8,7 @@ laatste_update: 2004-04-10
 status: geldig
 toestand: 2004-04-10
 bron: "https://wetten.overheid.nl/BWBR0015757"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Vaststellingsregeling selectielijst handelingen beleidsterrein Coördinatie Integratiebeleid Minderheden over de periode 1978–1999, Financiën

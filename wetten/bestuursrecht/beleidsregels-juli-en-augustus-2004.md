@@ -8,7 +8,7 @@ laatste_update: 2004-09-15
 status: geldig
 toestand: 2004-09-15
 bron: "https://wetten.overheid.nl/BWBR0017174"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Beleidsregels juli en augustus 2004

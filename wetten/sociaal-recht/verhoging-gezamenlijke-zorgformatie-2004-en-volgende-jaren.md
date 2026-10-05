@@ -8,7 +8,7 @@ laatste_update: 2004-02-25
 status: geldig
 toestand: 2004-02-25
 bron: "https://wetten.overheid.nl/BWBR0016380"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Verhoging gezamenlijke zorgformatie 2004 en volgende jaren

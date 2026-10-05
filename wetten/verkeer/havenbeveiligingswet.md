@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0016991"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 6 juli 2004 tot uitvoering van Verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129), alsook van andere besluiten van volkenrechtelijke organisaties met betrekking tot de beveiliging van havens (Havenbeveiligingswet)

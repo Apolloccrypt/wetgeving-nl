@@ -9,7 +9,7 @@ laatste_update: 2026-09-25
 status: geldig
 toestand: 2026-09-25
 bron: "https://wetten.overheid.nl/BWBR0011825"
-opgehaald: 2026-10-04
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 23 november 2000 tot uitvoering van de Vreemdelingenwet 2000 (Vreemdelingenbesluit 2000)

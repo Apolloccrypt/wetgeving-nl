@@ -9,7 +9,7 @@ laatste_update: 2004-02-15
 status: geldig
 toestand: 2004-02-15
 bron: "https://wetten.overheid.nl/BWBR0016364"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 5 februari 2004, nr. ABG/GA/2004/2684 tot wijziging van de Tijdelijke stimuleringsregeling regulier maken 10.000 ID-banen en de Tijdelijke aanvullende stimuleringsregeling regulier maken 10.000 ID-banen in verband met de verlenging van de termijn waarop aanvragen voor subsidie kunnen worden ingediend

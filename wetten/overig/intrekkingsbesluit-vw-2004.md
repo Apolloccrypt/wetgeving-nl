@@ -9,7 +9,7 @@ laatste_update: 2004-05-01
 status: geldig
 toestand: 2004-05-01
 bron: "https://wetten.overheid.nl/BWBR0016425"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit tot intrekking van diverse besluiten op het terrein van het Ministerie van Verkeer en Waterstaat in verband met het feit dat zij hun betekenis hebben verloren

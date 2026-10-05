@@ -9,7 +9,7 @@ laatste_update: 2004-04-24
 status: geldig
 toestand: 2004-04-24
 bron: "https://wetten.overheid.nl/BWBR0016614"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van 14 april 2004, nr. DJZ/BR/0185-04, tot wijziging van de subsidieregeling Ministerie van Buitenlandse Zaken met betrekking tot subsidiëring van thematische organisaties voor ontwikkelingssamenwerking (Thematische medefinanciering)

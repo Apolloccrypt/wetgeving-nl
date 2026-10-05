@@ -9,7 +9,7 @@ laatste_update: 2021-03-27
 status: geldig
 toestand: 2021-03-27
 bron: "https://wetten.overheid.nl/BWBR0017139"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 augustus 2004, Directie Sociale Verzekeringen, nr. 04/57292, houdende vaststelling van regels over de noodzakelijke opleiding of scholing bedoeld in artikel 76 Werkloosheidswet (Scholingsregeling WW)

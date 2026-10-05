@@ -8,7 +8,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0016372"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling vissersvaartuigen

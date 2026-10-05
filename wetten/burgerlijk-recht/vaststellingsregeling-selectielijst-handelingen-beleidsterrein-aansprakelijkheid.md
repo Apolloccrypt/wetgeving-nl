@@ -8,7 +8,7 @@ laatste_update: 2004-06-06
 status: geldig
 toestand: 2004-06-06
 bron: "https://wetten.overheid.nl/BWBR0016552"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Vaststellingsregeling selectielijst handelingen beleidsterrein Aansprakelijkheidsverzekering motorrijtuigen over de periode 1964–2000, OCW en Financiën

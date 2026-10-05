@@ -9,7 +9,7 @@ laatste_update: 2005-02-27
 status: geldig
 toestand: 2005-02-27
 bron: "https://wetten.overheid.nl/BWBR0017257"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 28 September 2004, houdende de vaststelling van de tarieven genoemd in de Verordening PT heffing export bloembollen naar Japan seizoen 2003/2004 (Besluit PT heffing export bloembollen naar Japan seizoen 2003/2004)

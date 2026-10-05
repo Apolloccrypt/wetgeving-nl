@@ -8,7 +8,7 @@ laatste_update: 2004-07-07
 status: geldig
 toestand: 2004-07-07
 bron: "https://wetten.overheid.nl/BWBR0016914"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Stappenplan bij het zoeken naar nieuw werk voor oalt-personeelsleden

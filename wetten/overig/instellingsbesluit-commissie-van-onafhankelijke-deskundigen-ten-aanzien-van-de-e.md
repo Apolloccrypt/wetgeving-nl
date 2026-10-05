@@ -8,7 +8,7 @@ laatste_update: 2004-03-14
 status: geldig
 toestand: 2004-03-14
 bron: "https://wetten.overheid.nl/BWBR0016464"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Instellingsbesluit Commissie van Onafhankelijke Deskundigen ten aanzien van de Evaluatie van het Bronbeleid Geluid Spoor

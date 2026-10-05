@@ -9,7 +9,7 @@ laatste_update: 2016-12-28
 status: geldig
 toestand: 2016-12-28
 bron: "https://wetten.overheid.nl/BWBR0016707"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Economische Zaken van 10 mei 2004, nr. WJZ 4028840, houdende regels inzake breedbeeldtelevisiediensten en normen digitale consumentenapparaten (Regeling breedbeeldtelevisiediensten en normen digitale consumentenapparaten)

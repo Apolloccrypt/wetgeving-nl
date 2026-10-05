@@ -9,7 +9,7 @@ laatste_update: 2003-06-01
 status: geldig
 toestand: 2003-06-01
 bron: "https://wetten.overheid.nl/BWBR0015986"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 2 december 2003, houdende de vaststelling van aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2003 (Verordening PT vakheffing bloembollen plantgoed oogstjaar 2003)

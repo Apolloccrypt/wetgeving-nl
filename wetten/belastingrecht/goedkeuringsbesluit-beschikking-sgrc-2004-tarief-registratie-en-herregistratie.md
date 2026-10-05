@@ -9,7 +9,7 @@ laatste_update: 2004-04-22
 status: geldig
 toestand: 2004-04-22
 bron: "https://wetten.overheid.nl/BWBR0016642"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 april 2004, IBE/BO-2473567, houdende de goedkeuring van de beschikking SGRC 2004 betreffende het tarief registratie en herregistratie

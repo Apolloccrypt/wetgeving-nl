@@ -8,7 +8,7 @@ laatste_update: 2018-10-01
 status: geldig
 toestand: 2018-10-01
 bron: "https://wetten.overheid.nl/BWBR0016667"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Klachtenregeling politietaken Koninklijke Marechaussee/krijgsmacht 2004

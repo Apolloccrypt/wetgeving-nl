@@ -8,7 +8,7 @@ laatste_update: 2026-09-25
 status: geldig
 toestand: 2026-09-25
 bron: "https://wetten.overheid.nl/BWBR0027122"
-opgehaald: 2026-10-04
+opgehaald: 2026-10-05
 ---
 
 # Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0016301"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende regels inzake luchtvaartvertoningen (Regeling luchtvaartvertoningen)

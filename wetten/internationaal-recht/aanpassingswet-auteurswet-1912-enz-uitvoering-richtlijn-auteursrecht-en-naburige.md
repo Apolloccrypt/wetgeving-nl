@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0016987"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 6 juli 2004 tot aanpassing van de Auteurswet 1912, de Wet op de naburige rechten en de Databankenwet ter uitvoering van richtlijn nr. 2001/29/EG van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2001 betreffende de harmonisatie van bepaalde aspecten van het auteursrecht en de naburige rechten in de informatiemaatschappij (PbEG L 167) (Uitvoering richtlijn auteursrecht en naburige rechten in de informatiemaatschappij)

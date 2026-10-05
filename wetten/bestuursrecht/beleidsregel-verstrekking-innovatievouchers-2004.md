@@ -9,7 +9,7 @@ laatste_update: 2004-09-17
 status: geldig
 toestand: 2004-09-17
 bron: "https://wetten.overheid.nl/BWBR0017163"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Beleidsregel van de Minister van Economische Zaken van 5 september 2004, nr. WJZ 4055851, omtrent de uitvoering van de artikelen 1 en 2 van de Subsidieregeling pilot innovatievouchers 2004 (Beleidsregel verstrekking innovatievouchers 2004)

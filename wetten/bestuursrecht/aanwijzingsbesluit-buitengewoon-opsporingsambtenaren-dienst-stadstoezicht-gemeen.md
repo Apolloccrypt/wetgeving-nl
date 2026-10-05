@@ -9,7 +9,7 @@ laatste_update: 2003-12-31
 status: geldig
 toestand: 2003-12-31
 bron: "https://wetten.overheid.nl/BWBR0016147"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Justitie van 16 december 2003, kenmerk 5260247/DBZ/03, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de dienst Stadstoezicht van de gemeente Rotterdam

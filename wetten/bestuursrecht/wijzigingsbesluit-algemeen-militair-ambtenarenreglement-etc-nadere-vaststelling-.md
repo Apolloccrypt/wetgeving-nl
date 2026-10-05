@@ -9,7 +9,7 @@ laatste_update: 2003-12-10
 status: geldig
 toestand: 2003-12-10
 bron: "https://wetten.overheid.nl/BWBR0015814"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 29 oktober 2003 tot wijziging van het Algemeen militair ambtenarenreglement in het kader van de nadere vaststelling van overgangsbeleid in verband met de afschaffing van de blokbevordering van de korporaals van de Koninklijke Marine, van het Inkomstenbesluit militairen in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Rijk over de periode van 1 december 2002 tot en met 31 december 2003 en van enige besluiten in verband met technische wijzigingen

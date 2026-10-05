@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0016206"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 18 december 2003, houdende wijziging van enkele belastingwetten c.a. (Belastingplan 2004)

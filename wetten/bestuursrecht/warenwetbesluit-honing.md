@@ -9,7 +9,7 @@ laatste_update: 2026-06-14
 status: geldig
 toestand: 2026-06-14
 bron: "https://wetten.overheid.nl/BWBR0015923"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 20 november 2003, houdende regels voor honing (Warenwetbesluit honing)

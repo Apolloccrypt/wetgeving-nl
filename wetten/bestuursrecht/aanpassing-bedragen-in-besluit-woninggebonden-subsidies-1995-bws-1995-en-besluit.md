@@ -8,7 +8,7 @@ laatste_update: 2004-06-29
 status: geldig
 toestand: 2004-06-29
 bron: "https://wetten.overheid.nl/BWBR0016884"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Aanpassing bedragen in Besluit woninggebonden subsidies 1995 (BWS 1995) en Besluit locatiegebonden subsidies (BLS)

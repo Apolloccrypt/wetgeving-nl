@@ -9,7 +9,7 @@ laatste_update: 2004-07-28
 status: geldig
 toestand: 2004-07-28
 bron: "https://wetten.overheid.nl/BWBR0016865"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 11 juni 2004 tot wijziging van het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen (uitvoering Euratom-richtlijn basisnormen)

@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0015982"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Financiën van 2 december 2003, FEZ-U-2432028, houdende instelling van de baten–lastendienst Rijksinstituut voor Volksgezondheid en Milieu

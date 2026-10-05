@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0016211"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 18 december 2003 tot wijziging van de Wet inkomstenbelasting 2001 mede naar aanleiding van het Belastingplan 2004

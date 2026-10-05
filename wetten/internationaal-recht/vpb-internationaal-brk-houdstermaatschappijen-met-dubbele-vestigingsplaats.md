@@ -8,7 +8,7 @@ laatste_update: 2004-05-03
 status: geldig
 toestand: 2004-05-03
 bron: "https://wetten.overheid.nl/BWBR0016672"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # VPB, internationaal, BRK, houdstermaatschappijen met dubbele vestigingsplaats

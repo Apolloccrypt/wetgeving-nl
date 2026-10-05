@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0017265"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 30 september 2004 tot wijziging van de Wet milieubeheer en enige andere wetten ten behoeve van de implementatie van richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU L 275) en de instelling van een emissieautoriteit (Implementatiewet EG-richtlijn handel in broeikasgasemissierechten)

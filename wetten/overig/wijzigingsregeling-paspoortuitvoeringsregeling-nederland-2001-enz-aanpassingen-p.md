@@ -9,7 +9,7 @@ laatste_update: 2004-06-15
 status: geldig
 toestand: 2004-06-15
 bron: "https://wetten.overheid.nl/BWBR0016771"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, houdende wijziging van de Paspoortuitvoeringsregeling Nederland 2001, de Paspoortuitvoeringsregeling Buitenland 2001 en de Paspoortuitvoeringsregeling Koninklijke Marechaussee 2001

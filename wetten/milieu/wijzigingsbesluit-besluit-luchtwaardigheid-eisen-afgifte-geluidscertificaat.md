@@ -9,7 +9,7 @@ laatste_update: 2005-05-01
 status: geldig
 toestand: 2005-05-01
 bron: "https://wetten.overheid.nl/BWBR0016562"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 29 maart 2004, houdende wijziging van het Besluit luchtwaardigheid in verband met eisen voor de afgifte van een geluidscertificaat

@@ -8,7 +8,7 @@ laatste_update: 2026-09-25
 status: geldig
 toestand: 2026-09-25
 bron: "https://wetten.overheid.nl/BWBR0026494"
-opgehaald: 2026-10-04
+opgehaald: 2026-10-05
 ---
 
 # Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten

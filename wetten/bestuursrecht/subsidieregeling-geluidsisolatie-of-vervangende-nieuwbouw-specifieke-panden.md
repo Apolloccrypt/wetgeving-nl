@@ -9,7 +9,7 @@ laatste_update: 2004-04-15
 status: geldig
 toestand: 2004-04-15
 bron: "https://wetten.overheid.nl/BWBR0016575"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende voorschriften met betrekking tot het verstrekken van subsidie aan eigenaren van kenmerkende woningen in het beperkingengebied van de luchthaven Schiphol, met het oog op het aanbrengen van geluidwerende voorzieningen dan wel het doen vervangen door nieuwbouw (Subsidieregeling geluidsisolatie of vervangende nieuwbouw specifieke panden)

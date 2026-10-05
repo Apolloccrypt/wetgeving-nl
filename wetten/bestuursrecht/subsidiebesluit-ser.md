@@ -9,7 +9,7 @@ laatste_update: 2004-01-18
 status: geldig
 toestand: 2004-01-18
 bron: "https://wetten.overheid.nl/BWBR0016230"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het dagelijks bestuur van de Sociaal-Economische Raad van 19 december 2003 tot vantoepassingverklaring van afdeling 4.2.8 van de Algemene wet bestuursrecht op door de Raad per boekjaar aan rechtspersonen verstrekte subsidies (Subsidiebesluit SER)

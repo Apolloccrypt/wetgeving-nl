@@ -9,7 +9,7 @@ laatste_update: 2008-11-01
 status: geldig
 toestand: 2008-11-01
 bron: "https://wetten.overheid.nl/BWBR0016670"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 april 2004, nr. DWJZ/SWW-2476913, houdende regels met betrekking tot de vergoedingen van de leden van de commissie bedoeld in artikel 14 van de Wet medisch-wetenschappelijk onderzoek met mensen

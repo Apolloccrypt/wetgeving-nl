@@ -9,7 +9,7 @@ laatste_update: 2004-09-25
 status: geldig
 toestand: 2004-09-25
 bron: "https://wetten.overheid.nl/BWBR0017167"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 september 2004, nr. KICK 2512141, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van de Accountantsdienst van het Ministerie van Volksgezondheid, Welzijn en Sport en taakvoorgangers over de periode (1975) 1989–1999

@@ -9,7 +9,7 @@ laatste_update: 2026-09-24
 status: geldig
 toestand: 2026-09-24
 bron: "https://wetten.overheid.nl/BWBR0053125"
-opgehaald: 2026-10-04
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 september 2026, nr. DE/62900222, houdende regels voor de subsidieverstrekking aan een samenwerkingsverband gericht op de rol van mannen bij het voorkomen van gendergerelateerd geweld tegen vrouwen en in het bijzonder femicide (Subsidieregeling mannenalliantie tegen gendergerelateerd geweld en femicide 2027–2031)

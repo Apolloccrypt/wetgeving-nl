@@ -9,7 +9,7 @@ laatste_update: 2004-01-18
 status: geldig
 toestand: 2004-01-18
 bron: "https://wetten.overheid.nl/BWBR0016158"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 17 december 2003, nr. DDI/ST/reg 7/2003, houdende beperking van de openbaarheid van de commissariaten te Medan (1950–1957), Bandung (1950–1957), Semarang (1950–1957), Bandjarmasin (1951–1957), Makassar (1950–1957) en Palembang (1950–1957)

@@ -8,7 +8,7 @@ laatste_update: 2006-11-30
 status: geldig
 toestand: 2006-11-30
 bron: "https://wetten.overheid.nl/BWBR0016628"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling tijdelijke garantie ontslaguitkeringen SWOV

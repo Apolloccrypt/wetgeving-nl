@@ -9,7 +9,7 @@ laatste_update: 2004-08-01
 status: geldig
 toestand: 2004-08-01
 bron: "https://wetten.overheid.nl/BWBR0017049"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 juli 2004, nr. DGM/2004063127, houdende wijziging van de Subsidieregeling milieugerichte technologie (wijziging Subsidieprogramma milieu & technologie en Subsidieprogramma Piek)

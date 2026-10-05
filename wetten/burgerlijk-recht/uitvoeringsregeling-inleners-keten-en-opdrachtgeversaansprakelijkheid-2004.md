@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0016131"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Financiën van 15 december 2003, nr. SV/F&W/03/95330 tot vaststelling van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004

@@ -9,7 +9,7 @@ laatste_update: 2022-07-22
 status: geldig
 toestand: 2022-07-22
 bron: "https://wetten.overheid.nl/BWBR0016067"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 december 2003, Directie Sociale Verzekeringen, nr. SV/R&S/2003/89321, houdende regels met betrekking tot vrijlating vergoedingen uit of in verband met opleiding of scholing van werkloze werknemers (Regeling vrijlating vergoedingen scholing Werkloosheidswet)

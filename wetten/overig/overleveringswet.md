@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0016664"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 29 april 2004 tot implementatie van het kaderbesluit van de Raad van de Europese Unie betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de lidstaten van de Europese Unie (Overleveringswet)

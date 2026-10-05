@@ -9,7 +9,7 @@ laatste_update: 2004-04-15
 status: geldig
 toestand: 2004-04-15
 bron: "https://wetten.overheid.nl/BWBR0016586"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Justitie van 1 april 2004, kenmerk 5278036/DBZ/04, strekkende tot wijziging van het besluit buitengewoon opsporingsambtenaren reinigingsagenten Dienst Stadstoezicht Amsterdam 2000

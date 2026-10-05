@@ -9,7 +9,7 @@ laatste_update: 2004-02-01
 status: geldig
 toestand: 2004-02-01
 bron: "https://wetten.overheid.nl/BWBR0016008"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Wet van 4 december 2003 tot wijziging van de Algemene wet bestuursrecht, de Wet tarieven in burgerlijke zaken en enkele andere wetten ter verhoging van de opbrengst van de griffierechten (verhoging van de opbrengst van griffierechten)

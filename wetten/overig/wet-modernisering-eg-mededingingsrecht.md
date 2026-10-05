@@ -9,7 +9,7 @@ laatste_update: 2004-08-01
 status: geldig
 toestand: 2004-08-01
 bron: "https://wetten.overheid.nl/BWBR0016945"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 30 juni 2004 tot wijziging van de Mededingingswet en van enige andere wetten in verband met de implementatie van EG-verordeningen 1/2003 en 139/2004 (Wet modernisering EG-mededingingsrecht)

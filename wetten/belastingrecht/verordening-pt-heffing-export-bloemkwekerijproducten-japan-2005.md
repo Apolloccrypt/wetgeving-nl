@@ -9,7 +9,7 @@ laatste_update: 2004-11-06
 status: geldig
 toestand: 2004-11-06
 bron: "https://wetten.overheid.nl/BWBR0016964"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 1 juli 2004 houdende de vaststelling van de aan ondernemers die bloemkwekerijproducten naar Japan exporteren op te leggen heffing voor het jaar 2005 (Verordening PT heffing export bloemkwekerijproducten Japan 2005)

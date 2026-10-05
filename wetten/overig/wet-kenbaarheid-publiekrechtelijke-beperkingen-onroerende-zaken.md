@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0016876"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 17 juni 2004, houdende regels ter vergroting van de kenbaarheid van publiekrechtelijke beperkingen ten aanzien van onroerende zaken (Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken)

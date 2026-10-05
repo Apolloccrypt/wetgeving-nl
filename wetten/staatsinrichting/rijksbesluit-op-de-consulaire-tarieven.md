@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0015918"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 19 november 2003, houdende bepalingen omtrent de tarieven voor consulaire dienstverrichting en tot inwerkingtreding van de Rijkswet op de consulaire tarieven (Rijksbesluit op de consulaire tarieven)

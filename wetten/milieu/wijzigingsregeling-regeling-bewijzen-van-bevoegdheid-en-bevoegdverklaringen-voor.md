@@ -9,7 +9,7 @@ laatste_update: 2004-10-01
 status: geldig
 toestand: 2004-10-01
 bron: "https://wetten.overheid.nl/BWBR0017235"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling tot wijziging van de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001 in verband met onder meer het vervallen van het RPL(G) en het RPL(FB) en met enkele wijzigingen van JAR-FCL

@@ -9,7 +9,7 @@ laatste_update: 2005-09-01
 status: geldig
 toestand: 2005-09-01
 bron: "https://wetten.overheid.nl/BWBR0016233"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 19 december 2003, houdende verlenging van de loondoorbetalingsverplichting van de werkgever bij ziekte (Wet verlenging loondoorbetalingsverplichting bij ziekte 2003)

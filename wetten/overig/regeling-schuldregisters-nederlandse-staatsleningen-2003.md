@@ -9,7 +9,7 @@ laatste_update: 2004-05-01
 status: geldig
 toestand: 2004-05-01
 bron: "https://wetten.overheid.nl/BWBR0016174"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Financiën van 17 december 2003, AGT2003-2237N, houdende bepalingen ter zake van schuldregisters voor geldleningen ten laste van het Rijk (Regeling schuldregisters Nederlandse staatsleningen 2003)

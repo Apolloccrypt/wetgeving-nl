@@ -8,7 +8,7 @@ laatste_update: 2004-03-17
 status: geldig
 toestand: 2004-03-17
 bron: "https://wetten.overheid.nl/BWBR0016475"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Beleidstelling beroepsonderwijs en volwasseneneducatie 2003 - 2004

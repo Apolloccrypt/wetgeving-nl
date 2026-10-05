@@ -8,7 +8,7 @@ laatste_update: 2026-07-29
 status: geldig
 toestand: 2026-07-29
 bron: "https://wetten.overheid.nl/BWBR0051453"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Mandaatbesluit BZK 2025

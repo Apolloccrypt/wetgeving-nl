@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017293"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken, en de Minister van Financiën van 7 oktober 2004, nr. 04R48972, tot instelling van de baten-lastendienst Dienst Publiek en Communicatie (Instellingsbesluit baten-lastendienst Dienst Publiek en Communicatie)

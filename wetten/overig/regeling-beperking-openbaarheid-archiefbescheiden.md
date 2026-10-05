@@ -9,7 +9,7 @@ laatste_update: 2003-12-20
 status: geldig
 toestand: 2003-12-20
 bron: "https://wetten.overheid.nl/BWBR0016045"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 10 december 2003, IGZ/2003-12428, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van de Inspectie voor de Gezondheidszorg en taakvoorgangers over de periode 1950-1994

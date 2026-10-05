@@ -8,7 +8,7 @@ laatste_update: 2004-01-24
 status: geldig
 toestand: 2004-01-24
 bron: "https://wetten.overheid.nl/BWBR0016281"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit militair luchthavenluchtverkeer Schiphol

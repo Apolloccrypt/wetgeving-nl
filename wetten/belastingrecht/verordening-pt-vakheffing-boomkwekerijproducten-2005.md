@@ -9,7 +9,7 @@ laatste_update: 2004-11-06
 status: geldig
 toestand: 2004-11-06
 bron: "https://wetten.overheid.nl/BWBR0016967"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het bestuur van het ProductschapTuinbouw van 1 juli 2004, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing in het jaar 2005 (Verordening PT vakheffing boomkwekerijproducten 2005)

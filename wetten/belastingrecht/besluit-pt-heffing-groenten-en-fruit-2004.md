@@ -9,7 +9,7 @@ laatste_update: 2004-12-05
 status: geldig
 toestand: 2004-12-05
 bron: "https://wetten.overheid.nl/BWBR0015988"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het Productschap Tuinbouw van 2 december 2003, houdende de vaststelling van de percentages van de heffingen groenten en fruit voor het jaar 2004 (Besluit PT heffing groenten en fruit 2004)

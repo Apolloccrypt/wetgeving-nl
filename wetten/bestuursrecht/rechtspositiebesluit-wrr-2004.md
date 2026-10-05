@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0017208"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 15 september 2004 tot vaststelling van de rechtspositie van de voorzitter en de leden van de Wetenschappelijke Raad voor het Regeringsbeleid (Rechtspositiebesluit WRR 2004)

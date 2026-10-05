@@ -9,7 +9,7 @@ laatste_update: 2004-04-10
 status: geldig
 toestand: 2004-04-10
 bron: "https://wetten.overheid.nl/BWBR0016566"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Vaststelling selectielijst handelingen beleidsterrein Sociale Verzekeringen over de periode vanaf 1941

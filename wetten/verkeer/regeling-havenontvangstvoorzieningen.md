@@ -9,7 +9,7 @@ laatste_update: 2022-06-01
 status: geldig
 toestand: 2022-06-01
 bron: "https://wetten.overheid.nl/BWBR0017228"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling houdende regels voor havenontvangstvoorzieningen (Regeling havenontvangstvoorzieningen)

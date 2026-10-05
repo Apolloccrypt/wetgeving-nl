@@ -9,7 +9,7 @@ laatste_update: 2004-03-26
 status: geldig
 toestand: 2004-03-26
 bron: "https://wetten.overheid.nl/BWBR0016332"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 26 januari 2004 tot wijziging van de Huursubsidiewet en enkele andere wetten (introductie van een nieuwe procedure voor huurders die een aanvraag om toekenning van huursubsidie indienen)

@@ -9,7 +9,7 @@ laatste_update: 2004-06-25
 status: geldig
 toestand: 2004-06-25
 bron: "https://wetten.overheid.nl/BWBR0016841"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 8 juni 2004, houdende vaststelling van de bestanddelen van de beeldenaars van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2004 worden uitgegeven naar aanleiding van het Nederlandse voorzitterschap van de Europese Unie

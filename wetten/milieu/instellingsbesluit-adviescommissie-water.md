@@ -9,7 +9,7 @@ laatste_update: 2016-04-17
 status: geldig
 toestand: 2016-04-17
 bron: "https://wetten.overheid.nl/BWBR0016434"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Staatssecretaris van Verkeer en Waterstaat, houdende instelling van de Adviescommissie Water (Instellingsbesluit Adviescommissie Water)

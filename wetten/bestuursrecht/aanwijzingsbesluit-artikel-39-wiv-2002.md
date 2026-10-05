@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0017226"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 22 september 2004 tot aanwijzing van personen en instanties op grond van artikel 39, eerste lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002 (Aanwijzingsbesluit artikel 39 WIV 2002)

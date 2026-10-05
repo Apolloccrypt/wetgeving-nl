@@ -9,7 +9,7 @@ laatste_update: 2004-02-13
 status: geldig
 toestand: 2004-02-13
 bron: "https://wetten.overheid.nl/BWBR0016175"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Wet van 17 december 2003 tot wijziging van enkele wetten op het beleidsterrein van het Ministerie van OCW in verband met het herstellen van wetstechnische gebreken en leemten

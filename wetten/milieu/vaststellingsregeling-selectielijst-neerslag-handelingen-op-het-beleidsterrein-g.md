@@ -8,7 +8,7 @@ laatste_update: 2004-06-26
 status: geldig
 toestand: 2004-06-26
 bron: "https://wetten.overheid.nl/BWBR0016737"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Vaststellingsregeling Selectielijst neerslag handelingen op het beleidsterrein Geo-informatie over de periode vanaf 1945 (Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer)

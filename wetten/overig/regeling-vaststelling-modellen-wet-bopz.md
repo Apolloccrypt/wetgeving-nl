@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0015807"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 oktober 2003, nr. GVM-2419898, houdende vaststelling van modellen BOPZ

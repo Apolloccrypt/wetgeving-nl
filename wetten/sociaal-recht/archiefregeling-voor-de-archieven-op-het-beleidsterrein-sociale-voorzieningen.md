@@ -9,7 +9,7 @@ laatste_update: 2003-12-26
 status: geldig
 toestand: 2003-12-26
 bron: "https://wetten.overheid.nl/BWBR0016026"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 december 2003, nr. Directie DAZ/B&ADIV/2003/8675, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Hoofddirectie Bijstand en Voorzieningen/Sector Uitkeringsbeleid (UKB), 1988–1994 (Archiefregeling voor de archieven op het beleidsterrein Sociale Voorzieningen)

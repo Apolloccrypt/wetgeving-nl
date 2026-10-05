@@ -8,7 +8,7 @@ laatste_update: 2005-06-16
 status: geldig
 toestand: 2005-06-16
 bron: "https://wetten.overheid.nl/BWBR0016651"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit landelijk overleg milieuwethandhaving

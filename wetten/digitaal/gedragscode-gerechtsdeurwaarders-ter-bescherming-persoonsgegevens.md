@@ -8,7 +8,7 @@ laatste_update: 2004-03-03
 status: geldig
 toestand: 2004-03-03
 bron: "https://wetten.overheid.nl/BWBR0016119"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Gedragscode gerechtsdeurwaarders ter bescherming persoonsgegevens

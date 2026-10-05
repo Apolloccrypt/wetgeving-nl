@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0017252"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 september 2004, Directie Arbeidsverhoudingen, nr. AV/KO/2004/65638, houdende nadere regels ter zake van enkele in de Wet kinderopvang geregelde onderwerpen (Regeling Wet kinderopvang)

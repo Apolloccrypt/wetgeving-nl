@@ -9,7 +9,7 @@ laatste_update: 2003-11-09
 status: geldig
 toestand: 2003-11-09
 bron: "https://wetten.overheid.nl/BWBR0015826"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de voorzitter van het Productschap Tuinbouw, d.d. 31 oktober 2003, houdende regels met betrekking tot de mandatering van het hoofd van de afdeling juridische en bestuurlijke zaken van het Productschap Tuinbouw (Besluit PT mandaat hoofd juridische en bestuurlijke zaken)

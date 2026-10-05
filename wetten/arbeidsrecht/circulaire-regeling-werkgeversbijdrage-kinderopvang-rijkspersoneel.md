@@ -8,7 +8,7 @@ laatste_update: 2004-12-06
 status: geldig
 toestand: 2004-12-06
 bron: "https://wetten.overheid.nl/BWBR0016256"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Circulaire Regeling werkgeversbijdrage kinderopvang rijkspersoneel

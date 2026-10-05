@@ -9,7 +9,7 @@ laatste_update: 2004-06-30
 status: geldig
 toestand: 2004-06-30
 bron: "https://wetten.overheid.nl/BWBR0016871"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 16 juni 2004, houdende regeling betreffende het vervallen van de causaliteitseis voor de toekenning van een vergoeding van of tegemoetkoming in de kosten van voorzieningen en het voortzetten van een vergoeding van of tegemoetkoming in de kosten van voorzieningen na het overlijden van de gerechtigde in de wetten voor oorlogsgetroffenen (Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen)

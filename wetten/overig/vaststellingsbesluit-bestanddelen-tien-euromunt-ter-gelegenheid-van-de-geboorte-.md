@@ -9,7 +9,7 @@ laatste_update: 2004-02-11
 status: geldig
 toestand: 2004-02-11
 bron: "https://wetten.overheid.nl/BWBR0016339"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 28 januari 2004, houdende vaststelling van de bestanddelen van de tien-euromunt die in 2004 wordt uitgegeven ter gelegenheid van de geboorte van Prinses Catharina-Amalia

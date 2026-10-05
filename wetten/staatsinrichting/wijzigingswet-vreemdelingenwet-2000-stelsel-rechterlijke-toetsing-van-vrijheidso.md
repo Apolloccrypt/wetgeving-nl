@@ -9,7 +9,7 @@ laatste_update: 2004-09-01
 status: geldig
 toestand: 2004-09-01
 bron: "https://wetten.overheid.nl/BWBR0016910"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 24 juni 2004 tot wijziging van de Vreemdelingenwet 2000 in verband met de wijziging van het stelsel van de rechterlijke toetsing van vrijheidsontnemende maatregelen

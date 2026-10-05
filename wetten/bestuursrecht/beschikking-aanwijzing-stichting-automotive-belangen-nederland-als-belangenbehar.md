@@ -9,7 +9,7 @@ laatste_update: 2006-05-01
 status: geldig
 toestand: 2006-05-01
 bron: "https://wetten.overheid.nl/BWBR0017158"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Beschikking van de Minister van Verkeer en Waterstaat van 2 september 2004, nr. DGP/WV/U/04.03336, tot aanwijzing Stichting Automotive Belangen Nederland als organisatie die de belangen van de automobielbranche behartigt

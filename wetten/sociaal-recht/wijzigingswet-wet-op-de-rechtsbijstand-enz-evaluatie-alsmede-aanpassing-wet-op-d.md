@@ -9,7 +9,7 @@ laatste_update: 2004-05-01
 status: geldig
 toestand: 2004-05-01
 bron: "https://wetten.overheid.nl/BWBR0016009"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Wet van 4 december 2003 tot wijziging van de Wet op de rechtsbijstand naar aanleiding van de evaluatie van de Wet op de rechtsbijstand alsmede aanpassing van de Wet op de rechtsbijstand aan de Algemene wet bestuursrecht

@@ -9,7 +9,7 @@ laatste_update: 2009-02-06
 status: geldig
 toestand: 2009-02-06
 bron: "https://wetten.overheid.nl/BWBR0015947"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2003, nr. IBE 2431923, houdende een regeling voor transplantatie van eilandjes van Langerhans

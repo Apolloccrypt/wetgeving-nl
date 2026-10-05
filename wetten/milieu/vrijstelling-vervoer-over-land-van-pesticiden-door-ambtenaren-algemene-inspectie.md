@@ -9,7 +9,7 @@ laatste_update: 2004-10-23
 status: geldig
 toestand: 2004-10-23
 bron: "https://wetten.overheid.nl/BWBR0017306"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Vrijstelling ten behoeve van het vervoer over land van pesticiden door ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit

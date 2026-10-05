@@ -9,7 +9,7 @@ laatste_update: 2021-09-18
 status: geldig
 toestand: 2021-09-18
 bron: "https://wetten.overheid.nl/BWBR0017081"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 3 augustus 2004, houdende aanwijzing van de gegevens over een gebruiker en het telecommunicatie-verkeer met betrekking tot die gebruiker die van een aanbieder van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst kunnen worden gevorderd (Besluit vorderen gegevens telecommunicatie)

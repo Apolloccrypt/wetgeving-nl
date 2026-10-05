@@ -9,7 +9,7 @@ laatste_update: 2004-06-06
 status: geldig
 toestand: 2004-06-06
 bron: "https://wetten.overheid.nl/BWBR0016747"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 mei 2004, nr. DAZ/B&ADIV/2004/33862, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden uit de archieven van het hoofdbureau van het Rijksarbeidsbureau (1928) 1945–1954, de centrale dienst van de Directie voor de Arbeidsvoorziening 1954–1959 (1963) en van de Centrale Commissie van Advies voor het Rijksarbeidsbureau 1945–1954 en de Centrale Commissie van Advies voor de Arbeidsvoorziening 1954–1959 (Archiefregeling voor de archieven op het beleidsterrein Arbeidsvoorziening)

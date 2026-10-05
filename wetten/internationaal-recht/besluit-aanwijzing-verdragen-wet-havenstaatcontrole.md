@@ -9,7 +9,7 @@ laatste_update: 2025-06-26
 status: geldig
 toestand: 2025-06-26
 bron: "https://wetten.overheid.nl/BWBR0015939"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 21 november 2003, houdende aanwijzing van een verdrag als bedoeld in artikel 1, onderdeel b, onder 10°, van de Wet havenstaatcontrole

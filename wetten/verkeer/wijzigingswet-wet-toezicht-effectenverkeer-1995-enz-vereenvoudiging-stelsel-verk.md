@@ -9,7 +9,7 @@ laatste_update: 2004-09-15
 status: geldig
 toestand: 2004-09-15
 bron: "https://wetten.overheid.nl/BWBR0016947"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 30 juni 2004 tot wijziging van de Wet toezicht effectenverkeer 1995, de Wet toezicht kredietwezen 1992, de Wet toezicht natura-uitvaartverzekeringsbedrijf en de Wet toezicht verzekeringsbedrijf 1993 in verband met de vereenvoudiging van het stelsel van de verklaring van geen bezwaar en enkele andere noodzakelijke aanpassingen

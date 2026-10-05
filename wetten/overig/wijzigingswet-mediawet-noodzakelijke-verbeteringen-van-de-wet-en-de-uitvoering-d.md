@@ -9,7 +9,7 @@ laatste_update: 2003-12-31
 status: geldig
 toestand: 2003-12-31
 bron: "https://wetten.overheid.nl/BWBR0015824"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Wet van 30 oktober 2003 tot wijziging van de Mediawet met het oog op noodzakelijke verbeteringen van de wet en de uitvoering daarvan

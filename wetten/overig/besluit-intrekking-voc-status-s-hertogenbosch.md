@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0016129"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit als bedoeld in artikel 120, eerste lid van de Wet personenvervoer 2000, houdende intrekking van de Aanwijzing ingevolge artikel 39 van de Wet personenvervoer (oud)

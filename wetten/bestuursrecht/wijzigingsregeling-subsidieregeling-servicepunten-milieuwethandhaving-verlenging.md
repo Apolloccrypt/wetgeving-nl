@@ -9,7 +9,7 @@ laatste_update: 2004-07-17
 status: geldig
 toestand: 2004-07-17
 bron: "https://wetten.overheid.nl/BWBR0016976"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 juli 2004, nr. VI/BZ 4930, houdende wijziging van de Subsidieregeling servicepunten milieuwethandhaving (verlenging subsidiemogelijkheid)

@@ -9,7 +9,7 @@ laatste_update: 2004-10-21
 status: geldig
 toestand: 2004-10-21
 bron: "https://wetten.overheid.nl/BWBR0017156"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Economische Zaken van 1 september 2004, nr. TP-MO 4053351, houdende wijziging Nummerplan telefoon- en ISDN-diensten in verband met het beschikbaar stellen van nummers voor toegang tot ondernemingen en instellingen

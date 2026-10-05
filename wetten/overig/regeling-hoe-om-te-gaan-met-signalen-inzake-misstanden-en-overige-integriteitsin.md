@@ -9,7 +9,7 @@ laatste_update: 2004-05-15
 status: geldig
 toestand: 2004-05-15
 bron: "https://wetten.overheid.nl/BWBR0016675"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Vaststelling klokkenluidersregeling (Beschikking van 3 mei 2004, nr. ICO 2004-1048)

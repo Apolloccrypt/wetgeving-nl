@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0016038"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 9 december 2003, houdende vaststelling van regels met betrekking tot het beheer van autobanden, alsmede wijziging van een aantal besluiten in verband met het schrappen van bepalingen met betrekking tot de in afdeling 3.5 van de Algemene wet bestuursrecht geregelde procedure (Besluit beheer autobanden)

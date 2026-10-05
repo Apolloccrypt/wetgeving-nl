@@ -9,7 +9,7 @@ laatste_update: 2022-03-02
 status: geldig
 toestand: 2022-03-02
 bron: "https://wetten.overheid.nl/BWBR0016700"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 7 mei 2004, houdende regels met betrekking tot interoperabiliteit van openbare elektronische communicatiediensten, toegang tot de Europese telefoonnummeringsruimte en landsgrensoverschrijdende toegang tot niet-geografische nummers (Besluit interoperabiliteit)

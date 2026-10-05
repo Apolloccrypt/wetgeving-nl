@@ -9,7 +9,7 @@ laatste_update: 2004-04-01
 status: geldig
 toestand: 2004-04-01
 bron: "https://wetten.overheid.nl/BWBR0015930"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Verordening van de Sociaal-Economische Raad van 21 november 2003 houdende regelen terzake van de bezoldiging van de voorzitter, de leden en de secretaris van een tuchtgerecht op grond van de Wet tuchtrechtspraak bedrijfsorganisatie 2002 (Verordening bezoldiging tuchtgerechten PBO)

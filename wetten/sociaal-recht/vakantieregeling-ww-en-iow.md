@@ -9,7 +9,7 @@ laatste_update: 2017-10-27
 status: geldig
 toestand: 2017-10-27
 bron: "https://wetten.overheid.nl/BWBR0016004"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 4 december 2003, Directie Sociale Verzekeringen, nr. SV/F&W/2003/90418A, houdende vaststelling van het begrip vakantie en de perioden van vakantie met behoud van recht op uitkering op grond van de Werkloosheidswet (Vakantieregeling WW)

@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0016209"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 18 december 2003 tot wijziging van de Wet op de internationale bijstandsverlening bij de heffing van belastingen en de Wet inkomstenbelasting 2001 (implementatie spaarrenterichtlijn)

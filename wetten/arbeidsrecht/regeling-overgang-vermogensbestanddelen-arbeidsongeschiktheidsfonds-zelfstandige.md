@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017300"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 oktober 2004, Directie Sociale Verzekeringen, nr. SV/A&L/04/68753, tot regeling van de overgang van de vermogensbestanddelen van het Arbeidsongeschiktheidsfonds zelfstandigen naar het Arbeidsongeschiktheidsfonds in verband met de Wet einde toegang verzekering WAZ

@@ -9,7 +9,7 @@ laatste_update: 2006-07-09
 status: geldig
 toestand: 2006-07-09
 bron: "https://wetten.overheid.nl/BWBR0017310"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Verkeer en Waterstaat houdende aanwijzing ambtenaren Divisie Rail belast met het toezicht, bedoeld in artikel 34, eerste lid, Wet kabelbaaninstallaties (Besluit aanwijzing toezichthoudende ambtenaren Wet kabelbaaninstallaties)

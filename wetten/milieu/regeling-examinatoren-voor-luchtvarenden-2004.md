@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0017236"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling tot vaststelling van een nieuwe regeling voor examinatoren voor luchtvarenden (Regeling examinatoren voor luchtvarenden 2004)

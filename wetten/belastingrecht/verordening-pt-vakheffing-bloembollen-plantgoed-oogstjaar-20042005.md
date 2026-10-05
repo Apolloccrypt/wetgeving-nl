@@ -9,7 +9,7 @@ laatste_update: 2004-06-01
 status: geldig
 toestand: 2004-06-01
 bron: "https://wetten.overheid.nl/BWBR0016682"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 4 mei 2004, houdende de vaststelling van aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2004/2005 (Verordening PT vakheffing bloembollen plantgoed oogstjaar 2004/2005)

@@ -9,7 +9,7 @@ laatste_update: 2010-12-02
 status: geldig
 toestand: 2010-12-02
 bron: "https://wetten.overheid.nl/BWBR0016405"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 februari 2004, Nr. SAS/2004011401 inzake de eisen aan de uitvoering van het kwaliteitsmanagement bij kerncentrales (Regeling kwaliteitsborging van kerncentrales)

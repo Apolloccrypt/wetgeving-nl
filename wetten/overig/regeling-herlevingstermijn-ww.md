@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0016001"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 4 december 2003, Directie Sociale Verzekering, nr. SV/F&W/2003/90418B, houdende het buiten toepassing verklaren van de maximale herlevingstermijn voor de uitkering op grond van de Werkloosheidswet (Regeling herlevingstermijn WW)

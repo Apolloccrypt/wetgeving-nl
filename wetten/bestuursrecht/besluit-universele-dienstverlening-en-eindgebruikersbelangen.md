@@ -9,7 +9,7 @@ laatste_update: 2022-04-09
 status: geldig
 toestand: 2022-04-09
 bron: "https://wetten.overheid.nl/BWBR0016698"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 7 mei 2004, houdende regels met betrekking tot universele dienstverlening en eindgebruikersbelangen (Besluit universele dienstverlening en eindgebruikersbelangen)

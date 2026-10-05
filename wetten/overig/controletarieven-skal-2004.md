@@ -8,7 +8,7 @@ laatste_update: 2004-02-24
 status: geldig
 toestand: 2004-02-24
 bron: "https://wetten.overheid.nl/BWBR0015967"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Controletarieven Skal 2004

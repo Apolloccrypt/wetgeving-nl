@@ -9,7 +9,7 @@ laatste_update: 2025-12-08
 status: geldig
 toestand: 2025-12-08
 bron: "https://wetten.overheid.nl/BWBR0016097"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 12 december 2003, nr. DJZ/BR-1003/2003 tot vaststelling van de tarieven voor consulaire dienstverlening (Regeling op de consulaire tarieven)

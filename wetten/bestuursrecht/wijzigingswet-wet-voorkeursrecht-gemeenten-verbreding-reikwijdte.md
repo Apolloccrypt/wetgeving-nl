@@ -9,7 +9,7 @@ laatste_update: 2004-02-01
 status: geldig
 toestand: 2004-02-01
 bron: "https://wetten.overheid.nl/BWBR0016010"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Wet van 4 december 2003 tot wijziging van de Wet voorkeursrecht gemeenten (verbreding reikwijdte)

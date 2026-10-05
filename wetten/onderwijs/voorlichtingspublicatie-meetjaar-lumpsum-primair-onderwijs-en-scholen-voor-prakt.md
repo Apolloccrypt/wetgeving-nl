@@ -8,7 +8,7 @@ laatste_update: 2004-04-28
 status: geldig
 toestand: 2004-04-28
 bron: "https://wetten.overheid.nl/BWBR0016601"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Voorlichtingspublicatie meetjaar lumpsum primair onderwijs en scholen voor praktijkonderwijs met declaratiebekostiging

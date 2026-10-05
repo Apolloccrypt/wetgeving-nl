@@ -9,7 +9,7 @@ laatste_update: 2004-09-18
 status: geldig
 toestand: 2004-09-18
 bron: "https://wetten.overheid.nl/BWBR0016961"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2004, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2005 (Verordening PT algemene heffing handel groenten en fruit 2005)

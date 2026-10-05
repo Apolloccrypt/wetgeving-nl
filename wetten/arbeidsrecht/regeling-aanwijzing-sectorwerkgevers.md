@@ -8,7 +8,7 @@ laatste_update: 2015-08-01
 status: geldig
 toestand: 2015-08-01
 bron: "https://wetten.overheid.nl/BWBR0016347"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling aanwijzing sectorwerkgevers

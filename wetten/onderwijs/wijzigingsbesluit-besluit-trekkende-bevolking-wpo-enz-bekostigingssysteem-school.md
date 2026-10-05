@@ -9,7 +9,7 @@ laatste_update: 2004-12-29
 status: geldig
 toestand: 2004-12-29
 bron: "https://wetten.overheid.nl/BWBR0017250"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 27 september 2004, houdende wijziging van het Besluit trekkende bevolking WPO in verband met vernieuwing van het bekostigingssysteem voor de school voor varende kinderen

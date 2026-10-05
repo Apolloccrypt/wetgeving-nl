@@ -9,7 +9,7 @@ laatste_update: 2004-07-15
 status: geldig
 toestand: 2004-07-15
 bron: "https://wetten.overheid.nl/BWBR0016975"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Justitie van 2 juli 2004, nr. 5295070/04/DJC, houdende verlening van machtiging aan de directeur van de Stichting Adoptievoorzieningen tot het verrichten van administratieve handelingen met betrekking tot het in behandeling nemen van verzoeken tot het verlenen van een beginseltoestemming als bedoeld in de Wet opneming buitenlandse kinderen ter adoptie (Machtigingsbesluit directeur SAV)

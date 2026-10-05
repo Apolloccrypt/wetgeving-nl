@@ -9,7 +9,7 @@ laatste_update: 2004-09-01
 status: geldig
 toestand: 2004-09-01
 bron: "https://wetten.overheid.nl/BWBR0016911"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 24 juni 2004 tot wijziging van de Vreemdelingenwet 2000, houdende verlenging van de tijdelijkheid van de verblijfsvergunning asiel voor bepaalde tijd

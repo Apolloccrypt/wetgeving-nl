@@ -9,7 +9,7 @@ laatste_update: 2020-04-01
 status: geldig
 toestand: 2020-04-01
 bron: "https://wetten.overheid.nl/BWBR0016944"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 30 juni 2004 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs en de Wet op het hoger onderwijs en wetenschappelijk onderzoek, ter waarborging van de bekwaamheid tot het uitoefenen van beroepen in het onderwijs (Wet op de beroepen in het onderwijs)

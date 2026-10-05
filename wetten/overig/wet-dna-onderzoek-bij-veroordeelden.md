@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0017212"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 16 september 2004, houdende regeling van DNA-onderzoek bij veroordeelden (Wet DNA-onderzoek bij veroordeelden)

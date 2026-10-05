@@ -9,7 +9,7 @@ laatste_update: 2004-01-18
 status: geldig
 toestand: 2004-01-18
 bron: "https://wetten.overheid.nl/BWBR0016155"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 17 december 2003, nr. DDI/ST/reg 2/2003, houdende beperking van de openbaarheid van het archief van het consulaat-generaal te Londen (Groot-Brittannië) (1824) 1890–1949, het Nederlandse gezantschap, later de Nederlandse Ambassade in Groot-Brittannië (Londen), (1920) 1937–1945, en het archief van de Nederlandse Ambassade te Londen (1917) 1945–1954

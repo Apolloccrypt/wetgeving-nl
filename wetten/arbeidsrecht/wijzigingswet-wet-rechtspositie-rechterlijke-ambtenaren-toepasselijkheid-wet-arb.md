@@ -9,7 +9,7 @@ laatste_update: 2004-09-01
 status: geldig
 toestand: 2004-09-01
 bron: "https://wetten.overheid.nl/BWBR0016909"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 24 juni 2004 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren in verband met de toepasselijkheid van de Wet arbeid en zorg ten aanzien van rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding

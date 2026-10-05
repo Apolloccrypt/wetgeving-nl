@@ -9,7 +9,7 @@ laatste_update: 2004-01-18
 status: geldig
 toestand: 2004-01-18
 bron: "https://wetten.overheid.nl/BWBR0016153"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 17 december 2003, nr. DDI/ST/reg 5/2003, houdende beperking van de openbaarheid van het archief van de Nederlandse Vertegenwoordiging in Quito over de periode 1955–1964

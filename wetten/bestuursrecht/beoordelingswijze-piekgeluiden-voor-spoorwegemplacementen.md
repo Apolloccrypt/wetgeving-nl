@@ -8,7 +8,7 @@ laatste_update: 2004-01-27
 status: geldig
 toestand: 2004-01-27
 bron: "https://wetten.overheid.nl/BWBR0016218"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Beoordelingswijze piekgeluiden voor spoorwegemplacementen

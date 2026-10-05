@@ -9,7 +9,7 @@ laatste_update: 2003-12-01
 status: geldig
 toestand: 2003-12-01
 bron: "https://wetten.overheid.nl/BWBR0016074"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 december 2003, nr. DFAP4312, tot bekendmaking van zijn beleid inzake legalisatie en verificatie van documenten

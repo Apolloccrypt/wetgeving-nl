@@ -9,7 +9,7 @@ laatste_update: 2017-11-29
 status: geldig
 toestand: 2017-11-29
 bron: "https://wetten.overheid.nl/BWBR0016802"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 2 juni 2004 tot vaststelling van nadere regels inzake de organisatie, werkwijze en bekostiging van de politieonderwijsraad (Besluit politieonderwijsraad)

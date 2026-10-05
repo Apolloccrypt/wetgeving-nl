@@ -8,7 +8,7 @@ laatste_update: 2004-08-01
 status: geldig
 toestand: 2004-08-01
 bron: "https://wetten.overheid.nl/BWBR0017018"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Invoering nieuwe examensystematiek in het beroepsonderwijs per 1 augustus 2004

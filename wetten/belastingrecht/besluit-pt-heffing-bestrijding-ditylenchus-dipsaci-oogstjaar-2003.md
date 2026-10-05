@@ -9,7 +9,7 @@ laatste_update: 2005-07-03
 status: geldig
 toestand: 2005-07-03
 bron: "https://wetten.overheid.nl/BWBR0015984"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw d.d. 2 december 2003, houdende de vaststelling van de tarieven genoemd in de Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2003 (Besluit PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2003)

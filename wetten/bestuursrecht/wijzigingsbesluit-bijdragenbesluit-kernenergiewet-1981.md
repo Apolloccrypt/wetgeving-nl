@@ -9,7 +9,7 @@ laatste_update: 2004-10-01
 status: geldig
 toestand: 2004-10-01
 bron: "https://wetten.overheid.nl/BWBR0017138"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 24 augustus 2004 tot wijziging van het Bijdragenbesluit Kernenergiewet 1981

@@ -8,7 +8,7 @@ laatste_update: 2003-12-10
 status: geldig
 toestand: 2003-12-10
 bron: "https://wetten.overheid.nl/BWBR0015972"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Inwerkingtreding Wet leerlinggebonden financiering (LGF-wet) in het voortgezet onderwijs

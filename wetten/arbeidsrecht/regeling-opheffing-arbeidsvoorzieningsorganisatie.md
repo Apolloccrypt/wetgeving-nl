@@ -9,7 +9,7 @@ laatste_update: 2015-08-26
 status: geldig
 toestand: 2015-08-26
 bron: "https://wetten.overheid.nl/BWBR0017302"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 oktober 2004, Directie AAM, nr. AAM/BR/04/68435, houdende voorzieningen in verband met de opheffing van de Arbeidsvoorzieningsorganisatie (Regeling opheffing Arbeidsvoorzieningsorganisatie)

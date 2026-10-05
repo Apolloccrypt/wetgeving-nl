@@ -9,7 +9,7 @@ laatste_update: 2004-11-10
 status: geldig
 toestand: 2004-11-10
 bron: "https://wetten.overheid.nl/BWBR0017279"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Vaststelling selectielijst neerslag handelingen op het beleidsterrein Planning van de voorzieningen in de gezondheidszorg over de periode 1982–2002

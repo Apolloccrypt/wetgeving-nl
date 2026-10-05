@@ -9,7 +9,7 @@ laatste_update: 2004-10-01
 status: geldig
 toestand: 2004-10-01
 bron: "https://wetten.overheid.nl/BWBR0017204"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 september 2004, nr. SV/AL/04/64104, houdende nadere regels betreffende bekwaamheden die algemeen gebruikelijk zijn als bedoeld in artikel 9, onderdeel a, van het Schattingsbesluit arbeidsongeschiktheidswetten (Regeling nadere invulling algemeen gebruikelijke bekwaamheden)

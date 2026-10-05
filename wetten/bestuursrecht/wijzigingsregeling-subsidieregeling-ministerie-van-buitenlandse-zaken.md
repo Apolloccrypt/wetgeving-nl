@@ -9,7 +9,7 @@ laatste_update: 2004-01-30
 status: geldig
 toestand: 2004-01-30
 bron: "https://wetten.overheid.nl/BWBR0016303"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van 19 januari 2004, nr. DJZ/BR/0908-03, tot wijziging van de Subsidieregeling Ministerie van Buitenlandse Zaken (overgangsmaatregel projecten cultuur en ontwikkeling)

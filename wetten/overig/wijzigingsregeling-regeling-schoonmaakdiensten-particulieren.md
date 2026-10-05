@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0016179"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 17 december 2003, nr. ABG/GA/2003/88087 tot wijziging van de Regeling schoonmaakdiensten particulieren in verband met de invoering van een model controle- en rapportageprotocol voor de jaren 2003 en 2004 alsmede andere actualiseringen

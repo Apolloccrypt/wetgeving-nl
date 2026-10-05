@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0016993"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 6 juli 2004, houdende een voorziening om ter uitvoering van besluiten van instellingen van de Europese Unie regels te kunnen stellen ten aanzien van buitenlandse schepen (Wet buitenlandse schepen)

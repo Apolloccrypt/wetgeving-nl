@@ -9,7 +9,7 @@ laatste_update: 2004-08-16
 status: geldig
 toestand: 2004-08-16
 bron: "https://wetten.overheid.nl/BWBR0016877"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 17 juni 2004 tot wijziging van de Provinciewet en de Gemeentewet in verband met aanpassing van de procedure tot benoeming van de commissaris van de Koning en de burgemeester en in verband met het tijdelijk verruimen van de periode gedurende welke ontheffing van het woonplaatsvereiste van de burgemeester mogelijk is

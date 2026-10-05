@@ -9,7 +9,7 @@ laatste_update: 2004-01-18
 status: geldig
 toestand: 2004-01-18
 bron: "https://wetten.overheid.nl/BWBR0016154"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 17 december 2003, nr. DDI/ST/reg 6/2003, houdende beperking van de openbaarheid van de archieven van diplomatieke en consulaire posten (1856) 1945–1954 (1963)

@@ -8,7 +8,7 @@ laatste_update: 2009-11-10
 status: geldig
 toestand: 2009-11-10
 bron: "https://wetten.overheid.nl/BWBR0016546"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Reglement voor de Dienst Verslag en Redactie

@@ -8,7 +8,7 @@ laatste_update: 2004-05-13
 status: geldig
 toestand: 2004-05-13
 bron: "https://wetten.overheid.nl/BWBR0016689"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Beleidsregel koel- en vriesinstallatie aan boord van vissersvaartuigen met een koudemiddel inhoud van meer dan 3 kg

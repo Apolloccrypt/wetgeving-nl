@@ -9,7 +9,7 @@ laatste_update: 2004-05-19
 status: geldig
 toestand: 2004-05-19
 bron: "https://wetten.overheid.nl/BWBR0016635"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 22 april 2004 tot wijziging van de Telecommunicatiewet en enkele andere wetten in verband met de implementatie van een nieuw Europees geharmoniseerd regelgevingskader voor elektronische communicatienetwerken en -diensten en de nieuwe dienstenrichtlijn van de Commissie van de Europese Gemeenschappen

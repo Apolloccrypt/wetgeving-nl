@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0016459"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 2 maart 2004, nr. SAS/2004020028, houdende regels met betrekking tot het vaststellen van formulieren in verband met de uitvoering van het Besluit beheer autobanden, alsmede wijziging van de Regeling verpakking en verpakkingsafval (Regeling beheer autobanden)

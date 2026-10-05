@@ -8,7 +8,7 @@ laatste_update: 2004-09-10
 status: geldig
 toestand: 2004-09-10
 bron: "https://wetten.overheid.nl/BWBR0017146"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Beschikking vaststelling vacatiegelden adviescommissie medische verklaringen voor de luchtvaart 2004

@@ -9,7 +9,7 @@ laatste_update: 2004-06-01
 status: geldig
 toestand: 2004-06-01
 bron: "https://wetten.overheid.nl/BWBR0016681"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 4 mei 2004, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2004/2005 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2004/2005)

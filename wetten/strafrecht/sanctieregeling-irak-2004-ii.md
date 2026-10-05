@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0016722"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 11 mei 2004, nr. DJZ/BR/0325-04, houdende specifieke restricties op de economische en financiële betrekkingen met Irak (Sanctieregeling Irak 2004 II)

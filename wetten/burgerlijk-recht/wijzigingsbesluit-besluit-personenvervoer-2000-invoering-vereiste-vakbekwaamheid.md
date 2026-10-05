@@ -9,7 +9,7 @@ laatste_update: 2004-07-01
 status: geldig
 toestand: 2004-07-01
 bron: "https://wetten.overheid.nl/BWBR0016801"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 2 juni 2004, houdende wijziging van het Besluit personenvervoer 2000 in verband met de invoering van het vereiste van vakbekwaamheid voor de taxibestuurder

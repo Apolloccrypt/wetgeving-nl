@@ -9,7 +9,7 @@ laatste_update: 2004-07-01
 status: geldig
 toestand: 2004-07-01
 bron: "https://wetten.overheid.nl/BWBR0015836"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 5 november 2003, houdende nadere aanpassing van besluiten aan de modernisering van de rechterlijke organisatie (Veegbesluit modernisering rechterlijke organisatie)

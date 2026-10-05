@@ -9,7 +9,7 @@ laatste_update: 2003-12-20
 status: geldig
 toestand: 2003-12-20
 bron: "https://wetten.overheid.nl/BWBR0015990"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 2 december 2003, houdende de vaststelling van het percentage van de heffing op witlof voor het jaar 2003 (Besluit 2003/2 PT heffing promotie witlof 2003)

@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0015963"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 26 november 2003, nr. 03.004876, houdende gelijkstelling van 6 mei 2005, 26 mei 2006, 18 mei 2007, 27 december 2007, 28 december 2007 en 31 december 2007 met een algemeen erkende feestdag

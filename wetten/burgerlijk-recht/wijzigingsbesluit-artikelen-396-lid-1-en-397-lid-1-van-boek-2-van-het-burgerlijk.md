@@ -9,7 +9,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0016369"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 7 februari 2004 tot verhoging van de grensbedragen, genoemd in de artikelen 396 lid 1 en 397 lid 1 van boek 2 van het Burgerlijk Wetboek

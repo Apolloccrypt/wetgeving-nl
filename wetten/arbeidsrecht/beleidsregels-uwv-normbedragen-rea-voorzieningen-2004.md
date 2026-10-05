@@ -8,7 +8,7 @@ laatste_update: 2004-07-09
 status: geldig
 toestand: 2004-07-09
 bron: "https://wetten.overheid.nl/BWBR0016429"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Beleidsregels UWV normbedragen REA-voorzieningen 2004

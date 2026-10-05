@@ -8,7 +8,7 @@ laatste_update: 2014-01-06
 status: geldig
 toestand: 2014-01-06
 bron: "https://wetten.overheid.nl/BWBR0015853"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling bescherming persoonsgegevens in personeelsdossiers en Emplaza BZK

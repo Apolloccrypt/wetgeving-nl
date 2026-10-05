@@ -8,7 +8,7 @@ laatste_update: 2003-11-05
 status: geldig
 toestand: 2003-11-05
 bron: "https://wetten.overheid.nl/BWBR0015834"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Circulaire Ontslaggrond 65 jaar

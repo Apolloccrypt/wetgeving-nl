@@ -9,7 +9,7 @@ laatste_update: 2004-06-09
 status: geldig
 toestand: 2004-06-09
 bron: "https://wetten.overheid.nl/BWBR0016794"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wijziging van de Tijdelijke subsidieregeling Nationaal Programma GO in verband met het opnemen van een nieuwe subcategorie industrieel onderzoek en het aanvullen van de subsidieplafonds en de minimumbedragen voor de jaren 2005 en 2006

@@ -9,7 +9,7 @@ laatste_update: 2004-01-23
 status: geldig
 toestand: 2004-01-23
 bron: "https://wetten.overheid.nl/BWBR0016245"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Intrekking Besluit instelling overlegplatform tolk- en vertaaldiensten

@@ -9,7 +9,7 @@ laatste_update: 2025-02-04
 status: geldig
 toestand: 2025-02-04
 bron: "https://wetten.overheid.nl/BWBR0016726"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 13 mei 2004 tot aanpassing van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Strafrecht en de Wet op de economische delicten ter uitvoering van richtlijn nr. 2000/31/EG van het Europees Parlement en de Raad van de Europese Unie van 8 juni 2000 betreffende bepaalde juridische aspecten van de diensten van de informatiemaatschappij, met name de elektronische handel, in de interne markt (PbEG L 178) (Aanpassingswet richtlijn inzake elektronische handel)

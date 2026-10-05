@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0016880"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 18 juni 2004, houdende regels met betrekking tot de veiligheid en certificering van zeeschepen (Schepenbesluit 2004)

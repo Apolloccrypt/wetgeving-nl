@@ -9,7 +9,7 @@ laatste_update: 2005-12-29
 status: geldig
 toestand: 2005-12-29
 bron: "https://wetten.overheid.nl/BWBR0016232"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 19 december 2003 tot wijziging van de wijze van aanpassing van de kinderbijslag, de wet van 22 december 1994 tot nadere wijziging van de Algemene Kinderbijslagwet, de Ziekenfondswet en de Algemene Wet Bijzondere Ziektekosten (Stb. 957) en de Algemene Kinderbijslagwet in verband met andere wijze van aanpassing kinderbijslagbedragen

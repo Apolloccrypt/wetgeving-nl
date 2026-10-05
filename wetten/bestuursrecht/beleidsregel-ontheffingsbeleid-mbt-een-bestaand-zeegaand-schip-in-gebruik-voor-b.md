@@ -8,7 +8,7 @@ laatste_update: 2004-08-10
 status: geldig
 toestand: 2004-08-10
 bron: "https://wetten.overheid.nl/BWBR0016572"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Beleidsregel 'Ontheffingsbeleid m.b.t. een bestaand zeegaand schip in gebruik voor bedrijfsmatige recreatie t.b.v. de sportvisserij'

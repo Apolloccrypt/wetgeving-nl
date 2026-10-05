@@ -9,7 +9,7 @@ laatste_update: 2004-03-06
 status: geldig
 toestand: 2004-03-06
 bron: "https://wetten.overheid.nl/BWBR0016447"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende wijziging van de Regeling MLA’s

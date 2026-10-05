@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0016229"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Justitie en de Minister van Financiën van 19 december 2003, nr. 5259698/503, tot instelling van de baten–lastendienst Nederlands Forensisch Instituut

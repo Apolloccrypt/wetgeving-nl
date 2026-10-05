@@ -8,7 +8,7 @@ laatste_update: 2004-01-09
 status: geldig
 toestand: 2004-01-09
 bron: "https://wetten.overheid.nl/BWBR0016270"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Successiewet 1956; verkoop onder voorbehoud van vruchtgebruik, aftrek bij (periodieke) kwijtschelding van de tegenprestatie

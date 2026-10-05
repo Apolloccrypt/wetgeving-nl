@@ -9,7 +9,7 @@ laatste_update: 2014-03-15
 status: geldig
 toestand: 2014-03-15
 bron: "https://wetten.overheid.nl/BWBR0016584"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties van 1 april 2004, nr. CZW04/19880, houdende nadere regels omtrent de wijze en het tijdstip van de mededeling, bedoeld in artikel Y 32, achtste lid, van de Kieswet

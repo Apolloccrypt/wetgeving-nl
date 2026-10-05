@@ -9,7 +9,7 @@ laatste_update: 2004-06-01
 status: geldig
 toestand: 2004-06-01
 bron: "https://wetten.overheid.nl/BWBR0016519"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 18 maart 2004 tot wijziging van de Wet op het specifiek cultuurbeleid in verband met een verlaging van het maximale aantal leden van de Raad voor cultuur en een verhoging van het maximale aantal leden van commissies van die Raad

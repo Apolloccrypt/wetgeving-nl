@@ -9,7 +9,7 @@ laatste_update: 2026-03-17
 status: geldig
 toestand: 2026-03-17
 bron: "https://wetten.overheid.nl/BWBR0017181"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 9 september 2004, nr. DJZ/BR/0260-04, houdende bepaalde beperkende maatregelen ten aanzien van Zimbabwe (Sanctieregeling Zimbabwe 2004)

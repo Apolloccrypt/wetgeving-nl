@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0015851"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Ministeriële regeling houdende vaststelling bijdragen gemoedsbezwaarden als bedoeld in artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen

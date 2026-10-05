@@ -8,7 +8,7 @@ laatste_update: 2004-01-21
 status: geldig
 toestand: 2004-01-21
 bron: "https://wetten.overheid.nl/BWBR0016308"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Verrekening van buitenlandse bronbelasting voor Nederlandse vaste inrichtingen

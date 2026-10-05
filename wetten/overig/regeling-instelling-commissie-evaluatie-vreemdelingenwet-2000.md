@@ -9,7 +9,7 @@ laatste_update: 2005-10-19
 status: geldig
 toestand: 2005-10-19
 bron: "https://wetten.overheid.nl/BWBR0016186"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie en de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties van 17 december 2003, nr. 5257327, houdende de instelling van de Commissie Evaluatie Vreemdelingenwet 2000

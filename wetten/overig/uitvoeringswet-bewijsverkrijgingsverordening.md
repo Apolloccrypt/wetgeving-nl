@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0016763"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 26 mei 2004 tot uitvoering van de verordening (EG) Nr. 1206/2001 van de Raad van de Europese Unie van 28 mei 2001 betreffende de samenwerking tussen de gerechten van de lidstaten op het gebied van bewijsverkrijging in burgerlijke en handelszaken (PbEG L 174/1) (Uitvoeringswet EG-bewijsverordening)

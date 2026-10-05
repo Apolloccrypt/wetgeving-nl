@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0016530"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 19 maart 2004, houdende regels met betrekking tot het inzamelen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen (Besluit inzamelen afvalstoffen)

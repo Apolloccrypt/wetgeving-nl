@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0016060"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 10 december 2003, houdende uitvoering van artikel 33, tweede, derde en vierde lid, van de Wet op het Centraal bureau voor de statistiek (Besluit gegevensverwerving CBS)

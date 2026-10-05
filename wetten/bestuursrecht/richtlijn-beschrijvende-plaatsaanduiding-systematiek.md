@@ -9,7 +9,7 @@ laatste_update: 2003-12-05
 status: geldig
 toestand: 2003-12-05
 bron: "https://wetten.overheid.nl/BWBR0015962"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Richtlijn Beschrijvende Plaatsaanduiding Systematiek (BPS)

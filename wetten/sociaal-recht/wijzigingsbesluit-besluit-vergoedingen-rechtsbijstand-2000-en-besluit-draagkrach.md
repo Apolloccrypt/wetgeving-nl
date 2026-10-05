@@ -9,7 +9,7 @@ laatste_update: 2004-07-01
 status: geldig
 toestand: 2004-07-01
 bron: "https://wetten.overheid.nl/BWBR0016294"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 16 januari 2004, houdende wijziging van het Besluit vergoedingen rechtsbijstand 2000 en van het Besluit draagkrachtcriteria rechtsbijstand

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0016366"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 5 februari 2004, houdende regels met betrekking tot de productie, de keuring en de exploitatie van kabelbaaninstallaties voor personenvervoer (Wet kabelbaaninstallaties)

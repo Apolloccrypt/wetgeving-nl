@@ -8,7 +8,7 @@ laatste_update: 2004-04-08
 status: geldig
 toestand: 2004-04-08
 bron: "https://wetten.overheid.nl/BWBR0016564"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Aanwijzingsbesluit luchtvaartterrein Rotterdam als volledig gecoördineerd luchtvaartterrein

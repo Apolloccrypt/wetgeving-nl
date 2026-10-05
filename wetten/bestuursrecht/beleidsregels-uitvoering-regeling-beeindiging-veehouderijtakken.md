@@ -8,7 +8,7 @@ laatste_update: 2004-07-22
 status: geldig
 toestand: 2004-07-22
 bron: "https://wetten.overheid.nl/BWBR0017043"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Beleidsregels uitvoering Regeling beëindiging veehouderijtakken

@@ -9,7 +9,7 @@ laatste_update: 2004-10-15
 status: geldig
 toestand: 2004-10-15
 bron: "https://wetten.overheid.nl/BWBR0016992"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 6 juli 2004 tot wijziging van de Wet voorkoming verontreiniging door schepen en de Wet op de economische delicten in verband met richtlijn nr. 2000/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332)

@@ -9,7 +9,7 @@ laatste_update: 2003-12-11
 status: geldig
 toestand: 2003-12-11
 bron: "https://wetten.overheid.nl/BWBR0015970"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 28 november 2003, nr. DPV/DF/BS/112 tot vaststelling van het algemeen ambtsbericht inzake legalisatie en verificatie van documenten afkomstig uit de Dominicaanse Republiek

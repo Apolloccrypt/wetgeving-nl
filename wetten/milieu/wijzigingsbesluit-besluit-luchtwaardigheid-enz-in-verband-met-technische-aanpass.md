@@ -9,7 +9,7 @@ laatste_update: 2004-09-03
 status: geldig
 toestand: 2004-09-03
 bron: "https://wetten.overheid.nl/BWBR0017063"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 21 juli 2004, houdende wijziging van het Besluit luchtwaardigheid en twee andere besluiten in verband met technische aanpassingen

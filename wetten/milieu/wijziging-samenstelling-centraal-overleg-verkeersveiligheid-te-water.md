@@ -8,7 +8,7 @@ laatste_update: 2004-01-28
 status: geldig
 toestand: 2004-01-28
 bron: "https://wetten.overheid.nl/BWBR0016096"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Wijziging samenstelling Centraal Overleg Verkeersveiligheid te Water

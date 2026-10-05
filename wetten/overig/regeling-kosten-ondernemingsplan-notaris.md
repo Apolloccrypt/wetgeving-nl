@@ -9,7 +9,7 @@ laatste_update: 2004-08-01
 status: geldig
 toestand: 2004-08-01
 bron: "https://wetten.overheid.nl/BWBR0017070"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Justitie van 22 juli 2004, nr. 5297947/04/DTR, houdende de voor advisering over het ondernemingsplan van de notaris in rekening te brengen kosten (Regeling kosten ondernemingsplan notaris)

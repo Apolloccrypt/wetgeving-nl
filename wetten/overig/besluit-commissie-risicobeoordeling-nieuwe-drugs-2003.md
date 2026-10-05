@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0016260"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 5 januari 2004, nr. GVM/2429121, houdende instelling van de commissie risicobeoordeling nieuwe drugs ter ondersteuning van het functioneren van het Coördinatiepunt Assessment en Monitoring nieuwe drugs (Besluit commissie risicobeoordeling nieuwe drugs 2003)

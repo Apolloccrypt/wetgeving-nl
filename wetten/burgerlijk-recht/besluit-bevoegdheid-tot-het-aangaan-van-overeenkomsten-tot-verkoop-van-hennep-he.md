@@ -9,7 +9,7 @@ laatste_update: 2004-07-22
 status: geldig
 toestand: 2004-07-22
 bron: "https://wetten.overheid.nl/BWBR0016866"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 juni 2004, nr. CIBG/BMC 2481432, houdende het verlenen van bevoegdheid tot het aangaan van overeenkomsten tot verkoop van hennep, hennephars en de preparaten daarvan

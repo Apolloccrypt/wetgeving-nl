@@ -9,7 +9,7 @@ laatste_update: 2005-12-02
 status: geldig
 toestand: 2005-12-02
 bron: "https://wetten.overheid.nl/BWBR0016863"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Subsidieregeling Programmafinanciering Externeveiligheidsbeleid voor andere overheden

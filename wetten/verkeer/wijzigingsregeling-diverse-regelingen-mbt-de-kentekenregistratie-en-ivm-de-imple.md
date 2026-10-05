@@ -9,7 +9,7 @@ laatste_update: 2004-05-31
 status: geldig
 toestand: 2004-05-31
 bron: "https://wetten.overheid.nl/BWBR0016758"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling houdende wijziging van diverse regelingen met betrekking tot de kentekenregistratie en enkele andere regelingen in verband met de implementatie van richtlijn nr. 1999/37/EG van de Raad van de Europese Unie van 29 april 1999 inzake de kentekenbewijzen van motorvoertuigen (PbEG L 138)

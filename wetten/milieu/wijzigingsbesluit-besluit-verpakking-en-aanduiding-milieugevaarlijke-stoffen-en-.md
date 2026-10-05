@@ -9,7 +9,7 @@ laatste_update: 2010-03-17
 status: geldig
 toestand: 2010-03-17
 bron: "https://wetten.overheid.nl/BWBR0016521"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 18 maart 2004, houdende wijziging van het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten

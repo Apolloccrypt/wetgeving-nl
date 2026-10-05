@@ -9,7 +9,7 @@ laatste_update: 2004-06-01
 status: geldig
 toestand: 2004-06-01
 bron: "https://wetten.overheid.nl/BWBR0016652"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 26 april 2004 tot wijziging van het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen houdende regels inzake de doelbewuste introductie van genetisch gemodificeerde organismen in het milieu (uitvoering richtlijn nr. 2001/18)

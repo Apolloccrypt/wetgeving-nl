@@ -9,7 +9,7 @@ laatste_update: 2003-12-31
 status: geldig
 toestand: 2003-12-31
 bron: "https://wetten.overheid.nl/BWBR0015940"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Defensie, houdende instelling van de Marechausseemedaille (Instellingsbesluit Marechausseemedaille)

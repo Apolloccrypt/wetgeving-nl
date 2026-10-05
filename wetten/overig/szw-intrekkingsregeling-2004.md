@@ -9,7 +9,7 @@ laatste_update: 2004-09-22
 status: geldig
 toestand: 2004-09-22
 bron: "https://wetten.overheid.nl/BWBR0017213"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 17 september 2004, Directie Wetgeving Bestuurlijke en Juridische Aangelegenheden, nr. WBJA/W1/04/59941, houdende intrekking van diverse uitgewerkte SZW-regelingen (SZW-intrekkingsregeling 2004)

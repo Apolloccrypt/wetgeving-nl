@@ -8,7 +8,7 @@ laatste_update: 2004-08-01
 status: geldig
 toestand: 2004-08-01
 bron: "https://wetten.overheid.nl/BWBR0017042"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Elementcodetabel schooljaar 2004 - 2005 voor de leerlingentelling voortgezet onderwijs (vo) per 1 oktober 2004

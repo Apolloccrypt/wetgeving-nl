@@ -8,7 +8,7 @@ laatste_update: 2004-07-18
 status: geldig
 toestand: 2004-07-18
 bron: "https://wetten.overheid.nl/BWBR0016981"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit vacatiegelden Adviescommissie benoemingen politie

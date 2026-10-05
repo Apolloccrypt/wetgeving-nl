@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0016665"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 29 april 2004 tot wijziging van de Wet educatie en beroepsonderwijs in verband met verbeteringen van uiteenlopende, voornamelijk uitvoeringstechnische aard (technische herziening WEB)

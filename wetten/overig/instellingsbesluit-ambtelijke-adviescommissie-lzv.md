@@ -9,7 +9,7 @@ laatste_update: 2015-10-01
 status: geldig
 toestand: 2015-10-01
 bron: "https://wetten.overheid.nl/BWBR0016098"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Instelling Ambtelijke adviescommissie proeven met langere of langere en zwaardere vrachtautocombinaties (Instellingsbesluit Ambtelijke adviescommissie LZV)

@@ -9,7 +9,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0017240"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 24 september 2004 tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet sociale werkvoorziening alsmede de bepalingen betreffende de indicatie en herindicatie in het kader van genoemde wet in de Wet structuur uitvoeringsorganisatie werk en inkomen (Besluit uitvoering sociale werkvoorziening en begeleid werken)

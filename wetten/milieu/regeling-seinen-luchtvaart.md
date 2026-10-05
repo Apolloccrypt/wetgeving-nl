@@ -9,7 +9,7 @@ laatste_update: 2014-12-12
 status: geldig
 toestand: 2014-12-12
 bron: "https://wetten.overheid.nl/BWBR0016765"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling houdende regels voor de luchtvaart voor het geven en ontvangen van seinen in nood, bij spoed, bij zoek- en reddingsacties en bij onderschepping (Regeling seinen luchtvaart)

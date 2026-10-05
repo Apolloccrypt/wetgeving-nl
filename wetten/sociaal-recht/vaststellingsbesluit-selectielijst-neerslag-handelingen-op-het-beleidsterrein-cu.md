@@ -9,7 +9,7 @@ laatste_update: 2004-10-30
 status: geldig
 toestand: 2004-10-30
 bron: "https://wetten.overheid.nl/BWBR0016834"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Vaststelling selectielijst neerslag handelingen op het beleidsterrein Cultuurbeheer over de periode 1945–2000: Ministerie van Sociale Zaken en Werkgelegenheid

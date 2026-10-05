@@ -9,7 +9,7 @@ laatste_update: 2004-11-12
 status: geldig
 toestand: 2004-11-12
 bron: "https://wetten.overheid.nl/BWBR0017149"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 27 augustus 2004, houdende de toekenning van een vaste beloning aan de voorzitter en de leden van de commissie, bedoeld in artikel 2 van het Instellingsbesluit CTBP-O (Besluit vaste beloning CTBP-O)

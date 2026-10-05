@@ -8,7 +8,7 @@ laatste_update: 2006-10-27
 status: geldig
 toestand: 2006-10-27
 bron: "https://wetten.overheid.nl/BWBR0016766"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Instellingsbesluit Adviescollege Landelijk management development brandweer

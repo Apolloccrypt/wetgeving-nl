@@ -9,7 +9,7 @@ laatste_update: 2004-07-01
 status: geldig
 toestand: 2004-07-01
 bron: "https://wetten.overheid.nl/BWBR0016918"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Justitie van 25 juni 2004, nr. 52932240/4/DTR, Directie Toegang Rechtsbestel/Afdeling Financieel-economische en Bestuurlijke aangelegenheden, houdende aanpassing van het basisbedrag van het Besluit vergoedingen rechtsbijstand 2000 (Regeling 2004 tot aanpassing van het basisbedrag en de vergoeding voor overige kosten op grond van het Besluit vergoedingen rechtsbijstand 2000)

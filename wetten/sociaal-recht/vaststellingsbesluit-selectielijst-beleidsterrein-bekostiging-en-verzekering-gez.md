@@ -8,7 +8,7 @@ laatste_update: 2004-06-05
 status: geldig
 toestand: 2004-06-05
 bron: "https://wetten.overheid.nl/BWBR0016734"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Vaststellingsbesluit selectielijst beleidsterrein Bekostiging en verzekering gezondheidszorg over de periode 1993–2003

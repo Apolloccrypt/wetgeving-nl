@@ -9,7 +9,7 @@ laatste_update: 2004-09-01
 status: geldig
 toestand: 2004-09-01
 bron: "https://wetten.overheid.nl/BWBR0016727"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 13 mei 2004 tot aanvulling van de Auteurswet 1912 inzake de thuiskopie tot invoering van verlengde aansprakelijkheid voor verkopers

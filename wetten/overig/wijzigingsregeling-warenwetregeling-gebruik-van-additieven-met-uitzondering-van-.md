@@ -9,7 +9,7 @@ laatste_update: 2004-06-24
 status: geldig
 toestand: 2004-06-24
 bron: "https://wetten.overheid.nl/BWBR0016843"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport houdende wijziging van de Warenwetregeling Gebruik van additieven met uitzondering van kleurstoffen en zoetstoffen in levensmiddelen, en van de Warenwetregeling Monsterneming

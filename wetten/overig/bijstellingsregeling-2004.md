@@ -8,7 +8,7 @@ laatste_update: 2004-05-14
 status: geldig
 toestand: 2004-05-14
 bron: "https://wetten.overheid.nl/BWBR0016226"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Bijstellingsregeling 2004

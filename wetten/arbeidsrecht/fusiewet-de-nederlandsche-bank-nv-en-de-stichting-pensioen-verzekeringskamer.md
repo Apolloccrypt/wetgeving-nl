@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0017317"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 13 oktober 2004, houdende bepalingen in verband met de fusie van De Nederlandsche Bank N.V. en de Stichting Pensioen- & Verzekeringskamer

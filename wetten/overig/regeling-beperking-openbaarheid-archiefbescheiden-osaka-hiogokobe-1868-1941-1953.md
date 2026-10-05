@@ -9,7 +9,7 @@ laatste_update: 2004-01-18
 status: geldig
 toestand: 2004-01-18
 bron: "https://wetten.overheid.nl/BWBR0016156"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 17 december 2003, nr. DDI/ST/reg 4/2003, houdende beperking van de openbaarheid van het archief van het consulaat te Osaka-Hiogo/Kobe, later consulaat-generaal te Kobe (Japan), 1868–1941 (1953) en van het gedeponeerde archief van het archief van het consulaat te Harbin (Japan) 1923–1933

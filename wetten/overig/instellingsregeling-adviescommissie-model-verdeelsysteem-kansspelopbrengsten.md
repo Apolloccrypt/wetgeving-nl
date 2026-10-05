@@ -8,7 +8,7 @@ laatste_update: 2004-02-19
 status: geldig
 toestand: 2004-02-19
 bron: "https://wetten.overheid.nl/BWBR0015854"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Instellingsregeling adviescommissie model-verdeelsysteem kansspelopbrengsten

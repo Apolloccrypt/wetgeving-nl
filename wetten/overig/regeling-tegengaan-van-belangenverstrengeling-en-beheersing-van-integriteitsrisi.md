@@ -9,7 +9,7 @@ laatste_update: 2004-01-01
 status: geldig
 toestand: 2004-01-01
 bron: "https://wetten.overheid.nl/BWBR0016194"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Pensioen- & Verzekeringskamer van 18 december 2003, nr. 0.851.3/03-8451, houdende uitvoering van de artikelen 2 lid 2 en 3 lid 3 van het Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars (Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars)

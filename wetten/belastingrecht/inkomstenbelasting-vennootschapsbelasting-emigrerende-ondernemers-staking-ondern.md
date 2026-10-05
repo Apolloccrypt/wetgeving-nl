@@ -8,7 +8,7 @@ laatste_update: 2004-08-03
 status: geldig
 toestand: 2004-08-03
 bron: "https://wetten.overheid.nl/BWBR0017077"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Inkomstenbelasting, Vennootschapsbelasting, Emigrerende ondernemers; staking onderneming

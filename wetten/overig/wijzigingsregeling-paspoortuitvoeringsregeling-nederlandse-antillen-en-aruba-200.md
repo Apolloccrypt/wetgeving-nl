@@ -9,7 +9,7 @@ laatste_update: 2004-06-15
 status: geldig
 toestand: 2004-06-15
 bron: "https://wetten.overheid.nl/BWBR0016761"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, houdende wijziging van de Paspoortuitvoeringsregeling Nederlandse Antillen en Aruba 2001

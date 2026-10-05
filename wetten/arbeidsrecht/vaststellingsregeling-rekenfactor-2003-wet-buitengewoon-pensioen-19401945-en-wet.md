@@ -9,7 +9,7 @@ laatste_update: 2004-03-18
 status: geldig
 toestand: 2004-03-18
 bron: "https://wetten.overheid.nl/BWBR0016470"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 5 maart 2004, nr. OHW-U-2459678, houdende vaststelling van de rekenfactor ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers voor het jaar 2003

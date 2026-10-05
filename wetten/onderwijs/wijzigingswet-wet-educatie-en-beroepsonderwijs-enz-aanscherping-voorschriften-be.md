@@ -9,7 +9,7 @@ laatste_update: 2005-12-30
 status: geldig
 toestand: 2005-12-30
 bron: "https://wetten.overheid.nl/BWBR0016606"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 13 april 2004 tot wijziging van onder meer de Wet educatie en beroepsonderwijs en de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de aanscherping van een aantal voorschriften betreffende de bekostiging van het beroepsonderwijs en het hoger onderwijs

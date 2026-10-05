@@ -8,7 +8,7 @@ laatste_update: 2004-06-09
 status: geldig
 toestand: 2004-06-09
 bron: "https://wetten.overheid.nl/BWBR0016743"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Telling personeelsgegevens van de Landelijke Organen voor het Beroepsonderwijs (LOB) voor het jaar 2004

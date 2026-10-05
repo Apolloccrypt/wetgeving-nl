@@ -9,7 +9,7 @@ laatste_update: 2004-04-01
 status: geldig
 toestand: 2004-04-01
 bron: "https://wetten.overheid.nl/BWBR0016576"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap tot het verlenen van mandaat aan het Uitkeringsinstituut werknemersverzekeringen voor de uitvoering van diverse werkloosheidsregelingen

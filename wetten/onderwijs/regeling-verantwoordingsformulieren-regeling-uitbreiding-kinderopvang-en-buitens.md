@@ -9,7 +9,7 @@ laatste_update: 2005-01-29
 status: geldig
 toestand: 2005-01-29
 bron: "https://wetten.overheid.nl/BWBR0016418"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 februari 2004, nr. AV/KO/2004/4719 houdende vaststelling van verantwoordingsformulieren ten behoeve van de Regeling uitbreiding kinderopvang en buitenschoolse opvang (Regeling verantwoordingsformulieren Regeling uitbreiding kinderopvang en buitenschoolse opvang)

@@ -9,7 +9,7 @@ laatste_update: 2005-02-25
 status: geldig
 toestand: 2005-02-25
 bron: "https://wetten.overheid.nl/BWBR0017184"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 9 september 2004 tot wijziging van de Waterleidingwet (eigendom waterleidingbedrijven)

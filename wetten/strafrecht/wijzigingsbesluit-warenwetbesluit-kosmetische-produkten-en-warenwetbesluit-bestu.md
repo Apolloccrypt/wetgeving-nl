@@ -9,7 +9,7 @@ laatste_update: 2004-12-24
 status: geldig
 toestand: 2004-12-24
 bron: "https://wetten.overheid.nl/BWBR0017304"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 11 oktober 2004, houdende wijziging van het Warenwetbesluit kosmetische produkten en het Warenwetbesluit bestuurlijke boeten ter implementatie van richtlijn nr. 93/35/EEG van de Raad van 14 juni 1993 tot zesde wijziging van richtlijn 76/768/EEG betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake kosmetische produkten (PbEG L 151), richtlijn nr. 2003/15/EG van het Europees Parlement en de Raad van 27 februari 2003 tot wijziging van richtlijn 76/768/EEG betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake cosmetische producten (PbEU L 66) en richtlijn nr. 2003/80/EG van de Commissie van 5 september 2003 tot vaststelling van het symbool dat de houdbaarheid van cosmetische producten aangeeft, in bijlage VIII bis bij richtlijn 76/768/EEG van de Raad (PbEU L 224)

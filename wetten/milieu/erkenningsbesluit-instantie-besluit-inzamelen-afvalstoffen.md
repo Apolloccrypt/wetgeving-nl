@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0016609"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Erkenning van een instantie als bedoeld in artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffen en artikel 5, eerste lid, onder c, van de Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen

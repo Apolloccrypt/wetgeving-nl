@@ -9,7 +9,7 @@ laatste_update: 2006-12-20
 status: geldig
 toestand: 2006-12-20
 bron: "https://wetten.overheid.nl/BWBR0016941"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 30 juni 2004 tot wijziging van de Arbeidstijdenwet in verband met de invoering van bestuursrechtelijke handhaving en de daarmee samenhangende bepalingen (Wet bestuurlijke boete Arbeidstijdenwet)

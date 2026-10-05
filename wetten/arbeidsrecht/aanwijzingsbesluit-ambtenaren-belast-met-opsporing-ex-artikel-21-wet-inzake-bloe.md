@@ -9,7 +9,7 @@ laatste_update: 2004-01-15
 status: geldig
 toestand: 2004-01-15
 bron: "https://wetten.overheid.nl/BWBR0016262"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Justitie van 5 januari 2004, nr. GMT/MT 2439896, houdende aanwijzing ambtenaren belast met de opsporing ex artikel 21 van de Wet inzake bloedvoorziening

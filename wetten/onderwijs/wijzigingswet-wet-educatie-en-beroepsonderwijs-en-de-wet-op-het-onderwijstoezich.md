@@ -9,7 +9,7 @@ laatste_update: 2004-08-01
 status: geldig
 toestand: 2004-08-01
 bron: "https://wetten.overheid.nl/BWBR0016482"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 11 maart 2004 tot wijziging van de Wet educatie en beroepsonderwijs en de Wet op het onderwijstoezicht met het oog op verbetering van de kwaliteit van examens van beroepsopleidingen

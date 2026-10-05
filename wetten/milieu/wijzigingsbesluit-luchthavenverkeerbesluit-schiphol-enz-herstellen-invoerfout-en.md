@@ -9,7 +9,7 @@ laatste_update: 2004-08-31
 status: geldig
 toestand: 2004-08-31
 bron: "https://wetten.overheid.nl/BWBR0017134"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 23 augustus 2004 tot wijziging van het Luchthavenverkeerbesluit Schiphol en het Luchthavenindelingbesluit Schiphol in verband met het herstellen van een invoerfout en wijziging van uitvliegroutes in westelijke richting vanaf de Polderbaan

@@ -9,7 +9,7 @@ laatste_update: 2003-12-10
 status: geldig
 toestand: 2003-12-10
 bron: "https://wetten.overheid.nl/BWBR0015950"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Aanmelding staatsexamen Nederlands als tweede taal (NT2)

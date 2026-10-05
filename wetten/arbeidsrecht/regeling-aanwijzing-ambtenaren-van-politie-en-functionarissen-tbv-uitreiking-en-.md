@@ -9,7 +9,7 @@ laatste_update: 2020-04-09
 status: geldig
 toestand: 2020-04-09
 bron: "https://wetten.overheid.nl/BWBR0016804"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Justitie van 3 juni 2004, nr. 5287706/504, houdende aanwijzing van ambtenaren van politie en functionarissen ten behoeve van uitreiking en betekening van gerechtelijke stukken

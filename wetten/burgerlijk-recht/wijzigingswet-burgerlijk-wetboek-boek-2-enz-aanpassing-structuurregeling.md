@@ -9,7 +9,7 @@ laatste_update: 2004-10-01
 status: geldig
 toestand: 2004-10-01
 bron: "https://wetten.overheid.nl/BWBR0017015"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 9 juli 2004 tot wijziging van boek 2 van het Burgerlijk Wetboek in verband met aanpassing van de structuurregeling

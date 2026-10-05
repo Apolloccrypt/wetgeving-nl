@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0015808"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 28 oktober 2003, houdende regels betreffende door aanbieders van openbare telecommunicatienetwerken of openbare telecommunicatiediensten te treffen beveiligingsmaatregelen ten aanzien van gegevens betreffende het aftappen en opnemen van telecommunicatie (Besluit beveiliging gegevens aftappen telecommunicatie)

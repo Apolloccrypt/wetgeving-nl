@@ -9,7 +9,7 @@ laatste_update: 2003-12-23
 status: geldig
 toestand: 2003-12-23
 bron: "https://wetten.overheid.nl/BWBR0016242"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wijziging van onderdeel 4011-02.3.3 van de solvabiliteitsrichtlijnen Wtk in verband met kwaliteitswaarborgen taxatieproces en de inwerkingtreding van de Beleidsregel indexatiemethode onderpand

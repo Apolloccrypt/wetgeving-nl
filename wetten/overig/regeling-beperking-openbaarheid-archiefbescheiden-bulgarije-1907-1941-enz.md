@@ -9,7 +9,7 @@ laatste_update: 2004-01-18
 status: geldig
 toestand: 2004-01-18
 bron: "https://wetten.overheid.nl/BWBR0016157"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 17 december 2003, nr. DDI/ST/reg 3/2003, houdende beperking van de openbaarheid van het archief van de Nederlandse diplomatieke en consulaire vertegenwoordiging te Bulgarije 1907–1941, van het archief van het gezantschap te Bulgarije (Sofia), 1947–1953 en van het archief van het gezantschap te Bulgarije (Sofia), gevestigd te Belgrado, (1940–1941) 1947–1954

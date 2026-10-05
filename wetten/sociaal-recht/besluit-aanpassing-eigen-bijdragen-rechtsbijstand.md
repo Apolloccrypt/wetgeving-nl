@@ -9,7 +9,7 @@ laatste_update: 2004-01-23
 status: geldig
 toestand: 2004-01-23
 bron: "https://wetten.overheid.nl/BWBR0016295"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 16 januari 2004, houdende regels met betrekking tot de aanpassing van eigen bijdragen rechtsbijstand (Besluit aanpassing eigen bijdragen rechtsbijstand)

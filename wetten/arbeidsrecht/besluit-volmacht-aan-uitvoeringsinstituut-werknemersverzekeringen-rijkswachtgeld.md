@@ -9,7 +9,7 @@ laatste_update: 2004-09-03
 status: geldig
 toestand: 2004-09-03
 bron: "https://wetten.overheid.nl/BWBR0017127"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # De Staat der Nederlanden, waarvan de zetel gevestigd is te Den Haag, te dezen rechtsgeldig vertegenwoordigd door de Minister van Binnenlandse Zaken en Koninkrijksrelaties, verleent aan het Uitvoeringsinstituut werknemersverzekeringen (UWV) de volmacht om in het kader van de uitvoering van de volgende regelingen namens de Staat der Nederlanden privaatrechtelijke rechtshandelingen te verrichten

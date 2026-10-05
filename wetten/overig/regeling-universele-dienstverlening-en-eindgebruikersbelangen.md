@@ -9,7 +9,7 @@ laatste_update: 2023-10-01
 status: geldig
 toestand: 2023-10-01
 bron: "https://wetten.overheid.nl/BWBR0016709"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Economische Zaken van 10 mei 2004, nr. WJZ 4028595, houdende regels met betrekking tot universele dienstverlening en eindgebruikersbelangen (Regeling universele dienstverlening en eindgebruikersbelangen)

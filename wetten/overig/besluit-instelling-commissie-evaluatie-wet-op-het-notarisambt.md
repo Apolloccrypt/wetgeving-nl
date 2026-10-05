@@ -8,7 +8,7 @@ laatste_update: 2004-09-01
 status: geldig
 toestand: 2004-09-01
 bron: "https://wetten.overheid.nl/BWBR0017009"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit instelling Commissie evaluatie Wet op het Notarisambt

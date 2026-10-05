@@ -8,7 +8,7 @@ laatste_update: 2004-02-11
 status: geldig
 toestand: 2004-02-11
 bron: "https://wetten.overheid.nl/BWBR0016382"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Loonbelasting, vrije vergoedingen en verstrekkingen; extraterritoriale kosten

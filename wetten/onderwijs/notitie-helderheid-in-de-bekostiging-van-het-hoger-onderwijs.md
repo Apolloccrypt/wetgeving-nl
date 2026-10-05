@@ -9,7 +9,7 @@ laatste_update: 2004-01-28
 status: geldig
 toestand: 2004-01-28
 bron: "https://wetten.overheid.nl/BWBR0016272"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Notitie ’Helderheid in de bekostiging van het hoger onderwijs’

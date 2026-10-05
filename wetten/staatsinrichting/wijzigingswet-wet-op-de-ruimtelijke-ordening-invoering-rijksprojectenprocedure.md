@@ -9,7 +9,7 @@ laatste_update: 2005-12-28
 status: geldig
 toestand: 2005-12-28
 bron: "https://wetten.overheid.nl/BWBR0015927"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Wet van 20 november 2003 tot wijziging van de Wet op de Ruimtelijke Ordening in verband met de invoering van een rijksprojectenprocedure (rijksprojectenprocedure)

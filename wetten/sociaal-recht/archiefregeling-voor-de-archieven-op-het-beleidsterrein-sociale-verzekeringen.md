@@ -9,7 +9,7 @@ laatste_update: 2004-02-20
 status: geldig
 toestand: 2004-02-20
 bron: "https://wetten.overheid.nl/BWBR0016378"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 februari 2004, nr. DAZ/B&ADIV/2004/7351 houdende een beperking van de openbaarheid voor inventarisnummer 309 uit het archief van de Directie Sociale Verzekeringen en Voorgangers (1921) 1945–1979 (1985)

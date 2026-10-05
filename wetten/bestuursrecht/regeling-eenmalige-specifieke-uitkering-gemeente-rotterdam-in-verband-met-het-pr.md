@@ -9,7 +9,7 @@ laatste_update: 2003-12-14
 status: geldig
 toestand: 2003-12-14
 bron: "https://wetten.overheid.nl/BWBR0016000"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Regeling, houdende toekenning van een eenmalige specifieke uitkering aan de Gemeente Rotterdam in verband met het Project ontwikkeling programma beveiligingsplannen voor havenfaciliteiten

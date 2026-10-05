@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0016185"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Wet van 17 december 2003, houdende gelijke behandeling op grond van leeftijd bij arbeid, beroep en beroepsonderwijs (Wet gelijke behandeling op grond van leeftijd bij de arbeid)

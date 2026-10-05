@@ -8,7 +8,7 @@ laatste_update: 2004-10-17
 status: geldig
 toestand: 2004-10-17
 bron: "https://wetten.overheid.nl/BWBR0017292"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling Festivals en Concoursen (RFC) van het Fonds voor Podiumprogrammering en Marketing

@@ -9,7 +9,7 @@ laatste_update: 2004-11-01
 status: geldig
 toestand: 2004-11-01
 bron: "https://wetten.overheid.nl/BWBR0016943"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 30 juni 2004 tot wijziging van onder meer de Wet studiefinanciering 2000 in verband met wijziging omzetmoment eerste 12 maanden prestatiebeurs en gedeeltelijke afschaffing 1 februari-regel

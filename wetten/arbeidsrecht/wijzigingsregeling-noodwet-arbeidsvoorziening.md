@@ -9,7 +9,7 @@ laatste_update: 2003-11-07
 status: geldig
 toestand: 2003-11-07
 bron: "https://wetten.overheid.nl/BWBR0015805"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 28 oktober 2003, Directie AAM/BR/03/78229, tot wijziging van de Noodwet Arbeidsvoorziening

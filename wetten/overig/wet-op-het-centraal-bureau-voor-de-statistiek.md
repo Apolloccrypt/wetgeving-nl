@@ -9,7 +9,7 @@ laatste_update: 2025-09-01
 status: geldig
 toestand: 2025-09-01
 bron: "https://wetten.overheid.nl/BWBR0015926"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Wet van 20 november 2003, houdende vaststelling van een wet op het Centraal bureau voor de statistiek (Wet op het Centraal bureau voor de statistiek)

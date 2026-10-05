@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0015844"
-opgehaald: 2026-08-07
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 6 november 2003, houdende wijziging van het Warenwetbesluit Verpakte waters en van het Warenwetbesluit bestuurlijke boeten

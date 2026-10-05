@@ -9,7 +9,7 @@ laatste_update: 2004-03-23
 status: geldig
 toestand: 2004-03-23
 bron: "https://wetten.overheid.nl/BWBR0016540"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 maart 2004, IBE/BO-2461677, houdende goedkeuring van het besluit van de Huisarts en Verpleeghuisarts Registratie Commissie inzake het tarief voor (hernieuwde) inschrijving in de registers van huisartsen, verpleeghuisartsen en artsen voor verstandelijk gehandicapten

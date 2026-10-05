@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0017155"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Economische Zaken van 1 september 2004, nr. WJZ 4050821, houdende regels met betrekking tot procedures voor het veilen en loten van nummers (Regeling veilingprocedure en lotingprocedure nummers)

@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0017207"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van 15 september 2004 tot vaststelling van het tijdstip van herbeoordeling, bedoeld in de artikelen 34, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, 35, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en 28, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en tot het uitzonderen van bepaalde groepen van personen van die herbeoordeling (Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten)

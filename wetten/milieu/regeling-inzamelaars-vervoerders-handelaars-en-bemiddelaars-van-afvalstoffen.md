@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0016608"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, houdende regels inzake inzamelaars, vervoerders, handelaars en bemiddelaars van bedrijfsafvalstoffen of gevaarlijke afvalstoffen (Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen)

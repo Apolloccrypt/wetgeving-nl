@@ -9,7 +9,7 @@ laatste_update: 2005-02-14
 status: geldig
 toestand: 2005-02-14
 bron: "https://wetten.overheid.nl/BWBR0017266"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 30 september 2004 tot wijziging van de Wet milieubeheer, de Wet openbaarheid van bestuur en enige andere wetten (Wet uitvoering Verdrag van Aarhus)

@@ -9,7 +9,7 @@ laatste_update: 2004-12-11
 status: geldig
 toestand: 2004-12-11
 bron: "https://wetten.overheid.nl/BWBR0016970"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 1juli 2004, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven voor het jaar 2005 (Verordening PT heffing hoveniersbedrijven 2005)

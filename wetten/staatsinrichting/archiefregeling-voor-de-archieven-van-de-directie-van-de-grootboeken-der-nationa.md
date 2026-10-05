@@ -9,7 +9,7 @@ laatste_update: 2004-08-20
 status: geldig
 toestand: 2004-08-20
 bron: "https://wetten.overheid.nl/BWBR0017114"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de minister van Financiën van 18 augustus 2004, nr. IAZ 2004-165 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Directie van de Grootboeken der Nationale Schuld, 3% Grootboek 1946 1946–1982 (1990) (Archiefregeling voor de archieven van de Directie van de Grootboeken der Nationale Schuld, 3% Grootboek 1946, ressorterend onder het ministerie van Financiën)

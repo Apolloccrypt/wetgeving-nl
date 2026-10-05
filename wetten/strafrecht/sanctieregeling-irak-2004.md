@@ -9,7 +9,7 @@ laatste_update: 2004-05-05
 status: geldig
 toestand: 2004-05-05
 bron: "https://wetten.overheid.nl/BWBR0016654"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 26 april 2004, nr. DJZ/BR/0239-04, houdende bepalingen met het oog op overdracht van tegoeden aan het Ontwikkelingsfonds voor Irak (Sanctieregeling Irak 2004)

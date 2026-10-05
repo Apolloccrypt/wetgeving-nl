@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017301"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 oktober 2004, nr. SV/A&L/04/59729, tot vaststelling van het in artikel 8, elfde, twaalfde en dertiende lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen bedoelde bedrag alsmede tot wijziging van enige regelingen in verband met de Wet einde toegang verzekering WAZ

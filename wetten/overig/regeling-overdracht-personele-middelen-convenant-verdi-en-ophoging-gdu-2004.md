@@ -9,7 +9,7 @@ laatste_update: 2004-09-10
 status: geldig
 toestand: 2004-09-10
 bron: "https://wetten.overheid.nl/BWBR0017153"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat, houdende beleidsregels ten aanzien van het verlenen van subsidies aan samenwerkingsgebieden ten behoeve van de kosten gemoeid met de uitvoering van het convenant VERDI voor het jaar 2004 en ten behoeve van de aanloopkosten van het verhogen van de drempel van de gebundelde doeluitkering voor infrastructuurprojecten alsmede verlening van eenmalige specifieke uitkeringen aan de provincies ten behoeve van de aanloopkosten van het verhogen van de drempel van de gebundelde doeluitkering voor infrastructuurprojecten (Regeling overdracht personele middelen convenant VERDI en ophoging GDU 2004)

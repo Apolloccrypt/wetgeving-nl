@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0017237"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Regeling tot vaststelling van een nieuw examenreglement met betrekking tot bewijzen van bevoegdheid voor de luchtvaart (Examenreglement voor luchtvarenden 2004)

@@ -9,7 +9,7 @@ laatste_update: 2004-09-13
 status: geldig
 toestand: 2004-09-13
 bron: "https://wetten.overheid.nl/BWBR0016946"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 30 juni 2004, houdende wijziging van de Wet op de Ruimtelijke Ordening, de Wet op de stads- en dorpsvernieuwing en de Wet op de economische delicten (onderbrenging van overtredingen van bestemmingsplanvoorschriften en daarmee samenhangende overtredingen onder de werkingssfeer van de Wet op de economische delicten)

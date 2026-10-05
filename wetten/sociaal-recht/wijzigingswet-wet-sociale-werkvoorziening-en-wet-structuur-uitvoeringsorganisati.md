@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0016942"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-05
 ---
 
 # Wet van 30 juni 2004, houdende wijziging van de Wet sociale werkvoorziening en de Wet structuur uitvoeringsorganisatie werk en inkomen met name in verband met de overgang van de indicatiestelling voor de sociale werkvoorziening van de gemeenten naar de Centrale organisatie werk en inkomen en verruiming van de mogelijkheden tot begeleid werken in het kader van de Wet sociale werkvoorziening, alsmede een aanpassing van de Algemene wet bestuursrecht en de Beroepswet terzake
