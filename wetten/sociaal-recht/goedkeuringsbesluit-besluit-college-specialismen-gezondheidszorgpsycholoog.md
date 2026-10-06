@@ -9,7 +9,7 @@ laatste_update: 2004-12-20
 status: geldig
 toestand: 2004-12-20
 bron: "https://wetten.overheid.nl/BWBR0017789"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 december 2004, nr. IBE/BO-2543400 houdende de goedkeuring van het besluit van het College Specialismen Gezondheidszorgpsycholoog (CSG) betreffende het specialisme klinische psychologie

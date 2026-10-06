@@ -9,7 +9,7 @@ laatste_update: 2005-05-20
 status: geldig
 toestand: 2005-05-20
 bron: "https://wetten.overheid.nl/BWBR0018313"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 9 mei 2005, Directie Arbeidsmarktbeleid, nr. AM/SAM/2005/31207, houdende wijziging van de Tijdelijke subsidieregeling stimuleren leeftijdsbewust beleid

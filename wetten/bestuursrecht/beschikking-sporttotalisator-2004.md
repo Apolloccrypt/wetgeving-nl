@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017669"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Beschikking van de Minister van Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 december 2004, nr. L.O. 640/0073/0452482, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, de lotto en het cijferspel

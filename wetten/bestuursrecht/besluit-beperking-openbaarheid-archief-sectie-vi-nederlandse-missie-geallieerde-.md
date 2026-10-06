@@ -9,7 +9,7 @@ laatste_update: 2005-05-01
 status: geldig
 toestand: 2005-05-01
 bron: "https://wetten.overheid.nl/BWBR0018232"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Buitenlandse zaken van 23 april 2005, nr. DDI/ST/reg 006/2004, houdende beperking van de openbaarheid van het archief van Sectie VI (Consulaire aangelegenheden) van de Nederlandse Missie bij de Geallieerde Bestuursraad te Berlijn 1945–1957 (1969)

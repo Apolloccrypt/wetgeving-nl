@@ -9,7 +9,7 @@ laatste_update: 2004-12-23
 status: geldig
 toestand: 2004-12-23
 bron: "https://wetten.overheid.nl/BWBR0017677"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 december 2004, nr. MJZ2004128508, houdende intrekking van diverse VROM-regelingen (VROM intrekkingsregeling 2004)

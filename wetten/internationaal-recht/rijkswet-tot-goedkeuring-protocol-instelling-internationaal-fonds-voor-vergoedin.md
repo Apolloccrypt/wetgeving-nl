@@ -9,7 +9,7 @@ laatste_update: 2005-06-15
 status: geldig
 toestand: 2005-06-15
 bron: "https://wetten.overheid.nl/BWBR0018264"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Rijkswet van 28 april 2005 tot goedkeuring van het op 16 mei 2003 te Londen tot stand gekomen Protocol bij het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992

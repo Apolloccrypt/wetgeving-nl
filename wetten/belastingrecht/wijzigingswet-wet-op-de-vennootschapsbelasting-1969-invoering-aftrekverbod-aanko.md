@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0017439"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 4 november 2004 tot wijziging van de Wet op de vennootschapsbelasting 1969 in verband met de invoering van een aftrekverbod voor de aankoopkosten van een deelneming

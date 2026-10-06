@@ -9,7 +9,7 @@ laatste_update: 2005-08-24
 status: geldig
 toestand: 2005-08-24
 bron: "https://wetten.overheid.nl/BWBR0018603"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 16 juli 2005, nr. 05.002643, houdende vaststelling van de vergoeding van de voorzitter en de leden van de Toetsingscommissie als bedoeld in artikel 73 van de Wet werk en bijstand

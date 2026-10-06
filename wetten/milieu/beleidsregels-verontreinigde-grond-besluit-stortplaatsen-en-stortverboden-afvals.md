@@ -9,7 +9,7 @@ laatste_update: 2006-07-01
 status: geldig
 toestand: 2006-07-01
 bron: "https://wetten.overheid.nl/BWBR0018442"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 15 juni 2005 , nr. BWL/2005051330, houdende beleidsregels en enige andere bepalingen met betrekking tot de afgifte van verklaringen als bedoeld in artikel 2 onder f van het Besluit stortplaatsen en stortverboden afvalstoffen

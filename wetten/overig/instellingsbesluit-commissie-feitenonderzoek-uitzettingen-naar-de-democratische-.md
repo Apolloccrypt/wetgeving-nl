@@ -9,7 +9,7 @@ laatste_update: 2005-12-04
 status: geldig
 toestand: 2005-12-04
 bron: "https://wetten.overheid.nl/BWBR0018584"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Instelling van een Commissie met als taak een feitenonderzoek betreffende het handelen van de Nederlandse overheid in het kader van terugkeer van uitgeprocedeerde asielzoekers naar de Democratische Republiek Congo

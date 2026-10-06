@@ -9,7 +9,7 @@ laatste_update: 2005-06-17
 status: geldig
 toestand: 2005-06-17
 bron: "https://wetten.overheid.nl/BWBR0018368"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 30 mei 2005, houdende de overdracht van de coördinatie van de reductie van administratieve lasten voor het bedrijfsleven

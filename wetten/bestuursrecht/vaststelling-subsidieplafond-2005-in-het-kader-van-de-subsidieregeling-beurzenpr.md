@@ -8,7 +8,7 @@ laatste_update: 2004-12-10
 status: geldig
 toestand: 2004-12-10
 bron: "https://wetten.overheid.nl/BWBR0017568"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Vaststelling subsidieplafond 2005 in het kader van de ’Subsidieregeling beurzenprogramma Delta’

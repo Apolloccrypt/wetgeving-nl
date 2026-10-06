@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0018115"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 17 maart 2005 tot uitvoering van richtlijn nr. 2001/86/EG van de Raad van de Europese Unie van 8 oktober 2001 tot aanvulling van het statuut van de Europese vennootschap met betrekking tot de rol van de werknemers (Wet rol werknemers bij de Europese vennootschap)

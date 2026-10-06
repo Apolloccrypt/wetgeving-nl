@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0018380"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Beleidsregels van de Minister van Economische Zaken van 2 juni 2005, nr. WJZ 5032571, over door het college als bedoeld in artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit uit te oefenen taken op het gebied van duurzame concurrentie, efficiënte kosten, kwaliteit, toegang en tarieftransparantie in de elektronische communicatiesector (Beleidsregels van de Minister van Economische Zaken over door het college uit te oefenen taken in de elektronische communicatiesector)

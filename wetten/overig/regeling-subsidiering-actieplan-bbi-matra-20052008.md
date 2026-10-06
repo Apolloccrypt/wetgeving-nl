@@ -9,7 +9,7 @@ laatste_update: 2008-02-02
 status: geldig
 toestand: 2008-02-02
 bron: "https://wetten.overheid.nl/BWBR0018423"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de minister van Landbouw, Natuur en Voedselkwaliteit van 10 juni 2005, nr. TRCJZ/2005/1614, houdende regels met betrekking tot de subsidiering van het Actieplan BBI-Matra 2005–2008 en tot wijziging van de Regeling diverse subsidieplafonds en aanvraagperioden LNV

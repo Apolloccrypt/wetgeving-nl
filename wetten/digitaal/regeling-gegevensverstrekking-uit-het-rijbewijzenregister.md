@@ -5,11 +5,11 @@ identifier: "BWBR0041604"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2018-12-01
-laatste_update: 2026-04-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-04-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0041604"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 26 november 2018, nr. IENW/BSK-2018/117815, tot vaststelling van regels inzake gegevensverstrekking uit het rijbewijzenregister (Regeling gegevensverstrekking uit het rijbewijzenregister)
@@ -62,7 +62,7 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna genoe
 
    - 3°. ten behoeve van de uitoefening van het inzagerecht door betrokkene: het burgerservicenummer in versleutelde vorm, de status van het rijbewijs, en de status van het publieke identificatiemiddel, alsmede wijzigingen in deze statussen;
 
-- g. aan overheidsorganen waarvoor personen werkzaam zijn als boa Openbare ruimte als bedoeld in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447), Domein I. Openbare ruimte, of als groene boa, ten behoeve van de identificatie van een staande gehouden persoon in het kader van de opsporing van strafbare feiten behorend tot Domein I. Openbare ruimte respectievelijk Domein II. Milieu, welzijn en infrastructuur, zoals opgenomen in die bijlage en voor zover de buitengewoon opsporingsambtenaar aangeeft deze nodig te hebben voor de identificatie van een staande gehouden persoon waarvan de buitengewoon opsporingsambtenaar de identiteit niet op andere wijze zelfstandig kan vaststellen: na opgave van het burgerservicenummer en geboortedatum van de staande gehouden persoon: de pasfoto in het rijbewijzenregister van de persoon aan wie het opgegeven burgerservicenummer toebehoort.
+- g. aan overheidsorganen waarvoor personen werkzaam zijn als boa Openbare ruimte of boa Openbaar Vervoer als bedoeld in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447), Domein I. Openbare ruimte respectievelijk Domein IV. Openbaar Vervoer, of als groene boa, ten behoeve van de identificatie van een staande gehouden persoon in het kader van de opsporing van strafbare feiten behorend tot Domein I. Openbare ruimte, Domein IV. Openbaar vervoer, respectievelijk Domein II. Milieu, welzijn en infrastructuur, zoals opgenomen in die bijlage en voor zover de buitengewoon opsporingsambtenaar aangeeft deze nodig te hebben voor de identificatie van een staande gehouden persoon waarvan de buitengewoon opsporingsambtenaar de identiteit niet op andere wijze zelfstandig kan vaststellen, na opgave van het burgerservicenummer en geboortedatum van de staande gehouden persoon: de pasfoto in het rijbewijzenregister van de persoon aan wie het opgegeven burgerservicenummer toebehoort.
 
 ##### Artikel 5
 
@@ -108,7 +108,9 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader
 
 - b. aan advocaten, voor zover het betreft gegevens, waaronder mede begrepen persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2): de gegevens van de cliënt die door de desbetreffende advocaat in een concrete gerechtelijke procedure wordt vertegenwoordigd;
 
-- c. aan onderzoeks- en onderwijsinstellingen, ten behoeve van wetenschappelijk onderzoek voor zover zij aantonen dat dit onderzoek namens of in opdracht van een overheidsorgaan wordt uitgevoerd: de gegevens, waaronder begrepen mede begrepen persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2), die noodzakelijk zijn voor het desbetreffende onderzoek.
+- c. aan onderzoeks- en onderwijsinstellingen, ten behoeve van wetenschappelijk onderzoek voor zover zij aantonen dat dit onderzoek namens of in opdracht van een overheidsorgaan wordt uitgevoerd: de gegevens, waaronder begrepen mede begrepen persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2), die noodzakelijk zijn voor het desbetreffende onderzoek;
+
+- d. aan vervoerders als bedoeld in [artikel 1 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1) waarvoor personen werkzaam zijn als boa Openbaar Vervoer als bedoeld in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447), Domein IV. Openbaar vervoer, ten behoeve van de identificatie van een staande gehouden persoon in het kader van de opsporing van strafbare feiten behorend tot Domein IV. Openbaar vervoer, zoals opgenomen in die bijlage en voor zover de buitengewoon opsporingsambtenaar aangeeft deze nodig te hebben voor de identificatie van een staande gehouden persoon waarvan de buitengewoon opsporingsambtenaar de identiteit niet op andere wijze zelfstandig kan vaststellen, na opgave van het burgerservicenummer en geboortedatum van de staande gehouden persoon: de pasfoto in het rijbewijzenregister van de persoon aan wie het opgegeven burgerservicenummer toebehoort.
 
 ##### Artikel 9
 
@@ -124,7 +126,7 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader
 
 ##### Artikel 9a
 
-1. De door de Dienst Wegverkeer verstrekte pasfoto als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01),
+1. De door de Dienst Wegverkeer verstrekte pasfoto, bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-10-01&g=2026-10-01), of in [artikel 8, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=8&z=2026-10-01&g=2026-10-01):
 
 - a. wordt slechts kortstondig digitaal beschikbaar gemaakt voor de betrokken buitengewoon opsporingsambtenaar en
 
@@ -132,9 +134,9 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader
 
 2. De Dienst Wegverkeer neemt de in het eerste lid genoemde eisen op in aansluit- en verstrekkingsvoorwaarden.
 
-3. Overheidsorganen als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01), tonen aan dat een door hen gebruikt ICT-middel aan de in het eerste lid bedoelde eisen voldoet.
+3. Overheidsorganen als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-10-01&g=2026-10-01), of vervoerders als bedoeld in [artikel 8, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=8&z=2026-10-01&g=2026-10-01), tonen aan dat een door hen gebruikt ICT-middel aan de in het eerste lid bedoelde eisen voldoet.
 
-4. Overheidsorganen als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01), melden een wijziging in een door hen gebruikt ICT-middel die verband houdt met de in het eerste lid bedoelde eisen onverwijld aan de Dienst Wegverkeer en tonen daarbij aan dat het ICT-middel nog steeds aan deze eisen voldoet.
+4. Overheidsorganen als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-10-01&g=2026-10-01), of vervoerders als bedoeld in [artikel 8, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=8&z=2026-10-01&g=2026-10-01), melden een wijziging in een door hen gebruikt ICT-middel die verband houdt met de in het eerste lid bedoelde eisen onverwijld aan de Dienst Wegverkeer en tonen daarbij aan dat het ICT-middel nog steeds aan deze eisen voldoet.
 
 #### § 4. Overige bepalingen
 

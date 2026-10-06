@@ -8,7 +8,7 @@ laatste_update: 2005-06-16
 status: geldig
 toestand: 2005-06-16
 bron: "https://wetten.overheid.nl/BWBR0018066"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen Minister van Binnenlandse Zaken en Koninkrijksrelaties beleidsterrein Brandweerzorg, rampenbestrijding en crisisbeheersing periode vanaf 1945

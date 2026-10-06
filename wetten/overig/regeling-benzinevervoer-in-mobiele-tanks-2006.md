@@ -9,7 +9,7 @@ laatste_update: 2025-07-04
 status: geldig
 toestand: 2025-07-04
 bron: "https://wetten.overheid.nl/BWBR0018575"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende regels voor mobiele tanks die worden gebruikt voor het vervoer van benzine over de weg, per spoor of over de binnenwateren (Regeling benzinevervoer in mobiele tanks 2006)

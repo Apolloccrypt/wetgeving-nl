@@ -9,7 +9,7 @@ laatste_update: 2005-07-01
 status: geldig
 toestand: 2005-07-01
 bron: "https://wetten.overheid.nl/BWBR0018212"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 19 april 2005, houdende instemming met de landsverordening van de Nederlandse Antillen van 27 december 2004 tot wijziging van de Eilandenregeling van de Nederlandse Antillen

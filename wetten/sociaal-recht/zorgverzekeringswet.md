@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0018450"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 16 juni 2005, houdende regeling van een sociale verzekering voor geneeskundige zorg ten behoeve van de gehele bevolking (Zorgverzekeringswet)

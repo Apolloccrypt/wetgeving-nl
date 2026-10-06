@@ -8,7 +8,7 @@ laatste_update: 2004-02-22
 status: geldig
 toestand: 2004-02-22
 bron: "https://wetten.overheid.nl/BWBR0017579"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsregeling selectielijst handelingen beleidsterrein Welzijn over de periode 1945-1996, Economische Zaken

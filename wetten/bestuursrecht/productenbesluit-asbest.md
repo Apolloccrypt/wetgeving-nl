@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0017778"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 17 december 2004, houdende regels betreffende asbest en asbesthoudende producten (Productenbesluit asbest)

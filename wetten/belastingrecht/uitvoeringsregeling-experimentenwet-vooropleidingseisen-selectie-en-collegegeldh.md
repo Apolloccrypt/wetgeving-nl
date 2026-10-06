@@ -8,7 +8,7 @@ laatste_update: 2015-09-01
 status: geldig
 toestand: 2015-09-01
 bron: "https://wetten.overheid.nl/BWBR0018220"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Uitvoeringsregeling Experimentenwet vooropleidingseisen, selectie en collegegeldheffing

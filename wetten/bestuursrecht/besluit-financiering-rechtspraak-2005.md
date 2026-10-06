@@ -9,7 +9,7 @@ laatste_update: 2005-02-11
 status: geldig
 toestand: 2005-02-11
 bron: "https://wetten.overheid.nl/BWBR0017975"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 28 januari 2005, houdende nieuwe regels inzake de financiering van de rechtspraak in verband met het invoeren van een baten-lastenstelsel en het verrekenen van productieverschillen (Besluit financiering rechtspraak 2005)

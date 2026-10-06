@@ -8,7 +8,7 @@ laatste_update: 2004-12-22
 status: geldig
 toestand: 2004-12-22
 bron: "https://wetten.overheid.nl/BWBR0017758"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Uitvoering Subsidieregeling indemniteit bruiklenen in de aanloop naar 2005

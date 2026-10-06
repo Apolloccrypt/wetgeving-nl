@@ -9,7 +9,7 @@ laatste_update: 2005-08-01
 status: geldig
 toestand: 2005-08-01
 bron: "https://wetten.overheid.nl/BWBR0018038"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 19 februari 2005, houdende wijziging van onder meer de Wet studiefinanciering 2000 in verband met invoering prestatiebeurs in een deel van de beroepsopleidende leerweg en meeneembaarheid studiefinanciering voor deze leerweg in het buitenland

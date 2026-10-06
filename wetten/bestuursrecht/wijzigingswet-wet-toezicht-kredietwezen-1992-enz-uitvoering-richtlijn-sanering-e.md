@@ -9,7 +9,7 @@ laatste_update: 2005-05-15
 status: geldig
 toestand: 2005-05-15
 bron: "https://wetten.overheid.nl/BWBR0018177"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 7 april 2005 tot wijziging van de Wet toezicht kredietwezen 1992 en van de Faillissementswet in verband met de uitvoering van richtlijn nr. 2001/24/EG van het Europees Parlement en de Raad van de Europese Unie van 4 april 2001 betreffende de sanering en de liquidatie van kredietinstellingen (PbEG L 125)

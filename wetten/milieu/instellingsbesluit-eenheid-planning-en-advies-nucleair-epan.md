@@ -9,7 +9,7 @@ laatste_update: 2005-03-20
 status: geldig
 toestand: 2005-03-20
 bron: "https://wetten.overheid.nl/BWBR0018105"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 14 maart 2005, nr. VI/CM20050113779, tot instelling van een Eenheid Planning en Advies nucleair

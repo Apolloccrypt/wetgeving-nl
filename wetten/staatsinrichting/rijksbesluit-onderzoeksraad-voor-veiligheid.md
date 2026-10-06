@@ -9,7 +9,7 @@ laatste_update: 2005-10-12
 status: geldig
 toestand: 2005-10-12
 bron: "https://wetten.overheid.nl/BWBR0017680"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 10 december 2004, houdende regels ter uitvoering van de Rijkswet Onderzoeksraad voor veiligheid (Rijksbesluit Onderzoeksraad voor veiligheid)

@@ -9,7 +9,7 @@ laatste_update: 2006-08-01
 status: geldig
 toestand: 2006-08-01
 bron: "https://wetten.overheid.nl/BWBR0018261"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 28 april 2005 tot wijziging van de Politiewet 1993 in verband met het stellen van regels voor het treffen van samenwerkingsvoorzieningen op initiatief van politiekorpsen en voor de informatie- en communicatievoorzieningen van de politie

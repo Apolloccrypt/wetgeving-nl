@@ -8,7 +8,7 @@ laatste_update: 2005-04-07
 status: geldig
 toestand: 2005-04-07
 bron: "https://wetten.overheid.nl/BWBR0018184"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Inwerkingtreding van het besluit tot wijziging van het verrekenprijsbesluit van 21 augustus 2004, nr. IFZ2004/680M

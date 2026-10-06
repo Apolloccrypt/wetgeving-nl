@@ -9,7 +9,7 @@ laatste_update: 2005-01-21
 status: geldig
 toestand: 2005-01-21
 bron: "https://wetten.overheid.nl/BWBR0017858"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 31 december 2004, houdende wijziging van het Warenwetbesluit Etikettering van levensmiddelen in verband met verordening (EG) 608/2004 en met de vermelding van zoethout (richtlijn 2004/77/EG), en van het Warenwetbesluit bestuurlijke boeten

@@ -9,7 +9,7 @@ laatste_update: 2020-03-19
 status: geldig
 toestand: 2020-03-19
 bron: "https://wetten.overheid.nl/BWBR0018189"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit houdende aanwijzing van personen belast met toezicht als bedoeld in de Spoorwegwet en de Spoorwegwet 1875 en houdende wijziging van het Besluit aanwijzing toezichthoudende en opsporingsambtenaren divisie Vervoer Inspectie Verkeer en Waterstaat 2002 (Besluit aanwijzing toezichthouders spoorwegen)

@@ -9,7 +9,7 @@ laatste_update: 2010-03-24
 status: geldig
 toestand: 2010-03-24
 bron: "https://wetten.overheid.nl/BWBR0017882"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 6 januari 2005, nr. IBE-2544885, houdende verlening van mandaat en machtiging aan SenterNovem

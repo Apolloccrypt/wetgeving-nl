@@ -9,7 +9,7 @@ laatste_update: 2006-10-06
 status: geldig
 toestand: 2006-10-06
 bron: "https://wetten.overheid.nl/BWBR0018610"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 16 juli 2005, houdende wijziging van de Mediawet in verband met het bevorderen van een gezamenlijke strategie en duidelijke regie met betrekking tot de programmering van de landelijke publieke omroep, alsmede het aanbrengen van een helderder afbakening tussen toezicht, bestuur en professionele werkprocessen binnen de organisatie van de landelijke publieke omroep

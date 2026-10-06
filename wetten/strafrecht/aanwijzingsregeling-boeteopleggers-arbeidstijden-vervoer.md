@@ -8,7 +8,7 @@ laatste_update: 2018-01-19
 status: geldig
 toestand: 2018-01-19
 bron: "https://wetten.overheid.nl/BWBR0018341"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Aanwijzingsregeling boeteopleggers arbeidstijden vervoer

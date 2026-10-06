@@ -9,7 +9,7 @@ laatste_update: 2005-03-18
 status: geldig
 toestand: 2005-03-18
 bron: "https://wetten.overheid.nl/BWBR0018084"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit tot het verlenen van mandaat en volmacht aan de Stichting Administratie Indonesische Pensioenen om namens de minister stukken over overzeese pensioen- en uitkeringsregelingen af te doen en te ondertekenen

@@ -8,7 +8,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017591"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Bezoldiging commissarissen van de Koningin, vergoeding en onkostenvergoeding statenleden, vergoeding commissieleden en onkostenvergoeding leden gedeputeerde staten

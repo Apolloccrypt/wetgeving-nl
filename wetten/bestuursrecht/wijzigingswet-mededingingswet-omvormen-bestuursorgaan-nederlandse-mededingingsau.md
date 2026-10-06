@@ -9,7 +9,7 @@ laatste_update: 2005-07-01
 status: geldig
 toestand: 2005-07-01
 bron: "https://wetten.overheid.nl/BWBR0017654"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 9 december 2004, houdende wijziging van de Mededingingswet in verband met het omvormen van het bestuursorgaan van de Nederlandse mededingingsautoriteit tot zelfstandig bestuursorgaan

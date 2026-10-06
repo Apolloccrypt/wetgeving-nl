@@ -9,7 +9,7 @@ laatste_update: 2005-05-29
 status: geldig
 toestand: 2005-05-29
 bron: "https://wetten.overheid.nl/BWBR0018333"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, houdende vaststelling van het tarief van de heffing inzake export van groenten en fruit naar Japan en Taiwan (Besluit PT heffing export groenten en fruit Japan en Taiwan 2005)

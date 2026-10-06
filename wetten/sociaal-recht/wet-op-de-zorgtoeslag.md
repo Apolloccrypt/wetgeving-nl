@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0018451"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 16 juni 2005, houdende regels inzake de aanspraak op een financiële tegemoetkoming in de premie van een zorgverzekering vanwege een laag inkomen (Wet op de zorgtoeslag)

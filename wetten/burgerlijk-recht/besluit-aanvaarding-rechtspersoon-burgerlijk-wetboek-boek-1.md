@@ -9,7 +9,7 @@ laatste_update: 2005-01-19
 status: geldig
 toestand: 2005-01-19
 bron: "https://wetten.overheid.nl/BWBR0017896"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Justitie van 12 januari 2005, nr. 5328240/04/DJJ, houdende aanvaarding van de rechtspersoon als bedoeld in de artikelen 254, tweede lid, en 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek

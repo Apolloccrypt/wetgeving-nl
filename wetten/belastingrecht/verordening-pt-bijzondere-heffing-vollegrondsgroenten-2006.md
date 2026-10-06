@@ -9,7 +9,7 @@ laatste_update: 2006-07-02
 status: geldig
 toestand: 2006-07-02
 bron: "https://wetten.overheid.nl/BWBR0018491"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 28 juni 2005, houdende de vaststelling van een heffing ten behoeve van de teelt van vollegrondsgroenten voor het jaar 2006 (Verordening PT bijzondere heffing vollegrondsgroenten 2006)

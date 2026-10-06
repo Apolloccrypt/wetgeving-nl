@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0017928"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Rijkswet van 20 januari 2005, houdende wijziging van de Schepenwet in verband met de totstandkoming van de Rijkswet Onderzoeksraad voor veiligheid en de invoering van een nieuwe regeling van tuchtrechtspraak voor de zeescheepvaart

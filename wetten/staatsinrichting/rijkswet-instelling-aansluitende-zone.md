@@ -9,7 +9,7 @@ laatste_update: 2006-09-01
 status: geldig
 toestand: 2006-09-01
 bron: "https://wetten.overheid.nl/BWBR0018265"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Rijkswet van 28 april 2005 tot instelling van een aansluitende zone van het Koninkrijk (Rijkswet instelling aansluitende zone)

@@ -9,7 +9,7 @@ laatste_update: 2012-12-07
 status: geldig
 toestand: 2012-12-07
 bron: "https://wetten.overheid.nl/BWBR0017584"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 26 november 2004, houdende regels inzake de verstrekking van subsidies ten behoeve van de herstructurering van bedrijventerreinen van belang voor de ruimtelijk economische hoofdstructuur (Besluit subsidies Topprojecten herstructurering bedrijventerreinen)

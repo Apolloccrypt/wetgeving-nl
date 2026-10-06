@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0017828"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 23 december 2004, houdende regels met betrekking tot het verstrekken van een brede doeluitkering aan provincies en regionaal openbare lichamen ten behoeve van de uitvoering van een integraal verkeer- en vervoerbeleid (Wet BDU verkeer en vervoer)

@@ -9,7 +9,7 @@ laatste_update: 2005-07-27
 status: geldig
 toestand: 2005-07-27
 bron: "https://wetten.overheid.nl/BWBR0018561"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 5 juli 2005, houdende de vaststelling van de bestanddelen van de beeldenaar van de zilveren munt van vijf euro en de gouden munt van tien euro die in 2005 worden uitgegeven ter gelegenheid van het feit dat 60 jaar geleden de Tweede Wereldoorlog tot een einde kwam

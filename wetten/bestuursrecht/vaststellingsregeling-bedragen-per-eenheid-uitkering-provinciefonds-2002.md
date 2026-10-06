@@ -9,7 +9,7 @@ laatste_update: 2005-02-13
 status: geldig
 toestand: 2005-02-13
 bron: "https://wetten.overheid.nl/BWBR0017972"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van 28 januari 2005, nr. FO2005/0000008129, tot vaststelling van de bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2002

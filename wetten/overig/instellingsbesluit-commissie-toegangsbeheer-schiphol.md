@@ -9,7 +9,7 @@ laatste_update: 2005-04-18
 status: geldig
 toestand: 2005-04-18
 bron: "https://wetten.overheid.nl/BWBR0018205"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Justitie van 15 april 2005, nr. 5347827/05/NCTb, houdende de instelling van de commissie Toegangsbeheer Schiphol (Instellingsbesluit commissie Toegangsbeheer Schiphol)

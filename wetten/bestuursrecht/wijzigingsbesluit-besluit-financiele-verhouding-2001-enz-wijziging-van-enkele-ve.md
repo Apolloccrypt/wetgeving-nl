@@ -9,7 +9,7 @@ laatste_update: 2006-01-13
 status: geldig
 toestand: 2006-01-13
 bron: "https://wetten.overheid.nl/BWBR0018612"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 16 juli 2005 tot wijziging van het Besluit Financiële verhouding 2001 in verband met de wijziging van enkele verdeelmaatstaven

@@ -9,7 +9,7 @@ laatste_update: 2023-04-19
 status: geldig
 toestand: 2023-04-19
 bron: "https://wetten.overheid.nl/BWBR0018234"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 25 april 2005, houdende regelen ter uitvoering van de EG-verordening betreffende detergentia (Besluit detergentia Wms)

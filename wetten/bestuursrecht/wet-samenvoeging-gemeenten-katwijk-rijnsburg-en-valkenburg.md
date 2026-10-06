@@ -9,7 +9,7 @@ laatste_update: 2005-09-01
 status: geldig
 toestand: 2005-09-01
 bron: "https://wetten.overheid.nl/BWBR0018527"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 30 juni 2005 tot samenvoeging van de gemeenten Katwijk, Rijnsburg en Valkenburg

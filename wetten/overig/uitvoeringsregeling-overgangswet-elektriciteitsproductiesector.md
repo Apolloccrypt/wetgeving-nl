@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0017925"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Economische Zaken van 20 januari 2005, nr. WJZ 4081042, tot vaststelling van regels over tegemoetkoming van de elektriciteitsproductiesector (Uitvoeringsregeling Overgangswet elektriciteitsproductiesector)

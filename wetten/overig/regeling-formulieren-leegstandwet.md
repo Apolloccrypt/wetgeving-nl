@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0018303"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 3 mei 2005, Directie Juridische Zaken, Afdeling Wetgeving, nr. MJZ2005052804, houdende vaststelling van de modellen, bedoeld in artikel 15, tweede en vierde lid, van de Leegstandwet (Regeling formulieren Leegstandwet)

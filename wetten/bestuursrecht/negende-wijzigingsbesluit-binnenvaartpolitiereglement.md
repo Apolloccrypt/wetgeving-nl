@@ -9,7 +9,7 @@ laatste_update: 2004-12-01
 status: geldig
 toestand: 2004-12-01
 bron: "https://wetten.overheid.nl/BWBR0017534"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 17 november 2004, houdende wijziging van het Vaststellingsbesluit Binnenvaartpolitiereglement en het Binnenvaartpolitiereglement in verband met enkele technische aanpassingen, de verbetering van de systematiek, de presentatie en de redactie (Negende wijzigingsbesluit Binnenvaartpolitiereglement)

@@ -8,7 +8,7 @@ laatste_update: 2006-01-15
 status: geldig
 toestand: 2006-01-15
 bron: "https://wetten.overheid.nl/BWBR0018565"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijsten neerslag handelingen beleidsterreinen Energiebeleid en Energiedelfstoffen vanaf 1945 (Minister van Sociale Zaken en Werkgelegenheid)

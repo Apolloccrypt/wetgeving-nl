@@ -9,7 +9,7 @@ laatste_update: 2005-09-14
 status: geldig
 toestand: 2005-09-14
 bron: "https://wetten.overheid.nl/BWBR0018448"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 16 juni 2005, houdende wijziging van de Wet explosieven voor civiel gebruik ten behoeve van de implementatie van zowel richtlijn nr. 2004/57/EG van de Commissie van de Europese Gemeenschappen van 23 april 2004 betreffende het identificeren van pyrotechnische voorwerpen en bepaalde munitie voor de doeleinden van richtlijn nr. 93/15/EEG van de Raad betreffende de harmonisatie van de bepalingen inzake het in de handel brengen van en de controle op explosieven voor civiel gebruik (PbEU L 127) als de beschikking nr. 2004/388/EG van de Commissie van de Europese Gemeenschappen van 15 april 2004 betreffende een document voor de overbrenging van explosieven binnen de Gemeenschap (PbEU L 120)

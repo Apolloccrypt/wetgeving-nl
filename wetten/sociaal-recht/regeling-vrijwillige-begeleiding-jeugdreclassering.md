@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0017895"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Justitie van 12 januari 2005, nr. 5328243/04/DJJ, houdende aanwijzing van gevallen waarin de raad voor de kinderbescherming de stichting kan inschakelen voor vrijwillige begeleiding van een jeugdige (Regeling vrijwillige begeleiding jeugdreclassering)

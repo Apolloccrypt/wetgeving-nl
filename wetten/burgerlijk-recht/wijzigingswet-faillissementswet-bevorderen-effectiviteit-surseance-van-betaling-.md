@@ -9,7 +9,7 @@ laatste_update: 2005-12-01
 status: geldig
 toestand: 2005-12-01
 bron: "https://wetten.overheid.nl/BWBR0017573"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 24 november 2004 tot wijziging van de Faillissementswet in verband met het bevorderen van de effectiviteit van surséance van betaling en faillissement

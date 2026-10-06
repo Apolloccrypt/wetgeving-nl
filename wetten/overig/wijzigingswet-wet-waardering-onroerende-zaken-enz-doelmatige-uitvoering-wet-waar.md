@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0017663"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 9 december 2004, houdende wijziging van de Wet waardering onroerende zaken en van enige andere wetten (meer doelmatige uitvoering van de Wet waardering onroerende zaken)

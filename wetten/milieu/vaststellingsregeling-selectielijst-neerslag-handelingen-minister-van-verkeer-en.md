@@ -8,7 +8,7 @@ laatste_update: 2005-07-20
 status: geldig
 toestand: 2005-07-20
 bron: "https://wetten.overheid.nl/BWBR0018399"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsregeling selectielijst neerslag handelingen Minister van Verkeer en Waterstaat beleidsterrein Rijksbegroting periode 1940–1993

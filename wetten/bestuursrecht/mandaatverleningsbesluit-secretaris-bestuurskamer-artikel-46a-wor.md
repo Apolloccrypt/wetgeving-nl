@@ -9,7 +9,7 @@ laatste_update: 2005-01-30
 status: geldig
 toestand: 2005-01-30
 bron: "https://wetten.overheid.nl/BWBR0017818"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Bestuurskamer van 22 december 2004, houdende mandatering aan de secretaris van de Bestuurskamer van de bevoegdheden van de Bestuurskamer in het kader van de heffing op grond van artikel 46a van de Wet op de ondernemingsraden (Mandaatverleningsbesluit secretaris Bestuurskamer artikel 46a WOR)

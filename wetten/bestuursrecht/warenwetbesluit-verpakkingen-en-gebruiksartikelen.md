@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0018370"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 30 mei 2005, houdende vaststelling van het Warenwetbesluit verpakkingen en gebruiksartikelen in verband met Verordening (EG) nr. 1935/2004 van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 inzake materialen en voorwerpen bestemd om met levensmiddelen in contact te komen en houdende intrekking van de richtlijnen 80/590/EEG en 89/109/EEG (PbEU L 338) (Warenwetbesluit verpakkingen en gebruiksartikelen)

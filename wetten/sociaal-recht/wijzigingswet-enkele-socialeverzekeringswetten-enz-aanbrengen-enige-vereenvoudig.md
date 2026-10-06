@@ -9,7 +9,7 @@ laatste_update: 2005-07-01
 status: geldig
 toestand: 2005-07-01
 bron: "https://wetten.overheid.nl/BWBR0017841"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 23 december 2004 tot wijziging van enkele socialeverzekeringswetten en enige andere wetten in verband met het aanbrengen van enige vereenvoudigingen

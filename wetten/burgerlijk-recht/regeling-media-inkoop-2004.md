@@ -9,7 +9,7 @@ laatste_update: 2010-02-27
 status: geldig
 toestand: 2010-02-27
 bron: "https://wetten.overheid.nl/BWBR0017416"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken, van 3 november 2004, nr. 04R36868, houdende wijziging van de Regeling media-inkoop in verband met uitbreiding ten behoeve van mede-overheden

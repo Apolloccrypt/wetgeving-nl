@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0017321"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 18 oktober 2004, houdende regels over de tegemoetkomingen in de kosten van kinderopvang (Besluit tegemoetkoming kosten kinderopvang)

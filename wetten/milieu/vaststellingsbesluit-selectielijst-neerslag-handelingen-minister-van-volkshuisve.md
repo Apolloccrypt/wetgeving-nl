@@ -8,7 +8,7 @@ laatste_update: 2005-08-06
 status: geldig
 toestand: 2005-08-06
 bron: "https://wetten.overheid.nl/BWBR0018407"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, beleidsterrein Volkshuisvesting 1945–1996

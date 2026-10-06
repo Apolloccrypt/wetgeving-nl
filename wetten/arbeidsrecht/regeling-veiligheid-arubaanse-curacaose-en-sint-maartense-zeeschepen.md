@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0017726"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling houdende nadere regels met betrekking tot de veiligheid en certificering van in de Nederlandse Antillen en Aruba geregistreerde zeeschepen (Regeling veiligheid Nederlands-Antilliaanse en Arubaanse zeeschepen)

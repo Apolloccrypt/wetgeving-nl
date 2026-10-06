@@ -9,7 +9,7 @@ laatste_update: 2005-09-01
 status: geldig
 toestand: 2005-09-01
 bron: "https://wetten.overheid.nl/BWBR0017989"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 3 februari 2005 tot wijziging van de Kadasterwet, de Invoeringswet Kadasterwet, de Organisatiewet Kadaster, enige andere wetten en enkele wetboeken in verband met een verdergaande toepassing van informatie- en communicatietechnologie bij de aanbieding van stukken ter inschrijving in de openbare registers voor registergoederen, het houden van die registers en de verstrekking van inlichtingen daaruit, alsmede in verband met enkele noodzakelijk gebleken technische aanpassingen en het stellen van aanvullende eisen aan het gebruik van elektronische handtekeningen (Herzieningswet Kadasterwet I)

@@ -8,7 +8,7 @@ laatste_update: 2004-12-20
 status: geldig
 toestand: 2004-12-20
 bron: "https://wetten.overheid.nl/BWBR0017725"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Fiscale beleidsregels november 2004

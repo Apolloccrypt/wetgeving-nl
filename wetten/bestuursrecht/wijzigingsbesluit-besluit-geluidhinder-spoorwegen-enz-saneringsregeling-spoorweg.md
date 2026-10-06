@@ -9,7 +9,7 @@ laatste_update: 2005-04-22
 status: geldig
 toestand: 2005-04-22
 bron: "https://wetten.overheid.nl/BWBR0018074"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 7 maart 2005, houdende wijziging van het Besluit geluidhinder spoorwegen en het Subsidiebesluit openbare lichamen milieubeheer (saneringsregeling spoorweglawaai)

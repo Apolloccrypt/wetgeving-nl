@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0017779"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 17 december 2004, houdende regels ten behoeve van de implementatie van richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU L 275) (Besluit handel in emissierechten)

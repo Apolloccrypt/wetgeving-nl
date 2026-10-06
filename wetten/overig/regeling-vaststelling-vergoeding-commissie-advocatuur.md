@@ -8,7 +8,7 @@ laatste_update: 2005-07-13
 status: geldig
 toestand: 2005-07-13
 bron: "https://wetten.overheid.nl/BWBR0018482"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling vaststelling vergoeding commissie Advocatuur

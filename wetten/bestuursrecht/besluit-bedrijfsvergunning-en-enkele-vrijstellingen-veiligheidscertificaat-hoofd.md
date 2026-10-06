@@ -9,7 +9,7 @@ laatste_update: 2019-06-16
 status: geldig
 toestand: 2019-06-16
 bron: "https://wetten.overheid.nl/BWBR0017623"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 3 december 2004, houdende nadere regels over de bedrijfsvergunning en het veiligheidsattest voor spoorwegondernemingen die gebruikmaken van hoofdspoorwegen (Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen)

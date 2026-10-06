@@ -9,7 +9,7 @@ laatste_update: 2024-01-31
 status: geldig
 toestand: 2024-01-31
 bron: "https://wetten.overheid.nl/BWBR0018065"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 1 maart 2005, houdende regels omtrent het definiëren, ordenen en beschikbaarstellen van gegevens in het primair en (voortgezet) speciaal onderwijs (Besluit informatievoorziening WPO/WEC)

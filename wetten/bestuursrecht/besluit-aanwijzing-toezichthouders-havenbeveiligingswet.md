@@ -8,7 +8,7 @@ laatste_update: 2025-06-28
 status: geldig
 toestand: 2025-06-28
 bron: "https://wetten.overheid.nl/BWBR0018307"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit aanwijzing toezichthouders Havenbeveiligingswet

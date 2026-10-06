@@ -9,7 +9,7 @@ laatste_update: 2005-02-23
 status: geldig
 toestand: 2005-02-23
 bron: "https://wetten.overheid.nl/BWBR0018019"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Justitie van 15 februari 2005, nr. 5332552/05/6, tot aanwijzing van het identiteitsbewijs, bedoeld in artikel 3, tweede lid, van het NAVO-statusverdrag

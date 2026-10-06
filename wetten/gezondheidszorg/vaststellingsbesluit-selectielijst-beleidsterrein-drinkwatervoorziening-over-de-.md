@@ -8,7 +8,7 @@ laatste_update: 2005-04-27
 status: geldig
 toestand: 2005-04-27
 bron: "https://wetten.overheid.nl/BWBR0017957"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijst beleidsterrein Drinkwatervoorziening over de periode 1913–1983: neerslag handelingen Minister van Volksgezondheid, Welzijn en Sport

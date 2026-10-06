@@ -9,7 +9,7 @@ laatste_update: 2005-09-28
 status: geldig
 toestand: 2005-09-28
 bron: "https://wetten.overheid.nl/BWBR0018263"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 28 april 2005 tot wijziging van de Wet op de waterkering en intrekking van de Deltawet grote rivieren, de Deltawet, de Deltaschadewet, de Wet schade oesterkwekers, de Vergunningwet Westerschelde, de Zuiderzeewet en de Zuiderzeesteunwet

@@ -9,7 +9,7 @@ laatste_update: 2005-04-03
 status: geldig
 toestand: 2005-04-03
 bron: "https://wetten.overheid.nl/BWBR0018151"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 30 maart 2005, nr. 05.001194, houdende wijziging van de vervangingsregeling in geval van tijdelijke afwezigheid van een minister alsmede benoeming van Onze Minister van Economische Zaken, mr. L.J. Brinkhorst, tot Vice-Minister-President

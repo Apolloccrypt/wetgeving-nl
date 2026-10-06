@@ -9,7 +9,7 @@ laatste_update: 2005-05-15
 status: geldig
 toestand: 2005-05-15
 bron: "https://wetten.overheid.nl/BWBR0017853"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw d.d. 28 september 2004, houdende de vaststelling van de hoogte van het bedrag dat aan het Bedrijfschap voor de Groothandel in Bloemkwekerijproducten wordt afgedragen (Besluit 2005/2 PT bloemkwekerijproducten: heffingsafdracht Hoofdbedrijfschap 2005)

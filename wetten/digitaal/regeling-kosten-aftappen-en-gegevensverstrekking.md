@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0018150"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Economische Zaken van 30 maart 2005, nr. WJZ 5017828, houdende regels inzake de vaststelling en vergoeding van kosten, bedoeld in artikel 13.6, tweede lid, van de Telecommunicatiewet (Regeling kosten aftappen en gegevensverstrekking)

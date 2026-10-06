@@ -5,11 +5,11 @@ identifier: "BWBR0048084"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2023-04-21
-laatste_update: 2026-03-21
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-03-21
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0048084"
-opgehaald: 2026-09-03
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de directeur-generaal Straffen en Beschermen van het Ministerie van Justitie en Veiligheid van 11 april 2023, nr. 4502822, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende functionarissen van het directoraat-generaal Straffen en Beschermen (Mandaatbesluit DGSenB Ministerie van Justitie en Veiligheid 2023)
@@ -20,11 +20,11 @@ opgehaald: 2026-09-03
 
 - a. de directeur Sanctie- en Slachtofferbeleid;
 
-- b. de directeur Jeugd, Familie en aanpak Criminaliteitsfenomenen;
+- b. de directie Jeugd en Familie;
 
 - c. de directeur Advies, Regie en Centrale autoriteit;
 
-- d. de directeur Artificiële Intelligentie.
+- d. de directie Artificiële Intelligentie, Gegevensbescherming en Privacy.
 
 2. De directeur-generaal verleent ondermandaat aan de plaatsvervangend directeur-generaal Straffen en Beschermen om bij afwezigheid of verhindering als plaatsvervangend directeur-generaal diens bevoegdheden uit te oefenen.
 
@@ -38,11 +38,11 @@ opgehaald: 2026-09-03
 
 ##### Artikel 2
 
-Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048084&bijlage=1&z=2026-03-21&g=2026-03-21) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048084&bijlage=1&z=2026-10-01&g=2026-10-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048084&bijlage=2&z=2026-03-21&g=2026-03-21) bij dit besluit, voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048084&bijlage=2&z=2026-10-01&g=2026-10-01) bij dit besluit, voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 

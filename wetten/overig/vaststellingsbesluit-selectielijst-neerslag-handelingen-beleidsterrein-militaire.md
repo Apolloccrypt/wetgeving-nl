@@ -8,7 +8,7 @@ laatste_update: 2005-06-17
 status: geldig
 toestand: 2005-06-17
 bron: "https://wetten.overheid.nl/BWBR0018390"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Militaire Operatiën periode vanaf 1945 (Minister van Financiën)

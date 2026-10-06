@@ -9,7 +9,7 @@ laatste_update: 2005-04-30
 status: geldig
 toestand: 2005-04-30
 bron: "https://wetten.overheid.nl/BWBR0018194"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, van 12 april 2005, nr. MC/MO-2576252, houdende vaststelling van een beleidsregel ex. artikel 13 van de Wet tarieven gezondheidszorg inzake kortingen voor universitair medische centra, algemene ziekenhuizen en categorale ziekenhuizen vanaf 2005

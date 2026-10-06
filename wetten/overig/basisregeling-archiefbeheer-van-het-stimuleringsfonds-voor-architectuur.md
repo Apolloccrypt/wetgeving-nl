@@ -9,7 +9,7 @@ laatste_update: 2005-09-10
 status: geldig
 toestand: 2005-09-10
 bron: "https://wetten.overheid.nl/BWBR0018352"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Basisregeling Archiefbeheer van de stichting Stimuleringsfonds voor Architectuur

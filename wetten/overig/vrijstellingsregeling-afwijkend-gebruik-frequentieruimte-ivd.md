@@ -9,7 +9,7 @@ laatste_update: 2013-03-15
 status: geldig
 toestand: 2013-03-15
 bron: "https://wetten.overheid.nl/BWBR0018355"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Economische Zaken van 25 mei 2005, nr. WJZ 5019424, houdende regels ter zake vrijstelling van het toestemmingsvereiste ex artikel 3.10, tweede lid, van de Telecommunicatiewet (Vrijstelling afwijkend gebruik frequentieruimte IVD)

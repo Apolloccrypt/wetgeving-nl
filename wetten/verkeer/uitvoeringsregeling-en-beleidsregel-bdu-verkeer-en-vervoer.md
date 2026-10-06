@@ -9,7 +9,7 @@ laatste_update: 2025-11-12
 status: geldig
 toestand: 2025-11-12
 bron: "https://wetten.overheid.nl/BWBR0018109"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling tot vaststelling van regels ter uitvoering van de BDU verkeer en vervoer en van een beleidsregel ter uitvoering van artikel 11, eerste lid, onderdeel b, van de Wet BDU verkeer en vervoer (Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer)

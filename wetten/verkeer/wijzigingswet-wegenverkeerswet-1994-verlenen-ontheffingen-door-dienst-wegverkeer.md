@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0017665"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 9 december 2004 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot het verlenen van ontheffingen in bepaalde gevallen door de Dienst Wegverkeer en enkele technische wijzigingen

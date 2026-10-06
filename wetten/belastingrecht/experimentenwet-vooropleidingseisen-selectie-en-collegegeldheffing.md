@@ -9,7 +9,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0018259"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 28 april 2005, houdende tijdelijke regels betreffende experimenten in het hoger onderwijs op het gebied van vooropleidingseisen aan en selectie van aanstaande studenten en op het gebied van heffing van collegegeld (Experimentenwet vooropleidingseisen, selectie en collegegeldheffing)

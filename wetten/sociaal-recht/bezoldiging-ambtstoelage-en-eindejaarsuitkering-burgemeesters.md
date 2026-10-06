@@ -8,7 +8,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017592"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Bezoldiging, ambtstoelage en eindejaarsuitkering burgemeesters

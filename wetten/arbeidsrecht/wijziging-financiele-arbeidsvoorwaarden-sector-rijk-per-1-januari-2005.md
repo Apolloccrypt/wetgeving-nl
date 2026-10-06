@@ -8,7 +8,7 @@ laatste_update: 2004-12-23
 status: geldig
 toestand: 2004-12-23
 bron: "https://wetten.overheid.nl/BWBR0017800"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2005

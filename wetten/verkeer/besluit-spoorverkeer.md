@@ -9,7 +9,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0017624"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 3 december 2004, houdende regels met betrekking tot het veilig en ongestoord gebruik van hoofdspoorwegen (Besluit spoorverkeer)

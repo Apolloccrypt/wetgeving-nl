@@ -9,7 +9,7 @@ laatste_update: 2005-06-26
 status: geldig
 toestand: 2005-06-26
 bron: "https://wetten.overheid.nl/BWBR0018446"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 16 juni 2005, nr. VGP/P&L 2583567, houdende intrekking gelijkstelling buitenlandse certificaten

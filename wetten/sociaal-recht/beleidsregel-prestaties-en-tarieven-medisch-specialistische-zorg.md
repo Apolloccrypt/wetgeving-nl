@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0048679"
-opgehaald: 2026-09-28
+opgehaald: 2026-10-06
 ---
 
 # Beleidsregel prestaties en tarieven medisch-specialistische zorg
@@ -449,7 +449,7 @@ Bij een apotheekbereiding:
 
 8. De NZa neemt na ontvangst van een aanvraag als bedoeld in het derde lid een besluit met inachtneming van de geldende beslistermijnen uit de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb). In het besluit wordt de datum van inwerkingtreding vermeld.
 
-9. Het besluit bedoeld in het vorige lid is een beschikking als bedoeld in artikel 50, eerste lid, van de Wmg.
+9. Het besluit bedoeld in het vorige lid is een beschikking als bedoeld in [artikel 50, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
 10. Het besluit bedoeld in het achtste lid wordt gepubliceerd op de website van de NZa. Van de zakelijke inhoud van het besluit wordt mededeling gedaan in de Staatscourant. Het besluit wordt schriftelijk verstuurd aan de aanvragende partijen. In de G-standaard komt tot uiting voor welke geneesmiddelen een add-on en ozp-stollingsfactor is vastgesteld.
 
@@ -509,7 +509,7 @@ Het besluit waarmee de facultatieve prestatie is vastgesteld, wordt gepubliceerd
 
 5. Vanaf de datum waarop als gevolg van de situatie beschreven in het vierde lid, een gewijzigde of nieuwe prestatie op basis van de bestaande dbc-bekostigingssystematiek in werking treedt, wordt de hiermee corresponderende facultatieve prestatie beëindigd. In de beschikking waarmee een facultatieve prestatie is vastgesteld, wordt een voorschrift van deze strekking opgenomen. De beëindiging van de facultatieve prestatie wordt geëffectueerd door het verwijderen van de aan deze prestatie gekoppelde za-code uit de ict-tabellen. Zorgaanbieders en zorgverzekeraars die ten aanzien van de hier bedoelde categorie facultatieve prestaties contracten hebben gesloten waarvan de contractsduur doorloopt na de datum waarop de gewijzigde of nieuwe prestatie op basis van de landelijke dbc-systematiek in werking is getreden, kunnen aan die enkele omstandigheid geen recht op voortgezet gebruik van de betreffende facultatieve prestatie ontlenen.
 
-6. Tenslotte onthoudt de NZa, met inachtneming van artikel 4:84 van de Algemene wet bestuursrecht, goedkeuring aan een aanvraag voor een facultatieve prestatie, indien:
+6. Tenslotte onthoudt de NZa, met inachtneming van [artikel 4:84 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:84), goedkeuring aan een aanvraag voor een facultatieve prestatie, indien:
 
 - a deze, ook na een door de NZa geboden redelijke hersteltermijn, niet voldoet aan een of meer voorwaarden genoemd in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0048679&hoofdstuk=II&artikel=12a&z=2026-01-01&g=2026-01-01);
 

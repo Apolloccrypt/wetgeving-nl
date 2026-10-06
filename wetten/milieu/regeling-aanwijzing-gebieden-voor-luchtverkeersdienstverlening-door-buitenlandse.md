@@ -9,7 +9,7 @@ laatste_update: 2009-12-17
 status: geldig
 toestand: 2009-12-17
 bron: "https://wetten.overheid.nl/BWBR0018273"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretarissen van Verkeer en Waterstaat en van Defensie, houdende aanwijzing van gebieden binnen het vluchtinformatiegebied Amsterdam, waar buitenlandse instanties luchtverkeersdienstverlening geven (Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties 2005)

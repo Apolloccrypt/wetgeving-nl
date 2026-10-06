@@ -8,7 +8,7 @@ laatste_update: 2007-06-16
 status: geldig
 toestand: 2007-06-16
 bron: "https://wetten.overheid.nl/BWBR0018549"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Organisatie van de Rijksoverheid periode 1945–1999 (Minister van Volksgezondheid, Welzijn en Sport)

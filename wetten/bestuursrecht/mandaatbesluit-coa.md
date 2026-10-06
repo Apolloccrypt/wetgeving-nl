@@ -9,7 +9,7 @@ laatste_update: 2005-01-16
 status: geldig
 toestand: 2005-01-16
 bron: "https://wetten.overheid.nl/BWBR0017547"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Justitie van 19 november 2004, nr. 5329852/05/DJJ, houdende verlening van mandaat aan het Centraal Orgaan opvang asielzoekers tot het nemen van besluiten inzake beëindiging van het verstrekken van leefgelden aan ex-ama’s alsmede verlening van procesbevoegdheid terzake (Mandaatbesluit COA)

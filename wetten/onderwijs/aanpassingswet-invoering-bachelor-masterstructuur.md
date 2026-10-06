@@ -9,7 +9,7 @@ laatste_update: 2018-05-01
 status: geldig
 toestand: 2018-05-01
 bron: "https://wetten.overheid.nl/BWBR0017830"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 23 december 2004 tot wijziging van een aantal wetten in verband met de invoering van de bachelor-masterstructuur in het hoger onderwijs (Aanpassingswet invoering bachelor-masterstructuur)

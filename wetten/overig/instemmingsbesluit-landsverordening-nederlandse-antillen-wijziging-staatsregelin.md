@@ -9,7 +9,7 @@ laatste_update: 2005-02-01
 status: geldig
 toestand: 2005-02-01
 bron: "https://wetten.overheid.nl/BWBR0017721"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 15 december 2004, houdende instemming met de landsverordening van de Nederlandse Antillen van 16 september 2004 tot wijziging van de Staatsregeling van de Nederlandse Antillen

@@ -9,7 +9,7 @@ laatste_update: 2006-09-01
 status: geldig
 toestand: 2006-09-01
 bron: "https://wetten.overheid.nl/BWBR0017801"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 december 2004, nr. TRCJZ/2004/6409, houdende verlening van mandaat en volmacht aan ambtenaren van de Dienst Regelingen (Mandaatbesluit LNV Dienst Regelingen 2005)

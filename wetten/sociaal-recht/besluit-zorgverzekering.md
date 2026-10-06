@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0018492"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 28 juni 2005, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in de artikelen 11, 20, 22, 32, 34 en 89, van de Zorgverzekeringswet (Besluit zorgverzekering)

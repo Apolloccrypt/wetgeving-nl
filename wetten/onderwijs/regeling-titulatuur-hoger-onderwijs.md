@@ -8,7 +8,7 @@ laatste_update: 2018-12-04
 status: geldig
 toestand: 2018-12-04
 bron: "https://wetten.overheid.nl/BWBR0018486"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling titulatuur hoger onderwijs

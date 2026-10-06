@@ -9,7 +9,7 @@ laatste_update: 2004-10-22
 status: geldig
 toestand: 2004-10-22
 bron: "https://wetten.overheid.nl/BWBR0017323"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Financiën van 19 oktober 2004, nr. IAZ 2004-882M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Ministerie van Financiën, kaartsysteem op de archiefbescheiden van de Liquidatie van de Verwaltung Sarphatistraat (1929) 1941–1958

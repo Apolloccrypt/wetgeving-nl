@@ -8,7 +8,7 @@ laatste_update: 2007-06-10
 status: geldig
 toestand: 2007-06-10
 bron: "https://wetten.overheid.nl/BWBR0018344"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling vrijstelling nachtarbeid wegvervoer

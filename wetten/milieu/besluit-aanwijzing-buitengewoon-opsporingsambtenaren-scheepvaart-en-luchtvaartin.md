@@ -9,7 +9,7 @@ laatste_update: 2005-04-15
 status: geldig
 toestand: 2005-04-15
 bron: "https://wetten.overheid.nl/BWBR0018172"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Beschikking van de Minister van Justitie, van 5 april 2005, inhoudende de aanwijzing van buitengewoon opsporingsambtenaren bij de Scheepvaart- en Luchtvaartinspectie

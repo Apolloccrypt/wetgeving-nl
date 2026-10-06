@@ -9,7 +9,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0018438"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 14 juni 2005, houdende regels over de inhoud, de grenzen en de wijze van toepassing in de jaarrekening van waardering tegen actuele waarde (Besluit actuele waarde)

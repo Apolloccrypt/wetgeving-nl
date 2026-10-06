@@ -9,7 +9,7 @@ laatste_update: 2005-05-01
 status: geldig
 toestand: 2005-05-01
 bron: "https://wetten.overheid.nl/BWBR0018176"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 7 april 2005, houdende wijziging van het Reglement verkeersregels en verkeerstekens 1990, het koninklijk besluit van 15 december 1994, houdende uitvoering van artikel 4, eerste lid, van de Wegenverkeerswet 1994 inzake verkeersvoorschriften voor het militaire verkeer in gewone omstandigheden (Stb. 967) en het Besluit personenvervoer 2000, in verband met het verbieden van het vervoer van personen in aanhangwagens en laadruimten van motorvoertuigen en bromfietsen

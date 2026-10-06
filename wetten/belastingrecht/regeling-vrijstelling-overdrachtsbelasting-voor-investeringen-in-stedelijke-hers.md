@@ -8,7 +8,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0018345"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling vrijstelling overdrachtsbelasting voor investeringen in stedelijke herstructurering

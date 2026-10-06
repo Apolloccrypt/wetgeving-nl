@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0017839"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 23 december 2004 tot wijziging van de werknemersverzekeringswetten, de Coördinatiewet Sociale Verzekering, de Wet inkomstenbelasting 2001 en de Wet op de loonbelasting 1964 in verband met uitbreiding van de rechtsgevolgen van de verklaring arbeidsrelatie (Wet uitbreiding rechtsgevolgen VAR)

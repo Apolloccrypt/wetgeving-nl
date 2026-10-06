@@ -9,7 +9,7 @@ laatste_update: 2009-10-14
 status: geldig
 toestand: 2009-10-14
 bron: "https://wetten.overheid.nl/BWBR0018235"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 25 april 2005, houdende regels inzake de opleiding tot en de deskundigheid van de klinisch fysicus (Besluit opleidingseisen en deskundigheidsgebied klinisch fysicus)

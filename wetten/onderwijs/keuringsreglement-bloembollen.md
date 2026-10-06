@@ -8,7 +8,7 @@ laatste_update: 2005-11-27
 status: geldig
 toestand: 2005-11-27
 bron: "https://wetten.overheid.nl/BWBR0017868"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Keuringsreglement bloembollen

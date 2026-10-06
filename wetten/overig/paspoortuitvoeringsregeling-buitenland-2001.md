@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0012810"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister voor Grote Steden- en Integratiebeleid van 7 september 2001, houdende regels in verband met de verstrekking van reisdocumenten door de Minister van Buitenlandse Zaken en de hoofden van de door hem aangewezen consulaire posten in het buitenland

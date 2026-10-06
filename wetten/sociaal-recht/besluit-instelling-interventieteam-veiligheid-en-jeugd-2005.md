@@ -9,7 +9,7 @@ laatste_update: 2005-03-18
 status: geldig
 toestand: 2005-03-18
 bron: "https://wetten.overheid.nl/BWBR0018097"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister voor Vreemdelingenzaken en Integratie van 11 maart 2005, nr. DDS 5337205 tot instelling van het interventieteam veiligheid en jeugd

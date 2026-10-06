@@ -8,7 +8,7 @@ laatste_update: 2005-03-02
 status: geldig
 toestand: 2005-03-02
 bron: "https://wetten.overheid.nl/BWBR0018043"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit vacatiegeld Algemene Commissie Administratieve Lasten Burgers

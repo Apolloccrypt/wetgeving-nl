@@ -9,7 +9,7 @@ laatste_update: 2005-05-12
 status: geldig
 toestand: 2005-05-12
 bron: "https://wetten.overheid.nl/BWBR0018269"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 28 april 2005, nr. OHW-U-2578206, houdende vaststelling van de rekenfactor ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers voor het jaar 2004

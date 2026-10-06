@@ -9,7 +9,7 @@ laatste_update: 2005-07-23
 status: geldig
 toestand: 2005-07-23
 bron: "https://wetten.overheid.nl/BWBR0018483"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 juni 2005, nr. 2350225/01 tot instelling van de Werkgroep Bijzondere Informatiebeveiliging (Instellingsregeling WBI)

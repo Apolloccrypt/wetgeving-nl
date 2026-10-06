@@ -8,7 +8,7 @@ laatste_update: 2005-08-25
 status: geldig
 toestand: 2005-08-25
 bron: "https://wetten.overheid.nl/BWBR0018429"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Subsidieregeling Kenniscentrum Grote Steden

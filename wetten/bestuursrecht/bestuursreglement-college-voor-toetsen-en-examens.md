@@ -5,11 +5,11 @@ identifier: "BWBR0045003"
 categorie: "Bestuursrecht"
 soort: "zbo"
 publicatiedatum: 2021-04-01
-laatste_update: 2024-06-15
+laatste_update: 2026-09-29
 status: geldig
-toestand: 2024-06-15
+toestand: 2026-09-29
 bron: "https://wetten.overheid.nl/BWBR0045003"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-06
 ---
 
 # Besluit van het College voor Toetsen en Examens van 8 februari 2021, nummer CvTE-21.00407, tot vaststelling van het Bestuursreglement College voor Toetsen en Examens (Bestuursreglement College voor Toetsen en Examens)
@@ -32,13 +32,13 @@ In dit besluit wordt verstaan onder:
 
 - *lid:* een lid van het College voor Toetsen en Examens, of waar van toepassing zijn plaatsvervanger;
 
-- *secretaris-directeur:* de directeur als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=5) en [artikel 1, onderdeel h, van het Organisatie en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=1);
+- *programmamanager:* degene onder wiens directe verantwoordelijkheid de uitvoering van een programma valt;
+
+- *secretaris-directeur:*de directeur als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=5) en [artikel 1, onderdeel i, van het Organisatie en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=1);
 
 - *teamleider:* degene onder wiens directe verantwoordelijkheid een team valt;
 
-- *vaststellingscommissie:* een vaststellingscommissie van het College voor Toetsen en Examens als bedoeld in [artikel 1 van de Regeling beoordelingsnormen en bijbehorende scores bij centrale examinering mbo (2015)](https://wetten.overheid.nl/jci1.3:c:BWBR0037082&artikel=1);
-
-- *vakcommissie:* een vakcommissie van het College voor Toetsen en Examens als bedoeld in [artikel 1, eerste lid, van de Regeling beoordelingsnormen en bijbehorende scores centraal examen VO](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=1);
+- *vaststellingscommissie*: een vaststellingscommissie of vakcommissie van het College voor Toetsen en Examens;
 
 - *voorzitter:* de voorzitter van het College voor Toetsen en Examens;
 
@@ -64,7 +64,7 @@ De organisatie van het bureau van het college wordt vastgesteld overeenkomstig d
 
 - c. stukken gericht aan de Nationale ombudsman en het College voor de rechten van de mens;
 
-- d. beslissingen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=2&artikel=12&z=2024-06-15&g=2024-06-15), en
+- d. beslissingen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=2&artikel=12&z=2026-09-29&g=2026-09-29), en
 
 - e. beslissingen op bezwaar of het indienen van beroepschriften.
 
@@ -92,9 +92,9 @@ De organisatie van het bureau van het college wordt vastgesteld overeenkomstig d
 
 2. Een afdelingshoofd of teamleider kan de stukken bij afwezigheid van de secretaris-directeur afdoen en ondertekenen indien daarover afspraken zijn gemaakt tussen de secretaris-directeur en het betreffende afdelingshoofd of teamleider.
 
-##### Artikel 7. Mandaat afdelingshoofden en clustermanagers
+##### Artikel 7. Mandaat afdelingshoofden, teamleiders, programmamanagers en clustermanagers
 
-De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de voorzitter en de secretaris-directeur, mandaat ten aanzien van alle aangelegenheden voortvloeiend uit hun functie.
+De afdelingshoofden, teamleiders, programmamanagers en clustermanagers hebben, onverminderd het mandaat aan de voorzitter en de secretaris-directeur, mandaat ten aanzien van alle aangelegenheden voortvloeiend uit hun functie.
 
 ##### Artikel 8. Mandaat directeur-generaal DUO
 
@@ -106,15 +106,13 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 4. Alvorens wordt beslist op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), dan wel op een bezwaarschrift, treedt de directeur-generaal van DUO in overleg met de secretaris-directeur.
 
-##### Artikel 9. Mandaat vaststellingscommissies en vakcommissies
+##### Artikel 9. Mandaat vaststellingscommissies
 
-1. De vaststellingscommissie of de vakcommissie heeft mandaat ten aanzien van alle aangelegenheden met betrekking tot haar taak.
+1. De vaststellingscommissie heeft mandaat ten aanzien van alle aangelegenheden met betrekking tot haar taak.
 
-2. Tot de taak van de vaststellingscommissie behoort in ieder geval het vaststellen van de opgaven en het vaststellen van de correctievoorschriften als bedoeld in [artikel 2, vierde lid, onderdeel b, vijfde lid, onderdeel b, zesde lid, onderdelen c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2), en [artikel 6, eerste lid, onderdeel b, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=6).
+2. Tot de taak van de vaststellingscommissie behoort in ieder geval het vaststellen van de opgaven en het vaststellen van de correctievoorschriften als bedoeld in [artikel 2, tweede lid, onderdeel c, vierde lid, onderdeel b, vijfde lid, onderdeel b,van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2), en [artikel 6, eerste lid, onderdeel b, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=6).
 
-3. Tot de taak van de vakcommissie behoort in ieder geval het vaststellen van de opgaven en het vaststellen van de correctievoorschriften als bedoeld in [artikel 2, tweede lid, onderdeel c, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2).
-
-4. De voorzitter van het college kan, nadat hij de voorzitter van de betreffende vaststellingscommissie of vakcommissie heeft gehoord, beslissen dat een of meer opgaven worden geneutraliseerd.
+3. De voorzitter van het college kan, nadat hij de voorzitter van de betreffende vaststellingscommissie heeft gehoord, beslissen dat een of meer opgaven worden geneutraliseerd.
 
 ### Hoofdstuk 2. Werkwijze en procedures
 
@@ -160,7 +158,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 - c. het jaarverslag, bedoeld in [artikel 18 van de kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), en
 
-- d. de klachtenprocedure, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=17&z=2024-06-15&g=2024-06-15).
+- d. de klachtenprocedure, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=17&z=2026-09-29&g=2026-09-29).
 
 2. Het college neemt voorts de volgende beslissingen of verricht de volgende handelingen:
 
@@ -176,7 +174,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 ##### Artikel 13. Reikwijdte
 
-De [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=14&z=2024-06-15&g=2024-06-15) zijn van toepassing op de behandeling van de klachten, bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1).
+De [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=14&z=2026-09-29&g=2026-09-29) zijn van toepassing op de behandeling van de klachten, bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1).
 
 ##### Artikel 14. Klachtbehandeling
 
@@ -186,7 +184,7 @@ De [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&
 
 ##### Artikel 15. Klachtafdoening
 
-Een klacht wordt onverlet [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=8&z=2024-06-15&g=2024-06-15), afgedaan door de secretaris-directeur, tenzij de klacht naar aard of inhoud een zodanig gewicht heeft dat de voorzitter deze behoort af te doen.
+Een klacht wordt onverlet [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=8&z=2026-09-29&g=2026-09-29), afgedaan door de secretaris-directeur, tenzij de klacht naar aard of inhoud een zodanig gewicht heeft dat de voorzitter deze behoort af te doen.
 
 ##### Artikel 16. Klachtregistratie
 

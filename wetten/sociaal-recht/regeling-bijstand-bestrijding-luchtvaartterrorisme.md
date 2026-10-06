@@ -9,7 +9,7 @@ laatste_update: 2025-06-18
 status: geldig
 toestand: 2025-06-18
 bron: "https://wetten.overheid.nl/BWBR0018217"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van 20 april 2005, nr. 5348913/505, houdende het verlenen van militaire bijstand ten behoeve van de bewaking van het Nederlandse luchtruim en de inzet van defensiemiddelen tegen terroristische dreigingen vanuit de lucht (Regeling bijstand bestrijding luchtvaartterrorisme)

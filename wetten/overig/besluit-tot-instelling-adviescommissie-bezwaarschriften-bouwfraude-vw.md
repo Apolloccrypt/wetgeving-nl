@@ -8,7 +8,7 @@ laatste_update: 2005-02-01
 status: geldig
 toestand: 2005-02-01
 bron: "https://wetten.overheid.nl/BWBR0017655"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit tot instelling Adviescommissie bezwaarschriften bouwfraude V&W

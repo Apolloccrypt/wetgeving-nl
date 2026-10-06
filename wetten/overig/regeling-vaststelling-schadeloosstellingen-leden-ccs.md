@@ -9,7 +9,7 @@ laatste_update: 2005-05-06
 status: geldig
 toestand: 2005-05-06
 bron: "https://wetten.overheid.nl/BWBR0018247"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Economische Zaken van 26 april 2005, nr. WJZ 5024324, houdende vaststelling schadeloosstellingen leden CCS (Regeling vaststelling schadeloosstellingen leden CCS)

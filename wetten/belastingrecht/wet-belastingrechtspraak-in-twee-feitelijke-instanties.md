@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017717"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 15 december 2004 tot wijziging van de Wet op de rechterlijke organisatie, de Algemene wet inzake rijksbelastingen en enige andere wetten in verband met de invoering van beroep bij de rechtbank, alsmede van hoger beroep bij het gerechtshof, in belastingzaken (Wet belastingrechtspraak in twee feitelijke instanties)

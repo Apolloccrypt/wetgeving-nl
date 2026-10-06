@@ -9,7 +9,7 @@ laatste_update: 2005-03-05
 status: geldig
 toestand: 2005-03-05
 bron: "https://wetten.overheid.nl/BWBR0017967"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 27 januari 2005, nr. 05.000268, houdende de vaststelling van de vergoedingen voor de voorzitter en de plaatsvervangend voorzitter van de Commissie Stedelijke Distributie (Vergoedingenbesluit Commissie Stedelijke Distributie)

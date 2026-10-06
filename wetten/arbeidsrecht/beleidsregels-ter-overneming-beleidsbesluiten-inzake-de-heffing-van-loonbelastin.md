@@ -8,7 +8,7 @@ laatste_update: 2005-03-11
 status: geldig
 toestand: 2005-03-11
 bron: "https://wetten.overheid.nl/BWBR0018020"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Beleidsregels ter overneming Beleidsbesluiten inzake de heffing van loonbelasting/premie volksverzekeringen voor de premieheffing werknemersverzekeringen in het jaar 2005

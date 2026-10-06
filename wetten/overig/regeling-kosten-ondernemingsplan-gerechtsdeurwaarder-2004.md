@@ -9,7 +9,7 @@ laatste_update: 2004-11-15
 status: geldig
 toestand: 2004-11-15
 bron: "https://wetten.overheid.nl/BWBR0017450"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Justitie van 9 november 2004, nr. 5310430/04/DTR, houdende de voor advisering over het ondernemingsplan van de gerechtsdeurwaarder in rekening te brengen kosten (Regeling kosten ondernemingsplan gerechtsdeurwaarder 2004)

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0018144"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling houdende een subsidieregeling voor leerling- en deelnemersorganisaties binnen het voortgezet onderwijs (vo) en het beroepsonderwijs en volwasseneneducatie (bve)

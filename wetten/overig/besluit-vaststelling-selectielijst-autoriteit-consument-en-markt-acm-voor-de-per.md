@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "ministeriele-regeling-archiefselectielijst"
 publicatiedatum: 2018-07-01
 laatste_update: 2018-07-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-29
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0041100"
-opgehaald: 2026-08-27
+opgehaald: 2026-10-06
 ---
 
 # Besluit vaststelling selectielijst Autoriteit Consument en Markt (ACM) voor de periode vanaf 1997

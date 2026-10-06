@@ -9,7 +9,7 @@ laatste_update: 2004-12-01
 status: geldig
 toestand: 2004-12-01
 bron: "https://wetten.overheid.nl/BWBR0017604"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2004, nr. IBE/BO-2535849, houdende de goedkeuring van het kaderbesluit en de 27 specifieke besluiten van het Centraal College Medische Specialismen

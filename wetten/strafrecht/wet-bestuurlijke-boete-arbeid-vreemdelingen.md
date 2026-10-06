@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017614"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 2 december 2004 tot wijziging van de Wet arbeid vreemdelingen in verband met invoering van bestuursrechtelijke handhaving (Wet bestuurlijke boete arbeid vreemdelingen)

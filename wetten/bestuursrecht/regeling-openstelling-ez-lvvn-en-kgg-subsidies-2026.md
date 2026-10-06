@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-10-04
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -83,8 +83,9 @@ opgehaald: 2026-10-04
 | Titel 3.26: Regeneratief geneeskundige onderzoeksprojecten | 3.26, eerste lid |  |  | 24-11-2025 t/m 17-02-2026 | € 10.000.000 |
 | Titel 3.27: Important Projects of Common European Interest (IPCEI) | 3.27.2, eerste lid, onderdeel a |  | algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën | 09-06-2026 t/m 09-07-2026 | € 150.000.000 |
 |  | 3.27.2, eerste lid, onderdeel b |  | onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën | 09-06-2026 t/m 09-07-2026 | € 50.000.000 |
-|  | 3.28.2, eerste lid, onderdeel b |  |  | 02-02-2026 t/m 13-02-2026 | € 8.182.100 |
-| Titel 3.28: Programma Digitaal Europa | 3.28.2, eerste lid, onderdeel w |  |  | 03-08-2026 t/m 14-08-2026 | € 200.000 |
+|  | artikel 3.27.2, eerste lid, onderdeel c |  | onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën | 05-10-2026 t/m 16-11-2026 | € 114.000.000, voor zover dit subsidieplafond niet verlaagd of op nihil vastgesteld wordt na behandeling en, voor zover van toepassing, goedkeuring door de Tweede en Eerste Kamer van beleidsartikel 1 (Goed functionerende economie en markten) van het voorstel van wet betreffende de vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken en Klimaat voor het jaar 2027 (Kamerstukken II 2026/27, 37020 XIII). |
+| Titel 3.28: Programma Digitaal Europa | 3.28.2, eerste lid, onderdeel b |  |  | 02-02-2026 t/m 13-02-2026 | € 8.182.100 |
+|  | 3.28.2, eerste lid, onderdeel w |  |  | 03-08-2026 t/m 14-08-2026 | € 200.000 |
 |  | 3.28.2, eerste lid, onderdeel x |  |  | 03-08-2026 t/m 14-08-2026 | € 189.528 |
 |  | 3.28.2, eerste lid, onderdeel y |  |  | 03-08-2026 t/m 14-08-2026 | € 1.178.085 |
 | Titel 3.30 Circular Plastics NL | 3.30.2 | Circular Plastics NL-onderzoeksprojecten |  | 21 april 2026 t/m 6 oktober 2026 | € 3.000.000 |

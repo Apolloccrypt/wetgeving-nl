@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0017803"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 december 2004, nr. GMT/MT 2545126, houdende de aanwijzing van de Inspectie voor de Gezondheidszorg inzake de bloedvoorziening

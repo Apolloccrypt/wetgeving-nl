@@ -9,7 +9,7 @@ laatste_update: 2005-07-27
 status: geldig
 toestand: 2005-07-27
 bron: "https://wetten.overheid.nl/BWBR0018526"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 30 juni 2005 tot wijziging van de Wet subsidiëring politieke partijen houdende verhoging van de subsidiebedragen, verbreding van de subsidiabele doelen en aanpassing van de subsidiegrondslag

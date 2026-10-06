@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017686"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 13 december 2004, Directie Werk en Bijstand, nr. W&B/URP/2004/84086, houdende intrekking van de Regeling kinderopvang en buitenschoolse opvang alleenstaande ouders in verband met de inwerkingtreding van de Wet kinderopvang

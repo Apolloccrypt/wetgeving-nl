@@ -9,7 +9,7 @@ laatste_update: 2005-11-01
 status: geldig
 toestand: 2005-11-01
 bron: "https://wetten.overheid.nl/BWBR0018135"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 23 maart 2005 tot wijziging en aanvulling van een aantal bepalingen in het Wetboek van Strafvordering met betrekking tot de betekening van gerechtelijke mededelingen in strafzaken

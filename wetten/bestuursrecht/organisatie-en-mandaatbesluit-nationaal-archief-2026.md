@@ -4,21 +4,43 @@ citeertitel: "Organisatie- en mandaatbesluit Nationaal Archief 2026"
 identifier: "BWBR0052123"
 categorie: "Overig"
 soort: "ministeriele-regeling"
-publicatiedatum: 2026-01-06
-laatste_update: 2026-01-06
+publicatiedatum: 2026-09-29
+laatste_update: 2026-09-29
 status: geldig
-toestand: 2026-01-06
+toestand: 2026-09-29
 bron: "https://wetten.overheid.nl/BWBR0052123"
-opgehaald: 2026-09-10
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de algemene rijksarchivaris van het Nationaal Archief van 18 december 2025, houdende de vaststelling van een nieuwe (onder)mandaatregeling voor het Nationaal Archief (Organisatie- en mandaatbesluit Nationaal Archief 2026)
 
-##### Artikel 1. Organisatie Nationaal Archief
+### Hoofdstuk 1. Algemene bepalingen
 
-1. Het Nationaal Archief staat onder leiding van de algemeen directeur/algemene rijksarchivaris. Daarnaast is er een plaatsvervangend algemeen directeur/directeur Archieven, Dienstverlening en Innovatie.
+##### Artikel 1. Begripsbepalingen
 
-2. De aansturing door de algemeen directeur/algemene rijksarchivaris en de plaatsvervangend algemeen directeur/directeur Archieven, Dienstverlening en Innovatie van de in het derde lid genoemde afdelingen vindt plaats op basis van een portefeuilleverdeling.
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
+
+- – *hoofd van het Nationaal Archief:* de algemene rijksarchivaris, tevens algemeen directeur van het Nationaal Archief,
+
+- – *plaatsvervangend hoofd van het Nationaal Archief:* degene die bij afwezigheid of verhindering van het hoofd van het Nationaal Archief bevoegd is om als zodanig als plaatsvervanger op te treden,
+
+- – *teammanager:* degene die binnen het Nationaal Archief de functie bekleedt van teammanager,
+
+- – *TWO:* Tijdelijke werkorganisatie.
+
+##### Artikel 1a. Toepasselijkheid Hoofdstuk 2 en Hoofdstuk 3
+
+1. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052123&hoofdstuk=2&z=2026-09-29&g=2026-09-29) is alleen van toepassing indien [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052123&hoofdstuk=3&z=2026-09-29&g=2026-09-29) niet van toepassing is of op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0052123&hoofdstuk=3&artikel=14&z=2026-09-29&g=2026-09-29) is vervallen, tenzij het hoofd van het Nationaal Archief ten aanzien van een specifiek mandaat anders heeft bepaald.
+
+2. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052123&hoofdstuk=3&z=2026-09-29&g=2026-09-29) is van toepassing vanaf het moment waarop de TWO in werking treedt.
+
+### Hoofdstuk 2. Organisatie Nationaal Archief
+
+##### Artikel 2. Organisatiebeschrijving
+
+1. Het Nationaal Archief staat onder leiding van het hoofd van het Nationaal Archief. Daarnaast is er een directeur Archieven, Dienstverlening en Innovatie, tevens plaatsvervangend hoofd van het Nationaal Archief.
+
+2. De aansturing door het hoofd van het Nationaal Archief en de directeur Archieven, Dienstverlening en Innovatie van de in het derde lid genoemde afdelingen vindt plaats op basis van een portefeuilleverdeling.
 
 3. Het Nationaal Archief bestaat uit de volgende afdelingen, die worden geleid door een hoofd:
 
@@ -76,46 +98,150 @@ opgehaald: 2026-09-10
 
    - 2°. teammanager professionalisering professionals
 
-##### Artikel 2. Plaatsvervanging algemeen directeur/algemene rijksarchivaris
+##### Artikel 3. Plaatsvervanging hoofd van het Nationaal Archief
 
-1. Bij afwezigheid of verhindering van de algemeen directeur/algemene rijksarchivaris, is de plaatsvervangend algemeen directeur/directeur Archieven, Dienstverlening en Innovatie, bevoegd om als zodanig als plaatsvervanger op te treden.
+1. Bij afwezigheid of verhindering van het hoofd van het Nationaal Archief, is de directeur Archieven, Dienstverlening en Innovatie, bevoegd om als zodanig als plaatsvervanger op te treden.
 
-2. Bij afwezigheid of verhindering van de algemeen directeur/algemene rijksarchivaris en de plaatsvervangend algemeen directeur/directeur Archieven, Dienstverlening en Innovatie, is het hoofd portfoliomanagement en programma’s bevoegd om als zodanig als plaatsvervanger op te treden.
+2. Bij afwezigheid of verhindering van het hoofd van het Nationaal Archief en van de directeur Archieven, Dienstverlening en Innovatie, is het hoofd bestuurszaken en bedrijfsvoering bevoegd om als zodanig als plaatsvervanger op te treden.
 
-##### Artikel 3. Mandaat verplichtingen
+##### Artikel 4. Mandaat verplichtingen
 
-1. Aan de algemeen directeur/algemene rijksarchivaris is voorbehouden het aangaan van verplichtingen vanaf de Europese aanbestedingsgrens geldend voor leveringen en diensten gegund door centrale overheidsinstanties.
+1. Aan het hoofd van het Nationaal Archief is voorbehouden het aangaan van verplichtingen vanaf de Europese aanbestedingsgrens geldend voor leveringen en diensten gegund door centrale overheidsinstanties.
 
-2. De plaatsvervangend algemeen directeur/directeur Archieven, Dienstverlening en Innovatie heeft mandaat tot het aangaan van verplichtingen tot de Europese aanbestedingsgrens geldend voor leveringen en diensten voor de centrale overheid, uitsluitend binnen de grenzen van de door de algemeen directeur/algemene rijksarchivaris goedgekeurde bestedingsplannen.
+2. De directeur Archieven, Dienstverlening en Innovatie heeft mandaat tot het aangaan van verplichtingen tot de Europese aanbestedingsgrens geldend voor leveringen en diensten voor de centrale overheid, uitsluitend binnen de grenzen van de door het hoofd van het Nationaal Archief goedgekeurde bestedingsplannen.
 
-3. Het hoofd bestuurszaken en bedrijfsvoering heeft mandaat tot het aangaan van verplichtingen tot € 80.000,– exclusief BTW, uitsluitend binnen de grenzen van de door de algemeen directeur/algemene rijksarchivaris goedgekeurde bestedingsplannen.
+3. Het hoofd bestuurszaken en bedrijfsvoering heeft mandaat tot het aangaan van verplichtingen tot € 80.000,– exclusief BTW, uitsluitend binnen de grenzen van de door het hoofd van het Nationaal Archief goedgekeurde bestedingsplannen.
 
 4. De overige afdelingshoofden en teammanagers hebben mandaat tot het aangaan van verplichtingen tot € 25.000,– exclusief BTW, uitsluitend binnen de grenzen van de door de algemeen directeur/algemene rijksarchivaris goedgekeurde bestedingsplannen.
 
-5. De operationeel manager locatie Emmen heeft mandaat tot het aangaan van verplichtingen tot € 5.000,– exclusief BTW op jaarbasis, uitsluitend binnen de grenzen van de door de algemeen directeur/algemene rijksarchivaris goedgekeurde bestedingsplannen.
+5. De senior medewerker collectiebeheer locatie Emmen, werkzaam bij de afdeling collectie, heeft mandaat tot het aangaan van verplichtingen tot € 1.000,– exclusief BTW, uitsluitend binnen de grenzen van de door het hoofd van het Nationaal Archief goedgekeurde bestedingsplannen.
 
-##### Artikel 4. Mandaat artikel 17 Archiefwet 1995
+##### Artikel 5. Mandaat artikel 17 Archiefwet 1995
 
 1. De teammanager archiefonderzoek, diensten en klantcontact is gemandateerd om besluiten te nemen over het verlenen of weigeren van inzage in archiefbescheiden op grond van [artikel 17 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=17).
 
 2. Bij afwezigheid of verhindering van de teammanager archiefonderzoek, diensten en klantcontact is het afdelingshoofd dienstverlening gemandateerd om besluiten te nemen over het verlenen of weigeren van inzage in archiefbescheiden op grond van [artikel 17 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=17).
 
-##### Artikel 5. Mandaat artikel 18 Archiefwet 1995
+##### Artikel 6. Mandaat artikel 18 Archiefwet 1995
 
 Het afdelingshoofd collectie is gemandateerd om besluiten te nemen over het uitlenen van archiefbescheiden op grond van [artikel 18 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=18).
 
-##### Artikel 6. Mandaat beslisdocumenten
+##### Artikel 7. Mandaat beslisdocumenten
 
-De teammanager verwerven is gemandateerd om beslisdocumenten, gericht op het bewerken van archiefbescheiden door Rijksorganisatie voor Informatiehuishouding (RvIHH), vast te stellen.
+De teammanager verwerven is gemandateerd om beslisdocumenten, gericht op het bewerken van archiefbescheiden door de Rijksorganisatie voor Informatiehuishouding (RvIHH), vast te stellen.
 
-##### Artikel 7. Intrekking
+### Hoofdstuk 3. TWO Nationaal Archief
 
-Het organisatie- en mandaatbesluit Nationaal Archief 2024 *(**Stcrt. 2024, 10576**)* wordt ingetrokken.
+##### Artikel 8. Organisatiebeschrijving TWO
 
-##### Artikel 8. Citeertitel
+1. Het Nationaal Archief staat onder leiding van het hoofd van het Nationaal Archief. Daarnaast is er een directeur Archieven, Dienstverlening en Innovatie, tevens plaatsvervangend hoofd van het Nationaal Archief en een directeur Verandermanagement, tevens plaatsvervangend hoofd van het Nationaal Archief.
 
-Dit besluit wordt aangehaald als ‘Organisatie- en mandaatbesluit Nationaal Archief 2026’.
+2. De aansturing door het hoofd van het Nationaal Archief, de directeur Archieven, Dienstverlening en Innovatie en de directeur Verandermanagement, van de in het derde lid genoemde bedrijfsfuncties vindt plaats op basis van een portefeuilleverdeling.
 
-##### Artikel 9. Inwerkingtreding
+3. Het Nationaal Archief bestaat uit de volgende bedrijfsfuncties, die worden geleid door een hoofd:
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+- a. Bedrijfsfunctie Publiek;
+
+- b. Bedrijfsfunctie Archiefbeheer;
+
+- c. Bedrijfsfunctie Kennis;
+
+- d. Bedrijfsfunctie Organisatie, Bestuurszaken en IT Functie;
+
+- e. Bedrijfsfunctie CIO Office.
+
+4. Binnen de bedrijfsfuncties zijn de volgende teammanagers werkzaam:
+
+- a. Bedrijfsfunctie Publiek:
+
+   - 1° teammanager Archiefonderzoek, diensten en klantcontact;
+
+   - 2° teammanager Depotbeheer en logistiek;
+
+   - 3° teammanager Onderzoek en presentatie;
+
+   - 4° teammanager Dienstverlening/webteam
+
+- b. Bedrijfsfunctie Archiefbeheer:
+
+   - 1° teammanager Beheren en behouden;
+
+   - 2° teammanager Verwerven;
+
+   - 3° teammanager Digitalisering;
+
+   - 4° teammanager Emmen.
+
+- c. Bedrijfsfunctie Kennis:
+
+   - 1° teammanager Advies 1;
+
+   - 2° teammanager Advies 2;
+
+   - 3° teammanager Professionaliseren van professionals.
+
+- d. Bedrijfsfunctie Organisatie, Bestuurszaken en IT Functie:
+
+   - 1° teammanager Communicatie en marketing;
+
+   - 2° teammanager Publieksproducten;
+
+   - 3° teammanager Werkplek & infrastructuur;
+
+   - 4° teammanager Overheid en archiefproducten;
+
+   - 5° teammanager Portfoliomanagement & Programma’s;
+
+   - 6° teammanager Bedrijfsvoering 1;
+
+   - 7° teammanager Bedrijfsvoering 2.
+
+##### Artikel 9. Plaatsvervanging hoofd van het Nationaal Archief
+
+1. Bij afwezigheid of verhindering van het hoofd van het Nationaal Archief, is de directeur Archieven, Dienstverlening en Innovatie, bevoegd om als zodanig als plaatsvervanger op te treden.
+
+2. Bij afwezigheid of verhindering van het hoofd van het Nationaal Archief en van de directeur Archieven, Dienstverlening en Innovatie, is de directeur Verandermanagement bevoegd om als zodanig als plaatsvervanger op te treden.
+
+3. Bij afwezigheid of verhindering van het hoofd van het Nationaal Archief, de directeur Archieven, Dienstverlening en Innovatie, en de directeur Verandermanagement is het hoofd Bedrijfsfunctie Organisatie, Bestuurszaken en IT Functie bevoegd om als zodanig als plaatsvervanger op te treden.
+
+##### Artikel 10. Mandaat verplichtingen
+
+1. Aan het hoofd van het Nationaal Archief is voorbehouden het aangaan van verplichtingen vanaf de Europese aanbestedingsgrens geldend voor leveringen en diensten gegund door centrale overheidsinstanties.
+
+2. De directeur Archieven, Dienstverlening en Innovatie heeft mandaat tot het aangaan van verplichtingen tot de Europese aanbestedingsgrens geldend voor leveringen en diensten voor de centrale overheid, uitsluitend binnen de grenzen van de door het hoofd van het Nationaal Archief goedgekeurde bestedingsplannen.
+
+3. Het hoofd Bedrijfsfunctie Organisatie, Bestuurszaken en IT Functie heeft mandaat tot het aangaan van verplichtingen tot € 80.000,– exclusief BTW, uitsluitend binnen de grenzen van de door het hoofd van het Nationaal Archief goedgekeurde bestedingsplannen.
+
+4. De overige hoofden Bedrijfsfuncties en teammanagers, met uitzondering van de teammanager Emmen, hebben mandaat tot het aangaan van verplichtingen tot € 25.000,– exclusief BTW, uitsluitend binnen de grenzen van de door het hoofd van het Nationaal Archief goedgekeurde bestedingsplannen.
+
+5. De teammanager Emmen heeft mandaat tot het aangaan van verplichtingen tot € 1.000,– exclusief BTW, uitsluitend binnen de grenzen van de door het hoofd van het Nationaal Archief goedgekeurde bestedingsplannen.
+
+##### Artikel 11. Mandaat artikel 17 Archiefwet 1995
+
+1. De teammanager archiefonderzoek, diensten en klantcontact is gemandateerd om besluiten te nemen over het verlenen of weigeren van inzage in archiefbescheiden op grond van [artikel 17 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=17).
+
+2. Bij afwezigheid of verhindering van de teammanager archiefonderzoek, diensten en klantcontact is het hoofd Bedrijfsfunctie Publiek gemandateerd om besluiten te nemen over het verlenen of weigeren van inzage in archiefbescheiden op grond van [artikel 17 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=17).
+
+##### Artikel 12. Mandaat artikel 18 Archiefwet 1995
+
+Het hoofd Bedrijfsfunctie Archiefbeheer is gemandateerd om besluiten te nemen over het uitlenen van archiefbescheiden op grond van [artikel 18 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=18).
+
+##### Artikel 13. Mandaat beslisdocumenten
+
+De teammanager verwerven is gemandateerd om beslisdocumenten, gericht op het bewerken van archiefbescheiden door de Rijksorganisatie voor Informatiehuishouding (RvIHH), vast te stellen.
+
+##### Artikel 14. Duur van de TWO
+
+1. Dit hoofdstuk vervalt met ingang van 1 maart 2027.
+
+2. Besluiten, welke zijn genomen op basis van de mandaten, verleend in dit hoofdstuk, blijven evenwel van toepassing, voor zover die besluiten op het in eerste lid bedoelde moment nog relevant zijn.
+
+### Hoofdstuk 4. Slotbepalingen
+
+##### Artikel 15. Toepassingsgeschillen
+
+In alle gevallen waarin onduidelijkheid bestaat over de toepasselijkheid van hetzij [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052123&hoofdstuk=2&z=2026-09-29&g=2026-09-29) hetzij [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052123&hoofdstuk=3&z=2026-09-29&g=2026-09-29) beslist het hoofd van het Nationaal Archief.
+
+##### Artikel 16. Citeertitel
+
+Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit Nationaal Archief 2026.

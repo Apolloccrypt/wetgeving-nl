@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0018447"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 16 juni 2005, houdende regels met betrekking tot het in gebruik geven van grond ten behoeve van de verkoop van motorbrandstoffen aan wegen in beheer bij het Rijk (Wet tot veiling van bepaalde verkooppunten van motorbrandstoffen)

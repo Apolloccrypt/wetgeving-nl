@@ -9,7 +9,7 @@ laatste_update: 2005-06-01
 status: geldig
 toestand: 2005-06-01
 bron: "https://wetten.overheid.nl/BWBR0017603"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 1 december 2004, nr. DDI/ST/reg 02/2004, houdende beperking van de openbaarheid van het archief ‘Collectie Van Kleffens II 1947–1951’

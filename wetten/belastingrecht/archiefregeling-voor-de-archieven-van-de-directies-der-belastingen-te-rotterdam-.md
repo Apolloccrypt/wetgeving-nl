@@ -9,7 +9,7 @@ laatste_update: 2004-10-22
 status: geldig
 toestand: 2004-10-22
 bron: "https://wetten.overheid.nl/BWBR0017322"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Financiën van 19 oktober 2004, nr. IAZ 2004-886M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Directies der Belastingen te Rotterdam en Amsterdam 1934–1959 (Archiefregeling voor de archieven van de Directies der Belastingen te Rotterdam en Amsterdam ressorterend onder het Ministerie van Financiën)

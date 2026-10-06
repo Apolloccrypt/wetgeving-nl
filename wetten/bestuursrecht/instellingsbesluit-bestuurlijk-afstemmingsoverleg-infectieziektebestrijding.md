@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0017587"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 29 november 2004, nr. PG/ZP 2.528.045, tot instelling van een bestuurlijk afstemmingsoverleg infectieziektebestrijding

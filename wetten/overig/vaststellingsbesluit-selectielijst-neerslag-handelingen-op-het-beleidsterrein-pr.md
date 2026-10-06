@@ -8,7 +8,7 @@ laatste_update: 2005-01-15
 status: geldig
 toestand: 2005-01-15
 bron: "https://wetten.overheid.nl/BWBR0017753"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen op het beleidsterrein Productschap Tuinbouw over de periode vanaf 1997

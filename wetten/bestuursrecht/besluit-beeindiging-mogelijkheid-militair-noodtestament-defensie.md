@@ -9,7 +9,7 @@ laatste_update: 2005-06-22
 status: geldig
 toestand: 2005-06-22
 bron: "https://wetten.overheid.nl/BWBR0018369"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 30 mei 2005, houdende bepalingen omtrent de wijze van bekendmaking van de beëindiging van de aanwijzing van een gedeelte van de krijgsmacht in verband met de mogelijkheid van het maken van een militair noodtestament (Besluit beëindiging mogelijkheid militair noodtestament defensie)

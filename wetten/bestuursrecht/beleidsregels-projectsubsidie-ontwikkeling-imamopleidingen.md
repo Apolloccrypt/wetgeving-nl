@@ -8,7 +8,7 @@ laatste_update: 2005-04-30
 status: geldig
 toestand: 2005-04-30
 bron: "https://wetten.overheid.nl/BWBR0018218"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Beleidsregels projectsubsidie ontwikkeling imamopleidingen

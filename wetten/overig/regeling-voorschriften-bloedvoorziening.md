@@ -9,7 +9,7 @@ laatste_update: 2019-12-31
 status: geldig
 toestand: 2019-12-31
 bron: "https://wetten.overheid.nl/BWBR0017977"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 januari 2005, nr. GMT/MT2551254, houdende voorschriften inzake de bloedvoorziening (Regeling voorschriften bloedvoorziening)

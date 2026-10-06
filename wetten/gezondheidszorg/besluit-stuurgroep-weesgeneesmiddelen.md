@@ -9,7 +9,7 @@ laatste_update: 2005-06-24
 status: geldig
 toestand: 2005-06-24
 bron: "https://wetten.overheid.nl/BWBR0018404"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 juni 2005, nr. GMT/G 2587484, houdende Instelling van de Stuurgroep Weesgeneesmiddelen (Besluit Stuurgroep Weesgeneesmiddelen)

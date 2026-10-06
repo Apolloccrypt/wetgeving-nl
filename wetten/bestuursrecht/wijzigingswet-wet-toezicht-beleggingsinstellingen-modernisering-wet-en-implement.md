@@ -9,7 +9,7 @@ laatste_update: 2005-09-01
 status: geldig
 toestand: 2005-09-01
 bron: "https://wetten.overheid.nl/BWBR0018606"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 16 juli 2005 tot wijziging van de Wet toezicht beleggingsinstellingen met het oog op de modernisering van de wet en implementatie van richtlijn nr 2001/107/EG en richtlijn 2001/108/EG van 21 januari 2002

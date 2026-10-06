@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0012809"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister voor Grote Steden- en Integratiebeleid van 7 september 2001, houdende regels in verband met de verstrekking van reisdocumenten van het Koninkrijk in de Nederlandse Antillen en Aruba (Paspoortuitvoeringsregeling Nederlandse Antillen en Aruba 2001)

@@ -9,7 +9,7 @@ laatste_update: 2005-03-09
 status: geldig
 toestand: 2005-03-09
 bron: "https://wetten.overheid.nl/BWBR0017840"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 23 december 2004 tot wijziging van de Ziekenfondswet in verband met het invoeren van een no-claimteruggaaf voor verzekerden die geen of weinig gebruik hebben gemaakt van zorg waarop ingevolge die wet aanspraak bestaat

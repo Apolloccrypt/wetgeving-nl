@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0017438"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 4 november 2004 tot uitvoering van de verordening van de Raad van de Europese Unie betreffende Gemeenschapsmodellen houdende aanwijzing van de rechtbank voor het Gemeenschapsmodel (Uitvoeringswet EG-verordening betreffende Gemeenschapsmodellen)

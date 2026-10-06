@@ -9,7 +9,7 @@ laatste_update: 2018-11-30
 status: geldig
 toestand: 2018-11-30
 bron: "https://wetten.overheid.nl/BWBR0018026"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 februari 2005, nr. MJZ2005 019083, houdende regels met betrekking tot het bepalen van de concentratie asbest in producten (Productenregeling asbest)

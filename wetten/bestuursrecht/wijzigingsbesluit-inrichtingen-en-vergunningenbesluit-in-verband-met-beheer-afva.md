@@ -9,7 +9,7 @@ laatste_update: 2005-04-28
 status: geldig
 toestand: 2005-04-28
 bron: "https://wetten.overheid.nl/BWBR0018110"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 15 maart 2005 tot wijziging van het Inrichtingen- en vergunningenbesluit milieubeheer in verband met het beheer van afvalstoffen

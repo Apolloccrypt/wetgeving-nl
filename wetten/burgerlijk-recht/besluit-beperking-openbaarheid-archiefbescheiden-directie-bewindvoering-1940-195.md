@@ -9,7 +9,7 @@ laatste_update: 2005-06-11
 status: geldig
 toestand: 2005-06-11
 bron: "https://wetten.overheid.nl/BWBR0018374"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Financiën van 31 mei 2005, nr. BenC 2005-631 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Directie Bewindvoering (1940) 1953–1965 (1982) van het Ministerie van Financiën

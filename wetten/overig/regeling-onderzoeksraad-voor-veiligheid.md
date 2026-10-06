@@ -8,7 +8,7 @@ laatste_update: 2021-11-09
 status: geldig
 toestand: 2021-11-09
 bron: "https://wetten.overheid.nl/BWBR0017940"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling Onderzoeksraad voor veiligheid

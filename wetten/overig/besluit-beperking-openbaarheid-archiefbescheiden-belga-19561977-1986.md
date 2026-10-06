@@ -9,7 +9,7 @@ laatste_update: 2005-06-11
 status: geldig
 toestand: 2005-06-11
 bron: "https://wetten.overheid.nl/BWBR0018372"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de minister van Financiën van 31 mei 2005, nr. BenC 2005-630 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het NV/BV Belegging- en Garantie Maatschappij voor Duplicaten van Buitenlandse Effecten (BELGA) 1956–1977 (1986)

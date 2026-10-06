@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0018616"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Financiën van 20 juli 2005 inzake de vanwege de Staat uit te schrijven veiling van benzinestations langs rijkswegen (Regeling veiling benzinestations langs rijkswegen)

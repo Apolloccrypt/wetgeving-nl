@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017477"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 10 november 2004 tot wijziging van het Wetboek van Strafvordering houdende enkele wijzigingen in de regeling van de voorlopige hechtenis

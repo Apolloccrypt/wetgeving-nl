@@ -9,7 +9,7 @@ laatste_update: 2004-12-14
 status: geldig
 toestand: 2004-12-14
 bron: "https://wetten.overheid.nl/BWBR0017689"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 14 december 2004, nr. 5324255/04/6, houdende goedkeuring van het reglement van de Stichting donorgegevens kunstmatige bevruchting

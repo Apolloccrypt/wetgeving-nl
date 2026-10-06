@@ -9,7 +9,7 @@ laatste_update: 2012-04-01
 status: geldig
 toestand: 2012-04-01
 bron: "https://wetten.overheid.nl/BWBR0017712"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling houdende vaststelling van eisen ten aanzien van inrichting, uitrusting en technische eigenschappen van de hoofdspoorweginfrastructuur en het onderhoud daarvan (Regeling hoofdspoorweginfrastructuur)

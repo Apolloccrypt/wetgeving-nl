@@ -9,7 +9,7 @@ laatste_update: 2010-12-31
 status: geldig
 toestand: 2010-12-31
 bron: "https://wetten.overheid.nl/BWBR0017718"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 15 december 2004, houdende regels ten aanzien van het veilig laden en lossen van zeeschepen (Wet laden en lossen zeeschepen)

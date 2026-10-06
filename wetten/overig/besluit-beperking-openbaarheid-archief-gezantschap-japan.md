@@ -9,7 +9,7 @@ laatste_update: 2005-05-01
 status: geldig
 toestand: 2005-05-01
 bron: "https://wetten.overheid.nl/BWBR0018230"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Buitenlandse zaken van 23 april 2005, nr. DDI/ST/reg 005 /2005, houdende beperking van de openbaarheid van het archief van het gezantschap te Japan (Tokio) (1880) 1923–1941 (1942) en de diplomatieke vertegenwoordiging te Japan (Tokio), 1946–1954

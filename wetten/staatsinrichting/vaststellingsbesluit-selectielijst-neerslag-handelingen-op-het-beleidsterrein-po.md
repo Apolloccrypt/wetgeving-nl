@@ -8,7 +8,7 @@ laatste_update: 2005-04-02
 status: geldig
 toestand: 2005-04-02
 bron: "https://wetten.overheid.nl/BWBR0018034"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen op het beleidsterrein Politie over de periode vanaf 1994 (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties)

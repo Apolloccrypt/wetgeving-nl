@@ -9,7 +9,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0017449"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 8 november 2004, houdende voorlopige voorzieningen inzake het gebruik van persoonsnummers ten behoeve van de elektronische toegang tot de overheid (Tijdelijk besluit nummergebruik overheidstoegangsvoorziening)

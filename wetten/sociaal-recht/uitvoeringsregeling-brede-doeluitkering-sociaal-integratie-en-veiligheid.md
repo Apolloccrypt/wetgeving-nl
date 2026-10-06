@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0018516"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, van 30 juni 2005, nr. 2005-0000059936/CZW/WVOB, houdende regels ter uitvoering van het Besluit brede doeluitkering sociaal, integratie en veiligheid (Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid)

@@ -9,7 +9,7 @@ laatste_update: 2004-11-12
 status: geldig
 toestand: 2004-11-12
 bron: "https://wetten.overheid.nl/BWBR0017373"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 oktober 2004, nr. DPenO 2521244, houdende de instelling van de Raad van Toezicht Nederlands Vaccinatie Instituut

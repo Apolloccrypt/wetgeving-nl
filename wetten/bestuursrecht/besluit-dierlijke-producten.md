@@ -5,11 +5,11 @@ identifier: "BWBR0032335"
 categorie: "Overig"
 soort: "AMvB"
 publicatiedatum: 2021-03-24
-laatste_update: 2025-11-27
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2025-11-27
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0032335"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 2 november 2012, houdende regels met betrekking tot dierlijke producten (Besluit dierlijke producten)
@@ -110,7 +110,7 @@ Rechtstreekse levering van kleine hoeveelheden vlees van op het bedrijf geslacht
 
 ##### Artikel 2.4. Onderzoek wilde zwijnen
 
-1. Bij rechtstreekse levering als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2025-11-27&g=2025-11-27), van een karkas van een wild zwijn neemt de gekwalificeerde persoon tijdens het onderzoek, bedoeld in het derde lid van dat artikel, een monster als bedoeld in artikel 2, tweede lid, tweede alinea, van verordening (EU) nr. 1375/2015.
+1. Bij rechtstreekse levering als bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2026-10-01&g=2026-10-01), van een karkas van een wild zwijn neemt de gekwalificeerde persoon tijdens het onderzoek, bedoeld in het derde lid van dat artikel, een monster als bedoeld in artikel 2, tweede lid, tweede alinea, van verordening (EU) nr. 1375/2015.
 
 2. De bemonstering en het onderzoek van het monster vinden plaats overeenkomstig bijlage I, hoofdstuk I, onderdeel 1, onderdeel 2, onder c, tweede alinea, onderdeel 3, onder I en II, en bijlage III, aanhef en onderdelen a, d, en f, van verordening (EU) nr. 1375/2015.
 
@@ -202,9 +202,9 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 ##### Artikel 2.7. Regels ter uitvoering EU-rechtshandelingen
 
-1. Bij ministeriële regeling worden ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2025-11-27&g=2025-11-27) regels gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen verplichten tot invulling van een onderdeel van die rechtshandelingen.
+1. Bij ministeriële regeling worden ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2026-10-01&g=2026-10-01) regels gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen verplichten tot invulling van een onderdeel van die rechtshandelingen.
 
-2. Bij ministeriële regeling kunnen ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2025-11-27&g=2025-11-27) regels worden gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen de ruimte bieden om een bepaalde handeling of toestand toe te staan of te verbieden.
+2. Bij ministeriële regeling kunnen ter uitvoering van voorschriften in EU-verordeningen of EU-besluiten als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2026-10-01&g=2026-10-01) regels worden gesteld met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c en e tot en met l, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen de ruimte bieden om een bepaalde handeling of toestand toe te staan of te verbieden.
 
 ##### Artikel 2.8. Nationale kwaliteitsvoorschriften voor kaas
 
@@ -264,7 +264,7 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 ##### Artikel 2.9. Overeenkomstige toepassing Landbouwkwaliteitswet
 
-1. Op de uitvoering van het toezicht en de keuring, bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2025-11-27&g=2025-11-27) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2025-11-27&g=2025-11-27), door de instellingen, bedoeld in die artikelen, zijn van overeenkomstige toepassing:
+1. Op de uitvoering van het toezicht en de keuring, bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2026-10-01&g=2026-10-01) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2026-10-01&g=2026-10-01), door de instellingen, bedoeld in die artikelen, zijn van overeenkomstige toepassing:
 
 - a. de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8), [11, eerste en vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), en 13 tot en met 13y van de Landbouwkwaliteitswet;
 
@@ -272,7 +272,7 @@ Bij ministeriële regeling worden regels gesteld ter uitvoering van bindende ond
 
 2. Op de uitvoering van het toezicht op de naleving van regels over de kwaliteit van levensmiddelen van dierlijke oorsprong door Onze Minister, is [artikel 11, tweede en vierde tot en met zevende lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11) van overeenkomstige toepassing.
 
-3. [Artikel 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14) is van overeenkomstige toepassing op een recht van een houder van een kwaliteitsaanduiding van een landbouwproduct of levensmiddel van dierlijke oorsprong als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2025-11-27&g=2025-11-27).
+3. [Artikel 14 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14) is van overeenkomstige toepassing op een recht van een houder van een kwaliteitsaanduiding van een landbouwproduct of levensmiddel van dierlijke oorsprong als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2026-10-01&g=2026-10-01).
 
 ##### Artikel 2.10. Controles en bewijsstukken
 
@@ -306,6 +306,16 @@ Ten aanzien van onderwerpen die bij ministeriële regeling worden aangewezen zij
 
 2. Bij ministeriële regeling kunnen ter uitvoering van EU-verordeningen of EU-besluiten regels worden gesteld over dierlijke bijproducten met betrekking tot de onderwerpen, bedoeld in [artikel 3.1, tweede lid, onderdelen a tot en met c, e tot en met i en k tot en met n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.1), voor zover die EU-rechtshandelingen de ruimte bieden om een bepaalde handeling of toestand toe te staan of te verbieden.
 
+##### Artikel 3.1a. Vaststelling of wijziging van werkgebieden
+
+1. Bij de vaststelling van werkgebieden bij ministeriële regeling, bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3), wordt bij diezelfde regeling tegelijk de ondernemer, bedoeld in artikel 3.3, eerste lid, van de wet, aangewezen.
+
+2. De vaststelling van werkgebieden en de aanwijzing van de ondernemer, bedoeld in het eerste lid, vindt slechts plaats indien de beoogde ondernemer instemt met die aanwijzing.
+
+3. De ondernemer die is aangewezen op grond van het eerste lid kan verzoeken om die aanwijzing te wijzigen of te laten vervallen.
+
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld over het wijzigen van werkgebieden en het wijzigen of vervallen van een aanwijzing als bedoeld in het eerste lid.
+
 ##### Artikel 3.2. Overmacht
 
 1. Ingeval van overmacht als bedoeld in [artikel 3.3, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3) kan Onze Minister, al dan niet op verzoek van de ondernemer voor wie een werkgebied als bedoeld in artikel 3.3 van de wet is vastgesteld, een of meer andere ondernemers tijdelijk aanwijzen of toestaan om de in dat werkgebied aanwezige dierlijke bijproducten als bedoeld in artikel 3.3, eerste lid, van de wet geheel of gedeeltelijk te verwerken.
@@ -316,41 +326,63 @@ Ten aanzien van onderwerpen die bij ministeriële regeling worden aangewezen zij
 
 ##### Artikel 3.3. Tarieven
 
-1. Een ondernemer stelt tarieven vast voor de vergoeding, bedoeld in [artikel 3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.6).
+1. Een ondernemer stelt de volgende tarieven vast voor de vergoeding, bedoeld in [artikel 3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.6):
 
-2. De totale opbrengst van de tarieven die de ondernemer vaststelt ter vergoeding van de werkzaamheden, bedoeld in [artikel 3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.6), bedraagt niet meer dan de kosten die de ondernemer maakt bij de uitvoering van die werkzaamheden, verminderd met de opbrengst van die producten of daarvan afgeleide producten.
+- a. een tarief voor de werkzaamheden, bedoeld in [artikel 3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.6), die worden verricht als gevolg van getroffen maatregelen of verrichte handelingen ter bestrijding van dierziekten krachtens de wet;
 
-3. De kosten, bedoeld in het tweede lid, kunnen betrekking hebben op:
+- b. een tarief voor de werkzaamheden, bedoeld in [artikel 3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.6), anders dan die bedoeld in onderdeel a.
 
-- a. de kosten die de ondernemer maakt bij het verrichten van de in het tweede lid bedoelde werkzaamheden;
+2. De hoogte van de tarieven wordt zodanig vastgesteld dat de totale opbrengst van de tarieven niet meer bedraagt dan de in het kader van de werkzaamheden, bedoeld in [artikel 3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.6), gemaakte werkelijke kosten en een vermogenskostenvergoeding, verminderd met de opbrengst van de desbetreffende producten of daarvan afgeleide producten.
 
-- b. een percentage van de vermogenskosten over de boekwaarde van het geïnvesteerde vermogen in de productiecapaciteit die en het werkkapitaal dat wordt ingezet voor het verrichten van de in het tweede lid bedoelde werkzaamheden.
+3. De kosten, bedoeld in het tweede lid, voor de tarieven, bedoeld in het eerste lid, omvatten:
 
-4. Indien de gemaakte kosten in de periode waarin de tarieven, bedoeld in het tweede lid, van toepassing zijn geweest, afwijken van de geraamde kosten, komt in afwijking van het tweede lid een percentage van het verschil ten bate dan wel ten laste van de ondernemer.
+- a. directe kosten;
 
-5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot:
+- b. indirecte kosten; en
 
-- a. de hoogte van het percentage, bedoeld in het derde lid, onderdeel b;
+- c. afschrijvingskosten van vaste activa.
 
-- b. de kosten waarop het vierde lid van toepassing is en de hoogte van het percentage, bedoeld in dat lid.
+4. Bij ministeriële regeling kunnen regels worden gesteld over:
+
+- a. de posten waaruit de kosten, bedoeld in het derde lid, onderdelen a en b, bestaan;
+
+- b. de bepaling van de afschrijvingskosten, bedoeld in het derde lid, onderdeel c; en
+
+- c. de bepaling van de opbrengsten, bedoeld in het tweede lid.
+
+5. De vermogenskostenvergoeding, bedoeld in het tweede lid, wordt berekend over de waarde van de materiële vaste activa en het werkkapitaal die zijn ingezet ten behoeve van de werkzaamheden, bedoeld in [artikel 3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.6), overeenkomstig een bij ministeriële regeling vastgestelde formule.
+
+6. Bij ministeriële regeling worden regels gesteld over de bepaling van de waarde van de materiële vaste activa en het werkkapitaal, bedoeld in het vijfde lid.
+
+7. Indien de in het kader van de werkzaamheden, bedoeld in het eerste lid, onderdeel b, gemaakte werkelijke kosten en opbrengsten in het kalenderjaar waarop de tarieven, bedoeld in het eerste lid, onderdeel b, betrekking hebben na afloop van dat kalenderjaar blijken af te wijken van de totale opbrengst van die tarieven, komt het verschil ten bate of ten laste van de tarieven in het tweede kalenderjaar na het kalenderjaar waarop de eerstgenoemde tarieven betrekking hebben.
 
 ##### Artikel 3.4. Nadere regels over tarieven
 
 1. De tarieven worden per kalenderjaar vastgesteld.
 
-2. De tarieven, alsmede wijzigingen daarvan, behoeven de goedkeuring van Onze Minister.
+2. Binnen de tarieven wordt een onderscheid gemaakt tussen enerzijds het ophalen en vervoeren en anderzijds het verwerken of verwijderen. Bij ministeriële regeling kan worden bepaald dat binnen de onderscheiden handelingen op basis van andere criteria nader onderscheid wordt gemaakt.
 
-3. De goedkeuring kan worden onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2025-11-27&g=2025-11-27).
+3. De ondernemer bespreekt met het betrokken bedrijfsleven een voorstel voor de tarieven, bedoeld in [artikel 3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2026-10-01&g=2026-10-01), voordat de tarieven worden goedgekeurd door Onze Minister.
 
-4. Indien de vanaf een kalenderjaar te berekenen tarieven niet voor 1 januari van dat jaar zijn goedgekeurd, kan Onze Minister de tarieven vaststellen.
+4. De tarieven, alsmede wijzigingen daarvan, behoeven de goedkeuring van Onze Minister.
 
-5. Ten behoeve van de goedkeuring verschaft de ondernemer alle noodzakelijke informatie, welke informatie vergezeld gaat van een controleverklaring, opgesteld door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+5. De goedkeuring wordt onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2026-10-01&g=2026-10-01).
 
-6. Van een besluit tot goedkeuring of tot vaststelling van de tarieven wordt mededeling gedaan in de Staatscourant.
+6. Indien de vanaf een kalenderjaar te berekenen tarieven niet voor 1 januari van dat jaar zijn goedgekeurd, kan Onze Minister de tarieven vaststellen.
+
+7. Ten behoeve van de goedkeuring verschaft de ondernemer alle noodzakelijke informatie, welke informatie vergezeld gaat van een controleverklaring, opgesteld door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Bij ministeriële regeling wordt bepaald welke informatie de ondernemer in ieder geval jaarlijks verschaft.
+
+8. Van een besluit tot goedkeuring of tot vaststelling van de tarieven wordt mededeling gedaan in de Staatscourant.
+
+##### Artikel 3.4a. Tarieven 2026
+
+1. De wijzigingen van de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2026-10-01&g=2026-10-01) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2026-10-01&g=2026-10-01) met ingang van 1 oktober 2026 laten de tarieven die voor het kalenderjaar 2026 zijn vastgesteld overeenkomstig de artikelen 3.3 en 3.4 zoals die luidden voor die datum onverlet.
+
+2. Dit artikel vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 3.5. Extra kosten
 
-Indien de kosten voor het verwerken of verwijderen van dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3) in een bepaald geval aantoonbaar aanmerkelijk hoger zijn dan de kosten, bedoeld in [artikel 3.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-11-27&g=2025-11-27), kan de ondernemer de extra kosten in rekening brengen bij de aanbieder van die producten.
+Indien de kosten voor het verwerken of verwijderen van dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3) in een bepaald geval aantoonbaar aanmerkelijk hoger zijn dan de kosten, bedoeld in [artikel 3.2, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2026-10-01&g=2026-10-01), kan de ondernemer de extra kosten in rekening brengen bij de aanbieder van die producten.
 
 #### § 2. Levende dierlijke producten
 

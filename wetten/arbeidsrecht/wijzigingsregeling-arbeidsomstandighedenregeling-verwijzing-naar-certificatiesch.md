@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0017557"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 22 november 2004, Directie Arbeidsveiligheid en -gezondheid, nr. A&G/W&O/2004/11466, tot wijziging van de Arbeidsomstandighedenregeling in verband met de verwijzing naar certificatieschema’s

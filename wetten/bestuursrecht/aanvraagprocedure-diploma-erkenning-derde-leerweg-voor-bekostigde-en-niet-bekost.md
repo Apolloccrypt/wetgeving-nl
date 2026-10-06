@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-07-31
 toestand: 2013-12-18
 bron: "https://wetten.overheid.nl/BWBR0035729"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Aanvraagprocedure diploma-erkenning derde leerweg voor bekostigde en niet-bekostigde instellingen

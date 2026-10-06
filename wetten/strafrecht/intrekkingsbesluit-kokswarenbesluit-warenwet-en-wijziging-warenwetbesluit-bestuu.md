@@ -9,7 +9,7 @@ laatste_update: 2005-02-23
 status: geldig
 toestand: 2005-02-23
 bron: "https://wetten.overheid.nl/BWBR0017988"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 2 februari 2005, houdende intrekking van het Kokswarenbesluit (Warenwet) en wijziging van het Warenwetbesluit bestuurlijke boeten

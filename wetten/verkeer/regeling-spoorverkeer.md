@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0017707"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling ter uitvoering van de artikelen 1, onderdeel e, 2, 9, 20, 26 en 38 van het Besluit spoorverkeer (Regeling spoorverkeer)

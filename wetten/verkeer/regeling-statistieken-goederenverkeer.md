@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0017701"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Economische Zaken van 17 december 2004, nr. WJZ 4078560, houdende bepalingen met betrekking tot de statistieken van goederenverkeer (Regeling statistieken goederenverkeer)

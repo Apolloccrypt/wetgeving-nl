@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0018113"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 16 maart 2005 tot vaststelling van regels omtrent de verstrekking, berekening en verantwoording van de brede doeluitkering verkeer en vervoer (Besluit BDU verkeer en vervoer)

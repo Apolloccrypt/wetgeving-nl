@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0018471"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 23 juni 2005 tot wijziging van een aantal wetten in verband met de invoering van de Algemene wet inkomensafhankelijke regelingen (Aanpassingswet Algemene wet inkomensafhankelijke regelingen)

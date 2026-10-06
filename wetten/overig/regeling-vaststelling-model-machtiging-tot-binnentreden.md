@@ -9,7 +9,7 @@ laatste_update: 2005-08-26
 status: geldig
 toestand: 2005-08-26
 bron: "https://wetten.overheid.nl/BWBR0018484"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Justitie van 27 juni 2005, nr. 5354834/505, houdende vaststelling van een gewijzigd model van een schriftelijke machtiging tot binnentreden (Regeling vaststelling model machtiging tot binnentreden)

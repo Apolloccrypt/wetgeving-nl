@@ -9,7 +9,7 @@ laatste_update: 2026-09-19
 status: geldig
 toestand: 2026-09-19
 bron: "https://wetten.overheid.nl/BWBR0035248"
-opgehaald: 2026-09-22
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 23 juni 2014, nr. WJZ/14101260, houdende regels met betrekking tot het houden van dieren
@@ -1772,7 +1772,7 @@ Artikel 97, eerste lid, van verordening (EU) nr. 2016/429 en artikel 5 van veror
 
 ##### Artikel 5c.6a. Verzamelen en overladen op vervoermiddel voor Nederlandse markt
 
-De artikelen 133, tweede lid, en 134 van verordening (EU) nr. 2016/429, de artikelen 1.34 en 1.35 van het besluit, en artikel 5.2c zijn van overeenkomstige toepassing op het verzamelen van hoefdieren, bedoeld in die artikelen, die afkomstig zijn uit een inrichting in Nederland en die worden vervoerd naar een inrichting in Nederland.
+De artikelen 133, tweede lid, en 134 van verordening (EU) nr. 2016/429, de [artikelen 1.34](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.34) en [1.35 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.35), en [artikel 5c.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5c&paragraaf=5c.1&artikel=5c.2&z=2026-09-19&g=2026-09-19) zijn van overeenkomstige toepassing op het verzamelen van hoefdieren, bedoeld in die artikelen, die afkomstig zijn uit een inrichting in Nederland en die worden vervoerd naar een inrichting in Nederland.
 
 ##### Artikel 5c.7. Lossen
 

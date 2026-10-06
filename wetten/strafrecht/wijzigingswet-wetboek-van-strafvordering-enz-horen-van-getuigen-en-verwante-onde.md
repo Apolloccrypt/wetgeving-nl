@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017478"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 10 november 2004 tot wijziging van het Wetboek van Strafvordering, het Wetboek van Strafrecht en de Wet op de rechterlijke organisatie in verband met het horen van getuigen en enkele verwante onderwerpen

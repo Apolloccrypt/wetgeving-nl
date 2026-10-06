@@ -8,7 +8,7 @@ laatste_update: 2003-01-22
 status: geldig
 toestand: 2003-01-22
 bron: "https://wetten.overheid.nl/BWBV0001570"
-opgehaald: 2026-09-11
+opgehaald: 2026-10-06
 ---
 
 # Memorandum van overeenstemming inzake de oprichting van de Organisatie Mondiaal Samenwerkingsverband Water

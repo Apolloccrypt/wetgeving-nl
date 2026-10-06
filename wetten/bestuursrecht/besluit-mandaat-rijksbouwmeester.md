@@ -8,7 +8,7 @@ laatste_update: 2005-05-27
 status: geldig
 toestand: 2005-05-27
 bron: "https://wetten.overheid.nl/BWBR0018319"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit mandaat Rijksbouwmeester

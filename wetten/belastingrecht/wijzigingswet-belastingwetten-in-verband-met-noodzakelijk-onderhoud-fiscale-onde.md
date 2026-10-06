@@ -9,7 +9,7 @@ laatste_update: 2005-03-01
 status: geldig
 toestand: 2005-03-01
 bron: "https://wetten.overheid.nl/BWBR0017750"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 16 december 2004, houdende wijziging van belastingwetten in verband met noodzakelijk onderhoud (Fiscale onderhoudswet 2004)

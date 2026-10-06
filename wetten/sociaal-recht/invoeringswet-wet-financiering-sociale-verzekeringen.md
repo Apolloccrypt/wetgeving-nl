@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0017747"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Wet van 16 december 2004, houdende invoering van de Wet financiering sociale verzekeringen (Invoeringswet Wet financiering sociale verzekeringen)

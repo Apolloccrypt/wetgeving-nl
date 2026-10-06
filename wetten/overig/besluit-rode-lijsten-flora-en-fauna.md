@@ -9,7 +9,7 @@ laatste_update: 2026-04-23
 status: geldig
 toestand: 2026-04-23
 bron: "https://wetten.overheid.nl/BWBR0017434"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 4 november 2004, nr. TRCJZ/2004/5727, houdende vaststelling van Rode lijsten flora en fauna

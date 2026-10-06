@@ -9,7 +9,7 @@ laatste_update: 2007-12-15
 status: geldig
 toestand: 2007-12-15
 bron: "https://wetten.overheid.nl/BWBR0018502"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 28 juni 2005, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in groenten en fruit voor het jaar 2006 (Verordening PT bestemmingsheffing handel groenten en fruit 2006)

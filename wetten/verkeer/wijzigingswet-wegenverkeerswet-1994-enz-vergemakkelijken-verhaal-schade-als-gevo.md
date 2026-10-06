@@ -9,7 +9,7 @@ laatste_update: 2005-10-01
 status: geldig
 toestand: 2005-10-01
 bron: "https://wetten.overheid.nl/BWBR0018449"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 16 juni 2005, houdende wijziging van de Wegenverkeerswet 1994 en het Burgerlijk Wetboek teneinde het verhaal van schade die wordt veroorzaakt als gevolg van een ongeval met of een gebrek aan een motorrijtuig te vergemakkelijken

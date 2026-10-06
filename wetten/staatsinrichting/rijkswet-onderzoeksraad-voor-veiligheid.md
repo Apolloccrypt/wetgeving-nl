@@ -9,7 +9,7 @@ laatste_update: 2022-05-01
 status: geldig
 toestand: 2022-05-01
 bron: "https://wetten.overheid.nl/BWBR0017613"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Rijkswet van 2 december 2004, houdende instelling van een Onderzoeksraad voor veiligheid (Rijkswet Onderzoeksraad voor veiligheid)

@@ -9,7 +9,7 @@ laatste_update: 2005-07-13
 status: geldig
 toestand: 2005-07-13
 bron: "https://wetten.overheid.nl/BWBR0018560"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 5 juli 2005, houdende de overdracht van de zorg voor het filmstimuleringsbeleid

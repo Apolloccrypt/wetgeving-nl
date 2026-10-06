@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0017728"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling houdende nadere regels met betrekking tot de veiligheid en certificering van in Nederland geregistreerde zeeschepen, alsmede regels met betrekking tot de veiligheid van buitenlandse schepen in Nederlandse wateren (Regeling veiligheid zeeschepen)

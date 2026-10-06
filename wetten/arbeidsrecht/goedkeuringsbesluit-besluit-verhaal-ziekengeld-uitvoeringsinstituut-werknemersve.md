@@ -9,7 +9,7 @@ laatste_update: 2005-03-01
 status: geldig
 toestand: 2005-03-01
 bron: "https://wetten.overheid.nl/BWBR0017929"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid, van 21 januari 2005, Directie Sociale Verzekeringen, nr. SV/A&L/05/2610, houdende goedkeuring van het Besluit verhaal ziekengeld van het Uitvoeringsinstituut werknemersverzekeringen

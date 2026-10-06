@@ -9,7 +9,7 @@ laatste_update: 2010-01-23
 status: geldig
 toestand: 2010-01-23
 bron: "https://wetten.overheid.nl/BWBR0017897"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Justitie van 12 januari 2005, nr. 5328242/04/DJJ, houdende aanwijzing van categorieën andere minderjarigen als bedoeld in de artikelen 241, zevende lid, en 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek

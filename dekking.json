@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-10-05",
+ "gegenereerd": "2026-10-06",
  "geverifieerd": true,
- "bwb_regelingen": 46954,
- "bwb_geldend": 22256,
- "site_totaal": 22485,
- "site_geldend": 22255,
+ "bwb_regelingen": 46963,
+ "bwb_geldend": 22262,
+ "site_totaal": 22494,
+ "site_geldend": 22261,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 230,
+ "aantal_ten_onrechte_geldig": 233,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -150,6 +150,10 @@
    "titel": "Voorlopige voorziening tegemoetkoming inkomensderving als gevolg van ophoging AOW-leeftijd"
   },
   {
+   "id": "BWBR0037127",
+   "titel": "Regeling van de Staatssecretaris van Financiën van 23 oktober 2015, nr. DB/2015/366M houdende regels voor het elektronische berichtenverkeer met de Belastingdienst (Regeling elektronisch berichtenverkeer Belastingdienst)"
+  },
+  {
    "id": "BWBR0037303",
    "titel": "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 december 2015, kenmerk 874466-144542-WJZ, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2016)"
   },
@@ -220,6 +224,10 @@
   {
    "id": "BWBR0040970",
    "titel": "Volmacht- en machtigingsbesluit roerende zaken Rijksvastgoedbedrijf 2018"
+  },
+  {
+   "id": "BWBR0041100",
+   "titel": "Besluit vaststelling selectielijst Autoriteit Consument en Markt (ACM) voor de periode vanaf 1997"
   },
   {
    "id": "BWBR0041317",
@@ -472,6 +480,10 @@
   {
    "id": "BWBR0045657",
    "titel": "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 23 september 2021, nr. VO/29518735, houdende regels voor de subsidieverstrekking voor heterogene brugklassen (Subsidieregeling heterogene brugklassen)"
+  },
+  {
+   "id": "BWBR0045667",
+   "titel": "Besluit van de Minister voor Rechtsbescherming van 14 september 2021, nr. BOACAT2021/045, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Wageningen"
   },
   {
    "id": "BWBR0045694",

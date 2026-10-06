@@ -9,7 +9,7 @@ laatste_update: 2020-10-15
 status: geldig
 toestand: 2020-10-15
 bron: "https://wetten.overheid.nl/BWBR0017794"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 20 december 2004, houdende aanwijzing van hoofdspoorwegen, alsmede houdende intrekking van enkele op grond van de Locaalspoor- en Tramwegwet genomen besluiten (Besluit aanwijzing hoofdspoorwegen)

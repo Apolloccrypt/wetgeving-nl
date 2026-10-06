@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0018244"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling houdende bepalingen met betrekking tot erkenningen van geluidscertificaten en geluidsverklaringen (Regeling geluidscertificaten en geluidsverklaringen luchtvaart)

@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0018238"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 26 april 2005, houdende regels voor de brede doeluitkering Sociaal, Integratie en Veiligheid van het Grotestedenbeleid (Besluit brede doeluitkering sociaal, integratie en veiligheid)

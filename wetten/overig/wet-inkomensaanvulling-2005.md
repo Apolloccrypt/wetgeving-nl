@@ -9,7 +9,7 @@ laatste_update: 2005-04-15
 status: geldig
 toestand: 2005-04-15
 bron: "https://wetten.overheid.nl/BWBR0018140"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 24 maart 2005 tot aanvulling van het inkomen van ouderen met een bescheiden inkomen en aanpassing berekening vakantie-uitkering voor uitkeringsgerechtigden (Wet inkomensaanvulling 2005)

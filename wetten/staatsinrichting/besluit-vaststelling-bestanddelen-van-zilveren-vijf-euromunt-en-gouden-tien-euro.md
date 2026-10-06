@@ -9,7 +9,7 @@ laatste_update: 2004-12-08
 status: geldig
 toestand: 2004-12-08
 bron: "https://wetten.overheid.nl/BWBR0017564"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 22 november 2004, houdende vaststelling van de bestanddelen van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2004 worden uitgegeven ter gelegenheid van vijftig jaar Statuut voor het Koninkrijk der Nederlanden

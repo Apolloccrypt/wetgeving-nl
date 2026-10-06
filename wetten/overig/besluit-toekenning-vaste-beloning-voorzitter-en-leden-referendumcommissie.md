@@ -9,7 +9,7 @@ laatste_update: 2005-04-22
 status: geldig
 toestand: 2005-04-22
 bron: "https://wetten.overheid.nl/BWBR0018156"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 31 maart 2005, nr. 05.001109, houdende toekenning van een vaste beloning aan de voorzitter en de overige leden van de referendumcommissie, genoemd in artikel 24 van de Wet raadplegend referendum Europese Grondwet

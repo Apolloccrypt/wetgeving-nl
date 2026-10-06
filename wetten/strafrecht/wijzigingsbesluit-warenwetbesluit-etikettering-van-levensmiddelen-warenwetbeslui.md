@@ -9,7 +9,7 @@ laatste_update: 2005-01-07
 status: geldig
 toestand: 2005-01-07
 bron: "https://wetten.overheid.nl/BWBR0017361"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 25 oktober 2004, houdende wijziging van het Warenwetbesluit Etikettering van levensmiddelen inzake de vermelding van ingrediënten, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen, en van het Warenwetbesluit bestuurlijke boeten

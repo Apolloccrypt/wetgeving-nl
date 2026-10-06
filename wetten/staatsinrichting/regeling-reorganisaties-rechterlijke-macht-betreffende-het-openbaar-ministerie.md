@@ -9,7 +9,7 @@ laatste_update: 2020-05-30
 status: geldig
 toestand: 2020-05-30
 bron: "https://wetten.overheid.nl/BWBR0018055"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Justitie van 24 februari 2005, nr. 5336480/805, tot vaststelling van nadere regels bij reorganisaties in de sector Rechterlijke Macht, die het openbaar ministerie betreffen (Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie)

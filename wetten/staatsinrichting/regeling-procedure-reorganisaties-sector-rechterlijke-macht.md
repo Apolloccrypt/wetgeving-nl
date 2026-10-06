@@ -9,7 +9,7 @@ laatste_update: 2020-04-21
 status: geldig
 toestand: 2020-04-21
 bron: "https://wetten.overheid.nl/BWBR0017783"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Justitie van 20 december 2004, nr. 5326086/804, inzake de procedure bij reorganisaties in de sector Rechterlijke Macht

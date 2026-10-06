@@ -9,7 +9,7 @@ laatste_update: 2005-06-11
 status: geldig
 toestand: 2005-06-11
 bron: "https://wetten.overheid.nl/BWBR0018373"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Financiën van 31 mei 2005, nr. BenC 2005-258 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Centrale Vermogensopsporingsdienst 1945–1967

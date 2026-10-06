@@ -9,7 +9,7 @@ laatste_update: 2005-02-01
 status: geldig
 toestand: 2005-02-01
 bron: "https://wetten.overheid.nl/BWBR0017719"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 15 december 2004 tot verlenging van de gemeenschappelijke regelingen die zijn getroffen krachtens de Kaderwet bestuur in verandering

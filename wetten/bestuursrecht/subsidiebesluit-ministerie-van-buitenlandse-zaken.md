@@ -9,7 +9,7 @@ laatste_update: 2013-07-01
 status: geldig
 toestand: 2013-07-01
 bron: "https://wetten.overheid.nl/BWBR0018039"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 19 februari 2005, houdende nadere regels met betrekking tot de verstrekking van subsidies door de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking (Subsidiebesluit Ministerie van Buitenlandse Zaken)

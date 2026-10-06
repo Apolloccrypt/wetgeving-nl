@@ -9,7 +9,7 @@ laatste_update: 2007-03-30
 status: geldig
 toestand: 2007-03-30
 bron: "https://wetten.overheid.nl/BWBR0018381"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 juni 2005, nr. DGM/EV2005054032, houdende regels met betrekking tot verstrekking van subsidie aan provincies ten behoeve van het externe veiligheidsbeleid voor het tijdvak 2006 tot en met 2010 (Subsidieregeling programmafinanciering EV-beleid voor andere overheden 2006–2010)

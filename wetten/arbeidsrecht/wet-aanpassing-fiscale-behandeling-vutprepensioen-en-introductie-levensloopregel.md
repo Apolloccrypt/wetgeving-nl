@@ -9,7 +9,7 @@ laatste_update: 2014-12-20
 status: geldig
 toestand: 2014-12-20
 bron: "https://wetten.overheid.nl/BWBR0018053"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 24 februari 2005, houdende wijziging van de Wet op de loonbelasting 1964, de Wet inkomstenbelasting 2001, de Wet op de vennootschapsbelasting 1969, de Wet arbeid en zorg en van enige andere wetten (Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling)

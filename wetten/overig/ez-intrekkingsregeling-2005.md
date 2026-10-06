@@ -9,7 +9,7 @@ laatste_update: 2005-06-26
 status: geldig
 toestand: 2005-06-26
 bron: "https://wetten.overheid.nl/BWBR0018377"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Economische Zaken van 1 juni 2005, nr. WJZ 5028518, houdende intrekking van diverse regelingen op het terrein van het Ministerie van Economische Zaken (EZ-intrekkingsregeling 2005)

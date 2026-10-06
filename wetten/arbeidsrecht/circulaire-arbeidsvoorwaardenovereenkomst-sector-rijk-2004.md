@@ -8,7 +8,7 @@ laatste_update: 2005-09-09
 status: geldig
 toestand: 2005-09-09
 bron: "https://wetten.overheid.nl/BWBR0018517"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Circulaire Arbeidsvoorwaardenovereenkomst sector Rijk 2004

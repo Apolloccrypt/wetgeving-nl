@@ -9,7 +9,7 @@ laatste_update: 2004-10-23
 status: geldig
 toestand: 2004-10-23
 bron: "https://wetten.overheid.nl/BWBR0017324"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Financiën van 19 oktober 2004, nr. IAZ 2004-878M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Ministerie van Financiën, Centraal Afwikkelingsbureau Duitse Schade-uitkeringen 1959–1966

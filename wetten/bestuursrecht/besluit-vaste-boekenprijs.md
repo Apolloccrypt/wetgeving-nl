@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0018298"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 3 mei 2005, houdende regels ter uitvoering van bepalingen van de Wet op de vaste boekenprijs (Besluit vaste boekenprijs)

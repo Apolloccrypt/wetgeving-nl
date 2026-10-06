@@ -9,7 +9,7 @@ laatste_update: 2008-06-01
 status: geldig
 toestand: 2008-06-01
 bron: "https://wetten.overheid.nl/BWBR0018037"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 19 februari 2005, houdende wijziging van het Kentekenreglement en het Reglement rijbewijzen in verband met de bescherming van persoonsgegevens en enige andere wijzigingen

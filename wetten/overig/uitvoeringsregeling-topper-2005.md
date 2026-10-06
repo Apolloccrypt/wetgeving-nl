@@ -9,7 +9,7 @@ laatste_update: 2004-12-24
 status: geldig
 toestand: 2004-12-24
 bron: "https://wetten.overheid.nl/BWBR0017694"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 14 december 2004, nr. WJZ 4079418, houdende regels ter uitvoering van het Besluit subsidies Topprojecten herstructurering bedrijventerreinen

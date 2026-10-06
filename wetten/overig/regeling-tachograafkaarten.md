@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0018544"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling houdende regels met betrekking tot de verstrekking en het gebruik van tachograafkaarten (Regeling tachograafkaarten)

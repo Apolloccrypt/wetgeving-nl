@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0017795"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 20 december 2004, houdende vaststelling van het hoofdrailnet, bedoeld in artikel 69b, eerste lid, van de Wet personenvervoer 2000 (Besluit hoofdrailnet)

@@ -6,10 +6,11 @@ categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2015-11-01
 laatste_update: 2026-05-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-30
 toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0037127"
-opgehaald: 2026-08-23
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 23 oktober 2015, nr. DB/2015/366M houdende regels voor het elektronische berichtenverkeer met de Belastingdienst (Regeling elektronisch berichtenverkeer Belastingdienst)

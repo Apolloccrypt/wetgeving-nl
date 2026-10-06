@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017331"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie innovatiesubsidie samenwerkingsprojecten

@@ -9,7 +9,7 @@ laatste_update: 2005-05-01
 status: geldig
 toestand: 2005-05-01
 bron: "https://wetten.overheid.nl/BWBR0018058"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie lange termijn energieonderzoek

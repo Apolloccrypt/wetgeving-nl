@@ -9,7 +9,7 @@ laatste_update: 2005-07-01
 status: geldig
 toestand: 2005-07-01
 bron: "https://wetten.overheid.nl/BWBR0017335"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Gezamenlijke Regeling tussen de Staatssecretaris van Financiën van Nederland en de Minister van Financiën van de Nederlandse Antillen en de Minister van Financiën en Economische Zaken van Aruba van 20 oktober 2004, inzake de automatische uitwisseling van inlichtingen van inkomsten uit spaargelden in de vorm van rentebetalingen

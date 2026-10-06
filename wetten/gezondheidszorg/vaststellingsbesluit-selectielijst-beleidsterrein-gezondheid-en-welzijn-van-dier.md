@@ -8,7 +8,7 @@ laatste_update: 2005-06-02
 status: geldig
 toestand: 2005-06-02
 bron: "https://wetten.overheid.nl/BWBR0018282"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijst beleidsterrein Gezondheid en welzijn van dieren over de periode 1945–1998: neerslag handelingen Universiteit Utrecht

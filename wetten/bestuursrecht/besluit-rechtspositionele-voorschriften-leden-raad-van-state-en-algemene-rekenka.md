@@ -9,7 +9,7 @@ laatste_update: 2010-09-01
 status: geldig
 toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBR0017937"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 24 januari 2005, houdende enkele rechtspositionele voorschriften ten aanzien van leden van de Raad van State en de Algemene Rekenkamer

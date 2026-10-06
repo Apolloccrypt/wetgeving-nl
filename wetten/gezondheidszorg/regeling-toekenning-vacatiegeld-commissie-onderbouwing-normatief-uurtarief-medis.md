@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0017583"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 november 2004, nr. CZ/IZ/2538616, houdende toekenning vacatiegeld commissie onderbouwing normatief uurtarief medisch specialisten

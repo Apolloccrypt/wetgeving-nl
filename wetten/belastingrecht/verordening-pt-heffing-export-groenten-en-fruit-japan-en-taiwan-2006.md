@@ -9,7 +9,7 @@ laatste_update: 2005-10-02
 status: geldig
 toestand: 2005-10-02
 bron: "https://wetten.overheid.nl/BWBR0018500"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 28 juni 2005, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan en Taiwan exporteren, op te leggen heffing voor het jaar 2006 (Verordening PT heffing export groenten en fruit Japan en Taiwan 2006)

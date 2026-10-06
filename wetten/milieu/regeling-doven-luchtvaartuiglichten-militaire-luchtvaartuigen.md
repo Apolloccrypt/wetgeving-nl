@@ -8,7 +8,7 @@ laatste_update: 2014-12-12
 status: geldig
 toestand: 2014-12-12
 bron: "https://wetten.overheid.nl/BWBR0017552"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling doven luchtvaartuiglichten militaire luchtvaartuigen

@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0018040"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 19 februari 2005, houdende een nieuwe regeling voor het toelaten van rassen, het in de handel brengen van teeltmateriaal en het verlenen van kwekersrecht (Zaaizaad- en plantgoedwet 2005)

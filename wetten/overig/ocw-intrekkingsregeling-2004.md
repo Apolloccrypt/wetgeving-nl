@@ -9,7 +9,7 @@ laatste_update: 2004-12-31
 status: geldig
 toestand: 2004-12-31
 bron: "https://wetten.overheid.nl/BWBR0017727"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 16 december 2004, nr. WJZ/2004/57142(8153), houdende intrekking van diverse regelingen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap in verband met het feit dat deze hun betekenis hebben verloren (OCW-intrekkingsregeling 2004)

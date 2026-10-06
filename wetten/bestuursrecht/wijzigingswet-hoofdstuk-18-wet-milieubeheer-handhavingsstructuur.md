@@ -9,7 +9,7 @@ laatste_update: 2005-11-10
 status: geldig
 toestand: 2005-11-10
 bron: "https://wetten.overheid.nl/BWBR0018611"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 16 juli 2005 tot wijziging van hoofdstuk 18 van de Wet milieubeheer (Handhavingsstructuur)

@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0012812"
-opgehaald: 2026-10-03
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister voor Grote Steden- en Integratiebeleid van 7 september 2001, houdende regels in verband met de verstrekking van noodpaspoorten en het aanbrengen van noodverlengingen door de Koninklijke Marechaussee

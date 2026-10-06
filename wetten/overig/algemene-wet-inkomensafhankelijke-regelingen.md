@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0018472"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 23 juni 2005 tot harmonisatie van inkomensafhankelijke regelingen (Algemene wet inkomensafhankelijke regelingen)

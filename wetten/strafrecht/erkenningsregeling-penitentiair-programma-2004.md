@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0017560"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Justitie van 22 november 2004, nr. 5295956/04/DJI, houdende bepalingen met betrekking tot de eisen voor erkenning van een penitentiair programma of een onderdeel daarvan (Erkenningsregeling penitentiair programma 2004)

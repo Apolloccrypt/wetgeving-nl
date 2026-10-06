@@ -8,7 +8,7 @@ laatste_update: 2004-11-07
 status: geldig
 toestand: 2004-11-07
 bron: "https://wetten.overheid.nl/BWBR0017372"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Tijdelijk protocol letselongevallen Defensie

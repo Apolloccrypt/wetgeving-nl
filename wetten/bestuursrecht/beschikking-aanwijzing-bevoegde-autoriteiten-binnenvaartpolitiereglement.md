@@ -9,7 +9,7 @@ laatste_update: 2026-06-17
 status: geldig
 toestand: 2026-06-17
 bron: "https://wetten.overheid.nl/BWBR0017541"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de minister van Verkeer en Waterstaat, houdende aanwijzing van de bevoegde autoriteiten bedoeld in het Binnenvaartpolitiereglement (Beschikking aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement)

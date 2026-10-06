@@ -8,7 +8,7 @@ laatste_update: 2005-07-06
 status: geldig
 toestand: 2005-07-06
 bron: "https://wetten.overheid.nl/BWBR0018465"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Circulaire Onderhoudsbaggerspecie

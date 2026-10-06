@@ -9,7 +9,7 @@ laatste_update: 2005-08-01
 status: geldig
 toestand: 2005-08-01
 bron: "https://wetten.overheid.nl/BWBR0018589"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Justitie houdende vaststelling van de Circulaire wapens en munitie 2005

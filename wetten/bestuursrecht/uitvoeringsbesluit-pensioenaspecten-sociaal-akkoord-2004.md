@@ -9,7 +9,7 @@ laatste_update: 2018-12-25
 status: geldig
 toestand: 2018-12-25
 bron: "https://wetten.overheid.nl/BWBR0018605"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 16 juli 2005, houdende regels op het gebied van pensioen ter uitvoering van een aantal onderwerpen uit de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling (Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004)

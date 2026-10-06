@@ -9,7 +9,7 @@ laatste_update: 2008-05-28
 status: geldig
 toestand: 2008-05-28
 bron: "https://wetten.overheid.nl/BWBR0018272"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat van 29 april 2005, nr. HDJZ/LUV/2005-1084, Hoofddirectie Juridische Zaken, belasten LVNL met luchtverkeersdienstverlening

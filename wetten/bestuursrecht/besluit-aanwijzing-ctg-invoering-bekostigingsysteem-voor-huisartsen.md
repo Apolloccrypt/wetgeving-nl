@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0018312"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 9 mei 2005, nr. MC/MO-2580975, houdende aanwijzing aan het CTG tot invoering van een nieuw bekostigingsysteem voor huisartsen

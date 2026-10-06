@@ -8,7 +8,7 @@ laatste_update: 2005-06-18
 status: geldig
 toestand: 2005-06-18
 bron: "https://wetten.overheid.nl/BWBR0017994"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijst beleidsterreinen Primair Onderwijs, Voortgezet Onderwijs, Hoger Beroepsonderwijs, Wetenschappelijk Onderwijs en Beroepsonderwijs en Volwasseneneducatie over de periode 1945–2002: neerslag handelingen Inspectie van het Onderwijs

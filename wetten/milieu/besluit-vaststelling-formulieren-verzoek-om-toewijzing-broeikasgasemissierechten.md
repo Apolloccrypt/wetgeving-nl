@@ -9,7 +9,7 @@ laatste_update: 2005-06-01
 status: geldig
 toestand: 2005-06-01
 bron: "https://wetten.overheid.nl/BWBR0018353"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 25 mei 2005, nr. KVI2005042221, houdende vaststelling van de formulieren voor het verzoek om toewijzing van broeikasgasemissierechten aan nieuwkomers in het systeem van handel in emissierechten

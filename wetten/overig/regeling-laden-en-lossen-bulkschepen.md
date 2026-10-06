@@ -9,7 +9,7 @@ laatste_update: 2004-12-31
 status: geldig
 toestand: 2004-12-31
 bron: "https://wetten.overheid.nl/BWBR0017716"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling, houdende regels ten aanzien van het veilig laden en lossen van bulkschepen (Regeling laden en lossen bulkschepen)

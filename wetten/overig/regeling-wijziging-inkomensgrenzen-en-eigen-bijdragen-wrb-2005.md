@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017684"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Minister van Justitie, Directie Toegang Rechtsbestel, van 13 december 2004, nr. 5323517/04/DTR, houdende wijziging van de inkomensgrenzen en eigen bijdragen (regeling wijziging inkomensgrenzen en eigen bijdrage de Wet op de rechtsbijstand 2005)

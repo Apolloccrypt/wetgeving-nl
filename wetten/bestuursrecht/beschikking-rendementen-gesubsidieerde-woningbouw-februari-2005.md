@@ -8,7 +8,7 @@ laatste_update: 2005-04-01
 status: geldig
 toestand: 2005-04-01
 bron: "https://wetten.overheid.nl/BWBR0018022"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Beschikking rendementen gesubsidieerde woningbouw, februari 2005

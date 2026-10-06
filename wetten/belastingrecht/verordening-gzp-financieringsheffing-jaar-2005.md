@@ -9,7 +9,7 @@ laatste_update: 2005-01-01
 status: geldig
 toestand: 2005-01-01
 bron: "https://wetten.overheid.nl/BWBR0017442"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 4 november 2004, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2005 (Verordening GZP financieringsheffing jaar 2005)

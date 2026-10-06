@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0017990"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 3 februari 2005 tot aanvulling van de Algemene wet bestuursrecht met een regeling over de behandeling van klachten over bestuursorganen door een ombudsman, alsmede daarmee samenhangende wijziging van de Wet Nationale ombudsman, de Gemeentewet, de Provinciewet, de Waterschapswet en de Wet gemeenschappelijke regelingen (Wet extern klachtrecht)

@@ -9,7 +9,7 @@ laatste_update: 2026-02-03
 status: geldig
 toestand: 2026-02-03
 bron: "https://wetten.overheid.nl/BWBR0017843"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Besluit van 23 december 2004 tot vaststelling van nadere voorschriften omtrent de inhoud van het jaarverslag

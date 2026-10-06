@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0018114"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Wet van 17 maart 2005 tot uitvoering van verordening (EG) Nr. 2157/2001 van de Raad van de Europese Unie van 8 oktober 2001 betreffende het statuut van de Europese vennootschap (SE) (Uitvoeringswet verordening Europese vennootschap)

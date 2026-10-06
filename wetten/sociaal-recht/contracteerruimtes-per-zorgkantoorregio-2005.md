@@ -8,7 +8,7 @@ laatste_update: 2004-12-17
 status: geldig
 toestand: 2004-12-17
 bron: "https://wetten.overheid.nl/BWBR0017670"
-opgehaald: 2026-08-08
+opgehaald: 2026-10-06
 ---
 
 # Contracteerruimtes per zorgkantoorregio 2005

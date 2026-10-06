@@ -8,7 +8,7 @@ laatste_update: 2009-10-23
 status: geldig
 toestand: 2009-10-23
 bron: "https://wetten.overheid.nl/BWBR0017869"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006

@@ -9,7 +9,7 @@ laatste_update: 2005-03-23
 status: geldig
 toestand: 2005-03-23
 bron: "https://wetten.overheid.nl/BWBR0018107"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 14 maart 2005, nr. DGM/SB/BM 2005031074, Directoraat-Generaal Milieubeheer, Directie Strategie en Bestuur/Afdeling Bestuur en Maatschappij, houdende wijziging van de Subsidieregeling maatschappelijke organisaties en milieu (Criteria projectsubsidies en subsidieplafonds voor 2005)

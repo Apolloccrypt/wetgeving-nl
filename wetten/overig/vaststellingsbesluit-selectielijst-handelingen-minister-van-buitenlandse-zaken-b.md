@@ -8,7 +8,7 @@ laatste_update: 2005-06-15
 status: geldig
 toestand: 2005-06-15
 bron: "https://wetten.overheid.nl/BWBR0018322"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Vaststellingsbesluit selectielijst handelingen Minister van Buitenlandse Zaken beleidsterrein Staatsschuld over de periode 1945–2003

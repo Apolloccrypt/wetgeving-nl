@@ -9,7 +9,7 @@ laatste_update: 2005-08-28
 status: geldig
 toestand: 2005-08-28
 bron: "https://wetten.overheid.nl/BWBR0018493"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-06
 ---
 
 # Besluit van het Bestuur van het Productschap Tuinbouw, d.d. 28 juni 2005, houdende een verlaging van de vakheffing bloembollen leverbaar oogstjaar 2005 (Besluit 2005/2 PT vakheffing bloembollen leverbaar oogstjaar 2005)
