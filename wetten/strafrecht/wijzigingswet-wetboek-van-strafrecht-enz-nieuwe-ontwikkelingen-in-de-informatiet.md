@@ -9,7 +9,7 @@ laatste_update: 2007-09-01
 status: geldig
 toestand: 2007-09-01
 bron: "https://wetten.overheid.nl/BWBR0019934"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 1 juni 2006 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met nieuwe ontwikkelingen in de informatietechnologie (computercriminaliteit II)

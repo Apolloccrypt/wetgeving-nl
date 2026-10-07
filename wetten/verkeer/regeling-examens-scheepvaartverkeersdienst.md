@@ -9,7 +9,7 @@ laatste_update: 2014-01-06
 status: geldig
 toestand: 2014-01-06
 bron: "https://wetten.overheid.nl/BWBR0018851"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling houdende bepalingen met betrekking tot de examens scheepvaartverkeersdienst (Regeling examens scheepvaartverkeersdienst)

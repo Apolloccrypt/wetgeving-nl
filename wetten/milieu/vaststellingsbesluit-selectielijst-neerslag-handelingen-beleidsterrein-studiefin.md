@@ -8,7 +8,7 @@ laatste_update: 2006-07-06
 status: geldig
 toestand: 2006-07-06
 bron: "https://wetten.overheid.nl/BWBR0019776"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Studiefinanciering vanaf 1945 (Minister van Verkeer en Waterstaat)

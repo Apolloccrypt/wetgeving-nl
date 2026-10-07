@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0019435"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 januari 2006, nr. TRCJZ/2006/99, houdende regels met betrekking tot de werkzaamheden van de Raad voor plantenrassen (Regeling werkzaamheden Raad voor plantenrassen)

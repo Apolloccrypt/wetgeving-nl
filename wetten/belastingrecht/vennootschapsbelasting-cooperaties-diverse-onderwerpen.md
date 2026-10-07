@@ -8,7 +8,7 @@ laatste_update: 2006-01-17
 status: geldig
 toestand: 2006-01-17
 bron: "https://wetten.overheid.nl/BWBR0019445"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vennootschapsbelasting, coöperaties; diverse onderwerpen

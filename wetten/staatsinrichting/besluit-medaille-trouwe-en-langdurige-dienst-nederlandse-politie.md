@@ -9,7 +9,7 @@ laatste_update: 2023-07-07
 status: geldig
 toestand: 2023-07-07
 bron: "https://wetten.overheid.nl/BWBR0019627"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 7 maart 2006, houdende instelling van de medaille voor trouwe en langdurige dienst Nederlandse politie

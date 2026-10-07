@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0035474"
-opgehaald: 2026-10-06
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Economische Zaken van 11 juli 2014, nr. WJZ / 13125043, houdende vaststelling van nationale subsidie-instrumenten op het terrein van Economische Zaken (Regeling nationale EZ-subsidies)
@@ -8411,7 +8411,7 @@ In deze titel wordt verstaan onder:
 
    - b. dat gericht is op het tot stand brengen van een Europees belangrijk project;
 
-- *Europese centrale narratief:* een narratief, paper, scopingsdocument of ander vergelijkbaar document dat:
+- *Europese centrale narratief:* een narratief, paper, scopingsdocument, waardeketendocument of ander vergelijkbaar document dat:
 
    - a. voorafgaand aan een Europees matchmakingsproces is opgesteld door zowel de Europese Commissie als lidstaten van de Europese Unie of de Europese Vrijhandelsassociatie; en
 
@@ -8433,7 +8433,7 @@ In deze titel wordt verstaan onder:
 
 - *onderzoeksorganisatie:* organisatie voor onderzoek en kennisverspreiding als bedoeld in artikel 2, onderdeel 83, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel 16, onder ff, van het O&O&I-steunkader;
 
-- *waterstofproductie door elektrolyse:* productie van waterstof door middel van elektrolyse van water op basis van hernieuwbare elektriciteit.
+- *test- en experimenteerinfrastructuur:* test- en experimenteerinfrastructuur als bedoeld in artikel 2, onderdeel 98 bis, van de algemene groepsvrijstellingsverordening.
 
 ##### Artikel 3.27.2. Subsidieverstrekking
 
@@ -8441,11 +8441,13 @@ In deze titel wordt verstaan onder:
 
 - a. algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën, voor zover het de activiteiten, bedoeld in het tweede lid, onderdeel a, betreft;
 
-- b. onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën, voor zover het de activiteiten, bedoeld in het tweede lid, onderdelen b en c, betreft.
+- b. onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën, voor zover het de activiteiten, bedoeld in het tweede lid, onderdelen b, onder 1°, 2°, 3°, 4° en 7°, en c, betreft;
+
+- c. onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën, voor zover het de activiteiten, bedoeld in het tweede lid, onderdelen b, onder 1°, 2°, 3°, 5° of 6°, of c, betreft.
 
 2. Een Nederlands belangrijk project omvat een samenhangend geheel van activiteiten, dat kan bestaan uit:
 
-- a. één of meer van de volgende activiteiten, uitgevoerd door een onderneming die voor het uitvoeren van deze activiteiten als directe partner is vermeld in het Europese goedkeuringsbesluit:
+- a. één of meer van de volgende activiteiten, uitgevoerd door een subsidieontvanger die voor het uitvoeren van deze activiteiten als onderneming kwalificeert en als directe partner is vermeld in het Europese goedkeuringsbesluit:
 
    - 1°. onderzoek en ontwikkeling;
 
@@ -8453,7 +8455,7 @@ In deze titel wordt verstaan onder:
 
    - 3°. infrastructuurprojectactiviteiten;
 
-- b. één of meer van de volgende economische activiteiten, uitgevoerd door een onderneming:
+- b. één of meer van de volgende economische activiteiten, uitgevoerd door een subsidieontvanger die voor het uitvoeren van deze activiteiten op grond van artikel 1 van het besluit als onderneming kwalificeert en niet als directe partner is vermeld in het Europese goedkeuringsbesluit:
 
    - 1°. industrieel onderzoek door een onderneming;
 
@@ -8463,9 +8465,13 @@ In deze titel wordt verstaan onder:
 
    - 4°. de bouw of het upgraden van onderzoeksinfrastructuur door een onderneming;
 
-   - 5°. uitbreidingsinvesteringen door een middelgrote of kleine onderneming voor de aanschaf of het gebruiksklaar maken van materiële of immateriële activa ten behoeve van de oprichting van een nieuwe vestiging, de uitbreiding van een bestaande vestiging, de diversificatie van de productie van een bestaande vestiging in nieuwe, bijkomende producten, of een fundamentele wijziging van delen van of het volledige productieproces van een bestaande vestiging van deze onderneming, waarbij bij het gebruik van immateriële activa wordt voldaan aan de voorwaarden die zijn opgenomen in artikel 17, vierde lid, van de algemene groepsvrijstellingsverordening;
+   - 5°. de bouw of het upgraden van onderzoeksinfrastructuur door een onderneming ten behoeve van de activiteiten, bedoeld in de subonderdelen 1°, 2° of 3°, die door een onderneming worden uitgevoerd binnen het desbetreffende Nederlandse belangrijke project;
 
-- c. één of meer van de volgende niet-economische onderzoeksactiviteiten, onafhankelijk uitgevoerd met het oog op meer kennis en een beter inzicht door een onderzoeksorganisatie:
+   - 6°. de bouw of het upgraden van test- en experimenteerinfrastructuur door een onderneming ten behoeve van de activiteiten, bedoeld in de subonderdelen 1°, 2° of 3°, die door een onderneming worden uitgevoerd binnen het desbetreffende Nederlandse belangrijke project;
+
+   - 7°. uitbreidingsinvesteringen door een middelgrote of kleine onderneming voor de aanschaf of het gebruiksklaar maken van materiële of immateriële activa ten behoeve van de oprichting van een nieuwe vestiging, de uitbreiding van een bestaande vestiging, de diversificatie van de productie van een bestaande vestiging in nieuwe, bijkomende producten, of een fundamentele wijziging van delen van of het volledige productieproces van een bestaande vestiging van deze onderneming, waarbij bij het gebruik van immateriële activa wordt voldaan aan de voorwaarden die zijn opgenomen in artikel 17, vierde lid, van de algemene groepsvrijstellingsverordening;
+
+- c. één of meer van de volgende niet-economische onderzoeksactiviteiten, onafhankelijk uitgevoerd met het oog op meer kennis en een beter inzicht door een subsidieontvanger die voor het uitvoeren van deze activiteiten als onderzoeksorganisatie kwalificeert en niet als directe partner is vermeld in het Europese goedkeuringsbesluit:
 
    - 1°. industrieel onderzoek door een onderzoeksorganisatie;
 
@@ -8473,9 +8479,23 @@ In deze titel wordt verstaan onder:
 
    - 3°. een haalbaarheidsstudie door een onderzoeksorganisatie.
 
-3. De subsidieontvanger, bedoeld in het eerste lid, voert de activiteiten van een Nederlands belangrijk project, bedoeld in het tweede lid, uit in een Europees samenwerkingsverband en, indien het Nederlandse belangrijke project betrekking heeft op het deelgebied onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën, bedoeld in het eerste lid, onderdeel b, ook in een bijhorend onderliggend Nederlands samenwerkingsverband van ten minste twee in Nederland gevestigde ondernemingen.
+3. De subsidieontvanger bestaat uit:
 
-4. De penvoerder van een Nederlands samenwerkingsverband is een onderneming, indien het Nederlandse belangrijke project betrekking heeft op het deelgebied onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën, bedoeld in het eerste lid, onderdeel b.
+- a. indien het een Nederlands belangrijk project op het deelgebied ‘algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in het eerste lid, onderdeel a, betreft: een in Nederland gevestigde onderneming die de activiteiten, bedoeld in het eerste lid, onderdeel a, uitvoert in een Europees samenwerkingsverband en, eventueel, ook in een bijhorend Nederlands samenwerkingsverband;
+
+- b. indien het een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in het eerste lid, onderdeel b, betreft: een in Nederland gevestigde onderneming of onderzoeksorganisatie die de activiteiten, bedoeld in het eerste lid, onderdeel b, uitvoert in een Europees samenwerkingsverband en ook in een bijhorend Nederlands samenwerkingsverband van ten minste twee in Nederland gevestigde ondernemingen;
+
+- c. indien het een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën’, bedoeld in het eerste lid, onderdeel c, betreft:
+
+   - 1°. een in Nederland gevestigde onderneming, niet-zijnde een in Nederland gevestigde onderzoeksorganisatie die op grond van het tweede lid, onderdeel b, en [artikel 1 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=1) ook als onderneming kwalificeert, die de activiteiten, bedoeld in het eerste lid, onderdeel c, zelfstandig uitvoert in een Europees samenwerkingsverband met ten minste één deelnemer die als directe partner is vermeld in het Europese goedkeuringsbesluit of, eventueel, in een bij dit Europees samenwerkingsverband horend onderliggend Nederlands samenwerkingsverband;
+
+   - 2°. een in Nederland gevestigde onderzoeksorganisatie, ongeacht of deze onderzoeksorganisatie op grond van het tweede lid, onderdeel b, en [artikel 1 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=1) ook als onderneming kwalificeert, die de activiteiten, bedoeld in het eerste lid, onderdeel c, uitvoert in een Europees samenwerkingsverband met ten minste één deelnemer die als directe partner is vermeld in het Europese goedkeuringsbesluit en in een bij dit Europees samenwerkingsverband horend onderliggend Nederlands samenwerkingsverband met ten minste één andere deelnemende subsidieontvanger die als een in Nederland gevestigde onderneming kwalificeert als bedoeld onder 1°.
+
+4. De penvoerder van een Nederlands samenwerkingsverband is:
+
+- a. indien het een Nederlands belangrijk project op het deelgebied ‘algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën’ of ‘onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in het eerste lid, onderdelen a respectievelijk b, betreft: een onderneming; of
+
+- b. indien het een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën’, bedoeld in het eerste lid, onderdeel c, betreft: een onderneming of onderzoeksorganisatie.
 
 5. Voor zover dit uit het Europees goedkeuringsbesluit volgt of naar het oordeel van de minister passend is, kan de subsidie, bedoeld in het eerste lid, aan een onderneming worden verstrekt in de vorm van:
 
@@ -8499,25 +8519,29 @@ In deze titel wordt verstaan onder:
 
    - 4°. 50% van de subsidiabele kosten, voor zover deze betrekking hebben op de bouw of het upgraden van onderzoeksinfrastructuur door een onderneming;
 
-   - 5°. 10% van de subsidiabele kosten, voor zover deze betrekking hebben op uitbreidingsinvesteringen door een middelgrote onderneming;
+   - 5°. 25% van de subsidiabele kosten, voor zover deze subsidiabele kosten betrekking hebben op de bouw of het upgraden van test- en experimenteerinfrastructuur;
 
-   - 6°. 20% van de subsidiabele kosten, voor zover deze betrekking hebben op uitbreidingsinvesteringen door een kleine onderneming;
+   - 6°. 10% van de subsidiabele kosten, voor zover deze betrekking hebben op uitbreidingsinvesteringen door een middelgrote onderneming;
+
+   - 7°. 20% van de subsidiabele kosten, voor zover deze betrekking hebben op uitbreidingsinvesteringen door een kleine onderneming;
 
 - c. voor niet-economische onderzoeksactiviteiten van een onderzoeksorganisatie als bedoeld in [artikel 3.27.2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01): 80% van de subsidiabele kosten, voor zover deze betrekking hebben op onafhankelijk industrieel onderzoek, experimentele ontwikkeling of een haalbaarheidsstudie door een onderzoeksorganisatie.
 
 2. De percentages, genoemd in het eerste lid, onderdeel b, worden verhoogd met:
 
-- a. 10 procentpunten, indien de subsidiabele kosten worden gemaakt en betaald door een middelgrote onderneming en het de ophoging van de percentages, genoemd in het eerste lid, onderdelen b, onder 1°, 2° en 3°, betreft;
+- a. 10 procentpunten, indien de subsidiabele kosten worden gemaakt en betaald door een middelgrote onderneming voor het uitvoeren van industrieel onderzoek, experimentele ontwikkeling, een haalbaarheidsstudie of de bouw of het upgraden van test- en experimenteerinfrastructuur als bedoeld in het eerste lid, onderdeel b, onder 1°, 2°, 3° of 5°;
 
-- b. 20 procentpunten, indien de subsidiabele kosten worden gemaakt en betaald door een kleine onderneming en het de ophoging van de percentages, genoemd in het eerste lid, onderdeel b, onder 1°, 2° en 3°, betreft;
+- b. 20 procentpunten, indien de subsidiabele kosten worden gemaakt en betaald door een kleine onderneming voor het uitvoeren van industrieel onderzoek, experimentele ontwikkeling, een haalbaarheidsstudie of de bouw of het upgraden van test- en experimenteerinfrastructuur als bedoeld in het eerste lid, onderdeel b, onder 1°, 2°, 3° of 5°;
 
-- c. 10 procentpunten, indien voldaan wordt aan ten minste één van de voorwaarden, bedoeld in artikel 25, zesde lid, onderdeel b, onder i, aanhef en eerste of tweede gedachtestreepje, of ii, van de algemene groepsvrijstellingsverordening en het de ophoging van de percentages, genoemd in het eerste lid, onderdelen b, onder 1° en 2°, betreft.
+- c. 10 procentpunten, indien de subsidiabele kosten betrekking hebben op industrieel onderzoek of experimentele ontwikkeling als bedoeld in het eerste lid, onderdeel b, onder 1° of 2°, en voldaan wordt aan ten minste één van de voorwaarden, bedoeld in artikel 25, zesde lid, onderdeel b, onder i of ii, van de algemene groepsvrijstellingsverordening;
 
-3. De subsidie bedraagt per Nederlands belangrijk project ten hoogste het bedrag dat beschikbaar is op grond van het toepasselijke subsidieplafond en:
+- d. 10 procentpunten, indien de subsidiabele kosten betrekking hebben op de bouw of het upgraden van test- en experimenteerinfrastructuur als bedoeld in het eerste lid, onderdeel b, onder 5°, en voldaan is aan ten minste één van de voorwaarden, bedoeld in artikel 26 bis, zesde lid, onderdeel b, van de algemene groepsvrijstellingsverordening.
 
-- a. voor de activiteiten, bedoeld in [artikel 3.27.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01): niet meer dan het maximum subsidiebedrag dat voor de desbetreffende directe partner voor deze activiteiten is opgenomen in het Europees goedkeuringsbesluit en, voor zover de activiteiten betrekking hebben op het deelgebied als bedoeld in artikel 3.27.2, eerste lid, onderdeel a, niet meer dan € 50.000.000;
+3. De subsidie bedraagt:
 
-- b. voor economische activiteiten en niet-economische onderzoeksactiviteiten van een onderneming respectievelijk onderzoeksorganisatie als bedoeld in [artikel 3.27.2, tweede lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), niet meer dan:
+- a. voor de activiteiten, bedoeld in [artikel 3.27.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01): ten hoogste het maximum subsidiebedrag dat voor de desbetreffende directe partner voor deze activiteiten is opgenomen in het Europees goedkeuringsbesluit;
+
+- b. voor economische activiteiten en niet-economische onderzoeksactiviteiten van een onderneming respectievelijk onderzoeksorganisatie als bedoeld in [artikel 3.27.2, tweede lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), ten hoogste:
 
    - 1°. € 15.000.000 per subsidieaanvrager in het desbetreffende Nederlandse belangrijke project, voor zover de activiteiten bestaan uit industrieel onderzoek of experimentele ontwikkeling door een onderneming of onderzoeksorganisatie;
 
@@ -8525,9 +8549,17 @@ In deze titel wordt verstaan onder:
 
    - 3°. € 15.000.000 per subsidieaanvrager in het desbetreffende Nederlandse belangrijke project, voor zover de activiteiten bestaan uit de bouw of het upgraden van onderzoeksinfrastructuur door een onderneming;
 
-   - 4°. € 7.500.000 per subsidieaanvrager in het desbetreffende Nederlandse belangrijke project, voor zover de activiteiten bestaan uit uitbreidingsinvesteringen door een middelgrote of kleine onderneming.
+   - 4°. € 7.500.000 per subsidieaanvrager in een Nederlands belangrijk project, voor zover de activiteiten bestaan uit de bouw of het upgraden van onderzoeksinfrastructuur dan wel test en experimenteerinfrastructuur door een onderneming binnen een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01);
 
-4. De subsidie voor een Nederlands belangrijk project als bedoeld in [artikel 3.27.2, tweede lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), bedraagt ten hoogste € 15.000.000.
+   - 5°. € 7.500.000 per subsidieaanvrager in het desbetreffende Nederlandse belangrijke project, voor zover de activiteiten bestaan uit uitbreidingsinvesteringen door een middelgrote of kleine onderneming.
+
+4. Onverminderd de maximumsubsidiebedragen per activiteit, bedoeld in het derde lid, bedraagt de subsidie:
+
+- a. indien het een Nederlands belangrijk project op het deelgebied ‘algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën’ als bedoeld in [artikel 3.27.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft: ten hoogste € 50.000.000 per subsidieaanvrager in het desbetreffende Nederlandse belangrijke project;
+
+- b. indien het een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft: ten hoogste € 15.000.000 per Nederlands belangrijk project;
+
+- c. indien het een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft: ten hoogste € 60.000.000 per Nederlands belangrijk project.
 
 ##### Artikel 3.27.4. Subsidiabele kosten
 
@@ -8543,7 +8575,9 @@ Voor subsidie komen uitsluitend de volgende kosten in aanmerking:
 
    - 3°. de kosten, bedoeld in artikel 26, vijfde lid, van de algemene groepsvrijstellingverordening, voor zover deze betrekking hebben op de bouw of het upgraden van onderzoeksinfrastructuur door een onderneming;
 
-   - 4°. de kosten, bedoeld in artikel 17, tweede lid, onderdeel a, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op uitbreidingsinvesteringen door een middelgrote of kleine onderneming;
+   - 4°. de kosten, bedoeld in artikel 26 bis, vierde lid, van de algemene groepsvrijstellingsverordening, voor zover deze subsidiabele kosten betrekking hebben op de bouw of het upgraden van test- en experimenteerinfrastructuur door een onderneming;
+
+   - 5°. de kosten, bedoeld in artikel 17, tweede lid, onderdeel a, van de algemene groepsvrijstellingsverordening, voor zover deze betrekking hebben op uitbreidingsinvesteringen door een middelgrote of kleine onderneming;
 
 - c. voor niet-economische onderzoeksactiviteiten van een onderzoeksorganisatie als bedoeld in [artikel 3.27.2, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01): de redelijk gemaakte kosten die, overeenkomstig [artikel 10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=10), direct verbonden zijn met de uitvoering van industrieel onderzoek, experimentele ontwikkeling of een haalbaarheidsstudie door een onderzoeksorganisatie.
 
@@ -8555,7 +8589,11 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 1. Met de uitvoering van het op grond van deze titel gesubsidieerde Nederlandse belangrijke project wordt gestart binnen zes maanden na de subsidieverlening.
 
-2. De termijn, bedoeld in [artikel 23, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), is zeven jaar.
+2. De termijn, bedoeld in [artikel 23, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), is:
+
+- a. indien het een Nederlands belangrijk project op het deelgebied ‘algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën’ of ‘onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdelen a respectievelijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft: zeven jaar;
+
+- b. indien het een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft: vier jaar.
 
 ##### Artikel 3.27.7. Afwijzingsgronden
 
@@ -8563,23 +8601,17 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 - a. het aannemelijk is dat door het Nederlandse belangrijke project in onvoldoende mate invulling wordt gegeven aan de criteria, bedoeld in paragrafen 3.2.1, onderdelen 15, 16, 18, 19 en 20, 3.2.3, onderdelen 22, 23, 24 en 25, en 3.3, onderdeel 26, van het IPCEI-steunkader;
 
-- b. de subsidiabele kosten per Nederlands belangrijk project minder zouden bedragen dan € 5.000.000;
-
-- c. de te verlenen subsidie minder dan € 125.000 per subsidieaanvrager zou bedragen;
-
-- d. in onvoldoende mate is gewaarborgd dat de uitvoering van het Europese of Nederlandse belangrijke project door de betrokken partijen in overeenstemming zal zijn met:
+- b. in onvoldoende mate is gewaarborgd dat de uitvoering van het Europese of Nederlandse belangrijke project door de betrokken partijen in overeenstemming zal zijn met:
 
    - 1°. internationale en Europese verdragen, waaronder in ieder geval de Overeenkomst inzake de handelsaspecten van de intellectuele eigendom en het Europees Verdrag voor de Rechten van de Mens; of
 
-   - 2°. het recht van de Europese Unie, waaronder in ieder geval het Handvest van de grondrechten van de Europese Unie, Verordening (EU) 608/2013 van het Europees Parlement en de Raad van 12 juni 2013 inzake de handhaving van intellectuele-eigendomsrechten door de douane en tot intrekking van Verordening (EG) nr. 1383/2003 van de Raad (PbEU 2013, L 181), Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119), Verordening (EU) 2019/452 van het Europees Parlement en de Raad van 19 maart 2019 tot vaststelling van een kader voor de screening van buitenlandse directe investeringen in de Unie (PbEU 2019, L 79 I), Richtlijn (EU) 2016/943 van het Europees Parlement en de Raad van 8 juni 2016 betreffende de bescherming van niet-openbaar gemaakte knowhow en bedrijfsinformatie (bedrijfsgeheimen) tegen het onrechtmatig verkrijgen, gebruiken en openbaar maken daarvan (PbEU 2016, L 157) en Richtlijn 2016/1148 van het Europees Parlement en de Raad van 6 juli 2016 houdende maatregelen voor een hoog gemeenschappelijk niveau van beveiliging van netwerk- en informatiesystemen in de Unie (PbEU 2016, L 194);
+   - 2°. het recht van de Europese Unie, waaronder in ieder geval het Handvest van de grondrechten van de Europese Unie, Verordening (EU) 608/2013 van het Europees Parlement en de Raad van 12 juni 2013 inzake de handhaving van intellectuele-eigendomsrechten door de douane en tot intrekking van Verordening (EG) nr. 1383/2003 van de Raad (PbEU 2013, L 181), Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119), Verordening (EU) 2026/1386 van het Europees Parlement en de Raad van 17 juni 2026 inzake de screening van buitenlandse investeringen in de Unie en tot intrekking van Verordening (EU) 2019/452 (PbEU 2026, L 1386), Richtlijn (EU) 2016/943 van het Europees Parlement en de Raad van 8 juni 2016 betreffende de bescherming van niet-openbaar gemaakte knowhow en bedrijfsinformatie (bedrijfsgeheimen) tegen het onrechtmatig verkrijgen, gebruiken en openbaar maken daarvan (PbEU 2016, L 157) en Richtlijn 2016/1148 van het Europees Parlement en de Raad van 6 juli 2016 houdende maatregelen voor een hoog gemeenschappelijk niveau van beveiliging van netwerk- en informatiesystemen in de Unie (PbEU 2016, L 194);
 
-- e. in het geval er sprake is van een Nederlands samenwerkingsverband waaraan een onderzoeksorganisatie deelneemt, de samenwerking tussen die onderzoeksorganisatie en de overige deelnemers in het samenwerkingsverband onvoldoende evenwichtig is, blijkend uit de omstandigheid dat de onderzoeksorganisatie meer dan 65 procent van de subsidiabele kosten maakt.
+- c. in het geval er sprake is van een Nederlands samenwerkingsverband waaraan een onderzoeksorganisatie deelneemt, de samenwerking tussen die onderzoeksorganisatie en de overige deelnemers in het samenwerkingsverband onvoldoende evenwichtig is, blijkend uit de omstandigheid dat de onderzoeksorganisatie meer dan 65 procent van de subsidiabele kosten maakt.
 
 2. Onverminderd het eerste lid beslist de minister afwijzend op een aanvraag om subsidieverlening betreffende een Nederlands belangrijk project op een specifiek deelgebied, indien:
 
-- a. na toepassing van [artikel 3.27.8, eerste lid, onderdelen a tot en met d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.8&z=2026-10-01&g=2026-10-01), minder dan zes punten per criterium zijn toegekend;
-
-- b. de aanvraag om subsidieverlening betrekking heeft op een Nederlands belangrijk project op het deelgebied ‘algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in[artikel 3.27.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01):
+- a. de aanvraag om subsidieverlening betrekking heeft op een Nederlands belangrijk project op het deelgebied ‘algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in[artikel 3.27.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01):
 
    - 1°. waarvoor niet een voorlopig projectvoorstel ingediend was bij de minister op uiterlijk 2 februari 2026 om 17:00 uur op grond van de oproep opgenomen in Stcrt. 2025, 41451;
 
@@ -8591,17 +8623,41 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
    - 5°. waarvoor eerder in totaal een subsidie van ten minste € 50.000.000 is verstrekt aan één of meer van de betrokken directe partners op grond van deze titel voor het uitvoeren van dezelfde activiteiten, bedoeld in [artikel 3.27.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), binnen dit deelgebied, bedoeld in artikel 3.27.2, eerste lid, onderdeel a;
 
-- c. de aanvraag betrekking heeft op een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01):
+   - 6°. waarvoor de subsidiabele kosten minder zouden bedragen dan € 5.000.000;
+
+   - 7°. de te verlenen subsidie minder dan € 125.000 per subsidieaanvrager zou bedragen;
+
+   - 8°. na toepassing van [artikel 3.27.8, eerste lid, onderdelen a tot en met d, onder 1° en 2°, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.8&z=2026-10-01&g=2026-10-01), minder dan zes punten per criterium zijn toegekend;
+
+- b. de aanvraag betrekking heeft op een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01):
 
    - 1°. waarvoor niet een voorlopig projectvoorstel ingediend was bij de minister op uiterlijk 2 februari 2026 om 17:00 uur op grond van de oproep, opgenomen in Stcrt. 2025, 41451; of
 
-   - 2°. dat niet past binnen het thema ‘AI-chips en -accelerators’, ‘fotonische integrated circuits’, ‘chiplets en heterogene integratie /advanced packaging’, ‘disruptieve sensoren voor autonomie’, ‘vermogenselektronica en disruptieve energiebesparende oplossingen’, ‘secure communications’ of ‘enabling technologies’ als bedoeld in paragraaf 1.4 van de oproep, opgenomen in Stcrt. 2025, 41451.
+   - 2°. dat niet past binnen het thema ‘AI-chips en -accelerators’, ‘fotonische integrated circuits’, ‘chiplets en heterogene integratie /advanced packaging’, ‘disruptieve sensoren voor autonomie’, ‘vermogenselektronica en disruptieve energiebesparende oplossingen’, ‘secure communications’ of ‘enabling technologies’ als bedoeld in paragraaf 1.4 van de oproep, opgenomen in Stcrt. 2025, 41451;
+
+   - 3°. waarvoor de subsidiabele kosten minder zouden bedragen dan € 5.000.000;
+
+   - 4°. de te verlenen subsidie minder dan € 125.000 per subsidieaanvrager zou bedragen;
+
+   - 5°. na toepassing van [artikel 3.27.8, eerste lid, onderdelen a tot en met d, onder 1° en 2°, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.8&z=2026-10-01&g=2026-10-01), minder dan zes punten per criterium zijn toegekend;
+
+- c. de aanvraag betrekking heeft op een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01):
+
+   - 1°. waarvoor niet een voorlopig projectvoorstel ingediend was bij de minister op uiterlijk 25 maart 2026 om 17:00 uur op grond van de oproep, opgenomen in Stcrt. 2026, 7919;
+
+   - 2°. dat niet past binnen één van de thema’s of voorwaarden van het waardeketendocument als bedoeld in paragraaf 1.4 van de oproep, opgenomen in Stcrt. 2026, 7919;
+
+   - 3°. waarvoor de subsidiabele kosten minder zouden bedragen dan € 5.000.000;
+
+   - 4°. de te verlenen subsidie minder dan € 125.000 per subsidieaanvrager zou bedragen, indien het Nederlandse belangrijke project wordt uitgevoerd in een Nederlands samenwerkingsverband;
+
+   - 5°. na toepassing van [artikel 3.27.8, eerste lid, onderdelen a, b, c, d, onder 1°, en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.8&z=2026-10-01&g=2026-10-01), minder dan zes punten per criterium zijn toegekend.
 
 ##### Artikel 3.27.8. Rangschikkingscriteria
 
 1. De minister kent aan een aanvraag om subsidieverlening betreffende een Nederlands belangrijk project een hoger aantal punten toe naarmate:
 
-- a. het Nederlandse belangrijke project meer bijdraagt aan de doelstellingen of de strategieën van de Europese Unie, bedoeld in [artikel 3.27.2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), op het desbetreffende deelgebied, bedoeld in artikel 3.27.2, eerste lid;
+- a. het Nederlandse belangrijke project meer bijdraagt aan de doelstellingen of de strategieën van de Europese Unie, bedoeld in [artikel 3.27.2, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), op het desbetreffende deelgebied, bedoeld in artikel 3.27.2, eerste lid, waaronder mede begrepen een bijdrage aan het versterken van de Europese technologische autonomie, het verbeteren van de concurrentiekracht en veerkracht van de Europese Unie en aan het verminderen van de strategische afhankelijkheid van de Europese Unie van derde landen;
 
 - b. de kwaliteit van het projectplan, financieringsplan en begroting van het Nederlandse belangrijke project beter is, blijkend uit:
 
@@ -8613,7 +8669,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
    - 1°. de mate waarin de daarvoor benodigde competenties en ervaring aanwezig zijn binnen de subsidieaanvrager respectievelijk het Nederlandse samenwerkingsverband;
 
-   - 2°. de kwaliteit van de inrichting van de projectorganisatie binnen de subsidieaanvrager respectievelijk het Nederlandse samenwerkingsverband, waaronder ten minste begrepen de structuur van de projectorganisatie en de taakverdeling tussen de betrokken medewerkers van de subsidieaanvrager respectievelijk de deelnemers uit het Nederlandse samenwerkingsverband;
+   - 2°. de kwaliteit van de inrichting van de projectorganisatie binnen de subsidieaanvrager respectievelijk het Nederlandse samenwerkingsverband en, indien het een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft, ook binnen het bijhorende Europese samenwerkingsverband, waaronder ten minste begrepen de structuur van de projectorganisatie en de taakverdeling tussen de betrokken medewerkers van de subsidieaanvrager of de deelnemers uit het desbetreffende samenwerkingsverband;
 
    - 3°. voor zover van toepassing, een grotere mate van samenwerking van de deelnemers binnen het Nederlandse samenwerkingsverband, waaronder ten minste begrepen een adequate verdeling en verbinding van de werkpakketten tussen de deelnemers uit het Nederlandse samenwerkingsverband en de mate waarin het Nederlandse samenwerkingsverband bij de uitvoering van het Nederlandse belangrijke project kleine en middelgrote ondernemingen en startups betrekt;
 
@@ -8621,15 +8677,21 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
    - 1°. de mate waarin het in het Nederlandse belangrijke project te ontwikkelen technologie vernieuwender is ten opzichte van de internationale stand van onderzoek of techniek;
 
-   - 2°. de toepassingsmogelijkheden en slaagkans van de met het Nederlandse belangrijke project te ontwikkelen innovatie of innovaties op de internationale markt, de verwachte bijdrage aan de ontwikkeling van omzet en arbeidsplaatsen binnen de halfgeleidersectoren in Nederland, de verwachte concurrentiepositie en het verdienvermogen van de subsidieaanvrager of het Nederlandse samenwerkingsverband en de snelheid waarmee impact kan worden gerealiseerd.
+   - 2°. indien het een aanvraag om subsidieverlening voor een Nederlands belangrijk project op het deelgebied ‘algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën’ of ‘onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdelen a respectievelijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft: de toepassingsmogelijkheden en slaagkans van de met het Nederlandse belangrijke project te ontwikkelen innovatie of innovaties op de internationale markt, de verwachte bijdrage aan de ontwikkeling van omzet en arbeidsplaatsen binnen de halfgeleidersectoren in Nederland, de verwachte concurrentiepositie en het verdienvermogen van de subsidieaanvrager of het Nederlandse samenwerkingsverband en de snelheid waarmee impact kan worden gerealiseerd;
 
-2. De minister kent per onderdeel van het eerste lid ten minste één en ten hoogste tien punten toe.
+- e. indien het een Nederlands belangrijk project op het deelgebied onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën, bedoeld in [artikel 3.27.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft: het Nederlandse belangrijke project na afloop hiervan naar verwachting een blijvende economische effect heeft, blijkend uit een adequate omschrijving van een strategie voor de beoogde exploitatie, marktintroductie en opschaling voor de met het Nederlandse belangrijke project te ontwikkelen innovatie of innovaties op de internationale markt, inclusief een omschrijving van de haalbaarheid en slaagkans van deze strategie en de daarvoor benodigde en verwachte financiering.
 
-3. Voor de rangschikking van aanvragen wordt het aantal punten gegeven op grond van het eerste lid, onderdeel a, vermenigvuldigd met 4 en het aantal punten gegeven op grond van het eerste lid, onderdelen b, c, en d, per onderdeel vermenigvuldigd met 2, waarna alle punten worden opgeteld.
+2. De minister kent per het toepasselijke onderdeel of subonderdeel van het eerste lid ten minste één en ten hoogste tien punten toe.
+
+3. Voor de rangschikking van aanvragen om subsidieverlening betreffende een Nederlands belangrijk project wordt:
+
+- a. indien het een Nederlands belangrijk project op het deelgebied ‘algemene en pre-commerciële ontwikkeling van geavanceerde halfgeleidertechnologieën’ of ‘onderzoek en ontwikkeling van geavanceerde halfgeleidertechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdelen a respectievelijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft: het aantal punten gegeven op grond van het eerste lid, onderdeel a, vermenigvuldigd met 4 en het aantal punten gegeven op grond van het eerste lid, onderdelen b, c, en d, per onderdeel vermenigvuldigd met 2, waarna alle punten worden opgeteld;
+
+- b. indien het een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft: het aantal punten gegeven op grond van het eerste lid, onderdelen a, b, c, d, onder 1°, en e, per onderdeel vermenigvuldigd met 1, waarna alle punten worden opgeteld.
 
 4. De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate in totaal meer punten aan het project zijn toegekend.
 
-##### Artikel 3.27.9. Verplichtingen voor onderzoeksorganisaties
+##### Artikel 3.27.9. Verplichtingen betreffende samenwerking bij niet-economische onderzoeksactiviteiten door onderzoeksorganisaties
 
 1. Indien in het Nederlandse belangrijke project niet-economische onderzoeksactiviteiten door een onderzoeksorganisatie wordt verricht in een Europees of Nederlands samenwerkingsverband:
 
@@ -8669,31 +8731,33 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 1. In het Nederlandse belangrijke project worden de activiteiten overeenkomstig de in het Europese goedkeuringsbesluit opgenomen verplichtingen uitgevoerd, indien het de activiteiten van een directe partner, bedoeld in [artikel 3.27.2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft.
 
-2. Indien in het Nederlandse belangrijke project activiteiten betreffende de bouw of het upgraden van onderzoeksinfrastructuur door een onderneming, worden verricht:
+2. Indien in het Nederlandse belangrijke project activiteiten betreffende de bouw of het upgraden van onderzoeksinfrastructuur of test- en experimenteerinfrastructuur door een onderneming worden verricht, draagt deze onderneming er zorg voor dat, overeenkomstig de artikelen 26, derde en vierde lid, en 26 bis, tweede en derde lid, van de algemene groepsvrijstellingsverordening:
 
-- a. worden deze projectactiviteiten door deze onderneming in de boekhouding opgenomen als niet-economische activiteiten; en
+- a. de toegang tot de onderzoeksinfrastructuur of test- en experimenteerinfrastructuur openstaat voor meerdere gebruikers en dat deze op transparante en niet-discriminerende basis verleend wordt;
 
-- b. draagt deze onderneming er zorg voor dat:
+- b. de vergoedingen die voor de exploitatie of het gebruik van de onderzoeksinfrastructuur of test- en experimenteerinfrastructuur worden berekend, overeenstemmen met de marktprijs.
 
-   - 1°. de toegang tot deze onderzoeksinfrastructuur openstaat voor meerdere gebruikers en dat deze op transparante en niet-discriminerende basis verleend wordt;
+3. In afwijking van het tweede lid, aanhef en onderdeel a, kunnen ondernemingen die ten minste 10 procent van de investeringskosten van de onderzoeksinfrastructuur hebben gefinancierd preferente toegang krijgen op gunstigere voorwaarden, indien deze toegang evenredig is aan de bijdrage van de onderneming in de investeringskosten en deze gunstigere voorwaarden publiek beschikbaar worden gesteld.
 
-   - 2°. de vergoedingen die voor de exploitatie of het gebruik van de onderzoeksinfrastructuur worden berekend, overeenstemmen met de marktprijs.
+##### Artikel 3.27.11. Verplichtingen betreffende administratie, voortgangsrapportages en kennisverspreiding
 
-3. In afwijking van het tweede lid, aanhef en onderdeel b, subonderdeel 1°, kunnen ondernemingen die ten minste 10 procent van de investeringskosten van de onderzoeksinfrastructuur hebben gefinancierd preferente toegang krijgen op gunstigere voorwaarden, indien deze toegang evenredig is aan de bijdrage van de onderneming in de investeringskosten en deze gunstigere voorwaarden publiek beschikbaar worden gesteld.
+1. Onverminderd [artikel 38 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38) wordt in de administratie van de subsidieontvanger een onderscheid gemaakt tussen economische en niet-economische activiteiten, die deze subsidieontvanger binnen het project uitvoert en de kosten en de financiering hiervan.
 
-##### Artikel 3.27.11. Verplichtingen betreffende voortgangsrapportages en kennisverspreiding
+2. De subsidieontvanger verleent tot vijf jaar na de datum van de beschikking tot subsidievaststelling medewerking aan de monitoring van de voortgang en het verspreiden van de resultaten van de op grond van deze titel gesubsidieerde activiteiten, via ten minste het verstrekken van de volgende informatie:
 
-1. Op verzoek van de minister verleent de subsidieontvanger medewerking aan het verspreiden van de resultaten van de op grond van deze titel gesubsidieerde activiteiten.
+- a. het gedurende de looptijd van het Nederlandse belangrijke project en onverminderd [artikel 39 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39):
 
-2. De subsidieontvanger verstrekt gedurende de looptijd van het Nederlandse belangrijke project jaarlijks een voortgangsrapportage over het project die de minister kan gebruiken voor de openbare brede verspreiding van de niet-bedrijfsgevoelige kennis en informatie die met het project worden opgedaan.
+   - 1°. op verzoek van de minister te verstrekken inlichtingen omtrent de voortgang van de verrichte of te verrichten activiteiten of resultaten van het Nederlandse belangrijke project, die gebruikt kunnen worden voor het monitoren van de voortgang van het Nederlandse belangrijke project;
 
-3. De subsidieontvanger maakt de niet bedrijfsgevoelige kennis en informatie die met het project wordt opgedaan na afloop van het project openbaar in een, naar het oordeel van de minister, kwalitatief voldoende verslag.
+   - 2°. een jaarlijkse voortgangsrapportage over het project, die de minister kan gebruiken voor de openbare brede verspreiding van de niet-bedrijfsgevoelige kennis en informatie die met het project worden opgedaan;
 
-4. De verplichting, bedoeld in het eerste lid, geldt gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling.
+   - 3°. een schriftelijk verslag over de voortgang of resultaten van het Europese belangrijke project, overeenkomstig de wijze en frequentie waarop de subsidieontvanger daartoe jegens de Europese Commissie verplicht is;
 
-5. De informatie, bedoeld in het tweede en derde lid, wordt verstrekt met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
+- b. na afloop van het project: een, naar het oordeel van de minister, kwalitatief voldoende verslag dat bestemd is voor het openbaar maken van de niet bedrijfsgevoelige kennis en informatie die met het project wordt opgedaan.
 
-6. In afwijking van het tweede en derde lid kan de minister, in overeenstemming met de minister die het mede aangaat, voor zover dit noodzakelijk is voor de bescherming van wezenlijke belangen voor de veiligheid van de staat, de openbare orde en de openbare veiligheid:
+3. De informatie, bedoeld in het tweede lid, wordt verstrekt met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
+
+4. In afwijking van het tweede lid kan de minister, in overeenstemming met de minister die het mede aangaat, voor zover dit noodzakelijk is voor de bescherming van wezenlijke belangen voor de veiligheid van de staat, de openbare orde en de openbare veiligheid:
 
 - a. besluiten dat resultaten niet bekend gemaakt worden of aan derden beschikbaar gesteld worden; of
 
@@ -8737,7 +8801,9 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 - c. documenten met daarin een beknopte beschrijving van de projectorganisatie en de kennis, ervaring en capaciteiten van de bij de uitvoering van het Nederlandse belangrijke project betrokken organisaties of personen, voor zover deze relevant zijn voor de toepassing van [artikel 3.27.8, eerste lid, onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.8&z=2026-10-01&g=2026-10-01);
 
-- d. een plan dat betrekking heeft op de wijze waarop de kennisverspreiding plaatsvindt.
+- d. een plan dat betrekking heeft op de wijze waarop de kennisverspreiding plaatsvindt;
+
+- e. indien het een Nederlands belangrijk project op het deelgebied ‘onderzoek en ontwikkeling van kunstmatige intelligentietechnologieën’, bedoeld in [artikel 3.27.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=3&titeldeel=3.27&artikel=3.27.2&z=2026-10-01&g=2026-10-01), betreft: een kopie van een concept verklaring van de partijen die naar verwachting zullen deelnemen aan het desbetreffende Europese samenwerkingsverband, waaruit volgt dat de intentie is om het desbetreffende Europese belangrijke project, horend bij het onderliggende Nederlandse belangrijke project, te gaan uitvoeren met deze partijen in een Europees samenwerkingsverband.
 
 ##### Artikel 3.27.13. Aanvraag subsidievaststelling
 
@@ -8773,7 +8839,9 @@ De subsidie, bedoeld in [artikel 3.27.2, eerste lid](https://wetten.overheid.nl/
 
    - 2°. door artikel 17 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op investeringen door een middelgrote of kleine onderneming;
 
-   - 3°. door artikel 26 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op de bouw of het upgraden van onderzoeksinfrastructuur door een onderneming.
+   - 3°. door artikel 26 van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op de bouw of het upgraden van onderzoeksinfrastructuur door een onderneming;
+
+   - 4°. door artikel 26 bis van de algemene groepsvrijstellingsverordening, voor zover de subsidiabele activiteiten betrekking hebben op de bouw of het upgraden van test- en experimenteerinfrastructuur.
 
 ##### Artikel 3.27.15. Vervaltermijn
 

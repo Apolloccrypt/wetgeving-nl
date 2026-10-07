@@ -8,7 +8,7 @@ laatste_update: 2006-03-22
 status: geldig
 toestand: 2006-03-22
 bron: "https://wetten.overheid.nl/BWBR0019519"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Addendum Vaststellingsbesluit Selectielijst neerslag handelingen op het beleidsterrein Rijksbegroting over de periode 1945–2000 (Minister van Defensie)

@@ -9,7 +9,7 @@ laatste_update: 2011-03-01
 status: geldig
 toestand: 2011-03-01
 bron: "https://wetten.overheid.nl/BWBR0018714"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 31 augustus 2005 tot wijziging van het Besluit bewijzen van bevoegdheid voor de luchtvaart, onder meer ter uitvoering van Eurocontrol eisen voor personeel met veiligheidstaken binnen de luchtverkeersdienstverlening, de deregulering van ongemotoriseerd luchtverkeer en de erkenning van in het buitenland verrichte medische keuringen

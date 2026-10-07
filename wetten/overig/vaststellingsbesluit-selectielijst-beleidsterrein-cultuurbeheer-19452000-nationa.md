@@ -9,7 +9,7 @@ laatste_update: 2006-04-20
 status: geldig
 toestand: 2006-04-20
 bron: "https://wetten.overheid.nl/BWBR0019664"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 16 maart 2006, nr. 06.000755, houdende vaststelling van een selectielijst van de Nationale Ombudsman op het beleidsterrein Cultuurbeheer over de periode 1945–2000

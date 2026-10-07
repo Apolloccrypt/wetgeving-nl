@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020000"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 23 juni 2006 tot wijziging van de Wet op de orgaandonatie (evaluatie)

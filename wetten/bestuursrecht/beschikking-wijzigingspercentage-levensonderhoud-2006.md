@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0018918"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Beschikking van de Minister van Justitie van 25 oktober 2005, nr. 5380212/05/6, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2006 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2006)

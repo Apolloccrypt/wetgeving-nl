@@ -9,7 +9,7 @@ laatste_update: 2005-12-17
 status: geldig
 toestand: 2005-12-17
 bron: "https://wetten.overheid.nl/BWBR0019180"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 7 december 2005, nr. VI/CM 2005199604, tot herziening van samenstelling, taken en bevoegdheden van de Eenheid Planning en Advies Beleidsondersteunend Team milieu-incidenten

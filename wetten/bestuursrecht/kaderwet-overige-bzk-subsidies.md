@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0019756"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 13 april 2006, houdende regels inzake de verstrekking van subsidies door de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties (Wet overige BZK-subsidies)

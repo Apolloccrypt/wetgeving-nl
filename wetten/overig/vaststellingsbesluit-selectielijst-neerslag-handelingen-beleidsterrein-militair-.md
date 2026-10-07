@@ -8,7 +8,7 @@ laatste_update: 2006-03-08
 status: geldig
 toestand: 2006-03-08
 bron: "https://wetten.overheid.nl/BWBR0019338"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Militair Personeel vanaf 1945 (Minister van Algemene Zaken)

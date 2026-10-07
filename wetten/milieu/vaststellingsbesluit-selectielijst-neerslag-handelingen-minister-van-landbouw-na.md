@@ -8,7 +8,7 @@ laatste_update: 2006-03-22
 status: geldig
 toestand: 2006-03-22
 bron: "https://wetten.overheid.nl/BWBR0019477"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen Minister van Landbouw, Natuur en Voedselkwaliteit beleidsterrein Binnenvisserij 1945–1999

@@ -8,7 +8,7 @@ laatste_update: 2005-12-01
 status: geldig
 toestand: 2005-12-01
 bron: "https://wetten.overheid.nl/BWBR0018765"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Auteursrecht periode (1912) 1945-2000 (Minister van Volksgezondheid, Welzijn en Sport)

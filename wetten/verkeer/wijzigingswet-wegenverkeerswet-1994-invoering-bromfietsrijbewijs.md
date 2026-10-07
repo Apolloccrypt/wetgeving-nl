@@ -9,7 +9,7 @@ laatste_update: 2007-11-14
 status: geldig
 toestand: 2007-11-14
 bron: "https://wetten.overheid.nl/BWBR0020020"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 28 juni 2006 tot wijziging van de Wegenverkeerswet 1994 in verband met de invoering van een bromfietsrijbewijs

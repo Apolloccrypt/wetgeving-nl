@@ -8,7 +8,7 @@ laatste_update: 2006-06-05
 status: geldig
 toestand: 2006-06-05
 bron: "https://wetten.overheid.nl/BWBR0019900"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit mandaat en machtiging Stadsgewest Haaglanden en Stadsregio Rotterdam inzake RandstadRail

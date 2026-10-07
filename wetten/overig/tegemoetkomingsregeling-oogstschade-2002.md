@@ -9,7 +9,7 @@ laatste_update: 2006-11-09
 status: geldig
 toestand: 2006-11-09
 bron: "https://wetten.overheid.nl/BWBR0019496"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 30 januari 2006, nr. TRCJZ/2006/323, Directie Juridische Zaken, houdende vaststelling van de tegemoetkoming voor de oogstschade 2002 (Tegemoetkomingsregeling oogstschade 2002)

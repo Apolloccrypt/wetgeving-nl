@@ -9,7 +9,7 @@ laatste_update: 2006-10-01
 status: geldig
 toestand: 2006-10-01
 bron: "https://wetten.overheid.nl/BWBR0019915"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 19 mei 2006 tot wijziging van het Besluit verkrijging en verlies Nederlanderschap

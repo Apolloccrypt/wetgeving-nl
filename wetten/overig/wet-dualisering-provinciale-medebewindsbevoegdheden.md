@@ -9,7 +9,7 @@ laatste_update: 2006-03-08
 status: geldig
 toestand: 2006-03-08
 bron: "https://wetten.overheid.nl/BWBR0018833"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 6 oktober 2005 tot aanpassing van bijzondere wetten aan de Wet dualisering provinciebestuur (Wet dualisering provinciale medebewindsbevoegdheden)

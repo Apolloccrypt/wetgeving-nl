@@ -8,7 +8,7 @@ laatste_update: 2006-07-05
 status: geldig
 toestand: 2006-07-05
 bron: "https://wetten.overheid.nl/BWBR0019995"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling met België inzake ontslaguitkeringen

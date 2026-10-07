@@ -9,7 +9,7 @@ laatste_update: 2006-02-01
 status: geldig
 toestand: 2006-02-01
 bron: "https://wetten.overheid.nl/BWBR0019128"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 30 november 2005, nr. OHW-U-2636141, houdende de toekenning van vacatiegeld aan de (plaatsvervangend) voorzitter, leden en deskundigen van de Commissie Algemene Oorlogsongevallenregeling Indonesië

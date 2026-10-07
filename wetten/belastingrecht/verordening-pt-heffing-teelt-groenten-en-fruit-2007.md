@@ -9,7 +9,7 @@ laatste_update: 2006-11-12
 status: geldig
 toestand: 2006-11-12
 bron: "https://wetten.overheid.nl/BWBR0020063"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing over de teelt van groenten en fruit, voor het jaar 2007 (Verordening PT heffing teelt groenten en fruit 2007)

@@ -8,7 +8,7 @@ laatste_update: 2005-09-14
 status: geldig
 toestand: 2005-09-14
 bron: "https://wetten.overheid.nl/BWBR0018699"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit vaststelling vacatiegeld leden Commissie feitenonderzoek uitzettingen naar de Democratische Republiek Congo

@@ -9,7 +9,7 @@ laatste_update: 2006-02-15
 status: geldig
 toestand: 2006-02-15
 bron: "https://wetten.overheid.nl/BWBR0019548"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 7 februari 2006, nr. DDI/ST/reg 010/2004, houdende beperking van de openbaarheid van het archief van het honoraire consulaat te Quito 1938–1946 en het archief van de Nederlandse Vertegenwoordiging in Quito 1947–1954

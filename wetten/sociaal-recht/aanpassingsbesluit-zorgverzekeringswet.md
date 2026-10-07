@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0019289"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 15 december 2005, houdende aanpassing van algemene maatregelen van bestuur in verband met de invoering van de Zorgverzekeringswet (Aanpassingsbesluit Zorgverzekeringswet)

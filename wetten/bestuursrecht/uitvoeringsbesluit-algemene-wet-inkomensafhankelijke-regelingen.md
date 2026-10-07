@@ -9,7 +9,7 @@ laatste_update: 2026-02-13
 status: geldig
 toestand: 2026-02-13
 bron: "https://wetten.overheid.nl/BWBR0018707"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 29 augustus 2005 tot vaststelling van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen

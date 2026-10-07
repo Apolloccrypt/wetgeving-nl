@@ -9,7 +9,7 @@ laatste_update: 2005-09-14
 status: geldig
 toestand: 2005-09-14
 bron: "https://wetten.overheid.nl/BWBR0018719"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 1 september 2005, houdende de overdracht van de zorg voor onderdelen van de Kernenergiewet

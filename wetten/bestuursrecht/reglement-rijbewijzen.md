@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0008074"
-opgehaald: 2026-10-06
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 30 mei 1996, houdende uitvoering van de Wegenverkeerswet 1994 (Reglement rijbewijzen)

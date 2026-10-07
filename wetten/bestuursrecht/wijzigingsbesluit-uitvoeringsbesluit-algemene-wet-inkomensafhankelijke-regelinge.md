@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019382"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 22 december 2005 tot wijziging van het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen en van enige andere besluiten

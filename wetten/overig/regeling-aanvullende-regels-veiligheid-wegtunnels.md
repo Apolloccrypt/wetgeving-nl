@@ -8,7 +8,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0019806"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling aanvullende regels veiligheid wegtunnels

@@ -8,7 +8,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0018852"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Skal-Bijdragereglement

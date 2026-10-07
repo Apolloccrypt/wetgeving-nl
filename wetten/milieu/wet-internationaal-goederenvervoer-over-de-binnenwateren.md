@@ -9,7 +9,7 @@ laatste_update: 2006-06-01
 status: geldig
 toestand: 2006-06-01
 bron: "https://wetten.overheid.nl/BWBR0019572"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 16 februari 2006 tot goedkeuring en uitvoering van het op 22 juni 2001 te Boedapest tot stand gekomen Verdrag van Boedapest inzake de overeenkomst voor het vervoer van goederen over de binnenwateren (CMNI) (Trb. 2001, 124) (Wet internationaal goederenvervoer over de binnenwateren)

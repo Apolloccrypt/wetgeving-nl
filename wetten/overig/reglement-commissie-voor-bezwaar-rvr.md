@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2019-04-26
 laatste_update: 2019-04-26
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-29
 toestand: 2019-04-26
 bron: "https://wetten.overheid.nl/BWBR0042156"
-opgehaald: 2026-08-28
+opgehaald: 2026-10-07
 ---
 
 # Reglement Commissie voor Bezwaar RvR

@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0019070"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 16 november 2005 tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet financiering sociale verzekeringen en enige andere wetten (Besluit Wfsv)

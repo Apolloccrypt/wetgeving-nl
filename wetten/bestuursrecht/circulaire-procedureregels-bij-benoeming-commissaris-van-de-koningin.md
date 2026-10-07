@@ -8,7 +8,7 @@ laatste_update: 2005-11-02
 status: geldig
 toestand: 2005-11-02
 bron: "https://wetten.overheid.nl/BWBR0018988"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Circulaire procedureregels bij benoeming commissaris van de Koningin

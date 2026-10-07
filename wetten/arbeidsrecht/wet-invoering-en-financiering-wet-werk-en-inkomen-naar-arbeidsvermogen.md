@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0019058"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 10 november 2005, houdende regels omtrent de invoering en financiering van de Wet werk en inkomen naar arbeidsvermogen alsmede met betrekking tot de intrekking van de Wet op de (re)integratie arbeidsgehandicapten (Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen)

@@ -9,7 +9,7 @@ laatste_update: 2006-06-30
 status: geldig
 toestand: 2006-06-30
 bron: "https://wetten.overheid.nl/BWBR0019983"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vaststelling van de bedragen, verdeelsleutels en bandbreedtes voor 2006, bedoeld in de artikelen 8, eerste lid, 11, tweede lid en 13, tweede lid van de Regeling toezichtkosten AFM Wet toezicht kredietwezen 1992

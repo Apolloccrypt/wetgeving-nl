@@ -9,7 +9,7 @@ laatste_update: 2005-12-21
 status: geldig
 toestand: 2005-12-21
 bron: "https://wetten.overheid.nl/BWBR0019218"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 december 2005, nr. MC/MO-2641215, houdende vaststelling van een beleidsregel ex. artikel 13 van de Wet tarieven gezondheidszorg inzake de vaststelling van de contracteerruimte 2006 voor de Algemene Wet Bijzondere Ziektekosten

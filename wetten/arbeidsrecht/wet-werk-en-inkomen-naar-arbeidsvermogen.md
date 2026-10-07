@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0019057"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 10 november 2005, houdende bevordering van het naar arbeidsvermogen verrichten van werk of van werkhervatting van verzekerden die gedeeltelijk arbeidsgeschikt zijn en tot het treffen van een regeling van inkomen voor deze personen alsmede voor verzekerden die volledig en duurzaam arbeidsongeschikt zijn (Wet werk en inkomen naar arbeidsvermogen)

@@ -9,7 +9,7 @@ laatste_update: 2006-07-20
 status: geldig
 toestand: 2006-07-20
 bron: "https://wetten.overheid.nl/BWBR0020068"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 7 juli 2006, nr. 2006- 0000227879, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2003

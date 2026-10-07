@@ -9,7 +9,7 @@ laatste_update: 2005-09-21
 status: geldig
 toestand: 2005-09-21
 bron: "https://wetten.overheid.nl/BWBR0018776"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 15 september 2005 tot samenvoeging van de gemeenten Sassenheim, Voorhout en Warmond

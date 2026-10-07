@@ -9,7 +9,7 @@ laatste_update: 2006-06-02
 status: geldig
 toestand: 2006-06-02
 bron: "https://wetten.overheid.nl/BWBR0019901"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2006, nr Z/VV-2686154, houdende wijziging van de Regeling zorgverzekering in verband met het vaststellen van de woonlandfactor ten behoeve van de gedifferentieerde berekening van de bijdrage voor verdragsgerechtigden

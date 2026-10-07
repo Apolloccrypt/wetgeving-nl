@@ -9,7 +9,7 @@ laatste_update: 2006-07-07
 status: geldig
 toestand: 2006-07-07
 bron: "https://wetten.overheid.nl/BWBR0020047"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 5 juli 2006 tot wijziging van het Wetboek van Strafrecht (verlenging verjaring inzake overtredingen na stuiting)

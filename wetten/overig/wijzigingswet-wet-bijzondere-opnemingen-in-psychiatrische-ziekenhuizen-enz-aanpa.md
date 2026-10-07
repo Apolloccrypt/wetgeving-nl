@@ -9,7 +9,7 @@ laatste_update: 2006-03-01
 status: geldig
 toestand: 2006-03-01
 bron: "https://wetten.overheid.nl/BWBR0019080"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 17 november 2005 tot wijziging van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen en enige andere wetten in verband met de aanpassing van de in deze wet opgenomen klachtregeling

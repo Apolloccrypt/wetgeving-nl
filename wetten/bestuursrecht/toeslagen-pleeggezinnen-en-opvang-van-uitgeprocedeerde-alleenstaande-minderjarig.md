@@ -8,7 +8,7 @@ laatste_update: 2006-07-15
 status: geldig
 toestand: 2006-07-15
 bron: "https://wetten.overheid.nl/BWBR0020056"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Toeslagen, pleeggezinnen en opvang van uitgeprocedeerde alleenstaande minderjarige vreemdelingen

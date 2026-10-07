@@ -9,7 +9,7 @@ laatste_update: 2019-07-01
 status: geldig
 toestand: 2019-07-01
 bron: "https://wetten.overheid.nl/BWBR0018680"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 18 augustus 2005, houdende regels met betrekking tot het verlenen van ontheffingen door de Dienst Wegverkeer ten behoeve van een voertuig of een samenstel van voertuigen, met inbegrip van de daarmee vervoerde lading, met een exceptionele afmeting of massa (Besluit ontheffingverlening exceptionele transporten)

@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0018633"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 27 juli 2005, houdende nieuwe regels met betrekking tot het verstrekken van een subsidie ten behoeve van uitvoering van de wettelijke taak door het Centraal Orgaan opvang asielzoekers (Subsidiebesluit Centraal Orgaan opvang asielzoekers 2005)

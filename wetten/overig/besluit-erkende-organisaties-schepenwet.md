@@ -9,7 +9,7 @@ laatste_update: 2026-01-17
 status: geldig
 toestand: 2026-01-17
 bron: "https://wetten.overheid.nl/BWBR0019673"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit ter uitvoering van de artikelen 6, tweede lid, van de Schepenwet en 6 van het Schepenbesluit 1965, alsmede de artikelen 23, eerste lid, 36, 48, tweede lid en 59, eerste lid, van het Schepenbesluit 2004 (Besluit erkende organisaties Schepenwet)

@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019387"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 22 december 2005 tot wijziging van de Gemeentewet in verband met het afschaffen van het gebruikersdeel van de onroerendezaakbelasting (OZB) op woningen en het maximeren van de resterende OZB-tarieven (Afschaffing gebruikersdeel OZB op woningen)

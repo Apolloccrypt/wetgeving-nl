@@ -9,7 +9,7 @@ laatste_update: 2006-11-24
 status: geldig
 toestand: 2006-11-24
 bron: "https://wetten.overheid.nl/BWBR0019488"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 25 januari 2006, houdende wijziging van het Kadasterbesluit, de Maatregel teboekgestelde schepen 1992, de Maatregel te boek gestelde luchtvaartuigen 1996 en het Arbeidstijdenbesluit vervoer (wijziging in verband met de inwerkingtreding van de Herzieningswet Kadasterwet I en enige andere wetten, alsmede in verband met de kadastrale aanduiding van kabelnetten)

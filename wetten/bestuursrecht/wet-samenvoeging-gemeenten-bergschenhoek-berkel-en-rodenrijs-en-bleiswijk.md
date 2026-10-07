@@ -9,7 +9,7 @@ laatste_update: 2006-08-16
 status: geldig
 toestand: 2006-08-16
 bron: "https://wetten.overheid.nl/BWBR0020053"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 5 juli 2006 tot samenvoeging van de gemeenten Bergschenhoek, Berkel en Rodenrijs en Bleiswijk

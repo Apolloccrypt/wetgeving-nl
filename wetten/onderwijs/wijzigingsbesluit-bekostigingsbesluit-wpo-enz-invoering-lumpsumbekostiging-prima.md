@@ -9,7 +9,7 @@ laatste_update: 2006-02-10
 status: geldig
 toestand: 2006-02-10
 bron: "https://wetten.overheid.nl/BWBR0018829"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 5 oktober 2005, houdende wijziging van onder meer het Bekostigingsbesluit WPO, het Bekostigingsbesluit WEC, het Formatiebesluit WPO en het Formatiebesluit WEC in verband met de invoering van lumpsumbekostiging in het primair onderwijs

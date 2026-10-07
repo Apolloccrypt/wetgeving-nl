@@ -9,7 +9,7 @@ laatste_update: 2006-04-01
 status: geldig
 toestand: 2006-04-01
 bron: "https://wetten.overheid.nl/BWBR0019081"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit houdende vaststelling vergoeding voorzitter en leden Verificatiecommissie monitoring en evaluatie Programma Near Shore Windpark

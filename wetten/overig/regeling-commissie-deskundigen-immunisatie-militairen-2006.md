@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0020061"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Defensie houdende vaststelling van de Regeling Commissie deskundigen immunisatie militairen 2006 (Regeling Commissie deskundigen immunisatie militairen 2006)

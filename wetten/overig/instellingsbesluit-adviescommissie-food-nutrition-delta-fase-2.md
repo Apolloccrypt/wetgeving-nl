@@ -9,7 +9,7 @@ laatste_update: 2006-05-26
 status: geldig
 toestand: 2006-05-26
 bron: "https://wetten.overheid.nl/BWBR0019860"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Economische Zaken van 12 mei 2006, nr. O&I PI 6034649, tot instelling van een adviescommissie Food & Nutrition Delta fase 2 (Instellingsbesluit Adviescommissie Food & Nutrition Delta fase 2)

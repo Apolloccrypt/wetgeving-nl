@@ -9,7 +9,7 @@ laatste_update: 2005-12-29
 status: geldig
 toestand: 2005-12-29
 bron: "https://wetten.overheid.nl/BWBR0019299"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/F&W/2005/102687 houdende regels met betrekking tot het vervallen van de tweede maximeringsbepaling in de Toeslagenwet

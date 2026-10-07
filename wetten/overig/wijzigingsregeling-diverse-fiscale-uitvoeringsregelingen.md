@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0018787"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wijziging van enige fiscale uitvoeringsregelingen in verband met de Wet financiering sociale verzekeringen en de Invoeringswet Wet financiering sociale verzekeringen

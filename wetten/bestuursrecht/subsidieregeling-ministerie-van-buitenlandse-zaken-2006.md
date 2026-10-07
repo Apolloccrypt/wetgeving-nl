@@ -9,7 +9,7 @@ laatste_update: 2026-04-21
 status: geldig
 toestand: 2026-04-21
 bron: "https://wetten.overheid.nl/BWBR0019366"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van 21 december 2005, nr. DJZ/BR/1307-2005, houdende nadere regels met betrekking tot de verstrekking van subsidies door de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking (Subsidieregeling Ministerie van Buitenlandse Zaken 2006)

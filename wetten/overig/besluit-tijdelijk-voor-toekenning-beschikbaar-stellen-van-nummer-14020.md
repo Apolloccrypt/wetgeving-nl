@@ -9,7 +9,7 @@ laatste_update: 2005-12-31
 status: geldig
 toestand: 2005-12-31
 bron: "https://wetten.overheid.nl/BWBR0019380"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Economische Zaken van 22 december 2005, nr. TP/MO 5728300, houdende het tijdelijk voor toekenning beschikbaar stellen van nummer 14020 (Besluit tijdelijk voor toekenning beschikbaar stellen van nummer 14020)

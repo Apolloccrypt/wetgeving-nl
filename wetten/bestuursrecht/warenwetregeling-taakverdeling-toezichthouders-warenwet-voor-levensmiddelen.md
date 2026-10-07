@@ -9,7 +9,7 @@ laatste_update: 2021-05-01
 status: geldig
 toestand: 2021-05-01
 bron: "https://wetten.overheid.nl/BWBR0019228"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 december 2005, nr. VGP/VL 2642637, houdende de Warenwetregeling taakverdeling toezichthouders Warenwet voor levensmiddelen

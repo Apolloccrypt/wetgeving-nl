@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-10-01
+laatste_update: 2026-10-03
 status: geldig
-toestand: 2026-10-01
+toestand: 2026-10-03
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-10-06
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -60,7 +60,7 @@ opgehaald: 2026-10-06
 |  |  | Techbridge-innovatieprojecten, onderdeel h, Energy Materials als bedoeld in de TechBridge-innovatiecall China, Next-Generation Battery Technologies, te raadplegen via www.rvo.nl/techbridge |  | 31-03-2026 t/m 30-06-2026 | € 500.000 |
 |  |  | Techbridge-innovatieprojecten, onderdeel h, Batterij Technologie als bedoeld in de TechBridge-innovatiecall Duitsland, Next Generation Sustainable Battery Technologies and Battery Manufacturing, te raadplegen via www.rvo.nl/techbridge |  | 01-10-2026 t/m 19-01-2027 | € 2.000.000 |
 |  |  | Techbridge-innovatieprojecten, onderdeel b, Quantum Technologie als bedoeld in de TechBridge-innovatiecall Verenigd Koninkrijk, Commercialising Quantum Technologies, te raadplegen via www.rvo.nl/techbridge |  | 02-11-2026 t/m 09-02-2027 | € 1.200.000 |
-| Titel 3.9: Innovatiekredieten | 3.9.2 | Innovatiekredieten | Klinische ontwikkelingsprojecten en technische projecten | 01-01-2026 t/m 31-12-2026 | € 50.000.000, waarvan minimaal € 10.000.000 voor klinische ontwikkelprojecten en minimaal € 10.000.000 voor technische ontwikkelprojecten |
+| Titel 3.9: Innovatiekredieten | 3.9.2 | Innovatiekredieten | Klinische ontwikkelingsprojecten en technische projecten | 01-01-2026 t/m 31-12-2026 | € 70.000.000, waarvan minimaal € 10.000.000 voor klinische ontwikkelprojecten en minimaal € 10.000.000 voor technische ontwikkelprojecten |
 | Titel 3.10: Seed capital technostarters | 3.10.2 | Startersfondsen |  | 01-01-2026 t/m 31-03-2026 | € 18.000.000 |
 |  | 3.10.2 | Startersfondsen | Dual-use tender | 01-01-2026 t/m 31-03-2026 | € 24.000.000 |
 |  | 3.10.2 | Startersfondsen | Dual-use tender | 03-08-2026 t/m 30-10-2026 | € 11.300.000 |

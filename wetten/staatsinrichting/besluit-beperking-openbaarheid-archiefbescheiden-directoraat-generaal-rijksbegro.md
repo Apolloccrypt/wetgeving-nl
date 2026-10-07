@@ -9,7 +9,7 @@ laatste_update: 2005-12-16
 status: geldig
 toestand: 2005-12-16
 bron: "https://wetten.overheid.nl/BWBR0019001"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Financiën van 8 november 2005, nr. BenC 2005–1990 N, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het directoraat-generaal Rijksbegroting, (1940) 1945–1979

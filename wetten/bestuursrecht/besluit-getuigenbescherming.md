@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0019359"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 21 december 2005, houdende regels ter uitvoering van artikel 226l van het Wetboek van Strafvordering (Besluit getuigenbescherming)

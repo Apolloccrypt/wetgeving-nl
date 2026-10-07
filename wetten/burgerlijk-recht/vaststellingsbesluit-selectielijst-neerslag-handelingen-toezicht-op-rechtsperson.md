@@ -8,7 +8,7 @@ laatste_update: 2006-03-03
 status: geldig
 toestand: 2006-03-03
 bron: "https://wetten.overheid.nl/BWBR0019098"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen toezicht op Rechtspersonen, beleidsterrein Privaatrecht 1945-2000 (Minister van Economische Zaken)

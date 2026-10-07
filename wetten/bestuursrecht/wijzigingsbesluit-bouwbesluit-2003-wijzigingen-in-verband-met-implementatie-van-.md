@@ -9,7 +9,7 @@ laatste_update: 2006-06-29
 status: geldig
 toestand: 2006-06-29
 bron: "https://wetten.overheid.nl/BWBR0019645"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 10 maart 2006, houdende wijziging van het Bouwbesluit 2003 (wijzigingen in verband met de implementatie van de richtlijn tunnelveiligheid)

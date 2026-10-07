@@ -5,11 +5,11 @@ identifier: "BWBR0044923"
 categorie: "Bestuursrecht"
 soort: "AMvB"
 publicatiedatum: 2024-01-01
-laatste_update: 2025-09-20
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2025-09-20
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0044923"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 16 september 2020 tot aanvulling en wijziging van het Besluit activiteiten leefomgeving, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit, de intrekking en wijziging van andere besluiten en regeling van overgangsrecht voor de invoering van de Omgevingswet (Invoeringsbesluit Omgevingswet)
@@ -370,7 +370,7 @@ Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef 
 
 ##### Artikel 7.2. (toelichting hoofdstukken bruidsschat omgevingsplan)
 
-Het tijdelijke deel van het omgevingsplan, bedoeld in [artikel 22.1, eerste lid, onder c, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1), wordt voorzien van de toelichting die is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&bijlage=I&z=2025-09-20&g=2025-09-20) bij dit besluit.
+Het tijdelijke deel van het omgevingsplan, bedoeld in [artikel 22.1, eerste lid, onder c, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1), wordt voorzien van de toelichting die is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&bijlage=I&z=2026-10-01&g=2026-10-01) bij dit besluit.
 
 #### Afdeling 7.2. Bruidsschat in waterschapsverordening
 
@@ -508,7 +508,7 @@ Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omg
 
 ##### Artikel 7.25. (toelichting hoofdstukken bruidsschat waterschapsverordening)
 
-De waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), wordt voorzien van de toelichting die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&bijlage=II&z=2025-09-20&g=2025-09-20) bij dit besluit.
+De waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), wordt voorzien van de toelichting die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&bijlage=II&z=2026-10-01&g=2026-10-01) bij dit besluit.
 
 ### Hoofdstuk 8. Overgangsrecht
 
@@ -707,6 +707,26 @@ Aan de geldigheid van een omgevingsvergunning van rechtswege als bedoeld in [art
 - i. het in stand houden van een bodemophoging of landaanwinning in de Noordzee buiten de zone tussen de duinvoet en de laagwaterlijn, bedoeld in [artikel 7.28, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.28); of
 
 - j. het in stand houden van een zandbanket op het strand, het verplaatsen van zand op het strand of het gecombineerd binnen een kalenderjaar verrichten van die activiteiten in de zone tussen de duinvoet en de laagwaterlijn van de Noordzee, bedoeld in [artikel 7.28, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.28).
+
+##### Artikel 8.1.12. (verlengde termijn omgevingsvergunning van rechtswege activiteiten door of namens de waterbeheerder)
+
+De omgevingsvergunning van rechtswege, bedoeld in[artikel 4.14 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.14), geldt voor een termijn van vier jaar vanaf de inwerkingtreding van de Omgevingswet voor de volgende activiteiten die door of namens de waterbeheerder worden verricht:
+
+- a. het bouwen of in stand houden van een instroomvoorziening in een beperkingengebied met betrekking tot een waterstaatswerk in beheer bij het Rijk, bedoeld in [artikel 6.35 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.35);
+
+- b. het onttrekken van water aan een oppervlaktewaterlichaam in beheer bij het rijk of het onttrekken van grondwater door een daarvoor bedoelde voorziening in een oppervlaktewaterlichaam in beheer bij het rijk, bedoeld in [artikel 6.36 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.36);
+
+- c. het bouwen of in stand houden van een uitstroomvoorziening voor het brengen van stoffen, water of warmte op een oppervlaktewaterlichaam in beheer bij het rijk, bedoeld in [artikel 6.54 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.54);
+
+- d. het lozen van water door een uitstroomvoorziening op een oppervlaktewaterlichaam in beheer bij het rijk, bedoeld in [artikel 6.55, eerste lid, onder c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.55);
+
+- e. het bouwen of in stand houden van een uitstroomvoorziening voor het brengen van stoffen, water of warmte in de Noordzee, bedoeld in [artikel 7.59 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.59); en
+
+- f. het lozen van water door een uitstroomvoorziening in de Noordzee, bedoeld in [artikel 7.60, eerste lid, onder c, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.60).
+
+##### Artikel 8.1.13. (geldigheid omgevingsvergunning van rechtswege beperkingengebiedactiviteit met betrekking tot een weg in beheer bij het Rijk)
+
+De omgevingsvergunning van rechtswege, bedoeld in [artikel 4.14 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.14), geldt voor een termijn van vijf jaar vanaf de inwerkingtreding van de Omgevingswet voor een beperkingengebiedactiviteit met betrekking tot een weg in beheer bij het Rijk als bedoeld in [artikel 8.16 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=8.16).
 
 #### Afdeling 8.2. Overgangsbepalingen per ingetrokken of gewijzigd besluit
 
@@ -918,7 +938,7 @@ De [artikelen 5.8 tot en met 5.11 van het Besluit activiteiten leefomgeving](htt
 
 ##### Artikel 9.1. (overgangsrecht)
 
-Als een bepaling, opgenomen in een algemene maatregel van bestuur, genoemd in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=5&z=2025-09-20&g=2025-09-20) of [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=6&artikel=6.1&z=2025-09-20&g=2025-09-20), wordt vervangen door een bepaling in een ministeriële regeling, kan de overgangsbepaling die daarvoor nodig is, in een ministeriële regeling worden opgenomen.
+Als een bepaling, opgenomen in een algemene maatregel van bestuur, genoemd in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=5&z=2026-10-01&g=2026-10-01) of [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=6&artikel=6.1&z=2026-10-01&g=2026-10-01), wordt vervangen door een bepaling in een ministeriële regeling, kan de overgangsbepaling die daarvoor nodig is, in een ministeriële regeling worden opgenomen.
 
 ##### Artikel 9.2. (inwerkingtreding)
 
@@ -932,7 +952,7 @@ Dit besluit wordt aangehaald als: Invoeringsbesluit Omgevingswet.
 
 1. Na de inwerkingtreding van:
 
-- a. de [hoofdstukken 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=1&z=2025-09-20&g=2025-09-20) van dit besluit;
+- a. de [hoofdstukken 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=1&z=2026-10-01&g=2026-10-01) van dit besluit;
 
 - b. [hoofdstuk 1 van het Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679&hoofdstuk=1);
 

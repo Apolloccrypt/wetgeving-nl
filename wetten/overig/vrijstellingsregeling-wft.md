@@ -8,7 +8,7 @@ laatste_update: 2026-09-29
 status: geldig
 toestand: 2026-09-29
 bron: "https://wetten.overheid.nl/BWBR0020536"
-opgehaald: 2026-10-06
+opgehaald: 2026-10-07
 ---
 
 # Vrijstellingsregeling Wft

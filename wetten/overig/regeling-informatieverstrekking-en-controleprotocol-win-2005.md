@@ -9,7 +9,7 @@ laatste_update: 2006-01-20
 status: geldig
 toestand: 2006-01-20
 bron: "https://wetten.overheid.nl/BWBR0019189"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 8 december 2005, nr. DDS 5389476, tot het geven van voorschriften voor de verstrekking van informatie over de inburgering van nieuwkomers en tot vaststelling van een controleprotocol (Regeling informatieverstrekking en controleprotocol WIN 2005)

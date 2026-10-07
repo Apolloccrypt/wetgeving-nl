@@ -8,7 +8,7 @@ laatste_update: 2006-04-05
 status: geldig
 toestand: 2006-04-05
 bron: "https://wetten.overheid.nl/BWBR0019522"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit Selectielijst archiefbescheiden regionale politieorganisaties vanaf 1 april 1994

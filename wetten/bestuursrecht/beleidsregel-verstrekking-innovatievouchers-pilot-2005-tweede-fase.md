@@ -9,7 +9,7 @@ laatste_update: 2005-10-17
 status: geldig
 toestand: 2005-10-17
 bron: "https://wetten.overheid.nl/BWBR0018805"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Beleidsregel van de Minister van Economische Zaken van 27 september 2005, nr. WJZ 5061320, omtrent de uitvoering van de artikelen 1 en 2 van de Subsidieregeling pilot innovatievouchers 2005 tweede fase (Beleidsregel verstrekking innovatievouchers pilot 2005 tweede fase)

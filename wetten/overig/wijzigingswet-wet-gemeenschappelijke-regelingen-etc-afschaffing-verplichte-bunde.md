@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019115"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 24 november 2005 tot wijziging van de Wet gemeenschappelijke regelingen in verband met de afschaffing van de verplichte bundeling en integratie van gemeenschappelijke regelingen in samenwerkingsgebieden en daarmee samenhangende wijzigingen

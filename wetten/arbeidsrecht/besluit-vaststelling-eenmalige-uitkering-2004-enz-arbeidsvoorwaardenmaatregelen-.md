@@ -9,7 +9,7 @@ laatste_update: 2007-07-04
 status: geldig
 toestand: 2007-07-04
 bron: "https://wetten.overheid.nl/BWBR0020039"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 3 juli 2006 tot vaststelling van een eenmalige uitkering 2004, een aflopende uitkering in het kader van de intrekking van de Regeling ziektekostenvoorziening defensiepersoneel en een vergoeding van de inkomensafhankelijke bijdrage voor gewezen defensiepersoneel en tot wijziging van enige besluiten in het kader van enige arbeidsvoorwaardenmaatregelen voor de sector Defensie, alsmede tot vaststelling van enige technische wijzigingen

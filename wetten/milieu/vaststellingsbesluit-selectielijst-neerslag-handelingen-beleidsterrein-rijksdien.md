@@ -9,7 +9,7 @@ laatste_update: 2005-12-03
 status: geldig
 toestand: 2005-12-03
 bron: "https://wetten.overheid.nl/BWBR0018839"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststelling selectielijst neerslag handelingen beleidsterrein Rijksdienst voor het Wegverkeer vanaf 1951 (Minister van Verkeer en Waterstaat)

@@ -9,7 +9,7 @@ laatste_update: 2014-05-09
 status: geldig
 toestand: 2014-05-09
 bron: "https://wetten.overheid.nl/BWBR0018806"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Autoriteit Financiële Markten en De Nederlandsche Bank NV van 28 september 2005, houdende regels ten behoeve van de naleving door financiële instellingen van de bij of krachtens de Sanctiewet 1977 gestelde regels met betrekking tot het financieel verkeer (Regeling toezicht Sanctiewet 1977)

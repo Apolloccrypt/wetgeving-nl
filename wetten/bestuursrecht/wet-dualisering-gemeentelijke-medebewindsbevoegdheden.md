@@ -9,7 +9,7 @@ laatste_update: 2008-10-22
 status: geldig
 toestand: 2008-10-22
 bron: "https://wetten.overheid.nl/BWBR0018832"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 6 oktober 2005, tot aanpassing van bijzondere wetten aan de Wet dualisering gemeentebestuur (Wet dualisering gemeentelijke medebewindsbevoegdheden)

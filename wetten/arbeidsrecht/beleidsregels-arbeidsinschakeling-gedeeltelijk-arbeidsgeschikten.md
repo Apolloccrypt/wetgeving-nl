@@ -8,7 +8,7 @@ laatste_update: 2005-12-30
 status: geldig
 toestand: 2005-12-30
 bron: "https://wetten.overheid.nl/BWBR0019353"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Beleidsregels arbeidsinschakeling gedeeltelijk arbeidsgeschikten

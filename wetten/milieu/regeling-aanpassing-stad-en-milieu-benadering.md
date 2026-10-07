@@ -9,7 +9,7 @@ laatste_update: 2006-02-01
 status: geldig
 toestand: 2006-02-01
 bron: "https://wetten.overheid.nl/BWBR0019469"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 20 januari 2006, nr. DJZ 2006227630, Directie Juridische Zaken, Afdeling Wetgeving, houdende aanpassingsregeling stad-en-milieu-benadering

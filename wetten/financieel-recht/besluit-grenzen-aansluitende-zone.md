@@ -9,7 +9,7 @@ laatste_update: 2006-09-01
 status: geldig
 toestand: 2006-09-01
 bron: "https://wetten.overheid.nl/BWBR0019966"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 14 juni 2006, houdende uitvoering van de artikelen 2 en 3 van de Rijkswet instelling aansluitende zone (Besluit grenzen aansluitende zone)

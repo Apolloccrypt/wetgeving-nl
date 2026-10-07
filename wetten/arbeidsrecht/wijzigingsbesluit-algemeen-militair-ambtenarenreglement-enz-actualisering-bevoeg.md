@@ -9,7 +9,7 @@ laatste_update: 2006-10-01
 status: geldig
 toestand: 2006-10-01
 bron: "https://wetten.overheid.nl/BWBR0020038"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 3 juli 2006 tot wijziging van het Algemeen militair ambtenarenreglement, het Burgerlijk ambtenarenreglement defensie en enige andere besluiten in verband met actualisering van de bevoegdhedentoedeling, het beperken van aanstellingskeuringen alsmede de implementatie van arbeidsvoorwaardelijke afspraken omtrent loondoorbetaling bij ziekte

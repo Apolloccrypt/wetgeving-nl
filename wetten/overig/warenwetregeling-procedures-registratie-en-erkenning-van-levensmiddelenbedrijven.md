@@ -9,7 +9,7 @@ laatste_update: 2020-12-09
 status: geldig
 toestand: 2020-12-09
 bron: "https://wetten.overheid.nl/BWBR0019442"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 januari 2006, nr. VGP/VL 2650539, houdende de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven

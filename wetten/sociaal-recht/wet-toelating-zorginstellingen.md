@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0018906"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 20 oktober 2005 tot vereenvoudiging van het stelsel van overheidsbemoeienis met het aanbod van zorginstellingen (Wet toelating zorginstellingen)

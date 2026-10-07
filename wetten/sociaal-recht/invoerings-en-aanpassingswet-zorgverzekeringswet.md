@@ -9,7 +9,7 @@ laatste_update: 2020-03-19
 status: geldig
 toestand: 2020-03-19
 bron: "https://wetten.overheid.nl/BWBR0018830"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 6 oktober 2005, houdende invoering van de Zorgverzekeringswet en aanpassing van overige wetten aan die wet (Invoerings- en aanpassingswet Zorgverzekeringswet)

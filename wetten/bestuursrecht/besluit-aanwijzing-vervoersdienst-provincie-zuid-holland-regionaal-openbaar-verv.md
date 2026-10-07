@@ -9,7 +9,7 @@ laatste_update: 2006-05-06
 status: geldig
 toestand: 2006-05-06
 bron: "https://wetten.overheid.nl/BWBR0019804"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit tot aanwijzing vervoersdienst waarvoor het College van Gedeputeerde Staten van de provincie Zuid-Holland bevoegd is tot het verlenen, wijzigen of intrekken van concessies voor regionaal openbaar vervoer per trein

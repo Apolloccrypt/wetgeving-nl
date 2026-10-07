@@ -9,7 +9,7 @@ laatste_update: 2023-05-02
 status: geldig
 toestand: 2023-05-02
 bron: "https://wetten.overheid.nl/BWBR0018936"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 26 oktober 2005, nr. DJZ/BR/1043-05, houdende beperkende maatregelen ten aanzien van de Democratische Republiek Congo (Sanctieregeling Congo 2005)

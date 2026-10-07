@@ -9,7 +9,7 @@ laatste_update: 2006-07-19
 status: geldig
 toestand: 2006-07-19
 bron: "https://wetten.overheid.nl/BWBR0019968"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Selectielijst neerslag handelingen Minister van Volksgezondheid, Welzijn en Sport beleidsterrein Adelsbeleid, adelsrecht en decoratiestelsel vanaf 1945

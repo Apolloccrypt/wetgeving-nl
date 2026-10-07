@@ -9,7 +9,7 @@ laatste_update: 2006-07-08
 status: geldig
 toestand: 2006-07-08
 bron: "https://wetten.overheid.nl/BWBR0019978"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 19 juni 2006, nr. DVL/0803/2006, tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Draagvlakbevordering ontwikkelingssamenwerking)

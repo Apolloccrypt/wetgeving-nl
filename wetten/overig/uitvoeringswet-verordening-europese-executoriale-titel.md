@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0018808"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 28 september 2005 tot uitvoering van verordening (EG) nr. 805/2004 van het Europees Parlement en de Raad van 21 april 2004 tot invoering van een Europese executoriale titel voor niet-betwiste schuldvorderingen (Pb EU L 143) (Uitvoeringswet verordening Europese executoriale titel)

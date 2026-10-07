@@ -9,7 +9,7 @@ laatste_update: 2006-02-15
 status: geldig
 toestand: 2006-02-15
 bron: "https://wetten.overheid.nl/BWBR0019545"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 7 februari 2006, nr. DDI/ST/reg 015/2004, houdende beperking van de openbaarheid van de archieven van het consulaat Bloemfontein 1940–1947 (1952), consulaat Durban 1916–1950, consulaat-generaal Johannesburg 1938–1954, en het gezantschap/ambassade Pretoria (1910) 1930–1954 (1955) – consulaat Pretoria (1941–1946)

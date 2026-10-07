@@ -9,7 +9,7 @@ laatste_update: 2014-03-20
 status: geldig
 toestand: 2014-03-20
 bron: "https://wetten.overheid.nl/BWBR0020008"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 27 juni 2006, nr. KvI2006278987, houdende regels voor het subsidiëren van voorzieningen die de emissie van deeltjes door voertuigen met een dieselmotor verminderen (Subsidieregeling emissieverminderende voorzieningen voor voertuigen met een dieselmotor)

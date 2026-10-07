@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0019210"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 8 december 2005, houdende regels met betrekking tot het in de handel brengen van teeltmateriaal (Besluit verhandeling teeltmateriaal)

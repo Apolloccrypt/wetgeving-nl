@@ -9,7 +9,7 @@ laatste_update: 2005-09-01
 status: geldig
 toestand: 2005-09-01
 bron: "https://wetten.overheid.nl/BWBR0018634"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 juli 2005, nr. TRCJZ/2005/2337, houdende vaststelling eindtermen beroepsonderwijs op het gebied van de landbouw en de natuurlijke omgeving

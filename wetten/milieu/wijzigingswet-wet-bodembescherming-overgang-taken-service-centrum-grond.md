@@ -9,7 +9,7 @@ laatste_update: 2005-10-12
 status: geldig
 toestand: 2005-10-12
 bron: "https://wetten.overheid.nl/BWBR0018782"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 15 september 2005 tot wijziging van de Wet bodembescherming (overgang taken Service Centrum Grond)

@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019383"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 22 december 2005 tot aanpassing van de wetgeving aan en invoering van de wet tot vaststelling van titel 7.17 (verzekering) en titel 7.18 (lijfrente) van het nieuwe Burgerlijk Wetboek (Invoeringswet titel 7.17 en titel 7.18 Burgerlijk Wetboek)

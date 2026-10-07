@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-10-06",
+ "gegenereerd": "2026-10-07",
  "geverifieerd": true,
- "bwb_regelingen": 46963,
- "bwb_geldend": 22262,
- "site_totaal": 22494,
- "site_geldend": 22261,
+ "bwb_regelingen": 46967,
+ "bwb_geldend": 22264,
+ "site_totaal": 22498,
+ "site_geldend": 22263,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 233,
+ "aantal_ten_onrechte_geldig": 235,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -292,6 +292,14 @@
   {
    "id": "BWBR0042107",
    "titel": "Besluit van het bestuur van de huurcommissie, van 8 maart 2019, nr. MA/2019-062/UP, houdende de organisatie-inrichting van administratieve ondersteuning van de Huurcommissie aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2019)"
+  },
+  {
+   "id": "BWBR0042155",
+   "titel": "Reglement behandeling bezwaarschriften RvR"
+  },
+  {
+   "id": "BWBR0042156",
+   "titel": "Reglement Commissie voor Bezwaar RvR"
   },
   {
    "id": "BWBR0042208",

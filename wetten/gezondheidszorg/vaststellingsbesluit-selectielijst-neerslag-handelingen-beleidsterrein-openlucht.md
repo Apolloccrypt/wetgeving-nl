@@ -8,7 +8,7 @@ laatste_update: 2005-12-02
 status: geldig
 toestand: 2005-12-02
 bron: "https://wetten.overheid.nl/BWBR0018750"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Openluchtrecreatie 1946–1983 (Minister van Volksgezondheid, Welzijn en Sport)

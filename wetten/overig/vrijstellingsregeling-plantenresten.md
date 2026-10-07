@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0019048"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 november 2005, nr. SAS/2005197401, Directoraat-Generaal Milieubeheer, Directie Stoffen, Afvalstoffen en Straling, Afdeling Afval Keten Beleid, houdende nadere regels inzake de vrijstelling van het stortverbod buiten inrichtingen van plantenresten en tarragrond (Vrijstellingsregeling plantenresten en tarragrond)

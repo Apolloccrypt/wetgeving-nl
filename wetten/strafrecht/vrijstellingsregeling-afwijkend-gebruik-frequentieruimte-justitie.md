@@ -9,7 +9,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0019509"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Economische Zaken van 1 februari 2006, nr. WJZ 6008406, houdende regels ter zake vrijstelling van het toestemmingsvereiste ex artikel 3.10, eerste lid, van de Telecommunicatiewet (Vrijstellingsregeling afwijkend gebruik frequentieruimte Justitie)

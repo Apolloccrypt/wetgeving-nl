@@ -8,7 +8,7 @@ laatste_update: 2006-03-31
 status: geldig
 toestand: 2006-03-31
 bron: "https://wetten.overheid.nl/BWBR0019699"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Instellingsbesluit Adviescommissie Pôle de Compétitivité

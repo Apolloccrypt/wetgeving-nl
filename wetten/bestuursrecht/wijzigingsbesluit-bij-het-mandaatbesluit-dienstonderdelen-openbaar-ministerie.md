@@ -9,7 +9,7 @@ laatste_update: 2005-09-10
 status: geldig
 toestand: 2005-09-10
 bron: "https://wetten.overheid.nl/BWBR0018678"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit tot wijziging van het Mandaatbesluit Dienstonderdelen Openbaar Ministerie van 15 december 1997, nr. 665431/897

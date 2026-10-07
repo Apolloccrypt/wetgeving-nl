@@ -9,7 +9,7 @@ laatste_update: 2006-05-03
 status: geldig
 toestand: 2006-05-03
 bron: "https://wetten.overheid.nl/BWBR0019808"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 april 2006, nr. Z/VV-2679576, houdende wijziging van de Regeling zorgverzekering in verband met de gedifferentieerde berekening van de bijdrage voor verdragsgerechtigden

@@ -8,7 +8,7 @@ laatste_update: 2005-08-10
 status: geldig
 toestand: 2005-08-10
 bron: "https://wetten.overheid.nl/BWBR0018640"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit vaststelling constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto’s 2006

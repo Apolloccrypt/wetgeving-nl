@@ -9,7 +9,7 @@ laatste_update: 2006-05-01
 status: geldig
 toestand: 2006-05-01
 bron: "https://wetten.overheid.nl/BWBR0019661"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit Vergoeding voorzitter en leden van de Garantiewetcommissie (Vacatiegeldenbesluit)

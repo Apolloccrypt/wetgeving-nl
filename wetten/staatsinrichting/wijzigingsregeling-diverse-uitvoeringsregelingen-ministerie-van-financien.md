@@ -8,7 +8,7 @@ laatste_update: 2009-02-12
 status: geldig
 toestand: 2009-02-12
 bron: "https://wetten.overheid.nl/BWBR0019238"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wijzigingsregeling diverse Uitvoeringsregelingen Ministerie van Financiën

@@ -9,7 +9,7 @@ laatste_update: 2006-03-22
 status: geldig
 toestand: 2006-03-22
 bron: "https://wetten.overheid.nl/BWBR0019342"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 20 december 2005 tot wijziging van het Bevoegdhedenbesluit WPO tot vaststelling van de bewijzen van bekwaamheid die bevoegdheid verlenen tot het geven van Duitse taal en Franse taal in het basisonderwijs en wijziging van het Besluit bekwaamheidseisen onderwijspersoneel om de vakleerkracht voor de onderwijsactiviteiten Duitse taal en Franse taal in het basisonderwijs te introduceren

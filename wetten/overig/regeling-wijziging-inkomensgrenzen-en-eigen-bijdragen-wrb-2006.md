@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019272"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Justitie van 15 december 2005, Directie Toegang Rechtsbestel, nr. 5389276/05/DTR, houdende wijziging van de inkomensgrenzen en eigen bijdragen (Regeling wijziging inkomensgrenzen en eigen bijdrage Wet op de rechtsbijstand 2006

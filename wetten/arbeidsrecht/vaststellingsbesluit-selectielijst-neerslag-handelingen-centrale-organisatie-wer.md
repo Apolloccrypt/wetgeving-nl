@@ -8,7 +8,7 @@ laatste_update: 2006-03-22
 status: geldig
 toestand: 2006-03-22
 bron: "https://wetten.overheid.nl/BWBR0019580"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen Centrale organisatie Werk en Inkomen en rechtsvoorganger Arbeidsvoorzieningenorganisatie 1997–2004

@@ -9,7 +9,7 @@ laatste_update: 2005-10-15
 status: geldig
 toestand: 2005-10-15
 bron: "https://wetten.overheid.nl/BWBR0018848"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit tot aanwijzing vervoersdienst waarvoor het College van Gedeputeerde Staten van de provincie Limburg bevoegd is tot het verlenen, wijzigen of intrekken van concessies voor regionaal openbaar vervoer per trein

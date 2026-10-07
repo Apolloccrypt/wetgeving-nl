@@ -8,7 +8,7 @@ laatste_update: 2008-02-08
 status: geldig
 toestand: 2008-02-08
 bron: "https://wetten.overheid.nl/BWBR0020045"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit mandaat Dienst Regelingen Bijdragebesluit kosten ruiming explosieven Tweede Wereldoorlog 1999

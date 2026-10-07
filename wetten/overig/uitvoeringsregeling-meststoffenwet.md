@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0018989"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 4 november 2005, nr. TRCJZ/2005/3295, houdende regels ter uitvoering van de Meststoffenwet (Uitvoeringsregeling Meststoffenwet)

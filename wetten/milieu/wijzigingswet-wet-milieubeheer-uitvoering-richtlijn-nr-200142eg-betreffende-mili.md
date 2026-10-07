@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0020050"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 5 juli 2006 tot wijziging van de Wet milieubeheer in verband met de uitvoering van richtlijn nr. 2001/42/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2001 betreffende de beoordeling van de gevolgen voor het milieu van bepaalde plannen en programma’s (PbEG L 197) (milieu-effectrapportage plannen)

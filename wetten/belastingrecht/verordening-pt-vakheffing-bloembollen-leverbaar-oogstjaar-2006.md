@@ -9,7 +9,7 @@ laatste_update: 2010-12-26
 status: geldig
 toestand: 2010-12-26
 bron: "https://wetten.overheid.nl/BWBR0019838"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 25 april 2006, houdende de vaststelling van een aan telers van en handelaren in bloembollen (leverbaar) op te leggen heffing voor het oogstjaar 2006 (Verordening PT vakheffing bloembollen leverbaar oogstjaar 2006)

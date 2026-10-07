@@ -9,7 +9,7 @@ laatste_update: 2006-08-01
 status: geldig
 toestand: 2006-08-01
 bron: "https://wetten.overheid.nl/BWBR0019928"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 31 mei 2006, houdende wijziging van het Uitvoeringsbesluit Les- en cursusgeldwet 2000 in verband met invoering cursusgeld voor de opleiding Nederlands als tweede taal

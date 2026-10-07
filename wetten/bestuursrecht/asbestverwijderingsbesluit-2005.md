@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0019316"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 16 december 2005, houdende vaststelling van regels voor het inventariseren van asbest en het verwijderen van asbest in het algemeen en uit een bouwwerk in het bijzonder en in verband hiermee een wijziging van het Arbeidsomstandighedenbesluit (Asbestverwijderingsbesluit 2005)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0019150"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Financiën van 2 december 2005, Directie Sociale Verzekeringen, Nr. SV/F&W/05/96420, ter uitvoering van de Wet financiering sociale verzekeringen (Regeling Wfsv)

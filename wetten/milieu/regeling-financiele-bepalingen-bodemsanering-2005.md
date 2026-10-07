@@ -9,7 +9,7 @@ laatste_update: 2018-11-30
 status: geldig
 toestand: 2018-11-30
 bron: "https://wetten.overheid.nl/BWBR0019304"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 december 2005, nr. LMV 2005.191530, Directie Lokale Milieukwaliteit en Verkeer, Afdeling Sturing Bodemsaneringsoperatie, houdende financiële bepalingen met betrekking tot bodemsanering (Regeling financiële bepalingen bodemsanering 2005)

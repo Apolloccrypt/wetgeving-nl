@@ -9,7 +9,7 @@ laatste_update: 2006-06-24
 status: geldig
 toestand: 2006-06-24
 bron: "https://wetten.overheid.nl/BWBR0019411"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wijzigingsverordening Bevoegdhedenverordening registerloodsen 1995

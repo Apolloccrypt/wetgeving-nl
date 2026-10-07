@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0019765"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid, van 18 april 2006, nr. AV/PB/2006/30063, tot wijziging van de Regeling betreffende aanvragen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000

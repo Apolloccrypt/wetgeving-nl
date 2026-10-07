@@ -9,7 +9,7 @@ laatste_update: 2006-01-05
 status: geldig
 toestand: 2006-01-05
 bron: "https://wetten.overheid.nl/BWBR0019321"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van 19 december 2005, nr. 2005-287432, tot vaststelling van de bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2004

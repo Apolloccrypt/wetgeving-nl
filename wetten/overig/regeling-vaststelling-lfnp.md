@@ -5,11 +5,11 @@ identifier: "BWBR0033460"
 categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-12-18
-laatste_update: 2026-04-18
+laatste_update: 2026-10-03
 status: geldig
-toestand: 2026-04-18
+toestand: 2026-10-03
 bron: "https://wetten.overheid.nl/BWBR0033460"
-opgehaald: 2026-08-19
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 7 mei 2013, nr. 382047, directoraat-generaal Politie, programma Arbeidsvoorwaarden in verband met de vaststelling van het Landelijk Functiegebouw Nederlandse Politie (Regeling vaststelling LFNP)
@@ -64,19 +64,19 @@ Het bevoegd gezag kan de Minister een voorstel doen tot wijziging van de bij de 
 
 ##### Artikel 3
 
-1. De aanduiding van de functies, onderverdeeld naar de domeinen leiding, uitvoering en ondersteuning en naar vakgebieden, met de daaraan gekoppelde barema’s zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2026-04-18&g=2026-04-18).
+1. De aanduiding van de functies, onderverdeeld naar de domeinen leiding, uitvoering en ondersteuning en naar vakgebieden, met de daaraan gekoppelde barema’s zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2026-10-03&g=2026-10-03).
 
-2. De koppeling van de functies, van punten naar barema’s, aan de salarisschalen is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=2&z=2026-04-18&g=2026-04-18).
+2. De koppeling van de functies, van punten naar barema’s, aan de salarisschalen is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=2&z=2026-10-03&g=2026-10-03).
 
-3. De bij de functies behorende functiebeschrijvingen zijn opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2026-04-18&g=2026-04-18).
+3. De bij de functies behorende functiebeschrijvingen zijn opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2026-10-03&g=2026-10-03).
 
-4. De aan de functiebeschrijvingen te koppelen werkterreinen, aandachtsgebieden en specifieke functionaliteiten zijn opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4&z=2026-04-18&g=2026-04-18).
+4. De aan de functiebeschrijvingen te koppelen werkterreinen, aandachtsgebieden en specifieke functionaliteiten zijn opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4&z=2026-10-03&g=2026-10-03).
 
-5. De aan de functiebeschrijvingen te koppelen werktitels zijn opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=5&z=2026-04-18&g=2026-04-18).
+5. De aan de functiebeschrijvingen te koppelen werktitels zijn opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=5&z=2026-10-03&g=2026-10-03).
 
 ##### Artikel 3a
 
-1. De ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak die enkel een krachtens [artikel 2c, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft gevolgd, kan enkel worden geplaatst in een functie in het vakgebied Intelligence, Forensische Opsporing, met uitzondering van het werkterrein Speurhondengeleiding, Tactische Opsporing, met uitzondering van de functies van Senior Tactische Opsporing en Operationeel Expert Tactische Opsporing, of Operationeel Specialismen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2026-04-18&g=2026-04-18).
+1. De ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak die enkel een krachtens [artikel 2c, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft gevolgd, kan enkel worden geplaatst in een functie in het vakgebied Intelligence, Forensische Opsporing, met uitzondering van het werkterrein Speurhondengeleiding, Tactische Opsporing, met uitzondering van de functies van Senior Tactische Opsporing en Operationeel Expert Tactische Opsporing, of Operationeel Specialismen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2026-10-03&g=2026-10-03).
 
 2. De ambtenaar, bedoeld in het eerste lid, die is geplaatst in een functie als bedoeld in het eerste lid is niet bewapend.
 
@@ -84,7 +84,7 @@ Het bevoegd gezag kan de Minister een voorstel doen tot wijziging van de bij de 
 
 ##### Artikel 3b
 
-De volgende activiteiten uit de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2026-04-18&g=2026-04-18) opgenomen functiebeschrijvingen van de functies in de vakgebieden Operationeel Specialismen en Tactische Opsporing zijn voorbehouden aan de ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak en die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft voltooid:
+De volgende activiteiten uit de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2026-10-03&g=2026-10-03) opgenomen functiebeschrijvingen van de functies in de vakgebieden Operationeel Specialismen en Tactische Opsporing zijn voorbehouden aan de ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak en die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft voltooid:
 
 - a. de toepassing van dwangmiddelen in vooraf voorzienbare gevaarzettende situaties, en
 
@@ -92,9 +92,9 @@ De volgende activiteiten uit de in [bijlage 3](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 4
 
-1. In het kader van het vaststellen van passende arbeid als bedoeld in [artikel 49b, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=49b), stelt het bevoegd gezag zo nodig een functie samen uit een of meerdere functies opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2026-04-18&g=2026-04-18). Bij het samenstellen van deze functie wordt rekening gehouden met de resterende verdiencapaciteit van de desbetreffende ambtenaar.
+1. In het kader van het vaststellen van passende arbeid als bedoeld in [artikel 49b, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=49b), stelt het bevoegd gezag zo nodig een functie samen uit een of meerdere functies opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2026-10-03&g=2026-10-03). Bij het samenstellen van deze functie wordt rekening gehouden met de resterende verdiencapaciteit van de desbetreffende ambtenaar.
 
-2. Aan deze samengestelde functie wordt door het bevoegd gezag met inachtneming van [artikel 2, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=2&z=2026-04-18&g=2026-04-18), een salaris gekoppeld.
+2. Aan deze samengestelde functie wordt door het bevoegd gezag met inachtneming van [artikel 2, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=2&z=2026-10-03&g=2026-10-03), een salaris gekoppeld.
 
 ##### Artikel 4a
 

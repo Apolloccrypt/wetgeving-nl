@@ -9,7 +9,7 @@ laatste_update: 2006-07-05
 status: geldig
 toestand: 2006-07-05
 bron: "https://wetten.overheid.nl/BWBR0019969"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Rijkswet van 15 juni 2006, houdende goedkeuring van het op 25 april 2005 te Luxemburg totstandgekomen Verdrag betreffende de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie (met Akte, Protocol, Slotakte en Bijlagen); Trb. 2005, 196

@@ -9,7 +9,7 @@ laatste_update: 2006-02-01
 status: geldig
 toestand: 2006-02-01
 bron: "https://wetten.overheid.nl/BWBR0019118"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie SKE

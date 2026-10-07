@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0019262"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 14 december 2005, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter

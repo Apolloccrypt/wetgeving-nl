@@ -9,7 +9,7 @@ laatste_update: 2006-04-22
 status: geldig
 toestand: 2006-04-22
 bron: "https://wetten.overheid.nl/BWBR0019367"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 21 december 2005, nr. DJZ/BR/1309-2005, tot vaststelling van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieplafond Medefinancieringsstelsel)

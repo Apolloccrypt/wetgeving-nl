@@ -9,7 +9,7 @@ laatste_update: 2006-03-08
 status: geldig
 toestand: 2006-03-08
 bron: "https://wetten.overheid.nl/BWBR0019592"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Financiën van 20 februari 2006, nr. BenC 2006-255M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Bureaus van de Financieel Attaché te New York en Washington van het Ministerie van Financiën 1940–1974

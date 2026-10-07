@@ -8,7 +8,7 @@ laatste_update: 2006-03-02
 status: geldig
 toestand: 2006-03-02
 bron: "https://wetten.overheid.nl/BWBR0019336"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Relatienotabeleid 1974–1998 (Minister van Landbouw, Natuur en Voedselkwaliteit)

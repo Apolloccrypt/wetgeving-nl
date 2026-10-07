@@ -9,7 +9,7 @@ laatste_update: 2005-12-29
 status: geldig
 toestand: 2005-12-29
 bron: "https://wetten.overheid.nl/BWBR0019301"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/AL/05/102785, houdende regels tot bepaling van de eerste werkdag (Regeling bepaling eerste werkdag)

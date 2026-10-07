@@ -9,7 +9,7 @@ laatste_update: 2010-02-24
 status: geldig
 toestand: 2010-02-24
 bron: "https://wetten.overheid.nl/BWBR0020051"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 5 juli 2006, houdende wijziging Wet geluidhinder (modernisering instrumentarium geluidbeleid, eerste fase)

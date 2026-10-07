@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0041278"
-opgehaald: 2026-10-04
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 3 juli 2018, houdende procedurele regels en regels over algemene onderwerpen over het beschermen en benutten van de fysieke leefomgeving (Omgevingsbesluit)
@@ -1490,7 +1490,7 @@ Het college van burgemeester en wethouders of de gemeenteraad, het dagelijks bes
 
 - a. een programma als bedoeld in [artikel 3.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.10) voor zover dat is gericht op het voldoen aan een omgevingswaarde voor de kwaliteit van de buitenlucht;
 
-- b. een stroomgebiedsbeheerplan als bedoeld in [artikel 3.9, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.9);
+- b. een stroomgebiedbeheerplan als bedoeld in [artikel 3.9, tweede lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.9);
 
 - c. een overstromingsrisicobeheerplan als bedoeld in [artikel 3.9, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.9);
 
@@ -1516,9 +1516,9 @@ Het nationale nec-programma wordt geactualiseerd:
 
 #### § 10.4.3. Waterprogramma’s
 
-##### Artikel 10.11. (overleg bij en actualisatie van stroomgebiedsbeheerplannen en overstromingsrisicobeheerplannen)
+##### Artikel 10.11. (overleg bij en actualisatie van stroomgebiedbeheerplannen en overstromingsrisicobeheerplannen)
 
-1. Bij de totstandkoming van stroomgebiedsbeheerplannen en overstromingsrisicobeheerplannen als bedoeld in [artikel 3.9, tweede lid, onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.9) voor de stroomgebiedsdistricten Rijn, Maas, Schelde en Eems voor zover die betrekking hebben of ook betrekking hebben op het Nederlandse grondgebied, overlegt Onze Minister van Infrastructuur en Waterstaat met:
+1. Bij de totstandkoming van stroomgebiedbeheerplannen en overstromingsrisicobeheerplannen als bedoeld in [artikel 3.9, tweede lid, onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.9) voor de stroomgebiedsdistricten Rijn, Maas, Schelde en Eems voor zover die betrekking hebben of ook betrekking hebben op het Nederlandse grondgebied, overlegt Onze Minister van Infrastructuur en Waterstaat met:
 
 - a. de bevoegde autoriteiten van andere staten in die stroomgebiedsdistricten;
 
@@ -1526,7 +1526,7 @@ Het nationale nec-programma wordt geactualiseerd:
 
 - c. vertegenwoordigers van gemeenten.
 
-2. Een stroomgebiedsbeheerplan en een overstromingsrisicobeheerplan worden elke zes jaar geactualiseerd.
+2. Een stroomgebiedbeheerplan en een overstromingsrisicobeheerplan worden elke zes jaar geactualiseerd.
 
 ##### Artikel 10.12. (overleg bij, actualisatie en operationaliteit programma van maatregelen mariene strategie)
 
@@ -1904,9 +1904,9 @@ De commissaris van de Koning maakt een besluit met regels over het gebruik van i
 
 Een monitoringsprogramma als bedoeld in [artikel 11.28 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.28) wordt elektronisch beschikbaar gesteld.
 
-##### Artikel 10.33. (gegevensverstrekking opstellen stroomgebiedsbeheerplannen)
+##### Artikel 10.33. (gegevensverstrekking opstellen stroomgebiedbeheerplannen)
 
-Het dagelijks bestuur van het waterschap en gedeputeerde staten verstrekken de door hen verzamelde gegevens die nodig zijn voor het opstellen van stroomgebiedsbeheerplannen, bedoeld in [artikel 11.35 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.35), elektronisch aan Onze Minister van Infrastructuur en Waterstaat, uiterlijk op de volgende tijdstippen:
+Het dagelijks bestuur van het waterschap en gedeputeerde staten verstrekken de door hen verzamelde gegevens die nodig zijn voor het opstellen van stroomgebiedbeheerplannen, bedoeld in [artikel 11.35 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.35), elektronisch aan Onze Minister van Infrastructuur en Waterstaat, uiterlijk op de volgende tijdstippen:
 
 - a. 22 juni 2026 en 22 juni 2027; en
 
@@ -3462,7 +3462,7 @@ De landelijke voorziening voorziet in het elektronisch kunnen uitwisselen van ge
 
 ##### Artikel 14.5b. (doorzendfunctionaliteit)
 
-De landelijke voorziening voorziet in het elektronisch doorzenden van een melding of gegevens en bescheiden om te voldoen aan een andere informatieverplichting dan een melding op grond van de wet naar Onze Minister van Infrastructuur en Waterstaat voor het uitoefenen van de bestuursrechtelijke handhavingstaak, bedoeld in [artikel 13.1, eerste lid, aanhef en onder e, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2026-10-01&g=2026-10-01).
+De landelijke voorziening voorziet in het elektronisch doorzenden van een melding of gegevens en bescheiden om te voldoen aan een andere informatieverplichting dan een melding op grond van de wet naar Onze Minister van Infrastructuur en Waterstaat voor het uitoefenen van de bestuursrechtelijke handhavingstaak, bedoeld in [artikel 13.3a0, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.1&artikel=13.3a0&z=2026-10-01&g=2026-10-01).
 
 #### Afdeling 14.3. Gegevensbeheer en persoonsgegevens
 
@@ -3504,7 +3504,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 14.7b. (doorzenden berichten)
 
-1. Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties brengt een ingediend bericht over een milieubelastende activiteit als bedoeld in [artikel 3.48m](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48m), [3.48o](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48o) of [3.48r van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48r) onverwijld binnen het bereik van Onze Minister van Infrastructuur en Waterstaat voor het uitoefenen van de bestuursrechtelijke handhavingstaak, bedoeld in [artikel 13.1, eerste lid, aanhef en onder e, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2026-10-01&g=2026-10-01).
+1. Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties brengt een ingediend bericht over een milieubelastende activiteit als bedoeld in [artikel 3.48m](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48m), [3.48o](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48o) of [3.48r van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48r) onverwijld binnen het bereik van Onze Minister van Infrastructuur en Waterstaat voor het uitoefenen van de bestuursrechtelijke handhavingstaak, bedoeld in [artikel 13.3a0, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&hoofdstuk=13&afdeling=13.1&artikel=13.3a0&z=2026-10-01&g=2026-10-01).
 
 2. Een ingediend bericht wordt ten hoogste een jaar in de landelijke voorziening bewaard.
 

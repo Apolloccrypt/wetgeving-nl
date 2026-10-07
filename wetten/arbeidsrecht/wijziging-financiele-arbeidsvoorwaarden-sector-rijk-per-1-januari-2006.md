@@ -8,7 +8,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019256"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2006

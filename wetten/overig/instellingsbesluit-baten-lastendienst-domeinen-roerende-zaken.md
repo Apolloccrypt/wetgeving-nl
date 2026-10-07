@@ -9,7 +9,7 @@ laatste_update: 2006-02-18
 status: geldig
 toestand: 2006-02-18
 bron: "https://wetten.overheid.nl/BWBR0019427"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Financïen van 10 januari 2006 tot instelling van de baten-lastendienst Domeinen Roerende Zaken

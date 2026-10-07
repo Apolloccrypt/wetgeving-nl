@@ -8,7 +8,7 @@ laatste_update: 2006-08-02
 status: geldig
 toestand: 2006-08-02
 bron: "https://wetten.overheid.nl/BWBR0019780"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen IB-Groep vanaf 1994

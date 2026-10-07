@@ -9,7 +9,7 @@ laatste_update: 2005-12-01
 status: geldig
 toestand: 2005-12-01
 bron: "https://wetten.overheid.nl/BWBR0018778"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 15 september 2005, houdende wijziging van de Wet op de vennootschapsbelasting 1969 (vervallen van de concernfinancieringsregeling)

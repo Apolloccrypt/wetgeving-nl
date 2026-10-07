@@ -9,7 +9,7 @@ laatste_update: 2006-04-13
 status: geldig
 toestand: 2006-04-13
 bron: "https://wetten.overheid.nl/BWBR0019724"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Beleidsregel ontheffingverlening ten behoeve van de proef met langere of langere en zwaardere vrachtautocombinaties (Beleidsregel ontheffingverlening LZV 2006)

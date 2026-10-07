@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0045528"
-opgehaald: 2026-10-04
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister voor Milieu en Wonen, de Staatssecretaris van Defensie, de Minister van Economische Zaken en Klimaat, de Minister van Infrastructuur en Waterstaat, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Onderwijs, Cultuur en Wetenschap van 21 november 2019, houdende regels over het beschermen en benutten van de fysieke leefomgeving (Omgevingsregeling)
@@ -198,7 +198,7 @@ De [beperkingengebieden met betrekking tot andere installaties dan mijnbouwinsta
 
 1. De [oefen- en schietgebieden](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_oefen_schietgebieden/nld@2022-01-15), bedoeld in [artikel 7.67, aanhef en onder b, onder 1°, en onder c, onder 1°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-10-01&g=2026-10-01).
 
-2. De [drukbevaren delen van de zee](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_drukbevaren_delen/nld@2022-01-15), bedoeld in [artikel 7.67, aanhef en onder b, onder 2°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-10-01&g=2026-10-01).
+2. De [drukbevaren delen van de zee](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_drukbevaren_delen/nld@2026-10-01), bedoeld in [artikel 7.67, aanhef en onder b, onder 2°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-10-01&g=2026-10-01).
 
 3. De [aanloopgebieden](https://identifier.officielebekendmakingen.nl/join/id/regdata/mnre1034/2020/or_mijnbouwlocatieactiviteiten_NZ_aanloopgebieden/nld@2020-10-01), bedoeld in [artikel 7.67, aanhef en onder c, onder 2°, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.67), zijn de locaties waarvan de geometrische begrenzing is vastgelegd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&bijlage=III&z=2026-10-01&g=2026-10-01).
 

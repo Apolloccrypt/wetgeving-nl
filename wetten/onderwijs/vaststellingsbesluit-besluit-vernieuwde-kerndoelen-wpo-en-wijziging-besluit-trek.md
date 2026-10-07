@@ -9,7 +9,7 @@ laatste_update: 2006-03-22
 status: geldig
 toestand: 2006-03-22
 bron: "https://wetten.overheid.nl/BWBR0018843"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 8 oktober 2005, houdende de vaststelling van vernieuwde kerndoelen voor het basisonderwijs (Besluit vernieuwde kerndoelen WPO) en houdende wijziging van het Besluit trekkende bevolking WPO in verband met de vaststelling van vernieuwde kerndoelen voor het basisonderwijs

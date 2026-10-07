@@ -8,7 +8,7 @@ laatste_update: 2005-08-17
 status: geldig
 toestand: 2005-08-17
 bron: "https://wetten.overheid.nl/BWBR0018631"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Volwasseneneducatie en beroepsonderwijs over de periode 1945-2004

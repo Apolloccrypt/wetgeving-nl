@@ -9,7 +9,7 @@ laatste_update: 2006-04-01
 status: geldig
 toestand: 2006-04-01
 bron: "https://wetten.overheid.nl/BWBR0019392"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 22 december 2005 tot wijziging van de Wet op de rechtsbijstand houdende aanpassing van het inkomens- en vermogensbegrip aan het fiscale inkomens- en vermogensbegrip

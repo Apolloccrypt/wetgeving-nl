@@ -9,7 +9,7 @@ laatste_update: 2005-10-15
 status: geldig
 toestand: 2005-10-15
 bron: "https://wetten.overheid.nl/BWBR0018734"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 8 september 2005 tot aanpassing van enkele onderdelen van het Wetboek van Burgerlijke Rechtsvordering en enige andere wetten in verband met het nieuwe procesrecht

@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019284"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 15 december 2005, houdende wijziging van de Wet bodembescherming en enkele andere wetten in verband met wijzigingen in het beleid inzake bodemsaneringen

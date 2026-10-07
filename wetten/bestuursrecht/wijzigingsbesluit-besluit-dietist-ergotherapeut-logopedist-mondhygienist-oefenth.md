@@ -9,7 +9,7 @@ laatste_update: 2006-05-24
 status: geldig
 toestand: 2006-05-24
 bron: "https://wetten.overheid.nl/BWBR0019595"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 21 februari 2006, houdende wijziging van het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut en van het Besluit functionele zelfstandigheid (wijziging opleiding en deskundigheidsgebied mondhygiënist)

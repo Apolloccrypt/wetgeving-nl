@@ -8,7 +8,7 @@ laatste_update: 2006-05-10
 status: geldig
 toestand: 2006-05-10
 bron: "https://wetten.overheid.nl/BWBR0019621"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst archiefbescheiden Provinciale Organen 2005

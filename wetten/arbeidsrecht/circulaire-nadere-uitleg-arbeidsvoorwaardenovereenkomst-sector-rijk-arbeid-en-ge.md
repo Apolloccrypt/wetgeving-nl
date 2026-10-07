@@ -8,7 +8,7 @@ laatste_update: 2006-06-08
 status: geldig
 toestand: 2006-06-08
 bron: "https://wetten.overheid.nl/BWBR0019911"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Circulaire Nadere uitleg Arbeidsvoorwaardenovereenkomst sector Rijk (Arbeid en Gezondheid)

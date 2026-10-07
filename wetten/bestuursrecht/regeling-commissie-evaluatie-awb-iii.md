@@ -9,7 +9,7 @@ laatste_update: 2006-07-20
 status: geldig
 toestand: 2006-07-20
 bron: "https://wetten.overheid.nl/BWBR0020026"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 juni 2006, nr. 5429821/06/6, houdende instelling van de Commissie Evaluatie Awb III

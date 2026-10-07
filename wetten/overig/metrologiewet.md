@@ -9,7 +9,7 @@ laatste_update: 2023-04-19
 status: geldig
 toestand: 2023-04-19
 bron: "https://wetten.overheid.nl/BWBR0019517"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 2 februari 2006, houdende regels omtrent meeteenheden en omtrent het in de handel brengen en het gebruik van meetinstrumenten (Metrologiewet)

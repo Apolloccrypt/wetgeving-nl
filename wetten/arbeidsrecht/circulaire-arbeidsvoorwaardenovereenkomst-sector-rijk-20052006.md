@@ -8,7 +8,7 @@ laatste_update: 2006-03-16
 status: geldig
 toestand: 2006-03-16
 bron: "https://wetten.overheid.nl/BWBR0019619"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Circulaire Arbeidsvoorwaardenovereenkomst sector Rijk 2005–2006

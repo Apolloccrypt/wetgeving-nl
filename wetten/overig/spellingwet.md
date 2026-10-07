@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0018784"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 15 september 2005, houdende regels over de verplichting om bij de overheidsorganen, bij de uit de openbare kas bekostigde onderwijsinstellingen, alsmede bij de examens waarvoor wettelijke voorschriften zijn vastgesteld, de schrijfwijze van de Nederlandse taal te volgen, waartoe de Nederlandse Taalunie beslist (Spellingwet)

@@ -9,7 +9,7 @@ laatste_update: 2006-06-16
 status: geldig
 toestand: 2006-06-16
 bron: "https://wetten.overheid.nl/BWBR0019916"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 29 mei 2006 tot samenvoeging van de gemeenten Binnenmaas en 's-Gravendeel

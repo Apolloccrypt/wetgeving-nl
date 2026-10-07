@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0019795"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 26 april 2006 tot regeling van een onafhankelijke uitoefening van risicobeoordeling door de Voedsel en Waren Autoriteit (Wet onafhankelijke risicobeoordeling Voedsel en Waren Autoriteit)

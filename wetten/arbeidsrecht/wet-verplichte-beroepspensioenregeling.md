@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0018831"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 6 oktober 2005, houdende nieuwe regeling voor verplichte deelneming in een beroepspensioenregeling (Wet verplichte beroepspensioenregeling)

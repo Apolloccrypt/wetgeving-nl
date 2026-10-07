@@ -9,7 +9,7 @@ laatste_update: 2006-04-28
 status: geldig
 toestand: 2006-04-28
 bron: "https://wetten.overheid.nl/BWBR0019781"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit instelling van het Strategisch Overleg Vitale Infrastructuur

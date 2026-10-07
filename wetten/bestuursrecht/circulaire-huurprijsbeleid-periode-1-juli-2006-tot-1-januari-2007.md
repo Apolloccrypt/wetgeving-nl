@@ -8,7 +8,7 @@ laatste_update: 2006-07-01
 status: geldig
 toestand: 2006-07-01
 bron: "https://wetten.overheid.nl/BWBR0019760"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Circulaire Huurprijsbeleid periode 1 juli 2006 tot 1 januari 2007

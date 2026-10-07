@@ -9,7 +9,7 @@ laatste_update: 2006-07-01
 status: geldig
 toestand: 2006-07-01
 bron: "https://wetten.overheid.nl/BWBR0020028"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 29 juni 2006 tot wijziging van de Uitvoeringswet huurprijzen woonruimte en van de artikelen 252 en 253 van Boek 7 van het Burgerlijk Wetboek (eenzijdige legesheffing)

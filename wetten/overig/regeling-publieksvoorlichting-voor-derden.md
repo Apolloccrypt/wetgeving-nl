@@ -9,7 +9,7 @@ laatste_update: 2010-04-29
 status: geldig
 toestand: 2010-04-29
 bron: "https://wetten.overheid.nl/BWBR0019219"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister-President, Minister van Algemene Zaken van 9 december 2005, nr. 05M480227, houdende toepassing van Aanwijzing 5 van de Aanwijzingen voor het verrichten van marktactiviteiten door de rijksdienst (Stcrt. 1998, nr. 95) in verband met uitbreiding van de diensten van de Postbus 51 Informatiedienst ten behoeve van derden

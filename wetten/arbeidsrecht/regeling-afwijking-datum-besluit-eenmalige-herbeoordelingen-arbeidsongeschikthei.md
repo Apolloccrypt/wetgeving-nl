@@ -9,7 +9,7 @@ laatste_update: 2007-07-01
 status: geldig
 toestand: 2007-07-01
 bron: "https://wetten.overheid.nl/BWBR0020065"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 juli 2006, nr. SV/WV/06/56472, houdende een regeling tot afwijking van een datum genoemd in artikel 1, eerste lid, onderdeel b, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten (Regeling afwijking datum Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswet)

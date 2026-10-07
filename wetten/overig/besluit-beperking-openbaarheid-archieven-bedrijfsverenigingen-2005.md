@@ -8,7 +8,7 @@ laatste_update: 2005-11-11
 status: geldig
 toestand: 2005-11-11
 bron: "https://wetten.overheid.nl/BWBR0018920"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit beperking openbaarheid archieven bedrijfsverenigingen 2005

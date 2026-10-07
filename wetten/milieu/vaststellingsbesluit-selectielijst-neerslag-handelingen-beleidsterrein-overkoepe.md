@@ -8,7 +8,7 @@ laatste_update: 2006-06-10
 status: geldig
 toestand: 2006-06-10
 bron: "https://wetten.overheid.nl/BWBR0019704"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Overkoepelend beleid Verkeer en Waterstaat vanaf 1945 (Minister van Financiën)

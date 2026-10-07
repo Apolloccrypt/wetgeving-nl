@@ -8,7 +8,7 @@ laatste_update: 2006-07-01
 status: geldig
 toestand: 2006-07-01
 bron: "https://wetten.overheid.nl/BWBR0020013"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Circulaire Aanpassing huurwaarde dienstwoningen per 1 juli 2006

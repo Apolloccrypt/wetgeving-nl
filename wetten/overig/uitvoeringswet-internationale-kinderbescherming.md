@@ -9,7 +9,7 @@ laatste_update: 2022-10-01
 status: geldig
 toestand: 2022-10-01
 bron: "https://wetten.overheid.nl/BWBR0019574"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 16 februari 2006 tot uitvoering van het op 19 oktober 1996 te ’s-Gravenhage tot stand gekomen verdrag inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen alsmede van de verordening (EG) nr. 2201/2003 van de Raad van de Europese Unie van 27 november 2003 betreffende de bevoegdheid en de erkenning van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en tot intrekking van Verordening (EG) nr. 1347/2000 (PbEU L 338), en wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering en de Uitvoeringswet EG-executieverordening (Uitvoeringswet internationale kinderbescherming)

@@ -9,7 +9,7 @@ laatste_update: 2006-07-19
 status: geldig
 toestand: 2006-07-19
 bron: "https://wetten.overheid.nl/BWBR0019952"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 juni 2006, tot instelling van de Commissie vangnet lumpsum

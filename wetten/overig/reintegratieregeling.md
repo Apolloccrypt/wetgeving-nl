@@ -9,7 +9,7 @@ laatste_update: 2026-05-02
 status: geldig
 toestand: 2026-05-02
 bron: "https://wetten.overheid.nl/BWBR0019297"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/R&S/2005/102050, houdende regels met betrekking tot reïntegratie (Reïntegratieregeling)

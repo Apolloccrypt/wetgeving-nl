@@ -9,7 +9,7 @@ laatste_update: 2008-07-27
 status: geldig
 toestand: 2008-07-27
 bron: "https://wetten.overheid.nl/BWBR0019597"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking van 22 februari 2006, nr. DJZ/BR/0201-2006, tot omzetting van op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken vastgestelde beleidsregels en subsidieplafonds met het oog op subsidieverlening op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006

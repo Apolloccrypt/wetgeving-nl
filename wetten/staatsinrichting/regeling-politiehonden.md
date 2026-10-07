@@ -8,7 +8,7 @@ laatste_update: 2020-05-15
 status: geldig
 toestand: 2020-05-15
 bron: "https://wetten.overheid.nl/BWBR0019728"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling politiehonden

@@ -9,7 +9,7 @@ laatste_update: 2006-03-01
 status: geldig
 toestand: 2006-03-01
 bron: "https://wetten.overheid.nl/BWBR0019406"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit houdende vaststelling van een vergoeding voor de leden van de Adviescommissie subsidieregeling prijsvraag verbetering architectuur bestaande bedrijventerreinen

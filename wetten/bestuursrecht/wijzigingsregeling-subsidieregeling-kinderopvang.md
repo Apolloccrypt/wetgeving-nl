@@ -9,7 +9,7 @@ laatste_update: 2006-02-01
 status: geldig
 toestand: 2006-02-01
 bron: "https://wetten.overheid.nl/BWBR0019475"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 januari 2006, Directie Arbeidsverhoudingen, nr. AV/A&Z/2005/86698, houdende wijziging van de Subsidieregeling kinderopvang

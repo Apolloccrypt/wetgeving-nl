@@ -9,7 +9,7 @@ laatste_update: 2005-10-28
 status: geldig
 toestand: 2005-10-28
 bron: "https://wetten.overheid.nl/BWBR0018952"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 27 oktober 2005, Directie Arbeidsmarkt, nr. AM/ESM/2005/87523, houdende vaststelling van het subsidieplafond voor de Subsidieregeling ESF-3

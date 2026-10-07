@@ -8,7 +8,7 @@ laatste_update: 2006-06-27
 status: geldig
 toestand: 2006-06-27
 bron: "https://wetten.overheid.nl/BWBR0019877"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling film HGIS-cultuurmiddelen mei 2006

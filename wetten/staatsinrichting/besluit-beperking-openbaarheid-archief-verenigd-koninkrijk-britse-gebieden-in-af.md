@@ -9,7 +9,7 @@ laatste_update: 2006-02-15
 status: geldig
 toestand: 2006-02-15
 bron: "https://wetten.overheid.nl/BWBR0019547"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 7 februari 2006, nr. DDI/ST/reg 004/2005, houdende beperking van de openbaarheid van het archief van het Verenigd Koninkrijk/Britse gebieden in Afrika/het consulaat-generaal Nairobi 1948–1954, het consulaat-generaal Dar Es Salaam 1927–1950 en van de consulaten te Rhodesië (Bulawayo en Salisbury) (1909) 1910–1954

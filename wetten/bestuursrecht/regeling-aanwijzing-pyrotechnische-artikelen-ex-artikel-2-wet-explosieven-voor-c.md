@@ -9,7 +9,7 @@ laatste_update: 2005-09-14
 status: geldig
 toestand: 2005-09-14
 bron: "https://wetten.overheid.nl/BWBR0018720"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 september 2005, nr. DJZ2005179518, houdende aanwijzing van pyrotechnische artikelen als bedoeld in artikel 2, eerste lid, onderdeel b, aanhef en onder 2°, van de Wet explosieven voor civiel gebruik

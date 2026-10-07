@@ -9,7 +9,7 @@ laatste_update: 2012-09-30
 status: geldig
 toestand: 2012-09-30
 bron: "https://wetten.overheid.nl/BWBR0019209"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 8 december 2005, houdende regels met betrekking tot de werkzaamheden en procedures van de Raad voor plantenrassen (Besluit werkzaamheden Raad voor plantenrassen)

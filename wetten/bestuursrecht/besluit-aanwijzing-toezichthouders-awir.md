@@ -9,7 +9,7 @@ laatste_update: 2006-02-22
 status: geldig
 toestand: 2006-02-22
 bron: "https://wetten.overheid.nl/BWBR0019563"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Staatssecretaris van Financiën, in overeenstemming met de Minister van Sociale Zaken en Werkgelegenheid, de Minister van Volksgezondheid, Welzijn en Sport en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 10 februari 2006, nr. DGB2006/556M, houdende aanwijzing van ambtenaren belast met het toezicht als bedoeld in artikel 43 van de Algemene wet inkomensafhankelijke regelingen (Besluit aanwijzing toezichthouders Awir)

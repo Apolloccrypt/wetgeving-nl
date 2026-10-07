@@ -9,7 +9,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0019731"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 5 april 2006 tot uitvoering van artikel 10 van Richtlijn 2004/25/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende het openbaar overnamebod (Besluit artikel 10 overnamerichtlijn)

@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0019741"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Justitie van 8 april 2006, nr. 5403085/05/DJI, houdende bepalingen met betrekking tot de toelating en weigering van bezoek en beperkingen inzake het telefoonverkeer (Regeling toelating en weigering bezoek en beperking telefooncontacten penitentiaire inrichtingen)

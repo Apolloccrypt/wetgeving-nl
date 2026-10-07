@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0018846"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 10 oktober 2005, nr. Z/F-2620417, houdende vaststelling van de standaardpremie 2006 (Regeling vaststelling standaardpremie 2006)

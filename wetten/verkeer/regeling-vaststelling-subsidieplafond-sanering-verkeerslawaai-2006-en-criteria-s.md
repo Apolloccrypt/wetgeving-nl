@@ -9,7 +9,7 @@ laatste_update: 2006-07-20
 status: geldig
 toestand: 2006-07-20
 bron: "https://wetten.overheid.nl/BWBR0019134"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 december 2005, LMV 2005 208198, houdende vaststelling van het subsidieplafond sanering verkeerslawaai 2006 en criteria voor subsidieverlening

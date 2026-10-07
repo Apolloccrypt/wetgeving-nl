@@ -9,7 +9,7 @@ laatste_update: 2005-09-01
 status: geldig
 toestand: 2005-09-01
 bron: "https://wetten.overheid.nl/BWBR0018644"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling tot wijziging van de Regeling model document voor bromfietsen in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen

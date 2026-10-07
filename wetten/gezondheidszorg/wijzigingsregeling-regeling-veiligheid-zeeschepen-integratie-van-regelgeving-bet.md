@@ -9,7 +9,7 @@ laatste_update: 2006-07-16
 status: geldig
 toestand: 2006-07-16
 bron: "https://wetten.overheid.nl/BWBR0020058"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wijziging van de Regeling veiligheid zeeschepen in verband met de integratie van de regelgeving betreffende de medische uitrusting aan boord van zeeschepen en vissersvaartuigen

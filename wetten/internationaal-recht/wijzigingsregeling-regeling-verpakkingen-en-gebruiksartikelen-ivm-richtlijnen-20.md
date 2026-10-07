@@ -9,7 +9,7 @@ laatste_update: 2006-11-19
 status: geldig
 toestand: 2006-11-19
 bron: "https://wetten.overheid.nl/BWBR0019946"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 juni 2006, nr. VGP/PSL 2686332, houdende een wijziging van de Regeling Verpakkingen- en gebruiksartikelen (Warenwet) in verband met richtlijnen nr. 2005/31/EG en 2005/79/EG

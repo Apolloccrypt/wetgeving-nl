@@ -9,7 +9,7 @@ laatste_update: 2006-10-26
 status: geldig
 toestand: 2006-10-26
 bron: "https://wetten.overheid.nl/BWBR0019962"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Archiefbeheersregeling voor het college voor de toelating van bestrijdingsmiddelen 2006

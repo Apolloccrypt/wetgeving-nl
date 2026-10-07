@@ -9,7 +9,7 @@ laatste_update: 2007-09-05
 status: geldig
 toestand: 2007-09-05
 bron: "https://wetten.overheid.nl/BWBR0019832"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 7 mei 2006, nr. WJZ/2006/4662 (8175), houdende regels inzake het agentschap Nationaal Archief (Statuut agentschap Nationaal Archief)

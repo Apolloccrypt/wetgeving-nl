@@ -9,7 +9,7 @@ laatste_update: 2026-05-02
 status: geldig
 toestand: 2026-05-02
 bron: "https://wetten.overheid.nl/BWBR0019152"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 2 december 2005 tot vaststelling van een algemene maatregel van bestuur houdende regels met betrekking tot reïntegratie (Reïntegratiebesluit)

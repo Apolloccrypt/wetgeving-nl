@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0019141"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 1 december 2005, houdende wijziging van enkele belastingwetten in verband met een herziening van de behandeling van de omzetting en kwijtschelding van afgewaardeerde vorderingen en een aanpassing van de regeling voor afwaarderingsverliezen van deelnemingen

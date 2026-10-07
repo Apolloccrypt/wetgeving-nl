@@ -8,7 +8,7 @@ laatste_update: 2006-05-04
 status: geldig
 toestand: 2006-05-04
 bron: "https://wetten.overheid.nl/BWBR0019786"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Douanerechten/Indeling in de goederennomenclatuur van bepaalde LCD-monitoren

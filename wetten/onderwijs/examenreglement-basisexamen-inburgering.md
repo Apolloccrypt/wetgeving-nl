@@ -9,7 +9,7 @@ laatste_update: 2022-12-16
 status: geldig
 toestand: 2022-12-16
 bron: "https://wetten.overheid.nl/BWBR0019569"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 14 februari 2006, nr. 5403488/06, tot vaststelling van het examenreglement voor het basisexamen inburgering (Examenreglement basisexamen inburgering)

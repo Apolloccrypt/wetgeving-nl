@@ -9,7 +9,7 @@ laatste_update: 2006-02-15
 status: geldig
 toestand: 2006-02-15
 bron: "https://wetten.overheid.nl/BWBR0019542"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 7 februari 2006, nr. DDI/ST/reg 008/2005, houdende beperking van de openbaarheid van het archief van het consulaat(-generaal) te Monrovia (Liberia) 1940–1954

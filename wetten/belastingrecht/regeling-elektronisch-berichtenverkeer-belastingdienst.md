@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-30
 toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0037127"
-opgehaald: 2026-10-06
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 23 oktober 2015, nr. DB/2015/366M houdende regels voor het elektronische berichtenverkeer met de Belastingdienst (Regeling elektronisch berichtenverkeer Belastingdienst)

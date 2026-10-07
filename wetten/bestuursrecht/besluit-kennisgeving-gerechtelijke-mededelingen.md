@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0018895"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 17 oktober 2005, houdende nadere regels betreffende de kennisgeving van gerechtelijke mededelingen in strafzaken (Besluit kennisgeving gerechtelijke mededelingen)

@@ -9,7 +9,7 @@ laatste_update: 2020-12-09
 status: geldig
 toestand: 2020-12-09
 bron: "https://wetten.overheid.nl/BWBR0019227"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 december 2005, nr. VGP/VL 2642635, houdende aanwijzing van personen in dienst van het COKZ en het CPE als toezichthouder op de bij of krachtens de Warenwet gestelde regels (Warenwetregeling aanwijzing en werkwijze toezichthouders COKZ en CPE)

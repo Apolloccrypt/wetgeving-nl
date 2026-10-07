@@ -8,7 +8,7 @@ laatste_update: 2006-05-01
 status: geldig
 toestand: 2006-05-01
 bron: "https://wetten.overheid.nl/BWBR0019604"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Bijdragebeschikking Professionaliseringsfonds Burgemeesters 2006–2007 Nederlands Genootschap van Burgemeesters

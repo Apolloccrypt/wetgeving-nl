@@ -9,7 +9,7 @@ laatste_update: 2005-10-31
 status: geldig
 toestand: 2005-10-31
 bron: "https://wetten.overheid.nl/BWBR0018933"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 26 oktober 2005, nr. DGM/SAS/2005183872, ex artikel 4, eerste lid, van het Kennisgevingsbesluit Wet milieugevaarlijke stoffen

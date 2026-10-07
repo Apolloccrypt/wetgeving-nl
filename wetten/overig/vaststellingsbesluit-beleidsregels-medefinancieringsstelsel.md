@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019362"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 21 december 2005, nr. DJZ/BR/1308-2005, tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Beleidsregels Medefinancieringsstelsel)

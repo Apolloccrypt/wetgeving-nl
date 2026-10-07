@@ -9,7 +9,7 @@ laatste_update: 2020-09-01
 status: geldig
 toestand: 2020-09-01
 bron: "https://wetten.overheid.nl/BWBR0019305"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/R&S/05/99376, houdende regels met betrekking tot de vrijstelling van verplichtingen genoemd in de Werkloosheidswet en de Wet werk en inkomen naar arbeid (Regeling vrijstelling verplichtingen WW en Wet WIA)

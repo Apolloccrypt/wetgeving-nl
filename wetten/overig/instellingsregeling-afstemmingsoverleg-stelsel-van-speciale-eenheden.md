@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0020016"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie van 28 juni 2006, nr. 5427438/06/NCTb, tot instelling van een Afstemmingsoverleg voor het stelsel van speciale eenheden (Instellingsregeling Afstemmingsoverleg stelsel van speciale eenheden)

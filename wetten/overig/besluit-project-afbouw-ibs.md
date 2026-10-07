@@ -8,7 +8,7 @@ laatste_update: 2006-07-06
 status: geldig
 toestand: 2006-07-06
 bron: "https://wetten.overheid.nl/BWBR0020005"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit project afbouw IBS

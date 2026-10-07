@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0019288"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 15 december 2005, houdende wijziging van het Uitvoeringsbesluit omzetbelasting 1968 in verband met een herziening van de vrijstelling voor sociale en culturele prestaties alsmede met een aanpassing op enkele onderdelen

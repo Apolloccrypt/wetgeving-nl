@@ -8,7 +8,7 @@ laatste_update: 2005-11-03
 status: geldig
 toestand: 2005-11-03
 bron: "https://wetten.overheid.nl/BWBR0018647"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen Koninklijke Notariële Beroepsorganisatie beleidsterrein Notariaat over de periode na 1975

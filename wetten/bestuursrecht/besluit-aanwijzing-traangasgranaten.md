@@ -8,7 +8,7 @@ laatste_update: 2005-09-23
 status: geldig
 toestand: 2005-09-23
 bron: "https://wetten.overheid.nl/BWBR0018738"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit aanwijzing traangasgranaten

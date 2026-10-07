@@ -9,7 +9,7 @@ laatste_update: 2009-11-15
 status: geldig
 toestand: 2009-11-15
 bron: "https://wetten.overheid.nl/BWBR0018822"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 3 oktober 2005, houdende regels met betrekking tot de subsidiëring ten behoeve van de bouw van woningen in stedelijke regio’s gedurende de periode 1 januari 2005 – 31 december 2009 (Besluit locatiegebonden subsidies 2005), en tot wijziging van het Besluit woninggebonden subsidies 1995 (vervallen legesvrijdom voor toegelaten instellingen)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0019122"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 28 november 2005, houdende regels met betrekking tot het gebruik van organische oplosmiddelen in verven en vernissen en producten voor het overspuiten van voertuigen en tot wijziging van het Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer (Besluit organische oplosmiddelen in verven en vernissen Wms)

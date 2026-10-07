@@ -9,7 +9,7 @@ laatste_update: 2013-12-15
 status: geldig
 toestand: 2013-12-15
 bron: "https://wetten.overheid.nl/BWBR0019584"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende regels met betrekking tot de toekenning van een eenmalige specifieke uitkering voor de uitvoering van projecten tot het opheffen of verminderen van knelpunten rondom het spoor (Regeling eenmalige uitkering spoorse doorsnijdingen)

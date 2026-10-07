@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0020074"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 7 juli 2006 tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met de buitengerechtelijke afdoening van strafbare feiten (Wet OM-afdoening)

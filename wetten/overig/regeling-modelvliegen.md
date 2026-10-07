@@ -9,7 +9,7 @@ laatste_update: 2021-04-22
 status: geldig
 toestand: 2021-04-22
 bron: "https://wetten.overheid.nl/BWBR0019147"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat van 2 december 2005, nr. HDJZ/LUV/2005-2297, Hoofddirectie Juridische Zaken, houdende nadere regels voor vluchten met een modelvliegtuig (Regeling modelvliegen)

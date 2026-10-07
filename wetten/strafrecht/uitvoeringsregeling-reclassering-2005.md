@@ -9,7 +9,7 @@ laatste_update: 2005-11-25
 status: geldig
 toestand: 2005-11-25
 bron: "https://wetten.overheid.nl/BWBR0019016"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Justitie van 9 november 2005, nr. DDS 5378751, houdende regels over de uitvoering van reclasseringswerkzaamheden (Uitvoeringsregeling reclassering 2005)

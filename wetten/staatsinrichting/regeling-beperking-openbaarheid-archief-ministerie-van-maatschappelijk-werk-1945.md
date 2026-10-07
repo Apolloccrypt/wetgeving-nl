@@ -9,7 +9,7 @@ laatste_update: 2006-02-25
 status: geldig
 toestand: 2006-02-25
 bron: "https://wetten.overheid.nl/BWBR0019553"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 februari 2006, nr. KICK 2655472, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van de Medisch Adviseur van het Ministerie van Maatschappelijk Werk over de periode 1945–1969

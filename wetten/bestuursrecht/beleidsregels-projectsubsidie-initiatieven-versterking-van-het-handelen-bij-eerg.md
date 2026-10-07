@@ -9,7 +9,7 @@ laatste_update: 2005-09-24
 status: geldig
 toestand: 2005-09-24
 bron: "https://wetten.overheid.nl/BWBR0018748"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister voor Vreemdelingenzaken en Integratie van 14 september 2005, nr. DDS 5373122 houdende de vaststelling van beleidsregels ter zake van de uitvoering van artikel 48s van de Wet Justitie-subsidies (Beleidsregels projectsubsidie initiatieven versterking van het handelen bij eergerelateerd geweld)

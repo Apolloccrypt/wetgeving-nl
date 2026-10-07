@@ -9,7 +9,7 @@ laatste_update: 2006-02-15
 status: geldig
 toestand: 2006-02-15
 bron: "https://wetten.overheid.nl/BWBR0019546"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 7 februari 2006, nr. DDI/ST/reg 001/2005, houdende beperking van de openbaarheid van het archief van de Nederlandse diplomatieke vertegenwoordiging (Militaire Missie en gezantschap) te Siam/Thailand (Bangkok) 1945–1954

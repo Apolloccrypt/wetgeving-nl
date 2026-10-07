@@ -9,7 +9,7 @@ laatste_update: 2011-12-20
 status: geldig
 toestand: 2011-12-20
 bron: "https://wetten.overheid.nl/BWBR0018686"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Justitie van 22 augustus 2005, houdende regeling van de werkzaamheden van de Inspectie voor de Sanctietoepassing (Regeling Inspectie voor de Sanctietoepassing)

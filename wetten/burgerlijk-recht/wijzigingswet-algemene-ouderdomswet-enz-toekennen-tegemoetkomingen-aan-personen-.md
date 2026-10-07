@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019385"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 22 december 2005 tot wijziging van de Algemene Ouderdomswet, Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet financiering sociale verzekeringen en de Wet op de huurtoeslag en enige andere wetten in verband met het toekennen van tegemoetkomingen aan personen die een uitkering ontvangen op grond van de Algemene Ouderdomswet of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en enkele aanpassingen in de berekening van de uitkeringen

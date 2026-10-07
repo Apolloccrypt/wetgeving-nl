@@ -9,7 +9,7 @@ laatste_update: 2006-12-01
 status: geldig
 toestand: 2006-12-01
 bron: "https://wetten.overheid.nl/BWBR0020033"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Justitie van 30 juni 2006, nr. 5429968/06/6, houdende verlening van machtiging aan de directeur algemene zaken en de directeur vaktechniek en beleid van de Koninklijke Notariële Beroepsorganisatie tot uitvoering van de taak, bedoeld artikel 1, tweede lid, van de Wet op het centraal testamentenregister

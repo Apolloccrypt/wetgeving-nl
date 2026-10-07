@@ -8,7 +8,7 @@ laatste_update: 2006-11-06
 status: geldig
 toestand: 2006-11-06
 bron: "https://wetten.overheid.nl/BWBR0019505"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Nadere regels subsidie

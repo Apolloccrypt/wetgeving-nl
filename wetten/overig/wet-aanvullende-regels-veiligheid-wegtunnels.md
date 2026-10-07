@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0019516"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 2 februari 2006, houdende regels met betrekking tot de veiligheid van voor het wegverkeer toegankelijke tunnels (Wet aanvullende regels veiligheid wegtunnels)

@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019071"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 16 november 2005 tot wijziging van het Wetboek van Strafrecht in verband met het vervallen van de verjaringstermijn voor de vervolging van moord en enkele andere misdrijven alsmede enige aanpassingen van de regeling van de verjaring en de stuiting van de verjaring en de regeling van de strafverjaringstermijn (opheffing verjaringstermijn bij zeer ernstige delicten)

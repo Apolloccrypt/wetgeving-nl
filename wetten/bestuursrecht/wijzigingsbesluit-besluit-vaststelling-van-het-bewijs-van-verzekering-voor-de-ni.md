@@ -9,7 +9,7 @@ laatste_update: 2005-09-01
 status: geldig
 toestand: 2005-09-01
 bron: "https://wetten.overheid.nl/BWBR0018623"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 23 juli 2005, houdende wijziging van het besluit van 16 september 1965, houdende vaststelling van het bewijs van verzekering voor de niet-kentekenplichtige motorrijtuigen en enkele regelen met betrekking tot het bewijs van vrijstelling (Stb. 414) in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen

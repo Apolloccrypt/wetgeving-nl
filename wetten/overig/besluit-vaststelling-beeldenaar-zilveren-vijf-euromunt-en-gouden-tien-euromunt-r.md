@@ -9,7 +9,7 @@ laatste_update: 2006-07-07
 status: geldig
 toestand: 2006-07-07
 bron: "https://wetten.overheid.nl/BWBR0020014"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 27 juni 2006, houdende de vaststelling van de beeldenaar van de zilveren vijf-euromunt en van de gouden tien-euromunt die worden uitgegeven ter gelegenheid van het Rembrandtjaar

@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0019721"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling tot uitvoering van enige artikelen van de Luchtvaartwet inzake de vaststelling en afdracht van luchtvaartheffingen (Regeling luchtvaartheffingen)

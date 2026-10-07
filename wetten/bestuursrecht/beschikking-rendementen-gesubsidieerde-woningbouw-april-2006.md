@@ -8,7 +8,7 @@ laatste_update: 2006-06-01
 status: geldig
 toestand: 2006-06-01
 bron: "https://wetten.overheid.nl/BWBR0019752"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Beschikking rendementen gesubsidieerde woningbouw, april 2006

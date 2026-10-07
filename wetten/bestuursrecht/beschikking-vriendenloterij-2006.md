@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0019398"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Beschikking van de Minister van Justitie van 23 december 2005, nr. L.O. 730/0002/5393381, tot afgifte van de Beschikking Sponsorloterij

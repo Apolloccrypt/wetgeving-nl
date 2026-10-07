@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0018823"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 3 oktober 2005, houdende vaststelling van het Warenwetbesluit hygiëne van levensmiddelen

@@ -8,7 +8,7 @@ laatste_update: 2006-04-21
 status: geldig
 toestand: 2006-04-21
 bron: "https://wetten.overheid.nl/BWBR0019717"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Oorlogsgetroffenen vanaf 1947 (Pensioen- en Uitkeringsraad en taakvoorgangers)

@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0019919"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 29 mei 2006 tot vaststelling van regels met betrekking tot de bijzondere opsporingsdiensten en de instelling van het functioneel parket (Wet op de bijzondere opsporingsdiensten)

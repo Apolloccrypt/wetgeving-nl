@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0019727"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 3 april 2006, nr. DJZ/BR/0251-2006, van de Minister van Buitenlandse Zaken, tot vaststelling van een gedragslijn voor de beoordeling van buitenlandse documenten door middel van legalisatie en verificatie

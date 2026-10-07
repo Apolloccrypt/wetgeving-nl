@@ -9,7 +9,7 @@ laatste_update: 2026-06-04
 status: geldig
 toestand: 2026-06-04
 bron: "https://wetten.overheid.nl/BWBR0019388"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 22 december 2005, houdende regels die een geconcentreerde aanpak van grootstedelijke problemen mogelijk maken (Wet bijzondere maatregelen grootstedelijke problematiek)

@@ -9,7 +9,7 @@ laatste_update: 2022-11-25
 status: geldig
 toestand: 2022-11-25
 bron: "https://wetten.overheid.nl/BWBR0019836"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 8 mei 2006, houdende algemene eisen ten aanzien van het horen van personen per videoconferentie (Besluit videoconferentie)

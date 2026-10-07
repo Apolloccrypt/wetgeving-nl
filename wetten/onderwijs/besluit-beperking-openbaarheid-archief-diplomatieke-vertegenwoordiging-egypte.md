@@ -9,7 +9,7 @@ laatste_update: 2006-02-15
 status: geldig
 toestand: 2006-02-15
 bron: "https://wetten.overheid.nl/BWBR0019543"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 7 februari 2006, nr. DDI/ST/reg 007/2004, houdende beperking van de openbaarheid van het archief van het consulaat/consulaat-generaal/diplomatiek agentschap Caïro 1850–1949, gezantschap te Egypte (Caïro) (1881) 1921–1954 (1961) en het consulaat te Alexandrië 1895–1954

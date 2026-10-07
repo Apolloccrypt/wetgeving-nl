@@ -9,7 +9,7 @@ laatste_update: 2005-12-31
 status: geldig
 toestand: 2005-12-31
 bron: "https://wetten.overheid.nl/BWBR0019087"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststelling selectielijst neerslag handelingen Prophylaxefonds (Sociale Zekerheid 1931–1950) en rechtsopvolger Praeventiefonds (Volksgezondheidsubsidies 1950–1998)

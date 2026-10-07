@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0018667"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling, houdende nadere regels inzake de chauffeurspas en vakbekwaamheidseisen voor taxibestuurders die een taxidienst uitvoeren, wijziging van de Regeling vaststelling controledocument internationaal taxivervoer en van de Regeling vergoeding documenten Wet personenvervoer 2000 (Regeling taxibestuurders 2005)

@@ -9,7 +9,7 @@ laatste_update: 2006-06-15
 status: geldig
 toestand: 2006-06-15
 bron: "https://wetten.overheid.nl/BWBR0019936"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 juni 2006, nr. POI2006267349, tot instelling van het beraad voor Geo-Informatie (Instellingsbesluit GI-beraad)

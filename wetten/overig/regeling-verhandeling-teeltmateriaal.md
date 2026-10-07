@@ -9,7 +9,7 @@ laatste_update: 2024-12-05
 status: geldig
 toestand: 2024-12-05
 bron: "https://wetten.overheid.nl/BWBR0019437"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 januari 2006, nr. TRCJZ/2006/98, houdende regels met betrekking tot het in de handel brengen van teeltmateriaal (Regeling verhandeling teeltmateriaal)

@@ -9,7 +9,7 @@ laatste_update: 2006-05-21
 status: geldig
 toestand: 2006-05-21
 bron: "https://wetten.overheid.nl/BWBR0019834"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw besluit, d.d. 25 april 2006, tot verlening van mandaat, volmacht en machtiging aan de voorzitter en secretaris van het Productschap Tuinbouw (Besluit PT verlening mandaat, volmacht en machtiging voorzitter en secretaris Productschap Tuinbouw)

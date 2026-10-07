@@ -9,7 +9,7 @@ laatste_update: 2007-07-01
 status: geldig
 toestand: 2007-07-01
 bron: "https://wetten.overheid.nl/BWBR0019970"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 15 juni 2006 tot wijziging van de Wet op de jeugdzorg alsmede wijziging van het Wetboek van Burgerlijke Rechtsvordering

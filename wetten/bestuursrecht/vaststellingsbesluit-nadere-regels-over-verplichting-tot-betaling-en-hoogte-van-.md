@@ -9,7 +9,7 @@ laatste_update: 2009-03-10
 status: geldig
 toestand: 2009-03-10
 bron: "https://wetten.overheid.nl/BWBR0019594"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 21 februari 2006, houdende vaststelling van nadere regels over de verplichting tot betaling van het volgrecht en vaststelling van de hoogte van het volgrecht

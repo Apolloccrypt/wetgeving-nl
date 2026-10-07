@@ -8,7 +8,7 @@ laatste_update: 2006-01-05
 status: geldig
 toestand: 2006-01-05
 bron: "https://wetten.overheid.nl/BWBR0019404"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit premievaststelling vrijwillige verzekering WIA 2006

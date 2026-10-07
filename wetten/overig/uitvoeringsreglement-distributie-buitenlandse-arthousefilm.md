@@ -8,7 +8,7 @@ laatste_update: 2009-12-31
 status: geldig
 toestand: 2009-12-31
 bron: "https://wetten.overheid.nl/BWBR0019481"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Uitvoeringsreglement Distributie Buitenlandse Arthousefilm

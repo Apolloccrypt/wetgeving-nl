@@ -9,7 +9,7 @@ laatste_update: 2006-04-21
 status: geldig
 toestand: 2006-04-21
 bron: "https://wetten.overheid.nl/BWBR0019667"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 16 maart 2006, nr. 06.000754, houdende vaststelling van een selectielijst van de Hoge Raad van Adel op het beleidsterrein Cultuurbeheer over de periode 1945–2000

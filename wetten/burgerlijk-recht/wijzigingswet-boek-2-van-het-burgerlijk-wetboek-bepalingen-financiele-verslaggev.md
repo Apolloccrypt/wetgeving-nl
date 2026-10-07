@@ -9,7 +9,7 @@ laatste_update: 2006-06-01
 status: geldig
 toestand: 2006-06-01
 bron: "https://wetten.overheid.nl/BWBR0019682"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 22 maart 2006 tot wijziging van Boek 2 van het Burgerlijk Wetboek in verband met de wijziging van bepalingen voor de financiële verslaggeving door verzekeringsmaatschappijen

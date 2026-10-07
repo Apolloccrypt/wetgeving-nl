@@ -9,7 +9,7 @@ laatste_update: 2006-02-11
 status: geldig
 toestand: 2006-02-11
 bron: "https://wetten.overheid.nl/BWBR0019526"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 februari 2006, nr. KICK 2652266, houdende beperking van de openbaarheid van archiefbescheiden, opgenomen in het archief van het Ministerie van Maatschappelijk Werk over de periode 1952–1965

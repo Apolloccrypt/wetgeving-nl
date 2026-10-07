@@ -9,7 +9,7 @@ laatste_update: 2005-11-30
 status: geldig
 toestand: 2005-11-30
 bron: "https://wetten.overheid.nl/BWBR0018905"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 20 oktober 2005 tot wijziging van de Tracéwet (tweede tranche)

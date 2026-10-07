@@ -9,7 +9,7 @@ laatste_update: 2006-12-01
 status: geldig
 toestand: 2006-12-01
 bron: "https://wetten.overheid.nl/BWBR0019791"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 24 april 2006, houdende wijziging van het Vreemdelingenbesluit 2000 in verband met de implementatie van Richtlijn 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229)

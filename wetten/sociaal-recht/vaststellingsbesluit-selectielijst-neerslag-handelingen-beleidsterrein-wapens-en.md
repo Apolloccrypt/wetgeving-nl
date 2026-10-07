@@ -8,7 +8,7 @@ laatste_update: 2005-11-26
 status: geldig
 toestand: 2005-11-26
 bron: "https://wetten.overheid.nl/BWBR0018756"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Wapens en Munitie periode 1945-1997 (Minister van Sociale Zaken en Werkgelegenheid)

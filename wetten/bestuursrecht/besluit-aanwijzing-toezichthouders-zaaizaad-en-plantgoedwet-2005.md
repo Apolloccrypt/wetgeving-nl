@@ -9,7 +9,7 @@ laatste_update: 2023-06-07
 status: geldig
 toestand: 2023-06-07
 bron: "https://wetten.overheid.nl/BWBR0019436"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 januari 2006, nr. TRCJZ/2006/160, houdende aanwijzing toezichthouders Zaaizaad- en plantgoedwet 2005

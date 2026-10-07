@@ -8,7 +8,7 @@ laatste_update: 2005-12-07
 status: geldig
 toestand: 2005-12-07
 bron: "https://wetten.overheid.nl/BWBR0019185"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Inkomstenbelasting, vennootschapsbelasting, willekeurige afschrijving

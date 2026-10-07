@@ -8,7 +8,7 @@ laatste_update: 2005-08-21
 status: geldig
 toestand: 2005-08-21
 bron: "https://wetten.overheid.nl/BWBR0018632"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen Koninklijk Onderwijsfonds voor de Scheepvaart, beleidsterrein Volwasseneneducatie en beroepsonderwijs over de periode vanaf 1996

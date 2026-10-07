@@ -9,7 +9,7 @@ laatste_update: 2025-12-09
 status: geldig
 toestand: 2025-12-09
 bron: "https://wetten.overheid.nl/BWBR0019031"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 9 november 2005, houdende regels ter uitvoering van de Meststoffenwet (Uitvoeringsbesluit Meststoffenwet)

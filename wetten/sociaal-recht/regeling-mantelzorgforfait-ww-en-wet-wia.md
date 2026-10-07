@@ -9,7 +9,7 @@ laatste_update: 2013-06-06
 status: geldig
 toestand: 2013-06-06
 bron: "https://wetten.overheid.nl/BWBR0020032"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 30 juni 2006, Directie SV/WV/2006/47395, tot aanwijzing van kalenderjaren die in aanmerking genomen zullen worden voor het mantelzorgforfait in de Werkloosheidswet en de Wet werk en inkomen naar arbeidsvermogen (Regeling mantelzorgforfait WW en Wet WIA)

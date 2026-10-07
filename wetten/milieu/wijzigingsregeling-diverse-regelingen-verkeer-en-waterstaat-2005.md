@@ -9,7 +9,7 @@ laatste_update: 2005-12-03
 status: geldig
 toestand: 2005-12-03
 bron: "https://wetten.overheid.nl/BWBR0019110"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van 24 november 2005, nr. HDJZ/SCH/2005-2175, Hoofddirectie Juridische Zaken, houdende wijziging van enkele regelingen in verband met het overdragen van publieke taken en bevoegdheden op het gebied van de verkeersveiligheid te water

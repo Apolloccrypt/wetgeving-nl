@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0018983"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 3 november 2005, houdende uitvoering van enige bepalingen van de Wet toelating zorginstellingen (Uitvoeringsbesluit WTZi)

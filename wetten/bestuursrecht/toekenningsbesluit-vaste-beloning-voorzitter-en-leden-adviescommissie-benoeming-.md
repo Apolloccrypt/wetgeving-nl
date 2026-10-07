@@ -9,7 +9,7 @@ laatste_update: 2005-09-28
 status: geldig
 toestand: 2005-09-28
 bron: "https://wetten.overheid.nl/BWBR0018725"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 5 september 2005, houdende de toekenning van een vaste beloning aan de voorzitter en leden van de onafhankelijke adviescommissie Benoeming raad van toezicht NOS

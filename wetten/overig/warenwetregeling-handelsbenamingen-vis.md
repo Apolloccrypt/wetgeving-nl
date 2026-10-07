@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0019099"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 november 2005, nr. VGP/VL 2637022, houdende de Warenwetregeling handelsbenamingen vis

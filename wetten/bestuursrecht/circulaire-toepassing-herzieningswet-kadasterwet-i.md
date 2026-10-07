@@ -8,7 +8,7 @@ laatste_update: 2005-09-01
 status: geldig
 toestand: 2005-09-01
 bron: "https://wetten.overheid.nl/BWBR0018682"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Circulaire toepassing Herzieningswet Kadasterwet I

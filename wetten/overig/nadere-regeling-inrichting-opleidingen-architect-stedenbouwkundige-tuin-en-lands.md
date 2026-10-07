@@ -9,7 +9,7 @@ laatste_update: 2016-09-02
 status: geldig
 toestand: 2016-09-02
 bron: "https://wetten.overheid.nl/BWBR0019763"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, M. van der Laan, van 14 april 2006, nr. DJZ2006249520, Directie Juridische Zaken, Afdeling Wetgeving, houdende nadere regels over de te geven inrichting aan de opleidingen tot architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect (Nadere regeling inrichting opleidingen architect, stedenbouwkundige, tuin- en landschapsarchitect en interieurarchitect)

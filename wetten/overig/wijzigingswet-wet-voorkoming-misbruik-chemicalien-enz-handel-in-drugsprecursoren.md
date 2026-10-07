@@ -9,7 +9,7 @@ laatste_update: 2006-02-22
 status: geldig
 toestand: 2006-02-22
 bron: "https://wetten.overheid.nl/BWBR0019523"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 2 februari 2006 tot wijziging van de Wet voorkoming misbruik chemicaliën en de Wet op de economische delicten ter uitvoering van een drietal EG-verordeningen inzake handel in drugsprecursoren

@@ -9,7 +9,7 @@ laatste_update: 2006-02-21
 status: geldig
 toestand: 2006-02-21
 bron: "https://wetten.overheid.nl/BWBR0019576"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Aanwijzing van de Minister van Justitie van 16 februari 2006, op grond van artikel 8 Vrijstellingsregeling afwijkend gebruik frequentieruimte Justitie

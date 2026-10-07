@@ -9,7 +9,7 @@ laatste_update: 2025-06-03
 status: geldig
 toestand: 2025-06-03
 bron: "https://wetten.overheid.nl/BWBR0019074"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 november 2005, nr. VGP/P&L 2626666, houdende regels betreffende algemene productveiligheid

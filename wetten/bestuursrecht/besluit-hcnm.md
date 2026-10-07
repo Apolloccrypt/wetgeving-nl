@@ -9,7 +9,7 @@ laatste_update: 2006-06-21
 status: geldig
 toestand: 2006-06-21
 bron: "https://wetten.overheid.nl/BWBR0019883"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 19 mei 2006, houdende aanvulling van de privileges en immuniteiten geregeld in de Wet HCNM (Besluit HCNM)

@@ -9,7 +9,7 @@ laatste_update: 2006-03-01
 status: geldig
 toestand: 2006-03-01
 bron: "https://wetten.overheid.nl/BWBR0019112"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 24 november 2005 tot wijziging van de Wet medisch-wetenschappelijk onderzoek met mensen en de Wet op de Geneesmiddelenvoorziening ter implementatie van richtlijn nr. 2001/20/EG inzake de toepassing van de goede klinische praktijken bij de uitvoering van klinische proeven met geneesmiddelen voor menselijk gebruik (Wetenschappelijk onderzoek met geneesmiddelen)

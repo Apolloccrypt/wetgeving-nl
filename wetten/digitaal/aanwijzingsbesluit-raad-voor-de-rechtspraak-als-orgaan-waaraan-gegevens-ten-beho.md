@@ -9,7 +9,7 @@ laatste_update: 2005-12-01
 status: geldig
 toestand: 2005-12-01
 bron: "https://wetten.overheid.nl/BWBR0019113"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 24 november 2005, houdende de aanwijzing van de Raad voor de rechtspraak als het orgaan waaraan de gegevens ten behoeve van het register als bedoeld in artikel 19a, eerste lid, en het register als bedoeld in artikel 222b, eerste lid, van de Faillissementswet dienen te worden doorgegeven

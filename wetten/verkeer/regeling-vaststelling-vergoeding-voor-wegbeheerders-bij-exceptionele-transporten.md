@@ -9,7 +9,7 @@ laatste_update: 2013-04-01
 status: geldig
 toestand: 2013-04-01
 bron: "https://wetten.overheid.nl/BWBR0019013"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van 9 november 2005, Hoofddirectie Juridische Zaken, nr. HDJZ/AWW/2005-2156 tot vaststelling van de hoogte van de vergoeding die wegbeheerders ingevolge artikel 149b, zevende lid, van de Wegenverkeerswet 1994 in het kader van de ontheffingverlening voor exceptionele transporten van de Dienst Wegverkeer ontvangen (Regeling vaststelling vergoeding voor wegbeheerders bij exceptionele transporten)

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-05-27
 toestand: 2006-05-24
 bron: "https://wetten.overheid.nl/BWBR0019826"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen College Bescherming Persoonsgegevens beleidsterrein Persoonsregistraties vanaf 1989

@@ -9,7 +9,7 @@ laatste_update: 2006-03-18
 status: geldig
 toestand: 2006-03-18
 bron: "https://wetten.overheid.nl/BWBR0019646"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 maart 2006, nr. TRCJZ/2006/769, tot instelling van de DR-Raad

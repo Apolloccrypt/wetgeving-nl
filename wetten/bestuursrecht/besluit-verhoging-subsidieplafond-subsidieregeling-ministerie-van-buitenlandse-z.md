@@ -9,7 +9,7 @@ laatste_update: 2006-06-11
 status: geldig
 toestand: 2006-06-11
 bron: "https://wetten.overheid.nl/BWBR0019713"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 29 maart 2006, nr. DAK/AMBO/2006/386, tot verhoging van een subsidieplafond met het oog op subsidieverlening op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (PKP ODA Dakar 2006)

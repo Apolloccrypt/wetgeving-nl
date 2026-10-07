@@ -9,7 +9,7 @@ laatste_update: 2006-05-24
 status: geldig
 toestand: 2006-05-24
 bron: "https://wetten.overheid.nl/BWBR0019807"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Besluit van 28 april 2006 tot wijziging van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur

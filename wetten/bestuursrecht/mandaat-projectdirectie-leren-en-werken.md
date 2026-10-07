@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0018705"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 augustus 2005, nr. DGAMB/05/66119, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de projectdirecteur Leren en Werken (Mandaat projectdirectie Leren en Werken)

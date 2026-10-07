@@ -9,7 +9,7 @@ laatste_update: 2006-09-01
 status: geldig
 toestand: 2006-09-01
 bron: "https://wetten.overheid.nl/BWBR0020055"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 5 juli 2006 tot samenvoeging van de gemeenten Medemblik, Noorder-Koggenland en Wognum en een wijziging van de grenzen van de gemeente Hoorn

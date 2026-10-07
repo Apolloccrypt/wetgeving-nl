@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0018722"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Economische Zaken en de Minister van Financiën van 5 september 2005, nr. WJZ 5051172, houdende vervanging van het Instellingsbesluit agentschap Inspectie Verkeer en Waterstaat/Divisie Telecom in verband met instelling van het Agentschap Telecom

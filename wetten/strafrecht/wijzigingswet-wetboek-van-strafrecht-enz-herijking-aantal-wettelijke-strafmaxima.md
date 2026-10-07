@@ -9,7 +9,7 @@ laatste_update: 2006-02-01
 status: geldig
 toestand: 2006-02-01
 bron: "https://wetten.overheid.nl/BWBR0019373"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Wet van 22 december 2005 tot wijziging van het Wetboek van Strafrecht en de Wegenverkeerswet 1994, in verband met de herijking van een aantal wettelijke strafmaxima

@@ -9,7 +9,7 @@ laatste_update: 2008-07-03
 status: geldig
 toestand: 2008-07-03
 bron: "https://wetten.overheid.nl/BWBR0019014"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van 9 november 2005, Hoofddirectie Juridische Zaken, nr. HDJZ/AWW/2005-2157, houdende regels over de partijen waarmee en de wijze waarop de Dienst Wegverkeer periodiek overleg voert met betrekking tot de uitvoering van de artikelen 149a en 149b van de Wegenverkeerswet 1994 (Regeling overleg exceptioneel transport)

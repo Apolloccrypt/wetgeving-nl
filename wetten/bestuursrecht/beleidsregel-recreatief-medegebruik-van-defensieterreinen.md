@@ -8,7 +8,7 @@ laatste_update: 2005-12-21
 status: geldig
 toestand: 2005-12-21
 bron: "https://wetten.overheid.nl/BWBR0019360"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-07
 ---
 
 # Beleidsregel recreatief medegebruik van defensieterreinen

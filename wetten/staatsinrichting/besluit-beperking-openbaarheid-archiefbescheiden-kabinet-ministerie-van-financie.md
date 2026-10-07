@@ -9,7 +9,7 @@ laatste_update: 2005-10-15
 status: geldig
 toestand: 2005-10-15
 bron: "https://wetten.overheid.nl/BWBR0018802"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit van de Minister van Financiën van 26 september 2005, nr. BenC 2005-1010M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de afdeling Kabinet van het Ministerie van Financiën, 1940–1960

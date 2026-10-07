@@ -9,7 +9,7 @@ laatste_update: 2008-02-16
 status: geldig
 toestand: 2008-02-16
 bron: "https://wetten.overheid.nl/BWBR0019258"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2005, nr. DWJZ-U-2643765, houdende aanpassing van regelingen in verband met de invoering van de Zorgverzekeringswet (Aanpassingsregeling Zorgverzekeringswet)

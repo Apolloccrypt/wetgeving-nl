@@ -9,7 +9,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0019067"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Deelcommissie programma samenwerking opkomende markten – Economische Zaken

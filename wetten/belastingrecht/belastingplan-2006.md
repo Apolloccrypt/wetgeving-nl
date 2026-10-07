@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0019286"
-opgehaald: 2026-08-09
+opgehaald: 2026-10-07
 ---
 
 # Wet van 15 december 2005, houdende wijziging van enkele belastingwetten (Belastingplan 2006)
