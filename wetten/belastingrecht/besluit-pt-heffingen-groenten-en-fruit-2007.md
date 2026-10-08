@@ -9,7 +9,7 @@ laatste_update: 2007-03-04
 status: geldig
 toestand: 2007-03-04
 bron: "https://wetten.overheid.nl/BWBR0021486"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 28 november 2006, houdende de vaststelling van de percentages van de heffingen groenten en fruit voor het jaar 2007 (Besluit PT heffing groenten en fruit 2007)

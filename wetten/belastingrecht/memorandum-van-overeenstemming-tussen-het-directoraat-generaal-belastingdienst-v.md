@@ -8,7 +8,7 @@ laatste_update: 2006-09-14
 status: geldig
 toestand: 2006-09-14
 bron: "https://wetten.overheid.nl/BWBR0020258"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Memorandum van overeenstemming tussen het Directoraat-Generaal Belastingdienst van Nederland en de afdeling diensten van de bevoegde authoriteit van de belastingdienst van Canada voor de uitvoering van gelijktijdige boekenonderzoeken

@@ -9,7 +9,7 @@ laatste_update: 2006-11-15
 status: geldig
 toestand: 2006-11-15
 bron: "https://wetten.overheid.nl/BWBR0020499"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 4 november 2006, houdende vaststelling van de bestanddelen van de zilveren vijf-euromunt en de gouden tien-euromunt die in 2006 wordt uitgegeven ter gelegenheid van 200 jaar Belastingdienst

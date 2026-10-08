@@ -9,7 +9,7 @@ laatste_update: 2007-02-01
 status: geldig
 toestand: 2007-02-01
 bron: "https://wetten.overheid.nl/BWBR0020549"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 20 november 2006, nr. 6099941, houdende vaststelling van een vergoeding voor de voorzitter en de leden van de Adviescommissie innovatieprogramma Food and Nutrition Delta

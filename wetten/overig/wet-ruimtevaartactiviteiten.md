@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0021418"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 24 januari 2007, houdende regels omtrent ruimtevaartactiviteiten en de instelling van een register van ruimtevoorwerpen (Wet ruimtevaartactiviteiten)

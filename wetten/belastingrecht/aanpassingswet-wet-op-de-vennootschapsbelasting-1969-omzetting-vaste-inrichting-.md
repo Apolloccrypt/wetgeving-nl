@@ -9,7 +9,7 @@ laatste_update: 2007-03-09
 status: geldig
 toestand: 2007-03-09
 bron: "https://wetten.overheid.nl/BWBR0021409"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 17 februari 2007 tot aanpassing van de regeling in de Wet op de vennootschapsbelasting 1969 betreffende de omzetting van een vaste inrichting met verliezen in een deelneming

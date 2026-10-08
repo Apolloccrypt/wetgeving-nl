@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0020933"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van 15 december 2006, nr. 2006-0000405012, houdende de organisatie van aanhoudings- en ondersteuningseenheden en bepalingen over de samenwerking tussen speciale eenheden (Regeling aanhoudings- en ondersteuningseenheid en samenwerking speciale eenheden)

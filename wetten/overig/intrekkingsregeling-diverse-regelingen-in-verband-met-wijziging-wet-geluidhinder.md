@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020603"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 29 november 2006, nr. LMV 2006.330831, houdende intrekking van diverse regelingen in verband met de wet van 5 juli 2006 houdende wijziging van de Wet geluidhinder (modernisering instrumentarium geluidbeleid, eerste fase; Stb. 2006, 350)

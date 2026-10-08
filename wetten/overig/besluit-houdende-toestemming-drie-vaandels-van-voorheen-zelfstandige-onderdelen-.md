@@ -9,7 +9,7 @@ laatste_update: 2007-01-12
 status: geldig
 toestand: 2007-01-12
 bron: "https://wetten.overheid.nl/BWBR0020964"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 29 augustus 2006, houdende toestemming om drie vaandels van voorheen zelfstandige onderdelen van de Koninklijke Marine te blijven voeren

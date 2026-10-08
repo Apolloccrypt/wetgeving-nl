@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0020970"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 januari 2007, nr. MC/U-2736874, houdende aanwijzing van toezichthouders op de naleving van de Wet toelating zorginstellingen

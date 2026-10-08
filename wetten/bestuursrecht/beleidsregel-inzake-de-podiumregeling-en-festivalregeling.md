@@ -9,7 +9,7 @@ laatste_update: 2007-03-21
 status: geldig
 toestand: 2007-03-21
 bron: "https://wetten.overheid.nl/BWBR0021550"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Beleidsregel van het bestuur van Stichting Fonds voor Podiumprogrammering en Marketing (FPPM) houdende bepalingen over de wijze van toedeling subsidies in het kader van de Podiumregeling en Festivalregeling van de stichting

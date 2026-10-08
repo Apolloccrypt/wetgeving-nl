@@ -8,7 +8,7 @@ laatste_update: 2006-12-14
 status: geldig
 toestand: 2006-12-14
 bron: "https://wetten.overheid.nl/BWBR0020624"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Bosbouw 1945–1983 (Minister van Onderwijs, Cultuur en Wetenschap)

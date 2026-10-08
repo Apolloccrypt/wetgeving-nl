@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0020917"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 december 2006, nr. AV/PB/102565A, tot vaststelling van regels op grond van de Pensioenwet en de Wet verplichte beroepspensioenregeling en tot aanpassing van enige Ministeriele regelingen in verband met de invoering van de Pensioenwet (Regeling Pensioenwet en Wet verplichte beroepspensioenregeling)

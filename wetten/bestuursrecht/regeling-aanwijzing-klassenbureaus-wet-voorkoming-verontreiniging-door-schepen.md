@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0021476"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling betreffende de aanwijzing van rechtspersonen, bevoegd tot het verrichten van onderzoeken als bedoeld in artikel 8 van de Wet voorkoming verontreiniging door schepen (Regeling aanwijzing klassenbureaus Wet voorkoming verontreiniging door schepen)

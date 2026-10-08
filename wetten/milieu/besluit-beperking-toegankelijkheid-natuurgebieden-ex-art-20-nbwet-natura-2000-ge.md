@@ -9,7 +9,7 @@ laatste_update: 2006-10-01
 status: geldig
 toestand: 2006-10-01
 bron: "https://wetten.overheid.nl/BWBR0020122"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 juli 2006, nr. DRZ/06/3147/LB/SM tot beperking toegankelijkheid natuurgebieden ex. artikel 20 Natuurbeschermingswet 1998 Natura 2000-gebied ‘Waddenzee’ en ‘Noordzeekustzone’

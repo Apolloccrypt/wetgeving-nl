@@ -8,7 +8,7 @@ laatste_update: 2011-07-14
 status: geldig
 toestand: 2011-07-14
 bron: "https://wetten.overheid.nl/BWBR0020434"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006

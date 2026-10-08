@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0020863"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 18 december 2006 tot vaststelling van een algemene maatregel van bestuur betreffende de verlening van een tegemoetkoming aan personen die een uitkering ontvangen op grond van de Algemene nabestaandenwet, de vaststelling van de hoogte van de AOW-tegemoetkoming en enige andere wijzigingen (Besluit tegemoetkoming Anw-ers en vaststelling AOW- en Anw-tegemoetkoming 2007)

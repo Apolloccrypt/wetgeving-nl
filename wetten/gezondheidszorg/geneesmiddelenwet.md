@@ -9,7 +9,7 @@ laatste_update: 2025-09-09
 status: geldig
 toestand: 2025-09-09
 bron: "https://wetten.overheid.nl/BWBR0021505"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 8 februari 2007 tot vaststelling van een nieuwe Geneesmiddelenwet

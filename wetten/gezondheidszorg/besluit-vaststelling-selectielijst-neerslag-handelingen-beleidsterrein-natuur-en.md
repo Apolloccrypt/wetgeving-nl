@@ -8,7 +8,7 @@ laatste_update: 2006-12-09
 status: geldig
 toestand: 2006-12-09
 bron: "https://wetten.overheid.nl/BWBR0020582"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Natuur- en Landschapsbeheer vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)

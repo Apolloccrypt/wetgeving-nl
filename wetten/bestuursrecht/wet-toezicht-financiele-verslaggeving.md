@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0020369"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 28 september 2006, houdende regels inzake het toezicht op en de handhaving van de voorschriften voor financiële verslaggeving van effectenuitgevende instellingen alsmede tot wijziging van enige wetten (Wet toezicht financiële verslaggeving)

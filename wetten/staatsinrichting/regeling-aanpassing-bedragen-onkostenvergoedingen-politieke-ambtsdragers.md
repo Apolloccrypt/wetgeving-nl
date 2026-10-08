@@ -9,7 +9,7 @@ laatste_update: 2007-02-01
 status: geldig
 toestand: 2007-02-01
 bron: "https://wetten.overheid.nl/BWBR0021103"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor aanpassing van de bedragen van de onkostenvergoedingen van politieke ambtsdragers

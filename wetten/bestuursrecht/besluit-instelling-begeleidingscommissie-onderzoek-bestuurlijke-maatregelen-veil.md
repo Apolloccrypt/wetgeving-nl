@@ -8,7 +8,7 @@ laatste_update: 2007-03-02
 status: geldig
 toestand: 2007-03-02
 bron: "https://wetten.overheid.nl/BWBR0021361"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit instelling begeleidingscommissie onderzoek bestuurlijke maatregelen veiligheid

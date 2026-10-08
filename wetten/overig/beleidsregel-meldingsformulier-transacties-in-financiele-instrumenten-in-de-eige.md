@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020754"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Beleidsregel Wet op het financieel toezicht 06-02 van de Stichting Autoriteit Financiële Markten van 12 december 2006 inzake het meldingsformulier transacties in financiële instrumenten in de eigen uitgevende instelling als bedoeld in artikel 5:60

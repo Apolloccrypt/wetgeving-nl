@@ -5,18 +5,18 @@ identifier: "BWBR0022061"
 categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-01-11
-laatste_update: 2026-08-01
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-08-01
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0022061"
-opgehaald: 2026-10-01
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 juni 2007 nr. VO/OK/2007/13731, houdende vaststelling van de examenprogramma’s v.w.o., h.a.v.o. en v.m.b.o. (Regeling examenprogramma’s voortgezet onderwijs)
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2026-08-01&g=2026-08-01) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2026-10-01&g=2026-10-01) bij deze regeling.
 
 ##### Artikel 1a. Omhangbepaling
 
@@ -120,9 +120,9 @@ De volgende regelingen worden ingetrokken:
 
 - w. [Regeling intrasectoraal programma zorg-en-welzijn-breed vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0011318)
 
-##### Artikel 5. Inwerkingtreding
+##### Artikel 5. Overgangsrecht
 
-Deze regeling treedt in werking met ingang van 1 augustus 2007 en is voor het eerst van toepassing op de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar vwo of havo en op de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar vmbo.
+In afwijking van de paragrafen 2.13.1, 2.13.2 en 2.13.3, van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2026-10-01&g=2026-10-01), blijft paragraaf 2.13, van bijlage 2, zoals die luidde op 31 juli 2027, van toepassing op de leerlingen die op 1 augustus 2027 zijn toegelaten tot het derde jaar van het vmbo, met dien verstande dat het examen gebaseerd op paragraaf 2.13 voor de laatste maal wordt afgenomen in schooljaar 2028/2029.
 
 ##### Artikel 6. Citeertitel
 

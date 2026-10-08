@@ -9,7 +9,7 @@ laatste_update: 2007-02-11
 status: geldig
 toestand: 2007-02-11
 bron: "https://wetten.overheid.nl/BWBR0021196"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de minister van Buitenlandse Zaken van 2 februari 2007, nr. DDI/ST/reg003/2007, houdende beperking van de openbaarheid van het archief van het gezantschap te Oslo (Noorwegen) 1945–1954

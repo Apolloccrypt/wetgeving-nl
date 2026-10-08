@@ -9,7 +9,7 @@ laatste_update: 2006-11-29
 status: geldig
 toestand: 2006-11-29
 bron: "https://wetten.overheid.nl/BWBR0020295"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 13 september 2006 tot heroprichting van het Regiment Infanterie Oranje Gelderland

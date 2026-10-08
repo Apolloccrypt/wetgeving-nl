@@ -9,7 +9,7 @@ laatste_update: 2006-08-17
 status: geldig
 toestand: 2006-08-17
 bron: "https://wetten.overheid.nl/BWBR0020144"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 9 augustus 2006, nr. TRCJZ/2006/2293, houdende vaststelling eindtermen beroepsonderwijs, overzicht bekostigde beroepsopleidingen en kwalificatieprofielen experimenten op het gebied van de landbouw en de natuurlijke omgeving

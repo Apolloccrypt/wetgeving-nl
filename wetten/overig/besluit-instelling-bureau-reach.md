@@ -8,7 +8,7 @@ laatste_update: 2008-06-01
 status: geldig
 toestand: 2008-06-01
 bron: "https://wetten.overheid.nl/BWBR0021645"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit instelling Bureau REACH

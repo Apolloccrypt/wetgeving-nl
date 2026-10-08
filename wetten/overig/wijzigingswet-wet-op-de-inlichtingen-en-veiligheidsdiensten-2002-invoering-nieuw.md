@@ -9,7 +9,7 @@ laatste_update: 2006-12-29
 status: geldig
 toestand: 2006-12-29
 bron: "https://wetten.overheid.nl/BWBR0020494"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 2 november 2006 tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2002 in verband met de invoering van een nieuw stelsel voor bewaking en beveiliging

@@ -9,7 +9,7 @@ laatste_update: 2007-02-23
 status: geldig
 toestand: 2007-02-23
 bron: "https://wetten.overheid.nl/BWBR0021293"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 31 januari 2007, houdende de vaststelling van de beeldenaar van de zilveren vijf-euromunt en de gouden tien-euromunt die worden uitgegeven ter gelegenheid van de 400ste geboortedag van Michiel de Ruyter

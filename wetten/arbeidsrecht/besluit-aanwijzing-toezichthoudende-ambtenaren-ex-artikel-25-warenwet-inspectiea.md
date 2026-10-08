@@ -9,7 +9,7 @@ laatste_update: 2007-04-21
 status: geldig
 toestand: 2007-04-21
 bron: "https://wetten.overheid.nl/BWBR0021726"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit houdende aanwijzing toezichthoudende ambtenaren ex artikel 25 van de Warenwet

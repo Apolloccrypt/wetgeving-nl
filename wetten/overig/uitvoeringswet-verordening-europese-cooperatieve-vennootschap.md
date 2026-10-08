@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0020302"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 14 september 2006 tot uitvoering van verordening (EG) Nr. 1435/2003 van de Raad van de Europese Unie van 22 juli 2003 betreffende het statuut voor een Europese Coöperatieve Vennootschap (SCE) (Uitvoeringswet verordening Europese coöperatieve vennootschap)

@@ -9,7 +9,7 @@ laatste_update: 2020-06-13
 status: geldig
 toestand: 2020-06-13
 bron: "https://wetten.overheid.nl/BWBR0020422"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 12 oktober 2006, tot uitvoering van artikel 2 van de Metrologiewet en ter implementatie van enkele Europese richtlijnen (Meeteenhedenbesluit 2006)

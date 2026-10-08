@@ -9,7 +9,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0021671"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Uitvoeringsregeling plaatsgebonden consignatie KLPD

@@ -9,7 +9,7 @@ laatste_update: 2010-10-01
 status: geldig
 toestand: 2010-10-01
 bron: "https://wetten.overheid.nl/BWBR0020852"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 december 2006, nr. KvI2006327794, houdende regels voor de subsidiëring van nieuwe gemeentelijke en provinciale projecten, gericht op CO2-reductie (Vervolgsubsidieregeling BANS klimaatconvenant 2007)

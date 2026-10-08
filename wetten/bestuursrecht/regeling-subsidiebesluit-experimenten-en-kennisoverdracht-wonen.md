@@ -9,7 +9,7 @@ laatste_update: 2006-12-11
 status: geldig
 toestand: 2006-12-11
 bron: "https://wetten.overheid.nl/BWBR0020311"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 18 september 2006, nr. DJZ2006303617, houdende vaststelling van de bij de aanvraag, bedoeld in artikel 3, eerste lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen over te leggen gegevens en bescheiden alsmede van het model voor de verklaring, bedoeld in artikel 6, derde lid, van dat besluit en het model voor de accountantsverklaring, bedoeld in artikel 14, derde lid, van dat besluit (Regeling Subsidiebesluit experimenten en kennisoverdracht wonen)

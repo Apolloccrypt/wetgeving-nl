@@ -9,7 +9,7 @@ laatste_update: 2007-04-01
 status: geldig
 toestand: 2007-04-01
 bron: "https://wetten.overheid.nl/BWBR0021275"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 9 februari 2007, nr. OI/O 7015354, houdende de vaststelling van een vergoeding voor de voorzitter en de leden van de Adviescommissie ondernemerschap en onderwijs

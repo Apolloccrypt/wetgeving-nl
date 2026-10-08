@@ -9,7 +9,7 @@ laatste_update: 2007-05-10
 status: geldig
 toestand: 2007-05-10
 bron: "https://wetten.overheid.nl/BWBR0021814"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 3 mei 2007, nr. DGW/DIEB2007011748, houdende vaststelling van het organisatieonderdeel project afbouw Informatie, Beheer en Subsidieregelingen en verlening van mandaat, volmacht en machtiging ten behoeve van dit organisatieonderdeel (Besluit project afbouw IBS 2007)

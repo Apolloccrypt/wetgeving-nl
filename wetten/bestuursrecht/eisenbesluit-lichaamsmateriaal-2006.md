@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-06-30
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0021255"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 17 januari 2007, houdende nieuwe eisen inzake de veiligheid en kwaliteit van lichaamsmateriaal (Eisenbesluit lichaamsmateriaal 2006)

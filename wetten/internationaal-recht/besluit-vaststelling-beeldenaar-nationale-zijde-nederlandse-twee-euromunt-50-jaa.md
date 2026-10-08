@@ -9,7 +9,7 @@ laatste_update: 2007-03-01
 status: geldig
 toestand: 2007-03-01
 bron: "https://wetten.overheid.nl/BWBR0021295"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 1 februari 2007, houdende de vaststelling van de beeldenaar van de nationale zijde van de Nederlandse twee-euromunt die in 2007 wordt uitgegeven ter gelegenheid van 50 jaar Verdrag van Rome

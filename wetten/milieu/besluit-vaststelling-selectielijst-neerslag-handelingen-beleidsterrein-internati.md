@@ -8,7 +8,7 @@ laatste_update: 2007-04-20
 status: geldig
 toestand: 2007-04-20
 bron: "https://wetten.overheid.nl/BWBR0021703"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Internationale Monetaire en Financiële Zaken 1945- (Minister van Landbouw, Natuur en Voedselkwaliteit)

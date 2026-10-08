@@ -9,7 +9,7 @@ laatste_update: 2006-12-30
 status: geldig
 toestand: 2006-12-30
 bron: "https://wetten.overheid.nl/BWBR0020877"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 29 november 2006, nr. 2006-0000381422, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2004

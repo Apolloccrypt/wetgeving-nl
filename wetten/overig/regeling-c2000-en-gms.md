@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0020268"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 september 2006, nr. 2006-0000249708, DGV/POL/BJZ

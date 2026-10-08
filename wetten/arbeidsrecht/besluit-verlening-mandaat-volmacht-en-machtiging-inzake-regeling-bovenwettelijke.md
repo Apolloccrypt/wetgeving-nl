@@ -8,7 +8,7 @@ laatste_update: 2007-02-23
 status: geldig
 toestand: 2007-02-23
 bron: "https://wetten.overheid.nl/BWBR0021299"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit verlening mandaat, volmacht en machtiging inzake Regeling bovenwettelijke uitkeringen bij werkloosheid en Suppletieregeling gedeeltijk arbeidsongeschikten

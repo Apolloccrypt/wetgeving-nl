@@ -9,7 +9,7 @@ laatste_update: 2017-07-12
 status: geldig
 toestand: 2017-07-12
 bron: "https://wetten.overheid.nl/BWBR0020486"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 31 oktober 2006, houdende regels inzake het toezicht op de naleving van de voorschriften voor financiële verslaggeving van effectenuitgevende instellingen, de doorberekening van aan dat toezicht verbonden kosten, alsmede tot wijziging van enige besluiten (Besluit toezicht financiële verslaggeving)

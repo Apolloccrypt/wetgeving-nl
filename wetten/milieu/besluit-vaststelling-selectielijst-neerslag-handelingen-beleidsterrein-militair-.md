@@ -8,7 +8,7 @@ laatste_update: 2007-04-26
 status: geldig
 toestand: 2007-04-26
 bron: "https://wetten.overheid.nl/BWBR0021737"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Militair materieel vanaf 1945 (Minister van Verkeer en Waterstaat)

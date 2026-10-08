@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0021670"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 17 februari 2007, houdende regeling voor de toelating, het op de markt brengen en het gebruik van gewasbeschermingmiddelen en biociden (Wet gewasbeschermingsmiddelen en biociden)

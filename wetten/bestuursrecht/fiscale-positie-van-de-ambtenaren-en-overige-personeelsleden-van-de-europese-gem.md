@@ -8,7 +8,7 @@ laatste_update: 2006-10-21
 status: geldig
 toestand: 2006-10-21
 bron: "https://wetten.overheid.nl/BWBR0020407"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Fiscale positie van de ambtenaren en overige personeelsleden van de Europese Gemeenschappen (2006)

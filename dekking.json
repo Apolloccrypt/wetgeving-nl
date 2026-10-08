@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-10-07",
+ "gegenereerd": "2026-10-08",
  "geverifieerd": true,
- "bwb_regelingen": 46967,
+ "bwb_regelingen": 46968,
  "bwb_geldend": 22264,
- "site_totaal": 22498,
+ "site_totaal": 22499,
  "site_geldend": 22263,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 235,
+ "aantal_ten_onrechte_geldig": 236,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -956,6 +956,10 @@
   {
    "id": "BWBV0006861",
    "titel": "Verklaring van bepaalde Europese Regeringen inzake de exploitatiefase van de lanceervoertuigen Ariane, Vega en Sojoez vanaf het Ruimtevaartcentrum in Guyana"
+  },
+  {
+   "id": "BWBV0007112",
+   "titel": "Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties inzake de “United Nations Peacekeeping Capability Readiness System Rapid Deployment Level Workshop”, te Breda, Nederland, van 10 tot en met 14 november 2025"
   }
  ],
  "onbekend": []

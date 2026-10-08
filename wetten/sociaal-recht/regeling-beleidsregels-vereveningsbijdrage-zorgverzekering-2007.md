@@ -8,7 +8,7 @@ laatste_update: 2010-10-02
 status: geldig
 toestand: 2010-10-02
 bron: "https://wetten.overheid.nl/BWBR0020362"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling beleidsregels vereveningsbijdrage zorgverzekering 2007

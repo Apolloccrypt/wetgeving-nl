@@ -9,7 +9,7 @@ laatste_update: 2014-06-27
 status: geldig
 toestand: 2014-06-27
 bron: "https://wetten.overheid.nl/BWBR0020740"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 december 2006, nr. TRCJZ/2006/3802, houdende regeling bijzondere restituties bij uitvoer bepaalde soorten rundvlees

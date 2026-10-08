@@ -9,7 +9,7 @@ laatste_update: 2019-07-21
 status: geldig
 toestand: 2019-07-21
 bron: "https://wetten.overheid.nl/BWBR0020616"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 20 november 2006, houdende invoering van de Wet op het financieel toezicht en aanpassing van overige wetten aan die wet (Invoerings- en aanpassingswet Wet op het financieel toezicht)

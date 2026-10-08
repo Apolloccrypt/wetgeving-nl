@@ -8,7 +8,7 @@ laatste_update: 2007-03-02
 status: geldig
 toestand: 2007-03-02
 bron: "https://wetten.overheid.nl/BWBR0021326"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Toerisme vanaf 1945 (Minister van Economische Zaken)

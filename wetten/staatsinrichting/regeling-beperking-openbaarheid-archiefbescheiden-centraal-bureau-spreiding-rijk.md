@@ -8,7 +8,7 @@ laatste_update: 2007-03-30
 status: geldig
 toestand: 2007-03-30
 bron: "https://wetten.overheid.nl/BWBR0021608"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling beperking openbaarheid archiefbescheiden Centraal Bureau Spreiding Rijksdiensten 1957–1984

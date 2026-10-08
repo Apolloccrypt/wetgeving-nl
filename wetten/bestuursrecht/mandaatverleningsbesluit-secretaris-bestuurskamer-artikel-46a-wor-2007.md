@@ -9,7 +9,7 @@ laatste_update: 2007-01-14
 status: geldig
 toestand: 2007-01-14
 bron: "https://wetten.overheid.nl/BWBR0021096"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Bestuurskamer van 15 januari 2007, houdende mandatering aan de secretaris van de Bestuurskamer van de bevoegdheden van de Bestuurskamer in het kader van de heffing op grond van artikel 46a van de Wet op de ondernemingsraden (Mandaatverleningsbesluit secretaris Bestuurskamer artikel 46a WOR 2007)

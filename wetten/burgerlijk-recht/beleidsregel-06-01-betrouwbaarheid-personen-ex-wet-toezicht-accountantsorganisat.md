@@ -9,7 +9,7 @@ laatste_update: 2006-10-01
 status: geldig
 toestand: 2006-10-01
 bron: "https://wetten.overheid.nl/BWBR0020318"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Beleidsregel van de Stichting Autoriteit Financiële Markten (hieronder te noemen: ‘de toezichthouder’) van 19 september 2006, voor het beoordelen van de betrouwbaarheid van personen ingevolge de Wet toezicht accountantsorganisaties (Wta) en het Besluit toezicht accountantsorganisaties (Bta), hieronder gezamenlijk dan wel ieder afzonderlijk te noemen: ‘de toezichtwet’

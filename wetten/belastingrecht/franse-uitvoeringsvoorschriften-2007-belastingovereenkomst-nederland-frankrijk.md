@@ -8,7 +8,7 @@ laatste_update: 2007-03-17
 status: geldig
 toestand: 2007-03-17
 bron: "https://wetten.overheid.nl/BWBR0021495"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Franse uitvoeringsvoorschriften 2007 belastingovereenkomst Nederland-Frankrijk

@@ -9,7 +9,7 @@ laatste_update: 2015-11-07
 status: geldig
 toestand: 2015-11-07
 bron: "https://wetten.overheid.nl/BWBR0020593"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat, houdende vrijstelling van het verbod om modelraketten als toestellen die geen luchtvaartuig zijn, in het luchtruim te gebruiken (Regeling modelraketten)

@@ -9,7 +9,7 @@ laatste_update: 2007-05-01
 status: geldig
 toestand: 2007-05-01
 bron: "https://wetten.overheid.nl/BWBR0021522"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 17 februari 2007, houdende wijziging van de Wet ammoniak en veehouderij

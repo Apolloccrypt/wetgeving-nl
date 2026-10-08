@@ -9,7 +9,7 @@ laatste_update: 2006-08-25
 status: geldig
 toestand: 2006-08-25
 bron: "https://wetten.overheid.nl/BWBR0020141"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 7 augustus 2006, houdende wijziging van het Reglement rijbewijzen en het Kentekenreglement op een aantal punten van uiteenlopende aard

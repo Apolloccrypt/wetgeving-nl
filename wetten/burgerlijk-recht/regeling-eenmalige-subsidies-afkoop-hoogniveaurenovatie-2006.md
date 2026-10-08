@@ -9,7 +9,7 @@ laatste_update: 2006-11-29
 status: geldig
 toestand: 2006-11-29
 bron: "https://wetten.overheid.nl/BWBR0020426"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 oktober 2006, nr. DJZ2006309392, Directie Juridische Zaken, Afdeling Wetgeving, houdende regels omtrent afkoop van jaarlijkse bijdragen, die krachtens de Regeling geldelijke steun voorzieningen aan huurwoningen 1987 zijn toegekend aan gemeenten (Regeling eenmalige subsidies afkoop hoogniveaurenovatie 2006)

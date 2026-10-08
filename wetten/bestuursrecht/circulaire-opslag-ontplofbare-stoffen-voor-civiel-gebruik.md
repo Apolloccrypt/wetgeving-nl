@@ -8,7 +8,7 @@ laatste_update: 2006-07-26
 status: geldig
 toestand: 2006-07-26
 bron: "https://wetten.overheid.nl/BWBR0020120"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Circulaire opslag ontplofbare stoffen voor civiel gebruik

@@ -9,7 +9,7 @@ laatste_update: 2007-04-01
 status: geldig
 toestand: 2007-04-01
 bron: "https://wetten.overheid.nl/BWBR0020604"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 31 oktober 2006 tot wijziging van het Besluit personenvervoer 2000 in verband met het gebruik van een elektronisch vervoerbewijs in het openbaar vervoer

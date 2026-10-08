@@ -8,7 +8,7 @@ laatste_update: 2018-02-27
 status: geldig
 toestand: 2018-02-27
 bron: "https://wetten.overheid.nl/BWBR0020826"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling vakbekwaamheid technische hulpmiddelen strafvordering

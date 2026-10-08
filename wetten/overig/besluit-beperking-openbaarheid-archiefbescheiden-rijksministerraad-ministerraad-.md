@@ -8,7 +8,7 @@ laatste_update: 2026-10-02
 status: geldig
 toestand: 2026-10-02
 bron: "https://wetten.overheid.nl/BWBR0053155"
-opgehaald: 2026-10-07
+opgehaald: 2026-10-08
 ---
 
 # Besluit beperking openbaarheid archiefbescheiden rijksministerraad, ministerraad, onderraden en commissies (1 januari 2001 – 1 januari 2002)

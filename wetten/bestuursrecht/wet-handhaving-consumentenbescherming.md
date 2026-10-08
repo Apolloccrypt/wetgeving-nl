@@ -9,7 +9,7 @@ laatste_update: 2026-06-25
 status: geldig
 toestand: 2026-06-25
 bron: "https://wetten.overheid.nl/BWBR0020586"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 20 november 2006, houdende regels omtrent instanties die verantwoordelijk zijn voor handhaving van de wetgeving inzake consumentenbescherming (Wet handhaving consumentenbescherming)

@@ -9,7 +9,7 @@ laatste_update: 2007-01-24
 status: geldig
 toestand: 2007-01-24
 bron: "https://wetten.overheid.nl/BWBR0021057"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 19 december 2006 tot wijziging van het Bekostigingsbesluit cultuuruitingen in verband met invoering van een verantwoordingssysteem op basis van single information en single audit voor specifieke uitkeringen

@@ -9,7 +9,7 @@ laatste_update: 2026-09-29
 status: geldig
 toestand: 2026-09-29
 bron: "https://wetten.overheid.nl/BWBR0053136"
-opgehaald: 2026-10-07
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 4 september 2026, nr. HO&S/66104197, houdende de instelling van de adviserende begeleidingscommissie onderzoek Integrale veiligheid in het hoger onderwijs

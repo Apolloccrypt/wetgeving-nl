@@ -9,7 +9,7 @@ laatste_update: 2017-09-27
 status: geldig
 toestand: 2017-09-27
 bron: "https://wetten.overheid.nl/BWBR0020233"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Justitie van 28 augustus 2006, nr. 5418018/806, houdende regels met betrekking tot de mogelijkheid van levensloopverlof voor de sector Rechterlijke Macht

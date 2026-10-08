@@ -8,7 +8,7 @@ laatste_update: 2010-08-19
 status: geldig
 toestand: 2010-08-19
 bron: "https://wetten.overheid.nl/BWBR0020119"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit loondispensatie Wajong

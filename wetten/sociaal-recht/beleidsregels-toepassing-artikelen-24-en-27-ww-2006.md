@@ -8,7 +8,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020335"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Beleidsregels toepassing artikelen 24 en 27 WW 2006

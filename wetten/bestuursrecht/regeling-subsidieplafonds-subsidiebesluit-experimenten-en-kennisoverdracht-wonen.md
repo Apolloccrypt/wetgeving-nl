@@ -9,7 +9,7 @@ laatste_update: 2007-09-20
 status: geldig
 toestand: 2007-09-20
 bron: "https://wetten.overheid.nl/BWBR0020918"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 18 december 2006, nr. DJZ2006339088, houdende vaststelling van de subsidieplafonds, bedoeld in artikel 8, eerste lid, van het Subsidiebesluit experimenten en kennisoverdracht wonen

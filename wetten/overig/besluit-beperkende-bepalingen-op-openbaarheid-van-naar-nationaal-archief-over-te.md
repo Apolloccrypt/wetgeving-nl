@@ -9,7 +9,7 @@ laatste_update: 2006-10-12
 status: geldig
 toestand: 2006-10-12
 bron: "https://wetten.overheid.nl/BWBR0020351"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 27 september 2006, nr. 2006-0000304114, Directie Communicatie en Informatie, tot het stellen van beperkende bepalingen op de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden

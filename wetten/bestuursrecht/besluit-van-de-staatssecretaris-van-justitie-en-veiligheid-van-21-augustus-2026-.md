@@ -9,7 +9,7 @@ laatste_update: 2026-10-06
 status: geldig
 toestand: 2026-10-06
 bron: "https://wetten.overheid.nl/BWBR0053061"
-opgehaald: 2026-10-07
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 21 augustus 2026 nr. BOACAT2026/054, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Wageningen

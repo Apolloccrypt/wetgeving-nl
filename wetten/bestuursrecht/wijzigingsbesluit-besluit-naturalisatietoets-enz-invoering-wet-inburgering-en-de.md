@@ -9,7 +9,7 @@ laatste_update: 2007-04-01
 status: geldig
 toestand: 2007-04-01
 bron: "https://wetten.overheid.nl/BWBR0020987"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 3 januari 2007, houdende wijziging van het Besluit naturalisatietoets, het Besluit inburgering en het Besluit verkrijging en verlies Nederlanderschap in verband met de invoering van de Wet inburgering en de aanwijzing van het inburgeringsexamen als naturalisatietoets in Nederland

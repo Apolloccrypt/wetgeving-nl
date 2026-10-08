@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020552"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van 20 november 2006, nr. FM 2006-02609 M, Directie Financiële Markten, houdende vaststelling bijdragen gemoedsbezwaarden als bedoeld in artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen

@@ -9,7 +9,7 @@ laatste_update: 2006-09-07
 status: geldig
 toestand: 2006-09-07
 bron: "https://wetten.overheid.nl/BWBR0020240"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Justitie van 29 augustus 2006, nr. 5433969/06, tot het verlenen van mandaat aan Loyalis Maatwerkadministraties B.V. ter zake van de uitvoering van de ontslaguitkeringsregelingen van de sector Rechterlijke Macht

@@ -9,7 +9,7 @@ laatste_update: 2006-10-01
 status: geldig
 toestand: 2006-10-01
 bron: "https://wetten.overheid.nl/BWBR0020370"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Voorlopig Bestuursreglement van de Nederlandse Zorgautoriteit, zoals vastgesteld op grond van artikel 124, derde lid, van de Wet marktordening gezondheidszorg door de Minister van Volksgezondheid, Welzijn en Sport bij brief van 29 september 2006, nr. MC/MO-2716649

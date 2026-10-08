@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020772"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 30 november 2006, houdende wijziging van de Arbeidsomstandighedenwet 1998 en enige andere wetten in verband met het vergroten van de verantwoordelijkheid van werkgevers en werknemers voor het arbeidsomstandighedenbeleid

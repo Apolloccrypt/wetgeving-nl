@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0020188"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 augustus 2006, Directie Sociale Verzekeringen, nr. SV/WV/2006/70180, tot vaststelling van de periode van eigenrisicodragen, bedoeld in artikel 82, eerste lid, onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen en de termijn van overlegging van de schriftelijke garantie, bedoeld in artikel 40, dertiende lid, van de Wet financiering sociale verzekeringen (Regeling vaststelling periode eigenrisicodragen WGA-uitkeringen)

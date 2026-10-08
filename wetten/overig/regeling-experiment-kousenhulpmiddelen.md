@@ -9,7 +9,7 @@ laatste_update: 2006-12-20
 status: geldig
 toestand: 2006-12-20
 bron: "https://wetten.overheid.nl/BWBR0020765"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling Experiment kousenhulpmiddelen

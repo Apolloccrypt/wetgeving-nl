@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0020645"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 30 november 2006, houdende wijziging van belastingwetten ter realisering van de doelstelling uit de nota «Werken aan winst» (Wet werken aan winst)

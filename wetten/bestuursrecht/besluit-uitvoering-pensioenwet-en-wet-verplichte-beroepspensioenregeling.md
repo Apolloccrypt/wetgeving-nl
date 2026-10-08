@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0020892"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 18 december 2006, houdende vaststelling van regels ter uitwerking van de Pensioenwet en de Wet verplichte beroepspensioenregeling (Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling)

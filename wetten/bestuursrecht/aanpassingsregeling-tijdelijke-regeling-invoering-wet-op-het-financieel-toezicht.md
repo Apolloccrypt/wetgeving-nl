@@ -8,7 +8,7 @@ laatste_update: 2007-01-13
 status: geldig
 toestand: 2007-01-13
 bron: "https://wetten.overheid.nl/BWBR0020978"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Aanpassingsregeling Tijdelijke regeling invoering Wet op het financieel toezicht

@@ -9,7 +9,7 @@ laatste_update: 2006-12-24
 status: geldig
 toestand: 2006-12-24
 bron: "https://wetten.overheid.nl/BWBR0020968"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van de teelt van fruit en champignons voor het jaar 2007 (Verordening PT bijzondere heffing teelt fruit en champignons 2007)

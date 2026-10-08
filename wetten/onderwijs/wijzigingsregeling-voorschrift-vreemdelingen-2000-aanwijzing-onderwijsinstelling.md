@@ -9,7 +9,7 @@ laatste_update: 2007-05-01
 status: geldig
 toestand: 2007-05-01
 bron: "https://wetten.overheid.nl/BWBR0020136"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 7 augustus 2006, nr. INDuit06-4175 (AUB), houdende wijziging van het Voorschrift Vreemdelingen 2000 (achtenveertigste wijziging)

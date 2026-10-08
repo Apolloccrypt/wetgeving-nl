@@ -8,7 +8,7 @@ laatste_update: 2006-12-07
 status: geldig
 toestand: 2006-12-07
 bron: "https://wetten.overheid.nl/BWBR0020164"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gratie vanaf 1945 (Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer)

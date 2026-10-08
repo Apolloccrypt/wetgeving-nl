@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0020566"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Economische Zaken van 23 november 2006, nr. WJZ 6098739, houdende regels omtrent de eisen bij het gebruik van in Europese richtlijnen opgenomen en in het Meetinstrumentenbesluit I en Meetinstrumentenbesluit II geregelde meetinstrumenten en houdende enkele voorschriften inzake de installatie van die instrumenten (Regeling gebruik en installatie EU-meetinstrumenten)

@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0020705"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Nederlandsche Bank N.V. van 11 december 2006, nr. Juza/2006/02412/IH, houdende regels met betrekking tot aanvullend prudentieel toezicht op kredietinstellingen, levensverzekeraars, schadeverzekeraars en beleggingsondernemingen die tot een financiële groep behoren (Regeling prudentieel toezicht financiële groepen Wft)

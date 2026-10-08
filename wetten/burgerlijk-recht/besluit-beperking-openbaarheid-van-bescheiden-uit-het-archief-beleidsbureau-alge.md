@@ -8,7 +8,7 @@ laatste_update: 2006-10-27
 status: geldig
 toestand: 2006-10-27
 bron: "https://wetten.overheid.nl/BWBR0020428"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit beperking openbaarheid van bescheiden uit het archief Beleidsbureau Algemeen Burgerlijk Pensioenfonds 1970–1988

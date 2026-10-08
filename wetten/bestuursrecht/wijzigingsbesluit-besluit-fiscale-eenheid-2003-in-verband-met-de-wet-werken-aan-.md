@@ -9,7 +9,7 @@ laatste_update: 2007-02-16
 status: geldig
 toestand: 2007-02-16
 bron: "https://wetten.overheid.nl/BWBR0020818"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 19 december 2006, houdende aanpassing van het Besluit fiscale eenheid 2003 mede in verband met de Wet werken aan winst

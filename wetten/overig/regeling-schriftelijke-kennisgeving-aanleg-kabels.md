@@ -9,7 +9,7 @@ laatste_update: 2023-08-26
 status: geldig
 toestand: 2023-08-26
 bron: "https://wetten.overheid.nl/BWBR0021001"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Economische Zaken van 12 december 2006, nr. WJZ 6107378, houdende regels inzake de schriftelijke kennisgeving bij de uitvoering van werkzaamheden aan kabels (Regeling schriftelijke kennisgeving aanleg kabels)

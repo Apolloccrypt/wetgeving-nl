@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0020326"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 21 september 2006, houdende aanwijzing van werkzaamheden als zorg in de zin van de Wet marktordening gezondheidszorg en uitzondering van vormen van zorg van die wet of een deel daarvan (Besluit uitbreiding en beperking werkingssfeer WMG)

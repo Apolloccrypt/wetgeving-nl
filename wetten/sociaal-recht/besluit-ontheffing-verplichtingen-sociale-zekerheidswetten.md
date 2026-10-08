@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0020483"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 30 oktober 2006, houdende regels met betrekking tot de ontheffing van verplichtingen genoemd in de Werkloosheidswet en de Wet werk en inkomen naar arbeidsvermogen (Besluit ontheffing verplichtingen WW en Wet WIA)

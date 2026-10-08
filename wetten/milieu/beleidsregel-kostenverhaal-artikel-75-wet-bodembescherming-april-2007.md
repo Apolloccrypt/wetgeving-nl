@@ -8,7 +8,7 @@ laatste_update: 2007-05-10
 status: geldig
 toestand: 2007-05-10
 bron: "https://wetten.overheid.nl/BWBR0021825"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Beleidsregel kostenverhaal, artikel 75 Wet bodembescherming april 2007

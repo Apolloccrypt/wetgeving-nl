@@ -9,7 +9,7 @@ laatste_update: 2006-10-07
 status: geldig
 toestand: 2006-10-07
 bron: "https://wetten.overheid.nl/BWBR0020349"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 27 september 2006, nr. DMO/PO-U-2707742, houdende vaststelling van het totaalbedrag van de bijdragen 2006 in het kader van het Besluit bijdrage AWBZ-gemeenten (Regeling bijdrage AWBZ-gemeenten 2006)

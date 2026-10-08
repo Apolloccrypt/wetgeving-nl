@@ -8,7 +8,7 @@ laatste_update: 2006-09-14
 status: geldig
 toestand: 2006-09-14
 bron: "https://wetten.overheid.nl/BWBR0020259"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Toepassing van de belastingheffing over in Nederland gevestigde visserijondernemingen die onder Belgische vlag vissen

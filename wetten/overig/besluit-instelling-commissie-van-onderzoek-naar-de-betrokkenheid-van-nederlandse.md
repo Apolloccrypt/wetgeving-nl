@@ -9,7 +9,7 @@ laatste_update: 2006-11-23
 status: geldig
 toestand: 2006-11-23
 bron: "https://wetten.overheid.nl/BWBR0020570"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Defensie in overeenstemming met de Minister van Justitie, nr. D2006038017, Den Haag, 23 november 2006, houdende de instelling van de commissie van onderzoek naar de betrokkenheid van Nederlandse militairen bij mogelijke misstanden bij gesprekken met gedetineerden in Irak

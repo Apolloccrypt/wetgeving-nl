@@ -9,7 +9,7 @@ laatste_update: 2007-02-07
 status: geldig
 toestand: 2007-02-07
 bron: "https://wetten.overheid.nl/BWBR0020555"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 20 november 2006, houdende herstel van wetstechnische gebreken en leemten alsmede aanbrenging van enkele inhoudelijke wijzigingen in de Telecommunicatiewet, de Elektriciteitswet 1998, de Gaswet, de Mijnbouwwet en enkele andere daarmee verbandhoudende wetten, de Wet voorraadvorming aardolieproducten 2001, de Wet op de kamers van koophandel en fabrieken 1997, de Raamwet EEG-voorschriften aanbestedingen en diverse andere wetten (Veegwet EZ 2005)

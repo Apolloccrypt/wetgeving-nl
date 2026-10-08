@@ -9,7 +9,7 @@ laatste_update: 2007-02-22
 status: geldig
 toestand: 2007-02-22
 bron: "https://wetten.overheid.nl/BWBR0021348"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 22 februari 2007, nr. 07.000673, houdende departementale herindeling met betrekking tot integratie, inburgering en coördinatie integratie minderheden

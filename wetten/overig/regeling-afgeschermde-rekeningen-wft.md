@@ -9,7 +9,7 @@ laatste_update: 2018-10-13
 status: geldig
 toestand: 2018-10-13
 bron: "https://wetten.overheid.nl/BWBR0020672"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van De Nederlandsche Bank N.V. van 6 december 2006, nr. Juza/2006/02364/IH, houdende regels met betrekking tot afgeschermde rekeningen onder de Wet op het financieel toezicht (Regeling afgeschermde rekeningen Wft)

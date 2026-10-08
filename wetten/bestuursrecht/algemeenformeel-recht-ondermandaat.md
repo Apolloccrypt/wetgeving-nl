@@ -8,7 +8,7 @@ laatste_update: 2007-02-14
 status: geldig
 toestand: 2007-02-14
 bron: "https://wetten.overheid.nl/BWBR0021233"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Algemeen/Formeel recht, ondermandaat

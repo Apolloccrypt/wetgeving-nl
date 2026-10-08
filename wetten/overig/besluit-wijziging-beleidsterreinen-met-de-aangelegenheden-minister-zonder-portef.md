@@ -9,7 +9,7 @@ laatste_update: 2007-02-01
 status: geldig
 toestand: 2007-02-01
 bron: "https://wetten.overheid.nl/BWBR0020741"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 14 december 2006, nr. 06.004621, houdende wijziging van de beleidsterreinen met de aangelegenheden waarvan Minister zonder portefeuille drs. M.C.F. Verdonk is belast

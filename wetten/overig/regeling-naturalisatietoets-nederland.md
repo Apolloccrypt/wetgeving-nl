@@ -9,7 +9,7 @@ laatste_update: 2025-06-28
 status: geldig
 toestand: 2025-06-28
 bron: "https://wetten.overheid.nl/BWBR0021067"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister voor Integratie, Jeugdbescherming, Preventie en Reclassering van 16 januari 2007, nr. 5459170 ter uitvoering van het Besluit naturalisatietoets voor Nederland (Regeling naturalisatietoets Nederland)

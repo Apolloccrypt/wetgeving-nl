@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0020412"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 12 oktober 2006, houdende bepalingen met betrekking tot enkele definities uit artikel 1:1 van de Wet op het financieel toezicht (Besluit definitiebepalingen Wft)

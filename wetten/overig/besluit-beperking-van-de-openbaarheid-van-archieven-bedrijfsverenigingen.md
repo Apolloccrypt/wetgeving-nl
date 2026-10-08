@@ -8,7 +8,7 @@ laatste_update: 2006-09-08
 status: geldig
 toestand: 2006-09-08
 bron: "https://wetten.overheid.nl/BWBR0020250"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit beperking van de openbaarheid van archieven bedrijfsverenigingen

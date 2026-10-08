@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0021605"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 21 maart 2007 tot het stellen van veiligheidsvoorschriften bij het tatoeëren en piercen (Warenwetbesluit tatoeëren en piercen)

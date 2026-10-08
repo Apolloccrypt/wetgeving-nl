@@ -8,7 +8,7 @@ laatste_update: 2006-10-07
 status: geldig
 toestand: 2006-10-07
 bron: "https://wetten.overheid.nl/BWBR0020348"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Instellingsbesluit Adviescommissie Versterking Randstad

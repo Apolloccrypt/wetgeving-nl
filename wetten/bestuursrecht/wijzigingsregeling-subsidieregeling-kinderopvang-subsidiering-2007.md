@@ -9,7 +9,7 @@ laatste_update: 2007-02-02
 status: geldig
 toestand: 2007-02-02
 bron: "https://wetten.overheid.nl/BWBR0021104"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 26 januari 2007, nr. AV/A&Z/2007/2614, tot wijziging van de Subsidieregeling kinderopvang in verband met de vaststelling van een aanvraagtijdvak, de beleidsvoornemens en subsidieplafonds voor subsidiëring in het jaar 2007

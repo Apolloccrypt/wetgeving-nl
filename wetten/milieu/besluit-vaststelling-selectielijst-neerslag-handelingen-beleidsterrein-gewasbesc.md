@@ -8,7 +8,7 @@ laatste_update: 2006-12-13
 status: geldig
 toestand: 2006-12-13
 bron: "https://wetten.overheid.nl/BWBR0020610"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gewasbescherming vanaf 1945 (Minister van Landbouw, Natuur en Voedselkwaliteit)

@@ -9,7 +9,7 @@ laatste_update: 2006-12-24
 status: geldig
 toestand: 2006-12-24
 bron: "https://wetten.overheid.nl/BWBR0020986"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 27 juni 2006, houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven op te leggen in het jaar 2007 (Verordening PT heffing hoveniersbedrijven omzetjaar 2006)

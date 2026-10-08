@@ -9,7 +9,7 @@ laatste_update: 2006-11-02
 status: geldig
 toestand: 2006-11-02
 bron: "https://wetten.overheid.nl/BWBR0020455"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Beleidsregel inzake de verstrekking van een tijdelijk bewijsschrift taxi ten behoeve van het verkorten van de procedure voor het verkrijgen van een chauffeurspas als bedoeld in artikel 75 van het Besluit personenvervoer 2000 (Beleidsregel tijdelijk bewijsschrift taxi)

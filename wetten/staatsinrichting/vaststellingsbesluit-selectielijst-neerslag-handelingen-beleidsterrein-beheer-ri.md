@@ -8,7 +8,7 @@ laatste_update: 2006-09-13
 status: geldig
 toestand: 2006-09-13
 bron: "https://wetten.overheid.nl/BWBR0020181"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Beheer Rijksbegroting vanaf 1945 (Minister van Economische Zaken )

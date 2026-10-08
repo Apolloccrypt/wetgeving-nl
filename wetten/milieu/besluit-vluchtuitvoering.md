@@ -9,7 +9,7 @@ laatste_update: 2020-12-31
 status: geldig
 toestand: 2020-12-31
 bron: "https://wetten.overheid.nl/BWBR0020111"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 13 juli 2006, houdende regels voor de uitvoering van vluchten met luchtvaartuigen (Besluit vluchtuitvoering)

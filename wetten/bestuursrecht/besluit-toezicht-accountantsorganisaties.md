@@ -9,7 +9,7 @@ laatste_update: 2026-05-20
 status: geldig
 toestand: 2026-05-20
 bron: "https://wetten.overheid.nl/BWBR0020184"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 16 augustus 2006, houdende regels ter zake van de uitvoering van de Wet toezicht accountantsorganisaties (Besluit toezicht accountantsorganisaties)

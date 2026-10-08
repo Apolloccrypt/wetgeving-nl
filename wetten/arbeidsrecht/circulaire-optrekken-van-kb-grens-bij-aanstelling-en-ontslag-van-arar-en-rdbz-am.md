@@ -8,7 +8,7 @@ laatste_update: 2007-04-10
 status: geldig
 toestand: 2007-04-10
 bron: "https://wetten.overheid.nl/BWBR0021662"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Circulaire optrekken van KB-grens bij aanstelling en ontslag van ARAR- en RDBZ-ambtenaren per 1 maart 2007

@@ -9,7 +9,7 @@ laatste_update: 2014-12-13
 status: geldig
 toestand: 2014-12-13
 bron: "https://wetten.overheid.nl/BWBR0021039"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 januari 2007, nr. VGP/VV 2742234, houdende de Warenwetregeling vrijstelling toevoeging foliumzuur en vitamine D aan levensmiddelen

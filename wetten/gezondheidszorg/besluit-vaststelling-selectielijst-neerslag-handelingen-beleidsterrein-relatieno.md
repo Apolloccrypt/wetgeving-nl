@@ -8,7 +8,7 @@ laatste_update: 2006-12-03
 status: geldig
 toestand: 2006-12-03
 bron: "https://wetten.overheid.nl/BWBR0020504"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Relatienotabeleid over de periode vanaf 1974 (Minister van Volksgezondheid, Welzijn en Sport)

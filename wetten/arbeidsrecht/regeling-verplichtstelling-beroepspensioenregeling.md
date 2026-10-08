@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0020895"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 december 2006, nr. AV/PB/2006/102511a, tot Vaststelling van regels met betrekking tot de verplichtstelling op grond van de Wet verplichte beroepspensioenregeling (Regeling verplichtstelling beroepspensioenregeling)

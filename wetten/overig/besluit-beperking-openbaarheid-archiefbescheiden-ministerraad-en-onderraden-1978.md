@@ -9,7 +9,7 @@ laatste_update: 2007-01-20
 status: geldig
 toestand: 2007-01-20
 bron: "https://wetten.overheid.nl/BWBR0021046"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken van 7 november 2006, nr. 06M487724, inzake beperkingen aan de openbaarheid van in de verklaring van overbrenging van de notulen en bescheiden van de ministerraad en onderraden (1 januari 1978–1 januari 1985) genoemde archiefbescheiden

@@ -9,7 +9,7 @@ laatste_update: 2007-02-01
 status: geldig
 toestand: 2007-02-01
 bron: "https://wetten.overheid.nl/BWBR0020559"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 22 november 2006, nr. OI PI/6100483, houdende de vaststelling van een vergoeding voor de voorzitter en de leden van de Adviescommissie innoWATOR

@@ -8,7 +8,7 @@ laatste_update: 2006-11-02
 status: geldig
 toestand: 2006-11-02
 bron: "https://wetten.overheid.nl/BWBR0020466"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Circulaire houtopslag

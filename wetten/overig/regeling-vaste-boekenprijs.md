@@ -9,7 +9,7 @@ laatste_update: 2007-04-16
 status: geldig
 toestand: 2007-04-16
 bron: "https://wetten.overheid.nl/BWBR0021698"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 12 april 2007, nr. MLB/JZ/2007/10.574, houdende nadere regels ter uitvoering van de Wet op de vaste boekenprijs en het Besluit vaste boekenprijs (Regeling vaste boekenprijs)

@@ -9,7 +9,7 @@ laatste_update: 2019-12-14
 status: geldig
 toestand: 2019-12-14
 bron: "https://wetten.overheid.nl/BWBR0020507"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 november 2006, nr. VGP/VV 2727761, houdende de Warenwetregeling noodmaatregelen invoer levensmiddelen uit derde landen (verordening (EG) 178/2002)

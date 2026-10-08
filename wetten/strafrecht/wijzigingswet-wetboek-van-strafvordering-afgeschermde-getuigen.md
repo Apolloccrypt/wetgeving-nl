@@ -9,7 +9,7 @@ laatste_update: 2006-11-01
 status: geldig
 toestand: 2006-11-01
 bron: "https://wetten.overheid.nl/BWBR0020366"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 28 september 2006 tot wijziging van het Wetboek van Strafvordering in verband met het treffen van een regeling inzake het verhoor van afgeschermde getuigen en enkele andere onderwerpen (afgeschermde getuigen)

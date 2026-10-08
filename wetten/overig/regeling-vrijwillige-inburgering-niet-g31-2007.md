@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0020646"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 6 december 2006, nr. DDS 5456934, houdende regels tot bevordering van vrijwillige inburgering in de niet-G31 gemeenten

@@ -9,7 +9,7 @@ laatste_update: 2006-12-03
 status: geldig
 toestand: 2006-12-03
 bron: "https://wetten.overheid.nl/BWBR0020575"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat en de Staatssecretaris van Defensie van 29 november 2006, nr. HDJZ/LUV/2006-1803, Hoofddirectie Juridische Zaken, tot wijziging van de Regeling geluidwerende voorzieningen 1997 in verband met aanpassingen in de uitvoering en enkele technische verbeteringen

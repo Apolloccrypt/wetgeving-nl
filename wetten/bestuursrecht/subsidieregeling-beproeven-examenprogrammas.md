@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0050706"
-opgehaald: 2026-10-07
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Media van 14 januari 2025, nr. VO/1502027, houdende regels voor subsidieverstrekking ter ondersteuning van het beproeven van conceptexamenprogramma’s (Subsidieregeling beproeven examenprogramma’s)

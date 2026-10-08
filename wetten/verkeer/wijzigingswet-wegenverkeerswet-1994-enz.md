@@ -9,7 +9,7 @@ laatste_update: 2009-05-01
 status: geldig
 toestand: 2009-05-01
 bron: "https://wetten.overheid.nl/BWBR0020606"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 2 november 2006 tot wijziging van de Wegenverkeerswet 1994 en enkele verwante wetten op een aantal punten van uiteenlopende aard

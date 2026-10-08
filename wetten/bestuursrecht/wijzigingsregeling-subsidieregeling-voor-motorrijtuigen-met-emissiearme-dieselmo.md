@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020784"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 december 2006, nr. KVI 2006333133, houdende wijziging van de Subsidieregeling voor motorrijtuigen met emissiearme dieselmotor en recht op teruggaaf BPM, in verband met de wet van 22 november 2006 tot wijziging van de Wet op de belasting van personenauto’s en motorrijwielen 1992 en van enige andere wetten (omzetting teruggaafregeling bestelauto’s ondernemers in vrijstellingsregeling) (Stb. 607) (aanpassing aan vrijstellingsregeling Wet BPM)

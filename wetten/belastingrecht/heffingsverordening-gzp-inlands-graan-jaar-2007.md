@@ -9,7 +9,7 @@ laatste_update: 2007-04-29
 status: geldig
 toestand: 2007-04-29
 bron: "https://wetten.overheid.nl/BWBR0021839"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 2 november 2006, houdende vaststelling bestemmingsheffing ten behoeve van de teelt van inlands graan in Nederland voor het jaar 2007 (Heffingsverordening GZP inlands graan jaar 2007)

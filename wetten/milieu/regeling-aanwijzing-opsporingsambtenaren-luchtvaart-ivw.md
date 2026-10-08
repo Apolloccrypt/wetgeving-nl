@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0020148"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende aanwijzing van ambtenaren bij de Inspectie Verkeer en Waterstaat belast met de opsporing van strafbare feiten (Regeling aanwijzing opsporingsambtenaren luchtvaart IVW)

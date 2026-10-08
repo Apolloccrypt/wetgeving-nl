@@ -9,7 +9,7 @@ laatste_update: 2022-06-01
 status: geldig
 toestand: 2022-06-01
 bron: "https://wetten.overheid.nl/BWBR0020762"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 11 december 2006, houdende regels ter voorkoming van verontreiniging door schepen (Besluit voorkoming verontreiniging door schepen)

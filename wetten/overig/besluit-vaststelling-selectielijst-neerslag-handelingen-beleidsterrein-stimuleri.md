@@ -8,7 +8,7 @@ laatste_update: 2007-03-01
 status: geldig
 toestand: 2007-03-01
 bron: "https://wetten.overheid.nl/BWBR0021316"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Stimulering Midden- en Kleinbedrijf vanaf 1945 (Minister van Economische Zaken)

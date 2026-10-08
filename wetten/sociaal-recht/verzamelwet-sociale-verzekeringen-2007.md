@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0020804"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 30 november 2006 tot wijziging van enige socialeverzekeringswetten en enige andere wetten (Verzamelwet sociale verzekeringen 2007)

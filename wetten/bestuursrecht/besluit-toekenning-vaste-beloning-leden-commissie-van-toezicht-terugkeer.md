@@ -9,7 +9,7 @@ laatste_update: 2006-12-23
 status: geldig
 toestand: 2006-12-23
 bron: "https://wetten.overheid.nl/BWBR0020775"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 1 december 2006, nr. 06.004394, houdende toekenning van een vaste beloning aan de leden van de Commissie van Toezicht Terugkeer

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0021609"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 19 maart 2007, houdende aanwijzing van categorieën van beperkingenbesluiten waarop de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken van toepassing is (Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken)

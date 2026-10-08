@@ -9,7 +9,7 @@ laatste_update: 2007-07-01
 status: geldig
 toestand: 2007-07-01
 bron: "https://wetten.overheid.nl/BWBR0020395"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 5 oktober 2006 tot wijziging van het Wetboek van Strafvordering met betrekking tot het hoger beroep in strafzaken, het aanwenden van gewone rechtsmiddelen en het wijzigen van de telastlegging (stroomlijnen hoger beroep)

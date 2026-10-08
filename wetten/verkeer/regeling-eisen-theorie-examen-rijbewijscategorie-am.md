@@ -9,7 +9,7 @@ laatste_update: 2015-04-01
 status: geldig
 toestand: 2015-04-01
 bron: "https://wetten.overheid.nl/BWBR0020226"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van 25 augustus 2006, nr. HDJZ/AWW/2006-1260, Hoofddirectie Juridische Zaken, houdende eisen voor het theorie-examen voor de rijbewijscategorie AM (Regeling eisen theorie-examen rijbewijscategorie AM)

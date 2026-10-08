@@ -9,7 +9,7 @@ laatste_update: 2007-05-09
 status: geldig
 toestand: 2007-05-09
 bron: "https://wetten.overheid.nl/BWBR0021810"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 26 april 2007 tot wijziging van het Wetboek van Strafvordering, de Wet OM-afdoening en enige andere wetten in verband met het wegnemen van enkele technische onvolkomenheden

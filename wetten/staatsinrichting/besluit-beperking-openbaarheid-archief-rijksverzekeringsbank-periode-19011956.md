@@ -9,7 +9,7 @@ laatste_update: 2007-01-04
 status: geldig
 toestand: 2007-01-04
 bron: "https://wetten.overheid.nl/BWBR0020949"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de voorzitter van de Raad van Bestuur van de Sociale Verzekeringsbank te Amstelveen, houdende beperking van de openbaarheid van het archief van de Rijksverzekeringsbank over de periode 1901–1956 (Bijlage bij de Verklaring van Overbrenging van de Rijksverzekeringsbank 1901–1956)

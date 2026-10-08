@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0020708"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat van 12 december 2006, nr. HDJZ/2006/1894, houdende vaststelling van regels met betrekking tot de aanvraag en afgifte van transitokentekenbewijzen (Regeling transitokentekenbewijzen)

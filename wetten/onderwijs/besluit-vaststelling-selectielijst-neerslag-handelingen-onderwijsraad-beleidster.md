@@ -8,7 +8,7 @@ laatste_update: 2006-11-01
 status: geldig
 toestand: 2006-11-01
 bron: "https://wetten.overheid.nl/BWBR0020451"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Onderwijsraad beleidsterrein Speciaal onderwijs 1950–1996

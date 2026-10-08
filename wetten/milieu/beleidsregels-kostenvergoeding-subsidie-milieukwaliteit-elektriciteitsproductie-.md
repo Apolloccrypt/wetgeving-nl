@@ -8,7 +8,7 @@ laatste_update: 2006-12-15
 status: geldig
 toestand: 2006-12-15
 bron: "https://wetten.overheid.nl/BWBR0020580"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Beleidsregels kostenvergoeding subsidie milieukwaliteit elektriciteitsproductie 2006

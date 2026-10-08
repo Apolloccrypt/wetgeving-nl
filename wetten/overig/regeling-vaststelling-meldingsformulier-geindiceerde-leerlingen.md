@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0020147"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling vaststelling meldingsformulier voor registratie geïndiceerde leerlingen

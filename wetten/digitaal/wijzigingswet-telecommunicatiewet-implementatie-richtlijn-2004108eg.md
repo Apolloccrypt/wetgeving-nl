@@ -9,7 +9,7 @@ laatste_update: 2007-07-20
 status: geldig
 toestand: 2007-07-20
 bron: "https://wetten.overheid.nl/BWBR0021038"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 7 april 2006 tot wijziging van de Telecommunicatiewet in verband met de implementatie van richtlijn 2004/108/EG

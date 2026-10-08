@@ -9,7 +9,7 @@ laatste_update: 2007-04-29
 status: geldig
 toestand: 2007-04-29
 bron: "https://wetten.overheid.nl/BWBR0021840"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 1 maart 2007, houdende vaststelling bestemmingsheffing ten behoeve van de sector zaaizaden van voedergewassen in Nederland voor het jaar 2007 (Heffingsverordening GZP fonds zaaizaad van voedergewassen jaar 2007)

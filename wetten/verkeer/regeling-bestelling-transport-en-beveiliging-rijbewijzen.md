@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0020227"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling houdende regels betreffende de bestelling, het transport en de beveiliging van rijbewijzen en wijziging van enkele regelingen op het gebied van de rijbewijsreglementering (Regeling bestelling, transport en beveiliging rijbewijzen)

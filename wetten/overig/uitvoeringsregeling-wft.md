@@ -9,7 +9,7 @@ laatste_update: 2025-11-25
 status: geldig
 toestand: 2025-11-25
 bron: "https://wetten.overheid.nl/BWBR0020537"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling tot vaststelling van regels ter uitvoering van de Wet op het financieel toezicht, de Invoerings- en aanpassingswet Wet op het financieel toezicht en tot wijziging van enige andere regelingen (Uitvoeringsregeling Wft)

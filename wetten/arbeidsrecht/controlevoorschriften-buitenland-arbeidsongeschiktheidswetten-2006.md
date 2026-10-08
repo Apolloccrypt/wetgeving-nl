@@ -8,7 +8,7 @@ laatste_update: 2023-08-01
 status: geldig
 toestand: 2023-08-01
 bron: "https://wetten.overheid.nl/BWBR0020114"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Controlevoorschriften buitenland arbeidsongeschiktheidswetten 2006

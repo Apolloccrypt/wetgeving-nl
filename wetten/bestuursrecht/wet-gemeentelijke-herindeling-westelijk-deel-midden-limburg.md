@@ -9,7 +9,7 @@ laatste_update: 2006-09-22
 status: geldig
 toestand: 2006-09-22
 bron: "https://wetten.overheid.nl/BWBR0020299"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 14 september 2006 tot gemeentelijke herindeling van een aantal gemeenten in het westelijk deel van Midden-Limburg

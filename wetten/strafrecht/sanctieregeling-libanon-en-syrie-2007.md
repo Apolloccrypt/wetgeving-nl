@@ -9,7 +9,7 @@ laatste_update: 2025-04-01
 status: geldig
 toestand: 2025-04-01
 bron: "https://wetten.overheid.nl/BWBR0021556"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 19 maart 2007, nr. DJZ/BR/1029-06, betreffende bepaalde beperkende maatregelen ten aanzien van Libanon en Syrië (Sanctieregeling Libanon en Syrië 2007)

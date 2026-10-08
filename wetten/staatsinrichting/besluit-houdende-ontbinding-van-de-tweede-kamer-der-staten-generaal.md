@@ -9,7 +9,7 @@ laatste_update: 2006-11-01
 status: geldig
 toestand: 2006-11-01
 bron: "https://wetten.overheid.nl/BWBR0020256"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 4 september 2006, houdende ontbinding van de Tweede Kamer der Staten-Generaal

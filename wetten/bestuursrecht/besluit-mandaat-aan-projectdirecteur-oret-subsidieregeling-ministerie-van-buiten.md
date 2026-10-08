@@ -9,7 +9,7 @@ laatste_update: 2007-01-10
 status: geldig
 toestand: 2007-01-10
 bron: "https://wetten.overheid.nl/BWBR0020963"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 20 december 2006, nr. DDE-1026/2006, tot verlening van een mandaat en tot wijziging van beleidsregels en van een subsidieplafond met het oog op subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (ORET)

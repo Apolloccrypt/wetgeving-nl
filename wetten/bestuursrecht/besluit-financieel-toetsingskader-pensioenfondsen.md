@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0020871"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 18 december 2006, houdende regels met betrekking tot het financiële toetsingskader op grond van de Pensioenwet en de Wet verplichte beroepspensioenregeling (Besluit financieel toetsingskader pensioenfondsen)

@@ -9,7 +9,7 @@ laatste_update: 2007-02-07
 status: geldig
 toestand: 2007-02-07
 bron: "https://wetten.overheid.nl/BWBR0021143"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit tot vaststelling van de factoren L en r voor het boekjaar 2007

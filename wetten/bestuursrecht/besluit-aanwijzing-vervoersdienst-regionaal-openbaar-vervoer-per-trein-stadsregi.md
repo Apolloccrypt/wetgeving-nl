@@ -9,7 +9,7 @@ laatste_update: 2007-03-23
 status: geldig
 toestand: 2007-03-23
 bron: "https://wetten.overheid.nl/BWBR0021548"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit tot aanwijzing vervoersdienst waarvoor het Dagelijks Bestuur van de Stadsregio Rotterdam bevoegd is tot het verlenen, wijzigen of intrekken van concessies voor regionaal openbaar vervoer per trein

@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0021162"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 21 december 2006 tot wijziging van de Monumentenwet 1988 en enkele andere wetten ten behoeve van de archeologische monumentenzorg mede in verband met de implementatie van het Verdrag van Valletta (Wet op de archeologische monumentenzorg)

@@ -9,7 +9,7 @@ laatste_update: 2007-01-26
 status: geldig
 toestand: 2007-01-26
 bron: "https://wetten.overheid.nl/BWBR0021065"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 6 december 2006, houdende wijziging van het Besluit donorregister in verband met wijziging van de bijlage en de aanwijzing van categorieën personen die opnieuw een donorformulier zullen ontvangen

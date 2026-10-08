@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0020563"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 22 november 2006, houdende wijziging van de Wet milieubeheer en enige andere daarmee verband houdende wetten (modernisering van de algemene milieuregels voor inrichtingen)

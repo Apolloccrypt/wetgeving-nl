@@ -8,7 +8,7 @@ laatste_update: 2006-08-03
 status: geldig
 toestand: 2006-08-03
 bron: "https://wetten.overheid.nl/BWBR0020117"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Controlevoorschriften Wet arbeid en zorg 2006

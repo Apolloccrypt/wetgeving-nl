@@ -8,7 +8,7 @@ laatste_update: 2007-02-28
 status: geldig
 toestand: 2007-02-28
 bron: "https://wetten.overheid.nl/BWBR0021315"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Verslavingsbeleid 1945- (Minister van Economische Zaken)

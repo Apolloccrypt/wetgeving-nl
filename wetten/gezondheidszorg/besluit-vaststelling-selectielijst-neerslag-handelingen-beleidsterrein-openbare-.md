@@ -8,7 +8,7 @@ laatste_update: 2007-02-21
 status: geldig
 toestand: 2007-02-21
 bron: "https://wetten.overheid.nl/BWBR0021270"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Openbare en bijzondere academische ziekenhuizen vanaf 1985 (Erasmus Medisch Centrum (EMC))

@@ -9,7 +9,7 @@ laatste_update: 2007-02-21
 status: geldig
 toestand: 2007-02-21
 bron: "https://wetten.overheid.nl/BWBR0020702"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 21 november 2006, houdende wijziging van het Besluit trekkende bevolking WPO

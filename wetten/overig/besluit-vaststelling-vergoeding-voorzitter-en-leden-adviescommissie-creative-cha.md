@@ -9,7 +9,7 @@ laatste_update: 2006-11-01
 status: geldig
 toestand: 2006-11-01
 bron: "https://wetten.overheid.nl/BWBR0020310"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 18 september 2006, nr. O&I/I&D 6070574, houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie Creative Challenge Call

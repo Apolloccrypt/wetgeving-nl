@@ -9,7 +9,7 @@ laatste_update: 2026-09-29
 status: geldig
 toestand: 2026-09-29
 bron: "https://wetten.overheid.nl/BWBR0049497"
-opgehaald: 2026-10-07
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 15 maart 2024, houdende regels met betrekking tot de uitvoering en handhaving van EU-verordeningen met betrekking tot de financiële markten of de op die markten werkzame personen (Besluit EU-verordeningen Wft)

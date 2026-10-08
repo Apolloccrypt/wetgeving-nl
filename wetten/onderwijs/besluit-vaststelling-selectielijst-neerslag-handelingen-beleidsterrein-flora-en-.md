@@ -8,7 +8,7 @@ laatste_update: 2007-02-23
 status: geldig
 toestand: 2007-02-23
 bron: "https://wetten.overheid.nl/BWBR0021280"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Flora en Fauna vanaf 1945 (Minister van Onderwijs, Cultuur en Wetenschap)

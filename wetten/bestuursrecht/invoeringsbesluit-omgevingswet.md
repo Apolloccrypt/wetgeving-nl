@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0044923"
-opgehaald: 2026-10-07
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 16 september 2020 tot aanvulling en wijziging van het Besluit activiteiten leefomgeving, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit, de intrekking en wijziging van andere besluiten en regeling van overgangsrecht voor de invoering van de Omgevingswet (Invoeringsbesluit Omgevingswet)

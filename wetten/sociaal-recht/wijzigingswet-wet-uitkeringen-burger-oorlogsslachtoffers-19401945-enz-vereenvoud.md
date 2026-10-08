@@ -9,7 +9,7 @@ laatste_update: 2006-11-17
 status: geldig
 toestand: 2006-11-17
 bron: "https://wetten.overheid.nl/BWBR0020447"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 20 oktober 2006 tot wijziging van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de Wet uitkeringen vervolgingsslachtoffers 1940–1945 in verband met de vereenvoudiging van de systematiek toeslag premie ziektekostenverzekering, alsmede tot het aanbrengen van wijzigingen van andere en ondergeschikte aard

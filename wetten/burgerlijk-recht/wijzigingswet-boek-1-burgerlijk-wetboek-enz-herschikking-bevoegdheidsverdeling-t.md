@@ -9,7 +9,7 @@ laatste_update: 2007-05-01
 status: geldig
 toestand: 2007-05-01
 bron: "https://wetten.overheid.nl/BWBR0020562"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 22 november 2006 tot wijziging van Boek 1 van het Burgerlijk Wetboek in verband met herschikking van de bevoegdheidsverdeling tussen rechtbank en kantonrechter, alsmede van artikel 12 van dat Boek en van artikel 268 van het Wetboek van Burgerlijke Rechtsvordering

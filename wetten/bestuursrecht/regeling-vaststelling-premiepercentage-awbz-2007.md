@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020458"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 24 oktober 2006, nr. Z/F-2720297, houdende vaststelling van het premiepercentage voor de algemene verzekering bijzondere ziektekosten 2007 (Regeling vaststelling premiepercentage AWBZ 2007)

@@ -9,7 +9,7 @@ laatste_update: 2023-09-01
 status: geldig
 toestand: 2023-09-01
 bron: "https://wetten.overheid.nl/BWBR0020517"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 november 2006, nr. MEVA/BO-2720821, houdende vaststelling van regels inzake de verstrekking van subsidies voor de opleidingen tot advanced nurse practitioner en physician assistant (Subsidieregeling opleiding tot advanced nurse practitioner en opleiding tot physician assistant)

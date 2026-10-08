@@ -9,7 +9,7 @@ laatste_update: 2006-09-16
 status: geldig
 toestand: 2006-09-16
 bron: "https://wetten.overheid.nl/BWBR0020270"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 september 2006, nr. DDI/ST/reg 002/2006, houdende beperking van de openbaarheid van de archieven van het consulaat-generaal te Lissabon (Portugal) 1646–1946 (1951), het gezantschap te Portugal (Lissabon) (1759) 1888–1954 (1957), het consulaat te Funchal (Madeira) 1820–1935 en het consulaat te Lourenço Marques (Mozambique) 1904–1947

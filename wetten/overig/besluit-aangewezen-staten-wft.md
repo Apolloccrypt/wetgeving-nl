@@ -9,7 +9,7 @@ laatste_update: 2019-04-01
 status: geldig
 toestand: 2019-04-01
 bron: "https://wetten.overheid.nl/BWBR0020528"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Financiën van 13 november 2006, nr. FM 2006-02503 M, tot aanwijzing van staten waarin adequaat toezicht wordt uitgeoefend op banken, beleggingsinstellingen en clearinginstellingen (Besluit aangewezen staten Wft)

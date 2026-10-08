@@ -9,7 +9,7 @@ laatste_update: 2007-02-07
 status: geldig
 toestand: 2007-02-07
 bron: "https://wetten.overheid.nl/BWBR0021152"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 29 januari 2007, nr. 2007-0000020428, tot het stellen van beperkende bepalingen op de openbaarheid van naar het Nationaal Archief over te brengen werkarchief van jhr. mr. H.F. van Kinschot

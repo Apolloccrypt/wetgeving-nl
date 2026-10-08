@@ -9,7 +9,7 @@ laatste_update: 2007-05-01
 status: geldig
 toestand: 2007-05-01
 bron: "https://wetten.overheid.nl/BWBR0021633"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 29 maart 2007, nr. DGET 7041858, met betrekking tot de verlengbaarheid van GSM vergunningen die in 1995 zijn verleend

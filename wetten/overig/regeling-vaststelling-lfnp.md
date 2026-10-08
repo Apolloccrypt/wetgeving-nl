@@ -9,7 +9,7 @@ laatste_update: 2026-10-03
 status: geldig
 toestand: 2026-10-03
 bron: "https://wetten.overheid.nl/BWBR0033460"
-opgehaald: 2026-10-07
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 7 mei 2013, nr. 382047, directoraat-generaal Politie, programma Arbeidsvoorwaarden in verband met de vaststelling van het Landelijk Functiegebouw Nederlandse Politie (Regeling vaststelling LFNP)

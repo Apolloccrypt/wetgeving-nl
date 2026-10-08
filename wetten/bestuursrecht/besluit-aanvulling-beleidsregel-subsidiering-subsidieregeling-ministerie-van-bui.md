@@ -9,7 +9,7 @@ laatste_update: 2007-06-01
 status: geldig
 toestand: 2007-06-01
 bron: "https://wetten.overheid.nl/BWBR0021647"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 27 maart 2007, nr. DJZ/BR/0325-07, tot aanvulling van een beleidsregel voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (stage en uitwisseling jongeren)

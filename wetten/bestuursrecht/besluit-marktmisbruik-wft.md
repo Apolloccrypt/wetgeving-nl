@@ -9,7 +9,7 @@ laatste_update: 2024-04-01
 status: geldig
 toestand: 2024-04-01
 bron: "https://wetten.overheid.nl/BWBR0020417"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 12 oktober 2006, houdende regels tot uitvoering van diverse bepalingen van hoofdstuk 5.4 van de Wet op het financieel toezicht (Besluit marktmisbruik Wft)

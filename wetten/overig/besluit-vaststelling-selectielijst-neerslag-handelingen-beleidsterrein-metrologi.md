@@ -8,7 +8,7 @@ laatste_update: 2007-04-04
 status: geldig
 toestand: 2007-04-04
 bron: "https://wetten.overheid.nl/BWBR0021638"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Metrologie over de periode 1946–1997 (Minister van Economische Zaken)

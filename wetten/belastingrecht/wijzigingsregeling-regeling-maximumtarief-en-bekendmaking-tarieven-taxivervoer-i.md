@@ -9,7 +9,7 @@ laatste_update: 2007-12-23
 status: geldig
 toestand: 2007-12-23
 bron: "https://wetten.overheid.nl/BWBR0020573"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van 27 november 2006, nr. HDJZ/S&W/2006-1820, Hoofddirectie Juridische Zaken, tot wijziging van de Regeling maximumtarief en bekendmaking tarieven taxivervoer in verband met de invoering van een transparante tariefstructuur

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0020632"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 4 december 2006, Directie Sociale Verzekeringen, nr. SV/WV06/97881, betreffende een tegemoetkoming voor personen die een uitkering ontvangen op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Regeling tegemoetkoming Wajongers 2007)

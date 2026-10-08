@@ -9,7 +9,7 @@ laatste_update: 2006-11-15
 status: geldig
 toestand: 2006-11-15
 bron: "https://wetten.overheid.nl/BWBR0020489"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 1 november 2006, houdende wijziging van het Besluit kostenopslag inning kinderalimentaties in verband met aanpassing van enkele bedragen

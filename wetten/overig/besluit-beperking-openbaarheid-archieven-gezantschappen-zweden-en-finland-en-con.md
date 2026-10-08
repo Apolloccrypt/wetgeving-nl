@@ -9,7 +9,7 @@ laatste_update: 2006-09-16
 status: geldig
 toestand: 2006-09-16
 bron: "https://wetten.overheid.nl/BWBR0020269"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 september 2006, nr. DDI/ST/reg 002/2006, houdende beperking van de openbaarheid van de archieven van de gezantschappen te Zweden (Stockholm) (1868) 1910–1946 (1948) en te Finland (Helsinki) 1919–1940, het consulaat-generaal te Stockholm (Zweden) 1896–1946 en het gezantschap te Zweden (Stockholm) (1944) 1946–1954

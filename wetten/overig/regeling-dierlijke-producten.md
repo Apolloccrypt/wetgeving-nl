@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0032462"
-opgehaald: 2026-10-07
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Economische Zaken van 7 december 2012, nr. WJZ/12346914, houdende regels met betrekking tot dierlijke producten (Regeling dierlijke producten)

@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0020252"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 31 augustus 2006, houdende vaststelling van de toeslag en het maximumbedrag van de toeslag voor de premie van verzekering tegen ziektekosten voor gerechtigden op basis van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de Wet uitkeringen vervolgingsslachtoffers 1940–1945 (Besluit toeslag premie ziektekostenverzekering Wubo en Wuv)

@@ -8,7 +8,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020651"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit premievaststelling vrijwillige verzekering ZW 2007

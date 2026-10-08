@@ -9,7 +9,7 @@ laatste_update: 2008-02-22
 status: geldig
 toestand: 2008-02-22
 bron: "https://wetten.overheid.nl/BWBR0021493"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 maart 2007, nr. SAS2007015288, houdende regels met betrekking tot subsidies aan gemeenten om hen te stimuleren tot het verminderen van milieudruk door het bevorderen van preventie en scheiding van huishoudelijke afvalstoffen (Subsidieregeling aanpak milieudrukvermindering 2007)

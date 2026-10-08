@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0048084"
-opgehaald: 2026-10-07
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de directeur-generaal Straffen en Beschermen van het Ministerie van Justitie en Veiligheid van 11 april 2023, nr. 4502822, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur-generaal ressorterende functionarissen van het directoraat-generaal Straffen en Beschermen (Mandaatbesluit DGSenB Ministerie van Justitie en Veiligheid 2023)

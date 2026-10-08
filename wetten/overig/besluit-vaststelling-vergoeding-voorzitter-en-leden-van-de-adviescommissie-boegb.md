@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020531"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 14 november 2006, nr. 6096988, houdende de vaststelling van een vergoeding voor de voorzitter en de leden van de Adviescommissie Boegbeeldprogramma

@@ -9,7 +9,7 @@ laatste_update: 2006-09-21
 status: geldig
 toestand: 2006-09-21
 bron: "https://wetten.overheid.nl/BWBR0020292"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Beleidsregel tot vaststelling van voorwaarden die gelden tijdens de overgangsperiode na afloop van de proef met langere of langere en zwaardere vrachtautocombinaties voor ontheffingen verleend ten tijde van die proef (Beleidsregel overgangsperiode proef ontheffingverlening LZV)

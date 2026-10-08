@@ -9,7 +9,7 @@ laatste_update: 2007-03-04
 status: geldig
 toestand: 2007-03-04
 bron: "https://wetten.overheid.nl/BWBR0021483"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2007 (Verordening PT algemene heffing handel groenten en fruit 2007)

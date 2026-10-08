@@ -9,7 +9,7 @@ laatste_update: 2010-03-24
 status: geldig
 toestand: 2010-03-24
 bron: "https://wetten.overheid.nl/BWBR0020215"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 augustus 2006, nr. 2006GMT/FBI 2661573, houdende verlening van mandaat, volmacht en machtiging aan de algemeen directeur van SenterNovem tot het nemen van besluiten op grond van de subsidieregeling TTI

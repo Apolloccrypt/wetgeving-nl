@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0021547"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 5 maart 2007, houdende wijziging van de Kadasterwet, de Organisatiewet Kadaster en enige andere wetten in verband met de aanwijzing van de kadastrale registratie, de kadastrale kaart en het geografisch bestand als basisregistraties en enkele andere wijzigingen (Wet basisregistraties kadaster en topografie)

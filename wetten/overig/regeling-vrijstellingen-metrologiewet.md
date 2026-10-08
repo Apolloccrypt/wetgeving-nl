@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0020568"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Economische Zaken van 23 november 2006, nr. WJZ 6098776, houdende enkele vrijstellingen in het kader van de Metrologiewet (Regeling vrijstellingen Metrologiewet)

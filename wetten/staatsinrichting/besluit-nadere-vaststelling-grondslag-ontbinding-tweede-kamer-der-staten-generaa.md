@@ -9,7 +9,7 @@ laatste_update: 2006-11-17
 status: geldig
 toestand: 2006-11-17
 bron: "https://wetten.overheid.nl/BWBR0020541"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 15 november 2006, houdende nadere vaststelling van de grondslag voor de ontbinding van de Tweede Kamer der Staten-Generaal op 30 november 2006 in verband met aanvaarding in eerste lezing door beide Kamers der Staten-Generaal van voorstellen tot verandering van de Grondwet

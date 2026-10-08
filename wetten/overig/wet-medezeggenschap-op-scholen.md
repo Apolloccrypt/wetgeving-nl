@@ -9,7 +9,7 @@ laatste_update: 2025-08-01
 status: geldig
 toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0020685"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 30 november 2006, houdende nieuwe bepalingen met betrekking tot medezeggenschap op scholen als bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet op het voortgezet onderwijs (Wet medezeggenschap op scholen)

@@ -9,7 +9,7 @@ laatste_update: 2007-02-18
 status: geldig
 toestand: 2007-02-18
 bron: "https://wetten.overheid.nl/BWBR0021390"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 25 april 2006, houdende een verlaging van de vakheffíg bloembollen leverbaar oogstjaar 2006 (Besluit 2006/2 PT vakheffing bloembollen leverbaar oogstjaar 2006)

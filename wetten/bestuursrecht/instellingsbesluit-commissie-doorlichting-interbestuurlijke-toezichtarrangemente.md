@@ -8,7 +8,7 @@ laatste_update: 2007-05-16
 status: geldig
 toestand: 2007-05-16
 bron: "https://wetten.overheid.nl/BWBR0020203"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Instellingsbesluit Commissie Doorlichting Interbestuurlijke Toezichtarrangementen

@@ -8,7 +8,7 @@ laatste_update: 2007-01-17
 status: geldig
 toestand: 2007-01-17
 bron: "https://wetten.overheid.nl/BWBR0021002"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Beleidsregel Programma van eisen en besteksbepalingen voor ADL-clusterprojecten

@@ -9,7 +9,7 @@ laatste_update: 2006-12-30
 status: geldig
 toestand: 2006-12-30
 bron: "https://wetten.overheid.nl/BWBR0020859"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende regels inzake de periodieke controle van taxameters (Regeling periodieke controle taxameters)

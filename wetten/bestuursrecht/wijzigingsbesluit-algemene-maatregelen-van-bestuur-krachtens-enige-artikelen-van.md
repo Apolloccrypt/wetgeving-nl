@@ -9,7 +9,7 @@ laatste_update: 2006-12-21
 status: geldig
 toestand: 2006-12-21
 bron: "https://wetten.overheid.nl/BWBR0020450"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 20 oktober 2006, houdende wijziging van enige krachtens de artikelen 8.40, 8.41 en 8.42 van de Wet milieubeheer gegeven algemene maatregelen van bestuur in verband met een tekort aan geluidsruimte op industrieterreinen als bedoeld in artikel 1 van de Wet geluidhinder (efficiënter gebruik geluidsruimte op gezoneerde industrieterreinen)

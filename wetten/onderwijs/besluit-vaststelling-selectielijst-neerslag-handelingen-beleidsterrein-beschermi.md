@@ -8,7 +8,7 @@ laatste_update: 2007-04-18
 status: geldig
 toestand: 2007-04-18
 bron: "https://wetten.overheid.nl/BWBR0021695"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Bescherming van Persoonsgegevens 1968- (Minister van Onderwijs, Cultuur en Wetenschap)

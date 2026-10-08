@@ -9,7 +9,7 @@ laatste_update: 2006-10-31
 status: geldig
 toestand: 2006-10-31
 bron: "https://wetten.overheid.nl/BWBR0020456"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 24 oktober 2006, nr. MC-2725263, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de vaststelling van de contracteerruimte 2007 voor de Algemene Wet Bijzondere Ziektekosten

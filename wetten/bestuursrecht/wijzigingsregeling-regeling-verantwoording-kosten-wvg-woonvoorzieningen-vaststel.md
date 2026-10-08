@@ -9,7 +9,7 @@ laatste_update: 2006-11-03
 status: geldig
 toestand: 2006-11-03
 bron: "https://wetten.overheid.nl/BWBR0020457"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 24 oktober 2006, nr. DMO/PO-U-2719873, houdende wijziging van de Regeling verantwoording kosten Wvg-woonvoorzieningen

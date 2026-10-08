@@ -9,7 +9,7 @@ laatste_update: 2007-02-11
 status: geldig
 toestand: 2007-02-11
 bron: "https://wetten.overheid.nl/BWBR0021198"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 2 februari 2007, nr. DDI/ST/reg.005/2007, houdende beperking van de openbaarheid van het archief van de Commissies Verzetster Oost-Azië 1942–1945, 1949–1957

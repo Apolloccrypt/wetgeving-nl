@@ -9,7 +9,7 @@ laatste_update: 2006-09-22
 status: geldig
 toestand: 2006-09-22
 bron: "https://wetten.overheid.nl/BWBR0020305"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit tot vaststelling van de bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2005

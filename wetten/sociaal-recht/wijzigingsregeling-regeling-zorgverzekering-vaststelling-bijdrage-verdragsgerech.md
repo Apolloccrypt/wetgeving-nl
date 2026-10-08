@@ -9,7 +9,7 @@ laatste_update: 2007-04-15
 status: geldig
 toestand: 2007-04-15
 bron: "https://wetten.overheid.nl/BWBR0021702"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 5 april 2007, nr. Z/VV-2751070, houdende wijziging van de Regeling zorgverzekering in verband met de vaststelling van de bijdrage van verdragsgerechtigden door het College zorgverzekeringen

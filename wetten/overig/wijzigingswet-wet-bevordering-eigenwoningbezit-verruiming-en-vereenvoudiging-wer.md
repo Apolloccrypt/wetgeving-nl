@@ -9,7 +9,7 @@ laatste_update: 2008-06-13
 status: geldig
 toestand: 2008-06-13
 bron: "https://wetten.overheid.nl/BWBR0020876"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 21 december 2006 tot wijziging van de Wet bevordering eigenwoningbezit (verruiming en vereenvoudiging van de werking van de Wet bevordering eigenwoningbezit)

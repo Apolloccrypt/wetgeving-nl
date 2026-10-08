@@ -9,7 +9,7 @@ laatste_update: 2006-12-24
 status: geldig
 toestand: 2006-12-24
 bron: "https://wetten.overheid.nl/BWBR0021011"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een heffing op verduurzaamde producten voor het jaar 2007 (Verordening PT heffing verduurzaamde groenten en fruit 2007)

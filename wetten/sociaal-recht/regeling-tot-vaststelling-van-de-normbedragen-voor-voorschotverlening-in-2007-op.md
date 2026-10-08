@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020452"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Justitie van 23 oktober 2006, nr. 5448573/06/DIRR, Directie Instrumentatie Rechtspleging en Rechtshandhaving, Afdeling Financiële Advisering en Control, tot vaststelling van de normbedragen voor voorschotverlening in 2007 op grond van het Besluit vergoedingen rechtsbijstand 2000

@@ -9,7 +9,7 @@ laatste_update: 2025-07-16
 status: geldig
 toestand: 2025-07-16
 bron: "https://wetten.overheid.nl/BWBR0021777"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 22 maart 2007, houdende regels omtrent een basisregister van ondernemingen en rechtspersonen (Handelsregisterwet 2007)

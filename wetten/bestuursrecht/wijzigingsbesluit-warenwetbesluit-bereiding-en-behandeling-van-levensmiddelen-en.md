@@ -9,7 +9,7 @@ laatste_update: 2007-10-17
 status: geldig
 toestand: 2007-10-17
 bron: "https://wetten.overheid.nl/BWBR0021062"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 19 december 2006, houdende wijziging van het Warenwetbesluit Bereiding en behandeling van levensmiddelen en van het Warenwetbesluit bestuurlijke boeten, inzake residuen van bestrijdingsmiddelen op of in levensmiddelen

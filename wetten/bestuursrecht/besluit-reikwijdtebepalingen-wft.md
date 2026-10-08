@@ -9,7 +9,7 @@ laatste_update: 2024-07-01
 status: geldig
 toestand: 2024-07-01
 bron: "https://wetten.overheid.nl/BWBR0020419"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 12 oktober 2006, houdende bepalingen ter uitvoering van de artikelen 1:10, 1:11, 3:5, 3:36 en 3:110 van de Wet op het financieel toezicht (Besluit Reikwijdtebepalingen Wft)

@@ -9,7 +9,7 @@ laatste_update: 2007-05-11
 status: geldig
 toestand: 2007-05-11
 bron: "https://wetten.overheid.nl/BWBR0021815"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid 1 mei 2007, Directie GOB/DIV/2007/14583, houdende een beperking van de openbaarheid voor de inventarisnummers 15, 16 tot en met 25, 30, 56, 88, 89, 111 en 122 uit het historische bestand van personeelsleden die met ontslag zijn gegaan in de periode (1932) 1933–1991 (Archiefregeling historische personeelsdossier Ministerie van Sociale Zaken en Werkgelegenheid)

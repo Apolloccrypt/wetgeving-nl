@@ -9,7 +9,7 @@ laatste_update: 2023-03-16
 status: geldig
 toestand: 2023-03-16
 bron: "https://wetten.overheid.nl/BWBR0020544"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 november 2006, nr. VO/F/2006/40694, houdende nadere voorschriften met betrekking tot de verrekening van uitkeringskosten (Regeling nadere voorschriften met betrekking tot de verrekening van uitkeringskosten)

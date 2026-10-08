@@ -9,7 +9,7 @@ laatste_update: 2007-03-11
 status: geldig
 toestand: 2007-03-11
 bron: "https://wetten.overheid.nl/BWBR0021528"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 20 februari 2007, houdenden de vaststelling van de percentages van de heffingen voor de vollegrondsgroenten voor het jaar 2005 (Besluit 2005/4 PT bijzondere heffing vollegrondsgroenten 2005)

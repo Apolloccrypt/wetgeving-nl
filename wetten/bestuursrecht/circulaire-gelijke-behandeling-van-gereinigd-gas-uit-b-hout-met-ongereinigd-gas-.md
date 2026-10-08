@@ -9,7 +9,7 @@ laatste_update: 2006-10-03
 status: geldig
 toestand: 2006-10-03
 bron: "https://wetten.overheid.nl/BWBR0020378"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Circulaire van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 oktober 2006, inzake Gereinigd gas uit B-hout

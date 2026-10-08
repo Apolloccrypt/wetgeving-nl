@@ -9,7 +9,7 @@ laatste_update: 2006-09-30
 status: geldig
 toestand: 2006-09-30
 bron: "https://wetten.overheid.nl/BWBR0020331"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 september 2006, nr. Z/F-2717267, tot wijziging van de Regeling zorgverzekering in verband met de vaststelling van de vereveningsbijdragen van zorgverzekeraars voor 2006 en 2007, alsmede wijziging van de Regeling beschikbare middelen verstrekkingen en vergoedingen Zfw 2005

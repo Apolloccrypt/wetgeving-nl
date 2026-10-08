@@ -9,7 +9,7 @@ laatste_update: 2025-11-14
 status: geldig
 toestand: 2025-11-14
 bron: "https://wetten.overheid.nl/BWBR0020731"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 6 december 2006, nr. LMV 2006 333053, houdende regels met betrekking tot het subsidiëren van maatregelen ten behoeve van de sanering van verkeerslawaai (Subsidieregeling sanering verkeerslawaai)

@@ -9,7 +9,7 @@ laatste_update: 2025-09-17
 status: geldig
 toestand: 2025-09-17
 bron: "https://wetten.overheid.nl/BWBR0020786"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van 12 december 2006, nr. HDJZ/SCH/2006-1945, Hoofddirectie Juridische Zaken, houdende nadere regels ter voorkoming van verontreiniging door schepen (Regeling voorkoming verontreiniging door schepen)

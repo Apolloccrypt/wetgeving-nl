@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0020540"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Nadere regeling van de Autoriteit Financiële Markten van 15 november 2006, houdende regels voor het gedragstoezicht op financiële ondernemingen op grond van de Wet op het financieel toezicht (Nadere Regeling gedragstoezicht financiële ondernemingen Wft)

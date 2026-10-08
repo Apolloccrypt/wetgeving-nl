@@ -8,7 +8,7 @@ laatste_update: 2007-04-07
 status: geldig
 toestand: 2007-04-07
 bron: "https://wetten.overheid.nl/BWBR0021655"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Bevolkingsadministratie en reisdocumenten vanaf 1945 (Minister van Binnenlandse Zaken en Koninkrijksrelatie)

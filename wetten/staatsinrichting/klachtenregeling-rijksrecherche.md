@@ -9,7 +9,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0020307"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van 15 september 2006, nr. 5443243/06, houdende regels ten aanzien van de behandeling van klachten over de Rijksrecherche (Klachtenregeling Rijksrecherche)

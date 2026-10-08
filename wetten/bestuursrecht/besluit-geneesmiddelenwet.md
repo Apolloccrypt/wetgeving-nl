@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0021672"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 19 maart 2007, houdende uitvoeringsvoorschriften krachtens de Geneesmiddelenwet (Besluit Geneesmiddelenwet)

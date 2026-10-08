@@ -8,7 +8,7 @@ laatste_update: 2006-07-24
 status: geldig
 toestand: 2006-07-24
 bron: "https://wetten.overheid.nl/BWBR0020129"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit Staatssecretaris van Defensie Mandaat UWV

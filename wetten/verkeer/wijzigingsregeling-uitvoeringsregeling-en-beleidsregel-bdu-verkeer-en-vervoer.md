@@ -9,7 +9,7 @@ laatste_update: 2006-12-21
 status: geldig
 toestand: 2006-12-21
 bron: "https://wetten.overheid.nl/BWBR0020730"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van 12 december 2006, nr. HDJZ/S&W/2006-1971, Hoofddirectie Juridische Zaken, tot wijziging van de Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer

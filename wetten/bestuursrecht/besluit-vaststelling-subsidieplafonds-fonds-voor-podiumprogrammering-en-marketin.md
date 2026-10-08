@@ -9,7 +9,7 @@ laatste_update: 2006-12-01
 status: geldig
 toestand: 2006-12-01
 bron: "https://wetten.overheid.nl/BWBR0020322"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling subsidieplafonds Fonds voor Podiumprogrammering en Marketing voor 2007

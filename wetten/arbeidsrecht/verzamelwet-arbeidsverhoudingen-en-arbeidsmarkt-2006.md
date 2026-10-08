@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0020681"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 20 november 2006 tot wijziging van een aantal wetten op het terrein van de arbeidsverhoudingen en de arbeidsmarkt (Verzamelwet arbeidsverhoudingen en arbeidsmarkt 2006)

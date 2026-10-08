@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0020443"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 20 oktober 2006, 20.10.2006, nr. OI/I/6086711, houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie Smart Mix

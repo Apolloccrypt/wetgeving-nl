@@ -8,7 +8,7 @@ laatste_update: 2006-11-30
 status: geldig
 toestand: 2006-11-30
 bron: "https://wetten.overheid.nl/BWBR0020313"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Instellingsbesluit draaginsigne Dutchbat III

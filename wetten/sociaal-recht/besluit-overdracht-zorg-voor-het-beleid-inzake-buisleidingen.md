@@ -9,7 +9,7 @@ laatste_update: 2006-12-22
 status: geldig
 toestand: 2006-12-22
 bron: "https://wetten.overheid.nl/BWBR0020758"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 11 december 2006, houdende de overdracht van de zorg voor het beleid inzake buisleidingen

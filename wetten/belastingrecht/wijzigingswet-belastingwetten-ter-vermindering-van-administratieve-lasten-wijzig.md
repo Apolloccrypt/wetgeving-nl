@@ -9,7 +9,7 @@ laatste_update: 2023-06-01
 status: geldig
 toestand: 2023-06-01
 bron: "https://wetten.overheid.nl/BWBR0020829"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wet van 14 december 2006 houdende wijziging van enkele belastingwetten ter vermindering van administratieve lasten (Wijzigingsplan «Paarse krokodil»)

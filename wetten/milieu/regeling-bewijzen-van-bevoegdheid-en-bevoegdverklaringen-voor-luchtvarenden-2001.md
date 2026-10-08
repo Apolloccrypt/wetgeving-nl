@@ -8,7 +8,7 @@ laatste_update: 2024-03-07
 status: geldig
 toestand: 2024-03-07
 bron: "https://wetten.overheid.nl/BWBR0021240"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001

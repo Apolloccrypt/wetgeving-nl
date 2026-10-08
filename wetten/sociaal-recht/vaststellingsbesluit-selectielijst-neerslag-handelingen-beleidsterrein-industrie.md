@@ -8,7 +8,7 @@ laatste_update: 2006-10-19
 status: geldig
 toestand: 2006-10-19
 bron: "https://wetten.overheid.nl/BWBR0020284"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Industrie- en technologiebeleid vanaf 1945 (Minister van Sociale Zaken en Werkgelegenheid)

@@ -9,7 +9,7 @@ laatste_update: 2006-12-08
 status: geldig
 toestand: 2006-12-08
 bron: "https://wetten.overheid.nl/BWBR0020460"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat, houdende nadere bepalingen met betrekking tot de afgifte van bromfietscertificaten alsmede de implementatie van richtlijn nr. 2005/55/EG inzake de emissie van verontreinigende gassen en deeltjes door voertuigmotoren met compressieontsteking en de emissie van verontreinigende gassen door op aardgas of vloeibaar petroleumgas lopende voertuigmotoren met elektrische ontsteking (Regeling afgifte bromfietscertificaten)

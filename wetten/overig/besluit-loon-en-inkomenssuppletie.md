@@ -8,7 +8,7 @@ laatste_update: 2006-08-03
 status: geldig
 toestand: 2006-08-03
 bron: "https://wetten.overheid.nl/BWBR0020116"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit loon- en inkomenssuppletie

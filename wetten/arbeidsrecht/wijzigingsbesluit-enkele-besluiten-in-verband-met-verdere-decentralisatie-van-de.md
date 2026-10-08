@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0021235"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 13 december 2006 tot intrekking van het Kaderbesluit rechtspositie VO en tot wijziging van enkele besluiten in verband met verdere decentralisatie van de arbeidsvoorwaarden

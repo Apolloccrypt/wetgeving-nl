@@ -8,7 +8,7 @@ laatste_update: 2007-01-26
 status: geldig
 toestand: 2007-01-26
 bron: "https://wetten.overheid.nl/BWBR0021069"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Wijzigingsregeling Tijdelijke regeling invoering Wft

@@ -9,7 +9,7 @@ laatste_update: 2007-03-22
 status: geldig
 toestand: 2007-03-22
 bron: "https://wetten.overheid.nl/BWBR0021526"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 12 maart 2007, nr. DDI/ST/reg. 006/2007, houdende beperking van de openbaarheid van het archief van het consulaat-generaal te Kaapstad (Zuid-Afrika) 1938–1956

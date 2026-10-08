@@ -9,7 +9,7 @@ laatste_update: 2006-12-13
 status: geldig
 toestand: 2006-12-13
 bron: "https://wetten.overheid.nl/BWBR0020629"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 22 november 2006 tot wijziging van de Wet luchtvaart in verband met de invoering van de mogelijkheid om ten aanzien van de luchthaven Schiphol experimenten te houden (Experimenten Schiphol)

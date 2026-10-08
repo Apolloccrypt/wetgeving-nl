@@ -8,7 +8,7 @@ laatste_update: 2007-02-03
 status: geldig
 toestand: 2007-02-03
 bron: "https://wetten.overheid.nl/BWBR0021113"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Lijkbezorging vanaf 1948 (Minister van Verkeer en Waterstaat)

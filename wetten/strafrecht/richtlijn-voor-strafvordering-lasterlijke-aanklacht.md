@@ -8,7 +8,7 @@ laatste_update: 2015-03-01
 status: geldig
 toestand: 2015-03-01
 bron: "https://wetten.overheid.nl/BWBR0021449"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Richtlijn voor strafvordering lasterlijke aanklacht

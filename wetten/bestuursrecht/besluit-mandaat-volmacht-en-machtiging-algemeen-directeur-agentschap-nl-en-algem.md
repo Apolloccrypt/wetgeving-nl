@@ -9,7 +9,7 @@ laatste_update: 2010-02-17
 status: geldig
 toestand: 2010-02-17
 bron: "https://wetten.overheid.nl/BWBR0021613"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van de Minister van Economische Zaken en het Algemeen Bestuur van NWO van 26 maart 2007, nr. WJZ 7039443, houdende regels inzake mandaat, volmacht en machtiging aan algemeen directeur van SenterNovem en algemeen directeur van NWO betreffende de uitvoering van de Subsidieregeling Smart Mix

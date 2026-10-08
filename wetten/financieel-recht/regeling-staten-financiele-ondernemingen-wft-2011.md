@@ -9,7 +9,7 @@ laatste_update: 2025-12-03
 status: geldig
 toestand: 2025-12-03
 bron: "https://wetten.overheid.nl/BWBR0020778"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van de Nederlandsche Bank N.V. van 12 december 2006, nr. Juza/2006/02470/IH, houdende uitvoering van de artikelen 131, eerste lid, 133, eerste lid, en 135, tweede en vijfde lid, van het Besluit prudentiële regels Wft (Regeling staten financiële ondernemingen Wft)

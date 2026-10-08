@@ -9,7 +9,7 @@ laatste_update: 2019-11-20
 status: geldig
 toestand: 2019-11-20
 bron: "https://wetten.overheid.nl/BWBR0021311"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Regeling van 21 februari 2007, nr. DJZ/BR/0185-07, houdende beperkende maatregelen tegen enkele aan Al Qa’ida gelieerde personen met het oog op de strijd tegen het terrorisme (Sanctieregeling terrorisme 2007)

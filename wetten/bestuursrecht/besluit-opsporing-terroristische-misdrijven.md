@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0020861"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van 21 december 2006, houdende voorschriften ter uitvoering van enkele bepalingen van het Wetboek van Strafvordering in verband met de opsporing van terroristische misdrijven (Besluit opsporing terroristische misdrijven)

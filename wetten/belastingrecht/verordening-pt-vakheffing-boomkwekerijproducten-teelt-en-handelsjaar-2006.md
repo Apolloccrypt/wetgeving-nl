@@ -9,7 +9,7 @@ laatste_update: 2006-12-24
 status: geldig
 toestand: 2006-12-24
 bron: "https://wetten.overheid.nl/BWBR0020975"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-08
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing in het jaar 2007 (Verordening PT vakheffing boomkwekerijproducten teelt- en handelsjaar 2006)

@@ -9,7 +9,7 @@ laatste_update: 2021-09-07
 status: geldig
 toestand: 2021-09-07
 bron: "https://wetten.overheid.nl/BWBR0020595"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie groeifaciliteit

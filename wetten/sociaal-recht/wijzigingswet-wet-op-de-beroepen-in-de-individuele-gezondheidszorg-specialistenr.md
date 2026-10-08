@@ -9,7 +9,7 @@ laatste_update: 2006-12-15
 status: geldig
 toestand: 2006-12-15
 bron: "https://wetten.overheid.nl/BWBR0020367"
-opgehaald: 2026-08-10
+opgehaald: 2026-10-08
 ---
 
 # Wet van 28 september 2006 tot wijziging van enige artikelen van de Wet op de beroepen in de individuele gezondheidszorg (specialistenregisters)
