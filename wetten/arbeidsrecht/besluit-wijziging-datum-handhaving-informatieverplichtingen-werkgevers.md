@@ -9,7 +9,7 @@ laatste_update: 2007-12-21
 status: geldig
 toestand: 2007-12-21
 bron: "https://wetten.overheid.nl/BWBR0023059"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 10 december 2007 tot wijziging datum handhaving informatieverplichtingen werkgevers

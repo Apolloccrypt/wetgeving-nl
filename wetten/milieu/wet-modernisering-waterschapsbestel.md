@@ -9,7 +9,7 @@ laatste_update: 2009-05-02
 status: geldig
 toestand: 2009-05-02
 bron: "https://wetten.overheid.nl/BWBR0022075"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 21 mei 2007 tot wijziging van de Waterschapswet en de Wet verontreiniging oppervlaktewateren in verband met de modernisering en vereenvoudiging van de bestuurlijke structuur en de financieringsstructuur van waterschappen (Wet modernisering waterschapsbestel)

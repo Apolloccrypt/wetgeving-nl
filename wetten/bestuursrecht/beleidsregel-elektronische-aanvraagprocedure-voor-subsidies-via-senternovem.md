@@ -9,7 +9,7 @@ laatste_update: 2009-04-10
 status: geldig
 toestand: 2009-04-10
 bron: "https://wetten.overheid.nl/BWBR0022183"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Beleidsregel van de Minister van Economische Zaken van 2 juli 2007, nr. WJZ 7079770, houdende vaststelling van de elektronische aanvraagprocedure voor subsidies via Senterloket

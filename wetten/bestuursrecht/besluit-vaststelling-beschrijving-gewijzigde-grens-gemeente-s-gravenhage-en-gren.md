@@ -9,7 +9,7 @@ laatste_update: 2007-12-01
 status: geldig
 toestand: 2007-12-01
 bron: "https://wetten.overheid.nl/BWBR0022707"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties tot vaststelling van de beschrijving van de gewijzigde grens van de gemeente ’s-Gravenhage en van de grens met de gemeente Rijswijk, overeenkomstig de Wet van 12 juli 2001 tot gemeentelijke herindeling van Den Haag en omgeving

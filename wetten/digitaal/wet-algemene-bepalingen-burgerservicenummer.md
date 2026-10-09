@@ -9,7 +9,7 @@ laatste_update: 2025-11-11
 status: geldig
 toestand: 2025-11-11
 bron: "https://wetten.overheid.nl/BWBR0022428"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 21 juli 2007, houdende algemene bepalingen betreffende de toekenning, het beheer en het gebruik van het burgerservicenummer (Wet algemene bepalingen burgerservicenummer)

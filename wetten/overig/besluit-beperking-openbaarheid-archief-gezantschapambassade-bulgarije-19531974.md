@@ -9,7 +9,7 @@ laatste_update: 2007-06-02
 status: geldig
 toestand: 2007-06-02
 bron: "https://wetten.overheid.nl/BWBR0021978"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 22 mei 2007, nr. DDI/ST/reg. 012/2007, houdende beperking van de openbaarheid van het archief van het gezantschap, later de ambassade van Bulgarije, 1953–1974

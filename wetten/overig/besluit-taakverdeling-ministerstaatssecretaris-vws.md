@@ -9,7 +9,7 @@ laatste_update: 2007-08-01
 status: geldig
 toestand: 2007-08-01
 bron: "https://wetten.overheid.nl/BWBR0021971"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 mei 2007, nr. DBO/ADV-2753520, houdende Taakverdeling Minister/Staatssecretaris

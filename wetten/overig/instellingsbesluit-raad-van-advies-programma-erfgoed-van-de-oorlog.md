@@ -9,7 +9,7 @@ laatste_update: 2007-07-13
 status: geldig
 toestand: 2007-07-13
 bron: "https://wetten.overheid.nl/BWBR0022214"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 juli 2007, nr. OHW-U-2780021, houdende de instelling van de Raad van advies programma erfgoed van de oorlog

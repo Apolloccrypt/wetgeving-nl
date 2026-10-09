@@ -8,7 +8,7 @@ laatste_update: 2007-07-18
 status: geldig
 toestand: 2007-07-18
 bron: "https://wetten.overheid.nl/BWBR0022239"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Grondprijsbeleid 1945–1993 (Minister van Financiën)

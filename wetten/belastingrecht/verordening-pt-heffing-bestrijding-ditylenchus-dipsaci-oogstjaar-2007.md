@@ -9,7 +9,7 @@ laatste_update: 2007-06-17
 status: geldig
 toestand: 2007-06-17
 bron: "https://wetten.overheid.nl/BWBR0022144"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 maart 2007, houdende de vaststelling van aan telers van bloembollen op te leggen heffing ter bestrijding van de ziekte Ditylenchus dipsaci, voor het oogstjaar 2007 (Verordening PT heffing bestrijding Ditylenchus dipsaci oogstjaar 2007)

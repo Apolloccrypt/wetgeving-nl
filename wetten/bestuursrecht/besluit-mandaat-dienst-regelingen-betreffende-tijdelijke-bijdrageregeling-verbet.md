@@ -8,7 +8,7 @@ laatste_update: 2007-11-01
 status: geldig
 toestand: 2007-11-01
 bron: "https://wetten.overheid.nl/BWBR0022746"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit mandaat Dienst Regelingen betreffende Tijdelijke bijdrageregeling verbetering management overstroming

@@ -9,7 +9,7 @@ laatste_update: 2007-11-29
 status: geldig
 toestand: 2007-11-29
 bron: "https://wetten.overheid.nl/BWBR0022906"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van De Nederlandsche Bank NV van 20 november 2007, nr. Juza/2007/00681/CLR, tot vaststelling van formulieren ten behoeve van de meldingen, bedoeld in de artikelen 102, eerste lid, en 125, onderdeel b, van de Pensioenwet respectievelijk de meldingen, bedoeld in de artikelen 107, eerste lid, en 25, onderdeel b, van de Wet verplichte beroepspensioenregeling (Besluit vaststelling meldingsformulieren pensioenfondsen)

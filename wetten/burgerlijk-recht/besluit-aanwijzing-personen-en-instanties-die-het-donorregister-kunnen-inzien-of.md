@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0023017"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 november 2007, nr. GMT/IB 2811386, houdende aanwijzing personen en instantie die het donorregister kunnen inzien of raadplegen

@@ -9,7 +9,7 @@ laatste_update: 2007-07-08
 status: geldig
 toestand: 2007-07-08
 bron: "https://wetten.overheid.nl/BWBR0022196"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 29 juni 2007, tot vaststelling van het formulier voor een notariële verklaring inzake ouderlijke verantwoordelijkheid

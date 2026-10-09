@@ -8,7 +8,7 @@ laatste_update: 2007-07-02
 status: geldig
 toestand: 2007-07-02
 bron: "https://wetten.overheid.nl/BWBR0022086"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Circulaire Arbeidsvoorwaardenovereenkomst sector Rijk 2007–2010

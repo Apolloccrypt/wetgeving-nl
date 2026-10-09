@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-10-08",
+ "gegenereerd": "2026-10-09",
  "geverifieerd": true,
- "bwb_regelingen": 46968,
- "bwb_geldend": 22264,
- "site_totaal": 22499,
- "site_geldend": 22263,
+ "bwb_regelingen": 46977,
+ "bwb_geldend": 22271,
+ "site_totaal": 22508,
+ "site_geldend": 22270,
  "dekkingsgraad": 1.0,
  "aantal_ontbrekend": 1,
- "aantal_ten_onrechte_geldig": 236,
+ "aantal_ten_onrechte_geldig": 238,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -184,6 +184,10 @@
   {
    "id": "BWBR0038198",
    "titel": "Klachtenregeling Defensie"
+  },
+  {
+   "id": "BWBR0038618",
+   "titel": "Besluit beleidsregel naamgeving biociden en gewasbeschermingsmiddelen"
   },
   {
    "id": "BWBR0038720",
@@ -364,6 +368,10 @@
   {
    "id": "BWBR0044695",
    "titel": "Besluit vaststelling selectielijst primair proces 'de Rechtspraak' vanaf (1985) 2005"
+  },
+  {
+   "id": "BWBR0044737",
+   "titel": "Richtlijn en kader voor strafvordering jeugd en adolescenten, inclusief strafmaten Halt"
   },
   {
    "id": "BWBR0044836",

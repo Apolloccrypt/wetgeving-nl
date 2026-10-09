@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0041604"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 26 november 2018, nr. IENW/BSK-2018/117815, tot vaststelling van regels inzake gegevensverstrekking uit het rijbewijzenregister (Regeling gegevensverstrekking uit het rijbewijzenregister)

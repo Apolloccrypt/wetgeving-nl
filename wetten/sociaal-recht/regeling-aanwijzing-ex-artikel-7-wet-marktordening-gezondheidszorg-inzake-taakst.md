@@ -9,7 +9,7 @@ laatste_update: 2007-12-18
 status: geldig
 toestand: 2007-12-18
 bron: "https://wetten.overheid.nl/BWBR0023042"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 1 november 2007, nr. MC-U-2807691, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake taakstelling ziekenhuizen 2008

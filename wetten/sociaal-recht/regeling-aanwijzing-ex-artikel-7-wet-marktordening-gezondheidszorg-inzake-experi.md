@@ -9,7 +9,7 @@ laatste_update: 2007-12-21
 status: geldig
 toestand: 2007-12-21
 bron: "https://wetten.overheid.nl/BWBR0023137"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake experiment epilepsie-DBCs

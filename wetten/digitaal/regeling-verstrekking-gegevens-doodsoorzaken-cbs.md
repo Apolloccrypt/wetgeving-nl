@@ -9,7 +9,7 @@ laatste_update: 2018-08-01
 status: geldig
 toestand: 2018-08-01
 bron: "https://wetten.overheid.nl/BWBR0022436"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 15 augustus 2007, nr. WJZ 7009370, houdende vaststelling van nadere regels met betrekking tot de bevoegdheid van de directeur-generaal van de statistiek om gegevens te verstrekken als bedoeld in artikel 42a van de Wet op het Centraal bureau voor de statistiek (Regeling verstrekking gegevens doodsoorzaken CBS)

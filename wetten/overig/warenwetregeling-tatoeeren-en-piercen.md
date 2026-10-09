@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0021915"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770998, houdende regels met betrekking tot het gebruik van tatoeage- en piercingmateriaal (Warenwetregeling tatoeëren en piercen)

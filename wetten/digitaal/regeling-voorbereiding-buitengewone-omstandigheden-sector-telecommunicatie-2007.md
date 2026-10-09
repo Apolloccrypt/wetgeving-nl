@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0023117"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 11 december 2007, nr. WJZ 7119637, houdende vaststelling van bepalingen ter zake van de voorbereiding op buitengewone omstandigheden in de sector telecommunicatie (Regeling voorbereiding buitengewone omstandigheden sector telecommunicatie 2007)

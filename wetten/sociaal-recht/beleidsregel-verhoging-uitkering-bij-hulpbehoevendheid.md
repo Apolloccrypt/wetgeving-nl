@@ -8,7 +8,7 @@ laatste_update: 2010-08-19
 status: geldig
 toestand: 2010-08-19
 bron: "https://wetten.overheid.nl/BWBR0022997"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Beleidsregel verhoging uitkering bij hulpbehoevendheid

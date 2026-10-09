@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0053144"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Financiën van 29 september 2026, nr. 2026-0000373661 houdende regels voor het berichtenverkeer met de Belastingdienst (Regeling berichtenverkeer Belastingdienst)

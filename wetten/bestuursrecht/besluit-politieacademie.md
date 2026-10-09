@@ -9,7 +9,7 @@ laatste_update: 2017-11-29
 status: geldig
 toestand: 2017-11-29
 bron: "https://wetten.overheid.nl/BWBR0022434"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 27 juli 2007, houdende regels inzake de bekostiging, het financiële beheer en het toezicht met betrekking tot het landelijk selectie- en opleidingsinstituut politie (Besluit LSOP)

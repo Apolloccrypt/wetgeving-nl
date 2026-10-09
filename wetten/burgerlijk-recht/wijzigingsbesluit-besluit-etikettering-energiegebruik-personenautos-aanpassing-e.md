@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0023056"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 13 december 2007 tot wijziging van het Besluit etikettering energiegebruik personenauto’s in verband met de aanpassing van energielabels voor nieuwe personenauto’s met een reeds bij de fabriek geïnstalleerde aardgas- of LPG-installatie

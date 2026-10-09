@@ -8,7 +8,7 @@ laatste_update: 2008-07-01
 status: geldig
 toestand: 2008-07-01
 bron: "https://wetten.overheid.nl/BWBR0023061"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Beleidsregels UWV normbedragen voorzieningen 2008

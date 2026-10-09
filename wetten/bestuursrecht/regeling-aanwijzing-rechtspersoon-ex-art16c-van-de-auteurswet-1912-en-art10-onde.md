@@ -9,7 +9,7 @@ laatste_update: 2007-06-03
 status: geldig
 toestand: 2007-06-03
 bron: "https://wetten.overheid.nl/BWBR0021968"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Justitie van 22 mei 2007 tot aanwijzing van de rechtspersoon belast met de inning en de verdeling van de vergoeding, bedoeld in artikel 16c van de Auteurswet 1912 en in artikel 10, onderdeel e, van de Wet op de naburige rechten

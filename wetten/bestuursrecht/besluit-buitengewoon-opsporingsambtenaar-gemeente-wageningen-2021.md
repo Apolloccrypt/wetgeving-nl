@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-10-05
 toestand: 2021-10-06
 bron: "https://wetten.overheid.nl/BWBR0045667"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 september 2021, nr. BOACAT2021/045, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Wageningen

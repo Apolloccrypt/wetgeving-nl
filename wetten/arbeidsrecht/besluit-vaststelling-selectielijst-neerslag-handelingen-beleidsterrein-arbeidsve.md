@@ -8,7 +8,7 @@ laatste_update: 2007-10-31
 status: geldig
 toestand: 2007-10-31
 bron: "https://wetten.overheid.nl/BWBR0022722"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Arbeidsverhoudingen 1945 tot heden (Minister van Buitenlandse Zaken)

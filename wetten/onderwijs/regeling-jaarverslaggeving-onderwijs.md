@@ -9,7 +9,7 @@ laatste_update: 2026-04-15
 status: geldig
 toestand: 2026-04-15
 bron: "https://wetten.overheid.nl/BWBR0023132"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2007, nr. WJZ/2007/50507, houdende nadere voorschriften voor de inrichting van de jaarverslaggeving van door de Minister van Onderwijs, Cultuur en Wetenschap dan wel de Minister van Landbouw, Natuur en Voedselkwaliteit bekostigde onderwijsinstellingen (Regeling jaarverslaggeving onderwijs)

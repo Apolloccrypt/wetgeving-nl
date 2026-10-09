@@ -8,7 +8,7 @@ laatste_update: 2007-11-08
 status: geldig
 toestand: 2007-11-08
 bron: "https://wetten.overheid.nl/BWBR0022777"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Politie 1945–1993 (Minister van Onderwijs, Cultuur en Wetenschap)

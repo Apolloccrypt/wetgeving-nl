@@ -9,7 +9,7 @@ laatste_update: 2026-05-12
 status: geldig
 toestand: 2026-05-12
 bron: "https://wetten.overheid.nl/BWBR0022396"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 8 augustus 2007, nr. TRCJZ/2007/1221, houdende aanwijzing nationale parken (Regeling aanwijzing nationale parken)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0021912"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 6 december 2006 ter uitvoering van titel 7.5 (Pacht) van het Burgerlijk Wetboek inzake de samenstelling en werkwijze van de grondkamers en de centrale grondkamer (Uitvoeringswet grondkamers)

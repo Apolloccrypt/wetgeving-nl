@@ -9,7 +9,7 @@ laatste_update: 2026-09-29
 status: geldig
 toestand: 2026-09-29
 bron: "https://wetten.overheid.nl/BWBR0045003"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Besluit van het College voor Toetsen en Examens van 8 februari 2021, nummer CvTE-21.00407, tot vaststelling van het Bestuursreglement College voor Toetsen en Examens (Bestuursreglement College voor Toetsen en Examens)

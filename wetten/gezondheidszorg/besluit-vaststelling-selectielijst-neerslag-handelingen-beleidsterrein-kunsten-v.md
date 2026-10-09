@@ -8,7 +8,7 @@ laatste_update: 2007-06-01
 status: geldig
 toestand: 2007-06-01
 bron: "https://wetten.overheid.nl/BWBR0021948"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Kunsten vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)

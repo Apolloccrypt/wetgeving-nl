@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0022543"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 september 2007, nr. TRCJZ/2007/2968, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsregeling 2007)

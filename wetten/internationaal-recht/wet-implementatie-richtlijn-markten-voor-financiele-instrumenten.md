@@ -9,7 +9,7 @@ laatste_update: 2007-11-01
 status: geldig
 toestand: 2007-11-01
 bron: "https://wetten.overheid.nl/BWBR0022731"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 30 oktober 2007 tot wijziging van de Wet op het financieel toezicht ter implementatie van richtlijn markten voor financiële instrumenten (Wet implementatie richtlijn markten voor financiële instrumenten)

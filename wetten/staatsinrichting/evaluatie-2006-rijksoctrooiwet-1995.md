@@ -9,7 +9,7 @@ laatste_update: 2008-06-05
 status: geldig
 toestand: 2008-06-05
 bron: "https://wetten.overheid.nl/BWBR0022980"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Rijkswet van 8 november 2007 tot wijziging van de Rijksoctrooiwet 1995 en enige andere wetten naar aanleiding van de evaluatie van de Rijksoctrooiwet 1995 van 2006 (Evaluatie 2006 Rijksoctrooiwet 1995)

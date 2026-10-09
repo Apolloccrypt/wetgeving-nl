@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-10-07
 toestand: 2025-10-08
 bron: "https://wetten.overheid.nl/BWBV0007112"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties inzake de “United Nations Peacekeeping Capability Readiness System Rapid Deployment Level Workshop”, te Breda, Nederland, van 10 tot en met 14 november 2025

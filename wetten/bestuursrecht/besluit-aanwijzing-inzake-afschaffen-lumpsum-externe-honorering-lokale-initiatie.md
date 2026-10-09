@@ -9,7 +9,7 @@ laatste_update: 2007-09-18
 status: geldig
 toestand: 2007-09-18
 bron: "https://wetten.overheid.nl/BWBR0022524"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 5 september 2007, nr. MC-U- 2794140, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake afschaffen lumpsum externe honorering lokale initiatieven

@@ -8,7 +8,7 @@ laatste_update: 2026-08-08
 status: geldig
 toestand: 2026-08-08
 bron: "https://wetten.overheid.nl/BWBR0038145"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Besluit Bestuurlijke Boeten Belastingdienst
@@ -132,20 +132,6 @@ De inspecteur kan de boetebeschikking op grond van [artikel 65 van de AWR](https
 - 11. Zie voor de vorige twee leden ook paragraaf 2.2 – de aanvullende wegingscriteria – van het Protocol aanmelding en afdoening van fiscale delicten en delicten op het gebied van douane en toeslagen, Stcrt. 2023, 16878 (hierna: het Protocol AAFD 2023), onderdeel e over de combinatie fiscaal delict met een of meer niet-fiscale delicten en onderdeel f over de medewerking van adviseur, deskundige derde of douane-expediteur.
 
 #### § 9. Dag van betaling
-
-- 1. Voor de betalingen wordt aangesloten bij het civielrechtelijke uitgangspunt dat een betaling geacht wordt te hebben plaatsgevonden op het tijdstip waarop het verschuldigde bedrag op de rekening van de crediteur is bijgeschreven.
-
-- 2. Voor de toepassing van dit besluit geldt als dag van betaling:
-
-   - – bij betalingen per bank de datum van bijschrijving op de rekening van de Belastingdienst;
-
-   - – bij betaling op het postkantoor, hetzij door middel van storting van contant geld hetzij met een pinpas, de eerste werkdag volgend op de dag van de storting of pintransactie;
-
-   - – bij rechtstreekse betaling aan de Belastingdienst door middel van pin- en creditcardtransacties bij de Belastingdienst/Douane de dag van de pin- of creditcardtransactie.
-
-- 3. De huisbankier van de Belastingdienst heeft één werkdag nodig om het op het postkantoor gestorte contante geld op de rekening van de Belastingdienst bij te schrijven.
-
-- 4. Bij de Belastingdienst/Douane kan, uitsluitend ter zake van enkele niet-fiscale douanetaken, betaald worden door middel van pin- en creditcardtransacties.
 
 #### § 10. Eenvoudige en uitvoerige procedure (artikel 67pa van de AWR)
 
@@ -308,22 +294,6 @@ De boete- en fraudecoördinator is belast met de beoordeling van (de aanwezighei
 - 7. Voorts wordt de hiervoor bedoelde verzuimboete niet opgelegd voor zover sprake is van een vrijwillige verbetering (zie [§ 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=1&paragraaf=5&z=2026-08-08&g=2026-08-08)).
 
 #### § 24a. Verzuimboete aangiftebelasting betalingsverzuim suppletie / correctiebericht artikel 67c van de AWR
-
-- 1. Deze paragraaf geeft inhoud aan de wijze waarop de verzuimboete wordt berekend ingeval van een suppletie voor aangiftebelastingen die is aan te merken als een vrijwillige verbetering. Voor de toepassing van deze paragraaf is het uitgangspunt dat de suppletie alsnog leidt tot een juiste afdracht of voldoening van verschuldigde belasting.
-
-- 2. De werkingssfeer is beperkt tot die situaties waarin belanghebbende in eerste instantie de op aangifte te betalen belasting te laag heeft berekend, aangegeven en betaald en overeenkomstig een suppletie van de aangifte het te weinig betaalde belasting alsnog betaalt.
-
-- 3. Indien sprake is van een suppletie legt de inspecteur,
-
-   - a. geen vergrijpboete op grond van [artikel 67f van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) op (zie [§ 25, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038145&hoofdstuk=3&paragraaf=25&z=2026-08-08&g=2026-08-08)), en
-
-   - b. geen verzuimboete op indien het belastingbedrag dat ingevolge de suppletie alsnog wordt betaald € 20.000 of minder bedraagt, of
-
-   - c. geen verzuimboete op indien het belastingbedrag dat ingevolge de suppletie wordt betaald minder bedraagt dan 10 procent van het bedrag van de belasting die over het tijdvak/de tijdvakken waarop de suppletie(s) betrekking heeft/hebben, eerder per saldo is betaald dan wel terugontvangen;
-
-   - d. in overige gevallen een verzuimboete op van 5 procent tot het wettelijk maximum van [artikel 67c, eerste lid, van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c).
-
-- 4. Het grensbedrag van het derde lid wordt toegepast op de tijdvakken die in een kalenderjaar of (gebroken) boekjaar vallen. Heeft de suppletie betrekking op tijdvakken die in meer kalenderjaren of (gebroken) boekjaren vallen, dan legt de inspecteur per kalenderjaar of (gebroken) boekjaar een eventuele verzuimboete op.
 
 #### § 24b. Verzuimboete artikel 67ca van de AWR
 

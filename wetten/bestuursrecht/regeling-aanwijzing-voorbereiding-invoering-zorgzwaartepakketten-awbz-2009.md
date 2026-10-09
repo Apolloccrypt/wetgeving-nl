@@ -9,7 +9,7 @@ laatste_update: 2007-12-14
 status: geldig
 toestand: 2007-12-14
 bron: "https://wetten.overheid.nl/BWBR0023018"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 5 november 2007, nr. DLZ/SFI-2817774, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake voorbereiding invoering zorgzwaartepakketten AWBZ 2009

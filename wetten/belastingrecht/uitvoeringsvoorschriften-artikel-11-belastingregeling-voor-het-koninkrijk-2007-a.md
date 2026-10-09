@@ -9,7 +9,7 @@ laatste_update: 2007-10-12
 status: geldig
 toestand: 2007-10-12
 bron: "https://wetten.overheid.nl/BWBR0022598"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Aspectgebied Internationaal belastingrecht; dividendbelasting; Belastingregeling voor het Koninkrijk, Aruba; vrijstelling- en teruggaafprocedures

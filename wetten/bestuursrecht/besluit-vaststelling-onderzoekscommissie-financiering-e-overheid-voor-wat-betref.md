@@ -8,7 +8,7 @@ laatste_update: 2007-08-31
 status: geldig
 toestand: 2007-08-31
 bron: "https://wetten.overheid.nl/BWBR0022440"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling onderzoekscommissie financiering e-overheid voor wat betreft gemeenten

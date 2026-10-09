@@ -9,7 +9,7 @@ laatste_update: 2007-08-26
 status: geldig
 toestand: 2007-08-26
 bron: "https://wetten.overheid.nl/BWBR0022424"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 23 augustus 2007, nr. AT-EZ/5891756.JZ, houdende vaststelling van regels met betrekking tot toezicht op en handhaving van de naleving van de vergunningsvoorwaarden door de houder van een IMT-2000 vergunning (Beleidsregel sancties frequentiegebruik UMTS)

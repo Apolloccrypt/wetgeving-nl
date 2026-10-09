@@ -9,7 +9,7 @@ laatste_update: 2007-09-22
 status: geldig
 toestand: 2007-09-22
 bron: "https://wetten.overheid.nl/BWBR0022520"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Justitie van 14 september 2007 nr. 5505825/07, houdende wijziging van het Voorschrift Vreemdelingen 2000 (zevenenzestigste wijziging)

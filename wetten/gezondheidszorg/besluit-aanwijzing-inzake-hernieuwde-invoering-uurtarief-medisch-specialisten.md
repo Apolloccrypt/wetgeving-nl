@@ -9,7 +9,7 @@ laatste_update: 2008-01-09
 status: geldig
 toestand: 2008-01-09
 bron: "https://wetten.overheid.nl/BWBR0023285"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 7 januari 2008, nr. CZ/TSZ-2822952, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake hernieuwde vaststelling aanwijzing invoering uurtarief medisch specialisten

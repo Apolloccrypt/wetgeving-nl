@@ -9,7 +9,7 @@ laatste_update: 2022-07-06
 status: geldig
 toestand: 2022-07-06
 bron: "https://wetten.overheid.nl/BWBR0023167"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de minister van Verkeer en Waterstaat in verband met de invoering van markttoezicht op het aanbod van dienstverlening door registerloodsen en een herziening van de loodsgeldtariefstructuur (Regeling markttoezicht registerloodsen)

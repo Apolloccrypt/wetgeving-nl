@@ -9,7 +9,7 @@ laatste_update: 2007-08-08
 status: geldig
 toestand: 2007-08-08
 bron: "https://wetten.overheid.nl/BWBR0022361"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 24 juli 2007, nr. SAS/2007073464, Directoraat-Generaal Milieubeheer, Directie Stoffen, Afvalstoffen en Straling, houdende intrekking van de Regeling EEG-verordening overbrenging van afvalstoffen

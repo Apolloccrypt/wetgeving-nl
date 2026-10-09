@@ -9,7 +9,7 @@ laatste_update: 2007-09-28
 status: geldig
 toestand: 2007-09-28
 bron: "https://wetten.overheid.nl/BWBR0023236"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 14 december 2005 tot wijziging van de Elektriciteitswet 1998 ter implementatie van richtlijn 2004/8/EG inzake de bevordering van warmtekrachtkoppeling (Wijziging van de Elektriciteitswet 1998 ter implementatie van de richtlijn warmtekrachtkoppeling)

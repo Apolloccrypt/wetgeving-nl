@@ -8,7 +8,7 @@ laatste_update: 2007-11-28
 status: geldig
 toestand: 2007-11-28
 bron: "https://wetten.overheid.nl/BWBR0022905"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein regulering en toezicht bank- en kredietwezen vanaf 1940 (Minister van Landbouw, Natuur en Voedselkwaliteit)

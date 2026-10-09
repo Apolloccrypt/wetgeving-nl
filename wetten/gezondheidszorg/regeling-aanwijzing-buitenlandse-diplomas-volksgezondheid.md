@@ -9,7 +9,7 @@ laatste_update: 2025-02-21
 status: geldig
 toestand: 2025-02-21
 bron: "https://wetten.overheid.nl/BWBR0022606"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 oktober 2007, nr. MEVA/BO-2798652, houdende aanwijzing buitenlandse diploma’s volksgezondheid (Regeling aanwijzing buitenlandse diploma’s volksgezondheid)

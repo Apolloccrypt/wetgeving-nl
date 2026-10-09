@@ -9,7 +9,7 @@ laatste_update: 2014-02-15
 status: geldig
 toestand: 2014-02-15
 bron: "https://wetten.overheid.nl/BWBR0023166"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 20 december 2007, houdende wijziging van de Wet op de jeugdzorg met betrekking tot jeugdzorg waarop aanspraak bestaat ingevolge de wet in gesloten setting (gesloten jeugdzorg)

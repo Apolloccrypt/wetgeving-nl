@@ -9,7 +9,7 @@ laatste_update: 2009-08-01
 status: geldig
 toestand: 2009-08-01
 bron: "https://wetten.overheid.nl/BWBR0022750"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 11 oktober 2007 tot wijziging van de Wet milieubeheer (luchtkwaliteitseisen)

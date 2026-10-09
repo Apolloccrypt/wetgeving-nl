@@ -9,7 +9,7 @@ laatste_update: 2008-03-26
 status: geldig
 toestand: 2008-03-26
 bron: "https://wetten.overheid.nl/BWBR0023164"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 20 december 2007, tot wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en de Wet op de jeugdzorg met het oog op verruiming van de mogelijkheden tot gedragsbeïnvloeding van jeugdigen (gedragsbeïnvloeding jeugdigen)

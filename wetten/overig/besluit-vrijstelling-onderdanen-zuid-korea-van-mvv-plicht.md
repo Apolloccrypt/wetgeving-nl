@@ -9,7 +9,7 @@ laatste_update: 2007-07-01
 status: geldig
 toestand: 2007-07-01
 bron: "https://wetten.overheid.nl/BWBR0021925"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 16 mei 2007, nr. DPV/VV-426/07-wb, tot vrijstelling van onderdanen van Zuid-Korea van mvv-plicht

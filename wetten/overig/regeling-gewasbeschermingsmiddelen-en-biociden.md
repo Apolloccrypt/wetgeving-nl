@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0022545"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 26 september 2007, nr. TRCJZ/2007/3100, houdende nadere regels omtrent gewasbeschermingsmiddelen en biociden

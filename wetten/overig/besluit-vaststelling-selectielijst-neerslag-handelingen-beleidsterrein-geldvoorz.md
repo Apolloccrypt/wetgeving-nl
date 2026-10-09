@@ -8,7 +8,7 @@ laatste_update: 2007-10-10
 status: geldig
 toestand: 2007-10-10
 bron: "https://wetten.overheid.nl/BWBR0022582"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Geldvoorziening vanaf 1940 (Minister van Financiën)

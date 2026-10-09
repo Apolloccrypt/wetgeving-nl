@@ -8,7 +8,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0022447"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit gedifferentieerde premie Werkhervattingskas 2008

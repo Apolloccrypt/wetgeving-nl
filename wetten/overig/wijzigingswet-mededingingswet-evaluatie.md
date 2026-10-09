@@ -9,7 +9,7 @@ laatste_update: 2007-10-01
 status: geldig
 toestand: 2007-10-01
 bron: "https://wetten.overheid.nl/BWBR0022401"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 28 juni 2007, houdende wijziging van de Mededingingswet als gevolg van de evaluatie van die wet

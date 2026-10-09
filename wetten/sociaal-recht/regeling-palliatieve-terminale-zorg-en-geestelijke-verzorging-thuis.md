@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0022841"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 november 2007, nr. DLZ-KZ-2802433, houdende subsidiëring van palliatieve terminale zorg (Regeling palliatieve terminale zorg)

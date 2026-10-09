@@ -9,7 +9,7 @@ laatste_update: 2007-11-01
 status: geldig
 toestand: 2007-11-01
 bron: "https://wetten.overheid.nl/BWBR0022733"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister voor Wonen, Wijken en Integratie van 21 oktober 2007, nr. DJZ2007096828, Directie Juridische Zaken, Afdeling Wetgeving, houdende regels omtrent verplichte afkoop van jaarlijkse bijdragen, die krachtens de Regeling geldelijke steun voorzieningen aan huurwoningen 1987 zijn toegekend aan gemeenten (Regeling verplichte afkoop hoogniveaurenovatie 2007)

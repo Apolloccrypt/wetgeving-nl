@@ -9,7 +9,7 @@ laatste_update: 2018-07-28
 status: geldig
 toestand: 2018-07-28
 bron: "https://wetten.overheid.nl/BWBR0022704"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 11 oktober 2007, houdende regels inzake de beëdiging van tolken en vertalers en de kwaliteit en de integriteit van beëdigde tolken en vertalers (Wet beëdigde tolken en vertalers)

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0022213"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volkshuishuisvesting, Ruimtelijke Ordening en Milieubeheer van 4 juli 2007, nr. DGM/SAS 2007066536, Directoraat-Generaal Milieubeheer, Directie Stoffen, Afvalstoffen en Straling, houdende nadere regels ter uitvoering van de verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU L 190) (Regeling EG-verordening overbrenging van afvalstoffen)

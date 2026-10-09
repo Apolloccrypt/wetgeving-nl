@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0022735"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 16 oktober 2007, houdende regels inzake de verstrekking van subsidies ten behoeve van de productie van hernieuwbare elektriciteit, hernieuwbaar gas en elektriciteit opgewekt door middel van warmtekrachtkoppeling (Besluit stimulering duurzame energieproductie)

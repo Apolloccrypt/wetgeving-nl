@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0035474"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Economische Zaken van 11 juli 2014, nr. WJZ / 13125043, houdende vaststelling van nationale subsidie-instrumenten op het terrein van Economische Zaken (Regeling nationale EZ-subsidies)
@@ -14415,7 +14415,7 @@ Subsidie die krachtens deze titel wordt verleend bevat staatssteun en wordt gere
 
 ##### Artikel 4.15.11. Vervaltermijn
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding met dien verstande dat zij van toepassing blijft op voordien ingediende aanvragen om subsidie.
+Deze titel vervalt op 22 september 2031, met dien verstande dat zij van toepassing blijft op voordien ingediende aanvragen om subsidie.
 
 ### Titel 4.16. Onderzoek Energiehubs (EHUB)
 

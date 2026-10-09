@@ -9,7 +9,7 @@ laatste_update: 2010-11-20
 status: geldig
 toestand: 2010-11-20
 bron: "https://wetten.overheid.nl/BWBR0022654"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 27 september 2007 tot wijziging van de Wet milieubeheer, de Wet energiebesparing toestellen en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2005/32/EG van het Europees Parlement en de Raad van de Europese Unie van 6 juli 2005 betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energieverbruikende producten en tot wijziging van richtlijn 92/42/EEG van de Raad en de richtlijnen 96/57/EG en 2000/55/EG van het Europees Parlement en de Raad (Implementatiewet EG-richtlijn ecologisch ontwerp energieverbruikende producten)

@@ -9,7 +9,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBR0023086"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 14 december 2007, houdende bepalingen ter uitvoering van de Wet politiegegevens (Besluit politiegegevens)

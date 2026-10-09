@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0022530"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 5 september 2007, houdende nadere regels omtrent gewasbeschermingsmiddelen en biociden (Besluit gewasbeschermingsmiddelen en biociden)

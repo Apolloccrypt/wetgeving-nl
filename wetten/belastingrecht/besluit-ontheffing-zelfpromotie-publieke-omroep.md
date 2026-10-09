@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0022112"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van het Commissariaat voor de Media van 5 juni 2007 houdende ontheffing van het bepaalde in de eerste volzin van het tweede lid van artikel 52 van de Mediawet in verband met de vermeldingen en vertoningen van namen, (beeld)merken of diensten van publieke omroepinstellingen (Besluit ontheffing zelfpromotie publieke omroep)

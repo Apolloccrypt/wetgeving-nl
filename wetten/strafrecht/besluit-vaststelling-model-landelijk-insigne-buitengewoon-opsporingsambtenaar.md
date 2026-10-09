@@ -9,7 +9,7 @@ laatste_update: 2015-11-04
 status: geldig
 toestand: 2015-11-04
 bron: "https://wetten.overheid.nl/BWBR0023325"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 31 december 2007, houdende vaststelling van het model van een landelijk insigne voor de buitengewoon opsporingsambtenaar

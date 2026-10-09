@@ -9,7 +9,7 @@ laatste_update: 2007-10-01
 status: geldig
 toestand: 2007-10-01
 bron: "https://wetten.overheid.nl/BWBR0022132"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 19 juni 2007, houdende wijziging van het Besluit beheer autowrakken in verband met een verbetering van de implementatie van richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269), alsmede in verband met een rechterlijke uitspraak, en wijziging van het Besluit beheer autobanden in verband met verbetering van de handhaafbaarheid en vermindering van lasten (verbetering regels autowrakken en autobanden)

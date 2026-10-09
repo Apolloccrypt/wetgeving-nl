@@ -9,7 +9,7 @@ laatste_update: 2022-07-26
 status: geldig
 toestand: 2022-07-26
 bron: "https://wetten.overheid.nl/BWBR0022123"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister van Justitie van 14 juni 2007, nr. 5490708/07/6, tot vaststelling van de hoogte van de vergoeding van de voorzitter en leden van de commissie auteursrecht

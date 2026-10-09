@@ -9,7 +9,7 @@ laatste_update: 2025-12-06
 status: geldig
 toestand: 2025-12-06
 bron: "https://wetten.overheid.nl/BWBR0022835"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 2 november 2007, nr. 2007-0000442237, STAF/CZW/WVOB, houdende regels ter uitvoering van de Wet algemene bepalingen burgerservicenummer en het Besluit burgerservicenummer, en tot wijziging van de Regeling gemeentelijke basisadministratie persoonsgegevens

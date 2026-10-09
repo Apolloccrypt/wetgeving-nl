@@ -9,7 +9,7 @@ laatste_update: 2010-03-04
 status: geldig
 toestand: 2010-03-04
 bron: "https://wetten.overheid.nl/BWBR0022470"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 15-08-2007, nr. BJZ 2007-0231, houdende verlening van mandaat en machtiging voor de uitvoering van de Tijdelijke regeling stimulering aanpak vermindering gemeentelijke administratieve lasten (Besluit mandaat en machtiging SenterNovem Tijdelijke regeling stimulering aanpak vermindering gemeentelijke administratieve lasten)

@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0022309"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 juli 2007, nr. SV/WV/07/24387, houdende regels omtrent de verdere activering van zieke werknemers zonder werkgever door middel van het vastleggen van een procesgang met betrekking tot de inschakeling in het arbeidsproces in het eerste en tweede ziektejaar (Regeling procesgang eerste en tweede ziektejaar voor vangnetters zonder werkgever)

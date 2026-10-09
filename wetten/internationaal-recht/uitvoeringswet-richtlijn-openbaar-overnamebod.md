@@ -9,7 +9,7 @@ laatste_update: 2007-10-28
 status: geldig
 toestand: 2007-10-28
 bron: "https://wetten.overheid.nl/BWBR0022074"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 24 mei 2007 tot uitvoering van richtlijn nr. 2004/25/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende het openbaar overnamebod

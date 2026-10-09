@@ -9,7 +9,7 @@ laatste_update: 2007-12-08
 status: geldig
 toestand: 2007-12-08
 bron: "https://wetten.overheid.nl/BWBR0022961"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2005

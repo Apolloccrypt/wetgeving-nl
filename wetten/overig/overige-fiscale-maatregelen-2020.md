@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0042938"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Wet van 18 december 2019 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2020)

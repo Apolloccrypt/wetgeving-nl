@@ -9,7 +9,7 @@ laatste_update: 2007-10-25
 status: geldig
 toestand: 2007-10-25
 bron: "https://wetten.overheid.nl/BWBR0022714"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 5 oktober 2007, nr. MC-U-2803757, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake tweedelijns geneeskundige geestelijke gezondheidszorg

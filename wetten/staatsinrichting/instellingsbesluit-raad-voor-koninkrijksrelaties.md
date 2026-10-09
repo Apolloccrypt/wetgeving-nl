@@ -9,7 +9,7 @@ laatste_update: 2007-12-19
 status: geldig
 toestand: 2007-12-19
 bron: "https://wetten.overheid.nl/BWBR0023029"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister-President, Minister van Algemene Zaken, Voorzitter van de raad van ministers van het Koninkrijk, van 10 december 2007, nr. 3047617

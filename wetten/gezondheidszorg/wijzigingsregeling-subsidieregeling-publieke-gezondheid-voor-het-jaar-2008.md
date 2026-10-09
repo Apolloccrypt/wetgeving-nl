@@ -9,7 +9,7 @@ laatste_update: 2007-10-03
 status: geldig
 toestand: 2007-10-03
 bron: "https://wetten.overheid.nl/BWBR0022550"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 24 september 2007, nr. PG/FBI 2.799.042, houdende wijziging van de Subsidieregeling publieke gezondheid ten behoeve van het jaar 2008

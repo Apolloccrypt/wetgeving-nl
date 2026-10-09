@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0022929"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 22 november 2007, houdende regels inzake de kwaliteit van de bodem (Besluit bodemkwaliteit)

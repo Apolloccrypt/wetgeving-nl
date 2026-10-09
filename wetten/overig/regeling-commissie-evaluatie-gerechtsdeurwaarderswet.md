@@ -8,7 +8,7 @@ laatste_update: 2007-09-01
 status: geldig
 toestand: 2007-09-01
 bron: "https://wetten.overheid.nl/BWBR0022319"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling Commissie evaluatie Gerechtsdeurwaarderswet

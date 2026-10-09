@@ -9,7 +9,7 @@ laatste_update: 2009-11-27
 status: geldig
 toestand: 2009-11-27
 bron: "https://wetten.overheid.nl/BWBR0023058"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 13 december 2007 tot wijziging van de Zorgverzekeringswet en andere wetten met het oog op het verzwaren van het premie-incassoregime en andere maatregelen om de werking van het met die wet en de Wet op de zorgtoeslag in het leven geroepen stelsel te optimaliseren (verzwaren incassoregime premie en andere maatregelen zorgverzekering)

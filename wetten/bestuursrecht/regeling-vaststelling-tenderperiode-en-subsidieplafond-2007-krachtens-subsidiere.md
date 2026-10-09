@@ -9,7 +9,7 @@ laatste_update: 2008-09-01
 status: geldig
 toestand: 2008-09-01
 bron: "https://wetten.overheid.nl/BWBR0022176"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 18 juni 2007, nr. DJZ2007015961, houdende vaststelling van een tenderperiode en subsidieplafond voor het jaar 2007 krachtens de Subsidieregeling Wet op het Waddenfonds

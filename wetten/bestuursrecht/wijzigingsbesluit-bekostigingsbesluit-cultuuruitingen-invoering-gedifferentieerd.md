@@ -9,7 +9,7 @@ laatste_update: 2007-10-17
 status: geldig
 toestand: 2007-10-17
 bron: "https://wetten.overheid.nl/BWBR0022643"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 1 oktober 2007 tot wijziging van onder meer het Bekostigingsbesluit cultuuruitingen in verband met invoering van een gedifferentieerd systeem van subsidieverstrekking ten behoeve van cultuuruitingen

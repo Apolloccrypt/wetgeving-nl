@@ -9,7 +9,7 @@ laatste_update: 2007-09-06
 status: geldig
 toestand: 2007-09-06
 bron: "https://wetten.overheid.nl/BWBR0022471"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister van Financiën van 30 juli 2007, nr. BenC 2007-1189 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van het Bureau Erediensten over de periode 1940-1988

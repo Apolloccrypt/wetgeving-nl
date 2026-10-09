@@ -9,7 +9,7 @@ laatste_update: 2007-08-31
 status: geldig
 toestand: 2007-08-31
 bron: "https://wetten.overheid.nl/BWBR0022443"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Economische Zaken van 17 augustus 2007, nr. WJZ 7099075, houdende wijziging van de Mijnbouwregeling in verband met terugdringing van administratieve lasten

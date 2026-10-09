@@ -8,7 +8,7 @@ laatste_update: 2007-12-07
 status: geldig
 toestand: 2007-12-07
 bron: "https://wetten.overheid.nl/BWBR0022936"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Adelsbeleid, adelsrecht en decoratiestelsel vanaf 1945 (Minister van Buitenlandse Zaken)

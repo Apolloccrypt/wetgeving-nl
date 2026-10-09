@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0022516"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 3 september 2007, houdende wijziging van het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs

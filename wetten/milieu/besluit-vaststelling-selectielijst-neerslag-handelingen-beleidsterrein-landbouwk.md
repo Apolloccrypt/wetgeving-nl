@@ -8,7 +8,7 @@ laatste_update: 2007-05-23
 status: geldig
 toestand: 2007-05-23
 bron: "https://wetten.overheid.nl/BWBR0021850"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Landbouwkwaliteit en voedselveiligheid vanaf 1945 (Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer)

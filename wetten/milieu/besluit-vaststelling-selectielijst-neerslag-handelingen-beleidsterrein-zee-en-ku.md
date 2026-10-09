@@ -8,7 +8,7 @@ laatste_update: 2007-09-26
 status: geldig
 toestand: 2007-09-26
 bron: "https://wetten.overheid.nl/BWBR0022503"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Zee- en Kustvisserij vanaf 1945 (Minister van Landbouw, Natuur en Voedselkwaliteit)

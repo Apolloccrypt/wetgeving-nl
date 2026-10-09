@@ -9,7 +9,7 @@ laatste_update: 2007-08-01
 status: geldig
 toestand: 2007-08-01
 bron: "https://wetten.overheid.nl/BWBR0022336"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 20 juli 2007, nr. DJZ/BR/0687-2007, tot vaststelling van een subsidieplafond en tot beperking van de termijn voor het indienen van aanvragen voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (ORET)

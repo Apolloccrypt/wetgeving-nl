@@ -9,7 +9,7 @@ laatste_update: 2007-09-01
 status: geldig
 toestand: 2007-09-01
 bron: "https://wetten.overheid.nl/BWBR0022453"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat van 22 augustus 2007, nr. HDJZ/SCH/2007-1072, Hoofddirectie Juridische Zaken, houdende aanwijzing van de richtlijn bedoeld in artikel 1, onderdeel b, van de Havenbeveiligingswet

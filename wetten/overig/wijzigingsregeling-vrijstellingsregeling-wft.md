@@ -9,7 +9,7 @@ laatste_update: 2007-10-28
 status: geldig
 toestand: 2007-10-28
 bron: "https://wetten.overheid.nl/BWBR0022611"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Financiën tot wijziging van de Vrijstellingsregeling Wft

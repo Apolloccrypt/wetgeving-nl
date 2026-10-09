@@ -8,7 +8,7 @@ laatste_update: 2008-01-09
 status: geldig
 toestand: 2008-01-09
 bron: "https://wetten.overheid.nl/BWBR0023231"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit Vaststelling selectielijst neerslag handelingen beleidsterrein Meteorologie (Minister van Verkeer en Waterstaat)

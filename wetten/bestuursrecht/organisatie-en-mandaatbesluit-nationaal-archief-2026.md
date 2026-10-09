@@ -9,7 +9,7 @@ laatste_update: 2026-09-29
 status: geldig
 toestand: 2026-09-29
 bron: "https://wetten.overheid.nl/BWBR0052123"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de algemene rijksarchivaris van het Nationaal Archief van 18 december 2025, houdende de vaststelling van een nieuwe (onder)mandaatregeling voor het Nationaal Archief (Organisatie- en mandaatbesluit Nationaal Archief 2026)

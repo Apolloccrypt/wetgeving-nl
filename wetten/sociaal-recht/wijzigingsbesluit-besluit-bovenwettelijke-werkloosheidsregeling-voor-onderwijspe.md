@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0022954"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 27 november 2007, houdende wijziging van het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs in verband met wijziging van de Werkloosheidswet

@@ -9,7 +9,7 @@ laatste_update: 2008-03-01
 status: geldig
 toestand: 2008-03-01
 bron: "https://wetten.overheid.nl/BWBR0022302"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Verkeer en Waterstaat van 13 juli 2007, nr. ARBO/P&G/07/16527, houdende mandatering van bevoegdheden aan de Inspectie Verkeer en Waterstaat

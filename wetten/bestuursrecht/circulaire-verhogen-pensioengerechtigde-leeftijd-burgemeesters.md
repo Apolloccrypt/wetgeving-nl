@@ -8,7 +8,7 @@ laatste_update: 2007-07-19
 status: geldig
 toestand: 2007-07-19
 bron: "https://wetten.overheid.nl/BWBR0022265"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Circulaire verhogen pensioengerechtigde leeftijd burgemeesters

@@ -9,7 +9,7 @@ laatste_update: 2007-09-13
 status: geldig
 toestand: 2007-09-13
 bron: "https://wetten.overheid.nl/BWBR0022496"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Financiën van 4 september 2007, nr. SIOD/07/4362, tot toedeling van bepaalde opsporingstaken aan de Sociale Inlichtingen- en Opsporingsdienst en de Belastingdienst/Fiscale Inlichtingen- en Opsporingsdienst en Economische Controledienst (Regeling toedeling bepaalde opsporingstaken SIOD en FIOD-ECD)

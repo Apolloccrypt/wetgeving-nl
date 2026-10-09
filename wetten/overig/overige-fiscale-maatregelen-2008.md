@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0023147"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 20 december 2007, houdende wijzigingen van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2008)

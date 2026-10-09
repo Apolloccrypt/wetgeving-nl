@@ -9,7 +9,7 @@ laatste_update: 2022-01-01
 status: geldig
 toestand: 2022-01-01
 bron: "https://wetten.overheid.nl/BWBR0023007"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Financiën, de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 december 2007, nr. DGB 2007-5948, houdende regels ten aanzien van de behandeling van klachten over gedragingen van opsporingsambtenaren, werkzaam bij de bijzondere opsporingsdiensten en tot instelling van een onafhankelijke klachtencommissie (Klachtenregeling bijzondere opsporingsdiensten)

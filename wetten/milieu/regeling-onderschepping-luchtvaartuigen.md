@@ -9,7 +9,7 @@ laatste_update: 2014-12-12
 status: geldig
 toestand: 2014-12-12
 bron: "https://wetten.overheid.nl/BWBR0022880"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende regels voor het onderscheppen van luchtvaartuigen (Regeling onderschepping luchtvaartuigen)

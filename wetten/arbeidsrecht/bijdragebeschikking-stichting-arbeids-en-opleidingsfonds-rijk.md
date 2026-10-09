@@ -9,7 +9,7 @@ laatste_update: 2008-02-01
 status: geldig
 toestand: 2008-02-01
 bron: "https://wetten.overheid.nl/BWBR0023075"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Bijdragebeschikking Stichting A+O Fonds Rijk

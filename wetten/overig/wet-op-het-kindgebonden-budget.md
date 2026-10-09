@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0022751"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 1 november 2007, houdende regels inzake de aanspraak op een inkomensafhankelijke financiële bijdrage in de kosten van kinderen (Wet op het kindgebonden budget)

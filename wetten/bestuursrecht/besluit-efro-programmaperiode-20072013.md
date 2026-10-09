@@ -9,7 +9,7 @@ laatste_update: 2012-12-07
 status: geldig
 toestand: 2012-12-07
 bron: "https://wetten.overheid.nl/BWBR0022685"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 3 oktober 2007, houdende regels inzake bestuurlijke organisatie en cofinanciering door het Rijk van projecten uit het Europees Fonds voor Regionale Ontwikkeling voor de programmaperiode 2007–2013 (Besluit EFRO programmaperiode 2007–2013)

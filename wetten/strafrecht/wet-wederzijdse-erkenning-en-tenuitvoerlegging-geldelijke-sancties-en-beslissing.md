@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0022604"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 27 september 2007 tot implementatie van het kaderbesluit nr. 2005/214/JBZ van de Raad van de Europese Unie van 24 februari 2005 inzake de toepassing van het beginsel van wederzijdse erkenning op geldelijke sancties (PbEG L 76) (Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties)

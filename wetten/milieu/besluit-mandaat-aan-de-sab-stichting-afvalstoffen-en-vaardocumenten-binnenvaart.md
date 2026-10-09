@@ -8,7 +8,7 @@ laatste_update: 2007-12-21
 status: geldig
 toestand: 2007-12-21
 bron: "https://wetten.overheid.nl/BWBR0023070"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit mandaat aan de SAB Stichting Afvalstoffen en Vaardocumenten Binnenvaart

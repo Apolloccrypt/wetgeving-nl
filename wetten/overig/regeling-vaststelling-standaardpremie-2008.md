@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0023060"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2007, nr. Z/F-2817904, houdende vaststelling van de standaardpremie 2008 (Regeling vaststelling standaardpremie 2008)

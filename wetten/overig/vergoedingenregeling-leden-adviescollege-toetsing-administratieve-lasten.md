@@ -8,7 +8,7 @@ laatste_update: 2007-10-12
 status: geldig
 toestand: 2007-10-12
 bron: "https://wetten.overheid.nl/BWBR0022603"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Vergoedingenregeling leden Adviescollege toetsing administratieve lasten

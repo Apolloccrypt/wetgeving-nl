@@ -9,7 +9,7 @@ laatste_update: 2021-11-24
 status: geldig
 toestand: 2021-11-24
 bron: "https://wetten.overheid.nl/BWBR0023158"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 18 december 2007, nr. AM/SAM/07/41474, tot vaststelling van regels betreffende de uitvoering van de Wet sociale werkvoorziening (Regeling uitvoering sociale werkvoorziening en begeleid werken 2008)

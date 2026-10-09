@@ -9,7 +9,7 @@ laatste_update: 2008-07-01
 status: geldig
 toestand: 2008-07-01
 bron: "https://wetten.overheid.nl/BWBR0023021"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 6 december 2007 tot wijziging van het Wetboek van Strafrecht en enige andere wetten in verband met de wijziging van de vervroegde invrijheidstelling in een voorwaardelijke invrijheidstelling

@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0011405"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Wet van 8 juni 2000, houdende goedkeuring van de op 26 juli 1995 te Brussel tot stand gekomen Overeenkomst opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie inzake het gebruik van informatica op douanegebied (Trb. 1995, 287); van het op 26 juli 1995 te Brussel tot stand gekomen Akkoord betreffende de voorlopige toepassing tussen een aantal Lid-Staten van de Europese Unie van de op basis van Artikel K.3 van het Verdrag betreffende de Europese Unie opgestelde Overeenkomst inzake het gebruik van informatica op douanegebied (Trb. 1995, 288); en van het op 29 november 1996 te Brussel tot stand gekomen Protocol, opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de prejudiciële uitlegging, door het Hof van Justitie van de Europese Gemeenschappen, van de Overeenkomst inzake het gebruik van informatica op douanegebied (Trb. 1997, 39) (Goedkeuringswet DIS-Overeenkomst)

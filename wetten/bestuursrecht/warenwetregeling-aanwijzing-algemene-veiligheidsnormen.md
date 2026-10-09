@@ -9,7 +9,7 @@ laatste_update: 2026-03-13
 status: geldig
 toestand: 2026-03-13
 bron: "https://wetten.overheid.nl/BWBR0021921"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei 2007, nr. VGP/PSL 2769921, houdende aanwijzing van Europese normen die voldoen aan het algemeen veiligheidsvereiste van richtlijn 2001/95/EG (Warenwetregeling aanwijzing algemene veiligheidsnormen)

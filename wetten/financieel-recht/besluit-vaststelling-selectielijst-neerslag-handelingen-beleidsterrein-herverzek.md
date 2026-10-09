@@ -8,7 +8,7 @@ laatste_update: 2007-07-14
 status: geldig
 toestand: 2007-07-14
 bron: "https://wetten.overheid.nl/BWBR0022208"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Herverzekering van export- en importkredieten en investeringsgaranties vanaf 1945 (Minister van Buitenlandse Zaken)

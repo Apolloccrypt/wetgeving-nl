@@ -9,7 +9,7 @@ laatste_update: 2014-01-06
 status: geldig
 toestand: 2014-01-06
 bron: "https://wetten.overheid.nl/BWBR0022592"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 17 september 2007, houdende wijziging van het Besluit donorregister in verband met wijziging van het donorformulier

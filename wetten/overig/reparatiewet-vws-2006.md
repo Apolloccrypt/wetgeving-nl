@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0023289"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 30 november 2006 tot wijziging van diverse wetten op of in verband met het terrein van VWS, ten einde wetstechnische gebreken te herstellen en andere wijzigingen van ondergeschikte aard aan te brengen (Reparatiewet VWS 2006)

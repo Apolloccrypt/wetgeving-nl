@@ -9,7 +9,7 @@ laatste_update: 2007-06-06
 status: geldig
 toestand: 2007-06-06
 bron: "https://wetten.overheid.nl/BWBR0021985"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 11 mei 2007 tot wijziging van de Algemene pensioenwet politieke ambtsdragers in verband met de wijziging van de algemene voor pensioenfondsen en deelnemers aan pensioenregelingen geldende bepalingen inzake waardeoverdracht van pensioenaanspraken

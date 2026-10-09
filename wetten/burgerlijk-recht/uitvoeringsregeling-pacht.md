@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0022465"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 augustus 2007, nr. TRCJZ/2007/2722, houdende vaststelling van de hoogst toelaatbare pachtprijzen en wijziging van enkele regelingen in verband met de invoering van titel 5 (Pacht) van Boek 7 van het Burgerlijk Wetboek (Regeling pachtprijzen)

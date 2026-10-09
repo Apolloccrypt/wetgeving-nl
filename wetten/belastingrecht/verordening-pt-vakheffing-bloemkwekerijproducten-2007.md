@@ -9,7 +9,7 @@ laatste_update: 2007-06-03
 status: geldig
 toestand: 2007-06-03
 bron: "https://wetten.overheid.nl/BWBR0022088"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 27 juni 2006, houdende de vaststelling van een vakhefftng voor bloemkwekerijproducten voor het jaar 2007 (Verordening PT vakheffing bloemkwekerijproducten 2007)

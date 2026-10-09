@@ -9,7 +9,7 @@ laatste_update: 2007-12-26
 status: geldig
 toestand: 2007-12-26
 bron: "https://wetten.overheid.nl/BWBR0023154"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister van Economische Zaken van 17 december 2007, nr. WJZ 7154014, houdende regels inzake mandaat en machtiging aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland betreffende de uitvoering van artikel 31a van de Subsidieregeling pieken in de delta 2007 (Besluit mandaat en machtiging Samenwerkingsverband Noord-Nederland inzake uitvoering artikel 31a van de Subsidieregeling pieken in de delta 2007)

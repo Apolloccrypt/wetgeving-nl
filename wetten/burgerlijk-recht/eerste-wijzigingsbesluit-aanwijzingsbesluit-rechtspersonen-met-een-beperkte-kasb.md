@@ -9,7 +9,7 @@ laatste_update: 2007-12-20
 status: geldig
 toestand: 2007-12-20
 bron: "https://wetten.overheid.nl/BWBR0023041"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 10 december 2007 van de Minister van Financiën houdende aanpassing van de bijlagen A en B bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie (Eerste wijzigingsbesluit aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie)

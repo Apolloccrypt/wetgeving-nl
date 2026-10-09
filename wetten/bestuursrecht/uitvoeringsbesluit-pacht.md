@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0022717"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 1 oktober 2007, houdende uitvoering van titel 7.5 (Pacht) van het Burgerlijk Wetboek, de Uitvoeringswet grondkamers en de Wet op de rechterlijke organisatie (Uitvoeringsbesluit pacht)

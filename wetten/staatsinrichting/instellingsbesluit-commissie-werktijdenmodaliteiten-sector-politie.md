@@ -8,7 +8,7 @@ laatste_update: 2022-12-01
 status: geldig
 toestand: 2022-12-01
 bron: "https://wetten.overheid.nl/BWBR0021965"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Instellingsbesluit commissie werktijdenmodaliteiten sector Politie

@@ -9,7 +9,7 @@ laatste_update: 2007-12-21
 status: geldig
 toestand: 2007-12-21
 bron: "https://wetten.overheid.nl/BWBR0023120"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2007, nr. MEVA/NBO-2817611, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake budgetopschoning in verband met de 2e tranche opleidingsfonds AWBZ en ‘cure’

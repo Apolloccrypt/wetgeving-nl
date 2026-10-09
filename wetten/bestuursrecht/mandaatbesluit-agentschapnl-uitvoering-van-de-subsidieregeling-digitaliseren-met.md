@@ -9,7 +9,7 @@ laatste_update: 2010-03-02
 status: geldig
 toestand: 2010-03-02
 bron: "https://wetten.overheid.nl/BWBR0022327"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 februari 2006, nr. DCE/06/9341, houdende verlening van mandaat voor de uitvoering van de Subsidieregeling Digitaliseren met beleid, daaronder begrepen mandaat, volmacht en machtiging voor de uitvoering van de beroepen van de Subsidieregeling Digitaliseren met beleid

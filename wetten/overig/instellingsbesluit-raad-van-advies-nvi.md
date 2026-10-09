@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0022973"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2007, nr. DBO/ADV-2815959, houdende de instelling van de Raad van Advies NVI

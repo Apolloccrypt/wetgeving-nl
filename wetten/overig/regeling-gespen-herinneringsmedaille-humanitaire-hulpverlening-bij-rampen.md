@@ -4,11 +4,11 @@ identifier: "BWBR0042987"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2020-01-01
-laatste_update: 2026-02-25
+laatste_update: 2026-10-06
 status: geldig
-toestand: 2026-02-25
+toestand: 2026-10-06
 bron: "https://wetten.overheid.nl/BWBR0042987"
-opgehaald: 2026-08-29
+opgehaald: 2026-10-09
 ---
 
 # Regeling gespen Herinneringsmedaille Humanitaire hulpverlening bij Rampen
@@ -32,6 +32,8 @@ opgehaald: 2026-08-29
 8. In verband met de hulpverlening bestaande uit het beschikbaar stellen van Nederlandse blushelikopters en vliegtuigen bij de bosbrandbestrijding in Spanje, regio Castille en Leon, in de periode van 17 augustus tot en met 6 september 2025, wordt de gesp ‘Spanje 2025’ ingesteld.
 
 9. In verband met de hulpverlening bestaande uit het sturen van het hulpschip Zr. Ms. Pelikaan voor het vervoeren van hulpgoederen en deze af te leveren in Jamaica, in de periode van 29 oktober tot en met 16 november 2025, wordt de gesp ‘Jamaica 2025’ ingesteld.
+
+10. In verband met de hulpverlening samenhangende met de aardbeving in Venezuela, bestaande uit het sturen van de Zr. Ms. Groningen en het leveren en inzetten van Urban Search and Rescue-capaciteit in Caracas, de havenstad La Guira en afgelegen kustlocaties in Venezuela vanaf 26 juni 2026 tot en met 11 juli 2026, wordt de gesp ‘HADR Caribbean Cohesion’ ingesteld.
 
 ##### Artikel 2
 

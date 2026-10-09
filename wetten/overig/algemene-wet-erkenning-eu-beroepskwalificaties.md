@@ -9,7 +9,7 @@ laatste_update: 2021-08-26
 status: geldig
 toestand: 2021-08-26
 bron: "https://wetten.overheid.nl/BWBR0023066"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 6 december 2007, houdende algemene bepalingen met betrekking tot de erkenning van EG-beroepskwalificaties (Algemene wet erkenning EG-beroepskwalificaties)

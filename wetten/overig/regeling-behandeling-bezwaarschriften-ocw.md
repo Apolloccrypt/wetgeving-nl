@@ -9,7 +9,7 @@ laatste_update: 2011-06-01
 status: geldig
 toestand: 2011-06-01
 bron: "https://wetten.overheid.nl/BWBR0023195"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 december 2007, nr. WJZ/2007/46896 (8228), houdende de behandeling van bezwaarschriften op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap en wijziging van het Organisatie- en mandaatbesluit van OCW in dat verband (Regeling behandeling bezwaarschriften OCW)

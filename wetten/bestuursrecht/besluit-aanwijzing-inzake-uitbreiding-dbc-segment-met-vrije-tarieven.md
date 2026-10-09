@@ -9,7 +9,7 @@ laatste_update: 2007-09-19
 status: geldig
 toestand: 2007-09-19
 bron: "https://wetten.overheid.nl/BWBR0022529"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 10 september 2007, MC-U- 2794139, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake uitbreiding DBC-segment met vrije tarieven

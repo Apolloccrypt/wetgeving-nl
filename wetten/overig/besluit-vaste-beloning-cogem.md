@@ -9,7 +9,7 @@ laatste_update: 2007-06-22
 status: geldig
 toestand: 2007-06-22
 bron: "https://wetten.overheid.nl/BWBR0022109"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 31 mei 2007, houdende de toekenning van een vaste beloning aan de leden van de commissie, bedoeld in artikel 2.26 van de Wet milieubeheer (Besluit vaste beloning COGEM)

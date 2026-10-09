@@ -5,10 +5,11 @@ categorie: "Strafrecht"
 soort: "beleidsregel"
 publicatiedatum: 2021-02-01
 laatste_update: 2021-02-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-30
 toestand: 2021-02-01
 bron: "https://wetten.overheid.nl/BWBR0044737"
-opgehaald: 2026-08-31
+opgehaald: 2026-10-09
 ---
 
 # Richtlijn en kader voor strafvordering jeugd en adolescenten, inclusief strafmaten Halt

@@ -9,7 +9,7 @@ laatste_update: 2007-07-11
 status: geldig
 toestand: 2007-07-11
 bron: "https://wetten.overheid.nl/BWBR0022194"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 13 juni 2007, houdende de toekenning van een vaste beloning aan de voorzitter van het Kennisplatform Elektromagnetische Velden en Gezondheid (Besluit vaste beloning voorzitter Kennisplatform EVM&G)

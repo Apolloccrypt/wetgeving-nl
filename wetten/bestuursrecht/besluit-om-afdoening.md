@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0022233"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 4 juli 2007, houdende regels aangaande de buitengerechtelijke afdoening van strafbare feiten (Besluit OM-afdoening)

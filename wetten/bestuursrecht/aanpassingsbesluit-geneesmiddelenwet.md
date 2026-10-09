@@ -9,7 +9,7 @@ laatste_update: 2007-07-01
 status: geldig
 toestand: 2007-07-01
 bron: "https://wetten.overheid.nl/BWBR0023292"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 19 maart 2007, houdende aanpassing van algemene maatregelen van bestuur in verband met de invoering van de Geneesmiddelenwet en houdende aanpassing van een aantal andere besluiten (Aanpassingsbesluit Geneesmiddelenwet)

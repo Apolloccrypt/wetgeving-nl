@@ -9,7 +9,7 @@ laatste_update: 2012-02-18
 status: geldig
 toestand: 2012-02-18
 bron: "https://wetten.overheid.nl/BWBR0022831"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Economische Zaken van 12 november 2007, nr. WJZ 7130350, houdende de Rijkscofinanciering voor EFRO-programma's 2007–2013 voor doelstelling 2

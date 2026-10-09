@@ -9,7 +9,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0022636"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 27 september 2007, houdende wijziging van de Algemene wet inzake rijksbelastingen en van enige andere wetten, in het kader van het versterken van de fiscale rechtshandhaving en het verkorten van beslistermijnen (Versterking fiscale rechtshandhaving)

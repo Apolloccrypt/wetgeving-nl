@@ -9,7 +9,7 @@ laatste_update: 2019-11-20
 status: geldig
 toestand: 2019-11-20
 bron: "https://wetten.overheid.nl/BWBR0023131"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken in overeenstemming met de Minister van Financiën van 18 december 2007, nr. DJZ/BR/1222-07, houdende beperkende maatregelen met het oog op de strijd tegen het terrorisme (Sanctieregeling terrorisme 2007-II)

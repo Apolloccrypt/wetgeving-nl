@@ -9,7 +9,7 @@ laatste_update: 2007-06-07
 status: geldig
 toestand: 2007-06-07
 bron: "https://wetten.overheid.nl/BWBR0022002"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister van Verkeer en Waterstaat tot instelling van de Commissie visitatie zelfevaluatie spoorwetgeving

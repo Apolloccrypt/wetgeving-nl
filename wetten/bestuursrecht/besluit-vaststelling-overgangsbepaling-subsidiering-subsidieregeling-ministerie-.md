@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0022948"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 26 november 2007, nr. DJZ/BR/1133-2007, tot vaststelling van een overgangsbepaling voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (ORET)

@@ -8,7 +8,7 @@ laatste_update: 2007-08-03
 status: geldig
 toestand: 2007-08-03
 bron: "https://wetten.overheid.nl/BWBR0022340"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Justitiële Zaken en verklaringen omtrent het gedrag vanaf 1945 (Minister van Binnenlandse Zaken en Koninkrijksrelaties)

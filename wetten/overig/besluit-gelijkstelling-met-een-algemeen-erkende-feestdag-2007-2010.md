@@ -9,7 +9,7 @@ laatste_update: 2007-10-10
 status: geldig
 toestand: 2007-10-10
 bron: "https://wetten.overheid.nl/BWBR0022669"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 27 september 2007, nr. 07.003139, houdende gelijkstelling van 24 december 2007, 2 mei 2008, 22 mei 2009 en 14 mei 2010 met een algemeen erkende feestdag

@@ -9,7 +9,7 @@ laatste_update: 2007-07-01
 status: geldig
 toestand: 2007-07-01
 bron: "https://wetten.overheid.nl/BWBR0022078"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 4 juni 2007 tot aanpassing van enige reglementen in verband met wijziging van de regeling inzake het afleggen van de eed of belofte door de deskundige leden bij enige bijzondere kamers van gerechten (aanpassing regeling afleggen eed bijzondere kamers gerechten)

@@ -9,7 +9,7 @@ laatste_update: 2007-09-14
 status: geldig
 toestand: 2007-09-14
 bron: "https://wetten.overheid.nl/BWBR0022500"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 3 september 2007, nr. 07.002753, houdende de toekenning van een vaste beloning aan de voorzitter van de commissie van Overleg Sectorraden (Besluit vaste beloning voorzitter COS)

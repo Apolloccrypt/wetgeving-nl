@@ -8,7 +8,7 @@ laatste_update: 2007-06-13
 status: geldig
 toestand: 2007-06-13
 bron: "https://wetten.overheid.nl/BWBR0022021"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Monumentenzorg vanaf 1965 (Minister van Landbouw, Natuur en Voedselkwaliteit)

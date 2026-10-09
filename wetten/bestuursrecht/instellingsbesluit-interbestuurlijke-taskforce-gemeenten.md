@@ -8,7 +8,7 @@ laatste_update: 2007-12-08
 status: geldig
 toestand: 2007-12-08
 bron: "https://wetten.overheid.nl/BWBR0022965"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Instellingsbesluit Interbestuurlijke taskforce gemeenten

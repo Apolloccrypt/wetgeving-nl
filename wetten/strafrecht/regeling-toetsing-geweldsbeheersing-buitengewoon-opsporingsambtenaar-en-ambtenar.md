@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0021973"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Justitie d.d. 23 mei 2007, nr. 5484160/07/CBK, houdende vaststelling van bepalingen inzake toetsing van buitengewoon opsporingsambtenaren en ambtenaren in dienst van een bijzondere opsporingsdienst terzake van geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid (Regeling toetsing geweldsbeheersing buitengewoon opsporingsambtenaar en ambtenaren van bijzondere opsporingsdiensten)

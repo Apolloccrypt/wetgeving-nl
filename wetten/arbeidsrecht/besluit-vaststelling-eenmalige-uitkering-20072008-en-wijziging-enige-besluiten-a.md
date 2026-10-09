@@ -9,7 +9,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBR0023160"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 11 december 2007 tot vaststelling van een eenmalige uitkering 2007 en 2008 en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode 1 maart 2007 tot en met 28 februari 2009 alsmede de invoering van een flexibel personeelssysteem voor de krijgsmacht

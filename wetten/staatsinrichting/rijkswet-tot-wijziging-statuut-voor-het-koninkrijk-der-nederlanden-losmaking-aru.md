@@ -9,7 +9,7 @@ laatste_update: 1986-01-01
 status: geldig
 toestand: 1986-01-01
 bron: "https://wetten.overheid.nl/BWBR0022380"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Rijkswet van 22 juli 1985 tot wijziging van het Statuut voor het Koninkrijk der Nederlanden, houdende losmaking van Aruba uit het Staatsverband van de Nederlandse Antillen

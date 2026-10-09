@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0022944"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 13 november 2007, houdende regels inzake een register met gegevens betreffende ruimtevoorwerpen (Besluit register ruimtevoorwerpen)

@@ -9,7 +9,7 @@ laatste_update: 2018-11-07
 status: geldig
 toestand: 2018-11-07
 bron: "https://wetten.overheid.nl/BWBR0021914"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2771003, houdende de Warenwetregeling vrijstelling vergunningplicht tatoeëren en piercen

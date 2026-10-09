@@ -9,7 +9,7 @@ laatste_update: 2007-11-21
 status: geldig
 toestand: 2007-11-21
 bron: "https://wetten.overheid.nl/BWBR0022839"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit tot aanwijzing vervoersdienst waarvoor het College van Gedeputeerde Staten van de provincie Overijssel en het College van Gedeputeerde Staten van de provincie Drenthe bevoegd is tot het verlenen, wijzigen of intrekken van concessies voor regionaal openbaar vervoer per trein

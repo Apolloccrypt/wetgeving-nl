@@ -9,7 +9,7 @@ laatste_update: 2007-12-09
 status: geldig
 toestand: 2007-12-09
 bron: "https://wetten.overheid.nl/BWBR0023221"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 13 november 2007, houdende wijziging van de vaststelling van de bedragen van de bestemmingsheffing ten behoeve van de teelt van fruit en champignons voor het jaar 2006 (Wijziging 2006-1 Besluit PT bijzondere heffing teelt fruit en champignons 2006)

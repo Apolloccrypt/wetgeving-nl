@@ -8,7 +8,7 @@ laatste_update: 2007-11-09
 status: geldig
 toestand: 2007-11-09
 bron: "https://wetten.overheid.nl/BWBR0022003"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit instelling Commissie grensarbeiders

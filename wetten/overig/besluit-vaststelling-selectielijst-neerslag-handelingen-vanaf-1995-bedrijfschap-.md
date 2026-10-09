@@ -8,7 +8,7 @@ laatste_update: 2008-01-06
 status: geldig
 toestand: 2008-01-06
 bron: "https://wetten.overheid.nl/BWBR0023208"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen vanaf 1995 (Bedrijfschap Afbouw en rechtsvoorgangers)

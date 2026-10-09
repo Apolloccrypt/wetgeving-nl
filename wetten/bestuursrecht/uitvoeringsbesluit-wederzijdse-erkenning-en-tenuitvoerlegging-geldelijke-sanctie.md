@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0022793"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties (Uitvoeringsbesluit wederzijdse erkenning en tenuitvoerlegging geldelijke sancties)

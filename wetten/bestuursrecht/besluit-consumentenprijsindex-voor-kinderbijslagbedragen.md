@@ -9,7 +9,7 @@ laatste_update: 2025-12-20
 status: geldig
 toestand: 2025-12-20
 bron: "https://wetten.overheid.nl/BWBR0022744"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 3 oktober 2007 tot vaststelling van de consumentenprijsindex voor de herziening van de kinderbijslagbedragen (Besluit consumentenprijsindex voor kinderbijslagbedragen)

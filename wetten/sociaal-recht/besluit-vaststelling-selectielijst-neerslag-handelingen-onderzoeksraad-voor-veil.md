@@ -8,7 +8,7 @@ laatste_update: 2007-08-01
 status: geldig
 toestand: 2007-08-01
 bron: "https://wetten.overheid.nl/BWBR0022279"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Onderzoeksraad voor Veiligheid en zijn directe voorgangers beleidsterrein Brandweerzorg, rampenbestrijding en crisisbeheersing vanaf 1999

@@ -9,7 +9,7 @@ laatste_update: 2007-10-12
 status: geldig
 toestand: 2007-10-12
 bron: "https://wetten.overheid.nl/BWBR0022177"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister voor Wonen, Wijken en Integratie van 29 juni 2007, nr. DGW/BO2007.036878, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van artikel 37 van de Huursubsidiewet (Mandaatbesluit CJIB Incasso Huursubsidie)

@@ -9,7 +9,7 @@ laatste_update: 2025-06-01
 status: geldig
 toestand: 2025-06-01
 bron: "https://wetten.overheid.nl/BWBR0023009"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 13 september 2007, houdende bepalingen met betrekking tot de veilige vaart op de binnenwateren (Binnenvaartwet)

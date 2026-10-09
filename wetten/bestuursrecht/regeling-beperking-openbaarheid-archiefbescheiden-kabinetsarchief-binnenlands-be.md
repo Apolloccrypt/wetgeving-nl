@@ -8,7 +8,7 @@ laatste_update: 2007-09-07
 status: geldig
 toestand: 2007-09-07
 bron: "https://wetten.overheid.nl/BWBR0022474"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling beperking openbaarheid archiefbescheiden Kabinetsarchief Binnenlands Bestuur 1933–1955

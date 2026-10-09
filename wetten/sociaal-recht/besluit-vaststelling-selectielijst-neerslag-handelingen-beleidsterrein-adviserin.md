@@ -8,7 +8,7 @@ laatste_update: 2007-08-02
 status: geldig
 toestand: 2007-08-02
 bron: "https://wetten.overheid.nl/BWBR0022341"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Advisering in de gezondheidszorg vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)

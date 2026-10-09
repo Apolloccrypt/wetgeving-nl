@@ -8,7 +8,7 @@ laatste_update: 2007-07-27
 status: geldig
 toestand: 2007-07-27
 bron: "https://wetten.overheid.nl/BWBR0022323"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit tot wijziging en inwerkingtreding van Uitvoeringsregeling lange speelfilm en Suppletieregeling filminvesteringen Nederland

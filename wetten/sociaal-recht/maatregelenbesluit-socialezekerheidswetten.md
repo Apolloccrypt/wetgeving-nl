@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0022445"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 23 augustus 2007, houdende regels omtrent de hoogte en duur van de op te leggen administratieve maatregelen op grond van de socialezekerheidswetten (Maatregelenbesluit socialezekerheidswetten)

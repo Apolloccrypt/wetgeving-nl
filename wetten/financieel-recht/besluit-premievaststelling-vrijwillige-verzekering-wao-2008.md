@@ -8,7 +8,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0023063"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit premievaststelling vrijwillige verzekering WAO 2008

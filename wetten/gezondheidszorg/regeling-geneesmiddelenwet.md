@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0022160"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 juni 2007, nr. GMT/MVG 2780607, houdende uitvoering van bepalingen van de Geneesmiddelenwet (Regeling Geneesmiddelenwet)

@@ -9,7 +9,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0022913"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 22 november 2007, nr. SAS 2007115642, Directoraat Generaal Milieubeheer, Directie Stoffen, Afvalstoffen en Straling, houdende regels voor de verlening van een tegemoetkoming in de immateriële schade aan personen bij wie ten gevolge van de blootstelling aan asbest mesothelioom is geconstateerd en deze blootstelling niet heeft plaatsgevonden als gevolg van arbeid in loondienst (Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom)

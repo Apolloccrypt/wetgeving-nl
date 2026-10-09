@@ -9,7 +9,7 @@ laatste_update: 2007-07-01
 status: geldig
 toestand: 2007-07-01
 bron: "https://wetten.overheid.nl/BWBR0021924"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie Innovatieve Zeescheepsbouw

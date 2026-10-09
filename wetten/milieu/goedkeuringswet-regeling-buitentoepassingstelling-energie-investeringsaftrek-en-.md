@@ -9,7 +9,7 @@ laatste_update: 2007-07-20
 status: geldig
 toestand: 2007-07-20
 bron: "https://wetten.overheid.nl/BWBR0022254"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 9 juli 2007 tot goedkeuring van de regeling van de minister van Financiën van 11 oktober 2006, nr. DB2006/00476 (Stcrt. 198) tot buitentoepassingstelling voor een gedeelte van 2006 van de energie-investeringsaftrek en de milieu-investeringsaftrek

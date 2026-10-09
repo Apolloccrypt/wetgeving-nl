@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0022812"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 oktober 2007, nr. DGM2007088466, houdende eisen aan nucleaire drukapparatuur en eisen aan instellingen die toezicht houden op nucleaire drukapparatuur (Regeling nucleaire drukapparatuur)

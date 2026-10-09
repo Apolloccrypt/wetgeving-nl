@@ -8,7 +8,7 @@ laatste_update: 2026-07-29
 status: geldig
 toestand: 2026-07-29
 bron: "https://wetten.overheid.nl/BWBR0052975"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Nader gewijzigde beleidsregel rendementstoets warmte

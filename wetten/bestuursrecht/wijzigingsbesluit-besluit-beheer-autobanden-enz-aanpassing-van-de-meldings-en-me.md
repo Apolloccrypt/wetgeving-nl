@@ -9,7 +9,7 @@ laatste_update: 2008-04-01
 status: geldig
 toestand: 2008-04-01
 bron: "https://wetten.overheid.nl/BWBR0023036"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 6 december 2007, houdende wijziging van het Besluit beheer autobanden, het Besluit beheer autowrakken, het Besluit beheer batterijen, het Besluit beheer elektrische en elektronische apparatuur en het Besluit beheer verpakkingen en papier en karton in verband met aanpassing van de meldings- en mededelingstermijn (onbeperkte geldigheid melding en mededeling)

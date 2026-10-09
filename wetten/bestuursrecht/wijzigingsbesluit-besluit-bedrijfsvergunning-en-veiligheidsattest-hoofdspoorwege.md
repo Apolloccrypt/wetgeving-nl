@@ -9,7 +9,7 @@ laatste_update: 2007-05-16
 status: geldig
 toestand: 2007-05-16
 bron: "https://wetten.overheid.nl/BWBR0021858"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 18 april 2007 tot wijziging van het Besluit bedrijfsvergunning en veiligheidsattest hoofdspoorwegen, van het Besluit Onderzoeksraad voor veiligheid, van het Besluit keuring spoorvoertuigen, van het Besluit spoorweginfrastructuur en van het Besluit spoorverkeer ter implementatie van richtlijn 2004/49/EG (Spoorwegveiligheidsrichtlijn) en van richtlijn 2004/50/EG tot wijziging van richtlijn 96/48/EG en van richtlijn 2001/16/EG

@@ -8,7 +8,7 @@ laatste_update: 2012-04-05
 status: geldig
 toestand: 2012-04-05
 bron: "https://wetten.overheid.nl/BWBR0022767"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Politie 1945–1993 (Minister van Volksgezondheid, Welzijn en Sport)

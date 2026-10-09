@@ -9,7 +9,7 @@ laatste_update: 2008-07-01
 status: geldig
 toestand: 2008-07-01
 bron: "https://wetten.overheid.nl/BWBR0022116"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van het Commissariaat voor de Media van 5 juni 2007, houdende ontheffing van het bepaalde in het eerste lid van artikel 71m van de Mediawet in verband met de vermeldingen en vertoningen van namen, (beeld)merken, producten of diensten van commerciële omroepinstellingen (Besluit ontheffing zelfpromotie commerciële omroep)

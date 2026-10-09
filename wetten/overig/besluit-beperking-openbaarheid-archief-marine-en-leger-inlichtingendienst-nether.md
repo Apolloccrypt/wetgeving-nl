@@ -9,7 +9,7 @@ laatste_update: 2007-06-21
 status: geldig
 toestand: 2007-06-21
 bron: "https://wetten.overheid.nl/BWBR0022102"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 12 juni 2007, nr. DDI/ST/reg. 011/2007, houdende beperking van de openbaarheid van het archief van de Marine en Leger Inlichtingendienst, de Netherlands Forces Intelligence Service en de Centrale Militaire Inlichtingendienst in Nederlands-Indië, 1942-1949 (1960)

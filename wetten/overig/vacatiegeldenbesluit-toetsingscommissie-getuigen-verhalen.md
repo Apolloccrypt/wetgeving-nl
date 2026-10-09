@@ -9,7 +9,7 @@ laatste_update: 2008-02-01
 status: geldig
 toestand: 2008-02-01
 bron: "https://wetten.overheid.nl/BWBR0023055"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 december 2007, nr. OHW-U-2815446, houdende de toekenning van vacatiegeld aan de voorzitter en leden van de Toetsingscommissie Getuigen Verhalen

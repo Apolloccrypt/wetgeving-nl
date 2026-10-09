@@ -8,7 +8,7 @@ laatste_update: 2007-06-20
 status: geldig
 toestand: 2007-06-20
 bron: "https://wetten.overheid.nl/BWBR0022073"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Infectieziektebestrijding en preventieve gezondheidszorg vanaf 1945 (Minister van Onderwijs, Cultuur en Wetenschap)

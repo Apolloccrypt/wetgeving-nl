@@ -9,7 +9,7 @@ laatste_update: 2021-03-05
 status: geldig
 toestand: 2021-03-05
 bron: "https://wetten.overheid.nl/BWBR0021932"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 14 mei 2007 tot aanwijzing van instanties met een rechtmatig belang in het kader van Verordening 2006/2004 (Besluit aanwijzing instanties met een rechtmatig belang)

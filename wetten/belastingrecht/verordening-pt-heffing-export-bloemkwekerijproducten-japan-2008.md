@@ -9,7 +9,7 @@ laatste_update: 2007-10-21
 status: geldig
 toestand: 2007-10-21
 bron: "https://wetten.overheid.nl/BWBR0022734"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 3 juli 2007, houdende de vaststelling van de aan ondernemers die bloemkwekerijproducten naar Japan exporteren op te leggen heffing voor het jaar 2008 (Verordening PT heffing export bloemkwekerijproducten Japan 2008)

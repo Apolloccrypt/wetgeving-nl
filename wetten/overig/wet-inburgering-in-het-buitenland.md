@@ -9,7 +9,7 @@ laatste_update: 2006-03-15
 status: geldig
 toestand: 2006-03-15
 bron: "https://wetten.overheid.nl/BWBR0023204"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 22 december 2005 tot wijziging van de Vreemdelingenwet 2000 in verband met het stellen van een inburgeringsvereiste bij het toelaten van bepaalde categorieën vreemdelingen (Wet inburgering in het buitenland)

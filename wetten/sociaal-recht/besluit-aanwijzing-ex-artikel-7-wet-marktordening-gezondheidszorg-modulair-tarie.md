@@ -9,7 +9,7 @@ laatste_update: 2007-11-05
 status: geldig
 toestand: 2007-11-05
 bron: "https://wetten.overheid.nl/BWBR0022760"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 oktober 2007, nr. MC-U-2805003, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake modulair tariefsysteem voor farmaceutische hulp

@@ -9,7 +9,7 @@ laatste_update: 2007-07-26
 status: geldig
 toestand: 2007-07-26
 bron: "https://wetten.overheid.nl/BWBR0022308"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van 10 juli 2007, nr. 2007-0000251548, tot vaststelling van de bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2006

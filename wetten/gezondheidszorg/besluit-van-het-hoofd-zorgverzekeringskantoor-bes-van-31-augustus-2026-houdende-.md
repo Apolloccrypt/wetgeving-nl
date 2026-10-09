@@ -9,7 +9,7 @@ laatste_update: 2026-09-30
 status: geldig
 toestand: 2026-09-30
 bron: "https://wetten.overheid.nl/BWBR0053143"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Besluit van het hoofd Zorgverzekeringskantoor BES van 31 augustus 2026, houdende het verlenen ondermandaat, -machtiging en -volmacht aan de leden van het managementteam van de directie Zorg en Jeugd in Caribisch Nederland

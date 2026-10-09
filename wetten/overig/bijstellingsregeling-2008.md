@@ -8,7 +8,7 @@ laatste_update: 2008-02-15
 status: geldig
 toestand: 2008-02-15
 bron: "https://wetten.overheid.nl/BWBR0023188"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Bijstellingsregeling 2008

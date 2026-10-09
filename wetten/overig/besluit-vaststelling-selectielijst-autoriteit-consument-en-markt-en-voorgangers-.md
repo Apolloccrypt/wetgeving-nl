@@ -8,7 +8,7 @@ laatste_update: 2026-09-30
 status: geldig
 toestand: 2026-09-30
 bron: "https://wetten.overheid.nl/BWBR0053160"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst Autoriteit Consument en Markt en voorgangers vanaf 1 januari 1997

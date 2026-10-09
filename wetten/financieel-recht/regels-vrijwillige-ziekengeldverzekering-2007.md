@@ -8,7 +8,7 @@ laatste_update: 2007-05-25
 status: geldig
 toestand: 2007-05-25
 bron: "https://wetten.overheid.nl/BWBR0021881"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regels vrijwillige ziekengeldverzekering 2007

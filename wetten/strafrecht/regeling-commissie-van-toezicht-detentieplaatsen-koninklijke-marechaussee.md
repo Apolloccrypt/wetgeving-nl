@@ -8,7 +8,7 @@ laatste_update: 2023-12-02
 status: geldig
 toestand: 2023-12-02
 bron: "https://wetten.overheid.nl/BWBR0022877"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling commissie van toezicht detentieplaatsen Koninklijke Marechaussee

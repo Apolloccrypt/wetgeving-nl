@@ -9,7 +9,7 @@ laatste_update: 2007-07-04
 status: geldig
 toestand: 2007-07-04
 bron: "https://wetten.overheid.nl/BWBR0022164"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 11 mei 2007 tot vaststelling van een eenmalige uitkering 2005, een eenmalige uitkering 2006 en tot wijziging van enige besluiten in het kader van de arbeidsvoorwaardenovereenkomst voor de sector Defensie over de periode 1 januari 2004 tot en met 28 februari 2007, alsmede in verband met enige technische wijzigingen

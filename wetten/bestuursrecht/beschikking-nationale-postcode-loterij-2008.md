@@ -9,7 +9,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBR0023321"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Beschikking van de Minister van Justitie van 21 december 2007, nr. 5523483/07/DSP, houdende verlening van een vergunning tot het organiseren van een postcodeloterij

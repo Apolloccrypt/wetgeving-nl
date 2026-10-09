@@ -9,7 +9,7 @@ laatste_update: 2017-05-01
 status: geldig
 toestand: 2017-05-01
 bron: "https://wetten.overheid.nl/BWBR0021917"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 mei 2007, nr. VGP/PSL 2770996, houdende de Regeling mandaat- en volmachtverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen

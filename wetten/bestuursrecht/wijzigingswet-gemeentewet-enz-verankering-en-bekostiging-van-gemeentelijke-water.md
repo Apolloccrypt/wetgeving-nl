@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0022391"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 28 juni 2007 tot wijziging van de Gemeentewet, de Wet op de waterhuishouding en de Wet milieubeheer in verband met de introductie van zorgplichten van gemeenten voor het afvloeiend hemelwater en het grondwater, alsmede verduidelijking van de zorgplicht voor het afvalwater, en aanpassing van het bijbehorende bekostigingsinstrument (verankering en bekostiging van gemeentelijke watertaken)

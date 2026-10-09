@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0022832"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Justitie van 6 november 2007, nr. 5509050/07, houdende regels inzake het gebruik van elektronische volgsystemen tijdens verlof van ter beschikking gestelden of anderszins verpleegden (Tijdelijke regeling verlof met elektronisch volgsysteem)

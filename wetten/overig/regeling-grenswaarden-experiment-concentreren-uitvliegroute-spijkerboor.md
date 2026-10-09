@@ -8,7 +8,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0022862"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling grenswaarden experiment concentreren uitvliegroute Spijkerboor

@@ -9,7 +9,7 @@ laatste_update: 2007-06-15
 status: geldig
 toestand: 2007-06-15
 bron: "https://wetten.overheid.nl/BWBR0022079"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 24 mei 2007, houdende wijziging van het Warenwetbesluit Vlees, gehakt en vleesproducten inzake het vetgehalte van gehakt en mager gehakt

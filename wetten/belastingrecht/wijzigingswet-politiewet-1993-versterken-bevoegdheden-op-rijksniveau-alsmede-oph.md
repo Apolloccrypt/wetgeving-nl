@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0021927"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 26 april 2007 tot wijziging van de Politiewet 1993 in verband met het versterken van de bevoegdheden op rijksniveau ten aanzien van de politie, alsmede de opheffing van de Raad voor het Korps landelijke politiediensten

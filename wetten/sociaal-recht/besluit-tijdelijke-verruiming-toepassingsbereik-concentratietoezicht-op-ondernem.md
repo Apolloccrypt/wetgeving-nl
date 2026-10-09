@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0023022"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 6 december 2007, houdende tijdelijke verruiming van het toepassingsbereik van het concentratietoezicht op ondernemingen die zorg verlenen

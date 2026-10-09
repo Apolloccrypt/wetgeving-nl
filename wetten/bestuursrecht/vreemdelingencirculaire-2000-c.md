@@ -4,11 +4,11 @@ identifier: "BWBR0012288"
 categorie: "Overig"
 soort: "circulaire"
 publicatiedatum: 2026-06-12
-laatste_update: 2026-09-11
+laatste_update: 2026-10-01
 status: geldig
-toestand: 2026-09-11
+toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0012288"
-opgehaald: 2026-09-18
+opgehaald: 2026-10-09
 ---
 
 # Vreemdelingencirculaire 2000 (C)
@@ -621,7 +621,7 @@ De IND kan de vreemdeling op grond van artikel 17, derde lid, van de Asiel- en 
 
 ### 3.5. Beschikking/overdrachtsbesluit
 
-De IND maakt de beschikking op grond van artikel 42 Asiel- en migratiebeheerverordening bekend door uitreiking aan de vreemdeling of door toezending aan gemachtigde, nadat:
+De IND maakt de beschikking op grond van artikel 42 Asiel- en migratiebeheerverordening bekend door uitreiking aan de vreemdeling of door toezending aan gemachtigde, nadat:
 
 - • het overnameverzoek door een andere lidstaat is aanvaard; of
 
@@ -629,17 +629,17 @@ De IND maakt de beschikking op grond van artikel 42 Asiel- en migratiebeheerver
 
 Bovenstaande geldt ook wanneer aanvaarding of bevestiging het gevolg is van het niet tijdig reageren van de aangezochte lidstaat.
 
-Als het verzoek om internationale bescherming niet in behandeling wordt genomen op grond van artikel 30, eerste lid Vw, neemt de IND in ieder geval in de beschikking op:
+Als het verzoek om internationale bescherming niet in behandeling wordt genomen op grond van [artikel 30, eerste lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30), neemt de IND in ieder geval in de beschikking op:
 
 - • dat de vreemdeling wordt overgedragen aan de verantwoordelijke lidstaat op grond van de Asiel- en migratiebeheerverordening (overdrachtsbesluit)
 
-- • de informatie bedoeld in artikel 42, tweede en vierde lid, Asiel- en migratiebeheerverordening
+- • de informatie bedoeld in artikel 42, tweede en vierde lid, Asiel- en migratiebeheerverordening
 
-- • of de vreemdeling van rechtswege geen recht heeft op opvangvoorzieningen op basis van artikel 44a, eerste lid, aanhef en onder d, Vw.
+- • of de vreemdeling van rechtswege geen recht heeft op opvangvoorzieningen op basis van [artikel 44a, eerste lid, aanhef en onder d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=44a).
 
-- • de verplichting voor de vreemdeling als bedoeld in artikel 17, vijfde lid, Asiel- en migratiebeheerverordening om mee te werken met de bevoegde autoriteiten en om het overdrachtsbesluit na te komen.
+- • de verplichting voor de vreemdeling als bedoeld in artikel 17, vijfde lid, Asiel- en migratiebeheerverordening om mee te werken met de bevoegde autoriteiten en om het overdrachtsbesluit na te komen.
 
-De vreemdeling heeft van rechtswege geen recht op opvangvoorzieningen in een andere lidstaat dan die waar hij op grond van artikel 17, vierde lid van de Asiel- en migratiebeheerverordening aanwezig dient te zijn. De vreemdeling heeft wel recht op opvangvoorzieningen tot aan de overdracht in de volgende situaties:
+De vreemdeling heeft van rechtswege geen recht op opvangvoorzieningen in een andere lidstaat dan die waar hij op grond van artikel 17, vierde lid van de Asiel- en migratiebeheerverordening aanwezig dient te zijn. De vreemdeling heeft wel recht op opvangvoorzieningen tot aan de overdracht in de volgende situaties:
 
 - • De vreemdeling heeft het eerste verzoek om internationale bescherming ingediend in Nederland en waarbij:
 
@@ -651,13 +651,13 @@ De vreemdeling heeft van rechtswege geen recht op opvangvoorzieningen in een and
 
 - • De vreemdeling is in het kader van solidariteit naar Nederland herplaatst en er is alsnog vastgesteld dat een andere lidstaat verantwoordelijk is
 
-- • Er bestaan redelijke gronden om aan te nemen dat de vreemdeling het slachtoffer zou kunnen zijn geweest van strafbare feiten op het gebied van mensenhandel. Het gebruik maken van de bedenktijd of het doen van een aangifte is niet voldoende om aan te nemen dat deze redelijke gronden bestaan.
+- • Er bestaan redelijke gronden om aan te nemen dat de vreemdeling het slachtoffer zou kunnen zijn geweest van strafbare feiten op het gebied van mensenhandel. Het gebruik maken van de bedenktijd of het doen van een aangifte is voldoende om aan te nemen dat deze redelijke gronden bestaan.
 
-Een voorwaarde voor het vervallen van het recht op deze opvangvoorzieningen is dat de vreemdeling moet zijn geïnformeerd over zijn of haar verplichtingen en de gevolgen van niet-nakoming daarvan overeenkomstig artikel 11, lid 1, punt b Procedureverordening of artikel 5, lid 1 en artikel 21 Opvangrichtlijn. De IND neemt in ieder geval aan dat de vreemdeling hierover is geïnformeerd wanneer sprake is van een eerdere aanvraag in een andere lidstaat op of na 12 juni 2026, tenzij expliciet door de betreffende lidstaat is aangegeven dat deze de vreemdeling niet heeft geïnformeerd.
+Een voorwaarde voor het vervallen van het recht op deze opvangvoorzieningen is dat de vreemdeling moet zijn geïnformeerd over zijn of haar verplichtingen en de gevolgen van niet-nakoming daarvan overeenkomstig artikel 11, eerste lid, punt b Procedureverordening of artikel 5, eerste lid en artikel 21 Opvangrichtlijn. De IND neemt in ieder geval aan dat de vreemdeling hierover is geïnformeerd wanneer sprake is van een eerdere aanvraag in een andere lidstaat op of na 12 juni 2026, tenzij expliciet door de betreffende lidstaat is aangegeven dat deze de vreemdeling niet heeft geïnformeerd.
 
-In de bijzondere individuele omstandigheden zoals benoemd in artikel 18, vierde lid van de Asiel- en migratiebeheerverordening kan in de regel worden voorzien in de versoberde opvang van het COA als bedoeld in artikel 18, eerste lid. Desgewenst kan de vreemdeling gebruik maken van de klachtenregeling van het COA.
+In de bijzondere individuele omstandigheden zoals benoemd in artikel 18, vierde lid van de Asiel- en migratiebeheerverordening kan in de regel worden voorzien in de versoberde opvang van het COA als bedoeld in artikel 18, eerste lid. Desgewenst kan de vreemdeling gebruik maken van de klachtenregeling van het COA.
 
-Voor wat betreft het bekendmaken van de beschikking wordt verwezen naar paragraaf C1/6.1 Vc.
+Voor wat betreft het bekendmaken van de beschikking wordt verwezen naar [paragraaf C1/6.1](https://wetten.overheid.nl/BWBR0012288) Vc.
 
 ### 3.6. Rechtsmiddelen
 
@@ -669,11 +669,11 @@ Op grond van artikel 69, zevende lid, Vw in combinatie met artikel 82, tweede 
 
 ### 3.7. Overdrachtstermijn
 
-Artikel 46, tweede lid, Asiel- en migratiebeheerverordening geeft de IND de mogelijkheid om de overdrachtstermijn tot maximaal een jaar te verlengen bij gevangenzetting van de vreemdeling. Van gevangenzetting in voormelde zin is sprake bij een rechterlijke beslissing tot vrijheidsbeneming die in het kader van een strafrechtelijke procedure is gegeven ten aanzien van een persoon die een strafbaar feit heeft gepleegd of die ervan wordt verdacht een strafbaar feit te hebben gepleegd.
+Artikel 46, tweede lid, Asiel- en migratiebeheerverordening geeft de IND de mogelijkheid om de overdrachtstermijn tot maximaal een jaar te verlengen bij gevangenzetting van de vreemdeling. Van gevangenzetting in voormelde zin is sprake bij een rechterlijke beslissing tot vrijheidsbeneming die in het kader van een strafrechtelijke procedure is gegeven ten aanzien van een persoon die een strafbaar feit heeft gepleegd of die ervan wordt verdacht een strafbaar feit te hebben gepleegd. De IND verlengt wanneer deze situatie zich voordoet de uiterste overdrachtstermijn altijd met de maximale termijn.
 
 Verder geeft deze bepaling de mogelijkheid om de overdrachtstermijn tot maximaal drie jaar te verlengen als de vreemdeling, of een gezinslid die samen met de vreemdeling moet worden overgedragen:
 
-- • is ondergedoken in de zin van artikel 2, zeventiende lid, Asiel- en migratiebeheerverordening;
+- • is ondergedoken in de zin van artikel 2, zeventiende lid, Asiel- en migratiebeheerverordening;
 
    - ○ de vreemdeling heeft kennelijk het grondgebied van Nederland zonder toestemming van de bevoegde autoriteiten verlaten
 
@@ -687,7 +687,7 @@ Verder geeft deze bepaling de mogelijkheid om de overdrachtstermijn tot maximaal
 
 - • niet aan de medische vereisten voor de overdracht voldoet.
 
-De vreemdeling moet in kennis worden gesteld van zijn verplichting om mee te werken aan de overdracht. Ook moet hij geïnformeerd worden over de gevolgen van het niet meewerken hieraan. Als de vreemdeling op de hoogte was van zijn verplichtingen, en vervolgens (tijdelijk) niet beschikbaar blijft voor de autoriteiten, dan neemt de IND in ieder geval aan dat de vreemdeling zich aan de uitvoering van de overdracht heeft onttrokken. De IND stelt de lidstaat die verantwoordelijk is voor de behandeling van zijn verzoek om internationale bescherming tijdig op de hoogte van de verlenging van de uiterste overdrachtsdatum. De IND verlengt de uiterste overdrachtsdatum niet als er sprake is geweest van verschoonbare feiten en omstandigheden of als de vreemdeling niet is ingelicht over de verplichtingen die dienaangaande op hem rusten.
+De vreemdeling moet in kennis worden gesteld van zijn verplichting om mee te werken aan de overdracht. Ook moet hij geïnformeerd worden over de gevolgen van het niet meewerken hieraan. Als de vreemdeling op de hoogte was van zijn verplichtingen, en vervolgens (tijdelijk) niet beschikbaar blijft voor de autoriteiten, dan neemt de IND in ieder geval aan dat de vreemdeling zich aan de uitvoering van de overdracht heeft onttrokken. De IND stelt de lidstaat die verantwoordelijk is voor de behandeling van zijn verzoek om internationale bescherming tijdig op de hoogte van de verlenging van de uiterste overdrachtsdatum. De IND verlengt de uiterste overdrachtstermijn in deze situaties altijd met de maximale termijn. De IND verlengt de uiterste overdrachtsdatum niet als er sprake is geweest van verschoonbare feiten en omstandigheden of als de vreemdeling niet is ingelicht over de verplichtingen die dienaangaande op hem rusten.
 
 ### 4. De procedure bij een aanvraag vanuit vreemdelingenbewaring
 
@@ -2053,23 +2053,23 @@ Een aanvraag kan niet-ontvankelijk worden verklaard op grond van artikel 30a Vw
 
 ### 2.1. Eerste land van asiel (artikel 38, eerste lid aanhef en onder a, jo 58 Procedureverordening)
 
-In artikel 58 Procedureverordening staat het begrip ‘eerste land van asiel’ uitgewerkt. Een land dat geen onderdeel is van de Europese Unie, Europese Economische Ruimte of Zwitserland wordt beschouwd als een eerste land van asiel voor de vreemdeling, indien de vreemdeling daar (doeltreffende) bescherming heeft genoten en nog steeds op die bescherming een beroep kan doen.
+In artikel 58 Procedureverordening staat het begrip ‘eerste land van asiel’ uitgewerkt. Een land dat geen onderdeel is van de Europese Unie, de EER of Zwitserland wordt beschouwd als een eerste land van asiel voor de vreemdeling, indien de vreemdeling daar (doeltreffende) bescherming heeft genoten en nog steeds op die bescherming een beroep kan doen.
 
-Bij de vraag of voor de individuele vreemdeling een derde land als eerste land van asiel moet worden beschouwd, zijn ook de verklaringen van de vreemdeling van belang. Aan de hand van dat relaas en informatie over de situatie in het ‘eerste land van asiel’ wordt beoordeeld of aan de voorwaarden van artikel 58, eerste lid, Procedureverordening is voldaan. Als de vreemdeling aannemelijk maakt dat er sprake is van elementen die rechtvaardigen dat het derde land in zijn geval niet als eerste land van asiel kan worden beschouwd in de zin van artikel 58 Procedureverordening, zal de IND de vreemdeling niet tegenwerpen dat hem in het betreffende derde land reeds bescherming is verleend. In dat geval beoordeelt de IND overeenkomstig hoofdstuk C3 Vc of de vreemdeling in aanmerking komt voor internationale bescherming. De elementen die de vreemdeling in het kader van een individuele beoordeling kan verstrekken, dienen in verband te staan met de in het eerste lid van artikel 58 Procedureverordening genoemde voorwaarden.
+Bij de vraag of voor de individuele vreemdeling een derde land als eerste land van asiel moet worden beschouwd, zijn ook de verklaringen van de vreemdeling van belang. Aan de hand van dat relaas en informatie over de situatie in het ‘eerste land van asiel’ wordt beoordeeld of aan de voorwaarden van artikel 58, eerste lid, Procedureverordening is voldaan. Als de vreemdeling aannemelijk maakt dat er sprake is van elementen die rechtvaardigen dat het derde land in zijn geval niet als eerste land van asiel kan worden beschouwd in de zin van artikel 58 Procedureverordening, zal de IND de vreemdeling niet tegenwerpen dat hem in het betreffende derde land reeds bescherming is verleend. In dat geval beoordeelt de IND overeenkomstig [hoofdstuk C3](https://wetten.overheid.nl/BWBR0012288) Vc of de vreemdeling in aanmerking komt voor internationale bescherming. De elementen die de vreemdeling in het kader van een individuele beoordeling kan verstrekken, dienen in verband te staan met de in het eerste lid van artikel 58 Procedureverordening genoemde voorwaarden.
 
 Het begrip ‘eerste land van asiel’ mag niet worden toegepast op verzoekers die als gezinslid van een onderdaan van een derde land of van een burger van de Unie een verzoek indienen en die in de lidstaat die het verzoek behandelt, aanspraak kunnen maken op de rechten die zijn vastgelegd in de Gezinsherenigingsrichtlijn (2003/86/EG) of Richtlijn 2004/38/EG.
 
 (Opnieuw) toelaten tot grondgebied
 
-Artikel 58, eerste lid, Procedureverordening beschrijft wanneer een derde land als eerste land van asiel kan worden beschouwd. De mogelijkheid van (weder)toelating wordt daarbij niet als voorwaarde genoemd.
+Artikel 58, eerste lid, Procedureverordening beschrijft wanneer een derde land als eerste land van asiel kan worden beschouwd. De mogelijkheid van (weder)toelating wordt daarbij niet als voorwaarde genoemd.
 
 Als echter op voorhand duidelijk is dat de vreemdeling niet tot dat land zal worden toegelaten, kan de aanvraag niet niet-ontvankelijk worden verklaard. Aangezien de vreemdeling eerder in het derde land bescherming heeft genoten, zal dat niet snel worden aangenomen. Het is aan de vreemdeling om aan te tonen dat niet opnieuw zal worden toegelaten. Van de vreemdeling wordt verwacht dat hij zich daadwerkelijk inspant om deze toegang te krijgen.
 
 Niet-begeleide minderjarige
 
-Een derde land kan voor een niet-begeleide minderjarige slechts als een eerste land van asiel worden beschouwd als aan de voorwaarden is voldaan van artikel 58, derde lid, Procedureverordening.
+Een derde land kan voor een niet-begeleide minderjarige slechts als een eerste land van asiel worden beschouwd als aan de voorwaarden is voldaan van artikel 58, derde lid, Procedureverordening.
 
-Bij de vaststelling of een derde land voor een niet-begeleide minderjarige beschouwd moet worden als veilig derde land van asiel, beoordeelt de IND of dit in strijd is met zijn of haar belang. Daarbij houdt de IND rekening met de in artikel 26 Verordening (EU) 2024/1346 genoemde factoren. Daarbij wordt rekening gehouden met de beschikbaarheid van duurzame passende zorg en opvang.
+Bij de vaststelling of een derde land voor een niet-begeleide minderjarige beschouwd moet worden als veilig derde land van asiel, beoordeelt de IND of dit in strijd is met zijn of haar belang. Daarbij houdt de IND rekening met de in artikel 26 Verordening (EU) 2024/1346 genoemde factoren. Daarbij wordt rekening gehouden met de beschikbaarheid van duurzame passende zorg en opvang.
 
 Voor zover in het eerste land van asiel gezins- of familieleden woonachtig zijn, zal het daadwerkelijk samenbrengen van de niet-begeleide minderjarige vreemdeling met zijn gezins- of familieleden alleen plaatsvinden indien dit in het belang van de minderjarige vreemdeling is. Uitgangspunt hierbij is dat als uitgangspunt geldt dat het in het belang van de minderjarige vreemdeling is om herenigd te worden met zijn gezins- of familieleden.
 

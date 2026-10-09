@@ -9,7 +9,7 @@ laatste_update: 2014-01-01
 status: geldig
 toestand: 2014-01-01
 bron: "https://wetten.overheid.nl/BWBR0022642"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Economische Zaken van 12 oktober 2007, nr. WJZ 7120116, houdende regels inzake het afgeven van verklaringen omtrent uitoefening van werkzaamheden ter uitvoering van richtlijn nr. 2005/36/EG (Aanwijzingsregeling vestiging in de EU 2007)

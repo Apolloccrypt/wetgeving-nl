@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0022635"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Beleidsregels van de Minister van Economische Zaken, van 5 oktober 2007, nr. WJZ 7105478, houdende vaststelling van de beleidsregels bestuurlijke boeten S&O-afdrachtvermindering

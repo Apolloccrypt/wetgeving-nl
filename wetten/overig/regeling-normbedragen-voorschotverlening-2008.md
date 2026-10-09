@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0022968"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Justitie tot uitvoering van het Besluit vergoedingen rechtsbijstand 2000 (Regeling normbedragen voorschotverlening 2008)

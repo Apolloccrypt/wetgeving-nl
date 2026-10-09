@@ -9,7 +9,7 @@ laatste_update: 2013-10-19
 status: geldig
 toestand: 2013-10-19
 bron: "https://wetten.overheid.nl/BWBR0022548"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Staatssecretaris van Justitie van 27 september 2007, houdende de instelling van het Adviescollege Verloftoetsing tbs (Regeling Adviescollege Verloftoetsing tbs)

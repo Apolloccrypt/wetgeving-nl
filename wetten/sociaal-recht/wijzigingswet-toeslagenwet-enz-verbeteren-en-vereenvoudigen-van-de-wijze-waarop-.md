@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0022444"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 21 juli 2007 tot wijziging van de Toeslagenwet en intrekking van de Invoeringswet stelselherziening sociale zekerheid in verband met het verbeteren en vereenvoudigen van de wijze waarop het sociaal minimum wordt gewaarborgd in de loondervingsuitkeringen

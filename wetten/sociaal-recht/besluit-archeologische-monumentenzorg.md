@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0022429"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 9 augustus 2007, houdende regels ter uitvoering van de Wet op de archeologische monumentenzorg en enkele technische wijzigingen van het Besluit indieningsvereisten aanvraag bouwvergunning (Besluit archeologische monumentenzorg)

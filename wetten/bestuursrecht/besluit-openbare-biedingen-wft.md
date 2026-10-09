@@ -9,7 +9,7 @@ laatste_update: 2017-07-12
 status: geldig
 toestand: 2017-07-12
 bron: "https://wetten.overheid.nl/BWBR0022511"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 12 september 2007, houdende implementatie van richtlijn nr. 2004/25/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende het openbaar overnamebod (PbEU L 142) en houdende modernisering van de regels met betrekking tot het openbaar overnamebod (Besluit openbare biedingen Wft)

@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0038193"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 22 juni 2016, nr. VO/BZO/869644, houdende voorschriften voor de beroepsgerichte keuzevakken in het voorbereidend middelbaar beroepsonderwijs (Regeling beroepsgerichte keuzevakken vmbo)

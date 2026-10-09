@@ -8,7 +8,7 @@ laatste_update: 2007-11-24
 status: geldig
 toestand: 2007-11-24
 bron: "https://wetten.overheid.nl/BWBR0022881"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Omzetbelasting, heffing van omzetbelasting bij invoer

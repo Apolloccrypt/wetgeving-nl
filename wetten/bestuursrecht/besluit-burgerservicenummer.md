@@ -9,7 +9,7 @@ laatste_update: 2025-12-06
 status: geldig
 toestand: 2025-12-06
 bron: "https://wetten.overheid.nl/BWBR0022829"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet algemene bepalingen burgerservicenummer (Besluit burgerservicenummer)

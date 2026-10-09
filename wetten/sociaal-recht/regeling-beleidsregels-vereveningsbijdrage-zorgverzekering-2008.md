@@ -8,7 +8,7 @@ laatste_update: 2011-09-21
 status: geldig
 toestand: 2011-09-21
 bron: "https://wetten.overheid.nl/BWBR0022608"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling beleidsregels vereveningsbijdrage zorgverzekering 2008

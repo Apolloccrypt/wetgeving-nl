@@ -9,7 +9,7 @@ laatste_update: 2007-11-06
 status: geldig
 toestand: 2007-11-06
 bron: "https://wetten.overheid.nl/BWBR0022492"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 23 augustus 2007, houdende wijziging van enkele besluiten in verband met de invoering van single information en single audit voor specifieke uitkeringen

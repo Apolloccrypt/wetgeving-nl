@@ -8,7 +8,7 @@ laatste_update: 2007-10-24
 status: geldig
 toestand: 2007-10-24
 bron: "https://wetten.overheid.nl/BWBR0022630"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Nationale ombudsman (1964) 1982– (Minister van Onderwijs, Cultuur en Wetenschap)

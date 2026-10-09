@@ -9,7 +9,7 @@ laatste_update: 2007-10-27
 status: geldig
 toestand: 2007-10-27
 bron: "https://wetten.overheid.nl/BWBR0022702"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Vaststelling selectielijst neerslag handelingen beleidsterrein Geldzuivering over de periode 1942–1986 Minister van Binnenlandse Zaken en Koninkrijksrelaties (Minister van Binnenlandse Zaken en Koninkrijksrelaties)

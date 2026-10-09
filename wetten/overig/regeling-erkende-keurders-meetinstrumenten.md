@@ -9,7 +9,7 @@ laatste_update: 2016-04-20
 status: geldig
 toestand: 2016-04-20
 bron: "https://wetten.overheid.nl/BWBR0022278"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Economische Zaken van 12 juli 2007, nr. WJZ 7081713, houdende regels inzake een erkenning als bedoeld in artikel 11, eerste lid, van de Metrologiewet (Regeling erkende keurders)

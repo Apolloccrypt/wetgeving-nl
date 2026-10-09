@@ -9,7 +9,7 @@ laatste_update: 2007-10-21
 status: geldig
 toestand: 2007-10-21
 bron: "https://wetten.overheid.nl/BWBR0022726"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende regels ter zake van de aan ondernemers, die groenten en fruit naar Japan en Taiwan exporteren, op te leggen heffing voor het jaar 2008 (Verordening PT heffing export groenten en fruit Japan en Taiwan 2008)

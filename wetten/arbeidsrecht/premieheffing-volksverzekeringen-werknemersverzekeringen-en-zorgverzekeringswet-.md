@@ -8,7 +8,7 @@ laatste_update: 2007-07-12
 status: geldig
 toestand: 2007-07-12
 bron: "https://wetten.overheid.nl/BWBR0022216"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Premieheffing, volksverzekeringen, werknemersverzekeringen en Zorgverzekeringswet; Internationale aspecten

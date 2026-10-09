@@ -9,7 +9,7 @@ laatste_update: 2007-11-25
 status: geldig
 toestand: 2007-11-25
 bron: "https://wetten.overheid.nl/BWBR0022884"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Tijdelijke Regeling van de Staatssecretaris van Justitie van 14 november 2007, nr. DDS 5514603, houdende de toekenning van een eenmalige tegemoetkoming voor gemeenten ten behoeve van kosten ter afwikkeling nalatenschap oude Vreemdelingenwet

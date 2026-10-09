@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2016-10-19
 laatste_update: 2016-10-19
-status: geldig
+status: vervallen
+vervallen_op: 2026-10-02
 toestand: 2016-10-19
 bron: "https://wetten.overheid.nl/BWBR0038618"
-opgehaald: 2026-08-24
+opgehaald: 2026-10-09
 ---
 
 # Besluit beleidsregel naamgeving biociden en gewasbeschermingsmiddelen

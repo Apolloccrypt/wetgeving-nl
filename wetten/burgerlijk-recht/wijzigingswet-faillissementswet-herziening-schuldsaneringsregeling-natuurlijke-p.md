@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0022010"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 24 mei 2007 tot wijziging van de Faillissementswet in verband met herziening van de schuldsaneringsregeling natuurlijke personen

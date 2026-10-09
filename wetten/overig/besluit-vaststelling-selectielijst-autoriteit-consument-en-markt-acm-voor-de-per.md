@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-29
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0041100"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Besluit vaststelling selectielijst Autoriteit Consument en Markt (ACM) voor de periode vanaf 1997

@@ -9,7 +9,7 @@ laatste_update: 2007-05-24
 status: geldig
 toestand: 2007-05-24
 bron: "https://wetten.overheid.nl/BWBR0021909"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 16 mei 2007, nr. MC-U-2770876, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake overschrijding financiële ruimte ziekenhuizen in 2007

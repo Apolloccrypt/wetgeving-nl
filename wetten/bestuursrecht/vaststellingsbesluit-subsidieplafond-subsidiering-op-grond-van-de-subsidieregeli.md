@@ -9,7 +9,7 @@ laatste_update: 2007-08-08
 status: geldig
 toestand: 2007-08-08
 bron: "https://wetten.overheid.nl/BWBR0022368"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 20 juli 2007, nr. DCO-382/07, tot vaststelling van een subsidieplafond voor de periode 1 oktober 2007 – 31 december 2008 voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (onderzoek)

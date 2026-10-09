@@ -8,7 +8,7 @@ laatste_update: 2007-07-01
 status: geldig
 toestand: 2007-07-01
 bron: "https://wetten.overheid.nl/BWBR0021911"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Beschikking rendementen gesubsidieerde woningbouw, mei 2007

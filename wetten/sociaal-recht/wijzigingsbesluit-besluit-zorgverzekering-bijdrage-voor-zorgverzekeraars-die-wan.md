@@ -9,7 +9,7 @@ laatste_update: 2014-05-14
 status: geldig
 toestand: 2014-05-14
 bron: "https://wetten.overheid.nl/BWBR0022514"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 4 september 2007, houdende wijziging van het Besluit zorgverzekering in verband met het opnemen van een bepaling op grond waarvan zorgverzekeraars die wanbetalers verzekerd houden een bijdrage in de daaruit voortvloeiende premiederving kan worden verstrekt

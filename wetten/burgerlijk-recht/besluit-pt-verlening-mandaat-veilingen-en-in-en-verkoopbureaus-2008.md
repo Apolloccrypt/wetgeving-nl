@@ -9,7 +9,7 @@ laatste_update: 2007-11-25
 status: geldig
 toestand: 2007-11-25
 bron: "https://wetten.overheid.nl/BWBR0022924"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de voorzitter van het Productschap Tuinbouw, d.d. 19 november 2007, houdende verlening van mandaat aan veilingen en in- en verkoopbureaus teneinde over te kunnen gaan tot het rechtsgeldig opleggen en innen van heffingen namens het Productschap Tuinbouw (Besluit PT verlening mandaat veilingen en in- en verkoopbureaus 2008)

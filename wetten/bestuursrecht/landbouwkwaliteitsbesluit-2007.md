@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0022535"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 19 september 2007, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsbesluit 2007)

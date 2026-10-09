@@ -8,7 +8,7 @@ laatste_update: 2012-02-18
 status: geldig
 toestand: 2012-02-18
 bron: "https://wetten.overheid.nl/BWBR0023118"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling EFRO doelstelling 3 programmaperiode 2007–2013

@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0023123"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van 20 december 2007, houdende bepalingen in verband met de invoering van markttoezicht op het aanbod van dienstverlening door registerloodsen en een herziening van de loodsgeldtariefstructuur (Besluit markttoezicht registerloodsen)

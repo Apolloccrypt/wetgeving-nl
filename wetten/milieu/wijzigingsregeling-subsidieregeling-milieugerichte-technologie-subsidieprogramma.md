@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0022987"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 3 december 2007, nr. DGM/SB/2007118038, houdende wijziging van de Subsidieregeling milieugerichte technologie (wijziging Subsidieprogramma milieu & technologie)

@@ -1,0 +1,31 @@
+---
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in het archief van het Ministerie van Justitie: Centraal Archief van de Bijzondere Rechtspleging (CABR), 1945-1952 (1983) (2.09.09)"
+citeertitel: "Besluit beperkingen openbaarheid archiefbescheiden Ministerie van Justitie: Centraal Archief van de Bijzondere Rechtspleging (CABR), 1945–1952 (1983) (2.09.09)"
+identifier: "BWBR0053156"
+categorie: "Onderwijs"
+soort: "ministeriele-regeling"
+publicatiedatum: 2026-10-02
+laatste_update: 2026-10-02
+status: geldig
+toestand: 2026-10-02
+bron: "https://wetten.overheid.nl/BWBR0053156"
+opgehaald: 2026-10-09
+---
+
+# Besluit van de Minister van Onderwijs, Cultuur en Wetenschap tot het stellen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in het archief van het Ministerie van Justitie: Centraal Archief van de Bijzondere Rechtspleging (CABR), 1945-1952 (1983) (2.09.09)
+
+##### Artikel 1
+
+De beperkingen die zijn gesteld aan de openbaarheid van alle archiefbescheiden geborgen in het Centraal Archief Bijzondere Rechtspleging (nummer archiefinventaris 2.09.09) worden met het oog op de eerbiediging van de persoonlijke levenssfeer verlengd tot 1 januari 2028.
+
+##### Artikel 2
+
+Raadpleging of gebruik van de archiefbescheiden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053156&artikel=1&z=2026-10-02&g=2026-10-02), is uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris. Deze toestemming wordt verleend volgens de bij het Nationaal Archief geldende procedure voor het gebruik van beperkt openbare archieven. Alleen schriftelijke verzoeken tot raadpleging worden in behandeling genomen. De algemene rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
+
+##### Artikel 3
+
+Het vervaardigen van reproducties van documenten uit de archiefbescheiden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0053156&artikel=1&z=2026-10-02&g=2026-10-02), is uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
+
+##### Artikel 4
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.

@@ -8,7 +8,7 @@ laatste_update: 2014-07-01
 status: geldig
 toestand: 2014-07-01
 bron: "https://wetten.overheid.nl/BWBR0023217"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Regeling militaire steunverlening in het openbaar belang

@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0022991"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 15 november 2007, houdende wijziging van de Zorgverzekeringswet en de Wet op de zorgtoeslag houdende vervanging van de no-claimteruggave door een verplicht eigen risico

@@ -9,7 +9,7 @@ laatste_update: 2007-11-01
 status: geldig
 toestand: 2007-11-01
 bron: "https://wetten.overheid.nl/BWBR0022754"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 15 oktober 2007, nr. MC-U-2802732, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake eerstelijns psychologische zorg niet verleend door huisartsen

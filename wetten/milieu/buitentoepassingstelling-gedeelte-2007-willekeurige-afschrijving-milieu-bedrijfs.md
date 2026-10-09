@@ -9,7 +9,7 @@ laatste_update: 2007-11-29
 status: geldig
 toestand: 2007-11-29
 bron: "https://wetten.overheid.nl/BWBR0022909"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Buitentoepassingstelling voor een gedeelte van 2007 van de willekeurige afschrijving milieu-bedrijfsmiddelen, de energie-investeringsaftrek en de milieu-investeringsaftrek

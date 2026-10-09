@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0002320"
-opgehaald: 2026-10-08
+opgehaald: 2026-10-09
 ---
 
 # Wet van 2 juli 1959, houdende regelen, welke aan een aantal rijksbelastingen gemeen zijn

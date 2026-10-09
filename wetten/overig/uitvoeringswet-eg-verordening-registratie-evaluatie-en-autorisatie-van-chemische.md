@@ -9,7 +9,7 @@ laatste_update: 2008-06-13
 status: geldig
 toestand: 2008-06-13
 bron: "https://wetten.overheid.nl/BWBR0021929"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Wet van 16 mei 2007 tot uitbreiding en wijziging van de Wet milieubeheer in verband met de uitvoering van EG-verordening registratie, evaluatie en autorisatie van chemische stoffen (REACH) en de overheveling van de bepalingen van de Wet milieugevaarlijke stoffen naar de Wet milieubeheer, alsmede daarmee samenhangende wijzigingen van andere wetten (Uitvoeringswet EG-verordening registratie, evaluatie en autorisatie van chemische stoffen (REACH))

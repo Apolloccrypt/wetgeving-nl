@@ -9,7 +9,7 @@ laatste_update: 2007-09-01
 status: geldig
 toestand: 2007-09-01
 bron: "https://wetten.overheid.nl/BWBR0023201"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 juli 2007, nr. OHW-U-2780032, houdende de toekenning van vacatiegeld aan de voorzitter en leden van de Raad van advies programma erfgoed van de oorlog

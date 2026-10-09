@@ -9,7 +9,7 @@ laatste_update: 2008-01-01
 status: geldig
 toestand: 2008-01-01
 bron: "https://wetten.overheid.nl/BWBR0023299"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Wet van 12 december 2007, houdende wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen, de Wet werk en bijstand, de Werkloosheidswet en enige andere wetten in verband met eenmalige gegevensuitvraag aan burgers (Wet eenmalige gegevensuitvraag werk en inkomen)

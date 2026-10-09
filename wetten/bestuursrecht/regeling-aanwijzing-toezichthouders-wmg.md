@@ -9,7 +9,7 @@ laatste_update: 2018-06-27
 status: geldig
 toestand: 2018-06-27
 bron: "https://wetten.overheid.nl/BWBR0021976"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei 2007, nr. MC/U-2770011, houdende aanwijzing van toezichthouders op de naleving van de Wet marktordening gezondheidszorg (Regeling aanwijzing toezichthouders WMG)

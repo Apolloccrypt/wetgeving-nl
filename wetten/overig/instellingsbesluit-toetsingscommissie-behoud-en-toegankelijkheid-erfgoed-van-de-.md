@@ -9,7 +9,7 @@ laatste_update: 2007-12-20
 status: geldig
 toestand: 2007-12-20
 bron: "https://wetten.overheid.nl/BWBR0023033"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-09
 ---
 
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 december 2007, nr. OHW-U-2816601, houdende de instelling van de Toetsingscommissie behoud en toegankelijkheid erfgoed van de oorlog

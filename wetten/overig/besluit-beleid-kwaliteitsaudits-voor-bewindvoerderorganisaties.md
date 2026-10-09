@@ -8,7 +8,7 @@ laatste_update: 2007-10-19
 status: geldig
 toestand: 2007-10-19
 bron: "https://wetten.overheid.nl/BWBR0022673"
-opgehaald: 2026-08-11
+opgehaald: 2026-10-09
 ---
 
 # Besluit beleid kwaliteitsaudits voor bewindvoerderorganisaties
