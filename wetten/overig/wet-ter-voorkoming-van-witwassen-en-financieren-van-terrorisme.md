@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0024282"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 15 juli 2008, houdende samenvoeging van de Wet identificatie bij dienstverlening en de Wet melding ongebruikelijke transacties (Wet ter voorkoming van witwassen en financieren van terrorisme)

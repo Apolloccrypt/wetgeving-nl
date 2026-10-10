@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0024235"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 5 juli 2008 houdende regels ter uitvoering van de Algemene douanewet (Algemeen douanebesluit)

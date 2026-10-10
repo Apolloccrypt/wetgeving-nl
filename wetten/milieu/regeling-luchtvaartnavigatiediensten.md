@@ -9,7 +9,7 @@ laatste_update: 2008-05-28
 status: geldig
 toestand: 2008-05-28
 bron: "https://wetten.overheid.nl/BWBR0023879"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende nadere regels inzake de certificering van luchtvaartnavigatiediensten en het verlenen van erkenningen tot het verrichten van inspecties en onderzoeken hieromtrent in het kader van de uitvoering van vier EG-verordeningen betreffende een gemeenschappelijk Europees luchtruim (Regeling luchtvaartnavigatiediensten)

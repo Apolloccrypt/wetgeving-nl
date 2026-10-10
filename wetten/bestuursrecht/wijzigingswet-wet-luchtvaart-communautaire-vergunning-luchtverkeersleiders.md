@@ -9,7 +9,7 @@ laatste_update: 2010-07-07
 status: geldig
 toestand: 2010-07-07
 bron: "https://wetten.overheid.nl/BWBR0023790"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 3 april 2008 tot wijziging van de Wet luchtvaart ter implementatie van richtlijn nr. 2006/23/EG van het Europees Parlement en de Raad van de Europese Unie van 5 april 2006 inzake een communautaire vergunning van luchtverkeersleiders (PbEU L 114)

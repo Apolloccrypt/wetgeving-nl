@@ -9,7 +9,7 @@ laatste_update: 2008-01-23
 status: geldig
 toestand: 2008-01-23
 bron: "https://wetten.overheid.nl/BWBR0023357"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 15 januari 2008, nr. OHW-U-2824691, houdende vaststelling van de rekenfactor ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers voor het jaar 2007

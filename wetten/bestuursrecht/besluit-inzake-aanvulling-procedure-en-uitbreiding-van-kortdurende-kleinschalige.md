@@ -9,7 +9,7 @@ laatste_update: 2008-05-16
 status: geldig
 toestand: 2008-05-16
 bron: "https://wetten.overheid.nl/BWBR0023862"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 mei 2008, MC-U-2847325 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake aanvulling procedure en uitbreiding van kortdurende kleinschalige experimenten met AWBZ-zorg

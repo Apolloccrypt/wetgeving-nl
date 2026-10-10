@@ -9,7 +9,7 @@ laatste_update: 2009-04-25
 status: geldig
 toestand: 2009-04-25
 bron: "https://wetten.overheid.nl/BWBR0023744"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 7 april 2008, nr. AV/A&Z/2008/8410, tot instelling van de Taskforce DeeltijdPlus (Instellingsbesluit Taskforce DeeltijdPlus)

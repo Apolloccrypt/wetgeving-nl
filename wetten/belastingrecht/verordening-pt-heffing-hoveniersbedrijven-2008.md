@@ -9,7 +9,7 @@ laatste_update: 2008-03-02
 status: geldig
 toestand: 2008-03-02
 bron: "https://wetten.overheid.nl/BWBR0023606"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw, d.d. 13 november 2007 houdende de vaststelling van een heffing ten behoeve van hoveniersbedrijven (Verordening PT heffing hoveniersbedrijven 2008)

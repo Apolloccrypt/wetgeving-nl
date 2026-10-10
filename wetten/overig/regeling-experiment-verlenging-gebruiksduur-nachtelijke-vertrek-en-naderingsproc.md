@@ -8,7 +8,7 @@ laatste_update: 2008-11-19
 status: geldig
 toestand: 2008-11-19
 bron: "https://wetten.overheid.nl/BWBR0023610"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling experiment verlenging gebruiksduur nachtelijke vertrek- en naderingsprocedures

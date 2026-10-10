@@ -9,7 +9,7 @@ laatste_update: 2008-02-10
 status: geldig
 toestand: 2008-02-10
 bron: "https://wetten.overheid.nl/BWBR0023451"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Beleidsregel van de raden voor rechtsbijstand houdende draagkrachtbeoordeling rechtspersonen in het kader van gesubsidieerde milieurechtsbijstand (Beleidsregel draagkrachtbeoordeling rechtspersonen milieurechtsbijstand)

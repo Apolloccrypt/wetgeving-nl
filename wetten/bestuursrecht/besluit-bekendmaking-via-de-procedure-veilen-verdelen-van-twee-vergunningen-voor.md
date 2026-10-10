@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024729"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 5 november 2008, nr. WJZ / 8170868, houdende bekendmaking van het via de procedure van veilen verdelen van twee vergunningen voor frequentieruimte ten behoeve van digitale omroep

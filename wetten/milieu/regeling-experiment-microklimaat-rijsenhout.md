@@ -8,7 +8,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0023612"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling experiment microklimaat Rijsenhout

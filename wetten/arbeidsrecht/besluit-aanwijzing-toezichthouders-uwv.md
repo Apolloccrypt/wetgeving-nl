@@ -8,7 +8,7 @@ laatste_update: 2023-10-03
 status: geldig
 toestand: 2023-10-03
 bron: "https://wetten.overheid.nl/BWBR0023509"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit aanwijzing toezichthouders UWV

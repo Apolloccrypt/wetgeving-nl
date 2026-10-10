@@ -9,7 +9,7 @@ laatste_update: 2015-07-01
 status: geldig
 toestand: 2015-07-01
 bron: "https://wetten.overheid.nl/BWBR0023494"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Economische Zaken van 7 februari 2008, nr. WJZ 7119929, houdende regels voor het aanvragen om een vergunning voor het verrichten van ruimtevaartactiviteiten en registratie van ruimtevoorwerpen

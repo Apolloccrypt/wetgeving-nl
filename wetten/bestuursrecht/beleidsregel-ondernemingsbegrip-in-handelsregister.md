@@ -9,7 +9,7 @@ laatste_update: 2011-05-17
 status: geldig
 toestand: 2011-05-17
 bron: "https://wetten.overheid.nl/BWBR0024084"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Beleidsregel van de Staatssecretaris van Economische zaken van 23 juni 2008, nr. WJZ 8074645, inzake het ondernemingsbegrip in het handelsregister

@@ -8,7 +8,7 @@ laatste_update: 2008-03-13
 status: geldig
 toestand: 2008-03-13
 bron: "https://wetten.overheid.nl/BWBR0023609"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling experiment parallel starten

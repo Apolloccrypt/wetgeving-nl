@@ -9,7 +9,7 @@ laatste_update: 2008-01-26
 status: geldig
 toestand: 2008-01-26
 bron: "https://wetten.overheid.nl/BWBR0023367"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wijziging van de voortgezette toepassing van de Tijdelijke regeling eenmalige uitkering bestrijding regionale wateroverlast, in verband met invoering van het principe van ‘single information en single audit’ (Sisa)

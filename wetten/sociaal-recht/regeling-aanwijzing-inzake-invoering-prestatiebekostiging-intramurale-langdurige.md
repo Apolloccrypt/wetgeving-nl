@@ -9,7 +9,7 @@ laatste_update: 2008-11-26
 status: geldig
 toestand: 2008-11-26
 bron: "https://wetten.overheid.nl/BWBR0024676"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 oktober 2008, nr. DLZ/SFI-2890287, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging in de intramurale langdurige zorg op grond van zorgzwaartepakketten

@@ -9,7 +9,7 @@ laatste_update: 2022-09-21
 status: geldig
 toestand: 2022-09-21
 bron: "https://wetten.overheid.nl/BWBR0024547"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Minister voor Jeugd en Gezin van 19 september 2008, nr. FEZ-U-2874154, houdende vaststelling van de Beleidsregels handhaving subsidiebepalingen VWS en JenG

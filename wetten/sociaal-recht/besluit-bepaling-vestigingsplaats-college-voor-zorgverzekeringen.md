@@ -9,7 +9,7 @@ laatste_update: 2014-04-01
 status: geldig
 toestand: 2014-04-01
 bron: "https://wetten.overheid.nl/BWBR0023570"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 februari 2008, nr. Z/VU-2832371, houdende bepaling vestigingsplaats College voor zorgverzekeringen

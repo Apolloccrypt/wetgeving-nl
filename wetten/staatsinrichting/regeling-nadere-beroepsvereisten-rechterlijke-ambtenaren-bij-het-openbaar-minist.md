@@ -9,7 +9,7 @@ laatste_update: 2011-09-24
 status: geldig
 toestand: 2011-09-24
 bron: "https://wetten.overheid.nl/BWBR0023740"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Justitie van 15 april 2008, nr. 5526399/08, houdende nadere regels betreffende de eisen met betrekking tot de kennis van en het inzicht in het strafrecht waaraan moet worden voldaan voor benoeming als rechterlijk ambtenaar bij het openbaar ministerie in geval van toepasselijkheid van artikel 38c, vierde lid, van het Besluit rechtspositie rechterlijke ambtenaren (Regeling nadere beroepsvereisten rechterlijke ambtenaren bij het openbaar ministerie)

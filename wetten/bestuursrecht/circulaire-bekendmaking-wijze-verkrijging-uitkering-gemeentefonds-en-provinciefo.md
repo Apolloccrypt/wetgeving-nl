@@ -9,7 +9,7 @@ laatste_update: 2008-07-17
 status: geldig
 toestand: 2008-07-17
 bron: "https://wetten.overheid.nl/BWBR0024186"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Circulaire van 8 juli 2008, nr. DGM/BREM 2008066914, ter bekendmaking van de wijze van verkrijging van een uitkering uit het Gemeentefonds en het Provinciefonds in verband met de Stimulering van Lokale Klimaatinitiatieven (SLOK)

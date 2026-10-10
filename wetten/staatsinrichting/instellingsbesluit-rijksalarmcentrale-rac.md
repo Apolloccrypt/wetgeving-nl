@@ -9,7 +9,7 @@ laatste_update: 2007-03-28
 status: geldig
 toestand: 2007-03-28
 bron: "https://wetten.overheid.nl/BWBR0023694"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Instellingsbesluit van de Minister van Justitie en de Minister van BZK aangaande de Rijksalarmcentrale (Rac)

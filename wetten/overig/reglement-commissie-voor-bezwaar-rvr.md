@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-29
 toestand: 2019-04-26
 bron: "https://wetten.overheid.nl/BWBR0042156"
-opgehaald: 2026-10-09
+opgehaald: 2026-10-10
 ---
 
 # Reglement Commissie voor Bezwaar RvR

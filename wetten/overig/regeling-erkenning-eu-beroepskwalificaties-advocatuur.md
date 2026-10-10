@@ -9,7 +9,7 @@ laatste_update: 2016-08-26
 status: geldig
 toestand: 2016-08-26
 bron: "https://wetten.overheid.nl/BWBR0024507"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Justitie van 2 september 2008, nr. 5561403/08, houdende nadere regels ten aanzien van de erkenning van beroepskwalificaties voor advocaten (Regeling erkenning EG-beroepskwalificaties advocatuur)

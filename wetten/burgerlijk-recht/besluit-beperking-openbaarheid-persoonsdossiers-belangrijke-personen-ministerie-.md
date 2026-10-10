@@ -9,7 +9,7 @@ laatste_update: 2008-04-10
 status: geldig
 toestand: 2008-04-10
 bron: "https://wetten.overheid.nl/BWBR0023736"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Financiën van 14 februari 2008, nr. BenC 2007-1191 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen persoonsdossiers belangrijke personen van het Ministerie van Financiën over de periode 1856–1985

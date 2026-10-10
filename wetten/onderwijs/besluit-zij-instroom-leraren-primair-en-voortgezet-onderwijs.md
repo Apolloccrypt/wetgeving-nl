@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0024390"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 5 juli 2008 houdende regels over de zij-instroom van leraren in het primair en voortgezet onderwijs (Besluit zij-instroom leraren primair en voortgezet onderwijs)

@@ -8,7 +8,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0053176"
-opgehaald: 2026-10-09
+opgehaald: 2026-10-10
 ---
 
 # Richtlijn voor strafvordering jeugdigen rijden onder invloed van alcohol of drugs

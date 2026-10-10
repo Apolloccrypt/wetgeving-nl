@@ -8,7 +8,7 @@ laatste_update: 2014-07-29
 status: geldig
 toestand: 2014-07-29
 bron: "https://wetten.overheid.nl/BWBR0035393"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit tot verlening van mandaat en machtiging met betrekking tot het Binnenvaartpolitiereglement Rijkswaterstaat Zee en Delta 2013

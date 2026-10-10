@@ -9,7 +9,7 @@ laatste_update: 2008-11-01
 status: geldig
 toestand: 2008-11-01
 bron: "https://wetten.overheid.nl/BWBR0024550"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 22 september 2008, nr. CZ/FBI-2874233, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake taakstelling ziekenhuizen 2009

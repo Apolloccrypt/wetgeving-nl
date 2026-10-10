@@ -8,7 +8,7 @@ laatste_update: 2008-06-25
 status: geldig
 toestand: 2008-06-25
 bron: "https://wetten.overheid.nl/BWBR0024033"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Instellingsbesluit Commissie ruimtelijke ontwikkeling luchthavens

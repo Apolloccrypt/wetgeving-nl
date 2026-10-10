@@ -9,7 +9,7 @@ laatste_update: 2008-08-01
 status: geldig
 toestand: 2008-08-01
 bron: "https://wetten.overheid.nl/BWBR0023688"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 12 maart 2008 tot wijziging van onder meer het Besluit bekostiging WEC in verband met het wegnemen van enkele knelpunten bij de leerlinggebonden financiering

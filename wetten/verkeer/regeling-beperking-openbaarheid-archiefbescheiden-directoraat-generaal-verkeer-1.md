@@ -8,7 +8,7 @@ laatste_update: 2008-01-18
 status: geldig
 toestand: 2008-01-18
 bron: "https://wetten.overheid.nl/BWBR0023327"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling beperking openbaarheid archiefbescheiden Directoraat-Generaal Verkeer (1914) 1945–1979 (1994)

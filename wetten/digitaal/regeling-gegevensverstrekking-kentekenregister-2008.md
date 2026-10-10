@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0024045"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende nadere regels ten aanzien van de gegevensverstrekking uit het kentekenregister (Regeling gegevensverstrekking kentekenregister 2008)

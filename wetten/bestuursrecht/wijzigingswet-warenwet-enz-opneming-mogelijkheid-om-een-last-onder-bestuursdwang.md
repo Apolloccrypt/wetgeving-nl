@@ -9,7 +9,7 @@ laatste_update: 2018-11-17
 status: geldig
 toestand: 2018-11-17
 bron: "https://wetten.overheid.nl/BWBR0024669"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 2 oktober 2008 tot wijziging van de Warenwet in verband met de opneming van de mogelijkheid om een last onder bestuursdwang op te leggen en enkele andere wijzigingen

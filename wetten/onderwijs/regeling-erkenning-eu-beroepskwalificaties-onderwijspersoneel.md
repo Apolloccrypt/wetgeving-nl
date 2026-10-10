@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0023393"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 januari 2008, nr. WJZ/2008/2010 (1602), houdende regels in verband met de erkenning van EG-beroepskwalificaties van onderwijspersoneel (Regeling erkenning EG-beroepskwalificaties onderwijspersoneel)

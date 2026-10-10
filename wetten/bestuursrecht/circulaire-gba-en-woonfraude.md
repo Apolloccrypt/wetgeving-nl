@@ -8,7 +8,7 @@ laatste_update: 2008-05-14
 status: geldig
 toestand: 2008-05-14
 bron: "https://wetten.overheid.nl/BWBR0023984"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Circulaire GBA en woonfraude

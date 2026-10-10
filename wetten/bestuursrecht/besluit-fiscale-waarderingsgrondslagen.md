@@ -9,7 +9,7 @@ laatste_update: 2015-11-01
 status: geldig
 toestand: 2015-11-01
 bron: "https://wetten.overheid.nl/BWBR0024445"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 28 augustus 2008, houdende regels inzake toepassing van fiscale waarderingsgrondslagen in de jaarrekening van kleine rechtspersonen (Besluit fiscale waarderingsgrondslagen)

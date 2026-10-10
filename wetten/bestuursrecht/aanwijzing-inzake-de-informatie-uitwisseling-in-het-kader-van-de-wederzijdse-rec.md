@@ -8,7 +8,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024759"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Aanwijzing inzake de informatie-uitwisseling in het kader van de wederzijdse rechtshulp in strafzaken (552i Sv.)

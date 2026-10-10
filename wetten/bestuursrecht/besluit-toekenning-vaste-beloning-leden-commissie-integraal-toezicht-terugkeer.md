@@ -9,7 +9,7 @@ laatste_update: 2008-07-25
 status: geldig
 toestand: 2008-07-25
 bron: "https://wetten.overheid.nl/BWBR0024248"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 5 juli 2008, nr. 08.002018, houdende toekenning van een vaste beloning aan de leden van de Commissie Integraal Toezicht Terugkeer

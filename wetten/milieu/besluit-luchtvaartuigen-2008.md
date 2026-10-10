@@ -9,7 +9,7 @@ laatste_update: 2024-02-20
 status: geldig
 toestand: 2024-02-20
 bron: "https://wetten.overheid.nl/BWBR0023922"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 14 mei 2008, houdende regels over de inschrijving en luchtwaardigheid van luchtvaartuigen en de erkenning van bedrijven voor werkzaamheden die de luchtwaardigheid betreffen (Besluit luchtvaartuigen 2008)

@@ -9,7 +9,7 @@ laatste_update: 2008-12-03
 status: geldig
 toestand: 2008-12-03
 bron: "https://wetten.overheid.nl/BWBR0024762"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 25 november 2008, nr. DDI/ST/reg. 067/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Consulaat, later het Consulaat-Generaal en het Gezantschap, later de Ambassade in Syrië te Damascus (1955–1974) en het Consulaat in Syrië te Aleppo (1904–1976) van het Ministerie van Buitenlandse Zaken

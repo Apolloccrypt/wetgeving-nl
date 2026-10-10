@@ -9,7 +9,7 @@ laatste_update: 2008-09-28
 status: geldig
 toestand: 2008-09-28
 bron: "https://wetten.overheid.nl/BWBR0024528"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 17 september 2008, nr. DGR2008092452, na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van de Subsidieregeling Wet op het Waddenfonds (Mandaatbesluit LNV Dienst Landelijk Gebied Subsidieregeling Wet op het Waddenfonds)

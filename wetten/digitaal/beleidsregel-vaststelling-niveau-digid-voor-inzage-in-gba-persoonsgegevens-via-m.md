@@ -9,7 +9,7 @@ laatste_update: 2008-02-15
 status: geldig
 toestand: 2008-02-15
 bron: "https://wetten.overheid.nl/BWBR0023471"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Beleidsregel tot vaststelling niveau DigiD voor inzage in GBA persoonsgegevens via MijnOverheid.nl

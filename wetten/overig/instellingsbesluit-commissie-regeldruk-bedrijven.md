@@ -9,7 +9,7 @@ laatste_update: 2008-05-01
 status: geldig
 toestand: 2008-05-01
 bron: "https://wetten.overheid.nl/BWBR0023799"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en de Staatssecretaris van Financiën van 20 april 2008, nr. WJZ 8037489, houdende instelling van de Commissie regeldruk bedrijven (Instellingsbesluit Commissie regeldruk bedrijven)

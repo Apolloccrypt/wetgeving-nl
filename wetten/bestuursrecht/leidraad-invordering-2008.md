@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0024096"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Bijlage bij besluit van 12 juni 2008, nr. CPP2008/1137M

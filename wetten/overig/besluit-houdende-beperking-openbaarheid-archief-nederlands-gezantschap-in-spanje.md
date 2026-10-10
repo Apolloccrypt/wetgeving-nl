@@ -9,7 +9,7 @@ laatste_update: 2008-04-27
 status: geldig
 toestand: 2008-04-27
 bron: "https://wetten.overheid.nl/BWBR0023792"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse zaken van 17 april 2008, nr. DDI/ST/reg. 024/2008, houdende beperking van de openbaarheid van het archief van het Nederlands Gezantschap in Spanje (Madrid), (1888) 1939–1954

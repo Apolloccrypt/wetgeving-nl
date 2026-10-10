@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0024285"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 14 juli 2008, nr. WJZ 8086374, houdende regels ten aanzien van het afnemen van examens ten behoeve van frequentiegebruik (Examenregeling frequentiegebruik 2008)

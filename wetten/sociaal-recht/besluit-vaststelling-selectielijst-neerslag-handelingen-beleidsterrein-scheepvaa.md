@@ -8,7 +8,7 @@ laatste_update: 2008-07-09
 status: geldig
 toestand: 2008-07-09
 bron: "https://wetten.overheid.nl/BWBR0024118"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Scheepvaart en maritieme zaken over de periode vanaf 1945 (Minister van Sociale Zaken en Werkgelegenheid)

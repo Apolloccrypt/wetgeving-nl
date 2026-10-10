@@ -9,7 +9,7 @@ laatste_update: 2008-12-03
 status: geldig
 toestand: 2008-12-03
 bron: "https://wetten.overheid.nl/BWBR0024772"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 18 november 2008, nr. DDI/ST/reg. 057/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Consulaat, later Consulaat-Generaal in India te Bombay (1931–1974) en de Ambassade in India te New Delhi (1951–1974) van het Ministerie van Buitenlandse Zaken

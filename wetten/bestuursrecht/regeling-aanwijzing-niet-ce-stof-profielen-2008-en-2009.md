@@ -8,7 +8,7 @@ laatste_update: 2006-01-01
 status: geldig
 toestand: 2006-01-01
 bron: "https://wetten.overheid.nl/BWBR0024728"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling aanwijzing niet c.e.-stof profielen 2008 en 2009

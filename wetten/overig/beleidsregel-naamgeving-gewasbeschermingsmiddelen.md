@@ -8,7 +8,7 @@ laatste_update: 2026-10-03
 status: geldig
 toestand: 2026-10-03
 bron: "https://wetten.overheid.nl/BWBR0053163"
-opgehaald: 2026-10-09
+opgehaald: 2026-10-10
 ---
 
 # Beleidsregel naamgeving gewasbeschermingsmiddelen

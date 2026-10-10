@@ -9,7 +9,7 @@ laatste_update: 2008-01-26
 status: geldig
 toestand: 2008-01-26
 bron: "https://wetten.overheid.nl/BWBR0023370"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 16 januari 2008, nr. DCO/OO-002/08, houdende mandatering van bevoegdheden tot uitvoering van enkele programma’s op het gebied van het Internationaal Onderwijs

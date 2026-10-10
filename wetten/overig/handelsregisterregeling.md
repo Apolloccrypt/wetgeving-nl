@@ -9,7 +9,7 @@ laatste_update: 2014-01-06
 status: geldig
 toestand: 2014-01-06
 bron: "https://wetten.overheid.nl/BWBR0024097"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 30 juni 2008, nr. WJZ 8073559, betreffende de vaststelling van enkele gegevens betreffende het handelsregister (Handelsregisterregeling)

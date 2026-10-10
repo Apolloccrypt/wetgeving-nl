@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0023849"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 10 april 2008, houdende bepalingen houdende regeling van de inwerkingtreding van de Binnenvaartwet (Invoeringswet Binnenvaartwet)

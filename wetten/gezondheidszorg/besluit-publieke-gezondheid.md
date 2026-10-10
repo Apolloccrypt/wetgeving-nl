@@ -9,7 +9,7 @@ laatste_update: 2026-04-23
 status: geldig
 toestand: 2026-04-23
 bron: "https://wetten.overheid.nl/BWBR0024708"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 27 oktober 2008, houdende nieuwe eisen inzake de publieke gezondheid (Besluit publieke gezondheid)

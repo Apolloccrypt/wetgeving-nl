@@ -8,7 +8,7 @@ laatste_update: 2008-04-02
 status: geldig
 toestand: 2008-04-02
 bron: "https://wetten.overheid.nl/BWBR0023726"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vacatiegeld leden kamers Commissie Integraal Toezicht Terugkeer

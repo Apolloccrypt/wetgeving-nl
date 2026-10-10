@@ -9,7 +9,7 @@ laatste_update: 2026-04-18
 status: geldig
 toestand: 2026-04-18
 bron: "https://wetten.overheid.nl/BWBR0024064"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 24 juni 2008 tot vaststelling van regels ten aanzien van tegemoetkomingen en vergoedingen voor reis-, verblijf- en verhuiskosten van de politie (Besluit reis-, verblijf-, en verhuiskosten politie)

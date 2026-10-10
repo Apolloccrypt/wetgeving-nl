@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0023746"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 3 april 2008 tot algehele herziening van de douanewetgeving (Algemene douanewet)

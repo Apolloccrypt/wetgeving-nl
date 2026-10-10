@@ -9,7 +9,7 @@ laatste_update: 2008-08-01
 status: geldig
 toestand: 2008-08-01
 bron: "https://wetten.overheid.nl/BWBR0024322"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Justitie d.d. 31 juli 2008, nr. 5552080/08, houdende de vordering tot stilhouden door inspecteurs van de Belastingdienst/Douane

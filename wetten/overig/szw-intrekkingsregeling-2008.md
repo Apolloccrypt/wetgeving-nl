@@ -9,7 +9,7 @@ laatste_update: 2008-09-25
 status: geldig
 toestand: 2008-09-25
 bron: "https://wetten.overheid.nl/BWBR0024509"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 september 2008, Directie Wetgeving Bestuurlijke en Juridische Aangelegenheden, nr. WBJA/W1/2008/21558, tot intrekking van diverse uitgewerkte SZW-regelingen (SZW-intrekkingsregeling 2008)

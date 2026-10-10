@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0024391"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 3 juli 2008 tot wijziging van de Wet op het financieel toezicht in verband met de uitvoering van Richtlijn nr. 2005/68/EG van het Europees Parlement en de Raad van de Europese Unie van 16 november 2005 betreffende herverzekering en houdende wijziging van Richtlijnen 73/239/EEG en 92/49/EEG van de Raad en van Richtlijnen 98/78/EG en 2002/83/EG (PbEU L 323)

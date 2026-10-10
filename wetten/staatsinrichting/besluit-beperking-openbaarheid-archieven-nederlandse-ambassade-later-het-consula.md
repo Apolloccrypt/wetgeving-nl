@@ -9,7 +9,7 @@ laatste_update: 2008-12-10
 status: geldig
 toestand: 2008-12-10
 bron: "https://wetten.overheid.nl/BWBR0024793"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 25 november 2008, nr. DDI/ST/reg. 070/2008, houdende beperking van de openbaarheid van de archieven van de Nederlandse Ambassade, later het Consulaat in Pakistan te Karachi (1955–1974) en de Ambassade in Pakistan te Islamabad (1965–1974) van het Ministerie van Buitenlandse Zaken

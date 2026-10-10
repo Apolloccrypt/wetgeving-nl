@@ -9,7 +9,7 @@ laatste_update: 2008-03-14
 status: geldig
 toestand: 2008-03-14
 bron: "https://wetten.overheid.nl/BWBR0023620"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Financiën d.d. 18 februari 2008, nr. BenC 2008-373 M, tot beperking van de openbaarheid van de naar het Nationaal Archief over te brengen aanvulling op het verbaalarchief van de Administratie der Belastingen en het Directoraat-generaal der Belastingen (1934) 1936–1975

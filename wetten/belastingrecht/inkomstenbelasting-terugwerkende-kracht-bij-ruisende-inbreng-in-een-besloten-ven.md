@@ -8,7 +8,7 @@ laatste_update: 2008-09-27
 status: geldig
 toestand: 2008-09-27
 bron: "https://wetten.overheid.nl/BWBR0024524"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Inkomstenbelasting, terugwerkende kracht bij ruisende inbreng in een besloten vennootschap

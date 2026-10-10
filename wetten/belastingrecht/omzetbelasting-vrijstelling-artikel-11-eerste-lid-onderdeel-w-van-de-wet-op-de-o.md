@@ -8,7 +8,7 @@ laatste_update: 2008-09-06
 status: geldig
 toestand: 2008-09-06
 bron: "https://wetten.overheid.nl/BWBR0024434"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Omzetbelasting, vrijstelling; artikel 11, eerste lid, onderdeel w, van de Wet op de omzetbelasting 1968, bemiddeling bij gastouderopvang

@@ -9,7 +9,7 @@ laatste_update: 1827-06-23
 status: geldig
 toestand: 1827-06-23
 bron: "https://wetten.overheid.nl/BWBR0024678"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van den 24sten Mei 1827, houdende nadere voorschriften omtrent het toekennen van adelijke titels en praedikaten

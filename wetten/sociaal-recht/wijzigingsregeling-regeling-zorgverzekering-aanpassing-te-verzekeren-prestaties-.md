@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024266"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 juli 2008, nr. Z/VU-2864917, houdende wijziging van de Regeling zorgverzekering in verband met de aanpassing van de te verzekeren prestaties voor het jaar 2009

@@ -9,7 +9,7 @@ laatste_update: 2008-07-10
 status: geldig
 toestand: 2008-07-10
 bron: "https://wetten.overheid.nl/BWBR0024136"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat ten behoeve van het verkrijgen van vrijstelling van de gemiddelde wekelijkse arbeidstijdnorm voor een vissersvaartuig met een lengte van 45 meter of meer (Regeling vrijstelling arbeidstijden trawlvisserij)

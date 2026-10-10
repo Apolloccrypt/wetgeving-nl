@@ -9,7 +9,7 @@ laatste_update: 2008-04-30
 status: geldig
 toestand: 2008-04-30
 bron: "https://wetten.overheid.nl/BWBR0023796"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 10 april 2008 tot wijziging van de Wet educatie en beroepsonderwijs, de Wet studiefinanciering 2000, de Wet tegemoetkoming onderwijsbijdrage en schoolkosten en de Les- en cursusgeldwet in verband met regeling in de Wet educatie en beroepsonderwijs van een minimumomvang van het in instellingstijd verzorgde onderwijsprogramma (850 urennorm)

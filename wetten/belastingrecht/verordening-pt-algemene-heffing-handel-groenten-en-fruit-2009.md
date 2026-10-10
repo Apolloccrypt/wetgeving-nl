@@ -9,7 +9,7 @@ laatste_update: 2011-09-11
 status: geldig
 toestand: 2011-09-11
 bron: "https://wetten.overheid.nl/BWBR0024573"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2008, houdende de vaststelling van een algemene heffing op de handel in groenten en fruit voor het jaar 2009 (Verordening PT algemene heffing handel groenten en fruit 2009)

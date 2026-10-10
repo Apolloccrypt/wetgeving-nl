@@ -9,7 +9,7 @@ laatste_update: 2008-08-17
 status: geldig
 toestand: 2008-08-17
 bron: "https://wetten.overheid.nl/BWBR0024381"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 25 maart 2008 houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2008 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2008)

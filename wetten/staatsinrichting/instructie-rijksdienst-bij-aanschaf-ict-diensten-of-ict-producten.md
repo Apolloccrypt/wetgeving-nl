@@ -9,7 +9,7 @@ laatste_update: 2008-11-23
 status: geldig
 toestand: 2008-11-23
 bron: "https://wetten.overheid.nl/BWBR0024717"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 8 november 2008, nr. WJZ/8157380, tot vaststelling Instructie rijksdienst inzake aanschaf ICT-diensten en ICT-producten

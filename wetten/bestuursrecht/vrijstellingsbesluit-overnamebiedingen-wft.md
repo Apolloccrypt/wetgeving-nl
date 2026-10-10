@@ -9,7 +9,7 @@ laatste_update: 2019-07-21
 status: geldig
 toestand: 2019-07-21
 bron: "https://wetten.overheid.nl/BWBR0023403"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 25 januari 2008, houdende bepalingen ter uitvoering van artikel 5:81, eerste lid, van de Wet op het financieel toezicht (Vrijstellingsbesluit overnamebiedingen Wft)

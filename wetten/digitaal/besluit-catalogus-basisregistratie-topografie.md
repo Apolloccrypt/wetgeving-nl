@@ -8,7 +8,7 @@ laatste_update: 2008-03-28
 status: geldig
 toestand: 2008-03-28
 bron: "https://wetten.overheid.nl/BWBR0023689"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit catalogus basisregistratie topografie

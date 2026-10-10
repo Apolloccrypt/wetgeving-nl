@@ -9,7 +9,7 @@ laatste_update: 2008-03-01
 status: geldig
 toestand: 2008-03-01
 bron: "https://wetten.overheid.nl/BWBR0023576"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Richtlijn inzake de toepassing van artikel 552i WvSv door het OM en de informatieverstrekking door de politie in het kader van de wederzijdse rechtshulp in strafzaken

@@ -9,7 +9,7 @@ laatste_update: 2008-11-28
 status: geldig
 toestand: 2008-11-28
 bron: "https://wetten.overheid.nl/BWBR0024741"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Beleidsregel van De Nederlandsche Bank N.V. van 20 november 2008, nr. Tb/2008/01928/wjw, houdende beoordelingscriteria voor goedkeuring van gedragscodes van actuariële organisaties voor de onafhankelijkheid van de waarmerkende actuaris op grond van artikel 148, tweede lid, Pensioenwet en artikel 143, tweede lid, Wet verplichte beroepspensioenregeling (Beleidsregel gedragscode onafhankelijkheid actuariële organisaties)

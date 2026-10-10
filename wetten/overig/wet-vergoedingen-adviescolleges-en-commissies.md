@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0024775"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 13 november 2008, houdende regeling van de vergoedingen voor adviescolleges en commissies (Wet vergoedingen adviescolleges en commissies)

@@ -9,7 +9,7 @@ laatste_update: 2008-06-27
 status: geldig
 toestand: 2008-06-27
 bron: "https://wetten.overheid.nl/BWBR0024048"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling houdende bepalingen omtrent de instelling van een gezamenlijke schadebeoordelingcommissie ten behoeve van de coördinatie van verzoeken om schadevergoeding in verband met de aanleg van de Tweede Maasvlakte (Schaderegeling Tweede Maasvlakte)

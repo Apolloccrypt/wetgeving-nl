@@ -9,7 +9,7 @@ laatste_update: 2010-07-21
 status: geldig
 toestand: 2010-07-21
 bron: "https://wetten.overheid.nl/BWBR0024057"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat en de Minister van Justitie, houdende een gezamenlijke aanwijzing van belanghebbenden inzake de verstrekking van gegevens uit het kentekenregister omtrent aangifte van diefstel en verduistering van voertuigen (Regeling aanwijzing beroepsbeoefenaren verstrekking diefstalgegevens kentekenregister 2008)

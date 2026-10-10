@@ -9,7 +9,7 @@ laatste_update: 2008-07-30
 status: geldig
 toestand: 2008-07-30
 bron: "https://wetten.overheid.nl/BWBR0024278"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 10 juli 2008, houdende goedkeuring van het op 21 december 2005 te Middelburg tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied (Trb. 2005, 312)

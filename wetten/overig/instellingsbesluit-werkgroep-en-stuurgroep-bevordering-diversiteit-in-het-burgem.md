@@ -8,7 +8,7 @@ laatste_update: 2008-09-28
 status: geldig
 toestand: 2008-09-28
 bron: "https://wetten.overheid.nl/BWBR0024527"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Instellingsbesluit Werkgroep en stuurgroep bevordering diversiteit in het burgemeestersambt

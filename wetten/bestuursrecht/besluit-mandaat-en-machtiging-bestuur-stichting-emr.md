@@ -9,7 +9,7 @@ laatste_update: 2008-10-09
 status: geldig
 toestand: 2008-10-09
 bron: "https://wetten.overheid.nl/BWBR0024571"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Economische Zaken van 27 september 2008, nr. WJZ/8142836, houdende regels inzake mandaat en machtiging aan het bestuur van de Stichting Euregio Maas-Rijn betreffende de uitvoering van de Regeling EFRO programmaperiode 2007–2013 (Besluit mandaat en machtiging bestuur Stichting EMR)

@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0024788"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 6 november 2008, houdende regeling van de rechtspositie van de vice-president van de Raad van State, de staatsraden en de staatsraden in buitengewone dienst, alsmede van de president en de overige leden van de Algemene Rekenkamer, alsmede van de Nationale ombudsman en de substituut-ombudsmannen (Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman)

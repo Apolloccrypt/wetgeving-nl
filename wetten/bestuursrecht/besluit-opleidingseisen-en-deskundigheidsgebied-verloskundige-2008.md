@@ -9,7 +9,7 @@ laatste_update: 2023-01-01
 status: geldig
 toestand: 2023-01-01
 bron: "https://wetten.overheid.nl/BWBR0024254"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 3 juli 2008, houdende regels inzake de opleiding tot en de deskundigheid van de verloskundige (Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008)

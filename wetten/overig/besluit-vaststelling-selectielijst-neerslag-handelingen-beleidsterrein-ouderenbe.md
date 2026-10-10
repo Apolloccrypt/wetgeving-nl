@@ -8,7 +8,7 @@ laatste_update: 2008-02-06
 status: geldig
 toestand: 2008-02-06
 bron: "https://wetten.overheid.nl/BWBR0023419"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Ouderenbeleid vanaf 1945 (Minister van Financiën)

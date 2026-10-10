@@ -8,7 +8,7 @@ laatste_update: 2008-10-24
 status: geldig
 toestand: 2008-10-24
 bron: "https://wetten.overheid.nl/BWBR0024625"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Coördinatie, handhaving en crisisbeheersing vanaf 1945 (Stichting Dienst Landbouwkundig Onderzoek)

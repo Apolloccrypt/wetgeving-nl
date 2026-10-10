@@ -9,7 +9,7 @@ laatste_update: 2008-06-13
 status: geldig
 toestand: 2008-06-13
 bron: "https://wetten.overheid.nl/BWBR0023972"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 20 mei 2008, houdende vaststelling van de vergoeding van de leden van de Technische commissie bodembescherming (Vergoedingenbesluit Technische commissie bodembescherming)

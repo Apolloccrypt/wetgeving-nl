@@ -9,7 +9,7 @@ laatste_update: 2008-07-25
 status: geldig
 toestand: 2008-07-25
 bron: "https://wetten.overheid.nl/BWBR0024257"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Rijkswet van 10 juli 2008, houdende goedkeuring van het op 13 december 2007 te Lissabon totstandgekomen Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap, met Protocollen en Bijlagen (Trb. 2008, 11)

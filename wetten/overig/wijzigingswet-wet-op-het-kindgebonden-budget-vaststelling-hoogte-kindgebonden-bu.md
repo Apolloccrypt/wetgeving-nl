@@ -9,7 +9,7 @@ laatste_update: 2008-09-01
 status: geldig
 toestand: 2008-09-01
 bron: "https://wetten.overheid.nl/BWBR0024152"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 12 juni 2008 tot wijziging van de Wet op het kindgebonden budget in verband met de vaststelling van de hoogte van het kindgebonden budget met ingang van 2009 en de wijziging van het afbouwpercentage

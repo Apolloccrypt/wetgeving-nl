@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0023913"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 22 mei 2008 tot aanpassing van een aantal wetten met het oog op de inwerkingtreding van de Wet ruimtelijke ordening alsmede regeling van overgangsrecht (Invoeringswet Wet ruimtelijke ordening)

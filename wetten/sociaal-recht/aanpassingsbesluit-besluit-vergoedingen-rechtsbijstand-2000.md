@@ -9,7 +9,7 @@ laatste_update: 2008-06-01
 status: geldig
 toestand: 2008-06-01
 bron: "https://wetten.overheid.nl/BWBR0023886"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 19 mei 2008, houdende aanpassing van het Besluit vergoedingen rechtsbijstand 2000

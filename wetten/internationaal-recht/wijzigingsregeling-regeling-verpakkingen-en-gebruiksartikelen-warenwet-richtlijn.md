@@ -9,7 +9,7 @@ laatste_update: 2009-03-07
 status: geldig
 toestand: 2009-03-07
 bron: "https://wetten.overheid.nl/BWBR0024801"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 november 2008, nr. VGP/PSL 2893617, houdende een wijziging van de Regeling Verpakkingen- en gebruiksartikelen (Warenwet) in verband met richtlijn nr. 2008/39/EG

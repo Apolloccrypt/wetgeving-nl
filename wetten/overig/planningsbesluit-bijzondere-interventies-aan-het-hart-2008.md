@@ -9,7 +9,7 @@ laatste_update: 2024-06-05
 status: geldig
 toestand: 2024-06-05
 bron: "https://wetten.overheid.nl/BWBR0023804"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 april 2008, nr. CZ/TSZ-2830051, houdende vaststelling van het Planningsbesluit bijzondere interventies aan het hart 2008

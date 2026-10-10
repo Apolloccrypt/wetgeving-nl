@@ -8,7 +8,7 @@ laatste_update: 2008-03-14
 status: geldig
 toestand: 2008-03-14
 bron: "https://wetten.overheid.nl/BWBR0023600"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Letteren vanaf 1965 (Stichting fonds voor de Letteren)

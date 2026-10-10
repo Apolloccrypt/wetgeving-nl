@@ -8,7 +8,7 @@ laatste_update: 2026-09-30
 status: geldig
 toestand: 2026-09-30
 bron: "https://wetten.overheid.nl/BWBR0053145"
-opgehaald: 2026-10-09
+opgehaald: 2026-10-10
 ---
 
 # Reglement Commissie voor Bezwaar RvR

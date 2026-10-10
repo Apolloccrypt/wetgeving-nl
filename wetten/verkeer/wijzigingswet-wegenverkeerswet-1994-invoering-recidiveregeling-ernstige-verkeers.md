@@ -9,7 +9,7 @@ laatste_update: 2011-06-01
 status: geldig
 toestand: 2011-06-01
 bron: "https://wetten.overheid.nl/BWBR0024675"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 24 oktober 2008 tot wijziging van de Wegenverkeerswet 1994 in verband met de invoering van een recidiveregeling voor ernstige verkeersdelicten (puntenstelsel)

@@ -9,7 +9,7 @@ laatste_update: 2009-09-01
 status: geldig
 toestand: 2009-09-01
 bron: "https://wetten.overheid.nl/BWBR0024444"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 22 augustus 2008, houdende regels met betrekking tot verplichte afkoop van krachtens het Besluit woninggebonden subsidies verleende geldelijke steun en houdende wijziging en intrekking van het Besluit woninggebonden subsidies 1995 (Besluit verplichte afkoop woninggebonden subsidies)

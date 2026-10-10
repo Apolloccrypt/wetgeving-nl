@@ -8,7 +8,7 @@ laatste_update: 2008-04-15
 status: geldig
 toestand: 2008-04-15
 bron: "https://wetten.overheid.nl/BWBR0024001"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling onkostenvergoedingen gewezen defensiepersoneel

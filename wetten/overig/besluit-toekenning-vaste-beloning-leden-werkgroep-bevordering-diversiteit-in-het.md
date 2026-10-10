@@ -9,7 +9,7 @@ laatste_update: 2008-10-09
 status: geldig
 toestand: 2008-10-09
 bron: "https://wetten.overheid.nl/BWBR0024578"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 25 september 2008, nr. 08.002714, houdende toekenning van een vaste beloning aan de leden van de werkgroep bevordering diversiteit in het burgemeestersambt

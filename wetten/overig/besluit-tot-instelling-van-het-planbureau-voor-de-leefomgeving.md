@@ -9,7 +9,7 @@ laatste_update: 2008-05-16
 status: geldig
 toestand: 2008-05-16
 bron: "https://wetten.overheid.nl/BWBR0023855"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 7 mei 2008 tot instelling van het Planbureau voor de Leefomgeving

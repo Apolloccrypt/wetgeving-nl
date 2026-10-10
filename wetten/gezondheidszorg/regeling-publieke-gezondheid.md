@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0024758"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 november 2008, nr. PG/ZP-2.892.655, houdende nieuwe eisen inzake de publieke gezondheid (Regeling publieke gezondheid)

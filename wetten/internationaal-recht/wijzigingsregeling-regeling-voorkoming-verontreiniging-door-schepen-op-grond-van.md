@@ -9,7 +9,7 @@ laatste_update: 2008-09-26
 status: geldig
 toestand: 2008-09-26
 bron: "https://wetten.overheid.nl/BWBR0024517"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling tot wijziging van de Regeling voorkoming verontreiniging door schepen in verband met de op grond van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen vast te stellen nationale eisen

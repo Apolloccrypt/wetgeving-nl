@@ -9,7 +9,7 @@ laatste_update: 2025-02-13
 status: geldig
 toestand: 2025-02-13
 bron: "https://wetten.overheid.nl/BWBR0024167"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat, houdende regels ter uitvoering van het Besluit vluchtuitvoering (Regeling vluchtuitvoering)

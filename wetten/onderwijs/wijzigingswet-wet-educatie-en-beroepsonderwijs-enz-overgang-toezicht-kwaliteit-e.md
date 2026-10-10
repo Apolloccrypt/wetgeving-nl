@@ -9,7 +9,7 @@ laatste_update: 2008-06-13
 status: geldig
 toestand: 2008-06-13
 bron: "https://wetten.overheid.nl/BWBR0023960"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 22 mei 2008, houdende wijziging van de Wet educatie en beroepsonderwijs en de Wet op het onderwijstoezicht in verband met de overgang van het toezicht op de kwaliteit van de examinering van de beroepsopleidingen naar de Inspectie van het onderwijs

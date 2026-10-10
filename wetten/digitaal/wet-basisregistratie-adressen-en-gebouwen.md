@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0023466"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 24 januari 2008, houdende regels omtrent de basisregistraties adressen en gebouwen (Wet basisregistraties adressen en gebouwen)

@@ -9,7 +9,7 @@ laatste_update: 2010-03-04
 status: geldig
 toestand: 2010-03-04
 bron: "https://wetten.overheid.nl/BWBR0023593"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Tijdelijke regeling van de Staatssecretaris van Justitie van 29 februari 2008, nr. 5532992/08/DJI, houdende de instelling van de adviescommissie individuele trajectafdelingen (Tijdelijke regeling adviescommissie individuele trajectafdelingen)

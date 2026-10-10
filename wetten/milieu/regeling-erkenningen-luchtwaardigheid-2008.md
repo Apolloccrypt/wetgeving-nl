@@ -9,7 +9,7 @@ laatste_update: 2020-10-01
 status: geldig
 toestand: 2020-10-01
 bron: "https://wetten.overheid.nl/BWBR0024682"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling houdende regels met betrekking tot onderhoudserkenningen en erkenningen van geluidmeetorganisaties (Regeling erkenningen luchtwaardigheid 2008)

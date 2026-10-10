@@ -9,7 +9,7 @@ laatste_update: 2008-12-03
 status: geldig
 toestand: 2008-12-03
 bron: "https://wetten.overheid.nl/BWBR0024771"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 25 november 2008, nr. DDI/ST/reg. 065/2008, houdende beperking van de openbaarheid van de archieven van de Nederlandse Ambassade (1955–1974) en de Consulaten (1866–1974) in Spanje van het Ministerie van Buitenlandse Zaken

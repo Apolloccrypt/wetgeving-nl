@@ -9,7 +9,7 @@ laatste_update: 2008-02-07
 status: geldig
 toestand: 2008-02-07
 bron: "https://wetten.overheid.nl/BWBR0023435"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 januari 2008, nr. Z/F-2825634, houdende vaststelling van het premiepercentage voor de algemene verzekering bijzondere ziektekosten 2008

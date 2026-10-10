@@ -8,7 +8,7 @@ laatste_update: 2004-08-01
 status: geldig
 toestand: 2004-08-01
 bron: "https://wetten.overheid.nl/BWBR0024727"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling centraal examen 2006

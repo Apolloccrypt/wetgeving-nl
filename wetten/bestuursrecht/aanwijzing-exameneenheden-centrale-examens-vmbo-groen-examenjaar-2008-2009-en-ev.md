@@ -8,7 +8,7 @@ laatste_update: 2007-06-10
 status: geldig
 toestand: 2007-06-10
 bron: "https://wetten.overheid.nl/BWBR0024712"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Aanwijzing exameneenheden centrale examens vmbo-groen examenjaar 2008, 2009 en eventueel 2010

@@ -9,7 +9,7 @@ laatste_update: 2008-02-16
 status: geldig
 toestand: 2008-02-16
 bron: "https://wetten.overheid.nl/BWBR0023474"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit houdende de verlening van mandaat, volmacht en machtiging aan ambtenaren van de Dienst Regelingen van het ministerie van Landbouw, Natuur en Voedselkwaliteit

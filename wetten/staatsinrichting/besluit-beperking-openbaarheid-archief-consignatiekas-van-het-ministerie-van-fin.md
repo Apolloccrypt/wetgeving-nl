@@ -9,7 +9,7 @@ laatste_update: 2008-09-03
 status: geldig
 toestand: 2008-09-03
 bron: "https://wetten.overheid.nl/BWBR0024425"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Financiën van 23 juni 2008, nr. B en C 2008-1280 M tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archief Consignatiekas van het Ministerie van Financiën, (1806) 1817–1987

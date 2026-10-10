@@ -8,7 +8,7 @@ laatste_update: 2008-03-12
 status: geldig
 toestand: 2008-03-12
 bron: "https://wetten.overheid.nl/BWBR0023597"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gerechtsdeurwaarders vanaf 1945 (Minister van Economische Zaken)

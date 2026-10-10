@@ -9,7 +9,7 @@ laatste_update: 2008-10-19
 status: geldig
 toestand: 2008-10-19
 bron: "https://wetten.overheid.nl/BWBR0024616"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 oktober 2008, nr. DDI/ST/reg. 037/2008, houdende beperking van de openbaarheid van het archief van de Nederlandse Ambassade en Consulaten in Canada van het Ministerie van Buitenlandse Zaken, 1955–1974

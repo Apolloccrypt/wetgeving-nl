@@ -8,7 +8,7 @@ laatste_update: 2008-10-05
 status: geldig
 toestand: 2008-10-05
 bron: "https://wetten.overheid.nl/BWBR0024553"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Inkomstenbelasting, belastingverdrag met Oostenrijk; Nederlandse oorlogs- en vervolgingsuitkeringen betaald aan inwoners van Oostenrijk

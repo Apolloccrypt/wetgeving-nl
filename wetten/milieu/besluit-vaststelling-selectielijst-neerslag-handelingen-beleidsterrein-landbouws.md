@@ -8,7 +8,7 @@ laatste_update: 2008-03-29
 status: geldig
 toestand: 2008-03-29
 bron: "https://wetten.overheid.nl/BWBR0023664"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Landbouwstructuurbeleid vanaf 1945 (Minister van Landbouw, Natuur en Voedselkwaliteit)

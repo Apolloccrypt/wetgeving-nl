@@ -8,7 +8,7 @@ laatste_update: 2023-06-13
 status: geldig
 toestand: 2023-06-13
 bron: "https://wetten.overheid.nl/BWBR0024421"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Reglement voor de Commissie voor de Verzoekschriften van de Eerste Kamer der Staten-Generaal

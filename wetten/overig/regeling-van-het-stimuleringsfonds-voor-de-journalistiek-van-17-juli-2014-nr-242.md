@@ -9,7 +9,7 @@ laatste_update: 2014-07-25
 status: geldig
 toestand: 2014-07-25
 bron: "https://wetten.overheid.nl/BWBR0035381"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van het Stimuleringsfonds voor de Journalistiek van 17 juli 2014, nr. 24284, tot vaststelling van een tijdelijke subsidieregeling voor vernieuwende journalistiek 2015 (The Challenge: Reinventing Journalism)

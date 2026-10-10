@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0023731"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Rijkswet van 25 februari 2008, houdende regeling van de taken en bevoegdheden, alsmede het beheer en beleid van de Kustwacht voor de Nederlandse Antillen en Aruba (Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba)

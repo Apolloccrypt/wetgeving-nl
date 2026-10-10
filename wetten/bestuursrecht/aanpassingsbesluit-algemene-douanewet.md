@@ -9,7 +9,7 @@ laatste_update: 2013-09-27
 status: geldig
 toestand: 2013-09-27
 bron: "https://wetten.overheid.nl/BWBR0024233"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 5 juli 2008, houdende regels ter aanpassing van algemene maatregelen van bestuur aan de invoering van de Algemene douanewet (Aanpassingsbesluit Algemene douanewet)

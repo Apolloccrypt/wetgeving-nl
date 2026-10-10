@@ -9,7 +9,7 @@ laatste_update: 2026-09-05
 status: geldig
 toestand: 2026-09-05
 bron: "https://wetten.overheid.nl/BWBR0053161"
-opgehaald: 2026-10-09
+opgehaald: 2026-10-10
 ---
 
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van Biobor JF ten behoeve van het behandelen van kerosine in luchtvaartuigen (Vrijstelling Biobor JF voor kerosine luchtvaartuigen 2026)

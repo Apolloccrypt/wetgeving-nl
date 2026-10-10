@@ -8,7 +8,7 @@ laatste_update: 2025-01-18
 status: geldig
 toestand: 2025-01-18
 bron: "https://wetten.overheid.nl/BWBR0023599"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Vennootschapsbelasting en inkomstenbelasting, vrijgestelde beleggingsinstelling

@@ -9,7 +9,7 @@ laatste_update: 2008-07-23
 status: geldig
 toestand: 2008-07-23
 bron: "https://wetten.overheid.nl/BWBR0024209"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat, houdende intrekking van diverse regelingen op het terrein van het Ministerie van Verkeer en Waterstaat in verband met het feit dat deze hun betekenis hebben verloren (VenW-Intrekkingsregeling 2008)

@@ -8,7 +8,7 @@ laatste_update: 2022-06-11
 status: geldig
 toestand: 2022-06-11
 bron: "https://wetten.overheid.nl/BWBR0024777"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Aanwijzing toezichthouders gebruik gegevens kentekenregister

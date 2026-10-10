@@ -9,7 +9,7 @@ laatste_update: 2008-09-07
 status: geldig
 toestand: 2008-09-07
 bron: "https://wetten.overheid.nl/BWBR0024448"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 augustus 2008, nr. UB/A/2008/23285, tot wijziging van de Regeling Wfsv en enkele andere regelingen in verband met vereenvoudiging van de verantwoording en afdracht van de uitvoeringskosten van enkele begrotingsgefinancierde regelingen

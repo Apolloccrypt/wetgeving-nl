@@ -8,7 +8,7 @@ laatste_update: 2008-07-16
 status: geldig
 toestand: 2008-07-16
 bron: "https://wetten.overheid.nl/BWBR0024172"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Pachtaangelegenheden vanaf 1945 (Minister van Financiën)

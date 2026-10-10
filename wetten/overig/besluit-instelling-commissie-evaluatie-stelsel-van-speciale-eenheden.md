@@ -8,7 +8,7 @@ laatste_update: 2008-02-23
 status: geldig
 toestand: 2008-02-23
 bron: "https://wetten.overheid.nl/BWBR0023496"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit instelling Commissie evaluatie stelsel van speciale eenheden

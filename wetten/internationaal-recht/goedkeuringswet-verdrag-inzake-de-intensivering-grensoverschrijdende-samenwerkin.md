@@ -9,7 +9,7 @@ laatste_update: 2008-01-30
 status: geldig
 toestand: 2008-01-30
 bron: "https://wetten.overheid.nl/BWBR0023387"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 17 januari 2008 tot goedkeuring van het op 27 mei 2005 te Prüm totstandgekomen Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, het Koninkrijk Spanje, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van het terrorisme, de grensoverschrijdende criminaliteit en de illegale migratie (Trb. 2005, 197)

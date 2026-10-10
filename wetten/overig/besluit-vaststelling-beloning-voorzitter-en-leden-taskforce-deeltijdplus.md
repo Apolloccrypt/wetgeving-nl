@@ -9,7 +9,7 @@ laatste_update: 2008-05-23
 status: geldig
 toestand: 2008-05-23
 bron: "https://wetten.overheid.nl/BWBR0023870"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit houdende vaststelling beloning van de voorzitter en leden Taskforce DeeltijdPlus

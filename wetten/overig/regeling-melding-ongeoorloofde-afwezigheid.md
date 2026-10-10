@@ -9,7 +9,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0023428"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Justitie van 29 januari 2008, nr. 5519777/07/DJI, houdende regels over de melding van ongeoorloofde afwezigheid uit penitentiaire inrichtingen, inrichtingen voor verpleging van ter beschikking gestelden en justitiële jeugdinrichtingen

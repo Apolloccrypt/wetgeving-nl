@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0024275"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Financiën en de Minister van Justitie van 23 juli 2008, nr. FM 2008-1792 M, Generale Thesaurie, Directie Financiële Markten, Afdeling Integriteit, tot vaststelling van regels ter uitvoering van de Wet ter voorkoming van witwassen en financieren van terrorisme (Uitvoeringsregeling Wet ter voorkoming van witwassen en financieren van terrorisme)

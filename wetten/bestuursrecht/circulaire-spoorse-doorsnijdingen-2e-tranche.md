@@ -9,7 +9,7 @@ laatste_update: 2008-11-28
 status: geldig
 toestand: 2008-11-28
 bron: "https://wetten.overheid.nl/BWBR0024770"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Circulaire ter bekendmaking van de wijze van verkrijging van een decentralisatie-uitkering uit het Gemeentefonds ten behoeve van projecten van gemeenten tot opheffen of verminderen van knelpunten rondom het spoor (Circulaire spoorse doorsnijdingen 2e tranche)

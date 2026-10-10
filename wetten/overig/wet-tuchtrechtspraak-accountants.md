@@ -9,7 +9,7 @@ laatste_update: 2023-07-01
 status: geldig
 toestand: 2023-07-01
 bron: "https://wetten.overheid.nl/BWBR0024238"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 27 juni 2008, houdende nieuwe regels inzake tuchtrechtspraak ten aanzien van accountants (Wet tuchtrechtspraak accountants)

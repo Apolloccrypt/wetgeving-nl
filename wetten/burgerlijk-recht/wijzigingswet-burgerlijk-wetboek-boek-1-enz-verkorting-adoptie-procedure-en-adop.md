@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024657"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 24 oktober 2008 tot wijziging van Boek 1 van het Burgerlijk Wetboek in verband met verkorting van de adoptie-procedure en wijziging van de Wet opneming buitenlandse kinderen ter adoptie in verband met adoptie door echtgenoten van gelijk geslacht tezamen

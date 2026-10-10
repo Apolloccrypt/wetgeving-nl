@@ -9,7 +9,7 @@ laatste_update: 2025-07-05
 status: geldig
 toestand: 2025-07-05
 bron: "https://wetten.overheid.nl/BWBR0023864"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 10 april 2008, houdende regels inzake het gebruik van het burgerservicenummer in de zorg (Wet gebruik burgerservicenummer in de zorg)

@@ -9,7 +9,7 @@ laatste_update: 2008-09-11
 status: geldig
 toestand: 2008-09-11
 bron: "https://wetten.overheid.nl/BWBR0024457"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Beleidsregel van de Minister-President, Minister van Algemene Zaken, van 1 september 2008, nr. 3068664, inzake het beëindigen van het verstrekken van financiële bijdragen ten behoeve van de uitzending van coproducties of andere omroepprogramma’s door omroepinstellingen

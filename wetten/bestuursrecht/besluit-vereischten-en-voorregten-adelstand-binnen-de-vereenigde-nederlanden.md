@@ -9,7 +9,7 @@ laatste_update: 1815-02-13
 status: geldig
 toestand: 1815-02-13
 bron: "https://wetten.overheid.nl/BWBR0024677"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van den 13den Februarij 1815, no. 60, omtrent de vereischten en voorregten van den Adelstand binnen de Vereenigde Nederlanden

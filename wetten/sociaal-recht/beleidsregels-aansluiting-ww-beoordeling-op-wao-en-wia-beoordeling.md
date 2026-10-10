@@ -8,7 +8,7 @@ laatste_update: 2008-07-27
 status: geldig
 toestand: 2008-07-27
 bron: "https://wetten.overheid.nl/BWBR0024268"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Beleidsregels aansluiting WW-beoordeling op WAO- en WIA-beoordeling

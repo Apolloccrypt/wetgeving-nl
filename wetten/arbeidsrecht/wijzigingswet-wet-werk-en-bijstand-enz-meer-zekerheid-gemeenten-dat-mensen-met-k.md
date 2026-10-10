@@ -9,7 +9,7 @@ laatste_update: 2008-07-18
 status: geldig
 toestand: 2008-07-18
 bron: "https://wetten.overheid.nl/BWBR0024187"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 10 juli 2008 tot wijziging van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen om gemeenten meer zekerheid te geven dat mensen met een kleine kans op inschakeling in het arbeidsproces met behoud van uitkering gedurende maximaal 2 jaar onbeloonde additionele werkzaamheden kunnen verrichten

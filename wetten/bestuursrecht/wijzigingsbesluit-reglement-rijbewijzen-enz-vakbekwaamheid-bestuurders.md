@@ -9,7 +9,7 @@ laatste_update: 2008-09-10
 status: geldig
 toestand: 2008-09-10
 bron: "https://wetten.overheid.nl/BWBR0024127"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 17 juni 2008, houdende wijziging van het Reglement rijbewijzen en enige andere besluiten in verband met de implementatie van richtlijn nr. 2003/59/EG (vakbekwaamheid bestuurders)

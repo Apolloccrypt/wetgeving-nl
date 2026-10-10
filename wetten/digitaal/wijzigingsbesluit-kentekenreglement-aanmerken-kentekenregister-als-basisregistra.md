@@ -9,7 +9,7 @@ laatste_update: 2008-07-01
 status: geldig
 toestand: 2008-07-01
 bron: "https://wetten.overheid.nl/BWBR0023955"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 28 mei 2008, houdende wijziging van het Kentekenreglement in verband met het aanmerken van het kentekenregister als basisregistratie alsmede in verband met de herziening van de gegevensverstrekking uit het kentekenregister

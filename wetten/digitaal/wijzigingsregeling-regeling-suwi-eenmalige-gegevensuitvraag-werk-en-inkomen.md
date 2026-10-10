@@ -9,7 +9,7 @@ laatste_update: 2008-09-15
 status: geldig
 toestand: 2008-09-15
 bron: "https://wetten.overheid.nl/BWBR0023968"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 mei 2008, nr. UB/S/2008/14903, tot wijziging van de Regeling SUWI in verband met eenmalige gegevensuitvraag werk en inkomen

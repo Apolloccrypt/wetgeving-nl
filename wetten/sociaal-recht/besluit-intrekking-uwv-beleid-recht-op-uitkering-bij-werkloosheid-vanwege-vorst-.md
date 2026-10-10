@@ -8,7 +8,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBR0024185"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit intrekking UWV-beleid (recht op uitkering bij werkloosheid vanwege vorst en andere buitengewone natuurlijke omstandigheden in bepaalde sectoren)

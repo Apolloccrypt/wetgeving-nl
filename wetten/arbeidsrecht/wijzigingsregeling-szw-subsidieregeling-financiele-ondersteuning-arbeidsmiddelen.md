@@ -9,7 +9,7 @@ laatste_update: 2008-11-27
 status: geldig
 toestand: 2008-11-27
 bron: "https://wetten.overheid.nl/BWBR0024739"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 24 november 2008, nr. ARBO/P&G/08/26086, tot wijziging van de SZW-subsidieregeling financiële ondersteuning arbeidsmiddelen (beëindiging)

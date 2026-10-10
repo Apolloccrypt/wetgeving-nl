@@ -9,7 +9,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0024380"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 augustus 2008, nr. STAF/CZW/WVOB 2008-00000287353, houdende regels betreffende de beroepserkenning van executief politiepersoneel (Regeling erkenning EG-beroepskwalificaties politiepersoneel)

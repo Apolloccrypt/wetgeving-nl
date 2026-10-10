@@ -9,7 +9,7 @@ laatste_update: 2008-08-01
 status: geldig
 toestand: 2008-08-01
 bron: "https://wetten.overheid.nl/BWBR0023942"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 29 mei 2008, nr. ET/ED/8064465, houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie lange termijn energieonderzoek en nieuw energieonderzoek, de voorzitter en leden van de deelcommissie lange termijn energieonderzoek, de voorzitter en leden van de deelcommissie nieuwe energieonderzoek en de voorzitter en leden van de deelcommissie korte termijn energieonderzoek

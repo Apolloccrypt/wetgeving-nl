@@ -9,7 +9,7 @@ laatste_update: 2008-10-11
 status: geldig
 toestand: 2008-10-11
 bron: "https://wetten.overheid.nl/BWBR0024569"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister voor Wonen, Wijken en Integratie van 24 september 2008, nr. BJZ2008086801, houdende regels omtrent verplichte afkoop van jaarlijkse bijdragen, die krachtens de Beschikking geldelijke steun huisvesting gehandicapten van 17 april 1978 (Stcrt. 1978, nrs. 74 en 76), de Regelingen geldelijke steun huisvesting gehandicapten 1989 en 1992 (Stcrt. 1988, 190 en Stcrt. 1991, 223) en de Overgangsregeling geldelijke steun huisvesting gehandicapten (Stcrt. 1993, 192) zijn toegekend aan gemeenten (Regeling verplichte afkoop regelingen geldelijke steun huisvesting gehandicapten 2008)

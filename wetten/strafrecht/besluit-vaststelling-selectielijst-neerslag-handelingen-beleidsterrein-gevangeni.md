@@ -8,7 +8,7 @@ laatste_update: 2008-02-27
 status: geldig
 toestand: 2008-02-27
 bron: "https://wetten.overheid.nl/BWBR0023479"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gevangeniswezen en Terbeschikkingstelling vanaf 1945 (Minister van Onderwijs, Cultuur en Wetenschap)

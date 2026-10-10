@@ -9,7 +9,7 @@ laatste_update: 2008-03-30
 status: geldig
 toestand: 2008-03-30
 bron: "https://wetten.overheid.nl/BWBR0023719"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 28 november 2006, houdende de vaststelling van aan exporteurs van bloembollen op te leggen heffing voor de export van bloembollen naar Japan, voor het oogstjaar 2006 (Verordening PT heffing export bloembollen naar Japan oogstjaar 2006)

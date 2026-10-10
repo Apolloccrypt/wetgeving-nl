@@ -9,7 +9,7 @@ laatste_update: 2008-08-01
 status: geldig
 toestand: 2008-08-01
 bron: "https://wetten.overheid.nl/BWBR0023456"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 24 december 2007, houdende wijziging van het Besluit voorkoming verontreiniging door schepen in verband met de flexibilisering van artikel 29 daarvan, het herstel van enkele omissies en de aanwijzing van het Golfgebied als gebied ten aanzien waarvan strengere lozingsvoorschriften gelden

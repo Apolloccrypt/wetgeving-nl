@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024724"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit houdende vaststelling van twee vergunningen voor digitale omroep zoals deze na de procedure van veiling zullen worden verleend

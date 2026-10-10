@@ -9,7 +9,7 @@ laatste_update: 2022-07-08
 status: geldig
 toestand: 2022-07-08
 bron: "https://wetten.overheid.nl/BWBR0024755"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 november 2008, nr. MEVA/BO-2890092, houdende regels in verband met de erkenning van EG beroepskwalificaties in de individuele gezondheidszorg

@@ -8,7 +8,7 @@ laatste_update: 2009-03-21
 status: geldig
 toestand: 2009-03-21
 bron: "https://wetten.overheid.nl/BWBR0023499"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Beleidsregels UWV pilot participatiebudget

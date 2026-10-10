@@ -9,7 +9,7 @@ laatste_update: 2008-01-18
 status: geldig
 toestand: 2008-01-18
 bron: "https://wetten.overheid.nl/BWBR0023329"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking van 7 januari 2008, nr. DJZ/BR-1155/07, tot vaststelling van een plafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieplafond Stabiliteitsfonds 2008)

@@ -8,7 +8,7 @@ laatste_update: 2022-03-31
 status: geldig
 toestand: 2022-03-31
 bron: "https://wetten.overheid.nl/BWBR0023645"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Organisatieregeling Kadaster 2008

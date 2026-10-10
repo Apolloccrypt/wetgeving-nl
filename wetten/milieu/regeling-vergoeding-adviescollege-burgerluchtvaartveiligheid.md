@@ -9,7 +9,7 @@ laatste_update: 2008-02-07
 status: geldig
 toestand: 2008-02-07
 bron: "https://wetten.overheid.nl/BWBR0023434"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat tot vaststelling van de vergoeding voor de leden van het Adviescollege burgerluchtvaartveiligheid en intrekking van de Vergoedingenregeling leden Veiligheids Advies Commissie Schiphol (Regeling vergoeding Adviescollege burgerluchtvaartveiligheid)

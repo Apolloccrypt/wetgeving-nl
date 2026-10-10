@@ -9,7 +9,7 @@ laatste_update: 2026-03-14
 status: geldig
 toestand: 2026-03-14
 bron: "https://wetten.overheid.nl/BWBR0024042"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 10 juni 2008, nr. VO/OK/2008/51284, houdende modellen diploma’s, cijferlijsten, certificaten, getuigschrift, bewijs van ontheffing met verklaring v.w.o.-h.a.v.o.-v.m.b.o. en getuigschrift praktijkonderwijs (Regeling modellen diploma’s v.w.o.-h.a.v.o.-v.m.b.o.)

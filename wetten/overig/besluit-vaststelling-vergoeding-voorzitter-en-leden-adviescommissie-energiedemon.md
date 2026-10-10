@@ -9,7 +9,7 @@ laatste_update: 2008-08-17
 status: geldig
 toestand: 2008-08-17
 bron: "https://wetten.overheid.nl/BWBR0024375"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie energiedemonstratieprojecten en energietransitie-experimenten

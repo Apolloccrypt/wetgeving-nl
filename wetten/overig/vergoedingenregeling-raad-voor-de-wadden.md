@@ -9,7 +9,7 @@ laatste_update: 2008-08-17
 status: geldig
 toestand: 2008-08-17
 bron: "https://wetten.overheid.nl/BWBR0024374"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 augustus 2008, nr. BJZ2008065143, Directie Bestuurlijke en Juridische Zaken, Afdeling Wetgeving, houdende de vaststelling van de vergoedingen van de voorzitter en overige leden van de Raad voor de Wadden (Vergoedingenregeling Raad voor de Wadden)

@@ -9,7 +9,7 @@ laatste_update: 2013-07-02
 status: geldig
 toestand: 2013-07-02
 bron: "https://wetten.overheid.nl/BWBR0023622"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 maart 2008, nr. AV/IR/2008/5981, houdende vaststelling van een nieuwe regeling op grond van artikel 2, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945

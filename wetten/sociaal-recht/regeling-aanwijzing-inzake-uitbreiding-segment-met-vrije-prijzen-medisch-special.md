@@ -9,7 +9,7 @@ laatste_update: 2008-09-19
 status: geldig
 toestand: 2008-09-19
 bron: "https://wetten.overheid.nl/BWBR0024503"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 29 augustus 2008, nr. CZ/TSZ-2873530, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake uitbreiding segment met vrije prijzen medisch specialistische zorg

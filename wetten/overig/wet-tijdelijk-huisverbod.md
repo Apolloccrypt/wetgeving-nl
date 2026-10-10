@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0024649"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 9 oktober 2008, houdende regels strekkende tot het opleggen van een tijdelijk huisverbod aan personen van wie een ernstige dreiging van huiselijk geweld uitgaat (Wet tijdelijk huisverbod)

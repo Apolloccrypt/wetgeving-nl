@@ -9,7 +9,7 @@ laatste_update: 2008-07-13
 status: geldig
 toestand: 2008-07-13
 bron: "https://wetten.overheid.nl/BWBR0024160"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Binnenlandse zaken en Koninkrijksrelaties van 30 juni 2008, nr. STAF/CZW/WVOB 2008-0000002982, houdende regels betreffende de beroepserkenning van brandweerpersoneel (Regeling erkenning EG-beroepskwalificaties brandweerpersoneel)

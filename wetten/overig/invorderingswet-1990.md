@@ -9,7 +9,7 @@ laatste_update: 2026-10-01
 status: geldig
 toestand: 2026-10-01
 bron: "https://wetten.overheid.nl/BWBR0004770"
-opgehaald: 2026-10-09
+opgehaald: 2026-10-10
 ---
 
 # Wet van 30 mei 1990, inzake invordering van rijksbelastingen, andere dan invoerrechten en accijnzen

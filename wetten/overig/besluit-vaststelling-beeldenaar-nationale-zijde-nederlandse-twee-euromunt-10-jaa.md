@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024747"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 12 november 2008, houdende de vaststelling van de beeldenaar van de nationale zijde van de Nederlandse twee-euromunt die in 2009 wordt uitgegeven ter gelegenheid van 10 jaar Economische en Monetaire Unie

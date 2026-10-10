@@ -9,7 +9,7 @@ laatste_update: 2008-02-28
 status: geldig
 toestand: 2008-02-28
 bron: "https://wetten.overheid.nl/BWBR0023535"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister en de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 februari 2008, nr. UB/A/2008/3529, tot deregulering van de informatievoorziening in het kader van de planning en verslaglegging

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0023530"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van 1 februari 2008, nr. 5528485/08, houdende regels tot het aanwijzen van wetgeving, genoemd in artikel 4:2, tweede lid, van het Besluit politiegegevens

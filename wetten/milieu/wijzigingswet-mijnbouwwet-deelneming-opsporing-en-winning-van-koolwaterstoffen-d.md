@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0024108"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 12 juni 2008 tot wijziging van de Mijnbouwwet in verband met nieuwe regels omtrent deelneming in de opsporing en winning van koolwaterstoffen door een daartoe aangewezen vennootschap en omtrent andere taken en activiteiten van die vennootschap

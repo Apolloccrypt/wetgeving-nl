@@ -9,7 +9,7 @@ laatste_update: 2008-10-03
 status: geldig
 toestand: 2008-10-03
 bron: "https://wetten.overheid.nl/BWBR0024551"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 11 september 2008, houdende wijziging van de Wet op de kansspelbelasting in verband met kansspelen via internet

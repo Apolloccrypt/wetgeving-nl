@@ -9,7 +9,7 @@ laatste_update: 2013-01-02
 status: geldig
 toestand: 2013-01-02
 bron: "https://wetten.overheid.nl/BWBR0023772"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Beschikking van de Minister van Justitie van 4 april 2008, nr. 5539317/08/DSP, houdende verlening van een vergunning tot het organiseren van een BankGiro Loterij

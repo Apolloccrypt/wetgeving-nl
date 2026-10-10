@@ -8,7 +8,7 @@ laatste_update: 2008-07-17
 status: geldig
 toestand: 2008-07-17
 bron: "https://wetten.overheid.nl/BWBR0024184"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Brandweerzorg, rampenbestrijding en crisisbeheersing vanaf 1945 (Minister van Verkeer en Waterstaat)

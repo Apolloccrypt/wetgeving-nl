@@ -9,7 +9,7 @@ laatste_update: 2008-08-01
 status: geldig
 toestand: 2008-08-01
 bron: "https://wetten.overheid.nl/BWBR0024178"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 29 mei 2008 tot wijziging van de Zorgverzekeringswet in verband met de rechtsgang bij inhouding van de bijdrage van verdragsgerechtigden (rechtsgang bronheffing verdragsgerechtigden)

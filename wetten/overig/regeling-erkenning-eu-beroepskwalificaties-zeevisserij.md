@@ -9,7 +9,7 @@ laatste_update: 2025-07-01
 status: geldig
 toestand: 2025-07-01
 bron: "https://wetten.overheid.nl/BWBR0024144"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling houdende regels met betrekking tot de erkenning van EG-beroepskwalificaties voor de zeevisserij (Regeling erkenning EG-beroepskwalificaties zeevisserij)

@@ -9,7 +9,7 @@ laatste_update: 2008-11-19
 status: geldig
 toestand: 2008-11-19
 bron: "https://wetten.overheid.nl/BWBR0024698"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 3 november 2008, houdende wijziging van het Besluit draagbare blustoestellen 1997

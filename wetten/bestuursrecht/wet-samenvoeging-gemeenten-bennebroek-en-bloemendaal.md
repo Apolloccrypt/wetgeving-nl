@@ -9,7 +9,7 @@ laatste_update: 2008-07-18
 status: geldig
 toestand: 2008-07-18
 bron: "https://wetten.overheid.nl/BWBR0024173"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 19 juni 2008 tot samenvoeging van de gemeenten Bennebroek en Bloemendaal

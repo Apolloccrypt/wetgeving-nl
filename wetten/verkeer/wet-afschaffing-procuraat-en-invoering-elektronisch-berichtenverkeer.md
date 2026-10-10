@@ -9,7 +9,7 @@ laatste_update: 2008-09-01
 status: geldig
 toestand: 2008-09-01
 bron: "https://wetten.overheid.nl/BWBR0023725"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 20 maart 2008 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering, de Advocatenwet en andere wetten in verband met het afschaffen van het procuraat in burgerlijke zaken en de invoering van elektronisch berichtenverkeer (Wet afschaffing procuraat en invoering elektronisch berichtenverkeer)

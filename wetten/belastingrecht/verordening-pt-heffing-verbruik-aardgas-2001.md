@@ -9,7 +9,7 @@ laatste_update: 2008-06-29
 status: geldig
 toestand: 2008-06-29
 bron: "https://wetten.overheid.nl/BWBR0024284"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Verordening van het Productschap Tuinbouw van 26 september 2000, houdende de vaststelling van een bestemmingsheffing ten behoeve van maatregelen gericht op verbetering van de energie-efficiëntie voor het jaar 2001 (Verordening PT heffing verbruik aardgas 2001)

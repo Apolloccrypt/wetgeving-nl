@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0024800"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 30 oktober 2008 tot wijziging van de regeling van het beroepsgoederenvervoer en het eigen vervoer met vrachtauto’s (Wet wegvervoer goederen)

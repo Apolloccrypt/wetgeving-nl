@@ -9,7 +9,7 @@ laatste_update: 2009-10-09
 status: geldig
 toestand: 2009-10-09
 bron: "https://wetten.overheid.nl/BWBR0023566"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Economische Zaken van 28 februari 2008, nr. WJZ 8024254, houdende aanwijzing van categorieën productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2008 (Regeling aanwijzing categorieën duurzame energieproductie 2008)

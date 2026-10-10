@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024699"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 27 oktober 2008, houdende de afwijking op een aantal onderdelen voor het personeel van de Kamers van Koophandel van de rechtspositieregels die gelden voor ambtenaren die zijn aangesteld bij ministeries (Rechtspositiebesluit Kamers van Koophandel)

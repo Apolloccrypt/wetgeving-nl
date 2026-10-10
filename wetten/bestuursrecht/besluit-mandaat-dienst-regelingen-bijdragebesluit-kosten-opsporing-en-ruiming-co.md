@@ -8,7 +8,7 @@ laatste_update: 2008-02-08
 status: geldig
 toestand: 2008-02-08
 bron: "https://wetten.overheid.nl/BWBR0023439"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit mandaat Dienst Regelingen Bijdragebesluit kosten opsporing en ruiming conventionele explosieven Tweede Wereldoorlog 2006

@@ -9,7 +9,7 @@ laatste_update: 2008-07-15
 status: geldig
 toestand: 2008-07-15
 bron: "https://wetten.overheid.nl/BWBR0024043"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 12 juni 2008 tot wijziging van de Wet op de architectentitel (uitvoering van de richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende erkenning van beroepskwalificaties (PbEU L 255) voor architecten, stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten alsmede enige andere wijzigingen)

@@ -9,7 +9,7 @@ laatste_update: 2008-11-01
 status: geldig
 toestand: 2008-11-01
 bron: "https://wetten.overheid.nl/BWBR0024622"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 11 september 2008, tot wijziging van de Ziektewet, van het Burgerlijk Wetboek en van enkele andere wetten in verband met het meldingsproces van een werknemer bij de ongeschiktheid tot het verrichten van arbeid en de sanctie voor de werkgever bij niet naleving van zijn verplichtingen in dit proces

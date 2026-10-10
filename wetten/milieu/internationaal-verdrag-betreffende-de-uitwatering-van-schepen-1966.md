@@ -8,7 +8,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBV0003267"
-opgehaald: 2026-09-13
+opgehaald: 2026-10-10
 ---
 
 # Internationaal Verdrag betreffende de uitwatering van schepen, 1966

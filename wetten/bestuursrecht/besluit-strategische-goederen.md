@@ -9,7 +9,7 @@ laatste_update: 2025-02-05
 status: geldig
 toestand: 2025-02-05
 bron: "https://wetten.overheid.nl/BWBR0024139"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 24 juni 2008, houdende regels ten aanzien van de in-, uit- en doorvoer van goederen voor tweeërlei gebruik en militaire goederen (Besluit strategische goederen)

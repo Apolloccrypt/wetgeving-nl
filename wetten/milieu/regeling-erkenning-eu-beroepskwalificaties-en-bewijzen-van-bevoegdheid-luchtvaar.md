@@ -9,7 +9,7 @@ laatste_update: 2016-01-23
 status: geldig
 toestand: 2016-01-23
 bron: "https://wetten.overheid.nl/BWBR0024135"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling inzake de erkenning van EG-beroepskwalificaties met betrekking tot de luchtvaart en de erkenning van buitenlandse bewijzen van bevoegdheid voor luchtverkeersleiders (Regeling erkenning EG-beroepskwalificaties en bewijzen van bevoegdheid voor de luchtvaart)

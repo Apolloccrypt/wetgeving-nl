@@ -9,7 +9,7 @@ laatste_update: 2008-02-01
 status: geldig
 toestand: 2008-02-01
 bron: "https://wetten.overheid.nl/BWBR0023406"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 januari 2008, Directie Arbeidsmarkt, nr. AM/BR/07/42258, houdende de vergoeding voorzitters en leden Nationaal Thematische Netwerken ESF EQUAL

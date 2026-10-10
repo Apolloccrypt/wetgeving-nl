@@ -9,7 +9,7 @@ laatste_update: 2008-04-26
 status: geldig
 toestand: 2008-04-26
 bron: "https://wetten.overheid.nl/BWBR0023784"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 17 april 2008, nr. DDI/ST/reg. 012/2008, houdende beperking van de openbaarheid van de archieven van de Nederlandse Ambassade (1955–1974) en het Consulaat-Generaal in Japan (1941–1974) van het Ministerie van Buitenlandse Zaken

@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0024317"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 5 juli 2008, houdende regels voor de medezeggenschap van het defensiepersoneel (Besluit medezeggenschap Defensie 2008)

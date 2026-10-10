@@ -8,7 +8,7 @@ laatste_update: 2025-10-30
 status: geldig
 toestand: 2025-10-30
 bron: "https://wetten.overheid.nl/BWBR0024797"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling tegemoetkoming rechtskundige hulp politie

@@ -9,7 +9,7 @@ laatste_update: 2008-02-10
 status: geldig
 toestand: 2008-02-10
 bron: "https://wetten.overheid.nl/BWBR0023444"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Staatssecretaris van Verkeer en Waterstaat houdende instelling van de Raad voor Deltaonderzoek

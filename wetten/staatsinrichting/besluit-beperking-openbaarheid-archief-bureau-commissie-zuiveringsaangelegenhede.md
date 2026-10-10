@@ -9,7 +9,7 @@ laatste_update: 2008-03-30
 status: geldig
 toestand: 2008-03-30
 bron: "https://wetten.overheid.nl/BWBR0023695"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Financiën van 7 maart 2008, nr. BenC 2008-534 M tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archief Bureau Commissie Zuiveringsaangelegenheden en taakopvolger(s) van het Ministerie van Financiën, (1936) 1945–1975 (1989)

@@ -9,7 +9,7 @@ laatste_update: 2009-02-28
 status: geldig
 toestand: 2009-02-28
 bron: "https://wetten.overheid.nl/BWBR0024611"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 9 oktober 2008 tot wijziging van enige bepalingen van Boek 1 van het Burgerlijk Wetboek met betrekking tot het geregistreerd partnerschap, de geslachtsnaam en het verkrijgen van gezamenlijk gezag

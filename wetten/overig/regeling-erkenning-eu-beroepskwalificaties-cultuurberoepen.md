@@ -9,7 +9,7 @@ laatste_update: 2016-09-09
 status: geldig
 toestand: 2016-09-09
 bron: "https://wetten.overheid.nl/BWBR0024253"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 11 juli 2008, nr. WJZ/32760 (4850), houdende regels in verband met de erkenning van EG-beroepskwalificaties voor cultuurberoepen (Regeling erkenning EG-beroepskwalificaties cultuurberoepen)

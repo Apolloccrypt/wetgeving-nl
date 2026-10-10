@@ -9,7 +9,7 @@ laatste_update: 2018-02-27
 status: geldig
 toestand: 2018-02-27
 bron: "https://wetten.overheid.nl/BWBR0024263"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van 9 juli 2008 van de Minister van Justitie, nr. 5552130/08, inhoudende de aanwijzing van hulpofficieren van Justitie

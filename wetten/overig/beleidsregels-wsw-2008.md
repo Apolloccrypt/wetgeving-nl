@@ -8,7 +8,7 @@ laatste_update: 2012-08-25
 status: geldig
 toestand: 2012-08-25
 bron: "https://wetten.overheid.nl/BWBR0023914"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Beleidsregels WSW 2008

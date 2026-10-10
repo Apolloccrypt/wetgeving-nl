@@ -9,7 +9,7 @@ laatste_update: 2008-01-19
 status: geldig
 toestand: 2008-01-19
 bron: "https://wetten.overheid.nl/BWBR0023351"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Financiën d.d. 13 december 2007, nr. BenC 2007-2260 M, Directie Bedrijfsvoering en Communicatie, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archief van de directie Financieringen, over de periode 1927–1994

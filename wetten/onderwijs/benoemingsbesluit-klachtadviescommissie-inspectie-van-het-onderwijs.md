@@ -9,7 +9,7 @@ laatste_update: 2014-05-02
 status: geldig
 toestand: 2014-05-02
 bron: "https://wetten.overheid.nl/BWBR0024598"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 11 september 2008, nr. FEZ/ART/40729, houdende de benoeming van drie leden van de klachtadviescommissie van de Inspectie van het onderwijs (Benoemingsbesluit klachtadviescommissie Inspectie van het onderwijs)

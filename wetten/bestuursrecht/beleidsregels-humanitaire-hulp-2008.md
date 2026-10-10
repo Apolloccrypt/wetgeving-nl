@@ -9,7 +9,7 @@ laatste_update: 2008-04-26
 status: geldig
 toestand: 2008-04-26
 bron: "https://wetten.overheid.nl/BWBR0023791"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 27 maart 2008, nr. DMV/HH-0058/08, tot vaststelling van beleidsregels voor subsidiëring van humanitaire hulp op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Beleidsregels Humanitaire Hulp 2008)

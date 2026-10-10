@@ -9,7 +9,7 @@ laatste_update: 2008-02-17
 status: geldig
 toestand: 2008-02-17
 bron: "https://wetten.overheid.nl/BWBR0023515"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Verordening van het Productschap Granen, Zaden en Peulvruchten van 18 december 2007, houdende regels ter zake van de aan de onder het Productschap Granen, Zaden en Peulvruchten ressorterende ondernemers op te leggen heffing voor het jaar 2008 (Verordening GZP financieringsheffing jaar 2008)

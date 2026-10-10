@@ -9,7 +9,7 @@ laatste_update: 2008-10-01
 status: geldig
 toestand: 2008-10-01
 bron: "https://wetten.overheid.nl/BWBR0024502"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 10 september 2008 houdende wijziging van het Reglement rijbewijzen in verband met de invoering van twee nieuwe educatieve maatregelen

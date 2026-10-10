@@ -8,7 +8,7 @@ laatste_update: 2008-11-27
 status: geldig
 toestand: 2008-11-27
 bron: "https://wetten.overheid.nl/BWBR0024737"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wijzigingsregeling Beleidsregels grote rivieren

@@ -9,7 +9,7 @@ laatste_update: 1868-04-19
 status: geldig
 toestand: 1868-04-19
 bron: "https://wetten.overheid.nl/BWBR0024679"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van den 26sten Maart 1868, houdende regeling van den overgang van adellijke titels bij regt van eerstgeboorte

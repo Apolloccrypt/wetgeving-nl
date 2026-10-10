@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0024461"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 26 augustus 2008, tot wijziging van het Besluit handel in emissierechten in verband met verlenging NOx-opt-out, aanscherping prestatienormen en enkele andere wijzigingen (Aanpassingsbesluit handel in emissierechten III)

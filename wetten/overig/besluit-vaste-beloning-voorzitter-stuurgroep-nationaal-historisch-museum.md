@@ -9,7 +9,7 @@ laatste_update: 2008-02-23
 status: geldig
 toestand: 2008-02-23
 bron: "https://wetten.overheid.nl/BWBR0023492"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 9 februari 2008, nr. 08.000428, houdende toekenning van een vaste beloning aan de voorzitter van de Stuurgroep Nationaal Historisch Museum (Besluit vaste beloning voorzitter Stuurgroep Nationaal Historisch Museum)

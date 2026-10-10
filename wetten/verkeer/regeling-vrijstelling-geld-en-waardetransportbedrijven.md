@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024799"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling houdende vrijstelling van enkele bepalingen van het Reglement verkeersregels en verkeerstekens 1990 ten behoeve van particuliere geld- en waardetransportbedrijven (Regeling vrijstelling geld- en waardetransportbedrijven)

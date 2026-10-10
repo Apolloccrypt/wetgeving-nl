@@ -9,7 +9,7 @@ laatste_update: 2008-12-10
 status: geldig
 toestand: 2008-12-10
 bron: "https://wetten.overheid.nl/BWBR0024787"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Klachtenregeling De Nederlandse Publieke Omroep, als bedoeld in Hoofdstuk 9 Algemene Wet Bestuursrecht

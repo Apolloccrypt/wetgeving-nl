@@ -9,7 +9,7 @@ laatste_update: 2008-11-01
 status: geldig
 toestand: 2008-11-01
 bron: "https://wetten.overheid.nl/BWBR0024495"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Sociale Verzekeringsbank te Amstelveen van 21 mei 2008, houdende beperking van de openbaarheid van het archief van de Vereniging van Raden van Arbeid over de periode 1919–1988. Bijlage bij de Verklaring van Overbrenging van het archief van de Vereniging van Raden van Arbeid 1919–1988

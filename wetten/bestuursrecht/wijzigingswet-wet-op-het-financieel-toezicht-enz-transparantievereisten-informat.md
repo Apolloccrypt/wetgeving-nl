@@ -9,7 +9,7 @@ laatste_update: 2016-01-29
 status: geldig
 toestand: 2016-01-29
 bron: "https://wetten.overheid.nl/BWBR0024716"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 25 september 2008 tot wijziging van de Wet op het financieel toezicht en enige andere wetten ter implementatie van richtlijn nr. 2004/109/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 390)

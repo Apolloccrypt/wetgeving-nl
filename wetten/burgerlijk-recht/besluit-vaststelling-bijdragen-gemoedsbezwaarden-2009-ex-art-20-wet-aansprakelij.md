@@ -8,7 +8,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024748"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling bijdragen gemoedsbezwaarden 2009 ex art. 20 Wet aansprakelijkheidsverzekering motorrijtuigen

@@ -9,7 +9,7 @@ laatste_update: 2009-08-01
 status: geldig
 toestand: 2009-08-01
 bron: "https://wetten.overheid.nl/BWBR0023926"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 29 mei 2008 tot wijziging van de Wet arbeid en zorg in verband met een uitkering aan zelfstandigen bij zwangerschap en bevalling en een verruiming van de periode voor deelname aan een vrijwillige verzekering in enkele socialezekerheidswetten (Wet zwangerschaps- en bevallingsuitkering zelfstandigen)

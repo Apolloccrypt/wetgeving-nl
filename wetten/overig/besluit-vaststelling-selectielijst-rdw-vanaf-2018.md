@@ -8,7 +8,7 @@ laatste_update: 2026-10-07
 status: geldig
 toestand: 2026-10-07
 bron: "https://wetten.overheid.nl/BWBR0053162"
-opgehaald: 2026-10-09
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst RDW vanaf 2018

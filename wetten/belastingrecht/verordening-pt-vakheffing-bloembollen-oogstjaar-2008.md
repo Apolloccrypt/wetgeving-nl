@@ -9,7 +9,7 @@ laatste_update: 2010-12-26
 status: geldig
 toestand: 2010-12-26
 bron: "https://wetten.overheid.nl/BWBR0024350"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 25 maart 2008, houdende de vaststelling van een aan telers van en handelaren in bloembollen op te leggen heffing voor het oogstjaar 2008 (Verordening PT vakheffing bloembollen oogstjaar 2008)

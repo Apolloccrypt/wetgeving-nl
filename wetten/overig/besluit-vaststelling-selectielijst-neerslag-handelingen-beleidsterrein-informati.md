@@ -8,7 +8,7 @@ laatste_update: 2008-08-21
 status: geldig
 toestand: 2008-08-21
 bron: "https://wetten.overheid.nl/BWBR0024373"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Informatie Beheer Groep vanaf 1994

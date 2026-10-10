@@ -9,7 +9,7 @@ laatste_update: 2011-07-01
 status: geldig
 toestand: 2011-07-01
 bron: "https://wetten.overheid.nl/BWBR0024090"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Beschikking van de Minister van Justitie van 19 juni 2008, nr. 5551529/08/DSP, houdende verlening van een vergunning tot het organiseren van een totalisator

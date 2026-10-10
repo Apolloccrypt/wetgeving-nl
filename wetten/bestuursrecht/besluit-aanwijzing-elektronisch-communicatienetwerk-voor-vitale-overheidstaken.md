@@ -9,7 +9,7 @@ laatste_update: 2026-01-17
 status: geldig
 toestand: 2026-01-17
 bron: "https://wetten.overheid.nl/BWBR0023354"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 14 januari 2008, nr. ET/TM/7135438, houdende aanwijzing van een elektronisch communicatienetwerk dat geheel of hoofdzakelijk gebruikt wordt voor vitale overheidstaken

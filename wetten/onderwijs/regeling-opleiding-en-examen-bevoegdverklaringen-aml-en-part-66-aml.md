@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0024639"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling houdende regels met betrekking tot opleidingen en examens ter verkrijging van bewijzen van bevoegdheid voor onderhoudstechnici (Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML)

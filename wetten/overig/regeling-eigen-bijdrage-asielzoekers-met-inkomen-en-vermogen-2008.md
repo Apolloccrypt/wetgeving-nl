@@ -9,7 +9,7 @@ laatste_update: 2025-11-01
 status: geldig
 toestand: 2025-11-01
 bron: "https://wetten.overheid.nl/BWBR0024733"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Justitie van 12 november 2008, nr. 5557004/08, houdende bepalingen met betrekking tot eigen bijdrage asielzoekers met inkomen en vermogen (regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008)

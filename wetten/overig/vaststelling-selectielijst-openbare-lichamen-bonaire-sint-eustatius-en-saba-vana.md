@@ -8,7 +8,7 @@ laatste_update: 2026-10-07
 status: geldig
 toestand: 2026-10-07
 bron: "https://wetten.overheid.nl/BWBR0053164"
-opgehaald: 2026-10-09
+opgehaald: 2026-10-10
 ---
 
 # Vaststelling selectielijst openbare lichamen Bonaire, Sint Eustatius en Saba vanaf 10 oktober 2010

@@ -8,7 +8,7 @@ laatste_update: 2008-08-01
 status: geldig
 toestand: 2008-08-01
 bron: "https://wetten.overheid.nl/BWBR0023961"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit aanwijzing en machtiging medewerkers Belastingdienst ex Wid en Wet MOT

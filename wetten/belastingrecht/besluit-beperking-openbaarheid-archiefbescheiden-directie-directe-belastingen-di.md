@@ -9,7 +9,7 @@ laatste_update: 2008-02-14
 status: geldig
 toestand: 2008-02-14
 bron: "https://wetten.overheid.nl/BWBR0023459"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Financiën van 30 november 2007, nr. BenC 2007-1468 M, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archiefbescheiden van de Directie Directe Belastingen van het Directoraat-Generaal der Belastingen, 1958–1989

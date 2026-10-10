@@ -9,7 +9,7 @@ laatste_update: 2026-03-01
 status: geldig
 toestand: 2026-03-01
 bron: "https://wetten.overheid.nl/BWBR0024188"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juli 2008, nr. MEVA/ABA/2860370, houdende regels voor het verstrekken van subsidie voor de tegemoetkoming in de kosten voor vaccinatie tegen Hepatitis B voor leerlingen in het zorgonderwijs (Subsidieregeling vaccinatie stageplaatsen zorg)

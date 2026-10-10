@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0024394"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 19 juni 2008, houdende regels voor een Inkomensvoorziening voor Oudere Werklozen (Wet inkomensvoorziening oudere werklozen)

@@ -9,7 +9,7 @@ laatste_update: 2021-01-01
 status: geldig
 toestand: 2021-01-01
 bron: "https://wetten.overheid.nl/BWBR0023396"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 januari 2008, nr. WJZ/2008/2011 (1603), houdende vaststelling van de lijst van gereglementeerde beroepen, bedoeld in artikel 27, eerste lid, van de Algemene wet erkenning EG-beroepskwalificaties (Regeling vaststelling lijst gereglementeerde beroepen)

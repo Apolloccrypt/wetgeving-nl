@@ -9,7 +9,7 @@ laatste_update: 2009-01-14
 status: geldig
 toestand: 2009-01-14
 bron: "https://wetten.overheid.nl/BWBR0023480"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 20 december 2007, houdende wijziging van de Gemeentewet in verband met de invoering van een bestuurlijke boete voor overtreding van een aantal voorschriften bepaald bij gemeentelijke verordening betreffende overlast in de openbare ruimte (Wet bestuurlijke boete overlast in de openbare ruimte)

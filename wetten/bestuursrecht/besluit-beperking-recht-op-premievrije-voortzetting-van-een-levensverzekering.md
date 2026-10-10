@@ -9,7 +9,7 @@ laatste_update: 2008-06-04
 status: geldig
 toestand: 2008-06-04
 bron: "https://wetten.overheid.nl/BWBR0023920"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 22 mei 2008 tot beperking van het recht op premievrije voortzetting van een levensverzekering

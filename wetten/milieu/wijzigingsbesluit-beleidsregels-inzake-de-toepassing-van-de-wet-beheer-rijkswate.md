@@ -9,7 +9,7 @@ laatste_update: 2008-04-09
 status: geldig
 toestand: 2008-04-09
 bron: "https://wetten.overheid.nl/BWBR0023735"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 1 april 2008, nr. CenD/HDJZ/2008/435, Hoofddirectie Juridische Zaken, houdende wijziging van de Beleidsregels inzake de toepassing van de Wet beheer rijkswaterstaatswerken op installaties in de exclusieve economische zone

@@ -9,7 +9,7 @@ laatste_update: 2008-08-01
 status: geldig
 toestand: 2008-08-01
 bron: "https://wetten.overheid.nl/BWBR0023760"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Justitie van 10 april 2008, nr. 5538388, tot wijziging van de Regeling verkrijging en verlies Nederlanderschap van 13 maart 2003

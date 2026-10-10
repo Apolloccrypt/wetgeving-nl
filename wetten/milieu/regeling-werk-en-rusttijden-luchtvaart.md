@@ -9,7 +9,7 @@ laatste_update: 2008-07-19
 status: geldig
 toestand: 2008-07-19
 bron: "https://wetten.overheid.nl/BWBR0024175"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Ministers van Verkeer en Waterstaat en van Sociale Zaken en Werkgelegenheid, houdende regels ter uitvoering van het Arbeidstijdenbesluit vervoer (Regeling werk- en rusttijden luchtvaart)

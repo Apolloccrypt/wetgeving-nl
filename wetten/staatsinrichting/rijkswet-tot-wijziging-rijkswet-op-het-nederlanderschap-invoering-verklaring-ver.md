@@ -9,7 +9,7 @@ laatste_update: 2009-03-01
 status: geldig
 toestand: 2009-03-01
 bron: "https://wetten.overheid.nl/BWBR0024168"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Rijkswet van 27 juni 2008 tot wijziging van de Rijkswet op het Nederlanderschap ter invoering van een verklaring van verbondenheid, en tot aanpassing van de regeling van de verkrijging van het Nederlanderschap na erkenning

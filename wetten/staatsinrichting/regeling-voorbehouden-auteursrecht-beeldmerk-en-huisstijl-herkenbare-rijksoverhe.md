@@ -9,7 +9,7 @@ laatste_update: 2008-08-07
 status: geldig
 toestand: 2008-08-07
 bron: "https://wetten.overheid.nl/BWBR0024004"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van 16 juni 2008, houdende het voorbehouden door de Staat der Nederlanden (Ministerie van Algemene Zaken) van het auteursrecht op het beeldmerk en de huisstijl voor het gebruik van het beeldmerk die zullen worden gebruikt ten behoeve van het ontwikkelen van een herkenbare Rijksoverheid

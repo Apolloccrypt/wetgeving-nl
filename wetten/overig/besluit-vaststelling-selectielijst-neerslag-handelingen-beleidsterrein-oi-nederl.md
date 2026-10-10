@@ -8,7 +8,7 @@ laatste_update: 2008-07-10
 status: geldig
 toestand: 2008-07-10
 bron: "https://wetten.overheid.nl/BWBR0024141"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein O&I Nederlandse Stay behind-organisatie in de Koude Oorlog, 1945–1994 (Minister van Algemene Zaken)

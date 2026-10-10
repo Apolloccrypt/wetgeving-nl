@@ -9,7 +9,7 @@ laatste_update: 2008-05-11
 status: geldig
 toestand: 2008-05-11
 bron: "https://wetten.overheid.nl/BWBR0023843"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 22 april 2008, nr. WJZ/2008/7091 (2663), tot wijziging van de Subsidieregeling kinderopvang in verband met de vaststelling van aanvraagtijdvakken, subsidieplafonds en thema’s voor het jaar 2008 en in verband met de toepasselijkheid van de Wet overige OCW-subsidies en wijziging van de Regeling Wet kinderopvang in verband met de vaststelling van het gemeentelijk jaarverslag

@@ -9,7 +9,7 @@ laatste_update: 2008-09-07
 status: geldig
 toestand: 2008-09-07
 bron: "https://wetten.overheid.nl/BWBR0024567"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw d.d. 1 juli 2008, houdende vaststelling van het tarief van de heffing inzake export van groenten en fruit naar Japan en Taiwan (Besluit PT heffing export groenten en fruit Japan en Taiwan 2008)

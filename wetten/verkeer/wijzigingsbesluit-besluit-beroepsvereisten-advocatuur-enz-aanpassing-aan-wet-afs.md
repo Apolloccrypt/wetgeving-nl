@@ -9,7 +9,7 @@ laatste_update: 2008-09-01
 status: geldig
 toestand: 2008-09-01
 bron: "https://wetten.overheid.nl/BWBR0024154"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 3 juli 2008 tot aanpassing van enige besluiten aan de Wet afschaffing procuraat en invoering elektronisch berichtenverkeer

@@ -9,7 +9,7 @@ laatste_update: 2008-05-29
 status: geldig
 toestand: 2008-05-29
 bron: "https://wetten.overheid.nl/BWBR0023887"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 21 mei 2008, nr. DDI/ST/reg. 036/2008, houdende beperking van de openbaarheid van het archief van het consulaat-generaal te Singapore 1945–1954

@@ -9,7 +9,7 @@ laatste_update: 2008-10-19
 status: geldig
 toestand: 2008-10-19
 bron: "https://wetten.overheid.nl/BWBR0024619"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 oktober 2008, nr. DDI/ST/reg. 040/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Consulaat (1953–1962) en de Ambassade (1962–1974) in Ivoorkust van het Ministerie van Buitenlandse Zaken

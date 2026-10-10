@@ -9,7 +9,7 @@ laatste_update: 2008-01-24
 status: geldig
 toestand: 2008-01-24
 bron: "https://wetten.overheid.nl/BWBR0023366"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 18 januari 2008, nr. AV/IR/2008/1568, houdende instelling van de commissie Arbeidsparticipatie (Instellingsbesluit commissie Arbeidsparticipatie)

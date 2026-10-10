@@ -9,7 +9,7 @@ laatste_update: 2008-10-01
 status: geldig
 toestand: 2008-10-01
 bron: "https://wetten.overheid.nl/BWBR0024518"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling houdende vaststelling van de eisen rijgedrag (Regeling eisen rijgedrag)

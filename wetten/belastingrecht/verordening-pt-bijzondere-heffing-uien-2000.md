@@ -9,7 +9,7 @@ laatste_update: 2008-01-12
 status: geldig
 toestand: 2008-01-12
 bron: "https://wetten.overheid.nl/BWBR0023363"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Verordening van het Productschap Tuinbouw van 25 september 2001, houdende de vaststelling van een bestemmingsheffing ten behoeve van de teelt van uien voor het jaar 2000

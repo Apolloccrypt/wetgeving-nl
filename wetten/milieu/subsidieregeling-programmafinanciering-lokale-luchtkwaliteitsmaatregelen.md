@@ -9,7 +9,7 @@ laatste_update: 2011-11-02
 status: geldig
 toestand: 2011-11-02
 bron: "https://wetten.overheid.nl/BWBR0024593"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 oktober 2008, nr. BREM2008094427, houdende regels met betrekking tot de programmafinanciering van lokale luchtkwaliteitsmaatregelen (Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen)

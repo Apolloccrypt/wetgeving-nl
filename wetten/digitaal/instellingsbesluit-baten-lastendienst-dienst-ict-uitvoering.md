@@ -9,7 +9,7 @@ laatste_update: 2008-03-15
 status: geldig
 toestand: 2008-03-15
 bron: "https://wetten.overheid.nl/BWBR0023629"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Financiën van 18 februari 2008, nr. TRCJZ/2008/270, houdende instelling van de baten-lastendienst Dienst ICT Uitvoering

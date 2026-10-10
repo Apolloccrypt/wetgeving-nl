@@ -9,7 +9,7 @@ laatste_update: 2008-07-24
 status: geldig
 toestand: 2008-07-24
 bron: "https://wetten.overheid.nl/BWBR0024211"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 10 juli 2008, nr. DDI/ST/reg. 014/2008, houdende beperking van de openbaarheid van de archieven van de Nederlandse Ambassade (1955–1964) en het Consulaat-Generaal (1955–1974) in België van het Ministerie van Buitenlandse Zaken

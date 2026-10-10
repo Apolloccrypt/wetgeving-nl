@@ -9,7 +9,7 @@ laatste_update: 2005-07-01
 status: geldig
 toestand: 2005-07-01
 bron: "https://wetten.overheid.nl/BWBR0018470"
-opgehaald: 2026-10-09
+opgehaald: 2026-10-10
 ---
 
 # Wet van 23 juni 2005 tot wijziging van de Wet toezicht effectenverkeer 1995 ter implementatie van richtlijn nr. 2003/71/EG van het Europees Parlement en de Raad van de Europese Unie van 4 november 2003 betreffende het prospectus dat gepubliceerd moet worden wanneer effecten aan het publiek worden aangeboden of tot de handel worden toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 345) en tot uitvoering van verordening nr. 809/2004 van de Commissie van de Europese Gemeenschappen van 29 april 2004 tot uitvoering van Richtlijn 2003/71/EG van het Europees Parlement en de Raad wat de in het prospectus te verstrekken informatie, de vormgeving van het prospectus, de opneming van informatie door middel van verwijzing, de publicatie van het prospectus en de verspreiding van advertenties betreft (PbEU L 149)

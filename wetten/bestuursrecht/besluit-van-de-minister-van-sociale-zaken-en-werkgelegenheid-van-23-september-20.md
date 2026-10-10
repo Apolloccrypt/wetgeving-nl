@@ -9,7 +9,7 @@ laatste_update: 2026-10-03
 status: geldig
 toestand: 2026-10-03
 bron: "https://wetten.overheid.nl/BWBR0053158"
-opgehaald: 2026-10-09
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 23 september 2026, nr. 2026-0000314674, houdende de aanwijzing van elektronische kanalen voor het indienen van berichten in de zin van artikel 2:13, tweede lid, van de Algemene wet bestuursrecht bij de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden van het Ministerie van Sociale Zaken en Werkgelegenheid (Aanwijzingsbesluit elektronische kanalen WBJA SZW 2026)

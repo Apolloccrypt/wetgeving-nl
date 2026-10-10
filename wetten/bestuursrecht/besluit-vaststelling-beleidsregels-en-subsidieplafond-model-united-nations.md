@@ -9,7 +9,7 @@ laatste_update: 2008-02-28
 status: geldig
 toestand: 2008-02-28
 bron: "https://wetten.overheid.nl/BWBR0023541"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 20 februari 2008, nr. DJZ/BR-0129/08, tot vaststelling van beleidsregels alsmede een plafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Beleidsregels en subsidieplafond Model United Nations)

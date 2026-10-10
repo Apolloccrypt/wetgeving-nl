@@ -9,7 +9,7 @@ laatste_update: 2008-12-03
 status: geldig
 toestand: 2008-12-03
 bron: "https://wetten.overheid.nl/BWBR0024764"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 18 november 2008, nr. DDI/ST/reg. 066/2008, houdende beperking van de openbaarheid van het archief van de Nederlandse Ambassade in Ethiopië van het Ministerie van Buitenlandse Zaken, 1965–1974

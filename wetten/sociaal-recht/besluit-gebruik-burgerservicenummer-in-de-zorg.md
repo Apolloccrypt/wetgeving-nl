@@ -9,7 +9,7 @@ laatste_update: 2025-03-01
 status: geldig
 toestand: 2025-03-01
 bron: "https://wetten.overheid.nl/BWBR0023902"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 23 mei 2008, houdende regels voor het gebruik van het burgerservicenummer in de zorgsector (Besluit gebruik burgerservicenummer in de zorg)

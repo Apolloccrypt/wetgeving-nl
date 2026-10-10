@@ -9,7 +9,7 @@ laatste_update: 2017-01-01
 status: geldig
 toestand: 2017-01-01
 bron: "https://wetten.overheid.nl/BWBR0024324"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 26 juli 2008 tot uitvoering van artikel 41 van Richtlijn nr. 2006/43/EG van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de Richtlijnen nr. 78/660/EEG en nr. 83/349/EEG van de Raad van de Europese Gemeenschappen en houdende intrekking van Richtlijn nr. 84/253/EEG van de Raad van de Europese Gemeenschappen

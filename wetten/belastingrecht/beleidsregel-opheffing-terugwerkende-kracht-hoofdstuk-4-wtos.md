@@ -8,7 +8,7 @@ laatste_update: 2008-10-25
 status: geldig
 toestand: 2008-10-25
 bron: "https://wetten.overheid.nl/BWBR0024632"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Beleidsregel Opheffing terugwerkende kracht Hoofdstuk 4 WTOS

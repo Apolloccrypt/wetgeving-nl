@@ -9,7 +9,7 @@ laatste_update: 2008-11-07
 status: geldig
 toestand: 2008-11-07
 bron: "https://wetten.overheid.nl/BWBR0024668"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Economische Zaken van 27 oktober 2008, nr. WJZ/8141254, tot vaststelling van een beleidsregel inzake het beëindigen van het verstrekken van financiële bijdragen ten behoeve van de vervaardiging, verwerving of uitzending van omroepprogramma’s (EZ-beleidsregel beëindiging verstrekking financiële bijdragen aan omroepprogramma’s)

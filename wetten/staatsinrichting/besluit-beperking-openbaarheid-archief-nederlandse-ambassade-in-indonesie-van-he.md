@@ -9,7 +9,7 @@ laatste_update: 2008-07-23
 status: geldig
 toestand: 2008-07-23
 bron: "https://wetten.overheid.nl/BWBR0024228"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 10 juli 2008, nr. DDI/ST/reg. 022/2008, houdende beperking van de openbaarheid van het archief van de Nederlandse Ambassade in Indonesië van het Ministerie van Buitenlandse Zaken, 1962–1974

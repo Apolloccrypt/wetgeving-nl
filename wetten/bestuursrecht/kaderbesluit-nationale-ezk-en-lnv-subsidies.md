@@ -9,7 +9,7 @@ laatste_update: 2021-03-09
 status: geldig
 toestand: 2021-03-09
 bron: "https://wetten.overheid.nl/BWBR0024796"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 21 november 2008, houdende regels voor het verstrekken van subsidies door de Minister van Economische Zaken op het gebied van het technologiebeleid, het beleid met betrekking tot het midden- en kleinbedrijf en het ruimtelijk economisch beleid (Kaderbesluit EZ-subsidies)

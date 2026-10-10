@@ -9,7 +9,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0024539"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 september 2008, nr. TRCJZ/2007/3190, houdende samenvoeging en vereenvoudiging van diverse regelingen op het gebied van de visserij (Uitvoeringsregeling visserij)

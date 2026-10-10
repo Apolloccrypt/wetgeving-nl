@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0024694"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 1 november 2008, nr. DAO-699/08, tot vaststelling van een subsidieplafond voor subsidiëring van activiteiten op het gebied van Human Resources Development ten behoeve van China (Azië-faciliteit voor China)

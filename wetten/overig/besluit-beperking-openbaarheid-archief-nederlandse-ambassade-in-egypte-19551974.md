@@ -9,7 +9,7 @@ laatste_update: 2008-02-23
 status: geldig
 toestand: 2008-02-23
 bron: "https://wetten.overheid.nl/BWBR0023507"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 13 februari 2008, nr. DDI/ST/reg. 003/2008, houdende beperking van de openbaarheid van het archief van de Nederlandse ambassade in Egypte van het Ministerie van Buitenlandse Zaken, 1955–1974

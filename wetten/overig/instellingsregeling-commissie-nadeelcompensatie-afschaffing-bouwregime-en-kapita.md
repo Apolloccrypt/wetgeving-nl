@@ -9,7 +9,7 @@ laatste_update: 2008-03-20
 status: geldig
 toestand: 2008-03-20
 bron: "https://wetten.overheid.nl/BWBR0023641"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 maart 2008, nr. CZ/TSZ/2836063, houdende de instelling van de commissie nadeelcompensatie afschaffing bouwregime waaronder nacalculatie gebouwgebonden kapitaallasten van ziekenhuizen

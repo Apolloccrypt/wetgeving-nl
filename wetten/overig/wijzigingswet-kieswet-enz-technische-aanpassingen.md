@@ -9,7 +9,7 @@ laatste_update: 2008-12-01
 status: geldig
 toestand: 2008-12-01
 bron: "https://wetten.overheid.nl/BWBR0024610"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Wet van 25 september 2008 tot wijziging van de Kieswet en enkele andere wetten houdende enkele technische aanpassingen

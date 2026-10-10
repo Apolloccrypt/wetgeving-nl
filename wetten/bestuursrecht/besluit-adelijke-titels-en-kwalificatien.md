@@ -9,7 +9,7 @@ laatste_update: 1822-03-01
 status: geldig
 toestand: 1822-03-01
 bron: "https://wetten.overheid.nl/BWBR0024508"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Besluit van den 26sten Januari 1822, betreffende de adelijke titels en kwalificatien

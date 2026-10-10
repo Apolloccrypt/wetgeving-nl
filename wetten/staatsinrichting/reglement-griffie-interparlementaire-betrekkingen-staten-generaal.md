@@ -9,7 +9,7 @@ laatste_update: 2020-01-28
 status: geldig
 toestand: 2020-01-28
 bron: "https://wetten.overheid.nl/BWBR0024419"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Reglement voor de Griffie interparlementaire betrekkingen der Staten-Generaal

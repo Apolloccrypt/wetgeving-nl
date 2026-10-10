@@ -9,7 +9,7 @@ laatste_update: 2008-08-01
 status: geldig
 toestand: 2008-08-01
 bron: "https://wetten.overheid.nl/BWBR0024297"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2008, nr. WJZ/34454 (2661), houdende intrekking van diverse regelingen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap in verband met het feit dat deze hun betekenis hebben verloren (OCW-intrekkingsregeling 2008)

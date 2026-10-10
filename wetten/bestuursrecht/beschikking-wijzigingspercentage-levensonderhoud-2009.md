@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024715"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-10
 ---
 
 # Beschikking van de Minister van Justitie van 7 november 2008, nr. 5572475/08/6, tot vaststelling van het percentage waarmee de bedragen voor levensonderhoud met ingang van 1 januari 2009 worden verhoogd (Beschikking wijzigingspercentage levensonderhoud 2009)

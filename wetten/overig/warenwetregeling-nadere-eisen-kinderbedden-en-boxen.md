@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0024262"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 16 juli 2008, nr. VGP/PSL 2862172, houdende aanwijzing van nadere eisen betreffende de veiligheid van kinderbedden en -boxen gebruikt in de kinderopvang en van nadere eisen voor te gebruiken methoden van onderzoek (Warenwetregeling nadere eisen kinderbedden en -boxen kinderopvang)

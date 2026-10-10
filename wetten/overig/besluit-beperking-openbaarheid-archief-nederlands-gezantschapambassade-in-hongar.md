@@ -9,7 +9,7 @@ laatste_update: 2008-02-23
 status: geldig
 toestand: 2008-02-23
 bron: "https://wetten.overheid.nl/BWBR0023501"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 13 februari 2008, nr. DDI/ST/reg. 006/2008, houdende beperking van de openbaarheid van het archief van het Nederlands gezantschap, later de ambassade in Hongarije van het Ministerie van Buitenlandse Zaken, 1946–1974

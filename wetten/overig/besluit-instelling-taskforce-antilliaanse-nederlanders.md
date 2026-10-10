@@ -9,7 +9,7 @@ laatste_update: 2008-02-22
 status: geldig
 toestand: 2008-02-22
 bron: "https://wetten.overheid.nl/BWBR0023489"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van de Minister voor Wonen, Wijken en Integratie van 6 februari 2008, nr. DGW/I&I20086274, tot instelling van de Taskforce Antilliaanse Nederlanders

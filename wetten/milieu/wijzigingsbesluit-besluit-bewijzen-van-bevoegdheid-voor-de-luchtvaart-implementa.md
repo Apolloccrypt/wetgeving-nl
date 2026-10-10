@@ -9,7 +9,7 @@ laatste_update: 2008-03-05
 status: geldig
 toestand: 2008-03-05
 bron: "https://wetten.overheid.nl/BWBR0023564"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Besluit van 8 februari 2008 tot wijziging van het Besluit bewijzen van bevoegdheid voor de luchtvaart in verband met de implementatie van Europese luchtvaartvoorschriften JAR-FCL 1 en JAR-FCL 2 van de Joint Aviation Authorities, Bijlage 1 bij het Verdrag inzake de internationale Burgerluchtvaart (Trb. 1973, 109) en Verordening (EG) nr. 2042/2003 (PbEU L 315), met betrekking tot luchtvarenden en onderhoudstechnici

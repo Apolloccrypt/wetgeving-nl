@@ -9,7 +9,7 @@ laatste_update: 2008-03-26
 status: geldig
 toestand: 2008-03-26
 bron: "https://wetten.overheid.nl/BWBR0023650"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Wet van 13 maart 2008 tot herstel van wetstechnische gebreken en leemten alsmede aanbrenging van andere wijzigingen van ondergeschikte aard in diverse wetsbepalingen op het terrein van het ministerie van Justitie (Reparatiewet III Justitie)

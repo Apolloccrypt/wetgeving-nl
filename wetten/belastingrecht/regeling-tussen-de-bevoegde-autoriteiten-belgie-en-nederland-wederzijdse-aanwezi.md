@@ -8,7 +8,7 @@ laatste_update: 2008-04-01
 status: geldig
 toestand: 2008-04-01
 bron: "https://wetten.overheid.nl/BWBR0023781"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling tussen de bevoegde autoriteiten België en Nederland (wederzijdse aanwezigheid belastingambtenaren)

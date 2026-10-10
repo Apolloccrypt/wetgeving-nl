@@ -9,7 +9,7 @@ laatste_update: 2008-02-01
 status: geldig
 toestand: 2008-02-01
 bron: "https://wetten.overheid.nl/BWBR0023365"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Regeling van de Minister van Justitie van 16 januari 2008, nr. 5525695/08, tot wijziging van enkele ministeriële regelingen in verband met de invoering van de Wet OM-afdoening (Regeling OM-afdoening)

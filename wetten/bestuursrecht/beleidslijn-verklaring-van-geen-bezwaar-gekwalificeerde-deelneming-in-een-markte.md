@@ -9,7 +9,7 @@ laatste_update: 2008-02-07
 status: geldig
 toestand: 2008-02-07
 bron: "https://wetten.overheid.nl/BWBR0023446"
-opgehaald: 2026-08-12
+opgehaald: 2026-10-10
 ---
 
 # Beleidslijn van de Minister van Financiën inzake de aanvraag of verlening van een verklaring van geen bezwaar voor een gekwalificeerde deelneming in een marktexploitant op grond van artikel 5:32d Wft
