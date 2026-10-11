@@ -9,7 +9,7 @@ laatste_update: 2009-01-21
 status: geldig
 toestand: 2009-01-21
 bron: "https://wetten.overheid.nl/BWBR0025191"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Sociale Verzekeringsbank, tot verlening van mandaat aan de Chefs de Postes met betrekking tot het in spoedgevallen uitkeren van bijzondere bijstand in het kader van de uitvoering van de WWB in het buitenland

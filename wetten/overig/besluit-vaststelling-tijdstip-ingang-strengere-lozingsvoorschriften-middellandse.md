@@ -9,7 +9,7 @@ laatste_update: 2009-06-01
 status: geldig
 toestand: 2009-06-01
 bron: "https://wetten.overheid.nl/BWBR0025789"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit tot vaststelling van het tijdstip met ingang waarvan de strengere lozingsvoorschriften voor het gebied van de Middellandse Zee gaan gelden

@@ -9,7 +9,7 @@ laatste_update: 2009-08-01
 status: geldig
 toestand: 2009-08-01
 bron: "https://wetten.overheid.nl/BWBR0025957"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Raad van Bestuur van Sociale verzekeringsbank te Amstelveen, houdende beperking van de openbaarheid van het archief van het FVP over de periode 1972–1998 (als bedoeld in artikel 10 van het Archiefbesluit 1995)

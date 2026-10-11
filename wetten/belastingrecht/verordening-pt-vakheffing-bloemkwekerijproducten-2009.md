@@ -9,7 +9,7 @@ laatste_update: 2010-07-25
 status: geldig
 toestand: 2010-07-25
 bron: "https://wetten.overheid.nl/BWBR0025121"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van i juli 2008, houdende de vaststelling van een vakheffing voor bloemkwekerijproducten voor het jaar 2009 (Verordening PT vakheffing bloemkwekerijproducten 2009)

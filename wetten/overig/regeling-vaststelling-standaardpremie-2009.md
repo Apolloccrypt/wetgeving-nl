@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024931"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2008, nr. Z/F-2897495, houdende vaststelling van de standaardpremie 2009 (Regeling vaststelling standaardpremie 2009)

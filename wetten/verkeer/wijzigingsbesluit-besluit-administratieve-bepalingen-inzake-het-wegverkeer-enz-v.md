@@ -9,7 +9,7 @@ laatste_update: 2009-03-01
 status: geldig
 toestand: 2009-03-01
 bron: "https://wetten.overheid.nl/BWBR0025140"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 8 december 2008, houdende wijziging van het Besluit administratieve bepalingen inzake het wegverkeer, het Reglement verkeersregels en verkeerstekens 1990 en het Voertuigreglement in verband met wijzigingen op het gebied van verkeersregelaars alsmede enkele technische wijzigingen

@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0026129"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Defensie houdende instelling van het Insigne voor Optreden onder Gevechtsomstandigheden (Besluit Insigne voor Optreden onder Gevechtsomstandigheden)

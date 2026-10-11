@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0025728"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 3 april 2009, nr. DGR/LOK/2009021660, tot wijziging van de Regeling beoordeling reinigbaarheid grond 2006

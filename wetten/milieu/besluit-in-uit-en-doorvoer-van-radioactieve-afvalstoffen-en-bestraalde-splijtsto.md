@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0025680"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 27 maart 2009, houdende implementatie van richtlijn nr. 2006/117/Euratom van de Raad van de Europese Unie van 20 november 2006 betreffende toezicht en controle op overbrenging van radioactieve afvalstoffen en bestraalde splijtstof (PbEU L 337) en intrekking van het Besluit in-, uit- en doorvoer van radioactieve afvalstoffen (Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen)

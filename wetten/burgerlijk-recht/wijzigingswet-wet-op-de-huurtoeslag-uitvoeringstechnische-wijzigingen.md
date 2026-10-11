@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0025562"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 12 maart 2009 tot wijziging van de Wet op de huurtoeslag (uitvoeringstechnische wijzigingen)

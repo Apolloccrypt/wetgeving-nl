@@ -9,7 +9,7 @@ laatste_update: 2009-08-01
 status: geldig
 toestand: 2009-08-01
 bron: "https://wetten.overheid.nl/BWBR0026196"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 18 juli 2009 tot wijziging van de in de Wet op het financieel toezicht en enige andere wetten opgenomen regels met betrekking tot de uitoefening van de bevoegdheid tot het opleggen van een bestuurlijke boete (Wet wijziging boetestelsel financiële wetgeving)

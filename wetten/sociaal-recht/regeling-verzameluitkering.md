@@ -9,7 +9,7 @@ laatste_update: 2022-08-31
 status: geldig
 toestand: 2022-08-31
 bron: "https://wetten.overheid.nl/BWBR0025902"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 19 mei 2009, nr. 2009-0000267938, houdende nadere regels over de verzameluitkering (Regeling verzameluitkering)

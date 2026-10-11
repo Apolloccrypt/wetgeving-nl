@@ -9,7 +9,7 @@ laatste_update: 2009-05-22
 status: geldig
 toestand: 2009-05-22
 bron: "https://wetten.overheid.nl/BWBR0025853"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 27 april 2009, nr. DDI/ST/reg. 014/2009, houdende beperking van de openbaarheid van het archief van de Decoratiecommissie uit de Raad van Minister van het Ministerie van Buitenlandse Zaken 1946–1995

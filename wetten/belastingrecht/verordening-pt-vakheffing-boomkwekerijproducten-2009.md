@@ -9,7 +9,7 @@ laatste_update: 2008-11-16
 status: geldig
 toestand: 2008-11-16
 bron: "https://wetten.overheid.nl/BWBR0025125"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2008, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2009)

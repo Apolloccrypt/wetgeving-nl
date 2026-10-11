@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026062"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 2 juli 2009 tot wijziging van de Ziektewet om in geval van ziekte in de vijf jaren na aanvang van de dienstbetrekking ziekengeld uit te keren aan langdurig zieke oudere werknemers indien voorafgaand aan de dienstbetrekking sprake was van werkloosheid van ten minste 52 weken (Tijdelijke wet compensatieregeling loonkosten bij ziekte van oudere en voormalig langdurig werklozen)

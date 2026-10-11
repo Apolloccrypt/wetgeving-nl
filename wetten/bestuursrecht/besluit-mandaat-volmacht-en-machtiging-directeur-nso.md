@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-07-06
 toestand: 2010-02-17
 bron: "https://wetten.overheid.nl/BWBR0026109"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Economische Zaken, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister en Staatssecretaris van Verkeer en Waterstaat, het Algemeen Bestuur van NWO en het NWO Gebiedsbestuur Aard- en Levenswetenschappen van 8 juni 2009, nr. WJZ/9098704, houdende regels inzake mandaat, volmacht en machtiging aan de directeur NSO inzake aangelegenheden van het Netherlands Space Office (Besluit mandaat, volmacht en machtiging directeur NSO)

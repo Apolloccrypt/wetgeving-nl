@@ -9,7 +9,7 @@ laatste_update: 2022-02-01
 status: geldig
 toestand: 2022-02-01
 bron: "https://wetten.overheid.nl/BWBR0025843"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 28 april 2009, nr. BVE/Stelsel/111464 houdende nadere regels voor de samenvoeging of splitsing van bekostigde instellingen in het Beroepsonderwijs en de Volwassenen Educatie (BVE) en samenvoeging van een agrarisch opleidingscentrum met een school voor voorbereidend beroepsonderwijs in de sector landbouw (Regeling fusie- en splitsingstoets BVE)

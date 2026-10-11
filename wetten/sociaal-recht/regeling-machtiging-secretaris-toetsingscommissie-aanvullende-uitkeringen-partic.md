@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0025490"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 februari 2009, nr. IVV/FB/2009/3720, houdende de machtiging van de secretaris van de toetsingscommissie, bedoeld in artikel 73 van de Wet werk en bijstand

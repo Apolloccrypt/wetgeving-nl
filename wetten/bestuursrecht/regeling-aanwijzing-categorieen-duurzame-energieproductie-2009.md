@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0025570"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Economische Zaken van 16 maart 2009, nr. WJZ/9051027, houdende aanwijzing van categorieën productie-installaties voor de stimulering van duurzame energieproductie in het jaar 2009 (Regeling aanwijzing categorieën duurzame energieproductie 2009)

@@ -8,7 +8,7 @@ laatste_update: 2009-01-11
 status: geldig
 toestand: 2009-01-11
 bron: "https://wetten.overheid.nl/BWBR0025137"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit beperkende bepalingen openbaarheid archiefbescheiden archief afdeling Kabinet 1945–1991

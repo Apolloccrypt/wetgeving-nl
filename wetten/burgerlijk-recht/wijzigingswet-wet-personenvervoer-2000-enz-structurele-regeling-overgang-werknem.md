@@ -9,7 +9,7 @@ laatste_update: 2009-12-31
 status: geldig
 toestand: 2009-12-31
 bron: "https://wetten.overheid.nl/BWBR0026220"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 18 juli 2009 tot wijziging van de Wet personenvervoer 2000 in verband met de structurele regeling van de overgang van werknemers bij de overgang van een concessie voor openbaar vervoer alsmede van de Spoorwegwet in verband met de begrenzing van stamlijnen

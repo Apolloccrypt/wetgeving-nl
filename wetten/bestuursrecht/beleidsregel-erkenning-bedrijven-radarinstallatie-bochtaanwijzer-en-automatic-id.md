@@ -9,7 +9,7 @@ laatste_update: 2008-12-25
 status: geldig
 toestand: 2008-12-25
 bron: "https://wetten.overheid.nl/BWBR0024971"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Beleidsregel betreffende de erkenning van bedrijven bevoegd tot inbouw, vervanging en de controle van het functioneren van een radarinstallatie, bochtaanwijzer en Automatic Identification System (Beleidsregel erkenning bedrijven radarinstallatie, bochtaanwijzer en Automatic Identification System)

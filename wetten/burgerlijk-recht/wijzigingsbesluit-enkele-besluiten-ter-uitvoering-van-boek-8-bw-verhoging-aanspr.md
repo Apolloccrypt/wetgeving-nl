@@ -9,7 +9,7 @@ laatste_update: 2009-03-01
 status: geldig
 toestand: 2009-03-01
 bron: "https://wetten.overheid.nl/BWBR0024808"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 24 november 2008 tot wijziging van enkele besluiten ter uitvoering van Boek 8 van het Burgerlijk Wetboek in verband met verhoging van de aansprakelijkheidslimiet in het binnenlands personenvervoer

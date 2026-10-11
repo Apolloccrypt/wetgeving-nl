@@ -9,7 +9,7 @@ laatste_update: 2009-06-10
 status: geldig
 toestand: 2009-06-10
 bron: "https://wetten.overheid.nl/BWBR0025925"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 29 mei 2009 tot wijziging van de Uitvoeringswet EG-betekeningsverordening ter uitvoering van Verordening (EG) nr. 1393/2007 van het Europees Parlement en de Raad van 13 november 2007 inzake de betekening en de kennisgeving in de lidstaten van gerechtelijke en buitengerechtelijke stukken in burgerlijke of in handelszaken («de betekening en de kennisgeving van stukken»), en tot intrekking van Verordening (EG) nr. 1348/2000 (PbEU L 324/79)

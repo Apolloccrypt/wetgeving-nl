@@ -8,7 +8,7 @@ laatste_update: 2009-06-14
 status: geldig
 toestand: 2009-06-14
 bron: "https://wetten.overheid.nl/BWBR0025942"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Raden voor Rechtshulp vanaf 1994

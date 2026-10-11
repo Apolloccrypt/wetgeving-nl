@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0026027"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 25 juni 2009, houdende aanpassing van algemene maatregelen van bestuur aan de Vierde tranche van de Algemene wet bestuursrecht (Aanpassingsbesluit vierde tranche Awb)

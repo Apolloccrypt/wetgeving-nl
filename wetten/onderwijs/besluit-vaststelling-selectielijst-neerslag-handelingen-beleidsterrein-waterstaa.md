@@ -8,7 +8,7 @@ laatste_update: 2009-08-12
 status: geldig
 toestand: 2009-08-12
 bron: "https://wetten.overheid.nl/BWBR0026229"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Waterstaat vanaf 2009 (Minister van Onderwijs, Cultuur en Wetenschap)

@@ -9,7 +9,7 @@ laatste_update: 2016-04-05
 status: geldig
 toestand: 2016-04-05
 bron: "https://wetten.overheid.nl/BWBR0024977"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Justitie van 12 december 2008, nr. 5579196/08, houdende nadere regels ten aanzien van erkenning van EG-beroepskwalificaties voor de toegang tot en de uitoefening van het beroep van kandidaat-notaris (Regeling erkenning EG-beroepskwalificaties kandidaat-notaris)

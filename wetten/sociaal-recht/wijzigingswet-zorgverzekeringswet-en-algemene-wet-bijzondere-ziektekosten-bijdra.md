@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024832"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 30 oktober 2008, houdende wijziging van de Zorgverzekeringswet in verband met de verstrekking van bijdragen aan zorgaanbieders die inkomsten derven ten gevolge van het verlenen van medisch noodzakelijke zorg aan bepaalde groepen vreemdelingen en van de Algemene Wet Bijzondere Ziektekosten met het oog op verzekering van bepaalde groepen minderjarige vreemdelingen

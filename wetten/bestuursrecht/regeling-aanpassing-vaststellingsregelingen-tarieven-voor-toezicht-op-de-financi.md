@@ -9,7 +9,7 @@ laatste_update: 2009-02-14
 status: geldig
 toestand: 2009-02-14
 bron: "https://wetten.overheid.nl/BWBR0025287"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling tot aanpassing van een aantal regelingen van de Minister van Financiën tot vaststelling van de bedragen voor eenmalige toezichthandelingen alsmede van maatstaven, bedragen, bandbreedtes en verdeelsleutels/tarieven voor het toezicht op de financiële markten gedurende de jaren 2005, 2006 en 2007

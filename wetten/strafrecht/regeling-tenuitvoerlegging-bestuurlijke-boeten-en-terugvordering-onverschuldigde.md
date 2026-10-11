@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0026017"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 juni 2009, nr. IVV/I/2009/13367, houdende regels omtrent tenuitvoerlegging van bestuurlijke boeten en terugvordering van onverschuldigde betalingen op grond van een aantal socialezekerheidswetten (Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen)

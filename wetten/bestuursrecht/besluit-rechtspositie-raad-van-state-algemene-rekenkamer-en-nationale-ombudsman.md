@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0025278"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 26 januari 2009, houdende nadere regeling van de rechtspositie van de vice-president van de Raad van State, de staatsraden, de president en overige leden van de Algemene Rekenkamer, alsmede van de Nationale ombudsman en de substituut-ombudsmannen (Besluit rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman)

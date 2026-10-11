@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0024926"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2008, nr. MC-U-2898120, houdende aanwijzing categorieën van persoonsgegevens voor de uitvoering door de zorgautoriteit van de WMG (Regeling categorieën persoonsgegevens WMG)

@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0026016"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 25 juni 2009 tot aanvulling van de Algemene wet bestuursrecht (Vierde tranche Algemene wet bestuursrecht)

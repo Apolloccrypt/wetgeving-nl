@@ -9,7 +9,7 @@ laatste_update: 2009-07-08
 status: geldig
 toestand: 2009-07-08
 bron: "https://wetten.overheid.nl/BWBR0025908"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 2 april 2009 tot wijziging van de Wet maatschappelijke ondersteuning en de Wet werk en bijstand in verband met het verstrekken van een uitkering aan mantelzorgers

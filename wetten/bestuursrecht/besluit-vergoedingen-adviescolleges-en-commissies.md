@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0025279"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 21 januari 2009 houdende vaststelling van regels met betrekking tot de hoogte van de vergoeding voor adviescolleges en commissies (Besluit vergoedingen adviescolleges en commissies)

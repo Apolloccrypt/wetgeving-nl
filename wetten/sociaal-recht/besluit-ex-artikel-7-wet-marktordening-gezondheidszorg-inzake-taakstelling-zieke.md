@@ -9,7 +9,7 @@ laatste_update: 2009-09-01
 status: geldig
 toestand: 2009-09-01
 bron: "https://wetten.overheid.nl/BWBR0026197"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 juli 2009, nr. CZ/FBI-2942220, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake taakstelling ziekenhuizen 2010

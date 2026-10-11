@@ -8,7 +8,7 @@ laatste_update: 2009-01-29
 status: geldig
 toestand: 2009-01-29
 bron: "https://wetten.overheid.nl/BWBR0025237"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit houdende vaststelling Veiligheidsmanagementsysteem Defensie

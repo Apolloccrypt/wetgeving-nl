@@ -9,7 +9,7 @@ laatste_update: 2008-12-13
 status: geldig
 toestand: 2008-12-13
 bron: "https://wetten.overheid.nl/BWBR0024842"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 1 december 2008, nr. DDI/ST/reg. 072/2008, houdende beperking van de openbaarheid van het archief van het gezantschap te Tsjechoslowakije (Praag) 1919–1954

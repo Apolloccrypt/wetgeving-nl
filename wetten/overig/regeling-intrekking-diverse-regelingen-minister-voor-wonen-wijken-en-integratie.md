@@ -9,7 +9,7 @@ laatste_update: 2008-12-13
 status: geldig
 toestand: 2008-12-13
 bron: "https://wetten.overheid.nl/BWBR0024846"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Ministerie voor Wonen, Wijken en Integratie van 28 november 2008, nr. BJZ2008111822, tot intrekking van diverse regelingen

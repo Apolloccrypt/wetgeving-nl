@@ -9,7 +9,7 @@ laatste_update: 2009-06-26
 status: geldig
 toestand: 2009-06-26
 bron: "https://wetten.overheid.nl/BWBR0026009"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 juni 2009, nr. DLZ/SFI-2936670, op grond van artikel 7 van de Wet marktordening gezondheidszorg, houdende aanvulling van de aanwijzing inzake invoering prestatiebekostiging in de intramurale langdurige zorg op grond van zorgzwaartepakketten, in verband met uitbreiding van SGLVG-verblijfplaatsen

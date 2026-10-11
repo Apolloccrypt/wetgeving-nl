@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0025302"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 6 februari 2009, houdende de vaststelling van regels met betrekking tot militaire luchthavens (Besluit militaire luchthavens)

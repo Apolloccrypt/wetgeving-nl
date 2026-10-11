@@ -9,7 +9,7 @@ laatste_update: 2009-03-18
 status: geldig
 toestand: 2009-03-18
 bron: "https://wetten.overheid.nl/BWBR0025472"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 27 februari 2009, nr. DJZ/BR-0153/09, tot bekendmaking van de tweede openstelling van het Daey Ouwens Fonds en tot wijziging van de beleidsregels voor subsidiëring op grond van het Daey Ouwens Fonds

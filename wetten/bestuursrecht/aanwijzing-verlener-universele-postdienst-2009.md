@@ -9,7 +9,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBR0025765"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 15 april 2009, nr. WJZ/9067599, tot aanwijzing van Koninklijke TNT Post BV als verlener van de universele postdienst (Aanwijzing verlener universele postdienst 2009)

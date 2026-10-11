@@ -9,7 +9,7 @@ laatste_update: 2010-03-24
 status: geldig
 toestand: 2010-03-24
 bron: "https://wetten.overheid.nl/BWBR0026099"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 6 juli 2009, nr. MEVA/ICT-2939365, houdende verlening van mandaat en machtiging aan SenterNovem ter uitvoering van de Subsidieregeling zorginnovatie

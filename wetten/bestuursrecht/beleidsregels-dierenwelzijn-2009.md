@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0025046"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Beleidsregels van de Minister van Landbouw, Natuur en Voedselkwaliteit van 22 december 2008, nr. TRCJZ/2008/3638, houdende vaststelling van beleidsregels inzake dierenwelzijn

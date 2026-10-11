@@ -9,7 +9,7 @@ laatste_update: 2009-09-01
 status: geldig
 toestand: 2009-09-01
 bron: "https://wetten.overheid.nl/BWBR0026092"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief betreffende Personeelsdossiers van het Directoraat-Generaal voor Bijzondere Rechtspleging (DGBR) ressorterend onder het Ministerie van Justitie (1945–1986), toegang nr. 2.09.70 (als bedoeld in artikel 10 van het Archiefbesluit 1995)

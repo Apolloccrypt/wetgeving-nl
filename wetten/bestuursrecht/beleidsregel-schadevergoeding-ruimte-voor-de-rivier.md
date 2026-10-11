@@ -9,7 +9,7 @@ laatste_update: 2013-02-01
 status: geldig
 toestand: 2013-02-01
 bron: "https://wetten.overheid.nl/BWBR0025792"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Beleidsregel met betrekking tot de behandeling en beoordeling van aanvragen voor schadevergoeding of nadeelcompensatie in verband met de uitvoering van de Planologische kernbeslissing Ruimte voor de Rivier (Beleidsregel schadevergoeding Ruimte voor de Rivier)

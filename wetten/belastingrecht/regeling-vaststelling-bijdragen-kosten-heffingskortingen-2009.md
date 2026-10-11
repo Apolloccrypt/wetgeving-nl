@@ -9,7 +9,7 @@ laatste_update: 2009-11-04
 status: geldig
 toestand: 2009-11-04
 bron: "https://wetten.overheid.nl/BWBR0026066"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 29 juni 2009, nr. IVV/BBO/2009/14358, tot vaststelling van de bedragen in de kosten van heffingskortingen voor het jaar 2009

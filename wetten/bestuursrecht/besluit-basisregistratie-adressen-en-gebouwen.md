@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0025520"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 9 maart 2009, houdende regels met betrekking tot de basisregistraties adressen en gebouwen (Besluit basisregistraties adressen en gebouwen)

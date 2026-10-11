@@ -9,7 +9,7 @@ laatste_update: 2010-10-01
 status: geldig
 toestand: 2010-10-01
 bron: "https://wetten.overheid.nl/BWBR0026275"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 18 juli 2009 tot samenvoeging van de gemeenten Helden, Kessel, Maasbree en Meijel

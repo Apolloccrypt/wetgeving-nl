@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0025148"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 29 december 2008 tot wijziging van de Wet op de rechtsbijstand houdende herijking van de verlening van rechtsbijstand door de raden voor rechtsbijstand en de invoering van een lichte adviestoevoeging, alsmede de regeling van de vergoeding van mediation

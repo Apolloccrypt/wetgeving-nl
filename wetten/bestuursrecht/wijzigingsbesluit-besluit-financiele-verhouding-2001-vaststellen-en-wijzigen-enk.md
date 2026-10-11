@@ -9,7 +9,7 @@ laatste_update: 2009-07-21
 status: geldig
 toestand: 2009-07-21
 bron: "https://wetten.overheid.nl/BWBR0025868"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 16 april 2009 tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven

@@ -9,7 +9,7 @@ laatste_update: 2009-03-16
 status: geldig
 toestand: 2009-03-16
 bron: "https://wetten.overheid.nl/BWBR0025452"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 14 februari 2009 tot wijziging van de Wet op het financieel toezicht en de Faillissementswet in verband met de samenloop van de vordering op de boedel ingeval van noodregeling, surseance van betaling en faillissement en de aanvraag van een vergoeding op grond van de vangnetregeling

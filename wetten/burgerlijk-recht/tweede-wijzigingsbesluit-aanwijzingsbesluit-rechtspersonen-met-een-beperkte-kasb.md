@@ -9,7 +9,7 @@ laatste_update: 2009-03-11
 status: geldig
 toestand: 2009-03-11
 bron: "https://wetten.overheid.nl/BWBR0025454"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 23 februari 2009 van de Minister van Financiën houdende aanpassing van de bijlagen A en B bij het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie (Tweede wijzigingsbesluit Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie)

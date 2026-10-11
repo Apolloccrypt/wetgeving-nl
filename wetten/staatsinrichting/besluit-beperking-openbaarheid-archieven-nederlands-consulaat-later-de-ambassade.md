@@ -9,7 +9,7 @@ laatste_update: 2008-12-12
 status: geldig
 toestand: 2008-12-12
 bron: "https://wetten.overheid.nl/BWBR0024810"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 26 november 2008, nr. DDI/ST/reg. 068/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Consulaat, later de Ambassade in Tanganyika, later Tanzania te Dar es Salaam, (1955–1974) en het Consulaat in Zanzibar, later Tanzania te Zanzibar (1952–1968) van het Ministerie van Buitenlandse Zaken

@@ -9,7 +9,7 @@ laatste_update: 2008-12-23
 status: geldig
 toestand: 2008-12-23
 bron: "https://wetten.overheid.nl/BWBR0024891"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 11 december 2008 tot wijziging van boek 2 van het Burgerlijk Wetboek ter uitvoering van Richtlijn 2006/46/EG van het Europees Parlement en de Raad van 14 juni 2006, tot wijziging van de Richtlijnen 78/660/EEG, 83/349/EEG, 86/635/EEG en 91/674/EEG betreffende de jaarrekening en de geconsolideerde jaarrekening (PbEU L 224)

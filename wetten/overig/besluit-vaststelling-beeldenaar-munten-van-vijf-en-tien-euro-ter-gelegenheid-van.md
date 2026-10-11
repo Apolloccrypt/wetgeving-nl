@@ -9,7 +9,7 @@ laatste_update: 2009-04-17
 status: geldig
 toestand: 2009-04-17
 bron: "https://wetten.overheid.nl/BWBR0025625"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 31 maart 2009 houdende de vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2009 worden uitgegeven ter gelegenheid van 400 jaar Nederland-Manhattan/New York

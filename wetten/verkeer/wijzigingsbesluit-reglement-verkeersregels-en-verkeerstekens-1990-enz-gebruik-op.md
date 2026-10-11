@@ -9,7 +9,7 @@ laatste_update: 2009-03-01
 status: geldig
 toestand: 2009-03-01
 bron: "https://wetten.overheid.nl/BWBR0024824"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 26 november 2008 tot wijziging van het Reglement verkeersregels en verkeerstekens 1990 en het Voertuigreglement in verband met het gebruik van optische en geluidssignalen

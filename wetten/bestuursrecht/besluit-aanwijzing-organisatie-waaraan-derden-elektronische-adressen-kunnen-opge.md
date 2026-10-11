@@ -9,7 +9,7 @@ laatste_update: 2021-09-15
 status: geldig
 toestand: 2021-09-15
 bron: "https://wetten.overheid.nl/BWBR0025968"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Staatssecretaris van Justitie van 3 juni 2009, nr. 5602950/09/6, tot aanwijzing van de organisatie waaraan derden elektronische adressen kunnen opgeven voor het elektronisch laten van derdenbeslag en tot aanwijzing van het bestuursorgaan waaraan deurwaarders informatie kunnen opvragen in het kader van derdenbeslag

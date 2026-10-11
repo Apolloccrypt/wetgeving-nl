@@ -9,7 +9,7 @@ laatste_update: 2025-10-04
 status: geldig
 toestand: 2025-10-04
 bron: "https://wetten.overheid.nl/BWBR0024869"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 4 december 2008, houdende regels met betrekking tot onderwijsvoorzieningen voor jongeren met een handicap en de uitvoering daarvan door UWV (Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap)

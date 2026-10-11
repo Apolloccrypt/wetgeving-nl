@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024833"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 20 november 2008 tot wijziging van de Wet buitengewoon pensioen 1940–1945, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet buitengewoon pensioen Indisch verzet, de Wet uitkeringen vervolgingsslachtoffers 1940–1945 en de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945, ter vereenvoudiging van de uitvoering, alsmede tot het aanbrengen van wijzigingen van andere en ondergeschikte aard

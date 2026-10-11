@@ -9,7 +9,7 @@ laatste_update: 2008-12-31
 status: geldig
 toestand: 2008-12-31
 bron: "https://wetten.overheid.nl/BWBR0025008"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 21 november 2008, nr. DWH/MC-860/08, tot verhoging van een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Twinningfaciliteit Nederland-Suriname)

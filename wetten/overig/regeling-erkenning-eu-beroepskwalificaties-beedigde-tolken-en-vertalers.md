@@ -9,7 +9,7 @@ laatste_update: 2016-04-05
 status: geldig
 toestand: 2016-04-05
 bron: "https://wetten.overheid.nl/BWBR0024932"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Justitie van 9 december 2008, nr. 5564127/08, houdende nadere regels ten aanzien van erkenning van EG-beroepskwalificaties en tijdelijke en incidentele dienstverrichting van beëdigde tolken en vertalers (Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers)

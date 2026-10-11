@@ -9,7 +9,7 @@ laatste_update: 2024-08-01
 status: geldig
 toestand: 2024-08-01
 bron: "https://wetten.overheid.nl/BWBR0025364"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 29 januari 2009 tot instelling van een College voor examens, alsmede houdende wijziging van de Wet op het onderwijstoezicht en de Wet op het voortgezet onderwijs (Wet College voor examens)

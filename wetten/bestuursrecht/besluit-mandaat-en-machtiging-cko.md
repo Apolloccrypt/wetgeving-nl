@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0025095"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit houdende regels inzake mandaat en machtiging aan het College Kwaliteitsonderzoek (Besluit mandaat en machtiging CKO)

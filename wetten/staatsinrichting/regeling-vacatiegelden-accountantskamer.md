@@ -8,7 +8,7 @@ laatste_update: 2009-05-22
 status: geldig
 toestand: 2009-05-22
 bron: "https://wetten.overheid.nl/BWBR0025859"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling vacatiegelden accountantskamer

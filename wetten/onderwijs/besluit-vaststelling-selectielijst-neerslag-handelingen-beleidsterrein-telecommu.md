@@ -8,7 +8,7 @@ laatste_update: 2009-04-10
 status: geldig
 toestand: 2009-04-10
 bron: "https://wetten.overheid.nl/BWBR0025642"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Telecommunicatie en Post vanaf 1945 (Minister van Onderwijs, Cultuur en Wetenschap)

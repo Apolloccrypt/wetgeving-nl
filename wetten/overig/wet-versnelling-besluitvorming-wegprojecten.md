@@ -9,7 +9,7 @@ laatste_update: 2009-04-24
 status: geldig
 toestand: 2009-04-24
 bron: "https://wetten.overheid.nl/BWBR0025724"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 2 april 2009, houdende wijziging van de Spoedwet wegverbreding en de Tracéwet in verband met de vereenvoudiging van de onderzoekslast (Wet versnelling besluitvorming wegprojecten)

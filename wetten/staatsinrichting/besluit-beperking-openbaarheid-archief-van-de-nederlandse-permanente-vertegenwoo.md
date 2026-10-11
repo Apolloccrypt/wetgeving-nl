@@ -9,7 +9,7 @@ laatste_update: 2009-04-02
 status: geldig
 toestand: 2009-04-02
 bron: "https://wetten.overheid.nl/BWBR0025598"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 13 maart 2009, nr. DDI/ST/reg. 007/2009, houdende beperking van de openbaarheid van het archief van de Nederlandse permanente vertegenwoordiging bij de Raad van Europa te Straatsburg van het Ministerie van Buitenlandse Zaken, 1955–1974

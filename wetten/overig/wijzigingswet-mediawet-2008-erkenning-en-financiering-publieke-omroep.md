@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0026112"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 2 juli 2009 tot wijziging van de Mediawet 2008 in verband met onder meer de erkenning en de financiering van de publieke omroep

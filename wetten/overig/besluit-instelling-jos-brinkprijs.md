@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0024802"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 2 december 2008 tot instelling van de Jos Brink homo-emancipatieprijs (Besluit instelling Jos Brink homo-emancipatieprijs)

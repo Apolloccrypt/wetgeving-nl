@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0026168"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 25 juni 2009, houdende regels met betrekking tot voorzieningen op gemeentelijk niveau voor de behandeling en registratie van klachten over discriminatie (Wet gemeentelijke antidiscriminatievoorzieningen)

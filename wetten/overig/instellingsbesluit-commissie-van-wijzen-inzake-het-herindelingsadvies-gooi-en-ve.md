@@ -8,7 +8,7 @@ laatste_update: 2009-02-14
 status: geldig
 toestand: 2009-02-14
 bron: "https://wetten.overheid.nl/BWBR0025290"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Instellingsbesluit Commissie van Wijzen inzake het herindelingsadvies Gooi- en Vechtstreek

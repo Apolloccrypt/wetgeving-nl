@@ -9,7 +9,7 @@ laatste_update: 2016-01-01
 status: geldig
 toestand: 2016-01-01
 bron: "https://wetten.overheid.nl/BWBR0024984"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Economische Zaken van 8 december 2008, nr. WJZ/8179284, houdende beleidsregels inzake de uitleg technisch nieuwe programmatuur

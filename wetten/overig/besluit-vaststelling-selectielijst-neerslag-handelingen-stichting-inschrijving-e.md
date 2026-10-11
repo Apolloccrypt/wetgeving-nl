@@ -8,7 +8,7 @@ laatste_update: 2009-02-19
 status: geldig
 toestand: 2009-02-19
 bron: "https://wetten.overheid.nl/BWBR0025308"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Stichting Inschrijving Eigen Vervoer

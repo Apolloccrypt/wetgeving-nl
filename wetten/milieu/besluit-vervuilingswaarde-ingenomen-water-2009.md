@@ -9,7 +9,7 @@ laatste_update: 2026-06-17
 status: geldig
 toestand: 2026-06-17
 bron: "https://wetten.overheid.nl/BWBR0025073"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 12 december 2008, houdende regels voor de toepassing van artikel 22 van de Wet verontreiniging oppervlaktewateren en artikel 122k van de Waterschapswet (Besluit vervuilingswaarde ingenomen water 2009)

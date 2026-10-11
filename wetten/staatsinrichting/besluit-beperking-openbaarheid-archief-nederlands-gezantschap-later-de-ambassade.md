@@ -9,7 +9,7 @@ laatste_update: 2008-12-13
 status: geldig
 toestand: 2008-12-13
 bron: "https://wetten.overheid.nl/BWBR0024850"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 26 november 2008, nr. DDI/ST/reg. 064/2008, houdende beperking van de openbaarheid van het archief van het Nederlands Gezantschap, later de Ambassade in Thailand van het Ministerie van Buitenlandse Zaken, 1955–1974

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0025740"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Justitie van 30 maart 2009, nummer WBN 2009/1, houdende wijziging van de tekst van de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap toegespitst op buiten het Koninkrijk afgelegde optieverklaringen en ingediende naturalisatieverzoeken

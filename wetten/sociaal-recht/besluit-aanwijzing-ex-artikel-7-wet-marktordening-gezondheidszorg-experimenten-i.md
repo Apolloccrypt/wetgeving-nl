@@ -9,7 +9,7 @@ laatste_update: 2009-02-20
 status: geldig
 toestand: 2009-02-20
 bron: "https://wetten.overheid.nl/BWBR0025327"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 9 februari 2009, nr. DLZ/KZ-U-2909122 op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake experimenten in het kader van het Transitie Programma Langdurige Zorg

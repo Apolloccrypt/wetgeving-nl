@@ -8,7 +8,7 @@ laatste_update: 2024-06-01
 status: geldig
 toestand: 2024-06-01
 bron: "https://wetten.overheid.nl/BWBR0025897"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling vergoedingen Adviescommissie Kredietcommissie Garantie Ondernemingsfinanciering

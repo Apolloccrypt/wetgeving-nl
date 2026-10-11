@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0025277"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 4 februari 2009, houdende regels met betrekking tot de eigen bijdrage voor de rechtzoekende in geval van verlening van gesubsidieerde rechtsbijstand alsmede enige nadere regels omtrent de vaststelling van de financiële draagkracht van de rechtzoekende (Besluit eigen bijdrage rechtsbijstand)

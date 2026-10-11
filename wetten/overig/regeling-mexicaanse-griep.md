@@ -9,7 +9,7 @@ laatste_update: 2009-05-01
 status: geldig
 toestand: 2009-05-01
 bron: "https://wetten.overheid.nl/BWBR0025790"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 mei 2009, nr. PG/CI-2929603, ex artikel 20 van de Wet publieke gezondheid (Regeling Mexicaanse Griep)

@@ -9,7 +9,7 @@ laatste_update: 2009-01-18
 status: geldig
 toestand: 2009-01-18
 bron: "https://wetten.overheid.nl/BWBR0025187"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 5 januari 2009, nr. 08.003762, houdende de toekenning van een vaste vergoeding aan de niet-ambtelijke leden van de Programmaraad, bedoeld in artikel 2, eerste lid, van het Instellingsbesluit Programmaraad (Besluit vaste vergoeding Programmaraad)

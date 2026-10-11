@@ -9,7 +9,7 @@ laatste_update: 2009-04-02
 status: geldig
 toestand: 2009-04-02
 bron: "https://wetten.overheid.nl/BWBR0025589"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 13 maart 2009, nr. DDI/ST/reg. 012/2009, houdende beperking van de openbaarheid van de archieven van de Nederlandse Ambassade en de Consulaten in de Bondsrepubliek Duitsland van het Ministerie van Buitenlandse Zaken, (1938) 1955–1974 (1979)

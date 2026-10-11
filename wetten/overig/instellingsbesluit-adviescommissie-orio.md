@@ -9,7 +9,7 @@ laatste_update: 2009-06-26
 status: geldig
 toestand: 2009-06-26
 bron: "https://wetten.overheid.nl/BWBR0025986"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de minister voor Ontwikkelingssamenwerking van 8 juni 2009, nr. DDE-355/2009, tot instelling van de Adviescommissie OntwikkelingsRelevante Infrastructuur Ontwikkeling

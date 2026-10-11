@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0024848"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat, houdende voorschriften inzake de beleidsvoorbereiding en de verantwoording van waterschappen (Regeling beleidsvoorbereiding en verantwoording waterschappen)

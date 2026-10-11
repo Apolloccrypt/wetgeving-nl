@@ -9,7 +9,7 @@ laatste_update: 2026-02-01
 status: geldig
 toestand: 2026-02-01
 bron: "https://wetten.overheid.nl/BWBR0025830"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 4 mei 2009, houdende regels met betrekking tot de verlening van een toevoeging ten behoeve van mediation, de eigen bijdrage in geval van mediation op basis van een toevoeging alsmede de vaststelling van de vergoeding voor op basis van een toevoeging verleende mediation (Besluit toevoeging mediation)

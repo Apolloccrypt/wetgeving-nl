@@ -9,7 +9,7 @@ laatste_update: 2010-08-01
 status: geldig
 toestand: 2010-08-01
 bron: "https://wetten.overheid.nl/BWBR0026299"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 18 juli 2009 tot wijziging van de Wet kinderopvang in verband met een herziening van het stelsel van gastouderopvang

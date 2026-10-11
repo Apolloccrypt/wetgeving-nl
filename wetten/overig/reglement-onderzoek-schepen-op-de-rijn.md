@@ -9,7 +9,7 @@ laatste_update: 2024-02-01
 status: geldig
 toestand: 2024-02-01
 bron: "https://wetten.overheid.nl/BWBR0025973"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Reglement onderzoek schepen op de Rijn 1995

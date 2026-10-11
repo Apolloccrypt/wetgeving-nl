@@ -9,7 +9,7 @@ laatste_update: 2009-03-01
 status: geldig
 toestand: 2009-03-01
 bron: "https://wetten.overheid.nl/BWBR0024844"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 27 november 2008 tot wijziging van Boek 1 van het Burgerlijk Wetboek en het Wetboek van Burgerlijke Rechtsvordering in verband met het bevorderen van voortgezet ouderschap na scheiding en het afschaffen van de mogelijkheid tot het omzetten van een huwelijk in een geregistreerd partnerschap (Wet bevordering voortgezet ouderschap en zorgvuldige scheiding)

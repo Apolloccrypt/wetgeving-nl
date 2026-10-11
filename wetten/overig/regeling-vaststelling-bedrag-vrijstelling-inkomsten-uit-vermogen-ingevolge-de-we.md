@@ -9,7 +9,7 @@ laatste_update: 2007-01-01
 status: geldig
 toestand: 2007-01-01
 bron: "https://wetten.overheid.nl/BWBR0025854"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 december 2006, nr. OHWU- 2732433, houdende de vaststelling van het vrijstellingsbedrag inkomsten uit vermogen ingevolge de wetten voor oorlogsgetroffenen per 1 januari 2007

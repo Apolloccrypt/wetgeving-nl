@@ -9,7 +9,7 @@ laatste_update: 2024-09-27
 status: geldig
 toestand: 2024-09-27
 bron: "https://wetten.overheid.nl/BWBR0026208"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Justitie van 23 juli 2009, nr. 5612426/09, houdende verlening van mandaat aan de Raad voor rechtsbijstand te ’s-Hertogenbosch betreffende het verlenen van subsidies en het vaststellen van beleidsregels dienaangaande

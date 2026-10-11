@@ -9,7 +9,7 @@ laatste_update: 2009-01-08
 status: geldig
 toestand: 2009-01-08
 bron: "https://wetten.overheid.nl/BWBR0025144"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 18 december 2008, CZ CGG 2902762 houdende op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake dyslexiezorg

@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0025844"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 mei 2009, nr. DL/B/110284, houdende regels voor het verstrekken van subsidie aan leraren met een onderwijsbevoegdheid om substantiële scholing te bevorderen en het verstrekken van subsidie ten behoeve van zij-instromers in het voortgezet onderwijs, het beroepsonderwijs en de educatie om hun onderwijsbevoegdheid te behalen (Regeling lerarenbeurs voor scholing en zij-instroom 2009–2011)

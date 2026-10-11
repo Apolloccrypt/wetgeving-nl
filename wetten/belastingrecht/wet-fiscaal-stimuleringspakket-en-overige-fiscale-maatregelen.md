@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0026049"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 1 juli 2009, houdende Fiscaal stimuleringspakket en overige fiscale maatregelen

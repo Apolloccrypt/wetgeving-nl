@@ -9,7 +9,7 @@ laatste_update: 2017-07-14
 status: geldig
 toestand: 2017-07-14
 bron: "https://wetten.overheid.nl/BWBR0025914"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 29 mei 2009 tot uitvoering van verordening (EG) nr. 861/2007 van het Europees Parlement en de Raad van de Europese Unie van 11 juli 2007 tot vaststelling van een Europese procedure voor geringe vorderingen (Pb EU L 199) (Uitvoeringswet verordening Europese procedure voor geringe vorderingen)

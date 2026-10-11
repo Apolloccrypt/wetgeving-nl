@@ -9,7 +9,7 @@ laatste_update: 2009-02-13
 status: geldig
 toestand: 2009-02-13
 bron: "https://wetten.overheid.nl/BWBR0025284"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 30 januari 2009, nr. OHW-U-2906083, houdende vaststelling van de rekenfactor ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers voor het jaar 2008

@@ -9,7 +9,7 @@ laatste_update: 2019-07-21
 status: geldig
 toestand: 2019-07-21
 bron: "https://wetten.overheid.nl/BWBR0024950"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 16 december 2008, houdende bepalingen tot implementatie van richtlijn nr. 2007/14/EG van de Commissie van de Europese Gemeenschappen van 8 maart 2007 tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van richtlijn 2004/109/EG betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten (PbEU L 69) (Besluit uitvoeringsrichtlijn transparantie uitgevende instellingen Wft)

@@ -9,7 +9,7 @@ laatste_update: 2015-01-01
 status: geldig
 toestand: 2015-01-01
 bron: "https://wetten.overheid.nl/BWBR0025261"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 januari 2008, nr. JOZ/94546, houdende regels met betrekking tot het verstrekken van onderwijsvoorzieningen voor jongeren met een handicap (Regeling onderwijsvoorzieningen voor jongeren met een handicap)

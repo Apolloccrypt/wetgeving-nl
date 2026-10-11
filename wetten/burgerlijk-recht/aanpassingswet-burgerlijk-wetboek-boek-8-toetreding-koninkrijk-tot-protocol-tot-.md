@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0025626"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 21 februari 2009 tot aanpassing van Boek 8 van het Burgerlijk Wetboek in verband met de toetreding door het Koninkrijk tot het op 2 mei 1996 te Londen tot stand gekomen Protocol van 1996 tot wijziging van het op 19 november 1976 te Londen tot stand gekomen Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen (Trb. 1997, 300)

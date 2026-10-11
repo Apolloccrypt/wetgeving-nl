@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0025037"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 18 december 2008, nr. DJZ/BR/1144-08, tot het verlenen van mandaat aan het Nederlands Jeugdinstituut betreffende het programma Stage en uitwisseling jongeren 2009

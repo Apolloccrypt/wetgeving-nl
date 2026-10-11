@@ -9,7 +9,7 @@ laatste_update: 2025-06-01
 status: geldig
 toestand: 2025-06-01
 bron: "https://wetten.overheid.nl/BWBR0025631"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 18 maart 2009, houdende nadere regels voor de binnenvaart (Binnenvaartbesluit)

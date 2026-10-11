@@ -9,7 +9,7 @@ laatste_update: 2009-01-26
 status: geldig
 toestand: 2009-01-26
 bron: "https://wetten.overheid.nl/BWBR0025233"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Circulaire Pilot tussen Rijk en Onderwijs

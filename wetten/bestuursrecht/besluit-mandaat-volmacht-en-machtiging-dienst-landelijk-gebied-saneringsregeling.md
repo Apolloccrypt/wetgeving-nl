@@ -9,7 +9,7 @@ laatste_update: 2009-01-25
 status: geldig
 toestand: 2009-01-25
 bron: "https://wetten.overheid.nl/BWBR0025221"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 15 januari 2009, nr. RB/2008123259, na overleg met de Minister van Landbouw, Natuur en Voedselkwaliteit, tot het verlenen van mandaat, volmacht en machtiging voor de uitvoering van de Saneringsregeling asbestwegen derde fase (Besluit mandaat, volmacht en machtiging Dienst Landelijk Gebied Saneringsregeling asbestwegen derde fase)

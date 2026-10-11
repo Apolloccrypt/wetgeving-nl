@@ -9,7 +9,7 @@ laatste_update: 2009-03-19
 status: geldig
 toestand: 2009-03-19
 bron: "https://wetten.overheid.nl/BWBR0025499"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 maart 2009, nr. TRCJZ/2009/731, houdende openstelling spieringvisserij IJsselmeer 2009 (Openstellingsbesluit spieringvisserij 2009)

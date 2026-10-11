@@ -9,7 +9,7 @@ laatste_update: 2009-01-21
 status: geldig
 toestand: 2009-01-21
 bron: "https://wetten.overheid.nl/BWBR0025189"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 19 december 2008 tot ontbinding van het Fonds Luchtverontreiniging en tot vaststelling van het tijdstip van het vervallen van de wet van 18 oktober 2007, houdende intrekking van de artikelen 15.24 tot en met 15.28 van de Wet milieubeheer met het oog op de opheffing van het Fonds Luchtverontreiniging en het treffen van enkele daarmee verbandhoudende voorzieningen (opheffing Fonds Luchtverontreiniging) (Stb. 2007, 427)

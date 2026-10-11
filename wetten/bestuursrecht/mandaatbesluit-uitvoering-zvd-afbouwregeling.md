@@ -8,7 +8,7 @@ laatste_update: 2009-04-16
 status: geldig
 toestand: 2009-04-16
 bron: "https://wetten.overheid.nl/BWBR0025828"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Mandaatbesluit uitvoering ZVD-afbouwregeling

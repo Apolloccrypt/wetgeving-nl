@@ -9,7 +9,7 @@ laatste_update: 2009-02-01
 status: geldig
 toestand: 2009-02-01
 bron: "https://wetten.overheid.nl/BWBR0024815"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wijziging van de Regeling maatregelen rijvaardigheid en geschiktheid in verband met de doorberekening van de kosten van onderzoeken naar de geschiktheid

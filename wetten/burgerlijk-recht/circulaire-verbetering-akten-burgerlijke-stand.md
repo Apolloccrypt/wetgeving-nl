@@ -8,7 +8,7 @@ laatste_update: 2009-07-15
 status: geldig
 toestand: 2009-07-15
 bron: "https://wetten.overheid.nl/BWBR0026086"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Circulaire Verbetering akten burgerlijke stand

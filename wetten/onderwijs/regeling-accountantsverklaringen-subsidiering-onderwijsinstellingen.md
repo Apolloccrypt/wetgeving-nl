@@ -9,7 +9,7 @@ laatste_update: 2008-12-25
 status: geldig
 toestand: 2008-12-25
 bron: "https://wetten.overheid.nl/BWBR0024949"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Economische Zaken van 9 december 2008, nr. WJZ/8184750, met betrekking tot accountantsverklaringen bij subsidiëring aan onderwijsinstellingen

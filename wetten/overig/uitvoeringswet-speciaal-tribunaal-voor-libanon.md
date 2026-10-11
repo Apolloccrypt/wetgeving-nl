@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0025263"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 29 december 2008, houdende bepalingen verband houdende met de instelling van het Speciaal Tribunaal voor Libanon, mede ter uitvoering van Resolutie 1757 van de Veiligheidsraad van de Verenigde Naties van 30 mei 2007 (Uitvoeringswet Speciaal Tribunaal voor Libanon)

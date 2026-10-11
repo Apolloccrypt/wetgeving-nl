@@ -9,7 +9,7 @@ laatste_update: 2024-10-01
 status: geldig
 toestand: 2024-10-01
 bron: "https://wetten.overheid.nl/BWBR0025605"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de minister van Volksgezondheid, Welzijn en Sport van 18 maart 2009, MEVA/BO-2819721, houdende regels inzake de periodieke registratie op grond van de Wet op de beroepen in de individuele gezondheidszorg

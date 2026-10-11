@@ -9,7 +9,7 @@ laatste_update: 2009-08-01
 status: geldig
 toestand: 2009-08-01
 bron: "https://wetten.overheid.nl/BWBR0026169"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 2 juli 2009 tot wijziging van een aantal wetten van het Ministerie van Sociale Zaken en Werkgelegenheid (Verzamelwet SZW-wetgeving 2009)

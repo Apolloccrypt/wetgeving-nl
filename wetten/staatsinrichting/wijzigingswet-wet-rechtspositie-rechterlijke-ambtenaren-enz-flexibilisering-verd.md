@@ -9,7 +9,7 @@ laatste_update: 2010-07-01
 status: geldig
 toestand: 2010-07-01
 bron: "https://wetten.overheid.nl/BWBR0025155"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 11 december 2008 tot wijziging van de Wet rechtspositie rechterlijke ambtenaren en enige andere wetten in verband met de flexibilisering en verduidelijking alsmede enkele aanvullingen van de regeling van de rechtspositie van rechterlijke ambtenaren en rechterlijke ambtenaren in opleiding

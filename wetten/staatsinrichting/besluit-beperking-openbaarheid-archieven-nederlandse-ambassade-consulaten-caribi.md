@@ -9,7 +9,7 @@ laatste_update: 2009-02-28
 status: geldig
 toestand: 2009-02-28
 bron: "https://wetten.overheid.nl/BWBR0025331"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 februari 2009, nr. DDI/ST/reg. 017/2009, houdende beperking van de openbaarheid van de archieven van de Nederlandse Ambassade, Consulaten, Caribische Commissie en Handelscommissariaten in de Verenigde Staten van het Ministerie van Buitenlandse Zaken, (1889) 1945−1984 (1989)

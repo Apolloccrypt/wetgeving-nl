@@ -9,7 +9,7 @@ laatste_update: 2021-01-05
 status: geldig
 toestand: 2021-01-05
 bron: "https://wetten.overheid.nl/BWBR0025382"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling houdende nadere regels ten aanzien van het register van mobiele objecten (Regeling mobiele-objectenregister)

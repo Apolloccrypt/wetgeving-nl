@@ -9,7 +9,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBR0025600"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Tijdelijke beleidsregel van de raden voor rechtsbijstand houdende herzieningsprocedure vaststelling aangegeven verzamelinkomen minder draagkrachtige rechtzoekenden in verband met voor de aanspraak relevante wijzigingen (Tijdelijke beleidsregel herzieningsprocedure vaststelling aangegeven verzamelinkomen rechtzoekende)

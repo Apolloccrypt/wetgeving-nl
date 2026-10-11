@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0025357"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling houdende aanwijzing hulpverleningsdiensten, omschrijving werkzaamheden en omstandigheden, en vaststelling van optische en geluidssignalen (Regeling optische en geluidssignalen 2009)

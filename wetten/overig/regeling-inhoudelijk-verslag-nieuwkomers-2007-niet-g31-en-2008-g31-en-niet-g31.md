@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0025345"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister voor Wonen, Wijken en Integratie van 17 februari 2009, nr. BJZ2009008145, houdende vaststelling van nadere regels voor de inrichting van het verslag, bedoeld in artikel 15, vierde lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid, en in artikel 9.6, tiende lid, van het Besluit inburgering (Regeling inhoudelijk verslag nieuwkomers 2007 (niet G31)en 2008 (G31 en niet-G31))

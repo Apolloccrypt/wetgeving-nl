@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0025665"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 31 maart 2009, nr. TRCJZ/2009/921, houdende vaststelling van de vergoeding voor de leden van de kamers voor het kwekersrecht

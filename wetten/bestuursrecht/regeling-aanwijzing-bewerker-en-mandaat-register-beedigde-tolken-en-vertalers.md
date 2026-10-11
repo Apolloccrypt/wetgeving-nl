@@ -9,7 +9,7 @@ laatste_update: 2024-06-01
 status: geldig
 toestand: 2024-06-01
 bron: "https://wetten.overheid.nl/BWBR0024993"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Justitie van 9 december, nr. 5577676/08, houdende aanwijzing tot bewerker en verlening van mandaat en machtiging van de Minister van Justitie aan de raad voor rechtsbijstand te ’s-Hertogenbosch betreffende het register beëdigde tolken en vertalers (Regeling aanwijzing bewerker en mandaat register beëdigde tolken en vertalers)

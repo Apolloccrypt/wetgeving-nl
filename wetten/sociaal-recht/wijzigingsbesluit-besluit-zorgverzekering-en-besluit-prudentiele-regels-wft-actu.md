@@ -9,7 +9,7 @@ laatste_update: 2008-12-23
 status: geldig
 toestand: 2008-12-23
 bron: "https://wetten.overheid.nl/BWBR0024887"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 9 december 2008, houdende wijziging van het Besluit zorgverzekering in verband met actualisatie van de regels over de vereveningsbijdrage

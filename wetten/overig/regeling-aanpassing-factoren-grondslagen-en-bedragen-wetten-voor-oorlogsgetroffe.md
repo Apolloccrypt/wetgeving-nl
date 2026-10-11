@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0026100"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 juni 2009, nr. OHW-U-2936758, houdende aanpassing van de factoren, grondslagen en bedragen wetten voor oorlogsgetroffenen per 1 juli 2009

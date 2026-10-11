@@ -9,7 +9,7 @@ laatste_update: 2009-07-18
 status: geldig
 toestand: 2009-07-18
 bron: "https://wetten.overheid.nl/BWBR0026102"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 7 juli 2009, nr. K&L2009045627, houdende verhoging van een subsidieplafond en uitbreiding subsidiemogelijkheden zware bestelauto’s en mobiele machines binnen de Subsidieregeling emissieverminderende voorzieningen voor voertuigen

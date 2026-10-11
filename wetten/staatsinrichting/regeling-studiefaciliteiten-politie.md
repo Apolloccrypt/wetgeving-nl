@@ -9,7 +9,7 @@ laatste_update: 2025-09-04
 status: geldig
 toestand: 2025-09-04
 bron: "https://wetten.overheid.nl/BWBR0025814"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 april 2009, nr. 2009-0000225698, houdende regels betreffende het toekennen van studieverlof en vergoeding van studiekosten ten behoeve van politie-ambtenaren (Regeling studiefaciliteiten politie)

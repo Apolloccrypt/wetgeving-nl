@@ -8,7 +8,7 @@ laatste_update: 2009-06-14
 status: geldig
 toestand: 2009-06-14
 bron: "https://wetten.overheid.nl/BWBR0025932"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling bedragen per eenheid voor de uitkering uit het provinciefonds over het uitkeringsjaar 2008

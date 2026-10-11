@@ -9,7 +9,7 @@ laatste_update: 2009-04-24
 status: geldig
 toestand: 2009-04-24
 bron: "https://wetten.overheid.nl/BWBR0025718"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 april 2009, nr. DDI/ST/reg. 013/2009, houdende beperking van de openbaarheid van het archief van de Examencommissie voor de Buitenlandse Dienst van het Ministerie van Buitenlandse Zaken, 1945–1985

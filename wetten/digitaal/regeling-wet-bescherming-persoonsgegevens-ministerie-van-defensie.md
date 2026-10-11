@@ -8,7 +8,7 @@ laatste_update: 2016-05-13
 status: geldig
 toestand: 2016-05-13
 bron: "https://wetten.overheid.nl/BWBR0026257"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling Wet bescherming persoonsgegevens ministerie van Defensie

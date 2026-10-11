@@ -9,7 +9,7 @@ laatste_update: 2010-10-01
 status: geldig
 toestand: 2010-10-01
 bron: "https://wetten.overheid.nl/BWBR0026180"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 18 juli 2009 tot wijziging van het Wetboek van Strafvordering, het Wetboek van Strafrecht en enige andere wetten in verband met het verbeteren en versterken van de vaststelling van de identiteit van verdachten, veroordeelden en getuigen (Wet identiteitsvaststelling verdachten, veroordeelden en getuigen)

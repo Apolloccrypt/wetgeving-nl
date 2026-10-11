@@ -9,7 +9,7 @@ laatste_update: 2009-07-21
 status: geldig
 toestand: 2009-07-21
 bron: "https://wetten.overheid.nl/BWBR0025980"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 12 juni 2009, houdende wijziging van diverse besluiten in verband met de implementatie van beschikking nr. 2003/33/EG tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen (PbEG L 11) (implementatie Beschikking aanvaarding afvalstoffen op stortplaatsen)

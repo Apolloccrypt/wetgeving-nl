@@ -8,7 +8,7 @@ laatste_update: 2009-07-10
 status: geldig
 toestand: 2009-07-10
 bron: "https://wetten.overheid.nl/BWBR0026070"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Aanwijzingsregeling algemeen opsporingsambtenaren Koninklijke marechaussee

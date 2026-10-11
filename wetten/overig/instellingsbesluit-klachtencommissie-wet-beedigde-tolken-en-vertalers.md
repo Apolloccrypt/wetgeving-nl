@@ -9,7 +9,7 @@ laatste_update: 2009-06-14
 status: geldig
 toestand: 2009-06-14
 bron: "https://wetten.overheid.nl/BWBR0025920"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Raad voor Rechtsbijstand van 25 mei 2009, houdende de instelling van de klachtencommissie als bedoeld in artikel 16 van de Wet beëdigde tolken en vertalers (Instellingsbesluit klachtencommissie Wbtv)

@@ -8,7 +8,7 @@ laatste_update: 2009-05-30
 status: geldig
 toestand: 2009-05-30
 bron: "https://wetten.overheid.nl/BWBR0025886"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wijzigingsregeling Regeling maatregelen rijvaardigheid en geschiktheid (verhoging kosten eerste en tweede onderzoek naar geschiktheid)

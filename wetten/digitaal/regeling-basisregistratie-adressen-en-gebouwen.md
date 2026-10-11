@@ -9,7 +9,7 @@ laatste_update: 2018-07-01
 status: geldig
 toestand: 2018-07-01
 bron: "https://wetten.overheid.nl/BWBR0025961"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 8 juni 2009, nr. BJZ2009038757, houdende regels met betrekking tot de basisregistraties adressen en gebouwen (Regeling basisregistraties adressen en gebouwen)

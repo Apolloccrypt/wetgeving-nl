@@ -9,7 +9,7 @@ laatste_update: 2009-04-26
 status: geldig
 toestand: 2009-04-26
 bron: "https://wetten.overheid.nl/BWBR0025738"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Verkeer en Waterstaat tot vaststelling van een beleidsregel inzake het beëindigen van het verstrekken van financiële bijdrage ten behoeve van de vervaardiging of verwerving van omroepprogramma’s (VenW-beleidsregel beëindiging verstrekking financiële bijdragen aan omroepprogramma’s)

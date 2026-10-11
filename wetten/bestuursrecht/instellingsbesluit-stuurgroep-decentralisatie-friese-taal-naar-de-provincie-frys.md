@@ -8,7 +8,7 @@ laatste_update: 2009-06-13
 status: geldig
 toestand: 2009-06-13
 bron: "https://wetten.overheid.nl/BWBR0025936"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Instellingsbesluit Stuurgroep decentralisatie Friese taal naar de provincie Fryslân

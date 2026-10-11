@@ -9,7 +9,7 @@ laatste_update: 2011-06-16
 status: geldig
 toestand: 2011-06-16
 bron: "https://wetten.overheid.nl/BWBR0024899"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Economische Zaken van 3 december 2008, nr. WJZ/8186951, houdende intrekking van een aantal subsidieregelingen in verband met de stroomlijning hiervan

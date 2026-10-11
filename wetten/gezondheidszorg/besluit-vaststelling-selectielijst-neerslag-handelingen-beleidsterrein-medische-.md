@@ -8,7 +8,7 @@ laatste_update: 2009-03-21
 status: geldig
 toestand: 2009-03-21
 bron: "https://wetten.overheid.nl/BWBR0025495"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Medische Beroepen en Opleidingen vanaf 1945 (Minister van Volksgezondheid, Welzijn en Sport)

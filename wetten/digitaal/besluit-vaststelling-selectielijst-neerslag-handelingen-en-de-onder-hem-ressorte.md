@@ -8,7 +8,7 @@ laatste_update: 2009-03-13
 status: geldig
 toestand: 2009-03-13
 bron: "https://wetten.overheid.nl/BWBR0025394"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen en de onder hem ressorterende actoren Telecommunicatie en Post vanaf 1945 (Minister van Buitenlandse Zaken)

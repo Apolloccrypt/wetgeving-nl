@@ -9,7 +9,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBR0025557"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 maart 2009, nr. Directie GOB/DIV/2009/5301, houdende een beperking van de openbaarheid voor de inventarisnummers 29 tot en met 59, 62, 86 tot en met 104 en 108 tot en met 133 uit het archief van de Emigratievertegenwoordiging in het buitenland van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1952-1992 (Archiefregeling III voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid)

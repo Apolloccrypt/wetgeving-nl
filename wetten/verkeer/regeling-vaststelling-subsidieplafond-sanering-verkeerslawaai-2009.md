@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024953"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 december 2008, nr. LOK 2008.119864, houdende vaststelling van het subsidieplafond sanering verkeerslawaai 2009

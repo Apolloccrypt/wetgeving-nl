@@ -9,7 +9,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBR0025580"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 12 maart 2009 tot wijziging van de Wet educatie en beroepsonderwijs inzake colleges van bestuur en raden van toezicht

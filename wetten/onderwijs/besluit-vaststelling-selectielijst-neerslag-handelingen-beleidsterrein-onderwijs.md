@@ -8,7 +8,7 @@ laatste_update: 2009-01-23
 status: geldig
 toestand: 2009-01-23
 bron: "https://wetten.overheid.nl/BWBR0025207"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein onderwijs vanaf 1992 (Minister van Onderwijs, Cultuur en Wetenschap)

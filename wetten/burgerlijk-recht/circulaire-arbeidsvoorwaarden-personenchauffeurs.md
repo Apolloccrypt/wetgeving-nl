@@ -8,7 +8,7 @@ laatste_update: 2009-08-04
 status: geldig
 toestand: 2009-08-04
 bron: "https://wetten.overheid.nl/BWBR0026215"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Circulaire Arbeidsvoorwaarden personenchauffeurs

@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0024896"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 11 december 2008, houdende regels inzake de kwaliteit en integriteit van beëdigde tolken en vertalers (Besluit beëdigde tolken en vertalers)

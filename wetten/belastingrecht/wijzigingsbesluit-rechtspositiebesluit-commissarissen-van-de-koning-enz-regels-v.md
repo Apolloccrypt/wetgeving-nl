@@ -9,7 +9,7 @@ laatste_update: 2009-04-19
 status: geldig
 toestand: 2009-04-19
 bron: "https://wetten.overheid.nl/BWBR0025318"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 29 januari 2009 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit burgemeesters en het Rechtspositiebesluit wethouders in verband met het stellen van regels betreffende een vergoeding voor de belastingheffing voor het gebruik van dienstauto’s

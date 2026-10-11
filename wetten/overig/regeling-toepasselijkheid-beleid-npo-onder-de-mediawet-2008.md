@@ -9,7 +9,7 @@ laatste_update: 2009-05-07
 status: geldig
 toestand: 2009-05-07
 bron: "https://wetten.overheid.nl/BWBR0025810"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Tijdelijke regeling van de Raad van Bestuur van de Nederlandse Omroep Stichting, ook handelende onder de naam NPO van 25 maart 2009 over de toepasselijkheid van (nadere) bindende regelingen en overige brieven en schriftelijk vastgelegd beleid van de NPO in verband met de inwerkingtreding van de Mediawet 2008 (Regeling toepasselijkheid beleid NPO onder de Mediawet 2008)

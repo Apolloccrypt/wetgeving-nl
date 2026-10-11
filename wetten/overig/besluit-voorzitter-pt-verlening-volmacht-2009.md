@@ -9,7 +9,7 @@ laatste_update: 2009-05-03
 status: geldig
 toestand: 2009-05-03
 bron: "https://wetten.overheid.nl/BWBR0025860"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de voorzitter van het Productschap Tuinbouw, d.d. 31 maart 2009, houdende verlening van volmacht aan de secretaris van het Productschap Tuinbouw (Besluit voorzitter PT verlening volmacht 2009)

@@ -8,7 +8,7 @@ laatste_update: 2009-02-08
 status: geldig
 toestand: 2009-02-08
 bron: "https://wetten.overheid.nl/BWBR0025272"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling factoren L en r boekjaar 2009

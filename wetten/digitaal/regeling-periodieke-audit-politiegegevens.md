@@ -9,7 +9,7 @@ laatste_update: 2019-06-26
 status: geldig
 toestand: 2019-06-26
 bron: "https://wetten.overheid.nl/BWBR0025038"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Justitie, de Minister van Binnenlandse Zaken en de Minister van Defensie van 9 december 2008, nr. 5578598/08, houdende nadere regels ten aanzien van het toezicht op de naleving van de bij of krachtens de Wet politiegegevens gegevens voorschriften (Regeling periodieke audit politiegegegevens)

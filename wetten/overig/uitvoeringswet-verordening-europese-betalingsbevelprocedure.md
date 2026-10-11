@@ -9,7 +9,7 @@ laatste_update: 2017-09-01
 status: geldig
 toestand: 2017-09-01
 bron: "https://wetten.overheid.nl/BWBR0025921"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 29 mei 2009 tot uitvoering van verordening (EG) Nr. 1896/2006 van het Europees Parlement en de Raad van 12 december 2006 tot invoering van een Europese betalingsbevelprocedure (Pb EU L 399) (Uitvoeringswet verordening Europese betalingsbevelprocedure)

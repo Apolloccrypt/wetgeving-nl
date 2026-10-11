@@ -9,7 +9,7 @@ laatste_update: 2013-04-06
 status: geldig
 toestand: 2013-04-06
 bron: "https://wetten.overheid.nl/BWBR0025355"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 februari 2009, nr. CZ-TSZ-2912089, houdende houdende regels ten aanzien van preïmplantatie genetische diagnostiek (PGD) (Regeling preïmplantatie genetische diagnostiek)

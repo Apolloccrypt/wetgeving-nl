@@ -9,7 +9,7 @@ laatste_update: 2009-04-24
 status: geldig
 toestand: 2009-04-24
 bron: "https://wetten.overheid.nl/BWBR0025716"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 april 2009, nr. DDI/ST/reg. 001/2009, houdende beperking van de openbaarheid van het archief van de Nederlandse permanente vertegenwoordiging bij het Internationaal Atoomenergie Agentschap (IAEA) te Wenen van het Ministerie van Buitenlandse Zaken, 1955–1974

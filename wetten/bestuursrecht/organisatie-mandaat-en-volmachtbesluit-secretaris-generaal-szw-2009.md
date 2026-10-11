@@ -9,7 +9,7 @@ laatste_update: 2026-04-16
 status: geldig
 toestand: 2026-04-16
 bron: "https://wetten.overheid.nl/BWBR0024991"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 december 2008, nr. BSG/2008/35059, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de secretaris-generaal ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit secretaris-generaal 2009)

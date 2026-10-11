@@ -9,7 +9,7 @@ laatste_update: 2010-12-31
 status: geldig
 toestand: 2010-12-31
 bron: "https://wetten.overheid.nl/BWBR0024975"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 18 december 2008, houdende wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2009)

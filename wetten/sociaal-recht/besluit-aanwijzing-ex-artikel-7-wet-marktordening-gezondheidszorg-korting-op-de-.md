@@ -9,7 +9,7 @@ laatste_update: 2009-03-12
 status: geldig
 toestand: 2009-03-12
 bron: "https://wetten.overheid.nl/BWBR0025411"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 21 november 2008, CZ-U-2.893.230, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake een korting op de begroting voor huisartsenzorg per 2009

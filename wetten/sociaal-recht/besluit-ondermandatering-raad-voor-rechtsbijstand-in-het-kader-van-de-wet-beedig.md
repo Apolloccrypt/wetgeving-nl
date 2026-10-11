@@ -8,7 +8,7 @@ laatste_update: 2009-04-09
 status: geldig
 toestand: 2009-04-09
 bron: "https://wetten.overheid.nl/BWBR0025678"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit ondermandatering Raad voor Rechtsbijstand in het kader van de Wet beëdigde tolken en vertalers

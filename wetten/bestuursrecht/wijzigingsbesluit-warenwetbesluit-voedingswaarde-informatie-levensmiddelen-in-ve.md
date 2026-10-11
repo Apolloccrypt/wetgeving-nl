@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0025707"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 3 april 2009, houdende wijziging van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen in verband met richtlijn 2008/100/EG

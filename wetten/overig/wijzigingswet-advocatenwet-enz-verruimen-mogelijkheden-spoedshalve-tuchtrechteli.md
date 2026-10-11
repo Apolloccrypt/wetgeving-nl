@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0025874"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 25 mei 2009 tot wijziging van de Advocatenwet en de Wet op het notarisambt in verband met het verruimen van de mogelijkheden tot het spoedshalve tuchtrechtelijk optreden tegen advocaten en notarissen

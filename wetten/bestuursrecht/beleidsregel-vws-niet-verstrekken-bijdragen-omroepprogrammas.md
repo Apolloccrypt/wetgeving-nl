@@ -9,7 +9,7 @@ laatste_update: 2009-03-22
 status: geldig
 toestand: 2009-03-22
 bron: "https://wetten.overheid.nl/BWBR0025505"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Beleidsregel van de minister van Volksgezondheid, Welzijn en Sport van 12 februari 2009, nr. DWJZ/BWJP-2885174, inzake het niet verstrekken van financiële bijdragen ten behoeve van programma's van omroepinstellingen

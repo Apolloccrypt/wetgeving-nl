@@ -9,7 +9,7 @@ laatste_update: 2026-04-16
 status: geldig
 toestand: 2026-04-16
 bron: "https://wetten.overheid.nl/BWBR0024956"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2008, nr. PO&I/2008/34894, houdende de inrichting van de organisatie van het Ministerie van Sociale Zaken en Werkgelegenheid alsmede verdeling van taken en verlening van vertegenwoordigingsbevoegdheden (Organisatie-, mandaat- en volmachtbesluit SZW 2009)

@@ -9,7 +9,7 @@ laatste_update: 2026-07-04
 status: geldig
 toestand: 2026-07-04
 bron: "https://wetten.overheid.nl/BWBR0025554"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 21 februari 2009, houdende de vaststelling van nationale verkoopverboden en bepalingen met betrekking tot de algemene periodieke keuring van voertuigen, en tot intrekking van het Voertuigreglement (Besluit voertuigen)

@@ -9,7 +9,7 @@ laatste_update: 2009-04-22
 status: geldig
 toestand: 2009-04-22
 bron: "https://wetten.overheid.nl/BWBR0025231"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 28 november 2008, houdende derde wijziging van het Uitvoeringsbesluit WTZi

@@ -9,7 +9,7 @@ laatste_update: 2022-08-01
 status: geldig
 toestand: 2022-08-01
 bron: "https://wetten.overheid.nl/BWBR0025866"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 4 mei 2009, houdende vaststelling van regels met betrekking tot het geven van rijonderricht in het besturen van motorvoertuigen (Besluit rijonderricht motorrijtuigen 2009)

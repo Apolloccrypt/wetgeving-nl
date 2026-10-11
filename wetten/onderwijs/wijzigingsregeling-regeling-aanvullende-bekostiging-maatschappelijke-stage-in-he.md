@@ -9,7 +9,7 @@ laatste_update: 2009-07-22
 status: geldig
 toestand: 2009-07-22
 bron: "https://wetten.overheid.nl/BWBR0026134"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 19 juni 2009, nr. 2009/VO/BVB/128542, tot wijziging van de Regeling aanvullende bekostiging maatschappelijke stage in het voortgezet onderwijs voor de schooljaren 2008–2009 tot en met 2010–2011

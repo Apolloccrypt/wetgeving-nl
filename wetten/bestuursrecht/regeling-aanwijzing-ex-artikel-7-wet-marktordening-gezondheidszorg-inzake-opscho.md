@@ -9,7 +9,7 @@ laatste_update: 2009-07-30
 status: geldig
 toestand: 2009-07-30
 bron: "https://wetten.overheid.nl/BWBR0026198"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 22 juli 2009, nr. MEVA/NBO-2936858, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake opschoning in verband met het opleidingsfonds AWBZ en Zvw

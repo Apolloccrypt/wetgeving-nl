@@ -9,7 +9,7 @@ laatste_update: 2010-06-05
 status: geldig
 toestand: 2010-06-05
 bron: "https://wetten.overheid.nl/BWBR0024957"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Economische Zaken van 8 december 2008, nr. WJZ/8184558, houdende vaststelling van subsidieplafonds en termijnen van openstelling van EZ-subsidieregelingen (Regeling openstelling en subsidieplafonds EZ 2009)

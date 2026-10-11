@@ -9,7 +9,7 @@ laatste_update: 2009-07-22
 status: geldig
 toestand: 2009-07-22
 bron: "https://wetten.overheid.nl/BWBR0026135"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 7 juli 2009, nr. WJZ/2009/132105 (2693), tot wijziging van de Subsidieregeling kinderopvang in verband met de vaststelling van aanvraagtijdvakken, subsidieplafonds en thema’s voor het jaar 2009

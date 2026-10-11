@@ -8,7 +8,7 @@ laatste_update: 2009-05-16
 status: geldig
 toestand: 2009-05-16
 bron: "https://wetten.overheid.nl/BWBR0025826"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Mandaatbesluit Defensie aanwijzen personen ten behoeve van uitvoeren confrontaties en maken van opnamen daartoe

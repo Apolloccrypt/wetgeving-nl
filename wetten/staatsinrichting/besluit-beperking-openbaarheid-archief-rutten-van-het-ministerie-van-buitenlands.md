@@ -9,7 +9,7 @@ laatste_update: 2009-04-24
 status: geldig
 toestand: 2009-04-24
 bron: "https://wetten.overheid.nl/BWBR0025721"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 8 april 2009, nr. DDI/ST/reg. 009/2009, houdende beperking van de openbaarheid van het archief van mr. M.H.J.Ch. Rutten van het Ministerie van Buitenlandse Zaken, 1972–1979

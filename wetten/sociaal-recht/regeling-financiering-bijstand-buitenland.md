@@ -9,7 +9,7 @@ laatste_update: 2025-10-01
 status: geldig
 toestand: 2025-10-01
 bron: "https://wetten.overheid.nl/BWBR0025135"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 december 2008, nr. W&B/BP&C/08/36054, houdende regels voor de financiering van de verlening van bijstand in het buitenland (Regeling financiering bijstand buitenland)

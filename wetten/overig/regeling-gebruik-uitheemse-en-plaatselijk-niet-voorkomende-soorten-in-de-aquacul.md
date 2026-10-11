@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0025058"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 december 2008, nr. TRCJZ/2008/3516, houdende regels voor het gebruik van uitheemse en plaatselijk niet-voorkomende soorten in de aquacultuur (Regeling gebruik uitheemse en plaatselijk niet-voorkomende soorten in de aquacultuur)

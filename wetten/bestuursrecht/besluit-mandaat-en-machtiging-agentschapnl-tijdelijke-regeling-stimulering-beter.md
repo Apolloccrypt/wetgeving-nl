@@ -9,7 +9,7 @@ laatste_update: 2010-03-04
 status: geldig
 toestand: 2010-03-04
 bron: "https://wetten.overheid.nl/BWBR0026278"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de staatssecretaris van Financiën van 1 juli 2009, nr. RR/2009/286 M, tot mandaatverlening aan de algemeen directeur van SenterNovem voor de uitvoering van de Tijdelijke regeling stimulering betere dienstverlening aan bedrijven (hierna: de Regeling)

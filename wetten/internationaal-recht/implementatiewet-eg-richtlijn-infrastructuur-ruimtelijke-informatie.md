@@ -9,7 +9,7 @@ laatste_update: 2025-02-12
 status: geldig
 toestand: 2025-02-12
 bron: "https://wetten.overheid.nl/BWBR0026158"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 2 juli 2009 tot implementatie van richtlijn nr. 2007/2/EG van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap (Inspire) (Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie)

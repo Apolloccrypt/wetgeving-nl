@@ -8,7 +8,7 @@ laatste_update: 2012-10-03
 status: geldig
 toestand: 2012-10-03
 bron: "https://wetten.overheid.nl/BWBR0025797"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Beleidsregels vereveningsbijdrage zorgverzekering 2009

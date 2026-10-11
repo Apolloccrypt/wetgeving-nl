@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0025029"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 29 december 2008 tot wijziging van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen in verband met het opnemen van nadere bepalingen met betrekking tot de plicht tot arbeidsinschakeling van een alleenstaande ouder met een kind dat de leeftijd van vijf jaar nog niet heeft bereikt (Wet verbetering arbeidsmarktpositie alleenstaande ouders)

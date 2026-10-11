@@ -8,7 +8,7 @@ laatste_update: 2009-03-07
 status: geldig
 toestand: 2009-03-07
 bron: "https://wetten.overheid.nl/BWBR0025381"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit aanwijzing politieholsters

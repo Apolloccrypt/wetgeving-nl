@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0025101"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit houdende regels inzake delegatie van kwaliteitsonderzoek aan de Nederlandse Orde van Accountants-Administratieconsulenten (Delegatie- en uitvoeringsbesluit Verordening Kwaliteitsonderzoek)

@@ -9,7 +9,7 @@ laatste_update: 2009-05-09
 status: geldig
 toestand: 2009-05-09
 bron: "https://wetten.overheid.nl/BWBR0025808"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 april 2009, nr. FZ/BO/2009/8540, tot vervanging van archiefbescheiden

@@ -9,7 +9,7 @@ laatste_update: 2021-07-01
 status: geldig
 toestand: 2021-07-01
 bron: "https://wetten.overheid.nl/BWBR0025218"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Justitie en van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 januari 2009, nr. 5576604/08/6, houdende nadere regels in verband met de elektronische bekendmaking van wetten, algemene maatregelen van bestuur en anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften (Bekendmakingsregeling)

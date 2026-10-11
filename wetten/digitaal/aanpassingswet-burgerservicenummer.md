@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0025438"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 5 februari 2009 tot aanpassing van enige wetten in verband met de invoering van het burgerservicenummer (Aanpassingswet burgerservicenummer)

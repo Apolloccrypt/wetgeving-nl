@@ -9,7 +9,7 @@ laatste_update: 2009-08-01
 status: geldig
 toestand: 2009-08-01
 bron: "https://wetten.overheid.nl/BWBR0025783"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Justitie van 27 april 2009, nr. DDS 15597419, tot wijziging van de Regeling naturalisatietoets Nederland

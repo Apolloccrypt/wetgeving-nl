@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024889"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 20 november 2008, houdende herstel van wetstechnische gebreken in de Wet op het financieel toezicht en een aantal andere wetten (Reparatiewet Wft)

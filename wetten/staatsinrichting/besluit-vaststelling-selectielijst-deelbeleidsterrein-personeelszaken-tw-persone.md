@@ -9,7 +9,7 @@ laatste_update: 2009-06-13
 status: geldig
 toestand: 2009-06-13
 bron: "https://wetten.overheid.nl/BWBR0025927"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 16 april 2009, nr. 09.001007, houdende vaststelling van een selectielijst van de Tweede Kamer der Staten-Generaal op het deelbeleidsterrein van personeelszaken, t.w. personeelsdossiers

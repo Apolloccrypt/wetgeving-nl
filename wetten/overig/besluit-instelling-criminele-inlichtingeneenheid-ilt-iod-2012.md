@@ -9,7 +9,7 @@ laatste_update: 2013-01-15
 status: geldig
 toestand: 2013-01-15
 bron: "https://wetten.overheid.nl/BWBR0024867"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van 9 december 2008, nr. BJZ2008117292, houdende de instelling van een criminele-inlichtingeneenheid VROM-IOD

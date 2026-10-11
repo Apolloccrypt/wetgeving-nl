@@ -9,7 +9,7 @@ laatste_update: 2020-01-01
 status: geldig
 toestand: 2020-01-01
 bron: "https://wetten.overheid.nl/BWBR0025793"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 april 2009, nr. DK/B&B/110520, houdende vaststelling van de vergoedingen van de voorzitter en overige leden van de Raad voor cultuur (Vergoedingenregeling Raad voor cultuur)

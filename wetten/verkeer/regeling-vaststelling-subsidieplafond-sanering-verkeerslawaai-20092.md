@@ -9,7 +9,7 @@ laatste_update: 2009-07-18
 status: geldig
 toestand: 2009-07-18
 bron: "https://wetten.overheid.nl/BWBR0026125"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 8 juli 2009, nr. DGR/LOK 2009046537, houdende vaststelling van het subsidieplafond sanering verkeerslawaai 2009

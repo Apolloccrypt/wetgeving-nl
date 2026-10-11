@@ -9,7 +9,7 @@ laatste_update: 2023-03-01
 status: geldig
 toestand: 2023-03-01
 bron: "https://wetten.overheid.nl/BWBR0024841"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 24 november 2008, houdende periodieke registratie van op grond van artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg ingeschrevenen (Besluit periodieke registratie Wet BIG)

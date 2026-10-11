@@ -9,7 +9,7 @@ laatste_update: 2010-02-24
 status: geldig
 toestand: 2010-02-24
 bron: "https://wetten.overheid.nl/BWBR0025369"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 februari 2009, nr. R&P/RA/2009/2855 tot instelling van een Comité van Experts subsidieregeling ESF 2007–2013/Actie C

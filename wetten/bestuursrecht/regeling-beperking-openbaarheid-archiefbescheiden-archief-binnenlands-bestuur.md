@@ -8,7 +8,7 @@ laatste_update: 2009-02-12
 status: geldig
 toestand: 2009-02-12
 bron: "https://wetten.overheid.nl/BWBR0025280"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling beperking openbaarheid archiefbescheiden archief Binnenlands Bestuur

@@ -9,7 +9,7 @@ laatste_update: 2009-06-14
 status: geldig
 toestand: 2009-06-14
 bron: "https://wetten.overheid.nl/BWBR0025940"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 3 juni 2009, nr. DDI/ST/reg. 020/2009, houdende beperking van de openbaarheid van het archief van het Hoge Commissariaat in Indonesië te Jakarta van het Ministerie van Buitenlandse Zaken, 1949–1961

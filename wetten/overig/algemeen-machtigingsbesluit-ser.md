@@ -9,7 +9,7 @@ laatste_update: 2014-06-14
 status: geldig
 toestand: 2014-06-14
 bron: "https://wetten.overheid.nl/BWBR0025518"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Sociaal-Economische Raad van 6 februari 2009, houdende machtiging aan het dagelijks bestuur en enkele commissies (Algemeen machtigingsbesluit SER)

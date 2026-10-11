@@ -8,7 +8,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0025891"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit aanwijzing gemeenten Tijdelijk experimentenbesluit Kiezen op Afstand (Europees Parlement 4 juni 2009/2)

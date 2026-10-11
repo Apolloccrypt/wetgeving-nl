@@ -9,7 +9,7 @@ laatste_update: 2009-03-10
 status: geldig
 toestand: 2009-03-10
 bron: "https://wetten.overheid.nl/BWBR0025643"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van het Commissariaat voor de Media van 10 maart 2009 houdende beleidsregels omtrent lokaal publiek media-aanbod voor twee of meer gemeenten (Beleidsregels lokaal publiek media-aanbod voor twee of meer gemeenten 2009)

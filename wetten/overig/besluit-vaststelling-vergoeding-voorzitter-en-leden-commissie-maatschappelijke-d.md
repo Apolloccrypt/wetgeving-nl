@@ -8,7 +8,7 @@ laatste_update: 2009-05-06
 status: geldig
 toestand: 2009-05-06
 bron: "https://wetten.overheid.nl/BWBR0025768"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling vergoeding voorzitter en leden Commissie maatschappelijke dialoog nanotechnologie

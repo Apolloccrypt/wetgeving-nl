@@ -9,7 +9,7 @@ laatste_update: 2009-04-01
 status: geldig
 toestand: 2009-04-01
 bron: "https://wetten.overheid.nl/BWBR0025045"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 29 december 2008 houdende regels met betrekking tot participatieplaatsen en loonkostensubsidies (Wet stimulering arbeidsparticipatie)

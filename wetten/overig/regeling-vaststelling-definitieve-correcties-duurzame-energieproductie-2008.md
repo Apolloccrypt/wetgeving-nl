@@ -9,7 +9,7 @@ laatste_update: 2009-04-10
 status: geldig
 toestand: 2009-04-10
 bron: "https://wetten.overheid.nl/BWBR0025666"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Economische Zaken van 27 maart 2009, nr. WJZ/9058635, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2008 (Regeling vaststelling definitieve correcties duurzame energieproductie 2008)

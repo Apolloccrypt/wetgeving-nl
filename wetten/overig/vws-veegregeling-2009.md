@@ -9,7 +9,7 @@ laatste_update: 2009-02-06
 status: geldig
 toestand: 2009-02-06
 bron: "https://wetten.overheid.nl/BWBR0025267"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de minister van Volksgezondheid, Welzijn en Sport van 26 januari 2009, nr. DWJZ/SWW-2907432, houdende enkele kleine wijzigingen van regelingen op het terrein van VWS, alsmede intrekking van diverse regelingen op dat terrein die hun betekenis hebben verloren (VWS veegregeling 2009)

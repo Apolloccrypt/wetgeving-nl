@@ -9,7 +9,7 @@ laatste_update: 2009-05-17
 status: geldig
 toestand: 2009-05-17
 bron: "https://wetten.overheid.nl/BWBR0025840"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Economische Zaken van 29 april 2009, nr. WJZ/9079703, tot vaststelling van een subsidieplafond krachtens het Besluit subsidies Topprojecten herstructurering bedrijventerreinen

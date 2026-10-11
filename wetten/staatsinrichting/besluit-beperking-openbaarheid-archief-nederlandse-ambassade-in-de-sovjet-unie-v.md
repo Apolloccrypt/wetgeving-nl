@@ -9,7 +9,7 @@ laatste_update: 2009-02-28
 status: geldig
 toestand: 2009-02-28
 bron: "https://wetten.overheid.nl/BWBR0025334"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 11 februari 2009, nr. DDI/ST/reg. 010/2009, houdende beperking van de openbaarheid van het archief van de Nederlandse Ambassade in de Sovjet-Unie van het Ministerie van Buitenlandse Zaken, 1955–1974

@@ -9,7 +9,7 @@ laatste_update: 2024-01-01
 status: geldig
 toestand: 2024-01-01
 bron: "https://wetten.overheid.nl/BWBR0026131"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 juli 2009, nr. BJZ2009044653, houdende vervanging van de Regeling acceptatie geconditioneerde gevaarlijke afvalstoffen op stortplaatsen in verband met de implementatie van beschikking nr. 2003/33/EG tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen (PbEG L 11) (Regeling acceptatie afvalstoffen op stortplaatsen)

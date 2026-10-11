@@ -9,7 +9,7 @@ laatste_update: 2019-01-01
 status: geldig
 toestand: 2019-01-01
 bron: "https://wetten.overheid.nl/BWBR0025572"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 25 maart 2009, houdende regels inzake de volledige liberalisering van de postmarkt en de garantie van de universele postdienstverlening (Postwet 2009)

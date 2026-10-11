@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024874"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 30 oktober 2008 tot wijziging van de Wet financiering decentrale overheden en enkele andere wetten ten behoeve van een verbeterde werking van de financieringsfunctie van decentrale overheden

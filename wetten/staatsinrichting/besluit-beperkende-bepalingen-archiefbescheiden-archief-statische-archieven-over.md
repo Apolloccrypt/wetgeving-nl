@@ -8,7 +8,7 @@ laatste_update: 2009-04-05
 status: geldig
 toestand: 2009-04-05
 bron: "https://wetten.overheid.nl/BWBR0025608"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit beperkende bepalingen archiefbescheiden archief Statische Archieven Overzeese Rijksdelen 1925–1980

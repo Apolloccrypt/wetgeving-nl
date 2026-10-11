@@ -9,7 +9,7 @@ laatste_update: 2026-04-01
 status: geldig
 toestand: 2026-04-01
 bron: "https://wetten.overheid.nl/BWBR0024941"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 15 december 2008 tot aanwijzing van voorschriften en vaststelling van boetetarieven als bedoeld in artikel 154b, eerste lid, onderdelen a en b, en zevende lid, van de Gemeentewet (Besluit bestuurlijke boete overlast in de openbare ruimte)

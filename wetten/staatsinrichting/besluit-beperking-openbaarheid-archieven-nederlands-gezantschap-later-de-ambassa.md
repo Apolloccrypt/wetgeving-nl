@@ -9,7 +9,7 @@ laatste_update: 2008-12-11
 status: geldig
 toestand: 2008-12-11
 bron: "https://wetten.overheid.nl/BWBR0024814"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 26 november 2008, nr. DDI/ST/reg. 062/2008, houdende beperking van de openbaarheid van de archieven van het Nederlands Gezantschap, later de Ambassade in Zwitserland te Bern en het Consulaat, later het Consulaat-Generaal in Zwitserland te Genève van het Ministerie van Buitenlandse Zaken, 1955–1974

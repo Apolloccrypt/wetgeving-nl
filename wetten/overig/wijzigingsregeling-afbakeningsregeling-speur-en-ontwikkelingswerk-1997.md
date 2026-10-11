@@ -9,7 +9,7 @@ laatste_update: 2008-12-26
 status: geldig
 toestand: 2008-12-26
 bron: "https://wetten.overheid.nl/BWBR0024999"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Economische Zaken van 8 december 2008, nr. WJZ/8171682, tot wijziging van de Afbakeningsregeling 1997 (Stcrt. 196, 248)

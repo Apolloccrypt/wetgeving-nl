@@ -9,7 +9,7 @@ laatste_update: 2011-09-01
 status: geldig
 toestand: 2011-09-01
 bron: "https://wetten.overheid.nl/BWBR0026276"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 18 juli 2009 tot wijziging van de Zorgverzekeringswet, de Wet op de zorgtoeslag en enige andere wetten, houdende maatregelen om ook wanbetalers voor hun zorgverzekering te laten betalen (structurele maatregelen wanbetalers zorgverzekering)

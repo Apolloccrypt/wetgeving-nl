@@ -9,7 +9,7 @@ laatste_update: 2009-05-15
 status: geldig
 toestand: 2009-05-15
 bron: "https://wetten.overheid.nl/BWBR0025800"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken van 24 april 2009, nr. AT-EZ/6279718.JZ, houdende vaststelling van een beleidsregel met betrekking tot het voorkomen van ontoelaatbare belemmeringen door het gewenste signaal (Beleidsregel storing door het gewenste signaal van radiozendapparaten)

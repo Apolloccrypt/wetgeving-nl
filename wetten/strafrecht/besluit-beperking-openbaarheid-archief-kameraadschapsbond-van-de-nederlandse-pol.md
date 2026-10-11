@@ -9,7 +9,7 @@ laatste_update: 2009-11-01
 status: geldig
 toestand: 2009-11-01
 bron: "https://wetten.overheid.nl/BWBR0026316"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief betreffende Kameraadschapsbond van de Nederlandse Politie en het Georganiseerd Overleg voor Politieambtenarenzaken ressorterend onder het Ministerie van Justitie 1943–1994 (als bedoeld in artikel 10 van het Archiefbesluit 1995)

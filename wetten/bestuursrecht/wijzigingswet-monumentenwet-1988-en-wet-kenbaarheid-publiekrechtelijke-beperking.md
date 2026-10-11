@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024929"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 18 december 2008 tot wijziging van de Monumentenwet 1988 in verband met onder meer beperking van de ministeriële adviesplicht bij aanvragen om een monumentenvergunning

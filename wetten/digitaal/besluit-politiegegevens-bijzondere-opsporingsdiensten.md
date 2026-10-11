@@ -9,7 +9,7 @@ laatste_update: 2025-01-01
 status: geldig
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0026117"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 3 juli 2009, houdende bepalingen inzake de overeenkomstige toepassing van de Wet politiegegevens op de verwerking van persoonsgegevens door een dienst van een publiekrechtelijk lichaam die is belast met de opsporing van strafbare feiten (Besluit politiegegevens bijzondere opsporingsdiensten)

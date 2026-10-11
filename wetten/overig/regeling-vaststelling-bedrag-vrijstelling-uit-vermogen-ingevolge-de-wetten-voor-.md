@@ -8,7 +8,7 @@ laatste_update: 1998-01-01
 status: geldig
 toestand: 1998-01-01
 bron: "https://wetten.overheid.nl/BWBR0025872"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling vaststelling bedrag vrijstelling uit vermogen ingevolge de wetten voor oorlogsgetroffenen per 1 januari 1998

@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0024913"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Wet van 27 november 2008 tot wijziging van de Bekendmakingswet en enkele andere wetten in verband met de elektronische bekendmaking en beschikbaarstelling in geconsolideerde vorm van wetten, algemene maatregelen van bestuur, anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften en andere besluiten die niet tot een of meer belanghebbenden zijn gericht (Wet elektronische bekendmaking)

@@ -9,7 +9,7 @@ laatste_update: 2009-02-08
 status: geldig
 toestand: 2009-02-08
 bron: "https://wetten.overheid.nl/BWBR0025275"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Financiën d.d. 15 januari 2009, nr. BenC 2009-108 N, tot beperking van de openbaarheid van naar het Nationaal Archief over te brengen archief van de Liquidatie van Verwalthung Sarphatistraat (LVVS) en van de Vermögensverwaltungs- en Rentenanstalt (VVRA), over de periode (1929) 1941–1958. De archiefbescheiden betreffen een aanvulling op de archiefbescheiden die ingevolge het besluit van 18 oktober 2004, nr. IAZ/2004/881 reeds naar het Nationaal Archief zijn overgebracht en zijn afkomstig van het Agentschap van het ministerie van Financiën.

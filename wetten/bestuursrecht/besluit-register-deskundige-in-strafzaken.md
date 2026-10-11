@@ -9,7 +9,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0026190"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 18 juli 2009, houdende instelling van het Nederlands register gerechtelijk deskundigen en kwaliteitseisen aan deskundigen in strafzaken (Besluit register deskundige in strafzaken)

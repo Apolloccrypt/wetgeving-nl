@@ -9,7 +9,7 @@ laatste_update: 2010-01-01
 status: geldig
 toestand: 2010-01-01
 bron: "https://wetten.overheid.nl/BWBR0025923"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Ministers van Landbouw, Natuur en Voedselkwaliteit van 3 juni 2009, nr. 2673, houdende beëindiging van het verstrekken van financiële bijdragen ten behoeve van de uitzending van coproducties of andere omroepprogramma’s door omroepinstellingen

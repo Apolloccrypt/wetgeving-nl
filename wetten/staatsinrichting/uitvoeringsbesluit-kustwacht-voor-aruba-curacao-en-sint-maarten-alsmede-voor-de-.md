@@ -9,7 +9,7 @@ laatste_update: 2010-10-10
 status: geldig
 toestand: 2010-10-10
 bron: "https://wetten.overheid.nl/BWBR0025441"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 7 januari 2009, houdende bepalingen ter uitvoering van de Rijkswet Kustwacht voor de Nederlandse Antillen en Aruba (Uitvoeringsbesluit Kustwacht voor de Nederlandse Antillen en Aruba)

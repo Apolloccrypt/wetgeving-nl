@@ -9,7 +9,7 @@ laatste_update: 2026-07-07
 status: geldig
 toestand: 2026-07-07
 bron: "https://wetten.overheid.nl/BWBR0025704"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling tot uitvoering van de Wet wegvervoer goederen (Regeling wegvervoer goederen)

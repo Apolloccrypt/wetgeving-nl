@@ -9,7 +9,7 @@ laatste_update: 2009-01-01
 status: geldig
 toestand: 2009-01-01
 bron: "https://wetten.overheid.nl/BWBR0024966"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 18 december 2008, houdende herstel van technische gebreken in algemene maatregelen van bestuur op grond van de Wet op het financieel toezicht, het Besluit fondsen en spaarregelingen, het Besluit implementatie kapitaalakkoord Bazel 2 en het Uitvoeringsbesluit Wet ter voorkoming van witwassen en financieren van terrorisme (Reparatiebesluit Wft)

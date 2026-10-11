@@ -8,7 +8,7 @@ laatste_update: 2009-03-04
 status: geldig
 toestand: 2009-03-04
 bron: "https://wetten.overheid.nl/BWBR0025389"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen Inspectie voor de Gezondheidszorg beleidsterrein Toezicht op de Volksgezondheid en de Gezondheidszorg vanaf 1945

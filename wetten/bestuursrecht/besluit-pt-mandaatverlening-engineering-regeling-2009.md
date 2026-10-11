@@ -9,7 +9,7 @@ laatste_update: 2009-05-31
 status: geldig
 toestand: 2009-05-31
 bron: "https://wetten.overheid.nl/BWBR0026170"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 24 maart 2009 houdende verlening van mandaat tot verlening en vaststelling van subsidie op grond van de Engineering Regeling (Bestuursbesluit PT mandaatverlening Engineering Regeling 2009)

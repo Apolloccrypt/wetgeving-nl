@@ -9,7 +9,7 @@ laatste_update: 2009-09-01
 status: geldig
 toestand: 2009-09-01
 bron: "https://wetten.overheid.nl/BWBR0026091"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief van de Kerkgenootschappen van de Hoofdafdeling Privaatrecht, Bureau Verenigingen en Stichtingen van het Ministerie van Justitie (1873) 1941–1988 (2000) (als bedoeld in artikel 10 van het Archiefbesluit 1995)

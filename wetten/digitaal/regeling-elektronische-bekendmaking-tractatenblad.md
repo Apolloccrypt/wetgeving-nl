@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0024875"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Buitenlandse Zaken van 5 december 2008, nr. DJZ/BR/1140-08, houdende nadere regels in verband met de elektronische bekendmaking van verdragen en van besluiten van volkenrechtelijke organisaties (Regeling elektronische bekendmaking Tractatenblad)

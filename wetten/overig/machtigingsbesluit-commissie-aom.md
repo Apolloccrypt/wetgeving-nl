@@ -9,7 +9,7 @@ laatste_update: 2009-03-22
 status: geldig
 toestand: 2009-03-22
 bron: "https://wetten.overheid.nl/BWBR0025676"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 12 maart 2009 van de Commissie Arbeid, Onderneming en Medezeggenschap van de Sociaal-Economische Raad, houdende machtiging aan de Subcommissie Ontheffingen Structuurwet (Machtigingsbesluit Commissie AOM)

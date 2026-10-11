@@ -9,7 +9,7 @@ laatste_update: 2009-05-01
 status: geldig
 toestand: 2009-05-01
 bron: "https://wetten.overheid.nl/BWBR0025400"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister voor Ontwikkelingssamenwerking van 17 februari 2009, nr. DJZ/BR-1189/08, houdende vaststelling van een vergoeding voor de voorzitter en leden van de Adviescommissie Fonds voor Economische Opbouw Uruzgan

@@ -9,7 +9,7 @@ laatste_update: 2013-01-01
 status: geldig
 toestand: 2013-01-01
 bron: "https://wetten.overheid.nl/BWBR0026153"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli 2009, nr R&P/RA/2009/16207 tot openstelling van de mogelijkheid projectvoorstellen in te dienen in het kader van het Europees Globaliseringsfonds (EGF)

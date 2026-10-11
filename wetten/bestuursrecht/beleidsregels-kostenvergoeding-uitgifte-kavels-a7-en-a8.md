@@ -9,7 +9,7 @@ laatste_update: 2009-08-02
 status: geldig
 toestand: 2009-08-02
 bron: "https://wetten.overheid.nl/BWBR0026206"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Beleidsregel kostenvergoeding uitgifte kavels A7 en A8

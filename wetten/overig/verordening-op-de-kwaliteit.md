@@ -8,7 +8,7 @@ laatste_update: 2012-08-16
 status: geldig
 toestand: 2012-08-16
 bron: "https://wetten.overheid.nl/BWBR0024830"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Verordening op de kwaliteit

@@ -9,7 +9,7 @@ laatste_update: 2017-10-01
 status: geldig
 toestand: 2017-10-01
 bron: "https://wetten.overheid.nl/BWBR0024881"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Economische Zaken van 3 december 2008, nr. WJZ/8187136, houdende vaststelling van subsidie-instrumenten op het terrein van sterktes in innovatie (Subsidieregeling sterktes in innovatie)

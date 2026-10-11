@@ -8,7 +8,7 @@ laatste_update: 2023-04-01
 status: geldig
 toestand: 2023-04-01
 bron: "https://wetten.overheid.nl/BWBR0025890"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling rijonderricht motorrijtuigen 2009

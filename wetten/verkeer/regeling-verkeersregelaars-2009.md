@@ -9,7 +9,7 @@ laatste_update: 2020-07-01
 status: geldig
 toestand: 2020-07-01
 bron: "https://wetten.overheid.nl/BWBR0025299"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Verkeer en Waterstaat houdende regels met betrekking tot de opleiding, de aanstelling, de examinering en de uitrusting van verkeersregelaars (Regeling verkeersregelaars 2009)

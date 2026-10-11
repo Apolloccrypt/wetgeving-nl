@@ -9,7 +9,7 @@ laatste_update: 2012-10-01
 status: geldig
 toestand: 2012-10-01
 bron: "https://wetten.overheid.nl/BWBR0025962"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Wet van 12 juni 2009 tot wijziging van het Wetboek van Strafrecht, Wetboek van Strafvordering en enkele aanverwante wetten in verband met de strafbaarstelling van het deelnemen en meewerken aan training voor terrorisme, uitbreiding van de mogelijkheden tot ontzetting uit het beroep als bijkomende straf en enkele andere wijzigingen

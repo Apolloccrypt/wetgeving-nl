@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0025578"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 22 maart 2009, nr. WJZ/9055290, houdende regels betreffende de universele postdienst (Postregeling 2009)

@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0026218"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Ministeriële regeling van 27 juni 2008, Afdeling Pensioenen, Sociale Zekerheid en Zorg, nr. P/2008011730

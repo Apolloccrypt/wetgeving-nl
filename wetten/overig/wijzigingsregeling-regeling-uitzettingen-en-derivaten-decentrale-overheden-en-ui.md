@@ -9,7 +9,7 @@ laatste_update: 2009-04-05
 status: geldig
 toestand: 2009-04-05
 bron: "https://wetten.overheid.nl/BWBR0025607"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling tot wijziging van de Regeling uitzettingen en derivaten decentrale overheden en van de Uitvoeringsregeling Financiering decentrale overheden

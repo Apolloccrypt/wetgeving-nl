@@ -8,7 +8,7 @@ laatste_update: 2009-03-01
 status: geldig
 toestand: 2009-03-01
 bron: "https://wetten.overheid.nl/BWBR0025363"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit registratie UWV 2009

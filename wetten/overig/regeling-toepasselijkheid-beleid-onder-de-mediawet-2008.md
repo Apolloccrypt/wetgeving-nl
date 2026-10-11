@@ -9,7 +9,7 @@ laatste_update: 2009-01-21
 status: geldig
 toestand: 2009-01-21
 bron: "https://wetten.overheid.nl/BWBR0025205"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Tijdelijke regeling van het Commissariaat voor de Media van 13 januari 2009 houdende beleidsregels omtrent toepasselijkheid van de beleidsregels van het Commissariaat voor de Media in verband met de inwerkingtreding van de Mediawet 2008 (Regeling toepasselijkheid beleid onder de Mediawet 2008)

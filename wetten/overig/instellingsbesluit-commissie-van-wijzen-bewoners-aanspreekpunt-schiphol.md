@@ -8,7 +8,7 @@ laatste_update: 2009-07-17
 status: geldig
 toestand: 2009-07-17
 bron: "https://wetten.overheid.nl/BWBR0026111"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Instellingsbesluit Commissie van Wijzen Bewoners Aanspreekpunt Schiphol

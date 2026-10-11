@@ -8,7 +8,7 @@ laatste_update: 2010-03-08
 status: geldig
 toestand: 2010-03-08
 bron: "https://wetten.overheid.nl/BWBR0025239"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2009

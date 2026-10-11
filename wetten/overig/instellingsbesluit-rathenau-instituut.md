@@ -9,7 +9,7 @@ laatste_update: 2009-07-24
 status: geldig
 toestand: 2009-07-24
 bron: "https://wetten.overheid.nl/BWBR0026157"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2009, nr. OWB/FO/130825, houdende de herziening van het Besluit van de Staatssecretaris van Onderwijs en Wetenschappen van 19 april 1994, nr. OWB/FO-93070908, aangaande de instelling van het Rathenau Instituut (Instellingbesluit Rathenau Instituut)

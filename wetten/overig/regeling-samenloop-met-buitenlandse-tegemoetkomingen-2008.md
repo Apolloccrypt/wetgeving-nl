@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0025183"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Regeling van 7 januari 2009, nr. DSV/2897940, houdende regels ter voorkoming of beperking van samenloop van kinderbijslag en kindgebonden budget met daarmee overeenkomende buitenlandse tegemoetkomingen of tegemoetkomingen van een volkenrechtelijke organisatie en aanvulling na toepassing prioriteitsregels Verordening (EEG) nr. 1408/71 en Verordening (EEG) nr. 574/72 (Regeling samenloop met buitenlandse tegemoetkomingen 2008)

@@ -8,7 +8,7 @@ laatste_update: 2009-03-06
 status: geldig
 toestand: 2009-03-06
 bron: "https://wetten.overheid.nl/BWBR0025393"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen minister van Algemene Zaken beleidsterrein Telecommunicatie en Post vanaf 1945

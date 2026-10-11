@@ -8,7 +8,7 @@ laatste_update: 2009-03-14
 status: geldig
 toestand: 2009-03-14
 bron: "https://wetten.overheid.nl/BWBR0025410"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Algemeen Wetenschappelijke Voorbereiding van het Regeringsbeleid vanaf 1945 (Minister van Economische Zaken)

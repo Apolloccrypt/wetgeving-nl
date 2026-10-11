@@ -9,7 +9,7 @@ laatste_update: 2009-03-29
 status: geldig
 toestand: 2009-03-29
 bron: "https://wetten.overheid.nl/BWBR0025686"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van het bestuur van het Productschap Tuinbouw van 3 juli 2007, houdende de vaststelling van een heffing ten behoeve van de teelt van vollegrondsgroenten voor het jaar 2008 (Verordening PT heffing vollegrondsgroenten 2008)

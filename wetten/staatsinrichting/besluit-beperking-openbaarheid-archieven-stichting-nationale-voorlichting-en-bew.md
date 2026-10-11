@@ -9,7 +9,7 @@ laatste_update: 2009-05-28
 status: geldig
 toestand: 2009-05-28
 bron: "https://wetten.overheid.nl/BWBR0025881"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 27 april 2009, nr. DDI/ST/reg. 016/2009, houdende beperking van de openbaarheid van de archieven van de Stichting Nationale Voorlichting en Bewustwording Ontwikkelingssamenwerking (NCO) en taakvoorganger van het Ministerie van Buitenlandse Zaken, (1969) 1970–1990

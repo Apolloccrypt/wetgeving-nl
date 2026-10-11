@@ -9,7 +9,7 @@ laatste_update: 2011-01-01
 status: geldig
 toestand: 2011-01-01
 bron: "https://wetten.overheid.nl/BWBR0026319"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 augustus 2009, nr. CZW/WVOB 2009-0000414307, tot wijziging van het Besluit bezoldiging politie, de Regeling bijzondere ontslaguitkering politie en de Tijdelijke regeling nachtdienstontheffing politie en tot de toekenning van bijzondere uitkeringen in de jaren 2008, 2009 en 2010, in verband met het Akkoord Arbeidsvoorwaarden sector Politie 2008–2010

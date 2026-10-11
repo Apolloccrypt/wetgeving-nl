@@ -9,7 +9,7 @@ laatste_update: 2009-08-26
 status: geldig
 toestand: 2009-08-26
 bron: "https://wetten.overheid.nl/BWBR0026271"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 12 augustus 2009, houdende aanpassing van het Besluit rechtsbijstand- en toevoegcriteria en enkele andere besluiten terzake van een aantal onderwerpen van diverse aard (Verzamelbesluit rechtsbijstand 2009)

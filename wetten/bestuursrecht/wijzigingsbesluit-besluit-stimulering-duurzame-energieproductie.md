@@ -9,7 +9,7 @@ laatste_update: 2009-03-27
 status: geldig
 toestand: 2009-03-27
 bron: "https://wetten.overheid.nl/BWBR0025567"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 17 maart 2009, houdende wijziging van het Besluit stimulering duurzame energieproductie

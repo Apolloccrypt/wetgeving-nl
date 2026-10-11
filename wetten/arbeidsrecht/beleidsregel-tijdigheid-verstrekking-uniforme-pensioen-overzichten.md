@@ -9,7 +9,7 @@ laatste_update: 2009-05-16
 status: geldig
 toestand: 2009-05-16
 bron: "https://wetten.overheid.nl/BWBR0025835"
-opgehaald: 2026-08-13
+opgehaald: 2026-10-11
 ---
 
 # Beleidsregel van de Stichting Autoriteit Financiële Markten van 14 april 2009 inzake de tijdige verstrekking van het Uniform Pensioen Overzicht door een pensioenuitvoerder aan een deelnemer (Beleidsregel tijdigheid verstrekking Uniform Pensioen Overzichten)

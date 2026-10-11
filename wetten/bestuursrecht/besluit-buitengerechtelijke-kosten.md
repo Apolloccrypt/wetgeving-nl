@@ -9,7 +9,7 @@ laatste_update: 2018-01-01
 status: geldig
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0026012"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 25 juni 2009, houdende nadere regels inzake buitengerechtelijke kosten bij tenuitvoerlegging van dwangbevelen (Besluit buitengerechtelijke kosten)

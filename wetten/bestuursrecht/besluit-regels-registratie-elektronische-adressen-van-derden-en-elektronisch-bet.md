@@ -9,7 +9,7 @@ laatste_update: 2009-07-01
 status: geldig
 toestand: 2009-07-01
 bron: "https://wetten.overheid.nl/BWBR0025931"
-opgehaald: 2026-08-14
+opgehaald: 2026-10-11
 ---
 
 # Besluit van 2 juni 2009, houdende regels aangaande de registratie van elektronische adressen van derden en het elektronisch betekenen in geval van derdenbeslag
